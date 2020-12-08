@@ -1,0 +1,47 @@
+---
+unique-page-id: 1146976
+description: Verwenden Sie ein bestimmtes Datum in einem Schritt zum Wartefluss - Marketing zu Dokumenten - Produktdokumentation
+title: Verwenden eines bestimmten Datums in einem Schritt mit einem Wartefluss
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 0%
+
+---
+
+
+# Verwenden eines bestimmten Datums in einem Schritt mit einem Wartefluss {#use-a-specific-date-in-a-wait-flow-step}
+
+Mit dem Schritt zum **Warten** können Sie die Reise einer Person durch eine intelligente Kampagne bis zu einem bestimmten Datum anhalten.
+
+1. Ziehen Sie auf der Registerkarte &quot; **Fluss** intelligenter Kampagnen&quot;über den Schritt **&quot;Fluss** warten&quot;.
+
+   ![](assets/image2014-9-22-11-3a50-3a55.png)
+
+   Klicken Sie auf das Zahnradsymbol rechts.
+
+   ![](assets/image2014-9-22-11-3a50-3a59.png)
+
+   Wählen Sie aus der Dropdownliste Typ die Option Datum.
+
+   ![](assets/image2014-9-22-11-3a51-3a27.png)
+
+   Wählen Sie das spezifische Datum aus, an dem Sie fortfahren möchten.
+
+   ![](assets/image2014-9-22-11-3a51-3a20.png)
+
+   Geben Sie die Zeit an (optional) und klicken Sie auf Speichern.
+   ![](assets/image2014-9-22-11-3a51-3a13.png)
+
+>[!NOTE]
+>
+>**Verwandte Artikel**
+>
+>* [Verwenden einer Dauer in einem Wartezeitschritt](use-a-duration-in-a-wait-flow-step.md)
+>* [Verwenden eines Datums-Tokens in einem Wartezeitschritt](use-a-date-token-in-a-wait-flow-step.md)
+
+>
+
+
+
