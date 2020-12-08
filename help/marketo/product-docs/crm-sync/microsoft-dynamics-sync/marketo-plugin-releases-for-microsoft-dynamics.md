@@ -1,0 +1,112 @@
+---
+unique-page-id: 10099389
+description: Marketo Plugin Releases for Microsoft Dynamics - Marketing Docs - Produktdokumentation
+title: Marketo Plugin Releases for Microsoft Dynamics
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '348'
+ht-degree: 7%
+
+---
+
+
+# Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+
+Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version der Plugins für Marketo herunter. Marketo aktualisiert diese Plugins regelmäßig, sodass Sie zum selben Ort zurückkehren können, um die neue Version herunterzuladen.
+
+[Laden Sie das neueste Plugin](sync-setup/download-the-marketo-lead-management-solution.md) herunter, das Ihrem Dynamics Release entspricht.
+
+![](assets/lead-management-solution.png)
+
+Die nachstehende Tabelle zeigt die neuesten Versionen an.
+
+>[!NOTE]
+>
+>Diese Versionen können sowohl für lokale als auch für Online-Versionen von Dynamics verwendet werden.
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th colspan="1">Version</th> 
+   <th colspan="1">Releasedatum</th> 
+   <th>Hinweise</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.24</td> 
+   <td colspan="1">8/22/18</td> 
+   <td colspan="1">Die Unterstützung für vordefinierte Qualifizierungen führt jetzt zum Kontaktprozess für Microsoft Dynamics Version 9.x.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.23</td> 
+   <td colspan="1">6/27/18</td> 
+   <td colspan="1">Fehlerbehebung: Business Process Error beim Versuch, die Marketing Solutions for Dynamics 2013 zu installieren.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.22</td> 
+   <td colspan="1">9/29/17</td> 
+   <td colspan="1">Fehlerbehebung: Interne Revision.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><p>4.0.0.21</p></td> 
+   <td colspan="1">11/9/16</td> 
+   <td colspan="1">Fehlerbehebung: Das Zusatzmodul hat keine Ereignis abonniert, die die Statusänderung des benutzerdefinierten Objekts erfassen. Diese Fehlerbehebung ist spezifisch für Dynamics CRM On Premise 2011. </td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.20</td> 
+   <td colspan="1">7/22/16</td> 
+   <td colspan="1">Fehlerbehebung: Aktualisierungen der Kontaktrolle "Chancen"wurden nicht vollständig erfasst.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.19</td> 
+   <td colspan="1">6/28/16</td> 
+   <td colspan="1"><p>Fehlerbehebung: Bei der Erstellung der Gelegenheit wurde eine unnötige Updatetransaktion zur Rolle "Customer Opportunity"im Marketing zur Kenntnis genommen. </p><p>Fehlerbehebung: Beim Löschen der Entität für Kundenopportunität wurde eine zusätzliche Löschtransaktion protokolliert.</p></td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.18</td> 
+   <td colspan="1">5/31/16</td> 
+   <td colspan="1">Fehlerbehebung:  Aktualisierung und Löschen von benutzerdefinierten Objekten asynchron.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.17</td> 
+   <td colspan="1">4/8/16</td> 
+   <td colspan="1">Fehlerbehebung: Wenn für den Interessenten ein Synchronisierungsfilter auf "NO"festgelegt war und die Gelegenheit und der Kontakt keinen Synchronisierungsfilter hatten, wurde das Protokoll "Erstellen"nicht für Kontakt und Gelegenheit generiert, wenn der Interessent qualifiziert war.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">3/29/16</td> 
+   <td>Fehlerbehebung: Ein Assign-Ereignis wurde protokolliert, wenn der Synchronisierungsfilter deaktiviert wurde.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.15</td> 
+   <td colspan="1">3/3/16</td> 
+   <td colspan="1">Fehlerbehebung: Der Kunde konnte keinen Interessenten in CRM erstellen, da der Anmeldename-Benutzer nicht über die Berechtigung "Marketing-Konfiguration"verfügte.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.14</td> 
+   <td colspan="1">1/18/16</td> 
+   <td colspan="1">Fehlerbehebung: Erstellt Zugriffsbeschränkungen für normale Dynamics Benutzer, um Sicherheitsbedenken auszuräumen.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.13</td> 
+   <td colspan="1">12/30/15</td> 
+   <td>Fehlerbehebung: Aktualisierungen in Dynamics wurden nicht mit Marketo synchronisiert, um Schritte und Bilder zu erhalten.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.12</td> 
+   <td colspan="1">11/12/15</td> 
+   <td colspan="1">Fehlerbehebung: Interessentendatensätze wurden mit Marketo synchronisiert, wenn der Synchronisierungsfilter auf "false"festgelegt war.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
+>[!NOTE]
+>
+>**Verwandte Artikel**
+>
+>* [Laden Sie die Marketing-Interessentenverwaltungslösung herunter](sync-setup/download-the-marketo-lead-management-solution.md)
+
+>
+
+
+
