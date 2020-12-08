@@ -1,0 +1,64 @@
+---
+unique-page-id: 2953467
+description: SFDC-Synchronisierung - Opportunity Sync - Marketing Docs - Produktdokumentation
+title: SFDC-Synchronisierung - Opportunity Sync
+translation-type: tm+mt
+source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 0%
+
+---
+
+
+# SFDC-Synchronisierung: Chancen-Synchronisierung {#sfdc-sync-opportunity-sync}
+
+## Wie werden Opportunitätsdetails zwischen den beiden Systemen synchronisiert? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
+
+Die Synchronisierung erfolgt auf eine Weise: von Salesforce bis Marketo. Aktualisierungen der Möglichkeiten in Salesforce werden mit Marketo synchronisiert.
+
+>[!NOTE]
+>
+>Die [Anmeldeinformationen, die Sie in Marketo für Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) eingeben, werden zum Synchronisieren der Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
+
+## Kann ich eine Opportunity Sync starten? {#can-i-initiate-an-opportunity-sync}
+
+Nein, das kannst du nicht. Die Änderungen an allen Möglichkeiten in Salesforce werden automatisch mit Marketo synchronisiert.
+
+## Unterstützt Marketo mehr als eine Währung im Opportunity Amount? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
+
+Nein, Marketo unterstützt nur eine Währung. Der Opportunitätsbetrag wird von Salesforce synchronisiert, aber die Währung ist die [Standardwährung](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) in Ihrem Marketing-Abonnement.
+
+## Wie verbindet Marketo Chancen und Kontakte? {#how-does-marketo-associate-opportunities-and-contacts}
+
+Marketo assoziiert Chancen und Kontakte mit [Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Gelegenheiten ohne zugewiesene Kontaktrollen werden mit Marketo synchronisiert, gehören aber niemandem. Beispielsweise wird der Filter &quot;Hat Gelegenheit&quot;nicht für die Person qualifiziert.
+
+## Wie kann ich alle Möglichkeiten einer Person sehen? {#how-can-i-see-all-the-opportunities-of-a-person}
+
+Sie können eine Liste von Möglichkeiten auf der Registerkarte &quot; **Informationen** zu Chancen&quot;auf der Seite &quot; [Details](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) der Person&quot;Ansicht haben.
+
+## Was sind die Auslöser/Filter im Zusammenhang mit Chancen? {#what-are-the-triggers-filters-related-to-opportunity}
+
+Auslöser:
+
+* Der Gelegenheit hinzugefügt
+* Aus Gelegenheit entfernt
+* Chancen werden aktualisiert
+
+Filter:
+
+* Hat Chancen
+* Gelegenheit wurde aktualisiert/Keine Gelegenheit wurde aktualisiert
+* Der Möglichkeit hinzugefügt/Nicht der Möglichkeit hinzugefügt
+* Aus der Gelegenheit entfernt/Nicht aus der Gelegenheit entfernt
+* Optimalbetrag gesamt
+* Anzahl der Optionen
+* Erwarteter Gesamtumsatz der Option
+
+>[!TIP]
+>
+>Sehen Sie sich die Einschränkungen für Filter und Auslöser an. Viele coole Details.
+>
+>Machen Sie einfach ein neues Feld im Opportunitätsobjekt in Salesforce und es wird automatisch eine Einschränkung!
+
+Marketo verfügt über die beste Salesforce-Synchronisierung der Welt!
