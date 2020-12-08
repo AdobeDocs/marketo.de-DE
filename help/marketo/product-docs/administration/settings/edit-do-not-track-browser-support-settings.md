@@ -1,0 +1,58 @@
+---
+unique-page-id: 6095047
+description: Browserunterstützungseinstellungen "Nicht verfolgen"bearbeiten - MarketingTo Docs - Produktdokumentation
+title: Browserunterstützungseinstellungen "Nicht verfolgen" bearbeiten
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '185'
+ht-degree: 0%
+
+---
+
+
+# Browserunterstützungseinstellungen &quot;Nicht verfolgen&quot; bearbeiten {#edit-do-not-track-browser-support-settings}
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+&quot;Nicht verfolgen&quot;ist eine Browseranforderung, die in Systemen wie Marketo nicht verfolgt werden kann. Sie können diese Anforderung mit den folgenden Schritten berücksichtigen.
+
+>[!NOTE]
+>
+>**Administratorberechtigungen erforderlich**
+
+>[!NOTE]
+>
+>&quot;Nicht verfolgen&quot;ist standardmäßig auf &quot;Ignorieren&quot;eingestellt. Wenn Sie das also möchten, müssen Sie keine Schritte unternehmen.
+
+1. Klicken Sie auf** Admin**.
+
+   ![](assets/one.png)
+
+1. Klicken Sie auf **Munchkin**.
+
+   ![](assets/two.png)
+
+1. Klicken Sie unter **Personenverfolgung** auf **Bearbeiten**.
+
+   ![](assets/three-2.png)
+
+1. Wählen Sie **Support** und klicken Sie auf **Speichern**.
+1. ![](assets/four-1.png)
+
+   Nach dem Speichern der Änderungen wird das Update angezeigt.
+
+   ![](assets/five-1.png)
+
+   >[!NOTE]
+   >
+   >Die bewährte Methode besteht darin, die Funktion &quot;Nicht verfolgen&quot;zu unterstützen. In Europa ist es das Gesetz!
+
+   >[!TIP]
+   >
+   >Weitere Informationen zu &quot;Do Not Track&quot; und dazu, wie es funktioniert, finden Sie auf [dieser Seite](https://en.wikipedia.org/wiki/Do_Not_Track).
+
