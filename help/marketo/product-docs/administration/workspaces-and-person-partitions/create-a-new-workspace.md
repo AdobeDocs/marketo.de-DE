@@ -1,0 +1,94 @@
+---
+unique-page-id: 2360311
+description: Erstellen eines neuen Arbeitsbereichs - Marketing-Dokumente - Produktdokumentation
+title: Neue Arbeitsfläche erstellen
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '276'
+ht-degree: 0%
+
+---
+
+
+# Neue Arbeitsfläche erstellen {#create-a-new-workspace}
+
+Arbeitsbereiche sind hilfreich, um Ihre Firma zu unterteilen. Gründe für die Einrichtung von Arbeitsbereichen sind unter anderem:
+
+* Geografie: Europe Marketing Operations vs. North America Marketing Operations
+* Business Unit A vs. Business Unit B
+
+So erstellen Sie einen neuen Arbeitsbereich.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+>[!NOTE]
+>
+>**Administratorberechtigungen erforderlich**
+
+>[!NOTE]
+>
+>**Tieftauchen**
+>
+>Machen Sie sich mit [Arbeitsbereichen und Benutzerpartitionen](understanding-workspaces-and-person-partitions.md)vertraut.
+
+>[!NOTE]
+>
+>Weitere Informationen zu den Best Practices von Workspace erhalten Sie bei [Marketing Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+
+1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
+
+   ![](assets/image2014-9-17-11-3a59-3a11.png)
+
+1. Klicken Sie auf **Neuer Arbeitsbereich**.
+
+   ![](assets/two-1.png)
+
+1. Geben Sie einen** Namen** ein und wählen Sie die **Benutzerpartition(en)** aus, die Sie verwenden möchten. Wählen Sie eine **Primär**-Personenpartition.
+
+   >[!NOTE]
+   >
+   >**Erinnerung**
+   >
+   >
+   >Stellen Sie sicher, dass Sie [persönliche Partitionen](create-a-person-partition.md) erstellen, wenn Sie dies nicht bereits getan haben.
+
+   ![](assets/three-1.png)
+
+   >[!NOTE]
+   >
+   >Das Kontrollkästchen **Partitionen** aller Personen** **bedeutet, dass dieser Arbeitsbereich alle Partitionen der Person im System verwenden kann.
+
+   >[!NOTE]
+   >
+   >**Erinnerung**
+   >
+   >
+   >Die** primäre Personenpartition** fungiert als Standard und ist dort, wo alle Personen zugewiesen werden.
+
+   Wenn Sie mehrere Markendomänen aktiviert haben, müssen Sie eine primäre Markendomäne auswählen.
+
+   ![](assets/four-1.png)
+
+   Wählen Sie die Arbeitsflächensprache aus.
+
+   >[!NOTE]
+   >
+   >Nach der Erstellung startet Marketo Beispielelemente im Arbeitsbereich. Die Sprache erlaubt es, dass diese übergebenen Objekte in einer nicht-englischen Sprache vorliegen.
+
+   ![](assets/five.png)
+
+1. Klicken Sie auf **Erstellen**.
+
+   ![](assets/six.png)
+
+   Erstellen Sie so viele Arbeitsbereiche wie nötig und weisen Sie ihnen die entsprechenden Personenpartitionen zu.
+
+   Nachdem Sie Ihren Arbeitsbereich erstellt haben, sollten Sie das Update sehen!
+
+   ![](assets/image2014-9-17-15-3a39-3a10.png)
+
