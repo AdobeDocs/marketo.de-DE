@@ -1,0 +1,59 @@
+---
+unique-page-id: 2949841
+description: Ereignis-Programme - Marketing-Dokumente - Produktdokumentation
+title: Ereignis-Programme
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 0%
+
+---
+
+
+# Ereignis-Programme {#understanding-event-programs}
+
+>[!NOTE]
+>
+>**Verfügbarkeit**
+>
+>Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+
+## Übersicht {#overview}
+
+Ein Ereignis-Programm ist eine Art Programm, das zur Automatisierung Ihrer Offline- oder Online-Ereignis verwendet werden kann. Ein Ereignis-Programm ist alles, was zu einem bestimmten Zeitpunkt und zu einem bestimmten Zeitpunkt besucht wird.
+
+>[!NOTE]
+>
+>**Beispiel**
+>
+>* Webinare
+>* Vertragsparteien
+>* Diashows
+>* Sitzungen
+
+>
+
+
+
+Ereignis können automatisch eine Verbindung zu Ihrem [Webinar-Provider](launchpoint-event-partners.md) herstellen und mit einer [iPad-Check-in-App](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)synchronisieren.
+
+## Video ansehen {#watch-a-video}
+
+`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+
+>[!NOTE]
+>
+>**Verwandte Artikel**
+>
+>Beginnen Sie noch heute mit den folgenden hilfreichen Links:
+>
+>* [Neues Ereignis-Programm erstellen](create-a-new-event-program.md)
+   >
+   >
+* [LaunchPoint Ereignis Partners](launchpoint-event-partners.md)
+
+>
+
+
+
