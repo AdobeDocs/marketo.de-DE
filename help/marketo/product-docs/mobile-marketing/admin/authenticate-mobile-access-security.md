@@ -1,0 +1,45 @@
+---
+unique-page-id: 10096158
+description: Authentifizieren Sie Mobile Access Security - Marketing Docs - Produktdokumentation
+title: Authentifizieren der Sicherheit für den Zugriff auf Mobilgeräte
+translation-type: tm+mt
+source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+workflow-type: tm+mt
+source-wordcount: '146'
+ht-degree: 0%
+
+---
+
+
+# Authentifizieren der Sicherheit für den Zugriff auf Mobilgeräte {#authenticate-mobile-access-security}
+
+Zur Verbesserung der Sicherheit für Mobile-Benutzer stellt Marketo zwei neue IDs bereit: den Zugriffsschlüssel und den Zugriffsschlüssel. Diese stellen sicher, dass die Benutzer, die sich bei Ihrer App anmelden, tatsächlich die Personen sind, die sie zu sein scheinen.
+
+Um die IDs zu aktivieren, müssen Sie die Codes erwerben und sie Ihrer IT-Abteilung bereitstellen, damit sie eine sichere Übereinstimmung einrichten können.
+
+>[!NOTE]
+>
+>**Voraussetzungen**
+>
+>Wenden Sie sich zur Aktivierung dieser Funktion an den Support und fordern Sie &quot;Vespa Secure Mode&quot;an.
+
+1. Wählen Sie in Marketo **Admin **und klicken Sie auf **Mobile Apps and Devices**.
+
+   ![](assets/image2015-12-1-14-3a36-3a30.png)
+
+1. Wählen Sie die mobile App aus, für die Sie sicheren Zugriff aktivieren möchten.
+
+   ![](assets/image2015-12-2-10-3a18-3a6.png)
+
+1. Blättern Sie nach unten und klicken Sie im Abschnitt Zugriffssicherheit auf **Bearbeiten**.
+
+   ![](assets/image2015-12-1-14-3a41-3a37.png)
+
+1. Aktivieren Sie das Kontrollkästchen** Sicherheit aktivieren**. Klicken Sie auf **Speichern**.
+
+   ![](assets/image2015-12-1-14-3a54-3a0.png)
+
+1. Im Bereich Zugriffssicherheit werden nun die beiden neuen Codes angezeigt. Senden Sie diese unbedingt an Ihre IT-Abteilung.
+
+   ![](assets/image2015-12-1-14-3a57-3a34.png)
+
