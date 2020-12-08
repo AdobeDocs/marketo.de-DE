@@ -1,5 +1,5 @@
 ---
-source-git-commit: 394be8f9a301fae26dbe3d397623eb2921b8fbf1
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
 translation-type: tm+mt
 source-wordcount: '170'
@@ -8,7 +8,7 @@ ht-degree: 0%
 ---
 # MIT-Lizenz
 
-© Copyright 2018 Adobe. Alle Rechte vorbehalten.
+© Copyright 2020 Adobe. Alle Rechte vorbehalten.
 
 Jede Person, die eine Kopie dieser Software und dazugehöriger Dokumentationsdateien (die &quot;Software&quot;) erhält, wird hiermit unentgeltlich ermächtigt, die Software uneingeschränkt zu verarbeiten, einschließlich der Rechte zur Verwendung, zum Kopieren, Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenz und/oder zum Verkauf der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies zu gestatten, sofern folgende Bedingungen erfüllt sind:
 
