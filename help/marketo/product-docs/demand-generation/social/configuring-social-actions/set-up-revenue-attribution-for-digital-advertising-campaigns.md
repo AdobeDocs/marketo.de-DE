@@ -1,0 +1,148 @@
+---
+unique-page-id: 10098812
+description: Einrichten der Umsatzzuordnung für Digital Advertising Kampagnen - Marketing Docs - Produktdokumentation
+title: Einrichten der Umsatzzuordnung für Digital Advertising-Kampagnen
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '912'
+ht-degree: 0%
+
+---
+
+
+# Einrichten der Umsatzzuordnung für Digital Advertising-Kampagnen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+Hier sehen Sie, wie Sie die Umsatzzuordnung für Kanal und Kampagnen digitaler Werbung einrichten. Nach der Einrichtung können Sie für digitale Anzeigen First Touch- und Multi-Touch-Umsätze auf die gleiche Weise wie in anderen Marketo-Programmen zuordnen.
+
+Nachdem Sie Ihr erstes Programm in Marketo eingerichtet haben, können Sie es klonen und für andere Kanal aktualisieren. Klonen Sie beispielsweise ein LinkedIn-Programm mit einem Facebook-Element.
+
+Mit separaten Programmen können Sie dann die Anzahl der Konvertierungen aus jedem  verfolgen und Ihre Programm in Programm Analyzer, Opportunity Influence Analyzer und anderen Marketingto Analytics-Funktionen anzeigen.
+
+>[!NOTE]
+>
+>**Voraussetzungen**
+>
+>* Richten Sie ein Kanal-Tag mit Statuswerten und Programm-Erfolg ein (z. B. Digital Advertising oder Social Paid und PPC)
+>* Erstellen oder bearbeiten Sie ein Formular, um eine Abfrage-Zeichenfolge mit der Person zu übergeben
+>* Vergewissern Sie sich, dass Sie Zugriff auf einige Analytics-Funktionen von &quot;Umsatz&quot;haben, um Berichte zu Ihren Kanälen und Kampagnen der Anzeige zu erstellen.
+
+>
+
+
+
+## Erstellen eines Standard-Programms {#create-a-default-program}
+
+Im Gegensatz zu einigen Programmen (z. B. E-Mail), die für einen bestimmten Zeitraum in regelmäßigen Abständen ausgeführt werden, sind die standardmäßigen Programm immer aktiviert.
+
+1. Gehen Sie zu **Marketing-Aktivitäten**.
+
+   ![](assets/login-marketing-activities-5.png)
+
+1. Klicken Sie auf **Neu** und wählen Sie **Neues Programm**.
+
+   ![](assets/image2016-3-14-15-52-0.png)
+
+1. Wenn Sie bereits ein Programm eingerichtet haben, können Sie es [klonen](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+
+   >[!TIP]
+   >
+   >Wenn Sie ein Programm klonen, müssen Sie die Namen in den Abfragen-Zeichenfolgenfeldern der intelligenten Listen ersetzen.
+
+1. Platzieren Sie das neue Programm in einem bestimmten Kampagnen-Ordner, nachdem das erste Programm festgelegt wurde.
+
+   >[!NOTE]
+   >
+   >**Beispiel**
+   >
+   >
+   >Eine Abfrage-Zeichenfolge, die über die URL weitergegeben wird, hilft Marketo zu wissen, auf welche Kampagne eine Person geklickt hat, als sie in Marketo tätig wurde.
+   >
+   >
+   >Sie können eine Abfrage-Zeichenfolgenmethodik erstellen, die alle zu messenden Variablen enthält. Marketo verwendet diese Variablen, um Personen zu Ihren verschiedenen Programmen hinzuzufügen.
+   >
+   >
+   >Sie können beispielsweise Kanal type_Kanal__Asset__Region verwenden. Das könnte so aussehen: SP_FB_NewGuide_US. **Hinweis**: Abkürzungen sparen Platz.
+   >
+   >
+   >Sie können es auch als Kanal_Adsource_AssetName_Region_UniqueIdNumber einrichten. Das könnte so aussehen: Social-Paid_Facebook_NewGuide_NA_123.
+
+## Intelligente Kampagne für neue Namen erstellen {#create-a-smart-campaign-for-new-names}
+
+1. Erstellen Sie in der intelligenten Kampagne eine intelligente Liste, die, wie gezeigt, zwei Auslöser und zwei Filter enthält.
+
+   ![](assets/image2016-3-23-13-3a59-3a24.png)
+
+   >[!NOTE]
+   >
+   >Die in den beiden Auslösern verwendete Zeichenfolge für die Abfrage und der Filter &quot; **Programm, das den erfassten Namen** erfasst hat&quot;sind für Sie eindeutig. Die hier gezeigten Abfragen-Zeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
+
+1. Erstellen Sie einen Flussschritt, um das Attribut in &quot; **Akquise-Programm** &quot;zu ändern und den Neuen Wert auf den Wert festzulegen, den Sie für gebührenpflichtige Social-Kampagnen definiert haben.
+
+   ![](assets/image2016-3-14-14-3a58-3a6.png)
+
+1. Planen und aktivieren Sie die Kampagne.
+
+## Intelligente Kampagne für Status-/Programm-Erfolg erstellen {#create-a-smart-campaign-for-status-program-success}
+
+Sie benötigen eine zweite intelligente Kampagne, um den Status von Personen zu ändern, damit sie Programm erfolgreich erzielen und in Umsatzzuordnungsberechnungen einbezogen werden können.
+
+1. Geben Sie im Auslöser &quot; **Ausfüllbares Formular** &quot;den Programm in die Abfrage-Zeichenfolge ein. Wenn Sie das Programm klonen, ersetzen Sie einfach den alten Abfragen-Zeichenfolgennamen durch den neuen.
+
+   ![](assets/image2016-3-23-14-3a7-3a20.png)
+
+1. Erstellen Sie die Flussschritte, um den Status in einen Status zu ändern, der mit dem Erfolg des Programms verknüpft ist.
+
+   ![](assets/image2016-3-14-15-3a9-3a29.png)
+
+   >[!NOTE]
+   >
+   >Das obige Beispiel zeigt **Konvertiert, **aber dies hängt von Ihren Status-/Erfolgswerten ab.
+
+1. Planen und aktivieren Sie die Kampagne.
+
+## Erstellen Ihrer Anzeige {#create-your-ad}
+
+Nachdem Sie das Programm und die Kampagnen eingerichtet haben, erstellen Sie die neue Anzeige.
+
+1. Geh zum Kanal; z. B. LinkedIn oder Facebook.
+1. Erstellen Sie eine neue Anzeige.
+1. Wählen Sie eine Marketing-Landingpage als Ziel für den Aktionsaufruf in der Kampagne aus.
+1. hinzufügen die Abfrage-Zeichenfolge der URL.
+
+   >[!NOTE]
+   >
+   >**Beispiel**
+   >
+   >
+   >So können Sie alle von Ihnen eingerichteten Informationen zu einer tatsächlichen URL hinzufügen. Die Elemente werden durch ein kaufmännisches Und (&amp;) getrennt:
+   >
+   >
+   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
+   >
+   >    
+   >    
+   >    * **source** ist die Personenquelle, die als Kanal-ID verwendet wird.
+   >    * **comment** ist der eindeutige Bezeichner, der für jedes Programm erstellt wurde.
+   >    * **camp** ist die Kampagne in Facebook, LinkedIn oder Google
+   >    * **kk** ist der Suchbegriff oder Asset-Name, den Sie erfassen möchten
+
+   >    
+   >    
+   >**Diese vier Begriffe müssen klein geschrieben sein, und es dürfen keine Leerzeichen in der URL vorhanden sein, damit diese Informationen erfasst werden.**
+
+## Best Practices {#best-practices}
+
+Verwenden Sie ein einzelnes Kanal-Tag zur Darstellung aller digitalen Werbung oder mehrere Kanal-Tags, wenn Sie genauere Vergleiche mit anderen Marketing-Kanälen anstellen möchten (z. B. Social-Paid, Search-Paid, Display, Retargeting).
+
+Richten Sie dann für jede Berichte-Ansicht, die Sie benötigen, unterschiedliche Programm ein. Verwenden Sie eine allgemeine ID als Parameter in der URL (z. B. BC) in der Abfrage-Zeichenfolge, wenn 10 Regionen eine &quot;Große Kampagne&quot;gemeinsam starten und die Ergebnisse regionsübergreifend Ansicht werden sollen.
+
+Wenn Sie über jede Region und die kollektiven Ergebnisse der Großen Kampagne berichten möchten, erstellen Sie elf Programme - eines für jede Region und eines für die Große Kampagne. Jedes Programm verweist nur auf die relevanten Zeichen aus der Abfrage (z. B. BC).
+
+Es gibt absichtliche Überschneidungen bei der Personenzahl zwischen den Programmen der Großen Kampagne und der Region, sodass Sie nicht über die Gesamtanzahl der Menschen in allen 11 Programmen berichten möchten, da einige Menschen sowohl in der Großen Kampagne als auch in einem der Programme der Region leben.
