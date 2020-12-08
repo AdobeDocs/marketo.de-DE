@@ -1,0 +1,52 @@
+---
+unique-page-id: 2949283
+description: Senden und Verfolgen von Outlook mit einer Marketing-Vorlage - Marketing-Dokumente - Produktdokumentation
+title: Senden und Verfolgen von Outlook mit einer Marketing-Vorlage
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '143'
+ht-degree: 0%
+
+---
+
+
+# Senden und Verfolgen von Outlook mit einer Marketing-Vorlage {#send-and-track-from-outlook-using-a-marketo-template}
+
+Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie mit diesen Vorlagen Zeit sparen, wenn Sie Ihre E-Mails zusammenstellen.
+
+1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Nachricht**.
+
+   ![](assets/image2014-9-23-17-3a8-3a33.png)
+
+1. Wählen Sie die gewünschte Vorlage aus, erstellen Sie eine Vorschau und klicken Sie auf **OK**.
+
+   ![](assets/image2014-9-23-17-3a8-3a45.png)
+
+1. Nehmen Sie alle Änderungen vor und klicken Sie dann auf **Senden und Verfolgen**.
+
+   ![](assets/image2014-9-23-17-3a8-3a58.png)
+
+   >[!NOTE]
+   >
+   >**Erinnerung**
+   >
+   >
+   >Tokens werden vom Add-In nicht unterstützt. Entfernen Sie alle Elemente, die sich möglicherweise in der Vorlage befinden.
+
+1. Sehen Sie sich die Vorschau an, stellen Sie sicher, dass sie gut aussieht, und klicken Sie dann auf **Senden**.
+
+   ![](assets/image2014-9-23-17-3a9-3a11.png)
+
+   Und da gehst du! Sie konnten eine Menge Zeit sparen, indem Sie Vorlagen verwenden, die Ihr super tolles Marketing-Team für Sie erstellt hat.
+
+>[!NOTE]
+>
+>**Verwandte Artikel**
+>
+>* [Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing ein](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+
+>
+
+
+
