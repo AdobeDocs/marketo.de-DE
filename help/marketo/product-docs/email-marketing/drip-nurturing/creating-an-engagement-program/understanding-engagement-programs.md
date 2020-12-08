@@ -1,0 +1,120 @@
+---
+unique-page-id: 2359647
+description: Einblick in die Programme der Interaktion - Marketing-Dokumente - Produktdokumentation
+title: Einblick in die Programme der Interaktion
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 0%
+
+---
+
+
+# Einblick in die Programme der Interaktion {#understanding-engagement-programs}
+
+Interaktions-Programme sind so konzipiert, dass sie neue Menschen vermarkten, indem sie ihnen systematisch Inhalte präsentieren.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+>[!NOTE]
+>
+>Pro Abonnement sind maximal 100 **aktive** Interaktions-Programm zulässig.
+
+## Programm der Interaktion {#engagement-program}
+
+Ein **Interaktionsprogramm pr****ogramm** ist eine Art Programm, das komplexe Pflege mit Leichtigkeit durchführen kann.
+
+![](assets/image2014-9-15-15-3a24-3a57.png)
+
+Verwandter Artikel:
+
+* [Interaktives Programm erstellen](create-an-engagement-program.md)
+
+## Stream {#stream}
+
+Ein **Stream** ist ein Pool von priorisierten Inhalten, die das Interaktions-Programm zur Förderung von Menschen verwenden wird.
+
+![](assets/image2014-9-15-15-3a25-3a4.png)
+
+Verwandte Artikel:
+
+* [hinzufügen eines Streams](add-a-stream.md)
+* [Stream klonen](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
+
+## Inhalt {#content}
+
+Es gibt zwei Arten von **Inhalten** , die Sie zu Interaktions-Programm-Streams hinzufügen können: E-Mails und Programms. E-Mails werden zur Besetzungszeit gesendet.
+
+![](assets/image2014-9-15-15-3a25-3a18.png)
+
+Verwandte Artikel:
+
+* [hinzufügen von Inhalten in einem Stream](add-content-to-a-stream.md)
+* [Stream-Inhalte priorisieren](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+* [Verfügbarkeit von Stream-Inhalten bearbeiten](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+* [Stream-Inhalte entfernen](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+* [Archivieren und Archivieren von Stream-Inhalten](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
+
+## Cast {#cast}
+
+Eine **Besetzung** ist das Ereignis, E-Mails von einem Interaktions-Programm zu senden.
+
+>[!NOTE]
+>
+>Interaktions-Programm sind nicht für die Verwendung mit operativen E-Mails ausgelegt.
+
+## Stream-Kadenz {#stream-cadence}
+
+Sie entscheiden, wann eine Besetzung stattfindet, indem Sie **Stream-Kadenz** einrichten. Auf diese Weise planen Sie, dass Inhalte in regelmäßigen Abständen ausgeführt werden.
+
+` ![](assets/image2014-9-15-15-3a25-3a27.png)
+
+`
+
+Verwandter Artikel:
+
+* [Stream-Kadenz festlegen](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+
+## Personenkadenz {#person-cadence}
+
+Eine **Personenkadenz** ist ein Status, der ihre Fähigkeit definiert, Inhalte von einem Interaktionswerkzeug zu empfangen. Sie können diesen Schritt im Schritt zum Ändern der **Programm-Kadenz** ändern in Angehalten oder Normal ändern.
+
+` ![](assets/image2014-9-15-15-3a25-3a55.png)
+
+`
+
+## Abgase {#exhausted}
+
+Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Person **Abtransportiert**.
+
+![](assets/image2014-9-15-15-3a26-3a5.png)
+
+>[!NOTE]
+>
+>**Verwandte Artikel**
+>
+>* [Personen mit abgelaufenem Inhalt](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+
+>
+
+
+
+## Content-Interaktionsstufe {#content-engagement-level}
+
+Die Ebene der Inhaltsinteraktion ist ein 0 bis 100-Punkt-Ergebnis, das Marketo Ihrem Inhalt geben wird. Diese Zahl wird durch eine ausgefeilte Formel ermittelt, bei der die Faktoren &quot;open&quot;, &quot;clicks&quot;, &quot;unsubscribes&quot;, &quot;Programm success&quot;und andere Faktoren eingesetzt werden.
+
+>[!NOTE]
+>
+>**Verwandte Artikel**
+>
+>* [Einsatzergebnis](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
+
+>
+
+
+
