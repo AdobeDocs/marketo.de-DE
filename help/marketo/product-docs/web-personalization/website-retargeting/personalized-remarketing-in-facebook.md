@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Personalisierte Remarketing in Facebook - Marketing Docs - Produktdokumentation
 title: Personalisierte Remarketing in Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leistungsfähigkeit von Facebook Remarketing wieder mit Ihren Benutzern interagieren.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* Führen Sie die [Einrichtung zur Retargeting mit Web-Personalisierungsdaten](retargeting-with-web-personalization-data.md) durch
 >* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook-Dokumentation zu benutzerdefinierten [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Zielgruppen und Remarketing.
