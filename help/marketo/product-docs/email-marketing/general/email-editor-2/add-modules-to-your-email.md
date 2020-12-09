@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: hinzufügen Module für Ihre E-Mail - Marketing Docs - Produktdokumentation
 title: hinzufügen Module zu Ihrer E-Mail
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Es gibt zwei Möglichkeiten, ein Modul zu verschieben.
 
 Das ist alles, was dazu da ist.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Syntax der E-Mail-Vorlage](email-template-syntax.md)
 
