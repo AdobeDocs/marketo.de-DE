@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: Champion/Challenger - Gesamte E-Mails - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - ganze E-Mails
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie die leistungsstärkste Version.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen eines E-Mail-Champions/Challenger](add-an-email-champion-challenger.md)
 
