@@ -3,9 +3,9 @@ unique-page-id: 7514009
 description: Informationen zum Bereich Programm Revenue Stage Analyse - Marketing Docs - Produktdokumentation
 title: Die Analyse der Programm-Umsatzstufe
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -151,8 +151,6 @@ Um verfügbare Dimensionen oder Maßeinheiten in einer Kategorie Ansicht, klicke
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Erstellen eines Berichts für den Umsatz-Explorer](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
