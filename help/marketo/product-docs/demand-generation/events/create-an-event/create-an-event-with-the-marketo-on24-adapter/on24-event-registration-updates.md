@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: ON24 Ereignis Registration Updates - Marketing Docs - Produktdokumentation
 title: ON24-Ereignis-Registrierungsaktualisierungen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Wenn eine Person nicht registriert, sondern stattdessen auf den Status Registrie
 
 Marketo holt die Anwesenheitsinformationen automatisch um ca. 23.00 Uhr Pazifik pro Nacht ein. Um die Anwesenheitsinformationen manuell zu aktualisieren, klicken Sie unter &quot; **Ereignis-Aktionen&quot;auf &quot;Von Webinar-Anbieter** **aktualisieren&quot;**.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
 
