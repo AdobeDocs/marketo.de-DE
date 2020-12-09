@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Übersicht über Sales Connect - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Sales Connect
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Erstellen Sie eine einfache intelligente Kampagne, um Ihren Vertriebsmitarbeiter
 
 Sind Sie bereit, loszulegen? Für Installationsanweisungen klicken Sie auf den unten stehenden Link.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erste Schritte mit Sales Connect](http://docs.marketo.com/x/coTS)
 
