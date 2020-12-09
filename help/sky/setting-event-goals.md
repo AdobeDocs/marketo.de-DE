@@ -2,7 +2,7 @@
 title: setting-Ereignis-tasks
 description: Einrichten von Ereignis-Zielen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 
    ![Bild zwei](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Geben Sie das Ziel für [!UICONTROL Registrierte] und [!UICONTROL teilnehmende]Personen ein und klicken Sie dann auf [!UICONTROL **Erstellen**] ([!UICONTROL Beschreibung] und [!UICONTROL Bezeichnungen] sind optional).
+1. Geben Sie das Ziel für [!UICONTROL Registrierte] und [!UICONTROL teilnehmende]Personen ein und klicken Sie dann auf **[!UICONTROL Erstellen]** ([!UICONTROL Beschreibung] und [!UICONTROL Bezeichnungen] sind optional).
 
    ![Bild eins](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
