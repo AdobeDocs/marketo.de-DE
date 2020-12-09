@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Verwenden einer globalen Überlagerung - Marketing Docs - Produktdokumentation
 title: Verwenden einer globalen Überlagerung
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Mit der globalen Überlagerung in der Ansicht &quot;Programmplanung&quot;können Sie Ihr Programm in Bezug auf andere geplante Assets anzeigen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie benötigen eine [Marketing-Kalender-Lizenz](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) , um diese Funktion nutzen zu können.
 
