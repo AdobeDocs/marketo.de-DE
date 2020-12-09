@@ -3,9 +3,9 @@ unique-page-id: 7514149
 description: Namensnennungsbeispiel 3 - Marketing Docs - Produktdokumentation
 title: Zuordnungsbeispiel 3
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 
 Probieren Sie alle Beispiele aus und Sie werden ein Zuordnungs-Pro!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Zuordnungsbeispiel 1](attribution-example-1.md)
 >* [Zuordnungsbeispiel 2](attribution-example-2.md)
