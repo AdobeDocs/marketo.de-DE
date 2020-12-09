@@ -3,9 +3,9 @@ unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketing Docs - Produktdokumentation
 title: Marketo Plugin Releases for Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '346'
 ht-degree: 7%
 
 ---
@@ -60,7 +60,7 @@ Die nachstehende Tabelle zeigt die neuesten Versionen an.
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>Fehlerbehebung: Bei der Erstellung der Gelegenheit wurde eine unnötige Updatetransaktion zur Rolle "Customer Opportunity"im Marketing zur Kenntnis genommen. </p><p>Fehlerbehebung: Beim Löschen der Entität für Kundenopportunität wurde eine zusätzliche Löschtransaktion protokolliert.</p></td> 
+   <td colspan="1"><p>Fehlerbehebung: Bei der Erstellung der Gelegenheit wurde eine unnötige Updatetransaktion zur Rolle "Customer Opportunity"im Marketing zur Kenntnis genommen. </p><p>Fehlerbehebung: Beim Löschen der Entität für die Kundenberechtigung wurde eine zusätzliche Löschtransaktion protokolliert.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
@@ -100,13 +100,7 @@ Die nachstehende Tabelle zeigt die neuesten Versionen an.
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Laden Sie die Marketing-Interessentenverwaltungslösung herunter](sync-setup/download-the-marketo-lead-management-solution.md)
-
->
-
-
 
