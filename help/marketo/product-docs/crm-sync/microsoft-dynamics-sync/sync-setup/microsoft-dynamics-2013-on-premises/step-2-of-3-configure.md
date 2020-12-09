@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: Schritt 2 von 3 - Konfigurieren des Synchronisierungsbenutzers für Marketing (On-Premises 2013) - Marketing Docs - Produktdokumentation
 title: Schritt 2 von 3 - Konfigurieren des Synchronisierungsbenutzers für Marketing (On-Premises 2013)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gute Arbeit, die vorherigen Schritte zu vollenden, lassen Sie uns fortfahren.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Schritt 1 von 3: Installieren Sie die Marketing Solution in Dynamics (On-Premises 2013)](step-1-of-3-install.md)
 
