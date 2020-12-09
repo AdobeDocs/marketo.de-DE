@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: Erläuterungen zu Webinar-Programm-Statusangaben - Marketing-Dokumente - Produktdokumentation
 title: Erläuterungen zu Webinar-Programm-Status
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Im Folgenden werden die mit dem Webinar-Kanal verbundenen Programm-Status kurz b
 >
 >Damit Marketo den Status &quot;Keine Anzeige&quot;abrufen kann, müssen die Personen *in Marketo* registriert sein. Wir können keine No Shows erfassen, die aus dem On24-Datenfeed stammen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
 
