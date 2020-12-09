@@ -2,7 +2,7 @@
 title: importing-assets-with-adobe-experience-manager
 description: Assets mit Adobe Experience Manager importieren
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -26,15 +26,15 @@ Mit der Asset-Auswahl können [!DNL Marketo] Kunden auf AEM Assets zugreifen, si
 >
 >Diese Funktion wird derzeit nur in Firefox vollständig unterstützt. Es wird in Safari nicht unterstützt, und es funktioniert möglicherweise nicht in der neuesten Version von Chrome, abhängig von Ihren SameSite-Cookie-Einstellungen.
 
-1. Wählen Sie in [!UICONTROL Design Studio]&quot; [!UICONTROL **Bilder und Dateien**]&quot;aus.
+1. Wählen Sie in [!UICONTROL Design Studio]&quot; **[!UICONTROL Bilder und Dateien]**&quot;aus.
 
    ![Bild eins](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Klicken Sie auf die Dropdownliste [!UICONTROL Bilder und Dateien] und wählen Sie Bild oder Datei [!UICONTROL **importieren**].
+1. Klicken Sie auf die Dropdownliste [!UICONTROL Bilder und Dateien] und wählen Sie Bild oder Datei **[!UICONTROL importieren]**.
 
    ![Bild zwei](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. Klicken Sie auf das Optionsfeld neben [!DNL Adobe Experience Manager] und dann auf [!UICONTROL **Weiter**].
+1. Klicken Sie auf das Optionsfeld neben [!DNL Adobe Experience Manager] und dann auf **[!UICONTROL Weiter]**.
 
    ![Bild drei](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ Mit der Asset-Auswahl können [!DNL Marketo] Kunden auf AEM Assets zugreifen, si
 
    ![Bild vier](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Wählen Sie Ihren Ordner aus. Wählen Sie die gewünschten Bilder aus (Sie können bis zu 10 auswählen) und klicken Sie auf [!UICONTROL **Auswählen**].
+1. Wählen Sie Ihren Ordner aus. Wählen Sie die gewünschten Bilder aus (Sie können bis zu 10 auswählen) und klicken Sie auf **[!UICONTROL Auswählen]**.
 
    ![Bild fünf](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ Mit der Asset-Auswahl können [!DNL Marketo] Kunden auf AEM Assets zugreifen, si
    >
    >Bilder dürfen nicht größer als 100 MB sein.
 
-1. Überprüfen Sie, welche Bilder Sie ausgewählt haben, wählen Sie den Zielordner aus (standardmäßig sind[!UICONTROL Bilder und Dateien] ) und klicken Sie auf [!UICONTROL **Weiter**].
+1. Überprüfen Sie, welche Bilder Sie ausgewählt haben, wählen Sie den Zielordner aus (standardmäßig sind[!UICONTROL Bilder und Dateien] ) und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![Bild sechs](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-Und das ist es! Klicken Sie auf [!UICONTROL **Schließen**] , um zu &quot;Bilder und Dateien&quot;zurückzukehren.
+Und das ist es! Klicken Sie auf **[!UICONTROL Schließen]** , um zu &quot;Bilder und Dateien&quot;zurückzukehren.
 
 ![Bild sieben](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
