@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Präsentation erstellen - Marketing-Dokumente - Produktdokumentation
 title: Erstellen einer Präsentation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Erstellen Sie eine Präsentation, um die Kalenderziele und Ansichten Ihres Teams
 
    Gute Arbeit! Jetzt können Sie Ihre Präsentation anpassen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Anpassen einer Präsentation](customize-a-presentation.md)
 
