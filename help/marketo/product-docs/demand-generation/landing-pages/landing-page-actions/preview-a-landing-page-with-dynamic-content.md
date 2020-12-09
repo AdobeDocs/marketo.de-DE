@@ -3,9 +3,9 @@ unique-page-id: 2359734
 description: Vorschau einer Landingpage mit dynamischen Inhalten - Marketing Docs - Produktdokumentation
 title: Vorschau einer Landingpage mit dynamischen Inhalten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vorschau Ihrer Landingpage nach dem Hinzufügen dynamischer Inhalte, um sicherzustellen, dass alles wie gewünscht aussieht.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Dynamische Inhalte in einer Landingpage verwenden](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Vorschau einer Landingpage](preview-a-landing-page.md)
