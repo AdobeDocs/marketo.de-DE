@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: In-App-Nachrichtentext erstellen - Marketing-Dokumente - Produktdokumentation
 title: In-App-Nachrichtentext erstellen
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeite
 
 Du bist goldig. Als Nächstes müssen Sie Ihre In-App-Benachrichtigungsschaltfläche [einrichten](set-up-the-in-app-message-button.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Informationen zu In-App-Nachrichten](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Layout für Ihre In-App-Nachricht auswählen](choose-a-layout-for-your-in-app-message.md)
