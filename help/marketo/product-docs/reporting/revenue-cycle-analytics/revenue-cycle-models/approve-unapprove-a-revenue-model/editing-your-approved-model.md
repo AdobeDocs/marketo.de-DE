@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: Bearbeiten Ihres genehmigten Modells - MarketingToDocs - Produktdokumentation
 title: Bearbeiten des genehmigten Modells
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 Sie können jeweils nur ein genehmigtes Modell haben. Wenn Sie ein Modell genehmigen möchten, aber bereits eines genehmigt haben, müssen Sie zunächst die Genehmigung für das aktuelle Modell aufheben. Versuchen Sie nach Möglichkeit, Ihr Modell zu bearbeiten, anstatt ein neues zu erstellen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Neues Umsatzmodell erstellen](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
