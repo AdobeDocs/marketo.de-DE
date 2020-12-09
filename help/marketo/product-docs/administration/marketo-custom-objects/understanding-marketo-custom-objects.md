@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Erläuterungen zu "Marketing to Custom Objects"- "Marketing to Docs"- Produktdokumentation
 title: Erläuterungen zu benutzerdefinierten Objekten
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verk
 
 Weitere Informationen finden Sie unter [Importieren benutzerdefinierter Objektdaten](import-custom-object-data.md) .
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen von Markierungen zu benutzerdefinierten Objekten](create-marketo-custom-objects.md)
 >* [Benutzerdefiniertes Objekt genehmigen](approve-a-custom-object.md)
