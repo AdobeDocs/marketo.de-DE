@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Hinzufügen einer Zielgruppen-URL zu einer Web-Kampagne - Marketing Docs - Produktdokumentation
 title: Hinzufügen einer Zielgruppen-URL zu einer Web-Kampagne
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ Wenn Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) kli
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**Verwandte Artikel**
+>[!MORELIKETHIS]
 * [Eine neue Dialogfeld-Web-Kampagne erstellen](create-a-new-dialog-web-campaign.md)
 * [Eine neue Web-Kampagne in einer Zone erstellen](create-a-new-in-zone-web-campaign.md)
 * [Neue Widget-Web-Kampagne erstellen](create-a-new-widget-web-campaign.md)
