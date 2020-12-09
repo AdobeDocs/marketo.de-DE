@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: Synchronisierung der Kampagne aktivieren/deaktivieren - Marketing Docs - Produktdokumentation
 title: Synchronisierung der Kampagne aktivieren/deaktivieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Diese Option ermöglicht es Marketo, seine Programm-Mitgliedschaft und Status mi
 
 Da hast du es. Geben Sie der Synchronisierung einfach etwas Zeit, um die Daten von Salesforce zu ziehen und Sie sind gut zu gehen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [SFDC-Synchronisierung: Kampagne synchronisieren](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [Standardwerte für den Nachnamen und die Firma von Interessenten festlegen](set-default-person-last-name-and-company-name.md)
