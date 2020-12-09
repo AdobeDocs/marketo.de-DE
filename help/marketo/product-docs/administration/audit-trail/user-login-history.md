@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Benutzeranmeldungsverlauf - Marketing-Dokumente - Produktdokumentation
 title: Verlauf der Benutzeranmeldung
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Der Verlauf der Benutzeranmeldung hilft Ihnen, die Verantwortlichkeit und Sicherheit zu wahren, indem er genau anzeigt, wer sich bei Ihrem Abonnement angemeldet hat, einschließlich fehlgeschlagener Anmeldeversuche.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Für die Ansicht des Benutzeranmeldeverlaufs muss die Berechtigung Zugriffsanmeldungsverlauf aktiviert sein.
 
