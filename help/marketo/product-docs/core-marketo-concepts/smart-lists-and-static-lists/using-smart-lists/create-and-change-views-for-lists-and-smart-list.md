@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: Erstellen und Ändern von Ansichten für Listen und intelligente Liste - Marketing Docs - Produktdokumentation
 title: Ansichten für Listen und intelligente Liste erstellen und ändern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du
 
 Nur Sie können die benutzerspezifischen Ansichten sehen, die Sie in der Ansicht-Dropdown-Liste, so sagen Sie Ihren Freunden, sie müssen ihre eigenen erstellen!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Integrierte/System-intelligente Listen verwenden](use-built-in-system-smart-lists.md)
 >* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
