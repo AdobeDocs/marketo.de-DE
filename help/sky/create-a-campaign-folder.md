@@ -2,7 +2,7 @@
 title: create-a-Kampagne-folder
 description: Erstellen eines Kampagnen-Ordners
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Kampagne-Ordner helfen Ihnen, einen sauberen Arbeitsbereich zu behalten. Folgen Sie diesen einfachen Schritten und Sie sind auf dem Weg zur Automatisierungsmagie.
 
-1. Klicken Sie mit der rechten Maustaste auf den Arbeitsbereich oder einen vorhandenen Ordner und wählen Sie [!UICONTROL **Neuer Kampagnenordner**].
+1. Klicken Sie mit der rechten Maustaste auf den Arbeitsbereich oder einen vorhandenen Ordner und wählen Sie **[!UICONTROL Neuer Kampagnenordner]**.
 
    ![Bild eins](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
@@ -24,7 +24,7 @@ Kampagne-Ordner helfen Ihnen, einen sauberen Arbeitsbereich zu behalten. Folgen 
 
    ![Bild eins](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. Optional können Sie eine Beschreibung hinzufügen und/oder Beschriftungen zu Ihrem Ordner &quot;Kampagne&quot;hinzufügen. Wenn Sie den Ordner &quot;Kampagne&quot;in einem vorhandenen Ordner erstellen, können Sie die Beschriftungen auch aus dem übergeordneten Asset kopieren. Klicken Sie auf [!UICONTROL **Erstellen**].
+1. Optional können Sie eine Beschreibung hinzufügen und/oder Beschriftungen zu Ihrem Ordner &quot;Kampagne&quot;hinzufügen. Wenn Sie den Ordner &quot;Kampagne&quot;in einem vorhandenen Ordner erstellen, können Sie die Beschriftungen auch aus dem übergeordneten Asset kopieren. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![Bild eins](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
