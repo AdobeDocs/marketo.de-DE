@@ -3,9 +3,9 @@ unique-page-id: 2359705
 description: hinzufügen eines neuen Formulars zu einer Freiformdatei-Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen eines neuen Formulars in eine Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Formular erstellen](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Erstellen einer Freiform-Landingpage](create-a-free-form-landing-page.md)
