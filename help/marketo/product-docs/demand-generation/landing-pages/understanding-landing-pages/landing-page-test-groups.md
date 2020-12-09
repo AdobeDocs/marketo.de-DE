@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: Landingpages-Testgruppen - Marketing-Dokumente - Produktdokumentation
 title: Landingpages-Testgruppen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo verfolgt die Anzahl der Ansichten und Formularabschlüsse auf jeder getesteten Seite innerhalb einer Testgruppe. Mithilfe der Testgruppenergebnisse können Sie entscheiden, welche Landingpage am überzeugendsten ist. So erstellen Sie eine Testgruppe:
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >[Erstellen Sie zwei oder mehr Landingpages](../../../../getting-started/quick-wins/landing-page-with-a-form.md), vorzugsweise mit einem Formular.
 
