@@ -3,9 +3,9 @@ unique-page-id: 2359400
 description: Wählen Sie ein Formularthema - Marketing-Dokumente - Produktdokumentation
 title: Formularentwurf auswählen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Wir haben eine Menge netter Themen für Ihre Formulare gemacht. Was magst du am 
 
 Wie einfach war das? Sie können Ihr HTML/CSS Buch jetzt etwas Staub sammeln lassen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [CSS eines Formularthemas bearbeiten](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [hinzufügen eines Felds in ein Formular](add-a-field-to-a-form.md)
