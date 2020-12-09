@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: Bearbeiten und Löschen eines Markets für ein benutzerdefiniertes Objekt - Marketing Docs - Produktdokumentation
 title: Bearbeiten und Löschen eines Markierungen zu einem benutzerdefinierten Objekt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vor
    >
    >Wenn das benutzerdefinierte Objekt mit einem Intermediarobjekt verknüpft ist, müssen Sie das Intermediarobjekt zuerst löschen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Benutzerdefiniertes Objekt genehmigen](approve-a-custom-object.md)
 
