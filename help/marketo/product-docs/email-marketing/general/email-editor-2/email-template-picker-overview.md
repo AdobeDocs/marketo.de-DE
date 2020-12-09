@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Übersicht über die E-Mail-Vorlagenauswahl - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über die E-Mail-Vorlagenauswahl
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Sie können auch mit der rechten Maustaste auf eine Vorlagenminiatur klicken, um
 
 Ziemlich ordentlich!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Syntax der E-Mail-Vorlage](email-template-syntax.md)
 >* [E-Mail erstellen](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
