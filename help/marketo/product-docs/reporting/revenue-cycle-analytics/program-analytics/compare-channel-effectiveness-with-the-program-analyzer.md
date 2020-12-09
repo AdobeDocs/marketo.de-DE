@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Vergleichen Sie die Effektivität von Kanälen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Kanal-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Verwenden Sie den Programm Analyzer, um die Kosten des Kanals, die Mitgliederakquise, die Pipeline, den Umsatz usw. zu vergleichen und Ihre effektivsten Kanal zu identifizieren.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Programm-Analyzer erstellen](create-a-program-analyzer.md)
 
