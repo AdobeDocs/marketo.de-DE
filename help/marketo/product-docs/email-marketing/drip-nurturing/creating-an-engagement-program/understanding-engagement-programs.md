@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Einblick in die Programme der Interaktion - Marketing-Dokumente - Produktdokumentation
 title: Einblick in die Programme der Interaktion
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Per
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Personen mit abgelaufenem Inhalt](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Per
 
 Die Ebene der Inhaltsinteraktion ist ein 0 bis 100-Punkt-Ergebnis, das Marketo Ihrem Inhalt geben wird. Diese Zahl wird durch eine ausgefeilte Formel ermittelt, bei der die Faktoren &quot;open&quot;, &quot;clicks&quot;, &quot;unsubscribes&quot;, &quot;Programm success&quot;und andere Faktoren eingesetzt werden.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Einsatzergebnis](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
