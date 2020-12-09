@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Audit-Trail-Übersicht - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Prüfprotokolle
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Sie können in Ihrer Instanz nur Daten im Wert von 30 Ansichten speichern. Verwe
 >
 >**Unbekannt:** Im Audit-Protokoll werden der Name und die E-Mail eines Benutzers als &quot;Unbekannt&quot;aufgeführt. Dies geschieht, wenn Sie eine Änderung an Ihren picklist-Werten in Ihrem CRM vornehmen. Diese Werte werden in Marketo-Formularen und -Landingpages angezeigt. Wenn Sie dieses Update auf der CRM-Seite durchführen, werden Ihre Landingpages automatisch entworfen, die auf das Formular verweisen. Im Audit-Protokoll werden wir feststellen, dass die Landingpage entworfen wurde, aber der Benutzername und die E-Mail-Adresse werden als &quot;Unbekannt&quot;angezeigt, da wir die Benutzerinformationen nicht von der CRM-Seite aus erfassen können.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Prüfpfad aktivieren](enable-audit-trail.md)
 
