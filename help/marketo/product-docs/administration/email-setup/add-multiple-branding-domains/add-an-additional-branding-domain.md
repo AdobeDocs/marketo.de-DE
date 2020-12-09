@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: hinzufügen einer zusätzlichen Branding-Domäne - Marketing Docs - Produktdokumentation
 title: hinzufügen einer zusätzlichen Branding-Domäne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 hinzufügen eine zusätzliche Branding-Domäne, wenn Sie mehrere Marken aus einer einzigen Marketing-Instanz ausführen und sie jeweils über eigene Marken-Tracking-Links verfügen sollen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie müssen den generischen Verfolgungslink [durch eine Markendomäne](edit-your-default-branding-domain.md) ersetzen, bevor Sie zusätzliche Markendomänen hinzufügen.
 
