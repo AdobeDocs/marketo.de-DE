@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Verwendung von Massenaktionen in Salesforce Lightning - Marketing Docs - Produktdokumentation
 title: Verwenden von Massenaktionen im Salesforce-Blitz
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer Kampagne hinzufügen, eine Massen-E-Mail versenden oder Interessenten von Salesforce zu Sales Connect verschieben.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Aktualisieren Sie auf die neueste Version des Sales Connect-Pakets und installieren Sie die Schaltflächen für Massenaktionen in Ihrer Ansicht für Lead/Kontakt. [Klicken Sie hier für Anleitungen](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
