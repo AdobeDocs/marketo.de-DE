@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Intelligente Kampagnen - Marketing-Dokumente - Produktdokumentation
 title: Intelligente Kampagnen
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Und schließlich steuert dies, wenn Sie Ihre intelligente Kampagne ausführen. S
 
 Die intelligente Kampagne kann sehr viel tun. Machen Sie sich die Sache fertig und Sie finden alles in Marketo wird viel einfacher zu verstehen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Neue intelligente Kampagne erstellen](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
