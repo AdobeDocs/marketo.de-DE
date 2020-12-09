@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: Formular erstellen - Marketing-Dokumente - Produktdokumentation
 title: Formular erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
 Süß! Nun, da das Formular erstellt wurde, lassen Sie es uns anziehen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Formularentwurf auswählen](select-a-form-theme.md)
 >* [hinzufügen eines Feldsatzes auf ein Formular](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
