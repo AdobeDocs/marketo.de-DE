@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: Entfernen eines Mitglieds aus einem Programm der Interaktion - Marketing-Dokumente - Produktdokumentation
 title: Entfernen eines Mitglieds aus einem Interaktions-Programm
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Ups! Wie sind diese Leute da hineingekommen? Sie können Mitglieder mit dem Flus
 
 Manchmal möchten Sie die Leute einfach in einem Interaktions-Programm anhalten und nicht entfernen. Dies geschieht mit der Programm-Kadenz **für Interaktion ändern**.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Anhalten von Personen in einem Interaktions-Programm](pause-people-in-an-engagement-program.md)
 
