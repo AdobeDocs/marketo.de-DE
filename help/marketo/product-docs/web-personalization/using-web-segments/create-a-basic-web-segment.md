@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Erstellen eines grundlegenden Websegments - Marketing-Dokumente - Produktdokumentation
 title: Ein einfaches Websegment erstellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanz
 
 Jetzt haben Sie Ihre Besucher aus den USA segmentiert, gehen Sie weiter und fügen Sie die Finanzdienstleistungsbranche hinzu.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Websegmente](http://docs.marketo.com/x/9QFI)
 
