@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: Präsentation starten - Marketing Docs - Produktdokumentation
 title: Präsentation starten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Erstellen einer Präsentation](create-a-presentation.md)
 >* [Anpassen einer Präsentation](customize-a-presentation.md)
