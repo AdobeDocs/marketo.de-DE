@@ -2,7 +2,7 @@
 title: understand-my-tokens
 description: My Tokens
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Wenn Sie ein neues Token erstellen, kann es von anderen Objekten in der Struktur
 * **[Überschriebenes Token:](/help/sky/override-an-inherited-my-token.md)** Das Token wurde geerbt, in diesem Programm oder Ordner wurde jedoch eine Ausnahme gemacht.
 * **Übernommenes Token:** Das Token wurde in der Struktur irgendwo in einem übergeordneten Programm oder Ordner erstellt.
 
-Sie finden diese drei Typen auf der Registerkarte &quot; [!UICONTROL **Meine Token**] &quot;im Ordner &quot;Programm&quot;oder &quot;Kampagne&quot;.
+Sie finden diese drei Typen auf der Registerkarte &quot; **[!UICONTROL Meine Token]** &quot;im Ordner &quot;Programm&quot;oder &quot;Kampagne&quot;.
 
 ![Bild zwei](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
