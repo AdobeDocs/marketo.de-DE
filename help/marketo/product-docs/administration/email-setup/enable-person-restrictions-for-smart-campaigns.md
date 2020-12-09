@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: Personenbeschränkungen für intelligente Kampagnen aktivieren - Marketing Docs - Produktdokumentation
 title: Personenbeschränkungen für intelligente Kampagnen aktivieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Es gibt eine Funktion in Marketo, um die ***max. ***Anzahl der Personen zu begre
 
 Bingo! Du hast gerade den Sicherheitsschalter eingeschaltet. Gute Idee, nicht wahr?
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Personenbeschränkungen in einer intelligenten Kampagne überschreiben](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
