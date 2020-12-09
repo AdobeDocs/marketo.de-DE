@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Champion/Challenger - Berichtwarnungen konfigurieren - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Berichtwarnungen konfigurieren
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie man es einplanen kann.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Champion Criteria definieren](champion-challenger-define-champion-criteria.md)
 
