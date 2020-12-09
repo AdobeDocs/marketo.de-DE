@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: Setup-Checkliste - Marketing-Dokumente - Produktdokumentation
 title: Setup-Checkliste
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Liste z
 
 1. Arbeiten Sie mit einem Webentwickler zusammen, um Ihrer Website Trackingcode hinzuzufügen
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Einrichtungsschritte](../../getting-started/setup-steps.md)
 
