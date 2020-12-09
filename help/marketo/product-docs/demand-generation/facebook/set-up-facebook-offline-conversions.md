@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Einrichten von Facebook-Offline-Konversionen - Marketing-Dokumente - Produktdokumentation
 title: Einrichten von Facebook-Offline-Konversionen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, die über Interessentenanzeigen erstellt wurden, kann Ihr Werbeteam ihre Anzeigenausgaben optimieren. So richten Sie es ein:
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* Sie müssen [Facebook-Interessentenanzeigen](set-up-facebook-lead-ads.md)einrichten.
 >* Sie müssen über ein genehmigtes Modell im [Umsatzzyklusmodell verfügen](http://docs.marketo.com/display/docs/revenue+cycle+models).
