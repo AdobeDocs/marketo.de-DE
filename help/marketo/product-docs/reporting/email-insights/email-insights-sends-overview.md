@@ -3,9 +3,9 @@ unique-page-id: 10099413
 description: Email Insights Sends Overview - Marketing Docs - Produktdokumentation
 title: Übersicht über E-Mail Insights-Sends
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Wenn Sie die Statistik Ihrer E-Mail in Analytics Ansicht haben möchten, halten 
 
 Coole Sachen!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Übersicht über die Analyse von E-Mail Insights](email-insights-analytics-overview.md)
 
