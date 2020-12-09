@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: Führen Sie einen Schritt für einen einzelnen Fluss aus einer intelligenten Liste - Marketing to Docs - Produktdokumentation
 title: Ausführen eines einzelnen Flussschritts aus einer intelligenten Liste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einzelnen Flussschritt innerhalb einer intelligenten Liste verwenden, anstatt eine ganze intelligente Kampagne zu erstellen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
