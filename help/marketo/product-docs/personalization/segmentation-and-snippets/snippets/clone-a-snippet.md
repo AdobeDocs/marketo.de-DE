@@ -3,9 +3,9 @@ unique-page-id: 2359514
 description: Klonen eines Snippets - Marketing Docs - Produktdokumentation
 title: Klonen eines Snippets
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Klonen Sie ein Snippet, um eine Kopie davon zu erstellen, die Sie an Ihre Anford
 
 Fantastisch! Jetzt können Sie das geklonte Snippet an Ihre Bedürfnisse anpassen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Bearbeiten von Snippets mit dynamischen Inhalten](edit-snippets-with-dynamic-content.md)
 
