@@ -2,7 +2,7 @@
 title: my-token-link
 description: Mein Token-Link
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -39,6 +39,6 @@ So richten Sie ein Link-Token für die Verwendung in Ihren Programmen und Kampag
    >
    >Wenn &quot;inklusive mkt_tok&quot;aktiviert ist, zeigt Marketo eine Link-Vorschau der Markenverfolgungsdomäne an (z. B. http://mkto-sjqe3355.com/mn/...). Wenn Sie dieses Kontrollkästchen deaktivieren, wird der Link geändert. Wenn Sie die Linktracking für E-Mails oder Landingpages deaktivieren, wird >die URL auf die Standardlänge gekürzt (z. B. www.examplepage.com).
 
-1. Optional können Sie unter &quot; [!UICONTROL Erweitert]&quot;den Link mit CSS anpassen. Klicken Sie auf [!UICONTROL **Speichern**].
+1. Optional können Sie unter &quot; [!UICONTROL Erweitert]&quot;den Link mit CSS anpassen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild vier](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
