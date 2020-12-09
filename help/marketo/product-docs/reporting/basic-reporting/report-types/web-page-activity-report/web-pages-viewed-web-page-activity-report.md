@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Angezeigte Webseiten, Bericht zur Aktivität der Webseite - Marketing-Dokumente - Produktdokumentation
 title: Angezeigte Webseiten, Bericht zur Aktivität der Webseite
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Aus einem Bericht [zur](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Aktivität der Webseite können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angezeigt wurden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst Munchkin auf Ihrer Site [einrichten](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
