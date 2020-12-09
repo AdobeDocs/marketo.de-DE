@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB Test Your Web Kampagne - Marketing Docs - Produktdokumentation
 title: AB Test Your Web Kampagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagn
 
 1. **Speichern **oder **Starten Sie **die Kampagne.
 1. Wiederholen Sie diesen Vorgang für eine dritte oder vierte Kampagne zum Testen.
-1. In den **Web** - **Kampagnen** können Sie die Kampagnen des geteilten Tests sehen, die durch das Symbol A/B gekennzeichnet sind.
+1. In den **Web** - **Kampagnen** können Sie die Kampagnen der geteilten Tests sehen, die durch das Symbol A/B gekennzeichnet sind.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -77,9 +77,7 @@ Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagn
 
 
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen einer Dialog-Kampagne](create-a-new-dialog-web-campaign.md)
 >* [RTP in Zone-Kampagne erstellen](create-a-new-in-zone-web-campaign.md)
