@@ -2,7 +2,7 @@
 title: set-stream-cadence
 description: Stream-Kadenz festlegen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    ![Bild eins](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] und dann auf [!UICONTROL **Set Cadence**].
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** und dann auf **[!UICONTROL Set Cadence]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können [!UICONTROL **Wöchentlich**], [!UICONTROL **Monatlich**] oder [!UICONTROL **Ohne**] wählen.
+1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können **[!UICONTROL Wöchentlich]**, **[!UICONTROL Monatlich]** oder **[!UICONTROL Ohne]** wählen.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
 ## Wöchentlich
 
-1. Wählen Sie [!UICONTROL **Wöchentlich**].
+1. Wählen Sie **[!UICONTROL Wöchentlich]**.
 
    ![Bild drei](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    >[!TIP]
    >
-   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie [!UICONTROL **Wiederholungen auswählen: Wöchentlich**] / [!UICONTROL **alle: 1 Woche**] / [!UICONTROL **am:**] alle Tage.
+   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **[!UICONTROL Wiederholungen auswählen: Wöchentlich]** / **[!UICONTROL alle: 1 Woche]** / **[!UICONTROL am:]** alle Tage.
 
-1. Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie die Zeitzone [des](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) Empfängers verwenden möchten (d. h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf [!UICONTROL **Speichern**].
+1. Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie die Zeitzone [des](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) Empfängers verwenden möchten (d. h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    ![Bild sieben](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ Das ist&#39;s! Lesen Sie weiter, wenn Sie eine monatliche Kadenz einrichten möc
 
 ## Monatlich
 
-1. Wählen Sie [!UICONTROL **Monatlich**] aus, wie oft es wiederholt wird.
+1. Wählen Sie **[!UICONTROL Monatlich]** aus, wie oft es wiederholt wird.
 
    ![Bild neun](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ Das ist&#39;s! Lesen Sie weiter, wenn Sie eine monatliche Kadenz einrichten möc
    >
    >Alternativ können Sie auch einen Wochentag wählen.
 
-1. Wählen Sie eine [!UICONTROL Zeit] und klicken Sie auf [!UICONTROL **Speichern**].
+1. Wählen Sie eine [!UICONTROL Zeit] und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild dreizehn](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
