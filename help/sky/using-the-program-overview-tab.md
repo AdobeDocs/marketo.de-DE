@@ -2,7 +2,7 @@
 title: using-the-Programm-overview-tab
 description: Registerkarte "Programm-Übersicht"
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Die Registerkarte &quot; [!UICONTROL Programm-Übersicht] &quot;enthält drei Abschnitte: [!UICONTROL **Details**], [!UICONTROL **Zeitplan**] und [!UICONTROL **Berichte**]. Hier ist ein kurzer Blick auf jeden.
+Die Registerkarte &quot; [!UICONTROL Programm-Übersicht] &quot;enthält drei Abschnitte: **[!UICONTROL Details]**, **[!UICONTROL Zeitplan]** und **[!UICONTROL Berichte]**. Hier ist ein kurzer Blick auf jeden.
 
 ## Details
 
@@ -22,7 +22,7 @@ Auf der Hauptseite mit den Details werden allgemeine Informationen zu Ihrem Prog
 
 ![Bild eins](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Am Ende der Seite befinden sich zwei Abschnitte: [!UICONTROL **Programm Stats**] und [!UICONTROL **Verwendung durch**]. [!UICONTROL **Programm Stats**] zeigt wichtige Metriken zur Performance von Programmen an. [!UICONTROL **Used By**] ist eine einfache Möglichkeit, zu erkennen, wo Ihr Programm in Marketing verwendet wird.
+Am Ende der Seite befinden sich zwei Abschnitte: **[!UICONTROL Programm Stats]** und **[!UICONTROL Verwendung durch]**. **[!UICONTROL Programm Stats]** zeigt wichtige Metriken zur Performance von Programmen an. **[!UICONTROL Used By]** ist eine einfache Möglichkeit, zu erkennen, wo Ihr Programm in Marketing verwendet wird.
 
 ![Bild zwei](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
