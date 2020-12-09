@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Qualifizierte Ansicht für Personen in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Qualifizierte Ansicht für Menschen in einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Ansicht Menschen, die sich dazu qualifizieren, durch den Fluss zu gehen, wenn Si
 
 Süß! Mit dieser Liste können Sie überprüfen, welche Personen den Fluss durchlaufen, bevor Sie eine intelligente Kampagne ausführen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Mitglieder der Ansicht für intelligente Kampagne](view-smart-campaign-members.md)
 >* [Ansicht blockierte Personen in einer intelligenten Kampagne](view-blocked-people-in-a-smart-campaign.md)
