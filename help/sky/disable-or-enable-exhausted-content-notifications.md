@@ -2,7 +2,7 @@
 title: disable-or-enable-completed-content-notifications
 description: Benachrichtigungen über abgelaufene Inhalte deaktivieren oder aktivieren
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Wenn Benutzer den gesamten Inhalt in einem Stream ausfüllen, können Sie eine B
 
    ![Bild eins](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Einstellungen**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Einstellungen]** .
 
    ![Bild zwei](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Blättern Sie nach unten zu [!UICONTROL Einstellungen] und wählen Sie &quot; [!UICONTROL **Aus**] &quot;(oder &quot; [!UICONTROL Ein]&quot;).
+1. Blättern Sie nach unten zu [!UICONTROL Einstellungen] und wählen Sie &quot; **[!UICONTROL Aus]** &quot;(oder &quot; [!UICONTROL Ein]&quot;).
 
    ![Bild drei](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
