@@ -3,9 +3,9 @@ unique-page-id: 1147154
 description: Synchronisieren einer SFDC-Kampagne mit einem Programm - Marketing Docs - Produktdokumentation
 title: Synchronisieren einer SFDC-Kampagne mit einem Programm
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo ermöglicht Ihnen, Ihre Programme mit Salesforce-Kampagnen zu synchronisieren, um die gleiche Liste von Personen in beiden Systemen, einschließlich ihres Status, zu erhalten. Fangen wir an!
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie müssen zuerst die Salesforce-Kampagne-Synchronisierung [](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) aktivieren.
 
