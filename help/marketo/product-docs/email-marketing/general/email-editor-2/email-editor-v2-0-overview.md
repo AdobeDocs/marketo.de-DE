@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Email Editor v2.0 Übersicht - Marketing Docs - Produktdokumentation
 title: Übersicht über Email Editor v2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,7 @@ Viele tolle neue Features! Viel Spaß!
 >
 >Wenn Sie noch tiefer gehen möchten, sehen Sie sich dieses [hilfreiche Video](https://nation.marketo.com/videos/1463)an.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Syntax der E-Mail-Vorlage](email-template-syntax.md)
 
