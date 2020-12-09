@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: Konfigurieren Sie die erneute Freigabe von E-Mails und Eingabeaufforderungen für eine Social-App - Marketing-Dokumente - Produktdokumentation
 title: Konfigurieren Sie die erneute Freigabe von E-Mails und Eingabeaufforderungen für eine Social-App
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/socia
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Als Nächstes können Sie den [Verfolgungsfortschritt in einem Referrer-Angebot](configure-track-progress-flow-for-a-referral-offer.md)konfigurieren oder auf **Fertig stellen > Genehmigen und Schließen** klicken, um Ihr Referrer-Angebot [oder Ihre](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) Gewinnspiele [zu](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)veröffentlichen.
 
