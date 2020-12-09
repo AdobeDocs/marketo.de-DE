@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: Verwendung von Feldorganisatoren - Marketing-Dokumente - Produktdokumentation
 title: Verwenden von Feldorganizern
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ Feldorganisatoren werden in der Analyse zur Modellleistung verwendet.
 
 Erstellen Sie bei Bedarf auf die gleiche Weise weitere Feldorganisatoren. Und da bist du.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Erstellen benutzerdefinierter Feldgruppen mithilfe des Feldorganisierers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
