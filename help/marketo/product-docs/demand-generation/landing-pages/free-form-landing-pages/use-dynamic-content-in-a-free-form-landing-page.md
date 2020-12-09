@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: Dynamische Inhalte in einer Freiformdokumentation verwenden - Marketing Docs - Produktdokumentation
 title: Dynamische Inhalte in einer Freiform-Landingpage verwenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Die Verwendung von dynamischen Inhalten in Landingpages bindet Ihre Audience mit zielgerichteten Informationen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Eine Segmentierung erstellen](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Erstellen einer Freiform-Landingpage](create-a-free-form-landing-page.md)
