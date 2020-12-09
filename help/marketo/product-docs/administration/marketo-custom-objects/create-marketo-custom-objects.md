@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Erstellen von Marketing-zu-benutzerdefinierten Objekten - Marketing-Dokumente - Produktdokumentation
 title: Erstellen von Markierungen zu benutzerdefinierten Objekten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ Verwenden Sie ein intermediäres Objekt, um ein benutzerdefiniertes Objekt mit P
 
    Im nächsten Schritt müssen Sie Verknüpfungsfelder [hinzufügen](add-marketo-custom-object-link-fields.md) , um Ihr Zwischenobjekt mit einer Person/Firma und einem benutzerdefinierten Objekt zu verbinden.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](add-marketo-custom-object-fields.md)
 >* [hinzufügen &quot;Markieren in benutzerdefinierten Objektverknüpfungsfeldern&quot;](add-marketo-custom-object-link-fields.md)
