@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: hinzufügen Programm-Statusspalten zu einem Programm-Bericht - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen Programm-Statusspalten zu einem Programm-Bericht
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ hinzufügen Statistiken zum Programm-Status für Ihren [Programm-Leistungsberich
 >
 >Wenn für jeden Status im Programm keine Spalte angezeigt wird, stellen Sie sicher, dass Sie die Spalten [ausgewählt haben, die im Bericht angezeigt](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) werden sollen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Programm-Bericht nach Tag filtern](filter-a-program-report-by-tag.md)
 
