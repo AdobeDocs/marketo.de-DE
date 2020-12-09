@@ -3,9 +3,9 @@ unique-page-id: 2359718
 description: hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen einer Social-Schaltfläche in eine Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,6 @@ ht-degree: 0%
 
 Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Social-Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu genehmigen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Sie sind fertig, aber Sie können die Einstellungen Ihrer Social-Schaltfläche bei Bedarf ändern. Beginn mit der [Anpassung des Schaltflächenstils](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) oder der [Bearbeitung der Freigabemeldungen](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) .
