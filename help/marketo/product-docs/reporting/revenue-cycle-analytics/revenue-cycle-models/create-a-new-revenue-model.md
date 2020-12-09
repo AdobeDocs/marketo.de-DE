@@ -3,9 +3,9 @@ unique-page-id: 4718656
 description: Erstellen eines neuen Umsatzmodells - Marketing-Dokumente - Produktdokumentation
 title: Neues Umsatzmodell erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 Schärfer aussehen! Sie sind gerade in die wunderbare Welt des Modellierens eingetreten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Erfahren Sie mehr über die [Verwendung der Lagerbestandsstadien](using-revenue-model-inventory-stages.md)des Umsatzmodells.
 
