@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Hard- und Soft Bounces in E-Mail - Marketing Docs - Produktdokumentation
 title: Hard- und Soft Bounces in E-Mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ In Marketo gibt es fünf Personen-Zeichenfolgen, die mit problembelasteten E-Mai
 >
 >Wenn eine Person als ungültig **** markiert wurde, kann sie nur manuell zurückgesetzt werden (was wir Ihnen nur empfehlen, wenn Sie wissen, dass ihre E-Mail gültig ist), indem Sie das Feld &quot;Ungültige E-Mail senden&quot;auf der Registerkarte &quot;Personeninfo&quot;ihres Datensatzes deaktivieren.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Führen Sie [diese Schritte](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) aus, um einen Bericht zur E-Mail-Leistung zu erstellen, der Absprungdaten generiert.
 
