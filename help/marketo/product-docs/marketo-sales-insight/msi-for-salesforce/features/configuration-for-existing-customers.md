@@ -3,9 +3,9 @@ unique-page-id: 42762519
 description: Konfiguration für bestehende Kunden - Marketing Docs - Produktdokumentation
 title: Konfiguration für bestehende Kunden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Bitte richten Sie die folgende Konfiguration ein, um mit dem neuen Insight-Dashboard zu beginnen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Bitte stellen Sie sicher, dass Sie Ihr Salesforce-Paket auf die neueste Version aktualisiert haben
 
