@@ -3,9 +3,9 @@ unique-page-id: 2953469
 description: SFDC-Synchronisierung - Synchronisierung von Kampagnen - Marketing Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Kampagne synchronisieren
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Sie können folgende Punkte prüfen:
 >
 >Wenn Ihre Salesforce-Kampagne und das zugeordnete Marketo-Programm inkompatible Programm-Status haben, erhalten Sie möglicherweise eine Fehlermeldung. Es wird empfohlen, dass Sie vor der Synchronisierung [mit dem Programm-Status übereinstimmen](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Synchronisieren einer SFDC-Kampagne mit einem Programm](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
 >* [Informationen zur Programm-Mitgliedschaft](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
