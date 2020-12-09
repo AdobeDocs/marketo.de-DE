@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Einführung in den Opportunity Influence Analyzer - Marketing Docs - Produktdokumentation
 title: Einblick in den Opportunity Influenza Analyzer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Wenn Sie dieses Verhalten beibehalten möchten, sollten Sie Ihre Daten in Ihrem 
 >
 >Jedes Mal, wenn Sie einen Vertrag schließen, finden Sie ihn am nächsten Tag in diesem Analyzer. Geben Sie es mit dem Vertriebsmitarbeiter frei. Sie werden die harte Arbeit, die Sie tun, realisieren - und Sie können fragen, warum bestimmte Leute &quot;aussehen&quot; einflussreich, aber keine Rolle in der CRM zugewiesen haben.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Erstellen eines Einflussanalysators](create-an-opportunity-influence-analyzer.md)
