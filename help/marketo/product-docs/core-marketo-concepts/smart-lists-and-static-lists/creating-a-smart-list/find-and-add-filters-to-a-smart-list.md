@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: Suchen und Hinzufügen von Filtern zu einer intelligenten Liste - Marketing Docs - Produktdokumentation
 title: Filter für eine intelligente Liste suchen und Hinzufügen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ In diesem Beispiel sollten wir alle Menschen in Kalifornien mit einer Punktzahl 
 
 Perfekt! Lasst uns diese Filter definieren.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen einer intelligenten Liste](create-a-smart-list.md)
 >* [Definieren von Filtern für intelligente Listen](define-smart-list-filters.md)
