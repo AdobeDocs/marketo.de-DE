@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: Der Bereich "Programm Opportunity Analyse"- "Marketing to Docs"- Produktdokumentation
 title: Der Analyse-Bereich für Programm-Chancen
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Während Maßnahmen (blaue Punkte) berechnet werden und Überlegungen und Erläu
 
 **Alle Möglichkeiten, die einem Programm eine beliebige Art von Zuordnung gutgeschrieben haben. Chancen können von einem oder mehreren Interessenten und einem oder mehreren Programmen beeinflusst werden.*
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Erstellen eines Berichts für den Umsatz-Explorer](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
