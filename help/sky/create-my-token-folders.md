@@ -2,7 +2,7 @@
 title: create-my-token-folders
 description: Meine Token-Ordner erstellen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,7 +20,7 @@ So sortieren Sie Ihre My Tokens in Ordner.
 
    ![Bild eins](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Geben Sie einen Namen für den neuen Ordner ein und wählen Sie dann [!UICONTROL **Lokale Token**] oder [!UICONTROL **Überschriebene Tokens**] aus der Dropdownliste Ziel. Klicken Sie auf [!UICONTROL **Speichern**].
+1. Geben Sie einen Namen für den neuen Ordner ein und wählen Sie dann **[!UICONTROL Lokale Token]** oder **[!UICONTROL Überschriebene Tokens]** aus der Dropdownliste Ziel. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild zwei](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ So sortieren Sie Ihre My Tokens in Ordner.
 
 >[!TIP]
 >
->Um einen Ordner umzubenennen, klicken Sie mit der rechten Maustaste darauf und klicken Sie auf [!UICONTROL **Umbenennen**].
+>Um einen Ordner umzubenennen, klicken Sie mit der rechten Maustaste darauf und klicken Sie auf **[!UICONTROL Umbenennen]**.
