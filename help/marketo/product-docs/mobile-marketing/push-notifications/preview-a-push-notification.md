@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: Vorschau einer Push-Benachrichtigung - Marketing Docs - Produktdokumentation
 title: Vorschau einer Push-Benachrichtigung
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Im Anzeigebereich &quot;Benachrichtigungscenter&quot;befindet er sich oben,
 
 Mit der Vorschau der Push-Benachrichtigung wissen Sie also immer, was Ihre Kunden sehen werden!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Push-Benachrichtigung erstellen](create-a-push-notification.md)
 >* [Mobile Push-Benachrichtigung konfigurieren](configure-mobile-push-notification.md)
