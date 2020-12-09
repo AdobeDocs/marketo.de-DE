@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: Erstellen eines Referrer-Angebots - Marketing Docs - Produktdokumentation
 title: Erstellen eines Referrer-Angebots
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Falls Probleme im Angebot der Verweisung auftreten, werden Sie aufgefordert, die
 
 Herzlichen Glückwunsch! Sie haben Ihr Angebot für Verweise erstellt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Der nächste Schritt besteht darin, Ihr Angebot [für Verweise auf einer Landingpage, auf Ihrer Website oder auf Facebook zu](publish-a-referral-offer.md) veröffentlichen.
 
