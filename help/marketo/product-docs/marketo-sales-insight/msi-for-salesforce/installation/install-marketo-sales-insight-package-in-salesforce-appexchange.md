@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange - Marketing Docs - Produktdokumentation
 title: Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -74,9 +74,7 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 
 Gute Arbeit! Jetzt haben Sie Marketo Sales Insight installiert und bereitgestellt. Fahren Sie fort und konfigurieren Sie es für Ihr Vertriebsteam und beobachten Sie den Verkaufsschub.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
