@@ -2,7 +2,7 @@
 title: model-health-and-data-validity
 description: Modellgesundheit und Datenvalidierung
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Die Leistung Ihrer Modelle hängt von der Qualität und Vollständigkeit der Eingabedaten ab. Hier sehen Sie, wie Sie Ihre Modellgesundheit bewerten können.
 
-Navigieren Sie zum Abschnitt [!UICONTROL **Modelle und Datengesundheit**] unter [!UICONTROL **Prognostische Audiencen**] im [!UICONTROL **Admin**] -Bereich von Marketing Classic. Hier sehen Sie alle Ihre Modelle und ihren Status.
+Navigieren Sie zum Abschnitt **[!UICONTROL Modelle und Datengesundheit]** unter **[!UICONTROL Prognostische Audiencen]** im **[!UICONTROL Admin]** -Bereich von Marketing Classic. Hier sehen Sie alle Ihre Modelle und ihren Status.
 
 ![Bild eins](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
