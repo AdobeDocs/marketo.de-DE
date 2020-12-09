@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: Ansicht des E-Mail-Programm-Dashboards - Marketing Docs - Produktdokumentation
 title: Ansicht des E-Mail-Programm-Dashboards
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Wenn Sie keinen A/B-Test hinzugefügt haben *oder* der Test beendet ist, sollte 
 >
 >Experimentieren Sie, indem Sie den Cursor über die Widgets für Diagramme bewegen. Es werden zusätzliche Informationen angezeigt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [Verwenden Sie das Dashboard E-Mail-Programm](use-the-email-program-dashboard.md)
