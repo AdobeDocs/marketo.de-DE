@@ -2,7 +2,7 @@
 title: archive-and-unarchive-stream-content
 description: Archivieren und Archivieren von Stream-Inhalten
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Wenn Sie einen Inhalt nicht mehr in einem Stream verwenden möchten, können Sie
 
    ![Bild eins](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
 
    ![Bild zwei](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ Wenn Sie einen Inhalt nicht mehr in einem Stream verwenden möchten, können Sie
 
    ![Bild drei](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. Wählen Sie [!UICONTROL **Archiv**].
+1. Wählen Sie **[!UICONTROL Archiv]**.
 
    ![Bild vier](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ Das ist&#39;s! Denken Sie daran, archivieren Sie, wenn Sie die Geschichte bewahr
 
    ![Bild fünf](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
 
    ![Bild sechs](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf Archivierten Inhalt [!UICONTROL **anzeigen**].
+1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf Archivierten Inhalt **[!UICONTROL anzeigen]**.
 
    ![Bild sieben](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ Das ist&#39;s! Denken Sie daran, archivieren Sie, wenn Sie die Geschichte bewahr
 
    ![Bild acht](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Wählen Sie [!UICONTROL **Archivieren**].
+1. Wählen Sie **[!UICONTROL Archivieren]**.
 
    ![Bild neun](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
