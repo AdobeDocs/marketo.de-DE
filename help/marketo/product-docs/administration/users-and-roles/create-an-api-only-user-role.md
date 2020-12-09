@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: Erstellen einer Nur-API-Benutzerrolle - Marketing-Dokumente - Produktdokumentation
 title: Benutzerrolle "Nur API erstellen"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Wenn Sie die Integration mit Marketo über die [REST-API](http://developers.mark
 >
 >Es ist immer eine gute Idee, nur die erforderlichen Mindestberechtigungen zu gewähren.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Gut gemacht! Jetzt [erstellen wir einen Benutzer](create-an-api-only-user.md), der nur API verwendet.
 
