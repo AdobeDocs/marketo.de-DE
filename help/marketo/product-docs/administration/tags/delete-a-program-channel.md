@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Löschen eines Programm-Kanals - Marketing Docs - Produktdokumentation
 title: Löschen eines Programm-Kanals
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Wenn Sie einen versehentlich erstellen oder keinen mehr benötigen, können Sie 
 
 Bam! Sie können bestimmte Status auch aus Kanälen [löschen](delete-a-program-status-from-a-program-channel.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Löschen eines Programm-Status aus einem Programm-Kanal](delete-a-program-status-from-a-program-channel.md)
 
