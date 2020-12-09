@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Formularschriftfamilie ändern - MarketingToDocs - Produktdokumentation
 title: Formularschriftfamilie ändern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Google-Schriftarten sind großartig und wir haben sie direkt in den Formularedit
 
 Sehen Sie, wie einfach es war, die Schriftfamilie in einem Formular zu ändern? Cool, jetzt, da das fertig ist, lernen wir, wie die Schriftgröße des Formulars zu ändern.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Ändern der Schriftgröße des Formulars](change-the-form-font-size.md)
 
