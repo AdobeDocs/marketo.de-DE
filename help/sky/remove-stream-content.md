@@ -2,7 +2,7 @@
 title: remove-stream-content
 description: Stream-Inhalte entfernen
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von S
 
    ![Bild eins](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
 
    ![Bild zwei](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von S
 
    ![Bild drei](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. Wählen Sie [!UICONTROL **Entfernen**].
+1. Wählen Sie **[!UICONTROL Entfernen]**.
 
    ![Bild vier](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 
