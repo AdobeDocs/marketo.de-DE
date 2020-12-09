@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Massenversandoptionen - Marketing-Dokumente - Produktdokumentation
 title: Massensendeoptionen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Auswählen und Senden
 
 Standardmäßig werden Sie alle Empfänger bearbeiten. Sie können jedoch auch jede einzelne E-Mail auswählen, um benutzerdefinierte Änderungen vorzunehmen. Dies kann besonders hilfreich sein, wenn Sie Empfängern, mit denen Sie einen personalisierteren Ansatz verfolgen möchten, eine oder mehrere individuelle(n) Zeilen zur Anpassung hinzufügen möchten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [Senden von E-Mails per E-Mail](http://docs.marketo.com/x/KAQ6Ag)
