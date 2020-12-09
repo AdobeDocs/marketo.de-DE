@@ -2,7 +2,7 @@
 title: understand-batch-and-trigger-smart-Kampagnen
 description: Intelligente Batch- und Trigger-Kampagnen
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Batch-intelligente Kampagnen enthalten nur Filter im Abschnitt &quot;Intelligent
 
 ![Bild eins](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Durch Klicken auf die Registerkarte &quot; [!UICONTROL **Plan**] &quot;wird bestätigt, dass die intelligente Kampagne auf &quot;Stapel&quot;eingestellt ist.
+Durch Klicken auf die Registerkarte &quot; **[!UICONTROL Plan]** &quot;wird bestätigt, dass die intelligente Kampagne auf &quot;Stapel&quot;eingestellt ist.
 
 ![Bild zwei](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ Wenn eine intelligente Kampagne im Abschnitt &quot;Intelligente Liste&quot;minde
 
 ![Bild drei](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Durch Klicken auf die Registerkarte [!UICONTROL **Plan**] wird bestätigt, dass die intelligente Kampagne auf &quot;Auslöser&quot;eingestellt ist.
+Durch Klicken auf die Registerkarte **[!UICONTROL Plan]** wird bestätigt, dass die intelligente Kampagne auf &quot;Auslöser&quot;eingestellt ist.
 
 ![Bild vier](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
