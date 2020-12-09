@@ -2,7 +2,7 @@
 title: define-a-smart-Liste-for-a-trigger-Kampagne
 description: Definieren einer intelligenten Liste für eine Auslöser-Kampagne
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Gestalten Sie eine intelligente Kampagne auf der Grundlage von Live-Ereignissen einzeln, indem Sie Auslöser hinzufügen.
 
-1. Wählen Sie eine intelligente Kampagne und klicken Sie dann auf [!UICONTROL **Intelligente Liste**].
+1. Wählen Sie eine intelligente Kampagne und klicken Sie dann auf **[!UICONTROL Intelligente Liste]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Gestalten Sie eine intelligente Kampagne auf der Grundlage von Live-Ereignissen 
    >
    >Eine intelligente Kampagne mit Auslösern wird im Auslösermodus ausgeführt. Er wird auf der Grundlage von ausgelösten Ereignissen und weiteren Filtern einzeln ausgeführt.
 
-1. Klicken Sie auf die Dropdownliste und wählen Sie einen Operator (z. B. [!UICONTROL **is**], [!UICONTROL **is not**] usw.) für den gewählten Auslöser.
+1. Klicken Sie auf die Dropdownliste und wählen Sie einen Operator (z. B. **[!UICONTROL is]**, **[!UICONTROL is not]** usw.) für den gewählten Auslöser.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
