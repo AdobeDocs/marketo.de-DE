@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Geben Sie Ihre ON24-Anmeldeinformationen in Marketing - Marketing Docs - Produktdokumentation ein.
 title: Geben Sie Ihre ON24-Anmeldeinformationen in Marketing ein
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Sie können Ihre Anmeldeinformationen bearbeiten, wenn Ihr Kennwort abgelaufen i
 
 Als Nächstes müssen Sie Ihr Webinar-Ereignis in ON24 [erstellen](create-your-webinar-event-in-on24.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
 
