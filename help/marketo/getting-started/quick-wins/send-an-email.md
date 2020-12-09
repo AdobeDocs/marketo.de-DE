@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: E-Mail senden - Marketing-Dokumente - Produktdokumentation
 title: E-Mail senden
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 >
 >Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
 
