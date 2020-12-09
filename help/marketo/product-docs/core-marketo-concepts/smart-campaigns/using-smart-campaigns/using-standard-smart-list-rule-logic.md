@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: Verwenden der Standard-Regellogik für intelligente Listen - Marketing-Dokumente - Produktdokumentation
 title: Verwenden der Standard-Logik für intelligente Listen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Auslöser werden immer als ODER ausgewertet, selbst wenn die oben angegebene Ein
 Die oben genannte intelligente Liste in Worten:
 `<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Wenn eine Person also das Formular ausfüllt **oder** die Seite besucht, bewertet die Kampagne diese Person anhand der **alle **oder **alle **der nachfolgenden Filter, je nach verwendeter Einstellung.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erweiterte Logik der Smart-Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
