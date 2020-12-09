@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Websegmente - Marketing-Dokumente - Produktdokumentation
 title: Websegmente
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Klicken Sie auf der Seite **Segmente** unter dem Diagramm auf Neu **erstellen** 
 
 Definieren Sie allgemeine Parameter für Ihr Segment:
 
-1. &#x200B;
+1. 
 
    * **Name:**  Benennen Sie Ihr Segment.
    * **Beschreibung:**  Geben Sie eine detailliertere Erläuterung der Segmentkriterien ein.
@@ -110,21 +110,23 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >1. Alle Filter verwenden (1, 2 und 3...)
 >1. Alle Filter verwenden (1 oder 2 oder 3...)
 >1. Erweiterte Filter (mit und/oder Ausdrücken) >
->    1. &#x200B;
->
->      Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.  >
->      * 1 und 2 und 3
->      * 1 oder 2 oder 3
->
->      Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:  >
->      * 1 und (2 oder 3)
->      * (1 und 2) oder 3
->
->      Verschachtelte Klammern werden für eine kompliziertere Logik, z.  >
->      * (1 und 2) oder (3 und 4)
->      * 1 und 2 oder 3 und 4)
->
->      Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
+   >    1. >    
+   >       
+
+      >Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.  >
+      >        * 1 und 2 und 3
+      >        * 1 oder 2 oder 3
+
+      >
+      Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:  >
+      * 1 und (2 oder 3)
+      * (1 und 2) oder 3
+
+      Verschachtelte Klammern werden für eine kompliziertere Logik, z.  >
+      * (1 und 2) oder (3 und 4)
+      * 1 und 2 oder 3 und 4)
+
+      Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 
 
@@ -340,8 +342,7 @@ Ein Segment, das mit einer Kampagne verknüpft ist, kann nicht gelöscht werden.
 
 Großartig! Nachdem Sie jetzt den Segmentabschnitt verstanden haben, sollten wir uns mit Kampagnen beschäftigen.
 
->[!NOTE]
-**Verwandte Artikel**
+>[!MORELIKETHIS]
 * [Ein einfaches Websegment erstellen](create-a-basic-web-segment.md)
 * [Eine neue Dialogfeld-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Eine neue Web-Kampagne in einer Zone erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
