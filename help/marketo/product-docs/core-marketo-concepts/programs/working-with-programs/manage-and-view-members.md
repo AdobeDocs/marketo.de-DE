@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Mitglieder verwalten und Ansicht - Marketing Docs - Produktdokumentation
 title: Mitglieder verwalten und Ansicht
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,7 @@ Sie können den Status Ihrer Personen im Mitgliederraster ändern.
 
 So viele Features, aber sie sind alle ziemlich einfach. Viel Spaß!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen eines Programm-Leistungsberichts](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
 
