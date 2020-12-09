@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: Offline-Konversionen für Facebook - Marketing-Dokumente - Produktdokumentation
 title: Offline-Konversionen in Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Sie können Facebook-Offline-Konversionen [einrichten, um die Offline-Anzeigenle
 1. Ordnen Sie die Phasen im Umsatzzyklusmodell den Offline-Konversionsphasen auf Facebook zu.
 1. Wenn ein Facebook-Lead aus einer Facebook-Lead-Anzeige generiert wird und eine zugeordnete Phase erreicht, sendet Marketing Offline-Konversionsdaten mehrmals täglich über eine sichere, automatisierte API zurück an Facebook. Die Daten werden im Bericht &quot;Facebook Ads Manager&quot;angezeigt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Einrichten von Facebook-Offline-Konversionen](set-up-facebook-offline-conversions.md)
 
