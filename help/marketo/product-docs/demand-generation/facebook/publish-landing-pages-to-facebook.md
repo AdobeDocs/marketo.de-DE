@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Landingpages auf Facebook - Marketing-Dokumente - Produktdokumentation veröffentlichen
 title: Landingpages auf Facebook veröffentlichen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Sie können Ihre Landingpages auf Facebook veröffentlichen, Ihre Audience dort 
 >
 >SMB Spark, Standard &amp; Select. Enterprise mit separat lizenzierter Funktion.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Ihre Seite muss mindestens 2.000 &quot;Gefällt mir&quot;-Klicks aufweisen, bevor Sie auf Facebook veröffentlichen können.
 
