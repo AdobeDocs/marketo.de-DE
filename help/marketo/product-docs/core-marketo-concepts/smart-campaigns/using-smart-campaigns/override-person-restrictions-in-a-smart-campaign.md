@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: Außerkraftsetzen von Personenbeschränkungen in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Personenbeschränkungen in einer intelligenten Kampagne überschreiben
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Mit Marketo können Sie die maximale* *Anzahl der Personen festlegen, die sich f
 >
 >Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Stellen Sie sicher, dass Sie in Marketing Admin Personenbeschränkungen für intelligente Kampagnen [](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) aktivieren.
 
