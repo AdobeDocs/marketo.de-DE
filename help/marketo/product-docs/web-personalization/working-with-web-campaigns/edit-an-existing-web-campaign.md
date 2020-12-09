@@ -3,9 +3,9 @@ unique-page-id: 4719408
 description: Eine vorhandene Web-Kampagne bearbeiten - Marketing Docs - Produktdokumentation
 title: Eine vorhandene Web-Kampagne bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Eine Web-Kampagne löschen](delete-a-web-campaign.md)
 >* [Starten/Anhalten einer](launch-pause-a-web-campaign.md) [Kampagne](launch-pause-a-web-campaign.md)
