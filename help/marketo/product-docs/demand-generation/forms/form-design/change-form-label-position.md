@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Position der Formularbeschriftung ändern - Marketing to Docs - Produktdokumentation
 title: Position der Formularbeschriftung ändern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Beim [Erstellen eines Formulars](../../../../product-docs/demand-generation/form
 
 Gut gemacht! Erkennen Sie, wie einfach es war, die Beschriftungsposition auf einem Formular zu ändern? Okay, sehen wir, was wir tun können, um die Schrift der Formularbeschriftungen zu ändern.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Formularschriftfamilie ändern](change-the-form-font-family.md)
 
