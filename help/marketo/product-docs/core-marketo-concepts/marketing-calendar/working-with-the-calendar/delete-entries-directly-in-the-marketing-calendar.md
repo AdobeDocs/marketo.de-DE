@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Einträge direkt im Marketingkalender löschen - Marketing Docs - Produktdokumentation
 title: Einträge direkt im Marketingkalender löschen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Sie können Einträge nicht nur [erstellen](create-entries-directly-in-the-marke
 
 Je nach Eintrag müssen Sie den Löschvorgang bestätigen. Aber das ist es! Leichte Pisse.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Einträge direkt im Marketingkalender bestätigen](confirm-entries-directly-in-the-marketing-calendar.md)
 
