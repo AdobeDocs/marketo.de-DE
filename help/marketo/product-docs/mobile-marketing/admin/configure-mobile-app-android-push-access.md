@@ -3,9 +3,9 @@ unique-page-id: 7512432
 description: Mobile App-Android-Push-Zugriff konfigurieren - Marketing Docs - Produktdokumentation
 title: Mobile App-Android-Push-Zugriff konfigurieren
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    Süß. Stellen Sie sicher, dass Sie die App mit iOS konfigurieren.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Mobile App konfigurieren - Push-Zugriff auf iOS](configure-mobile-app-ios-push-access.md)
 
