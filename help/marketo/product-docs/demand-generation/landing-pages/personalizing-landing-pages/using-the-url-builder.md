@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Verwenden des URL Builder - Marketing Docs - Produktdokumentation
 title: Verwenden des URL-Builders
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Mit dem URL-Aufbau können Sie URLs erstellen, die Marker in ausgeblendete Formu
 >
 >Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Erfahren Sie, wie Sie ausgeblendete Felder in Formularen erstellen und ihre Einstellungen bearbeiten, indem Sie ein Formularfeld als ausgeblendet [festlegen](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
