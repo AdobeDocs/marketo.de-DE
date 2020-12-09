@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Erzählen Sie die Marketing Story mit einem Einflussanalysator - Marketing Docs - Produktdokumentation
 title: Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Verwenden Sie einen Einflussanalysator für Chancen, um die Rolle des Marketing in wichtigen Gelegenheiten zu illustrieren. Zeigen Sie, wie Marketing eine Chance beeinflusste, von der ersten Berührung bis zur Schaffung von Chancen und gewinnen, und darüber hinaus.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Erstellen eines Einflussanalysators](create-an-opportunity-influence-analyzer.md)
 
