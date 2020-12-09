@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: Ihre Standard-Branding-Domäne bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Standardmäßige Branding-Domäne bearbeiten
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Die Bearbeitung Ihrer Standard-Branding-Domäne ist der erste Schritt bei der Arbeit mit Branding-Domänen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Stellen Sie sicher, dass Sie einen CNAME in Ihrem DNS [](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) eingerichtet haben, bevor Sie Ihre Markendomänen in Marketing hinzufügen.
 
