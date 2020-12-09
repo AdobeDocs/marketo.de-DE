@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: Neue Dialogfeld-Web-Kampagne - Marketing-Dokumente - Produktdokumentation erstellen
 title: Eine neue Dialogfeld-Web-Kampagne erstellen
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Siehe [Klonen einer Web-Kampagne](clone-a-web-campaign.md).
 
 1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, ob Sie die Web-Kampagne löschen möchten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Eine neue Web-Kampagne in einer Zone erstellen](create-a-new-in-zone-web-campaign.md)
 >* [Neue Widget-Web-Kampagne erstellen](create-a-new-widget-web-campaign.md)
