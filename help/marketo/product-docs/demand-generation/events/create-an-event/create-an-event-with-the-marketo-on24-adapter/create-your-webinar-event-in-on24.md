@@ -3,9 +3,9 @@ unique-page-id: 10096712
 description: Erstellen Sie Ihr Webinar-Ereignis in ON24 - Marketing Docs - Produktdokumentation
 title: Webinar-Ereignis in ON24 erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Es gibt bestimmte Einstellungen bei der Erstellung Ihres ON24-Webinars, die von 
 
 Als Nächstes müssen Sie ein Ereignis in Marketo [erstellen](create-an-event-in-marketo.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
 
