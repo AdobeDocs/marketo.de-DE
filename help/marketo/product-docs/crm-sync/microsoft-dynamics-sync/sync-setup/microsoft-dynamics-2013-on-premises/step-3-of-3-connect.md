@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Schritt 3 von 3 - Connect Marketing and Dynamics (On-Premises 2013) - Marketing Docs - Produktdokumentation
 title: Schritt 3 von 3 - Connect Marketing and Dynamics (On-Premises 2013)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfiguriert. Als Nächstes müssen wir Marketo und Dynamics verbinden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Schritt 1 von 3: Installieren Sie die Marketing Solution in Dynamics (On-Premises 2013)](step-1-of-3-install.md)
 >* [Schritt 2 von 3: Konfigurieren des Synchronisierungsbenutzers für Marketo (On-Premises 2013)](step-2-of-3-configure.md)
