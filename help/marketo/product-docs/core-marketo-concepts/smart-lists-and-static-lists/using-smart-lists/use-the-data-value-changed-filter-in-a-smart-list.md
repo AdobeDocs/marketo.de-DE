@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Verwenden Sie den Datenwertänderungsfilter in einer intelligenten Liste - MarketingToDocs - Produktdokumentation
 title: Verwenden des Filters "Datenwert geändert"in einer intelligenten Liste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Die Werte ändern sich ständig und werden in Ihrer Marketing-Datenbank aktualisiert. Manchmal sollten Sie, anstatt nach einem bestimmten Wert zu suchen, nach Personen suchen, die eine Wertänderung hatten. So geht es.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
