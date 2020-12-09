@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO - Eingehende Links - Marketing-Dokumente - Produktdokumentation
 title: SEO - Eingehende Links
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ Eingehende Links geben Suchmaschinen an, dass es sich lohnt, auf Ihre Site verwi
 
 Süß! Nachdem Sie nun die eingehenden Links verstanden haben, können wir Ihnen mehr Möglichkeiten für einen Link auf Ihrer Site vorschlagen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Empfehlungen zu Inbound-Links abrufen](seo-get-inbound-link-suggestions.md)
 
