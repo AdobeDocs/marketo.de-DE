@@ -3,9 +3,9 @@ unique-page-id: 2359761
 description: hinzufügen eines Videos - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Videos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
 
 Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können die Landingpage auch auf Facebook [](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) veröffentlichen oder die [Videofreigabe auf Ihre Website](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)übertragen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Sie sind fertig, aber Sie können bei Bedarf die Einstellungen für Ihre Videofreigabe ändern. Beginn mit der [Anpassung des Freigabeflusses](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Freigabeaufforderung geöffnet wird).
 
