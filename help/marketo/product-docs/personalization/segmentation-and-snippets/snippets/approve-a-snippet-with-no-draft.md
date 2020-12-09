@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: Snippet mit No-Draft - Marketing Docs - Produktdokumentation genehmigen
 title: Snippet ohne Entwurf genehmigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 >
 >Mit dieser Funktion sparen Sie Zeit mit dem Arbeitsablauf für die Segmentgenehmigung. Es gibt jedoch einige Einschränkungen, die man beachten muss. Weitere Informationen finden Sie in [diesem Dokument](https://nation.marketo.com/docs/DOC-4415) . Das Dokument enthält außerdem Informationen zur Fehlerbearbeitung und Fehlerbehebung.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[No-Draft für Snippets aktivieren](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
