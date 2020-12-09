@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: hinzufügen von Inhalten in einem Stream - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen von Inhalten in einem Stream
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
 Gute Arbeit! Sie kennen jetzt verschiedene Möglichkeiten, Programm-Streams Inhalte hinzuzufügen. hinzufügen so viele, wie du für deine Pflege brauchst. Weitere Informationen finden Sie im entsprechenden Artikel unten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Hinzufügen eines Programms zu einem Interaktions-Programm-Stream](adding-a-program-to-an-engagement-program-stream.md)
 
