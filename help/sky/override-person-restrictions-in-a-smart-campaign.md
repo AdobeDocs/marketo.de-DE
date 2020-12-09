@@ -2,7 +2,7 @@
 title: override-person-limits-in-a-smart-Kampagne
 description: Personenbeschränkungen in einer intelligenten Kampagne überschreiben
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Mit Marketo können Sie festlegen, wie viele Personen maximal für eine intellig
 >
 >Stellen Sie sicher, dass Sie [Personenbeschränkungen für intelligente Kampagnen](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) in Marketing [!UICONTROL Admin]aktivieren.
 
-1. Suchen Sie Ihre intelligente Kampagne und klicken Sie auf [!UICONTROL **Planen**].
+1. Suchen Sie Ihre intelligente Kampagne und klicken Sie auf **[!UICONTROL Planen]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Klicken Sie auf [!UICONTROL **Qualifikationsregeln**].
+1. Klicken Sie auf **[!UICONTROL Qualifikationsregeln]**.
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Mit Marketo können Sie festlegen, wie viele Personen maximal für eine intellig
    >
    >Der Standardwert ist der in Admin festgelegte Grenzwert.
 
-1. Geben Sie neben Kampagne [!UICONTROL **abbrechen, wenn qualifizierte Interessenten größer**] sind, einen neuen Grenzwert ein.
+1. Geben Sie neben Kampagne **[!UICONTROL abbrechen, wenn qualifizierte Interessenten größer]** sind, einen neuen Grenzwert ein.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
