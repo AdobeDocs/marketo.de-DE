@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Anleitung zum Verbinden von Verkaufsstellen mit Ihrer Salesforce-Sandbox - Marketo Docs - Produktdokumentation
 title: Verbindung von Verkaufsstellen mit Ihrer Salesforce-Sandbox
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Verbindung von Verkaufsstellen mit Ihrer Salesforce-Sandbox {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Ihr Sales Connect-Konto kann nicht bereits mit Salesforce verbunden werden, wenn eine Verbindung zur Sandbox hergestellt wird. Falls ja, [stellen Sie sicher, dass Sie die Verbindung trennen](http://docs.marketo.com/x/FoDq) , bevor Sie die Schritte in diesem Artikel befolgen.
 
