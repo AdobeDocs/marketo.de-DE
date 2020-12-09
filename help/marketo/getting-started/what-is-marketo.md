@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Was ist Marketo? - Marketing Docs - Produktdokumentation
 title: Was ist Marketo?
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -51,4 +51,4 @@ Nein! Wir haben eine Reihe einfacher Tutorials gemacht. [Fang hier](/help/market
 
 ## Warum stelle ich noch Fragen? {#why-am-i-still-asking-questions}
 
-Ich weiß es nicht, aber wir helfen Ihnen gerne weiter. Wir sind zusammen dabei!
+Ich weiß es nicht, aber wir helfen gerne. Wir sind zusammen da!
