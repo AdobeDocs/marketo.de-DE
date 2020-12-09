@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: Personendaten verwalten - Marketing-Dokumente - Produktdokumentation
 title: Personendaten verwalten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
 
 Die folgenden Interessentenfelder werden für neue Web-Personalisierungskonten standardmäßig bereitgestellt:
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen eines Segments mithilfe von Daten bekannter Personen](create-a-segment-using-known-person-data.md)
 
