@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: Push-Konfiguration überprüfen - Marketing Docs - Produktdokumentation
 title: Push-Konfiguration überprüfen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Push-Konfiguration überprüfen {#verify-push-configuration}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Ihr Mobilentwickler muss Ihrer mobilen App den Marketo-SDK-Code hinzugefügt haben.
 
