@@ -3,9 +3,9 @@ unique-page-id: 2359862
 description: Hochgeladene Bilder und Dateien durchsuchen - Marketing Docs - Produktdokumentation
 title: Hochgeladene Bilder und Dateien durchsuchen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ In Marketo ist das Suchen von Bildern und Dateien ein Kinderspiel.
 
 Nimm deine Füße auf! Du bist fertig!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Hochgeladene Bilder oder Dateien ersetzen](replace-an-uploaded-image-or-file.md)
 >* [Bilder und Dateien mithilfe von Ordnern organisieren](organize-your-images-and-files-using-folders.md)
