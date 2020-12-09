@@ -3,9 +3,9 @@ unique-page-id: 7515069
 description: Elemente und Variablen in Guided Templates - Marketing Docs - Produktdokumentation
 title: Elemente und Variablen in Guided Templates
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Es gibt drei Variablentypen: Zeichenfolgenvariablen, Farbvariablen und boolesche
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Erstellen einer Vorlage für eine Landingpage mit Guided](create-a-guided-landing-page-template.md)
 
