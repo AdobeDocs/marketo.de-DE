@@ -3,9 +3,9 @@ unique-page-id: 11385942
 description: Predictive Inhalte für die Empfehlungsleiste bearbeiten - Marketing Docs - Produktdokumentation
 title: Predictive Inhalte für die Empfehlungsleiste bearbeiten
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie Ihren Prognoseinhalt für die Recommendations-Leiste einrichten.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Der Inhalt muss auf der Seite &quot;Alle Inhalte&quot; [genehmigt werden, um Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) vorhersagen zu können.
 
