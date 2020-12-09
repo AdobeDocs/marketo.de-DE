@@ -2,7 +2,7 @@
 title: archive-a-Programm
 description: Programm archivieren
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Um ein Programm zu archivieren, müssen Sie es in einen separaten Archivordner verschieben.
 
-1. Erstellen Sie einen neuen Kampagnen-Ordner, indem Sie mit der rechten Maustaste auf den Arbeitsflächen-Globus klicken und [!UICONTROL **Neuer Kampagnenordner**] auswählen.
+1. Erstellen Sie einen neuen Kampagnen-Ordner, indem Sie mit der rechten Maustaste auf den Arbeitsflächen-Globus klicken und **[!UICONTROL Neuer Kampagnenordner]** auswählen.
 
    ![Bild eins](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Geben Sie einen Namen für den neuen Ordner ein und fügen Sie dann eine optionale Beschreibung hinzu. Klicken Sie auf [!UICONTROL **Erstellen**].
+1. Geben Sie einen Namen für den neuen Ordner ein und fügen Sie dann eine optionale Beschreibung hinzu. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![Bild zwei](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Um ein Programm zu archivieren, fügen Sie es zunächst dem neu erstellten Ordner hinzu, indem Sie mit der rechten Maustaste darauf klicken und dann [!UICONTROL **Verschieben**] wählen.
+1. Um ein Programm zu archivieren, fügen Sie es zunächst dem neu erstellten Ordner hinzu, indem Sie mit der rechten Maustaste darauf klicken und dann **[!UICONTROL Verschieben]** wählen.
 
    ![Bild drei](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Geben Sie ein, um nach dem neuen Ordner zu suchen, und wählen Sie ihn dann aus der Dropdownliste aus. Klicken Sie auf [!UICONTROL **Verschieben**].
+1. Geben Sie ein, um nach dem neuen Ordner zu suchen, und wählen Sie ihn dann aus der Dropdownliste aus. Klicken Sie auf **[!UICONTROL Verschieben]**.
 
    ![Bild vier](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie &quot;In Archivordner [!UICONTROL **konvertieren&quot;**].
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie &quot;In Archivordner **[!UICONTROL konvertieren&quot;]**.
 
    ![Bild fünf](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
