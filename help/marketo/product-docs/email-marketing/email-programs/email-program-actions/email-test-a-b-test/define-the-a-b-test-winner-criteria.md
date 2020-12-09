@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Definieren Sie die Kriterien für den Gewinner des A/B-Tests - Marketing-Dokumente - Produktdokumentation
 title: Definieren der Kriterien für den A/B-Test-Gewinner
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzufügen, müssen Sie einen Testtyp auswählen, den A/B-Test [planen und dann die Gewinnerkriterien](schedule-the-a-b-test.md)definieren. Hier ist, wie man entscheidet, welche E-Mail gewinnt.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen eines A/B-Tests](add-an-a-b-test.md)
 
