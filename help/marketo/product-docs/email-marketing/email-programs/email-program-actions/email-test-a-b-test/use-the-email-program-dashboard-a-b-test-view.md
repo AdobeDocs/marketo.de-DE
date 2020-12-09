@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Verwenden Sie das Dashboard E-Mail-Programm - A/B-Test-Ansicht - Marketing-Dokumente - Produktdokumentation
 title: Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Hier können Sie eine Aufschlüsselung der Klicks und Abbestellungen nach Varian
 
 Coole Dashboard, denkst du nicht?
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Verwenden Sie das Dashboard E-Mail-Programm](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
