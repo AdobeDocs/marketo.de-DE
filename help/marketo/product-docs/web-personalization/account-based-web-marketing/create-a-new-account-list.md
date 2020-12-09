@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Erstellen einer Liste für ein neues Konto - Marketing Docs - Produktdokumentation
 title: Eine Liste für ein neues Konto erstellen
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ Die CSV-Datei ersetzt die vorhandene Datei. Die bestehende Liste bleibt solange 
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen eines Segments mit einer Kontoversion einer Liste](create-a-segment-using-an-account-list.md)
 >* [Ansicht einer Liste mit einem benannten Konto](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
