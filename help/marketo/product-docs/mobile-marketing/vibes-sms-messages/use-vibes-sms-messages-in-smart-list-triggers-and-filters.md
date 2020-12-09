@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Verwenden von Vibes-SMS-Nachrichten in Auslösern und Filtern mit intelligenter Liste - Marketing Docs - Produktdokumentation
 title: Verwenden von Vibes-SMS-Nachrichten in Auslösern und Filtern mit intelligenter Liste
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Der **Member of Vibes Liste **filter** **findet** dagegen **jemanden** ***derzei
 
 Nachdem Sie die Vibes-Auslöser und -Filter in Ihrer intelligenten Liste eingerichtet haben, können Sie den Fluss [definieren](add-a-flow-step-for-sms.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Intelligente Liste für intelligente Kampagne definieren | Auslöser](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Filter für eine intelligente Liste suchen und Hinzufügen](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
