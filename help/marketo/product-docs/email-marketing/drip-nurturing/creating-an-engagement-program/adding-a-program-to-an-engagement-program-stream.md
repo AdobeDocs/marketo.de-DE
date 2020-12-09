@@ -3,9 +3,9 @@ unique-page-id: 10098134
 description: Hinzufügen eines Programms zu einem Interaktions-Programm-Stream - Marketing Docs - Produktdokumentation
 title: Hinzufügen eines Programms zu einem Interaktions-Programm-Stream
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Der Berichte ändert sich mit dem E-Mail-Speicherort. Wenn sich die E-Mail beisp
 >
 >Wenn Sie etwas erneut senden möchten, ist es am sichersten, ein neues Programm und eine intelligente Kampagne zu erstellen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen von Inhalten in einem Stream](add-content-to-a-stream.md)
 >* [Programme verstehen](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
