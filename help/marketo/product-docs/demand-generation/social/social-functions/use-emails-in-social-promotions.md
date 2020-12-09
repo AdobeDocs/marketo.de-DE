@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: E-Mails in Social Promotions - Marketing-Dokumente - Produktdokumentation
 title: E-Mails in Social-Promotions verwenden
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Verwenden Sie in den E-Mails die folgenden Token:
 
 * **Fulfillment-E-Mail**: Verwenden Sie **`{{social.Promo Code}}`** diese Option, um jedem Gewinner einen [Promo-Code](use-promo-codes-for-offer-fulfillment.md)zu senden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Bevor Sie einer Social-App eine E-Mail hinzufügen können, muss diese *funktionsfähig* und *genehmigt* sein. Siehe [Einstellungen bearbeiten für eine E-Mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
