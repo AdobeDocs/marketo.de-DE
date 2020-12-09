@@ -3,9 +3,9 @@ unique-page-id: 4720075
 description: Ansicht Web-Kampagnen von einer spezifischen Beschriftung - Marketing-Dokumente - Produktdokumentation
 title: Ansicht von Web-Kampagnen aus einer bestimmten Bezeichnung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Suchen Sie nach Ansicht und filtern Sie Ihre Kampagnen nach einem bestimmten Eti
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Ihre Web-Kampagnen beschriften](label-your-web-campaigns.md)
 >* [Ansicht von Segmenten aus einer bestimmten Bezeichnung](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
