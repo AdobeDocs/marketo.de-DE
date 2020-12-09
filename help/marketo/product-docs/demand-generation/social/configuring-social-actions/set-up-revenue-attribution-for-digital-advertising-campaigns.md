@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Einrichten der Umsatzzuordnung für Digital Advertising Kampagnen - Marketing Docs - Produktdokumentation
 title: Einrichten der Umsatzzuordnung für Digital Advertising-Kampagnen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Nachdem Sie Ihr erstes Programm in Marketo eingerichtet haben, können Sie es kl
 
 Mit separaten Programmen können Sie dann die Anzahl der Konvertierungen aus jedem  verfolgen und Ihre Programm in Programm Analyzer, Opportunity Influence Analyzer und anderen Marketingto Analytics-Funktionen anzeigen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* Richten Sie ein Kanal-Tag mit Statuswerten und Programm-Erfolg ein (z. B. Digital Advertising oder Social Paid und PPC)
 >* Erstellen oder bearbeiten Sie ein Formular, um eine Abfrage-Zeichenfolge mit der Person zu übergeben
