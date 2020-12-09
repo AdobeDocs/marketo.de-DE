@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: Erläuterungen zum SEO-Dashboard - SEO Snapshot - Marketo Docs - Produktdokumentation
 title: Das SEO-Dashboard - SEO Snapshot
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Das Suchbegriffsbewertungsdiagramm zieht Ihre Suchbegriffe mit den fünf höchst
 
 Einfach, nicht wahr? Schauen wir uns nun den Recommendations-Abschnitt dieses Dashboards an.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Das Dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
