@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Funktionsweise der Rückverfolgung von Antworten - Marketing Docs - Produktdokumentation
 title: Funktionsweise der Nachverfolgung von Antworten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Die Rückverfolgung der Antworten erfolgt durch Prüfen einer Nachrichten-ID, die in jeder E-Mail enthalten ist, die Sie senden. Jede E-Mail enthält eine eindeutige Nachrichten-ID, mit der wir einige der besten Antworten verfolgen können.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >**Verbindung mit E-Mail-Server:** Sales Connect muss mit Ihrem Posteingang verbunden sein, damit wir wissen, wann eine neue Antwort eingetroffen ist. Sie müssen Ihr Sales Connect-Konto [mit Gmail](http://docs.marketo.com/x/kYMOAQ)verbinden. Wenn Sie Outlook verwenden, müssen wir uns in Ihren [Exchange-Server](http://toutapp.com/next#settings/exchange_settings)integrieren.
 
