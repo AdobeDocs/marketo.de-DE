@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Professional) - Marketing Docs - Produktdokumentation
 title: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Schritt 1 von 3: hinzufügen Marketo Fields to Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Ihre Salesforce-Instanz muss Zugriff auf die Salesforce-APIs haben, um Daten zwischen Marketo und Salesforce zu synchronisieren.
 
