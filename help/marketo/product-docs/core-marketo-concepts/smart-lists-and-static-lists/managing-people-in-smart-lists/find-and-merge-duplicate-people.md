@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Duplikat People suchen und zusammenführen - Marketing Docs - Produktdokumentation
 title: Duplikat-Personen suchen und zusammenführen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
 >
 >Marketo wird nicht automatisch deduplizieren gegen eine Salesforce- oder Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben Menschen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Das Suchen und Zusammenführen von Duplikaten erfordert den Einsatz [integrierter/systemintelligenter Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
