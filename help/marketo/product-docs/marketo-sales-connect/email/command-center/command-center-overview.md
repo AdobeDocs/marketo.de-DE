@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Übersicht über das Command Center - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über das Command Center
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Wenn Sie z. B. einer Kampagne in MSC 100 Personen hinzufügen, möchten Sie mög
 
 Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert sie als dynamische Liste und fügt E-Mails hinzu, die die Einsatzkriterien erfüllen, sobald der Empfänger Ihre E-Mail Ansicht oder auf Ihre E-Mail klickt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Aufgaben](http://docs.marketo.com/x/qwDb)
 >* [Überblick über die erweiterte Suche](http://docs.marketo.com/x/KQM6Ag)
