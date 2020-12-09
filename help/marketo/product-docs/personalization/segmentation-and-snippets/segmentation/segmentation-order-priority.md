@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Priorität der Segmentierungsreihenfolge - Marketing-Dokumente - Produktdokumentation
 title: Priorität der Segmentierungsreihenfolge
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Es ist wichtig zu verstehen, wie die **Reihenfolge** die Priorität für die Bewertung Ihrer Mitarbeiter in einer Segmentierung festlegt.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Eine Segmentierung erstellen](create-a-segmentation.md)
 >* [Segmentregeln definieren](define-segment-rules.md)
