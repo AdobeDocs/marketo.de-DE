@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Erfahren Sie mehr über Programm- und Kanal-Details mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm- und Kanal-Details mit dem Programm Analyzer
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Detaillierte Programm- und Kanal-Statistiken finden Sie im Programm Analyzer. Sie können sie auch im Umsatz-Cycle-Explorer öffnen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Programm-Analyzer erstellen](create-a-program-analyzer.md)
 
