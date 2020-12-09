@@ -3,9 +3,9 @@ unique-page-id: 4720236
 description: Erstellen eines Segments mithilfe einer Kontodokumentation - Marketing Docs - Liste
 title: Erstellen eines Segments mit einer Kontoversion einer Liste
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 So erstellen Sie ein Segment mit einer Kontoklasse.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Eine Liste für ein neues Konto erstellen](../../../product-docs/account-based-marketing/target/account-lists.md)
 
