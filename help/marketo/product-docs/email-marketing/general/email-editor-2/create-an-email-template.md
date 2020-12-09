@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: Erstellen einer E-Mail-Vorlage - Marketing-Dokumente - Produktdokumentation
 title: E-Mail-Vorlage erstellen
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Ve
 
 Um Ihre E-Mail-Vorlage anzupassen, sehen Sie sich den unten stehenden Artikel an.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Syntax der E-Mail-Vorlage](email-template-syntax.md)
 
