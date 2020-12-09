@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: Erstellen Sie ein Ereignis mit dem Marketo ON24 Adapter - Marketing Docs - Produktdokumentation
 title: Erstellen eines Ereignisses mit dem Marketo ON24-Adapter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Führen Sie die folgenden Schritte aus, um ein Ereignis mit dem Marketo On24-Ada
 1. [Erläuterungen zu Webinar-Programm-Status](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24-Ereignis-Registrierungsaktualisierungen](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Ereignisse des Marketo ON24-Adapters](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
