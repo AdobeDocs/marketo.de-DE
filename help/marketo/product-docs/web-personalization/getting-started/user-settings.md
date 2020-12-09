@@ -3,9 +3,9 @@ unique-page-id: 4719336
 description: Benutzereinstellungen - MarketingToDocs - Produktdokumentation
 title: Benutzereinstellungen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Wählen Sie aus, welcher [E-Mail-Bericht](../../../product-docs/web-personalizat
 >
 >Wenn Sie auf **Speichern** klicken, werden Sie nicht aus den Benutzereinstellungen ausgeschlossen. Klicken Sie zum Verlassen auf das Markieren-Logo oben links und wählen Sie Ihr Ziel aus.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Regionen bearbeiten](edit-regions.md)
 
