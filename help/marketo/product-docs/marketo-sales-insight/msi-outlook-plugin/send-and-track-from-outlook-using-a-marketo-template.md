@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Senden und Verfolgen von Outlook mit einer Marketing-Vorlage - Marketing-Dokumente - Produktdokumentation
 title: Senden und Verfolgen von Outlook mit einer Marketing-Vorlage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie 
 
    Und da gehst du! Sie konnten eine Menge Zeit sparen, indem Sie Vorlagen verwenden, die Ihr super tolles Marketing-Team für Sie erstellt hat.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing ein](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
