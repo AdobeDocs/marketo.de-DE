@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: Erstellen einer benutzerspezifischen Aktivität - Marketing Docs - Produktdokumentation
 title: Erstellen einer benutzerspezifischen Aktivität
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
 
    Und das ist es!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Benutzerdefinierte Aktivitäten](understanding-custom-activities.md)
 
