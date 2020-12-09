@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Schritt 1 von 3 - Hinzufügen Marketing Fields to Salesforce (Enterprise/Unlimited) - Marketing Docs - Produktdokumentation
 title: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie müssen Zugriff auf die Salesforce-APIs haben, um zwischen Marketo und Salesforce zu synchronisieren.
 
