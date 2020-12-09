@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: Übersicht über interessante Momente - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über interessante Momente
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Sie können den interessanten Moment-Flow-Schritt nutzen, um Ihrem Vertriebsteam
 
 Sie können Token auch in interessanten Momenten verwenden, um wirklich nützliche dynamische Beschreibungen zu erstellen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Verwenden interessanter Momente](using-interesting-moments.md)
 >* [Tokens für interessante Momente](tokens-for-interesting-moments.md)
