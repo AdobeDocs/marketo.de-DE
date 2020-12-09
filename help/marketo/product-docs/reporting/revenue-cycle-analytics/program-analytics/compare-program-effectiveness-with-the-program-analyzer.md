@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Vergleichen Sie die Effektivität von Programmen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Verwenden Sie den Programm Analyzer, um Ihre am effektivsten und effektivsten Programm zu identifizieren, indem Sie die Kosten für Programm, Mitgliederakquise, Pipeline und Umsatz vergleichen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Programm-Analyzer erstellen](create-a-program-analyzer.md)
 
