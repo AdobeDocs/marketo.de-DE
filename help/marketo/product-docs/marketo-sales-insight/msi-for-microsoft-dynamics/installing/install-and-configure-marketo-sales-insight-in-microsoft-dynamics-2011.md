@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Installieren und konfigurieren Sie Marketing Sales Insight in Microsoft Dynamics 2011 - Marketing Docs - Produktdokumentation
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2011
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo Sales Insight ist ein fantastisches Tool für Ihr Vertriebsteam. Hier finden Sie eine schrittweise Anleitung, wie Sie es in Microsoft Dynamics 2011 On-Premises installieren und konfigurieren.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Schließen Sie Ihre [Marketing-Microsoft-Integration](http://docs.marketo.com/x/DoA2)ab.
 >
