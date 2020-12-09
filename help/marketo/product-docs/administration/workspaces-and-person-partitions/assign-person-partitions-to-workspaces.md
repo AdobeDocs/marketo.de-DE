@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Zuweisen von Benutzerpartitionen zu Arbeitsbereichen - Marketing zu Dokumenten - Produktdokumentation
 title: Zuweisen von Benutzerpartitionen zu Arbeitsbereichen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsber
 >
 >**Administratorberechtigungen erforderlich**
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >[Neue Arbeitsfläche erstellen](create-a-new-workspace.md)
 
