@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Benutzerdefinierte Felder für Programm-Mitglieder - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Felder für Programm-Member
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ Sie können diese Programm-spezifischen Daten in intelligenten Listen über [](h
 * Import und Export über die [](http://docs.marketo.com/x/egAk)Standart- [](http://developers.marketo.com/)APIs werden unterstützt.
 * Wenn Sie zwei Personen zusammenführen, werden die Felddaten des Gewinners für ein benutzerdefiniertes Programm verwendet. Hat der Gewinner jedoch keine, wird der Wert des Verlierers verwendet.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Benutzerdefiniertes Feld in Marketing erstellen](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
