@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: E-Mail-Leistungsbericht - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur E-Mail-Leistung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Im Allgemeinen versuchen wir, diese Statistiken mit dem gesunden Menschenverstan
 >
 >Mehrere Sends von derselben Kampagne an dieselbe Person werden nur einmal gezählt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Assets in Kampagne-E-Mail-Berichten filtern](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Leistungsbericht zu E-Mail-Links](email-link-performance-report.md)
