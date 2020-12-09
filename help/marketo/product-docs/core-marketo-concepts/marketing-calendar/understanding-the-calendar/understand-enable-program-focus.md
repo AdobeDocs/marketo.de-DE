@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Programm-Fokus verstehen/aktivieren - Marketing-Dokumente - Produktdokumentation
 title: Programm-Fokus verstehen/aktivieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Der Marketingkalender gibt Ihnen eine Ansicht der Dinge, aber er erlaubt auch ei
 
 Fantastisch! Nun machen Sie weiter und lernen Sie, mit Einträgen zu interagieren.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Einträge direkt im Marketingkalender erstellen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [Einträge direkt im Marketingkalender bearbeiten](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
