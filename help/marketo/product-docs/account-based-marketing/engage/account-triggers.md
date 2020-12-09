@@ -3,9 +3,9 @@ unique-page-id: 11380734
 description: Kontoauslöser - Marketing Docs - Produktdokumentation
 title: Kontoauslöser
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Kontoauslöser {#account-triggers}
 
-Sie können wichtige verhaltensbezogene Aktivitäten auf Kontoebene über verschiedene Kanal hinweg (z. B. E-Mail, Web, Anzeigen) mit Auslösern auf Kontoebene prüfen und darauf reagieren.
+Sie können wichtige verhaltensbasierte Aktivitäten auf Kontoebene über verschiedene Kanal hinweg (z. B. E-Mail, Web, Anzeigen) mit Auslösern auf Kontoebene prüfen und darauf reagieren.
 
-Wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf Intelligente Liste.
+Wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf **[!UICONTROL Intelligente Liste]**.
 
 ![](assets/one-1.png)
 
@@ -23,13 +23,14 @@ Geben Sie &quot;Benanntes Konto&quot;in das Suchfeld ein, um beide Auslöser fü
 
 ![](assets/two-1.png)
 
-Ziehen Sie den Auslöser auf die Arbeitsfläche. In diesem Beispiel verwenden wir *Zusatz zum benannten Konto*.
+Ziehen Sie den Auslöser auf die Arbeitsfläche. In diesem Beispiel verwenden wir _Zusatz zum benannten Konto_.
 
 ![](assets/three-1.png)
 
 Wählen Sie einen Qualifikator aus.
 
-![](assets/four-1.png)\
+![](assets/four-1.png)
+
 Klicken Sie auf die Dropdownliste Benanntes Konto...
 
 ![](assets/five-1.png)
@@ -40,13 +41,7 @@ Klicken Sie auf die Dropdownliste Benanntes Konto...
 
 Das ist&#39;s! Nachdem Sie den Rest der intelligenten Kampagne beendet haben, denken Sie daran, sie zu aktivieren.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Filter](account-filters.md)
-
->
-
-
 
