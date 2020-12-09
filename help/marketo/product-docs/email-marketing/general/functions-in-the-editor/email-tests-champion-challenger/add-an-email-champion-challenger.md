@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: hinzufügen ein E-Mail-Champion/Challenger - Marketing Docs - Produktdokumentation
 title: hinzufügen eines E-Mail-Champions/Challenger
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Es empfiehlt sich, häufig verwendete E-Mails zu testen, um sicherzustellen, das
 Die vorhandene E-Mail, die Sie testen, gilt als Meister. Alle Varianten, die Sie in einem Test erstellen, werden als Herausforderer betrachtet. Sie bestimmen den Prozentsatz der Benutzer, die entweder den Inhalt des Meisters oder den Inhalt des Herausforderers erhalten. Wenn Sie mehrere Herausforderer definiert haben, werden diese gleichmäßig auf die herausfordernde Gruppe verteilt.\
 Hier ist, wie man anfängt.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Programm erstellen](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [E-Mail erstellen](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
