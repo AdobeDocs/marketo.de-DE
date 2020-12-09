@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Predictive Content für Web Rich Media - Marketing-Dokumente - Produktdokumentation aktivieren
 title: Predictive Content für Web Rich Media aktivieren
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Predictive Content bindet Ihre Web-Besucher mit den relevantesten Inhalten, basierend auf maschinellem Lernen und prädiktiven Analysen. Mit Web Rich Media können Sie Ihren Inhalt mit Textbeschreibungen und Bildern verbessern und mehrere Empfehlungen für den prädiktiven Inhalt in Ihre Website einbetten.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Bevor Sie Predictive Content aktivieren, müssen Sie:
 >
