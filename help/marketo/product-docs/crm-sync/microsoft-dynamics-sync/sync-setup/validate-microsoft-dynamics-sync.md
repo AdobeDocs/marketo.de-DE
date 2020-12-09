@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Validieren von Microsoft Dynamics Sync - Marketing Docs - Produktdokumentation
 title: Microsoft Dynamics Sync überprüfen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Es ist sehr wichtig, dass Sie das Tool zum Überprüfen der Synchronisierung aus
    >
    >Wir unterstützen derzeit keine Sandbox-Aktualisierung für Marketo Dynamics Sync. Wenn Sie Ihre Dynamics CRM-Sandbox aktualisieren müssen, benötigen Sie eine neue Marketo-Sandbox. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Probleme mit der Synchronisierung der Dynamikvalidierung beheben](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
