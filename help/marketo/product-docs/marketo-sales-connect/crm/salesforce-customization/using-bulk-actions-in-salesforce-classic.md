@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Massenaktionen in Salesforce Classic - Marketing Docs - Produktdokumentation
 title: Massenaktionen in Salesforce Classic verwenden
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer Kampagne hinzufügen, eine Massen-E-Mail versenden oder Interessenten von Salesforce zu Sales Connect verschieben.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Aktualisieren Sie auf die neueste Version des Sales Connect-Pakets und installieren Sie die Schaltflächen für Massenaktionen in Ihrer Ansicht für Lead/Kontakt. [Klicken Sie hier für Anleitungen](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
