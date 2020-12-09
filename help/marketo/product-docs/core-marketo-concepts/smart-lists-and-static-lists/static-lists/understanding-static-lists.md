@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: Statische Listen - Marketing-Dokumente - Produktdokumentation
 title: Statische Listen verstehen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -52,9 +52,7 @@ Der Unterschied zwischen einer statischen und intelligenten Liste ist für ein V
 
 Genieße die Kraft der LISTE!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Erstellen einer statischen Liste](https://docs.marketo.com/x/ecKt)
 
