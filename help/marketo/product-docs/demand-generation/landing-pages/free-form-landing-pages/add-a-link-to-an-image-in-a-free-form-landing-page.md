@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: hinzufügen eines Links zu einem Bild in einer Freiformdatei-Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site einrichten? So geht es.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen eines Bildes in eine Freiform-Landingpage](add-an-image-to-a-free-form-landing-page.md)
 
