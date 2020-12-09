@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: Die Analyse von Chancen im Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
 title: Die Analyse von Chancen im Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ Die Opportunity-Analyse ermöglicht Ihnen den Zugriff auf alle Lead-, Firma- und
    | Opportunity Amount (Open) | Gesamtbetrag der offenen Möglichkeiten. Wenn mehr als ein Interessent mit einer Gelegenheit verbunden ist, basiert der Zuordnungsbetrag auf dem Interessentenergebnis. |
    | Opportunity Amount (Won) | Gesamtsumme der gewonnenen Chancen. Wenn mehr als ein Interessent mit einer Gelegenheit verbunden ist, basiert der Zuordnungsbetrag auf dem Interessentenergebnis. |
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen eines Berichts für den Umsatz-Explorer](create-a-revenue-explorer-report.md)
 >* [Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](adding-fields-to-a-revenue-explorer-report.md)
