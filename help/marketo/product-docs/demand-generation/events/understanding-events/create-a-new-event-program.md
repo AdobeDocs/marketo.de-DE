@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: Erstellen eines neuen Ereignis-Programms - Marketing Docs - Produktdokumentation
 title: Neues Ereignis-Programm erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Mit Ereignissen können Sie Online- und Offline-Ereignis automatisieren! Erfasse
 
 Ta-da! Ihr neues Ereignis wird jetzt im Baum angezeigt. Nachdem Sie Ihr Ereignis erstellt haben, erstellen Sie die [Landingpages](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)und [E-Mails](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) , um Ihre Gäste einzuladen! Sie werden sich auch mit der [Programmplanung Ansicht](http://docs.marketo.com/display/docs/program+schedule+view)vertraut machen wollen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Marketingkalender](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [Verwenden von Periodenkosten in einem Programm](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
