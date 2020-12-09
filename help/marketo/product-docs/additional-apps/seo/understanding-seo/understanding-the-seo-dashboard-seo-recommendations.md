@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: Erläuterungen zum SEO-Dashboard SEO Recommendations - Marketing Docs - Produktdokumentation
 title: Das SEO-Dashboard - SEO Recommendations
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Die Verknüpfung von seriösen Sites mit Ihren Inhalten kann das Ranking Ihrer S
 
 Genau! Tauchen Sie hier tiefer.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Drilldown für Seitendetails](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
