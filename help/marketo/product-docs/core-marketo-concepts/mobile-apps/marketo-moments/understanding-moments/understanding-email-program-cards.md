@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Verstehen von E-Mail-Programm-Karten - Marketing-Dokumente - Produktdokumentation
 title: Verstehen der E-Mail-Programm-Karten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,7 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau.
 
 Und das ist die Bruchkerbe beim Betrachten Ihrer E-Mail-Kampagnen. Du bist jetzt ein Profi!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erläuterungen zu Markusmomenten](understanding-marketo-moments.md)
 >* [Einführung in Ereignis-Karten](understanding-event-cards.md)
