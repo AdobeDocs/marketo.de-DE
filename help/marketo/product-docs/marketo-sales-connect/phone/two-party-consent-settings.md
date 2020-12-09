@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Einstellungen für die Zustimmung von zwei Parteien - MarketingToDocs - Produktdokumentation
 title: Einstellungen für die Zustimmung von zwei Parteien
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung von Anrufen sicherzustellen, können Sie als Administrator eine vorab aufgezeichnete Nachricht Ihrer Wahl aktivieren, um sie zu Beginn Ihrer Anrufe zu spielen, wenn sie aufgezeichnet werden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Bevor Sie die unten stehenden Schritte ausführen, müssen Sie zunächst die Aufrufaufzeichnung [aktivieren.](http://docs.marketo.com/x/dAC1Ag)
 
