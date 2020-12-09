@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: Predictive Inhalte für Rich Media bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Predictive Inhalte für Rich Media bearbeiten
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie Ihren Prognoseinhalt für Rich Media einrichten.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Der Inhalt muss auf der Seite &quot;Alle Inhalte&quot; [genehmigt werden, um Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) vorhersagen zu können.
 
