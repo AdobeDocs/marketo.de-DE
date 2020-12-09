@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: Google AdWords-Konvertierungen im Umsatzmodell mit einem Manager-Konto - Marketing Docs - Produktdokumentation festlegen
 title: Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto festlegen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Sie können AdWords-Offline-Konvertierungen einer oder mehreren Phasen in einem 
 * Aktion der Stufe
 * AdWords-Zuordnung
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen von Google AdWords als Startpunktdienst mit einem Managerkonto](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
