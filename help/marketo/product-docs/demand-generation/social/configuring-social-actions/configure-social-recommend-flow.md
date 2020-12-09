@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Social Recommendations-Fluss konfigurieren - Marketing Docs - Produktdokumentation
 title: Social Recommendations-Fluss konfigurieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -127,9 +127,7 @@ Wenn Sie diese Option wählen, werden die Werte der OpenGraph-Tags der Seite (og
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Im nächsten Schritt [fügen Sie Ihre Videofreigabe](customize-video-share-flow.md) oder Ihre [Umfrage](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) zu einer Landingpage, Facebook oder Ihrer eigenen Website hinzu.
 
