@@ -3,9 +3,9 @@ unique-page-id: 3571890
 description: Benutzerspezifische Feldgruppen für Analyse der Modellleistung (Interessenten) aktivieren - Marketing-Dokumente - Produktdokumentation
 title: Benutzerspezifische Feldgruppen für Analyse der Modellleistung aktivieren (Interessenten)
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Benutzerspezifische Feldgruppen für Analyse der Modellleistung aktivieren (Interessenten) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Kategorisieren Sie Standard- oder benutzerdefinierte Felder zum Berichte in Gruppen über den Field Organizer in Marketing. Weitere Informationen finden Sie unter [Erstellen benutzerdefinierter Feldgruppen über den Feldorganisator](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
