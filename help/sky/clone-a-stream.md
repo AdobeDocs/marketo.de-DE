@@ -2,7 +2,7 @@
 title: clone-a-stream
 description: Stream klonen
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen unter
 
    ![Bild eins](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
 
    ![Bild zwei](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
-1. Klicken Sie auf das Zahnradsymbol des Streams und wählen Sie [!UICONTROL **Klonen**].
+1. Klicken Sie auf das Zahnradsymbol des Streams und wählen Sie **[!UICONTROL Klonen]**.
 
    ![Bild drei](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-3.png)
 
