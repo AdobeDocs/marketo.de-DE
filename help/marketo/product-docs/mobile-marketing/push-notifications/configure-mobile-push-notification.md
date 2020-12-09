@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Mobile Push-Benachrichtigung konfigurieren - MarketingToDocs - Produktdokumentation
 title: Mobile Push-Benachrichtigung konfigurieren
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -101,9 +101,7 @@ Ein Deep-Link-URI besteht aus drei Teilen: Schemaname, Pfad und ID. Im Beispiel 
 
 Allerdings kann sich die Deep-Link-Struktur Ihrer App vom oben genannten Beispiel unterscheiden. Ihr Entwickler hat viele Optionen zum Definieren von Deep-Link-URIs. Bitten Sie daher Ihren Entwickler, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die URIs, die Sie in Push-Nachrichten eingeben, an die richtigen Stellen zeigen. Ihr Entwickler kann weitere Informationen [finden](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Push-Benachrichtigung für Mobilgeräte senden](send-a-mobile-push-notification.md)
 
