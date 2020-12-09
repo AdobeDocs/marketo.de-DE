@@ -3,9 +3,9 @@ unique-page-id: 1146901
 description: Verwenden der erweiterten Regellogik für intelligente Listen - Marketing Docs - Produktdokumentation
 title: Erweiterte Logik der Smart-Liste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Sie können genau die Personen finden, die Sie benötigen, indem Sie innerhalb einer intelligenten Liste eine intelligente Liste-Regellogik auf mehrere Filter anwenden. So geht es.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Filter für eine intelligente Liste suchen und Hinzufügen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [Definieren von Filtern für intelligente Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
