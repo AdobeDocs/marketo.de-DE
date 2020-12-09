@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: On24-Ereignis-Integration testen - Marketing Docs - Produktdokumentation
 title: On24-Ereignis-Integration testen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ So werden die Daten nach dem Ereignis aktualisiert:
 * Marketo ruft täglich Teilnehmerdaten von ON24 ab.
 * Nachdem die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Status der Mitgliedschaft auf &quot;Anwesend&quot;, &quot;Anwesend On-Demand&quot;oder &quot;Keine Anzeige&quot;. Auf der Registerkarte &quot; **Zusammenfassung** &quot;des Ereignisses wird der Status des Ereignisses auf &quot; **Ereignis abgeschlossen**&quot;aktualisiert.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Beispiel für eine ON24-Ereignis-Integration](example-on24-event-integration.md)
 >* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
