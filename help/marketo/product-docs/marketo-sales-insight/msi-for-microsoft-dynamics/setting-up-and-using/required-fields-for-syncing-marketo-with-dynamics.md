@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Erforderliche Felder für die Synchronisierung von Marketing mit Dynamik - Marketing Docs - Produktdokumentation
 title: Erforderliche Felder für die Synchronisierung von Marketing mit Dynamik
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ So überprüfen und fügen Sie Synchronisierungsfelder hinzu:
 >
 >Warten Sie mindestens 10 Minuten, bis eine Synchronisierung ausgeführt wird, bevor Sie überprüfen, ob das Problem behoben wurde.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](http://docs.marketo.com/x/BICMAg)
 
