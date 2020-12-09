@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: Sales Intelligence - Marketing-Dokumente - Produktdokumentation
 title: Sales Intelligence
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ In den [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/ge
 >
 >Wir empfehlen, dass Sie Vertriebsmitarbeiter mit der Berechtigung &quot;Nur Ansicht&quot;in Marketing Web Personalization einrichten. Dies bedeutet, dass alle Seiten Ansicht werden können, jedoch keine Funktionen erstellt, bearbeitet oder gelöscht werden können.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [E-Mail-Berichte](email-reports.md)
 
