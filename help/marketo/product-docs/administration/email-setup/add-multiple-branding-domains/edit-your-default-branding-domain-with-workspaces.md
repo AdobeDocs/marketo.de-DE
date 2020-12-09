@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Bearbeiten Sie Ihre Standard-Branding-Domäne mit Arbeitsbereichen - MarketingToDocs - Produktdokumentation
 title: Standardmäßige Branding-Domäne mit Arbeitsbereichen bearbeiten
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 Jetzt können Sie zusätzliche Branding-Domänen [](add-an-additional-branding-domain-with-workspaces.md) hinzufügen, die Sie für die Arbeitsflächen benötigen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen](add-an-additional-branding-domain-with-workspaces.md)
 
