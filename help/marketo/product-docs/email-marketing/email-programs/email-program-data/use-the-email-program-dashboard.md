@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Verwenden Sie das Dashboard E-Mail-Programm - Marketing Docs - Produktdokumentation
 title: Verwenden Sie das Dashboard E-Mail-Programm
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -75,9 +75,7 @@ Um die aktuellsten Daten anzuzeigen, klicken Sie einfach auf das Aktualisierungs
 
 ![](assets/refreshicon.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 
