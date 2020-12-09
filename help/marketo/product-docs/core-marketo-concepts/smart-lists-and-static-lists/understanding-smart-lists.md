@@ -3,9 +3,9 @@ unique-page-id: 557130
 description: Intelligente Listen - Marketing-Dokumente - Produktdokumentation
 title: Intelligente Listen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Sie können die Filter hinzufügen und definieren, um eine bestimmte Personengru
 
 Ok, fangen wir an!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Integrierte/System-intelligente Listen verwenden](using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Erstellen einer intelligenten Liste](creating-a-smart-list/create-a-smart-list.md)
