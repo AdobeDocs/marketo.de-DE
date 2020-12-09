@@ -3,9 +3,9 @@ unique-page-id: 2359736
 description: hinzufügen eines Links zu einem Free-Form-Landingpage-Image - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Links zu einem Freiform-Landingpage-Bild
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # hinzufügen eines Links zu einem Freiform-Landingpage-Bild {#add-a-link-to-a-free-form-landing-page-image}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen eines Bildes in eine Freiform-Landingpage](add-an-image-to-a-free-form-landing-page.md)
 
