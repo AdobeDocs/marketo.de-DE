@@ -2,7 +2,7 @@
 title: activate-deactivate-a-trigger-smart-Kampagne
 description: Aktivieren/Deaktivieren einer auslösenden intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Beim Aktivieren/Deaktivieren einer intelligenten Kampagne für Auslöser wird di
 
 ## Aktivieren einer Auslöser-Kampagne
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte [!UICONTROL **Plan**] .
+1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **[!UICONTROL Plan]** .
 
    ![Bild eins](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ Beim Aktivieren/Deaktivieren einer intelligenten Kampagne für Auslöser wird di
    >
    >Überprüfen Sie die intelligente Kampagne, bevor Sie sie aktivieren.
 
-1. Klicken Sie auf [!UICONTROL **Aktivieren**].
+1. Klicken Sie auf **[!UICONTROL Aktivieren]**.
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ Von diesem Moment an wird jeder, der sich für die intelligente Liste qualifizie
 
 ## Deaktivieren einer Auslöser-Kampagne
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte [!UICONTROL **Plan**] .
+1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **[!UICONTROL Plan]** .
 
    ![Bild drei](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Klicken Sie auf [!UICONTROL **Deaktivieren**].
+1. Klicken Sie auf **[!UICONTROL Deaktivieren]**.
 
    ![Bild vier](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
