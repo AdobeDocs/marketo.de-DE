@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Symbolleiste zur Inhaltsempfehlung - Marketing-Dokumente - Produktdokumentation
 title: Symbolleiste für die Inhaltsempfehlung aktivieren
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und maschinelles Lernen, um relevante Inhalte für jeden Web-Besucher bereitzustellen. Die Recommendations-Engine prognostiziert, welche Inhalte pro Besucher am besten funktionieren. Die Inhalte für die Engine werden unter der Recommendations-Seite überwacht und gesteuert, was Ihnen bei der Optimierung Ihrer Content-ROI hilft.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Bevor Sie Prognostizierende Inhalte aktivieren, müssen Sie Folgendes tun:
 >
