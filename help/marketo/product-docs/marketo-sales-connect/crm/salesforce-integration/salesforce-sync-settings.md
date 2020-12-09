@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce-Synchronisierungseinstellungen - MarketingToDocs - Produktdokumentation
 title: Salesforce-Synchronisierungseinstellungen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Für diese Funktion müssen Sie die Salesforce-Version (Enterprise/Unlimited Edition) oder die Professional-Version verwenden, wenn Sie Integration über die Web Services API erworben haben.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Salesforce und Sales Engage müssen verbunden sein.
 
@@ -47,9 +45,7 @@ Für diese Funktion müssen Sie die Salesforce-Version (Enterprise/Unlimited Edi
 
 Sobald Sie &quot;E-Mail an Salesforce (BCC)&quot; aktivieren, erhalten Sie einen BCC Ihrer E-Mails und Ihre E-Mails werden als Aktivitäten über Möglichkeiten, Kontakte und Kontakte protokolliert.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Salesforce und Sales Engage müssen verbunden sein.
 
