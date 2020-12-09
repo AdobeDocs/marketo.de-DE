@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Hinzufügen benutzerdefinierter Maßnahmen zu einem Bericht "Umsatz - Explorer - Marketing - Dokumente - Produktdokumentation"
 title: Hinzufügen benutzerdefinierter Maßnahmen zu einem Bericht "Umsatz-Explorer"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Manchmal möchten Sie eine benutzerspezifische Maßeinheit in einem Bericht habe
 
 Im unten stehenden Beispiel erstellen Sie eine berechnete Maßeinheit für weiche Absprünge, die bereits im Bericht enthaltene Metriken akzeptiert und eine neue Metrik mithilfe der grundlegenden Mathematik erstellt. Sie können auch andere Arten von Maßnahmen erstellen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie benötigen mindestens eine Metrik in Ihrem Bericht, aber sie muss nicht zu den Maßnahmen gehören, die Sie zur Definition Ihrer benutzerspezifischen Maßeinheit verwenden.
 
