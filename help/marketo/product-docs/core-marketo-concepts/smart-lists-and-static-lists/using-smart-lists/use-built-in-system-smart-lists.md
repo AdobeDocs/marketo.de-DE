@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: Integrierte/systemspezifische intelligente Listen - Marketing Docs - Produktdokumentation
 title: Integrierte/System-intelligente Listen verwenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten int
 >
 >Intelligente Listen des Systems können nicht gelöscht werden. Mit Ausnahme der Liste Mögliche Duplikat können sie auch nicht bearbeitet werden.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
