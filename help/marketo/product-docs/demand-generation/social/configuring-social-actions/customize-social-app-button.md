@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: Schaltfläche "Social-App anpassen"- "Marketing-Dokumente - Produktdokumentation"
 title: Schaltfläche "Social-App anpassen"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Wenn Sie eine [Social-Schaltfläche](../../../../product-docs/demand-generation/
 >
 >In einem Referrer-Angebot können Sie auch die Schaltfläche &quot; **Track Progress** &quot;anpassen. Gehen Sie zu **App-Einstellungen** > **Track Progress Style** und führen Sie die oben beschriebenen Schritte aus.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Bei einer Schaltfläche für soziale Netzwerke [konfigurieren Sie sie beim Öffnen](configure-when-social-button-opens.md). Geben Sie für ein Angebot mit Verweis das Angebot-Ziel [an](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
