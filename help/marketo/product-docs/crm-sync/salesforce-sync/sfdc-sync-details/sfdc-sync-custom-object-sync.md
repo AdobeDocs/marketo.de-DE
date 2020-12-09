@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC-Synchronisierung - Benutzerdefinierte Objektsynchronisierung - Marketing-Dokumente - Produktdokumentation
 title: SFDC-Synchronisierung - Benutzerdefinierte Objektsynchronisierung
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 >
 >**Administratorberechtigungen erforderlich**
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [Interessenten](sfdc-sync-lead-sync.md)-, [](sfdc-sync-contact-sync.md)Schützen- [](sfdc-sync-account-sync.md)Konto in Salesforce verknüpft sein.
 
