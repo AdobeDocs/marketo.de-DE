@@ -2,7 +2,7 @@
 title: edit-availability-of-stream-content
 description: Verfügbarkeit von Stream-Inhalten bearbeiten
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
 
    ![Bild eins](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
 
    ![Bild zwei](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
 
    ![Bild drei](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. Wählen Sie Verfügbarkeit [!UICONTROL **bearbeiten**].
+1. Wählen Sie Verfügbarkeit **[!UICONTROL bearbeiten]**.
 
    ![Bild vier](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -36,7 +36,7 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
 
    ![Bild fünf](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Klicken Sie auf [!UICONTROL **Speichern**].
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild sechs](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
