@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Umfrage erstellen - Marketing Docs - Produktdokumentation
 title: Umfrage erstellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Beziehen Sie Menschen mit einer Umfrage, in der sie wählen können, und teilen 
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Wenn Sie Bilder in Ihrer Umfrage verwenden möchten, fügen Sie sie Ihrer Bibliothek &quot;Marketo-Bilder und -Dateien&quot;vor dem Start hinzu. hinzufügen ein Bild im Format 60 x 60 Pixel für jeden Umfrageeintrag. Siehe [Hinzufügen Bilder und zu markierende Dateien](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
