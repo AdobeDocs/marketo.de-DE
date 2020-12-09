@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: Einrichten von Account Insight - Marketing Docs - Produktdokumentation
 title: Kontoinsight einrichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 So richten Sie Account Insight ein.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Der Wert für ABM-Konten [muss zuerst konfiguriert](http://docs.marketo.com/display/DOCS/Account+Score) werden.
 
