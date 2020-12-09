@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Professional) - Marketing Docs - Produktdokumentation
 title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Professional)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Diese Schritte müssen von einem Salesforce-Administrator ausgeführt werden
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Schritt 1 von 3: hinzufügen Marketo Fields to Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
