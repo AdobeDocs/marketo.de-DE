@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: hinzufügen "Marketo Custom Object Fields"- "Marketo Docs"- Produktdokumentation
 title: hinzufügen "Markieren in benutzerdefinierten Objektfeldern"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
    >
    >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie dem benutzerdefinierten Objekt ein Feld &quot;Link&quot;hinzufügen. Für eine Viele-zu-viele-Struktur benötigen Sie im benutzerdefinierten Objekt kein Verknüpfungsfeld, Sie müssen jedoch zwei Verknüpfungsfelder in das intermediäre Objekt einfügen. Weitere Informationen zu den Typen von benutzerdefinierten Objekten finden Sie unter Felder [für](add-marketo-custom-object-link-fields.md) Hinzufügen benutzerspezifische Objektverknüpfung markieren und [Informationen zu benutzerspezifischen Objekten](understanding-marketo-custom-objects.md) .
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen &quot;Markieren in benutzerdefinierten Objektverknüpfungsfeldern&quot;](add-marketo-custom-object-link-fields.md)
 >* [Bearbeiten und Löschen eines Markierungen zu einem benutzerdefinierten Objekt](edit-and-delete-a-marketo-custom-object.md)
