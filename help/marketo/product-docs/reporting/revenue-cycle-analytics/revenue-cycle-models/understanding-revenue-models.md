@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Erläuterungen zu Umsatzmodellen - Marketing-Dokumente - Produktdokumentation
 title: Umsatzmodelle
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Präzisieren Sie, wie sich ein Interessent mithilfe intelligenter Kampagnen von 
 
 Hier sind einige Links, die hilfreich hoffen könnten. (oder hoffentlich hilfreich - nehmen Sie Ihre Auswahl!)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Neues Umsatzmodell erstellen](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ Hinzufügen einer Phase vom glücklichen Erfolgspfad   ![](assets/image2015-6-12
 
 Verloren ist gut hinzuzufügen, aber beachten Sie, dass es nicht auf dem grünen Pfad ist. Das liegt daran, dass es kein &quot;Erfolg&quot; ist.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Bericht zu Ihrem Umsatzmodell](report-on-your-revenue-model.md)
 >
