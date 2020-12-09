@@ -3,9 +3,9 @@ unique-page-id: 7504725
 description: Speichern eines Umsatz-Explorer-Berichts - Marketing-Dokumente - Produktdokumentation
 title: Speichern eines Umsatz-Explorer-Berichts
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Umsatz-Explorer-Berichte können in der gewünschten Datei gespeichert werden.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Abonnieren eines Berichts über den Umsatz-Explorer](subscribe-to-a-revenue-explorer-report.md)
 
