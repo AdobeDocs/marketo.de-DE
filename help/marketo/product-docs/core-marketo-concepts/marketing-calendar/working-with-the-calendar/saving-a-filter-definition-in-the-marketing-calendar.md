@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: Speichern einer Filterdefinition im Marketingkalender - Marketing Docs - Produktdokumentation
 title: Speichern einer Filterdefinition im Marketingkalender
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Durch Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitionen hin- und herschalten.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Filtern des Marketingkalenders](filtering-the-marketing-calendar.md)
 
