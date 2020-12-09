@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: Einrichten der Schaltfläche "Abmelden"und Genehmigen der Nachricht - Marketing Docs - Produktdokumentation
 title: Einrichten der Schaltfläche "Schließen"und Genehmigen der Nachricht
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ So viele Auswahlmöglichkeiten, aber jetzt haben Sie eine großartige In-App-Nac
 
 Jetzt ist es an der Zeit, deine Nachricht zu [senden](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Informationen zu In-App-Nachrichten](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [In-App-Nachricht senden](http://docs.marketo.com/display/docs/send+your+in-app+message)
