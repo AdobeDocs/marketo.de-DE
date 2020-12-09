@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: Finden Sie alle Interessenten in einem Umsatzzyklusmodell - Marketing-Dokumente - Produktdokumentation
 title: Alle Interessenten in einem Umsatzzyklusmodell suchen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Durch die Verwendung intelligenter Listen können Sie alle Mitglieder des Umsatzzyklusmodells leicht finden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >[Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
