@@ -3,9 +3,9 @@ unique-page-id: 2359671
 description: hinzufügen Hint Text in ein Formularfeld - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen von Hinweistext in ein Formularfeld
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ Hinweise und [Anweisungen](add-tooltip-instructions-to-a-form-field.md) helfen d
 
 Schau es dir an! Lasst uns jetzt ein paar [Anweisungen](add-tooltip-instructions-to-a-form-field.md) hinzufügen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Anweisungen zur Hinzufügen eines Formularfelds](add-tooltip-instructions-to-a-form-field.md)
 
