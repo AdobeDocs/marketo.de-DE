@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: hinzufügen "Marketo Custom Object Link"-Felder - "Marketing to Docs"- Produktdokumentation
 title: hinzufügen "Markieren in benutzerdefinierten Objektverknüpfungsfeldern"
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für 
 
 So erstellen Sie ein Verknüpfungsfeld in einem Zwischenobjekt, das in einer Viele-zu-viele-Struktur verwendet werden kann.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie müssen das intermediäre Objekt und alle benutzerdefinierten Objekte, mit denen Sie es verknüpfen möchten, bereits erstellt haben.
 
