@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Testen von Facebook-Interessentenanzeigen für die Integration von Desktop mit Marketing - Marketing - Dokumentation
 title: Testen von Facebook-Interessentenanzeigen für die Desktop-Integration mit Marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen! Hier ist, wie man es auf Ihrem Desktop macht.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie müssen die Facebook- [Interessentenwerbungsintegration](set-up-facebook-lead-ads.md)einrichten.
 
