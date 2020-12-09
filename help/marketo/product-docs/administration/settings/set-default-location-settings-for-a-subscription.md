@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: Festlegen der Standardspeicherorteinstellungen für ein Abonnement - Marketing Docs - Produktdokumentation
 title: Festlegen der Standardpositionseinstellungen für ein Abonnement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Wenn Sie das Standardgebietsschema für Ihre Benutzer ändern, sollten Sie auch 
 
    Herzlichen Glückwunsch! Sie haben Ihre Positionseinstellungen für das Abonnement geändert.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Sprache, Gebietsschema und Zeitzone auswählen](select-your-language-locale-and-time-zone.md)
 
