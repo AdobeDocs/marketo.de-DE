@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Einrichten von LinkedIn Lead Gen Forms - Marketing Docs - Produktdokumentation
 title: Einrichten von LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ Gut gemacht! Personen, die LinkedIn-Lead-Gen-Formulare senden, fließen beim Aus
 >
 >Sie können nur ein einziges LinkedIn-Benutzerkonto autorisieren. Wenn Sie über mehrere Geschäftskonten verfügen, die Sie mit Marketo verknüpfen möchten, stellen Sie sicher, dass für das autorisierte LinkedIn-Konto des Benutzers die Berechtigung &quot;Lead Gen Form Manager&quot;für das Geschäftskonto in LinkedIn aktiviert ist.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Verwenden Sie die Filter und Auslöser von LinkedIn-Lead-Gen-Formularen in einer intelligenten Kampagne](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
