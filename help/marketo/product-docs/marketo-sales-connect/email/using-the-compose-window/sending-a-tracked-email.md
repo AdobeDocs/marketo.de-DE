@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Versenden einer verfolgten E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Senden einer verfolgten E-Mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird geöffnet) und Klicks (angeklickte Links) verfolgt.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Vor dem Senden einer verfolgten E-Mail-Nachricht müssen eine Identitätsbestätigung und ein E-Mail-Versand-Kanal eingerichtet werden.
 >
