@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Bericht zur Leistung von E-Mail-Links - Marketing-Dokumente - Produktdokumentation
 title: Leistungsbericht zu E-Mail-Links
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut 
 >
 >Wenn Sie wissen möchten, was eine Person genau getan hat, können Sie das [Aktivitäten-Protokoll](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) auf der Seite &quot; [Personendetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) &quot;auf der Registerkarte &quot;Mitglieder&quot;im Programm öffnen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Bericht zur E-Mail-Leistung](email-performance-report.md)
 >* [Assets in einem E-Mail-Bericht filtern](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
