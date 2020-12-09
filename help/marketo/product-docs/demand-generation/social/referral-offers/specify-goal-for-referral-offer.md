@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: Ziel für das Referrer-Angebot - Marketing-Dokumente - Produktdokumentation
 title: Angebot für Verweis angeben
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Beispielziele:
 >
 >In intelligenten Kampagnen stehen neue Filter und Auslöser zur Überwachung der sozialen Aktivität zur Verfügung. Siehe [Verwenden von Triggern und Filtern für Social-Aktivitäten](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Als Nächstes können Sie die [Anmelde- und Fulfillment-E-Mails](send-referral-offer-fulfillment-email.md) auswählen, die Sie von Ihrem Verweisdokument aus senden möchten.
 
