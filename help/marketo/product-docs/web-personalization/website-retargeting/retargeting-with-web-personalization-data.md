@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Retargeting mit Web-Personalisierungsdaten - Marketing-Dokumente - Produktdokumentation
 title: Retargeting mit Web-Personalisierungsdaten
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Eine segmentierte Audience ermöglicht es Ihnen, ein vorhandenes Segment als Aud
 
    Sie haben jetzt die Retargeting-Einrichtung in Web-Personalisierung abgeschlossen, melden sich bei Ihren Targeting-Plattformen an und erstellen Ihre Audiencen auf der Grundlage dieser Daten und richten Ihre Targeting-Anzeigen-Kampagnen ein.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Personalisierte Remarketing in Google](personalized-remarketing-in-google.md)
 >* [Personalisierte Remarketing in Facebook](personalized-remarketing-in-facebook.md)
