@@ -3,9 +3,9 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Custom Entity Sync - Marketing Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Benutzerdefinierte Entitäts-Synchronisierung
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 >
 >**Administratorberechtigungen erforderlich**
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [Interessenten](microsoft-dynamics-sync-lead-sync.md), [Kontakt](microsoft-dynamics-sync-contact-sync.md)oder [](microsoft-dynamics-sync-account-sync.md)Konto in Dynamics verknüpft sein.
 
