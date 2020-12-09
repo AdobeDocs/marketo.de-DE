@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Erstellen eines E-Mail-Skript-Tokens - Marketing Docs - Produktdokumentation
 title: E-Mail-Skript-Token erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](http://velocity.
 
 Nun können Sie dieses Token in Ihren E-Mails verwenden. Das Skript wird jedes Mal ausgeführt, wenn eine E-Mail gesendet wird.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen eines E-Mail-Skript-Tokens an Ihre E-Mail](add-an-email-script-token-to-your-email.md)
 
