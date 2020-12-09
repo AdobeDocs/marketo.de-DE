@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: Exportieren eines Berichts "Umsatz Explorer"- "Marketing zu Docs - Produktdokumentation
 title: Exportieren eines Berichts zum Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ Sie können jeden Bericht zu Umsatzforschern exportieren und ihn an andere weite
 
    Süß! Schicken Sie diese Datei um und beeindrucken Sie Ihre Kollegen mit Ihren ninja-ähnlichen Marketingfähigkeiten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Abonnieren eines Berichts über den Umsatz-Explorer](subscribe-to-a-revenue-explorer-report.md)
 
