@@ -2,7 +2,7 @@
 title: my-token-number
 description: Meine Token-Nummer
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -20,6 +20,6 @@ So richten Sie ein Number-Token für die Verwendung in Ihren Programmen und Kamp
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. Geben Sie einen Namen und eine Nummer für das neue Token ein. Klicken Sie auf [!UICONTROL **Speichern**].
+1. Geben Sie einen Namen und eine Nummer für das neue Token ein. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild zwei](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
