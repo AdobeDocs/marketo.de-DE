@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Einrichten der In-App-Nachricht-Schaltfläche - Marketing Docs - Produktdokumentation
 title: Einrichten der Schaltfläche "In-App-Nachricht"
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder 
 
    ![](assets/image2016-5-6-16-3a46-3a17.png)
 
-1. Markieren Sie das Kästchen, um die Aktion zum Tippen auf die Schaltfläche festzulegen.
+1. Markieren Sie das Kontrollkästchen, um die Aktion zum Tippen auf die Schaltfläche festzulegen.
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
@@ -78,9 +78,7 @@ Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder 
 
 Fast da. Ihr letzter Schritt ist zu .
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Informationen zu In-App-Nachrichten](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Layout für Ihre In-App-Nachricht auswählen](choose-a-layout-for-your-in-app-message.md)
