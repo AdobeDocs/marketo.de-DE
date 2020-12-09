@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: hinzufügen Sie eine Länderauswahl für Ihr Formular - Marketing Docs - Produktdokumentation
 title: hinzufügen einer Länderauswahl in Ihr Formular
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Befolgen Sie diese Anweisungen, um das Feld &quot;country&quot;in eine Dropdown-
 
 Da das so einfach war, warum nicht mehr tun? Wie wäre es, wenn das Feld &quot;Bundesland&quot;dynamisch angezeigt wird, wenn ein Benutzer &quot;USA&quot;als Land in der Liste auswählt? Sehen Sie sich den entsprechenden Artikel unten an, um herauszufinden, wie Sie das machen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Dynamisches Umschalten zwischen Sichtbarkeit eines Formularfelds](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
