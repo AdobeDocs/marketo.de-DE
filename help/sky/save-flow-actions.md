@@ -2,7 +2,7 @@
 title: save-flow-actions
 description: Speichern von Flussaktionen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Flussschritte sagen Marketo, was Sie möchten, mit einer Gruppe von Personen ges
 
    ![Bild eins](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. Nachdem Sie die intelligente Liste festgelegt haben, klicken Sie auf [!UICONTROL **Fluss**].
+1. Nachdem Sie die intelligente Liste festgelegt haben, klicken Sie auf **[!UICONTROL Fluss]**.
 
    ![Bild zwei](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ Flussschritte sagen Marketo, was Sie möchten, mit einer Gruppe von Personen ges
 
    ![Bild vier](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Wenn Sie alle gewünschten Filter/Auslöser hinzugefügt haben, klicken Sie auf die Dropdownliste Aktionen für [!UICONTROL **intelligente Kampagnen**] und wählen Sie Neuen Fluss [!UICONTROL **speichern**].
+1. Wenn Sie alle gewünschten Filter/Auslöser hinzugefügt haben, klicken Sie auf die Dropdownliste Aktionen für **[!UICONTROL intelligente Kampagnen]** und wählen Sie Neuen Fluss **[!UICONTROL speichern]**.
 
    ![Bild fünf](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Benennen Sie den Fluss und klicken Sie auf [!UICONTROL **Speichern**].
+1. Benennen Sie den Fluss und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild sechs](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -48,11 +48,11 @@ Und du bist fertig. Wenn Sie das nächste Mal eine intelligente Kampagne erstell
 
    ![Bild sieben](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Klicken Sie auf [!UICONTROL **Fluss**].
+1. Klicken Sie auf **[!UICONTROL Fluss]**.
 
    ![Bild acht](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Klicken Sie auf die Dropdownliste [!UICONTROL **Gespeicherte**] Flüsse.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Gespeicherte]** Flüsse.
 
    ![Bild neun](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
