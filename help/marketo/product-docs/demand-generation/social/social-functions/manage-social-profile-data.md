@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Social-Profil-Daten verwalten - Marketing-Dokumente - Produktdokumentation
 title: Social-Profil-Daten verwalten
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Je nach den Datenschutzeinstellungen des Netzwerks und des Benutzers werden eine
 >
 >Das Ausfüllen von Social-Formularen erfasst die E-Mail-Adresse *nur* , wenn die Person sie in das Formular eingibt. Wenn Sie die E-Mail-Adresse benötigen, [sollten Sie sie in Ihr Formular](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)aufnehmen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Um diese Informationen aus Formularen zu erfassen, aktivieren Sie das Ausfüllen [sozialer Formulare](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
 
