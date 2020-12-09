@@ -2,7 +2,7 @@
 title: understand-target-tracking-and-projiziert-registrations
 description: Erläuterung der Zielverfolgung und der geplanten Registrierungen
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Nach der [Festlegung von Ereignis-Zielen](/help/sky/setting-event-goals.md)und d
 
 ## Zielverfolgung und geplante Registrierungen
 
-1. Details zur Zielverfolgung finden Sie auf der Registerkarte &quot; [!UICONTROL **Berichte**] &quot;Ihres Ereignis-Programms. In diesem speziellen Beispiel gibt es bisher 150 registrierte Mitglieder gegen das Ziel von 200 (75 %).
+1. Details zur Zielverfolgung finden Sie auf der Registerkarte &quot; **[!UICONTROL Berichte]** &quot;Ihres Ereignis-Programms. In diesem speziellen Beispiel gibt es bisher 150 registrierte Mitglieder gegen das Ziel von 200 (75 %).
 
    ![Bild eins](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Sie sehen auch Ihre [!UICONTROL **geplanten**] Registrierungen. Bewegen Sie den Mauszeiger über das Infosymbol, um eine Aufschlüsselung dieser Zahl nach Segment &quot;Wahrscheinlichkeit&quot;anzuzeigen.
+Sie sehen auch Ihre **[!UICONTROL geplanten]** Registrierungen. Bewegen Sie den Mauszeiger über das Infosymbol, um eine Aufschlüsselung dieser Zahl nach Segment &quot;Wahrscheinlichkeit&quot;anzuzeigen.
 
 ![Bild zwei](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ Oben auf der Seite &quot;Berichte&quot;finden Sie AI/ML-basierte Empfehlungen, d
 
 ## PERSONALENBERECHTIGUNGEN
 
-Klicken Sie auf die Registerkarte [!UICONTROL **Mitglieder**] , um alle Programm-Mitglieder Ansicht. Bewegen Sie den Mauszeiger über die Leisten [!UICONTROL **Registrierungswahrscheinlichkeit**] oder [!UICONTROL **Anwesenheitswahrscheinlichkeit**] , um genaue Prozentsätze und Kategorien anzuzeigen. Sie können dann Maßnahmen gegen Mitglieder in einer bestimmten Kategorie ergreifen (z.B. für alle in der &quot;Weniger wahrscheinlich&quot;, um Kategorie zu registrieren), und insbesondere Zielgruppe sie, um Ihre Registrierungsnummern potenziell zu erhöhen.
+Klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]** , um alle Programm-Mitglieder Ansicht. Bewegen Sie den Mauszeiger über die Leisten **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Anwesenheitswahrscheinlichkeit]** , um genaue Prozentsätze und Kategorien anzuzeigen. Sie können dann Maßnahmen gegen Mitglieder in einer bestimmten Kategorie ergreifen (z.B. für alle in der &quot;Weniger wahrscheinlich&quot;, um Kategorie zu registrieren), und insbesondere Zielgruppe sie, um Ihre Registrierungsnummern potenziell zu erhöhen.
 
 ![Bild sieben](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
