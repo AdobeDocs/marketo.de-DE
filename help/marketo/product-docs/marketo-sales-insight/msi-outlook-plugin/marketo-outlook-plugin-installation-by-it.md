@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Installation des Marketo Outlook Plugins durch IT - Marketing Docs - Produktdokumentation
 title: Installation des Marketo Outlook Plugins durch IT
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Manchmal erfordern die Richtlinien des Unternehmens, dass sein IT-Team alle Software auf den Computern seiner Mitarbeiter installiert. In diesen Fällen erfolgt dies oft remote mithilfe einer eigenen Bereitstellungssoftware. Dieses Dokument enthält die Befehlszeilen, die Sie während des Bereitstellungsprozesses verwenden würden, um das Plugin für Aussichten remote zu installieren.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >[Richten Sie](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) den Enterprise-Schlüssel ein.
 
