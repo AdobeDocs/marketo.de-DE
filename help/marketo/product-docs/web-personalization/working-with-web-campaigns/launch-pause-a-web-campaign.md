@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: Web-Kampagne starten/anhalten - Marketing Docs - Produktdokumentation
 title: Web-Kampagnen starten/anhalten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Sie können eine Web-Kampagne auf zwei Arten von der Seite &quot;Web-Kampagnen&q
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Eine neue Dialogfeld-Web-Kampagne erstellen](create-a-new-dialog-web-campaign.md)
 >* [Eine neue Web-Kampagne in einer Zone erstellen](create-a-new-in-zone-web-campaign.md)
