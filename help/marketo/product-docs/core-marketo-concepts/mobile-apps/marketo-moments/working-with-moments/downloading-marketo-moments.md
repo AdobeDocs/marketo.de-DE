@@ -3,9 +3,9 @@ unique-page-id: 8782024
 description: Herunterladen von Marketo-Momenten - Marketing Docs - Produktdokumentation
 title: Herunterladen von Marketing-Momenten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Viel Spaß!
 >
 >Single Sign-On mit Security Assertion Markup Language (SAML) wird für Marketo Moments nicht unterstützt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Erläuterungen zu Markusmomenten](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 
