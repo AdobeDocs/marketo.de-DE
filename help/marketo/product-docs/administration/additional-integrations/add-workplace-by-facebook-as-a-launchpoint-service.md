@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: hinzufügen Workplace By Facebook as a LaunchPoint Service - Marketing Docs - Produktdokumentation
 title: hinzufügen Workplace By Facebook als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Die Integration in Workplace umfasst zwei Benachrichtigungstypen:
 >
 >**Administratorberechtigungen erforderlich**
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Wenn Sie noch keine Workspace-Benachrichtigungen aktiviert haben, [wenden Sie sich bitte an den Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
