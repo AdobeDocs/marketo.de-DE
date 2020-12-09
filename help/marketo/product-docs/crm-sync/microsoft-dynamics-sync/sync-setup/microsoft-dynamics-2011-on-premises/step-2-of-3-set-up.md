@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: Schritt 2 von 3 - Einrichten von MarketingTo Sync User in Dynamics (On-Premises 2011) - MarketingTo Docs - Produktdokumentation
 title: Schritt 2 von 3 - Einrichten von Marketo Sync User in Dynamics (On-Premises 2011)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gute Arbeit, die vorherigen Schritte zu vollenden, lassen Sie uns fortfahren.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Schritt 1 von 3: Installieren Sie die Marketing Solution (On-Premises 2011)](step-1-of-3-install.md)
 
