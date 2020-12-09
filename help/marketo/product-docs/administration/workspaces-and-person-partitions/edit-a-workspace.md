@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Arbeitsbereich bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Arbeitsbereich bearbeiten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
    >
    >Sie können die Arbeitsflächensprache nicht ändern.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Neue Arbeitsfläche erstellen](create-a-new-workspace.md)
 >* [Arbeitsbereiche und Benutzerpartitionen](understanding-workspaces-and-person-partitions.md)
