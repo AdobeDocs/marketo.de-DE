@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Erläuterungen zu Marketo-Momenten - Marketing-Dokumente - Produktdokumentation
 title: Erläuterungen zu Markusmomenten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -153,9 +153,7 @@ In jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ih
 
 Sind Sie bereit, mehr zu erfahren?
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Verstehen der E-Mail-Programm-Karten](understanding-email-program-cards.md)
 >* [Einführung in Ereignis-Karten](understanding-event-cards.md)
