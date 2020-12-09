@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: Neue Widget-Web-Kampagne erstellen - Marketing-Dokumente - Produktdokumentation
 title: Neue Widget-Web-Kampagne erstellen
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -125,9 +125,7 @@ Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;in der zu Vorschau Web-Kampag
 
 1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, ob Sie die Web-Kampagne löschen möchten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Eine neue Web-Kampagne in einer Zone erstellen](create-a-new-in-zone-web-campaign.md)
 >* [Eine neue Dialogfeld-Web-Kampagne erstellen](create-a-new-dialog-web-campaign.md)
