@@ -2,7 +2,7 @@
 title: my-token-email-script
 description: Mein Token-E-Mail-Skript
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](http://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails verwenden, indem Sie ein E-Mail-Skript-Token einrichten. Hier ist, wie man das macht.
 
-1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein [!UICONTROL **E-Mail-Skript**] -Token in die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
+1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein **[!UICONTROL E-Mail-Skript]** -Token in die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](http://velocity.
    * [Velocity Reference Guide](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0-Dokumentation](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Klicken Sie nach Abschluss des Skripts auf [!UICONTROL **Speichern**].
+1. Klicken Sie nach Abschluss des Skripts auf **[!UICONTROL Speichern]**.
 
    ![Bild vier](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
