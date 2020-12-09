@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: Bilder von einer Webseite abrufen - Marketing Docs - Produktdokumentation
 title: Bilder von einer Webseite erfassen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Internetadresse (UR
 
 Schöne Arbeit, Image Übergeordnet!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen von Bildern und Dateien in Marketo](add-images-and-files-to-marketo.md)
 >* [Bilder und Dateien mithilfe von Ordnern organisieren](organize-your-images-and-files-using-folders.md)
