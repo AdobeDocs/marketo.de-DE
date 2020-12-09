@@ -2,7 +2,7 @@
 title: Predictive-Filter
 description: Prognostizierende Filter
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Dies Filter die Audience, ob sie in den nächsten zwei Wochen eine hohe oder ger
 
 Diese beiden Filter helfen Ihnen, Ihre aktuelle Audience zu erweitern, indem Sie zusätzliche Interessenten ansprechen, die den Mitgliedern eines anderen Programms oder einer Smart-Liste ähnlich sind. Die Look-Alike-Filter berücksichtigen mehr als 50 Faktoren, darunter Interessentenattribute, E-Mail-Aktivität, Web-Aktivität und Interaktion.
 
-Klicken Sie auf [!UICONTROL **Hinzufügen Einschränkung**] , um die Erfolgskriterien für die Mitglieder des ausgewählten Programms/der ausgewählten  auszuwählen.
+Klicken Sie auf **[!UICONTROL Hinzufügen Einschränkung]** , um die Erfolgskriterien für die Mitglieder des ausgewählten Programms/der ausgewählten  auszuwählen.
 
 Klicken Sie auf das +-Symbol neben der Dropdown-Liste &quot;Programm&quot;, um einfach mehrere Programm/intelligente Listen zu einem Filter hinzuzufügen.
 
