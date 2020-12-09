@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: Bearbeiten von Snippets mit dynamischem Inhalt - Marketing-Dokumente - Produktdokumentation
 title: Bearbeiten von Snippets mit dynamischen Inhalten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Bearbeiten von Snippets mit dynamischen Inhalten {#edit-snippets-with-dynamic-content}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Eine Segmentierung erstellen](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Snippet erstellen](create-a-snippet.md)
