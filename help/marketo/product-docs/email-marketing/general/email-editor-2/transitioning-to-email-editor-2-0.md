@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: Übergang zum E-Mail-Editor 2.0 - Marketing-Dokumente - Produktdokumentation
 title: Übergang zum E-Mail-Editor 2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Hinweise
 
 * In einigen **seltenen** Fällen kann eine E-Mail der Version 1.0 nicht im E-Mail-Editor 2.0 geöffnet werden. Falls dies der Fall ist, verwerfen Sie den Entwurf und wenden Sie sich an den Support von Marketing.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Übersicht über Email Editor 2.0](email-editor-v2-0-overview.md)
 >* [Syntax der E-Mail-Vorlage](email-template-syntax.md)
