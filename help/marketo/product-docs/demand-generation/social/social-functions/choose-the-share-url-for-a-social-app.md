@@ -3,9 +3,9 @@ unique-page-id: 2359811
 description: Wählen Sie die Freigabe-URL für eine Social-App - Marketing Docs - Produktdokumentation
 title: Wählen Sie die Freigabe-URL für eine Social-App
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Wenn Sie eine Social-App erstellen, können Sie festlegen, welche URL in den Bei
    >    * **Externe URL**: Eine Nicht-Marketo-Landingpage.
 
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen Ihrer Datenschutzrichtlinien in eine Social-App](add-your-privacy-policy-to-a-social-app.md)
 
