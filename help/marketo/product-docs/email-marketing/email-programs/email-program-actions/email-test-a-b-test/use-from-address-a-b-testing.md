@@ -3,9 +3,9 @@ unique-page-id: 2359504
 description: A/B-Tests mit "Von Adresse" - Marketing-Dokumentation - Produktdokumentation
 title: A/B-Tests mit "Von Adresse"verwenden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der **From Address** Test. So richten Sie es ein:
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen eines A/B-Tests](add-an-a-b-test.md)
 
