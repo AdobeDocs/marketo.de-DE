@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Senden von E-Mails per E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Senden von E-Mails per E-Mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
    >
    >Sie können Massenbearbeitungen an der E-Mail/Vorlage vornehmen, wenn Sie eine Gruppenemail senden, jedoch keine eindeutigen Änderungen an bestimmten Empfängern in der Liste vornehmen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Massensendeoptionen](http://docs.marketo.com/x/HwQ6Ag)
 >* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](http://docs.marketo.com/x/MQQ6Ag)
