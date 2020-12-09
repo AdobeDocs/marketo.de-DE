@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: Die Zeitzone des Empfängers - Marketing Docs - Produktdokumentation
 title: Die Zeitzone des Empfängers
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Wenn wir die Zeitzone eines Benutzers noch immer nicht aus einer Kombination die
 >
 >Marketo berechnet die Zeitzone einer Person automatisch, wenn sich eines der oben genannten Eingabefelder ändert.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [E-Mail-Programm mit Zeitzone des Empfängers planen](schedule-email-programs-with-recipient-time-zone.md)
 >* [Beginn für E-Mail-Programme](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
