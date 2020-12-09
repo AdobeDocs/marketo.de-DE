@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: Erstellen eines benutzerspezifischen Dynamiksynchronisierungsfilters - Marketo Docs - Produktdokumentation
 title: Erstellen eines benutzerspezifischen Synchronisierungsfilters
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld
 >
 >Die einzige Möglichkeit, Marketo anzuweisen, einen Datensatz zu überspringen, besteht darin, den Feldwert explizit auf **Nein** festzulegen. Marketo synchronisiert weiterhin Datensätze, auch wenn die Feldwerte leer sind.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Installieren Sie die neueste Version des Marketo-Plug-ins (3.0.0.1 oder höher). Gehen Sie zu Marketing > Admin > Microsoft Dynamics > Marketing-Lösung herunterladen.
 
