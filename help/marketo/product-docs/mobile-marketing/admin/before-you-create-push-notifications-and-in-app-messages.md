@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Bevor Sie Push-Benachrichtigungen und In-App-Nachrichten erstellen - Marketing Docs - Produktdokumentation
 title: Bevor Sie Push-Benachrichtigungen und In-App-Nachrichten erstellen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ Bei In-App-Nachrichten ist der Anzeigeauslöser standardmäßig auf &quot; **App
 
 Nachdem Sie alle Vorbereitungen für In-App-Nachrichten und Push-Benachrichtigungen abgeschlossen haben, ist es an der Zeit, loszulegen!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erstellen einer In-App-Nachricht](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
