@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Übersicht über das Konto Insight-Plug-in - Marketing Docs - Produktdokumentation
 title: Übersicht über das Kontoinsight-Plug-in
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Auf mehrere Elemente kann geklickt werden. Klicken Sie auf das benannte Konto, u
 
 Ziemlich cooles Zeug!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Kontoinsight einrichten](set-up-account-insight.md)
 
