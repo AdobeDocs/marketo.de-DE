@@ -3,9 +3,9 @@ unique-page-id: 2949154
 description: Kennzeichnen Ihrer Web-Kampagnen - Marketing-Dokumente - Produktdokumentation
 title: Ihre Web-Kampagnen beschriften
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Cool! Sie können jetzt Bezeichnungen erstellen und sie Kampagnen zuweisen.
 
    ![](assets/web-campaigns-label-showing.jpg)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Segment](create-a-new-in-zone-web-campaign.md) [markieren](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
