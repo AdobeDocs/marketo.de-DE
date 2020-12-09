@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: Benutzerdefiniertes Objektfeld Hinzufügen/entfernen als Einschränkungen für intelligente Liste/Auslöser - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Auslöser Hinzufügen/entfernen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Marketo bietet feine Kontrolle über die benutzerdefinierte Objektsynchronisieru
 
 Wow! Ihre intelligenten Listen und intelligenten Kampagnen haben jetzt noch mehr Macht.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren](enable-disable-custom-object-sync.md)
 
