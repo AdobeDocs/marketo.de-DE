@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: Sales Insight für nicht-native Salesforce-Integrationen - Marketing-Dokumente - Produktdokumentation
 title: Sales Insight für nicht native Salesforce-Integrationen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Wenn Ihr Marketo-Konto über eine benutzerdefinierte oder nicht native Integration mit Salesforce verbunden ist, konfigurieren Sie mithilfe dieses Dokuments Sales Insight.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* Wenden Sie sich an Ihren Customer Success Manager, um die Funktion &quot;MSI Non-Native&quot;für Ihre Marketing-Instanz zu aktivieren.
 >* Ein Salesforce-Konto mit MSI-Paket eingerichtet.
