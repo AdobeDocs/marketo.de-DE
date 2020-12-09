@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Die Microsoft Dynamics Sync - Marketo Docs - Produktdokumentation
 title: Die Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Es gibt viele Nuancen und Features über Dynamics sync. Sehen Sie sich die Detai
 >
 >Wir unterstützen derzeit keine Sandbox-Aktualisierung für Marketo Dynamics Sync. Wenn Sie Ihre Dynamics CRM-Sandbox aktualisieren müssen, benötigen Sie eine neue Marketo-Sandbox. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Synchronisierungseinstellungen](http://docs.marketo.com/display/docs/sync+setup)
    >
