@@ -2,7 +2,7 @@
 title: add-content-to-an-engagement-stream
 description: hinzufügen von Inhalten in einen Interaktions-Stream
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem Stream Inh
 
    ![Bild eins](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
 
    ![Bild zwei](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Klicken Sie auf [!UICONTROL **Hinzufügen Inhalt**].
+1. Klicken Sie auf **[!UICONTROL Hinzufügen Inhalt]**.
 
    ![Bild drei](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -42,11 +42,11 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem Stream Inh
 
    ![Bild fünf](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Klicken Sie auf die Registerkarte [!UICONTROL **Streams**] .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
 
    ![Bild sechs](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Klicken Sie auf [!UICONTROL **Hinzufügen Inhalt**].
+1. Klicken Sie auf **[!UICONTROL Hinzufügen Inhalt]**.
 
    ![Bild sieben](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
