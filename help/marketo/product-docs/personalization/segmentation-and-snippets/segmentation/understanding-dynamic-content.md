@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: Verstehen dynamischer Inhalte - Marketing-Dokumente - Produktdokumentation
 title: Dynamische Inhalte
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Nachdem Sie verschiedene Segmente erstellt haben, können Sie dynamische Inhalts
 
 Probieren Sie es aus und erzählen Sie uns Ihre Erfolgsgeschichte!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Eine Segmentierung erstellen](create-a-segmentation.md)
 >* [Snippet erstellen](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
