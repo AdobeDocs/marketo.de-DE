@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: Google AdWords-Konvertierungen im Umsatzmodell - Marketing-Dokumente - Produktdokumentation festlegen
 title: Google AdWords-Konversionen im Umsatzmodell festlegen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Erfahren Sie mehr über die Offline-Konvertierungs-Importfunktion [von](https://
 
 Sie können eine neue AdWords-Offlinekonversion von Marketing erstellen, wenn Sie die Option &quot;Anzeigenaktion&quot;verwenden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen von Google AdWords als LaunchPoint-Dienst](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
