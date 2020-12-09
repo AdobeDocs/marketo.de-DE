@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Neue Web-Kampagne für die Zone - Marketing Docs - Produktdokumentation erstellen
 title: Eine neue Web-Kampagne in einer Zone erstellen
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -119,9 +119,7 @@ Siehe [Klonen einer Web-Kampagne](clone-a-web-campaign.md).
 
 1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, ob Sie die Kampagne löschen möchten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Neue Widget-Web-Kampagne erstellen](create-a-new-widget-web-campaign.md)
 >* [Eine neue Dialogfeld-Web-Kampagne erstellen](create-a-new-dialog-web-campaign.md)
