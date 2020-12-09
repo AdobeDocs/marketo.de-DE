@@ -3,9 +3,9 @@ unique-page-id: 13795727
 description: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers - Marketing-Dokumente - Produktdokumentation geplant sind
 title: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Da E-Mail-Programm, die mit der Zeitzone des Empfängers geplant sind, bis zu 24
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Die Zeitzone des Empfängers](understanding-recipient-time-zone.md)
 >* [E-Mail-Programm mit Zeitzone des Empfängers planen](schedule-email-programs-with-recipient-time-zone.md)
