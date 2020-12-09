@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Account-Listen - Marketing Docs - Produktdokumentation
 title: Listen von Konten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
    ![](assets/six.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen eines vorhandenen benannten Kontos zu einer Konto-Liste](named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Kontoeinblicke zur Liste](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
