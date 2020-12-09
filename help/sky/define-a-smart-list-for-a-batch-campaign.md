@@ -2,7 +2,7 @@
 title: define-a-smart-Liste-for-a-batch-Kampagne
 description: Definieren einer intelligenten Liste für eine Batch-Kampagne
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot;(welche Personen) definiert werden soll, ob es sich um einen Bericht, eine Liste oder eine intelligente Kampagne handelt. So definieren Sie eine intelligente Liste für eine Batch-Kampagne.
 
-1. Wählen Sie eine intelligente Kampagne und klicken Sie dann auf [!UICONTROL **Intelligente Liste**].
+1. Wählen Sie eine intelligente Kampagne und klicken Sie dann auf **[!UICONTROL Intelligente Liste]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot
    >
    >Sie können eine intelligente Kampagne basierend auf Live-Ereignissen einzeln ausführen, indem Sie Auslöser hinzufügen, wodurch die intelligente Kampagne im Auslösermodus ausgeführt wird.
 
-1. Klicken Sie auf die Dropdownliste und wählen Sie einen Filteroperator (z. B. [!UICONTROL **is**], [!UICONTROL **is not**] usw.) für den ausgewählten Filter.
+1. Klicken Sie auf die Dropdownliste und wählen Sie einen Filteroperator (z. B. **[!UICONTROL is]**, **[!UICONTROL is not]** usw.) für den ausgewählten Filter.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
