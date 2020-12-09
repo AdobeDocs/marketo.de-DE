@@ -3,9 +3,9 @@ unique-page-id: 1147112
 description: Einführung zu Tags - Marketing-Dokumente - Produktdokumentation
 title: Tags
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Kanal werden verwendet, um Berichte darüber zu erstellen, wie Ihre [Mitglieder]
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Benutzerdefinierte Tags erstellen](../../../../product-docs/administration/tags/create-custom-tags.md)
 >* [Erstellen eines Programm-Kanals](../../../../product-docs/administration/tags/create-a-program-channel.md)
