@@ -2,7 +2,7 @@
 title: using-the-Programm-setup-tab
 description: Registerkarte "Programm-Setup"
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Um den Kanal Ihres Programms zu ändern, wählen Sie oben auf der Seite aus der 
 
 ## hinzufügen Tags
 
-1. Klicken Sie im Abschnitt [!UICONTROL Tags] auf die Dropdownliste [!UICONTROL **Attribut**] und wählen Sie ein Tag-Attribut aus den verfügbaren Optionen.
+1. Klicken Sie im Abschnitt [!UICONTROL Tags] auf die Dropdownliste **[!UICONTROL Attribut]** und wählen Sie ein Tag-Attribut aus den verfügbaren Optionen.
 
    ![Bild drei](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Klicken Sie auf die Dropdownliste [!UICONTROL **Wert**] und wählen Sie einen Tag-Wert aus den verfügbaren Optionen. Klicken Sie auf [!UICONTROL **Hinzufügen**].
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Wert]** und wählen Sie einen Tag-Wert aus den verfügbaren Optionen. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![Bild vier](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Um den Kanal Ihres Programms zu ändern, wählen Sie oben auf der Seite aus der 
 
 ## hinzufügen
 
-1. Wählen Sie unter &quot; [!UICONTROL Zeitkosten] &quot;einen Monat aus, geben Sie einen Preis ein und fügen Sie einen kurzen Namen oder eine Beschreibung hinzu. Klicken Sie auf [!UICONTROL **Hinzufügen**].
+1. Wählen Sie unter &quot; [!UICONTROL Zeitkosten] &quot;einen Monat aus, geben Sie einen Preis ein und fügen Sie einen kurzen Namen oder eine Beschreibung hinzu. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![Bild sechs](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
