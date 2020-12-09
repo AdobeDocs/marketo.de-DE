@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited - Marketing Docs - Produktdokumentation
 title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Diese Schritte müssen von einem Salesforce-Administrator ausgeführt werden
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
