@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: Übersicht über E-Mail-Einblicke - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über E-Mail-Einblicke
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Klicken Sie auf Metrikleisten, um die Farben in Zahlen zu übersetzen.
 
 Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die Möglichkeit, bis zu 10 benutzerdefinierte Dimensionen hinzuzufügen. [Benutzerdefinierte Dimensionen](custom-dimensions-for-email-insights.md) bestehen aus Segmentierungen und Programm-Tags.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Übersicht über die Analyse von E-Mail Insights](email-insights-analytics-overview.md)
 >* [Übersicht über E-Mail Insights-Sends](email-insights-sends-overview.md)
