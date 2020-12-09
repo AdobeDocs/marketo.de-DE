@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Verweisdokument per E-Mail an Angebot senden - Marketing-Dokumente - Produktdokumentation
 title: Verweisende Angebot-Fulfillment-E-Mail senden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Belohnen Sie Ihre Kunden mit Gutscheinen und Diskontcodes, indem Sie die Angebot-Fulfillment-E-Mail verwenden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [E-Mails in Social-Promotions verwenden](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [Erstellen eines Referrer-Angebots](create-a-referral-offer.md)
