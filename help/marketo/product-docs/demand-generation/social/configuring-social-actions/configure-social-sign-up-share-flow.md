@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: Social-Anmeldung/Freigabe-Fluss konfigurieren - Marketing-Dokumente - Produktdokumentation
 title: Social-Anmeldung/Freigeben-Fluss konfigurieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ Wenn Sie die Werte der Tags der Seite auswählen (og:title, og:caption und og:de
 >
 >Wenn Sie ein Bild hochladen, wird es erst hier angezeigt, nachdem Sie den Social-App-Editor geschlossen und erneut geöffnet haben.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Als Nächstes können Sie auf **Fertig stellen > Genehmigen und schließen** klicken und Ihre Social-App auf eine Landingpage setzen. Sie können auch die [Personenerfassung](configure-person-capture-for-a-social-app.md) oder die [Aufforderung](configure-re-share-email-and-prompt-for-a-social-app.md)zur erneuten Freigabe konfigurieren.
 
