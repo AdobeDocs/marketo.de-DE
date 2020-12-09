@@ -3,9 +3,9 @@ unique-page-id: 7514985
 description: Neu planen einer intelligenten Batch-Kampagne in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation
 title: Neu planen einer intelligenten Batch-Kampagne in der Ansicht Programmplanung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Möchten Sie die Ausführung einer intelligenten Batch-Kampagne neu planen? Zieh
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Umplanen eines gesamten Programms aus der Ansicht &quot;Plan&quot;](rescheduling-an-entire-program-from-the-schedule-view.md)
 
