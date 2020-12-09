@@ -3,9 +3,9 @@ unique-page-id: 2360184
 description: Filtern eines Berichts zur Aktivität einer Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Filtern eines Berichts zur Aktivität einer Kampagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Konzentrieren Sie Ihren [Kampagne Aktivität](../../../../product-docs/reporting
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Bericht zur Kampagne-E-Mail-Leistung](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 
