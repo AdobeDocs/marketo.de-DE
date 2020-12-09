@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Anpassen der mobilen Ansicht für Ihre Free-Form-Landingpage - Marketing Docs - Produktdokumentation
 title: Anpassen der mobilen Ansicht für Ihre Landingpage mit kostenlosen Formularen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Anpassen der mobilen Ansicht für Ihre Landingpage mit kostenlosen Formularen {#customize-mobile-view-for-your-free-form-landing-page}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen einer mobilen Ansicht für Ihre Freiform-Landingpage](add-a-mobile-view-for-your-free-form-landing-page.md)
 
