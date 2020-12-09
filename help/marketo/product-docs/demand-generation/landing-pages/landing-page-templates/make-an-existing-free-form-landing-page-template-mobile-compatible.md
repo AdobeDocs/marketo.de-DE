@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: Vorhandene Vorlage für eine Landingpage mit Freiform Mobile kompatibel machen - Marketing Docs - Produktdokumentation
 title: Vorhandene Vorlage für eine Landingpage mit Freiform Mobile kompatibel machen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte &quot;Mobil&quot;
 
 Fantastisch! Sie können jetzt die mobile Ansicht [aller Landingpages, die diese Vorlage verwenden,](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) anpassen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Anpassen der mobilen Ansicht für Ihre Landingpage mit kostenlosen Formularen](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
