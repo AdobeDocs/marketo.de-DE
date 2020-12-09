@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Einträge direkt im Marketingkalender bearbeiten - Marketing Docs - Produktdokumentation
 title: Einträge direkt im Marketingkalender bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Sie können schnell auf verschiedene Bereiche Ihrer Einträge zugreifen, um sie 
 
 Das ist&#39;s! Wie Sie sehen können, gibt es viele Dinge, die Sie direkt vom Marketingkalender aus tun können.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Einträge direkt im Marketingkalender löschen](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 
