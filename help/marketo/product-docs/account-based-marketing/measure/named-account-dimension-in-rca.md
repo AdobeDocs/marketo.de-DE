@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Benannte Dimension in RCA - Marketing Docs - Produktdokumentation
 title: Benannte Konto-Dimension in RCA
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Reichweite von QualitätsInteressenten und Interaktionen innerhalb benannter Kon
 
 ![](assets/five-2.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Umsatzzyklusanalysen](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
 
