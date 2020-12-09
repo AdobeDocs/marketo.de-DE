@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Stellen Sie eine Marketing-E-Mail-Hinzufügen-in-Lizenz aus - Marketing-Dokumente - Produktdokumentation
 title: Eine Marketing-E-Mail-Hinzufügen-Lizenz ausstellen
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Jeder, der das Hinzufügen-in von Marketo E-Mail an Outlook verwenden möchte, m
    >
    >Wenn Ihre Vertriebsmitarbeiter Administratorzugriff auf ihre Computer haben, markieren Sie das Kästchen und Sie sind fertig!
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [Installieren Sie das Hinzufügen-in für Outlook mit einem Registrierungscode.](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
