@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Ereignis mit Level 3 Web Meeting - Marketing Docs - Produktdokumentation erstellen
 title: Ereignis mit Level 3-Webtreffen erstellen
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Ereignis mit Level 3-Webtreffen erstellen {#create-an-event-with-level-web-meeting}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [hinzufügen Level 3-Webtreffen als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
