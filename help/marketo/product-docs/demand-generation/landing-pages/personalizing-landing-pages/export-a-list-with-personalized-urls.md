@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Listen mit personalisierten URLs exportieren - Marketing Docs - Produktdokumentation
 title: Listen mit personalisierten URLs exportieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Listen mit personalisierten URLs exportieren {#export-a-list-with-personalized-urls}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Personalisierte URLs für Ihr Konto aktivieren](enable-personalized-urls-for-your-account.md)
 >* [Aktivieren personalisierter URLs für eine Landingpage](enable-personalized-urls-for-a-landing-page.md)
