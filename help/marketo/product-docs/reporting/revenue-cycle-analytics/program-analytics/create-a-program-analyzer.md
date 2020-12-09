@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: Erstellen eines Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm-Analyzer erstellen
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Mar
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Kanal-Effektivität mit dem Programm-Analyzer vergleichen](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Programm-Effektivität mit dem Programm-Analyzer vergleichen](compare-program-effectiveness-with-the-program-analyzer.md)
