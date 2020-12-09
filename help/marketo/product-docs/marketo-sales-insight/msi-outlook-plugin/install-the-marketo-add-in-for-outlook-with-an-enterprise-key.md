@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel - Marketing Docs - Produktdokumentation
 title: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vertriebsmitarbeiter verfügen oft nicht über Administratorrechte auf ihren Laptops, und ihre IT-Teams sind für die Ferninstallation der Software verantwortlich. Das Marketing Hinzufügen-in für Outlook kann auf diese Weise mit Ihrem Enterprise-Schlüssel installiert werden, der im Abschnitt Sales Insight von Admin zu finden ist.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Der Administrator muss eine Marketing-E-Mail-Hinzufügen-In-Lizenz [ausgestellt haben](issue-a-marketo-email-add-in-license.md).
 
