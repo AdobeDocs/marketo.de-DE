@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: Clone a Web Kampagne - Marketing Docs - Produktdokumentation
 title: Klonen einer Web-Kampagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Verwenden Sie die Klonfunktion auf der Seite &quot;Web-Kampagnen&quot;, um die E
    >
    >Der gesamte Inhalt der Web-Kampagne wird in die Klon-Kampagne kopiert, mit Ausnahme von Split-Tests. Vergessen Sie daher nicht, der geklonten Kampagne eine geteilte Testgruppe hinzuzufügen, wenn Sie sie gegen andere testen möchten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Eine neue Web-Kampagne in einer Zone erstellen](create-a-new-in-zone-web-campaign.md)
 >* [Neue Widget-Web-Kampagne erstellen](create-a-new-widget-web-campaign.md)
