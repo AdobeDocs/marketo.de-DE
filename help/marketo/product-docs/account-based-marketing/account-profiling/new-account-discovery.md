@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Neue Kontoerkennung - Marketing-Dokumente - Produktdokumentation
 title: Neue Kontoerkennung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Mit der neuen Kontoerfassung können Sie mithilfe von AI-basierten Empfehlungen aus Ihrem idealen Profil neue Zielgruppen finden.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >[Kontoprofilerstellung einrichten](http://docs.marketo.com/x/FgAKAQ)
 
