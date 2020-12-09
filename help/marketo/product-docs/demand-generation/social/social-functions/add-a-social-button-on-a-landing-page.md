@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: hinzufügen einer Social-Schaltfläche auf einer Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen einer Social-Schaltfläche auf einer Landingpage
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Social-Schaltfläche h
 >
 >Um Zeit zu sparen, können Sie mit der Option &quot; **Klonen von** &quot;alle Einstellungen aus einer vorhandenen Social-Schaltfläche kopieren.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Sie sind fertig, aber Sie können die Einstellungen Ihrer Social-Schaltfläche bei Bedarf ändern. Beginn mit der [Anpassung des Schaltflächenstils](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) und der [Bearbeitung der Freigabemeldungen](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) .
