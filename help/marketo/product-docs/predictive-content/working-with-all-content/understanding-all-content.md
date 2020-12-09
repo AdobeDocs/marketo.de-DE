@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Alle Inhalte - Marketing-Dokumente - Produktdokumentation
 title: Alle Inhalte verstehen
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Filtern Sie den Inhalt, indem Sie eine oder mehrere Kategorien auswählen. Richt
 
 1. Jetzt wird Analytics für Inhalte im ausgewählten Datumsbereich angezeigt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen neuer Inhalt](add-new-content.md)
 >* [Inhalt löschen](delete-content.md)
