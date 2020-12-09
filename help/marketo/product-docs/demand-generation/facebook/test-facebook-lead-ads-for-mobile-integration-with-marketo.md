@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: Testen von Facebook-Interessentenanzeigen für die mobile Integration mit Marketing - Marketing - Marketing-Dokumente - Produktdokumentation
 title: Testen von Facebook-Interessentenanzeigen für die mobile Integration mit Marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen!
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Sie müssen die Facebook- [Interessentenwerbungsintegration](set-up-facebook-lead-ads.md)einrichten.
 
