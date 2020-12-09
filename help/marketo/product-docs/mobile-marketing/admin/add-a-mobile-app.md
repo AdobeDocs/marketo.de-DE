@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: hinzufügen einer mobilen App - Marketing Docs - Produktdokumentation
 title: hinzufügen einer mobilen App
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Apps werden in der Regel in einer Sandbox-Umgebung Beginn, in der Erstentwicklun
 
    Schön! Konfigurieren wir nun Ihre App für die Verwendung mit Android- und iOS-Geräten.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Mobile App-Android-Push-Zugriff konfigurieren](configure-mobile-app-android-push-access.md)
 >* [Mobile App konfigurieren - Push-Zugriff auf iOS](configure-mobile-app-ios-push-access.md)
