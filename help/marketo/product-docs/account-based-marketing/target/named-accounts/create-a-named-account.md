@@ -3,9 +3,9 @@ unique-page-id: 12615781
 description: Ein benanntes Konto erstellen - Marketing Docs - Produktdokumentation
 title: Benanntes Konto erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Führen Sie die folgenden Schritte aus, um ein benanntes Konto manuell zu erstel
    >
    >Klicken Sie direkt auf ein benanntes Konto, um dessen Dashboard anzuzeigen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen Personen in ein benanntes Konto](add-people-to-a-named-account.md)
 
