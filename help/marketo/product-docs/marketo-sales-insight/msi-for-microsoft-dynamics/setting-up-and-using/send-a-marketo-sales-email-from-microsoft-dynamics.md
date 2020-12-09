@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: Senden Sie eine Marketing-E-Mail an den Vertrieb von Microsoft Dynamics - MarketingTo Docs - Produktdokumentation
 title: Senden Sie eine Marketing-E-Mail von Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Ihr Verkaufsteam kann E-Mails senden und sie für das Öffnen und Klicks direkt 
 
 Gut gemacht! Jetzt wissen Sie, wie Sie Marketo nachverfolgte E-Mails direkt aus Microsoft Dynamics senden können.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen eines Interessenten/Kontakts zu einer Marketing-Kampagne von Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
