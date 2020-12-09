@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Berichtwarnungen konfigurieren](champion-challenger-configure-report-alerts.md)
 
