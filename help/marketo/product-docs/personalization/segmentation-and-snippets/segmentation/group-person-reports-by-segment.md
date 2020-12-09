@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Gruppenbenutzerberichte nach Segment - Marketing-Dokumente - Produktdokumentation
 title: Gruppenbenutzerberichte nach Segment
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Sie können Ihre [Personenberichte](http://docs.marketo.com/display/docs/basic+r
 >
 >Weitere Informationen zu Segmenten und deren Erstellung und Verwaltung finden Sie im Tauchgang [Segmentierung](http://docs.marketo.com/display/docs/segmentation+and+snippets) .
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen benutzerdefinierter Spalten für einen Personenbericht](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 
