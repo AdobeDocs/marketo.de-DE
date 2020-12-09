@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Glossar "Benutzerdefinierter Feldtyp"- Marketing-Dokumente - Produktdokumentation
 title: Glossar "Benutzerdefinierter Feldtyp"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Liste von Typen zur Auswahl.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Benutzerdefiniertes Feld in Marketing erstellen](create-a-custom-field-in-marketo.md)
 
