@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-Kampagne
 description: hinzufügen eines Flussschritts zu einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Flussschritte sagen Marketo, was Sie einer Gruppe von Personen, die sich qualifi
 
 ## hinzufügen eines Flussschritts
 
-1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]Ihre intelligente Kampagne aus und klicken Sie auf [!UICONTROL **Fluss**].
+1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]Ihre intelligente Kampagne aus und klicken Sie auf **[!UICONTROL Fluss]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
