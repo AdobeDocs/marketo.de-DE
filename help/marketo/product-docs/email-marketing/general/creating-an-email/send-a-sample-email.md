@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Beispiel-E-Mail senden - Marketing-Dokumente - Produktdokumentation
 title: Senden einer Beispiel-E-Mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
 ## Senden einer Beispiel-E-Mail anhand eines Segments {#send-a-sample-email-based-on-a-segment}
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >[Wenden Sie die Segmentierung auf Ihre E-Mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)an.
 
