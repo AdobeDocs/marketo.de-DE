@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Formular genehmigen - Marketing-Dokumente - Produktdokumentation
 title: Formular genehmigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Hier sehen Sie, wie Sie ein vorhandenes Formular genehmigen können, das fertig 
 
 Wenn Sie Änderungen an einem Formular vornehmen, können Sie die Seite direkt im Editor genehmigen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >* [Formular bearbeiten](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
