@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Firma Web Aktivität Report - Marketing Docs - Produktdokumentation
 title: Bericht zur Web-Aktivität der Firma
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Erkennen Sie, welche Firmen Ihre Website besuchen. Sie können bekannte oder ano
 
 Erstellen Sie einen [Bericht](web-page-activity-report.md) zur Aktivität der Webseite, um die einzelnen Personen zu sehen, die Ihre Site besuchen.
 
->[!NOTE]
->
->**Voraussetzungen**
+>[!PREREQUISITES]
 >
 >Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst Munchkin auf Ihrer Site [einrichten](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
