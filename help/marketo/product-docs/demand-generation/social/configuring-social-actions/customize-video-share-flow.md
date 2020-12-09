@@ -3,9 +3,9 @@ unique-page-id: 2950553
 description: Video-Freigabe-Fluss anpassen - Marketing-Dokumente - Produktdokumentation
 title: Video-Freigabe-Fluss anpassen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Wenn Sie eine Videofreigabe [erstellen](../../../../product-docs/demand-generati
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >Der nächste Schritt besteht darin, zu [konfigurieren, was nach der Videofreigabe](configure-after-share-prompts.md)geschieht.
 
