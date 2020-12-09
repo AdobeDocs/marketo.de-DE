@@ -2,7 +2,7 @@
 title: create-a-basic-entry-in-Programm-schedule-Ansicht
 description: Erstellen eines einfachen Eintrags in der Ansicht "Programmplanung"
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Sie können neue Grundeinträge direkt aus der Ansicht Programmplanung erstellen.
 
-1. Wählen Sie Ihr Programm in der Struktur aus und klicken Sie dann auf die Registerkarte [!UICONTROL **Plan**] unter [!UICONTROL **Übersicht**].
+1. Wählen Sie Ihr Programm in der Struktur aus und klicken Sie dann auf die Registerkarte **[!UICONTROL Plan]** unter **[!UICONTROL Übersicht]**.
 
    ![Bild eins](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. Bewegen Sie den Mauszeiger über den Tag, dem Sie einen Eintrag hinzufügen möchten, und klicken Sie dann auf [!UICONTROL **Hinzufügen**].
+1. Bewegen Sie den Mauszeiger über den Tag, dem Sie einen Eintrag hinzufügen möchten, und klicken Sie dann auf **[!UICONTROL Hinzufügen]**.
 
    ![Bild zwei](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ Sie können neue Grundeinträge direkt aus der Ansicht Programmplanung erstellen
    >
    >Sie können auch ähnliche Schritte ausführen, um einen einfachen Eintrag aus den Ansichten &quot;Tag&quot;, &quot;Woche&quot;oder &quot;Agenda&quot;zu erstellen.
 
-1. Geben Sie einen Namen für Ihren neuen einfachen Eintrag ein und ändern Sie bei Bedarf den [!UICONTROL **Typ**] in [!UICONTROL Grundeintrag] . Sie können auch das [!UICONTROL **Beginn- und Enddatum**]&#x200B;ändern und die Option &quot;In Agenda öffnen&quot;deaktivieren, wenn Sie nach dem Erstellen des Eintrags im Kalender bleiben möchten, um die Ansicht [!UICONTROL **&quot;**] In Agenda öffnen&quot;zu deaktivieren. Klicken Sie auf [!UICONTROL **Speichern**].
+1. Geben Sie einen Namen für Ihren neuen einfachen Eintrag ein und ändern Sie bei Bedarf den **[!UICONTROL Typ]** in [!UICONTROL Grundeintrag] . Sie können auch das **[!UICONTROL Beginn- und Enddatum]**&#x200B;ändern und die Option &quot;In Agenda öffnen&quot;deaktivieren, wenn Sie nach dem Erstellen des Eintrags im Kalender bleiben möchten, um die Ansicht **[!UICONTROL &quot;]** In Agenda öffnen&quot;zu deaktivieren. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild drei](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
