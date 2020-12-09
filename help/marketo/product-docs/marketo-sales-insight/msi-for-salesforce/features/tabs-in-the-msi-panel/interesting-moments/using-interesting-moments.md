@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Verwendung interessanter Momente - Marketing Docs - Produktdokumentation
 title: Verwenden interessanter Momente
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketing Sales Insight-App.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Diese sind nur für Kunden von Marketo Sales Insight und [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) verfügbar.
 
@@ -31,7 +29,7 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
 ## Wie erstelle ich einen interessanten Moment?  {#how-do-i-create-an-interesting-moment}
 
-1. Wählen Sie eine [s](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart Kampagne](http://docs.marketo.com/display/docs/smart+campaigns), vorzugsweise eine Ihrem Vertriebsteam interessant, wenn sie ausgelöst wird.
+1. Wählen Sie eine [intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), vorzugsweise eine, die Ihr Vertriebsteam bei Auslösung interessant finden würde.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ Sobald Sie die Marketing Sales Insight-App [](../../../../../../product-docs/mar
 Nachdem Sie Marketo Sales Insight für Salesforce1 installiert oder aktualisiert haben, werden interessante Momente unter den entsprechenden Links des Interessenten angezeigt.
 
 ![](assets/seven.png)
-
