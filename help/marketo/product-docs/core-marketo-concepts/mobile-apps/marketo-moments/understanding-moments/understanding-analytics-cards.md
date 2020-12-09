@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Die Analytics-Karten - Marketing-Dokumente - Produktdokumentation
 title: Die Analytics-Karten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Die **Abmeldung** -Karte zeigt Ihnen einen monatlichen Trendbericht über Ihre A
 
 Jetzt weißt du Bescheid.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Erläuterungen zu Markusmomenten](understanding-marketo-moments.md)
 >* [Einführung in Ereignis-Karten](understanding-event-cards.md)
