@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Protokolle für Marketing - Marketing - Docs - Produktdokumentation konfigurieren
 title: Protokolle für Marketing konfigurieren
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '712'
 ht-degree: 1%
 
 ---
@@ -15,9 +15,17 @@ ht-degree: 1%
 
 Ihre Marketinggruppe verwendet Marketo, um Landingpages und E-Mails zu Kampagnen zu erstellen. Um sicherzustellen, dass diese Landingpages und E-Mails funktionieren, benötigen sie eine kleine Hilfe von der IT. Bitte richten Sie die folgenden Protokolle mit den Informationen ein, die Ihnen Ihre Marketinggruppe per E-Mail zukommen lassen sollte.
 
+Dieser Artikel sollte an die IT-Abteilung der Firma weitergegeben werden, die diese Protokolle implementieren möchte.
+
 >[!NOTE]
 >
->Dieser Artikel ist für die IT-Abteilung der Firma gedacht, die diese Protokolle implementieren möchte.
+>Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie die IT-Mitarbeiter, die folgenden Domänen (einschließlich des Sternchen) hinzuzufügen, damit alle Marketing-Ressourcen und Websockets zugelassen werden:
+
+* `*.marketo.com`
+
+* `*.marketodesigner.com`
+
+* `*.mktoweb.com`
 
 ## Schritt 1: DNS-Datensätze für Landingpages und E-Mail erstellen {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -25,14 +33,15 @@ Ihre Marketinggruppe verwendet Marketo, um Landingpages und E-Mails zu Kampagnen
 
 Ihr Marketing-Team sollte Ihnen zwei Anfragen nach neuen CNAME-Aufzeichnungen senden. Die erste ist für Landingpages-URLs gedacht, sodass die Landingpages in URLs angezeigt werden, die Ihre Domäne und nicht Marketo (der eigentliche Host) widerspiegeln. Der zweite betrifft die Links zur Verfolgung, die in den E-Mails enthalten sind, die sie von Marketing senden.
 
-1 - **Hinzufügen CNAME für Landingpages**
+`1` **hinzufügen CNAME für Landingpages**
 
 hinzufügen der Landingpage CNAME, die Sie an Ihren DNS-Datensatz gesendet haben, sodass `[YourLandingPageCNAME]` auf die eindeutige Kontozeichenfolge verweist, die Ihren Marketo-Landingpages zugewiesen ist. Melden Sie sich bei der Site Ihrer Domänenregistrierungsstelle an und geben Sie den CNAME und die Kontozeichenfolge der Landingpage ein. Normalerweise umfasst dies drei Felder:
 
-・ Alias: Geben Sie `[YourLandingPageCNAME]` (je nach Marketing) ・ Typ ein: CNAME\
-・ Verweis auf: Eingabe `[MarketoAccountString].mktoweb.com` (durch Marketing bereitgestellt)
+* Alias: Eingabe `[YourLandingPageCNAME]` (durch Marketing bereitgestellt)
+* Typ: CNAME
+* Verweis auf: Eingabe `[MarketoAccountString].mktoweb.com` (durch Marketing bereitgestellt)
 
-2 - **Hinzufügen CNAME für E-Mail-Tracking-Links**
+`2` **hinzufügen CNAME für E-Mail-Tracking-Links**
 
 hinzufügen Sie vom E-Mail-CNAME-Marketing gesendet wurden, sodass `[YourEmailCNAME]` Sie auf [MktoTrackingLink], den standardmäßigen Verfolgungslink, den Marketo zugewiesen hat, im folgenden Format zeigen:\
 `[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
@@ -41,7 +50,7 @@ Beispiel:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
-3 - Ihr Marketing-Team **benachrichtigen**
+`3` **Ihr Marketing-Team benachrichtigen**
 
 Benachrichtigen Sie Ihr Marketingteam, wenn Sie diesen Vorgang abgeschlossen haben.
 
@@ -52,7 +61,7 @@ Wenn Ihre Marketing-Gruppe mit Marketo Test-E-Mails sendet (eine bewährte Metho
 hinzufügen dieser IP-Adressen auf Ihre Corporate Zulassungsliste:
 
 199.15.212.0/22\
-192.28.144.0/20\
+192.28.144.0/20
 192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
@@ -64,19 +73,19 @@ Einige Anti-Spam-Systeme verwenden das Feld Rückkehrpfad der E-Mail anstelle de
 
 >[!NOTE]
 >
->Postini verwendet eine einzigartige Technologie und erfordert den Zulassungsauflistung von IP-Bereichen. Siehe [Auf die Zulassungsliste setz mit Postini](http://nation.marketo.com/docs/DOC-1066).
+>Postini verwendet eine einzigartige Technologie und erfordert den Zulassungsauflistung von IP-Bereichen. Siehe [Auf die Zulassungsliste setz mit Postini](https://nation.marketo.com/docs/DOC-1066).
 
 ## Schritt 3: Einrichten von SPF und DKIM {#step-set-up-spf-and-dkim}
 
 Ihr Marketing-Team sollte Ihnen auch DKIM-Informationen geschickt haben, die Sie zu Ihrem DNS-Ressourcendatensatz hinzufügen können (siehe auch unten). Gehen Sie wie folgt vor, um DKIM und SPF erfolgreich zu konfigurieren, und teilen Sie Ihrem Marketing-Team dann mit, dass dies aktualisiert wurde.
 
-1. Um SPF einzurichten, fügen Sie unseren DNS-Einträgen die folgende Zeile hinzu:
+1. Um SPF einzurichten, fügen Sie die folgende Zeile zu unseren DNS-Einträgen hinzu:
 
    `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   umfassen: [mktomail.com](http://mktomail.com/) ~all
+   umfassen: mktomail.com ~all
 
    Wenn wir bereits einen SPF-Datensatz in unserem DNS-Eintrag haben, fügen Sie einfach Folgendes hinzu:\
-   umfassen: [mktomail.com](http://mktomail.com)
+   umfassen: mktomail.com
 
    Ersetzen Sie CompanyDomain durch die Hauptdomäne Ihrer Website (z. B: &quot;`(company.com/)`&quot;) und CorpIP mit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B. &quot;255.255.255.255&quot;). Wenn Sie E-Mails von mehreren Domänen über Marketo senden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domäne (in einer Zeile) hinzufügen.
 
@@ -86,7 +95,7 @@ Ihr Marketing-Team sollte Ihnen auch DKIM-Informationen geschickt haben, die Sie
 
    `[DKIMDomain2]`: Host Record ist `[HostRecord2]` und der TXT-Wert ist `[TXTValue2]`.
 
-   Kopieren Sie den HostRecord und TXTValue für jede DKIMDomain, die Sie eingerichtet haben, nachdem Sie die [Anweisungen hier](https://docs.marketo.com/display/public/DOCS/Set+up+a+Custom+DKIM+Signature)befolgt haben. Vergessen Sie nicht, jede Domäne unter Admin > E-Mail > DKIM zu überprüfen, nachdem Ihr IT-Personal diesen Schritt abgeschlossen hat.
+   Kopieren Sie den HostRecord und TXTValue für jede DKIMDomain, die Sie eingerichtet haben, nachdem Sie die [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)befolgt haben. Vergessen Sie nicht, jede Domäne unter Admin > E-Mail > DKIM zu überprüfen, nachdem Ihr IT-Personal diesen Schritt abgeschlossen hat.
 
 ## Schritt 4: Einrichten von MX-Aufzeichnungen für Ihre Domäne {#step-set-up-mx-records-for-your-domain}
 
