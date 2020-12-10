@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Setup-Checkliste - Marketing-Dokumente - Produktdokumentation
 title: Setup-Checkliste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Setup-Checkliste {#setup-checklist}
 
-Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Liste zum Einstieg verwenden. Details finden Sie unter [Setup-Schritte](../../getting-started/setup-steps.md).
+Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Liste zum Einstieg verwenden. Details finden Sie unter [Setup-Schritte](/help/marketo/getting-started/setup-steps.md).
 
 ## Melden Sie sich bei Marketing an und erstellen Sie weitere Benutzer {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Liste z
 1. Bitten Sie die IT, einen DNS-Datensatz für Ihren E-Mail-CNAME einzurichten
 1. Bitten Sie IT an Zulassungsliste Marketo
 1. Einrichten von DKIM und SPF im Admin-Bereich
-1. Einrichten von MX für [FromDomain1]
+1. Einrichten von MX für `[FromDomain1]`
 1. Wenn der E-Mail-CNAME fertig ist, richten Sie Ihren E-Mail-CNAME in Marketing ein
 
 ## Senden einer URL für Landingpages- und E-Mail-Vorlagen {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Liste z
 
 >[!MORELIKETHIS]
 >
->[Einrichtungsschritte](../../getting-started/setup-steps.md)
-
+>[Einrichtungsschritte](/help/marketo/getting-started/setup-steps.md)
