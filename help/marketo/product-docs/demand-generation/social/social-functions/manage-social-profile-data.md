@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Social-Profil-Daten verwalten - Marketing-Dokumente - Produktdokumentation
 title: Social-Profil-Daten verwalten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Social-Profil-Daten verwalten {#manage-social-profile-data}
 
 Wenn jemand mit einer Marketing- [Social-App](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)interagiert oder ihr soziales Netzwerk autorisiert, ein Marketo-Formular mit [Social-Formularen auszufüllen](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), erfasst Marketo alle Daten, die in ihrem Social-Profil verfügbar sind. Sie können diese Informationen auf der Seite [&quot;](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)Personendetails&quot;oder als Spalte in eine [benutzerdefinierte Ansicht einer intelligenten Liste](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)einfügen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 In Social-Formularen und Social-Apps werden leicht unterschiedliche Feldsätze erfasst. siehe den Abschnitt für die einzelnen unten.
 
