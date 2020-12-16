@@ -3,21 +3,15 @@ unique-page-id: 2359953
 description: Personen, die abgelaufene Inhalte haben - Marketing Docs - Produktdokumentation
 title: Personen mit abgelaufenem Inhalt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Personen mit abgelaufenem Inhalt {#people-who-have-exhausted-content}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Wenn eine Person alle Inhalte in einem Stream erhalten hat, hat sie alle Möglichkeiten ausgeschöpft und wartet untätig, bis mehr hinzugefügt wird. Man kann Menschen finden, die &quot;erschöpft&quot; sind auf verschiedene Weise.
 
