@@ -3,21 +3,15 @@ unique-page-id: 2953465
 description: SFDC-Synchronisierung - Umwandlung eines Interessenten in einen Kontakt in Salesforce - Marketo Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Umwandlung eines Interessenten in einen Kontakt in Salesforce
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # SFDC-Synchronisierung: Umwandlung eines Interessenten in einen Kontakt in Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Stellen Sie sich drei verschiedene Szenarien in Salesforce vor: (nicht mit dem Schritt [&quot;Person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) konvertieren&quot;in Marketing)
 
