@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Firma Web Aktivität Report - Marketing Docs - Produktdokumentation
 title: Bericht zur Web-Aktivität der Firma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Bericht zur Web-Aktivität der Firma {#company-web-activity-report}
 
 Erkennen Sie, welche Firmen Ihre Website besuchen. Sie können bekannte oder anonyme Besucher anzeigen, jedoch nicht beide im gleichen Bericht.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Erstellen Sie einen [Bericht](web-page-activity-report.md) zur Aktivität der Webseite, um die einzelnen Personen zu sehen, die Ihre Site besuchen.
 
