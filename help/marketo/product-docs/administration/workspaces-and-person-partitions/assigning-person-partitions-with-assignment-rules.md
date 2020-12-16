@@ -3,21 +3,15 @@ unique-page-id: 2360327
 description: Zuweisen von Benutzerpartitionen zu Zuweisungsregeln - MarketingToDocs - Produktdokumentation
 title: Zuweisen von Benutzerpartitionen zu Zuordnungsregeln
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 
 # Zuweisen von Benutzerpartitionen zu Zuordnungsregeln {#assigning-person-partitions-with-assignment-rules}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
