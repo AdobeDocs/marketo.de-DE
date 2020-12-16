@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: hinzufügen benutzerdefinierter Spalten für einen Personenbericht - Marketing Docs - Produktdokumentation
 title: hinzufügen benutzerdefinierter Spalten für einen Personenbericht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # hinzufügen benutzerdefinierter Spalten für einen Personenbericht {#add-custom-columns-to-a-person-report}
 
 Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/display/docs/basic+reporting) weiter filtern, indem Sie Ihre [intelligenten Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) als benutzerspezifische Spalten verwenden.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
 
