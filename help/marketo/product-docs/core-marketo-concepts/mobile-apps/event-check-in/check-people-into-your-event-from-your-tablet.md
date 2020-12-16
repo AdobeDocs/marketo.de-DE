@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: Überprüfen Sie Personen von Ihrem Tablet - Marketing Docs - Produktdokumentation in Ihr Ereignis.
 title: Personen von Ihrem Tablet in Ihr Ereignis einchecken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Wenn Personen in Ihrem Ereignis angezeigt werden, finden Sie deren Informationen in der App. Nach dem Check-in werden sie beim Synchronisieren mit Marketo zum Status &quot;Beendet&quot;befördert.
 
 Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Layout- und Designunterschiede.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!PREREQUISITES]
 >
