@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Warnung des Vertriebsmitarbeiters - Marketing Docs - Produktdokumentation
 title: Warnung an den Vertriebsmitarbeiter
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie lediglich eine Warn-E-Mail und eine E-Mail-Kampagne. Hier ist, wie man das macht.
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Landingpage mit einem Formular](landing-page-with-a-form.md)
-
->
-
-
+>[Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Schritt 1: Warnungs-E-Mail erstellen {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/one-5.png)
 
-1. Wählen Sie **Mein Programm** , das Sie in der [Landingpage mit einem Formular](landing-page-with-a-form.md) erstellt haben, schnell gewinnen und klicken Sie dann unter **Neu** auf **Neues lokales Asset**.
+1. Wählen Sie **Mein Programm** , das Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) erstellt haben, schnell gewinnen und klicken Sie dann unter **Neu** auf **Neues lokales Asset**.
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warn-E-Mails. Weitere Informationen finden Sie unter [Verwenden des Tokens](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) für Warnhinweise senden.
+   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warn-E-Mails. Weitere Informationen finden Sie unter [Verwenden des Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) für Warnhinweise senden.
 
 1. Klicken Sie auf **Speichern**.
 
@@ -87,7 +77,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
 ## Schritt 2: Warnauslöser-Kampagne erstellen {#step-create-an-alert-trigger-campaign}
 
-1. Wählen Sie **Mein Programm** , das zuvor erstellt wurde, und klicken Sie dann unter **Neu **auf **Neue intelligente Kampagne**.
+1. Wählen Sie **Mein Programm** , das zuvor erstellt wurde, und klicken Sie dann unter **Neu** auf **Neue Smart-Kampagne**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/nineteen-2.png)
 
-1. Gehen Sie zur Registerkarte **Plan** und klicken Sie auf die Schaltfläche **Aktivieren **s.
+1. Gehen Sie zur Registerkarte **Plan** und klicken Sie auf die Schaltfläche **Aktivieren** .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Legen Sie die **Qualifikationsregeln** auf **jedes Mal** fest (durch Bearbeiten der intelligenten Kampagne), damit dieselbe Person Warnhinweise mehrmals auslösen kann.
 
@@ -135,9 +124,6 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Erinnerung**
-   >
    >
    >Vergessen Sie nicht, Landingpages zu genehmigen; sie gehen erst nach Genehmigung live.
 
@@ -155,4 +141,6 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
 <br> 
 
-[Auftrag 7: Personalisieren einer E-Mail](personalize-an-email.md) - [Mission 9: Lead-Daten aktualisieren ►](update-person-data.md)
+[Auftrag 7: E-Mail personalisieren](personalize-an-email.md)
+
+[Mission 9: Lead-Daten aktualisieren ►](update-person-data.md)
