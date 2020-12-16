@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: Browserunterstützungseinstellungen "Nicht verfolgen"bearbeiten - MarketingTo Docs - Produktdokumentation
 title: Browserunterstützungseinstellungen "Nicht verfolgen" bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # Browserunterstützungseinstellungen &quot;Nicht verfolgen&quot; bearbeiten {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 &quot;Nicht verfolgen&quot;ist eine Browseranforderung, die in Systemen wie Marketo nicht verfolgt werden kann. Sie können diese Anforderung mit den folgenden Schritten berücksichtigen.
 
