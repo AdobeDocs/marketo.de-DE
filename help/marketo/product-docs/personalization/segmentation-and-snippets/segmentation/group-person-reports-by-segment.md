@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Gruppenbenutzerberichte nach Segment - Marketing-Dokumente - Produktdokumentation
 title: Gruppenbenutzerberichte nach Segment
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Gruppenbenutzerberichte nach Segment {#group-person-reports-by-segment}
 
 Sie können Ihre [Personenberichte](http://docs.marketo.com/display/docs/basic+reporting) nach jedem [Segment](http://docs.marketo.com/display/docs/basic+reporting) gruppieren, das Sie in Ihren Segmenten [definiert haben](create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gehen Sie zum Abschnitt **Marketing-Aktivitäten** (oder **Analytics**).
 
