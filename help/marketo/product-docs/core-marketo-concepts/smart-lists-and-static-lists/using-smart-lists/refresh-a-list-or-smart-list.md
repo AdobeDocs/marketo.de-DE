@@ -3,21 +3,15 @@ unique-page-id: 557318
 description: Aktualisieren einer Liste oder intelligenten Liste - Marketing Docs - Produktdokumentation
 title: Aktualisieren einer Liste oder intelligenten Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 
 # Aktualisieren einer Liste oder intelligenten Liste {#refresh-a-list-or-smart-list}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Wenn Sie eine intelligente Liste ausgeführt haben und einige Minuten vergangen sind, können die Ergebnisse jetzt anders sein - aktualisieren Sie, um herauszufinden.
 
