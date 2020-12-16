@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Einrichten und Hinzufügen einer Person - Marketing Docs - Produktdokumentation
 title: Einrichten und Hinzufügen einer Person
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Es gibt ein paar Dinge zu tun, bevor Sie mit den Missionen beginnen.
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Schritt 1: Bei Marketing anmelden {#step-log-in-to-marketo}
 
-1. [Melden Sie sich mit den per E-Mail erhaltenen Anmeldeinformationen bei Marketing](http://app.marketo.com) an.
+1. [Melden Sie sich mit den per E-Mail erhaltenen Anmeldeinformationen bei Marketing](https://app.marketo.com) an.
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ hinzufügen Sie sich selbst als Person in Marketo, damit Sie sich später selbst
 
    ![](assets/seven.png)
 
-1. Geben Sie Ihren Vor- und Nachnamen, Ihre E-Mail-Adresse und Ihre Firma ein und klicken Sie dann auf **Erstellen **um sich selbst als Person hinzuzufügen.
+1. Geben Sie Ihren Vor- und Nachnamen, Ihre E-Mail-Adresse und Ihren Firmen ein und klicken Sie dann auf **Erstellen** , um sich selbst als Person hinzuzufügen.
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ hinzufügen Sie sich selbst als Person in Marketo, damit Sie sich später selbst
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf die Registerkarte **Personen **s. Du solltest dich in der Datenbank sehen.
+1. Klicken Sie auf die Registerkarte **Personen** . Du solltest dich in der Datenbank sehen.
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ Du bist bereit, deine erste Mission zu starten!
 
 <br> 
 
-[Auftrag 1: Senden Sie eine E-Mail-Blase ►](send-an-email.md)
+[Auftrag 1: Senden Sie eine E-Mail-Blase ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
