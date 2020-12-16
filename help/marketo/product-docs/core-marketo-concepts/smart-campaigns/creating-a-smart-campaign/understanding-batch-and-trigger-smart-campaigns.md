@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Grundlagen zu Batch- und Trigger-intelligenten Kampagnen - Marketing Docs - Produktdokumentation
 title: Intelligente Batch- und Trigger-Kampagnen
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Intelligente Batch- und Trigger-Kampagnen {#understanding-batch-and-trigger-smart-campaigns}
 
 Es gibt zwei Arten intelligenter Kampagnen: Stapel und Auslöser.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Intelligente Kampagne stapeln {#batch-smart-campaign}
 
