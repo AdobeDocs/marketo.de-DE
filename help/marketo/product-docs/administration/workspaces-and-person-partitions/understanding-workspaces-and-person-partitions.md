@@ -3,21 +3,15 @@ unique-page-id: 2360309
 description: Arbeitsbereiche und Benutzerpartitionen - Marketing-Dokumente - Produktdokumentation
 title: Arbeitsbereiche und Benutzerpartitionen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
 
 
 # Arbeitsbereiche und Benutzerpartitionen {#understanding-workspaces-and-person-partitions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Arbeitsflächen {#workspaces}
 
