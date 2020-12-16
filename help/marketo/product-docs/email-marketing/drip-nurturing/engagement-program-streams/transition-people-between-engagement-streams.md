@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: Transition von Personen zwischen Interaktionsströmen - Marketing-Dokumente - Produktdokumentation
 title: Transition von Personen zwischen Interaktionsströmen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Transition von Personen zwischen Interaktionsströmen {#transition-people-between-engagement-streams}
 
 Interaktions-Programm können über mehr als einen Stream verfügen. Wenn Sie einen Stream [](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)hinzufügen, möchten Sie eine Möglichkeit definieren, wie Benutzer von einem Stream zu einem anderen wechseln können. Diese werden als **Transitionen bezeichnet.**
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
