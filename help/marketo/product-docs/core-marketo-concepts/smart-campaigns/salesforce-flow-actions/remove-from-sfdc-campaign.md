@@ -3,21 +3,15 @@ unique-page-id: 1147036
 description: Entfernen aus der SFDC-Kampagne - Marketing Docs - Produktdokumentation
 title: Aus SFDC-Kampagne entfernen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
 # Aus SFDC-Kampagne entfernen {#remove-from-sfdc-campaign}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
