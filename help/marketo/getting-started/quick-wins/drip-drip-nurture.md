@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Tropfen, Tropfen, Krankenpflege - Marketing Docs - Produktdokumentation
 title: Tropfen, Tropfen, Harnwege
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Marketo erstellen. So!
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
->* [Eine Liste von Personen importieren](import-a-list-of-people.md)
-
->
-
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## Schritt 1: Interaktives Programm erstellen {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!NOTE]
    >
-   >Sehen Sie nicht den E-Mail-Editor? Ihr Browser hat das Fenster wahrscheinlich blockiert. Aktivieren Sie Popups von [app.marketo.com](http://app.marketo.com) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf **bearbeiten** .
+   >Sehen Sie nicht den E-Mail-Editor? Ihr Browser hat das Fenster wahrscheinlich blockiert. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf **bearbeiten** .
 
 1. Geben Sie einen Betreff ein.
 
@@ -92,9 +83,6 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Vergessen Sie nicht, Ihre E-Mails zu genehmigen, oder Sie können sie später nicht aktivieren.
 
 1. Erstellen Sie jetzt eine weitere E-Mail, indem Sie die Schritte 2 wiederholen.
@@ -104,6 +92,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 ## Schritt 3: hinzufügen von Inhalten in Ihren Stream {#step-add-content-to-your-stream}
 
 1. Jetzt ist es an der Zeit, einen Inhaltsstream für Ihr Interaktions-Programm mit den von Ihnen erstellten E-Mails zu erstellen.
+
 1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams** .
 
    ![](assets/fourteen-2.png)
@@ -114,7 +103,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!TIP]
    >
-   >Sie können auch die Schaltfläche &quot; **Hinzufügen Inhalt** &quot;oder das Stream-Symbol **+ ** verwenden.
+   >Sie können auch die Schaltfläche **Hinzufügen Content** oder das Symbol stream **+** verwenden.
 
 ## Schritt 4: Stream-Inhalte aktivieren {#step-activate-stream-content}
 
@@ -134,7 +123,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    ![](assets/seventeen.png)
 
-1. Bearbeiten Sie die Einstellungen entsprechend dem gewünschten Zeitplan und klicken Sie auf **SPEICHERN**.
+1. Bearbeiten Sie die Einstellungen entsprechend dem gewünschten Zeitplan und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
    ![](assets/twenty-two.png)
 
 1. Auftrag abgeschlossen!
+
 1. Sie sollten eine E-Mail zu dem von Ihnen angegebenen Zeitpunkt und zu dem von Ihnen angegebenen Zeitpunkt erhalten.
 
    >[!NOTE]
    >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über [Interaktions-Programm](http://docs.marketo.com/display/docs/drip+nurturing).
+   >Erfahren Sie mehr über [Interaktions-Programm](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
-[Auftrag 5: Eine Liste der Interessentenmission](import-a-list-of-people.md) [7 importieren: E-Mail personalisieren ►](personalize-an-email.md)
+[Auftrag 5: Eine Liste von Interessenten importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Auftrag 7: E-Mail personalisieren ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
