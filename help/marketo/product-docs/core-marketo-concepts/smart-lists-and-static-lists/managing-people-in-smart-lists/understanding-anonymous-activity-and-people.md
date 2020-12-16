@@ -3,9 +3,9 @@ unique-page-id: 1147322
 description: Verstehen der anonymen Aktivität und der Menschen - Marketing-Dokumente - Produktdokumentation
 title: Verstehen der anonymen Aktivität und der Personen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Verstehen der anonymen Aktivität und der Personen {#understanding-anonymous-activity-and-people}
 
 Wenn jemand zum ersten Mal einen Marketo [l `anding page`](http://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages) (oder eine Seite auf Ihrer Website, die den [Munchkin-Rückverfolgungscode](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)enthält) besucht, erstellt Marketo eine *anonyme **Aktivität* und verwendet ein Browsercookie, um sie zu verfolgen. Sobald es identifiziert wurde, wird es zu einer Person und der mit ihrem Browser-Cookie verknüpfte Verlauf wird zusammengeführt.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 **Eine anonyme** Aktivität wird erstellt, wenn jemand:
 
