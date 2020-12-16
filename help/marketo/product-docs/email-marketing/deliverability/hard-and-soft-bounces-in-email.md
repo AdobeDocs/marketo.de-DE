@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Hard- und Soft Bounces in E-Mail - Marketing Docs - Produktdokumentation
 title: Hard- und Soft Bounces in E-Mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Hard- und Soft Bounces in E-Mail {#hard-and-soft-bounces-in-email}
 
 Bei einem harten Absprung kann die E-Mail-Adresse einer Person ungültig werden, wenn ein E-Mail-Server Marketo mitteilt, dass die E-Mail der Person nicht zugestellt werden kann. Ein weicher Absprung bedeutet, dass etwas bei der Übermittlung der E-Mail an die Person schiefgelaufen ist. wird automatisch aufgelöst und kann manchmal Tage dauern. Sowohl harte als auch weiche Absprünge bestehen aus [mehreren Kategorien](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Absprungklassifizierung {#bounce-classification}
 
