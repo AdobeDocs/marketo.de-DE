@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Erstellen eines neuen Arbeitsbereichs - Marketing-Dokumente - Produktdokumentation
 title: Neue Arbeitsfläche erstellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,6 @@ Arbeitsbereiche sind hilfreich, um Ihre Firma zu unterteilen. Gründe für die E
 * Business Unit A vs. Business Unit B
 
 So erstellen Sie einen neuen Arbeitsbereich.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
