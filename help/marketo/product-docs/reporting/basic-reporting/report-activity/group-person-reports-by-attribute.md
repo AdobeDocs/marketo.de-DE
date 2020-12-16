@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Gruppenbenutzerberichte nach Attribut - Marketing Docs - Produktdokumentation
 title: Personenberichte nach Attribut gruppieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Personenberichte nach Attribut gruppieren {#group-person-reports-by-attribute}
 
 Sie können Ihre [Personenberichte](http://docs.marketo.com/display/docs/basic+reporting) nach beliebigen Personen- oder Firmen-Attributen gruppieren.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
 
