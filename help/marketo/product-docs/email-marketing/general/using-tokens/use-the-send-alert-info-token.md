@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Verwenden Sie das Token "Warnhinweisinformationen senden"{SP_Send_Alert_Info} - "Marketing to Docs"- Produktdokumentation
 title: Verwenden des Tokens "Warnhinweisinformationen senden"
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Verwenden des Tokens &quot;Warnhinweisinformationen senden&quot; {#use-the-send-alert-info-token-sp-send-alert-info}
 
 Das `{{SP_Send_Alert_Info}}` Token ist ein spezielles Token, das beim Erstellen von Warn-E-Mails für Ihr Vertriebsteam verwendet wird.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!TIP]
 >
