@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: E-Mail personalisieren - Marketing-Dokumente - Produktdokumentation
 title: E-Mail personalisieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## Auftrag: Persönliche Gestaltung Ihrer E-Mails durch Hinzufügen von Daten-Token {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
->* [E-Mail-Blast senden](send-an-email.md)
->* [Tropfen, Tropfen, Harnwege](drip-drip-nurture.md)
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [E-Mail-Blast senden](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Tropfen, Tropfen, Harnwege](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Schritt 1: E-Mail zur Personalisierung auswählen {#step-select-an-email-to-personalize}
 
-1. Wählen Sie eine der Baumschulen-E-Mails aus, die im [vorherigen Quick win](drip-drip-nurture.md) erstellt wurden, und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie eine der Baumschulen-E-Mails aus, die im [vorherigen Quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) erstellt wurden, und klicken Sie auf Entwurf **bearbeiten**.
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >Dadurch wird eine Kopie der E-Mail als Entwurf erstellt. Sie müssen den Entwurf genehmigen, damit die Änderungen wirksam werden.
 
-   **Entwurf bearbeiten**
-
-Wenn Sie keinen Popup-Blocker aktiviert haben, wird der E-Mail-Editor in einem neuen Register/Fenster geöffnet. Klicken Sie andernfalls zweimal.
+Wenn Sie keinen Popup-Blocker aktiviert haben, wird der E-Mail-Editor in einem neuen Register/Fenster geöffnet. Klicken Sie andernfalls zweimal auf Entwurf **bearbeiten** .
 
 ## Schritt 2: Verkäufer zum Absender machen {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ Wenn Sie keinen Popup-Blocker aktiviert haben, wird der E-Mail-Editor in einem n
 
 >[!TIP]
 >
->Benötigen Sie einen schnellen Auffrischungsbericht darüber, wie Sie sich die E-Mail senden? Siehe [Senden eines E-Mail-Schnelltests](send-an-email.md).
-
-### Video ansehen {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>Benötigen Sie einen schnellen Auffrischungsbericht darüber, wie Sie sich die E-Mail senden? Siehe [Senden eines E-Mail-Schnelltests](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Abschluss der Mission {#mission-complete}
 
@@ -120,4 +108,6 @@ Herzlichen Glückwunsch! Sie haben Ihre E-Mail personalisiert!
 
 <br> 
 
-[Auftrag 6: Tropfen, Tropfen, Krankenpflege](drip-drip-nurture.md) , [Mission 8: Warnung des Vertriebsmitarbeiters ►](alert-the-sales-rep.md)
+[Auftrag 6: Tropfen, Tropfen, Harnwege](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Mission 8: Warnung des Vertriebsmitarbeiters ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
