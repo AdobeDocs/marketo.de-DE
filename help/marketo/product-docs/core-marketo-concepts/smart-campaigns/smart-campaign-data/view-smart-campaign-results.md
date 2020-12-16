@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: Ergebnisse der intelligenten Ansicht-Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Ansicht - Ergebnisse intelligenter Kampagnen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Ansicht - Ergebnisse intelligenter Kampagnen {#view-smart-campaign-results}
 
 Möchten Sie eine Aufschlüsselung aller Geschehnisse in einer intelligenten Kampagne sehen? So ist es einfach.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Klicken Sie in Ihrer intelligenten Kampagne auf **Ergebnisse**.
 
