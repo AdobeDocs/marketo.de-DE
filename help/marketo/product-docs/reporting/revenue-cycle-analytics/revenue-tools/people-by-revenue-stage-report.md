@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Bericht "Personen nach Umsatzstufe"- "Marketing-Dokumente"- Produktdokumentation
 title: Bericht "Personen nach Umsatzstufe"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Bericht &quot;Personen nach Umsatzstufe&quot; {#people-by-revenue-stage-report}
 
 Sie können einen Bericht erstellen, der zeigt, in welcher Phase des [Umsatzzyklusmodells](http://docs.marketo.com/display/docs/revenue+cycle+models) Ihre Mitarbeiter arbeiten. Der Bericht enthält alle Phasen des angegebenen Modells, solange eine Personenbilanz für den angegebenen Datumsbereich des Berichts vorliegt.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
