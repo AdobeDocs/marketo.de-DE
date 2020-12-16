@@ -3,21 +3,15 @@ unique-page-id: 1147027
 description: Person mit dem SFDC synchronisieren - Marketing Docs - Produktdokumentation
 title: Person mit dem SFDC synchronisieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 
 # Person mit dem SFDC synchronisieren {#sync-person-to-sfdc}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
