@@ -3,21 +3,15 @@ unique-page-id: 6848782
 description: Dynamische Abmeldung für Sprachen - Marketing Docs - Produktdokumentation
 title: Dynamische Abmeldung für Sprachen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
 
 
 # Dynamische Abmeldung für Sprachen {#make-your-unsubscribe-message-dynamic-for-languages}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisch verfügbar. Sie können dynamische Inhalte verwenden, um sie in verschiedenen Sprachen anzuzeigen.
 
