@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: Suchen und Hinzufügen von Filtern zu einer intelligenten Liste - Marketing Docs - Produktdokumentation
 title: Filter für eine intelligente Liste suchen und Hinzufügen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Nachdem Sie eine intelligente Liste [](create-a-smart-list.md)erstellt haben, müssen Sie Filter hinzufügen und [definieren](define-smart-list-filters.md) . Hier erfahren Sie, wie Sie Filter finden und hinzufügen.
 
 In diesem Beispiel sollten wir alle Menschen in Kalifornien mit einer Punktzahl über 50 finden.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!TIP]
 >
