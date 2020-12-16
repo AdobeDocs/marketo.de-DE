@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: Bericht zur Leistung von Personen - Marketing-Dokumente - Produktdokumentation
 title: Leistungsbericht für Personen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Leistungsbericht für Personen {#people-performance-report}
 
 Verwenden Sie einen Personendaten-Leistungsbericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie hinzugefügt haben und wann. Erfahren Sie mehr über die Menschen und beurteilen Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach Personen- oder Firmen-Attributen oder nach [Segmentierung](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Erstellen Sie einen Bericht](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Berichtstyp** Benutzerleistung [aus](report-type-overview.md).
 1. [Legen Sie den Zeitraum Ihres Berichts](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) fest und klicken Sie auf die Registerkarte **Bericht** .
