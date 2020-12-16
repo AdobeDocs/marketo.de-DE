@@ -3,9 +3,9 @@ unique-page-id: 2951220
 description: Erstellen Sie einen Bericht zur Leistung von Personen mit Spalten der mobilen Plattform - Marketing-Dokumente - Produktdokumentation
 title: Erstellen eines Berichts zur Leistung von Personen mit Spalten der mobilen Plattform
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Erstellen eines Berichts zur Leistung von Personen mit Spalten der mobilen Plattform {#build-a-people-performance-report-with-mobile-platform-columns}
 
 Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Spalten für Mobilplattformen (iOS/Android) zu erstellen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Mobile Smart-Listen erstellen {#create-mobile-smart-lists}
 
