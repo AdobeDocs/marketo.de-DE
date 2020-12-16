@@ -3,21 +3,15 @@ unique-page-id: 2360243
 description: Personenbeschränkungen für intelligente Kampagnen aktivieren - Marketing Docs - Produktdokumentation
 title: Personenbeschränkungen für intelligente Kampagnen aktivieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 
 # Personenbeschränkungen für intelligente Kampagnen aktivieren {#enable-person-restrictions-for-smart-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Es gibt eine Funktion in Marketo, um die ***max. ***Anzahl der Personen zu begrenzen, die sich für eine intelligente Kampagne qualifizieren können. Dadurch wird verhindert, dass Sie versehentlich Ihre gesamte Datenbank per E-Mail versenden.
 
