@@ -3,21 +3,15 @@ unique-page-id: 2953457
 description: SFDC-Synchronisierung - Kontaktsynchronisierung - Marketing-Dokumente - Produktdokumentation
 title: SFDC-Synchronisierung - Kontaktsynchronisierung
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 
 # SFDC-Synchronisierung: Kontaktaufnahme {#sfdc-sync-contact-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Salesforce synchronisiert? Es synchronisiert, wartet dann 5 Minuten und synchronisiert dann den ganzen Tag, jeden Tag. Hier sind einige Details darüber, wie Marketo Salesforce-Kontakte spezifisch behandelt.
 
