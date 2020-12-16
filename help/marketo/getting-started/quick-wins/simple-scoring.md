@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Einfache Bewertung - Marketing-Dokumente - Produktdokumentation
 title: Einfache Bewertung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # Einfache Bewertung {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
 >* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
 >* [Landingpage mit einem Formular](landing-page-with-a-form.md)
-
->
-
 
 
 ## Schritt 1: Erstellen einer Kampagne zur Bewertung {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Wenn Sie die [Landingpage mit einem Formular](landing-page-with-a-form.md) Quick win abgeschlossen haben, sollten Sie das Formular haben. Wenn Sie einen anderen Namen für Ihr Formular verwendet haben, wählen Sie diesen aus.
+   >Wenn Sie die [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win abgeschlossen haben, sollten Sie das Formular haben. Wenn Sie einen anderen Namen für Ihr Formular verwendet haben, wählen Sie diesen aus.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Klicken Sie auf die Registerkarte **Fluss **s.
+1. Klicken Sie auf die Registerkarte **Fluss** .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Gute Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**den Leitfaden zur Interessentenbewertung**](http://www.marketo.com/definitive-guides/lead-scoring/).
+   >Gute Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**den Leitfaden zur Interessentenbewertung**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
 1. Klicken Sie auf die Registerkarte **Plan** und dann auf die Schaltfläche **Aktivieren** .
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## Schritt 2: Ausfüllen des Formulars {#step-fill-out-the-form}
 
-1. Wählen Sie die Landingpage aus, die Sie in der [Landingpage mit einem Schnellgewinn für das Formular](landing-page-with-a-form.md) erstellt haben.
+1. Wählen Sie die Landingpage aus, die Sie in der [Landingpage mit einem Schnellgewinn für das Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) erstellt haben.
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Füllen Sie das Formular mit Ihrem Vornamen, Nachnamen und Ihrer E-Mail-Adresse aus und klicken Sie auf **Senden** .
+1. Füllen Sie das Formular mit Ihrem Vornamen, Nachnamen und Ihrer E-Mail-Adresse aus und klicken Sie dann auf **Senden**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ Ihre persönlichen Daten werden in einem neuen Register oder Fenster geöffnet. 
 ![](assets/twenty.png)
 
 **Herzlichen Glückwunsch!** Sie haben eine bewertete Kampagne erstellt.
-[Auftrag 2: Landingpage mit einem Formular](landing-page-with-a-form.md) [Mission 4: E-Mail-Automatisches Reagieren ►](email-auto-response.md)
+[Auftrag 2: Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[Mission 4: E-Mail-Automatisches Reagieren ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
