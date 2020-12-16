@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Weiterleiten zu einem Freund-Link in E-Mails - Marketing-Dokumente - Produktdokumentation
 title: Weiterleiten zu einem Freund-Link in E-Mails
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Wenn Sie den Link &quot;Weiterleiten an Freunde&quot;zu Ihren E-Mails hinzufügen, können Sie Personen verfolgen, die über diesen Link eine weitergeleitete E-Mail erhalten haben, und diese automatisch als neue Person hinzufügen, wenn sie sich nicht bereits in der Datenbank befinden.
 
 Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die E-Mail an eine unbekannte Person, Mark, zu senden. Mark wird automatisch als neue Person hinzugefügt, erhält sein eigenes Cookie zugewiesen und jede seiner E-Mail- und Web-Aktivitäten ist mit ihm verknüpft. Wenn Keith jedoch die Weiterleitungsschaltfläche in seinem E-Mail-Client verwendet, wird Mark fälschlicherweise als Keith gekocht und seine Aktivität wird als Keith protokolliert.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Verknüpfen mit einer E-Mail-Vorlage Hinzufügen {#add-the-link-to-an-email-template}
 
