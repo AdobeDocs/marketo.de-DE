@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Verwenden Sie ein Datums-Token in einem Wartezeitschritt - MarketingToDocs - Produktdokumentation
 title: Verwenden eines Datums-Tokens in einem Wartezeitschritt
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Verwenden eines Datums-Tokens in einem Wartezeitschritt {#use-a-date-token-in-a-wait-flow-step}
 
 Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelligente Kampagne bis zu einem bestimmten Datum anhalten, das ein Datums-Token verwendet. Sie können das Enddatum auch um einige Tage ändern.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
