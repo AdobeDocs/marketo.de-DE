@@ -3,21 +3,15 @@ unique-page-id: 2953455
 description: SFDC-Synchronisierung - Lead-Synchronisierung - Marketing-Dokumente - Produktdokumentation
 title: SFDC-Synchronisierung - Lead-Synchronisierung
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 
 # SFDC-Synchronisierung: Interessentenabgleich {#sfdc-sync-lead-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Wussten Sie, dass Marketo aus Ihrer Salesforce-Datenbank synchronisiert wird? Es synchronisiert, wartet 5 Minuten und synchronisiert dann erneut. Den ganzen Tag, jeden Tag. Hier sind einige Details darüber, wie Marketo Salesforce Leads speziell behandelt.
 
