@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filtern von Personen in einem Bericht mit einer intelligenten Liste - Marketing-Dokumente - Produktdokumentation
 title: Personen in einem Bericht mit intelligenter Liste filtern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Personen in einem Bericht mit intelligenter Liste filtern {#filter-people-in-a-report-with-a-smart-list}
 
 Verwenden Sie intelligente Listen, um Ihre Berichte nach bestimmten Personenattributen zu filtern.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
 
