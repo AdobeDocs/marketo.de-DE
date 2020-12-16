@@ -3,21 +3,15 @@ unique-page-id: 2360305
 description: Erstellen eines benutzerspezifischen Registers für die Seite mit den Personendetails - MarketingToDocs - Produktdokumentation
 title: Erstellen eines benutzerspezifischen Registers für die Seite mit den Benutzerdetails
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Erstellen eines benutzerspezifischen Registers für die Seite mit den Benutzerdetails {#creating-a-custom-tab-for-the-person-detail-page}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Wenn Sie sich immer wieder nach einem bestimmten Satz von Feldern in den Personendetails umsehen, sollten Sie ein benutzerdefiniertes Layout erstellen, um die Dinge zu vereinfachen.
 
