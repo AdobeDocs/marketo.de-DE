@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Liste von Personen importieren - Marketing-Dokumente - Produktdokumentation
 title: Eine Liste von Personen importieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## Auftrag: Eine Liste der Messebesucher in Ihre Datenbank importieren {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
+>[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulationsdatei in Marketo importieren.
+In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulationsdatei in Marketo importieren.
 
 ## Schritt 1: Herunterladen und Bearbeiten einer Tabelle {#step-download-and-edit-a-spreadsheet}
 
-1. Um Beginn zu erhalten, laden Sie unsere Übungsdatenblattdatei (** [tradeshow-attendes.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**) auf Ihren Computer herunter.
+1. Um Beginn zu erhalten, laden Sie unsere Übungsdatei ([**tradeshow-attendes.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) auf Ihren Computer herunter.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Verwenden Sie beim Importieren eines Datums folgendes Format: **21.09.15** (Monat/Tag/Jahr).
+   >Verwenden Sie beim Importieren eines Datums folgendes Format: **21.09.20** (Monat/Tag/Jahr).
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Benennen** Sie das Programm &quot;Mein Programm für die Diashow&quot;und wählen Sie &quot;Ereignis&quot;für den **Programm-Typ.**
+1. **Benennen** Sie das Programm &quot;Mein Programm für die Diashow&quot;und wählen Sie &quot;Ereignis&quot;als **Programm**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Ereignis-Programm treten an bestimmten Daten auf. Weitere Informationen zu [**Ereignissen**](http://docs.marketo.com/display/docs/events).
+>Ereignis-Programm treten an bestimmten Daten auf. Weitere Informationen zu [**Ereignissen**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Schritt 3: Importieren der Tabelle in Marketing {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >Wenn Sie im Liste-Importmodus die Option &quot;Neue Personen und Updates **** überspringen&quot;wählen, wirkt sich dies nicht auf vorhandene Personendaten aus oder protokolliert keine Aktivitäten. Verwenden Sie diesen Modus, wenn Sie eine schnelle, vorgefilterte statische Liste von vorhandenen Personen zur Verwendung in Ihren Marketing-Aktivitäten benötigen. Die Auswahl dieses Modus führt zu:
    >
-   >    
-   >    
-   >    * Neue Personenerstellung überspringen
-   >    * Aktualisierung des Benutzerfelds überspringen
-   >    * Protokollierung von Aktivitäten überspringen
+   > * Neue Personenerstellung überspringen
+   > * Aktualisierung des Benutzerfelds überspringen
+   > * Protokollierung von Aktivitäten überspringen
 
 
 1. Ordnen Sie die Spaltenfelder Ihrer Liste dem jeweiligen Markierungsfeld zu und klicken Sie auf **Weiter**.
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Spaltenüberschriften sollten immer exakt mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um die besten Ergebnisse für die automatische Zuordnung zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und sie nicht in der Dropdown-Liste sehen, gehen Sie zurück und [erstellen Sie sie](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) , damit sie Optionen werden können.
+   >Spaltenüberschriften sollten immer exakt mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um die besten Ergebnisse für die automatische Zuordnung zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und sie nicht in der Dropdown-Liste sehen, gehen Sie zurück und [erstellen Sie sie](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) , damit sie Optionen werden können.
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Sie können den Erfolg Ihres Programms analysieren, indem Sie die Programm-Mitgliedschaft verfolgen. Weitere Informationen zu [**Programmen**](http://docs.marketo.com/display/docs/programs).
+>Sie können den Erfolg Ihres Programms analysieren, indem Sie die Programm-Mitgliedschaft verfolgen. Weitere Informationen zu [**Programmen**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Abschluss der Mission {#mission-complete}
 
@@ -158,4 +138,6 @@ Ihre Messebesucher sind jetzt Mitglieder Ihres Marketo Programms!
 
 <br> 
 
-[Auftrag 4: Email Auto Response](email-auto-response.md) [Mission 6: Tropfen, Tropfen, Nurtur ►](drip-drip-nurture.md)
+[Auftrag 4: Automatische E-Mail-Antwort](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[Mission 6: Tropfen, Tropfen, Nurtur ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
