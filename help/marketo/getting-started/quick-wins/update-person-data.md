@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Personendaten aktualisieren - Marketing-Dokumente - Produktdokumentation
 title: Personendaten aktualisieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Auftrag: Kontaktinformationen oder andere Daten einer Person aktualisieren {#mission-update-a-persons-contact-info-or-other-data}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
->* [Eine Liste von Personen importieren](import-a-list-of-people.md)
-
->
-
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 Stellen wir uns vor, dass eine Person Ihnen auf Ihrer letzten Fachmesse zusätzliche Kontaktinformationen gegeben hat. So aktualisieren Sie Personendaten.
@@ -52,7 +43,7 @@ Stellen wir uns vor, dass eine Person Ihnen auf Ihrer letzten Fachmesse zusätzl
 
    >[!TIP]
    >
-   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Liste von Personen](import-a-list-of-people.md) und [Ändern des Datenwerts](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Liste von Personen](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [Ändern des Datenwerts](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Personendaten aktualisieren {#update-the-person-data}
 
@@ -70,4 +61,6 @@ Gute Arbeit! Sie haben Ihre personenbezogenen Daten aktualisiert.
 
 <br> 
 
-[Auftrag 8: Warnung an den Vertriebsmitarbeiter](alert-the-sales-rep.md) [Mission 10: Umleiten einer Landingpage ►](redirect-a-landing-page.md)
+[Auftrag 8: Warnung an den Vertriebsmitarbeiter](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+
+[Mission 10: Umleiten einer Landingpage ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
