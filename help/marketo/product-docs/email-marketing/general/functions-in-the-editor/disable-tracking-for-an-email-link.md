@@ -3,9 +3,9 @@ unique-page-id: 1900579
 description: Deaktivieren Sie die Verfolgung für einen E-Mail-Link - Marketing Docs - Produktdokumentation
 title: Deaktivieren der Verfolgung für einen E-Mail-Link
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Deaktivieren der Verfolgung für einen E-Mail-Link {#disable-tracking-for-an-email-link}
 
 Manchmal möchten Sie die **Marketing-Tracking-URL** nicht auf einem Link in einer E-Mail aktivieren. Dies ist nützlich, wenn die Zielseite keine URL-Parameter unterstützt und zu einem fehlerhaften Link führen kann.
-
->[!NOTE]
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Bearbeiten** des **Entwurfs**.
 
