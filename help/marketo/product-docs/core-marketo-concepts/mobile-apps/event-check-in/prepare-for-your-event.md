@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Vorbereitung auf Ihr Ereignis - Marketing Docs - Produktdokumentation
 title: Vorbereitung auf Ihr Ereignis
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Vorbereitung auf Ihr Ereignis {#prepare-for-your-event}
 
 Es gibt mehrere Dinge, die du tun musst, um dich auf das Ereignis vorzubereiten.
-
->[!NOTE]
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Neue Rolle für Märkte erstellen {#create-a-new-marketo-role}
 
