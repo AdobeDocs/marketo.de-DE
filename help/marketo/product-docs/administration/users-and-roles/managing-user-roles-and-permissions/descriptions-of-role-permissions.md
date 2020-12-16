@@ -3,21 +3,15 @@ unique-page-id: 6848747
 description: Beschreibungen der Rollenberechtigungen - Marketing Docs - Produktdokumentation
 title: Beschreibung der Rollenberechtigungen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
 
 
 # Beschreibung der Rollenberechtigungen {#descriptions-of-role-permissions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Nachfolgend finden Sie eine Liste aller verfügbaren Berechtigungen, die Sie Ihren Rollen zuweisen können. Berechtigungen sind in der Regel mit bestimmten Funktionsbereichen in Marketo verknüpft und können Ihnen helfen, zu steuern, auf welche Bereiche und Funktionen verschiedene Benutzer Zugriff haben.
 
