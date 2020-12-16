@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: E-Mail - Automatische Antwort - Marketing-Dokumente - Produktdokumentation
 title: Automatische E-Mail-Antwort
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Auftrag: Senden Sie eine Dankesemail, wenn eine Person ein Formular ausfüllt {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
->* [Landingpage mit einem Formular](landing-page-with-a-form.md)
-
->
-
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
 ## Schritt 1: E-Mail erstellen {#step-create-an-email}
@@ -48,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Ein E-Mail-Editor wird in einem neuen Fenster oder auf einer neuen Registerkarte geöffnet. Wenn Popups blockiert sind, klicken Sie auf der Asset-Zusammenfassungsseite auf** Entwurf bearbeiten**, um auf die E-Mail zuzugreifen.
+   Ein E-Mail-Editor wird in einem neuen Fenster oder auf einer neuen Registerkarte geöffnet. Wenn Popups blockiert sind, klicken Sie auf der Asset-Zusammenfassungsseite auf Entwurf **bearbeiten** , um auf die E-Mail zuzugreifen.
 
 1. Geben Sie eine Betreffzeile ein und klicken Sie dann mit der Dublette auf den bearbeitbaren Bereich der E-Mail.
 
    ![](assets/five-2.png)
 
-   Über dem E-Mail-Editor wird ein Rich-Text-Editor geöffnet.
+   _Über dem E-Mail-Editor wird ein Rich-Text-Editor geöffnet._
 
 1. Markieren Sie den vorhandenen E-Mail-Inhalt.
 
@@ -82,39 +73,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Gehen Sie zur Registerkarte **Intelligente Liste **.
+1. Wechseln Sie zur Registerkarte **Intelligente Liste** .
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Wir richten diese Kampagne so ein, dass sie immer dann ausgeführt wird, wenn ein Benutzer das in [**Landingpage mit einem Formular**](landing-page-with-a-form.md) erstellte Formular ausfüllt.
+   Wir richten diese Kampagne so ein, dass sie immer dann ausgeführt wird, wenn ein Benutzer das in [**Landingpage mit einem Formular**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) erstellte Formular ausfüllt.
 
 1. Ziehen Sie den **Auslöser &quot;Ausfüllbares Formular** &quot;auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Wählen Sie **Mein Formular** in der Dropdownliste aus. Klicken Sie auf die Registerkarte **Fluss **s.
+1. Wählen Sie **Mein Formular** in der Dropdownliste aus. Klicken Sie auf die Registerkarte **Fluss** .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Ziehen Sie die Aktion **E-Mail senden **Textfluss auf die linke Arbeitsfläche.
+1. Ziehen Sie die Aktion &quot;E-Mail **-Textfluss** senden&quot;auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Wählen Sie Ihre **E-Mail** für automatische Antworten aus und gehen Sie zur Registerkarte **Plan **s.
+1. Wählen Sie Ihre **E-Mail** für automatische Antworten aus und gehen Sie zur Registerkarte **Plan** .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/8.png)
-Wählen Sie jedes Mal aus und klicken Sie auf Speichern.
+
+1. Wählen Sie **jedes Mal** aus und klicken Sie auf **Speichern**.
+
    ![](assets/9.png)
 
 1. Klicken Sie auf **Aktivieren**.
 
    ![](assets/10.png)
 
-1. Klicken Sie auf **Aktivieren **im Bestätigungsbildschirm.
+1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren** .
 
    ![](assets/11.png)
 
@@ -124,7 +117,7 @@ Wählen Sie jedes Mal aus und klicken Sie auf Speichern.
 
 ## Schritt 3: Ausfüllen des Formulars {#step-fill-out-the-form}
 
-1. Wählen Sie **Meine Seite**. Dies wurde in der [Landingpage mit einem Formular](landing-page-with-a-form.md) schnell gewonnen.
+1. Wählen Sie **Meine Seite**. Dies wurde in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) schnell gewonnen.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -148,4 +141,6 @@ Innerhalb weniger Minuten sollten Sie die automatische Antwort-E-Mail in Ihrem P
 
 <br> 
 
-[Auftrag 3: Simple Scoring](simple-scoring.md) [Mission 5: Eine Liste von Interessenten importieren ►](import-a-list-of-people.md)
+[Auftrag 3: Einfache Bewertung](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[Mission 5: Eine Liste von Interessenten importieren ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
