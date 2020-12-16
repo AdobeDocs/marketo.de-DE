@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: E-Mail senden - Marketing-Dokumente - Produktdokumentation
 title: E-Mail senden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,9 @@ ht-degree: 0%
 
 Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
-
->
-
-
+>[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## E-Mail-Programm erstellen {#create-an-email-program}
 
@@ -39,7 +29,7 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
    ![](assets/two-1.png)
 
-1. Geben Sie einen **Namen **ein und wählen Sie **E-Mail** als **Programm-Typ.**
+1. Geben Sie einen **Namen** ein und wählen Sie &quot; **E-Mail** &quot;für den **Programm-Typ.**
 
    >[!TIP]
    >
@@ -47,11 +37,9 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
    ![](assets/three.png)
 
-1. Wählen Sie unter **Kanal **die Option** E-Mail-Senden **und klicken Sie auf** Erstellen **.** **
+1. Wählen Sie unter **Kanal** die Option **E-Mail-Senden** und klicken Sie auf **Erstellen**.
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## Audience definieren {#define-your-audience}
 
@@ -73,10 +61,7 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Wenn Ihre E-Mail nicht automatisch aufgefüllt wird, haben Sie möglicherweise vergessen, &quot; [Einrichten&quot;und &quot;Hinzufügen&quot;zu verwenden.](get-set-up-and-add-a-person.md)
+   >Wenn Ihre E-Mail nicht automatisch aufgefüllt wird, haben Sie möglicherweise vergessen, &quot; [Einrichten&quot;und &quot;Hinzufügen&quot;zu verwenden.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -94,7 +79,7 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Geben Sie einen **Namen** ein, wählen Sie eine **Vorlage** und klicken Sie auf** Erstellen**.
+1. Geben Sie einen **Namen** ein, wählen Sie eine **Vorlage** und klicken Sie auf **Erstellen**.
 
    ![](assets/ten-1.png)
 
@@ -106,7 +91,7 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
    >
    >Wenn Sie einen Popup-Blocker haben, klicken Sie auf Entwurf **bearbeiten** , um den E-Mail-Editor einzugeben.
 
-1. Wählen Sie den zu bearbeitenden Bereich aus, klicken Sie auf das Zahnradsymbol auf der rechten Seite und wählen Sie **Bearbeiten *** (Sie können auch mit der Dublette auf den bearbeitbaren Bereich klicken, um ihn zu bearbeiten).
+1. Wählen Sie den zu bearbeitenden Bereich aus, klicken Sie auf das Zahnradsymbol auf der rechten Seite und wählen Sie dann **Bearbeiten** aus (Sie können auch mit der Dublette auf den bearbeitbaren Bereich klicken, um ihn zu bearbeiten).
 
    ![](assets/twelve.png)
 
@@ -124,7 +109,7 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
    >[!TIP]
    >
-   >Möchten Sie sich ein kurzes Beispiel senden, um zu sehen, wie Ihre E-Mail vor dem Start aussieht? Wählen Sie **Beispiel** senden im Menü oben oder klicken Sie auf **E-Mail-Aktionen** und dann auf Beispiel [**senden**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Möchten Sie sich ein kurzes Beispiel senden, um zu sehen, wie Ihre E-Mail vor dem Start aussieht? Wählen Sie **Beispiel** senden im Menü oben oder klicken Sie auf **E-Mail-Aktionen** und dann auf Beispiel [**senden**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Wählen Sie das E-Mail-Programm in der linken Baumstruktur aus.
 
@@ -140,7 +125,7 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
    >[!TIP]
    >
-   >Ist die Standardzeitzone nicht Ihre? Hier erfahren Sie, wie Sie es [aktualisieren](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone).
+   >Ist die Standardzeitzone nicht Ihre? Hier erfahren Sie, wie Sie es [aktualisieren](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
 1. Klicken Sie unter der Genehmigungskachel auf Programm **genehmigen** und Sie sind fertig!
 
@@ -150,4 +135,6 @@ Sie sollten die E-Mail kurz nach dem geplanten Tag/der geplanten Uhrzeit erhalte
 
 <br> 
 
-[Einrichten und Hinzufügen einer Lead](get-set-up-and-add-a-person.md) - [Landingpage mit einem Formular ►](landing-page-with-a-form.md)
+[Einrichten und Hinzufügen eines Interessenten](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[Landingpage mit einem Formular ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
