@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Aktualisierungen der Marktterminologie - Marketing-Dokumente - Produktdokumentation
 title: Aktualisierungen der Marktterminologie
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ Zusätzlich zur Namensänderung besteht die App jetzt aus vier separaten Apps:
 >Die auf Ihrem Startbildschirm angezeigten Kacheln spiegeln die erworbenen Module wider.
 
 Vielen Dank für Ihre Geduld während dieser Aktualisierung.
-
