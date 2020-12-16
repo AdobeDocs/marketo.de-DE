@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Benutzerdefiniertes HTML-Formular für bekannte Personen anzeigen - Marketing Docs - Produktdokumentation
 title: Benutzerdefiniertes HTML-Formular für bekannte Personen anzeigen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Benutzerdefiniertes HTML-Formular für bekannte Personen anzeigen {#show-custom-html-form-for-known-people}
 
 Wenn ein Besucher in Cookies gespeichert ist (eine bekannte Person, die in der Vergangenheit eine E-Mail-Adresse angegeben hat), warum sollte sich das Formular dann mit dem Formular beschäftigen? Geben Sie ihnen einfach die Download-Schaltfläche. So geht es.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gehen Sie zu **Marketing** - **Aktivitäten**.
 
