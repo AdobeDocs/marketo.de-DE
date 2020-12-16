@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketing Docs - Produktdokumentation
 title: Marketo-Glossar
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
   </tr> 
   <tr> 
    <td><strong>Interessent</strong></td> 
-   <td>Im <strong>Marketo Engage</strong>ist Interessent der vorherige Begriff (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">ersetzt durch <strong>Person</strong></a>), der zur Beschreibung einer Person in Ihrer Marketing- <strong>Datenbank</strong> verwendet wird, mit der Sie über Ihre Marketing-Kampagnen in Kontakt treten. In Ihrem <strong>CRM</strong>kann ein Interessent ein anderes Konzept (d.h. eine Einzelperson, die mit einer <strong>Chance</strong>verbunden ist) darstellen, unabhängig von Marketos Funktionalität.</td> 
+   <td>Im <strong>Marketo Engage</strong>ist Interessent der vorherige Begriff (ersetzt durch <strong>Person</strong>), der zur Beschreibung einer Person in Ihrer Marketing- <strong>Datenbank</strong> verwendet wird, mit der Sie über Ihre Marketing-Kampagnen in Kontakt treten. In Ihrem <strong>CRM</strong>kann ein Interessent ein anderes Konzept (d.h. eine Einzelperson, die mit einer <strong>Chance</strong>verbunden ist) darstellen, unabhängig von Marketos Funktionalität.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Interessentendatenbank</strong></td> 
