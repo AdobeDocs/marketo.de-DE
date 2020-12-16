@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Freigabe eines Modells für alle Arbeitsbereiche - Marketing-Dokumente - Produktdokumentation
 title: Modell über Arbeitsflächen hinweg freigeben
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Modell über Arbeitsflächen hinweg freigeben {#share-a-model-across-workspaces}
 
 Marketo gibt Ihnen die Möglichkeit, ein Modell/mehrere Modelle auf allen Arbeitsbereichen freizugeben. So geht es.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gehen Sie zum Abschnitt **Analytics** .
 
