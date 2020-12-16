@@ -3,21 +3,15 @@ unique-page-id: 1146950
 description: Wait - Marketing Docs - Produktdokumentation
 title: Warten
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Warten {#wait}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Übersicht {#overview}
 
