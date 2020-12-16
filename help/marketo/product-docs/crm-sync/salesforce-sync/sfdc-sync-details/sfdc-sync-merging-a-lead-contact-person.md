@@ -3,21 +3,15 @@ unique-page-id: 7515133
 description: SFDC-Synchronisierung - Zusammenführen eines Interessenten/Kontakts/einer Person - Marketing Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Zusammenführen eines Interessenten/Kontakts/einer Person
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 
 # SFDC-Synchronisierung: Zusammenführen eines Interessenten/Kontakts/einer Person {#sfdc-sync-merging-a-lead-contact-person}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Manchmal ist es am besten, nur die Regeln Liste. Gehen wir weiter:
 
