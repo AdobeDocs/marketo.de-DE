@@ -3,21 +3,15 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Feldsynchronisierung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
 
 # Microsoft Dynamics Sync: Feldsynchronisierung {#microsoft-dynamics-sync-field-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Marketo to to Dynamics sync ist super leistungsfähig. Hier sind die Details.
 
