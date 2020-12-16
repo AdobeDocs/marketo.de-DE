@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: Bericht "Personen nach Status"- "Marketing-Dokumente"- Produktdokumentation
 title: Personen nach Statusbericht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Personen nach Statusbericht {#people-by-status-report}
 
 Überprüfen Sie, wie gut Sie Personen durch den Prozess bewegen, indem Sie überprüfen, wie viele davon jeden Monat in den einzelnen *Personenstatus* -Werten angezeigt werden.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Erstellen Sie einen Bericht](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Berichtstyp &quot;** Personen nach Status [&quot;](report-type-overview.md).
 1. [Legen Sie den Zeitraum Ihres Berichts](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) fest und klicken Sie auf die Registerkarte **Bericht** .
