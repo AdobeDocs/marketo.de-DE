@@ -3,9 +3,9 @@ unique-page-id: 2360035
 description: Drilldown in einem Bericht zur Leistung von Personen - Marketing-Dokumente - Produktdokumentation
 title: Drilldown in einem Personendaten-Leistungsbericht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Drilldown in einem Personendaten-Leistungsbericht {#drill-down-in-a-people-performance-report}
 
 Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weitere Personendaten anzuzeigen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Klicken Sie auf die Registerkarte **Bericht** , um einen vorhandenen Bericht Ansicht.
 
