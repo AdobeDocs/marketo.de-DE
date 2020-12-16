@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation - Marketo Docs - Produktdokumentation
 title: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation {#next-generation-munchkin-tracking-faq}
 
 Wir freuen uns, Ihnen mitteilen zu können, dass wir bald mit der Einführung unserer Web-Tracking-Technologie der nächsten Generation beginnen werden.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Hier sind die wichtigsten Dinge zu wissen:
 
