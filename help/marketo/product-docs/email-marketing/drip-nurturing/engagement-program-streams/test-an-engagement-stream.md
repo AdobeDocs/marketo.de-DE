@@ -3,9 +3,9 @@ unique-page-id: 2359839
 description: Testen eines Interaktionsstreams - Marketing-Dokumente - Produktdokumentation
 title: Interaktions-Stream testen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Interaktions-Stream testen {#test-an-engagement-stream}
 
 Nachdem Sie den gesamten Inhalt zu einem Stream hinzugefügt haben, können Sie ihn nacheinander testen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
