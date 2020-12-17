@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen eines Snippets in eine E-Mail {#add-a-snippet-to-an-email}
+# hinzufügen eines Ausschnitts an eine E-Mail {#add-a-snippet-to-an-email}
 
 Snippets sind wiederverwendbare Textblöcke und Grafiken, die Sie in Ihren E-Mails und Landingpages verwenden können.
 
@@ -22,13 +22,13 @@ Snippets sind wiederverwendbare Textblöcke und Grafiken, die Sie in Ihren E-Mai
 
 >[!NOTE]
 >
->Sie können keine [Marketo-E-Mail-](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Syntaxausschnitte einbetten; es funktioniert **nicht** in einer E-Mail. Snippets sollten nur Textinhalt (HTML + TEXT) sein.
+>Sie können keine [Marketo-E-Mail-Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in Snippets einbetten. Es funktioniert **nicht** in einer E-Mail. Snippets sollten nur Textinhalt (HTML + TEXT) sein.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-2.png)
 
-1. Wählen Sie den bearbeitbaren Bereich aus, den Sie in ein Snippet konvertieren möchten, klicken Sie auf das Zahnradsymbol und wählen Sie &quot; **Ersetzen durch Snippet&quot;**.
+1. Wählen Sie den bearbeitbaren Bereich aus, den Sie in ein Snippet konvertieren möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Ersetzen durch Snippet**.
 
    ![](assets/two-2.png)
 
@@ -44,6 +44,6 @@ Snippets sind wiederverwendbare Textblöcke und Grafiken, die Sie in Ihren E-Mai
 
    >[!NOTE]
    >
-   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail-Adresse wird erstellt, es sei denn, Sie genehmigen das Fragment mit [Kein Entwurf](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail-Adresse wird erstellt, es sei denn, Sie genehmigen das Fragment mit [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
 So können dynamische Inhalte schnell und einfach wiederverwendet werden.
