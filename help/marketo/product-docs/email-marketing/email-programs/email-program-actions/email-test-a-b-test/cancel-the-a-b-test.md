@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # A/B-Test abbrechen {#cancel-the-a-b-test}
 
-Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzugefügt haben und entschieden haben, dass Sie ihn nicht mehr möchten, wird er leicht rückgängig gemacht. So geht es.
+Wenn Sie [einen A/B-Test](add-an-a-b-test.md) zu Ihrem E-Mail-Programm hinzugefügt haben und entschieden haben, dass Sie ihn nicht mehr möchten, wird er leicht rückgängig gemacht. So geht es.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -22,7 +22,7 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzugefüg
 1. Wählen Sie Ihr E-Mail-Programm aus.
 1. ![](assets/selectemailprogram-1.jpg)
 
-1. Klicken Sie unter der **E-Mail** -Kachel auf A/B-Test **entfernen**.
+1. Klicken Sie unter der Kachel **E-Mail** auf **A/B-Test** entfernen.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
@@ -31,6 +31,6 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzugefüg
    >**Erinnerung**
    >
    >
-   >Ihr E-Mail-Programm muss nicht genehmigt werden, bevor Sie den A/B-Test entfernen können. Weitere Informationen finden Sie unter [Genehmigen/Genehmigen eines E-Mail-Programms](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) .
+   >Ihr E-Mail-Programm muss nicht genehmigt werden, bevor Sie den A/B-Test entfernen können. Weitere Informationen finden Sie unter [E-Mail-Programm genehmigen/nicht genehmigen](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md).
 
 Siehe? Leichte Pause!
