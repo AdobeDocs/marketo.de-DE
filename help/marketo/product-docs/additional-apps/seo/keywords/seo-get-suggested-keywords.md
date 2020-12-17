@@ -17,21 +17,21 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
 ## Suchbegriffvorschläge mit einem Suchbegriff abrufen {#get-keyword-suggestions-using-a-keyword}
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Klicken Sie auf **GET**.
+1. Klicken Sie auf **GET EMPFEHLUNGEN**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Geben Sie einen **Suchbegriff** ein. Klicken Sie auf **SUCHBEGRIFFE**.
+1. Geben Sie einen **Suchbegriff** ein. Klicken Sie auf **SUGGEST SUYWORDS**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie Ihren Suchbegriff direkt hier zu einer neuen oder bestehenden Liste [](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können?
+   >Wussten Sie, dass Sie hier [Ihren Suchbegriff zu einer neuen oder vorhandenen Liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können?
 
 1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **HINZUFÜGEN AUSGEWÄHLT**.
 
@@ -43,27 +43,27 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
    Ja! Nachdem Sie wissen, wie Sie Suchbegriffvorschläge basierend auf einem Suchbegriff erhalten, versuchen Sie, Vorschläge basierend auf einer URL zu erhalten.
 
-## Suchbegriffvorschläge von einer URL abrufen  {#get-keyword-suggestions-from-a-url}
+## Suchbegriffvorschläge von einer URL abrufen {#get-keyword-suggestions-from-a-url}
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Klicken Sie auf **GET**.
+1. Klicken Sie auf **GET EMPFEHLUNGEN**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Legen Sie **Suggest nach** auf **URL** fest.
+1. Setzen Sie **Vorschlagen nach** auf **URL**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Geben Sie eine **URL** ein und klicken Sie auf &quot;SCHLÜSSELWÖRTER **VORSCHLAGEN&quot;**.
+1. Geben Sie eine **URL** ein und klicken Sie auf **SCHLÜSSELWÖRTER VORSCHLAGEN**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie Ihren Suchbegriff direkt hier zu einer neuen oder bestehenden Liste [](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können?
+   >Wussten Sie, dass Sie hier [Ihren Suchbegriff zu einer neuen oder vorhandenen Liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können?
 
 1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **HINZUFÜGEN AUSGEWÄHLT**.
 
