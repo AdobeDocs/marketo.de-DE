@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Stapelausführung einer intelligenten Kampagne für später planen {#schedule-a-batch-smart-campaign-to-run-later}
+# Planen Sie eine intelligente Batch-Kampagne, die später ausgeführt wird {#schedule-a-batch-smart-campaign-to-run-later}
 
 Wenn Sie eine intelligente Batch-Kampagne so einrichten möchten, dass sie irgendwann in der Zukunft ausgeführt werden kann, dann ist das so.
 
 >[!TIP]
 >
->Sie können eine intelligente Batch-Kampagne auch in der Ansicht [Programmplanung](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)neu planen.
+>Sie können auch [eine intelligente Batch-Kampagne in der Ansicht Programmplanung](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md) neu planen.
 
-1. Wählen Sie die auszuführende intelligente Batch-Kampagne aus, gehen Sie zur Registerkarte &quot; **Plan** &quot;und klicken Sie auf &quot; **Einmal ausführen**&quot;.
+1. Wählen Sie die auszuführende Stapel-Smart-Kampagne aus, wechseln Sie zur Registerkarte **Plan** und klicken Sie auf **Einmal ausführen**.
 
    ![](assets/scheduledruns2.png)
 
-1. Klicken Sie auf Später **** ausführen und dann auf das Kalendersymbol und wählen Sie den Tag aus, an dem die intelligente Kampagne ausgeführt werden soll.
+1. Klicken Sie auf **Später ausführen**, klicken Sie dann auf das Kalendersymbol und wählen Sie den Tag aus, an dem die intelligente Kampagne ausgeführt werden soll.
 
    ![](assets/runonce.png)
 
@@ -35,7 +35,7 @@ Wenn Sie eine intelligente Batch-Kampagne so einrichten möchten, dass sie irgen
 
    ![](assets/runoncetimesave.png)
 
-1. Sie können die geplante Ausführung auf der Registerkarte &quot; **Plan** &quot;bestätigen.
+1. Sie können die geplante Ausführung bestätigen, indem Sie die Registerkarte **Plan** aufrufen.
 
    ![](assets/scheduledrunsbox.png)
 
