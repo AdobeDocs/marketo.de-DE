@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Hier sehen Sie sich die Konfigurationsoptionen an, die für den Baum in [!DNL Marketo]verfügbar sind.
+Hier sehen Sie sich die Konfigurationsoptionen für die Struktur in [!DNL Marketo] an.
 
 ## Arbeitsflächen ändern
 
