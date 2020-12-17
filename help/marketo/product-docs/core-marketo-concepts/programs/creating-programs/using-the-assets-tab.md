@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Registerkarte &quot;Elemente&quot; {#using-the-assets-tab}
+# Verwenden der Registerkarte &quot;Assets&quot;{#using-the-assets-tab}
 
 Die Asset-Arbeitsfläche ist eine visuelle Darstellung Ihres Programms. Sie können damit lokale Assets hinzufügen und mit den vorhandenen interagieren.
 
 ## Hinzufügen von Assets {#adding-assets}
 
-Klicken Sie im Bereich **Marketing-Aktivitäten** auf die Registerkarte **Assets** . Wählen Sie die unten aufgeführten Assets aus und fügen Sie sie Ihrem Programm hinzu.
+Klicken Sie im Bereich **Marketing-Aktivitäten** auf die Registerkarte **Assets**. Wählen Sie die unten aufgeführten Assets aus und fügen Sie sie Ihrem Programm hinzu.
 
 ![](assets/programassets.png)
 
-## Programm verwalten  {#manage-your-program}
+## Programm {#manage-your-program} verwalten
 
 Wenn Assets in Ihrem Programm vorhanden sind, werden sie hier aufgeführt.
 
