@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionshinweise: Sommer 17 {#release-notes-summer}
+# Versionshinweise: Summer &#39;17 {#release-notes-summer}
 
 Die folgenden Funktionen sind in der Sommerversion &#39;17 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
@@ -29,7 +29,7 @@ Stellen Sie die Konsistenz von Nachrichten und Inhalten sicher, indem Sie Änder
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
-## ABM-Verbesserungen {#abm-enhancements}
+## ABM-Erweiterungen {#abm-enhancements}
 
 **Datenquelle für die Suche nach japanischen Firmen**
 
@@ -39,13 +39,13 @@ Ordnen Sie die Namen der japanischen Firma in der Landessprache zu.
 
 Die LeanData-Integration ermöglicht jetzt die Zuordnung von Interessenten zu Konten in Marketing. Lassen Sie Marketing und Vertrieb aufeinander abstimmen, indem Sie dieselben Interessenten mit Konten innerhalb der Verkaufs- und Marketingsysteme der Aufzeichnungen verknüpfen. Flexiblere Optionen geben Marketing- und Vertriebsunternehmen mehr Kontrolle über Interessenten-zu-Konto-Übereinstimmungsregeln, sodass sie ihr gewünschtes Maß an Präzision erreichen können.
 
-## Verbesserungen der Web-Personalisierung {#web-personalization-enhancements}
+## Web-Personalisierungsverbesserungen {#web-personalization-enhancements}
 
-** Verbesserungen der Vorschau der [Kampagne](https://docs.marketo.com/x/fQGa)**
+** [Verbesserungen bei der Vorschau der Kampagne](https://docs.marketo.com/x/fQGa)**
 
-Marketingexperten können nun sicherstellen, dass ihre Web-Kampagnen auf allen Geräten gut aussehen, *bevor* sie gestartet werden. Mit diesen Verbesserungen können Sie sehen, wie Ihre Web-Kampagnen auf Desktop-PCs, Mobilgeräten und Tablets dargestellt werden. Das neue Plug-in für Chrome Angebot außerdem konsistentere und genauere Vorschauen.
+Marketingfachleute können nun sicherstellen, dass ihre Web-Kampagnen auf allen Geräten *optimal aussehen, bevor* sie gestartet werden. Mit diesen Verbesserungen können Sie sehen, wie Ihre Web-Kampagnen auf Desktop-PCs, Mobilgeräten und Tablets dargestellt werden. Das neue Plug-in für Chrome Angebot außerdem konsistentere und genauere Vorschauen.
 
-** [Erweiterungen](https://docs.marketo.com/x/KgNI)der Widget-Kampagne**
+** [Verbesserungen bei der Widget-Kampagne](https://docs.marketo.com/x/KgNI)**
 
 Es stehen jetzt neue Optionen für Widget-Kampagnen zur Verfügung, darunter:
 
@@ -55,7 +55,7 @@ Es stehen jetzt neue Optionen für Widget-Kampagnen zur Verfügung, darunter:
 
 ## Inhalt`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics und Empfehlungen](https://docs.marketo.com/x/1BPG)**
+** [Content`<sup>AI </sup>`Analytics and Suggestions](https://docs.marketo.com/x/1BPG)**
 
 Steigern Sie die Rendite Ihres Content-Marketings mit tiefer gehenden Analysen und AI-basierten Inhaltsvorschlägen, um die Interaktion zu steigern.** ** Leistungsstarke Analysen zeigen, wie leistungsstark empfohlene Inhalte sind, einschließlich beliebter, trendbasierter und Audience-basierter Ansichten. Außerdem werden Vorschläge für zusätzliche Inhalte angezeigt.
 
