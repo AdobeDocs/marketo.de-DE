@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sprache, Gebietsschema und Zeitzone auswählen {#select-your-language-locale-and-time-zone}
+# Sprache, Gebietsschema und Zeitzone {#select-your-language-locale-and-time-zone} auswählen
 
 Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich abgedeckt. So ändern Sie Ihre eigene Sprache, Ihr Gebietsschema und Ihre Zeitzone.
 
