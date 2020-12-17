@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines benutzerspezifischen Synchronisierungsfilters {#create-a-custom-dynamics-sync-filter}
+# Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamik {#create-a-custom-dynamics-sync-filter}
 
 Möchten Sie nicht alles in Ihrem Dynamics CRM mit Marketo synchronisieren? Mach dir keine Sorgen! Mit Marketo können Sie einen Synchronisierungsfilter einrichten und nur einen Teil Ihrer Datensätze synchronisieren.
 
@@ -43,39 +43,39 @@ Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld
 >
 >Installieren Sie die neueste Version des Marketo-Plug-ins (3.0.0.1 oder höher). Gehen Sie zu Marketing > Admin > Microsoft Dynamics > Marketing-Lösung herunterladen.
 
-## SyncToMkto-Feld erstellen {#create-synctomkto-field}
+## Create SyncToMkto Field {#create-synctomkto-field}
 
 1. Melden Sie sich bei Dynamics CRM an. Klicken Sie auf **Einstellungen** und dann auf **Anpassungen**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. Klicken Sie auf System **anpassen**.
+1. Klicken Sie auf **System** anpassen.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Klicken Sie ![](assets/image2015-8-10-21-3a44-3a23.png) neben **Entitäten** auf .
+1. Klicken Sie auf ![](assets/image2015-8-10-21-3a44-3a23.png) neben **Entities**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Klicken Sie ![](assets/image2015-8-10-21-3a44-3a23.png) neben **Interessent **und wählen Sie **Felder**. Klicken Sie dann auf **Neu**.
+1. Klicken Sie auf ![](assets/image2015-8-10-21-3a44-3a23.png) neben **Lead **und wählen Sie **Felder**. Klicken Sie dann auf **Neu**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Geben Sie **SyncToMkto** in das Feld **Anzeigename** ein und wählen Sie **zwei Optionen** als **Datentyp**. Klicken Sie dann auf **Speichern und Schließen**.
+1. Geben Sie **SyncToMkto** in das Feld **Anzeigename** ein und wählen Sie **Zwei Optionen** als **Datentyp**. Klicken Sie dann auf **Speichern und Schließen**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >Wählen Sie einen beliebigen Anzeigenamen für dieses Feld, aber das Feld Name muss genau **new_synctomkto** sein. Sie müssen **new** als Standardpräfix verwenden. Wenn Sie die Standardeinstellung geändert haben, [setzen Sie hier das Standardpräfix für die benutzerdefinierten Feldnamen](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)zurück. Sie können sie nach Erstellung der neuen Felder wieder ändern.
+   >Wählen Sie einen beliebigen Anzeigenamen für dieses Feld, aber das Feld Name muss genau **new_synctomkto** sein. Sie müssen **new** als Standardpräfix verwenden. Wenn Sie die Standardeinstellung geändert haben, gehen Sie hier zu [Zurücksetzen des Standardpräfix für die benutzerdefinierten Feldnamen](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Sie können sie nach Erstellung der neuen Felder wieder ändern.
 
    >[!NOTE]
    >
-   >Wenn Sie einen asynchronen Workflow eingerichtet haben, erhält der Datensatz den standardmäßigen SyncToMkto-Wert, den Sie im Feld eingerichtet haben, und ruft nach Abschluss der Ausführung des Workflows einige Sekunden den korrekten Wert ab. Wenn der Standardwert auf &quot;Ja&quot;festgelegt ist, werden diese Datensätze in Marketo erstellt und dann veraltet. Verwenden Sie **Nein** als Standardwert, um dies zu vermeiden.
+   >Wenn Sie einen asynchronen Workflow eingerichtet haben, erhält der Datensatz den standardmäßigen SyncToMkto-Wert, den Sie im Feld eingerichtet haben, und ruft nach Abschluss der Ausführung des Workflows einige Sekunden den korrekten Wert ab. Wenn der Standardwert auf &quot;Ja&quot;festgelegt ist, werden diese Datensätze in Marketo erstellt und dann veraltet. Verwenden Sie **No** als Standardwert, um dies zu vermeiden.
 
-1. Wiederholen Sie diesen Vorgang und erstellen Sie das **Feld SyncToMkto** für alle weiteren Entitäten, für die Sie die Synchronisierung einschränken möchten, z. B. Kontakt, Konto, Gelegenheit und benutzerdefinierte Entitäten.
+1. Wiederholen Sie diesen Vorgang und erstellen Sie das Feld **SyncToMkto** für alle weiteren Entitäten, für die Sie die Synchronisierung einschränken möchten, z. B. Kontakt, Konto, Gelegenheit und benutzerdefinierte Entitäten.
 
-## Filter in Markieren auswählen {#select-the-filter-in-marketo}
+## Wählen Sie den Filter in Marketo {#select-the-filter-in-marketo}
 
 Auch wenn Sie Ihre erste Synchronisierung bereits durchgeführt haben, wählen Sie die Felder aus, die mit Marketo synchronisiert werden sollen.
 
@@ -83,7 +83,7 @@ Auch wenn Sie Ihre erste Synchronisierung bereits durchgeführt haben, wählen S
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten** .
+1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten**.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -93,7 +93,7 @@ Auch wenn Sie Ihre erste Synchronisierung bereits durchgeführt haben, wählen S
 
 Gut, jetzt haben Sie den Synchronisierungsfilter für Marketo aktiviert.
 
-## Erstellen eines Arbeitsablaufs für Dynamiken zum automatischen Zuweisen von Synchronisierungsfilterwerten {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
+## Erstellen Sie einen Workflow für Dynamiken, um automatisch {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically} synchrone Filterwerte zuzuweisen
 
 Sie können den SyncToMkto-Feldern für Ihre Datensätze immer manuell einen Wert zuweisen. Aber warum sollten Sie nicht die Leistungsfähigkeit eines Dynamics-Workflows nutzen und dem SyncToMkto-Feld automatisch einen Wert zuweisen, wenn ein Datensatz erstellt oder aktualisiert wird?
 
@@ -111,17 +111,17 @@ Sie können den SyncToMkto-Feldern für Ihre Datensätze immer manuell einen Wer
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Geben Sie einen Namen für den Workflow ein und wählen Sie **Workflow** als Kategorie und **Interessent** als Entität. Klicken Sie dann auf **OK**.
+1. Geben Sie einen Namen für den Workflow ein und wählen Sie **Workflow** als Kategorie und **Lead** als Entität. Klicken Sie dann auf **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Erstellen Sie Regeln, um dem Feld &quot; **SyncToMkto** &quot;je nach den Vorlieben Ihres Unternehmens einen Wert für &quot;true&quot;oder &quot;false&quot;zuzuweisen. Klicken Sie auf **Speichern und schließen**.
+1. Erstellen Sie Regeln, um dem Feld **SyncToMkto** basierend auf den Voreinstellungen Ihres Unternehmens einen Wert &quot;true&quot;oder &quot;false&quot;zuzuweisen. Klicken Sie auf **Speichern und Schließen**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Definieren Sie eine Standardaktion, nachdem Sie auf **Hinzufügen Schritt** klicken, um eine Prüfbedingung hinzuzufügen. Dadurch werden die Datensätze festgelegt, die nicht mit **Nein** synchronisiert werden sollen. Andernfalls werden sie synchronisiert.
+   >Definieren Sie eine Standardaktion, nachdem Sie auf **Hinzufügen Schritt** klicken, um eine Prüfbedingung hinzuzufügen. Dadurch werden die Datensätze festgelegt, die nicht mit **No** synchronisiert werden sollen. Andernfalls werden sie synchronisiert.
 
 1. Wählen Sie den Workflow aus und klicken Sie auf **Aktivieren**.
 
@@ -129,7 +129,7 @@ Sie können den SyncToMkto-Feldern für Ihre Datensätze immer manuell einen Wer
 
    >[!TIP]
    >
-   >Eine E-Mail-Adresse [finden Sie unter](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) Benutzerdefinierte Synchronisierungsfilterregeln, um Regeln einzurichten, mit denen nur Datensätze für Personen mit E-Mail-Adressen synchronisiert werden.
+   >Siehe [Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md), um Regeln einzurichten, die nur Datensätze für Personen mit E-Mail-Adressen synchronisieren.
 
 ## Filterdetails synchronisieren {#sync-filter-details}
 
@@ -137,11 +137,11 @@ Im Folgenden finden Sie einige Implementierungsdetails, die wir dachten Sie soll
 
 1. Beginn eines Synchronisierungsvorgangs
 
-   Wenn sich der **SyncToMkto** -Wert von **&quot;Nein** &quot;in &quot; **Ja**&quot;ändert, benachrichtigt Dynamics Marketo sofort, um diesen Datensatz zu synchronisieren. Wenn der Datensatz bereits vorhanden ist, wird er von Marketo aktualisiert. Andernfalls erstellt Marketo den Datensatz.
+   Wenn sich der Wert **SyncToMkto** von **No** in **Yes** ändert, benachrichtigt Dynamics Marketo sofort, dass der Beginn diesen Datensatz synchronisiert. Wenn der Datensatz bereits vorhanden ist, wird er von Marketo aktualisiert. Andernfalls erstellt Marketo den Datensatz.
 
    >[!TIP]
    >
-   >In diesem Fall wird dem MarketingTo-Protokoll ein Vorgang zum **Erstellen von [StartSync]** hinzugefügt.
+   >Der Vorgang **Create [StartSync]** wird in diesem Fall dem Marketing-Protokoll hinzugefügt.
 
 1. Synchronisierungsvorgang beenden
 
