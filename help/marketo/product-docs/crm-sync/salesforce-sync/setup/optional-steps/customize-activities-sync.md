@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Synchronisieren von Aktivitäten anpassen {#customize-activities-sync}
+# Aktivitäten anpassen Synchronisieren {#customize-activities-sync}
 
-Wenn Sie [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)nicht verwenden, kann Marketo für bestimmte Ereignis Salesforce-Aktivitäten-Verlaufsberichte erstellen. So können sie aktiviert werden.
+Wenn Sie [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight) nicht verwenden, kann Marketo für bestimmte Ereignis Salesforce-Aktivitäten-Verlaufsprotokolle erstellen. So können sie aktiviert werden.
 
 1. Gehen Sie zu **Admin. **
 
    ![](assets/admin.png)
 
-1. Klicken Sie auf **Salesforce** und dann auf **Edit Sync Options**.
+1. Klicken Sie auf **Salesforce** und dann auf **Synchronisierungsoptionen bearbeiten**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ Wenn Sie [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insi
 
    >[!NOTE]
    >
-   >Nach der Aktivierung wird Marketo die Aktivität von drei Monaten in die Geschichte einbringen. Je nach Datenmenge kann *dies mehrere Tage dauern*. Updates, die während des Push-Vorgangs zu den ersten Aktivitäten auftreten, können bis zum Abschluss der Synchronisierung der ersten Aktivitäten verschoben werden.
+   >Nach der Aktivierung wird Marketo die Aktivität von drei Monaten in die Geschichte einbringen. Je nach Datenmenge kann es mehrere Tage dauern, bis *abgeschlossen ist.* Updates, die während des Push-Vorgangs zu den ersten Aktivitäten auftreten, können bis zum Abschluss der Synchronisierung der ersten Aktivitäten verschoben werden.
 
 <table> 
  <colgroup> 
@@ -99,9 +99,9 @@ Wenn Sie [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insi
 >**Erinnerung**
 >
 >
->&quot;E-Mail beim Vertrieb erhalten&quot;bedeutet **nicht** , dass sie zugestellt wird. Der Status &quot;Ausgeliefert&quot;wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden.
+>&quot;E-Mail zum Verkauf erhalten&quot; bedeutet **nicht** mittlere Zustellung. Der Status &quot;Ausgeliefert&quot;wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden.
 
 >[!TIP]
 >
->Wenn Sie mehr Marketo-Informationen in Salesforce erhalten möchten, schauen Sie sich unser [Produkt Marketing Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) an.
+>Wenn Sie mehr Marketo-Informationen in Salesforce erhalten möchten, sehen Sie sich unser [Marketing Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) Produkt an.
 
