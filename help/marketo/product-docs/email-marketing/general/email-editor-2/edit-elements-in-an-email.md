@@ -17,7 +17,7 @@ E-Mails können vier verschiedene Elemente enthalten: Rich Text, Bilder, Snippet
 
 ## Bearbeiten des Rich-Text-Elements {#how-to-edit-the-rich-text-element}
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-edited.png)
 
@@ -82,13 +82,13 @@ E-Mails können vier verschiedene Elemente enthalten: Rich Text, Bilder, Snippet
 
    ![](assets/ten.png)
 
-   Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den Alt-Text (optional) und drücken Sie dann die **Taste Swap**.
+   Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den Alt-Text (optional) und drücken Sie dann **Swap**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Wenn Sie ein Bild ersetzen, müssen Sie das Feld &quot;Vorhandenes Bild **** überschreiben&quot;aktivieren, das unter der Bild-URL/dem Namen angezeigt wird.
+   >Wenn Sie ein Bild ersetzen, müssen Sie das Feld **Vorhandenes Bild überschreiben** markieren, das unter der Bild-URL/dem Namen angezeigt wird.
 
    **Design** StudioUm ein Bild aus dem Design Studio einzufügen, suchen Sie es einfach...
 
@@ -105,11 +105,11 @@ Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bilds ein. Passe
 
    ![](assets/fourteen.png)
 
-1. Klicken Sie auf das Element &quot;Ausschnitt&quot;, dann auf das Zahnradsymbol und wählen Sie &quot; **Bearbeiten&quot;**.
+1. Klicken Sie auf das Element &quot;Ausschnitt&quot;, dann auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
 
    ![](assets/fifteen.png)
 
-1. Suchen Sie das gewünschte Codefragment, wählen Sie es aus und klicken Sie auf **Speichern**.
+1. Suchen Sie nach Ihrem Snippet, wählen Sie es aus und klicken Sie auf **Speichern**.
 
    ![](assets/sixteen.png)
 
@@ -127,7 +127,7 @@ Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bilds ein. Passe
 
    ![](assets/twenty.png)
 
-1. Fügen Sie die Video-URL von Vimeo oder YouTube ein. Klicken Sie dann auf das Feld &quot;URL&quot;, damit die Vorschau geladen werden kann. Ändern Sie die Abmessungen entsprechend Ihren Anforderungen, fügen Sie Alternativtext hinzu (optional) und drücken Sie dann die **Einfügetaste**.
+1. Fügen Sie die Video-URL von Vimeo oder YouTube ein. Klicken Sie dann auf das Feld &quot;URL&quot;, damit die Vorschau geladen werden kann. Ändern Sie die Abmessungen entsprechend Ihren Anforderungen, fügen Sie Alternativtext hinzu (optional), und drücken Sie dann **Einfügen**.
 
    ![](assets/twentyone.png)
 
