@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Einstellungen für Analytics-Verhalten bearbeiten {#edit-analytics-behavior-settings}
 
-Sie können das [Analyseverhalten auf Admin-Ebene auf Kanälen](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)festlegen, Sie können es aber auch auf Programm-Ebene bearbeiten. So geht es.
+Sie können das Analyseverhalten auf Admin-Ebene für Kanal[ festlegen, es kann aber auch auf Programm-Ebene bearbeitet werden. ](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) So geht es.
 
 1. Gehen Sie zu Marketing-Aktivitäten.
 
