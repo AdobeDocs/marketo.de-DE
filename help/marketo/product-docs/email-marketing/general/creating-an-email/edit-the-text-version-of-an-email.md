@@ -17,7 +17,7 @@ Wenn Sie eine E-Mail erstellen, möchten Sie möglicherweise, dass deren Textver
 
 >[!NOTE]
 >
->Dies ist kein Artikel zum Erstellen einer Nur-Text-E-Mail. Weitere Informationen hierzu finden Sie unter [Erstellen einer Nur-Text-E-Mail](create-a-text-only-email.md).
+>Dies ist kein Artikel zum Erstellen einer Nur-Text-E-Mail. Weitere Informationen hierzu finden Sie unter [Eine Nur-Text-E-Mail erstellen](create-a-text-only-email.md).
 
 1. Klicken Sie im E-Mail-Editor auf die Registerkarte **Text** am unteren Rand der E-Mail.
 
