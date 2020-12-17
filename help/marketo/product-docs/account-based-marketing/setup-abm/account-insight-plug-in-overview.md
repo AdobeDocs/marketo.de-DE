@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über das Kontoinsight-Plug-in {#account-insight-plug-in-overview}
+# Übersicht über das Konto-Insight-Plugin {#account-insight-plug-in-overview}
 
 Account Insight ist ein Chrome-Plug-in, mit dem Sie umsetzbare ABM- und Kontoinformationen für Ihre Vertriebsteams bereitstellen können, sodass sie Konten effektiver binden können.
 
@@ -23,7 +23,7 @@ Account Insight ist ein Chrome-Plug-in, mit dem Sie umsetzbare ABM- und Kontoinf
 
 >[!CAUTION]
 >
->Das Kontoinsight-Plug-in funktioniert nicht in Abonnements, in denen [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (Single Sign-On) aktiviert ist.
+>Das Kontoinsight-Plugin funktioniert nicht in Abonnements, in denen [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (Single Sign-On) aktiviert ist.
 >
 >CRM-Kontext funktioniert für Salesforce, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. CRM-Kontext funktioniert nicht für Dynamics, wenn das Plug-in von einem Konto, Lead oder Kontakt gestartet wird. Für Dynamics-Benutzer empfehlen wir die Verwendung des Plugins Account Insight.
 
@@ -71,7 +71,7 @@ Der Feed &quot;Aktivität&quot;zeigt die letzte Aktivität an, die sieben Tage z
 
 ![](assets/af1.png)
 
-Klicken Sie auf die Dropdownliste **Filter** , um nach verschiedenen Aktivitäten zu filtern.\
+Klicken Sie auf die Dropdownliste **Filter**, um nach verschiedenen Aktivitäten zu filtern.\
 ![](assets/af2.png)
 
 Auf mehrere Elemente kann geklickt werden. Klicken Sie auf das benannte Konto, um dessen Details anzuzeigen. Klicken Sie auf den Namen des Benutzers, um dessen Aktivität anzuzeigen. Klicken Sie auf Mehr Aktivitäten, um weitere Aktivitäten anzuzeigen.
