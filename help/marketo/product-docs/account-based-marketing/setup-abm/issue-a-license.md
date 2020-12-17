@@ -27,11 +27,11 @@ Sie müssen Benutzer mit einer Lizenz für die Verwendung von ABM einrichten. Hi
 
    ![](assets/two.png)
 
-1. Markieren Sie das Kontrollkästchen **Lizenz** aktivieren und klicken Sie auf **Speichern**.
+1. Markieren Sie das Kontrollkästchen **Lizenz aktivieren** und klicken Sie auf **Speichern**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Um die Lizenz eines Benutzers zu entfernen, führen Sie Schritt 1 aus, ** deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
+   >Um die Lizenz eines Benutzers zu entfernen, führen Sie Schritt 1 aus, und markieren Sie dann *un* das Kontrollkästchen und klicken Sie auf **Speichern**.
 
