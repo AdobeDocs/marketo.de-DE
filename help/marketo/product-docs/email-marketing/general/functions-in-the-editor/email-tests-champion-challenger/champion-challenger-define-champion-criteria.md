@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger: Champion Criteria definieren {#champion-challenger-define-champion-criteria}
+# Champion/Challenger: Champion Criteria {#champion-challenger-define-champion-criteria} definieren
 
 Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den Meister festlegen. So geht es.
 
@@ -37,7 +37,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
 
 ## Benutzerdefinierte Champion-Kriterien {#custom-champion-criteria}
 
-1. Wenn Sie sich etwas vorstellen möchten, können Sie eine benutzerspezifische **Konversion** auswählen und auf **Bearbeiten** klicken.
+1. Wenn Sie sich etwas vorstellen möchten, können Sie benutzerdefiniert vorgehen, indem Sie **Benutzerspezifische Konversion** auswählen und auf **Bearbeiten** klicken.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
