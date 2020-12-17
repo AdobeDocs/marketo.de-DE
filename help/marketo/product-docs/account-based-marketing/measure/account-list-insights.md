@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kontoeinblicke zur Liste {#account-list-insights}
+# Kontoeinblicke für Listen {#account-list-insights}
 
 Das Dashboard zur Liste des Kontos Angebot eine Ansicht aggregierter Einblicke aus allen benannten Konten innerhalb dieser Liste.
 
@@ -44,17 +44,17 @@ Um das Dashboard einer Account-Liste anzuzeigen, klicken Sie einfach auf deren N
 
 ## Registerkarte &quot;Benannte Konten&quot; {#named-accounts-tab}
 
-Klicken Sie auf die Registerkarte &quot; **Benannte Konten** &quot;, um zu sehen, welche benannten Konten zu dieser Liste gehören.
+Klicken Sie auf die Registerkarte **Benannte Konten**, um zu sehen, welche benannten Konten zu dieser Liste gehören.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Sie können ein benanntes Konto auf dieser Registerkarte entfernen, indem Sie es auswählen und auf Benannte Konten **entfernen klicken**.
+>Sie können ein benanntes Konto in dieser Registerkarte entfernen, indem Sie es auswählen und auf **Benannte Konten entfernen** klicken.
 
-## Verwendet durch Registerkarte {#used-by-tab}
+## Verwendet von Tabulator {#used-by-tab}
 
-Klicken Sie auf die Registerkarte &quot; **Verwendet von** &quot;, um zu sehen, welche Assets auf diese Konto-Liste verweisen.
+Klicken Sie auf die Registerkarte **Verwendet von**, um zu sehen, welche Assets auf diese Konto-Liste verweisen.
 
 ![](assets/four-2.png)
 
