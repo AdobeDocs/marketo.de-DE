@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Planen von Programmen mit Interaktion mit der Zeitzone des Empfängers {#schedule-engagement-programs-with-recipient-time-zone}
+# Planen von Programmen mit Interaktion mit Empfänger-Zeitzone {#schedule-engagement-programs-with-recipient-time-zone}
 
-Wenn Sie einen [Einsatzzeitbereich](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) und eine Zeitzone des Empfängersplanen, wird der Programm-Wirbel um Mitternacht in der ersten Zeitzone (UTC +14:00) ausgeführt. Wir verlangen, dass Sie den ersten Guss **mindestens 25 Stunden** in der Zukunft planen, weil es möglicherweise Menschen gibt, die sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren. Der Beginn der Verarbeitung zu diesem Zeitpunkt in der ersten Zeitzone garantiert, dass wir die E-Mail für jeden Empfänger zum vorgesehenen Zeitpunkt senden.
+Wenn Sie [einen Interaktions-Programm-Stream](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) planen und die Zeitzone des Empfängers aktiv ist, wird der Programm-Guss in der ersten Zeitzone um Mitternacht ausgeführt (UTC +14:00). Wir verlangen, dass Sie die erste Besetzung **in Zukunft mindestens 25 Stunden** planen, da es möglicherweise Menschen gibt, die sich in jeder Zeitzone der Welt für die Besetzung qualifizieren. Der Beginn der Verarbeitung zu diesem Zeitpunkt in der ersten Zeitzone garantiert, dass wir die E-Mail für jeden Empfänger zum vorgesehenen Zeitpunkt senden.
 
-1. Navigieren Sie in Ihrem Interaktions-Programm zur Registerkarte &quot; **Streams** &quot;und klicken Sie auf den Zeitplan des Streams, um ihn zu bearbeiten.
+1. Navigieren Sie in Ihrem Interaktions-Programm zur Registerkarte **Streams** und klicken Sie auf den Zeitplan für die Kadenz eines Streams, um ihn zu bearbeiten.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Legen Sie die Einstellungen](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) für die Kadenz wie gewohnt fest und markieren Sie dann das Kontrollkästchen **Empfänger Zeitzone **s. Denken Sie daran, dass Ihr erster Guss in Zukunft mindestens 25 Stunden betragen muss. Klicken Sie auf **Speichern**.
+1. [Legen Sie die ](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) Einstellungen für die Kadenz wie gewohnt fest und markieren Sie dann das Kontrollkästchen **Empfänger Zeitzone **s. Denken Sie daran, dass Ihr erster Guss in Zukunft mindestens 25 Stunden betragen muss. Klicken Sie auf **Speichern**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
