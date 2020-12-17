@@ -32,10 +32,10 @@ Laden Sie Marketo Moments aus dem App Store oder Google Play und voila herunter!
 1. Suchen Sie nach Marketo-Momenten und tippen Sie zum Herunterladen auf .\
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. Tippen Sie auf **Akzeptieren**.\
+1. Tippen Sie auf **Accept**.\
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. Tippen Sie auf **Installieren**.\
+1. Tippen Sie auf **Install**.\
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
 Viel Spaß!
