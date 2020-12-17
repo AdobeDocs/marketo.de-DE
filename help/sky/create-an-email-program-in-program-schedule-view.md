@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sie können neue E-Mail-Programm direkt in der Ansicht Programmplanung erstellen.
 
-1. Wählen Sie Ihr Programm in der Struktur aus und klicken Sie dann auf die Registerkarte **[!UICONTROL Plan]** unter **[!UICONTROL Übersicht]**.
+1. Wählen Sie Ihr Programm in der Struktur aus und gehen Sie dann zur Registerkarte **[!UICONTROL Plan]** unter **[!UICONTROL Übersicht]**.
 
    ![Bild eins](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
@@ -28,7 +28,7 @@ Sie können neue E-Mail-Programm direkt in der Ansicht Programmplanung erstellen
    >
    >Sie können auch ähnliche Schritte ausführen, um ein E-Mail-Programm aus den Ansichten &quot;Tag&quot;, &quot;Woche&quot;oder &quot;Agenda&quot;zu erstellen.
 
-1. Geben Sie einen Namen für die neue intelligente Kampagne ein und ändern Sie dann **[!UICONTROL Typ]** in [!UICONTROL E-Mail-Programm]. Sie können auch das Datum des **[!UICONTROL Beginns]**&#x200B;ändern und die Option &quot;In Ansicht **** öffnen&quot;deaktivieren, wenn Sie nach dem Erstellen des Eintrags im  bleiben möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie einen Namen für die neue intelligente Kampagne ein und ändern Sie dann **[!UICONTROL Typ]** in [!UICONTROL E-Mail-Programm]. Sie können auch das **[!UICONTROL Beginn-Datum]** ändern und **[!UICONTROL In der Agenda öffnen]** deaktivieren, wenn Sie nach dem Erstellen des Eintrags im Kalender bleiben möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild drei](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ Sie können neue E-Mail-Programm direkt in der Ansicht Programmplanung erstellen
 
 >[!NOTE]
 >
->Sie können E-Mail-Programm in der Ansicht &quot;Programmplanung&quot;erstellen, [!DNL Marketo Sky]aber die eigentliche Programm-Einrichtung ist in [!DNL Marketo Classic].
+>Sie können in [!DNL Marketo Sky] E-Mail-Programm in der Ansicht &quot;Programmplanung&quot;erstellen. Die eigentliche Programm-Einrichtung befindet sich jedoch in [!DNL Marketo Classic].
