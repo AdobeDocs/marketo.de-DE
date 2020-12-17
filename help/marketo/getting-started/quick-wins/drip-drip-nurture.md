@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Tropfen, Tropfen, Harnwege {#drip-drip-nurture}
+# Tropfen, Tropfen, Kurven {#drip-drip-nurture}
 
-## Auftrag: Die Menschen, die an Ihrer letzten Messe teilgenommen haben, fördern {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Auftrag: Die Personen, die Ihre letzte Messe besucht haben, mit der Hilfe versorgen{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Marketo erstellen. So!
 
@@ -23,29 +23,29 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 >* [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
-## Schritt 1: Interaktives Programm erstellen {#step-create-an-engagement-program}
+## Schritt 1: Programm für Interaktion {#step-create-an-engagement-program} erstellen
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/one-3.png)
 
-1. Wählen Sie den Ordner &quot; **Lernen** &quot;aus, klicken Sie auf die Dropdownliste &quot; **Neu** &quot;und wählen Sie &quot; **Neues Programm**&quot;aus.
+1. Wählen Sie den Ordner **Lernen**, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues Programm**.
 
    ![](assets/two-4.png)
 
-1. Geben Sie einen **Namen** ein und wählen Sie &quot; **Interaktion** &quot;für den **Programm-Typ**.
+1. Geben Sie einen **Name** ein und wählen Sie **Einsatz** für den **Programm-Typ**.
 
    ![](assets/three-3.png)
 
-1. Vergewissern Sie sich, dass das Feld **Kanal** &quot; **Nurture** &quot;lautet, und klicken Sie auf **Erstellen**.
+1. Vergewissern Sie sich, dass das Feld **Kanal** **Struktur** lautet, und klicken Sie auf **Erstellen**.
 
    ![](assets/four-2.png)
 
    Sie haben jetzt ein Interaktions-Programm erstellt.
 
-## Schritt 2: E-Mail erstellen {#step-create-an-email}
+## Schritt 2: Erstellen einer E-Mail {#step-create-an-email}
 
-1. Wählen Sie Ihr Interaktions-Programm, klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
+1. Wählen Sie Ihr Interaktions-Programm aus, klicken Sie dann auf **Neu** und wählen Sie **Neues lokales Element**.
 
    ![](assets/five-3.png)
 
@@ -59,7 +59,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!NOTE]
    >
-   >Sehen Sie nicht den E-Mail-Editor? Ihr Browser hat das Fenster wahrscheinlich blockiert. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf **bearbeiten** .
+   >Sehen Sie nicht den E-Mail-Editor? Ihr Browser hat das Fenster wahrscheinlich blockiert. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf **Entwurf bearbeiten**.
 
 1. Geben Sie einen Betreff ein.
 
@@ -89,11 +89,11 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    ![](assets/thirteen-2.png)
 
-## Schritt 3: hinzufügen von Inhalten in Ihren Stream {#step-add-content-to-your-stream}
+## Schritt 3: hinzufügen von Inhalt in Ihren Stream {#step-add-content-to-your-stream}
 
 1. Jetzt ist es an der Zeit, einen Inhaltsstream für Ihr Interaktions-Programm mit den von Ihnen erstellten E-Mails zu erstellen.
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
 
    ![](assets/fourteen-2.png)
 
@@ -103,11 +103,11 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!TIP]
    >
-   >Sie können auch die Schaltfläche **Hinzufügen Content** oder das Symbol stream **+** verwenden.
+   >Sie können auch die Schaltfläche **Hinzufügen Inhalt** oder das Symbol **für den Stream** verwenden.
 
-## Schritt 4: Stream-Inhalte aktivieren {#step-activate-stream-content}
+## Schritt 4: Stream-Inhalt aktivieren {#step-activate-stream-content}
 
-1. Aktivieren Sie alle Inhalte auf einmal, indem Sie auf das Stream-Zahnradsymbol klicken und dann auf Gesamten Inhalt **aktivieren** klicken.
+1. Aktivieren Sie alle Inhalte auf einmal, indem Sie auf das Stream-Zahnradsymbol klicken und dann auf **Aktivieren Sie alle Inhalte**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -117,9 +117,9 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    Gute Arbeit! Ein weiterer Schritt und das Programm für die Interaktion ist fertig.
 
-## Schritt 5: Stream-Kadenz festlegen {#step-set-the-stream-cadence}
+## Schritt 5: Stream-Kadenz {#step-set-the-stream-cadence} festlegen
 
-1. Klicken Sie auf Stream-Kadenz **festlegen**.
+1. Klicken Sie auf **Stream-Kadenz einstellen**.
 
    ![](assets/seventeen.png)
 
@@ -133,9 +133,9 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
    >
    >Die Testperson ist die Person, die Ihr Interaktions-Programm überprüft, um zu prüfen, ob es korrekt ist, bevor sie es an Kunden sendet.
 
-## Schritt 6: hinzufügen einer Testperson für Ihr Programm {#step-add-a-test-person-to-your-engagement-program}
+## Schritt 6: hinzufügen einer Testperson für Ihr Programm für Interaktion {#step-add-a-test-person-to-your-engagement-program}
 
-1. Wechseln Sie zum Bereich **Datenbank** .
+1. Wechseln Sie zum Bereich **Datenbank**.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    ![](assets/twenty-one.png)
 
-1. Wählen Sie Ihr **Programm** und Ihren **Stream** aus und klicken Sie dann auf Jetzt **ausführen**.
+1. Wählen Sie Ihr **Programm** und **Stream** und klicken Sie dann auf **Jetzt ausführen**.
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über [Interaktions-Programm](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >Erfahren Sie mehr über [Programm für Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
