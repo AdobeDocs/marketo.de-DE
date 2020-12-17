@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# Elemente zum Deaktivieren {#items-to-check-off}
+# Elemente, die deaktiviert werden können {#items-to-check-off}
 
 ![](assets/life-preserver.jpg)
 
 Stellen Sie sicher, dass Sie über die richtigen Zugriffsmöglichkeiten und Informationen verfügen. Führen Sie diese einfachen Schritte aus, damit Sie einige Dinge von Ihrer Liste sofort überprüfen können!
 
-* Sehen Sie sich einen kurzen Überblick darüber an, [**was Marketo tut**](https://pages2.marketo.com/demoFull.html).
+* Sehen Sie sich einen kurzen Überblick über [**was Marketo tut**](https://pages2.marketo.com/demoFull.html).
 
-* **Richten Sie Ihr Profil** in der [**Marketing Nation**](https://nation.marketo.com/) Community ein (Benutzername und Passwort erforderlich).
+* **Richten Sie Ihr** Profil in  [**Marketing**](https://nation.marketo.com/) Nationcommunity ein (Benutzername und Passwort erforderlich).
 
-* Erfahren Sie, wie Sie mit der [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) -Community interagieren, um Antworten auf Ihre Fragen zu erhalten.
+* Erfahren Sie, wie Sie mit der [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community)-Community interagieren, um Antworten auf Ihre Fragen zu erhalten.
 
-* Klicken Sie auf **Ihre Orte** im Marketing Nation Community Profil, um die Kontoseite Ihrer Firma anzuzeigen.
+* Klicken Sie auf **Ihre Orte** in Ihrem Marketing-Nation-Community-Profil, um die Kontoseite Ihrer Firma anzuzeigen.
 
-* Erfahren Sie, wie Sie einen Support-Fall [****](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) senden können (und bestätigen Sie, dass Sie als autorisierter Support-Kontakt [**eingerichtet sind**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)).
+* Erfahren Sie, wie Sie [**eine Supportanfrage**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) senden (und bestätigen Sie, dass Sie [**als autorisierter Support-Ansprechpartner**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341) eingerichtet sind).
 
-* [**Verwalten Sie Benutzer**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) und löschen Sie diejenigen, die Ihre Firma verlassen haben.
+* [**Verwalten Sie**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) Benutzer und löschen Sie diejenigen, die Ihre Firma verlassen haben.
