@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# SEO - Exportprobleme in CSV {#seo-export-issues-to-csv}
+# SEO - Exportieren von Problemen in CSV {#seo-export-issues-to-csv}
 
-1. Sie können Ihre [Seitenausgabedaten](seo-understanding-pages.md) in eine CSV-Datei exportieren, wenn Sie diese Informationen für Personen außerhalb von Marketo freigeben möchten. So geht es.
-1. Gehen Sie zum Abschnitt **Seiten** .
+1. Sie können Ihre [Seitenausgabe](seo-understanding-pages.md)-Daten in eine CSV-Datei exportieren, wenn Sie diese Informationen für Personen außerhalb von Marketo freigeben möchten. So geht es.
+1. Gehen Sie zum Abschnitt **Seiten**.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Dies ist der Drilldown für [Seitendetails](seo-using-the-page-detail-drill-down.md). **Die Seitenoptimierungsergebnisse** sind eine Liste aller Probleme mit dieser Seite.
+   Dies ist der Drilldown für [Seitendetails](seo-using-the-page-detail-drill-down.md). **Seitenoptimierungsergebnis** ist eine Liste aller Probleme mit dieser Seite.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. Klicken Sie auf **Exportieren**.
+1. Klicken Sie auf **Export**.
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
