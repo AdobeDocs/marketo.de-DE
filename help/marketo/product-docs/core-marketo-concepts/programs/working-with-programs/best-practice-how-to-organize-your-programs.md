@@ -28,34 +28,35 @@ In Marketing-Aktivitäten sollten Sie Ordner verwenden, um Ihre Programm zu orga
 >**Beispiel**
 >
 >* Aktive Marketing-Programme
->
->    * E-Mails
->    * Ereignisse
->
->        * Live-Ereignisse/Roadshows
->        * Diashows
->        * Webinare
->* Newsletter
->   * Krankenpflege
->   * Webinhalt
->   * Webformulare
->* Lernen
->* operativ
->
->   * Lebenszyklus
->   * Bewertung
->   * Data Management
->* Sales Insight
->
->   * Interessante Momente
->   * E-Mails zum Vertrieb
->   * Beantragte Kampagnen für Verkäufe
->* **Archivieren**
->
->   * Ereignisse archivieren
->
->      * Archiv 2012
->      * Archiv 2013
+   >
+   >    
+   * E-Mails
+   >    * Ereignisse
+
+      >
+      >        
+      * Live-Ereignisse/Roadshows
+      >        * Diashows
+      >        * Webinare
+   >
+   * Newsletter
+   * Krankenpflege
+   * Webinhalt
+   * Webformulare
+* Lernen
+* operativ
+
+   * Lebenszyklus
+   * Bewertung
+   * Data Management
+* Sales Insight >
+   * Interessante Momente
+   * E-Mails zum Vertrieb
+   * Beantragte Kampagnen für Verkäufe
+* **Archiv** >
+   * Ereignisse archivieren >
+      * Archiv 2012
+      * Archiv 2013
 
 
 
@@ -67,7 +68,7 @@ Jeder der im Beispiel erwähnten Ordner ist ein Ordner. Beachten Sie, wie sie al
 
 >[!TIP]
 >
->Der Ordner &quot;Archiv&quot;ist eine spezielle Ordnerart, die zum Entfernen von Elementen aus ausgewählten Listen sowie Berichte entwickelt wurde. Dadurch wird Ihr System schneller ausgeführt. Erfahren Sie [mehr über Ordner](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>Der Ordner &quot;Archiv&quot;ist eine spezielle Ordnerart, die zum Entfernen von Elementen aus ausgewählten Listen sowie Berichte entwickelt wurde. Dadurch wird Ihr System schneller ausgeführt. Erfahren Sie mehr über Ordner[.](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
 
 Sie können je nach Bedarf weitere Ordner hinzufügen. Denken Sie daran, dass zukünftige Generationen von Marketingexperten in Ihrer Firma mit Ihren Entscheidungen darüber leben werden, wie Sie Dinge benennen/organisieren.
 
@@ -75,7 +76,7 @@ Sie können je nach Bedarf weitere Ordner hinzufügen. Denken Sie daran, dass zu
 
 Die Benennung ist von entscheidender Bedeutung, da die Funktionen von Marketo alle eine gemeinsame Sprache verwenden, um zu kommunizieren. Für Programme sollten Sie ihnen etwas Einzigartiges nennen. **Kein Programm darf denselben Namen** haben. Es empfiehlt sich, das folgende Format zu verwenden:
 
-[Abkürzung des Programm-Typs] [JJJJ]-[MM]-[Optional TT] - [Kurzbeschreibung]
+[Abkürzung für Programm ] [TypeYYY]-[MM]-[Optional ] [DDBummerbeschreibung]
 
 >[!NOTE]
 >
@@ -91,11 +92,11 @@ Die Benennung ist von entscheidender Bedeutung, da die Funktionen von Marketo al
 
 
 
-Programm-Namen müssen in Ihrem Abonnement eindeutig sein, auch in verschiedenen [Arbeitsbereichen](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Bei den lokalen Assets innerhalb von Programmen gilt, dass der Name **einfach** bleibt. Benennen Sie einfach eine Einladung &quot;Einladung&quot;statt &quot;Einladung zum Webinar im Juni 2015&quot;. Da sich diese in einem Programm befinden, ist das übergeordnete Programm automatisch Teil des Namens, wenn es an einer anderen Stelle ausgewählt wird. Mit anderen Worten, lokale Assets müssen nur innerhalb des Programms eindeutig sein. Sie können Hunderte von Assets mit dem Namen &quot;Einladen&quot;in einem anderen Programm haben, und es wird Sie nicht beschädigen.
+Programm-Namen müssen in Ihrem Abonnement eindeutig sein, auch in verschiedenen [Arbeitsbereichen](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Bei den lokalen Assets innerhalb von Programmen lautet die Regel **Lassen Sie den Namen einfach**. Benennen Sie einfach eine Einladung &quot;Einladung&quot;statt &quot;Einladung zum Webinar im Juni 2015&quot;. Da sich diese in einem Programm befinden, ist das übergeordnete Programm automatisch Teil des Namens, wenn es an einer anderen Stelle ausgewählt wird. Mit anderen Worten, lokale Assets müssen nur innerhalb des Programms eindeutig sein. Sie können Hunderte von Assets mit dem Namen &quot;Einladen&quot;in einem anderen Programm haben, und es wird Sie nicht beschädigen.
 
 ## Tokens {#tokens}
 
-Tokens verwenden Ordner und Programm als Hilfsmittel, um Variablen festzulegen, die von Landingpages, E-Mails und anderen Assets verwendet werden. Erfahren Sie [alles über Token](http://docs.marketo.com/display/docs/tokens).
+Tokens verwenden Ordner und Programm als Hilfsmittel, um Variablen festzulegen, die von Landingpages, E-Mails und anderen Assets verwendet werden. Lernen Sie [alle über Token](http://docs.marketo.com/display/docs/tokens).
 
 Die oben erwähnte Organisation ermöglicht es Ihnen, Token in den Ordner &quot;Ereignis&quot;zu setzen, damit diese in alle Ereignis kopiert werden.
 
@@ -105,15 +106,15 @@ Die oben erwähnte Organisation ermöglicht es Ihnen, Token in den Ordner &quot;
 >
 >**Ihre Firmenadresse**. Verwenden Sie ein Token, anstatt es jedes Mal zu schreiben. Auf diese Weise können Sie es an einer Stelle aktualisieren, ohne dass Sie viele Entwürfe erstellen müssen. Überschreiben Sie dann das Token nach Bedarf in einem Ordner der unteren Ebene.
 
-## Ereignisse {#events}
+## Ereignis {#events}
 
 Ein Ereignis hat in der Regel viele bewegliche Teile, darunter: Einladungen, Landingpages, Formulare, Widgets für soziale Netzwerke und intelligente Kampagnen. Die beste Vorgehensweise, sie für eine einfache Handhabung zu organisieren, ist die Phase des Ereignisses. Im Folgenden finden Sie ein Beispiel dafür, wie Ihr Ordnerbaum nach einem Ereignis suchen sollte.
 
 ![](assets/capture.png)
 
-## Interaktions-Programme {#engagement-programs}
+## Interaktions-Programm {#engagement-programs}
 
-Erfahren Sie [alles über Interaktions-Programme](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Die beste Möglichkeit, Ihr Interaktions-Programm zu organisieren, sind Ordner. Erstellen Sie einen Ordner für jeden Stream und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jedem Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
+Lernen Sie [alle Programm zu Interaktionen](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) kennen. Die beste Möglichkeit, Ihr Interaktions-Programm zu organisieren, sind Ordner. Erstellen Sie einen Ordner für jeden Stream und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jedem Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
 
 ## Operative Programme {#operational-programs}
 
@@ -121,7 +122,7 @@ Diese werden zur Datenbereinigung verwendet. Verfügen Sie über Ordner für die
 
 ## Verschachteln von E-Mail-Programmen {#nesting-email-programs}
 
-E-Mail-Programme sind so konzipiert, dass sie Ihr Werkzeug für die Post-Straffung sind. Sie können sie in Ereignisse oder andere Programm für Promo-, Einladungs- und Erinnerungen einfügen. Sie verfügen über ein cooles Dashboard und andere A/B-Testfunktionen. Darüber hinaus lassen sich sie einfach in der [Programmplanung Ansicht](http://docs.marketo.com/display/docs/program+schedule+view)manipulieren.
+E-Mail-Programme sind so konzipiert, dass sie Ihr Werkzeug für die Post-Straffung sind. Sie können sie in Ereignisse oder andere Programm für Promo-, Einladungs- und Erinnerungen einfügen. Sie verfügen über ein cooles Dashboard und andere A/B-Testfunktionen. Darüber hinaus lassen sich sie einfach in der Ansicht [Programmplanung](http://docs.marketo.com/display/docs/program+schedule+view) bearbeiten.
 
 Sie können auch ein E-Mail-Programm als eigenständiges Programm erstellen. E-Mail-Programm sind in anderen E-Mail-Programmen nicht zulässig. Das wäre verrückt!
 
@@ -137,4 +138,4 @@ Einige Leute abstrahieren sogar den Großteil des Textes in den E-Mails und Land
 
 ## Zusammenfassung {#summary}
 
-Wie Sie sehen können, gibt es in Marketo eine Menge Macht. Wir haben die Grundlagen hier behandelt, aber denken Sie an einige [zusätzliche Dienstleistungen von Marketo Experts](http://www.marketo.com/services/) , um Feinabstimmung und Einrichtung für den Erfolg.
+Wie Sie sehen können, gibt es in Marketo eine Menge Macht. Wir haben die Grundlagen hier behandelt, aber denken Sie an einige [zusätzliche Dienste von Marketing-Experten](http://www.marketo.com/services/), um Feinabstimmung und Einrichtung für den Erfolg.
