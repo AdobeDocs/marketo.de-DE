@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Verwalten von Marketing-Benutzern {#managing-marketo-users}
+# Verwalten von Markierungen für Benutzer {#managing-marketo-users}
 
-## Benutzer erstellen {#create-users}
+## Erstellen von Benutzern {#create-users}
 
 1. Gehen Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
-1. Klicken Sie auf Neuen Benutzer **einladen**.
+1. Klicken Sie auf **Neuen Benutzer einladen**.
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Geben Sie die **E-Mail-Adresse**, **Vorname** und **Nachname ein. **
+1. Geben Sie **E-Mail-Adresse**, **Vorname** und **Nachname ein. **
 
    ** ![](assets/image2016-5-24-9-3a45-3a30.png)
 
    **
 
-1. Geben Sie optional einen Grund für die Einladung ein und wählen Sie mit der Datumsauswahl im Feld &quot; **Zugriff läuft ab** &quot;ein Ablaufdatum aus.
+1. Geben Sie optional einen Grund für die Einladung ein und wählen Sie im Feld **Zugriff läuft ab** mit der Datumsauswahl ein Ablaufdatum aus.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >Wenn das Ablaufdatum eintrifft, erhält der Benutzer eine Ablaufbenachrichtigung und sein Konto wird gesperrt.
 
-1. Wählen Sie die **Rolle **Ihrer Wahl und klicken Sie auf **Weiter**.
+1. Wählen Sie die **Rolle **Ihrer Wahl aus und klicken Sie auf **Weiter**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 Der neue Benutzer wird jetzt auf der Registerkarte &quot;Benutzer&quot;aufgelistet und erhält eine E-Mail mit Anweisungen zur Aktivierung seines Kontos.
 
-## Benutzer löschen {#delete-users}
+## Benutzer {#delete-users} löschen
 
 1. Gehen Sie zu Admin und klicken Sie auf Benutzer und Rollen.
 
@@ -107,7 +107,7 @@ Der Benutzer erhält eine E-Mail mit Anweisungen zum Zurücksetzen des Kennworts
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
-1. Wählen Sie einen Benutzer aus und klicken Sie auf &quot;Benutzer **bearbeiten&quot;**.
+1. Wählen Sie einen Benutzer aus und klicken Sie auf **Benutzer bearbeiten**.
 
    ![](assets/image2014-9-9-11-3a37-3a16.png)
 
