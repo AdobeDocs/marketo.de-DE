@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Im Folgenden wird beschrieben, wie Sie ein Datums-Token für die Verwendung in Programmen und Kampagnen einrichten.
 
-1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein **[!UICONTROL Datums]** -Token in die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
+1. Ziehen Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Programms oder Ordners ein Token **[!UICONTROL Datum]** in die Arbeitsfläche [!UICONTROL Lokale Token].
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
