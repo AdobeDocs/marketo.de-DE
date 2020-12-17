@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Automatische Kampagne-Bereinigung {#automatic-trigger-campaign-cleanup}
+# Automatische Kampagne-Bereinigung für Auslöser {#automatic-trigger-campaign-cleanup}
 
 Marketo verfügt über einen netten/kostenlosen Dienst zum Deaktivieren ausgelöster intelligenter Kampagnen, die keine Aktivität mehr erhalten. Dies beschleunigt die Gesamtleistung des Systems und spart Ihnen Zeit.
 
@@ -23,11 +23,11 @@ Einmal im Quartal findet Marketo intelligente Kampagnen, die seit 6 Monaten (kei
 
 Natürlich! Einmal im Quartal erhalten Sie eine Benachrichtigung eine Woche im Voraus, in der jede Kampagne angezeigt wird, die wir zum Deaktivieren planen.
 
-1. Gehen Sie zur Registerkarte **Benachrichtigungen** .
+1. Gehen Sie zur Registerkarte **Benachrichtigungen**.
 
    ![](assets/notifications.png)
 
-1. Klicken Sie auf **Synchronisierte Trigger-Kampagne bereinigen geplant**. Klicken Sie dann auf den **Link **Diese Idle-Auslöser-Kampagnen werden deaktiviert.** **
+1. Klicken Sie auf **Kampagne-Bereinigung für den Leerlauf geplant**. Klicken Sie dann auf den Link **Diese Idle-Auslöser-Kampagnen werden deaktiviert **und** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +52,7 @@ Beide setzen den 6-Monats-Zähler zurück.
 
 Absolut - eine Woche nach der ursprünglichen Benachrichtigung werden wir die aufgelisteten Kampagnen deaktivieren (abzüglich aller, die mindestens eine Person qualifiziert haben oder deaktiviert/reaktiviert wurden) und eine Bestätigungsmeldung veröffentlichen.
 
-1. Wählen Sie die **Idle Trigger Kampagne Cleanup Scheduled **notification. Klicken Sie auf den Link **Diese Idle-Auslöser-Kampagnen** .
+1. Wählen Sie die **Idle Trigger Kampagne Cleanup Scheduled **notification. Klicken Sie auf den Link **Diese Idle-Auslöser-Kampagnen**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
