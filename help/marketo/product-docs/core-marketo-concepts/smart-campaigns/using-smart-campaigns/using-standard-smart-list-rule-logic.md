@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden der Standard-Logik für intelligente Listen {#using-standard-smart-list-rule-logic}
+# Verwenden der standardmäßigen Regel-Logik für intelligente Listen {#using-standard-smart-list-rule-logic}
 
 Möglicherweise haben Sie die Option &quot;Filter verwenden&quot;beim Erstellen von intelligenten Listen für Kampagnen bemerkt. Mit dieser Einstellung können Sie entscheiden, ob die Filter mit einem UND- oder ODER-Operator ausgewertet werden müssen.
 
@@ -19,14 +19,14 @@ Möglicherweise haben Sie die Option &quot;Filter verwenden&quot;beim Erstellen 
 
 >[!NOTE]
 >
->Das Ändern der Regellogik für intelligente Listen gilt nur für Filter, **nicht** für Auslöser.
+>Das Ändern der Regellogik für intelligente Listen gilt nur für Filter, die nicht **auslösen.**
 
 Auslöser werden immer als ODER ausgewertet, selbst wenn die oben angegebene Einstellung auf ALL eingestellt ist.  Hier ein Beispiel:
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 Die oben genannte intelligente Liste in Worten:
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Wenn eine Person also das Formular ausfüllt **oder** die Seite besucht, bewertet die Kampagne diese Person anhand der **alle **oder **alle **der nachfolgenden Filter, je nach verwendeter Einstellung.
+`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Wenn also eine Person das Formular **oder** ausfüllt, wird diese Kampagne anhand von **alle **oder **beliebige **der nachfolgenden Filter ausgewertet, je nach verwendeter Einstellung.
 
 >[!MORELIKETHIS]
 >
