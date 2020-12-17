@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Mit diesem Bericht erhalten Sie großartige Statistiken zu Ihren Programmen.
 
-1. [Erstellen Sie einen Bericht in einem Programm](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Programm Performance** - [Berichtstyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Klicken Sie auf die Registerkarte **Bericht** .
+1. [Erstellen Sie einen Bericht in einem ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie den  **Programm Performance** [Port-Typ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Klicken Sie auf die Registerkarte **Bericht**.
 1. Du bist da! Entdecken Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Wenn Sie z. B. die Programm mit den niedrigsten *Kosten pro Erfolg* suchen möchten, [sortieren Sie Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nach dieser Spalte und wählen Sie &quot; **Sortieren Aufsteigend**&quot;.
+>Um die Programm mit den niedrigsten *Kosten pro Erfolg* zu finden, sortieren Sie z. B. [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie **Aufsteigend sortieren**.
 
 Die Spalten in einem Programm-Leistungsbericht umfassen:
 
@@ -58,5 +58,5 @@ Die Spalten in einem Programm-Leistungsbericht umfassen:
 >
 >**Tieftauchen**
 >
->Weitere Informationen finden Sie im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere Informationen finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
