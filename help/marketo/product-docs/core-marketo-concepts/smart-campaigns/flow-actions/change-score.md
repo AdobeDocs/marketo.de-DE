@@ -19,7 +19,7 @@ Scoring-Mitarbeiter sind einfach und leistungsstark, um Ihrem Vertriebsteam bei 
 
 ![](assets/flowstep-changescore.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Wählen Sie das zu ändernde Ergebnisfeld aus.
 
@@ -27,7 +27,7 @@ Scoring-Mitarbeiter sind einfach und leistungsstark, um Ihrem Vertriebsteam bei 
 
    >[!TIP]
    >
-   >Sie können mehrere Bewertungsfelder erstellen. Weitere Informationen finden Sie unter Benutzerdefiniertes Feld [erstellen in Marketing](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) .
+   >Sie können mehrere Bewertungsfelder erstellen. Weitere Informationen finden Sie unter [Benutzerdefiniertes Feld in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) erstellen.
 
 1. Geben Sie die gewünschte Ergebnisänderung ein.
 
@@ -35,7 +35,7 @@ Scoring-Mitarbeiter sind einfach und leistungsstark, um Ihrem Vertriebsteam bei 
 
    Änderungen:
 
-   * **+5** in Inkrementierung
+   * **+5** in Schritten
    * **-5** verringert (negative Zahlen erlaubt)
    * **=5** ergibt das Ergebnis mit der exakten Zahl
    * **=-5** ergibt das Ergebnis mit der exakten negativen Zahl
