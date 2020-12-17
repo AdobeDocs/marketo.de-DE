@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen in Blockierungsliste {#add-person-to-blocklist}
+# hinzufügen Person in Blockierungsliste {#add-person-to-blocklist}
 
 Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass sie Ihre Korrespondenz empfangen.
 
@@ -19,8 +19,8 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 >
 >Marketo ist dabei, Begriffe wie Blacklist und Whitelist in Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
-1. [Erstellen Sie ein neues Standard-Programm](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) und geben Sie ihm **Hinzufügen Namen**.
-1. Klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
+1. [Erstellen Sie ein neues Standardprogramm ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) und nennen Sie es  **Hinzufügen Blockierungsliste**.
+1. Klicken Sie auf **Neu** und wählen Sie **Neues lokales Element**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
 
@@ -28,7 +28,7 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    ![](assets/image2015-8-14-11-3a2-3a26.png)
 
-1. hinzufügen alle Personen, die Sie Ihrer **Smart-Liste** hinzufügen möchten.
+1. hinzufügen Sie alle Personen, die Ihre **Smart-Liste** hinzufügen möchten, zu Ihrer Blockierungsliste hinzufügen.
 
    >[!NOTE]
    >
@@ -36,15 +36,15 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    ![](assets/three-6.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neue intelligente Kampagne**.
+1. Klicken Sie auf **Neu** und wählen Sie **Neue Smart-Kampagne**.
 
    ![](assets/image2015-8-14-11-3a12-3a35.png)
 
-1. Benennen Sie die **neue intelligente Kampagne**. Klicken Sie auf **Erstellen**.
+1. Benennen Sie die **Neue intelligente Kampagne**. Klicken Sie auf **Erstellen**.
 
    ![](assets/image2015-8-14-11-3a13-3a36.png)
 
-1. Ziehen Sie per Drag &amp; Drop **Mitglied der Smart-Liste**.
+1. Ziehen Sie **Mitglied der Smart-Liste** per Drag &amp; Drop.
 
    ![](assets/image2015-8-14-11-3a16-3a34.png)
 
@@ -52,19 +52,19 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    ![](assets/image2015-8-14-11-3a17-3a5.png)
 
-1. Ziehen Sie **den Datenwert**&#x200B;ändern per Drag &amp; Drop.
+1. Ziehen Sie **Datenwert ändern** per Drag &amp; Drop.
 
    ![](assets/image2015-8-14-11-3a18-3a41.png)
 
-1. Geben Sie für den **Fluss** den Wert &quot; **Block Listed** &quot;für das **Attribut** ein und setzen Sie **New Value** auf **true**.
+1. Geben Sie für **Fluss** **Block Listed** für das **Attribut** ein und setzen Sie **Neuer Wert** auf **true**.
 
    ![](assets/image2015-8-14-11-3a21-3a1.png)
 
-1. Wählen Sie auf der Registerkarte **Plan** die Option Einmal **ausführen**.
+1. Wählen Sie auf der Registerkarte **Plan** die Option **Einmal ausführen**.
 
    ![](assets/ten.png)
 
-1. Wählen Sie **Jetzt** ausführen und klicken Sie auf **Ausführen**.
+1. Wählen Sie **Jetzt ausführen** und klicken Sie auf **Ausführen**.
 
    ![](assets/image2015-8-14-11-3a24-3a50.png)
 
@@ -72,5 +72,5 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    >[!TIP]
    >
-   >Erstellen Sie eine [auslösende intelligente Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) mit der Option &quot;Datenwert **** ändern&quot;mit der Option &quot; **Blockliste&quot;ist zukünftig für alle Personen wahr** , die über auf die Blockierungsliste setzend Attribute verfügen.
+   >Erstellen Sie eine [Auslöser-intelligente Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) mithilfe von **Datenwert ändern** mit **Blockliste ist true** für alle zukünftig auf die Blockierungsliste gesetzt Personen, die Attribute haben, die eine  ermöglichen.
 
