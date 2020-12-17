@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Erstellen einer intelligenten Batch-Kampagne in der Ansicht &quot;Programmplanung&quot; {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# Erstellen einer Stapel-Smart-Kampagne in der Programmplanung-Ansicht {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Sie können aus der Ansicht &quot;Programmplanung&quot;neue intelligente Kampagnen erstellen und bestehende [](rerun-a-smart-campaign-in-the-program-schedule-view.md) erneut ausführen.
+Sie können aus der Ansicht &quot;Programmplanung&quot;neue intelligente Kampagnen erstellen und [vorhandene erneut ausführen.](rerun-a-smart-campaign-in-the-program-schedule-view.md)
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Sie können aus der Ansicht &quot;Programmplanung&quot;neue intelligente Kampagn
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Wählen Sie einen Namen für Ihren Eintrag, der Ihre neue intelligente Kampagne wird. Drücken Sie die **Eingabetaste** , um den Namen zu bestätigen.
+1. Wählen Sie einen Namen für Ihren Eintrag, der Ihre neue intelligente Kampagne wird. Drücken Sie die Taste **Eingabetaste**, um den Namen zu bestätigen.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Klicken Sie auf die Dropdownliste **Typ** und wählen Sie **Smart** - **Kampagne**.
+1. Klicken Sie auf die Dropdownliste **Typ** und wählen Sie **Smart** **Kampagne**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Sie können aus der Ansicht &quot;Programmplanung&quot;neue intelligente Kampagn
 
    ![](assets/four.png)
 
-1. Wählen Sie Ihre [Regeln für intelligente Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) .
+1. Wählen Sie die [smart Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)-Regeln.
 
    ![](assets/changeprogramstatus-hands.png)
 
