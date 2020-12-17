@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Passen Sie Ihre Landingpages-URLs mit einem CNAME (Administration) an {#customize-your-landing-page-urls-with-a-cname-administration}
+# Passen Sie Ihre Landingpages-URLs mit einem CNAME (Administration) {#customize-your-landing-page-urls-with-a-cname-administration} an
 
 Obwohl Marketo Ihre Landingpages hostet, sollte die URL für Ihre Firma angepasst werden.
 
@@ -43,11 +43,11 @@ Lasst uns euch einrichten!
 
 1. Suchen Sie Ihre Kontozeichenfolge.
 
-1. Gehen Sie zum **Admin** -Bereich und klicken Sie auf **Landingpages**.
+1. Gehen Sie zum Bereich **Admin** und klicken Sie auf **Landingpages**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Kopieren Sie unter der Registerkarte &quot; **Landingpages** &quot;die Kontozeichenfolge aus dem Abschnitt &quot;Einstellungen&quot;.
+1. Kopieren Sie unter der Registerkarte **Landingpages** die Kontozeichenfolge aus dem Abschnitt Einstellungen.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,17 +55,17 @@ Lasst uns euch einrichten!
 
 1. Anforderung an IT senden
 
-1. Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten (ersetzen Sie das Wort [CNAME] und [KONTOZEICHENFOLGE] durch den Text aus dem vorherigen Schritt):
+1. Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten (ersetzen Sie das Wort [CNAME] und [ACCOUNT STRING] durch den Text aus dem vorherigen Schritt):
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 1. Führen Sie die CNAME-Einrichtung durch.
 
-1. Sobald der CNAME von Ihrer IT-Abteilung erstellt wurde, gehen Sie zu **Admin** und klicken Sie auf **Landingpages**.
+1. Nachdem der CNAME von Ihrer IT-Abteilung erstellt wurde, gehen Sie zu **Admin** und klicken Sie auf **Landingpages**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Klicken Sie im Abschnitt **Einstellungen** auf **Bearbeiten**.
+1. Klicken Sie unter dem Abschnitt **Einstellungen** auf **Bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
