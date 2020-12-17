@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Intelligente Batch- und Trigger-Kampagnen {#understanding-batch-and-trigger-smart-campaigns}
+# Grundlagen zu Batch- und Trigger-Smart-Kampagnen {#understanding-batch-and-trigger-smart-campaigns}
 
 Es gibt zwei Arten intelligenter Kampagnen: Stapel und Auslöser.
 
-## Intelligente Kampagne stapeln {#batch-smart-campaign}
+## Stapel-Smart-Kampagne {#batch-smart-campaign}
 
 >[!NOTE]
 >
@@ -27,14 +27,14 @@ Batch-intelligente Kampagnen enthalten nur Filter im Abschnitt &quot;Intelligent
 
 ![](assets/batch-filter.png)
 
-Durch Klicken auf die Registerkarte &quot; **Plan** &quot;wird bestätigt, dass die intelligente Kampagne auf &quot;Stapel&quot;eingestellt ist.
+Durch Klicken auf die Registerkarte **Plan** wird bestätigt, dass die intelligente Kampagne auf &quot;Stapel&quot;eingestellt ist.
 
 ![](assets/batch-c4.png)
 
 **Stapelverarbeitung intelligenter Kampagnen**
 
 * Kann für Wiederholungen, z. B. pro Tag, Woche und Monat, geplant werden. Sie können sie auch nur einmal ausführen lassen.
-* sind auf der [Programmplanung Ansicht](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)sichtbar.\
+* Sind auf der Ansicht [Programmplanung](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md) sichtbar.\
    *Beachten Sie, dass nach einem &quot;Wait&quot;-Schritt innerhalb der intelligenten Kampagne nichts auf der Ansicht enthalten ist.
 
 <br> 
@@ -51,7 +51,7 @@ Wenn eine intelligente Kampagne im Abschnitt &quot;Intelligente Liste&quot;minde
 
 ![](assets/trigger.png)
 
-Durch Klicken auf die Registerkarte &quot; **Plan** &quot;wird bestätigt, dass die intelligente Kampagne auf &quot;Ausgelöst&quot;eingestellt ist.
+Durch Klicken auf die Registerkarte **Plan** wird bestätigt, dass die intelligente Kampagne auf &quot;Ausgelöst&quot;eingestellt ist.
 
 ![](assets/trigger2.png)
 
@@ -60,11 +60,11 @@ Durch Klicken auf die Registerkarte &quot; **Plan** &quot;wird bestätigt, dass 
 * Kann nicht für Wiederholungen geplant werden. Sie können nur als aktiv oder inaktiv eingestellt werden.
 * Sie können mehrere Auslöser einstellen. Wenn jedoch ein Auslöser ausgelöst wird, werden die Aktionen der Kampagne ausgeführt.
 
-## Sehen Sie sich ein Video zum Erstellen von ausgelösten E-Mail-Kampagnen an {#watch-a-video-on-creating-triggered-email-campaigns}
+## Sehen Sie sich ein Video zum Erstellen von ausgelösten E-Mail-Kampagnen {#watch-a-video-on-creating-triggered-email-campaigns} an.
 
 `<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
 >[!TIP]
 >
->Verwenden Sie das [Aktivitäten-Protokoll](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) , um Schritt für Schritt in Ihren intelligenten Kampagnen zu sehen. Die Aktivität befindet sich auf der letzten Registerkarte der Detailseite.
+>Verwenden Sie das [Aktivität-Protokoll](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md), um zu sehen, was in Ihren intelligenten Kampagnen schrittweise passiert ist. Die Aktivität befindet sich auf der letzten Registerkarte der Detailseite.
 
