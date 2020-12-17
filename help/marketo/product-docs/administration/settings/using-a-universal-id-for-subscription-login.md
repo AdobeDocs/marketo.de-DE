@@ -21,11 +21,11 @@ Die Einstellungen auf Abonnement-Ebene werden für Benutzer berücksichtigt, die
 
 ## Einrichten einer universellen ID {#setting-up-a-universal-id}
 
-Von jeder einzelnen Instanz aus muss Ihr Marketo-Administrator Sie zu jedem Ihrer verschiedenen Abonnement mit derselben Anmeldung einladen. Marketo kann Ihre vorhandenen Anmeldungen nicht automatisch zusammenführen. Nach der Aktivierung der universellen ID ist **Ihre Marketo-Instanz bis zu 30 Minuten nicht mehr verfügbar** . Wenn Sie eine größere Benutzerbasis haben, kann es etwas länger dauern.
+Von jeder einzelnen Instanz aus muss Ihr Marketo-Administrator Sie zu jedem Ihrer verschiedenen Abonnement mit derselben Anmeldung einladen. Marketo kann Ihre vorhandenen Anmeldungen nicht automatisch zusammenführen. Sobald Sie die universelle ID aktiviert haben, ist **Ihre Marketo-Instanz bis zu 30 Minuten lang nicht mehr verfügbar.** Wenn Sie eine größere Benutzerbasis haben, kann es etwas länger dauern.
 
 >[!CAUTION]
 >
->Wenn eine einzelne ID oder eine universelle ID für einen Benutzer aktiviert ist, können deren Rollen und Arbeitsbereiche nach der Ersteinrichtung **nicht** bearbeitet werden.
+>Wenn für einen Benutzer die Option &quot;Einzel-ID&quot;oder &quot;Universelle ID&quot;aktiviert ist, können deren Rollen und Arbeitsbereiche nach der Ersteinrichtung bearbeitet werden.****
 
 >[!NOTE]
 >
