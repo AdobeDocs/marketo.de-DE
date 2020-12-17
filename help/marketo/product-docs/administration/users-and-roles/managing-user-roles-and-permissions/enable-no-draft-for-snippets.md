@@ -29,19 +29,19 @@ ht-degree: 0%
 
    ![](assets/usersandroles.png)
 
-1. Wählen Sie auf der Registerkarte &quot; **Rollen** &quot;eine Rolle aus und klicken Sie dann auf Rolle **bearbeiten**.
+1. Gehen Sie zur Registerkarte **Rollen**, wählen Sie eine Rolle und klicken Sie dann auf **Rolle bearbeiten**.
 
    ![](assets/editrole2.png)
 
-1. Erweitern Sie die Option **Zugriff auf Design Studio** .
+1. Erweitern Sie die Option **Zugriff auf Design Studio**.
 
    ![](assets/expanddesignstudio.png)
 
-1. Erweitern Sie die Option &quot; **Auf Ausschnitt** zugreifen&quot;.
+1. Erweitern Sie die Option **Aufrufen eines Codeausschnitts**.
 
    ![](assets/expandsnippet.png)
 
-1. Erweitern Sie die Berechtigung &quot; **Snippet** genehmigen&quot;und aktivieren Sie das Kontrollkästchen &quot; **Kein Entwurf** &quot;. Klicken Sie dann auf **Speichern**.
+1. Erweitern Sie die Berechtigung **Snippet** genehmigen und aktivieren Sie das Kontrollkästchen **Kein Entwurf**. Klicken Sie dann auf **Speichern**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
