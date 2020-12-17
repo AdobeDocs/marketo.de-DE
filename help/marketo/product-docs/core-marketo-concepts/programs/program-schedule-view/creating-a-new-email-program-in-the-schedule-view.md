@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines neuen E-Mail-Programms in der Ansicht &quot;Plan&quot; {#creating-a-new-email-program-in-the-schedule-view}
+# Erstellen eines neuen E-Mail-Programms in der Ansicht Plan {#creating-a-new-email-program-in-the-schedule-view}
 
 Sie können ein E-Mail-Programm aus der Ansicht Programmplanung erstellen. So geht es.
 
@@ -27,7 +27,7 @@ Sie können ein E-Mail-Programm aus der Ansicht Programmplanung erstellen. So ge
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Geben Sie einen Namen ein. Wählen Sie **E-Mail** - **Programm**.
+1. Geben Sie einen Namen ein. Wählen Sie **Email** **Programm**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,9 @@ Sie können ein E-Mail-Programm aus der Ansicht Programmplanung erstellen. So ge
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Richten Sie Ihr E-Mail-Programm](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) ein und klicken Sie auf Programm **genehmigen**.
+1. [Richten Sie Ihr E-Mail-](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) Programm ein und klicken Sie auf Programm  **genehmigen**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail-Programms](http://docs.marketo.com/display/docs/email+programs) anstelle einer intelligenten Kampagne die Möglichkeit, problemlos einen [A/B-Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)zu implementieren. Viel Spaß!
+   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail-Programms](http://docs.marketo.com/display/docs/email+programs) anstelle einer intelligenten Kampagne die Möglichkeit, einen [A/B-Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) einfach zu implementieren. Viel Spaß!
 
