@@ -23,7 +23,7 @@ Sie möchten eine andere Adresse ohne Aufhebens ausprobieren? So geht es.
 
 
 
-1. Wählen Sie im E-Mail-Testeditor in der Dropdown-Liste **Testtyp **die Option **Von Adresse** .
+1. Wählen Sie im Editor für E-Mail-Tests **Aus Adresse** in der Dropdownliste **Testtyp **aus.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -50,7 +50,7 @@ Sie möchten eine andere Adresse ohne Aufhebens ausprobieren? So geht es.
    >
    >In der oben gezeigten Distribution erhalten 15 % der in der Smart-Liste angegebenen Audience eine E-Mail mit einem Herausforderer von der Adresse und 85 % erhalten die E-Mail mit dem Champion From Address. E-Mails für mehrere Herausforderer von Adressen weisen die gleichen 15 % auf. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   Um eine statistische Konfidenz zu erhalten, müssen Sie einen Prozentsatz auswählen, der genügend Personen enthält, die für Ihren Test gültig sind. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.  [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval)als je zuvor.
+   Um eine statistische Konfidenz zu erhalten, müssen Sie einen Prozentsatz auswählen, der genügend Personen enthält, die für Ihren Test gültig sind. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.  [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
 
 1. Klicken Sie auf **Weiter**.
 
