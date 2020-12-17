@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können ein ganzes Programm und alle zugehörigen Assets schnell und einfach klonen, anstatt alles manuell neu zu erstellen. So geht es.
 
-1. Wählen Sie das Programm, das Sie klonen möchten, und klicken Sie dann unter &quot; **Programm-Aktionen** &quot;auf **Klonen.**
+1. Wählen Sie das Programm aus, das Sie klonen möchten, und klicken Sie dann unter **Programm Actions** auf **Klonen.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ Sie können ein ganzes Programm und alle zugehörigen Assets schnell und einfach
 
    >[!NOTE]
    >
-   >Programm können in [Kampagnen](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) - [Ordner](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) oder [Arbeitsbereiche](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)geklont werden. Achten Sie darauf, alle zugrunde liegenden abhängigen Assets (E-Mails, Snippets, Vorlagen für Landingpages usw.) gemeinsam zu verwenden. mit dem Ziel-Arbeitsbereich vor dem Klonen.
+   >Programm können in [Kampagne](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [Ordner](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) oder [Arbeitsbereiche](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) geklont werden. Achten Sie darauf, alle zugrunde liegenden abhängigen Assets (E-Mails, Snippets, Vorlagen für Landingpages usw.) gemeinsam zu verwenden. mit dem Ziel-Arbeitsbereich vor dem Klonen.
 
    ![](assets/cloneto.png)
 
@@ -47,7 +47,7 @@ Sie können ein ganzes Programm und alle zugehörigen Assets schnell und einfach
 
    >[!TIP]
    >
-   >Verwenden Sie dieses Verfahren zusammen mit [Token](http://docs.marketo.com/display/docs/using+tokens) , um die Erstellung neuer Programm zu einem Kinderspiel zu machen.
+   >Verwenden Sie dieses Verfahren zusammen mit [Token](http://docs.marketo.com/display/docs/using+tokens), um die Erstellung neuer Programm zu einem Kinderspiel zu machen.
 
    >[!CAUTION]
    >
