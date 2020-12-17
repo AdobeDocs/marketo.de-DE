@@ -12,18 +12,18 @@ ht-degree: 0%
 
 # hinzufügen und Entfernen von Bezeichnungen
 
-Sie können einem beliebigen Asset in [!UICONTROL Marketing-Aktivitäten]Beschriftungen zuweisen, sodass die Organisation und Suche von Assets ein Kinderspiel wird.
+Sie können jedem Asset unter [!UICONTROL Marketing-Aktivitäten] Beschriftungen zuweisen, wodurch die Organisation und Suche von Assets eine Brise wird.
 
 ## hinzufügen
 
-Um einem Asset neue Beschriftungen hinzuzufügen, navigieren Sie auf der Registerkarte &quot; [!UICONTROL Übersicht] &quot;zur Seite &quot; [!UICONTROL Details] &quot;des Assets.
+Um einem Asset neue Beschriftungen hinzuzufügen, navigieren Sie zur Seite [!UICONTROL Details] des Assets unter der Registerkarte [!UICONTROL Übersicht].
 <br> 
 
-Klicken Sie im Abschnitt [!UICONTROL Bezeichnungen] auf **[!UICONTROL Hinzufügen Neue Bezeichnungen]**.
+Klicken Sie unter dem Abschnitt [!UICONTROL Bezeichnungen] auf **[!UICONTROL Hinzufügen Neue Bezeichnungen]**.
 
 ![Bild eins](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Wenn Sie eine Bezeichnung hinzufügen, die Sie zuvor nicht verwendet haben, geben Sie den Bezeichnungsnamen ein und klicken Sie auf Neu **[!UICONTROL erstellen ___]**.
+Wenn Sie eine zuvor nicht verwendete Bezeichnung hinzufügen, geben Sie den Bezeichnungsnamen ein und klicken Sie auf **[!UICONTROL Neu erstellen ___]**.
 
 ![Bild zwei](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Wenn Sie eine Beschriftung hinzufügen, die bereits an anderer Stelle erstellt w
 
 ## Entfernen von Bezeichnungen
 
-Sie können eine beliebige Beschriftung entfernen, indem Sie auf das **[!UICONTROL X]** klicken.
+Sie können jede Beschriftung entfernen, indem Sie auf **[!UICONTROL X]** klicken.
 
 ![Bild vier](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
