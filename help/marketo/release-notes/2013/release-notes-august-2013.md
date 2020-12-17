@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Versionshinweise: August 2013 {#release-notes-august}
 
-Die folgenden Funktionen sind in der Version vom August 2013 enthalten. Überprüfen Sie Ihre [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php) auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Version vom August 2013 enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php), um die Funktionsverfügbarkeit zu ermitteln.
 
-Achten Sie nach der Veröffentlichung darauf, in der Community auf der Registerkarte &quot; [Neue Version](release-notes-december-2013.md) &quot;detaillierte Knowledge Base-Artikel für jede neue Funktion zu finden!
+Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Artikel der Wissensdatenbank für jede neue Funktion zu erhalten!
 
 Nur Text-E-Mails
 
-Jetzt können Sie [nur die Textversion](../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) einer E-Mail senden. Beachten Sie, dass Links bei Verwendung dieser Option nicht dekoriert werden.
+Jetzt können Sie [nur noch die Textversion](../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) einer E-Mail senden. Beachten Sie, dass Links bei Verwendung dieser Option nicht dekoriert werden.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
 ## Verbesserungen an der Kundenbindungs-Engine {#customer-engagement-engine-enhancements}
 
-### Ausgehobene Inhalte ignorieren {#ignore-exhausted-content}
+### Ausgestoßene Inhalte ignorieren {#ignore-exhausted-content}
 
-Konfigurieren Sie das Programm für die Interaktion so, dass Erschöpfung [ignoriert](../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)wird, einschließlich der Unterdrückung von Benachrichtigungen.
+Konfigurieren Sie das Programm &quot;Einsatz&quot;auf [Erschöpfung ignorieren](../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), einschließlich der Unterdrückung von Benachrichtigungen.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Interaktions-Stream-Tests {#engagement-stream-testing}
 
-Verwenden Sie die [neue Testfunktion](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) , um eine Besetzung zu simulieren und neu hinzugefügte Inhalte für einen Live-Stream zu testen.
+Verwenden Sie die [neue Testfunktion](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md), um eine Besetzung zu simulieren und neu hinzugefügte Inhalte in einem Live-Stream zu testen.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -43,21 +43,21 @@ Wenn Sie einen E-Mail-Test senden, können Sie den Namen eines Interessenten aus
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 
-## SystemToken &quot;Ansicht E-Mail als Webseite&quot;und &quot;Abmelden&quot; {#view-email-as-web-page-and-unsubscribe-system-tokens}
+## &quot;Ansicht Email as Web Page&quot; und &quot;Unsubscribe&quot;-SystemTokens {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Nutzen Sie diese [neuen Token](../../product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) , um ihre Platzierung in E-Mails besser zu kontrollieren.
+Verwenden Sie diese [neuen Token](../../product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md), um ihre Platzierung in E-Mails besser zu kontrollieren.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## Automatische Kampagne-Bereinigung {#automatic-trigger-campaign-cleanup}
+## Automatische Kampagne-Bereinigung für Auslöser {#automatic-trigger-campaign-cleanup}
 
-Marketo wird Sie nun regelmäßig benachrichtigen und [automatisch auslösende Kampagnen](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) deaktivieren, die in den letzten sechs Monaten nicht ausgeführt wurden.
+Marketo benachrichtigt Sie nun regelmäßig und deaktiviert automatisch auslösende Kampagnen, die in den letzten sechs Monaten noch nicht ausgeführt wurden.[](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Verbesserung des Finanzmanagements auf dem Markt {#marketo-financial-management-enhancement}
+## Verbesserung der Finanzverwaltung durch Marketing {#marketo-financial-management-enhancement}
 
-### Aktualisierung der Programm-Kosten  {#program-cost-update}
+### Programm Cost Update {#program-cost-update}
 
 Die Programm Cost Synchronisation ermöglicht die Verfolgung der Programm-Kosten über mehrere Plattformen hinweg.
 
