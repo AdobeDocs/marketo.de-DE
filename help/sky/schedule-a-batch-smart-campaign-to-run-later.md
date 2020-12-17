@@ -18,17 +18,17 @@ Nachdem Sie die Batch-Kampagne erstellt haben, können Sie sie jetzt oder späte
 
 >[!TIP]
 >
->Sie können eine intelligente Batch-Kampagne auch in der Ansicht [Programmplanung](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)neu planen.
+>Sie können auch [eine intelligente Batch-Kampagne in der Ansicht Programmplanung](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View) neu planen.
 
 1. Wählen Sie die auszuführende intelligente Batch-Kampagne aus.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. Gehen Sie zur Registerkarte **[!UICONTROL Plan]** und klicken Sie auf **[!UICONTROL Hinzufügen Ausführen]**.
+1. Wechseln Sie zur Registerkarte **[!UICONTROL Plan]** und klicken Sie auf **[!UICONTROL Hinzufügen Ausführen]**.
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. Wählen Sie **[!UICONTROL Ausführungsdatum/-zeit]** festlegen, klicken Sie auf das Kalendersymbol und wählen Sie das Ausführungsdatum der intelligenten Kampagne aus.
+1. Wählen Sie **[!UICONTROL Ausführungsdatum/Uhrzeit einstellen]**, klicken Sie auf das Kalendersymbol und wählen Sie das Ausführungsdatum der intelligenten Kampagne aus.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
