@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-Marketo kann eine E-Mail-Warnung mit persönlichen Informationen an jeden senden - den Vertriebsmitarbeiter, einen Partner oder eine andere Person. Verwenden Sie den Schritt zum **Senden einer Warnung** .
+Marketo kann eine E-Mail-Warnung mit persönlichen Informationen an jeden senden - den Vertriebsmitarbeiter, einen Partner oder eine andere Person. Verwenden Sie den Schritt **Warnung senden**.
 
 ![](assets/one-1.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Suchen und wählen Sie die E-Mail aus, die Sie senden möchten.
 
@@ -29,7 +29,7 @@ Marketo kann eine E-Mail-Warnung mit persönlichen Informationen an jeden senden
    >
    >**Erinnerung**
    >
-   >Ihre E-Mail-Warnung muss alle Kopfzeileninformationen enthalten und sich im Status &quot; **Genehmigt** &quot;befinden.
+   >Ihre E-Mail-Warnung muss alle Kopfzeileninformationen enthalten und sich im Status **Genehmigt** befinden.
 
 1. Sie können auf das Symbol Vorschau klicken, um sicherzustellen, dass Sie die richtige E-Mail ausgewählt haben.
 
@@ -39,7 +39,7 @@ Marketo kann eine E-Mail-Warnung mit persönlichen Informationen an jeden senden
    >
    >**Erinnerung**
    >
-   >Achten Sie darauf, in Ihrer E-Mail das Token **Warnhinweisinformationen** senden zu verwenden.
+   >Verwenden Sie unbedingt das Token **Warnhinweisinformationen senden** in Ihrer E-Mail.
 
 1. Wählen Sie den Empfänger alert aus. Sie können zwischen Verkaufseigentümer oder Kontoinhaber wählen.
 
@@ -51,9 +51,9 @@ Marketo kann eine E-Mail-Warnung mit persönlichen Informationen an jeden senden
 
    >[!TIP]
    >
-   >Bei Auslöserwerten können Sie Token in **An andere E-Mails** verwenden, z. B. `{{lead.Territory Owner}}` oder `{{my.Alert Recipient}}` , solange die Werte gültige E-Mail-Adressen sind. Tokens in **An andere E-Mails** funktionieren in einer Batch-Kampagne nicht.
+   >Bei Auslöserwerten können Sie Token in **zu anderen E-Mails** wie `{{lead.Territory Owner}}` oder `{{my.Alert Recipient}}` verwenden, solange die Kampagnen gültige E-Mail-Adressen sind. Tokens in **An andere E-Mails** funktionieren in einer Batch-Kampagne nicht.
 
-Das ist&#39;s! Jetzt wissen Sie, wie Sie den Schritt zum **Senden einer Warnung** verwenden.
+Das ist&#39;s! Jetzt wissen Sie, wie Sie den Flussschritt **Warnung senden** verwenden.
 
 >[!MORELIKETHIS]
 >
