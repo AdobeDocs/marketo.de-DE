@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# SEO - Einen Suchbegriff entfernen {#seo-remove-a-keyword}
+# SEO - Entfernen eines Suchbegriffs {#seo-remove-a-keyword}
 
 1. Wenn Sie einen Suchbegriff haben, für den Sie die Optimierung nicht fortsetzen möchten, können Sie ihn wie folgt entfernen:
-1. Klicken Sie auf , um zum Abschnitt **Suchbegriffe** zu gelangen.
+1. Klicken Sie auf , um zum Abschnitt **Suchbegriffe** zu wechseln.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Klicken Sie zur Bestätigung erneut auf **DELETE** .
+1. Klicken Sie zur Bestätigung erneut auf **DELETE**.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)
 
