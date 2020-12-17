@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Programm erstellen {#create-an-email-program}
+# E-Mail-Programm {#create-an-email-program} erstellen
 
 Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Personengruppe zu senden.
 
@@ -23,13 +23,13 @@ Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Perso
 
    ![](assets/two.png)
 
-1. Geben Sie einen Namen ein, wählen Sie als Programm-Typ &quot; **E-Mail** &quot;und klicken Sie auf &quot; **Erstellen**&quot;.
+1. Geben Sie einen Namen ein, wählen Sie **E-Mail** als Programm-Typ aus und klicken Sie auf **Erstellen**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Bei Auswahl von **E-Mail** als Programm-Typ wird der Kanal automatisch auf **E-Mail-Senden** eingestellt. Du kannst es ändern, wenn du willst.
+   >Wenn Sie **E-Mail** als Programm-Typ auswählen, wird der Kanal automatisch auf **E-Mail senden** eingestellt. Du kannst es ändern, wenn du willst.
 
    ![](assets/four.png)
 
