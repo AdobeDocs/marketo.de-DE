@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Standardnamen der Person und Firma festlegen {#set-default-person-last-name-and-company-name}
+# Standardnamen der Person und Firma festlegen{#set-default-person-last-name-and-company-name}
 
 Salesforce benötigt (mindestens) Nachname und Firma für seine Interessenten und Kontakte. Unvollständige Datensätze werden nicht mit Salesforce synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie Standardwerte festlegen, die Marketo mit Salesforce verwenden soll.
 
@@ -19,11 +19,11 @@ Salesforce benötigt (mindestens) Nachname und Firma für seine Interessenten un
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Klicken Sie auf **Synchronisierungsoptionen** bearbeiten.
+1. Klicken Sie auf **Synchronisierungsoptionen bearbeiten**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Geben Sie einen **Standardnamen** und eine **Standard ****Person-Firma** ein und klicken Sie dann auf **Speichern**.
+1. Geben Sie einen **Familiennamen der Standardperson** und eine **Standard ****Firma** ein und klicken Sie dann auf **Speichern**.
 
    ![](assets/sync-options-hands.png)
 
