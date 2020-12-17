@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[E-Mail für ein E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an wen Sie die E-Mail senden möchten. Dazu [erstellen Sie eine intelligente Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) oder importieren eine Liste. Hier ist, wie man das durch Importieren einer Liste erreicht.
+Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an wen Sie die E-Mail senden möchten. Dazu können Sie [eine intelligente Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) erstellen oder eine Liste importieren. Hier ist, wie man das durch Importieren einer Liste erreicht.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
    >
    >Marketo wird sich die Zuordnungen für zukünftige Importe merken!
 
-1. Geben Sie einen **Namen** für Ihre Liste ein und klicken Sie auf **Importieren**.
+1. Geben Sie einen **Name** für Ihre Liste ein und klicken Sie auf **Import**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -70,7 +70,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 >
 Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Postings gesperrt sind.
 >
->Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36-1.png) auf der Kachel &quot; **Audience** &quot;, um zu sehen, wie viele Personen aufgrund der Kriterien für intelligente Liste für den Empfang der E-Mail qualifiziert sind. Ziehen Sie die blockierte Zahl von der Anzahl der Personen ab, um die Gesamtanzahl der Personen zu erhalten, die die E-Mail erhalten.
+>Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36-1.png) auf der Kachel **Audience**, um zu sehen, wie viele Personen sich auf der Grundlage der Kriterien für intelligente Liste für den Empfang der E-Mail qualifiziert haben. Ziehen Sie die blockierte Zahl von der Anzahl der Personen ab, um die Gesamtanzahl der Personen zu erhalten, die die E-Mail erhalten.
 
 >[!TIP]
 >
