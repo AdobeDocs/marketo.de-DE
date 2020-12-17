@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aus Fluss entfernen {#remove-from-flow}
+# Aus Fluss {#remove-from-flow} entfernen
 
 Stellen Sie sich vor, Sie haben eine intelligente Kampagne, die mit &quot;Warnung senden&quot;einen Vertriebsmitarbeiter daran erinnert, einen heißen Potenzieller Kunde anzurufen. Es sendet jeden Tag eine Nachricht, bis der Mitarbeiter den Anruf abgibt. Sie können &quot;Aus Fluss entfernen&quot;in einer Auslöser-Kampagne verwenden, sobald der Potenzieller Kunde kontaktiert wurde, um weitere Warnungen zu stoppen. Es ist wie ein kluger Kampagne-Projektor-Sitzplatz für eine Person.
 
@@ -21,11 +21,11 @@ Stellen Sie sich vor, Sie haben eine intelligente Kampagne, die mit &quot;Warnun
 
 ## Übersicht {#overview}
 
-Sie können Personen aus dem Fluss einer Kampagne entfernen, indem Sie den Schritt Aus Fluss **entfernen** verwenden.
+Sie können Personen aus dem Fluss einer Kampagne entfernen, indem Sie den Flussschritt **Entfernen aus Fluss** verwenden.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 Wählen Sie die intelligente Kampagne aus, aus der Sie Personen entfernen möchten.
 
@@ -33,7 +33,7 @@ Wählen Sie die intelligente Kampagne aus, aus der Sie Personen entfernen möcht
 
 >[!NOTE]
 >
->Sie können eine bestimmte intelligente Kampagne auswählen oder in der Dropdown-Liste &quot; **Kampagne** &quot;die Option &quot;Diese Kampagne&quot;wählen, um die Kampagne auszuwählen, in der Sie sich zu diesem Zeitpunkt befinden.
+>Sie können eine bestimmte intelligente Kampagne auswählen oder in der Dropdown-Liste **Kampagne** die Option &quot;Diese Kampagne&quot;wählen, um die Kampagne auszuwählen, in der Sie sich gerade befinden.
 
 >[!NOTE]
 >
