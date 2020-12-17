@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ## Bearbeiten eines Tokens
 
-Klicken Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;des Ordners oder Programms &quot;Kampagne&quot;auf den **[!UICONTROL Wert]** des Tokens, das Sie bearbeiten möchten. Dadurch wird das Editor-Fenster geöffnet.
+Klicken Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Kampagne-Ordners oder -Programms auf **[!UICONTROL Value]** des Tokens, das Sie bearbeiten möchten. Dadurch wird das Editor-Fenster geöffnet.
 
 ![Bild eins](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Texttoken haben kein separates Editorfenster. Klicken Sie auf den **[!UICONTROL Wert]** , um Inline-Änderungen vorzunehmen.
+>Texttoken haben kein separates Editorfenster. Klicken Sie auf **[!UICONTROL Wert]**, um Inline-Änderungen vorzunehmen.
 
 ![Bild zwei](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
@@ -44,12 +44,12 @@ Klicken Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;des Ordn
 
    ![Bild fünf](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. Geben Sie einen neuen Namen für das Klon-Token ein, bearbeiten Sie bei Bedarf und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie einen neuen Namen für Ihr Klon-Token ein, bearbeiten Sie ihn bei Bedarf und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild sechs](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
 ## Einen Token-Namen kopieren
 
-Um den Namen eines Tokens in die Zwischenablage zu kopieren (z. B. `{{my.Event Calendar File}}`), klicken Sie mit der rechten Maustaste auf das Token und wählen Sie &quot;Token-Name **kopieren&quot;**.
+Um den Namen eines Tokens in die Zwischenablage zu kopieren (z. B. `{{my.Event Calendar File}}`), klicken Sie mit der rechten Maustaste auf das Token und wählen Sie **Token-Name kopieren**.
 
 ![Bild sieben](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
