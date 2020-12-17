@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Auf den Registerkarten &quot;Synchronisierungsstatus&quot;und &quot;Synchronisierungsfehler&quot;können Sie den aktuellen Durchsatz und den Rückstand des Synchronisierungsprozesses im Auge behalten.
 
-## Registerkarte &quot;Synchronisierungsstatus&quot; {#sync-status-tab}
+## Registerkarte &quot;Status synchronisieren&quot; {#sync-status-tab}
 
 1. Klicken Sie auf **Admin** und **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klicken Sie auf die Registerkarte **Synchronisierungsstatus** .
+1. Klicken Sie auf die Registerkarte **Synchronisierungsstatus**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ Auf den Registerkarten &quot;Synchronisierungsstatus&quot;und &quot;Synchronisie
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicken Sie auf die **Ansicht: **Dropdown** **und wählen Sie **Letzte Stunde **zur Angabe des Durchsatzes der Ansicht.
+1. Klicken Sie auf die **Ansicht: **dropdown** **und wählen Sie **Letzte Stunde **bis Informationen zum Durchsatz der Ansicht.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
