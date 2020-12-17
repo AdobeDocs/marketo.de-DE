@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aktualisierung der Marketing-Lösung für Microsoft Dynamics {#upgrade-the-marketo-solution-for-microsoft-dynamics}
+# Aktualisieren Sie die Marketing Solution für Microsoft Dynamics {#upgrade-the-marketo-solution-for-microsoft-dynamics}
 
 Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die Aktualisierung vom Admin-Bereich in Ihrem Konto herunterladen.
 
@@ -21,7 +21,7 @@ Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die 
 
 >[!CAUTION]
 >
->Sie müssen unbedingt die neueste Marketing-Lösung herunterladen, *bevor* Sie ein Upgrade durchführen.
+>Sie müssen unbedingt die neueste Marketing-Lösung *herunterladen, bevor Sie eine Aktualisierung durchführen.*
 
 1. Gehen Sie zum Bereich **Admin **I.
 
@@ -31,7 +31,7 @@ Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die 
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Wählen Sie Marketing- **Lösung** herunterladen.
+1. Wählen Sie **Marketing-Lösung herunterladen**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
