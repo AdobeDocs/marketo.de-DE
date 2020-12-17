@@ -19,15 +19,15 @@ Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder einen A
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Web-Services**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Web-Services**.
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Klicken Sie im Bereich &quot;IP-Beschränkungen&quot;auf **Bearbeiten **oder klicken Sie oben links auf** IP-Beschränkungen bearbeiten **.
+1. Klicken Sie im Bereich IP-Beschränkungen auf **Bearbeiten, **oder klicken Sie oben links auf** IP-Beschränkungen bearbeiten **in.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
-1. Markieren Sie das Feld &quot;IP-Beschränkungen **** aktivieren&quot;und geben Sie die IP-Adressen ein, die Sie in das Zulassungsliste aufnehmen möchten.
+1. Markieren Sie das Feld **IP-Beschränkungen aktivieren** und geben Sie die IP-Adressen ein, die Sie in Zulassungsliste setzen möchten.
 
    ![](assets/image2016-2-25-9-3a18-3a28.png)
 
@@ -35,7 +35,7 @@ Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder einen A
    >
    >Sie können eine einzelne IP-Adresse oder einen Bereich davon eingeben oder einen Platzhalter verwenden.
 
-1. Klicken Sie auf **Hinzufügen** , um weitere Felder zur Eingabe weiterer IP-Adressen zu öffnen.
+1. Klicken Sie auf **Hinzufügen**, um weitere Felder zur Eingabe weiterer IP-Adressen zu öffnen.
 
    ![](assets/image2016-2-25-9-3a20-3a47.png)
 
