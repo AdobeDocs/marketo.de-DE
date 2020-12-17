@@ -28,7 +28,7 @@ Hier ist, wie man anfängt.
 
 >[!CAUTION]
 >
->Champion/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktions-Programm-Streams. Verwenden Sie für Batch-Mails die [A/B-Testfunktion](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)des E-Mail-Programms.
+>Champion/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktions-Programm-Streams. Verwenden Sie für Batch-Mails die [A/B-Testfunktionalität](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) des E-Mail-Programms.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -43,7 +43,7 @@ Hier ist, wie man anfängt.
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über [E-Mail-Programm](http://docs.marketo.com/display/docs/email+programs), um einmalige Mails zu erhalten.
+   >Erfahren Sie mehr über [E-Mail-Programm](http://docs.marketo.com/display/docs/email+programs) für einmalige E-Mail-Nachrichten.
 
 1. Klicken Sie unter **E-Mail-Aktionen** auf **Neuer Test**.
 
