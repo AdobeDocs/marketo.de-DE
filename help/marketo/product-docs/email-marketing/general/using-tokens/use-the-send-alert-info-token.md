@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Verwenden des Tokens &quot;Warnhinweisinformationen senden&quot; {#use-the-send-alert-info-token-sp-send-alert-info}
+# Verwenden Sie das Token für die Versandwarnungsinformationen {#use-the-send-alert-info-token-sp-send-alert-info}
 
-Das `{{SP_Send_Alert_Info}}` Token ist ein spezielles Token, das beim Erstellen von Warn-E-Mails für Ihr Vertriebsteam verwendet wird.
+Das Token `{{SP_Send_Alert_Info}}` ist ein spezielles Token, das beim Erstellen von Warn-E-Mails für Ihr Vertriebsteam verwendet wird.
 
 >[!TIP]
 >
->Dieses Token funktioniert nur wie gewünscht, wenn die E-Mail mit dem Textfluss &quot;Warnung [senden](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) &quot;gesendet wird. Es funktioniert nicht, wenn es in einem Schritt zum Senden einer E-Mail-Benachrichtigung verwendet wird.
+>Dieses Token funktioniert nur wie vorgesehen, wenn die E-Mail mit dem Textfluss [Warnung senden](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) gesendet wird. Es funktioniert nicht, wenn es in einem Schritt zum Senden einer E-Mail-Benachrichtigung verwendet wird.
 
 Beispiel-Warnung:   ![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Kopf hoch! URLs in Warnungen haben Ablaufdaten, um sicherzustellen, dass sie über eine Kadenz verfügen, die diese Arten von Nachrichten unterstützt. Ablaufdaten werden von einem Administrator [konfiguriert](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Kopf hoch! URLs in Warnungen haben Ablaufdaten, um sicherzustellen, dass sie über eine Kadenz verfügen, die diese Arten von Nachrichten unterstützt. Ablaufdaten werden von einem Admin[ konfiguriert.](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
 
-Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
+Die folgenden Informationen sind Teil von `{{SP_Send_Alert_Info}}`:
 
 * Vorname und Nachname als Link zu den Personendetails in Marketo
 * Ein Link zur Person in Ihrem CRM-System
@@ -38,7 +38,7 @@ Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
 ## hinzufügen des Tokens SP_Send_Alert_Info an eine E-Mail {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Wählen Sie die E-Mail aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie die E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-3.png)
 
@@ -46,11 +46,11 @@ Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Platzieren Sie den Cursor an der Stelle, an der das Token stehen soll, und klicken Sie dann auf die Schaltfläche &quot;Token **einfügen&quot;** .
+1. Platzieren Sie den Cursor an der Stelle, an der das Token stehen soll, und klicken Sie dann auf die Schaltfläche **Token einfügen**.
 
    ![](assets/three-3.png)
 
-1. Suchen und wählen Sie das **`{{SP_Send_Alert_Info}}`** Token aus und klicken Sie auf **Einfügen**.
+1. Suchen Sie das Token **`{{SP_Send_Alert_Info}}`** und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
