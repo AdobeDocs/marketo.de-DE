@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# E-Mail &quot;Nur Text erstellen&quot; {#create-a-text-only-email}
+# Erstellen einer E-Mail nur für Text {#create-a-text-only-email}
 
 Wenn Sie nur Text-E-Mails senden möchten, hier erfahren Sie, wie Sie eine E-Mail erstellen, die ohne HTML-Inhalte ausgeht.
 
 >[!NOTE]
 >
->Da Öffnen durch den Empfänger nachverfolgt werden, der die E-Mail-Bilder herunterlädt (die ein unsichtbares Pixel enthalten), können Öffnen **nicht** für E-Mails verfolgt werden.
+>Da Öffnen vom Empfänger nachverfolgt werden, der die E-Mail-Bilder herunterlädt (die ein unsichtbares Pixel enthalten), können die Öffnen für E-Mails mit Schreibschutz **nicht** nachverfolgt werden.
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/one-1.png)
 
-1. Wählen Sie Ihr Programm aus, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Asset**.
+1. Wählen Sie Ihr Programm aus, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Element**.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ Wenn Sie nur Text-E-Mails senden möchten, hier erfahren Sie, wie Sie eine E-Mai
 
    ![](assets/three-1.png)
 
-1. Geben Sie einen **Namen** ein, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name** ein, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
 
    ![](assets/four-1.png)
 
@@ -39,13 +39,13 @@ Wenn Sie nur Text-E-Mails senden möchten, hier erfahren Sie, wie Sie eine E-Mai
 
    ![](assets/five.png)
 
-1. Markieren Sie **Nur** Text und klicken Sie auf **Speichern**.
+1. Markieren Sie **Nur Text** und klicken Sie auf **Speichern**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Links werden nicht automatisch in E-Mails verfolgt, die nur Text enthalten. Erfahren Sie, wie Sie verfolgte Links zu einer Text-E-Mail [Hinzufügen](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Links werden nicht automatisch in E-Mails verfolgt, die nur Text enthalten. Erfahren Sie, wie Sie nachverfolgte Links zu einer Text-E-Mail[ Hinzufügen.](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
 
    >[!TIP]
    >
