@@ -20,7 +20,7 @@ Wenn Sie einen Stream aus Ihrem Interaktions-Programm löschen müssen, führen 
 
    ![Bild eins](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
