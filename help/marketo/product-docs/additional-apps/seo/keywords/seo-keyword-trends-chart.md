@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO - Suchbegriffstrenddiagramm {#seo-keyword-trends-chart}
 
-Es ist wichtig zu überwachen, wie die [SERP Ranks](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) -Trends Ihrer Suchbegriffe im Laufe der Zeit aussehen. Sehen Sie sich diese coole Tabelle an, um den Fortschritt zu überwachen.
+Es ist wichtig zu überwachen, wie Ihr Suchbegriff [SERP Ranks](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) im Laufe der Zeit eine Trendansicht aufweist. Sehen Sie sich diese coole Tabelle an, um den Fortschritt zu überwachen.
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ Es ist wichtig zu überwachen, wie die [SERP Ranks](../../../../product-docs/add
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Siehe? Er zeigt Ihren [SERP-Rang](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) der letzten 30 Tage an:
+   Siehe? Zeigt den [SERP-Rang](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) für die letzten 30 Tage an:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
