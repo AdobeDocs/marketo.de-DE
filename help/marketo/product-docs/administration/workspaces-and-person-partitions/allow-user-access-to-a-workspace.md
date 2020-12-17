@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Benutzerzugriff auf eine Arbeitsfläche zulassen {#allow-user-access-to-a-workspace}
+# Benutzerzugriff auf eine Arbeitsfläche {#allow-user-access-to-a-workspace} zulassen
 
 Arbeitsbereiche können aus jedem Grund (z. B. Geschäftseinheit oder geografische Trennung) sein. Sie trennen die Assets (intelligente Listen, Programme usw.) jedes Teams. So erhalten Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche.
 
@@ -29,11 +29,11 @@ Arbeitsbereiche können aus jedem Grund (z. B. Geschäftseinheit oder geografisc
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Wählen Sie auf der Registerkarte **Benutzer **den Benutzer aus und klicken Sie auf Benutzer **bearbeiten**.
+1. Wählen Sie auf der Registerkarte **Benutzer **den Benutzer aus und klicken Sie auf **Benutzer bearbeiten**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Wählen Sie die **Rolle und den Arbeitsbereich** aus, auf die der Benutzer zugreifen soll.
+1. Wählen Sie **Rolle und Arbeitsbereich** aus, auf den der Benutzer Zugriff haben soll.
 
    >[!NOTE]
    >
