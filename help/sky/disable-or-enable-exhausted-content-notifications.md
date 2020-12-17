@@ -14,17 +14,17 @@ ht-degree: 0%
 
 <br> 
 
-Wenn Benutzer den gesamten Inhalt in einem Stream ausfüllen, können Sie eine Benachrichtigung senden. [!DNL Marketo] Sie können die Benachrichtigungen je nach Bedarf deaktivieren/aktivieren.
+Wenn Benutzer den gesamten Inhalt in einem Stream ausfüllen, kann [!DNL Marketo] Ihnen eine Benachrichtigung senden. Sie können die Benachrichtigungen je nach Bedarf deaktivieren/aktivieren.
 
 1. Wählen Sie Ihr Interaktions-Programm aus.
 
    ![Bild eins](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Einstellungen]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Setup]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Blättern Sie nach unten zu [!UICONTROL Einstellungen] und wählen Sie &quot; **[!UICONTROL Aus]** &quot;(oder &quot; [!UICONTROL Ein]&quot;).
+1. Blättern Sie nach unten zu [!UICONTROL Einstellungen] und wählen Sie **[!UICONTROL Aus]** (oder [!UICONTROL Ein]).
 
    ![Bild drei](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
