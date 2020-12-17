@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können Ihre Suchbegriffsergebnisse exportieren, um sie für Ihr Team freizugeben oder einen Bericht zu erstellen.
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
