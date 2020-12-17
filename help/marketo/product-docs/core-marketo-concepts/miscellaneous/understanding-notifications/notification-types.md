@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es gibt mehrere Benachrichtigungstypen.
 
-## Kampagne fehlgeschlagen  {#campaign-failure}
+## Kampagne Failure {#campaign-failure}
 
 Fehler bei der Kampagne benachrichtigen Sie über Fehler in Ihren intelligenten Kampagnen.
 
@@ -47,7 +47,7 @@ Wenn Sie versuchen, Leads zu Facebook zu senden, ohne die Nutzungsbedingungen zu
 
 Säuberung der Idle Trigger-Kampagne
 
-Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Erfahren Sie mehr über die [automatische Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)der Auslöser.
+Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Erfahren Sie mehr über [automatische Kampagne-Bereinigung für Auslöser](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Die Quo
 
 >[!NOTE]
 >
->Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)aufgeführt.
+>Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes) aufgeführt.
 
