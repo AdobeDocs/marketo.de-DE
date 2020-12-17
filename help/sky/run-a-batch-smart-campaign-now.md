@@ -20,12 +20,12 @@ Nachdem Sie die Batch-Kampagne erstellt haben, können Sie sie jetzt oder späte
 
    ![Bild eins](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. Gehen Sie zur Registerkarte **[!UICONTROL Plan]** und klicken Sie auf **[!UICONTROL Hinzufügen Ausführen]**.
+1. Wechseln Sie zur Registerkarte **[!UICONTROL Plan]** und klicken Sie auf **[!UICONTROL Hinzufügen Ausführen]**.
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. Vergewissern Sie sich, dass &quot;Jetzt **[!UICONTROL ausführen]** &quot;ausgewählt ist, und klicken Sie auf **[!UICONTROL Bestätigen]**.
+1. Vergewissern Sie sich, dass **[!UICONTROL Jetzt ausführen]** ausgewählt ist, und klicken Sie auf **[!UICONTROL Bestätigen]**.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
-Und das ist es. Sie können die Ausführung auch für später [](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) planen.
+Und das ist es. Sie können auch [planen, dass die Ausführung für später](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) ausgeführt wird, wenn Sie möchten.
