@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ansicht E-Mail-Programm-Ergebnisse {#view-email-program-results}
+# Ansicht E-Mail-Programm Ergebnisse {#view-email-program-results}
 
 Genau wie die Registerkarte &quot;Ergebnisse&quot;in intelligenten Kampagnen können Sie dieselben Informationen in E-Mail-Programmen sehen.
 
@@ -27,7 +27,7 @@ Genau wie die Registerkarte &quot;Ergebnisse&quot;in intelligenten Kampagnen kö
    >
    >Wenn das E-Mail-Programm bereits ausgeführt wurde, werden Sie direkt zum E-Mail-Programm-Dashboard geleitet.
 
-1. Wählen Sie unter **Ansicht** die Option **Systemsteuerung**.
+1. Wählen Sie unter **Ansicht** **Systemsteuerung**.
 
    ![](assets/controlpanelview.jpg)
 
@@ -43,5 +43,5 @@ Genau wie die Registerkarte &quot;Ergebnisse&quot;in intelligenten Kampagnen kö
 >
 >**Tieftauchen**
 >
->Möchten Sie mehr über [E-Mail-Programm](http://docs.marketo.com/display/docs/email+program+actions)erfahren?
+>Möchten Sie mehr über [E-Mail-Programm](http://docs.marketo.com/display/docs/email+program+actions) erfahren?
 
