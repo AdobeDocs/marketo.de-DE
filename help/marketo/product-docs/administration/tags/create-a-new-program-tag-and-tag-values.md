@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Neue Programm-Tag- und Tag-Werte erstellen {#create-a-new-program-tag-and-tag-values}
+# Erstellen eines neuen Programm-Tags und von Tag-Werten {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-Sie können benutzerdefinierte [Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) für Ihre Programm erstellen und dem Tag Werte zuweisen.
+Sie können für Ihre Programm benutzerdefinierte [Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) erstellen und dem Tag Werte zuweisen.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Sie können benutzerdefinierte [Tags](../../../product-docs/core-marketo-concept
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Geben Sie den **Tag-Typ** und einen Tag- **Wert** ein. Klicken Sie dann auf **Hinzufügen Andere**.
+1. Geben Sie den **Tag-Typ** und ein Tag **Wert** ein. Klicken Sie dann auf **Hinzufügen Eine andere**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
