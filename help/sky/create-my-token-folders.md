@@ -16,7 +16,7 @@ ht-degree: 0%
 
 So sortieren Sie Ihre My Tokens in Ordner.
 
-1. Klicken Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Ordners oder Programms auf das Symbol &quot;Kampagne [!UICONTROL erstellen&quot;] oben rechts.
+1. Klicken Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Ordners oder Programms auf das Symbol [!UICONTROL Kampagne erstellen] oben rechts.
 
    ![Bild eins](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
