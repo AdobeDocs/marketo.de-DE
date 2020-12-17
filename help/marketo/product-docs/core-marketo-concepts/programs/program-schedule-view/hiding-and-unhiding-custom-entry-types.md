@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Benutzerdefinierte Eintragstypen können im Abschnitt &quot;Admin&quot;ausgeblendet werden. Nach dem Ausblenden wird der Eintragstyp nicht mehr als Option angezeigt.
 
-## Benutzerdefinierten Einstiegstyp ausblenden {#hide-a-custom-entry-type}
+## Benutzerdefinierter Einstiegstyp {#hide-a-custom-entry-type} ausblenden
 
-1. Gehen Sie zum Abschnitt **Admin** und klicken Sie auf **Kalendereingabetypen** ********.
+1. Wechseln Sie zum Abschnitt **Admin** und klicken Sie auf **Kalender** **Eintrag** **Typen**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -27,11 +27,11 @@ Benutzerdefinierte Eintragstypen können im Abschnitt &quot;Admin&quot;ausgeblen
 
    Fantastisch. Dieser Eintragstyp ist nicht mehr verfügbar.
 
-## Ein-/Ausblenden eines benutzerdefinierten Einstiegstyps {#unhide-a-custom-entry-type}
+## Ein-/Ausblenden eines benutzerdefinierten Eintragstyps {#unhide-a-custom-entry-type}
 
 Wenn Sie einen benutzerdefinierten Einstiegstyp wieder einblenden möchten, ist das ebenfalls ganz einfach.
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren Eintrag und wählen Sie **Ausblenden**.
+1. Klicken Sie mit der rechten Maustaste auf den Eintrag und wählen Sie **Rückgängig**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
