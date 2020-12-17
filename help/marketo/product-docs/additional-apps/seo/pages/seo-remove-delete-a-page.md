@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Möchten Sie eine Seite löschen? Kein Schweiß, so:
 
-1. Gehen Sie zum Abschnitt **Seiten** .
+1. Gehen Sie zum Abschnitt **Seiten**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. Bewegen Sie den Mauszeiger auf der Registerkarte &quot;Seiten&quot;über die zu entfernende Seite, klicken Sie auf **DELETE** und dann auf **ENTFERNEN**.
+1. Bewegen Sie den Mauszeiger auf der Registerkarte &quot;Seiten&quot;über die zu entfernende Seite, klicken Sie auf **DELETE** und dann auf **REMOVE**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
