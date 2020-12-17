@@ -25,7 +25,7 @@ Verwenden Sie Webhooks, um Webdienste von Drittanbietern zu nutzen, um Textnachr
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
-1. Klicken Sie auf **Neuer Webhaken**.
+1. Klicken Sie auf **Neuer WebHaken**.
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
@@ -37,13 +37,13 @@ Verwenden Sie Webhooks, um Webdienste von Drittanbietern zu nutzen, um Textnachr
    >
    >Hierzu gehört oft die Eingabe Ihrer Drittanbieter-Dienstanmeldeinformationen als URL-Parameter oder in die Vorlage &quot;POST&quot;.
 
-   * **URL**: Geben Sie die URL ein, die Sie zur POST Ihrer Anforderung an den Webdienst verwenden. Klicken Sie zum Einfügen eines Tokens, z. B. der E-Mail-Adresse (**`{{lead.Email Address}}`**) der Person, in Ihre Anforderung auf Token **einfügen**.
+   * **URL**: Geben Sie die URL ein, die Sie zur POST Ihrer Anforderung an den Webdienst verwenden. Klicken Sie zum Einfügen eines Tokens, z. B. der E-Mail-Adresse der Person (**`{{lead.Email Address}}`**), in Ihre Anforderung auf **Token einfügen**.
 
-   * **Vorlage**: Wenn Sie Informationen im Hauptteil der POST übermitteln möchten, geben Sie die Vorlage ein. Verwenden Sie alle Datenformate, die HTTP-POST unterstützen, einschließlich XML, JSON oder SOAP. Um ein Token in Ihre Vorlage einzufügen, klicken Sie auf &quot;Token **einfügen&quot;**.
+   * **Vorlage**: Wenn Sie Informationen im Hauptteil der POST übermitteln möchten, geben Sie die Vorlage ein. Verwenden Sie alle Datenformate, die HTTP-POST unterstützen, einschließlich XML, JSON oder SOAP. Um ein Token in Ihre Vorlage einzufügen, klicken Sie auf **Token einfügen**.
 
-   * **Token-Kodierung** anfordern: Wenn die Tokenwerte Sonderzeichen enthalten (z. B. ein kaufmännisches Und, &quot;&amp;&quot;), geben Sie das Format Ihrer Anforderung an (**JSON** oder **Form/URL**).
+   * **Token-Kodierung** anfordern: Wenn die Tokenwerte Sonderzeichen enthalten (z. B. ein kaufmännisches Und, &quot;&amp;&quot;), geben Sie das Format Ihrer Anforderung an (**** JSONs oder  **Form/URL**).
 
-   * **Antworttyp**: Wählen Sie das Format der Antwort aus, die Sie vom Dienst erhalten (**JSON** oder **XML**).
+   * **Antworttyp**: Wählen Sie das Format der Antwort aus, die Sie vom Dienst erhalten (**** JSON oder  **XML**).
 
    Klicken Sie auf Erstellen.
 
