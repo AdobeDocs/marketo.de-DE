@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Tieftauchen**
 >
->Weitere Versionen finden Sie in den [Versionshinweisen](http://docs.marketo.com/display/docs/release+notes) unter Deep Dive.
+>Weitere Versionen finden Sie unter [Versionshinweise](http://docs.marketo.com/display/docs/release+notes) Deep Dive.
 
 ## Neugestaltung des E-Mail-Leistungsberichts {#email-performance-report-redesign}
 
@@ -25,7 +25,7 @@ Hinweis: Dies ist eine schrittweise Einführung, beginnend mit der Mai-Version
 
 Die Berichte &quot;E-Mail-Leistung&quot;und &quot;Kampagne-E-Mail-Leistung&quot;wurden schneller ausgeführt. Wir haben außerdem die Definitionen bestimmter Metriken verbessert und die Metriken &quot;Gesendete Nachrichten&quot;und &quot;Gesendete Interessenten&quot;zu einer einzigen Metrik, &quot;Gesendet&quot;, zusammengefasst. Wir haben &quot;Messages Delivered&quot; und &quot;Leads Delivered&quot; zu &quot;Delivered&quot; zusammengeführt.
 
-## Verbesserungen beim Warten {#wait-step-enhancements}
+## Verbesserungen bei Warteschritten {#wait-step-enhancements}
 
 Mit den neuen Eigenschaften für erweiterte Wartezeiten können Sie den Warteschritt in einer Aktion für intelligente Kampagne so konfigurieren, dass er auf einen bestimmten Wochentag, den nächsten Geschäftstag, ein bestimmtes Datum oder eine bestimmte Uhrzeit wartet. Diese Verbesserungen stellen sicher, dass Ihre Pflegeemail während der Geschäftszeiten in den Posteingang eingehen!
 
@@ -57,15 +57,15 @@ Abbildung 4. Ereignis-Check-in: Wählen Sie Ihr Ereignis aus!
 
 Abbildung 5. Einchecken
 
-## Verbesserte URL der Webinarbestätigung {#enhanced-webinar-confirmation-url}
+## Erweiterte Webinar-Bestätigungs-URL {#enhanced-webinar-confirmation-url}
 
-Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie mit dem neuen `{{member.webinar URL}}` Token für jeden registrierten Teilnehmer einen eindeutigen Link in die Bestätigungs-E-Mail ein. Zu den Adobe Connect-Erweiterungen gehört auch die Möglichkeit, die E-Mail mit den Kontoinformationen der Adobe, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren/deaktivieren.
+Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie mit dem neuen Token `{{member.webinar URL}}` einen eindeutigen Link in die Bestätigungs-E-Mail für jeden registrierten Teilnehmer ein. Zu den Adobe Connect-Erweiterungen gehört auch die Möglichkeit, die E-Mail mit den Kontoinformationen der Adobe, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren/deaktivieren.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
 Abbildung 6. Personen zu Ihrem Webinar bringen
 
-## Vorschau der Vorlage {#template-preview}
+## Template-Vorschau {#template-preview}
 
 Suchen Sie beim Erstellen Ihrer E-Mail oder Landingpage nach einer bestimmten Vorlage, aber nicht sicher, wie diese aussieht? Mit der neuen Vorlagenfunktion können Sie die ausgewählte Vorschau vor dem Speichern eines neuen Assets überprüfen.
 
@@ -101,7 +101,7 @@ Synchronisieren Sie Konten, Kontakte und Interessenten zwischen Marketo und Micr
 
 Abbildung 11. Microsoft Dynamics-Konfiguration
 
-## Verbesserungen bei MarketingTo Sales Insight {#marketo-sales-insight-enhancements}
+## Marketo Sales Insight-Erweiterungen {#marketo-sales-insight-enhancements}
 
 **Optionen zum Abmelden von Fußzeilen**
 
@@ -111,7 +111,7 @@ Konfigurieren Sie, wann und ob die Fußzeile zum Abmelden für E-Mails angezeigt
 
 Abbildung 12. Sales Insight-Einstellungen in Admin
 
-## Ordner für E-Mail-Vorlagen für Verkäufe {#folders-for-sales-email-templates}
+## Ordner für E-Mail-Vorlagen für Vertrieb {#folders-for-sales-email-templates}
 
 Sie können jetzt die E-Mail-Vorlagen, die mit Marketo Sales Insight freigegeben wurden, in bestimmten Ordnern organisieren, um Ihren Vertriebsmitarbeitern die Suche nach der richtigen E-Mail zu erleichtern.
 
@@ -119,7 +119,7 @@ Sie können jetzt die E-Mail-Vorlagen, die mit Marketo Sales Insight freigegeben
 
 Abbildung 13. Ordner für E-Mails auswählen
 
-## Zugriff auf Opportunity Analyzer aus Sales Insight {#access-opportunity-analyzer-from-sales-insight}
+## Zugriff auf Opportunity Analyzer über Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
 Geben Sie Ihren Vertriebsmitarbeitern einen Einblick, welche Marketing-Aktivitäten die Interaktion fördern, indem Sie direkt auf den Opportunity Analyzer von Marketo Sales Insight zugreifen. Hinweis: Erfordert eine Analytics-Lizenz für Umsatz.
 
