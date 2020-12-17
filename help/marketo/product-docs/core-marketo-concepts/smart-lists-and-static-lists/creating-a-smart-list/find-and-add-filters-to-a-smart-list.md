@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Filter für eine intelligente Liste suchen und Hinzufügen {#find-and-add-filters-to-a-smart-list}
+# Suchen und Hinzufügen von Filtern in einer Smart-Liste {#find-and-add-filters-to-a-smart-list}
 
-Nachdem Sie eine intelligente Liste [](create-a-smart-list.md)erstellt haben, müssen Sie Filter hinzufügen und [definieren](define-smart-list-filters.md) . Hier erfahren Sie, wie Sie Filter finden und hinzufügen.
+Nachdem Sie [eine intelligente Liste](create-a-smart-list.md) erstellt haben, müssen Sie [definieren](define-smart-list-filters.md)-Filter hinzufügen und definieren. Hier erfahren Sie, wie Sie Filter finden und hinzufügen.
 
 In diesem Beispiel sollten wir alle Menschen in Kalifornien mit einer Punktzahl über 50 finden.
 
@@ -25,15 +25,15 @@ In diesem Beispiel sollten wir alle Menschen in Kalifornien mit einer Punktzahl 
 
    ![](assets/ma.png)
 
-1. Wählen Sie die intelligente Liste aus, der Sie Filter hinzufügen möchten, und klicken Sie auf die Registerkarte &quot; **Intelligente Liste** &quot;.
+1. Wählen Sie die intelligente Liste aus, der Sie Filter hinzufügen möchten, und klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/two.png)
 
-1. Suchen Sie den Filter **Status** und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen Sie den Filter **State** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/three.png)
 
-1. Suchen Sie auch den **Ergebnisfilter und ziehen Sie ihn darüber** .
+1. Suchen und ziehen Sie den Filter **Ergebnis**.
 
    ![](assets/four.png)
 
