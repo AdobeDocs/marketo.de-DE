@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](http://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails verwenden, indem Sie ein E-Mail-Skript-Token einrichten. Hier ist, wie man das macht.
 
-1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein **[!UICONTROL E-Mail-Skript]** -Token in die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
+1. Ziehen Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Programms oder Ordners ein Token **[!UICONTROL E-Mail-Skript]** in die Arbeitsfläche [!UICONTROL Lokale Token].
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
