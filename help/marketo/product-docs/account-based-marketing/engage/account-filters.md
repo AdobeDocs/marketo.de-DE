@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filter {#account-filters}
+# Account-Filter {#account-filters}
 
 Identifizieren und binden Sie benannte Konten und die darin enthaltenen Personen mithilfe neuer kontoorientierter Filter.
 
@@ -21,7 +21,7 @@ Identifizieren und binden Sie benannte Konten und die darin enthaltenen Personen
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **+** , um den Ordner &quot; **Account Filters** &quot;zu erweitern.
+1. Klicken Sie auf **+**, um den Ordner **Filter** zu erweitern.
 
    ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste Konto-Liste...
 
    ![](assets/eight.png)
 
-1. Wenn Sie den Qualifikator &quot;ist vorhanden&quot;verwenden, sollten Sie [Einschränkungen](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) nutzen, um Ihre Suchergebnisse einzuschränken. hinzufügen so viele, wie du willst!
+1. Wenn Sie den Qualifikator &quot;is any&quot;verwenden, sollten Sie [constraints](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) verwenden, um Ihre Suchergebnisse einzuschränken. hinzufügen so viele, wie du willst!
 
    ![](assets/nine.png)
 
