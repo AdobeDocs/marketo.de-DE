@@ -33,7 +33,7 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
    >
    >Warum Tags? Ein Kanal ist eine Möglichkeit, ein Programm zu beschreiben, genau wie andere Tags. Der Kanal hat nur besondere Besonderheiten.
 
-1. Klicken Sie auf das **+** -Zeichen neben dem **Kanal** , um die vorhandenen Kanal zu erweitern und anzuzeigen.
+1. Klicken Sie auf das Symbol **+** neben **Kanal**, um die vorhandenen Kanal zu erweitern und anzuzeigen.
 
    ![](assets/image2014-9-24-12-3a58-3a33.png)
 
@@ -74,7 +74,7 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
 
    >[!NOTE]
    >
-   >Auf was anwenden? Es gibt mehrere Arten von Programmen. Ordnen Sie dem Kanal den richtigen Typ zu. Wählen Sie im Zweifelsfall &quot; **Standard**&quot;.
+   >Auf was anwenden? Es gibt mehrere Arten von Programmen. Ordnen Sie dem Kanal den richtigen Typ zu. Wählen Sie im Zweifelsfall **Default**.
 
    >[!NOTE]
    >
@@ -83,15 +83,15 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
    Geben Sie die ersten beiden Programm-Statusnamen ein und klicken Sie dann auf Hinzufügen Schritt.
    ![](assets/image2014-9-24-15-3a37-3a0.png)
 
-1. Geben Sie einen weiteren Programm- **Status** und eine **Schrittnummer** ein und klicken Sie dann auf **Hinzufügen Schritt**.
+1. Geben Sie ein anderes Programm **Status** und **Schritt** ein und klicken Sie dann auf **Hinzufügen Schritt**.
 
    ![](assets/image2014-9-24-15-3a37-3a30.png)
 
    >[!TIP]
    >
-   >Die **Schrittnummer** wird zum Sortieren der Programm-Statusangaben verwendet. Denken Sie daran, dass die Leute in diesen Schritten nicht rückwärts gehen können. Sie können den Status nur in einen Status mit einem höheren oder gleichen Wert ändern. Verwenden Sie die gleichen Werte, wenn der Status hin- und herschalten soll, anstatt dass eine Progression durchgeführt wird.
+   >Die **Step**-Nummer wird zum Sortieren von Programm-Status verwendet. Denken Sie daran, dass die Leute in diesen Schritten nicht rückwärts gehen können. Sie können den Status nur in einen Status mit einem höheren oder gleichen Wert ändern. Verwenden Sie die gleichen Werte, wenn der Status hin- und herschalten soll, anstatt dass eine Progression durchgeführt wird.
 
-1. Geben Sie den **Status** des letzten Programms und die Nummer des **Schritts** ein.
+1. Geben Sie das letzte Programm **Status** und **Schritt** ein.
 
    ![](assets/image2014-9-24-15-3a39-3a15.png)
 
@@ -99,11 +99,11 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
    >
    >Bei Verwendung des Typs &quot;Ereignis&quot;ist eine Systemzuordnung für den Status &quot;Registered&quot;, &quot;Warteliste&quot;und &quot;Attended&quot;erforderlich. Daher können diese Status nicht ausgeblendet werden.
 
-1. Wählen Sie den **Mobile Check-in-Status** für die **Registrierung**.
+1. Wählen Sie für **Registered** den Status des mobilen Check-in **.**
 
    ![](assets/image2014-9-24-15-3a39-3a43.png)
 
-1. Wählen Sie den **Mobile Check-in-Status** für die **Teilnahme**.
+1. Wählen Sie **Mobile Checkin-Status** für **Anwesend**.
 
    ![](assets/image2014-9-24-15-3a40-3a21.png)
 
@@ -116,13 +116,13 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
    >**Erinnerung**
    >
    >
-   >In den **Mobile Check-in-Apps** werden nur Personen mit einem **Mobile Check-in-Status** ***** **Registered** und [Attended](http://docs.marketo.com/display/docs/events)angezeigt.
+   >Nur Personen mit einem **Mobile Check-in-Status***** **von **Registered** und **teilgenommen** werden in den [Mobile Check-in-Apps](http://docs.marketo.com/display/docs/events) angezeigt.
 
    >[!TIP]
    >
    >Wenn eine neue Person in der mobilen Check-in-App erstellt wird, wird sie auf &quot;Registriert&quot;im Ereignis-Programm eingestellt. Wenn eine Person in das Ereignis der App eingecheckt ist, wird sie auf Im Ereignis-Programm teilnehmen eingestellt.
 
-1. Wählen Sie den Status des **Erfolgs** -Programms und klicken Sie dann auf **Erstellen**.
+1. Wählen Sie den Programm-Status **success** und klicken Sie dann auf **Create**.
 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
