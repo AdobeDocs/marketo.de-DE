@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Hinzufügen Konkurrenten {#seo-add-competitors}
+# SEO - Hinzufügen Konkurrent {#seo-add-competitors}
 
 Durch Hinzufügen von Konkurrenten können Sie verfolgen, wie sie für dieselben Suchbegriffe und eingehenden Links funktionieren, die Sie überwachen möchten.
 
@@ -19,11 +19,11 @@ Durch Hinzufügen von Konkurrenten können Sie verfolgen, wie sie für dieselben
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Klicken Sie auf die Registerkarte **Konkurrent** .
+1. Klicken Sie auf die Registerkarte **Konkurrent**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
@@ -31,7 +31,7 @@ Durch Hinzufügen von Konkurrenten können Sie verfolgen, wie sie für dieselben
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Geben Sie den **Namen** und die **URL** Ihres Konkurrenten ein.
+1. Geben Sie **Name** und **URL** Ihres Konkurrenten ein.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
