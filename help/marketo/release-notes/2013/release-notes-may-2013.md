@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionshinweise: Mai 2013 {#release-notes-may}
 
-Die folgenden Funktionen sind in der Mai-Version enthalten. Überprüfen Sie Ihre [Marketing](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) auf Verfügbarkeit von Funktionen.
+Die folgenden Funktionen sind in der Mai-Version enthalten. Bitte überprüfen Sie Ihre [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php), um eine Funktionsverfügbarkeit zu erhalten.
 
-Achten Sie nach der Veröffentlichung darauf, in der Community auf der Registerkarte &quot; [Neue Version](release-notes-december-2013.md) &quot;detaillierte Knowledge Base-Artikel für jede Funktion zu finden!
+Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Knowledge Base-Artikel für jede Funktion zu erhalten!
 
 ## Kalenderdateien für Landingpages {#calendar-files-for-landing-pages}
 
@@ -29,7 +29,7 @@ Ansicht aller Daten Ihres Modellmitglieds an einem Ort, um eine einfache Überwa
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
-## Aktionsstruktur &quot;Neustrukturierter Fluss&quot; {#reorganized-flow-action-tree}
+## Aktionsstruktur für neu organisierten Fluss {#reorganized-flow-action-tree}
 
 Mit der neu organisierten Flussaktionsstruktur können Sie Flussaktionen schneller finden.
 
