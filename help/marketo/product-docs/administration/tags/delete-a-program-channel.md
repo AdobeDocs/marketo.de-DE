@@ -33,7 +33,7 @@ Wenn Sie einen versehentlich erstellen oder keinen mehr benötigen, können Sie 
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! Sie können bestimmte Status auch aus Kanälen [löschen](delete-a-program-status-from-a-program-channel.md).
+Bam! Sie können auch [bestimmte Status aus Kanälen](delete-a-program-status-from-a-program-channel.md) löschen.
 
 >[!MORELIKETHIS]
 >
