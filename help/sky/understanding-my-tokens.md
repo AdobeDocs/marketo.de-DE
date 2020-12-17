@@ -21,7 +21,7 @@ Meine Tokens sind benutzerspezifische Variablen, die Sie in Ihren Programmen ode
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-Um auf &quot;Meine Token&quot;zuzugreifen und diese zu erstellen, wählen Sie den Ordner &quot;Programm&quot;oder &quot;Kampagne&quot;aus und gehen Sie zur Registerkarte &quot; [!UICONTROL Meine Token] &quot;. Ziehen Sie ein beliebiges Token per Drag &amp; Drop auf die Arbeitsfläche [!UICONTROL Lokale Token] .
+Um My Tokens aufzurufen und zu erstellen, wählen Sie den Ordner &quot;Programm&quot;oder &quot;Kampagne&quot;aus und gehen Sie zur Registerkarte [!UICONTROL My Tokens]. Ziehen Sie ein beliebiges Token auf Ihre Arbeitsfläche [!UICONTROL Lokale Token].
 
 ![Bild eins](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -43,9 +43,9 @@ Wenn Sie ein neues Token erstellen, kann es von anderen Objekten in der Struktur
 
 * **Lokales Token:** Das Token wurde direkt in diesem Programm oder Ordner erstellt.
 * **[Überschriebenes Token:](/help/sky/override-an-inherited-my-token.md)** Das Token wurde geerbt, in diesem Programm oder Ordner wurde jedoch eine Ausnahme gemacht.
-* **Übernommenes Token:** Das Token wurde in der Struktur irgendwo in einem übergeordneten Programm oder Ordner erstellt.
+* **Erbtes Token:** Das Token wurde in einem übergeordneten Programm oder Ordner in der Struktur erstellt.
 
-Sie finden diese drei Typen auf der Registerkarte &quot; **[!UICONTROL Meine Token]** &quot;im Ordner &quot;Programm&quot;oder &quot;Kampagne&quot;.
+Sie finden diese drei Typen auf der Registerkarte **[!UICONTROL Meine Token]** im Ordner &quot;Programm&quot;oder &quot;Kampagne&quot;.
 
 ![Bild zwei](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
