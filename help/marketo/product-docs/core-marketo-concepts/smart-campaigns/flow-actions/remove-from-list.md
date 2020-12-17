@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Aus Liste entfernen {#remove-from-list}
+# Aus Liste {#remove-from-list} entfernen
 
 ## Übersicht {#overview}
 
-Da Sie die Möglichkeit haben, ** [Hinzufügen Liste](add-to-list.md)** zu verwenden, benötigen Sie auch eine Möglichkeit, Menschen aus Listen zu entfernen.
+Da Sie die Möglichkeit haben, ** [Hinzufügen zu Liste](add-to-list.md)*** zu führen, benötigen Sie auch eine Möglichkeit, um Personen aus Listen zu entfernen.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Wählen Sie die **Liste** aus, aus der die Personen entfernt werden sollen.
 
