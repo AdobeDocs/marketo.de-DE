@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Programm-Bericht nach Programm filtern {#filter-a-program-report-by-program}
+# Filtern eines Programm-Berichts nach Programm {#filter-a-program-report-by-program}
 
-Konzentrieren Sie Ihren [Programm-Leistungsbericht](create-a-program-performance-report.md) auf bestimmte Programm, um ihre Leistung zu vergleichen.
+Konzentrieren Sie den [Programm-Leistungsbericht](create-a-program-performance-report.md) auf bestimmte Programm, um ihre Leistung zu vergleichen.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten** (oder **Analytics**).
+1. Gehen Sie zu **Marketing** **Aktivitäten** (oder **Analytics**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Konzentrieren Sie Ihren [Programm-Leistungsbericht](create-a-program-performance
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** und ziehen Sie über **Programme**.
+1. Klicken Sie auf die Registerkarte **Setup** und ziehen Sie über **Programm**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,7 +35,7 @@ Konzentrieren Sie Ihren [Programm-Leistungsbericht](create-a-program-performance
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Inhalte dieses Ordners zum Zeitpunkt der Ausführung des Berichts.
 
-1. Das ist alles! Klicken Sie auf die Registerkarte **Bericht** , um *nur* die ausgewählten Programm in Ihrem Bericht anzuzeigen.
+1. Das ist alles! Klicken Sie auf die Registerkarte **Bericht**, um *nur* die ausgewählten Programm in Ihrem Bericht anzuzeigen.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
@@ -53,5 +53,5 @@ Konzentrieren Sie Ihren [Programm-Leistungsbericht](create-a-program-performance
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über Berichte in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
