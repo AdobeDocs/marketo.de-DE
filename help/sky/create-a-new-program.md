@@ -14,16 +14,16 @@ ht-degree: 0%
 
 <br> 
 
-Programme sind eines der wichtigsten Elemente in [!DNL Marketo]. Du wirst sie viel benutzen!
+Programm sind eines der wichtigsten Elemente in [!DNL Marketo]. Du wirst sie viel benutzen!
 
-1. Klicken Sie mit der rechten Maustaste auf den Arbeitsbereich-Globus oben in der Struktur und wählen Sie **[!UICONTROL Neues Programm]** aus der Dropdownliste.
+1. Klicken Sie mit der rechten Maustaste auf den Workspace-Globus oben in der Struktur und wählen Sie **[!UICONTROL Neues Programm]** aus der Dropdownliste.
 
    ![Bild eins](/help/sky/assets/programs/create-a-new-program/create-a-new-program-1.png)
 
-1. Geben Sie einen Namen für das neue Programm ein. Wählen Sie dann in den entsprechenden Dropdownfeldern den [!UICONTROL Typ], den [!UICONTROL Arbeitsbereich], den [!UICONTROL Zielordner] und den [!UICONTROL Kanal] aus.
+1. Geben Sie einen Namen für das neue Programm ein. Wählen Sie dann den Ordner [!UICONTROL Typ], [!UICONTROL Workspace], [!UICONTROL Ziel] und [!UICONTROL Kanal] aus den entsprechenden Dropdownfeldern.
 
    ![Bild zwei](/help/sky/assets/programs/create-a-new-program/create-a-new-program-2.png)
 
-1. Optional können Sie eine [!UICONTROL Beschreibung] eingeben und/oder Ihrem Programm [!UICONTROL Beschriftungen] hinzufügen. Klicken Sie auf **[!UICONTROL Hinzufügen]** , um das Programm zu erstellen.
+1. Optional können Sie eine [!UICONTROL Beschreibung] eingeben und/oder [!UICONTROL Beschriftungen] zu Ihrem Programm hinzufügen. Klicken Sie auf **[!UICONTROL Hinzufügen]**, um das Programm zu erstellen.
 
    ![Bild drei](/help/sky/assets/programs/create-a-new-program/create-a-new-program-3.png)
