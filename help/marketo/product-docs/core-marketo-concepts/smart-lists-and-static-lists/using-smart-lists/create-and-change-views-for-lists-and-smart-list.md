@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Ansichten für Listen und intelligente Liste erstellen und ändern {#create-and-change-views-for-lists-and-smart-list}
+# Erstellen und Ändern von Ansichten für Listen und intelligente Liste {#create-and-change-views-for-lists-and-smart-list}
 
 Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du diese Spalten inhaltlich bearbeiten könntest? So geht es.
 
-## Eine Ansicht erstellen {#create-a-view}
+## Eine Ansicht {#create-a-view} erstellen
 
-1. Gehen Sie zu einer Liste oder intelligenten Liste, klicken Sie auf die Registerkarte &quot; **Personen** &quot;und klicken Sie dann unter der Dropdownliste &quot; **Ansicht** &quot;auf &quot; **Ansicht** **** erstellen&quot;.
+1. Gehen Sie zu einer Liste oder intelligenten Liste, klicken Sie auf die Registerkarte **Personen** und klicken Sie unter der Dropdownliste **Ansicht** auf **Ansicht**.****
 1. ![](assets/smartlist-createview.png)
 
 1. Benennen Sie die Ansicht und suchen Sie die Spalte, die Sie hinzufügen oder entfernen möchten.
@@ -30,9 +30,9 @@ Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du
 
 >[!TIP]
 >
->Um schnell zu suchen, verwenden Sie das **Feld Suchen** .
+>Um schnell zu suchen, verwenden Sie das Feld **Suchen**.
 
-## Ansichten wechseln {#switch-views}
+## Ansichten {#switch-views} wechseln
 
 1. Klicken Sie auf die Dropdownliste **Ansicht** und wählen Sie dann die gewünschte Ansicht aus. Wechseln Sie nach Bedarf zwischen Ansichten.
 
@@ -42,13 +42,13 @@ Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du
 >
 > Sie müssen zunächst eine zweite Ansicht zusätzlich zur standardmäßigen Ansicht erstellen, um die Ansichten zu wechseln.
 
-## Eine Ansicht bearbeiten {#edit-a-view}
+## Bearbeiten einer Ansicht {#edit-a-view}
 
-1. Vergewissern Sie sich, dass die zu bearbeitende Ansicht in der Dropdownliste **Ansicht** ausgewählt ist.
+1. Vergewissern Sie sich, dass die zu bearbeitende Ansicht in der Dropdown-Liste **Ansicht** ausgewählt ist.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Klicken Sie auf die Option **Bearbeiten** .
+1. Klicken Sie auf die Option **Bearbeiten**.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -60,7 +60,7 @@ Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du
 
 ## Löschen einer Ansicht {#delete-a-view}
 
-1. Wählen Sie die Option &quot; **Bearbeiten** &quot;für die Ansicht aus, die Sie aus der Dropdownliste &quot; **Ansicht** &quot;löschen möchten.
+1. Wählen Sie die Option **Bearbeiten** für die Ansicht, die Sie aus der Dropdownliste **Ansicht** löschen möchten.
 
    ![](assets/smartlist-editcustomview.png)
 
