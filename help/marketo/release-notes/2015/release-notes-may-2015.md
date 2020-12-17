@@ -29,11 +29,11 @@ Wir veröffentlichen einen neuen Landingpage-Bearbeitungsmodus und eine Vorlagen
 
 Haben Sie auf Senden geklickt, bevor ein E-Mail-Programm zum Ausgehen bereit war? Ziehen Sie die Bremsen mit der neuen Schaltfläche zum Abbrechen des E-Mail-Programms. Dadurch werden E-Mail-Programme während des Fluges direkt auf ihren Spuren beendet.
 
-## E-Mail-Auslieferung  {#email-deliverability}
+## E-Mail-Auslieferbarkeit {#email-deliverability}
 
 Marketo führt nun wöchentliche automatisierte SPF- und DKIM-Prüfungen für Ihre hinzugefügten Domänen durch. Überzeugen Sie sich davon, indem Sie Ihre Benachrichtigungen überprüfen.
 
-## Änderung des Verhaltens der E-Mail-Vorlage {#email-template-behavior-change}
+## Verhalten der E-Mail-Vorlage ändern {#email-template-behavior-change}
 
 Ab dieser Version sind gültige HTML-Kommentare jetzt zulässig und werden beim Erstellen neuer E-Mails nicht entfernt.
 
