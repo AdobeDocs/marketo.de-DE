@@ -21,7 +21,7 @@ Um eine erstklassige Zustellbarkeit zu gewährleisten, signieren wir automatisch
 
 Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl widerzuspiegeln. So geht es.
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -30,7 +30,7 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
    >
    >Wenn Sie eine benutzerdefinierte DKIM-Signatur auf die altmodische Weise einrichten, funktioniert sie weiterhin und sollte hier angezeigt werden.
 
-1. Klicken Sie auf **E-Mail**, dann auf die Registerkarte **DKIM** und schließlich auf **Hinzufügen Domäne**.
+1. Klicken Sie auf **E-Mail**, dann auf die Registerkarte **DKIM** und schließlich **Hinzufügen Domäne**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
@@ -43,11 +43,11 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Senden Sie den **Hostdatensatz** und den **TXT-Wert** an Ihre IT-Abteilung. Bitten Sie sie, den Datensatz für Sie zu erstellen und sicherzustellen, dass er an alle Nameserver weitergegeben wird, die mit der from-Domäne verknüpft sind. Zur DKIM-Verifizierung von Marketo muss der DKIM-Schlüssel an alle Nameserver weitergegeben werden, die mit der Domäne verbunden sind, die DKIM-signiert ist.
+1. Senden Sie den **Hostdatensatz** und den **TXT-Wert** an Ihre IT. Bitten Sie sie, den Datensatz für Sie zu erstellen und sicherzustellen, dass er an alle Nameserver weitergegeben wird, die mit der from-Domäne verknüpft sind. Zur DKIM-Verifizierung von Marketo muss der DKIM-Schlüssel an alle Nameserver weitergegeben werden, die mit der Domäne verbunden sind, die DKIM-signiert ist.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
-1. Sobald der Benutzer bestätigt hat, dass er den Datensatz erstellt hat, kehren Sie zu Marketo zurück, wählen Sie Ihre Domäne und klicken Sie auf DNS **überprüfen**.
+1. Sobald der Benutzer bestätigt hat, dass er den Datensatz erstellt hat, kehren Sie zu Marketo zurück, wählen Sie Ihre Domäne und klicken Sie auf **DNS** prüfen.
 
    ![](assets/check.png)
 
