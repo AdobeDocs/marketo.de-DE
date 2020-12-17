@@ -24,7 +24,7 @@ ht-degree: 0%
 ## Unterstützte Zielanwendungen {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics (**nur** , wenn Sie eine Adobe Audience Manager-Lizenz besitzen)
+* Adobe Analytics (**nur**, wenn Sie eine Adobe Audience Manager-Lizenz besitzen)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe Echtzeit-Kundendatenplattform
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klicken Sie auf die Dropdownliste Aktionen für **Listen** und wählen Sie **An Experience Cloud** senden.
+1. Klicken Sie auf die Dropdown-Liste **Liste Aktionen** und wählen Sie **An Experience Cloud senden**.
 
    ![](assets/two-1.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
    >
    >Es kann bis zu 6-8 Stunden dauern, bis die Audience in der Adobe voll gefüllt ist.
 
-## Hinweise {#things-to-note}
+## Dinge zu beachten {#things-to-note}
 
 **Freigeben für Adobe Analytics**
 
@@ -70,7 +70,7 @@ Wenn Sie einen Export von Listen in Marketo starten, werden die folgenden Änder
 * Für alle ECIDs, die Marketo mit den Interessenten in der exportierten Liste abgleichen konnte, schreibt Marketo eine Eigenschaft mit der ECID-Gerätekennung. Der Name der Eigenschaft stimmt mit dem Namen der Ziel-Audience überein, den Sie während des Exports angegeben haben.
 * Marketo erstellt auch ein Segment in Ihrer Audience Manager-Instanz mit dem ECID-Merkmal als einziges Segmentierungskriterium. Der Segmentname entspricht dem Segmentnamen, den Sie während des Exports angegeben haben.
 
-## Häufig gestellte Fragen {#faq}
+## FAQ {#faq}
 
 **Warum unterscheidet sich die Liste in Marketo von der in der Adobe?**
 
