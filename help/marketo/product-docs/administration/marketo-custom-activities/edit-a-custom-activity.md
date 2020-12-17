@@ -19,7 +19,7 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerspezifischen Aktivit
 
    ![](assets/one-1.png)
 
-1. Klicken Sie in **Datenbankverwaltung** auf **Benutzerspezifische Aktivitäten**.
+1. Klicken Sie unter **Datenbankverwaltung** auf **Benutzerspezifische Aktivitäten**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +27,7 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerspezifischen Aktivit
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Benutzerdefinierte Aktionen** zur Aktivität und wählen Sie Aktivität **bearbeiten**.
+1. Klicken Sie auf **Benutzerspezifische Aktionen für Aktivitäten** und wählen Sie **Aktivität bearbeiten**.
 
    ![](assets/four-1.png)
 
