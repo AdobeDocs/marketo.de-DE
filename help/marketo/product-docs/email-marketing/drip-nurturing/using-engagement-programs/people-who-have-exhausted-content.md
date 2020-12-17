@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Wenn eine Person alle Inhalte in einem Stream erhalten hat, hat sie alle Möglichkeiten ausgeschöpft und wartet untätig, bis mehr hinzugefügt wird. Man kann Menschen finden, die &quot;erschöpft&quot; sind auf verschiedene Weise.
 
-## Programm-Filter für Mitglieder {#member-of-engagement-program-filter}
+## Programm-Filter {#member-of-engagement-program-filter}
 
-1. Erstellen Sie eine neue intelligente Liste und ziehen Sie dann den Filter &quot; **Mitglied des Programms** Interaktion&quot;.
+1. Erstellen Sie eine neue intelligente Liste, suchen Sie und ziehen Sie dann den Filter **Member of Engagement Programm**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,27 +25,27 @@ Wenn eine Person alle Inhalte in einem Stream erhalten hat, hat sie alle Möglic
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Wählen Sie unter &quot; **Hinzufügen Einschränkung**&quot;die Option **Abgelaufener Inhalt**.
+1. Wählen Sie unter **Hinzufügen Constraint** **Abgelaufener Inhalt**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Legen Sie für **abgelaufenen Inhalt** den Wert **true** fest.
+1. Setzen Sie **Ausgezogener Inhalt** auf **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
    Führen Sie einfach diese intelligente Liste aus, um die Liste von Personen zu sehen, die alle Inhalte im Stream, in dem sie sich befinden, ausgeschöpft haben.
 
-## Registerkarte &quot;Mitglieder&quot; {#members-tab}
+## Mitglieder, Registerkarte {#members-tab}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und gehen Sie zur Registerkarte &quot; **Mitglieder** &quot;.
+1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Mitglieder**.
 
    ![](assets/memberstab.jpg)
 
-1. Beachten Sie die Spalte &quot; **Abgelaufener Inhalt**&quot;.
+1. Beachten Sie die Spalte **Abgelaufener Inhalt**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
