@@ -32,7 +32,7 @@ Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, e
 >
 >**Tieftauchen**
 >
->Weitere Informationen zur [ReST-API](http://developers.marketo.com/documentation/rest/)finden Sie in der Entwicklerdokumentation. Wir haben auch die [SOAP API](http://developers.marketo.com/documentation/soap/) , wenn Sie das brauchen.
+>Weitere Informationen zur [ReST-API](http://developers.marketo.com/documentation/rest/) finden Sie in der Entwicklerdokumentation. Wir haben auch die [SOAP-API](http://developers.marketo.com/documentation/soap/), wenn Sie das benötigen.
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, e
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Geben Sie einen **Anzeigenamen** für den Dienst ein. Wählen Sie die **API &quot;Nur Benutzer** &quot;aus, die [zuvor erstellt wurde](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Geben Sie einen **Anzeigenamen** für den Dienst ein. Wählen Sie **Nur Benutzer** [Zuvor erstellte](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md) aus.
 
    >[!NOTE]
    >
@@ -70,15 +70,15 @@ Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, e
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Klicken Sie für den oben erstellten benutzerdefinierten LaunchPoint-Dienst auf **Ansicht Details** .
+1. Klicken Sie für den oben erstellten benutzerdefinierten LaunchPoint-Dienst auf **Ansicht Details**.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
-1. Klicken Sie auf Token **abrufen**.
+1. Klicken Sie auf **Get Token**.
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Geben Sie die** Client-ID**, den geheimen **Clientschlüssel**, den **autorisierten Benutzer** und das **Token** an die für die Herstellung der Verbindung zuständige Person an.
+1. Geben Sie die** Client-ID*, **geheimer Clientschlüssel**, **autorisierter Benutzer** und **Token** an die Person weiter, die für die Herstellung der Verbindung zuständig ist.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
