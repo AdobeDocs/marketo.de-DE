@@ -17,7 +17,7 @@ Mit der globalen Überlagerung in der Ansicht &quot;Programmplanung&quot;können
 
 >[!PREREQUISITES]
 >
->Sie benötigen eine [Marketing-Kalender-Lizenz](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) , um diese Funktion nutzen zu können.
+>Sie müssen über eine [Marketing-Kalender-Lizenz](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) verfügen, um diese Funktion nutzen zu können.
 
 ## Globale Überlagerung verwenden {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ Mit der globalen Überlagerung in der Ansicht &quot;Programmplanung&quot;können
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Wählen Sie **Überlagerung** unten rechts aus.
+1. Wählen Sie **Überlagerung** in der unteren rechten Ecke aus.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,7 +39,7 @@ Mit der globalen Überlagerung in der Ansicht &quot;Programmplanung&quot;können
 
 ## Verwenden eines gespeicherten Filters als Überlagerung {#use-a-saved-filter-as-an-overlay}
 
-Wenn Sie einen Filter im Marketingkalender [gespeichert haben](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), können Sie ihn als Überlagerung in der Ansicht &quot;Programmplanung&quot;verwenden.
+Wenn Sie im Marketingkalender[ einen Filter gespeichert haben, können Sie ihn als Überlagerung in der Ansicht &quot;Programmplanung&quot;verwenden.](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 1. Klicken Sie auf die Dropdownliste **Überlagerung** und wählen Sie Ihre Filterdefinition aus.
 
