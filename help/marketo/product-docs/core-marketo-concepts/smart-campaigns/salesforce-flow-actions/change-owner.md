@@ -27,10 +27,10 @@ Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewi
    >
    >Salesforce lässt die Zuweisung von Kontakten zu Interessentenwarteschlangen nicht zu. Für einen Datensatz, der ein SFDC-Kontakt ist:
    >
-   >1. Marketo erstellt einen Duplikat-Lead **nur** , wenn der Kontakt mit Salesforce synchronisiert wird. Anders ausgedrückt, wenn Sie den **[Synchronisierungsbenutzer zum SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** -Flussschritt mit verwenden `AssignTo=<a lead queue>`, erstellt Marketo einen Duplikat-Lead in Salesforce und weist ihn der Interessentenwarteschlange zu.
+   >1. Marketo erstellt einen Duplikat-Lead **nur**, wenn der Kontakt mit Salesforce synchronisiert wird. Anders ausgedrückt: Wenn Sie den Schritt **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** mit `AssignTo=<a lead queue>` verwenden, erstellt Marketo einen Duplikat-Lead in Salesforce und weist ihn der Interessentenwarteschlange zu.
       >
       >
-   2. Wenn Sie versuchen, bei einem Kontakt den Flussschritt **zum Ändern des Inhabers** zu verwenden, wird kein Duplikat in Salesforce erstellt.
+   2. Wenn Sie versuchen, den Flussschritt **Ändern des Inhabers** für einen Kontakt zu verwenden, wird in Salesforce kein Duplikat erstellt.
 
 
    >[!NOTE]
