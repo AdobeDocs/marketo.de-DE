@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hinzufügen in einem Flussschritt verwenden {#use-add-choice-in-a-flow-step}
+# Hinzufügen in einem Flussschritt {#use-add-choice-in-a-flow-step} verwenden
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 
 
-**Bei Hinzufügen Auswahl** können Sie einen Flussschritt verwenden und bei der Auswahl der Details &quot;Es kommt darauf an&quot; sagen.
+**hinzufügen** Auswahlmöglichkeiten verwenden Sie einen Flussschritt und sagen &quot;Es kommt darauf an&quot;, wenn Sie die Details auswählen.
 
-1. Fügen Sie unter der Registerkarte &quot; **Fluss** &quot;der intelligenten Kampagne jeden Flussschritt hinzu und klicken Sie dann auf **Hinzufügen Auswahl**.
+1. Fügen Sie unter der Registerkarte **Fluss** der intelligenten Kampagne jeden Flussschritt hinzu und klicken Sie dann auf **Hinzufügen Auswahl**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Tokens funktionieren **nicht** im Bedingungsschritt eines Auswahlablaufes.
+   >Tokens funktionieren nicht **nicht** im Bedingungsschritt eines Auswahlablaufs.
 
 1. Wiederholen Sie die oben genannten Schritte, um mehrere Auswahlmöglichkeiten hinzuzufügen, und fügen Sie dann den Standardwert hinzu bzw. passen Sie ihn an.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Nur die erste passende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie Sie &quot;Hinzufügen Auswahl&quot;in einer Flussaktion [neu anordnen](reorder-add-choice-in-a-flow-step.md).
+   >Nur die erste passende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie Sie [die Hinzufügen in einer Flussaktion](reorder-add-choice-in-a-flow-step.md) neu anordnen.
 
    >[!NOTE]
    >
