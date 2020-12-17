@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Kopfzeile bearbeiten {#edit-your-email-header}
+# Bearbeiten der E-Mail-Kopfzeile {#edit-your-email-header}
 
 Die E-Mail-Kopfzeile in Marketo ist vollständig anpassbar. Es umfasst vier Bereiche:
 
-* **Von** - Der Name des Absenders, wie er angezeigt werden soll
-* **Von Adresse** - Die E-Mail-Adresse des Absenders, wie sie angezeigt werden soll
-* **Antwort an** - Die E-Mail-Adresse, an die die Antwort einer Person gesendet werden soll (kann sich von der Adresse unterscheiden)
-* **Betreff** - Betreffzeile der E-Mail
+* **Von**  - Der Name des Absenders, wie er angezeigt werden soll
+* **Von Adresse**  - Die E-Mail-Adresse des Absenders, wie sie angezeigt werden soll
+* **Antwort an** : Die E-Mail-Adresse, an die die Antwort einer Person gesendet werden soll (kann sich von der Adresse unterscheiden)
+* **Betreff** : Betreffzeile der E-Mail
 
 Um diese Werte zu bearbeiten, klicken Sie in die einzelnen Felder und geben Sie Ihre Informationen ein.
 
@@ -26,7 +26,7 @@ Um diese Werte zu bearbeiten, klicken Sie in die einzelnen Felder und geben Sie 
 
 >[!TIP]
 >
->Informationen zum Festlegen einer Standardeinstellung für &quot;Von Name&quot;und &quot;Von E-Mail&quot;finden Sie unter [Ändern der Standardeinstellung von &quot;E-Mail&quot;und &quot;Von Beschriftung](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)&quot;.
+>Informationen zum Festlegen der Standardeinstellung &quot;Von Name&quot;und &quot;Von E-Mail&quot;finden Sie unter [Standardeinstellung von E-Mail und von Beschriftung](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md) ändern.
 
 Wenn Sie ein Token verwenden möchten, klicken Sie zuerst in das gewünschte Feld und dann auf das Tokensymbol.
 
