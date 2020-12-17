@@ -19,7 +19,7 @@ Ups! Schlag die Bremsen! Dieses E-Mail-Programm sollte nicht ausgehen.
 >
 >Dieser Artikel soll verhindern, dass E-Mails vor dem Versand gesendet werden. Es gibt keine Möglichkeit, gesendete E-Mails zurückzurufen.
 
-1. Klicken Sie in einem E-Mail-Programm auf Programm **abbrechen.**
+1. Klicken Sie in einem E-Mail-Programm auf **Programm abbrechen.**
 
    ![](assets/dashboardleads.jpg)
 
