@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Präsentation starten {#launch-a-presentation}
+# Eine Präsentation {#launch-a-presentation} starten
 
 Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt haben, ist es Zeit, sich zu stürzen!
 
@@ -32,13 +32,13 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 
 >[!TIP]
 >
->Stellen Sie sicher, dass eine Präsentation **Vorschau** wird, bevor Sie starten.
+>Stellen Sie vor dem Start sicher, dass **Vorschau eine Präsentation** ausgeführt wird.
 
-1. Klicken Sie auf **Starten**.
+1. Klicken Sie auf **Launch**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klicken Sie erneut auf **Starten** . Dadurch melden Sie sich bei Marketo ab, damit die Präsentation sicher angezeigt werden kann.
+1. Klicken Sie erneut auf **Starten**. Dadurch melden Sie sich bei Marketo ab, damit die Präsentation sicher angezeigt werden kann.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
