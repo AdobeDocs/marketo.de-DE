@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Teilen eines Moments {#sharing-a-moment}
+# Freigeben eines Moments {#sharing-a-moment}
 
 Möchten Sie Ihr Team aktualisieren? Sie haben zwei Möglichkeiten zum Freigeben:
 
@@ -19,7 +19,7 @@ Möchten Sie Ihr Team aktualisieren? Sie haben zwei Möglichkeiten zum Freigeben
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. Tippen Sie auf das Kartenmenü und dann im Bildschirm &quot;Details&quot;auf **Freigeben** .
+1. Tippen Sie auf das Kartenmenü und dann im Bildschirm &quot;Details&quot;auf **Freigeben**.
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
