@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Standardmäßige Branding-Domäne mit Arbeitsbereichen bearbeiten {#edit-your-default-branding-domain-with-workspaces}
+# Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen {#edit-your-default-branding-domain-with-workspaces}
 
 1. Gehen Sie zu **Admin** und klicken Sie dann auf **E-Mail**.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**hinzufügen**** **funktioniert erst, wenn Sie die generische Domäne bearbeitet haben.** Löschen ******funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
+   >**hinzufügen****  **funktioniert erst, wenn Sie die generische Domäne bearbeitet haben.** Löschen ******funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
    >
    >Sie können erst eine zusätzliche Domäne hinzufügen, wenn Sie die allgemeine Domäne zum ersten Mal bearbeiten.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >Wenn Sie zusätzliche Branding-Domänen hinzufügen, können Sie diese als primäre Domäne für einen oder mehrere Arbeitsbereiche festlegen. Alle vorhandenen nicht gesendeten E-Mails mit der Einstellung &quot;Standard&quot;und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domäne eingestellt. Sie können dies per E-Mail außer Kraft setzen.
 
-Jetzt können Sie zusätzliche Branding-Domänen [](add-an-additional-branding-domain-with-workspaces.md) hinzufügen, die Sie für die Arbeitsflächen benötigen.
+Jetzt können Sie [zusätzliche Branding-Domänen](add-an-additional-branding-domain-with-workspaces.md) hinzufügen, die Sie für die Arbeitsbereiche benötigen.
 
 >[!MORELIKETHIS]
 >
