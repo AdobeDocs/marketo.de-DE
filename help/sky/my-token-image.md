@@ -16,7 +16,7 @@ ht-degree: 0%
 
 So richten Sie ein Bild-Token für die Verwendung in Ihren Programmen und Kampagnen-Ordnern ein.
 
-1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein **Bild** -Token auf die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
+1. Ziehen Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Programms oder Ordners ein Token **Image** in die Arbeitsfläche [!UICONTROL Lokale Token].
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
@@ -24,6 +24,6 @@ So richten Sie ein Bild-Token für die Verwendung in Ihren Programmen und Kampag
 
    ![Bild zwei](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-Alternativ können Sie ein vorhandenes Bild aus [!UICONTROL Design Studio]auswählen. Klicken Sie auf **[!UICONTROL Speichern]**.
+Alternativ können Sie ein vorhandenes Bild aus dem [!UICONTROL Design Studio] auswählen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Bild drei](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)
