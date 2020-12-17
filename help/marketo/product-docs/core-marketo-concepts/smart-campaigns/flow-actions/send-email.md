@@ -19,7 +19,7 @@ Der Schritt **E-Mail senden **Textfluss kann als Teil von Kampagnen oder als ein
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 Sie können die ausgewählte E-Mail direkt im Flussschritt Vorschau werden.
 
