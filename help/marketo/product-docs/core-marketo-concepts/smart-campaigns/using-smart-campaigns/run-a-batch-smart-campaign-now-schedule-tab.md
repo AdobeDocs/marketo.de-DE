@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Intelligente Batch-Kampagne jetzt ausführen | Registerkarte &quot;Plan&quot; {#run-a-batch-smart-campaign-now-schedule-tab}
+# Intelligente Batch-Kampagne jetzt ausführen | Registerkarte Plan {#run-a-batch-smart-campaign-now-schedule-tab}
 
 Nachdem Sie die Batch-Kampagne erstellt haben, können Sie sie jetzt oder später ausführen. So kann man es sofort ausführen.
 
@@ -23,11 +23,11 @@ Nachdem Sie die Batch-Kampagne erstellt haben, können Sie sie jetzt oder späte
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
-1. Bestätigen Sie dies, indem Sie erneut auf **Ausführen** klicken.
+1. Bestätigen Sie dies, indem Sie noch einmal auf **Ausführen** klicken.
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Leichte Pause! Sie können die Ausführung auch für später [](schedule-a-batch-smart-campaign-to-run-later.md) planen.
+   Leichte Pause! Sie können auch [planen, dass die Ausführung für später](schedule-a-batch-smart-campaign-to-run-later.md) ausgeführt wird, wenn Sie möchten.
 
    >[!NOTE]
    >
