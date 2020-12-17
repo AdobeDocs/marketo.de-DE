@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtern von Aktivitäten im Benutzerprotokoll einer Aktivität {#filter-activity-types-in-the-activity-log-of-a-person}
+# Filtern von Aktivitäten im Aktivitäten-Protokoll einer Person {#filter-activity-types-in-the-activity-log-of-a-person}
 
 Suchen Sie im Aktivitäten-Protokoll nach Aktivitäten, die für Sie am wichtigsten sind.
 
@@ -19,9 +19,9 @@ Suchen Sie im Aktivitäten-Protokoll nach Aktivitäten, die für Sie am wichtigs
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr über [das Protokoll](locate-the-activity-log-for-a-person.md)zur Aktivität.
+>Erfahren Sie mehr über [das Aktivitäten-Protokoll](locate-the-activity-log-for-a-person.md).
 
-1. Gehen Sie zur Seite &quot; **Personendetails** &quot;. Klicken Sie auf die Registerkarte **Aktivität** .
+1. Gehen Sie zur Seite **Personendetails**. Klicken Sie auf die Registerkarte **Aktivität Log**.
 
    ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Suchen Sie im Aktivitäten-Protokoll nach Aktivitäten, die für Sie am wichtigs
 
 ## Erstellen benutzerdefinierter Filter {#creating-custom-filters}
 
-1. Klicken Sie auf die Dropdownliste **Filter** . Wählen Sie **Benutzerdefiniert**.
+1. Klicken Sie auf die Dropdownliste **Filter**. Wählen Sie **Benutzerdefiniert**.
 
    ![](assets/three-3.png)
 
@@ -47,11 +47,11 @@ Suchen Sie im Aktivitäten-Protokoll nach Aktivitäten, die für Sie am wichtigs
 
    ![](assets/six-1.png)
 
-## Referenz gespeicherte Filter {#reference-saved-filters}
+## Referenz Gespeicherte Filter {#reference-saved-filters}
 
 Gespeicherte Filter können über die Dropdownliste **Filter** aufgerufen werden.
 
-1. Klicken Sie auf die Dropdownliste **Filter** . Wählen Sie **Benutzerdefiniert**.
+1. Klicken Sie auf die Dropdownliste **Filter**. Wählen Sie **Benutzerdefiniert**.
 
    ![](assets/seven-1.png)
 
