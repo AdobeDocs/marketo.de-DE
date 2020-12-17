@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Intelligente Liste für intelligente Kampagne definieren | Stapel {#define-smart-list-for-smart-campaign-batch}
+# Intelligente Liste für intelligente Kampagne definieren | Batch {#define-smart-list-for-smart-campaign-batch}
 
 Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot;(welche Personen) definiert werden soll, ob es sich um einen Bericht, eine Liste oder eine intelligente Kampagne handelt. So definieren Sie eine intelligente Liste für eine Batch-Kampagne.
 
@@ -25,14 +25,14 @@ Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot
 
    >[!NOTE]
    >
-   >Eine intelligente Kampagne mit nur Filtern wird im **Stapelmodus** ausgeführt. Es findet Personen in der Datenbank, die sich auf Grundlage der Filter qualifizieren, und führt sie alle gleichzeitig durch den Fluss.
+   >Eine intelligente Kampagne mit nur Filtern wird im Modus **Batch** ausgeführt. Es findet Personen in der Datenbank, die sich auf Grundlage der Filter qualifizieren, und führt sie alle gleichzeitig durch den Fluss.
 
    >[!NOTE]
    >
    >**Erinnerung**
    >
    >
-   >Sie können eine intelligente Kampagne basierend auf Live-Ereignissen einzeln ausführen, indem Sie Auslöser hinzufügen, wodurch die intelligente Kampagne im **Auslösermodus** ausgeführt wird.
+   >Sie können eine intelligente Kampagne basierend auf Live-Ereignissen einzeln ausführen lassen, indem Sie Auslöser hinzufügen, wodurch die intelligente Kampagne im Modus **Auslöser** ausgeführt wird.
 
 1. Klicken Sie auf die Dropdownliste und wählen Sie einen Filteroperator für den ausgewählten Filter.
 
@@ -48,9 +48,9 @@ Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot
 
    >[!NOTE]
    >
-   >Standardmäßig sind Personen, die ALLE Regeln der intelligenten Liste erfüllen, qualifiziert. Dies kann an Ihre Kampagne angepasst werden. Weitere Informationen finden Sie unter [Intelligente Listen für komplexe Logik](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) .
+   >Standardmäßig sind Personen, die ALLE Regeln der intelligenten Liste erfüllen, qualifiziert. Dies kann an Ihre Kampagne angepasst werden. Weitere Informationen finden Sie unter [Intelligente Liste für Complex Logic](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md).
 
-   So aktivieren Sie die Option &quot;Intelligente Liste für intelligente Kampagne [definieren&quot; | Auslöser](define-smart-list-for-smart-campaign-trigger.md).
+   Erfahren Sie, wie Sie bei Live-Ereignissen jeweils eine Person auslösen können, indem Sie [Intelligente Liste für intelligente Kampagne definieren | Auslöser](define-smart-list-for-smart-campaign-trigger.md).
 
    >[!NOTE]
    >
