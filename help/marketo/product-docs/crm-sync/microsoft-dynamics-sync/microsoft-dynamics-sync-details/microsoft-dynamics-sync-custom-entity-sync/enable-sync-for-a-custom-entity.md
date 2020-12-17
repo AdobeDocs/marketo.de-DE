@@ -19,11 +19,11 @@ Wenn Sie benutzerdefinierte Entitätsdaten von Dynamics benötigen, um in Market
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Wählen Sie **Microsoft Dynamics** und klicken Sie auf **Synchronisierung** deaktivieren.
+1. Wählen Sie **Microsoft Dynamics** und klicken Sie auf **Synchronisierung deaktivieren**.
 
    Sie müssen die globale Synchronisierung vorübergehend deaktivieren, um eine benutzerdefinierte Entität zu aktivieren oder zu deaktivieren.
    ![](assets/image2015-11-10-9-3a0-3a6.png)
@@ -32,15 +32,15 @@ Wenn Sie benutzerdefinierte Entitätsdaten von Dynamics benötigen, um in Market
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Klicken Sie auf den Link **Schema** synchronisieren.
+1. Klicken Sie auf den Link **Schema synchronisieren**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Wählen Sie die Entität aus, die Sie synchronisieren möchten, und klicken Sie auf &quot;Synchronisierung **aktivieren&quot;**.
+1. Wählen Sie die Entität aus, die Sie synchronisieren möchten, und klicken Sie auf **Synchronisierung aktivieren**.
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Wählen Sie die zu synchronisierenden oder als [Einschränkungen](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Auslöser in intelligenten Listen zu verwendenden Felder aus. Klicken Sie abschließend auf **Synchronisierung** aktivieren.
+1. Wählen Sie die zu synchronisierenden oder als [constraints](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Auslöser in intelligenten Listen zu verwendenden Felder aus. Klicken Sie abschließend auf **Synchronisierung aktivieren**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
