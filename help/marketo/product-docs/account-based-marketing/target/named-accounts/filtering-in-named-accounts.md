@@ -25,17 +25,17 @@ Die Filterung ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Es gibt eine Reihe von Suchparameter-Kombinationen. In diesem Beispiel suchen wir: *Industrie = Bankwesen, Land = Vereinigte Staaten, Max. Mitarbeiter = 10000*.
+   >Es gibt eine Reihe von Suchparameter-Kombinationen. In diesem Beispiel suchen wir: *Branche = Bankwesen, Land = Vereinigte Staaten, Max. Mitarbeiter = 10000*.
 
 1. Klicken Sie auf die Dropdownliste **Branche** und wählen Sie **Bankwesen**.
 
    ![](assets/filter-2.png)
 
-1. Klicken Sie auf die Dropdownliste **Land** und wählen Sie **USA**.
+1. Klicken Sie auf die Dropdownliste **Land** und wählen Sie **Vereinigte Staaten**.
 
    ![](assets/filter-3.png)
 
-1. Geben Sie unter **Employees** im Feld **Min** den Wert &quot;0&quot;ein, im Feld **Max** den Wert &quot;10000&quot;und klicken Sie dann auf **Apply**.
+1. Geben Sie unter **Employees** im Feld **Min** den Wert &quot;0&quot;in das Feld **Min&lt;a3/> den Wert &quot;10000&quot;ein und klicken Sie dann auf** Apply **.**
 
    ![](assets/four-2.png)
 
@@ -43,5 +43,5 @@ Die Filterung ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Um weitere Filter hinzuzufügen, aus denen Sie auswählen können, klicken Sie links unten im Formular auf **Hinzufügen Filter** .
+   >Um weitere Filter hinzuzufügen, aus denen Sie auswählen können, klicken Sie unten links im Formular auf **Hinzufügen Filter**.
 
