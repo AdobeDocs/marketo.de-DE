@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# A/B-Tests mit &quot;Von Adresse&quot;verwenden {#use-from-address-a-b-testing}
+# &quot;Von Adresse&quot; A/B-Tests verwenden {#use-from-address-a-b-testing}
 
-Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der **From Address** Test. So richten Sie es ein:
+Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der **From Address**-Test. So richten Sie es ein:
 
 >[!PREREQUISITES]
 >
@@ -23,19 +23,19 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der
 
 
 
-1. Klicken Sie unter der **E-Mail** -Kachel bei ausgewählter E-Mail auf **Hinzufügen A/B-Test**.
+1. Klicken Sie unter der Kachel **E-Mail** mit ausgewählter E-Mail auf **Hinzufügen A/B-Test**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Daraufhin wird ein neues Fenster geöffnet. Wählen Sie **Von Adresse** für **Testtyp**.
+1. Ein neues Fenster wird geöffnet. Wählen Sie **Aus Adresse** für **Testtyp**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. Wenn Sie über vorherige Testinformationen verfügen (z. B. über einen Betreff-Test), können Sie sicher auf Test **zurücksetzen** klicken.
+1. Wenn Sie bereits über vorherige Testinformationen verfügen (z. B. einen Betreff-Test), können Sie sicher auf **Test zurücksetzen** klicken.
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Geben Sie die zweite **Von-Adresse** -Information ein, die Sie testen möchten.
+1. Geben Sie die zweiten **Informationen aus der Adresse** ein, die Sie testen möchten.
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der
 
    >[!TIP]
    >
-   >Sie können auf das **Pluszeichen** klicken, um so viele von Adressen hinzuzufügen, wie Sie möchten.
+   >Sie können auf das Pluszeichen **klicken, um so viele von Adressen hinzuzufügen, wie Sie möchten.**
 
 1. Verwenden Sie den Schieberegler, um den Prozentwert der Audience auszuwählen, die Sie im A/B-Test verwenden möchten, und klicken Sie auf **Weiter**.
 
@@ -57,9 +57,9 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der
 
    >[!CAUTION]
    >
-   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **intelligente** Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer der Audience *zu diesem Zeitpunkt gesendet. *Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
+   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **smart**-Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer der Audience *zu diesem Zeitpunkt gesendet. *Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
 
-   OK, wir sind fast da. Jetzt müssen wir die Kriterien [für den Gewinner des A/B-Tests festlegen](define-the-a-b-test-winner-criteria.md).
+   OK, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md) definieren.
 
    >[!NOTE]
    >
