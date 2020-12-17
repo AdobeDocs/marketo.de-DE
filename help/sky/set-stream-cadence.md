@@ -22,11 +22,11 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    ![Bild eins](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** und dann auf **[!UICONTROL Set Cadence]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** und dann auf **[!UICONTROL Cadence]** festlegen.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können **[!UICONTROL Wöchentlich]**, **[!UICONTROL Monatlich]** oder **[!UICONTROL Ohne]** wählen.
+1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können **[!UICONTROL Wöchentlich]**, **[!UICONTROL Monatlich]** oder **[!UICONTROL Keine]** auswählen.
 
 >[!NOTE]
 >
@@ -52,9 +52,9 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    >[!TIP]
    >
-   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **[!UICONTROL Wiederholungen auswählen: Wöchentlich]** / **[!UICONTROL alle: 1 Woche]** / **[!UICONTROL am:]** alle Tage.
+   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **[!UICONTROL Wiederholungen auswählen: Wöchentlich]** / **[!UICONTROL Alle: 1 Woche]** / **[!UICONTROL Am:]** alle Tage.
 
-1. Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie die Zeitzone [des](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) Empfängers verwenden möchten (d. h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf **[!UICONTROL Speichern]**.
+1. Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie [Zeitzone des Empfängers](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) verwenden möchten (d.h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    ![Bild sieben](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
