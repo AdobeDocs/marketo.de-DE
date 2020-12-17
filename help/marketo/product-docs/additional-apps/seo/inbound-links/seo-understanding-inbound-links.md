@@ -17,7 +17,7 @@ Eingehende Links geben Suchmaschinen an, dass es sich lohnt, auf Ihre Site verwi
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## Spaltendefinition {#definition-of-columns}
+## Definition der Spalten {#definition-of-columns}
 
 | Spaltentitel | Beschreibung |
 |---|---|
