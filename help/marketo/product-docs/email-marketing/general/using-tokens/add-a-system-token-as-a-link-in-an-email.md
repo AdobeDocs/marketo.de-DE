@@ -23,11 +23,11 @@ Die folgenden Token können als Links in einer E-Mail- oder E-Mail-Vorlage verwe
 
 >[!NOTE]
 >
->Auf diese Token kann **nur innerhalb eines Ankerlinks geklickt werden** . Außerdem können sie **nicht** in ein My Token eingebettet werden.
+>Diese Token sind nur dann anklickbar, wenn sie sich in einem Ankerlink befinden. **** Außerdem können sie **nicht** in ein My Token eingebettet werden.
 
 So fügen Sie sie einer E-Mail hinzu:
 
-1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf Entwurf **bearbeiten**.
+1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf **Entwurf bearbeiten**.
 
    ![](assets/one-1.png)
 
@@ -35,17 +35,17 @@ So fügen Sie sie einer E-Mail hinzu:
 
    ![](assets/two-1.png)
 
-1. Markieren Sie den Text, den Sie in einen Link mit dem Token konvertieren möchten, und klicken Sie auf die Schaltfläche &quot;Link **einfügen/bearbeiten&quot;** .
+1. Markieren Sie den Text, den Sie in einen Link konvertieren möchten, der das Token enthält, und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie das Token in die Link-URL ein und klicken Sie auf **Einfügen**.
+1. Geben Sie das Token in der Link-URL ein und klicken Sie auf **Einfügen**.
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >Kopieren/Einfügen des gewünschten Tokens: **`{{system.forwardToFriendLink}}`** oder **`{{system.unsubscribeLink}}`** **`{{system.viewAsWebpageLink}}`**
+   >Kopieren/Einfügen des gewünschten Tokens: **`{{system.forwardToFriendLink}}`** oder **`{{system.unsubscribeLink}}`** oder **`{{system.viewAsWebpageLink}}`**
 
 1. Klicken Sie auf **Speichern**.
 
@@ -55,6 +55,6 @@ So fügen Sie sie einer E-Mail hinzu:
 >
 >**Erinnerung**
 >
->Vergessen Sie nicht, Ihre E-Mail [nach Abschluss zu](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) genehmigen.
+>Vergessen Sie nicht, [Ihre E-Mail](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) zu genehmigen, wenn Sie fertig sind.
 
 Gut gemacht! Jetzt wissen Sie, wie Sie ein System-Token als Link in einer E-Mail hinzufügen können.
