@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Definieren der Kriterien für den A/B-Test-Gewinner {#define-the-a-b-test-winner-criteria}
+# Definieren Sie die Kriterien für den Gewinner des A/B-Tests {#define-the-a-b-test-winner-criteria}
 
-Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzufügen, müssen Sie einen Testtyp auswählen, den A/B-Test [planen und dann die Gewinnerkriterien](schedule-the-a-b-test.md)definieren. Hier ist, wie man entscheidet, welche E-Mail gewinnt.
+Wenn Sie [einen A/B-Test](add-an-a-b-test.md) zu Ihrem E-Mail-Programm hinzufügen, müssen Sie einen Testtyp auswählen: [Planen Sie den A/B-Test](schedule-the-a-b-test.md) und legen Sie dann die Gewinnerkriterien fest. Hier ist, wie man entscheidet, welche E-Mail gewinnt.
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzufügen
 
 
 
-## Gewinnkriterien {#winner-criteria}
+## Gewinnerkriterien {#winner-criteria}
 
-1. Zuerst werden die standardmäßigen **Gewinnerkriterien** aufgelistet.
+1. Zuerst werden die Standardoptionen **Gewinnerkriterien** aufgelistet.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzufügen
    |---|---|
    | **Klicks** | Standardmäßig sind Links in E-Mails mit einer Verfolgung versehen, die es Ihnen ermöglicht, zu sehen, wer auf welchen Link geklickt hat, wie viele Links insgesamt angeklickt wurden usw. |
    | **Zum Öffnen % klicken** | Prozentsatz der E-Mails, die geöffnet wurden und auf die ein Link in der E-Mail geklickt wurde. Damit werden Relevanz und Kontext einer E-Mail gemessen, indem die Anzahl der individuellen Klicks geteilt durch die Anzahl der individuellen Eröffnungen und dann durch 100 multipliziert werden, um den Prozentsatz anzuzeigen. |
-   | **Interaktionsbewertung** | Der [Interaktionswert](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) hilft Ihnen bei der Bestimmung der Effektivität Ihres Inhalts. |
+   | **Interaktionsbewertung** | Das [Interaktionsergebnis](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) hilft Ihnen bei der Bestimmung der Effektivität Ihres Inhalts. |
 
    >[!TIP]
    >
-   >Wenn Sie Interaktionsbewertung auswählen, muss der Test mindestens 24 Stunden lang ausgeführt werden. Erfahren Sie mehr über das [Verständnis des Interaktionswerts](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+   >Wenn Sie Interaktionsbewertung auswählen, muss der Test mindestens 24 Stunden lang ausgeführt werden. Erfahren Sie mehr über [das Verstehen des Interaktionswerts](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Sie können Ihre Kriterien auch anpassen, indem Sie Benutzerspezifische Konversion auswählen und auf Bearbeiten klicken.
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -79,7 +79,7 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzufügen
    >**Erinnerung**
    >
    >
-   >Wenn Sie einen A/B- **Test zu Datum/Uhrzeit** durchführen, können Sie nur **Manuell** wählen.
+   >Wenn Sie einen **Date/Time** A/B-Test durchführen, können Sie nur **Manuell** auswählen.
 
    Sobald der A/B-Test beendet ist, kann Marketo die erfolgreichste E-Mail automatisch zur geplanten Zeit senden oder Sie können die Ergebnisse überprüfen und entscheiden, welche E-Mail nach Ablauf gesendet wird.
 
@@ -89,7 +89,7 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test [](add-an-a-b-test.md) hinzufügen
 
    >[!TIP]
    >
-   >Wenn Sie **Manuell** wählen, wird der Test gesendet und es wird gewartet, bis Sie einen Gewinner feststellen. Sie erhalten einen Bericht über die Ergebnisse.
+   >Wenn Sie **Manuell** wählen, wird der Test gesendet und es wird gewartet, bis Sie einen Gewinner angeben. Sie erhalten einen Bericht über die Ergebnisse.
 
    [Plan des A/B-Tests](schedule-the-a-b-test.md)
 
