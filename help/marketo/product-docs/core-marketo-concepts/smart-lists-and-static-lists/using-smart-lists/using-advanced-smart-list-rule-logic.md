@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erweiterte Logik der Smart-Liste {#using-advanced-smart-list-rule-logic}
+# Verwenden der erweiterten Regellogik für intelligente Listen {#using-advanced-smart-list-rule-logic}
 
 Sie können genau die Personen finden, die Sie benötigen, indem Sie innerhalb einer intelligenten Liste eine intelligente Liste-Regellogik auf mehrere Filter anwenden. So geht es.
 
@@ -28,21 +28,21 @@ Sie können genau die Personen finden, die Sie benötigen, indem Sie innerhalb e
 >
 >Erweiterte Filterlogik ist nur verfügbar, wenn Ihre intelligente Liste drei oder mehr Filter enthält.
 
-## Logik zu einer intelligenten Liste Hinzufügen {#add-logic-to-a-smart-list}
+## hinzufügen der Logik zu einer intelligenten Liste {#add-logic-to-a-smart-list}
 
-Standardmäßig finden Sie in Ihrer intelligenten Liste die Personen, die **ALL** -Filtern entsprechen (Filter 1 *und* 2 *und* 3). Sie können die Regellogik ändern, um nach Personen zu suchen, die mit **ANY** der definierten Filter übereinstimmen (Filter 1 *oder* 2 *oder* 3), oder erweiterte Filter (Filter 1 *und* 2 *oder *3) verwenden.
+Standardmäßig finden Sie in Ihrer intelligenten Liste die Personen, die mit den Filtern **ALL** übereinstimmen (Filter 1 *und* 2 *und* 3). Sie können die Regellogik ändern, um nach Personen zu suchen, die **ANY** der definierten Filter (Filter 1 *oder* 2 *oder* 3) übereinstimmen, oder erweiterte Filter (Filter 1 *und* 2 *oder *3) verwenden.
 
-In diesem Beispiel möchten Sie Personen in Kalifornien finden *und* eine Punktzahl von mindestens 50 Punkten *oder* einen Status von &quot;Qualifiziert als Verkauf&quot;haben.
+In diesem Beispiel möchten Sie Personen in Kalifornien *und* mit einem Ergebnis von mindestens 50 Punkten *oder* mit dem Status &quot;Sales Qualified&quot;finden.
 
-1. Wählen Sie **Verwenden** Sie **erweiterte** **Filter** aus der Dropdownliste.
+1. Wählen Sie **Verwenden Sie** **Erweitert** **Filter** aus der Dropdownliste.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Die Verwendung von **erweiterten** Filtern verringert die Notwendigkeit, intelligente Listen mit dem Filter Member of Smart Liste zu erstellen. Dies hilft, die Leistung zu optimieren.
+   >Durch die Verwendung von **Advanced**-Filtern müssen keine intelligenten Listen mit dem Filter Member of Smart Liste erstellt werden. Dies hilft, die Leistung zu optimieren.
 
-1. Im Textfeld **Erweiterte** **Filter** wird &quot;und&quot;als Standardwert für alle Filter angezeigt.
+1. Das Textfeld **Erweitert** **Filter** zeigt &quot;und&quot;als Standardwert zwischen allen Ihren Filtern an.
 
    ![](assets/two-2.png)
 
@@ -58,13 +58,13 @@ In diesem Beispiel möchten Sie Personen in Kalifornien finden *und* eine Punktz
 
    ![](assets/four-1.png)
 
-## Klammern beim Mischen von &quot;Und&quot;und &quot;Oder&quot;verwenden {#use-parentheses-when-mixing-and-and-or}
+## Klammern beim Mischen von &quot;And&quot;und &quot;or {#use-parentheses-when-mixing-and-and-or}
 
 Das Mischen von &quot;Und&quot;- und &quot;Oder&quot;-Logik erfordert Klammern, um Ihre Absicht klar zu machen.
 
 ![](assets/advancedfilters-parent.png)
 
-## Verschachtelte Klammern bei Bedarf für vier oder mehr Filter verwenden {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Verschachtelte Klammern für vier oder mehr Filter verwenden, wenn erforderlich {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Abhängig von Ihrer Absicht müssen Sie ggf. verschachtelte Klammern hinzufügen, wenn Sie vier oder mehr Filter verwenden.
 
