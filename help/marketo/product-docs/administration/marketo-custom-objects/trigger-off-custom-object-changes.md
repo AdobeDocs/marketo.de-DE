@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Änderungen am benutzerdefinierten Objekt auslösen {#trigger-off-custom-object-changes}
+# Auslösen benutzerdefinierter Objektänderungen {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 >
 >
-Wenden Sie sich an den [MarketingTo-Support](http://support.marketo.com) , um die Auslöser für benutzerdefinierte Objektänderungen zu aktivieren.
+Wenden Sie sich an den [MarketingTo-Support](http://support.marketo.com), um die Auslöser für benutzerdefinierte Objektänderungen zu aktivieren.
 
-In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussaktion auslösen, wenn einem Benutzer oder einer Firma ein benutzerdefiniertes Objekt hinzugefügt wird. Sie können auch eine intelligente Liste erstellen, die eine *Änderung* in einem benutzerdefinierten Objekt als Auslöser verwendet. Verwenden Sie diese zum Beispiel, um eine E-Mail zu senden, wenn ein Kursname aktualisiert wird.
+In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussaktion auslösen, wenn einem Benutzer oder einer Firma ein benutzerdefiniertes Objekt hinzugefügt wird. Sie können auch eine intelligente Liste erstellen, die eine *change* in einem benutzerdefinierten Objekt als Auslöser verwendet. Verwenden Sie diese zum Beispiel, um eine E-Mail zu senden, wenn ein Kursname aktualisiert wird.
 
 >[!NOTE]
 >
