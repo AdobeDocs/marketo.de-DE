@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Mit dem [!UICONTROL Kalenderdatei] -Token können Sie Ihren Marketing-E-Mails und -Landingpages einen Kalenderlink (.ics) hinzufügen. Hier erfahren Sie, wie Sie eine für die Verwendung in Ihren Programmen und Kampagnen-Ordnern einrichten.
+Mit dem Token [!UICONTROL Kalenderdatei] können Sie einen Kalenderlink (.ics) zu Ihren Marketing-E-Mails und -Landingpages hinzufügen. Hier erfahren Sie, wie Sie eine für die Verwendung in Ihren Programmen und Kampagnen-Ordnern einrichten.
 
-1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein **[!UICONTROL Kalenderdatei]** -Token in die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
+1. Ziehen Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Programms oder Ordners ein Token **[!UICONTROL Kalenderdatei]** in die Arbeitsfläche [!UICONTROL Lokale Token].
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
