@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Entfernen/Löschen einer URL für einen eingehenden Link {#seo-remove-delete-an-inbound-link-url}
+# SEO - Entfernen/Löschen einer eingehenden Link-URL {#seo-remove-delete-an-inbound-link-url}
 
 Manchmal wollen Sie eingehende Links entfernen. So geht es:
 
-1. Gehen Sie zum Abschnitt **Inbound Links** .
+1. Gehen Sie zum Abschnitt **Inbound Links**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
