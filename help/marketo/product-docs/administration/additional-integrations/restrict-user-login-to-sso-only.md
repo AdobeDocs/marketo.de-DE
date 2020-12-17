@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Benutzeranmeldung auf &quot;Nur SSO&quot;beschränken {#restrict-user-login-to-sso-only}
+# Benutzeranmeldung auf &quot;Nur SSO&quot; beschränken {#restrict-user-login-to-sso-only}
 
-Wenn Sie die einmalige Anmeldung [verwenden](add-single-sign-on-to-a-portal.md) und sicherstellen möchten, dass Benutzer die SSO-Sicherheit nicht umgehen können, befolgen Sie diese Anweisungen.
+Wenn Sie [SSO](add-single-sign-on-to-a-portal.md) verwenden und sicherstellen möchten, dass Benutzer die SSO-Sicherheit nicht umgehen können, befolgen Sie diese Anweisungen.
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ Wenn Sie die einmalige Anmeldung [verwenden](add-single-sign-on-to-a-portal.md) 
 
 >[!TIP]
 >
->Wenn Sie &quot; **SSO** erforderlich&quot;auswählen, können Sie eine [Benutzerrolle](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) von dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option &quot;Einmaliges **Bypass-Anmelden** &quot;aktivieren. Auf diese Weise können Benutzer sich normal anmelden. So müssen sich Admin-Benutzer z. B. über den Anmeldebildschirm bei Marketo anmelden.
+>Wenn Sie **Einmalige Anmeldung erforderlich** auswählen, können Sie eine [Benutzerrolle](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **Einmaliges Anmelden umgehen** aktivieren. Auf diese Weise können Benutzer sich normal anmelden. So müssen sich Admin-Benutzer z. B. über den Anmeldebildschirm bei Marketo anmelden.
 
 >[!CAUTION]
 >
->Wenn neue Benutzer eingeladen werden, erhalten sie eine Einladungs-E-Mail. Wenn jedoch &quot; **Einmal-Anmeldung** erforderlich&quot;ausgewählt ist, erhalten sie diese E-Mails nicht, es sei denn, sie werden einer Rolle zugewiesen, die auf &quot;Einmal- **Anmeldung** umgehen&quot;festgelegt ist.
+>Wenn neue Benutzer eingeladen werden, erhalten sie eine Einladungs-E-Mail. Wenn Sie jedoch **SSO** anfordern auswählen, erhalten diese E-Mails nur dann, wenn sie einer Rolle zugewiesen sind, die auf **Single-Sign-On umgehen** eingestellt ist.
 
 Das ist&#39;s! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Berechtigung, Single Sign-On zu umgehen) auf die Verwendung der einmaligen Anmeldung beschränkt.
