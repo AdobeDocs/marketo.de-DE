@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionshinweise: Sommer 16 {#release-notes-summer}
+# Versionshinweise: Summer &#39;16 {#release-notes-summer}
 
 Die folgenden Funktionen sind in der Sommerversion &#39;16 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
@@ -19,9 +19,9 @@ Die folgenden Funktionen sind in der Sommerversion &#39;16 enthalten. Überprüf
 
 Marketo Account-basiertes Marketing bietet alle wesentlichen Komponenten einer einheitlichen Plattform:
 
-* **Zielgruppe** - Kontoerfassung, Interessenten-zu-Konto-Übereinstimmung und Listen für benannte Konten
-* **Interagieren** - Kontobasierte Personalisierung, Interaktion mit anderen Kanälen und kontospezifische Workflows
-* **Messen** - Auswirkungen auf Konto und Liste, Kontointeraktions-Score und Pipeline- und Umsatz-Ebene
+* **Zielgruppe**  - Kontoerfassung, Interessenten-zu-Konto-Übereinstimmung und Listen für benannte Konten
+* **Interagieren**  - Kontobasierte Personalisierung, Interaktion mit anderen Kanälen und kontospezifische Workflows
+* **Messen**  - Auswirkungen auf Konto und Liste, Kontointeraktions-Score und Pipeline- und Umsatz-Ebene
 
 ![](assets/abm-5-acme.png)
 
@@ -60,7 +60,7 @@ Zuvor waren alle in E-Mail 2.0-Vorlagen angegebenen Variablen &quot;global&quot;
 **Syntaxaktualisierungen**
 
 * Sie können nun &quot;mktoAddByDefault&quot;für Module verwenden, die in E-Mail 2.0-Vorlagen angegeben sind, um anzugeben, welche Module standardmäßig in neuen E-Mails angezeigt werden sollen. Dies ist viel bequemer, wenn Sie eine E-Mail-Vorlage mit einer großen Anzahl von Modulen erstellen.
-* Bei Bildelementen können Sie jetzt angeben, ob die Eigenschaften &quot;height&quot;und &quot;width&quot;des zugrunde liegenden `<img>` HTML-Elements für den Endbenutzer gesperrt oder bearbeitbar sein sollen. mktoLockImgSize=&quot;true&quot; bewirkt, dass Höhe/Breite gesperrt werden (auch wenn das Bild geändert wird). Ebenso führt mktoLockImgStyle=&quot;true&quot; dazu, dass die Eigenschaft &quot;style&quot;gesperrt wird.
+* Bei Bildelementen können Sie jetzt angeben, ob die &quot;height&quot;- und &quot;width&quot;-Eigenschaften des zugrunde liegenden `<img>`-HTML-Elements für den Endbenutzer gesperrt oder bearbeitbar sein sollen. mktoLockImgSize=&quot;true&quot; bewirkt, dass Höhe/Breite gesperrt werden (auch wenn das Bild geändert wird). Ebenso führt mktoLockImgStyle=&quot;true&quot; dazu, dass die Eigenschaft &quot;style&quot;gesperrt wird.
 
 **Codesuche**
 
@@ -70,7 +70,7 @@ Verwenden Sie neue Suchfunktionen, um Inhalte im E-Mail-Code effizient zu finden
 
 **Token-Unterstützung in Bildelementen**
 
-Tokens können jetzt im Bereich &quot;Externe URL&quot;des Erlebnisses zum Einfügen von Bildern verwendet werden! Wenn Sie Bilder mit angegeben haben, `{{my.tokens}}`können Sie diese Token jetzt in Email Editor 2.0 referenzieren. Beachten Sie, dass das Bild weiterhin auf der Arbeitsfläche des E-Mail-Editors 2.0 beschädigt angezeigt wird. Sie sehen jedoch, wie sie in Vorschau gerendert und als Beispiel gesendet werden, bevor Sie Ihre E-Mail versenden.
+Tokens können jetzt im Bereich &quot;Externe URL&quot;des Erlebnisses zum Einfügen von Bildern verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}` angegeben haben, können Sie jetzt auf diese Token in Email Editor 2.0 verweisen. Beachten Sie, dass das Bild weiterhin auf der Arbeitsfläche des E-Mail-Editors 2.0 beschädigt angezeigt wird. Sie sehen jedoch, wie sie in Vorschau gerendert und als Beispiel gesendet werden, bevor Sie Ihre E-Mail versenden.
 
 ## [Mehrere Branding-Domänen](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
