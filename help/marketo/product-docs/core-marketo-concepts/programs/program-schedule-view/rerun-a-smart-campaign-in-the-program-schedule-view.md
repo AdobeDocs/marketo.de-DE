@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eine intelligente Kampagne in der Ansicht Programmplanung erneut ausführen {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Eine intelligente Kampagne in der Ansicht Programmplanung {#rerun-a-smart-campaign-in-the-program-schedule-view} erneut ausführen
 
 Sie können ganz einfach neue Runs einer vorhandenen intelligenten Kampagne direkt aus der Programmplanung-Ansicht erstellen.
 
@@ -33,6 +33,6 @@ Sie können ganz einfach neue Runs einer vorhandenen intelligenten Kampagne dire
 
    >[!TIP]
    >
-   >Sie können dies auch über den [Programm-Fokus](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)tun.
+   >Sie können dies auch über den [Programm focus](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) tun.
 
 Boom! Genau so haben Sie eine weitere Ausführung für diese intelligente Kampagne geplant. Wenn diese intelligente Kampagne E-Mail-Schritte enthält, werden Sie auch diese sehen!
