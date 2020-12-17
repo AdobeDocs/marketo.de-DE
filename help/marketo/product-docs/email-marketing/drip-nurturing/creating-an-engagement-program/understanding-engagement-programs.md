@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einblick in die Programme der Interaktion {#understanding-engagement-programs}
+# Interaktions-Programm {#understanding-engagement-programs}
 
 Interaktions-Programme sind so konzipiert, dass sie neue Menschen vermarkten, indem sie ihnen systematisch Inhalte präsentieren.
 
@@ -19,9 +19,9 @@ Interaktions-Programme sind so konzipiert, dass sie neue Menschen vermarkten, in
 >
 >Pro Abonnement sind maximal 100 **aktive** Interaktions-Programm zulässig.
 
-## Programm der Interaktion {#engagement-program}
+## Interaktions-Programm {#engagement-program}
 
-Ein **Interaktionsprogramm pr****ogramm** ist eine Art Programm, das komplexe Pflege mit Leichtigkeit durchführen kann.
+Ein **engagement pr****ogramm** ist eine Art Programm, das komplexe Pflege mit Leichtigkeit durchführen kann.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +31,7 @@ Verwandter Artikel:
 
 ## Stream {#stream}
 
-Ein **Stream** ist ein Pool von priorisierten Inhalten, die das Interaktions-Programm zur Förderung von Menschen verwenden wird.
+Ein **stream** ist ein Pool von priorisierten Inhalten, die vom Interaktionswerkzeug verwendet werden, um Menschen zu fördern.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -42,7 +42,7 @@ Verwandte Artikel:
 
 ## Inhalt {#content}
 
-Es gibt zwei Arten von **Inhalten** , die Sie zu Interaktions-Programm-Streams hinzufügen können: E-Mails und Programms. E-Mails werden zur Besetzungszeit gesendet.
+Es gibt zwei Typen von **content**, die Sie zu Interaktions-Programm-Streams hinzufügen können: E-Mails und Programms. E-Mails werden zur Besetzungszeit gesendet.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -56,7 +56,7 @@ Verwandte Artikel:
 
 ## Cast {#cast}
 
-Eine **Besetzung** ist das Ereignis, E-Mails von einem Interaktions-Programm zu senden.
+Ein **cast** ist das Ereignis, E-Mails von einem Interaktions-Programm zu senden.
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ Eine **Besetzung** ist das Ereignis, E-Mails von einem Interaktions-Programm zu 
 
 Sie entscheiden, wann eine Besetzung stattfindet, indem Sie **Stream-Kadenz** einrichten. Auf diese Weise planen Sie, dass Inhalte in regelmäßigen Abständen ausgeführt werden.
 
-` ![](assets/image2014-9-15-15-3a25-3a27.png)
+^ ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 `
 
@@ -74,17 +74,17 @@ Verwandter Artikel:
 
 * [Stream-Kadenz festlegen](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## Personenkadenz {#person-cadence}
+## Personenkasse {#person-cadence}
 
-Eine **Personenkadenz** ist ein Status, der ihre Fähigkeit definiert, Inhalte von einem Interaktionswerkzeug zu empfangen. Sie können diesen Schritt im Schritt zum Ändern der **Programm-Kadenz** ändern in Angehalten oder Normal ändern.
+Ein **Personenkatadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte von einem Interaktions-Programm zu empfangen. Sie können den Flussschritt **Programm-Kadenz ändern** verwenden, um dies in &quot;Angehalten&quot;oder &quot;Normal&quot;zu ändern.
 
-` ![](assets/image2014-9-15-15-3a25-3a55.png)
+^ ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 `
 
-## Abgase {#exhausted}
+## Abgebrannt {#exhausted}
 
-Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Person **Abtransportiert**.
+Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Person **Abgelaufen**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
