@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einrichten der Freigabe von Adobe Experience Cloud-Audiencen {#set-up-adobe-experience-cloud-audience-sharing}
+# Einrichten der Adobe Experience Cloud-Audience-Freigabe {#set-up-adobe-experience-cloud-audience-sharing}
 
 Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ihre Adobe IMS Org Anmeldedaten in Marketo eingeben. So geht es.
 
@@ -23,7 +23,7 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
 
    ![](assets/one-2.png)
 
-1. Klicken Sie unter &quot;Integration&quot;auf Freigabe von **Experience Cloud-Audiencen**.
+1. Klicken Sie unter &quot;Integration&quot;auf **Freigabe von Experience Cloud-Audiencen**.
 
    ![](assets/two-2.png)
 
@@ -31,7 +31,7 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
 
    ![](assets/three-2.png)
 
-1. Geben Sie Ihre Adobe IMS Org ID ein (erfahren Sie, wie Sie diese [hier](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)finden) und klicken Sie auf **OK**.
+1. Geben Sie Ihre Adobe IMS Organisations-ID ein (lernen Sie, wie Sie [hier](http://docs.adobe.com/content/help/en/control-panel/using/faq.html) finden) und klicken Sie auf **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,7 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
    >
    >Aus Sicherheitsgründen müssen Sie ein Organisationsadministrator für die Adobe-Organisation sein, der Sie zugeordnet werden möchten. Wenn du nicht bist, schlägt die Aktion fehl.
 
-1. Wenn Sie *noch* nicht angemeldet sind, wird ein Popup in einem neuen Register/Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (bei dieser Aktion wird der Organisationszugriff überprüft).
+1. Wenn Sie *noch nicht* bereits angemeldet sind, wird ein Popup in einem neuen Register/Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (bei dieser Aktion wird der Organisationszugriff überprüft).
 
-   Und das ist es! Sie können jetzt mit der [Freigabe von Audiencen](http://docs.marketo.com/x/ogI6Ag)beginnen.
+   Und das ist es! Sie können nun mit der Freigabe von Daten zur Audience [beginnen.](http://docs.marketo.com/x/ogI6Ag)
 
