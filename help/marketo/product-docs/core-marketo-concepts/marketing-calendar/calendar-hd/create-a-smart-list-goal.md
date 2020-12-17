@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Ziele für intelligente Listen erstellen {#create-a-smart-list-goal}
+# Smart-Liste-Ziel {#create-a-smart-list-goal} erstellen
 
 Ziele sind Wege, Fortschritte zu verfolgen und Ihr Team zu motivieren. Sie können mit intelligenten Listen kombiniert werden, um alle möglichen Dinge in Marketo zu verfolgen. Wenn Sie ein Smart-Liste-Ziel eingerichtet haben, wird es automatisch alle 2 Stunden aktualisiert, wenn es in einer Präsentation verwendet wird.
 
-Wie Präsentationen sind Ziele [arbeitsbereichsspezifisch](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Wie bei Präsentationen sind Ziele [workspace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-spezifisch.
 
-1. Gehen Sie zum **Kalender**.
+1. Gehen Sie zum Ordner **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Klicken Sie in der unteren rechten Ecke auf **Präsentation** .
+1. Klicken Sie unten rechts auf **Präsentation**.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -29,7 +29,7 @@ Wie Präsentationen sind Ziele [arbeitsbereichsspezifisch](../../../../product-d
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Ziehen Sie das **Smart-Liste-Ziel** auf die Arbeitsfläche.
+1. Ziehen Sie **Smart Liste Goal** auf die Arbeitsfläche.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
@@ -41,7 +41,7 @@ Wie Präsentationen sind Ziele [arbeitsbereichsspezifisch](../../../../product-d
 
    ![](assets/mql.png)
 
-1. Sobald die intelligente Liste festgelegt ist, klicken Sie auf die Schaltfläche &quot; **Schließen** &quot;und gehen Sie zurück zur vorherigen Registerkarte.
+1. Sobald die intelligente Liste festgelegt ist, klicken Sie auf die Schaltfläche **Schließen** und gehen Sie zurück zur vorherigen Registerkarte.
 
    ![](assets/mql2.png)
 
