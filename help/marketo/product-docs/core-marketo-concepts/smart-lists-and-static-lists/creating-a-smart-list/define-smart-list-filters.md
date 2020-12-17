@@ -22,7 +22,7 @@ ht-degree: 0%
 
 
 
-Nachdem Sie eine intelligente Liste [](create-a-smart-list.md) erstellt und Filter [](find-and-add-filters-to-a-smart-list.md) hinzugefügt haben, definieren wir die Filter. So geht es.
+Nachdem Sie [eine intelligente Liste](create-a-smart-list.md) erstellt und [Filter](find-and-add-filters-to-a-smart-list.md) hinzugefügt haben, legen wir die Filter fest. So geht es.
 
 Lassen Sie uns in unserem Beispiel diese Filter definieren, um alle Menschen in Kalifornien mit einer Punktzahl über 50 zu finden.
 
@@ -30,11 +30,11 @@ Lassen Sie uns in unserem Beispiel diese Filter definieren, um alle Menschen in 
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie die intelligente Liste aus und klicken Sie auf die Registerkarte **Intelligente Liste** .
+1. Wählen Sie die intelligente Liste aus und klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Suchen und wählen Sie **CA** für den **Statusfilter** .
+1. Suchen und wählen Sie **CA** für den Filter **Bundesland**.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,7 +43,7 @@ Lassen Sie uns in unserem Beispiel diese Filter definieren, um alle Menschen in 
    >**Erinnerung**
    >
    >
-   >Möglicherweise lagern Sie sowohl **Kalifornien** als auch **CA**. Um nach beiden Werten zu filtern und *all *people aus Kalifornien einzuschließen, lernen Sie, wie Sie mehrere Listen zu einem Smart-Filter [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)hinzufügen.
+   >Sie können sowohl **California** als auch **CA** speichern. Um nach beiden Werten zu filtern und *all *people aus Kalifornien einzuschließen, lernen Sie, wie [mehrere Werte zu einem Filter für intelligente Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md) hinzugefügt werden.
 
 1. Wählen Sie den Operator **größer als** und geben Sie **50** ein.
 
