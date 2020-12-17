@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mitglieder aus einer Tabelle in ein Programm importieren {#import-members-from-a-spreadsheet-into-a-program}
+# Mitglieder aus einer Tabelle in ein Programm {#import-members-from-a-spreadsheet-into-a-program} importieren
 
 Sie können eine Liste von Personen importieren, die automatisch Mitglieder eines Programms werden. Hier ist, was zu tun ist.
 
@@ -27,15 +27,15 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglieder eine
 
 ## CSV in Marketing importieren {#import-your-csv-into-marketo}
 
-1. Gehen Sie in Ihrem Programm zum **Mitgliederbereich** .
+1. Gehen Sie im Programm zum Abschnitt **Member**.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klicken Sie auf Mitglieder **importieren**.
+1. Klicken Sie auf **Mitglieder importieren**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Wählen Sie die CSV-Datei aus und klicken Sie auf **Weiter**.
+1. Wählen Sie die CSV aus und klicken Sie auf **Weiter**.
 
    ![](assets/importlist1.png)
 
@@ -47,11 +47,11 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglieder eine
    >
    >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **IGNORE** im Dropdownmenü &quot;Feld markieren&quot;.
 
-1. Wählen Sie den **Mitgliedsstatus** für Ihre Liste aus.
+1. Wählen Sie **Mitgliedsstatus** für Ihre Liste aus.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klicken Sie auf **Importieren**.
+1. Klicken Sie auf **Import**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
