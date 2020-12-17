@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Standardeinstellung von &quot;E-Mail&quot;und &quot;Von Beschriftung&quot;ändern {#change-the-default-from-email-and-from-label}
+# Standardeinstellung von E-Mail und von Beschriftung {#change-the-default-from-email-and-from-label} ändern
 
-Jeder Admin-Benutzer hat die Möglichkeit, die Standardwerte für &quot; **Von E-Mail** &quot;und &quot; **Von Beschriftung** &quot;zu ändern, sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
+Jeder Admin-Benutzer hat die Möglichkeit, die Standardwerte für **Von E-Mail** und **Von Label** zu ändern, sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +27,7 @@ Jeder Admin-Benutzer hat die Möglichkeit, die Standardwerte für &quot; **Von E
 
    ![](assets/image2014-9-18-16-3a27-3a19.png)
 
-1. Geben Sie die Standardwerte ein, die Sie für &quot; **Aus E-Mail** &quot;und &quot; **Aus Beschriftung** &quot;verwenden möchten, und klicken Sie dann auf Änderungen **speichern**.
+1. Geben Sie die Standardwerte für **Von E-Mail** und **Von Label** ein und klicken Sie dann auf **Änderungen speichern**.
 
    ![](assets/change-default-hands.png)
 
