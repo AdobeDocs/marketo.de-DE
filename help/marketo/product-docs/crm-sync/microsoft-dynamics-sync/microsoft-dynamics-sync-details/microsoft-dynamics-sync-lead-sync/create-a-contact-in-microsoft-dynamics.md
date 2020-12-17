@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einen Kontakt in Microsoft Dynamics erstellen {#create-a-contact-in-microsoft-dynamics}
+# Einen Kontakt in Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics} erstellen
 
 1. Wählen Sie die Person &quot;Nur markieren&quot;(Microsoft Type ist leer), die Sie als Kontakt in Dynamics erstellen möchten.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Synchronisieren als** und wählen Sie **Kontakt**. Klicken Sie auf Jetzt **ausführen**.
+1. Klicken Sie auf **Synchronisieren als** und wählen Sie **Kontakt**. Klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Jetzt können Sie &quot; **Kontakt** &quot;auswählen, wenn Sie die Option &quot;Synchronisieren als&quot;in einem Filter für intelligente Kampagnen verwenden.
+1. Jetzt können Sie **Kontakt** auswählen, wenn Sie die Option &quot;Synchronisieren als&quot;in einem Filter für intelligente Kampagnen verwenden.
 
    ![](assets/five.png)
 
