@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sie können neue Grundeinträge direkt aus der Ansicht Programmplanung erstellen.
 
-1. Wählen Sie Ihr Programm in der Struktur aus und klicken Sie dann auf die Registerkarte **[!UICONTROL Plan]** unter **[!UICONTROL Übersicht]**.
+1. Wählen Sie Ihr Programm in der Struktur aus und gehen Sie dann zur Registerkarte **[!UICONTROL Plan]** unter **[!UICONTROL Übersicht]**.
 
    ![Bild eins](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
@@ -28,7 +28,7 @@ Sie können neue Grundeinträge direkt aus der Ansicht Programmplanung erstellen
    >
    >Sie können auch ähnliche Schritte ausführen, um einen einfachen Eintrag aus den Ansichten &quot;Tag&quot;, &quot;Woche&quot;oder &quot;Agenda&quot;zu erstellen.
 
-1. Geben Sie einen Namen für Ihren neuen einfachen Eintrag ein und ändern Sie bei Bedarf den **[!UICONTROL Typ]** in [!UICONTROL Grundeintrag] . Sie können auch das **[!UICONTROL Beginn- und Enddatum]**&#x200B;ändern und die Option &quot;In Agenda öffnen&quot;deaktivieren, wenn Sie nach dem Erstellen des Eintrags im Kalender bleiben möchten, um die Ansicht **[!UICONTROL &quot;]** In Agenda öffnen&quot;zu deaktivieren. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie einen Namen für den neuen einfachen Eintrag ein und ändern Sie dann bei Bedarf **[!UICONTROL Geben Sie]** in [!UICONTROL Grundeintrag] ein. Sie können auch das **[!UICONTROL Beginn- und Enddatum]** ändern und **[!UICONTROL In Ansicht der Agenda öffnen]** deaktivieren, wenn Sie nach dem Erstellen des Eintrags im Kalender bleiben möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild drei](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ Sie können neue Grundeinträge direkt aus der Ansicht Programmplanung erstellen
 
 **Verwandte Artikel**
 
-Sie können auch eine [Stapel-Smart-Kampagne](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) oder ein [E-Mail-Programm](/help/sky/create-an-email-program-in-program-schedule-view.md) aus der Zeitplan-Ansicht erstellen.
+Sie können auch eine [Smart-Batch-Kampagne](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) oder ein [E-Mail-Programm](/help/sky/create-an-email-program-in-program-schedule-view.md) aus der Ansicht des Zeitplans erstellen.
