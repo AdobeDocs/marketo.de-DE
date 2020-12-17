@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Um Ihre Sitze im [Marketingkalender](http://docs.marketo.com/display/docs/marketing+calendar) nutzen zu können, müssen Sie Lizenzen für Benutzer ausstellen, die Zugriff benötigen. So geht es.
+Um Ihre [Marketingkalender](http://docs.marketo.com/display/docs/marketing+calendar)-Lizenzen nutzen zu können, müssen Sie Lizenzen für Benutzer ausstellen, die Zugriff benötigen. So geht es.
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,15 +27,15 @@ Um Ihre Sitze im [Marketingkalender](http://docs.marketo.com/display/docs/market
 
    ![](assets/2.png)
 
-1. Wählen Sie die Benutzer aus und klicken Sie auf **Ausgabelizenz.**
+1. Wählen Sie die Benutzer aus und klicken Sie auf **Ausgabenlizenz.**
 
    >[!TIP]
    >
-   >Verwenden Sie **Strg/Cmd+Klick** , um mehrere Benutzer in einem Schritt auszuwählen.
+   >Verwenden Sie **Strg/Cmd+click**, um mehrere Benutzer in einem Schritt auszuwählen.
 
    ![](assets/3.png)
 
-1. Aktivieren Sie **Lizenz** aktivieren und klicken Sie auf **Speichern.**
+1. Aktivieren Sie **Lizenz aktivieren** und klicken Sie auf **Speichern.**
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Um Ihre Sitze im [Marketingkalender](http://docs.marketo.com/display/docs/market
 
    ![](assets/4.png)
 
-   Gut gemacht! Sehen Sie das grüne Häkchen unter **Kalender**?
+   Gut gemacht! Siehe grünes Häkchen unter **Kalender**?
 
    ![](assets/5.png)
 
