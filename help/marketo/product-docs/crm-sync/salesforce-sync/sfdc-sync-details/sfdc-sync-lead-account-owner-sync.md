@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC-Synchronisierung: Synchronisierung von Interessenten-/Kontoinhabern {#sfdc-sync-lead-account-owner-sync}
+# SFDC-Synchronisierung: Interessenten-/Kontoinhaber-Synchronisierung {#sfdc-sync-lead-account-owner-sync}
 
 Diese synchronisieren die &quot;Benutzer&quot;-Tabelle in Salesforce, wir werden sie jedoch als Interessenten-/Kontoinhaber-Felder bezeichnen.
 
@@ -33,11 +33,11 @@ Für jeden Kontakt werden die oben genannten fünf Felder mit Interessenteninhab
 
 ## Kann ich den Interessentenbesitzer in Marketo wechseln? {#can-i-change-the-lead-owner-in-marketo}
 
-Verwenden Sie auf jeden Fall die Flussaktion &quot;Besitzer [ändern](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) &quot;.
+Verwenden Sie unbedingt die Flussaktion [Eigentümer ändern](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md).
 
 >[!NOTE]
 >
->Sie können die Inhaberinformationen nicht auf der Seite &quot; [Personendetails verwenden&quot;ändern](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+>Sie können die Inhaberinformationen nicht mit der [Seite mit Personendetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) ändern.
 
 ## Was kann ich mit diesen Daten machen? {#what-can-i-do-with-this-data}
 
@@ -46,6 +46,6 @@ Es gibt viele Gründe, diese Daten zu verwenden, z. B.
 * Senden Sie eine personalisierte E-Mail mit Unterschrift des Verkäufers
 * Filtern Sie nach bestimmten Vertriebsmitteilungen, um die Effektivität zu analysieren oder zu analysieren.
 * Zuweisungsregeln (und Neuzuweisungsregeln) in Marketo
-* Verwenden Sie sie in den [Aktionen &quot;Eigentümer](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)ändern&quot;, &quot; [Person zu SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)synchronisieren&quot;und &quot;Aufgabe [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) erstellen&quot;
+* Verwenden Sie sie in den Aktionen [Eigentümer ändern](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Person zu SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) synchronisieren und [Aufgabe erstellen](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
 
 Marketo hat eine fantastische Salesforce-Synchronisierung. Das macht sonst niemand so gut!
