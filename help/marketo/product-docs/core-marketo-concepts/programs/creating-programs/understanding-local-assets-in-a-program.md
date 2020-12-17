@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lokale Assets in einem Programm {#understanding-local-assets-in-a-program}
+# Grundlegendes zu lokalen Assets in einem Programm {#understanding-local-assets-in-a-program}
 
 Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpassbar und ermöglichen die Erstellung automatisierter Marketinginitiativen. Im Folgenden werden die meisten lokalen Assets vorgestellt, die Sie in einem Programm erstellen können:
 
