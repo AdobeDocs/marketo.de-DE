@@ -16,11 +16,11 @@ ht-degree: 0%
 
 So richten Sie ein Link-Token für die Verwendung in Ihren Programmen und Kampagnen-Ordnern ein.
 
-1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein **Link** -Token in die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
+1. Ziehen Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Programms oder Ordners ein Token **Link** in die Arbeitsfläche [!UICONTROL Lokale Token].
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-link/my-token-link-1.png)
 
-1. Geben Sie einen Namen für das neue Link-Token ein. Geben Sie dann den [!UICONTROL Anzeigetext], die [!UICONTROL URL]und den [!UICONTROL Titel] (Titel-Tag) ein und wählen Sie eine [!UICONTROL Zielgruppe] aus der Dropdownliste.
+1. Geben Sie einen Namen für das neue Link-Token ein. Geben Sie dann [!UICONTROL Anzeigentext], [!UICONTROL URL] und [!UICONTROL title] (title-Tag) ein und wählen Sie eine [!UICONTROL Zielgruppe] aus der Dropdownliste.
 
    ![Bild zwei](/help/sky/assets/my-tokens/my-token-link/my-token-link-2.png)
 
@@ -31,7 +31,7 @@ So richten Sie ein Link-Token für die Verwendung in Ihren Programmen und Kampag
    * Übergeordnet: Wenn auf der Seite verschachtelte Rahmen vorhanden sind, wird der Link eine Ebene nach oben geöffnet
    * Vollständiger Text: Öffnet den Link im Hauptfenster
 
-1. Markieren Sie die Kästchen unter Link [!UICONTROL verfolgen, um zu bestimmen, wo die Links verfolgt werden sollen] .
+1. Markieren Sie die Kästchen unter [!UICONTROL Link verfolgen für], um auszuwählen, wo Ihre Links verfolgt werden sollen.
 
    ![Bild drei](/help/sky/assets/my-tokens/my-token-link/my-token-link-3.png)
 
@@ -39,6 +39,6 @@ So richten Sie ein Link-Token für die Verwendung in Ihren Programmen und Kampag
    >
    >Wenn &quot;inklusive mkt_tok&quot;aktiviert ist, zeigt Marketo eine Link-Vorschau der Markenverfolgungsdomäne an (z. B. http://mkto-sjqe3355.com/mn/...). Wenn Sie dieses Kontrollkästchen deaktivieren, wird der Link geändert. Wenn Sie die Linktracking für E-Mails oder Landingpages deaktivieren, wird >die URL auf die Standardlänge gekürzt (z. B. www.examplepage.com).
 
-1. Optional können Sie unter &quot; [!UICONTROL Erweitert]&quot;den Link mit CSS anpassen. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Optional können Sie unter [!UICONTROL Erweitert] Ihren Link mit CSS anpassen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild vier](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
