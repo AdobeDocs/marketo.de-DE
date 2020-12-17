@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Browserunterstützungseinstellungen &quot;Nicht verfolgen&quot; bearbeiten {#edit-do-not-track-browser-support-settings}
+# Browserunterstützungseinstellungen für &quot;Nicht verfolgen&quot; bearbeiten{#edit-do-not-track-browser-support-settings}
 
 &quot;Nicht verfolgen&quot;ist eine Browseranforderung, die in Systemen wie Marketo nicht verfolgt werden kann. Sie können diese Anforderung mit den folgenden Schritten berücksichtigen.
 
