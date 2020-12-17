@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Person konvertieren {#convert-person}
+# Person {#convert-person} konvertieren
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ Verwenden Sie diesen Flussschritt, um eine Person in einen Kontakt in Salesforce
 
 ![](assets/one-2.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
-1. Wählen Sie aus, wem Sie den resultierenden Kontakt, Konto und Gelegenheit **zuweisen** möchten.
+1. Wählen Sie aus, wem Sie **den resultierenden Kontakt, das Konto und die Gelegenheit zuweisen möchten.**
 
    ![](assets/two-2.png)
 
@@ -33,11 +33,11 @@ Verwenden Sie diesen Flussschritt, um eine Person in einen Kontakt in Salesforce
    >
    >Die Umwandlung einer Person in Marketo wird zu einem neuen Konto und Chancen in Salesforce führen. Wenn Sie keine Duplikat-Konten wünschen, verwenden Sie Salesforce zur Konvertierung.
 
-1. Wählen Sie aus, ob eine **Benachrichtigung** an den Eigentümer gesendet werden soll.
+1. Wählen Sie aus, ob eine **Benachrichtigung** an den Inhaber gesendet werden soll oder nicht.
 
    ![](assets/three-2.png)
 
-1. Wählen Sie den **konvertierten Status** aus.
+1. Wählen Sie **den konvertierten Status**.
 
    ![](assets/four-3.png)
 
