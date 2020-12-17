@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden von Benutzerkonten {#using-person-accounts}
+# Verwenden von Personenkonten {#using-person-accounts}
 
 Personenkonten können in Salesforce eingerichtet werden, um den Anforderungen Ihres Unternehmens gerecht zu werden. So behandelt Marketo Personenkonten.
 
@@ -33,11 +33,11 @@ Ein Personenkonto wird mit Marketo als Firma und als Person synchronisiert.
 
 ## Wie differenziere ich Geschäftskonten und Personenkonten? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Verwenden Sie den **Filter &quot;Ist-Person-Konto** &quot;in Ihrer intelligenten Liste, um Personenkonten von Standardkontos zu trennen.
+Verwenden Sie den Filter **Ist-Personenkonto** in Ihrer intelligenten Liste, um Personenkonten von Standardkonten zu trennen.
 
 ## Wo werden die Daten meiner persönlichen Konten in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktivitäten im Zusammenhang mit Personenkonten werden im **Kontobedienfeld** angezeigt.
+Aktivitäten zu Personenkonten werden im Bedienfeld **Konto** angezeigt.
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Marketo hängt von der Möglichkeit der Kontaktrolle ab, um zu bestimmen, welche
 
 ## Welches E-Mail-Feld sollte ich für Personenkonten verwenden? {#which-email-field-should-i-use-for-person-accounts}
 
-Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie das Feld &quot; **E-Mail-Adresse** &quot;in Ihren Formularen (nicht die E-Mail-Adresse **der** Person), um sicherzustellen, dass die Deduplizierung und andere E-Mail-Verarbeitung von Marketing ordnungsgemäß funktionieren.
+Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie das Feld **E-Mail-Adresse** in Ihren Formularen (nicht **E-Mail-Adresse der Person**), um sicherzustellen, dass die Deduplizierung und andere E-Mail-Verarbeitung von Marketo ordnungsgemäß funktionieren.
