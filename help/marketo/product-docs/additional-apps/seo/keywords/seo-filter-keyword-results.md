@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # SEO - Suchbegriffsergebnisse filtern {#seo-filter-keyword-results}
 
-Sie haben vielleicht viele [Suchbegriffe](seo-understanding-keywords.md). Es gibt verschiedene Möglichkeiten, sie zu filtern:
+Möglicherweise haben Sie viele [Suchbegriffe](seo-understanding-keywords.md). Es gibt verschiedene Möglichkeiten, sie zu filtern:
 
-## Nach Liste filtern {#filter-by-list}
+## Filtern nach Liste {#filter-by-list}
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,7 +27,7 @@ Sie haben vielleicht viele [Suchbegriffe](seo-understanding-keywords.md). Es gib
 
    >[!NOTE]
    >
-   >Wenn Sie keine Listen sehen, [erfahren Sie](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) wie Sie eine Suchbegriffs-Liste [](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)erstellen.
+   >Wenn Sie keine Listen sehen, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [erfahren Sie, wie Sie eine Suchbegriffs-Liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) erstellen.
 
 Süß! Sie werden jetzt nur noch Suchbegriffe auf dieser Liste betrachten.
 
@@ -37,17 +37,17 @@ Süß! Sie werden jetzt nur noch Suchbegriffe auf dieser Liste betrachten.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Die orangefarbenen Quadrate definieren Ihre oberen (linken) und unteren (rechten) Grenzen. Der Filter funktioniert mit dem [SERP-Rang](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)des Suchbegriffs.
+   Die orangefarbenen Quadrate definieren Ihre oberen (linken) und unteren (rechten) Grenzen. Der Filter funktioniert mit dem Suchbegriff [SERP-Rang](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Schieben Sie die orangefarbenen Quadrate nach links/rechts, um die Ergebnisse zu filtern.
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
-## Nach Suche filtern {#filter-by-search}
+## Filtern nach Suche {#filter-by-search}
 
 Die gesuchten Suchbegriffe finden Sie auch im Suchfeld oben rechts.
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
