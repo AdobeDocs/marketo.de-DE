@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# SEO - Importieren von Suchbegriffen mit CSV {#seo-importing-keywords-with-a-csv}
+# SEO - Importieren von Suchbegriffen mit einer CSV {#seo-importing-keywords-with-a-csv}
 
-1. Sie können Suchbegriffe [manuell](seo-add-keywords.md) hinzufügen, Suchbegriffvorschläge [abrufen](seo-get-suggested-keywords.md) und sogar Suchbegriffe aus einer CSV-Datei importieren. Hier sehen Sie, wie Sie den Import durchführen.
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Sie können [Suchbegriffe](seo-add-keywords.md) manuell hinzufügen, [Suchbegriffvorschläge abrufen](seo-get-suggested-keywords.md) und sogar Suchbegriffe aus einer CSV-Datei importieren. Hier sehen Sie, wie Sie den Import durchführen.
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Klicken Sie auf **Importieren**.
+1. Klicken Sie auf **Import**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Klicken Sie auf Datei **auswählen**.
+1. Klicken Sie auf **Datei** auswählen.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >Die Importbeschränkungen variieren je nach Abonnement. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter.
 
-1. Klicken Sie auf **IMPORTIEREN**.
+1. Klicken Sie auf **IMPORT**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
