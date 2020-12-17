@@ -27,7 +27,7 @@ Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Wählen Sie eine **Vorlage** aus. Für erweiterte Optionen klicken Sie auf die Dropdownliste **Erweitert** .
+1. Wählen Sie eine **Vorlage**. Für erweiterte Optionen klicken Sie auf die Dropdownliste **Erweitert**.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
    >
    >Markieren Sie in **Benutzerdefiniert** die Kästchen, um anzugeben, welche Eigenschaften Benutzer beim Erstellen von Kennwörtern einschließen sollen.
 
-1. Legen Sie den **Ablauf** fest.** **Für diese Funktion müssen Benutzer ihre Kennwörter nach einer bestimmten Zeit automatisch zurücksetzen. Dies schließt auch den Admin-Benutzer ein.
+1. Legen Sie **Ablauf** fest.** **Für diese Funktion müssen Benutzer ihre Kennwörter nach einer bestimmten Zeit automatisch zurücksetzen. Dies schließt auch den Admin-Benutzer ein.
 
    >[!CAUTION]
    >
@@ -50,7 +50,7 @@ Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
 
    ![](assets/expiration.png)
 
-1. Legen Sie das Zeitlimit für **inaktive Sitzungen fest**. Dadurch wird bestimmt, wie lange ein Benutzer inaktiv sein kann, bevor er sich erneut bei Marketo anmelden muss.
+1. Legen Sie das **Inaktives Sitzungs-Timeout** fest. Dadurch wird bestimmt, wie lange ein Benutzer inaktiv sein kann, bevor er sich erneut bei Marketo anmelden muss.
 
    ![](assets/inactivesession.png)
 
