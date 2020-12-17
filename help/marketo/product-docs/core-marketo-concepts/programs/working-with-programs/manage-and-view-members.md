@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**Tieftauchen**
 >
-> Tauchen Sie tiefer in die [Programm-Mitgliedschaft](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+> Tauchen Sie tiefer in [Programm-Mitgliedschaft](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) ein.
 
-## Nach einem Mitglied suchen {#search-for-a-member}
+## Nach einem Mitglied {#search-for-a-member} suchen
 
 Verwenden Sie das Suchfeld unten im Bereich &quot;Mitglieder&quot;, um nach Programm-Mitgliedern nach Name, E-Mail-Adresse, Berufsbezeichnung oder Firma zu suchen.
 
-1. Klicken Sie auf die Registerkarte **Mitglieder** Ihres Programms.
+1. Klicken Sie auf die Registerkarte **Members** Ihres Programms.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,13 +33,13 @@ Verwenden Sie das Suchfeld unten im Bereich &quot;Mitglieder&quot;, um nach Prog
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Mitgliederraster exportieren {#export-the-members-grid}
+## Exportieren des Mitgliederrasters {#export-the-members-grid}
 
 Sie können Ihre Mitglieds-Liste exportieren, indem Sie auf das Excel-Symbol neben dem Suchfeld klicken.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## Spalten im Mitgliederraster verwalten {#manage-columns-in-the-members-grid}
+## Spalten im Mitgliederraster {#manage-columns-in-the-members-grid} verwalten
 
 * Ziehen Sie Spalten per Drag &amp; Drop, um ihre Reihenfolge zu ändern. Die blauen Pfeile zeigen an, wohin die Spalte geht.
 
@@ -49,13 +49,13 @@ Sie können Ihre Mitglieds-Liste exportieren, indem Sie auf das Excel-Symbol neb
 
    ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Wählen Sie, welche Spalten im Raster sichtbar sind {#choose-which-columns-are-visible-in-the-grid}
+## Wählen Sie, welche Spalten im Raster {#choose-which-columns-are-visible-in-the-grid} sichtbar sind
 
-1. Klicken Sie auf die Dropdownliste **Ansicht **und wählen Sie Ansicht **erstellen**.
+1. Klicken Sie auf die Dropdownliste **Ansicht **und wählen Sie **Ansicht erstellen**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken Sie auf** Hinzufügen **und** entfernen **um Spalten zu verschieben und eine Ansicht zu erstellen.
+1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken Sie auf** Hinzufügen **und** **entfernen, um Spalten zu verschieben und eine Ansicht zu erstellen.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,21 +63,21 @@ Sie können Ihre Mitglieds-Liste exportieren, indem Sie auf das Excel-Symbol neb
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtern des Mitgliederrasters  {#filter-the-members-grid}
+## Filtern des Mitgliederrasters {#filter-the-members-grid}
 
-1. Klicken Sie auf die Dropdownliste **Filter** und wählen Sie einen Schritt für die Sortierung nach.
+1. Klicken Sie auf die Dropdown-Liste **Filter** und wählen Sie einen Schritt zum Sortieren nach Progression.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## Personenstatus im Mitgliederraster verwalten {#manage-person-status-in-the-members-grid}
+## Personenstatus im Mitgliederraster {#manage-person-status-in-the-members-grid} verwalten
 
 Sie können den Status Ihrer Personen im Mitgliederraster ändern.
 
-1. Halten Sie die **Strg-/Befehlstaste** gedrückt und wählen Sie die Personen aus.
+1. Halten Sie **Strg/Cmd** gedrückt und wählen Sie die Personen aus.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klicken Sie auf die Dropdownliste Status **ändern** und wählen Sie einen Status aus.
+1. Klicken Sie auf die Dropdownliste **Status ändern** und wählen Sie einen Status aus.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
