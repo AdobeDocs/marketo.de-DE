@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändern des Markentyps in ein benutzerdefiniertes Feld {#change-the-type-of-a-marketo-custom-field}
+# Ändern des Markentyps in Benutzerdefiniertes Feld {#change-the-type-of-a-marketo-custom-field}
 
 So ändern Sie den Feldtyp eines benutzerdefinierten Felds.
 
@@ -23,7 +23,7 @@ So ändern Sie den Feldtyp eines benutzerdefinierten Felds.
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. Klicken Sie in der Dropdownliste **Feldaktionen** auf Typ **ändern**.
+1. Klicken Sie in der Dropdownliste **Feldaktionen** auf **Änderungstyp**.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
