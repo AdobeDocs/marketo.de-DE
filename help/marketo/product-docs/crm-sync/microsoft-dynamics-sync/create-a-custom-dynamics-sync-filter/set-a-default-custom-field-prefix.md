@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Festlegen eines benutzerdefinierten Standardfeldpräfix {#set-a-default-custom-field-prefix}
 
-Ihr standardmäßiges Microsoft Dynamics-Präfix für benutzerdefinierte Felder muss **neu** sein, damit marketo-eigene Felder korrekt synchronisiert werden. So ändern Sie das Standardpräfix:
+Das standardmäßige Microsoft Dynamics-Präfix für benutzerdefinierte Felder muss **new** lauten, damit marketo-proprietäre Felder korrekt synchronisiert werden. So ändern Sie das Standardpräfix:
 
 1. Gehen Sie zu Einstellungen und wählen Sie **Anpassungen.**
 
@@ -29,7 +29,7 @@ Ihr standardmäßiges Microsoft Dynamics-Präfix für benutzerdefinierte Felder 
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Ändern Sie das Präfix in **neu**. Klicken Sie auf **Speichern und schließen**.
+1. Ändern Sie das Präfix in **new**. Klicken Sie auf **Speichern und Schließen**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
@@ -37,7 +37,7 @@ Ihr standardmäßiges Microsoft Dynamics-Präfix für benutzerdefinierte Felder 
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Klicken Sie auf Alle Anpassungen **veröffentlichen**.
+1. Klicken Sie auf **Alle Anpassungen veröffentlichen**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
