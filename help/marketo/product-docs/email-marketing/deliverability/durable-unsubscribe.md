@@ -21,19 +21,19 @@ Wenn das Flag zum Abmelden von &quot;false&quot;auf &quot;true&quot;gesetzt ist,
 >
 >Dauerhaftes Abmelden funktioniert auf allen Partitionen in Ihrer gesamten Marketo-Datenbank.
 
-## Aktualisieren Sie die Markierung &quot;Abmelden&quot;von &quot;True&quot;auf &quot;False&quot;(z. B. &quot;Eine Person erneut abonnieren&quot;). {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
+## Aktualisieren Sie die Markierung &quot;Abmelden&quot;von &quot;True&quot;auf &quot;False&quot;(z. B. &quot;Eine Person erneut abonnieren&quot;) {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
 
 Es gibt mehrere Möglichkeiten, wie eine Person erneut abonniert werden kann.
 
-In Salesforce **löschen** Sie das Feld E-Mail-Opt-out im Datensatz des Interessenten/Kontakts. Dies wird mit Marketo synchronisiert.
+In Salesforce **clear** das Feld E-Mail-Opt-out im Datensatz des Interessenten/Kontakts. Dies wird mit Marketo synchronisiert.
 
 ![](assets/one.png)
 
-Deaktivieren Sie in Marketo auf der Registerkarte &quot;Info&quot;des Datensatzes der Person das Feld zum Abmelden **** .
+In Marketo ist **clear** das Feld &quot;Abbestellt&quot;auf der Registerkarte &quot;Info&quot;des Datensatzes der Person.
 
 ![](assets/two.png)
 
-Führen Sie einen **Datenwert** ändern-Flussschritt wie unten gezeigt für eine oder mehrere Personen aus.
+Führen Sie einen Flussschritt von **Datenwert ändern** aus, wie unten bei einer oder mehreren Personen gezeigt.
 
 ![](assets/three.png)
 
@@ -49,13 +49,13 @@ Wenn Sie die E-Mail-Adresse einer Person in eine nicht abonnierte E-Mail-Adresse
 
 Wenn Sie eine abonnierte E-Mail-Adresse in eine abonnierte ändern, wird diese Person abonniert.
 
-## Abonnement erneut abonnieren {#re-subscribing}
+## {#re-subscribing} erneut abonnieren
 
 Ebenso wie ein Abmelden dazu führen würde, dass alle Personen mit derselben E-Mail-Adresse abgemeldet würden, würde ein erneutes Abonnieren tatsächlich jede Person mit derselben E-Mail-Adresse erneut abonnieren.
 
-## Aktivitäten-Protokoll {#activity-log}
+## Aktivität-Protokoll {#activity-log}
 
-Definitionen der Datenwertänderung für *updateLeadEmailStatus* und *resetLeadEmailStatus* finden Sie in [diesem Community-Artikel](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
+Definitionen zur Änderung des Datenwerts für *updateLeadEmailStatus* und *resetLeadEmailStatus* finden Sie in [diesem Community-Artikel](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
