@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Glossar zu Operatoren für intelligente Liste {#smart-list-filter-operators-glossary}
+# Filteroperatoren für intelligente Listen - Glossar {#smart-list-filter-operators-glossary}
 
-Ein Operator ist Teil der [intelligenten Liste](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) , die Ihnen hilft, bestimmte Daten zu erhalten. Damit können Sie Ihren Filter oder Auslöser in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.\
+Ein Operator ist Teil der [intelligenten Liste](http://docs.marketo.com/display/docs/smart+lists+and+static+lists), die Ihnen hilft, spezifische Daten zu erhalten. Damit können Sie Ihren Filter oder Auslöser in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.\
 Im Folgenden finden Sie ein Glossar, das die einzelnen Operatoren beschreibt.
 
 ## Datumsfelder {#date-fields}
@@ -51,11 +51,11 @@ Geben Sie einfach die Nummer und Einheit zusammen und es funktioniert!
 
 >[!NOTE]
 >
->In der Vergangenheit **schließt** Sie den Tag (bis zur Zeit, nicht nach) erstellen Sie Ihre intelligente Liste.
+>In der Vergangenheit haben Sie **die Smart-Liste (bis zum Zeitpunkt, nicht danach) mit einbezogen.**
 
 >[!CAUTION]
 >
->Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und den **vor** - oder **auf- oder vor** Einschränkungen verwenden, umfasst die intelligente Liste auch Personen, die keinen Wert in diesem Datumsfeld haben.
+>Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, Erstellungsdatum des SFDC) und die **before**- oder **on- oder vor-**-Einschränkungen verwenden, umfasst die intelligente Liste auch Personen, die in diesem Datumsfeld keinen Wert haben.
 
 Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoperatoren zu verstehen.
 
@@ -136,7 +136,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">ist leer</td> 
-   <td colspan="1" rowspan="1">Datensätze ohne Wert (NULL) - Null ist eine Zahl, <em>nicht</em> NULL</td> 
+   <td colspan="1" rowspan="1">Datensätze ohne Wert (NULL) - null ist eine Zahl, es ist <em>nicht</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">ist nicht leer</td> 
