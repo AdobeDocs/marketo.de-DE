@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aktualisierungen der Marktterminologie {#updates-to-marketo-terminology}
+# Aktualisierungen der Marketerminologie {#updates-to-marketo-terminology}
 
 Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf das auswirken werden, was einige Dinge genannt werden. Wenn Sie seit März 2016 über eine neue Marketo-Instanz verfügen oder Ihre Firma nach Juli 2016 verlängert wurde, wird Ihnen die neue Terminologie möglicherweise jetzt angezeigt.
 
@@ -19,7 +19,7 @@ Obwohl Sie möglicherweise unterschiedliche Terminologie in der Dokumentation vo
 
 Was hat sich also verändert?
 
-## Interessent ist jetzt {#lead-is-now-person}
+## Interessent ist jetzt Person {#lead-is-now-person}
 
 Die größte Veränderung ist die Umbenennung von Interessenten/Interessenten zu Personen/Personen.
 
@@ -71,15 +71,15 @@ In einigen Fällen wird das Wort &quot;Blei&quot;einfach entfernt.
  </tbody> 
 </table>
 
-Blei und Person **sind das Gleiche**.
+Lead und Person **sind dasselbe**.
 
 ## Tokens {#tokens}
 
-Token mit dem Wort Lead **ändern sich** nicht. Wir entschuldigen uns für jede Verwirrung. Wenn Sie jedoch alle Token an die neue Terminologie anpassen, werden viele Token, die derzeit verwendet werden, beschädigt. Man sieht also immer noch Token wie &quot;`{{lead.First Name}}`&quot;. Es gibt keine personenspezifischen Token.
+Token mit dem Wort Interessent in ihnen **ändern sich nicht.** Wir entschuldigen uns für jede Verwirrung. Wenn Sie jedoch alle Token an die neue Terminologie anpassen, werden viele Token, die derzeit verwendet werden, beschädigt. Sie sehen also immer noch Token wie &quot;`{{lead.First Name}}`&quot;. Es gibt keine personenspezifischen Token.
 
 >[!NOTE]
 >
->Es *gibt* ein Token mit dem Namen &quot;Personenkarten&quot;, das jedoch immer vorhanden war. Es wird normalerweise für ein Beschreibungsfeld in Ihrem CRM-System verwendet, wenn überhaupt.
+>Es gibt *ein Token mit dem Namen &quot;Personenkarten&quot;, das Token war jedoch immer vorhanden.* Es wird normalerweise für ein Beschreibungsfeld in Ihrem CRM-System verwendet, wenn überhaupt.
 
 ## Feldverwaltung {#field-management}
 
@@ -110,7 +110,7 @@ Felder, die den Begriff Interessent enthielten, wurden entweder durch Person ers
 
 >[!NOTE]
 >
->Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Supportartikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
 
 ## Echtzeit-Personalisierung (RTP) ist jetzt Web-Personalisierung {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -143,7 +143,7 @@ Zusätzlich zur Namensänderung besteht die App jetzt aus vier separaten Apps:
 |---|---|
 | ** [Kontobasiertes Webmarketing](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Verfügbar über Web-Personalisierungskachel |
 | ** [Personalisiertes Retargeting](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Verfügbar über Web-Personalisierungskachel |
-| ** [Predictive Content](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Hat eine eigene Kachel auf dem Startbildschirm |
+| ** [Vorheriger Inhalt](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Hat eine eigene Kachel auf dem Startbildschirm |
 
 >[!NOTE]
 >
