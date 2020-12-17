@@ -28,7 +28,7 @@ Gestalten Sie eine intelligente Kampagne auf der Grundlage von Live-Ereignissen 
    >
    >Eine intelligente Kampagne mit Auslösern wird im Auslösermodus ausgeführt. Er wird auf der Grundlage von ausgelösten Ereignissen und weiteren Filtern einzeln ausgeführt.
 
-1. Klicken Sie auf die Dropdownliste und wählen Sie einen Operator (z. B. **[!UICONTROL is]**, **[!UICONTROL is not]** usw.) für den gewählten Auslöser.
+1. Klicken Sie auf die Dropdownliste und wählen Sie einen Operator (z. **[!UICONTROL is]**, **[!UICONTROL is not]** usw.) für den gewählten Auslöser.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -48,4 +48,4 @@ Gestalten Sie eine intelligente Kampagne auf der Grundlage von Live-Ereignissen 
 >
 >Bei mehreren Auslösern durchläuft eine Person den Fluss, wenn einer der Auslöser aktiviert ist.
 >
->Um die Kampagne gleichzeitig für eine Gruppe von Personen auszuführen, lernen Sie, wie Sie intelligente Liste für intelligente Kampagne [definieren | Stapel](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
+>Um die Kampagne gleichzeitig für eine Gruppe von Personen auszuführen, lernen Sie [Intelligente Liste für intelligente Kampagne definieren. | Batch](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
