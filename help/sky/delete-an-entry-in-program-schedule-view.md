@@ -24,6 +24,6 @@ Sie können jeden Eintrag im Kalender in wenigen Schritten löschen.
 
    ![Bild zwei](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Bestätigen]** , um den Eintrag zu löschen.
+1. Klicken Sie auf **[!UICONTROL Bestätigen]**, um den Eintrag zu löschen.
 
    ![Bild drei](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
