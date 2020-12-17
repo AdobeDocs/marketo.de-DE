@@ -31,25 +31,25 @@ Sie können Ihren Domänennamen und Ihre Ausweichseite bearbeiten, das Vorausfü
 
    | Begriff | Definition |
    |---|---|
-   | Domänenname für Landingpages | Das ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages angeben. Beispiel: `http://go.yourCompany.com`Das Wort &quot;go&quot;ist der CNAME. Man kann mehrere haben, aber die meisten Leute verwenden nur das eine. |
+   | Domänenname für Landingpages | Das ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages angeben. Beispiel: In `http://go.yourCompany.com` ist das Wort &quot;go&quot;der CNAME. Man kann mehrere haben, aber die meisten Leute verwenden nur das eine. |
    | Fallback-Seite | Hier muss man gehen, wenn die Landingpage nicht existiert oder nicht da ist. Erfahren Sie mehr über [Ausweichseiten](set-a-fallback-page.md). |
    | Homepage | Geben Sie Ihre Unternehmens-Site-URL ein. |
 
    ![](assets/three.png)
 
-1. Markieren Sie das Kontrollkästchen &quot; **Formularvorausfüllung** &quot;, damit Formulare Informationen für bekannte (mit Cookies versehene) Personen vorab ausfüllen können. Deaktivieren, um zu blockieren.
+1. Markieren Sie das Kontrollkästchen **Formularvorausfüllung**, damit Formulare Informationen für bekannte (Cookie-)Personen vorab ausfüllen können. Deaktivieren, um zu blockieren.
 
    ![](assets/four.png)
 
-1. Wenn Sie verhindern möchten, dass böswillige Seiten Ihren Inhalt scheinbar hosten, aktivieren Sie das Kontrollkästchen Marketo-Seiten **nicht in externe Webseiten** einbetten lassen.
+1. Wenn Sie verhindern möchten, dass böswillige Seiten Ihren Inhalt scheinbar hosten, aktivieren Sie das Kontrollkästchen **Marketo-Seiten nicht in externe Webseiten** einbetten lassen.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Wenn das `<script>` Tag zum Vorausfüllen am Ende des `<head>` Tags im Code angezeigt werden soll, aktivieren Sie das Kontrollkästchen &quot;Skript zum **Ausfüllen vor dem Kopf** einfügen&quot;. Lassen Sie das Kontrollkästchen deaktiviert, wenn es am Anfang erscheinen soll.
+   >Wenn das Tag &quot;`<script>`&quot;am Ende des Tags &quot;`<head>`&quot;im Code angezeigt werden soll, markieren Sie das Kontrollkästchen &quot;**Skript zum Vorausfüllen am Ende der Überschrift**&quot;einfügen. Lassen Sie das Kontrollkästchen deaktiviert, wenn es am Anfang erscheinen soll.
    >
-   >Markieren Sie **Entfernen Sie die standardmäßigen Favicon-Links** , um zu verhindern, dass Marketo Favicon-Links in den Code einfügt.
+   >Markieren Sie **Entfernen Sie die standardmäßigen Favicon-Links**, um zu verhindern, dass Marketo Favicon-Links in den Code einfügt.
 
 1. Klicken Sie nach der Auswahl auf **Speichern.**
 
