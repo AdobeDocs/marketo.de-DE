@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Status in der SFDC-Kampagne ändern {#change-status-in-sfdc-campaign}
+# Status ändern in der SFDC-Kampagne {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -25,13 +25,13 @@ Wenn ein Interessent in Salesforce nicht vorhanden ist oder noch nicht Mitglied 
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
-1. Suchen und wählen Sie zuerst die Salesforce- **Kampagne** aus, in der sich der Datensatz befindet.
+1. Suchen und wählen Sie zuerst die Salesforce **Kampagne**, in der sich der Datensatz befindet.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Wählen Sie dann den **neuen** **Status** aus, den Sie festlegen möchten und fertig sind!
+1. Wählen Sie dann die **Neu** **Status** aus, die Sie festlegen möchten und fertig sind!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
