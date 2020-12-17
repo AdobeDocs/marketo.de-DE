@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programm erstellen {#create-a-program}
+# Programm {#create-a-program} erstellen
 
 Programme sind eines der wichtigsten Elemente in Marketo. Du wirst sie viel benutzen!
 
@@ -19,11 +19,11 @@ Programme sind eines der wichtigsten Elemente in Marketo. Du wirst sie viel benu
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie den Ordner für das neue Programm aus. Wählen Sie **Neu** und klicken Sie auf **Neues Programm*****.***
+1. Wählen Sie den Ordner für das neue Programm aus. Wählen Sie **Neu** und klicken Sie auf **Neues Programm*****.**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. Geben Sie einen **Namen****,*** ein ** [Kanal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in der Dropdownliste ein und klicken Sie auf **Erstellen.**
+1. Geben Sie einen **Kanal****,**** einen ** [a3/>*** in der Dropdown-Liste ein und klicken Sie auf **Erstellen.**](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
@@ -31,5 +31,5 @@ Programme sind eines der wichtigsten Elemente in Marketo. Du wirst sie viel benu
 >
 >**Tieftauchen**
 >
->Weitere Informationen zu [Programmen](http://docs.marketo.com/display/docs/programs).
+>Erfahren Sie mehr über [Programm](http://docs.marketo.com/display/docs/programs).
 
