@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Zuweisen von Benutzerpartitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces}
+# Benutzerpartitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces} zuweisen
 
 So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsbereich:
 
@@ -25,13 +25,13 @@ So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsber
 
 >[!CAUTION]
 >
->Arbeitsbereiche und Benutzerpartitionen können komplex sein. Wenden Sie sich an [Marketo, um Hilfe bei der Einrichtung zu erhalten](http://support.marketo.com/) .
+>Arbeitsbereiche und Benutzerpartitionen können komplex sein. Bitte wenden Sie sich an [Marketo support](http://support.marketo.com/), um Hilfe bei der Einrichtung zu erhalten.
 
 1. Klicken Sie unter Admin auf Arbeitsbereiche und Partitionen.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. Wählen Sie Ihren Arbeitsbereich aus und klicken Sie auf Arbeitsbereich **bearbeiten**.
+1. Wählen Sie Ihren Arbeitsbereich aus und klicken Sie auf **Arbeitsbereich bearbeiten**.
 
    ![](assets/two-3.png)
 
@@ -43,7 +43,7 @@ So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsber
 
    ![](assets/three-3.png)
 
-   Partitionen von Primär Personen sind der Standard, in dem alle Völker eingetragen werden. Verwenden Sie [Flussschritte](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuordnungsregeln](assigning-person-partitions-with-assignment-rules.md) , um Personen zu verschieben.
+   Partitionen von Primär Personen sind der Standard, in dem alle Völker eingetragen werden. Verwenden Sie die [Flussschritte](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuweisungsregeln](assigning-person-partitions-with-assignment-rules.md), um Personen zu verschieben.
 
 1. Klicken Sie auf **Speichern**.
 
