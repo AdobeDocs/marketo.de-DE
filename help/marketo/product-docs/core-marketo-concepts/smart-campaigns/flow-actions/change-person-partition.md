@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Benutzerpartition ändern {#change-person-partition}
+# Personenpartition ändern {#change-person-partition}
 
 ## Übersicht {#overview}
 
-Wenn Sie [Arbeitsflächen und Partitionen](http://docs.marketo.com/x/9QMk)verwenden, sollten Sie intelligente Kampagnen erstellen, um die Benutzer von einer Partition auf eine andere zu verschieben.
+Wenn Sie [Arbeitsbereiche und Partitionen](http://docs.marketo.com/x/9QMk) verwenden, sollten Sie intelligente Kampagnen erstellen, um Personen von einer Partition auf eine andere zu verschieben.
 
 ![](assets/one-3.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Wählen Sie die Partition aus, auf die Sie die Personen verschieben möchten.
 
