@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen Einmal-Anmeldung bei einem Portal {#add-single-sign-on-to-a-portal}
+# hinzufügen Single-Sign-On für ein Portal {#add-single-sign-on-to-a-portal}
 
 Wenn Sie über einen Ordnerdienst verfügen, der Benutzer authentifiziert, können Sie Single Sign-On (SSO) in Marketing zulassen. Diese Funktion wird mit der SAML-Version (Security Assertion Markup Language) 2.0 und höher unterstützt.
 
@@ -25,14 +25,14 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 
 >[!NOTE]
 >
->Sind Sie ein Microsoft-Azurblauer Benutzer? Sehen Sie sich ihr [Integrationslehrgang](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/)an.
+>Sind Sie ein Microsoft-Azurblauer Benutzer? Sehen Sie sich ihr [Integrationstutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/) an.
 
 ## Senden der Anforderung {#how-to-send-the-request}
 
 * Senden Sie die SSO-Anforderung (eine SAML-Antwort) an `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * Als Audiencen-URL des SP. Verwenden Sie [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Wenn Sie das Attribut SPNameQualifier verwenden, stellen Sie das Element NameID für Subject auf [http://saml.marketo.com/sp ein.](http://saml.marketo.com/sp)
-* Wenn Sie mehrere MarketingTo-Abonnement mit demselben SSO-Anbieter verbinden, können Sie für jedes Marketing-Unterprogramm eindeutige SP-URLs mit dem Format verwenden `http://saml.marketo.com/sp/<munchkin_id>`
+* Wenn Sie das Attribut SPNameQualifier verwenden, stellen Sie das Element NameID für Subject auf [http://saml.marketo.com/sp](http://saml.marketo.com/sp) ein.
+* Wenn Sie mehrere Marketing-Abonnement mit demselben SSO-Anbieter verbinden, können Sie für jedes Marketing-Unterelement eindeutige SP-URLs mit dem Format `http://saml.marketo.com/sp/<munchkin_id>` verwenden
 
 >[!NOTE]
 >
@@ -40,16 +40,16 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 
 ## Zusätzliche Hinweise {#additional-notes}
 
-* **Synchronisierungszeit** - Für einen neuen Benutzer ist eine Verzögerung von etwa 10 Minuten vor der Verarbeitung einer anfänglichen SSO-Anforderung erforderlich.
-* **Benutzerbereitstellung** - Benutzer werden manuell von Marketing bereitgestellt.
+* **Synchronisierungszeit** : Für einen neuen Benutzer ist eine Verzögerung von etwa 10 Minuten vor der Verarbeitung einer anfänglichen SSO-Anforderung erforderlich.
+* **Benutzerbereitstellung**  - Benutzer werden manuell von Marketing bereitgestellt.
 * **Autorisierung** : Benutzerberechtigungen werden in Marketing verwaltet.
-* **OAuth-Unterstützung** - Marketo unterstützt OAuth derzeit nicht.
+* **OAuth-Unterstützung**  - Marketing unterstützt OAuth derzeit nicht.
 
 >[!NOTE]
 >
 >Bevor Sie beginnen, müssen Sie das Identitäts-Provider-Zertifikat im X.509-Format und in der Erweiterung .crt, .der oder .cer verwenden.
 
-## SAML-Einstellungen aktualisieren {#update-saml-settings}
+## SAML-Einstellungen {#update-saml-settings} aktualisieren
 
 Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgenden Schritte aus, um SAML zu aktivieren und zu konfigurieren.
 
@@ -59,9 +59,9 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgend
 
    >[!NOTE]
    >
-   >Wenn Sie **Single-Sign-On** nicht unter **Admin** sehen, wenden Sie sich an [`[email protected]`](http://mailto:support@marketo.com).
+   >Wenn **Single-Sign-On** unter **Admin** nicht angezeigt wird, wenden Sie sich an [`[email protected]`](http://mailto:support@marketo.com).
 
-1. Klicken Sie im Abschnitt **SAML-Einstellungen** auf **Bearbeiten**.
+1. Klicken Sie unter dem Abschnitt **SAML-Einstellungen** auf **Bearbeiten**.
 
    ![](assets/image2014-9-24-14-3a37-3a3.png)
 
@@ -69,11 +69,11 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgend
 
    ![](assets/image2014-9-24-14-3a37-3a17.png)
 
-1. Geben Sie Ihre **Aussteller-ID**, **Entitäts-ID**, wählen Sie den **Benutzer-ID-Speicherort** und klicken Sie dann auf **Durchsuchen**.
+1. Geben Sie **Aussteller-ID**, **Entitäts-ID**, wählen Sie **Benutzer-ID-Speicherort** und klicken Sie dann auf **Durchsuchen**.
 
    ![](assets/image2014-9-24-14-3a37-3a32.png)
 
-1. Wählen Sie Ihre **Identitäts-Provider-Zertifikatdatei** aus.
+1. Wählen Sie die Datei **Identitätsanbieter-Zertifikat** aus.
 
    ![](assets/image2014-9-24-14-3a38-3a8.png)
 
@@ -83,13 +83,13 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgend
 
 ## Einstellungen für Umleitungsseiten aktualisieren {#update-redirect-page-settings}
 
-1. Klicken Sie im Abschnitt **Umleitungsseiten** auf **Bearbeiten**.
+1. Klicken Sie unter dem Abschnitt **Seiten umleiten** auf **Bearbeiten**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Kunden, die eine universelle ID zusammen mit einer einmaligen Anmeldung verwenden, müssen die Anmelde-URL des Identitätsanbieters in das Feld **Anmelde-URL** eingeben.
+   >Kunden, die eine universelle ID zusammen mit einer einmaligen Anmeldung verwenden, müssen die Anmelde-URL des Identitätsanbieters im Feld **Anmelde-URL** eingeben.
 
 1. Geben Sie eine **Abmelden-URL** ein. Dies ist die URL, zu der der Benutzer weitergeleitet werden soll, wenn er sich bei Marketo abmeldet.
 
