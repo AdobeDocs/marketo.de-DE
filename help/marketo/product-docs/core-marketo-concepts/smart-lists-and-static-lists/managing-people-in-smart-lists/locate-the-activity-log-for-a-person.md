@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suchen Sie das Benutzerprotokoll für eine Aktivität {#locate-the-activity-log-for-a-person}
+# Suchen Sie das Aktivitäten-Protokoll für eine Person {#locate-the-activity-log-for-a-person}
 
 Das Protokoll der Aktivität ist die ultimative Quelle der Wahrheit. Das ist die komplette Geschichte der Reise einer Person in Marketo.
 
@@ -23,11 +23,11 @@ Das Protokoll der Aktivität ist die ultimative Quelle der Wahrheit. Das ist die
 
    ![](assets/two-6.png)
 
-1. Klicken Sie auf die Registerkarte **Personen** . Wählen Sie eine Person- **ID** -Nummer aus.
+1. Klicken Sie auf die Registerkarte **Personen**. Wählen Sie eine Person **Id** aus.
 
    ![](assets/three-5.png)
 
-1. Klicken Sie auf **Aktivität Protokoll**.
+1. Klicken Sie auf **Aktivität Log**.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ Das Protokoll der Aktivität ist die ultimative Quelle der Wahrheit. Das ist die
    >**Verwandte Artikel**
    >
    >
-   >Erfahren Sie mehr über das [Filtern der Aktivität-](filter-activity-types-in-the-activity-log-of-a-person.md)Anmeldung, um bestimmte Aktivitäten zu sehen.
+   >Erfahren Sie mehr über das Filtern des Aktivitäten-Protokolls[zum Anzeigen bestimmter Aktivitäten.](filter-activity-types-in-the-activity-log-of-a-person.md)
 
