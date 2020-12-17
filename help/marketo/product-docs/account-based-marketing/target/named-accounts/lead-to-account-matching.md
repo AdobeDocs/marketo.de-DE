@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Interessenten-zu-Konto-Übereinstimmung {#lead-to-account-matching}
+# Interessenten zu Kontoübereinstimmung {#lead-to-account-matching}
 
 Die Übereinstimmungsrechte führen zu rechtsbenannten Konten mit der Abgleichung von &quot;Interessent zu Konto&quot;.
 
 >[!NOTE]
 >
->**Die Interessenten-zu-Konto-Übereinstimmung** ist eine integrierte Funktion von Marketing-to-Account-basiertem Marketing. Es verwendet unscharfe Logik, um automatisch Interessenten zu den richtigen Konten in Echtzeit zuzuordnen. Diese benannten Konten können CRM-Konten oder Marketo-Firmen sein.
+>**Interessenten-zu-Konto-** Übereinstimmung ist eine integrierte Funktion von Marketing-to-Account-basiertem Marketing. Es verwendet unscharfe Logik, um automatisch Interessenten zu den richtigen Konten in Echtzeit zuzuordnen. Diese benannten Konten können CRM-Konten oder Marketo-Firmen sein.
 
 Die Suche nach einer Marketing-to-Account-Übereinstimmung erfolgt in vier Schritten:
 
-**Schritt 1 -** Unser Abgleichprozess beginnt mit der Verwendung wichtiger Informationen zu den Interessentendatensätzen, z. B.:
+**Schritt 1 -** Unser Übereinstimmungsprozess beginnt mit der Verwendung wichtiger Informationen zu den Interessentendatensätzen, z. B.:
 
 * E-Mail-Domäne (z. B. acme.com)
 * Vorgestellter Name der Firma aus IP-Adresse
@@ -39,7 +39,7 @@ Da die Interessenten-zu-Konto-Abwägung von Marketo eine integrierte Funktion de
 
 >[!NOTE]
 >
->Wenn Sie LeanData in Salesforce verwenden, um eine Interessenten-zu-Konto-Übereinstimmung zu erzielen, verfügt Marketo über eine Integration, die diese Übereinstimmungen mit Ihrer Marketing-Instanz synchronisiert. Wenden Sie sich zwecks Aktivierung dieser Funktion an den [MarketingTo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie LeanData in Salesforce verwenden, um eine Interessenten-zu-Konto-Übereinstimmung zu erzielen, verfügt Marketo über eine Integration, die diese Übereinstimmungen mit Ihrer Marketing-Instanz synchronisiert. Um diese Funktion aktivieren zu lassen, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >
