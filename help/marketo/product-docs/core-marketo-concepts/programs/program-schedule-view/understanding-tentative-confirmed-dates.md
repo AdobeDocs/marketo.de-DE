@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Einführung/Bestätigung von Datumsangaben {#understanding-tentative-confirmed-dates}
+# Grundlagen zu den Tentativen/bestätigten Datumsangaben {#understanding-tentative-confirmed-dates}
 
-Intelligente Kampagnen und E-Mail-Programm verfügen über eine leistungsstarke Funktion, um als **Tentativ** oder **Bestätigt** gekennzeichnet zu werden. So funktionieren sie.
+Intelligente Kampagnen und E-Mail-Programm verfügen über eine leistungsstarke Funktion, die als **Tentative** oder **Confirmed** gekennzeichnet werden kann. So funktionieren sie.
 
 ## Tentativ {#tentative}
 
@@ -25,7 +25,7 @@ Vorsätzliche Datumsangaben vermitteln Absicht. Stellen Sie sich das als *pinkel
 >
 >Nur intelligente Batch-Kampagnen und E-Mail-Programm können zaghaft sein.
 
-## Bestätigung von Einträgen {#confirming-entries}
+## Bestätigungseinträge {#confirming-entries}
 
 Dies ist genau so wie die Genehmigung eines Assets, daher müssen die Einträge vollständig eingerichtet sein, bevor Sie sie bestätigen können. Sobald sich alle Enten in einer Reihe befinden, können Sie die Einträge bestätigen, indem Sie die zitative Registerkarte nach rechts verschieben.
 
@@ -41,9 +41,9 @@ Bestätigte Einträge werden definitiv ausgeführt. Sie verfügen über Regeln, 
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Fertig  {#finished}
+## Fertig{#finished}
 
-Fertige Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und **beendet** ist, können Sie ihn nicht verschieben oder vorsichtig machen. (Keine Änderung der Realität und Unterbrechung des Zeitstrom-Kontinuums.)
+Fertige Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Nachdem ein Eintrag ausgeführt wurde und **Fertig** ist, können Sie ihn nicht verschieben oder vorläufig einstellen. (Keine Änderung der Realität und Unterbrechung des Zeitstrom-Kontinuums.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
