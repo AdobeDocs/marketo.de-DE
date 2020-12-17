@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Mit dem Drilldown-Verfahren für Seitendetails {#seo-using-the-page-detail-drill-down}
+# SEO - Mit dem Drilldown für Seitendetails {#seo-using-the-page-detail-drill-down}
 
 Mit dem Detaillierungsgrad der Seite können Sie viele Informationen zu Ihren Seiten anzeigen.
 
@@ -44,9 +44,9 @@ Mit dem Detaillierungsgrad der Seite können Sie viele Informationen zu Ihren Se
 | Facebook-Vorlieben | Häufigkeit, mit der diese Seitenfreigabe auf Facebook gemocht wurde. |
 | Facebook-Klicks | Anzahl der Klicks aus der Facebook-Freigabe. |
 
-## Suchbegriffe, für die diese Seite optimiert wurde  {#keyword-s-that-page-is-optimized-for}
+## Suchbegriff(e), für die diese Seite optimiert wurde(n) für {#keyword-s-that-page-is-optimized-for}
 
-Hier [wählen Sie den Suchbegriff aus, für den Sie Ihre Seite optimieren](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)möchten.
+Hier wählen Sie [den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten.](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
 >[!NOTE]
 >
