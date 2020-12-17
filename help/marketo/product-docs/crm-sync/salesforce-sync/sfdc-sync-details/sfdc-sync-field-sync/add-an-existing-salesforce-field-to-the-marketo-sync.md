@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen eines vorhandenen Salesforce-Felds zur Synchronisierung des Markets {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# hinzufügen eines vorhandenen Salesforce-Felds an den MarkerToSync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Normalerweise werden neue benutzerdefinierte Felder in Salesforce automatisch mit Marketo synchronisiert. Ist dies nicht der Fall, sind die Felder für den Benutzer von &quot;Markieren zum Synchronisieren&quot;möglicherweise nicht sichtbar. Hier ist, wie man das reparieren kann.
 
-1. Klicken Sie auf Ihren Namen und wählen Sie **Einstellungen**.
+1. Klicken Sie auf Ihren Namen und wählen Sie **Setup**.
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. Geben Sie in der linken Suchleiste **Profil** ein und klicken Sie unter &quot;Benutzer **verwalten&quot;auf** Profil ****.
+1. Geben Sie in der linken Suchleiste **Profil** ein und klicken Sie unter **Benutzer verwalten** auf **Profil**.
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,7 +31,7 @@ Normalerweise werden neue benutzerdefinierte Felder in Salesforce automatisch mi
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. Klicken Sie im Abschnitt Sicherheit **auf** Feldebene neben dem Objekt, das das Feld enthält, auf **Ansicht** .
+1. Klicken Sie im Abschnitt **Sicherheit auf Feldebene** neben dem Objekt, das das Feld enthält, auf **Ansicht**.
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
