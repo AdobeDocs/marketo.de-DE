@@ -35,7 +35,7 @@ Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für d
 
    ![](assets/two.png)
 
-1. Geben Sie den **Namen und die Website-URL** ein und klicken Sie auf **Speichern**.
+1. Geben Sie **Name, Website-URL** ein und klicken Sie auf **Speichern**.
 
    >[!TIP]
    >
@@ -47,7 +47,7 @@ Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für d
 
    ![](assets/four.png)
 
-## Eine Site löschen {#delete-a-site}
+## Eine Site {#delete-a-site} löschen
 
 Wenn Sie mehr als eine Site verfolgen, können Sie auch eine Site löschen, die nicht mehr an einer Optimierung interessiert ist.
 
@@ -67,5 +67,5 @@ Bestätigen Sie, dass Sie löschen möchten.
 
    >[!NOTE]
    >
-   >Sie können eine Site nur löschen, wenn Sie mehrere Sites haben. Wenn Sie nur eine Site haben, können Sie eine Zurücksetzung durchführen, indem Sie die Site auswählen und auf **Zurücksetzen** klicken. Wenn Sie eine Site zurücksetzen, *werden alle Site-Daten* gelöscht und die Site neu erstellt.
+   >Sie können eine Site nur löschen, wenn Sie mehrere Sites haben. Wenn Sie nur eine haben, können Sie eine Rücksetzung durchführen, indem Sie die Site auswählen und auf **Zurücksetzen** klicken. Wenn Sie eine Site zurücksetzen, werden *alle Site-Daten* gelöscht und die Site neu erstellt.
 
