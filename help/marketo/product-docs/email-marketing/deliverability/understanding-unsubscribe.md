@@ -19,9 +19,9 @@ Es gibt in Marketo tatsächlich mehrere verschiedene Typen von integrierten Abme
 >
 >Marketo ist dabei, Begriffe wie Blacklist und Whitelist in Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
-Alle diese Felder sind in Ihrem Marketo-Abonnement integriert. Sie sind alle booleschen (Kontrollkästchen) Typ. Sie können in Forms oder [Change Data Value](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) Flow-Schritten verwendet werden.
+Alle diese Felder sind in Ihrem Marketo-Abonnement integriert. Sie sind alle booleschen (Kontrollkästchen) Typ. Sie können in Forms oder [Datenwert ändern](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) Flussschritten verwendet werden.
 
-## Nicht abonniert {#unsubscribed}
+## Abonnement aufheben {#unsubscribed}
 
 Dies wird auf der Standardseite zum Abmelden verwendet. Wenn eine Person dieses Kontrollkästchen aktiviert oder in einer E-Mail auf den Link zum Abmelden klickt, erhalten sie keine Marketing-E-Mails mehr. Sie erhalten jedoch [operative E-Mails](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
@@ -39,7 +39,7 @@ Dieser Status blockiert eine Person 24 Stunden nach dem Auftreten eines Hartabst
 
 ## Auf die Blockierungsliste gesetzt {#blocklisted}
 
-[Benutze das für Leute wie Konkurrent](http://docs.marketo.com/x/uwOQ). Jeder, der **keine** E-Mails empfangen möchte - operativ, Marketing usw. Sie bekommen nichts!
+[Benutze das für Leute wie Konkurrent](http://docs.marketo.com/x/uwOQ). Jeder, der **keine** E-Mails empfangen möchte - operative, Marketing usw. Sie bekommen nichts!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)
 
