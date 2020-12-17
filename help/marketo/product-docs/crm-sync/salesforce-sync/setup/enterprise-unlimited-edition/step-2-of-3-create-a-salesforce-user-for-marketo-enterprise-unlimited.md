@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein und erstellen ein Marketing-Salesforce-Integrationskonto.
 
-## Profil erstellen {#create-a-profile}
+## Profil {#create-a-profile} erstellen
 
 1. Klicken Sie auf **Setup**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Geben Sie &quot;Profile&quot;in die Navigationsleiste ein und klicken Sie auf den Link **Profil** .
+1. Geben Sie &quot;Profile&quot;in die Navigationsleiste ein und klicken Sie auf den Link **Profil**.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -41,17 +41,17 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Wählen Sie &quot; **Standardbenutzer**&quot;, benennen Sie das Profil &quot;Marketo-Salesforce-Synchronisierung&quot;und klicken Sie auf **&quot;Speichern&quot;**.
+1. Wählen Sie **Standardbenutzer**, geben Sie dem Profil den Namen &quot;Marketing-Salesforce-Synchronisierung&quot;und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
-## Profil-Berechtigungen festlegen {#set-profile-permissions}
+## Festlegen von Profil-Berechtigungen {#set-profile-permissions}
 
-1. Klicken Sie auf **Bearbeiten** , um die Sicherheitsberechtigungen festzulegen.
+1. Klicken Sie auf **Bearbeiten**, um die Sicherheitsberechtigungen festzulegen.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Vergewissern Sie sich, dass im Abschnitt &quot; **Administratorberechtigungen** &quot;die folgenden Kontrollkästchen aktiviert sind:
+1. Vergewissern Sie sich, dass unter dem Abschnitt **Administrative Berechtigungen** die folgenden Kontrollkästchen aktiviert sind:
 
    * API aktiviert
    * HTML-Vorlagen bearbeiten
@@ -62,7 +62,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    >[!TIP]
    >
-   >Stellen Sie sicher, dass Sie das Kontrollkästchen &quot; **Kennwort läuft** nie ab&quot;aktivieren.
+   >Stellen Sie sicher, dass Sie das Feld **Kennwort läuft nie ab** markieren.
 
 1. Stellen Sie im Abschnitt &quot;Allgemeine Benutzerberechtigungen&quot;sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
@@ -86,7 +86,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. Wenn Sie fertig sind, klicken Sie unten auf der Seite auf **Speichern** .
+1. Klicken Sie abschließend unten auf der Seite auf **Speichern**.
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -98,7 +98,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
    >
    >Dieser Schritt verhindert, dass nicht benötigte Felder in Marketo angezeigt werden, was die Übersichtlichkeit reduziert und die Synchronisierung beschleunigt.
 
-1. Gehen Sie auf der Seite &quot;Profil-Details&quot;zum Abschnitt **Sicherheit** auf Feldebene. Klicken Sie auf **Ansicht** , um die Barrierefreiheit für die Objekte zu bearbeiten:
+1. Gehen Sie auf der Detailseite zum Profil zu **Sicherheit auf Feldebene**. Klicken Sie auf **Ansicht**, um die Barrierefreiheit für die Objekte zu bearbeiten:
 
    * `Lead`
    * `Contact`
@@ -115,7 +115,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Suchen Sie nach den nicht benötigten Feldern und stellen Sie sicher, dass die Optionen **Zugriff lesen **und** Zugriff bearbeiten **deaktiviert sind. Klicken Sie nach Abschluss des Vorgangs auf **Speichern** .
+1. Suchen Sie die nicht benötigten Felder, stellen Sie sicher, dass die Kontrollkästchen **Zugriff lesen **und** Zugriff bearbeiten **deaktiviert sind. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    >[!NOTE]
    >
@@ -126,7 +126,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nachdem Sie alle nicht benötigten Felder deaktiviert haben, müssen Sie für die folgenden Objektfelder die Option **Zugriff lesen und Zugriff bearbeiten **aktivieren. Klicken Sie nach Abschluss des Vorgangs auf **Speichern** .
+1. Nachdem Sie alle nicht benötigten Felder deaktiviert haben, müssen Sie für die folgenden Objektfelder die Option **Zugriff lesen und Zugriff bearbeiten **aktivieren. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
 <table> 
  <tbody> 
@@ -151,7 +151,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Marketing-Salesforce-Synchronisierungskonto erstellen {#create-marketo-salesforce-sync-account}
+## Erstellen Sie ein Marketing-Salesforce-Synchronisierungskonto {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
@@ -161,7 +161,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-new-users.png)
 
-1. Füllen Sie die erforderlichen Felder aus. Wählen Sie dann die **Benutzerlizenz aus: Salesforce** und das zuvor erstellte Profil. Klicken Sie nach Abschluss des Vorgangs auf **Speichern** .
+1. Füllen Sie die erforderlichen Felder aus. Wählen Sie dann die **Benutzerlizenz: Salesforce** und das zuvor erstellte Profil. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
