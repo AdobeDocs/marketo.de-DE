@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Prüfen Sie, wie Ihr E-Mail-Programm (mit oder ohne A/B-Test) mit diesem Dashboard arbeitet.
 
-## E-Mail-Programm auswählen {#select-your-email-program}
+## Wählen Sie Ihr E-Mail-Programm {#select-your-email-program}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -29,7 +29,7 @@ Prüfen Sie, wie Ihr E-Mail-Programm (mit oder ohne A/B-Test) mit diesem Dashboa
    >
    >Wenn Ihr A/B-Test oder E-Mail-Programm noch nicht gestartet wurde, wird kein Dashboard angezeigt.
 
-## E-Mail-Programm-A/B-Ansicht {#email-program-a-b-test-view}
+## E-Mail-Programm A/B-Ansicht {#email-program-a-b-test-view}
 
 Wenn Sie Ihrem E-Mail-Programm einen A/B-Test hinzugefügt haben und der Test derzeit ausgeführt wird, sehen Sie Folgendes:
 
@@ -37,7 +37,7 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test hinzugefügt haben und der Test de
 
 ## E-Mail-Programm-Ansicht {#email-program-view}
 
-Wenn Sie keinen A/B-Test hinzugefügt haben *oder* der Test beendet ist, sollte Folgendes angezeigt werden:
+Wenn Sie auch keinen A/B-Test *oder* hinzugefügt haben, wenn der Test beendet ist, sollte Folgendes angezeigt werden:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
