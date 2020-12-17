@@ -39,7 +39,7 @@ Durch Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitio
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Wenn Sie möchten, können Sie eine Kopie [der Definition an andere Marker](sharing-a-filter-definition-in-the-marketing-calendar.md) senden.
+   Wenn Sie möchten, können Sie [eine Kopie](sharing-a-filter-definition-in-the-marketing-calendar.md) der Definition an andere Marker senden.
 
    >[!NOTE]
    >
