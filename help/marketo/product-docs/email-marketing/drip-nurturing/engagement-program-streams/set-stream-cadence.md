@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: einmal wöchentlich oder alle drei Dienstag des Monats.
 
-## Kadenz festlegen {#set-cadence}
+## Kadenz einstellen {#set-cadence}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen Sie nach Ihrem Interaktions-Programm, klicken Sie auf die Registerkarte **Streams **und dann auf Stream- **Kadenz** festlegen.
+1. Suchen und wählen Sie Ihr Interaktions-Programm aus, klicken Sie auf die Registerkarte **Streams **und dann auf **Stream-Kadenz festlegen**.
 
    ![](assets/selectstreamcadence.jpg)
 
@@ -51,9 +51,9 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    >[!TIP]
    >
-   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **Wiederholungen auswählen: Wöchentlich** /** Alle: 1 Woche** /** ****Am**: alle Tage.
+   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **Wiederholungen auswählen: Wöchentlich** /** Alle: 1 Woche** /** ****On**: alle Tage.
 
-   Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie die Zeitzone [des](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)Empfängers verwenden möchten (d. h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf Speichern.
+   Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie [Zeitzone des Empfängers](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) verwenden möchten (d.h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf Speichern.
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
