@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Änderung der Programm-Kadenz {#change-engagement-program-cadence}
+# Programm-Kadenz ändern {#change-engagement-program-cadence}
 
 1. Übersicht
 
@@ -23,15 +23,15 @@ ht-degree: 0%
    >
    >Wenn eine Person kein Mitglied des Programms ist und diesen Flussschritt durchläuft, wird sie automatisch als Mitglied und in den ersten Stream eingefügt.
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Wählen Sie das Interaktions-Programm aus.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Wählen Sie &quot; **Angehalten** &quot;als **Neuer Wert** , um zu verhindern, dass die Person Inhalte empfängt.
+1. Wählen Sie **Angehalten** als **Neuer Wert** aus, um zu verhindern, dass die Person Inhalte empfängt.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Sie können die Person auf &quot; **Normal** &quot;zurücksetzen, wenn Sie möchten, dass sie erneut mit dem Empfang von Inhalten beginnt.
+   Sie können die Person auf **Normal** zurücksetzen, wenn Sie möchten, dass sie erneut mit dem Empfang von Inhalten beginnt.
 
