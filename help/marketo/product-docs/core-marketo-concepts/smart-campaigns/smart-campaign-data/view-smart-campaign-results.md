@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ansicht - Ergebnisse intelligenter Kampagnen {#view-smart-campaign-results}
+# Ergebnisse der intelligenten Ansicht-Kampagne {#view-smart-campaign-results}
 
 Möchten Sie eine Aufschlüsselung aller Geschehnisse in einer intelligenten Kampagne sehen? So ist es einfach.
 
@@ -19,15 +19,15 @@ Möchten Sie eine Aufschlüsselung aller Geschehnisse in einer intelligenten Kam
 
    >[!TIP]
    >
-   >Sie können die Liste der Personen sehen, die von der intelligenten Kampagne verarbeitet wurden, indem Sie auf [Ansicht Kampagne Mitglieder](view-smart-campaign-members.md)klicken.
+   >Sie können die Liste der Personen sehen, die von der intelligenten Kampagne verarbeitet wurden, indem Sie auf [Ansicht Kampagne Member](view-smart-campaign-members.md) klicken.
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >Sie können die Ergebnisse auch nach dem Typ der Aktivität filtern. Erfahren Sie, wie Sie die Ergebnisse [intelligenter Kampagnen](filter-smart-campaign-results.md)filtern.
+   >Sie können die Ergebnisse auch nach dem Typ der Aktivität filtern. Erfahren Sie, wie Sie die Ergebnisse der intelligenten Kampagne [filtern.](filter-smart-campaign-results.md)
 
-1. Klicken Sie auf eine **ID** , um weitere Informationen zu dieser Aktivität Ansicht.
+1. Klicken Sie auf eine **ID**, um weitere Informationen zu dieser Aktivität Ansicht.
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 
