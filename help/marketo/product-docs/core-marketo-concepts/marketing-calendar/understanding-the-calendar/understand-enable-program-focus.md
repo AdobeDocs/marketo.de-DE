@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Programm-Fokus verstehen/aktivieren {#understand-enable-program-focus}
 
-Der Marketingkalender gibt Ihnen eine Ansicht der Dinge, aber er erlaubt auch einige Interaktionen. Sie können Einträge [erstellen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [bearbeiten](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [löschen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)und [bestätigen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) . Um mit Einträgen zu interagieren, müssen Sie sich zuerst auf ein Programm konzentrieren.
+Der Marketingkalender gibt Ihnen eine Ansicht der Dinge, aber er erlaubt auch einige Interaktionen. Sie können [Einträge erstellen, ](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [bearbeiten, [löschen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) und [bestätigen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md). ](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) Um mit Einträgen zu interagieren, müssen Sie sich zuerst auf ein Programm konzentrieren.
 
-1. Gehen Sie zum **Marketing** - **Kalender**.
+1. Gehen Sie zum **Marketing** **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Wählen Sie einen Eintrag und klicken Sie auf Programm-Fokus **anzeigen**.
+1. Wählen Sie einen Eintrag aus und klicken Sie auf **Programm-Fokus anzeigen**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
