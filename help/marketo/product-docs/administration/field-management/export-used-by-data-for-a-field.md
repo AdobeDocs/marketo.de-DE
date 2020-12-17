@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nach Daten für ein Feld exportieren {#export-used-by-data-for-a-field}
+# Nach Daten für ein Feld {#export-used-by-data-for-a-field} exportieren
 
 Als Administrator haben Sie die Möglichkeit, verwandte Elemente eines Felds zu exportieren, damit Sie deren Verknüpfung mit Ihrem Team delegieren können.
 
@@ -31,7 +31,7 @@ Als Administrator haben Sie die Möglichkeit, verwandte Elemente eines Felds zu 
 
    ![](assets/three.png)
 
-1. Klicken Sie auf die Dropdownliste **Feldaktionen** und wählen Sie **Verwendete exportieren**.
+1. Klicken Sie auf die Dropdownliste **Feldaktionen** und wählen Sie **Verwendete exportieren von**.
 
    ![](assets/four.png)
 
