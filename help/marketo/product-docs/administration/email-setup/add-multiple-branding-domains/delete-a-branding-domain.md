@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eine Branding-Domäne löschen {#delete-a-branding-domain}
+# Eine Branding-Domäne {#delete-a-branding-domain} löschen
 
 1. Klicken Sie in &quot;My Marketo&quot;auf **Admin **und dann auf den Link **E-Mail **Link.
 
