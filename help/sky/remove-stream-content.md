@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalten wird bei der [Archivierung](/help/sky/archive-and-unarchive-stream-content.md) der gesamte mit dem Inhalt verknüpfte Verlauf beibehalten. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie einfach zu entfernen, hier ist, wie Sie das machen.
+Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalten behält [Archivieren](/help/sky/archive-and-unarchive-stream-content.md) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie einfach zu entfernen, hier ist, wie Sie das machen.
 
 1. Wählen Sie Ihr Interaktions-Programm aus.
 
    ![Bild eins](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
