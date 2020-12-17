@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die Oktober-Version enthält weitere spannende neue Funktionen! Social-Funktionen sind als Add-On oder als Teil ausgewählter Pakete verfügbar.
 
-## Importieren von Programmen und Programm Exchange {#import-programs-and-program-exchange}
+## Programme importieren und Programm Exchange {#import-programs-and-program-exchange}
 
 Ein Programm kann von einem Markt in ein anderes Abonnement importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus der Marketing-Programm-Bibliothek importieren.
 
@@ -45,7 +45,7 @@ Finden Sie heraus, wer Ihre Inhalte freigegeben und an Ihren Umfragen teilgenomm
 
 ![](assets/image2014-9-23-10-3a47-3a20.png)
 
-## Social-Profile {#social-profiles}
+## Social-Profil {#social-profiles}
 
 Sie können jetzt Informationen über Ihre Interessenten erfassen, wenn sie Inhalte teilen oder Formulare mit ihren sozialen Profilen ausfüllen. Dazu gehören Facebook-, LinkedIn- und Twitter-Handles, die Anzahl der Freunde, die sie haben, und mehr.
 
