@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Duplikat-Personen mit benutzerdefinierter Logik suchen {#find-duplicate-people-with-custom-logic}
+# Duplikat-Personen mit benutzerdefinierter Logik {#find-duplicate-people-with-custom-logic} suchen
 
 Marketo verfügt über eine systemintelligente Liste, die Duplikat-Leute findet, indem sie ihre E-Mail-Adressen abgleichen. Wenn Sie ein anderes Feld verwenden möchten, um Duplikate zu finden, hier sehen Sie, wie.
 
