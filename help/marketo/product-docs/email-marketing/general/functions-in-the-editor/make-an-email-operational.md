@@ -33,7 +33,7 @@ Operative E-Mails ignorieren den Status &quot;Abgemeldet&quot;und &quot;Marketin
 
    ![](assets/two-1.png)
 
-1. Überprüfen Sie die **operative E-Mail** und klicken Sie auf **Speichern**.
+1. Markieren Sie **Operative E-Mail** und klicken Sie auf **Speichern**.
 
    ![](assets/three.png)
 
@@ -41,4 +41,4 @@ Operative E-Mails ignorieren den Status &quot;Abgemeldet&quot;und &quot;Marketin
 >
 >Operative E-Mails wurden nicht für Interaktions-Programme konzipiert. Daher ignoriert ein Interaktions-Programm den Betriebsstatus einer E-Mail. Bitte bedenken Sie das, wenn Sie mit ihnen arbeiten.
 
-Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie Sie eine E-Mail [genehmigen](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie [eine E-Mail genehmigen](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
