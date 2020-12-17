@@ -31,7 +31,7 @@ Nachdem die E-Mail gesendet wurde, werden auf der Karte weitere wichtige Informa
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
-## Bestätigung einer E-Mail-Karte {#confirming-an-email-card}
+## Bestätigen einer E-Mail-Karte {#confirming-an-email-card}
 
 1. Um eine nicht bestätigte E-Mail-Karte zu bestätigen, tippen Sie auf das Menü mit drei Punkten.
 
@@ -41,7 +41,7 @@ Nachdem die E-Mail gesendet wurde, werden auf der Karte weitere wichtige Informa
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tippen Sie auf **Bestätigen **um den Auftrag zu beenden, oder **Nie** , wenn Sie zweierlei Gedanken hatten.
+1. Tippen Sie auf **Bestätigen **um den Auftrag abzuschließen, oder **Niemals Mind**, wenn Sie eine zweite Überlegung hatten.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,13 +49,13 @@ Nachdem die E-Mail gesendet wurde, werden auf der Karte weitere wichtige Informa
    >
    >Jetzt wird Ihre Karte in Orange!
 
-## Abbrechen eines E-Mail-Kartenversands {#canceling-an-email-card-send}
+## Abbrechen einer E-Mail-Karte senden {#canceling-an-email-card-send}
 
 1. Wenn Sie sich entscheiden, Ihre bestätigte E-Mail nicht abzusenden, tippen Sie auf das Menü mit drei Punkten.
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tippen Sie auf Senden **abbrechen**.
+1. Tippen Sie auf **Senden abbrechen**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -71,7 +71,7 @@ Sie können bestätigte oder nicht bestätigte E-Mail-Karten neu planen.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tippen Sie auf **Plan** neu.
+1. Tippen Sie auf **Neu planen**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
@@ -89,11 +89,11 @@ Sie können ein Beispiel eines E-Mail-Moments direkt mit jemandem teilen.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tippen Sie auf Beispiel **senden**.
+1. Tippen Sie auf **Beispiel senden**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf Beispiel **senden**.
+1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf **Beispiel senden**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
