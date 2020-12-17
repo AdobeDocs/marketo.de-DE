@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mehrere Werte zu einem Filter für intelligente Listen Hinzufügen {#add-multiple-values-to-a-smart-list-filter}
+# hinzufügen mehrerer Werte zu einem Filter für intelligente Listen {#add-multiple-values-to-a-smart-list-filter}
 
 >[!PREREQUISITES]
 >
@@ -22,21 +22,21 @@ ht-degree: 0%
 
 
 
-Nehmen wir einmal an, Sie wollen jeden in Kalifornien finden, aber Sie könnten sowohl **Kalifornien** als auch **CA** in Ihrer Datenbank speichern. Um alle anwendbaren Personen einzubeziehen, können Sie zwei **Bundesstaaten** -Filter verwenden, aber es ist einfacher mit einem.
+Nehmen wir an, Sie möchten jeden in Kalifornien finden, aber Sie können **California** und **CA** in Ihrer Datenbank speichern. Um alle relevanten Personen einzubeziehen, können Sie zwei **state**-Filter verwenden, aber es ist einfacher mit einem.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie eine intelligente Liste aus und klicken Sie auf die Registerkarte **Intelligente Liste** .
+1. Suchen und wählen Sie eine intelligente Liste aus und klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Klicken Sie auf das **Pluszeichen** des Filters.
+1. Klicken Sie auf das Pluszeichen **Pluszeichen** im Filter.
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. Sie können Werte links oder rechts auswählen und dann auf **OK** klicken.
+1. Sie können Werte links auswählen oder einfach rechts eingeben und dann auf **OK** klicken.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
