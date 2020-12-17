@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Benutzerdefiniertes Feld in Marketing erstellen {#create-a-custom-field-in-marketo}
+# Erstellen eines benutzerdefinierten Felds in Marketo {#create-a-custom-field-in-marketo}
 
 Wenn Sie ein neues benutzerdefiniertes Feld in Marketing benötigen, um Daten zu speichern/zu erfassen, erstellen Sie dieses hier.
 
@@ -31,7 +31,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketing benötigen, um Daten zu
 
    >[!TIP]
    >
-   >Sehen Sie sich das Glossar &quot; [Benutzerdefinierte Feldtypen&quot;an](custom-field-type-glossary.md).
+   >Sehen Sie sich das Glossar [Benutzerspezifische Feldtypen](custom-field-type-glossary.md) an.
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
