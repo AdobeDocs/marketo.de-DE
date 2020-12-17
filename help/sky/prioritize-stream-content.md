@@ -20,7 +20,7 @@ Nachdem Sie dem Stream Inhalte hinzugefügt haben, sollten Sie die Priorität ä
 
    ![Bild eins](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
