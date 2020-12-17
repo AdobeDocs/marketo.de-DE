@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Kampagne anfordern {#request-campaign}
 
-Sie können Personen mithilfe der **Anforderungs-Kampagne** in eine bestimmte Kampagne setzen.
+Mithilfe der Kampagne **Anforderung** für einen einzelnen Fluss können Sie Personen in eine bestimmte Kampagne setzen.
 
 >[!NOTE]
 >
->Die Kampagne, in der Sie die Person platzieren, muss aktiv sein und die ** [Kampagne muss ausgelöst](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)werden.**
+>Die Kampagne, in der Sie die Person platzieren, muss aktiv sein und die Kampagne ** [muss angefordert werden](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)***.
 
 1. Suchen und wählen Sie in der **Datenbank** die gewünschte(n) Person(en) aus.
 
    ![](assets/one-5.png)
 
-1. Klicken Sie auf **Benutzeraktionen**, halten Sie den Mauszeiger über **Sonderaktionen** und wählen Sie Kampagne **** anfordern.
+1. Klicken Sie auf **Benutzeraktionen**, halten Sie den Mauszeiger über **Special** und wählen Sie **Kampagne anfordern**.
 
    ![](assets/two-5.png)
 
-1. Wählen Sie die Kampagne aus, in die die Person eingefügt werden soll, und klicken Sie auf Jetzt **ausführen**.
+1. Wählen Sie die Kampagne aus, in die die Person platziert werden soll, und klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/three-4.png)
 
@@ -43,5 +43,5 @@ Sie können Personen mithilfe der **Anforderungs-Kampagne** in eine bestimmte Ka
 
 >[!TIP]
 >
->Verwenden Sie die **Kampagne &quot;Anforderte** Auslöser&quot;oder &quot;Filter&quot;, um Personen zu finden, die von diesem Flussschritt betroffen sind.
+>Verwenden Sie den Auslöser oder Filter **Kampagne ist angefordert**, um Personen zu finden, die von diesem Flussschritt betroffen sind.
 
