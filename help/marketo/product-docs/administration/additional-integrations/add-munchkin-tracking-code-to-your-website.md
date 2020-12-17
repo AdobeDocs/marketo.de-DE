@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website {#add-munchkin-tracking-code-to-your-website}
+# hinzufügen Munchkin-Trackingcode auf Ihrer Website {#add-munchkin-tracking-code-to-your-website}
 
 Marketos benutzerdefinierter JavaScript-Rückverfolgungscode namens Munchkin verfolgt alle Personen, die Ihre Website besuchen, sodass Sie auf ihre Besuche mit automatisierten Marketing-Kampagnen reagieren können. Auch anonyme Besucher werden zusammen mit ihren IP-Adressen und anderen Informationen verfolgt. ** Ohne diesen Rückverfolgungscode können Sie Besuche oder andere Aktivitäten auf Ihrer Website nicht verfolgen!**
 
@@ -19,13 +19,13 @@ Marketos benutzerdefinierter JavaScript-Rückverfolgungscode namens Munchkin ver
 >
 >Stellen Sie sicher, dass Sie Zugriff auf einen erfahrenen JavaScript-Entwickler haben. Der technische Support von Marketo ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes JavaScript hilft.
 
-## hinzufügen des Rückverfolgungscodes auf Ihrer Website {#add-tracking-code-to-your-website}
+## hinzufügen Trackingcode auf Ihrer Website {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Adobe Experience Cloud-Kunden können auch die Integration von Marketo in Adobe Launch verwenden, um Munchkin-Skripten auf ihren Webseiten einzubinden. Holen Sie sich die App [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud-Kunden können auch die Integration von Marketo in Adobe Launch verwenden, um Munchkin-Skripten auf ihren Webseiten einzubinden. Rufen Sie die App [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html) ab.
 
-1. Gehen Sie zu **Admin** und klicken Sie im Baum links auf **Munchkin** .
+1. Gehen Sie zu **Admin** und klicken Sie auf **Munchkin** in der Struktur auf der linken Seite.
 
    ![](assets/image2015-8-25-16-3a21-3a14.png)
 
@@ -49,14 +49,14 @@ Marketos benutzerdefinierter JavaScript-Rückverfolgungscode namens Munchkin ver
    >
    >Setzen Sie Trackingcode auf die Webseiten, die Sie verfolgen möchten. Dies kann jede Seite für kleinere Sites oder nur wichtige Seiten auf Sites mit vielen dynamisch generierten Webseiten, Benutzerforen usw. sein.
 
-   Die besten Ergebnisse erzielen Sie, wenn Sie den asynchronen Munchkin-Code verwenden und ihn in die `<head>` Elemente Ihrer Seiten einfügen. Wenn Sie den einfachen Code verwenden (nicht empfohlen), liegt dieser direkt vor dem `</body>` Tag.
+   Um optimale Ergebnisse zu erzielen, verwenden Sie den asynchronen Munchkin-Code und platzieren Sie ihn in den `<head>`-Elementen Ihrer Seiten. Wenn Sie den einfachen Code verwenden (nicht empfohlen), liegt dieser direkt vor dem `</body>`-Tag.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
 >
 >Bei Sites mit hohem Traffic-Aufkommen (d. h. Hunderttausenden Besuchen pro Monat) empfehlen wir, anonyme Personen nicht zu verfolgen. [Weitere Informationen.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
 
-## Rückverfolgungscode bei Verwendung mehrerer Arbeitsflächen Hinzufügen {#add-tracking-code-when-using-multiple-workspaces}
+## hinzufügen Rückverfolgungscode bei Verwendung mehrerer Arbeitsflächen {#add-tracking-code-when-using-multiple-workspaces}
 
 Wenn Sie Workspaces in Ihrem Marketo-Konto verwenden, haben Sie wahrscheinlich auch separate Webpräsenzen, die Ihren Arbeitsbereichen entsprechen. In diesem Fall können Sie das Munchkin-Tracking-Javascript verwenden, um Ihre anonymen Personen der richtigen Arbeitsfläche und Partition zuzuweisen.
 
@@ -84,7 +84,7 @@ Wenn Sie Workspaces in Ihrem Marketo-Konto verwenden, haben Sie wahrscheinlich a
 >
 >Verwenden Sie nicht den Code, der in diesem Screenshot gezeigt wird - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird!
 
-1. Platzieren Sie den Rückverfolgungscode auf Ihren Webseiten im `<head>` Element. Neue Personen, die diese Seite besuchen, werden dieser Partition zugewiesen.
+1. Platzieren Sie den Rückverfolgungscode auf Ihren Webseiten im Element `<head>`. Neue Personen, die diese Seite besuchen, werden dieser Partition zugewiesen.
 
 ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -96,7 +96,7 @@ Wenn Sie Workspaces in Ihrem Marketo-Konto verwenden, haben Sie wahrscheinlich a
 >
 >Landingpages, die in Marketing erstellt wurden, enthalten automatisch Trackingcode, sodass Sie diesen Code nicht darauf verwenden müssen.
 
-## Arten von Munchkin-Rückverfolgungscodes {#types-of-munchkin-tracking-codes}
+## Typen von Munchkin-Rückverfolgungscodes {#types-of-munchkin-tracking-codes}
 
 Es gibt 3 Arten von Munchkin-Trackingcodes, aus denen Sie wählen können. Jede Änderung wirkt sich unterschiedlich auf die Ladezeit der Webseite aus.
 
@@ -104,7 +104,7 @@ Es gibt 3 Arten von Munchkin-Trackingcodes, aus denen Sie wählen können. Jede 
 1. **Asynchron**: verkürzt die Ladezeit der Webseite.
 1. **Asynchrone jQuery**: verringert die Ladezeit von Webseiten und verbessert auch die Systemleistung. Bei diesem Code wird davon ausgegangen, dass Sie bereits über jQuery verfügen, und nicht überprüft, ob Sie ihn laden möchten.
 
-## Testen Sie, ob Ihr Munchkin-Code funktioniert. {#test-if-your-munchkin-code-is-working}
+## Testen Sie, ob Ihr Munchkin-Code {#test-if-your-munchkin-code-is-working} funktioniert.
 
 So überprüfen Sie, ob Ihr Munchkin-Code funktioniert, nachdem Sie ihn hinzugefügt haben:
 
@@ -113,15 +113,15 @@ So überprüfen Sie, ob Ihr Munchkin-Code funktioniert, nachdem Sie ihn hinzugef
 
    ![](assets/mainnav-analytics-hand.png)
 
-1. Klicken Sie auf **Webseite Aktivität**.
+1. Klicken Sie auf **Aktivität der Webseite**.
 
    ![](assets/webanalytics.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** , klicken Sie bei Dublette auf **Aktivität Source** und ändern Sie sie in **Anonyme Besucher (einschließlich ISPs)**.
+1. Klicken Sie auf die Registerkarte **Setup**, klicken Sie mit der Dublette auf **Aktivität Quelle** und ändern Sie sie in **Anonyme Besucher (einschließlich ISPs)**.
 
    ![](assets/analytics-activity-source.png)
 
    ![](assets/activitysource.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht** . Wenn keine Daten angezeigt werden, warten Sie einige Minuten und klicken Sie dann auf das Aktualisierungssymbol unten.
+1. Klicken Sie auf die Registerkarte **Bericht**. Wenn keine Daten angezeigt werden, warten Sie einige Minuten und klicken Sie dann auf das Aktualisierungssymbol unten.
 
