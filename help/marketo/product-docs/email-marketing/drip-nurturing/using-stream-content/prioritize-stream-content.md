@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Stream-Inhalte priorisieren {#prioritize-stream-content}
+# Priorisieren von Stream-Inhalten {#prioritize-stream-content}
 
 Nachdem Sie dem Stream Inhalte hinzugefügt haben, sollten Sie die Priorität ändern. Der Inhalt wird immer von oben nach unten in jeder Besetzung bereitgestellt, und es wird kein Inhalt zweimal an dieselbe Person gesendet.
 
@@ -19,7 +19,7 @@ Nachdem Sie dem Stream Inhalte hinzugefügt haben, sollten Sie die Priorität ä
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
