@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einrichten des Kontoteams {#account-team-setup}
+# Setup des Kontoteams {#account-team-setup}
 
 Ein Kontoteam ist eine Gruppe von Interessenvertretern, die mit einem benannten Konto zusammenarbeiten. Gehen Sie folgendermaßen vor, um auszuwählen, welche CRM-Kontorollen hinzugefügt werden sollen.
 
@@ -23,7 +23,7 @@ Ein Kontoteam ist eine Gruppe von Interessenvertretern, die mit einem benannten 
 
    ![](assets/two-3.png)
 
-1. Klicken Sie unter Kontoteam-Mitglieder auf **Bearbeiten**.
+1. Klicken Sie unter &quot;Account Team Members&quot;auf **Bearbeiten**.
 
    ![](assets/3.png)
 
@@ -31,7 +31,7 @@ Ein Kontoteam ist eine Gruppe von Interessenvertretern, die mit einem benannten 
    >
    >Geben Sie für die Kontorolle einen Namen ein und weisen Sie ihm das gewünschte Feld für die Benutzersuche in Ihrem CRM-System zu.
 
-1. Geben Sie den Namen Ihrer Kontorolle ein und wählen Sie das **CRM** -Feld. hinzufügen bis 10.
+1. Geben Sie den Namen Ihrer Kontorolle ein und wählen Sie das Feld **CRM**. hinzufügen bis 10.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Ein Kontoteam ist eine Gruppe von Interessenvertretern, die mit einem benannten 
    >
    >Sie können Kontoinhaber nicht auswählen. Er wird standardmäßig auf Kontoebene in Ihrem CRM-System ausgewählt.
 
-1. Klicken Sie abschließend auf **Speichern** .
+1. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/five-2.png)
 
