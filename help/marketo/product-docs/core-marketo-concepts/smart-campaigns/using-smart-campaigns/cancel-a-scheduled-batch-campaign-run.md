@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ausführung einer geplanten Batch-Kampagne abbrechen {#cancel-a-scheduled-batch-campaign-run}
+# Abbrechen einer geplanten Batch-Kampagne, die ausgeführt wird {#cancel-a-scheduled-batch-campaign-run}
 
 Wenn Sie eine Ausführung für eine Ihrer Batch-Kampagnen geplant haben und diese abbrechen möchten, so sehen Sie wie folgt:
 
