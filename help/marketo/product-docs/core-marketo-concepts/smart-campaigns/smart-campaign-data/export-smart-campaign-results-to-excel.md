@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ergebnisse intelligenter Kampagnen nach Excel exportieren {#export-smart-campaign-results-to-excel}
+# Exportieren von Ergebnissen intelligenter Kampagnen nach Excel {#export-smart-campaign-results-to-excel}
 
 Exportieren Sie die Ergebnisse Ihrer intelligenten Kampagne nach Excel, um sie außerhalb von Marketo zu verwenden.
 
