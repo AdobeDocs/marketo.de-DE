@@ -25,9 +25,9 @@ Marketo nutzt unsere Big-Data-Architektur, um den Durchsatz der Kampagne zu stei
 
 Wir haben zwei Verbesserungen an unserer Salesforce CRM-Integration:
 
-* [Marketing-Administratorbenachrichtigungen](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) für bestimmte CRM-Synchronisierungsfehler (Anmeldeinformationen abgelaufen, API-Beschränkungen erreicht usw.)
+* [Marketing-Admin-](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) Benachrichtigungen für bestimmte CRM-Synchronisierungsfehler (Anmeldeinformationen abgelaufen, API-Beschränkungen erreicht usw.)
 
-* [Möglichkeit zur Deaktivierung von E-Mail-Benachrichtigungen](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) an Interessentenbesitzer bei der Interessentenzuweisung
+* [Möglichkeit, E-Mail-](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) Benachrichtigungen bei Interessentenzuweisungen zu deaktivieren
 
 Diese Verbesserungen werden im Laufe des Jahres 2018 eingeführt.
 
@@ -47,7 +47,7 @@ Informieren Sie sich, wie Ihre Kampagnen und Kanal mit Zuordnungsanalysen, inter
 
 Für ABM-Kunden mit Salesforce oder Microsoft Dynamics übernimmt ABM nun automatisch die im CRM eingerichteten Beziehungen zwischen Mutter und Kind (und zeigt sie an). Sie können diese Beziehungen sowohl beim Rollup-Berichte als auch bei der Ausführung von Kampagnen verwenden.
 
-## E-Mail-Marketing {#email-marketing}
+## Email Marketing {#email-marketing}
 
 ** [Dynamisches E-Mail-Skript](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
@@ -55,17 +55,17 @@ Velocity-Skripterstellung wird jetzt in E-Mails mit dynamischen Inhalten unterst
 
 **Zeitzone des Empfängers**
 
-* ** [Monatliche Krankenpflege ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **Wir haben die Möglichkeit hinzugefügt, die Pflege-Programme mit monatlicher Kadenz zu planen.
+* ** [Monatliche Kurskadenz ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **Wir haben die Möglichkeit hinzugefügt, Pflegeprodukte mit monatlicher Kadenz zu planen.
 
-* ** [Versand](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)beenden**: Sie können jetzt alle verbleibenden Sends während der Ausführung stoppen.
+* ** [Stopp-Versand](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)***: Sie können jetzt alle verbleibenden Sends während der Ausführung stoppen.
 
 ## Ad-Netzwerk-Integrationen {#ad-network-integrations}
 
-** Integration [von Google-Kunden-Übereinstimmungen](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+** [Google-Kundenabgleich-Integration](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 Mit dieser Integration können Sie eine Marketo-Audience an Google senden, die mit Google AdWords als Ziel ausgewählt werden soll, sowie Audiencen zur erneuten Zielgruppe über YouTube, Search und Gmail hinweg.
 
-** API-Verbesserung für [LinkedIn-Matched-Audiencen](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+** [API-Verbesserung für LinkedIn-Matched-Audiencen](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)***
 
 Mit unserer neuen LinkedIn-API können Sie jetzt Personen in Ihrer MarketingIn-Datenbank über mehrere LinkedIn-Kampagne-Manager-Konten neu Zielgruppe durchführen.
 
@@ -75,7 +75,7 @@ Mit unserer neuen LinkedIn-API können Sie jetzt Personen in Ihrer MarketingIn-D
 
 Marketo fügt eine zusätzliche japanische Datenquelle für die Web-Personalisierung hinzu, um die Identifizierung von Web-Besuchern (Reverse-IP-Suche) und die Personalisierung von Besuchern aus Japan zu verbessern. Die Organisationsnamen werden auf Japanisch angezeigt.
 
-** Websegment mithilfe von statischen Listen [erstellen](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+** [Websegment mithilfe von statischen Listen erstellen](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 Mit der Web-Personalisierung können Inhalte nun an einen bekannten Web-Besucher angepasst werden, der Teil einer statischen Liste ist, die in Marketing-Aktivitäten (MLM) definiert ist. Mit dieser Verbesserung können Sie jetzt auf statische Listen über Kanal hinweg vermarkten und Personen auf diesen Listen mit personalisierten Inhalten auf Ihrer Website Zielgruppe geben.
 
@@ -83,11 +83,11 @@ Mit der Web-Personalisierung können Inhalte nun an einen bekannten Web-Besucher
 
 **Verbesserung der Prognosealgorithmen**
 
-Inhalte, die über die optimierten`<sup>AI </sup>`Inhaltsalgorithmen von Marketo empfohlen werden, erzeugen bis zu doppelt so viele Klicks wie zufällige Inhalte.
+Inhalte, die über die optimierten Content`<sup>AI </sup>`Algorithmen von Marketo empfohlen werden, erzeugen bis zu doppelt so viele Klicks wie zufällige Inhalte.
 
 ## Integration {#integration}
 
-** Kampagne-API [aktivieren/deaktivieren](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Kampagne-API aktivieren/deaktivieren](http://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Mit dieser neuen API können Sie auslösende Kampagnen remote aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programm-Vorlagen erstellen können. Erstellen Sie einmal eine Vorlage für ein Programm und automatisieren Sie dann das Klonen, Marketingmaterial-Updates und jetzt die Aktivierung/Planung intelligenter Kampagnen.
 
