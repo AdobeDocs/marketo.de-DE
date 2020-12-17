@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Leistungsbericht zu E-Mail-Links {#email-link-performance-report}
+# Bericht zur Leistung von E-Mail-Links {#email-link-performance-report}
 
 Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut die Links in Ihren E-Mails funktionieren.
 
-1. [Erstellen Sie einen Bericht in einem Programm](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie als Berichtstyp &quot; **Leistung** von E-Mail-Links&quot;aus.
+1. [Erstellen Sie einen Bericht in einem ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie  **E-Mail-Link-** Leistung als Berichtstyp.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -39,7 +39,7 @@ Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut 
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Folgende Spalten stehen](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen Bericht zur Leistung von E-Mail-Links zur Verfügung:
+[Die für einen Bericht zur Leistung von E-Mail-Links ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) verfügbaren Spalten umfassen Folgendes:
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut 
 
 >[!TIP]
 >
->Wenn Sie wissen möchten, was eine Person genau getan hat, können Sie das [Aktivitäten-Protokoll](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) auf der Seite &quot; [Personendetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) &quot;auf der Registerkarte &quot;Mitglieder&quot;im Programm öffnen.
+>Wenn Sie wissen möchten, was eine Person genau getan hat, können Sie das [Aktivität-Protokoll](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) auf der Seite [Personendetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) auf der Registerkarte &quot;Mitglieder&quot;des Programms öffnen.
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut 
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr über [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Erfahren Sie mehr über [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
