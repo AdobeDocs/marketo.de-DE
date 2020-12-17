@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Einträge direkt im Marketingkalender löschen {#delete-entries-directly-in-the-marketing-calendar}
+# Einträge direkt im Marketingkalender {#delete-entries-directly-in-the-marketing-calendar} löschen
 
-Sie können Einträge nicht nur [erstellen](create-entries-directly-in-the-marketing-calendar.md) und [bearbeiten](edit-entries-directly-in-the-marketing-calendar.md) , sondern auch direkt im Marketingkalender löschen. So geht es.
+Zusätzlich zu den Einträgen [Erstellen](create-entries-directly-in-the-marketing-calendar.md) und [Bearbeiten](edit-entries-directly-in-the-marketing-calendar.md) können Sie sie direkt im Marketingkalender löschen. So geht es.
 
-1. Gehen Sie zum **Kalender**.
+1. Gehen Sie zum Ordner **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Wählen Sie den Eintrag, den Sie löschen möchten, und klicken Sie auf Programm-Fokus **anzeigen**.
+1. Wählen Sie den Eintrag, den Sie löschen möchten, und klicken Sie auf **Programm-Fokus anzeigen**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
