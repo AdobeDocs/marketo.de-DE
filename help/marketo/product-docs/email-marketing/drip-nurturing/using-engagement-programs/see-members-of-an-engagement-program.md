@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Siehe Mitglieder eines Interaktions-Programms {#see-members-of-an-engagement-program}
+# Siehe Mitglieder eines Interaktionsmediums {#see-members-of-an-engagement-program}
 
 Sie können schnell die Mitglieder eines Interaktions-Programms sehen. So geht es.
 
-1. Klicken Sie im Programm &quot;Interaktion&quot;mit der rechten Maustaste und wählen Sie Mitglieder der **Ansicht aus.**
+1. Klicken Sie in Ihrem Interaktions-Programm mit der rechten Maustaste und wählen Sie **Ansichten-Mitglieder.**
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >Der Spaltenwert [Ausgehobener Inhalte](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) wird nach jedem Bespiel aktualisiert.
+   >Der Spaltenwert [Abgelaufener Inhalt](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) wird nach jeder Besetzung aktualisiert.
 
 1. Sie können nun alle Mitglieder Ihres Programms sehen.
 
