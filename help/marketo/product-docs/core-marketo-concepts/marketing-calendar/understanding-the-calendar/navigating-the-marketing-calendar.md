@@ -17,7 +17,7 @@ Die Navigation durch den Marketingkalender ist einfach als ein, zwei, drei!
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie über eine [Marketing-Kalender-Lizenz](issue-revoke-a-marketing-calendar-license.md) verfügen - andernfalls wird die Kachel &quot;Marketingkalender&quot;nicht in &quot;Mein Markt&quot;angezeigt.
+>Vergewissern Sie sich, dass Sie über eine [Marketing-Kalender-Lizenz](issue-revoke-a-marketing-calendar-license.md) verfügen. Andernfalls wird die Kachel &quot;Marketing-Kalender&quot;nicht in &quot;Mein Marker&quot;angezeigt.
 
 1. Gehen Sie zum **Marketingkalender**.
 
@@ -27,23 +27,23 @@ Die Navigation durch den Marketingkalender ist einfach als ein, zwei, drei!
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
-## Änderung zwischen Modi {#change-between-modes}
+## Ändern zwischen Modi {#change-between-modes}
 
-1. Klicken Sie auf die Registerkarten **3 Wochen** oder **Monat** , um zwischen den Modi zu wechseln.
+1. Klicken Sie auf die Registerkarten **3 Wochen** oder **Monat**, um zwischen den Modi zu wechseln.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Verwenden der Agenda-Ansicht {#use-the-agenda-view}
+## Verwenden Sie die Agenda-Ansicht {#use-the-agenda-view}
 
 Die Agenda-Ansicht zeigt alle Ihre Einträge als Liste an.
 
 1. Klicken Sie auf die Dropdownliste **Filter**.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
+   ^ ![](assets/image2014-9-26-10-3a29-3a6.png)
 
    `
 
-1. Wählen Sie die Ansicht **Agenda** aus.
+1. Wählen Sie die Ansicht **Agenda**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
