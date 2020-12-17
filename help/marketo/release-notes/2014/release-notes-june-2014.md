@@ -21,7 +21,7 @@ Ein neues Erscheinungsbild, einschließlich der Navigation für das Marketing Le
 
 ## Sales Insight-Plugin für Outlook 2013 {#sales-insight-plugin-for-outlook}
 
-Dies erfordert einen Download des neuen Plug-ins. Sie können es von [hier](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)herunterladen.
+Dies erfordert einen Download des neuen Plug-ins. Sie können es von [hier](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) herunterladen.
 
 ## Token-Auflösung {#token-resolution}
 
@@ -29,17 +29,17 @@ Wenn Sie eine Test-E-Mail von Sales Insight senden, werden die Token in der E-Ma
 
 ## Anpassen der Prozentsätze für Sterne und Flammen {#customize-percentages-for-stars-and-flames}
 
-[Stellen Sie den Prozentsatz](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) der Leads ein, die 1, 2 oder 3 Sterne und Flammen erhalten.
+[Legen Sie den ](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) Prozentsatz der Interessenten fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## Interessentenwiederkehrungs-API {#lead-rest-api}
+## Interessentenrückleitungs-API {#lead-rest-api}
 
-Erstellen, lesen und aktualisieren Sie Interessenten programmatisch über unsere neue ReST-API. Um mit ReST beginnen zu können, müssen Sie einen benutzerdefinierten Dienst [in Marketo](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) erstellen. Rufen Sie dann die [Entwicklersite](http://developers.marketo.com/documentation/rest/) auf, um Einzelheiten zur Verwendung dieser API zu erfahren.
+Erstellen, lesen und aktualisieren Sie Interessenten programmatisch über unsere neue ReST-API. Um mit ReST beginnen zu können, müssen Sie [einen benutzerdefinierten Dienst](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo erstellen. Gehen Sie dann zur Website [Entwickler](http://developers.marketo.com/documentation/rest/), um weitere Informationen zur Verwendung dieser API zu erhalten.
 
-## Aktualisierung der Kampagnen-Seite für die Marketing-to-Real-Time-Personalisierung {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Aktualisierung der Kampagnen-Seite für die Marketo-Echtzeit-Personalisierung (RTP) {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansicht-Ansichten und Kampagne-Performance. Darüber hinaus können Sie Ihre Kampagnen [je nach Datum oder Leistung](../../product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) organisieren.
+RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansicht-Ansichten und Kampagne-Performance. Zusätzlich können Sie [Ihre Kampagnen](../../product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) nach Datum oder Höchstleistung sortieren.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansicht-Ansichten und
 
 Hängen Sie alle RTP-Daten in Ihre Webanalyseplattform an.
 
-Die Integration mit [Google Analytics](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Switch, über den Daten an benutzerdefinierte Variablen und Ereignis für GA gesendet werden sollen.
+Die Integration mit [Google Analytics](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Switch, über den Daten an benutzerdefinierte GA-Variablen und -Ereignis gesendet werden sollen.
 
-Wir haben die Integration auch mit [Adobe SiteCatalyst](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)abgeschlossen.
+Die Integration wurde auch mit [Adobe SiteCatalyst](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md) abgeschlossen.
