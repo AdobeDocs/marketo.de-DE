@@ -17,9 +17,9 @@ hinzufügen eine zusätzliche Branding-Domäne, wenn Sie mehrere Marken aus eine
 
 >[!PREREQUISITES]
 >
->Sie müssen den generischen Verfolgungslink [durch eine Markendomäne](edit-your-default-branding-domain.md) ersetzen, bevor Sie zusätzliche Markendomänen hinzufügen.
+>Sie müssen [den generischen Verfolgungslink](edit-your-default-branding-domain.md) durch eine Markendomäne ersetzen, bevor Sie zusätzliche Markendomänen hinzufügen.
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **Admin **und dann auf den Link **E-Mail** .
+1. Klicken Sie in &quot;My Marketo&quot;auf **Admin **und dann auf den Link **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -33,7 +33,7 @@ hinzufügen eine zusätzliche Branding-Domäne, wenn Sie mehrere Marken aus eine
 
 >[!NOTE]
 >
->Sie können festlegen, dass diese Domäne Ihre primäre Domäne ist. Alle vorhandenen nicht gesendeten E-Mails, die auf &quot;Standard&quot;gesetzt sind, und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domäne eingestellt. Sie können dies per E-Mail [überschreiben](overwrite-primary-domain-for-emails.md).
+>Sie können festlegen, dass diese Domäne Ihre primäre Domäne ist. Alle vorhandenen nicht gesendeten E-Mails, die auf &quot;Standard&quot;gesetzt sind, und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domäne eingestellt. Sie können [dies per E-Mail überschreiben.](overwrite-primary-domain-for-emails.md)
 
 >[!NOTE]
 >
