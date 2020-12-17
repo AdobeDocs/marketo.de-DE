@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste {#seo-add-remove-keywords-from-a-list}
+# SEO - Suchbegriffe Hinzufügen/aus einer Liste {#seo-add-remove-keywords-from-a-list} entfernen
 
 Mit Listen können Sie alle Suchbegriffe angenehm und organisiert halten. Dadurch wird das Auffinden von Daten zu bestimmten Suchbegriffen einfach.
 
 ## hinzufügen in eine Liste {#add-to-a-list}
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken Sie auf **HINZUFÜGEN/AUS LISTE** entfernen.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -37,15 +37,15 @@ Mit Listen können Sie alle Suchbegriffe angenehm und organisiert halten. Dadurc
 
 Woohoo! Wählen Sie Ihre Liste aus, um die neuen Suchbegriffe anzuzeigen.
 
-## Suchbegriff aus Liste entfernen {#remove-keyword-from-list}
+## Suchbegriff aus Liste {#remove-keyword-from-list} entfernen
 
 Sie können Suchbegriffe auch aus einer Liste entfernen.
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken Sie auf **HINZUFÜGEN/AUS LISTE** entfernen.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
