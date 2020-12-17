@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Benutzerdefinierte Eingabetypen erstellen {#create-custom-entry-types}
+# Benutzerdefinierte Eingabetypen {#create-custom-entry-types} erstellen
 
 Sie können benutzerdefinierte Eintragstypen erstellen, die in Ihrer Programmplanung-Ansicht verwendet werden. Auf diese Weise können Sie alle nicht-marketo Tagesordnungspunkte verfolgen, die Ihr Programm betreffen.
 
-1. Gehen Sie zum Abschnitt **Admin** und klicken Sie auf **Tags**.
+1. Wechseln Sie zum Abschnitt **Admin** und klicken Sie auf **Tags**.
 
    ![](assets/admintags.png)
 
