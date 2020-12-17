@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über Email Editor v2.0 {#email-editor-v-overview}
+# Email Editor v2.0 Übersicht {#email-editor-v-overview}
 
 Wenn Sie den E-Mail-Editor v2.0 aktivieren, werden Sie einige neue Funktionen bemerken.
 
 **Auswahl der E-Mail-Vorlage**
 
-Wenn Sie eine neue E-Mail erstellen, gelangen Sie zur Auswahl der [E-Mail-Vorlage](email-template-picker-overview.md).
+Wenn Sie eine neue E-Mail erstellen, gelangen Sie zum [E-Mail-Vorlagenwähler](email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Wenn Sie Beginn haben, Ihre E-Mail zu bearbeiten, werden Sie feststellen, dass d
 
 **Module**
 
-Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Sie, wie Sie Ihrer E-Mail Module [hinzufügen](add-modules-to-your-email.md).
+Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Sie, wie Sie Ihrer E-Mail Module [hinzufügen.](add-modules-to-your-email.md)
 
 ![](assets/three-4.png)
 
 **Textversion**
 
-Der Wechsel zwischen der HTML-Version und der Text-Version Ihrer E-Mail erfolgt jetzt auf einer praktischen Registerkarte unten. Erfahren Sie, wie Sie die Textversion einer E-Mail [](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)bearbeiten.
+Der Wechsel zwischen der HTML-Version und der Text-Version Ihrer E-Mail erfolgt jetzt auf einer praktischen Registerkarte unten. Erfahren Sie, wie Sie die Textversion einer E-Mail bearbeiten können.[](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
 
 ![](assets/four-3.png)
 
 **E-Mail-Kopfzeile**
 
-Möchten Sie mehr Platz im Design? Der E-Mail-Header kann nach der [Bearbeitung](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)ausgeblendet werden. Klicken Sie einfach auf dieses Symbol...
+Möchten Sie mehr Platz im Design? Der E-Mail-Header kann ausgeblendet werden, nachdem Sie [die Bearbeitung abgeschlossen haben. ](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md) Klicken Sie einfach auf dieses Symbol...
 
 ![](assets/five-4.png)
 
@@ -59,7 +59,7 @@ Standardmäßig zeigt die E-Mail an, wie sie auf einem Desktop aussehen würde, 
 
 ![](assets/eight-3.png)
 
-Für eine größere Vorschau klicken Sie oben rechts in der E-Mail auf **Vorschau** .
+Klicken Sie für eine größere Vorschau oben rechts in der E-Mail auf **Vorschau**.
 
 ![](assets/preview1.png)
 
@@ -67,13 +67,13 @@ Die Standard-Ansicht ist Desktop...
 
 ![](assets/preview2.png)
 
-...aber Sie können auch sehen, wie es auf einem Mobilgerät aussehen wird. Sie können auch die Textversion Vorschau! Klicken Sie einfach oben rechts auf Entwurf **bearbeiten** , um die Bearbeitung fortzusetzen.
+...aber Sie können auch sehen, wie es auf einem Mobilgerät aussehen wird. Sie können auch die Textversion Vorschau! Klicken Sie einfach auf **Entwurf bearbeiten** oben rechts, um die Bearbeitung fortzusetzen.
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **E-Mail-Aktionen**
 
-Unter &quot; **E-Mail-Aktionen**&quot;werden Sie einige neue Funktionen bemerken. **Laden Sie ein Bild oder eine Datei** hoch und **ziehen Sie Bilder aus dem Web**. Sie können die E-Mail auch selbst als neue E-Mail-Vorlage speichern. Sie müssen nur einen Namen und ein Ziel angeben.
+Unter **E-Mail-Aktionen** werden Sie einige neue Funktionen bemerken. **Laden Sie ein Bild oder eine Datei** hoch und  **ziehen Sie Bilder aus dem Web**. Sie können die E-Mail auch selbst als neue E-Mail-Vorlage speichern. Sie müssen nur einen Namen und ein Ziel angeben.
 
 ![](assets/nine-3.png)
 
@@ -83,9 +83,9 @@ Unter &quot; **E-Mail-Aktionen**&quot;werden Sie einige neue Funktionen bemerken
 
 >[!NOTE]
 >
->** [Grab Images from Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funktioniert genauso wie im Design Studio.
+>** [Bilder vom Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)*** funktioniert genau wie im Design Studio.
 
-**Deaktivieren Sie &quot;Verfolgung** öffnen&quot;unter &quot; **E-Mail-Einstellungen**&quot;und deaktivieren Sie bei Bedarf die Option &quot;Verfolgung öffnen&quot;.
+**Deaktivieren Sie &quot;** Verfolgung öffnen&quot;unter &quot; **E-Mail-Einstellungen**&quot;, können Sie die Verfolgung öffnen deaktivieren, falls erforderlich.
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ Viele tolle neue Features! Viel Spaß!
 >
 >**Tieftauchen**
 >
->Wenn Sie noch tiefer gehen möchten, sehen Sie sich dieses [hilfreiche Video](https://nation.marketo.com/videos/1463)an.
+>Wenn Sie noch tiefer gehen möchten, sehen Sie sich dieses [hilfreiche Video](https://nation.marketo.com/videos/1463) an.
 
 >[!MORELIKETHIS]
 >
