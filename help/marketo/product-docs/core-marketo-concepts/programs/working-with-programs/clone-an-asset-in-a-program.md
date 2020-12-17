@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Klonen eines Assets in einem Programm {#clone-an-asset-in-a-program}
 
-Das Klonen eines Programms klont *alles*. Manchmal möchten Sie nur ein Asset klonen. So geht es.
+Klonen eines Programms *alles* Manchmal möchten Sie nur ein Asset klonen. So geht es.
 
 >[!NOTE]
 >
->Sie müssen zusätzliche Schritte ausführen, um eine Landingpage-Testgruppe zu [klonen](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>Sie müssen weitere Schritte ausführen, um [eine Landingpage-Testgruppe](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md) zu klonen.
 
 ## Klonen eines lokalen Assets {#clone-a-local-asset}
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -33,13 +33,13 @@ Das Klonen eines Programms klont *alles*. Manchmal möchten Sie nur ein Asset kl
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Jedes Asset enthält ein anderes Dialogfeld. Füllen Sie einfach die Info aus und klicken Sie auf **Klonen.**
+1. Jedes Asset enthält ein anderes Dialogfeld. Füllen Sie einfach die Informationen aus und klicken Sie auf **Klonen.**
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >Sie können ein Asset auch in ein anderes Programm klonen. Verwenden Sie die Dropdownliste **Programm** , um Ihre Auswahl vorzunehmen.
+   >Sie können ein Asset auch in ein anderes Programm klonen. Verwenden Sie die Dropdownliste **Programm**, um Ihre Auswahl vorzunehmen.
 
 1. Großartig! Sie sollten nun das neue geklonte Asset sehen.
 
