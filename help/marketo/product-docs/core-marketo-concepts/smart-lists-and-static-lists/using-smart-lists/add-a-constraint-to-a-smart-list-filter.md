@@ -30,25 +30,25 @@ In diesem Beispiel sollten wir einem ** [Datenwert geändert](../../../../produc
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie die intelligente Liste mit einem Filter aus, dem Sie eine Beschränkung hinzufügen möchten, und klicken Sie auf die Registerkarte &quot; **Intelligente Liste** &quot;.
+1. Wählen Sie die intelligente Liste mit einem Filter aus, dem Sie eine Beschränkung hinzufügen möchten, und klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/two-3.png)
 
-1. Wählen Sie unter **Hinzufügen Einschränkung** die Option **Vorheriger Wert**.
+1. Wählen Sie unter **Hinzufügen Constraint** **Vorheriger Wert**.
 
    ![](assets/three-3.png)
 
-1. Geben Sie den **vorherigen Wert** ein. In diesem Beispiel verwenden wir MQL.
+1. Geben Sie den Wert **Vorheriger Wert** ein. In diesem Beispiel verwenden wir MQL.
 
    ![](assets/four-2.png)
 
-1. Wählen Sie unter **Hinzufügen Einschränkung** die Option **Neuer Wert**.
+1. Wählen Sie unter **Hinzufügen Constraint** **Neuer Wert**.
 
    ![](assets/five.png)
 
-1. Geben Sie den **neuen Wert** ein. In diesem Beispiel verwenden wir SQL.
+1. Geben Sie den Wert **Neuer Wert** ein. In diesem Beispiel verwenden wir SQL.
 
    ![](assets/six.png)
 
-1. Gut gemacht! Klicken Sie auf die Registerkarte **Personen** , um alle Personen anzuzeigen, die in den letzten 30 Tagen eine **Statusänderung** von **MQL** zu **SQL** vorgenommen haben.
+1. Gut gemacht! Klicken Sie auf die Registerkarte **Personen**, um alle Personen anzuzeigen, die in den letzten 30 Tagen einen Wechsel von **MQL** zu **SQL** hatten.****
 
