@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Person mit dem SFDC synchronisieren {#sync-person-to-sfdc}
+# Person mit SFDC synchronisieren {#sync-person-to-sfdc}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Mit diesem Flussschritt fügen Sie von Marketo erstellte Personen als Interessen
 
 ![](assets/sync-person-to-sfdc.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Standardmäßig weist dieser Flussschritt Interessenteninhabern basierend auf den Salesforce-Regeln für die automatische Zuweisung zu.
 
