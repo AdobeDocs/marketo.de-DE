@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Verwalten von Tag-Werten {#managing-tag-values}
 
-[Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) werden zur Beschreibung von Programmen verwendet. Sie können so viele machen, wie Sie benötigen, mit jeweils eindeutigen Werten. Hier ist, wie man diese Werte verwaltet.
+[Mit ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) Tags werden Programm beschrieben. Sie können so viele machen, wie Sie benötigen, mit jeweils eindeutigen Werten. Hier ist, wie man diese Werte verwaltet.
 
 >[!NOTE]
 >
@@ -29,19 +29,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Klicken Sie auf** Neu** und dann auf **Neuer Tag-Wert**.
+1. Klicken Sie auf** Neu** und dann **Neuer Tag-Wert**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Wählen Sie den **Tag-Typ** aus.
+1. Wählen Sie **Tag-Typ**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Geben Sie einen **Wert** ein und klicken Sie auf **Hinzufügen einen anderen**. Sie können beliebig viele Werte hinzufügen.
+1. Geben Sie einen **Wert** ein und klicken Sie auf **Hinzufügen Einen weiteren**. Sie können beliebig viele Werte hinzufügen.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
-1. hinzufügen Sie die übrigen Werte und klicken Sie auf **Erstellen**.
+1. hinzufügen Sie die restlichen Werte und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 Tags können von alten Programmen verwendet werden. Sie können sie für die zukünftige Verwendung aufheben, indem Sie den Tag-Typ ausblenden.
 
-1. Wählen Sie das** ****Tag** aus und wählen Sie den auszublendenden **Wert** aus.
+1. Wählen Sie das Tag **** **** und wählen Sie **Wert** aus, den Sie ausblenden möchten.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. Wählen Sie unter **Tag-Aktionen** die Option **Ausblenden**.
+1. Wählen Sie unter **Tag-Aktionen** **Ausblenden**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
