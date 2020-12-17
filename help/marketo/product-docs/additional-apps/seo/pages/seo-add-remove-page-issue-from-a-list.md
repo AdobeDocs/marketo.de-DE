@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# SEO - Seitenproblem aus einer Liste Hinzufügen/entfernen {#seo-add-remove-page-issue-from-a-list}
+# SEO - Seitenproblem aus einer Liste {#seo-add-remove-page-issue-from-a-list} Hinzufügen/entfernen
 
 Sie können Seitenprobleme in Listen organisieren. Sie können auch Seitenprobleme aus einer Liste entfernen.
 
-## Seitenprobleme in einer Liste Hinzufügen {#add-page-issues-to-a-list}
+## hinzufügen Seitenprobleme bei einer Liste {#add-page-issues-to-a-list}
 
-1. Gehen Sie zum Abschnitt **Seiten** .
+1. Gehen Sie zum Abschnitt **Seiten**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
 1. Klicken Sie auf der Registerkarte &quot;Seiten&quot;auf **Probleme**.
 1. ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Bewegen Sie den Mauszeiger über das hinzuzufügende Seitenproblem. Klicken Sie auf **HINZUFÜGEN/AUS LISTE** entfernen.
+1. Bewegen Sie den Mauszeiger über das hinzuzufügende Seitenproblem. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -35,7 +35,7 @@ Sie können Seitenprobleme in Listen organisieren. Sie können auch Seitenproble
    >
    >Sie können auch eine neue Liste für Ihren Suchbegriff erstellen. Geben Sie einfach Ihren gewünschten Namen in Neue Liste erstellen ein.
 
-## Seitenproblem aus einer Liste entfernen {#remove-page-issue-from-a-list}
+## Seitenproblem aus einer Liste {#remove-page-issue-from-a-list} entfernen
 
 1. Gehen Sie zum Abschnitt Seiten.
 
@@ -49,7 +49,7 @@ Sie können Seitenprobleme in Listen organisieren. Sie können auch Seitenproble
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **HINZUFÜGEN/AUS LISTE** entfernen.
+1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
