@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Wenn Sie eine Ausführung für eine Ihrer Batch-Kampagnen geplant haben und diese abbrechen möchten, so sehen Sie wie folgt:
 
-1. Wählen Sie die Kampagne aus und klicken Sie auf die Registerkarte **[!UICONTROL Plan]** .
+1. Wählen Sie die Kampagne aus und gehen Sie zur Registerkarte **[!UICONTROL Plan]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
@@ -24,7 +24,7 @@ Wenn Sie eine Ausführung für eine Ihrer Batch-Kampagnen geplant haben und dies
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Suchen Sie den geplanten Run, den Sie stornieren möchten, und klicken Sie auf das **[!UICONTROL X]** ganz rechts.
+1. Suchen Sie nach dem geplanten Ausführen, den Sie stornieren möchten, und klicken Sie ganz rechts auf das **[!UICONTROL X]**.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 
