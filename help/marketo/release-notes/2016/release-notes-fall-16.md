@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionshinweise: Herbst 16 {#release-notes-fall}
+# Versionshinweise: Fall &#39;16 {#release-notes-fall}
 
 Die folgenden Funktionen sind in der Version Herbst 16 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
@@ -67,7 +67,7 @@ Es sind die Tage vorbei, in denen Sie sich Sorgen machen mussten, dass Benutzer,
 
 **Einschränkungen für Kampagnen bearbeiten**
 
-Warum sollten Sie Beschränkungen [für die](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) Kampagne festlegen, wenn Sie sie nicht durchsetzen können? Wenn Sie die Kampagne &quot;Limit Settings&quot;festlegen, um die Anzahl der Personen in Ihrer Datenbank einzuschränken, die auf eine einzige Kampagne ausgerichtet werden können, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
+Warum [Einschränkungen der Kampagne](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) festlegen, wenn Sie diese nicht erzwingen können? Wenn Sie die Kampagne &quot;Limit Settings&quot;festlegen, um die Anzahl der Personen in Ihrer Datenbank einzuschränken, die auf eine einzige Kampagne ausgerichtet werden können, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
 
 ## [Audio für Push-Benachrichtigungen für Mobilgeräte](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -86,7 +86,7 @@ Geben Sie Ihrer iOS-Push-Benachrichtigung mehr Komfort, indem Sie Sound aktivier
 
 ## [Sales Insight kompatibel mit Salesforce-Verschlüsselung](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight ist jetzt mit Salesforce Shield Encryption kompatibel. Alle Sales Insight-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket (Version 1.4359.2) durchführen, das [über AppExchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)verfügbar ist.
+Market Sales Insight ist jetzt mit Salesforce Shield Encryption kompatibel. Alle Sales Insight-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket (Version 1.4359.2) durchführen, das [auf der App Exchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) verfügbar ist.
 
 ## [APIs für benannte Konten](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
