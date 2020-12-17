@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionshinweise: September 2013 {#release-notes-september}
 
-Die folgenden Funktionen sind in der September-Version enthalten. Überprüfen Sie Ihre [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der September-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
 
-Achten Sie nach der Veröffentlichung darauf, in der Community auf der Registerkarte &quot; [Neue Version](release-notes-december-2013.md) &quot;detaillierte Knowledge Base-Artikel für jede Funktion zu finden!
+Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Knowledge Base-Artikel für jede Funktion zu erhalten!
 
 ## Kürzere URLs {#shorter-urls}
 
@@ -29,11 +29,11 @@ Verwenden Sie Daten von Marketing zu benutzerdefinierten Objekten oder fügen Si
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
-## Test an Senden-Beispiel ändern {#change-send-test-to-send-sample}
+## Senden des Tests an Beispiel {#change-send-test-to-send-sample} ändern
 
 Wir haben die Aktion Test senden umbenannt in Beispiel senden
 
-## Personalisierte Beispiel-E-Mail senden {#personalized-send-sample-email}
+## Personalisierte Beispiel-E-Mail {#personalized-send-sample-email}
 
 Wenn Sie ein E-Mail-Muster senden, können Sie den Namen eines Interessenten auswählen, um die Muster-E-Mail zu personalisieren.
 
@@ -45,7 +45,7 @@ Sie können den Firmen- und Auftragsnamen aus Ihrem Marketing-Formular mit dem G
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
-## Benutzeranmeldung nur auf SSO beschränken {#restrict-user-login-to-sso-only}
+## Benutzeranmeldung auf SSO beschränken {#restrict-user-login-to-sso-only}
 
 Abonnement so konfigurieren, dass nur Marketo-Benutzer sich über die einmalige Anmeldung und nicht über den normalen Anmeldebildschirm anmelden können
 
@@ -53,13 +53,13 @@ Abonnement so konfigurieren, dass nur Marketo-Benutzer sich über die einmalige 
 
 In Design Studio hochgeladene Dateien werden jetzt automatisch gescannt und blockiert, wenn die Dateien Viren enthalten
 
-## Exportchanceneinflussanalyse {#export-opportunity-influence-analyzer}
+## Export Opportunity Influenza Analyzer {#export-opportunity-influence-analyzer}
 
 Sie können die Daten jetzt im Opportunity Influence Analyzer nach Excel exportieren. Jede exportierte Excel-Datei enthält alle Marketing-Interaktionen für alle Interessenten (einschließlich derjenigen, die keine Rolle in der Gelegenheit spielen) sowie alle Möglichkeiten unter dem ausgewählten Konto im Analyzer. Die Anlaufstellen werden grün hervorgehoben. Sie können die nativen Datenfilterfunktionen von Excel verwenden, wenn Sie sich auf bestimmte Interessenten oder Marketing-Aktivitäten konzentrieren müssen.
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
-## Einstellungen für die Zuordnung von Programmen {#program-attribution-settings}
+## Programm-Zuordnungseinstellungen {#program-attribution-settings}
 
 Sie können die Art und Weise ändern, wie Marketo Kontakte und Möglichkeiten für First Touch- und Multi-Touch-Zuordnungsmetriken verknüpft, einschließlich der Fähigkeit, eine kontobasierte Zuordnung vorzunehmen. Diese Einstellungen wirken sich auf die Zuordnungsmetriken in Umsatz-Explorer-Berichten im Bereich &quot;Analyse für Programm-Chancen&quot;und im Bereich &quot;Analyse für Chancen&quot;aus. Dies wirkt sich auch auf die Zuordnungsmetriken in Programm Analyzer aus.
 
@@ -69,7 +69,7 @@ Bei der Einstellung Explizit werden nur Kontakte mit Rollen geprüft (aktuelles 
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Sales Insight ist auf Französisch und Deutsch verfügbar (nur Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
+## Sales Insight verfügbar in Französisch und Deutsch (nur Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
 
 Laden Sie die aktuelle Version von Marketo Lead Management und Marketo Sales Insight von AppExchange herunter, damit Ihre französischen und deutschen Vertriebsmitarbeiter Sales Insight-Inhalte in ihrer bevorzugten Sprache anzeigen können.
 
