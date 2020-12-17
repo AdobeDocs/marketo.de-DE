@@ -22,7 +22,7 @@ In diesem Beispiel wählen wir einmal in der Woche, Dienstag um 8:00 Uhr.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. Gehen Sie zur Registerkarte **[!UICONTROL Plan]** und klicken Sie auf **[!UICONTROL Wiederkehrung]** einstellen.
+1. Wechseln Sie zur Registerkarte **[!UICONTROL Plan]** und klicken Sie auf **[!UICONTROL Wiederholung einstellen]**.
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
@@ -30,15 +30,15 @@ In diesem Beispiel wählen wir einmal in der Woche, Dienstag um 8:00 Uhr.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. Klicken Sie auf das Kalendersymbol neben dem Datum des **[!UICONTROL Wiederkehrenden Beginns]** und wählen Sie den Tag für die erste Ausführung und die Uhrzeit aus. Für dieses Beispiel verwenden wir den nächsten verfügbaren Dienstag. Klicken Sie nach Abschluss des Vorgangs aus dem Kalender.
+1. Klicken Sie auf das Kalendersymbol neben **[!UICONTROL Datum des Wiederkehrens]** und wählen Sie den Beginn für die erste Ausführung und die Uhrzeit aus. Für dieses Beispiel verwenden wir den nächsten verfügbaren Dienstag. Klicken Sie nach Abschluss des Vorgangs aus dem Kalender.
 
    ![Bild vier](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. Setzen Sie &quot; **[!UICONTROL Wiederholen&quot;alle]** auf 1 und wählen Sie &quot; **[!UICONTROL Dienstag]**&quot;aus.
+1. Setzen Sie **[!UICONTROL Wiederholen Sie jeden]** auf 1 und wählen Sie **[!UICONTROL Dienstag]**.
 
    ![Bild fünf](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. Klicken Sie auf das Kalendersymbol neben **[!UICONTROL Ende am]** und wählen Sie ein Enddatum aus. Klicken Sie auf **[!UICONTROL Bestätigen]** , wenn Sie fertig sind.
+1. Klicken Sie auf das Kalendersymbol neben **[!UICONTROL Ending on]** und wählen Sie ein Enddatum. Klicken Sie nach Abschluss des Vorgangs auf **[!UICONTROL Bestätigen]**.
 
    ![Bild sechs](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
