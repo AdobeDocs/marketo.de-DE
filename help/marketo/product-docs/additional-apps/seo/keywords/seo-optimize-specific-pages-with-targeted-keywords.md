@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Optimieren Sie bestimmte Seiten mit zielgerichteten Suchbegriffen. {#seo-optimize-specific-pages-with-targeted-keywords}
+# SEO - Optimieren Sie bestimmte Seiten mit zielgerichteten Suchbegriffen {#seo-optimize-specific-pages-with-targeted-keywords}
 
 Einige Suchbegriffe passen gut zu bestimmten Seiten. So passen Sie den perfekten Suchbegriff zu seiner perfekten Seite. Dadurch werden die genauesten Daten und die besten Verbesserungsempfehlungen bereitgestellt.
 
-1. Gehen Sie zum Abschnitt **Seiten** .
+1. Gehen Sie zum Abschnitt **Seiten**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a
 
@@ -23,7 +23,7 @@ Einige Suchbegriffe passen gut zu bestimmten Seiten. So passen Sie den perfekten
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Wählen Sie den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten. Klicken Sie auf **AKTUALISIEREN**.
+1. Wählen Sie den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten. Klicken Sie auf **UPDATE**.
 
    >[!TIP]
    >
