@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dynamische Inhalte in einer E-Mail verwenden {#using-dynamic-content-in-an-email}
+# Verwenden von dynamischem Inhalt in einer E-Mail {#using-dynamic-content-in-an-email}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Interessenten zielgerichtete Informationen zu senden.
 
-## hinzufügen {#add-segmentation}
+## hinzufügen{#add-segmentation}
 
 1. Gehen Sie zu Marketing-Aktivitäten.
 
@@ -33,13 +33,13 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Interessenten zielgerichtet
 
    ![](assets/1.2.png)
 
-1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie im Feld Betreff auf die Schaltfläche **Dynamisch** .
+1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie im Feld Betreff auf die Schaltfläche **Dynamisch**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie &quot;Dynamisch **** machen&quot;(bzw. &quot;Dynamisch [&quot;(bzw. &quot;Mit Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)ersetzen&quot;).
+   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch** (bzw. [Ersetzen durch Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie tun).
 
    Geben Sie den Segmentierungsnamen ein, wählen Sie ihn aus und klicken Sie auf Speichern.
 
