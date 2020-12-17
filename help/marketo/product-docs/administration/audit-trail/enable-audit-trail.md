@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Prüfpfad aktivieren {#enable-audit-trail}
+# Audit-Protokoll {#enable-audit-trail} aktivieren
 
 Prüfpfad steht allen Kunden zur Verfügung und wird durch zwei Administratorberechtigungen gesteuert.
 
@@ -19,7 +19,7 @@ Prüfpfad steht allen Kunden zur Verfügung und wird durch zwei Administratorber
 >
 >Standardmäßig sind für alle Systemadministratorrollen beide Berechtigungen aktiviert.
 
-## Prüfpfad für eine Rolle aktivieren {#enable-audit-trail-for-a-role}
+## Prüfpfad für eine Rolle {#enable-audit-trail-for-a-role} aktivieren
 
 1. Klicken Sie auf **Admin**.
 
@@ -29,7 +29,7 @@ Prüfpfad steht allen Kunden zur Verfügung und wird durch zwei Administratorber
 
    ![](assets/two-2.png)
 
-1. Wählen Sie die Rolle aus, für die Sie den Prüfpfad aktivieren möchten, und klicken Sie auf Rolle **bearbeiten**.
+1. Wählen Sie die Rolle, für die Sie den Prüfpfad aktivieren möchten, und klicken Sie auf **Rolle bearbeiten**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Prüfpfad steht allen Kunden zur Verfügung und wird durch zwei Administratorber
    >
    >Sie haben hier auch die Möglichkeit, eine neue Rolle zu erstellen und ihr den Audit-Protokoll-Zugriff zu gewähren.
 
-1. Erweitern Sie die **Zugriffsberechtigung &quot;Admin** &quot;. Wählen Sie je nach Bedarf **Zugriffsprüfungsprotokoll** und/oder **Zugriffsanmeldeverlauf**. Klicken Sie auf **Speichern**.
+1. Erweitern Sie die Berechtigung **Zugriff auf Admin**. Wählen Sie **Zugriffsprüfungsprotokoll** und/oder **Zugriffsanmeldeverlauf** je nach Ihren Anforderungen. Klicken Sie auf **Speichern**.
 
    ![](assets/four-1.png)
 
@@ -46,22 +46,22 @@ Prüfpfad steht allen Kunden zur Verfügung und wird durch zwei Administratorber
    >**Definition**
    >
    >
-   >**Prüfpfad für Zugriff:** Ermöglicht Benutzern Zugriff auf den Asset-Prüfpfad und den Admin-Prüfpfad.
+   >**Zugriffsprüfungsprotokoll:** Ermöglicht Benutzern Zugriff auf den Asset-Prüfpfad und den Admin-Prüfpfad.
    >
    >
-   >**Zugriffsanmeldungsverlauf:** Ermöglicht Benutzern Zugriff auf den [Benutzeranmeldeverlauf](user-login-history.md).
+   >**Anmeldeverlauf aufrufen:** Ermöglicht Benutzern Zugriff auf den  [Anmeldeverlauf](user-login-history.md).
 
-## Rolle &quot;Prüfprotokoll&quot;einem Benutzer zuweisen {#assign-audit-trail-role-to-a-user}
+## Prüfprotokoll-Rolle einem Benutzer {#assign-audit-trail-role-to-a-user} zuweisen
 
 >[!PREREQUISITES]
 >
->[Erstellen](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) oder [aktivieren](#Enable) Sie eine vorhandene Rolle, wobei Sie ihr die Berechtigung &quot;Prüfpfad&quot;zuweisen.
+>[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Erstellen oder  [](#Enable) aktivieren Sie eine vorhandene Rolle, wobei Sie ihr die Berechtigung &quot;Prüfpfad&quot;zuweisen.
 
-1. Klicken Sie in **Benutzer und Rollen** auf **Benutzer**.
+1. Klicken Sie unter **Benutzer und Rollen** auf **Benutzer**.
 
    ![](assets/five-1.png)
 
-1. Wählen Sie den Benutzer aus, auf den Sie Audit Trail zugreifen möchten, und klicken Sie auf Benutzer **bearbeiten**.
+1. Wählen Sie den Benutzer aus, auf den Sie Audit Trail zugreifen möchten, und klicken Sie auf **Benutzer bearbeiten**.
 
    ![](assets/six-1.png)
 
@@ -75,7 +75,7 @@ Prüfpfad steht allen Kunden zur Verfügung und wird durch zwei Administratorber
 
    >[!CAUTION]
    >
-   >Wenn Sie Arbeitsbereiche aktiviert haben, aktivieren Sie das Kontrollkästchen der Rolle, in dem alle Arbeitsbereiche ausgewählt werden. Wenn Sie eine einzelne Arbeitsfläche deaktivieren, wird der Prüfpfad ausgeblendet. Dies bedeutet, dass Sie Audit-Trail-Daten für jeden Arbeitsbereich sehen. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)auszublenden.
+   >Wenn Sie Arbeitsbereiche aktiviert haben, aktivieren Sie das Kontrollkästchen der Rolle, in dem alle Arbeitsbereiche ausgewählt werden. Wenn Sie eine einzelne Arbeitsfläche deaktivieren, wird der Prüfpfad ausgeblendet. Dies bedeutet, dass Sie Audit-Trail-Daten für jeden Arbeitsbereich sehen. Sie haben die Möglichkeit, Arbeitsflächen auszublenden, wenn [filter](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
 
 1. Klicken Sie auf **Speichern**.
 
