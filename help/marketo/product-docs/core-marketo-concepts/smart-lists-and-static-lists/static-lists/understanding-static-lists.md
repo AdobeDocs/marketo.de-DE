@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Statische Listen verstehen {#understanding-static-lists}
+# Statische Listen {#understanding-static-lists}
 
 Statische Listen sind eines der einfachsten und nützlichsten Features von Marketo. Es handelt sich lediglich um eine Liste von Namen aus Ihrer Datenbank. Es gibt viele Gründe, sie zu benutzen.
 
@@ -24,15 +24,15 @@ Der Unterschied zwischen einer statischen und intelligenten Liste ist für ein V
 | Typ | Logik |
 |---|---|
 | Intelligente Liste | Basierend auf **definierten Regeln** |
-| Statische Liste | Basierend auf dem **Hinzufügen/Entfernen jeder Person** |
+| Statische Liste | Basierend auf **Hinzufügen/Entfernen jeder Person** |
 
 >[!CAUTION]
 >
->Einer der häufigsten Fehler ist der Gedanke, dass man eine Person aus einer Liste entfernen kann, indem man sie einfach &quot;löscht&quot;. **Das ist falsch.** Wenn Sie die Person löschen, werden sie nicht nur aus **der Liste, sondern aus der gesamten Datenbank** gelöscht.
+>Einer der häufigsten Fehler ist der Gedanke, dass man eine Person aus einer Liste entfernen kann, indem man sie einfach &quot;löscht&quot;. **Das ist falsch.** Wenn Sie die Person löschen, werden sie nicht nur aus  **der Liste, sondern aus der gesamten Datenbank** gelöscht.
 
-## Hinzufügen/Entfernen von Personen aus einer Liste {#ways-to-add-remove-people-from-a-list}
+## Methoden zum Hinzufügen/Entfernen von Personen aus einer Liste {#ways-to-add-remove-people-from-a-list}
 
-1. Flussschritt für intelligente Kampagne ([Hinzufügen zur Liste](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Entfernen aus Liste](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Workflow für intelligente Kampagnen ([Hinzufügen zu Liste](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Aus Liste entfernen](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
 1. [Schritt für einen Aktionsfluss](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. Ziehen von Personen in eine Liste im Baum
