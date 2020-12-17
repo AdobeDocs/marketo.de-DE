@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Details im Prüfpfad ändern {#change-details-in-audit-trail}
+# Details im Prüfpfad {#change-details-in-audit-trail} ändern
 
 Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abonnement tut. Hier sind die Details.
 
@@ -32,7 +32,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td rowspan="15">Standard-Programm<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Erstellen</td> 
-   <td>Kanal type "Kanal type"<br><br>or Cloned from "Programm name"</td> 
+   <td>Kanal Typ "Kanal type"<br>oder<br>Kloniert von "Programm name"</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
@@ -40,7 +40,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Klont in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne-Ordner"oder "Interaktions-Programm" <br>geklontes Programm "neuer Name"</td> 
+   <td>Klont in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne" oder "Interaktionsordner" <br>Programm für geklontes Programm "neuer Name"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -101,11 +101,11 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Aktualisierung von "Von E-Mail"auf "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[E-Mail-geschützt]</a>"</td> 
+   <td>"Von E-Mail"zu "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[E-Mail-geschützt]</a>"aktualisiert</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Aktualisierung von "Antwort auf"auf "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[E-Mail-geschützt]</a>"</td> 
+   <td>"Antworten auf" wurde zu "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"aktualisiert.</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -145,11 +145,11 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Design Studio"im Ordner "Foldername" <br>Klonierter Asset-Name "name"<br><br>oder "Marketing-Aktivitäten"in Programm "Programm-Name"<br>Klonierter Asset-Name "name"</td> 
+   <td>In "Design Studio"im Ordner "Foldername" <br>Kloner Asset-Name "name"<br>oder<br>Kloniert in "Marketing-Aktivitäten" in Programm "Programm-Name"<br>Kloner Asset-Name "name"</td> 
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in den Ordner "Folder name"verschoben<br><br>oder in "Marketing-Aktivitäten"in Programm "Programm-Name"verschoben</td> 
+   <td>In "Design Studio"in den Ordner "Folder name"<br>oder<br>In "Marketing-Aktivitäten"in Programm "Programm-Name"verschoben</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -161,12 +161,12 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Entwurf</td> 
-   <td>E-Mail wurde entworfen, weil das Fragment "Snippet-Name"genehmigt wurde oder<br><br>E-Mail entworfen wurde, weil die Vorlage "Vorlagenname"genehmigt wurde</td> 
+   <td>E-Mail wurde entworfen, weil das Fragment "Snippet-Name"genehmigt wurde<br>oder<br>E-Mail wurde entworfen, weil die Vorlage "Vorlagenname"genehmigt wurde.</td> 
   </tr> 
   <tr> 
    <td rowspan="17">E-Mail-Programm</td> 
    <td>Erstellen</td> 
-   <td>Kanal type "Kanal type"<br><br>or Cloned from "Programm name"</td> 
+   <td>Kanal Typ "Kanal type"<br>oder<br>Kloniert von "Programm name"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Umbenennen</td> 
@@ -174,7 +174,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Klonen in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne-Programm oder Interaktionsordner" <br>Klonierter Programm "neuer Name"</td> 
+   <td>Klont in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne-Programm oder Interaktionsordner" <br>Name des geklonten Programms "neuer Name"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -214,7 +214,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Programm-Setup ändern</td> 
-   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>"Alter Verhaltensname</td> 
+   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>Alter Verhaltensname</td> 
   </tr> 
   <tr> 
    <td>Programm-Setup ändern</td> 
@@ -255,7 +255,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Ordnername" <br> "Name des geklonten Assets "Name"geklont</td> 
+   <td>In "Ordnername" <br> "Name des geklonten Assets"geklont</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -268,7 +268,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td rowspan="23">Programm der Interaktion</td> 
    <td>Erstellen</td> 
-   <td>Kanal Typ "Kanal type"<br> oder<br> "Kloniert von "Programm name"</td> 
+   <td>Kanal Typ "Kanal type"<br> oder<br> Kloniert aus "Programm name"</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
@@ -276,7 +276,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Klonen in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne-Programm oder Interaktionsordner" <br>Klonierter Programm "neuer Name"</td> 
+   <td>Klont in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne-Programm oder Interaktionsordner" <br>Name des geklonten Programms "neuer Name"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -300,19 +300,19 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Programm-Stream ändern</td> 
-   <td>hinzufügen<br>contentDampfname "Stream-Name"<br>Typ "E-Mail"oder "Programm"<br>Name "E-Mail"oder "Programm"<br>Smart-Kampagne "Name der intelligenten Kampagne"</td> 
+   <td>hinzufügen content<br>Dampfname "Stream-Name"<br>Geben Sie "E-Mail" oder "Programm"<br>Name "E-Mail-Name" oder "Programm-Name"<br>Smart-Kampagne "Name der intelligenten Kampagne" ein.</td> 
   </tr> 
   <tr> 
    <td>Programm-Stream ändern</td> 
-   <td>Aktivieren Sie<br>contentStream-Namen "Stream-Name"<br>Inhaltsname "E-Mail-Name"oder "Programm-Name".</td> 
+   <td>Aktivieren Sie content<br>Stream-Name "Stream-Name"<br>Inhaltsname "E-Mail-Name"oder "Programm-Name".</td> 
   </tr> 
   <tr> 
    <td>Programm-Stream ändern</td> 
-   <td>Deaktivieren Sie<br>contentStream-Name "Stream-Name"<br>Inhaltsname "E-Mail-Name"oder "Programm-Name"</td> 
+   <td>Deaktivieren Sie content<br>Stream-Name "Stream-Name"<br>Inhaltsname "E-Mail-Name"oder "Programm-Name".</td> 
   </tr> 
   <tr> 
    <td>Programm-Stream ändern</td> 
-   <td>Entfernen Sie<br>den Stream-Namen "Stream-Name"<br>Inhaltsname "E-Mail-Name"oder "Programm-Name"</td> 
+   <td>Entfernen Sie content<br>Stream-Name "Stream-Name"<br>Inhaltsname "E-Mail-Name"oder "Programm-Name".</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
@@ -332,7 +332,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Programm-Setup ändern</td> 
-   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>"Alter Verhaltensname</td> 
+   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>Alter Verhaltensname</td> 
   </tr> 
   <tr> 
    <td>Programm-Setup ändern</td> 
@@ -361,7 +361,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td rowspan="18">Ereignis-Programm</td> 
    <td>Erstellen</td> 
-   <td>Kanal type "Kanal type"<br><br>or Cloned from "Programm name"</td> 
+   <td>Kanal Typ "Kanal type"<br>oder<br>Kloniert von "Programm name"</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
@@ -373,7 +373,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Klont in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne-Ordner"oder "Interaktions-Programm" <br>geklontes Programm "neuer Name"</td> 
+   <td>Klont in Arbeitsbereich "Arbeitsflächenname" <br>Speicherort "Kampagne" oder "Interaktionsordner" <br>Programm für geklontes Programm "neuer Name"</td> 
   </tr> 
   <tr> 
    <td>Kanal bearbeiten</td> 
@@ -405,7 +405,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Programm-Setup ändern</td> 
-   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>"Alter Verhaltensname</td> 
+   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>Alter Verhaltensname</td> 
   </tr> 
   <tr> 
    <td>Programm-Setup ändern</td> 
@@ -479,11 +479,11 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Design Studio"im Ordner "Foldername" <br>Klonierter Asset-Name "name"<br><br>oder "Marketing-Aktivitäten"in Programm "Programm-Name"<br>Klonierter Asset-Name "name"</td> 
+   <td>In "Design Studio"im Ordner "Foldername" <br>Kloner Asset-Name "name"<br>oder<br>Kloniert in "Marketing-Aktivitäten" in Programm "Programm-Name"<br>Kloner Asset-Name "name"</td> 
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in den Ordner "Folder name"verschoben<br><br>oder in "Marketing-Aktivitäten"in Programm "Programm-Name"verschoben</td> 
+   <td>In "Design Studio"in den Ordner "Folder name"<br>oder<br>In "Marketing-Aktivitäten"in Programm "Programm-Name"verschoben</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -509,11 +509,11 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Design Studio"im Ordner "Foldername"<br>Der Name des geklonten Assets "name"<br>Die URL des geklonten Assets "www.url.com"<br><br>oder "Marketing-Aktivitäten"in Programm "Programm-Name" <br>Der Name des geklonten Assets "name"<br>Die URL des geklonten Assets "www.url.com"</td> 
+   <td>In "Design Studio" im Ordner "Foldername"<br>Kloner Asset-Name "name"<br>Klonte Asset-URL "www.url.com"<br>oder<br>Kloniert in "Marketing-Aktivitäten" in Programm "Programm-Name" <br>Klonierter Asset-Name "name"<br>Klonierte Asset-URL "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in den Ordner "Ordnername"<br> oder<br> "Marketing-Aktivitäten"in Programm "Programm-Name"verschoben</td> 
+   <td>In "Design Studio"in den Ordner "Folder name"<br> oder<br> In "Marketing-Aktivitäten"in Programm "Programm-Name"verschoben</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -530,7 +530,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td rowspan="8">Landingpage-Vorlage</td> 
    <td>Erstellen</td> 
-   <td><p><br><br>BlankorKloniert aus "Asset Name"</p></td> 
+   <td><p>Leer<br>oder<br>Kloniert aus "Asset-Name"</p></td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -546,7 +546,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Ordnername" <br>geklonter Asset-Name "Name"</td> 
+   <td>In "Ordnername" <br>Name des geklonten Assets geklont</td> 
   </tr> 
   <tr> 
    <td>Export</td> 
@@ -571,7 +571,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In Ordner "Foldername"unter "Personendatenbank" <br>geklonter Asset-Name "name"<br><br>oder "Marketing-Aktivitäten"in Programm "Programm-Name"<br>geklonter Asset-Name "name"</td> 
+   <td>In Ordner "Ordnername" <br>Kloner Asset-Name "name"<br>oder<br>Kloniert in "Marketing-Aktivitäten" in Programm "Programm-Name"<br>Kloner Asset-Name "name"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -600,7 +600,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Programme"in Programm "Programm"verschoben<br><br>oder in "Ordner"in "Ordnername"verschoben</td> 
+   <td>In Programm "Programm-Name"<br>oder<br>In "Ordner" in den Ordner "Ordnername"verschoben</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
@@ -616,7 +616,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In Programm "Name des Programms"unter "Programm" <br>Der Name des geklonten Assets "Name"<br><br>oder "In Ordner"unter "Ordnername"<br>Der Name des geklonten Assets "Name"geklont</td> 
+   <td>Unter "Programme"in Programm "Programm-Name" <br>Kloner Asset-Name "name"<br>oder<br>Kloniert in "Folder" in Ordner "folder name"<br>Name des geklonten Assets "name"</td> 
   </tr> 
   <tr> 
    <td>Einrichten der SmartList ändern</td> 
@@ -653,7 +653,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In Ordner "Foldername"unter "Personendatenbank" <br>geklonter Asset-Name "name"<br><br>oder "Marketing-Aktivitäten"in Programm "Programm-Name" <br>Klonter Asset-Name "name"</td> 
+   <td>In Ordner "Ordnername" <br>Kloner Asset-Name "name"<br>oder<br>Kloniert in "Marketing-Aktivitäten" in Programm "Programm-Name" <br>Klonierter Asset-Name "name"</td> 
   </tr> 
   <tr> 
    <td>Einrichten der SmartList ändern</td> 
@@ -662,7 +662,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td rowspan="11">Snippet</td> 
    <td>Erstellen</td> 
-   <td><p><br><br>BlankorKloniert aus "Snippet-Name"</p></td> 
+   <td><p>Leer<br>oder<br>Kloniert aus "Snippet-Name"</p></td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -690,7 +690,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Ordnername" <br>geklonter Snippet-Name "name"</td> 
+   <td>Klont in "folder name" <br>Kloner Snippet-Name "name"</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -707,7 +707,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
  </tbody> 
 </table>
 
-## Prüfpfad für Administratoren {#admin-audit-trail}
+## Admin-Prüfpfad {#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -743,7 +743,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td rowspan="3">Rolle<br><br></td> 
    <td>Erstellen</td> 
-   <td>Rolle erstellt mit "Rollenname"(HINWEIS: Wenn Sie weitere Informationen zu den hinzugefügten Berechtigungen benötigen, wenden Sie sich bitte an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen.</td> 
+   <td>Rolle erstellt mit "Rollenname"(HINWEIS: Wenn Sie weitere Informationen zu den hinzugefügten Berechtigungen benötigen, wenden Sie sich bitte an den Support) - <br>Zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -751,7 +751,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Rolle bearbeitet von "Vorname"zu "neuer Name" (HINWEIS: Wenn Sie Details zu den bearbeiteten Berechtigungen benötigen, wenden Sie sich bitte an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen<br></td> 
+   <td>Rolle bearbeitet von "Vorname"zu "neuer Name" (HINWEIS: Wenn Sie Details zu den bearbeiteten Berechtigungen benötigen, wenden Sie sich bitte an den Support) - <br>Zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an<br></td> 
   </tr> 
   <tr> 
    <td>Smartlist-Bericht</td> 
@@ -761,7 +761,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td rowspan="7">Benutzer<br><br><br><br></td> 
    <td>Erstellen (Einladen)</td> 
-   <td>Benutzer eingeladen mit: E-Mail "E-Mail-Adresse", Name "Vor- und Nachname", Zugriff abgelaufen "leer oder mit Datum", API-Benutzer "true"oder "false" - <br>zeigt eine Momentaufnahme der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche</td> 
+   <td>Benutzer eingeladen mit: E-Mail "E-Mail-Adresse", Name "Vor- und Nachname", Zugriff läuft "leer oder mit einem Datum" ab, API-Benutzer "true"oder "false" - <br>zeigt eine Momentaufnahme der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche</td> 
   </tr> 
   <tr> 
    <td colspan="1">Löschen</td> 
