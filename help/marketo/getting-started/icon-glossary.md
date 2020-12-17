@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Ordner</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">Der Quellordner, den Sie für einen anderen Arbeitsbereich freigegeben haben</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Zielordner, der von einem anderen Arbeitsbereich freigegeben wurde <br>(Padlock zeigt an, dass keine Änderungen vorgenommen werden können)</td> 
+   <td colspan="1">Zielordner, der von einem anderen Arbeitsbereich freigegeben wurde <br> (Padlock zeigt an, dass keine Änderungen vorgenommen werden können)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">Auslöser</td> 
   </tr> 
@@ -409,12 +409,12 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>E-Mail-Programm <br>(rotes Flag = E-Mail wurde noch nicht gesendet)</td> 
+   <td>E-Mail-Programm <br>(Rotes Flag = E-Mail wurde noch nicht gesendet)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">E-Mail-Programm geplant mit Head-Beginn</td> 
   </tr> 
