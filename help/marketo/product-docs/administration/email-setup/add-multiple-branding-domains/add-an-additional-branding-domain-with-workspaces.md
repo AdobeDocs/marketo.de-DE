@@ -17,9 +17,9 @@ Wenn Sie Arbeitsbereiche haben, können Sie zusätzliche Branding-Domänen hinzu
 
 >[!PREREQUISITES]
 >
->Sie müssen zuerst Ihre Standard-Brandingdomäne [bearbeiten](edit-your-default-branding-domain.md) .
+>Sie müssen zuerst [Ihre Standard-Brandingdomäne](edit-your-default-branding-domain.md) bearbeiten.
 >
->Sie müssen zuerst den generischen Verfolgungslink [durch eine Brandingdomäne](edit-your-default-branding-domain-with-workspaces.md) ersetzen, bevor Sie zusätzliche Branding-Domänen hinzufügen.
+>Sie müssen zunächst [den generischen Verfolgungslink](edit-your-default-branding-domain-with-workspaces.md) durch eine Brandingdomäne ersetzen, bevor Sie zusätzliche Markendomänen hinzufügen.
 
 1. Gehen Sie zu **Admin **und klicken Sie dann auf **E-Mail**.
 
