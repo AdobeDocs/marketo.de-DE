@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Stream-Inhalte entfernen {#remove-stream-content}
+# Stream-Inhalt {#remove-stream-content} entfernen
 
-Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalten wird bei der [Archivierung](archive-and-unarchive-stream-content.md) der gesamte mit dem Inhalt verknüpfte Verlauf beibehalten. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie zu entfernen, hier ist, wie Sie das machen.
+Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalten behält [Archivieren](archive-and-unarchive-stream-content.md) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie zu entfernen, hier ist, wie Sie das machen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie dann auf die Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie dann auf die Registerkarte **Streams**.
 
    ![](assets/cloneasteam-3.jpg)
 
@@ -29,7 +29,7 @@ Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von S
 
    >[!CAUTION]
    >
-   >Entfernen Sie Inhalte nur, wenn Sie nichts über die Geschichte wissen. Wenn Sie die Geschichte bewahren möchten, [archivieren](archive-and-unarchive-stream-content.md) Sie sie stattdessen.
+   >Entfernen Sie Inhalte nur, wenn Sie nichts über die Geschichte wissen. Wenn Sie den Verlauf beibehalten möchten, [archive](archive-and-unarchive-stream-content.md) stattdessen verwenden.
 
    Das ist&#39;s! Jetzt wissen Sie, wie man ein Stück Inhalt entfernt.
 
