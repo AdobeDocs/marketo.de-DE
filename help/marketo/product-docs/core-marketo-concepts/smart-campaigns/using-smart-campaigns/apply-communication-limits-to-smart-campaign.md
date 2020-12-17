@@ -41,6 +41,6 @@ Es ist nicht gut, jemanden mehrere Male am Tag oder zu oft in einer Woche per E-
 
 >[!TIP]
 >
->Um dies als Standard festzulegen, bearbeiten Sie Ihre [Kommunikationsbeschränkungen](../../../../product-docs/administration/email-setup/enable-communication-limits.md) im Abschnitt &quot;Admin&quot;.
+>Um dies als Standard festzulegen, bearbeiten Sie die [Kommunikationsbeschränkungen](../../../../product-docs/administration/email-setup/enable-communication-limits.md) im Abschnitt &quot;Admin&quot;.
 
 Süß. Jetzt können Sie sicher sein, dass Sie nicht versehentlich zu viele E-Mails an Ihre Audience senden.
