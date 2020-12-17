@@ -33,15 +33,15 @@ Wie üblich gibt es Vor- und Nachteile für beide Optionen.
 
 *Vorteile*
 
-**Reputation** - Sie besitzen Ihren Ruf und Ihre Lieferbarkeit.\
-**Überwachung** - Durch die Überwachung Ihres Berichte zur Lieferbarkeit können Sie schnell auf Änderungen Ihrer Versand-Metriken reagieren.\
-**Problemlösung** - Es ist einfacher, Probleme im Versand zu untersuchen, zu verstehen und zu lösen.
+**Reputation**  - Sie besitzen Ihren Ruf und Ihre Lieferbarkeit.\
+**Überwachung**  - Durch die Überwachung Ihres Berichte zur Lieferbarkeit können Sie schnell auf Änderungen Ihrer Versand-Metriken reagieren.\
+**Problemlösung** : Es ist einfacher, Probleme im Versand zu untersuchen, zu verstehen und zu lösen.
 
 *Nachteile*
 
-**Volumenänderungen** - Volumenänderungen können Ihren Ruf beeinträchtigen und müssen daher verwaltet werden.\
-**IP-Aufwärmungsprozess** - Reputation wird im Laufe der Zeit aufgebaut. Einige Internet-Dienstleister (ISPs) drosseln IP-Adressen ohne Volumenverlauf, sodass Sie in den ersten Wochen einen Ruf aufbauen müssen (Marketo kann Ihnen helfen).\
-**Kosten** - Es wird in der Regel eine zusätzliche Gebühr erhoben, die von einer dedizierten IP mit einem beliebigen Anbieter gesendet wird.
+**Volumenänderungen**  - Volumenänderungen können Ihren Ruf beeinträchtigen und müssen daher verwaltet werden.\
+**IP-Aufwärmungsprozess**  - Reputation wird im Laufe der Zeit aufgebaut. Einige Internet-Dienstleister (ISPs) drosseln IP-Adressen ohne Volumenverlauf, sodass Sie in den ersten Wochen einen Ruf aufbauen müssen (Marketo kann Ihnen helfen).\
+**Kosten** : Es wird in der Regel eine zusätzliche Gebühr erhoben, die von einem bestimmten IP mit einem beliebigen Anbieter gesendet werden muss.
 
 **Vorteile und Nachteile einer freigegebenen IP**
 
@@ -53,7 +53,7 @@ Wie üblich gibt es Vor- und Nachteile für beide Optionen.
 
 *Nachteile*
 
-**Unangemessene Mitbewohner** - Wenn die Personen, die Ihre IP teilen, schlechte Versandverfahren anwenden, könnten Ihre E-Mail-Kampagnen beeinträchtigt werden.\
+**Unangemessene Mitbewohner** : Wenn die Personen, die Ihre IP teilen, schlechte Versandmethoden anwenden, könnten Ihre E-Mail-Kampagnen beeinträchtigt werden.\
 **Control **- Sie haben viel weniger Kontrolle über den Ruf des Absenders.\
 **Problembehebung **- Es kann oft schwieriger sein, ein Problem beim Senden von freigegebenen IPs zu lösen.
 
