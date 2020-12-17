@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Benachrichtigungen an Interessenteninhaber deaktivieren {#turn-off-email-notifications-to-lead-owner}
+# Deaktivieren Sie E-Mail-Benachrichtigungen an Interessenteninhaber {#turn-off-email-notifications-to-lead-owner}
 
 Sie können die automatischen E-Mail-Benachrichtigungen deaktivieren, die bei der Interessentenzuweisung an Interessenteninhaber in Salesforce gesendet werden. So geht es.
 
-1. Gehe zu **Admin**.
+1. Gehen Sie zu **Admin**.
 
    ![](assets/admin-1.png)
 
@@ -27,7 +27,7 @@ Sie können die automatischen E-Mail-Benachrichtigungen deaktivieren, die bei de
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Deaktivieren Sie das Kontrollkästchen E-Mail-Benachrichtigung an Inhaber in Salesforce bei **Interessentenzuweisung** senden. Klicken Sie auf **Speichern**.
+1. Deaktivieren Sie das Feld **E-Mail-Benachrichtigung an Inhaber in Salesforce senden bei Interessentenzuweisung**. Klicken Sie auf **Speichern**.
 
    ![](assets/new-screen.png)
 
