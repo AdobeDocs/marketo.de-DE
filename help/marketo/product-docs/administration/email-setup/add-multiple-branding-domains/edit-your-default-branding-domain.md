@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Standardmäßige Branding-Domäne bearbeiten {#edit-your-default-branding-domain}
+# Bearbeiten Ihrer Standard-Branding-Domäne {#edit-your-default-branding-domain}
 
 Die Bearbeitung Ihrer Standard-Branding-Domäne ist der erste Schritt bei der Arbeit mit Branding-Domänen.
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie einen CNAME in Ihrem DNS [](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) eingerichtet haben, bevor Sie Ihre Markendomänen in Marketing hinzufügen.
+>Stellen Sie sicher, dass Sie [einen CNAME in Ihrem DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) eingerichtet haben, bevor Sie Ihre Markendomänen in Marketing hinzufügen.
 
 1. Gehen Sie zu **Admin** und klicken Sie auf **E-Mail**.
 
@@ -35,5 +35,5 @@ Die Bearbeitung Ihrer Standard-Branding-Domäne ist der erste Schritt bei der Ar
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Jetzt können Sie alle zusätzlichen Markendomänen [hinzufügen, die Sie benötigen](add-an-additional-branding-domain.md) .
+Jetzt können Sie [alle weiteren erforderlichen Branding-Domänen](add-an-additional-branding-domain.md) hinzufügen.
 
