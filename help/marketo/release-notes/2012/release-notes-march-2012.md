@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Tieftauchen**
 >
->Weitere Versionen finden Sie in den [Versionshinweisen](http://docs.marketo.com/display/docs/release+notes) unter Deep Dive.
+>Weitere Versionen finden Sie unter [Versionshinweise](http://docs.marketo.com/display/docs/release+notes) Deep Dive.
 >
->## Meine Token auflösen {#resolve-my-tokens}>
+>## My Tokens {#resolve-my-tokens} auflösen
 
 Meine Token (Programm-Token) werden aufgelöst, wenn eine E-Mail in der Vorschau angezeigt wird, eine Test-E-Mail gesendet wird und eine lokale E-Mail über eine Flow-Aktion gesendet wird. Sie müssen keine intelligente Kampagne mehr im Programm erstellen, um Ihre My Tokens zu testen!
 
@@ -47,6 +47,6 @@ Durch den Zusatz von dynamischen Inhalten wird es immer wichtiger, alle Variante
 
 ![](assets/image2014-9-23-10-3a0-3a50.png)
 
-## Dynamische Landingpages basierend auf URL-Parametern {#dynamic-landing-pages-based-on-url-parameter}
+## Dynamische Landingpages basierend auf dem URL-Parameter {#dynamic-landing-pages-based-on-url-parameter}
 
 Anonyme Interessenten machen einen erheblichen Teil Ihrer Besuche bei Landingpages aus. Durch den Zusatz von dynamischen Inhalten und die Möglichkeit, die Segmentierung als Parameter in Ihre URL einzufügen, können Sie Ihre Landingpage dynamisch anzeigen, wenn ein anonymer oder bekannter Interessent auf den Link klickt.
