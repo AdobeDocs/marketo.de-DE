@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Schritt 1 von 3: Installieren der Marketing Solution (Online) {#step-of-install-the-marketo-solution-online}
+# Schritt 1 von 3: Installieren Sie die Marketing Solution (Online) {#step-of-install-the-marketo-solution-online}
 
 Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in Dynamics installieren. **Dynamics-Administratorberechtigungen sind erforderlich.**
 
 >[!CAUTION]
 >
 >* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* Wenn Multi-Factor Authentication (MFA) für die Dynamiksynchronisierung aktiviert ist, müssen Sie sie deaktivieren, damit Dynamics mit Marketo richtig synchronisiert wird. Für weitere Informationen wenden Sie sich bitte an [den Marketing](http://nation.marketo.com/community/support_solutions)Support.
+>* Wenn Multi-Factor Authentication (MFA) für die Dynamiksynchronisierung aktiviert ist, müssen Sie sie deaktivieren, damit Dynamics mit Marketo richtig synchronisiert wird. Weitere Informationen erhalten Sie beim [Marketing-Support](http://nation.marketo.com/community/support_solutions).
 
 >
 
@@ -36,25 +36,25 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Klicken Sie auf ![](assets/image2015-3-16-16-3a1-3a13.png)Menü und wählen Sie **CRM**.
+1. Klicken Sie auf das Menü ![](assets/image2015-3-16-16-3a1-3a13.png)und wählen Sie **CRM**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Klicken Sie auf ![](assets/image2015-5-13-10-3a5-3a8.png) Menü. Wählen Sie im Dropdown-Menü **Einstellungen **und dann **Lösungen**.
+1. Klicken Sie auf das Menü ![](assets/image2015-5-13-10-3a5-3a8.png). Wählen Sie im Dropdown-Menü **Einstellungen **und dann **Lösungen**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
-1. Klicken Sie auf **Importieren.**
+1. Klicken Sie auf **Import.**
 
    ** ![](assets/image2015-3-19-8-3a34-3a8.png)
 
    **
 
-1. Klicken Sie auf Datei **auswählen.** Wählen Sie die von Ihnen [heruntergeladene](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketing Lead Management-Lösung aus. Klicken Sie auf **Weiter**.
+1. Klicken Sie auf **Datei auswählen.** Wählen Sie die von Ihnen  [heruntergeladene](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Marketing Lead Management-Lösung aus. Klicken Sie auf **Weiter**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. Ansicht der Lösungsinformationen und klicken Sie auf Details zum **Ansicht-Lösungspaket**.
+1. Ansicht Sie die Lösungsinformationen und klicken Sie auf **Ansicht Solution Package details**.
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
@@ -66,7 +66,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. Stellen Sie sicher, dass das Kontrollkästchen SDK-Option aktiviert ist. Klicken Sie auf **Importieren**.
+1. Stellen Sie sicher, dass das Kontrollkästchen SDK-Option aktiviert ist. Klicken Sie auf **Import**.
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -90,7 +90,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Wählen Sie **Marketing-to-Interessentenverwaltung** und klicken Sie auf Alle Anpassungen **veröffentlichen.**
+1. Wählen Sie **Marketing-Interessentenverwaltung** und klicken Sie auf **Alle Anpassungen veröffentlichen.**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
