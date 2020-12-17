@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen von WebEx als LaunchPoint-Dienst {#add-webex-as-a-launchpoint-service}
+# hinzufügen WebEx als LaunchPoint-Dienst {#add-webex-as-a-launchpoint-service}
 
 Marketo verwaltet Ihre WebEx-Webinarregistrierung und -Teilnahme.
 
@@ -41,11 +41,11 @@ Marketo verwaltet Ihre WebEx-Webinarregistrierung und -Teilnahme.
 
    ![](assets/webex-new-service.png)
 
-1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Dienst****WebEx**.
+1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Service** **WebEx**.
 
    ![](assets/new-service-webex.png)
 
-1. Geben Sie Ihren **Benutzernamen** und Ihr **Passwort** ein.
+1. Geben Sie **Benutzername** und **Kennwort** ein.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
@@ -59,5 +59,5 @@ Marketo verwaltet Ihre WebEx-Webinarregistrierung und -Teilnahme.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie mit WebEx ein Ereignis [erstellen](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Erfahren Sie, wie Sie mit WebEx [ein Ereignis erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 
