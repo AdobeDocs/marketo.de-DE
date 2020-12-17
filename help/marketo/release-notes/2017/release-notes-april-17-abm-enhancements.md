@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Versionshinweise: 17. April - ABM-Erweiterungen {#release-notes-april-abm-enhancements}
+# Versionshinweise: April &#39;17 ABM-Erweiterungen {#release-notes-april-abm-enhancements}
 
 Die folgenden Funktionen sind in der ABM-Erweiterungsversion vom 17. April enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
-## Synchronisieren von CRM-zugeordneten Standardfeldern {#synching-of-crm-mapped-standard-fields}
+## Synchronisierung von CRM-zugeordneten Standardfeldern {#synching-of-crm-mapped-standard-fields}
 
 Marketo ABM ändert das Verhalten in Bezug auf CRMs. Marketo ABM stellt in Zukunft eine 1-zu-1 Beziehung zwischen ABM-Konten und -Konten im CRM her und unterhält diese. Dies ermöglicht es Marketo, die zugeordneten Kontofelder mit dem CRM-System synchron zu halten.
 
@@ -25,7 +25,7 @@ Sie können nun benutzerdefinierte Felder zu Konten hinzufügen, sie Ihrem CRM z
 
 ![](assets/new-custom-field.png)
 
-## Kontobasierte Filter im Benannten Konto-Raster {#account-based-filters-in-the-named-account-grid}
+## Kontobasierte Filter im Benannten Kontokorrentraster {#account-based-filters-in-the-named-account-grid}
 
 Sie können Ihre benannten Konten nun ganz einfach auf der Grundlage einer Kontoversion-Liste filtern.
 
