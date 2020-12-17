@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger: E-Mail-Test genehmigen {#champion-challenger-approve-your-email-test}
+# Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test {#champion-challenger-approve-your-email-test}
 
 Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
 
@@ -27,7 +27,7 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den **E-Mail-Test** und dann auf Test **genehmigen**.
+1. Klicken Sie mit der rechten Maustaste auf **E-Mail-Test** und klicken Sie dann auf **Test genehmigen**.
 
    ![](assets/champion3.jpg)
 
@@ -36,11 +36,11 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
    >**Erinnerung**
    >
    >
-   >Genehmigen Sie zuerst die herausfordernde E-Mail **** **** Test.
+   >Wenn Sie einen **Gesamte E-Mail**** **Test genehmigen, genehmigen Sie zuerst die herausfordernde E-Mail.
 
    >[!NOTE]
    >
-   >Um den Test zu senden, wählen Sie die E-Mail, der Sie den Test hinzugefügt haben, im Schritt E-Mail- **Senden** Ihrer Auslöser-Kampagne aus. Sie haben auch die Möglichkeit, diese E-Mail in einen Stream eines Interaktions-Programms einzufügen. Champion/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
+   >Um den Test zu senden, wählen Sie die E-Mail, der Sie den Test hinzugefügt haben, im Flussschritt **E-Mail senden** Ihrer Auslöser-Kampagne. Sie haben auch die Möglichkeit, diese E-Mail in einen Stream eines Interaktions-Programms einzufügen. Champion/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
 
    War das nicht einfach? Sobald Sie einige Berichte erhalten haben, möchten Sie einen Champion erklären.
 
