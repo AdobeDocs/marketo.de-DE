@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Markieren eines Assets umbenennen {#rename-a-marketo-asset}
+# Marketo-Asset umbenennen {#rename-a-marketo-asset}
 
 Ordner, Programme und lokale Assets können problemlos umbenannt werden.
 
