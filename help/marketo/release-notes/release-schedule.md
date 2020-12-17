@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Veröffentlichungszeitplan {#release-schedule}
+# Releasungsplan {#release-schedule}
 
 **Version**: Marketo verwendet einen vierteljährlichen Plan für die Hauptversion. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verlinkt.
 
