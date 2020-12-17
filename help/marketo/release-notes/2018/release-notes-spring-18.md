@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionshinweise: Frühjahr 18 {#release-notes-spring}
+# Versionshinweise: Spring &#39;18 {#release-notes-spring}
 
 Die folgenden Funktionen sind in der Version Frühjahr 18 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
@@ -45,7 +45,7 @@ Wählen Sie die Marketo Sky Open Beta, um Zugriff auf mehr als 100 neue Funktion
 * In-App-Anleitungen und kontextbezogene Hilfe
 * Asset-Beschriftungen und flexiblere Kalendereinstellungen
 
-## Leistungseinblicke {#performance-insights}
+## Performance Insights {#performance-insights}
 
 [Leistungseinblicke](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
@@ -69,11 +69,11 @@ Geben Sie Ihre Quick Charts problemlos für andere Performance Insights-Benutzer
 
 Optimierte Navigation und verbesserte Workflows geben Ihnen einen Einblick in die Erfolgskriterien des Programms und Zugriff auf Details zum Programm.
 
-## <sup>ContentAI</sup>  {#contentai}
+## Inhalt<sup>AI</sup> {#contentai}
 
 [Zieleinstellung](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Legen Sie das Ziel des<sup>ContentAI</sup> -Optimierungsalgorithmus fest, mehr Ansichten, Klicks oder Konversionen zu fördern.
+Legen Sie das Ziel des Optimierungsalgorithmus &quot;Inhalt<sup>AI</sup>&quot;fest, um mehr Ansichten, Klicks oder Konversionen zu fördern.
 
 ## Integration und APIs {#integration-and-apis}
 
