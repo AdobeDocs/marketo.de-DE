@@ -37,7 +37,7 @@ Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen 
 >
 >Sie können Ihre Notiz löschen, indem Sie auf das kleine X in der oberen linken Ecke klicken.
 
-## hinzufügen Hinweise im Detail-Drilldown {#add-notes-in-page-detail-drill-down}
+## hinzufügen Hinweise in Seitendetails Drilldown {#add-notes-in-page-detail-drill-down}
 
 1. Gehen Sie zum Abschnitt Seiten.
 
@@ -51,7 +51,7 @@ Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen 
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Geben Sie Ihre Notiz ein. Klicken Sie auf **SPEICHERN**.
+1. Geben Sie Ihre Notiz ein. Klicken Sie auf **SAVE**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
