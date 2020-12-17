@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Deaktivieren einer auslösenden intelligenten Kampagne | Registerkarte &quot;Plan&quot; {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# Deaktivieren einer auslösenden intelligenten Kampagne | Registerkarte Plan {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 Wenn Sie über eine alte Auslöser-Kampagne verfügen, die Sie deaktivieren müssen, führen Sie die folgenden Schritte aus:
 
@@ -29,5 +29,5 @@ Wenn Sie über eine alte Auslöser-Kampagne verfügen, die Sie deaktivieren müs
 
 >[!NOTE]
 >
->Dadurch wird verhindert, dass *neue* Personen in den Fluss gelangen, aber Personen in Warteschritten oder einem anderen Flussschritt bewegen sich weiter durch den Fluss, bis sie fertig sind.
+>Dadurch wird verhindert, dass *neue* Personen in den Fluss gelangen, aber Personen, die sich in Warteschritten oder einem anderen Flussschritt befinden, durchlaufen den Fluss, bis sie fertig sind.
 
