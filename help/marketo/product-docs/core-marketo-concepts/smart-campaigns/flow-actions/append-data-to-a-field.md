@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Daten an ein Feld anhängen {#append-data-to-a-field}
+# Daten an ein Feld {#append-data-to-a-field} anhängen
 
 Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht es.
 
@@ -23,7 +23,7 @@ Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht es.
 
 
 
-1. Ziehen Sie unter der Registerkarte &quot; **Fluss** &quot;in den Flussschritt **Datenwert** ändern.
+1. Ziehen Sie unter der Registerkarte **Fluss** den Schritt **Datenwert ändern**.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
