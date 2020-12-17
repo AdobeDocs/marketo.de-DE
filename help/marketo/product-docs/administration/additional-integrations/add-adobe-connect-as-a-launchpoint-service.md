@@ -37,15 +37,15 @@ Marketo verwaltet die Registrierung und Teilnahme an Ihrem Adobe Connect Webinar
 
    ![](assets/image2015-4-22-11-3a40-3a19.png)
 
-1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter &quot; **Dienst**&quot;die Option Adobe Connect.
+1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Service** Adobe Connect.
 
    ![](assets/new-service-adobe-connect.png)
 
-1. Geben Sie Ihren **Benutzernamen** und **Zugriffscode** ein.
+1. Geben Sie **Benutzername** und **Zugriffscode** ein.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Schließen Sie den Prozess ab, indem Sie Ihre **Sitzungsordner-URL** und Ihr **Teilnehmerkennwort** eingeben,** **und dann auf****** Erstellen klicken.**
+1. Schließen Sie den Prozess ab, indem Sie die URL **des Sitzungsordners** und **Teilnehmer** **Kennwort**,** **eingeben und dann auf** Erstellen klicken.**
 
    ** ![](assets/image2015-4-22-11-3a55-3a36.png)
 
@@ -60,13 +60,13 @@ Marketo verwaltet die Registrierung und Teilnahme an Ihrem Adobe Connect Webinar
    >**Beispiel**
    >
    >
-   >Nachdem Sie sich bei Ihrem Adobe Connect-Konto angemeldet haben, wählen Sie die Registerkarte &quot; **Seminare** &quot;aus. Kopieren Sie die URL aus der Browser-Leiste in die URL- **Einstellung für den** Meetingordner, ohne einen Drilldown in ein bestimmtes Seminar durchzuführen **.**
+   >Nachdem Sie sich bei Ihrem Adobe Connect-Konto angemeldet haben, wählen Sie die Registerkarte **Seminare**. Kopieren Sie die URL aus Ihrer Browserleiste in die **URL des Meetingordners** Einstellung **, ohne einen Drilldown in ein bestimmtes Seminar durchzuführen.**
 
-1. Phänomenal! Ihr **Adobe Connect Service** wird jetzt mit Marketo synchronisiert.
+1. Phänomenal! Ihr **Adobe Connect-Dienst** wird jetzt mit Marketo synchronisiert.
 
    ![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie mit Adobe Connect [ein Ereignis](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)erstellen.
+>Erfahren Sie, wie Sie ein Ereignis mit Adobe Connect[ erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 
