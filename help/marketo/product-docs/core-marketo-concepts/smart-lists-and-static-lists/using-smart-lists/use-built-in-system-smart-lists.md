@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Integrierte/System-intelligente Listen verwenden {#use-built-in-system-smart-lists}
+# Integrierte/System-Smart-Listen verwenden {#use-built-in-system-smart-lists}
 
 Marketo verfügt über einige sehr nützliche integrierte intelligente Listen. Lass uns sie mal auschecken!
 
@@ -23,11 +23,11 @@ Marketo verfügt über einige sehr nützliche integrierte intelligente Listen. L
 
    ![](assets/db.png)
 
-1. Öffnen Sie den Ordner &quot; **Systemintelligente Listen** &quot;, um die Sammlung anzuzeigen.
+1. Öffnen Sie den Ordner **System Smart-Listen**, um die Sammlung anzuzeigen.
 
    ![](assets/two.png)
 
-1. Ein Beispiel: Wählen Sie &quot; **Alle Personen**&quot;und klicken Sie dann auf die Registerkarte &quot; **Personen** &quot;.
+1. Ein Beispiel: Wählen Sie **Alle Personen** und klicken Sie dann auf die Registerkarte **Personen**.
 
    ![](assets/three.png)
 
