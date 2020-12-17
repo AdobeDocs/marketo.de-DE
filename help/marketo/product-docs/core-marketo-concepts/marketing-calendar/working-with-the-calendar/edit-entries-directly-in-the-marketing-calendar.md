@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Einträge direkt im Marketingkalender bearbeiten {#edit-entries-directly-in-the-marketing-calendar}
+# Einträge direkt im Marketingkalender bearbeiten{#edit-entries-directly-in-the-marketing-calendar}
 
 Im Programm-Fokusmodus können Sie schnell Änderungen an Kalendereinträgen vornehmen. So geht es.
 
 ## Programm-Fokus aktivieren {#enable-program-focus}
 
-1. Gehen Sie zum **Kalender**.
+1. Gehen Sie zum Ordner **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Wählen Sie einen Eintrag aus, der zu dem Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf Programm-Fokus **anzeigen**.
+1. Wählen Sie einen Eintrag aus, der zu dem Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf **Programm-Fokus anzeigen**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## Einstieg neu planen {#reschedule-entry}
+## Neuplaneintrag {#reschedule-entry}
 
 1. Ziehen Sie einfach einen Eintrag per Drag &amp; Drop, um ihn neu zu planen.
 
@@ -46,7 +46,7 @@ Im Programm-Fokusmodus können Sie schnell Änderungen an Kalendereinträgen vor
    >Sie können die Beschreibung auch bearbeiten.
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
 ## Einsendungstyp konvertieren {#convert-entry-type}
 
@@ -56,7 +56,7 @@ Nachdem Sie Ihre Grundeinträge schnell eingegeben haben, können Sie sie in ihr
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## Details zu Einsendungen bearbeiten {#edit-entry-details}
+## Details von Einträgen bearbeiten {#edit-entry-details}
 
 Sie können schnell auf verschiedene Bereiche Ihrer Einträge zugreifen, um sie zu bearbeiten.
 
