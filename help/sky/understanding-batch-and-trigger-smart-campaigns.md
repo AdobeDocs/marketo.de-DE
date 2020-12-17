@@ -24,14 +24,14 @@ Batch-intelligente Kampagnen enthalten nur Filter im Abschnitt &quot;Intelligent
 
 ![Bild eins](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Durch Klicken auf die Registerkarte &quot; **[!UICONTROL Plan]** &quot;wird bestätigt, dass die intelligente Kampagne auf &quot;Stapel&quot;eingestellt ist.
+Durch Klicken auf die Registerkarte **[!UICONTROL Plan]** wird bestätigt, dass die intelligente Kampagne auf &quot;Stapel&quot;eingestellt ist.
 
 ![Bild zwei](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Stapelverarbeitung intelligenter Kampagnen**
 
 * Kann für Wiederholungen, z. B. pro Tag, Woche und Monat, geplant werden. Sie können sie auch nur einmal ausführen lassen.
-* sind auf der [Programmplanung Ansicht](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)sichtbar.
+* Sind auf der Ansicht [Programmplanung](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View) sichtbar.
 * Alles, was nach einem &quot;Wait&quot;-Schritt innerhalb der intelligenten Kampagne erfolgt, wird nicht in die Ansicht aufgenommen.
 
 ## Auslösen der intelligenten Kampagne
@@ -49,8 +49,8 @@ Durch Klicken auf die Registerkarte **[!UICONTROL Plan]** wird bestätigt, dass 
 **Auslösen intelligenter Kampagnen**
 
 * Kann nicht für Wiederholungen geplant werden. Sie können nur als aktiv oder inaktiv eingestellt werden.
-* Sie können mehrere Auslöser einstellen. Wenn jedoch _ein_ Auslöser ausgelöst wird, werden die Kampagnen ausgeführt.
+* Sie können mehrere Auslöser einstellen. Wenn jedoch _jeder_-Auslöser ausgelöst wird, werden die Kampagnen ausgeführt.
 
 >[!TIP]
 >
->Verwenden Sie das [Aktivitäten-Protokoll](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) , um Schritt für Schritt in Ihren intelligenten Kampagnen zu sehen. Die Aktivität befindet sich auf der letzten Registerkarte der Detailseite.
+>Verwenden Sie das [Aktivität-Protokoll](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person), um zu sehen, was in Ihren intelligenten Kampagnen schrittweise passiert ist. Die Aktivität befindet sich auf der letzten Registerkarte der Detailseite.
