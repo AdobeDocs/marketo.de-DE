@@ -29,4 +29,4 @@ Nehmen Sie sich Ihr Lieblingsgetränk und schauen Sie sich um.
 * [Zu überprüfende Dinge: Kernkompetenzen](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [Möglichkeiten der Hilfe](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-Wenn Sie bereits wissen, wie Sie sich in Ihrer Instanz bewegen und sich mit den Kernkonzepten von Marketo auskennen, lesen Sie die Marketing [Nation](https://nation.marketo.com/) -Produktdokumente, oder besuchen Sie die Online-Community, um zu sehen, was andere Marketo-Benutzer sagen.
+Wenn Sie bereits wissen, wie Sie sich in Ihrer Instanz bewegen und sich mit den Kernkonzepten von Marketo auskennen, lesen Sie die Marketing Docs oder besuchen Sie die [Marketing Nation](https://nation.marketo.com/) Online-Community, um zu sehen, was andere Marketo-Benutzer sagen.
