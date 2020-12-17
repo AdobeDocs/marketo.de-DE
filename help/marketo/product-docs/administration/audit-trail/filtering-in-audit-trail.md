@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtern im Prüfpfad {#filtering-in-audit-trail}
+# Filtern im Audit-Protokoll {#filtering-in-audit-trail}
 
 Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
 
@@ -19,7 +19,7 @@ Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
 
    ![](assets/one-1.png)
 
-1. Wählen Sie unter **Sicherheit** die Option **Prüfpfad**.
+1. Wählen Sie unter **Sicherheit** **Prüfpfad**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
 
    >[!NOTE]
    >
-   >Es gibt eine Vielzahl von möglichen Suchparameter-Kombinationen. In diesem Beispiel suchen wir: *alle E-Mails, die von irgendjemandem bearbeitet wurden, in den letzten sieben Tagen*.
+   >Es gibt eine Vielzahl von möglichen Suchparameter-Kombinationen. In diesem Beispiel suchen wir: *alle E-Mails - von jedermann bearbeitet - in den letzten sieben Tagen*.
 
 1. Klicken Sie auf die Dropdownliste **Zeitraum** und wählen Sie **Letzte 7 Tage**.
 
@@ -43,7 +43,7 @@ Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Übernehmen**.
+1. Klicken Sie auf **Apply**.
 
    ![](assets/seven.png)
 
