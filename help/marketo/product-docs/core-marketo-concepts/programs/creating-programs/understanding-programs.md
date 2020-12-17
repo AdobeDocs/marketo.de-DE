@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Programme verstehen {#understanding-programs}
+# Programme {#understanding-programs}
 
-Programme stellen eine einzige Marketinginitiative dar. Sie können sich das als Container mit all dem Zeug vorstellen, das Sie brauchen, um das Programm zu funktionieren - diese werden als lokale Assets bezeichnet und enthalten **Landingpages**, **E-Mail**, **intelligente Kampagnen** und mehr. Programme tun viel, aber es ist einfach zu beginnen.
+Programme stellen eine einzige Marketinginitiative dar. Sie können sich das Programm als Container mit allen erforderlichen Elementen vorstellen - diese werden als lokale Assets bezeichnet und enthalten **Landingpages**, **email**, **intelligente Kampagnen** und mehr. Programme tun viel, aber es ist einfach zu beginnen.
 
 Es gibt vier Arten von Programmen:
 
 **Ereignis-Programm**
 
-**[Ereignis](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** haben eine bestimmte Uhrzeit und ein bestimmtes Datum. Sie unterstützen Sie bei der Koordination, Erleichterung und Verfolgung Ihrer Live- und Online-Ereignisse.
+**[Für](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** Ereignisse gilt eine bestimmte Uhrzeit und ein bestimmtes Datum. Sie unterstützen Sie bei der Koordination, Erleichterung und Verfolgung Ihrer Live- und Online-Ereignisse.
 
 **Interaktions-Programme**
 
-**[Drip Nurturing](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** wird verwendet, um Menschen in einem festgelegten periodischen Plan zu ernähren.
+**[Drip](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** Nurturingis wird angewendet, um Menschen in einem festgelegten periodischen Plan zu ernähren.
 
 **E-Mail-Programme**
 
-Die **[klassische Mail-Explosion](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Es verfügt über coole integrierte Funktionen wie A/B-Tests und **[E-Mail-Head-Beginn](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
+Die **[klassische E-Mail-Blast](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Es enthält coole integrierte Funktionen wie A/B-Tests und **[Email Head-Beginn](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Standardmäßige Programm**
 
