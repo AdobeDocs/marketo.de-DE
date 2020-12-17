@@ -19,17 +19,23 @@ Zunächst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 
 ## SEO-Glossar {#seo-glossary}
 
-**Suchmaschinenoptimierung (SEO)** Eine Mischung aus Strategien und Techniken, die zur Erhöhung des Site-Traffics verwendet werden, indem eine hochwertige Platzierung auf Suchmaschinenergebnisseiten (SERP) erzielt wird.
+**Suchmaschinenoptimierung (SEO)**
+Eine Mischung aus Strategien und Techniken, die zur Erhöhung des Site-Traffics verwendet werden, indem eine hochwertige Platzierung auf Suchmaschinenergebnisseiten (SERP) erzielt wird.
 
-**Suchbegriff** Ein Suchbegriff ist das Wort oder die Wortgruppe, das/die Menschen in Suchmaschinen wie Google, Yahoo oder Bing eingeben.
+****
+KeywordEin Keyword ist das Wort oder die Wortgruppe, das/die Menschen in Suchmaschinen wie Google, Yahoo oder Bing eingeben.
 
-**Inbound Links** auf anderen Sites, die Traffic zu Ihrer Site leiten. Je höher der Ruf der verlinkenden Site ist, desto wertvoller ist dieser Link.
+**Inbound**
+LinksLinks auf anderen Sites, die Traffic zu Ihrer Site leiten. Je höher der Ruf der verlinkenden Site ist, desto wertvoller ist dieser Link.
 
-**SERP-Rangansicht** steht für Suchmaschinen-Ergebnisseite. Suchmaschinen geben mehrere Ergebnisseiten zurück. Die SERP-Rangfolge ist die Seite, auf der Ihr Link angezeigt wird. In der Regel gibt es 10 Ergebnisse pro Seite.
+**SERP**
+rankingSteht für Suchmaschinen-Ergebnisseite. Suchmaschinen geben mehrere Ergebnisseiten zurück. Die SERP-Rangfolge ist die Seite, auf der Ihr Link angezeigt wird. In der Regel gibt es 10 Ergebnisse pro Seite.
 
-**Suchmaschinen-Ansicht** Die Art und Weise, wie ein Suchmaschinencomputer Ihre Site im Gegensatz zu der Art und Weise wahrnimmt, wie ein Mensch dies tut.
+**Suchmaschinenansicht**
+Die Art und Weise, wie ein Suchmaschinencomputer Ihre Site im Gegensatz zu der eines Menschen wahrnimmt.
 
-**Suchbegriffe** mit fattem Kopf Generische Suchbegriffe, die ein sehr großes Netz darstellten. Sie machen etwa 19 % aller verwendeten Suchbegriffe aus.
+**Suchbegriffe**
+mit FettdruckAllgemeine Suchbegriffe, die ein sehr großes Netz darstellen. Sie machen etwa 19 % aller verwendeten Suchbegriffe aus.
 
 >[!NOTE]
 >
@@ -61,7 +67,8 @@ Super spezifische Suchbegriffe. Diese werden in etwa 70 % der Fälle verwendet.
 
 Die Optimierungsbewertung ist ein proprietärer Marktergebnis, der alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst. Er basiert auf einer Sammlung von Dutzenden vorbildlichen Verfahren. Ein Wert von 70 oder höher gibt an, dass eine Site recht gut optimiert ist.
 
-**On-Page Optimization** Maßnahmen, die direkt auf Ihrer Website selbst ergriffen werden können, um ihre Position auf den Suchmaschinen-Ergebnisseiten zu verbessern.
+**On-Page**
+OptimizationMaßnahmen, die direkt innerhalb Ihrer Website selbst ergriffen werden können, um ihre Position auf den Suchmaschinenergebnisseiten zu verbessern.
 
 >[!NOTE]
 >
@@ -83,8 +90,8 @@ Sehen Sie, das war nicht so schlecht.
 
 ## Wie gehe ich los? {#how-do-i-get-started}
 
-1. Entwickeln Sie Ihre Strategie mit [Suchbegriffen.](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-1. Bestehende Probleme in [Verstehen von Seiten beheben](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. Erweitern Sie Ihre Reichweite durch [Eingehende Links.](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Entwickeln Sie Ihre Strategie mit [Die Suchbegriffe](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+1. Bestehende Probleme in [Verstehen der Seiten](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md) beheben
+1. Erweitern Sie Ihre Reichweite um [Eingehende Links](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
 Ihr Ziel ist es, bei Suchbegriffen, die für Ihr Unternehmen von Bedeutung sind, der ersten Seite (und dem ersten Ergebnis) so nahe zu sein.
