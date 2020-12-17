@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Beschreibung der Rollenberechtigungen {#descriptions-of-role-permissions}
+# Beschreibungen der Rollenberechtigungen {#descriptions-of-role-permissions}
 
 Nachfolgend finden Sie eine Liste aller verfügbaren Berechtigungen, die Sie Ihren Rollen zuweisen können. Berechtigungen sind in der Regel mit bestimmten Funktionsbereichen in Marketo verknüpft und können Ihnen helfen, zu steuern, auf welche Bereiche und Funktionen verschiedene Benutzer Zugriff haben.
 
@@ -23,11 +23,11 @@ Weitere Informationen zu Berechtigungen:
 
 ## Verfügbare Berechtigungen {#available-permissions}
 
-Wenn Sie eine Rolle [](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)erstellen oder bearbeiten, können Sie die folgenden Berechtigungen auswählen, um diese Rolle zuzulassen, indem Sie die entsprechenden Kontrollkästchen aktivieren.
+Wenn Sie [eine Rolle](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) erstellen oder bearbeiten, können Sie die folgenden Berechtigungen auswählen, um diese Rolle zuzulassen, indem Sie die entsprechenden Kontrollkästchen aktivieren.
 
 ![](assets/createnewrole.png)
 
-## Zugriff Admin  {#access-admin}
+## Zugriff auf Admin {#access-admin}
 
 Ansicht und nehmen Sie Änderungen an den Einstellungen im Abschnitt &quot;Mein Konto&quot;von Admin vor.
 
@@ -35,7 +35,7 @@ Ansicht und nehmen Sie Änderungen an den Einstellungen im Abschnitt &quot;Mein 
 * Kanal aufrufen - Ermöglicht Benutzern nur Zugriff auf die Änderung des Kanal-Tags, nicht auf andere benutzerdefinierte Tags
 * Kommunikationsbeschränkung für den Zugriff - Ermöglicht Benutzern Zugriff auf die Aktivierung einer Kommunikationsbeschränkung in Admin
 * Access CRM - Ermöglicht Benutzern Zugriff auf CRM, wie Salesforce oder Microsoft Dynamics, in Admin
-* Zugriff auf [Data.com](http://Data.com) - Ermöglicht Benutzern Zugriff auf die Datenfluss-Aktion &quot;Data.com&quot;
+* Zugriff auf [Data.com](http://Data.com) - Gewährt Benutzern Zugriff auf die Datenfluss-Aktion Data.com
 * E-Mail-Admin aufrufen - Ermöglicht Benutzern, E-Mail-Admin zu ändern, um Standardeinstellungen wie Abmelden und Branding-Domänen zu ändern
 * Access Ereignis Partners - Ermöglicht Benutzern Zugriff auf LaunchPoint in Admin
 * Feldverwaltung aufrufen - Ermöglicht Benutzern Zugriff auf Feldverwaltung in Admin
@@ -59,9 +59,9 @@ Ansicht und nehmen Sie Änderungen an den Einstellungen im Abschnitt &quot;Mein 
 * Zugriff auf Webhooks - Ermöglicht Benutzern das Einrichten von Details und Antwortzuordnungen in Admin
 * Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern Zugriff auf das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
 
-## Zugriffs-API  {#access-api}
+## Zugriff-API {#access-api}
 
-Ermöglicht Benutzern mit der **API nur** Zugriff auf die unten aufgelisteten APIs **mit Rolle** .
+Ermöglicht Benutzern den Zugriff auf die unten aufgeführten APIs.********
 
 * Assets genehmigen
 * Kampagne ausführen
@@ -108,10 +108,10 @@ Ermöglicht Benutzern Zugriff auf die Registerkarte &quot;Design Studio&quot;und
 
    * E-Mail bearbeiten - Ermöglicht Benutzern das Bearbeiten, Erstellen und Klonen von E-Mails
 
-      * E-Mail operativ machen - Ermöglicht Benutzern, eine E-Mail in Betrieb zu nehmen. Siehe: [E-Mail-Betrieb](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * E-Mail operativ machen - Ermöglicht Benutzern, eine E-Mail in Betrieb zu nehmen. Siehe: [Eine E-Mail operativ machen](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * E-Mail genehmigen - Ermöglicht Benutzern die Genehmigung von E-Mails.
    * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
-   * Markendomäne festlegen - Ermöglicht Benutzern das Arbeiten mit Markendomänen. Siehe: [hinzufügen mehrerer Branding-Domänen](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
+   * Markendomäne festlegen - Ermöglicht Benutzern das Arbeiten mit Markendomänen. Siehe: [Hinzufügen Mehrere Branding-Domänen](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
 
 
 * E-Mail-Vorlage aufrufen
@@ -172,7 +172,7 @@ Ansicht der Datenbank sowie Ansicht und Bearbeitung von Smart-/statischen Listen
 * Benutzerdefiniertes Objekt importieren
 * Liste importieren
 * Personen zusammenführen
-* Ausführen von Einzelflussaktionen - Ermöglicht Benutzern, den Datenwertfluss **** ändern für Personen aus der Datenbank auszuführen
+* Ausführen von Einzelflussaktionen - Ermöglicht es Benutzern, **Datenwert ändern** Flussschritt auf Personen aus der Datenbank auszuführen
 
 * Ansicht Opportunity Data - Blendet die Opportunity-Informationen auf der Personendaten-Seite aus
 
