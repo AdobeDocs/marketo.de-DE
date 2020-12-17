@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einbeziehen eines Kalenderinhalts (.ics) in eine E-Mail {#include-a-calendar-event-ics-in-an-email}
+# Einbeziehen eines Kalenderereignisses (.ics) in eine E-Mail {#include-a-calendar-event-ics-in-an-email}
 
 Mit einem Kalenderdatei-Token können Sie Ihren Marketing-E-Mails einen Kalenderlink (.ics) hinzufügen.
 
