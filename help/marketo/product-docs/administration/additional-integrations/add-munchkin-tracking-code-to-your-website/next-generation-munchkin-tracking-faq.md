@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation {#next-generation-munchkin-tracking-faq}
+# Nächste Generation Munchkin Tracking FAQ {#next-generation-munchkin-tracking-faq}
 
 Wir freuen uns, Ihnen mitteilen zu können, dass wir bald mit der Einführung unserer Web-Tracking-Technologie der nächsten Generation beginnen werden.
 
@@ -46,7 +46,7 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 >**Beispiel**
 >
 >**Auslöser**: Besuche Webseite, Webseite ist Preisseite\
->**Fluss**: Change Score +10 und Interest Moment, **Web**: Angezeigte Preisseite
+>**Fluss**: Change Score +10 und Interest Moment,  **Web**: Angezeigte Preisseite
 >
 >Bei Munchkin V2 gibt eine anonyme Person, die die Preisseite besucht, nicht sofort die Kampagne ein. Sobald die anonyme Person bekannt wird, führen wir diese Kampagne auf sie. Sie wird:
 >
@@ -98,4 +98,4 @@ Sehen Sie sich die folgenden Links an:
 
 ## Ich habe mehr Fragen! Wie kann ich sie beantworten? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Bitte kontaktieren Sie die [Community](https://nation.marketo.com/welcome). Sie können auch eine E-Mail an [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Sie werden sich freuen, Ihre Fragen zu beantworten.
+Bitte kontaktieren Sie die [community](https://nation.marketo.com/welcome). Sie können auch eine E-Mail an [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) senden. Sie werden Ihre Fragen gerne beantworten.
