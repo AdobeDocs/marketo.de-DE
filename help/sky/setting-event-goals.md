@@ -23,11 +23,11 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 
    ![Bild eins](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. Geben Sie dem Ereignis einen [!UICONTROL Namen], wählen Sie den [!UICONTROL Zielordner] und den [!UICONTROL Kanal]aus.
+1. Geben Sie dem Ereignis den Wert [!UICONTROL Name], wählen Sie den Ordner [!UICONTROL Ziel] und [!UICONTROL Kanal] aus.
 
    ![Bild zwei](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Geben Sie das Ziel für [!UICONTROL Registrierte] und [!UICONTROL teilnehmende]Personen ein und klicken Sie dann auf **[!UICONTROL Erstellen]** ([!UICONTROL Beschreibung] und [!UICONTROL Bezeichnungen] sind optional).
+1. Geben Sie das Ziel für [!UICONTROL Registered] und [!UICONTROL Anwesend] ein und klicken Sie dann auf **[!UICONTROL Erstellen]** ([!UICONTROL Beschreibung] und [!UICONTROL Beschriftungen] sind optional).
 
    ![Bild eins](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
