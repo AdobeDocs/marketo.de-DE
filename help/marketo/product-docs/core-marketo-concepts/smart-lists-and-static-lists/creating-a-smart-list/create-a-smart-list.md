@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen einer intelligenten Liste {#create-a-smart-list}
+# Erstellen einer Smart-Liste {#create-a-smart-list}
 
 Intelligente Listen ermöglichen es Ihnen, mithilfe einfacher Filter bestimmte Personengruppen zu finden. Hier ist, wie man eine erstellt.
 
@@ -22,7 +22,7 @@ Intelligente Listen ermöglichen es Ihnen, mithilfe einfacher Filter bestimmte P
 1. Wählen Sie das Programm aus, in dem Sie die intelligente Liste erstellen möchten.
 1. ![Dies ist ein Test](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Klicken Sie unter **Neu** auf **Neues lokales Asset**.
+1. Klicken Sie unter **Neu** auf **Neues lokales Element**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
@@ -30,7 +30,7 @@ Intelligente Listen ermöglichen es Ihnen, mithilfe einfacher Filter bestimmte P
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Geben Sie einen **Namen** ein und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name** ein und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
