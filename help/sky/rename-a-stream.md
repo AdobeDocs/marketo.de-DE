@@ -20,7 +20,7 @@ Wenn Sie gerne organisiert bleiben, können Sie Ihre Streams umbenennen.
 
    ![Bild eins](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
