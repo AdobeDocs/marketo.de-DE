@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Um Beschriftungen von einem übergeordneten zu einem untergeordneten Asset zu kopieren, navigieren Sie auf der Registerkarte &quot; [!UICONTROL Übersicht] &quot;zur Seite &quot; [!UICONTROL Details] &quot;des Assets.
+Um Beschriftungen von einem übergeordneten zu einem untergeordneten Asset zu kopieren, navigieren Sie zur Seite [!UICONTROL Details] des Assets unter der Registerkarte [!UICONTROL Übersicht].
 
-Klicken Sie im Abschnitt [!UICONTROL Bezeichnungen] auf **[!UICONTROL Bezeichnungen von übergeordneter]** Person kopieren.
+Klicken Sie unter dem Abschnitt [!UICONTROL Bezeichnungen] auf **[!UICONTROL Bezeichnungen aus übergeordneter Ebene kopieren]**.
 
 ![Bild eins](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
