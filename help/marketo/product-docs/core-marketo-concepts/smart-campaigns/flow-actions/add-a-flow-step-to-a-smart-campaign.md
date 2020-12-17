@@ -47,7 +47,7 @@ Geben Sie ein, um nach einem Flussschritt zu suchen, und ziehen Sie ihn auf die 
    >**Erinnerung**
    >
    >
-   >Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind.  [Ordnen Sie die Flussschritte](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) neu an, um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
+   >Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind.  [Ordnen Sie die ](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) Flussschritte neu an, um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
 
    >[!TIP]
    >
