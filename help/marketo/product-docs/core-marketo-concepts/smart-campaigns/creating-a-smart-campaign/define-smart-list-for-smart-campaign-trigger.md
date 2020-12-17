@@ -25,7 +25,7 @@ Gestalten Sie eine intelligente Kampagne auf der Grundlage von Live-Ereignissen 
 
    >[!NOTE]
    >
-   >Eine intelligente Kampagne mit Auslösern wird im **Auslösermodus** ausgeführt. Er wird auf der Grundlage von ausgelösten Ereignissen und weiteren Filtern einzeln ausgeführt.
+   >Eine intelligente Kampagne mit Auslösern wird im Modus **Auslöser** ausgeführt. Er wird auf der Grundlage von ausgelösten Ereignissen und weiteren Filtern einzeln ausgeführt.
 
 1. Klicken Sie auf die Dropdownliste und wählen Sie einen Operator.
 
@@ -45,7 +45,7 @@ Gestalten Sie eine intelligente Kampagne auf der Grundlage von Live-Ereignissen 
 
    >[!NOTE]
    >
-   >Bei mehreren Auslösern durchläuft eine Person den Fluss, wenn einer der Auslöser **BELIEBIG** aktiviert wird.
+   >Bei mehreren Auslösern durchläuft eine Person den Fluss, wenn **ANY** einer der Auslöser aktiviert wird.
 
    [Intelligente Liste für intelligente Kampagne definieren | Stapel](define-smart-list-for-smart-campaign-batch.md)
 
