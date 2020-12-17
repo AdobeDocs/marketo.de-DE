@@ -24,13 +24,13 @@ Die Integration in Workplace umfasst zwei Benachrichtigungstypen:
 
 >[!PREREQUISITES]
 >
->Wenn Sie noch keine Workspace-Benachrichtigungen aktiviert haben, [wenden Sie sich bitte an den Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
+>Wenn Sie noch keine Workspace-Benachrichtigungen aktiviert haben, wenden Sie sich bitte an den Support [unter ](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
-1. Gehen Sie zu **LaunchPoint** und klicken Sie unter **New** auf **New Service**.
+1. Gehen Sie zu **LaunchPoint** und klicken Sie dann unter **New** auf **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Geben Sie einen Anzeigenamen für Ihre Workplace-Integration ein. Wählen Sie in der Dropdownliste **Dienst** die Option **Arbeitsplatz nach Facebook**. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen Anzeigenamen für Ihre Workplace-Integration ein. Wählen Sie in der Dropdownliste **Dienst** **Arbeitsplatz nach Facebook** aus. Klicken Sie auf **Erstellen**.
 
    ![](assets/newservice.png)
 
@@ -42,7 +42,7 @@ Die Integration in Workplace umfasst zwei Benachrichtigungstypen:
 
    ![](assets/authorize.png)
 
-1. Geben Sie auf der neuen Registerkarte &quot;Arbeitsplatz&quot;Ihre geschäftliche E-Mail-Adresse oder Ihren Arbeitsplatz-Benutzernamen ein und klicken Sie auf **Weiter**.
+1. Geben Sie auf der neuen Registerkarte &quot;Arbeitsplatz&quot;Ihre geschäftliche E-Mail oder Ihren Arbeitsplatz-Benutzernamen ein und klicken Sie auf **Weiter**.
 
    ![](assets/workplacelogin.png)
 
@@ -50,7 +50,7 @@ Die Integration in Workplace umfasst zwei Benachrichtigungstypen:
 
    ![](assets/workplacelogininfo.png)
 
-1. Wählen Sie im Popup &quot;Arbeitsplatz&quot;eine Facebook-Gruppe aus, für die Benachrichtigungen von Marketing veröffentlicht werden sollen (z. B. Partnerintegrationen). Klicken Sie auf **Installieren**.
+1. Wählen Sie im Popup &quot;Arbeitsplatz&quot;eine Facebook-Gruppe aus, für die Benachrichtigungen von Marketing veröffentlicht werden sollen (z. B. Partnerintegrationen). Klicken Sie auf **Install**.
 
    ![](assets/installmarketo.png)
 
