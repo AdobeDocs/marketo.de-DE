@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionshinweise: Juni 2013 {#release-notes-june}
 
-Die folgenden Funktionen sind in der Juni-Version enthalten. Überprüfen Sie Ihre [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Juni-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
 
-Achten Sie nach der Veröffentlichung darauf, in der Community auf der Registerkarte &quot; [Neue Version](release-notes-december-2013.md) &quot;detaillierte Knowledge Base-Artikel für jede Funktion zu finden!
+Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Knowledge Base-Artikel für jede Funktion zu erhalten!
 
 ## Zusätzliche Benutzersprachen {#additional-user-languages}
 
@@ -29,7 +29,7 @@ In den nächsten Monaten werden Sie ein neues Thema bemerken, das in verschieden
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 
-## Unterordnerklonen {#subfolder-cloning}
+## Unterordner Klonen {#subfolder-cloning}
 
 Klonen von Assets in Unterordnern
 
