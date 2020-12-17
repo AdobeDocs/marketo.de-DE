@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kampagne eines wiederkehrenden Stapels planen {#schedule-a-recurring-batch-campaign}
+# Eine wiederkehrende Batch-Kampagne {#schedule-a-recurring-batch-campaign} planen
 
 Mit der Wiederholung können Sie eine intelligente Batch-Kampagne regelmäßig ausführen. Zum Beispiel - einmal pro Woche, Montag um 22:00 Uhr.
 
