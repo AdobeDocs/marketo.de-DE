@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Verschieben einer intelligenten Kampagne {#move-a-smart-campaign}
+# Verschieben einer Smart-Kampagne {#move-a-smart-campaign}
 
 Verschieben Sie eine intelligente Kampagne zwischen verschiedenen Programmen oder Ordnern mithilfe von Drag &amp; Drop oder der Funktion zum Verschieben in der Struktur.
 
-## Drag &amp; Drop verwenden {#use-drag-and-drop}
+## Drag &amp; Drop {#use-drag-and-drop}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -31,7 +31,7 @@ Verschieben Sie eine intelligente Kampagne zwischen verschiedenen Programmen ode
    >
    >Die Regeln Ihrer intelligenten Kampagne werden sich nicht ändern - sie werden einfach an einem anderen Ort verschachtelt.
 
-## Funktion &quot;Verschieben&quot; {#use-the-move-feature}
+## Funktion &quot;Verschieben&quot;{#use-the-move-feature} verwenden
 
 Intelligente Kampagnen können auch mithilfe der Verschiebungsfunktion in der Struktur verschoben werden.
 
