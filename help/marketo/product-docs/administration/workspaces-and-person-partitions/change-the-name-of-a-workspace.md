@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändern des Namens einer Arbeitsfläche {#change-the-name-of-a-workspace}
+# Ändern des Namens eines Arbeitsbereichs {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Benutzer können den Namen einer Arbeitsfläche ändern. Es ist ziemlich einfach
 >
 >**Tieftauchen**
 >
->Machen Sie sich mit [Arbeitsbereichen und Benutzerpartitionen](understanding-workspaces-and-person-partitions.md)vertraut.
+>Verstehen Sie zuerst mit [Die Arbeitsbereiche und die Benutzerpartitionen](understanding-workspaces-and-person-partitions.md).
 
 1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen.**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
-1. Wählen Sie den Arbeitsbereich aus und klicken Sie auf Arbeitsbereich **bearbeiten**.
+1. Wählen Sie den Arbeitsbereich aus und klicken Sie auf **Arbeitsbereich bearbeiten**.
 
    ![](assets/two-4.png)
 
