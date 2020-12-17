@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen von Inhalten in einem Stream {#add-content-to-a-stream}
+# hinzufügen von Inhalt in einen Stream {#add-content-to-a-stream}
 
 Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den Streams Inhalte hinzufügen. Sie können einem Stream E-Mails oder Programme hinzufügen.
 
@@ -21,7 +21,7 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und gehen Sie zur Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -29,11 +29,11 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
 **Schaltfläche &quot;Hinzufügen&quot;**
 
-1. Klicken Sie auf die Schaltfläche **Hinzufügen Inhalt** .
+1. Klicken Sie auf die Schaltfläche **Hinzufügen Content**.
 
    ![](assets/addcontentbutton.jpg)
 
-1. Lassen Sie den **Typ** auf **E-Mail** einstellen und wählen Sie dann die E-Mail-Adresse aus, die Sie hinzufügen möchten.
+1. Belassen Sie die Einstellung **Typ** auf **E-Mail** und wählen Sie dann die E-Mail aus, die Sie hinzufügen möchten.
 
    ![](assets/image2014-9-15-15-3a44-3a58.png)
 
@@ -43,7 +43,7 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
 **Stream + Symbol**
 
-1. Klicken Sie auf das Symbol für Streams **+** , lassen Sie **Type** als **E-Mail** stehen und wählen Sie die E-Mail aus, die Sie hinzufügen möchten.
+1. Klicken Sie auf das Symbol für Streams **+**, lassen Sie **Typ** als **E-Mail** und wählen Sie die E-Mail aus, die Sie hinzufügen möchten.
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
@@ -53,13 +53,13 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
    ![](assets/dragstreamcontent.jpg)
 
-## Programm in einen Stream Hinzufügen {#add-a-program-to-a-stream}
+## hinzufügen eines Programms zu einem Stream {#add-a-program-to-a-stream}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und gehen Sie zur Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -67,11 +67,11 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
 **Schaltfläche &quot;Hinzufügen&quot;**
 
-1. Klicken Sie auf **Hinzufügen Inhalt**.
+1. Klicken Sie auf **Hinzufügen Content**.
 
    ![](assets/image2014-9-15-15-3a45-3a51.png)
 
-1. Ändern Sie **den Typ** in Programm.
+1. Ändern Sie **Typ** in Programm.
 
    ![](assets/image2014-9-15-15-3a46-3a0.png)
 
@@ -92,7 +92,7 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
 **Stream + Symbol**
 
-1. Klicken Sie auf das Symbol stream **+** und ändern Sie **Type** in Programm.
+1. Klicken Sie auf das Stream **+**-Symbol und ändern Sie **Typ** in Programm.
 
    ![](assets/image2014-9-15-15-3a46-3a43.png)
 
