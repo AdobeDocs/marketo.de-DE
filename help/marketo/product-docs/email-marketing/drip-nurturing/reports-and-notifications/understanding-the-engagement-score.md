@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Einsatzergebnis {#understanding-the-engagement-score}
+# Die Interaktionsbewertung {#understanding-the-engagement-score}
 
-Mit dem Interaktionswert können Sie leicht erkennen, wie effektiv der Inhalt in Ihrem Interaktions-Programm ist. Der Wert liegt zwischen 0 und 100. Sehen Sie sich [das Dashboard](the-engagement-dashboard.md) Interaktion an, um zu erfahren, wie Sie die Leistung Ihres Inhalts verfolgen können.
+Mit dem Interaktionswert können Sie leicht erkennen, wie effektiv der Inhalt in Ihrem Interaktions-Programm ist. Der Wert liegt zwischen 0 und 100. Sehen Sie sich [das Dashboard Interaktion](the-engagement-dashboard.md) an, um zu sehen, wie Sie die Leistung Ihres Inhalts verfolgen können.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -23,7 +23,7 @@ Das Ergebnis basiert auf einem proprietären Algorithmus, der das eingesetzte Ve
 
 >[!NOTE]
 >
->Wenn Programm als Inhalt in Streams verwendet werden, basiert das Interaktionsergebnis auf der Mitgliedschaft im Programm und dem Erfolgsstatus, **nicht** auf der E-Mail-Interaktion (Klicks, Öffnen, Abmelden).
+>Wenn Programm als Inhalt in Streams verwendet werden, basiert das Interaktionsergebnis auf der Mitgliedschaft im Programm und dem Erfolgsstatus, der **nicht** E-Mail-Interaktion (Klicks, Öffnen, Abmelden).
 
 Interaktionswerte sind universell für alle Kunden. Sie können sie vergleichen, um zu sehen, wer die interessantesten Inhalte hat.
 
