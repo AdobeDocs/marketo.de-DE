@@ -18,15 +18,15 @@ Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen
 
 ## Gesamte Wiederholung abbrechen
 
-1. Wählen Sie die Kampagne aus und klicken Sie auf die Registerkarte **[!UICONTROL Plan]** .
+1. Wählen Sie die Kampagne aus und gehen Sie zur Registerkarte **[!UICONTROL Plan]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Wiederholung]** bearbeiten.
+1. Klicken Sie auf **[!UICONTROL Wiederholung bearbeiten]**.
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
-1. Setzen Sie &quot;Wiederkehrend&quot;auf &quot;Ohne&quot;und klicken Sie auf &quot; **[!UICONTROL Bestätigen&quot;]**.
+1. Setzen Sie &quot;Wiederkehrend&quot;auf &quot;Keine&quot;und klicken Sie auf **[!UICONTROL Bestätigen]**.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-3.png)
 
@@ -36,7 +36,7 @@ Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen
 
 ## Abbrechen eines einzelnen Vorgangs
 
-1. Wählen Sie die Kampagne aus und klicken Sie auf die Registerkarte **[!UICONTROL Plan]** .
+1. Wählen Sie die Kampagne aus und gehen Sie zur Registerkarte **[!UICONTROL Plan]**.
 
    ![Bild vier](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -44,7 +44,7 @@ Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen
 
    ![Bild fünf](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. Suchen Sie den auszuwählenden Einzellauf und klicken Sie ganz rechts auf das **[!UICONTROL X]** .
+1. Suchen Sie den einzelnen auszuführenden Befehl und klicken Sie ganz rechts auf das **[!UICONTROL X]**.
 
    ![Bild sechs](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
