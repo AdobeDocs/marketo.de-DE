@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Verwenden von Periodenkosten in einem Programm {#using-period-costs-in-a-program}
+# Verwenden von Zeitkosten in einem Programm {#using-period-costs-in-a-program}
 
-Ein [Zeitraum](understanding-period-costs.md) ist der Betrag, den Sie für ein Programm ausgeben. Es kann ein oder mehrere Monate dauern und wird für den Berichte-ROI verwendet.
+Ein [Periodenkosten](understanding-period-costs.md) ist der Betrag, den Sie für ein Programm ausgeben. Es kann ein oder mehrere Monate dauern und wird für den Berichte-ROI verwendet.
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
-> Erfahren Sie mehr über [Umsatz in Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+> Erfahren Sie mehr über [Umsatzzyklusanalysen](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
-## hinzufügen  {#add-a-period-cost}
+## hinzufügen einer Periodenkosten {#add-a-period-cost}
 
-1. Gehen Sie zur Registerkarte **Einstellungen** Ihres Programms.
+1. Gehen Sie zur Registerkarte **Setup** Ihres Programms.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Ziehen Sie die **Zeitkosten** per Drag &amp; Drop in die Arbeitsfläche.
+1. Ziehen Sie **Period Cost** in die Arbeitsfläche.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -35,7 +35,7 @@ Ein [Zeitraum](understanding-period-costs.md) ist der Betrag, den Sie für ein P
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Geben Sie eine **Period-Kosten** ein (ohne Dezimalstellen oder Kommas). Klicken Sie auf **Speichern**.
+1. Geben Sie eine **Period Cost** (ohne Dezimalstellen oder Kommas) ein. Klicken Sie auf **Speichern**.
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ Ein [Zeitraum](understanding-period-costs.md) ist der Betrag, den Sie für ein P
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Klicken Sie mit der rechten Maustaste auf die **Periodenkosten**. Wählen Sie **Bearbeiten**.
+1. Klicken Sie mit der rechten Maustaste auf **Kosten des Zeitraums**. Wählen Sie **Bearbeiten**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -68,11 +68,11 @@ Ein [Zeitraum](understanding-period-costs.md) ist der Betrag, den Sie für ein P
 
 ## Löschen von Zeitkosten {#delete-a-period-cost}
 
-1. Gehen Sie zur Registerkarte **Einstellungen** Ihres Programms.
+1. Gehen Sie zur Registerkarte **Setup** Ihres Programms.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Klicken Sie mit der rechten Maustaste auf die **Periodenkosten**. Wählen Sie **Löschen**.
+1. Klicken Sie mit der rechten Maustaste auf **Kosten des Zeitraums**. Wählen Sie **Löschen**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
