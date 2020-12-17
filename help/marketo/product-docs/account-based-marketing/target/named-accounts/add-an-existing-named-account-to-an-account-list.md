@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen eines vorhandenen benannten Kontos zu einer Konto-Liste {#add-an-existing-named-account-to-an-account-list}
+# hinzufügen eines vorhandenen benannten Kontos an eine Konto-Liste {#add-an-existing-named-account-to-an-account-list}
 
 Das Hinzufügen eines benannten Kontos zu einer Liste ist ganz einfach.
 
 >[!NOTE]
 >
->Dies gilt nur für Listen des Kontos, **nicht** für Listen des dynamischen Kontos.
+>Dies gilt nur für Kontoeinstellungen, **nicht** Dynamische Listen.
 
 1. Wählen Sie die Zeile des benannten Kontos aus, der Sie hinzufügen möchten.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf die Dropdownliste **Benannte Kontoaktionen** und wählen Sie **Hinzufügen Liste**.
+1. Klicken Sie auf die Dropdownliste **Benannte Kontoaktionen** und wählen Sie **Hinzufügen bis Liste**.
 
    ![](assets/five-1.png)
 
-1. Klicken Sie auf die Dropdownliste **Kontoauszug-Liste** , wählen Sie die gewünschte Liste aus und klicken Sie auf **Hinzufügen**.
+1. Klicken Sie auf die Dropdown-Liste **Konto-Liste**, wählen Sie die gewünschte Konto-Liste und klicken Sie auf **Hinzufügen**.
 
    ![](assets/six-1.png)
 
