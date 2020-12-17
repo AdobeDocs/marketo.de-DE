@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Skript-Token erstellen {#create-an-email-script-token}
+# Erstellen eines E-Mail-Skript-Tokens {#create-an-email-script-token}
 
 Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](http://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails verwenden. Hier ist, wie man das macht.
 
@@ -23,15 +23,15 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](http://velocity.
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Ziehen Sie unter der Registerkarte &quot; **Meine Token** &quot;ein Token für ein **E-Mail-Skript** .
+1. Ziehen Sie unter der Registerkarte **Meine Token** ein Token **E-Mail-Skript**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Benennen Sie Ihr E-Mail-Skript-Token und **klicken Sie auf , um den Inhalt zu bearbeiten** .
+1. Benennen Sie Ihr E-Mail-Skript-Token und **klicken Sie auf , um den Inhalt zu bearbeiten.**
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Verwenden Sie die Struktur auf der rechten Seite, um Token für **Personen, Chancen** oder **benutzerdefinierte Objekte** einzuziehen.
+1. Verwenden Sie die Struktur auf der rechten Seite, um die Token **Person, Gelegenheit** oder **Benutzerdefiniertes Objekt** zu ziehen.
 
    ![](assets/five-2.png)
 
@@ -61,7 +61,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](http://velocity.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicken Sie erneut auf **Speichern** .
+1. Klicken Sie noch einmal auf **Speichern**.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
