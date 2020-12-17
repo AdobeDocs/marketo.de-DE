@@ -27,15 +27,15 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    **
 
-1. Klicken Sie im Menü Datenbankverwaltung auf **Salesforce** - **Objekte synchronisieren**.
+1. Klicken Sie im Menü Datenbankverwaltung auf **Salesforce** **Objekte synchronisieren**.
 
    ![](assets/two-2.png)
 
-1. Wenn dies Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf Schema **synchronisieren.** Klicken Sie andernfalls auf Schema **aktualisieren** , um sicherzustellen, dass Sie die neuesten Informationen haben.
+1. Wenn dies Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf **Schema synchronisieren.** Klicken Sie andernfalls auf  **Schema** aktualisieren, um sicherzustellen, dass Sie die neuesten Informationen haben.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Wenn Ihre globale Synchronisierung ausgeführt wird, müssen Sie sie deaktivieren, indem Sie auf Globale Synchronisierung **deaktivieren klicken.**
+1. Wenn Ihre globale Synchronisierung ausgeführt wird, müssen Sie sie deaktivieren, indem Sie auf **Globale Synchronisierung deaktivieren.**
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -43,11 +43,11 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
    >
    >Die Synchronisierung des benutzerdefinierten Salesforce-Schemas kann einige Minuten dauern.
 
-1. Klicken Sie auf Schema **aktualisieren**.
+1. Klicken Sie auf **Schema aktualisieren**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf &quot;Synchronisierung **aktivieren&quot;**.
+1. Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **Synchronisierung aktivieren**.
 
    >[!TIP]
    >
@@ -55,13 +55,13 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Klicken Sie erneut auf Synchronisierung **aktivieren** .
+1. Klicken Sie erneut auf **Synchronisierung aktivieren**.
 
    ** ![](assets/image2014-12-10-10-3a15-3a40.png)
 
    **
 
-1. Gehen Sie zurück zur Registerkarte **Salesforce** und klicken Sie auf **Synchronisierung** aktivieren.
+1. Gehen Sie zurück zum Register **Salesforce** und klicken Sie auf **Synchronisierung aktivieren**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -71,7 +71,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 >
 >Sie können benutzerdefinierte Objekte nicht mit Auslösern in intelligenten Kampagnen verwenden.
 
-1. Ziehen Sie in der intelligenten Liste über den **Filter** Hat Chancen und legen Sie den Wert **true** fest.
+1. Ziehen Sie in der intelligenten Liste über den Filter **Hat Gelegenheit** und setzen Sie ihn auf **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
