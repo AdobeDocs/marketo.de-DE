@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Hinzufügen einer URL für einen eingehenden Link manuell {#seo-add-an-inbound-link-url-manually}
+# SEO - Hinzufügen einer URL für einen Inbound-Link manuell {#seo-add-an-inbound-link-url-manually}
 
 Sie können Inbound Links manuell hinzufügen. So geht es:
 
-1. Gehen Sie zum Abschnitt **Inbound Links** .
+1. Gehen Sie zum Abschnitt **Inbound Links**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
@@ -29,7 +29,7 @@ Sie können Inbound Links manuell hinzufügen. So geht es:
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie Ihren Inbound-Link zu einer neuen oder vorhandenen Liste [](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)hinzufügen können? Schau es dir an!
+   >Wussten Sie, dass Sie [Ihren Inbound-Link zu einer neuen oder vorhandenen Liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können? Schau es dir an!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
