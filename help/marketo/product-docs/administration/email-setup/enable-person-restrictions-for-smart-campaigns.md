@@ -48,7 +48,7 @@ Es gibt eine Funktion in Marketo, um die ***max. ***Anzahl der Personen zu begre
    >[!CAUTION]
    >
    >
-   >Diese Beschränkung gilt für alle intelligenten Kampagnen, kann jedoch auf der Ebene der Kampagne überschrieben werden. Erfahren Sie, wie Sie [Personenbeschränkungen in einer intelligenten Kampagne](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)überschreiben.
+   >Diese Beschränkung gilt für alle intelligenten Kampagnen, kann jedoch auf der Ebene der Kampagne überschrieben werden. Erfahren Sie, wie Sie [Personenbeschränkungen in einer intelligenten Kampagne](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) außer Kraft setzen.
 
 Bingo! Du hast gerade den Sicherheitsschalter eingeschaltet. Gute Idee, nicht wahr?
 
