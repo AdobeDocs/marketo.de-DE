@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Banner](/help/sky/assets/images/alt-sky-banner.png)
 
-Die [!DNL Marketo Sky] Oberfläche verwendet neue Designs, Workflows und Funktionen, um Ihnen mehr aus dem Angebot zu holen [!DNL Marketo].
+Die [!DNL Marketo Sky]-Schnittstelle verwendet neue Designs, Workflows und Funktionen, die Ihnen helfen, [!DNL Marketo] besser zu nutzen.
 
 ## Erste Schritte
 
