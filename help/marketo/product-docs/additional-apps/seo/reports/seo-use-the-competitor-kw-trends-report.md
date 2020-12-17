@@ -21,7 +21,7 @@ In diesem Bericht können Sie sehen, wie Sie und Ihre Konkurrent im Zeitverlauf 
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Klicken Sie auf **Konkurrenzfähige KW-Rang-Trends**.
+1. Klicken Sie auf **Konkurrierende KW-Rangtrends**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -44,11 +44,11 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Suchbegriffe in einem bes
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Klicken Sie auf die Dropdown-Liste **Rang** , um den Rangbereich auszuwählen, für den Sie Suchbegriffe Ansicht wünschen.
+1. Klicken Sie auf die Dropdown-Liste **Rang**, um den Rangbereich auszuwählen, für den Sie Suchbegriffe Ansicht wünschen.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportieren von Daten  {#exporting-data}
+## Exportieren von Daten {#exporting-data}
 
 >[!TIP]
 >
