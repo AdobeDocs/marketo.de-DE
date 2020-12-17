@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen zur Liste {#add-to-list}
+# hinzufügen in Liste {#add-to-list}
 
 ## Übersicht {#overview}
 
@@ -19,7 +19,7 @@ Dieser Flussschritt wird verwendet, um Personen zu Listen hinzuzufügen.
 
 ![](assets/image2014-9-22-10-3a41-3a33.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 Suchen und wählen Sie die Liste aus, der Sie Ihre Leute hinzufügen möchten.
 
