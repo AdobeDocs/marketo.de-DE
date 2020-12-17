@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync: Interessentenabgleich {#microsoft-dynamics-sync-lead-sync}
+# Microsoft Dynamics Sync: Interessentensynchronisierung {#microsoft-dynamics-sync-lead-sync}
 
 Marketo to to Dynamics sync ist super leistungsfähig. Im Folgenden finden Sie die Details:
 
@@ -29,7 +29,7 @@ Obwohl dies selten ist, wird Marketo gewinnen für Menschen (Interessenten) und 
 
 ## Kann ich mit Marketo einen Lead in Dynamics erstellen? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Ja, verwenden Sie die [Aktion &quot;Person mit Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) synchronisieren&quot;. Dies wird einen Vorsprung in Dynamics erzeugen, wenn der Lead nicht existiert. Wenn der Interessent vorhanden ist, führt der Flussschritt keine Aktion durch.
+Ja, verwenden Sie die Aktion [Person mit Microsoft ](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)-Textfluss synchronisieren. Dies wird einen Vorsprung in Dynamics erzeugen, wenn der Lead nicht existiert. Wenn der Interessent vorhanden ist, führt der Flussschritt keine Aktion durch.
 
 >[!NOTE]
 >
@@ -37,11 +37,11 @@ Ja, verwenden Sie die [Aktion &quot;Person mit Microsoft](../../../../product-do
 
 ## Kann ich manuell eine Synchronisierung einer Person von Marketo zu einem Lead in Dynamics erzwingen? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit, Updates zwischen Marketo und Dynamics zu synchronisieren. Die Aktion [Person mit Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) synchronisieren erzwingt keine Synchronisierung des Interessenten.
+Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit, Updates zwischen Marketo und Dynamics zu synchronisieren. Die Aktion [Person mit Microsoft ](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)-Fluss synchronisieren erzwingt keine Synchronisierung des Interessenten.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können Felder [auswählen, die während der Einrichtung synchronisiert](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) werden sollen.
+Sie können die zu synchronisierenden Felder [während des Setups auswählen.](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)
 
 ## Wird Marketo die Dynamikvalidierungsregeln einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
 
