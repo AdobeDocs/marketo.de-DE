@@ -29,15 +29,15 @@ Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App. Hier er
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Geben Sie einen Namen für die neue Rolle und eine optionale Beschreibung ein. Markieren Sie das Feld **Zugriff auf Mobilanwendung** und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Namen für die neue Rolle und eine optionale Beschreibung ein. Markieren Sie das Feld **Mobile Anwendung aufrufen** und klicken Sie auf **Erstellen**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
    Die neue Rolle kann zugewiesen werden, wenn Sie Benutzer zur Verwendung der Tablet-App einladen.
 
-## Neue Benutzer zur Check-in-App einladen {#invite-new-users-for-the-check-in-app}
+## Neue Benutzer für die Check-in-App {#invite-new-users-for-the-check-in-app} einladen
 
-1. Klicken Sie auf die Registerkarte **Benutzer** .
+1. Klicken Sie auf die Registerkarte **Benutzer**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
@@ -45,7 +45,7 @@ Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App. Hier er
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die mobile App. Klicken Sie auf **Einladen** , wenn Sie fertig sind.
+1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die mobile App. Klicken Sie auf **Einladen**, wenn Sie fertig sind.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 
