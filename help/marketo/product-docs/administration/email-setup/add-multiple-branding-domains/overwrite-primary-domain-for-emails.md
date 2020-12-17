@@ -19,7 +19,7 @@ Sie können die primäre Markendomäne per E-Mail überschreiben. Dies ändert d
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie eine E-Mail aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie eine E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2016-8-26-11-3a48-3a7.png)
 
