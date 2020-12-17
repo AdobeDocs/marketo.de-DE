@@ -24,7 +24,7 @@ Um auf das Filterbedienfeld zuzugreifen, klicken Sie auf das Symbol &quot;Filter
 
 Mit dieser Funktion können Sie Assets suchen, die innerhalb eines bestimmten Datumsbereichs erstellt oder geändert wurden. z.B. letzte Woche, in den letzten drei Monaten usw.
 
-Standardmäßig lädt Marketo alle Inhalte der letzten sechs Monate. Um dies zu ändern, wählen Sie einen Bereich aus der Dropdownliste Datumsbereich **[!UICONTROL auswählen]** aus. Diese Einstellungen sind fixierbar und werden auch bei der nächsten Anmeldung bei Marketo angewendet.
+Standardmäßig lädt Marketo alle Inhalte der letzten sechs Monate. Um dies zu ändern, wählen Sie einen Bereich aus der Dropdownliste **[!UICONTROL Datumsbereich]** auswählen. Diese Einstellungen sind fixierbar und werden auch bei der nächsten Anmeldung bei Marketo angewendet.
 
 ![Bild zwei](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
@@ -34,7 +34,7 @@ Geben Sie eine Bezeichnung ein, nach der Sie sortieren möchten, und wählen Sie
 
 ![Bild drei](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-Klicken Sie auf das **X** , um eine Bezeichnung aus der gefilterten Suche zu entfernen.
+Klicken Sie auf **X**, um eine Bezeichnung aus der gefilterten Suche zu entfernen.
 
 ![Bild vier](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 
