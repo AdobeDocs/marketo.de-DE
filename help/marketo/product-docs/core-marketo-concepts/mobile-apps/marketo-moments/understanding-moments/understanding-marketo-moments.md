@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erläuterungen zu Markusmomenten {#understanding-marketo-moments}
+# Erläuterungen zu Marketo-Momenten {#understanding-marketo-moments}
 
 Die Macht von Marketo liegt jetzt in Ihren Händen, buchstäblich! Vorschau und Umplanung von E-Mails direkt von Ihrem Handy oder iPad aus.
 
@@ -19,9 +19,9 @@ Die Macht von Marketo liegt jetzt in Ihren Händen, buchstäblich! Vorschau und 
 >
 >**Verfügbarkeit**
 >
->Zugriff auf die Berechtigung für mobile Apps erforderlich. Wenden Sie sich an Ihren Marketing-Administrator, um Ihre Rolle zu [aktualisieren](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Zugriff auf die Berechtigung für mobile Apps erforderlich. Wenden Sie sich an Ihren Marketing-Administrator, um [Ihre Rolle zu aktualisieren](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Vorstellen von Momenten {#introducing-moments}
+## Vorstellung von Momenten {#introducing-moments}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
 
@@ -49,15 +49,15 @@ OK, jetzt da wir das übrig haben, lasst uns einen Blick auf Marketo Moments auf
 
 Marketo Moments gibt Ihnen drei verschiedene Karten, um den Fortschritt Ihrer E-Mail zu verfolgen:
 
-**On-Deck** - Diese E-Mail wird gleich ausgehen. Es ist Ihre letzte Chance, es Vorschau, ein Beispiel zu senden oder sogar abzubrechen, wenn Sie müssen.
+**On-Deck**  - Diese E-Mail wird gleich ausgehen. Es ist Ihre letzte Chance, es Vorschau, ein Beispiel zu senden oder sogar abzubrechen, wenn Sie müssen.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Herzschlag** - Hey - diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Mach weiter und teile es.
+**Herzschlag**  - Hey - diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Mach weiter und teile es.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Ergebnisse** - So war die E-Mail. Nachdem die E-Mail ausgeführt wurde, zeigt die Ergebniskarte den Interaktionswert und andere Statistiken an.
+**Ergebnisse**  - So war die E-Mail. Nachdem die E-Mail ausgeführt wurde, zeigt die Ergebniskarte den Interaktionswert und andere Statistiken an.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -105,7 +105,7 @@ Im Abschnitt Später werden die kommenden Aktivitäten angezeigt.
 
    >[!NOTE]
    >
-   >Laut [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger)lag der weltweit größte Hamburger bei 2.014 lbs.
+   >Laut dem Guinness Book of World Records[ wog der größte Hamburger der Welt 2.014 lbs.](http://www.guinnessworldrecords.com/world-records/largest-hamburger)
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -123,7 +123,7 @@ E-Mail-Programm-Karten zeigen wichtige Dinge wie Zeitplan, Audience, Status und 
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
-## Ereignis Karten {#event-cards}
+## Ereignis-Karten {#event-cards}
 
 Für Ereignisse sehen Sie die Gesamtzahl der Mitglieder und ihren Status.
 
@@ -145,9 +145,9 @@ Karten mit intelligenter Kampagne stellen einen einzelnen Ablauf einer Kampagne 
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 
-## Aktion bestätigen oder abbrechen {#confirm-or-cancel-an-action}
+## Eine Aktion {#confirm-or-cancel-an-action} bestätigen oder abbrechen
 
-In jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **Nie Mind**.
+In jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **Niemals Mind**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -164,7 +164,7 @@ Sind Sie bereit, mehr zu erfahren?
 
 
 
-## Unterstützte Versionen  {#supported-versions}
+## Unterstützte Versionen {#supported-versions}
 
 Marketo Moments unterstützt die folgenden Betriebssystemversionen:
 
