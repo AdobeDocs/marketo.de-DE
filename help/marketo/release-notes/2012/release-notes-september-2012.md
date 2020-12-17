@@ -33,7 +33,7 @@ Profitieren Sie von Erkenntnissen und reduzieren Sie die Reibung, indem Sie Inte
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Landingpages auf Facebook veröffentlichen {#publish-landing-pages-to-facebook}
+## Landingpages auf Facebook {#publish-landing-pages-to-facebook} veröffentlichen
 
 Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie sie direkt auf Facebook veröffentlichen - inklusive Social-Apps, Formularen und der vollständigen Funktionalität der Marketo-Landingpages.
 
@@ -43,7 +43,7 @@ Schließen Sie ein Marketo-Ereignis nahtlos an ein ReadyTalk-Meeting an. Verwend
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics on Premise {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
 
 Wir unterstützen Microsoft Dynamics 2011 jetzt vor Ort mit einer Internet-Facing-Bereitstellung.
 
@@ -53,7 +53,7 @@ Ein Webgehaken ist ein benutzerdefinierter HTTP-Rückruf. Es ist eine großartig
 
 Beispiele für die Verwendung von Webhooks: Veröffentlichen von Benutzernamen- und Kennwortinformationen in einem anderen System, um ein Testkonto zu erstellen; Senden einer SMS-Textnachricht, wenn Sie einen neuen Interessenten erhalten.
 
-## Aktualisierung der getMultipleLeads-API {#update-to-getmultipleleads-api}
+## Aktualisieren auf getMultipleLeads API {#update-to-getmultipleleads-api}
 
 Dem API-Aufruf getMultipleLeads wurden neue Filterkriterien hinzugefügt. Zusätzlich zum Filtern nach Datum unterstützen wir jetzt zusätzliche Kriterien:
 
