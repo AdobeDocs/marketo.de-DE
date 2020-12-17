@@ -17,8 +17,8 @@ Die folgenden Funktionen sind in der Version vom Juni 2015 enthalten. Überprüf
 
 ## [Zuordnungs-E-Mail-Bericht](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)  {#attribution-email-report}
 
-Erfahren Sie mehr über die Wertpersonalisierung und die empfohlenen Inhalte für Ihre Marketing-Aktivitäten. [Der Bericht](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) &quot;Zuordnungs-E-Mail&quot;zeigt die direkten und unterstützten Interessenten an, die aus der Personalisierung von RTP und den empfohlenen Content-Kampagnen stammen. Fügen Sie in RTP, Benutzereinstellungen und E-Mail-Bericht den Zuordnungs-E-Mail-Bericht hinzu, um monatliche oder vierteljährliche E-Mails zu erhalten.
+Erfahren Sie mehr über die Wertpersonalisierung und die empfohlenen Inhalte für Ihre Marketing-Aktivitäten. [Der ](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Bericht &quot;Zuordnungs-E-Mail&quot;zeigt die direkten und unterstützten Interessenten an, die aus der Personalisierung von RTP und den empfohlenen Content-Kampagnen stammen. Fügen Sie in RTP, Benutzereinstellungen und E-Mail-Bericht den Zuordnungs-E-Mail-Bericht hinzu, um monatliche oder vierteljährliche E-Mails zu erhalten.
 
 ## Willst du unseren Fahrplan beeinflussen? {#want-to-influence-our-roadmap}
 
-Grade Marketo mit dieser [schnellen Berichtskarte](https://www.surveymonkey.com/s/VG9YCT5). Wir nutzen Ihre Beiträge für die Planung 2016 und darüber hinaus!
+Grade Marketo mit dieser [Quick Report Card](https://www.surveymonkey.com/s/VG9YCT5). Wir nutzen Ihre Beiträge für die Planung 2016 und darüber hinaus!
