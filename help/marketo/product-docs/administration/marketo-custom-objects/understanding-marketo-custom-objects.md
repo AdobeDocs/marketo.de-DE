@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erläuterungen zu benutzerdefinierten Objekten {#understanding-marketo-custom-objects}
+# Einführung zu Markieren in benutzerdefinierte Objekte {#understanding-marketo-custom-objects}
 
 Verwenden Sie benutzerdefinierte Objekte, um unternehmensspezifische Metriken zu verfolgen.
 
@@ -45,7 +45,7 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 ## Zugriff auf Marketing zu benutzerdefinierten Objekten {#accessing-marketo-custom-objects}
 
-1. Klicken Sie zum Erstellen oder Bearbeiten benutzerdefinierter Objekte auf **Admin **und dann auf den Link **Zu benutzerdefinierten** Objekten markieren.
+1. Klicken Sie zum Erstellen oder Bearbeiten benutzerdefinierter Markieren auf **Admin **und dann auf den Link **Benutzerdefiniertes Objekt markieren** s.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -63,19 +63,19 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
    ![](assets/image2016-6-10-15-3a15-3a29.png)
 
-## Benutzerdefinierte Objekte einer Ansicht {#view-custom-objects-associated-to-a-person}
+## Benutzerdefinierte Objekte der Ansicht, die einer Person {#view-custom-objects-associated-to-a-person} zugeordnet sind
 
 Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen Objektdaten mithilfe des Linkfelds im benutzerdefinierten Objekt automatisch mit den Personen in der Datenbank verknüpft. Informationen zur Ansicht können Sie auf der Seite mit den Personendetails auf der Registerkarte &quot;Benutzerspezifische Objekte&quot;finden.
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zu **Datenbank**.
 
    ![](assets/db.png)
 
-1. Öffnen Sie die Datenbank und klicken Sie auf die Registerkarte **Personen** . Klicken Sie bei gedrückter Dublette auf den Datensatz für eine Person, die Sie einem benutzerdefinierten Objekt zugeordnet haben.
+1. Öffnen Sie die Datenbank und klicken Sie auf die Registerkarte **Personen**. Klicken Sie bei gedrückter Dublette auf den Datensatz für eine Person, die Sie einem benutzerdefinierten Objekt zugeordnet haben.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf der Seite mit den Personendetails auf die Registerkarte **Benutzerspezifische Objekte** . Wählen Sie das Objekt aus der Dropdownliste aus.
+1. Klicken Sie auf der Seite mit den Personendetails auf die Registerkarte **Benutzerspezifische Objekte**. Wählen Sie das Objekt aus der Dropdownliste aus.
 
    ![](assets/six.png)
 
@@ -91,7 +91,7 @@ Wenn Sie mehrere Personen in Marketo haben, die Datensätze in den CRM- oder Nur
 
 Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp nach Firma verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendaten entweder mit einer Firma verknüpft sind, die die Kontaktkonversion in Ihrem CRM verwendet, oder mit dem Feld externalCompanyId, wenn Sie Firmen mit den REST-APIs von Marketo verwalten. Bei Personendatensätzen, die nicht explizit mit Firmen verknüpft sind, werden mit Firma verknüpfte benutzerdefinierte Objekte zufällig mit einem einzigen Datensatz verknüpft, selbst wenn der Wert des Felds &quot;Firma&quot;für viele Personen freigegeben wird.
 
-Weitere Informationen finden Sie unter [Importieren benutzerdefinierter Objektdaten](import-custom-object-data.md) .
+Weitere Informationen finden Sie unter [Benutzerspezifische Objektdaten importieren](import-custom-object-data.md).
 
 >[!MORELIKETHIS]
 >
