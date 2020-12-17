@@ -18,7 +18,7 @@ Interaktions-Programm können mehrere Streams enthalten.
 
    ![Bild eins](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
