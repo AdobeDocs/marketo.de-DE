@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aktivieren einer auslösenden intelligenten Kampagne | Registerkarte &quot;Plan&quot; {#activate-a-trigger-smart-campaign-schedule-tab}
+# Aktivieren einer auslösenden intelligenten Kampagne | Registerkarte Plan {#activate-a-trigger-smart-campaign-schedule-tab}
 
 Das Aktivieren einer intelligenten Kampagne für Auslöser ist so, als würde sie aktiviert. Hier ist, was zu tun ist.
 
@@ -23,7 +23,7 @@ Das Aktivieren einer intelligenten Kampagne für Auslöser ist so, als würde si
    >
    >Überprüfen Sie die intelligente Kampagne, bevor Sie sie aktivieren.
 
-1. Klicken Sie erneut auf **Aktivieren** .
+1. Klicken Sie erneut auf **Aktivieren**.
 
    ![](assets/activatecampaign-hand.png)
 
