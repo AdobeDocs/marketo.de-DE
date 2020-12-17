@@ -16,7 +16,7 @@ Flussschritte sagen Marketo, was Sie einer Gruppe von Personen, die sich qualifi
 
 ## hinzufügen eines Flussschritts
 
-1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]Ihre intelligente Kampagne aus und klicken Sie auf **[!UICONTROL Fluss]**.
+1. Wählen Sie unter [!UICONTROL Marketing-Aktivitäten] Ihre intelligente Kampagne aus und klicken Sie auf **[!UICONTROL Fluss]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -38,13 +38,13 @@ Erfahren Sie mehr über die verschiedenen [Flussschritte](http://docs.marketo.co
 
 **Erinnerung**
 
-Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) neu an, um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
+Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) Flussschritte neu an, um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
 
 >[!TIP]
 >
 >Bei einem ungültigen Eintrag wird eine rote Linie angezeigt. Bewegen Sie den Mauszeiger über die Zeile, um zu sehen, wie sie korrigiert werden kann.
 >
->Überprüfen und [überprüfen Sie die intelligente Kampagne](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) , bevor Sie sie planen oder aktivieren.
+>Überprüfen und überprüfen Sie die intelligente Kampagne[, bevor Sie sie planen oder aktivieren.](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist)
 
 ## Flussschritte neu anordnen
 
