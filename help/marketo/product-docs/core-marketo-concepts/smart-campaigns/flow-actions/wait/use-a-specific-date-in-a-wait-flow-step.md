@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Verwenden eines bestimmten Datums in einem Schritt mit einem Wartefluss {#use-a-specific-date-in-a-wait-flow-step}
+# Verwenden Sie ein bestimmtes Datum in einem Schritt mit einem Wartefluss {#use-a-specific-date-in-a-wait-flow-step}
 
-Mit dem Schritt zum **Warten** können Sie die Reise einer Person durch eine intelligente Kampagne bis zu einem bestimmten Datum anhalten.
+Mit dem Flussschritt **Wait** können Sie die Reise einer Person durch eine intelligente Kampagne bis zu einem bestimmten Datum anhalten.
 
-1. Ziehen Sie auf der Registerkarte &quot; **Fluss** intelligenter Kampagnen&quot;über den Schritt **&quot;Fluss** warten&quot;.
+1. Ziehen Sie in der Registerkarte &quot;Smart-Kampagne **Fluss**&quot;über den Textfluss **Wait**.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
