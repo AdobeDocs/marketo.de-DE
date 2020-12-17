@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Picklist-Werte Hinzufügen/entfernen {#add-remove-picklist-values}
+# hinzufügen/Entfernen von Picklist-Werten {#add-remove-picklist-values}
 
 Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von picklist-Werten in Salesforce.
 
-## Hinzufügen von Picklist-Werten {#adding-picklist-values}
+## Picklist-Werte {#adding-picklist-values} hinzufügen
 
-1. Wenn ein zusätzlicher Wert in Salesforce zu einem picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) , die angibt, welche Formulare davon betroffen sind.
+1. Wenn ein zusätzlicher Wert in Salesforce zu einem picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md), die angibt, welche Formulare dies betreffen.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Gehen Sie zum Formulareditor und [fügen Sie der Liste der Vorschläge den zusätzlichen Wert](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) hinzu.
+1. Gehen Sie zum Formulareditor und fügen Sie [den zusätzlichen Wert](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) zu Ihrer Liste der Vorschläge hinzu.
 
-## Picklist-Werte entfernen {#remove-picklist-values}
+## Picklist-Werte {#remove-picklist-values} entfernen
 
 Wenn ein picklist-Wert aus einem Feld in Salesforce entfernt wird, müssen Sie diesen Wert manuell aus allen Formularen entfernen, in denen dieses Feld gehostet wird.
 
