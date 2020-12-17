@@ -18,7 +18,7 @@ Im Folgenden finden Sie die Grundlagen zur Navigation in der Ansicht der Program
 
 ## Suchen der Ansicht &quot;Zeitplan&quot;
 
-Wählen Sie Ihr Programm aus dem Baum. Klicken Sie auf der Registerkarte [!UICONTROL Details] auf [!UICONTROL Plan].
+Wählen Sie Ihr Programm aus dem Baum. Klicken Sie unter der Registerkarte [!UICONTROL Details] auf [!UICONTROL Plan].
 
 ![Bild eins](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ Die Agenda zeigt Ihnen alle Einträge in einem bestimmten Monat.
 
 ## Einstellungen für Ansichten
 
-Klicken Sie oben rechts in der Ansicht Programmplanung auf [!UICONTROL Ansicht Einstellungen] , um Ihre Einträge nach [!UICONTROL Tentative], [!UICONTROL Confirmed]und/oder [!UICONTROL Fertig]zu filtern.
+Klicken Sie oben rechts in der Ansicht Programmplanung auf [!UICONTROL Ansicht Settings], um Ihre Einträge nach [!UICONTROL Tentative], [!UICONTROL Confirmed] und/oder [!UICONTROL Fertig] zu filtern.
 
 ![Bild vier](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
