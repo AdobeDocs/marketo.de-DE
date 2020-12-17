@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Verwenden eines Webhofs in einer intelligenten Kampagne {#use-a-webhook-in-a-smart-campaign}
+# Verwenden Sie einen WebHaken in einer intelligenten Kampagne {#use-a-webhook-in-a-smart-campaign}
 
-Um einen [Webhook](http://developers.marketo.com/documentation/webhooks/)zu verwenden, fügen Sie ihn einer [intelligenten Kampagne](add-a-flow-step-to-a-smart-campaign.md) als Fließaktion hinzu.
+Um einen [webaken](http://developers.marketo.com/documentation/webhooks/) zu verwenden, fügen Sie ihn einer [smart Kampagne](add-a-flow-step-to-a-smart-campaign.md) als Fließaktion hinzu.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Um einen [Webhook](http://developers.marketo.com/documentation/webhooks/)zu verw
    >
    >Webhooks können nur in Trigger-Kampagnen verwendet werden.
 
-1. Wechseln Sie zur Registerkarte **Fluss** und ziehen Sie in die Flussaktion **Aufrufen des Webhofs** .
+1. Wechseln Sie zur Registerkarte **Fluss** und ziehen Sie in die Fließaktion **WebHaken** aufrufen.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
