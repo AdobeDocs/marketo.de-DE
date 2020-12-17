@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren Sie sie direkt in ABM!
 
-1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Benannte Konten** importieren.
+1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Benannte Konten importieren**.
 
    ![](assets/inaone.png)
 
-1. Daraufhin wird ein neues Fenster geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie dann die Datei mit den benannten Konten aus, die Sie importieren möchten.
+1. Daraufhin wird ein neues Fenster geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie dann die Datei der benannten Konten aus, die Sie importieren möchten.
 
    ![](assets/inatwo.png)
 
@@ -33,9 +33,9 @@ Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren
 
    >[!NOTE]
    >
-   >Wenn Sie &quot; **Nach Domänenmodus**&quot;wählen, müssen sowohl die Felder &quot;Benanntes Konto&quot;als auch &quot;Domäne&quot;einbezogen werden.
+   >Wenn Sie **Nach Domänenmodus** wählen, müssen sowohl die Felder für das benannte Konto als auch die Domäne einbezogen werden.
 
-1. Klicken Sie zur Auswahl der Liste, zu der Ihr benanntes Konto hinzugefügt wird, auf die Dropdownliste **Kontoeinstellungen** , und wählen Sie aus.
+1. Klicken Sie auf die Dropdown-Liste **Konto-Liste**, um die Liste auszuwählen, der Ihr benanntes Konto hinzugefügt wird, und wählen Sie aus.
 
    ![](assets/inafour.png)
 
@@ -43,7 +43,7 @@ Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren
    >
    >Sie können auch eine ganz neue Account-Liste erstellen, indem Sie einfach ihren Namen in das Dropdown-Feld eingeben.
 
-1. Um eine Benachrichtigung über den Import zu senden, klicken Sie auf die Dropdownliste Warnung **senden an** und wählen Sie einen Benutzer aus. Sie *können* keine E-Mail-Adresse manuell eingeben.
+1. Um eine Benachrichtigung über den Import zu senden, klicken Sie auf die Dropdownliste **Warnung an** senden und wählen Sie einen Benutzer aus. Sie können *keine*-E-Mail-Adresse manuell eingeben.
 
    ![](assets/inafive-2.png)
 
@@ -51,7 +51,7 @@ Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren
 
    ![](assets/inasix-2.png)
 
-1. Ordnen Sie die einzelnen Felder zu, indem Sie mit der Dublette auf die Dropdown-Liste &quot; **Feld** markieren&quot;klicken und das entsprechende Feld auswählen. Klicken Sie abschließend auf **Weiter** .
+1. Ordnen Sie die einzelnen Felder zu, indem Sie mit der Dublette auf die Dropdownliste **Markierungsfeld** klicken und das entsprechende Feld auswählen. Klicken Sie abschließend auf **Weiter**.
 
    ![](assets/inaseven.png)
 
