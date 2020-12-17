@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Neue intelligente Kampagne erstellen {#create-a-new-smart-campaign}
+# Neue Smart-Kampagne erstellen {#create-a-new-smart-campaign}
 
 Intelligente Kampagnen sind das wichtigste Werkzeug in Marketing. Sie können eine Person auslösen und Aktionen durchführen oder Millionen von Personen zusammenführen und eine Reihe von Flussschritten ausführen.
 
@@ -19,13 +19,13 @@ Intelligente Kampagnen sind das wichtigste Werkzeug in Marketing. Sie können ei
 >
 >**Tieftauchen**
 >
->Intelligente Kampagnen sind super cool. Erfahren Sie mehr darüber [hier](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Intelligente Kampagnen sind super cool. Erfahren Sie mehr über sie [hier](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie ein **Programm** und klicken Sie dann unter &quot; **Neu** &quot;auf &quot; **Neues lokales Asset**&quot;.
+1. Wählen Sie ein **Programm** und klicken Sie dann unter **Neu** auf **Neues lokales Element**.
 
    ![](assets/program-localassethands.png)
 
