@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Manchmal starten Sie eine kluge Kampagne und erkennen sofort, dass es ein Fehler war. Hier ist, wie man die Notbremse zieht und die intelligente Kampagne mitten im Betrieb stoppt.
 
-1. Wählen Sie unter **Marketing-Aktivitäten** Ihre intelligente Kampagne aus und gehen Sie zur Registerkarte **Plan** .
+1. Wählen Sie unter **Marketing-Aktivitäten** Ihre intelligente Kampagne aus und gehen Sie zur Registerkarte **Plan**.
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Klicken Sie auf die Dropdownliste** Kampagne Aktionen**. Wählen Sie Kampagne **abbrechen**.
+1. Klicken Sie auf die Dropdownliste** Kampagne Aktionen**. Wählen Sie **Kampagne abbrechen**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. Klicken Sie zur Bestätigung auf **Abbrechen** .
+1. Klicken Sie zur Bestätigung auf **Abort**.
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
@@ -42,10 +42,10 @@ Manchmal starten Sie eine kluge Kampagne und erkennen sofort, dass es ein Fehler
 
    >[!NOTE]
    >
-   >Sehen Sie sich die Registerkarte &quot; **Ergebnisse** &quot;der intelligenten Kampagne an, um zu sehen, welche Aktionen vor dem Abbruch durchgeführt wurden. Sie finden auch eine [Benachrichtigung](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) mit weiteren Details.
+   >Sehen Sie sich die Registerkarte **Ergebnisse** der intelligenten Kampagne an, um zu sehen, welche Aktionen vor dem Abbruch durchgeführt wurden. Außerdem finden Sie eine [notification](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) mit weiteren Details.
 
    >[!TIP]
    >
-   >Soll eine Person in einer Auslöser-Kampagne aus dem Fluss entfernt werden? Sehen Sie sich [Aus Fluss](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)entfernen an.
+   >Soll eine Person in einer Auslöser-Kampagne aus dem Fluss entfernt werden? Sehen Sie sich [Entfernen aus Fluss](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) an.
 
 Kontrollieren Sie immer Ihre Dublette, aber diese Notbremse kann in Zukunft praktisch sein.
