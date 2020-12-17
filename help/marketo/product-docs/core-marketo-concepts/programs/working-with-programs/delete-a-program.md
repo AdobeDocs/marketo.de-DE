@@ -27,7 +27,7 @@ Sie können ein Programm archivieren, aber manchmal möchten Sie es einfach daue
 
 >[!TIP]
 >
->**Die Archivierung von Programmen** speichert die Programm-Daten, macht das Programm jedoch unmöglich. Wählen Sie diese Option und klicken Sie dann auf **Weiter** , um weitere Details zur Archivierung anzuzeigen.
+>**Durch die Archivierung** von Programmen bleiben die Daten erhalten, das Programm bleibt Ihnen jedoch aus dem Weg. Wählen Sie diese Option und klicken Sie dann auf **Weiter**, um weitere Details zur Archivierung anzuzeigen.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Um das Problem zu beheben, müssen Sie möglicherweise einen Drilldown durchfüh
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klicken Sie auf **Verwendet** **von** , um zu sehen, wo das Asset verwendet wird.
+1. Klicken Sie auf **Verwendet** **By**, um zu sehen, wo das Asset verwendet wird.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
