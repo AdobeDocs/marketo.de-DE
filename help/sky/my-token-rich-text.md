@@ -16,7 +16,7 @@ ht-degree: 0%
 
 So richten Sie ein Rich-Text-Token für die Verwendung in Programmen und Kampagnen-Ordnern ein.
 
-1. Ziehen Sie auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;Ihres Programms oder Ordners ein **Rich Text** -Token auf die Arbeitsfläche &quot; [!UICONTROL Lokale Token] &quot;.
+1. Ziehen Sie auf der Registerkarte [!UICONTROL Meine Token] Ihres Programms oder Ordners ein Token **Rich Text** in die Arbeitsfläche [!UICONTROL Lokale Token].
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
