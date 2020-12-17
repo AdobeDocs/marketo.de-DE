@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Senden einer Beispiel-E-Mail {#send-a-sample-email}
+# Beispiel-E-Mail senden {#send-a-sample-email}
 
 Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Senden einer E-Mail mit dynamischen Inhalten finden Sie unter [Vorschau einer E-Mail mit dynamischen Inhalten](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->Sie müssen über die Berechtigung &quot;Datenbank **aufrufen - EinzelFluss-Aktionen** ausführen&quot;verfügen, um E-Mails mit Beispielen zu senden.
+>Sie müssen über die Berechtigung **Datenbank aufrufen - Einzelflussaktionen ausführen** verfügen, um Beispiel-E-Mails zu senden.
 
-## Senden einer Beispiel-E-Mail {#send-a-sample-email-1}
+## Beispiel-E-Mail senden {#send-a-sample-email-1}
 
 1. Suchen und wählen Sie Ihre E-Mail aus. Klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Beispiel senden**.\
    ![](assets/one-281-29.jpg)
@@ -41,11 +41,11 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    >[!TIP]
    >
-   >Wenn Sie Token als eine bestimmte Person auflösen möchten, wählen Sie diese Person in der Dropdownliste **&quot;** Person&quot;in Schritt 2 aus.
+   >Wenn Sie Token als eine bestimmte Person auflösen möchten, wählen Sie diese Person in der Dropdown-Liste **Person** in Schritt 2.
 
-## Beispiel-E-Mail bei Bearbeitung senden {#send-a-sample-email-while-editing}
+## Beispiel-E-Mail bei Bearbeitung von {#send-a-sample-email-while-editing} senden
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf die Registerkarte Entwurf **bearbeiten** .
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf die Registerkarte **Entwurf bearbeiten**.
 
    ![](assets/three-281-29.jpg)
 
@@ -59,15 +59,15 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    >[!NOTE]
    >
-   >Das Auslöserfeld ist nur für diejenigen gültig, die [E-Mail-Skripten](http://developers.marketo.com/documentation/velocity-script/)verwenden.
+   >Das Auslöserfeld ist nur für diejenigen anwendbar, die [email scripting](http://developers.marketo.com/documentation/velocity-script/) verwenden.
 
 ## Senden einer Beispiel-E-Mail anhand eines Segments {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Wenden Sie die Segmentierung auf Ihre E-Mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)an.
+>[Wenden Sie die Segmentierung auf Ihre E-Mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email) an.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf die Registerkarte Entwurf **bearbeiten** .
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf die Registerkarte **Entwurf bearbeiten**.
 
    ![](assets/three-281-29.jpg)
 
@@ -75,7 +75,7 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    ![](assets/1.png)
 
-1. Klicken Sie auf die Dropdownliste **Ansicht nach** und wählen Sie **Segmentierung**.
+1. Klicken Sie auf die Dropdownliste **Ansicht nach und wählen Sie** Segmentierung **.**
 
    ![](assets/2.png)
 
@@ -87,12 +87,12 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    ![](assets/4.png)
 
-1. Klicken Sie auf Beispiel **senden** , um eine Test-E-Mail Ihres Segments in Aktion zu erhalten.
+1. Klicken Sie auf **Beispiel senden**, um eine Test-E-Mail Ihres Segments in Aktion zu erhalten.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >Sie können auch eine E-Mail-Musterdatei basierend auf einem Segment im Bearbeitungsmodus Ihrer E-Mail senden. Klicken Sie auf die Dropdownliste **E-Mail-Aktionen** , wählen Sie **Beispiel senden** und wählen Sie dann Ihr Segment aus.
+   >Sie können auch eine E-Mail-Musterdatei basierend auf einem Segment im Bearbeitungsmodus Ihrer E-Mail senden. Klicken Sie auf die Dropdownliste **E-Mail-Aktionen**, wählen Sie **Beispiel senden** und wählen Sie dann Ihr Segment aus.
 
 Es ist sehr wichtig, Ihre Inhalte vor dem Start einer Kampagne zu beproben. Messen Sie zweimal, schneiden Sie einmal!
