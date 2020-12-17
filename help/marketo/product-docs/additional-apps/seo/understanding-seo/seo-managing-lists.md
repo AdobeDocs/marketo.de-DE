@@ -29,9 +29,9 @@ Sie können Listen Elemente hinzufügen, wenn Sie Suchbegriffe, Seiten, Seitenpr
 
    >[!TIP]
    >
-   >Sie können eine neue Liste in der Dropdown-Liste erstellen. Geben Sie einen Titel ein und drücken Sie die Eingabetaste.  ![—](assets/image2014-9-18-13-3a25-3a8.png) >
+   >Sie können eine neue Liste in der Dropdown-Liste erstellen. Geben Sie einen Titel ein und drücken Sie die Eingabetaste.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
 
-1. Klicken Sie auf **SPEICHERN**.
+1. Klicken Sie auf **SAVE**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
