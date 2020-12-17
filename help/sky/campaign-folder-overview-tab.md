@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Kampagnen-Ordner: Registerkarte &quot;Übersicht&quot;
 
-Die Registerkarte &quot;Kampagne- [!UICONTROL Übersicht] &quot;enthält zwei Abschnitte: **[!UICONTROL Details]** und **[!UICONTROL Berichte]**.
+Es gibt zwei Bereiche unter der Registerkarte &quot;Kampagne&quot;: [!UICONTROL Details] und **[!UICONTROL Berichte]**.****
 
 ![Bild eins](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
 [!UICONTROL ## Details]
 
-Auf der Hauptseite &quot; [!UICONTROL Details] &quot;werden allgemeine Informationen zum Ordner &quot;Kampagne&quot;angezeigt.
+Auf der Hauptseite [!UICONTROL Details] werden allgemeine Informationen zum Ordner &quot;Kampagne&quot;angezeigt.
 
 ![Bild eins](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
