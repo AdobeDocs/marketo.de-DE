@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Datenbank-Dashboard {#database-dashboard}
+# Database Dashboard {#database-dashboard}
 
 Das Database Dashboard dient als Momentaufnahme, mit dem Sie wichtige Attribute zu Ihren Personen in einem Arbeitsbereich schnell ermitteln können.
 
@@ -19,9 +19,9 @@ Das Database Dashboard dient als Momentaufnahme, mit dem Sie wichtige Attribute 
 >
 >Jeder Arbeitsbereich verfügt über eine eigene Datenbank.
 
-Um dorthin zu gelangen, können Sie auf die Kachel **Datenbank** auf Ihrem Startbildschirm klicken...   ![](assets/db-3.png)
+Klicken Sie dazu auf das Kachel **Datenbank** auf Ihrem Startbildschirm...   ![](assets/db-3.png)
 
-Oder klicken Sie auf das Markieren-Logo und wählen Sie **Datenbank**.
+Oder klicken Sie auf das Markenlogo und wählen Sie **Datenbank**.
 
 ![](assets/db2.png)
 
@@ -31,7 +31,7 @@ Die Diagramme zeigen die Gesamtzahl der Personen, die Anzahl der vermarktbaren P
 
 >[!TIP]
 >
->Möchten Sie genauere oder aktuellere Informationen über Ihre Mitarbeiter erhalten? Testen Sie einen [Personendaten-Bericht](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Möchten Sie genauere oder aktuellere Informationen über Ihre Mitarbeiter erhalten? Versuchen Sie es mit einem [Personendaten-Bericht](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Personen insgesamt:** Die Anzahl der Vollzeitbenutzer für diesen Arbeitsbereich.  **Marketable Personen:** Die Anzahl der Vollzeitbenutzer für den Arbeitsbereich, *abzüglich der folgenden*: Personen ohne E-Mail-Adresse, Personen, deren E-Mail-Adresse schwer abgeschnitten hat, auf die Blockierungsliste gesetzt, Personen, die sich abgemeldet haben, Personen, die sich derzeit auf Marketing ausgesetzt gesetzt haben.
+**Gesamtzahl der Personen:** Die Anzahl der Vollzeitbenutzer für diesen Arbeitsbereich.  **Marketable People:** Die Anzahl der Vollzeitbenutzer für den Arbeitsbereich,  *abzüglich der folgenden*: Personen ohne E-Mail-Adresse, Personen, deren E-Mail-Adresse schwer abgeschnitten hat, auf die Blockierungsliste gesetzt, Personen, die sich abgemeldet haben, Personen, die sich derzeit auf Marketing ausgesetzt gesetzt haben.
 
