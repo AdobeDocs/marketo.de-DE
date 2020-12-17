@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# E-Mail erstellen {#create-an-email}
+# Erstellen einer E-Mail {#create-an-email}
 
 Es gibt zwei Möglichkeiten, eine E-Mail in Marketo zu erstellen. Schauen wir uns beide an.
 
-## Erstellen einer E-Mail in Design Studio {#create-an-email-in-the-design-studio}
+## Erstellen einer E-Mail im Design Studio {#create-an-email-in-the-design-studio}
 
-1. Gehen Sie zum **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/one-4.png)
 
@@ -31,13 +31,13 @@ Es gibt zwei Möglichkeiten, eine E-Mail in Marketo zu erstellen. Schauen wir un
 
 Einfach! Auf die andere Art...
 
-## E-Mail in Marketing-Aktivitäten erstellen {#create-an-email-in-marketing-activities}
+## Erstellen einer E-Mail in Marketing-Aktivitäten {#create-an-email-in-marketing-activities}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/three-3.png)
 
-1. Wählen Sie das Programm aus, dem Sie die E-Mail hinzufügen möchten, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Asset**.
+1. Wählen Sie das Programm aus, dem Sie die E-Mail hinzufügen möchten, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Element**.
 
    ![](assets/four-3.png)
 
@@ -49,19 +49,19 @@ Einfach! Auf die andere Art...
 
 Welche Methode Sie auswählen, führt Sie zur Vorlagenauswahl.
 
-1. Geben Sie Ihrer E-Mail einen Namen, klicken Sie auf die Vorlage, die Sie verwenden möchten, und klicken Sie dann auf **Erstellen**.
+1. Geben Sie Ihrer E-Mail einen Namen, klicken Sie auf die gewünschte Vorlage und klicken Sie dann auf **Erstellen**.
 
    ![](assets/six-2.png)
 
    >[!NOTE]
    >
-   >Sie können aus einer Sammlung von sofort einsatzbereiten E-Mail-Vorlagen oder aus einer Vorlage wählen, die Sie gespeichert haben, indem Sie zuerst **Meine Vorlagen** auswählen und die gleichen Schritte ausführen.
+   >Sie können aus einer Sammlung von sofort einsatzfähigen reaktionsfähigen E-Mail-Vorlagen oder aus einer Vorlage auswählen, die Sie gespeichert haben, indem Sie **Meine Vorlagen** auswählen und die gleichen Schritte ausführen.
 
 1. Geben Sie eine Betreffzeile ein. Es gibt einen Zähler auf der rechten Seite, um Sie darüber zu informieren, ob Sie unter der empfohlenen 50-Zeichen-Höchstzahl sind.
 
    ![](assets/seven-1.png)
 
-   Abhängig von der gewählten Vorlage stehen Ihnen verschiedene Optionen zur Bearbeitung Ihrer E-Mail zur Verfügung. E-Mails mit Modulen können Sie [Hinzufügen Module per E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)abrufen.
+   Abhängig von der gewählten Vorlage stehen Ihnen verschiedene Optionen zur Bearbeitung Ihrer E-Mail zur Verfügung. E-Mails mit Modulen können Sie [Hinzufügen Module in Ihrer E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) auschecken.
 
 Ihre E-Mail ist jetzt erstellt, also bearbeiten Sie weg!
 
