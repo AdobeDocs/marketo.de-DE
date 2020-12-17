@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# A/B-Tests mit &quot;Betreffzeile&quot;verwenden {#use-subject-line-a-b-testing}
+# &quot;Betreffzeile&quot; A/B-Tests verwenden {#use-subject-line-a-b-testing}
 
-Sie können Ihre E-Mails ganz einfach A/B testen. Einer der am häufigsten verwendeten Tests ist der Test **Betreffzeile** .
+Sie können Ihre E-Mails ganz einfach A/B testen. Einer der häufigsten Tests ist der **Subject Line**-Test.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Einer der am häufigsten verwe
 
    >[!TIP]
    >
-   >Sie können auf das **Pluszeichen***** klicken, um weitere Betreffzeilen hinzuzufügen.
+   >Sie können auf das **plus****-Zeichen** klicken, um weitere Betreffzeilen hinzuzufügen.
 
 1. Verwenden Sie den Schieberegler, um den Prozentsatz der Audience auszuwählen, an die Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **Weiter**.
 
@@ -51,7 +51,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Einer der am häufigsten verwe
    >
    >Die verschiedenen Themenvarianten nehmen sogar Teile der ausgewählten Teststichprobengröße ein.
 
-   Okay, wir sind fast da. Jetzt müssen wir die Kriterien [für den Gewinner des A/B-Tests festlegen](define-the-a-b-test-winner-criteria.md).
+   Okay, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md) definieren.
 
    >[!NOTE]
    >
