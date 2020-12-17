@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eine Präsentation löschen {#delete-a-presentation}
+# Löschen einer Präsentation {#delete-a-presentation}
 
 Manchmal kann man zu viel Gutes haben. Löschen Sie alte Präsentationen, um Platz für neue zu machen!
 
@@ -23,7 +23,7 @@ Manchmal kann man zu viel Gutes haben. Löschen Sie alte Präsentationen, um Pla
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie zur Bestätigung auf **Löschen**.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
