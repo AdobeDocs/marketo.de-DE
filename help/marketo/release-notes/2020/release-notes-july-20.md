@@ -19,15 +19,15 @@ Die folgenden Funktionen sind in der Version vom 20. Juli enthalten. Überprüfe
 >
 >**Verfügbarkeit**
 >
->Bitte beachten Sie, dass je nach aktuellem Paket Artikel mit einem Stern ( ![(Stern)](assets/star-yellow.svg)) den Kauf eines Wertzuwachses erfordern können. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Beachten Sie, dass je nach aktuellem Paket Artikel mit einem Stern ( ![(star)](assets/star-yellow.svg)) möglicherweise den Kauf eines Wertzusatzes erfordern. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
-***Quartalsversionen*** Die folgenden Funktionen werden am 31. **Juli 2020** veröffentlicht.
+***Vierteljährliche*** ReleasesDie folgenden Funktionen werden am 31.  **Juli 2020** veröffentlicht.
 
 ## Administration {#administration}
 
 * ** [&quot;Verwendet von&quot; Export in Feldverwaltung](https://docs.marketo.com/x/hAK1Ag)**: Administratoren können jetzt alle Asset-Links &quot;Verwendet von&quot;für ein ausgewähltes Feld in eine CSV-Datei exportieren. Diese Verbesserung kann sowohl Administratoren als auch Nichtadministratoren bei der Bereinigung nicht verwendeter Felder unterstützen. Außerdem können Assets jetzt in einer neuen Browserregisterkarte oder einem neuen Browserfenster geöffnet werden.
 
-**Kontobasiertes Marketing ![(Stern)](assets/star-yellow.svg)
+**Kontobasiertes Marketing ![(star)](assets/star-yellow.svg)
 
 **
 
@@ -54,7 +54,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **
 
-* ** [Verbesserte Zweiparteienzustimmung für Verkaufsaufrufe:](https://docs.marketo.com/x/dgC1Ag)** Administratoren haben jetzt mehr Kontrolle über die Konfigurationen für die Aufzeichnung von Aufrufen. [Aktivieren Sie Aufnahmen](https://docs.marketo.com/x/dAC1Ag) mit der Gewissheit, dass Sie das Zweitanbieter-Einwilligungsgesetz einhalten. Automatisieren Sie die Benachrichtigung über den aufgezeichneten Aufruf und aktivieren Sie Audioclips, die vor dem Aufruf wiedergegeben werden sollen.
+* ** [Verbesserte Zweiparteienzustimmung für Verkaufsaufrufe:](https://docs.marketo.com/x/dgC1Ag)** Administratoren haben jetzt mehr Kontrolle über die Konfigurationen für die Aufzeichnung von Aufrufen. [Aktivieren Sie ](https://docs.marketo.com/x/dAC1Ag) Aufrufe mit der Gewissheit, dass Sie das Zweitanbieter-Einwilligungsgesetz einhalten. Automatisieren Sie die Benachrichtigung über den aufgezeichneten Aufruf und aktivieren Sie Audioclips, die vor dem Aufruf wiedergegeben werden sollen.
 
 <br> 
 
@@ -62,7 +62,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **Asset-API &quot;_method&quot;-Parameterentfernung**: Ab September 2020 akzeptieren die Asset-API-Endpunkte &quot;_method&quot;nicht mehr, um Abfragen-Parameter in einem POST-Textkörper zu übergeben, um die Längenbeschränkungen des URI zu umgehen. Um Anforderungen, die diesen Parameter erfordern, anzupassen, werden die URI-Beschränkungen für Asset-APIs von 8 KB auf 65 KB erhöht.
 * ** [Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Mit dieser Version des Munchkin JavaScript-Client, Version 159, beginnen wir mit der Einstellung der Munchkin Associate Lead-Methode. Wenn sie aufgerufen wird, erhalten Sie eine Warnung, dass die Methode in einer zukünftigen Version entfernt wird. Nach dem Entfernen ist die Methode nicht mehr funktionsfähig, und Versuche, sie zu verwenden, schlagen fehl. Marketo Engage-Kunden, die diese Methode vor kurzem verwendet haben, werden einzeln über ihre Verwendung informiert.
-* **Unterstützung für Internet Explorer**: Wie bereits angekündigt, endet die Marketo Engage-Unterstützung für Internet Explorer 11 am 31. **Juli 2020**. Google Chrome, Mozilla Firefox, Apple Safari und Microsoft Edge werden weiterhin unterstützt.
+* **Unterstützung für Internet Explorer**: Wie bereits angekündigt, endet die Marketo Engage-Unterstützung für Internet Explorer 11 am 31.  **Juli 2020**. Google Chrome, Mozilla Firefox, Apple Safari und Microsoft Edge werden weiterhin unterstützt.
 
 * **Sky-Standarderlebnis**: Die Option, mit der Administratoren oder Benutzer Marketo Sky als Standarderlebnis festlegen können, wird in dieser Version entfernt, um eine Aktualisierung der primären Benutzererfahrung vorzubereiten. Weitere Informationen über die für Ende des Jahres geplante Aktualisierung der primären Erfahrung werden im Juli verfügbar sein. Benutzer, die Marketo Sky als Standard-Erlebnis festgelegt haben oder Zugriff auf Marketo Sky erhalten haben, können weiterhin über eine Kachel auf der Startseite &quot;Mein Marker&quot;auf Marketo Sky zugreifen.
 * **Unterstützung** von EdgeHTML (nicht Chromium) Microsoft Edge: Marketo Engage unterstützt Ende 2020 keine EdgeHTML-Versionen von Microsoft Edge mehr. Ab dem 1. Januar 2021 wird nur die neueste Chromium-Version von Microsoft Edge unterstützt.
