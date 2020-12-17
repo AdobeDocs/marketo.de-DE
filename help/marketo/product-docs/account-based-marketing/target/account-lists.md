@@ -11,41 +11,41 @@ ht-degree: 0%
 ---
 
 
-# Listen von Konten {#account-lists}
+# Konto-Listen {#account-lists}
 
 Bei einer Kontosammlung handelt es sich um eine Liste benannter Konten, auf die ein Targeting durchgeführt werden kann. Mit den Kontoeinstellungen können Sie benannte Listen nach Branche, Standort oder Größe der Firma Zielgruppen vornehmen.
 
-Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinstellungen erstellen, die aus öffentlichen CRM-Konto-Ansichten generiert wurden. Eine CRM-Konto-Ansicht ist ein Regelsatz, der beim Anzeigen von Konten als Filter dient. Sie können es beispielsweise verwenden, um Konten zu finden, bei denen die Branche Gesundheitswesen ist *und* der Umsatz über 100 Mio. US-Dollar liegt.
+Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinstellungen erstellen, die aus öffentlichen CRM-Konto-Ansichten generiert wurden. Eine CRM-Konto-Ansicht ist ein Regelsatz, der beim Anzeigen von Konten als Filter dient. Beispielsweise können Sie damit Konten suchen, bei denen der Umsatz unter &quot;Branche&quot;und unter *und* unter $100M liegt.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Bei der Erstellung intelligenter Listen und Web-Kampagnen in der [Web-Personalisierung](http://docs.marketo.com/display/DOCS/RTP+Segments)stehen in Marketing-to-Account-basiertem Marketing erstellte Kontoeinstellungen automatisch zur Verfügung.
+>In &quot;Marketing to Account Based Marketing&quot;erstellte Listen stehen beim Erstellen intelligenter Listen und Web-Kampagnen in [Web-Personalisierung](http://docs.marketo.com/display/DOCS/RTP+Segments) automatisch zur Verfügung.
 
-## Eine Liste für ein neues Konto erstellen {#create-a-new-account-list}
+## Neue Konto-Liste {#create-a-new-account-list} erstellen
 
-1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie Liste **Neues Konto** erstellen.
+1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neue Liste für das Konto erstellen**.
 
    ![](assets/1a.png)
 
-1. Benennen Sie Ihre Liste und klicken Sie auf **Erstellen**.
+1. Geben Sie der Liste einen Namen und klicken Sie auf **Erstellen**.
 
    ![](assets/three-0.png)
 
-1. Nachdem Sie Ihre Account-Liste erstellt haben, beginnen Sie damit, benannte Konten [hinzuzufügen](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Nachdem Sie Ihre Konto-Liste erstellt haben, beginnen Sie mit dem [Hinzufügen benannter Konten zu ihr](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
 
    >[!NOTE]
    >
    >Marketo zeigt nur Einblicke in Kontokonten mit 2.000 oder weniger benannten Listen an.
 
-## Neue Liste für dynamische Konten erstellen {#create-a-new-dynamic-account-list}
+## Neue Liste für dynamische Konten {#create-a-new-dynamic-account-list} erstellen
 
-1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie Neue dynamische Liste **erstellen**.
+1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neue dynamische Liste erstellen**.
 
    ![](assets/1.png)
 
-1. Wählen Sie im Dialogfeld eine **CRM-Konto-Ansicht** aus der Dropdown-Liste aus oder geben Sie den gewünschten Namen ein.
+1. Wählen Sie im Dialogfeld eine **CRM-Ansicht** aus der Dropdownliste oder geben Sie den Namen ein, nach dem gesucht werden soll.
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -61,9 +61,9 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
 >[!NOTE]
 >
->Diese Schritte gelten nur für Listen von Konten. *Dynamische* Listen verwenden den Namen ihrer zugehörigen CRM-Ansichten.
+>Diese Schritte gelten nur für Listen von Konten. *Dynamische* Listen verwenden den Namen ihrer zugehörigen CRM-Konto-Ansichten.
 
-1. Wählen Sie das Konto aus, das Sie umbenennen möchten, klicken Sie auf die Dropdownliste Aktionen zur **Liste** des Kontos und wählen Sie Liste **** umbenennen.
+1. Wählen Sie das Konto, das Sie umbenennen möchten, klicken Sie auf die Dropdownliste **Aktionen zur Liste von Konten** und wählen Sie **Liste des Kontos umbenennen**.
 
    ![](assets/three.png)
 
@@ -81,7 +81,7 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 >
 >Diese Schritte sind für Konto- und dynamische Listen gleich.
 
-1. Wählen Sie das zu löschende Konto aus, klicken Sie auf die Dropdownliste Aktionen zur **KontoListe** und wählen Sie Liste **zum** Löschen des Kontos.
+1. Wählen Sie das zu löschende Konto aus, klicken Sie auf die Dropdownliste **Aktionen zur Liste des Kontos** und wählen Sie **Liste des Kontos löschen**.
 
    ![](assets/five.png)
 
