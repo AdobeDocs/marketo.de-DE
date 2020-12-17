@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Wenn Sie zum ersten Mal mit Microsoft Dynamics synchronisieren, laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren Sie sie. Marketo aktualisiert diese Plug-Ins regelmäßig, sodass Sie zum selben Ort zurückkehren können, um die neue Version herunterzuladen.
 
-Bitte [laden Sie das neueste Plugin](http://docs.marketo.com/x/LoJo) herunter, das Ihrem Dynamics Release entspricht.
+Bitte [laden Sie das neueste Plugin](http://docs.marketo.com/x/LoJo) für Ihre Dynamics-Version herunter.
 
 >[!NOTE]
 >
@@ -23,12 +23,12 @@ Bitte [laden Sie das neueste Plugin](http://docs.marketo.com/x/LoJo) herunter, d
 
 ## Aktualisieren der MSI-Lösung {#updating-your-msi-solution}
 
-1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM Version 1.4 und die neueste Version 1.5 besitzt, würden Sie *über* Version 1.4 importieren.
-1. Das folgende Popup wird angezeigt. Wählen Sie die **Optionen für die Anpassung** &quot;Aktualisieren&quot;und &quot; **Überschreiben&quot;aus und klicken Sie dann auf &quot;** Importieren ****&quot;.
+1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM Version 1.4 und die neueste Version 1.5 besitzt, würden Sie *over* Version 1.4 importieren.
+1. Das folgende Popup wird angezeigt. Wählen Sie die Optionen **Aktualisieren** und **Anpassung überschreiben** und klicken Sie dann auf **Importieren**.
 
    ![](assets/one.png)
 
-## Versionsaktualisierungen {#version-updates}
+## Versionsupdates {#version-updates}
 
 <table> 
  <colgroup> 
@@ -43,27 +43,27 @@ Bitte [laden Sie das neueste Plugin](http://docs.marketo.com/x/LoJo) herunter, d
    <th colspan="1">Hinweise</th> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
+   <td colspan="1">20.07.20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Fehlerbehebung: Überprüfungsmeldung für nicht synchronisierte Datensätze Hinzufügen</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
+   <td colspan="1">12.06.20</td> 
    <td colspan="1">2.0.0.19</td> 
    <td colspan="1"><p>Fehlerbehebung: So blenden Sie das geheime MSI-Kennwort bei der MSD-API-Konfiguration aus</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
+   <td colspan="1">26.05.20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1"><p>Fehlerbehebung: So ändern Sie die MSI-Rollen-ID-Überprüfung für die Anzeige von MSI-Schaltflächen</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
+   <td colspan="1">21.05.20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1"><p>Fehlerbehebung: Rückgängig: Eigenschaftsfeld und Nicht-obligatorische Felder</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
+   <td colspan="1">28.04.20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1"><p>Fehlerbehebung: Entfernen der Link-Abhängigkeit für MSD CRM-Sitemap</p></td> 
   </tr> 
