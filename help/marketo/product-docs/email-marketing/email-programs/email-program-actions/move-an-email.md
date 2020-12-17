@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail verschieben {#move-an-email}
+# Eine E-Mail {#move-an-email} verschieben
 
 Müssen Sie eine E-Mail von einem Programm in ein anderes verschieben? So geht es.
 
@@ -23,7 +23,7 @@ Müssen Sie eine E-Mail von einem Programm in ein anderes verschieben? So geht e
 
    ![](assets/leadperformance.jpg)
 
-1. Klicken Sie auf die Dropdownliste **Verschieben nach** und wählen Sie **Marketing-Aktivitäten**.
+1. Klicken Sie auf die Dropdownliste **Nach** und wählen Sie **Marketing-Aktivitäten**.
 
    ![](assets/three-2.png)
 
@@ -31,7 +31,7 @@ Müssen Sie eine E-Mail von einem Programm in ein anderes verschieben? So geht e
    >
    >In diesem Beispiel verschieben wir eine E-Mail in ein anderes Programm, aber Sie können auch eine E-Mail in einen Ordner in Design Studio verschieben.
 
-1. Klicken Sie auf die Dropdownliste **Programm** , suchen und wählen Sie das Programm des Ziels aus und klicken Sie auf **Verschieben**.
+1. Klicken Sie auf die Dropdown-Liste **Programm**, suchen und wählen Sie das Ziel-Programm und klicken Sie auf **Verschieben**.
 
    ![](assets/four-2.png)
 
