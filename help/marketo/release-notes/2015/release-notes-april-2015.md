@@ -23,7 +23,7 @@ Die folgenden Funktionen sind in der Version vom April 2015 enthalten. Überprü
 >
 >Diese Funktion wird am Dienstag, dem 28. April, veröffentlicht.
 
-Die neue [Analytics-Startseite](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht schnellen Zugriff für die Ausführung von Ad-hoc-Berichten über verfügbare Berichtstypen hinweg.   ![](assets/image2015-4-20-11-3a18-3a8.png)
+Die neue [Analytics-Startseite](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht schnellen Zugriff für die Ausführung von Ad-hoc-Berichten über verfügbare Berichtstypen.   ![](assets/image2015-4-20-11-3a18-3a8.png)
 
 Zusätzlich steht jetzt eine private oder freigegebene Berichtsorganisation zur Verfügung. Erstellen Sie Berichte oder ziehen Sie sie in Ihren Ordner &quot;Meine Berichte&quot;, um sie vom Anzeigen, Bearbeiten oder Löschen durch andere Benutzer zu sperren. Gruppenberichte werden für alle Benutzer freigegeben.
 
@@ -31,7 +31,7 @@ Zusätzlich steht jetzt eine private oder freigegebene Berichtsorganisation zur 
 
 [Marketing-Mobile-Interaktion](http://docs.marketo.com/display/docs/mobile+marketing)
 
-Mit [MarketingTo Mobile-Interaktion](http://docs.marketo.com/display/docs/mobile+marketing)ist die Bereitstellung überzeugender mobiler Erlebnisse ganz einfach. Erstellen Sie hochgradig personalisierte Kampagnen, die überzeugende Inhalte bereitstellen, ohne je auf ein App-Entwicklungsteam angewiesen zu sein. Neue Filter und Auslöser ermöglichen es Ihnen, über Push-Benachrichtigungen auf dem mobilen Kanal zuzuhören und darauf zu reagieren.
+Mit [MarketingTo Mobile Interaktion](http://docs.marketo.com/display/docs/mobile+marketing) ist die Bereitstellung überzeugender mobiler Erlebnisse einfach. Erstellen Sie hochgradig personalisierte Kampagnen, die überzeugende Inhalte bereitstellen, ohne je auf ein App-Entwicklungsteam angewiesen zu sein. Neue Filter und Auslöser ermöglichen es Ihnen, über Push-Benachrichtigungen auf dem mobilen Kanal zuzuhören und darauf zu reagieren.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -39,7 +39,7 @@ Mit [MarketingTo Mobile-Interaktion](http://docs.marketo.com/display/docs/mobile
 
 [Integration von LinkedIn-Lead-Accelerator](../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Erweitern Sie Ihre Strategie zur Interessentenanwerbung auf bezahlte Display- und Social-Anzeigen. Die [Anzeigennetzwerkintegration](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) mit LinkedIn Lead Accelerator ermöglicht es Ihnen, ein Audiencen-Segment innerhalb von LinkedIn sicher zu erstellen, basierend auf den Mitgliedern einer beliebigen intelligenten oder statischen Liste. Mitglieder in einem LinkedIn-Audience-Segment können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
+Erweitern Sie Ihre Strategie zur Interessentenanwerbung auf bezahlte Display- und Social-Anzeigen. Die [Ad-Netzwerk-Integration](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) mit LinkedIn-Lead-Beschleuniger ermöglicht es Ihnen, ein Audiencen-Segment innerhalb von LinkedIn sicher zu erstellen, basierend auf den Mitgliedern jeder Smart- oder statischen Liste. Mitglieder in einem LinkedIn-Audience-Segment können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -49,10 +49,10 @@ Ihre bevorzugten Sales Insight-Funktionen - Lead-Feed, Best-Wetten, interessante
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP - Kontobasierte Marketinganalyse {#rtp-account-based-marketing-analytics}
+## RTP - Kontobasierte Marketing-Analysen {#rtp-account-based-marketing-analytics}
 
-RTP - [Kontobasierte Marketinganalyse](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Kontobasierte Marketing-Analysen](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Mit dem neuen Leistungsdiagramm für Ihre Listen mit einem benannten Konto erhalten Sie sofort einen Überblick über die [Performance Ihrer wichtigen Listen](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) mit einem benannten Konto, die auf jeder Phase des Kaufzyklus basieren. Das Diagramm zeigt den Stand des Besuchs der wichtigsten Organisation ausgehend vom Bewusstsein bis zum Handeln, basierend auf der Anzahl der Besuche und dem Status des Besuchers.
+Erhalten Sie eine sofortige Übersicht über die [Performance Ihrer wichtigen Listen für benannte Konten](http://docs.marketo.com/pages/viewpage.action?pageid=7511515), die auf jeder Phase des Kaufzyklus basieren, mit dem neuen Leistungsdiagramm für Ihre Listen für benannte Konten. Das Diagramm zeigt den Stand des Besuchs der wichtigsten Organisation ausgehend vom Bewusstsein bis zum Handeln, basierend auf der Anzahl der Besuche und dem Status des Besuchers.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
