@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Archivieren und Archivieren von Stream-Inhalten {#archive-and-unarchive-stream-content}
 
-Wenn Sie einen Inhalt nicht mehr in einem Stream verwenden möchten, können Sie ihn entweder [entfernen](remove-stream-content.md) oder archivieren. Hier ist, wie man Inhalte archiviert.
+Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen oder archivieren. ](remove-stream-content.md) Hier ist, wie man Inhalte archiviert.
 
 >[!TIP]
 >
 >Das Entfernen zerstört den gesamten zugehörigen Verlauf. Archivieren bewahrt es.
 
-## Stream-Inhalt archivieren {#archive-stream-content}
+## Archiv-Stream-Inhalt {#archive-stream-content}
 
-1. Wählen Sie Ihr Interaktions-Programm aus und gehen Sie zur Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Bewegen Sie den Mauszeiger über die E-Mail, die Sie archivieren möchten, und klicken Sie dann unter dem Zahnradsymbol auf **Archivieren**.
+1. Bewegen Sie den Mauszeiger über die E-Mail, die Sie archivieren möchten, und klicken Sie dann unter dem Zahnradsymbol auf **Archiv**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -41,7 +41,7 @@ Wenn Sie einen Inhalt nicht mehr in einem Stream verwenden möchten, können Sie
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Nachdem Sie nun den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, den Sie dearchivieren möchten, und klicken Sie dann auf **Archivieren**.
+1. Nachdem Sie nun den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, den Sie dearchivieren möchten, und klicken Sie dann auf **Archivieren** aufheben.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
