@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines Eintrags in der Ansicht &quot;Programmplanung&quot; {#creating-an-entry-in-the-program-schedule-view}
+# Erstellen eines Eintrags in der Ansicht Programmplanung {#creating-an-entry-in-the-program-schedule-view}
 
 Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhandenes Programm zu ergänzen.
 
@@ -21,7 +21,7 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf die Dropdownliste **Ansicht** . Wählen Sie **Plan**.
+1. Wählen Sie Ihr Programm aus. Klicken Sie auf die Dropdownliste **Ansicht**. Wählen Sie **Plan**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -49,9 +49,9 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## Einstiegstyp ändern {#change-entry-type}
+## Eintragstyp {#change-entry-type} ändern
 
-1. Wählen Sie einen einfachen Eintrag in der **Agenda** -Ansicht aus.
+1. Wählen Sie einen einfachen Eintrag aus der Ansicht **Agenda**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
@@ -59,7 +59,7 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    >[!NOTE]
    >
-   >Aufgabenstellung ist ein [benutzerdefinierter Eintrag](create-custom-entry-types.md). Sie können eine Aufgabenbeschreibung und andere benutzerdefinierte Einträge erstellen, um nicht-marketo-Tagesordnungspunkte nachzuverfolgen.
+   >Aufgabe ist ein [benutzerdefinierter Eintrag](create-custom-entry-types.md). Sie können eine Aufgabenbeschreibung und andere benutzerdefinierte Einträge erstellen, um nicht-marketo-Tagesordnungspunkte nachzuverfolgen.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
 >[!NOTE]
 >
-> Sie können auch eine [intelligente Kampagne](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) oder ein [E-Mail-Programm](creating-a-new-email-program-in-the-schedule-view.md) aus der Zeitplan-Ansicht erstellen.
+> Sie können auch ein [Smart-Kampagne](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) oder [E-Mail-Programm](creating-a-new-email-program-in-the-schedule-view.md) aus der Ansicht des Zeitplans erstellen.
 
