@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Benanntes Konto löschen {#delete-a-named-account}
+# Löschen eines benannten Kontos {#delete-a-named-account}
 
 Gehen Sie wie folgt vor, um ein benanntes Konto zu löschen.
 
@@ -23,7 +23,7 @@ Gehen Sie wie folgt vor, um ein benanntes Konto zu löschen.
    >
    >Klicken Sie bei gedrückter Strg-Taste (Windows) bzw. Befehlstaste (Mac), um mehrere benannte Konten auszuwählen.
 
-1. Klicken Sie auf die Dropdown-Liste **Benannte Kontoaktionen** und wählen Sie Benanntes Konto **löschen**.
+1. Klicken Sie auf die Dropdownliste **Benannte Kontoaktionen** und wählen Sie **Benanntes Konto löschen**.
 
    ![](assets/eight-1.png)
 
