@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Kommunikationsbeschränkungen in einem E-Mail-Programm aktivieren/deaktivieren {#enable-disable-communication-limits-in-an-email-program}
+# Kommunikationsbeschränkungen in einem E-Mail-Programm {#enable-disable-communication-limits-in-an-email-program} aktivieren/deaktivieren
 
-Beim Ausführen eines E-Mail-Programms können Sie festlegen, dass die [Kommunikationsbeschränkungen](../../../../product-docs/administration/email-setup/enable-communication-limits.md) auf Administratorebene ignoriert oder eingehalten [werden](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Hier ist, wie man das macht.
+Beim Ausführen eines E-Mail-Programms können Sie die [Kommunikationsgrenze auf Administratorebene](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md) ignorieren oder respektieren. Hier ist, wie man das macht.
 
 >[!NOTE]
 >
 >**Definition**
 >
->Kommunikationsbeschränkungen werden im Abschnitt [&quot;Admin&quot;](../../../../product-docs/administration/email-setup/enable-communication-limits.md) festgelegt und helfen Ihnen, zu viele E-Mails zu vermeiden.
+>Kommunikationsbeschränkungen werden im Abschnitt Admin[ festgelegt und helfen Ihnen, zu viele E-Mails zu vermeiden.](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -29,13 +29,13 @@ Beim Ausführen eines E-Mail-Programms können Sie festlegen, dass die [Kommunik
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Klicken Sie auf der Registerkarte **Einrichtung** bei gedrückter Dublette auf den Zeileneintrag Kommunikationsbeschränkung.
+1. Klicken Sie auf der Registerkarte **Setup** bei Dublette auf das Zeilenelement Kommunikationsbeschränkung.
 
    ![](assets/blockoperational.png)
 
-1. Standardmäßig werden nicht-operative E-Mails blockiert, wenn Kommunikationsbeschränkungen erreicht werden, aber wenn Sie sie umgehen möchten, deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Standardmäßig werden nicht operative E-Mails blockiert, wenn Kommunikationsbeschränkungen erreicht werden, Sie diese jedoch umgehen möchten, deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
 
    ![](assets/ifaperson.jpg)
 
-   Wenn Sie die Option &quot;Nicht **funktionierende E-Mails** blockieren&quot;aktivieren, wird verhindert, dass die E-Mail an alle gesendet wird, die mehr E-Mails erhalten haben, als Ihre Admin-Einstellungen zulassen.
+   Wenn Sie **Nicht operative E-Mails blockieren** aktivieren, wird verhindert, dass die E-Mail an alle gesendet wird, die mehr E-Mails erhalten haben, als Ihre Admin-Einstellungen zulassen.
 
