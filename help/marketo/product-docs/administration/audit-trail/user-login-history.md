@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verlauf der Benutzeranmeldung {#user-login-history}
+# Benutzeranmeldeverlauf {#user-login-history}
 
 Der Verlauf der Benutzeranmeldung hilft Ihnen, die Verantwortlichkeit und Sicherheit zu wahren, indem er genau anzeigt, wer sich bei Ihrem Abonnement angemeldet hat, einschließlich fehlgeschlagener Anmeldeversuche.
 
@@ -29,11 +29,11 @@ Der Benutzeranmeldungsverlauf identifiziert Personen, die sich anmelden nach:
 
 Ansicht des Benutzeranmeldeverlaufs:
 
-1. Klicken Sie auf die Registerkarte **Admin** und unter Sicherheit auf **Benutzer und Rollen**.
+1. Klicken Sie auf die Registerkarte **Admin** und klicken Sie unter Sicherheit auf **Benutzer und Rollen**.
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. Klicken Sie auf die Registerkarte **Anmeldeverlauf** . Die Liste zeigt die neuesten Anmeldungen an.
+1. Klicken Sie auf die Registerkarte **Anmeldeverlauf**. Die Liste zeigt die neuesten Anmeldungen an.
 
    ![](assets/login-history-tab.jpg)
 
@@ -55,11 +55,11 @@ Ansicht des Benutzeranmeldeverlaufs:
 
    **
 
-1. Markieren Sie das Feld **Nur fehlgeschlagene Anmeldungen** , um nur fehlgeschlagene Anmeldungen anzuzeigen.
+1. Markieren Sie das Feld **Nur fehlgeschlagene Anmeldungen**, um nur fehlgeschlagene Anmeldungen anzuzeigen.
 
    ![](assets/only-failed-logins.jpg)
 
-1. Klicken Sie auf **Übernehmen**.
+1. Klicken Sie auf **Apply**.
 
    ![](assets/click-apply-real.jpg)
 
