@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen eines E-Mail-Skript-Tokens an Ihre E-Mail {#add-an-email-script-token-to-your-email}
 
-Nachdem Sie Ihr E-Mail-Skript [erstellt haben, möchten](create-an-email-script-token.md)Sie es einer E-Mail hinzufügen, um es in Aktion zu sehen. So geht es.
+Nachdem Sie [Ihr E-Mail-Skript erstellt haben,](create-an-email-script-token.md)möchten Sie es einer E-Mail hinzufügen, um es in Aktion zu sehen. So geht es.
 
 >[!NOTE]
 >
@@ -55,6 +55,6 @@ Nachdem Sie Ihr E-Mail-Skript [erstellt haben, möchten](create-an-email-script-
 >
 >**Erinnerung**
 >
->Vergiss nicht, die E-Mail zu [genehmigen](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)!
+>Vergessen Sie nicht, [die E-Mail ](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) zu genehmigen.
 
 Das ist&#39;s! Wenn diese E-Mail gesendet wird, wird das Skript hinter dem Token ausgeführt und der Inhalt gefüllt.
