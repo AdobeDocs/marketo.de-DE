@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Einträge direkt im Marketingkalender bestätigen {#confirm-entries-directly-in-the-marketing-calendar}
+# Einträge direkt im Marketingkalender {#confirm-entries-directly-in-the-marketing-calendar} bestätigen
 
 Intelligente Kampagnen und E-Mail-Programm können als vorläufige Einträge erstellt werden und müssen bestätigt werden, damit alles wirklich geschieht. So geht es.
 
-1. Gehen Sie zum **Kalender**.
+1. Gehen Sie zum Ordner **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Wählen Sie den Eintrag aus, den Sie bestätigen möchten, und klicken Sie auf Programm-Fokus **anzeigen**.
+1. Wählen Sie den Eintrag, den Sie bestätigen möchten, und klicken Sie auf **Programm-Fokus anzeigen**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
