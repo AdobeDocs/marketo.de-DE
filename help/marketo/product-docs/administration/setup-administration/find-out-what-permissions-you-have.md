@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erfahren Sie, welche Berechtigungen Sie haben {#find-out-what-permissions-you-have}
+# Finden Sie heraus, welche Berechtigungen Sie haben {#find-out-what-permissions-you-have}
 
 Wenn Sie sich fragen, welche Berechtigungen Sie in Marketo haben oder nicht, gibt es eine einfache Möglichkeit herauszufinden.
 
@@ -19,7 +19,7 @@ Wenn Sie sich fragen, welche Berechtigungen Sie in Marketo haben oder nicht, gib
 
    ![](assets/login-marketing-activities.png)
 
-1. Klicken Sie auf **Vollzugriff** , um die Berechtigungen anzuzeigen.
+1. Klicken Sie auf **Vollständiger Zugriff**, um die Berechtigungen anzuzeigen, die Sie besitzen.
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
