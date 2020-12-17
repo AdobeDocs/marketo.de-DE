@@ -29,27 +29,27 @@ Marketo verwaltet Ihre ReadyTalk-Webinarregistrierung und -Teilnahme.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Wählen Sie **Neu** und dann **Neuer** **Dienst**.
+1. Wählen Sie **Neu** und dann **Neu** **Dienst**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Geben Sie einen **Anzeigenamen** **ein**. Wählen Sie unter **Service**** ReadyTalk**.
+1. Geben Sie einen **Display** **Name** ein. Wählen Sie unter **Service**** ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Geben Sie Ihre **Zugriffsnummer** und Ihren **Zugriffscode** **ein**.
+1. Geben Sie **Zugriffsnummer** und **Zugriff** **Code** ein.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
-1. Schließen Sie den Vorgang ab, indem Sie Ihren **Passcode** eingeben und auf **Erstellen** klicken.
+1. Schließen Sie den Prozess ab, indem Sie **Passcode** eingeben und auf **Erstellen** klicken.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. Phänomenal! Ihr **ReadyTalk** -Konto wird jetzt mit Marketo synchronisiert.
+1. Phänomenal! Ihr **ReadyTalk**-Konto wird jetzt mit Marketo synchronisiert.
 
    ![](assets/readytalk.png)
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie mit ReadyTalk ein Ereignis [erstellen](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
+>Erfahren Sie, wie Sie mit ReadyTalk [ein Ereignis erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
 
