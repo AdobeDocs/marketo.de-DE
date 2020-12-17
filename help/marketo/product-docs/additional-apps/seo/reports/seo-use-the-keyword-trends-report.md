@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Verwenden des Suchbegrifftrendberichts {#seo-use-the-keyword-trends-report}
+# SEO - Verwenden Sie den Suchbegrifftrendbericht {#seo-use-the-keyword-trends-report}
 
 In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen geordnet sind.
 
-## Bericht laden {#load-report}
+## Bericht {#load-report} laden
 
 1. Gehen Sie zu **Berichte**.
 
@@ -48,7 +48,7 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exportieren von Daten  {#exporting-data}
+## Exportieren von Daten {#exporting-data}
 
 >[!TIP]
 >
