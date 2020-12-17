@@ -17,15 +17,15 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Sie können einen Programm-Kanal [](delete-a-program-channel.md) löschen, wenn er nicht von Programmen verwendet wird.  Sobald sie jedoch verwendet wird, müssen wir sie weiter halten.  Sie können sie jedoch ausblenden, wenn Sie sie nicht mehr benötigen.
+Sie können einen Programm-Kanal [löschen, wenn er von keinem Programm verwendet wird.  ](delete-a-program-channel.md)  Sobald sie jedoch verwendet wird, müssen wir sie weiter halten.  Sie können sie jedoch ausblenden, wenn Sie sie nicht mehr benötigen.
 
-## Programm-Kanal ausblenden {#hide-a-program-channel}
+## Programm-Kanal {#hide-a-program-channel} ausblenden
 
 1. Klicken Sie unter **Admin** auf **Tags**.
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. Klicken Sie auf die Dropdownliste **Kanal** und wählen Sie den **Kanal **zum Ausblenden aus.
+1. Klicken Sie auf die Dropdownliste **Kanal** und wählen Sie den **Kanal **aus, der ausgeblendet werden soll.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -35,7 +35,7 @@ Sie können einen Programm-Kanal [](delete-a-program-channel.md) löschen, wenn 
 
 Einfach kommen, einfach gehen!
 
-## Ein- und Ausblenden eines Programm-Kanals {#unhide-a-program-channel}
+## Ein-/Ausblenden eines Programm-Kanals {#unhide-a-program-channel}
 
 1. Heben Sie das Ausblenden eines Programm-Kanals auf, indem Sie das Kontrollkästchen Ausgeblendete anzeigen aktivieren.
 
