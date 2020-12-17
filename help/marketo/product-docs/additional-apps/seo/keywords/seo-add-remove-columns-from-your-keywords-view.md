@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Spalten aus der Ansicht Suchbegriffe Hinzufügen/entfernen {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Hinzufügen/Entfernen von Spalten aus Ihrer Suchbegriffs-Ansicht {#seo-add-remove-columns-from-your-keywords-view}
 
 Sie können die Ansicht Ihres Suchbegriffs so anpassen, dass die Daten angezeigt werden, die Sie am meisten interessieren.
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ Sie können die Ansicht Ihres Suchbegriffs so anpassen, dass die Daten angezeigt
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicken Sie auf **SPEICHERN**.
+1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicken Sie auf **SAVE**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
