@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programm Hinzufügen Interaktion {#add-to-engagement-program}
+# hinzufügen auf Interaktions-Programm {#add-to-engagement-program}
 
 ## Übersicht {#overview}
 
@@ -19,7 +19,7 @@ Die intelligente Kampagne, die Sie mit diesem Flussschritt erstellen, ist das To
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Wählen Sie das Interaktions-Programm aus, dem Sie die Personen hinzufügen möchten.
 
