@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Benutzer zum Zugriff auf Kontoinsight einladen {#invite-users-to-access-account-insight}
+# Benutzer zum Zugriff auf Account Insight einladen {#invite-users-to-access-account-insight}
 
 Führen Sie die folgenden Schritte aus, um Benutzern Zugriff auf Account Insight zu gewähren.
 
@@ -19,7 +19,7 @@ Führen Sie die folgenden Schritte aus, um Benutzern Zugriff auf Account Insight
 
    ![](assets/admin-1.png)
 
-1. Klicken Sie in der Struktur auf **Benutzer und Rollen** . Klicken Sie dann auf die Registerkarte **Verkaufsbenutzer** und **laden Sie einen neuen Vertriebsbenutzer** ein.
+1. Klicken Sie in der Struktur auf **Benutzer und Rollen**. Klicken Sie dann auf die Registerkarte **Vertriebsbenutzer** und **Neuen Vertriebsbenutzer einladen**.
 
    ![](assets/two-6.png)
 
@@ -35,7 +35,7 @@ Führen Sie die folgenden Schritte aus, um Benutzern Zugriff auf Account Insight
 
    >[!NOTE]
    >
-   >Wenn Sie Benutzer per E-Mail **einladen** wählen, geben Sie einfach ihren Vornamen, Nachnamen und ihre E-Mail-Adresse ein und fahren Sie mit Schritt 4 fort.
+   >Wenn Sie **Benutzer per E-Mail einladen** auswählen, geben Sie einfach ihren Vornamen, Nachnamen und ihre E-Mail-Adresse ein und fahren Sie mit Schritt 4 fort.
 
 1. Um ein Ablaufdatum für den Zugriff des Benutzers festzulegen (optional), klicken Sie auf das Kalendersymbol. Es ist standardmäßig auf &quot;nie&quot; eingestellt.
 
