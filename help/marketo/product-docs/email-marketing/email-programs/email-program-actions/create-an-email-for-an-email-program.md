@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# E-Mail für ein E-Mail-Programm erstellen {#create-an-email-for-an-email-program}
+# E-Mail für ein E-Mail-Programm {#create-an-email-for-an-email-program} erstellen
 
 >[!PREREQUISITES]
 >
 >* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definieren einer Audience mit einer intelligenten Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Audience durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definieren einer Audience mit einer intelligenten ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können eine vorhandene E-Mail [auswählen](choose-an-existing-email.md) oder eine von Grund auf neu erstellen. So erstellen Sie eine neue E-Mail.
+Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine vorhandene E-Mail](choose-an-existing-email.md) auswählen oder eine von Grund auf neu erstellen. So erstellen Sie eine neue E-Mail.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -32,7 +32,7 @@ Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, möc
 
    ![](assets/newemaildashboard.png)
 
-1. Geben Sie einen **Namen** ein, wählen Sie die gewünschte Vorlage aus und klicken Sie auf **Erstellen**.
+1. Geben Sie eine **Name** ein, wählen Sie die Vorlage Ihrer Wahl aus und klicken Sie auf **Erstellen**.
 
    ![](assets/three.png)
 
@@ -42,13 +42,13 @@ Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, möc
 
    >[!NOTE]
    >
-   >Erfahren Sie, wie Sie Elemente in einer E-Mail [bearbeiten](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
+   >Erfahren Sie, wie Sie Elemente in einer E-Mail [bearbeiten.](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 1. Vergiss nicht, deine E-Mail zu genehmigen!
 
    ![](assets/five.png)
 
-Großartig! Nachdem wir eine E-Mail erstellt haben, die wir senden möchten, [fügen wir einen A/B-Test](email-test-a-b-test/add-an-a-b-test.md) hinzu oder überspringen Sie, um Ihr E-Mail-Programm [zu](schedule-your-email-program.md)planen.
+Großartig! Nachdem wir eine E-Mail erstellt haben, die wir senden möchten, fügen wir [einen A/B-Test](email-test-a-b-test/add-an-a-b-test.md) hinzu oder überspringen Sie direkt zu [Planen Ihres E-Mail-Programms](schedule-your-email-program.md).
 
 >[!MORELIKETHIS]
 >
