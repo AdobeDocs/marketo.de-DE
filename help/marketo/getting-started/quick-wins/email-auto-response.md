@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Automatische E-Mail-Antwort {#email-auto-response}
+# E-Mail-Automatische Antwort {#email-auto-response}
 
-## Auftrag: Senden Sie eine Dankesemail, wenn eine Person ein Formular ausfüllt {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Auftrag: Senden Sie eine Dankesemail, wenn eine Person ein Formular {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form} ausfüllt
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## Schritt 1: E-Mail erstellen {#step-create-an-email}
+## Schritt 1: Erstellen einer E-Mail {#step-create-an-email}
 
 1. Gehen Sie zum Bereich Marketing-Aktivitäten.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Ein E-Mail-Editor wird in einem neuen Fenster oder auf einer neuen Registerkarte geöffnet. Wenn Popups blockiert sind, klicken Sie auf der Asset-Zusammenfassungsseite auf Entwurf **bearbeiten** , um auf die E-Mail zuzugreifen.
+   Ein E-Mail-Editor wird in einem neuen Fenster oder auf einer neuen Registerkarte geöffnet. Wenn Popups blockiert sind, klicken Sie auf der Seite mit der Asset-Zusammenfassung auf **Entwurf bearbeiten**, um auf die E-Mail zuzugreifen.
 
 1. Geben Sie eine Betreffzeile ein und klicken Sie dann mit der Dublette auf den bearbeitbaren Bereich der E-Mail.
 
@@ -63,35 +63,35 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a55-3a16.png)
 
-## Schritt 2: Erstellen einer intelligenten Kampagne {#step-create-a-smart-campaign}
+## Schritt 2: Erstellen einer Smart-Kampagne {#step-create-a-smart-campaign}
 
-1. Klicken Sie mit der rechten Maustaste auf **Mein Programm** und dann auf **Neue Smart-Kampagne**.
+1. Klicken Sie mit der rechten Maustaste auf **Mein Programm** und klicken Sie auf **Neue Smart-Kampagne**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Benennen** Sie Ihre intelligente Kampagne &quot;Auto Response Kampagne&quot; und klicken Sie auf **Erstellen**.
+1. **Benennen Sie** Ihre intelligente Kampagne &quot;Auto Response Kampagne&quot; und klicken Sie auf  **Erstellen**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Wechseln Sie zur Registerkarte **Intelligente Liste** .
+1. Gehen Sie zur Registerkarte **Intelligente Liste**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Wir richten diese Kampagne so ein, dass sie immer dann ausgeführt wird, wenn ein Benutzer das in [**Landingpage mit einem Formular**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) erstellte Formular ausfüllt.
+   Diese Kampagne wird ausgeführt, wenn ein Benutzer das in [**Landingpage erstellte Formular mit einem Formular**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) ausfüllt.
 
-1. Ziehen Sie den **Auslöser &quot;Ausfüllbares Formular** &quot;auf die linke Arbeitsfläche.
+1. Ziehen Sie den Auslöser **Formular ausfüllen** auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Wählen Sie **Mein Formular** in der Dropdownliste aus. Klicken Sie auf die Registerkarte **Fluss** .
+1. Wählen Sie **Mein Formular** in der Dropdownliste aus. Klicken Sie auf die Registerkarte **Fluss**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Ziehen Sie die Aktion &quot;E-Mail **-Textfluss** senden&quot;auf die linke Arbeitsfläche.
+1. Ziehen Sie die Aktion **E-Mail senden** in die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Wählen Sie Ihre **E-Mail** für automatische Antworten aus und gehen Sie zur Registerkarte **Plan** .
+1. Wählen Sie **E-Mail zur automatischen Antwort** und gehen Sie zur Registerkarte **Plan**.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/8.png)
 
-1. Wählen Sie **jedes Mal** aus und klicken Sie auf **Speichern**.
+1. Wählen Sie **jedes Mal** und klicken Sie auf **Speichern**.
 
    ![](assets/9.png)
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
    ![](assets/10.png)
 
-1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren** .
+1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren**.
 
    ![](assets/11.png)
 
@@ -117,11 +117,11 @@ ht-degree: 0%
 
 ## Schritt 3: Ausfüllen des Formulars {#step-fill-out-the-form}
 
-1. Wählen Sie **Meine Seite**. Dies wurde in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) schnell gewonnen.
+1. Wählen Sie **Meine Seite**. Dies wurde in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win erstellt.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Klicken Sie auf **Ansicht genehmigt Seite**.
+1. Klicken Sie auf **Ansicht Genehmigte Seite**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 >
 >Vergewissern Sie sich, dass Sie Ihre tatsächliche E-Mail-Adresse verwenden, damit Sie die E-Mail erhalten können.
 
-## Abschluss der Mission {#mission-complete}
+## Dienstabschluss {#mission-complete}
 
 Innerhalb weniger Minuten sollten Sie die automatische Antwort-E-Mail in Ihrem Posteingang sehen. Gute Arbeit!
 
