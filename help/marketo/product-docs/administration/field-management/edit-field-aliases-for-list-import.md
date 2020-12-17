@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Feldalias für Listen-Import bearbeiten {#edit-field-aliases-for-list-import}
+# Feldalias für Liste-Import bearbeiten {#edit-field-aliases-for-list-import}
 
 Wenn Sie eine Liste mit unbekannten Überschriften importieren, können Sie Feldaliasen erstellen, um sie zu vereinfachen. Sie können diese Aliase auch im Feldmanagement bearbeiten. Schau es dir an.
 
@@ -37,7 +37,7 @@ Wenn Sie eine Liste mit unbekannten Überschriften importieren, können Sie Feld
 
 >[!TIP]
 >
->Klicken Sie auf **Hinzufügen Andere** und geben Sie bei Bedarf weitere Aliase ein.
+>Klicken Sie auf **Hinzufügen Weitere** und geben Sie bei Bedarf weitere Aliase ein.
 
 Sieh dir das an! Wenn Sie jetzt eine Tabelle mit der Spalte &quot;DOB&quot;importieren, erkennt Marketo sie automatisch als &quot;Geburtsdatum&quot;und importiert die Daten in das richtige Feld.  ![](assets/image2014-9-19-9-3a57-3a20.png)
 
