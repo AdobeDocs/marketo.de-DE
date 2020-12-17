@@ -19,19 +19,19 @@ Bitte klicken Sie auf die Titellink-Links, um detaillierte Ansichten zu den einz
 
 >[!NOTE]
 >
->Für Facebook ist jetzt ein Business Manager-Konto erforderlich, um die Integration Ihrer benutzerspezifischen Audience nutzen zu können. Ihr Facebook LaunchPoint-Dienst *muss* mit einem Business Manager-Konto verknüpft sein, sonst funktioniert **Ihre Integration nach dem 14. Januar 2019** nicht mehr. Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
+>Für Facebook ist jetzt ein Business Manager-Konto erforderlich, um die Integration Ihrer benutzerspezifischen Audience nutzen zu können. Ihr Facebook-LaunchPoint-Dienst *muss mit einem Business Manager-Konto verknüpft sein, oder **Ihre Integration funktioniert nach dem 14. Januar 2019**nicht mehr.* Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft drängt alle Online-Kunden, auf die neueste Version von Microsoft Dynamics zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit Dynamics Online integrieren, müssen Sie vor dem 31. [Januar 2019](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md) auf die neueste Version der Marketing Solution **** aktualisieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert.
+>Microsoft drängt alle Online-Kunden, auf die neueste Version von Microsoft Dynamics zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit Dynamics Online integrieren, müssen Sie vor dem 31. Januar 2019 **auf die neueste Version der Marketing-Lösung ](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md) aktualisieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert.[**
 
 >[!NOTE]
 >
->Marketo aktualisiert die OAuth Version für GoToWebinar von 1.0 auf 2.0. Die Unterstützung für OAuth 1.0 wird im Januar 2019 eingestellt. Wenn Sie GoToWebinar-Kunde sind, müssen Sie Ihre Anmeldungen bis zum 31. **Januar 2019** über LaunchPoint (im Admin-Bereich) erneut authentifizieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert. Weitere Informationen finden Sie auf unserer [Community-Seite](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
+>Marketo aktualisiert die OAuth Version für GoToWebinar von 1.0 auf 2.0. Die Unterstützung für OAuth 1.0 wird im Januar 2019 eingestellt. Wenn Sie GoToWebinar-Kunde sind, müssen Sie Ihre Anmeldungen bis zum 31. Januar 2019 über LaunchPoint (im Admin-Bereich) erneut authentifizieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert. **** Weitere Informationen finden Sie auf unserer [Community-Seite](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
 
-## Verbesserungen der Hauptplattform {#core-platform-enhancements}
+## Verbesserungen der Kernplattform {#core-platform-enhancements}
 
-** [E-Mail-Adresse für Marketing-E-Mails](../../product-docs/email-marketing/general/email-cc.md)**
+** [E-Mail-Adresse CC für Marketing-E-Mails](../../product-docs/email-marketing/general/email-cc.md)**
 
 Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Marketing gesendet werden.
 
@@ -44,7 +44,7 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 
 * **Nur-API-Modus**: Benutzer können nun festlegen, wann und wie Mitglieder ihrer Datenbank verfolgt werden, indem sie einseitige Web-Apps explizit aufrufen können, wenn sie einen Webseitenbesuch aufzeichnen möchten, anstatt sich auf die automatische Verfolgung von Marketo zu verlassen.
 * **Abmeldeverwaltung**: Sie können die Ausschluss-Cookie-Domäne problemlos verwalten, indem Sie die Ausschluss-Cookie-Domäne mit der Munchkin-Tracking-Cookie-Domäne abgleichen.
-* **Domänendef-Parameter**: Zweibuchstaben-Domänen (d. h. &quot; [website.io](http://website.io)&quot;) wird in Marketo automatisch verfolgt, ohne dass zusätzliche Setup-Anforderungen erforderlich sind.
+* **Domänendef-Parameter**: Zweibuchstaben-Domänen (d. h. &quot;  [website.io](http://website.io)&quot;) wird in Marketo automatisch verfolgt, ohne dass zusätzliche Setup-Anforderungen erforderlich sind.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
@@ -54,8 +54,8 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 * **E-Mail-Dienst**: Profitieren Sie von einer besseren Auslieferbarkeit und verbesserten Funktionen für die Rückverfolgung von Antworten, geplante E-Mails und Massen-E-Mails, indem Sie eine Verbindung zu Microsoft Outlook herstellen (über die Registerkarte &quot;E-Mail-Verbindung&quot;über Office 365 oder On-Prem).
 * **Neue Admin-Einstellungen**: Zur Optimierung Ihrer Sales Engage-Instanz wurden zwei Admin-Seiten hinzugefügt:
 
-   * *Team Management* unterstützt einen nahtlosen Kontoeinrichtungsprozess, indem Administratoren Abonnements und Teams bearbeiten können.
-   * *Salesforce Admin Settings* hilft Teams, ihre SFDC-Synchronisierung schneller und einfacher einzurichten als je zuvor.
+   * *Team* Management unterstützt einen nahtlosen Kontoeinrichtungsprozess, indem Administratoren Abonnements und Teams bearbeiten können.
+   * *Salesforce Admin* Settings Teams richten ihre SFDC-Synchronisierung schneller und einfacher ein als je zuvor.
 
 * **OWA-Plugin für Windows**: Mit einem einzigen Add-In werden alle Windows Office365-Clients in Sales Engage unterstützt, sodass Live Feed in Outlook verwendet werden kann. Das neue Plugin wird im Microsoft Store verfügbar sein.
 * **Aktivitäten Pusher**: Synchronisieren Sie Sales Engage mit der zentralen Marketo-Plattform, um Echtzeit-Marketing-Erkenntnisse zu nutzen.
@@ -64,7 +64,7 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 
 >[!NOTE]
 >
->Marketo Sky-Releases treten häufiger auf. Die folgenden Funktionen und Erweiterungen werden voraussichtlich Ende des 4. Quartals/Anfang des 1. Weitere Informationen und Aktualisierungen finden Sie in unserer [Sky-Dokumentation](https://help.marketo.com/hc/en-us/articles/360012858573).
+>Marketo Sky-Releases treten häufiger auf. Die folgenden Funktionen und Erweiterungen werden voraussichtlich Ende des 4. Quartals/Anfang des 1. Weitere Informationen und Aktualisierungen finden Sie in der [Sky-Dokumentation](https://help.marketo.com/hc/en-us/articles/360012858573).
 
 * **Optionales Standarderlebnis**: Marketo-Benutzer können Marketo Sky als Standarderlebnis festlegen, wenn ihnen der Zugriff durch einen Administrator gewährt wurde.
 
@@ -79,9 +79,9 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 * **Verbesserungen** der Benutzerfreundlichkeit von E-Mail-Programmen: Wir gehen weiter in Richtung Parität bei der E-Mail-Programm-Funktionalität zwischen unserer klassischen Marketing-Lead-Management-Plattform und dem neuen Marketo Sky-Erlebnis.
 * **Ereignis-mit-Webinar-Programme**: Ereignis-mit-Webinar-Programme sind jetzt auf Marketo Sky verfügbar (Hinweis: Nur GoToWebinar wird in dieser Version unterstützt, mit weiteren Integrationen im Laufe der Zeit).
 
-## Kundenbasiertes Marketing {#account-based-marketing}
+## Kontobasiertes Marketing {#account-based-marketing}
 
-** [ABM Personale Segmentierung und Filterung](../../product-docs/account-based-marketing/using-personas.md)**
+** [ABM Personalisierte Segmentierung und Filterung](../../product-docs/account-based-marketing/using-personas.md)**
 
 Personalisieren Sie Ihre ABM-Kampagnen für bestimmte Personen in benannten Konten. Die ABM-Persona-Funktion erstellt einen Standardauftragstitel basierend auf der Interessentensegmentierung und ermöglicht die Konfiguration zusätzlicher Personensegmente.
 
@@ -103,19 +103,19 @@ Zur effizienteren Verwaltung von Domänen und Subdomänen können Benutzer nun S
 
 **Aktualisiertes MME Software Development Kit (SDK) für Android**
 
-Wir haben unser SDK für Android auf ein moderneres, stabileres und skalierbares Framework aktualisiert, das mehr Flexibilität und neue technische Funktionen enthält. Entwickler von Android-Apps können jetzt mit diesem neuen SDK direkt die [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) von Google verwenden.
+Wir haben unser SDK für Android auf ein moderneres, stabileres und skalierbares Framework aktualisiert, das mehr Flexibilität und neue technische Funktionen enthält. Entwickler von Android-Apps können jetzt mit diesem neuen SDK direkt die Google-Version [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) verwenden.
 
 * [Entwicklerhandbücher](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
 * [Häufig gestellte Fragen zu Entwicklern](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
->App-Entwickler **müssen** vor dem 31. März 2019 auf die neue Version aktualisieren. Wenn Sie Ihr SDK nicht bis zum 31. März 2019 aktualisieren, können neue Benutzer, die Ihre App nach diesem Datum herunterladen, erst Push-Benachrichtigungen erhalten, wenn Sie auf die neueste Version des SDK aktualisieren. Für das SDK-Update ist es nicht erforderlich, dass Ihre aktuellen Benutzer der mobilen App eine neue Version Ihrer App erneut herunterladen.
+>App-Entwickler **müssen vor dem 31. März 2019 auf die neue Version aktualisieren.** Wenn Sie Ihr SDK nicht bis zum 31. März 2019 aktualisieren, können neue Benutzer, die Ihre App nach diesem Datum herunterladen, erst Push-Benachrichtigungen erhalten, wenn Sie auf die neueste Version des SDK aktualisieren. Für das SDK-Update ist es nicht erforderlich, dass Ihre aktuellen Benutzer der mobilen App eine neue Version Ihrer App erneut herunterladen.
 
-## Zusätzliche Aktualisierungen {#additional-updates}
+## Weitere Updates {#additional-updates}
 
 **Erweiterte Webinar-Plattform**
 
 Neben der Produktversion arbeitet unser Partnerteam an einem neuen Framework, das Webinar-Anbietern die Möglichkeit gibt, eigene Integrationen mit Marketo zu entwickeln und zu pflegen. Dadurch erhalten sie mehr Flexibilität bei der Aktualisierung und Verbesserung ihrer Lösungen und können Marketingexperten die von ihnen gewählten Integrationen optimal nutzen.
 
-Wir planen, unsere neue Plattform mit Anbietern von Fall zu Fall zu entwickeln. Weitere Informationen finden Sie in unseren [Programm-Details](https://www.marketo.com/why-marketo/partners/technology/) oder wenden Sie sich an Ihren Ansprechpartner bei Marketing.
+Wir planen, unsere neue Plattform mit Anbietern von Fall zu Fall zu entwickeln. Weitere Informationen finden Sie unter [Programm details](https://www.marketo.com/why-marketo/partners/technology/) oder wenden Sie sich an Ihren Ansprechpartner bei Marketing.
