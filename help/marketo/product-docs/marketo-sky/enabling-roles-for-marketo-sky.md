@@ -5,13 +5,13 @@ title: Rollen für Marketo Sky aktivieren
 translation-type: tm+mt
 source-git-commit: b155f630dfba14a7e1fc2606ca998709f9f29392
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Rollen für Marketo Sky aktivieren {#enabling-roles-for-marketo-sky}
+# Rollen für Marketo Sky {#enabling-roles-for-marketo-sky} aktivieren
 
 Um Marketo Sky nutzen zu können, müssen die Rollen der gewünschten Benutzer aktiviert sein.
 
