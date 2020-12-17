@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Entfernen eines Mitglieds aus einem Interaktions-Programm {#remove-a-member-from-an-engagement-program}
+# Entfernen Sie ein Mitglied aus einem Interaktions-Programm {#remove-a-member-from-an-engagement-program}
 
-Ups! Wie sind diese Leute da hineingekommen? Sie können Mitglieder mit dem Flussschritt &quot;Programm-Status **ändern&quot;aus einem Interaktionswerkzeug** entfernen.
+Ups! Wie sind diese Leute da hineingekommen? Sie können Mitglieder mit dem Textfluss **Programm-Status ändern** aus einem Interaktions-Programm entfernen.
 
 >[!TIP]
 >
->Verwenden Sie dies nicht, um Inhalte für eine Person anzuhalten. Dadurch werden alle Zuordnungen in der Analyse beseitigt.  Erfahren Sie mehr darüber, wie Sie Personen in einem Programm [zur Interaktion](pause-people-in-an-engagement-program.md)anhalten.
+>Verwenden Sie dies nicht, um Inhalte für eine Person anzuhalten. Dadurch werden alle Zuordnungen in der Analyse beseitigt.  Erfahren Sie mehr darüber, wie [Personen in einem Interaktions-Programm](pause-people-in-an-engagement-program.md) angehalten werden.
 
 ## Flussschritt {#flow-step}
 
-1. Ziehen Sie in den Textfluss zum Ändern des **Programm-Status** .
+1. Ziehen Sie in den Textfluss **Ändern des Programm-Status**.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
@@ -29,11 +29,11 @@ Ups! Wie sind diese Leute da hineingekommen? Sie können Mitglieder mit dem Flus
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Alle Mitglieder, die Sie in der [intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) definiert haben, werden nicht mehr in diesem Interaktions-Programm enthalten sein.
+   Groovy. Alle Mitglieder, die Sie in der [intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) definiert haben, befinden sich nicht mehr in diesem Interaktions-Programm.
 
-## Personen anhalten  {#pause-people}
+## Personen {#pause-people} anhalten
 
-Manchmal möchten Sie die Leute einfach in einem Interaktions-Programm anhalten und nicht entfernen. Dies geschieht mit der Programm-Kadenz **für Interaktion ändern**.
+Manchmal möchten Sie die Leute einfach in einem Interaktions-Programm anhalten und nicht entfernen. Dies geschieht mit dem Programm **Interaktion ändern - Kadenz**.
 
 >[!MORELIKETHIS]
 >
