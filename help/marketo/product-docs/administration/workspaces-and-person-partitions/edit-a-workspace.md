@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Arbeitsbereich bearbeiten {#edit-a-workspace}
+# Bearbeiten eines Arbeitsbereichs {#edit-a-workspace}
 
 Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfach.
 
@@ -23,13 +23,13 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
 >
 >**Tieftauchen**
 >
->Nutzen Sie Arbeitsbereiche und [Benutzerpartitionen](understanding-workspaces-and-person-partitions.md).
+>Bereiten Sie die Arbeitsbereiche mit [Arbeitsbereiche und Benutzerpartitionen](understanding-workspaces-and-person-partitions.md) auf.
 
 1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
-1. Wählen Sie den zu bearbeitenden Arbeitsbereich aus und klicken Sie auf Arbeitsbereich **bearbeiten**.
+1. Wählen Sie den zu bearbeitenden Arbeitsbereich aus und klicken Sie auf **Arbeitsbereich bearbeiten**.
 
    ![](assets/two-7.png)
 
@@ -40,13 +40,13 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
    >**Erinnerung**
    >
    >
-   >Sie können bei Bedarf weitere Personen-Partitionen [erstellen](create-a-person-partition.md) .
+   >Sie können [weitere Personenpartitionen](create-a-person-partition.md) erstellen, wenn Sie diese benötigen.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >Das Kontrollkästchen **Partitionen** aller Personen** **bedeutet, dass dieser Arbeitsbereich alle Interessentenpartitionen im System verwenden kann.
+   >Das Kontrollkästchen **Partitionen aller Personen**** **bedeutet, dass dieser Arbeitsbereich alle Interessentenpartitionen im System verwenden kann.
 
    >[!NOTE]
    >
