@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn ein Salesforce-spezifischer Flussschritt ausgeführt wird, werden manchmal zusätzliche Schritte automatisch ausgeführt. Hier sind die Regeln, Sie wissen also:
 
-Diese Regeln gelten *dann, wenn die Person derzeit nicht als Kontakt oder Interessent in [Salesforce.com](http://Salesforce.com)* ist.
+Diese Regeln gelten für *wenn sich die Person derzeit nicht unter [Salesforce.com](http://Salesforce.com)* als Kontakt oder Interessent befindet.
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ Diese Regeln gelten *dann, wenn die Person derzeit nicht als Kontakt oder Intere
   </tr> 
   <tr> 
    <td>Status in der SFDC-Kampagne ändern</td> 
-   <td>Person mit<br>SFDCAdd mit SFDC-Kampagne synchronisieren</td> 
+   <td>Person mit SFDC<br>Hinzufügen mit SFDC-Kampagne synchronisieren</td> 
   </tr> 
   <tr> 
    <td>Inhaber ändern</td> 
@@ -48,8 +48,8 @@ Diese Regeln gelten *dann, wenn die Person derzeit nicht als Kontakt oder Intere
  </tbody> 
 </table>
 
-Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **SFDC-Type** -Filters herausfiltern, wobei der Operator auf &quot;ist nicht leer&quot;eingestellt ist. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
+Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des Filters **SFDC-Typ** herausfiltern, wobei der Operator auf &quot;ist nicht leer&quot;gesetzt ist. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
-Beachten Sie, dass diese automatischen Aktionen nur stattfinden, wenn der Interessent derzeit nicht in [Salesforce.com aufgeführt ist.](http://Salesforce.com)
+Beachten Sie, dass diese automatischen Aktionen nur stattfinden, wenn der Interessent derzeit nicht unter [Salesforce.com](http://Salesforce.com)
 
 Die Salesforce-Synchronisierung ist cool, nicht wahr?
