@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Interaktions-Programm aktivieren und deaktivieren {#turn-an-engagement-program-on-and-off}
+# Interaktives Programm ein- und ausschalten {#turn-an-engagement-program-on-and-off}
 
 Sie können ein Interaktions-Programm mit einem Schalter ausschalten. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht es.
 
@@ -27,7 +27,7 @@ Sie können ein Interaktions-Programm mit einem Schalter ausschalten. Dadurch wi
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Klicken Sie mit der Dublette auf **Programm-Status**.
+1. Klicken Sie mit der Dublette auf **Programm Status**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
