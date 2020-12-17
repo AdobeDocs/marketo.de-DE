@@ -19,9 +19,9 @@ Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühunge
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Zusammenfassung der Suchbegriffsbewertung {#keyword-rank-summary}
+## Keyword Rank Summary {#keyword-rank-summary}
 
-Dieser Abschnitt zeigt Ihnen, wie Ihre Site nach den [Suchbegriffen, die Sie ansprechen](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md), eingestuft wird.
+Dieser Abschnitt zeigt Ihnen, wie Ihre Site nach den [Suchbegriffen, die Sie als Ziel auswählen, eingestuft wird.](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,11 +33,11 @@ Dieser Abschnitt zeigt Ihnen, wie Ihre Site nach den [Suchbegriffen, die Sie ans
 
 >[!TIP]
 >
->Sie können auch Ansichten darüber vornehmen, wie eine [bestimmte Liste](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) von Suchbegriffen funktioniert. Klicken Sie auf die Dropdownliste und wählen Sie aus, welches Sie interessieren.
+>Sie können auch die Leistung einer [bestimmten Liste](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) von Suchbegriffen Ansicht haben. Klicken Sie auf die Dropdownliste und wählen Sie aus, welches Sie interessieren.
 
 Zieh dich an! Lass uns fortfahren.
 
-## Durchschnittliche Bewertung der Seitenoptimierung {#average-page-optimization-score}
+## Durchschnittliche Seitenoptimierungsbewertung {#average-page-optimization-score}
 
 Die Bewertung der durchschnittlichen Seitenoptimierung ist ein proprietärer Marktergebnis, der alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst.
 
@@ -49,7 +49,7 @@ Es basiert auf einer Sammlung von Dutzenden bewährten Verfahren. Ein Wert von 7
 >
 >Sie können auch den Optimierungswert für bestimmte Listen von Seiten anzeigen. Verwenden Sie die Dropdownliste und wählen Sie eine, die Sie interessiert.
 
-## Trends bei der Suchbegriffsbewertung {#keyword-rank-trends}
+## Suchbegriff-Rangtrends {#keyword-rank-trends}
 
 Das Suchbegriffsbewertungsdiagramm zieht Ihre Suchbegriffe mit den fünf höchsten monatlichen Suchvolumina und zeigt deren Rangfolge im Laufe der Zeit an.
 
