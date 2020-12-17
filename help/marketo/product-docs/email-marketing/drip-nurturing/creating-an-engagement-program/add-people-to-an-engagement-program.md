@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen von Personen zu einem Interaktions-Programm {#add-people-to-an-engagement-program}
+# hinzufügen Personen zu einem Interaktions-Programm {#add-people-to-an-engagement-program}
 
 Es gibt mehrere Möglichkeiten, wie Menschen Mitglieder eines Interaktionskonzepts werden können:
 
 * [Programm Hinzufügen Interaktion](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Schritt zum Ändern des](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Arbeitsablaufs im Programm
-* [Schritt zum Ändern des Interaktions-Programm-Streams](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
-* [Programm-Status](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) ändern, Flussschritt
+* [Schritt zum Ändern des Interaktions-Programm ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Cadenceflow
+* [Schritt zum Ändern des Interaktions-Programm-](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) Streamflows
+* [Schritt ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) zum Ändern des Status des Programms
 * Wenn eine Person ein Formular lokal in ein Interaktions-Programm ausfüllt
 * Importieren von Mitgliedern in ein Interaktions-Programm (über die Registerkarte &quot;Mitglieder&quot;innerhalb des Programms)
 * Wenn Sie Salesforce als CRM verwenden und eine Salesforce-Kampagne an Ihr Interaktions-Programm gebunden ist, werden Sie durch das Hinzufügen einer Person zur Salesforce-Kampagne auf der CRM-Seite ebenfalls zum Einsatz-Programm.
