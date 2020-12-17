@@ -20,13 +20,13 @@ Als Teil der Predictive-Audiencen Angebot Marketo eine Gruppe von AI/ML-basierte
 
 ## Wahrscheinlichkeit der Teilnahme
 
-Mit diesem Filter können Sie Ihre Audience effektiv eingrenzen. Dies hilft Ihnen bei der Zielgruppe und Einladung von Interessenten, die eine höhere Wahrscheinlichkeit haben, an Ihrem Webinar oder Ereignis **teilzunehmen** . Beachten Sie, dass Ihre &quot;[!UICONTROL Wahrscheinlichkeit, Programm]zu besuchen&quot; Ihr aktuelles Ereignis-Programm sein wird.
+Mit diesem Filter können Sie Ihre Audience effektiv eingrenzen. Dies hilft Ihnen bei der Zielgruppe und Einladung von Interessenten, die eine höhere Wahrscheinlichkeit haben, **an Ihrem Webinar oder Ereignis teilzunehmen.** Beachten Sie, dass Ihre &quot;[!UICONTROL Wahrscheinlichkeit, an Programm] teilzunehmen&quot;Ihr aktuelles Ereignis-Programm ist.
 
 ![Bild zwei](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Wahrscheinlichkeit der Registrierung
 
-Verwenden Sie diesen Filter ähnlich wie die [!UICONTROL _Wahrscheinlichkeit, dass Sie an einem Filter teilnehmen_], um Ihre Audience und Zielgruppe-Interessenten einzuschränken, die eine höhere Wahrscheinlichkeit haben, sich für Ihr Webinar oder Ereignis **zu registrieren** .
+Verwenden Sie diesen Filter ähnlich wie den Filter [!UICONTROL _Wahrscheinlichkeit des Besuchs_], um Ihre Audiencen- und Zielgruppen-Interessenten einzugrenzen, bei denen die Wahrscheinlichkeit einer **Registrierung** für Ihr Webinar oder Ereignis höher ist.
 
 ![Bild drei](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +44,7 @@ Dies Filter die Audience, ob sie in den nächsten zwei Wochen eine hohe oder ger
 
 Diese beiden Filter helfen Ihnen, Ihre aktuelle Audience zu erweitern, indem Sie zusätzliche Interessenten ansprechen, die den Mitgliedern eines anderen Programms oder einer Smart-Liste ähnlich sind. Die Look-Alike-Filter berücksichtigen mehr als 50 Faktoren, darunter Interessentenattribute, E-Mail-Aktivität, Web-Aktivität und Interaktion.
 
-Klicken Sie auf **[!UICONTROL Hinzufügen Einschränkung]** , um die Erfolgskriterien für die Mitglieder des ausgewählten Programms/der ausgewählten  auszuwählen.
+Klicken Sie auf **[!UICONTROL Hinzufügen Beschränkung]**, um die Erfolgskriterien für die Mitglieder des/der ausgewählten Programms/s auszuwählen.
 
 Klicken Sie auf das +-Symbol neben der Dropdown-Liste &quot;Programm&quot;, um einfach mehrere Programm/intelligente Listen zu einem Filter hinzuzufügen.
 
