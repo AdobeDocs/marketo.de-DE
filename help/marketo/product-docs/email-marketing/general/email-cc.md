@@ -15,7 +15,7 @@ ht-degree: 0%
 
 E-Mail CC ermöglicht den Versand spezifizierter E-Mails über Marketo mit CC-Empfängern.
 
-Diese Funktion ist für alle Marketing-E-Mail-Assets verfügbar, unabhängig davon, wie die E-Mail gesendet wird (Batch- oder Trigger-Kampagne). Der CC-Empfänger erhält eine genaue Kopie der E-Mail, die an den ausgewählten Marker gesendet wird. Als solche werden alle Interaktionsaktionen (Aktivitäten werden geöffnet, Klicks usw.) wird in der Zeile &quot;An&quot;der E-Mail beim Aktivitäten-Protokoll des &quot;Marketo-Benutzers&quot;protokolliert. Versand-Aktivität (gesendet, ausgeliefert, Absprung usw.) *andere als &quot;Soft Bounce&quot;* werden sich **nicht** registrieren, da Marketo nicht in der Lage ist, die Ereignis des Versands für den Marketo-Empfänger von den CC- zu unterscheiden. Marketo wird nur CC bis zu 100.000 Personen auf einmal. Wenn Ihre intelligente Liste 100k übersteigt und es für jeden erforderlich ist, CC&#39;d zu erhalten, empfehlen wir, Ihre Liste aufzubrechen.
+Diese Funktion ist für alle Marketing-E-Mail-Assets verfügbar, unabhängig davon, wie die E-Mail gesendet wird (Batch- oder Trigger-Kampagne). Der CC-Empfänger erhält eine genaue Kopie der E-Mail, die an den ausgewählten Marker gesendet wird. Als solche werden alle Interaktionsaktionen (Aktivitäten werden geöffnet, Klicks usw.) wird in der Zeile &quot;An&quot;der E-Mail beim Aktivitäten-Protokoll des &quot;Marketo-Benutzers&quot;protokolliert. Versand-Aktivität (gesendet, ausgeliefert, Absprung usw.) *andere als &quot;Soft Bounce&quot;* werden  **** nicht registriert, da Marketo nicht in der Lage ist, die Ereignis des Versands für den Marketo-Benutzer von den CC-Empfängern zu unterscheiden. Marketo wird nur CC bis zu 100.000 Personen auf einmal. Wenn Ihre intelligente Liste 100k übersteigt und es für jeden erforderlich ist, CC&#39;d zu erhalten, empfehlen wir, Ihre Liste aufzubrechen.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Diese Funktion ist für alle Marketing-E-Mail-Assets verfügbar, unabhängig dav
 
 ## Einrichten von E-Mail CC {#set-up-email-cc}
 
-1. Klicken Sie in My Marketo auf **Admin**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Admin**.
 
    ![](assets/one.png)
 
@@ -31,17 +31,17 @@ Diese Funktion ist für alle Marketing-E-Mail-Assets verfügbar, unabhängig dav
 
    ![](assets/two.png)
 
-1. Klicken Sie auf E-Mail-CC-Einstellungen **bearbeiten**.
+1. Klicken Sie auf **E-Mail-CC-Einstellungen bearbeiten**.
 
    ![](assets/three.png)
 
-1. Wählen Sie bis zu 25 Marketing Lead- oder Firma-Felder (vom Typ &quot;E-Mail&quot;) aus, um sie als CC-Adressen in E-Mails zur Verfügung zu stellen. Klicken Sie abschließend auf **Speichern** .
+1. Wählen Sie bis zu 25 Marketing Lead- oder Firma-Felder (vom Typ &quot;E-Mail&quot;) aus, um sie als CC-Adressen in E-Mails zur Verfügung zu stellen. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/four.png)
 
 ## Verwenden von Email CC {#using-email-cc}
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/five.png)
 
@@ -49,7 +49,7 @@ Diese Funktion ist für alle Marketing-E-Mail-Assets verfügbar, unabhängig dav
 
    ![](assets/six.png)
 
-1. Wählen Sie bis zu fünf Felder aus, die Sie für CC-Benutzer verwenden möchten. In diesem Beispiel wollen wir nur den Interessentenbesitzer CC&#39;d. Klicken Sie abschließend auf **Speichern** .
+1. Wählen Sie bis zu fünf Felder aus, die Sie für CC-Benutzer verwenden möchten. In diesem Beispiel wollen wir nur den Interessentenbesitzer CC&#39;d. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/seven.png)
 
@@ -62,7 +62,7 @@ Diese Funktion ist für alle Marketing-E-Mail-Assets verfügbar, unabhängig dav
 
    Zur schnellen Identifizierung zeigt die Ansicht &quot;E-Mail-Zusammenfassung&quot;an, ob/welche E-Mail-CC-Felder ausgewählt wurden.  ![](assets/eight.png)
 
-   Wenn die E-Mail genehmigt wurde, der Marketing-Administrator jedoch eines oder mehrere CC-Felder deaktiviert, bevor die E-Mail gesendet wird, erhalten **diese Personen keine E-Mail**. In diesem Fall werden in der Ansicht &quot;E-Mail-Zusammenfassung&quot;alle Felder ausgegraut, die nach der Genehmigung deaktiviert, aber vorab gesendet wurden:
+   Wenn die E-Mail genehmigt wurde, der Marketing-Administrator jedoch eines oder mehrere CC-Felder deaktiviert, bevor die E-Mail gesendet wird, **erhalten diese Personen keine E-Mail**. In diesem Fall werden in der Ansicht &quot;E-Mail-Zusammenfassung&quot;alle Felder ausgegraut, die nach der Genehmigung deaktiviert, aber vorab gesendet wurden:
 
    ![](assets/removal.png)
 
@@ -76,9 +76,9 @@ Diese Funktion ist für alle Marketing-E-Mail-Assets verfügbar, unabhängig dav
 
 >[!TIP]
 >
->Sie haben die Möglichkeit, einige oder alle Verfolgungslinks [in einer E-Mail zu](http://docs.marketo.com/x/IwAd) deaktivieren.
+>Sie haben die Möglichkeit, [einige oder alle Verfolgungslinks](http://docs.marketo.com/x/IwAd) in einer E-Mail zu deaktivieren.
 
 * Nachdem eine E-Mail-Kampagne ausgeführt wurde, enthält die Aktivität &quot;E-Mail senden&quot;eine Liste aller CC-Adressen, die für jeden Empfänger des Mailings enthalten waren. Wenn CC-Adressen aufgrund des Abmeldung übersprungen wurden, wird dies auch in der Aktivität vermerkt.
 * Abmelden von Links und Seiten funktionieren normalerweise in CC-E-Mails. Dies ermöglicht es CC-Empfängern, sich erfolgreich abzumelden, wenn sie es wünschen (Einhaltung der Anti-Spam-Vorschriften), und ein Datensatz dieser Aktion wird in der Marketo-Datenbank gespeichert.
-* Personen, die in Ihrer Marketo-Datenbank als nicht abonniert aufgeführt sind, erhalten per CC **keine** E-Mails.
+* Personen, die in Ihrer Marketo-Datenbank als nicht abonniert aufgeführt sind, erhalten E-Mails über CC.****
 
