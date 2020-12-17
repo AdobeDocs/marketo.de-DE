@@ -21,9 +21,9 @@ Mit Marketo können Sie den Wert eines Felds aktualisieren. Dazu verwenden Sie d
 
 >[!NOTE]
 >
->Sie können auch verhindern, dass ein Feld aktualisiert wird. Weitere Informationen finden Sie unter [Blockieren von Aktualisierungen für ein Feld](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) .
+>Sie können auch verhindern, dass ein Feld aktualisiert wird. Weitere Informationen finden Sie unter [Blockaktualisierungen für ein Feld](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Suchen und wählen Sie das Feld aus, dessen Wert Sie ändern möchten.
 
@@ -42,7 +42,7 @@ Mit Marketo können Sie den Wert eines Felds aktualisieren. Dazu verwenden Sie d
 
    >[!TIP]
    >
-   >Sie können &quot;NULL&quot;(keine Anführungszeichen, Großbuchstaben) in **Neuer Wert** eingeben, um das Feld zu löschen. Weitere Informationen finden Sie unter Feldwerte [löschen](change-data-value/clear-field-values.md) .
+   >Sie können unter **Neuer Wert** den Wert &#39;NULL&#39; (keine Anführungszeichen, Großbuchstaben) eingeben, um das Feld zu löschen. Weitere Informationen finden Sie unter [Feldwerte löschen](change-data-value/clear-field-values.md).
 
    >[!NOTE]
    >
