@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Benutzerspezifische Objektdaten importieren {#import-custom-object-data}
 
-Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importieren. Wenn Sie benutzerdefinierte Objekte mit Firmen verwenden, finden Sie weitere Informationen unter [Verwenden von benutzerdefinierten Objekten mit Firmen](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies) .
+Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importieren. Wenn Sie benutzerdefinierte Objekte mit Firmen verwenden, finden Sie weitere Informationen unter [Verwenden von benutzerdefinierten Objekten mit Firmen](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies).
 
-1. Wechseln Sie in My Marketo zur **Datenbank**.
+1. Wechseln Sie in &quot;My Marketo&quot;zu **Database**.
 
    ![](assets/db-1.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie Benutzerspezifische Objektdaten **importieren**.
+1. Klicken Sie auf **Neu** und wählen Sie **Benutzerspezifische Objektdaten importieren**.
 
    ![](assets/image2016-4-7-10-6-54.png)
 
-1. Klicken Sie auf **Durchsuchen** , um die Datendatei zu suchen. Wählen Sie das Dateiformat aus (in diesem Beispiel durch Kommas getrennte Werte).
+1. Klicken Sie auf **Durchsuchen**, um die Datendatei zu suchen. Wählen Sie das Dateiformat aus (in diesem Beispiel durch Kommas getrennte Werte).
 
    ![](assets/image2016-4-13-14-3a21-3a53.png)
 
@@ -37,7 +37,7 @@ Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importie
 
    >[!NOTE]
    >
-   >Verwenden Sie Deduplizierungsfelder als eindeutige Bezeichner, wenn Sie benutzerdefinierte Objektdatensätze erstellen oder aktualisieren. In diesem Beispiel wird das Deduplizierungsfeld des benutzerdefinierten Objekts &quot; **car** &quot;verwendet - vin (Fahrzeug-ID-Nummer). Wenn Sie nur benutzerdefinierte Objektdatensätze aktualisieren, können Sie als Deduplizierungsmodus die Marker-Hilfslinie auswählen.
+   >Verwenden Sie Deduplizierungsfelder als eindeutige Bezeichner, wenn Sie benutzerdefinierte Objektdatensätze erstellen oder aktualisieren. In diesem Beispiel wird das Deduplizierungsfeld des benutzerdefinierten Objekts **car** - vin (Fahrzeug-ID-Nummer) verwendet. Wenn Sie nur benutzerdefinierte Objektdatensätze aktualisieren, können Sie als Deduplizierungsmodus die Marker-Hilfslinie auswählen.
 
 1. Ordnen Sie jede Spalte einem Marker-Feld zu und wählen Sie es aus der Dropdownliste aus.
 
@@ -51,7 +51,7 @@ Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importie
 
    ![](assets/image2016-4-13-14-3a38-3a41.png)
 
-1. Klicken Sie auf **Importieren**.
+1. Klicken Sie auf **Import**.
 
    ![](assets/image2016-4-7-13-3a15-3a9.png)
 
@@ -61,7 +61,7 @@ Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importie
 
    >[!TIP]
    >
-   >Geben Sie Ihre E-Mail-Adresse in die Warnung **senden an ein:** field und Marketo werden Sie per E-Mail benachrichtigen, wenn Ihr Import abgeschlossen ist!
+   >Geben Sie Ihre E-Mail-Adresse in das Feld **Warnung senden an:** ein, und Marketo wird Ihnen eine E-Mail senden, wenn Ihr Import abgeschlossen ist!
 
 1. In der oberen rechten Ecke des Bildschirms sehen Sie eine Benachrichtigung, während der Import ausgeführt wird, und die Endergebnisse, sobald der Import abgeschlossen ist.
 
