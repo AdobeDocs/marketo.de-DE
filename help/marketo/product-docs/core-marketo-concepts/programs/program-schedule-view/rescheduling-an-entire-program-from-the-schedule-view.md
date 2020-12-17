@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Umplanen eines gesamten Programms aus der Ansicht &quot;Plan&quot; {#rescheduling-an-entire-program-from-the-schedule-view}
+# Umplanen eines gesamten Programms aus der Ansicht Plan {#rescheduling-an-entire-program-from-the-schedule-view}
 
 Wenn Sie ein Programm oder Ereignis mit Daten klonen, sollten Sie alle Daten auf einmal neu planen. So geht es.
 
