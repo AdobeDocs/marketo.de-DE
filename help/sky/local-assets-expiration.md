@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Legen Sie ein Ablaufdatum bzw. eine Ablaufzeit fest, um die Veröffentlichung von Landingpages rückgängig zu machen, die Kampagnen zu deaktivieren oder die wiederholten Batch-Kampagnen zu beenden. Diese Funktion finden Sie im Abschnitt **[!UICONTROL Ablauf]** unter der Registerkarte **[!UICONTROL Assets]** .
+Legen Sie ein Ablaufdatum bzw. eine Ablaufzeit fest, um die Veröffentlichung von Landingpages rückgängig zu machen, die Kampagnen zu deaktivieren oder die wiederholten Batch-Kampagnen zu beenden. Diese Funktion finden Sie im Abschnitt **[!UICONTROL Ablauf]** unter der Registerkarte **[!UICONTROL Assets]**.
 
 ![Bild eins](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## Ablaufdatum festlegen
 
-1. Markieren Sie die Assets, für die Sie ein Ablaufdatum festlegen möchten, und klicken Sie dann auf Ablauf **[!UICONTROL festlegen]**.
+1. Markieren Sie die Assets, für die Sie ein Ablaufdatum festlegen möchten, und klicken Sie dann auf **[!UICONTROL Ablauf festlegen]**.
 
    ![Bild zwei](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ Legen Sie ein Ablaufdatum bzw. eine Ablaufzeit fest, um die Veröffentlichung vo
 
    ![Bild drei](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. Überprüfen Sie die betroffenen Assets und klicken Sie auf **[!UICONTROL Bestätigen]**.
+1. Überprüfen Sie die betroffenen Assets und klicken Sie dann auf **[!UICONTROL Bestätigen]**.
 
    ![Bild vier](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->Um ein vorhandenes Ablaufdatum zu bearbeiten, markieren Sie einfach das Asset/die Assets und klicken Sie auf **[!UICONTROL Ablauf]** festlegen.
+>Um ein vorhandenes Ablaufdatum zu bearbeiten, markieren Sie einfach die Assets und klicken Sie auf **[!UICONTROL Ablauf einstellen]**.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Legen Sie ein Ablaufdatum bzw. eine Ablaufzeit fest, um die Veröffentlichung vo
 
 ## Ablaufdatum entfernen
 
-1. Um ein Ablaufdatum zu entfernen, markieren Sie die Asset(s) und klicken Sie auf &quot;Ablauf **[!UICONTROL entfernen&quot;]**.
+1. Um ein Ablaufdatum zu entfernen, markieren Sie die Asset(s) und klicken Sie auf **[!UICONTROL Ablauf entfernen]**.
 
    ![Bild fünf](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. Überprüfen Sie die betroffenen Assets und klicken Sie auf **[!UICONTROL Bestätigen]**.
+1. Überprüfen Sie die betroffenen Assets und klicken Sie dann auf **[!UICONTROL Bestätigen]**.
 
    ![Bild sechs](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
