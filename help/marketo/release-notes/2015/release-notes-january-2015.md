@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu finden Links zu detaillierten Artikeln für jede Funktion!
 
-## Aktualisierungen der Marketingautomatisierung {#marketing-automation-updates}
+## Aktualisierungen der Marketing-Automatisierung {#marketing-automation-updates}
 
 **Neue Fotos von Rick DeCosta!**
 
-Rick ist ein Marketo-Kunde von SmartBear und hat eine [unglaubliche Fotosammlung](https://www.flickr.com/photos/rickdecosta). Schau sie doch mal an!
+Rick ist ein Marketo-Kunde von SmartBear und hat eine [unglaubliche Sammlung von Fotos](https://www.flickr.com/photos/rickdecosta). Schau sie doch mal an!
 
-## Mobil-freundliche Landingpages {#mobile-friendly-landing-pages}
+## Mobil freundliche Landingpages {#mobile-friendly-landing-pages}
 
-Sie können jetzt im Landingpages-Editor mobile Ansichten für Landingpages [](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) erstellen. Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und erhöhen Sie die Interaktion, indem Sie Ihre Inhalte für eine einfache Nutzung unterwegs anpassen. Diese Funktion wird schrittweise in der Woche nach der Veröffentlichung eingeführt.
+Sie können jetzt [Mobilgeräte-Ansichten für Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) aus dem Landingpages-Editor erstellen. Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und erhöhen Sie die Interaktion, indem Sie Ihre Inhalte für eine einfache Nutzung unterwegs anpassen. Diese Funktion wird schrittweise in der Woche nach der Veröffentlichung eingeführt.
 
 `<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
 
@@ -35,7 +35,7 @@ Drei neue Aufrufe für die Lead &amp; Aktivität ReST-API:
 * Interessenten nach Programm-ID abrufen
 * Gelöschte Interessenten abrufen
 
-Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Interessentenänderung asynchron für einen schnelleren API-Aufruf zu schreiben. Ausführliche Informationen sind nach der Veröffentlichung unter [developer.marketo.com verfügbar.](http://developers.marketo.com)
+Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Interessentenänderung asynchron für einen schnelleren API-Aufruf zu schreiben. Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](http://developers.marketo.com) verfügbar.
 
 **E-Mail-Skriptunterstützung für benutzerdefinierte Objekte**
 
@@ -45,7 +45,7 @@ Greifen Sie nun über E-Mail-Skripte auf benutzerdefinierte Objekte zu, die mit 
 
 **Personalisierte Remarketing für Google und Facebook**
 
-Remarketing zeigt Anzeigen für Personen, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt auf [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) mit Daten aus der Echtzeit-Personalisierung personalisieren. Erfahren Sie mehr zu Audiencen aus verschiedenen Branchen, namentlich Kontoangaben, Listen der Firma oder Daten bekannter Interessenten.
+Remarketing zeigt Anzeigen für Personen, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt auf [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) mithilfe von Daten aus der Echtzeit-Personalisierung personalisieren. Erfahren Sie mehr zu Audiencen aus verschiedenen Branchen, namentlich Kontoangaben, Listen der Firma oder Daten bekannter Interessenten.
 
 [Modul zur Liste benannter Konten](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -59,13 +59,13 @@ Verbesserungen am Modul Benannte Konten verbessern die Übereinstimmungsraten un
 
 Aktualisierte RTP-Tag-Optionen
 
-[Die RTP-Tag](http://docs.marketo.com/display/docs/rtp+tag+implementation) -Optionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und umfassen Folgendes:
+[Die RTP-](http://docs.marketo.com/display/docs/rtp+tag+implementation) Tagoptionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und umfassen Folgendes:
 
 1. CDN und Asynchron (Recommended-Tag)
 1. CDN und synchron (hohe Geschwindigkeit)
 1. Asynchrones Tag ohne CDN
 1. Synchrones Tag ohne CDN
 
-Um eine optimale Leistung zu erzielen, wird empfohlen, das Tag nach der `<head>`Erstellung an der Spitze der Kopfzeile Ihrer Webseite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-API](http://developers.marketo.com/documentation/websites/rtp-js-api/). Informationen zur Bereitstellung des RTP-Tags finden Sie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Für eine optimale Leistung wird empfohlen, das Tag nach `<head>` oben in der Kopfzeile Ihrer Webseite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-API](http://developers.marketo.com/documentation/websites/rtp-js-api/). Informationen zum Bereitstellen des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
