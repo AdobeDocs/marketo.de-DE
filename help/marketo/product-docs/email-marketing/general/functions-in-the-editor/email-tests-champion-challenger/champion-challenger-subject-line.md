@@ -23,15 +23,15 @@ Sie können ganz einfach mehrere Betreffzeilen testen. Wenn der Test beendet ist
 
 
 
-1. Wählen Sie im E-Mail-Testeditor in der Dropdownliste **Testtyp **die Option **Betreffzeile** .
+1. Wählen Sie im E-Mail-Testeditor **Betreff-Zeile** in der Dropdownliste **Testtyp **aus.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Bei einem Test wird die erste angegebene Betreffzeile als **Champion** bezeichnet. Nachfolgende Betreffzeilen werden als **Herausforderungen** bezeichnet.
+   >Bei einem Betreff-Test wird die erste eingegebene Betreffzeile als **Champion** bezeichnet. Nachfolgende Betreffzeilen werden als **Herausforderungen** bezeichnet.
 
-1. Betreffzeile(n) für die **Herausforderungen** eingeben.
+1. Betreffzeile(n) für **Herausforderungen** eingeben.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -50,7 +50,7 @@ Sie können ganz einfach mehrere Betreffzeilen testen. Wenn der Test beendet ist
    >
    >In der oben gezeigten Distribution erhalten 10% der in der Smart-Liste angegebenen Audience eine der E-Mails mit der Betreffzeile des herausfordernden Benutzers und 90% erhalten E-Mails mit der Betreffzeile des Meisters. E-Mails mit mehreren herausfordernden Betreff-Zeilen haben die gleichen 10%. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.  [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval)als je zuvor.
+   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.  [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
 
 1. Klicken Sie auf **Weiter**.
 
