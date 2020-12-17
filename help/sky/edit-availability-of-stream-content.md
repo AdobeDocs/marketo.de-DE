@@ -20,7 +20,7 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
 
    ![Bild eins](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,11 +28,11 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
 
    ![Bild drei](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. Wählen Sie Verfügbarkeit **[!UICONTROL bearbeiten]**.
+1. Wählen Sie **[!UICONTROL Verfügbarkeit bearbeiten]**.
 
    ![Bild vier](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Wählen Sie Ihre [!UICONTROL Aktiv ab] Datum und [!UICONTROL Aktiv bis] Datum aus.
+1. Wählen Sie die Datumsangaben [!UICONTROL Aktiv ab] und [!UICONTROL Aktiv bis] aus.
 
    ![Bild fünf](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
@@ -42,7 +42,7 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
 
 >[!TIP]
 >
->Sie können [!UICONTROL Active Through] leer lassen, um Inhalte für immer verfügbar zu machen.
+>Sie können [!UICONTROL Aktiv bis] leer lassen, um Inhalte für immer verfügbar zu machen.
 
 Perfekt! Neben dem geplanten Inhalt wird ein Uhrensymbol angezeigt. Es wird gemäß dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
 
