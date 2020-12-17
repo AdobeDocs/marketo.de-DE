@@ -21,18 +21,18 @@ Erfahren Sie, wie Sie Ihren BrightTALK-Kanal mit Ihrer Marketo-Instanz verbinden
 
 ## Schritte in BrightTALK {#steps-in-brighttalk}
 
-1. Melden Sie sich bei [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) an und klicken Sie auf Jetzt **verbinden**.
-1. Klicken Sie unter &quot;Erweiterter Marketing-Connector&quot;auf **Verbinden**.
+1. Melden Sie sich bei [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) an und klicken Sie auf **Jetzt verbinden**.
+1. Klicken Sie unter &quot;Erweiterter Marketing-Connector&quot;auf **Connect**.
 1. Sie gelangen zum Anmeldebildschirm, in dem Sie nach Folgendem gefragt werden: Client-ID, geheimer Clientschlüssel, Identitätsdienst-URL und REST-Dienst-URL. Um diese Informationen zu erhalten, melden Sie sich bei Marketo an.
 
-## Schritte in Marketing {#steps-in-marketo}
+## Schritte in Marketo {#steps-in-marketo}
 
 >[!NOTE]
 >
 >An dieser Stelle müssen Sie eine Nur-Benutzer-API-Rolle und einen API-Benutzer einrichten, um die Berechtigungen von BrightTALK in Ihrer Marketo-Instanz einzuschränken. Da wir bereits Artikel für diese Schritte haben, werden wir Sie mit ihnen verknüpfen.
 
-1. Erstellen Sie eine [Nur-API-Benutzerrolle](http://docs.marketo.com/x/iwMk).
-1. [Erstellen Sie einen API-Benutzer](http://docs.marketo.com/x/jwMk)mit der BrightTALK API-Rolle, die Sie in Schritt 4 erstellt haben.
+1. Erstellen Sie eine Benutzerrolle [Nur API](http://docs.marketo.com/x/iwMk).
+1. [Erstellen Sie einen API-Benutzer](http://docs.marketo.com/x/jwMk) mit der BrightTALK API-Rolle, die Sie in Schritt 4 erstellt haben.
 1. Gehen Sie zurück zum Admin-Bereich.
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ Erfahren Sie, wie Sie Ihren BrightTALK-Kanal mit Ihrer Marketo-Instanz verbinden
 
    ![](assets/three.png)
 
-1. Geben Sie einen Anzeigenamen Ihrer Wahl ein. Klicken Sie auf die Dropdown-Liste Dienst und wählen Sie **Benutzerdefiniert** ( **nicht** wählen Sie BrightTALK).
+1. Geben Sie einen Anzeigenamen Ihrer Wahl ein. Klicken Sie auf die Dropdown-Liste Dienst und wählen Sie **Benutzerdefiniert** (do **not** select BrightTALK).
 
    ![](assets/four.png)
 
@@ -57,19 +57,19 @@ Erfahren Sie, wie Sie Ihren BrightTALK-Kanal mit Ihrer Marketo-Instanz verbinden
 
    ![](assets/five.png)
 
-1. Klicken Sie für den soeben erstellten benutzerdefinierten Dienst auf **Ansicht Details** .
+1. Klicken Sie für den soeben erstellten benutzerdefinierten Dienst auf **Ansicht Details**.
 
    ![](assets/six.png)
 
-1. Kopieren (und speichern) Sie die **Client-ID** und den geheimen **Clientschlüssel**. Klicken Sie auf **Schließen**.
+1. Kopieren (und speichern) Sie die **Client-ID** und **geheimer Clientschlüssel**. Klicken Sie auf **Schließen**.
 
    ![](assets/eight-1.png)
 
-1. Wählen Sie unter &quot;Integration&quot;die Option **Web-Services**.
+1. Wählen Sie unter Integration **Web-Services**.
 
    ![](assets/nine-1.png)
 
-1. Kopieren (und speichern) Sie unter &quot;Rest-API&quot;den **Endpunkt** und die **Identität**.
+1. Kopieren (und speichern) Sie unter &quot;Rest-API&quot;den **Endpunkt** und **Identität**.
 
    ![](assets/ten.png)
 
@@ -77,5 +77,5 @@ Erfahren Sie, wie Sie Ihren BrightTALK-Kanal mit Ihrer Marketo-Instanz verbinden
 
 1. Kehren Sie in Schritt 3 zum Setup-Bildschirm für den BrightTALK Connector zurück und geben Sie die Anmeldeinformationen ein, die Sie in den Schritten 12 und 14 gespeichert haben.
 
-   Nachdem die Anmeldeinformationen authentifiziert wurden, haben Sie BrightTALK offiziell mit Marketo verbunden. Der nächste Schritt besteht darin, [welche Datenfelder synchronisiert](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)werden sollen.
+   Nachdem die Anmeldeinformationen authentifiziert wurden, haben Sie BrightTALK offiziell mit Marketo verbunden. Der nächste Schritt besteht darin, [zu bestimmen, welche Datenfelder synchronisiert werden sollen.](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
 
