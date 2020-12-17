@@ -25,7 +25,7 @@ Filtern Sie die Ergebnisse der intelligenten Kampagne, um bestimmte Aktivitäten
 
 ## Nach gespeicherten Filtern filtern {#filter-by-saved-filters}
 
-1. Klicken Sie auf der Registerkarte **Ergebnisse** der intelligenten Kampagne auf **Filter** und wählen Sie einen gespeicherten Filter aus.
+1. Klicken Sie in der Registerkarte &quot;Smart-Kampagne **Ergebnisse**&quot;auf **Filter** und wählen Sie einen gespeicherten Filter aus.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -35,17 +35,17 @@ Filtern Sie die Ergebnisse der intelligenten Kampagne, um bestimmte Aktivitäten
 
 ## Erstellen eines benutzerspezifischen Filters {#create-a-custom-filter}
 
-1. Klicken Sie auf **Filter** und dann auf **Benutzerdefiniert**.
+1. Klicken Sie auf **Filter** und dann **Benutzerdefiniert**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Wählen Sie die gewünschten Aktivitäten aus und klicken Sie auf **Speichern unter** .
+1. Wählen Sie die gewünschten Aktivitäten aus und klicken Sie dann auf **Speichern unter** .
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >Klicken Sie auf **Übernehmen** , um einen benutzerspezifischen Filter direkt auf Ihre Ergebnisse anzuwenden, ohne ihn zu speichern.
+   >Klicken Sie auf **Anwenden**, um einen benutzerspezifischen Filter direkt auf Ihre Ergebnisse anzuwenden, ohne ihn zu speichern.
 
 1. Geben Sie einen Filternamen ein und klicken Sie auf **Speichern**.
 
