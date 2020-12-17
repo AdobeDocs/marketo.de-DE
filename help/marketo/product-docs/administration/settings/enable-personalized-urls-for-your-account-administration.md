@@ -27,11 +27,11 @@ Personalisierte URLs eignen sich hervorragend für Kampagnen von Drucksendungen.
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. Markieren Sie das Feld **Personalisierte URLs** aktivieren und klicken Sie auf **S****ave**.
+1. Markieren Sie das Feld **Personalisierte URLs aktivieren** und klicken Sie auf **S***ave**.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-Gute Arbeit! Nachdem Sie die PURLs für Ihr Konto aktiviert haben, können Sie sie für einzelne Landingpages [](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)aktivieren.
+Gute Arbeit! Nachdem Sie die PURLs für Ihr Konto aktiviert haben, können Sie sie für einzelne Landingpages [aktivieren.](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 >[!NOTE]
 >
