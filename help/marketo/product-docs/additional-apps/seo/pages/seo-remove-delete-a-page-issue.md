@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nicht alle Seitenprobleme können für Sie nützlich sein. So entfernen Sie eine:
 
-1. Gehen Sie zum Abschnitt **Seiten** .
+1. Gehen Sie zum Abschnitt **Seiten**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
@@ -23,7 +23,7 @@ Nicht alle Seitenprobleme können für Sie nützlich sein. So entfernen Sie eine
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **ENTFERNEN**.
+1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **REMOVE**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
