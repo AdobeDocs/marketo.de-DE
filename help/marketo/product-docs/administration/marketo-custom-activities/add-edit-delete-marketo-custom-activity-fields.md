@@ -17,7 +17,7 @@ Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinz
 
 ## hinzufügen eines Felds für eine benutzerdefinierte Aktivität {#add-a-custom-activity-field}
 
-1. Klicken Sie in den Aktivitäten Markieren Sie auf **Felder**.
+1. Klicken Sie in &quot;Markieren zu benutzerdefinierten Aktivitäten&quot;auf **Felder**.
 
    ![](assets/one-3.png)
 
@@ -35,17 +35,17 @@ Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinz
 
    >[!TIP]
    >
-   >Nicht sicher, was Sie auswählen sollen? Wir haben dich abgedeckt! Alle verfügbaren Datentypen werden in [diesem Artikel](../../../product-docs/administration/field-management/custom-field-type-glossary.md)definiert.
+   >Nicht sicher, was Sie auswählen sollen? Wir haben dich abgedeckt! Alle verfügbaren Datentypen sind in [diesem Artikel](../../../product-docs/administration/field-management/custom-field-type-glossary.md) definiert.
 
-1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **Speichern**.
+1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/five-3.png)
 
    Das ist&#39;s! Ihr neues Feld wurde hinzugefügt.
 
-## Bearbeiten eines Felds für eine benutzerdefinierte Aktivität {#edit-a-custom-activity-field}
+## Benutzerdefiniertes Feld für Aktivitäten bearbeiten {#edit-a-custom-activity-field}
 
-1. Klicken Sie in den Aktivitäten Markieren Sie auf **Felder**.
+1. Klicken Sie in &quot;Markieren zu benutzerdefinierten Aktivitäten&quot;auf **Felder**.
 
    ![](assets/one-3.png)
 
@@ -53,7 +53,7 @@ Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinz
 
    ![](assets/seven.png)
 
-1. Wählen Sie das zu bearbeitende Feld aus, klicken Sie auf die Dropdownliste **Feldaktionen** und wählen Sie Feld **bearbeiten**.
+1. Wählen Sie das zu bearbeitende Feld aus, klicken Sie auf die Dropdownliste **Feldaktionen** und wählen Sie **Feld bearbeiten**.
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinz
 
    ![](assets/nine.png)
 
-1. Geben Sie den neuen Namen und den API-Namen ein und klicken Sie auf **Speichern**.
+1. Geben Sie den neuen Namen und den API-Namen ein und klicken Sie dann auf **Speichern**.
 
    ![](assets/ten.png)
 
@@ -79,9 +79,9 @@ Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinz
 
 Ihr Feld ist jetzt bearbeitet!
 
-## Feld für eine benutzerdefinierte Aktivität löschen {#delete-a-custom-activity-field}
+## Löschen eines Felds für eine benutzerdefinierte Aktivität {#delete-a-custom-activity-field}
 
-1. Klicken Sie in den Aktivitäten Markieren Sie auf **Felder**.
+1. Klicken Sie in &quot;Markieren zu benutzerdefinierten Aktivitäten&quot;auf **Felder**.
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ Ihr Feld ist jetzt bearbeitet!
 
    ![](assets/twelve.png)
 
-1. Wählen Sie das zu löschende Feld aus, klicken Sie auf die Dropdown-Liste &quot; **Feldaktionen** &quot;und wählen Sie &quot;Feld **löschen&quot;**.
+1. Wählen Sie das zu löschende Feld aus, klicken Sie auf die Dropdownliste **Feldaktionen** und wählen Sie **Feld löschen**.
 
    ![](assets/thirteen.png)
 
