@@ -24,8 +24,8 @@ Viel Ereignis!
 
 Vor dem Ereignis:
 
-* [Neue Marketing-Rolle](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) für iPad- oder Android-Benutzer für das Ereignis erstellen
-* [Laden Sie neue Tablet-Benutzer zum Ereignis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ein und weisen Sie ihnen die neue Rolle zu
+* [Neue Marketing-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Rolle für iPad- oder Android-Benutzer für das Ereignis erstellen
+* [Laden Sie neue Tablet-Benutzer zur ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Veranstaltung ein und weisen Sie ihnen die neue Rolle zu.
 * [Neues Marketing-Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * Ereignis angeben
 * hinzufügen Menschen in Ihr Ereignis
@@ -45,5 +45,5 @@ Im Ereignis:
 
 * Bei der App anmelden
 * Gäste suchen (und neue Personen erstellen)
-* [Gäste](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) einchecken (Check-ins rückgängig machen, Personendaten beim Check-in bearbeiten)
+* [Gäste](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)  einchecken (Check-ins rückgängig machen, Personendaten beim Check-in bearbeiten)
 * Synchronisieren Sie die iPad- oder Android Tablet-App mit Marketo
