@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Personas sind eine großartige Möglichkeit, Ihre ABM-Audience und Ihren Markt auf eine bestimmte Gruppe von Personen zu segmentieren.
 
-## hinzufügen {#add-a-persona}
+## hinzufügen einer Person {#add-a-persona}
 
-1. Klicken Sie in My Marketo auf **Admin**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Admin**.
 
    ![](assets/one.png)
 
@@ -37,7 +37,7 @@ Personas sind eine großartige Möglichkeit, Ihre ABM-Audience und Ihren Markt a
 
    ![](assets/four.png)
 
-1. Benennen Sie Ihre Person und wählen Sie das entsprechende Feld in der Dropdownliste aus. Sie können bis zu zwei weitere Personen hinzufügen. Klicken Sie abschließend auf **Speichern** .
+1. Benennen Sie Ihre Person und wählen Sie das entsprechende Feld in der Dropdownliste aus. Sie können bis zu zwei weitere Personen hinzufügen. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/five.png)
 
@@ -45,7 +45,7 @@ Personas sind eine großartige Möglichkeit, Ihre ABM-Audience und Ihren Markt a
    >
    >Nur Salesforce-benutzerdefinierte Felder des Typs &quot;picklist&quot;, die mit Ihrer Marketo-Instanz synchronisiert wurden, stehen beim Erstellen einer Persona in der Dropdown-Liste &quot;persona&quot; zur Verfügung.
 
-## Ansicht Ihrer Persönlichkeiten {#view-your-personas}
+## Ansicht Ihrer Personen {#view-your-personas}
 
 Ansicht Ihrer Personalien durch Besuch eines bestimmten benannten Kontos.
 
@@ -53,7 +53,7 @@ Ansicht Ihrer Personalien durch Besuch eines bestimmten benannten Kontos.
 
    ![](assets/one-a.png)
 
-1. Klicken Sie auf die Registerkarte **Personas** .
+1. Klicken Sie auf die Registerkarte **Personas**.
 
    ![](assets/two-a.png)
 
@@ -65,7 +65,7 @@ Ansicht Ihrer Personalien durch Besuch eines bestimmten benannten Kontos.
    >
    >Das X im Titel Persona dient als Platzhalterzeichen. &quot;CXO&quot;umfasst beispielsweise CEOs, CFOs usw.
 
-## Persönliche Filter {#persona-filters}
+## Persona-Filter {#persona-filters}
 
 1. Verwenden Sie persönliche Filter in einer intelligenten Liste, um eine bestimmte Personengruppe zu vermarkten.
 
