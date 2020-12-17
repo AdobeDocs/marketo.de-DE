@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Klonen von Kampagnen kann Ihnen Zeit sparen. Keine Notwendigkeit, alles von Grund auf neu zu bauen - Klonen schafft eine identische Kampagne mit exakt den gleichen Filtern der intelligenten Liste und Flussschritte.
 
-1. Suchen Sie die Kampagne, die Sie klonen möchten, wählen Sie sie aus und klicken Sie dann unter **Kampagnen Aktionen** auf **Klonen**.
+1. Suchen Sie die Kampagne, die Sie klonen möchten, wählen Sie sie aus und klicken Sie dann unter **Kampagne Aktionen** auf **Klonen**.
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Wählen Sie die entsprechende **Klonen in **Option. Wählen wir in diesem Beispiel **Programm**.
+1. Wählen Sie die entsprechende **Klonen in **Option. Wählen Sie in diesem Beispiel **Programm**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
