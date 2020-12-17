@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Ein Feld ein- und ausblenden {#hide-and-unhide-a-field}
+# Ein Feld {#hide-and-unhide-a-field} ein- und ausblenden
 
 Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzeroberfläche ausblenden, sodass es nicht mehr in der Anwendung angezeigt wird.
 
-## Feld ausblenden {#hide-a-field}
+## Feld {#hide-a-field} ausblenden
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Suchen Sie das Feld, wählen Sie es aus und klicken Sie unter **Feldaktionen** auf Feld **ausblenden**.
+1. Suchen Sie das Feld, wählen Sie es aus und klicken Sie unter **Feldaktionen** auf **Feld ausblenden**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -42,9 +42,9 @@ Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzerobe
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
-## Einblenden eines Felds {#unhide-a-field}
+## Ein Feld {#unhide-a-field} ausblenden
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
