@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Führen Sie die folgenden Schritte aus, um mit der Kontoprofilerstellung Beginn auszuführen.
 
-1. Öffnen Sie in &quot;Mein Marketo&quot; **Kontobasiertes Marketing**.
+1. Öffnen Sie unter &quot;Mein Marker&quot;**Kontobasiertes Marketing**.
 
    ![](assets/one.png)
 
@@ -27,7 +27,7 @@ Führen Sie die folgenden Schritte aus, um mit der Kontoprofilerstellung Beginn 
 
    ![](assets/three.png)
 
-1. Geben Sie dem Modell einen Namen, legen Sie fest, wer in die Ergebnisse einbezogen werden soll und wer die Grundlage für das ideale Profil (ICP) sein wird. Klicken Sie abschließend auf Modell **erstellen** .
+1. Geben Sie dem Modell einen Namen, legen Sie fest, wer in die Ergebnisse einbezogen werden soll und wer die Grundlage für das ideale Profil (ICP) sein wird. Klicken Sie nach Abschluss des Vorgangs auf **Modell erstellen**.
 
    ![](assets/four.png)
 
@@ -45,5 +45,5 @@ Führen Sie die folgenden Schritte aus, um mit der Kontoprofilerstellung Beginn 
 
    >[!TIP]
    >
-   >Nachdem Sie Ihr Modell erstellt haben, erfahren Sie, wie Sie es in der Übersicht über [Kontoprofilerstellung](http://docs.marketo.com/x/NIDv)anpassen.
+   >Nachdem Sie Ihr Modell erstellt haben, erfahren Sie, wie Sie es in der [Übersicht über die Kontoprofilerstellung](http://docs.marketo.com/x/NIDv) anpassen.
 
