@@ -20,7 +20,7 @@ Sie können ein Interaktions-Programm mit einem Schalter ausschalten. Dadurch wi
 
    ![Bild eins](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Einstellungen]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Setup]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ Sie können ein Interaktions-Programm mit einem Schalter ausschalten. Dadurch wi
    >
    >Interaktions-Programm sind standardmäßig aktiviert, es sei denn, Sie überschreiten die Abonnement-Grenze.
 
-1. Rechts ist ein [!UICONTROL Programm] -Knopf. Wählen Sie **[!UICONTROL Ein]** oder **[!UICONTROL Aus]**.
+1. Rechts befindet sich eine Schaltfläche [!UICONTROL Programm]. Wählen Sie **[!UICONTROL Ein oder**[!UICONTROL  Aus ]**.]**
 
    ![Bild drei](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
