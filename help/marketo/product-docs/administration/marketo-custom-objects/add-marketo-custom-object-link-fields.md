@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen &quot;Markieren in benutzerdefinierten Objektverknüpfungsfeldern&quot; {#add-marketo-custom-object-link-fields}
+# hinzufügen Felder für die Verknüpfung mit benutzerdefinierten Objekten {#add-marketo-custom-object-link-fields}
 
 Wenn Sie benutzerdefinierte Objekte erstellen, müssen Sie Verknüpfungsfelder bereitstellen, um den benutzerdefinierten Objektdatensatz mit dem richtigen übergeordneten Datensatz zu verbinden.
 
 * Verwenden Sie für eine benutzerdefinierte Eins-zu-viele-Struktur das Linkfeld im benutzerdefinierten Objekt, um eine Verbindung zu einer Person oder Firma herzustellen.
 * Für eine Viele-zu-viele-Struktur verwenden Sie zwei Verknüpfungsfelder, die mit einem separat erstellten Zwischenobjekt verbunden sind (auch ein benutzerdefinierter Objekttyp). Ein Link stellt eine Verbindung zu Personen oder Firmen in Ihrer Datenbank her, der andere eine Verbindung zum benutzerdefinierten Objekt. In diesem Fall befindet sich das Feld &quot;Link&quot;nicht im benutzerdefinierten Objekt selbst.
 
-## Erstellen eines Verknüpfungsfelds für eine Eins-zu-viele-Struktur {#create-a-link-field-for-a-one-to-many-structure}
+## Erstellen eines Linkfelds für eine 1-zu-viele-Struktur {#create-a-link-field-for-a-one-to-many-structure}
 
 So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für eine Eins-zu-viele-Struktur.
 
-1. Klicken Sie auf **Admin** und wählen Sie in der **Datenbankverwaltung** die Option **Zu benutzerdefinierten Objekten** markieren.
+1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Markieren Sie die Option**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -65,7 +65,7 @@ So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für 
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
-## Erstellen eines Verknüpfungsfelds für eine Viele-zu-viele-Struktur {#create-a-link-field-for-a-many-to-many-structure}
+## Erstellen eines Linkfelds für eine Viele-zu-viele-Struktur {#create-a-link-field-for-a-many-to-many-structure}
 
 So erstellen Sie ein Verknüpfungsfeld in einem Zwischenobjekt, das in einer Viele-zu-viele-Struktur verwendet werden kann.
 
@@ -73,7 +73,7 @@ So erstellen Sie ein Verknüpfungsfeld in einem Zwischenobjekt, das in einer Vie
 >
 >Sie müssen das intermediäre Objekt und alle benutzerdefinierten Objekte, mit denen Sie es verknüpfen möchten, bereits erstellt haben.
 
-1. Klicken Sie auf **Admin** und wählen Sie in der **Datenbankverwaltung** die Option **Zu benutzerdefinierten Objekten** markieren.
+1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Markieren Sie die Option**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
