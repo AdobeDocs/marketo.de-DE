@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden eines Datums-Tokens in einem Wartezeitschritt {#use-a-date-token-in-a-wait-flow-step}
+# Verwenden Sie ein Datums-Token in einem Warteflussschritt {#use-a-date-token-in-a-wait-flow-step}
 
 Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelligente Kampagne bis zu einem bestimmten Datum anhalten, das ein Datums-Token verwendet. Sie können das Enddatum auch um einige Tage ändern.
 
@@ -19,7 +19,7 @@ Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelli
 >
 >Dies gilt nur für auslösende Kampagnen. Sie können diese Funktion nicht in Batch-Kampagnen verwenden.
 
-1. Ziehen Sie auf der Registerkarte &quot; **Fluss** intelligenter Kampagnen&quot;über den Schritt **&quot;Fluss** warten&quot;.
+1. Ziehen Sie in der Registerkarte &quot;Smart-Kampagne **Fluss**&quot;über den Textfluss **Wait**.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +27,7 @@ Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelli
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Wählen Sie aus der Dropdownliste **Typ** die Option **DatumsToken**.
+1. Wählen Sie aus der Dropdownliste **Typ** **Datumszeichen**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,7 +54,7 @@ Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelli
 
    >[!NOTE]
    >
-   >Sie können auch die Anzahl der Tage mit einem `{{lead.` oder einem `{{company.` Token angeben, das ein ganzzahliges Feld oder ein `{{my.` Token des Zahlentyps darstellt.
+   >Sie können auch die Anzahl der Tage mit einem Token des Typs `{{lead.` oder `{{company.` angeben, das ein ganzzahliges Feld oder ein Token des Typs `{{my.` darstellt.
 
 1. Klicken Sie auf Speichern.
 
