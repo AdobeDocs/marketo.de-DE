@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# E-Mail genehmigen {#approve-an-email}
+# Genehmigen einer E-Mail {#approve-an-email}
 
 E-Mail-Beginn im Entwurfszustand. Sie sind im System generell nicht verfügbar, bis Sie sie genehmigen. Es gibt einige Möglichkeiten, eine E-Mail zu genehmigen.
 
-## Genehmigen mit dem Menü &quot;E-Mail-Aktionen&quot; {#approve-it-using-the-email-actions-menu}
+## Genehmigen Sie es mithilfe des Menüs &quot;E-Mail-Aktionen&quot; {#approve-it-using-the-email-actions-menu}
 
 1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Genehmigen**.
 
    ` ![](assets/one.png)  
 `
 
-## Direkt im Baum genehmigen {#approve-it-directly-in-the-tree}
+## Direkt in der Struktur {#approve-it-directly-in-the-tree} genehmigen
 
 1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Genehmigen**.
 
