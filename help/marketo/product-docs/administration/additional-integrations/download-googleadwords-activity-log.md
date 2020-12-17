@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# GoogleAdwords Aktivität Log herunterladen {#download-googleadwords-activity-log}
+# GoogleAdwords Aktivität Log {#download-googleadwords-activity-log} herunterladen
 
 Stuff passiert. Manchmal müssen Sie das Aktivitäten-Protokoll herunterladen, um Probleme zu beheben.
 
@@ -19,7 +19,7 @@ Stuff passiert. Manchmal müssen Sie das Aktivitäten-Protokoll herunterladen, u
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Suchen Sie Ihren Google AdWords-Dienst und klicken Sie auf **Aktivität-Protokoll** herunterladen.
+1. Suchen Sie Ihren Google AdWords-Dienst und klicken Sie auf **Aktivität-Protokoll herunterladen**.
 
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
