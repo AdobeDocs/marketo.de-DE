@@ -23,7 +23,7 @@ Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
 
    ![](assets/one.png)
 
-1. Klicken Sie in **Datenbankverwaltung** auf **Benutzerspezifische Aktivitäten**.
+1. Klicken Sie unter **Datenbankverwaltung** auf **Benutzerspezifische Aktivitäten**.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
    >
    >Wenn Sie den API-Namen ändern möchten, stellen Sie sicher, dass der Name nicht mit den Feldern in anderen benutzerdefinierten Aktivitäten in Konflikt steht.
 
-1. Definieren Sie Ihren **Filter** und **Auslöser** und klicken Sie auf **Weiter**.
+1. Definieren Sie den **Filter** und **Auslöser** und klicken Sie auf **Weiter**.
 
    ![](assets/five.png)
 
