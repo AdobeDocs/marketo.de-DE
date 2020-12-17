@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Marketing {#email-marketing}
+# Email Marketing {#email-marketing}
 
 Egal, ob Sie eine E-Mail an den Desktop, das Tablet oder das Telefon senden möchten - Marketo hat Sie abgedeckt.
-** ![Allgemeines E-Mail-](assets/office-27.png)MarketingAllgemeines E-Mail-Marketing** [Allgemeines E-Mail-Marketing Alle Sachen E-Mail-Marketing. Woo hoo!](https://docs.marketo.com/display/DOCS/General)     ** ![E-Mail-](assets/chat-messages-10.png)ProgrammeE-Mail-Programme** [E-Mail-Programm A/B-Test und Blast in einem einfachen 4-Klick-Assistenten.](https://docs.marketo.com/display/DOCS/Email+Programs)     ** ![Drip](assets/ecology-14.png)NurturingDrip Nurturing** [Drip Nurturing Setzen Sie Ihre Inhaltsströme und Kadenz mit dem leistungsstarken Interaktions-Programm.](https://docs.marketo.com/display/DOCS/Drip+Nurturing)
+** ![Allgemeines E-Mail-Marketing](assets/office-27.png)Allgemeines E-Mail-Marketing** [Allgemeines E-Mail-Marketing Alle Sachen per E-Mail senden. Woo hoo!](https://docs.marketo.com/display/DOCS/General)     **  ![E-Mail-](assets/chat-messages-10.png)ProgrammeE-Mail-Programme**  [E-Mail-Programm A/B-Test und Blast in einem einfachen 4-Klick-Assistenten.](https://docs.marketo.com/display/DOCS/Email+Programs)     **  ![Drip ](assets/ecology-14.png)NurturingDrip Nurturing**  [Drip Nurturing Setzen Sie Ihre Inhaltsströme und Kadenz mit dem leistungsstarken Interaktions-Programm.](https://docs.marketo.com/display/DOCS/Drip+Nurturing)
