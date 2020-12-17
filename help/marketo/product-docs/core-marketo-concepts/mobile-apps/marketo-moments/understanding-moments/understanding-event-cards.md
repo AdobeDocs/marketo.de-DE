@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einführung in Ereignis-Karten {#understanding-event-cards}
+# Die Ereignis-Karten {#understanding-event-cards}
 
 Verwenden Sie Marketo Moments, um Ihre Ereignis-Programms auf Ihrem Smartphone oder iPad Ansicht.
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` Wenn Sie auf eine E-Mail-Programm-Karte tippen, haben Sie folgende Möglichkeiten:
