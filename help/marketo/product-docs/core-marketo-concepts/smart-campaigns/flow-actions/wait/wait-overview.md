@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Warten {#wait}
+# Wait {#wait}
 
 ## Übersicht {#overview}
 
-Halten Sie eine Person in einem intelligenten Kampagne-Fluss mit dem praktischen **Warteschritt** an.
+Halten Sie eine Kampagne in einem intelligenten Textfluss mit dem praktischen **wait-Schritt** an.
 
 ![](assets/wait-overview.png)
 
-Beachten Sie, wie Sie eine natürliche Sprache wie &quot;4 Stunden&quot;eingeben können. Die Wörter **nicht** abkürzen (d.h. 4 Std.). Die intelligente Kampagne würde weiterhin ausgeführt, aber der Warteschritt würde ignoriert.
+Beachten Sie, wie Sie eine natürliche Sprache wie &quot;4 Stunden&quot;eingeben können. Abkürzung der Wörter (d.h. 4 Std.): **** Die intelligente Kampagne würde weiterhin ausgeführt, aber der Warteschritt würde ignoriert.
 
 >[!CAUTION]
 >
@@ -27,9 +27,9 @@ Beachten Sie, wie Sie eine natürliche Sprache wie &quot;4 Stunden&quot;eingeben
 
 >[!TIP]
 >
->Wenn Sie sich bereits in einem Warteschritt befinden und Sie nicht möchten, dass sie nach Ende der Wartezeit fortfahren, fügen Sie [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) (Entfernen aus dem Fluss) direkt nach dem Warteschritt ein. Geben Sie mithilfe der Option &quot;Auswahlmöglichkeit [hinzufügen&quot;an, wer entfernt werden soll](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) .
+>Wenn sich jemand bereits in einem Warteschritt befindet und Sie nicht möchten, dass er nach Ende der Wartezeit fortfährt, fügen Sie [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt nach dem Warteschritt ein. Geben Sie an, wer entfernt werden soll, indem Sie die Option [Wahl hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) verwenden.
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 Es gibt drei Hauptmethoden, um einen Warteflussschritt zu verwenden:
 
