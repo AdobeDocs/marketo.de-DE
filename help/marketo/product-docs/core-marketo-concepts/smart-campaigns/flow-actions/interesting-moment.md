@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-Wenn Sie über [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php)verfügen, können Sie mit dem Schritt **Interessante Momente** die coolen Dinge, die Ihre Mitarbeiter tun, Ihrem Vertriebsteam veranschaulichen.
+Wenn Sie über [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php) verfügen, können Sie mit dem Schritt **Interessanter Moment** die coolen Dinge, die Ihre Mitarbeiter tun, im Vertriebsteam erkennen.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
-1. Wählen Sie den interessanten **Ereignistyp** aus, den Sie verwenden möchten.
+1. Wählen Sie den interessanten Moment **type** aus, den Sie verwenden möchten.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. Erstellen Sie eine **Beschreibung** , die Ihnen den interessanten Moment für Ihr Vertriebsteam erklärt.
+1. Erstellen Sie eine **description**, die den interessanten Moment für Ihr Vertriebsteam erklärt.
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
