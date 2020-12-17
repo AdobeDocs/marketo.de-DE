@@ -27,23 +27,23 @@ Marketo verwaltet Ihre ON24-Webinarregistrierung und -Teilnahme.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Wählen Sie **Neu** und dann **Neuer** **Dienst**.
+1. Wählen Sie **Neu** und dann **Neu** **Dienst**.
 
    ![](assets/on24-new-service.png)
 
-1. Geben Sie einen **Anzeigenamen** **ein**. Wählen Sie unter **Dienst****ON24**.
+1. Geben Sie einen **Display** **Name** ein. Wählen Sie unter **Service** **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Schließen Sie den Prozess ab, indem Sie Ihren **Client** - **Schlüssel** und Ihre **Client** - **ID** in **Einstellungen** **** eingeben und dann aufCreateklicken.
+1. Schließen Sie den Prozess ab, indem Sie **Client** **Schlüssel** und **Client** **ID** in **Einstellungen** eingeben und dann auf **Erstellen** klicken.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
-1. Ihr **ON24** -Konto wird jetzt mit Marketo synchronisiert.
+1. Ihr **ON24**-Konto wird jetzt mit Marketo synchronisiert.
 
    ![](assets/on24.png)
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie Ihr Webinar-Ereignis in ON24 [](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)erstellen.
+>Erfahren Sie, wie Sie Ihr Webinar-Ereignis in ON24[ erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 
