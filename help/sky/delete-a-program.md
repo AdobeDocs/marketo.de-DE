@@ -16,11 +16,11 @@ ht-degree: 0%
 
 So löschen Sie ein Programm.
 
-1. Suchen Sie nach dem zu löschenden Programm und wählen Sie dann **[!UICONTROL Löschen]** aus der Dropdownliste [!UICONTROL Programm-Aktionen] .
+1. Suchen Sie das zu löschende Programm und wählen Sie **[!UICONTROL Löschen]** aus der Dropdownliste [!UICONTROL Programm Aktionen].
 
    ![Bild eins](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. Überprüfen Sie die Nebenwirkungen des Löschvorgangs des Programms und aktivieren Sie dann alle oben **[!UICONTROL aufgelisteten Elemente]** löschen. Klicken Sie auf **[!UICONTROL Senden]**.
+1. Überprüfen Sie die Nebenwirkungen des Löschvorgangs des Programms und markieren Sie **[!UICONTROL Löschen Sie alle oben aufgeführten Elemente.]** Klicken Sie auf **[!UICONTROL Senden]**.
 
    ![Bild zwei](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
@@ -30,4 +30,4 @@ So löschen Sie ein Programm.
 
 >[!CAUTION]
 >
->Wenn Sie ein Programm löschen, werden alle zugehörigen Daten gelöscht. Um Daten zu erhalten, sollten Sie das Programm [stattdessen in einen Archivordner](/help/sky/archive-a-program.md) legen.
+>Wenn Sie ein Programm löschen, werden alle zugehörigen Daten gelöscht. Um Daten zu erhalten, sollten Sie das Programm stattdessen in einen Archivordner[ setzen.](/help/sky/archive-a-program.md)
