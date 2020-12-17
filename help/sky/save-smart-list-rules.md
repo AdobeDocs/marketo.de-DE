@@ -18,7 +18,7 @@ Die Speicherung intelligenter Listen ist eine großartige Möglichkeit, sich wer
 
 ## Speichern von Regeln für intelligente Liste
 
-1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
+1. Wählen Sie unter [!UICONTROL Marketing-Aktivitäten] Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
 
    ![Bild eins](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
@@ -32,7 +32,7 @@ Die Speicherung intelligenter Listen ist eine großartige Möglichkeit, sich wer
 
    ![Bild vier](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Wenn Sie fertig sind, Filter/Auslöser hinzuzufügen, klicken Sie auf die Dropdownliste Aktionen für **[!UICONTROL intelligente Kampagne]** und wählen Sie Regel für intelligente Liste **[!UICONTROL speichern]**.
+1. Wenn Sie mit dem Hinzufügen von Filtern/Auslösern fertig sind, klicken Sie auf die Dropdownliste **[!UICONTROL Aktionen mit intelligenter Kampagne]** und wählen Sie **[!UICONTROL Regel für intelligente Liste speichern]**.
 
    ![Bild fünf](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -44,7 +44,7 @@ Und das ist es! Wenn Sie das nächste Mal eine intelligente Kampagne erstellen, 
 
 ## Verwenden gespeicherter Regeln für die intelligente Liste
 
-1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
+1. Wählen Sie unter [!UICONTROL Marketing-Aktivitäten] Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
 
    ![Bild sieben](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
@@ -52,7 +52,7 @@ Und das ist es! Wenn Sie das nächste Mal eine intelligente Kampagne erstellen, 
 
    ![Bild acht](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Klicken Sie auf die Dropdownliste **[!UICONTROL Gespeicherte Regel]** .
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Gespeicherte Regel]**.
 
    ![Bild neun](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
