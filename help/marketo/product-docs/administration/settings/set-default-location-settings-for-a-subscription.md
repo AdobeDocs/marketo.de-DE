@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Festlegen der Standardpositionseinstellungen für ein Abonnement {#set-default-location-settings-for-a-subscription}
+# Standardmäßige Positionseinstellungen für ein Abonnement {#set-default-location-settings-for-a-subscription} festlegen
 
 In diesem Artikel wird beschrieben, wie ein Administrator die standardmäßigen Positionseinstellungen für ein Abonnement, einschließlich Sprache, Gebietsschema und Zeitzone, Ansicht und bearbeitet.
 
@@ -19,11 +19,11 @@ In diesem Artikel wird beschrieben, wie ein Administrator die standardmäßigen 
 >
 >Administratorrechte erforderlich. Die Sprache wird vom Administrator normalerweise nicht geändert. Es wird zum Zeitpunkt des Kaufs angegeben, damit das Abonnement in der entsprechenden Sprache generiert werden kann.
 
-## Festlegen der Standardpositionseinstellungen für ein Abonnement {#set-default-location-settings-for-a-subscription-1}
+## Standardmäßige Positionseinstellungen für ein Abonnement {#set-default-location-settings-for-a-subscription-1} festlegen
 
-Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, übernehmen neu erstellte Benutzer diese Einstellungen. Benutzer können ihre Sprache, ihr Gebietsschema und ihre Zeitzoneneinstellungen [in ihren einzelnen Konten immer](select-your-language-locale-and-time-zone.md) ändern.
+Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, übernehmen neu erstellte Benutzer diese Einstellungen. Benutzer können ihre Sprache, ihr Gebietsschema und ihre Zeitzonenvoreinstellungen immer [in ihren einzelnen Konten ändern.](select-your-language-locale-and-time-zone.md)
 
-1. Klicken Sie unter **Admin**,** **auf **Ort**.
+1. Klicken Sie unter **Admin**,** **auf **Position**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -33,7 +33,7 @@ Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, �
 
    Dieses Abonnement wurde auf Englisch erstellt. Nehmen wir an, Sie waren in London und wollten das Standardgebietsschema und die Zeitzone ändern. Das Gebietsschema legt die Formatierung für Zahlen, Daten und Zeiten fest.
 
-1. Wählen Sie das **Gebietsschema** aus und ändern Sie es in **Englisch** (Vereinigtes Königreich).
+1. Wählen Sie das Gebietsschema **und ändern Sie es in** Englisch **(Vereinigtes Königreich).**
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
@@ -45,11 +45,11 @@ Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, �
    >
    >Marketo Sales Insight für [Salesforce.com](http://salesforce.com/) unterstützt Französisch, Deutsch, Japanisch, Portugiesisch und Spanisch.
 
-## Standardwährungseinstellungen für ein Abonnement festlegen {#set-the-default-currency-settings-for-a-subscription}
+## Standardwährungseinstellungen für ein Abonnement {#set-the-default-currency-settings-for-a-subscription} festlegen
 
 Wenn Sie das Standardgebietsschema für Ihre Benutzer ändern, sollten Sie auch die Währungsformateinstellungen ändern.
 
-1. Klicken Sie in den Währungseinstellungen des Abonnements auf **Bearbeiten** .
+1. Klicken Sie in den Währungseinstellungen des Abonnements auf **Bearbeiten**.
 
    ![](assets/image2014-11-7-15-3a50-3a33.png)
 
