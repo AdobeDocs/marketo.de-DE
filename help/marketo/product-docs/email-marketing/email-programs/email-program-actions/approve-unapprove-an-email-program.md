@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definieren einer Audience mit einer intelligenten Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder durch [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definieren einer Audience mit einer intelligenten ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste durch  [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Wählen Sie eine vorhandene E-Mail](choose-an-existing-email.md) oder eine E-Mail für ein E-Mail-Programm [erstellen](create-an-email-for-an-email-program.md)
+* [Wählen Sie einen vorhandenen ](choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](create-an-email-for-an-email-program.md)
    >
    >
 * [Planen Ihres E-Mail-Programms](schedule-your-email-program.md)
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 
 
-## E-Mail-Programm genehmigen {#approve-your-email-program}
+## E-Mail-Programm {#approve-your-email-program} genehmigen
 
 Nun, da Ihr Programm bereit ist zu gehen, ist der letzte Schritt, es zu genehmigen. So:
 
@@ -44,7 +44,7 @@ Nun, da Ihr Programm bereit ist zu gehen, ist der letzte Schritt, es zu genehmig
    >
    >Wenn Sie Ihr E-Mail-Programm nicht genehmigen, wird die E-Mail nicht gesendet.
 
-1. Gehen Sie unter der **Genehmigungskachel** voran und klicken Sie auf Programm **genehmigen**.
+1. Fahren Sie unter der Kachel **Genehmigung** fort und klicken Sie auf **Programm genehmigen**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -56,7 +56,7 @@ Nun, da Ihr Programm bereit ist zu gehen, ist der letzte Schritt, es zu genehmig
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## E-Mail-Programm nicht genehmigen {#unapprove-your-email-program}
+## Genehmigen Sie Ihr E-Mail-Programm {#unapprove-your-email-program}
 
 Wenn Sie Ihre Meinung ändern und entscheiden, dass Sie nicht möchten, dass es ausgeht, können Sie die Genehmigung des E-Mail-Programms aufheben.
 
@@ -68,7 +68,7 @@ Wenn Sie Ihre Meinung ändern und entscheiden, dass Sie nicht möchten, dass es 
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Klicken Sie unter der Kachel **Genehmigung** einfach auf **Nicht genehmigen Programm**.
+1. Klicken Sie unter der Kachel **Approval** einfach auf **Unapproval Programm**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
