@@ -19,7 +19,7 @@ Wenn Sie Listen oder Ergebnisse intelligenter Listen außerhalb von Marketo ben�
 
    ![](assets/ma.png)
 
-1. Wählen Sie die zu exportierende Liste oder intelligente Liste aus und gehen Sie zur Registerkarte &quot; **Personen** &quot;.
+1. Wählen Sie die zu exportierende Liste oder intelligente Liste aus und gehen Sie zur Registerkarte **Personen**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,25 +27,25 @@ Wenn Sie Listen oder Ergebnisse intelligenter Listen außerhalb von Marketo ben�
 
    ![](assets/exportpeople.png)
 
-1. Wählen Sie **Sichtbare Spalten** und klicken Sie auf **Exportieren**.
+1. Wählen Sie **Sichtbare Spalten** und klicken Sie auf **Export**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Wenn Sie &quot; **Alle Spalten**&quot;auswählen, ist der Export größer und dauert länger, bis er generiert bzw. heruntergeladen wird.
+   >Wenn Sie **Alle Spalten** auswählen, ist der Export größer und dauert länger, bis die Generierung/der Download erfolgt.
 
    >[!TIP]
    >
-   >Wenn Ihre persönlichen Datensätze Fremdzeichen enthalten, die beim Exportieren nicht richtig dargestellt werden, versuchen Sie, den Dateityp in der Dropdown-Liste &quot; **Format** &quot;zu ändern.
+   >Wenn Ihre persönlichen Datensätze Fremdzeichen enthalten, die beim Exportieren nicht richtig dargestellt werden, versuchen Sie, den Dateityp in der Dropdown-Liste **Format** zu ändern.
 
-1. Der Export wird ausgeführt. Nach Abschluss können Sie auf Jetzt **herunterladen klicken** , um die Datei zu erfassen.
+1. Der Export wird ausgeführt. Nach Abschluss können Sie auf **Jetzt herunterladen** klicken, um die Datei zu erfassen.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Wenn der Export eine Weile in Anspruch nimmt, können Sie sich jederzeit abmelden und später darauf zurückkommen. Auf den Link **Jetzt** herunterladen können Sie zugreifen, indem Sie im Menü &quot;Aktionen **der** Liste&quot;die Option &quot;Exportstatus **** anzeigen&quot;auswählen. Er ist eine Woche gültig.
+   >Wenn der Export eine Weile in Anspruch nimmt, können Sie sich jederzeit abmelden und später darauf zurückkommen. Auf den Link **Jetzt herunterladen** können Sie zugreifen, indem Sie **Exportstatus anzeigen** im Menü **Liste Aktionen** auswählen. Er ist eine Woche gültig.
 
    Nachdem Sie eine intelligente Liste nach Excel exportiert haben, wird die Liste automatisch im Cache gespeichert. Wenn Sie sich das nächste Mal anmelden oder Ihren Browser aktualisieren, werden Sie eine kleine Papierklammer und eine Klebezettel auf dem Symbol für die intelligente Liste sehen.
 
