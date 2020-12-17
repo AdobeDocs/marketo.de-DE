@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionshinweise: April 2013 {#release-notes-april}
 
-Die folgenden Funktionen sind in der April-Version enthalten. Überprüfen Sie Ihre [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der April-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
 
-Achten Sie nach der Veröffentlichung darauf, in der Community auf der Registerkarte &quot; [Neue Version](release-notes-december-2013.md) &quot;detaillierte Knowledge Base-Artikel für jede Funktion zu finden!
+Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Knowledge Base-Artikel für jede Funktion zu erhalten!
 
 ## Box-Integration {#box-integration}
 
@@ -29,7 +29,7 @@ Wenn Sie Marketo Sales Insight sowie Gmail verwenden, können Sie unser neues Gm
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
-## E-Mail-Analyse {#email-analysis}
+## Email-Analyse {#email-analysis}
 
 Erstellen Sie erweiterte E-Mail-Berichte im Umsatz-Explorer, z. B. den Bericht &quot;Klick-Aktivität-Kühlkörper&quot;. Dieser Bericht gibt einen Einblick in den Tag und die Zeit, an denen die Benutzer in Ihren E-Mails auf Links klicken.
 
