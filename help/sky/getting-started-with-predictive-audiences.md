@@ -29,8 +29,8 @@ Die Performance der AI/ML-Modelle hängt von den Daten in Ihrem Abonnement ab. J
 
 Predictive Audiencen werden automatisch für Instanzen mit Prime- oder Ultimate-Preispaketen eingeschlossen und aktiviert. Weitere Informationen zum Zugriff auf diese Funktion erhalten Sie von Ihrem Kundenbetreuer.
 
-1. Nachdem die Funktion Ihrer Instanz hinzugefügt wurde, navigieren Sie zur Seite &quot; **[!UICONTROL Prognostische Audiencen]** &quot;im Bereich &quot; **[!UICONTROL Admin]** &quot;von [!DNL Marketo Classic].
+1. Nachdem die Funktion Ihrer Instanz hinzugefügt wurde, navigieren Sie zur Seite **[!UICONTROL Prognostische Audiencen]** im Bereich **[!UICONTROL Admin]** von [!DNL Marketo Classic].
 
-1. Aktivieren Sie **[!UICONTROL Prognostische Audiencen]** aktivieren, um die Funktion zu aktivieren. Beachten Sie, dass die Einrichtung aller Prozesse bis zu 24 Stunden dauern kann.
+1. Markieren Sie **[!UICONTROL Prognostische Audiencen]** aktivieren, um die Funktion zu aktivieren. Beachten Sie, dass die Einrichtung aller Prozesse bis zu 24 Stunden dauern kann.
 
    ![Bild eins](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
