@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# SEO - Hinzufügen {#seo-add-keywords}
+# SEO - Hinzufügen Suchbegriffe {#seo-add-keywords}
 
 Suchbegriffe sind Wortgruppen, die in Suchmaschinen eingegeben werden. hinzufügen Sie die Suchbegriffe, die für Ihr Unternehmen am relevantesten sind.
 
 >[!NOTE]
 >
->Wenn Sie viele Suchbegriffe haben, können Sie diese mit einer CSV-Datei [importieren](seo-importing-keywords-with-a-csv.md).
+>Wenn Sie viele Suchbegriffe haben, können Sie diese mit einer CSV-Datei [importieren.](seo-importing-keywords-with-a-csv.md)
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Geben Sie die zu Zielgruppe Suchbegriffe ein und klicken Sie auf **SPEICHERN**.
+1. Geben Sie die zu Zielgruppe Suchbegriffe ein und klicken Sie auf **SAVE**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
