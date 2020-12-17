@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Feldzuordnungen von Ansichten zwischen Marketing und Salesforce {#view-field-mappings-between-marketo-and-salesforce}
+# Feldzuordnungen von Ansichten zwischen Marketo und Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
 Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmtes Marketo-Feld verknüpft ist. Hier ist, wie man das erreicht.
 
@@ -19,11 +19,11 @@ Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmt
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. Suchen Sie das Feld, das Sie sehen möchten, und klicken Sie auf das **+** -Symbol, um die Zuordnung zu erweitern.
+1. Suchen Sie das Feld, das Sie sehen möchten, und klicken Sie auf **+**, um die Zuordnung zu erweitern.
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
