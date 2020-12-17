@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können Auslöser und Filter für eine mobile App-Kampagne einrichten.
 
-Für die meisten Aktivitäten gibt es einen Auslöser, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivität-Filter, um eine Aktion zu verfolgen, die *nicht* ausgeführt wurde, z. B. Tippen auf eine Push-Benachrichtigung.
+Für die meisten Aktivitäten gibt es einen Auslöser, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivität-Filter, um eine Aktion zu verfolgen, z. B. Tippen auf eine Push-Benachrichtigung, dass *nicht* stattgefunden hat.
 
 * Mobile App ist installiert/wurde installiert
 * Mobile App wurde geöffnet
@@ -27,7 +27,7 @@ Es gibt nur Filter für diese Aktivität:
 
 * Push-Benachrichtigung gesendet - Filter- und Inaktivitätsfilter
 
-Suchen Sie im rechten Bereich nach der **mobilen App** , um alle Auslöser und Filter der mobilen App Liste.
+Suchen Sie im rechten Bereich nach **Mobil-App**, um alle Mobile App-Auslöser und -Filter Liste.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -57,7 +57,7 @@ Einige Auslöser und Filter haben zusätzliche Einschränkungen zum Angebot:
 
 * Sitzungslänge (Sekunden) - Sitzungszeit, wenn die App im Vordergrund steht
 
-* Ist Push-aktiviert - **True** bedeutet, dass Push-Benachrichtigungen gesendet werden können. **Falsch** bedeutet, dass sie das nicht können; die Person hat sich beispielsweise vom Empfang von Push-Benachrichtigungen abgemeldet
+* Ist Push-aktiviert - **True** bedeutet, dass Push-Benachrichtigungen gesendet werden können. **** Falsemeans, die sie nicht können; die Person hat sich beispielsweise vom Empfang von Push-Benachrichtigungen abgemeldet
 
 ## Auslöser und Filter {#triggers-and-filters}
 
@@ -103,7 +103,7 @@ Mobile App wurde geöffnet
 
 Hat/hat eine mobile App-Aktivität
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um die Verfolgung [für Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) und [für iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)einzurichten.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um die Verfolgung [für Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) und [für iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios) einzurichten.
 
 * Hat Aktivität für mobile Anwendung - Auslöser
 
@@ -129,7 +129,7 @@ Mit den Aktionsbeschränkungen können Sie Auslöser und Filter verwenden, um di
 >
 >**Beispiel**
 >
->Unter dem Aktionstyp *Shopping* gibt es eine sehr spezifische Aktion, die durch die anderen Einschränkungen definiert wird:
+>Unter dem Aktionstyp *Shopping* gibt es eine sehr spezifische Aktion, die durch die anderen Beschränkungen definiert wird:
 >
 >* Hemd gekauft
 >  * Es war rot
@@ -180,7 +180,7 @@ Tippen/Tippen-Push-Benachrichtigung
 >
 >Verwenden Sie den Filter &quot;Nicht getippte Push-Benachrichtigung bei Inaktivität&quot;, um nach Personen zu suchen, die nicht auf eine Push-Benachrichtigung tippen, die ihnen vor kurzem gesendet wurde, damit Sie per E-Mail nachverfolgen können.
 
-**Push-Benachrichtigung** gesendet Diese Aktivität ist nur als Filter verfügbar.
+**Push-** Benachrichtigung gesendetDiese Aktivität ist nur als Filter verfügbar.
 
 * Push-Benachrichtigung gesendet - Filter
 
