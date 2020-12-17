@@ -19,19 +19,19 @@ Durch das Blockieren von Updates für ein Feld können Sie einmalig in das Feld 
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-24-13-3a54-3a40.png)
 
-1. Suchen Sie das Feld, wählen Sie es aus und klicken Sie dann unter **Feldaktionen** auf **Feldaktualisierungen** blockieren.
+1. Suchen Sie das Feld, wählen Sie es aus und klicken Sie dann unter **Feldaktionen** auf **Feldaktualisierungen blockieren**.
 
    ![](assets/two-1.png)
 
-1. Wählen Sie die zu blockierenden **Eingabequellen** aus und klicken Sie auf **Übernehmen**.
+1. Wählen Sie die zu blockierenden **Eingabequellen** aus und klicken Sie auf **Anwenden**.
 
    ![](assets/image2014-9-24-13-3a55-3a16.png)
 
    >[!CAUTION]
    >
-   >Beim Importieren einer Liste wird der Status eines Felds, das in der Vorschau &quot;Importieren&quot;blockiert wird, nur dann angezeigt, wenn das Feld automatisch von Marketo anhand des Feldnamens erkannt wird, der **exakt** übereinstimmt (oder wenn Aliase eingerichtet sind). Wenn das Feld manuell aus der Dropdownliste &quot;Feld markieren&quot;ausgewählt wird, wird der Blockierungsstatus nicht in der Vorschau &quot;Importieren&quot;angezeigt, aber die Updateblockung für dieses Feld wird trotzdem implementiert.
+   >Beim Importieren einer Liste wird der Feldstatus, der in der Vorschau &quot;Importieren&quot;blockiert wird, nur dann angezeigt, wenn das Feld automatisch von Marketo anhand des Feldnamens erkannt wird, der **genau** entspricht (oder wenn Aliase eingerichtet sind). Wenn das Feld manuell aus der Dropdownliste &quot;Feld markieren&quot;ausgewählt wird, wird der Blockierungsstatus nicht in der Vorschau &quot;Importieren&quot;angezeigt, aber die Updateblockung für dieses Feld wird trotzdem implementiert.
 
