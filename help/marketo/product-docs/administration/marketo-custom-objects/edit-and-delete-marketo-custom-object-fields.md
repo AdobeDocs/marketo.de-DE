@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bearbeiten und Löschen von Markierungen in benutzerdefinierten Objektfeldern {#edit-and-delete-marketo-custom-object-fields}
+# Markierungen für benutzerdefinierte Objektfelder bearbeiten und löschen {#edit-and-delete-marketo-custom-object-fields}
 
 ## Feld bearbeiten {#edit-a-field}
 
@@ -21,7 +21,7 @@ Manchmal müssen Sie ein Feld bearbeiten, das noch nicht genehmigt wurde.
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. Klicken Sie auf der Registerkarte Felder auf **Feldaktionen** und Feld **bearbeiten**.
+1. Klicken Sie auf der Registerkarte &quot;Felder&quot;auf **Feldaktionen** und **Feld bearbeiten**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
@@ -37,11 +37,11 @@ Manchmal müssen Sie ein Feld bearbeiten, das noch nicht genehmigt wurde.
 
    ![](assets/image2015-10-2-11-3a1-3a13.png)
 
-## Feld löschen {#delete-a-field}
+## Feld {#delete-a-field} löschen
 
 Wenn Sie kein Feld mehr in einem benutzerdefinierten Objekt mehr benötigen, können Sie es löschen.
 
-1. Klicken Sie auf der Registerkarte &quot;Felder&quot;auf &quot; **Feldaktionen** &quot;und **löschen Sie das Feld**.
+1. Klicken Sie auf der Registerkarte &quot;Felder&quot;auf **Feldaktionen** und **Feld löschen**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
