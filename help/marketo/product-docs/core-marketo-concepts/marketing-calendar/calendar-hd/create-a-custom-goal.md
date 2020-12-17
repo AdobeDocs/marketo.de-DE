@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Benutzerdefiniertes Ziel erstellen {#create-a-custom-goal}
+# Benutzerdefiniertes Ziel {#create-a-custom-goal} erstellen
 
 Ziele sind Wege, Fortschritte zu verfolgen und Ihr Team zu motivieren. Nach der Erstellung müssen sie manuell aktualisiert werden.
 
-Wie Präsentationen sind Ziele [arbeitsbereichsspezifisch](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Wie bei Präsentationen sind Ziele [workspace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-spezifisch.
 
-1. Gehen Sie zum **Kalender**.
+1. Gehen Sie zum Ordner **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Klicken Sie in der unteren rechten Ecke auf **Präsentation** .
+1. Klicken Sie unten rechts auf **Präsentation**.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -29,19 +29,19 @@ Wie Präsentationen sind Ziele [arbeitsbereichsspezifisch](../../../../product-d
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Ziehen Sie das **benutzerdefinierte Ziel** per Drag &amp; Drop in die Arbeitsfläche.
+1. Ziehen Sie **Benutzerdefiniertes Ziel** in die Arbeitsfläche.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Geben Sie einen Namen für das Ziel ein. Wählen Sie eine **Währung** aus.
+1. Geben Sie einen Namen für das Ziel ein. Wählen Sie eine **Währung**.
 
    >[!NOTE]
    >
-   >Wenn das Ziel kein Geldwert ist, können Sie &quot; **Ohne**&quot;auswählen.
+   >Wenn das Ziel kein monetärer Wert ist, können Sie **Keine** auswählen.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Geben Sie einen Wert für die **Zielgruppe** &quot;Ziel&quot;und den **aktuellen Wert** ein (wenn kein Wert vorhanden ist, **geben Sie 0** ein). Klicken Sie dann auf **Erstellen**.
+1. Geben Sie einen Wert für die Zielgruppe **Ziel** und **Aktueller Wert** ein (wenn kein Wert vorhanden ist, **geben Sie 0** ein). Klicken Sie dann auf **Erstellen**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
