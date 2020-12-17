@@ -25,7 +25,7 @@ Erstellen Sie eine Präsentation, um die Kalenderziele und Ansichten Ihres Teams
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie in der unteren rechten Ecke auf **Präsentation** .
+1. Klicken Sie unten rechts auf **Präsentation**.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
