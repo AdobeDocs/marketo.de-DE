@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Filtern des Marketingkalenders nach Arbeitsbereich {#filtering-the-marketing-calendar-by-workspace}
+# Filtern des Marketingkalenders nach Workspace {#filtering-the-marketing-calendar-by-workspace}
 
 Der Marketingkalender kann nach Objekten in bestimmten Arbeitsbereichen gefiltert werden.
 
-1. Gehen Sie zum **Kalender**.
+1. Gehen Sie zum Ordner **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
