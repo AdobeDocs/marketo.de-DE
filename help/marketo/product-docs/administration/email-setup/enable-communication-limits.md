@@ -36,19 +36,19 @@ Klicken Sie auf Bearbeiten.
 
    >[!TIP]
    >
-   >Sie können auch &quot; **Benutzerdefiniert** &quot;wählen, wenn keine der Vorgabeoptionen für Sie funktioniert.
+   >Sie können auch **Benutzerdefiniert** wählen, wenn keine der Vorgabeoptionen für Sie funktioniert.
 
-1. Klicken Sie auf die Dropdownliste **Pro 7 Tage** und wählen Sie die gewünschte Beschränkung aus. In diesem Beispiel wählen wir 5.
+1. Klicken Sie auf die Dropdownliste **Pro 7 Tage** und wählen Sie die gewünschte Grenze aus. In diesem Beispiel wählen wir 5.
 
    ![](assets/four.png)
 
-1. Wählen Sie Nicht-operative E-Mails **blockieren**.
+1. Wählen Sie **Nicht operative E-Mails blockieren**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über die [operativen E-Mails](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) .
+   >Erfahren Sie mehr darüber, was [operative E-Mails](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) sind.
 
 1. Klicken Sie auf **Speichern**.
 
@@ -59,7 +59,7 @@ Klicken Sie auf Bearbeiten.
    >**Beispiel**
    >
    >
-   >Die oben genannten Einstellungen bedeuten, dass die Personen nicht mehr als **1 E-Mail pro Tag** oder mehr als **5 E-Mail innerhalb eines Zeitraums** von sieben Tagen erhalten.
+   >Die oben genannten Einstellungen bedeuten, dass Personen pro Tag höchstens **1 E-Mail oder** 5 in einem Zeitraum von sieben Tagen **erhalten.**
 
    >[!NOTE]
    >
