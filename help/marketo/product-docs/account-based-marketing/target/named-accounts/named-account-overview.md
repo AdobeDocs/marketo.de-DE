@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Benannte Konten enthalten die Personen aus den Firmen, die Sie als Ziel auswählen. Das Dashboard stellt aktuelle Daten zu jedem Attribut für alle Ihre benannten Konten bereit.
 
-## Dashboard &quot;Benannte Konten&quot; {#named-accounts-dashboard}
+## Dashboard für benannte Konten {#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -61,7 +61,7 @@ Benannte Konten enthalten die Personen aus den Firmen, die Sie als Ziel auswähl
   </tr> 
   <tr> 
    <td><strong>SIC-Code</strong></td> 
-   <td><span><strong></strong>Standard <strong></strong>Industrial <strong></strong>Classification - vierstelliger Code für die Klassifizierung von Industriezweigen<br></span></td> 
+   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - vierstelliger Code für die Klassifizierung von Industriezweigen<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Umsatz</strong></td> 
