@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ausblenden eines Salesforce-Felds aus dem zu synchronisierenden Markt {#hide-a-salesforce-field-from-the-marketo-sync}
+# Ausblenden eines Salesforce-Felds aus dem Marktsymbol {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Nicht jedes Feld in Salesforce ist nützlich für Marketing. Sie können die Synchronisierungsleistung optimieren, indem Sie nur die erforderlichen Felder einschließen. So können Sie ein Feld vor Marketo ausblenden.
 
-1. Klicken Sie auf Ihr Namensmenü und wählen Sie **Einstellungen**.
+1. Klicken Sie auf Ihr Namensmenü und wählen Sie **Setup**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Geben Sie **Profil** in die Suchleiste ein und klicken Sie unter &quot;Benutzer **verwalten&quot;auf** Profil ****.
+1. Geben Sie **Profil** in die Suchleiste ein und klicken Sie unter **Benutzer verwalten** auf **Profil**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,7 +31,7 @@ Nicht jedes Feld in Salesforce ist nützlich für Marketing. Sie können die Syn
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Klicken Sie im Abschnitt Sicherheit **auf** Feldebene neben dem Objekt, das das Feld Zielgruppe enthält, auf **Ansicht** .
+1. Klicken Sie unter dem Abschnitt **Sicherheit auf Feldebene** auf **Ansicht** neben dem Objekt, das das Feld Zielgruppe enthält.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
