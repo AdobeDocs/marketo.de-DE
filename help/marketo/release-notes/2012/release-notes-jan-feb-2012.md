@@ -19,7 +19,7 @@ Die folgenden Funktionen sind in der Januar/Februar-Version enthalten. Überprü
 >
 >**Tieftauchen**
 >
->Weitere Versionen finden Sie in den [Versionshinweisen](http://docs.marketo.com/display/docs/release+notes) unter Deep Dive.
+>Weitere Versionen finden Sie unter [Versionshinweise](http://docs.marketo.com/display/docs/release+notes) Deep Dive.
 
 ## Erweiterte dynamische Inhalte {#advanced-dynamic-content}
 
@@ -29,7 +29,7 @@ Mit fortschrittlichen dynamischen Inhalten können Sie ansprechende E-Mail-Nachr
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentierung  {#segmentation}
+## Segmentierung {#segmentation}
 
 *Verfügbar für Pro- und Enterprise-Versionen*
 
@@ -59,11 +59,11 @@ Zu den neuen Funktionen, die die Einstellungen des Browsers &quot;Nicht verfolge
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## Single-Sign-On {#single-sign-on}
+## Single-Sign-on {#single-sign-on}
 
 Organisationen können jetzt eine nahtlose Anmeldung bei der Marketing-Anwendung mit SAML 2.0 für Single Sign-On über ein Firmenportal unterstützen.
 
-## Aktualisierte Editoren für E-Mail und Landingpage {#updated-email-and-landing-page-editors}
+## Aktualisierte E-Mail- und Landingpage-Editoren {#updated-email-and-landing-page-editors}
 
 Die Editoren für E-Mail und Landingpage wurden mit einer einladenderen Benutzeroberfläche, intuitiverer Navigation und einer deutlich verbesserten Benutzererfahrung neu gestaltet. Dazu gehören:
 
@@ -73,7 +73,7 @@ Ansicht von HTML und Text nebeneinander
 
 Die Optionen &quot;Von Name&quot;, &quot;Von E-Mail&quot;, &quot;Antwort an&quot;(NEU) und &quot;Betreff&quot;werden im Editor angezeigt. Auf alle anderen Einstellungen kann über die Schaltfläche &quot;Einstellungen bearbeiten&quot;zugegriffen werden.
 
-## Browserunterstützung {#browser-support}
+## Browser-Unterstützung {#browser-support}
 
 * Mozilla Firefox 9.0
 * Google Chrome 16
@@ -86,7 +86,7 @@ Die vereinfachte Verwaltung von Programmen verbessert die Benutzerfreundlichkeit
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## Abmelden beim Abonnement-Bericht {#unsubscribe-from-subscription-report}
+## Abmelden von Abonnement-Bericht {#unsubscribe-from-subscription-report}
 
 Jetzt können Sie sich vom Abonnement direkt vom Bericht abmelden!
 
