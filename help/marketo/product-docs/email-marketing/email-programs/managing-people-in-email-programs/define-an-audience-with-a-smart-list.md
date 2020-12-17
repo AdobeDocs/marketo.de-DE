@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definieren einer Audience mit einer intelligenten Liste {#define-an-audience-with-a-smart-list}
 
-Nachdem Sie ein E-Mail-Programm [](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)erstellt haben, möchten Sie ihm mitteilen, an wen Sie die E-Mail senden möchten. Dazu können Sie eine Liste von Personen [oder eine intelligente Liste](define-an-audience-by-importing-a-list.md) importieren. Hier ist, wie man das mit einer klugen Liste erreicht.
+Nachdem Sie [ein E-Mail-Programm ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) erstellt haben, möchten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Dazu können Sie [eine Liste von Personen](define-an-audience-by-importing-a-list.md) oder mit einer intelligenten Liste importieren. Hier ist, wie man das mit einer klugen Liste erreicht.
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Nachdem Sie ein E-Mail-Programm [](../../../../product-docs/email-marketing/emai
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus und klicken Sie dann unter der Kachel &quot; **Audience** &quot;auf &quot;Intelligente Liste **** bearbeiten&quot;.
+1. Wählen Sie Ihr E-Mail-Programm aus und klicken Sie dann unter der Kachel **Audience** auf **Intelligente Liste bearbeiten**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -54,13 +54,13 @@ Nachdem Sie ein E-Mail-Programm [](../../../../product-docs/email-marketing/emai
    >**Tieftauchen**
    >
    >
-   >Sehen Sie sich [intelligente Listen und statische Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) an, um mehr über die Verwendung und Definition von Filtern zu erfahren.
+   >Sehen Sie sich [Intelligente Listen und statische Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) an, um mehr über die Verwendung und Definition von Filtern zu erfahren.
 
 1. Wenn Sie fertig sind, Filter hinzuzufügen und zu definieren, gehen Sie zurück zur Registerkarte &quot;Haupt-Programm&quot;. Sie werden sehen, wie viele sich qualifizieren.
 
    ![](assets/myemailprogram.jpg)
 
-   Exzellente Arbeit! Jetzt ist es an der Zeit, eine vorhandene E-Mail [zu](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) wählen oder eine E-Mail [zu](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) erstellen, die an diese Personen gesendet werden soll.
+   Exzellente Arbeit! Jetzt ist es an der Zeit, [eine vorhandene E-Mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) auszuwählen oder [eine E-Mail ](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) zu erstellen, die an diese Personen gesendet werden soll.
 
 >[!NOTE]
 >
@@ -76,9 +76,9 @@ Nachdem Sie ein E-Mail-Programm [](../../../../product-docs/email-marketing/emai
 
 >
 >
-Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Postings gesperrt sind. **Bitte beachten Sie:** Operative E-Mails werden nach wie vor an Personen gesendet, die als nicht abonniert markiert und Marketing ausgesetzt markiert wurden.
+Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Postings gesperrt sind. **Bitte beachten Sie:** Operative E-Mails werden nach wie vor an Personen gesendet, die als nicht abonniert und Marketing ausgesetzt markiert wurden.
 >
->Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36.png) auf der Kachel Audience, um zu sehen, wie viele Personen die E-Mail erhalten.
+>Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36.png) auf der Kachel &quot;Audience&quot;, um zu sehen, wie viele Personen die E-Mail erhalten werden.
 
 >[!NOTE]
 >
