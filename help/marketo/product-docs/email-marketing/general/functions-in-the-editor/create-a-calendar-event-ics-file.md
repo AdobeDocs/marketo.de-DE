@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Erstellen einer Kalenderdatei (.ics) für Ereignisse {#create-a-calendar-event-ics-file}
+# Kalenderdatei (.ics) {#create-a-calendar-event-ics-file} erstellen
 
 Mit einem Kalenderdatei-Token können Sie Ihren Marketing-E-Mails und -Landingpages einen Kalenderlink (.ics) hinzufügen.
 
-1. Wechseln Sie in Ihrem Programm zur Registerkarte &quot; **Meine Token** &quot;.
+1. Wechseln Sie in Ihrem Programm zur Registerkarte **My Tokens**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Ziehen Sie ein **Kalenderdatei** -Token auf die Arbeitsfläche.
+1. Ziehen Sie ein Token **Kalenderdatei** auf die Arbeitsfläche.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Geben Sie einen **Token-Namen** ein und **bearbeiten Sie**.
+1. Geben Sie einen **Token-Namen** und **Bearbeiten** ein.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
