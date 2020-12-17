@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Vorhandene E-Mail auswählen {#choose-an-existing-email}
+# Vorhandene E-Mail {#choose-an-existing-email} auswählen
 
 >[!PREREQUISITES]
 >
 >* [E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definieren einer Audience mit einer intelligenten Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definieren einer Audience mit einer intelligenten ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Sobald Sie ein E-Mail-Programm [](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) erstellt und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können eine E-Mail für ein E-Mail-Programm [von Grund auf](create-an-email-for-an-email-program.md) erstellen oder eine bereits vorhandene E-Mail auswählen. Hier ist, wie man einen auswählt, der bereits existiert.
+Nachdem Sie [ein E-Mail-Programm](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) erstellt und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine E-Mail für ein E-Mail-Programm](create-an-email-for-an-email-program.md) von Grund auf erstellen oder eine bereits vorhandene E-Mail auswählen. Hier ist, wie man einen auswählt, der bereits existiert.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -32,9 +32,9 @@ Sobald Sie ein E-Mail-Programm [](../../../../product-docs/email-marketing/email
 
    ![](assets/selectemailprogram.jpg)
 
-1. Wählen Sie unter der Kachel **E-Mail** die zu sendende E-Mail-Adresse aus.
+1. Wählen Sie unter der Kachel **E-Mail** die zu sendende Kachel aus.
 
-   ` ![](assets/image2014-9-12-11-3a28-3a10.png)
+   ^ ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    `
 
