@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Informationen zu E-Mail-Programmen {#understanding-email-programs}
+# Die E-Mail-Programm {#understanding-email-programs}
 
 Grüßen Sie Ihren neuen Marketo Freund, das E-Mail-Programm. Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie Ihre Ergebnisse an einem Ort.
 
 ## Systemsteuerung {#control-panel}
 
-Vier Kisten halten Sie im Fokus. **Audience** definiert &quot;wer&quot;, **E-Mail** stellt das &quot;was&quot;, **Zeitplan** definiert &quot;wann&quot;, und **Genehmigung** macht es bereit zu gehen.
+Vier Kisten halten Sie im Fokus. **** Zielgruppe definiert die &quot;wer&quot;,  **** E-Mail stellt das &quot;was&quot;,  **** Zeitpläne definiert &quot;wann&quot;, und  **** Genehmigen macht es bereit zu gehen.
 
 ![](assets/emailprogram.png)
 
@@ -34,7 +34,7 @@ Erfahren Sie mehr über die folgenden A/B-Tests:
 
 ![](assets/abtesthighlight.png)
 
-## Dashboards {#dashboards}
+## Dashboard {#dashboards}
 
 >[!TIP]
 >
@@ -62,9 +62,9 @@ Verwenden Sie ein E-Mail-Programm in einem Standard-Programm, um die Organisatio
 
 >[!NOTE]
 >
->E-Mail-Programm können nicht in [Interaktions-Programmen](../../../../getting-started/quick-wins/drip-drip-nurture.md)verschachtelt werden. Sie können auch nicht erneut gesendet werden und nur einen Test gleichzeitig ausführen.
+>E-Mail-Programm können nicht in [Interaktions-Programmen](../../../../getting-started/quick-wins/drip-drip-nurture.md) verschachtelt werden. Sie können auch nicht erneut gesendet werden und nur einen Test gleichzeitig ausführen.
 
-## Planeinstellungen {#schedule-settings}
+## Zeitplaneinstellungen {#schedule-settings}
 
 Jetzt, da Sie die E-Mail-Programme verstehen, beginnen Sie mit einem der entsprechenden Artikel unten!
 
