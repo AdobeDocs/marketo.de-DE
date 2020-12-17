@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden der Seite &quot;Personendetails&quot; {#using-the-person-detail-page}
+# Verwenden der Seite mit den Personendetails {#using-the-person-detail-page}
 
 Die Personendetailseite enthält alle Informationen, die Marketo über eine Person kennt. Sie können Daten direkt auf dieser Seite bearbeiten.
 
@@ -24,9 +24,9 @@ Es gibt viele Möglichkeiten, bestimmte Leute zu öffnen. Nachfolgend sind einig
 >**Beispiel**
 >
 >* In der **Datenbank** können Sie in der Schnellsuche suchen
->* Jede intelligente **Liste** oder Liste
->* **Registerkarte &quot;Mitglieder** &quot;eines Programms
->* **Ansicht Kampagne Mitglieder** in einer intelligenten Kampagne
+>* Eine Smart **Liste** oder Liste
+>* **programm-** Memberstab
+>* **Ansicht Kampagne** Mitglied einer intelligenten Kampagne
 >* Einige **Berichte**
 
 >
@@ -71,7 +71,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Markieren in Standardfelder vor der CRM-Synchronisierung {#marketo-default-fields-prior-to-crm-sync}
+## Marketo-Standardfelder vor der CRM-Synchronisierung {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 >
 >**Tieftauchen**
 >
->Einige Felder können *nicht* bearbeitet werden:
+>Einige Felder sind bearbeitbar:**
 >
 >* Informationen zur Firma
 >* Möglichkeiten für die Kontakte zum SFDC
@@ -107,7 +107,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 
 >
 >
-Weitere Informationen zu [systemverwalteten Feldern](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+Erfahren Sie mehr über [Systemverwaltete Felder](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
