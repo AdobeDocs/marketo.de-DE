@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Navigieren in der Ansicht &quot;Programmplanung&quot; {#navigating-the-program-schedule-view}
+# Navigieren in der Ansicht Programmplanung {#navigating-the-program-schedule-view}
 
 Im Folgenden finden Sie die Grundlagen zur Navigation in der Ansicht der Programmplanung.
 
-## Suchen der Ansicht &quot;Zeitplan&quot; {#find-the-schedule-view}
+## Suchen Sie die Ansicht für den Zeitplan {#find-the-schedule-view}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf die Dropdownliste **Ansicht** . Wählen Sie **Plan**.
+1. Wählen Sie Ihr Programm aus. Klicken Sie auf die Dropdownliste **Ansicht**. Wählen Sie **Plan**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -49,11 +49,11 @@ Im Folgenden finden Sie die Grundlagen zur Navigation in der Ansicht der Program
 
 ## Ändern zwischen Modi {#changing-between-modes}
 
-1. Wenn Sie auf **3 Wochen** oder **Monat** klicken, werden die angezeigten Daten geändert.
+1. Wenn Sie auf **3 Wochen** oder **Monat** klicken, werden die sichtbaren Daten auf Ihrer Anzeige geändert.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
-## Vollbildmodus, Ansicht {#full-screen-view}
+## Vollbildmodus-Ansicht {#full-screen-view}
 
 1. Sie können auf das Bildschirmsymbol oben rechts klicken, um die Programmplanung im Vollbildmodus Ansicht.
 
