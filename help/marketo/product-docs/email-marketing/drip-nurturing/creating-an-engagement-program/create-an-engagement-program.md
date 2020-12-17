@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Interaktives Programm erstellen {#create-an-engagement-program}
+# Programm für Interaktion {#create-an-engagement-program} erstellen
 
 Sie können Interaktions-Programm in Marketo verwenden, um E-Mail-Pflege mit Leichtigkeit durchzuführen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 1. ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie den Ordner aus, in dem Sie das Interaktionsordner erstellen möchten, und klicken Sie dann auf **Neues** und **Neues Programm**.
+1. Wählen Sie den Ordner aus, in dem Sie das Interaktionsordner erstellen möchten, und klicken Sie dann auf **Neu** und **Neues Programm**.
 1. ![](assets/newprogramlifecycle.jpg)
 
-1. Geben Sie einen **Namen** ein, wählen Sie &quot; **Interaktion** &quot;für den **Programm-Typ** und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Programm** ein, wählen Sie **Einsatz** für **ein und klicken Sie auf** Erstellen **.**
 1. ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. Nun, da Sie ein Interaktions-Programm haben, lassen Sie uns vorwärts gehen und es anziehen.
