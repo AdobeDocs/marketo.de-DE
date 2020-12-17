@@ -17,7 +17,7 @@ Wenn Sie eine intelligente Liste ausgeführt haben und einige Minuten vergangen 
 
 ## Ergebnisse aktualisieren {#refresh-results}
 
-1. Um Daten auf der Registerkarte &quot; **Personen** &quot;einer intelligenten Liste zu aktualisieren, klicken Sie auf das Aktualisierungssymbol.
+1. Um Daten auf der Registerkarte **Personen** einer intelligenten Liste zu aktualisieren, klicken Sie auf das Aktualisierungssymbol.
 
    ![](assets/refreshbutton.png)
 
