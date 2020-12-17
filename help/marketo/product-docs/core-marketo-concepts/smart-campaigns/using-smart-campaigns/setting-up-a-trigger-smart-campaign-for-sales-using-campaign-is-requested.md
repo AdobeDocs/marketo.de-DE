@@ -21,26 +21,26 @@ Eines der coolsten Merkmale von Marketo ist die Fähigkeit, Verkaufspersonal an 
 >
 >Beispiele für anzufordernde intelligente Kampagnen:
 >
->1. **Langfristige Pflege** - wenn sie in diesem Jahr kein Budget haben und Sie einfach auf dem Radar bleiben wollen
->1. **Aktiver Verkaufszyklus** - wenn der Verkäufer keine Nachrichten an die Person mit Ausnahme seiner eigenen möchte. (verwenden Sie die Markierung für die ausgesetzte Vermarktung, um sie vorübergehend abzumelden)
+>1. **Langfristige Pflege**  - wenn sie in diesem Jahr kein Budget haben und Sie einfach auf dem Radar bleiben wollen
+>1. **Aktiver Verkaufszyklus**  - wenn der Verkäufer keine Nachrichten an die Person mit Ausnahme seiner eigenen möchte. (verwenden Sie die Markierung für die ausgesetzte Vermarktung, um sie vorübergehend abzumelden)
 
 >
 >
 Sei kreativ! Was soll der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!
 
-1. Erstellen Sie eine **intelligente Kampagne.**
+1. Erstellen Sie eine **Smart-Kampagne.**
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Kampagne **suchen und ziehen** ist **** **Angefordert **auf die Arbeitsfläche.
+1. Suchen und ziehen Sie **Kampagne** **ist** **Angefordert **auf die Arbeitsfläche.
 
    ![](assets/campaignfilterdrag.png)
 
-1. Die Quellauswahl gibt an, welche Art von Anforderung berücksichtigt wird. Wählen Sie für die Salesforce-Funktion **Sales** **Insight**.
+1. Die Quellauswahl gibt an, welche Art von Anforderung berücksichtigt wird. Wählen Sie für die Salesforce-Funktionalität **Sales** **Insight**.
 
    >[!TIP]
    >
-   >Die Quelloperatoren dienen der Sicherheit. Sie können die Kampagne auf Anforderungen beschränken, die nur von bestimmten Quellen wie anderen intelligenten Kampagnen oder Entwicklern ausgeführt werden. Wählen Sie im ersten Feld die Option **Ist vorhanden** , wenn Sie Anforderungen aus allen Quellen zulassen möchten.
+   >Die Quelloperatoren dienen der Sicherheit. Sie können die Kampagne auf Anforderungen beschränken, die nur von bestimmten Quellen wie anderen intelligenten Kampagnen oder Entwicklern ausgeführt werden. Wählen Sie **Ist Beliebig** im ersten Feld, wenn Sie Anforderungen aus allen Quellen zulassen möchten.
    >
    >
    >**Denken Sie daran**, dass es durch Auswahl von Sales Insight auf magische Weise in der Box für Verkäufe angezeigt wird. Übertreibe es nicht! Zu viele werden von ihnen ignoriert.
