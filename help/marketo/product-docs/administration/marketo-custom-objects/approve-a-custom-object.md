@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Benutzerdefiniertes Objekt genehmigen {#approve-a-custom-object}
+# Benutzerdefiniertes Objekt {#approve-a-custom-object} genehmigen
 
 Sie müssen ein benutzerdefiniertes Objekt genehmigen, bevor Sie es verwenden können. Der Prozess unterscheidet sich geringfügig von den neuen benutzerdefinierten Objekten und Objekten, die Sie bearbeitet haben.
 
-## Neues benutzerdefiniertes Objekt genehmigen {#approve-a-new-custom-object}
+## Neues benutzerdefiniertes Objekt {#approve-a-new-custom-object} genehmigen
 
 Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. Hier ist, wie man es genehmigt.
 
-1. Klicken Sie in Admin auf **Zu benutzerdefinierten Objekten** markieren und wählen Sie ein Objekt mit dem Status &quot;Entwurf&quot;aus.
+1. Klicken Sie in Admin auf **Benutzerdefinierte Objekte** markieren und wählen Sie ein Objekt mit dem Status &quot;Entwurf&quot;aus.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf die Dropdown-Liste &quot; **Benutzerdefinierte Objektaktionen** &quot;und wählen Sie &quot;Objekt **genehmigen&quot;**.
+1. Klicken Sie auf die Dropdownliste **Benutzerspezifische Objektaktionen** und wählen Sie **Objekt genehmigen**.
 
    ![](assets/two.png)
 
@@ -33,20 +33,20 @@ Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. Hier ist, wie man 
 
    >[!NOTE]
    >
-   >Ein benutzerdefiniertes Objekt, das in einer *Eins-zu-viele-Struktur* verwendet wird, muss mindestens ein dedupliziertes Feld, ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen haben, damit die Genehmigung erteilt werden kann.
+   >Ein benutzerdefiniertes Objekt, das in einer *1-zu-n-Struktur* verwendet wird, muss mindestens ein dedupliziertes Feld, ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen haben, um genehmigt zu werden.
    >
    >
-   >Ein benutzerdefiniertes Objekt, das in einer *Viele-zu-viele-Struktur* verwendet wird, **benötigt bei der Genehmigung des Objekts kein** Verknüpfungsfeld, keinen verknüpften Objektnamen oder keinen verknüpften Feldnamen (da es im Zwischenobjekt lebt).
+   >Ein benutzerdefiniertes Objekt, das in einer *Viele-zu-viele-Struktur* **verwendet wird, benötigt bei der Genehmigung des Objekts kein Verknüpfungsfeld, einen verknüpften Objektnamen oder einen verknüpften Feldnamen (da diese im Zwischenobjekt leben).**
    >
    >
-   >Ein benutzerdefiniertes Objekt, das als *Zwischenobjekt* verwendet wird, erfordert ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen, **erfordert jedoch kein** Deduplizierungsfeld.
+   >Ein benutzerdefiniertes Objekt, das als *intermediäres Objekt* verwendet wird, erfordert ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen, **erfordert jedoch kein dedupliziertes Feld.**
    >
    >
-   >Weitere Informationen finden Sie unter Informationen [zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md) .
+   >Weitere Informationen finden Sie unter [Informationen zu &quot;Markieren zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md)&quot;.
 
 Das ist&#39;s! Jetzt können Sie Ihr benutzerdefiniertes Objekt in den Einschränkungen Ihrer Filter und Auslöser auswählen, die in Ihren Kampagnen verwendet werden sollen.
 
-## Bearbeiten eines benutzerdefinierten Objekts genehmigen {#approve-an-edited-custom-object}
+## Genehmigen eines bearbeiteten benutzerdefinierten Objekts {#approve-an-edited-custom-object}
 
 Nachdem Sie ein genehmigtes benutzerdefiniertes Objekt bearbeitet haben, müssen Sie den Entwurf genehmigen, um das benutzerdefinierte Objekt in den Status &quot;Genehmigt&quot;zurückzugeben.
 
@@ -54,7 +54,7 @@ Nachdem Sie ein genehmigtes benutzerdefiniertes Objekt bearbeitet haben, müssen
 
    ![](assets/four.png)
 
-1. Wenn Sie bereit sind, den Entwurf zu genehmigen, klicken Sie auf die Dropdown-Liste &quot; **Benutzerdefinierte Objektaktionen** &quot;und wählen Sie &quot;Objekt **genehmigen&quot;**.
+1. Wenn Sie bereit sind, den Entwurf zu genehmigen, klicken Sie auf die Dropdownliste **Benutzerspezifische Objektaktionen** und wählen Sie **Objekt genehmigen**.
 
    ![](assets/five-1.png)
 
