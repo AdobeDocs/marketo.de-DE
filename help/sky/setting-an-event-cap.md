@@ -29,7 +29,7 @@ Beschränken Sie die Anzahl der Personen, die sich für Ihr Ereignis mit einer E
 
    ![Bild eins](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. Suchen Sie im Überblick nach [!UICONTROL Ereignis Cap] und klicken Sie auf **[!UICONTROL Nicht festgelegt]**.
+1. Suchen Sie in der Übersicht nach [!UICONTROL Ereignis Cap] und klicken Sie auf **[!UICONTROL Nicht festlegen]**.
 
    ![Bild zwei](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
@@ -41,7 +41,7 @@ Beschränken Sie die Anzahl der Personen, die sich für Ihr Ereignis mit einer E
 
    ![Bild vier](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Klicken Sie auf die Dropdownliste **[!UICONTROL Registrierungs-Vollseite]** und wählen Sie die Landingpage aus, die als vollständige Registrierungsseite dient. Klicken Sie abschließend auf **[!UICONTROL Festlegen und Aktivieren]** .
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Gesamte Registrierungsseite]** und wählen Sie die Landingpage aus, die als vollständige Registrierungsseite fungiert. Klicken Sie nach Abschluss des Vorgangs auf **[!UICONTROL Festlegen und Aktivieren.]**
 
    ![Bild fünf](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
