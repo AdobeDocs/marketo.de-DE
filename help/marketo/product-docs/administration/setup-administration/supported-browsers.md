@@ -22,4 +22,4 @@ Marketo unterstützt derzeit die folgenden Browser:
 | [Apple Safari](http://support.apple.com/downloads/#safari) | neueste |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | neueste |
 
-Für ein optimales Erlebnis **halten Sie Ihren Browser auf dem Laufenden**!
+Für ein optimales Erlebnis sollten Sie **Ihren Browser auf dem neuesten Stand halten.**
