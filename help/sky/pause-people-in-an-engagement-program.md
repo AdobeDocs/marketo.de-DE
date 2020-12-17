@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Wenn eine Person Mitglied eines Interaktions-Programms ist, erhält sie Inhalte, bis alle Inhalte [ausgeschöpft wurden](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Sie können den Schritt zum [Ändern der Programm-Kadenz](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) verwenden, um zu verhindern, dass Benutzer Inhalte empfangen, auch wenn diese noch nicht vollständig sind.
+Wenn eine Person Mitglied eines Interaktions-Programms ist, erhält sie Inhalte, bis [alle Inhalte ](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content) erschöpft sind. Sie können den Flussschritt [Programm ändern Interaktion Cadence](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) verwenden, um zu verhindern, dass Personen Inhalte empfangen, auch wenn diese noch nicht vollständig sind.
 
-1. Wählen Sie in Ihrer intelligenten Kampagne die Person/Personen aus, die in der intelligenten Liste angehalten werden soll. Suchen und ziehen Sie dann im Fluss über die **[!UICONTROL Flussaktion &quot;Programm-Kadenz]** ändern&quot;.
+1. Wählen Sie in Ihrer intelligenten Kampagne die Person/Personen aus, die in der intelligenten Liste angehalten werden soll. Suchen und ziehen Sie dann im Fluss über die Fließaktion **[!UICONTROL Programm ändern Interaktion Kadenz]**.
 
    ![Bild eins](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -28,7 +28,7 @@ Wenn eine Person Mitglied eines Interaktions-Programms ist, erhält sie Inhalte,
 
    ![Bild drei](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-Sie können die Person auf &quot; **[!UICONTROL Normal]** &quot;zurücksetzen, wenn Sie möchten, dass sie erneut mit dem Empfang von Inhalten beginnt. Sie werden dort wiederaufleben, wo sie aufgehört haben.
+Sie können die Person auf **[!UICONTROL Normal]** zurücksetzen, wenn Sie möchten, dass sie erneut mit dem Empfang von Inhalten beginnt. Sie werden dort wiederaufleben, wo sie aufgehört haben.
 
 >[!NOTE]
 >
