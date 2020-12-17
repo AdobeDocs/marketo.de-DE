@@ -18,7 +18,7 @@ Flussschritte sagen Marketo, was Sie möchten, mit einer Gruppe von Personen ges
 
 ## Speichern von Flussaktionen
 
-1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
+1. Wählen Sie unter [!UICONTROL Marketing-Aktivitäten] Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
 
    ![Bild eins](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
@@ -32,7 +32,7 @@ Flussschritte sagen Marketo, was Sie möchten, mit einer Gruppe von Personen ges
 
    ![Bild vier](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Wenn Sie alle gewünschten Filter/Auslöser hinzugefügt haben, klicken Sie auf die Dropdownliste Aktionen für **[!UICONTROL intelligente Kampagnen]** und wählen Sie Neuen Fluss **[!UICONTROL speichern]**.
+1. Wenn Sie mit dem Hinzufügen von Filtern/Auslösern fertig sind, klicken Sie auf die Dropdownliste **[!UICONTROL Aktionen mit intelligenter Kampagne]** und wählen Sie **[!UICONTROL Neuen Fluss speichern]**.
 
    ![Bild fünf](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
@@ -44,7 +44,7 @@ Und du bist fertig. Wenn Sie das nächste Mal eine intelligente Kampagne erstell
 
 ## Speichern von Flussaktionen
 
-1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
+1. Wählen Sie unter [!UICONTROL Marketing-Aktivitäten] Ihre intelligente Kampagne aus (oder erstellen Sie eine neue).
 
    ![Bild sieben](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
@@ -52,7 +52,7 @@ Und du bist fertig. Wenn Sie das nächste Mal eine intelligente Kampagne erstell
 
    ![Bild acht](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Klicken Sie auf die Dropdownliste **[!UICONTROL Gespeicherte]** Flüsse.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Gespeicherte Flüsse]**.
 
    ![Bild neun](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
