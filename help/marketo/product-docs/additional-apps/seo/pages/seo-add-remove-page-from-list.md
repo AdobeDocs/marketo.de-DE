@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SEO - Hinzufügen/Seite aus Liste entfernen {#seo-add-remove-page-from-list}
+# SEO - Hinzufügen/Seite aus Liste {#seo-add-remove-page-from-list} entfernen
 
 Sie möchten Ihre Seiten verwalten? Sie können das einfach durch Erstellen einer Liste tun. Sie können Listen verwenden, um Seiten zu organisieren oder Daten in Dashboards zu filtern.
 
-## Seite an Liste Hinzufügen {#add-page-to-a-list}
+## Seite an eine Liste Hinzufügen {#add-page-to-a-list}
 
-1. Gehen Sie zum Abschnitt **Seiten** .
+1. Gehen Sie zum Abschnitt **Seiten**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken Sie auf **HINZUFÜGEN/AUS LISTE** entfernen.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -39,7 +39,7 @@ Sie möchten Ihre Seiten verwalten? Sie können das einfach durch Erstellen eine
 
 1. Jay! Sie sollten nun Ihre Seite der Liste hinzufügen sehen.
 
-## Seite aus einer Liste entfernen {#remove-page-from-a-list}
+## Seite aus Liste {#remove-page-from-a-list} entfernen
 
 1. Gehen Sie zum Abschnitt Seiten.
 
@@ -49,7 +49,7 @@ Sie möchten Ihre Seiten verwalten? Sie können das einfach durch Erstellen eine
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken Sie auf **HINZUFÜGEN/AUS LISTE** entfernen.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
