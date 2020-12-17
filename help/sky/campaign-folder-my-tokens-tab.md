@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Kampagnen-Ordner: Registerkarte &quot;Meine Token&quot;
 
-Auf der Registerkarte &quot; [!UICONTROL Meine Token] &quot;werden alle Ihre My Tokens im Ordner &quot;Kampagne&quot;Liste.
+Auf der Registerkarte [!UICONTROL My Tokens] werden alle My Tokens im Ordner &quot;Kampagne&quot;Liste.
 
 ![Bild eins](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
