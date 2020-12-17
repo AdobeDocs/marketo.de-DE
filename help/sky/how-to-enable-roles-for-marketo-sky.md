@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-[!DNL Marketo] Administratoren können Rollen [!DNL Sky] im [!UICONTROL Admin] -Bereich von [!DNL Marketo Classic]aktivieren.
+[!DNL Marketo] Administratoren können Rollen  [!DNL Sky] im   Adminbereich von aktivieren  [!DNL Marketo Classic].
 
-1. Klicken Sie in [!DNL Marketo Classic]auf **[!UICONTROL Admin]**.
+1. Klicken Sie in [!DNL Marketo Classic] auf **[!UICONTROL Admin]**.
 
    ![Bild eins](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-1.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![Bild drei](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. Die ausgewählten Rollen können nun [!DNL Marketo Sky] über die Kachel in ihrem **[!UICONTROL My Marketo]** zugreifen.
+1. Die ausgewählten Rollen können nun über die Kachel in ihrem **[!UICONTROL My Marketo]** auf [!DNL Marketo Sky] zugreifen.
 
    ![Bild vier](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
