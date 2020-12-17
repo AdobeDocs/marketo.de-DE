@@ -57,7 +57,7 @@ Suchfelder in SFDC synchronisieren die ID, nicht jedoch den referenzierten Namen
 
 ## Wie sieht es mit den SFDC-Formularfeldern aus? {#what-about-sfdc-formula-fields}
 
-Formularfelder werden synchronisiert, allerdings werden Aktualisierungen der Verweise in der Formel erst synchronisiert, wenn ein [System Mod Stamp](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US)aktualisiert wurde.
+Formularfelder werden synchronisiert, allerdings werden Aktualisierungen der Verweise in der Formel erst synchronisiert, wenn ein Update auf einen [System Mod Stamp](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US) durchgeführt wird.
 
 ## Was passiert, wenn ich ein Feld aus Salesforce lösche, das zuvor mit Marketo synchronisiert wurde? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
