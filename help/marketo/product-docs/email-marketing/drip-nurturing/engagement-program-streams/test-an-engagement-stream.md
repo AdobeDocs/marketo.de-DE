@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Interaktions-Stream testen {#test-an-engagement-stream}
+# Testen eines Interaktionsstreams {#test-an-engagement-stream}
 
 Nachdem Sie den gesamten Inhalt zu einem Stream hinzugefügt haben, können Sie ihn nacheinander testen.
 
@@ -37,12 +37,12 @@ Nachdem Sie den gesamten Inhalt zu einem Stream hinzugefügt haben, können Sie 
 
    >[!TIP]
    >
-   >Wenn die gesuchte Testperson nicht vorhanden ist, verwenden Sie die Option &quot;Person **erstellen** &quot;, um eine Person spontan zu erstellen.
+   >Wenn die gesuchte Testperson nicht vorhanden ist, verwenden Sie die Option **Person erstellen**, um eine Person spontan zu erstellen.
 
    Klicken Sie auf &quot;Ursprünglicher Stream&quot;, wählen Sie den zu testenden Stream aus und klicken Sie auf &quot;Beschneiden ausführen&quot;.
    ![](assets/five-rubiks.png)
 
-1. Nachdem der Benutzer die zuvor eingerichteten [Transitionen](transition-people-between-engagement-streams.md) durchlaufen hat, klicken Sie auf das Symbol &quot;Aktualisieren&quot;.
+1. Wenn die Person die zuvor eingerichteten [Transitionen](transition-people-between-engagement-streams.md) durchläuft, klicken Sie auf das Symbol Aktualisieren.
 
    ![](assets/six-rubiks.png)
 
