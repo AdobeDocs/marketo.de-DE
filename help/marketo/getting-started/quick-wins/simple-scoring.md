@@ -19,13 +19,13 @@ ht-degree: 0%
 >* [Landingpage mit einem Formular](landing-page-with-a-form.md)
 
 
-## Schritt 1: Erstellen einer Kampagne zur Bewertung {#step-create-a-scoring-campaign}
+## Schritt 1: Erstellen einer bewerteten Kampagne {#step-create-a-scoring-campaign}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/ma-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner **Learning** und dann auf **New Campaign Folder**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner **Lernen** und klicken Sie auf **Neuer Kampagnenordner**.
 
    ![](assets/two-2.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
    >
    >Wenn Sie bereits über einen Scoring-Ordner verfügen, geben Sie diesem einen anderen Namen, z. B. Scoring 1. Ordnernamen müssen eindeutig sein.
 
-1. Klicken Sie dann mit der rechten Maustaste auf den neuen **Scoring** -Ordner und wählen Sie **Neue Smart-Kampagne**.
+1. Klicken Sie dann mit der rechten Maustaste auf den neuen Ordner **Scoring** und wählen Sie **Neue Smart-Kampagne**.
 
    ![](assets/four.png)
 
-1. **Benennen** Sie die Kampagne &quot;Ergebnis ändern&quot;und klicken Sie auf **Erstellen**.
+1. **Benennen Sie** die Kampagne &quot;Change Score&quot;und klicken Sie auf  **Create**.
 
    ![](assets/five-1.png)
 
-1. Klicken Sie auf die Registerkarte **Intelligente Liste** .
+1. Klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/six-1.png)
 
-   Wir möchten, dass diese Kampagne immer dann ausgeführt wird, wenn eine Person Ihr **Testanforderungsformular** ausfüllt.
+   Diese Kampagne soll immer dann ausgeführt werden, wenn ein Benutzer das **Testanforderungsformular** ausfüllt.
 
-1. Ziehen Sie den Auslöser &quot;Formular **ausfüllen** &quot;auf die linke Arbeitsfläche.
+1. Suchen Sie den Auslöser **Ausfüllen des Formulars** und ziehen Sie ihn auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -63,27 +63,27 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Klicken Sie auf die Registerkarte **Fluss** .
+1. Klicken Sie auf die Registerkarte **Fluss**.
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
-1. Ziehen Sie die Aktion &quot; **Score** ändern&quot;auf die linke Arbeitsfläche.
+1. Ziehen Sie die Aktion **Wert ändern** auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. Sie können einen beliebigen Wert eingeben, der dem Ergebnis der Person hinzugefügt werden soll. Geben Sie &quot;+5&quot;in das Feld **Ändern** ein.
+1. Sie können einen beliebigen Wert eingeben, der dem Ergebnis der Person hinzugefügt werden soll. Geben Sie &quot;+5&quot;in das Feld **Change** ein.
 
    ![](assets/eleven-1.png)
 
    >[!TIP]
    >
-   >Gute Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**den Leitfaden zur Interessentenbewertung**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Gute Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**Das endgültige Handbuch zur Interessentenauswertung**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
-1. Klicken Sie auf die Registerkarte **Plan** und dann auf die Schaltfläche **Aktivieren** .
+1. Klicken Sie auf die Registerkarte **Plan** und auf die Schaltfläche **Aktivieren**.
 
    ![](assets/twelve-1.png)
 
-1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren** .
+1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren**.
 
    ![](assets/thirteen-1.png)
 
@@ -93,11 +93,11 @@ ht-degree: 0%
 
 ## Schritt 2: Ausfüllen des Formulars {#step-fill-out-the-form}
 
-1. Wählen Sie die Landingpage aus, die Sie in der [Landingpage mit einem Schnellgewinn für das Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) erstellt haben.
+1. Wählen Sie die Landingpage aus, die Sie in der Landingpage [mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win erstellt haben.
 
    ![](assets/fourteen-1.png)
 
-1. Klicken Sie auf **Ansicht genehmigt Seite**. Die Landingpage wird in einer neuen Registerkarte geöffnet.
+1. Klicken Sie auf **Ansicht Genehmigte Seite**. Die Landingpage wird in einer neuen Registerkarte geöffnet.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
    >
    >Verwenden Sie denselben Namen und dieselbe E-Mail-Adresse, die Sie beim ersten Einstieg als Person verwendet haben, um die &quot;+5&quot;-Ergebniserhöhung anzuwenden.
 
-## Schritt 3: Ansicht der Benutzerinformationen {#step-view-the-person-info}
+## Schritt 3: Ansicht der Personeninfo {#step-view-the-person-info}
 
 1. Wechseln Sie zum Bereich &quot;Datenbank&quot;.
 
