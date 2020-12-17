@@ -21,29 +21,29 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei verschiedenen Mailbox-Anbie
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-## Eine Seedlist importieren {#import-a-seedlist}
+## Importieren einer Seedlist {#import-a-seedlist}
 
-1. Gehen Sie zu **Bereitstellungs-Tools**.
+1. Gehen Sie zu **Bereitstellbarkeitstools**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Inbox Informant**.
+1. Klicken Sie auf **Inbox-Informant**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf **Seedlist** abrufen.
+1. Klicken Sie auf **Get Seedlist**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf Liste **exportieren**.
+1. Klicken Sie auf **Liste exportieren**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Wählen Sie **Liste** optimieren, wenn Sie mit 250ok Ihre Liste [für Sie](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) optimieren möchten. Wählen Sie** Liste anpassen**, wenn Sie die gewünschten Listenbereiche auswählen möchten.
+   >Wählen Sie **Liste optimieren**, wenn Sie 250ok zu [Ihre Liste](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) optimieren möchten. Wählen Sie** Liste anpassen**, wenn Sie die gewünschten Listenbereiche auswählen möchten.
 
-1. Nach dem Exportieren wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie sie ab und [importieren](../../../getting-started/quick-wins/import-a-list-of-people.md) Sie sie als statische Liste in Ihre Marketo-Instanz.
+1. Nach dem Exportieren wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie es ab und [importieren](../../../getting-started/quick-wins/import-a-list-of-people.md) es als statische Liste in Ihre Marketo-Instanz.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei verschiedenen Mailbox-Anbie
 
    >[!CAUTION]
    >
-   >Sie erhalten eine begrenzte Anzahl dieser Inbox-Informant-Kampagnen pro Monat. Sehen Sie sich Ihre 250ok **Kontoeinstellungen** an, um zu sehen, wie viele Sie erhalten. Für weitere Informationen wenden Sie sich bitte an Ihren Marketing-Vertriebsmitarbeiter.
+   >Sie erhalten eine begrenzte Anzahl dieser Inbox-Informant-Kampagnen pro Monat. Um zu sehen, wie viele Sie erhalten, sehen Sie sich Ihre 250ok **Kontoeinstellungen** an. Für weitere Informationen wenden Sie sich bitte an Ihren Marketing-Vertriebsmitarbeiter.
 
 ## Neue Seedlists abrufen {#acquiring-new-seedlists}
 
