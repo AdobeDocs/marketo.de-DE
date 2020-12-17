@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Glossar &quot;Tastaturbefehle&quot; {#keyboard-shortcuts-glossary}
+# Glossar {#keyboard-shortcuts-glossary} für Tastaturbefehle
 
 Sind Sie ein Tastenkürzel? Wir haben dich abgedeckt!
 
