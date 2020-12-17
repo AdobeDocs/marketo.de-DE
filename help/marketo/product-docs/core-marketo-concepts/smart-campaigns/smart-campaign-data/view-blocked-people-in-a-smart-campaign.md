@@ -19,13 +19,13 @@ Blockierte Personen in der Marketo-Datenbank werden als auf die Blockierungslist
 >
 >Marketo ist dabei, Begriffe wie Blacklist und Whitelist in Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf **Plan**. Klicken Sie unter **Smart Liste Status** auf den zweiten Link.
+1. Klicken Sie in Ihrer intelligenten Kampagne auf **Plan**. Klicken Sie unter **Status der intelligenten Liste** auf den zweiten Link.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch vom Empfang von E-Mails ausgeschlossen werden. Erfahren Sie, wie Sie die Kommunikationsbeschränkungen [im Abschnitt &quot;Admin&quot;](../../../../product-docs/administration/email-setup/enable-communication-limits.md) bearbeiten.
+   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch vom Empfang von E-Mails ausgeschlossen werden. Erfahren Sie, wie Sie die Kommunikationsbeschränkungen [im Abschnitt &quot;Admin&quot;bearbeiten.](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
    Auf der Registerkarte &quot;Blockierte Personen&quot;werden Personen angezeigt, die keine Mails erhalten.
 
