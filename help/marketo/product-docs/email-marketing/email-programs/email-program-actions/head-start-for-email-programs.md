@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Beginn für E-Mail-Programme {#head-start-for-email-programs}
+# Head-Beginn für E-Mail-Programm {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, wird festge
    >
    >Head-Beginn kann nicht mit A/B-Tests verwendet werden.
 
-1. Planen Sie in der Kachel Plan die E-Mail und wählen Sie dann das Feld **Head Beginn** .
+1. Planen Sie in der Kachel Plan Ihre E-Mail und wählen Sie dann das Feld **Überschrift Beginn**.
 
    ![](assets/three-1.png)
 
@@ -47,20 +47,20 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, wird festge
    >
    >Jeder von Ihrer Audience, der sich nach dem Sperren des Programms abmeldet, erhält die E-Mail noch. Es wird empfohlen, die Benachrichtigung zum Abbestellen des Abonnements so anzupassen, dass die Verarbeitung von Abbestellungen 1-2 Werktage dauern kann.
 
-1. Klicken Sie auf Programm **genehmigen**.
+1. Klicken Sie auf **Programm genehmigen**.
 
    ![](assets/four-1.png)
 
    Nach der Genehmigung durch das Programm befinden sich vier verschiedene Statusangaben auf der Genehmigungskachel.
 
-   * **Warten auf Ausführung:** Nach Genehmigung des Programms.
-   * **Die Verarbeitung wurde gestartet und wartet auf die Ausführung:** Die Verarbeitung wird ausgeführt.
-   * **Verarbeitung abgeschlossen, die Ausführung wartet:** Verarbeitung abgeschlossen, E-Mail wartet nun auf geplante Startzeit.
-   * **Fertig:** Programm abgeschlossen.
+   * **Warten auf Ausführung:** Nachdem das Programm genehmigt wurde.
+   * **Verarbeitung gestartet und wartet auf Ausführung:** Verarbeitung wird ausgeführt.
+   * **Verarbeitung abgeschlossen, auf Ausführung warten:** Verarbeitung abgeschlossen, E-Mail wartet jetzt auf geplante Zeit zum Starten.
+   * **Fertig gestellt:** Programm abgeschlossen.
 
    >[!TIP]
    >
-   >Möchten Sie den Vorgang abbrechen, nachdem das Programm gesperrt wurde, aber bevor die E-Mail gesendet wird? Kein Problem! Klicken Sie einfach rechts unten auf der Genehmigungskachel auf Programm **** abbrechen.
+   >Möchten Sie den Vorgang abbrechen, nachdem das Programm gesperrt wurde, aber bevor die E-Mail gesendet wird? Kein Problem! Klicken Sie einfach unten rechts in der Genehmigungskachel auf **Programm abbrechen**.
 
    >[!NOTE]
    >
@@ -68,13 +68,13 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, wird festge
 
 ## Head-Beginn mit Empfänger-Zeitzone {#head-start-with-recipient-time-zone}
 
-Für unsere bestehende Kopfzeilenfunktion ist es erforderlich, dass das Programm mindestens 12 Stunden im Voraus geplant wird. Was bedeutet das für die Zeitzone des Empfängers? Denken Sie daran, dass, wenn die Zeitzone des Empfängers aktiv ist, wir Beginn das E-Mail-Programm um Mitternacht in der frühesten Zeitzone (UTC +14:00) ausführen. Um also **sowohl** Head-Beginn als auch Empfänger-Zeitzone zu aktivieren, müssen Programme **mindestens 12 Stunden vor der frühesten Zeitzone geplant werden (UTC +14:00**).
+Für unsere bestehende Kopfzeilenfunktion ist es erforderlich, dass das Programm mindestens 12 Stunden im Voraus geplant wird. Was bedeutet das für die Zeitzone des Empfängers? Denken Sie daran, dass, wenn die Zeitzone des Empfängers aktiv ist, wir Beginn das E-Mail-Programm um Mitternacht in der frühesten Zeitzone (UTC +14:00) ausführen. Um **beide** Überschrift- und Empfänger-Zeitzone zu aktivieren, müssen Programm daher mindestens 12 Stunden vor der frühesten Zeitzone geplant werden (UTC +14:00 **).**
 
-Wenn Sie also in Amerika/Los Angeles sind und sowohl Head-Beginn als auch Empfänger-Zeitzone aktivieren möchten, müssen Sie das Programm **34 Stunden** im Voraus planen. Wie sind wir zu dieser Zahl gekommen?
+Das bedeutet, dass Sie, wenn Sie in Amerika/Los Angeles sind und sowohl Head-Beginn als auch Empfänger-Zeitzone aktivieren möchten, das Programm **34 Stunden** im Voraus planen müssen. Wie sind wir zu dieser Zahl gekommen?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Erfahren Sie mehr](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) darüber, wie Sie E-Mail-Programm mit der Zeitzone des Empfängers planen.
+[Erfahren Sie ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mehr darüber, wie Sie E-Mail-Programm mit der Zeitzone des Empfängers planen.
 
 >[!NOTE]
 >
