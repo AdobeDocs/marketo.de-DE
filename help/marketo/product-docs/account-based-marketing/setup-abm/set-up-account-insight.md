@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Kontoinsight einrichten {#set-up-account-insight}
+# Einrichten von Account Insight {#set-up-account-insight}
 
 So richten Sie Account Insight ein.
 
 >[!PREREQUISITES]
 >
->Der Wert für ABM-Konten [muss zuerst konfiguriert](http://docs.marketo.com/display/DOCS/Account+Score) werden.
+>Das ABM-Kontoergebnis [muss zuerst konfiguriert werden.](http://docs.marketo.com/display/DOCS/Account+Score)
 
 1. Klicken Sie auf **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klicken Sie in der Struktur auf **ABM** und dann auf die Registerkarte **ABM Sales** .
+1. Klicken Sie in der Struktur auf **ABM** und dann auf die Registerkarte **ABM Sales**.
 
    ![](assets/two-5.png)
 
