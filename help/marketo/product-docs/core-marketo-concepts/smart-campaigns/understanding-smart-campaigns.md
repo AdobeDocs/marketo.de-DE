@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Wenn Marketo ein leistungsstarkes Auto ist, dann ist die intelligente Kampagne wirklich der Motor. Es ist einfach, loszulegen, aber man kann fast alles tun, was man von ihm verlangt.
 
-Die intelligente Kampagne umfasst drei Hauptbereiche: Die Registerkarten [Smart-Liste](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Fluss](http://docs.marketo.com/display/DOCS/Flow+Actions) und [Zeitplan](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) .
+Die intelligente Kampagne umfasst drei Hauptbereiche: Die Registerkarten [Intelligente Liste](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Fluss](http://docs.marketo.com/display/DOCS/Flow+Actions) und [Plan](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
 ## Intelligente Liste {#smart-list}
 
@@ -49,7 +49,7 @@ Sie können Filter auf verschiedene Weise kombinieren und sie gleichzeitig mit A
 
 Der Ablauf umfasst die Schritte, die die intelligente Kampagne durchführen soll, einschließlich Warteschritte und geteilte Auswahlmöglichkeiten.
 
-## Zeitplan {#schedule}
+## Plan {#schedule}
 
 Und schließlich steuert dies, wenn Sie Ihre intelligente Kampagne ausführen. Sie können die Wiederholung sogar so einrichten, dass sie nach einem sich wiederholenden Zeitplan ausgeführt wird.
 
