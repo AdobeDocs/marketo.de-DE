@@ -16,17 +16,17 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definieren einer Audience mit einer intelligenten Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definieren einer Audience mit einer intelligenten ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Wählen Sie eine vorhandene E-Mail](choose-an-existing-email.md) oder eine E-Mail für ein E-Mail-Programm [erstellen](create-an-email-for-an-email-program.md)
+* [Wählen Sie einen vorhandenen ](choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](create-an-email-for-an-email-program.md)
 
 >
 
 
 
-Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und E-Mail-Adresse ausgewählt haben, möchten Sie Ihrem Programm mitteilen, *wann* Sie die E-Mail senden möchten. So geht es.
+Wenn Ihr E-Mail-Programm erstellt, die Audience definiert und E-Mail ausgewählt ist, sollten Sie Ihrem Programm *mitteilen, wann* die E-Mail gesendet werden soll. So geht es.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -44,11 +44,11 @@ Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und E-Mail-Adresse
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Sie können auch die Funktionen [Empfänger Time Zone](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [Head Beginn](head-start-for-email-programs.md) verwenden.
+1. Sie können auch die Funktionen [Empfänger-Zeitzone](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [Überschrift-Beginn](head-start-for-email-programs.md) verwenden.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Wie einfach war das? Es bleibt nur noch, ein E-Mail-Programm [zu](approve-unapprove-an-email-program.md) genehmigen, und Sie können gerne gehen.
+   Wie einfach war das? Das einzige, was noch übrig ist, ist [Genehmigen Sie ein E-Mail-Programm](approve-unapprove-an-email-program.md) und Sie sind gut zu gehen.
 
 >[!NOTE]
 >
