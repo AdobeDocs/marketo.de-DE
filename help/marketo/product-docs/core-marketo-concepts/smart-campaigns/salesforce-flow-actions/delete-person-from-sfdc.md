@@ -23,11 +23,11 @@ Wenn Sie einen bestimmten Satz von Interessenten aus Salesforce entfernen, diese
 
    ![](assets/person-actions-salesforce.png)
 
-1. Wählen Sie &quot;Person aus dem **SFDC** löschen&quot;.
+1. Wählen Sie **Person aus dem SFDC** löschen.
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Vergewissern Sie sich, dass die Einstellung &quot; **Löschen in Marker** &quot; **false** lautet, und klicken Sie dann auf **&quot;Jetzt** ausführen&quot;.
+1. Vergewissern Sie sich, dass die Einstellung **In Marker löschen** **false** lautet, und klicken Sie dann auf **Jetzt ausführen**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,5 +35,5 @@ Wenn Sie einen bestimmten Satz von Interessenten aus Salesforce entfernen, diese
 
    >[!CAUTION]
    >
-   >Wenn Sie **Löschen in Marketo** auf **true** einstellen und die Leute aus Marketo und die Interessenten aus Salesforce löschen, sind sie für immer weg. Das kann nicht rückgängig gemacht werden.
+   >Wenn Sie **Löschen in Marketo** auf **true** setzen und die Personen aus Marketo und die Interessenten aus Salesforce löschen, sind sie für immer weg. Das kann nicht rückgängig gemacht werden.
 
