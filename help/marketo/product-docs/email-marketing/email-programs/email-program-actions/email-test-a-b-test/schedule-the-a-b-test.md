@@ -31,7 +31,7 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Gewinnerkr
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Wählen Sie die **Sendezeit** aus.
+1. Wählen Sie die Zeit **Test senden**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -39,7 +39,7 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Gewinnerkr
    >
    >Der Abstand zwischen &quot;Test senden&quot;und &quot;Gewinner senden&quot;muss mindestens 4 Stunden betragen. Bei größeren Sends sollten Sie jedoch 24 Stunden warten, um genügend Zeit zu haben, um gute Ergebnisse zu erzielen.
 
-1. Tun Sie dasselbe für **Gewinner** senden. Geben Sie Benachrichtigungs-Empfänger ein (optional) und klicken Sie auf **Weiter**.
+1. Funktioniert wie **Gewinner senden**. Geben Sie Benachrichtigungs-Empfänger ein (optional) und klicken Sie auf **Weiter**.
 
    >[!NOTE]
    >
@@ -52,12 +52,12 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Gewinnerkr
 
    >[!NOTE]
    >
-   >Wenn Sie sich dafür entschieden haben, einen Gewinner manuell zu ermitteln, definieren Sie das Datum/die Uhrzeit des **Berichtversands** anstelle des Datums/der Uhrzeit des **Abschlusses** der Versendung.
+   >Wenn Sie sich dafür entschieden haben, einen Gewinner manuell zu ermitteln, definieren Sie **Bericht senden** Datum/Uhrzeit anstelle von **Endversand** Datum/Uhrzeit.
 
    Super! Sie sind fertig, lesen Sie einfach die Zusammenfassung und klicken Sie auf Schließen.
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Die Kachel **Plan** wird jetzt aktualisiert.
+   Die Kachel **Plan** wurde jetzt aktualisiert.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
