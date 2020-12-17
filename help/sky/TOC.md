@@ -32,7 +32,7 @@ ht-degree: 0%
 + Design Studio {#design-studio}
    + [Assets mit Adobe Experience Manager importieren](importing-assets-with-adobe-experience-manager.md)
    + [Markieren in Bild-Editor](marketo-image-editor.md)
-+ Interaktions-Programme {#engagement-programs}
++ Interaktions-Programm {#engagement-programs}
    + [Stream-Inhalte aktivieren und deaktivieren](activate-and-deactivate-stream-content.md)
    + [hinzufügen eines Streams zu einem Interaktions-Programm](add-a-stream-to-an-engagement-program.md)
    + [hinzufügen von Inhalten in einen Interaktions-Stream](add-content-to-an-engagement-stream.md)
@@ -57,7 +57,7 @@ ht-degree: 0%
    + [hinzufügen und Entfernen von Bezeichnungen](add-and-remove-labels.md)
    + [Kopieren von Bezeichnungen von Original in Klon](copy-labels-from-original-to-clone.md)
    + [Kopieren von Beschriftungen von &quot;Übergeordnet&quot;in &quot;Untergeordnet&quot;](copy-labels-from-parent-to-child.md)
-+ Meine Token {#my-tokens}
++ Meine Tokens {#my-tokens}
    + [Meine Token-Ordner erstellen](create-my-token-folders.md)
    + [Meine Token-Aktionen: Bearbeiten, Löschen, Klonen und Kopieren von Token-Namen](my-token-actions-edit-delete-clone-and-copy-token-names.md)
    + [Mein Token: Kalenderdatei](my-token-calendar-file.md)
@@ -72,13 +72,13 @@ ht-degree: 0%
    + [Mein Token: Text](my-token-text.md)
    + [Überschreiben eines geerbten My-Tokens](override-an-inherited-my-token.md)
    + [My Tokens](understanding-my-tokens.md)
-+ Prognostizierende Audiencen {#predictive-audiences}
++ Prognostische Audiencen {#predictive-audiences}
    + [Erste Schritte mit Prognostischen Audiencen](getting-started-with-predictive-audiences.md)
    + [Prognostizierende Filter](predictive-filters.md)
    + [Erwartetes Verhalten](expected-behavior.md)
    + [Modellgesundheit und Datenvalidierung](model-health-and-data-validity.md)
    + [Erläuterung der Zielverfolgung und der geplanten Registrierungen](understanding-goal-tracking-and-projected-registrations.md)
-+ Programme {#programs}
++ Programm {#programs}
    + [Programm archivieren](archive-a-program.md)
    + [Neues Programm erstellen](create-a-new-program.md)
    + [Löschen eines Programms](delete-a-program.md)
@@ -94,7 +94,7 @@ ht-degree: 0%
    + [Löschen eines Eintrags in der Ansicht &quot;Programmplanung&quot;](delete-an-entry-in-program-schedule-view.md)
    + [Bearbeiten eines Eintrags in der Ansicht &quot;Programmplanung&quot;](edit-an-entry-in-program-schedule-view.md)
    + [Navigieren in der Ansicht der Programmplanung](navigating-program-schedule-view.md)
-+ Intelligente Kampagnen {#smart-campaigns}
++ Smart-Kampagnen {#smart-campaigns}
    + [Aktivieren/Deaktivieren einer auslösenden intelligenten Kampagne](activate-deactivate-a-trigger-smart-campaign.md)
    + [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](add-a-flow-step-to-a-smart-campaign.md)
    + [Kommunikationsbeschränkungen auf intelligente Kampagnen anwenden](apply-communication-limits-to-a-smart-campaign.md)
@@ -118,7 +118,7 @@ ht-degree: 0%
 + Intelligente Listen und statische Listen {#smart-lists-and-static-lists}
    + [Speichern von Flussaktionen](save-flow-actions.md)
    + [Intelligente Listen speichern](save-smart-list-rules.md)
-+ Baum {#tree}
++ Tree {#tree}
    + [Konfigurieren des Baums](configuring-the-tree.md)
    + [Symbole in der Struktur](understanding-icons-in-the-tree.md)
    + [Filter zum Sortieren der Struktur verwenden](use-filters-to-sort-the-tree.md)
