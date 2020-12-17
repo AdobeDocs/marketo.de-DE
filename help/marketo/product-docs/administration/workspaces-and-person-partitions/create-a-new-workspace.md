@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Neue Arbeitsfläche erstellen {#create-a-new-workspace}
+# Neue Arbeitsfläche {#create-a-new-workspace} erstellen
 
 Arbeitsbereiche sind hilfreich, um Ihre Firma zu unterteilen. Gründe für die Einrichtung von Arbeitsbereichen sind unter anderem:
 
@@ -28,11 +28,11 @@ So erstellen Sie einen neuen Arbeitsbereich.
 >
 >**Tieftauchen**
 >
->Machen Sie sich mit [Arbeitsbereichen und Benutzerpartitionen](understanding-workspaces-and-person-partitions.md)vertraut.
+>Verstehen Sie zuerst mit [Die Arbeitsbereiche und die Benutzerpartitionen](understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Weitere Informationen zu den Best Practices von Workspace erhalten Sie bei [Marketing Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>Weitere Informationen zu den Best Practices für Workspace erhalten Sie unter [Marketing Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
 
 1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
 
@@ -42,20 +42,20 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
    ![](assets/two-1.png)
 
-1. Geben Sie einen** Namen** ein und wählen Sie die **Benutzerpartition(en)** aus, die Sie verwenden möchten. Wählen Sie eine **Primär**-Personenpartition.
+1. Geben Sie einen** Namen** ein und wählen Sie die **Personenpartition(en)** aus, die Sie verwenden möchten. Wählen Sie eine **Primär Personale Partition**.
 
    >[!NOTE]
    >
    >**Erinnerung**
    >
    >
-   >Stellen Sie sicher, dass Sie [persönliche Partitionen](create-a-person-partition.md) erstellen, wenn Sie dies nicht bereits getan haben.
+   >Stellen Sie sicher, dass [Personenpartitionen](create-a-person-partition.md) erstellen, wenn Sie dies noch nicht getan haben.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Das Kontrollkästchen **Partitionen** aller Personen** **bedeutet, dass dieser Arbeitsbereich alle Partitionen der Person im System verwenden kann.
+   >Das Kontrollkästchen **Alle Benutzerpartitionen**** **bedeutet, dass dieser Arbeitsbereich alle Personenpartitionen im System verwenden kann.
 
    >[!NOTE]
    >
