@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Tags in einem Programm verwenden {#use-tags-in-a-program}
+# Tags in einem Programm {#use-tags-in-a-program} verwenden
 
 Tags sind Attribute, die Ihre Programm beschreiben und zur Gruppierung von Programm-Typen in Berichte verwendet werden.
 
-## Tag in einem Programm verwenden {#use-a-tag-in-a-program}
+## Tag in einem Programm {#use-a-tag-in-a-program} verwenden
 
 1. Wählen Sie Ihr Programm aus. Klicken Sie auf **Setup**.
 
@@ -37,9 +37,9 @@ Tags sind Attribute, die Ihre Programm beschreiben und zur Gruppierung von Progr
 
    ![](assets/image2014-9-23-15-3a45-3a47.png)
 
-## Tag bearbeiten {#edit-a-tag}
+## Tag {#edit-a-tag} bearbeiten
 
-1. Gehen Sie zur Registerkarte **Einstellungen** . Klicken Sie mit der rechten Maustaste auf das Tag. Wählen Sie **Bearbeiten**.
+1. Gehen Sie zur Registerkarte **Setup**. Klicken Sie mit der rechten Maustaste auf das Tag. Wählen Sie **Bearbeiten**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -55,9 +55,9 @@ Tags sind Attribute, die Ihre Programm beschreiben und zur Gruppierung von Progr
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Tag löschen  {#delete-a-tag}
+## Tag {#delete-a-tag} löschen
 
-1. Gehen Sie zur Registerkarte **Einstellungen** . Klicken Sie mit der rechten Maustaste auf das Tag und wählen Sie **Löschen**.
+1. Gehen Sie zur Registerkarte **Setup**. Klicken Sie mit der rechten Maustaste auf das Tag und wählen Sie **Löschen**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
