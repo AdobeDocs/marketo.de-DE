@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Zuweisen von Benutzerpartitionen zu Zuordnungsregeln {#assigning-person-partitions-with-assignment-rules}
+# Zuweisen von Benutzerpartitionen zu Zuweisungsregeln {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Richten Sie bei der Verwendung von Personenpartitionen Zuweisungsregeln ein, um 
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Klicken Sie unter der Registerkarte **Personale Partitionen **auf **Zuordnungsregeln**.
+1. Klicken Sie unter der Registerkarte **Personale Partitionen **auf **Zuweisungsregeln**.
 
    ![](assets/two-6.png)
 
