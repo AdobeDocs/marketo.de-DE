@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Abbrechen eines geplanten Wiederholungsstapel-Kampagne-Ausführung {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Abbrechen einer geplanten, wiederkehrenden Batch-Kampagne, die ausgeführt wird {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen, können Sie die zukünftigen Ausführung abbrechen. So geht es.
 
-1. Klicken Sie auf die intelligente Kampagne und dann auf die Registerkarte **Plan** .
+1. Klicken Sie auf die intelligente Kampagne und dann auf die Registerkarte **Plan**.
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Klicken Sie auf **Vorläufige** **Wiederholung**.
+1. Klicken Sie auf **Plan** **Wiederholung**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >Sie können einen einzelnen Run stornieren, indem Sie auf ![-](assets/image2014-9-22-16-3a45-3a42.png) - daneben klicken. Erfahren Sie, wie Sie eine geplante Batch-Kampagne [abbrechen](cancel-a-scheduled-batch-campaign-run.md).
+   >Sie können einen einzelnen Ausführen abbrechen, indem Sie auf ![—](assets/image2014-9-22-16-3a45-3a42.png) neben dem Befehl klicken. Hier erfahren Sie, wie Sie eine geplante Batch-Kampagne abbrechen, die ausgeführt wird.[](cancel-a-scheduled-batch-campaign-run.md)
 
 1. Setzen Sie Plan auf **Keine** und dann **Speichern**.
 
