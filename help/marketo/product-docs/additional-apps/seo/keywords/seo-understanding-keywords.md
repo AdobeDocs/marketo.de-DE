@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Einführung zu Suchbegriffen {#seo-understanding-keywords}
+# SEO - Die Suchbegriffe {#seo-understanding-keywords}
 
 Suchbegriffe sind das Rückgrat Ihrer SEO-Strategie. Ihr Ziel ist es, auf der ersten Seite so nah wie möglich an #1 für Suchbegriffe zu sein, die für Ihr Unternehmen relevant sind.
 
-Der Abschnitt &quot;Suchbegriffe&quot;zeigt Ihnen, wie erfolgreich Ihre Site dabei ist, dies zu erreichen, und wie Sie [Ihre Konkurrenz gestapelt haben.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+Der Abschnitt &quot;Suchbegriffe&quot;zeigt Ihnen, wie erfolgreich Ihre Site dabei ist, dies zu erreichen, und wie Sie bis zu [Ihre Konkurrenz stapeln.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
 
 ## Suchbegriffe - Ansicht der Zusammenfassung {#keywords-summary-view}
 
@@ -35,7 +35,7 @@ Der Abschnitt &quot;Suchbegriffe&quot;zeigt Ihnen, wie erfolgreich Ihre Site dab
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Rang und Trend</td> 
-   <td colspan="1" rowspan="1"><p>Der Rang Ihrer Site für diesen Suchbegriff. Pfeile zeigen, wie der Suchbegriffrang im Vergleich zur Vorwoche aussieht </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = Rang nach oben</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = nach unten</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= Rang gleich</p></td> 
+   <td colspan="1" rowspan="1"><p>Der Rang Ihrer Site für diesen Suchbegriff. Pfeile zeigen, wie der Suchbegriffrang im Vergleich zur Vorwoche aussieht </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = Rang nach oben</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = nach unten</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= Rang gleich</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Wettbewerbsebene</td> 
@@ -52,7 +52,7 @@ Der Abschnitt &quot;Suchbegriffe&quot;zeigt Ihnen, wie erfolgreich Ihre Site dab
  </tbody> 
 </table>
 
-## Suchbegriffe - Ansicht des Konkurrenten {#keywords-competitor-view}
+## Suchbegriffe - Konkurrent-Ansicht {#keywords-competitor-view}
 
 Sie können auch die Performance Ihrer Konkurrent mit denselben Metriken bewerten, indem Sie auf die Dropdown-Liste &quot;Ansicht&quot;klicken und Konkurrent auswählen.
 
