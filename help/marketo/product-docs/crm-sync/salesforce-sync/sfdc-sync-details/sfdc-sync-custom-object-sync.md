@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC-Synchronisierung: Eigene Objektsynchronisierung {#sfdc-sync-custom-object-sync}
+# SFDC-Synchronisierung: Benutzerdefinierte Objektsynchronisierung {#sfdc-sync-custom-object-sync}
 
 Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, können auch Teil von Marketo sein.  So richten Sie es ein:
 
@@ -21,19 +21,19 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 >[!PREREQUISITES]
 >
->Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [Interessenten](sfdc-sync-lead-sync.md)-, [](sfdc-sync-contact-sync.md)Schützen- [](sfdc-sync-account-sync.md)Konto in Salesforce verknüpft sein.
+>Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [lead](sfdc-sync-lead-sync.md)-, [contact](sfdc-sync-contact-sync.md)- oder [account](sfdc-sync-account-sync.md)-Objekt in Salesforce verknüpft sein.
 
-## Benutzerdefiniertes Objekt aktivieren  {#enable-custom-object}
+## Benutzerdefiniertes Objekt {#enable-custom-object} aktivieren
 
-1. Klicken Sie auf **Admin** und den **Link** zur Synchronisierung von Salesforce-Objekten.****
+1. Klicken Sie auf **Admin** und auf den Link** Salesforce-Objekte synchronisieren **link**.***
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Wenn dies Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf Schema **synchronisieren.**
+1. Wenn dies Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf **Schema synchronisieren.**
 
    ![](assets/rtaimage-2.png)
 
-1. Klicken Sie auf Globale Synchronisierung **deaktivieren.**
+1. Klicken Sie auf **Globale Synchronisierung deaktivieren.**
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -51,11 +51,11 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
    >
    >Benutzerdefinierte Objekte müssen eindeutige Namen haben. Marketo unterstützt nicht zwei verschiedene benutzerdefinierte Objekte mit demselben Namen.
 
-1. Klicken Sie auf Synchronisierung **aktivieren.**
+1. Klicken Sie auf **Synchronisierung aktivieren.**
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Klicken Sie erneut auf Synchronisierung **aktivieren** .
+1. Klicken Sie erneut auf **Synchronisierung aktivieren**.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -70,11 +70,11 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Klicken Sie auf Synchronisierung **aktivieren.**
+1. Klicken Sie auf **Synchronisierung aktivieren.**
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Um alle Ihre Salesforce-Objekte Ansicht, klicken Sie auf den Link **Admin** und auf den Link** Salesforce-Objekte synchronisieren **(siehe oben Schritt 1).
+1. Um alle Ihre Salesforce-benutzerdefinierten Objekte Ansicht, klicken Sie auf **Admin** und auf den Link** Salesforce-Objekte synchronisieren **(siehe oben Schritt 1).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
