@@ -40,7 +40,7 @@ Die Registerkarte &quot;Seiten&quot;zeigt Ihnen, wie gut einzelne Seiten Ihrer S
 | Links | Anzahl der verschiedenen Domänen mit mindestens 1 Inbound-Link zu Ihrer Site. |
 | Zielgruppe Suchbegriffe | Die Suchbegriffe, für die Sie die einzelnen Seiten optimieren möchten. [Hierfür benötigen Sie Ihre Eingabe](seo-using-the-page-detail-drill-down.md). |
 
-## Registerkarte &quot;Probleme&quot; {#issues-tab}
+## Registerkarte &quot;Probleme&quot;{#issues-tab}
 
 Auf der Registerkarte &quot;Probleme&quot;werden die Verbesserungen angezeigt, die Sie vornehmen können, um Ihren Optimierungswert und Ihren Rang zu erhöhen.
 
