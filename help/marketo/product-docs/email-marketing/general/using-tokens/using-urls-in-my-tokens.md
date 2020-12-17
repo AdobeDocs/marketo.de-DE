@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden von URLs in &quot;Meine Token&quot; {#using-urls-in-my-tokens}
+# Verwenden von URLs in My Tokens {#using-urls-in-my-tokens}
 
 Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einzufügen.
 
@@ -19,7 +19,7 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
 
    ![](assets/one-4.png)
 
-1. Wählen Sie das Token &quot; **Text** - My&quot;, ziehen Sie es auf die Arbeitsfläche und legen Sie es dort ab.
+1. Wählen Sie das Token **Text** Mein Token aus, ziehen Sie es auf die Arbeitsfläche und legen Sie es dort ab.
 
    ![](assets/two-4.png)
 
@@ -29,13 +29,13 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
 
    >[!CAUTION]
    >
-   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, geben Sie **nicht** http:// in den Wert des Tokens ein.
+   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, geben Sie **nicht** in den Wert des Tokens http:// ein.
 
 1. Wählen Sie die E-Mail in Ihrem Programm aus.
 
    ![](assets/four-3.png)
 
-1. Klicken Sie auf Entwurf **bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/five-3.png)
 
@@ -51,7 +51,7 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
    >
    >Sie haben natürlich auch die Möglichkeit, &quot;https&quot; einzugeben, wenn Ihre Site es verwendet.
 
-1. Suchen Sie nach Ihrem My Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
+1. Suchen Sie Ihr My Token, wählen Sie es aus und klicken Sie auf **Insert**.
 
    ![](assets/eight.png)
 
