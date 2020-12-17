@@ -32,7 +32,7 @@ Ein spezialisierter Berater bietet Ihnen Folgendes:
 * Einrichtung und Aktivierung der dedizierten IP
 * Ein Check-in während der Aufwärmphase, um Ihren Erfolg zu unterstützen
 
-## Spezifisches IP-Ramp-Up {#dedicated-ip-ramp-up}
+## Spezifisches IP-Ramp nach oben {#dedicated-ip-ramp-up}
 
 Um die langfristige Lieferbarkeit zu maximieren, wurden im Angebot Deliverability Consultants Empfehlungen angepasst, um das Volumen der E-Mail-Kampagne auf Ihrer dedizierten IP langsam zu erhöhen. Wir nennen das &quot;Erwärmung Ihrer IP&quot;. Es ist Beginn kalt, und das Versenden von Post erwärmt es. Bei kalten IPs, die eine große Anzahl von E-Mails senden, werden die Übertragungsgeschwindigkeiten häufig gedrosselt und in der Regel als Spam kategorisiert.
 
@@ -40,9 +40,9 @@ Um die langfristige Lieferbarkeit zu maximieren, wurden im Angebot Deliverabilit
 
 >[!TIP]
 >
->Halten Sie Ihre Datenbank sauber, um Ihre Auslieferbarkeit hoch zu halten. [Für die Adobe ist es erforderlich](http://www.adobe.com/legal/terms/aup.html) , dass Kunden Marketingmitteilungen nur an Personen senden, die sich für den Erhalt von E-Mails entschieden haben bzw. diese erhalten haben. Kein Spam!
+>Halten Sie Ihre Datenbank sauber, um Ihre Auslieferbarkeit hoch zu halten. [Für die Adobe ](http://www.adobe.com/legal/terms/aup.html) ist es erforderlich, dass Kunden Marketingmitteilungen nur an Personen senden, die sich für den Erhalt von E-Mails entschieden haben. Kein Spam!
 
 >[!CAUTION]
 >
->Wenn Sie eine hohe Anzahl von Absprüngen oder andere Probleme sehen, wenden Sie sich an den [MarketingTo Support](http://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie mehr Unterstützung benötigen, um mehr über die Pflege einer sauberen Datenbank zu erfahren und die Interaktion mit Ihrem Programm zu steigern, können die E-Mail-Bereitstellungsberater von Marketing für ein Custom Services-Paket eingestellt werden.
+>Wenn Sie eine hohe Anzahl von Absprüngen oder andere Probleme sehen, wenden Sie sich an [Marketing Support](http://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie mehr Unterstützung benötigen, um mehr über die Pflege einer sauberen Datenbank zu erfahren und die Interaktion mit Ihrem Programm zu steigern, können die E-Mail-Bereitstellungsberater von Marketing für ein Custom Services-Paket eingestellt werden.
 
