@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ausführen eines einzelnen Flussschritts aus einer intelligenten Liste {#run-a-single-flow-step-from-a-smart-list}
+# Ausführen eines Einzelflussschritts von einer intelligenten Liste {#run-a-single-flow-step-from-a-smart-list}
 
 Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einzelnen Flussschritt innerhalb einer intelligenten Liste verwenden, anstatt eine ganze intelligente Kampagne zu erstellen.
 
@@ -27,7 +27,7 @@ Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einz
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie eine Liste oder intelligente Liste mit den darin enthaltenen Personen aus und gehen Sie dann zur Registerkarte &quot; **Personen** &quot;.
+1. Wählen Sie eine Liste oder eine intelligente Liste mit den darin enthaltenen Personen aus und gehen Sie dann zur Registerkarte **Personen**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -35,15 +35,15 @@ Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einz
    >
    >Diese Funktion ist sowohl für statische Listen als auch für intelligente Listen verfügbar.
 
-1. Klicken Sie auf Alle **auswählen**. Sie können auch die Strg-/Cmd-Taste** verwenden und dann klicken, um ein paar Datensätze manuell auszuwählen.
+1. Klicken Sie auf **Alle auswählen**. Sie können auch die Strg-/Cmd-Taste** verwenden und dann klicken, um ein paar Datensätze manuell auszuwählen.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Wenn sich die Ergebnisse über mehrere Seiten erstrecken, werden durch Klicken auf Alle **auswählen** alle Personen auf allen Seiten ausgewählt.
+   >Wenn sich die Ergebnisse über mehrere Seiten erstrecken, werden durch Klicken auf **Alle auswählen** alle Personen auf allen Seiten ausgewählt.
 
-1. Wählen Sie unter **Benutzerdefinierte** **Aktionen** den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [Datenwert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)ändern.
+1. Wählen Sie unter **Person** **Aktionen** den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [Datenwert ändern](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
@@ -51,11 +51,11 @@ Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einz
 
    ![](assets/runaction-hands.png)
 
-1. Geben Sie einen neuen Wert ein. Klicken Sie auf Jetzt **ausführen**.
+1. Geben Sie einen neuen Wert ein. Klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Wenn Sie Datenwerte für eine große Anzahl von Personen ändern, müssen Sie die Änderung möglicherweise bestätigen, indem Sie die Zahl eingeben. Klicken Sie auf **Los**.
+1. Wenn Sie Datenwerte für eine große Anzahl von Personen ändern, müssen Sie die Änderung möglicherweise bestätigen, indem Sie die Zahl eingeben. Klicken Sie auf **Gehen Sie zu**.
 
    ![](assets/changedatavalue.jpg)
 
