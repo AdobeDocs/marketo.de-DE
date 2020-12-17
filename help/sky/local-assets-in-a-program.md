@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpassbar und ermöglichen die Erstellung automatisierter Marketinginitiativen. Hier sehen Sie die meisten lokalen Assets, die Sie erstellen können [!DNL Marketo Sky].
+Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpassbar und ermöglichen die Erstellung automatisierter Marketinginitiativen. Im Folgenden werden die meisten lokalen Assets, die Sie in [!DNL Marketo Sky] erstellen können, vorgestellt.
 
 ![Bild eins](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
