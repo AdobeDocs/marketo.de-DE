@@ -39,7 +39,7 @@ Exportieren Sie alle Details und Analysen Ihrer Web-Kampagne in ein CSV-Format. 
 
 ## [Lokale Anpassung](http://docs.marketo.com/display/docs/web+personalization) {#localization}
 
-Die Apps &quot;Web-Personalisierung&quot;, &quot;Predictive Content&quot;und &quot;E-Mail Insights&quot;stehen jetzt in japanischer, deutscher und spanischer Sprache zur Verfügung. Sie [wählen Sprache und Gebietsschema](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aus, um Ihre Inhalte in diesen Sprachen Ansicht.
+Die Apps &quot;Web-Personalisierung&quot;, &quot;Predictive Content&quot;und &quot;E-Mail Insights&quot;stehen jetzt in japanischer, deutscher und spanischer Sprache zur Verfügung. Wählen Sie [Sprache und Gebietsschema](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aus, um Ihre Inhalte in diesen Sprachen Ansicht.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -57,7 +57,7 @@ Verwenden Sie die Liste &quot;Benanntes Konto&quot;oder &quot;Konto&quot;als Dim
 
 ![](assets/ei.png)
 
-## Verbesserungen bei Predictive Content {#predictive-content-enhancements}
+## Prognostische Inhaltsverbesserungen {#predictive-content-enhancements}
 
 **[Nach aktivierter Quelle filtern](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
