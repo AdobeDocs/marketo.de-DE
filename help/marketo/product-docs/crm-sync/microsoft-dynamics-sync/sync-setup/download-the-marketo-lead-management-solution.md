@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Laden Sie die Marketing-Interessentenverwaltungslösung herunter {#download-the-marketo-lead-management-solution}
+# Laden Sie die Marketing-Interessentenverwaltungslösung {#download-the-marketo-lead-management-solution} herunter.
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
 >[!CAUTION]
 >
->Sie müssen unbedingt die neueste Marketing-Lösung herunterladen, *bevor* Sie ein Upgrade durchführen.
+>Sie müssen unbedingt die neueste Marketing-Lösung *herunterladen, bevor Sie eine Aktualisierung durchführen.*
 
 >[!NOTE]
 >
 >Marketo unterstützt derzeit nur SSL-Zertifikate, die mit Java 7 kompatibel sind.
 
-1. Gehen Sie zum **Admin** -Bereich.
+1. Gehen Sie zum Bereich **Admin**.
 
    ![](assets/admin.png)
 
@@ -39,7 +39,7 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Wählen Sie Marketing- **Lösung** herunterladen.
+1. Wählen Sie **Marketing-Lösung herunterladen**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
