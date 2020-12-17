@@ -21,7 +21,7 @@ Sie können auch herausfinden, wie Sie mit dem Abschnitt Recommendations verbess
 
 ## Probleme mit der Optimierung der obersten Seite {#top-page-optimization-issues}
 
-Dies zeigt Ihnen fünf Möglichkeiten, Ihre Site sofort zu optimieren, um Beginn mit hoher Wirkung zu machen! Klicken Sie einfach auf einen der Links, um die vollständige [Seitendetails-Drilldown](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)Ansicht.
+Dies zeigt Ihnen fünf Möglichkeiten, Ihre Site sofort zu optimieren, um Beginn mit hoher Wirkung zu machen! Klicken Sie einfach auf einen der Links, um den vollständigen [Seitendruck unter](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) Ansicht.
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ Dies zeigt Ihnen fünf Möglichkeiten, Ihre Site sofort zu optimieren, um Beginn
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## Top-Link-Angebote {#top-link-opportunities}
+## Top-Link-Möglichkeiten {#top-link-opportunities}
 
 Die Verknüpfung von seriösen Sites mit Ihren Inhalten kann das Ranking Ihrer Seite erhöhen. Hier sind einige der Möglichkeiten mit der höchsten Priorität, die wir für Ihre Site gefunden haben.
 
