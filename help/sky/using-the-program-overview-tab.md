@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Die Registerkarte &quot; [!UICONTROL Programm-Übersicht] &quot;enthält drei Abschnitte: **[!UICONTROL Details]**, **[!UICONTROL Zeitplan]** und **[!UICONTROL Berichte]**. Hier ist ein kurzer Blick auf jeden.
+Es gibt drei Bereiche unter der Registerkarte [!UICONTROL Programm-Übersicht]: **[!UICONTROL Details]**, **[!UICONTROL Plan]** und **[!UICONTROL Berichte]**. Hier ist ein kurzer Blick auf jeden.
 
 ## Details
 
@@ -22,7 +22,7 @@ Auf der Hauptseite mit den Details werden allgemeine Informationen zu Ihrem Prog
 
 ![Bild eins](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Am Ende der Seite befinden sich zwei Abschnitte: **[!UICONTROL Programm Stats]** und **[!UICONTROL Verwendung durch]**. **[!UICONTROL Programm Stats]** zeigt wichtige Metriken zur Performance von Programmen an. **[!UICONTROL Used By]** ist eine einfache Möglichkeit, zu erkennen, wo Ihr Programm in Marketing verwendet wird.
+Am Ende der Seite befinden sich zwei Abschnitte: **[!UICONTROL Programm Stats]** und **[!UICONTROL wird von]** verwendet. **[!UICONTROL Programm]** Statszeigt wichtige Metriken zur Leistung von Programmen an.  **[!UICONTROL Verwenden Sie]** Byis, um leicht zu erkennen, wo Ihr Programm in Marketo verwendet wird.
 
 ![Bild zwei](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ Die Programmplanung Ansicht ist eine leistungsstarke Funktion, mit der Sie Eintr
 
 **Tieftauchen**
 
-* Erfahren Sie, wie Sie die Programmplanung-Ansicht [verwenden](/help/sky/navigating-program-schedule-view.md).
+* Erfahren Sie, wie Sie [die Programmplanung-Ansicht](/help/sky/navigating-program-schedule-view.md) verwenden.
 
 ## Berichte
 
-Auf der Registerkarte &quot; [!UICONTROL Berichte] &quot;werden wichtige Metriken zur Leistung Ihres Programms angezeigt, einschließlich Trends und Mitgliedschaftsstatistiken.
+Die Registerkarte [!UICONTROL Berichte] zeigt wichtige Metriken zur Leistung Ihres Programms, einschließlich Trends und Mitgliedschaftsstatistiken.
 
 ![Bild vier](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
