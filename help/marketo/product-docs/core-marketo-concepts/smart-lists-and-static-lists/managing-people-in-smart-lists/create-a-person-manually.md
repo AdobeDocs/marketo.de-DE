@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Manuelles Erstellen einer Person {#create-a-person-manually}
+# Eine Person manuell erstellen {#create-a-person-manually}
 
 Es gibt viele Möglichkeiten, eine Person nach Marketo zu bringen. Wenn Sie eine manuell erstellen müssen, hier sehen Sie, wie man es macht.
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/db-1.png)
 
@@ -23,7 +23,7 @@ Es gibt viele Möglichkeiten, eine Person nach Marketo zu bringen. Wenn Sie eine
 
    ![](assets/two-2.png)
 
-1. Geben Sie die Daten der Person ein und klicken Sie dann auf **Erstellen**.
+1. Geben Sie die Angaben der Person ein und klicken Sie dann auf **Erstellen**.
 
    ![](assets/three-2.png)
 
