@@ -25,7 +25,7 @@ Personen- und Firmen-Token, die in E-Mails verwendet werden, aktivieren/deaktivi
 >
 >Durch die Kodierung werden Zeichen in ihre HTML-Codeversionen konvertiert, um Verwirrung zu vermeiden (z. &quot;&amp;&quot;wird in &quot;&amp;&quot;geändert. Weitere Informationen erhalten Sie von Ihrem Webentwickler.
 
-1. Gehe zu **Admin**.
+1. Gehen Sie zu **Admin**.
 
    ![](assets/admin.png)
 
@@ -37,7 +37,7 @@ Personen- und Firmen-Token, die in E-Mails verwendet werden, aktivieren/deaktivi
 
    ![](assets/five.png)
 
-1. Markieren Sie das Feld **HTML-Kodierungstoken in E-Mails** , um die Option zu aktivieren, deaktivieren Sie sie.
+1. Markieren Sie das Kontrollkästchen **HTML-Kodierungstoken in E-Mails**, um die Option zu deaktivieren.
 
    ![](assets/six.png)
 
