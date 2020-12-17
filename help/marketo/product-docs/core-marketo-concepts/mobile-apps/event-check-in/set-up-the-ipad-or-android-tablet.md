@@ -33,7 +33,7 @@ Wenn auf Ihrem iPad die Marketing Ereignisses-App noch nicht installiert ist, er
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. Geben Sie in das Suchfeld **Marketo** und in Vorschläge auf **Markieren** ein.
+1. Geben Sie im Suchfeld **Marketo** und in Vorschläge **marketo-Ereignis** ein.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
@@ -44,14 +44,14 @@ Wenn auf Ihrem iPad die Marketing Ereignisses-App noch nicht installiert ist, er
 Wenn auf Ihrem Android-Tablet die Marketing Ereignisses-App noch nicht installiert ist, erhalten Sie hier eine Anleitung.
 
 1. Öffnen Sie Ihr Tablet und tippen Sie auf die App** Google Play Store*.
-1. Geben Sie in das Feld &quot;Suchen&quot; **Markieren** ein und tippen Sie auf **Zurück**.
-1. Tippen Sie in den Suchergebnissen auf die App &quot; **Marketing-Ereignis** &quot;.
+1. Geben Sie im Feld Suchen **Markieren** ein und tippen Sie auf **Rückgabe**.
+1. Tippen Sie in den Suchergebnissen auf die App **Marketing-Ereignis**.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
 1. Befolgen Sie die Anweisungen zum Herunterladen und Installieren der App auf Ihrem Tablet.
 
-## Anmeldeberechtigungen für iPad- und Tablet-Benutzer bestätigen {#confirm-login-credentials-for-ipad-and-tablet-users}
+## Anmeldedaten für iPad- und Tablet-Benutzer bestätigen {#confirm-login-credentials-for-ipad-and-tablet-users}
 
 Vergewissern Sie sich, dass die Anmeldeinformationen, die Sie verwenden, ordnungsgemäß funktionieren und dass Ihr Ereignis auf dem Startbildschirm der App angezeigt wird, bevor Sie iPads oder Tablets zu den Mitarbeitern der Fachmesse zuweisen.
 
@@ -62,9 +62,9 @@ Vergewissern Sie sich, dass die Anmeldeinformationen, die Sie verwenden, ordnung
 
    >[!NOTE]
    >
-   >Es kann einige Minuten nach dem Erstellen eines neuen Ereignisses dauern, bis es in der iPad- oder Tablet-App angezeigt wird. Wenn sie nicht angezeigt wird, tippen Sie auf dem Startbildschirm auf **Abmelden** , warten Sie einige Minuten und melden Sie sich dann erneut an.
+   >Es kann einige Minuten nach dem Erstellen eines neuen Ereignisses dauern, bis es in der iPad- oder Tablet-App angezeigt wird. Wenn sie nicht angezeigt wird, tippen Sie auf **Abmelden** auf dem Startbildschirm, warten Sie einige Minuten und melden Sie sich dann erneut an.
 
-## Synchronisieren der App zum Ausfüllen des Ereignisses {#sync-the-app-to-populate-the-event}
+## Synchronisieren Sie die App zum Ausfüllen des Ereignisses {#sync-the-app-to-populate-the-event}
 
 Synchronisieren Sie, um sicherzustellen, dass die von Ihnen hinzugefügten Personen vorhanden sind.
 
@@ -79,17 +79,17 @@ Synchronisieren Sie, um sicherzustellen, dass die von Ihnen hinzugefügten Perso
 
    ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
 
-## Überprüfen der Funktionsweise von Check-ins {#confirm-check-ins-are-working}
+## Überprüfen Sie, ob Check-Ins {#confirm-check-ins-are-working} funktionieren.
 
 Vergewissern Sie sich, dass die Check-ins über das iPad oder Tablet vor dem Ereignis funktionieren.
 
-1. Überprüfen Sie in der App einen TestLead [in](check-people-into-your-event-from-your-tablet.md).
-1. Tippen Sie auf das Symbol **Synchronisieren** , um die App zu synchronisieren.
-1. Öffnen Sie in Marketo Ihr Ereignis und klicken Sie auf **Mitglieder**.
+1. Überprüfen Sie in der App [einen TestLead in](check-people-into-your-event-from-your-tablet.md).
+1. Tippen Sie auf das Symbol **Synchronisieren**, um die App zu synchronisieren.
+1. Öffnen Sie in Marketo Ihr Ereignis und klicken Sie auf **Members**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. Vergewissern Sie sich, dass der Status der Person in &quot; **Teilgenommen** &quot;geändert und &quot;Erfolg&quot;markiert wurde.
+1. Vergewissern Sie sich, dass der Status der Person in **Anwesend** geändert und Erfolg aktiviert ist.
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
