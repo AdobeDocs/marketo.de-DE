@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync-Filter: Qualifizieren {#microsoft-dynamics-sync-filter-qualify}
+# Microsoft Dynamics Sync-Filter: Qualifizieren Sie {#microsoft-dynamics-sync-filter-qualify}
 
 Wenn Sie einen Interessenten in Microsoft Dynamics in einen Kontakt konvertieren möchten, sollten Sie diesen Standardqualifizierungsprozess verwenden. Synchronisieren Sie es dann mit Marketo.
 
