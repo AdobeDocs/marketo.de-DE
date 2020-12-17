@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Feld umbenennen {#rename-a-field}
+# Umbenennen eines Felds {#rename-a-field}
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klicken Sie auf den Link **Verwendet von** , um Assets zu suchen, die auf dieses Feld verweisen.
+   >Klicken Sie auf den Link **Verwendet von**, um Assets zu suchen, die auf dieses Feld verweisen.
 
    ![](assets/changefieldname.png)
 
