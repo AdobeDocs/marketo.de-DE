@@ -19,7 +19,7 @@ hinzufügen benutzerspezifische Felder Konten zu, ordnen Sie sie Ihrem CRM zu un
 
    ![](assets/admin.png)
 
-1. Klicken Sie auf **Feldverwaltung** und dann auf **Neues benutzerdefiniertes Feld**.
+1. Klicken Sie auf **Feldverwaltung** und dann **Neues benutzerdefiniertes Feld**.
 
    ![](assets/two-4.png)
 
@@ -31,7 +31,7 @@ hinzufügen benutzerspezifische Felder Konten zu, ordnen Sie sie Ihrem CRM zu un
 
    ![](assets/four-3.png)
 
-1. Geben Sie einen **Namen** ein (der API-Name wird automatisch gefüllt) und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name** ein (der API-Name wird automatisch gefüllt) und klicken Sie auf **Erstellen**.
 
    ![](assets/five-3.png)
 
@@ -39,7 +39,7 @@ hinzufügen benutzerspezifische Felder Konten zu, ordnen Sie sie Ihrem CRM zu un
 
    ![](assets/six-2.png)
 
-1. Wählen Sie das CRM-Kontofeld aus, dem Sie die Zuordnung zuordnen möchten, und klicken Sie auf **Speichern**.
+1. Wählen Sie das CRM-Kontofeld aus, dem Sie zugeordnet werden möchten, und klicken Sie auf **Speichern**.
 
    ![](assets/seven-1.png)
 
