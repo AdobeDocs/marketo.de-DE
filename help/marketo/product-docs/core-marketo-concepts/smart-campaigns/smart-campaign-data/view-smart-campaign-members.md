@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mitglieder der Ansicht für intelligente Kampagne {#view-smart-campaign-members}
+# Ansicht Smart-Kampagne-Member {#view-smart-campaign-members}
 
 Ansicht von Menschen, die bereits den Fluss der intelligenten Kampagne durchlaufen haben; d. h. Mitglieder intelligenter Kampagnen.
 
@@ -27,7 +27,7 @@ Ansicht von Menschen, die bereits den Fluss der intelligenten Kampagne durchlauf
 >
 >Mitglieder der Kampagne können von überall in einer intelligenten Kampagne Ansicht werden.
 
-1. Auf der Registerkarte &quot; **Kampagnen-Mitglieder** &quot;werden Personen angezeigt, die bereits den Fluss der intelligenten Kampagne durchlaufen haben.
+1. Auf der Registerkarte **Kampagnen-Mitglieder** werden Personen angezeigt, die bereits den Fluss der intelligenten Kampagne durchlaufen haben.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ Ansicht von Menschen, die bereits den Fluss der intelligenten Kampagne durchlauf
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr darüber, was Sie mit [Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)tun können.
+   >Erfahren Sie mehr darüber, was Sie mit [Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) tun können.
 
    >[!NOTE]
    >
