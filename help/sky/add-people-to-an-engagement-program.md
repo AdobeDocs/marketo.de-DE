@@ -15,9 +15,9 @@ ht-degree: 0%
 Es gibt mehrere Möglichkeiten, wie Menschen Mitglieder eines Interaktionskonzepts werden können:
 
 * [Programm Hinzufügen Interaktion](https://docs.marketo.com/display/DOCS/Add+to+Engagement+Program)
-* [Schritt zum Ändern des](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) Arbeitsablaufs im Programm
-* [Schritt zum Ändern des Interaktions-Programm-Streams](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream)
-* [Programm-Status](https://docs.marketo.com/display/DOCS/Change+Program+Status) ändern, Flussschritt
+* [Schritt zum Ändern des Interaktions-Programm ](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) Cadenceflow
+* [Schritt zum Ändern des Interaktions-Programm-](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream) Streamflows
+* [Schritt ](https://docs.marketo.com/display/DOCS/Change+Program+Status) zum Ändern des Status des Programms
 * Wenn eine Person ein Formular lokal in ein Interaktions-Programm ausfüllt
-* Importieren von Mitgliedern in ein Interaktions-Programm (über die Registerkarte &quot; [!UICONTROL Mitglieder] &quot;in einem Programm)
+* Importieren von Mitgliedern in ein Interaktions-Programm (über die Registerkarte [!UICONTROL Members] innerhalb des Programms)
 * Wenn Sie Salesforce als CRM verwenden und eine Salesforce-Kampagne an Ihr Interaktions-Programm gebunden ist, werden Sie durch das Hinzufügen einer Person zur Salesforce-Kampagne auf der CRM-Seite ebenfalls zum Einsatz-Programm.
