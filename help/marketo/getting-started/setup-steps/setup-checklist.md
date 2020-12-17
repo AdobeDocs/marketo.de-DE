@@ -28,7 +28,7 @@ Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Liste z
 1. Bitten Sie IT, einen DNS-Datensatz für Ihre Landingpage-CNAME zu erstellen
 1. Richten Sie nach Abschluss der IT-Arbeit Ihren Domänennamen für die Landingpage in Marketo ein
 
-## E-Mail-Auslieferung sicherstellen {#ensure-email-deliverability}
+## E-Mail-Zustellbarkeit {#ensure-email-deliverability} sicherstellen
 
 1. E-Mail-CNAME für Links zur Markenverfolgung auswählen
 1. Bitten Sie die IT, einen DNS-Datensatz für Ihren E-Mail-CNAME einzurichten
@@ -45,7 +45,7 @@ Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Liste z
 
 1. Arbeiten Sie mit Ihrem CRM-Administrator zusammen, um alle CRM-Kontakte mit Marketo zu synchronisieren.
 
-## hinzufügen des Rückverfolgungscodes auf Ihrer Website {#add-tracking-code-to-your-website}
+## hinzufügen von Trackingcode auf Ihrer Website {#add-tracking-code-to-your-website}
 
 1. Arbeiten Sie mit einem Webentwickler zusammen, um Ihrer Website Trackingcode hinzuzufügen
 
