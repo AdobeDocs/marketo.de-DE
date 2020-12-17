@@ -23,7 +23,7 @@ Richten Sie Ihre Kalenderpräsentation so ein, dass sie die Ziele und Aktivität
 
 >[!PREREQUISITES]
 >
->* [Benutzerdefinierte Ziele](create-a-custom-goal.md) oder Ziele für [intelligente Listen erstellen](create-a-smart-list-goal.md)
+>* [Benutzerdefinierte ](create-a-custom-goal.md) Ziele für  [intelligente Listen erstellen](create-a-smart-list-goal.md)
    >
    >
 * [Erstellen einer Präsentation](create-a-presentation.md)
@@ -34,15 +34,15 @@ Richten Sie Ihre Kalenderpräsentation so ein, dass sie die Ziele und Aktivität
 
 ## Auswählen der Ansichten {#choosing-the-views}
 
-Presentations durchläuft verschiedene [Filterdefinitionen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) . Ziehen Sie beliebig viele Ansichten ein und passen Sie die Häufigkeit an.
+Presentations durchlaufen verschiedene [Filterdefinitionen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md), die Sie auswählen. Ziehen Sie beliebig viele Ansichten ein und passen Sie die Häufigkeit an.
 
 1. Ziehen Sie die verschiedenen Ansichten, die Sie in Ihrer Präsentation durchblättern möchten, aus der rechten Baumstruktur heraus.
 
    ![](assets/image2015-3-18-13-3a6-3a10.png)
 
-## hinzufügen {#add-a-goal}
+## hinzufügen eines Ziels {#add-a-goal}
 
-Presentations ist das großartigste, wenn es Ihre Teamziele anzeigt. Ziehen Sie einfach über verschiedene [benutzerdefinierte Ziele](create-a-custom-goal.md) oder [intelligente Listen](create-a-smart-list-goal.md). Sie können bis zu 10 verwenden.
+Presentations ist das großartigste, wenn es Ihre Teamziele anzeigt. Ziehen Sie einfach über verschiedene [benutzerdefinierte Ziele](create-a-custom-goal.md) oder [Smart-Listen-Ziele](create-a-smart-list-goal.md). Sie können bis zu 10 verwenden.
 
 1. Ziehen Sie aus der rechten Struktur verschiedene Ziele, die in Ihrer Präsentation angezeigt werden sollen.
 
@@ -60,15 +60,15 @@ Sobald Sie die Ansichten in der Präsentation eingezogen haben, legen Sie fest, 
 
    >[!NOTE]
    >
-   >Zeigen Sie eine statische Ansicht an, indem Sie &quot;Drehung **deaktivieren&quot;aktivieren**.
+   >Zeigen Sie eine statische Ansicht an, indem Sie **Drehung deaktivieren** aktivieren.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
-## Kalenderanzeige einstellen {#set-the-calendar-display}
+## Kalenderanzeige {#set-the-calendar-display} festlegen
 
 Die Kalenderanzeige kann in eine 3-wöchige oder monatliche Ansicht geändert werden.
 
-1. Wählen Sie die Dropdownliste **Kalenderanzeige** aus und wählen Sie zwischen **3 Wochen** oder einem **Monat**.
+1. Wählen Sie die Dropdownliste **Kalenderanzeige** und wählen Sie zwischen **3 Wochen** oder **Monat**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
