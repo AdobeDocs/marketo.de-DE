@@ -19,7 +19,7 @@ Erstellen Sie entsprechende Audiencen aus Ihren ABM-Konto-Listen für LinkedIn-A
 >
 >[hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst](http://docs.marketo.com/x/I4Fy)
 
-1. Klicken Sie in ABM auf die Registerkarte **Kontoeinstellungen** .
+1. Klicken Sie in ABM auf die Registerkarte **Listen**.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Erstellen Sie entsprechende Audiencen aus Ihren ABM-Konto-Listen für LinkedIn-A
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Dropdownliste Aktionen **zur** Kontoverwaltung und wählen Sie **Senden über AdBridge**.
+1. Klicken Sie auf die Dropdownliste **Aktionen zur Liste von Konten** und wählen Sie **Senden über AdBridge**.
 
    ![](assets/three-1.png)
 
@@ -35,11 +35,11 @@ Erstellen Sie entsprechende Audiencen aus Ihren ABM-Konto-Listen für LinkedIn-A
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf die Dropdownliste **Audience** . Sie können eine vorhandene Audience auswählen oder eine neue erstellen. In diesem Beispiel erstellen wir eine neue Audience (wenn Sie eine vorhandene auswählen, fahren Sie mit Schritt 7 fort).
+1. Klicken Sie auf die Dropdownliste **Audience**. Sie können eine vorhandene Audience auswählen oder eine neue erstellen. In diesem Beispiel erstellen wir eine neue Audience (wenn Sie eine vorhandene auswählen, fahren Sie mit Schritt 7 fort).
 
    ![](assets/five-1.png)
 
-1. Klicken Sie auf die Dropdownliste **Anzeigenkonto** und wählen Sie die Zielgruppe und das Konto aus.
+1. Klicken Sie auf die Dropdownliste **Anzeigenkonto** und wählen Sie das Zielgruppen- und Kontokonto aus.
 
    ![](assets/six-1.png)
 
