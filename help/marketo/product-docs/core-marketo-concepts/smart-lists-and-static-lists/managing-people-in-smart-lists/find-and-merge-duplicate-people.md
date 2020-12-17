@@ -21,11 +21,11 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
 
 >[!PREREQUISITES]
 >
->Das Suchen und Zusammenführen von Duplikaten erfordert den Einsatz [integrierter/systemintelligenter Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierten / System intelligenten Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
-## Duplikate suchen {#find-duplicates}
+## Duplikat suchen {#find-duplicates}
 
-1. Wechseln Sie zum Bereich **Datenbank** .
+1. Wechseln Sie zum Bereich **Datenbank**.
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
    >
    >Die Zusammenführung von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein Salesforce-Benutzerkonto verwenden. Bitte führen Sie die Unterlagen nach Möglichkeit in Salesforce zusammen.
 
-1. Wählen Sie die intelligente Liste **Mögliche** **Duplikat** aus und klicken Sie auf die Registerkarte **Personen** .
+1. Wählen Sie die Liste **Mögliche** **Duplikat** System-Smart aus und klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Sie können auch Duplikat-Personen mit benutzerdefinierter Logik [suchen](find-duplicate-people-with-custom-logic.md).
+   >Sie können auch [Duplikat-Personen mit benutzerdefinierter Logik](find-duplicate-people-with-custom-logic.md) suchen.
 
 ## Personen manuell zusammenführen {#merge-people-manually}
 
 >[!CAUTION]
 >
->Wenn beim Zusammenführen von Personen die unterliegende Person über ein benutzerdefiniertes Objekt vom Typ &quot;Marketo&quot;verfügt, wird sie **nicht** erneut mit der Gewinner-Person verknüpft. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
+>Wenn beim Zusammenführen von Personen die unterliegende Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird **nicht** erneut der Gewinner-Person zugeordnet. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
 
 Wählen Sie die Duplikate aus, indem Sie Strg/Befehl drücken und auf &quot;Personen zusammenführen&quot;klicken.
 ![](assets/three.png)
@@ -54,7 +54,7 @@ Wählen Sie die Duplikate aus, indem Sie Strg/Befehl drücken und auf &quot;Pers
 >
 >Sie können zwei oder mehr Duplikate für dieselbe Person haben - wählen Sie sie alle gleichzeitig aus.
 
-1. Sie sehen die Werte zwischen den Datensätzen, die *nicht* übereinstimmen. Wählen Sie den Wert aus, den Sie für die einzelnen Felder beibehalten möchten. Klicken Sie abschließend auf **Zusammenführen** . Wenn Sie keinen der Werte wünschen, können Sie **Benutzerdefiniert** aktivieren und einen Wert Ihrer Wahl eingeben.
+1. Sie sehen die Werte zwischen den Datensätzen, die *nicht* übereinstimmen. Wählen Sie den Wert aus, den Sie für die einzelnen Felder beibehalten möchten. Klicken Sie nach Abschluss des Vorgangs auf **Zusammenführen**. Wenn Sie keinen Wert wünschen, können Sie **Benutzerdefiniert** aktivieren und einen Wert Ihrer Wahl eingeben.
 
    ![](assets/four.png)
 
@@ -66,7 +66,7 @@ Wählen Sie die Duplikate aus, indem Sie Strg/Befehl drücken und auf &quot;Pers
    >
    >Zusammenführen ist besser als Löschen. Sie behalten den gesamten Verlauf bei (Seitenbesuche, Link-Klicks, E-Mail-Öffnen, Ausfüllen von Formularen usw.).
 
-## Wirkung in Salesforce {#effect-in-salesforce}
+## Effekt in Salesforce {#effect-in-salesforce}
 
 Wenn Sie Salesforce-Integration haben, gibt es einige Hinweise zur Wirkung von Merge Leads in Salesforce.
 
