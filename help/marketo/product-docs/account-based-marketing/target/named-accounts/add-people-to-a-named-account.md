@@ -25,15 +25,15 @@ Es gibt drei verschiedene Möglichkeiten, Personen manuell einem benannten Konto
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Person, um sie auszuwählen. Klicken Sie auf die Dropdownliste **Benutzeraktionen** , klicken Sie auf **Marketing** und wählen Sie **Hinzufügen benannte Konten**.
+1. Klicken Sie auf die Person, um sie auszuwählen. Klicken Sie auf die Dropdownliste **Benutzeraktionen**, klicken Sie auf **Marketing** und wählen Sie **Hinzufügen auf Benanntes Konto**.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf die Dropdownliste **Benanntes Konto** , wählen Sie das gewünschte benannte Konto aus und klicken Sie auf Jetzt **ausführen**.
+1. Klicken Sie auf die Dropdownliste **Benanntes Konto**, wählen Sie das gewünschte benannte Konto und klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/four.png)
 
-## Schritt für intelligente Kampagne {#smart-campaign-flow-step}
+## Schritt für den Fluss intelligenter Kampagnen {#smart-campaign-flow-step}
 
 1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Fluss**.
 
@@ -55,7 +55,7 @@ Es gibt drei verschiedene Möglichkeiten, Personen manuell einem benannten Konto
 
 ## Liste importieren {#list-import}
 
-1. Wählen Sie Ihre Liste aus, klicken Sie auf die Dropdownliste **Listen** und wählen Sie Liste **** importieren.
+1. Wählen Sie Ihre Liste aus, klicken Sie auf die Dropdownliste **Liste Aktionen** und wählen Sie **Liste importieren**.
 
    ![](assets/nine.png)
 
@@ -63,11 +63,11 @@ Es gibt drei verschiedene Möglichkeiten, Personen manuell einem benannten Konto
 
    ![](assets/ten.png)
 
-1. Ordnen Sie die gewünschten Felder zu. Vergewissern Sie sich, dass das Feld &quot; **Benanntes Konto** &quot;zugeordnet ist.
+1. Ordnen Sie die gewünschten Felder zu. Vergewissern Sie sich, dass das Feld **Benanntes Konto** zugeordnet ist.
 
    ![](assets/eleven.png)
 
-1. Wählen Sie die gewünschten Einstellungen und klicken Sie dann auf **Importieren**.
+1. Wählen Sie die gewünschten Einstellungen und klicken Sie dann auf **Import**.
 
    ![](assets/twelve.png)
 
