@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verschieben von Einträgen in der Ansicht &quot;Programmplanung&quot; {#moving-entries-in-the-program-schedule-view}
+# Verschieben von Einträgen in der Ansicht Programmplanung {#moving-entries-in-the-program-schedule-view}
 
 Beim Verschieben von Einträgen in der Ansicht des Zeitplans werden diese automatisch neu geplant.
 
