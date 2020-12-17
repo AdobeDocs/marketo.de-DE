@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel) {#create-and-use-a-concatenated-string-formula-field}
+# Erstellen und Verwenden eines Felds für verkettete Zeichenfolge (Formel) {#create-and-use-a-concatenated-string-formula-field}
 
 Sie können Werte aus mehreren Feldern kombinieren oder einen bedingten Wert mit einem Feld &quot;Markieren-Formel&quot;erstellen.
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
@@ -23,15 +23,15 @@ Sie können Werte aus mehreren Feldern kombinieren oder einen bedingten Wert mit
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. Wählen Sie **Formel** für den **Typ**.
+1. Wählen Sie **Formel** für **Typ**.
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. Geben Sie einen **Namen** für Ihr Feld ein und klicken Sie dann auf **Erstellen**.
+1. Geben Sie einen **Name** für Ihr Feld ein und klicken Sie dann auf **Erstellen**.
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
-1. Suchen Sie nach Ihrem Formelfeld und wählen Sie es aus und klicken Sie dann auf Regeln **bearbeiten**.
+1. Suchen Sie nach Ihrem Formelfeld und wählen Sie es aus und klicken Sie dann auf **Regeln bearbeiten**.
 
    ![](assets/image2014-9-19-9-3a46-3a13.png)
 
