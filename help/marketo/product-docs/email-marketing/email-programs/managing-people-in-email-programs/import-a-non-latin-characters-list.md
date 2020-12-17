@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Importieren einer Liste mit nicht lateinischen Zeichen {#import-a-non-latin-characters-list}
+# Liste für nicht lateinische Zeichen {#import-a-non-latin-characters-list} importieren
 
 Sie versuchen, eine Datei zu importieren, die nicht in Englisch? Die Liste sieht perfekt aus, wenn Sie sie mit Excel öffnen.
 
@@ -23,11 +23,11 @@ Aber wenn man es in Marketo importiert, sieht man vielleicht, dass die nicht-eng
 
 Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wurde, damit Marketo alle nicht-lateinischen Zeichen erkennen kann. Die gute Nachricht ist, dass es ein paar einfache Schritte gibt, die Sie ausführen können, um es zu beheben.
 
-1. Wählen Sie **Speichern unter...** aus dem **Dateimenü** in Excel.
+1. Wählen Sie **Speichern unter...** aus dem Menü **Datei** in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Wählen Sie **UTF-16 Unicode Text (.txt)** als **Format** -Option. Dadurch wird die Datei so kodiert, wie Marketo sie anzeigen kann.
+1. Wählen Sie **UTF-16 Unicode Text (.txt)** als Option **Format**. Dadurch wird die Datei so kodiert, wie Marketo sie anzeigen kann.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wurde, damit 
 
    >[!TIP]
    >
-   >Sie können die Textdatei mit **Notepad** öffnen, wenn Sie Windows verwenden, oder **TextEdit** , wenn Sie einen Mac verwenden.
+   >Sie können die Textdatei mit **Notepad** öffnen, wenn Sie Windows verwenden, oder **TextEdit**, wenn Sie einen Mac verwenden.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,7 +47,7 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wurde, damit 
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Wählen Sie **Suchen und Ersetzen...** aus dem Menü **Bearbeiten** .
+1. Wählen Sie **Suchen und Ersetzen...** aus dem Menü **Bearbeiten**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
@@ -55,7 +55,7 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wurde, damit 
    >
    >Entsprechende Aktion für Windows-Benutzer: **Bearbeiten > Ersetzen...**
 
-1. Fügen Sie die Registerkarte, die Sie in Schritt 4 kopiert haben, in das erste (zu ersetzende) Feld ein und geben Sie im zweiten Feld (durch) ein Komma ein. Klicken Sie auf **Alle**.
+1. Fügen Sie die Registerkarte, die Sie in Schritt 4 kopiert haben, in das erste (zu ersetzende) Feld ein und geben Sie im zweiten Feld (durch) ein Komma ein. Klicken Sie auf **All**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
