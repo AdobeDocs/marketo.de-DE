@@ -19,9 +19,9 @@ Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überpr�
 >
 >**Verfügbarkeit**
 >
->Funktionen, die mit einem Stern ( ![(Stern)](assets/star-yellow.svg)gekennzeichnet sind, werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
-***Quartalsveröffentlichungen*** Die folgenden Funktionen wurden am 21. **Februar 2020** veröffentlicht.
+***Quartalsveröffentlichungen*** Die folgenden Funktionen wurden am 21.  **Februar 2020** veröffentlicht.
 
 ## Core-Marketo Engage {#core-marketo-engage}
 
@@ -38,7 +38,7 @@ Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überpr�
 ***Veröffentlichung im gesamten Quartal***
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden in den kommenden Monaten veröffentlicht.
-**Bizibel ![(Stern)](assets/star-yellow.svg)
+**Bizible ![(star)](assets/star-yellow.svg)
 
 **
 
@@ -46,7 +46,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Speichern von Filtern**: Speichern Sie benutzerspezifische Filter, um Ihre Dashboard schnell und konsistent zu analysieren.
 * **In PDF** exportieren: Geben Sie wertvolle Einblicke in Ihr Unternehmen, indem Sie Bizible-Dashboards als PDF-Dateien exportieren.
 
-## Sales Connect  {#sales-connect}
+## Sales Connect {#sales-connect}
 
 * **Erstellen Sie Fensteraktualisierungen**: Wir haben den Prozess zur Auswahl von Vorlagen und zum Senden von E-Mails über Sales Connect optimiert. Verwenden Sie das Fenster Erstellen in unserem Webclient und Salesforce als eine zentrale Anlaufstelle für Verkäufer, mit der Sie Vorlagendaten speichern, E-Mails planen, E-Mails stapelweise versenden und E-Mails mit Ansicht und Klick-Tracking versenden können.
 * **Aktualisierungen** im Command Center: Wir bauen das Sales Connect Command Center wieder auf, um Verkäufern einen Einblick in all ihre E-Mails, Anrufe und Aufgaben zu geben, die von Sales Connect initiiert wurden. Sie können auch Informationen wie E-Mail-Interaktion und Zustellbarkeit über das Command Center Ansicht haben.
@@ -62,4 +62,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Parameter** der Asset-API &quot;_method&quot;: Ab September 2020 akzeptieren Asset-API-Endpunkte &quot;_method&quot;nicht mehr, um Abfragen-Parameter in einem POST-Textkörper zu übergeben, um die Längenbeschränkungen des URI zu umgehen. Um Anforderungen, die diesen Parameter erfordern, anzupassen, wird die URI-Beschränkung für Asset-APIs von 6 KiB auf 65 KiB erhöht, sodass lange Anforderungs-URIs gesendet werden können.
 * **Einstellung** der Unterstützung für Internet Explorer: Ab unserer Version vom 31. Juli 2020 wird die Marketo Engage-Benutzeroberfläche in Internet Explorer nicht mehr unterstützt.
 
-***Produktversion Webinar*** [](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) Nehmen Sie am 3. März um 11:00 Uhr PT/2:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.
+***Produktversion*** [WebinarNehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) am 3. März um 11:00 Uhr PT/2:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.
