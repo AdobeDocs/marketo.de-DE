@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwendung von &quot;Datum/Uhrzeit&quot; A/B-Tests {#use-date-time-a-b-testing}
+# &quot;Datum/Uhrzeit&quot; A/B-Tests verwenden {#use-date-time-a-b-testing}
 
 Sie können Ihre E-Mails ganz einfach A/B testen. Ein Test ist der **Datum/Uhrzeit **Test. Dadurch wird getestet, zu welcher Tageszeit oder an welchem Wochentag E-Mails am besten gesendet werden. So richten Sie es ein:
 
@@ -23,7 +23,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein Test ist der **Datum/Uhrze
 
 
 
-1. Klicken Sie unter der **E-Mail** -Kachel auf **Hinzufügen A/B-Test**.
+1. Klicken Sie unter der Kachel **E-Mail** auf **Hinzufügen A/B-Test**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
@@ -31,7 +31,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein Test ist der **Datum/Uhrze
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. Wenn Sie über vorherige Testinformationen verfügen (z. B. über einen Betreff-Test), können Sie sicher auf Test **zurücksetzen** klicken.
+1. Wenn Sie bereits über vorherige Testinformationen verfügen (z. B. einen Betreff-Test), können Sie sicher auf **Test zurücksetzen** klicken.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -57,7 +57,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein Test ist der **Datum/Uhrze
 
    >[!CAUTION]
    >
-   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **intelligente** Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer der Audience *zu diesem Zeitpunkt gesendet. *Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
+   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **smart**-Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer der Audience *zu diesem Zeitpunkt gesendet. *Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
 
    [Definition der Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md)
 
