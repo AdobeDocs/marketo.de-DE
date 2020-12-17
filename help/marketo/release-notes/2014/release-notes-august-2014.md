@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom August 2014 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
 
-## Lizenzen für den Marketingkalender {#marketing-calendar-licenses}
+## Marketingkalender Lizenzen {#marketing-calendar-licenses}
 
-Nach dem 5. September 2014 können nur noch 5 Benutzer kostenlos auf den Marketingkalender zugreifen. Stellen Sie sicher, dass Sie eine [Marketingkalenderlizenz](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) vor diesem Zeitpunkt für den ununterbrochenen Zugriff an die Benutzer Ihrer Wahl vergeben/widerrufen.
+Nach dem 5. September 2014 können nur noch 5 Benutzer kostenlos auf den Marketingkalender zugreifen. Stellen Sie sicher, dass Sie den Benutzern Ihrer Wahl vor diesem Zeitpunkt [Lizenz für den Marketingkalender ](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) widerrufen/widerrufen, damit sie ununterbrochen darauf zugreifen können.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Neue Benutzerberechtigungen {#new-user-permissions}
 
@@ -33,13 +33,13 @@ Die folgenden neuen Benutzerberechtigungen wurden hinzugefügt:
 | Trigger-Kampagne aktivieren | Steuerung, wer Auslöser-Kampagnen aktivieren kann und nicht. |
 | Batch-Kampagne planen | Kontrollieren Sie, wer die Ausführung der Batch-Kampagne planen kann und nicht. |
 
-## Benutzer und Rollen aus Admin exportieren {#export-users-and-roles-from-admin}
+## Benutzer und Rollen aus Admin {#export-users-and-roles-from-admin} exportieren
 
-Sie können jetzt eine Liste von Benutzern und Rollen [aus Marketing](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) exportieren. Sie können auch einen Zeitstempel &quot;Letzte Anmeldung&quot;einfügen, der in den Export aufgenommen werden soll.
+Sie können jetzt [eine Liste von &quot;Users and Roles](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)&quot;aus Marketo exportieren. Sie können auch einen Zeitstempel &quot;Letzte Anmeldung&quot;einfügen, der in den Export aufgenommen werden soll.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
-## Kanal und Tags löschen {#delete-channels-and-tags}
+## Kanal und Tags {#delete-channels-and-tags} löschen
 
 Sie können jetzt nicht verwendete Kanal und Status löschen. Wie immer können Sie nur einen ausblenden, der derzeit verwendet wird.
 
@@ -47,7 +47,7 @@ Sie können jetzt nicht verwendete Kanal und Status löschen. Wie immer können 
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## Automatisiertes DKIM {#automated-dkim}
+## Automatisierter DKIM {#automated-dkim}
 
 Für eine verbesserte Zustellbarkeit werden alle ausgehenden E-Mails DKIM (DomainKeys Identified Mail) signiert. In E-Mails wird standardmäßig die freigegebene DKIM-Signatur von Marketo verwendet. Sie haben die Möglichkeit, diese Unterschrift anzupassen.
 
@@ -81,7 +81,7 @@ Sie haben jetzt die Möglichkeit, schnell und einfach einen Link zur RTP-Kampagn
 
 ![](assets/image2014-9-16-12-3a24-3a22.png)
 
-## Bericht zur Inhaltsempfehlung {#content-recommendation-engine-report}
+## Content Recommendation Engine-Bericht {#content-recommendation-engine-report}
 
 Wir haben einen neuen Bericht zur Inhaltsempfehlungs-Engine hinzugefügt, damit Sie eine schöne Zusammenfassung sehen können.
 
