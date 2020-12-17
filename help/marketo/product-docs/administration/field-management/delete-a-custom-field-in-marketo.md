@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Löschen eines benutzerdefinierten Felds in &quot;Markieren&quot; {#delete-a-custom-field-in-marketo}
+# Löschen eines benutzerdefinierten Felds in &quot;Marketo {#delete-a-custom-field-in-marketo}&quot;
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-Möglicherweise möchten Sie ein zuvor erstelltes Feld löschen, wenn Sie es nicht mehr verwenden. Leider können Felder in Marketo nicht gelöscht werden, aber sie *können* in der Benutzeroberfläche ausgeblendet werden.
+Möglicherweise möchten Sie ein zuvor erstelltes Feld löschen, wenn Sie es nicht mehr verwenden. Leider können Sie Felder in Marketo nicht löschen, aber *können Sie sie in der Benutzeroberfläche ausblenden.*
 
-1. Wechseln Sie in **Admin** zu **Feldverwaltung **und wählen Sie Ihr Feld aus. Klicken Sie unter **Feldaktionen** auf Feld **ausblenden**.
+1. Wählen Sie unter **Admin** **Feldverwaltung **Ihr Feld aus. Klicken Sie unter **Feldaktionen** auf **Feld** ausblenden.
 
    ![](assets/image2014-9-19-9-3a49-3a10.png)
 
-   Detaillierte Anleitungen finden Sie unter Ein- und [Ausblenden eines Felds](hide-and-unhide-a-field.md).
+   Detaillierte Anleitungen finden Sie unter [Ein- und Ausblenden eines Felds](hide-and-unhide-a-field.md).
 
