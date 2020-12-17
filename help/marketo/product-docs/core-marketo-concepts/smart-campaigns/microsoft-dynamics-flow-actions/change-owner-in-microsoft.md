@@ -17,7 +17,7 @@ Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewi
 
 >[!NOTE]
 >
->Dieser Flussschritt funktioniert **nur, wenn er mit Auslösern** und nicht mit Filtern in Ihrer intelligenten Kampagne verwendet wird.
+>Dieser Flussschritt funktioniert nur, wenn er mit Triggern **, nicht mit Filtern, in Ihrer intelligenten Kampagne verwendet wird.**
 
 ![](assets/one-1.png)
 
