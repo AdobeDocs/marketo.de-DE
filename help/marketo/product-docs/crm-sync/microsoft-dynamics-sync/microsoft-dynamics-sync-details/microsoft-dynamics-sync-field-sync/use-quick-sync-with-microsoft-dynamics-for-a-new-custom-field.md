@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld verwenden {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+# Verwenden Sie die Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 Marketing oder Vertrieb möchten ein neues Feld erstellen. Oder vielleicht haben Sie eines bei Ihrer ersten Feldauswahl vergessen. Oder Ihre Bedürfnisse haben sich geändert. In jedem Fall können Sie die Schnellsynchronisierung verwenden, um bestimmte Felder neu zu synchronisieren.
 
-Normalerweise verwenden Sie Quick Sync, um ein neues Feld hinzuzufügen und die Werte zu aktualisieren. Es gibt jedoch Fälle, in denen Sie ein vorhandenes Feld synchronisieren möchten. Sie können die Feldsynchronisierung auf der Grundlage eines aktualisierten oder erstellten Datumsbereichs einschränken. Weitere Informationen finden Sie unter [Erweiterte Synchronisierungsoptionen](#Advanced_Sync_Options) .
+Normalerweise verwenden Sie Quick Sync, um ein neues Feld hinzuzufügen und die Werte zu aktualisieren. Es gibt jedoch Fälle, in denen Sie ein vorhandenes Feld synchronisieren möchten. Sie können die Feldsynchronisierung auf der Grundlage eines aktualisierten oder erstellten Datumsbereichs einschränken. Weitere Informationen finden Sie unter [Erweiterte Synchronisierungsoptionen](#Advanced_Sync_Options) weiter unten.
 
 Schnellsynchronisierung kann Null-Werte synchronisieren. Wenn Sie beispielsweise die Werte A und B verwenden und einen B-Wert in Dynamics auf null ändern, wird der Nullwert mit Marketo synchronisiert.
 
@@ -73,7 +73,7 @@ Was ist, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies jedoch nur
 
    Nur Datensätze, die zwischen dem 19.8.16 und dem 19.9.16 aktualisiert wurden, werden für das Feld schnell synchronisiert.
 
-## Beheben von nicht synchronisierten Feldern {#fixing-out-of-sync-fields}
+## Korrektur von nicht synchronisierten Feldern {#fixing-out-of-sync-fields}
 
 In dem seltenen Fall, in dem ein Dynamikfeld und ein Marketo-Feld nicht synchron sind, gibt es eine schnelle und einfache Möglichkeit, sie neu zu synchronisieren.
 
