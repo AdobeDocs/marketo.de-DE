@@ -19,7 +19,7 @@ Interaktions-Programm können mehrere Streams enthalten. Hier ist, wie man ein n
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
 
    ![](assets/streamstablifecycle.jpg)
 
