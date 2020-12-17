@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können die Art und Weise ändern, wie Marketo Kontakte mit Chancen für First- und Multi-Touch-Zuordnungen, Interessentenumrechnungsmetriken und die vom Marketing beeinflusste Opportunitätskennzeichnung verknüpft.
 
-Diese Einstellungen wirken sich auf den Umsatz-Explorer-Bericht im Bereich [Programm-Analyse](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportunity-Analyse](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)und Interessentenanwerbung aus. Dies wirkt sich auch auf den Programm Analyzer-Bericht aus.
+Diese Einstellungen wirken sich auf den Umsatz-Explorer-Bericht unter den Analysen [Programm-Chancen](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Chancen-Analyse](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) und Interessentenanwerbung aus. Dies wirkt sich auch auf den Programm Analyzer-Bericht aus.
 
 1. Klicken Sie im Abschnitt **Admin** auf **Umsatzwyklusanalyse**.
 
@@ -48,5 +48,5 @@ Diese Einstellungen wirken sich auf den Umsatz-Explorer-Bericht im Bereich [Prog
 
 >[!CAUTION]
 >
->Bei Verwendung von **Implizit** prüft Marketo stets alle mit dem Konto verbundenen Kontakte unabhängig von der Rolle. **Marketo empfiehlt dringend die Verwendung des expliziten Modus.** Die Verwendung von Implizit kann zu Falsch-Positiv-Werten führen. d.h. Menschen, denen eine Chance zugeschrieben wird, obwohl sie keinen wirklichen Einfluss auf die Chancen haben. Verwenden Sie Implizit mit Vorsicht.
+>Bei Verwendung von **Implizit** prüft Marketo immer alle mit dem Konto verknüpften Kontakte, unabhängig von der Rolle. **Marketo empfiehlt dringend die Verwendung des expliziten Modus.** Die Verwendung von Implizit kann zu Falsch-Positiv-Werten führen. d.h. Menschen, denen eine Chance zugeschrieben wird, obwohl sie keinen wirklichen Einfluss auf die Chancen haben. Verwenden Sie Implizit mit Vorsicht.
 
