@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Feldwerte löschen {#clear-field-values}
 
-** Datenwert [](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)ändern** ist großartig, aber wie *entfernen* Sie den Wert vollständig? Gute Frage!
+** [Datenwert ändern](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** ist großartig, aber wie können Sie *den Wert vollständig entfernen?* Gute Frage!
 
 1. Wählen Sie im Flussschritt das Feld, das Sie löschen möchten, und geben Sie **NULL **(Großbuchstaben) als **Neuer Wert** ein.
 
