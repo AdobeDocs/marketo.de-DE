@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-Beim Ausführen eines [Referrer-Angebots](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder eines [Gewinnspiels](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)können Sie dem Werber eine Gutschrift auf verschiedene Weise zuweisen:
+Beim Ausführen eines [Referrer-Angebots](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder eines [Gewinnspiels](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) können Sie dem Werber eine Gutschrift auf unterschiedliche Weise zuweisen:
 
 * Verweisende Besuche
 * Referred Sign-Ups
 * **Auslöser für intelligente Liste**
 * Benutzerdefiniertes JavaScript-Ereignis
 
-Wenn Sie die Option **Auslöser** für intelligente Listen verwenden, um ein Ziel anzugeben, müssen Sie den **Übermittlungsschritt Gutschrift** **an Werber** verwenden.   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Wenn Sie die Option **Auslöser für intelligente Listen** verwenden, um ein Ziel anzugeben, müssen Sie den Flussschritt **Gutschrift** **an Werber** verwenden.   ![](assets/image2014-9-22-15-3a59-3a18.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Nachdem Sie Ihre Kampagne erstellt und entschieden haben, welche Aktion ausgelöst werden soll, suchen und wählen Sie einfach die Social-App aus, der Sie den Werbern gutschreiben möchten.
 
@@ -35,6 +35,6 @@ Wenn Sie die Option **Auslöser** für intelligente Listen verwenden, um ein Zie
    >**Erinnerung**
    >
    >
-   >Stellen Sie sicher, dass Ihre Social-App für die Verwendung des Smart-Liste-Triggers konfiguriert ist. Weitere Informationen finden Sie unter Angebot [Ziel für Verweise](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) angeben.
+   >Stellen Sie sicher, dass Ihre Social-App für die Verwendung des Smart-Liste-Triggers konfiguriert ist. Weitere Informationen finden Sie unter [Ziel für Verweis-Angebot](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) angeben.
 
 Ausgezeichnet! Jede Person, die mit diesem Flussschritt verarbeitet wird, schreibt dem Werber nun eine Gutschrift zu.
