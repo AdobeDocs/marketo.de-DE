@@ -16,7 +16,7 @@ Beim Aktivieren/Deaktivieren einer intelligenten Kampagne für Auslöser wird di
 
 ## Aktivieren einer Auslöser-Kampagne
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **[!UICONTROL Plan]** .
+1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **[!UICONTROL Plan]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -36,7 +36,7 @@ Von diesem Moment an wird jeder, der sich für die intelligente Liste qualifizie
 
 ## Deaktivieren einer Auslöser-Kampagne
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **[!UICONTROL Plan]** .
+1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **[!UICONTROL Plan]**.
 
    ![Bild drei](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
@@ -46,4 +46,4 @@ Von diesem Moment an wird jeder, der sich für die intelligente Liste qualifizie
 
 >[!NOTE]
 >
->Dadurch wird verhindert, dass _neue_ Personen in den Fluss gelangen, aber Personen in Warteschritten oder einem anderen Flussschritt bewegen sich weiter durch den Fluss, bis sie fertig sind.
+>Dadurch wird verhindert, dass _neue_ Personen in den Fluss gelangen, aber Personen, die sich in Warteschritten oder einem anderen Flussschritt befinden, durchlaufen den Fluss, bis sie fertig sind.
