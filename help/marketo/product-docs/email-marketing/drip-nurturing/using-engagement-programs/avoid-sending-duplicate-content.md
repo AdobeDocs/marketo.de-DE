@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Senden von Duplikat-Inhalten vermeiden {#avoid-sending-duplicate-content}
+# Versenden von Duplikat-Inhalten vermeiden {#avoid-sending-duplicate-content}
 
 Haben Sie schon einmal zweimal dieselbe E-Mail erhalten? Wahnsinn, nicht wahr?
 
 Es gibt sieben mögliche Szenarien und Ergebnisse, die Sie kennen sollten, um zu verhindern, dass jemand dieselbe Nachricht zweimal mit Programmen zur Interaktion sendet.
 
-## Szenarien {#scenarios}
+## Szenarios {#scenarios}
 
 Eine Person erhält eine E-Mail, die von der Customer Interaktion Engine gesendet wird.
 
@@ -25,9 +25,9 @@ Eine Person erhält eine E-Mail, die von der Customer Interaktion Engine gesende
 |---|---|---|
 | Eine Kampagne in einem separaten, eigenständigen, standardmäßigen Programm | Kein Mitglied des Standard-Programms | Ja |
 | Eine Kampagne in einem separaten, eigenständigen, standardmäßigen Programm | Mitglied des Standard-Programms | Nein |
-| Eine Kampagne innerhalb eines Standard-Programms, die aus einer Besetzung innerhalb **desselben** CEE-Programms ausgelöst wird | Mitglied des Standard-Programms | Nein |
-| Eine Kampagne innerhalb eines Standard-Programms, die aus einer Besetzung innerhalb **desselben** CEE-Programms ausgelöst wird | Kein Mitglied des Standard-Programms | Ja |
-| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **anderen** CEE-Programms ausgelöst wird | Mitglied des Standard-Programms | Nein |
-| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **anderen** CEE-Programms ausgelöst wird | Kein Mitglied des Standard-Programms | Ja |
+| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb des **same** CEE-Programms ausgelöst wird | Mitglied des Standard-Programms | Nein |
+| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb des **same** CEE-Programms ausgelöst wird | Kein Mitglied des Standard-Programms | Ja |
+| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **different** CEE-Programms ausgelöst wird | Mitglied des Standard-Programms | Nein |
+| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **different** CEE-Programms ausgelöst wird | Kein Mitglied des Standard-Programms | Ja |
 | Ein **anderes** CEE-Programm mit einem intelligenten Stream | Mitglied beider CEE-Programme | Nein |
 
