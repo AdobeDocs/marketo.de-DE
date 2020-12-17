@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Verwenden einer Dauer in einem Wartezeitschritt {#use-a-duration-in-a-wait-flow-step}
+# Verwenden einer Dauer in einem Schritt mit einem Wartefluss {#use-a-duration-in-a-wait-flow-step}
 
 Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelligente Kampagne für einen bestimmten Zeitraum anhalten. Sie können auch Kriterien für den Wochentag und die Uhrzeit des Ablaufs festlegen.
 
-1. Ziehen Sie auf der Registerkarte &quot; **Fluss** intelligenter Kampagnen&quot;über den Schritt **&quot;Fluss** warten&quot;.
+1. Ziehen Sie in der Registerkarte &quot;Smart-Kampagne **Fluss**&quot;über den Textfluss **Wait**.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -43,7 +43,7 @@ Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelli
    >Eine Person löst am Freitag um 17 Uhr eine kluge Kampagne aus. Der Wartevorgang ist abgeschlossen: 48 Stunden und muss am Mo-Fri um 9 Uhr enden.
    >
    >
-   >Das Ergebnis wäre, dass die Person im Fluss am **Montag, 9 Uhr morgens**. Dies ist das erste M-F Datum nach 48 Stunden.
+   >Das Ergebnis wäre, dass die Person am **Montag, 9am** im Fluss bleiben würde. Dies ist das erste M-F Datum nach 48 Stunden.
 
    >[!NOTE]
    >
