@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden des Filters &quot;Datenwert geändert&quot;in einer intelligenten Liste {#use-the-data-value-changed-filter-in-a-smart-list}
+# Verwenden Sie den Filter &quot;Datenwert geändert&quot;in einer Smart-Liste {#use-the-data-value-changed-filter-in-a-smart-list}
 
 Die Werte ändern sich ständig und werden in Ihrer Marketing-Datenbank aktualisiert. Manchmal sollten Sie, anstatt nach einem bestimmten Wert zu suchen, nach Personen suchen, die eine Wertänderung hatten. So geht es.
 
@@ -27,19 +27,19 @@ Die Werte ändern sich ständig und werden in Ihrer Marketing-Datenbank aktualis
 
    ![](assets/ma.png)
 
-1. Wählen Sie die intelligente Liste aus und klicken Sie auf die Registerkarte **Intelligente Liste** .
+1. Wählen Sie die intelligente Liste aus und klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/two-1.png)
 
-1. Suchen Sie den Filter &quot; **Datenwert geändert** &quot;und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen Sie den Filter **Datenwert geändert** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/three-1.png)
 
-1. Legen Sie **Attribut** auf das Feld fest, in dem Sie nach Datenwertänderungen suchen möchten.
+1. Setzen Sie **Attribut** auf das Feld, in dem Sie nach Datenwertänderungen suchen möchten.
 
    ![](assets/four.png)
 
-Dieser Filter sucht nach allen Personen, die Änderungen an ihrem Status vorgenommen haben. Wenn Sie noch fanatischer werden möchten, versuchen Sie, einem Filter für intelligente Listen eine Beschränkung [hinzuzufügen](add-a-constraint-to-a-smart-list-filter.md).
+Dieser Filter sucht nach allen Personen, die Änderungen an ihrem Status vorgenommen haben. Wenn Sie noch fanatischer werden möchten, versuchen Sie [eine Einschränkung zu einem Filter für intelligente Listen](add-a-constraint-to-a-smart-list-filter.md) hinzuzufügen.
 
 >[!NOTE]
 >
