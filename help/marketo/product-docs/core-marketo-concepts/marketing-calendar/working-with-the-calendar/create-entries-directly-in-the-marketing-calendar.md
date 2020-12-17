@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einträge direkt im Marketingkalender erstellen {#create-entries-directly-in-the-marketing-calendar}
+# Einträge direkt im Marketingkalender {#create-entries-directly-in-the-marketing-calendar} erstellen
 
 Mit Marketo können Sie Einträge direkt im Marketingkalender mithilfe des Programm-Fokusmodus erstellen. Sie können die folgenden Eintragstypen erstellen:
 
@@ -22,7 +22,7 @@ Mit Marketo können Sie Einträge direkt im Marketingkalender mithilfe des Progr
 
 So geht es.
 
-1. Gehen Sie zum **Kalender**.
+1. Gehen Sie zum Ordner **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -39,7 +39,7 @@ So geht es.
 
    >[!TIP]
    >
-   >Beachten Sie, dass Sie **Smart-Kampagnen**, **E-Mail-Programm** und **einfache Einträge** auf dieselbe Weise erstellen können.
+   >Beachten Sie, dass Sie **Smart-Kampagnen**, **E-Mail-Programm** und **Grundlegende Einträge** auf dieselbe Weise erstellen können.
 
 1. Schließen Sie nach Abschluss der Bearbeitung den Fokusmodus des Programms.
 
