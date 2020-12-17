@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Kampagnen-Ordner: Registerkarte &quot;Aktivitäten&quot;
 
-Auf der Registerkarte &quot; **[!UICONTROL Aktivitäten]** &quot;finden Sie wichtige Informationen zu Ihren Kampagnen.
+Auf der Registerkarte **[!UICONTROL Aktivitäten]** finden Sie wichtige Informationen zu Ihren Kampagnen.
 
 ![Bild eins](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-Mit der Dropdownliste **[!UICONTROL Nach]** Aktivität filtern können Sie Ihre Kampagnen nach Typ filtern. Sie können auch nach Kampagne, Aktivität usw. suchen.
+Verwenden Sie die Dropdownliste **[!UICONTROL Filtern nach]**, um Ihre Kampagnen nach Aktivitäten zu filtern. Sie können auch nach Kampagne, Aktivität usw. suchen.
 
 ![Bild zwei](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
