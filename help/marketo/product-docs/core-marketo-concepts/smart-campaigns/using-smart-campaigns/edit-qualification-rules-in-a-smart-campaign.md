@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne durch den Fluss laufen kann. Standardmäßig wird eine intelligente Kampagne nur einmal durch den Fluss gesendet, selbst wenn sie mehrere Male ausgelöst wird. So ändern Sie diese Einstellungen.
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Plan** und dann auf Einstellungen **bearbeiten**.
+1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Plan** und dann **Einstellungen bearbeiten**.
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >Sie können auch rechts neben &quot;Einstellungen für intelligente Kampagne&quot;auf &quot; **Bearbeiten** &quot;klicken.
+   >Sie können auch auf **Bearbeiten** rechts neben &quot;Einstellungen für intelligente Kampagne&quot;klicken.
 
-1. Wählen Sie aus, wie oft Ihre Mitarbeiter durch den Fluss intelligenter Kampagnen geführt werden sollen: **nur einmal**, **jedes Mal** oder **einmal alle # Tage**/**Wochen**/**Monate**.
+1. Wählen Sie aus, wie oft Ihre Mitarbeiter durch den Fluss intelligenter Kampagnen geführt werden sollen: **Nur einmal**, **jedes Mal** oder **einmal alle # Tage**/**Wochen**/**Monate**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -36,7 +36,7 @@ Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne dur
    >**Erinnerung**
    >
    >
-   >Kommunikationsbeschränkungen werden nicht standardmäßig auf intelligente Kampagnen angewendet. Erfahren Sie, wie Sie Kommunikationsbeschränkungen auf eine intelligente Kampagne [anwenden](apply-communication-limits-to-smart-campaign.md).
+   >Kommunikationsbeschränkungen werden nicht standardmäßig auf intelligente Kampagnen angewendet. Erfahren Sie, wie Sie auf eine intelligente Kampagne [Kommunikationsbeschränkungen anwenden.](apply-communication-limits-to-smart-campaign.md)
 
    >[!NOTE]
    >
