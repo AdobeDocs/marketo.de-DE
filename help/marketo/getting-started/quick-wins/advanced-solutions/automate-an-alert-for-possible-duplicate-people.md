@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Automatisieren einer Warnung für mögliche Duplikat-Personen {#automate-an-alert-for-possible-duplicate-people}
+# Automatisieren eines Warnhinweises für mögliche Duplikat-Personen {#automate-an-alert-for-possible-duplicate-people}
 
 Sie möchten bei jedem Erstellen eines Duplikats eine Warnung erhalten? So richten Sie eine intelligente Kampagne ein.
 
 1. [Erstellen Sie eine neue intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Definieren Sie die folgende intelligente Liste:
 
-* Auslöser: **Person erstellt**
-* Filter: **Duplikat-Felder.** Feldname **ist Vollständiger Name**
+* Auslöser: **Person wird erstellt**
+* Filter: **Duplikat-Felder.** Feldname  **ist Vollständiger Name**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ Sie möchten bei jedem Erstellen eines Duplikats eine Warnung erhalten? So richt
    >
    >Sei kreativ! Experimentieren Sie mit verschiedenen Feldern, um bessere Filterergebnisse zu erhalten.
 
-1. Wählen Sie im Flussschritt die Option Aktion für den [Sendewarnfluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) .
+1. Wählen Sie im Flussschritt die Fließaktion [Warnung senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md).
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Verwenden des Tokens &quot; [Warnhinweisinformationen senden&quot;, um einen Link zu der Person in Ihrem CRM-System einzuschließen](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) .
+   >Verwenden des Tokens [Warnhinweisinformationen senden](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md), um einen Link zur Person in Ihrem CRM-System einzuschließen.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Sie möchten bei jedem Erstellen eines Duplikats eine Warnung erhalten? So richt
    >
    >Zwei Personen mit demselben Namen bedeuten nicht automatisch, dass sie die gleiche Person sind.
 
-1. Aktivieren Sie die Kampagne auf der Registerkarte &quot; **Plan** &quot;.
+1. Aktivieren Sie die Kampagne auf der Registerkarte **Plan**.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
