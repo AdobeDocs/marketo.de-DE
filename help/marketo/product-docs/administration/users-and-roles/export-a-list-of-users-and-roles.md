@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Listen von Benutzern und Rollen exportieren {#export-a-list-of-users-and-roles}
+# Liste von Benutzern und Rollen {#export-a-list-of-users-and-roles} exportieren
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer- und Benutzerrollen zu exportieren. So geht es.
 
-1. Gehe zu **Admin**.
+1. Gehen Sie zu **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -31,7 +31,7 @@ Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer- und Benutzerro
 
    >[!TIP]
    >
-   >Um Rollen zu exportieren, gehen Sie zuerst zur Registerkarte &quot; **Rollen******&quot;und exportieren Sie dann.
+   >Um Rollen zu exportieren, gehen Sie zuerst zur Registerkarte **Rollen**** **und exportieren Sie dann.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
