@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Veröffentlichen einer benutzerdefinierten Aktivität {#publish-a-custom-activity}
+# Veröffentlichen einer benutzerspezifischen Aktivität {#publish-a-custom-activity}
 
 Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetzt ist es an der Zeit, es zu veröffentlichen!
 
@@ -19,7 +19,7 @@ Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetz
 
    ![](assets/one-2.png)
 
-1. Klicken Sie in **Datenbankverwaltung** auf **Zu benutzerspezifischen Aktivitäten** markieren.
+1. Klicken Sie unter **Datenbankverwaltung** auf **Benutzerspezifische Aktivitäten markieren**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetz
 
    ![](assets/three-2.png)
 
-1. Klicken Sie auf die Dropdownliste Aktionen **für** benutzerdefinierte Aktivitäten und wählen Sie Aktivität **** veröffentlichen.
+1. Klicken Sie auf die Dropdown-Liste **Benutzerspezifische Aktivität Aktionen** und wählen Sie **Aktivität veröffentlichen**.
 
    ![](assets/four-2.png)
 
