@@ -21,20 +21,20 @@ Es handelt sich dabei um einen systematischen Ansatz, der Vertriebs- und Marketi
 
 In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine Einzelperson eine Kaufentscheidung trifft. Es gibt oft verschiedene Rollen, die jeweils mit ihren eigenen Bedürfnissen verbunden sind. Die kontenbasierte Bewertung berücksichtigt dies, indem sie die Interessentenbewertungen aus mehreren Interessenten zusammenfasst und eine Bewertung auf Kontoebene bereitstellt.
 
-## Häufige Beispiele {#common-examples}
+## Allgemeine Beispiele {#common-examples}
 
 | **Bewertung der Kontointeraktion** | Einsatztiefe basierend auf verhaltensbasierten Aktivitäten, die über verschiedene Kanal (z. B. E-Mail, Web und Anzeige) von Personen in bestimmten Zielgruppen verfolgt werden. |
 |---|---|
 | **Bewertung des Kontoproduktinteresses** | Personen aus Zielgruppen-Konten, die Interesse an Inhalten eines bestimmten Produkts zeigen (z. B. Herunterladen eines White Papers). |
 | **Bewertung der Web-Interaktion mit Konten** | Besucher von Zielgruppen-Konten, die Web Kanal besuchen. Dieselbe Punktzahl kann erstellt werden, um die Interaktion der Kanal mit E-Mail, Anzeigen oder anderen Kanälen zu messen. |
 
-## So konfigurieren Sie die Kontobewertung {#how-to-configure-account-score}
+## Konfigurieren der Kontobewertung {#how-to-configure-account-score}
 
 >[!NOTE]
 >
 >**Erläuterung**
 >
->Zur Berechnung der Kontowerte müssen Sie zunächst eine Interessentenbewertung erstellen. Marketo ABM Aggregat automatisch Interessentenbewertungen zu Kontowerten. Als Beispiel nehmen wir zwei der oben genannten Beispiele (*Account **Product Interest Score* und *Account Web Interest Score*).
+>Zur Berechnung der Kontowerte müssen Sie zunächst eine Interessentenbewertung erstellen. Marketo ABM Aggregat automatisch Interessentenbewertungen zu Kontowerten. Als Beispiel nehmen wir zwei der oben genannten Beispiele (*Konto **Produkt-Interessensbewertung* und *Konto-Webinteraktionsbewertung*).
 >
 >Erstellen Sie zunächst Interessentenbewertungsfelder, die relevante Details aus jedem Interessenten eines Zielgruppen-Kontos erfassen.\
 >Weisen Sie dann diese Interessentenbewertungen ihren jeweiligen Kontowerten zu:\
@@ -63,7 +63,7 @@ Nachdem Sie die Interessentenbewertung konfiguriert haben, führen Sie die folge
    >
    >Sie können bis zu **5 **Felder zur Berechnung der Kontobewertung auswählen.
 
-1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf die Dropdown-Liste **Personenbewertung** auswählen und wählen Sie die entsprechende Punktzahl aus.
+1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf die Dropdownliste **Personenergebnis auswählen** und wählen Sie die entsprechende Punktzahl aus.
 
    ![](assets/four.png)
 
@@ -71,7 +71,7 @@ Nachdem Sie die Interessentenbewertung konfiguriert haben, führen Sie die folge
 
    ![](assets/five.png)
 
-1. hinzufügen Sie alle gewünschten Ergebnisse. Klicken Sie abschließend auf **Speichern** .
+1. hinzufügen Sie alle gewünschten Ergebnisse. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/six.png)
 
