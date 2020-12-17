@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eine Liste aller Marker-API-Feldnamen exportieren {#export-a-list-of-all-marketo-api-field-names}
+# Eine Liste aller Marker-API-Feldnamen {#export-a-list-of-all-marketo-api-field-names} exportieren
 
 Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, benötigen Sie eine Liste aller Felder und der zugehörigen API-Namen. Hier ist, wie man diese Liste bekommt.
 
@@ -19,11 +19,11 @@ Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, benötigen Sie eine Liste 
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 
-1. Klicken Sie auf Feldnamen **exportieren** , um die Tabelle herunterzuladen.
+1. Klicken Sie auf **Feldnamen exportieren**, um die Tabelle herunterzuladen.
 
    ![](assets/image2014-9-24-14-3a5-3a6.png)
 
