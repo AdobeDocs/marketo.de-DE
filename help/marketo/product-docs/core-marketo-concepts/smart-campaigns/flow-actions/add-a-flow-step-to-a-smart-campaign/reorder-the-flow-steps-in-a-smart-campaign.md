@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Flussschritte in einer intelligenten Kampagne neu anordnen {#reorder-the-flow-steps-in-a-smart-campaign}
+# Flussschritte in einer intelligenten Kampagne {#reorder-the-flow-steps-in-a-smart-campaign} neu anordnen
 
 Die Flussschritte werden von oben nach unten ausgeführt. Hier sehen Sie, wie Sie die Flussschritte an Ihre Bedürfnisse anpassen können.
 
