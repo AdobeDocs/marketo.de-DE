@@ -25,7 +25,7 @@ Benachrichtigungen halten Sie auf dem Laufenden über die Ereignis des Systems, 
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
-## Benachrichtigungen abonnieren {#subscribe-to-notifications}
+## Anmelden bei Benachrichtigungen {#subscribe-to-notifications}
 
 Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
@@ -43,5 +43,5 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
 >[!TIP]
 >
->Möchten Sie sich von Benachrichtigungs-E-Mails abmelden? Kein Problem. Klicken Sie einfach unten in der E-Mail auf den Link Benachrichtigungen **abmelden** .
+>Möchten Sie sich von Benachrichtigungs-E-Mails abmelden? Kein Problem. Klicken Sie einfach unten in der E-Mail auf den Link **Abmelden von Benachrichtigungen**.
 
