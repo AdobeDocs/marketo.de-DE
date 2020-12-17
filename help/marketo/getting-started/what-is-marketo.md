@@ -43,11 +43,11 @@ Nein, überhaupt nicht. Marketo ist einfach zu starten und wird sich mit Ihnen e
 
 ## Muss ich ein Setup durchführen? {#do-i-need-to-do-any-setup}
 
-Ja, wir haben eine [Checkliste erstellt](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Ja, wir haben eine [Checkliste der Aufgaben erstellt.](/help/marketo/getting-started/setup-steps/setup-checklist.md)
 
 ## Muss ich warten, bis das Setup abgeschlossen ist, um zu lernen? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nein! Wir haben eine Reihe einfacher Tutorials gemacht. [Fang hier](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)an! Sie sollten etwa eine Stunde dauern. Du kannst jederzeit Beginn machen.
+Nein! Wir haben eine Reihe einfacher Tutorials gemacht. [Fang hier](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md) an! Sie sollten etwa eine Stunde dauern. Du kannst jederzeit Beginn machen.
 
 ## Warum stelle ich noch Fragen? {#why-am-i-still-asking-questions}
 
