@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Filtern eines Programm-Berichts nach Zeitraumkosten {#filter-a-program-report-by-period-cost}
+# Filtern eines Programm-Berichts nach Zeitkosten {#filter-a-program-report-by-period-cost}
 
-Konzentrieren Sie Ihren [Programm-Performance-Bericht](create-a-program-performance-report.md) auf einen bestimmten Zeitrahmen für die Kosteneffizienz.
+Konzentrieren Sie den [Programm Performance Report](create-a-program-performance-report.md) auf einen bestimmten Zeitraumkostenzeitrahmen.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten** (oder **Analytics**).
+1. Gehen Sie zu **Marketing** **Aktivitäten** (oder **Analytics**).
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ Konzentrieren Sie Ihren [Programm-Performance-Bericht](create-a-program-performa
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. Klicken Sie auf die Registerkarte **Einrichtung** und ziehen Sie den Mauszeiger über die **Kosten** des Zeitraums.
+1. Klicken Sie auf die Registerkarte **Setup** und ziehen Sie den Mauszeiger über **Kosten des Zeitraums**.
 
    ![](assets/lm-86194-1.png)
 
-1. Geben Sie die Daten **von** und **Bis** für die angefallenen Kosten ein und klicken Sie auf **Übernehmen**.
+1. Geben Sie für die angefallenen Kosten die Datumsangaben **Von** und **bis** ein und klicken Sie auf **Übernehmen**.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. Du bist fertig! Klicken Sie auf die Registerkarte &quot; **Bericht** &quot;, um nur die Programm anzuzeigen, die innerhalb des angegebenen Zeitraums liegen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht**, um nur die Programm anzuzeigen, die innerhalb des angegebenen Zeitraums liegen.
 
    ![](assets/lm-86194-report-tab.png)
 
@@ -49,5 +49,5 @@ Konzentrieren Sie Ihren [Programm-Performance-Bericht](create-a-program-performa
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über Berichte in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
