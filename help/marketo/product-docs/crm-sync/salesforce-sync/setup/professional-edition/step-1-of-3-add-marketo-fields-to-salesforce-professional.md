@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schritt 1 von 3: hinzufügen Marketo Fields to Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Marketo verwendet eine Reihe von Feldern, um bestimmte Arten von Marketinginform
 
 Alle diese benutzerdefinierten Felder sind optional und müssen nicht synchronisiert werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
 
-## hinzufügen von Marketo-Feldern in Salesforce {#add-marketo-fields-to-salesforce}
+## hinzufügen Marketo-Felder an Salesforce {#add-marketo-fields-to-salesforce}
 
 hinzufügen drei benutzerdefinierte Felder auf den oben aufgeführten Interessenten- und Kontaktobjekten in Salesforce. Wenn Sie weitere hinzufügen möchten, sehen Sie sich die Tabelle der verfügbaren Felder am Ende dieses Abschnitts an.
 
@@ -41,11 +41,11 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicken Sie unten auf der Seite im Abschnitt &quot;Benutzerdefinierte Felder und Beziehungen&quot;auf **Neu** .
+1. Klicken Sie im Abschnitt &quot;Benutzerdefinierte Felder und Beziehungen&quot;unten auf der Seite auf **Neu**.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Wählen Sie den entsprechenden Feldtyp aus (für Ergebnis — **Nummer**; Akquise-Programm — **Text**; Akquise-Datum — **Datum/Uhrzeit**).
+1. Wählen Sie den entsprechenden Feldtyp aus (für Ergebnis — **number**; Akquise-Programm — **text**; Akquise-Datum — **Datum/Uhrzeit**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -112,13 +112,13 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Legen Sie die Zugriffseinstellungen fest und klicken Sie auf **Weiter**:
+1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **Weiter**:
 
-   * Legen Sie alle Rollen auf **Sichtbar **und **Schreibgeschützt fest.**
+   * Legen Sie alle Rollen auf **Sichtbar **und **Schreibgeschützt** fest.
 
-   * Deaktivieren Sie das **Kontrollkästchen &quot;Schreibgeschützt** &quot;für das Profil des Synchronisierungsbenutzers:
+   * Deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Profil des Synchronisierungsbenutzers:
 
-      * Wenn Sie einen Benutzer haben, der das Profil eines *Systemadministrators* als Synchronisierungsbenutzer hat, deaktivieren Sie das Kontrollkästchen &quot; **Schreibgeschützt** &quot;für das Profil &quot;Systemadministrator&quot;(wie unten gezeigt).
+      * Wenn Sie einen Benutzer mit dem Profil eines *Systemadministrators* als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Systemadministrator-Profil (wie unten gezeigt).
 
       * Wenn Sie ein *benutzerdefiniertes Profil* für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für dieses benutzerdefinierte Profil
 
@@ -128,7 +128,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicken Sie auf **Speichern &amp; Neu** , um zurückzukehren und jedes der beiden anderen benutzerdefinierten Felder zu erstellen. Klicken Sie auf **Speichern** , wenn Sie alle drei Schritte abgeschlossen haben.
+1. Klicken Sie auf **Speichern und Neu**, um zurückzukehren und die beiden anderen benutzerdefinierten Felder zu erstellen. Klicken Sie auf **Speichern**, wenn Sie alle drei Schritte abgeschlossen haben.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -225,7 +225,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
  </tbody> 
 </table>
 
-## Benutzerdefinierte Felder für Konvertierungen zuordnen  {#map-custom-fields-for-conversions}
+## Benutzerdefinierte Felder für Konvertierungen zuordnen {#map-custom-fields-for-conversions}
 
 Ein benutzerdefiniertes Feld auf dem Interessentenobjekt in Salesforce sollte einem Kontaktfeld auf dem Kontaktobjekt zugeordnet werden, damit Daten bei einer Konvertierung übertragen werden.
 
@@ -258,7 +258,7 @@ Einfach genug, nicht wahr?
 >
 >**Tieftauchen**
 >
->Hier ist ein [Video des gesamten Prozesses](https://nation.marketo.com/videos/1475) , der es kristallklar machen sollte!
+>Hier ist ein [Video des gesamten Prozesses](https://nation.marketo.com/videos/1475), das es kristallklar machen sollte!
 
 >[!NOTE]
 >
