@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vorschau Ihrer E-Mail nach dem Hinzufügen dynamischer Inhalte, um sie zu überprüfen.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Vorschau E-Mail**.
+1. Wählen Sie Ihre E-Mail und klicken Sie auf **Vorschau E-Mail**.
 
    ![](assets/one-3.png)
 
@@ -32,7 +32,7 @@ Vorschau Ihrer E-Mail nach dem Hinzufügen dynamischer Inhalte, um sie zu überp
 
 Dynamische Inhalte können auch direkt im E-Mail-Editor Vorschau werden.
 
-1. Klicken Sie unter **Inhalt** auf die Registerkarte **Dynamisch** .
+1. Klicken Sie unter **Inhalt** auf die Registerkarte **Dynamisch**.
 
    ![](assets/five-1.png)
 
