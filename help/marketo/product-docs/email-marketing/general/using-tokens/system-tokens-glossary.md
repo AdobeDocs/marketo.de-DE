@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Glossar &quot;SystemToken&quot; {#system-tokens-glossary}
+# SystemToken-Glossar {#system-tokens-glossary}
 
 Zusätzlich zu den persönlichen Token können Sie einige wirklich coole Systemtokens verwenden. Hier sind sie.
 
@@ -21,57 +21,57 @@ Zusätzlich zu den persönlichen Token können Sie einige wirklich coole Systemt
 
 ## system.date {#system-date}
 
-Das `{{system.date}}` Token gibt das aktuelle Datum zur Laufzeit wie folgt wieder: **08.08.2013**
+Das `{{system.date}}`-Token gibt das aktuelle Datum zur Laufzeit wie folgt wieder: **08. August 2013**
 
 **Funktioniert in:**
 
-* [Datenwert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) -Flussschritt ändern
-* [Interessanter Moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) -Flussschritt
-* [Aufgabe](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) -Flussschritt erstellen
+* [Schritt ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) &quot;Datenwert ändern&quot;
+* [Interessanter Schritt ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) des Momentflusses
+* [TaskFlow-](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Schritt erstellen
 * Text einer E-Mail oder Vorlage
 
 ## system.time {#system-time}
 
-Das `{{system.time}}` Token gibt die aktuelle Zeit zur Laufzeit wie folgt wieder: **04:34 (GMT -0700)**
+Das Token `{{system.time}}` gibt die aktuelle Zeit zur Laufzeit wie folgt wieder: **04:34 PM (GMT -0700)**
 
 **Funktioniert in:**
 
-* [Datenwert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) -Flussschritt ändern
-* [Interessanter Moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) -Flussschritt
-* [Aufgabe](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) -Flussschritt erstellen
+* [Schritt ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) &quot;Datenwert ändern&quot;
+* [Interessanter Schritt ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) des Momentflusses
+* [TaskFlow-](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Schritt erstellen
 * Text einer E-Mail oder Vorlage
 
 ## system.dateTime {#system-datetime}
 
-Das `{{system.dateTime}}` Token gibt das aktuelle Datum und die aktuelle Uhrzeit zur Laufzeit wie folgt wieder: **2013-08-08 16:36:13**
+Das `{{system.dateTime}}`-Token gibt das aktuelle Datum und die aktuelle Uhrzeit zur Laufzeit wie folgt wieder: **2013-08-08 16:36:13**
 
 **Funktioniert in:**
 
-* [Datenwert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) -Flussschritt ändern
-* [Interessanter Moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) -Flussschritt
-* [Aufgabe](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) -Flussschritt erstellen
+* [Schritt ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) &quot;Datenwert ändern&quot;
+* [Interessanter Schritt ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) des Momentflusses
+* [TaskFlow-](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Schritt erstellen
 * Text einer E-Mail oder Vorlage
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Mit dem `{{system.forwardToFriendLink}}` Token können Sie die Platzierung des [&quot;Weiterleiten an einen Freund-Link&quot;in E-Mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)steuern.
+Mit dem Token `{{system.forwardToFriendLink}}` können Sie die Platzierung des [&#39;Weiterleiten an einen Freund-Link&#39; in E-Mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md) steuern.
 
 **Funktioniert in:**
 
-* [hinzufügen eines System-Tokens als Link in einer E-Mail](add-a-system-token-as-a-link-in-an-email.md) oder Vorlage
+* [hinzufügen eines System-Tokens als Link in einer ](add-a-system-token-as-a-link-in-an-email.md) E-Mail-Vorlage
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-Mit dem `{{system.unsubscribLink}}` Token können Sie die Platzierung des Link zum Abmelden in einer E-Mail steuern.
+Mit dem Token `{{system.unsubscribLink}}` können Sie die Platzierung des Link zum Abmelden in einer E-Mail steuern.
 
 **Funktioniert in:**
 
-* [hinzufügen eines System-Tokens als Link in einer E-Mail](add-a-system-token-as-a-link-in-an-email.md) oder Vorlage
+* [hinzufügen eines System-Tokens als Link in einer ](add-a-system-token-as-a-link-in-an-email.md) E-Mail-Vorlage
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-Mit dem `{{system.viewAsWebpageLink}}` Token können Sie die Platzierung der Ansicht als Webseiten-Link in einer E-Mail steuern.
+Mit dem Token `{{system.viewAsWebpageLink}}` können Sie die Platzierung der Ansicht als Webseitenlink in einer E-Mail steuern.
 
 **Funktioniert mit:**
 
-* [hinzufügen eines System-Tokens als Link in einer E-Mail](add-a-system-token-as-a-link-in-an-email.md) oder Vorlage
+* [hinzufügen eines System-Tokens als Link in einer ](add-a-system-token-as-a-link-in-an-email.md) E-Mail-Vorlage
