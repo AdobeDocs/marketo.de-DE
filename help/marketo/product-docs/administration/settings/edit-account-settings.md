@@ -19,7 +19,7 @@ Müssen Sie die E-Mail-Adresse, den Namen oder die Telefonnummer des Kontos änd
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehe zu **Admin**.
+1. Gehen Sie zu **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,11 +27,11 @@ Müssen Sie die E-Mail-Adresse, den Namen oder die Telefonnummer des Kontos änd
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Wählen Sie Kontoeinstellungen **bearbeiten**.
+1. Wählen Sie **Kontoeinstellungen bearbeiten**.
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
-1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie auf **Speichern**.
+1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **Speichern**.
 
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
