@@ -19,22 +19,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Definition:** Ein Mitglied ist eine Person mit einem Status in einem Programm.
+>**Definition:** Ein Mitglied ist eine Person, die in einem Programm den Status hat.
 
-## Wie Menschen Mitglieder eines Programms werden {#how-people-become-members-of-a-program}
+## So werden Personen Mitglieder eines Programms {#how-people-become-members-of-a-program}
 
 1. Eine Person füllt ein [Formular auf einer Landingpage](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) im Programm aus.
 
    1. Die Person hat automatisch den ersten Status in der Progression.
 
-1. Mitglieder [werden aus einer CSV-Datei in das Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) importiert.
+1. Sie [importieren Mitglieder aus einer CSV-Datei in das Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md).
 
    1. Die Person hat automatisch den ersten Status in der Progression.
 
-1. Sie verwenden den Schritt zum [Ändern des Status](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) des Programms.
-1. Eine Person registriert oder besucht ein [Webinar, das mit einem Ereignis-Programm](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)synchronisiert wird.
-1. Eine Person wird mithilfe der Marketing iPad-Eincheckanwendung [erstellt](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-1. Eine Person wird einer SFDC-Kampagne hinzugefügt, die mit dem Programm [synchronisiert](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)wird.
+1. Verwenden Sie den Flussschritt [Programm ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
+1. Eine Person registriert oder besucht ein [Webinar, das mit einem Ereignis-Programm](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md) synchronisiert wird.
+1. Eine Person wird mit der Marketo iPad-Check-in-Anwendung [ erstellt.](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
+1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die mit dem Programm [synchronisiert wird.](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## Programm-Status {#program-statuses}
 
-Programm-Statusangaben sind die Schritte, die Personen in einem Programm ausführen (z. B. &quot;Eingeladen&quot;, &quot;RSVP&quot;d, &quot;Teilnehmer&quot;oder &quot;Keine Anzeige&quot;). Diese Schritte werden vom [Kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)definiert.
+Programm-Statusangaben sind die Schritte, die Personen in einem Programm ausführen (z. B. &quot;Eingeladen&quot;, &quot;RSVP&quot;d, &quot;Teilnehmer&quot;oder &quot;Keine Anzeige&quot;). Diese Schritte werden durch den [Kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) definiert.
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -58,9 +58,9 @@ Der Zweck eines Programms besteht darin, eine aussagekräftige Interaktion mit d
 >
 >Bei einem Webinar ist die Registrierung keine sinnvolle Interaktion, wenn sie das Webinar nicht wirklich anschauen. Die Teilnahme ist in diesem Fall ein Erfolg.
 
-## Akquise-Programm  {#acquisition-program}
+## Akquise-Programm {#acquisition-program}
 
-Wenn ein neuer Programm in das System als Systemmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [First Touch-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)eingerichtet.
+Wenn ein neuer Programm in das System als Systemmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [First Touch-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) eingerichtet.
 
 >[!MORELIKETHIS]
 >
