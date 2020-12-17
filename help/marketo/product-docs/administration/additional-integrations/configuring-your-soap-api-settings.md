@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Web-Services**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Web-Services**.
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. Legen Sie einen geeigneten **Verschlüsselungsschlüssel** fest, klicken Sie auf Änderungen **speichern** und geben Sie alle Informationen an Ihren Entwickler weiter.
+1. Legen Sie einen geeigneten **Verschlüsselungsschlüssel** fest, klicken Sie auf **Änderungen speichern** und geben Sie alle Informationen an Ihren Entwickler weiter.
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
