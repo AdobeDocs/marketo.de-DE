@@ -19,13 +19,13 @@ Wenn Sie den Umsatzwyklen-Modellierer verwenden und über ein zugelassenes Model
 
 ![](assets/image2014-9-22-17-3a4-3a59.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
-1. Wählen Sie das **Modell** aus.
+1. Wählen Sie das **Modell**.
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Wählen Sie die **neue Phase** , die Sie zuweisen möchten und Sie sind fertig!
+1. Wählen Sie die **Neue Phase** aus, die Sie zuweisen möchten und fertig sind!
 
    ![](assets/image2014-9-22-17-5-8.png)
 
