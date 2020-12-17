@@ -52,17 +52,17 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
    >
    >Vergewissern Sie sich bitte, dass Ihre Anmeldeinformationen korrekt sind, da wir die nachfolgenden Änderungen des Schemas nach der Übermittlung nicht wiederherstellen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketing-Abonnement erhalten.
 
-1. Geben Sie den **Benutzernamen**, das **Kennwort** und die Microsoft Dynamics- **URL** ein (Client-ID und geheimer Clientschlüssel sind optional). Klicken Sie abschließend auf **Speichern** .
+1. Geben Sie **Benutzername**, **Kennwort** und Microsoft Dynamics **URL** ein (Client-ID und geheimer Clientschlüssel sind optional). Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot; [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) DOMÄNE\Benutzer&quot;lauten.
+   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;[`[email protected]`&quot;oder &quot;](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1)&quot;oder &quot;DOMAIN\user&quot;lauten.
 
-## Zu synchronisierende Felder auswählen {#select-fields-to-sync}
+## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
 
-1. Klicken Sie in **Schritt 2 auf** Bearbeiten **: Wählen Sie zu synchronisierende** Felder aus.
+1. Klicken Sie in **Schritt 2 auf** Bearbeiten **: Wählen Sie die zu synchronisierenden Felder aus.**
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -78,7 +78,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten** .
+1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten**.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -96,7 +96,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
    >
    >Marketo wird nicht automatisch deduplizieren gegen eine Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben Personen oder Interessenten.
 
-1. Lesen Sie alles im Popup, geben Sie Ihre E-Mail-Adresse ein und klicken Sie auf **Beginn-Synchronisierung**.
+1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail-Adresse ein und klicken Sie auf **Beginn-Synchronisierung**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
