@@ -19,7 +19,7 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit Programm S
 
 ![](assets/image2014-9-22-14-3a45-3a8.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Wenn Sie in diesen Flussschritt ziehen, wird das Programm automatisch auf das Programm mit der bearbeiteten intelligenten Kampagne eingestellt.
 
@@ -29,7 +29,7 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit Programm S
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Wählen Sie **Erfolgsdatum** oder** Erfolgsdatum** als Attribut.
+1. Wählen Sie **Erfolgsdatum** oder*** Erfolgsdatum** als Attribut aus.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit Programm S
    >
    >Wenn Sie das Erfolgsdatum auf irgendetwas einstellen, wird &quot;Erfolg&quot;automatisch auf &quot;true&quot;gesetzt. Wenn Sie Erfolgsdatum auf true setzen, wird das Erfolgsdatum automatisch auf das aktuelle Datum festgelegt.
 
-1. Legen Sie als **Neuer Wert** &quot; **True** &quot;oder &quot; **False&quot;fest**.
+1. Stellen Sie den Wert **Neuer Wert** auf **True** oder **False** ein.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
