@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Programm-Bericht nach Tag filtern {#filter-a-program-report-by-tag}
+# Filtern eines Programm-Berichts nach Tag {#filter-a-program-report-by-tag}
 
-Konzentrieren Sie Ihren [Programm-Performance-](create-a-program-performance-report.md)Bericht auf bestimmte [Tags](http://docs.marketo.com/display/docs/tags).
+Konzentrieren Sie den [Programm-Leistungsbericht](create-a-program-performance-report.md)auf bestimmte [Tags](http://docs.marketo.com/display/docs/tags).
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten** (oder **Analytics**).
+1. Gehen Sie zu **Marketing** **Aktivitäten** (oder **Analytics**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihren **Programm Performance** -Bericht.
+1. Wählen Sie den Bericht **Programm Performance** aus.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** und ziehen Sie über einen der **Tags** -Filter.
+1. Klicken Sie auf die Registerkarte **Setup** und ziehen Sie über einen der Filter **Tags**.
 
    ![](assets/prospects.jpg)
 
@@ -31,11 +31,11 @@ Konzentrieren Sie Ihren [Programm-Performance-](create-a-program-performance-rep
 
    ![](assets/prospect1.jpg)
 
-1. Klicken Sie auf **Übernehmen**.
+1. Klicken Sie auf **Apply**.
 
    ![](assets/prospect2.jpg)
 
-1. Fertig! Klicken Sie auf die Registerkarte &quot; **Bericht** &quot;, um *nur* die Programm anzuzeigen, die den im Bericht ausgewählten Tags entsprechen.
+1. Fertig! Klicken Sie auf die Registerkarte **Bericht**, um *nur* die Programm anzuzeigen, die den ausgewählten Tags in Ihrem Bericht entsprechen.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
@@ -53,5 +53,5 @@ Konzentrieren Sie Ihren [Programm-Performance-](create-a-program-performance-rep
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über Berichte in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
