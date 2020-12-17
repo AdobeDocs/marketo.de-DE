@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## In Archivordner konvertieren
 
-Klicken Sie mit der rechten Maustaste auf einen beliebigen Ordner und wählen Sie &quot;In Archivordner **[!UICONTROL konvertieren&quot;]**.
+Klicken Sie mit der rechten Maustaste auf einen beliebigen Ordner und wählen Sie **[!UICONTROL In Archivordner konvertieren]**.
 
 ![Bild eins](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
