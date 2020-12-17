@@ -25,7 +25,7 @@ Marketo verwendet eine Reihe von Feldern, um bestimmte Arten von Marketinginform
 
 Alle diese benutzerdefinierten Felder sind optional und müssen nicht synchronisiert werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
 
-## hinzufügen von Marketo-Feldern in Salesforce {#add-marketo-fields-to-salesforce}
+## hinzufügen Marketo-Felder an Salesforce {#add-marketo-fields-to-salesforce}
 
 hinzufügen drei benutzerdefinierte Felder auf den oben aufgeführten Interessenten- und Kontaktobjekten in Salesforce. Wenn Sie weitere hinzufügen möchten, sehen Sie sich die Tabelle der verfügbaren Felder am Ende dieses Abschnitts an.
 
@@ -112,11 +112,11 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
 1. Legen Sie die Zugriffseinstellungen fest und klicken Sie auf Weiter:
 
-   * Legen Sie alle Rollen auf **Sichtbar **und **Schreibgeschützt fest.**
+   * Legen Sie alle Rollen auf **Sichtbar **und **Schreibgeschützt** fest.
 
-   * Deaktivieren Sie das **Kontrollkästchen &quot;Schreibgeschützt** &quot;für das Profil des Synchronisierungsbenutzers:
+   * Deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Profil des Synchronisierungsbenutzers:
 
-      * Wenn Sie einen Benutzer haben, der das Profil eines *Systemadministrators* als Synchronisierungsbenutzer hat, deaktivieren Sie das Kontrollkästchen &quot; **Schreibgeschützt** &quot;für das Profil &quot;Systemadministrator&quot;(wie unten gezeigt).
+      * Wenn Sie einen Benutzer mit dem Profil eines *Systemadministrators* als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Systemadministrator-Profil (wie unten gezeigt).
       * Wenn Sie ein *benutzerdefiniertes Profil* für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für dieses benutzerdefinierte Profil
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
@@ -244,7 +244,7 @@ Ein benutzerdefiniertes Feld auf dem Interessentenobjekt in Salesforce sollte ei
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Geben Sie &quot;Felder&quot;in die Nav-Suche ein, ohne die Eingabetaste zu drücken. Felder werden unter verschiedenen Objekten angezeigt. Klicken Sie unter &quot;Interessenten&quot;auf **Felder** .
+1. Geben Sie &quot;Felder&quot;in die Nav-Suche ein, ohne die Eingabetaste zu drücken. Felder werden unter verschiedenen Objekten angezeigt. Klicken Sie unter &quot;Interessenten&quot;auf **Felder**.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
@@ -261,7 +261,7 @@ Ein benutzerdefiniertes Feld auf dem Interessentenobjekt in Salesforce sollte ei
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Wiederholen Sie die oben genannten Schritte für alle anderen von Ihnen erstellten Felder.
-1. Klicken Sie auf **Speichern** , wenn Sie fertig sind.
+1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    Einfach genug, nicht wahr?
 
@@ -269,7 +269,7 @@ Ein benutzerdefiniertes Feld auf dem Interessentenobjekt in Salesforce sollte ei
 >
 >**Tieftauchen**
 >
->Hier ist ein Link zu einem [Video des gesamten Verfahrens](https://nation.marketo.com/videos/1475) , das es klar machen sollte!
+>Hier ist ein Link zu einem [Video des gesamten Verfahrens](https://nation.marketo.com/videos/1475), das es kristallklar machen sollte!
 
 >[!NOTE]
 >
