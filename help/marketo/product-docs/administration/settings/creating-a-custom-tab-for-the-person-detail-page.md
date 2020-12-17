@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines benutzerspezifischen Registers für die Seite mit den Benutzerdetails {#creating-a-custom-tab-for-the-person-detail-page}
+# Erstellen eines benutzerspezifischen Registers für die Seite mit Personendetails {#creating-a-custom-tab-for-the-person-detail-page}
 
 Wenn Sie sich immer wieder nach einem bestimmten Satz von Feldern in den Personendetails umsehen, sollten Sie ein benutzerdefiniertes Layout erstellen, um die Dinge zu vereinfachen.
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Klicken Sie auf die Registerkarte **Designer** für benutzerdefiniertes Layout.
+1. Klicken Sie auf die Registerkarte **Designer für benutzerdefiniertes Layout**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
