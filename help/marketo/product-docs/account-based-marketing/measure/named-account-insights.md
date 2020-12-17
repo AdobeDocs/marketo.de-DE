@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einblicke in benannte Konten {#named-account-insights}
+# Benannte Kontoeinblicke {#named-account-insights}
 
 Das Dashboard &quot;Benanntes Konto&quot;bietet eine 360-Grad-Ansicht eines Zielgruppen-Kontos.
 
@@ -19,13 +19,13 @@ Das Dashboard &quot;Benanntes Konto&quot;bietet eine 360-Grad-Ansicht eines Ziel
 
 ## Dashboard {#dashboard}
 
-Das Dashboard Aggregat wichtige Einblicke auf Kontoebene von allen Personen innerhalb eines benannten Kontos, wodurch vermieden wird, dass jeder zur Bewertung seines Fortschritts weitergeleitet werden muss. Sie können die E-Mail-Aktivität mithilfe von [E-Mail-Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing)tiefer untersuchen.
+Das Dashboard Aggregat wichtige Einblicke auf Kontoebene von allen Personen innerhalb eines benannten Kontos, wodurch vermieden wird, dass jeder zur Bewertung seines Fortschritts weitergeleitet werden muss. Mit [Email Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing) können Sie tiefer in die E-Mail-Aktivität vordringen.
 
 >[!NOTE]
 >
 >Diagramme zeigen Einblicke aus den letzten 90 Tagen.
 
-**Kontointeraktion im Zeitverlauf** Klicken Sie auf die Dropdown-Liste **Ansicht** auf der rechten Seite, um Ihre Ansicht zu ändern. Neben der Kontobewertung können Sie die Ansicht nach Gesamtumsatz vornehmen...
+**Kontointeraktion über** ZeitKlicken Sie auf die Dropdown-Liste  **** Ansicht auf der rechten Seite, um Ihre Ansicht zu ändern. Neben der Kontobewertung können Sie die Ansicht nach Gesamtumsatz vornehmen...
 
 ![](assets/two-new.png)
 
@@ -52,19 +52,19 @@ Das Dashboard Aggregat wichtige Einblicke auf Kontoebene von allen Personen inne
 
 **Interessante Momente**
 
-Erhältlich für Benutzer von [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), sehen Sie die interessanten Momente aggregiert auf Kontoebene.
+Verfügbar für Benutzer von [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), sehen Sie die interessanten Momente aggregiert auf Kontoebene.
 
 ![](assets/int-mom.png)
 
 **Top-Personen**
 
-Diese Personen werden basierend auf Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) in Sales Insight) oder vom Benutzer definierten Bewertungen angezeigt werden. **Die Priorität** steht nur Benutzern von Marketo Sales Insight zur Verfügung.
+Diese Personen werden basierend auf Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) in Sales Insight) oder vom Benutzer definierten Bewertungen angezeigt werden. **Die** Priorität steht nur Benutzern von Marketo Sales Insight zur Verfügung.
 
 ![](assets/top-ten.png)
 
 **Untergeordnete Elemente**
 
-Klicken Sie auf Untergeordnete Konten **einschließen** , um die untergeordneten Konten des ausgewählten benannten Kontos anzuzeigen und auszuwählen und deren Aggregat-Analyse Ansicht.
+Klicken Sie auf **Enthält Kinder**, um die untergeordneten Konten des ausgewählten benannten Kontos anzuzeigen und auszuwählen und ihre Aggregat-Analyse Ansicht.
 
 ![](assets/abm.png)
 
@@ -84,7 +84,7 @@ Eine Ansicht aller offenen Möglichkeiten auf Kontoebene, die Marketing-Teams da
 
 ![](assets/four-1.png)
 
-## Potenzielle Menschen {#potential-people}
+## Potenzielle Personen {#potential-people}
 
 Die Interessenten-zu-Konto-Übereinstimmung verwendet Fuzzy-Logik, um schwache Übereinstimmungen zu finden, die auf der Registerkarte &quot;Potenzielle Personen&quot;behoben werden können.
 
@@ -108,11 +108,11 @@ Mitglieder des Ansichten-Kontoteams, Mitglieder hinzufügen/entfernen, in dieser
 
 >[!NOTE]
 >
->Klicken Sie auf die Dropdownliste Aktionen des **Kontoteams** , um Kontomitglieder hinzuzufügen/zu entfernen oder einen Kontoinhaber zuzuweisen.
+>Klicken Sie auf die Dropdownliste **Aktionen des Kontoteams**, um Kontomitglieder hinzuzufügen/zu entfernen oder einen Kontoinhaber zuzuweisen.
 
 ## ICP-Indikatoren {#icp-indicators}
 
-Ansicht der ICP-Indikatoren, die Sie beim [Anpassen des Modells](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning)für den Export ausgewählt haben.
+Ansicht der ICP-Indikatoren, die Sie beim [Anpassen des Modells](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning) für den Export ausgewählt haben.
 
 ![](assets/eight.png)
 
