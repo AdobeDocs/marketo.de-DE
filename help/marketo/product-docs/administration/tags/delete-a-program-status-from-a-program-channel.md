@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Programm-Status sind die Checkpoints über einen Programm-Pfad (Kanal). Wenn Sie aus Versehen einen Status erstellen oder ihn nicht mehr benötigen, können Sie ihn löschen.
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/admin.png)
 
@@ -23,11 +23,11 @@ Programm-Status sind die Checkpoints über einen Programm-Pfad (Kanal). Wenn Sie
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Wählen Sie den Kanal aus, aus dem Sie einen Status entfernen möchten, und klicken Sie dann unter **Tag-Aktionen** auf **Bearbeiten**.
+1. Wählen Sie den Kanal aus, von dem Sie einen Status entfernen möchten, und klicken Sie dann unter **Tag-Aktionen** auf **Bearbeiten**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Klicken Sie auf ![—](assets/image2014-9-24-15-3a52-3a39.png) , um den Status zu entfernen, und klicken Sie dann auf **SPEICHERN**.
+1. Klicken Sie auf ![—](assets/image2014-9-24-15-3a52-3a39.png), um den Status zu entfernen, und klicken Sie dann auf **SAVE**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ Programm-Status sind die Checkpoints über einen Programm-Pfad (Kanal). Wenn Sie
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Gut gemacht! Sie können auch einen ganzen Kanal [](delete-a-program-channel.md) löschen, falls erforderlich.
+Gut gemacht! Sie können auch einen ganzen Kanal [löschen, falls erforderlich.](delete-a-program-channel.md)
