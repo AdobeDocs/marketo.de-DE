@@ -21,7 +21,7 @@ Mit diesem Flussschritt fügen Sie von Marketo erstellte Personen in Ihr Dynamic
 
 ![](assets/one.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 Sie können einen Dynamics-Benutzer als Eigentümer festlegen.
 
