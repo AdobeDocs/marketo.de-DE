@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Synchronisierung der Kampagne aktivieren/deaktivieren {#enable-disable-campaign-sync}
+# Aktivieren/Deaktivieren der Synchronisierung von Kampagnen {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Diese Option ermöglicht es Marketo, seine Programm-Mitgliedschaft und Status mi
 
    **
 
-1. Klicken Sie auf &quot;Synchronisierungseinstellungen **bearbeiten&quot;**.
+1. Klicken Sie auf **Synchronisierungseinstellungen bearbeiten**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Markieren Sie **Salesforce Kampagne Sync** aktivieren und klicken Sie auf **SAVE**.
+1. Markieren Sie **Salesforce-Kampagne-Synchronisierung aktivieren** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
