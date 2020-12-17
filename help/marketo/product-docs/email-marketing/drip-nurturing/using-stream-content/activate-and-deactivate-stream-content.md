@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Stream-Inhalte aktivieren und deaktivieren {#activate-and-deactivate-stream-content}
+# Stream-Inhalt {#activate-and-deactivate-stream-content} aktivieren und deaktivieren
 
 Stream-Inhalt ist standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie während der Interaktionsaufrufe zu senden.
 
-## Stream-Inhalte aktivieren {#activate-stream-content}
+## Stream-Inhalt aktivieren {#activate-stream-content}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Bewegen Sie den Mauszeiger über den zu aktivierenden Inhalt, klicken Sie auf das Zahnradsymbol und dann auf **Aktivieren**.
+1. Bewegen Sie den Mauszeiger über den Inhalt, den Sie aktivieren möchten, klicken Sie auf das Zahnradsymbol und dann auf **Aktivieren**.
 
    >[!NOTE]
    >
@@ -35,13 +35,13 @@ Stream-Inhalt ist standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie w�
 
    >[!TIP]
    >
-   >Sie können auch alle Inhalte in einem Stream aktivieren, indem Sie auf das Zahnradsymbol auf der obersten Ebene klicken und dann auf Alle Inhalte **aktivieren klicken.**
+   >Sie können auch den gesamten Inhalt eines Streams aktivieren, indem Sie auf das Zahnradsymbol oben klicken und dann auf **Aktivieren Sie den gesamten Inhalt.**
 
    Gute Arbeit! Jetzt wissen Sie, wie Sie Inhalte in Ihren Streams aktivieren können.
 
 ## Stream-Inhalte deaktivieren {#deactivate-stream-content}
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
