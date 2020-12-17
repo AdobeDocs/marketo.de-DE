@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone} geplant sind
 
 In Notfällen können Sie den Versand eines E-Mail-Programms abbrechen, das bereits mit aktivierter Zeitzone für den Empfänger ausgeführt wurde.
 
 Da E-Mail-Programm, die mit der Zeitzone des Empfängers geplant sind, bis zu 24 Stunden lang ausgeführt werden können, werden nach diesem Zeitpunkt alle nachfolgenden Sends abgebrochen, wenn der Versand des Programms abgebrochen wird.
 
-1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann unter der Genehmigungskachel im Steuerungsbedienfeld auf Versand **abbrechen** .
+1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann auf **Versand abbrechen** unter der Genehmigungskachel im Steuerungsbedienfeld.
 
    ![](assets/ptz-abortdelivery.png)
 
@@ -25,13 +25,13 @@ Da E-Mail-Programm, die mit der Zeitzone des Empfängers geplant sind, bis zu 24
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Nach der Stornierung sieht das **Ergebnisraster** Ihres E-Mail-Programms wie unten dargestellt aus. Alle nachfolgenden Sends werden abgebrochen und in der Spalte &quot; **Aktivität-Typ** &quot;als &quot;E-Mail-Bounced Soft&quot;angezeigt.
+1. Nach der Stornierung sieht das Raster **Ergebnisse** Ihres E-Mail-Programms etwa wie folgt aus. Alle nachfolgenden Sends werden abgebrochen und in der Spalte **Aktivität Typ** als &quot;E-Mail-Bounced Soft&quot; angezeigt.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
    >[!NOTE]
    >
-   >Abgebrochene E-Mails werden **erst** dann als Soft-Bounce angezeigt, *wenn* die Auslieferung ursprünglich in den jeweiligen Zeitzonen geplant war. Bis zu diesem Zeitpunkt werden sie weiterhin als &quot;E-Mail senden&quot;angezeigt.
+   >Abgebrochene E-Mails werden erst dann als Soft Bounce **angezeigt, wenn** ursprünglich geplant war, dass sie in den entsprechenden Zeitzonen zugestellt werden. ** Bis zu diesem Zeitpunkt werden sie weiterhin als &quot;E-Mail senden&quot;angezeigt.
 
 1. Im Raster können Sie auf jede beliebige E-Mail-Aktivität klicken, um Details zur Ansicht anzuzeigen. Bei einem abgebrochenen Senden sieht das Popup für Details wie folgt aus:
 
