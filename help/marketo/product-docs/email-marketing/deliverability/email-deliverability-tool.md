@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Auslieferungswerkzeug {#email-deliverability-tool}
+# E-Mail-Auslieferungstool {#email-deliverability-tool}
 
 Das E-Mail-Versand-Tool von Marketo stellt eine Anwendung zur Verfügung, mit der die Zustellbarkeit einer E-Mail vor dem Versenden bewertet werden kann.
 
@@ -21,11 +21,11 @@ Das E-Mail-Versand-Tool von Marketo stellt eine Anwendung zur Verfügung, mit de
 >
 >Nicht alle Kunden verfügen über das Tool zur E-Mail-Zustellung. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter.
 
-Weitere Informationen zu dieser Funktion finden Sie im [E-Mail-Versand PowerPack auf Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
+Weitere Informationen zu dieser Funktion finden Sie im [E-Mail-Versand-PowerPack auf Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
->Spezifische Anweisungen finden Sie im [Benutzerhandbuch](https://250ok.com/guides/marketo/)zur Auslieferung von Produkten.
+>Spezifische Anweisungen finden Sie im Benutzerhandbuch[Marketingverantwortlichkeit](https://250ok.com/guides/marketo/).
 
