@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Assets mit Adobe Experience Manager importieren {#importing-assets-with-adobe-experience-manager}
+# Importieren von Assets mit Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
 Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie auswählen und sie in das Design Studio von Marketo importieren. **Administratorberechtigungen sind erforderlich**.
 
@@ -23,7 +23,7 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie die [AEM bereits ausgeführt haben](https://docs.marketo.com/x/FwPLAQ).
+>Vergewissern Sie sich, dass Sie die [AEM Konfiguration](https://docs.marketo.com/x/FwPLAQ) bereits durchgeführt haben.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **Aus Adobe Experience Manager** importieren.
+1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **Aus Adobe Experience Manager importieren**.
 
    ![](assets/two-1.png)
 
@@ -45,7 +45,7 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
    ![](assets/four-1.png)
 
-1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken Sie abschließend auf **Auswählen** .
+1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken Sie abschließend auf **Wählen Sie**.
 
    ![](assets/five.png)
 
@@ -53,15 +53,15 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
    >
    >Bilder dürfen nicht größer als 100 MB sein.
 
-1. Klicken Sie auf **Importieren** , um den Vorgang abzuschließen.
+1. Klicken Sie auf **Import**, um den Prozess abzuschließen.
 
    ![](assets/six-1.png)
 
-   Und das ist es! Klicken Sie auf **Schließen** , um zum Design Studio zurückzukehren.
+   Und das ist es! Klicken Sie auf **Schließen**, um zum Design Studio zurückzukehren.
 
    ![](assets/seven-1.png)
 
-## Hinweise {#things-to-note}
+## Dinge zu beachten {#things-to-note}
 
 Marketo unterstützt derzeit die Adobe Experience Manager-Versionen 6.4 und 6.5.
 
