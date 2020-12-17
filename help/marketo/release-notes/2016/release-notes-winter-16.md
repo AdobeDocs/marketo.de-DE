@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte kli
 
 ## [Ist anonymer Filter](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Der Filter &quot;Ist anonym&quot;wurde für intelligente Listen entfernt. Weitere Informationen finden Sie im Dokument [Next Generation Munchkin Tracking FAQ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) . Diese Änderung betrifft nicht die Web-Personalisierung (RTP), die anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte in Echtzeit für diese Besucher personalisiert.
+Der Filter &quot;Ist anonym&quot;wurde für intelligente Listen entfernt. Weitere Informationen finden Sie im Dokument [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md). Diese Änderung betrifft nicht die Web-Personalisierung (RTP), die anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte in Echtzeit für diese Besucher personalisiert.
 
 ## [Datenbank-Dashboard](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,11 +27,11 @@ Die Interessentendatenbank verfügt über ein aktualisiertes Zusammenfassungs-Da
 
 ## [Microsoft Edge Browser](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Wir haben Microsoft Edge zur [Liste der von Marketo unterstützten Browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) hinzugefügt.
+Microsoft Edge wurde zur [Liste der Browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) hinzugefügt, die von Marketing unterstützt werden.
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) wird jetzt unterstützt.
+[Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)  wird jetzt unterstützt.
 
 ## [Email Programm Head Beginn](../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -61,7 +61,7 @@ Erstellen, aktualisieren und klonen Sie Programm über die REST-API. Dies umfass
 
 ## [Verbesserungen bei Microsoft Dynamics](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** [Synchronisierungsstatus](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Halten Sie die Register zum aktuellen Durchsatz und zum Rückstand des Synchronisierungsprozesses. Unterteilen Sie sie nach Anzahl der Einfügungen und Aktualisierungen nach Objekt.
+** [Synchronisierungsstatus](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Behalten Sie die Register zum aktuellen Durchsatz und zum Rückstand des Synchronisierungsprozesses. Unterteilen Sie sie nach Anzahl der Einfügungen und Aktualisierungen nach Objekt.
 
 ![](assets/pending-backog-cropped.png)
 
@@ -77,7 +77,7 @@ Sie können jetzt viele-zu-viele Beziehungen zwischen Interessenten/Konten und e
 
 ## [Facebook-Interessentenanzeigen](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook-Interessentenanzeigen](https://www.facebook.com/business/a/lead-ads) sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf Facebook durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zu bekunden, damit das Unternehmen darauf reagieren kann. Die Integration von Marketing in Facebook-Interessentenanzeigen erfasst automatisch die Informationen, die ein Interessent im Formular für Interessentenanzeigen bereitstellt. Folgeaktionen und Benachrichtigungen können dann mit dem neuen Auslöser Facebook-Interessentenanzeigen ausgefüllt werden.
+[Facebook-](https://www.facebook.com/business/a/lead-ads) Interessentenanzeigen sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf Facebook durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zu bekunden, damit das Unternehmen darauf reagieren kann. Die Integration von Marketing in Facebook-Interessentenanzeigen erfasst automatisch die Informationen, die ein Interessent im Formular für Interessentenanzeigen bereitstellt. Folgeaktionen und Benachrichtigungen können dann mit dem neuen Auslöser Facebook-Interessentenanzeigen ausgefüllt werden.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
