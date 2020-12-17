@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Neu planen einer intelligenten Batch-Kampagne in der Ansicht Programmplanung {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# Neu planen einer intelligenten Batch-Kampagne in der Programmplanung-Ansicht {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Möchten Sie die Ausführung einer intelligenten Batch-Kampagne neu planen? Ziehen Sie sie per Drag &amp; Drop in die Zukunft in der Ansicht Programmplanung.
 
@@ -21,7 +21,7 @@ Möchten Sie die Ausführung einer intelligenten Batch-Kampagne neu planen? Zieh
 
 1. Ziehen Sie per Drag &amp; Drop das neue Datum, an dem die Kampagne ausgeführt werden soll. ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Großartig! Die intelligente Kampagne wurde neu geplant. Die Zeit kann auch von der Dropdown-Liste &quot; **Datum** &quot;in den Eintragsdetails geändert werden.
+1. Großartig! Die intelligente Kampagne wurde neu geplant. Die Zeit kann auch von der Dropdown-Liste **Datum** in den Eintragsdetails geändert werden.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
