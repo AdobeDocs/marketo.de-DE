@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aufgabe in Microsoft erstellen {#create-task-in-microsoft}
+# Aufgabe in Microsoft {#create-task-in-microsoft} erstellen
 
 Als Marketingspezialist verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Geschäften helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
 
@@ -19,7 +19,7 @@ Erstellen Sie Aufgabe in Microsoft erstellt eine Aufgabe unter Aktivitäten, die
 
 >[!NOTE]
 >
->Dieser Flussschritt funktioniert **nur, wenn er mit Auslösern** und nicht mit Filtern in Ihrer intelligenten Kampagne verwendet wird.
+>Dieser Flussschritt funktioniert nur, wenn er mit Triggern **, nicht mit Filtern, in Ihrer intelligenten Kampagne verwendet wird.**
 
 Standardmäßig sieht der Flussschritt wie folgt aus:   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.   ![](ass
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im **Betreff** und in der **Beschreibung** verwenden. Weitere Informationen finden Sie unter [Tokens für Flussschritte](http://docs.marketo.com/x/c4AR) .
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **Betreff** und **Beschreibung** verwenden. Weitere Informationen finden Sie unter [Token für Flussschritte](http://docs.marketo.com/x/c4AR).
 
