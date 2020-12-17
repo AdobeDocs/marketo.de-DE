@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Benutzerdefinierte Objektsynchronisierung für Nicht-Englisch aktivieren {#enable-non-english-custom-object-sync}
+# Nicht-englischsprachige benutzerdefinierte Objektsynchronisierung aktivieren {#enable-non-english-custom-object-sync}
 
 Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch eingestellt ist, wird möglicherweise ein Fehler ausgegeben, wenn versucht wird, eine benutzerdefinierte Objektsynchronisierung zu aktivieren.
 
@@ -19,17 +19,17 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Umgehung {#getting-around-it}
+## Umschließen {#getting-around-it}
 
 1. Melden Sie sich mit dem Marker bei Salesforce an, um den Benutzer zu synchronisieren.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Navigieren Sie unter dem Benutzernamen zu **Setup**.
+1. Wechseln Sie unter dem Benutzernamen zu **Setup**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Klicken Sie unter **Persönliche Informationen** auf **Meine persönlichen Daten**.
+1. Klicken Sie unter **Persönliche Informationen** auf **Meine persönlichen Informationen**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -37,7 +37,7 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Ändern Sie die **Sprache** in **Englisch**.
+1. Ändern Sie **Sprache** in **Englisch**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,11 +45,11 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Zurück in Marketo, unter **Admin > Salesforce > Objekte** klicken Sie auf Schema **aktualisieren**.
+1. Zurück in Marketo, unter **Admin > Salesforce > Objekte** klicken Sie auf **Schema aktualisieren**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Dadurch werden die Objekte in englischer Liste gezogen. Wählen Sie jetzt das Objekt Ihrer Wahl aus und klicken Sie auf **Synchronisierung** aktivieren.
+1. Dadurch werden die Objekte in englischer Liste gezogen. Wählen Sie jetzt das Objekt Ihrer Wahl aus und klicken Sie auf **Synchronisierung aktivieren**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
