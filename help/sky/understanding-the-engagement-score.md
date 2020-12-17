@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Mit dem Interaktionswert können Sie leicht erkennen, wie effektiv der Inhalt in Ihrem Interaktions-Programm ist. Der Wert liegt zwischen 0 und 100. Sehen Sie sich [das Dashboard](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) Interaktion an, um zu erfahren, wie Sie die Leistung Ihres Inhalts verfolgen können.
+Mit dem Interaktionswert können Sie leicht erkennen, wie effektiv der Inhalt in Ihrem Interaktions-Programm ist. Der Wert liegt zwischen 0 und 100. Sehen Sie sich [das Dashboard Interaktion](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) an, um zu sehen, wie Sie die Leistung Ihres Inhalts verfolgen können.
 
 ![Bild eins](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
