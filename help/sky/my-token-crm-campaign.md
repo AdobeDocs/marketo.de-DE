@@ -20,7 +20,7 @@ Im Folgenden wird beschrieben, wie Sie ein CRM-Kampagnen-Token für die Verwendu
 >
 >CRM-Kampagne My Tokens sind nur für Salesforce-Integrationen verfügbar.
 
-1. Ziehen Sie auf der Registerkarte &quot;My Tokens&quot;Ihres Programms oder Ordners ein **[!UICONTROL CRM-Kampagnen]** -Token in die Arbeitsfläche &quot;Local Tokens&quot;.
+1. Ziehen Sie auf der Registerkarte &quot;Meine Token&quot;Ihres Programms oder Ordners ein Token **[!UICONTROL CRM-Kampagne]** in die Arbeitsfläche &quot;Lokale Token&quot;.
 
    ![Bild eins](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
