@@ -19,11 +19,11 @@ Wenn Benutzer den gesamten Inhalt in einem Stream ausfüllen, kann Marketo Ihnen
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie ein Interaktions-Programm aus und klicken Sie auf die Registerkarte **Einstellungen** .
+1. Wählen Sie ein Interaktions-Programm aus und klicken Sie auf die Registerkarte **Setup**.
 
    ![](assets/setuptab.jpg)
 
-1. Klicken Sie mit der Dublette auf **Benachrichtigungen zu abgelaufenen Inhalten**.
+1. Klicken Sie mit der Dublette auf **Benachrichtigungen über abgelaufene Inhalte**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
