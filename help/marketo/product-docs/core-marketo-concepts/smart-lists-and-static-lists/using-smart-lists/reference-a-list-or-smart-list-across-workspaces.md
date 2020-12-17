@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Verweisen Sie auf eine Liste oder intelligente Liste in allen Arbeitsbereichen. {#reference-a-list-or-smart-list-across-workspaces}
+# Verweisen auf eine Liste oder intelligente Liste über Workspaces {#reference-a-list-or-smart-list-across-workspaces}
 
 Listen und intelligente Listen können für verschiedene Arbeitsbereiche freigegeben und referenziert werden, um eine einfache Wiederverwendung über die Datenbank zu ermöglichen.
 
 >[!NOTE]
 >
->Es gelten Benutzerpartitionsregeln (intelligente Listen und statische Listen in einem Arbeitsbereich zeigen nur Personen an, die Mitglieder der Liste *und* Mitglieder des aktuellen Arbeitsbereichs sind).
+>Es gelten Benutzerpartitionsregeln (intelligente Listen und statische Listen in einem Arbeitsbereich zeigen nur Personen an, die beide Mitglieder der Liste sind *und*).
 
-## Freigeben einer Liste oder einer intelligenten Liste  {#share-a-list-or-smart-list}
+## Freigeben einer Liste oder einer intelligenten Liste {#share-a-list-or-smart-list}
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/db-1.png)
 
