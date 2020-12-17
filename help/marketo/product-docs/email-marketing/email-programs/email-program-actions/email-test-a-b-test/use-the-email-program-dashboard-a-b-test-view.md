@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test {#use-the-email-program-dashboard-a-b-test-view}
+# Verwenden Sie das Dashboard E-Mail-Programm - A/B-Test-Ansicht {#use-the-email-program-dashboard-a-b-test-view}
 
-Sehen Sie sich an, wie gut Ihr A/B- [E-Mail-Programm mit diesem Dashboard läuft](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) .
+Sehen Sie sich an, wie Ihr [E-Mail-Programm A/B-Test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) mit diesem Dashboard läuft.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -29,7 +29,7 @@ Hier können Sie sehen, wie viele Klicks jede Variante hat.
 
 ![](assets/image2014-9-12-16-3a16-3a20.png)
 
-## Zum Öffnen klicken {#click-to-open}
+## Klicken, um {#click-to-open} zu öffnen
 
 Dieses Diagramm zeigt Ihnen das Verhältnis zwischen Klick und Öffnen. (# Klicks / # wird geöffnet).
 
