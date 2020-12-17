@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Funktionen der Schatztruhe aktivieren oder deaktivieren {#enable-or-disable-treasure-chest-features}
+# Aktivieren oder deaktivieren Sie die Funktionen der Schatztruhe {#enable-or-disable-treasure-chest-features}
 
 Die Schatztruhe bietet lustige experimentelle Funktionen, die nicht vollständig unterstützt werden.
 
@@ -23,11 +23,11 @@ Die Schatztruhe bietet lustige experimentelle Funktionen, die nicht vollständig
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
-1. Klicken Sie für die Funktion, die Sie aktivieren oder deaktivieren möchten, auf **Bearbeiten** .
+1. Klicken Sie auf **Bearbeiten**, um die Funktion zu aktivieren oder zu deaktivieren.
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. Markieren Sie das Kontrollkästchen **Aktiviert** , um die Deaktivierung zu aktivieren, oder heben Sie die Deaktivierung auf und klicken Sie auf **Speichern**.
+1. Markieren Sie das Kontrollkästchen **Aktiviert**, um die Deaktivierung zu aktivieren bzw. deaktivieren, und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
