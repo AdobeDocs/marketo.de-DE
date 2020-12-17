@@ -16,8 +16,8 @@ ht-degree: 0%
 Manchmal ist es am besten, nur die Regeln Liste. Gehen wir weiter:
 
 * Wenn Sie zwei Interessenten in **Salesforce** zusammenführen, teilt die normale Synchronisierung Marketo mit und die Interessenten werden automatisch als Personen in Marketo zusammengeführt.
-* Die Zusammenführung von zwei Personen in **Marketo** führt in der Tat zum selben Prozess wie die Zusammenführung als Interessenten in Salesforce. Es funktioniert immer noch automatisch.
-* Das Zusammenführen eines **Interessenten (einer Person) zu einem Kontakt** funktioniert auf dieselbe Weise. Am Ende haben Sie einen einzigen Kontakt auf beiden Seiten.
+* Wenn zwei Personen in **Marketo** zusammengeführt werden, wird tatsächlich der gleiche Prozess aufgerufen wie beim Zusammenführen als Interessenten in Salesforce. Es funktioniert immer noch automatisch.
+* Das Zusammenführen eines **Interessenten (Person) zu einem Kontakt** funktioniert auf dieselbe Weise. Am Ende haben Sie einen einzigen Kontakt auf beiden Seiten.
 * Beim Zusammenführen wird der Standardwert summiert.
 
 >[!NOTE]
@@ -34,5 +34,5 @@ Manchmal ist es am besten, nur die Regeln Liste. Gehen wir weiter:
 >
 >**Tieftauchen**
 >
->Tief tauchen für weitere Informationen über die [Zusammenführung von Menschen in Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Tief tauchen für weitere Informationen über [Personen in Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) zusammenführen.
 
