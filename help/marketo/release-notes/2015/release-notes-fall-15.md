@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version Herbst 15 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen.
 
-## Eine intelligente Liste abonnieren {#subscribe-to-a-smart-list}
+## Eine Smart-Liste abonnieren {#subscribe-to-a-smart-list}
 
 [Eine intelligente Liste abonnieren](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
@@ -29,7 +29,7 @@ Mehrere Abonnements können auf einer intelligenten Liste erstellt werden. Es gi
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Zu benutzerdefinierten Objekten markieren {#marketo-custom-objects}
+## Markieren zu benutzerdefinierten Objekten {#marketo-custom-objects}
 
 [Zu benutzerdefinierten Objekten markieren](http://docs.marketo.com/display/docs/marketo+custom+objects)
 
@@ -56,17 +56,17 @@ Dieses Update umfasst viele neue Funktionen:
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketing-Mobile-Interaktion - Tokens, Beispiel senden und Vorschau {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketing Mobile-Interaktion - Tokens, Beispiel senden und Vorschau {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Beispiel senden](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Vorschau](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Push-Benachrichtigungen lassen sich einfach mit [Token](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)personalisieren.
+Push-Benachrichtigungen lassen sich einfach mit [Token](https://docs.marketo.com/pages/viewpage.action?pageId=7512454) personalisieren.
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Sie können auch eine [Vorschau](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) durchführen oder eine [Beispiel](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) -Push-Benachrichtigung senden, bevor Sie sie für Kunden bereitstellen.
+Sie können auch [Vorschau](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) oder eine [Beispiel](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)-Push-Benachrichtigung senden, bevor Sie sie für Kunden bereitstellen.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,9 +85,9 @@ Statistiken zu E-Mails, die über Smart-Kampagnen gesendet werden, sind jetzt in
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - Inhaltsanalyse und Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics und Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content Analytics](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) und Recommendations
+[Content ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics und Recommendations
 
 RTP Content Analytics zeigt Ihnen die Leistung Ihrer Webinhalt-Assets aus regelmäßigen Webbesuchen und Besuchen, die Sie auch über die Inhaltsempfehlung-Engine von RTP erhalten haben.
 
@@ -97,12 +97,12 @@ RTP Content Analytics zeigt Ihnen die Leistung Ihrer Webinhalt-Assets aus regelm
 
 Die Seite &quot;Assets&quot;von RTP ist jetzt in Content Analytics und Content Recommendations unterteilt.
 
-* **Inhaltsanalyse:** Zeigt die Ansichten und direkten Interessenten aller entdeckten und definierten Webinhalte an, sodass Sie Ihre leistungsstärksten Inhalte analysieren können.
-* **Content Recommendations**: Zeigt Impressionen und Klicks von RTP empfohlenen Inhalten und der zugehörigen Interessentenzuordnung. Sie können auch Inhaltsempfehlungen auf dieser Seite für die Empfehlungen [der Leiste](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) und [Rich-Media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) bearbeiten und aktivieren.
+* **Content Analytics:** Zeigt die Ansichten und direkten Interessenten aller entdeckten und definierten Webinhalte an und hilft Ihnen dabei, Ihre leistungsstärksten Inhalte zu analysieren.
+* **Content Recommendations**: Zeigt Impressionen und Klicks von RTP empfohlenen Inhalten und der zugehörigen Interessentenzuordnung. Sie können Inhaltsempfehlungen auch für die Empfehlungen [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) und [Rich Media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) auf dieser Seite bearbeiten und aktivieren.
 
 * Alle direkten Interessentendaten auf diesen beiden Seiten wurden seit dem Beginn des Jahres (1. Januar 2015) nachträglich aktualisiert.
 
-## RTP - Clone an RTP-Kampagne {#rtp-clone-an-rtp-campaign}
+## RTP - Klonen einer RTP-Kampagne {#rtp-clone-an-rtp-campaign}
 
 [RTP - Clone an RTP-Kampagne](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
@@ -138,7 +138,7 @@ Der Rich-Text-Editor wurde um einige Verbesserungen ergänzt. Nachdem wir den ak
    <![endif]-->
    ```
 
-* Leere Tabellenzellen nicht mit `**`
+* Leere Tabellenzellen nicht mit `**` füllen
 
 * Schaltfläche &quot;Maximieren/Minimieren&quot;zum HTML-Quell-Editor hinzugefügt
 * Bereits vorhandene Tabelleneigenschaften werden jetzt im Dialogfeld &quot;Tabelleneigenschaften&quot;identifiziert und angezeigt
@@ -159,7 +159,7 @@ Der Rich-Text-Editor wurde um einige Verbesserungen ergänzt. Nachdem wir den ak
    <td background="someImage.png"> 
    ```
 
-## Microsoft Dynamics - Synchronisierung überprüfen {#microsoft-dynamics-validate-sync}
+## Microsoft Dynamics - Validate Sync {#microsoft-dynamics-validate-sync}
 
 [Microsoft Dynamics - Synchronisierung überprüfen](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
@@ -167,7 +167,7 @@ Dieses neue Admin-Tool führt eine Reihe von Prüfungen durch, um festzustellen,
 
 ![](assets/image2015-10-1-14-3a3-3a12.png)
 
-## hinzufügen Felder für die benutzerdefinierte CRM-Objektsynchronisierung {#add-fields-to-crm-custom-object-sync}
+## hinzufügen der Felder für die benutzerdefinierte CRM-Objektsynchronisierung {#add-fields-to-crm-custom-object-sync}
 
 Fügen Sie benutzerspezifischen Objekten, die aus Salesforce und Dynamics synchronisiert werden, ganz einfach neue Felder hinzu. Sie können Ihrer benutzerdefinierten Objektsynchronisierung jetzt neue Felder hinzufügen, ohne das gesamte benutzerdefinierte Objekt zu deaktivieren und zu aktivieren.
 
@@ -190,6 +190,6 @@ Das neueste MSI-Paket zum Austausch von Apps funktioniert sowohl mit Blitzen als
 
 Dieses neue Plug-in führt verschiedene Aktionen im asynchronen Modus aus, um die Leistung zu erhöhen.
 
-## Nach URL der Landingpage in Design Studio suchen {#search-by-url-of-landing-page-in-design-studio}
+## Suchen nach URL der Landingpage in Design Studio {#search-by-url-of-landing-page-in-design-studio}
 
 Im Raster Landingpage von Design Studio können Sie jetzt nach Seiten-URL suchen, um Ihre Landingpages zu finden. Dies ist auch exportierbar.
