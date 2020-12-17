@@ -23,11 +23,11 @@ Statt eine intelligente Liste von Grund auf neu zu erstellen, sparen Sie etwas Z
 
    ![](assets/smartlist-find.png)
 
-1. Klicken Sie unter &quot; **Listen-Aktionen**&quot;auf Intelligente **Liste** klonen.
+1. Klicken Sie unter **Listen-Aktionen** auf **Intelligente Liste klonen**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Geben Sie einen **Namen** ein und klicken Sie auf **Klonen**.
+1. Geben Sie einen **Name** ein und klicken Sie auf **Klonen**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
