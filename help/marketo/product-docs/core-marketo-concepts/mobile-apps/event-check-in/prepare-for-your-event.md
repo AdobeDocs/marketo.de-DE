@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Es gibt mehrere Dinge, die du tun musst, um dich auf das Ereignis vorzubereiten.
 
-## Neue Rolle für Märkte erstellen {#create-a-new-marketo-role}
+## Neue Markerrolle erstellen {#create-a-new-marketo-role}
 
-Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App.  [Erstellen Sie eine neue Marketing-Rolle](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) für iPad- oder Android-Benutzer mit Zugriffsberechtigung für die mobile Anwendung.
+Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App.  [Erstellen Sie eine neue Marketing-](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) Rolle für iPad- oder Android-Benutzer mit Zugriffsberechtigung für die mobile Anwendung.
 
-## Neue Tablet-Benutzer zum Ereignis einladen {#invite-new-tablet-users-to-the-event}
+## Neue Tablet-Benutzer zum Ereignis {#invite-new-tablet-users-to-the-event} einladen
 
-[Laden Sie neue Tablet-Benutzer zum Ereignis](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) ein und weisen Sie ihnen die neue Rolle zu.
+[Laden Sie neue Tablet-Benutzer zur ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) Veranstaltung ein und weisen Sie ihnen die neue Rolle zu.
 
-## Neues Marketing-Ereignis-Programm erstellen {#create-a-new-marketo-event-program}
+## Neues Marketing-Ereignis-Programm {#create-a-new-marketo-event-program} erstellen
 
-[Erstellen Sie ein neues Marketo-Ereignis-Programm](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) , um den Status Ihrer Mitarbeiter zu erfassen, während sie sich durch verschiedene Phasen bewegen, und präzise Messungen des ROI für Ihre Marketinginitiativen zu erhalten.
+[Erstellen Sie ein neues Marketing-Ereignis-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) Programm, um den Status Ihrer Mitarbeiter zu erfassen, während sie sich durch verschiedene Phasen bewegen, und erhalten Sie genaue Messungen des ROI für Ihre Marketinginitiativen.
 
-## Festlegen der Ereignis-Daten {#specify-the-event-dates}
+## Geben Sie die Ereignis-Daten {#specify-the-event-dates} an
 
 Es ist ein Kinderspiel, Ihre Ereignis-Daten festzulegen.
 
@@ -35,7 +35,7 @@ Es ist ein Kinderspiel, Ihre Ereignis-Daten festzulegen.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Bewegen Sie den Mauszeiger über, um **Tentativ** in **Bestätigt** zu ändern.
+1. Bewegen Sie den Mauszeiger, um **Tentative** in **Confirmed** zu ändern.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -45,21 +45,21 @@ Es ist ein Kinderspiel, Ihre Ereignis-Daten festzulegen.
 
 ## hinzufügen Personen in Ihr Ereignis {#add-people-to-your-event}
 
-Nun, da Sie wissen, *wann*, ist es Zeit, die *wer* hinzuzufügen.
+Jetzt, da Sie die *wenn* kennen, ist es an der Zeit, *who* hinzuzufügen.
 
-1. Wenn Sie bereits über eine Liste von Personen verfügen, klicken Sie in &quot;Mein Marker&quot;auf die Kachel **Datenbank** .
+1. Wenn Sie bereits über eine Liste von Personen verfügen, klicken Sie in &quot;My Marketo&quot;auf die Kachel **Database**.
 
    ![](assets/db.png)
 
-1. Wählen Sie eine Liste mit Personen aus und klicken Sie auf die Registerkarte **Personen** .
+1. Wählen Sie eine Liste mit Personen aus und klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/four.png)
 
-1. Wählen Sie die Personen für Ihr Ereignis aus der Liste aus. Verwenden Sie die **Strg** -Taste (bzw. den **Befehl** auf einem Mac), um auf mehrere Personen zu klicken, oder **wählen Sie Alle** aus, um alle Personen zu markieren.
+1. Wählen Sie die Personen für Ihr Ereignis aus der Liste aus. Verwenden Sie **Strg** (oder **Befehl** auf einem Mac), um auf mehrere Personen zu klicken, oder **Alle auswählen, um alle Personen zu markieren.**
 
    ![](assets/five.png)
 
-1. Klicken Sie auf **Benutzeraktionen**, halten Sie den Mauszeiger über die **Programm** und wählen Sie &quot;Programm-Status **ändern&quot;**.
+1. Klicken Sie auf **Benutzeraktionen**, halten Sie den Mauszeiger über **Programm** und wählen Sie **Programm-Status ändern**.
 
    ![](assets/six.png)
 
@@ -67,7 +67,7 @@ Nun, da Sie wissen, *wann*, ist es Zeit, die *wer* hinzuzufügen.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf die Dropdownliste **Neuer Status** und wählen Sie **Roadshow > Registriert**. Klicken Sie auf Jetzt **ausführen**.
+1. Klicken Sie auf die Dropdownliste **Neuer Status** und wählen Sie **Roadshow > Registered**. Klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/eight.png)
 
