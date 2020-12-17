@@ -24,13 +24,13 @@ Die Slack-Integration umfasst zwei Benachrichtigungstypen:
 
 >[!PREREQUISITES]
 >
->Wenn Sie noch keine Systembenachrichtigungen für Slack aktiviert haben, [wenden Sie sich bitte an den Support](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>Wenn Sie die Systembenachrichtigungen des Slacks noch nicht aktiviert haben, wenden Sie sich bitte an den Support.[](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)
 
-1. Gehen Sie zu **LaunchPoint** und klicken Sie unter **New** auf **New Service**.
+1. Gehen Sie zu **LaunchPoint** und klicken Sie dann unter **New** auf **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. Geben Sie einen Anzeigenamen für Ihre Slack-Integration ein. Wählen Sie in der Dropdownliste **Dienst** die Option **Slack**. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen Anzeigenamen für Ihre Slack-Integration ein. Wählen Sie in der Dropdownliste **Dienst** **Slack**. Klicken Sie auf **Erstellen**.
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
@@ -42,11 +42,11 @@ Die Slack-Integration umfasst zwei Benachrichtigungstypen:
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
-1. Geben Sie Ihre Slack-Anmeldeinformationen ein und klicken Sie auf **Anmelden**.
+1. Geben Sie Ihre Anmeldeinformationen für den Slack ein und klicken Sie auf **Anmelden**.
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. Wählen Sie in der Dropdownliste **Beitrag** den Kanal aus, in dem Benachrichtigungen von Marketing veröffentlicht werden sollen. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **Autorisieren**.
+1. Wählen Sie in der Dropdownliste **An** posten den Kanal aus, in dem Benachrichtigungen von Marketing veröffentlicht werden sollen. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **Autorisieren**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
