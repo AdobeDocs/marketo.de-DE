@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Sie können Massenaktionen für mehrere Assets direkt im Abschnitt &quot; **[!UICONTROL Aktionen]** &quot;auf der Registerkarte &quot; **[!UICONTROL Assets]** &quot;durchführen. Hier erfahren Sie, wie Sie die benötigten Assets finden und eine Massenaktion darauf anwenden.
+Sie können Massenaktionen für mehrere Assets direkt im Abschnitt **[!UICONTROL Aktionen]** unter der Registerkarte **[!UICONTROL Assets]** durchführen. Hier erfahren Sie, wie Sie die benötigten Assets finden und eine Massenaktion darauf anwenden.
 
 ## Nach Asset-Typ und/oder -Bedingung filtern
 
@@ -22,7 +22,7 @@ Um bestimmte Assets zu finden, für die Sie eine Aktion ausführen möchten, kö
 
 ![Bild eins](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-Darüber hinaus können Sie nach **[!UICONTROL Asset-Bedingung]** filtern, indem Sie eine oder mehrere Bedingungen aus der Dropdownliste auswählen. Sie können dies separat oder in Kombination mit der Asset-Typ-Filterung tun.
+Darüber hinaus können Sie nach **[!UICONTROL Elementbedingung]** filtern, indem Sie eine oder mehrere Bedingungen aus der Dropdownliste auswählen. Sie können dies separat oder in Kombination mit der Asset-Typ-Filterung tun.
 
 ![Bild zwei](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ Darüber hinaus können Sie nach **[!UICONTROL Asset-Bedingung]** filtern, indem
 
 ## Anwenden einer Massenaktion
 
-Wählen Sie eine Gruppe von Assets und dann eine Aktion aus der Dropdownliste Aktion **[!UICONTROL auswählen]** . Aktionen, die nicht auf _eines_ Ihrer ausgewählten Assets angewendet werden können, werden automatisch ausgegraut.
+Wählen Sie eine Gruppe von Assets und dann eine Aktion aus der Dropdownliste **[!UICONTROL Aktion auswählen]**. Aktionen, die nicht auf _beliebige_ Ihrer ausgewählten Assets angewendet werden können, werden automatisch ausgegraut.
 
 ![Bild drei](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ Wenn Sie eine Massenaktion auswählen, werden Assets in einem Bestätigungs-Popu
 
 ## Statusbenachrichtigungen
 
-Sie können den Status Ihrer Massenaktionen in der Ablage **[!UICONTROL Letzte Benachrichtigungen]** finden.
+Der Status Ihrer Massenaktionen finden Sie im Ablage **[!UICONTROL Letzte Benachrichtigungen]**.
 
 ![Bild fünf](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## Fehler bei Massenaktionen
 
-Wenn die gewählte Aktion nicht angewendet werden kann, weil das Asset repariert werden muss, erhalten Sie eine Benachrichtigung über einen teilweisen Fehler (mit einem gelben Warnsymbol). Wenn die Aktion nicht auf _alle_ ausgewählten Assets angewendet werden konnte, enthält die Benachrichtigung ein rotes Warnsymbol. Klicken Sie auf **[!UICONTROL Ansicht Failures]** .
+Wenn die gewählte Aktion nicht angewendet werden kann, weil das Asset repariert werden muss, erhalten Sie eine Benachrichtigung über einen teilweisen Fehler (mit einem gelben Warnsymbol). Wenn die Aktion nicht auf _alle_ Ihrer ausgewählten Assets angewendet werden konnte, enthält die Benachrichtigung ein rotes Warnsymbol. Klicken Sie für weitere Informationen auf **[!UICONTROL Ansicht Failures]**.
 
 ![Bild sechs](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
