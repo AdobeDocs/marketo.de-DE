@@ -24,27 +24,27 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 
 
 
-## Synchronisierungs-Sicherheits-Token abrufen {#retrieve-sync-user-security-token}
+## Synchronisierungs-Benutzersicherheitstoken abrufen {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
 >Wenn Sie bereits über das Sicherheits-Token verfügen, fahren Sie direkt mit &quot;Synchronisieren Sie Benutzeranmeldeinformationen und -kudos für die Vorbereitung!&quot;fort.
 
-1. Melden Sie sich bei Salesforce mit dem Marketo Sync User an, klicken Sie auf den Namen des Synchronisierungsbenutzers und dann auf **Meine Einstellungen**.
+1. Melden Sie sich bei Salesforce mit dem Benutzer Marketo Sync an, klicken Sie auf den Namen des Synchronisierungsbenutzers und dann **Meine Einstellungen**.
 
    ![](assets/image2015-6-12-9-3a12-3a47.png)
 
-1. Geben Sie in der Schnellsuche &quot;reset&quot;ein und klicken Sie auf &quot; **Reset My Security Token&quot;**.
+1. Geben Sie in der Schnellsuche &quot;reset&quot;ein und klicken Sie auf **Reset My Security Token**.
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
-1. Klicken Sie auf Sicherheitstoken **zurücksetzen**.
+1. Klicken Sie auf **Sicherheitstoken zurücksetzen**.
 
    ![](assets/image2014-12-9-9-3a52-3a50.png)
 
    Das Sicherheitstoken wird Ihnen per E-Mail zugesendet.
 
-## Benutzeranmeldeinformationen synchronisieren {#set-sync-user-credentials}
+## Festlegen der Synchronisierungsbenutzeranmeldeinformationen {#set-sync-user-credentials}
 
 1. Gehen Sie in Marketo zu **Admin**, wählen Sie **CRM** und klicken Sie auf **Synchronisieren mit [Salesforce.com](http://Salesforce.com)**
 
@@ -55,27 +55,27 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
    >**Erinnerung**
    >
    >
-   >Vergewissern Sie sich, dass Sie alle Felder, die Sie in Marketing nicht benötigen [, vor dem Synchronisierungsbenutzer](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) ausblenden, bevor Sie auf &quot;Felder **synchronisieren&quot;klicken**. Nachdem Sie auf &quot;Felder synchronisieren&quot;geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >Vergewissern Sie sich, dass Sie [alle Felder, die Sie nicht benötigen, in Marketo vor dem Synchronisierungsbenutzer ausblenden, bevor Sie auf **Felder synchronisieren** klicken. ](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) Nachdem Sie auf &quot;Felder synchronisieren&quot;geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
-1. Geben Sie die in Teil 2 der Salesforce-Konfiguration ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) erstellten Salesforce Sync User-Anmeldedaten ein und klicken Sie auf **Synchronisierungsfelder**.
+1. Geben Sie die in Teil 2 der Salesforce-Konfiguration ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) erstellten Salesforce-Synchronisierungsbenutzer-Anmeldedaten ein und klicken Sie auf **Felder** synchronisieren.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!NOTE]
    >
-   >Markieren Sie **Sandbox** , wenn Sie eine Marketo Sandbox mit einer Salesforce Sandbox synchronisieren.
+   >Markieren Sie **Sandbox**, wenn Sie eine Marketo Sandbox mit einer Salesforce Sandbox synchronisieren.
 
-1. Lesen Sie die Warnung und klicken Sie dann auf Anmeldeinformationen **bestätigen**.
+1. Lesen Sie die Warnung und klicken Sie dann auf **Anmeldeinformationen** bestätigen.
 
    ![](assets/image2014-12-9-9-3a53-3a16.png)
 
    >[!CAUTION]
    >
-   >Wenn Sie über die [Zuordnungen schauen und sie](https://docs.marketo.com/display/public/DOCS/Edit+Initial+Field+Mappings)anpassen möchten, ist dies Ihre einzige Chance! Nachdem Sie auf Beginn Salesforce Sync geklickt haben, ist es fertig.
+   >Wenn Sie über die [Zuordnungen schauen und sie anpassen wollen](https://docs.marketo.com/display/public/DOCS/Edit+Initial+Field+Mappings), dies ist Ihre einzige Chance! Nachdem Sie auf Beginn Salesforce Sync geklickt haben, ist es fertig.
 
 ## Beginn Salesforce Sync {#start-salesforce-sync}
 
-1. Klicken Sie auf **Beginn Salesforce Sync** , um die permanente Synchronisierung von Marketing-Salesforce zu starten.
+1. Klicken Sie auf **Beginn Salesforce Sync**, um die permanente Synchronisierung von Marketing-Salesforce zu starten.
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -99,7 +99,7 @@ Marketo stellt Statusmeldungen für die Salesforce-Synchronisierung im Admin-Ber
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. Der Synchronisierungsstatus ist in der oberen rechten Ecke sichtbar. Es wird eine von drei Nachrichten angezeigt: **Letzte Synchronisierung**, **Synchronisierung läuft** oder **Fehlgeschlagen**.
+1. Der Synchronisierungsstatus ist in der oberen rechten Ecke sichtbar. Es wird eine von drei Nachrichten angezeigt: **Zuletzt synchronisiert**, **Synchronisierung läuft** oder **Fehlgeschlagen**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 
