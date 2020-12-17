@@ -25,7 +25,7 @@ Marketo verwaltet Ihre Zoomregistrierung und -teilnahme.
 >
 >Für diesen Schritt sind ein bestehendes Abonnement zum Zoomen und Verwaltungsrechte erforderlich. Halten Sie die E-Mail-Adresse und das Passwort bereit, mit denen Sie sich bei Zoom anmelden können.
 
-1. Gehen Sie zum **Admin** -Bereich und klicken Sie auf **LaunchPoint**.
+1. Wechseln Sie zum Bereich **Admin** und klicken Sie auf **LaunchPoint**.
 
    ![](assets/launchpoint.png)
 
@@ -37,7 +37,7 @@ Marketo verwaltet Ihre Zoomregistrierung und -teilnahme.
 
    ![](assets/newservice-1.png)
 
-1. Klicken Sie auf **Anmelden zum Zoomen**.
+1. Klicken Sie auf **Anmelden bei Zoom**.
 
    ![](assets/login.png)
 
@@ -57,5 +57,5 @@ Marketo verwaltet Ihre Zoomregistrierung und -teilnahme.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie ein Ereignis mit Zoom [erstellen](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Erfahren Sie, wie Sie ein Ereignis mit Zoom[ erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
 
