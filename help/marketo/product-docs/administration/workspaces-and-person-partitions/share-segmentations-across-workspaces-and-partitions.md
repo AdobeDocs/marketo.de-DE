@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Freigeben von Segmenten über Workspaces und Partitionen {#share-segmentations-across-workspaces-and-partitions}
+# Freigeben von Segmenten über Arbeitsbereiche und Partitionen {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
 >
@@ -25,15 +25,15 @@ Marketo ist großartig darin, genau die richtigen Leute für ein Programm oder e
 >
 >**Tieftauchen**
 >
->Erfahren Sie, [wie Sie Segmente](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)erstellen.
+>Lernen Sie [wie Sie Segmentationen](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) erstellen.
 
-Sobald Sie diese Personen eingerichtet haben (**und** Arbeitsbereiche verwenden), möchten Sie sie auf allen Arbeitsbereichen freigeben. Hier einige gute Dinge zu wissen:
+Nachdem Sie diese Personen eingerichtet haben (**und** verwenden Sie Arbeitsbereiche), möchten Sie sie auf allen Arbeitsbereichen freigeben. Hier einige gute Dinge zu wissen:
 
 ## Regeln und Tipps {#rules-tips}
 
-* Jedes Marketo-Abonnement kann bis zu 20 Segmentationen &quot;insgesamt&quot;über mehrere Arbeitsbereiche hinweg enthalten (**nicht 20 pro Arbeitsbereich**).
+* Jedes Marketo-Abonnement kann bis zu 20 Segmentationen &quot;gesamt&quot;über mehrere Arbeitsbereiche hinweg enthalten (**nicht 20 pro Arbeitsbereich**).
 * Sie können eine Segmentierung nur für Arbeitsbereiche freigeben, auf die Sie Zugriff haben.
-* Stellen Sie sicher, dass Sie einen **Standardarbeitsbereich erstellen und verwenden, der alle Partitionen** sichtbar macht.
+* Stellen Sie sicher, dass Sie einen **Standardarbeitsbereich erstellen und verwenden, der Sichtbarkeit in allen Partitionen** aufweist.
 
 * Die Segmentierungsverarbeitung wird nur für die Personen im Arbeitsbereich ausgeführt, in dem die Segmentierung erstellt wird.
 
@@ -52,7 +52,7 @@ Sobald Sie diese Personen eingerichtet haben (**und** Arbeitsbereiche verwenden)
 >
 >Einige dieser Regeln sind etwas komplex. Die einfachste Möglichkeit, mit bestimmten Personen zu beginnen, besteht darin, sie zu testen. Sie können immer neue Segmente erstellen und die alten entfernen.
 
-## Beispielszenarien {#example-scenarios}
+## Beispielszenarios {#example-scenarios}
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
