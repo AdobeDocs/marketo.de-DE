@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informationen zur Protokollierung von E-Mail-Ereignissen {#understanding-email-event-logging}
+# Informationen zur E-Mail-Ereignis-Protokollierung {#understanding-email-event-logging}
 
 Beim Versenden von E-Mails protokolliert Marketo verschiedene Datenpunkte in den Aktivitäten der Person. Hier sind die grundlegenden.
 
@@ -27,5 +27,5 @@ Beim Versenden von E-Mails protokolliert Marketo verschiedene Datenpunkte in den
 
 >[!CAUTION]
 >
->Wenn dieselbe E-Mail zweimal von derselben Kampagne an dieselbe Person gesendet wird, wird das **geöffnete** Ereignis maximal 1 Mal protokolliert.
+>Wenn dieselbe E-Mail zweimal von derselben Kampagne an dieselbe Person gesendet wird, wird das Ereignis **Geöffnet** maximal 1 Mal protokolliert.
 
