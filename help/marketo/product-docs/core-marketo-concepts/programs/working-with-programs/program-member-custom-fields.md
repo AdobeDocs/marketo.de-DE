@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Benutzerdefinierte Programm-Member-Felder ermöglichen die Erfassung von Programm-spezifischen Daten für jedes Mitglied. Sie können verwendet werden bei: Marketo-Formulare, Filter und Auslöser für intelligente Liste und Flussaktionen für intelligente Kampagnen. Die Daten sind auf der Registerkarte &quot;Mitglieder&quot;des Programms sichtbar.
 
-## Benutzerdefiniertes Feld für ein Programm erstellen {#create-a-program-member-custom-field}
+## Erstellen eines benutzerspezifischen Programm-Mitglieds {#create-a-program-member-custom-field}
 
 1. Klicken Sie in Marketo auf **Admin**.
 
@@ -56,7 +56,7 @@ Benutzerdefinierte Programm-Member-Felder ermöglichen die Erfassung von Program
 
 ## Auslöser und Filter {#triggers-and-filters}
 
-Sie können diese Programm-spezifischen Daten in intelligenten Listen über [](http://docs.marketo.com/x/PoAR)Auslöser und/oder [Filter](http://docs.marketo.com/x/2YAI)nutzen.
+Sie können diese Programm-spezifischen Daten in intelligenten Listen über [Auslöser](http://docs.marketo.com/x/PoAR)und/oder [Filter](http://docs.marketo.com/x/2YAI) nutzen.
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ Sie können diese Programm-spezifischen Daten in intelligenten Listen über [](h
 * Das Programm Member-Objekt kann bis zu 20 benutzerdefinierte Felder enthalten. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und das benutzerdefinierte Feld &quot;Programm-Mitglied&quot;Daten enthält, werden die Daten aus diesem Feld gescrubbt.
 * Um die Daten Ansicht, klicken Sie im Programm auf die Registerkarte &quot;Mitglieder&quot;und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
-* Import und Export über die [](http://docs.marketo.com/x/egAk)Standart- [](http://developers.marketo.com/)APIs werden unterstützt.
+* Import und Export über [Liste](http://docs.marketo.com/x/egAk)und [API](http://developers.marketo.com/)werden unterstützt.
 * Wenn Sie zwei Personen zusammenführen, werden die Felddaten des Gewinners für ein benutzerdefiniertes Programm verwendet. Hat der Gewinner jedoch keine, wird der Wert des Verlierers verwendet.
 
 >[!MORELIKETHIS]
