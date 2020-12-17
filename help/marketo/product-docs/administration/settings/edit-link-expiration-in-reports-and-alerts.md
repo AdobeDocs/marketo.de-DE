@@ -23,7 +23,7 @@ Links in Ihren Report Abonnement-E-Mails laufen nach drei Tagen ab. Gehen Sie wi
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Klicken Sie auf URL-Ablauf **bearbeiten**.
+1. Klicken Sie auf **URL-Ablauf bearbeiten**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
