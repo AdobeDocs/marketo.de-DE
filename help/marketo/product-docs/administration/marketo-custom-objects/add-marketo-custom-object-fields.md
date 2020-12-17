@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot; {#add-marketo-custom-object-fields}
+# hinzufügen Markieren in benutzerdefinierten Objektfeldern {#add-marketo-custom-object-fields}
 
 Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie Felder hinzufügen, um Ihren geschäftlichen Anforderungen zu entsprechen.
 
-Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag, um benutzerdefinierte Objekte zu verbinden, und werden in einem [separaten Artikel](add-marketo-custom-object-link-fields.md)behandelt.
+Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag, um benutzerdefinierte Objekte zu verbinden, und werden in einem [separaten Artikel](add-marketo-custom-object-link-fields.md) behandelt.
 
-1. Klicken Sie auf **Admin** und wählen Sie in der **Datenbankverwaltung** die Option **Zu benutzerdefinierten Objekten** markieren.
+1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Markieren Sie die Option**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -60,7 +60,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
    >**Erinnerung**
    >
    >
-   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie dem benutzerdefinierten Objekt ein Feld &quot;Link&quot;hinzufügen. Für eine Viele-zu-viele-Struktur benötigen Sie im benutzerdefinierten Objekt kein Verknüpfungsfeld, Sie müssen jedoch zwei Verknüpfungsfelder in das intermediäre Objekt einfügen. Weitere Informationen zu den Typen von benutzerdefinierten Objekten finden Sie unter Felder [für](add-marketo-custom-object-link-fields.md) Hinzufügen benutzerspezifische Objektverknüpfung markieren und [Informationen zu benutzerspezifischen Objekten](understanding-marketo-custom-objects.md) .
+   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie dem benutzerdefinierten Objekt ein Feld &quot;Link&quot;hinzufügen. Für eine Viele-zu-viele-Struktur benötigen Sie im benutzerdefinierten Objekt kein Verknüpfungsfeld, Sie müssen jedoch zwei Verknüpfungsfelder in das intermediäre Objekt einfügen. Weitere Informationen zu den Typen von benutzerdefinierten Objekten finden Sie unter [Hinzufügen Felder für benutzerspezifische Objektverknüpfungen ](add-marketo-custom-object-link-fields.md) zum Erstellen der Verknüpfungsfelder und [Informationen zu Markieren zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md).
 
 >[!MORELIKETHIS]
 >
