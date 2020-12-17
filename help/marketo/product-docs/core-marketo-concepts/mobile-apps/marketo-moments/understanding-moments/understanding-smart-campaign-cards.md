@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Karten mit intelligenter Kampagne {#understanding-smart-campaign-cards}
+# Grundlagen zu Smart-Kampagnen-Karten {#understanding-smart-campaign-cards}
 
 Verwenden Sie Marketo Moments, um jede Ausführung Ihrer Smart-Kampagnen von Ihrem Smartphone oder iPad aus Ansicht. Die Smart-Kampagne &quot;Marketo Moments&quot;stellt einen einzelnen Durchgang einer Kampagne dar. Bei jeder Ausführung der intelligenten Kampagne wird eine neue Karte angezeigt. Smart-Kampagne-Karten werden oben links mit einer Glühbirne markiert.
 
@@ -19,7 +19,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt wurde
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
-## Smart-Kampagnen {#smart-campaign-cards}
+## Smart-Kampagnen-Karten {#smart-campaign-cards}
 
 1. Tippen Sie auf die Karte, um die Detailkarte zu öffnen.
 
@@ -42,7 +42,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt wurde
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klicken Sie auf **E-Mail-Zusammenfassung**.
+1. Klicken Sie auf **Email Summary**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -66,11 +66,11 @@ Es ist eine gute Idee, sich eine E-Mail anzusehen, bevor sie ausgeht. Oder sende
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tippen Sie auf [Beispiel](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [Vorschau-E-Mail](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) senden (für weitere Informationen klicken Sie auf diese Links).
+1. Tippen Sie auf [Beispiel senden](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [Vorschau E-Mail](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (für weitere Informationen klicken Sie auf diese Links).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Ausführen intelligenter Kampagnen bestätigen {#confirming-a-smart-campaign-run}
+## Bestätigung eines Vorgangs für eine intelligente Kampagne {#confirming-a-smart-campaign-run}
 
 Karten für nicht bestätigte intelligente Kampagnen sind grau, bis Sie sie bestätigen. Dann werden sie orange.
 
@@ -82,7 +82,7 @@ Karten für nicht bestätigte intelligente Kampagnen sind grau, bis Sie sie best
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tippen Sie auf **Bestätigen** , um den Auftrag abzuschließen, oder **Nie** , wenn Sie zweifache Gedanken haben.
+1. Tippen Sie auf **Bestätigen**, um den Auftrag abzuschließen, oder **Nie Mind**, wenn Sie zweite Gedanken haben.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -90,7 +90,7 @@ Karten für nicht bestätigte intelligente Kampagnen sind grau, bis Sie sie best
    >
    >Jetzt wird Ihre Karte in Orange!
 
-## Abbrechen eines Vorgangs für eine intelligente Kampagne {#canceling-a-smart-campaign-run}
+## Abbrechen einer Ausführung einer intelligenten Kampagne {#canceling-a-smart-campaign-run}
 
 Sie können eine bestätigte, geplante Ausführung intelligenter Kampagnen abbrechen.
 
@@ -98,15 +98,15 @@ Sie können eine bestätigte, geplante Ausführung intelligenter Kampagnen abbre
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tippen Sie auf Ausführen **abbrechen**.
+1. Tippen Sie auf **Ausführen abbrechen**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tippen Sie auf Ausführen **abbrechen**. Wenn Sie sich in letzter Minute entscheiden, den Run nicht abzubrechen, tippen Sie auf **Nie Mind**, und die intelligente Kampagne wird wie geplant ausgeführt.
+1. Tippen Sie auf **Ausführen abbrechen**. Wenn Sie in letzter Minute festlegen, dass die Ausführung nicht abgebrochen wird, tippen Sie auf **Niemals Mind**, und die intelligente Kampagne wird wie geplant ausgeführt.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
-## Planen einer intelligenten Kampagne {#rescheduling-a-smart-campaign}
+## Umplanen einer intelligenten Kampagne {#rescheduling-a-smart-campaign}
 
 Sie können eine bestätigte intelligente Kampagne, die noch nicht ausgeführt wurde, neu planen.
 
@@ -114,7 +114,7 @@ Sie können eine bestätigte intelligente Kampagne, die noch nicht ausgeführt w
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tippen Sie auf **Plan** neu.
+1. Tippen Sie auf **Neu planen**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
@@ -124,7 +124,7 @@ Sie können eine bestätigte intelligente Kampagne, die noch nicht ausgeführt w
 
    Kuchen!
 
-## Andere Aktionen für intelligente Kampagne {#other-smart-campaign-actions}
+## Andere Aktionen für intelligente Kampagnen {#other-smart-campaign-actions}
 
 Wie bei anderen Marketo-Moments-Karten können Sie auf jeder Smart-Kampagne- oder Detailkarte auf die drei Punkte tippen, um:
 
@@ -136,7 +136,7 @@ Wie bei anderen Marketo-Moments-Karten können Sie auf jeder Smart-Kampagne- ode
 
 >[!NOTE]
 >
->Sie können auch auf das Symbol **Freigeben** auf einer Smart-Kampagne-Karte tippen, um sie freizugeben, und auf der Detailkarte die Symbole **Fertig** und **Favorit** .
+>Sie können auch auf das Symbol **Freigeben** auf einer Smart-Kampagne, die freigegeben werden soll, und auf die Symbole **Fertig** und **Favorit** auf der Detailkarte tippen.
 
 ## Schnelles Löschen einer Smart-Kampagne-Karte {#quickly-delete-a-smart-campaign-card}
 
