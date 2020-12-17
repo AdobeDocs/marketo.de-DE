@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Qualifizierte Ansicht für Menschen in einer intelligenten Kampagne {#view-qualified-people-in-a-smart-campaign}
+# Qualifizierte Ansicht für Personen in einer intelligenten Kampagne {#view-qualified-people-in-a-smart-campaign}
 
 Ansicht Menschen, die sich dazu qualifizieren, durch den Fluss zu gehen, wenn Sie eine intelligente Kampagne.
 
@@ -23,7 +23,7 @@ Ansicht Menschen, die sich dazu qualifizieren, durch den Fluss zu gehen, wenn Si
 >
 >Auslöser für intelligente Kampagnen zeigen keine qualifizierten Personen an, da sie auf Live-Ereignissen basieren.
 
-1. Auf der Registerkarte &quot; **Qualifizierte Personen** &quot;werden die Personen Liste, die berechtigt sind, während der Ausführung der Kampagne durch den Fluss zu gehen.
+1. Auf der Registerkarte **Qualifizierte Personen** werden die Personen Liste, die berechtigt sind, beim Ausführen der Kampagne den Fluss zu durchlaufen.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ Ansicht Menschen, die sich dazu qualifizieren, durch den Fluss zu gehen, wenn Si
 
    >[!NOTE]
    >
-   >Die Anzahl qualifizierter Personen hängt auch von den Qualifikationsregeln für intelligente Kampagnen ab. Erfahren Sie, wie Sie [Qualifizierungsregeln](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)bearbeiten.
+   >Die Anzahl qualifizierter Personen hängt auch von den Qualifikationsregeln für intelligente Kampagnen ab. Erfahren Sie, wie Sie [Qualifizierungsregeln bearbeiten](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Süß! Mit dieser Liste können Sie überprüfen, welche Personen den Fluss durchlaufen, bevor Sie eine intelligente Kampagne ausführen.
 
