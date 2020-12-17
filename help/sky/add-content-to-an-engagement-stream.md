@@ -20,15 +20,15 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem Stream Inh
 
    ![Bild eins](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Hinzufügen Inhalt]**.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen Content]**.
 
    ![Bild drei](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. Belassen Sie den [!UICONTROL Typ] auf E-Mail und suchen/wählen Sie dann die E-Mail, die Sie hinzufügen möchten.
+1. Lassen Sie die Einstellung [!UICONTROL Typ] auf E-Mail gesetzt und suchen/wählen Sie dann die E-Mail aus, die Sie hinzufügen möchten.
 
    ![Bild vier](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -42,15 +42,15 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem Stream Inh
 
    ![Bild fünf](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild sechs](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Klicken Sie auf **[!UICONTROL Hinzufügen Inhalt]**.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen Content]**.
 
    ![Bild sieben](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
-1. Ändern Sie [!UICONTROL den Typ] in Programm.
+1. Ändern Sie [!UICONTROL Typ] in Programm.
 
    ![Bild acht](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-8.png)
 
