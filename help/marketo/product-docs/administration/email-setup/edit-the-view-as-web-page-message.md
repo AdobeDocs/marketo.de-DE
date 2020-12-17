@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Die Meldung &quot;Ansicht als Webseite&quot;bearbeiten {#edit-the-view-as-web-page-message}
+# Bearbeiten Sie die Meldung &quot;Ansicht als Webseite&quot; {#edit-the-view-as-web-page-message}
 
 Wenn Sie den Text &quot; [Ansicht als Webseite](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;bearbeiten müssen, hier sehen Sie wie.
 
@@ -19,7 +19,7 @@ Wenn Sie den Text &quot; [Ansicht als Webseite](../../../product-docs/email-mark
 >
 >**Administratorberechtigungen erforderlich**
 
-## Die Meldung &quot;Ansicht als Webseite&quot;bearbeiten {#edit-the-view-as-web-page-message-1}
+## Bearbeiten Sie die Meldung &quot;Ansicht als Webseite&quot; {#edit-the-view-as-web-page-message-1}
 
 1. Klicken Sie unter **Admin** auf **E-Mail**.
 
@@ -36,7 +36,7 @@ Wenn Sie den Text &quot; [Ansicht als Webseite](../../../product-docs/email-mark
    >    
    >Der zweite Teil ##MKT_TOK# ist das munchkin-Cookie dieser Person. Dadurch wird sichergestellt, dass sie beim Klicken auf den Link entsprechend gekocht werden.
 
-1. Bearbeiten Sie die **Ansicht als Webseiten-HTML** und **Ansicht als Webseiten-Text **Versionen nach Ihren Wünschen und klicken Sie auf Änderungen **speichern**.
+1. Bearbeiten Sie die Ansicht **als Webseiten-HTML** und **Ansicht als Webseiten-Text **Versionen nach Ihren Wünschen und klicken Sie auf **Änderungen speichern**.
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
