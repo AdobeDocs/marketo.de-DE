@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Benutzerrolle &quot;Nur API erstellen&quot; {#create-an-api-only-user-role}
+# Erstellen einer Nur-API-Benutzerrolle {#create-an-api-only-user-role}
 
-Wenn Sie die Integration mit Marketo über die [REST-API](http://developers.marketo.com/documentation/rest/)durchführen möchten, sollten Sie einem Benutzer die Rolle [&quot;Nur API&quot;](create-an-api-only-user.md) zuweisen und dann einen benutzerdefinierten Dienst für die Verwendung mit der ReST-API [](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)erstellen. So erstellen Sie die Rolle &quot;Nur API&quot;.
+Wenn Sie die Integration mit Marketo über die [REST-API](http://developers.marketo.com/documentation/rest/) durchführen möchten, sollten Sie [einem Benutzer die Rolle &quot;Nur API](create-an-api-only-user.md)&quot;zuweisen und [dann einen benutzerdefinierten Dienst für die Verwendung mit der ReST-API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) erstellen. So erstellen Sie die Rolle &quot;Nur API&quot;.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie in My Marketing auf **Admin**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Admin**.
 
    ![](assets/adminhand-1.png)
 
-1. Klicken Sie unter &quot;Sicherheit&quot;auf **Benutzer und Rollen**.
+1. Klicken Sie unter Sicherheit auf **Benutzer und Rollen**.
 
    ![](assets/two.png)
 
@@ -41,5 +41,5 @@ Wenn Sie die Integration mit Marketo über die [REST-API](http://developers.mark
 
 >[!MORELIKETHIS]
 >
->Gut gemacht! Jetzt [erstellen wir einen Benutzer](create-an-api-only-user.md), der nur API verwendet.
+>Gut gemacht! Erstellen Sie nun [einen Benutzer, der nur die API verwendet,](create-an-api-only-user.md).
 
