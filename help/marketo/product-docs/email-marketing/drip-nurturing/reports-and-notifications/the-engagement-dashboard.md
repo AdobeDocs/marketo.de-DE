@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Das Dashboard Interaktion {#the-engagement-dashboard}
 
-Das Dashboard Interaktion ist die einfachste Methode, um zu sehen, wie die Inhalte in Ihren [Interaktionsdokumenten](http://docs.marketo.com/display/docs/drip+nurturing) abschneiden.
+Das Dashboard Interaktion ist die einfachste Methode, um zu sehen, wie der Inhalt in den [Interaktions-Programmen](http://docs.marketo.com/display/docs/drip+nurturing) abschneidet.
 
 >[!NOTE]
 >
->Der Einsatzwert wird 72 Stunden nach jedem Spiel berechnet. Erfahren Sie mehr über den [Einsatzwert](understanding-the-engagement-score.md).
+>Der Einsatzwert wird 72 Stunden nach jedem Spiel berechnet. Erfahren Sie mehr über das [Einsatzergebnis](understanding-the-engagement-score.md).
 
 ## Ansicht des Interaktions-Dashboards {#view-the-engagement-dashboard}
 
-Wählen Sie Ihr Interaktions-Programm und klicken Sie auf **Ansicht > Dashboard**.
+Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf **Ansicht > Dashboard**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Detailliertere Statistiken finden Sie im [Interaktionsstream-Leistungsbericht](engagement-stream-performance-report.md) .
+>Detailliertere Statistiken finden Sie im Bericht [Leistung des Interaktionsstreams](engagement-stream-performance-report.md).
 
-## Erschöpfungs-Widget {#understand-the-exhaustion-widget}
+## Verstehen Sie das Erschöpfungs-Widget {#understand-the-exhaustion-widget}
 
 Mit diesem Widget können Sie vorhersehen, wann Interessenten den gesamten Inhalt erschöpft haben. Der Erschöpfungswert wird unmittelbar nach jedem Spiel berechnet. Das unten stehende Beispiel zeigt, dass bei 1 Guss 195 Interessenten alle Inhalte ausgeschöpft haben.
 
@@ -37,13 +37,13 @@ Mit diesem Widget können Sie vorhersehen, wann Interessenten den gesamten Inhal
 
 >[!NOTE]
 >
->Sie müssen auf die Registerkarte &quot;Einstellungen&quot;gehen und sicherstellen, dass &quot;Benachrichtigungen zu abgelaufenem Inhalt&quot; **aktiviert** ist, um das Diagramm oben anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
+>Sie müssen auf die Registerkarte &quot;Einstellungen&quot;gehen und sicherstellen, dass &quot;Benachrichtigungen über abgelaufene Inhalte&quot;**Ein** sind, um das Diagramm oben anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
 
 >[!CAUTION]
 >
 >Personen, die &quot;erschöpft&quot;sind, erhalten im nächsten Spiel keine Mitteilung.
 
-## Widget &quot;Interaktion im Zeitverlauf&quot; {#understand-the-engagement-over-time-widget}
+## Verstehen Sie das Widget &quot;Interaktion über Zeit&quot;.{#understand-the-engagement-over-time-widget}
 
 Zeigt den durchschnittlichen Interaktionswert im Zeitverlauf und die Auswirkungen von Inhaltsbearbeitungen.
 
@@ -69,11 +69,11 @@ Um die Sortierung zu ändern, klicken Sie auf das Zahnradsymbol und wählen Sie 
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Neueste* und *Älteste* basieren auf dem Zeitpunkt der letzten Genehmigung.
+** Newestand  ** Oldestare basiert auf dem Zeitpunkt der letzten Genehmigung.
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr im Deep Dive zum [Erstellen eines Programms](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) für Interaktion.
+>Weitere Informationen finden Sie unter [Ein Programm für Interaktion erstellen](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Tiefgang.
 
