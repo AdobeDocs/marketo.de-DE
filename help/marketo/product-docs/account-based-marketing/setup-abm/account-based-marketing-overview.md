@@ -27,19 +27,19 @@ Marketo vereint ABM und Interessentenverwaltung in einer Lösung, wodurch Market
 
 Marketo ABM besteht aus drei Komponenten:
 
-**1) [Zielgruppe](http://docs.marketo.com/display/docs/target)**
+**1)  [Zielgruppe](http://docs.marketo.com/display/docs/target)**
 
 * Kontoerkennung
 * Interessenten-zu-Konto-Übereinstimmung
 * Listen für benannte Konten
 
-**2) [Interagieren](http://docs.marketo.com/display/docs/engage)**
+**2)  [Interagieren](http://docs.marketo.com/display/docs/engage)**
 
 * Kontobasierte Personalisierung
 * Interaktion mit anderen Kanälen
 * Kontospezifische Workflows
 
-**3) [Maßnahme](http://docs.marketo.com/display/docs/measure)**
+**3)  [Maßnahme](http://docs.marketo.com/display/docs/measure)**
 
 * Einblicke auf Konto- und Listen-Ebene
 * Bewertung der Kontointeraktion
@@ -47,11 +47,11 @@ Marketo ABM besteht aus drei Komponenten:
 
 Marketing-to-Konto-basiertes Marketing Angebot außerdem verschiedene Tools zur Personalisierung des benannten Kontoerlebnisses über Kanal hinweg.
 
-* E-Mail- und [Landingpage-Personalisierung](http://docs.marketo.com/display/DOCS/Personalization)
-* Web- [Personalisierung](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL- [Personalisierung](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Anzeigenpersonalisierung [](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [Personalisierte](http://docs.marketo.com/display/DOCS/Website+Retargeting) Remarketing
+* E-Mail und Landingpage [Personalisierung](http://docs.marketo.com/display/DOCS/Personalization)
+* Web [Personalisierung](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
+* URL [Personalisierung](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
+* Anzeige [Personalisierung](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [](http://docs.marketo.com/display/DOCS/Website+Retargeting) PersonalizedRemarketing
 
 Ich bin da! Wie gehe ich los?
 
