@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Es gibt ein paar Dinge zu tun, bevor Sie mit den Missionen beginnen.
 
-## Schritt 1: Bei Marketing anmelden {#step-log-in-to-marketo}
+## Schritt 1: Melden Sie sich bei Marketo {#step-log-in-to-marketo} an
 
-1. [Melden Sie sich mit den per E-Mail erhaltenen Anmeldeinformationen bei Marketing](https://app.marketo.com) an.
+1. [Melden Sie sich bei ](https://app.marketo.com) Marketing mit den per E-Mail erhaltenen Anmeldeinformationen an.
 
    ![](assets/one.png)
 
-## Schritt 2: Lernordner erstellen {#step-create-a-learning-folder}
+## Schritt 2: Lernordner {#step-create-a-learning-folder} erstellen
 
 Erstellen wir einen Ordner, in dem alle Aufgaben gespeichert werden.
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/two.png)
 
@@ -33,7 +33,7 @@ Erstellen wir einen Ordner, in dem alle Aufgaben gespeichert werden.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
-1. Benennen Sie den Ordner &quot;Learning&quot;und klicken Sie auf **Erstellen**.
+1. Benennen Sie den Ordner &quot;Learning&quot;und klicken Sie auf **Create**.
 
    ![](assets/image2014-9-24-10-3a53-3a55.png)
 
@@ -45,7 +45,7 @@ Erstellen wir einen Ordner, in dem alle Aufgaben gespeichert werden.
 
 hinzufügen Sie sich selbst als Person in Marketo, damit Sie sich später selbst Test-E-Mails senden können.
 
-1. Wechseln Sie zum Bereich **Datenbank** .
+1. Wechseln Sie zum Bereich **Datenbank**.
 
    ![](assets/db.png)
 
@@ -53,7 +53,7 @@ hinzufügen Sie sich selbst als Person in Marketo, damit Sie sich später selbst
 
    ![](assets/seven.png)
 
-1. Geben Sie Ihren Vor- und Nachnamen, Ihre E-Mail-Adresse und Ihren Firmen ein und klicken Sie dann auf **Erstellen** , um sich selbst als Person hinzuzufügen.
+1. Geben Sie Ihren Vor- und Nachnamen, Ihre E-Mail-Adresse und Ihren Firmen-Namen ein und klicken Sie dann auf **Erstellen**, um sich selbst als Person hinzuzufügen.
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ hinzufügen Sie sich selbst als Person in Marketo, damit Sie sich später selbst
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf die Registerkarte **Personen** . Du solltest dich in der Datenbank sehen.
+1. Klicken Sie auf die Registerkarte **Personen**. Du solltest dich in der Datenbank sehen.
 
    ![](assets/ten.png)
 
