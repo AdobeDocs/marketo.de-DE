@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aus SFDC-Kampagne entfernen {#remove-from-sfdc-campaign}
+# Aus SFDC-Kampagne {#remove-from-sfdc-campaign} entfernen
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-So wie Sie [Hinzufügen zu SFDC](add-to-sfdc-campaign.md)Campaignment und [Change Status in der SFDC-Kampagne](change-status-in-sfdc-campaign.md)können Sie auch Personen oder Interessenten aus einer Salesforce-Kampagne entfernen.
+Ebenso wie Sie [Hinzufügen zu SFDC-Kampagne](add-to-sfdc-campaign.md)und [Status in SFDC-Kampagne](change-status-in-sfdc-campaign.md) ändern können, können Sie auch Personen oder Interessenten aus einer Salesforce-Kampagne entfernen.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Nachdem Sie den Textfluss in den Textfluss gezogen haben, suchen und wählen Sie die Salesforce-Kampagne aus, aus der Sie die Person oder den Interessenten entfernen möchten.
 
