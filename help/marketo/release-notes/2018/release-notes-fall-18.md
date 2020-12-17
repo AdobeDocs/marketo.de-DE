@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Versionshinweise: Herbst 18 {#release-notes-fall}
+# Versionshinweise: Fall &#39;18 {#release-notes-fall}
 
 Die folgenden Funktionen sind in der Version Herbst 18 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
 Bitte klicken Sie auf die Titellink-Links, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen, falls verfügbar.
 
-## Verbesserungen der Hauptplattform {#core-platform-enhancements}
+## Verbesserungen der Kernplattform {#core-platform-enhancements}
 
 **[Web-Personalisierung](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -38,7 +38,7 @@ Die Web-Personalisierung unterstützt jetzt mehrere Arbeitsbereiche.
 
 ## Marketo Sky {#marketo-sky}
 
-Weitere Informationen und Aktualisierungen finden Sie in unseren [Sky-Versionshinweisen](https://help.marketo.com).
+Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinweisen](https://help.marketo.com).
 
 * **Design-Systemaktualisierungen**
 
@@ -56,7 +56,7 @@ Weitere Informationen und Aktualisierungen finden Sie in unseren [Sky-Versionshi
 * Ansichten der Design Studio-Liste: Benutzer haben jetzt die Möglichkeit, Vorlagen für Landingpages und E-Mail-Vorlagen im Format &quot;Liste-Ansicht&quot;Ansicht, wodurch eine schnelle Navigation und Massenaktionen für einen Asset-Typ möglich sind.
 * Design Studio-Asset-Detailseiten: Sparen Sie Zeit und Kopfschmerzen, indem Sie die Massenaktionen für alle Assets an einem Ort anzeigen, organisieren und durchführen.
 * **Standard-Programm jetzt auf Marketo Sky** verfügbar: Marketo Sky unterstützt jetzt Standard-Programm, den vielseitigen Programm-Stil, mit dem Sie jede Kampagne erstellen können, die Sie sich vorstellen können.
-* **E-Mail-Programm - Phase 1**: Sie können jetzt Ansichten E-Mail-Programme in Sky. Sehen Sie sich das neue Design an und [lassen Sie uns wissen, was Sie denken](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **E-Mail-Programm - Phase 1**: Sie können jetzt Ansichten E-Mail-Programme in Sky. Sehen Sie sich das neue Design an und [teilen Sie uns mit, was Sie denken](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
@@ -86,7 +86,7 @@ Weitere Informationen und Aktualisierungen finden Sie in unseren [Sky-Versionshi
 * **Interaktion nach Aktivität**: Die Benutzer können die Ansicht der Interaktionsmetriken nach Aktivitäten- oder Kostenzeitraum auswählen.
 * **FILTER** mit ABM-Namen: Filtern Sie die Dashboard Pipeline und Umsatz nach bestimmten benannten Konten.
 
-## Werbenetzwerke {#ad-networks}
+## Anzeigennetzwerke {#ad-networks}
 
 **[Token aktualisieren](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
