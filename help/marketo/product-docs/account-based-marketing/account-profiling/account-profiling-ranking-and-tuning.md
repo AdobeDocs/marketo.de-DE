@@ -21,7 +21,7 @@ Die Ergebnisse zeigen Ihnen alle bekannten Konten nach Besoldungsgruppe aufgesch
 
 ![](assets/results.png)
 
-Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch fördern zu aktivieren, da es Ihnen eine Tonne Zeit einspart. Wenn Sie jedoch jedes Konto durchgehen und manuell [](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)hinzufügen möchten, lassen Sie das Kontrollkästchen deaktiviert.
+Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch fördern zu aktivieren, da es Ihnen eine Tonne Zeit einspart. Wenn Sie jedoch die einzelnen Konten durchlaufen und [sie manuell hinzufügen](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts) möchten, lassen Sie das Kontrollkästchen einfach deaktiviert.
 
 <table> 
  <tbody> 
@@ -56,7 +56,7 @@ Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch fördern zu ak
  </tbody> 
 </table>
 
-## Modellabstimmung {#model-tuning}
+## Modelloptimierung {#model-tuning}
 
 Klicken Sie auf der Registerkarte Modell auf die Schaltfläche Modell anpassen.
 
@@ -89,13 +89,13 @@ Klicken Sie auf die Dropdownliste Hinzufügen ICP-Indikator, um weitere Indikato
 
 ![](assets/add-icp.png)
 
-Wenn Sie das Kontrollkästchen &quot;Exportieren&quot;aktivieren, können Sie den ICP-Indikator auf der Seite &quot;Benanntes Konto&quot;anzeigen und den ausgewählten ICP-Indikator als Einschränkungen in [benannten Filtern](http://docs.marketo.com/display/DOCS/Account+Filters)verwenden.
+Wenn Sie das Kontrollkästchen &quot;Exportieren&quot;aktivieren, können Sie den ICP-Indikator auf der Seite &quot;Benanntes Konto&quot;anzeigen und den ausgewählten ICP-Indikator als Einschränkungen unter [Benannte Filter](http://docs.marketo.com/display/DOCS/Account+Filters) verwenden.
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-Indikatoren werden als Beschränkungen in **Filtern und Auslösern von benannten Konten** einbezogen.
+>ICP-Indikatoren werden als Einschränkungen in den Filtern und Auslöser von **Mitglied des benannten Kontos** einbezogen.
 
 Die Indikatorgewichtung steuert die Wichtigkeitsstufe, die jeder Indikator in Ihrem Modell erhält.
 
@@ -105,7 +105,7 @@ Klicken Sie auf Modell aktualisieren, damit diese Änderungen wirksam werden.
 
 ![](assets/refresh-button.png)
 
-Wenn Sie das Anpassen des Modells abgeschlossen haben (nachdem Sie es aktualisiert haben), kehren Sie zur Registerkarte &quot;Modellergebnisse&quot;zurück und klicken Sie auf &quot; **Speichern und anwenden&quot;**.
+Wenn Sie das Anpassen des Modells abgeschlossen haben (nachdem Sie es aktualisiert haben), kehren Sie zur Registerkarte Modellergebnisse zurück und klicken Sie auf **Ränge speichern und anwenden**.
 
 ![](assets/ranks.png)
 
