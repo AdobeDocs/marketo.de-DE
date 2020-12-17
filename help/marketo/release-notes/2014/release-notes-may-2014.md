@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom Mai 2014 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu den Links zu detaillierten Artikeln der Wissensdatenbank für jede Funktion zurückkehren!
 
-## Arbeitsbereich löschen {#delete-workspace}
+## Arbeitsbereich {#delete-workspace} löschen
 
-Jetzt können Sie einen nicht verwendeten Arbeitsbereich [löschen](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Stellen Sie sicher, dass alle Assets in einen anderen Arbeitsbereich verschoben werden, bevor Sie versuchen, den Arbeitsbereich zu löschen.
+Jetzt können Sie [einen nicht verwendeten Arbeitsbereich](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) löschen. Stellen Sie sicher, dass alle Assets in einen anderen Arbeitsbereich verschoben werden, bevor Sie versuchen, den Arbeitsbereich zu löschen.
 
-## Erste Cast einplanen {#schedule-first-cast}
+## Erste Stufe planen {#schedule-first-cast}
 
-In Interaktions-Programmen können Sie das Ausführungsdatum des [ersten Beitrags](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)planen. Geben Sie z. B. den Cadence-Wert alle 2 Wochen an und wählen Sie das Datum des ersten Bestichs aus.
+In Interaktions-Programmen können Sie das Datum für die Ausführung des [ersten gezählten Bildes](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) planen. Geben Sie z. B. den Cadence-Wert alle 2 Wochen an und wählen Sie das Datum des ersten Bestichs aus.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
 ![](assets/image2014-9-22-11-3a57-3a54.png)
 
-## Verbesserte Programme zur Interaktion {#enhanced-engagement-programs}
+## Erweiterte Programme für Interaktion {#enhanced-engagement-programs}
 
 Jeder bekommt jetzt mehrere Programm, Streams und Kommunikationsbeschränkungen.
 
 ## Linktracking in Text-E-Mails {#link-tracking-in-text-emails}
 
-[hinzufügen Dublette eckige Klammern](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) um URLs in der Textversion Ihrer E-Mails, um anzugeben, wann Links in umgeleitete Marketing-zu-Tracking-Links konvertiert werden sollten
+[hinzufügen Dublette mit quadratischen ](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) Klammern um URLs in der Textversion Ihrer E-Mails, um anzugeben, wann Links in umgeleitete Marketing-zu-Tracking-Links konvertiert werden sollten
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Standardmäßig werden in der Textversion von E-Mails keine Links verfolgt. hinz
 
 So fügen Sie Ihren E-Mails nicht verfolgte Links hinzu:
 
-* **HTML-Version:** Fügen Sie den Link ein und fügen Sie dem Link die Klasse &quot;mktNoTrack&quot;hinzu.
+* **HTML-Version:** Fügen Sie den Link ein und die Klasse &quot;mktNoTrack&quot;zum Link hinzu.
 * **Textversion:** Geben Sie einfach die URL ein. Die Verfolgung wird standardmäßig aufgehoben.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
@@ -59,7 +59,7 @@ Erkennen Sie, wie sich Ihre Links in E-Mails im Vorfeld verhalten werden. Beispi
 
 ## Kampagne abbrechen {#abort-campaign}
 
-Keine Panik! Wenn Sie einen Fehler finden, verwenden Sie die neue Schaltfläche [zum Abbrechen der Kampagne](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) , um die Kampagnen in den Tracks sofort zu stoppen. Sie erhalten eine Benachrichtigung, in der angegeben wird, wie viele Interessenten in jedem Flussschritt beim Beenden der Kampagne noch ausstehen.
+Keine Panik! Wenn Sie einen Fehler finden, verwenden Sie die neue Schaltfläche [abort Kampagne](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md), um Kampagnen in ihren Tracks sofort zu stoppen. Sie erhalten eine Benachrichtigung, in der angegeben wird, wie viele Interessenten in jedem Flussschritt beim Beenden der Kampagne noch ausstehen.
 
 ## Sales Insight auf Japanisch, Portugiesisch und Spanisch {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -67,21 +67,21 @@ Laden Sie die neueste Version von Sales Insight von AppExchange herunter, damit 
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
-## Programm-Status und Erfolgszeitrahmen in der Analyse der Programm-Mitgliedschaft {#program-status-and-success-timeframe-in-program-membership-analysis}
+## Programm-Status und Erfolgszeitrahmen in der Programm-Mitgliedschaft-Analyse {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Ansicht, wie viele [Mitglieder sich in jedem Status](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) des Programms befinden und wann sie zu jedem Status gewechselt haben, einschließlich des Zeitpunkts, zu dem sie den Erfolg des Programms erreicht haben.
+Ansicht, wie viele [Mitglieder sich in jedem Programm Status](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) befinden und wann sie zu jedem Status gewechselt haben, einschließlich des Datums, an dem sie Programm-Erfolg erzielt haben.
 
 ## A/B-Test-E-Mails in der E-Mail-Analyse {#a-b-test-emails-in-email-analysis}
 
-Berichte zu den einzelnen E-Mail-Varianten Ihres [A/B-Tests](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in der E-Mail-Analyse.
+Berichte zu den einzelnen E-Mail-Varianten [A/B-Test](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in der E-Mail-Analyse.
 
 ## Änderungen am Analytics-Paket {#analytics-packaging-changes}
 
 Der Umsatz-Cycle-Modellierer und der Erfolgspfad-Analyzer sind jetzt in der MA Standard Edition enthalten.
 
-## Informationen zur mobilen Plattform {#mobile-platform-info}
+## Mobile Platform Info {#mobile-platform-info}
 
-[Segmentieren und Auslösen](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Interessenten, die E-Mails von ihren Mobilgeräten aus öffnen und anklicken.
+[Segmentieren und ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) Auslösen von Interessenten, die E-Mails von ihren Mobilgeräten aus öffnen und anklicken.
 
 >[!NOTE]
 >
