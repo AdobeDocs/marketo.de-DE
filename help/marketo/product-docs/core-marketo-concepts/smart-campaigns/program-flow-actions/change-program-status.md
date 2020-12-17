@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Status des Programms ändern {#change-program-status}
+# Ändern des Programm-Status {#change-program-status}
 
 ## Übersicht {#overview}
 
-Programm-Statusangaben helfen Ihnen dabei, zu verfolgen, wie Menschen durch ein Programm oder Ereignis vorankommen. Weitere Informationen finden Sie unter Kanal [anpassen, erstellen und verwalten](../../../../product-docs/administration/tags/create-a-program-channel.md).
+Programm-Statusangaben helfen Ihnen dabei, zu verfolgen, wie Menschen durch ein Programm oder Ereignis vorankommen. Weitere Informationen finden Sie unter [Kanal anpassen, erstellen und verwalten](../../../../product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
 >Wenn Sie den Status des Programms in einem Interaktionsmodul ändern, werden diese automatisch dem ersten Stream hinzugefügt. Sie erhalten Inhalte.
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
-1. Ziehen Sie in den Textfluss zum Ändern des **Programm-Status** .
+1. Ziehen Sie in den Textfluss **Ändern des Programm-Status**.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Wählen Sie den **neuen Status** aus, den Sie festlegen möchten. Die Person wird auch Mitglied des Programms, wenn sie nicht schon.
+1. Wählen Sie **Neuer Status** aus, den Sie festlegen möchten. Die Person wird auch Mitglied des Programms, wenn sie nicht schon.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
