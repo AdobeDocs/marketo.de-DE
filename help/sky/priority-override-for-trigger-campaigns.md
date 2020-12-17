@@ -26,7 +26,7 @@ Administratoren können Marketos festgelegte Priorität für auslösende Kampagn
 
 ## Priorität außer Kraft setzen
 
-1. Klicken Sie in der Kampagne des Auslösers auf die Registerkarte **[!UICONTROL Plan]** und dann auf Priorität **[!UICONTROL außer Kraft setzen]**.
+1. Klicken Sie in der Kampagne des Auslösers auf die Registerkarte **[!UICONTROL Plan]** und dann auf **[!UICONTROL Priorität außer Kraft setzen]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
@@ -38,23 +38,23 @@ Administratoren können Marketos festgelegte Priorität für auslösende Kampagn
 
 >[!NOTE]
 >
->* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagne-Warteschlange] unter [!UICONTROL Marketing-Aktivitäten]Ansicht haben. Um die Ausführungsrate zu erhöhen, sollten Sie die Priorität Ihrer Kampagne auf eine Ebene höher als die Standardeinstellung setzen.
+>* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagne-Warteschlange] unter [!UICONTROL Marketing-Aktivitäten] Ansicht. Um die Ausführungsrate zu erhöhen, sollten Sie die Priorität Ihrer Kampagne auf eine Ebene höher als die Standardeinstellung setzen.
 >* Die Priorität der Benutzereinstellung gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind davon nicht betroffen.
 
 
 ## Priorität zurücksetzen
 
-1. Wenn Sie die Systemstandardpriorität zurücksetzen möchten, wechseln Sie zur Registerkarte &quot; **[!UICONTROL Plan]** &quot;in der Auslöseansicht und klicken Sie auf &quot;Kampagne **[!UICONTROL zurücksetzen&quot;]**.
+1. Um die Systemstandardpriorität zurückzusetzen, wechseln Sie zur Registerkarte **[!UICONTROL Plan]** in Ihrer Auslöser-Kampagne und klicken Sie auf **[!UICONTROL Kampagne zurücksetzen]**.
 
    ![Bild vier](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. Klicken Sie zur Bestätigung auf **[!UICONTROL Zurücksetzen]** .
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Zurücksetzen]**.
 
    ![Bild fünf](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
 >[!NOTE]
 >
->Prioritätsüberschreibungen und -rückgaben werden im Audit-Protokoll erfasst. Sie können den [Prüfpfad](https://docs.marketo.com/x/GZ2t) im Classic-Erlebnis über den [!UICONTROL Admin] -Bereich Ansicht haben.
+>Prioritätsüberschreibungen und -rückgaben werden im Audit-Protokoll erfasst. Sie können den [Prüfpfad](https://docs.marketo.com/x/GZ2t) durch den [!UICONTROL Admin]-Bereich im klassischen Erlebnis Ansicht haben.
 
 ## Zugriff auf Förderpriorität außer Kraft setzen
 
@@ -66,20 +66,20 @@ Administratoren können Marketos festgelegte Priorität für auslösende Kampagn
 
    ![Bild sechs](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Rollen]** , wählen Sie den Benutzer aus, dem Sie Zugriff gewähren möchten, und klicken Sie dann auf Rolle **[!UICONTROL bearbeiten]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Rollen]**, wählen Sie den Benutzer aus, dem Sie Zugriff gewähren möchten, und klicken Sie dann auf **[!UICONTROL Rolle bearbeiten]**.
 
    ![Bild sieben](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Aktivieren Sie unter [!UICONTROL Zugriff auf Marketing-Aktivitäten]die Option Auslöserpriorität **[!UICONTROL bearbeiten]**. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Markieren Sie unter [!UICONTROL Zugriff auf Marketing-Aktivitäten] **[!UICONTROL Kampagnen-Priorität bearbeiten]**. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild acht](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Priorität der Kampagne von Ansichten in Marketing Classic
 
-Sie können die Priorität der Ansicht der Kampagne im [!DNL Classic] Erlebnis festlegen, indem Sie in einer Auslöser-Kampagne auf die Registerkarte **[!UICONTROL Plan]** klicken.
+Sie können die Priorität der Kampagne im Erlebnis [!DNL Classic] durch Klicken auf die Registerkarte **[!UICONTROL Planen]** in einer Auslöser-Kampagne festlegen.
 
 ![Bild neun](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
 >[!NOTE]
 >
->Die Priorität des [!DNL Classic] Erlebnisses ist nur Ansicht. Das Ändern oder Zurücksetzen der Priorität der Kampagne ist nur über Marketo Sky verfügbar.
+>Die Priorität im Erlebnis [!DNL Classic] ist nur Ansicht. Das Ändern oder Zurücksetzen der Priorität der Kampagne ist nur über Marketo Sky verfügbar.
