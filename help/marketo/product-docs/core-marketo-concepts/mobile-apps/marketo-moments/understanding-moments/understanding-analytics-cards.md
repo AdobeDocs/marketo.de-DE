@@ -47,13 +47,13 @@ Die Karte **Akquise Interessenten **zeigt Ihnen einen Trend-Monatsüberblick üb
 
 ## Neue Interessenten {#new-leads}
 
-Die **Karte &quot;Neue Interessenten** &quot;zeigt Ihnen einen Trendbericht über den Monat der Gesamtzahl neuer Interessenten in Ihrer Instanz in den letzten sechs Monaten.
+Die Karte **Neue Interessenten** zeigt Ihnen einen Trend-Bericht über Monate der Gesamtzahl neuer Interessenten in Ihrer Instanz in den letzten sechs Monaten.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Abonnements aufheben {#unsubscribes}
+## Abmeldet {#unsubscribes}
 
-Die **Abmeldung** -Karte zeigt Ihnen einen monatlichen Trendbericht über Ihre Abmeldung in den letzten sechs Monaten.
+Die Karte **Abbestellte** zeigt Ihnen einen Monat-zu-Monat-Trendbericht Ihrer Abbestellrate in den letzten sechs Monaten.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
