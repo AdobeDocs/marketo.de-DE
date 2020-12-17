@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den Leistungsbericht des Interaktionsstreams.
 
-## Bericht erstellen {#create-the-report}
+## Bericht {#create-the-report} erstellen
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie dann unter **Neu** auf **Neues lokales Asset**.
+1. Suchen Sie nach Ihrem Interaktions-Programm und wählen Sie es aus. Klicken Sie anschließend unter **Neu** auf **Neues lokales Element**.
 
    ![](assets/localassetnutring.jpg)
 
@@ -44,7 +44,7 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Klicken Sie auf der Registerkarte **Einstellungen** bei gedrückter Dublette auf den Filter E-Mail-E-Mail **für** Interaktionszertifikate.
+1. Klicken Sie unter der Registerkarte **Setup** bei Dublette auf den Programm **Interaktion E-Mail**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -54,14 +54,14 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
 ## Bericht ausführen {#run-report}
 
-1. Um den Bericht auszuführen, klicken Sie einfach auf die Registerkarte **Bericht** .
+1. Um den Bericht auszuführen, klicken Sie einfach auf die Registerkarte **Bericht**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
    >
-   >Obwohl nicht illustriert, ist die Interaktionsbewertung eine Spalte in diesem Bericht. Weitere Informationen dazu finden Sie unter [Einblick in den Einsatzwert](understanding-the-engagement-score.md) .
+   >Obwohl nicht illustriert, ist die Interaktionsbewertung eine Spalte in diesem Bericht. Weitere Informationen dazu finden Sie unter [Einblick in den Einsatzwert](understanding-the-engagement-score.md).
 
    Gute Arbeit! Beachten Sie, dass der Bericht nach Interaktionsdaten gruppiert ist.
 
