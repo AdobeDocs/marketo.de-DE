@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Archivieren und Archivieren von Stream-Inhalten
 
-Wenn Sie einen Inhalt nicht mehr in einem Stream verwenden möchten, können Sie ihn entweder [entfernen](/help/sky/remove-stream-content.md) oder archivieren.
+Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen oder archivieren.](/help/sky/remove-stream-content.md)
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ Wenn Sie einen Inhalt nicht mehr in einem Stream verwenden möchten, können Sie
 
    ![Bild eins](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**
 
    ![Bild zwei](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -45,11 +45,11 @@ Das ist&#39;s! Denken Sie daran, archivieren Sie, wenn Sie die Geschichte bewahr
 
    ![Bild fünf](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild sechs](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf Archivierten Inhalt **[!UICONTROL anzeigen]**.
+1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf **[!UICONTROL Archivierten Inhalt anzeigen]**.
 
    ![Bild sieben](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ Das ist&#39;s! Denken Sie daran, archivieren Sie, wenn Sie die Geschichte bewahr
 
    ![Bild acht](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Wählen Sie **[!UICONTROL Archivieren]**.
+1. Wählen Sie **[!UICONTROL Archivierung entfernen]**.
 
    ![Bild neun](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
