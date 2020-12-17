@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ersatzseite festlegen {#set-a-fallback-page}
+# Fallback-Seite {#set-a-fallback-page} festlegen
 
 Fallback-Seiten sind die letzte Verteidigungslinie, wenn Ihre Landingpage offline ist oder nicht gefunden wird. Sieh zu, dass du eins hast.
 
@@ -27,7 +27,7 @@ Fallback-Seiten sind die letzte Verteidigungslinie, wenn Ihre Landingpage offlin
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Geben Sie eine **Ersatzseite** in das Dialogfeld ein und klicken Sie auf **Speichern**.
+1. Geben Sie eine **Fallback-Seite** in das Dialogfeld ein und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
