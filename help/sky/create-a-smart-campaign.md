@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Intelligente Kampagnen sind dabei das wichtigste Werkzeug [!DNL Marketo]. Sie können eine Person auslösen und Aktionen durchführen oder Millionen von Personen zusammenführen und eine Reihe von Flussschritten ausführen.
+Intelligente Kampagnen sind das wichtigste Tool in [!DNL Marketo]. Sie können eine Person auslösen und Aktionen durchführen oder Millionen von Personen zusammenführen und eine Reihe von Flussschritten ausführen.
 
-1. Wählen Sie in den [!UICONTROL Marketing-Aktivitäten]das Programm oder den Ordner aus, in dem Ihre intelligente Kampagne leben soll.
+1. Wählen Sie unter [!UICONTROL Marketing-Aktivitäten] das Programm oder den Ordner aus, in dem Ihre intelligente Kampagne leben soll.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf Ihre Auswahl und wählen Sie **[!UICONTROL Intelligente Kampagne]** erstellen.
+1. Klicken Sie mit der rechten Maustaste auf Ihre Auswahl und wählen Sie **[!UICONTROL Intelligente Kampagne erstellen]**.
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
