@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Erstellen benutzerdefinierter Überlagerungen in der Ansicht &quot;Programmplanung&quot; {#creating-custom-overlays-in-program-schedule-view}
+# Erstellen benutzerdefinierter Überlagerungen in der Ansicht Programmplanung {#creating-custom-overlays-in-program-schedule-view}
 
 Sie können benutzerdefinierte Überlagerungen für die Ansicht von Einträgen erstellen, die für Ihre Anforderungen relevant sind.
 
-1. Klicken Sie auf die Dropdownliste **Agenda** .
+1. Klicken Sie auf die Dropdownliste **Agenda**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -27,7 +27,7 @@ Sie können benutzerdefinierte Überlagerungen für die Ansicht von Einträgen e
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Sie können auch nach [Programm-Tags](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)filtern.
+1. Sie können auch nach [Programm-Tags](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md) filtern.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
