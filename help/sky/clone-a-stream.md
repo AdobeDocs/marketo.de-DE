@@ -20,7 +20,7 @@ Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen unter
 
    ![Bild eins](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
