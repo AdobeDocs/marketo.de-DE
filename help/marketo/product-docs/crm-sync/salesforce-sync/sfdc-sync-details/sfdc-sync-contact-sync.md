@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SFDC-Synchronisierung: Kontaktaufnahme {#sfdc-sync-contact-sync}
+# SFDC-Synchronisierung: Kontaktsynchronisierung {#sfdc-sync-contact-sync}
 
 Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Salesforce synchronisiert? Es synchronisiert, wartet dann 5 Minuten und synchronisiert dann den ganzen Tag, jeden Tag. Hier sind einige Details darüber, wie Marketo Salesforce-Kontakte spezifisch behandelt.
 
-## Richtung synchronisieren {#sync-direction}
+## Sync Direction {#sync-direction}
 
 Die Kontaktsynchronisierung erfolgt in beide Richtungen. Wenn Sie Änderungen an einem Kontakt in Salesforce oder Marketo vornehmen, werden Ihre Updates in beiden Systemen angezeigt.
 
@@ -25,7 +25,7 @@ Wir sind nett und lassen Salesforce gewinnen. Es ist selten, dass diese Art von 
 
 ## Kann ich eine Person in einen Kontakt in Marketo umwandeln? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Ja, verwenden Sie die Aktion ** [Person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)konvertieren**.
+Ja, verwenden Sie die Aktion &quot;* [Person konvertieren](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**&quot;.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Ja, verwenden Sie die Aktion ** [Person](../../../../product-docs/core-marketo-c
 
 ## Kann ich eine Synchronisierung eines Kontakts manuell erzwingen? {#can-i-manually-force-a-sync-of-a-contact}
 
-Ja, verwenden Sie die Aktion ** [Synchronisierte Person zu SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **Fluss und es wird in Echtzeit synchronisiert.
+Ja, verwenden Sie die Aktion ** [Synchronisierte Person mit SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **Textfluss und sie wird in Echtzeit synchronisiert.
 
 ## Synchronisiert jedes einzelne Standardfeld mit Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
