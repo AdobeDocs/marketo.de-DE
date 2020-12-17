@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Interaktions-Programm-Stream ändern {#change-engagement-program-stream}
+# Interaktions-Programm-Stream {#change-engagement-program-stream} ändern
 
 ## Übersicht {#overview}
 
-Normalerweise würden Sie [Stream-Transitionen](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) verwenden, um dies zu erreichen, aber wenn Sie Personen manuell von einem Stream in einen anderen verschieben möchten, ist dies der zu verwendende Flussschritt.
+Normalerweise würden Sie [Stream-Transitionen](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) verwenden, um dies zu erreichen. Wenn Sie jedoch Personen manuell von einem Stream in einen anderen verschieben möchten, ist dies der zu verwendende Flussschritt.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Wählen Sie das Interaktions-Programm aus, in das Sie die Person verschieben möchten.
 
