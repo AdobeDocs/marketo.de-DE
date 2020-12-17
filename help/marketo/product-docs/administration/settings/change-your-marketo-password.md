@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kennzeichnungskennwort ändern {#change-your-marketo-password}
+# Ändern des Kennzeichens in Kennwort {#change-your-marketo-password}
 
 Ändern Sie Ihr Marketo-Kennwort mit diesen einfachen Schritten.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. Administratoren können auch auf **Admin** und dann auf Kennwort **ändern** klicken, um ihr Admin-Kennwort zu ändern.
+1. Administratoren können auch auf **Admin** und dann auf **Passwort ändern** klicken, um ihr Admin-Passwort zu ändern.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
@@ -31,5 +31,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Was ist ein gutes Kennwort? Etwas lange mit vielen Buchstaben, Zahlen und Symbolen wie &quot; [[E-Mail geschützt]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[E-Mail-geschützt]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Außer, nicht jener. Seien Sie kreativ und machen Sie sich selbst.
+   >Was ist ein gutes Kennwort? Etwas lange mit vielen Buchstaben, Zahlen und Symbolen wie &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Außer, nicht jener. Seien Sie kreativ und machen Sie sich selbst.
 
