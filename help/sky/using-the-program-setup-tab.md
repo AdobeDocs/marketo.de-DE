@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Wählen Sie auf der Registerkarte &quot; [!UICONTROL Einstellungen] &quot;Ihres Programms einen Kanal aus, fügen Sie Tags und Periodenkosten hinzu und ändern Sie die Einstellungen.
+Auf der Registerkarte [!UICONTROL Setup] Ihres Programms können Sie einen Kanal auswählen, Tags und Periodenkosten hinzufügen und Einstellungen ändern.
 
 ![Bild eins](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -44,11 +44,11 @@ Um den Kanal Ihres Programms zu ändern, wählen Sie oben auf der Seite aus der 
 
 >[!NOTE]
 >
->Erfahren Sie, wie Sie in Marketing Classic [Programm-Tags](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) erstellen und diese in der Dropdown-Liste verfügbar machen.
+>Erfahren Sie, wie Sie [Programm-Tags in Marketing Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) erstellen und sie in der Dropdown-Liste verfügbar machen.
 
 ## hinzufügen
 
-1. Wählen Sie unter &quot; [!UICONTROL Zeitkosten] &quot;einen Monat aus, geben Sie einen Preis ein und fügen Sie einen kurzen Namen oder eine Beschreibung hinzu. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Wählen Sie im Abschnitt [!UICONTROL Kosten für einen Zeitraum] einen Monat aus, geben Sie einen Preis ein und fügen Sie einen kurzen Namen oder eine Beschreibung hinzu. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![Bild sechs](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ Um den Kanal Ihres Programms zu ändern, wählen Sie oben auf der Seite aus der 
 
 ## Einstellungen ändern
 
-Im Abschnitt [!UICONTROL Einstellungen] können Sie eine CRM-Kampagne auswählen, mit der synchronisiert werden soll (falls Ihr Abonnement CRM-Integration hat), und/oder das Analyseverhalten für Ihr Programm ändern.
+Im Abschnitt [!UICONTROL Settings] können Sie eine CRM-Kampagne auswählen, mit der synchronisiert werden soll (falls Ihr Abonnement CRM-Integration hat), und/oder das Analyseverhalten für Ihr Programm ändern.
 
 ![Bild acht](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
