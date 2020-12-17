@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Neuen Kampagnenordner erstellen {#create-new-campaign-folder}
+# Neuen Kampagnenordner {#create-new-campaign-folder} erstellen
 
 Kampagne-Ordner helfen Ihnen, einen sauberen Arbeitsbereich zu behalten. Folgen Sie diesen einfachen Schritten und Sie sind auf dem Weg zur Automatisierungsmagie.
 
@@ -27,7 +27,7 @@ Kampagne-Ordner helfen Ihnen, einen sauberen Arbeitsbereich zu behalten. Folgen 
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Geben Sie einen **Namen** für den Ordner &quot;Kampagne&quot;ein.
+1. Geben Sie einen **Name** für den Ordner &quot;Kampagne&quot;ein.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
@@ -43,7 +43,7 @@ Kampagne-Ordner helfen Ihnen, einen sauberen Arbeitsbereich zu behalten. Folgen 
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Beim [Erstellen eines neuen Programms](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)sehen Sie nun diesen Ordner für Kampagnen.
+   Wenn Sie nun [ein neues Programm](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) erstellen, sehen Sie diesen Kampagnen-Ordner als Option.
 
 >[!MORELIKETHIS]
 >
