@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aufgabe erstellen {#create-task}
+# Aufgabe {#create-task} erstellen
 
 Als Marketingspezialist verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Geschäften helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
 
@@ -19,7 +19,7 @@ Als Marketingspezialist verfügen Sie über Informationen, die dem Vertrieb beim
 
 >[!NOTE]
 >
->Wenn der Marketo-Synchronisierungsbenutzer Aufgaben erstellt, ist **Due In** ein Pflichtfeld, damit die Aufgabe in Salesforce erstellt werden kann. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
+>Wenn der Markieren-Synchronisierungsbenutzer Aufgaben erstellt, ist **Due In** ein erforderliches Feld, damit die Aufgabe in Salesforce erstellt werden kann. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
 
 Standardmäßig sieht der Flussschritt wie folgt aus:   ![](assets/image2014-9-22-14-3a54-3a49.png)
 
@@ -29,5 +29,5 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im **Betreff** und in der **Beschreibung** verwenden. Weitere Informationen finden Sie unter [Tokens für Flussschritte](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) .
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **Betreff** und **Beschreibung** verwenden. Weitere Informationen finden Sie unter [Token für Flussschritte](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
