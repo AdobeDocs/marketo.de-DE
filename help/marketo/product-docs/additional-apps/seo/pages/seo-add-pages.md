@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Hinzufügen {#seo-add-pages}
+# SEO - Hinzufügen Seiten {#seo-add-pages}
 
 Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. Falls wir ein paar verpasst haben, holen Sie sie in der SEO-App wie folgt ab:
 
-1. Gehen Sie zum Abschnitt **Seiten** .
+1. Gehen Sie zum Abschnitt **Seiten**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
@@ -29,7 +29,7 @@ Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. F
 
    >[!TIP]
    >
-   >Wusstest du, dass du deine Seite einer neuen oder bestehenden Liste [](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)hinzufügen kannst? Schau es dir an!
+   >Wussten Sie, dass Sie [Ihre Seite einer neuen oder vorhandenen Liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können? Schau es dir an!
 
    Es kann einen Moment dauern, bis die Daten Ihrer Seite geladen werden. Warten Sie, bis die grüne Warnmeldung angezeigt wird, und aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
    ![](assets/image2014-9-18-12-3a57-3a10.png)
