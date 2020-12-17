@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schnellsuche in einer Liste oder intelligenten Liste verwenden {#use-quick-find-in-a-list-or-smart-list}
+# Verwenden Sie die Schnellsuche in einer Liste oder intelligenten Liste {#use-quick-find-in-a-list-or-smart-list}
 
 Finden Sie eine Person aus den Ergebnissen einer Liste oder intelligenten Liste mithilfe der Schnellsuche.
 
@@ -19,21 +19,21 @@ Finden Sie eine Person aus den Ergebnissen einer Liste oder intelligenten Liste 
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie die zu durchsuchende intelligente Liste aus und klicken Sie auf die Registerkarte &quot; **Personen** &quot;.
+1. Wählen Sie die gewünschte intelligente Liste aus und klicken Sie dann auf die Registerkarte **Personen**.
 
    ![](assets/smartlistpeople.png)
 
-## Personen mithilfe von persönlichen Informationen suchen {#find-people-using-personal-info}
+## Personen mit persönlichen Informationen suchen {#find-people-using-personal-info}
 
-1. Geben Sie im Feld &quot; **Schnellsuche** &quot;unten im Bildschirm ein Schlüsselwort ein (**persönlicher Name**, **E-Mail-Adresse** oder **Berufsbezeichnung**).
+1. Geben Sie im Feld **Schnellsuche** unten im Bildschirm ein Schlüsselwort ein (**persönlicher Name**, **E-Mail-Adresse** oder **Auftragstitel**).
 
    ![](assets/searchpeople.png)
 
 1. Drücken Sie die Eingabetaste oder klicken Sie auf das Suchsymbol und Sie sind fertig!
 
-## Personen mit einem Firmen-Namen suchen {#find-people-using-a-company-name}
+## Personen mit dem Firmen-Namen {#find-people-using-a-company-name} suchen
 
-1. Um eine Firma zu finden, geben Sie [**Firma**] in das Feld &quot; **Schnellsuche** &quot;ein, gefolgt von einem beliebigen Teil des gesuchten Firma-Namens.
+1. Um eine Firma zu finden, geben Sie [**Firma**] in das Feld **Schnellsuche** ein, gefolgt von einem beliebigen Teil des gesuchten Firmen-Namens.
 
    ![](assets/supersmartlistsearch.jpg)
 
