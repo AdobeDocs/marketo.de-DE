@@ -11,40 +11,40 @@ ht-degree: 0%
 ---
 
 
-# Programm importieren {#import-a-program}
+# Programm {#import-a-program} importieren
 
 Ein Programm kann von einem Markt in ein anderes Abonnement importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus der Marketing-Programm-Bibliothek importieren.
 
-## Programm importieren {#import-a-program-1}
+## Programm {#import-a-program-1} importieren
 
 1. Gehen Sie zu **Marketing-Aktivitäten.**
 
    ![](assets/ma.png)
 
-1. Klicken Sie auf **Neu **Dropdown-Liste. Wählen Sie Programm **importieren**.
+1. Klicken Sie auf **Neu **Dropdown-Liste. Wählen Sie **Programm importieren**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Programm Import ist nur für Benutzer verfügbar, für die die Berechtigung Programm importieren aktiviert ist. Weitere Informationen zum [Verwalten von Benutzerrollen und Berechtigungen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Programm Import ist nur für Benutzer verfügbar, für die die Berechtigung Programm importieren aktiviert ist. Erfahren Sie mehr über [Verwalten von Benutzerrollen und Berechtigungen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
    >
-   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an den [Marketing Support](http://www.marketo.com/services/support/).
+   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketing Support](http://www.marketo.com/services/support/).
 
-1. Wählen Sie ein Marketo- **Abonnement** und ein zu importierendes Programm aus. Klicken Sie auf **Weiter**.
+1. Wählen Sie ein Marketo **Abonnement** und ein zu importierendes Programm aus. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Geben Sie einen **Kampagnen-Ordner** für das importierte Programm an. Klicken Sie auf **Weiter.**
+1. Geben Sie einen **Kampagne-Ordner** für das importierte Programm an. Klicken Sie auf **Weiter.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Achten Sie darauf, dass die **Standardkonfliktregeln** ausgewählt sind. Konfliktregeln sind erforderlich, wenn Sie Programm in eine Instanz importieren, deren Assets denselben Namen haben.
+   >Vergewissern Sie sich, dass** ****Standardkonflikt**-Regeln verwenden ausgewählt ist. Konfliktregeln sind erforderlich, wenn Sie Programm in eine Instanz importieren, deren Assets denselben Namen haben.
 
-1. Vorschau und Programm **importieren** .
+1. Details zur Vorschau und **Importieren** des Programms.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -58,7 +58,7 @@ Sobald der Import abgeschlossen ist, erhalten Sie eine E-Mail-Bestätigung.
 >
 >Sie müssen importierte Batch-Kampagnen neu planen und die Kampagnen aktivieren. Das System deaktiviert automatisch die Zeitpläne der Kampagne und löst Kampagnen im importierten Programm aus.
 
-## Identifizieren Sie vorgefertigte Programm in der Marketing Programm-Bibliothek. {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identifizieren Sie vorab erstellte Programm in der Marketing Programm-Bibliothek {#identify-pre-built-programs-in-the-marketo-program-library}
 
 Die Marketing Programm Library enthält vordefinierte, getestete Programm, die Sie in Ihr Abonnement importieren können. Zu den verfügbaren Programmen gehören:
 
@@ -77,7 +77,7 @@ Die Marketing Programm Library enthält vordefinierte, getestete Programm, die S
 1. **Synchronisieren Sie Neue Personen mit CRM.** Die Kampagne, die neue Leute mit Ihrem CRM-System synchronisiert. Er weist einem Personenstand den Status zu, dass er als nicht verkaufsbereit anerkannt wird.
 1. **Webinar mit Ereignis Adapter.** Eine ganze Reihe von E-Mails - wie Einladungen und Erinnerungen - sowie Landingpages mit Formularen und Kampagnen, um Menschen durch das Programm zu bewegen. In diesem Programm erhalten Sie aktuelle Informationen zur Registrierung, zur Teilnahme usw. von Online-Ereignissen wie WebEx.
 1. **Webinar ohne Ereignis-Adapter.** Wie oben, aber mit manuellen Prozessen zur Registrierung, Anwesenheitskontrolle, etc.
-1. **Sirius entscheidet Scoring Programm**. Dieses Programm wurde entwickelt, um das Sirius Decision Scoring-Standardmodell zu unterstützen, einschließlich der impliziten und expliziten Bewertungsregeln und der Zuweisung von Matrixpersonen. Ansicht [dieses](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF-Dokuments.
+1. **Sirius entscheidet Scoring Programm**. Dieses Programm wurde entwickelt, um das Sirius Decision Scoring-Standardmodell zu unterstützen, einschließlich der impliziten und expliziten Bewertungsregeln und der Zuweisung von Matrixpersonen. Ansicht [diese PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)für weitere Informationen.
 
 >[!CAUTION]
 >
@@ -103,7 +103,7 @@ Programme verwenden externe Assets wie E-Mail-Vorlagen, Vorlagen für Landingpag
 
 >[!CAUTION]
 >
->Beim Importieren eines Programms werden Landingpages/E-Mails mit [dynamischem Inhalt](http://docs.marketo.com/x/yRAt) übersprungen.
+>Beim Importieren eines Programms werden Landingpages/E-Mails, die [dynamische Inhalte](http://docs.marketo.com/x/yRAt) enthalten, übersprungen.
 
 ## Video ansehen {#watch-a-video}
 
