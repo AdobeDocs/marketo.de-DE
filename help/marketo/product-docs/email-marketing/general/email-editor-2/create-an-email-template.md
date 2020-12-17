@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Vorlage erstellen {#create-an-email-template}
+# Erstellen einer E-Mail-Vorlage {#create-an-email-template}
 
 Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen.
 
@@ -25,7 +25,7 @@ Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie dann **Neue E-Mail-Vorlage**.
+1. Klicken Sie auf **Neu** und wählen Sie **Neue E-Mail-Vorlage**.
 
    ![](assets/ds-two.png)
 
@@ -33,7 +33,7 @@ Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen
 
    ![](assets/three-1.png)
 
-1. Um mit der Bearbeitung der neuen Vorlage zu beginnen, klicken Sie auf Entwurf **bearbeiten**.
+1. Um mit der Bearbeitung der neuen Vorlage zu beginnen, klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/4.png)
 
@@ -49,15 +49,15 @@ Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Ve
 
    ![](assets/one.png)
 
-1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf Entwurf **bearbeiten**.
+1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf **Entwurf bearbeiten**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Als Vorlage** speichern.
+1. Klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Als Vorlage speichern**.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf die Dropdownliste **Ordner** , wählen Sie aus, wo die Vorlage gespeichert werden soll, und klicken Sie auf **Speichern**.
+1. Klicken Sie auf die Dropdownliste **Ordner**, wählen Sie aus, wo die Vorlage live sein soll, und klicken Sie auf **Speichern**.
 
    ![](assets/five-1.png)
 
