@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Nur-API-Benutzer erstellen {#create-an-api-only-user}
+# Erstellen eines Nur-API-Benutzers {#create-an-api-only-user}
 
-Wenn Sie über die [REST-API](http://developers.marketo.com/documentation/rest/)in Marketo integrieren möchten, müssen Sie einen Benutzer erstellen, der nur für die API geeignet ist. So geht es.
+Wenn Sie die Integration mit Marketo über die [REST-API](http://developers.marketo.com/documentation/rest/) durchführen möchten, müssen Sie einen Benutzer erstellen, der nur die API verwendet. So geht es.
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Wenn Sie über die [REST-API](http://developers.marketo.com/documentation/rest/)
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
-1. Klicken Sie auf Neuen Benutzer **einladen**.
+1. Klicken Sie auf **Neuen Benutzer einladen**.
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
@@ -43,7 +43,7 @@ Wenn Sie über die [REST-API](http://developers.marketo.com/documentation/rest/)
    >
    >hinzufügen ein optionaler Grund oder ein Ablaufdatum für den Zugriff. Für kurzfristige Mitarbeiter sind die Termine für den Zugangsablauf praktisch.
 
-1. Wählen Sie die Rolle &quot;Nur **API** &quot;und aktivieren Sie das Kontrollkästchen &quot;Nur **API** &quot;. Klicken Sie auf **Weiter**.
+1. Wählen Sie die Rolle **Nur API** und aktivieren Sie das Kontrollkästchen **Nur API**. Klicken Sie auf **Weiter**.
 
    ![](assets/four.png)
 
