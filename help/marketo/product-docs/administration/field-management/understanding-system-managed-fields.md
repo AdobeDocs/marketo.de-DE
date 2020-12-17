@@ -35,7 +35,7 @@ Möglicherweise haben Sie bemerkt, dass die [Personendaten-Seite](../../../produ
 | Großraum | Marketo&#39;s beste Schätzung (basierend auf IP) der Metropolregion der Person |
 | Abgeleiteter Telefonbereichscode | Marketo&#39;s beste Schätzung (basierend auf IP) des Bereichscodes der Person |
 
-## Mögliche Werte für Original- und Registrierungsquellen-Typ {#possible-values-for-original-and-registration-source-type}
+## Mögliche Werte für Original- und Registrierungsquelle-Typ {#possible-values-for-original-and-registration-source-type}
 
 Unten sind einige mögliche Werte und was sie meinen.
 
