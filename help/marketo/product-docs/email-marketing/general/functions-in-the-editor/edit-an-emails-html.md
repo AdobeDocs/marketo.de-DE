@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# HTML einer E-Mail bearbeiten {#edit-an-emails-html}
+# Bearbeiten von HTML einer E-Mail {#edit-an-emails-html}
 
 Manchmal müssen Sie die zugrunde liegende HTML einer E-Mail ändern. Manchmal kann ein externes System zum Entwerfen und Erstellen des E-Mail-Codes verwendet werden. Sie können Code ganz einfach aus dem E-Mail-Editor importieren und/oder bearbeiten.
 
 ## HTML bearbeiten {#edit-html}
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/teamspidey.jpg)
 
-1. Klicken Sie auf Code **bearbeiten**.
+1. Klicken Sie auf **Code bearbeiten**.
 
    ![](assets/two-4.png)
 
-1. Nehmen Sie alle Änderungen vor. Klicken Sie abschließend auf **Speichern** .
+1. Nehmen Sie alle Änderungen vor. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/three-3.png)
 
@@ -33,17 +33,17 @@ Manchmal müssen Sie die zugrunde liegende HTML einer E-Mail ändern. Manchmal k
    >
    >Ändere, was du willst. Sie können das gesamte HTML ersetzen oder kleinere Anpassungen vornehmen.
 
-1. Klicken Sie auf die Dropdownliste **Code-Aktionen** , um den Code als HTML-Datei herunterzuladen, als CSS-Inline-Datei zu verwenden oder den HTML-Code zu validieren.
+1. Klicken Sie auf die Dropdown-Liste **Code-Aktionen**, um den Code als HTML-Datei herunterzuladen, Ihre CSS zu inline oder die HTML zu validieren.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Die beste Methode für E-Mails ist, alle Stile inline zu gestalten. Mehrere E-Mail-Clients unterstützen kein CSS im `<head>` Abschnitt.
+   >Die beste Methode für E-Mails ist, alle Stile inline zu gestalten. Mehrere E-Mail-Clients unterstützen CSS im Abschnitt `<head>` nicht.
 
-## Aufbrechen einer E-Mail aus der Vorlage {#breaking-an-email-from-its-template}
+## Aufbrechen einer E-Mail aus ihrer Vorlage {#breaking-an-email-from-its-template}
 
-Durch diese Codeänderungen **wird eine E-Mail nicht** aus der Vorlage entfernt:
+Diese Codeänderungen **unterbrechen eine E-Mail nicht aus ihrer Vorlage:**
 
 * Bearbeiten des Inhalts eines Moduls (einschließlich des Hinzufügens neuer Elemente innerhalb des Moduls)
 * Hinzufügen eines neuen Moduls zum Container
@@ -52,7 +52,7 @@ Durch diese Codeänderungen **wird eine E-Mail nicht** aus der Vorlage entfernt:
 * Ändern von kto-spezifischen Attributen (z. B. &quot;mktoName&quot;oder &quot;mktoImgUrl&quot;) eines Elements außerhalb eines Moduls
 * Bearbeiten des Inhalts eines Elements (Rich Text, Bild, Video usw.) außerhalb eines Moduls
 
-Die folgenden Schritte, die Sie im Code-Editor ausführen können, **brechen** die E-Mail aus der Vorlage:
+Die folgenden Schritte können Sie im Code-Editor **durchführen, um die E-Mail aus der Vorlage zu entfernen:**
 
 * Ändern von Elementen im Code außerhalb eines Elements oder Moduls
 * Hinzufügen oder Ändern von Nicht-mkto-Attributen (z. B. &quot;id&quot;oder &quot;style&quot;) eines Elements außerhalb eines Moduls
@@ -62,20 +62,20 @@ Die folgenden Schritte, die Sie im Code-Editor ausführen können, **brechen** d
 
 Verwenden Sie die Funktion &quot;Suchcode&quot;, um Inhalte im HTML-Code Ihrer E-Mail effizient zu finden und zu ersetzen.
 
-1. Klicken Sie im Code Ihrer E-Mail auf **Code** suchen.
+1. Klicken Sie im Code Ihrer E-Mail auf **Suchcode**.
 
    ![](assets/five-2.png)
 
-1. Geben Sie an, was Sie suchen möchten, und klicken Sie auf **Weitersuchen** , um nach vorne zu suchen, oder auf Vorherige **suchen** , um rückwärts zu suchen. Sie haben auch die Option &quot;Alle **ersetzen** &quot;und &quot;Alle **ersetzen&quot;**.
+1. Geben Sie an, was Sie suchen möchten, und klicken Sie auf **Weitersuchen**, um vorwärts zu suchen, oder auf **Vorherige suchen**, um rückwärts zu suchen. Sie haben auch die Option **Ersetzen** und **Alle ersetzen**.
 
    ![](assets/six-1.png)
 
-1. Klicken Sie abschließend auf **Schließen** .
+1. Klicken Sie abschließend auf **Schließen**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Der Suchcode ist auch im Editor für [E-Mail-Vorlagen verfügbar](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
+   >Der Suchcode ist auch im Editor [E-Mail-Vorlage](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template) verfügbar.
 
 Es wird empfohlen, dass Sie Ihre E-Mails weiterhin mit der integrierten Funktionalität von Marketo bearbeiten. Dieser Code-Editor bietet jedoch Flexibilität, wenn Sie ihn benötigen.
