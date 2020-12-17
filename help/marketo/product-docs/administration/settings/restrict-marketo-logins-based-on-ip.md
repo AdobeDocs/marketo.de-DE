@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketings anhand von IP beschränken {#restrict-marketo-logins-based-on-ip}
+# Marketings auf Basis von IP-{#restrict-marketo-logins-based-on-ip} beschränken
 
 Sie können den Zugriff auf Marketo je nach IP-Adressen einschränken oder aktivieren. So geht es.
 
@@ -27,11 +27,11 @@ Sie können den Zugriff auf Marketo je nach IP-Adressen einschränken oder aktiv
 
    ![](assets/image2014-9-16-12-3a57-3a56.png)
 
-1. Klicken Sie auf IP-Beschränkungen **bearbeiten**.
+1. Klicken Sie auf **IP-Beschränkungen bearbeiten**.
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Wählen Sie aus, ob Sie **Zulassen **oder **Blockieren** bestimmter Adressen, geben Sie die Adresse(n) ein und klicken Sie dann auf **Speichern**.
+1. Geben Sie an, ob Sie bestimmte Adressen **Zulassen **oder **Blockieren** blockieren möchten, geben Sie die Adresse(n) ein und klicken Sie dann auf **Speichern**.
 
    >[!NOTE]
    >
