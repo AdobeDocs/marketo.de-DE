@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen von verfolgten Links zu einer Text-E-Mail {#add-tracked-links-to-a-text-email}
+# hinzufügen verfolgte Links zu einer Text-E-Mail {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
