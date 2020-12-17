@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Die Kosten des Zeitraums {#understanding-period-costs}
+# Die Kosten für den Zeitraum {#understanding-period-costs}
 
 ## Übersicht {#overview}
 
@@ -23,7 +23,7 @@ Die Zeitkosten beziehen sich auf das Geld, das Sie in einem bestimmten Monat fü
 >
 >Wenn Sie 1000 $ ausgeben, um einen Illustrator für ein eBook zu mieten, das im Juli gestartet wird, würde das eBook-Programm im Juli Kosten von 1000 $ verursachen.
 >
->Wenn Sie $200 pro Monat für Google Adwords ausgeben, würde das Google Adwords Programm einen Zeitraum von $200 **monatlich** kosten.
+>Wenn Sie $200 pro Monat für Google Adwords ausgeben, hätte das Google Adwords Programm einen Zeitraum von $200 **pro Monat**.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Die Zeitkosten beziehen sich auf das Geld, das Sie in einem bestimmten Monat fü
 >
 >[Informationen zur Programm-Mitgliedschaft](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
-## Berechnung der Zeitkosten {#how-period-costs-are-calculated}
+## Berechnung der Periodenkosten {#how-period-costs-are-calculated}
 
 Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im Januar und Februar werden neue Leute von der Werbung angeworben. Neue Kontakte werden auch nach dem Ereignis erworben, wenn Leute das Webinar in den Monaten April und Mai herunterladen.
 
@@ -41,7 +41,7 @@ Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im
 
    ![](assets/graph1.png)
 
-   ...Die in den Monaten vor und nach hinzugefügten Kontakte werden *erst* bis März gezählt.
+   ...Kontakte, die in den Monaten vor und nach hinzugefügt wurden, zählen *nur* bis März.
 
    ![](assets/graph2.png)
 
@@ -66,7 +66,7 @@ Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im
    >**Erinnerung**
    >
    >
-   >Zusammenfassend - Monate ohne definierten Zeitraum werden die Kosten &quot;rückwärts&quot;auf den letzten definierten Zeitraum zurückgeführt. Wenn keine Kosten für einen vorherigen Zeitraum entstehen, werden die Monate auf den nächsten, der definiert wurde, weitergeleitet. Wenn keine Zeitraumkosten für *irgendwelche* Monate definiert wurden, steht der Berichte in RCE für das Programm nicht zur Verfügung.
+   >Zusammenfassend - Monate ohne definierten Zeitraum werden die Kosten &quot;rückwärts&quot;auf den letzten definierten Zeitraum zurückgeführt. Wenn keine Kosten für einen vorherigen Zeitraum entstehen, werden die Monate auf den nächsten, der definiert wurde, weitergeleitet. Wenn für *beliebige*-Monate keine Periodenkosten definiert wurden, steht der Berichte in RCE für das Programm nicht zur Verfügung.
 
    >[!NOTE]
    >
