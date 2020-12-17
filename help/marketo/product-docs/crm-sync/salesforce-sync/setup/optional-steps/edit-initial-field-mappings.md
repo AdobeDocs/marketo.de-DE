@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Zuordnungen von Anfangsfeldern bearbeiten {#edit-initial-field-mappings}
+# Anfangsfeldzuordnungen bearbeiten {#edit-initial-field-mappings}
 
 >[!NOTE]
 >
 >**Erinnerung**
 >
->Diese Funktion steht erst vor der ersten Synchronisierung mit Salesforce zur Verfügung! Wenn die Schaltfläche Jetzt **synchronisieren** gedrückt wird, kann dies nicht mehr durchgeführt werden.
+>Diese Funktion steht erst vor der ersten Synchronisierung mit Salesforce zur Verfügung! Sobald die Schaltfläche **Jetzt synchronisieren** gedrückt wurde, kann dies nicht mehr durchgeführt werden.
 
 Während der anfänglichen Synchronisierung mit Salesforce kombiniert Marketo automatisch gleichnamige benutzerdefinierte Felder in einem Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten mit Lead- und Kontaktobjekten im CRM ausgetauscht werden können. In diesem Artikel wird beschrieben, wie Sie diese Zuordnungen anpassen.
 
-## Nicht zugeordnete Felder zuordnen {#map-unmapped-fields}
+## Nicht zugeordnete Felder {#map-unmapped-fields} zuordnen
 
 Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bedeutet dies, dass es keinem ähnlichen Feld im Feld &quot;Interessent&quot;oder &quot;Kontakt&quot;in Salesforce zugeordnet ist. Du kannst das reparieren.
 
@@ -29,7 +29,7 @@ Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bede
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Öffnen Sie den Ordner &quot; **Nicht zugeordnete benutzerdefinierte Felder** &quot;.
+1. Öffnen Sie den Ordner **Nicht zugeordnete benutzerdefinierte Felder**.
 
    ![](assets/two.png)
 
@@ -41,7 +41,7 @@ Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bede
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Zuordnungen** beenden, wenn Sie fertig sind.
+1. Klicken Sie auf **Zuordnungen abschließen**, wenn Sie fertig sind.
 
    ![](assets/four.png)
 
@@ -49,23 +49,23 @@ Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bede
 
 Wenn Sie gleichnamige Felder auf dem Interessenten- und Kontaktobjekt haben, werden sie von Marketo automatisch zugeordnet. Sie können davon ausgehen, dass sie unterschiedlich sind und unterschiedliche Daten enthalten. Unterbrechen Sie die Zuordnung so.
 
-1. Klicken Sie auf Zuordnungen **bearbeiten**.
+1. Klicken Sie auf **Zuordnungen bearbeiten**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Markieren Sie ein zugewiesenes Feld und klicken Sie auf **Zuordnung** umbrechen, um die Felder zu trennen.
+1. Markieren Sie ein zugewiesenes Feld und klicken Sie auf **Zuordnung zu Umbrüchen**, um die Felder zu trennen.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Klicken Sie auf **Zuordnungen** beenden, wenn Sie fertig sind.
+1. Klicken Sie auf **Zuordnungen abschließen**, wenn Sie fertig sind.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
    Schön! Sie sind fast mit der anfänglichen Synchronisierung fertig.
 
-## Schema zurücksetzen {#reset-schema}
+## Schema {#reset-schema} zurücksetzen
 
-1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen durch Klicken auf Schema **zurücksetzen** ziehen.
+1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen ziehen, indem Sie auf **Schema zurücksetzen** klicken.
 
    * Alle Zuordnungsänderungen werden zurückgesetzt!
    * Durch Zurücksetzen des Schemas werden nur Felder hinzugefügt, nicht jedoch entfernt (auch wenn Sie sie vom Synchronisierungsbenutzer ausblenden).
