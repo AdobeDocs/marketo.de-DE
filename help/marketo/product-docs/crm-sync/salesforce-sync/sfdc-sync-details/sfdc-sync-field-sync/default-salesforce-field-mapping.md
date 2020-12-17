@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Standardmäßige Zuweisung von Salesforce-Feldern {#default-salesforce-field-mapping}
+# Standardmäßige Salesforce-Feldzuordnung {#default-salesforce-field-mapping}
 
 Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, erstellt Marketo automatisch diese Verknüpfungen zwischen Ihren integrierten Salesforce- und Marketo-Feldern. Marketo synchronisiert auch Ihre benutzerdefinierten Felder auf Ihren Leads, Konten, Chancen und Kontakten.
 
@@ -94,7 +94,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, erstel
 | Kontotyp | SFDC-Typ |
 | Webseite | Webseite |
 
-## Salesforce-bezogene Systemfelder in Marketing (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
+## Salesforce-verwandte Systemfelder in Marketo (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
 
 Diese Felder werden in Marketo erstellt, können aber nicht von Kunden angepasst werden.
 
