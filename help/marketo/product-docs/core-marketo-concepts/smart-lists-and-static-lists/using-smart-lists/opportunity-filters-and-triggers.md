@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Chancen, Filter und Auslöser {#opportunity-filters-and-triggers}
+# Opportunity-Filter und -Auslöser {#opportunity-filters-and-triggers}
 
 Mit Filtern und Auslösern von Chancen können Sie Ereignis von Salesforce nachverfolgen. Sie unterscheiden sich etwas von anderen Filtern und Auslösern.
 
-## Chancen-Filter {#opportunity-filters}
+## Opportunity-Filter {#opportunity-filters}
 
 Mit den Filtern von Gelegenheiten können Sie Ihre Salesforce-Leads, die Chancen haben, näher untersuchen. Sie können sie beim Bearbeiten einer intelligenten Liste im Ordner &quot;Chancen&quot;der Palette finden. Sie kommen in ein paar Geschmacksrichtungen.
 
@@ -27,7 +27,7 @@ Mit den Filtern von Gelegenheiten können Sie Ihre Salesforce-Leads, die Chancen
 * Chancen wurden entfernt
 * Gelegenheit wurde aktualisiert
 
-Wenn Sie nach Ihren Opportunity-Feldern suchen (benutzerdefiniert oder Standard), verwenden Sie den Filter **Hat Gelegenheit** , oder **die Option war`[Added/Removed/Updated]`** Filter oder Auslöser.
+Wenn Sie nach Ihren Opportunity-Feldern suchen (benutzerdefiniert oder Standard), verwenden Sie den Filter **Hat Chancen** oder **Die Gelegenheit war`[Added/Removed/Updated]`** Filter oder Auslöser.
 
 **Anzahl der Optionen, Gesamtanzahl der Optionen, Gesamtsumme der Optionen, Gesamtsumme des erwarteten Umsatzes**
 
@@ -37,19 +37,19 @@ Mit diesen Filtern können Sie Interessenten auf Basis der Gesamtanzahl, des Bet
 
 **Hat Chancen, wurde zu Chancen hinzugefügt, wurde aus der Gelegenheit entfernt**
 
-Wenn Sie nach Interessenten suchen, die Möglichkeiten auf der Grundlage einer Kombination von Kriterien haben, verwenden Sie den Filter **Hat Gelegenheit**, **wurde zu Gelegenheit** hinzugefügt oder **wurde aus dem Filter Chancen** entfernt. Sie sagen Ihnen:
+Wenn Sie nach Interessenten suchen, die Möglichkeiten auf der Grundlage einer Kombination von Kriterien haben, verwenden Sie den Filter **Hat Gelegenheit**, **Wurde zu Opportunity** hinzugefügt oder **Wurde aus Opportunity** entfernt. Sie sagen Ihnen:
 
 * **Hat Gelegenheit**: Wenn dieser Interessent derzeit eine passende Gelegenheit hat
 * **Der Möglichkeit** wurde hinzugefügt: Wenn dieser Interessent jemals einer passenden Gelegenheit hinzugefügt wurde
 * **Aus der Gelegenheit** entfernt: Wenn dieser Interessent jemals aus einer passenden Gelegenheit entfernt wurde
 
-hinzufügen die Suchkriterien als **Einschränkungen** für den Filter. Zu den Einschränkungen gehören Ihre Standard- und benutzerdefinierten Felder für Möglichkeiten:
+hinzufügen Sie die Suchkriterien im Filter mit **Beschränkungen**. Zu den Einschränkungen gehören Ihre Standard- und benutzerdefinierten Felder für Möglichkeiten:
 
 ![](assets/image2015-6-11-12-3a31-3a0.png)
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Nehmen wir beispielsweise an, Sie möchten Interessenten finden, die eine offene Chance von mindestens 5.000 Dollar haben. Ziehen Sie in den Filter **Hat Gelegenheit** und verwenden Sie die **Beschränkungen** Ist geschlossen **und** Betrag:
+Nehmen wir beispielsweise an, Sie möchten Interessenten finden, die eine offene Chance von mindestens 5.000 Dollar haben. Ziehen Sie den Filter **Hat Gelegenheit** und verwenden Sie die Einschränkungen **Ist geschlossen** und **Betrag**:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -65,7 +65,7 @@ Dieser Filter zeigt beispielsweise alle Interessenten an, deren Datumsangabe in 
 
 ![](assets/image2015-6-11-12-3a33-3a7.png)
 
-## Auslöser für Chancen {#opportunity-triggers}
+## Opportunity Triggers {#opportunity-triggers}
 
 Die folgenden Gelegenheitsauslöser stehen zur Verfügung. Sie funktionieren genau wie die entsprechenden Filter (siehe Beschreibung weiter oben), allerdings können sie Kampagnen direkt auslösen, wenn das Ereignis eintritt:
 
@@ -77,7 +77,7 @@ Beispielsweise können Sie diese intelligente Liste verwenden, um auszulösen, w
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Um Ihre Gelegenheit für benutzerdefinierte Felder auszulösen, verwenden Sie den Auslöser **Gelegenheit wurde aktualisiert** und wählen Sie das Feld im Pulldown aus:
+Wenn Sie Ihre Gelegenheit für benutzerdefinierte Felder auslösen möchten, verwenden Sie den Auslöser **Gelegenheit wurde aktualisiert** und wählen Sie das Feld im Pulldown aus:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
 
