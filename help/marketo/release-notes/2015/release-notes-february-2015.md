@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2015 enthalten. Überpr
 
 ## Verbesserungen der Marketing-Automatisierung {#marketing-automation-enhancements}
 
-** [Intelligente Kampagne](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)verschieben**
+** [Intelligente Kampagne verschieben](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 Freut euch! Jetzt können Sie intelligente Kampagnen per Drag &amp; Drop oder mit der Funktion Verschieben in der Struktur in Programme verschieben.
 
@@ -31,9 +31,9 @@ und ersetzt derzeit verwendete Sicherheitsprotokolle (SHA-1 und SSL) durch siche
 
 `·` [marketo.net](http://marketo.net) (verschlüsselter Munchkin-Traffic)
 
-`·` [marketo.com](http://marketo.com) (SaaS-Hauptanwendungen)
+`·` [marketo.com](http://marketo.com) (Hauptanwendungen von SaaS)
 
-Dies wird kurz nach dieser Version passieren. Das SHA-1-Protokoll wird bis Dezember 2015 auf der Domäne [mktoapi.com](http://mktoapi.com) vorübergehend unterstützt, damit Eigentümer von älteren Systemen und Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
+Dies wird kurz nach dieser Version passieren. Das SHA-1-Protokoll wird bis Dezember 2015 unter der Domäne [mktoapi.com](http://mktoapi.com) vorübergehend unterstützt, damit Eigentümer von älteren Systemen und Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
 
 **Sicherer Munchkin**
 
@@ -47,6 +47,6 @@ Wählen Sie die Seiten aus, auf denen Ihre Echtzeit-Kampagne angezeigt werden so
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [Land und Bundesland zum kontobasierten Targeting](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)hinzugefügt**
+** [Land und Bundesland zum kontobasierten Targeting hinzugefügt](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
 
 Land und Bundesland können jetzt zu Ihren Listen mit Ihrem benannten Konto hinzugefügt werden. Zielgruppe wichtiger Konto-Potenzieller Kunde von bestimmten Orten.
