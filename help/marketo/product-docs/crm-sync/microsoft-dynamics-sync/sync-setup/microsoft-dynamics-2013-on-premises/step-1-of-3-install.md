@@ -21,9 +21,9 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
 >[!PREREQUISITES]
 >
->Sie müssen über eine [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) mit [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 oder 3.0 (ADFS) verfügen. Hinweis: Das IFD-Dokument wird automatisch heruntergeladen, wenn Sie auf den Link klicken.
+>Sie müssen [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) mit [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 oder 3.0 (ADFS) konfiguriert haben. Hinweis: Das IFD-Dokument wird automatisch heruntergeladen, wenn Sie auf den Link klicken.
 >
->[Laden Sie die Marketing-Lösung](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) vor dem Beginn herunter.
+>[Laden Sie die Marketing ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solution vor dem Beginn herunter.
 
 >[!NOTE]
 >
@@ -35,19 +35,19 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Wählen Sie unter **EINSTELLUNGEN****LÖSUNGEN**.
+1. Wählen Sie unter **EINSTELLUNGEN** **LÖSUNGEN**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
-1. Klicken Sie auf **Importieren**.
+1. Klicken Sie auf **Import**.
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Klicken Sie auf **Durchsuchen** und wählen Sie die [heruntergeladene Lösung](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)aus. Klicken Sie auf **Weiter**.
+1. Klicken Sie auf **Durchsuchen** und wählen Sie die [heruntergeladene Lösung](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) aus. Klicken Sie auf **Weiter**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. Ansicht der Lösungsinformationen und klicken Sie auf Details zum **Ansicht-Lösungspaket**.
+1. Ansicht Sie die Lösungsinformationen und klicken Sie auf **Ansicht Solution Package details**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -59,7 +59,7 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. Stellen Sie sicher, dass die Option SDK aktiviert ist. Klicken Sie auf **Importieren**.
+1. Stellen Sie sicher, dass die Option SDK aktiviert ist. Klicken Sie auf **Import**.
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 
@@ -79,11 +79,11 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. Die Marketing-Interessentenverwaltung wird jetzt auf der Seite **Alle Lösungen** angezeigt.
+1. Die Marketing-Interessentenverwaltung wird nun auf der Seite **Alle Lösungen** angezeigt.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Wählen Sie die Marketing-Lösung aus und klicken Sie auf Alle Anpassungen **veröffentlichen**.
+1. Wählen Sie die Marketing-Lösung aus und klicken Sie auf **Alle Anpassungen veröffentlichen**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
