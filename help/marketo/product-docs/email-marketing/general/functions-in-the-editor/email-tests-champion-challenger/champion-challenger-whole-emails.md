@@ -23,7 +23,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
 
 
 
-1. Wählen Sie im E-Mail-Testeditor im Dropdown-Menü **Testtyp **die Option **Ganze E-Mails** .
+1. Wählen Sie im Editor für E-Mail-Tests im Dropdown-Menü **Testtyp **die Option **Ganze E-Mails**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -31,7 +31,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
    >
    >Denken Sie daran: Die ursprüngliche E-Mail ist der Meister. Die Herausforderer konkurrieren dagegen.
 
-1. Suchen Sie die E-Mail- **Mail-Adressen** der Teilnehmer und klicken Sie auf **Klonen**.
+1. Suchen Sie die E-Mail(s) **Challengers** und klicken Sie dann auf **Klonen**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -50,7 +50,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
    >
    >In der oben gezeigten Distribution erhalten 15 % der in der Smart-Liste angegebenen Audience eine der herausfordernden E-Mails und 85 % erhalten die Champion-E-Mail. Mehrere herausfordernde E-Mails teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval)als je zuvor.
+   [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
 
 1. Klicken Sie auf **Weiter**.
 
