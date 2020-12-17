@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# MarketingToSync-Benutzer zu einem Marketing-Benutzer machen {#make-marketo-sync-user-a-marketing-user}
+# Marketo-Synchronisierungsbenutzer zu einem Marketing-Benutzer machen {#make-marketo-sync-user-a-marketing-user}
 
-Der [Synchronisierungsbenutzer](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) muss Marketing-Benutzer sein, damit die Salesforce-Kampagne-Synchronisierung ordnungsgemäß funktioniert. Im Folgenden wird beschrieben, wie Sie den Benutzer in Salesforce zu einem Marketing-Benutzer machen.
+Der [Marketo-Synchronisierungsbenutzer](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) muss ein Marketingbenutzer sein, damit die Salesforce-Kampagne-Synchronisierung ordnungsgemäß funktioniert. Im Folgenden wird beschrieben, wie Sie den Benutzer in Salesforce zu einem Marketing-Benutzer machen.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Melden Sie sich bei Salesforce an. Suchen Sie in der linken Suchleiste nach Benutzern und klicken Sie unter **Benutzer** **verwalten** auf Benutzer.
+1. Melden Sie sich bei Salesforce an. Suchen Sie in der linken Suchleiste nach Benutzern und klicken Sie auf **Benutzer** unter **Verwalten von Benutzern**.
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 
