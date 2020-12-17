@@ -39,7 +39,7 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klicken Sie in **Schritt 1 auf** Bearbeiten **: Geben Sie Anmeldeinformationen ein.**
+1. Klicken Sie in **Schritt 1 auf** Bearbeiten **: Anmeldeinformationen eingeben.**
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -47,23 +47,23 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
    >
    >Vergewissern Sie sich bitte, dass Ihre Anmeldeinformationen korrekt sind, da wir die nachfolgenden Änderungen des Schemas nach der Übermittlung nicht wiederherstellen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketing-Abonnement erhalten.
 
-1. Geben Sie den **Benutzernamen**, das **Kennwort** und die CRM- **URL** ein und klicken Sie auf **Speichern**.
+1. Geben Sie **Benutzername**, **Kennwort** und CRM **URL** ein und klicken Sie dann auf **Speichern**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot; [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) DOMÄNE\Benutzer&quot;lauten.
+   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;[`[email protected]`&quot;oder &quot;](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd)&quot;oder &quot;DOMAIN\user&quot;lauten.
 
    >[!TIP]
    >
-   >Kennst du die URL nicht? Wir zeigen Ihnen, wie Sie die [Dynamics Organisation Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) finden.
+   >Kennst du die URL nicht? Wir zeigen Ihnen, wie Sie die [Dynamics Organisationsdienst-URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier finden.
 
-## Zu synchronisierende Felder auswählen {#select-fields-to-sync}
+## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
 
 Jetzt müssen wir die Felder auswählen, über die wir synchronisieren möchten.
 
-1. Klicken Sie auf **Bearbeiten** in **Schritt 2: Wählen Sie zu synchronisierende Felder aus.**
+1. Klicken Sie auf **Bearbeiten** in **Schritt 2: Zu synchronisierende Felder auswählen.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -79,7 +79,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten** .
+1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten**.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -97,7 +97,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
    >
    >Marketo wird nicht automatisch deduplizieren gegen eine Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben Personen oder Interessenten.
 
-1. Lesen Sie alles im Popup, geben Sie Ihre E-Mail ein und klicken Sie auf **Beginn-Synchronisierung**.
+1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail ein und klicken Sie auf **Beginn-Synchronisierung**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
