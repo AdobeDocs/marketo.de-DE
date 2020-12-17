@@ -23,7 +23,7 @@ Wenn Sie einen Filter im Marketingkalender löschen möchten, sind Sie am richti
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie zur Bestätigung auf **Löschen**.
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)
 
