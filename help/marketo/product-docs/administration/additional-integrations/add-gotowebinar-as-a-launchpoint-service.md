@@ -33,7 +33,7 @@ Marketo verwaltet Ihre GoToWebinar-Registrierung und -Teilnahme.
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Wählen Sie **Neuer** und **neuer Dienst**.
+1. Wählen Sie **Neu** und **Neuer Dienst**.
 
    ![](assets/new-service-gotowebinar.png)
 
@@ -47,9 +47,9 @@ Marketo verwaltet Ihre GoToWebinar-Registrierung und -Teilnahme.
 
    >[!NOTE]
    >
-   >Wenn Sie den Namen der Firma und den Auftragstitel aus Ihrem MarketingTo-Formular mit dem GoToWebinar synchronisieren möchten, aktivieren Sie das Feld &quot;Zusätzliche Felder **aktivieren&quot;** .
+   >Wenn Sie den Namen der Firma und den Auftragstitel aus Ihrem MarketingTo-Formular mit dem GoToWebinar synchronisieren möchten, wählen Sie das Feld **Zusätzliche Felder aktivieren**.
 
-1. Geben Sie im Popup-Fenster &quot;GoToWebinar-Anmeldung&quot;Ihre **GoToWebinar** -E-Mail-Adresse und Ihr Kennwort ein und klicken Sie auf **Anmelden**.
+1. Geben Sie im Popupfenster &quot;GoToWebinar-Anmeldung&quot;Ihre **GoToWebinar**-E-Mail und Ihr -Kennwort ein und klicken Sie auf **Anmelden**.
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
@@ -57,7 +57,7 @@ Marketo verwaltet Ihre GoToWebinar-Registrierung und -Teilnahme.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. Großartig! Ihr **GoToWebinar** -Konto wird jetzt mit Marketo synchronisiert.
+1. Großartig! Ihr **GoToWebinar**-Konto wird jetzt mit Marketo synchronisiert.
 
    ![](assets/goto-webinar.png)
 
@@ -67,5 +67,5 @@ Marketo verwaltet Ihre GoToWebinar-Registrierung und -Teilnahme.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie mit GotoWebinar ein Ereignis [erstellen](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
+>Erfahren Sie, wie Sie ein Ereignis mit GotoWebinar[ erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
 
