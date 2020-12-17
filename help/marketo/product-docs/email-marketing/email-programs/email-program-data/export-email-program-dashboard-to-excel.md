@@ -40,5 +40,5 @@ Nachdem Sie ein E-Mail-Programm ausgeführt und Daten im Dashboard gespeichert h
 >
 >**Tieftauchen**
 >
->Möchten Sie mehr über [E-Mail-Programm](http://docs.marketo.com/display/docs/email+programs)erfahren?
+>Möchten Sie mehr über [E-Mail-Programm](http://docs.marketo.com/display/docs/email+programs) erfahren?
 
