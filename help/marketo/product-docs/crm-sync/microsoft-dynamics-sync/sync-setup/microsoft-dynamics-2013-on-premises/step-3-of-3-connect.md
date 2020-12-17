@@ -50,23 +50,23 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
    >
    >Vergewissern Sie sich bitte, dass Ihre Anmeldeinformationen korrekt sind, da wir die nachfolgenden Änderungen des Schemas nach der Übermittlung nicht wiederherstellen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketing-Abonnement erhalten.
 
-1. Geben Sie den **Benutzernamen**, das **Kennwort** und die Microsoft Dynamics **URL** ein und klicken Sie dann auf **SPEICHERN**.
+1. Geben Sie **Benutzername**, **Kennwort** und Microsoft Dynamics **URL** ein und klicken Sie dann auf **Speichern**.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot; [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e) DOMÄNE\Benutzer&quot;lauten.
+   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;[`[email protected]`&quot;oder &quot;](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e)&quot;oder &quot;DOMAIN\user&quot;lauten.
 
    >[!TIP]
    >
-   >Kennst du die URL nicht? Wir zeigen Ihnen, wie Sie die [Dynamics Organisation Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) finden.
+   >Kennst du die URL nicht? Wir zeigen Ihnen, wie Sie die [Dynamics Organisationsdienst-URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier finden.
 
-## Zu synchronisierende Felder auswählen {#select-fields-to-sync}
+## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
 
 Jetzt müssen wir die Felder auswählen, über die wir synchronisieren möchten.
 
-1. Klicken Sie auf **BEARBEITEN **in **Schritt 2: Wählen Sie zu synchronisierende** Felder aus.
+1. Klicken Sie auf **BEARBEITEN **in **Schritt 2: Wählen Sie die zu synchronisierenden Felder aus.**
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -82,7 +82,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten** .
+1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten**.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
