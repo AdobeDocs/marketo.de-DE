@@ -20,7 +20,7 @@ Stream-Inhalte sind standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie 
 
    ![Bild eins](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild zwei](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -38,7 +38,7 @@ Stream-Inhalte sind standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie 
 
 >[!TIP]
 >
->Sie können auch alle Inhalte in einem Stream aktivieren, indem Sie auf das Zahnradsymbol oben klicken und &quot;Alle **[!UICONTROL aktivieren&quot;auswählen]**.
+>Sie können auch den gesamten Inhalt eines Streams aktivieren, indem Sie auf das Zahnradsymbol oben klicken und **[!UICONTROL Alle aktivieren]** wählen.
 
 ## Stream-Inhalte deaktivieren
 
@@ -46,7 +46,7 @@ Stream-Inhalte sind standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie 
 
    ![Bild fünf](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]** .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![Bild sechs](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
