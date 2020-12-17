@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# HTML einer E-Mail herunterladen {#download-an-emails-html}
+# HTML {#download-an-emails-html} einer E-Mail herunterladen
 
 Für Backups und andere Zwecke können Sie mit Marketo den HTML-Inhalt einer E-Mail herunterladen.
 
-1. Suchen Sie die E-Mail und wählen Sie sie aus. Klicken Sie im Dropdownmenü **E-Mail-Aktionen** auf HTML **herunterladen**.
+1. Suchen Sie die E-Mail und wählen Sie sie aus. Klicken Sie in der Dropdownliste **E-Mail-Aktionen** auf **HTML** herunterladen.
 
    ![](assets/one-4.png)
 
