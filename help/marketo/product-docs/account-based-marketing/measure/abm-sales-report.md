@@ -17,7 +17,7 @@ Erhalten Sie eine wöchentliche E-Mail mit Ihren Top-Konten und deren wöchentli
 
 >[!NOTE]
 >
->Erfahren Sie, wie Sie diesen Bericht [hier](https://docs.marketo.com/x/drat)einrichten.
+>Erfahren Sie, wie Sie diesen Bericht [hier](https://docs.marketo.com/x/drat) einrichten.
 
 Der Bericht teilt:
 
@@ -28,7 +28,7 @@ Der Bericht teilt:
 
 ![](assets/one-4.png)
 
-## Vertriebsberichtsschlüssel {#sales-report-key}
+## Verkaufsberichtschlüssel {#sales-report-key}
 
 | **Kontobewertung** | Wöchentlicher Trend nach Kontostand (in Setup ausgewählt), gefolgt von der Punktzahl des aktuellen Kontos |
 |---|---|
