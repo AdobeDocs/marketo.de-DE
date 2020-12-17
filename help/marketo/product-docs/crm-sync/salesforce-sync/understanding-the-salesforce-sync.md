@@ -40,9 +40,9 @@ Die Synchronisierung zwischen Salesforce und Marketo erfolgt bidirektional nur f
 
 >[!NOTE]
 >
->Die [Anmeldeinformationen, die Sie in Marketo für Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) eingeben, werden zum Synchronisieren der Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
+>Die [Anmeldedaten, die Sie in Marketo für Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) eingeben, werden zum Synchronisieren der Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
 
-Es gibt viele Nuancen und Funktionen zur Salesforce-Synchronisierung. Sehen Sie sich die Details im Abschnitt [SFDC-Synchronisierungsdetails](http://docs.marketo.com/display/docs/sfdc+sync+details)an.
+Es gibt viele Nuancen und Funktionen zur Salesforce-Synchronisierung. Sehen Sie sich die Details im Abschnitt [SFDC-Synchronisierungsdetails](http://docs.marketo.com/display/docs/sfdc+sync+details) an.
 
 >[!MORELIKETHIS]
 >
