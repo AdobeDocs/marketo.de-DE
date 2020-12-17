@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Warnung an den Vertriebsmitarbeiter {#alert-the-sales-rep}
+# Warnung des Vertriebsmitarbeiters {#alert-the-sales-rep}
 
-## Auftrag: Warnung des Vertriebsmitarbeiters, wenn eine Person ein Formular auf Ihrer Website ausfüllt {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## Auftrag: Warnung des Vertriebsmitarbeiters, wenn eine Person ein Formular auf Ihrer Website ausfüllt{#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
 Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie lediglich eine Warn-E-Mail und eine E-Mail-Kampagne. Hier ist, wie man das macht.
 
@@ -21,13 +21,13 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 >
 >[Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-## Schritt 1: Warnungs-E-Mail erstellen {#step-create-an-alert-email}
+## Schritt 1: Warnungs-E-Mail {#step-create-an-alert-email} erstellen
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/one-5.png)
 
-1. Wählen Sie **Mein Programm** , das Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) erstellt haben, schnell gewinnen und klicken Sie dann unter **Neu** auf **Neues lokales Asset**.
+1. Wählen Sie **Mein Programm**, das Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win erstellt haben, und klicken Sie dann unter **Neu** auf **Neues lokales Element**.
 
    ![](assets/two-6.png)
 
@@ -35,11 +35,11 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/three-5.png)
 
-1. **Benennen** Sie die E-Mail mit &quot;Meine E-Mail-Warnung&quot;, wählen Sie eine Vorlage und klicken Sie auf **Erstellen**.
+1. **Benennen Sie** die E-Mail &quot;Meine E-Mail-Warnung&quot;, wählen Sie eine Vorlage und klicken Sie auf  **Erstellen**.
 
    ![](assets/four-4.png)
 
-1. Geben Sie die **Formulardamen**, **Von E-Mail**, **Antwort auf** und **Betreff** ein, die Ihr Vertriebsteam sehen soll.
+1. Geben Sie die **Aus Name**, **Aus E-Mail**, **Antwort auf** und **Betreff** ein, die Ihr Verkaufsteam sehen soll.
 
    ![](assets/five-5.png)
 
@@ -51,17 +51,17 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/seven-6.png)
 
-1. Platzieren Sie den Cursor an der Stelle, an der Sie die Kontaktinformationen der Person einfügen möchten, und klicken Sie auf das Symbol &quot;Token **einfügen&quot;** .
+1. Platzieren Sie den Cursor an der Stelle, an der Sie die Kontaktinformationen der Person einfügen möchten, und klicken Sie auf das Symbol **Token einfügen**.
 
    ![](assets/eight-4.png)
 
-1. Suchen Sie nach dem `{{SP_Send_Alert_Info}}` Token **, wählen Sie es aus und klicken Sie auf** Einfügen ****.
+1. Suchen Sie nach dem `{{SP_Send_Alert_Info}}` **Token** und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warn-E-Mails. Weitere Informationen finden Sie unter [Verwenden des Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) für Warnhinweise senden.
+   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warn-E-Mails. Weitere Informationen finden Sie unter [Verwenden Sie das Token für Warnhinweisinformationen senden](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md).
 
 1. Klicken Sie auf **Speichern**.
 
@@ -75,17 +75,17 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/twelve-4.png)
 
-## Schritt 2: Warnauslöser-Kampagne erstellen {#step-create-an-alert-trigger-campaign}
+## Schritt 2: Warnauslöser-Kampagne {#step-create-an-alert-trigger-campaign} erstellen
 
-1. Wählen Sie **Mein Programm** , das zuvor erstellt wurde, und klicken Sie dann unter **Neu** auf **Neue Smart-Kampagne**.
+1. Wählen Sie **Mein Programm**, das zuvor erstellt wurde, und klicken Sie dann unter **Neu** auf **Neue Smart-Kampagne**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **Benennen** Sie die Kampagne &quot;Meine Kampagne für Warnung&quot;und klicken Sie auf **Erstellen**.
+1. **Benennen Sie** die Kampagne &quot;Meine Kampagne für Warnung&quot;und klicken Sie auf  **Erstellen**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Suchen Sie auf der Registerkarte &quot; **Intelligente Liste** &quot;den Auslöser &quot;Formular **ausfüllen** &quot;und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen Sie unter der Registerkarte **Intelligente Liste** den Auslöser **Ausfüllen des Formulars** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,11 +93,11 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Suchen Sie auf der Registerkarte &quot; **Fluss** &quot;nach der Aktion &quot; **Warnung** senden&quot;und ziehen Sie sie auf die Arbeitsfläche.
+1. Suchen Sie unter der Registerkarte **Fluss** die Fließaktion **Warnung senden** und ziehen Sie sie auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Wählen Sie **Meine Warnhinweis-E-Mail** , die zuvor erstellt wurde, und lassen Sie &quot; **Senden an** &quot;als **Vertriebsmitarbeiter**.
+1. Wählen Sie **Meine Benachrichtigungs-E-Mail**, die zuvor erstellt wurde, und lassen Sie **Senden an** als **Sales Owner** stehen.
 
    ![](assets/eighteen-1.png)
 
@@ -105,21 +105,21 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/nineteen-2.png)
 
-1. Gehen Sie zur Registerkarte **Plan** und klicken Sie auf die Schaltfläche **Aktivieren** .
+1. Wechseln Sie zur Registerkarte **Plan** und klicken Sie auf die Schaltfläche **Aktivieren**.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Legen Sie die **Qualifikationsregeln** auf **jedes Mal** fest (durch Bearbeiten der intelligenten Kampagne), damit dieselbe Person Warnhinweise mehrmals auslösen kann.
+   >Stellen Sie die **Qualifizierungsregeln** auf **jedes Mal** ein (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person Warnhinweise mehrmals auslösen kann.
 
-1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren** .
+1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren**.
 
    ![](assets/twenty-one-1.png)
 
 ## Schritt 3: Testen Sie es! {#step-test-it-out}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf &quot; **Ansicht genehmigt&quot;**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Ansicht Genehmigte Seite**.
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
@@ -135,7 +135,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    >[!NOTE]
    >
-   >Klicken Sie auf die Registerkarte **Personeninfo** in Marketo, um die Kontaktinformationen anzuzeigen.
+   >Klicken Sie auf die Registerkarte **Personeninfo** in Marketing, um die Kontaktinformationen anzuzeigen.
 
 ## Auftrag abgeschlossen! {#mission-complete}
 
