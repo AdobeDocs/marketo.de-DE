@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync: Benutzerdefinierte Entitätssynchronisierung {#microsoft-dynamics-sync-custom-entity-sync}
+# Microsoft Dynamics Sync: Benutzerdefinierte Entitäts-Synchronisierung {#microsoft-dynamics-sync-custom-entity-sync}
 
 Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktivieren müssen, um Daten aus Dynamics in Marketo verfügbar zu machen, hier erfahren Sie, wie Sie das machen.
 
@@ -21,7 +21,7 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
 >[!PREREQUISITES]
 >
->Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [Interessenten](microsoft-dynamics-sync-lead-sync.md), [Kontakt](microsoft-dynamics-sync-contact-sync.md)oder [](microsoft-dynamics-sync-account-sync.md)Konto in Dynamics verknüpft sein.
+>Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [lead](microsoft-dynamics-sync-lead-sync.md)-, [contact](microsoft-dynamics-sync-contact-sync.md)- oder [account](microsoft-dynamics-sync-account-sync.md)-Objekt in Dynamics verknüpft sein.
 
 >[!CAUTION]
 >
@@ -31,7 +31,7 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Klicken Sie auf Synchronisierung **deaktivieren** , um die standardmäßige globale Synchronisierung vorübergehend zu deaktivieren.
+1. Klicken Sie auf **Synchronisierung deaktivieren**, um die standardmäßige globale Synchronisierung vorübergehend zu deaktivieren.
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
@@ -41,11 +41,11 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Klicken Sie auf den Link **Schema** synchronisieren, um die Liste der verfügbaren benutzerdefinierten Entitäten zu übernehmen.
+1. Klicken Sie auf den Link **Schema synchronisieren**, um die Liste der verfügbaren benutzerdefinierten Entitäten zu übernehmen.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Wählen Sie nach der Synchronisierung der Liste die zu synchronisierenden und die zu verwendenden Felder als [Beschränkungen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Auslöser in intelligenten Listen aus. Klicken Sie abschließend auf **Synchronisierung** aktivieren.
+1. Wählen Sie nach der Synchronisierung der Liste die zu synchronisierenden und die zu verwendenden Felder [constraints](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Auslöser in intelligenten Listen aus. Klicken Sie abschließend auf **Synchronisierung aktivieren**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
