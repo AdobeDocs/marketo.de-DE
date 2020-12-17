@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen an die SFDC-Kampagne {#add-to-sfdc-campaign}
+# hinzufügen zu SFDC-Kampagne {#add-to-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Dieser Flussschritt kann in Marketo-Kampagnen oder als einzelner Flussschritt ve
 
 ![](assets/image2014-9-22-15-3a43-3a36.png)
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
 1. Suchen und wählen Sie die Salesforce-Kampagne aus, der Sie Ihre Interessenten hinzufügen möchten.
 
@@ -35,13 +35,13 @@ Dieser Flussschritt kann in Marketo-Kampagnen oder als einzelner Flussschritt ve
    >
    >    
    >    
-   >    1. Stellen Sie sicher, dass die Synchronisierung der [Kampagne aktiviert](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)ist.
-   >    1. Vergewissern Sie sich, dass Ihr [MarketingTo-Sync-Benutzer](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ein [Marketing-Benutzer](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce ist.
+   >    1. Vergewissern Sie sich, dass [Kampagne-Synchronisierung aktiviert ist](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >    1. Vergewissern Sie sich, dass der [Markieren Sie den Benutzer ](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) in Salesforce [ein ](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)Marketing-Benutzer&lt;a3/> ist.
 
 
    >[!TIP]
    >
-   >Sie können Salesforce Kampagne [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) verwenden, um das Klonen von Programmen zu erleichtern.
+   >Sie können die Salesforce-Kampagne [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) verwenden, um das Klonen von Programmen zu vereinfachen.
 
 1. Wählen Sie den Salesforce-Mitgliedsstatus aus, den Sie Interessenten zuweisen möchten, wenn sie hinzugefügt werden.
 
@@ -49,5 +49,5 @@ Dieser Flussschritt kann in Marketo-Kampagnen oder als einzelner Flussschritt ve
 
    >[!CAUTION]
    >
-   >Wenn eine Person bereits ein Interessentenmitglied der Salesforce-Kampagne ist, wird sie übersprungen und ihr Status wird NICHT aktualisiert. Sie können ihren Status in einer SFDC-Kampagne [](change-status-in-sfdc-campaign.md) ändern.
+   >Wenn eine Person bereits ein Interessentenmitglied der Salesforce-Kampagne ist, wird sie übersprungen und ihr Status wird NICHT aktualisiert. Sie können stattdessen [ihren Status in einer SFDC-Kampagne](change-status-in-sfdc-campaign.md) ändern.
 
