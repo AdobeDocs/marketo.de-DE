@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kampagnen: Löschen einer intelligenten Kampagne {#campaign-actions-delete-a-smart-campaign}
+# Kampagnen: Löschen einer Smart-Kampagne {#campaign-actions-delete-a-smart-campaign}
 
 Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, können Sie sie löschen. So geht es.
 
@@ -19,7 +19,7 @@ Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, k
 >
 >Vergewissern Sie sich vor dem Löschen. Wenn Sie eine intelligente Kampagne löschen, kann sie nicht mehr wiederhergestellt werden.
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,16 +27,16 @@ Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, k
 
    >[!TIP]
    >
-   >Um die Verarbeitung einer aktiven intelligenten Kampagne zu beenden, ohne sie ganz zu löschen, erfahren Sie, wie Sie eine intelligente Kampagne [abbrechen](abort-a-smart-campaign.md).
+   >Um die Verarbeitung einer aktiven intelligenten Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie, wie Sie eine intelligente Kampagne [abbrechen.](abort-a-smart-campaign.md)
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie zur Bestätigung auf **Löschen**.
 
    ![](assets/image2014-9-22-16-3a41-3a59.png)
 
    >[!CAUTION]
    >
-   >Löschen Sie **NICHT** eine aktive intelligente Kampagne mit Personen in den Flussschritten. Die Kampagne wird wahrscheinlich noch ausgeführt.
+   >Löschen Sie **NOT** eine aktive intelligente Kampagne mit Personen in den Flussschritten. Die Kampagne wird wahrscheinlich noch ausgeführt.
 
 Schön!
