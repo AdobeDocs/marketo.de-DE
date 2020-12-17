@@ -31,7 +31,7 @@ Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und si
 
    ![](assets/two.png)
 
-1. Klicken Sie in **Tools** auf **Vorgänge** und wählen Sie **Web-Konsole**.
+1. Klicken Sie unter **Tools** auf **Vorgänge** und wählen Sie **Webkonsole**.
 
    ![](assets/2a.png)
 
@@ -39,23 +39,23 @@ Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und si
 
    ![](assets/three.png)
 
-1. Klicken Sie rechts auf das **+** -Zeichen.
+1. Klicken Sie auf das Symbol **+** rechts.
 
    ![](assets/four.png)
 
-1. Geben Sie in das Textfeld &quot; **Zulässige Herkünfte (Regexp)** &quot;https:// ein.*\.marketo\.com&quot; (ohne Anführungszeichen) und klicken Sie auf **Speichern**.
+1. Geben Sie in das Textfeld **Zulässige Herkünfte (Regexp)** &quot;https://&quot;ein.*\.marketo\.com&quot; (ohne Anführungszeichen) und klicken Sie auf **Speichern**.
 
    ![](assets/five-psd.png)
 
-1. Klicken Sie in der Kopfzeile oben auf der Seite auf **Web-Konsole** und wählen Sie **Systeminformationen**.
+1. Klicken Sie in der Kopfzeile oben auf der Seite auf **Webkonsole** und wählen Sie **Systeminformationen**.
 
    ![](assets/six.png)
 
-1. Klicken Sie unter &quot;Serverinformationen&quot;auf die Schaltfläche **Neu starten** .
+1. Klicken Sie unter &quot;Serverinformationen&quot;auf die Schaltfläche **Neustart**.
 
    ![](assets/seven.png)
 
-1. Klicken Sie zur Bestätigung auf **OK** .
+1. Klicken Sie zur Bestätigung auf **OK**.
 
    ![](assets/eight.png)
 
@@ -63,7 +63,7 @@ Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und si
 
    ![](assets/nine.png)
 
-1. Wählen Sie unter Integration die Option **Adobe Experience Manager**.
+1. Wählen Sie unter Integration **Adobe Experience Manager**.
 
    ![](assets/ten.png)
 
@@ -75,5 +75,5 @@ Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und si
 
    ![](assets/twelve.png)
 
-   Du bist alle fertig! Sie können jetzt AEM Assets in das Design Studio in Marketo Sky [](http://help.marketo.com/hc/en-us/articles/360036765993)importieren.
+   Du bist alle fertig! Sie können jetzt [AEM Assets in das Design Studio in Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993) importieren.
 
