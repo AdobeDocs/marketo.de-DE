@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen Programm-Statusspalten zu einem Programm-Bericht {#add-program-status-columns-to-a-program-report}
 
-hinzufügen Statistiken zum Programm-Status für Ihren [Programm-Leistungsbericht](create-a-program-performance-report.md).
+hinzufügen Statistik zum Programm-Status Ihres [Programm-Leistungsberichts](create-a-program-performance-report.md).
 
 1. Gehen Sie zu Marketing-Aktivitäten (oder Analytics).
 
@@ -33,7 +33,7 @@ hinzufügen Statistiken zum Programm-Status für Ihren [Programm-Leistungsberich
 
    >[!TIP]
    >
-   >Um Statusspalten des Programms anzuzeigen, muss Ihr Bericht nach *nur einem* Kanal gefiltert werden.
+   >Um Statusspalten des Programms anzuzeigen, muss Ihr Bericht nach *nur einem*-Kanal gefiltert werden.
 
 1. Aktivieren Sie die Option Programm-Statusspalten anzeigen. Klicken Sie auf Übernehmen.
 
@@ -45,7 +45,7 @@ hinzufügen Statistiken zum Programm-Status für Ihren [Programm-Leistungsberich
 
 >[!NOTE]
 >
->Wenn für jeden Status im Programm keine Spalte angezeigt wird, stellen Sie sicher, dass Sie die Spalten [ausgewählt haben, die im Bericht angezeigt](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) werden sollen.
+>Wenn für jeden Status im Programm keine Spalte angezeigt wird, stellen Sie sicher, dass Sie die Spalten [ausgewählt haben, die im Bericht &quot;](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)&quot;angezeigt werden sollen.
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ hinzufügen Statistiken zum Programm-Status für Ihren [Programm-Leistungsberich
 >
 >**Tieftauchen**
 >
->Weitere Informationen finden Sie im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere Informationen finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
