@@ -19,7 +19,7 @@ E-Mails verfügen über eingeschränkte Funktionalität (eingeschränktes CSS un
 >
 >Beim Erstellen einer neuen E-Mail ist die Ansicht als Webseite nicht aktiviert. Wenn Sie die E-Mail aktivieren und klonen, wird diese Einstellung kopiert.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-5.png)
 
@@ -27,7 +27,7 @@ E-Mails verfügen über eingeschränkte Funktionalität (eingeschränktes CSS un
 
    ![](assets/two-5.png)
 
-1. Markieren Sie das Feld Ansicht **als Webseite** einschließen und klicken Sie auf **Speichern**.
+1. Markieren Sie das Feld **Ansicht als Webseite** einschließen und klicken Sie auf **Speichern**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Hier ist ein Beispiel dafür, wie es aussieht:
 >
 >Die Ansicht wird erst dann als Webseite angezeigt, wenn Sie die E-Mail gesendet haben. Schicken Sie sich einen Test zur Ansicht.
 
-Informationen zum Ändern des Standardtextes finden Sie unter [Bearbeiten der Meldung](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)&quot;Ansicht als Webseite&quot;.
+Informationen zum Ändern des Standardtextes finden Sie unter [Bearbeiten der Meldung &quot;Ansicht als Webseite&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
