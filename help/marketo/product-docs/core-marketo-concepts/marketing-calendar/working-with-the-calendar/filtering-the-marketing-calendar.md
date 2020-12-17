@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtern des Marketingkalenders {#filtering-the-marketing-calendar}
+# Filtern des Marketing-Kalenders {#filtering-the-marketing-calendar}
 
 Filtern Sie die im Kalender angezeigten Informationen mithilfe von Einstiegstypen, Programm-Tags oder Arbeitsbereichen.
 
@@ -19,11 +19,11 @@ Filtern Sie die im Kalender angezeigten Informationen mithilfe von Einstiegstype
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie auf die Dropdownliste **Einstiegstyp** **** .
+1. Klicken Sie auf die Dropdownliste **Eintrag** **Typ**.
 
    >[!NOTE]
    >
-   >Die Standardeingabetypen sind **E-Mail** - **Programm** und **Smart** - **Kampagnen** **mit** **** Email.
+   >Die Standardeingabetypen sind **E-Mail** **Programm** und **Smart** **Kampagnen** **mit** **E-Mail**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Filtern Sie die im Kalender angezeigten Informationen mithilfe von Einstiegstype
 
    >[!TIP]
    >
-   >Beschreibungen der Standardeingabetypen finden Sie unter [Programmplanung Ansicht Entrypes](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Eine Beschreibung der Standardeingabetypen finden Sie unter [Programmplanung Ansicht Einstiegstypen](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Wählen Sie die für Sie interessanten Programm-Tags aus.
 
