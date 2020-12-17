@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# SEO - Suchbegriffsergebnisse der Ansicht in der Suchmaschine {#seo-view-keyword-results-in-search-engine}
+# SEO - Ansicht Suchbegriffsergebnisse in Suchmaschine {#seo-view-keyword-results-in-search-engine}
 
 Wenn Sie sehen möchten, wie Ihr Inhalt in einer Suchmaschine aussieht, haben wir eine praktische kleine Abkürzung hinzugefügt.
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe** .
+1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Bewegen Sie den Mauszeiger über einen Suchbegriff. Klicken Sie auf **Ansicht Ergebnisse**.
+1. Bewegen Sie den Mauszeiger über einen Suchbegriff. Klicken Sie auf **Ansicht results**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
