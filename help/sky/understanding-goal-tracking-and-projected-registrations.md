@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Nach der [Festlegung von Ereignis-Zielen](/help/sky/setting-event-goals.md)und dem Senden von Einladungen durch eine [intelligente Kampagne](/help/sky/create-a-smart-campaign.md), hier ist, wie Sie Ihren Zielfortschritt verfolgen und Marketos Prognosen verstehen.
+Nach dem Festlegen von Ereignis-Zielen[ und dem Senden von Einladungen durch eine ](/help/sky/setting-event-goals.md)intelligente Kampagne[ können Sie hier erfahren, wie Sie Ihren Zielfortschritt verfolgen und Marketo-Prognosen verstehen.](/help/sky/create-a-smart-campaign.md)
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ Nach der [Festlegung von Ereignis-Zielen](/help/sky/setting-event-goals.md)und d
 
 ## Zielverfolgung und geplante Registrierungen
 
-1. Details zur Zielverfolgung finden Sie auf der Registerkarte &quot; **[!UICONTROL Berichte]** &quot;Ihres Ereignis-Programms. In diesem speziellen Beispiel gibt es bisher 150 registrierte Mitglieder gegen das Ziel von 200 (75 %).
+1. Details zur Zielverfolgung finden Sie auf der Registerkarte **[!UICONTROL Berichte]** Ihres Ereignis-Programms. In diesem speziellen Beispiel gibt es bisher 150 registrierte Mitglieder gegen das Ziel von 200 (75 %).
 
    ![Bild eins](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Sie sehen auch Ihre **[!UICONTROL geplanten]** Registrierungen. Bewegen Sie den Mauszeiger über das Infosymbol, um eine Aufschlüsselung dieser Zahl nach Segment &quot;Wahrscheinlichkeit&quot;anzuzeigen.
+Sie sehen auch Ihre **[!UICONTROL Projektierte]** Registrierungen. Bewegen Sie den Mauszeiger über das Infosymbol, um eine Aufschlüsselung dieser Zahl nach Segment &quot;Wahrscheinlichkeit&quot;anzuzeigen.
 
 ![Bild zwei](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -48,7 +48,7 @@ Alle Mitglieder (registriert und noch nicht registriert) werden nach ihrer Regis
 
 ## Ähnliche Programm
 
-Sie können einen Einblick in Ihr aktuelles Ereignis erhalten, indem Sie sich ansehen, wie ähnliche Programm in der Vergangenheit funktioniert haben. Dieser Abschnitt zeigt Ihnen bis zu 5 ähnliche Programm aus den letzten 6 Monaten mit der Anzahl/dem Prozentsatz der _registrierten_ oder höher Mitglieder.
+Sie können einen Einblick in Ihr aktuelles Ereignis erhalten, indem Sie sich ansehen, wie ähnliche Programm in der Vergangenheit funktioniert haben. Dieser Abschnitt zeigt Ihnen bis zu 5 ähnliche Programm aus den letzten 6 Monaten mit der Anzahl/dem Prozentsatz der Mitglieder, die _Registered_ oder höher waren.
 
 Bei der Berechnung ähnlicher Programm werden unter anderem folgende Faktoren berücksichtigt:
 
@@ -69,7 +69,7 @@ Oben auf der Seite &quot;Berichte&quot;finden Sie AI/ML-basierte Empfehlungen, d
 
 ## PERSONALENBERECHTIGUNGEN
 
-Klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]** , um alle Programm-Mitglieder Ansicht. Bewegen Sie den Mauszeiger über die Leisten **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Anwesenheitswahrscheinlichkeit]** , um genaue Prozentsätze und Kategorien anzuzeigen. Sie können dann Maßnahmen gegen Mitglieder in einer bestimmten Kategorie ergreifen (z.B. für alle in der &quot;Weniger wahrscheinlich&quot;, um Kategorie zu registrieren), und insbesondere Zielgruppe sie, um Ihre Registrierungsnummern potenziell zu erhöhen.
+Klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**, um alle Programm-Mitglieder Ansicht. Bewegen Sie den Mauszeiger über die Leisten **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Wahrscheinlichkeit der Teilnahme]**, um genaue Prozentsätze und Kategorien anzuzeigen. Sie können dann Maßnahmen gegen Mitglieder in einer bestimmten Kategorie ergreifen (z.B. für alle in der &quot;Weniger wahrscheinlich&quot;, um Kategorie zu registrieren), und insbesondere Zielgruppe sie, um Ihre Registrierungsnummern potenziell zu erhöhen.
 
 ![Bild sieben](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ Die Werte für die Wahrscheinlichkeit werden in drei Segmente unterteilt:
 * Wahrscheinlichkeit der Registrierung > 25% bis &lt;50% = Wahrscheinliches Segment
 * Wahrscheinlichkeit der Registrierung &lt; 25 % = Segment mit geringerer Wahrscheinlichkeit
 
-Wenn eine Person die Wahrscheinlichkeit der Registrierung erhält, fällt die Prognose in eines dieser Segmente (jede Person, die Mitglied eines Programms ist, fällt in eines davon). Wenn beispielsweise ein Ereignis-Programm 1000 Mitglieder hat, die auf den Wahrscheinlichkeitsvorhersagen basieren, würden diese 1000 in _Hochgradig wahrscheinliche_, _wahrscheinliche_ oder _weniger wahrscheinliche_ Segmente verteilt.
+Wenn eine Person die Wahrscheinlichkeit der Registrierung erhält, fällt die Prognose in eines dieser Segmente (jede Person, die Mitglied eines Programms ist, fällt in eines davon). Wenn beispielsweise ein Ereignis-Programm basierend auf den Wahrscheinlichkeitsvorhersagen über 1000 Mitglieder verfügt, werden diese 1000 in die Segmente _Höchste Wahrscheinlichkeit_, _Wahrscheinlich_ oder _Weniger wahrscheinlich_ verteilt.
 
 Daher haben Personen, die in das Segment &quot;Sehr wahrscheinlich&quot;fallen, eine höhere Chance, sich für das Ereignis zu registrieren.
 
@@ -103,7 +103,7 @@ A: Die bewährte Praxis umfasst Folgendes:
 
 i. Sie erstellen ein Programm und dann verwendet eine Smart-Kampagne vorhersagende Filter mit &quot;größer als X&quot;, was zu einer bestimmten Anzahl von Personen führen würde (z. B. 1000) und Sie führen die Kampagne aus.
 
-ii. Nach 24 Stunden können Sie auf der Registerkarte &quot; [!UICONTROL Berichte] &quot;die projizierten Registrierungen sehen, die auf der Grundlage der Wahrscheinlichkeit berechnet werden, Werte aller Personen zu registrieren, die derzeit eingeladen werden.
+ii. Nach 24 Stunden können Sie auf der Registerkarte [!UICONTROL Berichte] die projizierten Registrierungen sehen, die auf der Grundlage der Wahrscheinlichkeit berechnet werden, dass Werte aller Personen registriert werden, die derzeit eingeladen werden.
 
 iii. Wenn die geplanten Registrierungen unter dem Ziel liegen, müssen Sie mehr Personen einladen. An diesem Punkt können Sie die Einblicke sehen, die Ihnen sagen, was der Schwellenwert war, der in den letzten Programmen funktioniert hat.
 
@@ -117,7 +117,7 @@ v. Wenn Sie verstehen möchten, warum eine projizierte Audience angezeigt wird, 
 
 A: Drei Balken, von denen jeder ein Segment darstellt (Hochwahrscheinlich, Wahrscheinlich, weniger wahrscheinlich).
 
-**Lila gepunktete Linie:** Durchschnittliche Konversationsrate für die Registrierung in diesem Segment, basierend auf früheren ähnlichen Programmen.
+**Lila gestrichelte Linie:** Durchschnittliche Konversationsrate für die Registrierung in diesem Segment, basierend auf ähnlichen Programmen aus der Vergangenheit.
 
 **Blaue Leiste:** Registrierungsprozentsatz aller Personen in diesem Segment.
 
