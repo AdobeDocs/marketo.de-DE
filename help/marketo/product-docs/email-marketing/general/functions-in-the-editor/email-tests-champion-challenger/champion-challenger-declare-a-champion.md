@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger: Champion erklären {#champion-challenger-declare-a-champion}
+# Champion/Challenger: Deklarieren eines Champion {#champion-challenger-declare-a-champion}
 
 Sobald Sie bereit sind, können Sie einen Meister für Ihren E-Mail-Test erklären.
 
@@ -28,21 +28,21 @@ Sobald Sie bereit sind, können Sie einen Meister für Ihren E-Mail-Test erklär
 
    ![](assets/champion4.jpg)
 
-1. Wählen Sie den **Gewinner** Ihrer Wahl aus.
+1. Wählen Sie **Gewinner** Ihrer Wahl aus.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Legen Sie das **Deklarationsdatum** fest.
+1. Legen Sie das Datum **Deklarieren** fest.
 
    >[!NOTE]
    >
-   >Bis zum **Erklärungsdatum** wird Marketo weiterhin den alten Meister und Herausforderer schicken. Sobald Datum/Uhrzeit erreicht ist, wird nur der neue Meister gesendet.
+   >Bis zum **Datum deklarieren** sendet Marketo weiterhin den/die alten Meister und Herausforderer/innen. Sobald Datum/Uhrzeit erreicht ist, wird nur der neue Meister gesendet.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Beachten Sie, dass das **Deklarationsdatum** standardmäßig auf morgen und nicht auf heute festgelegt ist.
+   >Beachten Sie, dass das Standarddatum **Datum deklarieren** morgen ist, nicht heute.
 
    Wählen Sie eine Uhrzeit und klicken Sie auf **Speichern**.
 
