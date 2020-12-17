@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Versionshinweise: Dezember 2012 {#release-notes-december}
 
-Die Dezember-Version beinhaltet die viel erwartete Funktion **Weiterleiten an Freunde** sowie einige andere Goodies! Beachten Sie, dass Funktionen, die mit einem Sternchen (*) gekennzeichnet sind, nur in der Select Edition und in RCA (Umsatz-Cycle-Analyse) verfügbar sind.
+Die Dezember-Version enthält die viel erwartete Funktion **An Freunde weiterleiten** sowie einige weitere Goodies! Beachten Sie, dass Funktionen, die mit einem Sternchen (*) gekennzeichnet sind, nur in der Select Edition und in RCA (Umsatz-Cycle-Analyse) verfügbar sind.
 
 ## An Freunde weiterleiten {#forward-to-friend}
 
-Aktivieren Sie die Freigabe von Inhalten für andere, indem Sie in Ihren E-Mails einen Link &quot;Weiterleiten **an Freunde** &quot;einfügen. Die Hinzufügung neuer Filter und Auslöser hilft Ihnen, Ihre Einflussnehmer zu identifizieren, indem Sie die Benutzer identifizieren, die eine E-Mail weitergeleitet haben, sowie diejenigen, die die weitergeleiteten E-Mails erhalten haben.
+Aktivieren Sie die Freigabe von Inhalten für andere, indem Sie in Ihre E-Mails einen Link **An Freunde weiterleiten** einfügen. Die Hinzufügung neuer Filter und Auslöser hilft Ihnen, Ihre Einflussnehmer zu identifizieren, indem Sie die Benutzer identifizieren, die eine E-Mail weitergeleitet haben, sowie diejenigen, die die weitergeleiteten E-Mails erhalten haben.
 
-Um eine Einladung zum **Weiterleiten an Freunde** in Ihre E-Mail aufzunehmen, öffnen Sie sie im Editor und fügen Sie das `{{system.forwardToFriendLink}}` Token ein.
+Um eine Einladung **An Freunde weiterleiten** in Ihre E-Mail einzuschließen, öffnen Sie sie im Editor und fügen Sie das Token `{{system.forwardToFriendLink}}` ein.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Verwenden Sie die entsprechenden Auslöser und Filter, um Benutzer zu identifizieren, die den Link &quot; **Weiterleiten an Freunde** &quot;verwendet haben, sowie diejenigen, die die E-Mail erhalten haben.
+Verwenden Sie die entsprechenden Auslöser und Filter, um Benutzer zu identifizieren, die den Link **An Freunde weiterleiten** und diejenigen, die die E-Mail erhalten haben.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -37,7 +37,7 @@ Unsere neueste Version bietet Ihnen mehr Zugriff und Kontrolle über Admin-Rolle
 >
 >Standardmäßig haben vorhandene Rollen mit der Berechtigung &quot;Zugriff auf Admin&quot;Zugriff auf alle Admin-Funktionen, bis sie geändert wurden.
 
-## BrightTALK-Adapter {#brighttalk-adapter}
+## BrightTALK Adapter {#brighttalk-adapter}
 
 Mit dem Marketo BrightTALK Adapter können Sie die Anwesenheitsinformationen von einem Live- oder On-Demand Webcast direkt in ein Marketo Ereignis erfassen!
 
@@ -47,30 +47,30 @@ Mit dem Marketo BrightTALK Adapter können Sie die Anwesenheitsinformationen von
 
 Sales Insight steht ab sofort für Microsoft Dynamics Kunden zur Verfügung!
 
-## Synchronisierung von Dynamikchancen {#dynamics-opportunity-sync}
+## Dynamics Opportunity Sync {#dynamics-opportunity-sync}
 
 Synchronisieren Sie Opportunitätsdaten zwischen Marketo und Microsoft Dynamics.
 
-## Bericht &quot;Einflussreiche Marketingmöglichkeiten&quot;* {#marketing-influenced-opportunities-report}
+## Bericht &quot;Marketing-Einflussreiche Chancen&quot;* {#marketing-influenced-opportunities-report}
 
-Ansicht, welcher Prozentsatz der Pipeline und des Umsatzes Ihrer Firma von Ihren Marketing-Programmen beeinflusst wurde. In **Umsatz-Explorer** können Sie jetzt benutzerdefinierte Berichte mit dem neuen gelben Punkt &quot;Marketing-beeinflussende Chancen&quot;in der Analyse &quot;Chancen&quot;erstellen. Sie können auch die folgenden beiden Berichte im Ordner &quot;Standard&quot;verwenden:
+Ansicht, welcher Prozentsatz der Pipeline und des Umsatzes Ihrer Firma von Ihren Marketing-Programmen beeinflusst wurde. In **Umsatz-Explorer** können Sie jetzt benutzerspezifische Berichte mit dem neuen gelben Punkt &quot;Marketingbeeinflussende Chancen&quot;in der Analyse &quot;Chancen&quot;erstellen. Sie können auch die folgenden beiden Berichte im Ordner &quot;Standard&quot;verwenden:
 
 * Einfluss des Inverkehrbringens auf geschaffene Chancen
 * Marketing-Einfluss auf Chancen - Abgeschlossene Woche
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Benutzerdefinierte Opportunity-Felder in der Analyse Programm Opportunity* {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Benutzerdefinierte Opportunity-Felder in Programm Opportunity-Analyse* {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 hinzufügen benutzerspezifischen Opportunity-Felder, um Ihre Programm Opportunity-Analyse-Berichte in Umsatz Explorer zu erweitern.
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Kampagne-Inspektor {#campaign-inspector}
+## Kampagne Inspector {#campaign-inspector}
 
 Haben Sie sich schon einmal gefragt, welche Kampagnen eine bestimmte Flussaktion verwenden, z. B. &quot;Punktzahl ändern&quot;oder &quot;Kampagne anfordern&quot;? Oder wo wird ein bestimmter Filter verwendet? Mit dem neuen Kampagne Inspector (verfügbar über die Schatztruhe) können Sie diese Kampagnen sowie aktive Kampagnen und Kampagnen mit Fehlern identifizieren.
 
-Gehen Sie zu **Admin** > **Schatztruhe** , um den** Kampagne Inspector** zu aktivieren.
+Gehen Sie zu **Admin** > **Schatztruhe**, um den** Kampagnen-Inspektor** zu aktivieren.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
 
