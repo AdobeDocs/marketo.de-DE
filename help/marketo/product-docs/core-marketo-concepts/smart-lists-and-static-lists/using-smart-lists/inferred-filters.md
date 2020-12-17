@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Vorgestellte Filter {#inferred-filters}
+# Angedeutete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, wird [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) sie keksen und in das System einsetzen. Wir suchen ihre IP in einer speziellen Datenbank und ziehen alle möglichen guten Informationen. Schau es dir an.
+Wenn jemand Ihre Website besucht, werden diese von [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und in das System eingefügt. Wir suchen ihre IP in einer speziellen Datenbank und ziehen alle möglichen guten Informationen. Schau es dir an.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +34,7 @@ Wenn Sie einen dieser Filter in einer intelligenten Liste verwenden, ergeben sic
 >Verwenden Sie diese Filter in einem Bericht zur Web-Aktivität. Verwenden Sie die Territorien der Vertriebsmitarbeiter und abonnieren Sie sie in den letzten 24 Stunden zu einem benutzerspezifischen Tagesbericht mit Website-Besuchern. Sie werden es lieben!
 >
 >* Besuchte Webseite - Letzte 24 Stunden
->* Inzidierter Staat [wählt sein Hoheitsgebiet aus]
+>* Der Status &quot;Inferated&quot;ist [Wählen Sie ihr Territorium]
 
 >
 
@@ -46,5 +46,5 @@ Diese anonymen Besucher werden automatisch in Personen umgewandelt, wenn sie auf
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr über [anonyme Aktivitäten und Interessenten](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Erfahren Sie mehr über [Anonyme Aktivität und Interessenten](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
 
