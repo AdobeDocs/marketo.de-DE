@@ -11,53 +11,53 @@ ht-degree: 0%
 ---
 
 
-# Ordner verstehen {#understanding-folders}
+# Ordner {#understanding-folders}
 
 Ordner in einem Programm können zum Organisieren Ihrer intelligenten Kampagnen und Assets verwendet werden. Diese unterscheiden sich von [Kampagnen-Ordnern](create-new-campaign-folder.md).
 
 ## Erstellen eines Ordners {#create-a-folder}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/ma.png)
 
-1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie &quot; **Neuer Ordner**&quot;.
+1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie **Neuer Ordner**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Benennen Sie den neuen Ordner und drücken Sie die **Eingabetaste**.
+1. Benennen Sie den neuen Ordner und drücken Sie **Eingabetaste**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
 Großartig! Jetzt haben Sie einen neuen Ordner, in dem Sie Ihre lokalen Assets speichern können.
 
-## Ordner umbenennen {#rename-a-folder}
+## Ordner {#rename-a-folder} umbenennen
 
 Es ist in Ordnung, deine Meinung zu ändern.
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie &quot;Ordner **umbenennen&quot;**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Ordner umbenennen**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Geben Sie einen neuen Namen ein und drücken Sie die **Eingabetaste**.
+1. Geben Sie einen neuen Namen ein und drücken Sie **die Eingabetaste**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
    Et Volia! Der Ordner hat einen neuen Namen.
 
-## Ordner löschen {#delete-a-folder}
+## Löschen eines Ordners {#delete-a-folder}
 
 >[!NOTE]
 >
 >Stellen Sie sicher, dass der Ordner leer ist, bevor Sie ihn löschen.
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie &quot;Ordner **löschen&quot;**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Ordner löschen**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
    Ordner Adios!
 
-## Ordner archivieren {#archive-a-folder}
+## Ordner {#archive-a-folder} archivieren
 
 In Marketo können Sie vorhandene Ordner in Archivordner konvertieren. Archivordner sind in Marketing Aktivitäten, Database und Design Studio vorhanden.
 
@@ -70,7 +70,7 @@ Wenn Sie einen Ordner archivieren:
 * Archivierte Vorlagen sind beim Erstellen einer E-Mail oder Landingpage in Design Studio nicht verfügbar
 * Archivierte Landingpages können nicht in Testgruppen verwendet werden
 
-Funktionen, die sich bei der Archivierung **nicht** ändern:
+Funktionen, die sich bei der Archivierung ändern, wenn **nicht**:
 
 * Die globale Suche findet weiterhin Ergebnisse in archivierten Ordnern
 * Ein Asset, das verwendet wird, funktioniert auch nach der Archivierung weiter
