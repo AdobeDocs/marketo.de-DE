@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionshinweise: Juli 2013 {#release-notes-july}
 
-Die folgenden Funktionen sind in der Juli-Version enthalten, die für einen Freitag, den 26. Juli, geplant ist.  Überprüfen Sie Ihre [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Juli-Version enthalten, die für einen Freitag, den 26. Juli, geplant ist.  Bitte überprüfen Sie Ihre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
 
-Achten Sie nach der Veröffentlichung darauf, die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community für detaillierte Hilfe-Artikel für jede Funktion zu überprüfen!
+Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Hilfe-Artikel für jede Funktion zu erhalten!
 
 ## Widget &quot;Abgelaufener Inhalt&quot;auf dem Dashboard {#exhausted-content-widget-on-the-dashboard}
 
@@ -35,7 +35,7 @@ In den nächsten Monaten werden Sie mehr von unserem neuen Thema in verschiedene
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 
-## Spalte Programm {#program-member-date-column}
+## Programm Member Date Column {#program-member-date-column}
 
 Ansicht und Sortieren des Mitgliederrasters nach dem Datum, an dem der Interessent hinzugefügt wurde.
 
