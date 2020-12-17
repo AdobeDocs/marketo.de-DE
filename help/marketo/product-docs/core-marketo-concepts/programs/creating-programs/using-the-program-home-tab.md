@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden der Registerkarte &quot;Programm-Startseite&quot; {#using-the-program-home-tab}
+# Verwenden der Registerkarte &quot;Startseite&quot;des Programms {#using-the-program-home-tab}
 
 Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorgänge in Ihrem Programm.
 
@@ -43,7 +43,7 @@ Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorg
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klicken Sie auf die Dropdownliste **Ansicht** . Wählen Sie **Verwendet von**.
+1. Klicken Sie auf die Dropdownliste **Ansicht**. Wählen Sie **Verwendet von**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +57,7 @@ Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorg
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klicken Sie auf die Dropdownliste **Ansicht** . Wählen Sie **Mitgliedschaft**.
+1. Klicken Sie auf die Dropdownliste **Ansicht**. Wählen Sie **Mitgliedschaft**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorg
 
    >[!NOTE]
    >
-   >**Historisch** bedeutet, dass jeder, der jemals das Programm durchlaufen hat, während **Current** nur Personen umfasst, die sich derzeit im Programm befinden.
+   >**&quot;** Historisch&quot;bezeichnet jeden, der jemals das Programm durchlaufen hat, während  **** derzeit nur Personen im Programm anwesend sind.
 
    >[!NOTE]
    >
