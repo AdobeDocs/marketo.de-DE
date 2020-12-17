@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Erstellen einer statischen Liste {#create-a-static-list}
+# Statische Liste {#create-a-static-list} erstellen
 
 Statische Listen sind eine Gruppe von Personen, die sich bereits in Ihrer Datenbank befinden. Hier ist, wie man eine erstellt.
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zu **Datenbank**.
 
    ![](assets/db.png)
 
@@ -27,7 +27,7 @@ Statische Listen sind eine Gruppe von Personen, die sich bereits in Ihrer Datenb
 
    ![](assets/three.png)
 
-   Sie haben jetzt eine leere Liste, die gefüllt werden kann. Erfahren Sie, wie Sie Personen [hier](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)hinzufügen können.
+   Sie haben jetzt eine leere Liste, die gefüllt werden kann. Erfahren Sie, wie Sie [hier ](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList) weitere Personen hinzufügen.
 
    >[!NOTE]
    >
