@@ -33,9 +33,9 @@ Mit Webhooks können Sie mit Drittanbieterdiensten interagieren. Senden/Empfange
 >
 >Erfahren Sie mehr über die vielen faszinierenden Dinge, die [Webhooks](http://developers.marketo.com/documentation/webhooks/) für Sie tun können.
 
-## Nutzung {#usage}
+## Verwendung {#usage}
 
-Wählen Sie aus der Dropdownliste einen **Webhaken** aus.
+Wählen Sie aus der Dropdownliste einen **WebHaken** aus.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
