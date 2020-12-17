@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# ABM-Berichtseinrichtung {#abm-report-setup}
+# ABM-Bericht einrichten {#abm-report-setup}
 
 Der ABM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an das Kontoteam gesendet wird.
 
-## Berichtseinrichtung {#report-setup}
+## Bericht einrichten {#report-setup}
 
 1. Klicken Sie auf **Admin**.
 
@@ -33,11 +33,11 @@ Der ABM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
    ![](assets/four-4.png)
 
-1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf die Dropdownliste **Sortieren nach** und wählen Sie eine Auswahl aus.
+1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf die Dropdownliste **Sortieren nach** und wählen Sie aus.
 
    ![](assets/five-3.png)
 
-1. Markieren Sie das Kontrollkästchen **Benutzer** , klicken Sie dann auf die Dropdownliste und wählen Sie aus, wen Sie die E-Mail erhalten möchten.
+1. Markieren Sie das Kontrollkästchen **Benutzer**, klicken Sie dann auf die Dropdownliste und wählen Sie aus, wen Sie die E-Mail erhalten möchten.
 
    ![](assets/six-2.png)
 
@@ -53,11 +53,11 @@ Und das ist es!
 
 ## Abmelden {#how-to-unsubscribe}
 
-Jeder Bericht bietet die Möglichkeit, Opt-out. Klicken Sie dazu einfach unten in der E-Mail auf **Abmelden** .
+Jeder Bericht bietet die Möglichkeit, Opt-out. Klicken Sie dazu einfach unten in der E-Mail auf **Abmelden**.
 
 ![](assets/eight-1.png)
 
-## Neuanmeldungen {#how-to-resubscribe}
+## Neuabonnieren von {#how-to-resubscribe}
 
 1. Klicken Sie auf **Admin**.
 
@@ -75,7 +75,7 @@ Jeder Bericht bietet die Möglichkeit, Opt-out. Klicken Sie dazu einfach unten i
 
    ![](assets/ten.png)
 
-1. Wählen Sie den Benutzer aus, den Sie erneut per E-Mail erhalten möchten, und klicken Sie auf **Neu abonnieren**.
+1. Wählen Sie den Benutzer aus, den Sie erneut per E-Mail erhalten möchten, und klicken Sie auf **Resubscribe**.
 
    ![](assets/eleven.png)
 
