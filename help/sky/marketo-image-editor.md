@@ -14,20 +14,20 @@ ht-degree: 0%
 
 <br> 
 
-Mit dem Bild-Editor können Sie Ihre Bilder schnell und einfach bearbeiten [!DNL Marketo].
+Mit dem Bild-Editor können Sie Ihre Bilder innerhalb von [!DNL Marketo] schnell und einfach bearbeiten.
 
-1. Öffnen Sie [!DNL Marketo Sky]das [!UICONTROL Design Studio].
+1. Öffnen Sie in [!DNL Marketo Sky] das [!UICONTROL Design Studio].
 
    ![Bild eins](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-1.png)
 
-1. Suchen Sie das Bild ([!UICONTROL Letzte Assets] oder [!UICONTROL Bilder und Dateien]) und klicken Sie auf den Dateinamen.
+1. Suchen Sie nach dem Bild ([!UICONTROL Letzte Design Studio-Assets] oder [!UICONTROL Bilder und Dateien]) und klicken Sie auf den Dateinamen.
 
    ![Bild zwei](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. Klicken Sie auf die Schaltfläche Bild **[!UICONTROL bearbeiten]** .
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Bild bearbeiten]**.
 
    ![Bild drei](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. Wählen Sie aus einer Vielzahl von Funktionen in der Symbolleiste oben. Klicken Sie abschließend auf **[!UICONTROL Speichern]** .
+1. Wählen Sie aus einer Vielzahl von Funktionen in der Symbolleiste oben. Klicken Sie abschließend auf **[!UICONTROL Speichern]**.
 
    ![Bild vier](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
