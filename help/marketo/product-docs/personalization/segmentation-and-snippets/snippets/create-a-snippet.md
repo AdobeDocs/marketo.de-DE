@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Snippet erstellen {#create-a-snippet}
+# Erstellen eines Snippets {#create-a-snippet}
 
 Snippets können als dynamische Inhaltsblöcke in **E-Mails** und **Landingpages verwendet werden.**
 
@@ -19,7 +19,7 @@ Snippets können als dynamische Inhaltsblöcke in **E-Mails** und **Landingpages
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu **und dann auf **Neues Snippet**.
+1. Klicken Sie auf **New **und dann **New Snippet**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,7 +27,7 @@ Snippets können als dynamische Inhaltsblöcke in **E-Mails** und **Landingpages
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Snippets für Ihren dynamischen Inhalt erstellen. Jetzt können Sie Ihren neuen Snippet [mit Inhalten versehen](add-content-to-a-snippet.md).
+Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Snippets für Ihren dynamischen Inhalt erstellen. Jetzt können Sie fortfahren und [Inhalte zu Ihrem neuen Snippet hinzufügen](add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
