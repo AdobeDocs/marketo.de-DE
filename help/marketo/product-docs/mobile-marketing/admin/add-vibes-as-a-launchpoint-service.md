@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen Vibes als LaunchPoint-Dienst {#add-vibes-as-a-launchpoint-service}
+# hinzufügen Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 
 Sie können SMS-Nachrichten an die Personen in Ihren Vibes-Listen senden und mit der SMS-Aktivität Kampagnen auslösen und filtern. Zunächst müssen Sie Vibes als LaunchPoint-Dienst hinzufügen.
 
@@ -23,11 +23,11 @@ Sie können SMS-Nachrichten an die Personen in Ihren Vibes-Listen senden und mit
 >
 >Sie benötigen sowohl die Marketo-Administratorberechtigungen als auch ein aktives Vibes-Konto, um diese Einrichtung abzuschließen. Die in Schritt 4 angeforderten Anmeldeinformationen entsprechen den Anmeldeinformationen Ihres Vibes-Kontos.
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **Admin** und dann auf **LaunchPoint**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Admin** und dann **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
-1. Klicken Sie auf **Neuer** und **neuer Dienst**.
+1. Klicken Sie auf **Neu** und **Neuer Dienst**.
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
