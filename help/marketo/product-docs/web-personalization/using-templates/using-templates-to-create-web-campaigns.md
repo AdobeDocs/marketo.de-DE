@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Erstellen von Web-Kampagnen mit Vorlagen {#using-templates-to-create-web-campaigns}
+# Verwenden von Vorlagen zum Erstellen von Web-Kampagnen {#using-templates-to-create-web-campaigns}
 
-Beschleunigen und vereinfachen Sie die Erstellung Ihrer Web-Kampagnen mit unseren integrierten Vorlagen oder [speichern Sie Ihre eigenen](save-your-campaign-as-a-template.md).
+Beschleunigen und vereinfachen Sie die Erstellung Ihrer Web-Kampagne, indem Sie unsere integrierten Vorlagen verwenden oder indem Sie [Ihre eigenen ](save-your-campaign-as-a-template.md) speichern.
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Beschleunigen und vereinfachen Sie die Erstellung Ihrer Web-Kampagnen mit unsere
 
    >[!TIP]
    >
-   >Wählen Sie für mobile Kampagnen eine Vorlage aus dem Bereich **Mobil** .
+   >Wählen Sie für mobile Kampagnen eine Vorlage aus dem Bereich **mobile**.
 
 1. Passen Sie die Vorlage an.
 
