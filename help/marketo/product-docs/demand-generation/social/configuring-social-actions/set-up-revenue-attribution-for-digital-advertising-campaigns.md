@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einrichten der Umsatzzuordnung für Digital Advertising-Kampagnen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Einrichten der Umsatzzuordnung für Digital Advertising Kampagnen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 Hier sehen Sie, wie Sie die Umsatzzuordnung für Kanal und Kampagnen digitaler Werbung einrichten. Nach der Einrichtung können Sie für digitale Anzeigen First Touch- und Multi-Touch-Umsätze auf die gleiche Weise wie in anderen Marketo-Programmen zuordnen.
 
@@ -41,7 +41,7 @@ Im Gegensatz zu einigen Programmen (z. B. E-Mail), die für einen bestimmten Zei
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Wenn Sie bereits ein Programm eingerichtet haben, können Sie es [klonen](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Wenn Sie bereits ein Programm eingerichtet haben, können Sie [es klonen](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -65,7 +65,7 @@ Im Gegensatz zu einigen Programmen (z. B. E-Mail), die für einen bestimmten Zei
    >
    >Sie können es auch als Kanal_Adsource_AssetName_Region_UniqueIdNumber einrichten. Das könnte so aussehen: Social-Paid_Facebook_NewGuide_NA_123.
 
-## Intelligente Kampagne für neue Namen erstellen {#create-a-smart-campaign-for-new-names}
+## Erstellen einer intelligenten Kampagne für neue Namen {#create-a-smart-campaign-for-new-names}
 
 1. Erstellen Sie in der intelligenten Kampagne eine intelligente Liste, die, wie gezeigt, zwei Auslöser und zwei Filter enthält.
 
@@ -73,19 +73,19 @@ Im Gegensatz zu einigen Programmen (z. B. E-Mail), die für einen bestimmten Zei
 
    >[!NOTE]
    >
-   >Die in den beiden Auslösern verwendete Zeichenfolge für die Abfrage und der Filter &quot; **Programm, das den erfassten Namen** erfasst hat&quot;sind für Sie eindeutig. Die hier gezeigten Abfragen-Zeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
+   >Die in den beiden Auslösern verwendete Zeichenfolge für die Abfrage und der Filter **Programm, das den erfassten Namen** erfasst hat, sind für Sie eindeutig. Die hier gezeigten Abfragen-Zeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
 
-1. Erstellen Sie einen Flussschritt, um das Attribut in &quot; **Akquise-Programm** &quot;zu ändern und den Neuen Wert auf den Wert festzulegen, den Sie für gebührenpflichtige Social-Kampagnen definiert haben.
+1. Erstellen Sie einen Flussschritt, um das Attribut in **Akquise-Programm** zu ändern, und legen Sie den Neuen Wert auf den Wert fest, den Sie für gebührenpflichtige Social-Kampagnen definiert haben.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. Planen und aktivieren Sie die Kampagne.
 
-## Intelligente Kampagne für Status-/Programm-Erfolg erstellen {#create-a-smart-campaign-for-status-program-success}
+## Erstellen einer intelligenten Kampagne für Status-/Programm-Erfolg {#create-a-smart-campaign-for-status-program-success}
 
 Sie benötigen eine zweite intelligente Kampagne, um den Status von Personen zu ändern, damit sie Programm erfolgreich erzielen und in Umsatzzuordnungsberechnungen einbezogen werden können.
 
-1. Geben Sie im Auslöser &quot; **Ausfüllbares Formular** &quot;den Programm in die Abfrage-Zeichenfolge ein. Wenn Sie das Programm klonen, ersetzen Sie einfach den alten Abfragen-Zeichenfolgennamen durch den neuen.
+1. Geben Sie im Auslöser **Ausfüllbares Formular** den Programm in die Abfrage ein. Wenn Sie das Programm klonen, ersetzen Sie einfach den alten Abfragen-Zeichenfolgennamen durch den neuen.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -120,10 +120,10 @@ Nachdem Sie das Programm und die Kampagnen eingerichtet haben, erstellen Sie die
    >
    >    
    >    
-   >    * **source** ist die Personenquelle, die als Kanal-ID verwendet wird.
-   >    * **comment** ist der eindeutige Bezeichner, der für jedes Programm erstellt wurde.
-   >    * **camp** ist die Kampagne in Facebook, LinkedIn oder Google
-   >    * **kk** ist der Suchbegriff oder Asset-Name, den Sie erfassen möchten
+   >    * **** Quellen der als Kanal-ID verwendeten Personenquelle
+   >    * **Der für jedes Programm erstellte eindeutige Bezeichner** kommentiert
+   >    * **&quot;** campis&quot;ist die Kampagne in Facebook, LinkedIn oder Google
+   >    * **** kkkis der Suchbegriff oder Asset-Name, den Sie erfassen möchten
 
    >    
    >    
