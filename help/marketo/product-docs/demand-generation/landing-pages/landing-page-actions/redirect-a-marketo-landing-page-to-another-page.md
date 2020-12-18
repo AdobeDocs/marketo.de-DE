@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eine Landingpage zu einer anderen Seite umleiten {#redirect-a-marketo-landing-page-to-another-page}
+# Umleiten einer Landingpage zu einer anderen Seite {#redirect-a-marketo-landing-page-to-another-page}
 
 Wenn Sie die URL einer Seite aktualisieren und die alte URL trotzdem funktionieren soll, versuchen Sie eine Umleitung! Das Einrichten ist einfach.
 
@@ -19,15 +19,15 @@ Wenn Sie die URL einer Seite aktualisieren und die alte URL trotzdem funktionier
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie unter **Admin** auf **Landing** **Pages**.
+1. Klicken Sie unter **Admin** auf **Einstieg** **Seiten**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Klicken Sie auf der Registerkarte **Regeln** auf **Neu** und dann auf **Neue** **Umleitungsregel** **Regel**.
+1. Klicken Sie unter der Registerkarte **Regeln** auf **Neu** und dann auf **Neu** **Umleiten** **Regel**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die **erste** Dropdown-Liste &quot; **Ursprüngliche** **URL** &quot;und wählen Sie Ihren [CNAME](customize-your-landing-page-urls-with-a-cname.md)&quot;Markieren&quot;.
+1. Klicken Sie auf die Dropdown-Liste **first** **Original** **URL** und wählen Sie Ihr Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -36,9 +36,9 @@ Wenn Sie die URL einer Seite aktualisieren und die alte URL trotzdem funktionier
    >**Erinnerung**
    >
    >
-   >Denken Sie daran, dass Sie nur URLs umleiten können, die dieser Beginn mit Ihrem Marketing- [CNAME](customize-your-landing-page-urls-with-a-cname.md)enthält.
+   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Beginn zu [CNAME](customize-your-landing-page-urls-with-a-cname.md) umgeleitet werden.
 
-1. Wählen Sie die Landingpage, die Sie umleiten möchten, im **zweiten Feld &quot;Ursprüngliche URL** &quot;aus.
+1. Wählen Sie im Feld **zweite Original-URL** die Landingpage aus, die Sie umleiten möchten.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -46,7 +46,7 @@ Wenn Sie die URL einer Seite aktualisieren und die alte URL trotzdem funktionier
    >
    >Sie können einen beliebigen URL-Pfad eingeben, auch wenn die Seite oder das Verzeichnis nicht vorhanden ist.
 
-1. Klicken Sie auf die Dropdownliste **Umleitungs** - **URL** und wählen Sie die Seite aus, zu der Sie Besucher umleiten möchten.
+1. Klicken Sie auf die Dropdownliste **Umleiten** **URL** und wählen Sie die Seite aus, zu der Sie Besucher umleiten möchten.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -56,7 +56,7 @@ Wenn Sie die URL einer Seite aktualisieren und die alte URL trotzdem funktionier
 
    >[!TIP]
    >
-   >Um zu einer Webseite außerhalb von Marketo umzuleiten, klicken Sie auf Nicht-Marketo-Landingpage **verwenden**.
+   >Um zu einer Webseite außerhalb von Marketo umzuleiten, klicken Sie auf **Nicht-Marketo-Landingpage verwenden**.
 
    >[!NOTE]
    >
