@@ -19,7 +19,7 @@ Algorithmuszieleinstellungen ermöglichen es Ihnen, das Endziel des Predictive C
 
    ![](assets/1.png)
 
-1. Wählen Sie unter &quot;Inhaltseinstellungen&quot;die Option **Algorithmus**.
+1. Wählen Sie unter &quot;Inhaltseinstellungen&quot;die Option **Algorithm**.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ Algorithmuszieleinstellungen ermöglichen es Ihnen, das Endziel des Predictive C
    |---|---|
    | **`Conversions`** | Anzeigen des Inhalts, der am wahrscheinlichsten dazu führt, dass die Person, die den Inhalt anzeigt, ein Formular sendet |
 
-1. Klicken Sie abschließend auf **Speichern** .
+1. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/four.png)
 
