@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-Dienst](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) im Abschnitt &quot;Admin&quot;.
->* [Akzeptieren Sie in Ihrem Facebook-Konto die](https://www.facebook.com/ads/manage/customaudiences/tos.php) Facebook-Nutzungsbedingungen für benutzerdefinierte Audiencen.
+>* [hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) Dienst im Abschnitt &quot;Admin&quot;.
+>* [Akzeptieren Sie in Ihrem Facebook-Konto die ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Begriffe &quot;Benutzerdefinierte Audiencen&quot;von Facebook.
 
 >
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Erfahren Sie mehr über [benutzerdefinierte Audiencen in Facebook](https://www.facebook.com/help/341425252616329).
+>Weitere Informationen zu [benutzerspezifischen Audiencen in Facebook](https://www.facebook.com/help/341425252616329).
 
 1. Wählen Sie die intelligente oder statische Liste aus, aus der die Interessenten stammen, aus denen Sie die Audience erstellen möchten.
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Geben Sie einen Namen für die **Audience ein**. Klicken Sie auf **Aktualisieren**.
+1. Geben Sie einen **Audiencen-Namen** ein. Klicken Sie auf **Aktualisieren**.
 
    ![](assets/five.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Möchten Sie eine neue Audience durch eine vorhandene ersetzen, die aktuell mit einem Anzeigenset oder einer Anzeigengruppe verbunden ist? Aktivieren Sie das Kontrollkästchen &quot;Vorhandene Audience **ersetzen** &quot;. Dadurch wird die ersetzte Audience **nicht** gelöscht.
+   >Möchten Sie eine neue Audience durch eine vorhandene ersetzen, die aktuell mit einem Anzeigenset oder einer Anzeigengruppe verbunden ist? Aktivieren Sie das Kontrollkästchen **Vorhandene Audience ersetzen**. Dadurch wird **nicht** die ersetzte Audience gelöscht.
 
 1. Nach Abschluss des Vorgangs wird das Statusdialogfeld aktualisiert.
 
