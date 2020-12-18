@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Kategorien einrichten {#set-up-categories}
+# Einrichten von Kategorien {#set-up-categories}
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Erstellen Sie Kategorien in Predictive Content, um Ihre Prognoseergebnisse im Web oder per E-Mail zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Sie können damit auch die Ansicht Ihrer Seite suchen und filtern.  Kategorien werden auf den Seiten &quot;Gesamter Inhalt&quot;und &quot;Vorheriger Inhalt&quot;angezeigt.
 
@@ -41,15 +41,15 @@ So erstellen Sie Kategorien-Tags.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Vorhandene Kategorien-Tags werden angezeigt. Geben Sie ein neues Kategorien-Tag ein und klicken Sie auf Neu **erstellen**.
+1. Vorhandene Kategorien-Tags werden angezeigt. Geben Sie ein neues Kategorien-Tag ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Sie können ein Kategorien-Tag entfernen, indem Sie auf das **x** daneben klicken.
+1. Sie können ein Kategorien-Tag entfernen, indem Sie neben dem Tag auf **x** klicken.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Klicken Sie auf **Speichern** , wenn Sie fertig sind.
+1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/save-new.png)
 
