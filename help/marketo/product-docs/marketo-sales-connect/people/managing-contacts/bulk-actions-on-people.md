@@ -19,7 +19,7 @@ Der erste Schritt für alle verfügbaren Massenaktionen besteht darin, zwei oder
 
 ![](assets/one-3.png)
 
-## hinzufügen Personen gruppieren {#add-people-to-group}
+## hinzufügen Personen zu Gruppe {#add-people-to-group}
 
 hinzufügen mehrere Personen gleichzeitig zu einer Gruppe.
 
@@ -35,9 +35,9 @@ Wir weisen jedem Kontakt, der in die Datenbank gelangt, automatisch eine Quelle 
 >
 >Quellen können nicht angepasst werden.
 
-## Genehmigung {#authorization}
+## Autorisierung {#authorization}
 
-In Übereinstimmung mit [GDPR](http://eugdpr.org/), verwenden Sie die Autorisierung, um anzugeben, wie Sie die Erlaubnis erhalten haben, mit diesen Kontakten zu interagieren.
+Verwenden Sie in Übereinstimmung mit [GDPR](http://eugdpr.org/) die Autorisierung, um anzugeben, wie Sie die Berechtigung zum Kontakt mit diesen Kontakten erhalten haben.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,7 @@ Führen Sie eine Massenabmeldung bei Kontakten durch, die keine Korrespondenz me
 
 ## Löschen {#delete}
 
-Löschen Sie Kontakte stapelweise. Vollständige Schritte finden Sie [hier](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Löschen Sie Kontakte stapelweise. Die vollständigen Schritte finden Sie [hier](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
 
 ![](assets/delete.png)
 
