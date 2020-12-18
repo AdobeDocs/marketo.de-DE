@@ -25,11 +25,11 @@ Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten könne
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Gehen Sie bei der Web-Personalisierung zu **Web-Kampagnen**.
+1. Wechseln Sie in Web-Personalisierung zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Klicken Sie auf Neue Kampagne **erstellen**.
+1. Klicken Sie auf **Neue Kampagne erstellen**.
 
    ** ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -44,13 +44,13 @@ Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten könne
    ![](assets/six-1.png)
 
 1. Das Formular wird nicht in der Editor-Ansicht angezeigt, Sie können es jedoch auch so Vorschauen vornehmen, dass es in einer Kampagne wiedergegeben wird.
-1. Klicken Sie auf **Starten** , um die Kampagne Beginn.
+1. Klicken Sie auf **Launch**, um die Kampagne Beginn.
 
    >[!NOTE]
    >
    >Änderungen an den Formularfeldern müssen in den Marketing-Aktivitäten von Marketo unter Formularentwurf bearbeiten vorgenommen werden.
 
-## Drei Methoden zum Hinzufügen eines Hintergrundbilds in einem Formular {#three-ways-to-add-a-background-image-to-a-form}
+## Drei Methoden zum Hinzufügen eines Hintergrundbilds zu einem Formular {#three-ways-to-add-a-background-image-to-a-form}
 
 Um ein Hintergrundbild zu Ihrem Formular hinzuzufügen, können Sie:
 
@@ -80,7 +80,7 @@ So fügen Sie dem Skript CSS-Code hinzu:
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Klicken Sie auf **Vorschau** , um zu sehen, wie es in einer Kampagne wiedergegeben wird (das Formular wird nicht in der Editor-Ansicht angezeigt). Hier ein Beispiel, wie der oben aufgeführte Formularcode in einer Kampagne mit einem Hintergrundbild wiedergegeben wird.
+1. Klicken Sie auf **Vorschau**, um zu sehen, wie es in einer Kampagne dargestellt wird (das Formular wird nicht in der Editor-Ansicht angezeigt). Hier ein Beispiel, wie der oben aufgeführte Formularcode in einer Kampagne mit einem Hintergrundbild wiedergegeben wird.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
