@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Der Analyse-Bereich für Programm-Chancen {#understanding-the-program-opportunity-analysis-area}
+# Die Analyse des Programm-Opportunity-Bereichs {#understanding-the-program-opportunity-analysis-area}
 
 ## Übersicht {#overview}
 
@@ -35,7 +35,7 @@ Welche Möglichkeiten hat ein bestimmtes Programm beeinflusst?
 
 ![](assets/four-1.png)
 
-## Maßnahmen zur Zuteilung von Programm-Analysen (Blaue Punkte) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Programm Opportunity Analyse Attribution Measures (Blue Dots) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
 Für Sie verfügbare Maßnahmen zur Verwendung in der Analyse sind im Allgemeinen Zahlen und werden durch blaue Punkte dargestellt. Dimensionen sind Attribute, die unterschiedliche Ansichten der Maßnahmen geben und durch gelbe Punkte dargestellt werden.
 
@@ -120,7 +120,7 @@ Nachfolgend finden Sie ein Szenario, in dem beschrieben wird, wie Opportunity-Ei
 
 Marketo gibt Gutschriften angemessen, ohne Dubletten zählen Chancen über Programme hinweg. In diesem Fall erhält jedes Programm 0,5 Opportunity Units. Das heißt, jedes Programm erhält die Hälfte der Gutschrift für die generierte Gelegenheit. Außerdem wird jedem Programm die Hälfte des mit der Gelegenheit verbundenen Umsatzes zugewiesen.
 
-## Verschiedene Maßnahmen im Zusammenhang mit Programmen {#miscellaneous-program-related-measures}
+## Verschiedene Programm-bezogene Maßnahmen {#miscellaneous-program-related-measures}
 
 Die anderen verfügbaren Maßnahmen spiegeln die Gesamtleistung des Programms wider.
 
@@ -157,7 +157,7 @@ Die anderen verfügbaren Maßnahmen spiegeln die Gesamtleistung des Programms wi
  </tbody> 
 </table>
 
-## Dimensionen zur Analyse von Programmen (Gelbe Punkte) {#program-opportunity-analysis-dimensions-yellow-dots}
+## Dimensionen zur Analyse von Programmen (gelbe Punkte) {#program-opportunity-analysis-dimensions-yellow-dots}
 
 Während Maßnahmen (blaue Punkte) berechnet werden und Überlegungen und Erläuterungen erfordern, sind Dimensionen (gelbe Punkte) beschreibend. Hier sind die verfügbaren Dimensionen.
 
@@ -169,15 +169,15 @@ Während Maßnahmen (blaue Punkte) berechnet werden und Überlegungen und Erläu
   </tr> 
   <tr> 
    <td>Opportunity-Attribute</td> 
-   <td><p>Opportunity<br>ClosedOpportunity Name*<br>Opportunity Owner<br>NameOpportunity<br>StageOpportunity Type</p></td> 
+   <td><p>Chancen geschlossen<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</p></td> 
   </tr> 
   <tr> 
    <td>Opportunity-Zeitrahmen</td> 
-   <td><p>Geschlossene Chance - Jahr/Quartal/<br>MonatErstellte Chance - Jahr/Quartal/Monat</p></td> 
+   <td><p>Geschlossene Chance - Jahr/Quartal/Monat<br>Erschaffene Chance - Jahr/Quartal/Monat</p></td> 
   </tr> 
   <tr> 
    <td>Programm-Attribute</td> 
-   <td><p>Programm<br>ChannelProgram Name</p></td> 
+   <td><p>Programm-Kanal<br>Programm-Name</p></td> 
   </tr> 
   <tr> 
    <td>Zeitrahmen für die Programm-Kosten</td> 
