@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Analytics-Verhalten auf Programm-Ebene außer Kraft setzen {#override-analytics-behavior-at-the-program-level}
+# Analytics-Verhalten auf Programm-Ebene {#override-analytics-behavior-at-the-program-level} außer Kraft setzen
 
-Sie können das [Analyseverhalten auf Admin-Ebene auf Kanälen](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) festlegen, Sie können es aber auch auf Programm-Ebene überschreiben. So:
+Sie können das Analyseverhalten auf Admin-Ebene für Kanal[ festlegen, es kann aber auch auf Programm-Ebene außer Kraft gesetzt werden. ](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) So:
 
 1. Gehen Sie zum Bereich Marketing-Aktivitäten.
 
@@ -34,12 +34,12 @@ Sie können das [Analyseverhalten auf Admin-Ebene auf Kanälen](make-a-program-w
    >**Definition**
    >
    >* **Inklusiv** : Mit dieser Option wird sichergestellt, dass das Programm für den Berichte in Umsatz-Explorer und -Analyzern verfügbar ist, unabhängig davon, ob Sie eine Periodenkosten enthalten haben oder nicht.
-   >* **Operativ** - Diese Option führt dazu, dass das Programm weder im Umsatz-Explorer noch in Analyzern angezeigt wird.
+   >* **Operational**  - Diese Option führt dazu, dass das Programm weder in Umsatz- noch in Analyzern angezeigt wird.
 
 
    >[!NOTE]
    >
-   >Das Standardverhalten (falls diese Einstellung nicht angewendet wird) ist, dass das Programm **NUR dann in Analytics enthalten ist, wenn mindestens ein Periodenkosten** anfallen, selbst wenn 0 Dollar zugewiesen wurden.
+   >Das Standardverhalten (sofern diese Einstellung nicht angewendet wird) ist das Programm, das nur dann in Analytics **einbezogen wird, wenn mindestens ein Periodenkosten**, auch wenn 0 Dollar zugewiesen sind, vorhanden ist.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
