@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sprache der Formularüberprüfung/Fehlermeldungen und Senden-Schaltfläche ändern {#change-the-language-of-form-validation-error-messages-and-submit-button}
+# Sprache der Formularüberprüfung/Fehlermeldungen und Senden-Schaltfläche {#change-the-language-of-form-validation-error-messages-and-submit-button} ändern
 
 Wussten Sie, dass Sie das Formular anpassen können, um Nachrichten in einer anderen Sprache zu senden? Schau dir das an.
 
@@ -19,27 +19,27 @@ Wussten Sie, dass Sie das Formular anpassen können, um Nachrichten in einer and
 >
 >Dadurch wird auch die Sprache der Senden-Schaltfläche geändert.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf Formular **bearbeiten.**
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten.**
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. Klicken Sie unter **Formulareinstellungen auf** **Einstellungen**.
+1. Klicken Sie unter **Formulareinstellungen** auf **Einstellungen**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Wählen Sie die gewünschte **Fehlersprache** **aus** .
+1. Wählen Sie **Fehler** **Sprache** aus, die Sie benötigen.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen** , um Änderungen anzuwenden und zu speichern.
+1. Klicken Sie auf **Genehmigen und Schließen**, um Änderungen anzuwenden und zu speichern.
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ Wussten Sie, dass Sie das Formular anpassen können, um Nachrichten in einer and
    >**Erinnerung**
    >
    >
-   >Denken Sie daran, den mit den Formularänderungen erstellten Entwurf der Landingpage [zu](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) genehmigen.
+   >Denken Sie daran, den mit den Formularänderungen erstellten Entwurf der Landingpage [zu genehmigen.](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
