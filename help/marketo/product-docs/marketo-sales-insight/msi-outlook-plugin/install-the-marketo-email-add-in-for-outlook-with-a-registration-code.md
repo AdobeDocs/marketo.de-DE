@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Installieren Sie das Hinzufügen-in für Outlook mit einem Registrierungscode. {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installieren Sie das Hinzufügen-in für Outlook mit einem Registrierungscode {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Wenn Benutzer auf die Administrationseinstellungen auf ihren Laptops zugreifen können, können Sie einen Registrierungscode direkt an sie senden.
 
@@ -19,7 +19,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
 >[!PREREQUISITES]
 >
->* Sie müssen eine Marketing E-Mail-Hinzufügen-Lizenz [](issue-a-marketo-email-add-in-license.md)erhalten.
+>* Sie müssen [eine Hinzufügen-in-Lizenz von ](issue-a-marketo-email-add-in-license.md) erhalten haben.
 
 >
 
@@ -27,7 +27,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
 ## Installationsprogramm herunterladen {#download-installer}
 
-1. Identifizieren Sie Ihre [Microsoft Outlook-Version.](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifizieren Sie die [Microsoft Outlook-Version](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Klicken Sie auf den Link, um das Installationsprogramm herunterzuladen, das für Ihre Version von Microsoft Outlook geeignet ist.
 
    >[!NOTE]
@@ -47,7 +47,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
    | Outlook für Mac | Nicht unterstützt | Nicht unterstützt |
    | Outlook-Webanwendung | Nicht unterstützt | Nicht unterstützt |
 
-## Registrierungscode kopieren {#copy-your-registration-code}
+## Kopieren Sie Ihren Registrierungscode {#copy-your-registration-code}
 
 1. Kopieren Sie den Registrierungscode aus der Einladungs-E-Mail, die Sie erhalten haben.
 
@@ -57,7 +57,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## Installieren {#install}
+## {#install} installieren
 
 1. Führen Sie das Installationsprogramm aus.
 
@@ -71,7 +71,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Füllen Sie **Vorname**, **Nachname**, **E-Mail-Adresse**, kopieren Sie den **Registrierungscode **aus der E-Mail in das Formular und klicken Sie auf **Weiter**.
+1. Füllen Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und kopieren Sie dann den **Registrierungscode **aus der E-Mail in das Formular und klicken Sie auf **Weiter**.
 
    ![](assets/enter-your-information-hands.png)
 
