@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Änderungen an Ihren bestehenden Segmenten sind einfach. Hier ist der Tiefpunkt.
 
-## Segmententwurf erstellen {#create-a-segmentation-draft}
+## Erstellen eines Segmentierungsentwurfs {#create-a-segmentation-draft}
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/db.png)
 
-1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann auf Entwurf **erstellen**.
+1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann auf **Entwurf erstellen**.
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-## Segmente Hinzufügen, bearbeiten oder löschen {#add-edit-or-delete-segments}
+## hinzufügen, Bearbeiten oder Löschen von Segmenten {#add-edit-or-delete-segments}
 
-1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann auf Segmente **bearbeiten**.
+1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann auf **Segmente bearbeiten**.
 
    ![](assets/four.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Das Löschen wirkt sich auf alle verknüpften dynamischen Inhalte in E-Mails, Landingpages und Snippets aus. **Es gibt kein Rückgängigmachen**. Überprüfen Sie auf der Registerkarte &quot; **Verwendet von** &quot;, welche Anwendungen dieses Segment verwendet.
+   >Das Löschen wirkt sich auf alle verknüpften dynamischen Inhalte in E-Mails, Landingpages und Snippets aus. **Es gibt kein Rückgängigmachen**. Markieren Sie die Registerkarte **Verwendet von**, um zu sehen, was dieses Segment verwendet.
 
 ## Segmentregeln bearbeiten {#edit-segment-rules}
 
-1. Gehen Sie im **Segmententwurf** zur **intelligenten Liste**. Wenden Sie Regeln ähnlich wie [Segmentregeln](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)an.
+1. Gehen Sie im Entwurf **Segment** zu **Intelligente Liste**. Wenden Sie Regeln ähnlich wie [Definieren von Segmentregeln](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules) an.
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
