@@ -21,7 +21,7 @@ Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-1. Navigieren Sie zu Ihrer Freiform-Landingpage und klicken Sie auf Entwurf **bearbeiten**.
+1. Navigieren Sie zu Ihrer Freiform-Landingpage und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
@@ -29,25 +29,25 @@ Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. Wählen Sie Neu **erstellen** aus dem Dropdownmenü.
+1. Wählen Sie **Neu erstellen** aus dem Dropdown-Menü.
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >Die Funktion **&quot;Neu** erstellen&quot;wird nur in den Marketing-Aktivitäten angezeigt. es ist in Design Studio nicht verfügbar. In Design Studio sind nur bereits erstellte Videos verfügbar. Sie können jedoch eine Videofreigabe *in einem Programm* erstellen, indem Sie &quot; **Neu** &quot;> &quot; **Neues lokales Asset&quot;wählen.** Sie können es dann aus der Dropdown-Liste auswählen, wie hier gezeigt.
+   >Die Funktion **Neu erstellen** wird nur in den Marketing-Aktivitäten angezeigt. es ist in Design Studio nicht verfügbar. In Design Studio sind nur bereits erstellte Videos verfügbar. Sie können jedoch eine Videofreigabe *in einem Programm* erstellen, indem Sie **Neu** > **Neues lokales Asset auswählen.** Sie können es dann aus der Dropdown-Liste auswählen, wie hier gezeigt.
 
-1. Geben Sie die URL des YouTube-Videos ein und geben Sie dem Video einen Namen. Wählen Sie unter der Dropdownliste Klonen von die Option **Ohne und** klicken Sie dann auf **Einfügen.**
+1. Geben Sie die URL des YouTube-Videos ein und geben Sie dem Video einen Namen. Wählen Sie unter der Dropdownliste Klonen von **Keine,** und klicken Sie dann auf **Einfügen.**
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->Um Zeit zu sparen, können Sie mit der Option &quot; **Klonen von** &quot;alle Einstellungen einer vorhandenen Videofreigabe kopieren.
+>Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einer vorhandenen Videofreigabe kopieren.
 
-Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können die Landingpage auch auf Facebook [](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) veröffentlichen oder die [Videofreigabe auf Ihre Website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)übertragen.
+Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können die Landingpage auch unter [auf Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [veröffentlichen und die Videofreigabe auf Ihre Website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md) setzen.
 
 >[!MORELIKETHIS]
 >
->Sie sind fertig, aber Sie können bei Bedarf die Einstellungen für Ihre Videofreigabe ändern. Beginn mit der [Anpassung des Freigabeflusses](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Freigabeaufforderung geöffnet wird).
+>Sie sind fertig, aber Sie können bei Bedarf die Einstellungen für Ihre Videofreigabe ändern. Beginn mit [Anpassen des Share-Flusses](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Freigabeaufforderung geöffnet wird).
 
