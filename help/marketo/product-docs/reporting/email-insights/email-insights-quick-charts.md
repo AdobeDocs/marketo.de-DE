@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail-Einblicke - Schnelldiagramme {#email-insights-quick-charts}
+# Email Insights Quick Charts {#email-insights-quick-charts}
 
 Quick Charts sind Miniaturansichten, die Sie anpassen und speichern, und bieten eine schnelle Ansicht von Diagrammen, die Sie am häufigsten verwenden.
 
@@ -27,7 +27,7 @@ In diesem Beispiel wählen wir den offenen Tarif für die ersten drei Wochen des
 
    ![](assets/two-2.png)
 
-1. Wenn Sie Ihren Datumsbereich ausgewählt haben, klicken Sie auf **Übernehmen**.
+1. Wenn Sie Ihren Datumsbereich ausgewählt haben, klicken Sie auf **Apply**.
 
    ![](assets/three-2.png)
 
@@ -43,7 +43,7 @@ In diesem Beispiel wählen wir den offenen Tarif für die ersten drei Wochen des
 
    ![](assets/six.png)
 
-1. Benennen Sie Ihr QuickChart und klicken Sie auf **Speichern**.
+1. Benennen Sie Ihr Quick Chart und klicken Sie auf **Speichern**.
 
    ![](assets/seven.png)
 
@@ -61,15 +61,15 @@ In diesem Beispiel wählen wir den offenen Tarif für die ersten drei Wochen des
    >
    >Zum Verschieben eines Schnelldiagramms klicken Sie einfach auf das Diagramm und ziehen es an die gewünschte Position.
 
-## Schnelldiagramm löschen {#delete-a-quick-chart}
+## Schnelldiagramm {#delete-a-quick-chart} löschen
 
 Möchten Sie eine Ihrer Quick Charts löschen? Es ist einfach!
 
-1. Klicken Sie auf das Symbol **Schnelldiagramme** .
+1. Klicken Sie auf das Symbol **Schnelldiagramme**.
 
    ![](assets/nine.png)
 
-1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, aber klicken Sie nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf das **X**.
+1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, aber klicken Sie nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf **X**.
 
    ![](assets/ten.png)
 
