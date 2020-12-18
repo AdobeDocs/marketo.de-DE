@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mails werden zu Spam {#emails-going-to-spam}
+# E-Mails an Spam {#emails-going-to-spam}
 
 Wir arbeiten sehr hart, um sicherzustellen, dass unsere Lieferquoten hoch bleiben. Dennoch gibt es bestimmte Benutzerverhalten, mit denen E-Mails an den Spam-Ordner weitergeleitet werden können.
 
