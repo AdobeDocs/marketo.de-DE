@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Snippet ohne Entwurf genehmigen {#approve-a-snippet-with-no-draft}
 
-## Snippet genehmigen {#approve-the-snippet}
+## Snippet {#approve-the-snippet} genehmigen
 
 &quot;Kein Entwurf&quot;wird jedes Mal ausgelöst, wenn ein Snippet genehmigt wird. Dazu gehört ein Snippet, das von Assets in anderen Arbeitsbereichen freigegeben oder referenziert wird.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/go-to-design-studio.png)
 
-1. Wählen Sie ein Snippet aus und wählen Sie in der Dropdown-Liste &quot; **Snippet-Aktionen** &quot;die Option &quot; **Genehmigen**&quot;.
+1. Wählen Sie ein Snippet aus und wählen Sie in der Dropdownliste **Snippet-Aktionen** **Genehmigen**.
 
    ![](assets/approve-snippet.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Mit dieser Funktion sparen Sie Zeit mit dem Arbeitsablauf für die Segmentgenehmigung. Es gibt jedoch einige Einschränkungen, die man beachten muss. Weitere Informationen finden Sie in [diesem Dokument](https://nation.marketo.com/docs/DOC-4415) . Das Dokument enthält außerdem Informationen zur Fehlerbearbeitung und Fehlerbehebung.
+>Mit dieser Funktion sparen Sie Zeit mit dem Arbeitsablauf für die Segmentgenehmigung. Es gibt jedoch einige Einschränkungen, die man beachten muss. Weitere Informationen finden Sie in [diesem Dokument](https://nation.marketo.com/docs/DOC-4415). Das Dokument enthält außerdem Informationen zur Fehlerbearbeitung und Fehlerbehebung.
 
 >[!MORELIKETHIS]
 >
