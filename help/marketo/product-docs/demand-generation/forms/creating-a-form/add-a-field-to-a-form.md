@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # hinzufügen eines Felds in ein Formular {#add-a-field-to-a-form}
 
-Nachdem Sie Ihr Formular [](create-a-form.md) erstellt und ein Design [](select-a-form-theme.md)ausgewählt haben, können Sie weitere Felder hinzufügen, die ausgefüllt werden sollen. So geht es.
+Nachdem Sie [Ihr Formular ](create-a-form.md) erstellt und [ein Design](select-a-form-theme.md) ausgewählt haben, können Sie weitere Felder hinzufügen, die ausgefüllt werden sollen. So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/editform-1.png)
 
-1. Klicken Sie auf das **+** -Zeichen.
+1. Klicken Sie auf das Symbol **+**.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,7 +35,7 @@ Nachdem Sie Ihr Formular [](create-a-form.md) erstellt und ein Design [](select-
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. hinzufügen Sie so viele Felder, wie Sie benötigen, und klicken Sie auf **Fertig stellen**.
+1. hinzufügen Sie so viele Felder, wie Sie benötigen, und klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
@@ -49,4 +49,4 @@ Nachdem Sie Ihr Formular [](create-a-form.md) erstellt und ein Design [](select-
 >
 >Achten Sie darauf, alle aufgrund der Formularänderungen erstellten Entwürfe der Landingpage zu genehmigen.
 
-Nicht schlecht. Halte die gute Arbeit! Wie wäre es, wenn wir lernen, wie wir ein Formularfeld als Nächstes [erforderlich](make-a-form-field-required.md) machen?
+Nicht schlecht. Halte die gute Arbeit! Wie wäre es mit [einem Formularfeld als Nächstes ein Pflichtfeld zu geben?](make-a-form-field-required.md)
