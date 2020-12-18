@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mobile App löschen {#delete-mobile-app}
+# Mobile App {#delete-mobile-app} löschen
 
 1. Klicken Sie auf Admin.
 
