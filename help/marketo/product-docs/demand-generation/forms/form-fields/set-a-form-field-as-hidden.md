@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Formularfelder als ausgeblendet festlegen {#set-a-form-field-as-hidden}
+# Formularfelder als ausgeblendet {#set-a-form-field-as-hidden} festlegen
 
 Ausgeblendete Formularfelder können ohne Eingabe des Besuchers automatisch Daten erfassen. So funktioniert es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Wählen Sie das Feld aus und legen Sie als **Feldtyp** den **Wert** &quot; **Ausgeblendet&quot;fest.**
+1. Wählen Sie das Feld aus und setzen Sie das Feld **Feld** **Typ** auf **Ausgeblendet.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
