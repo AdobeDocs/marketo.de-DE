@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Erstellen einer Follow-up-E-Mail {#create-a-follow-up-email}
 
-Mit der Funktion &quot; [Kampagnen](http://docs.marketo.com/display/TEST/Campaigns) &quot;von Sales Connect können Sie einfach eine Follow-up-E-Mail erstellen.
+Mit der Funktion [Kampagnen](http://docs.marketo.com/display/TEST/Campaigns) von Sales Connect können Sie eine Follow-up-E-Mail erstellen.
 
-Markieren Sie in der Kampagne auf der Registerkarte &quot; **Einrichten** &quot;das Kästchen, um eine E-Mail als Folgemaßnahme zu erstellen. Dadurch wird Ihre vorherige E-Mail automatisch in die nächste E-Mail in der Kampagne eingefügt.
+Markieren Sie im Register **Einrichten** Ihrer Kampagne das Kästchen, um eine E-Mail als Folgemaßnahme zu erstellen, die Ihre vorherige E-Mail automatisch in die nächste E-Mail in der Kampagne einfügt.
 
