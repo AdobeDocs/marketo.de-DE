@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Verwenden von Vibes-SMS-Nachrichten in Auslösern und Filtern mit intelligenter Liste {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Nachdem Sie eine Vibes-SMS-Nachricht [](create-a-vibes-sms-message.md)erstellt haben, sollten Sie intelligente Liste-Trigger und Filter innerhalb einer intelligenten Kampagne verwenden, um die Vorteile zu nutzen. So geht es.
+Nachdem Sie [eine Vibes-SMS-Nachricht ](create-a-vibes-sms-message.md) erstellt haben, sollten Sie intelligente Liste-Trigger und Filter in einer intelligenten Kampagne verwenden, um die Vorteile zu erhalten. So geht es.
 
-1. Klicken Sie in &quot;Mein Marketing&quot;auf **Marketing-Aktivitäten**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Marketing-Aktivitäten**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
@@ -45,19 +45,19 @@ Der** Click Link in SMS Message** Auslöser initiiert einen Fluss, wenn eine Per
 
 ## SMS-Filter {#sms-filters}
 
-Sie können auch Vibes-Filter in intelligenten Listen verwenden. Der Filter &quot; **Abonniert Vibes Liste** &quot;findet jeden, der *jemals* Vibes abonniert hat. Dies umfasst sowohl abonnierte als auch gelöschte Personen, auch wenn gelöschte Personen aus dem Fluss ausgelassen werden. Dieser Filter eignet sich am besten zum Berichte.
+Sie können auch Vibes-Filter in intelligenten Listen verwenden. Der Filter **Abonniert bei der Vibes-Liste** findet jeden, der *jemals* abonniert hat. Dies umfasst sowohl abonnierte als auch gelöschte Personen, auch wenn gelöschte Personen aus dem Fluss ausgelassen werden. Dieser Filter eignet sich am besten zum Berichte.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Der **Member of Vibes Liste **filter** **findet** dagegen **jemanden** ***derzeit* abonniert Vibes und eignet sich am besten für die Verwendung in intelligenten Kampagnen oder Listen.
+Im Gegensatz dazu hat das **Member of Vibes Liste **filter** **findet** **jedermann** ***zurzeit* Vibes abonniert und eignet sich am besten für die Verwendung in Smart-Kampagnen oder -Listen.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Alle SMS-Filter enthalten standardmäßig die Beschränkung **auf das Datum der Aktivität** .
+>Alle SMS-Filter enthalten standardmäßig die Beschränkung **Datum der Aktivität**.
 
-Nachdem Sie die Vibes-Auslöser und -Filter in Ihrer intelligenten Liste eingerichtet haben, können Sie den Fluss [definieren](add-a-flow-step-for-sms.md).
+Nachdem Sie die Vibes-Auslöser und -Filter in Ihrer intelligenten Liste eingerichtet haben, können Sie [den Fluss](add-a-flow-step-for-sms.md) definieren.
 
 >[!MORELIKETHIS]
 >
