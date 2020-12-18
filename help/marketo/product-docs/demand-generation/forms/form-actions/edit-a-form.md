@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Formular bearbeiten {#edit-a-form}
+# Bearbeiten eines Formulars {#edit-a-form}
 
 Wenn Sie Änderungen an einem vorhandenen Formular vornehmen möchten, erfahren Sie hier, wie Sie den Prozess starten.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/editform.png)
 
