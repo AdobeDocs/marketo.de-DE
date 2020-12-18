@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Ihr Verkaufsteam kann E-Mails senden und sie für das Öffnen und Klicks direkt von Microsoft Dynamics nachverfolgen lassen. So geht es.
 
-1. In Dynamics gehen Sie zum **Verkaufsbereich** .
+1. Gehen Sie in Dynamics zum Bereich **Sales**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Wählen Sie eine **System-Ansicht**.
+1. Wählen Sie eine **Ansicht des Systems**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,19 +27,19 @@ Ihr Verkaufsteam kann E-Mails senden und sie für das Öffnen und Klicks direkt 
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Klicken Sie auf **...** und klicken Sie dann auf **E-Mail** senden.
+1. Klicken Sie auf **...** und klicken Sie dann auf **E-Mail senden**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >Sie können E-Mails als Vorlagen [für Ihr Vertriebsteam](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) veröffentlichen.
+   >Sie können [E-Mails als Vorlagen](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) veröffentlichen, damit Ihr Vertriebsteam sie verwenden kann.
 
-1. hinzufügen Sie einen Betreff, erstellen Sie Ihre E-Mail und klicken Sie auf E-Mail **senden**. (Wählen Sie eine Vorlage aus, wenn Sie eine benötigen.)
+1. hinzufügen Sie einen Betreff, erstellen Sie Ihre E-Mail und klicken Sie auf **E-Mail senden**. (Wählen Sie eine Vorlage aus, wenn Sie eine benötigen.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   Sie können zuerst auf Test-E-Mail **** senden klicken und die E-Mail wird Ihnen (primäre E-Mail-Adresse in Microsoft Dynamics) gesendet, bevor Sie die eigentliche E-Mail senden.
+   Sie können zuerst auf **Test Email** senden klicken und die E-Mail wird Ihnen (primäre E-Mail-Adresse in Microsoft Dynamics) gesendet, bevor Sie die eigentliche E-Mail senden.
 
 Gut gemacht! Jetzt wissen Sie, wie Sie Marketo nachverfolgte E-Mails direkt aus Microsoft Dynamics senden können.
 
