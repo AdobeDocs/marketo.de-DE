@@ -23,13 +23,13 @@ Beziehen Sie Menschen mit einer Umfrage, in der sie wählen können, und teilen 
 
 >[!PREREQUISITES]
 >
->Wenn Sie Bilder in Ihrer Umfrage verwenden möchten, fügen Sie sie Ihrer Bibliothek &quot;Marketo-Bilder und -Dateien&quot;vor dem Start hinzu. hinzufügen ein Bild im Format 60 x 60 Pixel für jeden Umfrageeintrag. Siehe [Hinzufügen Bilder und zu markierende Dateien](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Wenn Sie Bilder in Ihrer Umfrage verwenden möchten, fügen Sie sie Ihrer Bibliothek &quot;Marketo-Bilder und -Dateien&quot;vor dem Start hinzu. hinzufügen ein Bild im Format 60 x 60 Pixel für jeden Umfrageeintrag. Siehe [Hinzufügen Bilder und Dateien zu Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Wählen Sie im Programm **Neu** > **Neues lokales Asset.**
+1. Wählen Sie im Programm **Neu** > **Neues lokales Element.**
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Klicken Sie in der **lokalen Asset-Galerie auf** &quot; **Umfrage&quot;.**
+1. Klicken Sie in der **Lokale Asset-Galerie** auf **Umfrage**
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -39,7 +39,7 @@ Beziehen Sie Menschen mit einer Umfrage, in der sie wählen können, und teilen 
 
    >[!TIP]
    >
-   >Um Zeit zu sparen, können Sie mit der Option &quot; **Klonen von** &quot;alle Einstellungen einer vorhandenen Videofreigabe kopieren.
+   >Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einer vorhandenen Videofreigabe kopieren.
 
 1. Geben Sie Ihrer Umfrage eine Überschrift (normalerweise eine kurze Frage).
 
@@ -73,7 +73,7 @@ Der Umfrageeditor wird in einem neuen Fenster geöffnet. Die Standardeinstellung
 
 >[!TIP]
 >
->Um die Standardwerte in Ihrer Umfrage zu ändern, klicken Sie auf **Zurück**. Klicken Sie auf **Schließen**, um Ihre Arbeit später ohne Genehmigung zu speichern.
+>Um die Standardwerte in Ihrer Umfrage zu ändern, klicken Sie auf **Zurück**. Um Ihre Arbeit für später ohne Genehmigung zu speichern, klicken Sie auf **Schließen**.
 
 Wenn Probleme in der Umfrage auftreten, werden Sie aufgefordert, diese zu beheben, bevor die Umfrage genehmigt wird. Herzlichen Glückwunsch! Sie haben Ihre Umfrage erstellt.
 
@@ -81,5 +81,5 @@ Wenn Probleme in der Umfrage auftreten, werden Sie aufgefordert, diese zu behebe
 >
 >**Verwandte Artikel**
 >
->Der nächste Schritt besteht darin, Ihre Umfrage zu [veröffentlichen](publish-a-poll.md), Sie können aber bei Bedarf die Einstellungen Ihrer Umfrage ändern. Beginn mit [Anpassen der Umfrageeinstellungen](customize-poll-settings.md).
+>Der nächste Schritt ist [Veröffentlichen Sie Ihre Umfrage](publish-a-poll.md), aber Sie können die Einstellungen Ihrer Umfrage bei Bedarf ändern. Beginn mit [Anpassen der Umfrageeinstellungen](customize-poll-settings.md).
 
