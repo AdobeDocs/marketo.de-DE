@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hier wählen Sie die Bilder für In-App-Nachrichten aus und passen sie an.
 
-1. Wählen Sie die In-App-Nachricht aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie die In-App-Nachricht aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -23,19 +23,19 @@ Hier wählen Sie die Bilder für In-App-Nachrichten aus und passen sie an.
 
    >[!TIP]
    >
-   >Was ist der Unterschied zwischen den Vorlagen? Siehe [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) , bevor Sie beginnen.
+   >Was ist der Unterschied zwischen den Vorlagen? Siehe [Wählen Sie ein Layout für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md), bevor Sie beginnen.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Klicken Sie auf die Registerkarte &quot; **Stil** &quot;und dann auf den Bildbereich der Vorlage.
+1. Klicken Sie auf die Registerkarte **Stil** und dann auf den Bildbereich der Vorlage.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Klicken Sie auf Bild **auswählen**.
+1. Klicken Sie auf **Bild** auswählen.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Wählen Sie das Bild aus dem Design Studio und klicken Sie auf **Auswählen**.
+1. Wählen Sie Ihr Bild aus dem Design Studio und klicken Sie auf **Wählen Sie**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,7 +43,7 @@ Hier wählen Sie die Bilder für In-App-Nachrichten aus und passen sie an.
    >
    >Die Bildgröße ist auf 1440 x 2560 Pixel und 5 MB begrenzt.
 
-1. Verändere deine Meinung und möchte ein anderes Bild verwenden? Kein Problem. Klicken Sie auf das **X** neben dem Bilddateinamen.
+1. Verändere deine Meinung und möchte ein anderes Bild verwenden? Kein Problem. Klicken Sie auf **X** neben dem Bilddateinamen.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
@@ -67,7 +67,7 @@ Hier wählen Sie die Bilder für In-App-Nachrichten aus und passen sie an.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Wählen Sie einen Rand aus (ein oder aus). **&quot;Ein** &quot;ist die Standardeinstellung.
+1. Wählen Sie einen Rand aus (ein oder aus). **Dies ist** die Standardeinstellung.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +85,9 @@ Hier wählen Sie die Bilder für In-App-Nachrichten aus und passen sie an.
 
    >[!NOTE]
    >
-   >Für Tippen-Aktionen für Bilder, Schaltflächen oder Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich behandelt. Wenn Ihre Nachricht nur zu einer Plattform oder zur anderen führt, lassen Sie die andere Plattform in der Standardeinstellung oder wählen Sie &quot; **Keine**&quot;aus.
+   >Für Tippen-Aktionen für Bilder, Schaltflächen oder Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich behandelt. Wenn Ihre Nachricht nur zu einer Plattform oder zur anderen führt, lassen Sie die andere in der Standardeinstellung oder wählen Sie **Keine**.
 
-Gute Arbeit! Jetzt ist es an der Zeit, den Text für Ihre In-App-Nachricht zu [erstellen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+Gute Arbeit! Jetzt ist es an der Zeit, [den Text für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md) zu erstellen.
 
 >[!MORELIKETHIS]
 >
