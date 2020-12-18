@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlagen für geführte Landingpages {#guided-landing-page-templates}
 
-Durchsuchen Sie unsere Beispielvorlagen zur Verwendung mit dem Editor für [geführte Landingpages](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage reagiert vollständig und basiert auf dem Bootstrap-Framework.
+Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Guided Landingpage Editor](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage reagiert vollständig und basiert auf dem Bootstrap-Framework.
 
 >[!NOTE]
 >
@@ -24,10 +24,10 @@ So importieren Sie eine Vorlage in Marketing:
 1. Klicken Sie auf den Namen der Vorlage für eine größere Ansicht.
 1. Laden Sie die ausgewählte Vorlage herunter.
 1. Navigieren Sie in Marketo zum **Design Studio.**
-1. Klicken Sie auf **Landingpages** in der linken Baumstruktur und wählen Sie dann **Vorlagen.**
+1. Klicken Sie auf **Landingpages** in der linken Struktur und wählen Sie **Vorlagen.**
 
 1. Klicken Sie in der Menüleiste auf **Importvorlage.**
-1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie dann auf **Importieren** . (Achten Sie darauf, einen beschreibenden Namen auszuwählen und anzugeben, dass der Bearbeitungsmodus **Guided** ist.)
+1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie dann auf **Import**. (Achten Sie darauf, einen beschreibenden Namen auszuwählen und anzugeben, dass der Bearbeitungsmodus **Guided** lautet.)
 
 |  |  |  |
 |---|---|---|
