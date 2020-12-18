@@ -19,15 +19,15 @@ Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. So 
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie unter **Admin auf** **Landingpages**.
+1. Klicken Sie unter **Admin,** auf **Landingpages**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klicken Sie auf die Registerkarte **Regeln** und dann auf **Neue **und **Neue Umleitungsregel**.
+1. Klicken Sie auf die Registerkarte **Regeln** und dann auf **Neu **und **Neue Umleitungsregel**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Klicken Sie auf die erste Dropdown-Liste &quot; **Ursprüngliche URL** &quot;und wählen Sie Ihren Marketing-CNAME aus.
+1. Klicken Sie auf die erste Dropdown-Liste **Ursprüngliche URL** und wählen Sie Ihren Marker-CNAME aus.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -36,17 +36,17 @@ Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. So 
    >**Erinnerung**
    >
    >
-   >Denken Sie daran, dass Sie nur URLs umleiten können, die dieser Beginn mit Ihrem Marketing- [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)enthält.
+   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Beginn zu [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) umgeleitet werden.
 
-1. Geben Sie den URL-Pfad (oder eine bestimmte Seite), den Sie umleiten möchten, in das zweite Feld &quot; **Ursprüngliche URL** &quot;auf der rechten Seite ein.
+1. Geben Sie den URL-Pfad (oder eine bestimmte Seite), den Sie umleiten möchten, im zweiten Feld **Ursprüngliche URL** rechts ein.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Klicken Sie auf Nicht-Markieren-Landingpage **** verwenden, geben Sie die Seite, zu der Sie Besucher umleiten möchten, in das Feld **Umleitungs-URL** ein und klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **Nicht marketo-Landingpage** verwenden, geben Sie die Seite, zu der Sie Besucher umleiten möchten, in das Feld **Umleitungs-URL** ein und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Sie können auch Marketo-Landingpages [als Ziel](https://docs.marketo.com/x/vAEk) verwenden.
+   Sie können [Marketo-Landingpages](https://docs.marketo.com/x/vAEk) auch als Ziel verwenden.
 
 Herzlichen Glückwunsch!  Sie haben Ihren URL-Pfad erfolgreich umgeleitet.
 
