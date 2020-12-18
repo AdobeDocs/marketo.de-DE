@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen benutzerdefinierter Facebook-Audiencen als LaunchPoint-Dienst {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-Dienst {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und intelligenten Listen an Facebook senden, um sie als benutzerdefinierte Audiencen in Facebook-Werbeanzeigen-Kampagnen zu verwenden. So richten Sie es ein:
 
-1. Gehen Sie zu Marketing **Admin**.
+1. Gehen Sie zu Markieren **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -27,7 +27,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein und wählen Sie den Dienst **Facebook Benutzerdefinierte Audiencen** aus der Dropdownliste **Dienst** .
+1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein und wählen Sie den Dienst **Facebook Benutzerspezifische Audiencen** aus der Dropdownliste **Dienst**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -35,7 +35,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    >[!CAUTION]
    >
-   >Damit Marketing Audiencen über mehrere Ad Manager-Konten senden kann, muss der von Ihnen in den folgenden Schritten autorisierte Facebook-Benutzer Zugriff auf *alle* Konten haben.
+   >Damit Marketing Audiencen über mehrere Ad Manager-Konten senden kann, muss der Facebook-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Konten haben.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
@@ -45,7 +45,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    >[!NOTE]
    >
-   >Sie *müssen* ein Facebook Business Manager-Konto verwenden, damit Ihre Integration mit benutzerspezifischen Audiencen funktioniert. Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
+   >Sie müssen *ein Facebook Business Manager-Konto verwenden, damit Ihre Integration mit benutzerspezifischen Audiencen funktioniert.* Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
 
 1. Wenn Sie dazu aufgefordert werden, klicken Sie auf **OK **OK, um die Installation der Marketing-App in Facebook zu akzeptieren.
 
@@ -55,7 +55,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    >[!NOTE]
    >
-   >**Basis-Übereinstimmung** verwendet nur E-Mail-Adressen.**Die erweiterte Übereinstimmung** verwendet sieben weitere Felder, wodurch die Übereinstimmungsrate erhöht wird, um eine weitere Konversion zu ermöglichen. Wenn die Datenschutzrichtlinien Ihrer Firma die Freigabe zusätzlicher Felder nicht zulassen oder wenn Ihre Daten diese nicht enthalten, wählen Sie &quot;Grundlegende Übereinstimmung&quot;.
+   >**Basis-Übereinstimmung** verwendet nur E-Mail-Adressen.**Advanced** Matchinguses verwendet sieben weitere Felder, wodurch die Übereinstimmungsrate erhöht wird, um mehr Konversionen zu erzielen. Wenn die Datenschutzrichtlinien Ihrer Firma die Freigabe zusätzlicher Felder nicht zulassen oder wenn Ihre Daten diese nicht enthalten, wählen Sie &quot;Grundlegende Übereinstimmung&quot;.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    >[!CAUTION]
    >
-   >Ach, bevor Sie gehen, stellen Sie sicher, dass Sie Facebook&#39;s benutzerspezifische Audiencen-Bedingungen [in Ihrem Facebook-Konto zu](https://www.facebook.com/ads/manage/customaudiences/tos.php) akzeptieren! Andernfalls schlagen die Aktualisierungen der Audience fehl.
+   >Ach, bevor Sie gehen, stellen Sie sicher, dass Sie in Ihrem Facebook-Konto [die benutzerspezifischen Audiencen von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php)! Andernfalls schlagen die Aktualisierungen der Audience fehl.
 
 >[!MORELIKETHIS]
 >
