@@ -24,7 +24,7 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
 
 
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
@@ -44,11 +44,11 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
    >
    >Die Push-Benachrichtigung muss genehmigt werden, bevor sie in der Dropdown-Liste angezeigt wird.
 
-1. Klicken Sie auf Einmal **ausführen**
+1. Klicken Sie auf **Einmal ausführen**
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Wählen Sie ein Datum und eine Uhrzeit aus. Klicken Sie auf **SPEICHERN.**
+1. Wählen Sie ein Datum und eine Uhrzeit aus. Klicken Sie auf **SAVE.**
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
