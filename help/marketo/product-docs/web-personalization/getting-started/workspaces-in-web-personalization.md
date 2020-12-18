@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Arbeitsbereiche in der Web-Personalisierung {#workspaces-in-web-personalization}
+# Arbeitsbereiche in Web-Personalisierung {#workspaces-in-web-personalization}
 
 Die Web-Personalisierung unterstützt mehrere Arbeitsbereiche für Web-Kampagnen und Websegmente.
 
@@ -23,11 +23,11 @@ Um zwischen Arbeitsbereichen in der Web-Personalisierung zu wechseln, klicken Si
 
 ## Arbeitsbereich eines Segments ändern {#change-a-segments-workspace}
 
-1. Rufen Sie die Seite &quot; **Segmente** &quot;auf, wählen Sie ein Segment aus und klicken Sie auf das Bearbeitungssymbol.
+1. Rufen Sie die Seite **Segmente** auf, wählen Sie ein Segment aus und klicken Sie auf das Bearbeitungssymbol.
 
    ![](assets/ss4.png)
 
-1. Wählen Sie einen anderen Arbeitsbereich aus der Dropdownliste **Arbeitsbereich** .
+1. Wählen Sie einen anderen Arbeitsbereich aus der Dropdownliste **Arbeitsbereich**.
 
    ![](assets/ss6.png)
 
@@ -35,5 +35,5 @@ Um zwischen Arbeitsbereichen in der Web-Personalisierung zu wechseln, klicken Si
 
 >[!NOTE]
 >
->Benutzer können nur Web-Kampagnen und -Segmente anzeigen, die mit den Arbeitsbereichen, auf die sie Zugriff haben, verknüpft sind. So können Sie einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche [gewähren](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Benutzer können nur Web-Kampagnen und -Segmente anzeigen, die mit den Arbeitsbereichen, auf die sie Zugriff haben, verknüpft sind. So geben Sie einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche[.](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
 
