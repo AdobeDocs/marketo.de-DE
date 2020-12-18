@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ausschließen bestimmter IPs von der Verfolgung {#exclude-specific-ips-from-being-tracked}
+# Ausschließen bestimmter IPs aus der Verfolgung von {#exclude-specific-ips-from-being-tracked}
 
 Möchten Sie Ihre eigenen Mitarbeiter und Firmennamen immer von der Verfolgung und dem Berichte bei der Web-Personalisierung ausschließen?
 
@@ -21,15 +21,15 @@ Sie können einzelne IPs und alle oder Teile eines IPs ausschließen.
 >
 >Dieser Vorgang kann bis zu fünf Minuten dauern.
 
-1. Melden Sie sich bei der Web-Personalisierung an und klicken Sie unter Ihrer Anmeldung auf **Kontoeinstellungen**.
+1. Melden Sie sich bei Web-Personalisierung an und klicken Sie unter Ihrer Anmeldung auf **Kontoeinstellungen**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Blättern Sie nach unten zum **IP-Ausschluss** -Bereich. Wenn Sie zum ersten Mal IP-Adressen ausschließen, klicken Sie in das leere Feld IP-Adressen **ausschließen** .
+1. Blättern Sie nach unten zum Bereich **IP exclude**. Wenn Sie zum ersten Mal IP-Adressen ausschließen, klicken Sie in das leere Feld **IP-Adressen ausschließen**.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Geben Sie die einzelnen IP-Adressen oder IP-Bereiche ein, die von der Verfolgung und dem Berichte ausgeschlossen werden sollen, und klicken Sie auf **Speichern**.
+1. Geben Sie die einzelnen IP(s) oder IP-Bereiche ein, die von der Verfolgung und dem Berichte ausgeschlossen werden sollen, und klicken Sie auf **Speichern**.
 
    ![](assets/exclude-ips-form-hands.png)
 
