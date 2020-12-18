@@ -23,15 +23,15 @@ Snippets sind kleine Teile von HTML, die Regeln befolgen und personalisierte Inh
 
 
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Ziehen Sie im Landingpages-Editor über das **Snippet** -Element.
+1. Ziehen Sie im Landingpages-Editor über das Element **Snippet**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Suchen Sie das gewünschte Codefragment, wählen Sie es aus und klicken Sie auf **Speichern**.
+1. Suchen Sie nach Ihrem Snippet, wählen Sie es aus und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -41,6 +41,6 @@ Snippets sind kleine Teile von HTML, die Regeln befolgen und personalisierte Inh
 
    >[!NOTE]
    >
-   >Wenn Sie ein Snippet zu einer Landingpage mit Guided hinzufügen möchten, lesen Sie [diesen Artikel](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
+   >Wenn Sie ein Snippet zu einer Guided-Landingpage hinzufügen möchten, lesen Sie [diesen Artikel](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
 
 Tolle Arbeit! Jetzt wissen Sie, wie Sie Ihren Landingpages Snippets hinzufügen können.
