@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändern der Schriftgröße des Formulars {#change-the-form-font-size}
+# Ändern Sie die Schriftgröße des Formulars {#change-the-form-font-size}
 
 Mit Marketo können Sie das Erscheinungsbild Ihrer Formulare ganz einfach anpassen. Sie sollten die Schriftgröße ändern. So geht es.
 
@@ -19,23 +19,23 @@ Mit Marketo können Sie das Erscheinungsbild Ihrer Formulare ganz einfach anpass
 >
 >Diese Einstellung wirkt sich auf die Formularbeschriftung, den Eingabetext und den Text der Senden-Schaltfläche aus.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Wählen Sie unter **Formulareinstellungen** ******Einstellungen**.
+1. Wählen Sie unter **Formular** **Einstellungen** **Einstellungen**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Wählen Sie die gewünschte **Schriftgröße** **aus** .
+1. Wählen Sie die gewünschte **Schrift** **Größe** aus.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
