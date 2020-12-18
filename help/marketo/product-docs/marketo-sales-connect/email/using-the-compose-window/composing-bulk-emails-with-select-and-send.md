@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot; {#composing-bulk-emails-with-select-and-send}
+# Erstellen von Massen-E-Mails mit Select und Send {#composing-bulk-emails-with-select-and-send}
 
 So senden/bearbeiten Sie E-Mails mit der Option &quot;Auswählen&quot;und &quot;Senden&quot;.
 
@@ -29,23 +29,23 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;Auswählen&quot;und &quot;
    >
    >Bei Auswahl von &quot;Auswählen&quot;und &quot;Senden&quot;können maximal 200 Personen ausgewählt werden.
 
-1. Klicken Sie auf die Schaltfläche &quot; **Ausgewählte** E-Mail senden&quot;.
+1. Klicken Sie auf die Schaltfläche **Ausgewählte E-Mail senden**.
 
    ![](assets/three-2.png)
 
-1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf) und senden/ [](http://docs.marketo.com/x/GAQ6Ag)planen Sie die E-Mail.
+1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf) und senden Sie die E-Mail mit [Plan](http://docs.marketo.com/x/GAQ6Ag).
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Vorlage ausgewählt haben und vor dem Senden überprüfen möchten, ob alle dynamischen Felder korrekt ausgefüllt sind, klicken Sie auf &quot;Dynamische Felder **Vorschau&quot;**. Stellen Sie sicher, dass alle Empfänger in der Massen-Seitenleiste für alle E-Mails zur Vorschau ausgewählt sind. Wenn Sie eine E-Mail auswählen und auf &quot;Dynamische **Felder** der Vorschau&quot;klicken, wird nur diese E-Mail-Vorschau angezeigt.
+   >Wenn Sie eine Vorlage ausgewählt haben und prüfen möchten, ob alle dynamischen Felder vor dem Senden korrekt ausgefüllt sind, klicken Sie auf **Vorschau Dynamische Felder**. Stellen Sie sicher, dass alle Empfänger in der Massen-Seitenleiste für alle E-Mails zur Vorschau ausgewählt sind. Wenn Sie eine E-Mail auswählen und auf **Vorschau Dynamische Felder** klicken, wird nur diese E-Mail in der Vorschau angezeigt.
 
 ## Bearbeiten von E-Mails {#editing-emails}
 
 **Massenbearbeitungen**
 
-1. Befolgen Sie die Schritte 1-3 im Abschnitt [&quot;E-Mails senden&quot;](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Befolgen Sie die Schritte 1-3 im Abschnitt [E-Mails senden](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
 
    >[!NOTE]
    >
@@ -67,7 +67,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;Auswählen&quot;und &quot;
 
 Schließen Sie die Massenaktualisierungen ab, bevor Sie die einzelnen E-Mails anpassen, da bei einer Massenaktualisierung Änderungen an jeder E-Mail in der Seitenleiste für die Massenzusammenstellung überschrieben werden.
 
-1. Befolgen Sie die Schritte 1-4 im Abschnitt [Senden von E-Mails.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Führen Sie die Schritte 1-4 im Abschnitt [E-Mails senden aus.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 
    >[!NOTE]
    >
