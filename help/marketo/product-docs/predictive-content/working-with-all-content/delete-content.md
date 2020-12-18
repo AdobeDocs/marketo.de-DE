@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Inhalt löschen {#delete-content}
+# Inhalt {#delete-content} löschen
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Wenn man keine Inhalte mehr braucht, ist es einfach, sie loszuwerden.
 
@@ -23,7 +23,7 @@ Wenn man keine Inhalte mehr braucht, ist es einfach, sie loszuwerden.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie Inhalt **löschen**.
+1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Inhalt löschen**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
