@@ -17,5 +17,5 @@ ht-degree: 0%
 1. Geben Sie die E-Mail-Adresse des Empfängers ein.
 1. Geben Sie den Betreff der E-Mail ein.
 1. Wählen Sie eine E-Mail-Vorlage aus oder schreiben Sie eine neue Nachricht.
-1. Wenn die E-Mail gesendet werden soll, klicken Sie auf die Schaltfläche **Senden und Verbinden** . Klicken Sie auf diese Schaltfläche anstelle der normalen Senden-Schaltfläche `will ensure your email is sent with tracking applied`. Sales Connect verfolgt, wann Ihre E-Mail geöffnet wird und wann jemand auf Links klickt.
+1. Wenn die E-Mail gesendet werden soll, klicken Sie auf die Schaltfläche **Senden und Verbinden**. Klicken Sie auf diese Schaltfläche anstelle der normalen Senden-Schaltfläche `will ensure your email is sent with tracking applied`. Sales Connect verfolgt, wann Ihre E-Mail geöffnet wird und wann jemand auf Links klickt.
 
