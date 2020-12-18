@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abonnement-Administratoreinstellung sichern {#secure-the-subscription-admin-setting}
+# Sichern Sie die Abonnement-Administratoreinstellung {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Ein Administrator kann wählen, ob er sich anmelden muss, um einen Bericht Ansicht.
 
-1. Klicken Sie auf **Admin** und dann auf **Anmeldeeinstellungen**.
+1. Klicken Sie auf **Admin** und dann **Anmeldeeinstellungen**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klicken Sie auf Berichteinstellungen für intelligente Liste **bearbeiten** .
+1. Klicken Sie für die Berichtseinstellungen für intelligente Listen auf **Bearbeiten**.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Wählen Sie **Ja** , um eine Anmeldung zum Herunterladen von Berichten erforderlich zu machen.
+1. Wählen Sie **Ja** aus, um eine Anmeldung zum Herunterladen von Berichten erforderlich zu machen.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 
