@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen von Text und Token in eine Landingpage {#add-text-and-tokens-to-a-landing-page}
+# hinzufügen von Text und Token zu einer Landingpage {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >
 >Tokens werden nur in Marketo-Landingpages unterstützt.
 
-## hinzufügen Rich Text für Ihre Landingpage {#add-rich-text-to-your-landing-page}
+## hinzufügen Rich Text in Ihrer Landingpage {#add-rich-text-to-your-landing-page}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >Der Landingpages-Designer wird in einem neuen Fenster geöffnet.
 
-1. Ziehen Sie über das **Rich Text** -Element.
+1. Ziehen Sie über das Element **Rich Text**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
@@ -45,7 +45,7 @@ Tokens sind dynamische Textabschnitte, die Ihre Landingpage personalisieren kön
 >
 >Dinge wie der Vorname stammen aus dem Personendatensatz. Andere Token kommen über die Registerkarte &quot;Meine Token&quot;im Programm.
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
