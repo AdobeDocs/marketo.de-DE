@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Push-Benachrichtigung erstellen {#create-a-push-notification}
 
-Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketing Admin und Mobile Apps Developer einige Dinge einrichten, die Sie während der Ausführung benötigen. Weitere Informationen finden Sie unter [Push-Benachrichtigungen](understanding-push-notifications.md) .
+Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketing Admin und Mobile Apps Developer einige Dinge einrichten, die Sie während der Ausführung benötigen. Weitere Informationen finden Sie unter [Push-Benachrichtigungen](understanding-push-notifications.md).
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,7 +23,7 @@ Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginn
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. Klicken Sie unter **Neu** auf **Neues lokales Asset**.
+1. Klicken Sie unter **Neu** auf **Neues lokales Element**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
@@ -31,9 +31,9 @@ Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginn
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Geben Sie einen **Push-Benachrichtigungsnamen** ein und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Push Notification Name** ein und klicken Sie auf **Create**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, lassen Sie uns fortfahren und [anziehen](configure-mobile-push-notification.md).
+   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, ziehen wir sie an und verkleiden sie [noch einmal.](configure-mobile-push-notification.md)
 
