@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über die Analyse von E-Mail Insights {#email-insights-analytics-overview}
+# Email Insights Analytics-Übersicht {#email-insights-analytics-overview}
 
 Suchen Sie in Analytics nach Aggregat-Daten für E-Mail-Versand und Interaktionen. Nutzen Sie das Diagramm auf der linken Seite, um die Daten zu erkunden, die Einblicke auf der rechten Seite für ein besser geführtes Erlebnis.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Die Filterung](filtering-in-email-insights.md) ist verfügbar, damit Sie im Drilldown-Verfahren nach bestimmten Metriken suchen können.
+[Die ](filtering-in-email-insights.md) Filterung hilft Ihnen, nach bestimmten Metriken zu suchen.
 
 ![](assets/filter-field.png)
 
@@ -32,7 +32,7 @@ Bewegen Sie den Mauszeiger über die KPI-Kacheln, um Details anzuzeigen...
 
 ...oder Details anzeigen, ohne den Mauszeiger über das Browserfenster bewegen zu müssen (auf größeren Bildschirmen).
 
-` ![](assets/kpi-wide.png)
+^ ![](assets/kpi-wide.png)
 
 `
 
@@ -50,7 +50,7 @@ Das Diagramm zeigt Ihre gefilterten Kriterien an. Um einen Filter auszublenden, 
 ` ![](assets/chart2.png)  
 `
 
-Wenn Sie ein Diagramm erstellen, das Sie erneut verwenden möchten, erstellen Sie ein [kurzes Diagramm](email-insights-quick-charts.md).
+Wenn Sie ein Diagramm erstellen, das Sie erneut verwenden möchten, sollten Sie es zu einem [Quick Diagramm](email-insights-quick-charts.md) machen.
 
 ` ![](assets/quick-chart.png)  
 `
