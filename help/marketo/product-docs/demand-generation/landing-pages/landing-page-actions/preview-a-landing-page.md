@@ -31,21 +31,21 @@ Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie 
 
 ## Vorschau eines Landingpage-Entwurfs {#preview-a-landing-page-draft}
 
-1. Klicken Sie mit der rechten Maustaste auf eine genehmigte Landingpage mit einer Entwurfsversion und klicken Sie auf **Vorschau** **Entwurf**.
+1. Klicken Sie mit der rechten Maustaste auf eine genehmigte Landingpage mit Entwurfsversion und klicken Sie auf **Vorschau** **Entwurf**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
-## Vorschau eines Landingpage-Entwurfs beim Bearbeiten {#preview-a-landing-page-draft-while-editing}
+## Vorschau eines Landingpage-Entwurfs beim Bearbeiten von {#preview-a-landing-page-draft-while-editing}
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **Bearbeiten** des **Entwurfs**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf **Bearbeiten** **Entwurf**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. Sie können jederzeit während Ihrer Arbeit im Landingpage-Editor auf **Vorschau-Entwurf klicken.**
+1. Sie können jederzeit während Ihrer Arbeit im Landingpage-Editor auf **Vorschau Draft.** klicken.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
-1. Sie können schnell zur Bearbeitung zurückkehren, indem Sie auf Entwurf **bearbeiten klicken.**
+1. Sie können schnell zur Bearbeitung zurückkehren, indem Sie auf **Entwurf bearbeiten klicken.**
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
