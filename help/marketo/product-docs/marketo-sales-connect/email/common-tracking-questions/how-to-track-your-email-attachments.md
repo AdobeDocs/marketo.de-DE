@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# So verfolgen Sie Ihre E-Mail-Anhänge {#how-to-track-your-email-attachments}
+# Verfolgung Ihrer E-Mail-Anhänge {#how-to-track-your-email-attachments}
 
-Sales Connect-Angebot verfolgen auf Ihren Anlagen (.doc, .ppt, .pdf), damit Sie sehen können, wann sie `opened/` und `downloaded``see what pages your recipient is looking through`. Wir werden Ihnen die Möglichkeit geben, unsere Funktion für nachverfolgbare Anhänge sowohl von der [Webanwendung](http://toutapp.com/login) als auch von Google-Apps zu verwenden.
+Sales Connect-Angebot verfolgen auf Ihren Anlagen (.doc, .ppt, .pdf), damit Sie sehen können, wann sie `opened/` und `see what pages your recipient is looking through` waren. `downloaded` Wir ermöglichen Ihnen die Verwendung unserer Funktion für nachverfolgbare Anlagen sowohl von der [Webanwendung](http://toutapp.com/login) als auch von Google-Apps.
 
 >[!NOTE]
 >
@@ -21,12 +21,12 @@ Sales Connect-Angebot verfolgen auf Ihren Anlagen (.doc, .ppt, .pdf), damit Sie 
 
 ## Senden der ersten nachvollziehbaren Anlage {#how-to-send-your-first-trackable-attachment}
 
-1. Erstellen Sie eine E-Mail oder bearbeiten Sie eine Vorlage und klicken Sie dann auf die Schaltfläche **Inhalt** .
+1. Erstellen Sie eine E-Mail oder bearbeiten Sie eine Vorlage und klicken Sie dann auf die Schaltfläche **Inhalt**.
 1. Laden Sie Ihre Anlage hoch und senden Sie sie ab. Wir unterstützen PDFs, Word-Dokumente und PowerPoint-Präsentationen.
 1. Wählen Sie **Hinzufügen E-Mail**.
 1. Klicken Sie auf **Senden** und starten Sie Ihren Live-Feed. Ihre Empfänger werden beim Öffnen angezeigt und durch Ihre Anlagen blättern.***
 
    >[!TIP]
    >
-   >Wenn Sie eine Anlage nicht verfolgen möchten, klicken Sie einfach auf Dateien **anhängen** , und diese Anlage wird nicht verfolgt.
+   >Wenn Sie eine Anlage nicht verfolgen möchten, klicken Sie einfach auf **Dateien anhängen** und diese Anlage wird nicht verfolgt.
 
