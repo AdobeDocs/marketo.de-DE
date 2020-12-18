@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Authentifizieren der Sicherheit für den Zugriff auf Mobilgeräte {#authenticate-mobile-access-security}
+# Authentifizieren Sie Mobile Access Security {#authenticate-mobile-access-security}
 
 Zur Verbesserung der Sicherheit für Mobile-Benutzer stellt Marketo zwei neue IDs bereit: den Zugriffsschlüssel und den Zugriffsschlüssel. Diese stellen sicher, dass die Benutzer, die sich bei Ihrer App anmelden, tatsächlich die Personen sind, die sie zu sein scheinen.
 
