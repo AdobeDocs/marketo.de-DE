@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ereignis-Programme {#understanding-event-programs}
+# Ereignis-Programm {#understanding-event-programs}
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Ein Ereignis-Programm ist eine Art Programm, das zur Automatisierung Ihrer Offli
 
 
 
-Ereignis können automatisch eine Verbindung zu Ihrem [Webinar-Provider](launchpoint-event-partners.md) herstellen und mit einer [iPad-Check-in-App](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)synchronisieren.
+Ereignis können automatisch eine Verbindung zu Ihrem [Webinar-Provider](launchpoint-event-partners.md) herstellen und eine [iPad-Check-in-App](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) synchronisieren.
 
 ## Video ansehen {#watch-a-video}
 
