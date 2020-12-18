@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Position der Formularbeschriftung ändern {#change-form-label-position}
 
-Beim [Erstellen eines Formulars](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)können Sie die Positionierung der Formularfeldbeschriftungen ganz einfach ändern. So geht es.
+Wenn Sie ein Formular [erstellen, können Sie die Positionierung der Formularfeldbeschriftungen ganz einfach ändern. ](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ Beim [Erstellen eines Formulars](../../../../product-docs/demand-generation/form
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Wählen Sie die gewünschte **Beschriftungsposition** **aus** .
+1. Wählen Sie die gewünschte **Beschriftung** **Position** aus.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,7 +36,7 @@ Beim [Erstellen eines Formulars](../../../../product-docs/demand-generation/form
    * Links (Standard)
    * Über
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
