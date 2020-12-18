@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Eine neue Web-Kampagne in einer Zone erstellen {#create-a-new-in-zone-web-campaign}
+# Neue Web-Kampagne für die Zone {#create-a-new-in-zone-web-campaign} erstellen
 
-Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, einen In-Zone-Ersatz, eine [Widget-Funktion](create-a-new-widget-web-campaign.md) oder eine E-Mail-Warnung handeln. Eine In-Zone-Web-Kampagne ersetzt ein auf der Zone-ID basierendes Element Ihrer Website durch Inhalte oder grafische Banner.
+Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, einen In-Zone-Ersatz, eine [Widget-Funktion](create-a-new-widget-web-campaign.md) oder einen E-Mail-Warnhinweis handeln. Eine In-Zone-Web-Kampagne ersetzt ein auf der Zone-ID basierendes Element Ihrer Website durch Inhalte oder grafische Banner.
 
-## Eine In-Zone-Web-Kampagne erstellen {#create-an-in-zone-web-campaign}
+## Eine Web-Kampagne für die In-Zone erstellen {#create-an-in-zone-web-campaign}
 
 1. Gehen Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. Wählen Sie Neue Web-Kampagne **erstellen.**
+1. Wählen Sie **Neue Web-Kampagne erstellen.**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Wählen Sie die Kampagne **für die In-Zone** aus. Passen Sie die **Zonen-ID an und fügen Sie sie hinzu.** Legen Sie die Kampagne auf **Sticky** fest und fügen Sie Ihre kreativen Elemente im Editor hinzu. hinzufügen Sie die URL der Seite zur Vorschau und klicken Sie auf **Vorschau** , um zu sehen, wie die Kampagne auf Ihrer Site reagiert.
+1. Wählen Sie die Kampagne **in Zone** aus. Passen Sie eine **Zone-ID an und fügen Sie sie hinzu.** Legen Sie die Kampagne auf  **** Sticky fest und fügen Sie Ihre kreativen Elemente im Editor hinzu. hinzufügen Sie die URL der zu Vorschau Seite und klicken Sie auf **Vorschau**, um zu sehen, wie die Kampagne auf Ihrer Site reagiert.
 
    ![](assets/new-3-1.png)
 
@@ -40,7 +40,7 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
    >Eine Zone-ID ist der Ort, an dem sich Ihre &quot;In-Zone&quot;-Kampagne auf der Site befinden soll. Um eine &quot;Zone-ID&quot; zu finden, gehen Sie einfach zu Ihrer Website wählen Sie den Bereich, den Sie durch eine Web-Kampagne ersetzen möchten und klicken Sie mit der rechten Maustaste. In Chrome ist die Option &quot;Inspect Element&quot;, in anderen Browsern kann sie variieren.
    >
    >
-   >Dann suchen Sie die mit diesem Abschnitt der Website verknüpfte ID, die hervorgehoben wird, da Sie dieses Element überprüfen. Wenn Sie z. B. nach einem Rechtsklick in Chrome den markierten Text anklicken, lautet `<div id="featured-slider">` dann &quot;Regler mit speziellen Funktionen&quot;was Sie im Abschnitt &quot;Zonen-ID&quot;eingeben sollten. Normalerweise wird &quot;div id&quot;verwendet, es können aber auch beliebige IDs wie h1 id, p id usw. verwendet werden.
+   >Dann suchen Sie die mit diesem Abschnitt der Website verknüpfte ID, die hervorgehoben wird, da Sie dieses Element überprüfen. Wenn Sie z. B. nach einem Rechtsklick in Chrome den markierten Text `<div id="featured-slider">` anklicken, dann ist &quot;featured-schieber&quot;das, was Sie im Abschnitt &quot;zone id&quot;eingeben sollten. Normalerweise wird &quot;div id&quot;verwendet, es können aber auch beliebige IDs wie h1 id, p id usw. verwendet werden.
 
 <table> 
  <thead> 
@@ -76,7 +76,7 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
     <ul> 
      <li> URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt wird, um ein Beispiel für die Vorschau der Live-Darstellung der Kampagne anzuzeigen.</li> 
      <li>Gerät - Vorschau, wie Ihre Kampagne auf dem Gerät angezeigt wird: Desktop, mobiles Hochformat, Mobile Querformat, Tablet Hochformat, Hochformat.</li> 
-     <li> Vorschau - Klicken Sie auf <strong>Vorschau</strong> , um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert.</li> 
+     <li> Vorschau - Klicken Sie auf <strong>Vorschau</strong>, um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert.</li> 
      <li> Freigeben: Verwenden Sie die Schaltfläche Freigeben, um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
     </ul></td> 
   </tr> 
@@ -85,21 +85,21 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung Ihrer Kampagne, indem Sie unsere [integrierten Vorlagen](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) verwenden oder Ihre vorhandene Kampagne [als Vorlage zur Wiederverwendung](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) speichern.
+>Beschleunigen und vereinfachen Sie die Erstellung Ihrer Kampagne, indem Sie unsere [integrierten Vorlagen](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) oder [Ihre vorhandene Kampagne](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung speichern.
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können [A/B auf optimale Ergebnisse](ab-test-your-web-campaign.md)getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können  [A/B auf optimale Ergebnisse](ab-test-your-web-campaign.md) getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
 
 ## Eine Web-Kampagne bearbeiten {#edit-a-web-campaign}
 
-Klicken Sie auf der Seite **Web-Kampagnen** auf der Kampagne auf **Bearbeiten** .
+Klicken Sie auf der Seite **Web-Kampagnen** auf **Bearbeiten** in der Kampagne.
 
 ![](assets/in-zone-web-campaign-edit.png)
 
 >[!NOTE]
 >
->Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+>Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
@@ -109,9 +109,9 @@ Klicken Sie auf der Seite **Web-Kampagnen** auf der Kampagne auf **Bearbeiten** 
 
 ## Klonen einer Web-Kampagne {#clone-a-web-campaign}
 
-Siehe [Klonen einer Web-Kampagne](clone-a-web-campaign.md).
+Siehe [Eine Web-Kampagne klonen](clone-a-web-campaign.md).
 
-## Eine Web-Kampagne löschen {#delete-a-web-campaign}
+## Eine Web-Kampagne {#delete-a-web-campaign} löschen
 
 1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Löschen **auf der Kampagne, die Sie löschen möchten.
 
