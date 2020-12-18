@@ -26,7 +26,7 @@ In diesem Beitrag wird beschrieben, wie RTP-benutzerspezifische Berichte für Go
 
 1. Melden Sie sich bei Google Analytics an.
 1. Klicken Sie auf **Anpassung **im oberen Menü.
-1. Klicken Sie auf **+Neuer benutzerdefinierter Bericht.**
+1. Klicken Sie auf **+Neuer benutzerspezifischer Bericht.**
 
 ** ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -37,7 +37,7 @@ In diesem Beitrag wird beschrieben, wie RTP-benutzerspezifische Berichte für Go
 1. Benennen Sie den Bericht **RTP B2B Report**.
 1. Name der ersten Registerkarte **Branche **
 
-   1. (Hinweis: Sie werden diese Registerkarte **** Duplikat nehmen und weitere ähnliche erstellen - Schritt 5)
+   1. (Hinweis: **Duplikat dieser Registerkarte** und erstellen Sie weitere ähnliche - Schritt 5)
 
 1. Wählen Sie den Berichtstyp** Explorer*.\
    ** ![](assets/image2015-3-22-16-3a15-3a25.png)
@@ -61,7 +61,7 @@ In diesem Beitrag wird beschrieben, wie RTP-benutzerspezifische Berichte für Go
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Legen Sie im Abschnitt **Dimensionen-Drilldowns** die entsprechenden Dimensionen für jede Registerkarte wie unten beschrieben fest.
+1. Legen Sie im Abschnitt **Dimensionen-Drilldowns** die entsprechenden Dimensionen für jede Registerkarte wie folgt fest.
 
 <table> 
  <thead> 
@@ -106,12 +106,12 @@ In diesem Beitrag wird beschrieben, wie RTP-benutzerspezifische Berichte für Go
 
 ## RTP-Interaktionsbericht {#rtp-engagement-report}
 
-1. Benennen Sie den Bericht &quot; **RTP-Interaktion&quot;.**
-1. Name der ersten Registerkarte auf &quot; **Alle Interaktionen&quot;**
+1. Benennen Sie den Bericht **RTP-Interaktionsbericht.**
+1. Legen Sie den Namen der ersten Registerkarte auf **Alle Interaktionen** fest.
 
    1. (Hinweis: Sie werden diese Registerkarte Duplikat und weitere ähnliche erstellen - Schritt 5)
 
-1. Wählen Sie den Berichtstyp **Explorer** aus.\
+1. Wählen Sie den Berichtstyp **Explorer**.\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. Wählen Sie im Abschnitt Metrikgruppen die Metriken aus, die für Ihr Geschäft relevant sind. Hier eine Empfehlung:\
