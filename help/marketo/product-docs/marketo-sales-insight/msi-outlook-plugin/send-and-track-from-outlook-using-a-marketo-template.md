@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie mit diesen Vorlagen Zeit sparen, wenn Sie Ihre E-Mails zusammenstellen.
 
-1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Nachricht**.
+1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketing-Nachricht**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Wählen Sie die gewünschte Vorlage aus, erstellen Sie eine Vorschau und klicken Sie auf **OK**.
+1. Wählen Sie die gewünschte Vorlage aus und klicken Sie auf **OK**, um sie Vorschau.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
