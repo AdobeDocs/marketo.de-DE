@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es ist einfach zu erkennen, wie Ihre Push-Benachrichtigungen funktionieren.
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -33,7 +33,7 @@ Es ist einfach zu erkennen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    >[!NOTE]
    >
-   >Die Metrik &quot; **Gesendet** &quot;kann mehr Sends als die exakte Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang des Push-Vorgangs infrage kommen. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sends, nicht eine.
+   >Die Metrik **Gesendet** kann mehr Sends als die exakte Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang des Push-Vorgangs infrage kommen. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sends, nicht eine.
 
    >[!NOTE]
    >
