@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Verwenden von Promo-Codes für die Angebot-Fulfillment {#use-promo-codes-for-offer-fulfillment}
+# Promo-Codes für die Angebot-Fulfillment verwenden {#use-promo-codes-for-offer-fulfillment}
 
 Wenn Sie ein Angebot für Verweise oder einen Preisausschreiben erstellen, können Sie jedem Gewinner einen Promo-(Coupon-)Code senden. Um ihre Belohnung einzulösen, verwenden sie den Code, z. B. auf der Kassengangsseite eines Kaufs auf Ihrer Site.
 
-## Hochladen von Promo-Codes {#upload-promo-codes}
+## Promo-Codes hochladen {#upload-promo-codes}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie das verweisende Angebot aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie das verweisende Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Wechseln Sie im Editor für Verweisdokumente zu **App-Einstellungen** und dann zu **Angebot-Details.**
+1. Wechseln Sie im Referrer-Angebot-Editor zu **App-Einstellungen** und dann **Angebot-Details.**
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Wählen Sie unter &quot;E-Mails&quot;die Option &quot;Promo-Codes **** verwenden&quot;und klicken Sie unter &quot;Hochladecodes&quot;auf &quot; **Durchsuchen** &quot;, um die Promo-Code-Datei aus Ihrem System auszuwählen.
+1. Wählen Sie unter &quot;E-Mails&quot;die Option **Promo-Codes** verwenden und klicken Sie unter &quot;Hochladecodes&quot;auf **Durchsuchen**, um die Promo-Code-Datei aus Ihrem System auszuwählen.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -46,22 +46,22 @@ Wenn Sie ein Angebot für Verweise oder einen Preisausschreiben erstellen, könn
 
    ![](assets/image2015-4-22-13-3a8-3a31.png)
 
-## Überprüfen der gesendeten Promo-Codes {#review-sent-promo-codes}
+## Überprüfen Sie die gesendeten Promo-Codes {#review-sent-promo-codes}
 
 Sobald die Beginn, die Ihr Angebot belohnen, teilnehmen, können Sie sehen, an wen und wann die Promo-Codes gesendet wurden.
 
 >[!NOTE]
 >
->Nur Marketo-Benutzer mit *Zugriffsrechten* haben Zugriff auf diese Informationen. Siehe [Verwalten von Benutzerrollen und -berechtigungen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Nur Marketo-Benutzer mit der Berechtigung *Access Awards* haben Zugriff auf diese Informationen. Siehe [Verwalten von Benutzerrollen und Berechtigungen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Angebot oder Ihre Gewinnspiele aus und klicken Sie auf die Registerkarte &quot; **Teilnehmer** &quot;.
+1. Wählen Sie Ihr Angebot oder Ihre Gewinnspiele aus und klicken Sie auf die Registerkarte **Teilnehmer**.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Hier sollten Sie einige Einträge sehen. Klicken Sie auf die Zahl in der Spalte **Promo-Codes** , um die an den Teilnehmer gesendeten Promo-Codes und den Zeitpunkt anzuzeigen.
+1. Hier sollten Sie einige Einträge sehen. Klicken Sie auf die Zahl in der Spalte **Promo-Codes**, um die Promo-Codes anzuzeigen, die an diesen Teilnehmer gesendet wurden, und wann.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)
