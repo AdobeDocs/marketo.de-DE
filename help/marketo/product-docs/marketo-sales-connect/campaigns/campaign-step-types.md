@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schritttypen für Kampagnen {#campaign-step-types}
+# Kampagnen-Schritttypen {#campaign-step-types}
 
 Wenn Sie Ihrer Kampagne einen Schritt hinzufügen, stehen Ihnen vier Optionen zur Verfügung.
 
@@ -31,7 +31,7 @@ Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlag
 
 >[!TIP]
 >
->Erfahren Sie mehr über Ihre [Sendeoptionen](http://docs.marketo.com/x/7QDb).
+>Erfahren Sie mehr über Ihre [Optionen für das Senden](http://docs.marketo.com/x/7QDb).
 
 ## Aufruf {#call}
 
@@ -45,7 +45,7 @@ Das Nachverfolgen mehrerer Kanal ist eine großartige Möglichkeit, sich mit Int
 
 ![](assets/inmail.png)
 
-## Benutzerdefinierte Aufgabe {#custom-task}
+## Benutzerspezifische Aufgabe {#custom-task}
 
 Verwenden Sie benutzerspezifische Aufgaben, wenn die oben genannten Optionen nicht verfügbar sind. Sie können beispielsweise einen Kollegen einladen, einen Interessenten per E-Mail weiterzuverfolgen.
 
