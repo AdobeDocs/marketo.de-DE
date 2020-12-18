@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Priorisierung von Web-Kampagnen {#prioritizing-web-campaigns}
+# Priorisieren von Web-Kampagnen {#prioritizing-web-campaigns}
 
 Richten Sie die Priorität Ihrer Web-Kampagnen ein, wenn sich zwei oder mehr Web-Kampagnen überschneiden.
 
@@ -34,7 +34,7 @@ Eine In-Zone-Kampagne und eine (Widget- oder Dialog-) Kampagne können auf derse
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
 1. Legen Sie auf der Seite &quot;Kampagne bearbeiten&quot;die Prioritätsbewertung fest (9999 = Höchste Priorität 1 = Niedrigste Priorität).
 
