@@ -28,14 +28,14 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 >
 >**Administratorberechtigungen erforderlich**
 
-## Sales Insight in Marketing konfigurieren {#configure-sales-insight-in-marketo}
+## Sales Insight in Marketo konfigurieren{#configure-sales-insight-in-marketo}
 
 1. Öffnen Sie ein neues Browserfenster, um die Anmeldeinformationen von MarketingTo Sales Insight von Ihrem Marketing-Konto abzurufen.
 1. Gehen Sie zum Admin-Bereich und wählen Sie **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
-1. Klicken Sie auf API-Konfiguration **bearbeiten**.
+1. Klicken Sie auf **API-Konfiguration bearbeiten**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
@@ -47,7 +47,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
    >
    >Ihr geheimer API-Schlüssel ist wie ein Kennwort für Ihr Unternehmen und sollte sicher sein.
 
-1. Klicken Sie im Bedienfeld &quot;Rest-API-Konfiguration&quot;auf **Ansicht** , um die Anmeldeinformationen auszufüllen.
+1. Klicken Sie im Bedienfeld &quot;Rest-API-Konfiguration&quot;auf **Ansicht**, um die Anmeldeinformationen auszufüllen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
@@ -55,7 +55,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
 
-## Sales Insight in Salesforce konfigurieren {#configure-sales-insight-in-salesforce}
+## Sales Insight in Salesforce {#configure-sales-insight-in-salesforce} konfigurieren
 
 1. Klicken Sie in Salesforce auf **Setup**.
 
@@ -73,13 +73,13 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
-1. Klicken Sie erneut auf **Neue Remote-Site** .
+1. Klicken Sie erneut auf **Neue Remote-Site**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
 1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoRestAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre API-URL aus dem Bedienfeld &quot;Rest-API-Konfiguration&quot;in Marketing ist. Klicken Sie auf **Speichern**. Sie haben jetzt Einstellungen für die Remote-Site für die Rest-API erstellt.
 
-## Einrichten von MarketingTo Sales Insight {#set-up-marketo-sales-insight}
+## Einrichten von MarketingToSales Insight {#set-up-marketo-sales-insight}
 
 1. Melden Sie sich bei Ihrer Marketing-Instanz an und klicken Sie auf **Admin**.
 
@@ -89,11 +89,11 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
-1. Klicken Sie auf API-Konfiguration **bearbeiten**.
+1. Klicken Sie auf **API-Konfiguration bearbeiten**.
 
    ![](assets/image2015-5-22-15-3a15-3a0.png)
 
-1. Geben Sie einen geheimen **API-Schlüssel** ein und klicken Sie auf **Speichern**.
+1. Geben Sie einen **Geheimschlüssel der API** ein und klicken Sie auf **Speichern**.
 
    >[!CAUTION]
    >
@@ -109,7 +109,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Suchen Sie nach &quot;Remote-Site&quot;und klicken Sie unter &quot; **Sicherheitseinstellungen&quot;auf** Remote-Site-Einstellung ****.
+1. Suchen Sie nach &quot;Remote-Site&quot;und klicken Sie unter **Sicherheitseinstellungen** auf **Remote-Site-Einstellung**.
 
    ![](assets/image2014-9-24-17-3a25-3a52.png)
 
@@ -117,13 +117,13 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/image2014-9-24-17-3a26-3a6.png)
 
-1. Geben Sie **Remote-Site-Namen** und **Remote-Site-URL** ein und klicken Sie dann auf **Speichern**.
+1. Geben Sie **Remote-Site-Name** und **Remote-Site-URL** ein und klicken Sie dann auf **Speichern**.
 
    ![](assets/remote-site.png)
 
    >[!NOTE]
    >
-   >Sie wählen Ihren **Remote-Site-Namen** aus (hier wird MarketoAPI verwendet). Die **Remote-Site-URL** befindet sich in Schritt 4 im Feld &quot;Marketo-Host&quot;des Dialogfelds &quot;API-Konfiguration bearbeiten&quot;.
+   >Sie wählen **Remote-Site-Name** (hier wird die MarketingAPI verwendet). Die **Remote-Site-URL** befindet sich im Feld &quot;Marketo-Host&quot;des Dialogfelds &quot;API-Konfiguration bearbeiten&quot;in Schritt 4.
 
 ## Seitenlayouts anpassen {#customize-page-layouts}
 
@@ -131,19 +131,19 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Suchen Sie nach &quot;Seitenlayout&quot;und wählen Sie das **Seitenlayout** unter &quot; **Interessenten**&quot;aus.
+1. Suchen Sie nach &quot;Seitenlayout&quot;und wählen Sie **Seitenlayout** unter **Interessenten**.
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Klicken Sie auf **Visualforce-Seiten **links. Ziehen Sie **Abschnitt** in das Layout unter dem Abschnitt Benutzerspezifische Links.
+1. Klicken Sie auf **Visualforce-Seiten **links. Ziehen Sie **Abschnitt** in das Layout unter dem Abschnitt &quot;Benutzerspezifische Links&quot;.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Geben Sie als **Abschnittsnamen**&quot;Marketing to Sales Insight&quot;ein. Wählen Sie **1-Spalte** und klicken Sie auf **OK**.
+1. Geben Sie &quot;Marketo Sales Insight&quot;als **Abschnittsname** ein. Wählen Sie **1-Spalte** und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Ziehen Sie **Interessenten** per Drag &amp; Drop in den neuen Abschnitt.
+1. Ziehen Sie **Lead** in den neuen Abschnitt.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -151,7 +151,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
    >
    >Der Name dieses Felds ändert sich je nach Objekttyp. Wenn Sie z. B. das Seitenlayout für Kontakte ändern, wird &quot;Kontakt&quot;angezeigt.
 
-1. Klicken Sie mit der Dublette auf den soeben hinzugefügten **Interessentenblock** .
+1. Klicken Sie mit der Dublette auf den soeben hinzugefügten Block **Lead**.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
@@ -163,7 +163,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
    >
    >Für die Objekte &quot;Konten und Chancen&quot;wird eine Höhe von 410 Pixel empfohlen.
 
-1. Klicken Sie auf **Felder **links. Suchen Sie dann nach der **Interaktionsbeschriftung** und ziehen Sie sie in das Layout **Marketing to Sales Insight** .
+1. Klicken Sie auf **Felder **links. Suchen Sie dann nach der Beschriftung **Interaktion** und ziehen Sie sie in das Layout **Marketing to Sales Insight**.
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -195,12 +195,12 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
  </tbody> 
 </table>
 
-1. Klicken Sie abschließend auf **Speichern** .
+1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Wiederholen Sie diesen Vorgang, um Visualforce-Seitenabschnitte und Sales Insight-Felder für **Kontakt**, **Konto** und **Möglichkeiten** hinzuzufügen.
-1. Wiederholen Sie die Schritte 5 bis 7, um Visualforce-Seitenabschnitte für Kontakt, Konto und Chancen hinzuzufügen. Wiederholen Sie dann die Schritte 8-10, um Sales Insight-Felder für **Kontakt** hinzuzufügen. Achten Sie darauf, nach jeder Änderung zu speichern.
+1. Wiederholen Sie diesen Vorgang, um Visualforce-Seitenabschnitte und Sales Insight-Felder für **Contact**, **Account** und **Opportunity** hinzuzufügen.
+1. Wiederholen Sie die Schritte 5 bis 7, um Visualforce-Seitenabschnitte für Kontakt, Konto und Chancen hinzuzufügen. Wiederholen Sie dann die Schritte 8-10, um Sales Insight-Felder für **Contact** hinzuzufügen. Achten Sie darauf, nach jeder Änderung zu speichern.
 
 ## Benutzerdefinierte Benutzerfelder zuordnen {#map-custom-person-fields}
 
@@ -210,17 +210,17 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Suchen Sie in der Suchleiste nach &quot;Feldern&quot;und klicken Sie auf **Felder** unter **Interessenten**.
+1. Suchen Sie in der Suchleiste nach &quot;fields&quot; und klicken Sie unter **Leads** auf **Fields**.
 
    ![](assets/image2015-6-1-9-3a54-3a50.png)
 
-1. Klicken Sie auf **Lead-Felder** zuordnen.
+1. Klicken Sie auf **Leadfelder zuordnen**.
 
    ** ![](assets/image2015-6-1-9-3a58-3a48.png)
 
    **
 
-1. Klicken Sie auf das Dropdown-Menü rechts für **Interaktion**.
+1. Klicken Sie auf das Dropdown-Feld rechts für **Interaktion**.
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
@@ -269,19 +269,19 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
 
 1. Klicken Sie auf **Speichern **nach Abschluss des Vorgangs.
 
-## Marketing-Sales Insight-Konfiguration {#marketo-sales-insight-config}
+## Marketo Sales Insight Config {#marketo-sales-insight-config}
 
-1. Klicken Sie auf **+ **und wählen Sie dann **Marketo Sales Insight Config**.
+1. Klicken Sie auf **+ **und wählen Sie **MarketingTo Sales Insight Config**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Markieren Sie **Markieren-API** aktivieren. Geben Sie dann die [API-Konfigurationsinformationen in Marketing Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight)ein. Klicken Sie auf **Änderungen speichern **nach Abschluss des Vorgangs.
+1. Markieren Sie **Marketo-API aktivieren**. Füllen Sie dann die [API-Konfigurationsinformationen in Marketing Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight) aus. Klicken Sie auf **Änderungen speichern **nach Abschluss des Vorgangs.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Wenn der Diagnosetest fehlgeschlagen ist, müssen Sie eventuell weitere Felder zum Seitenlayout [hinzufügen](http://nation.marketo.com/docs/DOC-1115).
+   >Wenn der Diagnosetest fehlschlug, müssen Sie möglicherweise [weitere Felder zum Seitenlayout](http://nation.marketo.com/docs/DOC-1115) hinzufügen.
 
 Und das ist es! Sie sollten in der Lage sein, die Marketing Sales Insight-Felder für Interessenten, Kontakte, Konten und Chancen anzuzeigen.
 
@@ -293,8 +293,8 @@ Und das ist es! Sie sollten in der Lage sein, die Marketing Sales Insight-Felder
 
 ## Zugriff auf Marketing zu Sales Insight {#access-marketo-sales-insight}
 
-1. Klicken Sie in Salesforce auf das **+** -Zeichen am Ende der Registerkartenleiste und klicken Sie auf **MarketingTo Sales Insight Config**.
-1. Aktivieren Sie das Kontrollkästchen Markieren-API **aktivieren** .
+1. Klicken Sie in Salesforce am Ende der Registerkartenleiste auf **+** und dann auf **MarketingTo Sales Insight Config**.
+1. Aktivieren Sie das Kontrollkästchen **Marketo-API aktivieren**.
 1. Kopieren Sie die Anmeldeinformationen aus dem Bedienfeld &quot;SOAP-API&quot;auf der Marketing Sales Insight-Administrationsseite und fügen Sie sie in den Abschnitt &quot;SOAP-API&quot;auf der Seite &quot;Salesforce Sales Insight-Konfiguration&quot;ein.
 1. Kopieren Sie die Anmeldeinformationen aus dem Bedienfeld &quot;Rest-API&quot;auf der Marketing Sales Insight-Administrationsseite und fügen Sie sie in den Abschnitt &quot;Rest-API&quot;der Seite &quot;Salesforce Sales Insight-Konfiguration&quot;ein.
 
