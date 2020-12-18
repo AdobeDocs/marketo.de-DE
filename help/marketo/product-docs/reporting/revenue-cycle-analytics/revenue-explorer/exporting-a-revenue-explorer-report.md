@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Exportieren eines Berichts zum Umsatz-Explorer {#exporting-a-revenue-explorer-report}
+# Exportieren eines Berichts &quot;Umsatz-Explorer&quot; {#exporting-a-revenue-explorer-report}
 
 Sie können jeden Bericht zu Umsatzforschern exportieren und ihn an andere weitergeben.
 
-1. Klicken Sie auf das Zahnradsymbol, wählen Sie &quot; **Exportieren** &quot;und wählen Sie ein Dateiformat aus.
+1. Klicken Sie auf das Zahnradsymbol, wählen Sie **Export** und wählen Sie ein Dateiformat aus.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -30,7 +30,7 @@ Sie können jeden Bericht zu Umsatzforschern exportieren und ihn an andere weite
    >    * CSV
 
 
-1. Wählen Sie das gewünschte **Seitenformat** und die **Ausrichtung** aus und klicken Sie auf **Exportieren**.
+1. Wählen Sie das gewünschte **Seitenformat** und **Ausrichtung** und klicken Sie auf **Export**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
