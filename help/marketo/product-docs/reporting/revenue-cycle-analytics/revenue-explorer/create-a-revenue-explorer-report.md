@@ -25,7 +25,7 @@ Mit dem Bericht &quot;Umsatz-Explorer&quot;können Sie den ROI Ihrer Marketingin
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Klicken Sie auf Neu **erstellen** und wählen Sie dann **Bericht**.
+1. Klicken Sie auf **Neu erstellen** und wählen Sie **Bericht**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
