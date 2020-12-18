@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Informationen zum Anpassen des vom Benutzer erhaltenen automatisierten E-Mail-Berichts finden Sie im Abschnitt [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
-## Web-Personalisierung - E-Mail-Berichte {#web-personalization-email-reports}
+## Web-Personalisierung E-Mail-Berichte {#web-personalization-email-reports}
 
 Tägliche oder wöchentliche E-Mail-Berichte werden an die E-Mail-Adresse des Benutzers gesendet, in denen die neuesten Daten zur Leistung von Unternehmen, Personen, Kampagnen und Assets bereitgestellt werden.
 
 Die folgenden Berichte stehen zur Verfügung:
 
-## Bericht &quot;Tägliche/wöchentliche Organisationen&quot; {#daily-weekly-organizations-report}
+## Bericht zu täglichen/wöchentlichen Organisationen {#daily-weekly-organizations-report}
 
 ![](assets/image2014-12-6-13-3a32-3a8.png)
 
 Der tägliche/wöchentliche Bericht sendet dem Benutzer eine E-Mail der 50 wichtigsten besuchten Organisationen, einschließlich des Organisationsnamens, des Standorts, der Anzahl der Besuche, der Ansichten und der verwendeten Verweisseite oder des Suchbegriffs.
 
-## Bericht &quot;Tägliche/wöchentliche Personen&quot; {#daily-weekly-people-report}
+## Bericht zu täglichen/wöchentlichen Personen {#daily-weekly-people-report}
 
 ![](assets/two.png)
 
 Der Bericht &quot;Tägliche/wöchentliche Personen&quot;sendet dem Benutzer eine E-Mail mit den neuesten 100 Personen von der Website gemäß: E-Mail-Adresse, Firmenname, Standort, Bundesland, Datum der Personenerfassung und Segmente der Person.
 
-## Häufigste Kampagnen in Echtzeit {#top-performing-real-time-campaigns}
+## Wichtigste Kampagnen in Echtzeit {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
