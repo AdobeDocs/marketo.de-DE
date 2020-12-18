@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON24-Webinar. Stellen Sie beim Erstellen Ihres Ereignisses sicher, dass Sie Ihre Kampagnen vor dem Ausführen testen.
 
-## Neues Ereignis in Marketing-Aktivitäten erstellen {#create-a-new-event-in-marketing-activities}
+## Neues Ereignis in Marketing-Aktivitäten {#create-a-new-event-in-marketing-activities} erstellen
 
 1. Wählen Sie **Neu** > **Neues Programm**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Wählen Sie einen **Kampagnen-Ordner** aus, in dem das Ereignis live geschaltet werden soll.
+1. Wählen Sie einen **Kampagne-Ordner**, in dem das Ereignis live geschaltet wird.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Geben Sie einen **Namen** für das Ereignis ein.
+1. Geben Sie einen **Name** für das Ereignis ein.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
@@ -41,9 +41,9 @@ Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON2
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
-## Einladung (Batch-Kampagne)  {#invite-batch-campaign}
+## Einladen (Batch-Kampagne) {#invite-batch-campaign}
 
-* **Intelligente Liste** - Definieren Sie, wen Sie zum Ereignis einladen möchten.
+* **Intelligente Liste**  - Definieren Sie, wen Sie zum Ereignis einladen möchten.
 * **Fluss**
 
    * E-Mail senden - Wenn es sich um eine E-Mail mit einem lokalen Asset handelt, gilt folgende Benennungsregel: EventName.EmailName. Sie können auch globale E-Mails verwenden.
@@ -55,19 +55,19 @@ Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON2
 
 * **Intelligente Liste**
 
-   * Auslösen der Kampagne anhand des Formulars **&quot;Ausfüllen&quot;**. Stellen Sie sicher, dass Sie die Landingpage einschließen, die das Formular ausfüllt, indem Sie **Hinzufügen Einschränkung** verwenden, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
+   * Auslösen der Kampagne auf der Grundlage von **Ausfüllen des Formulars**. Stellen Sie sicher, dass Sie die Landingpage, auf der sich das Formular befindet, mit **Hinzufügen Constraint** einschließen, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
 >
->Sie müssen ein Marketo-Formular verwenden, um Personen für das Ereignis zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Ereignis-Partnerintegration. **HINWEIS**: Wenn Sie ein Marketo-Formular für eine Nicht-Marketo-Landingpage verwenden, wird als Auslöser **das Ausfüllen des Formulars** mit dem Formularnamen verwendet.
+>Sie müssen ein Marketo-Formular verwenden, um Personen für das Ereignis zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Ereignis-Partnerintegration. **HINWEIS**: Wenn Sie ein Marketo-Formular für eine Nicht-Marketo-Landingpage verwenden, wird als Auslöser das  **Ausfüllen von** Formularen mit dem Formularbennamen verwendet.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Fluss**
 
-   * **Status in Progression** ändern - Auf Webinar > Registriert einstellen. **VORSICHT**: Dieser Flussschritt ist beim Einrichten der untergeordneten Kampagne erforderlich. Wenn sich der Status des Fortschritts einer Person in &quot; **Registriert**&quot;ändert, setzt Marketo die Registrierungsinformationen auf ON24.
+   * **Status in Progression**  ändern - Auf Webinar einstellen > Registriert. **VORSICHT**: Dieser Flussschritt ist beim Einrichten der untergeordneten Kampagne erforderlich. Wenn sich der Status des Fortschritts einer Person in **Registered** ändert, setzt Marketo die Registrierungsinformationen auf ON24.
 
-   * **E-Mail** senden - Bestätigungs-E-Mail (auf &quot; **Operational** &quot;eingestellt, damit nicht abonnierte Personen, die sich registriert haben, diese immer noch erhalten).
+   * **E-Mail**  senden - Bestätigungs-E-Mail (auf  **** Betrieb eingestellt auch, dass abbestellte Personen, die sich registriert haben, erhalten sie noch).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
@@ -75,19 +75,19 @@ Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON2
 
 ## Erinnerung (Batch-Kampagne) {#reminder-batch-campaign}
 
-* **Intelligente Liste** - Filtern Sie nach dem **Mitglied des Programms** und legen Sie den Status auf &quot; **Registriert**&quot;fest.
+* **Intelligente Liste** : Filtern Sie nach  **Programmmitglied und legen Sie den Status** auf  **Registriert** fest.
 
-* **Fluss** - E-Mail senden (Erinnerungsmail).
+* **Fluss**  - E-Mail senden (Erinnerungsmail).
 
-**HINWEIS**: Sie können eine ähnliche Kampagne verwenden, um eine *andere* Follow-up-E-Mail an eingeladene, aber noch nicht registrierte Benutzer zu senden.
+**HINWEIS**: Sie können eine ähnliche Kampagne verwenden, um eine  ** andere Follow-up-E-Mail an eingeladene, aber noch nicht registrierte Benutzer zu senden.
 
-## Follow-up-Kampagne (Stapel- oder Auslöser-Kampagne) {#follow-up-campaign-batch-or-trigger-campaign}
+## Follow-up-Kampagne (Batch- oder Trigger-Kampagne) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Intelligente Liste** - Auslöser basierend auf Änderungen im Programm-Status.
+* **Intelligente Liste**  - Auslöser basierend auf Änderungen im Programm-Status.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Fluss** - E-Mail senden. Verwenden Sie Auswahlmöglichkeiten, um je nach Programm verschiedene E-Mails zu senden.
+* **Fluss**  - E-Mail senden. Verwenden Sie Auswahlmöglichkeiten, um je nach Programm verschiedene E-Mails zu senden.
 
 ![](assets/ten.png)
 
