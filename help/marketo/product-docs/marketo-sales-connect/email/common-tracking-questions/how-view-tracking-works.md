@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wir verfolgen E-Mails, die geöffnet werden, indem wir ein unsichtbares Bild in den E-Mails platzieren, die Sie senden.
 
-Wenn jemand auf Ihre E-Mail antwortet, aber Sales Connect sagt, dass sie nicht angezeigt wurde, ergeben sich Chancen, dass der Empfänger dies getan hat `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+Wenn jemand auf Ihre E-Mail antwortet, aber Sales Connect sagt, dass sie nicht angezeigt wurde, ergeben sich Chancen, dass der Empfänger `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
 
 Einige Tipps, wie Sie bessere Rückverfolgungsstatistiken in Ihren E-Mails erhalten:
 
