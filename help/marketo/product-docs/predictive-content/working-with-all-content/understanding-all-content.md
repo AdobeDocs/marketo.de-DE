@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Auf der Seite &quot;Alle Inhalte&quot;werden alle Inhalte angezeigt, die manuell gefunden oder hinzugefügt wurden.   ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -30,11 +30,11 @@ Die Seitenfelder umfassen:
 
 Sie können ein neues Inhaltselement hinzufügen und es verfolgen, ein Inhaltselement entfernen oder ein Inhaltselement genehmigen. Nachdem Sie den Inhalt genehmigt haben, können Sie ihn auf der Seite &quot;Predictive Content&quot;bearbeiten.
 
-## Filtern von Inhalten nach Kategorien  {#filter-content-by-categories}
+## Filtern von Inhalten nach Kategorien {#filter-content-by-categories}
 
 Filtern Sie den Inhalt, indem Sie eine oder mehrere Kategorien auswählen. Richten Sie dann mithilfe von Standardeinstellungen oder benutzerspezifischen Einstellungen den Datums- oder Datumsbereich für die Inhaltsanalyse ein.
 
-1. Klicken Sie auf der Seite &quot; **Alle Inhalte** &quot;auf das Filtersymbol und wählen Sie unter &quot; **Kategorie**&quot;eine oder mehrere Inhaltskomponenten aus.
+1. Klicken Sie auf der Seite **Alle Inhalte** auf das Filtersymbol und wählen Sie unter **Kategorie** eine oder mehrere Inhaltskomponenten aus.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,9 +42,9 @@ Filtern Sie den Inhalt, indem Sie eine oder mehrere Kategorien auswählen. Richt
 
    ![](assets/image2017-10-3-9-3a6-3a23.png)
 
-## Anzeigen von Analytics für ein Datum oder einen Datumsbereich {#display-analytics-for-a-date-or-date-range}
+## Analytics für ein Datum oder einen Datumsbereich {#display-analytics-for-a-date-or-date-range} anzeigen
 
-1. Um Daten für ein bestimmtes Datum oder einen bestimmten Datumsbereich anzuzeigen, klicken Sie auf das Kalendersymbol und wählen Sie dann im linken Bereich aus. Klicken Sie für einen benutzerdefinierten Datumsbereich auf den ersten und letzten Tag des Datumsbereichs im Kalender (wie dargestellt). Klicken Sie auf **Übernehmen**.
+1. Um Daten für ein bestimmtes Datum oder einen bestimmten Datumsbereich anzuzeigen, klicken Sie auf das Kalendersymbol und wählen Sie dann im linken Bereich aus. Klicken Sie für einen benutzerdefinierten Datumsbereich auf den ersten und letzten Tag des Datumsbereichs im Kalender (wie dargestellt). Klicken Sie auf **Apply**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
