@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen eines Formulars zu einer Landingpage mit Guided {#add-a-form-to-a-guided-landing-page}
+# hinzufügen eines Formulars zu einer geführten Landingpage {#add-a-form-to-a-guided-landing-page}
 
 Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
@@ -23,11 +23,11 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
 
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/one.png)
 
-1. Wählen Sie die Landingpage aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Suchen und wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
    >
    >Verfügbare Elemente in geführten Landingpages werden durch die Vorlage definiert. Wenn kein Formular im Bedienfeld &quot;Elemente&quot;angezeigt wird, wählen Sie eine neue Vorlage aus oder sprechen Sie mit Ihrem Vorlagenersteller.
 
-1. Klicken Sie mit der Dublette auf das **Formular** im Elementbedienfeld.
+1. Klicken Sie bei gedrückter Dublette im Elementbedienfeld auf das **Formular**.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -61,4 +61,4 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Schließen Sie jetzt einfach den Landingpage-Editor und [genehmigen Sie den Landingpage-Entwurf](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie jetzt einfach den Landingpage-Editor und genehmigen Sie den Landingpage-Entwurf[.](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
