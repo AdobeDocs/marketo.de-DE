@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Meldebogen 19-B {#template-b}
+# Vorlage 19-B {#template-b}
 
 [Vorlage 19-B herunterladen](http://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&amp;modificationdate=1441750370000&amp;api=v2)
 
