@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-Mail-Berichte nach Segmenten gruppieren {#group-email-reports-by-segmentations}
 
-Segmente sind nicht nur für dynamische Inhalte gedacht. Sie können Ihren [E-Mail-Leistungsbericht](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) auch nach [Segmenten](http://docs.marketo.com/display/docs/segmentation+and+snippets)gruppieren.
+Segmente sind nicht nur für dynamische Inhalte gedacht. Sie können Ihren [E-Mail-Leistungsbericht](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) auch nach [Segmentationen](http://docs.marketo.com/display/docs/segmentation+and+snippets) gruppieren.
 
 >[!PREREQUISITES]
 >
@@ -27,11 +27,11 @@ Segmente sind nicht nur für dynamische Inhalte gedacht. Sie können Ihren [E-Ma
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Wählen Sie Ihren **Bericht &quot;E-Mail-Leistung** &quot;aus.
+1. Wählen Sie den Bericht **E-Mail-Leistung** aus.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** und ziehen Sie über **Gruppen nach Segmenten**.
+1. Klicken Sie auf die Registerkarte **Setup** und ziehen Sie den Mauszeiger über **Gruppe nach Segmenten**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
@@ -39,7 +39,7 @@ Segmente sind nicht nur für dynamische Inhalte gedacht. Sie können Ihren [E-Ma
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Das ist&#39;s! Klicken Sie auf die Registerkarte **Bericht** . Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
+1. Das ist&#39;s! Klicken Sie auf die Registerkarte **Bericht**. Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
