@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Anhängen eines Inhaltselements {#attaching-a-piece-of-content}
 
-hinzufügen Sie nachverfolgbare Inhalte, indem Sie auf die Schaltfläche &quot; **Inhalt** &quot;klicken und eine Datei hochladen. Alle zuvor verfolgten Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
+hinzufügen Sie nachverfolgbaren Inhalt, indem Sie auf die Schaltfläche **Inhalt** klicken und eine Datei hochladen. Alle zuvor verfolgten Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
 
 >[!NOTE]
 >
