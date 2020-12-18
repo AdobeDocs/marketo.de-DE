@@ -17,11 +17,11 @@ Muss eine Kampagne automatisch beendet werden, wenn ein Empfänger antwortet? So
 
 >[!NOTE]
 >
->Dies ist nur für Kunden verfügbar, die in [Gmail oder Exchange](https://toutapp.com/next#settings/email-tracking) integriert sind und die Antwortverfolgung aktiviert haben.
+>Dies ist nur für Kunden verfügbar, die mit [Gmail oder Exchange](https://toutapp.com/next#settings/email-tracking) integriert sind und die Antwortverfolgung aktiviert haben.
 
-## Kampagne für eine Person deaktivieren {#turn-off-a-campaign-for-one-person}
+## Deaktivieren einer Kampagne für eine Person {#turn-off-a-campaign-for-one-person}
 
-Nachdem Sie Ihre Kampagne erstellt haben, gehen Sie einfach zur Registerkarte **Einstellungen** und wählen Sie aus, wie sich die Kampagne verhalten soll, wenn jemand antwortet.
+Nachdem Sie Ihre Kampagne erstellt haben, gehen Sie einfach zum Register **Einstellungen** und wählen Sie aus, wie sich die Kampagne verhalten soll, wenn jemand antwortet.
 
 Beide Optionen beenden die Kampagne und der Empfänger erhält keine E-Mails mehr von Ihnen.
 
