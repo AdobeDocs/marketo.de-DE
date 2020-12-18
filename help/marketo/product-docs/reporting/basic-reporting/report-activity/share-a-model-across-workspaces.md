@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Modell über Arbeitsflächen hinweg freigeben {#share-a-model-across-workspaces}
+# Modell über mehrere Arbeitsbereiche hinweg teilen {#share-a-model-across-workspaces}
 
 Marketo gibt Ihnen die Möglichkeit, ein Modell/mehrere Modelle auf allen Arbeitsbereichen freizugeben. So geht es.
 
-1. Gehen Sie zum Abschnitt **Analytics** .
+1. Gehen Sie zum Abschnitt **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner **Meine Modelle** und dann auf **Neuer Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner **Meine Modelle** und klicken Sie auf **Neuer Ordner**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ Marketo gibt Ihnen die Möglichkeit, ein Modell/mehrere Modelle auf allen Arbeit
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Ziehen Sie die Modelle, die Sie freigeben möchten, in den **Freigabeordner**.
+1. Ziehen Sie die freizugebenden Modelle in den Ordner **Freigeben**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und dann auf **Ordner** freigeben.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und klicken Sie auf **Ordner freigeben**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -44,4 +44,4 @@ Marketo gibt Ihnen die Möglichkeit, ein Modell/mehrere Modelle auf allen Arbeit
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-Das ist so einfach! Menschen aus anderen Arbeitsbereichen können nun durch das gemeinsame Modell navigieren. Möglicherweise möchten Sie die Personenzuweisung in diesem Arbeitsbereich ausführen. Weitere Informationen finden Sie unter [Starten des](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) Umsatzzyklusmodells.
+Das ist so einfach! Menschen aus anderen Arbeitsbereichen können nun durch das gemeinsame Modell navigieren. Möglicherweise möchten Sie die Personenzuweisung in diesem Arbeitsbereich ausführen. Weitere Informationen finden Sie unter [Starten des Umrechnungszyklusmodells](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS).
