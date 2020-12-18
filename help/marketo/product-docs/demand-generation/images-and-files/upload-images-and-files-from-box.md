@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bilder und Dateien aus Feld hochladen {#upload-images-and-files-from-box}
+# Bilder und Dateien aus Feld {#upload-images-and-files-from-box} hochladen
 
 Sie können Dateien von Box hochladen, um sie in Landingpages und E-Mails zu verwenden.
 
@@ -19,7 +19,7 @@ Sie können Dateien von Box hochladen, um sie in Landingpages und E-Mails zu ver
 
    ![](assets/designstudio-3.png)
 
-1. Gehen Sie zu** Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus dem Web** aufnehmen.
+1. Gehen Sie zu** Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus Web** abrufen.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
@@ -35,11 +35,11 @@ Sie können Dateien von Box hochladen, um sie in Landingpages und E-Mails zu ver
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Wählen Sie aus, wo die Dateien gespeichert werden sollen. Wählen Sie dann den **Box** -Ordner aus, aus dem Sie hochladen möchten. Klicken Sie auf **Weiter**.
+1. Wählen Sie aus, wo die Dateien gespeichert werden sollen. Wählen Sie dann den Ordner **Box** aus, den Sie hochladen möchten. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Wählen Sie die hochzuladenden Dateien aus. Klicken Sie auf **Importieren**.
+1. Wählen Sie die hochzuladenden Dateien aus. Klicken Sie auf **Import**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
