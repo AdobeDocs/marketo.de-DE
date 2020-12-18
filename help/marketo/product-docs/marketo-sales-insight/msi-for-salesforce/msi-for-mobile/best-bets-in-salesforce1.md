@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Beste Einsätze in Salesforce1 {#best-bets-in-salesforce}
+# Beste Betas in Salesforce1 {#best-bets-in-salesforce}
 
-Ihre [Best-Wetten](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sind Ihre Kontakte und Kontakte mit der höchsten Dringlichkeit und relativem Ergebnis. Nur die Interessenten, die Sie besitzen, sind in dieser Liste sichtbar, und die Liste wird aktualisiert, wenn sich die Interessentenwerte ändern.
+Ihre [Best Bets](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sind Ihre Kontakte mit der höchsten Dringlichkeit und dem höchsten relativen Ergebnis. Nur die Interessenten, die Sie besitzen, sind in dieser Liste sichtbar, und die Liste wird aktualisiert, wenn sich die Interessentenwerte ändern.
 
 1. Wechseln Sie in der Salesforce-App zum Bereich &quot;Marketo&quot;.
 
