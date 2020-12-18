@@ -26,5 +26,5 @@ Installieren Sie einfach Call mit Marketo Sales Connect, Send Marketing to Sales
 
    >[!NOTE]
    >
-   >Sie können diese Schritte wiederholen, um sie im Kontaktlayout zu installieren. Stellen Sie sicher, dass Sie für Schritt 3 **Kontakte** auswählen.
+   >Sie können diese Schritte wiederholen, um sie im Kontaktlayout zu installieren. Wählen Sie für Schritt 3 unbedingt **Kontakte**.
 
