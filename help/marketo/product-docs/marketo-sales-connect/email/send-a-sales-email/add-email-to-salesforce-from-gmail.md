@@ -15,4 +15,4 @@ ht-degree: 0%
 
 hinzufügen E-Mail an Salesforce ermöglicht es Ihnen, alle E-Mails, die Sie in Gmail erhalten, an Ihr Salesforce-Konto zu senden. Wir suchen nach dem Absender der E-Mail, sodass wir derzeit nur diese Schaltfläche für E-Mails verwenden können, die Sie erhalten haben.
 
-Wir arbeiten daran, die Funktionalität zu ändern, damit Sie bereits gesendete E-Mails protokollieren können. Wenn es sich nicht automatisch beim Versand anmeldete oder Ihre fehlgeschlagenen Aktivitäten im Protokoll [zur](http://toutapp.com/next#settings/crm/salesforce/activity)Aktivität angezeigt wurden, können Sie es in der Zwischenzeit an Ihre [Salesforce BCC-E-Mail-Adresse weiterleiten.](http://docs.marketo.com/x/soLS)
+Wir arbeiten daran, die Funktionalität zu ändern, damit Sie bereits gesendete E-Mails protokollieren können. Wenn es sich in der Zwischenzeit nicht automatisch beim Versenden anmeldete oder Ihre fehlgeschlagenen Aktivitäten im [Aktivität-Protokoll](http://toutapp.com/next#settings/crm/salesforce/activity) angezeigt wurden, können Sie es an Ihre [Salesforce BCC-E-Mail-Adresse weiterleiten.](http://docs.marketo.com/x/soLS)
