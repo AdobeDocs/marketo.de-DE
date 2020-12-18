@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Hochgeladene Bilder oder Dateien ersetzen {#replace-an-uploaded-image-or-file}
 
-1. Gehen Sie zum **Design** **Studio**.
+1. Gehen Sie zu **Design** **Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Klicken Sie auf **Bilder** **und** **Dateien** und wählen Sie die zu ersetzende Datei aus.
+1. Klicken Sie auf **Bilder** **und** **Dateien** und wählen Sie dann die Datei aus, die Sie ersetzen möchten.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >Sie können auch hochgeladene Bilder oder Dateien [suchen](search-uploaded-images-and-files.md).
+   >Sie können auch [hochgeladene Bilder oder Dateien](search-uploaded-images-and-files.md) suchen.
 
-1. Klicken Sie auf **Dateiaktionen** und wählen Sie &quot;Bild oder Datei **ersetzen&quot;**.
+1. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bild ersetzen oder Datei**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >Wenn Sie keine Datei aus einem freigegebenen Ordner auswählen können, speichern Sie diese Datei auf Ihrer Festplatte und wählen Sie sie dort aus.
 
-1. Vergewissern Sie sich, dass die Datei, die neben Datei **auswählen** angezeigt wird, korrekt ist, und klicken Sie dann auf **Ersetzen**.
+1. Vergewissern Sie sich, dass die neben **Datei auswählen** angezeigte Datei korrekt ist, und klicken Sie dann auf **Ersetzen**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
