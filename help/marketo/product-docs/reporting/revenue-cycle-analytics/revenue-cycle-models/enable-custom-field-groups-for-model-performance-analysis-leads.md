@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Benutzerspezifische Feldgruppen für Analyse der Modellleistung aktivieren (Interessenten) {#enable-custom-field-groups-for-model-performance-analysis-leads}
+# Benutzerspezifische Feldgruppen für Analyse der Modellleistung (Interessenten) {#enable-custom-field-groups-for-model-performance-analysis-leads} aktivieren
 
 >[!PREREQUISITES]
 >
->Kategorisieren Sie Standard- oder benutzerdefinierte Felder zum Berichte in Gruppen über den Field Organizer in Marketing. Weitere Informationen finden Sie unter [Erstellen benutzerdefinierter Feldgruppen über den Feldorganisator](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
+>Kategorisieren Sie Standard- oder benutzerdefinierte Felder zum Berichte in Gruppen über den Field Organizer in Marketing. Weitere Informationen finden Sie unter [Benutzerspezifische Feldgruppen über den Feldorganisator](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md) erstellen.
 
 <table> 
  <tbody> 
@@ -35,7 +35,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Was passiert, wenn Sie eine benutzerspezifische Feldgruppe aktivieren, die mit einem Feld für eine benutzerdefinierte Firma oder Person verknüpft ist?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Die benutzerspezifische Feldgruppe ist für den Berichte im Bereich Modellleistung (Interessenten) der Analyse aktiviert.</p></td> 
-   <td colspan="1" rowspan="1"><p>Das benutzerdefinierte Feld selbst ist für den Berichte in den Analysen Interessentenanwerbung, Kampagne-Analyse und Chancen aktiviert.</p><p><strong>HINWEIS:</strong> Benutzerspezifische Feldgruppen werden in diesen Analysen NICHT unterstützt. Daher werden die Gruppenzuordnungen nicht im Umsatz-Cycle-Explorer angezeigt, sondern<em>nur</em> im benutzerdefinierten Feld.</p></td> 
+   <td colspan="1" rowspan="1"><p>Das benutzerdefinierte Feld selbst ist für den Berichte in den Analysen Interessentenanwerbung, Kampagne-Analyse und Chancen aktiviert.</p><p><strong>HINWEIS: </strong> Benutzerspezifische Feldgruppen werden in diesen Analysen NICHT unterstützt. Daher werden die Gruppenzuordnungen nicht im Umsatz-Cycle-Explorer angezeigt, <em></em> sondern nur im benutzerdefinierten Feld.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -46,11 +46,11 @@ Führen Sie die folgenden Schritte aus, um eine benutzerspezifische Feldgruppe f
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Umsatzzyklusanalyse**.
+1. Klicken Sie auf **Revenue Cycle Analytics**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie neben einer leeren Feldgruppe auf **Keine** . Wenn Sie bereits drei Feldgruppen aktiviert haben und eine Bearbeitung vornehmen möchten, klicken Sie auf den Namen der Feldgruppe, die Sie ändern möchten.
+1. Klicken Sie neben einer leeren Feldgruppe auf **Keine**. Wenn Sie bereits drei Feldgruppen aktiviert haben und eine Bearbeitung vornehmen möchten, klicken Sie auf den Namen der Feldgruppe, die Sie ändern möchten.
 
    ![](assets/three.png)
 
