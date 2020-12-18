@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Zuordnung verstehen {#understanding-attribution}
+# Die Zuordnung {#understanding-attribution}
 
 ## Was ist Zuordnung? {#what-is-attribution}
 
@@ -23,11 +23,11 @@ Mithilfe der Zuordnung können Sie den Erfolg Ihres Programms messen. Einige Pro
 
 ## First Touch (FT) Attribution {#first-touch-ft-attribution}
 
-First Touch (FT)-Zuordnung beantwortet eine **einfache Geschäftsfrage**: &quot;Welche Programme sind gut darin, gewinnbringende neue Namen zu erhalten?&quot;
+First Touch (FT)-Zuordnung beantwortet eine **einfache Geschäftsfrage**, &quot;Welche Programme sind gut darin, gewinnbringende neue Namen zu erhalten?&quot;
 
 ## Multi-Touch-Zuordnung {#multi-touch-attribution}
 
-Multi-Touch beantwortet eine **komplizierte Geschäftsfrage**: &quot;Welche Programme sind am einflussreichsten, um Menschen im Laufe der Zeit in den Verkaufszyklus zu bringen?&quot;
+Multi-Touch beantwortet eine **komplizierte Geschäftsfrage**, &quot;Welche Programm sind am einflussreichsten, wenn es darum geht, Personen im Laufe der Zeit in den Verkaufszyklus zu versetzen?&quot;
 
 ## Zuordnungsregeln {#rules-of-attribution}
 
