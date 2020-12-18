@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# Fehler beim Senden vom Webanwendung {#error-when-sending-from-the-web-application}
+# Fehler beim Senden von Webanwendung {#error-when-sending-from-the-web-application}
 
-Wenn ein Fehler aus der [Webanwendung](http://toutapp.com/login)erzeugt wird, liegt dies in der Regel an einem Problem mit der Formatierung Ihrer E-Mail oder der dynamischen Felder. Vergewissern Sie sich, dass im Fenster &quot;Composite&quot;alles korrekt gefüllt ist, und versuchen Sie dann erneut, das Formular zu senden.
+Wenn ein Fehler aus der [Webanwendung](http://toutapp.com/login) erzeugt wird, liegt dies normalerweise an einem Problem mit der Formatierung Ihrer E-Mail oder der dynamischen Felder. Vergewissern Sie sich, dass im Fenster &quot;Composite&quot;alles korrekt gefüllt ist, und versuchen Sie dann erneut, das Formular zu senden.
