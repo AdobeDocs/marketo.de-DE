@@ -24,7 +24,7 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
    >[!NOTE]
    >
-   >Sie können Berichte auch auf der Registerkarte **Analytics** erstellen.
+   >Sie können Berichte auch über die Registerkarte **Analytics** erstellen.
 
    Klicken Sie mit der rechten Maustaste auf das Programm und wählen Sie &quot;Neues lokales Asset&quot;.
 
@@ -34,13 +34,13 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Wählen Sie den **Berichtstyp**.
+1. Wählen Sie den Bericht **Typ**.
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >Eine kurze Beschreibung [`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview) der einzelnen Punkte finden Sie unter .
+   >Eine kurze Beschreibung der einzelnen Komponenten finden Sie unter [`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview).
 
    Benennen Sie Ihren Bericht.
 
@@ -50,9 +50,9 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
    >
    >Um die Navigation in Ihren Berichten zu einem späteren Zeitpunkt zu vereinfachen, fügen Sie im Namen einen Verweis auf den Berichtstyp ein.
 
-   Legen Sie den Zeitraum Ihres Berichts fest. Weitere Informationen finden Sie unter Berichtszeitrahmen [ändern](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) .
+   Legen Sie den Zeitraum Ihres Berichts fest. Weitere Informationen finden Sie unter [Berichtszeitrahmen ändern](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md).
 
-1. Klicken Sie auf die Registerkarte **Bericht** , um Ihre Statistiken anzuzeigen.
+1. Klicken Sie auf die Registerkarte **Bericht**, um Ihre Statistiken anzuzeigen.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
@@ -61,19 +61,19 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
    >**Tieftauchen**
    >
    >
-   >Standardmäßig decken Berichte alle Aktivitäten in Ihrem Konto über Programme hinweg ab. Informationen über die vielen Möglichkeiten zum Filtern Ihres Berichts finden Sie im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) Deep Dive.
+   >Standardmäßig decken Berichte alle Aktivitäten in Ihrem Konto über Programme hinweg ab. Informationen zu den vielen Möglichkeiten zum Filtern Ihres Berichts finden Sie im Tieftauchgang [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
    >[!NOTE]
    >
    >**Erinnerung**
    >
    >
-   >Sie können am Ende schnell viele Berichte erstellen. Denken Sie daran, einen nicht mehr benötigten Bericht zu [löschen](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) .
+   >Sie können am Ende schnell viele Berichte erstellen. Denken Sie daran, [einen Bericht](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) zu löschen, den Sie nicht mehr benötigen.
 
    >[!NOTE]
    >
    >**Verwandte Artikel**
    >
    >
-   >Sie können den Berichtszeitraum [](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)ändern, einen Basisbericht [](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)abonnieren, einen Bericht nach Excel [](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)exportieren, Personen in einem Bericht mit intelligenter Liste [](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)filtern und [vieles mehr](http://docs.marketo.com/display/docs/basic+reporting).
+   >Sie können [einen Berichtszeitrahmen](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [abonnieren einen Basisbericht](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [einen Bericht nach Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) exportieren, [Personen in einem Bericht mit einer intelligenten Liste](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) und [mehr](http://docs.marketo.com/display/docs/basic+reporting) filtern.
 
