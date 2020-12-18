@@ -35,9 +35,9 @@ ht-degree: 0%
    >
    >Sie können nun Vorlagen, Kampagnen und Gruppen für dieses Team freigeben.
 
-## hinzufügen Personen in Ihrem Unterteam {#add-people-to-your-sub-team}
+## hinzufügen Personen in Ihr Unterteam {#add-people-to-your-sub-team}
 
-1. Wählen Sie weiterhin in der Gruppe &quot;Teamverwaltung&quot;die Gruppe &quot; **Alle** &quot;aus.
+1. Wählen Sie in Team Management weiterhin die Gruppe **Alle** aus.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Hinzufügen In Teams** ausgewählt.
+1. Klicken Sie auf **Hinzufügen Ausgewählte Teams**.
 
    ![](assets/seven.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Klicken Sie nach Abschluss **Hinzufügen auf Teams** .
+1. Klicken Sie abschließend auf **Hinzufügen auf Teams**.
 
    ![](assets/nine.png)
 
