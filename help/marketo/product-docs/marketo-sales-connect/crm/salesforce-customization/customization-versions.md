@@ -15,6 +15,8 @@ ht-degree: 0%
 
 Im Folgenden finden Sie Details zu Aktualisierungen, die an Ihren Marketing Connect-Anpassungen für Salesforce vorgenommen wurden.
 
-**Die Felder für die** Aktivität in Version 1, Kontaktfelder, Interessentenfelder, Kontofelder, Gelegenheitsfelder, Schaltflächen, [diese Markierungsfelder](http://docs.marketo.com/x/wQDh).
+**Die Felder für die**
+Aktivität in Version 1, Kontaktfelder, Interessentenfelder, Kontofelder, Gelegenheitsfelder, Schaltflächen,  [diese Markierungsfelder](http://docs.marketo.com/x/wQDh).
 
-**Die** Felder für Aktivitäten, Kontaktfelder, Interessentenfelder, Kontofelder, Gelegenheitsfelder, Schaltflächen und Markierungsfelder stehen jetzt im Seitenlayout für Salesforce-Blitze zur Verfügung.
+**Die**
+Felder für Aktivitäten, Kontaktfelder, Interessentenfelder, Kontofelder, Gelegenheitsfelder, Schaltflächen und Markierungsfelder stehen jetzt im Seitenlayout für Salesforce-Blitze zur Verfügung.
