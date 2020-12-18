@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Snippet genehmigen {#approve-a-snippet}
+# Snippet {#approve-a-snippet} genehmigen
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Ein Snippet muss vor der Verwendung genehmigt werden.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klicken Sie auf Ihr **Snippet** und dann unter **Snippet-Aktionen** auf **Genehmigen**.
+1. Klicken Sie auf **Snippet** und dann unter **Snippet-Aktionen** auf **Genehmigen**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
