@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen einer Vorlage für eine Landingpage mit Freiform {#create-a-free-form-landing-page-template}
+# Erstellen einer Vorlage für eine freie Landingpage {#create-a-free-form-landing-page-template}
 
 Freiform-Landingpages erfordern weniger Fachwissen als ihre leitenden Kollegen. Gehen Sie wie folgt vor, um eine Vorlage für zukünftige Landingpages zu erstellen.
 
@@ -19,11 +19,11 @@ Freiform-Landingpages erfordern weniger Fachwissen als ihre leitenden Kollegen. 
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie dann **Neue Landingpage Vorlage**.
+1. Klicken Sie auf **Neu** und wählen Sie **Vorlage für neue Landingpages**.
 
    ![](assets/two.png)
 
-1. Wählen Sie den Ordner aus und geben Sie der Vorlage einen Namen. &quot;Freies Formular&quot;ist der Standard-Bearbeitungsmodus. Klicken Sie nach dem Benennen der Vorlage auf **Erstellen**.
+1. Wählen Sie den Ordner aus und geben Sie der Vorlage einen Namen. Free-form ist der Standard-Bearbeitungsmodus. Klicken Sie nach dem Benennen der Vorlage auf **Erstellen**.
 
    ![](assets/three.png)
 
@@ -43,8 +43,8 @@ Freiform-Landingpages erfordern weniger Fachwissen als ihre leitenden Kollegen. 
 
    >[!NOTE]
    >
-   >Wählen Sie &quot;Munchkin-Verfolgung **** deaktivieren&quot;, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder Sie möchten lediglich das Webverhalten auf einer bestimmten Seite nicht verfolgen.\
-   >Wählen Sie **Mobilkompatibilität** überprüfen, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
+   >Wählen Sie **Munchkin-Verfolgung** deaktivieren, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder Sie möchten lediglich das Webverhalten auf einer bestimmten Seite nicht verfolgen.\
+   >Wählen Sie **Mobilkompatibilität überprüfen**, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
 
    >[!NOTE]
    >
