@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bericht klonen {#clone-a-report}
+# Einen Bericht klonen {#clone-a-report}
 
 Erstellen Sie ein Duplikat Ihres Berichts, um ihn weiter anzupassen, ohne das Original zu ändern.
 
@@ -19,7 +19,7 @@ Erstellen Sie ein Duplikat Ihres Berichts, um ihn weiter anzupassen, ohne das Or
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Wählen Sie Ihren Bericht aus. Wählen Sie **Berichtsaktionen > Bericht** klonen.
+1. Wählen Sie Ihren Bericht aus. Wählen Sie **Berichtsaktionen > Einen Bericht** klonen.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
