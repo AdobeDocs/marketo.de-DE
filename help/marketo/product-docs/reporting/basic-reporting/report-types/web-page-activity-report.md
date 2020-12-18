@@ -22,9 +22,9 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 >* [hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [Erstellen Sie einen](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Bericht und wählen Sie den Berichtstyp [** Aktivität der Webseite**](report-type-overview.md)aus.
-1. Wählen Sie aus, ob bekannte oder anonyme Personen [im Bericht](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) angezeigt werden sollen.
-1. [Legen Sie den Zeitraum Ihres Berichts](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) fest und klicken Sie auf die Registerkarte **Bericht** .
+1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Bericht und wählen Sie den Berichtstyp [** Aktivität der Webseite** ](report-type-overview.md)aus.
+1. Wählen Sie [Bekannte oder anonyme Personen](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) im Bericht anzeigen.
+1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
 1. Du hast es! Überprüfen Sie Ihren Bericht, um zu sehen, wer Ihre Site besucht.
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +35,10 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 
    >[!TIP]
    >
-   >Um herauszufinden, wer Ihre Site am häufigsten besucht, [sortieren Sie Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)in der Spalte &quot; *SeitenAnsichten* &quot;und wählen Sie &quot;Absteigend sortieren&quot;.
+   >Um herauszufinden, wer Ihre Site am häufigsten besucht, sortieren Sie [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)in der Spalte *Ansichten* und wählen Sie Absteigend sortieren.
 
-   [Marketo fügt Ihrer Datenbank anonyme](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) Website-Besucher hinzu und Sie können diese in diesem Bericht anzeigen lassen. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.\
-   [Folgende Spalten können Sie für einen Bericht zur Aktivität einer Webseite auswählen](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) :
+   [Marketo fügt Ihrer Datenbank ](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) anonyme Website-Besucher hinzu und Sie können diese in diesem Bericht anzeigen lassen. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.\
+   [Folgende Spalten können Sie für einen Bericht zur Aktivität einer Webseite ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
 
 <table> 
  <thead> 
@@ -50,7 +50,7 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
  <tbody> 
   <tr> 
    <td>Person</td> 
-   <td>Name, Titel und Firma des Besuchers.<br><strong>Klicken Sie auf</strong> , um Angaben zur Ansicht und zum Verlauf der Aktivität zu erhalten.</td> 
+   <td>Name, Titel und Firma des Besuchers.<br><strong>Angaben zur Person </strong> und zum Verlauf der Aktivität durch Klicken auf Ansicht.</td> 
   </tr> 
   <tr> 
    <td>Erster/Letzter Besuch (Zeitzone)</td> 
@@ -58,7 +58,7 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
   </tr> 
   <tr> 
    <td>Ansichten der Seite</td> 
-   <td>Anzahl der von diesem Besucher geladenen Seiten.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Klicken Sie auf</a></strong> , um die besuchten Seiten Ansicht.</td> 
+   <td>Anzahl der von diesem Besucher geladenen Seiten.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Klicken Sie </a></strong> auf Ansicht, welche Seiten besucht wurden.</td> 
   </tr> 
   <tr> 
    <td>HTTP-Referrer</td> 
@@ -70,7 +70,7 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
   </tr> 
   <tr> 
    <td>Vorgestellte Firma oder ISP</td> 
-   <td>Die Firma, wie aus der IP-Adresse des Besuchers abgeleitet. <strong>Fettgedruckte</strong> Namen geben an, dass dies die Firma ist, nicht der ISP. </td> 
+   <td>Die Firma, wie aus der IP-Adresse des Besuchers abgeleitet. <strong>Die Namen in </strong> Fettdruck weisen darauf hin, dass dies die Firma ist, nicht der ISP. </td> 
   </tr> 
   <tr> 
    <td>Inferiertes Land, Bundesland/-region und Stadt</td> 
@@ -81,7 +81,7 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 
 >[!TIP]
 >
->Nimm deine Vertriebsmitarbeiter! [Filtern Sie den](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)Bericht nach ihrem Territorium und [abonnieren Sie ihn](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>Nimm deine Vertriebsmitarbeiter! [Filtern Sie den ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)Bericht nach ihrem Territorium und  [abonnieren Sie ihn](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
 >[!NOTE]
 >
@@ -95,4 +95,4 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr über andere interessante Berichte im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere interessante Berichte finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
