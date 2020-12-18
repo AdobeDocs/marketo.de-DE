@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vorschau einer Landingpage mit dynamischen Inhalten {#preview-a-landing-page-with-dynamic-content}
+# Vorschau einer Landingpage mit dynamischem Inhalt {#preview-a-landing-page-with-dynamic-content}
 
 Vorschau Ihrer Landingpage nach dem Hinzufügen dynamischer Inhalte, um sicherzustellen, dass alles wie gewünscht aussieht.
 
@@ -24,7 +24,7 @@ Vorschau Ihrer Landingpage nach dem Hinzufügen dynamischer Inhalte, um sicherzu
 
 
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf &quot; **Vorschau&quot;.**
+1. Wählen Sie eine Landingpage aus und klicken Sie auf **Vorschau.**
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
