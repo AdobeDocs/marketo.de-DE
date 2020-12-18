@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personen aus einer Kampagne entfernen {#remove-people-from-a-campaign}
+# Personen aus einer Kampagne {#remove-people-from-a-campaign} entfernen
 
 Sie können eine Kampagne automatisch beenden, wenn ein Empfänger antwortet. Und Sie können wählen, ob Sie die Kampagne als &quot;Erfolg&quot; für diesen Empfänger kennzeichnen.
 
@@ -19,9 +19,9 @@ Um dies einzurichten, markieren Sie nach dem Erstellen Ihrer Kampagne einfach di
 
 Außerdem können Sie Personen aus der Kampagne entfernen, Personen aus einer Kampagne auf der Seite &quot;Personen&quot;entfernen und eine ganze Personengruppe entfernen. Sehen wir uns alle drei Methoden unten an.
 
-## Eine Person direkt aus einer Kampagne entfernen {#remove-a-person-directly-from-a-campaign}
+## Eine Person direkt aus einer Kampagne {#remove-a-person-directly-from-a-campaign} entfernen
 
-1. Klicken Sie in Sales Connect auf die Registerkarte **Kampagnen** .
+1. Klicken Sie in Sales Connect auf die Registerkarte **Kampagnen**.
 
    ![](assets/one.png)
 
@@ -37,13 +37,13 @@ Außerdem können Sie Personen aus der Kampagne entfernen, Personen aus einer Ka
 
    ![](assets/four.png)
 
-1. (OPTIONALER SCHRITT) Sie können auch mehrere Personen gleichzeitig entfernen, indem Sie auf die Kontrollkästchen neben ihren Namen klicken und oben auf die Schaltfläche &quot; **Entfernen** &quot;klicken.
+1. (OPTIONALER SCHRITT) Sie können auch mehrere Personen gleichzeitig entfernen, indem Sie auf die Kontrollkästchen neben ihren Namen klicken und oben auf die Schaltfläche **Entfernen** klicken.
 
    ![](assets/five.png)
 
-## Entfernen einer Person aus einer Kampagne auf der Seite &quot;Personen&quot; {#remove-a-person-from-a-campaign-within-the-people-page}
+## Entfernen einer Person aus einer Kampagne auf der Seite &quot;Personen&quot;{#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Klicken Sie in Sales Connect auf die Registerkarte **People** .
+1. Klicken Sie in Sales Connect auf die Registerkarte **Personen**.
 
    ![](assets/one-a.png)
 
@@ -51,17 +51,17 @@ Außerdem können Sie Personen aus der Kampagne entfernen, Personen aus einer Ka
 
    ![](assets/two-a.png)
 
-1. Das Bedienfeld für die Ansicht der Personendetails wird rechts geöffnet. Klicken Sie auf die Registerkarte **Verlauf** , gefolgt von der Schaltfläche **Entfernen** .
+1. Das Bedienfeld für die Ansicht der Personendetails wird rechts geöffnet. Klicken Sie auf die Registerkarte **Verlauf**, gefolgt von der Schaltfläche **Entfernen**.
 
    ![](assets/three-a.png)
 
-## Eine Gruppe von Personen aus einer Kampagne entfernen {#remove-a-group-of-people-from-a-campaign}
+## Eine Gruppe von Personen aus einer Kampagne {#remove-a-group-of-people-from-a-campaign} entfernen
 
-1. Klicken Sie in Sales Connect auf die Registerkarte **People** .
+1. Klicken Sie in Sales Connect auf die Registerkarte **Personen**.
 
    ![](assets/one-b.png)
 
-1. Wählen Sie Ihre Gruppe unter **Meine Gruppen** aus.
+1. Suchen und wählen Sie Ihre Gruppe unter **Meine Gruppen** aus.
 
    ![](assets/two-b.png)
 
