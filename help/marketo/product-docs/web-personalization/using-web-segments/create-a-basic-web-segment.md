@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ein einfaches Websegment erstellen {#create-a-basic-web-segment}
+# Erstellen eines einfachen Websegments {#create-a-basic-web-segment}
 
 Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanzdienstleistungsbranche anspricht.
 
@@ -19,7 +19,7 @@ Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanz
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicken Sie auf Neu **erstellen**.
+1. Klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -31,7 +31,7 @@ Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanz
 
    ![](assets/location-drag-hand.jpg)
 
-1. Wählen Sie aus der Dropdownliste ein hinzuzufügendes Land aus. Wählen Sie die **Vereinigten Staaten** aus.
+1. Wählen Sie aus der Dropdownliste ein hinzuzufügendes Land aus. Wählen Sie **Vereinigte Staaten**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -43,13 +43,13 @@ Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanz
 
    ![](assets/industries-hand.jpg)
 
-1. Wählen Sie aus der Dropdownliste die hinzuzufügenden Branchen aus. Wählen Sie **Finanzdienstleistungen ****Industrie**.
+1. Wählen Sie aus der Dropdownliste die hinzuzufügenden Branchen aus. Wählen Sie **Finanzdienstleistungen ****Branche**.
 
    ![](assets/segment-industries.png)
 
    Sie haben nun ein Basissegment für alle Potenzieller Kunde eingerichtet, die Ihre Website aus den USA und der Finanzbranche besuchen.
 
-1. Klicken Sie auf** Speichern **um das Segment zu speichern oder auf Kampagne **** Speichern und definieren, um zur Seite &quot;Kampagnen&quot;zu wechseln.
+1. Klicken Sie auf** Speichern **zum Speichern des Segments oder **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
