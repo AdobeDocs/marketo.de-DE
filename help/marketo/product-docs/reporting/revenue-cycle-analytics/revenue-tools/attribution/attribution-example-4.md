@@ -19,7 +19,7 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 * 15. April | John besucht (Webinar) - Erfolg
 * 22. April | (Chance 1) für 3.000 $ erstellt
 * 24. April | (Chance 2) für 5.000 $ erstellt
-* 25. April | John und Michelle sind mit **beiden** Optys verbunden
+* 25. April | John und Michelle sind mit **beide** Optionen verknüpft.
 * 29. April | [Option 1] ist geschlossen
 
 | Name des Programms | (Inhalt) | (Webinar) |
