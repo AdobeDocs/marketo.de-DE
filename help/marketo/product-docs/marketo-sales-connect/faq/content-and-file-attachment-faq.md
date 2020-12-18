@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Häufig gestellte Fragen zu Inhalten und Dateianlagen {#content-and-file-attachment-faq}
+# Häufig gestellte Fragen zu Inhalt und Dateianlage {#content-and-file-attachment-faq}
 
 ## Was ist der Unterschied zwischen Inhalt und Dateianhang? {#what-is-the-difference-between-content-and-a-file-attachment}
 
 Ein **Dateianhang** ist genau wie ein Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
 
-**Inhalt** ist das, was wir verwenden, um Dateien zu beschreiben (PPT, PDF, Word-Dokument usw.) dass Sie von Sales Connect verfolgt werden möchten.
+**Inhalt** beschreibt Dateien (PPT, PDF, Word-Dokument usw.) dass Sie von Sales Connect verfolgt werden möchten.
 
 Nachdem Sie auf diese Schaltfläche geklickt haben, können Sie eine bereits hochgeladene Datei auswählen oder eine neue Datei hochladen, die verfolgt werden soll. Anschließend fügen wir einen Link in die E-Mail oder Vorlage ein, die Sie verwenden.
 
