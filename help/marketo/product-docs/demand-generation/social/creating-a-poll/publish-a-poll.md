@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Umfrage veröffentlichen {#publish-a-poll}
 
-Nachdem Sie eine Umfrage [erstellt haben](create-a-poll.md), können Sie sie auf Ihren Marketing-Landingpages, auf Facebook und auf Ihrer Website veröffentlichen.
+Nachdem Sie [eine Umfrage ](create-a-poll.md) erstellt haben, können Sie diese auf Ihren Marketing-Landingpages, auf Facebook und auf Ihrer Website veröffentlichen.
 
 1. Navigieren Sie zu Ihrer Landingpage und öffnen Sie sie zur Bearbeitung.
 
@@ -33,7 +33,7 @@ Nachdem Sie eine Umfrage [erstellt haben](create-a-poll.md), können Sie sie auf
 >
 >Sie müssen Ihre Umfrage genehmigen, um sie hier verfügbar zu machen.
 
-Herzlichen Glückwunsch! Genehmigen Sie die Landingpage und Ihre Umfrage ist live. Sie können die Landingpage auch auf Facebook [](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) veröffentlichen oder die Umfrage auf Ihrer Website [ablegen](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Herzlichen Glückwunsch! Genehmigen Sie die Landingpage und Ihre Umfrage ist live. Sie können die Landingpage auch auf Facebook[ oder ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)veröffentlichen und die Umfrage auf Ihrer Website[ platzieren.](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
 >[!TIP]
 >
