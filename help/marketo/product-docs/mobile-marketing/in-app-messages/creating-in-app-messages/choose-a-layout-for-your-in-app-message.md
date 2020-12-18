@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Layout für Ihre In-App-Nachricht auswählen {#choose-a-layout-for-your-in-app-message}
+# Wählen Sie ein Layout für Ihre In-App-Nachricht {#choose-a-layout-for-your-in-app-message}
 
 Marketo bietet sechs Layouts zum Erstellen von In-App-Nachrichten.
 
@@ -34,7 +34,7 @@ Das dritte Popup-Layout ist hervorragend, wenn Sie kein Bild in Ihrer In-App-Nac
 
 ![](assets/image2016-5-9-13-3a7-3a33.png)
 
-## Layouts im Vollbildmodus {#full-screen-layouts}
+## Vollbildlayouts {#full-screen-layouts}
 
 Die drei Layouts im Vollbildformat sind für den Import abgeschlossener Grafiken konzipiert. Wählen Sie Ihre eigenen Schriftarten aus und betten Sie sie in die Grafik ein, um sie einer beliebigen Webseite oder Werbung anzupassen.
 
@@ -58,7 +58,7 @@ Das dritte Layout im Vollbildmodus ist mit dem zweiten identisch, mit Ausnahme d
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nachdem Sie sich mit den Vorlagen vertraut gemacht haben, sollten Sie beim [Erstellen der In-App-Nachrichtenbilder](add-in-app-message-images.md)eine Auswahl treffen.
+Nachdem Sie sich mit den Vorlagen vertraut gemacht haben, sollten Sie eine Vorlage auswählen, wenn Sie [Ihre In-App-Nachrichtenbilder ](add-in-app-message-images.md) erstellen.
 
 >[!MORELIKETHIS]
 >
