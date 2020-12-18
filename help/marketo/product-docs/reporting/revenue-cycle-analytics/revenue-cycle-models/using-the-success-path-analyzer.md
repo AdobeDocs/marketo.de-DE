@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Verwenden des Erfolgspfad-Analyzers {#using-the-success-path-analyzer}
 
-Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl den Fluss (Betrag) als auch die Geschwindigkeit (in Tagen) der Personen während der Phasen Ihres [Umsatzzyklusmodells](understanding-revenue-models.md)widerspiegeln.
+Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl Fluss (Menge) als auch Geschwindigkeit (in Tagen) der Personen während der Phasen Ihres [Umrechnungszyklusmodells](understanding-revenue-models.md) widerspiegeln.
 
 >[!PREREQUISITES]
 >
 >[Erstellen eines Erfolgspfad-Analyzers](create-a-success-path-analyzer.md)
 
-1. Gehen Sie zu **Analytics** und wählen Sie Ihren **Erfolgspfadanalysator**.
+1. Gehen Sie zu **Analytics** und wählen Sie **Erfolgspfadanalyse**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    Das Diagramm auf der rechten Seite spiegelt die Daten in der ausgewählten Schaltfläche auf der linken Seite wider. Standardmäßig ist dies Balance.
 
-1. Klicken Sie auf **In Fluss** , um zu zeigen, wie viele Personen während des ausgewählten Zeitraums die Bühne betreten haben.
+1. Klicken Sie auf **In Fluss**, um zu zeigen, wie viele Personen während des ausgewählten Zeitraums die Bühne betreten haben.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,15 +33,15 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
    * Klicken Sie auf Conv %, um den Konversionsrate von dieser zur nächsten Stufe zu zeichnen.
    * Klicken Sie auf Durchschn. Zeit, um zu sehen, wie lange Personen in dieser Phase verbracht haben, bevor sie zur nächsten Phase wechseln.
 
-1. Klicken Sie auf **Diagrammaktionen** > Zeitraum vergleichen, um die Daten mit einem anderen Zeitrahmen gleicher Länge zu vergleichen.
+1. Klicken Sie auf **Diagrammaktionen** > Zeitraum vergleichen, um die Daten mit einem anderen Zeitraum gleicher Länge zu vergleichen.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Wählen Sie das **Von** -Datum für den Vergleichszeitraum aus.
+1. Wählen Sie das Datum **Von** für den Vergleichszeitraum aus.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   Das **Bis** -Datum wird automatisch an die Länge des ursprünglichen Zeitraums angepasst.
+   Das Datum **Bis** wird automatisch auf die Länge des ursprünglichen Zeitraums eingestellt.
 
 1. Klicken Sie auf **Vergleichen**.
 
@@ -51,11 +51,11 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Um die Zeitskala des Diagramms zu ändern, klicken Sie auf eine der **Diagramme nach** den Schaltflächen: täglich (Standard), wöchentlich und monatlich
+1. Um die Zeitskala des Diagramms zu ändern, klicken Sie auf eine der Schaltflächen **Diagramm nach**: täglich (Standard), wöchentlich und monatlich
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Klicken Sie für Bühnen mit SLAs (Service-Level Agreements) auf **Diagrammaktionen** >** SLA Due** anzeigen, um alle Personen anzuzeigen, die innerhalb des festgelegten Zeitraums eine SLA-Zielgruppe versäumt haben.
+1. Klicken Sie für Phasen mit SLAs (Service-Level Agreements) auf **Diagrammaktionen** >** SLA-Fälligkeit anzeigen**, um alle Personen anzuzeigen, die innerhalb des angegebenen Zeitraums eine SLA-Zielgruppe versäumt haben.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   Die orangefarbenen Personen befinden sich möglicherweise *oder nicht* noch in der SLA-Bühne.
+   Die orangefarbenen Personen können *oder* noch nicht in der SLA-Phase sein.
 
-1. Klicken Sie auf **Diagrammaktionen** >** SLA Past Due** anzeigen, um alle Personen mit abgelaufenen SLA-Zielgruppen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch in der SLA-Phase befinden.
+1. Klicken Sie auf **Diagrammaktionen** >** SLA Past Due** anzeigen, um alle Personen mit abgelaufenen SLA-Zielgruppen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch im SLA-Stadium befinden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
