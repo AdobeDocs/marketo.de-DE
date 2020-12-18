@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Löschen einer Kategorie {#delete-a-template-category}
+# Löschen einer Kategorie für Vorlagen {#delete-a-template-category}
 
 1. Klicken Sie auf das Menüsymbol neben einer Kategorie und dann auf **Löschen**.
 1. Klicken Sie zur Bestätigung auf **Löschen*.
