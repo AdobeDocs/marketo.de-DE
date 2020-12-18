@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programm-Analyzer erstellen {#create-a-program-analyzer}
+# Erstellen eines Programm-Analyzers {#create-a-program-analyzer}
 
 Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Marketingkasse geben. Verwenden Sie den Programm-Analyzer, um alle Kosten zu prüfen und zu vergleichen und detailliert nach Programm oder Kanal zurückzugeben.
 
@@ -19,11 +19,11 @@ Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Mar
 >
 >**Erinnerung**
 >
->Um gute Daten von einem Programm-Analyzer zu erhalten, stellen Sie sicher, dass Ihre CRM-Ansprechpartner Rollen in den Chancen haben und dass Ihre Marketing-Programm vollständig eingerichtet sind, wobei [Periodenkosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), Programm-Status und Erfolg definiert sind.
+>Um gute Daten von einem Programm-Analyzer zu erhalten, stellen Sie sicher, dass Ihre CRM-Kontakte Rollen in den Chancen haben und dass Ihre Marketing-Programm vollständig eingerichtet sind, wobei [Periodenkosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), Programm-Status und Erfolg definiert sind.
 
 >[!TIP]
 >
->Damit kostenlose Programm im Programm-Analyzer angezeigt werden, [setzen Sie ihre Zeitraumkosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) auf 0 USD.
+>Damit Programm ohne Kosten im Programm-Analyzer angezeigt werden, setzen Sie [ihre Zeitraumkosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) auf $0.
 
 1. Klicken Sie auf die Kachel Analytics.
 
@@ -51,7 +51,7 @@ Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Mar
 
    >[!TIP]
    >
-   >Um einen bestimmten Bereich auszuwählen, wählen Sie &quot; **Benutzerdefiniert** &quot;und verwenden Sie die Felder &quot; **Von** &quot;und &quot; **Bis** &quot;.
+   >Um einen bestimmten Bereich auszuwählen, wählen Sie **Benutzerdefiniert** und verwenden Sie die Felder **Von** und **Bis**.
 
 1. Wenn Sie den neuen benutzerdefinierten Analyzer speichern möchten, wählen Sie im Dropdownmenü Analyzer-Aktionen die Option Speichern unter.
 
@@ -75,8 +75,8 @@ Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Mar
 
 >[!NOTE]
 >
->Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)zu verstehen.
+>Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zu verstehen.
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) and [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Weitere Informationen finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) und [Umsatzwyklus Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
