@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Grundlagen zu Sendeoptionen {#understanding-send-options}
+# Die Sendeoptionen {#understanding-send-options}
 
 Beim Erstellen einer Kampagne stehen Ihnen verschiedene Optionen zur Erstellung Ihrer E-Mail-Schritte in Sales Connect zur Verfügung. Und je nachdem, wo Ihre E-Mail in Ihre Kampagne fällt, unterscheiden sich auch Ihre Optionen.
 
