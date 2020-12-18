@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kategorien zusammenführen und entfernen {#merge-and-de-duplicate-categories}
+# Kategorien zusammenführen und Duplikat löschen {#merge-and-de-duplicate-categories}
 
 Wenn Ihr Sales Connect-Konto auf die neueste Vorlagenversion aktualisiert wird, werden möglicherweise rote Warnsymbole neben einigen Kategorien angezeigt. Diese weisen darauf hin, dass Sie mehrere Kategorien mit demselben Namen haben. Durch Öffnen des Menüs rechts neben der Kategorie können Sie diese Duplikat-Kategorien mit einem Knopfdruck zusammenführen.
 
