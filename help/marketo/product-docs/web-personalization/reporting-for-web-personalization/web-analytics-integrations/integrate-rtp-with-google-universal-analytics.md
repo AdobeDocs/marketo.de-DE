@@ -39,22 +39,22 @@ Google Universal Analytics mit RTP-Daten bietet Ihnen ein besseres Verständnis,
 
 
 
-## Benutzerdefinierte Dimensionen in GUA einrichten {#set-up-custom-dimensions-in-gua}
+## Benutzerdefinierte Dimensionen in GUA {#set-up-custom-dimensions-in-gua} einrichten
 
 1. In Google Analytics
 
-   1. Gehe zu **Admin**
-   1. Wählen Sie das **Konto aus.**
-   1. Wählen Sie die **Eigenschaft aus.**
-   1. Wählen Sie **Benutzerdefinierte Definitionen **und **benutzerspezifische Dimensionen.**
+   1. Gehen Sie zu **Admin**
+   1. Wählen Sie das **Konto**
+   1. Wählen Sie die **Eigenschaft.**
+   1. Wählen Sie **Benutzerdefinierte Dimensionen **und **Benutzerspezifische Definitionen.**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. hinzufügen eine neue benutzerdefinierte Dimension. Klicken **+Neue benutzerspezifische Dimension**
+1. hinzufügen eine neue benutzerdefinierte Dimension. Klicken Sie auf **+Neue benutzerspezifische Dimension**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. hinzufügen der folgenden **benutzerspezifischen Dimensionen:**
+1. hinzufügen Sie die folgenden **Benutzerspezifische Dimensionen:**
 
 <table> 
  <tbody> 
@@ -66,31 +66,31 @@ Google Universal Analytics mit RTP-Daten bietet Ihnen ein besseres Verständnis,
   <tr> 
    <td><p><strong>RTP-Organisation</strong></p></td> 
    <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">they</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Branche</strong></p></td> 
    <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">they</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Kategorie</strong></p></td> 
    <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">they</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Gruppe</strong></p></td> 
    <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">they</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->**Die Namen** der benutzerdefinierten Dimension müssen exakt den in der obigen Tabelle definierten Namen entsprechen (ansonsten werden benutzerdefinierte RTP-Dashboard und Berichte in GUA nicht korrekt angezeigt)
+>**Die** Namen der benutzerdefinierten Dimension müssen exakt den in der obigen Tabelle definierten Namen entsprechen (ansonsten werden benutzerdefinierte RTP-Dashboard und Berichte in GUA nicht korrekt angezeigt).
 
-1. hinzufügen **Name. **Wählen Sie den Bereich als **Sitzung aus.** Klicken Sie auf **Erstellen.**
+1. hinzufügen **Name. **Wählen Sie den Bereich als **Sitzung aus.** Klicken Sie auf  **Erstellen.**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -100,15 +100,15 @@ Die Liste Ihrer benutzerspezifischen Dimension sollte wie folgt aussehen.
 
 Nachdem Sie die benutzerdefinierten Dimensionen in GUA aktiviert haben, gehen Sie zur RTP-Plattform, um diese Dimensionen in RTP zu aktivieren.
 
-## Aktivieren der GUA-Integration in Ihrem RTP-Konto {#activate-the-gua-integration-in-your-rtp-account}
+## Aktivieren Sie die GUA-Integration in Ihrem RTP-Konto {#activate-the-gua-integration-in-your-rtp-account}
 
 1. Wechseln Sie auf der RTP-Plattform zu **Kontoeinstellungen.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
 1. Klicken Sie unter **Kontoeinstellungen** auf **Domäne.**
-1. Klicken Sie unter **Analytics auf **Google Universal Analytics**.
-1. Aktivieren Sie **** die entsprechenden benutzerspezifischen Dimensionen und Ereignis, um diese Daten von RTP an Google Universal Analytics anzuhängen.
+1. Klicken Sie unter **Analytics **auf **Google Universal Analytics**.
+1. Aktivieren Sie **Aktivieren Sie** die entsprechenden benutzerspezifischen Dimensionen und Ereignis, um diese Daten von RTP an Google Universal Analytics anzuhängen.
 1. Geben Sie die **Indexnummer** der Dimension ein, die an der Indexnummer in GUA ausgerichtet ist.
 1. Klicken Sie auf **Speichern**.
 
@@ -120,12 +120,12 @@ Nachdem Sie die benutzerdefinierten Dimensionen in GUA aktiviert haben, gehen Si
 >
 >Beispiel: RTP-Industry Index Number = 1, RTP-Organization Index Number = 2.
 
-## Alte Dashboards in Google Analytics entfernen {#remove-old-dashboards-in-google-analytics}
+## Alte Dashboard in Google Analytics {#remove-old-dashboards-in-google-analytics} entfernen
 
-1. In Google Analytics. Geh zum **Berichte!**
-1. Klicken Sie auf **Dashboards.**
+1. In Google Analytics. Gehen Sie zu **Berichte.**
+1. Klicken Sie auf **Dashboard.**
 1. Wählen Sie ein **Dashboard **(RTP B2B oder RTP Performance)
-1. Klicken Sie auf Dashboard **löschen**.
+1. Klicken Sie auf **Dashboard** löschen.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
 
