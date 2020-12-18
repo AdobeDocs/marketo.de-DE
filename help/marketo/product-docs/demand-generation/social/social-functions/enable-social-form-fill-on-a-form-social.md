@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ausfüllen von Social-Formularen in einem Formular aktivieren (Social) {#enable-social-form-fill-on-a-form-social}
+# Aktivieren Sie die Social-Formularausfüllung in einem Formular (Social) {#enable-social-form-fill-on-a-form-social}
 
 Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufüllen. Sie erhalten automatisch zusätzliche Daten und erhalten eine schnellere Erlebnis. So geht es.
 
@@ -25,7 +25,7 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf &quot;Formular **bearbeiten&quot;**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -39,9 +39,9 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 
    >[!TIP]
    >
-   >Sehen Sie sich an, welche [Daten Marketo erfassen](manage-social-profile-data.md) wird, wenn Benutzer die Schaltflächen für soziale Netzwerke verwenden.
+   >Sehen Sie sich an, was [data Marketo erfasst, wenn die Benutzer die Schaltflächen für soziale Netzwerke verwenden.](manage-social-profile-data.md)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
