@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Predictive Inhalte für die Empfehlungsleiste bearbeiten {#edit-predictive-content-for-the-recommendation-bar}
+# Predictive Inhalte für die Empfehlungsleiste {#edit-predictive-content-for-the-recommendation-bar} bearbeiten
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder<sup>ContentAI</sup>enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketo bis zum 30. April 2018<sup>ContentAI</sup> Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing<sup>ContentAI</sup>durchzuführen, damit diese Funktionen über das Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content<sup>AI</sup> enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 die Funktionen von Content<sup>AI</sup> Analytics. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content<sup>AI</sup> durchzuführen.
 
 Hier erfahren Sie, wie Sie Ihren Prognoseinhalt für die Recommendations-Leiste einrichten.
 
 >[!PREREQUISITES]
 >
->Der Inhalt muss auf der Seite &quot;Alle Inhalte&quot; [genehmigt werden, um Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) vorhersagen zu können.
+>Der Inhalt muss auf der Seite &quot;Alle Inhalte&quot;für den vorhersagenden Inhalt [genehmigt sein.](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
-1. Klicken Sie auf der Seite &quot; **Predictive Content** &quot;auf einen Titel, um den Editor zu öffnen.
+1. Klicken Sie auf der Seite **Predictive Content** auf einen Titel, um den Editor zu öffnen.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
