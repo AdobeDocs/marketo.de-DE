@@ -11,30 +11,30 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines Ereignisses mit dem Marketo ON24-Adapter {#create-an-event-with-the-marketo-on-adapter}
+# Erstellen Sie ein Ereignis mit dem Marketo ON24-Adapter {#create-an-event-with-the-marketo-on-adapter}
 
-## Bevor Sie beginnen {#before-you-begin}
+## Bevor Sie mit {#before-you-begin} beginnen
 
 Sie sollten sich mit den Bausteinen und der empfohlenen Reihenfolge für die Erstellung von Ereignissen in Marketo auskennen. Sie sollten außerdem über Kenntnisse der folgenden Marketo-Konzepte verfügen:
 
-* [Marketo-Programme](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) sowie Ereignisse und die Unterschiede zwischen ihnen
+* [Marketo-](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) Programme und -Ereignisse und ihre Unterschiede
 * [Kanal](../../../../product-docs/administration/tags/create-a-program-channel.md)
 * [Lokale Assets](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Status der untergeordneten Kampagnen](https://docs.marketo.com/x/IRCa) und des [Programms](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Status ](https://docs.marketo.com/x/IRCa) von untergeordneten Kampagnen und  [Programmen](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Weitere Informationen zu Marketo-APIs finden Sie in der Dokumentation [zur](http://developers.marketo.com/documentation/rest/) Marketing-APIs.
+>Weitere Informationen zu Marketing-APIs finden Sie in der [Marketing-API-Dokumentation](http://developers.marketo.com/documentation/rest/).
 
 ## Voraussetzungen {#prerequisites}
 
 Zur Verwendung der Integration von Marketo ON24 sind folgende Anforderungen erforderlich:
 
-* **Abonnement zu ON24 Webcasts** - Wenn Sie kein aktuelles Abonnement haben, wenden Sie sich direkt an ON24. **HINWEIS**: ON24 Hosted Edition ist erforderlich. ON24 Ereignis Management ist nicht erforderlich.
+* **Abonnement zu ON24 Webcasts**  - Wenn Sie kein aktuelles Abonnement haben, wenden Sie sich direkt an ON24. **HINWEIS**: ON24 Hosted Edition ist erforderlich. ON24 Ereignis Management ist nicht erforderlich.
 
-* **Administratorrechte auf ON24** - Sie benötigen diesen Anschluss, um Gäste im ON24-System zu erstellen.
-* **ON24-Verbindungsdaten** - Sie müssen diese Informationen in Marketing eingeben, um die Integration zu aktivieren: Benutzername, Kennwort, Client-ID und Client-Schlüssel. Wenden Sie sich an Ihren ON24-Kundenbetreuer oder an den ON24-Support, wenn Sie Hilfe bei Ihren Anmeldeinformationen benötigen.
-* **Registrierungsformular** - Verwenden Sie ein Marketo-Formular oder ein Nicht-Marketo-Formular zusammen mit der richtigen API, um sicherzustellen, dass Registrierungsdaten und Registrierungsdaten an Marketo weitergeleitet werden.
+* **Administratorrechte auf ON24**  - Sie benötigen diese, um diesen Connector zu verwenden und Gäste im ON24-System zu erstellen.
+* **ON24-Verbindungsdaten**  - Sie müssen diese Informationen in Marketing eingeben, um die Integration zu aktivieren: Benutzername, Kennwort, Client-ID und Client-Schlüssel. Wenden Sie sich an Ihren ON24-Kundenbetreuer oder an den ON24-Support, wenn Sie Hilfe bei Ihren Anmeldeinformationen benötigen.
+* **Registrierungsformular**  - Verwenden Sie ein Marketo-Formular oder ein Nicht-Marketo-Formular zusammen mit der richtigen API, um sicherzustellen, dass Registrierungsdaten und Registrierungsdaten an Marketo weitergeleitet werden.
 * **Kampagne des untergeordneten Registrierungsformulars - **Eine Kampagne des untergeordneten Registrierungsformulars in Ihrem Marketing-Ereignis muss ordnungsgemäß erstellt und konfiguriert werden, damit Ihre Ereignis-Partnerintegration funktioniert.
 
 ## Prozessfluss {#process-flow}
