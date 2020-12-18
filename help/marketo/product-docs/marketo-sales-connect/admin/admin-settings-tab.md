@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Auf der Registerkarte &quot;Admin-Einstellungen&quot;kann der Administrator in jedem beliebigen Konto sowohl die Einstellungen seines Teams (hinsichtlich der Planungsgrenzen) anzeigen als auch die Art und Weise steuern, wie die E-Mails seines Teams in Salesforce protokolliert werden.
 
-Wenn Sie das Kontrollkästchen Alle Salesforce-Synchronisierungseinstellungen für mein Team **** überschreiben aktivieren, sehen Sie die Option, entweder nur die Protokollierung über BCC oder nur über API zuzulassen.
+Wenn Sie das Kontrollkästchen **Alle Salesforce-Synchronisierungseinstellungen für mein Team** überschreiben aktivieren, sehen Sie die Option, entweder die Protokollierung nur über BCC oder nur über API zuzulassen.
 
-Wenn Sie die **API-Protokollierung** auswählen, werden alle Einstellungen, die für &quot;Chancen&quot;, &quot;Interessenten&quot;, &quot;Kontakte&quot;ausgewählt wurden `will be set for the entire team after you click **Save Changes**.`
+Wenn Sie **API-Protokollierung** auswählen, werden alle Einstellungen, die für Chancen, Interessenten, Kontakte `will be set for the entire team after you click **Save Changes**.` ausgewählt wurden
 
 Von hier aus können Sie auch massenaktivierte Möglichkeiten und Aufgaben-Synchronisierung im gesamten Team nutzen.
 
