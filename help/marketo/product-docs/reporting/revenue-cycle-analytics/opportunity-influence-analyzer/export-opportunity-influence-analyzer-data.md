@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Exportchanceneinflussdaten für Analyzer {#export-opportunity-influence-analyzer-data}
 
-Um Aktualisierungen aus Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) -Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
+Um Updates von Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
-1. Gehen Sie zu **Analytics** und wählen Sie **Neu** **>** **Neu** - **Bericht** **** Abonnement.
+1. Gehen Sie zu **Analytics** und wählen Sie **Neu** **** **Neu** **Bericht** **Abonnement**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Informationen zum Abonnieren eines grundlegenden Berichts, den Sie in einem Programm erstellt haben, finden Sie unter [Abonnieren eines Basisberichts](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
+   >Informationen zum Abonnieren eines grundlegenden Berichts, den Sie in einem Programm erstellt haben, finden Sie unter [Einen einfachen Bericht abonnieren](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
 
-1. Wählen Sie als Berichtsquelle **Umsatz-Explorer.**
+1. Wählen Sie für Berichtsquelle **Umsatz-Explorer.**
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ Um Aktualisierungen aus Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/di
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie alle Ihre Report Abonnement [an einem Ort](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten.
+>Erfahren Sie, wie Sie [alle Ihre Report Abonnement](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
->Sehen Sie mehr über die fortschrittlichen Analysen von Marketo im [Umsatzwellen-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) .
+>Sehen Sie mehr über die erweiterten Analysen von Marketo im Deep Dive unter [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
