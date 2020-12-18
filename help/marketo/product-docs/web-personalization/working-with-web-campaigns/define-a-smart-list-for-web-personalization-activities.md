@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Definieren einer intelligenten Liste für Aktivitäten zur Web-Personalisierung {#define-a-smart-list-for-web-personalization-activities}
+# Definieren einer intelligenten Liste für Web-Personalisierungs-Aktivitäten {#define-a-smart-list-for-web-personalization-activities}
 
 Sie können Web-Personalisierungs-Aktivitäten in Filtern und Auslösern verwenden, wenn Sie eine intelligente Liste in einer intelligenten Kampagne definieren. Hier möchten Sie alle Personen erfassen, die auf einen Aktionsaufruf zur Web-Personalisierung (Kampagne) geklickt haben.
 
 Verwenden Sie einen Auslöser, um eine E-Mail oder Warnung zu senden, oder ändern Sie einen Wert oder eine Punktzahl, basierend auf Besuchern, die auf einen Aktionsaufruf zur Web-Personalisierung geklickt haben und mit diesem interagiert haben. Sie können auch diejenigen Interessenten filtern und Ansichten vornehmen, die auf einen Aktionsaufruf zur Webpersonalisierung geklickt haben.
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Intelligente Liste** .
+1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -26,7 +26,7 @@ Verwenden Sie einen Auslöser, um eine E-Mail oder Warnung zu senden, oder ände
    >**Tieftauchen**
    >
    >
-   >Intelligente Listen können erstaunliche Dinge tun. Erfahren Sie mehr in der [Smart Liste Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Intelligente Listen können erstaunliche Dinge tun. Weitere Informationen finden Sie unter [Smart Liste Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Suchen Sie nach dem Auslöser und ziehen Sie dann den Auslöser auf die Arbeitsfläche.
 
