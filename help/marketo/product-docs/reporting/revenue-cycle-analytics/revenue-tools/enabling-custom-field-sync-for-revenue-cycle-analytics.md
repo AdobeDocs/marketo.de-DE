@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aktivieren der benutzerdefinierten Feldsynchronisierung für die Analyse von Umsatzzyklen {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Aktivieren der benutzerdefinierten Feldsynchronisierung für Analysen zum Umsatz in Cycle {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 Mit den folgenden Schritten können Sie benutzerdefinierte Felder in RCA-Berichten verwenden.
 
@@ -19,11 +19,11 @@ Mit den folgenden Schritten können Sie benutzerdefinierte Felder in RCA-Bericht
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Umsatzzyklusanalysen** und dann auf **Benutzerdefinierte Feldsynchronisierung**.
+1. Klicken Sie auf **Umsatzwyklusanalyse** und dann **Benutzerdefinierte Feldsynchronisierung**.
 
    ![](assets/two.png)
 
-1. Wählen Sie Ihren **Feldnamen** und klicken Sie dann auf **Synchronisierungsoption** bearbeiten.
+1. Wählen Sie **Feldname** und klicken Sie dann auf **Option \&quot;Synchronisierung bearbeiten\&quot;**.
 
    ![](assets/three.png)
 
