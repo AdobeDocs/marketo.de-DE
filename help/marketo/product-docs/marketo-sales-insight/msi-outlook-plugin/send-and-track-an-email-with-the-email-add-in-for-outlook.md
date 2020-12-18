@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# E-Mail mit dem E-Mail-Hinzufügen für Outlook senden und verfolgen {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Senden und Verfolgen einer E-Mail mit dem E-Mail-Hinzufügen für Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
 
 >[!PREREQUISITES]
 >
->Installieren Sie das [Marketing E-Mail-Add-In für Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md), falls noch nicht geschehen.
+>Wenn noch nicht geschehen, installieren Sie das [Marketing E-Mail-Add-In für Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Öffnen Sie Microsoft Outlook und erstellen Sie eine neue E-Mail.
 
@@ -37,7 +37,7 @@ Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
 
    >[!TIP]
    >
-   >Wenn Sie eine Marketing-Vorlage verwenden möchten, lesen Sie [Senden und Verfolgen von Outlook mit einer Vorlage](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Wenn Sie eine Marketing-Vorlage verwenden möchten, finden Sie weitere Informationen unter [Senden und Verfolgen aus Outlook mit einer Vorlage](send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Sehen Sie sich die Vorschau an und klicken Sie auf **Senden**.
 
