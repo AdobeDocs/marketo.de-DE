@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Phasen sind eine Möglichkeit, mehrere Phasen zu gruppieren. Manchmal beziehen sich mehrere Phasen eines Modells auf eine Phase eines Trichters.
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
 ## Definieren der Phasen des Modells {#define-the-phases-of-the-model}
 
