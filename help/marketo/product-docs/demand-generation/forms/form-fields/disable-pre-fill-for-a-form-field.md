@@ -17,15 +17,15 @@ Wenn ein Web-Besucher bekannt ist (Cookie), füllen Marketo-Formulare Felder sta
 
 >[!NOTE]
 >
->**Das Vorausfüllen** des Formulars ist standardmäßig aktiviert. Einstellungen für das Vorausfüllen auf Formularebene und Einstellungen auf Administratorebene für das Vorausfüllen übertreffen die Einstellungen auf Formularebene:
+>**Vordefinierte** Formulardateien sind standardmäßig aktiviert. Einstellungen für das Vorausfüllen auf Formularebene und Einstellungen auf Administratorebene für das Vorausfüllen übertreffen die Einstellungen auf Formularebene:
 >
 >Formular &lt; Landingpage &lt; Admin
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Wenn ein Web-Besucher bekannt ist (Cookie), füllen Marketo-Formulare Felder sta
    >
    >Das Vorausfüllen des Formulars funktioniert nicht, wenn Sie ein Formular in Ihre eigenen Seiten einbetten. Es funktioniert nur bei Marketo-Landingpages.
 
-1. Wählen Sie eines der Felder aus und legen Sie **Form** **Pre**-**fill** auf **Deaktiviert** fest.
+1. Wählen Sie eines der Felder aus und legen Sie **Formular** **Pre**-**fill** auf **Deaktiviert** fest.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -41,7 +41,7 @@ Wenn ein Web-Besucher bekannt ist (Cookie), füllen Marketo-Formulare Felder sta
    >
    >Sie können das Vorausfüllen von Formularen auch auf Landingpages- oder Administrationsebene deaktivieren.
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
@@ -55,5 +55,5 @@ Gute Arbeit!
 >
 >**Tieftauchen**
 >
->Möchten Sie mehr über [Formulare](http://docs.marketo.com/display/docs/forms)erfahren?
+>Möchten Sie mehr über [Formulare](http://docs.marketo.com/display/docs/forms) erfahren?
 
