@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines Einflussanalysators {#create-an-opportunity-influence-analyzer}
+# Einen möglichen Einflussanalysator {#create-an-opportunity-influence-analyzer} erstellen
 
 Verwenden Sie den &quot;Opportunity Influence Analyzer&quot;, um den Beitrag des Marketing zu einem wichtigen Geschäft zu zeigen. Sehen Sie sich Ihre Programm- und Ereignis-Erfolge sowie interessante Momente im Leben einer Gelegenheit an.
 
@@ -29,7 +29,7 @@ Verwenden Sie den &quot;Opportunity Influence Analyzer&quot;, um den Beitrag des
 
    ![](assets/two.png)
 
-1. Wählen Sie das Konto im **Einstellungsbedienfeld** aus.
+1. Wählen Sie das Konto im Bereich **Einstellungen** aus.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
@@ -41,7 +41,7 @@ Verwenden Sie den &quot;Opportunity Influence Analyzer&quot;, um den Beitrag des
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Legen Sie den Zeitraum fest. Klicken Sie auf die Registerkarte &quot; **Einstellungen** &quot;und klicken Sie bei Dublette auf &quot; **Zeitraum**&quot;.
+1. Legen Sie den Zeitraum fest. Klicken Sie auf die Registerkarte **Setup** und klicken Sie mit der Dublette auf **Zeitraum**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
@@ -60,7 +60,7 @@ Verwenden Sie den &quot;Opportunity Influence Analyzer&quot;, um den Beitrag des
 
 >[!TIP]
 >
->Sie können sich auch ein Video über den Opportunity Influence Analyzer in der [Universität](https://learn.marketo.com)Marketo ansehen. (Es sieht jetzt ein bisschen anders aus, aber es gibt noch viel zu lernen!)
+>Sie können sich auch ein Video zum Opportunity Influence Analyzer in [Marketo University](https://learn.marketo.com) ansehen. (Es sieht jetzt ein bisschen anders aus, aber es gibt noch viel zu lernen!)
 
 >[!MORELIKETHIS]
 >
@@ -75,5 +75,5 @@ Verwenden Sie den &quot;Opportunity Influence Analyzer&quot;, um den Beitrag des
 >
 >**Tieftauchen**
 >
->Weitere Informationen zu Analyzern finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere Analyzer finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
