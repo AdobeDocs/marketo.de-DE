@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Neue Vorlage erstellen {#create-a-new-template}
 
-1. Navigieren Sie zur Registerkarte **Vorlagen **und klicken Sie auf Vorlage **erstellen**.
-1. Wählen Sie eine **Kategorie** und einen **Namen***** ***für Ihre E-Mail-Vorlage und klicken Sie dann auf** Erstellen ***.*
+1. Navigieren Sie zur Registerkarte **Vorlagen **und klicken Sie auf **Vorlage erstellen**.
+1. Wählen Sie eine **Kategorie** und **Name***** ***für Ihre E-Mail-Vorlage und klicken Sie dann auf** Erstellen ***.*
 1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.) , um das Erscheinungsbild anzupassen.
-1. Klicken Sie auf **Speichern** , um die Änderungen abzuschließen.
+1. Klicken Sie auf **Speichern**, um die Änderungen abzuschließen.
 
 >[!TIP]
 >
