@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# In-App-Nachricht genehmigen {#approve-your-in-app-message}
+# Genehmigen der In-App-Nachricht {#approve-your-in-app-message}
 
 Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
 
@@ -23,7 +23,7 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
    >
    >Wenn ein Teil des Sendevorgangs unvollständig ist, beispielsweise die In-App-Nachricht nicht genehmigt wurde, wird eine Warnmeldung angezeigt, die angibt, welcher Bereich Ihre Aufmerksamkeit benötigt. Beheben Sie das und Sie sollten die Meldung in Schritt 2 sehen.
 
-1. Klicken Sie auf **Genehmigen und starten**.
+1. Klicken Sie auf **Genehmigen und Starten**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
@@ -41,7 +41,7 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    Sie können ein aktives Programm anhalten oder stoppen, aber es gibt einen großen Unterschied zwischen diesen beiden Optionen.
 
-1. Klicken Sie auf Programm **** anhalten, wenn Sie das Programm für eine Weile beenden, es aber später fortsetzen möchten. Es wird in **Angehalten** -Status geändert.
+1. Klicken Sie auf **Programm anhalten**, wenn Sie das Programm eine Weile anhalten, es aber später fortsetzen möchten. Sie wird in **Angehalten**-Status geändert.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,15 +49,15 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
    >
    >Der Grund für das Anhalten könnte sein, die Nachricht für eine Weile zu stoppen oder die Nachricht zu ändern oder den Zeitplan anzupassen. Sie können jedoch nicht zu einer anderen Meldung wechseln, sondern nur die vorhandene Meldung bearbeiten.
 
-1. Wenn das angehaltene Programm weiterhin ausgeführt werden soll, klicken Sie auf **Fortsetzen** des **Programms**.
+1. Wenn das angehaltene Programm weiterhin ausgeführt werden soll, klicken Sie auf **Fortsetzen** **Programm**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
-1. Um das Programm vollständig zu beenden, klicken Sie auf Programm **beenden**.
+1. Um das Programm vollständig zu beenden, klicken Sie auf **Stopp-Programm**.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. Wenn Sie sicher sind, dass Sie das Programm beenden möchten, klicken Sie auf **Beenden**.
+1. Wenn Sie sicher sind, dass Sie das Programm beenden möchten, klicken Sie auf **Stopp**.
 
    ** ![](assets/image2016-5-24-13-3a31-3a22.png)
 
@@ -65,7 +65,7 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    >[!NOTE]
    >
-   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht wieder aufgenommen werden. Wenn Sie es erneut ausführen möchten, müssen Sie es neu erstellen. Vergewissern Sie sich also, dass Sie mit einem Programm fertig sind, bevor Sie auf Programm **beenden** klicken!
+   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht wieder aufgenommen werden. Wenn Sie es erneut ausführen möchten, müssen Sie es neu erstellen. Vergewissern Sie sich also, dass Sie mit einem Programm fertig sind, bevor Sie auf **Stopp Programm** klicken!
 
 ## In-App-Dashboard {#in-app-dashboard}
 
