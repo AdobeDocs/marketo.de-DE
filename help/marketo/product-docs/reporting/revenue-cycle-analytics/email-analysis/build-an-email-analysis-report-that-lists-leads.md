@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen Sie einen Bericht zur E-Mail-Analyse mit Listen {#build-an-email-analysis-report-that-lists-leads}
+# Erstellen Sie einen Bericht zur E-Mail-Analyse, in dem die Listen {#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
