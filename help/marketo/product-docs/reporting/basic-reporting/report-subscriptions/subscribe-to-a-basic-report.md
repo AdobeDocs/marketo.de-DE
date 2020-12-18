@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Abonnement eines einfachen Berichts {#subscribe-to-a-basic-report}
+# Einen einfachen Bericht abonnieren {#subscribe-to-a-basic-report}
 
-Um automatische Aktualisierungen eines [Basisberichts](http://docs.marketo.com/display/docs/basic+reporting)zu erhalten oder diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
+Um automatische Aktualisierungen eines [einfachen Berichts](http://docs.marketo.com/display/docs/basic+reporting) zu erhalten oder um sie freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
 >[!NOTE]
 >
->Informationen zu [Umsatz-Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) -Abonnements finden Sie unter [Abonnieren eines Umsatz-Explorer-Berichts](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Informationen zu den [Abonnements für den Umsatz-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) finden Sie unter [Abonnieren eines Umsatz-Explorer-Berichts](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Navigieren Sie zum Bereich **Aktivitäten **Marketing.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte &quot; **Abonnement** &quot;.
+1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Abonnement**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
@@ -31,7 +31,7 @@ Um automatische Aktualisierungen eines [Basisberichts](http://docs.marketo.com/d
    >
    >Sie können Berichte auch über die Registerkarte **Analytics** abonnieren.
 
-1. Klicken Sie auf **Neues Abonnement**.
+1. Klicken Sie auf **Neues Report Abonnement**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -52,12 +52,12 @@ Um automatische Aktualisierungen eines [Basisberichts](http://docs.marketo.com/d
    >**Verwandte Artikel**
    >
    >
-   >Erfahren Sie, wie Sie alle Ihre Report Abonnement [an einem Ort](manage-report-subscriptions.md) verwalten.
+   >Erfahren Sie, wie Sie [alle Ihre Report Abonnement](manage-report-subscriptions.md) an einem Ort verwalten.
 
    >[!NOTE]
    >
    >**Tieftauchen**
    >
    >
-   >Sehen Sie, was Sie sonst noch mit Berichten im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) Deep Dive tun können.
+   >Sehen Sie, was Sie sonst noch mit Berichten im Tiefen-Tauchgang tun können.[](http://docs.marketo.com/display/docs/basic+reporting)
 
