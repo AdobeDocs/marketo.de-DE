@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einrichten der Schaltfläche &quot;In-App-Nachricht&quot; {#set-up-the-in-app-message-button}
+# Einrichten der In-App-Nachricht-Schaltfläche {#set-up-the-in-app-message-button}
 
 Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder ein eigenes benutzerdefiniertes Schaltflächenbild hochladen.
 
@@ -19,7 +19,7 @@ Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder 
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche &quot; **Farbe** &quot;.
+1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche **Farbe**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder 
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Wenn Sie ein eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche &quot;Bild&quot;und dann auf &quot;Bild **auswählen&quot;**.
+1. Wenn Sie ein eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche &quot;Bild&quot;und dann auf **Bild auswählen**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Wählen Sie das Bild und klicken Sie auf **Auswählen**.
+1. Wählen Sie das Bild und klicken Sie auf **Wählen Sie**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
