@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Web-Kampagnen starten/anhalten {#launch-pause-a-web-campaign}
+# Starten/Anhalten einer Web-Kampagne {#launch-pause-a-web-campaign}
 
-Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, einen [In-Zone-Ersatz](create-a-new-in-zone-web-campaign.md), eine Widget-Funktion oder eine E-Mail-Warnung handeln.
+Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, ein [In-Zone-Ersatz](create-a-new-in-zone-web-campaign.md), eine Widget-Funktion oder eine E-Mail-Warnung handeln.
 
 Sie können eine Web-Kampagne auf zwei Arten von der Seite &quot;Web-Kampagnen&quot;oder &quot;Web-Kampagnen festlegen&quot;starten oder anhalten.
 
@@ -25,11 +25,11 @@ Sie können eine Web-Kampagne auf zwei Arten von der Seite &quot;Web-Kampagnen&q
 
    ![](assets/two-1.png)
 
-1. Wenn die Kampagne gestartet wird, klicken Sie auf &quot; **Startet** &quot;, um den Status der Kampagne in **Angehalten, **Angehalten zu ändern, um die Kampagne anzuhalten.
+1. Wenn die Kampagne gestartet wird, klicken Sie auf **Started**, um den Status der Kampagne in **Angehalten, **Angehalten zu ändern, um die Kampagne anzuhalten.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
-1. Wenn die Kampagne angehalten wurde, klicken Sie auf &quot; **Angehalten** &quot;, um den Status der Kampagne in &quot; **Startet**&quot;zu ändern. Dadurch wird die Kampagne aktiviert und gestartet.
+1. Wenn die Kampagne angehalten wurde, klicken Sie auf **Angehalten**, um den Status der Kampagne in **Startet** zu ändern. Dadurch wird die Kampagne aktiviert und gestartet.
 
    ![](assets/image2014-11-26-17-3a28-3a59.png)
 
@@ -41,7 +41,7 @@ Sie können eine Web-Kampagne auf zwei Arten von der Seite &quot;Web-Kampagnen&q
 
    ![](assets/image2014-11-26-17-3a31-3a37.png)
 
-1. Klicken Sie auf **Speichern** , um die Kampagne zu speichern und anzuhalten. Klicken Sie auf **Starten** , um die Kampagne zu starten und zu aktivieren.
+1. Klicken Sie auf **Speichern**, um die Kampagne zu speichern und anzuhalten. Klicken Sie auf **Launch**, um die Kampagne zu starten und zu aktivieren.
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
