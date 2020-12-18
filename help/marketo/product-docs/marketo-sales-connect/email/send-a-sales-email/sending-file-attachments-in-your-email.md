@@ -21,4 +21,4 @@ Normalerweise ist jede Datei mit einer Größe von mehr als 20 MB zu groß, um g
 >
 >Wenn Sie Tout als E-Mail-Versand-Kanal verwenden, empfehlen wir Dateien von 19 MB oder weniger, wenn Sie E-Mails senden.
 
-Wenn Sie unbedingt eine große Datei senden müssen, versuchen Sie zunächst, sie zu komprimieren oder sie als [nachverfolgbare Anlage](http://docs.marketo.com/x/3oPS) in die [Webanwendung](http://toutapp.com/login)hochzuladen.
+Wenn Sie unbedingt eine große Datei senden müssen, versuchen Sie zunächst, sie zu komprimieren oder sie als [Verfolgbare Anlage](http://docs.marketo.com/x/3oPS) in der [Webanwendung](http://toutapp.com/login) hochzuladen.
