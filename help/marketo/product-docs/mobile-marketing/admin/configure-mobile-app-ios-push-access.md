@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mobile App konfigurieren - Push-Zugriff auf iOS {#configure-mobile-app-ios-push-access}
+# Mobile App iOS-Push-Zugriff konfigurieren {#configure-mobile-app-ios-push-access}
 
 1. Klicken Sie auf Admin.
 
