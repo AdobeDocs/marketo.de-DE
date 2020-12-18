@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verbinden Sie Ihre Marketing-Interessenten mit Verkaufsgesprächen. {#connect-your-marketo-leads-with-sales-connect-leads}
+# Verbinden Sie Ihre Marketing-Interessenten mit Verkaufsverbindungsleitungen {#connect-your-marketo-leads-with-sales-connect-leads}
 
 Um Ihre Daten mit Marketo am genauesten zu synchronisieren, erfordert MSC, dass der persönliche Datensatz eine Marketo-ID enthält. Um die Marketo-ID mit MSC zu synchronisieren, können Sie auf den Chevron neben einem interessanten Moment klicken. Wenn Sie einen interessanten Moment im Live Feed sehen, klicken Sie auf den Dropdown-Pfeil und der Personendatensatz wird der MSC-Datenbank mit der Marketing ID hinzugefügt.
 
