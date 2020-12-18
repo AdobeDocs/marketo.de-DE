@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Freigeben von Kategorien aktivieren {#enable-category-sharing}
+# Aktivieren der Freigabe von Kategorien {#enable-category-sharing}
 
 Standardmäßig kann Ihr Team keine Inhalte für Ihr Abonnement freigeben. Sie können dies jederzeit deaktivieren und Teams (oder nur Teamadministratoren) auf Inhalte in spezifische Kategorien beschränken. Dadurch wird der Zugriff auf diese Vorlagen-Kategorien nicht hinzugefügt oder entfernt, sondern lediglich die Möglichkeit, neue Ansichten in einer Kategorie freizugeben.
 
-Sie können die Freigabe von Kategorien in den **Admin-Einstellungen** aktivieren/deaktivieren.
+Sie können die Freigabe von Kategorien unter **Admin Settings** aktivieren/deaktivieren.
