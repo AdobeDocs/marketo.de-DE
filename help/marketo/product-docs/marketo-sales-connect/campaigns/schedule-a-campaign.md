@@ -19,7 +19,7 @@ Sie müssen nur wählen, wann Ihre E-Mails bei der Erstellung Ihrer Kampagne ges
 
 Wenn Sie den ersten Schritt nicht planen oder einen Zeitpunkt für &quot;Senden am&quot;wählen müssen, werden Sie bei jedem Hinzufügen einer Person oder einer Kampagne aufgefordert, den Zeitpunkt des Versands auszuwählen.
 
-Öffnen Sie die Hinzufügen zum Modal &quot;Kampagne&quot;, indem Sie entweder Einzelpersonen, eine Gruppe oder ausgewählte Personen hinzufügen und auf **Weiter** klicken.
+Öffnen Sie die Hinzufügen zum Modal &quot;Kampagne&quot;, indem Sie entweder Einzelpersonen, eine Gruppe oder ausgewählte Personen hinzufügen, und klicken Sie auf **Weiter**.
 
 Nachdem Sie auf **Weiter** geklickt haben, können Sie die erste E-Mail-Vorschau durchführen.
 
