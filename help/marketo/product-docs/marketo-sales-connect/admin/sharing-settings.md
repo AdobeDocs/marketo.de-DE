@@ -21,9 +21,9 @@ Wenn Sie Ihr Sales Connect-Konto zum ersten Mal erstellen, sind die Freigabeeins
 
 Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren an Kategorien weitergeben, es sei denn, Freigabeberechtigungen werden einem Team oder allen anderen bereitgestellt. Wenn die Freigabeeinstellungen deaktiviert sind, gibt es keine Einschränkungen und alle Benutzer können sie für beliebige Vorlageneinstellungen freigeben.
 
-## Freigabeeinstellungen konfigurieren {#configure-your-sharing-settings}
+## Konfigurieren Ihrer Freigabeeinstellungen {#configure-your-sharing-settings}
 
-1. Gehen Sie in der [Webanwendung](http://toutapp.com/login)zur Seite &quot;Einstellungen&quot;.
+1. Wechseln Sie in der Webanwendung [zur Seite &quot;Einstellungen&quot;.](http://toutapp.com/login)
 
    ![](assets/one-2.png)
 
@@ -31,7 +31,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren an Katego
 
    ![](assets/two-2.png)
 
-1. Stellen Sie sicher, dass die **Freigabeeinstellungen** aktiviert sind. Dies bedeutet, dass nur Administratoren Vorlagen in Ihren Vorlagen-Kategorien freigeben können.
+1. Stellen Sie sicher, dass **Freigabeeinstellungen** aktiviert sind. Dies bedeutet, dass nur Administratoren Vorlagen in Ihren Vorlagen-Kategorien freigeben können.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren an Katego
 
    ![](assets/four-2.png)
 
-1. Klicken Sie auf **Hinzufügen Teams für Zugriff**.
+1. Klicken Sie auf **Hinzufügen Teams für Access**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren an Katego
    >
    >Wenn Sie keine Teams sehen, müssen Sie zu Team Management gehen und ein Team von Benutzern erstellen.
 
-1. Klicken Sie zum Speichern auf **Hinzufügen Teams für Zugriff** .
+1. Klicken Sie zum Speichern auf **Hinzufügen Teams für Access**.
 
    ![](assets/seven-1.png)
 
