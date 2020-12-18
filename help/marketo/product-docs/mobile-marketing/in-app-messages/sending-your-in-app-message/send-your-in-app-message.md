@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# In-App-Nachricht senden {#send-your-in-app-message}
+# Senden Sie Ihre In-App-Nachricht {#send-your-in-app-message}
 
 Nachdem Sie Ihre In-App-Nachricht erstellt haben, ist es Zeit, sie zu senden. Im Folgenden werden die Schritte beschrieben:
 
@@ -18,7 +18,7 @@ Nachdem Sie Ihre In-App-Nachricht erstellt haben, ist es Zeit, sie zu senden. Im
 >
 >Wenn Sie eine von App Open ausgelöste In-App-Nachricht testen, müssen Sie sicherstellen, dass Sie die App auf das Smartphone herunterladen, öffnen und schließen. Dadurch wird der SDK-Code initialisiert. Wenn Sie die App das nächste Mal öffnen, wird die In-App-Nachricht angezeigt. Benutzerdefinierte Ereignis lösen beim ersten Öffnen der App aus.
 
-1. Klicken Sie in den Marketing-Aktivitäten auf den Ordner, in dem das Programm live geschaltet werden soll, und wählen Sie &quot; **Neues Programm**&quot;.
+1. Klicken Sie in den Marketing-Aktivitäten auf den Ordner, in dem das Programm live geschaltet werden soll, und wählen Sie **Neues Programm**.
 
    ![Bild eins](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
@@ -34,4 +34,4 @@ Nachdem Sie Ihre In-App-Nachricht erstellt haben, ist es Zeit, sie zu senden. Im
 
    ![Bild vier](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Bereit? Beginn beim [Festlegen der Audience](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Bereit? Beginn mit [Einstellung der Audience](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
