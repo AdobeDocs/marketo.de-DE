@@ -41,7 +41,7 @@ Sie können die Sichtbarkeit Ihrer Programm steuern, indem Sie das Analytics-Ver
 
 >[!NOTE]
 >
->Weitere Informationen zum Festlegen des Analyseverhaltens [finden Sie hier](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Weitere Informationen zum Festlegen des Analyseverhaltens [hier](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
 
 ## Ich führe eine Kampagne mit mehreren Kanälen für einen neuen Produktstart aus. Wie kann ich die Leistung für diese Kampagne an einem Ort an allen verschiedenen Kanälen Ansicht leisten? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +59,11 @@ Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programm-Kosten
 
 1. Standard - Das Standardverhalten ist, dass das Programm NUR in MPI enthalten ist, wenn mindestens ein Periodenkosten, auch wenn kein Dollar zugewiesen ist, vorhanden ist.
 1. Inklusiv - Mit dieser Option wird sichergestellt, dass das Programm in MPI verfügbar ist, unabhängig davon, ob Sie einen Zeitraumpreis angegeben haben oder nicht.
-1. [Operational](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms) - Diese Option führt dazu, dass das Programm nicht in MPI angezeigt wird.
+1. [Operational](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Diese Option führt dazu, dass das Programm nicht in MPI angezeigt wird.
 
 >[!NOTE]
 >
->Die Zeitkosten **müssen** im Dashboard Interaktion für den Berichte Erfolg und neue Namen eingerichtet werden. Dieses Dashboard nutzt Period Cost-Daten, um Aggregat-Erfolge und neue Namen zu erhalten. Wenn die Zeitraumkosten nicht eingerichtet sind, wird das Dashboard der Interaktion unabhängig von den oben genannten Analytics-Verhaltenseinstellungen nicht korrekt gemeldet.
+>Die Zeitkosten **müssen für den Berichte &quot;Erfolg&quot;und &quot;Neue Namen&quot;im Dashboard &quot;Interaktion&quot;eingerichtet werden.** Dieses Dashboard nutzt Period Cost-Daten, um Aggregat-Erfolge und neue Namen zu erhalten. Wenn die Zeitraumkosten nicht eingerichtet sind, wird das Dashboard der Interaktion unabhängig von den oben genannten Analytics-Verhaltenseinstellungen nicht korrekt gemeldet.
 
 ## Warum vermisse ich einige Gelegenheiten in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Benutzerdefinierte Felder, Opportunity Type und ABM-Filter sind alle Attribute, 
 
 ## Ich möchte ein benutzerdefiniertes Feld für Salesforce-Chancen für den Berichte Umsatz anstelle des Standardfelds Salesforce-Opportunity-Betrag verwenden. Wird MPI mir erlauben, das zu tun? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Die Unterstützung](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) von Marketo kann das Feld &quot;Opportunity Amount&quot;von Marketo in ein benutzerdefiniertes Feld für Salesforce Opportunity (Verkaufschancefeld) umwandeln, solange der Feldtyp Währung ist. Da MPI auf das Feld &quot;Größe der Marketing-Chance&quot;verweist, kann MPI die Daten aus dem neu zugeordneten Feld Salesforce verwenden.
+Ja. [Marketo ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) Support kann das Feld &quot;Opportunity Amount&quot;von Marketo in ein benutzerdefiniertes Feld &quot;Salesforce Opportunity&quot;umwandeln, solange der Feldtyp Währung ist. Da MPI auf das Feld &quot;Größe der Marketing-Chance&quot;verweist, kann MPI die Daten aus dem neu zugeordneten Feld Salesforce verwenden.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI ist so konzipiert, dass Sie die Performance des Programms von oben im Tricht
 
 ## Kann ich den Erfolg von kontobasierten Strategien in MPI messen? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI wird mit [Marketo ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) integriert, um ABM-Listen nahtlos in MPI zu übernehmen. Mit dem ABM-Liste-Filter können Sie die gewünschte ABM-Liste zum Filtern von Daten auswählen.
+Ja. MPI wird mit [Marketo ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) integriert, um ABM-Konto-Listen nahtlos in MPI zu ziehen. Mit dem ABM-Liste-Filter können Sie die gewünschte ABM-Liste zum Filtern von Daten auswählen.
 
 ## Ist die Zuordnung sofort verfügbar, wenn ich MPI kaufe? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Die Marketing Attribution Funktionen stehen unseren Kunden zur Verfügung, wenn sie MPI erwerben. Es ist jedoch eine [ordnungsgemäße Einrichtung](http://docs.marketo.com/x/mRPG) erforderlich, um sicherzustellen, dass Chancen- und Programm-Daten korrekt in MPI fließen.
+Die Marketing Attribution Funktionen stehen unseren Kunden zur Verfügung, wenn sie MPI erwerben. Allerdings ist [das richtige Setup](http://docs.marketo.com/x/mRPG) erforderlich, um sicherzustellen, dass Chancen- und Programm-Daten korrekt in MPI fließen.
 
 ## Was muss ich tun, um eine Zuordnung einzurichten? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Die Marketing Attribution Funktionen stehen unseren Kunden zur Verfügung, wenn 
 
 >[!TIP]
 >
->Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel beschrieben](http://docs.marketo.com/x/mRPG).
+>Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel](http://docs.marketo.com/x/mRPG) beschrieben.
 
 ## Was ist der Unterschied zwischen MPI und dem Programm Analyzer? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
