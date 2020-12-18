@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei {#find-the-url-of-an-uploaded-image-or-file}
+# Suchen der URL eines hochgeladenen Bildes oder einer Datei {#find-the-url-of-an-uploaded-image-or-file}
 
 Suchen Sie die Internetadresse (URL) eines hochgeladenen Bildes oder einer hochgeladenen Datei? Marketo hat dich bedeckt.
 
-1. Gehen Sie zum **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-4.png)
 
@@ -23,7 +23,7 @@ Suchen Sie die Internetadresse (URL) eines hochgeladenen Bildes oder einer hochg
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. Die **URL** wird auf der Detailseite angezeigt. Klicken Sie mit der rechten Maustaste auf die **URL** und klicken Sie im angezeigten Menü auf **Kopieren** .
+1. Die **URL** wird auf der Detailseite angezeigt. Klicken Sie mit der rechten Maustaste auf **URL** und klicken Sie im angezeigten Menü auf **Kopieren**.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
