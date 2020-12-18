@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ja, Sales Connect ist mit Salesforce Lightning kompatibel.
 
-Bitte [klicken Sie hier](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) für das Installations- und Erfolgshandbuch.
+Klicken Sie [hier](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf), um das Installations- und Erfolgshandbuch anzuzeigen.
 
 >[!NOTE]
 >
