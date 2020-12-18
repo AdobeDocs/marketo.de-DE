@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Nachdem Sie einen Feldtyp [als Optionsfeld oder Auswahltyp](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) festgelegt haben, müssen Sie die Werte definieren, aus denen der Benutzer auswählen kann. So geht es.
+Sobald Sie [einen Feldtyp](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) als Optionsfeld oder Auswahltyp festgelegt haben, müssen Sie die Werte definieren, aus denen der Benutzer auswählen kann. So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -40,10 +40,10 @@ Nachdem Sie einen Feldtyp [als Optionsfeld oder Auswahltyp](../../../../product-
    >**Definition**
    >
    >
-   >**Anzeigewert:** Was dem Besucher gezeigt wird.
+   >**Anzeigewert:** Was dem Besucher angezeigt wird.
    >
    >
-   >**Gespeicherter Wert:** Was in Marketo aufgezeichnet wird.
+   >**Gespeicherter Wert:** Was wird in Marketo aufgezeichnet.
 
 1. hinzufügen Sie so viele Werte, wie Sie benötigen, und klicken Sie dann auf **Speichern**.
 
@@ -55,9 +55,9 @@ Nachdem Sie einen Feldtyp [als Optionsfeld oder Auswahltyp](../../../../product-
 
    >[!TIP]
    >
-   >Klicken Sie auf **Erweiterter Editor** , um eine Liste von Werten zu kopieren bzw. einzufügen. Es kann eine Echtzeit-Einsparung sein.
+   >Klicken Sie auf **Erweiterter Editor**, um eine Liste von Werten zu kopieren/einzufügen. Es kann eine Echtzeit-Einsparung sein.
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
@@ -65,4 +65,4 @@ Nachdem Sie einen Feldtyp [als Optionsfeld oder Auswahltyp](../../../../product-
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Super! Du machst es wirklich gut. Weitere Informationen zu [Formularen](http://docs.marketo.com/display/docs/forms).
+Super! Du machst es wirklich gut. Erfahren Sie mehr über [Formulare](http://docs.marketo.com/display/docs/forms).
