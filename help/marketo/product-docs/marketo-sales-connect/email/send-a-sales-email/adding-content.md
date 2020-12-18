@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Um Ihren E-Mails nachverfolgbaren Inhalt hinzuzufügen, öffnen Sie ein neues Fenster Erstellen. Klicken Sie auf **Inhalt**.
 
-Wenn Sie zuvor Inhalte hinzugefügt haben, werden diese Dateien angezeigt. Wenn nicht, klicken Sie auf **Hochladen** , um Inhalte von Ihrem Computer hinzuzufügen.
+Wenn Sie zuvor Inhalte hinzugefügt haben, werden diese Dateien angezeigt. Wenn nicht, klicken Sie auf **Hochladen**, um Inhalte von Ihrem Computer hinzuzufügen.
 
 >[!NOTE]
 >
