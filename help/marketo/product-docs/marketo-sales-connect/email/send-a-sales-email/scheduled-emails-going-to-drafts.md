@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Wenn Sie eine E-Mail in Gmail planen, sollte sie Ihre E-Mail im Ordner &quot;Entwürfe&quot;speichern, bis sie gesendet wird. Nichts ist schiefgelaufen, aber aufgrund der Integration mit Gmail ist dies eine Einschränkung der geplanten E-Mails.
 
-Nach der geplanten Zeit wechselt die E-Mail von &quot;Entwürfe&quot;zu &quot;Gesendet&quot;. Sie können sehen, dass die E-Mail innerhalb der [Webanwendung](http://toutapp.com/login)geplant wurde und die E-Mail auch die Bezeichnung &quot;Geplante E-Mail senden&quot;haben sollte.
+Nach der geplanten Zeit wechselt die E-Mail von &quot;Entwürfe&quot;zu &quot;Gesendet&quot;. Sie können sehen, dass die E-Mail innerhalb der [Webanwendung](http://toutapp.com/login) geplant wurde und die E-Mail auch über die Bezeichnung &quot;Geplante E-Mail löschen&quot;verfügen sollte.
 
-Alternativ dazu können Sie die [Webanwendung](http://toutapp.com/login)jederzeit planen und die E-Mails werden nicht im Ordner &quot;Gmail Drafts&quot;angezeigt.
+Alternativ dazu können Sie immer eine Planung über die [Webanwendung](http://toutapp.com/login) durchführen, und die E-Mails werden nicht im Ordner &quot;Gmail-Entwürfe&quot;angezeigt.
