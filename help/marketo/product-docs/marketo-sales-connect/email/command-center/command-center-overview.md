@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über das Command Center {#command-center-overview}
+# Command Center-Übersicht {#command-center-overview}
 
 Das Commend Center ist eine einheitliche Ansicht, mit der Sie den nächsten Schritt herausfinden und gleichzeitig sicherstellen können, dass nichts durch die Risse fällt.
 
-## E-Mails verwalten {#manage-emails}
+## Verwalten von E-Mails {#manage-emails}
 
 Im E-Mail-Bereich des Command Center können Sie Ihre gesamte E-Mail-Aktivität verwalten. Stellen Sie sich das als E-Mail-Postausgang vor, um E-Mails zu überprüfen, die von Sales Connect gesendet wurden. Verwalten Sie Ihre geplanten E-Mails, sehen Sie, wer mit Ihren E-Mails in Kontakt getreten ist, prüfen Sie, ob Probleme mit Ihren E-Mails aufgetreten sind und vieles mehr.
 
@@ -53,7 +53,7 @@ Der E-Mail-Bereich gibt Ihnen eine Ansicht in alle Ihre E-Mails und vereinfacht 
   <tr> 
    <td title="Hintergrundfarbe: Grau"><br></td> 
    <td title="Hintergrundfarbe: Grau">Entwurf</td> 
-   <td title="Hintergrundfarbe: Grau"><p>E-Mails, die als Entwurf gespeichert wurden.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden und E-Mails gruppieren) werden nicht als Entwürfe gespeichert.</p></td> 
+   <td title="Hintergrundfarbe: Grau"><p>E-Mails, die als Entwurf gespeichert wurden.<br><strong>Hinweis: </strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden und E-Mails gruppieren) werden nicht als Entwürfe gespeichert.</p></td> 
   </tr> 
   <tr> 
    <td title="Hintergrundfarbe: Grau"><br></td> 
@@ -68,23 +68,23 @@ Der E-Mail-Bereich gibt Ihnen eine Ansicht in alle Ihre E-Mails und vereinfacht 
   <tr> 
    <td title="Hintergrundfarbe: blau"><br></td> 
    <td title="Hintergrundfarbe: blau">Absprungen</td> 
-   <td title="Hintergrundfarbe: blau"><p>E-Mails, die vom E-Mail-Server des Empfängers abgelehnt wurden. <br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und als Versand-Kanal Zugriff auf MSC-Server haben.</p></td> 
+   <td title="Hintergrundfarbe: blau"><p>E-Mails, die vom E-Mail-Server des Empfängers abgelehnt wurden. <br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein Legacy-ToutApp-Benutzer sind und als Versand-Kanal Zugriff auf MSC-Server haben.</p></td> 
   </tr> 
   <tr> 
    <td title="Hintergrundfarbe: blau"><br></td> 
    <td title="Hintergrundfarbe: blau">Spam</td> 
-   <td title="Hintergrundfarbe: blau"><p>E-Mails, die vom Empfänger manuell als Spam gekennzeichnet wurden.<br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und als Versand-Kanal Zugriff auf MSC-Server haben.</p></td> 
+   <td title="Hintergrundfarbe: blau"><p>E-Mails, die vom Empfänger manuell als Spam gekennzeichnet wurden.<br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein Legacy-ToutApp-Benutzer sind und als Versand-Kanal Zugriff auf MSC-Server haben.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Aufgaben verwalten {#manage-tasks}
+## Verwalten von Aufgaben {#manage-tasks}
 
 Der Bereich Aufgabe ist Ihre zentrale Anlaufstelle für die Verwaltung und Durchführung von Aufgaben. Hier können Sie Ihre Aufgaben nahtlos verwalten, um Ihre Produktivität zu steigern und sich weiterhin auf die wichtigsten Elemente zu konzentrieren.
 
 ![](assets/command-center-overview-2.png)
 
-## Folgemaßnahmen zu engagierten Potenzieller Kunden {#follow-up-with-engaged-prospects}
+## Follow-up mit engagierten Potenzieller Kunden {#follow-up-with-engaged-prospects}
 
 Sobald Sie mit der Kontaktaufnahme mit Ihren Potenzieller Kunden über das Komprimierungsfenster oder Kampagnen begonnen haben, können Sie Beginn zur NeuZielgruppe der am meisten engagierten Potenzieller Kunde mithilfe der erweiterten Suchfunktion haben.
 
