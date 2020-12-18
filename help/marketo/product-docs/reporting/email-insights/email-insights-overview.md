@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über E-Mail-Einblicke {#email-insights-overview}
+# Übersicht über Email Insights {#email-insights-overview}
 
 Email Insights bietet leistungsstarke Einblicke aus historischen Daten für E-Mail-Marketingexperten. Es besteht aus zwei separaten, aber miteinander verbundenen Abschnitten: Analytics und Sends.
 
@@ -23,23 +23,23 @@ Um auf E-Mail Insights zuzugreifen, klicken Sie einfach auf die Kachel in My Mar
 
 ## Analytics {#analytics}
 
-Verwenden Sie [Analytics](email-insights-analytics-overview.md) , um die Zeitreihendaten des Aggregats für E-Mail-Versand- und Interaktionsmetriken zu untersuchen.
+Verwenden Sie [Analytics](email-insights-analytics-overview.md), um die Aggregat-Zeitreihendaten für E-Mail-Versand- und Interaktionsmetriken zu untersuchen.
 
 ![](assets/emailanalytics.jpg)
 
 **Filter **
 
-Verwendung erweiterter [Filter](filtering-in-email-insights.md) zur Aufschlüsselung der Ergebnisse nach Audience, Inhalt oder Plattform. Die gleichen Filter gelten für Analytics und Sends.
+Verwendet erweiterte [Filter](filtering-in-email-insights.md), um die Ergebnisse nach Audience, Inhalt oder Plattform zu unterteilen. Die gleichen Filter gelten für Analytics und Sends.
 
 ![](assets/filter.png)
 
 **Schnelldiagramme**
 
-[Quick Charts](email-insights-quick-charts.md) sind Miniaturansichten, die Sie erstellen und speichern, und bieten eine schnelle Ansicht von Diagrammen, die für Sie wichtig sind.
+[Quick ](email-insights-quick-charts.md) Charts sind Miniaturansichten, die Sie erstellen und speichern, und bieten eine schnelle Ansicht von Diagrammen, die für Sie wichtig sind.
 
 ![](assets/three.png)
 
-## Senden {#sends}
+## Sendet {#sends}
 
 Überprüfen Sie auf der Seite [Sends](email-insights-sends-overview.md) die Eigenschaften der aktuellen E-Mail-Kommunikation.
 
@@ -55,9 +55,9 @@ Klicken Sie auf Metrikleisten, um die Farben in Zahlen zu übersetzen.
 >
 >Es kann bis zu 8 Stunden dauern, bis Daten in E-Mail-Insights wiedergegeben werden.
 
-## Benutzerdefinierte Dimensionen {#custom-dimensions}
+## Benutzerspezifische Dimensionen {#custom-dimensions}
 
-Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die Möglichkeit, bis zu 10 benutzerdefinierte Dimensionen hinzuzufügen. [Benutzerdefinierte Dimensionen](custom-dimensions-for-email-insights.md) bestehen aus Segmentierungen und Programm-Tags.
+Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die Möglichkeit, bis zu 10 benutzerdefinierte Dimensionen hinzuzufügen. [Benutzerdefinierte ](custom-dimensions-for-email-insights.md) Dimensionen bestehen aus Segmentierungen und Programm-Tags.
 
 >[!MORELIKETHIS]
 >
