@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hinzufügen benutzerdefinierter Maßnahmen zu einem Bericht &quot;Umsatz-Explorer&quot; {#adding-custom-measures-to-a-revenue-explorer-report}
+# Hinzufügen benutzerdefinierter Maßnahmen zu einem Umsatz-Explorer-Bericht {#adding-custom-measures-to-a-revenue-explorer-report}
 
 Manchmal möchten Sie eine benutzerspezifische Maßeinheit in einem Bericht haben. Es ist leicht, sich selbst zu erschaffen.
 
@@ -21,7 +21,7 @@ Im unten stehenden Beispiel erstellen Sie eine berechnete Maßeinheit für weich
 >
 >Sie benötigen mindestens eine Metrik in Ihrem Bericht, aber sie muss nicht zu den Maßnahmen gehören, die Sie zur Definition Ihrer benutzerspezifischen Maßeinheit verwenden.
 
-1. Ziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere Informationen finden Sie unter [Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht](adding-fields-to-a-revenue-explorer-report.md) .
+1. Ziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere Informationen finden Sie unter [Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht](adding-fields-to-a-revenue-explorer-report.md).
 1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **Benutzerdefinierte Messung** und wählen Sie **Berechnete Messung**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -38,7 +38,7 @@ Im unten stehenden Beispiel erstellen Sie eine berechnete Maßeinheit für weich
    >
    >Sie können die mathematischen Symbole selbst eingeben oder das Auswahlfeld verwenden.
 
-1. Wenn Sie fertig sind, klicken Sie auf **OK**.
+1. Klicken Sie abschließend auf **OK**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
