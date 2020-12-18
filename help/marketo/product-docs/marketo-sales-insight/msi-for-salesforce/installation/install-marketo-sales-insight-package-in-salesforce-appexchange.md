@@ -23,18 +23,18 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 >
 >Marketo Sales Insight ist mit der Verschlüsselung der Salesforce-Plattform (Shield) kompatibel.
 
-1. Gehen Sie zur [AppExchange-Seite für Marketingto Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) und klicken Sie auf **Jetzt** sichern.
+1. Gehen Sie zur AppExchange-Seite [für Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) und klicken Sie auf **Jetzt herunterladen**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Anmelden bei der AppExchange** und melden Sie sich mit Ihren Salesforce-Anmeldedaten an.
+1. Klicken Sie auf **Melden Sie sich bei der AppExchange** an und melden Sie sich mit Ihren Salesforce-Anmeldeinformationen an.
 1. Geben Sie Ihre verbundene Salesforce-Kontoanmeldung ein und klicken Sie auf **In Produktion** installieren.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Wenn Sie es zunächst in Ihrer Sandbox testen möchten, wählen Sie &quot; **Installieren in Sandbox**&quot;.
+   >Wenn Sie es zunächst in Ihrer Sandbox testen möchten, wählen Sie **In Sandbox** installieren.
 
 1. Lesen und akzeptieren Sie die Geschäftsbedingungen und klicken Sie dann auf** Bestätigen und Installieren**.
 
@@ -44,7 +44,7 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 
    ![](assets/five.png)
 
-1. Wenn Sie den Installationsprozess abgeschlossen haben, wird möglicherweise folgende Meldung angezeigt. Nach Abschluss der Installation erhalten Sie eine E-Mail. Klicken Sie auf **Fertig** , um den Vorgang abzubrechen.
+1. Wenn Sie den Installationsprozess abgeschlossen haben, wird möglicherweise folgende Meldung angezeigt. Nach Abschluss der Installation erhalten Sie eine E-Mail. Klicken Sie auf **Fertig**, um den Vorgang abzubrechen.
 
    ![](assets/six.png)
 
@@ -52,15 +52,15 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 
    ![](assets/seven.png)
 
-1. Klicken Sie neben Ihrem Namen auf **Setup** .
+1. Klicken Sie neben Ihrem Namen auf **Setup**.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Suchen Sie nach &quot;Objekten&quot;und klicken Sie dann auf **Objekte** unter **Erstellen**.
+1. Suchen Sie nach &quot;Objekten&quot; und klicken Sie dann unter **Erstellen** auf **Objekte**.
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Überprüfen Sie anhand der Dublette, ob **Deployed** für alle MarketingTo Sales Insight-Artikel aktiviert ist.
+1. Überprüfen Sie bei der Dublette, ob **Deployed** für alle MarketingTo Sales Insight-Artikel überprüft wurde.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -68,7 +68,7 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. Wählen Sie im Abschnitt **Bereitstellungsstatus** die Option **bereitgestellt** und klicken Sie auf **Speichern**.
+1. Wählen Sie im Abschnitt **Bereitstellungsstatus** **Deployed** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
