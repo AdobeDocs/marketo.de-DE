@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Konfigurieren der progressiven Profilerstellung {#configure-form-progressive-profiling}
+# Progressives Profiling für Formulare konfigurieren {#configure-form-progressive-profiling}
 
 Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Sie neue Felder präsentieren und das Profil des Besuchers schrittweise ausfüllen. So geht es.
 
 >[!NOTE]
 >
->Damit diese Funktion ordnungsgemäß funktioniert, müssen Sie sicherstellen, dass das Vorausfüllen des Formulars für sichtbare Felder aktiviert und für ausgeblendete Felder [deaktiviert](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) ist.
+>Damit diese Funktion ordnungsgemäß funktioniert, müssen Sie sicherstellen, dass das Vorausfüllen des Formulars für sichtbare Felder aktiviert ist und [deaktiviert](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) für ausgeblendete Felder.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Klicken Sie unter **Formulareinstellungen** auf **Einstellungen****Einstellungen**.
+1. Klicken Sie unter **Formular** **Einstellungen** auf **Einstellungen**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Legen Sie **Progressive** **Profiling** auf **Aktiviert** fest.
+1. Setzen Sie **Progressiv** **Profiling** auf **Aktiviert**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Okay, jetzt konfigurieren wir es. Zu **Felddetails** **gehen**.
+1. Okay, jetzt konfigurieren wir es. Gehen Sie zu **Feld** **Details**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 Ziehen Sie per Drag &amp; Drop alle Felder, die Teil des progressiven Profils sind.
@@ -47,9 +47,9 @@ Ziehen Sie per Drag &amp; Drop alle Felder, die Teil des progressiven Profils si
 
    >[!NOTE]
    >
-   >Die Felder außerhalb des **Feldes Progressive** **Profiling** werden immer im Formular angezeigt, auch wenn sie ausgefüllt sind.
+   >Die Felder außerhalb des Felds **Progressiv** **Profiling** werden immer im Formular angezeigt, auch wenn sie ausgefüllt sind.
 
-1. Wählen Sie das Feld **Progressives** **Profiling** .
+1. Wählen Sie das Feld **Progressiv** **Profiling**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,7 +57,7 @@ Ziehen Sie per Drag &amp; Drop alle Felder, die Teil des progressiven Profils si
    >
    >Seien Sie vorsichtig, wenn Sie die erforderlichen Felder in der Progressiven Profilerstellung verwenden. Diese Felder können weiterhin leer gelassen werden, wenn der Besucher eine neue E-Mail-Adresse eingibt (wodurch eine neue Person erstellt würde), nachdem zuvor Daten für die anderen Felder übermittelt wurden, da sie im neuesten Formular unterdrückt würden.
 
-1. Wählen Sie jetzt aus dem Feld **Progressives** **Profiling** aus, wie viele leere Felder angezeigt werden sollen.
+1. Wählen Sie jetzt aus dem Feld **Progressiv** **Profiling** aus, wie viele leere Felder angezeigt werden sollen.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -66,7 +66,7 @@ Ziehen Sie per Drag &amp; Drop alle Felder, die Teil des progressiven Profils si
    >**Beispiel**
    >
    >
-   >Wenn Sie **Anzahl** **der** leeren **** Felder **** als 1 auswählen, wird dem Besucher beim ersten Anzeigen dieses Formulars Folgendes angezeigt:
+   >Wenn Sie **Number** **of** **Blank** **Fields** als 1 auswählen, wird dem Besucher das folgende Formular angezeigt, wenn er dieses zum ersten Mal sieht:
    >
    >    
    >    
@@ -98,7 +98,7 @@ Ziehen Sie per Drag &amp; Drop alle Felder, die Teil des progressiven Profils si
    >    * Land (leer)
 
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
