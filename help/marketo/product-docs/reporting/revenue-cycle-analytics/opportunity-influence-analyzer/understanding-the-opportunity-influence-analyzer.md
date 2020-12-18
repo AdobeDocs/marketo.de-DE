@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einblick in den Opportunity Influenza Analyzer {#understanding-the-opportunity-influence-analyzer}
+# Informationen zu den Opportunity Influenza Analyzer {#understanding-the-opportunity-influence-analyzer}
 
 Jede Gelegenheit ist eine Geschichte. Wo hast du den Blei getroffen? Welche Marketingmöglichkeiten beeinflussten sie während des Marketing-/Verkaufsprozesses?
 
