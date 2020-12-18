@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vorlagen für Landingpages mit Guided haben zwei Typen von bearbeitbaren Bereichen: Elemente und Variablen.
 
-## Elemente  {#elements}
+## Elemente {#elements}
 
 Elemente sind die verschiedenen Inhaltselemente, aus denen eine Landingpage besteht. Dabei kann es sich um Bilder, Text oder Marketo-Assets handeln.
 
@@ -49,11 +49,11 @@ Es gibt drei Variablentypen: Zeichenfolgenvariablen, Farbvariablen und boolesche
   </tr> 
   <tr> 
    <td>Farbe</td> 
-   <td><p>Bearbeitbarer Hex-Code für Farbe</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td> 
+   <td><p>Bearbeitbarer Hex-Code für Farbe</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td> 
   </tr> 
   <tr> 
    <td>Boolesch</td> 
-   <td><p>Ein Hebel, der die Ein-/Ausschaltzustände für Objekte oder Formate auf der Landingpage steuert</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiele: Fußzeile anzeigen (Ja/Nein), Spaltenanzahl (1/2), Google Analytics einbetten (Wahr/Falsch)</p></td> 
+   <td><p>Ein Hebel, der die Ein-/Ausschaltzustände für Objekte oder Formate auf der Landingpage steuert</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Beispiele: Fußzeile anzeigen (Ja/Nein), Spaltenanzahl (1/2), Google Analytics einbetten (Wahr/Falsch)</p></td> 
   </tr> 
  </tbody> 
 </table>
