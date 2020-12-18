@@ -19,11 +19,11 @@ Sie können jede beliebige Landingpage-Vorlage in Marketing bearbeiten.
 
    ![](assets/designstudio.png)
 
-1. Erweitern Sie die **Landingpages** , um die Vorlagen anzuzeigen.
+1. Erweitern Sie **Landingpages**, um die Vorlagen anzuzeigen.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Wählen Sie die **Vorlage** aus, die Sie bearbeiten möchten. Klicken Sie auf** Entwurf bearbeiten**.
+1. Wählen Sie die zu bearbeitende **Vorlage** aus. Klicken Sie auf** Entwurf bearbeiten**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
