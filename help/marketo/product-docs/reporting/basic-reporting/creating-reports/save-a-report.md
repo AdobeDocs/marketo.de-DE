@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Einen Bericht speichern {#save-a-report}
+# Einen Bericht {#save-a-report} speichern
 
 Manchmal müssen Sie einen Standardbericht später erneut zur Ansicht speichern. So können Sie das machen:
 
-1. Gehen Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
 1. Wählen Sie einen [Berichtstyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
@@ -26,11 +26,11 @@ Manchmal müssen Sie einen Standardbericht später erneut zur Ansicht speichern.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Speichern unter** und wählen Sie einen **Ordner** aus.
+1. **Speichern Sie** den Speicherort &quot;Toa&quot;und wählen Sie einen  **Ordner** aus.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Benennen** Sie den Bericht und klicken Sie auf **Speichern**.
+1. **Benennen Sie** den Bericht und klicken Sie auf  **Speichern**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -40,5 +40,5 @@ Manchmal müssen Sie einen Standardbericht später erneut zur Ansicht speichern.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie einen Bericht [klonen, um Berichte](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)zu gruppieren.
+>Erfahren Sie, wie Sie einen Bericht [klonen, um Berichte zu gruppieren](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
 
