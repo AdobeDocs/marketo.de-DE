@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Verbindung von Verkaufsstellen mit Ihrer Salesforce-Sandbox {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
+# Anleitung zum Verbinden von Verkaufsstellen mit Ihrer Salesforce-Sandbox {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->Ihr Sales Connect-Konto kann nicht bereits mit Salesforce verbunden werden, wenn eine Verbindung zur Sandbox hergestellt wird. Falls ja, [stellen Sie sicher, dass Sie die Verbindung trennen](http://docs.marketo.com/x/FoDq) , bevor Sie die Schritte in diesem Artikel befolgen.
+>Ihr Sales Connect-Konto kann nicht bereits mit Salesforce verbunden werden, wenn eine Verbindung zur Sandbox hergestellt wird. Ist dies der Fall, stellen Sie sicher, dass Sie die Verbindung [trennen, bevor Sie die Schritte in diesem Artikel befolgen.](http://docs.marketo.com/x/FoDq)
 
 1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Klicken Sie unten auf der Seite auf **Verbindung zu Sandbox** herstellen.
+1. Klicken Sie unten auf der Seite auf **Mit Sandbox** verbinden.
 
    ![](assets/four-2.png)
 
