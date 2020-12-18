@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Bericht-E-Mail, Kampagne-Leistung auf allen Arbeitsbereichen {#report-email-campaign-performance-across-workspaces}
+# Bericht-E-Mail, Kampagne-Performance über Arbeitsflächen {#report-email-campaign-performance-across-workspaces}
 
-Aktivieren Sie Global Berichte, um Daten aus allen Ihren Marketing- [Arbeitsbereichen](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in die Berichte [E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-Mail-Link-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)und [Kampagne-Aktivität](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) einzubeziehen.
+Schalten Sie den globalen Berichte ein, um Daten aus allen Ihren Marketing-to-Workspaces[in die Berichte [E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-Mail-Link-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) und [Kampagne-Aktivität](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) einzuschließen.](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 1. Gehen Sie zum Bereich **Analytics** (oder **Marketing-Aktivitäten**).
 
@@ -23,7 +23,7 @@ Aktivieren Sie Global Berichte, um Daten aus allen Ihren Marketing- [Arbeitsbere
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Klicken Sie auf die Registerkarte &quot; **Einstellungen** &quot;und anschließend auf &quot;Dublette&quot;und dann auf &quot; **Globaler Berichte**&quot;.
+1. Klicken Sie auf die Registerkarte **Setup** und klicken Sie mit der Dublette auf **Globaler Berichte**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -31,7 +31,7 @@ Aktivieren Sie Global Berichte, um Daten aus allen Ihren Marketing- [Arbeitsbere
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Das ist alles! Klicken Sie auf die Registerkarte **Bericht** , um Daten aus allen Ihren Arbeitsbereichen anzuzeigen.
+1. Das ist alles! Klicken Sie auf die Registerkarte **Bericht**, um Daten aus allen Ihren Arbeitsbereichen anzuzeigen.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
@@ -49,5 +49,5 @@ Aktivieren Sie Global Berichte, um Daten aus allen Ihren Marketing- [Arbeitsbere
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über Berichte in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Erfahren Sie mehr über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) .
 
