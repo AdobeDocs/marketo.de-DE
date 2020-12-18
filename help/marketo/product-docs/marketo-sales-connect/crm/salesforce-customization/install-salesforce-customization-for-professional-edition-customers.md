@@ -38,7 +38,7 @@ Kunden mit Salesforce Professional Edition müssen die folgenden Schritte ausfü
 
    >[!CAUTION]
    >
-   >Wenn eine Verbindung besteht, wird eine grüne Schaltfläche &quot;Installieren&quot;angezeigt. **KLICKEN SIE NICHT** auf diese Schaltfläche, fahren Sie stattdessen mit Schritt 4 fort.
+   >Wenn eine Verbindung besteht, wird eine grüne Schaltfläche &quot;Installieren&quot;angezeigt. **KLICKEN SIE** NICHT auf diese Schaltfläche, fahren Sie stattdessen mit Schritt 4 fort.
 
 1. Melden Sie sich bei dem Salesforce-Konto an, mit dem Sie verbunden sind, und klicken Sie dann auf [diesen Link](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Sie werden zur Seite &quot;Installation von Sales Connect&quot;gesendet.
@@ -46,7 +46,7 @@ Kunden mit Salesforce Professional Edition müssen die folgenden Schritte ausfü
    ![](assets/install-package.png)
 
 1. Wählen Sie die Benutzer aus, für die Sie Anpassungen installieren möchten: Nur Admin, alle Benutzer oder bestimmte Profil.
-1. Klicken Sie auf die Schaltfläche **Installieren** , um die Anpassung zu installieren.
+1. Klicken Sie auf die Schaltfläche **Installieren**, um die Anpassung zu installieren.
 1. Um eine erfolgreiche Installation zu bestätigen, melden Sie sich bei Ihrem Salesforce-Konto an.
 1. Klicken Sie auf **Setup**, suchen Sie in der Suchleiste nach &quot;Installierte Pakete&quot;und klicken Sie auf **Installierte Pakete**.
 
