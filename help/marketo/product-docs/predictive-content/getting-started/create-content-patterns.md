@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Inhaltsmuster erstellen {#create-content-patterns}
+# Erstellen von Inhaltsmustern {#create-content-patterns}
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
-Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein Besucher auf die HTML-Webseite klickt, die für das Inhaltsmuster relevant ist. Es wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, News-Artikel) als Inhaltselemente zur Seite &quot;Alle Inhalte&quot;hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, werden HTML-Seiten entdeckt und verfolgt, die mit dem definierten URL-Muster in Zusammenhang stehen, wenn ein Web-Besucher eine Ansicht durchführt oder auf einen Link zur Seite klickt. Dieses Inhaltselement (URL, Seitenname und Metadaten einschließlich Bild-URL und Beschreibung) wird der Seite &quot;Alle Inhalte&quot;hinzugefügt, um prädiktiven Inhalt vorzubereiten. Für die automatische Erkennung anderer Inhalte wie PDFs und eingebettetes Video müssen Sie die Inhaltssuche [aktivieren](enable-content-discovery.md).
+Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein Besucher auf die HTML-Webseite klickt, die für das Inhaltsmuster relevant ist. Es wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, News-Artikel) als Inhaltselemente zur Seite &quot;Alle Inhalte&quot;hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, werden HTML-Seiten entdeckt und verfolgt, die mit dem definierten URL-Muster in Zusammenhang stehen, wenn ein Web-Besucher eine Ansicht durchführt oder auf einen Link zur Seite klickt. Dieses Inhaltselement (URL, Seitenname und Metadaten einschließlich Bild-URL und Beschreibung) wird der Seite &quot;Alle Inhalte&quot;hinzugefügt, um prädiktiven Inhalt vorzubereiten. Für die automatische Erkennung anderer Inhalte, wie PDFs und eingebettetes Video, müssen Sie [die Inhaltserkennung aktivieren](enable-content-discovery.md).
 
 1. Gehen Sie zu **Inhaltseinstellungen**.
 
@@ -37,7 +37,7 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein B
 
    >[!NOTE]
    >
-   >Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim [Erstellen von Kategorien](set-up-categories.md)eingerichtet haben.
+   >Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie bei [erstellten Kategorien](set-up-categories.md) eingerichtet haben.
 
 1. Klicken Sie auf **+ **um einen weiteren Pfad hinzuzufügen.
 
@@ -52,7 +52,7 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein B
 * Sie können eine Platzhalterkarte an einer beliebigen Stelle in einem Ausdruck verwenden (Beispiel: *domain.com/**, *domain.com/*blog**)
 
 * Es wird empfohlen, /* am Ende eines Ausdrucks zu verwenden, um die Mustererkennung fortzusetzen (Beispiel: *domain.com/blog/** erkennt alle Beiträge im Blog-Ordner)
-* Bei Inhaltsmustern wird nicht zwischen Groß- und Kleinschreibung unterschieden (Beispiel: *domain.com/Blog/** entdeckt alle HTML-Seiten auf *domain.com/Blog* und *domain.com/blog*)
+* Bei Inhaltsmustern wird nicht zwischen Groß- und Kleinschreibung unterschieden (Beispiel: *domain.com/Blog/** findet alle HTML-Seiten auf *domain.com/Blog* und *domain.com/blog*)
 
 * URL-Parameter werden nicht erkannt (dies verhindert, dass mehrere Elemente mit derselben Inhalts-URL, aber unterschiedlichen Parametern erkannt werden)
 
@@ -75,7 +75,7 @@ Für *domain.com*:
    <td><p>Entdeckt alle Inhalte, die dem Muster domain.com/article/2017/ entsprechen:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
-   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
    <td><p>Entdeckt alle URLs, die das Wort "Datasheets:"enthalten.</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
