@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Konfigurieren des Trackfortschrittsflusses für ein Referrer-Angebot {#configure-track-progress-flow-for-a-referral-offer}
 
-Beim [Erstellen eines Referrer-Angebots](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)können Sie die Eingabeaufforderungen konfigurieren, die den Teilnehmern ihren Fortschritt in Richtung Belohnung anzeigen.
+Wenn Sie [ein Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie die Eingabeaufforderungen konfigurieren, die den Teilnehmern ihren Fortschritt in Richtung Belohnung anzeigen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie das verweisende Angebot aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie das verweisende Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. Wechseln Sie im Referrer-Angebot-Editor zu **Fortschrittsfluss** verfolgen > **Social-Netzwerke**.
+1. Wechseln Sie im Editor für Verweismaterial zu **Verfolgungsfortschritt** > **Social Networks**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Bearbeiten Sie im Fenster **Ansicht** **&amp;** **bearbeiten** die Aufforderung, an die die Teilnehmer erinnert werden, sich bei demselben sozialen Netzwerk anzumelden, mit dem sie sich für Ihr Angebot angemeldet haben.
+1. Bearbeiten Sie im Fenster **Ansicht** **&amp;** **Bearbeiten** die Aufforderung, die die Teilnehmer daran erinnert, sich bei demselben sozialen Netzwerk anzumelden, mit dem sie sich für Ihr Angebot angemeldet haben.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >Um den zu bearbeitenden Text zu markieren, wählen Sie in der oberen rechten Ecke die Option &quot;Bearbeitungen **anzeigen&quot;** .
+   >Um den zu bearbeitenden Text zu markieren, wählen Sie **Bearbeitungen anzeigen** in der oberen rechten Ecke aus.
 
 1. Bearbeiten Sie die Eingabeaufforderung, die den Teilnehmer dazu anhält, den Link für weitere Freunde freizugeben.
 
@@ -49,5 +49,5 @@ Beim [Erstellen eines Referrer-Angebots](../../../../product-docs/demand-generat
 
 >[!MORELIKETHIS]
 >
->Klicken Sie als Nächstes auf **Fertig stellen > Genehmigen und Schließen** und [veröffentlichen Sie Ihr Verweisdokument](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Klicken Sie anschließend auf **Fertig > Genehmigen und Schließen** und [Veröffentlichen Sie Ihr Verweisdokument](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
 
