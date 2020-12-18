@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Einen Bericht löschen {#delete-a-report}
+# Einen Bericht {#delete-a-report} löschen
 
-Sobald Sie mit der [Erstellung von Berichten](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)fertig sind, können Sie viele davon schnell herausfinden. Denken Sie daran, Berichte zu löschen, die Sie nicht mehr benötigen.
+Wenn Sie [Berichte erstellen, können Sie schnell viele davon erstellen. ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Denken Sie daran, Berichte zu löschen, die Sie nicht mehr benötigen.
 
-1. Klicken Sie mit der rechten Maustaste auf den nicht benötigten Bericht in der Struktur und wählen Sie Bericht **löschen**.
+1. Klicken Sie mit der rechten Maustaste auf den nicht benötigten Bericht in der Struktur und wählen Sie **Bericht löschen**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -30,5 +30,5 @@ Sobald Sie mit der [Erstellung von Berichten](../../../../product-docs/reporting
    >**Tieftauchen**
    >
    >
-   >Sehen Sie sich alle anderen Dinge an, die Sie mit Berichten im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) Deep Dive tun können.
+   >Sehen Sie sich alle anderen Dinge an, die Sie mit Berichten im tiefen Tauchgang von [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) tun können.
 
