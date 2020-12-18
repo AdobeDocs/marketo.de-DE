@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertung** , um Sterne und Flammen zu berechnen. Aber wenn Sie ein anderes Feld auswählen möchten, hier:
+Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertung**, um Sterne und Flammen zu berechnen. Aber wenn Sie ein anderes Feld auswählen möchten, hier:
 
 >[!TIP]
 >
->Wenn Sie noch nicht über benutzerdefinierte Ergebnisfelder verfügen, können Sie diese hier [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)erstellen.
+>Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie [diese erstellen.](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!NOTE]
 >
