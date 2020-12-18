@@ -19,7 +19,7 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Klicken Sie auf **Neues lokales Asset**.
+1. Klicken Sie auf **Neues lokales Element**.
 
    ![](assets/new-local-asset-hand.jpg)
 
@@ -27,7 +27,7 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
    >
    >Alternativ können Sie auf die Dropdownliste **Neu** klicken.
 
-1. Klicken Sie auf **SMS**.
+1. Klicken Sie auf **SMS-Nachricht**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
@@ -35,7 +35,7 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. Klicken Sie auf Entwurf **bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/edit-draft-hand.jpg)
 
@@ -47,7 +47,7 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
    >
    >Die Beschränkungen für die USA und Kanada unterscheiden sich bei 160 bzw. 130 Zeichen. Wenn Sie diese Zeichenbeschränkungen überschreiten, kann Ihre Nachricht geteilt werden. Während wir zeigen, wenn Sie die Grenze von Kanada überschreiten, ist der Editor für US optimiert und teilt die Nachricht auf der Grundlage der US-Grenze.
 
-1. Klicken Sie im Menü &quot;Einfügen&quot;auf **Token** , um Ihrer Nachricht ein Token hinzuzufügen.
+1. Klicken Sie im Menü &quot;Einfügen&quot;auf **Token**, um Ihrer Nachricht ein Token hinzuzufügen.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -55,11 +55,11 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
    >
    >Das Hinzufügen eines Tokens kann dazu führen, dass die Meldung die Zeichenbeschränkung überschreitet. Die Nachricht wird dann aufgeteilt, was zu zusätzlichen Kosten führt.
 
-1. Klicken Sie im Menü &quot;Einfügen&quot;auf &quot; **Link** &quot;, um Ihrer Nachricht einen Link hinzuzufügen.
+1. Klicken Sie im Menü &quot;Einfügen&quot;auf **Link**, um Ihrer Nachricht einen Link hinzuzufügen.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Wählen Sie einen Linktyp aus. Die Landingpage von Marketo ist die Standardeinstellung. Wenn Sie damit beginnen, müssen Sie die Landingpage aus der Dropdownliste auswählen und auf **Einfügen** klicken.
+1. Wählen Sie einen Linktyp aus. Die Landingpage von Marketo ist die Standardeinstellung. Wenn Sie damit beginnen, müssen Sie die Landingpage aus der Dropdown-Liste auswählen und auf **Einfügen** klicken.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -67,7 +67,7 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
    >
    >Die beiden Tracking-Links sind standardmäßig ausgewählt.
 
-1. Wenn Sie stattdessen eine externe URL verwenden möchten, klicken Sie auf die Schaltfläche &quot; **Externe URL** &quot;und geben Sie die URL in das Feld &quot;URL&quot;ein. Klicken Sie auf **Einfügen**.
+1. Wenn Sie stattdessen eine externe URL verwenden möchten, klicken Sie auf die Schaltfläche **Externe URL** und geben Sie die URL in das Feld URL ein. Klicken Sie auf **Einfügen**.
 
    ![](assets/insert-link-url-hands.jpg)
 
