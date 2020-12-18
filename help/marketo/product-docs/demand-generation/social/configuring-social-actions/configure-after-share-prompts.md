@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nach der Freigabe ausgeführte Eingabeaufforderungen konfigurieren {#configure-after-share-prompts}
+# Nach der Freigabe übermittelte Eingabeaufforderungen {#configure-after-share-prompts} konfigurieren
 
 In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie auswählen, was passiert, wenn eine Person Ihren Inhalt in ihrem sozialen Netzwerk teilt.
 
@@ -19,26 +19,26 @@ In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie auswählen, was p
 
    ![](assets/ma.png)
 
-1. Wählen Sie die App aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Rufen Sie im Social App-Editor die **App-Einstellungen******* und dann **Erweiterte Optionen** auf.
+1. Gehen Sie im Social App-Editor zu **App-Einstellungen**** **und dann **Erweiterte Optionen**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Wählen Sie unter **Nach Freigabe** das gewünschte Verhalten aus.
+1. Wählen Sie unter **Nach der Freigabe** das gewünschte Verhalten aus.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Bestätigungsmeldung:** Sobald die Person freigegeben wurde, zeigen Sie eine Bestätigung an.
-   * **E-Mail-Erfassung:** Nachdem die Person freigegeben wurde, bitten Sie um ihre E-Mail-Adresse.
+   * **Bestätigungsmeldung:** Sobald die Person freigegeben wurde, wird eine Bestätigung angezeigt.
+   * **E-Mail-Erfassung:** Nachdem die Person freigegeben hat, fordern Sie ihre E-Mail-Adresse an.
 
    >[!NOTE]
    >
-   >Wenn Sie &quot; **E-Mail-Erfassung**&quot;auswählen, wird die Anforderung nur angezeigt, wenn die Person ihre Informationen noch nicht angegeben hat.
+   >Wenn Sie **E-Mail-Erfassung** auswählen, wird die Anforderung nur angezeigt, wenn die Person noch keine Informationen angegeben hat.
 
-1. Wenn Sie **Bestätigungsmeldung auswählen:** Gehen Sie zu **Freigabe-Fluss** und dann **Bestätigungsmeldung**.
+1. Wenn Sie **Bestätigungsmeldung:** Gehen Sie zu **Freigabefluss** und dann **Bestätigungsmeldung**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,7 +46,7 @@ In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie auswählen, was p
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Wenn Sie &quot; **E-Mail-Erfassung** &quot;(anstelle der Bestätigung) auswählen: Gehen Sie zu **Freigabe-Fluss** und dann **E-Mail-Erfassung**.
+1. Wenn Sie **E-Mail-Erfassung** (anstelle der Bestätigung) auswählen: Wechseln Sie zu **Fluss freigeben** und dann **E-Mail-Erfassung**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
