@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Grundlegendes zu Freiform- und Guided-Landingpages {#understanding-free-form-vs-guided-landing-pages}
 
-Die ausgewählte Vorlage bestimmt, in welcher Landingpage Sie arbeiten. Es gibt zwei mögliche Pfade: [Freiform](http://docs.marketo.com/display/docs/free-form+landing+pages) und [Führung](http://docs.marketo.com/display/docs/guided+landing+pages). Im Folgenden finden Sie eine kurze Zusammenfassung der wichtigen Unterschiede.
+Die ausgewählte Vorlage bestimmt, in welcher Landingpage Sie arbeiten. Es gibt zwei mögliche Pfade: [free-form](http://docs.marketo.com/display/docs/free-form+landing+pages) und [guided](http://docs.marketo.com/display/docs/guided+landing+pages). Im Folgenden finden Sie eine kurze Zusammenfassung der wichtigen Unterschiede.
 
 ## Freiformseiten {#free-form-pages}
 
@@ -24,7 +24,7 @@ Die ausgewählte Vorlage bestimmt, in welcher Landingpage Sie arbeiten. Es gibt 
 
 ![](assets/image2015-5-20-17-3a50-3a53.png)
 
-## Geführte Seiten {#guided-pages}
+## Guided Pages {#guided-pages}
 
 * Vordefiniertes Layout/vordefinierte Struktur, gesteuert von der Vorlage.
 * Im Editor können nur die in der Vorlage als bearbeitbar definierten Regionen oder Variablen angepasst werden.
