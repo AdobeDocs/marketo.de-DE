@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können Listen auf der Seite &quot;Alle Inhalte&quot;bearbeiten.
 
-1. Bewegen Sie den Mauszeiger auf der Seite &quot; **Alle Inhalte** &quot;über die Zeile des Titels, den Sie bearbeiten möchten, und klicken Sie auf das Symbol &quot;Bearbeiten&quot;.
+1. Bewegen Sie den Mauszeiger auf der Seite **Alle Inhalte** über die Zeile des Titels, den Sie bearbeiten möchten, und klicken Sie auf das Symbol Bearbeiten.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,11 +23,11 @@ Sie können Listen auf der Seite &quot;Alle Inhalte&quot;bearbeiten.
 
    ![](assets/edit-content-2.png)
 
-1. Klicken Sie auf das Feld **Kategorien** , um Kategorien hinzuzufügen/zu entfernen. Wählen Sie neue aus der Dropdownliste aus. Sie können eine aktuell ausgewählte Kategorie entfernen, indem Sie auf ihr **X** klicken.
+1. Klicken Sie auf das Feld **Kategorien**, um Kategorien hinzuzufügen/zu entfernen. Wählen Sie neue aus der Dropdownliste aus. Sie können eine aktuell ausgewählte Kategorie entfernen, indem Sie auf **X** klicken.
 
    ![](assets/edit-content-3.png)
 
-1. Markieren Sie das Kontrollkästchen **Genehmigen für Prognostizierte Inhalte** , um die Genehmigung zu genehmigen, oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicken Sie abschließend auf **Speichern** .
+1. Markieren Sie das Kontrollkästchen **Genehmigen für Prognostischen Inhalt**, um die Genehmigung zu genehmigen, oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/edit-content-4.png)
 
