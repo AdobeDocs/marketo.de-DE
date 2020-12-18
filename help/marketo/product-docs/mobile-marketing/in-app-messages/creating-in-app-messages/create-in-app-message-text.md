@@ -77,7 +77,7 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeite
 
    Änderungen, die Sie an Token vornehmen, die in einem genehmigten In-App-Nachrichten-Programm verwendet werden, werden erst dann in der In-App-Nachricht wirksam, wenn das Programm angehalten und dann fortgesetzt wird.
 
-Du bist goldig. Als Nächstes müssen Sie Ihre In-App-Benachrichtigungsschaltfläche [einrichten](set-up-the-in-app-message-button.md).
+Du bist goldig. Als Nächstes müssen Sie [Ihre In-App-Benachrichtigungsschaltfläche](set-up-the-in-app-message-button.md) einrichten.
 
 >[!MORELIKETHIS]
 >
