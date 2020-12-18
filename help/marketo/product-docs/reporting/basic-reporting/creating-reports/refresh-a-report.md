@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bericht aktualisieren {#refresh-a-report}
+# Bericht {#refresh-a-report} aktualisieren
 
 Nach Ansicht eines Berichts speichert Marketo ihn in Ihrer Datenbank, damit er beim nächsten Anzeigen schnell geladen wird. Nach der ersten Ansicht werden Berichte automatisch alle 24 Stunden aktualisiert, damit sie stets auf dem neuesten Stand sind. Sie können sie jedoch jederzeit manuell aktualisieren.
 
@@ -23,7 +23,7 @@ Nach Ansicht eines Berichts speichert Marketo ihn in Ihrer Datenbank, damit er b
 
    ![](assets/two.png)
 
-1. Sie können den Bericht auch aktualisieren, indem Sie auf das Menü **Berichtaktionen** klicken und dann Bericht **aktualisieren** wählen.
+1. Sie können den Bericht auch aktualisieren, indem Sie auf das Menü **Berichtaktionen** klicken und **Bericht aktualisieren** auswählen.
 
    ![](assets/three.png)
 
