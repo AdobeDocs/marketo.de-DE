@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Landingpages auf Facebook veröffentlichen {#publish-landing-pages-to-facebook}
+# Landingpages auf Facebook {#publish-landing-pages-to-facebook} veröffentlichen
 
 Sie können Ihre Landingpages auf Facebook veröffentlichen, Ihre Audience dort treffen, wo sie bereits hängen, und mehr Traffic zu Ihren Programms generieren.
 
@@ -31,7 +31,7 @@ Nehmen wir an, Sie starten ein neues Buch, Sie können einige Ihrer Audiencen pe
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Wählen Sie **Veröffentlichen auf Facebook** aus den Aktionen für Landingpages.
+1. Wählen Sie **Auf Facebook** veröffentlichen aus den Landingpages-Aktionen.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -51,13 +51,13 @@ Nehmen wir an, Sie starten ein neues Buch, Sie können einige Ihrer Audiencen pe
    >
    >Sie müssen ein Konto verwenden, das über Administratorberechtigungen für die Facebook-Seite verfügt, auf der Sie Ihre Marketing-Landingpage veröffentlichen möchten.
 
-1. Wählen Sie die **Facebook-Seite** aus, auf der Sie die Landingpage veröffentlichen möchten, und geben Sie den Namen ein, unter dem Ihre Marketing-Landingpage dort angezeigt werden soll.
+1. Wählen Sie die **Facebook-Seite**, auf der Sie die Landingpage veröffentlichen möchten, und geben Sie den Namen ein, unter dem Ihre Marketing-Landingpage dort angezeigt werden soll.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Wenn Sie zuvor auf Facebook veröffentlichte Marketo-Landingpages ersetzen möchten, wählen Sie die Registerkarte &quot;Vorhandene **ersetzen&quot;** und wählen Sie in der Dropdown-Liste die zu ersetzende Registerkarte aus. Beachten Sie, dass dies die Register &quot;non-Marketo&quot;nicht ersetzen wird.
+   >Um die zuvor bei Facebook veröffentlichten Marketo-Landingpages zu ersetzen, wählen Sie **Vorhandene Registerkarte ersetzen** und wählen Sie die Registerkarte aus, die in der Dropdown-Liste ersetzt werden soll. Beachten Sie, dass dies die Register &quot;non-Marketo&quot;nicht ersetzen wird.
 
 1. Interessenten können Ihre Landingpage jetzt direkt auf Ihrer Facebook-Seite besuchen. Klicken Sie einfach auf den Registernamen unter Ihrem Deckblattbild.
 
