@@ -19,11 +19,11 @@ In Web-Personalisierung und Predictive Content kann ein Marketingexperte einen U
 
 ## Aktivieren oder deaktivieren Sie das Umschalten {#enable-or-disable-the-toggle}
 
-1. Wechseln Sie zu **Kontoeinstellungen**.
+1. Gehen Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Wählen Sie unter &quot;Domain and Domain Configuration&quot;die Option **On** (Ein), um den Umschalter &quot;Honor DNT&quot;zu aktivieren.
+1. Wählen Sie unter &quot;Domain and Domain Configuration&quot;die Option **On** aus, um den Umschalter &quot;Honor DNT&quot;zu aktivieren.
 
    ![](assets/two-1.png)
 
@@ -33,5 +33,5 @@ In Web-Personalisierung und Predictive Content kann ein Marketingexperte einen U
    >
    >Das Festlegen des Umschalters auf &quot;Ein&quot;kann sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken.
 
-1. Um den Umschalter &quot;Honor DNT&quot;zu deaktivieren und die Einstellung &quot;Do No Track (DNT)&quot;des Browsers zu ignorieren, wählen Sie unter &quot;Honor DNT&quot;die Option &quot; **Off** &quot;aus.
+1. Um den Umschalter &quot;Honor DNT&quot;zu deaktivieren und die Einstellung &quot;Do No Track (DNT)&quot;des Browsers zu ignorieren, wählen Sie **Off** unter &quot;Honor DNT&quot;aus.
 
