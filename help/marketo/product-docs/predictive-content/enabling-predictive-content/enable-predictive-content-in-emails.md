@@ -27,21 +27,21 @@ Machen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie das
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## Hinzufügen prädiktiver Inhalte mit dem Editor &quot;E-Mail 2.0&quot; {#adding-predictive-content-using-the-email-editor}
+## Hinzufügen von prädiktiven Inhalten mit dem E-Mail 2.0-Editor {#adding-predictive-content-using-the-email-editor}
 
 1. Klicken Sie auf **Marketing-Aktivitäten**.
 
    ![](assets/one.png)
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf das Bild, das prädiktiv sein soll. Wenn das Zahnradsymbol angezeigt wird, klicken Sie darauf und wählen Sie &quot;Inhalt **`AI`** aktivieren&quot;(Inhalt`AI` ist der frühere Name für &quot;Vorheriger Inhalt&quot;).
+1. Klicken Sie auf das Bild, das prädiktiv sein soll. Wenn das Zahnradsymbol angezeigt wird, klicken Sie darauf und wählen Sie **Inhalt aktivieren`AI`** aus (Inhalt`AI` ist der frühere Name für Predictive Content).
 
    ![](assets/three.png)
 
-1. Um eine oder mehrere Kategorien auszuwählen, klicken Sie auf die Dropdownliste **Kategorien** , wählen Sie die gewünschten  aus und klicken Sie auf **Übernehmen**.
+1. Um eine oder mehrere Kategorien auszuwählen, klicken Sie auf die Dropdownliste **Kategorien**, wählen Sie die gewünschten aus und klicken Sie auf **Übernehmen**.
 
    ![](assets/four.png)
 
@@ -53,19 +53,19 @@ Machen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie das
 
    ![](assets/five.png)
 
-1. Klicken Sie zur Vorschau Ihrer E-Mail auf **Vorschau** oben rechts.
+1. Klicken Sie zur Vorschau Ihrer E-Mail in der rechten oberen Ecke auf **Vorschau**.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Aktualisieren**, um verschiedene Bilder Ansicht.
+1. Klicken Sie auf **Aktualisieren**, um verschiedene Ansichten zu erstellen.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Das Bild wird erst ausgewählt, **_wenn der Empfänger die E-Mail_**&#x200B;öffnet. Was Sie also in der Vorschau sehen, ist nur ein Beispiel und wird nicht unbedingt das Bild sein, das der Empfänger sieht.
+   >Das Bild wird erst ausgewählt, wenn der Empfänger die E-Mail-Adresse **_öffnet._** Was Sie also in der Vorschau sehen, ist nur ein Beispiel und wird nicht unbedingt das Bild sein, das der Empfänger sieht.
 
-1. Nachdem Sie die Vorschau Ihrer E-Mail abgeschlossen haben, klicken Sie auf die Dropdownliste **Vorschauen-Aktionen** und wählen Sie **Genehmigen und Schließen**. Wenn Sie noch Bearbeitungen vornehmen müssen, klicken Sie rechts auf Entwurf **bearbeiten** .
+1. Nachdem Sie die Vorschau Ihrer E-Mail abgeschlossen haben, klicken Sie auf die Dropdownliste **Vorschau Aktionen** und wählen Sie **Genehmigen und Schließen**. Wenn Sie noch Bearbeitungen vornehmen müssen, klicken Sie auf der rechten Seite auf **Entwurf bearbeiten**.
 
    ![](assets/eight.png)
 
@@ -79,9 +79,9 @@ Nachdem Sie Ihre E-Mail genehmigt haben, wird sie mit Predictive Content ausgest
 >
 >Sobald ein Empfänger die E-Mail öffnet, werden die Prognosebilder gesperrt. Wenn der Inhalt später entfernt wird, sehen Empfänger ein beschädigtes Bild, in dem der Inhalt enthalten war.
 
-## Hinzufügen von prädiktiven Inhalten, wenn der Editor &quot;E-Mail 2.0&quot;nicht verwendet wird {#adding-predictive-content-when-not-using-the-email-editor}
+## Hinzufügen von prädiktiven Inhalten, wenn der Editor &quot;E-Mail 2.0&quot;nicht verwendet wird{#adding-predictive-content-when-not-using-the-email-editor}
 
-Wenn Sie keine [E-Mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) -Vorlage verwenden, können Sie Ihrer E-Mail Predictive Content hinzufügen, indem Sie einfach ein Bild in Ihrer Vorlage als editierbares Marketo-Bildelement markieren.
+Wenn Sie keine [E-Mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)-Vorlage verwenden, können Sie Ihrer E-Mail Predictive Content hinzufügen, indem Sie ein Bild in Ihrer Vorlage einfach als Markieren zu bearbeitbares Bildelement markieren.
 
 Erfahren Sie mehr über die [Marketo-spezifische Syntax hier](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
 
