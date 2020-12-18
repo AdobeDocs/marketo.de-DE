@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Meldebogen 12-E {#template-e}
+# Vorlage 12-E {#template-e}
 
 [Vorlage 12-E herunterladen](http://docs.marketo.com/download/attachments/9437586/template-12e.html?version=1&amp;modificationdate=1438211652000&amp;api=v2)
 
