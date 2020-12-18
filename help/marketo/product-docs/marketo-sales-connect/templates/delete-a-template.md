@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eine Vorlage löschen {#delete-a-template}
+# Eine Vorlage {#delete-a-template} löschen
 
 Führen Sie zum Löschen einer Vorlage die folgenden Schritte aus.
 
@@ -21,5 +21,5 @@ Führen Sie zum Löschen einer Vorlage die folgenden Schritte aus.
 
 1. Wählen Sie die Vorlage aus, die Sie entfernen möchten.
 1. Klicken Sie oben rechts auf das Dropdownmenü und dann auf **Löschen**.
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie zur Bestätigung auf **Löschen**.
 
