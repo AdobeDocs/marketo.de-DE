@@ -23,31 +23,31 @@ Der Zusammenfassungsbericht ist eine monatliche Ansicht aller Kampagnen und der 
 >
 >Unterstützte Konversion: Ein Web-Besucher, der ein Formular auf der Website ausfüllt und seine E-Mail-Adresse verlässt, der bei einem vorherigen Besuch (innerhalb der letzten 6 Monate) auf eine personalisierte Kampagne oder ein Asset für empfohlene Inhalte geklickt hat.
 
-Bei der Web-Personalisierung:** **Gehen Sie zu **Analytics** und zum **Zusammenfassungsbericht**.   ![](assets/image2016-4-6-10-3a15-3a58.png)
+Gehen Sie in Web-Personalisierung zu **Analytics** und **Zusammenfassungsbericht**.   ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Wählen Sie** Monat** und klicken Sie auf Bericht **anzeigen**.
+Wählen Sie** Monat** und klicken Sie auf **Bericht anzeigen**.
 
 ![](assets/2.png)
 
 Der erste Teil des Berichts bezieht sich auf Kampagnen zur personalisierten Web-Personalisierung und zeigt Folgendes an:
 
-* **Klicks** - alle Klicks auf Kampagnen zur Web-Personalisierung
+* **Klicks**  - alle Klicks auf Web-Personalisierungs-Kampagnen
 * **Direkte Konvertierungen **- alle Besucher, die während des Besuchs auf eine Web-Personalization-Kampagne geklickt und ein Formular ausgefüllt haben
-* **Direct Konversionsrat** - der Prozentsatz der Besucher, die nach dem Klicken auf eine Web-Personalisierung-Kampagne ein direkter Lead wurden. Direkte Interessenten dividiert durch Klicks
-* **Unterstützte Konvertierungen** - alle Besucher, die ein Formular ausgefüllt und bei einem vorherigen Besuch (in den letzten 6 Monaten) auf eine Web-Personalisierung-Kampagne geklickt haben
-* **Tipps** - Tipps zur Optimierung Ihrer Kampagnen zur Web-Personalisierung
-* **Top-Kampagnen** - die leistungsstärksten Kampagnen im ausgewählten Zeitraum, sortiert nach Anzahl der Klicks
+* **Direct Konversionsrat**  - der Prozentsatz der Besucher, die nach dem Klicken auf eine Web-Personalisierung-Kampagne ein direkter Lead wurden. Direkte Interessenten dividiert durch Klicks
+* **Unterstützte Konversionen** : Alle Besucher, die ein Formular ausgefüllt und bei einem vorherigen Besuch (über die letzten 6 Monate) auf eine Web-Personalization-Kampagne geklickt haben
+* **Tipps**  - Tipps zur Optimierung Ihrer Kampagnen zur Web-Personalisierung
+* **Top-Kampagnen**  - die Kampagnen mit der höchsten Leistung im ausgewählten Zeitraum, sortiert nach Anzahl der Klicks
 
 ![](assets/3.png)
 
 Der zweite Teil des Berichts bezieht sich auf empfohlene Inhalte aus der Empfehlungen-Engine der Web-Personalisierung. Es wird angezeigt:
 
-* **Klicks** - alle Klicks auf empfohlene Inhalte für die Web-Personalisierung
+* **Klicks**  - alle Klicks auf die Web-Personalisierung empfohlene Inhalte
 * **Direkte Konversionen **- alle Besucher, die während ihres Besuchs auf empfohlene Inhalte geklickt und ein Formular ausgefüllt haben
-* **Direct Konversionsrat** - der Prozentsatz der Besucher, die nach dem Klicken auf empfohlene Inhalte zu einem direkten Lead wurden. Direkte Interessenten dividiert durch Klicks
+* **Direct Konversionsrat**  - der Prozentsatz der Besucher, die nach dem Klicken auf empfohlene Inhalte zu einem direkten Lead wurden. Direkte Interessenten dividiert durch Klicks
 * **Unterstützte Konvertierungen ** - alle Besucher, die ein Formular ausgefüllt und bei einem vorherigen Besuch (in den letzten 6 Monaten) auf empfohlene Inhalte geklickt haben
-* **Tipps** - Tipps zur Optimierung mit der Content Recommendation Engine
-* **Top-Recommendations** - die am leistungsstärksten empfohlenen Inhalte während des ausgewählten Zeitraums, sortiert nach Anzahl der Klicks
+* **Tipps**  - Tipps zur Optimierung mit der Content Recommendation Engine
+* **Top-Recommendations**  - die am leistungsstärksten empfohlenen Inhalte während des ausgewählten Zeitraums, sortiert nach Anzahl der Klicks
 
 >[!NOTE]
 >
