@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen von Bildern und Dateien in Marketo {#add-images-and-files-to-marketo}
+# hinzufügen Bilder und Dateien an Marketo {#add-images-and-files-to-marketo}
 
 Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
 
-1. Gehen Sie zum **Design** **Studio**.
+1. Gehen Sie zu **Design** **Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie unter **Neu** auf** Bild hochladen** **oder** auf **Datei**.
+1. Klicken Sie unter **Neu** auf** Bild hochladen** **oder** **Datei**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -31,11 +31,11 @@ Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
    >
    >Die maximale Größe pro Datei beträgt 100 MB.
 
-1. Um mehrere Bilder und Dateien hinzuzufügen, navigieren Sie zum richtigen Ordner auf Ihrem Computer, drücken Sie die **Strg-/Cmd** -Taste und klicken Sie auf jede Datei, die Sie hinzufügen möchten, und klicken Sie dann auf **Öffnen**.
+1. Um mehrere Bilder und Dateien hinzuzufügen, navigieren Sie zum richtigen Ordner auf Ihrem Computer, drücken Sie die Taste **Strg/Cmd** und klicken Sie auf jede Datei, die Sie hinzufügen möchten, und klicken Sie dann auf **Öffnen**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Erweitern Sie die **Dateidetails** , um sicherzustellen, dass Sie die richtigen Bilder ausgewählt haben, und klicken Sie dann auf **Hochladen**.
+1. Erweitern Sie **Dateidetails**, um zu überprüfen, ob die richtigen Bilder ausgewählt wurden, und klicken Sie dann auf **Hochladen**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
