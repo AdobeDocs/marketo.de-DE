@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Formular erstellen {#create-a-form}
+# Formular {#create-a-form} erstellen
 
 Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu generieren. Es ist wirklich einfach - hier ist der Anfang.
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo unternimmt, um Ihre Formulare sicher zu [halten](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo mit [macht, um Ihre Formulare sicher zu halten](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
    ![](assets/programseelct.png)
 
-1. Klicken Sie unter &quot; **Neu**&quot;auf **Neues** **lokales** **Asset**.
+1. Klicken Sie unter **New** auf **New** **Local** **Asset**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +35,7 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Geben Sie einen **Namen** ein und klicken Sie auf **Erstellen**.
+1. Geben Sie ein Formular **Name** ein und klicken Sie auf **Erstellen**.
 
    ![](assets/newformwithhands.png)
 
