@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie ein Formular haben, das Sie nicht benötigen und nicht verwendet werden, können Sie es löschen. So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Wenn Sie ein Formular haben, das Sie nicht benötigen und nicht verwendet werden
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Klicken Sie unter &quot; **Formularaktionen** &quot; **auf**&quot; **Formular** **** löschen&quot;.
+1. Klicken Sie unter **Formular** **Aktionen** auf **Löschen** **Formular**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -44,5 +44,5 @@ Wenn Sie ein Formular haben, das Sie nicht benötigen und nicht verwendet werden
 
 >[!CAUTION]
 >
->Wenn Sie ein Formular löschen, das von Ihrer öffentlichen Website verwendet wird, wird keine Warnung angezeigt und das Formular wird beschädigt. Erwägen Sie stattdessen die [Archivierung](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) .
+>Wenn Sie ein Formular löschen, das von Ihrer öffentlichen Website verwendet wird, wird keine Warnung angezeigt und das Formular wird beschädigt. Erwägen Sie stattdessen die Archivierung von [a](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
