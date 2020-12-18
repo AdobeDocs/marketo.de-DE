@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Erzählen Sie die Marketing Story mit einem möglichen Einflussanalysator {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Verwenden Sie einen Einflussanalysator für Chancen, um die Rolle des Marketing in wichtigen Gelegenheiten zu illustrieren. Zeigen Sie, wie Marketing eine Chance beeinflusste, von der ersten Berührung bis zur Schaffung von Chancen und gewinnen, und darüber hinaus.
 
@@ -23,27 +23,27 @@ Verwenden Sie einen Einflussanalysator für Chancen, um die Rolle des Marketing 
 
 
 
-1. Gehen Sie zu **Analytics** und wählen Sie den **Opportunity Influence Analyzer**.
+1. Gehen Sie zu **Analytics** und wählen Sie **Opportunity Influence Analyzer**.
 
    ![](assets/analytics-opportunityhand.png)
 
    Der Opportunity Influence Analyzer ist eine visuelle Darstellung der Interaktionen und Programm- und Ereignis-Erfolge, die bei dieser Gelegenheit zu sehen sind. Lassen Sie uns das Diagramm untersuchen:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Orangefarbene Punkte** stellen [interessante Momente](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) in der Gelegenheit dar (E-Mails geöffnet, Messeauftritte, Whitepaper-Downloads usw.). Größere Punkte deuten auf mehr Interaktionen hin.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Orange** dotsstellen  [interessante ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) Impulse für die Gelegenheit dar (E-Mails geöffnet, Messeauftritte, Whitepaper-Downloads usw.). Größere Punkte deuten auf mehr Interaktionen hin.
 
-   * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)
+   * s ![—](assets/image2014-10-3-13-3a44-3a9.png)
 
-      &quot; **Binder-Symbole** zeigen [Programm](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) -Erfolge an.
+      &quot;**Binder-Symbole** geben die Erfolge von [Programm](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) an.
 
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalendersymbole** geben [Ereignis](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) -Erfolge an.
+   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalendersymbole** gibt an, dass [Ereignis](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) erfolgreich ist.
 
    * **Opportunity period**. Der Grüne Raum stellt die Chance selbst dar, von der Schaffung von Chancen bis zur Schließung von Chancen (gewonnen oder verloren).
    * **Chancen Lebenszyklus**. Die Grauzonen vor und nach der grünen Opportunitätszeit zeigen die Interaktionen, die zu dieser Gelegenheit führten und darauf folgten.
 
-   Im **Einstellungsbedienfeld** werden die Personen aus dem Konto Liste:
+   Im Bedienfeld **Einstellungen** werden die Personen aus dem Konto Liste:
 
-   * Die **Anzahl in Klammern** ist die Anzahl der Interaktionen mit diesem Kontakt.
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Der **gelbe Stern** gibt den primären Kontakt an.
+   * Die Zahl **in Klammern** ist die Anzahl der Interaktionen mit diesem Kontakt.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Das  **gelbe** Sternchen zeigt den primären Kontakt an.
 
 
 1. Bewegen Sie den Mauszeiger über einen Namen, um die Berufsbezeichnung der betreffenden Person und die Quelle ihrer Beteiligung mit der Gelegenheit zu sehen.
