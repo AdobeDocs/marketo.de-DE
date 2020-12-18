@@ -23,7 +23,7 @@ Als Highspot-Kunde können Sie Highspot-Inhalte einfach in Ihre Sales Connect-E-
 
    ![](assets/two-5.png)
 
-1. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Highspot eingefügt werden soll. Klicken Sie auf die Dropdownliste mit dem Pfeil (neben dem Anlagensymbol) und wählen Sie &quot; **Highspot**&quot;aus.
+1. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Highspot eingefügt werden soll. Klicken Sie auf die Dropdownliste mit dem Pfeil (neben dem Anlagensymbol) und wählen Sie **Highspot**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Als Highspot-Kunde können Sie Highspot-Inhalte einfach in Ihre Sales Connect-E-
 
    ![](assets/four-5.png)
 
-1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf die Schaltfläche **Hinzufügen Inhalt** .
+1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf die Schaltfläche **Hinzufügen Content**.
 
    ![](assets/five-3.png)
 
