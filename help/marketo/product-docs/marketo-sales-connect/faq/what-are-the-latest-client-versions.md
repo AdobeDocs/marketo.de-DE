@@ -19,11 +19,11 @@ Nachstehend finden Sie die neuesten Versionen für alle Sales Connect-Clients.
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>8,6,19</p></td> 
   </tr> 
   <tr> 
    <td><strong>Chrome</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>8,6,19</p></td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Windows</strong></td> 
