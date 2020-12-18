@@ -19,7 +19,7 @@ Mit dieser Integration können Sie eine Marketo-Audience an Google senden, die m
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehe zu **Admin**.
+1. Gehen Sie zu **Admin**.
 
    ![](assets/admin.png)
 
@@ -27,15 +27,15 @@ Mit dieser Integration können Sie eine Marketo-Audience an Google senden, die m
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Wählen Sie **Neuer** dann** Neuer Dienst**.
+1. Wählen Sie **Neu** dann** Neuer Dienst**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **Anzeigenamen ein **und wählen Sie** Google-Kundenübereinstimmung **aus der Dropdownliste **Dienst** . Klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigenamen **ein und wählen Sie** Google-Kundenübereinstimmung **aus der Dropdownliste **Dienst**. Klicken Sie auf **Erstellen**.
 
    ![](assets/chooseservice.png)
 
-1. Um ein Google AdWords-Konto zu verbinden, klicken Sie auf **Autorisieren**.
+1. Um ein Google AdWords-Konto zu verknüpfen, klicken Sie auf **Autorisieren**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,11 +43,11 @@ Mit dieser Integration können Sie eine Marketo-Audience an Google senden, die m
 
    >[!CAUTION]
    >
-   >Damit Marketo Audiencen über mehrere AdWords-Konten senden kann, muss der Google-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* Konten haben.
+   >Damit Marketo Audiencen über mehrere AdWords-Konten senden kann, muss der Google-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Konten haben.
 
    ![](assets/chooseaccount.png)
 
-1. Überprüfen Sie die gewünschten Berechtigungen und klicken Sie dann auf **Zulassen**.
+1. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **Zulassen**.
 
    ![](assets/reviewpermissions.png)
 
