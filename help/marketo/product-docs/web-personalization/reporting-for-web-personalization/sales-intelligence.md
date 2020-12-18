@@ -17,13 +17,13 @@ Marketo Web Personalization bietet wertvolle Informationen über die anonymen un
 
 Greifen Sie darauf zu, indem Sie sich bei der Marketing-Web-Personalisierungsplattform, über einen täglichen/wöchentlichen E-Mail-Bericht oder über die mobile App anmelden.
 
-## Benutzerregion definieren {#define-the-users-region}
+## Definieren der Benutzerregion {#define-the-users-region}
 
 Um die Organisations- und Besucher-Daten zu definieren, die Sie in der Marketing Web-Personalisierung sehen, gehen Sie zu [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) und wählen Sie die Länder oder Bundesstaaten aus.
 
 ## Tägliche oder wöchentliche E-Mail-Berichte einrichten {#set-up-daily-or-weekly-email-reports}
 
-In den [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)können Sie tägliche oder wöchentliche E-Mail-Berichte einrichten, die am frühen Morgen gesendet werden. Die Hauptberichte, die für einen Vertriebsmitarbeiter von Interesse sind, enthalten die Berichte Organisationen und Interessenten, in denen die am häufigsten besuchten Organisationen und die am häufigsten übermittelten Interessenten, einschließlich ihres Verhaltens, aus der jeweiligen Region des Benutzers angezeigt werden.
+Unter [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) können Sie tägliche oder wöchentliche E-Mail-Berichte empfangen, die am frühen Morgen gesendet werden. Die Hauptberichte, die für einen Vertriebsmitarbeiter von Interesse sind, enthalten die Berichte Organisationen und Interessenten, in denen die am häufigsten besuchten Organisationen und die am häufigsten übermittelten Interessenten, einschließlich ihres Verhaltens, aus der jeweiligen Region des Benutzers angezeigt werden.
 
 >[!NOTE]
 >
