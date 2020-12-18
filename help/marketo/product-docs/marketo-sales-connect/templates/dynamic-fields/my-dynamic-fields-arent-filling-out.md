@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Meine dynamischen Felder sind nicht ausgefüllt {#my-dynamic-fields-arent-filling-out}
+# Meine dynamischen Felder füllen nicht aus {#my-dynamic-fields-arent-filling-out}
 
 Dynamische Felder funktionieren nur, wenn Sie eine Vorlage verwenden. Einzelne einmalige E-Mails, die Sie schreiben, werden diese nicht ausfüllen.
 
 ## Was zu überprüfen ist {#what-to-check}
 
-Es gibt drei Arten dynamischer Felder in Sales Connect: Basic, Custom und Salesforce. Sowohl Standard als auch Benutzerdefiniert suchen, um Informationen aus der [Webanwendung](http://toutapp.com/login)abzurufen. Wenn die Informationen in der Webanwendung nicht vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen von [Salesforce.com](http://salesforce.com)ab.
+Es gibt drei Arten dynamischer Felder in Sales Connect: Basic, Custom und Salesforce. Sowohl Standard als auch Benutzerdefiniert suchen, um Informationen aus der [Webanwendung](http://toutapp.com/login) abzurufen. Wenn die Informationen in der Webanwendung nicht vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen von [Salesforce.com](http://salesforce.com) ab.
 
 `**Troubleshooting Salesforce Fields**`
 
 Salesforce-Felder: z. B. `{{sfdc_account_name}}`
 
-* Vergewissern Sie sich, dass es ordnungsgemäß mit Sales Connect verbunden ist. Rufen Sie die Seite [Einstellungen](http://toutapp.com/next#settings) auf und klicken Sie neben Ihrem CRM auf **Verwalten** .
+* Vergewissern Sie sich, dass es ordnungsgemäß mit Sales Connect verbunden ist. Gehen Sie zur Seite [Einstellungen](http://toutapp.com/next#settings) und klicken Sie auf **Verwalten** neben Ihrem CRM.
 
 **Fehlerbehebung bei einfachen und benutzerdefinierten Feldern**
 
@@ -31,7 +31,7 @@ Tout-Grundfelder: z. B. `{{company}}`
 
 Tout Custom Fields: z. B. `{{custom_field_favorite_movie}}`
 
-* T `he corresponding field needs to be saved for your contact` auf der Seite &quot; [](http://toutapp.com/next#relationships) Personen&quot;für unser dynamisches Feld zu referenzieren. Wenn Sie beispielsweise eine E-Mail an Maria senden und das `{{company}}` Feld verwenden, ihr Kontaktdatensatz jedoch keine Firma Liste, können wir das nicht ausfüllen.
+* T `he corresponding field needs to be saved for your contact` auf der Seite [Personen](http://toutapp.com/next#relationships), damit unser dynamisches Feld referenziert wird. Wenn Sie beispielsweise eine E-Mail an Maria senden und das Feld `{{company}}` verwenden, ihr Kontaktdatensatz jedoch keine Firma Liste, können wir das nicht ausfüllen.
 
 ## Warum hat meine E-Mail gesendet, ohne alle dynamischen Felder auszufüllen? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -49,5 +49,5 @@ Sales Connect verhindert, dass Ihre E-Mails gesendet werden, wenn nicht alle dyn
 
 >[!NOTE]
 >
->Das `{{first_name}}` Feld sucht sowohl in Sales Connect als auch in Salesforce, um Informationen abzurufen. Alle anderen Felder in dieser Liste suchen nur in Sales Connect, um das Feld auszufüllen.
+>Das Feld `{{first_name}}` sucht sowohl in Sales Connect als auch in Salesforce nach Informationen. Alle anderen Felder in dieser Liste suchen nur in Sales Connect, um das Feld auszufüllen.
 
