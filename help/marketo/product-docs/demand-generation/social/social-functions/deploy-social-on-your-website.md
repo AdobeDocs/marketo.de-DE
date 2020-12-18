@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Social auf Ihrer Website bereitstellen {#deploy-social-on-your-website}
+# Social auf Ihrer Website {#deploy-social-on-your-website} bereitstellen
 
 Betten Sie soziale Apps auf Ihren Nicht-Marketo-Seiten ein.
 
@@ -27,11 +27,11 @@ Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Audienc
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Wählen Sie **Einbetten** von **Code**** **aus den Social-App-Aktionen.
+1. Wählen Sie **Einbetten** **Code**** **aus Social-App-Aktionen.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Kopieren Sie den Code für die Seitenüberschrift (`<head>`) und den Haupttext (`<body>`) Ihrer Site.
+1. Kopieren Sie den Code für die Seitenüberschrift (`<head>`) und den Text (`<body>`) Ihrer Site.
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
