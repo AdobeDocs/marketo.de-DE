@@ -14,7 +14,7 @@ ht-degree: 0%
 # Zusammenführen zweier Gruppen {#how-to-merge-two-groups-together}
 
 1. Gehen Sie zu einer der Gruppen, die Sie zusammenführen möchten, und wählen Sie alle Kontakte aus.
-1. Wählen Sie **Hinzufügen zu gruppierenden** Personen aus.
+1. Wählen Sie **Hinzufügen zu gruppierende Personen**.
 1. Es wird ein Fensterbereich angezeigt, in dem die Zusammenführung überprüft wird. Wählen Sie die Gruppe aus, in die Sie die Kontakte verschieben möchten.
 
    >[!NOTE]
