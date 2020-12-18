@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen eines Bildes in eine Landingpage mit Guided {#add-an-image-to-a-guided-landing-page}
+# hinzufügen eines Bildes in eine geführte Landingpage {#add-an-image-to-a-guided-landing-page}
 
 Anders als bei den Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
 
-1. Wählen Sie eine geführte Landingpage aus. Klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie eine geführte Landingpage aus. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -31,7 +31,7 @@ Anders als bei den Freiform-Landingpages verfügen geführte Landingpages über 
 
    >[!NOTE]
    >
-   >Die Größenänderung des Bildes hängt von der Vorlage ab. Weitere Informationen zu Vorlagen für [geführte Landingpages](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Die Größenänderung des Bildes hängt von der Vorlage ab. Erfahren Sie mehr über [Vorlagen für leitende Landingpages](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
