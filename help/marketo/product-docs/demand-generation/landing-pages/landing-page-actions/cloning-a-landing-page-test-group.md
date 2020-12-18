@@ -27,11 +27,11 @@ Im Design Studio können Sie eine Landingpages-Testgruppe suchen und Duplikat er
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. Geben Sie im Dialogfeld Neue Landingpages erstellen den neuen **Testgruppennamen** ein.
+1. Geben Sie im Dialogfeld Neue Landingpages erstellen die neue Testgruppe **Name** ein.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. Wählen Sie unten im Dialogfeld die geklonten Seiten in der Liste **Verfügbare Landingpages** aus und klicken Sie auf den Pfeil nach rechts, um sie in die **getesteten Landingpages** einzuschließen. Führen Sie dies für alle Landingpages aus, die Sie in dieser Gruppe benötigen.
+1. Wählen Sie unten im Dialogfeld die geklonten Seiten in der Liste **Verfügbare Landingpages** aus und klicken Sie auf den Pfeil nach rechts, um sie in die Landingpages **Testen** einzuschließen. Führen Sie dies für alle Landingpages aus, die Sie in dieser Gruppe benötigen.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
@@ -39,7 +39,7 @@ Im Design Studio können Sie eine Landingpages-Testgruppe suchen und Duplikat er
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
-1. Wenn Sie bereit sind, die Testgruppe zu starten, klicken Sie mit der rechten Maustaste auf die Gruppe in der Struktur und wählen Sie Testgruppe **genehmigen**.
+1. Wenn Sie bereit sind, die Testgruppe zu starten, klicken Sie mit der rechten Maustaste auf die Gruppe in der Struktur und wählen Sie **Testgruppe genehmigen**.
 
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
