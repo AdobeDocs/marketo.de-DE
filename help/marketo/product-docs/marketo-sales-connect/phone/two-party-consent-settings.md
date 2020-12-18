@@ -17,7 +17,7 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
 >[!PREREQUISITES]
 >
->Bevor Sie die unten stehenden Schritte ausführen, müssen Sie zunächst die Aufrufaufzeichnung [aktivieren.](http://docs.marketo.com/x/dAC1Ag)
+>Bevor Sie die unten stehenden Schritte ausführen, müssen Sie zunächst [die Aufrufaufzeichnung aktivieren.](http://docs.marketo.com/x/dAC1Ag)
 
 1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen**.
 
@@ -27,11 +27,11 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
    ![](assets/two-1.png)
 
-1. Blättern Sie nach unten zu &quot;Sales Connect Phone Settings&quot;und klicken Sie auf &quot; **Aufzeichnung verwalten&quot;**.
+1. Blättern Sie nach unten zu den Einstellungen für das Connect-Telefongespräch und klicken Sie auf **Aufzeichnung verwalten**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf Aufzeichnung **importieren**.
+1. Klicken Sie auf **Aufzeichnung importieren**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
    ![](assets/five.png)
 
-1. Nachdem der Upload abgeschlossen ist, wählen Sie das Dokument (drei Punkte) im Dateimanager aus und klicken Sie auf &quot;Als Benachrichtigung **auswählen**&quot;. Klicken Sie abschließend auf **OK** .
+1. Nachdem der Upload abgeschlossen ist, wählen Sie im Dateimanager das Dokument (drei Punkte) aus und klicken Sie auf **Als Zustimmung auswählen**. Klicken Sie abschließend auf **OK**.
 
    ![](assets/six.png)
 
