@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden einer Vorlage im Fenster &quot;Erstellen&quot; {#using-a-template-in-the-compose-window}
+# Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;{#using-a-template-in-the-compose-window}
 
 ## Suchen und Verwenden von Vorlagen {#finding-and-using-templates}
 
@@ -39,9 +39,9 @@ ht-degree: 0%
    >
    >Durch Auswahl einer anderen Vorlage werden alle derzeit im Editor befindlichen Informationen ersetzt. Wenn Sie Änderungen vornehmen, müssen Sie diese unbedingt kopieren, bevor Sie eine andere Vorlage auswählen.
 
-## Kategorien zum Erstellen von Vorlagen im Fenster &quot;Erstellen&quot; {#pinning-template-categories-in-the-compose-window}
+## Kategorien zum Erstellen von Vorlagen im Fenster {#pinning-template-categories-in-the-compose-window}
 
-Profitieren Sie **von bis zu fünf** bestimmten Vorlagen-Kategorien, um schnell auf Ihre am häufigsten verwendeten Vorlagen zugreifen zu können.
+Favoriten Sie **bis zu fünf** spezifische Vorlagenvorlagen, um schnell auf Ihre am häufigsten verwendeten Kategorien zugreifen zu können.
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
@@ -51,11 +51,11 @@ Profitieren Sie **von bis zu fünf** bestimmten Vorlagen-Kategorien, um schnell 
 
    ![](assets/pinning-two.png)
 
-1. Klicken Sie auf die Dropdownliste Kategorie **fixieren** und wählen Sie die gewünschte Kategorie aus.
+1. Klicken Sie auf die Dropdownliste **Kategorie** veröffentlichen und wählen Sie die gewünschte Kategorie aus.
 
    ![](assets/pinning-three.png)
 
-1. Klicken Sie auf Änderungen **nach Abschluss** speichern (optional: Schritt 3 wiederholen, um weitere hinzuzufügen).
+1. Klicken Sie auf **Änderungen speichern**, wenn Sie fertig sind (optional): Schritt 3 wiederholen, um weitere hinzuzufügen).
 
    ![](assets/pinning-four.png)
 
@@ -67,7 +67,7 @@ Profitieren Sie **von bis zu fünf** bestimmten Vorlagen-Kategorien, um schnell 
 
    >[!NOTE]
    >
-   >**Favoriten** sind standardmäßig vorhanden. Es enthält bevorzugte E-Mail-Vorlagen, keine Kategorien.
+   >**** Favoriten sind dort standardmäßig vorhanden. Es enthält bevorzugte E-Mail-Vorlagen, keine Kategorien.
 
    >[!NOTE]
    >
