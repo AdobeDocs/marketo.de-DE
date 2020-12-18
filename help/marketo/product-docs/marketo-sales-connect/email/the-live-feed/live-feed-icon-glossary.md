@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Glossar für Live-Feed-Symbol {#live-feed-icon-glossary}
+# Live-Feed-Symbol-Glossar {#live-feed-icon-glossary}
 
-| ![--](assets/1.png) | Jemand hat Ihre E-Mail angesehen. |
+| ![—](assets/1.png) | Jemand hat Ihre E-Mail angesehen. |
 |---|---|
-| ![--](assets/2.png) | Jemand hat auf einen Link in Ihrer E-Mail geklickt. |
-| ![--](assets/3.png) | Jemand hat eine nachvollziehbare Anlage von Ihnen angesehen oder Ihre Website besucht. |
+| ![—](assets/2.png) | Jemand hat auf einen Link in Ihrer E-Mail geklickt. |
+| ![—](assets/3.png) | Jemand hat eine nachvollziehbare Anlage von Ihnen angesehen oder Ihre Website besucht. |
 
 Wenn Sie jemanden sehen, der Ihre E-Mail immer wieder in Ihrem Live-Feed Ansicht, könnte er die E-Mail an zusätzliche Empfänger weitergeleitet haben. Dies ist höchstwahrscheinlich der Fall, wenn Sie bemerken, dass sich der Beginn für den Standort für diese Ansichten ändert.
