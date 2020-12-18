@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bearbeiten eines Ereignis-Kanals {#edit-an-event-channel}
 
-Sie können den Typ des Kanals auf der Registerkarte &quot; **Zusammenfassung** &quot;oder auf der Registerkarte &quot; **Einstellungen** &quot;des Ereignisses bearbeiten.
+Sie können den Typ des Kanals auf der Registerkarte **Zusammenfassung** des Ereignisses oder auf der Registerkarte **Setup** bearbeiten.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Sie können den Typ des Kanals auf der Registerkarte &quot; **Zusammenfassung** 
 
 >[!NOTE]
 >
->Ein Programm ist eine spezifische Marketinginitiative. Der **Kanal** soll der Versand sein, z. B. Webinar, Tradeshow oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, sehen Sie in Ihrer Dropdown-Liste möglicherweise unterschiedliche Kanal. Sie können auch Ihren eigenen Kanal [erstellen.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Ein Programm ist eine spezifische Marketinginitiative. Der **Kanal** ist als Mechanismus für den Versand gedacht, z. B. Webinar, Tradeshow oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, sehen Sie in Ihrer Dropdown-Liste möglicherweise unterschiedliche Kanal. Sie können auch [Ihren eigenen Kanal erstellen.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
 
-## Auf der Registerkarte &quot;Zusammenfassung&quot; {#from-the-summary-tab}
+## Auf der Registerkarte Zusammenfassung {#from-the-summary-tab}
 
-1. Wählen Sie in den **Marketing-Aktivitäten** Ihr Ereignis aus der Struktur.
+1. Wählen Sie unter **Marketing-Aktivitäten** Ihr Ereignis aus der Struktur.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigieren Sie zur Ansicht **Zusammenfassung** .
+1. Navigieren Sie zur Ansicht **Zusammenfassung**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Wählen Sie unter der Kategorie **Einstellungen** den aktuellen **Kanal** aus, der als Hyperlink angezeigt wird.
+1. Wählen Sie unter der Kategorie **Settings** den aktuellen **Kanal** als Hyperlink aus.
 
    ![](assets/channeltypeevent.png)
 
@@ -45,19 +45,19 @@ Sie können den Typ des Kanals auf der Registerkarte &quot; **Zusammenfassung** 
 
    ![](assets/2017-06-13-09-35-53.png)
 
-## Auf der Registerkarte &quot;Einstellungen&quot; {#from-the-setup-tab}
+## Auf der Registerkarte Setup {#from-the-setup-tab}
 
-Ein neuer Kanal kann auch über die Registerkarte &quot; **Einstellungen** &quot;des Ereignisses zugewiesen werden.
+Ein neuer Kanal kann auch über die Registerkarte **Setup** des Ereignisses zugewiesen werden.
 
 1. Wählen Sie Ihr Ereignis aus dem Baum.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigieren Sie zur Registerkarte **Einstellungen** . Klicken Sie mit der Dublette auf den aktuellen **Kanal**.
+1. Navigieren Sie zur Registerkarte **Setup**. Klicken Sie bei gedrückter Dublette auf den aktuellen **Kanal**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Wählen Sie einen neuen **Kanal** aus.
+1. Wählen Sie einen neuen **Kanal**.
 
    ![](assets/tradeshowchange.png)
 
