@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Bericht &quot;Personen nach Umsatzstufe&quot; {#people-by-revenue-stage-report}
+# Berichte zu Personen nach Umsatzstufe {#people-by-revenue-stage-report}
 
-Sie können einen Bericht erstellen, der zeigt, in welcher Phase des [Umsatzzyklusmodells](http://docs.marketo.com/display/docs/revenue+cycle+models) Ihre Mitarbeiter arbeiten. Der Bericht enthält alle Phasen des angegebenen Modells, solange eine Personenbilanz für den angegebenen Datumsbereich des Berichts vorliegt.
+Sie können einen Bericht erstellen, der zeigt, in welcher Phase Ihres [Umsatzzyklusmodells](http://docs.marketo.com/display/docs/revenue+cycle+models) Ihre Personen sich befinden. Der Bericht enthält alle Phasen des angegebenen Modells, solange eine Personenbilanz für den angegebenen Datumsbereich des Berichts vorliegt.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Sie können einen Bericht erstellen, der zeigt, in welcher Phase des [Umsatzzykl
 
    **
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** . Klicken Sie mit der Dublette auf das Feld **Erstellt am** , um den gewünschten Zeitraum für die Berichterstellung festzulegen.
+1. Klicken Sie auf die Registerkarte **Setup**. Klicken Sie bei gedrückter Dublette auf das Feld **Erstellte Person unter**, um den gewünschten Zeitraum für die Berichterstellung festzulegen.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
@@ -41,7 +41,7 @@ Sie können einen Bericht erstellen, der zeigt, in welcher Phase des [Umsatzzykl
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht** . Jetzt können Sie sehen, in welcher Phase Ihres Umsatzmodells Ihre Mitarbeiter sind, und sich auf etwaige Engpässe konzentrieren.
+1. Klicken Sie auf die Registerkarte **Bericht**. Jetzt können Sie sehen, in welcher Phase Ihres Umsatzmodells Ihre Mitarbeiter sind, und sich auf etwaige Engpässe konzentrieren.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)
 
@@ -50,5 +50,5 @@ Sie können einen Bericht erstellen, der zeigt, in welcher Phase des [Umsatzzykl
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie, wie Sie Spalten und mehr in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting)hinzufügen.
+   >Erfahren Sie, wie Sie Spalten und mehr in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) hinzufügen.
 
