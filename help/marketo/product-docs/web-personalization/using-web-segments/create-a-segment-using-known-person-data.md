@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines Segments mithilfe von Daten bekannter Personen {#create-a-segment-using-known-person-data}
+# Erstellen eines Segments mit bekannten Personendaten {#create-a-segment-using-known-person-data}
 
 Hier erfahren Sie, wie Sie ein Segment mit den Werten für bekannte Personendaten erstellen.
 
@@ -23,7 +23,7 @@ Hier erfahren Sie, wie Sie ein Segment mit den Werten für bekannte Personendate
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klicken Sie auf Neu **erstellen**.
+1. Klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -47,9 +47,9 @@ Hier erfahren Sie, wie Sie ein Segment mit den Werten für bekannte Personendate
 
    ![](assets/seven-1.png)
 
-## Auswählen von Datenfeldern mit mehreren Personen {#selecting-multiple-person-data-fields}
+## Auswählen der Datenfelder für mehrere Personen {#selecting-multiple-person-data-fields}
 
-1. Klicken Sie auf **+** , um ein weiteres Personendatenfeld hinzuzufügen.
+1. Klicken Sie auf **+**, um ein weiteres Personendatenfeld hinzuzufügen.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ Hier erfahren Sie, wie Sie ein Segment mit den Werten für bekannte Personendate
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Speichern** , um das Segment zu speichern, oder auf **Speichern &amp; Definieren der Kampagne **zum Speichern und rufen Sie die Seite &quot;Kampagnen&quot;auf.
+1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder auf **Speichern und definieren Sie die Kampagne **zum Speichern und rufen Sie die Seite &quot;Kampagnen&quot;auf.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
