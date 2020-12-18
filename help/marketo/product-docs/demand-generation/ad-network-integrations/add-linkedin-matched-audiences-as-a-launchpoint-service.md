@@ -19,23 +19,23 @@ ht-degree: 0%
 
 Verbinden Sie Ihr Marketing-Konto mit LinkedIn-übereinstimmenden Audiencen, um eine statische Marketing-Liste oder intelligente Liste als LinkedIn-Audience-Segment zu verwenden.
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/admin.png)
 
-1. Wählen Sie **Startpunkt**.
+1. Wählen Sie **Launchpoint**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Wählen Sie **Neuer** und **neuer Dienst**.
+1. Wählen Sie **Neu** und **Neuer Dienst**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **Anzeigenamen ein** und wählen Sie **LinkedIn-übereinstimmende Audiencen**. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigenamen** ein und wählen Sie **LinkedIn-übereinstimmende Audiencen**. Klicken Sie auf **Erstellen**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Um ein LinkedIn-Konto zu verbinden, klicken Sie auf **Autorisieren**.
+1. Um ein LinkedIn-Konto zu verknüpfen, klicken Sie auf **Autorisieren**.
 
    ![](assets/authorizeaccount.png)
 
@@ -47,7 +47,7 @@ Verbinden Sie Ihr Marketing-Konto mit LinkedIn-übereinstimmenden Audiencen, um 
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Überprüfen Sie die gewünschten Berechtigungen und klicken Sie dann auf **Zulassen**.
+1. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **Zulassen**.
 
    ![](assets/li-permissions.png)
 
