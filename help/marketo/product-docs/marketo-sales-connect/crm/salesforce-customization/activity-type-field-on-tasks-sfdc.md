@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Feld &quot;Typ der Aktivität bei Aufgaben&quot;(SFDC) {#activity-type-field-on-tasks-sfdc}
+# Feld &quot;Typ der Aktivität&quot;bei Aufgaben (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 Mithilfe von Sales Connect können Sie Ihre E-Mails und Anrufe als Aktivität in Salesforce protokollieren lassen. Ein wichtiger Aspekt für wertvolle Daten in Salesforce ist, dass das Feld Typ den richtigen Wert enthält.
 
@@ -19,12 +19,12 @@ Mithilfe von Sales Connect können Sie Ihre E-Mails und Anrufe als Aktivität in
 >
 >Das Anmelden von E-Mails über BCC wird nicht in die Auswahlliste &quot;Aufgabe-Typ&quot;übernommen und stattdessen automatisch als &quot;E-Mail&quot;ausgefüllt, da sie über Ihre BCC-Adresse an Salesforce gesendet werden.
 
-## Anforderungen {#requirements}
+## Voraussetzungen {#requirements}
 
 * Verbindung mit Salesforce
 * In der Auswahlliste &quot;Typ der Aufgabe&quot;wurde kein Standardwert ausgewählt
 * Aufruf, Antwort und E-Mail müssen alle in der Auswahlliste &quot;Aufgabe&quot;vorhanden sein (Großschreibung ist wichtig)
-* Keine `Workflows` oder `Triggers` keine Aktion für den Wert des Felds &quot;Typ&quot;
+* Keine Aktion von `Workflows` oder `Triggers` zum Wert des Felds &quot;Typ&quot;
 
 ## Setup {#setup}
 
@@ -38,7 +38,7 @@ Mithilfe von Sales Connect können Sie Ihre E-Mails und Anrufe als Aktivität in
 1. Sie befinden sich jetzt in der Liste Aufgabe Type Picklist. Vergewissern Sie sich, dass kein &quot;Standard&quot;ausgewählt ist.
 1. Stellen Sie sicher, dass ein Typwert für E-Mail, Aufruf und Antwort aufgeführt ist.
 
-Sobald dies eingerichtet ist, sehen Sie, wie das Feld Typ den entsprechenden Wert für protokollierte E-Mails, Aufrufe und Antworten ausfüllt. Diese Werte werden **nicht** in Erinnerungsdaten zu Sales Connect ausgefüllt.
+Sobald dies eingerichtet ist, sehen Sie, wie das Feld Typ den entsprechenden Wert für protokollierte E-Mails, Aufrufe und Antworten ausfüllt. Diese Werte werden in den Aufgaben zur Erinnerung an Sales Connect **nicht** aufgefüllt.
 
 >[!NOTE]
 >
