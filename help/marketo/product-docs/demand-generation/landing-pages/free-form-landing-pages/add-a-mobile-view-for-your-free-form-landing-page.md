@@ -27,11 +27,11 @@ Es ist einfach, Ihre Landingpages mit freien Formularen auf einem Smartphone gro
 
    ![](assets/choose-landing-page.jpg)
 
-1. Klicken Sie auf Entwurf **bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Klicken Sie auf die Registerkarte **Mobil** .
+1. Klicken Sie auf die Registerkarte **Mobil**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
@@ -41,13 +41,13 @@ Es ist einfach, Ihre Landingpages mit freien Formularen auf einem Smartphone gro
 
    >[!CAUTION]
    >
-   >Die Vorlage für das freie Formular muss möglicherweise aktualisiert werden. Wenn diese Meldung angezeigt wird, lesen Sie schnell, wie Sie eine vorhandene Vorlage für die freie Landingpage für Mobilgeräte [erstellen können](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Die Vorlage für das freie Formular muss möglicherweise aktualisiert werden. Wenn diese Meldung angezeigt wird, lesen Sie schnell, wie [eine vorhandene Vorlage für die freie Landingpage für Mobilgeräte ](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md) kompatibel gemacht werden kann.
 
 1. Großartig! Sie haben jetzt die Mobilversion Ihrer Landingpage aktiviert. Klicken Sie auf **Schließen. **
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Sie können jetzt Ihre mobile Ansicht [anpassen](customize-mobile-view-for-your-free-form-landing-page.md).
+   Sie können jetzt [Ihre mobile Ansicht](customize-mobile-view-for-your-free-form-landing-page.md) anpassen.
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
