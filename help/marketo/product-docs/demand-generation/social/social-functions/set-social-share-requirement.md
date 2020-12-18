@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Social Sharing-Voraussetzung festlegen {#set-social-share-requirement}
 
-Beim [Erstellen eines Referrer-Angebots](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)können Sie festlegen, dass Personen das Angebot freigeben müssen, um sich zu registrieren, oder dass es optional sein muss.
+Wenn Sie [ein Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie festlegen, dass Personen das Angebot freigeben müssen, um sich anzumelden, oder dass es optional sein muss.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie das verweisende Angebot aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie das verweisende Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Wechseln Sie im Editor für Verweisdokumente zu den **App-Einstellungen** und dann zu den **Anmeldeprozessen**.
+1. Wechseln Sie im Editor für Verweisdokumente zu **App-Einstellungen** und dann **Schritte für die Anmeldung**.
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ Beim [Erstellen eines Referrer-Angebots](../../../../product-docs/demand-generat
    * **Person Capture > Freigeben**: Die Person kann die Freigabe überspringen und sich einfach anmelden.
    * **Freigabe > Personenerfassung**: Die Person muss freigegeben werden, um sich zu registrieren.
 
-1. Informationen zu den einzelnen Optionen finden Sie in der Vorschau im Fenster &quot; **Ansicht und Bearbeiten** &quot;.
+1. Die einzelnen Optionen finden Sie in der Vorschau im Fenster **Ansicht &amp; Bearbeiten**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
