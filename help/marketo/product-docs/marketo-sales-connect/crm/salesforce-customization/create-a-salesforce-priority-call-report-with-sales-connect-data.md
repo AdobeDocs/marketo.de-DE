@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen Sie einen Salesforce-Bericht mit Sales Connect-Daten. {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Erstellen Sie einen Salesforce-Prioritätsaufrufbericht mit Sales Connect-Daten {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Erfahren Sie, wie Sie eine Salesforce-Bericht-/Call-Liste mithilfe von Sales Connect-E-Mail-Interaktionsdaten erstellen, um sich auf Personen oder Chancen mit Dynamik zu konzentrieren.
 
