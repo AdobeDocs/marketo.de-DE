@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Telefonaufzeichnung aktivieren {#enable-call-recording}
+# Aufrufaufzeichnung aktivieren {#enable-call-recording}
 
 Als Administrator können Sie die Telefonaufzeichnung für Ihre Sales Connect-Anrufe aktivieren. Das Aufzeichnen der Anrufe Ihres Teams kann eine hervorragende Möglichkeit sein, Ihre Vertriebsmitarbeiter nach den Best-Call-Verfahren zu begleiten.
 
@@ -23,11 +23,11 @@ Als Administrator können Sie die Telefonaufzeichnung für Ihre Sales Connect-An
 
    ![](assets/two.png)
 
-1. Blättern Sie nach unten zu den Einstellungen für das Connect-Telefongespräch und wählen Sie den Umschalter **Telefonaufzeichnung** aktivieren.
+1. Blättern Sie nach unten zu den Einstellungen für das Connect-Telefongespräch und wählen Sie den Umschalter **Aufzeichnung des Aufrufs aktivieren**.
 
    ![](assets/three.png)
 
-1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Telefonaufzeichnung selbst zu aktivieren oder zu deaktivieren, klicken Sie für alle Teammitglieder auf** Optionale Aufzeichnung. **Wenn alle Aufrufe automatisch aufgezeichnet werden sollen, klicken Sie auf** Alle Aufrufe aufzeichnen.**
+1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Telefonaufzeichnung selbst zu aktivieren oder zu deaktivieren, klicken Sie für alle Teammitglieder auf** Optionale Aufzeichnung. **Wenn alle Aufrufe automatisch aufgezeichnet werden sollen,** klicken Sie auf Alle Aufrufe aufzeichnen.**
 
    ![](assets/four.png)
 
