@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einrichten des Hintergrunds der In-App-Nachricht {#set-up-the-in-app-message-background}
+# Einrichten des Hintergrunds für In-App-Nachrichten {#set-up-the-in-app-message-background}
 
 Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Fertigstellen Ihrer In-App-Nachricht.
 
@@ -31,11 +31,11 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Fertigst
    >
    >Nur weiß, die Standardeinstellung, ist normalerweise ein Gewinner.
 
-1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **Bild** und dann auf den Link Bild **auswählen** .
+1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **Bild** und dann auf den Link **Bild auswählen**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Wählen Sie aus Dateien, die in das Design Studio hochgeladen wurden. Klicken Sie auf **Auswählen**.
+1. Wählen Sie aus Dateien, die in das Design Studio hochgeladen wurden. Klicken Sie auf **Wählen Sie**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -65,7 +65,7 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Fertigst
 
    >[!NOTE]
    >
-   >Für Tippen-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich behandelt. Wenn Ihre Nachricht nur zu einer Plattform oder zur anderen führt, lassen Sie die andere Plattform in der Standardeinstellung oder wählen Sie &quot; **Keine**&quot;aus.
+   >Für Tippen-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich behandelt. Wenn Ihre Nachricht nur zu einer Plattform oder zur anderen führt, lassen Sie die andere in der Standardeinstellung oder wählen Sie **Keine**.
 
    [Schaltfläche &quot;Abbrechen&quot;einrichten](set-up-the-dismiss-button-and-approve-the-message.md)
 
