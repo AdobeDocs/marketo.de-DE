@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Assets in einem E-Mail-Bericht filtern {#filter-assets-in-an-email-report}
+# Filtern von Assets in einem E-Mail-Bericht {#filter-assets-in-an-email-report}
 
-Konzentrieren Sie Ihren [Bericht &quot;E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) &quot;oder &quot;Leistung [von](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) E-Mails&quot;auf E-Mails in Ihren Programmen (&quot;lokale Assets&quot;), auf E-Mails in Design Studio (&quot;globale Assets&quot;) oder auf archivierte E-Mails.
+Konzentrieren Sie den Bericht [E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) oder [E-Mail-Link-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) auf E-Mails in Ihren Programmen (&quot;lokale Assets&quot;), auf die E-Mails in Design Studio (&quot;globale Assets&quot;) oder auf die archivierten Assets.
 
 1. Gehen Sie zum Bereich **Analytics** (oder **Marketing-Aktivitäten**).
 
@@ -23,7 +23,7 @@ Konzentrieren Sie Ihren [Bericht &quot;E-Mail-Leistung](../../../../product-docs
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** und ziehen Sie über einen Filter.
+1. Klicken Sie auf die Registerkarte **Setup** und ziehen Sie über einen Filter.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
@@ -39,7 +39,7 @@ Konzentrieren Sie Ihren [Bericht &quot;E-Mail-Leistung](../../../../product-docs
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Inhalte dieses Ordners zum Zeitpunkt der Ausführung des Berichts.
 
-1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht**, um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
@@ -55,5 +55,5 @@ Konzentrieren Sie Ihren [Bericht &quot;E-Mail-Leistung](../../../../product-docs
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr über Berichte in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
