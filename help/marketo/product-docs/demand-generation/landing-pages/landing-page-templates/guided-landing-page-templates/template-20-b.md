@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Meldebogen 20-B {#template-b}
+# Vorlage 20-B {#template-b}
 
 [Vorlage 20-B herunterladen](http://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
 
@@ -23,7 +23,7 @@ Diese Vorlage enthält den folgenden Inhalt:
 
    * enthält Hero-Video und -Text
 
-* Vier Textkörperabschnitte (optional)
+* Vier Textabschnitte (optional)
 * Fußzeile (optional)
 
 Klicken Sie unten, um diese Vorlage herunterzuladen:
