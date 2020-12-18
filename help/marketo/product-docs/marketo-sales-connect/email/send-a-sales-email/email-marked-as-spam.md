@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Als Spam markierte E-Mail {#email-marked-as-spam}
+# Als Spam gekennzeichnete E-Mail {#email-marked-as-spam}
 
 Als Firma arbeiten wir hart daran, dass unsere Lieferquoten hoch bleiben. Es gibt jedoch bestimmte Benutzerverhalten und -einstellungen, die dazu führen können, dass Ihre gesendeten E-Mails an den Spam-Ordner weitergeleitet werden.
 
 **`Check Your Settings`**
 
 * [Benutzerspezifische Domänenverfolgung](http://docs.marketo.com/x/4oPS): Auf diese Weise können Sie festlegen, dass alle Verfolgungslinks sofort angezeigt werden.&quot;yourdomain&quot;anstelle von go.toutapp. Einige E-Mail-Sicherheitsdienste werden sehen, dass die E-Mail von &quot;Ihrer Domäne&quot;stammt, der Link jedoch zu &quot;go.toutapp&quot;umgeleitet wird. Durch die Implementierung der Linktracking für benutzerdefinierte Domänen sehen Ihre E-Mails legitim aus und haben eine höhere Wahrscheinlichkeit, den Posteingang des Empfängers zu erreichen.
-* [Email Versand Kanal](http://docs.marketo.com/x/y4TS): Standardmäßig werden Ihre E-Mails über die ToutApp-Server gesendet. Durch die Einrichtung Ihrer eigenen Gmail oder benutzerdefinierten SMTP können Sie Ihren E-Mails die beste Möglichkeit geben, in den Posteingang eines Empfängers zu gelangen. [Klicken Sie hier](https://nation.marketo.com/docs/DOC-5080) , um mehr über die Auswahl des richtigen Versand-Kanals für Ihre Anforderungen zu erfahren.
+* [Email Versand Kanal](http://docs.marketo.com/x/y4TS): Standardmäßig werden Ihre E-Mails über die ToutApp-Server gesendet. Durch die Einrichtung Ihrer eigenen Gmail oder benutzerdefinierten SMTP können Sie Ihren E-Mails die beste Möglichkeit geben, in den Posteingang eines Empfängers zu gelangen. [Klicken Sie ](https://nation.marketo.com/docs/DOC-5080) hier, um mehr über die Auswahl des richtigen Versand-Kanals für Ihre Bedürfnisse zu erfahren.
 
 **Überprüfen Ihres E-Mail-Verhaltens**
 
@@ -28,5 +28,5 @@ Als Firma arbeiten wir hart daran, dass unsere Lieferquoten hoch bleiben. Es gib
 
 * Vergewissern Sie sich, dass Sie eine vollständig ausgefüllte E-Mail-Signatur mit einer physischen Adresse haben.
 
-* Lesen Sie die Informationen und stellen Sie sicher, dass Sie die [CAN-SPAM-Gesetze](http://docs.marketo.com/display/docs/assets/external-link.jspa)einhalten.
+* Lesen Sie nach und stellen Sie sicher, dass Sie die [CAN-SPAM-Gesetze](http://docs.marketo.com/display/docs/assets/external-link.jspa) einhalten.
 
