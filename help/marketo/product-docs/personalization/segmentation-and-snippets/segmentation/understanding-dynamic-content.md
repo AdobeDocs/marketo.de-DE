@@ -19,13 +19,13 @@ Es gibt viel mehr zu personalisieren als nur &quot;Hi `{{First Name}}`&quot;. Mi
 
 ## Segmentierung {#segmentation}
 
-Zuerst müssen Sie Ihre Leute in Untergruppen aufteilen. Dies wird als [Segmentierung](create-a-segmentation.md)bezeichnet.
+Zuerst müssen Sie Ihre Leute in Untergruppen aufteilen. Dies wird als [Segmentierung](create-a-segmentation.md) bezeichnet.
 
 >[!NOTE]
 >
 >**Definition**
 >
->Die Segmentierung kategorisiert Ihre Audience basierend auf einer [intelligenten](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)Listening-Regel in verschiedene Untergruppen. Diese Gruppen werden als Segmente bezeichnet.
+>Die Segmentierung kategorisiert Ihre Audience auf der Grundlage einer [Smart-Liste](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)Regel in verschiedene Untergruppen. Diese Gruppen werden als Segmente bezeichnet.
 
 Wenn wir zum Beispiel eine Segmentierung namens &quot;Branche&quot;haben, könnten einige der Segmente: Gesundheitswesen, Technologie, Finanzen, Konsumgüter usw.   ![](assets/artboard-2.png)
 
@@ -37,7 +37,7 @@ Nachdem Sie verschiedene Segmente erstellt haben, können Sie dynamische Inhalts
 
 ## Snippets {#snippets}
 
-[Snippets](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) sind ein nützliches Werkzeug in Marketing. Erstellen Sie es einmal und verwenden Sie es an mehreren Orten! Wenn Sie das Snippet aktualisieren, werden alle Assets (Landingpages oder E-Mails), die das Snippet verwenden, automatisch aktualisiert.
+[](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) Snippets sind ein nützliches Werkzeug in Marketo. Erstellen Sie es einmal und verwenden Sie es an mehreren Orten! Wenn Sie das Snippet aktualisieren, werden alle Assets (Landingpages oder E-Mails), die das Snippet verwenden, automatisch aktualisiert.
 
 >[!NOTE]
 >
