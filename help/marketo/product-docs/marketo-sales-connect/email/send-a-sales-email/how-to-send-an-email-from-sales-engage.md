@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # So senden Sie eine E-Mail von Sales Engage {#how-to-send-an-email-from-sales-engage}
 
-1. Klicken Sie oben rechts im Command Center auf die Schaltfläche **Erstellen** .
+1. Klicken Sie oben rechts im Command Center auf die Schaltfläche **Erstellen**.
 1. Geben Sie die E-Mail-Adresse und den Namen des Empfängers ein.
 1. Geben Sie den Betreff der E-Mail ein.
 1. Wählen Sie eine E-Mail-Vorlage aus oder schreiben Sie eine neue Nachricht.
