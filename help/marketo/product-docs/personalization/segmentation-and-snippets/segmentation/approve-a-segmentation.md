@@ -24,17 +24,17 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 
 
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Klicken Sie in der Segmentierung auf **Segmentierungsaktionen** und dann **genehmigen**.
+1. Klicken Sie in der Segmentierung auf **Segmentierungsaktionen** und dann **Genehmigen**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >Der Status ändert sich in &quot;Genehmigen mit einem Rotationsrad&quot;( ![](assets/image2014-9-15-15-3a31-3a43.png)), während die Genehmigung verarbeitet wird.
+   >Der Status ändert sich in &quot;Genehmigen mit einem sich drehenden Rad ( ![](assets/image2014-9-15-15-3a31-3a43.png))&quot;, während die Genehmigung verarbeitet wird.
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
    >
    >Die Anzahl der Personen in jedem Segment wird in Klammern neben dem Segmentnamen angezeigt.
 
-1. Die Registerkarte &quot; **Personen** &quot;im **Segment** zeigt jetzt die endgültige Liste der Personen für das Segment an.
+1. Die Registerkarte **Personen** in **Segment** zeigt jetzt die endgültige Liste der Personen für das Segment an.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
@@ -55,7 +55,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 >
 >Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Segmentlogik ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, andere Filter können jedoch die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele: benutzerdefinierte Felder, Liste, Interessenteninhaberfelder und Umsatzstufen.
 >
->Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an den [MarketingTo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
 >[!NOTE]
 >
