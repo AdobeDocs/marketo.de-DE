@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bearbeiten einer Kategorie {#edit-a-template-category}
+# Bearbeiten einer Kategorie für Vorlagen {#edit-a-template-category}
 
 Derzeit ist es nicht möglich, eine ganze Kategorie zu löschen oder Vorlagen stapelweise in eine neue Kategorie zu verschieben.
 
