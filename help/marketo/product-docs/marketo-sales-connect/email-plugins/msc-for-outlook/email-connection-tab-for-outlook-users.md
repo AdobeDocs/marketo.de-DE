@@ -19,7 +19,7 @@ Erfahren Sie, wie Sie Ihr Sales Connect-Konto mit Outlook verbinden.
 >
 >Jeder Benutzer muss über sein Sales Connect-Konto eine Verbindung zu Outlook herstellen.
 
-## Mit Outlook Online verbinden {#connecting-to-outlook-online}
+## Verbindung zu Outlook Online {#connecting-to-outlook-online}
 
 Eine Verbindung mit Outlook bedeutet, dass Sie Antworten verfolgen, auf den Outlook Versand Kanal zugreifen, E-Mails in Outlook planen und Compliance senden können.
 
@@ -27,11 +27,11 @@ Eine Verbindung mit Outlook bedeutet, dass Sie Antworten verfolgen, auf den Outl
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen**.
+1. Wählen Sie unter Mein Konto **E-Mail-Einstellungen**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Registerkarte **E-Mail-Verbindung** .
+1. Klicken Sie auf die Registerkarte **E-Mail-Verbindung**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Eine Verbindung mit Outlook bedeutet, dass Sie Antworten verfolgen, auf den Outl
 
    ![](assets/four.png)
 
-1. Wählen Sie **Ich verwende Outlook, um E-Mails** zu senden, und klicken Sie auf **Weiter**.
+1. Wählen Sie **Ich verwende Outlook zum Senden von E-Mails** und klicken Sie auf **Weiter**.
 
    ![](assets/five-a.png)
 
@@ -59,17 +59,17 @@ Eine Verbindung mit Outlook bedeutet, dass Sie Antworten verfolgen, auf den Outl
 
    ![](assets/eight-a.png)
 
-1. Klicken Sie auf **Akzeptieren**.
+1. Klicken Sie auf **Accept**.
 
    ![](assets/nine-a.png)
 
-   Sie können diese Verbindung verwenden, um E-Mails zu verfolgen und auch [als Versand-Kanal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   Sie können diese Verbindung verwenden, um E-Mails und [auch als Versand-Kanal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail) zu verfolgen.
 
    >[!NOTE]
    >
    >Wenn Sie Outlook als Versand-Kanal verwenden, können Sie nicht mehr als 300 Massen-E-Mails gleichzeitig senden.
 
-## Verbindung zu Exchange vor Ort herstellen {#connecting-to-exchange-on-premise}
+## Verbindung zu Exchange On-Premise {#connecting-to-exchange-on-premise}
 
 Eine Verbindung mit Exchange On-Premise bedeutet, dass Sie Antworten verfolgen, Zugriff auf den Outlook Versand Kanal erhalten, E-Mails in Outlook planen und die Einhaltung der Richtlinien senden können.
 
@@ -77,11 +77,11 @@ Eine Verbindung mit Exchange On-Premise bedeutet, dass Sie Antworten verfolgen, 
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen**.
+1. Wählen Sie unter Mein Konto **E-Mail-Einstellungen**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Registerkarte **E-Mail-Verbindung** .
+1. Klicken Sie auf die Registerkarte **E-Mail-Verbindung**.
 
    ![](assets/three.png)
 
@@ -89,7 +89,7 @@ Eine Verbindung mit Exchange On-Premise bedeutet, dass Sie Antworten verfolgen, 
 
    ![](assets/four.png)
 
-1. Wählen Sie **Ich verwende Outlook, um E-Mails** zu senden, und klicken Sie auf **Weiter**.
+1. Wählen Sie **Ich verwende Outlook zum Senden von E-Mails** und klicken Sie auf **Weiter**.
 
    ![](assets/five-a.png)
 
