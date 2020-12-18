@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Herstellen einer Verbindung zu einer Gruppe {#connecting-with-a-group}
+# Verbindung mit einer Gruppe {#connecting-with-a-group}
 
 Erfahren Sie, wie Sie eine E-Mail an eine ganze Gruppe senden oder einer Kampagne eine Gruppe hinzufügen können.
 
@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie eine E-Mail an eine ganze Gruppe senden oder einer Kampagn
 
    ![](assets/one-6.png)
 
-1. Klicken Sie auf die Schaltfläche &quot; **Gruppenaktionen** &quot;und wählen Sie &quot; **E-Mail-Gruppe**&quot;aus.
+1. Klicken Sie auf die Schaltfläche **Gruppenaktionen** und wählen Sie **E-Mail-Gruppe**.
 
    ![](assets/two-5.png)
 
@@ -31,13 +31,13 @@ Erfahren Sie, wie Sie eine E-Mail an eine ganze Gruppe senden oder einer Kampagn
 
    Und das ist es. Jeder in dieser Gruppe erhält die E-Mail.
 
-## Gruppenaktion: Kampagne Hinzufügen Vertrieb {#group-action-add-to-sales-campaign}
+## Gruppenaktion: hinzufügen zur Kampagne Vertrieb {#group-action-add-to-sales-campaign}
 
 1. Wählen Sie die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
    ![](assets/one-6.png)
 
-1. Klicken Sie auf die Schaltfläche &quot; **Gruppenaktionen** &quot;und wählen Sie &quot;Zu Kampagne **Hinzufügen&quot;**.
+1. Klicken Sie auf die Schaltfläche **Gruppenaktionen** und wählen Sie **Hinzufügen Zu Kampagne** gruppieren.
 
    ![](assets/four-4.png)
 
@@ -49,11 +49,11 @@ Erfahren Sie, wie Sie eine E-Mail an eine ganze Gruppe senden oder einer Kampagn
    >
    >Möglicherweise wird eine Option zum Hinzufügen zu einer Kampagne angezeigt. [Das ist ein anderer Artikel](http://docs.marketo.com/x/CwDh).
 
-1. Wählen Sie eine Kampagne aus (Sie können eine Kategorie auswählen, um die Ergebnisse einzugrenzen) und klicken Sie auf **Weiter**.
+1. Wählen Sie eine Kampagne aus (Sie können eine Kategorie auswählen, um die Ergebnisse einzuschränken) und klicken Sie auf **Weiter**.
 
    ![](assets/seven-1.png)
 
-1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie auf **Weiter**.
+1. Nehmen Sie alle gewünschten Änderungen vor und klicken Sie auf **Weiter**.
 
    ![](assets/eight-1.png)
 
