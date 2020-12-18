@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Umfrageeinstellungen anpassen {#customize-poll-settings}
+# Umfrageeinstellungen {#customize-poll-settings} anpassen
 
-Wenn Sie eine Umfrage [erstellen](create-a-poll.md), können Sie die Anzahl der pro Social-Profil zulässigen Stimmen begrenzen.
+Wenn Sie [eine Umfrage ](create-a-poll.md) erstellen, können Sie die Anzahl der zulässigen Stimmen pro Social-Profil begrenzen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie die Umfrage aus und klicken Sie auf Entwurf **bearbeiten.**
+1. Wählen Sie die Umfrage aus und klicken Sie auf **Entwurf bearbeiten.**
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
@@ -27,11 +27,11 @@ Wenn Sie eine Umfrage [erstellen](create-a-poll.md), können Sie die Anzahl der 
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. Markieren Sie die Option, um eine **Stimmbeschränkung** festzulegen, und geben Sie die maximal zulässige Anzahl von Stimmen ein.
+1. Aktivieren Sie die Option, um eine **Stimmenbeschränkung** festzulegen, und geben Sie die maximal zulässige Anzahl von Stimmen ein.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->Sie können auf **Fertig stellen > Genehmigen und Schließen** klicken, um Ihre Umfrage [zu](publish-a-poll.md)veröffentlichen, oder Sie können mit der Anpassung fortfahren. Versuchen Sie beispielsweise, die Eingabeaufforderungen nach der Freigabe zu [konfigurieren](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>Sie können auf **Abschließen > Genehmigen und Schließen** klicken, um [Ihre Umfrage zu veröffentlichen](publish-a-poll.md), oder Sie können mit der Anpassung fortfahren. Versuchen Sie beispielsweise [die Eingabeaufforderungen nach der Freigabe zu konfigurieren](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
 
