@@ -15,19 +15,19 @@ ht-degree: 0%
 
 So richten Sie Massenaktionen in Salesforce Lightning ein.
 
-1. Klicken Sie in Salesforce auf das Symbol &quot;Einstellungen&quot;und wählen Sie &quot; **Einstellungen&quot;**.
+1. Klicken Sie in Salesforce auf das Symbol Setup und wählen Sie **Setup**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf die Registerkarte **Objektmanager** .
+1. Klicken Sie auf die Registerkarte **Objektmanager**.
 
    ![](assets/two.png)
 
-1. Suchen und wählen Sie die **Beschriftung &quot;Interessent** &quot;aus.
+1. Suchen und wählen Sie die Beschriftung **Lead** aus.
 
    ![](assets/three-2.png)
 
-1. Klicken Sie auf Layouts **suchen für Salesforce Classic**.
+1. Klicken Sie auf **Layouts nach Salesforce Classic** suchen.
 
    ![](assets/four-1.png)
 
@@ -35,7 +35,7 @@ So richten Sie Massenaktionen in Salesforce Lightning ein.
 
    ![](assets/five.png)
 
-1. Wählen Sie unter &quot;Benutzerdefinierte Schaltflächen&quot;die Option **Hinzufügen bis zur Kampagne (Blitz)** und **Senden von Markierungen per E-Mail (Blitz)**. Klicken Sie auf die **Hinzufügen** .
+1. Suchen Sie unter &quot;Benutzerdefinierte Schaltflächen&quot;nach **Hinzufügen zur Markieren-Kampagne (Blitz)** und **Markierung an E-Mail senden (Blitz)**. Klicken Sie auf die Schaltfläche **Hinzufügen**.
 
    ![](assets/six.png)
 
