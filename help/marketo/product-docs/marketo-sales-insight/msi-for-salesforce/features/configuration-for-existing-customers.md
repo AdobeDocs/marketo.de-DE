@@ -19,10 +19,10 @@ Bitte richten Sie die folgende Konfiguration ein, um mit dem neuen Insight-Dashb
 >
 >Bitte stellen Sie sicher, dass Sie Ihr Salesforce-Paket auf die neueste Version aktualisiert haben
 
-## Sales Insight in Marketing konfigurieren {#configure-sales-insight-in-marketo}
+## Sales Insight in Marketo konfigurieren{#configure-sales-insight-in-marketo}
 
 1. Öffnen Sie eine neue Registerkarte in Ihrem Browser, um die Anmeldeinformationen von Marketing to Sales Insights von Ihrem Marketing-Konto abzurufen.
-1. Gehen Sie zum **Admin** -Bereich.
+1. Gehen Sie zum Bereich **Admin**.
 
    ![](assets/configure-1.png)
 
@@ -30,19 +30,19 @@ Bitte richten Sie die folgende Konfiguration ein, um mit dem neuen Insight-Dashb
 
    ![](assets/configure-2.png)
 
-1. Klicken Sie auf **Ansicht** , um die Rest-API-Anmeldeinformationen auszufüllen.
+1. Klicken Sie auf **Ansicht**, um die Rest-API-Anmeldeinformationen auszufüllen.
 
    ![](assets/configure-3.png)
 
 1. Sie sehen ein Bestätigungs-Popup. Klicken Sie auf **OK**.
 
-## Sales Insight in Salesforce konfigurieren {#configure-sales-insight-in-salesforce}
+## Sales Insight in Salesforce {#configure-sales-insight-in-salesforce} konfigurieren
 
 1. Klicken Sie in Salesforce auf **Setup**.
 
    ![](assets/sfdc-1.png)
 
-1. Suchen Sie nach **Remote-Site-Einstellungen** und wählen Sie diese aus.
+1. Suchen Sie nach **Remote-Site-Einstellungen** und wählen Sie sie aus.
 
    ![](assets/sfdc-2.png)
 
