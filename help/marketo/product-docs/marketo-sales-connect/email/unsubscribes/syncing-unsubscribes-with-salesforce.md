@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Synchronisieren von Abonnements mit Salesforce {#syncing-unsubscribes-with-salesforce}
 
-## Voraussetzungen für die Synchronisierung mit Salesforce für Abmeldeabbrüche {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Voraussetzungen für die Synchronisierung mit Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * Synchronisierung abmelden muss aktiviert sein (für nächtliche Synchronisierung)
 * Opt-out Feld muss in Salesforce installiert werden
@@ -31,15 +31,15 @@ Wenn Sie die Synchronisierung zum Abmelden aktiviert haben (Schritt 3 unten), wi
 
 Benutzer können entscheiden, ob sie ihre Abmeldung mit dem standardmäßigen Feld E-Mail-Opt-out synchronisieren möchten, mit dem Marketo ebenfalls synchronisieren kann, oder sie können mit dem Feld Marketing Sales Opt-out synchronisieren, sodass Abmeldeabbrüche und Marketingabmeldungen differenziert werden können.
 
-1. Gehen Sie zur [Webanwendung](http://toutapp.com/login), klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Wechseln Sie zur Webanwendung [und klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.](http://toutapp.com/login)
 
    ![](assets/one-1.png)
 
-1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Abonnements**.
+1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Abmelden**.
 
    ![](assets/two-2.png)
 
-1. Klicken Sie auf **Synchronisieren mit Salesforce** und aktivieren Sie die nächtliche Synchronisierung.
+1. Klicken Sie auf **Synchronisieren mit Salesforce** und aktivieren Sie dann die nächtliche Synchronisierung.
 
    ![](assets/three-2.png)
 
@@ -49,9 +49,9 @@ Benutzer können entscheiden, ob sie ihre Abmeldung mit dem standardmäßigen Fe
 
    | **Opt-out synchronisieren** | Standardmäßig ausgewählt, wird nur das Feld Salesforce Opt-out aktualisiert. |
    |---|---|
-   | **Synchronisierung mit dem Opt-out** | Wenn Sie die Abonnements von Vertrieb und Marketing trennen möchten, wählen Sie diese Option, um das zusätzliche Feld [Marketing Opt-out zu aktualisieren.](#msoo) |
+   | **Synchronisierung mit dem Opt-out** | Wenn Sie die Abonnements für Vertrieb und Marketing trennen möchten, wählen Sie diese Option, um das weitere Feld [Marketingto Sales Opt-out zu aktualisieren.](#msoo) |
 
-## Opt-out im Seitenlayout installieren {#installing-the-opt-out-field-in-the-page-layout}
+## Opt-out im Seitenlayout {#installing-the-opt-out-field-in-the-page-layout} installieren
 
 **Opt-out**
 
@@ -61,7 +61,7 @@ Email Opt-out ist ein Standardfeld in Salesforce, das von Salesforce installiert
 
    ![](assets/five-1.png)
 
-1. Klicken Sie auf Ihren Benutzernamen und wählen Sie **Einstellungen**.
+1. Klicken Sie auf Ihren Benutzernamen und wählen Sie **Setup**.
 
    ![](assets/six-1.png)
 
@@ -73,11 +73,11 @@ Email Opt-out ist ein Standardfeld in Salesforce, das von Salesforce installiert
 
    ![](assets/eight-1.png)
 
-1. Wählen Sie neben dem Seitenlayout, dem Sie das Feld hinzufügen möchten, die Option &quot; **Bearbeiten** &quot;aus.
+1. Wählen Sie **Bearbeiten** neben dem Seitenlayout, dem Sie das Feld hinzufügen möchten.
 
    ![](assets/nine.png)
 
-1. Wählen Sie **Felder**.
+1. Wählen Sie **Felder** aus.
 
    ![](assets/ten.png)
 
@@ -89,7 +89,7 @@ Email Opt-out ist ein Standardfeld in Salesforce, das von Salesforce installiert
 
    ![](assets/twelve.png)
 
-## Opt-out {#marketo-sales-opt-out}
+## Marketo Sales Opt-out {#marketo-sales-opt-out}
 
 Das Feld Marketing Opt-out ist ein benutzerdefiniertes Feld, das Benutzern zur Verfügung steht, die die Marketing Connect-Anpassungen installiert haben.
 
