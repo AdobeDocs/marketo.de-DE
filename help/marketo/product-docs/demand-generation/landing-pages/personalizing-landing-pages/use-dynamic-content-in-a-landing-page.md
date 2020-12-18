@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dynamische Inhalte in einer Landingpage verwenden {#use-dynamic-content-in-a-landing-page}
+# Dynamische Inhalte in einer Landingpage {#use-dynamic-content-in-a-landing-page} verwenden
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Die Verwendung von dynamischen Inhalten in Landingpages bindet Menschen mit gezielten Informationen.
 
-## hinzufügen {#add-segmentation}
+## hinzufügen{#add-segmentation}
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -53,11 +53,11 @@ Die Verwendung von dynamischen Inhalten in Landingpages bindet Menschen mit gezi
 
 ## Element dynamisch machen {#make-element-dynamic}
 
-1. Ziehen Sie Elemente per Drag &amp; Drop von &quot;Statisch&quot;in &quot; **Dynamisch**&quot;.
+1. Ziehen Sie Elemente per Drag &amp; Drop von Static zu **Dynamic**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Sie können Elemente auch über die Elementeinstellungen als &quot;Statisch&quot;oder &quot;Dynamisch&quot; **einstellen**.
+1. Sie können Elemente auch über das Element **Einstellungen** als &quot;Statisch&quot;oder &quot;Dynamisch&quot;festlegen.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
