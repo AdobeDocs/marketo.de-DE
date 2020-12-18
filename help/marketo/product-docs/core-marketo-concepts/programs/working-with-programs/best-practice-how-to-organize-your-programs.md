@@ -28,35 +28,34 @@ In Marketing-Aktivitäten sollten Sie Ordner verwenden, um Ihre Programm zu orga
 >**Beispiel**
 >
 >* Aktive Marketing-Programme
-   >
-   >    
-   * E-Mails
-   >    * Ereignisse
-
-      >
-      >        
-      * Live-Ereignisse/Roadshows
-      >        * Diashows
-      >        * Webinare
-   >
-   * Newsletter
-   * Krankenpflege
-   * Webinhalt
-   * Webformulare
-* Lernen
-* operativ
-
-   * Lebenszyklus
-   * Bewertung
-   * Data Management
-* Sales Insight >
-   * Interessante Momente
-   * E-Mails zum Vertrieb
-   * Beantragte Kampagnen für Verkäufe
-* **Archiv** >
-   * Ereignisse archivieren >
-      * Archiv 2012
-      * Archiv 2013
+>
+>    * E-Mails
+>    * Ereignisse
+>
+>        * Live-Ereignisse/Roadshows
+>        * Diashows
+>        * Webinare
+>* Newsletter
+>   * Krankenpflege
+>   * Webinhalt
+>   * Webformulare
+>* Lernen
+>* operativ
+>
+>   * Lebenszyklus
+>   * Bewertung
+>   * Data Management
+>* Sales Insight
+>
+>   * Interessante Momente
+>   * E-Mails zum Vertrieb
+>   * Beantragte Kampagnen für Verkäufe
+>* **Archivieren**
+>
+>   * Ereignisse archivieren
+>
+>      * Archiv 2012
+>      * Archiv 2013
 
 
 
