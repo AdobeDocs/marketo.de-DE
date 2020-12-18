@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Landingpages-Leistungsbericht filtern {#filter-a-landing-page-performance-report}
+# Filtern eines Landingpages-Leistungsberichts {#filter-a-landing-page-performance-report}
 
-Konzentrieren Sie Ihren [Landingpages-Leistungsbericht](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) auf Landingpages in Ihren Programmen (lokale Assets), auf  in Design Studio (globale Assets) oder auf archivierte Assets.
+Konzentrieren Sie den [Landingpage Performance Report](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) auf Landingpages in Ihren Programmen (lokale Assets), auf die in Design Studio (globale Assets) oder auf die archivierten Assets.
 
 1. Gehen Sie zu **Analytics** (oder **Marketing-Aktivitäten**).
 
@@ -23,12 +23,12 @@ Konzentrieren Sie Ihren [Landingpages-Leistungsbericht](../../../../product-docs
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** und ziehen Sie einen Filter.
+1. Klicken Sie auf die Registerkarte **Setup** und ziehen Sie einen Filter.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
    * **Design Studio-Landingpages:** Globale Assets, die in Design Studio verwaltet werden.
-   * **Landingpages der Marketing-Aktivitäten:** Lokale Assets in Programmen auf der Registerkarte &quot;Marketing-Aktivitäten&quot;.
+   * **Landingpages für Marketing-Aktivitäten:** Lokale Assets in Programmen auf der Registerkarte &quot;Marketing-Aktivitäten&quot;.
    * **Archivierte Landingpages:** Inaktive Landingpages im Ruhestand.
 
 1. Wählen Sie die Ordner und spezifischen Landingpages aus, die in den Bericht aufgenommen werden sollen.
@@ -39,7 +39,7 @@ Konzentrieren Sie Ihren [Landingpages-Leistungsbericht](../../../../product-docs
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Inhalte dieses Ordners zum Zeitpunkt der Ausführung des Berichts.
 
-1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht**, um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
 
@@ -47,5 +47,5 @@ Konzentrieren Sie Ihren [Landingpages-Leistungsbericht](../../../../product-docs
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr über Berichte in [Basisbericht](http://docs.marketo.com/display/docs/basic+reporting).
+>Erfahren Sie alles über Berichte in [Basisbericht](http://docs.marketo.com/display/docs/basic+reporting).
 
