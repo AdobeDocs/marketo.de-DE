@@ -21,7 +21,7 @@ Wenn Sie Ihr Modell erstellen und die Bestandsstufen auswählen und organisieren
 
 ![](assets/one-2.png)
 
-1. Klicken Sie mit der rechten Maustaste (Sie können auch mit der Dublette klicken) auf einen der Pfeile und wählen Sie &quot;Transition **bearbeiten&quot;**.
+1. Klicken Sie mit der rechten Maustaste (Sie können auch mit der Dublette klicken) auf einen der Pfeile und wählen Sie **Transition bearbeiten**.
 
    ![](assets/two-2.png)
 
@@ -42,7 +42,7 @@ Wenn Sie Ihr Modell erstellen und die Bestandsstufen auswählen und organisieren
 
    ![](assets/five-2.png)
 
-1. Um zu Ihrem Modell zurückzukehren, klicken Sie auf **Modellrechner**.
+1. Um zu Ihrem Modell zurückzukehren, klicken Sie auf **Modeler**.
 
    ![](assets/six.png)
 
@@ -50,7 +50,7 @@ Wenn Sie Ihr Modell erstellen und die Bestandsstufen auswählen und organisieren
 
    ![](assets/seven.png)
 
-1. Nachdem Sie die Regeln für alle Transitionen konfiguriert haben, klicken Sie auf **Überprüfen** .
+1. Nachdem Sie die Regeln für alle Transitionen konfiguriert haben, klicken Sie zur Überprüfung auf **Bestätigen**.
 
    ![](assets/eight.png)
 
