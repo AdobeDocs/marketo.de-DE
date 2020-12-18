@@ -19,7 +19,7 @@ Dieser Artikel gilt nur für Benutzer, die Ereignis Cap oder Ereignis Goals verw
 >
 >Wenn Sie eine Liste von Personen direkt in ein Ereignis-Programm importieren, wird verhindert, dass diese Datensätze in den eigentlichen Registrierungen im Bericht &quot;Zielverfolgung&quot;und im Bericht &quot;Fortschrittlichkeit bei Ereignissen&quot;gezählt werden. Befolgen Sie die unten stehenden Anweisungen, um sicherzustellen, dass Ihre Datensätze gezählt werden.
 
-1. Erstellen Sie Personen und [fügen Sie sie einer statischen Liste](http://docs.marketo.com/x/ecKt)hinzu.
+1. Erstellen und [Hinzufügen von Personen zu einer statischen Liste](http://docs.marketo.com/x/ecKt).
 1. [Erstellen Sie eine intelligente Kampagne](http://docs.marketo.com/x/M4AR).
 1. Suchen Sie in der Smart-Liste der Smart-Kampagne, die Sie in Schritt 2 erstellt haben, den Filter **Member of Liste** und fügen Sie ihn hinzu.
 
@@ -39,10 +39,10 @@ Dieser Artikel gilt nur für Benutzer, die Ereignis Cap oder Ereignis Goals verw
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf der Registerkarte Plan auf Einmal **ausführen**.
+1. Klicken Sie auf der Registerkarte Plan auf **Einmal ausführen**.
 1. ![](assets/eight.png)
 
-1. Wählen Sie **Jetzt** ausführen und klicken Sie auf **Ausführen**.
+1. Wählen Sie **Jetzt ausführen** und klicken Sie auf **Ausführen**.
 1. ![](assets/nine.png)
 
 1. Nachdem die intelligente Kampagne ausgeführt wurde, werden die Mitglieder dem Programm hinzugefügt und zählen in den Berechnungen für die Zielverfolgung und die Ereignis-Cap-Progression.
