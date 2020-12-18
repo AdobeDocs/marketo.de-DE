@@ -35,7 +35,7 @@ Apps werden in der Regel in einer Sandbox-Umgebung Beginn, in der Erstentwicklun
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Geben Sie einen Namen ein. Wählen Sie in der Dropdown-Liste &quot; **Typ** &quot;den Typ der verwendeten Umgebung aus: Sandbox oder Produktion. Klicken Sie auf **Speichern**.
+1. Geben Sie einen Namen ein. Wählen Sie in der Dropdownliste **Typ** den Typ der verwendeten Umgebung aus: Sandbox oder Produktion. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
