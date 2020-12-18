@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Segment beschreiben {#label-your-segment}
+# Kennzeichnen Ihres Segments {#label-your-segment}
 
 Haben Sie so viele Segmente, dass der Bildlauf schwerfällig wird? Markieren Sie Ihre Segmente mit Etiketten, damit Sie sie schnell finden können.
 
-## Segment taggen {#tag-a-segment}
+## Taggen eines Segments {#tag-a-segment}
 
-1. Melden Sie sich bei der Web-Personalisierung an und gehen Sie zu **Segmenten**.
+1. Melden Sie sich bei Web-Personalisierung an und gehen Sie zu **Segmente**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Haben Sie so viele Segmente, dass der Bildlauf schwerfällig wird? Markieren Sie
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Um eine vorhandene Beschriftung zu verwenden, klicken Sie auf &quot;Beschriftung **festlegen**&quot;, aktivieren Sie das Kontrollkästchen und klicken Sie auf &quot; **Anwenden**&quot;.
+1. Um eine vorhandene Beschriftung zu verwenden, klicken Sie auf **Beschriftung festlegen**, markieren Sie ein Feld und klicken Sie auf **Übernehmen**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Wenn Sie eine neue Bezeichnung erstellen möchten, klicken Sie auf **Beschriftung** festlegen, geben Sie den neuen Bezeichnungsnamen ein und klicken Sie auf Neu **erstellen**.
+1. Um eine neue Beschriftung zu erstellen, klicken Sie auf **Beschriftung festlegen**, geben Sie den neuen Bezeichnungsnamen ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
