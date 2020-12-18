@@ -23,7 +23,7 @@ Senden und verfolgen Sie alle Google-E-Mails mit den Marketing Insights for Goog
 
 
 
-## E-Mail mit Marketing Insights senden {#send-an-email-with-marketo-insights}
+## E-Mail mit Marketo Insights {#send-an-email-with-marketo-insights} senden
 
 1. Klicken Sie im Fenster Erstellen auf das Symbol Markieren.
 
@@ -41,11 +41,11 @@ Senden und verfolgen Sie alle Google-E-Mails mit den Marketing Insights for Goog
    >
    >Optional können Sie auf den Pfeil für die Dublette klicken, um die Ansicht im Vollbildmodus zu erweitern.
 
-1. Wenn Sie Ihre E-Mail mit einer veröffentlichten Marketing-Vorlage vorab ausfüllen möchten, klicken Sie auf **Mehr Optionen** und wählen Sie **Vorlage laden.**
+1. Wenn Sie Ihre E-Mail mit einer veröffentlichten Marketo-Vorlage füllen möchten, klicken Sie auf **Mehr Optionen** und wählen Sie **Marketo-Vorlage laden.**
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Wählen Sie eine **verfügbare Vorlage** und klicken Sie auf **OK.**
+1. Wählen Sie eine **Verfügbare Vorlage** und klicken Sie auf **OK.**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -55,17 +55,17 @@ Senden und verfolgen Sie alle Google-E-Mails mit den Marketing Insights for Goog
 
    >[!NOTE]
    >
-   >Nachrichten werden nur verfolgt, wenn die Schaltfläche &quot; **Senden** &quot;violett ist.
+   >Nachrichten werden nur verfolgt, wenn die Schaltfläche **Senden** violett ist.
 
 1. Die E-Mail erscheint in Kürze in Ihrem Marketo Sales Insight und alle geöffnet und Klicks werden nachverfolgt.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## E-Mail-Antworten mit Marketing protokollieren {#log-email-replies-with-marketo}
+## Protokoll E-Mail-Antworten mit Marketo {#log-email-replies-with-marketo}
 
 Sie können Antworten und alte Aktivitäten im Verlauf der Aktivität eines Interessenten protokollieren.
 
-1. Klicken Sie im Bereich &quot;Vorschau&quot;von Google Mail auf **Mit Marketo** anmelden.
+1. Klicken Sie im Bereich Vorschau von Google Mail auf **Mit Marketo** anmelden.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
