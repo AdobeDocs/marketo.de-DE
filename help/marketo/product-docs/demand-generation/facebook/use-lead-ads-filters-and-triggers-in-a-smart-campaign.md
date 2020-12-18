@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Filter und Auslöser von Interessentenanzeigen in einer intelligenten Kampagne verwenden {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
+# Filter und Auslöser von Interessentenanzeigen in einer Smart-Kampagne {#use-lead-ads-filters-and-triggers-in-a-smart-campaign} verwenden
 
 Wenn Sie Facebook-Werbeanzeigen aktiviert haben, können Sie diese in Ihren intelligenten Kampagnen verwenden, um den Erfolg von Programmen zu sehen. Wenn Personen ihre Daten in einer Facebook-Werbemitteleinheit senden, werden die Informationen sofort an Marketing weitergeleitet.
 
-1. Verwenden Sie den **Filter oder Auslöser für das Formular** &quot;Füllung aus Interessentenanzeigen&quot;.
+1. Verwenden Sie den Filter oder Auslöser **Füllt das Formular für Interessentenanzeigen** aus.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
