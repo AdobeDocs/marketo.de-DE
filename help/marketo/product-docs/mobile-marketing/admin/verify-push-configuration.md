@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Wählen Sie &quot; **Mobile Apps**&quot;aus.
+1. Wählen Sie **Mobile Apps**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    Vergewissern Sie sich, dass die gewünschten Plattformen gelesen wurden, und klicken Sie auf SCHLIESSEN.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   Alles fertig! Jetzt können Sie Beginn Push-Benachrichtigungen senden ![(Lächeln)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)   Alles fertig! Jetzt können Sie Beginn mit dem Senden von Push-Benachrichtigungen ![(smile)](assets/smile.svg)
 
 >[!NOTE]
 >
