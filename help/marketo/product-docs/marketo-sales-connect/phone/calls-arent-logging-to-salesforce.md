@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Aufrufe melden sich nicht bei Salesforce an {#calls-arent-logging-to-salesforce}
+# Aufrufe der Anmeldung bei Salesforce {#calls-arent-logging-to-salesforce}
 
 Wenn Sie möchten, dass Ihre Anrufe von Sales Phone automatisch bei Salesforce protokolliert werden, stellen Sie sicher, dass Folgendes vorhanden ist.
 
-Sie benötigen Ihr Sales Connect-Konto, um über die API-Verbindung mit Ihrem [Salesforce-Konto](http://docs.marketo.com/x/q4LS) verbunden zu werden.
+Sie müssen Ihr Sales Connect-Konto über die API-Verbindung mit Ihrem [Salesforce-Konto](http://docs.marketo.com/x/q4LS) verbinden.
 
-Wenn Sie von der [Webanwendung](http://toutapp.com/login)aus aufrufen, benötigen Sie eine Salesforce-ID, die für diesen Kontakt gespeichert wurde. [Klicken Sie hier](http://docs.marketo.com/x/G4PS) , um zu sehen, wie Sie sicherstellen können, dass allen Ihren Sales Connect-Kontakten eine Salesforce-ID zugeordnet ist.
+Wenn Sie von der [Webanwendung](http://toutapp.com/login) aus aufrufen, benötigen Sie eine Salesforce-ID, die für diesen Kontakt gespeichert wurde. [Klicken Sie ](http://docs.marketo.com/x/G4PS) hier, um zu sehen, wie Sie sicherstellen können, dass allen Ihren Sales Connect-Kontakten eine Salesforce-ID zugeordnet ist.
 
 >[!NOTE]
 >
