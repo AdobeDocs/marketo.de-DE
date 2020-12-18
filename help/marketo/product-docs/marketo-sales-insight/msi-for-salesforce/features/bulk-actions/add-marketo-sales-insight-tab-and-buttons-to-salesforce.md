@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Sie können Ihrer Salesforce-Ansicht benutzerdefinierte Register und Schaltflächen für Marketing to Sales Insight hinzufügen, um den Zugriff zu erleichtern. Interessiert? So geht es.
 
-## Hinzufügen der Registerkarte &quot;Markieren&quot;  {#adding-the-marketo-tab}
+## Hinzufügen der Registerkarte &quot;Markieren&quot;{#adding-the-marketo-tab}
 
-1. Klicken Sie auf** + **und dann auf **Meine Registerkarten** anpassen.
+1. Klicken Sie auf** + **und dann auf **Meine Registerkarten anpassen**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. Wählen Sie in der linken Liste &quot;Markieren&quot;. Klicken Sie dann auf **Hinzufügen** , um es den **ausgewählten Registerkarten** hinzuzufügen.
+1. Wählen Sie in der linken Liste &quot;Markieren&quot;. Klicken Sie dann auf **Hinzufügen**, um es den **Ausgewählte Registerkarten** hinzuzufügen.
 
    >[!TIP]
    >
-   >Verwenden Sie den Pfeil nach **oben** und **unten** , um die Anordnung der Registerkarten zu ändern.
+   >Verwenden Sie den Pfeil **Nach oben** und **Nach unten**, um Ihre Registerkarten neu anzuordnen.
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
@@ -39,15 +39,15 @@ Sie können Ihren Salesforce-Layouts Marketo-Schaltflächen hinzufügen. Hier ei
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. Klicken Sie auf **Setup**. Suchen Sie nach &quot;Suchlayout&quot;und klicken Sie auf die **Suchlayouts** unter &quot; **Interessenten**&quot;.
+1. Klicken Sie auf **Setup**. Suchen Sie nach &quot;Suchlayout&quot;und klicken Sie unter **Interessenten** auf **Layouts suchen**.
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Klicken Sie in der Ansicht **Interessenten Liste **Zeile auf **Bearbeiten** .
+1. Klicken Sie in der Ansicht **Interessenten Liste **Zeile auf **Bearbeiten**.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. hinzufügen **Hinzufügen an die Kampagne** Marketo, **Senden von E-Mail** und **Hinzufügen Sie die Schaltflächen Liste** an die **ausgewählten Schaltflächen** und **Speichern**.
+1. hinzufügen **Hinzufügen an die Kampagne Marketo senden,**, **Marketo per E-Mail senden** und **Hinzufügen, um die Liste** zu überwachen, auf die Schaltflächen **Ausgewählte Schaltflächen** und **Speichern**.
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
