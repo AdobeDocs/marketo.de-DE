@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen Abonnements für eine Vorlage automatisch abmelden {#add-auto-unsubscribes-to-a-template}
+# hinzufügen Abonnements für eine Vorlage {#add-auto-unsubscribes-to-a-template} automatisch abmelden
 
-1. Wählen Sie die Vorlage aus und klicken Sie im Bereich &quot;Abmelden&quot;auf **Bearbeiten** .
+1. Wählen Sie Ihre Vorlage aus und klicken Sie im Abschnitt Abmelden auf **Bearbeiten**.
 1. Wählen Sie aus, ob Sie das automatische Abmelden, das automatische Abbrechen des Blocks oder beides anhängen möchten.
 
    Nachdem diese Auswahlen gespeichert wurden, werden sie automatisch unter Ihrer Unterschrift angehängt, sobald Sie E-Mails mit dieser Vorlage senden.
 
 >[!NOTE]
 >
->Sie können auch anpassen, wie diese Meldungen zum Abbestellen von Abonnements auf der Registerkarte &quot; **Zeitzone und Abbestellungen** &quot;in den **Einstellungen** angezeigt werden.
+>Sie können auch anpassen, wie diese Meldungen zum Abmelden von Abonnements auf der Registerkarte **Zeitzone &amp; Abmeldevorgänge** unter **Einstellungen** angezeigt werden.
 
