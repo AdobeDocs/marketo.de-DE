@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Haben Sie so viele Kampagnen, dass der Bildlauf schwerfällig wird? Markieren Sie Ihre Kampagnen mit Etiketten, damit Sie sie schnell sortieren und finden können.
 
-## hinzufügen einer Bezeichnung in einer Web-Kampagne {#add-a-label-to-a-web-campaign}
+## hinzufügen einer Beschriftung zu einer Web-Kampagne {#add-a-label-to-a-web-campaign}
 
 1. Melden Sie sich bei Web-Personalisierung an und wechseln Sie zum Bereich Web-Kampagnen.
 
@@ -23,7 +23,7 @@ Haben Sie so viele Kampagnen, dass der Bildlauf schwerfällig wird? Markieren Si
 
    >[!NOTE]
    >
-   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
 1. Wählen Sie die Kampagnen aus, die Sie mit einer Beschriftung versehen möchten.
 
@@ -39,7 +39,7 @@ Haben Sie so viele Kampagnen, dass der Bildlauf schwerfällig wird? Markieren Si
 
 Cool! Sie können jetzt Bezeichnungen erstellen und sie Kampagnen zuweisen.
 
-## Nach vorhandenen Bezeichnungen filtern {#filter-by-existing-labels}
+## Filtern nach vorhandenen Bezeichnungen {#filter-by-existing-labels}
 
 1. Wählen Sie unter der Dropdownliste Beschriftungen die Bezeichnung aus, die Sie als Filter verwenden möchten.
 
@@ -51,7 +51,7 @@ Cool! Sie können jetzt Bezeichnungen erstellen und sie Kampagnen zuweisen.
 
 >[!MORELIKETHIS]
 >
->* [Segment](create-a-new-in-zone-web-campaign.md) [markieren](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [Segment ](create-a-new-in-zone-web-campaign.md) [beschriften](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
