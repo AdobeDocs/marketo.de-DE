@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aktivieren Sie die Einstellung &quot;In Sales Insight veröffentlichen&quot;, um Ihrem Vertriebsteam sowohl in Sales Insight als auch in Outlook und Gmail Hinzufügen-In eine E-Mail zukommen zu lassen. Sie können ihm auch ein Ablaufdatum geben.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Aktivieren Sie die Einstellung &quot;In Sales Insight veröffentlichen&quot;, um
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Auf Marketing Publish Sales Insight** veröffentlichen.
+1. Markieren Sie **In Marketing-Sales Insight veröffentlichen**.
 
    ![](assets/three.png)
 
-1. Um ein Ablaufdatum festzulegen (optional), aktivieren Sie **&quot;Ablaufdatum** festlegen&quot;und wählen Sie ein Datum aus.
+1. Um ein Ablaufdatum festzulegen (optional), markieren Sie **Ablauf einstellen** und wählen Sie ein Datum.
 
    ![](assets/four.png)
 
@@ -43,9 +43,9 @@ Gute Arbeit! Jetzt wissen Sie, wie Sie E-Mails für Ihr Vertriebsteam zur Verfü
 
 >[!NOTE]
 >
->[Meine Tokens](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) werden nicht aufgelöst, wenn eine E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce gesendet wird. Es werden nur Standard-Token ausgefüllt (Interessent, Firma usw.). Die Standardwerte für Token funktionieren jedoch.
+>[Meine ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokensets werden nicht aufgelöst, wenn eine E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce gesendet wird. Es werden nur Standard-Token ausgefüllt (Interessent, Firma usw.). Die Standardwerte für Token funktionieren jedoch.
 
 >[!TIP]
 >
->Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie Sie eine E-Mail [genehmigen](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie [E-Mail ](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) genehmigen.
 
