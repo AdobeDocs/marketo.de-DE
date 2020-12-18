@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**Tieftauchen**
 >
->Weitere Informationen zum [Konfigurieren von Push-Benachrichtigungen](configure-mobile-push-notification.md) finden Sie hier.
+>Weitere Informationen zum Konfigurieren von Push-Benachrichtigungen[ finden Sie hier.](configure-mobile-push-notification.md)
 
