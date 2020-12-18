@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Testen von Facebook-Interessentenanzeigen für die Desktop-Integration mit Marketing {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Testen Sie Facebook-Interessentenanzeigen für die Desktop-Integration mit Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen! Hier ist, wie man es auf Ihrem Desktop macht.
 
 >[!PREREQUISITES]
 >
->Sie müssen die Facebook- [Interessentenwerbungsintegration](set-up-facebook-lead-ads.md)einrichten.
+>Sie müssen [die Facebook-Interessentenwerbungsintegration](set-up-facebook-lead-ads.md) einrichten.
 
 1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **Bearbeiten**.
-1. Klicken Sie unter **Links** auf den Link **Ansicht in News Feed** .
+1. Klicken Sie unter **Links** auf den Link **Ansicht in News Feed**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -40,11 +40,11 @@ Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen! Hi
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Hier geschieht die Magie! Nachdem Sie Ihr Formular übermittelt haben, [erstellen Sie eine intelligente Liste in Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Filter &quot;Facebook-Interessentenanzeigeformular&quot;verwendet. Geben Sie den Namen des Interessentenanwerbungsformulars des soeben gesendeten Formulars ein.
+1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine intelligente Liste in Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Filter &quot;Facebook-Interessentenanzeigeformular&quot;verwendet. Geben Sie den Namen des Interessentenanwerbungsformulars des soeben gesendeten Formulars ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Klicken Sie jetzt auf die Registerkarte **Personen** , um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
+1. Klicken Sie nun auf die Registerkarte **Personen**, um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
 
    ![](assets/people.png)
 
