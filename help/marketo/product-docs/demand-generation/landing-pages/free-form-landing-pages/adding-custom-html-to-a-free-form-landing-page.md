@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hinzufügen von benutzerdefiniertem HTML zu einer Freiform-Landingpage {#adding-custom-html-to-a-free-form-landing-page}
+# Hinzufügen von benutzerdefiniertem HTML zu einer Freiformdatei-Landingpage {#adding-custom-html-to-a-free-form-landing-page}
 
 Sie können benutzerdefinierte Skripten, CSS oder andere HTML zu Landingpages hinzufügen.
 
@@ -19,11 +19,11 @@ Sie können benutzerdefinierte Skripten, CSS oder andere HTML zu Landingpages hi
 >
 >Der Marketing-Support ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes HTML hilft. Für HTML-Hilfe wenden Sie sich bitte an einen Webentwickler.
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf Entwurf **bearbeiten.**
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten.**
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Ziehen Sie im Landingpages-Editor das **HTML** -Element.
+1. Ziehen Sie im Landingpages-Editor das Element **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
