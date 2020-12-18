@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen Hyperlinktext {#add-hyperlinked-text}
+# hinzufügen Hyperlink-Text {#add-hyperlinked-text}
 
 1. Geben Sie den Text ein, den Sie per Hyperlink verknüpfen möchten (z. B. hier klicken).
 1. Wählen Sie den Text aus.
