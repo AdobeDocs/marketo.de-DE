@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# Fehlermeldung &quot;Einschränken&quot;in einem fehlgeschlagenen Versand {#throttling-error-message-in-a-failed-delivery}
+# Fehlermeldung beim Einschränken in einem ausgefallenen Versand {#throttling-error-message-in-a-failed-delivery}
 
 Wenn Sie über Ihren eigenen Server senden, wird es Beschränkungen für die Anzahl der E-Mails geben, die Sie gleichzeitig senden können. Wenn Sie über Sales Connect senden, haben Sie die Möglichkeit, viele E-Mails zu senden, aber wir versuchen, sie gleichzeitig zu senden. Wenn Sie also wissen, dass Ihr Server Sie bei 100 E-Mails pro Minute ausschaltet, müssen Sie nur 100 E-Mails über die [Webanwendung](http://toutapp.com/login) gleichzeitig senden. Andernfalls können die E-Mails im Ordner &quot;Fehlgeschlagener Versand&quot;landen, da sie von Ihrem E-Mail-Versand gedrosselt werden.
