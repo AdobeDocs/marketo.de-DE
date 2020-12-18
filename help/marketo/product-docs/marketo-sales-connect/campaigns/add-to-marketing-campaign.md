@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >[Kampagne für Vertriebsbenutzer sichtbar machen](http://docs.marketo.com/x/NwDh)
 
-## hinzufügen einer Kampagne {#add-individuals-to-a-campaign}
+## hinzufügen Personen zu einer Kampagne {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
 >Damit eine Person über Sales Connect einer Marketing-Kampagne hinzugefügt werden kann, muss Sales Connect über die Marketing-ID der Person verfügen, die die Interessenten-ID hat. [Hier erfahren Sie, wie Sie Marketo-IDs erfassen](http://docs.marketo.com/x/CQXLAQ).
 
-1. Klicken Sie auf die Registerkarte **Personen** .
+1. Klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/one-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. Da Sie einer Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;from&quot;-Adresse. Sie können jedoch auch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf &quot;Individuelle&quot;und geben Sie sie ein. Klicken Sie abschließend auf **Weiter** .
+1. Da Sie einer Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;from&quot;-Adresse. Sie können jedoch auch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf &quot;Individuelle&quot;und geben Sie sie ein. Klicken Sie abschließend auf **Weiter**.
 
    ![](assets/five-2.png)
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken Sie auf **Beginn** , um sie hinzuzufügen.
+1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken Sie auf **Beginn**, um sie hinzuzufügen.
 
    ![](assets/nine.png)
 
-## Eine Gruppe in eine Kampagne Hinzufügen {#add-a-group-to-a-campaign}
+## Eine Gruppe in eine Kampagne {#add-a-group-to-a-campaign} Hinzufügen
 
-1. Klicken Sie auf die Registerkarte **Personen** .
+1. Klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/one-3.png)
 
@@ -73,11 +73,11 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Klicken Sie auf **Hinzufügen Kampagne**.
+1. Klicken Sie auf **Hinzufügen Gruppe zu Kampagne**.
 
    ![](assets/twelve.png)
 
-1. Da Sie einer Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;from&quot;-Adresse. Sie können jedoch auch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf &quot;Individuelle&quot;und geben Sie sie ein. Klicken Sie abschließend auf **Weiter** .
+1. Da Sie einer Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;from&quot;-Adresse. Sie können jedoch auch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf &quot;Individuelle&quot;und geben Sie sie ein. Klicken Sie abschließend auf **Weiter**.
 
    ![](assets/thirteen.png)
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken Sie auf **Beginn** , um sie hinzuzufügen.
+1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken Sie auf **Beginn**, um sie hinzuzufügen.
 
    ![](assets/nine.png)
 
