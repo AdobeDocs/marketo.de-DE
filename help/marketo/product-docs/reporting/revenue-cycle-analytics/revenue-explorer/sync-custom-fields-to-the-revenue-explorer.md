@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren {#sync-custom-fields-to-the-revenue-explorer}
+# Benutzerdefinierte Felder mit dem Umsatz-Explorer {#sync-custom-fields-to-the-revenue-explorer} synchronisieren
 
 In &quot;Umsatz-Cycle-Analysen&quot;können Berichte zu benutzerdefinierten Marketing-Feldern erstellt werden, damit Sie die zu synchronisierenden benutzerdefinierten Felder festlegen können.
 
@@ -19,11 +19,11 @@ In &quot;Umsatz-Cycle-Analysen&quot;können Berichte zu benutzerdefinierten Mark
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Wählen Sie **Umsatzzyklusanalysen**.
+1. Wählen Sie **Revenue Cycle Analytics**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
@@ -31,11 +31,11 @@ In &quot;Umsatz-Cycle-Analysen&quot;können Berichte zu benutzerdefinierten Mark
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Wählen Sie das Feld aus, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf &quot; **Synchronisierungsoption** bearbeiten&quot;.
+1. Wählen Sie das Feld aus, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option zum Bearbeiten der Synchronisierung**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Ändern Sie den **Synchronisierungsstatus** in **Aktiviert**.
+1. Ändern Sie **Synchronisierungsstatus** in **Aktiviert**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
