@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Gruppen verwalten {#manage-groups}
+# Verwalten von Gruppen {#manage-groups}
 
 Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
-## Gruppe erstellen {#create-a-group}
+## Gruppe {#create-a-group} erstellen
 
-1. Klicken Sie auf der Seite &quot;Personen&quot;auf das **Pluszeichen** neben &quot;Gruppen&quot;.
+1. Klicken Sie auf der Seite &quot;Personen&quot;neben Gruppen auf das Pluszeichen **plus.**
 
    ![](assets/one-4.png)
 
@@ -27,21 +27,21 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    Das ist&#39;s!
 
-## hinzufügen von Kontakten zu einer Gruppe {#add-contacts-to-a-group}
+## hinzufügen Kontakte zu einer Gruppe {#add-contacts-to-a-group}
 
 1. Wählen Sie auf der Seite &quot;Personen&quot;die Gruppe aus, der Sie Personen hinzufügen möchten.
 
    ![](assets/three-3.png)
 
-1. Klicken Sie auf **Gruppenaktionen** und wählen Sie Kontakt **erstellen**.
+1. Klicken Sie auf **Gruppenaktionen** und wählen Sie **Kontakt erstellen**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Dadurch wird jeweils ein Kontakt hinzugefügt. Gehen Sie wie [folgt vor, um mehrere Kontakte gleichzeitig hinzuzufügen](http://docs.marketo.com/x/VADb).
+   >Dadurch wird jeweils ein Kontakt hinzugefügt. Um mehrere Kontakte gleichzeitig hinzuzufügen, gehen Sie wie folgt vor: [Diese Schritte](http://docs.marketo.com/x/VADb).
 
-1. Füllen Sie die Kontaktdaten aus und klicken Sie auf **Erstellen** (oder **Erstellen und Hinzufügen Neu** , um einen weiteren hinzuzufügen).
+1. Füllen Sie die Kontaktangaben aus und klicken Sie auf **Erstellen** (oder **Erstellen und Hinzufügen Neu**, um eine weitere hinzuzufügen).
 
    ![](assets/five-3.png)
 
@@ -51,13 +51,13 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
    >
    >Möglicherweise müssen Sie auf Aktualisieren klicken, um neue Kontakte anzuzeigen.
 
-## Gruppe teilen {#share-a-group}
+## Freigeben einer Gruppe {#share-a-group}
 
 1. Suchen und wählen Sie auf der Seite &quot;Personen&quot;die Gruppe aus, die Sie freigeben möchten.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf das Dokument (drei vertikale Punkte) und wählen Sie &quot; **Freigeben**&quot;aus.
+1. Klicken Sie auf den Punkt (drei vertikale Punkte) und wählen Sie **Freigeben**.
 
    ![](assets/seven.png)
 
@@ -71,17 +71,17 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    Sie besitzen die Gruppe weiterhin, sie wird jetzt jedoch unter &quot;Teamgruppen&quot;angezeigt.
 
-## Freigabe einer Gruppe aufheben {#unshare-a-group}
+## Freigabe einer Gruppe {#unshare-a-group} aufheben
 
 1. Suchen und wählen Sie auf der Seite &quot;Personen&quot;die Gruppe aus, für die Sie die Freigabe aufheben möchten.
 
    ![](assets/ten.png)
 
-1. Klicken Sie auf das Dokument (drei vertikale Punkte) und wählen Sie &quot; **Freigeben**&quot;aus.
+1. Klicken Sie auf den Punkt (drei vertikale Punkte) und wählen Sie **Freigeben**.
 
    ![](assets/eleven.png)
 
-1. Klicken Sie auf das **X** neben dem Team, für das Sie die Gruppe freigegeben haben, und klicken Sie dann aus dem Modal heraus.
+1. Klicken Sie auf **X** neben dem Team, für das Sie die Gruppe freigegeben haben, und klicken Sie dann aus dem Modal heraus.
 
    ![](assets/twelve.png)
 
@@ -93,7 +93,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf das Dokument (drei vertikale Punkte) und wählen Sie &quot; **Umbenennen&quot;**.
+1. Klicken Sie auf den Punkt (drei vertikale Punkte) und wählen Sie **Umbenennen**.
 
    ![](assets/thirteen.png)
 
@@ -101,17 +101,17 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    ![](assets/fourteen.png)
 
-## Eine Gruppe löschen {#delete-a-group}
+## Löschen einer Gruppe {#delete-a-group}
 
 1. Suchen und wählen Sie auf der Seite &quot;Personen&quot;die Gruppe aus, die Sie löschen möchten.
 
    ![](assets/fifteen.png)
 
-1. Klicken Sie auf das Dokument (drei vertikale Punkte) und wählen Sie &quot; **Löschen&quot;**.
+1. Klicken Sie auf den Punkt (drei vertikale Punkte) und wählen Sie **Löschen**.
 
    ![](assets/sixteen.png)
 
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie zur Bestätigung auf **Löschen**.
 
    ![](assets/seventeen.png)
 
