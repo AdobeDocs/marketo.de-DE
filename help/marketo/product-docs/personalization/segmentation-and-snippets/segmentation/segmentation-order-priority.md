@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Priorität der Segmentierungsreihenfolge {#segmentation-order-priority}
+# Segmentreihenfolgungspriorität {#segmentation-order-priority}
 
-Es ist wichtig zu verstehen, wie die **Reihenfolge** die Priorität für die Bewertung Ihrer Mitarbeiter in einer Segmentierung festlegt.
+Es ist wichtig zu verstehen, wie **order** die Priorität für die Bewertung Ihrer Personen in einer Segmentierung festlegt.
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ Es ist wichtig zu verstehen, wie die **Reihenfolge** die Priorität für die Bew
 
 
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Wählen Sie Ihre **Segmentierung** aus. Klicken Sie in **Segmentierungsaktionen** auf Segmente **bearbeiten**.
+1. Wählen Sie **Segmentierung**. Klicken Sie unter **Segmentierungsaktionen** auf **Segmente bearbeiten**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ Es ist wichtig zu verstehen, wie die **Reihenfolge** die Priorität für die Bew
 
 
 
-Cool, was? Sie können Segmente für dynamischen Inhalt, [Berichte](http://docs.marketo.com/display/docs/basic+reporting) und sogar in [intelligenten Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)verwenden.
+Cool, was? Sie können Segmente für dynamischen Inhalt, [Berichte](http://docs.marketo.com/display/docs/basic+reporting) und sogar in [intelligente Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) verwenden.
 
