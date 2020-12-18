@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Bearbeiten von Landingpages, Titel und Metadaten {#edit-landing-page-title-and-metadata}
+# Landingpage und Metadaten bearbeiten {#edit-landing-page-title-and-metadata}
 
-Mit Marketo können Sie Ihre Landingpage- [Meta-Tags für SEO-Zwecke](http://www.w3schools.com/tags/tag_meta.asp) bearbeiten und den `<head>` HTML-Teil anpassen.
+Mit Marketo können Sie Ihre Landingpage [meta Tags für SEO-Zwecke](http://www.w3schools.com/tags/tag_meta.asp) bearbeiten und den `<head>`-Teil des HTML anpassen.
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **Bearbeiten** des **Entwurfs**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf **Bearbeiten** **Entwurf**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,20 +23,20 @@ Mit Marketo können Sie Ihre Landingpage- [Meta-Tags für SEO-Zwecke](http://www
    >
    >Der Landingpages-Designer öffnet sich in einem neuen Fenster.
 
-1. Klicken Sie unter &quot;Aktionen **zur** Landingpage&quot;auf **Seitenmeta-Tags** bearbeiten.
+1. Klicken Sie unter **Landingpages-Aktionen** auf **Seitenmeta-Tags bearbeiten**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Geben Sie den **Titel,** die **Suchbegriffe** und die **Beschreibung** für Ihre Seite ein. Wählen Sie die gewünschte **Roboteroption** und geben Sie den gewünschten Inhalt für den HTML- `<head>` Abschnitt ein. Klicken Sie auf **Speichern.**
+1. Geben Sie für Ihre Seite **Titel,** **Suchbegriffe** und **Beschreibung** ein. Wählen Sie die gewünschte Option **Robots** und geben Sie den gewünschten benutzerdefinierten Inhalt für den HTML-Abschnitt `<head>` ein. Klicken Sie auf **Speichern.**
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Was bedeutet [Roboter](http://www.robotstxt.org/meta.html) ?**
+   >**Was bedeutet  [](http://www.robotstxt.org/meta.html) Roboter?**
    >
    >
-   >**index:** -Seite im Internet durchsuchbar ist. **folgen:** Suchmaschinen können Links auf indizierten Seiten folgen.
+   >**index:** page kann im Web durchsucht werden. **Folgen:** Suchmaschinen können Links auf indizierten Seiten folgen.
 
 1. Bearbeiten Sie die Tags jederzeit und genehmigen Sie die Landingpage.
 
