@@ -23,11 +23,11 @@ Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei f
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Oder klicken Sie auf der Seite &quot;Ansicht der Push-Benachrichtigung&quot;auf **Push-Benachrichtigungsaktionen** und dann auf **Vorschau**. Oder klicken Sie **ganz rechts auf **Vorschau.** **
+Oder klicken Sie auf der Seite &quot;Ansicht der Push-Benachrichtigung&quot;auf **Push-Benachrichtigungsaktionen** und dann **Vorschau**. Oder klicken Sie ganz rechts auf **Vorschau ******
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Schließlich können Sie im Editor auf die Registerkarte &quot;Entwurf der **Vorschau** &quot;oben rechts klicken, während Sie an der Benachrichtigung arbeiten.
+Schließlich können Sie im Editor oben rechts auf die Registerkarte **Vorschau Draft** klicken, während Sie an der Benachrichtigung arbeiten.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
