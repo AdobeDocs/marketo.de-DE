@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # hinzufügen einer Vorlage oder Kampagne {#add-a-template-or-campaign}
 
-Um einer E-Mail eine Vorlage oder Kampagne hinzuzufügen, öffnen Sie ein neues Fenster &quot;Erstellen&quot;. Vorlagen und Kampagnen befinden sich auf der rechten Seite. Klicken Sie auf die Dropdownliste **Kategorien** .
+Um einer E-Mail eine Vorlage oder Kampagne hinzuzufügen, öffnen Sie ein neues Fenster &quot;Erstellen&quot;. Vorlagen und Kampagnen befinden sich auf der rechten Seite. Klicken Sie auf die Dropdownliste **Kategorien**.
 
 Um eine Vorlage hinzuzufügen, klicken Sie auf **Vorlage** und wählen Sie die Vorlage aus, die Sie senden möchten.
 
-Wenn Sie eine Kampagne hinzufügen, klicken Sie stattdessen auf die Registerkarte &quot; **Kampagne** &quot;.
+Wenn Sie eine Kampagne hinzufügen, klicken Sie stattdessen auf die Registerkarte **Kampagne**.
 
-Wenn Sie Ihre Nachrichten gerade in der [Webanwendung](http://toutapp.com/login)hinzugefügt/bearbeitet haben, klicken Sie auf die Schaltfläche &quot; **Aktualisieren** &quot;, um sicherzustellen, dass Sie die neueste Version verwenden.
+Wenn Sie Ihre Nachrichten gerade in der [Webanwendung](http://toutapp.com/login) hinzugefügt/bearbeitet haben, klicken Sie auf die Schaltfläche **Aktualisieren**, um sicherzustellen, dass Sie die neueste Version verwenden.
