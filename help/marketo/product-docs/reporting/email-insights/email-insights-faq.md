@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Häufig gestellte Fragen zu E-Mail Insights {#email-insights-faq}
+# E-Mail Insights FAQ {#email-insights-faq}
 
 ## Gibt es Unterschiede zwischen den Quotientenmetriken mit E-Mail-Insight und anderen Marketing-E-Mail-Berichten? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
