@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche Felder auswählen, die Sie in Ihrer Segmentierung verwenden möchten.
 
-1. Wechseln Sie zu **Kontoeinstellungen**.\
+1. Gehen Sie zu **Kontoeinstellungen**.\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Wechseln Sie zur **Datenbank**.\
+1. Gehen Sie zu **Datenbank**.\
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Feld &quot;Neue Person&quot;hinzufügen {#adding-a-new-person-field}
+## Hinzufügen eines Felds für eine neue Person {#adding-a-new-person-field}
 
-1. Wählen Sie **Feld aus, um der Liste ein Personendatenfeld hinzuzufügen** .
+1. Wählen Sie **Feld, um** aus der Dropdownliste hinzuzufügen, um der Liste ein Personendatenfeld hinzuzufügen.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -37,7 +37,7 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
 
 ## Löschen eines Personenfelds {#deleting-a-person-field}
 
-1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie auf **Ja** , um zu bestätigen, dass Sie das Feld löschen möchten.
+1. Klicken Sie auf das Löschen-Symbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie auf **Ja**, um zu bestätigen, dass Sie das Feld löschen möchten.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
