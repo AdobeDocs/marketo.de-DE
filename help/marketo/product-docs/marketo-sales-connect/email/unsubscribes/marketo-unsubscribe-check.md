@@ -19,13 +19,13 @@ Der Marketo Unsubscribe Check nutzt die Verbindung Ihres Teams mit Marketo, um z
 >
 >**Administratorberechtigungen erforderlich**
 
-## Aktivieren {#turning-it-on}
+## {#turning-it-on} einschalten
 
 1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/one-2.png)
 
-1. Klicken Sie unter &quot;Admin-Einstellungen&quot;auf **Abmelden**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Unsubscribes**.
 
    ![](assets/two-3.png)
 
