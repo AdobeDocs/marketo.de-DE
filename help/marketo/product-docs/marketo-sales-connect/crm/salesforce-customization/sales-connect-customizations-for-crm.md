@@ -29,7 +29,7 @@ Die folgenden Felder und Schaltflächen werden von der Metadaten-API in Salesfor
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Marketing Connect-Anpassungen**.
+1. Klicken Sie auf **Marketing-to-Sales-Connect-Anpassungen**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Die folgenden Felder und Schaltflächen werden von der Metadaten-API in Salesfor
 
 ## Benutzerdefinierte Aktivitäten {#custom-activity-fields}
 
-Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige Aufstockung der Daten, eine Neuzuordnung und eine fortlaufende Synchronisierung der Werte nur in die **neuen** Felder durch. Alte Felder werden nicht aktualisiert.
+Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige Aufstockung der Daten, eine Neuzuordnung und eine fortlaufende Synchronisierung der Werte nur in die Felder **new** durch. Alte Felder werden nicht aktualisiert.
 
 | **Feldname** | **Beschreibung** |
 |---|---|
@@ -142,5 +142,6 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
 
 ## Verwandte Videos {#related-videos}
 
-**Installation von Anpassungen in Salesforce**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Die Vorteile der Verwendung von Anpassungen in Salesforce**
+**Installation von Anpassungen in Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Die Vorteile der Verwendung von Anpassungen in Salesforce** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
