@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# Verwenden einer Marketing-Liste oder einer Smart-Liste als LinkedIn-Audience-Segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
 
@@ -31,11 +31,11 @@ Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Registerkarte **Personen** .
+1. Klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf das Symbol** Über Ad Bridge senden ** ![—](assets/image2015-4-20-18-3a18-3a41.png) unten in der Liste.
+1. Klicken Sie unten in der Liste auf das Symbol** Über Anzeigenbrücke senden **![—](assets/image2015-4-20-18-3a18-3a41.png).
 
    ![](assets/four-1.png)
 
@@ -47,11 +47,11 @@ Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Wählen Sie eine **LinkedIn-Audience** aus.
+1. Wählen Sie eine **LinkedIn-Audience**.
 
    >[!NOTE]
    >
-   >Durch Klicken auf **+Neue Audience** wird eine Audience in LinkedIn Kampagne Manager erstellt.
+   >Durch Klicken auf **+Neue Audience** wird eine Audience im LinkedIn Kampagne Manager erstellt.
 
    ![](assets/6.png)
 
