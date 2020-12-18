@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden der Gate-Phasen des Umsatzmodells {#using-revenue-model-gate-stages}
+# Verwenden der Umsatzmodell-Gate-Phasen {#using-revenue-model-gate-stages}
 
 Eine Tor-Phase dient als Qualifizierungsprüfung.
 
@@ -19,59 +19,59 @@ Eine Tor-Phase dient als Qualifizierungsprüfung.
 >
 >Es ist eine gute Idee, ein Übungsmodell in einem Grafik- oder Präsentationsmodell zu erstellen und es mit Ihren Kollegen zu bestätigen.
 
-## hinzufügen einer Tor-Phase {#add-a-gate-stage}
+## hinzufügen einer Gate-Phase {#add-a-gate-stage}
 
-1. Gehen Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Wählen Sie ein vorhandenes Modell oder [erstellen Sie ein neues](create-a-new-revenue-model.md).
+1. Wählen Sie ein vorhandenes Modell oder [erstellen Sie ein neues.](create-a-new-revenue-model.md)
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicken Sie auf **Bearbeiten** des **Entwurfs**.
+1. Klicken Sie auf **Bearbeiten** **Entwurf**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Klicken Sie auf die Schaltfläche **Tor** und ziehen Sie dann an eine beliebige Stelle der Arbeitsfläche.
+1. Klicken Sie auf die Schaltfläche **Gate** und ziehen Sie dann eine beliebige Stelle auf die Arbeitsfläche.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Bearbeiten Sie **Name **und wählen Sie einen **Typ**.
+1. Bearbeiten Sie **Name **und wählen Sie ein **Typ**.
 
    >[!NOTE]
    >
-   >Wählen Sie zu diesem Zeitpunkt die Option &quot; [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md) &quot;aus, um einen Einblick in die Leistung Ihrer Konten zu erhalten, während sie Ihr Modell durchlaufen.
+   >Wählen Sie zu diesem Zeitpunkt [Beginn Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md) aus, um einen Einblick in die Performance Ihrer Konten zu erhalten, während sie durch Ihr Modell laufen.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->Die Gate-Phase teilt Interessenten nach Kriterien auf, die Sie in die Transitionen eingeben. **es enthält keine Leads**. Eine Standardeinstellung ist erforderlich, damit Interessenten, die nicht von den anderen Transitionen ausgewählt werden, die Standardeinstellung durchlaufen.
+>Die Gate-Phase teilt Interessenten nach Kriterien auf, die Sie in die Transitionen eingeben. **Es enthält keine Leads**. Eine Standardeinstellung ist erforderlich, damit Interessenten, die nicht von den anderen Transitionen ausgewählt werden, die Standardeinstellung durchlaufen.
 
 ## Eine Gate-Phase bearbeiten {#edit-a-gate-stage}
 
-Bearbeiten Sie den Namen und die Beschreibung und passen Sie den Typ der Gate-Phase an. Sie können auch die Verfolgung von [Beginn nach Konto](start-tracking-by-account-in-the-revenue-modeler.md)aktivieren.
+Bearbeiten Sie den Namen und die Beschreibung und passen Sie den Typ der Gate-Phase an. Sie können auch die Option [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md) wählen.
 
-1. Klicken Sie auf das Symbol für die **Gate** -Bühne.
+1. Klicken Sie auf das Symbol **Gate** für die Bühne.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Klicken Sie in die Felder **Name** und **Beschreibung** , um deren Inhalt zu bearbeiten.
+1. Klicken Sie in die Felder **Name** und **Beschreibung**, um den Inhalt zu bearbeiten.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Wählen Sie die Dropdown-Liste **Typ** zur Bearbeitung aus.
+1. Wählen Sie die Dropdown-Liste **Typ** aus, die Sie bearbeiten möchten.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
 ## Löschen einer Gate-Phase {#delete-a-gate-stage}
 
-1. Sie können eine Gate-Phase löschen, indem Sie mit der rechten Maustaste auf das Gate-Anzeigesymbol klicken und &quot; **Löschen**&quot;auswählen.
+1. Sie können eine Gate-Phase löschen, indem Sie mit der rechten Maustaste auf das Gate-Anzeigesymbol klicken und **Löschen** auswählen.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. Sie können auch eine Gate-Phase löschen, indem Sie darauf klicken und dann in der Dropdown-Liste &quot; **Anzeigeaktionen** &quot;die Option &quot; **Löschen**&quot;auswählen.
+1. Sie können auch eine Gate-Phase löschen, indem Sie darauf klicken und dann in der Dropdownliste **Aktionen der Stufe** **Löschen** wählen.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
