@@ -23,7 +23,7 @@ Das Hinzufügen von Teammitgliedern ist schnell und einfach!
 
    ![](assets/two.png)
 
-1. Klicken Sie auf Neuen Benutzer **einladen**.
+1. Klicken Sie auf **Neuen Benutzer einladen**.
 
    ![](assets/three.png)
 
