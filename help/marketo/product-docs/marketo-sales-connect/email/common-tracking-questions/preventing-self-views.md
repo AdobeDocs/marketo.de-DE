@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vermeidung von Ansichten {#preventing-self-views}
+# Vermeiden von Ansichten {#preventing-self-views}
 
 ## Übersicht {#overview}
 
@@ -29,7 +29,7 @@ Sales Connect speichert ein Cookie in Ihrem Browser, um zu verhindern, dass Ansi
 
 Ansichten werden verfolgt, indem ein kleines unsichtbares Bildpixel in Ihren E-Mail-Client heruntergeladen wird. Sie können die Anzahl der selbstständigen Ansichten in Outlook erheblich verringern, indem Sie Bilder deaktivieren, die automatisch heruntergeladen werden sollen. Im Folgenden finden Sie die Schritte, wie.
 
-1. Klicken Sie in Outlook in der Menüleiste auf **Datei** .
+1. Klicken Sie in Outlook in der Menüleiste auf **Datei**.
 
    ![](assets/win-1.png)
 
@@ -41,19 +41,19 @@ Ansichten werden verfolgt, indem ein kleines unsichtbares Bildpixel in Ihren E-M
 
    ![](assets/win-3.png)
 
-1. Klicken Sie unter &quot;Microsoft Outlook Trust Center&quot;auf **Einstellungen** des Sicherheitszentrums.
+1. Klicken Sie unter Microsoft Outlook Trust Center auf **Trust Center-Einstellungen**.
 
    ![](assets/win-4.png)
 
-1. Klicken Sie im Menü links auf &quot;Automatischer Download&quot;und aktivieren Sie das Kontrollkästchen &quot;Bilder **nicht automatisch in HTML-E-Mail oder RSS-Elemente** herunterladen&quot;.
+1. Klicken Sie im Menü links auf &quot;Automatischer Download&quot;und aktivieren Sie das Kontrollkästchen **Bilder nicht automatisch in HTML-E-Mail oder RSS-Elemente herunterladen**.
 
    ![](assets/win-5.png)
 
-1. Klicken Sie im Dialogfeld &quot;Sicherheitscenter&quot;auf **OK** .
+1. Klicken Sie im Dialogfeld &quot;Vertrauensstellungscenter&quot;auf **OK**.
 
    ![](assets/win-6.png)
 
-1. Klicken Sie im Dialogfeld &quot;Outlook-Optionen&quot;auf **OK** .
+1. Klicken Sie im Dialogfeld &quot;Outlook-Optionen&quot;auf **OK**.
 
    ![](assets/win-6.png)
 
@@ -69,7 +69,7 @@ Ansichten werden verfolgt, indem ein kleines unsichtbares Bildpixel in Ihren E-M
 
    ![](assets/mac-2.png)
 
-1. Klicken Sie unter &quot;Sicherheit&quot;auf das Optionsfeld **Nie** .
+1. Klicken Sie unter &quot;Sicherheit&quot;auf das Optionsfeld **Niemals**.
 
    ![](assets/mac-3.png)
 
