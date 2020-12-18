@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Installation des Marketo Outlook Plugins durch IT {#marketo-outlook-plugin-installation-by-it}
+# Marketo Outlook Plugin Installation by IT {#marketo-outlook-plugin-installation-by-it}
 
 Manchmal erfordern die Richtlinien des Unternehmens, dass sein IT-Team alle Software auf den Computern seiner Mitarbeiter installiert. In diesen Fällen erfolgt dies oft remote mithilfe einer eigenen Bereitstellungssoftware. Dieses Dokument enthält die Befehlszeilen, die Sie während des Bereitstellungsprozesses verwenden würden, um das Plugin für Aussichten remote zu installieren.
 
 >[!PREREQUISITES]
 >
->[Richten Sie](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) den Enterprise-Schlüssel ein.
+>[Legen Sie ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) den Enterprise-Schlüssel fest.
 
 Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als Administratorkonto mit dem /i-Switch aus, um die Installation durchzuführen.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -44,7 +44,7 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 >
 >Der Speicherort der Protokolldatei muss vorhanden sein, damit die Datenspeicherung abgebrochen werden kann.
 
-Bitte beachten Sie die vollständige Liste der Switches [von](https://support.microsoft.com/en-us/kb/227091) Microsoft, wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten.
+Bitte lesen Sie die vollständige Liste der Switches[ von Microsoft, wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten.](https://support.microsoft.com/en-us/kb/227091)
 
 >[!NOTE]
 >
