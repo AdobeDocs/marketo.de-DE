@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Berichtspalten auswählen {#select-report-columns}
+# Berichtspalten {#select-report-columns} auswählen
 
 Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und nicht enthalten sind.
 
@@ -23,7 +23,7 @@ Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und nicht
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klicken Sie auf die Registerkarte &quot; **Bericht** &quot;, klicken Sie dann auf eine Spaltenüberschrift und wählen Sie &quot; **Spalten**&quot;und wählen Sie dann die einzuschließenden Spalten aus.
+1. Klicken Sie auf die Registerkarte **Bericht**, klicken Sie dann auf eine Spaltenüberschrift, wählen Sie **Spalten** und wählen Sie dann die einzuschließenden Spalten aus.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
