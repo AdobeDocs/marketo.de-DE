@@ -23,13 +23,13 @@ Nachdem Sie Hunderte von Web-Personalisierungs-Kampagnen erstellt haben, ist es 
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Markieren Sie das Kontrollkästchen für den Status und/oder Typ der Kampagne, nach der Sie filtern möchten, z. B. &quot; **Angehalten&quot;** oder **&quot;Dialogfeld**&quot;. Klicken Sie auf **Übernehmen**.
+1. Markieren Sie das Kontrollkästchen für den Status und/oder Typ der Kampagne, nach der Sie filtern möchten, z. B. **Angehalten** oder **Dialog**. Klicken Sie auf **Apply**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Verwenden Sie das Kontrollkästchen Alle **** auswählen, um alle auszuwählen, oder den Link **Löschen** , um alle Kontrollkästchen zu deaktivieren.
+   >Verwenden Sie das Kontrollkästchen **Alle auswählen, um alle auszuwählen, oder den Link** Löschen **, um alle Kontrollkästchen zu deaktivieren.**
 
 1. Jetzt werden nur Kampagnen angezeigt, die mit Ihrem Filter übereinstimmen.
 
