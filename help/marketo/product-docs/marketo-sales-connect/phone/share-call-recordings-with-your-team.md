@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Teilen von Aufrufaufzeichnungen mit Ihrem Team {#share-call-recordings-with-your-team}
+# Aufrufaufzeichnungen für Ihr Team freigeben {#share-call-recordings-with-your-team}
 
 Mit Sales Phone können Sie Ihre Telefonaufzeichnungen aufzeichnen und speichern. Wenn Sie eine Telefonaufzeichnung mit einem anderen Team teilen möchten, können Sie den Link an zwei Stellen kopieren.
 
-## Link zur Aufzeichnung aus den Benutzerdetails in der Webanwendung kopieren {#copy-recording-link-from-the-person-details-in-the-web-application}
+## Link zum Kopieren der Aufzeichnung aus den Benutzerdetails in der Webanwendung {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Navigieren Sie zur [Webanwendung](http://toutapp.com/login).
+1. Navigieren Sie zur Webanwendung [](http://toutapp.com/login).
 1. Öffnen Sie die Personendetails.
 1. Suchen Sie die Call-Aktivität unter der Liste Aktivität.
 1. Klicken Sie mit der rechten Maustaste auf die Aufzeichnung und kopieren Sie die Link-URL.
 
-## Link zur Aufzeichnung aus der Salesforce-Aufgabe kopieren {#copy-recording-link-from-the-salesforce-task}
+## Link zur Aufzeichnung aus der Salesforce-Aufgabe {#copy-recording-link-from-the-salesforce-task} kopieren
 
 >[!NOTE]
 >
