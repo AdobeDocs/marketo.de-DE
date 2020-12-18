@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# RTP mit Google Analytics integrieren {#integrate-rtp-with-google-analytics}
+# RTP mit Google Analytics {#integrate-rtp-with-google-analytics} integrieren
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >In diesem Artikel wird die Verwendung der alten Google Standard Analytics-Version erläutert. Es wird jedoch empfohlen, zu Universal Analytics zu wechseln.
 >
->Wenn Sie den Rückverfolgungscode [](https://developers.google.com/analytics/devguides/collection/analyticsjs/)analytics.js noch nicht verwenden, empfiehlt Google dringend, dass Sie Ihre Site neu taggen, um ihn zu verwenden. Folgende Elemente werden von Google nicht mehr unterstützt:
+>Wenn Sie noch nicht den Rückverfolgungscode [analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/) verwenden, empfiehlt Google dringend, Ihre Site neu zu taggen, um sie zu verwenden. Folgende Elemente werden von Google nicht mehr unterstützt:
 >
 >* ga.js
 >* urchin.js
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Integration der [Web-Personalisierung in Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Erfahren Sie, wie Sie [Web-Personalisierung in Universal Analytics integrieren.](integrate-rtp-with-google-universal-analytics.md)
 
 ## Einführung {#introduction}
 
@@ -64,30 +64,30 @@ Messen Sie Ihre RTP-Kampagnen und ordnen Sie sie Ihrem Site-Durchschnitt insgesa
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 
-## RTP mit Google Analytics einrichten {#setting-up-rtp-with-google-analytics}
+## RTP mit Google Analytics {#setting-up-rtp-with-google-analytics} einrichten
 
-1. hinzufügen der E-Mail [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)als Benutzer mit Lese- und Analysenfunktion zu Ihrem GA-Konto. Weitere Informationen finden Sie [hier](https://support.google.com/analytics/answer/2884495?hl=en).
-1. In Ihrem RTP-Konto. Wechseln Sie zu **Kontoeinstellungen**.
+1. hinzufügen Sie die E-Mail [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) als Benutzer zum Lesen und Analysieren auf Ihr GA-Konto. Weitere Informationen finden Sie unter [hier](https://support.google.com/analytics/answer/2884495?hl=en).
+1. In Ihrem RTP-Konto. Gehen Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
 1. Unter **Kontoeinstellungen**, **Domäne** und **Analytics**
 1. Klicken Sie auf** Google Analytics.**
-1. Aktivieren Sie die entsprechenden **benutzerspezifischen Variablen** und **Ereignis** , um diese Daten von RTP an Google Analytics anzuhängen.
-1. Geben Sie die **Steckplatznummer** ein, um benutzerdefinierte Variablendaten zu senden (Standard ist 1,2).
+1. Aktivieren Sie die entsprechenden **Benutzerspezifische Variablen** und **Ereignis**, um diese Daten von RTP an Google Analytics anzuhängen.
+1. Geben Sie die Zahl **Steckplatz** ein, um benutzerdefinierte Variablendaten zu senden (Standard ist 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Klicken Sie auf **SPEICHERN**.
+Klicken Sie auf **SAVE**.
 
 >[!NOTE]
 >
->Um Segmentdaten an GA zu senden, aktivieren Sie auf der Seite [&quot;Segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) bearbeiten&quot;auf der RTP-Plattform das Kontrollkästchen Ereignis bei Segmentübereinstimmung an Google Analytics **senden**.
+>Um Segmentdaten an GA zu senden, aktivieren Sie unter der Seite [Segment bearbeiten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) auf der RTP-Plattform das Kontrollkästchen **Ereignis an Google Analytics senden bei Segmentübereinstimmung**.
 
 ## Einrichten von Google Analytics-Berichten mit RTP-Daten {#setting-up-google-analytics-reports-with-rtp-data}
 
 In Google Analytics können Sie zur Ansicht Ihrer RTP-Daten Dashboard, GA-Segmentierung und Berichte verwenden:
 
-* [Dashboards](https://support.google.com/analytics/answer/1068216?hl=en) geben einen Überblick über die Leistung der Website.
-* Ein GA-Segment dient zum Filtern von Besuchern in der GA-Oberfläche und zur Ansicht des Traffics pro Segment. Erfahren Sie, wie Sie ein Segment [hier](https://support.google.com/analytics/answer/3124493?hl=en)erstellen.
-* Erstellen [benutzerdefinierter Berichte](https://support.google.com/analytics/answer/1033013?hl=en) zur Ansicht und/oder Einrichtung geplanter E-Mails. Siehe Anpassen > Neuer benutzerdefinierter Bericht.
+* [In ](https://support.google.com/analytics/answer/1068216?hl=en) Dashboards erhalten Sie einen Überblick über die Website-Performance.
+* Ein GA-Segment dient zum Filtern von Besuchern in der GA-Oberfläche und zur Ansicht des Traffics pro Segment. Erfahren Sie, wie Sie ein Segment [hier](https://support.google.com/analytics/answer/3124493?hl=en) erstellen.
+* Erstellen von [benutzerspezifischen Berichten](https://support.google.com/analytics/answer/1033013?hl=en) zur Ansicht und/oder Einrichtung geplanter E-Mails. Siehe Anpassen > Neuer benutzerdefinierter Bericht.
