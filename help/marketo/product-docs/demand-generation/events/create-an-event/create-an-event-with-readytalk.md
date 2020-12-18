@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Ereignis mit ReadyTalk erstellen {#create-an-event-with-readytalk}
+# Erstellen eines Ereignisses mit ReadyTalk {#create-an-event-with-readytalk}
 
 >[!PREREQUISITES]
 >
 >* [hinzufügen ReadyTalk als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Legen Sie die entsprechenden [Flussaktionen](http://docs.marketo.com/display/DOCS/Flow+Actions)zur Verfolgung der Interaktion fest.
+>* Stellen Sie die entsprechenden [Flussaktionen](http://docs.marketo.com/display/DOCS/Flow+Actions)ein, um Interaktionen zu verfolgen.
 
 
-Richten Sie zuerst Ihr Ereignis im ReadyTalk Konferenzzentrum ein. Wenn Sie Hilfe benötigen, besuchen Sie das [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  Wählen Sie bei der Auswahl des Registrierungstyps die Option **Vorregistrierung vor der Sitzung**. Wenn Sie sich zum Zeitpunkt des Treffens ** registrieren lassen, erfasst Marketo **keinen** Status als &quot;Registered&quot; für Ihr Volk und wird erst *nach* Abschluss des Webinars den Status &quot;Person&quot;als &quot;teilgenommen&quot;erhalten.
+Richten Sie zuerst Ihr Ereignis im ReadyTalk Konferenzzentrum ein. Wenn Sie Hilfe benötigen, schauen Sie im [ReadyTalk Resource Center nach.](https://www.readytalk.com/resources/readytalk)  Wählen Sie bei der Auswahl des Registrierungstyps die Option  **Vorregistrierung vor der Sitzung**. Wenn Sie *Registrierung zum Zeitpunkt des Treffens* auswählen, erfasst Marketo **nicht** einen registrierten Status für Ihre Personen und ruft nur den Personenstand von *nach* Abschluss des Webinars ab.
 
-Lassen Sie mich **über neue Registrierungen per E-Mail** unmarkiert benachrichtigen.
+Lassen Sie **mich über neue Registrierungen per E-Mail** unmarkiert.
 
 ![](assets/image2015-5-28-21-3a18-3a39.png)
 
@@ -30,19 +30,19 @@ Wenn Sie ReadyTalk zum Senden von Bestätigungs-E-Mails verwenden, müssen Sie a
 
 >[!NOTE]
 >
->Um ein Ereignis mit Operatorunterstützung zu planen, klicken Sie auf den Link **Ereignis-Services** anfordern auf der linken Seite des Home-Bildschirms des Konferenzzentrums, um ein Ereignis mit unserem Ereignisses-Team zu planen.
+>Um ein Ereignis mit Operatorunterstützung zu planen, klicken Sie auf den Link **Ereignis-Services anfordern** auf der linken Seite Ihres Home-Bildschirms im Conference Center, um ein Ereignis mit unserem Ereignisses-Team zu planen.
 
 Jetzt können Sie Ihr Ereignis mit Marketo verknüpfen.
 
-1. Wählen Sie Ihr Ereignis aus, klicken Sie dann auf **Ereignis-Aktionen** und schließlich auf **Ereignis-Einstellungen.**
+1. Wählen Sie Ihr Ereignis aus und klicken Sie dann auf **Ereignis Actions** und schließlich **Ereignis Settings.**
 
    ![](assets/image2015-5-18-12-3a46-3a47.png)
 
    >[!NOTE]
    >
-   >Der Kanal des ausgewählten Ereignisses muss ein **Webinar sein.**
+   >Der Kanal des ausgewählten Ereignisses muss **Webinar sein.**
 
-1. Wählen Sie unter **Ereignis-Partner die** Option **ReadyTalk**.
+1. Wählen Sie unter **Ereignis-Partner** **ReadyTalk**.
 
    ![](assets/image2015-5-18-12-3a47-3a59.png)
 
@@ -50,7 +50,7 @@ Jetzt können Sie Ihr Ereignis mit Marketo verknüpfen.
 
    ![](assets/image2015-5-18-12-3a48-3a48.png)
 
-1. Wählen Sie unter **Ereignis** das Ereignis aus, das Sie verknüpfen möchten, und klicken Sie dann auf **Speichern**.
+1. Wählen Sie unter **Ereignis** das Ereignis, das Sie verknüpfen möchten, und klicken Sie dann auf **Speichern**.
 
    ![](assets/image2015-5-18-12-3a51-3a35.png)
 
@@ -74,11 +74,11 @@ Jetzt können Sie Ihr Ereignis mit Marketo verknüpfen.
 
    >[!TIP]
    >
-   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach einer Wartezeit immer noch nichts sehen, wählen Sie im Menü &quot;Ereignis-Aktionen&quot;auf der Registerkarte &quot; **Zusammenfassung** &quot;Ihres Ereignisses die Option &quot;Von Webinar-Provider **** aktualisieren&quot;aus.
+   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach dem Warten immer noch nichts sehen, wählen Sie **Von Webinar-Provider aktualisieren** im Menü &quot;Ereignis-Aktionen&quot;auf der Registerkarte **Zusammenfassung** aus.
 
-## Ansicht des Zeitplans  {#viewing-the-schedule}
+## Ansicht des Zeitplans {#viewing-the-schedule}
 
-Klicken Sie in der Ansicht [Programmplanung](http://docs.marketo.com/display/docs/program+schedule+view)auf den Kalendereintrag für Ihr Ereignis. Sie können den Zeitplan auf der rechten Seite des Bildschirms sehen!
+Klicken Sie in der Ansicht [Programmplanung](http://docs.marketo.com/display/docs/program+schedule+view) auf den Kalendereintrag für Ihr Ereignis. Sie können den Zeitplan auf der rechten Seite des Bildschirms sehen!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
