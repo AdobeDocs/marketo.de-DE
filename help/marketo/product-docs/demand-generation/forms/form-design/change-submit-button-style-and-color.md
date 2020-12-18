@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Wenn Sie den Standard-Sende-Knopf stumm finden oder etwas mehr Fantasie benötigen, können Sie aus einer breiten Palette von gebrauchsfertigen Schaltflächenstilen wählen.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Klicken Sie auf die Schaltfläche **Senden** und dann neben Schaltflächenstil auf **Bearbeiten** .
+1. Wählen Sie die Schaltfläche **Senden** und klicken Sie auf **Bearbeiten** neben Schaltflächenstil.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,11 +43,11 @@ Wenn Sie den Standard-Sende-Knopf stumm finden oder etwas mehr Fantasie benötig
    >
    >Sie können den Farbcode auch manuell eingeben.
 
-1. Klicken Sie auf **Auswählen**.
+1. Klicken Sie auf **Wählen Sie**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
