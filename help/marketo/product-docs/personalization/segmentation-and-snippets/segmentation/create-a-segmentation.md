@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Eine Segmentierung erstellen {#create-a-segmentation}
+# Erstellen einer Segmentierung {#create-a-segmentation}
 
 Mit der Segmentierung können Sie Personen zu unterschiedlichen Profilen für Berichte und dynamische Inhalte gruppieren. Hier ist, wie man sie erschafft.
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zu **Datenbank**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
@@ -27,7 +27,7 @@ Mit der Segmentierung können Sie Personen zu unterschiedlichen Profilen für Be
    >
    >Sie können bis zu 20 Segmente erstellen.
 
-1. Geben Sie einen **Namen** ein, klicken Sie auf** Hinzufügen** **Segment** und geben Sie ihm einen Namen.
+1. Geben Sie einen **Name** ein, klicken Sie auf** Hinzufügen** **Segment** und geben Sie ihm einen Namen.
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -44,7 +44,7 @@ Mit der Segmentierung können Sie Personen zu unterschiedlichen Profilen für Be
    >Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Segmentlogik ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, andere Filter können jedoch die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele: benutzerdefinierte Felder, Liste, Interessenteninhaberfelder und Umsatzstufen.
    >
    >
-   >Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an den [MarketingTo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a).
+   >Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](http://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a).
 
 1. Ziehen Sie die Segmente per Drag &amp; Drop, um ihre Reihenfolge zu ändern. Klicken Sie abschließend auf **Erstellen**.
 
@@ -52,7 +52,7 @@ Mit der Segmentierung können Sie Personen zu unterschiedlichen Profilen für Be
 
    >[!NOTE]
    >
-   >Eine Person qualifiziert sich für das erste übereinstimmende Segment in der definierten [Reihenfolge](segmentation-order-priority.md) .
+   >Eine Person qualifiziert sich für das erste übereinstimmende Segment in der Definition [order](segmentation-order-priority.md).
 
    >[!NOTE]
    >
