@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Hochgeladene Bilder oder Dateien löschen {#delete-an-uploaded-image-or-file}
+# Ein hochgeladenes Bild oder eine Datei {#delete-an-uploaded-image-or-file} löschen
 
-1. Gehen Sie zum **Design** **Studio**.
+1. Gehen Sie zu **Design** **Studio**.
 
    ![](assets/designstudio-5.png)
 
-1. Wählen Sie im Menü links die Option **Bilder** und **Dateien** aus und klicken Sie dann neben dem Namen der Datei, die Sie löschen möchten.
+1. Wählen Sie **Bilder** und **Dateien** im linken Menü und klicken Sie dann neben dem Namen der Datei, die Sie löschen möchten.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Klicken Sie auf **Datei** - **Aktionen** und **Löschen**.
+1. Klicken Sie auf **Datei** **Aktionen** und **Löschen**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Überprüfen Sie, ob Sie die richtige Datei ausgewählt haben, und klicken Sie auf **DELETE**.
+1. Vergewissern Sie sich, dass Sie die richtige Datei ausgewählt haben, und klicken Sie auf **DELETE**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Gelöschte Bilder und Dateien werden vollständig aus Marketo entfernt und können nicht wiederhergestellt werden.  Sie werden nicht mehr auf Landingpages oder E-Mails angezeigt, in denen sie verwendet wurden.
 
-1. Sie werden auf die Seite **Bilder** und **Dateien** zurückgeleitet, auf der Sie sehen, dass Ihre Datei gelöscht wurde.
+1. Sie werden zur Seite **Bilder** und **Dateien** zurückgeleitet, wo Sie sehen, dass Ihre Datei gelöscht wurde.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
