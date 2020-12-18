@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Erforderliche Felder für die Synchronisierung von Marketing mit Dynamik {#required-fields-for-syncing-marketo-with-dynamics}
 
-Diese Felder *müssen* mit Marketo synchronisiert werden, damit sowohl Lead als auch Kontakt für Sales Insight funktionieren:
+Diese Felder *müssen mit Marketo synchronisiert werden, damit Lead und Kontaktinformationen für Sales Insight funktionieren:*
 
 * Priorität
 * Dringlichkeit
 * Relative Bewertung
 
-Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, checken Sie die Instanz ein, um sicherzustellen, dass die Felder für **Interessent** und **Kontakt** synchronisiert werden. Falls nicht, fügen Sie sie hinzu.
+Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, überprüfen Sie in Ihrer Instanz, ob die Felder für **Lead** und **Kontakt** synchronisiert werden. Falls nicht, fügen Sie sie hinzu.
 
 So überprüfen und fügen Sie Synchronisierungsfelder hinzu:
 
