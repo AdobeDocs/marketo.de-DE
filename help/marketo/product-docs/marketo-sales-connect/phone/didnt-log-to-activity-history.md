@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Keine Anmeldung beim Verlauf der Aktivität {#didnt-log-to-activity-history}
+# Anmeldung zum Verlauf der Aktivität {#didnt-log-to-activity-history}
 
 Wenn Sie Ihre Anrufe nicht bei Salesforce anmelden sehen, liegt das möglicherweise daran, dass wir keinen Interessenten/Ansprechpartner in Salesforce finden können.
 
-Für Aufrufe zur Anmeldung beim richtigen Interessenten/Ansprechpartner muss Sales Connect über die Salesforce-ID verfügen. Die beste Möglichkeit, die Salesforce-ID zu Sales Connect hinzuzufügen, ist unsere Funktion [Push to Sales Connect](http://docs.marketo.com/x/XQDb) . Wenn Sie Push to Sales Connect verwenden, wird die Salesforce-ID in die Kontaktmigration einbezogen.
+Für Aufrufe zur Anmeldung beim richtigen Interessenten/Ansprechpartner muss Sales Connect über die Salesforce-ID verfügen. Die beste Möglichkeit, die Salesforce-ID zu Sales Connect hinzuzufügen, ist unsere Funktion [An Sales Connect ](http://docs.marketo.com/x/XQDb) anschieben. Wenn Sie Push to Sales Connect verwenden, wird die Salesforce-ID in die Kontaktmigration einbezogen.
