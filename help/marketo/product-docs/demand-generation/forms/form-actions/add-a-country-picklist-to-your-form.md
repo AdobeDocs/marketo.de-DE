@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Befolgen Sie diese Anweisungen, um das Feld &quot;country&quot;in eine Dropdown-Liste mit einer Liste aller Länder umzuwandeln.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/editform-1.png)
 
@@ -31,15 +31,15 @@ Befolgen Sie diese Anweisungen, um das Feld &quot;country&quot;in eine Dropdown-
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Wenn das Feld **Land** ausgewählt ist, ändern Sie den **Feldtyp** in **den** Typ ****.
+1. Wenn das Feld **Land** ausgewählt ist, ändern Sie das Feld **Feld** **Typ** in **Auswahl**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Bearbeiten** Sie die **Werte** , um die Liste der Länder hinzuzufügen, aus denen die Benutzer wählen können.
+1. **Bearbeiten Sie** den  **** Wert, um die Liste der Länder hinzuzufügen, aus denen Benutzer wählen können.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klicken Sie auf **Erweiterter** **Editor**.
+1. Klicken Sie auf **Erweitert** **Editor**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -59,7 +59,7 @@ Befolgen Sie diese Anweisungen, um das Feld &quot;country&quot;in eine Dropdown-
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
