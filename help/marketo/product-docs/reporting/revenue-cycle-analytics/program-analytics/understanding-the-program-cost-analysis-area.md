@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programm Cost Analyse Area {#understanding-the-program-cost-analysis-area}
+# Die Analyse des Programm Cost-Bereichs {#understanding-the-program-cost-analysis-area}
 
 Im Bereich Programm Cost Analyse können Sie die Effektivität einzelner Programm analysieren oder die zusammengefassten Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
 
@@ -33,13 +33,13 @@ Wie viel habe ich pro Programm im Monat ausgegeben?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensionen und Maßnahmen zur Analyse der Programm-Kosten {#program-cost-analysis-dimensions-and-measures}
+## Dimensionen zur Analyse der Programm-Kosten und Maßnahmen {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >Gelbe Punkte sind Dimensionen und blaue Punkte Maßstäbe.
 
-## Investitionen {#investment}
+## Investition {#investment}
 
 | Maßnahme | Beschreibung |
 |---|---|
@@ -79,7 +79,7 @@ Wie viel habe ich pro Programm im Monat ausgegeben?
 | Programm Kanal | Programm Kanal |
 | Name des Programms | Name des Programms |
 
-## Zeitrahmen für die Programm-Kosten {#program-cost-timeframe}
+## Programm Cost Timeframe {#program-cost-timeframe}
 
 | Dimension | Beschreibung |
 |---|---|
