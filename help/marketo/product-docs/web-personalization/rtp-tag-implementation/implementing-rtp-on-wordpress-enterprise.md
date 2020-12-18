@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Implementierung von RTP in Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+# Implementierung von RTP auf Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
 Befolgen Sie zur Implementierung Ihres RTP-Tags die Installationsanweisungen unten:
 
@@ -20,7 +20,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die Installationsanweisungen unt
    1. Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 3 fort.\
       ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Suchen Sie unter &quot;Domäne&quot;die entsprechende Domäne und klicken Sie auf Tag **generieren**.
+1. Suchen Sie unter &quot;Domäne&quot;die entsprechende Domäne und klicken Sie auf **Tag** generieren.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
