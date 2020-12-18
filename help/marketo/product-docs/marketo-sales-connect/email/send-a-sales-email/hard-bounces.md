@@ -23,9 +23,9 @@ Eine Absprungerscheinung tritt auf, wenn eine E-Mail aufgrund einer ungültigen 
 
 >[!NOTE]
 >
->Möchten Sie Sales Connect so einrichten, dass Sie über Ihren eigenen SMTP-Provider gehen? Geh einfach [hierher](http://docs.marketo.com/x/zYTS).
+>Möchten Sie Sales Connect so einrichten, dass Sie über Ihren eigenen SMTP-Provider gehen? Gehen Sie einfach [hier](http://docs.marketo.com/x/zYTS).
 
-## Liste von Bounced Emails {#list-of-bounced-emails}
+## Liste von gekürzten E-Mails {#list-of-bounced-emails}
 
 Sie finden eine Liste Ihrer gesprungenen E-Mail auf der Registerkarte &quot;Absprungen&quot;im Command Center.
 
