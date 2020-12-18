@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Gehen Sie wie folgt vor, um MPI einzurichten.
 
-## Einrichtung der Chancen {#opportunity-setup}
+## Opportunity Setup {#opportunity-setup}
 
 1. Klicken Sie auf **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicken Sie auf **Umsatzzyklusanalyse**.
+1. Klicken Sie auf **Revenue Cycle Analytics**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie kein RCA haben, müssen Sie für Schritt 2 die Option &quot; **Programm-Analyse** &quot;auswählen.
+   >Wenn Sie kein RCA haben, müssen Sie für Schritt 2 **Programm-Analyse** auswählen.
 
 1. Klicken Sie unter Zuordnung auf **Bearbeiten**.
 
@@ -55,7 +55,7 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
    >    * Opportunity-Typ
 
 
-## Programm einrichten {#program-setup}
+## Programm-Setup {#program-setup}
 
 Aktualisieren Sie die Programm-Kosten für mindestens 12 Monate. Sie können dies manuell oder mithilfe der Programm-API tun. In diesem Beispiel machen wir es manuell.
 
@@ -67,11 +67,11 @@ Aktualisieren Sie die Programm-Kosten für mindestens 12 Monate. Sie können die
 
    ![](assets/select-program.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** .
+1. Klicken Sie auf die Registerkarte **Setup**.
 
    ![](assets/setup-tab.png)
 
-1. Ziehen Sie die **Zeitkosten** auf die Arbeitsfläche.
+1. Ziehen Sie **Period Cost** auf die Arbeitsfläche.
 
    ![](assets/period-cost.png)
 
@@ -93,7 +93,7 @@ Aktualisieren Sie die Programm-Kosten für mindestens 12 Monate. Sie können die
 
    ![](assets/tags.png)
 
-1. Klicken Sie auf **+** , um die Liste des Kanals zu erweitern.
+1. Klicken Sie auf **+**, um die Liste des Kanals zu erweitern.
 
    ![](assets/channel.png)
 
@@ -113,7 +113,7 @@ Aktualisieren Sie die Programm-Kosten für mindestens 12 Monate. Sie können die
 
    ![](assets/save.png)
 
-## Verbinden des Programms mit der Person {#tie-the-program-to-the-person}
+## Verbinden Sie das Programm mit der Person {#tie-the-program-to-the-person}
 
 1. Stellen Sie sicher, dass für jede Person in Ihrer Datenbank Akquise-Programm und Akquise-Datum festgelegt wurden, damit die Zuordnung von First Touch funktioniert.
 1. Stellen Sie sicher, dass Ihre Programm Erfolgsstatus für Ihre Mitarbeiter festlegen.
