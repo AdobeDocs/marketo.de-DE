@@ -19,11 +19,11 @@ Eine Verbindung zu Gmail bedeutet, dass Sie Antworten verfolgen, Zugriff auf den
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen**.
+1. Wählen Sie unter Mein Konto **E-Mail-Einstellungen**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Registerkarte **E-Mail-Verbindung** .
+1. Klicken Sie auf die Registerkarte **E-Mail-Verbindung**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Eine Verbindung zu Gmail bedeutet, dass Sie Antworten verfolgen, Zugriff auf den
 
    ![](assets/four.png)
 
-1. Wählen Sie **Ich verwende Gmail, um E-Mails** zu senden, und klicken Sie auf **Weiter**.
+1. Wählen Sie **Ich verwende Gmail zum Senden von E-Mails** und klicken Sie auf **Weiter**.
 
    ![](assets/five.png)
 
@@ -47,9 +47,9 @@ Eine Verbindung zu Gmail bedeutet, dass Sie Antworten verfolgen, Zugriff auf den
 
    ![](assets/eight.png)
 
-1. Klicken Sie auf **Zulassen**.
+1. Klicken Sie auf **Allow**.
 
    ![](assets/nine.png)
 
-   Sie können diese Verbindung verwenden, um E-Mails zu verfolgen und auch [als Versand-Kanal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   Sie können diese Verbindung verwenden, um E-Mails und [auch als Versand-Kanal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail) zu verfolgen.
 
