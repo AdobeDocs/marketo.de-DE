@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über Insight Dashboard-Funktionen {#insights-dashboard-feature-overview}
+# Übersicht über die Funktionen des Insight-Dashboards {#insights-dashboard-feature-overview}
 
 Erfahren Sie mehr über die Funktionen in Ihrem Sales Insights-Dashboard.
 
 >[!PREREQUISITES]
 >
->Sie benötigen das neueste MSI SFDC-Paket und die neueste [Konfiguration](http://docs.marketo.com/x/F4GMAg).
+>Sie müssen über das neueste MSI SFDC-Paket und [configuration](http://docs.marketo.com/x/F4GMAg) verfügen.
 
 ![](assets/one.png)
 
@@ -139,7 +139,7 @@ Registerkarte &quot;Ereignis&quot;:
 * Aktivität Details Karte in diesem Abschnitt hat Vorschau Option
 * Der Filter enthält &quot;Suche&quot;, &quot;Nur eingeladene Ereignis anzeigen&quot;und &quot;Datumsbereich&quot;
 
-## Opportunity-Layout {#opportunity-layout}
+## Opportunity Layout {#opportunity-layout}
 
 **Interaktionsgeschwindigkeit**
 
@@ -156,7 +156,7 @@ Registerkarte &quot;Ereignis&quot;:
 * Die wöchentliche Zusammenfassungsleiste zeigt interessante Momente, E-Mail und Web-Aktivität für diese Woche an. Jedes Symbol ist anklickbar und kann als Filter zur Anzeige einer bestimmten Aktivität verwendet werden
 * Standardmäßige Ansicht: Dies ist eine Liste von Aktivitäten der aktuellen Ansicht
 
-**Registerkarte &quot;Bevorstehende E-Mail-Kampagnen und Ereignisse** E-Mail-Kampagnen&quot;:
+**Bevorstehende E-Mail-Kampagnen und -** EreignisseRegisterkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder standardmäßigen Programmen sind, die innerhalb der nächsten 90 Tage geplant sind
 * Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Interessenten-, Kontakt-, Konto- und Opportalbereichen wird gleich sein
