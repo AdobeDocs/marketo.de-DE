@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nachdem Sie das Modell genehmigt haben, können Sie beim Bearbeiten eines Entwurfs keine Phasen löschen. Stattdessen können Sie diese Phase mit einer anderen zusammenführen.
 
-1. Klicken Sie auf **Markieren** und wählen Sie **Analytics**.
+1. Klicken Sie auf **Markieren Sie zu Hause** und wählen Sie **Analytics**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,7 +23,7 @@ Nachdem Sie das Modell genehmigt haben, können Sie beim Bearbeiten eines Entwur
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. Klicken Sie auf Entwurf **bearbeiten.**
+1. Klicken Sie auf **Entwurf bearbeiten.**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
@@ -37,11 +37,11 @@ Nachdem Sie das Modell genehmigt haben, können Sie beim Bearbeiten eines Entwur
 
 1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
+   ^ ![](assets/image2015-4-29-16-3a5-3a53.png)
 
    `
 
 >[!NOTE]
 >
->Wählen Sie **Keine** aus, um die Leads aus Ihrem Modell zu entfernen.
+>Wählen Sie **Keine** in der Merge-Phase, um die Leads aus Ihrem Modell zu entfernen.
 
