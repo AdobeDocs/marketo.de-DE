@@ -21,7 +21,7 @@ Sie können diese Spalten direkt auf der Registerkarte &quot;Abonnement&quot;bea
 * Versand beenden
 * Format
 
-1. Wählen Sie &quot; **Datenbank** &quot;(in diesem Beispiel verwenden wir sie, aber Marketing-Aktivitäten funktionieren genau gleich).
+1. Wählen Sie **Database** (Datenbank&lt;a1/> aus (wir verwenden sie in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
 
    ![](assets/db-1.png)
 
@@ -33,7 +33,7 @@ Sie können diese Spalten direkt auf der Registerkarte &quot;Abonnement&quot;bea
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Klicken Sie auf die Spalte **Häufigkeit** , um Ihre Einstellung auszuwählen oder zu ändern.
+1. Klicken Sie auf die Spalte **Häufigkeit**, um Ihre Einstellung auszuwählen oder zu ändern.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
@@ -45,7 +45,7 @@ Sie können diese Spalten direkt auf der Registerkarte &quot;Abonnement&quot;bea
    >
    >Die Spalten unter &quot;Abonnement in Spalten&quot;sind die Berichtsspalten, nicht die in der Registerkarte &quot;Bericht&quot;.
 
-1. Klicken Sie auf die Spalte **Enddatum** , um das Enddatum zu bearbeiten. Wählen Sie **Nie** oder **Datum**. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicken Sie auf **Genehmigen**.
+1. Klicken Sie auf die Spalte **Enddatum**, um das Enddatum zu bearbeiten. Wählen Sie **Niemals** oder **Datum**. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicken Sie auf **Genehmigen**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
