@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Mit Microsoft Dynamics können Sie schnell und einfach Leads/Kontakte zu intelligenten Kampagnen hinzufügen. So geht es.
 
-1. In Dynamics gehen Sie zum **Verkaufsbereich** .
+1. Gehen Sie in Dynamics zum Bereich **Sales**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,7 +27,7 @@ Mit Microsoft Dynamics können Sie schnell und einfach Leads/Kontakte zu intelli
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Klicken Sie auf** ...** und wählen Sie **Hinzufügen zur Marketo-Kampagne**.
+1. Klicken Sie auf** ...** und wählen Sie **Hinzufügen bis Marketo-Kampagne**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Mit Microsoft Dynamics können Sie schnell und einfach Leads/Kontakte zu intelli
 
    >[!NOTE]
    >
-   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie beim Einrichten der Kampagne den Auslöser für die [**Kampagne &quot;Angefordert** &quot;, wobei Sales Insight als Quelle dient](http://docs.marketo.com/pages/viewpage.action?pageId=7514898).
+   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie die Kampagne [**Wird angefordert** Auslöser](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), wobei Sales Insight als Quelle dient, wenn Sie die Kampagne einrichten.
 
 Und das sind alles Leute! Jetzt haben Sie die Kraft von Marketo cleveren Kampagnen direkt von Dynamics.
