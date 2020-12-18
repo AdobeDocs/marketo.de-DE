@@ -21,11 +21,11 @@ Verweisende Angebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen.
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-1. Wählen Sie im Programm **Neu** > **Neues lokales Asset.**
+1. Wählen Sie im Programm **Neu** > **Neues lokales Element.**
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Klicken Sie in der **Lokalen Asset-Galerie auf** Verweisende **Angebot.**
+1. Klicken Sie in der **Lokale Asset-Galerie** auf **Verweisende Angebote.**
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -35,7 +35,7 @@ Verweisende Angebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen.
 
    >[!TIP]
    >
-   >Um Zeit zu sparen, können Sie mit der Option &quot; **Klonen von** &quot;alle Einstellungen aus einem vorhandenen Angebot kopieren.
+   >Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einem vorhandenen Angebot kopieren.
 
    Der Editor für Verweisdokumente wird in einem neuen Angebot geöffnet. Die Standardeinstellungen sind alle gut, Sie müssen jedoch einen Link zu den Regeln Ihres Angebots (Geschäftsbedingungen) hinzufügen. Der Link wird unten in den Freigabefeldern angezeigt. Wir zeigen Ihnen wie im nächsten Schritt.
 
@@ -49,7 +49,7 @@ Verweisende Angebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen.
 
    >[!NOTE]
    >
-   >In diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihrer Datenschutzrichtlinien für eine Social-App](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >In diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihre Datenschutzrichtlinien auf eine Social-App](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Klicken Sie auf **Fertig stellen.**
 
@@ -59,7 +59,7 @@ Verweisende Angebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen.
 
    >[!TIP]
    >
-   >Um die Standardwerte im Referrer-Angebot zu ändern, klicken Sie auf **Zurück**. Klicken Sie auf **Schließen, um Ihre Arbeit später ohne Genehmigung zu speichern.**
+   >Klicken Sie zum Ändern der Standardwerte im Referrer-Angebot auf **Zurück**. Um Ihre Arbeit für später ohne Genehmigung zu speichern, klicken Sie auf **Schließen.**
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -69,7 +69,7 @@ Herzlichen Glückwunsch! Sie haben Ihr Angebot für Verweise erstellt.
 
 >[!MORELIKETHIS]
 >
->Der nächste Schritt besteht darin, Ihr Angebot [für Verweise auf einer Landingpage, auf Ihrer Website oder auf Facebook zu](publish-a-referral-offer.md) veröffentlichen.
+>Der nächste Schritt ist [Veröffentlichen Sie Ihr Angebot für den Verweis](publish-a-referral-offer.md) auf einer Landingpage, auf Ihrer Website oder auf Facebook.
 
 >[!NOTE]
 >
