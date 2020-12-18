@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Suchen Sie nach einer Ansicht und filtern Sie Ihre Segmente nach einer bestimmten Bezeichnung?
 
-## Nach vorhandenen Bezeichnungen filtern {#filter-by-existing-labels}
+## Filtern nach vorhandenen Bezeichnungen {#filter-by-existing-labels}
 
 Wählen Sie unter der Dropdownliste Beschriftungen die Beschriftung Ihrer Wahl aus.
 
