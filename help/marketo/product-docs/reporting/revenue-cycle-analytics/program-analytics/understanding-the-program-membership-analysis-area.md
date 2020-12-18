@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programm-Analyse {#understanding-the-program-membership-analysis-area}
+# Der Analyse-Bereich für die Programm-Mitgliedschaft {#understanding-the-program-membership-analysis-area}
 
 Im Bereich Programm Membership Analyse können Sie die Effektivität einzelner Programm analysieren oder die zusammengefassten Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
 
@@ -50,7 +50,7 @@ Wie viele neue Namen haben die einzelnen Programme/Kanal pro Monat generiert?
 | Programm Kanal | Programm Kanal |
 | Name des Programms | Name des Programms |
 
-### Zeitrahmen der Programm-Mitgliedschaft {#program-membership-timeframe}
+### Programm-Teilnahmezeitrahmen {#program-membership-timeframe}
 
 | Dimension | Beschreibung |
 |---|---|
