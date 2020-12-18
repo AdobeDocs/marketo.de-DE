@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Glossar &quot;Web-Personalisierung&quot; {#web-personalization-glossary}
+# Glossar für Web-Personalisierung {#web-personalization-glossary}
 
 Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
 
@@ -23,7 +23,7 @@ Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
 | **ISP** | Internet Dienstleister |
 | **Bekannter Besucher** | Ein Web-Besucher, der ein Formular ausgefüllt und die Angaben (E-Mail-Adresse) auf Ihrer Website hinterlassen oder auf einen Link in einer Marketing-E-Mail geklickt hat. |
 | **Liste des Kontos** | Eine Liste der Namen des Hauptkontos/der Organisation. Auch als &quot;Account-Based Marketing&quot;(ABM)-Liste bezeichnet. |
-| **Segmente** | Eine Sammlung von Besuchern, die die angegebenen Kriterien erfüllen, die auf der Seite [&quot;Segment festlegen&quot;definiert sind](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segmente** | Eine Sammlung von Besuchern, die die angegebenen Kriterien erfüllen, die auf der Seite [&quot;Segment festlegen&quot;definiert wurden.](../../../product-docs/web-personalization/using-web-segments/web-segments.md) |
 | **Teilungstest** | Ein Testversuch mit zwei oder mehr Varianten zur Messung der Ergebnisunterschiede. Das Ziel ist es, Änderungen an Webseiten zu identifizieren, die ein interessantes Ergebnis steigern oder maximieren. |
 | **Platzhalter** | Ein Platzhalterzeichen (*), das vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen. Siehe die folgenden Beispiele. |
 
@@ -31,15 +31,15 @@ Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
 
 Im Folgenden finden Sie drei Möglichkeiten, wie Sie einen Platzhalter in der Web-Personalisierung verwenden können.
 
-Finden Sie alle Besucher auf Seiten-URLs ab, die mit Preisangaben enden (z. B. [www.marketo.com/pricing):](http://www.marketo.com/pricing):
+Finden Sie alle Besucher auf Seiten-URLs ab, die mit Preisangaben enden (z. B. [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
-Ordnen Sie alle Besucher auf Seiten-URLs zu, die mit https:// (z. B. [https://www.marketo.com) Beginn haben:](https://www.marketo.com))
+Ordnen Sie allen Besuchern auf Seiten-URLs zu, die mit https:// Beginn übereinstimmen (z. B. [https://www.marketo.com):](https://www.marketo.com))
 
 ![](assets/wildcard-example-2.png)
 
-Übereinstimmung mit allen Besuchern auf Seiten-URLs, die das Wort &quot;backup&quot;enthalten (z. B. [https://www.marketo.com/backup/pricing.html:](https://www.marketo.com/backup/pricing.html):)
+Finden Sie alle Besucher auf Seiten-URLs ab, die das Wort &quot;backup&quot;enthalten (z. B. [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
 
