@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Salesforce-Synchronisierungseinstellungen {#salesforce-sync-settings}
 
-## Protokollieren der E-Mail-Aktivität über die API bei Salesforce {#logging-email-activity-to-salesforce-via-api}
+## Protokollieren der E-Mail-Aktivität bei Salesforce über die API {#logging-email-activity-to-salesforce-via-api}
 
 Für diese Funktion müssen Sie die Salesforce-Version (Enterprise/Unlimited Edition) oder die Professional-Version verwenden, wenn Sie Integration über die Web Services API erworben haben.
 
@@ -21,15 +21,15 @@ Für diese Funktion müssen Sie die Salesforce-Version (Enterprise/Unlimited Edi
 >
 >Salesforce und Sales Engage müssen verbunden sein.
 
-1. Klicken Sie in Sales Engage auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Engage oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/one-2.png)
 
-1. Klicken Sie unter Mein Konto (Admin-Einstellungen, wenn Sie Administrator sind) auf **Salesforce**.
+1. Klicken Sie unter &quot;Mein Konto&quot;(Admin-Einstellungen, wenn Sie Administrator sind) auf **Salesforce**.
 
    ![](assets/two-2.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** synchronisieren.
+1. Klicken Sie auf die Registerkarte **Einstellungen synchronisieren**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Für diese Funktion müssen Sie die Salesforce-Version (Enterprise/Unlimited Edi
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf die Registerkarte **Salesforce-API** . Auf dieser Karte können Sie Ihre Voreinstellung für die Protokollierung von Informationen in Salesforce einrichten. Klicken Sie abschließend auf **Speichern** .
+1. Klicken Sie auf die Registerkarte **Salesforce-API**. Auf dieser Karte können Sie Ihre Voreinstellung für die Protokollierung von Informationen in Salesforce einrichten. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/five.png)
 
@@ -51,15 +51,15 @@ Sobald Sie &quot;E-Mail an Salesforce (BCC)&quot; aktivieren, erhalten Sie einen
 
 **So melden Sie Ihre E-Mails in Salesforce per E-Mail (BCC) an**
 
-1. Klicken Sie in Sales Engage auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Engage oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie unter Mein Konto (Admin-Einstellungen, wenn Sie Administrator sind) auf **Salesforce**.
+1. Klicken Sie unter &quot;Mein Konto&quot;(Admin-Einstellungen, wenn Sie Administrator sind) auf **Salesforce**.
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** synchronisieren.
+1. Klicken Sie auf die Registerkarte **Einstellungen synchronisieren**.
 
    ![](assets/three-1.png)
 
@@ -76,7 +76,7 @@ Wenn Ihre E-Mail-Adresse an Salesforce aus irgendeinem Grund nicht eingeht, füh
 1. Wählen Sie **Meine E-Mail an Salesforce**.
 1. Auf dieser Seite sehen Sie ein Feld mit der Bezeichnung &quot;E-Mail an Salesforce-Adresse&quot;. Wenn nichts daneben gefüllt ist, blättern Sie nach unten zu &quot;Meine zulässigen E-Mail-Adressen&quot;.
 1. Geben Sie die E-Mail-Adresse(n) ein, an die BCC&#39;d gesendet werden soll.
-1. Klicken Sie auf Änderungen **speichern**.
+1. Klicken Sie auf **Änderungen speichern**.
 
 **Meine E-Mail an Salesforce kann in den Einstellungen nicht gefunden werden**
 
@@ -93,17 +93,17 @@ Wenn Sie unter Ihren Einstellungen &quot;Meine E-Mail an Salesforce&quot;nicht s
 1. Markieren Sie das Kästchen neben &quot;Aktiv*&quot;.*
 1. Klicken Sie auf **Speichern *.* **
 
-## Aufgaben/Erinnerungen für Verkaufsaktionen mit Salesforce-Aufgaben synchronisieren {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## Aufgaben/Erinnerungen für Verkaufsaktionen mit Salesforce-Aufgaben {#sync-sales-engage-tasks-reminders-to-salesforce-tasks} synchronisieren
 
 1. Klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie unter Mein Konto (Admin-Einstellungen, wenn Sie Administrator sind) auf **Salesforce**.
+1. Klicken Sie unter &quot;Mein Konto&quot;(Admin-Einstellungen, wenn Sie Administrator sind) auf **Salesforce**.
 
    ![](assets/two-2.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** synchronisieren.
+1. Klicken Sie auf die Registerkarte **Einstellungen synchronisieren**.
 
    ![](assets/three-1.png)
 
