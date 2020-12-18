@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In &quot;E-Mail-Einblicke&quot;gibt es verschiedene Möglichkeiten, Ihre Daten zu filtern.
 
-## E-Mail-Einblicke {#email-insights}
+## Email Insights {#email-insights}
 
 Klicken Sie auf das Pluszeichen, um dem Beginn Filter hinzuzufügen. hinzufügen so viele, wie du willst.
 
@@ -59,11 +59,11 @@ Wählen Sie aus allgemeinen voreingestellten Datumsbereichen aus, wählen Sie be
 
 >[!NOTE]
 >
->Datumsbereiche gelten sowohl für die Analytics-Seite als auch für die Sends-Seite. Die Option &quot; **Vergleichen** &quot;gilt jedoch nur für die Seite &quot;Analytics&quot;.
+>Datumsbereiche gelten sowohl für die Analytics-Seite als auch für die Sends-Seite. Die Option **Vergleichen** ist nur auf die Analytics-Seite anwendbar.
 
 ## Kontobasiertes Marketing {#account-based-marketing}
 
-Wenn Sie [kontobasiertes Marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)verwenden, gibt es speziell für Sie Filter.
+Wenn Sie [Kontenbasiertes Marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) verwenden, gibt es speziell für Sie Filter.
 
 ![](assets/abm.png)
 
