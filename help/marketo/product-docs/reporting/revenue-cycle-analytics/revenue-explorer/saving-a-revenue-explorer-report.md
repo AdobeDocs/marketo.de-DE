@@ -23,11 +23,11 @@ Umsatz-Explorer-Berichte können in der gewünschten Datei gespeichert werden.
    >
    >Änderungen, die Sie an Ihrem Bericht vornehmen, werden nicht automatisch gespeichert. Achten Sie also darauf, oft zu sparen!
 
-1. Geben Sie Ihrem Bericht einen beschreibenden Namen, wählen Sie einen Speicherort und klicken Sie auf **Speichern**!
+1. Geben Sie dem Bericht einen beschreibenden Namen, wählen Sie einen Speicherort aus und klicken Sie auf **Speichern**!
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   Das ist alles! Sie können jetzt in den **Durchsuchendateien** auf Ihre Datei zugreifen.
+   Das ist alles! Sie können jetzt unter **Dateien suchen** auf Ihre Datei zugreifen.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
