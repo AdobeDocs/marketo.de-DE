@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Es gibt zwei Möglichkeiten, sowohl die Feldbeschriftungsbreite als auch die Feldbreite selbst zu ändern.
 
-## Ziehen und Ablegen der Breite {#drag-and-drop-the-width}
+## Ziehen und ablegen Sie die Breite {#drag-and-drop-the-width}
 
-1. Wählen Sie im [Formulareditor](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)das Feld aus, dessen Größe Sie ändern möchten.
+1. Wählen Sie im [Formular-Editor](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md) das Feld aus, dessen Größe Sie ändern möchten.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -25,7 +25,7 @@ Es gibt zwei Möglichkeiten, sowohl die Feldbeschriftungsbreite als auch die Fel
 
    ![](assets/image2014-9-15-15-3a24-3a14.png)
 
-## Manuelles Eingeben der Breite {#enter-the-width-manually}
+## Breite manuell eingeben{#enter-the-width-manually}
 
 1. Wählen Sie das Feld aus, dessen Größe Sie ändern möchten.
 
