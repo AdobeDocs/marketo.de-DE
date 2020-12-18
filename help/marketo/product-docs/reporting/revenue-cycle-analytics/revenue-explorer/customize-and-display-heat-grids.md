@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Ein Wärmeraster stellt Ihre Daten visuell in einem farbigen Raster dar, sodass Sie gute und schlechte Muster einfacher und schneller identifizieren können.
 
-1. Klicken Sie in Ihrem Bericht auf das Diagrammsymbol und dann auf **&quot;Raster** beheben&quot;.
+1. Klicken Sie in Ihrem Bericht auf das Diagrammsymbol und dann auf **Kühlkörper**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Um Änderungen an Ihrem **Kühlraster** vorzunehmen, gehen Sie zum Bereich **Eigenschaften **I.
+1. Um Änderungen an Ihrem **Kühlkörper** vorzunehmen, gehen Sie zum Bereich **Eigenschaften **I.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Fantastisch! Du hast jetzt dein **Wärmeraster**!
+   Fantastisch! Sie haben jetzt Ihr **Heat Grid**!
 
