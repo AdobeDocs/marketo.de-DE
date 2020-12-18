@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Benutzerhandbücher für das Entwerfen von Landingpages {#use-guides-for-free-form-landing-page-design}
+# Guides für das Entwerfen von Landingpages mit Freiform {#use-guides-for-free-form-landing-page-design} verwenden
 
 Beim Entwerfen einer Freiform-Landingpage können Sie Hilfslinien verwenden, die Ihnen beim Ausrichten der Komponenten helfen.
 
 >[!NOTE]
 >
->Guides sind nur im Editor für **kostenlose****Landingpages** verfügbar.
+>Guides sind nur im Landingpages-Editor **Free**-**form** verfügbar.
 
-1. Wählen Sie eine **Landingpage** aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie eine **Landingpage** und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicken Sie auf **Landingpage Aktionen **und wählen Sie &quot; **Hilfslinien** anzeigen&quot;.
+1. Klicken Sie auf **Landingpage Aktionen **und wählen Sie **Hilfslinien anzeigen**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
