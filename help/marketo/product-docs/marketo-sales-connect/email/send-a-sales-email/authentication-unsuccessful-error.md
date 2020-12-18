@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Fehler bei Authentifizierung fehlgeschlagen {#authentication-unsuccessful-error}
+# Authentifizierungsfehler {#authentication-unsuccessful-error}
 
 Sehen Sie Ihre E-Mails im Versand &quot;Fehlgeschlagen&quot;mit der Fehlermeldung &quot;Authentifizierung fehlgeschlagen&quot;? Das bedeutet, dass wir die Verbindung zu Ihrem SMTP-Server nicht authentifizieren konnten. Wahrscheinlich hat sich Ihr Kennwort kürzlich geändert und Sie müssen Ihre neuen Anmeldeinformationen authentifizieren.
 
-1. Gehen Sie zu Ihren [SMTP-Einstellungen](http://toutapp.com/next#settings/email-servers/smtp/configure) , wo Sie die gleiche Fehlermeldung &quot;Authentifizierung nicht erfolgreich&quot;sehen sollten.
-1. Aktualisieren Sie Ihre Anmeldeinformationen und klicken Sie auf **Authentifizieren und Speichern**.
+1. Gehen Sie zu den [SMTP-Einstellungen](http://toutapp.com/next#settings/email-servers/smtp/configure), wo die Fehlermeldung &quot;Authentifizierung fehlgeschlagen&quot;angezeigt werden soll.
+1. Aktualisieren Sie Ihre Anmeldeinformationen und klicken Sie auf **Authentifizierung und Speichern**.
 1. Gehen Sie zu Ihren fehlgeschlagenen Versänden und versuchen Sie, diese E-Mails erneut zu senden.
 
-Wenn Sie weiterhin in Schwierigkeiten geraten, [senden Sie bitte eine Anfrage](http://nation.marketo.com/community/support_solutions) an den Support.
+Wenn weiterhin Probleme auftreten, senden Sie bitte [eine Anfrage an den Support.](http://nation.marketo.com/community/support_solutions)
