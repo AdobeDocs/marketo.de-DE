@@ -17,6 +17,6 @@ Mit Sales Connect können Sie Kontaktgruppen erstellen, damit Sie personalisiert
 
 Um eine Gruppe zu erstellen, wählen Sie einfach **N****Neue Gruppe**.
 
-Von hier können Sie Kontakte [manuell](http://docs.marketo.com/x/IYTS) oder [per CSV](http://docs.marketo.com/x/VADb)hinzufügen.
+Von hier können Sie Kontakte [manuell](http://docs.marketo.com/x/IYTS) oder [über CSV](http://docs.marketo.com/x/VADb) hinzufügen.
 
 Um mehr über das Senden von Gruppen-E-Mails zu erfahren, [klicken Sie hier](http://docs.marketo.com/x/iADb).
