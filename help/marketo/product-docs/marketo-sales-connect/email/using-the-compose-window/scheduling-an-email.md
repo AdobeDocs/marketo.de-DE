@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail planen {#scheduling-an-email}
+# Planen einer E-Mail {#scheduling-an-email}
 
 Befolgen Sie diese einfachen Schritte, um eine E-Mail zu planen.
 
@@ -35,7 +35,7 @@ Befolgen Sie diese einfachen Schritte, um eine E-Mail zu planen.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie nach Auswahl des geplanten Datums/der geplanten Uhrzeit auf **Senden** , um die E-Mail zu planen.
+1. Klicken Sie nach Auswahl des geplanten Datums/der geplanten Uhrzeit auf **Senden**, um die E-Mail zu planen.
 
    ![](assets/five-1.png)
 
