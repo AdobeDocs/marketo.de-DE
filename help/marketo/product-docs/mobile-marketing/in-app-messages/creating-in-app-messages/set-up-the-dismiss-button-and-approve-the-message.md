@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Einrichten der Schaltfläche &quot;Schließen&quot;und Genehmigen der Nachricht {#set-up-the-dismiss-button-and-approve-the-message}
+# Einrichten der Schaltfläche &quot;Schließen&quot;und Genehmigen der Meldung {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Konfigurieren der Schaltflächeneigenschaften  {#configure-dismiss-button-properties}
+## Eigenschaften der Schaltfläche &quot;Schließen&quot;konfigurieren {#configure-dismiss-button-properties}
 
 Die Schaltfläche &quot;Schließen&quot;verfügt über zahlreiche Optionen, mit denen Sie sie nach Ihren Wünschen konfigurieren können.
 
@@ -45,11 +45,11 @@ Die Schaltfläche &quot;Schließen&quot;verfügt über zahlreiche Optionen, mit 
    >
    >Sie müssen der Schaltfläche &quot;Abbrechen&quot;eine Tippaktion geben, damit kein Kontrollkästchen aktiviert wird. Die Option &quot;Nachricht schließen&quot;ist die Standardoption (und wird offensichtlich).
 
-## Aufnehmen {#wrap-it-up}
+## Umschließen mit {#wrap-it-up}
 
 Alle Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch gespeichert. Jetzt bist du bereit, die Arbeit zu beenden.
 
-1. Um Ihre In-App-Nachricht Vorschau, klicken Sie auf die Dropdown-Liste &quot; **Nachrichtenaktionen** &quot;und wählen Sie &quot; **Vorschau**&quot;aus.
+1. Um Ihre In-App-Nachricht Vorschau, klicken Sie auf die Dropdownliste **Nachrichtenaktionen** und wählen Sie **Vorschau**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Alle Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch gespeic
 
    >[!NOTE]
    >
-   >Sie können die Option &quot; **Genehmigen und Schließen** &quot;auch direkt aus der Dropdownliste &quot;Nachrichtenaktionen&quot;wählen (siehe Schritt 1), aber warum wird die Nachricht nicht zuerst Vorschau, nur um sicher zu sein?
+   >Sie können **Genehmigen und Schließen** auch direkt aus der Dropdownliste &quot;Nachrichtenaktionen&quot;(siehe Schritt 1) auswählen. Warum wird die Nachricht nicht zuerst Vorschau, nur um sicher zu sein?
 
 1. Um den Editor ohne Genehmigung zu schließen, schließen Sie einfach die Registerkarte. Es wird automatisch gespeichert, sodass Sie es später erneut genehmigen können.
 
@@ -71,7 +71,7 @@ Alle Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch gespeic
 
 So viele Auswahlmöglichkeiten, aber jetzt haben Sie eine großartige In-App-Nachricht, bereit, loszulegen!
 
-Jetzt ist es an der Zeit, deine Nachricht zu [senden](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Jetzt ist es Zeit, [Ihre Nachricht](http://docs.marketo.com/display/docs/send+your+in-app+message) zu senden.
 
 >[!MORELIKETHIS]
 >
