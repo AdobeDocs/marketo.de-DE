@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Verfügbarkeit**
 >
->Website-Retargeting fällt jetzt unter die Web-Personalisierungskachel. Wenn Sie nur Retargeting gekauft haben, sehen Sie diese Kachel und greifen auf das Web-Personalisierungsprodukt zu, wobei **nur** die Retargeting-Funktionen aktiviert sind. Auf diese Weise haben Sie Zugriff auf Kontoeinstellungen, die Retargeting-Seite, Segmente und zusätzliche Verfolgungsseiten.
+>Website-Retargeting fällt jetzt unter die Web-Personalisierungskachel. Wenn Sie nur Retargeting gekauft haben, sehen Sie diese Kachel und greifen auf das Web-Personalisierungsprodukt zu, wenn **nur** Retargeting-Funktionen aktiviert sind. Auf diese Weise haben Sie Zugriff auf Kontoeinstellungen, die Retargeting-Seite, Segmente und zusätzliche Verfolgungsseiten.
 
 Remarketing Zielgruppen Potenzieller Kunde, die Ihre Site in der Vergangenheit besucht haben, mit Display-Werbung basierend darauf, wer sie sind und was sie getan haben. Durch personalisiertes Retargeting werden spezifische Audiencen mit relevanten Anzeigen auf Basis von Branchen, benannten Konten und bekannten Personendaten Zielgruppe.
 
@@ -79,11 +79,11 @@ Die Web-Personalisierung sendet die folgenden Daten an die Remarketing-Plattform
 
    >[!NOTE]
    >
-   >Damit diese Funktion funktioniert, müssen Sie Ihre Website mit [Facebook Custom Audience](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pixel installieren.
+   >Sie müssen [Facebook Benutzerdefinierte Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)auf Ihrer Website installieren, damit diese Funktion funktioniert.
 
    ![](assets/three.png)
 
-## Segmentierte Audience erstellen {#creating-segmented-audience}
+## Erstellen einer segmentierten Audience {#creating-segmented-audience}
 
 Eine segmentierte Audience ermöglicht es Ihnen, ein vorhandenes Segment als Audience für das Targeting von Kampagnen auszuwählen. Wählen Sie beispielsweise Ihre Segmente Bekannte Person aus.
 
@@ -91,7 +91,7 @@ Eine segmentierte Audience ermöglicht es Ihnen, ein vorhandenes Segment als Aud
 >
 >Es ist nicht erforderlich, eine segmentierte Audience für Branchendaten oder andere Daten zu erstellen, die bereits über die Domänenkonfiguration gesendet wurden. Es ist am besten, segmentierte Audiencen für Segmente zu verwenden, die auf bekannten Personendaten basieren.
 
-1. Klicken Sie auf Segmentierte Audience **erstellen**.
+1. Klicken Sie auf **Segmentierte Audience erstellen**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -99,7 +99,7 @@ Eine segmentierte Audience ermöglicht es Ihnen, ein vorhandenes Segment als Aud
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klicken Sie auf **SPEICHERN**.
+1. Klicken Sie auf **SAVE**.
 
    Sie haben jetzt die Retargeting-Einrichtung in Web-Personalisierung abgeschlossen, melden sich bei Ihren Targeting-Plattformen an und erstellen Ihre Audiencen auf der Grundlage dieser Daten und richten Ihre Targeting-Anzeigen-Kampagnen ein.
 
