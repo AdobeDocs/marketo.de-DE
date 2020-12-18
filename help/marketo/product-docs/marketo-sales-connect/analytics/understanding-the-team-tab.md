@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Registerkarte &quot;Team&quot; {#understanding-the-team-tab}
+# Die Registerkarte &quot;Team&quot;{#understanding-the-team-tab}
 
 Auf der Registerkarte &quot;Team&quot;werden drei wichtige Metriken hervorgehoben.
 
-## Mit Vorlage gesendete E-Mails {#emails-sent-with-template}
+## E-Mails mit Vorlage {#emails-sent-with-template}
 
 Wie viele der gesendeten E-Mails verwendeten eine Vorlage.
 
@@ -23,7 +23,7 @@ Wie viele der gesendeten E-Mails verwendeten eine Vorlage.
 
 Im gesamten Forum werden die Spitzenzeiten der Interaktion angezeigt, die anzeigen, zu welcher Tageszeit Ihr Team die meisten Aktivitäten erhält (Ansichten, Klicks, Antworten). Ihr Team kann E-Mails planen oder planen, um diese Zeit strategisch E-Mails zu versenden.
 
-## Abgeschlossene Angebote {#deals-closed}
+## Abgeschlossene Geschäfte {#deals-closed}
 
 Dies basiert auf dem Umsatz-Gong und wie viele Geschäfte innerhalb des aktuellen Monats abgeschlossen wurden.
 
