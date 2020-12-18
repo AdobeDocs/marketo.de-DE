@@ -35,7 +35,7 @@ Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site
 
    ![](assets/add-link.png)
 
-   Herzlichen Glückwunsch! Sie haben nun erfolgreich eine Verknüpfung zu einem Bild auf Ihrer Landingpage hinzugefügt. Sie können die Seite jetzt [Vorschau](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) vornehmen, um sie in Aktion zu sehen.
+   Herzlichen Glückwunsch! Sie haben nun erfolgreich eine Verknüpfung zu einem Bild auf Ihrer Landingpage hinzugefügt. Jetzt können Sie [die Vorschau der Seite](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) ausführen, um sie in Aktion zu sehen.
 
 >[!TIP]
 >
