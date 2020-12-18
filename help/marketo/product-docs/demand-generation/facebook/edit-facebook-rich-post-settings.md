@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Einstellungen für Facebook-Rich-Beiträge bearbeiten {#edit-facebook-rich-post-settings}
+# Einstellungen für Facebook-Rich-Post bearbeiten {#edit-facebook-rich-post-settings}
 
-Passen Sie Beiträge an, wenn Personen Sie auf Facebook [freigeben](http://docs.marketo.com/display/docs/social) .
+Passen Sie Beiträge an, wenn Personen [Sie auf Facebook freigeben.](http://docs.marketo.com/display/docs/social)
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Passen Sie Beiträge an, wenn Personen Sie auf Facebook [freigeben](http://docs.
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-Mit Marketo- [Social-Apps](http://docs.marketo.com/display/docs/social) können Ihre Interessenten Ihre Landingpages mit ihren Verbindungen in sozialen Netzwerken wie Facebook, Twitter usw. teilen. Mit den Facebook OpenGraph-Tags (OG-Tags) können Sie angeben, welche Informationen aus Ihrer Landingpage in Facebook-Beiträgen enthalten sind.
+Marketo [Social-Apps](http://docs.marketo.com/display/docs/social) ermöglichen es Ihren Interessenten, Ihre Landingpages mit ihren Verbindungen in sozialen Netzwerken wie Facebook, Twitter usw. zu teilen. Mit den Facebook OpenGraph-Tags (OG-Tags) können Sie angeben, welche Informationen aus Ihrer Landingpage in Facebook-Beiträgen enthalten sind.
 
 ## Rich-Post-Optionen auswählen {#select-rich-post-options}
 
 Sie können die Arten von Seiteninformationen angeben, die in den Facebook-Rich-Posts verwendet werden sollen, die von Teilen Ihrer Landingpage generiert wurden.
 
-1. Wählen Sie **Facebook-Nachricht** im Editor für Ihr **YouTube** -Video oder Ihre Social-Schaltfläche aus.
+1. Wählen Sie **Facebook-Nachricht** im Editor für Ihre **YouTube**-Schaltfläche für Video oder Social.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -37,12 +37,12 @@ Sie können die Arten von Seiteninformationen angeben, die in den Facebook-Rich-
 
       ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * hinzufügen dynamischer Inhalt: Ihre Social-App kann Ihren Rich-Post mit den Tags `<TITLE>`, `<CAPTION>`und `<DESCRIPTION>` Tags Ihrer Landingpage füllen.
+   * hinzufügen dynamischer Inhalt: Ihre Social-App kann die Tags `<TITLE>`, `<CAPTION>` und `<DESCRIPTION>` Ihrer Landingpage verwenden, um Ihren Rich-Post zu füllen.
 
       ![](assets/image2014-9-22-16-3a48-3a9.png)
    >[!NOTE]
    >
-   >Diese sollten bereits in der Seitenquelle vorhanden sein, aber für mehr Kontrolle können Sie Ihrer Landingpage [bestimmte Facebook-OG-Tags](edit-facebook-rich-post-settings.md)hinzufügen.
+   >Diese sollten bereits in der Seitenquelle vorhanden sein. Für mehr Kontrolle können Sie Ihrer Landingpage jedoch [bestimmte Facebook-OG-Tags hinzufügen.](edit-facebook-rich-post-settings.md)
 
    * Fügen Sie keinen Rich Content hinzu: Begrenzt die Facebook-Beiträge von Ihrer Landingpage auf die Hauptnachricht und den Link.
 
@@ -54,13 +54,13 @@ Sie können die Arten von Seiteninformationen angeben, die in den Facebook-Rich-
 
 Um die Seitenelemente zu steuern, die in den Facebook-Teilen Ihrer Landingpage enthalten sein werden, können Sie Ihrer Landingpage Facebook OG-Tags (Open Graph) für Titel, Beschriftung und Beschreibung hinzufügen.
 
-1. Öffnen Sie die Landingpage, die Ihr **YouTube-Video** oder Ihre Social-Schaltfläche enthält.
+1. Öffnen Sie die Landingpage, die die Schaltfläche **YouTube video** oder social enthält.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Der **Landingpages-Designer** wird in einem neuen Fenster geöffnet.
+   Der Designer **Landingpage** wird in einem neuen Fenster geöffnet.
 
-1. Wählen Sie &quot; **Landingpages-Aktionen** &quot;> &quot;Seitenmeta-Tags **bearbeiten*****.**.*
+1. Wählen Sie **Landingpages-Aktionen** > **Seitenmeta-Tags bearbeiten******.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
