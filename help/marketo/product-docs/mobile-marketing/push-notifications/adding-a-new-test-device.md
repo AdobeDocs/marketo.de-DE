@@ -19,7 +19,7 @@ Es ist einfach, ein neues Testgerät hinzuzufügen, an das Push-Benachrichtigung
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie auf **Admin **und dann auf den Link **Mobile Apps** .\
+1. Klicken Sie auf **Admin **und dann auf den Link **Mobile Apps**.\
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Klicken Sie auf die Registerkarte **Testgeräte** und **Neues Testgerät**.
