@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Predictive Content für Web Rich Media aktivieren {#enable-predictive-content-for-web-rich-media}
+# Predictive Content für Web Rich Media {#enable-predictive-content-for-web-rich-media} aktivieren
 
 Predictive Content bindet Ihre Web-Besucher mit den relevantesten Inhalten, basierend auf maschinellem Lernen und prädiktiven Analysen. Mit Web Rich Media können Sie Ihren Inhalt mit Textbeschreibungen und Bildern verbessern und mehrere Empfehlungen für den prädiktiven Inhalt in Ihre Website einbetten.
 
@@ -28,21 +28,21 @@ Predictive Content bindet Ihre Web-Besucher mit den relevantesten Inhalten, basi
 
 Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorbereitet haben, können Sie einzelne oder mehrere Inhaltselemente aktivieren.
 
-1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie auf Rich Media, aktivieren Sie das Kontrollkästchen **Aktiviert für Predictive Content in Rich Media** und klicken Sie auf **Speichern**.
+1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie auf Rich Media, markieren Sie dann das Feld **Aktiviert für Predictive Content in Rich Media** und klicken Sie auf **Speichern**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Aktivieren Sie für mehrere Inhaltselemente auf der Seite &quot; **Prognostizierender Inhalt** &quot;die Kontrollkästchen neben dem/den Titeln.
+1. Aktivieren Sie für mehrere Inhaltselemente auf der Seite **Prognostischer Inhalt** die Kontrollkästchen neben dem/den Titeln.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Für Web-Rich-Medien** aktivieren.
+1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Für Web-Rich-Media** aktivieren.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
+## Anpassen des JavaScript-Codes und Einbetten in Ihre Website {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Rich Media Recommendation-Vorlage [auf der Marketing Developers-Website.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Dies erklärt, wie Sie die Vorlage für Ihre Website anpassen.
+Lesen Sie die Dokumentation für die Rich Media Recommendation-Vorlage [auf der Marketing Developers-Website.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Dies erklärt, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle auf Ihrer Website ein, an der die Vorlage angezeigt werden soll.
 
