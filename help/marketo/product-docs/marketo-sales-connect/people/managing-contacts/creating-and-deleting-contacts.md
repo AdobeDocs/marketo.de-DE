@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Erstellen von Kontakten {#creating-contacts}
 
-1. Klicken Sie auf der Seite &quot;Personen&quot;auf die Schaltfläche &quot; **Gruppenaktionen** &quot;und wählen Sie &quot;Kontakt **erstellen&quot;**.
+1. Klicken Sie auf der Seite &quot;Personen&quot;auf die Schaltfläche **Gruppenaktionen** und wählen Sie **Kontakt erstellen**.
 
    ![](assets/one-2.png)
 
-1. Geben Sie den Vor-/Nachnamen und die E-Mail-Adresse sowie weitere Informationen ein, die Sie benötigen. Klicken Sie auf Nach Abschluss **erstellen** oder auf **Erstellen und Hinzufügen Neu** , um weitere Kontakte hinzuzufügen.
+1. Geben Sie den Vor-/Nachnamen und die E-Mail-Adresse sowie weitere Informationen ein, die Sie benötigen. Klicken Sie nach Abschluss auf **Erstellen** oder **Erstellen und Hinzufügen Neu**, um weitere Kontakte hinzuzufügen.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Möchten Sie mehrere Kontakte gleichzeitig hinzufügen? [Klicken Sie hier](http://docs.marketo.com/x/VADb) , um zu erfahren, wie Sie Kontakte per CSV importieren.
+   >Möchten Sie mehrere Kontakte gleichzeitig hinzufügen? [Klicken Sie ](http://docs.marketo.com/x/VADb) hier, um zu erfahren, wie Sie Kontakte per CSV importieren.
 
 ## Löschen von Kontakten {#deleting-contacts}
 
