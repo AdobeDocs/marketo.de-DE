@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Preisausschreiben erstellen {#create-sweepstakes}
+# Gewinnspiele erstellen {#create-sweepstakes}
 
 Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen, weil sie ihren Freunden etwas über Sie sagen. Sie können sie auf Landingpages, auf Ihrer Website und sogar auf Facebook ablegen.
 
@@ -21,7 +21,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-1. Wählen Sie in Ihrem Programm &quot; **Neu&quot;> &quot;Neues lokales Asset**&quot;.
+1. Wählen Sie im Programm **Neu > Neues lokales Element**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
@@ -35,7 +35,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
 
    >[!TIP]
    >
-   >Um Zeit zu sparen, können Sie mit der Option &quot; **Klonen von** &quot;alle Einstellungen aus einem vorhandenen Gewinnspiel kopieren.
+   >Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einem vorhandenen Gewinnspiel kopieren.
 
 1. Klicken Sie auf **Preisausschreiben** **Details**.
 
@@ -49,7 +49,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
    >
    >Für tägliche und wöchentliche Zeichnungen werden die Beginn- und Endzeiten jeweils um 12.00 Uhr bzw. 23.59 Uhr festgelegt. Für eine einmalige Zeichnung können Sie Ihre eigenen Beginn- und Endzeiten auswählen.
 
-1. Klicken Sie auf **Erweiterte** **Optionen**.
+1. Klicken Sie auf **Erweitert** **Optionen**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -61,9 +61,9 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
 
    >[!NOTE]
    >
-   >In diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihrer Datenschutzrichtlinien für eine Social-App](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >In diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihre Datenschutzrichtlinien auf eine Social-App](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
@@ -73,7 +73,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
 
    >[!TIP]
    >
-   >Um die Standardwerte in Ihrem Gewinnspiel zu ändern, klicken Sie auf **Zurück**. Klicken Sie auf **Schließen**, um Ihre Arbeit später ohne Genehmigung zu speichern.
+   >Um die Standardwerte in Ihrem Gewinnspiel zu ändern, klicken Sie auf **Zurück**. Um Ihre Arbeit für später ohne Genehmigung zu speichern, klicken Sie auf **Schließen**.
 
    Herzlichen Glückwunsch! Sie haben einen Preisausschreiben veranstaltet.
 
@@ -81,6 +81,6 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
    >
    >**Verwandte Artikel**
    >
-   >Der nächste Schritt besteht darin, Ihre Gewinnspiele zu [veröffentlichen](publish-a-sweepstakes.md). Sie können jedoch das Aussehen und die Einstellungen Ihrer Gewinnspiele ändern. Beginn mit der [Anpassung Ihrer Gewinnspielstile](customize-sweepstakes-styles.md).
+   >Der nächste Schritt ist [Veröffentlichen Sie Ihre Gewinnspiele](publish-a-sweepstakes.md), aber Sie können das Aussehen und die Einstellungen Ihrer Gewinnspiele ändern. Beginn mit [Anpassen der Gewinnspielstile](customize-sweepstakes-styles.md).
 
 Der Gewinnspiel-Editor wird in einem neuen Fenster geöffnet. Die Standardeinstellungen sind alle gut, aber Sie müssen noch einige Details konfigurieren. Wir zeigen Ihnen, wie Sie in den nächsten Schritten vorgehen.                    Wenn es Probleme im Gewinnspiel gibt, werden Sie aufgefordert, diese zu beheben, bevor der Gewinnspiel genehmigt wird.
