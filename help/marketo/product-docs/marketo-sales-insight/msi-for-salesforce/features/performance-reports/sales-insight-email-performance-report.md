@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ansicht der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder ein Gmail- oder Outlook-Plugin gesendet werden.
 
-## Bericht erstellen {#generate-a-report}
+## Erstellen eines Berichts {#generate-a-report}
 
 1. Klicken Sie auf **Analytics**.
 
@@ -25,11 +25,11 @@ Ansicht der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder 
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** und wählen Sie die gewünschten Werte aus.
+1. Klicken Sie auf die Registerkarte **Setup** und wählen Sie die gewünschten Werte aus.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht** .
+1. Klicken Sie auf die Registerkarte **Bericht**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -51,7 +51,7 @@ Sie können diesen Bericht nach Vertriebsmitarbeiter gruppieren, indem Sie Ihre 
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Wählen Sie E-Mails nach **Vertriebsmitarbeiter** gruppieren.
+1. Wählen Sie Gruppe-E-Mails nach **Vertriebsmitarbeiter**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,7 +59,7 @@ Sie können diesen Bericht nach Vertriebsmitarbeiter gruppieren, indem Sie Ihre 
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht** .
+1. Klicken Sie auf die Registerkarte **Bericht**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
