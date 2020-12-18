@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn sich im Ordner &quot;Fehlgeschlagener Versand&quot;eine E-Mail mit der Meldung &quot;Kampagne ist beendet&quot;befindet, bedeutet dies, dass es sich bei dieser E-Mail um eine geplante E-Mail in Ihrer Kampagne handelt.
 
-## Mögliche Gründe für das Fehlschlagen {#possible-reasons-it-failed}
+## Mögliche Gründe für das Fehlschlagen von {#possible-reasons-it-failed}
 
 * Die E-Mail vor dem Absprung
 * Ein Kontakt antwortete und beendete die Kampagne
