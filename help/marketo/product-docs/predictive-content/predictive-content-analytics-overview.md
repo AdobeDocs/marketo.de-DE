@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über Predictive Content Analytics {#predictive-content-analytics-overview}
+# Predictive Content Analytics-Übersicht {#predictive-content-analytics-overview}
 
 Nutzen Sie die Inhaltsanalyse, um weitere Einblicke in Ihre vorhandenen Inhalte zu erhalten, zu erfahren (basierend auf AI- und Prognosealgorithmen), welche Inhalte für Ihre Audiencen funktionieren, und den ROI Ihrer Marketingbemühungen zu erhöhen.
 
@@ -45,7 +45,7 @@ Klicken Sie auf das Kalendersymbol, um die Daten der reflektierten Daten zu änd
 
 ![](assets/dates.png)
 
-## Wichtigste Inhalte nach Ansichten {#top-content-by-views}
+## Top-Inhalt nach Ansichten {#top-content-by-views}
 
 Zeigt die wichtigsten Inhaltselemente nach Anzahl der Ansichten pro Datumsbereich an.
 
