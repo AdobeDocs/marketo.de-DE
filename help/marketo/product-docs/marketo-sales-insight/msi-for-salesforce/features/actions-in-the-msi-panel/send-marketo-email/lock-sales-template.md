@@ -19,7 +19,7 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 >
 >Diese Funktion funktioniert nur für Salesforce und ist nicht mit Microsoft Dynamics oder anderen CRMs kompatibel. Vorlagen, auf die über die Outlook- oder Gmail-Plugins zugegriffen wird, werden nicht gesperrt, da der Editor nicht von Marketo gesteuert wird.
 
-## Vorlage sperren {#enable-lock-template}
+## Vorlage sperren {#enable-lock-template} aktivieren
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 
    ![](assets/2.png)
 
-1. Aktivieren Sie die Option **Fähigkeit zum Sperren von Vorlagen** aktivieren. Klicken Sie auf **Speichern**.
+1. Aktivieren Sie **Aktivieren Sie die Möglichkeit, Vorlagen zu sperren**. Klicken Sie auf **Speichern**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,11 +43,11 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 
 >[!NOTE]
 >
->Eine Änderung dieser Einstellung als Administrator hat **keine** rückwirkenden Auswirkungen auf vorhandene Vorlagen. Das heißt, sie werden nicht automatisch gesperrt.
+>Wenn Sie diese Einstellung als Admin ändern, wirken sich **nicht** rückwirkend auf vorhandene Vorlagen aus. Das heißt, sie werden nicht automatisch gesperrt.
 
 ## Vorlage im E-Mail-Editor sperren {#lock-template-in-the-email-editor}
 
-1. Wählen Sie die E-Mail, die Sie sperren möchten, und klicken Sie dann auf Entwurf **bearbeiten**.
+1. Wählen Sie die E-Mail aus, die Sie sperren möchten, und klicken Sie dann auf **Entwurf bearbeiten**.
 
    ![](assets/5.png)
 
@@ -55,7 +55,7 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 
    ![](assets/6.png)
 
-1. Markieren Sie **Auf Marketing Publish Sales Insight** veröffentlichen, wenn es nicht bereits markiert ist. Sie können jetzt die Option **CRM-Benutzer zum Bearbeiten von E-Mails** zulassen deaktivieren, um die Vorlage zu sperren. Klicken Sie auf **Speichern**.
+1. Markieren Sie **In Marketing Sales Insight veröffentlichen**, wenn dies noch nicht überprüft wurde. Sie können jetzt **CRM-Benutzer darf E-Mail** bearbeiten, um die Vorlage zu sperren. Klicken Sie auf **Speichern**.
 
    ![](assets/7.png)
 
