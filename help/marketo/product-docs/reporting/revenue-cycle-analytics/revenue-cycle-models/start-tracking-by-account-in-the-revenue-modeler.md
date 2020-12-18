@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# Beginn-Rückverfolgung nach Konto im Umsatzmodell {#start-tracking-by-account-in-the-revenue-modeler}
+# Beginn-Verfolgung nach Konto im Umsatzmodell {#start-tracking-by-account-in-the-revenue-modeler}
 
 Mit dem Umsatzstufenmodell und dem Umsatz-Explorer erhalten Sie einen Einblick in die Leistung Ihrer Leads und Konten, während sie durch Ihr Modell fortschreiten.
 
 >[!NOTE]
 >
->Vergewissern Sie sich, dass Ihr genehmigtes Modell Stufen auf dem Erfolgspfad aufweist, wobei die **Beginn-Verfolgung nach Konto** aktiviert ist.
+>Vergewissern Sie sich, dass Ihr genehmigtes Modell mit aktivierter Option **Beginn-Verfolgung nach Konto** Stufen auf dem Erfolgspfad aufweist.
 
-1. Nachdem genügend Zeit vergangen ist, um nützliche Daten zu erfassen, wählen Sie **Umsatz-Explorer** unter &quot; **Mein Markt zu Hause**&quot;.
+1. Nachdem genügend Zeit vergangen ist, um nützliche Daten zu erfassen, wählen Sie **Umsatz-Explorer** unter **Meine Marke zu Home**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Um einen neuen Bericht zu erstellen, klicken Sie auf **Datei** und wählen Sie **Neu** und dann **Bericht**.
+1. Um einen neuen Bericht zu erstellen, klicken Sie auf **Datei** und wählen Sie **Neu** dann **Bericht**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Wählen Sie im Bereich &quot;Analyse&quot;die Option &quot; **Modellleistung (Firmen)** &quot;und klicken Sie auf &quot; **OK&quot;**.
+1. Wählen Sie **Analyse der Modellleistung (Firmen)** als Bereich &quot;Analyse&quot;und klicken Sie auf **OK**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Es wird empfohlen, die **Felder &quot;Phase**&quot;, &quot; **Monat**&quot;und &quot; **Ende des Gleichgewichts** &quot;zu ziehen, um Ihnen den Verlauf der Firmen pro Monat anzuzeigen. Verwenden Sie Filter, um die gewünschten Monate auszuwählen.
+1. Es wird empfohlen, die Felder **Stage**, **Monat** und **Endsaldo** zu ziehen, um den Verlauf der Firmen durch Ihr Modell nach Monaten anzuzeigen. Verwenden Sie Filter, um die gewünschten Monate auszuwählen.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Wenn Sie mit der Einrichtung des Berichts fertig sind, klicken Sie mit der rechten Maustaste auf **Ist verfolgte Firma** und wählen Sie **Filter**. Wir verwenden dies, um den Bericht auf die Stufen zu beschränken, in denen die **Verfolgung nach Konto** ausgewählt ist.
+1. Wenn Sie mit der Einrichtung Ihres Berichts fertig sind, klicken Sie mit der rechten Maustaste auf **Ist die Firma** verfolgen und wählen Sie **Filter**. Wir verwenden dies, um den Bericht auf Phasen zu beschränken, in denen **Verfolgung nach Konto** ausgewählt ist.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. Wählen Sie im angezeigten Dialogfeld &quot;Ja&quot;und klicken Sie auf den Pfeil mit der rechten Maustaste in der Mitte. Dadurch werden nur die Phasen gefiltert, für die &quot;Verfolgung nach Konto&quot;aktiviert ist. Klicken Sie auf **OK** , wenn Sie fertig sind.
+1. Wählen Sie im angezeigten Dialogfeld &quot;Ja&quot;und klicken Sie auf den Pfeil mit der rechten Maustaste in der Mitte. Dadurch werden nur die Phasen gefiltert, für die &quot;Verfolgung nach Konto&quot;aktiviert ist. Klicken Sie auf **OK**, wenn Sie fertig sind.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
