@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Danksagungsseite für ein Formular festlegen {#set-a-form-thank-you-page}
+# Formulardankseite {#set-a-form-thank-you-page} festlegen
 
 Was passiert, wenn jemand ein Formular ausfüllt? An wen werden sie weitergeleitet? So konfigurieren Sie es.
 
 ## Formular bearbeiten {#edit-form}
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf &quot;Formular **bearbeiten&quot;**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Klicken Sie unter **Formulareigenschaften** auf **Einstellungen** **Einstellungen**.
+1. Klicken Sie unter **Formular** **Einstellungen** auf **Einstellungen**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Blättern Sie nach unten zum Abschnitt **Danksagungsseite** **Sie** **Seite** .
+1. Blättern Sie nach unten zum Abschnitt **Vielen Dank** **Sie** **Seite**.
 
-## Auf Seite bleiben {#stay-on-page}
+## Auf Seite {#stay-on-page} bleiben
 
 Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher beim Senden des Formulars auf derselben Seite.
 
-1. Wählen Sie **Auf** der **** Seite **bleiben** für **Follow** -up **** **** With.
+1. Wählen Sie **Bleiben** **Ein** **Seite** für **Folgen** **Auf** **Mit**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher beim Senden des 
 
 Mit der Einstellung &quot;Externe URL&quot;können Sie eine beliebige URL als Folgeseite definieren. Sobald der Benutzer das Formular gesendet hat, wird er an die angegebene URL weitergeleitet.
 
-1. Wählen Sie **Externe** **URL** für die **Weiterverfolgung** **nach** **mit**.
+1. Wählen Sie **External** **URL** für **Folgen** **Nach** **Mit**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -59,7 +59,7 @@ Mit der Einstellung &quot;Externe URL&quot;können Sie eine beliebige URL als Fo
 
 Sie können eine beliebige genehmigte Marketing-Landingpage als Folgeaktion auswählen.
 
-1. Legen Sie **Follow-up mit** auf **Landingpage** fest.
+1. Setzen Sie **Follow-up mit** auf **Landingpage**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -91,7 +91,7 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Wählen Sie die entsprechende Seite für **Follow** - **Up** - **Typ** .
+1. Wählen Sie die entsprechende Seite für **Nach** **Nach** Nach **Typ**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -106,7 +106,7 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
    >
    >Sie müssen diese Landingpages zuvor erstellt/genehmigt haben.
 
-1. Klicken Sie auf das **+** -Zeichen, um eine andere Auswahl hinzuzufügen.
+1. Klicken Sie auf das Symbol **+**, um eine andere Auswahl hinzuzufügen.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
@@ -134,7 +134,7 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
