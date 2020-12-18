@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Formularfelder erforderlich machen {#make-a-form-field-required}
+# Formularfeld erforderlich machen {#make-a-form-field-required}
 
-Beim [Hinzufügen von Feldern zu einem Formular](add-a-field-to-a-form.md) sollten Sie einige davon als erforderlich festlegen, damit die ausgefüllte Person sie ausfüllen kann. So geht es.
+Wenn Sie [Felder zu einem Formular](add-a-field-to-a-form.md) hinzufügen, müssen Sie eventuell einige dieser Felder für die ausgefüllte Person erforderlich machen. So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/editform-2.png)
 
@@ -27,7 +27,7 @@ Beim [Hinzufügen von Feldern zu einem Formular](add-a-field-to-a-form.md) sollt
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Gut gemacht! Klicken Sie auf **Fertig stellen**.
+1. Gut gemacht! Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
@@ -39,6 +39,6 @@ Beim [Hinzufügen von Feldern zu einem Formular](add-a-field-to-a-form.md) sollt
 >
 >**Erinnerung**
 >
->Vergessen Sie nicht, Landingpages [zu](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) genehmigen, die in diesem Formular gespeichert sind, damit die Änderungen live gehen.
+>Vergessen Sie nicht, [Landingpages](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, damit die Änderungen live gehen.
 
-Müssen Sie die Felder, die Sie Ihrem Formular [hinzugefügt haben,](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)neu anordnen?
+Müssen Sie die Felder, die Sie Ihrem Formular hinzugefügt haben, [neu anordnen?](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
