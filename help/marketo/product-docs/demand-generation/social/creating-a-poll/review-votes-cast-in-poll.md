@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Abstimmungen bei Umfrage überprüfen {#review-votes-cast-in-poll}
+# Abstimmungen bei Umfrage {#review-votes-cast-in-poll}
 
 Wer hat für was in Ihrer Umfrage gestimmt? Lasst uns das herausfinden.
 
-1. Wählen Sie in den **Marketing-Aktivitäten** die Umfrage aus und klicken Sie auf die Registerkarte &quot; **Teilnehmer** &quot;.
+1. Wählen Sie unter **Marketing-Aktivitäten** die Umfrage aus und klicken Sie auf die Registerkarte **Teilnehmer**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Klicken Sie auf die Zahl in der Spalte **Abstimmungen** .
+1. Klicken Sie auf die Zahl in der Spalte **Stimmen**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -32,5 +32,5 @@ Wer hat für was in Ihrer Umfrage gestimmt? Lasst uns das herausfinden.
    >**Verwandte Artikel**
    >
    >
-   >Erfahren Sie mehr über die soziale Reichweite und die Auswirkungen Ihrer Apps in [Ansicht Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Weitere Informationen zur sozialen Reichweite und zu den Auswirkungen Ihrer Apps finden Sie unter [Ansicht Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
