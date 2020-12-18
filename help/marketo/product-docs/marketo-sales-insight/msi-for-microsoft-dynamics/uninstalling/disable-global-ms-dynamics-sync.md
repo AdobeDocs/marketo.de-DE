@@ -23,11 +23,11 @@ Führen Sie diese einfachen Schritte aus, um die MS Dynamics Synchronisierung zu
 
    ![](assets/two.png)
 
-1. Klicken Sie auf Synchronisierung **deaktivieren**.
+1. Klicken Sie auf **Synchronisierung deaktivieren**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Wenn in Ihrer Instanz keine Schaltfläche zum Deaktivieren der Synchronisierung angezeigt wird, wenden Sie sich bitte an [den Support](http://nation.marketo.com/community/support_solutions)von Marketing.
+   >Wenn in Ihrer Instanz keine Schaltfläche zum Deaktivieren der Synchronisierung angezeigt wird, wenden Sie sich bitte an [MarketingToSupport](http://nation.marketo.com/community/support_solutions).
 
