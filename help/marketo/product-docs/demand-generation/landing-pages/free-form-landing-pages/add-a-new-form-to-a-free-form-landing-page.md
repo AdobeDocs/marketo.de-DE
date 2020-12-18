@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen eines neuen Formulars in eine Freiform-Landingpage {#add-a-new-form-to-a-free-form-landing-page}
+# hinzufügen eines neuen Formulars an eine Freiform-Landingpage {#add-a-new-form-to-a-free-form-landing-page}
 
 Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
@@ -24,15 +24,15 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
 
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Suchen Sie nach Ihrer Landingpage und klicken Sie auf **Bearbeiten** des **Entwurfs**.
+1. Suchen Sie Ihre Landingpage und klicken Sie auf **Bearbeiten** **Entwurf**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Ziehen Sie das **Formularelement** per Drag &amp; Drop auf die Seite.
+1. Ziehen Sie das Element **Form** auf die Seite.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -42,7 +42,7 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
 1. Sie haben drei Optionen bei der Auswahl Ihrer Folgeseite:
 
-   * **Landingpage** - zur Auswahl einer Marketing-Landingpage
+   * **Landingpage**  - zur Auswahl einer Marketing-Landingpage
    * **Externe**** URL** - zur Auswahl der gewünschten URL
 
    * **Form**** Definiert** - zur Verwendung der auf Formularebene definierten Einstellungen
