@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Formular in einem Leuchtkasten verwenden {#use-a-form-in-a-lightbox}
+# Formular in einem Leuchtkasten {#use-a-form-in-a-lightbox} verwenden
 
 Ein Leuchtkasten ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ Ein Leuchtkasten ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Klicken Sie unter &quot; **Formularaktionen** &quot; **auf**&quot; **Code einbetten** ****&quot;.
+1. Klicken Sie unter **Formular** **Aktionen** auf **Einbetten** **Code**.
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ Ein Leuchtkasten ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Legen Sie **Code** - **Typ** auf **Lightbox** fest.
+1. Stellen Sie **Code** **Typ** auf **Leuchtkasten** ein.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
