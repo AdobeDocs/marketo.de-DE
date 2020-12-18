@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Berichttyp-Übersicht {#report-type-overview}
+# Übersicht über den Berichtstyp {#report-type-overview}
 
-Wählen Sie beim [Erstellen eines Berichts in einem Programm](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)den gewünschten Berichtstyp.
+Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) erstellen, wählen Sie den gewünschten Berichtstyp.
 
 ## Am häufigsten verwendete Berichte {#most-used-reports}
 
@@ -47,7 +47,7 @@ Wählen Sie beim [Erstellen eines Berichts in einem Programm](../../../../produc
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht "Personen nach Umsatzstufe"</a>  </strong></td> 
-   <td>Grundlegender Berichte für Ihr <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzmodell</a>. Weitere Berichte finden Sie unter <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzzyklusanalysen</a> .</td> 
+   <td>Grundlegender Berichte für Ihr <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzmodell</a>. Weitere Berichte finden Sie unter <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Leistung der Landingpage</a>  </strong></td> 
@@ -55,7 +55,7 @@ Wählen Sie beim [Erstellen eines Berichts in einem Programm](../../../../produc
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programm-Performance</a>  </strong></td> 
-   <td>Grundlegende Programm-Metriken wie Member und success. Weitere Berichte finden Sie unter <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzzyklusanalysen</a> .</td> 
+   <td>Grundlegende Programm-Metriken wie Member und success. Weitere Berichte finden Sie unter <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Firma Web Aktivität</a>  </strong></td> 
@@ -71,7 +71,7 @@ Wählen Sie beim [Erstellen eines Berichts in einem Programm](../../../../produc
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Interaktions-Stream-Leistungsbericht</a> </strong></td> 
-   <td><p>Erfahren Sie, wie gut Ihr <a href="http://docs.marketo.com/display/docs/drip+nurturing">Interaktions-Programm</a> funktioniert.</p></td> 
+   <td><p>Sehen Sie, wie gut Ihr <a href="http://docs.marketo.com/display/docs/drip+nurturing">Programm für Interaktionen</a> funktioniert.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -82,12 +82,12 @@ Nicht so nützlich wie die obigen Berichtstypen, aber trotzdem verfügbar.
 
 | Bericht | Beschreibung |
 |---|---|
-| ** Aktivität [der Kampagne](campaign-activity-report.md) ** | Verarbeitungsstatistiken für intelligente Kampagnen. |
+| ** [Aktivität der Kampagne](campaign-activity-report.md) ** | Verarbeitungsstatistiken für intelligente Kampagnen. |
 | ** [Kampagne E-Mail-Leistung](campaign-email-performance-report.md) ** | E-Mail-Leistung, gruppiert nach Smart-Kampagnen. |
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
->Sehen Sie sich den [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) Deep Dive an, um alles zu sehen, was Sie mit diesen Berichten machen können.
+>Informationen zu allen möglichen Vorgängen in diesen Berichten finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) Tiefgang.
 
