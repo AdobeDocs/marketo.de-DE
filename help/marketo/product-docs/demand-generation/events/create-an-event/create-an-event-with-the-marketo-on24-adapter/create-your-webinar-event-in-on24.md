@@ -27,7 +27,7 @@ Es gibt bestimmte Einstellungen bei der Erstellung Ihres ON24-Webinars, die von 
 * Live-Ereignis-Beginn - Das Datum und die Uhrzeit des Beginns. Dies wird in Marketo sichtbar sein.
 * Live-Endzeit - Enddatum und -zeit. Dies wird in Marketo sichtbar sein.
 
-Als Nächstes müssen Sie ein Ereignis in Marketo [erstellen](create-an-event-in-marketo.md).
+Der nächste Schritt ist [ein Ereignis in Marketo](create-an-event-in-marketo.md) zu erstellen.
 
 >[!MORELIKETHIS]
 >
