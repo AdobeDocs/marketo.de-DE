@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Definieren einer intelligenten Liste für Predictive Content-Aktivitäten {#define-a-smart-list-for-predictive-content-activities}
+# Definieren Sie eine intelligente Liste für Aktivitäten mit prognostiziertem Inhalt {#define-a-smart-list-for-predictive-content-activities}
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
-Sie können Aktivitäten mit vorhersehbarem Inhalt in Auslösern und Filtern verwenden, wenn Sie eine intelligente Liste in einer intelligenten Kampagne definieren. Sie können eine Aktion für jeden auslösen, der auf vorhersagenden Inhalt klickt, über die Vorlage [für](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)Rich Media, die [Inhaltsempfehlung-Leiste](enabling-predictive-content/enable-the-content-recommendation-bar.md)oder in einer E-Mail.
+Sie können Aktivitäten mit vorhersehbarem Inhalt in Auslösern und Filtern verwenden, wenn Sie eine intelligente Liste in einer intelligenten Kampagne definieren. Sie können eine Aktion für jeden auslösen, der auf prognostizierenden Inhalt klickt, entweder über die [Rich Media-Vorlage](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), die [Content-Empfehlungsleiste](enabling-predictive-content/enable-the-content-recommendation-bar.md) oder in einer E-Mail.
 
-1. Navigieren Sie in Ihrer intelligenten Kampagne zur Registerkarte &quot; **Intelligente Liste** &quot;.
+1. Navigieren Sie in Ihrer intelligenten Kampagne zur Registerkarte **Intelligente Liste**.
 
    ![](assets/smart-list-1.png)
 
@@ -28,7 +28,7 @@ Sie können Aktivitäten mit vorhersehbarem Inhalt in Auslösern und Filtern ver
    >**Tieftauchen**
    >
    >
-   >Intelligente Listen können erstaunliche Dinge tun. Erfahren Sie mehr in der [cleveren Liste Deep Dive](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Intelligente Listen können erstaunliche Dinge tun. Weitere Informationen finden Sie unter [smart Liste Deep Dive](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Suchen Sie nach dem Auslöser und ziehen Sie ihn per Drag &amp; Drop auf die Arbeitsfläche.
 
@@ -46,7 +46,7 @@ Sie können Aktivitäten mit vorhersehbarem Inhalt in Auslösern und Filtern ver
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. hinzufügen die **Typbeschränkung** .
+1. hinzufügen Sie die Beschränkung **Typ**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
