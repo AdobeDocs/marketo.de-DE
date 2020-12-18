@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Google Mail zieht keine Vertriebsverbindung ein {#gmail-not-pulling-in-sales-connect-signature}
+# Google Mail zieht nicht in Verkaufsverbindung Signatur {#gmail-not-pulling-in-sales-connect-signature}
 
-Wir verwenden Ihre Gmail-Signatur in Gmail, anstatt Ihre [Sales Connect-Signatur](http://toutapp.com/next#settings)einzufügen.
+Wir verwenden Ihre Gmail-Signatur in Gmail, anstatt Ihre [Sales Connect-Signatur](http://toutapp.com/next#settings) einzufügen.
 
-Sie können Ihre Unterschrift in Gmail [hier](http://mail.google.com/mail/u/0/#settings/general)bearbeiten.
+Sie können Ihre Unterschrift in Gmail [hier](http://mail.google.com/mail/u/0/#settings/general) bearbeiten.
