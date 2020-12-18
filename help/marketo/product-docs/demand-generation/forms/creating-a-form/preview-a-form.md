@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfachen Formularvorschau anzeigen.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,15 +23,15 @@ Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfa
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Klicken Sie unter &quot; **Formularaktionen** &quot; **auf** Vorschau ****.
+1. Klicken Sie unter **Form** **Aktionen** auf **Vorschau**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. Der Formulareditor wird im **Vorschau** -Modus geöffnet.
+1. Der Formulareditor wird im Modus **Vorschau** geöffnet.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Klicken Sie auf **Bearbeiten** des **Entwurfs** , um zum **Bearbeitungsmodus** zurückzukehren.
+1. Klicken Sie auf **Bearbeiten** **Entwurf**, um zum Modus **Bearbeiten** zurückzukehren.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -40,9 +40,9 @@ Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfa
    >**Tieftauchen**
    >
    >
-   >Weitere Informationen zu [Formularen](http://docs.marketo.com/display/docs/forms).
+   >Erfahren Sie mehr über [Formulare](http://docs.marketo.com/display/docs/forms).
 
-1. Durch Klicken auf **Vorschau** **Draft** können Sie ganz einfach zurückkehren.
+1. Klicken Sie einfach zurück, indem Sie auf **Vorschau** **Entwurf** klicken.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
