@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# In-App-Nachricht planen {#schedule-your-in-app-message}
+# Planen Ihrer In-App-Nachricht {#schedule-your-in-app-message}
 
 Senden Sie Ihre Nachricht jetzt oder planen Sie sie später.
 
-1. Um eine In-App-Nachricht zu planen, wählen Sie &quot;Zukünftiges Datum **festlegen&quot;** und wählen Sie im Dropdownkalender ein Beginn-Datum aus.
+1. Um eine In-App-Nachricht zu planen, wählen Sie **Zukünftiges Datum** aus und wählen Sie ein Beginn aus dem Dropdownkalender.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,8 +27,8 @@ Senden Sie Ihre Nachricht jetzt oder planen Sie sie später.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Um das Programm jetzt auszuführen, wählen Sie &quot;Sofort **ausführen&quot;**. Die Felder &quot;Beginn-Datum&quot;werden ausgeblendet.
+1. Oder wählen Sie **Sofort ausführen**, um das Programm jetzt auszuführen. Die Felder &quot;Beginn-Datum&quot;werden ausgeblendet.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Einfach! Nicht zuletzt der [Genehmigungsschritt](approve-your-in-app-message.md) .
+Einfach! Last but not least ist der Schritt [Approval](approve-your-in-app-message.md).
