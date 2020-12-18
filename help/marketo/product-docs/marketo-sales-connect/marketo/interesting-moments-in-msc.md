@@ -19,7 +19,7 @@ Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebste
 >
 >**Verfügbarkeit**
 >
->Diese sind nur für [Marketo Sales Insight](http://docs.marketo.com/x/2Akt) - und Marketo Sales Connect-Kunden verfügbar.
+>Diese sind nur für [Marketing Sales Insight](http://docs.marketo.com/x/2Akt)- und Marketing Sales Connect-Kunden verfügbar.
 
 ## Was ist ein interessanter Moment?  {#what-is-an-interesting-moment}
 
@@ -31,19 +31,19 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
 ## Wie erstelle ich einen interessanten Moment? {#how-do-i-create-an-interesting-moment}
 
-1. Wählen Sie eine [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart Kampagne](http://docs.marketo.com/display/docs/smart+campaigns), vorzugsweise eine Ihrem Vertriebsteam interessant, wenn sie ausgelöst wird.
+1. Wählen Sie eine [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart-Kampagne](http://docs.marketo.com/display/docs/smart+campaigns), vorzugsweise eine, die Ihr Vertriebsteam bei Auslösung interessant finden würde.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Ziehen Sie den Mauszeiger über den Flussschritt **für interessante Momente** .
+1. Ziehen Sie über den Flussschritt **Interessante Momente**.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Wählen Sie einen **Typ** aus (E-Mail, Meilenstein oder Web).
+1. Wählen Sie einen **Typ** (E-Mail, Meilenstein oder Web).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **Beschreibung** , die erklärt, warum diese Aktion wichtig ist.
+1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **Beschreibung**, die erklärt, warum diese Aktion wichtig ist.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -53,7 +53,7 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
 ## Wie sieht ein interessanter Moment in Marketo aus?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interessante Momente werden im [Interessentenprotokoll](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)angezeigt.
+Interessante Momente werden in einem [Interessenten-Aktivität-Protokoll](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) angezeigt.
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
