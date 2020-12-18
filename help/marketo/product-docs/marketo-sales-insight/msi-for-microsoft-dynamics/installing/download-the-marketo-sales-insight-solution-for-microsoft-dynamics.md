@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Laden Sie die Marketing Sales Insight-Lösung für Microsoft Dynamics herunter {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Laden Sie die Marketing Sales Insight-Lösung für Microsoft Dynamics herunter. {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Um die Synchronisierung zu starten, müssen Sie eine Marketing Solution für Sales Insight in Ihr Microsoft Dynamics-Konto herunterladen und installieren.
 
-1. Gehen Sie zum **Admin** -Bereich.
+1. Gehen Sie zum Bereich **Admin**.
 
    ![](assets/mainnavhand.png)
 
@@ -31,7 +31,7 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketing Solution für Sal
 
    ![](assets/image2016-5-3.png)
 
-1. Wählen Sie Marketing- **Lösung** herunterladen.
+1. Wählen Sie **Marketing-Lösung herunterladen**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
