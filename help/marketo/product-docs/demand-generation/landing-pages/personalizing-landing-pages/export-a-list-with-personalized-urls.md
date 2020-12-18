@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Listen mit personalisierten URLs exportieren {#export-a-list-with-personalized-urls}
+# Listen mit personalisierten URLs {#export-a-list-with-personalized-urls} exportieren
 
 >[!PREREQUISITES]
 >
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 
 
-1. Wählen Sie Ihre Liste oder intelligente Liste aus, klicken Sie auf die Registerkarte **Interessenten** , um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. INLINE Vergewissern Sie sich, dass die **Spalten **Marketo Unique Code **und** Marketo Unique Name [sichtbar](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)sind.
+1. Wählen Sie Ihre Liste oder intelligente Liste aus, klicken Sie auf die Registerkarte **Interessenten**, um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. INLINE Vergewissern Sie sich, dass Sie über **Marketo Unique Code **und **Marketo Unique Name** [Spalten verfügen, die sichtbar sind](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Markieren Sie **Personalisierte URL** einschließen, suchen Sie die Landingpage, für die Sie PURLs generieren möchten, und wählen Sie sie aus.
+1. Markieren Sie **Personalisierte URL einschließen**, suchen Sie die Landingpage, für die Sie PURLs generieren möchten, und wählen Sie sie aus.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. Wählen Sie die **URL** aus.
+1. Wählen Sie **URL**.
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >
    >Wenn Sie mehrere URLs für dieselbe Landingpage sehen, ist dies wahrscheinlich darauf zurückzuführen, dass Sie die Seiten-URL zu einem früheren Zeitpunkt geändert und eine Umleitung erstellt haben.
 
-1. Wählen Sie einen **Stil** und klicken Sie auf **Exportieren**.
+1. Wählen Sie einen **Stil** und klicken Sie auf **Export**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. Wenn der Export abgeschlossen ist, klicken Sie auf den Link Jetzt **herunterladen** , um die Datei zu speichern.
+1. Nach Abschluss des Exports klicken Sie auf den Link **Jetzt herunterladen**, um die Datei zu speichern.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
