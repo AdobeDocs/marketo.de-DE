@@ -17,7 +17,7 @@ Freiform-Landingpages können als lokale Assets eines Programms oder in Design S
 
 >[!NOTE]
 >
->Landingpages werden durch ihre Vorlage definiert. [Erfahren Sie mehr](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) über die Vorlagen für freie und geführte Landingpages.
+>Landingpages werden durch ihre Vorlage definiert. [Erfahren Sie ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mehr über Vorlagen für freie und geführte Landingpages.
 
 ## Erstellen einer Freiform-Landingpage in einem Programm {#create-a-free-form-landing-page-in-a-program}
 
@@ -29,7 +29,7 @@ Freiform-Landingpages können als lokale Assets eines Programms oder in Design S
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Klicken Sie auf **Neu**. Wählen Sie **Neues lokales Asset**.
+1. Klicken Sie auf **Neu**. Wählen Sie **Neues lokales Element**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
@@ -51,15 +51,15 @@ Freiform-Landingpages können als lokale Assets eines Programms oder in Design S
 
 >[!TIP]
 >
->Die URL wird automatisch aus den Programms- und Landingpages-Namen erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL** .
+>Die URL wird automatisch aus den Programms- und Landingpages-Namen erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL**.
 
-## Erstellen einer Landingpage mit Freiform in Design Studio {#create-a-free-form-landing-page-in-design-studio}
+## Erstellen einer Freiform-Landingpage in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Gehen Sie zum **Design** **Studio**.
+1. Gehen Sie zu **Design** **Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu** und dann auf **Neue Landingpage.**
+1. Klicken Sie auf **Neu**, dann **Neue Landingpage.**
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
