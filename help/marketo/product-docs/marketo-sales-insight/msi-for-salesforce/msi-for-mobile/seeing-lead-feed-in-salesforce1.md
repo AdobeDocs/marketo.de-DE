@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Lead-Feed in Salesforce1 anzeigen {#seeing-lead-feed-in-salesforce}
+# Anzeigen eines Interessenten-Feeds in Salesforce1 {#seeing-lead-feed-in-salesforce}
 
 Der Interessentenfeed ist eine aktuelle Liste interessanter Ereignis, die Ihre Interessenten gemacht haben.
 
-1. Gehen Sie zum **Marketo** Bereich in Salesforce1.
+1. Gehen Sie zum Bereich **Marketo** in Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
