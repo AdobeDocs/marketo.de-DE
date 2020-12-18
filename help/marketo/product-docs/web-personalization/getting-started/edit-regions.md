@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie möchten Ihre regionalen Benutzereinstellungen so ändern, dass nur Daten zu Ihrer Region angezeigt werden?
 
-1. Wechseln Sie zu **Benutzereinstellungen**.
+1. Gehen Sie zu **Benutzereinstellungen**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicken Sie auf Regionen **bearbeiten**.
+1. Klicken Sie auf **Regionen bearbeiten**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
