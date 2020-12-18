@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Sie können der Seite &quot;Alle Inhalte&quot;mühelos Inhalte manuell hinzufügen.
 
@@ -35,9 +35,9 @@ Sie können der Seite &quot;Alle Inhalte&quot;mühelos Inhalte manuell hinzufüg
 
    ![](assets/all-content-add-hand.png)
 
-1. Der neue Titel wird jetzt auf der Seite &quot; **Alle Inhalte** &quot;angezeigt. Beachten Sie, dass es noch nicht für Prognoseinhalte genehmigt wurde.
+1. Der neue Titel wird jetzt auf der Seite **Alle Inhalte** angezeigt. Beachten Sie, dass es noch nicht für Prognoseinhalte genehmigt wurde.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. So fügen Sie es [Predictive Content](http://docs.marketo.com/x/Vbet)hinzu.
+1. So fügen Sie es [Predictive Content](http://docs.marketo.com/x/Vbet) hinzu.
 
