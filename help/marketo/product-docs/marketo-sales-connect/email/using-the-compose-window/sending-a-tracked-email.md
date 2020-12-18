@@ -20,7 +20,7 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird ge�
 >Vor dem Senden einer verfolgten E-Mail-Nachricht müssen eine Identitätsbestätigung und ein E-Mail-Versand-Kanal eingerichtet werden.
 >
 >* [E-Mail-Adresse überprüfen](http://docs.marketo.com/x/ewPh)
->* Versand-Kanal für [Outlook](http://docs.marketo.com/x/Z4AOAQ) oder [Gmail einrichten](http://docs.marketo.com/x/kYMOAQ)
+>* Einrichten eines Versand-Kanals für [Outlook](http://docs.marketo.com/x/Z4AOAQ) oder [Gmail](http://docs.marketo.com/x/kYMOAQ)
 
 >
 
@@ -30,7 +30,7 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird ge�
 
    ![](assets/one.png)
 
-1. Geben Sie den Namen oder die E-Mail-Adresse eines Empfängers in das Feld &quot; **An** &quot;ein.
+1. Geben Sie den Namen oder die E-Mail-Adresse eines Empfängers in das Feld **Bis** ein.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird ge�
 
    >[!NOTE]
    >
-   >Wenn jemand, der CC’d oder BCC’d war, die E-Mail öffnet, wird diese geöffnet als Ansicht auf dem Datensatz der Person im Feld **An** aufgezeichnet.
+   >Wenn jemand, der CC’d oder BCC’d war, die E-Mail öffnet, wird diese geöffnet als Ansicht im Datensatz der Person im Feld **To** aufgezeichnet.
 
 1. hinzufügen eine Betreffzeile.
 
@@ -52,9 +52,9 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird ge�
 
    >[!NOTE]
    >
-   >Zum Senden der E-Mail benötigen Sie eine Betreffzeile und einen Empfänger. Wir speichern **automatisch Ihren Entwurf** , sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden.
+   >Zum Senden der E-Mail benötigen Sie eine Betreffzeile und einen Empfänger. Sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden, wird **der Entwurf automatisch gespeichert.**
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken Sie nach Abschluss des Vorgangs auf **Senden** (bzw. [Planen](http://docs.marketo.com/x/GAQ6Ag), falls gewünscht).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken Sie nach Abschluss des Vorgangs auf **Senden** (oder [Planen](http://docs.marketo.com/x/GAQ6Ag), falls gewünscht).
 
    ![](assets/five.png)
 
