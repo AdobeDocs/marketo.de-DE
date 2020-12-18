@@ -11,24 +11,24 @@ ht-degree: 0%
 ---
 
 
-# Ändern des Namens einer Phase {#changing-the-name-of-a-stage}
+# Ändern des Namens einer Stufe {#changing-the-name-of-a-stage}
 
 Ändere deine Meinung? Kein Problem. Das Umbenennen einer Phase im Umsatzzyklusmodell ist einfach.
 
-1. Gehen Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Wählen Sie ein zu aktualisierendes Umsatzzyklusmodell aus. Klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie ein zu aktualisierendes Umsatzzyklusmodell aus. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Wählen Sie die zu aktualisierende Phase aus und geben Sie einen neuen **Namen** ein.
+1. Wählen Sie die Stufe aus, die Sie aktualisieren möchten, und geben Sie einen neuen **Name** ein.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
    Klicken Sie auf Schließen.
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Siehe? Einfach! Denken Sie daran, Ihr Modell zu [genehmigen](approve-unapprove-a-revenue-model.md).
+   Siehe? Einfach! Denken Sie daran, [Ihr Modell ](approve-unapprove-a-revenue-model.md) zu genehmigen.
 
