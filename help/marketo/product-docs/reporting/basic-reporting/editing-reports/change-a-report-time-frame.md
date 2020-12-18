@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändern des Berichtszeitrahmens {#change-a-report-time-frame}
+# Ändern eines Berichtszeitrahmens {#change-a-report-time-frame}
 
 Ändern Sie den Zeitraum, der von Ihrem Bericht abgedeckt wird, um sich auf einen bestimmten Zeitpunkt der Aktivität zu konzentrieren.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Einstellungen** .
+1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Setup**.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**&quot;Erstellt am** &quot;bezeichnet den Zeitpunkt, zu dem die Person in Ihrer Datenbank bekannt wurde.
+   >**Person hat** Auszeichnungen erstellt, sobald die Person in Ihrer Datenbank bekannt wurde.
 
 1. Wählen Sie den gewünschten Zeitraum aus dem Dropdown-Menü.
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Um bestimmte Daten festzulegen, wählen Sie **Benutzerdefiniert** aus dem Dropdown-Menü und geben Sie die Daten in die Felder **Von** und **Bis** ein.
+   >Um bestimmte Daten festzulegen, wählen Sie im Dropdownmenü **Benutzerspezifisch** aus und geben Sie die Daten in die Kalenderfelder **Von** und **Bis** ein.
 
-   Klicken Sie auf die Registerkarte **Bericht** , um Ihren Bericht für den ausgewählten Zeitraum anzuzeigen.\
+   Klicken Sie auf die Registerkarte **Bericht**, um Ihren Bericht für den ausgewählten Zeitraum anzuzeigen.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!NOTE]
@@ -51,12 +51,12 @@ ht-degree: 0%
    >**Verwandte Artikel**
    >
    >
-   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie Personen in einem Bericht mit einer intelligenten Liste [filtern](filter-people-in-a-report-with-a-smart-list.md).
+   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie [Personen in einem Bericht mit einer Smart-Liste](filter-people-in-a-report-with-a-smart-list.md) filtern.
 
    >[!NOTE]
    >
    >**Tieftauchen**
    >
    >
-   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive des [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
