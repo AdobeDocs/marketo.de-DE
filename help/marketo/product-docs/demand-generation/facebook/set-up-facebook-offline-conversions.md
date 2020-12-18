@@ -17,8 +17,8 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
 >[!PREREQUISITES]
 >
->* Sie müssen [Facebook-Interessentenanzeigen](set-up-facebook-lead-ads.md)einrichten.
->* Sie müssen über ein genehmigtes Modell im [Umsatzzyklusmodell verfügen](http://docs.marketo.com/display/docs/revenue+cycle+models).
+>* Sie müssen [Facebook-Interessentenanzeigen](set-up-facebook-lead-ads.md) einrichten.
+>* Sie müssen über ein genehmigtes Modell unter [Umrechnungszyklusmodell](http://docs.marketo.com/display/docs/revenue+cycle+models) verfügen.
 
 >
 
@@ -26,23 +26,23 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
 ## Admin-Konfiguration {#admin-configuration}
 
-1. Gehen Sie zu Marketing **Admin**.
+1. Gehen Sie zu Markieren **Admin**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Gehen Sie zu **LaunchPoint** und klicken Sie mit der Dublette auf den zuvor erstellten Facebook-Werbeanzeigedienst.
+1. Wechseln Sie zu **LaunchPoint** und klicken Sie mit der Dublette auf den zuvor erstellten Facebook-Werbeanzeigedienst.
 
    >[!NOTE]
    >
-   >Wenn Sie das noch nicht getan haben, fahren Sie fort und [richten Sie Facebook-Interessentenanzeigen](set-up-facebook-lead-ads.md)ein, und kommen Sie dann wieder hierher zurück.
+   >Wenn Sie das noch nicht getan haben, gehen Sie weiter und [Einrichten von Facebook-Interessentenanzeigen](set-up-facebook-lead-ads.md) und kommen Sie dann wieder hierher zurück.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Wenn Sie möchten, bearbeiten Sie den **Anzeigenamen** , um Offline-Konvertierungen einzuschließen. Klicken Sie auf **Weiter**.
+1. Wenn Sie möchten, bearbeiten Sie **Anzeigename**, um Offline-Konvertierungen einzuschließen. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Aktivieren Sie **Offline-Konversionen** aktivieren und klicken Sie auf **Weiter**.
+1. Markieren Sie **Offline-Konvertierungen aktivieren** und klicken Sie auf **Weiter**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
@@ -58,13 +58,13 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Konfiguration des Modells für den Umsatzzyklus {#revenue-cycle-modeler-configuration}
+## Konfiguration des Modells für den Umsatzwyklus {#revenue-cycle-modeler-configuration}
 
 1. Gehen Sie zu **Analytics**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. Wählen Sie Ihr Modell aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie Ihr Modell aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
@@ -86,7 +86,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
    >    * Content-Ansichten
 
 
-1. Wählen Sie die Bühne aus, der Sie zuordnen möchten, und wählen Sie dann aus der Dropdownliste **Facebook-Konversion** das Facebook-Ereignis aus, dem Sie die Zuordnung zuordnen möchten. Wiederholen Sie diesen Schritt, um alle Phasen in Ihrem RCM Offline-Konversionsphasen auf Facebook zuzuordnen.
+1. Wählen Sie die Stufe aus, der Sie zuordnen möchten, und wählen Sie dann aus der Dropdownliste **Facebook-Konversion** das Facebook-Ereignis, dem Sie die Zuordnung zuordnen möchten. Wiederholen Sie diesen Schritt, um alle Phasen in Ihrem RCM Offline-Konversionsphasen auf Facebook zuzuordnen.
 
    ![](assets/1-1.png)
 
@@ -102,7 +102,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
    >[!CAUTION]
    >
-   >Überprüfen Sie Ihr Facebook-Konto und stellen Sie sicher, dass alle [Anzeigen mit dem Ereignis &quot;Marketo-Offline-Konversionen&quot;verknüpft](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) sind. Wenn nicht, funktioniert die Anzeigenzuordnung möglicherweise nicht.
+   >Überprüfen Sie Ihr Facebook-Konto und stellen Sie sicher, dass alle [Anzeigen](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) mit dem Ereignis &quot;Marketo-Offline-Konversionen&quot;verknüpft sind. Wenn nicht, funktioniert die Anzeigenzuordnung möglicherweise nicht.
 
    >[!NOTE]
    >
