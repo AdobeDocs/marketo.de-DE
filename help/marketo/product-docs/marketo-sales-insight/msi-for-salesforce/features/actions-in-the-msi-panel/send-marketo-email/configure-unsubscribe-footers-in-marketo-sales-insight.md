@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurieren Sie die Abonnementfußzeilen in Marketo Sales Insight. {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# Konfigurieren Sie die Abonnementfußzeilen in Marketing Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten angezeigt. Sie können die Einstellungen jedoch an Ihre Anforderungen anpassen.
 
@@ -23,13 +23,13 @@ In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten ange
 >
 >**Definition**
 >
->**E-Mails** zum Verkauf werden von Sales Insight gesendet. (Nicht enthalten sind die vom Marketo Outlook Plugin gesendeten Dateien.)
+>**Verkaufs-** E-Mails werden von Sales Insight gesendet. (Nicht enthalten sind die vom Marketo Outlook Plugin gesendeten Dateien.)
 
-1. Gehen Sie zum **Admin** -Bereich.
+1. Gehen Sie zum Bereich **Admin**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Sales Insight, **und dann **Einstellungen** bearbeiten.
+1. Klicken Sie auf **Sales Insight, **dann **Einstellungen bearbeiten**.
 
    ![](assets/two-1.png)
 
@@ -38,8 +38,8 @@ In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten ange
    ![](assets/three-1.png)
 
    * **Keine Vorlage **- Manuell erstellt vom Vertriebsbenutzer.
-   * **Standard-E-Mail** - E-Mails, die auf einer Vorlage basieren.
-   * **Operative E-Mail** - E-Mails, die nicht abonniert, Marketing ausgesetzt und Kommunikationsbeschränkungen ignorieren (egal, was gesendet wird).
+   * **Standard-E-Mail**  - E-Mails, die auf einer Vorlage basieren.
+   * **Operative E-Mail** : E-Mails, die nicht abonniert, Marketing ausgesetzt und Kommunikationsbeschränkungen ignorieren (egal, was gesendet wird).
 
    Sie haben die Möglichkeit, für jeden Typ ein anderes Verhalten festzulegen.
 
@@ -48,7 +48,7 @@ In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten ange
    >**Einstellungen zum Abmelden beachten: **Abbestellte Interessenten erhalten die E-Mail NICHT, auch wenn die veröffentlichte E-Mail &quot;operativ&quot; ist
    >
    >
-   >**Einstellungen für das Abmelden ignorieren:** abonnierte Interessenten erhalten die E-Mail
+   >**Einstellungen für das Abmelden ignorieren:** Abbestellte Interessenten erhalten die E-Mail
 
    Nehmen Sie die gewünschten Änderungen vor und klicken Sie dann auf Speichern.
 
