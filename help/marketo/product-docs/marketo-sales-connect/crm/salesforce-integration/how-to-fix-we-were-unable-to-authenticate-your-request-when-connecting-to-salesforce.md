@@ -15,20 +15,20 @@ ht-degree: 0%
 
 Wenn Sie beim Versuch, Sales Connect mit Salesforce zu verbinden, die Fehlermeldung &quot;Wir konnten Ihre Anforderung nicht authentifizieren&quot;erhalten haben, gibt es möglicherweise Einschränkungen beim Zugriff auf die Salesforce-API. Wenden Sie sich an Ihren Salesforce-Administrator, um sicherzustellen, dass folgende Elemente vorhanden sind:
 
-## API in Benutzerberechtigungen aktivieren {#enable-api-in-user-permissions}
+## Aktivieren der API in Benutzerberechtigungen {#enable-api-in-user-permissions}
 
 1. Nehmen Sie einen Salesforce-Admin-Login bei SFDC vor.
-1. Wählen Sie **Einrichtung**.
-1. Wählen Sie Benutzer **verwalten**.
+1. Wählen Sie **Setup**.
+1. Wählen Sie **Benutzer verwalten**.
 1. Wählen Sie **Profil**.
 1. Suchen Sie das Profil, unter dem sich die ToutApp-Benutzer befinden, und klicken Sie auf **Bearbeiten**.
-1. Blättern Sie nach unten zu **Administratorberechtigungen** und stellen Sie sicher, dass die Option &quot; **API aktiviert** &quot;aktiviert ist.
+1. Blättern Sie nach unten zu **Administrative Permissions** und stellen Sie sicher, dass **API Enabled** aktiviert ist.
 
-## Überprüfen Sie, ob Salesforce die Verbindung von Sales Connect blockiert. {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
+## Überprüfen Sie, ob Salesforce Sales Connect von der Verbindung {#check-if-salesforce-is-blocking-sales-connect-from-connecting} blockiert.
 
 1. Salesforce-Admin-Anmeldung bei SFDC.
-1. Wählen Sie **Einrichtung**.
-1. Wählen Sie **Apps** verwalten.
+1. Wählen Sie **Setup**.
+1. Wählen Sie **Apps verwalten**.
 1. Wählen Sie **Connected Apps OAuth Usage**.
 1. Stellen Sie sicher, dass Sales Connect &quot;Block&quot;daneben anzeigt. Wenn Sie &quot;Block aufheben&quot;sehen, klicken Sie auf die Schaltfläche, um die Sperrung des Zugriffs von Sales Connect auf Salesforce aufzuheben.
 
