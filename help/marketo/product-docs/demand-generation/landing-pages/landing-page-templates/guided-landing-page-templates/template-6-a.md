@@ -23,7 +23,7 @@ Diese Vorlage enthält den folgenden Inhalt:
 
    * enthält Hero-Bild, Titel, Untertitel, Text und Schaltfläche.
 
-* Vier Textkörperabschnitte (optional)
+* Vier Textabschnitte (optional)
 * Fußzeile (optional)
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
