@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Anpassen der mobilen Ansicht für Ihre Landingpage mit kostenlosen Formularen {#customize-mobile-view-for-your-free-form-landing-page}
+# Anpassen der mobilen Ansicht für Ihre Freiform-Landingpage {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -27,17 +27,17 @@ Die mobile Ansicht Ihrer Freiform-Landingpage ist meist automatisch, Sie können
 
    ![](assets/selectlandingapge.jpg)
 
-1. Klicken Sie auf Entwurf **bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klicken Sie auf die Registerkarte **Mobil** .
+1. Klicken Sie auf die Registerkarte **Mobil**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Ansicht für Mobilgeräte und Desktop {#mobile-vs-desktop-view}
+## Mobil- oder Desktop-Ansicht {#mobile-vs-desktop-view}
 
-Unter &quot;Seitenelemente&quot;werden ein Symbol ![](assets/image2015-1-22-18-3a39-3a53.png) (Desktop) und ein Symbol ![](assets/image2015-1-22-18-3a40-3a31.png) (Mobil) angezeigt. Auf diese Weise können Sie verschiedene Elemente dynamisch ein-/ausblenden.
+Unter &quot;Seitenelemente&quot;werden ein ![](assets/image2015-1-22-18-3a39-3a53.png) (Desktop)-Symbol und ein ![](assets/image2015-1-22-18-3a40-3a31.png) (Mobil)-Symbol angezeigt. Auf diese Weise können Sie verschiedene Elemente dynamisch ein-/ausblenden.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -56,7 +56,7 @@ Standardmäßig wird alles auf der Desktop-Ansicht auf der mobilen Ansicht angez
 * Es kann nur ein Vorlagenelement bearbeitet werden, BODY#bodyid (Mobil). Auf diese Weise können Sie die Hintergrundfarbe ändern.\
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
-## Element aus der Mobile-Ansicht ausblenden {#hide-an-element-from-the-mobile-view}
+## Element aus der Mobile-Ansicht {#hide-an-element-from-the-mobile-view} ausblenden
 
 >[!TIP]
 >
@@ -86,15 +86,15 @@ Standardmäßig wird alles auf der Desktop-Ansicht auf der mobilen Ansicht angez
 
 >[!TIP]
 >
->Die mobile Ansicht kann auch eine andere Anordnung von Seitenelementen aufweisen. Verschieben Sie die Elemente auf der Landingpage &quot;Freiform&quot;oder ordnen Sie die unter &quot; **Seitenelemente** &quot;aufgelisteten Objekte per Drag &amp; Drop neu an.
+>Die mobile Ansicht kann auch eine andere Anordnung von Seitenelementen aufweisen. Verschieben Sie die Elemente auf der Landingpage &quot;Freiform&quot;oder ordnen Sie die unter **Seitenelemente** aufgelisteten Objekte per Drag &amp; Drop neu an.
 
 ## Vorschau Mobile Ansicht {#preview-mobile-view}
 
-1. Klicken Sie auf **Vorschau-Entwurf**.
+1. Klicken Sie auf **Vorschau Draft**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Willst du etwas Cooles sehen? Wählen Sie **Seite nach**.
+1. Willst du etwas Cooles sehen? Wählen Sie **Seite nach Seite**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
