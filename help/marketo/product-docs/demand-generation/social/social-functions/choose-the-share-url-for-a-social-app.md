@@ -19,11 +19,11 @@ Wenn Sie eine Social-App erstellen, können Sie festlegen, welche URL in den Bei
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie die App aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Rufen Sie im Social App-Editor die **App-Einstellungen** und dann die **erweiterten Optionen** auf.
+1. Gehen Sie im Social App-Editor zu **App-Einstellungen** und dann **Erweiterte Optionen**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
