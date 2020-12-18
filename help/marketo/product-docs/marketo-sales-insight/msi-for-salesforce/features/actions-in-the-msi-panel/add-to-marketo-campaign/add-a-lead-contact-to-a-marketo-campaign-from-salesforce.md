@@ -19,7 +19,7 @@ In Salesforce können Sie ganz einfach Kontakte oder Kontakte zu intelligenten K
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
-1. Wählen Sie aus der Dropdownliste die Liste der Personen aus, die Sie Ansicht wünschen, und klicken Sie auf **Los**.
+1. Wählen Sie die Liste der Personen aus, die Sie in der Dropdown-Liste Ansicht haben möchten, und klicken Sie auf **Los**.
 
    ![](assets/image2016-3-22-9-3a24-3a6.png)
 
@@ -31,16 +31,16 @@ In Salesforce können Sie ganz einfach Kontakte oder Kontakte zu intelligenten K
 
    ![](assets/three.png)
 
-1. Führen Sie im Datensatz einen Bildlauf nach unten zum Bereich Marketing to Sales Insight durch, klicken Sie auf die Dropdownliste **Aktionen** , wählen Sie **Hinzufügen zur Kampagne Marketo aus** und klicken Sie auf **Los.**
+1. Führen Sie einen Bildlauf nach unten zum Bereich &quot;Marketing to Sales Insight&quot;im Datensatz durch, klicken Sie auf die Dropdownliste **Aktionen**, wählen Sie **Hinzufügen zu Marketo-Kampagne,** und klicken Sie auf **Los.**
 
    ![](assets/four.png)
 
-1. Klicken Sie auf die Dropdownliste Name der **Kampagne** , wählen Sie die gewünschte Kampagne von Marketo aus und klicken Sie auf **Hinzufügen Kampagne** von Marketo.
+1. Klicken Sie auf die Dropdown-Liste **Kampagne Name**, wählen Sie die gewünschte Marketo-Kampagne aus und klicken Sie auf **Hinzufügen bis Marketo-Kampagne**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie beim Einrichten der Kampagne die [**Kampagne Anforderungsauslöser** , wobei](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)Sales Insight **** als Quelle dient.
+   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie die Kampagne [**Angefordert** Auslöser](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), wobei **Sales Insight** als Quelle dient, wenn Sie die Kampagne einrichten.
 
 Und das ist es! Die Person wird Ihrer Marketo-Kampagne hinzugefügt.
