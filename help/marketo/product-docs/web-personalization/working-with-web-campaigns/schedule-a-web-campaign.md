@@ -29,9 +29,9 @@ Sie können die Web-Kampagne auf Grundlage der Zeit des Web-Besuchers oder einer
 
    >[!NOTE]
    >
-   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
-1. Öffnen Sie das Menü &quot;Status der Kampagne&quot;und wählen Sie &quot; **Planen&quot;**.
+1. Öffnen Sie das Menü &quot;Status der Kampagne&quot;und wählen Sie **Plan**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,11 +51,11 @@ Sie können die Web-Kampagne auf Grundlage der Zeit des Web-Besuchers oder einer
    >
    >Sie können das Datum und die Uhrzeit im Dropdown-Menü und im Kalender auswählen oder manuell eingeben. Die Zeiten sind um 12 Uhr nachmittags.
 
-1. Standardmäßig wird die Kampagne täglich zwischen dem Beginn- und dem Enddatum ausgeführt. Wenn Sie die Kampagne nur an bestimmten Tagen oder zu bestimmten Zeitpunkten ausführen möchten, verwenden Sie die **Wiederholungseinstellungen** . Wählen Sie den Tag, den Beginn und die Endzeit aus, um die Kampagne anzuzeigen. Verwenden Sie das Pluszeichen +, um weitere Tage hinzuzufügen.
+1. Standardmäßig wird die Kampagne täglich zwischen dem Beginn- und dem Enddatum ausgeführt. Wenn Sie die Kampagne nur an bestimmten Tagen oder zu bestimmten Zeitpunkten ausführen möchten, verwenden Sie die Einstellungen **Wiederholen**. Wählen Sie den Tag, den Beginn und die Endzeit aus, um die Kampagne anzuzeigen. Verwenden Sie das Pluszeichen +, um weitere Tage hinzuzufügen.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klicken Sie auf **Planen**.
+1. Klicken Sie auf **Plan**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
@@ -65,5 +65,5 @@ Sie können die Web-Kampagne auf Grundlage der Zeit des Web-Besuchers oder einer
 
    >[!NOTE]
    >
-   >Der Status &quot;Kampagne&quot;bleibt auch dann als **geplant** , wenn die Kampagne während der ausgewählten geplanten Zeiten ausgeführt wird. Nach Ablauf eines geplanten Enddatums ändert sich der Status der Kampagne in **Angehalten**.
+   >Der Status &quot;Kampagne&quot;bleibt auch dann als **Geplant**, wenn die Kampagne während der ausgewählten geplanten Zeiträume ausgeführt wird. Nach Ablauf eines geplanten Enddatums ändert sich der Status der Kampagne in **Angehalten**.
 
