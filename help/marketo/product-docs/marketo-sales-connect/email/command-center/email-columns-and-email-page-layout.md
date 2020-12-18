@@ -114,7 +114,7 @@ Sie können alle verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Berei
  </tbody> 
 </table>
 
-## Layouteinstellungen für E-Mail-Seiten {#email-page-layout-settings}
+## E-Mail-Seiten-Layouteinstellungen {#email-page-layout-settings}
 
 Sie können Ihr Layout wie folgt konfigurieren.
 
@@ -122,7 +122,7 @@ Sie können Ihr Layout wie folgt konfigurieren.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Wählen Sie den Abschnitt **E-Mails** .
+1. Wählen Sie den Abschnitt **E-Mails**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
