@@ -27,11 +27,11 @@ Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber erstellen, wie 
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klicken Sie auf die Registerkarte **Einrichtung** und anschließend unter dem Filterabschnitt auf Dublette und dann auf **Umsatzzyklusmodell**.
+1. Klicken Sie auf die Registerkarte **Setup** und klicken Sie anschließend unter dem Filterabschnitt auf **Dublette &lt;a2/>Umrechnungszyklusmodell**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Wählen Sie das genehmigte **Modell** aus.
+1. Wählen Sie das genehmigte **Modell**.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
@@ -39,7 +39,7 @@ Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber erstellen, wie 
    >
    >Um über dieses Dropdownmenü verfügbar zu sein, muss das Modell genehmigt werden oder zumindest über genehmigte Phasen verfügen.
 
-1. Klicken Sie auf die Registerkarte &quot; **Bericht** &quot;, um zu sehen, wie viele Interessenten sich in den einzelnen Phasen Ihres Umsatzzyklusmodells befinden.
+1. Klicken Sie auf die Registerkarte **Bericht**, um zu sehen, wie viele Interessenten sich in den einzelnen Phasen Ihres Umsatzzyklusmodells befinden.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
