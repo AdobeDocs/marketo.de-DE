@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Passen Sie Ihre Landingpages-URLs mit einem CNAME an {#customize-your-landing-page-urls-with-a-cname}
+# Passen Sie Ihre Landingpages-URLs mit einem CNAME {#customize-your-landing-page-urls-with-a-cname} an
 
 Obwohl Marketo Ihre Landingpages hostet, kann die URL komplett angepasst werden. Wie es ohne CNAME aussieht:
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` So sollte es aussehen:
+`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` Wie sollte es aussehen:
 `<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
 
-## CNAME auswählen {#choose-a-cname}
+## Wählen Sie einen CNAME {#choose-a-cname}
 
 Wählen Sie ein Wort, das Sie am Anfang der URL für Ihre Landingpages suchen möchten. Es ist nur ein Wort und sollte relativ kurz sein. Beispiele:
 
@@ -27,9 +27,9 @@ Wählen Sie ein Wort, das Sie am Anfang der URL für Ihre Landingpages suchen m�
 
 Das eine Wort (plus [YourCompany.com](http://YourCompany.com)) wird als CNAME bezeichnet. Sie werden dies später benötigen, also notieren Sie es sich.
 
-## Ihre Kontozeichenfolge suchen {#find-your-account-string}
+## Suchen Sie die Kontozeichenfolge {#find-your-account-string}
 
-1. Gehen Sie zum **Admin** -Bereich und klicken Sie auf **Landingpages.**
+1. Gehen Sie zum Bereich **Admin** und klicken Sie auf **Landingpages.**
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -37,7 +37,7 @@ Das eine Wort (plus [YourCompany.com](http://YourCompany.com)) wird als CNAME be
    >
    >**Administratorberechtigungen erforderlich**
 
-1. Kopieren Sie unter der Registerkarte &quot; **Einstiegsseiten** &quot; **Seiten** die **Kontozeichenfolge****aus dem Abschnitt** Einstellungen **** .
+1. Kopieren Sie unter der Registerkarte **Einstieg** **Seiten** das **Konto** **Zeichenfolge** aus dem Abschnitt **Einstellungen**.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
@@ -47,11 +47,11 @@ Das eine Wort (plus [YourCompany.com](http://YourCompany.com)) wird als CNAME be
 
 Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] und [ACCOUNT STRING] durch den Text aus dem vorherigen Schritt.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) > [KONTOZEICHENFOLGE]. [mktoweb.com](http://mktoweb.com/)
+[CNAME]. [YourCompany.com](http://yourcompany.com/) >  [KONTOZEICHENFOLGE]. [mktoweb.com](http://mktoweb.com/)
 
-## Vollständige CNAME-Einrichtung {#complete-cname-setup}
+## Complete CNAME Setup {#complete-cname-setup}
 
-1. Nachdem der CNAME von Ihrer IT-Abteilung erstellt wurde, gehen Sie zu **Admin** und klicken Sie auf **Einstiegsseiten** ****.
+1. Nachdem der CNAME von Ihrer IT-Abteilung erstellt wurde, gehen Sie zu **Admin** und klicken Sie auf **Landing** **Seiten**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
@@ -59,7 +59,7 @@ Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie 
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Geben Sie Ihren CNAME in **Domain** **name** **für** **Landing** **Pages****** ******** **** ein, geben Sie Ihren Fallbackpageein, geben Sie IhreHomepageein und klicken Sie aufSave.
+1. Geben Sie Ihren CNAME in **Domäne** **Name** **** **Landing** **Seiten** ein, geben Sie **Fallback** **Seite** ein. Geben Sie **Homepage** ein und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
