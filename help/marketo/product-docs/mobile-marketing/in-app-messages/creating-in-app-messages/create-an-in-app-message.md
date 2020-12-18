@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Es gibt mehrere Schritte, um die perfekte In-App-Nachricht zu erstellen. Beginn hier, und dann folgen Sie den Schritten in der Reihenfolge, in diesen Artikeln.
 
-Nachdem Sie Ihre In-App-Nachricht erstellt haben, gehen Sie [hier](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) , um zu sehen, wie Sie sie senden.
+Nachdem Sie Ihre In-App-Nachricht erstellt haben, gehen Sie [hier](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md), um zu sehen, wie Sie sie senden.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![Bild eins](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie &quot; **Neues lokales Asset**&quot;aus.
+1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie **Neues lokales Element**.
 
    ![Bild zwei](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
@@ -36,4 +36,4 @@ Nachdem Sie Ihre In-App-Nachricht erstellt haben, gehen Sie [hier](/help/marketo
 >
 >Der Name des Programms wird automatisch in der Dropdown-Liste angezeigt, Sie können jedoch einen anderen auswählen.
 
-Wählen Sie als Nächstes ein Layout [für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) aus.
+Wählen Sie als Nächstes [ein Layout](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) für Ihre In-App-Nachricht aus.
