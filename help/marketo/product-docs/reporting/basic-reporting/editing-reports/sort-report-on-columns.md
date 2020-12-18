@@ -19,7 +19,7 @@ Verwenden Sie Spalten, um die Daten in Ihrem Bericht zu sortieren und die wichti
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Bericht** .
+1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Bericht**.
 
    ![](assets/reports2.jpg)
 
