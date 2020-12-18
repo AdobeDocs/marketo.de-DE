@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Keine Verifizierungs-E-Mail erhalten {#never-received-a-verification-email}
+# Keine Verifizierungs-E-Mail {#never-received-a-verification-email} erhalten
 
 Haben Sie die Bestätigungs-E-Mail von uns nicht erhalten?
 
