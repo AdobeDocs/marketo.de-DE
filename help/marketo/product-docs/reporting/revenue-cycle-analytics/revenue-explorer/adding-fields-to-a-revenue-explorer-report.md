@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot; {#adding-fields-to-a-revenue-explorer-report}
+# Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht {#adding-fields-to-a-revenue-explorer-report}
 
 Passen Sie die Berichte zum Umsatz-Explorer an, indem Sie Dimension- und Metrikfelder in die Arbeitsfläche ziehen und dort ablegen.
 
