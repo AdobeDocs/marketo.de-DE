@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Webdaten exportieren {#export-web-campaign-data}
+# Webseitendaten exportieren {#export-web-campaign-data}
 
 Führen Sie die folgenden Schritte aus, um Ihre Web-Kampagnen zu exportieren.
 
