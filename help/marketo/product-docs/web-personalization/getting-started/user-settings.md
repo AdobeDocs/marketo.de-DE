@@ -33,19 +33,19 @@ ht-degree: 0%
       * hinzufügen persönliche Angaben (Vor- und Nachname, Mobiltelefonnummer und Zeitzone)
       * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen auf der Plattform exportiert werden sollen. Siehe Feld: &quot;Max. Anzahl der Zeilen im Excel-Export (begrenzt auf 10.000)&quot;
       * Wählen Sie Ihre Mobile-Benachrichtigungen für eine neue Person aus oder beobachten Sie die Liste in Bezug auf die Mobilanwendung.
-      * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf Regionen **bearbeiten klicken**.
+      * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf **Regionen bearbeiten** klicken.
       * Kennwort ändern
       * Wählen Sie die Benachrichtigungseinstellungen für E-Mail-Berichte zu Organisationen, Personen, Kampagne und Asset-Leistung aus.
 
-   Klicken Sie auf **Speichern** , nachdem Sie Änderungen vorgenommen haben.
+   Klicken Sie auf **Speichern**, nachdem Sie Änderungen vorgenommen haben.
 
    >[!NOTE]
    >
    >Wenn Sie Ihre Region auswählen, werden nur Daten angezeigt und E-Mail-Berichte zu Organisationen und Personen aus der definierten Region gesendet.
 
-## E-Mail-Berichte auswählen {#select-email-reports}
+## E-Mail-Berichte {#select-email-reports} auswählen
 
-Wählen Sie aus, welcher [E-Mail-Bericht](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Ihrem Benutzer zugeordnet werden soll und wie häufig (täglich, wöchentlich oder vierteljährlich) der Bericht gesendet wird.
+Wählen Sie aus, welcher [E-Mail-Bericht](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Ihrem Benutzer zugeordnet werden soll, und wie häufig (täglich, wöchentlich oder vierteljährlich) der Bericht gesendet wird.
 
 ![](assets/three.png)
 
