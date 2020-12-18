@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ereignis in Marketing erstellen {#create-an-event-in-marketo}
+# Erstellen eines Ereignisses in Marketo {#create-an-event-in-marketo}
 
 Ein Marketo-Ereignis verfolgt die Entwicklung Ihrer Leute durch ein Programm. Es schiebt Registrierungsinformationen und ruft Anwesenheitsinformationen mit dem ON24-Adapter ab. Das Ereignis erfasst den Status Ihrer Menschen, während sie durch sie fortschreiten.
 
@@ -19,9 +19,9 @@ So werden die Daten ausgetauscht:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Wenn Sie das Ereignis &quot;Markieren&quot;erstellen, wählen Sie als Kanal &quot; **Webinar** &quot;aus. Sie können diesen Kanal in Admin bearbeiten und einen neuen Kanal erstellen. Wenn Sie einen neuen Kanal erstellen, muss dieser vom Typ **Ereignis mit Webinar** sein, damit die Integration funktioniert. Weitere Informationen finden Sie unter Programm-Kanal [erstellen](../../../../../product-docs/administration/tags/create-a-program-channel.md) .
+Wenn Sie das Ereignis Marketo erstellen, wählen Sie **Webinar** als Kanal-Typ. Sie können diesen Kanal in Admin bearbeiten und einen neuen Kanal erstellen. Wenn Sie einen neuen Kanal erstellen, muss dieser dem Typ **Ereignis mit Webinar** entsprechen, damit die Integration funktioniert. Weitere Informationen finden Sie unter [Erstellen eines Programm-Kanals](../../../../../product-docs/administration/tags/create-a-program-channel.md).
 
-Als Nächstes [konfigurieren Sie die Einstellungen des Ereignisses und synchronisieren Sie Marketo mit Ihrem Webinar](https://docs.marketo.com/x/IRCa).
+Der nächste Schritt besteht darin, die Einstellungen für das Ereignis zu konfigurieren und Marketo mit Ihrem Webinar[ zu synchronisieren.](https://docs.marketo.com/x/IRCa)
 
 >[!MORELIKETHIS]
 >
