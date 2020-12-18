@@ -18,7 +18,7 @@ Sie haben bereits eine benutzerdefinierte Audience in Facebook und möchten weit
 >[!PREREQUISITES]
 >
 >* [Erstellen einer benutzerspezifischen Audience in Facebook](create-a-custom-audience-in-facebook.md)
->* [Akzeptieren Sie die benutzerspezifischen Audiencen](https://www.facebook.com/ads/manage/customaudiences/tos.php) von Facebook in Ihrem Facebook-Konto.
+>* [Akzeptieren Sie die ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Bezeichnungen der benutzerspezifischen Audiencen in Ihrem Facebook-Konto.
 
 >
 
@@ -36,13 +36,13 @@ Sie haben bereits eine benutzerdefinierte Audience in Facebook und möchten weit
 
    ![](assets/three.png)
 
-1. Klicken Sie auf die Dropdownliste **Audience** , wählen Sie die Audience aus, der Sie die Interessenten hinzufügen möchten, und klicken Sie auf **Aktualisieren**.
+1. Klicken Sie auf die Dropdownliste **Audience**, wählen Sie die Audience aus, der Sie die Interessenten hinzufügen möchten, und klicken Sie auf **Aktualisieren**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**hinzufügen führt zur Audience:** Es sind nur Facebook-Audiencen mit einem benutzerdefinierten Untertyp verfügbar.\
+   >**hinzufügen führt zur Audience: Es sind** nur Facebook-Audiencen mit einem benutzerdefinierten Untertyp verfügbar.\
    >**Entfernen Sie Interessenten aus der Audience**: entfernt die Leads in Ihrer statischen oder intelligenten Liste aus einer Facebook-Audience.
 
 1. Nach Abschluss des Vorgangs wird der Status aktualisiert.
