@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen {#add-identity}
+# hinzufügen Identität {#add-identity}
 
 hinzufügen eine Identität, wenn mehrere E-Mail-Adressen gesendet werden sollen.
 
@@ -21,9 +21,9 @@ hinzufügen eine Identität, wenn mehrere E-Mail-Adressen gesendet werden sollen
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über das [Hinzufügen von Signaturen zu Ihren Identitäten](https://docs.marketo.com/x/6BnG).
+   >Erfahren Sie mehr über [Hinzufügen von Signaturen zu Ihren Identitäten](https://docs.marketo.com/x/6BnG).
 
-1. Geben Sie Ihre Informationen ein (E-Mail und Name sind Pflichtfelder) und klicken Sie nach Abschluss des Vorgangs auf **Erstellen** .
+1. Geben Sie Ihre Informationen ein (E-Mail und Name sind die erforderlichen Felder), und klicken Sie nach Abschluss des Vorgangs auf **Erstellen**.
 1. Klicken Sie auf den Link in der Bestätigungs-E-Mail, die Sie erhalten.
 
    Wenn Sie eine E-Mail** **in Sales Connect senden, können Sie zwischen Identitäten umschalten.
