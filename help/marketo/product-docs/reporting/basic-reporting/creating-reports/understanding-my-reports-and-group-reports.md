@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Meine Berichte und Gruppenberichte {#understanding-my-reports-and-group-reports}
+# Verstehen meiner Berichte und Gruppenberichte {#understanding-my-reports-and-group-reports}
 
-Sie können **Meine Berichte **und **Gruppenberichte **aus der [Analytics-Homepage](navigating-the-analytics-home-page.md)erstellen.
+Sie können **Meine Berichte **und **Gruppenberichte **aus dem [Analytics-Home](navigating-the-analytics-home-page.md) erstellen.
 
-**Meine Berichte** sind nur für Sie sichtbar.
+**Meine** Berichte sind nur für Sie sichtbar.
 
 **Gruppenberichte** sind für alle Benutzer in diesem Arbeitsbereich sichtbar.
 
 >[!NOTE]
 >
->Jeder Arbeitsbereich verfügt über einen Satz von **Meine Berichte **und **Gruppenberichten**.
+>Jeder Arbeitsbereich verfügt über einen Satz von **Meine Berichte **und **Gruppenberichte**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
