@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Mit Tests können Sie Ihre Web-Kampagnen optimal für eine bessere Interaktion optimieren. Hier ist, wie man anfängt.
 
-Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagnen auswählen, sie derselben **Teiltestgruppe** zuordnen und **Auto-Tune** wählen, um automatisch mit der leistungsstärksten Kampagne fortzufahren.
+Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagnen auswählen, sie derselben Gruppe **Teilungstest** zuordnen und **Automatisches Optimieren** auswählen, um automatisch mit der leistungsstärksten Kampagne fortzufahren.
 
 >[!TIP]
 >
 >Wenn Sie lieber manuell berechnen möchten und sehen möchten, welche Kampagne besser läuft, aktivieren Sie nicht die Option Automatisches Tuning.
 
-## Einrichten eines Teilungs-A/B-Tests {#how-to-set-up-a-split-a-b-test}
+## So richten Sie einen A/B-Teilinstest ein {#how-to-set-up-a-split-a-b-test}
 
 1. Gehen Sie zu Web-Kampagnen.
 
@@ -29,25 +29,25 @@ Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagn
 
    >[!NOTE]
    >
-   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
 1. Wählen Sie die erste Kampagne aus, die Sie A/B-Tests durchführen möchten. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Wählen Sie auf der Seite &quot;Kampagne&quot;die Option **Test** teilen und klicken Sie auf Neu **erstellen**.
+1. Wählen Sie auf der Seite &quot;Kampagne&quot;die Option **Test teilen** und klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Geben Sie den Namen der **Testgruppe** für Teilung ein und klicken Sie auf **Erstellen.** Wählen Sie **Auto-Tune.**
+1. Geben Sie **Split Testing Group Name** ein und klicken Sie auf **Erstellen.** Wählen Sie **Auto-Tune.**
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Speichern **oder** starten **die Kampagne.
+1. **Speichern **oder** Starten Sie **die Kampagne.
 
    >[!TIP]
    >
-   >Durch die Auswahl von **Auto-Tune** erkennt die Web-Personalisierungsplattform automatisch die leistungsfähigere Split-Test-Kampagne und fährt mit der Kampagne mit der höchsten Umrechnung fort, während die anderen angehalten werden.
+   >Durch Auswahl von **Auto-Tune** erkennt die Web-Personalisierungsplattform automatisch die leistungsfähigere Split-Test-Kampagne und fährt mit der Kampagne mit der höchsten Umrechnung fort, während die anderen angehalten werden.
 
 1. Wiederholen Sie den obigen Vorgang mit der zweiten Kampagne.
 1. Wählen Sie die zweite Kampagne aus, die Sie A/B-Tests durchführen möchten. Klicken Sie auf **Bearbeiten**.
@@ -56,13 +56,13 @@ Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagn
 
    **
 
-1. Wählen Sie auf der Seite &quot;Kampagne **** festlegen&quot;die Option **S****Test** teilen und wählen Sie die **Gruppe** aus der Dropdownliste. Wählen Sie** Auto-Tune**.
+1. Wählen Sie auf der Seite **Kampagne einstellen** die Option **S****plit Testing** und wählen Sie **Gruppe** aus der Dropdownliste. Wählen Sie** Auto-Tune**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
 1. **Speichern **oder **Starten Sie **die Kampagne.
 1. Wiederholen Sie diesen Vorgang für eine dritte oder vierte Kampagne zum Testen.
-1. In den **Web** - **Kampagnen** können Sie die Kampagnen der geteilten Tests sehen, die durch das Symbol A/B gekennzeichnet sind.
+1. Unter **Web** **Kampagnen** können Sie die durch das A/B-Symbol gekennzeichneten geteilten Kampagnen des geteilten Tests sehen.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
