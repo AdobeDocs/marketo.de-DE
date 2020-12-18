@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Schaltflächentext &quot;Formular senden&quot;ändern {#change-form-submit-button-text}
+# Ändern des Schaltflächentexts &quot;Formular senden&quot; {#change-form-submit-button-text}
 
 Sie können die Schaltfläche &quot;Formulare&quot;schnell und einfach von &quot;Senden&quot;in ein beliebiges anderes Wort ändern. So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Klicken Sie auf die Schaltfläche und ändern Sie die **Beschriftung**.
+1. Klicken Sie auf die Schaltfläche und ändern Sie die Beschriftung **Beschriftung**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -31,7 +31,7 @@ Sie können die Schaltfläche &quot;Formulare&quot;schnell und einfach von &quot
    >
    >Beachten Sie, dass Sie auch die Wartebezeichnung ändern können. Dies wird angezeigt, nachdem auf die Schaltfläche geklickt wurde und bevor die Übermittlungsaktion für das Formular abgeschlossen ist.
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
