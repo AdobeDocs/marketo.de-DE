@@ -19,41 +19,41 @@ SLA steht für &quot;Service Level Agreement&quot;. Diese Phasen werden verwende
 >
 >Es ist eine gute Idee, ein Übungsmodell in einem Grafik- oder Präsentationsmodell zu erstellen und es mit Ihren Kollegen zu bestätigen.
 
-## hinzufügen einer SLA-Phase {#add-an-sla-stage}
+## hinzufügen einer SLA-Stufe {#add-an-sla-stage}
 
-1. Um eine neue SLA-Phase des Umsatzwyklus-Modells hinzuzufügen, klicken Sie auf die Schaltfläche &quot; **Analytics** &quot;im Startbildschirm von My Marketo.
+1. Um eine neue SLA-Phase des Umsatzwyklen-Modells hinzuzufügen, klicken Sie auf die Schaltfläche **Analytics** im Startbildschirm My Marketo.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Wählen Sie im Bereich &quot;Analytics&quot;das vorhandene Modell aus oder [erstellen Sie ein neues](create-a-new-revenue-model.md).
+1. Wählen Sie im Abschnitt &quot;Analytics&quot;Ihr vorhandenes Modell oder [erstellen Sie ein neues Modell](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicken Sie auf Entwurf **bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Um eine neue SLA-Bühne hinzuzufügen, klicken Sie auf die **SLA** -Schaltfläche und ziehen Sie sie an eine beliebige Stelle der Arbeitsfläche.
+1. Um eine neue SLA-Phase hinzuzufügen, klicken Sie auf die Schaltfläche **SLA** und ziehen Sie dann die Maus und lassen Sie sie an eine beliebige Stelle auf der Arbeitsfläche los.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Sie können den **Namen** bearbeiten, eine **Beschreibung** hinzufügen und den **Typ** nach dem Hinzufügen einer Bühne anpassen. Sie können zur Zeit auch die Option ** [Beginn Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
+1. Sie können die **Name** bearbeiten, eine **Beschreibung** hinzufügen und die **Typ** anpassen, nachdem Sie eine Phase hinzugefügt haben. Sie können zur Zeit auch ** [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
-## Bearbeiten einer SLA-Phase {#edit-an-sla-stage}
+## Eine SLA-Phase bearbeiten{#edit-an-sla-stage}
 
-Wenn Sie ein SLA-Stage-Symbol auswählen, können Sie den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ anpassen. Sie können auch &quot; [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md)&quot;auswählen.
+Wenn Sie ein SLA-Stage-Symbol auswählen, können Sie den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ anpassen. Sie können auch [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
 
 1. Klicken Sie auf ein SLA-Stationssymbol.
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Klicken Sie in die Felder **Name** und **Beschreibung** , um deren Inhalt zu bearbeiten.
+1. Klicken Sie in die Felder **Name** und **Beschreibung**, um den Inhalt zu bearbeiten.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Wählen Sie den **Typ** -Pulldown zur Bearbeitung aus.
+1. Wählen Sie den Pulldown **Typ**, den Sie bearbeiten möchten.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
