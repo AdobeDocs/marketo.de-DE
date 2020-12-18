@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Upgrade Ihres MarketingTo E-Mail-Hinzufügen für Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# Aktualisieren Sie Ihr Marketing-E-Mail-Hinzufügen für Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Wenn eine neue Version des Marketing-E-Mail-Hinzufügen für Outlook verfügbar ist, befolgen Sie diese Anweisungen zum Aktualisieren.
 
