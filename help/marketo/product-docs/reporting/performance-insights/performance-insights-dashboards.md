@@ -25,7 +25,7 @@ Mit dem Dashboard Interaktion können Sie die Effektivität Ihrer Pflege und Ihr
 
 Audience-Interaktion messen
 
-Wählen Sie die **Erfolgsmetrik** aus, um den Einsatz der Audience in Ihren Programmen zu messen. Erfolg ist ein Maß für sinnvolle Interaktion in Marketo.
+Wählen Sie die Metrik **Erfolge** aus, um den Einsatz der Audience in Ihren Programmen zu messen. Erfolg ist ein Maß für sinnvolle Interaktion in Marketo.
 
 ![](assets/3-4.png)
 
@@ -39,7 +39,7 @@ Der Zweck eines Programms besteht darin, eine aussagekräftige Interaktion mit d
 
 Erfassung neuer Namen messen
 
-Wählen Sie die Metrik &quot; **Neue Namen** &quot;aus, um die Effektivität Ihrer neuen Programm zur Namenserfassung zu messen.
+Wählen Sie die Metrik **Neue Namen** aus, um die Effektivität Ihrer neuen Programm zur Namenserfassung zu messen.
 
 ![](assets/4-3.png)
 
