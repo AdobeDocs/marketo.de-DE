@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Personalisierte URLs für Ihr Konto aktivieren {#enable-personalized-urls-for-your-account}
+# Personalisierte URLs für Ihr Konto {#enable-personalized-urls-for-your-account} aktivieren
 
 Personalisierte URLs eignen sich hervorragend für Kampagnen von Drucksendungen.
 
@@ -27,7 +27,7 @@ Personalisierte URLs eignen sich hervorragend für Kampagnen von Drucksendungen.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Markieren Sie das Feld **Aktivieren personalisierter URLs** und klicken Sie auf **Speichern**.
+1. Markieren Sie das Feld **Personalisierte URLs aktivieren** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
