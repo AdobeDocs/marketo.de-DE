@@ -19,7 +19,7 @@ Ein nicht genehmigtes Snippet kann nicht in E-Mails oder Landingpages verwendet 
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Gehen Sie zu Ihrem Snippet und vergewissern Sie sich, dass es nicht von Assets **verwendet** wird.
+1. Gehen Sie zu Ihrem Snippet und vergewissern Sie sich, dass es nicht **von** Assets verwendet wird.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
