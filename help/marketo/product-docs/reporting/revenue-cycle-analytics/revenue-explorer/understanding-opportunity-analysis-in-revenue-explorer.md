@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die Möglichkeit der Analyse im Revenue Explorer ermöglicht es Ihnen, Ihre Möglichkeiten auf einer tieferen Ebene zu untersuchen. Trennen Sie die Daten anhand von Lead-/Firma-Attributen wie Interessentenquelle, Branche oder Geografie. Analysieren Sie die Erstellung und Schließung von Chancen auf Grundlage von Namen, Phase oder Wahrscheinlichkeit. Finden Sie heraus, welche Marketingbeiträge zur Pipeline beigetragen haben.
 
-## Analyse {#example-analysis}
+## Beispiel für eine Analyse {#example-analysis}
 
 Im Folgenden finden Sie einige Berichte, die Sie im Bereich Analyse zu Chancen erstellen können.
 
@@ -53,7 +53,7 @@ Im Folgenden finden Sie einige Berichte, die Sie im Bereich Analyse zu Chancen e
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimensionen und Maßnahmen der Analyse {#opportunity-analysis-dimensions-and-measures}
+## Dimensionen und Maßnahmen zur Analyse von Chancen {#opportunity-analysis-dimensions-and-measures}
 
 Die Opportunity-Analyse ermöglicht Ihnen den Zugriff auf alle Lead-, Firma- und Opportunity-bezogenen Dimensionen und auf alle mit Chancen zusammenhängenden Maßnahmen. Nutzen Sie diese Möglichkeiten zur Analyse von Dimensionen und Maßnahmen, um spezifische Fragen in Ihrem Bericht zu beantworten.
 
