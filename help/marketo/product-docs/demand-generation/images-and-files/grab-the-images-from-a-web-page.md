@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bilder von einer Webseite erfassen {#grab-the-images-from-a-web-page}
+# Bilder von einer Webseite abrufen {#grab-the-images-from-a-web-page}
 
 Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Internetadresse (URL) der Seite, die die gewünschten Bilder enthält, und führen Sie dann die folgenden Schritte aus.
 
@@ -19,11 +19,11 @@ Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Internetadresse (UR
 
    ![](assets/designstudio-2.png)
 
-1. Klicken Sie auf **Neu** und **Bilder aus dem Web** aufnehmen.
+1. Klicken Sie auf **Neu** und **Bilder aus Web** abrufen.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Wählen Sie den Ordner &quot; **Bilder und Dateien** &quot;aus, fügen Sie die Webadresse (URL) in das Textfeld &quot;URL&quot;ein und klicken Sie auf **&quot;Weiter&quot;.**
+1. Wählen Sie den Ordner **Bilder und Dateien** aus, fügen Sie die Webadresse (URL) in das Textfeld &quot;URL&quot;ein und klicken Sie auf **Weiter.**
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Internetadresse (UR
    >
    >Diese Funktion funktioniert nicht mit URLs, die direkt auf ein Bild verweisen. Verwenden Sie die URL der Webseite, die die Bilder enthält.
 
-1. Wählen Sie die Bilder aus, die Sie hinzufügen möchten, und klicken Sie auf **Importieren.**
+1. Wählen Sie die Bilder aus, die Sie hinzufügen möchten, und klicken Sie auf **Import.**
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Internetadresse (UR
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Sie können alle verfügbaren Bilder in **Bildern und Dateien** anzeigen.
+1. Sie können alle verfügbaren Bilder unter **Bilder und Dateien** anzeigen.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
