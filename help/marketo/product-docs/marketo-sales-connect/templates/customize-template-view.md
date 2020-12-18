@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Ansicht der Vorlage anpassen {#customize-template-view}
+# Ansicht für Vorlagen anpassen {#customize-template-view}
 
 In der Dropdownliste **Ansicht **können Sie Folgendes anzeigen: alle Vorlagen, Ihre Vorlagen, freigegebenen Vorlagen oder nicht verwendeten Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
 
-Darüber hinaus können Sie Spalten in der Ansicht der Vorlage hinzufügen/entfernen, indem Sie auf das Einstellungssymbol rechts neben der **Ansicht klicken.**
+Außerdem können Sie Spalten in der Ansicht der Vorlage hinzufügen/entfernen, indem Sie auf das Einstellungssymbol rechts neben der Ansicht **klicken.**
 
