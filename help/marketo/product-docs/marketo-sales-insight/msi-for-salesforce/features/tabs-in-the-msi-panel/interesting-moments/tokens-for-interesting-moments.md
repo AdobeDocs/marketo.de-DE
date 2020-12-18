@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Erfahren Sie, wie Sie den Schritt [zum Fluss des](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)interessanten Moments verwenden.
+>* Hier erfahren Sie, wie Sie den Schritt [Interessanter Moment-Fluss](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) verwenden.
 >* Erfahren Sie mehr über [Token](http://docs.marketo.com/display/docs/tokens).
 
 >
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 ## Verfügbare Tokens {#available-tokens}
 
-Sehen Sie sich die [Tokens Übersicht](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
+Sehen Sie sich [Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
 
-## Auslöser-Tokens {#trigger-tokens}
+## Auslöser-Token {#trigger-tokens}
 
 Je nach Auslöser, der in einer intelligenten Kampagne verwendet wird, stehen zusätzliche Auslösertoken zur Verfügung.
 
@@ -236,9 +236,9 @@ Je nach Auslöser, der in einer intelligenten Kampagne verwendet wird, stehen zu
 
 >[!NOTE]
 >
->Wenn es keinen Häkchen ![(Häkchen)](assets/check.svg) hat, wird eine leere Zeichenfolge (nichts) im interessanten Moment zurückgegeben.
+>Wenn es keinen Häkchen hat ![(tick)](assets/check.svg) würde es eine leere Zeichenfolge (nichts) im interessanten Moment zurückgeben.
 
-*Die Webseite **&quot;** Auslöser-Besuche&quot;enthält einige zusätzliche Token:
+*Der Auslöser **Webseite &quot;Besuche&quot;** verfügt über einige zusätzliche Token:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
