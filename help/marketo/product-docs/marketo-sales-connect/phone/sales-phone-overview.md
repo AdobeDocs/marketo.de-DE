@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verkaufstelefonübersicht {#sales-phone-overview}
+# Übersicht über das Verkaufsgespräch {#sales-phone-overview}
 
 ## Warum Verkaufstelefon? {#why-sales-phone}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Wie richte ich mich schnell mit Sales Phone ein? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Telefonnummer:** Sie müssen es nur einmal eingeben. Sales Connect speichert Ihre Nummer für alle zukünftigen Anrufe.
+**Telefonnummer:** Sie müssen sie nur einmal eingeben. Sales Connect speichert Ihre Nummer für alle zukünftigen Anrufe.
 
-**Lokale Präsenz:** Sie müssen nur die Option &quot;lokale Präsenz verwenden&quot;prüfen und den Aufruf für Ihren ersten Anruf aufzeichnen. Sales Connect speichert Ihre Einstellungen für alle zukünftigen Aufrufe.
+**Lokale Präsenz:** Sie müssen nur die Option &quot;lokale Präsenz verwenden&quot;aktivieren und den Aufruf für Ihren ersten Aufruf aufzeichnen. Sales Connect speichert Ihre Einstellungen für alle zukünftigen Aufrufe.
 
-Wenn Sie möchten, dass Sales Connect automatisch eine Call-Aktivität in Salesforce erstellt, lesen Sie [diesen Artikel](http://docs.marketo.com/x/joLS).
+Wenn Sie möchten, dass Sales Connect automatisch eine Call-Aktivität in Salesforce erstellt, sehen Sie sich [diesen Artikel](http://docs.marketo.com/x/joLS) an.
 
 ## Wie mache ich einen Anruf mit Sales Phone? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ Im Command Center können Sie Ihre &quot;Call-Liste&quot; von der abgesendeten R
 
 Sobald Sie anrufen oder einen Anruf tätigen, wird Sales Connect die Telefonnummer Ihres Interessenten/Kontakts von Salesforce abrufen. Wenn in Salesforce keine Nummer aufgeführt ist, ruft Sales Connect die Telefonnummer im Kontodatensatz ab.
 
-Für Teams, die andere CRMS verwenden, ruft Sales Connect die Telefonnummer aus der Nummer des Datensatzes in Sales Connect ab. Diese Daten können problemlos über einen [CSV-Upload](http://docs.marketo.com/x/HIPS)verfügbar sein.
+Für Teams, die andere CRMS verwenden, ruft Sales Connect die Telefonnummer aus der Nummer des Datensatzes in Sales Connect ab. Diese Daten können einfach über einen [CSV-Upload](http://docs.marketo.com/x/HIPS) verfügbar sein.
 
-Drücken Sie auf die große grüne **Anruftaste** . Ihr Telefon klingelt dann der Beginn. Nehmen Sie Ihr Telefon auf und Sales Connect ruft automatisch den Lead/Kontakt an.
+Treten Sie auf die große grüne Schaltfläche **Aufruf**. Ihr Telefon klingelt dann der Beginn. Nehmen Sie Ihr Telefon auf und Sales Connect ruft automatisch den Lead/Kontakt an.
