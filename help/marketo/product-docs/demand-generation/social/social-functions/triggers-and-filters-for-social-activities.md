@@ -21,11 +21,11 @@ Social-Apps in Marketo haben ihre eigenen Spezialauslöser und Filter.
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-1. Um soziale *Auslöser* zu verwenden, wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf die Registerkarte &quot; **Intelligente Liste** &quot;. Klicken Sie auf der rechten Seite auf das +, um **Auslöser** und dann **Social** zu erweitern.
+1. Um Social *Trigger* zu verwenden, wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf die Registerkarte **Intelligente Liste**. Klicken Sie auf der rechten Seite auf das +, um **Auslöser** zu erweitern, und dann **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Um Social- *Filter* zu verwenden, klicken Sie auf **+** , um die **Filter** zu erweitern.
+1. Um Social *Filter* zu verwenden, klicken Sie auf **+**, um die **Filter** zu erweitern.
 
    ![](assets/two-282-29.png)
 
