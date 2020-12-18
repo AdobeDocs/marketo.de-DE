@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dynamisches Umschalten zwischen Sichtbarkeit eines Formularfelds {#dynamically-toggle-visibility-of-a-form-field}
+# Dynamisches Umschalten der Sichtbarkeit eines Formularfelds {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
@@ -21,23 +21,23 @@ ht-degree: 0%
 
 
 
-Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder [Feldsätze](add-a-fieldset-to-a-form.md)dynamisch ein-/ausblenden können.
+Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder [Feldsätze](add-a-fieldset-to-a-form.md) dynamisch ein- und ausblenden können.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->In diesem Beispiel sollten wir das Feld &quot; **Bundesland** &quot;ausblenden, es sei denn, das Feld &quot; **Land** &quot;wurde als &quot;Vereinigte Staaten&quot;ausgewählt.
+>In diesem Beispiel sollten wir das Feld **Bundesland** ausblenden, es sei denn, **Land** ist als &quot;Vereinigte Staaten&quot;ausgewählt.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/editform-1.png)
 
-1. Wählen Sie das Feld aus, das dynamisch ein-/ausgeblendet werden soll, und klicken Sie auf den Link für **Sichtbarkeitsregeln** ****.
+1. Wählen Sie das Feld aus, das dynamisch ein-/ausgeblendet werden soll, und klicken Sie auf den Link für **Sichtbarkeit** **Regeln**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,7 +63,7 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 
    >[!NOTE]
    >
-   >Zuvor haben wir Country in einen Feldtyp mit Pick-Liste konvertiert und alle Länder als  [hinzugefügt](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Zuvor haben wir Land in einen Feldtyp mit Pick-Liste umgewandelt und [alle Länder als Werte](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) hinzugefügt.
 
 1. Klicken Sie auf **Speichern**.
 
@@ -75,5 +75,5 @@ Und das ist es! Wenn Benutzer dieses Formular nun ausfüllen und &quot;USA für 
 >
 >**Tieftauchen**
 >
->Möchten Sie mehr über [Formulare](http://docs.marketo.com/display/docs/forms)erfahren?
+>Möchten Sie mehr über [Formulare](http://docs.marketo.com/display/docs/forms) erfahren?
 
