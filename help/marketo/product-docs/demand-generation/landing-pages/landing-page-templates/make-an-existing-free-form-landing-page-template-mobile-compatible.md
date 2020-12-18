@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Vorhandene Vorlage für eine Landingpage mit Freiform Mobile kompatibel machen {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Vorhandene Vorlage für eine Landingpage mit Freiform mit Mobilgeräten kompatibel machen {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 >[!NOTE]
 >
->Vorlagen für Landingpages, die vor der [Januar 2015-](../../../../release-notes/2015/release-notes-january-2015.md)Version erstellt wurden, müssen aktualisiert werden, damit sie mit Mobilgeräten kompatibel sind.
+>Landingpages-Vorlagen, die vor der Veröffentlichung [Januar 2015 erstellt wurden, müssen aktualisiert werden, um mobilkompatibel zu sein.](../../../../release-notes/2015/release-notes-january-2015.md)
 
 Dies kann an zwei Stellen erfolgen: dem Vorlageneditor und dem Landingpages-Editor.
 
 ## Aktualisierung vom Vorlageneditor {#upgrade-from-the-template-editor}
 
-1. Gehen Sie zum **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
@@ -29,15 +29,15 @@ Dies kann an zwei Stellen erfolgen: dem Vorlageneditor und dem Landingpages-Edit
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Wählen Sie eine Vorlage aus, bei der **Mobile Compatible** auf **Nein** eingestellt ist.
+1. Wählen Sie eine Vorlage aus, bei der **Mobil kompatibel** **Nein** ist.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klicken Sie auf Entwurf **bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klicken Sie auf **Kompatibel** mit Mobilgeräten machen.
+1. Klicken Sie auf **Mobil kompatibel machen**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
@@ -67,11 +67,11 @@ Wenn ein Fehler auftritt, wird eine Fehlermeldung angezeigt. Klicken Sie auf &qu
 
 Wenn Sie Änderungen an der Vorlage vornehmen, klicken Sie auf Vorlagenaktionen und wählen Sie Mobilkompatibilität überprüfen.
 
-## Aktualisieren einer Vorlage über den Editor für kostenlose Landingpages {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Aktualisieren einer Vorlage aus dem Editor für kostenlose Landingpages {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte &quot;Mobil&quot;klicken, werden Sie mitunter bemerken, dass die Vorlage nicht aktualisiert wurde. Furcht nicht! Sie können es hier aktualisieren.
 
-1. Klicken Sie auf die Registerkarte **Mobil** .
+1. Klicken Sie auf die Registerkarte **Mobil**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
@@ -83,7 +83,7 @@ Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte &quot;Mobil&quot;
    >
    >Wenn Sie die mobile Version einer Vorlage aktivieren, werden Entwürfe aller Landingpages erstellt, die diese verwenden.
 
-Fantastisch! Sie können jetzt die mobile Ansicht [aller Landingpages, die diese Vorlage verwenden,](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) anpassen.
+Fantastisch! Sie können jetzt [die mobile Ansicht](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aller Landingpages anpassen, die diese Vorlage verwenden.
 
 >[!MORELIKETHIS]
 >
