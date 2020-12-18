@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Manchmal können Sie ein falsches Feld in den Bericht ziehen. So entfernen Sie sie:
 
-1. Ziehen Sie das Feld, das Sie entfernen möchten, auf das **Papierkorbsymbol** unten rechts im Bericht.
+1. Ziehen Sie das zu entfernende Feld auf das Symbol **Papierkorb** unten rechts im Bericht.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
