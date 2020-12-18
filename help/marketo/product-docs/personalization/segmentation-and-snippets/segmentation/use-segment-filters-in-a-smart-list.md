@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SegmentFilter in einer intelligenten Liste verwenden {#use-segment-filters-in-a-smart-list}
+# SegmentFilter in einer Smart-Liste verwenden {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Optimieren Sie die Leistung Ihrer intelligenten Listen mithilfe von SegmentFiltern.
 
-1. Suchen Sie in der erstellten intelligenten Liste nach dem Wort **Segment**, ziehen Sie den Filter per Drag &amp; Drop.
+1. Suchen Sie in der von Ihnen erstellten intelligenten Liste nach dem Wort **Segment**, ziehen Sie den Filter per Drag &amp; Drop.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
