@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# So passen Sie das Telefonergebnis im Verkaufstelefon an {#how-to-customize-the-call-outcome-in-sales-phone}
+# Anleitung zum Anpassen des Anrufergebnisses im Verkaufsgespräch {#how-to-customize-the-call-outcome-in-sales-phone}
 
 1. Rufen Sie Ihre Setup-Seite in Salesforce auf.
-1. Klicken Sie auf **Anpassen**, **Aktivitäten** und wählen Sie **Aufgaben**.
-1. Klicken Sie in das Feld **Betreff** .
+1. Klicken Sie auf **Anpassen**, **Aktivitäten** und wählen Sie **Aufgaben-Felder**.
+1. Klicken Sie in das Feld **Betreff**.
 1. Von hier aus können Sie alle Optionen hinzufügen/entfernen/neu anordnen.
 1. Diese benutzerspezifische Liste wird Ihnen dann in Sales Connect angezeigt, wenn Sie einen Aufruf abschließen.
 
