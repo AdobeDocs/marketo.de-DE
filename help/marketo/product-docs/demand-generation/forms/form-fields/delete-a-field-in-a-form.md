@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Wenn Ihr Formular ein Feld enthält, das Sie nicht mehr benötigen, kann es einfach gelöscht werden. So geht es.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Wählen Sie das Feld aus und klicken Sie auf das Symbol zum **Löschen** .
+1. Wählen Sie Ihr Feld aus und klicken Sie auf das Symbol **delete**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 Klicken Sie auf Fertig stellen.
@@ -37,6 +37,6 @@ Klicken Sie auf Fertig stellen.
 >
 >**Erinnerung**
 >
->Vergessen Sie nicht, den mit den Formularänderungen erstellten Entwurf [der Landingpage zu](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) genehmigen.
+>Vergessen Sie nicht, [den von den Formularänderungen erstellten Entwurf der Landingpage](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen.
 
 Wie schwer glaubst du, ein Feld zu löschen?
