@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Neues Umsatzmodell erstellen {#create-a-new-revenue-model}
+# Erstellen eines neuen Umsatzmodells {#create-a-new-revenue-model}
 
-1. Klicken Sie zum Erstellen eines neuen Umsatzwyklus-Modells auf die Schaltfläche &quot; **Analytics** &quot;im Startbildschirm von My Marketing to.
+1. Um ein neues Umsatzzyklusmodell zu erstellen, klicken Sie auf die Schaltfläche **Analytics** im Startbildschirm von My Marketo.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Klicken Sie auf der Registerkarte **Analytics** auf **New** und wählen Sie **New Revenue Cycle Model**.
+1. Klicken Sie auf der Registerkarte **Analytics** auf **Neu** und wählen Sie **Neues Umsatzwyklenmodell**.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Ein Fenster **Neues Modell** für den Umsatzzyklus wird angezeigt. Geben Sie einen Namen ein und klicken Sie auf **Erstellen**.
+1. Ein modales Fenster **Neues Umsatzzyklusmodell** wird angezeigt. Geben Sie einen Namen ein und klicken Sie auf **Erstellen**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. Klicken Sie in der Startseite Ihres Modells auf Entwurf **bearbeiten** .
+1. Klicken Sie in der Startseite Ihres Modells auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,5 +37,5 @@ Schärfer aussehen! Sie sind gerade in die wunderbare Welt des Modellierens eing
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie mehr über die [Verwendung der Lagerbestandsstadien](using-revenue-model-inventory-stages.md)des Umsatzmodells.
+>Erfahren Sie mehr über [Verwenden der Lagerbestandsstadien des Umsatzmodells](using-revenue-model-inventory-stages.md).
 
