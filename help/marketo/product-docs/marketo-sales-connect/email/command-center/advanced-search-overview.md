@@ -102,7 +102,7 @@ Filter per E-Mail, die nie zugestellt wurden.
 
 So erstellen Sie eine gespeicherte Suche.
 
-1. Nachdem alle Filter eingerichtet sind, klicken Sie auf Filter **speichern unter**.
+1. Nachdem alle Filter eingerichtet sind, klicken Sie auf **Filter speichern unter**.
 
    ![](assets/save-search-1.png)
 
