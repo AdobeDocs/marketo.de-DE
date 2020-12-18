@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Erfolgspfad des Umsatzmodells {#understanding-revenue-model-success-path}
+# Der Erfolgspfad des Umsatzmodells {#understanding-revenue-model-success-path}
 
 ## Erfolgspfad {#success-path}
 
-In dem Modell ist der grüne Pfad, auch &quot; **Erfolgspfad** &quot;genannt, der optimale Weg, wie ein Interessent linear zu einem geschlossenen/gewesenen Geschäft Transition.
+Im Modell ist der grüne Pfad, der **Erfolgspfad**, der optimale Pfad dafür, wie ein Interessent linear zu einem geschlossenen/Gewinner-Geschäft Transition.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Beispielphasen für einen Erfolgspfad:
 
@@ -31,9 +31,9 @@ Beispielphasen für einen Erfolgspfad:
 
 >[!TIP]
 >
->Grün ist für Geld. Alles auf dem Weg des Grünen ist auf dem Weg zum Erfolg! Deshalb gibt es nur grüne Pfeile im [Erfolgspfad-Analyzer](using-the-success-path-analyzer.md).
+>Grün ist für Geld. Alles auf dem Weg des Grünen ist auf dem Weg zum Erfolg! Deshalb gibt es nur grüne Pfeile im [Erfolgspfadanalyzer](using-the-success-path-analyzer.md).
 
-## Umsätze {#detours}
+## Detours {#detours}
 
 Da nicht alle Interessenten einem linearen &quot;Erfolgspfad&quot;folgen, sollten Sie auch Ihre &quot;Umstiegsphasen&quot;definieren, um Leads zu erfassen, die nicht qualifiziert sind oder die einige Runden nähren müssen, bevor sie bereit sind. Beispiel:
 
