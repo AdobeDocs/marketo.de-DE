@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Verstehen von prädiktiven Inhalten {#understanding-predictive-content}
+# Predictive Content {#understanding-predictive-content}
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
-Nach der [Genehmigung eines Titels für Prognoseinhalte](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)arbeiten Sie hier daran. Auf der Seite &quot;Predictive Content&quot;werden alle Titel angezeigt, die Sie für den Inhalt der Vorschau genehmigt haben.
+Nachdem Sie [einen Titel für den vorhersagenden Inhalt ](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) genehmigt haben, bearbeiten Sie ihn hier. Auf der Seite &quot;Predictive Content&quot;werden alle Titel angezeigt, die Sie für den Inhalt der Vorschau genehmigt haben.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -34,7 +34,7 @@ Zu den Seitenfeldern gehören:
 
 **Kategorie**
 
-Sie können Inhalte nach erstellten Kategorien filtern. Klicken Sie auf das Filtersymbol und wählen Sie unter &quot; **Kategorie**&quot;eine oder mehrere Kategorien aus.
+Sie können Inhalte nach erstellten Kategorien filtern. Klicken Sie auf das Filtersymbol und wählen Sie unter **Kategorie** eine oder mehrere Kategorien aus.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
@@ -50,15 +50,15 @@ Die Filterung der Analyse aktivierter Inhalte gibt Ihnen die Möglichkeit zu seh
 
 ![](assets/image2017-10-3-9-3a25-3a34.png)
 
-## Analyse nach Datum anzeigen {#display-analytics-by-date}
+## Analyse nach Datum {#display-analytics-by-date} anzeigen
 
-1. Wählen Sie rechts die Beginns- und Enddaten aus (wie dargestellt). Klicken Sie auf **Übernehmen**.
+1. Wählen Sie rechts die Beginns- und Enddaten aus (wie dargestellt). Klicken Sie auf **Apply**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
-## Tabellendaten für Ansichten für prädiktive Inhalte {#view-table-data-for-predictive-content}
+## Ansicht Table Data for Predictive Content {#view-table-data-for-predictive-content}
 
-In der Tabelle können Sie von links nach rechts Ansichten darüber vornehmen, welche Quellen für Prognoseinhalte aktiviert sind: Empfehlungsleiste, E-Mail und Rich Media. Aktivierte Quellen werden grün angezeigt. Sie aktivieren diese beim [Bearbeiten des Inhalts](http://docs.marketo.com/display/docs/edit+predictive+content).
+In der Tabelle können Sie von links nach rechts Ansichten darüber vornehmen, welche Quellen für Prognoseinhalte aktiviert sind: Empfehlungsleiste, E-Mail und Rich Media. Aktivierte Quellen werden grün angezeigt. Sie aktivieren diese, wenn Sie [den Inhalt](http://docs.marketo.com/display/docs/edit+predictive+content) bearbeiten.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
