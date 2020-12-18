@@ -19,7 +19,7 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 
    ![](assets/one.png)
 
-1. Klicken Sie auf die Registerkarte **Intelligente Liste** .
+1. Klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 
    ![](assets/three.png)
 
-1. Wählen Sie als Quelle &quot;is&quot;die **Webdienst-API**.
+1. Wählen Sie als Quelle &quot;is&quot; **Web Service API**.
 
    ![](assets/4.png)
 
-1. Klicken Sie auf die Registerkarte **Fluss** .
+1. Klicken Sie auf die Registerkarte **Fluss**.
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 
    ![](assets/eight.png)
 
-1. Klicken Sie auf die Registerkarte **Plan** und **aktivieren Sie** die Kampagne.
+1. Klicken Sie auf die Registerkarte **Plan** und **Aktivieren** der Kampagne.
 
    ![](assets/nine.png)
 
