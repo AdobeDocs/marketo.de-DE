@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Interessante Momente in Salesforce1 {#interesting-moments-in-salesforce}
 
-[Die Verwendung interessanter Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) ist der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketing Sales Insight-App. Mit Marketo Sales Insight für Salesforce1 können Sie das gleiche mit Ihrem Smartphone tun!
+[Die Verwendung der interessanten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Dynamik ist der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketing Sales Insight-App. Mit Marketo Sales Insight für Salesforce1 können Sie das gleiche mit Ihrem Smartphone tun!
 
 >[!AVAILABILITY]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klicken Sie auf die Registerkarte &quot; **Verwandte** &quot;um interessante Momente, Web-Aktivität, E-Mail und Ergebnis anzuzeigen.
+1. Klicken Sie auf die Registerkarte **Verwandte**, um interessante Momente, Web-Aktivität, E-Mail und Ergebnis anzuzeigen.
 
    ![](assets/two.png)
 
