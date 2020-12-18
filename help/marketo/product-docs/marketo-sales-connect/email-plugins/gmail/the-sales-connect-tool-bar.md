@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Die Symbolleiste &quot;Verkaufsverbindung&quot; {#the-sales-connect-tool-bar}
+# Die Symbolleiste zum Verbinden von Verkaufsstellen {#the-sales-connect-tool-bar}
 
 Beim Anmelden werden oben auf Ihrer Gmail-Seite fünf Schaltflächen zum Verbinden von Verkaufsstellen hinzugefügt.
 
-| **Schaltfläche &quot;Live-Feed&quot;** | Öffnet Ihren Sales Connect [Live Feed](http://toutapp.com/next#live) , in dem Sie Echtzeit-Verfolgungsinformationen zu Ihren E-Mails erhalten. |
+| **Schaltfläche &quot;Live-Feed&quot;** | Öffnet den Verkaufsanschluss [Live-Feed](http://toutapp.com/next#live), in dem Sie Informationen zur Echtzeitverfolgung Ihrer E-Mails erhalten können. |
 |---|---|
 | **Schaltfläche &quot;Aufgaben&quot;** | Zeigt eine Dropdownliste aller Aufgaben an. |
-| **Schaltflächen &quot;Vorlagen und **Konversationen&quot;** | Öffnet die Seite &quot;Vorlagen&quot;bzw. &quot;Konversationen&quot;der [Webanwendung](http://toutapp.com/login). Alles innerhalb Ihrer Gmail Seite. |
+| **Schaltflächen &quot;Vorlagen **und Konversationen&quot;** | Öffnet die Seite &quot;Vorlagen&quot;und &quot;Konversationen&quot;der [Webanwendung](http://toutapp.com/login). Alles innerhalb Ihrer Gmail Seite. |
 | **Schaltfläche &quot;Verkaufsziehen&quot; ** | Ermöglicht Ihnen, Ihre geschlossenen/gewesenen Geschäfte mit Ihren Teammitgliedern zu feiern. |
 
