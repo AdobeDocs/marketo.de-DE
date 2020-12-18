@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Senden von E-Mail-Nachrichten und Kampagnen- und Watchlist-Aktionen in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Senden von Marketing-E-Mail- und Kampagne- und Watchlist-Aktionen in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Gehen Sie zum Bereich &quot;Interessentendetails&quot;in Salesforce1 und klicken Sie auf die Registerkarte &quot; **Verwandte** Informationen&quot;.
+1. Gehen Sie zum Bereich &quot;Interessentendetails&quot;in Salesforce1 und klicken Sie auf die Registerkarte **Ähnliche**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Welche intelligenten Kampagnen tauchen auf? Die Auslöser mit &quot;Kampagne ist angefordert&quot;. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mithilfe von &quot;Kampagne ist angefordert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;einrichten.
+   >Welche intelligenten Kampagnen tauchen auf? Die Auslöser mit &quot;Kampagne ist angefordert&quot;. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mit &quot;Kampagne ist angefordert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;einrichten.
 
 Cool, jetzt können Ihre Verkäufer aktiv an der Marketingmaßnahme teilnehmen.
 
