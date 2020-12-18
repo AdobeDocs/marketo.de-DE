@@ -29,7 +29,7 @@ Klicken Sie auf das entsprechende Symbol im Analytics-Startbildschirm, um auf Pe
 
 ## Beitrag {#contribution}
 
-Beurteilen Sie den [Beitrag von Marketing zu](http://docs.marketo.com/x/QAvG)Umsätzen anhand der Kundenakquise, des Einflusses, der Konversion und sogar des installierten Basiswachstums.
+Bewerten Sie den Beitrag von Marketing zum Umsatz[in Abhängigkeit von Kundenakquise, Einfluss, Konversion und sogar installiertem Basiswachstum.](http://docs.marketo.com/x/QAvG)
 
 ![](assets/two.png)
 
@@ -39,19 +39,19 @@ Standardmäßig spiegeln die angezeigten Daten die Leistung nach Interaktion wid
 
 ## Trend {#trend}
 
-Entdecken Sie [langfristige Trends](http://docs.marketo.com/x/QgvG) , um konsistente Gewinnstrategien zu entdecken.
+Entdecken Sie [langfristige Trends](http://docs.marketo.com/x/QgvG), um konsistente Gewinnstrategien zu erkennen.
 
 ![](assets/4.png)
 
 ## Einstellungen {#settings}
 
-Klicken Sie in den Dashboards Umsatz und Pipeline auf das Symbol [Einstellungen](http://docs.marketo.com/x/pIDS) , um weitere Parameter festzulegen.
+Klicken Sie in den Dashboards Umsatz und Pipeline auf das Symbol [Settings](http://docs.marketo.com/x/pIDS), um weitere Parameter festzulegen.
 
 ![](assets/5.png)
 
-## Daten exportieren {#export-data}
+## Exportieren von Daten {#export-data}
 
-Sie können die Daten und Diagramme entweder in PowerPoint oder Excel exportieren. Sie können sie auch als [Schnelldiagramm](https://docs.marketo.com/x/iRLG)speichern.
+Sie können die Daten und Diagramme entweder in PowerPoint oder Excel exportieren. Sie können sie auch als [Quick Chart](https://docs.marketo.com/x/iRLG) speichern.
 
 ![](assets/6.png)
 
