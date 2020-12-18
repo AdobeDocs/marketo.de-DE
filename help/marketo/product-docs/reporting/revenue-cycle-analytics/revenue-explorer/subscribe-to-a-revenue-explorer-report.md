@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Abonnieren eines Berichts über den Umsatz-Explorer {#subscribe-to-a-revenue-explorer-report}
+# Abonnieren eines UmsatzExplorer-Berichts {#subscribe-to-a-revenue-explorer-report}
 
-Um Aktualisierungen aus Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) -Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
+Um Updates von Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
-1. Gehen Sie zu **Analytics** und wählen Sie &quot; **Neu&quot;> &quot;Neues Abonnement für Bericht&quot;.**
+1. Gehen Sie zu **Analytics** und wählen Sie **Neu > Neues Abonnement.**
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Informationen zum Abonnieren eines grundlegenden Berichts, den Sie in einem Programm erstellt haben, finden Sie unter Grundlegenden Bericht [abonnieren.](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Informationen zum Abonnieren eines von Ihnen in einem Programm erstellten Basisberichts finden Sie unter [Einen Basisbericht abonnieren.](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
 1. Wählen Sie für **Berichtsquelle**** Umsatz-Explorer**.
 
@@ -45,11 +45,11 @@ Um Aktualisierungen aus Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/di
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie alle Ihre Report Abonnement [an einem Ort](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten.
+>Erfahren Sie, wie Sie [alle Ihre Report Abonnement](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
->Sehen Sie mehr über die fortschrittlichen Analysen von Marketo im [Umsatzwellen-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) .
+>Sehen Sie mehr über die erweiterten Analysen von Marketo im Deep Dive unter [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
