@@ -15,24 +15,24 @@ ht-degree: 0%
 
 Erkennen Sie, welche Firmen Ihre Website besuchen. Sie können bekannte oder anonyme Besucher anzeigen, jedoch nicht beide im gleichen Bericht.
 
-Erstellen Sie einen [Bericht](web-page-activity-report.md) zur Aktivität der Webseite, um die einzelnen Personen zu sehen, die Ihre Site besuchen.
+Erstellen Sie einen [Bericht zur Aktivität der Webseite](web-page-activity-report.md), um die einzelnen Personen anzuzeigen, die Ihre Site besuchen.
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst Munchkin auf Ihrer Site [einrichten](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) einrichten.
 
-1. [Erstellen Sie einen Bericht](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [Berichtstyp](report-type-overview.md)&quot;Firma Web Aktivität&quot;.
-1. Wählen Sie aus, ob bekannte oder anonyme Personen [im Bericht](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) angezeigt werden sollen.
-1. [Legen Sie den Zeitraum Ihres Berichts](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) fest und klicken Sie auf die Registerkarte **Bericht** .
+1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den   [Berichtstyp](report-type-overview.md) &quot;Firma Web Aktivität&quot;.
+1. Wählen Sie [Bekannte oder anonyme Personen](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) im Bericht anzeigen.
+1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
 1. Das ist&#39;s! Überprüfen Sie Ihren Bericht, um zu sehen, welche Firmen Ihre Site besuchen.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Um die Firmen zu finden, die Ihre Site am häufigsten besuchen, [sortieren Sie Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in der Spalte &quot; *Ansichten* &quot;und wählen Sie &quot; **Sortieren Absteigend**&quot;.
+   >Um die Firmen zu finden, die Ihre Site am häufigsten besuchen, sortieren Sie [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in der Spalte *Ansichten* und wählen Sie **Absteigend sortieren**.
 
-   [Folgende Spalten können Sie für einen Bericht zur Web-Aktivität der Firma auswählen](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) :
+   [Folgende Spalten können Sie für einen Bericht zur Web-Aktivität der Firma ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
 
 <table> 
  <thead> 
@@ -44,11 +44,11 @@ Erstellen Sie einen [Bericht](web-page-activity-report.md) zur Aktivität der We
  <tbody> 
   <tr> 
    <td>Firma</td> 
-   <td>Die Firma der Besucher.<br> <strong>Fettgedruckte</strong> Firmen werden von mindestens einer Person als Name bestätigt.</td> 
+   <td>Die Firma der Besucher.<br> <strong>Die </strong> fett gedruckten Bezeichnungen werden von mindestens einer Person als Firma bestätigt.</td> 
   </tr> 
   <tr> 
    <td>Vorgestellte Firma oder ISP</td> 
-   <td>Die Firma, wie aus der IP-Adresse des Besuchers abgeleitet. <br> <strong>Fettgedruckte</strong> Namen geben an, dass dies die Firma ist, nicht der ISP. </td> 
+   <td>Die Firma, wie aus der IP-Adresse des Besuchers abgeleitet. <br> <strong>Die Namen in </strong> Fettdruck weisen darauf hin, dass dies die Firma ist, nicht der ISP. </td> 
   </tr> 
   <tr> 
    <td>Ansichten der Seite</td> 
