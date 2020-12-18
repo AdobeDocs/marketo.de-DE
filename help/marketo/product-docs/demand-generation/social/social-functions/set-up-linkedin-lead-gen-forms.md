@@ -19,7 +19,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigen-Kampagnen in LinkedIn auszuf�
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu Marketing **Admin**.
+1. Gehen Sie zu Markieren **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -27,11 +27,11 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigen-Kampagnen in LinkedIn auszuf�
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein, wählen Sie in der Dropdown-Liste den Dienst **LinkedIn Lead Gen **und klicken Sie auf **Weiter**.
+1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein, wählen Sie den **LinkedIn-Lead Gen **Dienst aus der Dropdown-Liste und klicken Sie auf **Weiter**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo öffnet im selben Browser eine neue Registerkarte für [www.linkedin.com](http://www.linkedin.com). Melden Sie sich bei LinkedIn mit dem Konto an, das Sie für die Integration verwenden möchten.
+1. Marketo öffnet im selben Browser eine neue Registerkarte zu [www.linkedin.com](http://www.linkedin.com). Melden Sie sich bei LinkedIn mit dem Konto an, das Sie für die Integration verwenden möchten.
 
    >[!NOTE]
    >
@@ -55,7 +55,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigen-Kampagnen in LinkedIn auszuf�
    >
    >Der Dienst läuft automatisch ein Jahr nach der Autorisierung ab. Um den Zugriff wiederherzustellen, klicken Sie einfach auf **Erneut autorisieren**. Je nach Browsereinstellungen müssen Sie eventuell Ihr LinkedIn-Kennwort erneut eingeben.
 
-1. Wählen Sie das Konto/die Konten aus, von dem/denen die LinkedIn-Lead-Gen-Interessenten nach Marketo gelangen sollen, und klicken Sie auf **Weiter**.
+1. Wählen Sie die Konten aus, von denen aus LinkedIn Lead Gen-Interessenten nach Marketo gelangen sollen, und klicken Sie auf **Weiter**.
 
    >[!TIP]
    >
@@ -63,11 +63,11 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigen-Kampagnen in LinkedIn auszuf�
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. Um standardmäßige Feldzuordnungen von LinkedIn zu Marketo zu akzeptieren, klicken Sie einfach auf **Erstellen**. Wenn Sie die Standardfeldzuordnung ändern, eine Feldzuordnung entfernen oder eine neue Feldzuordnung hinzufügen möchten, können Sie dies per Modal unten pro Feld tun.
+1. Um die standardmäßigen LinkedIn-Feld-Zuordnungen von Marketo zu akzeptieren, klicken Sie einfach auf **Erstellen**. Wenn Sie die Standardfeldzuordnung ändern, eine Feldzuordnung entfernen oder eine neue Feldzuordnung hinzufügen möchten, können Sie dies per Modal unten pro Feld tun.
 
    >[!CAUTION]
    >
-   >Marketo unterstützt die Zuordnung von zwei LinkedIn-Feldern zu einem einzelnen Marker-Feld, **jedoch nur, wenn** sich die beiden LinkedIn-Felder nicht im selben Formular befinden. Wenn Sie zwei Felder aus demselben LinkedIn-Formular einem einzigen Feld &quot;Marketo&quot;zuordnen, wird der Zugriff auf Ihre Marketing-Datenbank eventuell fehlschlagen.
+   >Marketo unterstützt die Zuordnung von zwei LinkedIn-Feldern zu einem einzelnen Marketo-Feld, **aber nur, wenn sich die beiden LinkedIn-Felder nicht im selben Formular befinden.** Wenn Sie zwei Felder aus demselben LinkedIn-Formular einem einzigen Feld &quot;Marketo&quot;zuordnen, wird der Zugriff auf Ihre Marketing-Datenbank eventuell fehlschlagen.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
