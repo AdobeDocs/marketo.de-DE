@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtern in Leistungseinsichten {#filtering-in-performance-insights}
+# Filtern in Performance Insights {#filtering-in-performance-insights}
 
 Filtern Sie Daten einfach nach Abfrage spezifischer Informationen.
 
@@ -21,7 +21,7 @@ Klicken Sie auf das Pluszeichen, um dem Beginn Filter hinzuzufügen.
 
 >[!NOTE]
 >
->Derzeit sind benutzerdefinierte Attribute in Filtern nur für Kunden verfügbar, die [RCA](http://docs.marketo.com/x/lwIk) aktiviert haben.
+>Derzeit sind benutzerspezifische Attribute nur für Filter verfügbar, für die [RCA](http://docs.marketo.com/x/lwIk) aktiviert ist.
 
 Wenn Sie auf eine Kategorie klicken, werden mehrere Kategorien angezeigt.
 
@@ -57,7 +57,7 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
   </tr> 
   <tr> 
    <td colspan="1"><strong>Benutzerdefinierte Attribute</strong></td> 
-   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder, die <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">Sie für die Analyse der Möglichkeiten aktivieren</a> , können in Performance Insights gefiltert werden.</p></td> 
+   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">Sie aktivieren</a> für die Analyse der Gelegenheit können in Performance Insights gefiltert werden.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investitionszeitraum</strong></p></td> 
