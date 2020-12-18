@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Neues Ereignis-Programm erstellen {#create-a-new-event-program}
+# Neues Ereignis-Programm {#create-a-new-event-program} erstellen
 
 Mit Ereignissen können Sie Online- und Offline-Ereignis automatisieren! Erfassen Sie den Status Ihrer Mitarbeiter, während sie sich in verschiedenen Phasen bewegen, und erhalten Sie genaue Messungen des ROI für Ihre Marketinginitiativen.
 
@@ -23,7 +23,7 @@ Mit Ereignissen können Sie Online- und Offline-Ereignis automatisieren! Erfasse
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Wählen Sie einen Namen für Ihr Ereignis aus. Wählen Sie dann unter &quot; **Programm-Typ**&quot;die Option **Ereignis**.
+1. Wählen Sie einen Namen für Ihr Ereignis aus. Wählen Sie dann unter **Programm-Typ** **Ereignis**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
@@ -31,7 +31,7 @@ Mit Ereignissen können Sie Online- und Offline-Ereignis automatisieren! Erfasse
 
    >[!NOTE]
    >
-   >Kanal definieren die verschiedenen Status, die eine Person in einem Programm haben kann. Weitere Informationen zur [Programm-Mitgliedschaft](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) finden Sie hier.
+   >Kanal definieren die verschiedenen Status, die eine Person in einem Programm haben kann. Weitere Informationen zu [Programm-Mitgliedschaft](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) finden Sie hier.
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
@@ -39,15 +39,15 @@ Mit Ereignissen können Sie Online- und Offline-Ereignis automatisieren! Erfasse
 
    ![](assets/image2015-2-26-14-3a33-3a17.png) ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Um Ihr Ereignis zu planen, wählen Sie &quot;Ansicht **** planen&quot;und klicken Sie dann im Kalender darauf, um das Popup zu öffnen. Geben Sie Datum und Uhrzeit ein.
+1. Um Ihr Ereignis einzuplanen, wählen Sie **Ansicht einplanen** und klicken Sie dann im Kalender darauf, um das Popup zu öffnen. Geben Sie Datum und Uhrzeit ein.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Schieben Sie die Leiste nach Abschluss **zu Bestätigt** .
+1. Schieben Sie die Leiste nach Abschluss der Überprüfung auf **Bestätigt**.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Ta-da! Ihr neues Ereignis wird jetzt im Baum angezeigt. Nachdem Sie Ihr Ereignis erstellt haben, erstellen Sie die [Landingpages](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)und [E-Mails](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) , um Ihre Gäste einzuladen! Sie werden sich auch mit der [Programmplanung Ansicht](http://docs.marketo.com/display/docs/program+schedule+view)vertraut machen wollen.
+Ta-da! Ihr neues Ereignis wird jetzt im Baum angezeigt. Nachdem Sie Ihr Ereignis erstellt haben, erstellen Sie die [Landingpages](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie möchten sich auch mit der [Programmplanung-Ansicht](http://docs.marketo.com/display/docs/program+schedule+view) vertraut machen.
 
 >[!MORELIKETHIS]
 >
