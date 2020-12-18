@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Registerkarte &quot;Me&quot; {#understanding-the-me-tab}
+# Die Registerkarte &quot;Me&quot;{#understanding-the-me-tab}
 
 Auf der Registerkarte &quot;Me&quot; zeigen wir Ihnen die Anzahl der gesendeten E-Mails sowie die Anzahl der mit einer Vorlage gesendeten E-Mails mit der E-Mail-Aktivität.
 
