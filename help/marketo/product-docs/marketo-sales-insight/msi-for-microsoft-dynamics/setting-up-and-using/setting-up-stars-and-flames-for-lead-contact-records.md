@@ -15,16 +15,16 @@ ht-degree: 0%
 
 Sterne und Flammen auf Kontaktdatensätzen hängen von Folgendem ab: Interessentenbewertungs-, Relative Score-, Dringlichkeitsfelder und Prioritätsfelder. Diese Felder sind nach der Installation und Konfiguration der MSI-Lösung standardmäßig verfügbar. Wenn Sie keine Sterne und Flammen haben, könnte eine vorherige Einrichtung/Anpassung dazu geführt haben, dass diese entfernt wurden. Gehen Sie wie folgt vor, um sie hinzuzufügen.
 
-1. Klicken Sie in Microsoft Dynamics auf die Dropdownliste Vertrieb und wählen Sie **Einstellungen**. Klicken Sie auf **Anpassungen** und **passen Sie das System** an.
-1. Klicken Sie im linken Bereich auf **Entitäten**.
-1. Klicken Sie auf **Lead**, dann auf **Forms** und wählen Sie das zu bearbeitende Formular aus.
+1. Klicken Sie in Microsoft Dynamics auf die Dropdownliste Verkauf und wählen Sie **Einstellungen**. Klicken Sie auf **Anpassungen** und **Anpassen des Systems**.
+1. Klicken Sie im linken Bereich auf **Entities**.
+1. Klicken Sie auf **Lead**, dann **Forms** und wählen Sie dann das zu bearbeitende Formular aus.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Klicken Sie im linken Bereich auf **MarketingTo Sales Insight** . Klicken Sie im rechten Bereich auf die Dropdownliste Filter und wählen Sie **Benutzerdefinierte Felder**.
+1. Klicken Sie im linken Bereich auf **Marketo Sales Insight**. Klicken Sie im rechten Bedienfeld auf die Dropdownliste Filter und wählen Sie **Benutzerdefinierte Felder**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
 1. Ziehen Sie Folgendes per Drag &amp; Drop: Interessentenbewertungs-, Relative Score-, Dringlichkeitsfelder und Prioritätsfelder. Ordnen Sie sie so an, dass sie am besten für Sie funktionieren. Sie können auch ein beliebiges Feld formatieren, indem Sie mit der Dublette darauf klicken.
-1. Wenn Sie fertig sind, klicken Sie auf **Speichern und schließen**.
+1. Wenn Sie fertig sind, klicken Sie auf **Speichern und Schließen**.
 
