@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Eine geführte Landingpage erstellen {#create-a-guided-landing-page}
+# Eine geführte Landingpage {#create-a-guided-landing-page} erstellen
 
 >[!NOTE]
 >
->Landingpages werden durch ihre Vorlage definiert. [Erfahren Sie mehr](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) über die Vorlagen für freie und geführte Landingpages.
+>Landingpages werden durch ihre Vorlage definiert. [Erfahren Sie ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mehr über Vorlagen für freie und geführte Landingpages.
 
 >[!PREREQUISITES]
 >
->Um eine benutzerdefinierte Vorlage zu verwenden, müssen Sie zunächst eine Vorlage für die geführte Landingpage [erstellen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>Um eine benutzerdefinierte Vorlage zu verwenden, müssen Sie zunächst [eine Vorlage für die geführte Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md) erstellen.
 
-## Erstellen einer Landingpage mit Hilfslinien in einem Programm {#create-a-guided-landing-page-in-a-program}
+## Erstellen einer geführten Landingpage in einem Programm {#create-a-guided-landing-page-in-a-program}
 
 Geführte Landingpages können als lokale Assets eines Programms oder in Design Studio erstellt werden, um global verwendet zu werden.
 
@@ -33,7 +33,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klicken Sie auf die Dropdownliste **Neu** . Wählen Sie **Neues lokales Asset**.
+1. Klicken Sie auf die Dropdownliste **Neu**. Wählen Sie **Neues lokales Element**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
@@ -45,7 +45,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
    >[!NOTE]
    >
-   >Vorlagen für Landingpages mit Hilfslinien haben das Symbol ![—](assets/image2015-5-26-9-3a26-3a51.png) neben ihnen. Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
+   >Vorlagen für geführte Landingpages haben neben ihnen das Symbol ![—](assets/image2015-5-26-9-3a26-3a51.png). Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,7 +55,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
    ![](assets/six.png)
 
-1. Klicken Sie auf die Dropdownliste **Neu** . Wählen Sie **Neue Landingpage**.
+1. Klicken Sie auf die Dropdownliste **Neu**. Wählen Sie **Neue Landingpage**.
 
    ![](assets/seven.png)
 
@@ -69,6 +69,6 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
 >[!TIP]
 >
->Die URL wird automatisch aus den Programms- und Landingpages-Namen erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL** .
+>Die URL wird automatisch aus den Programms- und Landingpages-Namen erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL**.
 >
->Deaktivieren Sie das Kontrollkästchen **Im Editor** öffnen, wenn der Editor nicht sofort geöffnet werden soll, nachdem Sie auf **Erstellen** geklickt haben.
+>Deaktivieren Sie das Kontrollkästchen **Im Editor öffnen**, wenn der Editor nicht sofort geöffnet werden soll, nachdem Sie auf **Erstellen** geklickt haben.
