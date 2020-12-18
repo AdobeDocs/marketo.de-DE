@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Benutzerdefinierte Felder mit Leistungseinsichten synchronisieren {#sync-custom-fields-to-performance-insights}
+# Benutzerdefinierte Felder mit Performance Insights {#sync-custom-fields-to-performance-insights} synchronisieren
 
 MPI-Dashboard für Umsatz und Pipeline können nach benutzerdefinierten Marketo-Feldern filtern. Dazu müssen Sie die zu synchronisierenden benutzerdefinierten Felder festlegen.
 
@@ -21,9 +21,9 @@ MPI-Dashboard für Umsatz und Pipeline können nach benutzerdefinierten Marketo-
 
 >[!NOTE]
 >
->Dieser Artikel ist nur für Benutzer gedacht, die **nicht** über [RCA](http://docs.marketo.com/x/lwIk)verfügen. Wenn Sie RCA haben, befolgen Sie bitte die Schritte in [diesem Artikel](http://docs.marketo.com/x/FQQk).
+>Dieser Artikel ist nur für Benutzer gedacht, die **nicht** [RCA](http://docs.marketo.com/x/lwIk) haben. Wenn Sie RCA haben, befolgen Sie bitte die Schritte in [diesem Artikel](http://docs.marketo.com/x/FQQk).
 
-1. Gehen Sie zum Abschnitt **Admin** .
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
@@ -31,15 +31,15 @@ MPI-Dashboard für Umsatz und Pipeline können nach benutzerdefinierten Marketo-
 
    ![](assets/2-3.png)
 
-1. Klicken Sie auf die Registerkarte **Benutzerdefinierte Feldsynchronisierung** .
+1. Klicken Sie auf die Registerkarte **Benutzerdefinierte Feldsynchronisierung**.
 
    ![](assets/3-5.png)
 
-1. Wählen Sie das Feld aus, für das die Synchronisierung aktiviert werden soll, und klicken Sie auf &quot;Synchronisierungsoption **bearbeiten&quot;**.
+1. Wählen Sie das Feld, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option zum Bearbeiten der Synchronisierung**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Ändern Sie den **Synchronisierungsstatus** in **Aktiviert**.
+1. Ändern Sie **Synchronisierungsstatus** in **Aktiviert**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
