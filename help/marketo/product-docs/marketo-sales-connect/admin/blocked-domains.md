@@ -33,5 +33,5 @@ Hilft Ihrem Vertriebsteam, erfolgreich zu sein, indem verhindert wird, dass Konk
 
    >[!NOTE]
    >
-   >E-Mails, die Teil eines [Gruppen-E-Mail](http://docs.marketo.com/x/KAQ6Ag) -Versands sind und die fehlschlagen, weil sie an eine blockierte E-Mail-Domäne gesendet werden, schlagen im Hintergrund fehl und werden nicht im fehlerhaften E-Mail-Ordner angezeigt.
+   >E-Mails, die Teil einer [Gruppen-E-Mail](http://docs.marketo.com/x/KAQ6Ag) sind und die fehlschlagen, weil sie an eine blockierte E-Mail-Domäne gesendet werden, schlagen ohne Meldung fehl und werden nicht im Ordner mit fehlgeschlagenen E-Mails angezeigt.
 
