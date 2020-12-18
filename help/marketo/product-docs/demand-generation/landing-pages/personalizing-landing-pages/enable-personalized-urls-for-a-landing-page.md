@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aktivieren personalisierter URLs für eine Landingpage {#enable-personalized-urls-for-a-landing-page}
+# Personalisierte URLs für eine Landingpage {#enable-personalized-urls-for-a-landing-page} aktivieren
 
 Personalisierte URLs eignen sich hervorragend für Kampagnen von Drucksendungen.
 
@@ -23,11 +23,11 @@ Personalisierte URLs eignen sich hervorragend für Kampagnen von Drucksendungen.
 
 
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf die Einstellungen für die **personalisierte URL**.
+1. Wählen Sie eine Landingpage und klicken Sie auf die Einstellungen für **Personalisierte URL**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Sie können nun **Personalisierte URLs** aktivieren und auf **Speichern** klicken.
+1. Sie können nun **Personalisierte URLs aktivieren** aktivieren und auf **Speichern** klicken.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
