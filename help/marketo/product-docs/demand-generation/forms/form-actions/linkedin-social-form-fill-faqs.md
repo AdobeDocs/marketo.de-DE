@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Häufig gestellte Fragen zur LinkedIn Social-Formularausfüllung {#linkedin-social-form-fill-faqs}
+# Häufig gestellte Fragen zum Ausfüllen von LinkedIn-Social-Formularen{#linkedin-social-form-fill-faqs}
 
 Die überarbeitete API-Richtlinie von LinkedIn erforderte, dass LinkedIn Social-Formulare aus unserem Produkt entfernt wurden.
 
-## Wichtige Dinge zu wissen {#important-things-to-know}
+## Wichtige Dinge, die Sie wissen sollten {#important-things-to-know}
 
 * Die Schaltflächen zum Ausfüllen von LinkedIn-Social-Formularen sind ab dem 28. April 2016 nicht mehr verfügbar
 
@@ -61,11 +61,11 @@ Nein, Ihre Formulare, von denen wir diese Funktion entfernt haben, bleiben verö
 
 Nein, wir entfernen nur die LinkedIn-Schaltfläche aus Ihrem Formular. Wenn Social-Formularausfüllung auf ein Formular angewendet wird, wird ein darüber erstellter Container mit den Schaltflächen zum Ausfüllen von Social-Formularen erstellt. Vor dem 28. April 2016 ähnelte das Aussehen des Containers dem folgenden Bild, wenn LinkedIn die einzige Option war:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Nach dem 28. April 2016 ist nun ein leerer Container am Anfang eines Formulars, in dem die LinkedIn-Social-Formularausfüllung entfernt wurde, übrig:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
