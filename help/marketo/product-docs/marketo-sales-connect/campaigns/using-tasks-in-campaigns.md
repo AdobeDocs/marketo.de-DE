@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aufgaben in Kampagnen verwenden {#using-tasks-in-campaigns}
+# Verwenden von Aufgaben in Kampagnen {#using-tasks-in-campaigns}
 
 Aufgaben sind ein leistungsstarkes Werkzeug, wenn Sie eine Kampagne an einen Ansprechpartner senden, insbesondere wenn Ihr Verkaufsprozess mehrere Kanal/Berührungen umfasst.
 
