@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Protokollkarte abmelden {#unsubscribe-history-card}
+# Protokollkarte abbestellen {#unsubscribe-history-card}
 
 Die History Card zum Abbestellen von Abonnements hilft Administratoren und Benutzern, kontextbezogene Informationen über den Abmeldeverlauf ihrer Kontakte zu erhalten.
 
