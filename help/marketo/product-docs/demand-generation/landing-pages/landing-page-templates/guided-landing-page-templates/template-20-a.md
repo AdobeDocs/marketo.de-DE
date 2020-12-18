@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Meldebogen 20-A {#template-a}
+# Vorlage 20-A {#template-a}
 
 [Vorlage 20-A herunterladen](http://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
 
