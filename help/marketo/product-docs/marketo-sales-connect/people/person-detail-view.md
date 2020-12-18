@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Ansicht &quot;Personendaten&quot; {#person-detail-view}
+# Person Detail-Ansicht {#person-detail-view}
 
 Die Ansicht der Personendetails bietet ein detailliertes Profil der einzelnen Personen in Ihrem MSC-Konto.
 
-## Zugriff {#how-to-access}
+## Zugriff auf {#how-to-access}
 
-1. Klicken Sie auf die Registerkarte &quot; **Personen** &quot;, um auf die Ansicht &quot;Personendetails&quot;zuzugreifen.
+1. Klicken Sie auf die Registerkarte **Personen**, um auf die Ansicht der Personendetails zuzugreifen.
 
    ![](assets/people-tab.png)
 
@@ -29,7 +29,7 @@ Die Ansicht der Personendetails bietet ein detailliertes Profil der einzelnen Pe
    >
    >Ganz egal, wo man den Namen einer Person sieht, man kann darauf klicken und zu ihrer Ansicht &quot;Personendetails&quot;gelangen.
 
-## Über Registerkarte {#about-tab}
+## Info zu Registerkarte {#about-tab}
 
 Umfasst alle Kontaktangaben der Person.
 
@@ -68,9 +68,9 @@ Sehen Sie, wie diese Person sich mit Ihrer Reichweite beschäftigt.
 
 **Marketing-Aktivität**
 
-* Erkennen Sie, wie Ihre Person mit Marketing-Kampagnen interagiert.
+* Erkennen Sie, wie Ihre Person mit Marketing-Kampagnen interagiert
 
-## Registerkarte &quot;Verlauf&quot; {#history-tab}
+## Verlauf, Registerkarte {#history-tab}
 
 Zeigt Ihre Reichweitengeschichte. Umfasst E-Mails, Kampagnen und Anrufe.
 
@@ -92,7 +92,7 @@ Zeigt Ihre Reichweitengeschichte. Umfasst E-Mails, Kampagnen und Anrufe.
 
 * Alle Anrufe sehen, die Sie an diese Person gerichtet haben
 
-## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
+## Registerkarte Aufgaben {#tasks-tab}
 
 Verwalten Sie Aufgaben, die dieser Person zugeordnet sind.
 
