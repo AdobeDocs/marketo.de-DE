@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# Senden einer E-Mail an mehrere Datensätze in Marketing an Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}
+# Senden einer E-Mail an mehrere Datensätze in Marketing an Sales Insight{#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
 Mit Marketo Sales Insight können Sie ganz einfach eine E-Mail an mehrere Personen senden. Fangen wir an!
 
-1. Klicken Sie in Salesforce auf **Interessenten** oder **Kontakte**.
+1. Klicken Sie in Salesforce auf **Leads** oder **Kontakte**.
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
-1. Klicken Sie auf **Los** , um alle offenen Interessenten Ansicht.
+1. Klicken Sie auf **Los**, um alle offenen Interessenten Ansicht.
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
-1. Markieren Sie in der Ansicht Liste alle Interessenten/Kontakte, an die Sie eine E-Mail senden möchten, und klicken Sie auf **Senden Sie eine E-Mail (klassisch)**.
+1. Markieren Sie in der Ansicht Liste alle Interessenten/Kontakte, an die Sie eine E-Mail senden möchten, und klicken Sie auf **Marketo-E-Mail senden (klassisch)**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Wenn Sie Salesforce-Blitz verwenden, wird auf die Schaltfläche &quot; **Send Marketo Email (Blitz)**&quot;geklickt.
+   >Wenn Sie Salesforce-Blitz verwenden, lautet die Schaltfläche **E-Mail-Nachricht senden (Blitz)**.
 
    >[!TIP]
    >
-   >Siehst du den Knopf nicht? Vergewissern Sie sich, dass Sie der Ansicht [Liste die Schaltflächen &quot;Markieren&quot;](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)hinzugefügt haben.
+   >Siehst du den Knopf nicht? Vergewissern Sie sich, dass [die Schaltflächen &quot;Markieren&quot;der Ansicht &quot;Liste](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)&quot;hinzugefügt wurden.
 
 1. Fahren Sie fort und erstellen Sie Ihre E-Mail. Klicken Sie auf **Mit Marketo senden **nach Abschluss.
 
@@ -41,7 +41,7 @@ Mit Marketo Sales Insight können Sie ganz einfach eine E-Mail an mehrere Person
 
    >[!TIP]
    >
-   >Sie können E-Mails bei Sales Insight [veröffentlichen und aus diesen E-Mails wählen](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) .
+   >Sie können [E-Mail bei Sales Insight veröffentlichen und aus diesen E-Mails wählen.](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
 
    >[!NOTE]
    >
