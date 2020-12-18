@@ -36,7 +36,7 @@ Jede andere Sprache ist standardmäßig Englisch.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klicken Sie unter** Meine persönlichen Daten** auf **Persönliche Informationen**.
+1. Klicken Sie unter** Meine persönlichen Informationen** auf **Persönliche Informationen**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -56,7 +56,7 @@ Jede andere Sprache ist standardmäßig Englisch.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Geh nach Marketo. Suchen Sie nach Ihren [Marketing Insight **API-Konfigurationsdetails**](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
+1. Geh nach Marketo. Suchen Sie die [Marketing-to-Sales Insight **API-Konfiguration** Details](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -76,7 +76,7 @@ Wenn Sie mit der Anpassung Ihrer Salesforce-Organisation fertig sind, hier erfah
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klicken Sie unter &quot; **Meine persönlichen Daten&quot;auf** Persönliche Informationen ****.
+1. Klicken Sie unter **Meine persönlichen Informationen** unter &lt;a2/>Meine persönlichen Informationen **auf**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
