@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Definieren von Zeitkosten {#define-period-costs}
+# Definieren Sie die Zeitkosten {#define-period-costs}
 
 >[!NOTE]
 >
@@ -25,21 +25,21 @@ Verfolgen und verbinden Sie die Kosten für Lead-Pflege und Interessentenakquise
 >
 >Geben Sie zu Beginn eines Programms die prognostizierten Kosten ein. Nach Abschluss des Programms können Sie die Zeitraumkosten bearbeiten und die tatsächlichen Kosten eingeben. Dadurch erhalten Sie genaue Berichte.
 
-## Definieren von Zeitkosten {#define-a-period-cost}
+## Definieren Sie eine Zeitkosten {#define-a-period-cost}
 
 1. Rufen Sie die Registerkarte **Setup** Ihres Programms oder Ereignisses auf.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Ziehen Sie **Period Cost** per Drag &amp; Drop auf die Arbeitsfläche und das Dialogfeld **Neue Kosten** wird angezeigt.
+1. Ziehen Sie **Period Cost** auf die Arbeitsfläche und das Dialogfeld **Neue Kosten** wird angezeigt.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Geben Sie den **Programm-Monat** ein, den Sie mit den definierten Kosten verbinden möchten.
+1. Geben Sie den **Programm Month** ein, den Sie den definierten Kosten zuordnen möchten.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Geben Sie eine **Periodenkosten** als Ganzzahl ohne Dezimalstellen oder Kommas ein (max. 99999999)
+1. Geben Sie eine **Periodenkosten** als Ganzzahl ohne Dezimalstellen oder Kommas ein (max. Grenze: 99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -47,13 +47,13 @@ Verfolgen und verbinden Sie die Kosten für Lead-Pflege und Interessentenakquise
    >
    >Die Währung (z. B. USD, EUR usw.) ist eine globale Einstellung, die von einem Marketing-Administrator verwaltet wird.
 
-1. Geben Sie einen beschreibenden **Hinweis** ein (optional) und klicken Sie auf **Speichern**.
+1. Geben Sie ein beschreibendes **Hinweis** (optional) ein und klicken Sie auf **Speichern**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
 ## Bearbeiten von Zeitkosten {#edit-a-period-cost}
 
-1. Klicken Sie mit der rechten Maustaste auf die Kosten des Zeitraums und wählen Sie **Bearbeiten **aus dem Popup-Menü, um das Dialogfeld Kosten **bearbeiten** zu öffnen.
+1. Klicken Sie mit der rechten Maustaste auf die Kosten des Zeitraums und wählen Sie **Bearbeiten **aus dem Popupmenü, um das Dialogfeld **Kosten bearbeiten** zu öffnen.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -67,7 +67,7 @@ Verfolgen und verbinden Sie die Kosten für Lead-Pflege und Interessentenakquise
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Klicken Sie auf **Löschen** , um die Zeitkosten dauerhaft zu löschen, oder auf **Abbrechen** , um zurückzukehren.
+1. Klicken Sie auf **Löschen**, um die Zeitkosten dauerhaft zu löschen, oder auf **Abbrechen**, um zurückzukehren.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
 
