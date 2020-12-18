@@ -21,14 +21,14 @@ Sie können ein Beispiel senden, um sicherzustellen, dass Ihre Push-Benachrichti
 
 1. Sie können ein Beispiel auf drei Arten senden:
 
-   Klicken Sie in der Struktur auf der linken Seite mit der rechten Maustaste auf das Asset für die Push-Benachrichtigung und klicken Sie auf **Beispiel** senden.
+   Klicken Sie in der Struktur auf der linken Seite mit der rechten Maustaste auf das Asset für die Push-Benachrichtigung und klicken Sie auf **Beispiel senden**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Oder klicken Sie im Menü Aktionen für Push-Benachrichtigungen auf Beispiel **senden**.\
+   Oder klicken Sie im Menü Aktionen für Push-Benachrichtigungen auf **Beispiel senden**.\
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Oder klicken Sie im Editor für Push-Benachrichtigungen auf Beispiel **senden**.
+   Oder klicken Sie im Editor für Push-Benachrichtigungen auf **Beispiel senden**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -36,13 +36,13 @@ Sie können ein Beispiel senden, um sicherzustellen, dass Ihre Push-Benachrichti
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Oder klicken Sie auf **Hinzufügen Gerät** , um ein neues Testgerät [](adding-a-new-test-device.md) hinzuzufügen, an das das Beispiel gesendet werden soll.
+   Klicken Sie andernfalls auf **Hinzufügen Gerät** zu [Fügen Sie ein neues Testgerät](adding-a-new-test-device.md) hinzu, an das das Beispiel gesendet werden soll.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Sie haben zwei Möglichkeiten, Ihr Gerät mit der App zu verbinden.
 
-   Bei der ersten Option klicken Sie auf die Schaltfläche **URL mit Gerät** besuchen, kopieren Sie die URL aus dem Feld und senden Sie sie per E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
+   Klicken Sie bei der ersten Option auf die Schaltfläche **URL mit Gerät** besuchen, kopieren Sie die URL aus dem Feld und senden Sie sie per E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
