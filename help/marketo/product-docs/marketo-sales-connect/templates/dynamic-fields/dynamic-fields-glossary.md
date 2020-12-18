@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Glossar &quot;Dynamische Felder&quot; {#dynamic-fields-glossary}
+# Glossar für dynamische Felder {#dynamic-fields-glossary}
 
-Beim Erstellen einer Vorlage in Sales Connect empfehlen wir immer, dynamische Felder mithilfe der Schaltfläche **MSE Dynamic Fields** zu integrieren.
+Beim Erstellen einer Vorlage in Sales Connect empfehlen wir immer, dynamische Felder mithilfe der Schaltfläche **MSE Dynamische Felder** zu integrieren.
 
-Mit diesem Tool sparen `auto-personalize your email` Sie unzählige Zeit `pulling information from the People page`.
+Dieses Tool wird verwendet, um `auto-personalize your email` und sparen Sie Tonnen Zeit durch `pulling information from the People page`.
 
 | Dynamisches Feld | Beispiel für die E-Mail |
 |---|---|
@@ -30,12 +30,12 @@ Mit diesem Tool sparen `auto-personalize your email` Sie unzählige Zeit `pullin
 
 **Folgendes ist zu beachten**:
 
-* Wenn ein Kontakt auf der Seite &quot;Personen&quot;fehlt `information is entered incorrectly` oder fehlt, wird er `will not pull over correctly` in Ihre Vorlage eingefügt.
+* Wenn ein Kontakt `information is entered incorrectly` oder auf der Seite &quot;Personen&quot;fehlt, wird `will not pull over correctly` in Ihre Vorlage eingefügt.
 
-* Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` ist, dass `{{company_friendly}}` wird `remove any formal title`, wie z.B. Inc., LLC., etc., aus dem Namen der Firma Ihres Kontakts.
-* Achten Sie bei der Verwendung `{{company_friendly}}`darauf, in den Kontaktdaten ein Komma zu trennen. So weiß Sales Connect, was entfernt werden muss, wenn der Wert eingezogen wird.
+* Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` besteht darin, dass `{{company_friendly}}` `remove any formal title` &lt;a3/>, z. B. Inc., LLC. usw., aus dem Namen der Firma Ihres Kontakts wird.
+* Stellen Sie bei Verwendung von `{{company_friendly}}` sicher, dass Sie in den Kontaktdaten die Option &quot;Inc.&quot;oder &quot;Co.&quot;mit einem Komma trennen. So weiß Sales Connect, was entfernt werden muss, wenn der Wert eingezogen wird.
 
 >[!TIP]
 >
->Sie können Ihr eigenes [benutzerdefiniertes dynamisches Feld](http://docs.marketo.com/x/fADb) für alles erstellen, was Sie automatisch in Ihre E-Mails eingefügt haben möchten
+>Sie können Ihr eigenes dynamisches [benutzerdefiniertes Feld](http://docs.marketo.com/x/fADb) für alles erstellen, was Sie automatisch in Ihre E-Mails eingefügt haben möchten
 
