@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforce von Ihrem Sales Connect-Konto trennen {#disconnect-salesforce-from-your-sales-connect-account}
+# Salesforce von Ihrem Sales Connect-Konto {#disconnect-salesforce-from-your-sales-connect-account} trennen
 
 Manchmal müssen Sie Ihr Salesforce-Konto von Ihrem Sales Connect-Konto trennen. So geht es.
 
@@ -25,7 +25,7 @@ Manchmal müssen Sie Ihr Salesforce-Konto von Ihrem Sales Connect-Konto trennen.
 
    ![](assets/six-1.png)
 
-1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Abtrennen**.
+1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Verbindung trennen**.
 
    ![](assets/seven-1.png)
 
@@ -35,11 +35,11 @@ Manchmal müssen Sie Ihr Salesforce-Konto von Ihrem Sales Connect-Konto trennen.
 
    ![](assets/one-1.png)
 
-1. Wählen Sie unter Mein Konto die Option **Salesforce**.
+1. Wählen Sie unter Mein Konto **Salesforce**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Abtrennen**.
+1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Verbindung trennen**.
 
    ![](assets/3333.png)
 
