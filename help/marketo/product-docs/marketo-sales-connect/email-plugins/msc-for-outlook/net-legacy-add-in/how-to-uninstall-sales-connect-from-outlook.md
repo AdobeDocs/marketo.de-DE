@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Das .net Hinzufügen-In wird ab dem 19. Mai 2019 nicht mehr unterstützt. [Klicken Sie hier](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) , um mehr zu erfahren.
+>Das .net Hinzufügen-In wird ab dem 19. Mai 2019 nicht mehr unterstützt. [Klicken Sie ](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) hier, um mehr zu erfahren.
 
-1. Klicken Sie auf das Menü **Beginn** .
+1. Klicken Sie auf das Menü **Beginn**.
 1. Suchen Sie **ToutApp** in der Liste &quot;Programm&quot;.
-1. Klicken Sie darauf und wählen Sie &quot; **Registrierung** aufheben&quot;.
+1. Klicken Sie darauf und wählen Sie **Registrierung rückgängig machen**.
 1. Navigieren Sie zur Systemsteuerung.
 1. Ziehen Sie &quot;Programm Hinzufügen/entfernen&quot;.
-1. Wählen Sie in der Liste &quot;ToutApp&quot;und dann &quot; **Entfernen&quot;**.
+1. Wählen Sie in der Liste ToutApp und dann **Entfernen**.
 
