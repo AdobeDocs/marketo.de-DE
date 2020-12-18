@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Archivieren Sie Inhalte, um Ihr Konto für den Verkaufsinhalt zu bereinigen, ohne Vorlagendaten zu verlieren.
 
-Markieren Sie das Kontrollkästchen neben einer Vorlage und klicken Sie auf **Archivieren**.
+Markieren Sie das Feld neben einer Vorlage und klicken Sie auf **Archiv**.
 
 >[!NOTE]
 >
