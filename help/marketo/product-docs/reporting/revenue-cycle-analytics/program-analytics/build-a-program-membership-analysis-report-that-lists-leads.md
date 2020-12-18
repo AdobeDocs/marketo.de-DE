@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen Sie einen Programm Membership Analyse Report, der von Listen geleitet wird. {#build-a-program-membership-analysis-report-that-lists-leads}
+# Erstellen Sie einen Bericht zur Analyse der Programm-Mitgliedschaft, der von Listen zu {#build-a-program-membership-analysis-report-that-lists-leads} führt.
 
 Führen Sie folgende Schritte aus, um einen Bericht zur Programm-Mitgliedschaft-Analyse zu erstellen, der alle Programm-Mitgliedsnamen anzeigt.
 
@@ -49,7 +49,7 @@ Sehen Sie, wie einfach das war?
 
 ![](assets/seven.png)
 
-Sie können schnell ein Interessentenattribut wie &quot; **Vollständiger Name** &quot;hinzufügen, um zu sehen, wer die Mitglieder sind.
+Sie können schnell ein Interessentenattribut wie **Vollständiger Name** hinzufügen, um zu sehen, wer die Mitglieder sind.
 
 >[!TIP]
 >
