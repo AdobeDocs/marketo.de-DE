@@ -17,15 +17,15 @@ Die empfohlenen Vorlagen von Sales Connect helfen Ihnen, die richtigen Nachricht
 
 1. Wechseln Sie zur Registerkarte &quot;Vorlagen&quot;.
 1. Wählen Sie die Vorlage aus, die Sie empfehlen möchten, und klicken Sie auf **Bearbeiten**.
-1. Um die Funktion &quot;Empfohlene Vorlage&quot;in Ihrer Vorlage zu aktivieren, aktivieren Sie diese Vorlage **automatisch vorschlagen, wenn**.
+1. Um die Funktion &quot;Empfohlene Vorlage&quot;in Ihrer Vorlage zu aktivieren, aktivieren Sie **Diese Vorlage automatisch vorschlagen, wenn**.
 
 ## Alle vs. Beliebige {#all-vs-any}
 
-Jetzt ist es an der Zeit, Ihre Kriterieneinstellungen auszuwählen. Wählen Sie &quot; **Alle** &quot;, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn alle Kriterien erfüllt sind. Wählen Sie &quot; **Beliebig** &quot;, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn eines der Kriterien erfüllt ist.
+Jetzt ist es an der Zeit, Ihre Kriterieneinstellungen auszuwählen. Wählen Sie **Alle**, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn alle Kriterien erfüllt sind. Wählen Sie **Beliebige**, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn eines der Kriterien erfüllt ist.
 
 ## Festlegen von Kriterien {#setting-criteria}
 
-Ihre Kriterien werden die Bedingungen festlegen, unter denen Vorlagen empfohlen werden. Sie können maximal 3 Kriterienelemente festlegen. Wählen Sie zuerst die [dynamischen Felder](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) aus, auf die Sie in Ihrer Vorlage verweisen möchten.
+Ihre Kriterien werden die Bedingungen festlegen, unter denen Vorlagen empfohlen werden. Sie können maximal 3 Kriterienelemente festlegen. Wählen Sie zuerst die [Dynamische Felder](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) aus, auf die Sie in Ihrer Vorlage verweisen möchten.
 
 ## Bedingungen {#conditions}
 
@@ -39,7 +39,7 @@ Wählen Sie jetzt Ihre Bedingung aus. Wenn Ihre Bedingungen für Ihr dynamisches
 
 **Enthält** nicht: Der Wert darf sich nicht im dynamischen Feld befinden (z.B. Marketo Rocks! enthält nicht Awesome)
 
-## Wie eine empfohlene Vorlage aussieht {#what-a-recommended-template-looks-like}
+## Wie eine empfohlene Vorlage aussieht: {#what-a-recommended-template-looks-like}
 
 Speichern Sie die Vorlage jetzt, da Ihre Kriterien festgelegt sind. Von hier aus arbeitet Sales Connect mit seiner Magie, um die besten Vorlagen für Sie aufzudecken.\
 Jetzt, da Sie Ihre erste Vorlage zugeordnet haben, ist es Zeit, den Rest zuzuordnen. Gehen Sie durch Ihre erfolgreichsten Vorlagen und empfehlen Sie sie. Vergessen Sie nicht, die Vorlage auch für Ihr Team freizugeben. Ihre empfohlenen Einstellungen für alle Vorlagen werden auch von Ihrem Team freigegeben.
