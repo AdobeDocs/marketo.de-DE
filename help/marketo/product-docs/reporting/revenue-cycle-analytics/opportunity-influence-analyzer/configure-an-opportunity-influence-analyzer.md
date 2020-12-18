@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Einen Einflussanalysator für Chancen konfigurieren {#configure-an-opportunity-influence-analyzer}
+# Einen möglichen Einflussanalysator {#configure-an-opportunity-influence-analyzer} konfigurieren
 
-Nachdem Sie einen [Einflussanalysator](create-an-opportunity-influence-analyzer.md)für Chancen erstellt haben, können Sie die darin enthaltenen [interessanten Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) konfigurieren.
+Nachdem Sie [einen Einflussanalysator für eine Chance ](create-an-opportunity-influence-analyzer.md) erstellt haben, können Sie die eingeschlossenen Typen von [interessanten Momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) konfigurieren.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Nachdem Sie einen [Einflussanalysator](create-an-opportunity-influence-analyzer.
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Wenn im Analyzer-Diagramm zu viele interessante Momente vorhanden sind, können Sie diese verringern, indem Sie die Auswahl der Personen im **Einstellungsbedienfeld** aufheben oder die Arten interessanter Momente reduzieren.
+   Wenn im Analyzer-Diagramm zu viele interessante Momente vorhanden sind, können Sie diese reduzieren, indem Sie Personen im **Einstellungen**-Bedienfeld deaktivieren oder indem Sie die Arten interessanter Momente reduzieren.
 
 1. Um zu konfigurieren, welche Arten von interessanten Momenten eingeschlossen werden sollen, gehen Sie zur Registerkarte &quot;Einstellungen&quot;und ziehen Sie den Filter &quot;Interessante Momente&quot;.
 
@@ -49,7 +49,7 @@ Nachdem Sie einen [Einflussanalysator](create-an-opportunity-influence-analyzer.
 
 >[!NOTE]
 >
->Weitere Informationen zu Analyzern finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere Analyzer finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
 >[!MORELIKETHIS]
 >
