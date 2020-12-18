@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Genehmigen von Phasen und Zuweisen von Interessenten zu einem Umsatzmodell {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Richten Sie Ihr **Umsatzmodell** **ein** , indem Sie vorhandene Interessenten hinzufügen und Zuordnungsregeln für alle neuen Interessenten erstellen.
+Richten Sie Ihr **Umsatz** **Modell** ein, indem Sie vorhandene Interessenten hinzufügen und Zuordnungsregeln für alle neuen Interessenten erstellen.
 
-## Phasen genehmigen {#approving-stages}
+## Genehmigungsphasen {#approving-stages}
 
 Genehmigen wir die Phasen Ihres Modells, bevor Sie Interessenten hinzufügen.
 
-1. Gehen Sie zum **Bereich **Analytics.** **
+1. Gehen Sie zum Bereich **Analytics **und** **
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,11 +27,11 @@ Genehmigen wir die Phasen Ihres Modells, bevor Sie Interessenten hinzufügen.
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Wählen Sie unter **Modellaktionen** die Option **Genehmigen** von **Phasen**.
+1. Wählen Sie unter **Modellaktionen** **Genehmigen** **Phasen**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. Sie werden mit einer Warnung begrüßt. Klicken Sie auf Leads **zuweisen**.
+1. Sie werden mit einer Warnung begrüßt. Klicken Sie auf **Leads zuweisen**.
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
@@ -39,21 +39,21 @@ Ausgezeichnet! Lassen Sie uns fortfahren und diese Leads zuweisen.
 
 ## Zuweisen vorhandener Interessenten {#assigning-existing-leads}
 
-[Erstellen Sie eine intelligente Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) , um die Interessenten für eine Modellphase in Ihrer Interessentendatenbank zu identifizieren.
+[Erstellen Sie eine intelligente ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) Liste, um die Interessenten für eine Phase Ihres Modells in Ihrer Interessentendatenbank zu identifizieren.
 
-1. Nachdem Sie die Smart-Liste [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)erstellt haben, klicken Sie auf die Registerkarte &quot; **Interessenten** &quot;.
+1. Nachdem Sie [Ihre Smart-Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) erstellt haben, klicken Sie auf die Registerkarte **Interessenten**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Klicken Sie auf Alle **auswählen** , um die Interessenten auszuwählen.
+1. Klicken Sie auf **Wählen Sie Alle** aus, um die Leads auszuwählen.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Öffnen Sie die Dropdownliste **Interessentenaktionen** und wählen Sie **Spezial**. Klicken Sie auf **Umsatzstufe**&#x200B;ändern.
+1. Öffnen Sie die Dropdownliste **Interessentenaktionen** und wählen Sie **Spezial**. Klicken Sie auf **Umsatzstufe ändern**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Wählen Sie das richtige **Modell** und die richtige **Bühne**. Klicken Sie auf Jetzt **ausführen**.
+1. Wählen Sie das richtige **Modell** und die richtige **Stufe**. Klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
@@ -65,9 +65,9 @@ Großartig! Erstellen Sie Zuordnungsregeln, um festzulegen, wie den Phasen neue 
 >
 >Wenn sich Ihr Modell im Status &quot;Genehmigte Phasen&quot;befindet, werden in den Aktivitäten-Protokollen der Interessenten keine Ereignisse zur Umsatzstufe ändern angezeigt. Wenn Ihr Modell vollständig genehmigt ist, wird dieser Flussschritt übersprungen, wenn Sie einen Interessenten in dieselbe Phase verschieben, in der er sich gerade befindet.
 
-## Neue Interessenten: Zuordnungsregeln erstellen  {#new-leads-create-assignment-rules}
+## Neue Interessenten: Aufgabenregeln erstellen {#new-leads-create-assignment-rules}
 
-1. Klicken Sie erneut auf** Marketing-Homepage** und wählen Sie dann **Analytics**.
+1. Klicken Sie erneut auf** Markieren Sie zu Hause** und wählen Sie **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -83,16 +83,16 @@ Großartig! Erstellen Sie Zuordnungsregeln, um festzulegen, wie den Phasen neue 
 
 Erstellen Sie eine Interessentenbewertungsregel, um die neuen Interessenten mit einer Mindestpunktzahl einem entsprechenden Schritt zuzuweisen.
 
-1. Wählen Sie unter **Wenn** die Option **Interessentenbewertung**. Wählen Sie dann **mindestens**aus.
-` ![](assets/image2015-4-29-13-3a27-3a8.png)
+1. Wählen Sie unter **Wenn** **Interessentenbewertung**. Wählen Sie dann **mindestens**.
+s ![](assets/image2015-4-29-13-3a27-3a8.png)
 
    `
 
-1. Geben Sie **40** in das Feld ein und wählen Sie &quot; **Verkaufsvorstand** &quot;als Phase. Klicken Sie zum Abschließen auf **Speichern** .
+1. Geben Sie **40** in das Feld ein und wählen Sie **Verkaufsleiter** als Phase. Klicken Sie auf **Speichern**, um abzuschließen.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
 >[!MORELIKETHIS]
 >
->Um Ihr Modell zu genehmigen, lesen Sie unsere Hilfeseite unter ** [Genehmigen und Nicht genehmigen eines Umsatzmodells](approve-unapprove-a-revenue-model.md)**.
+>Um Ihr Modell zu genehmigen, lesen Sie unsere Hilfeseite unter ** [Genehmigen und Ungenehmigen eines Umsatzmodells](approve-unapprove-a-revenue-model.md)***.
 
