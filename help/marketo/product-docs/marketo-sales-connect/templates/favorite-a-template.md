@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vorlage favorisieren {#favorite-a-template}
+# Eine Vorlage favorisieren {#favorite-a-template}
 
 Sie können Vorlagen aus jeder beliebigen Kategorie zu Ihrer Favoriten-Liste hinzufügen. Dadurch wird automatisch eine neue Kategorie oben in Ihrer Liste generiert, damit Sie schnell auf die Vorlagen zugreifen können, die Sie am häufigsten verwenden.
 
