@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Leistungsbericht für Personen {#people-performance-report}
+# Personenerfüllungsbericht {#people-performance-report}
 
 Verwenden Sie einen Personendaten-Leistungsbericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie hinzugefügt haben und wann. Erfahren Sie mehr über die Menschen und beurteilen Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach Personen- oder Firmen-Attributen oder nach [Segmentierung](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Erstellen Sie einen Bericht](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Berichtstyp** Benutzerleistung [aus](report-type-overview.md).
-1. [Legen Sie den Zeitraum Ihres Berichts](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) fest und klicken Sie auf die Registerkarte **Bericht** .
+1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Typ  **People** [Performance](report-type-overview.md).
+1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
 1. Großartig! Jetzt können Sie Ihren Bericht &quot;People Performance&quot;entdecken. Erfahren Sie, wie Sie in der unten stehenden Liste noch mehr davon bekommen.
 
    >[!NOTE]
    >
-   >Standardmäßig werden Berichte zur Personenleistung nach *Erstellt am* Monat gruppiert.
+   >Die Berichte zur Personenleistung werden standardmäßig nach *Erstellt am* Monat gruppiert.
 
    ![](assets/one.png)
 
-## Die Macht der Leistungsberichte von Personen {#the-power-of-people-performance-reports}
+## Die Macht der Personendaten - Leistungsberichte {#the-power-of-people-performance-reports}
 
 Personendaten Leistungsberichte sind sehr leistungsfähig. Durch weitere Gruppierung, Filterung und Konfiguration können Sie viel über die Personen in Ihrer Datenbank und über die Effektivität Ihrer Programm erfahren.
 Sie können:
@@ -41,12 +41,12 @@ Sie können:
 
 >[!TIP]
 >
->Denken Sie daran, dass Berichte einfach [erstellt](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [konfiguriert](http://docs.marketo.com/display/docs/basic+reporting)und [gelöscht](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)werden können. Machen Sie sich mit den vielen Möglichkeiten vertraut, wie Sie sie manipulieren können, um zu lernen, wie Sie sich am besten auf wichtige Daten konzentrieren können.
+>Denken Sie daran, dass Berichte einfach zu erstellen sind: [create](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configure](http://docs.marketo.com/display/docs/basic+reporting) und [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Machen Sie sich mit den vielen Möglichkeiten vertraut, wie Sie sie manipulieren können, um zu lernen, wie Sie sich am besten auf wichtige Daten konzentrieren können.
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
 >
->Erfahren Sie mehr im [Basic](http://docs.marketo.com/display/docs/basic+reporting)ReportDeep Dive.
+>Weitere Informationen finden Sie im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting)Deep Dive.
 
