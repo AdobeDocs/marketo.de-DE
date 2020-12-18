@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Anzeige Ihrer Web-Kampagne festlegen {#set-how-your-web-campaign-displays}
+# So wird Ihre Web-Kampagne angezeigt {#set-how-your-web-campaign-displays}
 
 Es gibt mehrere Methoden, um zu nutzen, wann und wie Ihre Web-Kampagne angezeigt wird.
 
@@ -29,7 +29,7 @@ Geben Sie eine Verzögerung (in Sekunden) an, damit Web-Kampagnen auf Ihrer Webs
 
    ![](assets/d1.png)
 
-1. Klicken Sie auf die Dropdownliste **Warten** und wählen Sie die gewünschte Zeitdauer aus.
+1. Klicken Sie auf die Dropdownliste **Wait** und wählen Sie die gewünschte Zeitdauer aus.
 
    ![](assets/d2.png)
 
@@ -39,7 +39,7 @@ Geben Sie eine Verzögerung (in Sekunden) an, damit Web-Kampagnen auf Ihrer Webs
 
    ![](assets/s1.png)
 
-1. Klicken Sie auf die Dropdownliste **Wann** und wählen Sie aus, wann Ihre Web-Kampagne angezeigt werden soll.
+1. Klicken Sie auf die Dropdownliste **Wenn** und wählen Sie aus, wann Ihre Web-Kampagne angezeigt werden soll.
 
    ![](assets/s2.png)
 
@@ -60,11 +60,11 @@ Geben Sie eine Verzögerung (in Sekunden) an, damit Web-Kampagnen auf Ihrer Webs
  </tbody> 
 </table>
 
-## Ausstiegsbedingung {#exit-intent}
+## Ausstiegsziel {#exit-intent}
 
 Die Ausstiegsabsicht zeigt die Web-Kampagne an, wenn der Mauszeiger den Browser verlässt.
 
-1. Klicken Sie auf die Dropdown-Liste **Anzeigen auf** und wählen Sie **Ausstiegsbedingung**.
+1. Klicken Sie auf die Dropdownliste **Anzeigen auf** und wählen Sie **Ausstiegsziel**.
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ Die Ausstiegsabsicht zeigt die Web-Kampagne an, wenn der Mauszeiger den Browser 
 
 >[!TIP]
 >
->Wie sehen Ihre ausgewählten Effekte im Vorfeld aus? Sehen Sie sich sie über eine [Web-Kampagne-Vorschau](preview-and-test-a-web-campaign.md)an.
+>Wie sehen Ihre ausgewählten Effekte im Vorfeld aus? Überprüfen Sie sie über eine [Web-Kampagne-Vorschau](preview-and-test-a-web-campaign.md).
 
