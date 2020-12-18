@@ -27,7 +27,7 @@ Beim Automatisieren einer Kampagne möchten Sie wahrscheinlich nicht, dass Ihre 
 
    ![](assets/three-2.png)
 
-1. Aktivieren Sie das Kontrollkästchen **Wochenenden** überspringen.
+1. Aktivieren Sie das Kontrollkästchen **Wochenenden überspringen**.
 
    ![](assets/four-2.png)
 
