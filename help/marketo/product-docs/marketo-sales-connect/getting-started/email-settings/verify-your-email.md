@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-Mail bestätigen {#verify-your-email}
+# E-Mail {#verify-your-email} überprüfen
 
 Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie die folgenden Schritte aus.
 
@@ -23,11 +23,11 @@ Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie 
 
    ![](assets/verify-your-email-2.png)
 
-1. Suchen Sie unter &quot;Adresse und Unterschrift&quot;die E-Mail-Identität, die Sie überprüfen möchten, und klicken Sie auf &quot;E-Mail **erneut senden&quot;**. Eine neue Verifizierungs-E-Mail wird gesendet.
+1. Suchen Sie unter &quot;Adresse und Unterschrift&quot;die E-Mail-Identität, die Sie überprüfen möchten, und klicken Sie auf **E-Mail erneut senden**. Eine neue Verifizierungs-E-Mail wird gesendet.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicken Sie auf **Erneut senden**.
+1. Klicken Sie auf **Resend**.
 
    ![](assets/verify-your-email-4.png)
 
