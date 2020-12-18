@@ -17,15 +17,15 @@ Auf was haben Administratoren und Nichtadministratoren Zugriff?
 
 ## Admin-Benutzerberechtigungen {#admin-user-permissions}
 
-Administratoren können alle Vorlagen [Ansicht](http://docs.marketo.com/x/OYAXAQ)haben.
+Administratoren können [alle Vorlagen ](http://docs.marketo.com/x/OYAXAQ) Ansicht.
 
 ![](assets/templates.jpg)
 
-Administratoren können alle Kampagnen [Ansichten](http://docs.marketo.com/x/N4AXAQ)durchführen.
+Administratoren können [Ansicht aller Kampagnen](http://docs.marketo.com/x/N4AXAQ).
 
 ![](assets/campaigns.jpg)
 
-Administratoren können alle E-Mail-Aktivitäten [Ansicht](http://docs.marketo.com/x/SYAXAQ)haben.
+Administratoren können [alle E-Mail-Aktivitäten ](http://docs.marketo.com/x/SYAXAQ) &lt;a0/>Ansicht.
 
 ![](assets/email-activity.png)
 
@@ -39,7 +39,7 @@ Alle Personendaten können in der Gruppe Alle aufgerufen werden.
 
 Administratoren können Kampagnen im Namen von Benutzern beenden.
 
-## Benutzerberechtigungen ohne Administratorrechte {#non-admin-user-permissions}
+## Benutzerberechtigungen ohne Admin {#non-admin-user-permissions}
 
 * Analytics:
 
