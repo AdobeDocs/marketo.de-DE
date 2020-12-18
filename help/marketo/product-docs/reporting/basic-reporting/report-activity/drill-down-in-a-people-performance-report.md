@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weitere Personendaten anzuzeigen.
 
-1. Klicken Sie auf die Registerkarte **Bericht** , um einen vorhandenen Bericht Ansicht.
+1. Klicken Sie auf die Registerkarte **Bericht**, um einen vorhandenen Bericht Ansicht.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weit
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Drilldown**.
+1. Klicken Sie auf **Drill-Down**.
 
    ![](assets/three.png)
 
-1. Wählen Sie im Popup- **Drilldown** das Attribut aus, nach dem Sie im Drilldown-Verfahren suchen möchten. Klicken Sie dann auf** Drill-Down**.
+1. Wählen Sie im Popupfenster **Drill-Down** das Attribut aus, zu dem Sie einen Drilldown durchführen möchten. Klicken Sie dann auf** Drill-Down**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weit
 
    ![](assets/five.png)
 
-1. Um die Ergebnisse zu speichern (optional), klicken Sie auf das Symbol &quot; **Exportieren** &quot;unten links.
+1. Klicken Sie zum Speichern der Ergebnisse (optional) unten links auf das Symbol **Export**.
 
    ![](assets/six.png)
 
