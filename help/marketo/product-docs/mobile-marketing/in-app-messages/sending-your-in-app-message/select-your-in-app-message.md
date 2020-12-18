@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# In-App-Nachricht auswählen {#select-your-in-app-message}
+# Wählen Sie Ihre In-App-Nachricht {#select-your-in-app-message}
 
 Hier wählen Sie die Nachricht aus, die Sie im Programm verwenden möchten.
 
@@ -31,4 +31,4 @@ Hier wählen Sie die Nachricht aus, die Sie im Programm verwenden möchten.
    >
    >Um eine andere Nachricht auszuwählen, löschen Sie sie im Feld &quot;In-App-Nachricht&quot;. Dann wird der Link &quot;Neue In-App-Nachricht&quot;zurückgegeben. Klicken Sie darauf und wählen Sie eine andere Nachricht aus.
 
-Du bist auf dem richtigen Weg. Zeit zum [Planen des Sendevorgangs](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+Du bist auf dem richtigen Weg. Zeit bis [planen Sie den Versand](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
