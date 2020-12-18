@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programm-Effektivität mit dem Programm-Analyzer vergleichen {#compare-program-effectiveness-with-the-program-analyzer}
+# Programm-Effektivität mit dem Programm-Analyzer {#compare-program-effectiveness-with-the-program-analyzer} vergleichen
 
 Verwenden Sie den Programm Analyzer, um Ihre am effektivsten und effektivsten Programm zu identifizieren, indem Sie die Kosten für Programm, Mitgliederakquise, Pipeline und Umsatz vergleichen.
 
@@ -38,7 +38,7 @@ Verwenden Sie den Programm Analyzer, um Ihre am effektivsten und effektivsten Pr
 
    >[!TIP]
    >
-   >Eine schnelle Möglichkeit, Programm auf nur einen Kanal zu filtern, besteht darin, **Ansicht > Nach Kanal** auszuwählen, auf die Blase für diesen Kanal zu klicken und dann im Popup-Dialogfeld auf den Namen des Kanals zu klicken.
+   >Eine schnelle Methode zum Filtern von Programmen auf nur einen Kanal besteht darin, **Ansicht > Nach Kanal** auszuwählen, auf die Blase für diesen Kanal zu klicken und dann im Popup-Dialogfeld auf den Kanal-Namen zu klicken.
 
 1. Verwenden Sie die Dropdownliste &quot;X-Achse&quot;, um eine Metrik für die horizontale Achse auszuwählen. Wir werden mit Programm-Kosten Beginn machen.
 
@@ -54,7 +54,7 @@ Verwenden Sie den Programm Analyzer, um Ihre am effektivsten und effektivsten Pr
 
    >[!TIP]
    >
-   >Sie können auch versuchen, Ihre Ansicht zu verbessern, indem Sie von einer linearen zu einer logarithmischen Skala wechseln oder umgekehrt. Verwenden Sie das Menü &quot; **Skalieren** &quot;oben.
+   >Sie können auch versuchen, Ihre Ansicht zu verbessern, indem Sie von einer linearen zu einer logarithmischen Skala wechseln oder umgekehrt. Verwenden Sie das Menü **Skalieren** oben.
 
 1. Machen Sie sich mit dem resultierenden Diagramm vertraut.
 
@@ -68,13 +68,13 @@ Verwenden Sie den Programm Analyzer, um Ihre am effektivsten und effektivsten Pr
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)zu verstehen.
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zu verstehen.
 
 1. Beobachten Sie, wie sich die Größe der Blasen in Ihrem Diagramm ändert.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Durch Hinzufügen von **(FT) Umsatz Won**, sehen wir schnell, dass die Origami Expo viele neue Namen erworben hat, aber es führt zu vergleichsweise wenig Umsatz. Außerdem sehen wir, dass das Programm Paper Fest 12 weniger, aber bessere Namen erhält, da es mehr Umsatz erzielt (größere Blase).
+   Durch Hinzufügen von **(FT) Umsatz Won** sehen wir schnell, dass die Origami Expo zwar viele neue Namen erworben hat, aber vergleichsweise wenig Umsatz erzielt. Außerdem sehen wir, dass das Programm Paper Fest 12 weniger, aber bessere Namen erhält, da es mehr Umsatz erzielt (größere Blase).
 
 1. Verwenden Sie die Dropdownliste Farbe, um eine vierte Metrik hinzuzufügen. Wir werden uns (FT) Umsatz aus Investitionen ansehen.
 
@@ -100,4 +100,4 @@ Wir sehen, dass das Paper Fest 12-Programm nicht nur mehr Umsatz (größere Blas
 
 >[!NOTE]
 >
->Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
