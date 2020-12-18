@@ -17,8 +17,8 @@ Mit personalisierter Remarketing können Sie die Interaktion mit Ihren Benutzern
 
 >[!PREREQUISITES]
 >
->* Schließen Sie die [Retargeting-Konfiguration mit der](retargeting-with-web-personalization-data.md) Konfiguration der Web-Personalisierungsdaten ab.
->* Lesen Sie die Hilfe [zu](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) Remarketing mit Google Analytics.
+>* Schließen Sie die Konfiguration [Retargeting mit Web-Personalisierungsdaten](retargeting-with-web-personalization-data.md) ab.
+>* Lesen Sie die Dokumentation [Remarketing mit Google Analytics - Hilfe](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)
 
 >
 
@@ -35,11 +35,11 @@ Mit personalisierter Remarketing können Sie die Interaktion mit Ihren Benutzern
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
 1. **Linkkonfiguration**: Link zu Ihrem Google Adwords-Konto
-1. **Audience** definieren: Klicken Sie auf Neu **erstellen**.
+1. **Audience** definieren: Klicken Sie auf Neu  **erstellen**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klicken Sie im Audience Builder auf **Sequenzen** und **suchen Sie die RTP-Daten** unter Benutzerdefinierte Dimensionen, Benutzerspezifische Variablen, Ereignis.
+1. Klicken Sie im Audiencen-Builder auf **Sequenzen** und **Suchen Sie die RTP-Daten** unter Benutzerdefinierte Dimensionen, Benutzerdefinierte Variablen, Ereignis.
 
 >[!TIP]
 >
@@ -66,9 +66,9 @@ In Google Universal Analytics:
 **Beispiel einer Remarketing-Audience aus RTP-Daten zur segmentierten Audience**
 
 1. Klicken Sie auf **Sequenzen.**
-1. Wählen Sie **Ereignis Label.**
-1. Geben Sie **den Namen der segmentierten Audience** ein (wie er in RTP angezeigt wird).
-1. Klicken Sie auf **Übernehmen**.
+1. Wählen Sie **Ereignis-Beschriftung.**
+1. Geben Sie **Name der segmentierten Audience** ein (wie in RTP angezeigt).
+1. Klicken Sie auf **Apply**.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
@@ -78,23 +78,23 @@ In Google Universal Analytics:
 
 1. Klicken Sie auf **Sequenzen**.
 1. Wählen Sie** RTP-Industry**.
-1. Geben Sie **den Namen der Branche** ein (z. Finanzdienstleistungen, Bildung...)
-1. Klicken Sie auf **Übernehmen**.
+1. Geben Sie **Name der Branche** ein (z. B. Finanzdienstleistungen, Bildung...)
+1. Klicken Sie auf **Apply**.
 1. Geben Sie einen **Audiencen-Namen** ein. Klicken Sie auf **Speichern**.
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 
 ## Erstellen einer Remarketing-Anzeigen-Kampagne in Google Adwords {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. Melden Sie sich bei **Google Adwords** an. Klicken Sie auf **Kampagnen** und wählen Sie &quot;Nur Netzwerk **anzeigen&quot;**.
+1. Melden Sie sich bei **Google Adwords** an. Klicken Sie auf **Kampagnen** und wählen Sie **Nur Netzwerk anzeigen**.
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. Geben Sie den Namen der **Kampagne** ein und wählen Sie &quot; **Typ-Remarketing&quot;.**
+1. Geben Sie **Kampagne Name** ein, wählen Sie **Typ Remarketing.**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. Geben Sie **Anzeigengruppennamen ein,** geben Sie **Erweiterte CPC** ein und wählen Sie **Remarketing-Liste**.
+1. Geben Sie **Anzeigengruppenname,** **Erweiterte CPC** ein, wählen Sie **Remarketing-Liste**.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
