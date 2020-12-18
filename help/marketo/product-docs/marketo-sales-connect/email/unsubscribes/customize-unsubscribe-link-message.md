@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Linkmeldung zum Abmelden anpassen {#customize-unsubscribe-link-message}
+# Linkmeldung zum Abmelden {#customize-unsubscribe-link-message} anpassen
 
 Wir haben Teams immer erlaubt, ihre Link-Nachrichten zum Abmelden anzupassen, aber jetzt können Administratoren die Link-Nachrichten zum Abbestellen des Abonnements für ihr gesamtes Team einstellen, um eine konsistente Messaging sicherzustellen.
 
@@ -21,11 +21,11 @@ Wir haben Teams immer erlaubt, ihre Link-Nachrichten zum Abmelden anzupassen, ab
 
 ## Anpassen der Nachrichten für Sie {#customize-messaging-for-yourself}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login)an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter &quot;Mein Konto&quot;die Option **Abonnements**.
+1. Wählen Sie unter Mein Konto **Abmelden**.
 
    ![](assets/two-1.png)
 
@@ -47,19 +47,19 @@ Wir haben Teams immer erlaubt, ihre Link-Nachrichten zum Abmelden anzupassen, ab
 
 ## Abmeldung für Ihr Team festlegen {#set-unsubscribe-messaging-for-your-team}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login)an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/six.png)
 
-1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Abonnements abbestellen**.
+1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Abmeldung**.
 
    ![](assets/eight.png)
 
-1. Passen Sie Ihre Nachrichten an und klicken Sie nach Abschluss des Vorgangs auf **Speichern** .
+1. Passen Sie Ihre Nachrichten an und klicken Sie nach Abschluss des Vorgangs auf **Speichern**.
 
    ![](assets/seven.png)
 
-1. Wählen Sie **Ich setze die Standardnachricht für mein Team** , damit die Nachrichten für alle Benutzer gelten.
+1. Wählen Sie **Ich stelle die Standardnachricht für mein Team** ein, damit die Nachricht für alle Benutzer gilt.
 
    ![](assets/eleven.png)
 
