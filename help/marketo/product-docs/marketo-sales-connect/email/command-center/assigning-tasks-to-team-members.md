@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Aufgaben Teammitgliedern zuweisen {#assigning-tasks-to-team-members}
+# Zuweisen von Aufgaben zu Teammitgliedern {#assigning-tasks-to-team-members}
 
 Wenn Sie mit anderen Teammitgliedern zusammenarbeiten möchten, ist die Zuweisung von Aufgaben eine gute Möglichkeit, Ihre Prospektivbemühungen zu koordinieren.
 
 >[!NOTE]
 >
->Sie können nur Aufgaben für freigegebene Kontakte zuweisen. Bevor Sie mit freigegebenen Aufgaben zusammenarbeiten, sollten Sie eine Gruppe von Kontakten [mit Ihren Teammitgliedern](http://docs.marketo.com/x/fwDb) teilen.
+>Sie können nur Aufgaben für freigegebene Kontakte zuweisen. Bevor Sie mit freigegebenen Aufgaben zusammenarbeiten, sollten Sie [eine Kontaktgruppe für Ihre Teammitglieder freigeben.](http://docs.marketo.com/x/fwDb)
 
-1. Klicken Sie auf die **Befehlszeile**.
+1. Klicken Sie auf **Command Center**.
 
    ![](assets/one-1.png)
 
