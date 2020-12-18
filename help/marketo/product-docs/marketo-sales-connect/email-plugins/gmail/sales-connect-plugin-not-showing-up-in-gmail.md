@@ -21,10 +21,10 @@ Aus unserer Erfahrung können Sie einige Dinge ausprobieren, wenn Ihre Symbollei
 
 - Dies ist zwar offensichtlich, aber versuchen Sie, aus Ihrem Browser auszusteigen und ein völlig neues Fenster zu öffnen.
 
-- Gehen Sie zur [Webanwendung](http://toutapp.com/login) und stellen Sie sicher, dass Sie dort angemeldet sind.
+- Gehen Sie zur Webanwendung [und stellen Sie sicher, dass Sie dort angemeldet sind.](http://toutapp.com/login)
 
 - Stellen Sie sicher, dass Cookies aktiviert sind. Wenn Sie Chrome verwenden, gehen Sie zu Einstellungen > Erweiterte Einstellungen anzeigen > Inhaltseinstellungen > Deaktivieren Sie &quot;Drittanbieter-Cookies und Site-Daten blockieren&quot;.
 
 - Trennen Sie die Verbindung und schließen Sie dann die Sales Connect-Browsererweiterung erneut an.
 
-Wenn keine der oben genannten Tipps geholfen hat, [senden Sie bitte eine Anfrage](http://nation.marketo.com/community/support_solutions) an Support.
+Wenn keine der oben genannten Tipps hilfreich war, senden Sie bitte [eine Anfrage an den Support.](http://nation.marketo.com/community/support_solutions)
