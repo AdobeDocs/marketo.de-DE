@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# E-Mails in Social-Promotions verwenden {#use-emails-in-social-promotions}
+# E-Mails in Social-Promotions {#use-emails-in-social-promotions} verwenden
 
-Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder einen [Preisausschreiben](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)erstellen, können Sie E-Mails einschließen, die gesendet werden, wenn sich die Person anmeldet und der Benutzer die Prämie erhalten hat.
+Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Gewinnspiel](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie E-Mails einschließen, die gesendet werden, wenn sich die Person anmeldet, und erneut, wenn die Person die Prämie erhalten hat.
 
 >[!TIP]
 >
->Informationen zum Erstellen einer E-Mail finden Sie unter [Senden eines E-Mail-Drucks](../../../../getting-started/quick-wins/send-an-email.md).
+>Informationen zum Erstellen einer E-Mail finden Sie unter [E-Mail-Benachrichtigung senden](../../../../getting-started/quick-wins/send-an-email.md).
 
 Verwenden Sie in den E-Mails die folgenden Token:
 
-* **Anmelde-E-Mail**: Verwenden Sie diese Option, **`{{social.Share Url}}`** um jeder beteiligten Person einen personalisierten Link zur Freigabe zu senden.
+* **Anmelde-E-Mail**: Verwenden Sie  **`{{social.Share Url}}`** diese Option, um jeder beteiligten Person einen personalisierten Link zur Freigabe zu senden.
 
-* **Fulfillment-E-Mail**: Verwenden Sie **`{{social.Promo Code}}`** diese Option, um jedem Gewinner einen [Promo-Code](use-promo-codes-for-offer-fulfillment.md)zu senden.
+* **Fulfillment-E-Mail**: Verwenden Sie  **`{{social.Promo Code}}`** diese Option, um jedem Gewinner einen  [Promo-Code](use-promo-codes-for-offer-fulfillment.md) zu senden.
 
 >[!PREREQUISITES]
 >
->Bevor Sie einer Social-App eine E-Mail hinzufügen können, muss diese *funktionsfähig* und *genehmigt* sein. Siehe [Einstellungen bearbeiten für eine E-Mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Bevor Sie einer Social-App eine E-Mail hinzufügen können, muss sie *operativ* und *genehmigt* sein. Siehe [Einstellungen bearbeiten für eine E-Mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie die App aus und klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. Gehen Sie im Social App-Editor zu **App-Einstellungen > Angebot-Details** (oder **Preisausschreiben**).
+1. Gehen Sie im Social App-Editor zu **App-Einstellungen > Angebot-Details** (oder **Preisausschreiben-Details**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -59,14 +59,14 @@ Verwenden Sie in den E-Mails die folgenden Token:
 
 >[!NOTE]
 >
->Bei einem Preisausschreiben wird die Fulfillment-E-Mail immer automatisch gesendet, wenn Sie den Gewinner [auswählen](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>Bei einem Preisausschreiben wird die Fulfillment-E-Mail immer automatisch gesendet, wenn Sie [den Gewinner](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md) auswählen.
 
 >[!NOTE]
 >
 >**Definition**
 >
 >* **auto bei Ziel**: Die Fulfillment-E-Mail wird automatisch gesendet, wenn jeder Teilnehmer das Ziel erreicht.
->* **manuell senden**: Kehren Sie, sobald Beginn das Ziel erreicht haben, zu Ihrem Angebot zurück, um die Fulfillment-E-Mail manuell zu [senden](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **manuell senden**: Kehren Sie, sobald Beginn das Ziel erreicht haben, zu Ihrem Angebot zurück, um die Fulfillment-E-Mail manuell zu  [senden](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 
 >
 
@@ -76,5 +76,5 @@ Verwenden Sie in den E-Mails die folgenden Token:
 >
 >**Verwandte Artikel**
 >
->Als Nächstes können Sie die Freigabe-URL [](choose-the-share-url-for-a-social-app.md) auswählen oder in Ihrem Verweisdokument die Promo-Codes [hochladen, die](use-promo-codes-for-offer-fulfillment.md) Sie senden möchten.
+>Als Nächstes können Sie [die freigegebene URL](choose-the-share-url-for-a-social-app.md) auswählen oder Sie können [die Promo-Codes](use-promo-codes-for-offer-fulfillment.md) in Ihrem Angebot &lt;a2/> hochladen, die Sie abschicken werden.
 
