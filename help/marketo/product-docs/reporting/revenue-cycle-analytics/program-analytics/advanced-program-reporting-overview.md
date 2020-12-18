@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Überblick über Advanced Programm Berichte {#advanced-program-reporting-overview}
+# Überblick über den erweiterten Programm-Berichte {#advanced-program-reporting-overview}
 
-**Der Umsatz-Cycle Explorer** umfasst mehrere Bereiche der Analyse und eine Vielzahl neuer Metriken, mit denen Sie die Effektivität des Programms messen können.
+**Umsatz-Cycle** Explorer umfasst verschiedene Bereiche der Analyse und eine Vielzahl neuer Metriken, mit denen Sie die Effektivität des Programms messen können.
 
 ![](assets/rev.png)
 
@@ -25,21 +25,21 @@ Hier drinnen sind viele Götter. Lass uns sie mal auschecken!
 
 Analysen enthalten in Umsatz Explorer jeweils unterschiedliche Datensätze und Metriken. Jeder Bereich bezieht sich auf den Berichte, den Sie für die Ansicht ausgewählt haben.
 
-## Programm-Analyse {#program-analysis-areas}
+## Programm Analyse Bereiche {#program-analysis-areas}
 
-* ** Analyse der [Programm-Kosten](understanding-the-program-cost-analysis-area.md) **- Siehe ROI für alle Ihre Programm.
+* ** [Programm Cost Analyse](understanding-the-program-cost-analysis-area.md) ** - Siehe ROI für alle Ihre Programm.
 
-* ** Analyse der [Programm-Mitgliedschaft](understanding-the-program-membership-analysis-area.md) **- Zeigen Sie die Ergebnisse nach Kanal, Beitrag, Erfolgskriterien usw. an.
+* ** [Analyse der Programm-Mitgliedschaft](understanding-the-program-membership-analysis-area.md) **- Zeigen Sie die Ergebnisse nach Kanal, Beitrag, Erfolgskriterien usw. an.
 
-* ** Analyse [der](understanding-the-program-opportunity-analysis-area.md) Programm-Chancen **- Auf der Grundlage der Verteilung, des Umsatzes und des ROI generierte Chancen.
+* ** [Programm Opportunity Analyse](understanding-the-program-opportunity-analysis-area.md) **- Chancen generiert basierend auf Verteilung, Umsatz und ROI.
 
-* ** Analyse [der](understanding-the-program-revenue-stage-analysis-area.md) Programm-Umsatzstufe **- Neue Namen, die innerhalb des Umsatzzyklusmodells bestimmte Erfolgsphasen erreicht haben.
+* ** [Analyse der Programm-Umsatzstufe](understanding-the-program-revenue-stage-analysis-area.md) **- Neue Namen, die bestimmte Erfolgsphasen in Ihrem Umsatzzyklusmodell erreicht haben.
 
-## Programm Analytics {#program-analyzers}
+## Programm Analyzers {#program-analyzers}
 
 * **Programm Analyzer** : Schnelle Erkennung erfolgreicher oder nicht erfolgreicher Programm und entsprechende Fokussierung der Ressourcen.
 
-* **Opportunity Influence Analyzer** - Beweisen Sie den Beitrag von Marketing, indem Sie die Auswirkungen von Programmen und wichtigen Interaktionen messen, die zu Chancen führten.
+* **Opportunity Influence Analyzer**  - Beweisen Sie den Beitrag von Marketing durch Messung der Auswirkungen von Programmen und wichtigen Interaktionen, die zu Chancen führten.
 
 ## Berichtsoptionen {#report-options}
 
