@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Wenn Marketo-Benutzer ihren Interessentenfeed nicht nur in Salesforce, sondern auch in einem RSS-Feed Ansicht haben möchten, muss er von einem Marketing-Administrator aktiviert werden. Es ist einfach.
 
-1. Klicken Sie in My Marketing auf **Admin** und dann auf **Sales Insight**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Admin** und dann **Sales Insight**.
 
    ![](assets/set-up-rss-1-hands.png)
 
@@ -27,11 +27,11 @@ Wenn Marketo-Benutzer ihren Interessentenfeed nicht nur in Salesforce, sondern a
 
    ![](assets/rss-settings-tab.png)
 
-   Aktivieren Sie im Dialogfeld &quot;Einstellungen bearbeiten&quot;das Kontrollkästchen &quot; **RSS-Feed** &quot;und klicken Sie auf &quot; **Speichern&quot;**.
+   Aktivieren Sie im Dialogfeld &quot;Einstellungen bearbeiten&quot;das Kontrollkästchen **RSS-Feed** und klicken Sie auf **Speichern**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   Der RSS-Feed wird jetzt als **aktiviert** angezeigt.
+   Der RSS-Feed wird jetzt als **Aktiviert** angezeigt.
 
    ![](assets/rss-final-box.png)
 
