@@ -17,7 +17,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
 ## Senden einer Gruppen-E-Mail {#sending-a-group-email}
 
-1. Klicken Sie auf die Registerkarte **Personen** .
+1. Klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf die Schaltfläche &quot;Gruppenaktionen&quot;und wählen Sie &quot; **E-Mail-Gruppe**&quot;aus.
+1. Klicken Sie auf die Schaltfläche &quot;Gruppenaktionen&quot;und wählen Sie **E-Mail-Gruppe**.
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
 ## Bearbeiten einer Gruppen-E-Mail {#editing-a-group-email}
 
-1. Erstellen Sie eine Gruppen-E-Mail mit den [Schritten 1-3 oben](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Erstellen Sie eine Gruppen-E-Mail mit [Schritte 1-3 oben](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
 1. Wählen Sie eine Vorlage oder füllen Sie Ihre E-Mail aus.
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
    ![](assets/edit-four.png)
 
-1. Klicken Sie auf &quot;Dynamische Felder **der Vorschau**&quot;und Ansicht der Vorschau auf der rechten Seite.
+1. Klicken Sie auf **Vorschau Dynamische Felder** und Ansicht der Vorschau auf der rechten Seite.
 
    ![](assets/edit-five.png)
 
