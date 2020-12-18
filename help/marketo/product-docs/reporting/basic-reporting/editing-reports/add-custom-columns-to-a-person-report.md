@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # hinzufügen benutzerdefinierter Spalten für einen Personenbericht {#add-custom-columns-to-a-person-report}
 
-Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/display/docs/basic+reporting) weiter filtern, indem Sie Ihre [intelligenten Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) als benutzerspezifische Spalten verwenden.
+Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/display/docs/basic+reporting) weiter filtern, indem Sie [intelligente Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) als benutzerspezifische Spalten verwenden.
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie Ihren Bericht aus und klicken Sie auf die Registerkarte **Einstellungen** .
+1. Wählen Sie Ihren Bericht aus und klicken Sie auf die Registerkarte **Setup**.
 
    ![](assets/two-1.png)
 
-1. Ziehen Sie über **benutzerdefinierte Spalten**.
+1. Ziehen Sie den Mauszeiger über **Benutzerdefinierte Spalten**.
 
    ![](assets/three-1.png)
 
@@ -36,9 +36,9 @@ Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/di
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie, wie Sie intelligente Listen in den Tiefen &quot; [Smart-Listen&quot;und &quot;Statische Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) &quot;erstellen und konfigurieren.
+   >Erfahren Sie, wie Sie intelligente Listen im Tieftauchgang [Intelligente Listen und statische Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) erstellen und konfigurieren.
 
-1. Du hast es getan! Klicken Sie auf die Registerkarte **Bericht** , um Ihren Bericht mit den neuen Spalten anzuzeigen.
+1. Du hast es getan! Klicken Sie auf die Registerkarte **Bericht**, um Ihren Bericht mit den neuen Spalten anzuzeigen.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/di
    >**Verwandte Artikel**
    >
    >
-   >Sie können auch [HinzufügenGelegenheitsspalten zu einem Interessentenbericht](add-opportunity-columns-to-a-lead-report.md).
+   >Sie können auch [Hinzufügen Gelegenheitsspalten zu einem Interessentenbericht](add-opportunity-columns-to-a-lead-report.md).
 
    >[!NOTE]
    >
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über die vielen Dinge, die Sie mit Berichten im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) Deep Dive tun können.
+   >Erfahren Sie mehr über die vielen Dinge, die Sie mit Berichten im Tieftauchgang [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) tun können.
 
