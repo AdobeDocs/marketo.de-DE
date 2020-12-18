@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Meldebogen 20-E {#template-e}
+# Vorlage 20-E {#template-e}
 
 [Vorlage 20-E herunterladen](http://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)
 
@@ -23,7 +23,7 @@ Diese Vorlage enthält den folgenden Inhalt:
 
    * enthält Hero-Bild und Schaltfläche
 
-* Vier Textabschnitte (optional)
+* Vier Textkörperabschnitte (optional)
 * Fußzeile (optional)
 
 Klicken Sie unten, um diese Vorlage herunterzuladen:
