@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programm- und Kanal-Details mit dem Programm Analyzer {#explore-program-channel-details-with-the-program-analyzer}
+# Kennenlernen Sie Programm- und Kanal-Details mit dem Programm Analyzer {#explore-program-channel-details-with-the-program-analyzer}
 
 Detaillierte Programm- und Kanal-Statistiken finden Sie im Programm Analyzer. Sie können sie auch im Umsatz-Cycle-Explorer öffnen.
 
@@ -34,13 +34,13 @@ Detaillierte Programm- und Kanal-Statistiken finden Sie im Programm Analyzer. Si
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Klicken Sie auf das entsprechende Feld, um die jeweiligen Statistiken für einen Kanal oder ein Programm anzuzeigen (je nach **Ansicht** ).
+1. Klicken Sie auf die entsprechende Blase, um die spezifischen Statistiken für einen Kanal oder ein Programm anzuzeigen (je nach ausgewählter **Ansicht**).
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)zu verstehen.
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zu verstehen.
 
 1. Um alle Programm in einem Kanal zu vergleichen, klicken Sie im Popup-Dialogfeld auf den Namen des Kanals.
 
@@ -60,4 +60,4 @@ Detaillierte Programm- und Kanal-Statistiken finden Sie im Programm Analyzer. Si
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über erweiterte Analysen in [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
