@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Mobile App-Android-Push-Zugriff konfigurieren {#configure-mobile-app-android-push-access}
+# Mobile App Android-Push-Zugriff konfigurieren {#configure-mobile-app-android-push-access}
 
 1. Klicken Sie auf **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Wählen Sie &quot; **Mobile Apps**&quot;aus.
+1. Wählen Sie **Mobile Apps**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Wählen Sie unter &quot; **Push-Zugriffstyp**&quot;die Option **Android** und klicken Sie auf **Konfigurieren.**
+1. Wählen Sie unter **Push Access Type** **Android** und klicken Sie auf **Configure.**
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Sie benötigen einen **Server-API-Schlüssel** und eine **Projektnummer** von Ihrem Entwickler für mobile Apps. Der Entwickler erhält diese Informationen, indem er sich bei der Google Play Developer Console anmeldet, um Ihre App zu registrieren und Cloud Messaging zu aktivieren.
+   >Sie benötigen einen **Server-API-Schlüssel** und **Projektnummer** von Ihrem Mobile-Apps-Entwickler. Der Entwickler erhält diese Informationen, indem er sich bei der Google Play Developer Console anmeldet, um Ihre App zu registrieren und Cloud Messaging zu aktivieren.
 
    Geben Sie Ihren Server-API-Schlüssel und Ihre Projektnummer ein. Klicken Sie auf Speichern.
 
