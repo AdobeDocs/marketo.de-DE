@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wir haben eine Integration mit Outlook Web Apps erstellt. Outlook Web Apps ist eine Outlook-Version, die im Abonnement Office 365 enthalten ist. Da die Integration browserbasiert ist, funktioniert sie sowohl unter Mac als auch unter Windows. [Klicken Sie hier für das vollständige Installationshandbuch](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Als Administrator können Sie dies für Ihr gesamtes Team [installieren](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
+Als Administrator können Sie [dies für Ihr gesamtes Team ](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) installieren.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Als Administrator können Sie dies für Ihr gesamtes Team [installieren](http://
 >
 >i. Navigieren Sie zur Schaltfläche &quot;Hilfe&quot;(ganz oben in der Navigation, rechts neben &quot;Outlook&quot;)
 >
->ii. Wählen Sie im Dropdown-Menü die Option **Nach Updates** suchen
+>ii. Wählen Sie **Nach Updates suchen** im Dropdown-Menü
 >
 >iii. Aktualisieren Sie auf die neueste Version von Outlook und gehen Sie nach Abschluss der Schritte zurück zu diesen Schritten
 
