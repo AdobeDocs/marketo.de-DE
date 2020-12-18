@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhalten soll. Du musst deine intelligente Liste einrichten.
 
-1. Klicken Sie auf Intelligente Liste **bearbeiten**.
+1. Klicken Sie auf **Intelligente Liste bearbeiten**.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
@@ -27,19 +27,19 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
    >
    >Mehrere Werte für das Feld &quot;Mobile App&quot;werden derzeit für In-App-Nachrichten-Programm nicht unterstützt.
 
-1. **App-Öffnen** ist die Standardaktion, Sie können jedoch jedes benutzerdefinierte Ereignis auswählen, das Sie bereits eingerichtet haben.
+1. **App** Öffnen ist die Standardaktion. Sie können jedoch jedes benutzerdefinierte Ereignis auswählen, das Sie bereits eingerichtet haben.
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
    >[!NOTE]
    >
-   >Der Standardauslöser (App öffnen) und alle benutzerdefinierten Auslöser, die Ihr Entwickler dem Code hinzufügt, werden automatisch in der Aktionsauswahl angezeigt. Wenn ein benutzerdefiniertes Ereignis fehlt, wenden Sie sich an Ihren Entwickler, um sicherzustellen, dass die benutzerdefinierten Ereignis zur App hinzugefügt wurden. Beachten Sie, dass der Code- und Genehmigungsprozess für das benutzerdefinierte Ereignis einige Zeit in Anspruch nehmen kann. Weitere Informationen finden Sie in [diesem Artikel](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) .
+   >Der Standardauslöser (App öffnen) und alle benutzerdefinierten Auslöser, die Ihr Entwickler dem Code hinzufügt, werden automatisch in der Aktionsauswahl angezeigt. Wenn ein benutzerdefiniertes Ereignis fehlt, wenden Sie sich an Ihren Entwickler, um sicherzustellen, dass die benutzerdefinierten Ereignis zur App hinzugefügt wurden. Beachten Sie, dass der Code- und Genehmigungsprozess für das benutzerdefinierte Ereignis einige Zeit in Anspruch nehmen kann. Weitere Informationen finden Sie in [diesem Artikel](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
-1. Einschränkungen sind für den Auslöser **Hat Mobile App-Aktivität** verfügbar, wenn Sie sie benötigen.
+1. Einschränkungen sind für den Auslöser **Hat Mobile App Aktivität** verfügbar, wenn Sie sie benötigen.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. Sie können Ihrer intelligenten Liste Filter hinzufügen, um den Empfänger Ihrer In-App-Nachricht zu beschränken. In diesem Beispiel wird die In-App-Nachricht nur an die am 9. Juni 2016 erworbenen Personen gesendet, die den Filter &quot; **Akquise-Datum** &quot;verwenden.
+1. Sie können Ihrer intelligenten Liste Filter hinzufügen, um den Empfänger Ihrer In-App-Nachricht zu beschränken. In diesem Beispiel werden mit dem Filter **Akquisedatum** nur die am 9. Juni 2016 erworbenen Personen die In-App-Nachricht gesendet.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +49,10 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
 
    >[!NOTE]
    >
-   >Die standardmäßige Anzeigebeschränkung ist **Einmal pro Sitzung**. Wenn die Nachricht nach der Antwort des Empfängers nicht mehr angezeigt werden soll, wählen Sie &quot; **Jedes Mal, bis das Tippen** erfolgt&quot;aus. Wenn es jedes Mal angezeigt werden soll, egal was der Empfänger tut, wählen Sie **Jedes Mal** aus.
+   >Die standardmäßige Anzeigebeschränkung ist **Einmal pro Sitzung**. Wenn die Nachricht nach der Antwort des Empfängers nicht mehr angezeigt werden soll, wählen Sie **Immer, bis auf** getippt wird. Wenn es jedes Mal angezeigt werden soll, unabhängig davon, was der Empfänger tut, wählen Sie **Jedes Mal**.
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 Gute Arbeit! Du hast deine Audience eingestellt. Du hast die blaue Bar und das grüne Häkchen bekommen.
 
-Zeit, Ihre In-App-Nachricht [auszuwählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Zeit bis [Wählen Sie Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
