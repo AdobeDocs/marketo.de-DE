@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# hinzufügen Subdomänen in den Kontoeinstellungen {#add-subdomains-in-account-settings}
+# hinzufügen Subdomänen in Kontoeinstellungen {#add-subdomains-in-account-settings}
 
 So fügen Sie Ihren primären Domänen in den Kontoeinstellungen Subdomänen hinzu. Auf diese Weise können Sie Subdomänen verwalten, die sich auf das spezifische RTP-Javascript Ihrer primären Domäne beziehen. Es wird empfohlen, das Javascript-Tag für alle hinzugefügten Subdomänen bereitzustellen.
 
-1. Gehen Sie in der Web-Personalisierung zu **Kontoeinstellungen**.
+1. Wechseln Sie in Web-Personalisierung zu **Kontoeinstellungen**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
@@ -27,7 +27,7 @@ So fügen Sie Ihren primären Domänen in den Kontoeinstellungen Subdomänen hin
 
    ![](assets/add.png)
 
-1. Geben Sie die URL der Subdomäne ein. Klicken Sie auf **Hinzufügen** oder **Löschen** , um Ihre Liste der Subdomänen zu verwalten, und klicken Sie dann auf **OK** , wenn Sie fertig sind.
+1. Geben Sie die URL der Subdomäne ein. Klicken Sie auf **Hinzufügen** oder **Löschen**, um Ihre Liste der Subdomänen zu verwalten, und klicken Sie dann auf **OK**, wenn Sie fertig sind.
 
    ![](assets/newsubdomain.png)
 
@@ -37,5 +37,5 @@ So fügen Sie Ihren primären Domänen in den Kontoeinstellungen Subdomänen hin
 
    >[!NOTE]
    >
-   >Wenn Sie Ihrem Konto *primäre* Domänen hinzufügen möchten, wenden Sie sich bitte an den [MarketingTo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
+   >Wenn Sie *primäre* Domänen zu Ihrem Konto hinzufügen möchten, wenden Sie sich bitte an [Marketing Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
 
