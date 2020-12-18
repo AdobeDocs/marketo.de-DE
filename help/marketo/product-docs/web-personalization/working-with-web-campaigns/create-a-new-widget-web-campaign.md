@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Neue Widget-Web-Kampagne erstellen {#create-a-new-widget-web-campaign}
+# Neue Widget-Web-Kampagne {#create-a-new-widget-web-campaign} erstellen
 
-Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, einen [In-Zone-Ersatz](create-a-new-in-zone-web-campaign.md), eine Widget-Funktion oder eine E-Mail-Warnung handeln. Die Widget-Web-Kampagne ist ein Text oder Banner, der auf der vertikalen Seite Ihrer Webseite angezeigt wird und erweitert und verkleinert werden kann, während er während des Besuchs auf der Webseite unverändert bleibt.
+Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, ein [In-Zone-Ersatz](create-a-new-in-zone-web-campaign.md), eine Widget-Funktion oder eine E-Mail-Warnung handeln. Die Widget-Web-Kampagne ist ein Text oder Banner, der auf der vertikalen Seite Ihrer Webseite angezeigt wird und erweitert und verkleinert werden kann, während er während des Besuchs auf der Webseite unverändert bleibt.
 
-## Widget-Web-Kampagne erstellen {#create-a-widget-web-campaign}
+## Widget-Web-Kampagne {#create-a-widget-web-campaign} erstellen
 
 1. Gehen Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Wählen Sie Neue Web-Kampagne **erstellen**.
+1. Wählen Sie **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Wählen Sie den Typ der **Widget** -Kampagne aus.
+1. Wählen Sie die Kampagne **Widget**.
 
    ![](assets/3.png)
 
@@ -51,7 +51,7 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anzeigen auf</strong></td> 
-   <td colspan="1">Ermöglicht Ihnen die <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">Anpassung der Anzeige Ihrer Web-Kampagne an den jeweiligen</a> Zeitpunkt.</td> 
+   <td colspan="1">Ermöglicht Ihnen, <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">anzupassen, wann und wie</a> Ihre Web-Kampagne angezeigt wird.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>In/Out animieren</strong></td> 
@@ -83,10 +83,10 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
   </tr> 
   <tr> 
    <td colspan="1"><strong>Vorschau vor Ort </strong></td> 
-   <td colspan="1">Kampagnen zur Vorschau vor dem Start.<br> 
+   <td colspan="1">Kampagnen der Vorschau vor dem Start.<br> 
     <ul> 
      <li>URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt wird, um ein Beispiel für die Vorschau der Live-Darstellung der Kampagne anzuzeigen.</li> 
-     <li>Vorschau - Klicken Sie auf <strong>Vorschau, </strong>um ein neues Fenster der Beispiel-URL <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">zu öffnen, um zu sehen, wie die Kampagne reagiert (Hinzufügen die</a> Chrome-Erweiterungfür eine optimale Vorschau der Web-Kampagne). </li> 
+     <li>Vorschau - Klicken Sie auf <strong>Vorschau </strong>um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert (Hinzufügen <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-Erweiterung</a>, um die beste Web-Kampagne-Vorschau zu erhalten). </li> 
      <li>Freigeben: Verwenden Sie die Schaltfläche Freigeben, um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
     </ul></td> 
   </tr> 
@@ -95,29 +95,29 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können [A/B auf optimale Ergebnisse](ab-test-your-web-campaign.md)getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können  [A/B auf optimale Ergebnisse](ab-test-your-web-campaign.md) getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
 
 ## Eine Web-Kampagne bearbeiten {#edit-a-web-campaign}
 
-Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf der Kampagne auf **Bearbeiten** .
+Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Bearbeiten** in der Kampagne.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+>Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
 ## Klonen einer Web-Kampagne {#clone-a-web-campaign}
 
-Siehe [Klonen einer Web-Kampagne](clone-a-web-campaign.md).
+Siehe [Eine Web-Kampagne klonen](clone-a-web-campaign.md).
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;in der zu Vorschau Web-Kampagne auf die **Vorschau** .
+Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Vorschau** in der Web-Kampagne, die Sie zur Vorschau verwenden möchten.
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Eine Web-Kampagne löschen {#delete-a-web-campaign}
+## Eine Web-Kampagne {#delete-a-web-campaign} löschen
 
 1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Löschen **auf der Kampagne, die Sie löschen möchten.
 
