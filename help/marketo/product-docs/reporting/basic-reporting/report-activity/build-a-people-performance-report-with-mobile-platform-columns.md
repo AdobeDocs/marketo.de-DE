@@ -25,7 +25,7 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
 
    ![](assets/two-1.png)
 
-1. Wählen Sie unter **Neu** die Option **Neues lokales Asset**.
+1. Wählen Sie unter **Neu** **Neues lokales Element**.
 
    ![](assets/three-1.png)
 
@@ -41,11 +41,11 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
 
    ![](assets/six-1.png)
 
-1. Setzen Sie E-Mail auf **beliebig**.
+1. Setzen Sie E-Mail auf **ist beliebig**.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf **Hinzufügen Einschränkung** und wählen Sie **Plattform**.
+1. Klicken Sie auf **Hinzufügen Constraint** und wählen Sie **Plattform**.
 
    ![](assets/eight.png)
 
@@ -53,7 +53,7 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
    >
    >In diesem Beispiel haben wir den Filter Geöffnete E-Mail verwendet. Sie können auch den Filter &quot;Geklickte E-Mail&quot;verwenden, da er die Plattformbeschränkung hat.
 
-1. Legen Sie Platform auf **iOS** fest.
+1. Setzen Sie Platform auf **iOS**.
 
    ![](assets/nine.png)
 
@@ -63,13 +63,13 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
 
    Erstellen Sie jetzt eine zweite intelligente Liste für die &quot;Android&quot;-Plattform. Sobald das fertig ist, fahren Sie mit dem nächsten Abschnitt fort.
 
-## Personalleistungsbericht erstellen {#create-a-people-performance-report}
+## Erstellen eines Berichts zur Personenleistung {#create-a-people-performance-report}
 
-1. Wählen Sie unter &quot;Marketing-Aktivitäten&quot;das Programm für Ihre **iOS** - und **Android** -Listen aus.
+1. Wählen Sie unter &quot;Marketing-Aktivitäten&quot;das Programm aus, in dem Ihre Smart-Listen **iOS** und **Android** enthalten sind.
 
    ![](assets/ten.png)
 
-1. Wählen Sie unter **Neu** die Option **Neues lokales Asset**.
+1. Wählen Sie unter **Neu** **Neues lokales Element**.
 
    ![](assets/eleven.png)
 
@@ -77,7 +77,7 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
 
    ![](assets/twelve.png)
 
-1. Legen Sie &quot;Typ&quot;auf &quot; **People Performance**&quot;fest.
+1. Legen Sie &quot;Typ&quot;auf **Personenleistung** fest.
 
    ![](assets/thirteen.png)
 
@@ -89,7 +89,7 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
 
 ## hinzufügen Mobile Smart-Listen als Spalten {#add-mobile-smart-lists-as-columns}
 
-1. Klicken Sie im soeben erstellten Bericht auf **Einstellungen** und ziehen Sie dann **benutzerdefinierte Spalten** in die Arbeitsfläche.
+1. Klicken Sie im soeben erstellten Bericht auf **Setup** und ziehen Sie **Benutzerdefinierte Spalten** in die Arbeitsfläche.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
    >
    >Standardmäßig werden im Bericht &quot;Personenleistung&quot;die letzten 7 Tage angezeigt. Sie können den Zeitrahmen ändern, indem Sie die Dublette darauf klicken.
 
-1. Wählen Sie die zuvor erstellten intelligenten Listen aus und klicken Sie auf **Übernehmen**.
+1. Suchen Sie die zuvor erstellten intelligenten Listen und wählen Sie sie aus und klicken Sie auf **Apply**.
 
    ![](assets/sixteen.png)
 
-1. Klicken Sie auf **Bericht** , um den Bericht auszuführen und Ihre Daten anzuzeigen.
+1. Klicken Sie auf **Bericht**, um den Bericht auszuführen und Ihre Daten anzuzeigen.
 
    ![](assets/seventeen.png)
 
