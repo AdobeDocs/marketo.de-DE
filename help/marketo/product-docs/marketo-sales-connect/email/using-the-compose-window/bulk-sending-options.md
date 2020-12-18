@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Massensendeoptionen {#bulk-sending-options}
 
-Das Senden von E-Mails als Massenversand ist eine großartige Möglichkeit, die Interaktion mit Ihrem Potenzieller Kunde zu beschleunigen. Sales Connect Angebots bietet zwei Möglichkeiten, E-Mails stapelweise zu senden: **E-Mails** gruppieren und **Auswählen und Senden**. Gruppen-E-Mails sind eine großartige Möglichkeit, um schnell Hunderte von E-Mails an eine bestimmte Gruppe zu senden. Die Verwendung von &quot;Auswählen&quot;und &quot;Senden&quot;bedeutet geringere E-Mail-Beschränkungen, es werden jedoch mehr Anpassungsmöglichkeiten für den Benutzer Angebot.
+Das Senden von E-Mails als Massenversand ist eine großartige Möglichkeit, die Interaktion mit Ihrem Potenzieller Kunde zu beschleunigen. Sales Connect Angebots bietet zwei Möglichkeiten, E-Mails stapelweise zu senden: **E-Mails gruppieren** und **Auswählen und Senden**. Gruppen-E-Mails sind eine großartige Möglichkeit, um schnell Hunderte von E-Mails an eine bestimmte Gruppe zu senden. Die Verwendung von &quot;Auswählen&quot;und &quot;Senden&quot;bedeutet geringere E-Mail-Beschränkungen, es werden jedoch mehr Anpassungsmöglichkeiten für den Benutzer Angebot.
 
 Gruppen-E-Mail im Vergleich zu Auswahl und Senden
 
@@ -28,25 +28,25 @@ Gruppen-E-Mail im Vergleich zu Auswahl und Senden
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span>Senden</span><span> -Typ</span> </p></th> 
-   <th><p><span>Max. Anzahl </span><span></span><span>E-Mails</span> </p></th> 
-   <th><p><span>Initiiert </span><span>Senden von</span></p></th> 
+   <th><p><span></span><span> SendType</span> </p></th> 
+   <th><p><span>Max. Anzahl  </span><span></span><span>E-Mails</span> </p></th> 
+   <th><p><span>Initiiert  </span><span>Senden von</span></p></th> 
    <th><p><span>Massen- </span><span>Bearbeiten von E-Mails</span> </p></th> 
-   <th><p><span>Jede E-Mail</span><span> eindeutig bearbeiten </span><span></span> </p></th> 
-   <th><p><span>Unterstützung von Vorlagen und </span><span>dynamischen Feldern</span> </p></th> 
+   <th><p><span></span><span> Jede E-Mail  </span><span>eindeutig bearbeiten</span> </p></th> 
+   <th><p><span>Unterstützung von Vorlagen und  </span><span>dynamischen Feldern</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>Gruppen-E</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Wählen Sie eine Gruppe aus und klicken Sie auf</span><span> die Schaltfläche </span><span>"Gruppenaktionen"</span><span>, oder geben Sie den Gruppennamen in das Feld "An"ein. </span> </p></td> 
+   <td><p><span>1.000</span> </p></td> 
+   <td><p><span>Wählen Sie eine Gruppe aus und </span><span> klicken Sie auf die Schaltfläche  </span><span>"Gruppenaktionen"</span><span>, oder geben Sie den Gruppennamen in das Feld "An"ein.  </span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Nein</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>Auswählen </span><span>und </span><span>Senden</span> </p></td> 
+   <td><p><span>Auswählen  </span><span>und  </span><span>Senden</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste</span><span>auf die Schaltfläche "E-Mail ausgewählt",</span><span>oder geben Sie Empfänger in die Massen-E-Mail- </span><span>Seitenleiste</span><span>ein.</span></p></td> 
+   <td><p><span>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste</span><span> auf die Schaltfläche "E-Mail ausgewählt", </span><span>oder geben Sie Empfänger in die Massen-E-Mail- </span><span>Seitenleiste</span><span> ein.</span></p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
