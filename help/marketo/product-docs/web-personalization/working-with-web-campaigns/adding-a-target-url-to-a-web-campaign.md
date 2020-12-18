@@ -21,11 +21,11 @@ Eine Zielgruppen-URL befindet sich unter der Seite &quot;Kampagne festlegen&quot
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Wählen Sie Neue Web-Kampagne **erstellen**.
+1. Wählen Sie **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. hinzufügen einer **Kampagne**. Wählen Sie ein **Zielgruppen-Segment** aus. hinzufügen **Zielgruppen-URL**.
+1. hinzufügen Sie einen **Kampagnen-Namen**. Wählen Sie ein **Zielgruppe-Segment**. hinzufügen **Zielgruppen-URL**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -64,15 +64,15 @@ Wenn Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) kli
 
 ## Hinzufügen einer Zielgruppen-URL für In-Zone-Web-Kampagnen {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Gehen Sie zu **Web** - **Kampagnen**.
+1. Gehen Sie zu **Web** **Kampagnen**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Wählen Sie Neue Web-Kampagne **erstellen**.
+1. Wählen Sie **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. hinzufügen a** Kampagne Name**. Wählen Sie ein **Zielgruppen-Segment** aus. hinzufügen **Zielgruppen-URL**.
+1. hinzufügen a** Kampagne Name**. Wählen Sie ein **Zielgruppe-Segment**. hinzufügen **Zielgruppen-URL**.
 
    >[!NOTE]
    Zielgruppen-URL mit In-Zonen muss eine bestimmte URL oder URLs definieren. In fortgeschrittenen Anwendungsfällen können In-Zone-Web-Kampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
