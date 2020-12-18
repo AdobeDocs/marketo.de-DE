@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Preisausschreiben veröffentlichen {#publish-a-sweepstakes}
+# Veröffentlichen eines Gewinnspiels {#publish-a-sweepstakes}
 
-Nachdem Sie einen Preisausschreiben [erstellt haben](create-sweepstakes.md), können Sie ihn auf Ihren Marketing-Landingpages, auf Ihrer Website und auf Ihrem Facebook veröffentlichen.
+Nachdem Sie [ein Gewinnspiel](create-sweepstakes.md) erstellt haben, können Sie es auf Ihren Marketing-Landingpages, auf Ihrer Website und auf Ihrem Facebook veröffentlichen.
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Nachdem Sie einen Preisausschreiben [erstellt haben](create-sweepstakes.md), kö
 >
 >Bevor Sie Ihr Angebot veröffentlichen, vergewissern Sie sich, dass es mit allen anwendbaren Rechts- und Verwaltungsvorschriften übereinstimmt.
 
-1. Suchen Sie nach Ihrer Landingpage und klicken Sie auf Entwurf **bearbeiten**.
+1. Suchen Sie Ihre Landingpage und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Suchen Sie den Abschnitt &quot;Elemente einfügen&quot;rechts auf der Seite. Ziehen Sie über **Preisausschreiben**.
+1. Suchen Sie den Abschnitt &quot;Elemente einfügen&quot;rechts auf der Seite. Ziehen Sie den Mauszeiger über **Preisausschreiben**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
@@ -46,7 +46,7 @@ Nachdem Sie einen Preisausschreiben [erstellt haben](create-sweepstakes.md), kö
    >
    >Sie müssen Ihr Gewinnspiel genehmigen, um es hier verfügbar zu machen.
 
-   [Veröffentlichen Sie die Landingpage auf Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) , [stellen Sie die Gewinnspiele auf Ihrer Website.](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [Veröffentlichen Sie die Landingpage auf ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook, um die Gewinnspiele auf Ihrer Website zu veröffentlichen.](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ Nachdem Sie einen Preisausschreiben [erstellt haben](create-sweepstakes.md), kö
 
    >[!NOTE]
    >
-   >Denken Sie daran, nach der Anmeldung an die App zurückzukehren, um die Gewinner des Gewinnspiels [auszuwählen](select-sweepstakes-winners.md)!
+   >Sobald sich Beginn angemeldet haben, denken Sie daran, zur App zurückzukehren, um [die Gewinner des Gewinnspiels](select-sweepstakes-winners.md) auszuwählen!
 
 Herzlichen Glückwunsch! Genehmigen Sie die Landingpage und Ihre Preisausschreiben ist live. Sie können auch oder .
