@@ -17,11 +17,11 @@ Sie können jederzeit nur ein genehmigtes Modell haben.
 
 >[!CAUTION]
 >
->[Einzelne Phasen müssen genehmigt](approving-stages-and-assigning-leads-to-a-revenue-model.md) und Personen hinzugefügt werden, bevor Sie ein ganzes Modell genehmigen.
+>[Einzelne Phasen müssen ](approving-stages-and-assigning-leads-to-a-revenue-model.md) genehmigt und Personen hinzugefügt werden, bevor Sie ein ganzes Modell genehmigen.
 
-## Genehmigen {#approve}
+## {#approve} genehmigen
 
-1. Gehen Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,7 +29,7 @@ Sie können jederzeit nur ein genehmigtes Modell haben.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Wählen Sie im Menü **Modellaktionen** die Option Modell **genehmigen**.
+1. Wählen Sie im Menü **Modellaktionen** **Modell genehmigen**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
@@ -45,7 +45,7 @@ Dein Modell ist jetzt live!
 >
 >Wenn Sie Ihr Modell nicht genehmigen, werden alle Ihre Personen aus dem Modell entfernt und ihr Verlauf im Modell gelöscht!
 
-1. Gehen Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Dein Modell ist jetzt live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Klicken Sie auf das Menü &quot; **Modellaktionen** &quot;und wählen Sie &quot;Modell **nicht genehmigen&quot;**.
+1. Klicken Sie auf das Menü **Modellaktionen** und wählen Sie **Modell nicht genehmigen**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Klicken Sie im angezeigten Dialogfeld auf Modell **nicht genehmigen**.
+1. Klicken Sie im angezeigten Dialogfeld auf **Modell nicht genehmigen**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 
