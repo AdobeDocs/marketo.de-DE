@@ -17,8 +17,8 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
 
 >[!PREREQUISITES]
 >
->* Führen Sie die [Einrichtung zur Retargeting mit Web-Personalisierungsdaten](retargeting-with-web-personalization-data.md) durch
->* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook-Dokumentation zu benutzerdefinierten [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Zielgruppen und Remarketing.
+>* Führen Sie das Setup für [Retargeting mit Web-Personalisierungsdaten](retargeting-with-web-personalization-data.md) durch
+>* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerspezifischen Audiencen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)und Remarketing
 
 >
 
@@ -26,12 +26,12 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
 
 ## Erstellen einer Audience in Facebook {#creating-an-audience-in-facebook}
 
-1. Gehen Sie in Facebook im Anzeigen-Manager zur Registerkarte &quot; [Audience&quot;](https://www.facebook.com/ads/audience_manager) .
-1. Klicken Sie auf **Tools** und wählen Sie **Audiencen** aus.
+1. Gehen Sie in Facebook im Anzeigen-Manager zu Ihrer Registerkarte [Audience](https://www.facebook.com/ads/audience_manager).
+1. Klicken Sie auf **Tools** und wählen Sie **Audiencen**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf Benutzerspezifische Audience **erstellen**.
+1. Klicken Sie auf **Benutzerspezifische Audience erstellen**.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Wählen Sie für dieses Beispiel &quot;Branche&quot;aus, um **Bildung** einzuschließen. Geben Sie **Education** ein und bearbeiten Sie **In der letzten** 180 Tage. Audience eingeben: **Bildungsbranche**. Klicken Sie auf Audience **erstellen**.
+1. Wählen Sie in diesem Beispiel &quot;Branche&quot;aus, um **Bildung** zu enthalten. Geben Sie **Bildung** ein und bearbeiten Sie **In der letzten** auf 180 Tage. Audience eingeben: **Bildungsbranche**. Klicken Sie auf **Audience erstellen**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -106,13 +106,13 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
 
 ## Zielgruppe Ihrer Audience mit einer Anzeige {#target-your-audience-with-an-ad}
 
-Weitere Informationen finden Sie in der Dokumentation zu [Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+Weitere Informationen finden Sie in der Facebook-Dokumentation[.](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)
 
-1. Gehen Sie zum Anzeigen-Manager und klicken Sie auf **Anzeige** erstellen.
+1. Gehen Sie zum Anzeigen-Manager und klicken Sie auf **Werbeanzeige erstellen**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Wählen Sie Personen zu Ihrer Kampagne **senden** aus.
+1. Wählen Sie **Personen zu Ihrer Website** als Ziel Ihrer Kampagne senden.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
