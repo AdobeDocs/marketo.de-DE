@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, indem Sie festlegen, welche Spalten angezeigt werden.
 
-## Spaltenauswahl {#how-to-select-columns}
+## So wählen Sie Spalten {#how-to-select-columns} aus
 
 1. Klicken Sie auf der Seite &quot;Personen&quot;auf das Symbol &quot;Listen-Einstellungen&quot;.
 
    ![](assets/one-5.png)
 
-1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf Alle **auswählen** klicken, wenn Sie jede Spalte wünschen). Klicken Sie abschließend aus der Liste.
+1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** klicken, wenn Sie jede Spalte wünschen). Klicken Sie abschließend aus der Liste.
 
    ![](assets/two-4.png)
 
