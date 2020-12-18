@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändern der Ablaufzeit für URLs in Bericht-E-Mails {#change-the-expiration-time-for-urls-in-report-emails}
+# Ändern der Ablaufzeit für URLs in Report E-Mails {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
