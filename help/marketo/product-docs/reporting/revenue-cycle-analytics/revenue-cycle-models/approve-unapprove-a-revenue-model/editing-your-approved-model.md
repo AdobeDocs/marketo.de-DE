@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Bearbeiten des Modells {#editing-your-model}
 
-1. Wählen Sie das Modell, an dem Sie Änderungen vornehmen möchten, im Bereich &quot;Analytics&quot;aus und klicken Sie auf &quot;Entwurf **bearbeiten&quot;**.
+1. Wählen Sie das Modell, an dem Sie Änderungen vornehmen möchten, im Bereich &quot;Analytics&quot;aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Wählen Sie die neue Phase für Interessenten aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keine **aus, um die Interessenten aus Ihrem Modell zu entfernen. Wenn Sie fertig sind, klicken Sie auf **Zusammenführen**.
+1. Wählen Sie die neue Phase für Interessenten aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keine **aus, um die Interessenten aus Ihrem Modell zu entfernen. Klicken Sie abschließend auf **Zusammenführen**.
 
    ![](assets/three.png)
 
-1. Nachdem Sie Änderungen am Modell vorgenommen haben, genehmigen Sie es erneut, indem Sie im Menü &quot; **Modellaktionen&quot;die Option &quot;Modellentwurf** genehmigen&quot; **auswählen** .
+1. Nachdem Sie Änderungen am Modell vorgenommen haben, genehmigen Sie es erneut, indem Sie **Modellentwurf genehmigen** im Menü **Modellaktionen** auswählen.
 
    ![](assets/four.png)
 
@@ -35,13 +35,13 @@ ht-degree: 0%
    >
    >Wenn Sie Änderungen an Ihren Phasen vornehmen, z. B. das Hinzufügen oder Zusammenführen, sollten Sie die Zuordnungsregeln und -phasen entsprechend Ihren Änderungen ändern.
 
-## Nicht genehmigen des Modells {#unapproving-your-model}
+## Nicht genehmigen Ihres Modells {#unapproving-your-model}
 
 >[!CAUTION]
 >
 >Wenn Sie Ihr Modell nicht genehmigen, werden alle zugehörigen Interessenten entfernt und ihr Verlauf im Modell wird gelöscht. Erwägen Sie, Ihr Modell zu bearbeiten, anstatt die Genehmigung aufzuheben.
 
-1. Wählen Sie das Modell aus, für das Sie die Genehmigung aufheben möchten. Wählen Sie im Menü **Modellaktionen** die Option Modell **nicht genehmigen**.
+1. Wählen Sie das Modell aus, für das Sie die Genehmigung aufheben möchten. Wählen Sie im Menü **Modellaktionen** **Modell nicht genehmigen**.
 
    ![](assets/five.png)
 
