@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Ansicht von Web-Kampagnen aus einer bestimmten Bezeichnung {#view-web-campaigns-from-a-specific-label}
+# Ansicht von Web-Kampagnen einer bestimmten Bezeichnung {#view-web-campaigns-from-a-specific-label}
 
 Suchen Sie nach Ansicht und filtern Sie Ihre Kampagnen nach einem bestimmten Etikett?
 
-## Nach vorhandenen Bezeichnungen filtern {#filter-by-existing-labels}
+## Filtern nach vorhandenen Bezeichnungen {#filter-by-existing-labels}
 
-1. Gehen Sie zu **Web** - **Kampagnen**.
+1. Gehen Sie zu **Web** **Kampagnen**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
