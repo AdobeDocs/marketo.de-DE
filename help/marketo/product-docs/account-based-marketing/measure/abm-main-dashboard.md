@@ -25,7 +25,7 @@ Klicken Sie auf die Dropdown-Liste Ansicht, um nach Liste des Kontos zu filtern.
 
 ![](assets/three.png)
 
-Klicken Sie zur Ansicht des Dashboards [zur](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)Kontoverwaltung auf den Namen der ausgewählten Liste...
+Klicken Sie zur Ansicht des Dashboards [Konto-Liste](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard) auf den Namen der ausgewählten Konto-Liste...
 
 ![](assets/four.png)
 
@@ -33,7 +33,7 @@ Klicken Sie zur Ansicht des Dashboards [zur](http://docs.marketo.com/display/DOC
 
 ![](assets/five.png)
 
-Wenn Sie nicht das Dashboard zur Liste des Kontos anzeigen möchten, das Sie im Drilldown-Verfahren zu einem benannten Konto aufrufen möchten, klicken Sie unter dessen Namen auf **Mehr Details** ...
+Wenn Sie nicht das Dashboard Kontoinformationen anzeigen möchten, das Sie im Drilldown-Verfahren zu einem benannten Liste-Konto aufrufen möchten, klicken Sie unter dessen Namen auf **Mehr Details**...
 
 ![](assets/six.png)
 
