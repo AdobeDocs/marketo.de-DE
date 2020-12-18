@@ -23,11 +23,11 @@ Marketo Sales Connect ist eine vielschichtige Vertriebssupport-Lösung mit einer
 
 ## Der Live-Feed {#the-live-feed}
 
-Vertriebsmitarbeiter können die [Echtzeit-Interaktion](http://docs.marketo.com/x/d4TS) von Marketing- und Vertriebsinhalten Ansicht leisten.
+Vertriebsmitarbeiter können [Echtzeit-Interaktionen](http://docs.marketo.com/x/d4TS) von Marketing- und Verkaufsinhalten Ansicht werden.
 
 ![](assets/engagement.jpg)
 
-## Ansicht &quot;Personendaten&quot; {#person-detail-view}
+## Person Detail-Ansicht {#person-detail-view}
 
 Zugriff auf [detaillierte Personenstatistiken](http://docs.marketo.com/x/e4TS).
 
@@ -63,7 +63,7 @@ Erkennen Sie, wie Ihre Potenzieller Kunden mit Ihren Verkaufsbemühungen interag
   </tr> 
   <tr> 
    <td colspan="1"><p>Kaufaufruf empfangen</p></td> 
-   <td colspan="1"><p>Lead erhielt einen Anruf von einem Verkäufer, der das <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Verkaufstelefon</a>verwendet.</p></td> 
+   <td colspan="1"><p>Lead erhielt einen Anruf von einem Verkäufer, der das <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Verkaufstelefon</a> verwendet.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Kampagne Hinzufügen Vertrieb</p></td> 
@@ -82,7 +82,7 @@ Erkennen Sie, wie Ihre Potenzieller Kunden mit Ihren Verkaufsbemühungen interag
 
 ## Freigeben von Marketing-Kampagnen {#share-marketing-campaigns}
 
-Erstellen Sie eine einfache intelligente Kampagne, um Ihren Vertriebsmitarbeitern Zugriff auf [Marketo-Kampagnen](http://docs.marketo.com/x/NwDh)zu geben.
+Erstellen Sie eine einfache intelligente Kampagne, um Ihren Vertriebsmitarbeitern Zugriff auf [Marketo-Kampagne-Daten](http://docs.marketo.com/x/NwDh) zu geben.
 
 ![](assets/campaign-is-requested.jpg)
 
