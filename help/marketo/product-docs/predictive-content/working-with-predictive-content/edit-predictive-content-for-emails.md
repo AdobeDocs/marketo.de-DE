@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 So richten Sie Ihren vorhersagenden Inhalt für E-Mails ein:
 
 >[!PREREQUISITES]
 >
->Der Inhalt muss auf der Seite &quot;Alle Inhalte&quot; [genehmigt werden, um Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) vorhersagen zu können.
+>Der Inhalt muss auf der Seite &quot;Alle Inhalte&quot;für den vorhersagenden Inhalt [genehmigt sein.](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 1. Klicken Sie auf der Seite &quot;Predictive Content&quot;auf einen Titel, um den Editor zu öffnen.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Die Bearbeitungsseite wird geöffnet. **Standardmäßig wird E-Mail** angezeigt.
+1. Die Bearbeitungsseite wird geöffnet. **Standardmäßig wird** E-Mail angezeigt.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -43,7 +43,7 @@ So richten Sie Ihren vorhersagenden Inhalt für E-Mails ein:
    >
    >Wenn Sie die Schaltflächenbeschriftung geändert haben, wird sie beim Speichern der Änderungen oder der Vorschau des Bildes aktualisiert.
 
-1. Um die Bild-URL hinzuzufügen oder zu bearbeiten, klicken Sie auf Bild **bearbeiten**.
+1. Um die Bild-URL hinzuzufügen oder zu bearbeiten, klicken Sie auf **Bild bearbeiten**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -51,7 +51,7 @@ So richten Sie Ihren vorhersagenden Inhalt für E-Mails ein:
 
    ![](assets/five.png)
 
-1. Klicken Sie auf den Schieberegler und ziehen Sie ihn, um die Bildgröße zu ändern. Klicken Sie dann auf das Beschneidungsfeld und ziehen Sie es, um den gewünschten Bildbereich zu isolieren. Klicken Sie abschließend auf **Vorschau** .
+1. Klicken Sie auf den Schieberegler und ziehen Sie ihn, um die Bildgröße zu ändern. Klicken Sie dann auf das Beschneidungsfeld und ziehen Sie es, um den gewünschten Bildbereich zu isolieren. Klicken Sie abschließend auf **Vorschau**.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ So richten Sie Ihren vorhersagenden Inhalt für E-Mails ein:
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Optional können Sie auf das Feld &quot; **Kategorien** &quot;klicken und dem Inhalt Kategorien hinzufügen. Die Optionen stammen aus den [Kategorien, die Sie bereits eingerichtet](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)haben.
+1. Optional können Sie auf das Feld **Kategorien** klicken und dem Inhalt Kategorien hinzufügen. Die Optionen stammen aus den bereits eingerichteten [Kategorien.](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)
 
    ![](assets/eight.png)
 
@@ -74,4 +74,4 @@ So richten Sie Ihren vorhersagenden Inhalt für E-Mails ein:
 
    >[!NOTE]
    >
-   >In MarketingTo E-Mail Editor Version 2.0 können Sie auch die Layoutvorlagen [Ansicht vornehmen, die Sie beim Aktivieren des Inhalts verwenden](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) .
+   >In Marketo E-Mail Editor Version 2.0 können Sie auch [Ansicht der Layoutvorlagen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) verwenden, während Sie den Inhalt aktivieren.
