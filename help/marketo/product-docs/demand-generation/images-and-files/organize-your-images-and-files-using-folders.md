@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Bilder und Dateien mithilfe von Ordnern organisieren {#organize-your-images-and-files-using-folders}
+# Organisieren Sie Ihre Bilder und Dateien mit Ordnern {#organize-your-images-and-files-using-folders}
 
 Wenn Sie Ordner erstellen, können Sie Bilder und Dateien verschieben, nur den gewünschten Bildsatz anzeigen und diese direkt in einen bestimmten Ordner hochladen.
 
-1. Gehen Sie zum **Design** **Studio**.
+1. Gehen Sie zu **Design** **Studio**.
 
    ![](assets/designstudio-7.png)
 
@@ -27,7 +27,7 @@ Wenn Sie Ordner erstellen, können Sie Bilder und Dateien verschieben, nur den g
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. Gehen Sie zu **Bilder und Dateien**, jetzt können Sie per Drag &amp; Drop in den gewünschten Ordner ziehen.
+1. Gehen Sie zu **Bilder und Dateien**, jetzt können Sie in den gewünschten Ordner ziehen und ablegen.
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
