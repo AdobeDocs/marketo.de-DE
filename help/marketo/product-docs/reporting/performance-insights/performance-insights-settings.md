@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Einstellungen für Performance Insights {#performance-insights-settings}
+# Performance Insight-Einstellungen {#performance-insights-settings}
 
 Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
@@ -21,7 +21,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 >
 >Je nachdem, in welchem Dashboard Sie sich befinden, sehen Sie verschiedene Einstellungsoptionen.
 
-## Erfolg des Ansicht-Programms nach {#view-program-success-by}
+## Erfolg des Ansicht-Programms durch {#view-program-success-by}
 
 **Interaktions-Dashboard - Beitrag und Trend**
 
