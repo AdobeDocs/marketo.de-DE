@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Filtern von Assets in E-Mail-Berichten einer Kampagne {#filter-assets-in-a-campaign-email-reports}
+# Filtern von Assets in einer Kampagne E-Mail-Berichte {#filter-assets-in-a-campaign-email-reports}
 
-Konzentrieren Sie Ihren [Kampagnen-E-Mail-Leistungsbericht](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) auf bestimmte [intelligente Kampagnen](http://docs.marketo.com/display/docs/smart+campaigns) in Ihren Programmen (&quot;lokale Assets&quot;) oder auf archivierte Assets.
+Konzentrieren Sie den Bericht [Kampagne E-Mail-Leistung](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) auf bestimmte [intelligente Kampagnen](http://docs.marketo.com/display/docs/smart+campaigns) in Ihren Programmen (&#39;lokale Assets&#39;) oder auf archivierte Assets.
 
 1. Gehen Sie zum Bereich **Analytics **(oder **Marketing-Aktivitäten**).
 
@@ -23,7 +23,7 @@ Konzentrieren Sie Ihren [Kampagnen-E-Mail-Leistungsbericht](../../../../product-
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Klicken Sie auf die Registerkarte **Einstellungen** und ziehen Sie über einen Filter.
+1. Klicken Sie auf die Registerkarte **Setup** und ziehen Sie über einen Filter.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -38,7 +38,7 @@ Konzentrieren Sie Ihren [Kampagnen-E-Mail-Leistungsbericht](../../../../product-
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Inhalte dieses Ordners zum Zeitpunkt der Ausführung des Berichts.
 
-1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht**, um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
@@ -57,5 +57,5 @@ Konzentrieren Sie Ihren [Kampagnen-E-Mail-Leistungsbericht](../../../../product-
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über Berichte in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
