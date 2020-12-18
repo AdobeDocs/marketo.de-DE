@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# Automatisches Abmelden formatieren {#how-to-format-auto-unsubscribes}
+# Format der automatischen Abonnements {#how-to-format-auto-unsubscribes}
 
 1. Klicken Sie unter &quot;Einstellungen&quot;auf **Zeitzonen und Abmeldung**.
 1. Geben Sie den Text ein, den Sie zum Abbestellen am Ende Ihrer E-Mail anzeigen möchten.
 1. Markieren Sie die Wörter, auf die Sie einen Hyperlink setzen möchten, damit die Empfänger ihren Abonnement kündigen können.
-1. Klicken Sie auf Änderungen **speichern**.
+1. Klicken Sie auf **Änderungen speichern**.
 
