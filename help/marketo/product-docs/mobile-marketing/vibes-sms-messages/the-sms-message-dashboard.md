@@ -17,15 +17,15 @@ Das SMS-Nachrichten-Dashboard enthält nützliche Informationen zu Ihrer SMS-Nac
 
 ![](assets/converted-dashboard-image.png)
 
-Das **SMS-Progressionsdiagramm** zeigt die insgesamt gesendete und die gesamte Auslieferung an. Die Beträge befinden sich rechts, und wenn Sie den Mauszeiger über eine Leiste halten, wird der Prozentsatz angezeigt.
+Das Diagramm **SMS-Progression** zeigt die insgesamt gesendete und die gesamte Auslieferung an. Die Beträge befinden sich rechts, und wenn Sie den Mauszeiger über eine Leiste halten, wird der Prozentsatz angezeigt.
 
 ![](assets/sms-progression-hand-border.png)
 
-Das **Zusammenfassungsdiagramm** zeigt die berechnete Absprungrate als Prozentsatz an. Bewegen Sie den Mauszeiger über die Pfeilleiste, um die Versand-Rate nach Betrag und Prozentsatz Ansicht. Bewegen Sie den Mauszeiger über den Bereich &quot;Orangefarbene Absprungrate&quot;in der Leiste, um die Werte und Prozentwerte für die Absprungrate und die Absprungrate Ansicht.
+Das Diagramm **Zusammenfassung** zeigt die berechnete Absprungrate als Prozentsatz an. Bewegen Sie den Mauszeiger über die Pfeilleiste, um die Versand-Rate nach Betrag und Prozentsatz Ansicht. Bewegen Sie den Mauszeiger über den Bereich &quot;Orangefarbene Absprungrate&quot;in der Leiste, um die Werte und Prozentwerte für die Absprungrate und die Absprungrate Ansicht.
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-Im Diagramm &quot; **Aktivität im Zeitverlauf** &quot;können Sie die Option &quot;Gesendet gesamt&quot;oder &quot;Gesendet insgesamt&quot;auswählen. Wählen Sie einen geeigneten Bereich aus der Datumsbereichsauswahl.
+Mit dem Diagramm **Aktivität im Zeitverlauf** können Sie die Option &quot;Gesendet insgesamt&quot;oder &quot;Ausgeliefert&quot;auswählen. Wählen Sie einen geeigneten Bereich aus der Datumsbereichsauswahl.
 
 ![](assets/activity-over-time-hands.png)
 
