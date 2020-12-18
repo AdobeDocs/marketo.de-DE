@@ -17,17 +17,17 @@ Vertriebsmitarbeiter verfügen oft nicht über Administratorrechte auf ihren Lap
 
 >[!PREREQUISITES]
 >
->Der Administrator muss eine Marketing-E-Mail-Hinzufügen-In-Lizenz [ausgestellt haben](issue-a-marketo-email-add-in-license.md).
+>Der Administrator muss über [eine Marketing E-Mail-Hinzufügen-In-Lizenz ](issue-a-marketo-email-add-in-license.md) verfügen.
 
 >[!NOTE]
 >
->Wenn die Schaltfläche &quot;Enterprise-Schlüssel&quot;nicht angezeigt wird, wenden Sie sich [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) an die Aktivierung.
+>Wenn die Schaltfläche &quot;Enterprise-Schlüssel&quot;nicht angezeigt wird, wenden Sie sich an [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371), um sie zu aktivieren.
 
-1. Klicken Sie in My Marketing auf **Admin** und dann **Sales Insight.**
+1. Klicken Sie in My Marketo auf **Admin** und dann **Sales Insight.**
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. Klicken Sie auf die Registerkarte **E-Mail-HinzufügenIn** .
+1. Klicken Sie auf die Registerkarte **E-Mail-Hinzufügen-In**.
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
@@ -35,11 +35,11 @@ Vertriebsmitarbeiter verfügen oft nicht über Administratorrechte auf ihren Lap
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Kopieren Sie den Outlook Enterprise-Lizenzschlüssel und fügen Sie ihn zusammen mit [diesem Link](marketo-outlook-plugin-installation-by-it.md)in eine E-Mail ein und senden Sie ihn zur Remote-Installation an Ihre IT-Abteilung.
+1. Kopieren Sie den Outlook Enterprise-Lizenzschlüssel und fügen Sie ihn zusammen mit [diesem Link](marketo-outlook-plugin-installation-by-it.md) in eine E-Mail ein und senden Sie ihn zur Remote-Installation an Ihre IT-Abteilung.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   Das ist alles! Als Nächstes durchläuft der Vertriebsmitarbeiter den [Registrierungsprozess](authorize-the-marketo-outlook-plugin.md). Sie können ihnen einen Link zu den Anweisungen senden (siehe **Marketo Ähnliche Artikel**).
+   Das ist alles! Als Nächstes durchläuft der Vertriebsmitarbeiter den Registrierungsprozess [](authorize-the-marketo-outlook-plugin.md). Sie können ihnen einen Link zu den Anweisungen senden (siehe **Markieren Sie zugehörige Artikel**).
 
    >[!NOTE]
    >
