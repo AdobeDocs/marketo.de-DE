@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze {#priority-urgency-relative-score-and-best-bets}
+# Priorität, Dringlichkeit, relatives Ergebnis und Beste Beta {#priority-urgency-relative-score-and-best-bets}
 
 Marketo Sales Insight wählt Ihre besten Kontakte und Kontakte nach ihrer Priorität. Die Priorität eines Interessenten oder Kontakts besteht aus zwei Komponenten: Dringlichkeit und relatives Ergebnis.
 
@@ -37,13 +37,13 @@ Die Sterne stellen den relativen Wert dar - ein Maß dafür, wie der Interessent
 
 Wenn zwei Interessenten dieselbe Dringlichkeit haben, können Sie anhand des relativen Ergebnisses feststellen, welches zuerst einen Anruf verdient. Die mit dem höheren relativen Ergebnis reagiert möglicherweise günstiger auf Ihr Angebot als die untere.
 
-## Beste Betas {#best-bets}
+## Beste Bets {#best-bets}
 
 Ihre besten Wetten sind Ihre Kontakte und Kontakte mit der höchsten Dringlichkeit und relativem Ergebnis. Nur die Interessenten, die Sie besitzen, sind in dieser Liste sichtbar, und die Liste wird aktualisiert, wenn sich die Interessentenwerte ändern.
 
 >[!NOTE]
 >
->Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit jemandem in Ihrer Firma, der Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Scoring-Regeln](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit jemandem in Ihrer Firma, der Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Bewertungsregeln](../../../../../getting-started/quick-wins/simple-scoring.md).
 
 ### Berechnung der Dringlichkeitsbewertung und der relativen Bewertung
 
