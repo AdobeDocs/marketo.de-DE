@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Offline-Konversionen in Facebook {#understanding-facebook-offline-conversions}
+# Offline-Konversionen für Facebook {#understanding-facebook-offline-conversions}
 
 Kampagnen von Facebook-Interessentenanzeigen generieren Interessenten und senden sie zur Verwendung in Marketing-Kampagnen an Marketing. Ohne die Offline-Konvertierung kann der Facebook-Advertiser jedoch nicht wissen, welche Anzeigen am effektivsten sind. Hier ist ein Beispiel.
 
@@ -40,7 +40,7 @@ Das bedeutet, dass Ad 1, obwohl es weniger Interessenten gab, eine Erfolgsrate v
 >
 >Ohne Offline-Konversionen würde der Werbetreibende wahrscheinlich mehr Geld in Ad 3 investieren. Bei Offline-Konversionsdaten investiert der Werbetreibende wahrscheinlich eher in Anzeige 1.
 
-Sie können Facebook-Offline-Konversionen [einrichten, um die Offline-Anzeigenleistung an Facebook zu senden](set-up-facebook-offline-conversions.md) .
+Sie können [Facebook-Offline-Konvertierungen](set-up-facebook-offline-conversions.md) einrichten, um die Offline-Anzeigenleistung an Facebook zu senden.
 
 1. Vergewissern Sie sich, dass Ihre [Facebook-LaunchPoint-Integration](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) auf dem neuesten Stand ist.
 1. Ordnen Sie die Phasen im Umsatzzyklusmodell den Offline-Konversionsphasen auf Facebook zu.
