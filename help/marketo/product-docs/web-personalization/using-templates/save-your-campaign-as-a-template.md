@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Speichern Ihrer Kampagne als Vorlage {#save-your-campaign-as-a-template}
+# Speichern Sie Ihre Kampagne als Vorlage {#save-your-campaign-as-a-template}
 
 Haben Sie schon einmal die perfekte Web-Kampagne entwickelt? Sie können sie jetzt als Vorlage speichern, um sie in Zukunft einfach wiederzuverwenden.
 
