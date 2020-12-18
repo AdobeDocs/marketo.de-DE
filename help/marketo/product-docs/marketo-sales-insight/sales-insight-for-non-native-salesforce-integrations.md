@@ -20,7 +20,7 @@ Wenn Ihr Marketo-Konto über eine benutzerdefinierte oder nicht native Integrati
 >* Wenden Sie sich an Ihren Customer Success Manager, um die Funktion &quot;MSI Non-Native&quot;für Ihre Marketing-Instanz zu aktivieren.
 >* Ein Salesforce-Konto mit MSI-Paket eingerichtet.
 >* Marketo REST API [erfolgreich eingerichtet](http://developers.marketo.com/rest-api/). Die offen gelegten CRUD-APIs bilden die Grundlage für die Durchführung der nicht nativen Synchronisierung.
->* Lesen Sie [diesen Blog-Beitrag](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) , um ein Verständnis des Objekts und der Beziehungen zu erhalten.
+>* Lesen Sie [diesen Blog-Beitrag](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/), um ein Verständnis des Objekts und der Beziehungen zu erhalten.
 >* Richten Sie Salesforce-Objekte so ein, dass der globale eindeutige Bezeichner mit 18 Zeichen und nicht der globale eindeutige Bezeichner mit 15 Zeichen ohne Unterscheidung zwischen Groß- und Kleinschreibung angezeigt wird.
 
 >
@@ -62,7 +62,7 @@ API-Dokumentation für die Synchronisierung der Vertriebsperson: [https://develo
 
 1. Synchronisieren Sie die Salesforce-Konten mit Marketo.
 
-   Für das Salesforce-Konto muss eine Marketo-Firma aktualisiert werden. Die *Felder externalCompanyId* und *externalSalesPersonId* werden für die Aktualisierung der Firma angefordert.
+   Für das Salesforce-Konto muss eine Marketo-Firma aktualisiert werden. Die Felder *externalCompanyId* und *externalSalesPersonId* werden für die Aktualisierung der Firma angefordert.
 
 <table> 
  <colgroup> 
@@ -94,7 +94,7 @@ API-Dokumentation für Firmen: [https://developers.marketo.com/rest-api/lead-dat
 
 1. Synchronisieren Sie die Salesforce Leads/Kontakte mit Marketo.
 
-   Sie müssen einen Marketo Lead für den Salesforce Lead/Kontakt aufstellen. Die *Felder &quot;externalPersonId*&quot;, &quot; *externalSalesPersonId*&quot;und &quot; *externalCompanyId* &quot;werden für die Aktualisierung des Interessenten angefordert.
+   Sie müssen einen Marketo Lead für den Salesforce Lead/Kontakt aufstellen. Die Felder *externalPersonId*, *externalSalesPersonId* und *externalCompanyId* sind für die Aktualisierung des Interessenten obligatorisch.
 
 <table> 
  <colgroup> 
@@ -131,7 +131,7 @@ API-Dokumentation für die Synchronisierung von Interessenten:  [https://develop
 
 1. Synchronisieren Sie Salesforce-Chancen mit Marketo.
 
-   Für die Salesforce-Gelegenheit müssen Sie eine Marketing-Chance aktualisieren. Die Felder *externalOpportunityId*, *externalCompanyId* und *externalSalesPersonId* werden für die Aktualisierung der Gelegenheit angewiesen.
+   Für die Salesforce-Gelegenheit müssen Sie eine Marketing-Chance aktualisieren. Die Felder *externalOpportunityId*, *externalCompanyId* und *externalSalesPersonId* sind für die Aktualisierung der Gelegenheit obligatorisch.
 
 <table> 
  <colgroup> 
@@ -228,7 +228,7 @@ API-Dokumentation für Chancen: [`https://developers.marketo.com/rest-api/lead-d
   </tr> 
   <tr> 
    <td>msiLastInteressentMomentType</td> 
-   <td>Beschriftung: Letzter interessanter Moment<br>TypeName: last_interessante_moment_type_c</td> 
+   <td>Beschriftung: Letzter interessanter Moment Typ<br>Name: last_interessante_moment_type_c</td> 
    <td>Art des letzten interessanten Moments für den Interessenten</td> 
   </tr> 
   <tr> 
