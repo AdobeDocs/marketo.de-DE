@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Anmelden und Benutzerverwaltung {#login-and-user-management}
 
-## Web-Personalisierung-Benutzerrolle erstellen {#create-a-web-personalization-user-role}
+## Eine Web-Personalisierung-Benutzerrolle {#create-a-web-personalization-user-role} erstellen
 
-1. Gehen Sie zum Abschnitt **Admin** und klicken Sie dann auf **Benutzer und Rollen**.
+1. Wechseln Sie zum Abschnitt **Admin** und klicken Sie dann auf **Benutzer und Rollen**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Geben Sie einen Rollennamen ein und wählen Sie &quot;Berechtigungen&quot;. Klicken Sie auf **Erstellen** (diese Rolle muss für alle Arbeitsbereiche [gelten](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Geben Sie einen Rollennamen ein und wählen Sie &quot;Berechtigungen&quot;. Klicken Sie auf **Create** (Diese Rolle muss [auf alle Arbeitsbereiche](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers) angewendet werden.)
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Um Benutzern Zugriff auf alle Funktionen von Targeting und Personalisierung zu gewähren, müssen Sie *alle* Kontrollkästchen aktivieren.
+   >Um Benutzern Zugriff auf alle Elemente in Targeting und Personalisierung zu gewähren, müssen Sie die Kontrollkästchen *alle* aktivieren.
 
-## Benutzerberechtigungen für Web-Personalisierung und Predictive Content {#web-personalization-and-predictive-content-user-permissions}
+## Web-Personalisierung und Predictive Content Benutzerberechtigungen {#web-personalization-and-predictive-content-user-permissions}
 
 **Targeting und Personalisierung**: Der Benutzer hat nur Berechtigungen für Ansichten, wenn diese Berechtigung nur aktiviert ist.
 
@@ -53,13 +53,13 @@ ht-degree: 0%
 
 **Web Kampagne Launcher**: Benutzer hat Zugriff auf alle Funktionen der Web-Personalisierung-App, mit Ausnahme der Konto- und Inhaltseinstellungen. Mit dieser Berechtigung können Sie Web-Kampagnen erstellen, bearbeiten, löschen und starten.
 
-## WP-Rolle Benutzer zuweisen {#assign-wp-role-to-user}
+## WP-Rolle Benutzer {#assign-wp-role-to-user} zuweisen
 
 1. Gehen Sie zu **Benutzer**.
 
    ![](assets/image2015-4-29-11-3a31-3a3.png)
 
-1. Wählen Sie den Benutzer aus, dem WP Zugriff gewährt werden soll, und klicken Sie auf &quot;Benutzer **bearbeiten&quot;**.
+1. Wählen Sie den Benutzer aus, dem WP Zugriff gewährt werden soll, und klicken Sie auf **Benutzer bearbeiten**.
 
    ![](assets/image2015-4-29-11-3a38-3a46.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Neu aktivierte Benutzer sehen bei der nächsten Anmeldung die Kachel **Web-Personalisierung** in &quot;Mein Markt&quot;.
+1. Bei der nächsten Anmeldung sehen Benutzer, die neu aktiviert sind, die Kachel **Webpersonalisierung** in &quot;Mein Markt&quot;.
 
    ![](assets/eight.png)
