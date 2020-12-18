@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Meldebogen 15-A {#template-a}
+# Vorlage 15-A {#template-a}
 
 [Vorlage 15-A herunterladen](http://docs.marketo.com/download/attachments/9437816/template-15a.html?version=1&amp;modificationdate=1438980388000&amp;api=v2)
 
