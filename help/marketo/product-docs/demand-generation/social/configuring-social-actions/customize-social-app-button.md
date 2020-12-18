@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Schaltfläche &quot;Social-App anpassen&quot; {#customize-social-app-button}
 
-Wenn Sie eine [Social-Schaltfläche](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) oder ein [Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)erstellen, können Sie das Erscheinungsbild der Schaltflächen anpassen.
+Wenn Sie eine [Social-Schaltfläche](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) oder ein [Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie das Erscheinungsbild der Schaltflächen anpassen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie die App aus und klicken Sie auf Entwurf **bearbeiten.**
+1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten.**
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Gehen Sie im Social App-Editor zu **App-Einstellungen** > **Schaltflächenstil** (oder **Anmeldungsstil,** für Verweisdokumente).
+1. Wechseln Sie im Social App-Editor zu **App-Einstellungen** > **Schaltflächenstil** (oder **Anmeldungsstil,** für Verweisdokumente).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +37,7 @@ Wenn Sie eine [Social-Schaltfläche](../../../../product-docs/demand-generation/
 
    >[!NOTE]
    >
-   >Wählen Sie für Verweisende Angebot Ihre Netzwerke unter **2. Anmeldefluss > Social Networks**.
+   >Wählen Sie für verweisende Angebot Ihre Netzwerke unter **2 aus. Anmeldefluss > Social Networks**.
 
 1. Wählen Sie einen Schaltflächentyp aus.
 
@@ -45,21 +45,21 @@ Wenn Sie eine [Social-Schaltfläche](../../../../product-docs/demand-generation/
 
    >[!TIP]
    >
-   >Wenn Sie oben unter &quot;Schaltflächenstil **&quot;die Option &quot;Bilder** hochladen&quot;gewählt haben, können Sie in den folgenden Abschnitten Schaltflächenbilder hochladen, anstatt den Text zu bearbeiten.
+   >Wenn Sie unter Schaltflächenstil **** Bilder hochladen auswählen, können Sie in den folgenden Abschnitten Schaltflächenbilder hochladen, anstatt den Text zu bearbeiten.
 
 1. Bearbeiten Sie die Beschriftungen für die Schaltfläche vor und nach dem Klicken.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Überprüfen Sie bei jeder Auswahl das Ergebnis im Fenster &quot; **Ansicht und Bearbeiten** &quot;.
+1. Überprüfen Sie bei jeder Auswahl das Ergebnis im Fenster **Ansicht &amp; Bearbeiten**.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In einem Referrer-Angebot können Sie auch die Schaltfläche &quot; **Track Progress** &quot;anpassen. Gehen Sie zu **App-Einstellungen** > **Track Progress Style** und führen Sie die oben beschriebenen Schritte aus.
+>In einem Referrer-Angebot können Sie auch die Schaltfläche **Track Progress** anpassen. Gehen Sie zu **App-Einstellungen** > **Track Progress Style** und befolgen Sie die gleichen Schritte wie oben.
 
 >[!MORELIKETHIS]
 >
->Bei einer Schaltfläche für soziale Netzwerke [konfigurieren Sie sie beim Öffnen](configure-when-social-button-opens.md). Geben Sie für ein Angebot mit Verweis das Angebot-Ziel [an](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+>Bei einer Social-Schaltfläche müssen Sie [konfigurieren, wenn sie geöffnet wird](configure-when-social-button-opens.md). Geben Sie für ein Verweisziel [das Angebot-Angebot](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) an.
 
