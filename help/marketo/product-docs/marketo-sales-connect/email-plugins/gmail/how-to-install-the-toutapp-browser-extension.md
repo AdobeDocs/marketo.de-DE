@@ -16,5 +16,5 @@ ht-degree: 0%
 1. Klicken Sie auf **Einstellungen** in der [Webanwendung](http://toutapp.com/next#settings).
 1. Klicken Sie unter Mein Konto auf **E-Mail-Einstellungen**.
 1. Klicken Sie auf **Plugins**.
-1. Klicken Sie unter &quot;Google Mail- und Google-Apps&quot;auf **Installieren**.
+1. Klicken Sie unter &quot;Gmail and Google Apps&quot;auf **Install**.
 
