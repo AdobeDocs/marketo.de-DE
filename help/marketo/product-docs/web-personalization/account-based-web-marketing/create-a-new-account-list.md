@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Eine Liste für ein neues Konto erstellen {#create-a-new-account-list}
+# Neue Konto-Liste {#create-a-new-account-list} erstellen
 
 Erstellen Sie eine Liste von Organisations- und Domänennamen und laden Sie sie hoch, um diese wichtigen Konten mit personalisierten Kampagnen Zielgruppe.
 
 >[!NOTE]
 >
->Dieser Artikel gilt nur für ältere Web ABM-Kunden. Wenn Sie Web ABM nach September 2016 erworben haben, befolgen Sie bitte die Schritte in [diesem Artikel](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) .
+>Dieser Artikel gilt nur für ältere Web ABM-Kunden. Wenn Sie Web ABM nach September 2016 erworben haben, führen Sie stattdessen die Schritte unter [dieser Artikel](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) aus.
 
-## Eine Liste für ein neues Konto erstellen {#create-a-new-account-list-1}
+## Neue Konto-Liste {#create-a-new-account-list-1} erstellen
 
 1. Gehen Sie zu **Kontoeinstellungen**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Wählen Sie Neu **erstellen**.
+1. Wählen Sie **Neu erstellen**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Wählen Sie &quot; **Durchsuchen** &quot;und laden Sie die CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). hinzufügen einen **Namen** und eine **Beschreibung**. Klicken Sie auf **Speichern**.
+1. Wählen Sie **Durchsuchen** und laden Sie die CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). hinzufügen a **Name** und **Beschreibung**. Klicken Sie auf **Speichern**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -75,13 +75,13 @@ Klicken Sie auf der Seite **Kontoeinstellungen** auf das Symbol **Bearbeiten **a
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Wählen Sie **Durchsuchen** und laden Sie die neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken Sie auf **Speichern**. Die neue hochgeladene Datei befindet sich in einem ausstehenden Zustand, bis sie von der Marketing Support-Abteilung genehmigt wurde, wenn die Originaldatei in einem ausstehenden Status aktiv bleibt.
+Wählen Sie **Durchsuchen** und laden Sie Ihre neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken Sie auf **Speichern**. Die neue hochgeladene Datei befindet sich in einem ausstehenden Zustand, bis sie von der Marketing Support-Abteilung genehmigt wurde, wenn die Originaldatei in einem ausstehenden Status aktiv bleibt.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
 Die CSV-Datei ersetzt die vorhandene Datei. Die bestehende Liste bleibt solange aktiv, bis die Verarbeitung der neuen Datei abgeschlossen ist.
 
-## Eine Liste für ein benanntes Konto löschen {#delete-a-named-account-list}
+## Löschen einer Liste für ein benanntes Konto {#delete-a-named-account-list}
 
 1. Klicken Sie auf der Seite **Kontoeinstellungen **auf das Symbol **Löschen **der Liste, die Sie löschen möchten.
 
