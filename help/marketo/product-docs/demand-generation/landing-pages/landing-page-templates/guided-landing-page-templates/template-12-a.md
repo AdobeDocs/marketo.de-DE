@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Meldebogen 12-A {#template-a}
+# Vorlage 12-A {#template-a}
 
 [Vorlage 12-A herunterladen](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 Klicken Sie unten, um diese Vorlage herunterzuladen:
 
-[Template12-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+[Template11-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
