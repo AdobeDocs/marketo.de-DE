@@ -27,11 +27,11 @@ So erstellen Sie ein Segment mit einer Kontoklasse.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klicken Sie auf Neu **erstellen**.
+1. Klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Geben Sie einen Namen für das Segment ein. Ziehen Sie **Kontoeinstellungen** per Drag &amp; Drop aus dem **Bereich &quot;Firmographics** &quot;.
+1. Geben Sie einen Namen für das Segment ein. Ziehen Sie **Kontoeinstellungen** aus dem Bereich **Listen**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -43,7 +43,7 @@ So erstellen Sie ein Segment mit einer Kontoklasse.
    >
    >Listen von Konten werden von ABM mit Web-Personalisierung synchronisiert, um sie in der Segmentierung zu verwenden. Wählen Sie sie aus der Dropdownliste aus. Die Synchronisierung kann bis zu fünf Minuten dauern. Die Synchronisierung erfolgt nur, wenn sich in der Liste &quot;Konto&quot;ein oder mehrere benannte Konten befinden.
 
-1. Klicken Sie auf **Speichern** oder auf **Speichern und Kampagne** definieren, um zur Seite &quot;Kampagnen&quot;zu wechseln.\
+1. Klicken Sie auf **Speichern** oder klicken Sie auf **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.\
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Herzlichen Glückwunsch! Sie haben jetzt ein Segment für eine Liste eingerichtet.
