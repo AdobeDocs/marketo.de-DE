@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Erstellen einer Vorlage für eine Landingpage mit Guided {#create-a-guided-landing-page-template}
+# Erstellen einer Vorlage für eine geführte Landingpage {#create-a-guided-landing-page-template}
 
 >[!NOTE]
 >
->**Tiefgang:** Lese müde? [Sehen Sie sich dieses coole Video](https://youtu.be/3O7e4GdZKsM) mit schrittweisen Anleitungen an.
+>**Tief tauchen:** müde lesen? [Sehen Sie sich dieses coole ](https://youtu.be/3O7e4GdZKsM) Video mit schrittweisen Anleitungen an.
 
 Vorlagen für Landingpages mit Guided haben eine spezielle Syntax. Verwenden Sie diese Syntax, um anzugeben, was anpassbar ist und wo der Inhalt auf jeder Landingpage landet, die aus Ihrer Vorlage erstellt wurde. Nur die als bearbeitbar angegebenen Regionen oder Variablen können im Editor für geführte Landingpages angepasst werden.
 
@@ -34,7 +34,7 @@ Elemente werden deklariert, indem der Vorlage ein normales DOM-Element hinzugef�
 
 ## Text {#text}
 
-Wenn Sie eine Region als Rich Text definieren, können Benutzer ihre Inhalte [mit dem Rich Text Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)von Marketo bearbeiten.
+Wenn Sie einen Bereich als Rich Text definieren, können Benutzer den Inhalt [mit dem Rich Text Editor von Marketo bearbeiten.](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
 
 Erforderliche Attribute:\
 **class**: &quot;mktoText&quot;\
@@ -50,7 +50,7 @@ Beispiel:
 
 ### Bild {#image}
 
-Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder eine `<div>`verwenden, die einen Container angibt, in den das Bild eingefügt wird, oder ein `<img>` -Tag.
+Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder ein `<div>` verwenden, das einen Container angibt, in den das Bild eingefügt wird, oder ein `<img>`-Tag.
 
 ## Option 1: Verwenden Sie eine <div> {#option-use-a-div}
 
@@ -61,7 +61,7 @@ id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unters
 mktoName: Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-mktoImgClass: Zeichenfolge. Der Wert hier wird dem Klassenattribut des `<img>` Elements innerhalb des div hinzugefügt.
+mktoImgClass: Zeichenfolge. Der Wert hier wird dem Klassenattribut des Elements `<img>` innerhalb des div hinzugefügt.
 
 Beispiel:
 
@@ -83,9 +83,9 @@ Beispiel:
 
 >[!NOTE]
 >
->Bei Verwendung der `<img>` Version enthält der gerenderte HTML-Code einen generierten div-Wrapper um das `<img>` -Tag herum. Es wird auf class festgelegt.&quot;mktoImg.mktoGen,&quot; und wird angezeigt:inline-block.
+>Bei Verwendung der `<img>`-Version enthält der gerenderte HTML-Code einen generierten div-Wrapper um das `<img>`-Tag. Es wird auf class festgelegt.&quot;mktoImg.mktoGen,&quot; und wird angezeigt:inline-block.
 
-## Formblatt {#form}
+## Formular {#form}
 
 Beispiel: Erforderliche Attribute:\
 **class**: &quot;mktoForm&quot;\
@@ -94,7 +94,7 @@ Beispiel: Erforderliche Attribute:\
 
 `<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
 
-## Snippet {#snippet}
+## Ausschnitt {#snippet}
 
 Erforderliche Attribute:\
 **class**: &quot;mktoSnippet&quot;\
@@ -105,7 +105,7 @@ Beispiel:
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
 
-## Schaltfläche &quot;Freigeben&quot; {#share-button}
+## Freigabebeschaltfläche {#share-button}
 
 Erforderliche Attribute:\
 **class**: &quot;mktoShareButton&quot;\
@@ -123,7 +123,8 @@ Beispiel:
 >Wenn Sie das Videoelement in einer Landingpage verwenden, unterstützt Marketo nur Videos von YouTube. Wenn Sie einen anderen Dienst verwenden, sollten Sie ein Rich-Text-Feld verwenden und den Einbettungscode des Videos einfügen.
 
 Erforderliche Attribute:
-**class**: &quot;mktoVideo&quot;**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**class**: &quot;mktoVideo&quot;
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
@@ -173,7 +174,7 @@ Beispiel:
 
 **Erklärung:**
 
-Variablen werden als Meta-Tags innerhalb des `<head>` Elements der Vorlage deklariert. Es stehen drei Variablentypen zur Verfügung: Zeichenfolge, Farbe und Boolescher Wert.
+Variablen werden als Meta-Tags innerhalb des Elements `<head>` der Vorlage deklariert. Es stehen drei Variablentypen zur Verfügung: Zeichenfolge, Farbe und Boolescher Wert.
 
 ## Zeichenfolge {#string}
 
@@ -212,7 +213,7 @@ Beispiel mit allen Attributen:
 
 `<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
 
-## Boolesch {#boolean}
+## Boolean {#boolean}
 
 Erforderliche Attribute:\
 **class** : &quot;mktoBoolean&quot;,\
