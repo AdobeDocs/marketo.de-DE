@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über E-Mail Insights-Sends {#email-insights-sends-overview}
+# Email Insights Sends Overview {#email-insights-sends-overview}
 
 Überprüfen Sie auf der Seite &quot;Senden&quot;die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/one.png)
 
-Verwenden Sie die [Filterung](filtering-in-email-insights.md) , um anzugeben, welche E-Mails Sie sehen möchten.
+Verwenden Sie [filter](filtering-in-email-insights.md), um anzugeben, welche E-Mails Sie sehen möchten.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ Auf der rechten Seite der Seite befinden sich verschiedene Informationen zu Ihre
 
 ![](assets/two-1.png)
 
-**Typ** gibt die Art des verwendeten Assets an.\
-**Empfänger** Nummer ist, wie viele Personen die E-Mail gesendet haben.\
-**Versand-Metriken** geben Ihnen eine schnelle Ansicht, wie viele E-Mails zugestellt, ausstehend oder abgesprungen wurden.\
+**** Typeindiktiert die Art des verwendeten Assets.\
+**Die** Empfängernummer ist die Anzahl der Personen, die die E-Mail erhalten haben.\
+**Versand** Metricsbietet Ihnen eine schnelle Ansicht, wie viele E-Mails zugestellt, ausstehend oder abgesprungen wurden.\
 **Interaktionsmetriken** geben Ihnen eine schnelle Ansicht, wie viele Empfänger eine E-Mail geöffnet, angeklickt und abbestellt haben.\
-**Ergebnis** ist die [Interaktionsbewertung](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)Ihrer E-Mail.
+**Zeigt** die  [Interaktionsbewertung](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) Ihrer E-Mail an.
 
 Standardmäßig werden Ihre E-Mails nach der neuesten sortiert, Sie können sie jedoch nach jeder verfügbaren Metrik sortieren.
 
