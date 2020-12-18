@@ -23,12 +23,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
 >[!MORELIKETHIS]
 >
 >* [Eine Web-Kampagne löschen](delete-a-web-campaign.md)
->* [Starten/Anhalten einer](launch-pause-a-web-campaign.md) [Kampagne](launch-pause-a-web-campaign.md)
+>* [Starten/Anhalten ](launch-pause-a-web-campaign.md) [einer Kampagne](launch-pause-a-web-campaign.md)
 
 >
 
