@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo ermöglicht Ihnen, unsere Formulare auf Ihrer eigenen Website einzubetten. So erhalten Sie Zugriff auf den Einbettungscode.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Marketo ermöglicht Ihnen, unsere Formulare auf Ihrer eigenen Website einzubette
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Klicken Sie unter &quot; **Formularaktionen** &quot; **auf**&quot; **Code einbetten** ****&quot;.
+1. Klicken Sie unter **Formular** **Aktionen** auf **Einbetten** **Code**.
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ Marketo ermöglicht Ihnen, unsere Formulare auf Ihrer eigenen Website einzubette
 
    >[!CAUTION]
    >
-   >** [Formularvorausfüllung](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** funktioniert nicht, wenn der Formulareinbettungscode auf Ihren eigenen Seiten *oder* in einer Marketing-Landingpage verwendet wird. Die Funktion zum Vorausfüllen von Formularen funktioniert nur, wenn das Formular über die Option &quot;Element einfügen&quot;in einer Marketing-Landingpage verwendet wird.
+   >** [Die Funktion &quot;Formularvorausfüllung](../../../../product-docs/administration/settings/edit-landing-page-settings.md)***&quot;funktioniert nicht, wenn Sie den Formulareinbettungscode auf Ihren eigenen Seiten *oder* einer Marketing-Landingpage verwenden. Die Funktion zum Vorausfüllen von Formularen funktioniert nur, wenn das Formular über die Option &quot;Element einfügen&quot;in einer Marketing-Landingpage verwendet wird.
 
 1. Wählen Sie den Einbettungscode aus/kopieren und klicken Sie dann auf **Schließen**.
 
@@ -50,6 +50,6 @@ Geben Sie den Einbettungscode einfach an Ihren Webentwickler weiter und lassen S
 
 >[!NOTE]
 >
->Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihnen die [Forms 2.0-Entwicklerseite](http://developers.marketo.com/documentation/websites/forms-2-0/).
+>Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihnen die [Forms 2.0 Developers Page](http://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Gute Arbeit! Soll der [Einbettungscode Leuchtkasten-Code](use-a-form-in-a-lightbox.md)enthalten? Das ist auch leicht!
+Gute Arbeit! Soll der [Einbettungscode den Leuchtkasten-Code](use-a-form-in-a-lightbox.md) enthalten? Das ist auch leicht!
