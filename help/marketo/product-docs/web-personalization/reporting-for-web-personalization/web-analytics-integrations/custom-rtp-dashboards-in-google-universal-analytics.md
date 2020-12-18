@@ -28,9 +28,9 @@ In diesem Beitrag wird das Einrichten von RTP-Dashboards in Google Universal Ana
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Wählen Sie &quot; **Leere Arbeitsfläche**&quot;, fügen Sie einen **Dashboard-Namen** hinzu und klicken Sie auf &quot;Dashboard **erstellen&quot;**.
+1. Wählen Sie **Leere Arbeitsfläche**, fügen Sie einen **Dashboard-Namen** hinzu und klicken Sie auf **Dashboard erstellen**.
 
-1. Klicken Sie auf **Hinzufügen Widget** , um ein neues Widget zu erstellen.\
+1. Klicken Sie auf **Hinzufügen Widget**, um ein neues Widget zu erstellen.\
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B-Dashboard {#rtp-b-b-dashboard}
@@ -139,7 +139,7 @@ Das Dashboard besteht aus 3 Spalten
     <ul> 
      <li>Name: Sitzungen und Ziele nach Hauptsegmenten</li> 
      <li>Typ: Verzeichnis<br></li> 
-     <li>Zeigen Sie die folgenden Spalten an: <br>Ereignis | Sitzungen | Ziel Konversionsrat</li> 
+     <li>Zeigen Sie die folgenden Spalten an: <br>Ereignis-Bezeichnung | Sitzungen | Ziel Konversionsrat</li> 
      <li>Filter: <br>Nur anzeigen | Ereignis Kategorie (enthält) RTP-Segmente</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
    <th> </th> 
@@ -179,21 +179,21 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
   <tr> 
    <td> 
     <ul> 
-     <li>Name: <strong>CTA insgesamt (Interaktion)</strong></li> 
+     <li>Name: <strong>CTA insgesamt (Einsatz)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
-     <li>Zeigt die folgende Metrik an: <strong>Ereignisse insgesamt</strong></li> 
-     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): Impression</strong><strong>[not show] Ereignis Label (contains): #</strong></li> 
+     <li>Zeigt die folgende Metrik an: <strong>Ereignis insgesamt</strong></li> 
+     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): Impression</strong><strong>[Nicht anzeigen] Ereignis Label (enthält): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>Name: <strong>CTA insgesamt (Durchklickrate)</strong></li> 
+     <li>Name: <strong>CTA insgesamt (Clickthrough)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
-     <li>Zeigt die folgende Metrik an: <strong>Ereignisse insgesamt</strong></li> 
-     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): Clicks</strong><strong>[Keine Anzeige] Ereignis Label (enthält): #</strong></li> 
+     <li>Zeigt die folgende Metrik an: <strong>Ereignis insgesamt</strong></li> 
+     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): Klicks</strong><strong>[Keine Anzeige] Ereignis Label (enthält): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>Name: <strong>CRE - Gesamtklicks</strong></li> 
+     <li>Name: <strong>CRE - Klicks insgesamt</strong></li> 
      <li>Typ: <strong>2.1 Metrik</strong><br></li> 
      <li>Zeigt die folgende Metrik an: <strong>Seitenansichten</strong></li> 
      <li>Filter: <strong>[nur anzeigen] Seite (enthält): rcmd</strong></li> 
@@ -205,19 +205,19 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
      <li>Name: <strong>Durchschn. Sitzungsdauer (Einsatz)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Zeigt die folgende Metrik an: <strong>Durchschn. Sitzungsdauer</strong></li> 
-     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): impression</strong><strong>[Nicht anzeigen] Ereignis Label (enthält): #</strong></li> 
+     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): impression</strong><strong>[Nicht anzeigen] Ereignis-Beschriftung (enthält): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Name: <strong>Durchschn. Sitzungsdauer (Durchklickrate)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Zeigt die folgende Metrik an: <strong>Durchschn. Sitzungsdauer</strong></li> 
-     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): klickt</strong><strong>[Keine Anzeige] Ereignis Label (enthält): #</strong></li> 
+     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): Klicks</strong><strong>[Keine Anzeige] Ereignis Label (enthält): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Name: <strong>CRE - Empfohlene Inhalte</strong></li> 
-     <li>Typ: <strong>Verzeichnis</strong><br></li> 
+     <li>Name: <strong>CRE - Am häufigsten empfohlener Inhalt</strong></li> 
+     <li>Typ: <strong>Tabelle</strong><br></li> 
      <li>Zeigen Sie die folgenden Spalten an: <br><strong>Seitentitel | Seitenansichten</strong><br></li> 
      <li>Filter:<br>Filter: <strong>[nur anzeigen] Seite (enthält): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
@@ -225,18 +225,18 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
   <tr> 
    <td> 
     <ul> 
-     <li>Name: <strong>Seiten/Sitzung (Interaktion)</strong></li> 
+     <li>Name: <strong>Seiten / Sitzung (Einsatz)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
-     <li>Zeigt die folgende Metrik an: <strong>Seiten/Sitzung</strong></li> 
+     <li>Zeigt die folgende Metrik an: <strong>Seiten / Sitzung</strong></li> 
      <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong></li> 
      <li><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): impression</strong></li> 
      <li><strong>[Nicht anzeigen] Ereignis-Beschriftung (enthält): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Name: <strong>Seiten/Sitzung (Clickthrough)</strong></li> 
+     <li>Name: <strong>Seiten / Sitzung (Durchklickrate)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
-     <li>Zeigt die folgende Metrik an: <strong>Seiten/Sitzung</strong></li> 
+     <li>Zeigt die folgende Metrik an: <strong>Seiten / Sitzung</strong></li> 
      <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong></li> 
      <li><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): Klicks</strong></li> 
      <li><strong>[Nicht anzeigen] Ereignis-Beschriftung (enthält): #</strong></li> 
@@ -247,15 +247,15 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
    <td> 
     <ul> 
      <li>Name: <strong>Impressionen nach CTA</strong></li> 
-     <li>Typ: <strong>Verzeichnis</strong></li> 
-     <li>Zeigen Sie die folgenden Spalten an: <strong>Ereignis | Ereignisse insgesamt | Benutzer</strong></li> 
-     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): impression</strong><strong>[Nicht anzeigen] Ereignis Label (enthält): #</strong></li> 
+     <li>Typ: <strong>Tabelle</strong></li> 
+     <li>Zeigen Sie die folgenden Spalten an: <strong>Ereignis-Bezeichnung | Ereignisse insgesamt | Benutzer</strong></li> 
+     <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): impression</strong><strong>[Nicht anzeigen] Ereignis-Beschriftung (enthält): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Name: <strong>Clickthrough nach CTA</strong></li> 
-     <li>Typ: <strong>Verzeichnis</strong></li> 
-     <li>Zeigen Sie die folgenden Spalten an: <strong>Ereignis | Ereignisse insgesamt | Benutzer</strong></li> 
+     <li>Typ: <strong>Tabelle</strong></li> 
+     <li>Zeigen Sie die folgenden Spalten an: <strong>Ereignis-Bezeichnung | Ereignisse insgesamt | Benutzer</strong></li> 
      <li>Filter:<br><strong>[nur anzeigen] Ereignis-Kategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignis-Aktion (exakt Übereinstimmung): Klicks</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
