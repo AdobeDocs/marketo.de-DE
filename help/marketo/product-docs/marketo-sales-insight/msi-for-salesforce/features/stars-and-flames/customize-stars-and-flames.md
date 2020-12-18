@@ -29,7 +29,7 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Interessenten zu priorisi
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Klicken Sie im Abschnitt **Interessentenbewertungseinstellungen** auf **Bearbeiten**.
+1. Klicken Sie unter dem Abschnitt **Interessentenbewertungseinstellungen** auf **Bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
@@ -40,14 +40,14 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Interessenten zu priorisi
    >**Definition**
    >
    >
-   >**Dynamisch** : Ein Prozentwert, der aus [relativen Daten](priority-urgency-relative-score-and-best-bets.md)abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
+   >**Dynamisch** : Ein Prozentwert, der aus  [relativen Daten](priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
    >
    >
-   >**Statisch** - Ermöglicht die Festlegung exakter Punktzahlen - keine Prozentsätze mehr, keine Geheimsaucen mehr.
+   >**Statisch**  - Ermöglicht die Festlegung exakter Punktzahlen - keine Prozentsätze mehr, keine Geheimsaucen mehr.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Bearbeiten Sie die prozentualen Klammern nach Ihren Wünschen und **speichern Sie**.
+1. Bearbeiten Sie die prozentualen Klammern nach Ihren Vorlieben und **Speichern**.
 
    >[!TIP]
    >
