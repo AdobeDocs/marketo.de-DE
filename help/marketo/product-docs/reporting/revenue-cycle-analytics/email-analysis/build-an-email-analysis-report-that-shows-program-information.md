@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen eines Berichts zur E-Mail-Analyse mit Programm-Informationen {#build-an-email-analysis-report-that-shows-program-information}
+# Erstellen Sie einen Bericht zur E-Mail-Analyse, der Programm-Informationen {#build-an-email-analysis-report-that-shows-program-information} anzeigt.
 
 Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstellen, der E-Mail-Informationen nach Programm-Kanälen gruppiert anzeigt.
 
@@ -21,7 +21,7 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-1. Starten Sie **den Umsatz-Explorer**.
+1. Starten Sie **Umsatz-Explorer**.
 
    ![](assets/image2014-9-17-19-3a42-3a26.png)
 
@@ -49,11 +49,11 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Suchen und Dublette klicken Sie auf den gelben Punkt **E-Mail-Name** .
+1. Suchen und Dublette klicken Sie auf den gelben Punkt **E-Mail-Name**.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Klicken Sie auf &quot; **Gesendet**&quot;, &quot; **Geöffnet** &quot;und &quot; **Klickt** &quot;und klicken Sie auf &quot;Dublette&quot;.
+1. Klicken Sie auf die blauen Punkte **Gesendet**, **Geöffnet** und **Klicken Sie auf**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
@@ -66,5 +66,5 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
    >**Tieftauchen**
    >
    >
-   >Möchten Sie mehr über [Umsatz Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)erfahren?
+   >Möchten Sie mehr über [Umsatz-Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) erfahren?
 
