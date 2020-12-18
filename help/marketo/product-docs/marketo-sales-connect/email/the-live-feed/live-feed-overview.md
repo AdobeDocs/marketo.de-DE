@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Live Feed-Übersicht {#live-feed-overview}
+# Übersicht über Live Feed {#live-feed-overview}
 
 Der Live-Feed ist ein unverankertes Fenster, das über die Webanwendung oder das Gmail-Plug-In gestartet werden kann. In diesem Fenster wird ein Echtzeitblick auf die Interaktion mit dem Potenzieller Kunde Angebot.
 
@@ -38,7 +38,7 @@ Personen, die mit einer blauen Linie markiert sind, repräsentieren die Interakt
 
 
 
-## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
+## Registerkarte Aufgaben {#tasks-tab}
 
 ![](assets/task.jpg)
 
@@ -75,28 +75,28 @@ Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten bis zur niedrigsten
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Jemand hat Ihre E-Mail angesehen</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Jemand hat auf einen Link in Ihrer E-Mail geklickt</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Jemand hat auf Ihre E-Mail geantwortet</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">Alle unter "Interessante Momente"aufgelisteten Benachrichtigungen, einschließlich E-Mail, Web und Meilensteine</td> 
   </tr> 
