@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Massenaktionen in Salesforce Classic verwenden {#using-bulk-actions-in-salesforce-classic}
+# Verwenden von Massenaktionen in Salesforce Classic {#using-bulk-actions-in-salesforce-classic}
 
 Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer Kampagne hinzufügen, eine Massen-E-Mail versenden oder Interessenten von Salesforce zu Sales Connect verschieben.
 
@@ -23,13 +23,13 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 >
 >Bevor Sie die beschriebenen Schritte ausführen, stellen Sie sicher, dass Sie bei Ihrem MarketingTo Sales Connect-Konto angemeldet sind.
 
-## Massen-E-Mail {#bulk-email}
+## Bulk Email {#bulk-email}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und dann auf die Schaltfläche **Los** .
+1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und dann auf die Schaltfläche **Los**.
 
    ![](assets/one-5.png)
 
-1. Wählen Sie die gewünschten Kontakte aus und klicken Sie auf die Schaltfläche **E-Mail mit MSC (Klassisch)** .
+1. Wählen Sie die gewünschten Interessenten aus und klicken Sie auf die Schaltfläche **E-Mail mit MSC (Classic)**.
 
    ![](assets/two-5.png)
 
@@ -43,13 +43,13 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 
    ![](assets/three-4.png)
 
-## hinzufügen zur Kampagne {#add-to-campaign}
+## hinzufügen in Kampagne {#add-to-campaign}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und dann auf die Schaltfläche **Los** .
+1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und dann auf die Schaltfläche **Los**.
 
    ![](assets/four-3.png)
 
-1. Wählen Sie die gewünschten Interessenten aus und klicken Sie auf die Schaltfläche **Hinzufügen zur MSC-Kampagne (Klassisch)** .
+1. Wählen Sie die gewünschten Interessenten aus und klicken Sie auf die Schaltfläche **Hinzufügen zur MSC-Kampagne (Classic)**.
 
    ![](assets/five-3.png)
 
@@ -59,15 +59,15 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 
 ## Push to Marketing Sales Connect {#push-to-marketo-sales-connect}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und dann auf die Schaltfläche **Los** .
+1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und dann auf die Schaltfläche **Los**.
 
    ![](assets/seven-1.png)
 
-1. Wählen Sie die gewünschten Leads aus und klicken Sie auf die Schaltfläche **Push to MSC (Classic)** .
+1. Wählen Sie die gewünschten Interessenten aus und klicken Sie auf die Schaltfläche **In MSC (Classic)** verschieben.
 
    ![](assets/eight-1.png)
 
-1. Eine neue Registerkarte namens &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf die Schaltfläche **Zur Gruppe fortfahren →** .
+1. Eine neue Registerkarte namens &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf die Schaltfläche **Fahren Sie mit Gruppe →** fort.
 
    ![](assets/nine-1.png)
 
