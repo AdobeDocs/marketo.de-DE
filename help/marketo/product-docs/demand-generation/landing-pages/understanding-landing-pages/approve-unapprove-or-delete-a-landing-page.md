@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch Genehmigung werden Seiten im übrigen System zur Verfügung gestellt. Wenn Sie eine genehmigte Landingpage bearbeiten, speichert Marketo den Entwurf, verwendet jedoch weiterhin die genehmigte Version, bis Sie den Entwurf genehmigen.
 
-## Landingpage genehmigen {#approve-a-landing-page}
+## Eine Landingpage {#approve-a-landing-page} genehmigen
 
-1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpages-Aktionen** und klicken Sie auf **Genehmigen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpage Aktionen** und klicken Sie auf **Genehmigen**.
 
    >[!TIP]
    >
-   >Sie können mehrere Seiten gleichzeitig [genehmigen](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) , um Ihr Leben zu vereinfachen.
+   >Sie können [mehrere Seiten gleichzeitig genehmigen](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md), um Ihr Leben zu vereinfachen.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -37,7 +37,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch Geneh
    >Nach der Genehmigung befindet sich auf dem Symbol Landingpage ein grünes Häkchen.
 
 1. Genehmigen einer Landingpage aufheben
-1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpages-Aktionen** und klicken Sie auf **Nicht genehmigen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpage Aktionen** und klicken Sie auf **Nicht genehmigen**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
@@ -51,7 +51,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch Geneh
 
 ## Löschen einer Landingpage {#delete-a-landing-page}
 
-1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpages-Aktionen** und klicken Sie auf **Löschen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpage Aktionen** und klicken Sie auf **Löschen**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -79,7 +79,7 @@ Möchten Sie mehrere Landingpages gleichzeitig löschen? So geht es.
    >
    >Sie können auch Strg+Klicken verwenden, um mehrere Landingpages zu löschen, die nicht sequenziell sind.
 
-1. Klicken Sie auf die Dropdownliste **Landingpages** und wählen Sie **Löschen**.
+1. Klicken Sie auf die Dropdown-Liste **Landingpage Aktionen** und wählen Sie **Löschen**.
 
    ![](assets/three.png)
 
