@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Rechtecke auf Landingpages eignen sich hervorragend zum Hervorheben eines Textbereichs.
 
-1. Wählen Sie eine freie Landingpage aus und klicken Sie auf **Bearbeiten** des **Entwurfs**.
+1. Wählen Sie eine freie Landingpage aus und klicken Sie auf **Bearbeiten** **Entwurf**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ Rechtecke auf Landingpages eignen sich hervorragend zum Hervorheben eines Textbe
    >
    >Der Entwickler der Freiform-Landingpage wird in einem neuen Fenster geöffnet.
 
-1. Ziehen Sie über das **Rechteckelement** .
+1. Ziehen Sie über das Element **Rechteck**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Wählen Sie Ihr Rechteck aus und verwenden Sie das **Eigenschaftsblatt** , **um alle erforderlichen Änderungen vorzunehmen** .
+1. Wählen Sie Ihr Rechteck aus und verwenden Sie das **Eigenschaft** **Blatt**, um erforderliche Änderungen vorzunehmen.
 
    >[!TIP]
    >
