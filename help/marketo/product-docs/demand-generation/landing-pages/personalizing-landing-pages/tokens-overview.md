@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Tokens - Übersicht {#tokens-overview}
+# Token-Übersicht {#tokens-overview}
 
-Ein Token ist eine Variable, die in [intelligenten Kampagnen](http://docs.marketo.com/display/DOCS/Smart+Campaigns) -Flussschritten, [E-Mails](http://docs.marketo.com/display/DOCS/General), [Landingpages](http://docs.marketo.com/display/DOCS/Landing+Pages), [Snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)und [Web-Kampagnen](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)verwendet werden kann.
+Ein Token ist eine Variable, die in Marketo [smart Kampagne](http://docs.marketo.com/display/DOCS/Smart+Campaigns), [emails](http://docs.marketo.com/display/DOCS/General), [Landingpages](http://docs.marketo.com/display/DOCS/Landing+Pages), [Snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) und [Web-Kampagnen](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor) verwendet werden kann.
 
 ## Standardwerte {#understanding-default-values}
 
@@ -33,7 +33,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 >
 >Diese Liste ist nicht erschöpfend. Token werden auch für jedes benutzerdefinierte Feld erstellt, das Sie in Marketo haben.
 
-## Personentoken {#person-tokens}
+## Person Tokens {#person-tokens}
 
 * `{{lead.Acquisition Date}}`
 * `{{lead.Acquisition Program Name}}`
@@ -87,9 +87,9 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Benutzerdefinierte Personenfelder funktionieren auch, wenn Sie beispielsweise ihren Anzeigenamen verwenden. `{{lead.Custom Field Name}}`
+* Benutzerdefinierte Personenfelder funktionieren auch, wenn Sie ihren Anzeigenamen verwenden, z. B. `{{lead.Custom Field Name}}`
 
-## Firmen-Tokens {#company-tokens}
+## Firma Tokens {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -112,7 +112,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 * `{{Company.Website}}`
 * Benutzerdefinierte Firmen funktionieren auch, wenn Sie den Anzeigenamen z. B. verwenden. `{{Company.Custom Field Name}}`
 
-## Kampagnen-Tokens {#campaign-tokens}
+## Kampagne Tokens {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
@@ -131,7 +131,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Auslöser-Tokens {#trigger-tokens}
+## Auslöser-Token {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,7 +149,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) , basierend auf Auslösern, die in einer intelligenten Kampagne verwendet werden.
+>Erfahren Sie mehr über [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) basierend auf Auslösern, die in einer intelligenten Kampagne verwendet werden.
 
 ## Programm-Tokens {#program-tokens}
 
@@ -159,16 +159,16 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 
 * `{{program.id}}`
 
-## Meine Token {#my-tokens}
+## Meine Tokens {#my-tokens}
 
-Meine Token werden in einem Programm definiert und beginnen mit dem Namen, den Sie für das Token erstellt haben. `{{my.` Danach folgt der Name des Tokens. Erfahren Sie mehr über [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Meine Token werden in einem Programm definiert und beginnen mit `{{my.`, gefolgt vom Namen, den Sie für das Token erstellt haben. Erfahren Sie mehr über [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## MitgliederToken {#member-token}
+## Member Token {#member-token}
 
-Member Tokens werden verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. Eine häufige Verwendung von Mitglieds-Tokens ist für eindeutige URLs für Webinar-Teilnehmer. Jede Person hat eine eindeutige URL, um auf das Webinar zuzugreifen, das mit einem `{{member.webinar url}}` Token eingefügt werden kann. Das `{{member.webinar url}}` Token löst automatisch die vom Dienstleister generierte eindeutige Bestätigungs-URL der Person auf.
+Member Tokens werden verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. Eine häufige Verwendung von Mitglieds-Tokens ist für eindeutige URLs für Webinar-Teilnehmer. Jede Person hat eine eindeutige URL, um auf das Webinar zuzugreifen, das mit einem `{{member.webinar url}}`-Token eingefügt werden kann. Das Token `{{member.webinar url}}` löst automatisch die vom Dienstleister generierte eindeutige Bestätigungs-URL der Person auf.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Das `{{member.webinar url}}` Token wird nur gefüllt, wenn die intelligente Kampagne, die die E-Mail sendet, ein untergeordnetes Asset des Ereignis-Programms ist.
+>Das Token `{{member.webinar url}}` wird nur gefüllt, wenn die intelligente Kampagne, die die E-Mail sendet, ein untergeordnetes Asset des Ereignis-Programms ist.
