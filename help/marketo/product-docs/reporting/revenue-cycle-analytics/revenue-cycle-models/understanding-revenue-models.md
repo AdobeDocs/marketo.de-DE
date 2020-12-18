@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Modelle mit Umsatzzyklen bringen das Marketing auf die nächste Stufe. Sie modellieren alle Stufen Ihres gesamten Umsatzes - von der ersten Interaktion mit einem Interessenten bis hin zum erfolgreichen Kunden.
 
-## Mental Model (Wie man darüber nachdenkt) {#mental-model-how-to-think-about-this-thing}
+## Mental Model (Wie Sie über dieses Ding nachdenken) {#mental-model-how-to-think-about-this-thing}
 
 Der Modeler ist wie eine Reihe von Eimern mit Wasser darin. Es sind Löcher am Boden der Eimer.
 
@@ -31,7 +31,7 @@ Der Modellierer misst alle Interessenten im Behälter zu jeder Zeit. Das nennt m
 
 Modelle sind im Allgemeinen für Kunden gedacht, die mit intelligenten Kampagnen und Programmen vertraut sind und ihre Analysen auf die nächste Stufe bringen möchten.
 
-## Mit einem neuen Modell beginnen {#starting-with-a-new-model}
+## Beginnend mit einem neuen Modell {#starting-with-a-new-model}
 
 Standardmäßig werden bei einem neuen Modell sechs Umsatzstufen Beginn. Dieses Modell ist eigentlich alles in Ordnung, aber es kann tief angepasst werden.
 
@@ -39,7 +39,7 @@ Standardmäßig werden bei einem neuen Modell sechs Umsatzstufen Beginn. Dieses 
 
 Beachten Sie, dass sie alle auf einem grünen Hintergrund stehen. Dies wird als **Erfolgspfad** bezeichnet. Verstehen Sie mehr über den Erfolgspfad [hier](understanding-revenue-model-success-path.md).
 
-**Phasen** sind die Meilensteine auf dem Weg zu ihren Zielen.
+**** Stufen sind die Meilensteine auf dem Weg zu ihren Zielen.
 
 **Transitionen **werden als Pfeile angezeigt und steuern, wie sich Interessenten zwischen den Stufen bewegen.
 
@@ -57,9 +57,9 @@ Jede Firma ist anders. Sie können Elemente zum Modell hinzufügen, indem Sie de
 
 Das sieht wie eine Schachtel aus und ist die grundlegendste Etappe. Analytics verfolgt den Zufluss, den Abfluss und die Ausgewogenheit dieser Phase.
 
-## SLA-Phase {#sla-stage}
+## SLA-Stufe {#sla-stage}
 
-Dies ist die Abkürzung für die **Stufe des Service Level Agreement** . Hier geht es darum, dass Sie in einigen Phasen eine Zeitbeschränkung durchsetzen möchten.
+Dies ist die Abkürzung für die Stufe **Service Level Agreement**. Hier geht es darum, dass Sie in einigen Phasen eine Zeitbeschränkung durchsetzen möchten.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Eine Gate-Phase ist für Situationen gedacht, in denen Sie Interessenten in eine
 >
 >**Beispiel**
 >
->Ein Gatter könnte für Interessenten verwendet werden, die zu einer **benannten Kontoversion gehören, um diese vom normalen Liste** zu trennen.
+>Ein Gate kann für Interessenten verwendet werden, die zu einer **benannten Liste gehören, die**, um dies vom normalen Vorgang zu trennen.
 
 ## Transitionen {#transitions}
 
