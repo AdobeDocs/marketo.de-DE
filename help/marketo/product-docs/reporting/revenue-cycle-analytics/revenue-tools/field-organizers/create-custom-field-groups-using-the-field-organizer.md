@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen benutzerdefinierter Feldgruppen mithilfe des Feldorganisierers {#create-custom-field-groups-using-the-field-organizer}
+# Erstellen benutzerdefinierter Feldgruppen mit dem Feldorganisator {#create-custom-field-groups-using-the-field-organizer}
 
 Bevor Sie benutzerdefinierte Feldgruppen für den Berichte im Bereich Modellleistung (Interessenten) des Umsatz-Cycle-Explorers aktivieren können, müssen Sie Standardfelder oder benutzerdefinierte Analysen für den Berichte über den Feldorganisator in der Marketing-Interessentenverwaltung in Gruppen kategorisieren. Dies gilt nur für die Attribute für Lead und Firma.
 Wenn Sie ein Standard- oder benutzerdefiniertes Feld aus der Dropdown-Liste &quot;Feld&quot;im Dialogfeld &quot;Neuer Feld-Organizer&quot;auswählen, ordnet das System den Datentyp &quot;Anzeigen-zu-Interessentenverwaltung&quot;dem Feld zu, das Sie mit einem der drei verfügbaren Editoren im Feld-Organizer gruppieren möchten: Zeichenfolge, Ganzzahl oder Datum.
@@ -34,13 +34,13 @@ Wenn Sie ein Standard- oder benutzerdefiniertes Feld aus der Dropdown-Liste &quo
 
 In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifische Feldgruppe für eine Zeichenfolge, eine Ganzzahl oder einen Datumstyp erstellen.
 
-## Benutzerspezifische Feldgruppe erstellen - Zeichenfolgeneditor {#create-custom-field-group-string-editor}
+## Benutzerspezifische Feldgruppe erstellen - Zeichenfolgen-Editor {#create-custom-field-group-string-editor}
 
 1. Klicken Sie auf **Interessentendatenbank**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neuer Feldorganisator**.
+1. Klicken Sie auf **New** und wählen Sie **New Field Organizer**.
 
    ![](assets/two.png)
 
@@ -60,7 +60,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    ![](assets/five.png)
 
-1. Standardmäßig werden alle Datenwerte in der Untergruppe &quot;Sonstige&quot;platziert. Um die Datenwerte zu kategorisieren, klicken Sie auf **Hinzufügen Gruppe** , um eine Untergruppe zu erstellen und ihr einen Namen zu geben.
+1. Standardmäßig werden alle Datenwerte in der Untergruppe &quot;Sonstige&quot;platziert. Um die Datenwerte zu kategorisieren, klicken Sie auf **Hinzufügen Gruppe**, um eine Untergruppe zu erstellen und ihr einen Namen zu geben.
 
    >[!NOTE]
    >
@@ -96,7 +96,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neuer Feldorganisator**.
+1. Klicken Sie auf **New** und wählen Sie **New Field Organizer**.
 
    ![](assets/two.png)
 
@@ -118,7 +118,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    Mit dem Ganzzahleditor können Sie mehrere Untergruppen erstellen, um jede Untergruppe nach Größe zu definieren. In diesem Beispiel werden drei Gruppen für kleine, mittlere und große Unternehmen eingerichtet.
 
-1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Klein) und geben Sie im Feld **Gruppenbereich** einen Maximalwert ein (Beispiel: 200000). Klicken Sie auf **Hinzufügen Gruppe**.
+1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Klein) und geben Sie im Feld **Gruppenbereich** einen Maximalwert ein (Beispiel: 200000). Klicken Sie auf **Hinzufügen**.
 
    ![](assets/twelve.png)
 
@@ -150,7 +150,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neuer Feldorganisator**.
+1. Klicken Sie auf **New** und wählen Sie **New Field Organizer**.
 
    ![](assets/two.png)
 
@@ -172,7 +172,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    Mit dem Datumseditor können Sie mehrere Untergruppen erstellen und jede Untergruppe nach Datum definieren. In diesem Beispiel werden drei Gruppen erstellt: Q1-15 Leads, Q2-15 Leads und Q3-15 Leads.
 
-1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Q1-15 Interessenten) und geben Sie ein Datum in das Datumsfeld ein, das dem Datum entspricht, an dem der Interessent am oder vor dem Kauf erworben wurde (Beispiel: 31.03.2015 für den letzten Tag des Q1-15). Klicken Sie auf **Hinzufügen Gruppe**.
+1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Q1-15 Interessenten) und geben Sie ein Datum in das Datumsfeld ein, das dem Datum entspricht, an dem der Interessent am oder vor dem Kauf erworben wurde (Beispiel: 31.03.2015 für den letzten Tag des Q1-15). Klicken Sie auf **Hinzufügen**.
 
    ![](assets/sixteen.png)
 
