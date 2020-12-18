@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwendung des Interessenten-Feeds {#using-the-lead-feed}
+# Verwenden des Interessenten-Feeds {#using-the-lead-feed}
 
 Der Interessentenfeed ist eine aktuelle Liste interessanter Ereignis, die Ihre Interessenten gemacht haben. Sie finden sie auf der rechten Seite, wenn Sie auf die Registerkarte &quot;Markieren&quot;klicken. Es ist wie ein RSS- oder Twitter-Feed - die neuesten Updates stehen oben auf der Liste. Verwenden Sie dies, um auf Interessenten zu springen, solange Sie noch frisch in ihrem Kopf sind.
 
@@ -69,7 +69,7 @@ Bei der Anzeige in Salesforce verfügt jedes Element über Folgendes:
  </tbody> 
 </table>
 
-## RSS-Aktualisierungen abrufen {#getting-rss-updates}
+## Abrufen von RSS-Aktualisierungen {#getting-rss-updates}
 
 Sie können auch Lead-Feed-Aktualisierungen über RSS-Dienste erhalten.  Mit einem RSS-Feed können Sie Aktualisierungen zu Ihren Leads erhalten, auch wenn Sie nicht mit Salesforce verbunden sind. Der Feed enthält dieselben Informationen wie der Interessentenfeed in Salesforce sowie folgende Informationen (falls verfügbar):
 
@@ -82,7 +82,7 @@ Sie können auch Lead-Feed-Aktualisierungen über RSS-Dienste erhalten.  Mit ein
 
 >[!NOTE]
 >
->Der Marketo-Administrator Ihrer Firma muss RSS-Dienste [](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) aktivieren, damit dies funktioniert.
+>Der Marketo-Administrator Ihrer Firma muss [RSS-Feeds](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) aktivieren, damit dies funktioniert.
 
 Um RSS-Aktualisierungen zu erhalten, benötigen Sie zwei Dinge: den RSS-Link und einen RSS-Feed-Reader. Sie können den RSS-Link abrufen, indem Sie auf das RSS-Symbol im Interessentenfeed klicken:   ![](assets/three.png)
 
