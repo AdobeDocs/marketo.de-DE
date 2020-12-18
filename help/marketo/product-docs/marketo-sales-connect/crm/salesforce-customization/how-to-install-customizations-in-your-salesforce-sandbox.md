@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf **Anpassungen** installieren.
+1. Klicken Sie auf **Anpassungen installieren**.
 
    ![](assets/three-3.png)
 
-   Als Nächstes führen Sie einfach die Schritte zur Installation der Anpassung durch, wie Sie es bei einem normalen Salesforce-Konto tun würden. Fahren Sie mit dem einminütigen Häkchen in [diesem Video](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) fort, um weitere Informationen zu erhalten.
+   Als Nächstes führen Sie einfach die Schritte zur Installation der Anpassung durch, wie Sie es bei einem normalen Salesforce-Konto tun würden. Fahren Sie mit dem einminütigen Zeichen von [diesem Video](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) fort, um weitere Informationen zu erhalten.
 
