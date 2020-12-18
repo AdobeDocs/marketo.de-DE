@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Berichtspalten neu anordnen {#reorder-report-columns}
+# Berichtspalten {#reorder-report-columns} neu anordnen
 
 Sie können die Reihenfolge der Spalten in einem Bericht ändern.
 
@@ -19,7 +19,7 @@ Sie können die Reihenfolge der Spalten in einem Bericht ändern.
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Bericht** .
+1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Bericht**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
