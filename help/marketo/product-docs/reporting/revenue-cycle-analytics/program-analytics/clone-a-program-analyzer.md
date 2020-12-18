@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Klonen eines Programm Analyzer {#clone-a-program-analyzer}
+# Klonen eines Programm-Analyzers {#clone-a-program-analyzer}
 
 Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um einen neuen zu erstellen. Bearbeiten Sie dann das neue, wenn Änderungen erforderlich sind.
 
@@ -19,15 +19,15 @@ Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um 
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klicken Sie auf die Kachel **Programm Analyzer** .
+1. Klicken Sie auf die Kachel **Programm Analyzer**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Öffnen Sie bei geöffnetem gespeicherten Analyzer die Dropdown-Liste &quot;Analyzer-Aktionen&quot;und wählen Sie **Analyzer** klonen.
+1. Wenn der gespeicherte Analyzer geöffnet ist, öffnen Sie die Dropdown-Liste &quot;Analyzer-Aktionen&quot;und wählen Sie **Analyzer klonen**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Wählen Sie den Speicherort für den geklonten Analyzer aus den Dropdownfeldern **Klonen an** und **Ordner** .
+1. Wählen Sie den Speicherort für den geklonten Analyzer aus den Dropdownfeldern **Klonen nach** und **Ordner**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
