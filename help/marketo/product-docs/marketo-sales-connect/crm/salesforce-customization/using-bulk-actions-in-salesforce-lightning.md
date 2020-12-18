@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden von Massenaktionen im Salesforce-Blitz {#using-bulk-actions-in-salesforce-lightning}
+# Verwenden von Massenaktionen in Salesforce-Blitzen {#using-bulk-actions-in-salesforce-lightning}
 
 Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer Kampagne hinzufügen, eine Massen-E-Mail versenden oder Interessenten von Salesforce zu Sales Connect verschieben.
 
@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 >
 >Bevor Sie die unten stehenden Schritte ausführen, stellen Sie sicher, dass Sie bei Ihrem Marketingto Sales Connect-Konto angemeldet sind.
 
-## Massen-E-Mail {#bulk-email}
+## Bulk Email {#bulk-email}
 
 1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und wählen Sie dann die Liste der gewünschten Interessenten aus.
 
@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
    >
    >Wenn Sie bereits auf der Liste sind, die Sie verwenden werden, müssen Sie sie erneut ausführen, indem Sie sie aus der Dropdownliste auswählen, um sicherzustellen, dass die MSC-MSC-MSC-Massen-Aktionsschaltflächen angezeigt werden. Das ist Salesforce-Verhalten, das nicht geändert werden kann.
 
-1. Klicken Sie auf das Dropdownmenü mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **E-Mail mit MSC**.
+1. Klicken Sie auf die Dropdownliste mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **E-Mail mit MSC**.
 
    ![](assets/two-6.png)
 
@@ -46,13 +46,13 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 
    ![](assets/three-5.png)
 
-## hinzufügen zur Kampagne {#add-to-campaign}
+## hinzufügen in Kampagne {#add-to-campaign}
 
 1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und wählen Sie dann die Liste der gewünschten Interessenten aus.
 
    ![](assets/four-4.png)
 
-1. Klicken Sie auf das Dropdownmenü mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **Hinzufügen zur MSC-Kampagne**.
+1. Klicken Sie auf das Dropdownmenü mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **Hinzufügen auf MSC-Kampagne**.
 
    ![](assets/five-4.png)
 
@@ -66,11 +66,11 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 
    ![](assets/seven-2.png)
 
-1. Klicken Sie auf die Dropdownliste mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **Zu MSC** verschieben.
+1. Klicken Sie auf die Dropdownliste mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **Nach MSC** verschieben.
 
    ![](assets/eight-2.png)
 
-1. Eine neue Registerkarte namens &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf die Schaltfläche **Zur Gruppe fortfahren →** .
+1. Eine neue Registerkarte namens &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf die Schaltfläche **Fahren Sie mit Gruppe →** fort.
 
    ![](assets/nine-2.png)
 
