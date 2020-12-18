@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Eine Web-Kampagne archivieren {#archive-a-web-campaign}
+# Eine Web-Kampagne {#archive-a-web-campaign} archivieren
 
 1. Gehen Sie zu **Web-Kampagnen**.
 
    ![](assets/one.jpg)
 
-1. Klicken Sie auf die Status-Dropdownliste der gewünschten Web-Kampagne und wählen Sie **Archivieren**.
+1. Klicken Sie auf die Status-Dropdownliste der gewünschten Web-Kampagne und wählen Sie **Archiv**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Archivierte Web-Kampagnen werden nicht im Standardfilter angezeigt. Um sie anzuzeigen, klicken Sie auf das Symbol &quot;Filter&quot;, aktivieren Sie unter &quot; **Status**&quot;das Kontrollkästchen &quot; **Archiviert** &quot;und klicken Sie auf &quot; **Übernehmen**&quot;.
+   >Archivierte Web-Kampagnen werden nicht im Standardfilter angezeigt. Um sie anzuzeigen, klicken Sie auf das Filtersymbol und aktivieren Sie unter **Status** das Kontrollkästchen **Archived** und klicken Sie auf **Apply**.
 
 >[!MORELIKETHIS]
 >
