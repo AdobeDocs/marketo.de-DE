@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Wenn Ihre Tracking-Aktivität nicht angezeigt wird, stellen Sie sicher, dass die von Sales Connect bereitgestellten Felder für die benutzerdefinierte Aktivität in Salesforce sichtbar/bearbeitbar sind. Wenn Sie die Felder zwar installiert haben, diese aber nicht füllen, kann es zu Sicherheitsvorkehrungen auf Feldebene kommen, die das Ausfüllen von Informationen verhindern. Bitte wenden Sie sich an Ihren Salesforce-Administrator.
 
-Erfahren Sie mehr über die Sicherheit [auf](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) Feldebene in Salesforce.
+Erfahren Sie mehr über [Sicherheit auf Feldebene](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) in Salesforce.
