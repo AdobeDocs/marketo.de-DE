@@ -26,11 +26,11 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Diskontcodes, indem Sie die Angebot
 
 ## Einrichten des Fulfillment-Versands {#set-up-fulfillment-delivery}
 
-1. Wählen Sie das verweisende Angebot aus. Klicken Sie auf Entwurf **bearbeiten**.
+1. Wählen Sie das verweisende Angebot aus. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Wählen Sie unter **App-Einstellungen** die Option **Angebot-Details.**
+1. Wählen Sie unter **App-Einstellungen** **Angebot-Details.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
@@ -40,7 +40,7 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Diskontcodes, indem Sie die Angebot
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Wählen Sie eine **Fulfillment-E-Mail** aus.
+1. Wählen Sie eine **Fulfillment-E-Mail**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,19 +49,19 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Diskontcodes, indem Sie die Angebot
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über die [Verwendung von E-Mails in sozialen Promotions](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Erfahren Sie mehr über [E-Mails in sozialen Promotions](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Klicken Sie auf die Dropdownliste **Fulfillment-Versand** und wählen Sie **Automatisch bei Ziel**.
+1. Klicken Sie auf die Dropdownliste **Fulfillment-Versand** und wählen Sie **auto bei Ziel**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   Die in der **Fulfillment-E-Mail** ausgewählte Nachricht wird automatisch an Personen gesendet, die das Ziel erreichen.
+   Die in **Fulfillment-E-Mail** ausgewählte Nachricht wird automatisch an Personen gesendet, die das Ziel erreichen.
 
-## Manuell senden {#manual-send}
+## Manuelles Senden {#manual-send}
 
 Sie können eine Fulfillment-E-Mail manuell an eine Person senden, sobald diese das Ziel erreicht hat.
 
-1. Wählen Sie das Referrer-Angebot aus und klicken Sie auf die Registerkarte &quot; **Teilnehmer** &quot;.
+1. Wählen Sie das Referrer-Angebot aus und klicken Sie auf die Registerkarte **Teilnehmer**.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
@@ -77,7 +77,7 @@ Sie können eine Fulfillment-E-Mail manuell an eine Person senden, sobald diese 
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Klicken Sie mit der rechten Maustaste und wählen Sie &quot;Fulfillment-E-Mail **senden&quot;**.
+1. Klicken Sie mit der rechten Maustaste und wählen Sie **Fulfillment-E-Mail senden**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
