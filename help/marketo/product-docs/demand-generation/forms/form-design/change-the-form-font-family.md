@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Formularschriftfamilie ändern {#change-the-form-font-family}
+# Formularschriftfamilie {#change-the-form-font-family} ändern
 
 Google-Schriftarten sind großartig und wir haben sie direkt in den Formulareditor integriert. Schau es dir an!
 
@@ -19,15 +19,15 @@ Google-Schriftarten sind großartig und wir haben sie direkt in den Formularedit
 >
 >Diese Einstellung wirkt sich auf die Formularbeschriftung, den Eingabetext und den Rich-Text aus.
 
-1. Gehen Sie zu **Marketing** - **Aktivitäten**.
+1. Gehen Sie zu **Marketing** **Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Bearbeiten** des **Formulars**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Wählen Sie unter **Formulareinstellungen** **die Option** Einstellungen ****.
+1. Wählen Sie unter **Formular** **Einstellungen** **Einstellungen**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
@@ -35,11 +35,11 @@ Google-Schriftarten sind großartig und wir haben sie direkt in den Formularedit
 
    >[!TIP]
    >
-   >Es stehen eine Reihe von [Google-Schriftarten](http://www.google.com/fonts) zur Verfügung.
+   >Es stehen verschiedene [Google-Schriftarten](http://www.google.com/fonts) zur Verfügung.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
