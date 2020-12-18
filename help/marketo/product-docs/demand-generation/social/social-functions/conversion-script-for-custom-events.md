@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Sie definieren das Fulfillment-Ziel, wenn Sie ein Angebot für eine Verweisung erstellen. Wenn es sich bei der zum Ziel zählenden Aktion um ein bestimmtes Ereignis auf Ihrer eigenen Webseite handelt, können Sie ein Konvertierungsskript verwenden, um unsere JavaScript-API aufzurufen.
 
-## Konvertierungsskript abrufen {#retrieve-the-conversion-script}
+## Umrechnungsskript abrufen {#retrieve-the-conversion-script}
 
-1. Klicken Sie im Angebot-Editor für Verweise auf **Angebot Details** und wählen Sie dann **JavaScript-Ereignis** aus der Dropdownliste Fulfillment-Ziel.
+1. Klicken Sie im Befassungs-Angebot-Editor auf **Angebot-Details** und wählen Sie **Customer JavaScript-Ereignis** aus der Dropdownliste Fulfillment-Ziel.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Kopieren Sie das obere Skript in das graue Feld und platzieren Sie es auf Ihrer Webseite innerhalb der `<body>` Tags. Das untere Skript wird innerhalb der `<header>` Tags platziert.
+1. Kopieren Sie das obere Skript im grauen Feld und platzieren Sie es auf Ihrer Webseite innerhalb der `<body>`-Tags. Das untere Skript wird innerhalb der Tags `<header>` platziert.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -32,17 +32,17 @@ Sie definieren das Fulfillment-Ziel, wenn Sie ein Angebot für eine Verweisung e
    >
    >Denken Sie daran, beide Skripte zu kopieren und einzufügen, wenn sie auf einer Nicht-Marketo-Website laufen.
 
-## Loader-Skript abrufen {#retrieve-the-loader-script}
+## Loader Script abrufen {#retrieve-the-loader-script}
 
 1. Wählen Sie in der Struktur das Referrer-Angebot aus und klicken Sie dann auf **Referrer-Angebot-Aktionen** und **Einbettungscode**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den **Kopfzeilencode** und fügen Sie ihn in die Kopfzeile Ihrer Webseite ein. Führen Sie dann dasselbe für den **Textkörpercode** aus.
+1. Klicken Sie mit der rechten Maustaste auf den **Kopfzeilencode** und fügen Sie ihn in die Kopfzeile Ihrer Webseite ein. Führen Sie dann dasselbe für **Body Code** aus.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
-## Einfügen der Skripten in Ihre Webseite {#pasting-the-scripts-onto-your-webpage}
+## Einfügen der Skripten auf Ihrer Webseite {#pasting-the-scripts-onto-your-webpage}
 
 Fügen Sie die Konvertierungsskripte in den HTML-Code für den Text und die Kopfzeile ein. Platzieren Sie anschließend die Loader-Skripten in den HTML-Code für den Text und die Kopfzeile.
 
