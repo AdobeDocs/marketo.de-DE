@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Report Abonnements aktivieren/deaktivieren {#enable-disable-report-subscriptions}
+# Report Abonnements {#enable-disable-report-subscriptions} aktivieren/deaktivieren
 
 Web-Personalisierung enthält eine Reihe nützlicher Berichte, die per E-Mail gesendet werden. Hier ist, wie man sie abonniert.
 
@@ -23,5 +23,5 @@ Web-Personalisierung enthält eine Reihe nützlicher Berichte, die per E-Mail ge
 
    ![](assets/email-settings.png)
 
-   Das ist&#39;s! Um das Abonnement für den Bericht aufzuheben, deaktivieren Sie einfach und klicken Sie auf **Speichern**.
+   Das ist&#39;s! Um das Abonnement für den Bericht aufzuheben, deaktivieren Sie einfach das Kontrollkästchen und klicken Sie auf **Speichern**.
 
