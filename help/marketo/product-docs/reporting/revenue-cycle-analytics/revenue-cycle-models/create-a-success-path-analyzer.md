@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Erstellen eines Erfolgspfad-Analyzers {#create-a-success-path-analyzer}
 
-Zeigen Sie Geschwindigkeit und Fluss visuell durch Ihr [Umsatzzyklusmodell](http://docs.marketo.com/display/docs/revenue+cycle+analytics)an.
+Sehen Sie sich die Geschwindigkeit und den Fluss durch Ihr [Modell für den Umsatzzyklus](http://docs.marketo.com/display/docs/revenue+cycle+analytics) an.
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ Zeigen Sie Geschwindigkeit und Fluss visuell durch Ihr [Umsatzzyklusmodell](http
 
    >[!NOTE]
    >
-   >Wenn Sie eine Warnung erhalten, dass im angegebenen Zeitraum keine Daten gefunden wurden, klicken Sie auf **Schließen** , um den Zeitraum zu ändern. Wenn Sie nicht aufgefordert werden, aber den Zeitraum ändern möchten, gehen Sie zu **Einrichtung** und klicken Sie mit der Dublette auf******Zeitraum**.
+   >Wenn Sie eine Warnung erhalten, dass im angegebenen Zeitraum keine Daten gefunden wurden, klicken Sie einfach auf **Schließen**, um den Zeitraum zu ändern. Wenn Sie nicht aufgefordert werden, aber den Zeitraum ändern möchten, gehen Sie zu **Setup** und klicken Sie bei Dublette** ****Zeitraum**.
 
 1. Wenn keine Daten vorhanden sind oder Sie den Zeitraum ändern, wählen Sie eine aus der Dropdownliste aus und klicken Sie auf Speichern.
 
@@ -37,7 +37,7 @@ Zeigen Sie Geschwindigkeit und Fluss visuell durch Ihr [Umsatzzyklusmodell](http
 
    >[!TIP]
    >
-   >Um einen bestimmten Bereich auszuwählen, wählen Sie &quot; **Benutzerdefiniert** &quot;und verwenden Sie die Felder &quot; **Von** &quot;und &quot; **Bis** &quot;.
+   >Um einen bestimmten Bereich auszuwählen, wählen Sie **Benutzerdefiniert** und verwenden Sie die Felder **Von** und **Bis**.
 
 1. Wenn Sie über mehr als ein Umsatzzyklusmodell verfügen, wählen Sie auf der Registerkarte &quot;Einstellungen&quot;das gewünschte Modell aus.
 
