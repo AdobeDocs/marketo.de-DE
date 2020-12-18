@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Sie können einen beliebigen Titel auf Ihrer Seite &quot;Alle Inhalte&quot;zu vorhersagenden Inhalten hinzufügen, indem Sie ihn auf der Seite &quot;Alle Inhalte&quot;oder im Popup &quot;Inhalt bearbeiten&quot;genehmigen.
 
@@ -25,11 +25,11 @@ Sie können einen beliebigen Titel auf Ihrer Seite &quot;Alle Inhalte&quot;zu vo
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Klicken Sie auf die Dropdown-Liste **Inhaltsaktionen** und wählen Sie **Genehmigen für Prognostizierte Inhalte**.
+1. Klicken Sie auf die Dropdown-Liste **Inhaltsaktionen** und wählen Sie **Genehmigen für Prognostische Inhalte**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## Popup &quot;Inhalt bearbeiten&quot; {#edit-content-pop-up}
+## Content-Popup bearbeiten {#edit-content-pop-up}
 
 Sie können auch Titel für prädiktive Inhalte direkt im Popup &quot;Inhalt bearbeiten&quot;genehmigen.
 
@@ -37,7 +37,7 @@ Sie können auch Titel für prädiktive Inhalte direkt im Popup &quot;Inhalt bea
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Markieren Sie im Popupfenster &quot;Inhalt bearbeiten&quot;das Feld &quot; **Genehmigen für Prognostizierte Inhalte** &quot;und klicken Sie auf **&quot;Speichern&quot;**.
+1. Markieren Sie im Popupfenster &quot;Inhalt bearbeiten&quot;das Feld **Genehmigen für prognostizierenden Inhalt** und klicken Sie auf **Speichern**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
