@@ -97,12 +97,12 @@ Felder:
 
 * Sales Insight - Öffnet die Seite mit der vollständigen Liste
 
-Die folgenden Funktionen sind auf der Seite &quot;Kontolayout&quot; **nicht verfügbar** :
+Die folgenden Funktionen stehen auf der Seite &quot;Kontolayout&quot;nicht zur Verfügung:****
 
 * Aktionen: hinzufügen zur Kampagne von Marketing, E-Mail senden von Marketing, Hinzufügen/Entfernen aus der Liste
 * Sterne und Flammen
 
-## Opportunity-Layout {#opportunity-layout}
+## Opportunity Layout {#opportunity-layout}
 
 Visualforce-Seiten:
 
@@ -115,7 +115,7 @@ Felder:
 * Sales Insight - Öffnet die Seite mit der vollständigen Liste
 * Analyse von Marketo-Chancen - eröffnet Einflussanalyse für Chancen in Marketing
 
-Die folgenden Funktionen sind auf der Seite &quot;Opportunity Layout&quot; **nicht verfügbar** :
+Die folgenden Funktionen sind auf der Seite &quot;Opportunity Layout&quot;nicht verfügbar: **Nicht verfügbar**:
 
 * Aktionen: hinzufügen zur Kampagne von Marketing, E-Mail senden von Marketing, Hinzufügen/Entfernen aus der Liste
 * Sterne und Flammen
@@ -126,7 +126,7 @@ Salesforce-Blitz: hinzufügen der Aktionsschaltflächen für die Massenaktion &q
 
 Salesforce Classic: hinzufügen in der Ansicht &quot;Lead- und Kontaktaufnahme&quot;die Schaltflächen für Massenaktionen für-, Hinzufügen- und Marketing-Kampagne und Senden von E-Mail-Nachrichten.
 
-## Registerkarte &quot;Marketo&quot; {#marketo-tab}
+## Marketo-Registerkarte {#marketo-tab}
 
 * Beste Betas
 
@@ -162,7 +162,7 @@ Salesforce Classic: hinzufügen in der Ansicht &quot;Lead- und Kontaktaufnahme&q
    * Option &quot;Abonnieren&quot;zum Empfangen von E-Mail-Benachrichtigungen für diesen Ereignis
    * Symbol mit hoher Priorität, um diese Person zu zeigen, ist eine beste Wette
 
-## Registerkarte &quot;Konfiguration von MarketingTo Sales Insight&quot; {#marketo-sales-insight-configuration-tab}
+## Registerkarte &quot;Konfiguration von Marketing-Sales Insight&quot; {#marketo-sales-insight-configuration-tab}
 
 * Betriebseinstellungen: Beinhaltet die für die Einrichtung von MSI in SFDC erforderlichen Soap- und Rest-API-Anmeldeinformationen
 * MSI-Konfiguration: Umfasst die Konfiguration der Registerkarte &quot;Marketo&quot;und des MSI Visualforce-Bedienfelds
@@ -176,7 +176,7 @@ Salesforce Classic: hinzufügen in der Ansicht &quot;Lead- und Kontaktaufnahme&q
 
 Ansicht der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder ein Gmail- oder Outlook-Plugin gesendet werden
 
-## MSI für Mobilgeräte {#msi-for-mobile}
+## MSI for Mobile {#msi-for-mobile}
 
 MSI-Funktionen werden in der Salesforce-Mobilanwendung unterstützt
 
