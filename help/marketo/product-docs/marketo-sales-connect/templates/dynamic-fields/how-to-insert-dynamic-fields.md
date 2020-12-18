@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Dynamische Felder einfügen {#how-to-insert-dynamic-fields}
+# Einfügen dynamischer Felder {#how-to-insert-dynamic-fields}
 
-Wir ermöglichen Ihnen, Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{first_name}}` oder `{{company}}`zu personalisieren. Mit diesen Feldern können Sie mehrere Kontakte per E-Mail versenden und diese Felder automatisch ausfüllen, ohne sie für jeden Kontakt einzeln eingeben zu müssen.
+Sie können Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{first_name}}` oder `{{company}}` personalisieren. Mit diesen Feldern können Sie mehrere Kontakte per E-Mail versenden und diese Felder automatisch ausfüllen, ohne sie für jeden Kontakt einzeln eingeben zu müssen.
 
 >[!TIP]
 >
->Das Feld &quot;first_name&quot;und &quot;Firma&quot;sind die Felder `only fields that will look to both Sales Connect and Salesforce.` &quot;Das heißt, wenn in der [Webanwendung](http://toutapp.com/login)kein Kontakt vorhanden ist, suchen wir in Salesforce nach einem Kontakt-/Interessentensdatensatz mit einer entsprechenden E-Mail-Adresse. Dann verwenden wir Informationen aus diesem Datensatz, um das Feld zu füllen.
+>Das Feld &quot;first_name&quot;und &quot;Firma&quot;sind die Felder `only fields that will look to both Sales Connect and Salesforce.`. Wenn also in der [Webanwendung](http://toutapp.com/login) kein Kontakt vorhanden ist, suchen wir in Salesforce nach einem Kontakt-/Interessentendatensatz mit einer entsprechenden E-Mail-Adresse. Dann verwenden wir Informationen aus diesem Datensatz, um das Feld zu füllen.
 
-## Dynamisches Feld in eine Vorlage einfügen {#insert-a-dynamic-field-into-a-template}
+## Dynamisches Feld in eine Vorlage {#insert-a-dynamic-field-into-a-template} einfügen
 
-1. Suchen Sie unter **Vorlagen und Kampagnen** die zu bearbeitende Vorlage und klicken Sie auf Vorlage **bearbeiten**.
-1. Klicken Sie auf Dynamische Felder **ausblenden**.
+1. Suchen Sie unter **Vorlagen und Kampagnen** die zu bearbeitende Vorlage und klicken Sie auf **Vorlage bearbeiten**.
+1. Klicken Sie auf **Dynamische Felder abschneiden**.
 
    >[!NOTE]
    >
