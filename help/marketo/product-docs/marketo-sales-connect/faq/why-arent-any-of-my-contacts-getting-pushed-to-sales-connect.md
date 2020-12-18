@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Warum werden meine Kontakte nicht an den Vertrieb weitergeleitet? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Wenn keine Kontakte weitergegeben wurden, ist es möglich, dass Sie eine ungültige Salesforce-Verbindung haben. Gehen Sie zu Ihren [Salesforce-Einstellungen](http://toutapp.com/next#settings/crm/salesforce/configure) und trennen Sie die Verbindung und stellen Sie dann die Verbindung wieder her. Geben Sie es etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn es danach immer noch null ist, [senden Sie bitte eine Anfrage](http://nation.marketo.com/community/support_solutions) an Support.
+Wenn keine Kontakte weitergegeben wurden, ist es möglich, dass Sie eine ungültige Salesforce-Verbindung haben. Gehen Sie zu den Einstellungen für [Salesforce](http://toutapp.com/next#settings/crm/salesforce/configure) und trennen Sie die Verbindung und stellen Sie dann die Verbindung wieder her. Geben Sie es etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn danach immer noch null ist, senden Sie bitte [eine Case](http://nation.marketo.com/community/support_solutions) an Support.
