@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personen in einem Bericht mit intelligenter Liste filtern {#filter-people-in-a-report-with-a-smart-list}
+# Personen in einem Bericht mit einer intelligenten Liste {#filter-people-in-a-report-with-a-smart-list} filtern
 
 Verwenden Sie intelligente Listen, um Ihre Berichte nach bestimmten Personenattributen zu filtern.
 
@@ -28,11 +28,11 @@ Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
 * [Firma Web Aktivität](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Aktivität der Webseite](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** .
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Wählen Sie Ihren Bericht aus der Navigationsstruktur und klicken Sie auf die Registerkarte **Intelligente Liste** .
+1. Wählen Sie Ihren Bericht aus der Navigationsstruktur und klicken Sie auf die Registerkarte **Intelligente Liste**.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +44,7 @@ Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
+1. Klicken Sie auf die Registerkarte **Bericht**, um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
@@ -55,5 +55,5 @@ Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
    >**Tieftauchen**
    >
    >
-   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive des [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
 
