@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ereignis mit Adobe Connect erstellen {#create-an-event-with-adobe-connect}
+# Ereignis mit Adobe Connect {#create-an-event-with-adobe-connect} erstellen
 
 Die Synchronisierung mit Adobe Connect ermöglicht es Ihnen, Ihre Webinarregistrierung und -teilnahme innerhalb von Marketo zu verwalten, wodurch sichergestellt wird, dass Interaktionen nicht rückverfolgt werden.
 
@@ -21,25 +21,25 @@ Die Synchronisierung mit Adobe Connect ermöglicht es Ihnen, Ihre Webinarregistr
 >* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Connect erstellt haben. Wenn Sie Hilfe benötigen, lesen Sie das [Adobe Connect-Benutzerhandbuch](http://help.adobe.com/en_US/connect/9.0/using/index.html). Die Meetings und Seminare, die Sie in Adobe Connect erstellen, müssen in dem Ordner erstellt werden, den Sie bei der Eingabe Ihrer Anmeldedaten in Marketing angegeben haben. Nachdem Sie Ihr Meeting oder Seminar erstellt haben, notieren Sie sich alle relevanten Logistikinformationen (z. B. die Telefonnummer), die Sie in Ihrer Bestätigungs-E-Mail und in Ihrer ICS-Datei verwenden können.
+Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Connect erstellt haben. Wenn Sie Hilfe benötigen, sehen Sie sich das [Adobe Connect Benutzerhandbuch](http://help.adobe.com/en_US/connect/9.0/using/index.html) an. Die Meetings und Seminare, die Sie in Adobe Connect erstellen, müssen in dem Ordner erstellt werden, den Sie bei der Eingabe Ihrer Anmeldedaten in Marketing angegeben haben. Nachdem Sie Ihr Meeting oder Seminar erstellt haben, notieren Sie sich alle relevanten Logistikinformationen (z. B. die Telefonnummer), die Sie in Ihrer Bestätigungs-E-Mail und in Ihrer ICS-Datei verwenden können.
 
 >[!NOTE]
 >
->Adobe Connect On-Site wird derzeit **nicht** unterstützt.
+>Wir **unterstützen derzeit nicht** Adobe Connect On-Site.
 
-1. Wählen Sie auf der Startseite eines neuen Ereignisses &quot; **Ereignis-Aktionen**&quot;und dann &quot; **Ereignis-Einstellungen&quot;**.
+1. Wählen Sie auf der Startseite eines neuen Ereignisses **Ereignis Actions** und dann **Ereignis Settings**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Wenn die Dropdown-Liste keine **Ereignis-Einstellungen** enthält, stellen Sie sicher, dass für den Kanal des Ereignisses unter &quot;Gilt für&quot; **Ereignis mit Webinar** ausgewählt wurde.
+   >Wenn Sie in der Dropdownliste nicht **Ereignis-Einstellungen** sehen, stellen Sie sicher, dass im Kanal des Ereignisses **Ereignis mit Webinar** unter &quot;Gilt für&quot;ausgewählt ist.
 
-1. Wählen Sie unter **Ereignis-Partner** die Option **Adobe Connect**.
+1. Wählen Sie unter **Ereignis-Partner** **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Wählen Sie Ihre **Anmelde** -ID und dann Ihr **Ereignis** aus.
+1. Wählen Sie Ihre **Login**-ID und wählen Sie Ihr **Ereignis**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
@@ -67,7 +67,7 @@ Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Conn
 
    >[!TIP]
    >
-   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach einer Wartezeit immer noch nichts sehen, wählen Sie im Menü &quot;Ereignis-Aktionen&quot;auf der Registerkarte &quot;Zusammenfassung&quot;Ihres Ereignisses die Option &quot;Von Webinar-Provider **aktualisieren&quot;** .
+   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach einer Wartezeit immer noch nichts sehen, wählen Sie **Von Webinar-Provider aktualisieren** aus dem Menü &quot;Ereignis-Aktionen&quot;auf der Registerkarte &quot;Zusammenfassung&quot;Ihres Ereignisses.
 
    >[!MORELIKETHIS]
    >
