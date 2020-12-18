@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Symbolleiste für die Inhaltsempfehlung aktivieren {#enable-the-content-recommendation-bar}
+# Inhaltsempfehlung-Leiste {#enable-the-content-recommendation-bar} aktivieren
 
 Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und maschinelles Lernen, um relevante Inhalte für jeden Web-Besucher bereitzustellen. Die Recommendations-Engine prognostiziert, welche Inhalte pro Besucher am besten funktionieren. Die Inhalte für die Engine werden unter der Recommendations-Seite überwacht und gesteuert, was Ihnen bei der Optimierung Ihrer Content-ROI hilft.
 
@@ -23,7 +23,7 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## Aktivieren und Anpassen der Symbolleiste &quot;Inhaltsempfehlung&quot; {#enable-and-customize-the-content-recommendation-bar}
+## Aktivieren und Anpassen der Inhaltsempfehlung-Leiste {#enable-and-customize-the-content-recommendation-bar}
 
 1. Gehen Sie zu **Inhaltseinstellungen**.
 
@@ -55,7 +55,7 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
 
 ## Überlegungen zur Empfehlungsleiste {#recommendation-bar-considerations}
 
-* Sie benötigen mindestens ein Inhaltselement für die Empfehlungsleiste, die auf der Recommendations-Seite auf &quot; **Ein** &quot;gesetzt ist, damit die Recommendations-Engine funktioniert. Wenn kein Inhalt aktiviert ist und die Leiste auf **Ein** eingestellt ist, wird der Pfeil-Effekt unten rechts auf der Webseite angezeigt, es werden jedoch keine empfohlenen Inhalte angezeigt.
+* Sie benötigen mindestens ein Inhaltselement, damit die Recommendations-Engine auf der Recommendations-Seite auf **Ein** eingestellt ist. Wenn kein Inhalt aktiviert ist und die Leiste auf **Ein** eingestellt ist, wird der Pfeil-Effekt unten rechts auf der Webseite angezeigt, es werden jedoch keine empfohlenen Inhalte angezeigt.
 
 * Je mehr Inhalte in der Recommendations-Engine ausgeführt werden, desto besser kann der Algorithmus testen und lernen, welche Inhalte am besten funktionieren. Es wird empfohlen, mit 10 bis 20 Inhaltselementen zu beginnen, die aktiv und aktiv sind, und immer neue hinzufügen.
 * Das Inhaltselement, das Sie für eine Empfehlung aktivieren, sollte das RTP-Javascript-Tag enthalten. Dies hilft dem Algorithmus, empfohlene Inhalte zu verfolgen und zu optimieren.
