@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Eine Segmentierung löschen {#delete-a-segmentation}
+# Löschen einer Segmentierung {#delete-a-segmentation}
 
 Eine Segmentierung kann wie folgt gelöscht werden:
 
-1. Wechseln Sie zur **Datenbank**.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Gehen Sie zu Ihrer Segmentierung und klicken Sie auf **Verwendet von** , um Verknüpfungen zu überprüfen.
+1. Gehen Sie zu Ihrer Segmentierung und klicken Sie auf **Verwendet von**, um Verknüpfungen zu überprüfen.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Wenn Ihre Segmentierung von anderen Assets verwendet wird, entfernen Sie alle diese Verknüpfungen, bevor Sie fortfahren.
 
-1. Entfernen Sie alle Verknüpfungen und klicken Sie dann in den **Segmentierungsaktionen** auf **Nicht genehmigen**.
+1. Entfernen Sie alle Verknüpfungen und klicken Sie dann unter **Segmentierungsaktionen** auf **Nicht genehmigen**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
