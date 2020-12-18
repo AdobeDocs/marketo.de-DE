@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
-## Funktionsweise von Ad-Network-Integrationen {#how-ad-network-integrations-work}
+## Funktionsweise von Ad-Netzwerk-Integrationen {#how-ad-network-integrations-work}
 
 Bei Ad-Netzwerk-Integrationen werden die einzigartigen Audiencen von Marketo mit Ihren gebührenpflichtigen Mediensystemen verbunden, sodass Sie zielgerichtetere, personalisierte Kampagnen für digitale Anzeigen ausführen können. Diese Integrationen funktionieren derzeit mit Facebook, LinkedIn und Google.
 
@@ -36,7 +36,7 @@ Zu den Funktionen gehören:
 
    * Eine Person sucht beispielsweise nach einer Anzeige, sieht sie und klickt sie an und füllt dann ein Formular online aus. Danach erhält er eine Demo offline und wird eine CRM-Gelegenheit. Hier Zielgruppe der Inserent ihn
 
-* Retargeting von Website-Besuchern mithilfe der [Web-Personalisierung](http://docs.marketo.com/display/docs/web+personalization), um sie zurück zu Ihrer Website zu bringen
+* Retargeting von Website-Besuchern mit [Web-Personalisierung](http://docs.marketo.com/display/docs/web+personalization), um sie zurück zu Ihrer Website zu bringen
 
    * Nach Segment oder vertikal personalisieren
 
@@ -52,9 +52,9 @@ Sie können Integrationen verwenden, um:
 
 |  | Audiencen | Interessentenaufschluss | Offline-Konvertierung |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
 ## Video ansehen {#watch-a-video}
 
