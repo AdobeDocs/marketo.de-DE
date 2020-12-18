@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Klicken Sie nicht auf den Namen der Landingpage, das sind Links und führen Sie auf die Seite selbst.
 
-1. Wählen Sie die gewünschten Landingpages aus, gehen Sie zu **Landingpages Aktionen** und klicken Sie auf **Genehmigen.**
+1. Wählen Sie die gewünschten Landingpages aus und klicken Sie auf **Landingpage Aktionen** und dann auf **Genehmigen.**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
