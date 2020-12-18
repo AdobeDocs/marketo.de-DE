@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Marketo Sales Engage wurde vor kurzem in Marketo Sales Connect umbenannt. Wir sind dabei, alle Videos zu aktualisieren, aber einige können immer noch den alten Namen zeigen.
 
-## Aktivieren von Marketing Insight {#enabling-marketing-insights}
+## Aktivieren von Marketing Insights {#enabling-marketing-insights}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
