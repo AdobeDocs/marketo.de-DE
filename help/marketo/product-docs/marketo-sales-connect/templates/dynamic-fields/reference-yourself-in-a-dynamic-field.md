@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# Sie selbst in einem dynamischen Feld referenzieren {#reference-yourself-in-a-dynamic-field}
+# Sie selbst in einem dynamischen Feld {#reference-yourself-in-a-dynamic-field} referenzieren
 
 Dynamische Felder sind unsere Form der E-Mail-Zusammenführung.
 
-Wir ermöglichen Ihnen, Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{my_name}}` oder `{{my_title}}`zu personalisieren. Mit diesen Feldern können Sie sich schnell in Ihren E-Mail-Vorlagen referenzieren.
+Sie können Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{my_name}}` oder `{{my_title}}` personalisieren. Mit diesen Feldern können Sie sich schnell in Ihren E-Mail-Vorlagen referenzieren.
 
-Um einer Vorlage ein sich selbst referenzierendes dynamisches Feld hinzuzufügen, wählen Sie einfach das gewünschte Feld aus der Schaltfläche &quot;Dynamische **Felder** MSE&quot;im Vorlageneditor.
+Um ein sich selbst referenzierendes dynamisches Feld zu einer Vorlage hinzuzufügen, wählen Sie einfach das gewünschte Feld aus der Schaltfläche **Dynamische Felder** im Vorlageneditor aus.
