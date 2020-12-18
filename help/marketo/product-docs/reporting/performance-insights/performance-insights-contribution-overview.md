@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Leistungsindikatoren - Beitragsübersicht {#performance-insights-contribution-overview}
+# Performance Insights Contribution Overview {#performance-insights-contribution-overview}
 
 In &quot;Marketo Performance Insights&quot;wird die Beitrags-Ansicht standardmäßig angezeigt.
 
@@ -43,7 +43,7 @@ Das Balkendiagramm zeigt die Leistung des Programms für alle Kanal (zehn Progra
 
 >[!TIP]
 >
->Wenn die Balken im Diagramm beim Durchblättern der Gruppen nach oben skaliert werden sollen, aktivieren Sie das Kontrollkästchen &quot;Y-Achse passend **skalieren** &quot;.
+>Wenn die Balken im Diagramm beim Durchblättern der Gruppen nach oben skaliert werden sollen, aktivieren Sie das Kontrollkästchen **Y-Achse skalieren, um sie einzupassen**.
 
 Bewegen Sie den Mauszeiger über eine Leiste, um weitere Details anzuzeigen.   ![](assets/seven.png)
 
