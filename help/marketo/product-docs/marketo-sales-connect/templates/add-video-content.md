@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Leider ist es derzeit nicht möglich, einer Vorlage Videoinhalte hinzuzufügen und diese in der gesendeten Nachricht online abspielen zu lassen.
 
-Sie können jedoch ein Inline-Bild (GIFs enthalten) in Ihre Vorlagen einfügen, indem Sie auf die Schaltfläche &quot;Bild **einfügen&quot;klicken** . Ein Vorschlag wäre, ein Standbild des gewünschten Videos einzufügen, das dann durch Hervorheben des Bildes und Klicken auf das Hyperlink-Symbol zur Eingabe der Video-URL angeklickt werden kann.
+Sie können jedoch ein Inline-Bild (GIFs enthalten) in Ihre Vorlagen einfügen, indem Sie auf die Schaltfläche **Bild einfügen** klicken. Ein Vorschlag wäre, ein Standbild des gewünschten Videos einzufügen, das dann durch Hervorheben des Bildes und Klicken auf das Hyperlink-Symbol zur Eingabe der Video-URL angeklickt werden kann.
