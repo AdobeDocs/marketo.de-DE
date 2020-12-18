@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## Einführung {#introduction}
 
-Bei neuen Marketo-Kunden wird die Echtzeit-Personalisierung in vier Apps unterteilt, auf die mit den beiden folgenden Kacheln zugegriffen wird: Web-Personalisierung und -Inhalte`<sup>AI</sup>`.
+Bei neuen Marketo-Kunden wird die Echtzeit-Personalisierung in vier Apps unterteilt, auf die mit den beiden folgenden Kacheln zugegriffen wird: Web-Personalisierung und Inhalt`<sup>AI</sup>`.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web-Personalisierung und Inhalte`<sup>AI</sup>` sind in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch).
+>Web-Personalisierung und Content`<sup>AI</sup>` sind in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch).
 
 Bestehende Kunden greifen über die Kachel &quot;Echtzeit-Personalisierung&quot;bis zur Verlängerung auf die Apps zu. Zu diesem Zeitpunkt verwenden sie die oben genannte Anmeldung.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wenn Sie auf die Kachel &quot;Webpersonalisierung&quot;klicken, wird die Seite &quot;Dashboard&quot;angezeigt. Klicken Sie auf die Inhaltskachel`<sup>AI</sup>` und gehen Sie direkt zur Seite Content Recommendations.
+Wenn Sie auf die Kachel &quot;Webpersonalisierung&quot;klicken, wird die Seite &quot;Dashboard&quot;angezeigt. Klicken Sie auf die Kachel &quot;Inhalt`<sup>AI</sup>`&quot;und gehen Sie direkt zur Seite &quot;Content Recommendations&quot;.
 
 Die vier Apps sind:
 
@@ -36,13 +36,13 @@ Die vier Apps sind:
 * Website-Retargeting
 * Inhalt`<sup>AI</sup>`
 
-Die **Kachel für die Web-Personalisierung ist Ihr Zugangspunkt zum** **Erstellen personalisierter Web-Kampagnen.** **Kontobasiertes Webmarketing und Web-Retargeting. Sie können Inhalte auf der Seite &quot;Inhaltsanalyse&quot;hinzufügen.
+Die** Web-Personalisierung **Kachel ist Ihr Zugriffspunkt für** **die Erstellung personalisierter Web-Kampagnen.** **Kontobasiertes Webmarketing und Web-Retargeting. Sie können Inhalte auf der Seite &quot;Inhaltsanalyse&quot;hinzufügen.
 
-**Kontobasiertes Webmarketing** funktioniert mit Web-Personalisierung und Funktionen Benannte Konten. Auf der Seite &quot;Benannte Konten&quot;finden Sie grafische Informationen zu bestehenden Kunden, zu Gesamtengagements und zu organisatorischen Trends sowie eine Liste der Konten. Sie können dort auch neue benannte Konten erstellen.
+**Kontobasiertes Web-** Marketing funktioniert mit Web-Personalisierung und Funktionen Benannter Konten. Auf der Seite &quot;Benannte Konten&quot;finden Sie grafische Informationen zu bestehenden Kunden, zu Gesamtengagements und zu organisatorischen Trends sowie eine Liste der Konten. Sie können dort auch neue benannte Konten erstellen.
 
-**Website-Retargeting** gibt Ihnen die Möglichkeit, segmentierte Audiencen neu zu vermarkten. Sie können Segmente festlegen, aber keine benannten Konten im Filter verwenden.
+**Website-** Retargetingung gibt Ihnen die Möglichkeit, segmentierte Audiencen zu vermarkten. Sie können Segmente festlegen, aber keine benannten Konten im Filter verwenden.
 
-**Inhalt`<sup>AI</sup>`** ist der Ort, an dem Inhaltsempfehlungen gegeben werden. Sie können der Seite Content Recommendations mühelos Inhalte hinzufügen.
+**`<sup>AI</sup>`** Content ist der Ort, an dem Inhaltsempfehlungen gegeben werden. Sie können der Seite Content Recommendations mühelos Inhalte hinzufügen.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Im rechten Bereich der Seite &quot;Organisationen&quot;werden die folgenden Funk
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Symbol</strong>: Oben rechts im Bedienfeld befindet sich das Symbol, um die Tabelle "Organisationen"im CSV-Format für die Offline-Nutzung herunterzuladen</p><p><strong>E-Mail-Warnung</strong>festlegen: Sendet dem angemeldeten Benutzer bei jedem Besuch der Website durch das ausgewählte Unternehmen eine E-Mail</p><p><strong>Interessenten</strong>: Öffnet die Interessentententabelle für die ausgewählte Organisation</p><p><strong>Freigeben</strong>: Öffnet ein Popup-Fenster, in dem die Details der Organisation, die die Webseite besucht hat, per E-Mail gesendet werden können</p><p><strong>Positionssymbol</strong>: Zeigt das Land und den Ort der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, Whois, Linkedin, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen aus der jeweiligen Webseite, die zusätzliche Einblicke in die ausgewählte Organisation bieten.</p><p><strong>Suchen</strong>: Zeigt den Suchbegriff an, der verwendet wird, wenn der Besucher über eine Suchmaschine angekommen ist</p><p><strong>Werber</strong>: Zeigt den URL-Link der Seite an, über die der Traffic zu Ihrer Site geleitet wurde</p><p><strong>Besucher</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und ihre E-Mail-Adresse (sofern diese ein Senden-Formular ausgefüllt haben) sowie Uhrzeit und Datum des letzten Besuchs an</p><p><strong>Clickstream</strong>: Zeigt eine Tabelle mit der Aktivität und dem URL-Pfad des Benutzers auf der Site und der Besuchsdauer der einzelnen Seiten an</p></td> 
+   <td><p><strong>Symbol</strong>: Oben rechts im Bedienfeld befindet sich das Symbol, um die Tabelle "Organisationen"im CSV-Format für die Offline-Nutzung herunterzuladen</p><p><strong>E-Mail-Warnung</strong> festlegen: Sendet dem angemeldeten Benutzer bei jedem Besuch der Website durch das ausgewählte Unternehmen eine E-Mail</p><p><strong>Interessenten</strong>: Öffnet die Interessentententabelle für die ausgewählte Organisation</p><p><strong>Freigeben</strong>: Öffnet ein Popup-Fenster, in dem die Details der Organisation, die die Webseite besucht hat, per E-Mail gesendet werden können</p><p><strong>Positionssymbol</strong>: Zeigt das Land und den Ort der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, Whois, Linkedin, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen aus der jeweiligen Webseite, die zusätzliche Einblicke in die ausgewählte Organisation bieten.</p><p><strong>Suchen</strong>: Zeigt den Suchbegriff an, der verwendet wird, wenn der Besucher über eine Suchmaschine angekommen ist</p><p><strong>Werber</strong>: Zeigt den URL-Link der Seite an, über die der Traffic zu Ihrer Site geleitet wurde</p><p><strong>Besucher</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und ihre E-Mail-Adresse (sofern diese ein Senden-Formular ausgefüllt haben) sowie Uhrzeit und Datum des letzten Besuchs an</p><p><strong>Clickstream</strong>: Zeigt eine Tabelle mit der Aktivität und dem URL-Pfad des Benutzers auf der Site und der Besuchsdauer der einzelnen Seiten an</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
