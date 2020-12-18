@@ -27,7 +27,7 @@ Löschen Sie ein Snippet, das Sie nicht mehr benötigen.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Gehen Sie zu Ihrem Snippet und klicken Sie unter **Snippet-Aktionen** auf **Löschen**.
+1. Gehen Sie zu Ihrem Snippet und klicken Sie unter **Snippet Actions** auf **Delete**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
