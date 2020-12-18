@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Übersicht über Performance Insights Trends {#performance-insights-trend-overview}
+# Performance Insights-Trendübersicht {#performance-insights-trend-overview}
 
 Trend zeigt die Performance des Kanals über einen bestimmten Zeitraum hinweg an.
 
-Klicken Sie auf die Registerkarte **Trend** , um auf diese Ansicht zuzugreifen.
+Klicken Sie auf die Registerkarte **Trend**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/1.png)
 
@@ -23,7 +23,7 @@ Klicken Sie auf die Registerkarte **Trend** , um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In diesem Beispiel werden wir uns die Chancen ansehen, die durch [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution)gewonnen wurden.
+Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In diesem Beispiel werden wir uns die Chancen ansehen, die mit [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution) gewonnen wurden.
 
 ![](assets/3-2.png)
 
