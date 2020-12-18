@@ -31,7 +31,7 @@ Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die 
 
    ![](assets/cd2.png)
 
-1. Klicken Sie auf das **+** neben der **Hinzufügen Dimension**.
+1. Klicken Sie auf **+** neben **Hinzufügen Dimension**.
 
    ![](assets/cd3.png)
 
