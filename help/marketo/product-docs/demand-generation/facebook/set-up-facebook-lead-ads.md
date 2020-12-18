@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Einrichten von Facebook-Interessentenanzeigen {#set-up-facebook-lead-ads}
 
-Verwenden Sie [Facebook-Werbeanzeigen](https://www.facebook.com/business/a/lead-ads) , um Anzeigen-Kampagnen in Facebook auszuführen und Interessenten für Marketing zu generieren.
+Verwenden Sie [Facebook-Interessentenanzeigen](https://www.facebook.com/business/a/lead-ads), um Anzeigen-Kampagnen in Facebook auszuführen und Interessenten für Marketing zu generieren.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Verwenden Sie [Facebook-Werbeanzeigen](https://www.facebook.com/business/a/lead-
 >
 >Um Facebook-Interessentenanzeigen zu Ihrer Instanz hinzuzufügen, wenden Sie sich bitte an Ihren Kundenbetreuer.
 
-1. Gehen Sie zu Marketing **Admin**.
+1. Gehen Sie zu Markieren **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -33,7 +33,7 @@ Verwenden Sie [Facebook-Werbeanzeigen](https://www.facebook.com/business/a/lead-
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein, wählen Sie in der Dropdownliste den **Facebook-Werbeanzeigendienst** aus und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein, wählen Sie den **Facebook-Lead-Anzeigen**-Dienst aus der Dropdownliste und klicken Sie auf **Erstellen**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -45,11 +45,11 @@ Verwenden Sie [Facebook-Werbeanzeigen](https://www.facebook.com/business/a/lead-
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Wenn Sie bei Facebook angemeldet sind, kehren Sie zu Marketing zurück und klicken Sie auf **Autorisieren**.
+1. Wenn Sie bei Facebook angemeldet sind, kehren Sie zu Marketo zurück und klicken Sie auf **Autorisieren**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Wenn Sie dazu aufgefordert werden, klicken Sie auf **OK** , um die Installation der Marketing-App bei Facebook zu akzeptieren.
+1. Wenn Sie dazu aufgefordert werden, klicken Sie auf **OK**, um die Installation der Marketing-App in Facebook zu akzeptieren.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +69,7 @@ Verwenden Sie [Facebook-Werbeanzeigen](https://www.facebook.com/business/a/lead-
 
    >[!TIP]
    >
-   >Durch Ändern der Zuordnungen können Sie anpassen, wo die Daten der Interessentenanzeigen in Marketo gespeichert werden. Sie können auch Daten aus benutzerspezifischen Fragen [zu Interessentenanzeigen](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)abrufen.
+   >Durch Ändern der Zuordnungen können Sie anpassen, wo die Daten der Interessentenanzeigen in Marketo gespeichert werden. Sie können auch [Daten aus Interessentenanzeigen Benutzerspezifische Fragen](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md) abrufen.
 
    >[!CAUTION]
    >
