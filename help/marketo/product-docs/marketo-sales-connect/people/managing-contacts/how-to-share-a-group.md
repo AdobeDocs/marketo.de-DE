@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die Freigabe einer Gruppe von Interessenten oder Kontakten mit Ihrem Team ist in Sales Connect ganz einfach.
 
-1. Gehen Sie zur Registerkarte **Personen** .
+1. Gehen Sie zur Registerkarte **Personen**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Die Freigabe einer Gruppe von Interessenten oder Kontakten mit Ihrem Team ist in
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die Schaltfläche** Gruppenaktionen** und wählen Sie **Gruppe** freigeben.
+1. Klicken Sie auf die Schaltfläche** Gruppenaktionen** und wählen Sie **Gruppe freigeben**.
 
    ![](assets/three-1.png)
 
