@@ -23,7 +23,7 @@ Um das Marketo MSI Plugin in Outlook verwenden zu können, müssen Sie es autori
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Wenn das Dialogfeld &quot;Markieren-Plugin autorisieren&quot;angezeigt wird, klicken Sie auf **Code** anfordern.
+1. Wenn das Dialogfeld &quot;Markieren-Plugin autorisieren&quot;angezeigt wird, klicken Sie auf **Anforderungscode**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
