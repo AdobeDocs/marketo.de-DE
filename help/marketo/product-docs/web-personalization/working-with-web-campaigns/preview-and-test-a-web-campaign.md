@@ -17,7 +17,7 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten zur Vorschau einer Web-Ka
 
 ## Vorschau einer Web-Kampagne auf der Erstellungsseite {#preview-a-web-campaign-on-the-creation-page}
 
-1. Gehen Sie zu **Web** - **Kampagnen**.
+1. Gehen Sie zu **Web** **Kampagnen**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -31,24 +31,24 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten zur Vorschau einer Web-Ka
 
    >[!TIP]
    >
-   >Klicken Sie auf **Freigeben** , um eine E-Mail mit einer festen URL der Vorschau Kampagne zu öffnen.
+   >Klicken Sie auf **Freigeben**, um eine E-Mail mit einer festen URL der Vorschau &quot;Kampagne&quot;zu öffnen.
 
    >[!NOTE]
    >
-   >Sie haben auch die Möglichkeit, ein Browser-Plugin (entweder [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) zu installieren, um eine optimale Vorschau Ihrer Kampagne zu erhalten. Siehe den Abschnitt unten.
+   >Sie haben auch die Möglichkeit, ein Browser-Plugin zu installieren (entweder [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)), um eine Vorschau Ihrer Kampagne zu erhalten. Siehe den Abschnitt unten.
 
 ## Vorschau einer Web-Kampagne auf der Erstellungsseite mithilfe des Browser-Plugins {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Führen Sie die Schritte 1 und 2 aus `section above`.
+1. Führen Sie die Schritte 1 und 2 von `section above` aus.
 1. Klicken Sie auf den Link zum Browser-Plugin (in diesem Fall verwenden wir Chrome).
 
    ![](assets/4-1.png)
 
-1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Klicken Sie auf **Hinzufügen Chrome**.
+1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Klicken Sie auf **Hinzufügen auf Chrome**.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf **Hinzufügen Erweiterung**.
+1. Klicken Sie auf **Hinzufügen Extension**.
 
    ![](assets/six.png)
 
@@ -60,9 +60,9 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten zur Vorschau einer Web-Ka
 
    ![](assets/campaign-preview.png)
 
-## Vorschau einer Web-Kampagne auf der Seite &quot;Web-Kampagnen&quot; {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Vorschau einer Web-Kampagne auf der Webseite der Web-Kampagnen {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Wählen Sie beim Betrachten der Liste Ihrer Web-Kampagnen einfach eine Kampagne und klicken Sie auf das Symbol **Vorschau** .
+1. Wählen Sie beim Betrachten der Liste Ihrer Web-Kampagnen einfach eine Kampagne aus und klicken Sie auf das Symbol **Vorschau**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -76,7 +76,7 @@ Erstellen Sie ein Sandbox-Segment und eine Kampagne.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klicken Sie auf Neu **erstellen**.
+1. Klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
