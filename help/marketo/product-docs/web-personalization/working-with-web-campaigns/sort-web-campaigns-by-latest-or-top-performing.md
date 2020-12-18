@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Web-Kampagnen nach der neuesten oder der leistungsstärksten Sortierung sortieren {#sort-web-campaigns-by-latest-or-top-performing}
+# Web-Kampagnen nach der neuesten oder der leistungsstärksten {#sort-web-campaigns-by-latest-or-top-performing} sortieren
 
 Sie können Ihre Web-Kampagnen auf verschiedene Weise sortieren.
 
@@ -29,7 +29,7 @@ Sie können Ihre Web-Kampagnen auf verschiedene Weise sortieren.
    >**Neueste** : Sortiert nach dem Datum, an dem die Kampagne erstellt wurde. Die neueste Kampagne oben.
    >
    >
-   >**Top** **Leistung** - Sortiert Kampagnen nach der Durchklickrate. Höchster Durchklickwert oben.
+   >**** **TopPerforming**  - sortiert Kampagnen nach der Durchklickrate. Höchster Durchklickwert oben.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
