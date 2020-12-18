@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kontakte über CSV importieren {#import-contacts-via-csv}
+# Kontakte über CSV {#import-contacts-via-csv} importieren
 
 Kontakte auf der Seite &quot;Personen&quot;zu haben ist wichtig, da wir von dort aus personalisierte Informationen in den dynamischen Feldern Ihrer Vorlagen automatisch ausfüllen können. Vergewissern Sie sich, dass Sie mindestens einen Namen und eine E-Mail-Adresse für jeden Kontakt in Ihrer CSV-Datei haben und dass Sie diesen Feldern zugeordnet sind.
 
@@ -19,7 +19,7 @@ Kontakte auf der Seite &quot;Personen&quot;zu haben ist wichtig, da wir von dort
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Gruppenaktionen** und wählen Sie &quot;CSV **importieren&quot;**.
+1. Klicken Sie auf **Gruppenaktionen** und wählen Sie **CSV** importieren.
 
    ![](assets/two.png)
 
@@ -37,7 +37,7 @@ Kontakte auf der Seite &quot;Personen&quot;zu haben ist wichtig, da wir von dort
 
    ![](assets/four.png)
 
-1. Ordnen Sie die Spalten in Ihrer CSV ihren jeweiligen Feldern in Sales Connect zu. Klicken Sie abschließend auf **Weiter** .
+1. Ordnen Sie die Spalten in Ihrer CSV ihren jeweiligen Feldern in Sales Connect zu. Klicken Sie abschließend auf **Weiter**.
 
    ![](assets/five.png)
 
