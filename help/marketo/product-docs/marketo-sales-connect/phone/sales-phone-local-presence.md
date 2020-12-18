@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Lokale Präsenz auf dem Vertriebsnetz {#sales-phone-local-presence}
+# Local Presence {#sales-phone-local-presence}
 
-Wenn Sie aussehen möchten, als ob Sie von einem Bereichscode eines Benutzers aus anrufen, aktivieren Sie einfach das Kontrollkästchen **Lokale Präsenz** , bevor Sie den Aufruf durchführen.
+Wenn Sie aussehen möchten, als ob Sie von einem Bereichscode eines Benutzers aus aufrufen, markieren Sie einfach das Feld **Lokale Präsenz**, bevor Sie den Aufruf durchführen.
 
 ## Häufig gestellte Fragen zur lokalen Präsenz {#local-presence-faq}
 
