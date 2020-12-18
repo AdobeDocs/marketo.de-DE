@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Grafiken der Ergebnisse aus Umsatz-Explorer {#graphing-results-from-revenue-explorer}
+# Grafische Ergebnisse aus Umsatz-Explorer {#graphing-results-from-revenue-explorer}
 
 Standardmäßig werden Berichte im Umsatz-Explorer als Tabelle angezeigt. Sie haben auch die Möglichkeit, die Ergebnisse als Diagramm in verschiedenen Formaten anzuzeigen.
 
-1. Klicken Sie im Dropdown-Menü **Ansicht als** auf den Pfeil. Es werden verschiedene Diagrammoptionen angezeigt.
+1. Klicken Sie im Dropdown-Menü **Ansicht As** Ihres Berichts auf den Pfeil. Es werden verschiedene Diagrammoptionen angezeigt.
 
    ![](assets/one-1.png)
 
