@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Erste Schritte mit Sales Connect {#getting-started-with-sales-connect}
 
-Wenn Sie diese Schritte lieber ansehen als lesen möchten, gehen Sie direkt zu den [Videoanweisungen weiter unten](#video).
+Wenn Sie diese Schritte lieber als gelesen ansehen möchten, gehen Sie direkt zu den [Videoanweisungen unter](#video).
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Wenn Sie diese Schritte lieber ansehen als lesen möchten, gehen Sie direkt zu d
 >
 >Nicht alle Kunden haben diese Funktion erworben. Wenden Sie sich für weitere Informationen an Ihren Kundenbetreuer.
 
-## Erste Schritte {#what-you-need-to-get-started}
+## Was Sie zum Einstieg benötigen{#what-you-need-to-get-started}
 
 * Marketo-Abonnement
 * Sales Connect-Abonnement
 * Salesforce-Abonnement (mit aktivierten API-Aufrufen und Apex-Klassen)
 
-## Wen Sie beginnen müssen {#who-you-need-to-get-started}
+## Wen Sie anfangen müssen {#who-you-need-to-get-started}
 
 * Marketing-Administrator-Benutzer
 * Sales Connect-Admin-Benutzer
@@ -49,15 +49,15 @@ Optional können Sie auch:
 
 * [Test Sales Connect in Ihrer Sandbox](#sandbox)
 
-## Verbinden Sie Ihr Sales Connect-Konto mit Salesforce. {#connect-your-sales-connect-account-to-salesforce}
+## Verbinden Sie Ihr Sales Connect-Konto mit Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Gehen Sie wie in [diesem Artikel beschrieben vor, um Ihr Sales Connect-Konto als Administrator oder Nicht-Administrator mit Ihrem Salesforce-Konto zu verbinden](http://docs.marketo.com/x/JwDb).
+Um Ihr Sales Connect-Konto mit Ihrem Salesforce-Konto als Administrator oder Nicht-Administrator zu verbinden, führen Sie die Schritte unter [diesen Artikel](http://docs.marketo.com/x/JwDb) aus.
 
 >[!NOTE]
 >
 >Die Salesforce-Instanz, zu der Sie eine Verbindung herstellen, muss dieselbe Instanz sein, die mit Marketo verbunden ist (oder sein wird).
 
-## Berechtigungen vor dem Herstellen einer Verbindung zwischen Vertrieb und Marketing abrufen {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Berechtigungen vor der Verbindung von Vertrieb mit Marketing abrufen {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 Sie benötigen einen Satz Anmeldeinformationen aus Marketo. Diese Anmeldeinformationen werden später vom Sales Connect-Administrator verwendet, um Marketing mit Sales Connect zu verbinden.
 
@@ -65,7 +65,7 @@ Sie benötigen einen Satz Anmeldeinformationen aus Marketo. Diese Anmeldeinforma
 
    ![](assets/one.png)
 
-1. Klicken Sie in der Struktur auf **Sales Connect**.
+1. Klicken Sie in der Struktur auf **Verkaufsverbindung**.
 
    ![](assets/two.png)
 
@@ -77,25 +77,25 @@ Sie benötigen einen Satz Anmeldeinformationen aus Marketo. Diese Anmeldeinforma
    >
    >Wenn Sie die oben genannten Informationen kopieren und einfügen, stellen Sie sicher, dass keine Leerzeichen hinzugefügt werden.
 
-## Verbindung von Verkaufsstellen mit Marketing {#connect-sales-connect-to-marketo}
+## Verbindung von Verkaufsstellen mit Marketo {#connect-sales-connect-to-marketo}
 
 1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/four.png)
 
-1. Wählen Sie unter &quot;Admin-Einstellungen&quot; **Markieren**.
+1. Wählen Sie unter Admin-Einstellungen **Marketo**.
 
    ![](assets/eight.png)
 
-1. Geben Sie die vom Marketing-Administrator angegebenen Anmeldeinformationen ein und klicken Sie auf **Verbinden**.
+1. Geben Sie die vom Marketing-Administrator angegebenen Anmeldeinformationen ein und klicken Sie auf **Connect**.
 
    ![](assets/credentials.png)
 
 ## Benutzer einladen/bereitstellen {#invite-provision-users}
 
-Wenn bereits Benutzer in Ihrem Konto vorhanden sind (zuvor von ToutApp), werden sie auf der Registerkarte &quot; **Teamzugriff** &quot;im Abschnitt &quot;Marketing&quot;von Sales Connect angezeigt.
+Wenn bereits Benutzer in Ihrem Konto vorhanden sind (zuvor von ToutApp), werden sie auf der Registerkarte **Team Access** im Abschnitt Marketing Connect angezeigt.
 
-Sie können Ihr Team als Marketing Connect-Benutzer auf dieser Seite bereitstellen. Wenn Sie ToutApp noch nie verwendet haben oder noch Benutzer einladen müssen, führen Sie die Schritte in [diesem Artikel](http://docs.marketo.com/display/TOUT/Invite+Team+Members)aus.
+Sie können Ihr Team als Marketing Connect-Benutzer auf dieser Seite bereitstellen. Wenn Sie ToutApp noch nie verwendet haben oder noch Benutzer einladen müssen, befolgen Sie die Schritte in [diesem Artikel](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
@@ -119,7 +119,7 @@ Sie können Ihr Team als Marketing Connect-Benutzer auf dieser Seite bereitstell
 
    >[!NOTE]
    >
-   >Wenn Sie neue Benutzer hinzufügen möchten, wechseln Sie zum Abschnitt &quot;Teamverwaltung&quot;in den Admin-Einstellungen und klicken Sie auf die Schaltfläche &quot;Benutzer **einladen** &quot;.
+   >Wenn Sie neue Benutzer hinzufügen möchten, wechseln Sie zum Abschnitt &quot;Teamverwaltung&quot;in den Admin-Einstellungen und klicken Sie auf die Schaltfläche **Benutzer einladen**.
 
 Sie können weitere Benutzer über die Seite &quot;Teamverwaltung&quot;aufrufen und die oben beschriebenen Schritte ausführen, um eine Verbindung herzustellen.
 
