@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Das Sales Connect-Plugin für Gmail wird über eine Browsererweiterung ausgeführt. Sie müssen dies entfernen, um Sales Connect in Gmail zu löschen.
 
-1. Klicken Sie in **Chrome** auf die drei Zeilen in der oberen rechten Ecke des Browserfensters.
+1. Klicken Sie unter **Chrome** auf die drei Zeilen in der oberen rechten Ecke des Browserfensters.
 1. Klicken Sie auf **Weitere Tools**.
 1. Klicken Sie auf **Erweiterungen**.
 1. Klicken Sie auf das Papierkorbsymbol neben **ToutApp für Chrome**.
