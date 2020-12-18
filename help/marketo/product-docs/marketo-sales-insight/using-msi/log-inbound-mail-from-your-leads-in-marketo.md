@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing ein {#log-inbound-mail-from-your-leads-in-marketo}
+# Anmelden von eingehenden E-Mails von Ihren Interessenten in Marketing zu {#log-inbound-mail-from-your-leads-in-marketo}
 
 Sie können Antworten von Ihren Interessenten direkt in Outlook mit dem Marketing E-Mail Hinzufügen-In protokollieren.
 
-## Von der Hauptausblick-Anwendung {#from-the-main-outlook-application}
+## Von der Outlook-Hauptanwendung {#from-the-main-outlook-application}
 
 1. Wählen Sie die E-Mail aus, die Sie anmelden möchten, und klicken Sie auf Anmelden mit Marketing.
 
@@ -23,7 +23,7 @@ Sie können Antworten von Ihren Interessenten direkt in Outlook mit dem Marketin
 
 >[!TIP]
 >
->Sie können auch mit der rechten Maustaste auf eine Nachricht klicken und dann auf **Anmelden** klicken.
+>Sie können auch mit der rechten Maustaste auf eine Nachricht klicken und auf **Mit Marketo** anmelden klicken.
 
 Du solltest eine Bestätigung sehen.
 
