@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Verwenden Sie die Klonfunktion auf der Seite &quot;Web-Kampagnen&quot;, um die Einstellungen für die Kampagne zu kopieren und den Inhalt für die Optimierung von Teiltests zu ändern, oder klonen Sie eine Kampagne mit demselben Inhalt und Zielgruppe in ein anderes Segment. Erstellen Sie Web-Kampagnen in Sekunden!
 
-## Erstellen einer Clone-Kampagne {#create-a-clone-campaign}
+## Erstellen einer Klonen-Kampagne {#create-a-clone-campaign}
 
 1. Gehen Sie zu **Web-Kampagnen**.
 
@@ -23,13 +23,13 @@ Verwenden Sie die Klonfunktion auf der Seite &quot;Web-Kampagnen&quot;, um die E
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](filter-web-campaigns.md).
+   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
 
 1. Klicken Sie für die Web-Kampagne auf **Klonen**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Beim Klonen von Kampagnen werden alle Inhalte der bestehenden Web-Kampagne in die neue geklonte Kampagne kopiert. Die neue geklonte Web-Kampagne hat den Titel &quot;[KAMPAGNE NAME] Copy&quot;.
+1. Beim Klonen von Kampagnen werden alle Inhalte der bestehenden Web-Kampagne in die neue geklonte Kampagne kopiert. Die neue geklonte Web-Kampagne hat die Berechtigung &quot;[KAMPAGNE-NAME] Kopieren&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
