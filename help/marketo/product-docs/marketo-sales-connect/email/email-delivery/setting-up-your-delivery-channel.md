@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Einrichten des Versand-Kanals {#setting-up-your-delivery-channel}
+# Einrichten Ihres Versand-Kanals {#setting-up-your-delivery-channel}
 
 Wenn Sie mit Marketo Sales Connect Beginn verwenden, müssen Sie einen SMTP-Server einrichten, um E-Mails zu senden.
 
 >[!NOTE]
 >
->Neben der Einrichtung Ihres SMTP-Servers muss Ihre [E-Mail-Identität überprüft](http://docs.marketo.com/x/ewPh) werden, bevor Sie E-Mails versenden können.
+>Neben der Einrichtung Ihres SMTP-Servers muss Ihre [E-Mail-Identität überprüft werden, bevor Sie E-Mails senden können.](http://docs.marketo.com/x/ewPh)
 
 Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-Server oder Gmail als Versand-Kanal senden. Gehen wir über jede Option!
 
-## Benutzerdefiniertes SMTP {#custom-smtp}
+## Benutzerspezifisches SMTP {#custom-smtp}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login)an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/one.png)
 
@@ -35,7 +35,7 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
 
    ![](assets/three.png)
 
-1. Geben Sie Ihre SMTP Server-Anmeldeinformationen ein und klicken Sie auf **Verbinden**.
+1. Geben Sie Ihre SMTP Server-Anmeldeinformationen ein und klicken Sie auf **Connect**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
 
    ![](assets/five.png)
 
-1. Suchen Sie die E-Mail-Identität, für die Sie einen Versand-Kanal auswählen möchten, und klicken Sie auf &quot;Versand-Kanal **auswählen&quot;**.
+1. Suchen Sie die E-Mail-Identität, für die Sie einen Versand-Kanal auswählen möchten, und klicken Sie auf **Wählen Sie den Kanal Versand**.
 
    ![](assets/six.png)
 
@@ -71,7 +71,7 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login)an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/nine.png)
 
@@ -79,7 +79,7 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
 
    ![](assets/ten.png)
 
-1. Geben Sie Ihre SMTP Server-Anmeldeinformationen ein und klicken Sie auf **Verbinden**.
+1. Geben Sie Ihre SMTP Server-Anmeldeinformationen ein und klicken Sie auf **Connect**.
 
    ![](assets/eleven.png)
 
@@ -87,11 +87,11 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
    >
    >Der Team SMTP Server ist der Standard-Versand der Standard-E-Mail-Identität aller Teammitglieder. Darüber hinaus ist sie als Versand-Kanal für alle anderen E-Mail-Identitäten verfügbar.
 
-   ** Video ansehen**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+   ** Video abspielen**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
 ## Gmail {#gmail}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login)an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/twelve.png)
 
@@ -103,12 +103,12 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
 
    ![](assets/fourteen.png)
 
-1. Klicken Sie auf **Mit Google** verbinden.
+1. Klicken Sie auf **Verbindung zu Google** herstellen.
 
    ![](assets/fifteen.png)
 
 1. Melden Sie sich mit Ihren Google-Anmeldedaten an.
-1. Wenn Sie diesen Bildschirm aufrufen, klicken Sie auf **Zulassen**.
+1. Klicken Sie auf **Allow**, wenn Sie diesen Bildschirm aufrufen.
 
    ![](assets/sixteen.png)
 
