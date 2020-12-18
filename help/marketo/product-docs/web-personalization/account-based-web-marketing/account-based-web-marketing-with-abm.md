@@ -23,18 +23,18 @@ Wenn Sie die Marketing Web-Personalisierung und das neue kontobasierte Marketing
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern
 
-* Bei der Web-Personalisierung können Sie [Segmente erstellen, die auf Konten abzielen, und zwar aus der von Ihnen in ABM erstellten Liste](create-a-segment-using-an-account-list.md) Konto, und Inhalte für diese Konten personalisieren
+* In der Web-Personalisierung können Sie [Segmente für Targeting-Konten aus der in ABM erstellten Account-Liste](create-a-segment-using-an-account-list.md) erstellen und Inhalte für diese Konten personalisieren.
 
 ## Für bestehende Web-ABM-Kunden {#for-existing-web-abm-customers}
 
 Wenn Sie Web ABM bereits verwenden:
 
-* Sie können Account-Listen in Web ABM *und* ABM erstellen
+* Sie können Listen in Web-ABM *und* in ABM erstellen.
 * Sie können KontoListen in ABM *und *im Web ABM erstellen, bearbeiten und löschen.
 * Listen von Konten (aus Web ABM und ABM) werden zur Web-Personalisierung für die Segmentierung synchronisiert.
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern
 
-* Bei der Web-Personalisierung können Sie Segmente erstellen, die auf Konten abzielen, und zwar aus Listen, die *sowohl* in Web ABM als auch in ABM erstellt wurden, und Inhalte für diese Konten personalisieren
+* Bei der Web-Personalisierung können Sie Segmente erstellen, die auf Konten abzielen, und zwar aus Listen, die in *sowohl* Web ABM als auch ABM erstellt wurden, und Inhalte für diese Konten personalisieren
 * Sie können CSV-Dateien auf der Seite &quot;Liste des Web-Personalisierungskontos&quot;hochladen
 
