@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Inhaltsanalyse {#understanding-content-analytics}
+# Inhaltsanalysen {#understanding-content-analytics}
 
 Auf der Seite &quot;Inhaltsanalyse&quot;werden die von Ihnen entdeckten vorhandenen Inhalte (Fallstudien, Blog-Beiträge, Videos, Pressemitteilungen usw.) Ihrer Website angezeigt. Es zeigt auch die Leistung Ihrer Inhalte und der generierten Personen an, wenn Besucher mit ihnen interagieren.
 
 ## Ansicht Content Analytics {#view-content-analytics}
 
-Gehen Sie zu **Inhaltsanalyse**.
+Gehen Sie zu **Content Analytics**.
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ Die Analytics-Tabelle enthält die folgenden Details:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
-   <td colspan="1" rowspan="1">Name des digitalen Inhaltsassets. Klicken Sie auf <strong>Titel</strong> , um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
+   <td colspan="1" rowspan="1">Name des digitalen Inhaltsassets. Klicken Sie auf <strong>Titel</strong>, um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Empfehlungssymbol </strong><strong></strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Gibt an, ob das Inhaltselement für <a href="#">Content Recommendations</a>hinzugefügt wurde.</td> 
+   <td colspan="1"><p><strong>Empfehlungssymbol  </strong><strong></strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1">Gibt an, ob das Inhaltselement für <a href="#">Content Recommendations</a> hinzugefügt wurde.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Ansichten</strong></p></td> 
@@ -60,17 +60,17 @@ Die Analytics-Tabelle enthält die folgenden Details:
    <td colspan="1" rowspan="1">Web-Besucher, die den Inhalt angezeigt und bei demselben Besuch ein Formular ausgefüllt haben</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analytics-Symbol</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analytics-Symbol</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Weitere Analysen zum Inhaltselement</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Symbol löschen</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Symbol löschen</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Löscht den Inhalt aus Content Analytics</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Ansicht - Zusätzliche Inhaltsanalyse {#view-additional-content-analytics}
+## Ansicht Zusätzliche Inhaltsanalysen {#view-additional-content-analytics}
 
 Klicken Sie auf das Analytics-Symbol eines Inhaltselements.
 
@@ -90,9 +90,9 @@ Die zusätzlichen Inhaltsanalysen umfassen:
 
 **Trends**
 
-* Ein **Trenddiagramm** , das die letzten 30 Ansichten des jeweiligen Inhaltselements anzeigt. Bewegen Sie den Mauszeiger über das Liniendiagramm, um die Anzahl der InhaltsAnsichten eines bestimmten Tages anzuzeigen.
+* Ein **Trends** Diagramm, das die letzten 30 Tage der Ansichten des jeweiligen Inhaltselements anzeigt. Bewegen Sie den Mauszeiger über das Liniendiagramm, um die Anzahl der InhaltsAnsichten eines bestimmten Tages anzuzeigen.
 
-## Inhalt löschen {#delete-content}
+## Inhalt {#delete-content} löschen
 
 ![](assets/six.png)
 
