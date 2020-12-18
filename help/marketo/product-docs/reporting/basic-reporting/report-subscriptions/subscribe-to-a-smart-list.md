@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eine intelligente Liste abonnieren {#subscribe-to-a-smart-list}
+# Eine Smart-Liste abonnieren {#subscribe-to-a-smart-list}
 
 Das Abonnieren intelligenter Listen ist eine großartige Möglichkeit, Personen zu verfolgen, wobei Berichte direkt an Ihren Posteingang gesendet werden.
 
@@ -34,27 +34,27 @@ Abonnement sind arbeitsbereichsspezifisch. Diese Liste von Abonnements befindet 
 >
 >Sie sind auf 100 Abonnement und maximal 100.000 Personen pro Abonnement, über Arbeitsbereiche, pro Marketo-Instanz beschränkt. Wenn die intelligente Liste mehr als 100.000 Namen enthält, führt Marketo das Abonnement für die ersten 100.000 aus.
 
-## Abonnement für intelligente Listen erstellen {#create-a-smart-list-subscription}
+## Erstellen eines Smart-Liste-Abonnements {#create-a-smart-list-subscription}
 
-1. Rufen Sie die **Datenbank-** oder **Marketing-Aktivitäten** auf.
+1. Gehen Sie zu **Datenbank** oder **Marketing-Aktivitäten**.
 
    ![](assets/db.png)
 
-1. Wählen Sie die intelligente Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken Sie auf **Liste Aktionen** und wählen Sie** Neues Abonnement für intelligente Liste**.
+1. Wählen Sie die intelligente Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken Sie auf **Listen-Aktionen** und wählen Sie** Neues Abonnement für intelligente Liste**.
 
    ![](assets/three.png)
 
-1. Geben Sie Ihrem Abonnement einen **Namen** und wählen Sie dann die E-Mail-Adressen der **Empfänger** aus oder geben Sie sie ein.
+1. Geben Sie dem Abonnement einen **Namen** und wählen Sie dann die E-Mail-Adressen der **Empfänger** aus oder geben Sie sie ein.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klicken Sie auf die **Liste Häufigkeit** und wählen Sie eine Häufigkeit aus.
+1. Klicken Sie auf die Liste **Häufigkeit** und wählen Sie eine Häufigkeit aus.
 
    ** ![](assets/image2015-9-14-13-3a21-3a21.png)
 
    **
 
-1. Legen Sie den Versand **Ende **Datum fest. Sie können &quot; **Nie** &quot;oder ein Kalenderdatum auswählen.
+1. Legen Sie den Versand **Ende **Datum fest. Sie können **Niemals** oder ein Kalenderdatum auswählen.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -66,7 +66,7 @@ Abonnement sind arbeitsbereichsspezifisch. Diese Liste von Abonnements befindet 
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Das neue Abonnement für intelligente Listen wird oben in der Liste auf der Registerkarte &quot;Abonnement&quot;angezeigt. Klicken Sie auf **Senden** , wenn Sie jetzt senden möchten, und warten Sie nicht bis zum geplanten E-Mail-Versand.
+1. Das neue Abonnement für intelligente Listen wird oben in der Liste auf der Registerkarte &quot;Abonnement&quot;angezeigt. Klicken Sie auf **Senden**, wenn Sie jetzt senden möchten, und warten Sie nicht bis zum geplanten E-Mail-Versand.
 
    ![](assets/eight.png)
 
@@ -82,7 +82,7 @@ Empfänger erhalten eine E-Mail mit der Option, den Bericht herunterzuladen, sow
 
 >[!NOTE]
 >
->Wenn die Einstellung &quot; [Sicheres Abonnement - Admin](secure-the-subscription-admin-setting.md) &quot;auf &quot; **Ja**&quot;eingestellt ist, können nur Personen mit Zugriff auf die Instanz &quot;Marketo&quot;den Bericht herunterladen.
+>Wenn die Einstellung [Sicheres Abonnement Admin](secure-the-subscription-admin-setting.md) auf **Ja** eingestellt ist, können nur Personen mit Zugriff auf die Marketing-Instanz den Bericht herunterladen.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
