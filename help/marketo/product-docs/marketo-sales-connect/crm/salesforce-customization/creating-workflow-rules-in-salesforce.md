@@ -17,7 +17,7 @@ Bei gleichzeitiger Verwendung von Marketo Sales Insight (MSI) und Marketo Sales 
 
 >[!NOTE]
 >
->Dies betrifft nur Kunden, die **sowohl** MSI als auch MSE verwenden und die die Best-Bets-Funktion in MSI verwenden möchten. Wenn Sie keine Best Bets benötigen/verwenden, können Sie ignorieren.
+>Dies betrifft nur Kunden, die **sowohl** MSI als auch MSE verwenden und die die Funktion &quot;Beste Einsätze&quot;in MSI verwenden möchten. Wenn Sie keine Best Bets benötigen/verwenden, können Sie ignorieren.
 
 ## Erste Schritte {#getting-started}
 
@@ -33,26 +33,26 @@ Nachfolgend finden Sie die empfohlenen Namen der Workflow-Regeln und Beschreibun
  <tbody> 
   <tr> 
    <td>Interaktives Moment-Desc-Feld aktualisieren</td> 
-   <td><p>Kopieren von: Last Marketing to Interaktion<br>DescCopy zu: Letzter interessanter Moment Desc</p></td> 
+   <td><p>Kopieren von: Letzter Marker für Interaktion Desc<br>Kopieren nach: Letzter interessanter Moment Desc</p></td> 
   </tr> 
   <tr> 
    <td>Feld "Interessanter Moment-Typ aktualisieren"</td> 
-   <td><p>Kopieren von: Letzter Marker für Interaktion<br>TypKopieren nach: Letzter interessanter Moment-Typ</p></td> 
+   <td><p>Kopieren von: Letzter Markierungstyp für Interaktion<br>Kopieren nach: Letzter interessanter Moment-Typ</p></td> 
   </tr> 
   <tr> 
    <td>Feld "Interessantes Moment aktualisieren"</td> 
-   <td><p>Kopieren von: Letzter Marker für Interaktion<br>SourceCopy nach: Letzter interessanter Moment Quelle</p></td> 
+   <td><p>Kopieren von: Letzter Markt für Interaktionsquelle<br>Kopieren nach: Letzter interessanter Moment Quelle</p></td> 
   </tr> 
   <tr> 
    <td>Feld "Interessantes Datum aktualisieren"</td> 
-   <td><p>Kopieren von: Letzter Marker für Interaktion<br>DatumKopieren nach: Datum des letzten interessanten Moments</p></td> 
+   <td><p>Kopieren von: Letztes Markierungsbindungsdatum<br>Kopieren nach: Datum des letzten interessanten Moments</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Anweisungen {#instructions}
 
-1. Suchen Sie nach **Einstellungen**, suchen Sie nach **Workflow** und wählen Sie **Workflow-Regeln**.
+1. Suchen Sie nach **Setup**, suchen Sie nach **Workflow** und wählen Sie **Workflow-Regeln**.
 
    ![](assets/one-1.png)
 
@@ -60,15 +60,15 @@ Nachfolgend finden Sie die empfohlenen Namen der Workflow-Regeln und Beschreibun
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die Dropdown-Liste &quot;Objekt&quot;und wählen Sie &quot; **Interessent**&quot;und klicken Sie dann auf **Weiter**.
+1. Klicken Sie auf die Dropdown-Liste &quot;Objekt&quot;und wählen Sie **Lead** und klicken Sie dann auf **Weiter**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie als Regelnamen &quot;Update Interest Moment Desc Field&quot;ein. Wählen Sie das **erstellte Optionsfeld und jedes Mal, wenn es bearbeitet** wird. In der Dropdownliste Regelkriterien wird **Formel als &quot;true&quot;ausgewertet**. Suchen Sie die Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Standardwert für das Feld und klicken Sie auf &quot;Feld **einfügen&quot;**.
+1. Geben Sie als Regelnamen &quot;Update Interest Moment Desc Field&quot;ein. Wählen Sie das Optionsfeld **erstellt und jedes Mal, wenn es bearbeitet wird**. Wählen Sie in der Dropdownliste Regelkriterien **Formel wird als true** ausgewertet. Suchen Sie die Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Standardwert für das Feld und klicken Sie auf **Feld** einfügen.
 
    ![](assets/four-1.png)
 
-1. Wählen Sie im Popup &quot;Feld einfügen&quot;die Option &quot; **Letzter Marker für Interaktion Desc** &quot;und klicken Sie auf **Einfügen**.
+1. Wählen Sie im Popup &quot;Feld einfügen&quot;die Option **Letzter Marker für Interaktion Desc** und klicken Sie auf **Einfügen**.
 
    ![](assets/five-1.png)
 
@@ -80,15 +80,15 @@ Nachfolgend finden Sie die empfohlenen Namen der Workflow-Regeln und Beschreibun
 
    ![](assets/seven.png)
 
-1. Geben Sie im Feld Name die Bezeichnung &quot;Update Interested Moment Desc Field&quot; ein (Unique Name wird automatisch generiert). Wählen Sie in der Dropdownliste Zu aktualisierendes Feld die Option **Letzter interessanter Moment Desc**. Wählen Sie das Optionsfeld **Verwenden Sie eine Formel, um einen neuen Wert** festzulegen, und klicken Sie dann auf Formel-Editor **anzeigen**.
+1. Geben Sie im Feld Name die Bezeichnung &quot;Update Interested Moment Desc Field&quot; ein (Unique Name wird automatisch generiert). Wählen Sie in der Dropdownliste Zu aktualisierendes Feld **Letzter interessanter Moment Desc**. Wählen Sie das Optionsfeld **Verwenden Sie eine Formel, um einen neuen Wert** festzulegen, und klicken Sie dann auf **Formel-Editor anzeigen**.
 
    ![](assets/eight.png)
 
-1. Klicken Sie auf die Schaltfläche &quot;Feld **einfügen&quot;** .
+1. Klicken Sie auf die Schaltfläche **Feld** einfügen.
 
    ![](assets/9a.png)
 
-1. Wählen Sie &quot; **Letzter Marker für Interaktion&quot;** und klicken Sie auf &quot; **Einfügen**&quot;. Klicken Sie auf der nächsten Seite auf **Speichern**.
+1. Wählen Sie **Letzter Marker für Interaktion Desc** und klicken Sie auf **Einfügen**. Klicken Sie auf der nächsten Seite auf **Speichern**.
 
    ![](assets/nine.png)
 
@@ -96,7 +96,7 @@ Nachfolgend finden Sie die empfohlenen Namen der Workflow-Regeln und Beschreibun
 
    ![](assets/twelve.png)
 
-1. Klicken Sie auf **Aktivieren** , um die Workflow-Regel zu aktivieren.
+1. Klicken Sie auf **Aktivieren**, um die Workflow-Regel zu aktivieren.
 
    ![](assets/thirteen.png)
 
