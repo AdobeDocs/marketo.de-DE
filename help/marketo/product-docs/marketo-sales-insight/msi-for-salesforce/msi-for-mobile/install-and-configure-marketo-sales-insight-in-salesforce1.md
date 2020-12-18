@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Installieren und Konfigurieren von MarketingTo Sales Insight in Salesforce1 {#install-and-configure-marketo-sales-insight-in-salesforce}
+# Installieren und Konfigurieren von Marketo Sales Insight in Salesforce1 {#install-and-configure-marketo-sales-insight-in-salesforce}
 
 >[!NOTE]
 >
 >**Erinnerung**
 >
->Bestehende Kunden, bitte [aktualisieren Sie Ihr MSI-Paket](http://docs.marketo.com/x/_gU6Ag) , bevor Sie fortfahren!
+>Bestehende Kunden, bitte [Upgrade Ihres MSI-Pakets](http://docs.marketo.com/x/_gU6Ag), bevor Sie fortfahren!
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Wenn Sie Salesforce Professional haben:
 >Marketo Sales Insight in Salesforce1 beinhaltet: Beste Wetten, Interessentenfeed, interessante Momente und Hinzufügen zur Kampagne von Marketo.
 
 1. Salesforce1 Mobile-App aktivieren
-1. Klicken Sie auf **Einstellungen** und dann auf **Mobilverwaltung**.
+1. Klicken Sie auf **Setup** und dann **Mobile Administration**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -51,11 +51,11 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. Klicken Sie auf **Salesforce1 Einstellungen**.
+1. Klicken Sie auf **Salesforce1 Settings**.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Klicken Sie auf **Aktivieren Sie die mobile Browser-App** Salesforce1.
+1. Klicken Sie auf **Aktivieren Sie die mobile Browser-App Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
@@ -67,7 +67,7 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. Klicken Sie auf **Verwaltung des Navigationsmenüs** für Mobilgeräte.
+1. Klicken Sie auf **Mobiles Navigationsmenü verwalten**.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,7 +75,7 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Wählen Sie **Markieren**, verschieben Sie es **Nach oben **in einen gewünschten Bereich und klicken Sie auf **Speichern**.
+1. Wählen Sie **Marketo**, verschieben Sie es **Nach oben **nach oben in einen gewünschten Bereich und klicken Sie auf **Speichern**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
@@ -84,7 +84,7 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. Wählen Sie Benutzer **verwalten**.
+1. Wählen Sie **Benutzer verwalten**.
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
@@ -96,13 +96,13 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. Wählen Sie unter **Registerkarteneinstellungen** den *ersten* **Marker**.
+1. Wählen Sie unter **Tab-Einstellungen** *first* **Marketo**.
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
    **
 
-1. Wählen Sie **Registerkarte ausgeblendet**.
+1. Wählen Sie **Ausgeblendetes Register**.
 
    ** ![](assets/image2015-5-5-14-3a2-3a29.png)
 
@@ -117,7 +117,7 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. Klicken Sie auf **Meine Registerkarten** anpassen.
+1. Klicken Sie auf **Meine Registerkarten anpassen**.
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
@@ -125,7 +125,7 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Wählen Sie **Markieren**, verschieben Sie es **Nach oben **in einen gewünschten Bereich und klicken Sie auf **Speichern**.
+1. Wählen Sie **Marketo**, verschieben Sie es **Nach oben **nach oben in einen gewünschten Bereich und klicken Sie auf **Speichern**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
@@ -134,7 +134,7 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Klicken Sie auf **Einstellungen**, geben Sie **Seitenlayouts** ein und klicken Sie unter &quot;Interessenten&quot;auf **Seitenlayouts** .
+1. Klicken Sie auf **Setup**, geben Sie **Seitenlayouts** ein und klicken Sie unter &quot;Interessenten&quot;auf **Seitenlayouts**.
 
    >[!NOTE]
    >
@@ -142,11 +142,11 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. Klicken Sie auf **Bearbeiten** , um Änderungen am Interessentenlayout vorzunehmen.
+1. Klicken Sie auf **Bearbeiten**, um Änderungen am Interessentenlayout vorzunehmen.
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Klicken Sie auf **Visualforce-Seiten **und ziehen Sie** dann Lead Mobile **in den Bereich &quot;Mobile Karten&quot;.
+1. Klicken Sie auf **Visualforce-Seiten **und ziehen Sie dann** Lead Mobile **in den Bereich &quot;Mobilkarten&quot;.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +154,7 @@ Wenn Sie Salesforce Professional haben:
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Klicken Sie auf **Felder** und ziehen Sie **Hinzufügen in die Kampagne Marketo **in den** Bereich Marketing to Sales Insight **.
+1. Klicken Sie auf **Felder** und ziehen Sie **Hinzufügen auf Marketo-Kampagne **in den Abschnitt** Marketo Sales Insight **Abschnitt.
 
    ![](assets/configure-step-6.png)
 
