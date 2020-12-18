@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ausfüllen von Social-Formularen deaktivieren {#disable-social-form-fill}
+# Ausfüllen von Social-Formularen {#disable-social-form-fill} deaktivieren
 
 Manchmal möchten Sie nicht mehr, dass Site-Besucher Formulare mit einem Social-Profil senden. Hier ist, wie man es deaktiviert.
 
@@ -25,7 +25,7 @@ Manchmal möchten Sie nicht mehr, dass Site-Besucher Formulare mit einem Social-
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf ****Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten ****Formular**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -37,7 +37,7 @@ Manchmal möchten Sie nicht mehr, dass Site-Besucher Formulare mit einem Social-
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Klicken Sie auf **Fertig stellen**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
