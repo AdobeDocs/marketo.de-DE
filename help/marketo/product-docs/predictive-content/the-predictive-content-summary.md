@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive-Inhalte oder Inhalte`<sup>AI</sup>`enthalten. Für Personen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf Marketing-Inhalte`<sup>AI</sup>`durchzuführen, damit diese Funktionen über das entsprechende Datum hinausgehen.
+>Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Die Zusammenfassung der prognostizierten Inhalte zeigt die Informationen, die Sie über Ihren prädiktiven Inhalt benötigen, auf einen Blick an, mit Tabellen, Diagrammen und aktuellen Zahlen.
 
@@ -37,13 +37,13 @@ Sehen Sie sich Ihren Konversionsrate an, indem Sie Klicks und direkte Interessen
 
 ![](assets/predictive-engagement-actual.png)
 
-## Inhaltstrends nach Ansichten  {#content-trend-by-views}
+## Inhaltstrends nach Ansichten {#content-trend-by-views}
 
 Vergleichen Sie, wie Ihre Ansichten des gesamten Inhalts mit Ihren Prognoseinhalten übereinstimmen.
 
 ![](assets/4.png)
 
-## Wichtigste Kategorien nach Interaktion {#top-categories-by-engagement}
+## Top-Kategorien nach Einsatz {#top-categories-by-engagement}
 
 Welche Kategorien von Inhalten sind am interessantesten? Sehen Sie es in diesem Diagramm.
 
