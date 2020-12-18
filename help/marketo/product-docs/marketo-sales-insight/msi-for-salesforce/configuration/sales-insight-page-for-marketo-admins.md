@@ -31,7 +31,7 @@ Sie können die Rest-API-Anmeldeinformationen in SFDC entfernen und nur SOAP-API
 
 ![](assets/three-1.png)
 
-## Personenergebniseinstellungen {#person-score-settings}
+## Personenbewertungseinstellungen {#person-score-settings}
 
 | **Sterne:** | Sterne stellen den Gesamt-Interessentenwert im Vergleich zu anderen Interessenten dar. |
 |---|---|
@@ -39,7 +39,7 @@ Sie können die Rest-API-Anmeldeinformationen in SFDC entfernen und nur SOAP-API
 
 Standardmäßig verwendet Marketo Sales Insight das Feld Interessentenbewertung, um Sterne und Flammen zu berechnen. Aber wenn Sie ein anderes Feld auswählen möchten, hier:
 
-1. Klicken Sie im **Admin** -Bereich von Marketo auf **Sales Insight**.
+1. Klicken Sie im Bereich **Admin** von Marketo auf **Sales Insight**.
 
    ![](assets/four.png)
 
@@ -61,7 +61,7 @@ Standardmäßig verwendet Marketo Sales Insight das Feld Interessentenbewertung,
 
    >[!TIP]
    >
-   >Wenn Sie noch nicht über benutzerdefinierte Ergebnisfelder verfügen, können Sie diese hier [erstellen](http://docs.marketo.com/x/3wMk).
+   >Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie diese hier [erstellen.](http://docs.marketo.com/x/3wMk)
 
    >[!NOTE]
    >
@@ -89,4 +89,4 @@ Wenn diese Option aktiviert ist, können MSI-Benutzer beim Senden von E-Mails au
 
 **RSS-Feed aktivieren:**
 
-Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Interessentenfeed in einem RSS-Feed (zusätzlich zum Interessentenfeed in Salesforce)**Ansicht haben.**
+Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Interessenten-Feed in einem RSS-Feed (zusätzlich zum Interessenten-Feed in Salesforce)**.** Ansicht haben.
