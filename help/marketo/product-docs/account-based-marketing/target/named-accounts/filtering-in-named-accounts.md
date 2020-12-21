@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: Filtern in benannten Konten - MarketingToDocs - Produktdokumentation
 title: Filtern in benannten Konten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Die Filterung ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Es gibt eine Reihe von Suchparameter-Kombinationen. In diesem Beispiel suchen wir: *Branche = Bankwesen, Land = Vereinigte Staaten, Max. Mitarbeiter = 10000*.
+   >Es gibt eine Reihe von Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _Branche = Bankwesen, Land = Vereinigte Staaten, Max. Mitarbeiter = 10000_.
 
 1. Klicken Sie auf die Dropdownliste **Branche** und wählen Sie **Bankwesen**.
 
@@ -44,4 +44,3 @@ Die Filterung ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
    >[!NOTE]
    >
    >Um weitere Filter hinzuzufügen, aus denen Sie auswählen können, klicken Sie unten links im Formular auf **Hinzufügen Filter**.
-
