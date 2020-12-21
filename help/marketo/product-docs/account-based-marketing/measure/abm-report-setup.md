@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: ABM Report Setup - Marketing Docs - Produktdokumentation
 title: ABM-Berichtseinrichtung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Jeder Bericht bietet die Möglichkeit, Opt-out. Klicken Sie dazu einfach unten i
 1. Wählen Sie den Benutzer aus, den Sie erneut per E-Mail erhalten möchten, und klicken Sie auf **Resubscribe**.
 
    ![](assets/eleven.png)
-
