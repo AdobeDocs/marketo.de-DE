@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Neue Kontoerkennung - Marketing-Dokumente - Produktdokumentation
 title: Neue Kontoerkennung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Mit der neuen Kontoerfassung können Sie mithilfe von AI-basierten Empfehlungen 
 
 >[!PREREQUISITES]
 >
->[Kontoprofilerstellung einrichten](http://docs.marketo.com/x/FgAKAQ)
+>[Kontoprofilerstellung einrichten](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ Mit der neuen Kontoerfassung können Sie mithilfe von AI-basierten Empfehlungen 
 
    >[!TIP]
    >
-   >Nachdem Sie Ihre Konten gespeichert haben, können Sie eine [übereinstimmende Audience auf LinkedIn](http://docs.marketo.com/x/rYGZAQ) verwenden, um sie zu Zielgruppe.
-
+   >Nachdem Sie Ihre Konten gespeichert haben, können Sie eine [übereinstimmende Audience auf LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md) verwenden, um sie zu Zielgruppe.
