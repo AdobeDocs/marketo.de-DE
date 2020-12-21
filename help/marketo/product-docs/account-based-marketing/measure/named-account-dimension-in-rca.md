@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Benannte Dimension in RCA - Marketing Docs - Produktdokumentation
 title: Benannte Konto-Dimension in RCA
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Erstellen Sie umsatzbasierte Berichte mit der ABM-spezifischen Dimension &quot;B
 
 >[!NOTE]
 >
->**Definition**
->
->**Dimensionen **- Attribute (durch gelbe Punkte dargestellt), die unterschiedliche Ansichten der Maßnahmen geben.
+>**Dimensionen**  - Attribute (durch gelbe Punkte dargestellt), die unterschiedliche Ansichten der Maßnahmen geben.
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ Die folgenden Berichte haben Zugriff auf die Dimension &quot;Benanntes Konto&quo
 * Analyse der Programm-Mitgliedschaft
 
 >[!NOTE]
->
->**Beispiel**
 >
 >Im Folgenden finden Sie einige Beispiele von Marketo ABM in der Analyse von Umsatzzyklen.
 
@@ -55,12 +51,3 @@ Effektivität und Auswirkung von Programmen auf das Endergebnis
 Reichweite von QualitätsInteressenten und Interaktionen innerhalb benannter Konten
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [Umsatzzyklusanalysen](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
