@@ -3,7 +3,7 @@ unique-page-id: 11378809
 description: Übersicht über benannte Konten - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über benannte Konten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -101,4 +101,3 @@ Benannte Konten enthalten die Personen aus den Firmen, die Sie als Ziel auswähl
   </tr> 
  </tbody> 
 </table>
-
