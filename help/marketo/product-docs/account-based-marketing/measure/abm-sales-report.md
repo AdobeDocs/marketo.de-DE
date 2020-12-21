@@ -3,9 +3,9 @@ unique-page-id: 11385183
 description: ABM Sales Report - Marketing Docs - Produktdokumentation
 title: ABM-Verkaufsbericht
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Erhalten Sie eine wöchentliche E-Mail mit Ihren Top-Konten und deren wöchentli
 
 >[!NOTE]
 >
->Erfahren Sie, wie Sie diesen Bericht [hier](https://docs.marketo.com/x/drat) einrichten.
+>Erfahren Sie, wie Sie diesen Bericht [hier](/help/marketo/product-docs/account-based-marketing/measure/abm-report-setup.md) einrichten.
 
 Der Bericht teilt:
 
@@ -30,8 +30,35 @@ Der Bericht teilt:
 
 ## Verkaufsberichtschlüssel {#sales-report-key}
 
-| **Kontobewertung** | Wöchentlicher Trend nach Kontostand (in Setup ausgewählt), gefolgt von der Punktzahl des aktuellen Kontos |
-|---|---|
-| **Vertriebskanal** | Wöchentliche Trends nach Pipeline, gefolgt von der gesamten derzeitigen Pipeline und der Anzahl der offenen Möglichkeiten |
-| **Ansichten der Seite** | Wöchentliche Trends bei den Ansichten, gefolgt von der Gesamtzahl der Ansichten und der Anzahl individueller Besucher |
-| **Interessante Momente** | Gesamtzahl der interessanten Momente, die während der Woche aufgetreten sind |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kontobewertung</strong></td> 
+   <td> 
+    <div>
+      Wöchentlicher Trend nach Kontostand (in Setup ausgewählt), gefolgt von der Punktzahl des aktuellen Kontos 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Vertriebskanal</strong></td> 
+   <td> 
+    <div>
+      Wöchentliche Trends nach Pipeline, gefolgt von der gesamten derzeitigen Pipeline und der Anzahl der offenen Möglichkeiten 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Ansichten der Seite</strong></td> 
+   <td> 
+    <div>
+      Wöchentliche Trends bei den Ansichten, gefolgt von der Gesamtzahl der Ansichten und der Anzahl individueller Besucher 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Interessante Momente</strong></td> 
+   <td> 
+    <div>
+      Gesamtzahl der interessanten Momente, die während der Woche aufgetreten sind 
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
