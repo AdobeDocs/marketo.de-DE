@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Account Liste Insights - Marketing Docs - Produktdokumentation
 title: Kontoeinblicke zur Liste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -57,4 +57,3 @@ Klicken Sie auf die Registerkarte **Benannte Konten**, um zu sehen, welche benan
 Klicken Sie auf die Registerkarte **Verwendet von**, um zu sehen, welche Assets auf diese Konto-Liste verweisen.
 
 ![](assets/four-2.png)
-
