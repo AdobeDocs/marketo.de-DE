@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: ABM-Hierarchien - Marketing-Dokumente - Produktdokumentation
 title: ABM-Hierarchien
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ Verwenden der Hierarchie
 >
 >Die Benutzeroberfläche von Marketo zeigt nur bis zu 10 Stufen nach unten an (untergeordnete und untergeordnete Konten des übergeordneten Kontos), es gibt jedoch keine Begrenzung für die Anzahl der untergeordneten Konten, die Sie erstellen können.
 
-Zielgruppe und Berichterstattung über ganze Hierarchien mit [einem Klick](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Zielgruppe und Berichterstattung über ganze Hierarchien mit [einem Klick](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
-
