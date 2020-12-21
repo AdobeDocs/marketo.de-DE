@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: Verwenden von Personas - Marketing Docs - Produktdokumentation
 title: Verwenden von Personas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Ansicht Ihrer Personalien durch Besuch eines bestimmten benannten Kontos.
 1. Verwenden Sie persönliche Filter in einer intelligenten Liste, um eine bestimmte Personengruppe zu vermarkten.
 
 ![](assets/one-b.png)
-
