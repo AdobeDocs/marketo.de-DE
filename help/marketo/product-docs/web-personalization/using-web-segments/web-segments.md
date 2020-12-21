@@ -110,15 +110,12 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >1. Alle Filter verwenden (1, 2 und 3...)
 >1. Alle Filter verwenden (1 oder 2 oder 3...)
 >1. Erweiterte Filter (mit und/oder Ausdrücken) >
-   >    1. >    
-   >       
-
-      >Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.  >
-      >        * 1 und 2 und 3
-      >        * 1 oder 2 oder 3
-
-      >
-      Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:  >
+>    1. >    
+>       
+>Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.  >
+>        * 1 und 2 und 3
+>        * 1 oder 2 oder 3
+>Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:  >
       * 1 und (2 oder 3)
       * (1 und 2) oder 3
 
@@ -329,7 +326,7 @@ Sie können ein Segment bearbeiten, das erstellt wurde.
 1. Wenden Sie alle Änderungen oder Änderungen an, die Sie am Segment vornehmen möchten.
 1. Klicken Sie auf **Speichern**.
 
-## Segmente {#delete-segments} löschen
+## Segmentelöschen {#delete-segments}
 
 Sie können von Ihnen erstellte Segmente löschen.
 
@@ -338,13 +335,15 @@ Sie können von Ihnen erstellte Segmente löschen.
 1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, dass Sie im Begriff sind, das **Segment** zu löschen.
 
 >[!NOTE]
-Ein Segment, das mit einer Kampagne verknüpft ist, kann nicht gelöscht werden. Zunächst müssen Sie die Kampagne und dann das Segment löschen.
+>
+>Ein Segment, das mit einer Kampagne verknüpft ist, kann nicht gelöscht werden. Zunächst müssen Sie die Kampagne und dann das Segment löschen.
 
 Großartig! Nachdem Sie jetzt den Segmentabschnitt verstanden haben, sollten wir uns mit Kampagnen beschäftigen.
 
 >[!MORELIKETHIS]
-* [Ein einfaches Websegment erstellen](create-a-basic-web-segment.md)
-* [Eine neue Dialogfeld-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Eine neue Web-Kampagne in einer Zone erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Neue Widget-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>
+>* [Ein einfaches Websegment erstellen](create-a-basic-web-segment.md)
+>* [Eine neue Dialogfeld-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Eine neue Web-Kampagne in einer Zone erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Neue Widget-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
