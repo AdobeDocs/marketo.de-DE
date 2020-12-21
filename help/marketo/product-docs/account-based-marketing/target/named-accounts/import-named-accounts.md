@@ -3,9 +3,9 @@ unique-page-id: 12615800
 description: Benannte Konten importieren - Marketing-Dokumente - Produktdokumentation
 title: Benannte Konten importieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren
 
    >[!TIP]
    >
-   >Geben Sie in Ihrer Datei [so viele Informationen](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) wie möglich ein. Sie können nur firmografische Informationen hinzufügen. Keine Berechnung von Marketo (d.h. Pipeline). Um benannte Konten basierend auf CRM-Konten zu erstellen, exportieren Sie einfach den Kontonamen und die CRM-ID aus Ihrem CRM-System in eine CSV-Datei, verwenden Sie die Option Kontoname und ordnen Sie die CRM-ID während des Importvorgangs zu. Um ein CRM-Konto ordnungsgemäß mit einem benannten Konto zu verknüpfen, müssen Sie den genauen Namen des CRM-Kontos angeben.
+   >Geben Sie in Ihrer Datei [so viele Informationen](/help/marketo/product-docs/account-based-marketing/target/named-accounts/named-account-overview.md#named-account-attributes) wie möglich ein. Sie können nur firmografische Informationen hinzufügen. Keine Berechnung von Marketo (d.h. Pipeline). Um benannte Konten basierend auf CRM-Konten zu erstellen, exportieren Sie einfach den Kontonamen und die CRM-ID aus Ihrem CRM-System in eine CSV-Datei, verwenden Sie die Option Kontoname und ordnen Sie die CRM-ID während des Importvorgangs zu. Um ein CRM-Konto ordnungsgemäß mit einem benannten Konto zu verknüpfen, müssen Sie den genauen Namen des CRM-Kontos angeben.
 
 1. Wählen Sie aus zwei Deduplizierungsmodi: Kontoname oder Domänenname. In diesem Beispiel wählen wir Konto. Klicken Sie auf die Dropdownliste **Modi** und wählen Sie **Nach Kontoname**.
 
@@ -43,7 +43,7 @@ Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren
    >
    >Sie können auch eine ganz neue Account-Liste erstellen, indem Sie einfach ihren Namen in das Dropdown-Feld eingeben.
 
-1. Um eine Benachrichtigung über den Import zu senden, klicken Sie auf die Dropdownliste **Warnung an** senden und wählen Sie einen Benutzer aus. Sie können *keine*-E-Mail-Adresse manuell eingeben.
+1. Um eine Benachrichtigung über den Import zu senden, klicken Sie auf die Dropdownliste **Warnung an** senden und wählen Sie einen Benutzer aus. Sie können _keine_-E-Mail-Adresse manuell eingeben.
 
    ![](assets/inafive-2.png)
 
@@ -63,14 +63,16 @@ Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren
    >
    >&quot;Importstatus überprüfen&quot;zeigt nur die letzten drei Tage der Aktivität an.
 
+Szenarien, in denen Sie nach Kontoname deduplizieren:
+
 <table> 
  <tbody> 
   <tr> 
-   <td>Importieren von Datensätzen mit vorhandenem Namen des benannten Kontos</td> 
+   <td><strong>Importieren von Datensätzen mit vorhandenem Namen des benannten Kontos</strong></td> 
    <td><p>Wir werden den vorhandenen Datensatz aktualisieren</p></td> 
   </tr> 
   <tr> 
-   <td>Importieren von Datensätzen mit dem neuen Namen des benannten Kontos</td> 
+   <td><strong>Importieren von Datensätzen mit dem neuen Namen des benannten Kontos</strong></td> 
    <td>Wir werden einen neuen Datensatz erstellen</td> 
   </tr> 
  </tbody> 
@@ -78,16 +80,29 @@ Sie haben bereits eine CSV voll von potenziellen Zielgruppen Konten? Importieren
 
 Szenarien, in denen Sie nach Domänennamen deduplizieren:
 
-| **Importieren von Datensätzen mit einem neuen Kontonamen und einem neuen Domänennamen** | Wir erstellen ein neues benanntes Konto mit den bereitgestellten Informationen |
-|---|---|
-| **Importieren von Datensätzen mit einem vorhandenen Kontonamen und einem vorhandenen Domänennamen** | Wir werden das vorhandene benannte Konto aktualisieren |
-| **Importieren von Datensätzen mit einem neuen Kontonamen und einem vorhandenen Domänennamen** | Wir hängen den neuen Kontonamen an das vorhandene benannte Konto an, das mit dem Domänennamen übereinstimmt, und aktualisieren andere Informationen (z.B. Industrie, Staat usw.) |
-| **Importieren von Datensätzen mit vorhandenem Namen des benannten Kontos und neuem Domänennamen** | Wir hängen den neuen Domänennamen an das vorhandene benannte Konto an, das mit dem Kontonamen übereinstimmt, und aktualisieren andere Informationen (z.B. Industrie, Staat usw.) |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Importieren von Datensätzen mit einem neuen Kontonamen und einem neuen Domänennamen</strong></td> 
+   <td>Wir erstellen ein neues benanntes Konto mit den bereitgestellten Informationen</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Importieren von Datensätzen mit einem vorhandenen Kontonamen und einem vorhandenen Domänennamen</strong></td> 
+   <td>Wir werden das vorhandene benannte Konto aktualisieren</td> 
+  </tr> 
+   <tr> 
+   <td><strong>Importieren von Datensätzen mit einem neuen Kontonamen und einem vorhandenen Domänennamen</strong></td> 
+   <td>Wir hängen den neuen Kontonamen an das vorhandene benannte Konto an, das mit dem Domänennamen übereinstimmt, und aktualisieren andere Informationen (z.B. Industrie, Staat usw.)</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Importieren von Datensätzen mit vorhandenem Namen des benannten Kontos und neuem Domänennamen</strong></td> 
+   <td>Wir hängen den neuen Domänennamen an das vorhandene benannte Konto an, das mit dem Kontonamen übereinstimmt, und aktualisieren andere Informationen (z.B. Industrie, Staat usw.)</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 >[!NOTE]
 >
 >Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), die es uns ermöglicht, Personen zu identifizieren, die Teil des benannten Kontos sein sollten. Beispiel: Wenn Sie &quot;IBM&quot;auf &quot;IBM, USA&quot;aktualisieren, werden Personen mit beiden Firmen mit dem benannten Konto verknüpft.
 
 Wenn Marketo Datensätze findet, die wir als Duplikate ansehen, werden wir nur das erste verarbeiten.
-
-Szenarien, in denen Sie nach Kontoname deduplizieren:
