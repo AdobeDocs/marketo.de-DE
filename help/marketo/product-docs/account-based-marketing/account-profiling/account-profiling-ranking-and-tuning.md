@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: Rangansicht und Abstimmung von Kontoprofilen - Marketing Docs - Produktdokumentation
 title: Rangansicht und Abstimmung von Kontoprofilen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Die Ergebnisse zeigen Ihnen alle bekannten Konten nach Besoldungsgruppe aufgesch
 
 ![](assets/results.png)
 
-Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch fördern zu aktivieren, da es Ihnen eine Tonne Zeit einspart. Wenn Sie jedoch die einzelnen Konten durchlaufen und [sie manuell hinzufügen](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts) möchten, lassen Sie das Kontrollkästchen einfach deaktiviert.
+Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch fördern zu aktivieren, da es Ihnen eine Tonne Zeit einspart. Wenn Sie jedoch die einzelnen Konten durchlaufen und [sie manuell hinzufügen](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts) möchten, lassen Sie das Kontrollkästchen einfach deaktiviert.
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ Es stehen verschiedene Registerkarten zur Auswahl, die eine detaillierte Anpassu
 
 ![](assets/tuning-page.png)
 
-Indikator-Kategorien
+**Indikator-Kategorien**
 
-| **Compliance** | Zertifizierungen, Compliance-bezogene Positionen/Anmietung. |
-|---|---|
-| **Aktivitäten** | Geschäftsbezogene Positionen/Vermietung. |
-| **HR** | HR- oder Payroll-Software, HR-bezogene Positionen/Miete. |
-| **Engineering** | Technologien, Frameworks, ingenieurbezogene Positionen/Miete. |
-| **Vertrieb** | Lösungen und Software für Vertrieb, Verkaufsstellen/Vermietung. |
-| **Zweck** | Zielindikatoren. |
-| **IT** | Hardware- und Softwarelösungen, Technologien, IT-bezogene Positionen/Miete. |
-| **Finance** | Finanz-Software, finanzbezogene Positionen/Miete. |
-| **Marketing** | Marketing-Technologien und Software, Marketing-bezogene Positionen/Miete. |
-| **Geschäft** | Forbes oder Inc Listen oder Geschäftspartnerschaften. |
-| **Kundenerlebnis und Kundenbeziehungen** | Kundenerfolg und Kundenbeziehungen Positionen/Vermietung. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Compliance</strong></td> 
+   <td> 
+    <div>
+      Zertifizierungen, Compliance-bezogene Positionen/Anmietung. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Aktivitäten</strong></td> 
+   <td> 
+    <div>
+      Geschäftsbezogene Positionen/Vermietung. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      HR- oder Payroll-Software, HR-bezogene Positionen/Miete.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Engineering</strong></td> 
+   <td> 
+    <div>
+      Technologien, Frameworks, ingenieurbezogene Positionen/Miete. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Vertrieb</strong></td> 
+   <td> 
+    <div>
+      Lösungen und Software für Vertrieb, Verkaufsstellen/Vermietung. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Zweck</strong></td> 
+   <td> 
+    <div>
+      Zielindikatoren. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      Hardware- und Softwarelösungen, Technologien, IT-bezogene Positionen/Miete.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Finance</strong></td> 
+   <td> 
+    <div>
+      Finanz-Software, finanzbezogene Positionen/Miete. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketing</strong></td> 
+   <td> 
+    <div>
+      Marketing-Technologien und Software, Marketing-bezogene Positionen/Miete. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Geschäft</strong></td> 
+   <td> 
+    <div>
+      Forbes oder Inc Listen oder Geschäftspartnerschaften. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Kundenerlebnis und Kundenbeziehungen</strong></td> 
+   <td> 
+    <div>
+      Kundenerfolg und Kundenbeziehungen Positionen/Vermietung.
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 Bewegen Sie den Mauszeiger über die QuickInfos, um eine Beschreibung der einzelnen Spalten anzuzeigen.
 
@@ -89,7 +158,7 @@ Klicken Sie auf die Dropdownliste Hinzufügen ICP-Indikator, um weitere Indikato
 
 ![](assets/add-icp.png)
 
-Wenn Sie das Kontrollkästchen &quot;Exportieren&quot;aktivieren, können Sie den ICP-Indikator auf der Seite &quot;Benanntes Konto&quot;anzeigen und den ausgewählten ICP-Indikator als Einschränkungen unter [Benannte Filter](http://docs.marketo.com/display/DOCS/Account+Filters) verwenden.
+Wenn Sie das Kontrollkästchen &quot;Exportieren&quot;aktivieren, können Sie den ICP-Indikator auf der Seite &quot;Benanntes Konto&quot;anzeigen und den ausgewählten ICP-Indikator als Einschränkungen unter [Benannte Filter](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md) verwenden.
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ Klicken Sie auf Modell aktualisieren, damit diese Änderungen wirksam werden.
 Wenn Sie das Anpassen des Modells abgeschlossen haben (nachdem Sie es aktualisiert haben), kehren Sie zur Registerkarte Modellergebnisse zurück und klicken Sie auf **Ränge speichern und anwenden**.
 
 ![](assets/ranks.png)
-
