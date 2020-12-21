@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Einrichten der Kontoprofilerstellung - Marketing Docs - Produktdokumentation
 title: Einrichten der Kontoprofilerstellung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ Führen Sie die folgenden Schritte aus, um mit der Kontoprofilerstellung Beginn 
 
    >[!TIP]
    >
-   >Nachdem Sie Ihr Modell erstellt haben, erfahren Sie, wie Sie es in der [Übersicht über die Kontoprofilerstellung](http://docs.marketo.com/x/NIDv) anpassen.
-
+   >Nachdem Ihr Modell erstellt wurde, lernen Sie [wie Sie es einstellen](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md).
