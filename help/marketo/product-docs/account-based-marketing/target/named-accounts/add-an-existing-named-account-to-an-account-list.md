@@ -3,7 +3,7 @@ unique-page-id: 12615798
 description: hinzufügen eines vorhandenen benannten Kontos an eine Kontodokumentation - Marketing Docs - Produktdokumentation
 title: hinzufügen eines vorhandenen benannten Kontos zu einer Konto-Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,9 +35,4 @@ Das Hinzufügen eines benannten Kontos zu einer Liste ist ganz einfach.
 
 >[!MORELIKETHIS]
 >
->* [Benanntes Konto erstellen](create-a-named-account.md)
-
->
-
-
-
+>[Benanntes Konto erstellen](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
