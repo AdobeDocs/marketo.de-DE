@@ -3,7 +3,7 @@ unique-page-id: 12978647
 description: Erstellen eines benutzerspezifischen Felds für CRM Discovery - Marketing Docs - Produktdokumentation
 title: Erstellen eines benutzerdefinierten Felds für die CRM-Erkennung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -46,4 +46,3 @@ hinzufügen benutzerspezifische Felder Konten zu, ordnen Sie sie Ihrem CRM zu un
    Nach der Synchronisierung erscheint Ihr neues Feld ganz rechts im Discover CRM-Raster.
 
    ![](assets/eight.png)
-
