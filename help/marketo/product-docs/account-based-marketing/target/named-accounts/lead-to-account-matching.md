@@ -3,7 +3,7 @@ unique-page-id: 11381156
 description: Interessentenabgleich - Marketing Docs - Produktdokumentation
 title: Interessenten-zu-Konto-Übereinstimmung
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -25,17 +25,17 @@ Die Suche nach einer Marketing-to-Account-Übereinstimmung erfolgt in vier Schri
 
 * E-Mail-Domäne (z. B. acme.com)
 * Vorgestellter Name der Firma aus IP-Adresse
-* Name der Firma - Dies könnte der CRM-Kontoname oder das Namensattribut der Interessenten-Firma sein, z. B. aus dem Ausfüllen des Formulars
+* Name der Firma - Dies könnte der CRM-Kontoname oder das Attribut des Namens der Interessenten-Firma sein (z. B. stammt aus dem Ausfüllen des Formulars)
 
-**Schritt 2 -** Wir normalisieren die Firmen, die wir auf Grundlage verschiedener Interessentenattribute finden (z.B. Acme Inc. und Acme Corp werden automatisch zu Acme normalisiert). Dieser Schritt stellt sicher, dass wir eine einzige Darstellung des benannten Kontos in Marketo haben und alle Interessenten in einem einzigen benannten Konto sehen können.
+**Schritt 2 -** Wir normalisieren die Firmen, die wir auf Grundlage verschiedener Interessentenattribute finden (z.B. Acme Inc. und Acme Corp werden automatisch auf Acme normalisiert). Dieser Schritt stellt sicher, dass wir eine einzige Darstellung des benannten Kontos in Marketo haben und alle Interessenten in einem einzigen benannten Konto sehen können.
 
 **Schritt 3 -** Wir partitionieren übereinstimmende Interessenten in 2 Behälter: Starke Übereinstimmung und schwache Übereinstimmung.
 
 * Auf den benannten Konten werden weniger übereinstimmende Interessenten angezeigt, die dann manuell behoben werden können.
 
-**Schritt 4 -** Wir stellen eine Liste der vorgeschlagenen Firmen mit starken und schwachen Übereinstimmungen vor. Wenn ein benanntes Konto auf der Grundlage einer der vorgeschlagenen Firmen erstellt wird, erstellen wir Übereinstimmungsregeln, um automatisch neue Interessenten (z. B. Interessenten, die ein Formular ausgefüllt haben) zuzuordnen, die an die richtigen benannten Konten weitergeleitet werden. Auf diese Weise können Sie sich weniger um die Zuordnung von Interessenten und mehr um die Erzielung von Umsatz sorgen!
+**Schritt 4 -** Wir stellen eine Liste der vorgeschlagenen Firmen mit starken und schwachen Übereinstimmungen vor. Wenn ein benanntes Konto auf der Grundlage einer der vorgeschlagenen Firmen erstellt wird, erstellen wir Übereinstimmungsregeln, um automatisch neue Interessenten (z. B. Ausfüllen eines Formulars) zuzuordnen, die an die richtigen benannten Konten weitergeleitet werden. Auf diese Weise können Sie sich weniger um die Zuordnung von Interessenten und mehr um die Erzielung von Umsatz sorgen!
 
-Da die Interessenten-zu-Konto-Abwägung von Marketo eine integrierte Funktion des Marketing-Kontos ist, erfolgt die Abgleichung von Interessenten in Echtzeit (z. B. wenn ein Interessent ein Marketo-Formular ausfüllt, verbinden wir diesen Interessenten mit dem richtig benannten Konto). Dieses Ereignis kann verwendet werden, um Warnungen auszulösen und Kontoinhaber über die neuen Interessenten zu informieren, die von ihren benannten Konten eingehen.
+Da die Interessenten-zu-Konto-Abwägung von Marketo eine integrierte Funktion des Marketing-Kontos ist, erfolgt die Abgleichung von Interessenten in Echtzeit (wenn z. B. ein Interessent ein Marketo-Formular ausfüllt, verknüpfen wir diesen Interessenten mit dem richtig benannten Konto). Dieses Ereignis kann verwendet werden, um Warnungen auszulösen und Kontoinhaber über die neuen Interessenten zu informieren, die von ihren benannten Konten eingehen.
 
 >[!NOTE]
 >
@@ -43,5 +43,4 @@ Da die Interessenten-zu-Konto-Abwägung von Marketo eine integrierte Funktion de
 
 >[!MORELIKETHIS]
 >
->* [Discover-Konten](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-
+>[Discover-Konten](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
