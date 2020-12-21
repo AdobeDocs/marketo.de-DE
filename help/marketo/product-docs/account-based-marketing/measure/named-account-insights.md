@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: Named Account Insights - Marketing Docs - Produktdokumentation
 title: Einblicke in benannte Konten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Das Dashboard &quot;Benanntes Konto&quot;bietet eine 360-Grad-Ansicht eines Ziel
 
 ## Dashboard {#dashboard}
 
-Das Dashboard Aggregat wichtige Einblicke auf Kontoebene von allen Personen innerhalb eines benannten Kontos, wodurch vermieden wird, dass jeder zur Bewertung seines Fortschritts weitergeleitet werden muss. Mit [Email Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing) können Sie tiefer in die E-Mail-Aktivität vordringen.
+Das Dashboard Aggregat wichtige Einblicke auf Kontoebene von allen Personen innerhalb eines benannten Kontos, wodurch vermieden wird, dass jeder zur Bewertung seines Fortschritts weitergeleitet werden muss. Mit [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing) können Sie tiefer in die E-Mail-Aktivität vordringen.
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ Das Dashboard Aggregat wichtige Einblicke auf Kontoebene von allen Personen inne
 
 **Interessante Momente**
 
-Verfügbar für Benutzer von [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), sehen Sie die interessanten Momente aggregiert auf Kontoebene.
+Verfügbar für Benutzer von Marketo Sales Insight, sehen Sie die interessanten Momente aggregiert auf der Kontoebene.
 
 ![](assets/int-mom.png)
 
 **Top-Personen**
 
-Diese Personen werden basierend auf Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) in Sales Insight) oder vom Benutzer definierten Bewertungen angezeigt werden. **Die** Priorität steht nur Benutzern von Marketo Sales Insight zur Verfügung.
+Diese Personen werden basierend auf Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) oder vom Benutzer definierten Bewertungen angezeigt werden. **Die** Priorität steht nur Benutzern von Marketo Sales Insight zur Verfügung.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ Mitglieder des Ansichten-Kontoteams, Mitglieder hinzufügen/entfernen, in dieser
 
 ## ICP-Indikatoren {#icp-indicators}
 
-Ansicht der ICP-Indikatoren, die Sie beim [Anpassen des Modells](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning) für den Export ausgewählt haben.
+Ansicht der ICP-Indikatoren, die Sie beim [Anpassen des Modells](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) für den Export ausgewählt haben.
 
 ![](assets/eight.png)
-
