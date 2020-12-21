@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Eine übereinstimmende Audience auf LinkedIn - Marketing Docs - Produktdokumentation erstellen
 title: Eine übereinstimmende Audience auf LinkedIn erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Erstellen Sie entsprechende Audiencen aus Ihren ABM-Konto-Listen für LinkedIn-A
 
 >[!PREREQUISITES]
 >
->[hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst](http://docs.marketo.com/x/I4Fy)
+>[hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. Klicken Sie in ABM auf die Registerkarte **Listen**.
 
@@ -49,13 +49,6 @@ Erstellen Sie entsprechende Audiencen aus Ihren ABM-Konto-Listen für LinkedIn-A
 
    Und das ist es. Ihre Audience wurde auf LinkedIn übertragen.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
