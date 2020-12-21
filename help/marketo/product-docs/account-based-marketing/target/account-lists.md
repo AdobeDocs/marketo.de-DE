@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Account-Listen - Marketing Docs - Produktdokumentation
 title: Listen von Konten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
 >[!NOTE]
 >
->In &quot;Marketing to Account Based Marketing&quot;erstellte Listen stehen beim Erstellen intelligenter Listen und Web-Kampagnen in [Web-Personalisierung](http://docs.marketo.com/display/DOCS/RTP+Segments) automatisch zur Verfügung.
+>In &quot;Marketing to Account Based Marketing&quot;erstellte Listen stehen beim Erstellen intelligenter Listen und Web-Kampagnen in [Web-Personalisierung](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) automatisch zur Verfügung.
 
 ## Neue Konto-Liste {#create-a-new-account-list} erstellen
 
@@ -33,7 +33,7 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
    ![](assets/three-0.png)
 
-1. Nachdem Sie Ihre Konto-Liste erstellt haben, beginnen Sie mit dem [Hinzufügen benannter Konten zu ihr](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Nachdem Sie Ihre Konto-Liste erstellt haben, beginnen Sie mit dem [Hinzufügen benannter Konten zu ihr](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
 >[!NOTE]
 >
->Diese Schritte gelten nur für Listen von Konten. *Dynamische* Listen verwenden den Namen ihrer zugehörigen CRM-Konto-Ansichten.
+>Diese Schritte gelten nur für Listen von Konten. _Dynamische_ Listen verwenden den Namen ihrer zugehörigen CRM-Konto-Ansichten.
 
 1. Wählen Sie das Konto, das Sie umbenennen möchten, klicken Sie auf die Dropdownliste **Aktionen zur Liste von Konten** und wählen Sie **Liste des Kontos umbenennen**.
 
@@ -91,10 +91,6 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen eines vorhandenen benannten Kontos zu einer Konto-Liste](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Kontoeinblicke zur Liste](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [hinzufügen eines vorhandenen benannten Kontos zu einer Konto-Liste](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Kontoeinblicke zur Liste](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
