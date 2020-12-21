@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Setup des Kontoteams - Marketing Docs - Produktdokumentation
 title: Einrichten des Kontoteams
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ Ein Kontoteam ist eine Gruppe von Interessenvertretern, die mit einem benannten 
 
    >[!NOTE]
    >
-   >**Erläuterung**
+   >Wenn mehrere CRM-Konten mit verschiedenen Kontoinhabern zu einem benannten Konto zusammengeführt werden, wählt Marketo einen &quot;Kontoinhaber&quot;und fügt andere Kontoinhaber als &quot;Kontobesitzer&quot;hinzu.
    >
-   >    
-   >    
-   >    * Wenn mehrere CRM-Konten mit verschiedenen Kontoinhabern zu einem benannten Konto zusammengeführt werden, wählt Marketo einen &quot;Kontoinhaber&quot;und fügt andere Kontoinhaber als &quot;Kontobesitzer&quot;hinzu.
-   >    * Wenn ein CRM-&quot;Rolle&quot;-Feld später umbenannt oder gelöscht wird, beendet Marketo ABM die Synchronisierung der aktualisierten Werte, bis der Benutzer das Setup in ABM manuell aktualisiert
-
-
+   >Wenn ein CRM-&quot;Rolle&quot;-Feld später umbenannt oder gelöscht wird, beendet Marketo ABM die Synchronisierung der aktualisierten Werte, bis der Benutzer das Setup in ABM manuell aktualisiert
