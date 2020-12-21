@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Übersicht über das Konto Insight-Plug-in - Marketing Docs - Produktdokumentation
 title: Übersicht über das Kontoinsight-Plug-in
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 Account Insight ist ein Chrome-Plug-in, mit dem Sie umsetzbare ABM- und Kontoinformationen für Ihre Vertriebsteams bereitstellen können, sodass sie Konten effektiver binden können.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Account Insight ist für alle Kunden mit ABM und Marketo Sales Insight enthalten. Für Kunden, die nur über ABM verfügen, ist Account Insight als erworbenes Add-on verfügbar. Jeder Kunde ist auf 250 Account Insight-Lizenzen beschränkt. Für weitere Informationen wenden Sie sich bitte an Ihren Vertriebspartner. Es steht Kunden ohne ABM nicht zur Verfügung.
 
 >[!CAUTION]
 >
->Das Kontoinsight-Plugin funktioniert nicht in Abonnements, in denen [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (Single Sign-On) aktiviert ist.
+>Das Kontoinsight-Plugin funktioniert nicht in Abonnements, in denen [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-On) aktiviert ist.
 >
 >CRM-Kontext funktioniert für Salesforce, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. CRM-Kontext funktioniert nicht für Dynamics, wenn das Plug-in von einem Konto, Lead oder Kontakt gestartet wird. Für Dynamics-Benutzer empfehlen wir die Verwendung des Plugins Account Insight.
 
@@ -71,7 +69,8 @@ Der Feed &quot;Aktivität&quot;zeigt die letzte Aktivität an, die sieben Tage z
 
 ![](assets/af1.png)
 
-Klicken Sie auf die Dropdownliste **Filter**, um nach verschiedenen Aktivitäten zu filtern.\
+Klicken Sie auf die Dropdownliste **Filter**, um nach verschiedenen Aktivitäten zu filtern.
+
 ![](assets/af2.png)
 
 Auf mehrere Elemente kann geklickt werden. Klicken Sie auf das benannte Konto, um dessen Details anzuzeigen. Klicken Sie auf den Namen des Benutzers, um dessen Aktivität anzuzeigen. Klicken Sie auf Mehr Aktivitäten, um weitere Aktivitäten anzuzeigen.
@@ -82,9 +81,4 @@ Ziemlich cooles Zeug!
 
 >[!MORELIKETHIS]
 >
->* [Kontoinsight einrichten](set-up-account-insight.md)
-
->
-
-
-
+>[Kontoinsight einrichten](/help/marketo/product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
