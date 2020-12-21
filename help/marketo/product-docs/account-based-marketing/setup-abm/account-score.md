@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: Kontobewertung - Marketing-Dokumente - Produktdokumentation
 title: Kontobewertung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine Einzelperson
 
 >[!NOTE]
 >
->**Erläuterung**
->
->Zur Berechnung der Kontowerte müssen Sie zunächst eine Interessentenbewertung erstellen. Marketo ABM Aggregat automatisch Interessentenbewertungen zu Kontowerten. Als Beispiel nehmen wir zwei der oben genannten Beispiele (*Konto **Produkt-Interessensbewertung* und *Konto-Webinteraktionsbewertung*).
+>Zur Berechnung der Kontowerte müssen Sie zunächst eine Interessentenbewertung erstellen. Marketo ABM Aggregat automatisch Interessentenbewertungen zu Kontowerten. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Konto-Produktzielbewertung_ und _Konto-Webinteraktionsbewertung_).
 >
 >Erstellen Sie zunächst Interessentenbewertungsfelder, die relevante Details aus jedem Interessenten eines Zielgruppen-Kontos erfassen.\
 >Weisen Sie dann diese Interessentenbewertungen ihren jeweiligen Kontowerten zu:\
@@ -61,17 +59,16 @@ Nachdem Sie die Interessentenbewertung konfiguriert haben, führen Sie die folge
 
    >[!NOTE]
    >
-   >Sie können bis zu **5 **Felder zur Berechnung der Kontobewertung auswählen.
+   >Sie können bis zu den Feldern **fünf** auswählen, um die Kontobewertung zu berechnen.
 
 1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf die Dropdownliste **Personenergebnis auswählen** und wählen Sie die entsprechende Punktzahl aus.
 
    ![](assets/four.png)
 
-1. Klicken Sie auf **+Hinzufügen **um weitere Ergebnisse hinzuzufügen.
+1. Klicken Sie auf **+Hinzufügen**, um weitere Ergebnisse hinzuzufügen.
 
    ![](assets/five.png)
 
 1. hinzufügen Sie alle gewünschten Ergebnisse. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/six.png)
-
