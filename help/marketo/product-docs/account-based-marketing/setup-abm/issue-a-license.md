@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: Lizenz ausstellen - Marketing Docs - Produktdokumentation
 title: Lizenz ausstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ Sie müssen Benutzer mit einer Lizenz für die Verwendung von ABM einrichten. Hi
 
    >[!NOTE]
    >
-   >Um die Lizenz eines Benutzers zu entfernen, führen Sie Schritt 1 aus, und markieren Sie dann *un* das Kontrollkästchen und klicken Sie auf **Speichern**.
-
+   >Um die Lizenz eines Benutzers zu entfernen, führen Sie Schritt 1 aus, deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
