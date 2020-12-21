@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Discover Accounts - Marketing Docs - Produktdokumentation
 title: Discover-Konten
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ Identifizieren Sie potenzielle Zielgruppen-Konten aus Ihrem CRM-System.
 >
 >Nachdem Sie Ihr CRM-System mit Marketo ABM verbunden haben, zeigen **Discover CRM-Konten** alle CRM-Konten und relevanten Informationen an, die Ihnen bei der Auswahl der richtigen benannten Konten helfen. Marketo fügt zusätzliche Informationen zu den Informationen hinzu, die vom CRM-System erhalten werden.
 
-**Personen** (in Discover CRM-Konten und Discover Marketing-Firmen): Umfasst sowohl Kontakte als auch Interessenten. Interessenten können mithilfe von Marketo [Interessenten-zu-Konto-Übereinstimmung](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching) gefunden werden. **Potenzielle Personen**  (in Discover CRM-Konten und Discover Marketing-Firmen): Zeigt, wie viele Interessenten Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
+**Personen** (in Discover CRM-Konten und Discover Marketing-Firmen): Umfasst sowohl Kontakte als auch Interessenten. Interessenten können mithilfe von Marketo [Interessenten-zu-Konto-Übereinstimmung](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md) gefunden werden.
 
-**Benutzerdefiniertes CRM-Feld**  (nur in Discover CRM-Konten): Auf diese Weise können Sie Ihre Vertriebs- und Marketingorganisation für die Auswahl der richtigen Zielgruppen-Konten ausrichten. Wenn Sie [das benutzerdefinierte CRM-Feld](http://docs.marketo.com/x/1wnG) mit Marketo ABM verknüpfen, zeigen wir Ihnen die zugeordneten Daten, die Ihnen bei der Identifizierung Ihrer Zielgruppen-Konten helfen.
+**Potenzielle Personen**  (in Discover CRM-Konten und Discover Marketing-Firmen): Zeigt, wie viele Interessenten Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
+
+**Benutzerdefiniertes CRM-Feld**  (nur in Discover CRM-Konten): Auf diese Weise können Sie Ihre Vertriebs- und Marketingorganisation für die Auswahl der richtigen Zielgruppen-Konten ausrichten. Wenn Sie [das benutzerdefinierte CRM-Feld](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md) mit Marketo ABM verknüpfen, zeigen wir Ihnen die zugeordneten Daten, die Ihnen bei der Identifizierung Ihrer Zielgruppen-Konten helfen.
 
 1. Klicken Sie in Benannte Konten auf die Dropdownliste **Neu** und wählen Sie **Discover CRM-Konten**.
 
@@ -63,17 +65,17 @@ Identifizieren Sie die richtigen Firmen für das Targeting.
    >
    >In Discover Marketing Firmen und Discover CRM:
    >
-   > * Findet Personen aus Ihrer Marketo-Datenbank, deren Firma in ihrem Datensatz aufgeführt ist. Wenn Sie mehrere Werte für einige Attribute (z. B. Branche) sehen, liegt das daran, dass Marketo unterschiedliche Werte für diese einzelnen Personen gefunden hat. Das Attribut mit den meisten Treffern gewinnt
+   >* Findet Personen aus Ihrer Marketo-Datenbank, deren Firma in ihrem Datensatz aufgeführt ist. Wenn Sie mehrere Werte für einige Attribute (z. B. Industrie) sehen, liegt das daran, dass Marketo unterschiedliche Werte für diese einzelnen Personen gefunden hat. Das Attribut mit den meisten Treffern gewinnt
    >
    >Nur in **Discover CRM** Marketo:
    >
-   > * Synchronisiert und verknüpft CRM-Kontakte mit dem benannten Konto
+   >* Synchronisiert und verknüpft CRM-Kontakte mit dem benannten Konto
    >
    >Nur in **Discover Marketing Firmen** Marketo automatisch:
    >
-   > * Filter aus den meisten Internet-Dienstleistern und öffentlichen Domains (z. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) als Firmen
+   >* Filter verlassen die meisten Internet-Dienstleister und öffentlichen Domänen (z.B. yahoo.com, gmail.com) als Firmen-Namen
       >
-      > 
+      >
    * Dedupliziert CRM-Konten. Wenn Sie &quot;Acme&quot;in einem Datensatz und &quot;Acme Inc&quot; (oder einem der folgenden Suffixe: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), werden wir sie in ABM zusammenführen als nur &quot;Acme&quot;
    >
    >Wenn Sie möchten, dass Marketo die Konten nach CRM-ID oder Kontoinhaber und nicht nach Firma-Name dedupliziert, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
@@ -116,5 +118,4 @@ Identifizieren Sie die richtigen Firmen für das Targeting.
 
 >[!MORELIKETHIS]
 >
->* [Interessenten-zu-Konto-Übereinstimmung](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[Interessenten-zu-Konto-Übereinstimmung](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
