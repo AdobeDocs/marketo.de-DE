@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Account-Filter - Marketing Docs - Produktdokumentation
 title: Filter
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste Konto-Liste...
 
    ![](assets/eight.png)
 
-1. Wenn Sie den Qualifikator &quot;is any&quot;verwenden, sollten Sie [constraints](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) verwenden, um Ihre Suchergebnisse einzuschränken. hinzufügen so viele, wie du willst!
+1. Wenn Sie den Qualifikator &quot;is any&quot;verwenden, sollten Sie [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) verwenden, um Ihre Suchergebnisse einzuschränken. hinzufügen so viele, wie du willst!
 
    ![](assets/nine.png)
 
@@ -67,5 +67,4 @@ Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste Konto-Liste...
 
 >[!MORELIKETHIS]
 >
->* [Kontoauslöser](account-triggers.md)
-
+>[Kontoauslöser](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)
