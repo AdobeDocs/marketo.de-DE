@@ -90,13 +90,13 @@ Klicken Sie auf der Seite **Segmente** unter dem Diagramm auf **Neu erstellen**.
 
 Definieren Sie allgemeine Parameter für Ihr Segment:
 
-1. 
+1. &#x200B;
 
    * **Name:**  Benennen Sie Ihr Segment.
    * **Beschreibung:**  Geben Sie eine detailliertere Erläuterung der Segmentkriterien ein.
    * **Domänen:**  Wählen Sie die Domäne(n) aus, die Sie in das Segment einbeziehen möchten.
-   * **Segmentregellogik:**  Wählen Sie eine UND/ODER-Logik aus, um jedes Segmentierungsattribut zu erstellen
-   * **Zeitpunkt:** Definieren Sie die Ebene, in der der Besucher in Ihrer Kampagne engagiert sein soll.
+   * **Segmentregellogik:**  Wählen Sie eine UND/ODER-Logik, um jedes Segmentierungsattribut zu erstellen
+   * **Zeit:** Definieren Sie den Grad der Besucher-Interaktion, den Sie in Ihrer Kampagne wünschen
 
       * **Bei Eingang**: Interagieren vom Besucher kommt auf die Website
       * **Nach dem 1. - 9. Klicken**: Besucher nach einer bestimmten Anzahl von Klicks auf die Website einbinden
@@ -109,22 +109,22 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >
 >1. Alle Filter verwenden (1, 2 und 3...)
 >1. Alle Filter verwenden (1 oder 2 oder 3...)
->1. Erweiterte Filter (mit und/oder Ausdrücken) >
->    1. >    
->       
->Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.  >
->        * 1 und 2 und 3
->        * 1 oder 2 oder 3
->Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:  >
-      * 1 und (2 oder 3)
-      * (1 und 2) oder 3
-
-      Verschachtelte Klammern werden für eine kompliziertere Logik, z.  >
-      * (1 und 2) oder (3 und 4)
-      * 1 und 2 oder 3 und 4)
-
-      Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
-
+>1. Erweiterte Filter (mit und/oder Ausdrücken)
+>    1. &#x200B;
+>
+>      Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
+>      * 1 und 2 und 3
+>      * 1 oder 2 oder 3
+>
+>      Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
+>      * 1 und (2 oder 3)
+>      * (1 und 2) oder 3
+>
+>      Verschachtelte Klammern werden für eine kompliziertere Logik, z.
+>      * (1 und 2) oder (3 und 4)
+>      * 1 und 2 oder 3 und 4)
+>
+>      Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 
 
