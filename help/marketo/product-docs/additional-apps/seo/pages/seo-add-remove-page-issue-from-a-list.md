@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: SEO - Seitenproblem aus einer Liste Hinzufügen/entfernen - Marketing-Dokumente - Produktdokumentation
 title: SEO - Seitenproblem aus einer Liste Hinzufügen/entfernen
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,15 @@ Sie können Seitenprobleme in Listen organisieren. Sie können auch Seitenproble
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
 1. Klicken Sie auf der Registerkarte &quot;Seiten&quot;auf **Probleme**.
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Bewegen Sie den Mauszeiger über das hinzuzufügende Seitenproblem. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+1. Bewegen Sie den Mauszeiger über das hinzuzufügende Seitenproblem. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    Klicken Sie auf die Liste, der Sie Ihre Seitenausgabe hinzufügen möchten.
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
@@ -49,7 +51,7 @@ Sie können Seitenprobleme in Listen organisieren. Sie können auch Seitenproble
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
+1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
