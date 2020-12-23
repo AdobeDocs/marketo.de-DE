@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - Einführung zu Suchbegriffen - Marketing-Dokumente - Produktdokumentation
 title: SEO - Einführung zu Suchbegriffen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Suchbegriffe sind das Rückgrat Ihrer SEO-Strategie. Ihr Ziel ist es, auf der ersten Seite so nah wie möglich an #1 für Suchbegriffe zu sein, die für Ihr Unternehmen relevant sind.
 
-Der Abschnitt &quot;Suchbegriffe&quot;zeigt Ihnen, wie erfolgreich Ihre Site dabei ist, dies zu erreichen, und wie Sie bis zu [Ihre Konkurrenz stapeln.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+Der Abschnitt &quot;Suchbegriffe&quot;zeigt Ihnen, wie erfolgreich Ihre Site dabei ist, dies zu erreichen, und wie Sie bis zu [Ihre Konkurrenz](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md) stapeln.
 
 ## Suchbegriffe - Ansicht der Zusammenfassung {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ Großartig! Nachdem Sie nun den Abschnitt &quot;Suchbegriffe&quot;verstanden hab
 
 >[!MORELIKETHIS]
 >
->* [Seiten verstehen](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Eingehende Links](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [Seiten verstehen](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Eingehende Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
