@@ -3,9 +3,9 @@ unique-page-id: 2949220
 description: SEO - Hinzufügen Hinweise zu Seitenproblemen - Marketing Docs - Produktdokumentation
 title: SEO - Hinzufügen Hinweise zu Seitenproblemen
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen 
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Klicken Sie auf der Registerkarte &quot;Seiten&quot;auf Probleme.
+1. Klicken Sie auf der Registerkarte &quot;Seiten&quot;auf **Probleme**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Bewegen Sie den Mauszeiger über das Problem, dem Sie eine Notiz hinzufügen möchten. Klicken Sie auf HINZUFÜGEN HINWEIS STICKY.
+1. Bewegen Sie den Mauszeiger über das Problem, dem Sie eine Notiz hinzufügen möchten. Klicken Sie auf **Hinzufügen Sticky Note**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,7 +35,7 @@ Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen 
 
 >[!TIP]
 >
->Sie können Ihre Notiz löschen, indem Sie auf das kleine X in der oberen linken Ecke klicken.
+>Sie können Ihre Notiz löschen, indem Sie auf das kleine **x** in der oberen linken Ecke klicken.
 
 ## hinzufügen Hinweise in Seitendetails Drilldown {#add-notes-in-page-detail-drill-down}
 
@@ -47,15 +47,14 @@ Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen 
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Bewegen Sie den Mauszeiger über das Seitenproblem, dem Sie eine Notiz hinzufügen möchten, und klicken Sie auf **HINZUFÜGEN HINWEIS**.
+1. Bewegen Sie den Mauszeiger über das Seitenproblem, dem Sie eine Notiz hinzufügen möchten, und klicken Sie auf **Hinzufügen Hinweis**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Geben Sie Ihre Notiz ein. Klicken Sie auf **SAVE**.
+1. Geben Sie Ihre Notiz ein. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Groovy. Ihre Notiz wurde hinzugefügt.
+   Ihre Notiz wurde hinzugefügt!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)
-
