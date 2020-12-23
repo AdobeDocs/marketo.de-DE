@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste - Marketing-Dokumente - Produktdokumentation
 title: SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Mit Listen können Sie alle Suchbegriffe angenehm und organisiert halten. Dadurc
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -35,7 +35,7 @@ Mit Listen können Sie alle Suchbegriffe angenehm und organisiert halten. Dadurc
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-Woohoo! Wählen Sie Ihre Liste aus, um die neuen Suchbegriffe anzuzeigen.
+Woo hoo! Wählen Sie Ihre Liste aus, um die neuen Suchbegriffe anzuzeigen.
 
 ## Suchbegriff aus Liste {#remove-keyword-from-list} entfernen
 
@@ -45,7 +45,7 @@ Sie können Suchbegriffe auch aus einer Liste entfernen.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,15 +53,12 @@ Sie können Suchbegriffe auch aus einer Liste entfernen.
 
    >[!NOTE]
    >
-   >Alle Listen, zu denen der Suchbegriff gegenwärtig gehört, haben ein Häkchen. Nach dem Entfernen aus der Liste wird der Häkchen ausgeblendet. Magie!
+   >Alle Listen, zu denen der Suchbegriff gegenwärtig gehört, haben ein Häkchen. Nach dem Entfernen aus der Liste wird der Häkchen ausgeblendet.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    Perfekt, der Suchbegriff befindet sich nicht mehr auf dieser Liste. Aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >    
-   >* [Die Suchbegriffe (Ansicht der Zusammenfassung)](seo-understanding-keywords.md)
-
+   >[Die Suchbegriffe (Ansicht der Zusammenfassung)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
