@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO - Mit dem Drilldown für Seitendetails - Marketing Docs - Produktdokumentation
 title: SEO - Mit dem Drilldown-Verfahren für Seitendetails
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Mit dem Detaillierungsgrad der Seite können Sie viele Informationen zu Ihren Se
 
 ## Suchbegriff(e), für die diese Seite optimiert wurde(n) für {#keyword-s-that-page-is-optimized-for}
 
-Hier wählen Sie [den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten.](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
+Hier wählen Sie [den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten.](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ Ziemlich süß, nicht wahr? Erfahren Sie mehr über Seiten hier.
 
 >[!MORELIKETHIS]
 >
->* [Optimieren Sie bestimmte Seiten mit zielgerichteten Suchbegriffen.](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[Optimieren Sie bestimmte Seiten mit zielgerichteten Suchbegriffen.](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
