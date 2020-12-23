@@ -3,9 +3,9 @@ unique-page-id: 2949216
 description: SEO - Hinzufügen - Marketo Docs - Produktdokumentation
 title: SEO - Hinzufügen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -19,20 +19,20 @@ Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. F
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klicken Sie auf **HINZUFÜGEN Seiten**.
+1. Klicken Sie auf **Hinzufügen Seiten**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken Sie auf **HINZUFÜGEN**.
+1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken Sie auf **Hinzufügen**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie [Ihre Seite einer neuen oder vorhandenen Liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können? Schau es dir an!
+   >Wussten Sie, dass Sie [Ihre Seite einer neuen oder vorhandenen Liste](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können? Schau es dir an!
 
    Es kann einen Moment dauern, bis die Daten Ihrer Seite geladen werden. Warten Sie, bis die grüne Warnmeldung angezeigt wird, und aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
+
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   Easy peasy lemon squeezy! Sie können nun verfolgen, wie diese Seite bei der Suche funktioniert.
-
+   Sie können nun verfolgen, wie diese Seite bei der Suche funktioniert.
