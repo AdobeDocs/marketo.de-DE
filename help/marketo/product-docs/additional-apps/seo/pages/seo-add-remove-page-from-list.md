@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO - Hinzufügen/Seite aus Liste entfernen - Marketing Docs - Produktdokumentation
 title: SEO - Hinzufügen/Seite aus Liste entfernen
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Sie möchten Ihre Seiten verwalten? Sie können das einfach durch Erstellen eine
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -37,7 +37,7 @@ Sie möchten Ihre Seiten verwalten? Sie können das einfach durch Erstellen eine
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. Jay! Sie sollten nun Ihre Seite der Liste hinzufügen sehen.
+Jay! Sie sollten nun Ihre Seite der Liste hinzufügen sehen.
 
 ## Seite aus Liste {#remove-page-from-a-list} entfernen
 
@@ -49,7 +49,7 @@ Sie möchten Ihre Seiten verwalten? Sie können das einfach durch Erstellen eine
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken Sie auf **HINZUFÜGEN/ENTFERNEN VON LISTE**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,5 +61,4 @@ Sie möchten Ihre Seiten verwalten? Sie können das einfach durch Erstellen eine
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. Boom. Fertig. Ihre Seite wird aus der Liste entfernt.
-
+Fertig. Ihre Seite wird aus der Liste entfernt.
