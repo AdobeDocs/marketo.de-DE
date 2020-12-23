@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO - Verwalten von Listen - Marketing Docs - Produktdokumentation
 title: SEO - Verwalten von Listen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können Listen Elemente hinzufügen, wenn Sie Suchbegriffe, Seiten, Seitenprobleme oder Inbound-Links hinzufügen. Listen helfen Ihnen dabei, sich besser zu organisieren und Berichte so zu filtern, dass nur Daten zu dieser Liste angezeigt werden. So werden sie gemacht:
 
-1. Klicken Sie auf **HINZUFÜGEN SUCHBEGRIFFE**.
+1. Klicken Sie auf **Hinzufügen Suchbegriffe**.
 
    >[!NOTE]
    >
@@ -29,11 +29,10 @@ Sie können Listen Elemente hinzufügen, wenn Sie Suchbegriffe, Seiten, Seitenpr
 
    >[!TIP]
    >
-   >Sie können eine neue Liste in der Dropdown-Liste erstellen. Geben Sie einen Titel ein und drücken Sie die Eingabetaste.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >Sie können eine neue Liste in der Dropdown-Liste erstellen. Geben Sie einen Titel ein und drücken Sie die Eingabetaste.
 
-1. Klicken Sie auf **SAVE**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    Gute Organisation!
-
