@@ -3,9 +3,9 @@ unique-page-id: 2949243
 description: SEO - Hinzufügen/Entfernen von Spalten aus Ihrer Suchbegriffs-Ansicht - Marketing-Dokumente - Produktdokumentation
 title: SEO - Spalten aus der Ansicht Suchbegriffe Hinzufügen/entfernen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Sie können die Ansicht Ihres Suchbegriffs so anpassen, dass die Daten angezeigt
 
    Dies sind die Standardspalten:
 
-1. ![](assets/image2014-9-18-13-3a37-3a36.png)
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
 
 1. Klicken Sie auf das Zahnradsymbol.
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicken Sie auf **SAVE**.
+1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
@@ -35,12 +35,6 @@ Sie können die Ansicht Ihres Suchbegriffs so anpassen, dass die Daten angezeigt
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Suchbegriffe - Ansicht der Zusammenfassung](seo-understanding-keywords.md)
-
-
+   >[Suchbegriffe - Ansicht der Zusammenfassung](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
