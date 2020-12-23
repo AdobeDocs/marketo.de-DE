@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: Erläuterungen zum SEO-Dashboard SEO Recommendations - Marketing Docs - Produktdokumentation
 title: Das SEO-Dashboard - SEO Recommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Sie können auch herausfinden, wie Sie mit dem Abschnitt Recommendations verbess
 
 ## Probleme mit der Optimierung der obersten Seite {#top-page-optimization-issues}
 
-Dies zeigt Ihnen fünf Möglichkeiten, Ihre Site sofort zu optimieren, um Beginn mit hoher Wirkung zu machen! Klicken Sie einfach auf einen der Links, um den vollständigen [Seitendruck unter](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) Ansicht.
+Dies zeigt Ihnen fünf Möglichkeiten, Ihre Site sofort zu optimieren, um Beginn mit hoher Wirkung zu machen! Klicken Sie einfach auf einen der Links, um den vollständigen [Seitendruck unter](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) Ansicht.
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Genau! Tauchen Sie hier tiefer.
 
 >[!MORELIKETHIS]
 >
->* [Drilldown für Seitendetails](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[Drilldown für Seitendetails](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
