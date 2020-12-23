@@ -3,9 +3,9 @@ unique-page-id: 2949253
 description: SEO - Entfernen/Löschen einer Inbound-Link-URL - MarketingToDocs - Produktdokumentation
 title: SEO - Entfernen/Löschen einer URL für einen eingehenden Link
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,9 @@ Manchmal wollen Sie eingehende Links entfernen. So geht es:
 1. Bewegen Sie den Mauszeiger über die URL des eingehenden Links, die Sie löschen möchten.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-Klicken Sie auf ENTFERNEN.
+
+1. Klicken Sie auf **Entfernen**.
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   Level up! Sie haben jetzt diesen Link gelöscht.
-
+Sie haben jetzt diesen Link gelöscht.
