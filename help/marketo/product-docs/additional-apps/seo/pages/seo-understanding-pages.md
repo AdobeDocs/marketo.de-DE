@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO - Einführung zu Seiten - Marketing-Dokumente - Produktdokumentation
 title: SEO - Die Seiten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Die Bewertung der Seitenoptimierung ist eine allgemeine Rangfolge, wie gut Ihre Seite für die Suche optimiert ist, in einer Skala von 1 bis 100. Es basiert auf Dutzenden von Best Practices in SEO.
 
-* ~ 00 - 35 = Nicht gut optimiert
-* ~ 35 - 70 = Auf dem richtigen Weg
-* ~ 70 - 100 = Gut gemacht!
+* 0 - 35 = Nicht gut optimiert
+* 35 - 70 = Auf dem richtigen Weg
+* 70 - 100 = Gut gemacht!
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Die Registerkarte &quot;Seiten&quot;zeigt Ihnen, wie gut einzelne Seiten Ihrer S
 | Titel | Titel und URL aller Seiten in Ihrer Domäne. Überprüfen Sie Ihre Domäne. |
 | Optimierungsergebnis | Die geheime Sauce, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
 | Links | Anzahl der verschiedenen Domänen mit mindestens 1 Inbound-Link zu Ihrer Site. |
-| Zielgruppe Suchbegriffe | Die Suchbegriffe, für die Sie die einzelnen Seiten optimieren möchten. [Hierfür benötigen Sie Ihre Eingabe](seo-using-the-page-detail-drill-down.md). |
+| Zielgruppe Suchbegriffe | Die Suchbegriffe, für die Sie die einzelnen Seiten optimieren möchten. [Hierfür benötigen Sie Ihre Eingabe](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Registerkarte &quot;Probleme&quot;{#issues-tab}
 
@@ -53,7 +53,4 @@ Auf der Registerkarte &quot;Probleme&quot;werden die Verbesserungen angezeigt, d
 | Kategorie | Der Typ des gemeldeten Problems. |
 | Status | Ist die Aufgabe abgeschlossen oder noch geöffnet? Sobald Sie und Ihr Webmaster das Problem auf Ihrer Site beheben, sollte sich der Status in &quot;Gelöscht&quot;(grünes Häkchen) ändern. |
 
-Nun, da Sie die Grundlagen der Seiten kennen, sehen Sie sich den Artikel zum Drilldown der Seitendetails an, um mehr coole Dinge zu erfahren, die Sie tun können.
-
-* [Verwenden des Drilldown für Seitendetails](seo-using-the-page-detail-drill-down.md)
-
+Nun, da Sie die Grundlagen der Seiten kennen, sehen Sie sich den Artikel [Seitendetails Drilldown ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) an, um mehr coole Dinge zu erfahren, die Sie tun können.
