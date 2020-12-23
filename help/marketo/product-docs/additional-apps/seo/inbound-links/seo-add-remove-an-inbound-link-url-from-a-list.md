@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO - Hinzufügen/Entfernen einer Inbound Link-URL aus einer Liste - MarketingToDocs - Produktdokumentation
 title: SEO - Hinzufügen/Entfernen einer Inbound-Link-URL aus einer Liste
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Sie können die URLs der eingehenden Links zu den Inhalten Ihres Herzens organis
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Bewegen Sie den Mauszeiger über die URL des eingehenden Links, die Sie kategorisieren möchten. Klicken Sie auf Aus Liste hinzufügen/entfernen.
+1. Bewegen Sie den Mauszeiger über die URL des eingehenden Links, die Sie kategorisieren möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ Sie können die URLs der eingehenden Links zu den Inhalten Ihres Herzens organis
 
 ## Entfernen einer Inbound-Link-URL aus einer Liste {#remove-an-inbound-link-url-from-a-list}
 
-1. Manchmal möchten Sie die URLs eines eingehenden Links aus einer Liste entfernen.
+Manchmal möchten Sie die URLs eines eingehenden Links aus einer Liste entfernen.
+
+1. Klicken Sie auf **Inbound Links**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Klicken Sie auf Nach Liste filtern. Klicken Sie auf die Liste, die Sie bereinigen möchten.
+1. Klicken Sie auf die Dropdownliste **Nach Liste filtern**. Klicken Sie auf die Liste, die Sie bereinigen möchten.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Bewegen Sie den Mauszeiger über die URL des eingehenden Links, die Sie entfernen möchten. Klicken Sie auf Aus Liste hinzufügen/entfernen.
+1. Bewegen Sie den Mauszeiger über die URL des eingehenden Links, die Sie entfernen möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
