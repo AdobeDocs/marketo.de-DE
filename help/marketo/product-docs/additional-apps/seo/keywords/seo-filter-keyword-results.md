@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - Filtern der Suchbegriffsergebnisse - Marketing-Dokumente - Produktdokumentation
 title: SEO - Suchbegriffsergebnisse filtern
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Suchbegriffsergebnisse filtern {#seo-filter-keyword-results}
 
-Möglicherweise haben Sie viele [Suchbegriffe](seo-understanding-keywords.md). Es gibt verschiedene Möglichkeiten, sie zu filtern:
+Möglicherweise haben Sie viele [Suchbegriffe](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Es gibt verschiedene Möglichkeiten, sie zu filtern:
 
 ## Filtern nach Liste {#filter-by-list}
 
@@ -27,7 +27,7 @@ Möglicherweise haben Sie viele [Suchbegriffe](seo-understanding-keywords.md). E
 
    >[!NOTE]
    >
-   >Wenn Sie keine Listen sehen, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [erfahren Sie, wie Sie eine Suchbegriffs-Liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) erstellen.
+   >Wenn Sie keine Listen sehen, lernen Sie [wie Sie eine Suchbegriffs-Liste](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) erstellen.
 
 Süß! Sie werden jetzt nur noch Suchbegriffe auf dieser Liste betrachten.
 
@@ -37,7 +37,7 @@ Süß! Sie werden jetzt nur noch Suchbegriffe auf dieser Liste betrachten.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Die orangefarbenen Quadrate definieren Ihre oberen (linken) und unteren (rechten) Grenzen. Der Filter funktioniert mit dem Suchbegriff [SERP-Rang](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   Die orangefarbenen Quadrate definieren Ihre oberen (linken) und unteren (rechten) Grenzen. Der Filter funktioniert mit dem Suchbegriff [SERP-Rang](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Schieben Sie die orangefarbenen Quadrate nach links/rechts, um die Ergebnisse zu filtern.
 
@@ -54,6 +54,3 @@ Die gesuchten Suchbegriffe finden Sie auch im Suchfeld oben rechts.
 1. Geben Sie Ihren Suchbegriff in das Suchfeld ein.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   Herzlichen Glückwunsch! Sie sind jetzt ein Suchbegriff filtern Samurai Krieger!
-
