@@ -3,9 +3,9 @@ unique-page-id: 2949206
 description: SEO - Importieren von Suchbegriffen mit CSV - Marketing Docs - Produktdokumentation
 title: SEO - Importieren von Suchbegriffen mit CSV
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # SEO - Importieren von Suchbegriffen mit einer CSV {#seo-importing-keywords-with-a-csv}
 
-1. Sie können [Suchbegriffe](seo-add-keywords.md) manuell hinzufügen, [Suchbegriffvorschläge abrufen](seo-get-suggested-keywords.md) und sogar Suchbegriffe aus einer CSV-Datei importieren. Hier sehen Sie, wie Sie den Import durchführen.
+1. Sie können [Suchbegriffe](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuell hinzufügen, [Suchbegriffvorschläge abrufen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) und sogar Suchbegriffe aus einer CSV-Datei importieren. Hier sehen Sie, wie Sie den Import durchführen.
+
 1. Gehen Sie zum Abschnitt **Suchbegriffe**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
@@ -34,7 +35,7 @@ ht-degree: 0%
    >
    >Die Importbeschränkungen variieren je nach Abonnement. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter.
 
-1. Klicken Sie auf **IMPORT**.
+1. Klicken Sie auf **Import**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -44,13 +45,8 @@ ht-degree: 0%
 
    Es kann einige Minuten dauern, bis alle mit jedem Suchbegriff verknüpften Daten geladen sind. Meditation über den Sinn des Lebens.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Die Suchbegriffe (Ansicht der Zusammenfassung)](seo-understanding-keywords.md)
-   >    * [Suchbegriffe aus einer Liste Hinzufügen/entfernen](seo-add-remove-keywords-from-a-list.md)
-
+   >* [Die Suchbegriffe (Ansicht der Zusammenfassung)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Suchbegriffe aus einer Liste Hinzufügen/entfernen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
