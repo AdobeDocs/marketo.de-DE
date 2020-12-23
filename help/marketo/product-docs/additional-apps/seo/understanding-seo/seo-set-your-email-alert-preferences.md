@@ -3,9 +3,9 @@ unique-page-id: 2949196
 description: SEO - Voreinstellungen für E-Mail-Warnungen festlegen - Marketing Docs - Produktdokumentation
 title: SEO - Voreinstellungen für E-Mail-Warnungen festlegen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Sie können Ihre E-Mail-Voreinstellungen anpassen, um zu bestimmen, wann Sie üb
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Geben Sie an, worüber Sie per E-Mail benachrichtigt werden möchten.
+1. Geben Sie an, worüber Sie per E-Mail benachrichtigt werden möchten, und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)
-
-   Groovy. Ihre Voreinstellungen werden automatisch gespeichert.
-
