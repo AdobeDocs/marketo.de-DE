@@ -3,7 +3,7 @@ unique-page-id: 2949238
 description: SEO - Suchbegriffsergebnisse in der Suchmaschine - Marketing-Dokumente - Produktdokumentation
 title: SEO - Suchbegriffsergebnisse der Ansicht in der Suchmaschine
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Wenn Sie sehen möchten, wie Ihr Inhalt in einer Suchmaschine aussieht, haben wi
 1. Fantastisch! Sie sollten nun die Suchergebnisse für Ihren Suchbegriff in einem neuen Fenster sehen.
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-
