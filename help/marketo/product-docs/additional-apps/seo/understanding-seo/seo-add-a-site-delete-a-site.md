@@ -3,9 +3,9 @@ unique-page-id: 2949194
 description: SEO - Hinzufügen einer Site/Löschen einer Site - Marketing Docs - Produktdokumentation
 title: SEO - Hinzufügen einer Site/Löschen einer Site
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für die Seiten Ihrer Site relevant sind, müssen Sie hier die URL der Site definieren.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
@@ -39,7 +37,7 @@ Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für d
 
    >[!TIP]
    >
-   >Sie können auch eine ** ****Blog-URL** hinzufügen, wenn Sie eine haben.
+   >Sie können auch eine **Blog-URL** hinzufügen, wenn Sie eine haben.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -62,10 +60,11 @@ Wenn Sie mehr als eine Site verfolgen, können Sie auch eine Site löschen, die 
 1. Klicken Sie auf **Löschen**.
 
    ![](assets/seven.png)
-Bestätigen Sie, dass Sie löschen möchten.
+
+1. Bestätigen Sie, dass **Löschen**.
+
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Sie können eine Site nur löschen, wenn Sie mehrere Sites haben. Wenn Sie nur eine haben, können Sie eine Rücksetzung durchführen, indem Sie die Site auswählen und auf **Zurücksetzen** klicken. Wenn Sie eine Site zurücksetzen, werden *alle Site-Daten* gelöscht und die Site neu erstellt.
-
+   >Sie können eine Site nur löschen, wenn Sie mehrere Sites haben. Wenn Sie nur eine haben, können Sie eine Rücksetzung durchführen, indem Sie die Site auswählen und auf **Zurücksetzen** klicken. Wenn Sie eine Site zurücksetzen, werden _alle Site-Daten_ gelöscht und die Site neu erstellt.
