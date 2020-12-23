@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: Erläuterungen zum SEO-Dashboard - SEO Snapshot - Marketo Docs - Produktdokumentation
 title: Das SEO-Dashboard - SEO Snapshot
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Verwenden Sie das Dashboard, um eine Ansicht auf hoher Ebene darüber zu erhalten, wie der Suchbegriffranking die Trends darstellt und wie gut Ihre Site für SEO optimiert ist.
 
-Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden Sie den Abschnitt [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) dieses Dashboards.
+Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden Sie den Abschnitt [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) dieses Dashboards.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Keyword Rank Summary {#keyword-rank-summary}
 
-Dieser Abschnitt zeigt Ihnen, wie Ihre Site nach den [Suchbegriffen, die Sie als Ziel auswählen, eingestuft wird.](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+Dieser Abschnitt zeigt Ihnen, wie Ihre Site nach den [Suchbegriffen, die Sie als Ziel auswählen, eingestuft wird.](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Dieser Abschnitt zeigt Ihnen, wie Ihre Site nach den [Suchbegriffen, die Sie als
 
 >[!TIP]
 >
->Sie können auch die Leistung einer [bestimmten Liste](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) von Suchbegriffen Ansicht haben. Klicken Sie auf die Dropdownliste und wählen Sie aus, welches Sie interessieren.
+>Sie können auch die Leistung einer [bestimmten Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) von Suchbegriffen Ansicht haben. Klicken Sie auf die Dropdownliste und wählen Sie aus, welches Sie interessieren.
 
 Zieh dich an! Lass uns fortfahren.
 
@@ -63,9 +63,4 @@ Einfach, nicht wahr? Schauen wir uns nun den Recommendations-Abschnitt dieses Da
 
 >[!MORELIKETHIS]
 >
->* [Das Dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[Das Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
