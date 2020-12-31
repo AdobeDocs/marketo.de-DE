@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Websegmente - Marketing-Dokumente - Produktdokumentation
 title: Websegmente
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2024'
 ht-degree: 0%
 
 ---
@@ -107,32 +107,26 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >
 >1. Alle Filter verwenden (1, 2 und 3...)
 >1. Alle Filter verwenden (1 oder 2 oder 3...)
->1. Erweiterte Filter (mit und/oder Ausdrücken)
+>1. Filter (mit und/oder Ausbruch)
 
    >
    >    
-   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
-   >
-   >    
+   Mit erweiterten Filtern können Sie die Segmentbedingung. oder die Filternummern durch &quot;und&quot;und &quot;ein&quot;.
+
    * 1 und 2 und 3
-   >    * 1 oder 2 oder 3
+   * 1 oder 2 oder 3
 
-   >
-   Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
+   Das Mische von &quot;und&quot;und &quot;oder&quot;Abb. Kammern, um die Logical zu σ. z. B. &quot;1 oder 3&quot; muss wie definiert sein:
 
    * 1 und (2 oder 3)
    * (1 und 2) oder 3
 
-   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
+   Verschachtelte Klammern werden für eine neue Logik, z.
 
    * (1 und 2) oder (3 und 4)
    * 1 und 2 oder 3 und 4)
 
-   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
-
-
-
-
+   Überprüfen Sie Ihre Logik nach Einfügen, löschen oder Neuanordnen.
 
 
 Ziehen Sie Segmentattribute aus der rechten Spalte in den Segmenteditor auf der linken Seite:
@@ -157,8 +151,7 @@ Nachdem das Land hinzugefügt wurde, können Sie auch das Bundesland, den Ort un
 * **Städte**  - Geben Sie die Stadt bzw. Städte ein, die Sie einbeziehen möchten. Verwenden Sie ein Semikolon zwischen Städten.
 
 >[!TIP]
->
->**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert als zusätzliche Option in jedem Feld. Potenzieller Kunde müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in den einzelnen Feldern ausgewählt wurden, um sich für das Segment qualifizieren zu können. (Potenzieller Kunde können beispielsweise aus den USA kommen. *oder* aus der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Potenzieller Kunde müssen beispielsweise sowohl aus den USA als auch aus der Verteidigungsindustrie kommen.) In jedem Segmentierungsfeld kann jedes separate Profil je nach ausgewählter Segmentbedingung sowohl als &quot;AND&quot;als auch als &quot;OR&quot;funktionieren.
+**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert als zusätzliche Option in jedem Feld. Potenzieller Kunde müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in den einzelnen Feldern ausgewählt wurden, um sich für das Segment qualifizieren zu können. (Potenzieller Kunde können beispielsweise aus den USA kommen. *oder* aus der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Potenzieller Kunde müssen beispielsweise sowohl aus den USA als auch aus der Verteidigungsindustrie kommen.) In jedem Segmentierungsfeld kann jedes separate Profil je nach ausgewählter Segmentbedingung sowohl als &quot;AND&quot;als auch als &quot;OR&quot;funktionieren.
 
 **** IndustriesMarkieren Sie unter  **Profil** Segmentationabschnitt das Kästchen neben  **Branche**.
 
@@ -195,8 +188,7 @@ Wählen Sie aus einer [Liste für ein benanntes Konto](../../../product-docs/web
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
->
->Die Nummer in den Klammern neben dem Namen der Liste des benannten Kontos wird als Indexverweis für die Liste für die Web-Personalisierung [Read-API](http://developers.marketo.com/documentation/websites/rtp-js-api/) verwendet.
+Die Nummer in den Klammern neben dem Namen der Liste des benannten Kontos wird als Indexverweis für die Liste für die Web-Personalisierung [Read-API](http://developers.marketo.com/documentation/websites/rtp-js-api/) verwendet.
 
 **ISP ausschließen**
 
@@ -215,10 +207,8 @@ Wählen Sie &quot;Datenbank&quot;und wählen Sie aus der Dropdownliste ein Daten
 Sie können Personendatenfelder zu Kontoeinstellungen > Datenbank hinzufügen oder entfernen.
 
 >[!TIP]
->
->Erstellen Sie Ihre Segmentkriterien gemäß allen Personendatenfeldern von Marketing zu Personen, wie z. B. Auftragsbezeichnung. Ergebnis; Rolle; etc...
->
->z. &quot;Auftragstitel gleich CMO&quot;und &quot;Ergebnis kleiner als oder gleich 50&quot;
+Erstellen Sie Ihre Segmentkriterien gemäß allen Personendatenfeldern von Marketing zu Personen, wie z. B. Auftragsbezeichnung. Ergebnis; Rolle; etc...
+z. &quot;Auftragstitel gleich CMO&quot;und &quot;Ergebnis kleiner als oder gleich 50&quot;
 
 **Marketo E-Mail-** KampagnenSegment und Personalisieren Sie Kampagnen per E-Mail-Verweisung von einem Besucher, der auf eine Marketing-E-Mail klickt und auf die Site gelangt. Segmentieren nach Marketo-Programm oder Kampagne-Name und führen Sie die Konversation von E-Mail zu Web. Wählen Sie das + aus, um Felder aus der Dropdownliste hinzuzufügen.
 
@@ -299,8 +289,7 @@ hinzufügen Sie den zu Zielgruppe Ereignis-Wert. z.B. aus externen Datenquellen.
 Web-Personalisierungs-API-Aufruf [Lesen Sie hier mehr darüber.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
->
->**Verwendung von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einschließen möchten, der etwas darin enthält, z. B. &quot;[google.com](http://google.com)&quot; oder &quot;search term product&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen - dieser kleine Kerl* - auf jedem Ende eingefügt werden. Daher sollte alles, was von [google.com](http://google.com) kommt, als * [google.com](http://google.com)* eingegeben werden.
+**Verwendung von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einschließen möchten, der etwas darin enthält, z. B. &quot;[google.com](http://google.com)&quot; oder &quot;search term product&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen - dieser kleine Kerl* - auf jedem Ende eingefügt werden. Daher sollte alles, was von [google.com](http://google.com) kommt, als * [google.com](http://google.com)* eingegeben werden.
 
 ## Segmente bearbeiten {#edit-segments}
 
