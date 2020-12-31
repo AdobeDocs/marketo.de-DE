@@ -108,27 +108,23 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >1. Alle Filter verwenden (1, 2 und 3...)
 >1. Alle Filter verwenden (1 oder 2 oder 3...)
 >1. Erweiterte Filter (mit und/oder Ausdrücken)
-
-   >
-   >    
-   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
-   >
-   >    
-   * 1 und 2 und 3
-   >    * 1 oder 2 oder 3
-
-   >
-   Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
-
-   * 1 und (2 oder 3)
-   * (1 und 2) oder 3
-
-   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
-
-   * (1 und 2) oder (3 und 4)
-   * 1 und 2 oder 3 und 4)
-
-   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
+>
+>    Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
+>
+>    * 1 und 2 und 3
+>    * 1 oder 2 oder 3
+>
+>    Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
+>
+>    * 1 und (2 oder 3)
+>    * (1 und 2) oder 3
+>
+>    Verschachtelte Klammern werden für eine kompliziertere Logik, z.
+>
+>    * (1 und 2) oder (3 und 4)
+>    * 1 und 2 oder 3 und 4)
+>
+>    Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 
 
