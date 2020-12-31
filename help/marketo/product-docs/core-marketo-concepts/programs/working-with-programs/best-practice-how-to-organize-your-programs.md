@@ -3,7 +3,7 @@ unique-page-id: 6848705
 description: Best Practice - Organisieren Ihrer Programme - Marketing Docs - Produktdokumentation
 title: Best Practice - Organisieren von Programmen
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -28,39 +28,28 @@ In Marketing-Aktivitäten sollten Sie Ordner verwenden, um Ihre Programm zu orga
 >**Beispiel**
 >
 >* Aktive Marketing-Programme
->
->    * E-Mails
->    * Ereignisse
->
->        * Live-Ereignisse/Roadshows
->        * Diashows
->        * Webinare
->* Newsletter
->   * Krankenpflege
->   * Webinhalt
->   * Webformulare
+   >   * E-Mails
+   >   * Ereignisse
+      >      * Live-Ereignisse/Roadshows
+      >      * Diashows
+      >      * Webinare
+   >   * Newsletter
+   >   * Krankenpflege
+   >   * Webinhalt
+   >   * Webformulare
 >* Lernen
 >* operativ
->
->   * Lebenszyklus
->   * Bewertung
->   * Data Management
+   >   * Lebenszyklus
+   >   * Bewertung
+   >   * Data Management
 >* Sales Insight
->
->   * Interessante Momente
->   * E-Mails zum Vertrieb
->   * Beantragte Kampagnen für Verkäufe
->* **Archivieren**
->
->   * Ereignisse archivieren
->
->      * Archiv 2012
->      * Archiv 2013
-
-
-
-
-
+   >   * Interessante Momente
+   >   * E-Mails zum Vertrieb
+   >   * Beantragte Kampagnen für Verkäufe
+>* **Archiv**
+   >   * Ereignisse archivieren
+      >      * Archiv 2012
+      >      * Archiv 2013
 
 
 Jeder der im Beispiel erwähnten Ordner ist ein Ordner. Beachten Sie, wie sie alle eindeutig benannt sind. Sie können Duplikat- (einfachere) Ordnernamen INSIDE-Programm haben, aber nicht im Stammverzeichnis des Baumes.
@@ -69,7 +58,7 @@ Jeder der im Beispiel erwähnten Ordner ist ein Ordner. Beachten Sie, wie sie al
 >
 >Der Ordner &quot;Archiv&quot;ist eine spezielle Ordnerart, die zum Entfernen von Elementen aus ausgewählten Listen sowie Berichte entwickelt wurde. Dadurch wird Ihr System schneller ausgeführt. Erfahren Sie mehr über Ordner[.](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
 
-Sie können je nach Bedarf weitere Ordner hinzufügen. Denken Sie daran, dass zukünftige Generationen von Marketingexperten in Ihrer Firma mit Ihren Entscheidungen darüber leben werden, wie Sie Dinge benennen/organisieren.
+Sie können je nach Bedarf weitere Ordner hinzufügen. Denken Sie daran, dass zukünftige Generationen von Marketingexperten in Ihrer Firma mit Ihren Entscheidungen darüber, wie Sie Dinge benennen/organisieren, leben werden.
 
 ## Benennungsschemata {#naming-schemes}
 
