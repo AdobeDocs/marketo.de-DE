@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Websegmente - Marketing-Dokumente - Produktdokumentation
 title: Websegmente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -90,16 +90,14 @@ Klicken Sie auf der Seite **Segmente** unter dem Diagramm auf **Neu erstellen**.
 
 Definieren Sie allgemeine Parameter für Ihr Segment:
 
-1. &#x200B;
+* **Name:**  Benennen Sie Ihr Segment.
+* **Beschreibung:**  Geben Sie eine detailliertere Erläuterung der Segmentkriterien ein.
+* **Domänen:**  Wählen Sie die Domäne(n) aus, die Sie in das Segment einbeziehen möchten.
+* **Segmentregellogik:**  Wählen Sie eine UND/ODER-Logik aus, um jedes Segmentierungsattribut zu erstellen
+* **Zeitpunkt:** Definieren Sie die Ebene, in der der Besucher in Ihrer Kampagne engagiert sein soll.
 
-   * **Name:**  Benennen Sie Ihr Segment.
-   * **Beschreibung:**  Geben Sie eine detailliertere Erläuterung der Segmentkriterien ein.
-   * **Domänen:**  Wählen Sie die Domäne(n) aus, die Sie in das Segment einbeziehen möchten.
-   * **Segmentregellogik:**  Wählen Sie eine UND/ODER-Logik, um jedes Segmentierungsattribut zu erstellen
-   * **Zeit:** Definieren Sie den Grad der Besucher-Interaktion, den Sie in Ihrer Kampagne wünschen
-
-      * **Bei Eingang**: Interagieren vom Besucher kommt auf die Website
-      * **Nach dem 1. - 9. Klicken**: Besucher nach einer bestimmten Anzahl von Klicks auf die Website einbinden
+   * **Bei Eingang**: Interagieren vom Besucher kommt auf die Website
+   * **Nach dem 1. - 9. Klicken**: Besucher nach einer bestimmten Anzahl von Klicks auf die Website einbinden
 
 >[!TIP]
 >
@@ -110,21 +108,28 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >1. Alle Filter verwenden (1, 2 und 3...)
 >1. Alle Filter verwenden (1 oder 2 oder 3...)
 >1. Erweiterte Filter (mit und/oder Ausdrücken)
->    1. &#x200B;
->
->      Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
->      * 1 und 2 und 3
->      * 1 oder 2 oder 3
->
->      Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
->      * 1 und (2 oder 3)
->      * (1 und 2) oder 3
->
->      Verschachtelte Klammern werden für eine kompliziertere Logik, z.
->      * (1 und 2) oder (3 und 4)
->      * 1 und 2 oder 3 und 4)
->
->      Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
+
+   >
+   >    
+   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
+   >
+   >    
+   * 1 und 2 und 3
+   >    * 1 oder 2 oder 3
+
+   >
+   Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
+
+   * 1 und (2 oder 3)
+   * (1 und 2) oder 3
+
+   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
+
+   * (1 und 2) oder (3 und 4)
+   * 1 und 2 oder 3 und 4)
+
+   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
+
 
 
 
@@ -138,12 +143,12 @@ Ziehen Sie Segmentattribute aus der rechten Spalte in den Segmenteditor auf der 
 
 **Ort**
 
-Ziehen Sie **Position **in den Segment-Editor.
+Ziehen Sie **Position** in den Segment-Editor.
 
 * Wählen Sie aus den folgenden Parametern:
 
-   * **Include **- Wählen Sie aus, ob die Kampagne einen Ort einschließen oder ausschließen soll.
-   * **Wählen Sie das hinzuzufügende**   Land aus. Wählen Sie aus der Dropdownliste das Land aus, das Sie in das Segment einbeziehen möchten. Der Ländername wird rechts angezeigt. Sie können mehrere Länder auswählen.
+   * **Einbeziehen** : Wählen Sie aus, ob die Kampagne einen Ort einschließen oder ausschließen soll.
+   * **Wählen Sie das hinzuzufügende**  Land aus. Wählen Sie aus der Dropdownliste das Land aus, das Sie in das Segment einbeziehen möchten. Der Ländername wird rechts angezeigt. Sie können mehrere Länder auswählen.
 
 Nachdem das Land hinzugefügt wurde, können Sie auch das Bundesland, den Ort und die Postleitzahl des Segments angeben.
 
@@ -153,7 +158,7 @@ Nachdem das Land hinzugefügt wurde, können Sie auch das Bundesland, den Ort un
 
 >[!TIP]
 >
->**Welche Segmentbedingungen wähle ich? &quot;AND&quot;oder &quot;OR&quot;? **OR fungiert als zusätzliche Option in jedem Feld. Potenzieller Kunde müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in den einzelnen Feldern ausgewählt wurden, um sich für das Segment qualifizieren zu können. (Potenzieller Kunde können beispielsweise aus den USA kommen. *oder* aus der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Potenzieller Kunde müssen beispielsweise sowohl aus den USA als auch aus der Verteidigungsindustrie kommen.) In jedem Segmentierungsfeld kann jedes separate Profil je nach ausgewählter Segmentbedingung sowohl als &quot;AND&quot;als auch als &quot;OR&quot;funktionieren.
+>**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert als zusätzliche Option in jedem Feld. Potenzieller Kunde müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in den einzelnen Feldern ausgewählt wurden, um sich für das Segment qualifizieren zu können. (Potenzieller Kunde können beispielsweise aus den USA kommen. *oder* aus der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Potenzieller Kunde müssen beispielsweise sowohl aus den USA als auch aus der Verteidigungsindustrie kommen.) In jedem Segmentierungsfeld kann jedes separate Profil je nach ausgewählter Segmentbedingung sowohl als &quot;AND&quot;als auch als &quot;OR&quot;funktionieren.
 
 **** IndustriesMarkieren Sie unter  **Profil** Segmentationabschnitt das Kästchen neben  **Branche**.
 
@@ -178,12 +183,10 @@ Markieren Sie unter dem Abschnitt **Profil-Segmentierung** das Kontrollkästchen
 
 **Organisationen**
 
-* 
+* **stammt aus diesen Firmen (spezifische Bezeichnungen)**
 
-   * **stammt aus diesen Firmen (spezifische Bezeichnungen)**
-
-      * Wählen Sie Firma zu Zielgruppe aus der Dropdownliste Firma zum Hinzufügen auswählen.
-      * Sie können den exakten Unternehmensnamen eingeben, den Sie zur Zielgruppe verwenden möchten. *Es wird immer empfohlen, Listen mit benannten Konten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).**
+   * Wählen Sie Firma zu Zielgruppe aus der Dropdownliste Firma zum Hinzufügen auswählen.
+   * Sie können den exakten Unternehmensnamen eingeben, den Sie zur Zielgruppe verwenden möchten. *Es wird immer empfohlen, Listen mit benannten Konten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).**
 
 **Liste für benanntes Konto**
 
@@ -225,10 +228,8 @@ Sie können Personendatenfelder zu Kontoeinstellungen > Datenbank hinzufügen od
 
 Definieren Sie das Segment entsprechend dem Status des Potenzieller Kunden: bekannt oder anonym.
 
-* 
-
-   * Bekannt - Wählen Sie diese Option aus dem Dropdownfeld für bekannte Besucher. Ein Besucher ist bekannt, wenn er ein Formular auf Ihrer Website sendet und auf der Seite &quot;Web-Personalisierung - Personen&quot;angezeigt wird.
-   * Anonym: Wählen Sie diese Option aus dem Dropdownfeld für anonyme Besucher.
+* Bekannt - Wählen Sie diese Option aus dem Dropdownfeld für bekannte Besucher. Ein Besucher ist bekannt, wenn er ein Formular auf Ihrer Website sendet und auf der Seite &quot;Web-Personalisierung - Personen&quot;angezeigt wird.
+* Anonym: Wählen Sie diese Option aus dem Dropdownfeld für anonyme Besucher.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
@@ -236,41 +237,29 @@ Definieren Sie das Segment entsprechend dem Status des Potenzieller Kunden: beka
 
 **Besuche -** Definieren Sie Ihr Segment entsprechend dem Verhalten des Besuchers oder der Identifizierung.
 
-* 
+* Anzahl der Besuche: Wählen Sie diese Option aus dem Dropdownfeld, um die Anzahl der Besuche für Potenzieller Kunde auf der Website anzugeben.
 
-   * Anzahl der Besuche: Wählen Sie diese Option aus dem Dropdownfeld, um die Anzahl der Besuche für Potenzieller Kunde auf der Website anzugeben.
+   * Wählen Sie &quot;Gleich&quot;, &quot;Gleich&quot;oder &quot;Größer als&quot;oder &quot;Gleich&quot;oder &quot;Kleiner als&quot;aus dem Dropdownfeld.
 
-      * Wählen Sie &quot;Gleich&quot;, &quot;Gleich&quot;oder &quot;Größer als&quot;oder &quot;Gleich&quot;oder &quot;Kleiner als&quot;aus dem Dropdownfeld.
-   * Spezifische Besuche: Wählen Sie diese Option aus dem Dropdownfeld aus, um einen bestimmten Besucher anzugeben.
+* Spezifische Besuche: Wählen Sie diese Option aus dem Dropdownfeld aus, um einen bestimmten Besucher anzugeben.
 
-      * Geben Sie im Textfeld rechts die Besucher-Nummer ein, die Sie verfolgen möchten. Die eindeutige Web-Personalisierung-Besucher-ID wird angezeigt, wenn Sie auf einen Besucher (auf der Seite &quot;Besucher&quot;) klicken, und die Kampagne &quot;Festlegen&quot;auf der rechten Seite. Die Besucher-ID befindet sich im Abschnitt &quot;Erweiterte Einstellungen&quot;. Die Besucher-ID befindet sich auch in der URL (z. B. BESUCHER=JZZIFJNUI60PZ8Y97BHTY9BL8PKWS).
-
+   * Geben Sie im Textfeld rechts die Besucher-Nummer ein, die Sie verfolgen möchten. Die eindeutige Web-Personalisierung-Besucher-ID wird angezeigt, wenn Sie auf einen Besucher (auf der Seite &quot;Besucher&quot;) klicken, und die Kampagne &quot;Festlegen&quot;auf der rechten Seite. Die Besucher-ID befindet sich im Abschnitt &quot;Erweiterte Einstellungen&quot;. Die Besucher-ID befindet sich auch in der URL (z. B. BESUCHER=JZZIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Suchbegriffe**  - Definieren Sie ein Segment entsprechend den Suchbegriffen eines Potenzieller Kunden.
 
-* 
-
-   * Der gesuchte Besucher - Wählen Sie aus der Dropdown-Liste die Begriffe, die Sie verfolgen möchten, aus der Suche Ihrer Besucher oder fügen Sie Ihre eigenen Suchbegriffe hinzu. (Der Platzhalter * muss nicht in den Suchbegriffen verwendet werden, da er standardmäßig so eingestellt ist, dass er Sätze enthält, die den Suchbegriff enthalten.)
+* Der gesuchte Besucher - Wählen Sie aus der Dropdown-Liste die Begriffe, die Sie verfolgen möchten, aus der Suche Ihrer Besucher oder fügen Sie Ihre eigenen Suchbegriffe hinzu. (Der Platzhalter * muss nicht in den Suchbegriffen verwendet werden, da er standardmäßig so eingestellt ist, dass er Sätze enthält, die den Suchbegriff enthalten.)
 
 **Verweise** : Hinzufügen URLs, auf die der Besucher verwiesen wurde.
 
-* 
-
-   * Wählen Sie die hinzuzufügenden Verweise aus - Wählen Sie aus der Dropdown-Liste die Verweisseiten aus, die Sie verfolgen möchten, oder fügen Sie Ihre eigene Verweise hinzu. Nach der Auswahl werden die Verweise im Feld unten angezeigt. (Die Verwendung von * als Platzhalter ist zulässig)
+* Wählen Sie die hinzuzufügenden Verweise aus - Wählen Sie aus der Dropdown-Liste die Verweisseiten aus, die Sie verfolgen möchten, oder fügen Sie Ihre eigene Verweise hinzu. Nach der Auswahl werden die Verweise im Feld unten angezeigt. (Die Verwendung von * als Platzhalter ist zulässig)
 
 **Seiten**  einschließen - Verfolgen Sie spezifische Seiten, die Potenzieller Kunde auf Ihrer Website besuchen.
 
-* 
-
-   * URL stimmt überein - Hinzufügen die URL der Webseiten, die Sie verfolgen möchten. Sie können mehrere URLs hinzufügen, indem Sie sie durch ein Semikolon trennen. (Die Verwendung von * als Platzhalter ist zulässig).
+* URL stimmt überein - Hinzufügen die URL der Webseiten, die Sie verfolgen möchten. Sie können mehrere URLs hinzufügen, indem Sie sie durch ein Semikolon trennen. (Die Verwendung von * als Platzhalter ist zulässig).
 
 **Seiten**  ausschließen: Schließen Sie bestimmte Seiten aus, die im Segment nicht übereinstimmen sollen. (Die Verwendung von * als Platzhalter ist zulässig).
 
-* 
-
-   * 
-
-      * Die URL stimmt nicht überein - Hinzufügen die URL bestimmter Webseiten, die von der Verfolgung ausgeschlossen werden sollen. Sie können mehrere URLs hinzufügen, indem Sie sie mit einem Semikolon trennen
+* Die URL stimmt nicht überein - Hinzufügen die URL bestimmter Webseiten, die von der Verfolgung ausgeschlossen werden sollen. Sie können mehrere URLs hinzufügen, indem Sie sie mit einem Semikolon trennen
 
 ![](assets/segment-extra.png)
 
@@ -282,10 +271,11 @@ Ziehen Sie das Mobile OS in den Segment-Editor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Besucher **
+* **Besucher**
+
    **Mobile OS** : Wählen Sie aus dem Dropdownfeld aus einem oder mehreren aufgelisteten Mobilbetriebssystemen aus. Das ausgewählte Mobilbetriebssystem wird unten angezeigt.
 
-   * Der Besucher verwendet ein beliebiges Mobilgerät ***
+   * Der Besucher verwendet ein beliebiges Mobilgerät
    * Der Besucher verwendet dieses spezielle Gerät/Betriebssystem
    * Der Besucher verwendet kein Mobilgerät
 
@@ -295,10 +285,8 @@ Ziehen Sie das Mobile OS in den Segment-Editor
 
 Zielgruppe Besucher, der bestimmte Browsertypen und/oder -versionen verwendet.
 
-* 
-
-   * Browsertyp: Wählen Sie aus dem Dropdownfeld einen oder mehrere Internetbrowser aus. Die ausgewählten Browser werden unten angezeigt.
-   * Browserversion - Geben Sie die Browserversion ein, die Sie dem Segment hinzufügen möchten. Sie können mehrere Versionen auswählen, indem Sie sie jeweils durch ein Komma trennen. (Die Verwendung von * als Platzhalter ist zulässig).
+* Browsertyp: Wählen Sie aus dem Dropdownfeld einen oder mehrere Internetbrowser aus. Die ausgewählten Browser werden unten angezeigt.
+* Browserversion - Geben Sie die Browserversion ein, die Sie dem Segment hinzufügen möchten. Sie können mehrere Versionen auswählen, indem Sie sie jeweils durch ein Komma trennen. (Die Verwendung von * als Platzhalter ist zulässig).
 
 ### API {#api}
 
@@ -312,7 +300,7 @@ Web-Personalisierungs-API-Aufruf [Lesen Sie hier mehr darüber.](http://develope
 
 >[!TIP]
 >
->**Verwenden von Platzhaltern - **Wenn Sie einen Suchbegriff oder eine URL einschließen möchten, der etwas darin enthält, z. B. &quot;[google.com](http://google.com)&quot;oder &quot;search term product&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen - dieser kleine Kerl* - auf jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](http://google.com) kommt, als * [google.com](http://google.com)* eingegeben werden.
+>**Verwendung von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einschließen möchten, der etwas darin enthält, z. B. &quot;[google.com](http://google.com)&quot; oder &quot;search term product&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen - dieser kleine Kerl* - auf jedem Ende eingefügt werden. Daher sollte alles, was von [google.com](http://google.com) kommt, als * [google.com](http://google.com)* eingegeben werden.
 
 ## Segmente bearbeiten {#edit-segments}
 
@@ -326,24 +314,22 @@ Sie können ein Segment bearbeiten, das erstellt wurde.
 1. Wenden Sie alle Änderungen oder Änderungen an, die Sie am Segment vornehmen möchten.
 1. Klicken Sie auf **Speichern**.
 
-## Segmentelöschen {#delete-segments}
+## Segmente {#delete-segments} löschen
 
 Sie können von Ihnen erstellte Segmente löschen.
 
 1. Wählen Sie oben auf der Seite **Segmente** ein Segment aus.
-1. Klicken Sie auf das Löschsymbol ( ![](assets/segment-delete.png) ) des Segments** **Sie möchten es löschen.
+1. Klicken Sie auf das Löschsymbol ( ![](assets/segment-delete.png)) des Segments, das Sie löschen möchten.
 1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, dass Sie im Begriff sind, das **Segment** zu löschen.
 
 >[!NOTE]
->
->Ein Segment, das mit einer Kampagne verknüpft ist, kann nicht gelöscht werden. Zunächst müssen Sie die Kampagne und dann das Segment löschen.
+Ein Segment, das mit einer Kampagne verknüpft ist, kann nicht gelöscht werden. Zunächst müssen Sie die Kampagne und dann das Segment löschen.
 
 Großartig! Nachdem Sie jetzt den Segmentabschnitt verstanden haben, sollten wir uns mit Kampagnen beschäftigen.
 
 >[!MORELIKETHIS]
->
->* [Ein einfaches Websegment erstellen](create-a-basic-web-segment.md)
->* [Eine neue Dialogfeld-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Eine neue Web-Kampagne in einer Zone erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Neue Widget-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Ein einfaches Websegment erstellen](create-a-basic-web-segment.md)
+* [Eine neue Dialogfeld-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Eine neue Web-Kampagne in einer Zone erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Neue Widget-Web-Kampagne erstellen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
