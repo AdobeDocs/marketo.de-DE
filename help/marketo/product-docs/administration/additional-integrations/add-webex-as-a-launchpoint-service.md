@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: hinzufügen WebEx als LaunchPoint Service - Marketing Docs - Produktdokumentation
 title: hinzufügen von WebEx als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Marketo verwaltet Ihre WebEx-Webinarregistrierung und -Teilnahme.
 
 >[!NOTE]
 >
->**Erinnerung**
->
 >Für diesen Schritt ist ein bestehendes Abonnement zu WebEx- und Verwaltungsrechten erforderlich. Legen Sie die folgenden Einstellungen fest: Benutzername, Kennwort und Site-Name.
 
 >[!NOTE]
 >
 >Der Site-Name befindet sich am Ende der URL, die zum Anmelden bei WebEx verwendet wird. Beispiel:
 >
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=**mycompa**`**ny**
+>`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
 >Vorsicht: Geben Sie nicht die gesamte URL in dieses Feld ein; nur den Site-Namen eingeben!
 
@@ -49,7 +47,7 @@ Marketo verwaltet Ihre WebEx-Webinarregistrierung und -Teilnahme.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Schließen Sie den Prozess ab, indem Sie Ihren** Site-Namen** eingeben und dann auf **Erstellen** klicken.
+1. Schließen Sie den Prozess ab, indem Sie **Site-Name** eingeben und dann auf **Erstellen** klicken.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
@@ -59,5 +57,4 @@ Marketo verwaltet Ihre WebEx-Webinarregistrierung und -Teilnahme.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie mit WebEx [ein Ereignis erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-
+>Erfahren Sie, wie Sie mit WebEx [ein Ereignis erstellen.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
