@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation - Marketo Docs - Produktdokumentation
 title: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 
 >[!NOTE]
 >
->**Beispiel**
->
->**Auslöser**: Besuche Webseite, Webseite ist Preisseite\
->**Fluss**: Change Score +10 und Interest Moment,  **Web**: Angezeigte Preisseite
+>**Trigger**: Besuche Webseite, Webseite ist Preisseite\
+>**Fluss**: Bewertung +10 und interessanter Moment ändern
+>**Web**: Angezeigte Preisseite
 >
 >Bei Munchkin V2 gibt eine anonyme Person, die die Preisseite besucht, nicht sofort die Kampagne ein. Sobald die anonyme Person bekannt wird, führen wir diese Kampagne auf sie. Sie wird:
 >
@@ -60,9 +59,6 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
    >
    >
 * Protokollieren Sie die Aktivität &quot;Neue Person&quot;, wie es heute der Fall ist
-
->
-
 
 
 ## Was passiert mit meinen intelligenten Listen, die bereits den Filter &quot;Ist anonym&quot;haben? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ Sehen Sie sich die folgenden Links an:
 
 ## Ich habe mehr Fragen! Wie kann ich sie beantworten? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Bitte kontaktieren Sie die [community](https://nation.marketo.com/welcome). Sie können auch eine E-Mail an [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) senden. Sie werden Ihre Fragen gerne beantworten.
+Bitte kontaktieren Sie die [community](https://nation.marketo.com/welcome). Sie können sich auch an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support) wenden. Sie werden sich freuen, Ihre Fragen zu beantworten.
