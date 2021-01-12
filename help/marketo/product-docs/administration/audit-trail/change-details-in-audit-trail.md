@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Details im Audit-Protokoll ändern - Marketing-Dokumente - Produktdokumentation
 title: Details im Prüfpfad ändern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '1901'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -101,11 +101,11 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>"Von E-Mail"zu "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[E-Mail-geschützt]</a>"aktualisiert</td> 
+   <td>Aktualisierung von "Von E-Mail"auf "newemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>"Antworten auf" wurde zu "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"aktualisiert.</td> 
+   <td>Aktualisierung von "Antwort auf"auf "newreplytoemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -620,7 +620,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Einrichten der SmartList ändern</td> 
-   <td>Zeigt eine Momentaufnahme des aktuellen Status an, einschließlich der Namen und Werte von Filtern und Auslösern</td> 
+   <td>Zeigt eine Momentaufnahme des aktuellen Status, einschließlich der Namen und Werte von Filtern und Triggern</td> 
   </tr> 
   <tr> 
    <td>Zeitplan der Kampagne ändern</td> 
@@ -657,7 +657,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Einrichten der SmartList ändern</td> 
-   <td>Zeigt eine Momentaufnahme des aktuellen Status an, einschließlich der Namen und Werte von Filtern und Auslösern </td> 
+   <td>Zeigt eine Momentaufnahme des aktuellen Status, einschließlich der Namen und Werte von Filtern und Triggern </td> 
   </tr> 
   <tr> 
    <td rowspan="11">Snippet</td> 
@@ -801,9 +801,5 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
 
 >[!MORELIKETHIS]
 >
->* [Filtern im Prüfpfad](filtering-in-audit-trail.md)
-
->
-
-
+>[Filtern im Prüfpfad](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
 
