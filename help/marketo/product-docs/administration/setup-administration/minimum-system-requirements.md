@@ -3,9 +3,9 @@ unique-page-id: 2359900
 description: Mindestsystemanforderungen - Marketing-Dokumente - Produktdokumentation
 title: Mindestsystemanforderungen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,10 @@ Wenn Sie sich fragen, was Sie brauchen, um sich anzumelden und Marketo zu verwen
 
 >[!NOTE]
 >
->iOS und Android werden noch nicht unterstützt.
+>iOS und Android werden derzeit nicht unterstützt.
 
 * Computer oder Laptop mit Windows, OS X oder Linux
 * Tastatur und Maus
 * Monitor mit einer Mindestauflösung von 1280 x 768
-* Aktuelle Browser finden Sie unter [Unterstützte Browser](supported-browsers.md)
+* Aktuelle Browser finden Sie unter [Unterstützte Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)
 * Internetverbindung
-
