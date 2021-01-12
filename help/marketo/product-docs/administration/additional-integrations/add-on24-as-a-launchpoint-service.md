@@ -3,7 +3,7 @@ unique-page-id: 7512276
 description: hinzufügen ON24 als LaunchPoint Service - Marketing Docs - Produktdokumentation
 title: hinzufügen ON24 als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -27,15 +27,15 @@ Marketo verwaltet Ihre ON24-Webinarregistrierung und -Teilnahme.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Wählen Sie **Neu** und dann **Neu** **Dienst**.
+1. Wählen Sie **Neu** und dann **Neuer Dienst**.
 
    ![](assets/on24-new-service.png)
 
-1. Geben Sie einen **Display** **Name** ein. Wählen Sie unter **Service** **ON24**.
+1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Service** **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Schließen Sie den Prozess ab, indem Sie **Client** **Schlüssel** und **Client** **ID** in **Einstellungen** eingeben und dann auf **Erstellen** klicken.
+1. Schließen Sie den Prozess ab, indem Sie **Client-Schlüssel** und **Client-ID** in **Einstellungen** eingeben und dann auf **Erstellen** klicken.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
@@ -45,5 +45,4 @@ Marketo verwaltet Ihre ON24-Webinarregistrierung und -Teilnahme.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie Ihr Webinar-Ereignis in ON24[ erstellen.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-
+>Erfahren Sie, wie Sie Ihr Webinar-Ereignis in ON24[ erstellen.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
