@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: hinzufügen Single-Sign-On für ein Portal - Marketing Docs - Produktdokumentation
 title: hinzufügen Einmal-Anmeldung bei einem Portal
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 
 Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgenden Schritte aus, um SAML zu aktivieren und zu konfigurieren.
 
-1. Gehen Sie zu **Admin **und klicken Sie auf **Single Sign-On**.
+1. Gehen Sie zu **Admin** und klicken Sie auf **Single-Sign-On**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Wenn **Single-Sign-On** unter **Admin** nicht angezeigt wird, wenden Sie sich an [`[email protected]`](http://mailto:support@marketo.com).
+   >Wenn **Single-Sign-On** unter **Admin** nicht angezeigt wird, wenden Sie sich an [[Marketing-Support]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klicken Sie unter dem Abschnitt **SAML-Einstellungen** auf **Bearbeiten**.
 
@@ -102,4 +102,3 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgend
    >[!NOTE]
    >
    >Beide Seiten müssen öffentlich zugänglich sein.
-
