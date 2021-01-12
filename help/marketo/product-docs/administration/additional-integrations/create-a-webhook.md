@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Erstellen eines Webhofs - Marketing Docs - Produktdokumentation
 title: Erstellen eines Webhofs
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Verwenden Sie Webhooks, um Webdienste von Drittanbietern zu nutzen, um Textnachrichten zu senden, personenbezogene Daten zu erweitern und vieles mehr.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-1. Gehen Sie zu **Admin **und klicken Sie auf **Webhooks**.
+1. Gehen Sie zu **Admin** und klicken Sie auf **Webhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ Verwenden Sie Webhooks, um Webdienste von Drittanbietern zu nutzen, um Textnachr
 
 >[!NOTE]
 >
->**Tieftauchen**
->
 >Erfahren Sie mehr in den [Webhooks](http://developers.marketo.com/documentation/webhooks/) Deep Dive.
-
