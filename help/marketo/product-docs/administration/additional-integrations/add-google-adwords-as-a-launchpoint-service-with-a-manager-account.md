@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: hinzufügen von Google AdWords als Launchpoint Service mit einem Manager-Konto - Marketing Docs - Produktdokumentation
 title: hinzufügen von Google AdWords als Startpunktdienst mit einem Managerkonto
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen von Google AdWords als Startpunktdienst mit einem Managerkonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um automatisch Offline-Konversionsdaten von Marketing zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) führten, nachdem Sie [benutzerdefinierte Spalten](https://support.google.com/adwords/answer/3073556) in AdWords hinzugefügt haben. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
+Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um automatisch Offline-Konversionsdaten von Marketing zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) führten, nachdem Sie [benutzerdefinierte Spalten](https://support.google.com/adwords/answer/3073556) in AdWords hinzugefügt haben. Diese Informationen werden nicht in der Benutzeroberfläche von Marketing angezeigt.
 
 Wenn Sie über mehrere Google Adwords-Konten verfügen, können Sie ein [Google AdWords Manager-Konto](https://www.google.com/adwords/manager-accounts/) (früher &quot;Mein Client-Center&quot;genannt) verwenden, um diese in Marketing zu integrieren.
 
@@ -25,7 +25,7 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
 
 >[!NOTE]
 >
->Sie können auch ein [eigenständiges Google AdWords-Konto als Launchpoint-Dienst](add-google-adwords-as-a-launchpoint-service.md) integrieren.
+>Sie können auch ein [eigenständiges Google AdWords-Konto als Launchpoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) integrieren.
 
 1. Gehen Sie zum Abschnitt **Admin**.
 
@@ -63,7 +63,7 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Laden Sie Ihre Offline-Konvertierungen von Marketing zu Google AdWords hoch **Wöchentlich **oder **Täglich**.
+1. Laden Sie Ihre Offline-Konvertierungen von Marketo zu Google AdWords **Wöchentlich** oder **Täglich** hoch.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   Yippee! Sehen Sie sich jetzt den entsprechenden Artikel an, in dem Sie erfahren, wie Sie AdWords-Offlinekonversionen in Ihrem Umsatzmodell zuordnen.
+   Sehen Sie sich jetzt den entsprechenden Artikel an, in dem Sie erfahren, wie Sie AdWords-Offlinekonversionen in Ihrem Umsatzmodell zuordnen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto festlegen](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto festlegen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
