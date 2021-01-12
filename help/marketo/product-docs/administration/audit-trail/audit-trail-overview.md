@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Audit-Trail-Übersicht - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Prüfprotokolle
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Wer meldet sich bei unserem Konto an?
 
 ## Was wir prüfen {#what-we-audit}
 
-Marketo prüft die Aktionen [Erstellen, Bearbeiten und Löschen](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) für:
+Marketo prüft die Aktionen [Erstellen, Bearbeiten und Löschen](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) für:
 
 * Design von Studio-Assets
 * Alle Programm
@@ -46,27 +46,27 @@ Marketo prüft die Aktionen [Erstellen, Bearbeiten und Löschen](http://docs.mar
 
 >[!NOTE]
 >
->Marketo ist **nicht** Prüfung von Änderungen, die derzeit in Web-Personalisierung, Predictive Content oder Sales Insight vorgenommen wurden.
+>Marketo ist _nicht_ Prüfung von Änderungen, die derzeit in Web-Personalisierung, Predictive Content oder Sales Insight vorgenommen wurden.
 
 ## Prüfprotokoll-Komponenten {#audit-trail-components}
 
 Prüfpfad besteht aus drei Komponenten.
 
-**1)  [Asset-Prüfpfad](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1)  [Asset-Prüfpfad](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Siehe Aktivität für bestimmte Assets.
 
-**2)  [Admin-Prüfpfad](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2)  [Admin-Prüfpfad](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 Überwachen Sie benutzerbasierte Details.
 
-**3)  [Benutzeranmeldeverlauf](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3)  [Benutzeranmeldeverlauf](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Erkennen Sie, wer sich bei Ihrem Abonnement angemeldet hat und wann. Enthält auch fehlgeschlagene Anmeldeversuche.
 
 >[!TIP]
 >
->Es gibt so viel, dass Sie mit Audit Trail prüfen können, stellen Sie sicher, dass Sie [Filter](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail) verwenden!
+>Es gibt so viel, dass Sie mit Audit Trail prüfen können, stellen Sie sicher, dass Sie [Filter](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) verwenden!
 
 ## Exportieren von Daten {#exporting-data}
 
@@ -82,9 +82,4 @@ Sie können in Ihrer Instanz nur Daten im Wert von 30 Ansichten speichern. Verwe
 
 >[!MORELIKETHIS]
 >
->* [Prüfpfad aktivieren](enable-audit-trail.md)
-
->
-
-
-
+>[Prüfpfad aktivieren](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
