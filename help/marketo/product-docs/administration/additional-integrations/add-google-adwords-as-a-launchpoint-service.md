@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: hinzufügen Google AdWords als LaunchPoint-Dienst - Marketing Docs - Produktdokumentation
 title: hinzufügen von Google AdWords als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
 
 >[!NOTE]
 >
->Sie können auch einen [Google AdWords als Launchpoint-Dienst mit einem Manager-Konto](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md) integrieren.
+>Sie können auch einen [Google AdWords als Launchpoint-Dienst mit einem Manager-Konto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md) integrieren.
 
 1. Gehen Sie zum Abschnitt **Admin**.
 
@@ -61,7 +61,7 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Laden Sie Ihre Offline-Konvertierungen von Marketing zu Google AdWords hoch **Wöchentlich **oder **Täglich**.
+1. Laden Sie Ihre Offline-Konvertierungen von Marketo zu Google AdWords **Wöchentlich** oder **Täglich** hoch.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
    >
    >[Damit diese Funktion funktioniert, muss die automatische ](https://support.google.com/adwords/answer/1752125?hl=en) Taggingoption aktiviert sein. Die Deaktivierung muss innerhalb von AdWords erfolgen.
 
-   >[!NOTE]
-   >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Google AdWords-Konversionen im Umsatzmodell festlegen](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 Großartig! Sehen Sie sich nun den entsprechenden Artikel unten an, um zu erfahren, wie Sie AdWords Offline-Konversionen in Ihrem Umsatzmodell zuordnen.
+
+>[!MORELIKETHIS]
+>
+>[Google AdWords-Konversionen im Umsatzmodell festlegen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
