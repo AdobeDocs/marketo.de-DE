@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: Filterung im Audit-Protokoll - Marketing-Dokumente - Produktdokumentation
 title: Filtern im Prüfpfad
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
 
    >[!NOTE]
    >
-   >Es gibt eine Vielzahl von möglichen Suchparameter-Kombinationen. In diesem Beispiel suchen wir: *alle E-Mails - von jedermann bearbeitet - in den letzten sieben Tagen*.
+   >Es gibt eine Vielzahl von möglichen Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _alle E-Mails - von jedermann bearbeitet - in den letzten sieben Tagen_.
 
 1. Klicken Sie auf die Dropdownliste **Zeitraum** und wählen Sie **Letzte 7 Tage**.
 
@@ -57,12 +57,6 @@ Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
    >
    >Wenn Sie Arbeitsbereiche aktiviert haben, werden Prüfdaten für alle Arbeitsbereiche angezeigt. Wenn Sie einen Arbeitsflächenfilter anwenden, speichert Marker bei jeder Verwendung des Prüfpfads den vorherigen Arbeitsbereichwert. Workspace-Berechtigungen auf Asset-Ebene werden erzwungen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Details im Prüfpfad ändern](change-details-in-audit-trail.md)
-
-
+   >[Details im Prüfpfad ändern](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
