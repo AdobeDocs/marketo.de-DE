@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Benutzeranmeldungsverlauf - Marketing-Dokumente - Produktdokumentation
 title: Verlauf der Benutzeranmeldung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ Ansicht des Benutzeranmeldeverlaufs:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Wählen Sie Benutzer aus der Dropdownliste **Benutzer** aus.** **
+1. Wählen Sie die Benutzer aus der Dropdownliste **Benutzer**.
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. Markieren Sie das Feld **Nur fehlgeschlagene Anmeldungen**, um nur fehlgeschlagene Anmeldungen anzuzeigen.
 
@@ -69,10 +67,4 @@ Ansicht des Benutzeranmeldeverlaufs:
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Übersicht über Prüfprotokolle](audit-trail-overview.md)
-
-
+   >[Übersicht über Prüfprotokolle](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
