@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: Benutzeranmeldung auf "Nur SSO" beschränken - Marketing Docs - Produktdokumentation
 title: Benutzeranmeldung auf "Nur SSO"beschränken
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,21 +19,21 @@ Wenn Sie [SSO](add-single-sign-on-to-a-portal.md) verwenden und sicherstellen m�
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu Admin und klicken Sie auf Anmeldeeinstellungen.
+1. Gehen Sie zu **Admin** und klicken Sie auf **Anmeldeeinstellungen**.
 
 ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. Klicken Sie auf Sicherheitseinstellungen bearbeiten.
+1. Klicken Sie auf **Sicherheitseinstellungen bearbeiten**.
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. Erweitern Sie die erweiterten Einstellungen, aktivieren Sie &quot;SSO erforderlich&quot;und klicken Sie auf &quot;Speichern&quot;.
+1. Erweitern Sie die erweiterten Einstellungen, aktivieren Sie **SSO** erforderlich und klicken Sie auf **Speichern**.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!TIP]
 >
->Wenn Sie **Einmalige Anmeldung erforderlich** auswählen, können Sie eine [Benutzerrolle](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **Einmaliges Anmelden umgehen** aktivieren. Auf diese Weise können Benutzer sich normal anmelden. So müssen sich Admin-Benutzer z. B. über den Anmeldebildschirm bei Marketo anmelden.
+>Wenn Sie **Einmalige Anmeldung erforderlich** auswählen, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **Einmaliges Anmelden umgehen** aktivieren. Auf diese Weise können Benutzer sich normal anmelden. So müssen sich Admin-Benutzer z. B. über den Anmeldebildschirm bei Marketo anmelden.
 
 >[!CAUTION]
 >
