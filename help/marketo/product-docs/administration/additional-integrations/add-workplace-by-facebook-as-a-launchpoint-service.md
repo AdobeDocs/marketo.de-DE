@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: hinzufügen Workplace By Facebook as a LaunchPoint Service - Marketing Docs - Produktdokumentation
 title: hinzufügen Workplace By Facebook als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Die Integration in Workplace umfasst zwei Benachrichtigungstypen:
 
 >[!PREREQUISITES]
 >
->Wenn Sie noch keine Workspace-Benachrichtigungen aktiviert haben, wenden Sie sich bitte an den Support [unter ](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
+>Wenn Sie noch keine Workspace-Benachrichtigungen aktiviert haben, wenden Sie sich bitte an [MarketingTo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Gehen Sie zu **LaunchPoint** und klicken Sie dann unter **New** auf **New Service**.
 
@@ -65,4 +65,3 @@ Die Integration in Workplace umfasst zwei Benachrichtigungstypen:
    Benachrichtigungen beginnen nun mit der Veröffentlichung für die in Schritt 7 ausgewählte Facebook-Gruppe. Sie werden ungefähr so aussehen:
 
    ![](assets/example.png)
-
