@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Bearbeiten Sie Ihre Standard-Branding-Domäne mit Arbeitsbereichen - MarketingToDocs - Produktdokumentation
 title: Standardmäßige Branding-Domäne mit Arbeitsbereichen bearbeiten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**hinzufügen****  **funktioniert erst, wenn Sie die generische Domäne bearbeitet haben.** Löschen ******funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
+   >**Admin** funktioniert erst, wenn Sie die generische Domäne bearbeitet haben. **Das** Löschen funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
    >
    >Sie können erst eine zusätzliche Domäne hinzufügen, wenn Sie die allgemeine Domäne zum ersten Mal bearbeiten.
 
-1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf Weiter.
+1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf **Weiter**.
 
    ![](assets/image2016-8-12-10-3a32-3a31.png)
 
-1. Klicken Sie auf Speichern.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/edit-branding-domain-9-12-16-hand.png)
 
@@ -39,9 +39,4 @@ ht-degree: 0%
 >
 >Wenn Sie zusätzliche Branding-Domänen hinzufügen, können Sie diese als primäre Domäne für einen oder mehrere Arbeitsbereiche festlegen. Alle vorhandenen nicht gesendeten E-Mails mit der Einstellung &quot;Standard&quot;und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domäne eingestellt. Sie können dies per E-Mail außer Kraft setzen.
 
-Jetzt können Sie [zusätzliche Branding-Domänen](add-an-additional-branding-domain-with-workspaces.md) hinzufügen, die Sie für die Arbeitsbereiche benötigen.
-
->[!MORELIKETHIS]
->
->* [hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen](add-an-additional-branding-domain-with-workspaces.md)
-
+Jetzt können Sie [zusätzliche Branding-Domänen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) hinzufügen, die Sie für die Arbeitsbereiche benötigen.
