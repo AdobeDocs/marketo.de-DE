@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: hinzufügen einer zusätzlichen Branding-Domäne - Marketing Docs - Produktdokumentation
 title: hinzufügen einer zusätzlichen Branding-Domäne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ hinzufügen eine zusätzliche Branding-Domäne, wenn Sie mehrere Marken aus eine
 
 >[!PREREQUISITES]
 >
->Sie müssen [den generischen Verfolgungslink](edit-your-default-branding-domain.md) durch eine Markendomäne ersetzen, bevor Sie zusätzliche Markendomänen hinzufügen.
+>Sie müssen [den generischen Verfolgungslink](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) durch eine Markendomäne ersetzen, bevor Sie zusätzliche Markendomänen hinzufügen.
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **Admin **und dann auf den Link **Email**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Admin** und dann auf den Link **E-Mail**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Klicken Sie auf **Hinzufügen **um eine zusätzliche Branding-Domäne hinzuzufügen.
+1. Klicken Sie auf **Hinzufügen**, um eine zusätzliche Brandingdomäne hinzuzufügen.
 
    ![](assets/two.png)
 
@@ -33,15 +33,8 @@ hinzufügen eine zusätzliche Branding-Domäne, wenn Sie mehrere Marken aus eine
 
 >[!NOTE]
 >
->Sie können festlegen, dass diese Domäne Ihre primäre Domäne ist. Alle vorhandenen nicht gesendeten E-Mails, die auf &quot;Standard&quot;gesetzt sind, und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domäne eingestellt. Sie können [dies per E-Mail überschreiben.](overwrite-primary-domain-for-emails.md)
+>Sie können festlegen, dass diese Domäne Ihre primäre Domäne ist. Alle vorhandenen nicht gesendeten E-Mails, die auf &quot;Standard&quot;gesetzt sind, und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domäne eingestellt. Sie können [dies per E-Mail überschreiben.](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Standardmäßige Branding-Domäne bearbeiten](edit-your-default-branding-domain.md)
-
->
-
-
-
+>[Standardmäßige Branding-Domäne bearbeiten](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
