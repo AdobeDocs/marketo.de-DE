@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: Ein Feld ausblenden und ausblenden - Marketing Docs - Produktdokumentation
 title: Ein Feld ein- und ausblenden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,10 @@ Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzerobe
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
    >Um ein Feld auszublenden, darf es nicht mit anderen Assets (einschließlich archivierter) verknüpft werden. Achten Sie darauf, das Feld vor dem Ausblenden aus allen intelligenten Listen, Flussstufenoptionen, Formularen, E-Mails usw. zu entfernen.
 
-   Klicken Sie zur Bestätigung auf Ausblenden.
+1. Klicken Sie zur Bestätigung auf **Ausblenden**.
+
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
    Gute Arbeit! Jetzt wissen Sie, wie Sie ein Feld über die Benutzeroberfläche von Marketo ausblenden.
@@ -48,7 +47,7 @@ Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzerobe
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Suchen Sie das Feld und wählen Sie es aus und klicken Sie unter **Feldaktionen** auf **`Unhide Field`**.
+1. Suchen und wählen Sie das Feld aus. Klicken Sie im Dropdownmenü Feldaktionen auf **Feld einblenden**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +55,4 @@ Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzerobe
 
    >[!TIP]
    >
-   >Muss man ein Massen-Verstecken/Rückblenden durchführen lassen? Wenden Sie sich an Marketing Professional Services: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
-
+   >Muss man ein Massen-Verstecken/Rückblenden durchführen lassen? Wenden Sie sich an Marketing Professional Services: services@marketo.com.
