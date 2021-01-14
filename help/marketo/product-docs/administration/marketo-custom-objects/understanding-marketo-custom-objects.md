@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Erläuterungen zu "Marketing to Custom Objects"- "Marketing to Docs"- Produktdokumentation
 title: Erläuterungen zu benutzerdefinierten Objekten
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,14 @@ ht-degree: 0%
 
 Verwenden Sie benutzerdefinierte Objekte, um unternehmensspezifische Metriken zu verfolgen.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-Verwenden Sie benutzerdefinierte Objekte als Filter und Auslöser in Ihren intelligenten Kampagnen. Beispiel:
+Verwenden Sie benutzerdefinierte Objekte als Filter und Trigger in Ihren intelligenten Kampagnen. Beispiel:
 
 * **Filter**: E-Mails nur an Inhaber einer bestimmten Fahrzeugmarke senden
-* **Auslöser**: Senden Sie eine E-Mail, wenn einer Person oder Firma ein benutzerdefiniertes Objekt hinzugefügt wird.
+* **Trigger**: Senden Sie eine E-Mail, wenn einer Person oder Firma ein benutzerdefiniertes Objekt hinzugefügt wird.
 
 Sie können benutzerdefinierte Objekte in einer Eins-zu-viele- oder einer Viele-zu-viele-Beziehung einrichten. Beispiel:
 
@@ -45,7 +43,7 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 ## Zugriff auf Marketing zu benutzerdefinierten Objekten {#accessing-marketo-custom-objects}
 
-1. Klicken Sie zum Erstellen oder Bearbeiten benutzerdefinierter Markieren auf **Admin **und dann auf den Link **Benutzerdefiniertes Objekt markieren** s.
+1. Klicken Sie zum Erstellen oder Bearbeiten benutzerdefinierter Markieren auf **Admin** und dann auf den Link **Markieren Sie benutzerdefinierte Objekte**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -91,18 +89,14 @@ Wenn Sie mehrere Personen in Marketo haben, die Datensätze in den CRM- oder Nur
 
 Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp nach Firma verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendaten entweder mit einer Firma verknüpft sind, die die Kontaktkonversion in Ihrem CRM verwendet, oder mit dem Feld externalCompanyId, wenn Sie Firmen mit den REST-APIs von Marketo verwalten. Bei Personendatensätzen, die nicht explizit mit Firmen verknüpft sind, werden mit Firma verknüpfte benutzerdefinierte Objekte zufällig mit einem einzigen Datensatz verknüpft, selbst wenn der Wert des Felds &quot;Firma&quot;für viele Personen freigegeben wird.
 
-Weitere Informationen finden Sie unter [Benutzerspezifische Objektdaten importieren](import-custom-object-data.md).
+Weitere Informationen finden Sie unter [Benutzerspezifische Objektdaten importieren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md).
 
 >[!MORELIKETHIS]
 >
->* [Erstellen von Markierungen zu benutzerdefinierten Objekten](create-marketo-custom-objects.md)
->* [Benutzerdefiniertes Objekt genehmigen](approve-a-custom-object.md)
->* [Bearbeiten und Löschen eines Markierungen zu einem benutzerdefinierten Objekt](edit-and-delete-a-marketo-custom-object.md)
->* [hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](add-marketo-custom-object-fields.md)
->* [Bearbeiten und Löschen von Markierungen in benutzerdefinierten Objektfeldern](edit-and-delete-marketo-custom-object-fields.md)
->* [Benutzerspezifische Objektdaten importieren](import-custom-object-data.md)
-
->
-
-
+>* [Erstellen von Markierungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Benutzerdefiniertes Objekt genehmigen](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Bearbeiten und Löschen eines Markierungen zu einem benutzerdefinierten Objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Bearbeiten und Löschen von Markierungen in benutzerdefinierten Objektfeldern](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Benutzerspezifische Objektdaten importieren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
