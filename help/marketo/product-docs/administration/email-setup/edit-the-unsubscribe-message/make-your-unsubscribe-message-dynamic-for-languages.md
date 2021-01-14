@@ -3,9 +3,9 @@ unique-page-id: 6848782
 description: Dynamische Abmeldung für Sprachen - Marketing Docs - Produktdokumentation
 title: Dynamische Abmeldung für Sprachen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,19 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 >
 >Unten haben wir dieses nette kleine Tutorial für Sie eingerichtet. Es stellt eine Best Practice dar, aber dies kann auf andere Weise erreicht werden.
 
-1. Vorbereiten Ihrer Daten
-1. [Erstellen Sie ein benutzerdefiniertes ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)Feld mit dem Namen &quot;Bevorzugte Sprache&quot;. (Richten Sie es in Ihrem CRM ein, wenn dieses Feld synchronisiert werden soll).
+## Vorbereiten Ihrer Daten {#prepare-your-data}
+
+1. [Erstellen Sie ein benutzerdefiniertes ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) Feld mit dem Namen &quot;Bevorzugte Sprache&quot;. (Richten Sie es in Ihrem CRM ein, wenn dieses Feld synchronisiert werden soll).
 
    >[!TIP]
    >
-   >Verwenden Sie dieses Feld in Zukunft, wenn Sie [ein Formular](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) erstellen, um die Spracheinstellung zu erfassen.
+   >Verwenden Sie dieses Feld in Zukunft, wenn Sie [ein Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) erstellen, um die Spracheinstellung zu erfassen.
 
-1. Segmentierung erstellen
+## Erstellen der Segmentierung {#create-segmentation}
+
 1. Gehen Sie zur Datenbank ****.
-** ![](assets/db.png)
 
-   **
+   ![](assets/db.png)
 
 1. Klicken Sie in der Dropdownliste **Neu** auf **Neue Segmentierung**.
 
@@ -64,16 +65,15 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
-1. Snippet erstellen
+## Erstellen eines Snippets {#create-a-snippet}
+
 1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/ds.png)
 
 1. Klicken Sie im Dropdownmenü **Neu** auf **Neues Snippet**.
 
-   ** ![](assets/ten.png)
-
-   **
+   ![](assets/ten.png)
 
 1. Benennen Sie das Codefragment **Meldung abmelden**. Klicken Sie auf **Erstellen**.
 
@@ -83,7 +83,7 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Kopieren Sie dieses Token und fügen Sie es ein: **`{{system.unsubscribeLink}}`** in das Feld **URL verknüpfen** ein. Klicken Sie auf **Einfügen**.
+1. Kopieren Sie dieses Token und fügen Sie es ein: `{{system.unsubscribeLink}}` in das Feld **URL verknüpfen** ein. Klicken Sie auf **Einfügen**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -99,7 +99,7 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Kopieren Sie dasselbe Token und fügen Sie es ein: **`{{system.unsubscribeLink}}`** in das Feld **URL verknüpfen** ein. Klicken Sie auf **Einfügen**.
+1. Kopieren Sie dasselbe Token und fügen Sie es ein: `{{system.unsubscribeLink}}` in das Feld **URL verknüpfen** ein. Klicken Sie auf **Einfügen**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -109,7 +109,8 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 
    Fantastisch. Fast da.
 
-1. Snippet in einer E-Mail verwenden
+## Snippet in einer E-Mail {#use-snippet-in-an-email} verwenden
+
 1. Klicken Sie im E-Mail-Editor auf das bearbeitbare Element. Klicken Sie dann auf das Zahnradsymbol und wählen Sie **Ersetzen durch Ausschnitt**. Wenn Sie ein bearbeitbares Snippet-Element auswählen, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
 
    ![](assets/4.1.png)
@@ -134,27 +135,27 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
    >
    >Natürlich können Sie den Rest Ihrer E-Mail auch für dynamische Sprachen bearbeiten. Während Sie sich daran befinden, führen Sie auf der Seite zum Abmelden das gleiche Verfahren aus.
 
-1. Anpassen Ihrer Abmeldeseite mit dynamischem Inhalt
+## Anpassen Ihrer Abmeldeseite mit dynamischem Inhalt {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-   Wenn Sie möchten, dass Ihre Mitarbeiter eine Abmeldeseite in ihrer bevorzugten Sprache aufrufen, können Sie dynamische Inhalte auf der Landingpage und der Bestätigungsseite verwenden.
+Wenn Sie möchten, dass Ihre Mitarbeiter eine Abmeldeseite in ihrer bevorzugten Sprache aufrufen, können Sie dynamische Inhalte auf der Landingpage und der Bestätigungsseite verwenden.
 
-   Navigieren Sie zum Design Studio.
+1. Navigieren Sie zum Design Studio.
 
    ![](assets/ds.png)
 
-   Geben Sie im Suchfeld Abmelden ein. Sie sollten Ihre Abmeldeseiten finden.
+1. Geben Sie _Abmelden_ in das Suchfeld ein. Sie sollten Ihre Abmeldeseiten finden.
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
-   Klicken Sie auf Entwurf bearbeiten.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-3-9-8-3a52-3a23.png)
 
-   Wählen Sie Segment nach.
+1. Wählen Sie **Segment nach**.
 
    ![](assets/image2015-3-9-8-3a52-3a57.png)
 
-   Suchen Sie das Segment Bevorzugte Sprache. Klicken Sie auf Speichern.
+1. Suchen Sie das Segment Bevorzugte Sprache. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-3-9-8-3a53-3a54.png)
 
@@ -162,8 +163,4 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 
    >[!NOTE]
    >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über [dynamische Inhalte](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) und alle coolen Dinge, die Sie tun können.
-
+   >Erfahren Sie mehr über [dynamische Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) und alle coolen Dinge, die Sie tun können.
