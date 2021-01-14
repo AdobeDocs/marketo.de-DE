@@ -3,7 +3,7 @@ unique-page-id: 10093192
 description: Erstellen von Marketing-zu-benutzerdefinierten Objekten - Marketing-Dokumente - Produktdokumentation
 title: Erstellen von Markierungen zu benutzerdefinierten Objekten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Verwenden Sie benutzerdefinierte Objekte in Marketing, um geschäftsspezifische 
 
 >[!NOTE]
 >
->Sie können benutzerdefinierte Objekte so einrichten, dass sie 1-zu-viele- oder viele-zu-viele-arbeiten. Sie erstellen das ursprüngliche Objekt auf dieselbe Weise, aber die Schritte unterscheiden sich, wenn Sie dem Objekt Felder hinzufügen, wenn Sie Beginn hinzufügen. Weitere Informationen finden Sie unter [Informationen zu &quot;Markieren zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md)&quot;.
+>Sie können benutzerdefinierte Objekte so einrichten, dass sie 1-zu-viele- oder viele-zu-viele-arbeiten. Sie erstellen das ursprüngliche Objekt auf dieselbe Weise, aber die Schritte unterscheiden sich, wenn Sie dem Objekt Felder hinzufügen, wenn Sie Beginn hinzufügen. Weitere Informationen finden Sie unter [Informationen zu &quot;Markieren zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)&quot;.
 
 >[!NOTE]
 >
@@ -29,9 +29,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Objekt für den Autokraftverkehr z
 
 1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Zu benutzerdefinierten Objekten** markieren.
 
-   ** ![](assets/image2016-1-18-13-3a12-3a19.png)
-
-   **
+   ![](assets/image2016-1-18-13-3a12-3a19.png)
 
 1. Klicken Sie auf **Neues benutzerdefiniertes Objekt**.
 
@@ -49,7 +47,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Objekt für den Autokraftverkehr z
    >
    >Sie können diese Felder beim Erstellen bearbeiten. Nach dem Speichern können Sie jedoch nur das Feld &quot;Plural-Name&quot;und den Schieberegler **In Interessentendetails anzeigen** bearbeiten.
 
-1. Ziehen Sie den Schieberegler **In Interessentendetails anzeigen **auf, um **Anzeigen** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite Interessentendatenbank Ansicht haben möchten. Klicken Sie auf **Speichern**.
+1. Ziehen Sie den Schieberegler **In Interessentendetails anzeigen**, um **Anzeigen** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Interessentendatenbank&quot;Ansicht haben möchten. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -57,11 +55,11 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Objekt für den Autokraftverkehr z
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   Der nächste Schritt besteht darin, Felder zu [Ihr benutzerdefiniertes Objekt ](add-marketo-custom-object-fields.md) zu erstellen.
+   Der nächste Schritt besteht darin, Felder zu [Ihr benutzerdefiniertes Objekt ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) zu erstellen.
 
    >[!NOTE]
    >
-   >Sie können &quot;Zu benutzerdefinierten Objekten markieren&quot;nur über einen Listen-Import oder die [API](http://developers.marketo.com/documentation/rest/) ausfüllen.
+   >Sie können &quot;Zu benutzerdefinierten Objekten markieren&quot;nur über einen Listen-Import oder die [API](https://developers.marketo.com/documentation/rest/) ausfüllen.
 
 ## Benutzerdefiniertes Objekt für eine Viele-zu-viele-Struktur {#create-a-custom-object-for-a-many-to-many-structure} erstellen
 
@@ -87,7 +85,7 @@ Dieses Beispiel zeigt ein kursspezifisches Objekt, mit dem Sie eine Viele-zu-vie
    >
    >Sie können diese Felder beim Erstellen bearbeiten. Nach dem Speichern können Sie jedoch nur das Feld &quot;Plural-Name&quot;und den Schieberegler **In Interessentendetails anzeigen** bearbeiten.
 
-1. Ziehen Sie den Schieberegler **In Interessentendetails anzeigen, um den Schieberegler Anzeigen anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite Interessentendatenbank Ansicht haben möchten. Klicken Sie auf **Speichern**.
+1. Ziehen Sie den Schieberegler **In Interessentendetails anzeigen**, um **Anzeigen** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Interessentendatenbank&quot;Ansicht haben möchten. Klicken Sie auf **Speichern**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -97,7 +95,7 @@ Dieses Beispiel zeigt ein kursspezifisches Objekt, mit dem Sie eine Viele-zu-vie
 
    >[!NOTE]
    >
-   >Sie können &quot;Zu benutzerdefinierten Objekten markieren&quot;nur über einen Listen-Import oder die [API](http://developers.marketo.com/documentation/rest/) ausfüllen.
+   >Sie können &quot;Zu benutzerdefinierten Objekten markieren&quot;nur über einen Listen-Import oder die [API](https://developers.marketo.com/documentation/rest/) ausfüllen.
 
 Der nächste Schritt besteht darin, dass Sie Ihr Zwischenobjekt erstellen (siehe unten). Aber bevor das geschieht, müssen Sie ein Feld erstellen, mit dem Sie eine Verbindung herstellen können.
 
@@ -125,21 +123,17 @@ Verwenden Sie ein intermediäres Objekt, um ein benutzerdefiniertes Objekt mit P
    >
    >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld &quot;Plural-Name&quot;und den Schieberegler &quot;In Interessentendetails anzeigen&quot;bearbeiten.
 
-1. Ziehen Sie den Schieberegler **In Interessentendetails anzeigen**, um Anzeigen anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Interessentendatenbank&quot;Ansicht haben möchten. Klicken Sie auf **Speichern**.
+1. Ziehen Sie den Schieberegler **In Interessentendetails anzeigen**, um **Anzeigen** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Interessentendatenbank&quot;Ansicht haben möchten. Klicken Sie auf **Speichern**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. Die benutzerdefinierten Objektinformationen zeigen den eingegebenen Inhalt an. Beachten Sie, dass es sich im Entwurfszustand befindet.
 
-   Der nächste Schritt besteht darin, dass Sie [Verknüpfungsfelder](add-marketo-custom-object-link-fields.md) hinzufügen, um Ihr Zwischenobjekt mit einer Person/Firma und einem benutzerdefinierten Objekt zu verbinden.
+   Der nächste Schritt besteht darin, dass Sie [Verknüpfungsfelder](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) hinzufügen, um Ihr Zwischenobjekt mit einer Person/Firma und einem benutzerdefinierten Objekt zu verbinden.
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](add-marketo-custom-object-fields.md)
->* [hinzufügen &quot;Markieren in benutzerdefinierten Objektverknüpfungsfeldern&quot;](add-marketo-custom-object-link-fields.md)
->* [Erläuterungen zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md)
-
->
-
-
+>* [hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [hinzufügen &quot;Markieren in benutzerdefinierten Objektverknüpfungsfeldern&quot;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Erläuterungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
