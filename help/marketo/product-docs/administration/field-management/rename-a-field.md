@@ -3,7 +3,7 @@ unique-page-id: 2360293
 description: Feld umbenennen - Marketing-Dokumente - Produktdokumentation
 title: Feld umbenennen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Gehen Sie zu Admin und klicken Sie auf Feldverwaltung.
+1. Gehen Sie zu Admin und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/changefieldname.png)
 
-1. Benennen Sie das Feld um und klicken Sie auf Speichern.
+1. Benennen Sie das Feld um und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 
@@ -42,4 +42,3 @@ Gute Arbeit! Sie wissen jetzt, wie Sie Felder in Marketo umbenennen können.
 >[!CAUTION]
 >
 >Wenn Sie den API-Namen in Salesforce umbenennen, erstellt Marketo ein ganz neues Feld und lässt das alte zurück!
-
