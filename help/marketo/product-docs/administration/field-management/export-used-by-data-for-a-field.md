@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: Export anhand von Daten für ein Feld - Marketing Docs - Produktdokumentation
 title: Nach Daten für ein Feld exportieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Als Administrator haben Sie die Möglichkeit, verwandte Elemente eines Felds zu 
    >[!TIP]
    >
    >Jedes verknüpfte Asset ist ein Link, auf den geklickt werden kann und der in Marketo geöffnet wird.
-
