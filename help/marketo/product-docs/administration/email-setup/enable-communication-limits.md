@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: Kommunikationsbeschränkungen aktivieren - Marketing-Dokumente - Produktdokumentation
 title: Kommunikationsbeschränkungen aktivieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,12 @@ Es ist sehr wichtig, nicht zu viel mit Ihren Leuten zu kommunizieren. Durch das 
 1. Klicken Sie unter **Admin** auf **Kommunikationsbeschränkungen**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-Klicken Sie auf Bearbeiten.
+
+1. Klicken Sie auf **Bearbeiten**.
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >Pro Tag basiert auf dem Kalendertag in der Zeitzone des Abonnements (Mitternacht).
 
@@ -48,7 +49,7 @@ Klicken Sie auf Bearbeiten.
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr darüber, was [operative E-Mails](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) sind.
+   >Erfahren Sie mehr darüber, was [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sind.
 
 1. Klicken Sie auf **Speichern**.
 
@@ -58,15 +59,12 @@ Klicken Sie auf Bearbeiten.
    >
    >**Beispiel**
    >
-   >
    >Die oben genannten Einstellungen bedeuten, dass Personen pro Tag höchstens **1 E-Mail oder** 5 in einem Zeitraum von sieben Tagen **erhalten.**
 
    >[!NOTE]
-   >
    >
    >Die Kommunikationsbeschränkungen gelten automatisch für alle E-Mail- und Interaktions-Programm.
 
 >[!MORELIKETHIS]
 >
->[Kommunikationsbeschränkungen auf intelligente Kampagne anwenden](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[Kommunikationsbeschränkungen auf intelligente Kampagne anwenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
