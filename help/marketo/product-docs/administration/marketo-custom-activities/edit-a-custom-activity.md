@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: Eine benutzerspezifische Aktivität bearbeiten - MarketingToDocs - Produktdokumentation
 title: Eine benutzerspezifische Aktivität bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerspezifischen Aktivit
    >[!NOTE]
    >
    >Wenn Ihre Aktivität zum Zeitpunkt der Bearbeitung ein Entwurf war, bleibt sie ein Entwurf. Wenn sie veröffentlicht wurde, wird der Status mit Entwurf veröffentlicht.
-
