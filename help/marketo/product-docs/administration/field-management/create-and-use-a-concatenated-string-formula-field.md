@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: Erstellen und verwenden Sie ein Feld für verkettete Zeichenfolge (Formel) - Marketing Docs - Produktdokumentation
 title: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel)
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Sie können Werte aus mehreren Feldern kombinieren oder einen bedingten Wert mit
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Erfahren Sie mehr über [Token für Flussschritte](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Erfahren Sie mehr über [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Jetzt können Sie das Formelfeld als Token in einer E-Mail hinzufügen.
 
@@ -50,4 +50,3 @@ Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Begrüßu
 >[!NOTE]
 >
 >Formularfelder können in Landingpages, E-Mails und Spalten mit intelligenter Liste verwendet werden. sie werden nicht exportiert. E-Mails mit Formelfeldern können nicht über Batch-Kampagnen gesendet werden
-
