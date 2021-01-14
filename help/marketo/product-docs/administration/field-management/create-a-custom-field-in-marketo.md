@@ -3,7 +3,7 @@ unique-page-id: 2360287
 description: Erstellen eines benutzerspezifischen Felds in Marketing - Marketing Docs - Produktdokumentation
 title: Benutzerdefiniertes Feld in Marketing erstellen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie ein neues benutzerdefiniertes Feld in Marketing benötigen, um Daten zu speichern/zu erfassen, erstellen Sie dieses hier.
 
-1. Gehen Sie zu Admin und klicken Sie auf Feldverwaltung.
+1. Gehen Sie zu Admin und klicken Sie auf **Feldverwaltung**.
 
    ![](assets/image2014-9-24-13-3a46-3a26.png)
 
@@ -23,7 +23,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketing benötigen, um Daten zu
    >
    >Wenn Sie möchten, dass die Felder mit Ihrem CRM-System synchronisiert werden, erstellen Sie sie im CRM und sie werden automatisch in Marketo erstellt.
 
-1. Klicken Sie auf Neues benutzerdefiniertes Feld.
+1. Klicken Sie auf **Neues benutzerdefiniertes Feld**.
 
    ![](assets/two.png)
 
@@ -31,11 +31,11 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketing benötigen, um Daten zu
 
    >[!TIP]
    >
-   >Sehen Sie sich das Glossar [Benutzerspezifische Feldtypen](custom-field-type-glossary.md) an.
+   >Sehen Sie sich das Glossar [Benutzerspezifische Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md) an.
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
-1. Geben Sie den Namen so ein, wie er in Marketing angezeigt werden soll. Der API-Name wird automatisch generiert. Sie können es anpassen, aber nicht umbenennen, sobald es festgelegt wurde. Klicken Sie abschließend auf Erstellen.
+1. Geben Sie den Namen so ein, wie er in Marketing angezeigt werden soll. Der API-Name wird automatisch generiert. Sie können es anpassen, aber nicht umbenennen, sobald es festgelegt wurde. Klicken Sie abschließend auf **Erstellen**.
 
 >[!CAUTION]
 >
