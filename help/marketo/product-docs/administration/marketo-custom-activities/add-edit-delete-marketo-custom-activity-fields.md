@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: hinzufügen/Bearbeiten/Löschen von Markierungen in Feldern für benutzerdefinierte Aktivitäten - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen/Bearbeiten/Löschen von Markierungen in Feldern mit benutzerdefinierter Aktivität
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinz
 
    >[!TIP]
    >
-   >Nicht sicher, was Sie auswählen sollen? Wir haben dich abgedeckt! Alle verfügbaren Datentypen sind in [diesem Artikel](../../../product-docs/administration/field-management/custom-field-type-glossary.md) definiert.
+   >Nicht sicher, was Sie auswählen sollen? Wir haben dich abgedeckt! Alle verfügbaren Datentypen sind in [diesem Artikel](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md) definiert.
 
 1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Klicken Sie abschließend auf **Speichern**.
 
@@ -94,4 +94,3 @@ Ihr Feld ist jetzt bearbeitet!
    ![](assets/thirteen.png)
 
    Das ist einfach so einfach!
-
