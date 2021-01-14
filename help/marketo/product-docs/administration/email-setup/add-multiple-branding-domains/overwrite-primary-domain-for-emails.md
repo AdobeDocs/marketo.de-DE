@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: Primär Domain für E-Mails überschreiben - Marketing Docs - Produktdokumentation
 title: Primär-Domäne für E-Mails überschreiben
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Sie können die primäre Markendomäne per E-Mail überschreiben. Dies ändert d
    >[!NOTE]
    >
    >Nicht alle Benutzer sind berechtigt, die Markendomäne per E-Mail festzulegen. Wenden Sie sich an Ihren Administrator, wenn die Dropdownliste &quot;Markendomänen&quot;nicht angezeigt wird.
-
