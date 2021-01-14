@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: Bearbeiten und Löschen eines Markets für ein benutzerdefiniertes Objekt - Marketing Docs - Produktdokumentation
 title: Bearbeiten und Löschen eines Markierungen zu einem benutzerdefinierten Objekt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Verwenden Sie das Menü &quot;Aktionen für benutzerdefinierte Objekte&quot;, um
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Achten Sie darauf, [das bearbeitete Objekt](approve-a-custom-object.md) zu genehmigen.
+1. Achten Sie darauf, [das bearbeitete Objekt](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md) zu genehmigen.
 
 ## Löschen eines benutzerdefinierten Objekts {#delete-a-custom-object}
 
@@ -81,5 +81,4 @@ Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vor
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefiniertes Objekt genehmigen](approve-a-custom-object.md)
-
+>[Benutzerdefiniertes Objekt genehmigen](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
