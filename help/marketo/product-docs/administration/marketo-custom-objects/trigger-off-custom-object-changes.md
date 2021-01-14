@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378713
-description: Auslösen benutzerdefinierter Objektänderungen - Marketing to Docs - Produktdokumentation
-title: Änderungen am benutzerdefinierten Objekt auslösen
+description: Trigger von benutzerdefinierten Objektänderungen - Marketing to Docs - Produktdokumentation
+title: Trigger aus benutzerdefinierten Objektänderungen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
 
-# Auslösen benutzerdefinierter Objektänderungen {#trigger-off-custom-object-changes}
+# Trigger aus benutzerdefinierten Objektänderungen {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >* Für Kunden in der Orion-Infrastruktur
 >* Nur zur Verwendung mit benutzerdefinierten Objekten von Marketo, nicht mit benutzerdefinierten Objekten, die über die native Salesforce- oder Microsoft Dynamics-Integration synchronisiert werden
->* Als Auslöser, nicht als Filter
+>* Als Trigger, nicht als Filter
 
 >
 >
-Wenden Sie sich an den [MarketingTo-Support](http://support.marketo.com), um die Auslöser für benutzerdefinierte Objektänderungen zu aktivieren.
+Wenden Sie sich an den [Marketing-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um die Trigger zur Objektänderung zu aktivieren.
 
-In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussaktion auslösen, wenn einem Benutzer oder einer Firma ein benutzerdefiniertes Objekt hinzugefügt wird. Sie können auch eine intelligente Liste erstellen, die eine *change* in einem benutzerdefinierten Objekt als Auslöser verwendet. Verwenden Sie diese zum Beispiel, um eine E-Mail zu senden, wenn ein Kursname aktualisiert wird.
+In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussaktion beim Trigger eines benutzerdefinierten Objekts zu einer Person oder Firma ausführen. Sie können auch eine intelligente Liste erstellen, die eine *change* in einem benutzerdefinierten Objekt als Trigger verwendet. Verwenden Sie diese zum Beispiel, um eine E-Mail zu senden, wenn ein Kursname aktualisiert wird.
 
 >[!NOTE]
 >
@@ -39,11 +39,11 @@ In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussak
 
    ![](assets/image2016-7-25-16-3a9-3a19.png)
 
-1. Suchen Sie nach dem benötigten Auslöser und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen Sie nach dem gewünschten Trigger und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/image2016-7-25-16-3a16-3a43.png)
 
-1. Wählen Sie das Attribut auslösend.
+1. Wählen Sie das Trigger-Attribut aus.
 
    ![](assets/image2016-7-25-16-3a21-3a42.png)
 
@@ -57,11 +57,6 @@ In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussak
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Erstellen einer intelligenten Liste](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [Erläuterungen zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md)
-
+   >* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [Erläuterungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
