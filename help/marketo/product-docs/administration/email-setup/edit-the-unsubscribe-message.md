@@ -3,7 +3,7 @@ unique-page-id: 2360251
 description: Bearbeiten Sie die Meldung zum Abmelden - Marketing Docs - Produktdokumentation
 title: Die Abmeldung bearbeiten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Wenn Sie Marketing-E-Mails senden (nicht- [operativ](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), werden Text zum Abmelden und Links am unteren Rand angehängt. Sie können die Standardwerte ändern. So geht es.
+Wenn Sie Marketing-E-Mails senden (nicht-[operativ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), werden Text zum Abmelden und Links am unteren Rand angehängt. Sie können die Standardwerte ändern. So geht es.
 
 ## Bearbeiten Sie die Meldung zum Abmelden {#edit-the-unsubscribe-message-1}
 
@@ -27,24 +27,21 @@ Wenn Sie Marketing-E-Mails senden (nicht- [operativ](../../../product-docs/email
 
    >[!CAUTION]
    >
-   >
    >Die folgenden Variablen sind von entscheidender Bedeutung. Löschen Sie sie nicht!
    >
-   >    
-   >    
-   >    * **%mkt_opt_out_prefix%**
-   >    * **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK#**
+   >* **%mkt_opt_out_prefix%**
+   >* **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK#**
 
 
 1. Bearbeiten Sie die Versionen **Abmelden von HTML** und **Abmelden von Text** nach Ihren Vorlieben und klicken Sie auf **Änderungen speichern**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   Da hast du es. **Stellen Sie sicher, dass Sie es testen!** Sie möchten nicht, dass Ihre Marketing-E-Mails beschädigte Links zum Abmelden aufweisen.
+   Da hast du es. _Stellen Sie sicher, dass Sie es testen!_ Sie möchten nicht, dass Ihre Marketing-E-Mails beschädigte Links zum Abmelden aufweisen.
 
 >[!TIP]
 >
->Sie können die Position des HTML-Abmeldung in Ihrer E-Mail mit [Token](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) anpassen.
+>Sie können die Position des HTML-Abmeldung in Ihrer E-Mail mit [Token](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) anpassen.
 
 ## Standard-Abmeldung von Text {#default-unsubscribe-text}
 
@@ -56,9 +53,4 @@ HTML abmelden:
 
 >[!MORELIKETHIS]
 >
->* [Die Meldung &quot;Ansicht als Webseite&quot;bearbeiten](edit-the-view-as-web-page-message.md)
-
->
-
-
-
+>[Die Meldung &quot;Ansicht als Webseite&quot;bearbeiten](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
