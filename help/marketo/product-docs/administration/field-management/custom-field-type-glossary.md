@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Glossar "Benutzerdefinierter Feldtyp"- Marketing-Dokumente - Produktdokumentation
 title: Glossar "Benutzerdefinierter Feldtyp"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 >[!PREREQUISITES]
 >
->* [Benutzerdefiniertes Feld in Marketing erstellen](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[Benutzerdefiniertes Feld in Marketing erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Abhängig vom Feldtyp unterscheiden sich die Filter-/Auslöser-Operatoren [a1/>.](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary)
+>Abhängig vom Feldtyp unterscheiden sich Filter/Trigger [Operatoren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md).
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 **Beispielname:** Alternative E-Mail - Behalten Sie eine alternative E-Mail-Adresse für Ihre Mitarbeiter bei (E-Mails können nicht tatsächlich an dieses Feld gesendet werden, wie z. B. das Standardfeld für die E-Mail-Adresse, das ist eine spezielle Adresse)
 
-**Beispielwerte:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**Beispielwerte:** name@company.com
 
 **Operatoren**: is, is not, Beginn with, not Beginns with, contains, not contains, is empty, is not empty
 
@@ -81,7 +77,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 ## Formel {#formula}
 
-**Beispielname:** Salutationen - verwenden Sie dieses spezielle Feld in einer  [Lösung, um die richtige ](create-and-use-a-concatenated-string-formula-field.md) geschlechtsspezifische Begrüßung zu erhalten
+**Beispielname:** Salutationen - verwenden Sie dieses spezielle Feld in einer  [Lösung, um die richtige ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) geschlechtsspezifische Begrüßung zu erhalten
 
 **Beispielwerte:verknüpfte Lösung** überprüfen
 
