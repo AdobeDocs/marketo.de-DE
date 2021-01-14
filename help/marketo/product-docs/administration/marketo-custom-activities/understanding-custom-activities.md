@@ -3,9 +3,9 @@ unique-page-id: 10100266
 description: Benutzerspezifische Aktivitäten - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Aktivitäten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,14 @@ Mit benutzerspezifischen Aktivitäten können Sie eine Aktivität verfolgen, die
 >
 >Benutzerdefinierte Aktivitäten unterscheiden sich von benutzerdefinierten Objekten. Verwenden Sie benutzerdefinierte Objekte, wenn sich der Wert ändern kann (z. B. &quot;Auto-Farbe&quot;wechselt von Blau zu Rot). Verwenden Sie benutzerspezifische Aktivitäten, wenn Sie aufgetretene Momente verfolgen und deren Details sich nicht ändern können (z. B. &quot;Einkaufswagen&quot;).
 
-**** FelderSie können  [zusätzliche ](https://docs.marketo.com/x/Mx6a) Felder hinzufügen, die Sie mit Ihrer Aktivität verknüpfen möchten. Wie das Primärfeld können sie als Filterkriterien in einer intelligenten Liste verwendet werden.
+**** FelderSie können  [zusätzliche ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) Felder hinzufügen, die Sie mit Ihrer Aktivität verknüpfen möchten. Wie das Primärfeld können sie als Filterkriterien in einer intelligenten Liste verwendet werden.
 
 **Erste Schritte**
 
 Benutzerdefinierte Aktivitäten funktionieren genau wie normale Aktivitäten. Das Einrichten ist jedoch ein zweiteiliger Prozess.
 
-Schritt 1: [Erstellen Sie eine benutzerspezifische Aktivität](create-a-custom-activity.md) in Ihrem Marketing-Konto
+Schritt 1: [Erstellen Sie eine benutzerspezifische Aktivität](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in Ihrem Marketing-Konto
 
-Schritt 2: Der Mitarbeiter in Ihrer Organisation, der mit unserer API arbeitet, kann dann mit der Implementierung beginnen. Weitere Informationen finden Sie unter: [Benutzerspezifische Aktivitäten-API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+Schritt 2: Der Mitarbeiter in Ihrer Organisation, der mit unserer API arbeitet, kann dann mit der Implementierung beginnen. Weitere Informationen finden Sie unter: [Benutzerspezifische Aktivitäten-API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 Viel Spaß!
