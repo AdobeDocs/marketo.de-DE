@@ -3,7 +3,7 @@ unique-page-id: 10100272
 description: Veröffentlichen einer benutzerspezifischen Aktivität - Marketing Docs - Produktdokumentation
 title: Veröffentlichen einer benutzerdefinierten Aktivität
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetz
    ![](assets/six-2.png)
 
    Gut gemacht!
-
