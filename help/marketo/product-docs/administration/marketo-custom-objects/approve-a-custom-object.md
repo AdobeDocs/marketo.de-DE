@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Benutzerdefiniertes Objekt genehmigen - Marketing Docs - Produktdokumentation
 title: Benutzerdefiniertes Objekt genehmigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,18 +33,15 @@ Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. Hier ist, wie man 
 
    >[!NOTE]
    >
-   >Ein benutzerdefiniertes Objekt, das in einer *1-zu-n-Struktur* verwendet wird, muss mindestens ein dedupliziertes Feld, ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen haben, um genehmigt zu werden.
+   >Ein benutzerdefiniertes Objekt, das in einer _1-zu-n-Struktur_ verwendet wird, muss mindestens ein dedupliziertes Feld, ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen haben, um genehmigt zu werden.
    >
+   >Ein benutzerdefiniertes Objekt, das in einer _Viele-zu-viele-Struktur_ **verwendet wird, benötigt bei der Genehmigung des Objekts kein Verknüpfungsfeld, einen verknüpften Objektnamen oder einen verknüpften Feldnamen (da diese im Zwischenobjekt leben).**
    >
-   >Ein benutzerdefiniertes Objekt, das in einer *Viele-zu-viele-Struktur* **verwendet wird, benötigt bei der Genehmigung des Objekts kein Verknüpfungsfeld, einen verknüpften Objektnamen oder einen verknüpften Feldnamen (da diese im Zwischenobjekt leben).**
+   >Ein benutzerdefiniertes Objekt, das als _intermediäres Objekt_ verwendet wird, erfordert ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen, **erfordert jedoch kein dedupliziertes Feld.**
    >
-   >
-   >Ein benutzerdefiniertes Objekt, das als *intermediäres Objekt* verwendet wird, erfordert ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen, **erfordert jedoch kein dedupliziertes Feld.**
-   >
-   >
-   >Weitere Informationen finden Sie unter [Informationen zu &quot;Markieren zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md)&quot;.
+   >Weitere Informationen finden Sie unter [Informationen zu &quot;Markieren zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)&quot;.
 
-Das ist&#39;s! Jetzt können Sie Ihr benutzerdefiniertes Objekt in den Einschränkungen Ihrer Filter und Auslöser auswählen, die in Ihren Kampagnen verwendet werden sollen.
+Das ist&#39;s! Jetzt können Sie Ihr benutzerdefiniertes Objekt in den Einschränkungen Ihrer Filter und Trigger auswählen, die Sie in Ihren Kampagnen verwenden möchten.
 
 ## Genehmigen eines bearbeiteten benutzerdefinierten Objekts {#approve-an-edited-custom-object}
 
@@ -61,4 +58,3 @@ Nachdem Sie ein genehmigtes benutzerdefiniertes Objekt bearbeitet haben, müssen
 1. Eine Vorschau zeigt die Elemente an, die im Entwurf geändert wurden. Klicken Sie auf **Genehmigen**.
 
    ![](assets/six-1.png)
-
