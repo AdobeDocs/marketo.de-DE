@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: Bearbeiten und Löschen von Markierungen zu benutzerdefinierten Objektfeldern - Marketing to Docs - Produktdokumentation
 title: Bearbeiten und Löschen von Markierungen in benutzerdefinierten Objektfeldern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -45,18 +45,14 @@ Wenn Sie kein Feld mehr in einem benutzerdefinierten Objekt mehr benötigen, kö
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   Achten Sie darauf, das Feld wirklich zu löschen, bevor Sie den Auslöser ziehen! Klicken Sie auf **Löschen**.
+   Achten Sie darauf, dass Sie das Feld wirklich löschen möchten, bevor Sie den Trigger ziehen! Klicken Sie auf **Löschen**.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. Es ist weg!
+   Es ist weg!
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >
-   >[hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](add-marketo-custom-object-fields.md)
-
+   >[hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
