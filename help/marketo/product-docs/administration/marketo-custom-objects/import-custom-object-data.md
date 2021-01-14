@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: Importieren benutzerdefinierter Objektdaten - Marketing to Docs - Produktdokumentation
 title: Benutzerspezifische Objektdaten importieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Benutzerspezifische Objektdaten importieren {#import-custom-object-data}
 
-Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importieren. Wenn Sie benutzerdefinierte Objekte mit Firmen verwenden, finden Sie weitere Informationen unter [Verwenden von benutzerdefinierten Objekten mit Firmen](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies).
+Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importieren. Wenn Sie benutzerdefinierte Objekte mit Firmen verwenden, finden Sie weitere Informationen unter [Verwenden von benutzerdefinierten Objekten mit Firmen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies).
 
 1. Wechseln Sie in &quot;My Marketo&quot;zu **Database**.
 
@@ -71,9 +71,4 @@ Benutzerdefinierte Objektdaten lassen sich problemlos in Ihre Datenbank importie
 
 >[!MORELIKETHIS]
 >
->* [Erläuterungen zu benutzerdefinierten Objekten](understanding-marketo-custom-objects.md)
-
->
-
-
-
+>[Erläuterungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
