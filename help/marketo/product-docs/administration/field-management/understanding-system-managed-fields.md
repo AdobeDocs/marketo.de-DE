@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: Die systemverwalteten Felder - Marketing-Dokumente - Produktdokumentation
 title: Die systemverwalteten Felder
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Die systemverwalteten Felder {#understanding-system-managed-fields}
 
-Möglicherweise haben Sie bemerkt, dass die [Personendaten-Seite](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) eine Reihe nicht bearbeitbarer Felder enthält, die von Marketo erstellt wurden. Diese Daten stammen aus verschiedenen Quellen, und es gibt unzählige Werte, die angezeigt werden könnten.
+Möglicherweise haben Sie bemerkt, dass die [Personendaten-Seite](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) eine Reihe nicht bearbeitbarer Felder enthält, die von Marketo erstellt wurden. Diese Daten stammen aus verschiedenen Quellen, und es gibt unzählige Werte, die angezeigt werden könnten.
 
 ## Feldtypen {#field-types}
 
@@ -67,4 +67,3 @@ Unten sind einige mögliche Werte und was sie meinen.
 | Munchkin-API | Werden Sie eine Person durch Marketo&#39;s Munchkin API |
 | Social-App | Persönlichkeit durch ein soziales Widget |
 | Ereignis-Partner | Persönlichkeit über einen verknüpften Webinar-Dienst |
-
