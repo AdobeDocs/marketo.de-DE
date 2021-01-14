@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: HTML-Kodierungstoken in E-Mails - Marketing Docs - Produktdokumentation
 title: HTML-Kodierungstoken in E-Mails
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Personen- und Firmen-Token, die in E-Mails verwendet werden, aktivieren/deaktivi
 
 >[!NOTE]
 >
->**Definition**
->
->Durch die Kodierung werden Zeichen in ihre HTML-Codeversionen konvertiert, um Verwirrung zu vermeiden (z. &quot;&amp;&quot;wird in &quot;&amp;&quot;geändert. Weitere Informationen erhalten Sie von Ihrem Webentwickler.
+>Durch die Kodierung werden Zeichen in ihre HTML-Codeversionen konvertiert, um Verwirrung zu vermeiden (z. &quot;&amp;&quot;wird in `&amp;` geändert. Weitere Informationen erhalten Sie von Ihrem Webentwickler.
 
 1. Gehen Sie zu **Admin**.
 
@@ -42,4 +40,3 @@ Personen- und Firmen-Token, die in E-Mails verwendet werden, aktivieren/deaktivi
    ![](assets/six.png)
 
    Und das ist es! Sie können dies für so viele einzelne Felder tun, wie Sie möchten.
-
