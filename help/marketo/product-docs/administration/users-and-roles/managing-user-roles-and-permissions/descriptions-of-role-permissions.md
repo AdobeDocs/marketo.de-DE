@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beschreibungen der Rollenberechtigungen - Marketing Docs - Produktdokumentation
 title: Beschreibung der Rollenberechtigungen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Weitere Informationen zu Berechtigungen:
 
 ## Verfügbare Berechtigungen {#available-permissions}
 
-Wenn Sie [eine Rolle](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) erstellen oder bearbeiten, können Sie die folgenden Berechtigungen auswählen, um diese Rolle zuzulassen, indem Sie die entsprechenden Kontrollkästchen aktivieren.
+Wenn Sie [eine Rolle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) erstellen oder bearbeiten, können Sie die folgenden Berechtigungen auswählen, um diese Rolle zuzulassen, indem Sie die entsprechenden Kontrollkästchen aktivieren.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ Ansicht und nehmen Sie Änderungen an den Einstellungen im Abschnitt &quot;Mein 
 * Kanal aufrufen - Ermöglicht Benutzern nur Zugriff auf die Änderung des Kanal-Tags, nicht auf andere benutzerdefinierte Tags
 * Kommunikationsbeschränkung für den Zugriff - Ermöglicht Benutzern Zugriff auf die Aktivierung einer Kommunikationsbeschränkung in Admin
 * Access CRM - Ermöglicht Benutzern Zugriff auf CRM, wie Salesforce oder Microsoft Dynamics, in Admin
-* Zugriff auf [Data.com](http://Data.com) - Gewährt Benutzern Zugriff auf die Datenfluss-Aktion Data.com
+* Zugriff auf [Data.com](https://Data.com) - Gewährt Benutzern Zugriff auf die Datenfluss-Aktion Data.com
 * E-Mail-Admin aufrufen - Ermöglicht Benutzern, E-Mail-Admin zu ändern, um Standardeinstellungen wie Abmelden und Branding-Domänen zu ändern
 * Access Ereignis Partners - Ermöglicht Benutzern Zugriff auf LaunchPoint in Admin
 * Feldverwaltung aufrufen - Ermöglicht Benutzern Zugriff auf Feldverwaltung in Admin
@@ -105,14 +105,12 @@ Bietet die Benutzer Zugriff auf Kalenderpräsentationen ??- ermöglicht die Anze
 Ermöglicht Benutzern Zugriff auf die Registerkarte &quot;Design Studio&quot;und die Ansicht der Struktur, jedoch nicht auf Details.
 
 * E-Mail
-
    * E-Mail bearbeiten - Ermöglicht Benutzern das Bearbeiten, Erstellen und Klonen von E-Mails
+      * E-Mail operativ machen - Ermöglicht Benutzern, eine E-Mail in Betrieb zu nehmen. Siehe: [Eine E-Mail operativ machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * E-Mail operativ machen - Ermöglicht Benutzern, eine E-Mail in Betrieb zu nehmen. Siehe: [Eine E-Mail operativ machen](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * E-Mail genehmigen - Ermöglicht Benutzern die Genehmigung von E-Mails.
-   * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
-   * Markendomäne festlegen - Ermöglicht Benutzern das Arbeiten mit Markendomänen. Siehe: [Hinzufügen Mehrere Branding-Domänen](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * E-Mail genehmigen - Ermöglicht Benutzern die Genehmigung von E-Mails.
+      * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
+      * Markendomäne festlegen - Ermöglicht Benutzern das Arbeiten mit Markendomänen. Siehe: [Hinzufügen einer zusätzlichen Branding-Domäne](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * E-Mail-Vorlage aufrufen
 
@@ -220,5 +218,3 @@ Workspace-Administration
 
 * Admin-Zugriff für eine bestimmte Arbeitsfläche (nur, wenn Sie Workspace aktiviert haben)
 * Verschieben von Assets zwischen Workspaces (nur, wenn Workspace aktiviert ist)
-
-Mobile Anwendung aufrufen
