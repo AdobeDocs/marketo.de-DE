@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Arbeitsbereich bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Arbeitsbereich bearbeiten
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Bereiten Sie die Arbeitsbereiche mit [Arbeitsbereiche und Benutzerpartitionen](understanding-workspaces-and-person-partitions.md) auf.
+>Bereiten Sie die Arbeitsbereiche mit [Arbeitsbereiche und Benutzerpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) auf.
 
 1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
 
@@ -37,25 +35,19 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Sie können [weitere Personenpartitionen](create-a-person-partition.md) erstellen, wenn Sie diese benötigen.
+   >Sie können [weitere Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) erstellen, wenn Sie diese benötigen.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >Das Kontrollkästchen **Partitionen aller Personen**** **bedeutet, dass dieser Arbeitsbereich alle Interessentenpartitionen im System verwenden kann.
+   >Das Kontrollkästchen **Partitionen aller Personen** bedeutet, dass dieser Arbeitsbereich alle Interessentenpartitionen im System verwenden kann.
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Die** primäre Personenpartition** fungiert als Standard und ist dort, wo alle Personen zugewiesen werden.
+   >Die **primäre Personenpartition** fungiert als Standard und ist dort, wo alle Personen zugewiesen werden.
 
-   Wenn Sie mehrere Markendomänen aktiviert haben, können Sie zu einer anderen primären Markendomäne wechseln. Klicken Sie auf Speichern.
+   Wenn Sie mehrere Markendomänen aktiviert haben, können Sie zu einer anderen primären Markendomäne wechseln. Klicken Sie auf **Speichern**.
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
 
 >[!MORELIKETHIS]
 >
->* [Neue Arbeitsfläche erstellen](create-a-new-workspace.md)
->* [Arbeitsbereiche und Benutzerpartitionen](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [Neue Arbeitsfläche erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Arbeitsbereiche und Benutzerpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
