@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Löschen eines Programm-Kanals - Marketing Docs - Produktdokumentation
 title: Löschen eines Programm-Kanals
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Programm-Kanal sind eine Sammlung von Status oder Checkpoints, die in einem Prog
 
 Wenn Sie einen versehentlich erstellen oder keinen mehr benötigen, können Sie ihn löschen.
 
-1. Gehen Sie zum Abschnitt* Admin**.
+1. Gehen Sie zum Abschnitt **Admin**.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -33,13 +33,4 @@ Wenn Sie einen versehentlich erstellen oder keinen mehr benötigen, können Sie 
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! Sie können auch [bestimmte Status aus Kanälen](delete-a-program-status-from-a-program-channel.md) löschen.
-
->[!MORELIKETHIS]
->
->* [Löschen eines Programm-Status aus einem Programm-Kanal](delete-a-program-status-from-a-program-channel.md)
-
->
-
-
-
+Bam! Sie können auch [bestimmte Status aus Kanälen](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md) löschen.
