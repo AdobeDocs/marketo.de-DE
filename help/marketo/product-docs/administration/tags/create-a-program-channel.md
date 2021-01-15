@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Erstellen eines Programm-Kanals - Marketing Docs - Produktdokumentation
 title: Erstellen eines Programm-Kanals
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Erfahren Sie mehr über [Programm](http://docs.marketo.com/display/docs/programs), das wichtigste Element in Marketo.
+>Erfahren Sie mehr über [Programm](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), das wichtigste Element in Marketo.
 
 1. Klicken Sie im Abschnitt **Admin** auf **Tags**.
 
@@ -45,27 +43,20 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
    >
    >**Beispiel**
    >
-   >
    >Kanal: Reklametafeln
    >
-   >    
-   >    
-   >    * Anwenden auf: Standard
-   >    * Progression: Mitglied, Verlobt (im Zweifelsfall funktionieren diese gut)
-   >    * Erfolg: Engagiert
+   >* Anwenden auf: Standard
+   >* Progression: Mitglied, Verlobt (im Zweifelsfall funktionieren diese gut)
+   >* Erfolg: Engagiert
 
-   >    
-   >    
+   >
    >Kanal: Partei
    >
-   >    
-   >    
-   >    * Anwenden auf: Ereignis
-   >    * Progression: Eingeladen, registriert, Keine Anzeige und Teilnahme
-   >    * Erfolg: Angezeigt
+   >* Anwenden auf: Ereignis
+   >* Progression: Eingeladen, registriert, Keine Anzeige und Teilnahme
+   >* Erfolg: Angezeigt
 
-   >    
-   >    
+   >
    >Sehen Sie sich die Progressionen der vorhandenen Kanal an, um eine Vorstellung davon zu erhalten, wie sie verwendet werden.
 
 1. Gehen wir zum Parteitag-Kanal. Benennen Sie Ihren neuen **Kanal** und wählen Sie den Programm-Typ, auf den er angewendet werden soll.
@@ -113,10 +104,7 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Nur Personen mit einem **Mobile Check-in-Status***** **von **Registered** und **teilgenommen** werden in den [Mobile Check-in-Apps](http://docs.marketo.com/display/docs/events) angezeigt.
+   >Nur Personen mit einem **Mobile Check-in-Status** von **Registered** und **teilgenommen** werden in [Mobile Check-in-Apps](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md) angezeigt.
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Versand
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    Gut gemacht! Wenn Sie ein neues Programm dieses Typs erstellen, wird dieser neue Kanal eine der Möglichkeiten sein.
-
