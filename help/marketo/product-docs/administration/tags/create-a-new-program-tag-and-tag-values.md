@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: Neue Programm-Tag- und Tag-Werte erstellen - MarketingToDocs - Produktdokumentation
 title: Neue Programm-Tag- und Tag-Werte erstellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Sie können für Ihre Programm benutzerdefinierte [Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) erstellen und dem Tag Werte zuweisen.
+Sie können für Ihre Programm benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) erstellen und dem Tag Werte zuweisen.
 
 >[!NOTE]
 >
