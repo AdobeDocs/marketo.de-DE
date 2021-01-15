@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: Zuweisen von Benutzerpartitionen zu Zuweisungsregeln - MarketingToDocs - Produktdokumentation
 title: Zuweisen von Benutzerpartitionen zu Zuordnungsregeln
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Personenpartition erstellen](create-a-person-partition.md)
-
->
-
-
+>[Personenpartition erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Richten Sie bei der Verwendung von Personenpartitionen Zuweisungsregeln ein, um von Ihrem CRM erstellte Personen an ihre jeweiligen Partitionen weiterzuleiten.
 
@@ -33,13 +29,13 @@ Richten Sie bei der Verwendung von Personenpartitionen Zuweisungsregeln ein, um 
 
 1. Klicken Sie unter &quot;Admin&quot;auf Arbeitsbereiche und Partitionen.
 
-![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Klicken Sie unter der Registerkarte **Personale Partitionen **auf **Zuweisungsregeln**.
+1. Klicken Sie unter der Registerkarte **Personale Partitionen** auf **Zuweisungsregeln**.
 
    ![](assets/two-6.png)
 
-1. Klicken Sie auf **Hinzufügen Auswahlmöglichkeit **um Bedingungen für Routing-Personen in persönliche Partitionen einzufügen.
+1. Klicken Sie auf **Hinzufügen wählen**, um Bedingungen für Routing-Personen in Personenpartitionen hinzuzufügen.
 
    ![](assets/three-6.png)
 
@@ -48,7 +44,8 @@ Richten Sie bei der Verwendung von Personenpartitionen Zuweisungsregeln ein, um 
    ![](assets/four-5.png)
 
 1. Wählen Sie den Auswahloperator und geben Sie einen Wert ein.
-1. ![](assets/five-1.png)
+
+   ![](assets/five-1.png)
 
 1. Wählen Sie die Personenpartition aus, in die die Personen, die die Bedingungen erfüllen, fallen sollen.
 
@@ -56,10 +53,10 @@ Richten Sie bei der Verwendung von Personenpartitionen Zuweisungsregeln ein, um 
 
    >[!NOTE]
    >
-   >
    >Sie können beliebig viele Auswahlmöglichkeiten hinzufügen.
 
-   Klicken Sie auf Speichern.
+1. Klicken Sie auf **Speichern**.
+
    ![](assets/seven.png)
 
 Und da hast du es! Sie haben Regeln zum Ausfüllen Ihrer persönlichen Partitionen mit Leuten zugewiesen!
@@ -67,4 +64,3 @@ Und da hast du es! Sie haben Regeln zum Ausfüllen Ihrer persönlichen Partition
 >[!NOTE]
 >
 >Die Standardauswahl wird angewendet, wenn keine der vorherigen Bedingungen erfüllt ist.
-
