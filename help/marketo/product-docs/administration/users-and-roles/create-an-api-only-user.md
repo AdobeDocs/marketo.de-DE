@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Erstellen eines Nur-API-Benutzers - Marketing-Dokumente - Produktdokumentation
 title: Nur-API-Benutzer erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # Erstellen eines Nur-API-Benutzers {#create-an-api-only-user}
 
-Wenn Sie die Integration mit Marketo über die [REST-API](http://developers.marketo.com/documentation/rest/) durchführen möchten, müssen Sie einen Benutzer erstellen, der nur die API verwendet. So geht es.
+Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.marketo.com/documentation/rest/) durchführen möchten, müssen Sie einen Benutzer erstellen, der nur die API verwendet. So geht es.
 
 >[!PREREQUISITES]
 >
->* [Benutzerrolle &quot;Nur API erstellen&quot;](create-an-api-only-user-role.md)
-
->
-
+>[Benutzerrolle &quot;Nur API erstellen&quot;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 
 >[!NOTE]
@@ -57,13 +54,6 @@ Wenn Sie die Integration mit Marketo über die [REST-API](http://developers.mark
 
 Dann ja! Nun lassen Sie uns fortfahren und den benutzerdefinierten Dienst erstellen.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
-
->
-
-
-
+>[Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
