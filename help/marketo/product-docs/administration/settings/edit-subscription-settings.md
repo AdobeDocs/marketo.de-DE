@@ -3,7 +3,7 @@ unique-page-id: 10099785
 description: Einstellungen für Abonnements bearbeiten - Marketing Docs - Produktdokumentation
 title: Einstellungen für Abonnements bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Wenn Sie beispielsweise sowohl in Produktions- als auch in Sandbox-Instanzen arb
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
    Ta-da! Dein Abonnement hat einen neuen Namen.
-
