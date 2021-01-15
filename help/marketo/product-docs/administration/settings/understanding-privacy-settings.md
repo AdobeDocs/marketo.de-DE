@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: Datenschutzeinstellungen - Marketing-Dokumente - Produktdokumentation
 title: Datenschutzeinstellungen
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Diese Methoden könnten sich auf den Wert und die Funktionalität von Marketo in
 
 Web-Besucher können ihren Browser so einstellen, dass die Verfolgung durch eine beliebige Website verhindert wird, indem sie &quot;Nicht verfolgen&quot;(DNT) wählen. Dies verhindert die Verfolgung dieses bestimmten Browsers und Geräts. Ausführliche Informationen finden Sie in den Datenschutzeinstellungen des Browsers.
 
-In Munchkin kann ein Marketingspezialist [entscheiden, ob die DNT-Einstellung des Browsers](edit-do-not-track-browser-support-settings.md) unterstützt oder ignoriert werden soll.
+In Munchkin kann ein Marketingspezialist [entscheiden, ob die DNT-Einstellung des Browsers](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md) unterstützt oder ignoriert werden soll.
 
 Bei der Web-Personalisierung kann ein Marketingexperte entscheiden, ob er [die DNT-Einstellung des Browsers](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md) unterstützt oder ignoriert.
 
@@ -76,5 +76,4 @@ Marketingexperten können die Privatsphäre schützen, indem sie Benutzer mit ei
 
 * Fügen Sie für die Web-Personalisierung (RTP) dem JavaScript Folgendes hinzu:
 
-IP anonymisieren: vor dem Aufruf von rtp(&#39;send&#39;,&#39;Ansicht&#39;); add rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonymizeIP&#39; : true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
