@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Erstellen eines neuen Arbeitsbereichs - Marketing-Dokumente - Produktdokumentation
 title: Neue Arbeitsfläche erstellen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Verstehen Sie zuerst mit [Die Arbeitsbereiche und die Benutzerpartitionen](understanding-workspaces-and-person-partitions.md).
+>Verstehen Sie zuerst mit [Die Arbeitsbereiche und die Benutzerpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Weitere Informationen zu den Best Practices für Workspace erhalten Sie unter [Marketing Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>Weitere Informationen zu den Best Practices für Workspace erhalten Sie unter [Marketing Professional Services](mailto:services@marketo.com).
 
 1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
 
@@ -42,33 +40,25 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
    ![](assets/two-1.png)
 
-1. Geben Sie einen** Namen** ein und wählen Sie die **Personenpartition(en)** aus, die Sie verwenden möchten. Wählen Sie eine **Primär Personale Partition**.
+1. Geben Sie einen **Name** ein und wählen Sie die **Benutzerpartition(en)** aus, die Sie verwenden möchten. Wählen Sie eine **Primär Personale Partition**.
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Stellen Sie sicher, dass [Personenpartitionen](create-a-person-partition.md) erstellen, wenn Sie dies noch nicht getan haben.
+   >Stellen Sie sicher, dass [Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) erstellen, wenn Sie dies noch nicht getan haben.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Das Kontrollkästchen **Alle Benutzerpartitionen**** **bedeutet, dass dieser Arbeitsbereich alle Personenpartitionen im System verwenden kann.
-
-   >[!NOTE]
+   >Das Kontrollkästchen **Alle Benutzerpartitionen** bedeutet, dass dieser Arbeitsbereich alle Personenpartitionen im System verwenden kann.
    >
-   >**Erinnerung**
-   >
-   >
-   >Die** primäre Personenpartition** fungiert als Standard und ist dort, wo alle Personen zugewiesen werden.
+   >Die **primäre Personenpartition** fungiert als Standard und ist dort, wo alle Personen zugewiesen werden.
 
    Wenn Sie mehrere Markendomänen aktiviert haben, müssen Sie eine primäre Markendomäne auswählen.
 
    ![](assets/four-1.png)
 
-   Wählen Sie die Arbeitsflächensprache aus.
+1. Wählen Sie die Arbeitsflächensprache aus.
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ So erstellen Sie einen neuen Arbeitsbereich.
    Nachdem Sie Ihren Arbeitsbereich erstellt haben, sollten Sie das Update sehen!
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
