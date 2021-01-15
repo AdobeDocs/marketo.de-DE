@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: Liste von Benutzern und Rollen exportieren - Marketing Docs - Produktdokumentation
 title: Listen von Benutzern und Rollen exportieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -35,11 +35,10 @@ Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer- und Benutzerro
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
-1. Klicken Sie auf das Symbol **Exportieren **s.
+1. Klicken Sie auf das Symbol **Export**.
 
    ![](assets/image2014-9-10-9-3a26-3a3.png)
 
    Und das sind alles Leute! Sie sollten die neue Excel-Datei herunterladen.
 
    ![](assets/image2014-9-10-9-3a26-3a17.png)
-
