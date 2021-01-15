@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Benutzerrolle erstellen, löschen, bearbeiten und ändern - MarketingToDocs - Produktdokumentation
 title: Benutzerrolle erstellen, löschen, bearbeiten und ändern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Rolle {#create-a-role} erstellen
 
-1. Gehen Sie zu **Admin **und klicken Sie auf **Benutzer und Rollen**.
+1. Gehen Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Gehen Sie zur Registerkarte** Rollen* und klicken Sie auf **Neue Rolle**.
+1. Gehen Sie zur Registerkarte **Rollen** und klicken Sie auf **Neue Rolle**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## Löschen einer Rolle {#delete-a-role}
 
-1. Klicken Sie unter Admin,** **auf **Benutzer und Rollen**.
+1. Klicken Sie unter **Admin** auf **Benutzer und Rollen**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Wählen Sie unter der Registerkarte **Rollen **eine Rolle aus und klicken Sie auf **Rolle löschen**.
+1. Wählen Sie unter der Registerkarte **Rollen** eine Rolle aus und klicken Sie auf **Rolle löschen**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Klicken Sie auf die Registerkarte **Rollen*.
+1. Klicken Sie auf die Registerkarte **Rollen**.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Wählen Sie die Rolle, die Sie bearbeiten möchten, und klicken Sie auf** Rolle bearbeiten**.
+1. Wählen Sie die Rolle, die Sie bearbeiten möchten, und klicken Sie auf **Rolle bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Möchten Sie die E-Mail-Adresse des Kontos aktualisieren? [Erfahren Sie hier](http://docs.marketo.com/x/3wFI).
+   >Möchten Sie die E-Mail-Adresse des Kontos aktualisieren? [Erfahren Sie hier](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Ändern der Rolle eines Benutzers {#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Wenn Sie mehrere Rollen ausgewählt lassen, erhält Marketo standardmäßig die restriktivste Berechtigung.
-
-Fantastisch, jetzt sind Sie wirklich auf dem Laufenden!  (Hol’s?)
