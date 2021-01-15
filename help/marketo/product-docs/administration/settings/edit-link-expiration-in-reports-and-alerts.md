@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Link-Ablauf in Berichten und Warnungen bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Link-Ablauf in Berichten und Warnungen bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ Cool, Sie haben Ihre Ablaufeinstellungen für E-Mail-Links bearbeitet.
 
 >[!NOTE]
 >
->**Erinnerung**
->
 >Beachten Sie, dass diese nur für Links in Berichten und Warnungen gelten, nicht für Marketing-E-Mails.
-
