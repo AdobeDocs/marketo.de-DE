@@ -3,7 +3,7 @@ unique-page-id: 4719071
 description: Kontoeinstellungen bearbeiten - Marketing Docs - Produktdokumentation
 title: Kontoeinstellungen bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Müssen Sie die E-Mail-Adresse, den Namen oder die Telefonnummer des Kontos änd
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
    Ta-da! Informationen aktualisiert.
-
