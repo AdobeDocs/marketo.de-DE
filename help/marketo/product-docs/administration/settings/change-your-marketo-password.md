@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: Passwort ändern - MarketingToDocs - Produktdokumentation
 title: Kennzeichnungskennwort ändern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. Geben Sie das alte Kennwort und das neue Kennwort ein und klicken Sie dann auf **Speichern **wenn Ihr neues Kennwort alle Anforderungen erfüllt.
+1. Geben Sie das alte und das neue Kennwort ein und klicken Sie dann auf **Speichern**, wenn Ihr neues Kennwort alle Anforderungen erfüllt.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Was ist ein gutes Kennwort? Etwas lange mit vielen Buchstaben, Zahlen und Symbolen wie &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Außer, nicht jener. Seien Sie kreativ und machen Sie sich selbst.
-
+   >Was ist ein gutes Kennwort? Etwas lange mit vielen Buchstaben, Zahlen und Symbolen wie &quot;M@rk3to !$ Gre@t&quot;. Außer, nicht jener. Seien Sie kreativ und machen Sie sich selbst.
