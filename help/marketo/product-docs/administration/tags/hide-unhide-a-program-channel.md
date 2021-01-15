@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: Programm-Kanal ausblenden/ausblenden - Marketing-Dokumente - Produktdokumentation
 title: Ein-/Ausblenden eines Programm-Kanals
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Sie können einen Programm-Kanal [löschen, wenn er von keinem Programm verwendet wird.  ](delete-a-program-channel.md)  Sobald sie jedoch verwendet wird, müssen wir sie weiter halten.  Sie können sie jedoch ausblenden, wenn Sie sie nicht mehr benötigen.
+Sie können einen Programm-Kanal [löschen, wenn er von keinem Programm verwendet wird.  ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)  Sobald sie jedoch verwendet wird, müssen wir sie weiter halten.  Sie können sie jedoch ausblenden, wenn Sie sie nicht mehr benötigen.
 
 ## Programm-Kanal {#hide-a-program-channel} ausblenden
 
@@ -25,7 +25,7 @@ Sie können einen Programm-Kanal [löschen, wenn er von keinem Programm verwende
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. Klicken Sie auf die Dropdownliste **Kanal** und wählen Sie den **Kanal **aus, der ausgeblendet werden soll.
+1. Klicken Sie auf die Dropdownliste **Kanal** und wählen Sie **Kanal** aus, um sie auszublenden.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -41,4 +41,3 @@ Einfach kommen, einfach gehen!
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
 
-Einfach gehen, einfach kommen! (Ist das ein echter Ausdruck?)
