@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: Vorhandene Personpartition bearbeiten - Marketing Docs - Produktdokumentation
 title: Vorhandene Personenpartition bearbeiten
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partiti
 
 >[!PREREQUISITES]
 >
->* [Personenpartition erstellen](create-a-person-partition.md)
-
->
-
-
+>[Personenpartition erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
 
@@ -35,7 +31,7 @@ Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partiti
 
    ![](assets/two-5.png)
 
-1. Geben Sie die Personenpartition **Name**, die **Arbeitsbereiche **sie gehören ein und klicken Sie auf **Speichern**.
+1. Geben Sie die Personenpartition **Name**, die **Arbeitsbereiche** ein, zu denen sie gehören, und klicken Sie auf **Speichern**.
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partiti
 
    ![](assets/four-4.png)
 
-   Das ist es. Es scheint, als solch ein mächtiges Merkmal sollte komplex sein, aber es ist es nicht.
+Das ist es. Es scheint, als solch ein mächtiges Merkmal sollte komplex sein, aber es ist es nicht.
 
-   >[!CAUTION]
-   >
-   >Messen Sie zweimal, einmal schneiden. Sie möchten dem falschen Arbeitsbereich keine Partition zuweisen.
-
+>[!CAUTION]
+>
+>Messen Sie zweimal, einmal schneiden. Sie möchten dem falschen Arbeitsbereich keine Partition zuweisen.
