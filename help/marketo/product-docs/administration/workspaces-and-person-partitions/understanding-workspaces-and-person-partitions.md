@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Arbeitsbereiche und Benutzerpartitionen - Marketing-Dokumente - Produktdokumentation
 title: Arbeitsbereiche und Benutzerpartitionen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Arbeitsbereiche können komplex eingerichtet werden.  Wenden Sie sich an den [Marketing-Support](http://support.marketo.com/), um herauszufinden, ob sie für Sie richtig sind.
+>Arbeitsbereiche können komplex eingerichtet werden. Wenden Sie sich an den [Marketing-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um herauszufinden, ob sie für Sie richtig sind.
 
 Arbeitsbereiche sind in Marketo separate Bereiche, in denen Marketing-Assets wie Programm, Landingpages, E-Mails und mehr enthalten sind. Sie können von mehreren Personen verwendet werden. Jeder Benutzer hat Zugriff auf einen oder mehrere Arbeitsbereiche.
 
@@ -36,9 +36,7 @@ In jedem Fall liegt die Trennung daran, dass die Marketing-Assets völlig unters
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Erfahren Sie, wie Sie [eine neue Arbeitsfläche](create-a-new-workspace.md) erstellen.
+>Erfahren Sie, wie Sie [eine neue Arbeitsfläche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) erstellen.
 
 ## Freigeben über Workspaces {#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ Sie können diese Elemente über mehrere Arbeitsbereiche hinweg freigeben.
 * Landingpage-Vorlagen
 * Modelle
 * Intelligente Kampagnen
-* [Intelligente Listen](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segmente](share-segmentations-across-workspaces-and-partitions.md)
+* [Intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Segmente](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Snippets
 
 ## Klonen über Arbeitsbereiche {#cloning-across-workspaces}
@@ -105,7 +103,7 @@ Um Assets in einen neuen Arbeitsbereich zu verschieben, legen Sie sie in einen O
 
 ## Benutzerpartitionen {#person-partitions}
 
-Personenpartitionen funktionieren wie separate Datenbanken. Jede Partition hat eigene Leute, die nicht deduplizieren oder mit anderen Partitionen mischen. Wenn Sie der Meinung sind, dass Sie einen Geschäftsfall haben, der möglicherweise Duplikate mit derselben E-Mail-Adresse erfordert, wenden Sie sich bitte an [Marketing Support](http://support.marketo.com).
+Personenpartitionen funktionieren wie separate Datenbanken. Jede Partition hat eigene Leute, die nicht deduplizieren oder mit anderen Partitionen mischen. Wenn Sie der Meinung sind, dass Sie einen Geschäftsfall haben, der möglicherweise Duplikate mit derselben E-Mail-Adresse erfordert, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Sie können [Arbeitsflächen](create-a-new-workspace.md) in den folgenden Konfigurationen persönliche Partitionen zuweisen:
 
@@ -115,15 +113,10 @@ Sie können [Arbeitsflächen](create-a-new-workspace.md) in den folgenden Konfig
 
 >[!NOTE]
 >
->**Beispiel**
->
 >Gründe, warum Sie eine Personenpartition verwenden würden:
 >
 >* Ihre Arbeitsbereiche verfügen nicht nur über unterschiedliche Assets, sondern teilen auch keine Personen mit
 >* Sie möchten Duplikat aus anderen geschäftlichen Gründen
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ Sie können [Arbeitsflächen](create-a-new-workspace.md) in den folgenden Konfig
 
 >[!NOTE]
 >
->**Tieftauchen**
->
-> Erfahren Sie, wie [eine Personenpartition](create-a-person-partition.md) erstellt wird.
-
+>Erfahren Sie, wie [eine Personenpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) erstellt wird.
