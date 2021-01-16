@@ -3,9 +3,9 @@ unique-page-id: 1146940
 description: Intelligente Liste für intelligente Kampagne definieren | Batch - Marketing Docs - Produktdokumentation
 title: Intelligente Liste für intelligente Kampagne definieren | Stapel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,7 @@ Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Sie können eine intelligente Kampagne basierend auf Live-Ereignissen einzeln ausführen lassen, indem Sie Auslöser hinzufügen, wodurch die intelligente Kampagne im Modus **Auslöser** ausgeführt wird.
+   >Sie können eine intelligente Kampagne basierend auf Live-Ereignissen einzeln ausführen lassen, indem Sie Trigger hinzufügen, wodurch die intelligente Kampagne im Modus **Trigger** ausgeführt wird.
 
 1. Klicken Sie auf die Dropdownliste und wählen Sie einen Filteroperator für den ausgewählten Filter.
 
@@ -48,17 +45,12 @@ Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot
 
    >[!NOTE]
    >
-   >Standardmäßig sind Personen, die ALLE Regeln der intelligenten Liste erfüllen, qualifiziert. Dies kann an Ihre Kampagne angepasst werden. Weitere Informationen finden Sie unter [Intelligente Liste für Complex Logic](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md).
+   >Standardmäßig sind Personen, die ALLE Regeln der intelligenten Liste erfüllen, qualifiziert. Dies kann an Ihre Kampagne angepasst werden. Weitere Informationen finden Sie unter [Intelligente Liste für Complex Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md).
 
-   Erfahren Sie, wie Sie bei Live-Ereignissen jeweils eine Person auslösen können, indem Sie [Intelligente Liste für intelligente Kampagne definieren | Auslöser](define-smart-list-for-smart-campaign-trigger.md).
+   Um auf Live-Ereignissen einzeln Trigger, lernen Sie [Intelligente Liste für intelligente Kampagne definieren. | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Intelligente Liste für intelligente Kampagne definieren | Auslöser](define-smart-list-for-smart-campaign-trigger.md)
-   >    * [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+   >* [Intelligente Liste für intelligente Kampagne definieren | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
