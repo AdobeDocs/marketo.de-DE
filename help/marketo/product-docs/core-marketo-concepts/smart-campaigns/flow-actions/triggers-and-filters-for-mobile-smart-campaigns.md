@@ -1,9 +1,9 @@
 ---
 unique-page-id: 9437991
-description: Auslöser und Filter für mobile intelligente Kampagnen - Marketing Docs - Produktdokumentation
-title: Auslöser und Filter für mobile intelligente Kampagnen
+description: Trigger und Filter für mobile intelligente Kampagnen - Marketing Docs - Produktdokumentation
+title: Trigger und Filter für mobile intelligente Kampagnen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Auslöser und Filter für mobile intelligente Kampagnen {#triggers-and-filters-for-mobile-smart-campaigns}
+# Trigger und Filter für mobile Smart-Kampagnen {#triggers-and-filters-for-mobile-smart-campaigns}
 
-Sie können Auslöser und Filter für eine mobile App-Kampagne einrichten.
+Sie können Trigger und Filter für eine Smart-Kampagne der mobilen App einrichten.
 
-Für die meisten Aktivitäten gibt es einen Auslöser, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivität-Filter, um eine Aktion zu verfolgen, z. B. Tippen auf eine Push-Benachrichtigung, dass *nicht* stattgefunden hat.
+Für die meisten Aktivitäten gibt es einen Trigger, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivität-Filter, um eine Aktion zu verfolgen, z. B. Tippen auf eine Push-Benachrichtigung, dass *nicht* stattgefunden hat.
 
 * Mobile App ist installiert/wurde installiert
 * Mobile App wurde geöffnet
@@ -27,23 +27,23 @@ Es gibt nur Filter für diese Aktivität:
 
 * Push-Benachrichtigung gesendet - Filter- und Inaktivitätsfilter
 
-Suchen Sie im rechten Bereich nach **Mobil-App**, um alle Mobile App-Auslöser und -Filter Liste.
+Suchen Sie im rechten Bereich nach **Mobil-App**, um alle Mobile App-Trigger und -Filter Liste.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
 ## Einschränkungen {#constraints}
 
-Verwenden Sie Einschränkungen mit Auslösern und Filtern, um die Daten weiter zu sortieren.
+Verwenden Sie Einschränkungen bei Triggern und Filtern, um die Daten weiter zu sortieren.
 
 ![](assets/image2015-8-17-12-3a6-3a33.png)
 
-Alle Auslöser und Filter mit Ausnahme der Benachrichtigung zum Versand der Push-Benachrichtigung enthalten die folgenden beiden Standardeinschränkungen:
+Alle Trigger und Filter mit Ausnahme der Benachrichtigung über &quot;Wurde gesendet&quot; enthalten die folgenden beiden Standardeinschränkungen:
 
 * Gerätetyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android-Smartphone, Android-Tablet, Unbekannt (dies ist eine voreingestellte Liste)
 
 * Plattform - iPhone oder Android
 
-Einige Auslöser und Filter haben zusätzliche Einschränkungen zum Angebot:
+Bei einigen Triggern und Filtern gelten zusätzliche Einschränkungen wie:
 
 * App-Version - Eine Möglichkeit zur Zielgruppe von Personen, die nicht die neueste Version verwenden. Wenn die neueste App-Version beispielsweise 2.0 ist, können Sie sie verwenden, um Personen zu suchen, die NICHT in App Version 2.0 arbeiten.
 
@@ -59,7 +59,7 @@ Einige Auslöser und Filter haben zusätzliche Einschränkungen zum Angebot:
 
 * Ist Push-aktiviert - **True** bedeutet, dass Push-Benachrichtigungen gesendet werden können. **** Falsemeans, die sie nicht können; die Person hat sich beispielsweise vom Empfang von Push-Benachrichtigungen abgemeldet
 
-## Auslöser und Filter {#triggers-and-filters}
+## Trigger und Filter {#triggers-and-filters}
 
 **Hat mobile Anwendung**
 
@@ -91,7 +91,7 @@ Mobile App ist installiert/wurde installiert
 
 Mobile App wurde geöffnet
 
-* Mobile App wird geöffnet - Auslöser
+* Mobile App wird geöffnet - Trigger
 
 * Mobile App wurde geöffnet - Filter
 
@@ -103,9 +103,9 @@ Mobile App wurde geöffnet
 
 Hat/hat eine mobile App-Aktivität
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um die Verfolgung [für Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) und [für iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios) einzurichten.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um die Verfolgung [für Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) und [für iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios) einzurichten.
 
-* Hat Aktivität für mobile Anwendung - Auslöser
+* Hat Aktivität für mobile Anwendungen - Trigger
 
 * Aktivität der mobilen App - Filter
 
@@ -123,7 +123,7 @@ Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivi
 
 * Aktionslänge (Sekunden) - (optional) Numerisches Feld, mit dem erfasst werden kann, wie lange ein Benutzer eine Aktion durchgeführt hat
 
-Mit den Aktionsbeschränkungen können Sie Auslöser und Filter verwenden, um die mobile Aktivität sehr genau zu verfolgen.
+Mit den Aktionsbeschränkungen können Sie Trigger und Filter verwenden, um die mobile Aktivität sehr genau zu verfolgen.
 
 >[!NOTE]
 >
@@ -132,12 +132,14 @@ Mit den Aktionsbeschränkungen können Sie Auslöser und Filter verwenden, um di
 >Unter dem Aktionstyp *Shopping* gibt es eine sehr spezifische Aktion, die durch die anderen Beschränkungen definiert wird:
 >
 >* Hemd gekauft
->  * Es war rot
->  * Es kostet 30 Dollar
->  * Der Kauf dauerte 20 Sekunden
+   >   * Es war rot
+   >   * Es kostet 30 Dollar
+   >   * Der Kauf dauerte 20 Sekunden
 
 
-So sieht der Filter in Marketo aus:   ![](assets/image2015-8-17-13-3a16-3a12.png)
+So sieht der Filter in Marketo aus:
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -166,7 +168,7 @@ So sieht der Filter in Marketo aus:   ![](assets/image2015-8-17-13-3a16-3a12.png
 
 Tippen/Tippen-Push-Benachrichtigung
 
-* Tips-Push-Benachrichtigung - Auslöser
+* Tips-Push-Benachrichtigung - Trigger
 
 * Tippen - Push-Benachrichtigung - Filter
 
@@ -192,6 +194,6 @@ Tippen/Tippen-Push-Benachrichtigung
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen einer Beschränkung auf einen Filter für intelligente Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Inaktive Filter in einer intelligenten Liste verwenden](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [hinzufügen einer Beschränkung auf einen Filter für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Inaktive Filter in einer intelligenten Liste verwenden](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
