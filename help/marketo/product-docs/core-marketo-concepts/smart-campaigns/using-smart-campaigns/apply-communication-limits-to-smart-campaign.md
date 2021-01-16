@@ -3,7 +3,7 @@ unique-page-id: 1147064
 description: Kommunikationsbeschränkungen auf intelligente Kampagne anwenden - Marketing Docs - Produktdokumentation
 title: Kommunikationsbeschränkungen auf intelligente Kampagne anwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -15,10 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Kommunikationsbeschränkungen aktivieren](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-
->
-
+>[Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
 
 
 Es ist nicht gut, jemanden mehrere Male am Tag oder zu oft in einer Woche per E-Mail zu schicken, nicht wahr? Glücklicherweise hat Marketo Kommunikationsbeschränkungen, um zu helfen. So funktionieren sie.
@@ -27,11 +24,11 @@ Es ist nicht gut, jemanden mehrere Male am Tag oder zu oft in einer Woche per E-
 >
 >Wenn eine Person die festgelegten Kommunikationsgrenzen überschreitet, blockiert Marketo nicht operative E-Mails (operative E-Mails senden immer).
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte Plan und dann auf Einstellungen bearbeiten.
+1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Plan** und dann **Einstellungen bearbeiten**.
 
-![](assets/programeditsettings-hands-1.png)
+   ![](assets/programeditsettings-hands-1.png)
 
-1. Markieren Sie das Kontrollkästchen Nicht-operative E-Mails blockieren und klicken Sie dann auf Speichern.
+1. Markieren Sie das Kontrollkästchen **Nicht operative E-Mails blockieren** und klicken Sie dann auf **Speichern**.
 
    ![](assets/apply-communication-limits-to-smart-campaign.png)
 
@@ -41,6 +38,6 @@ Es ist nicht gut, jemanden mehrere Male am Tag oder zu oft in einer Woche per E-
 
 >[!TIP]
 >
->Um dies als Standard festzulegen, bearbeiten Sie die [Kommunikationsbeschränkungen](../../../../product-docs/administration/email-setup/enable-communication-limits.md) im Abschnitt &quot;Admin&quot;.
+>Um dies als Standard festzulegen, bearbeiten Sie die [Kommunikationsbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) im Abschnitt &quot;Admin&quot;.
 
 Süß. Jetzt können Sie sicher sein, dass Sie nicht versehentlich zu viele E-Mails an Ihre Audience senden.
