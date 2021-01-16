@@ -3,9 +3,9 @@ unique-page-id: 1146933
 description: Intelligente Batch-Kampagne jetzt ausführen | Registerkarte "Plan"- Marketing Docs - Produktdokumentation
 title: Intelligente Batch-Kampagne jetzt ausführen | Registerkarte "Plan"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Nachdem Sie die Batch-Kampagne erstellt haben, können Sie sie jetzt oder späte
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Vergewissern Sie sich, dass **Jetzt ausführen **ausgewählt ist und klicken Sie auf **Ausführen**.
+1. Vergewissern Sie sich, dass **Jetzt ausführen** ausgewählt ist, und klicken Sie auf **Ausführen**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -27,15 +27,10 @@ Nachdem Sie die Batch-Kampagne erstellt haben, können Sie sie jetzt oder späte
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Leichte Pause! Sie können auch [planen, dass die Ausführung für später](schedule-a-batch-smart-campaign-to-run-later.md) ausgeführt wird, wenn Sie möchten.
+   Leichte Pause! Sie können auch [planen, dass die Ausführung für später](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) ausgeführt wird, wenn Sie möchten.
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Stapelausführung einer intelligenten Kampagne für später planen](schedule-a-batch-smart-campaign-to-run-later.md)
-   >    * [Kampagne eines wiederkehrenden Stapels planen](schedule-a-recurring-batch-campaign.md)
-
+   >* [Stapelausführung einer intelligenten Kampagne für später planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Kampagne eines wiederkehrenden Stapels planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
