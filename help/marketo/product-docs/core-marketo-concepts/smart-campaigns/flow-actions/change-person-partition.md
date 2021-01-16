@@ -3,9 +3,9 @@ unique-page-id: 1147078
 description: Benutzerpartition ändern - Marketing-Dokumente - Produktdokumentation
 title: Benutzerpartition ändern
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-Wenn Sie [Arbeitsbereiche und Partitionen](http://docs.marketo.com/x/9QMk) verwenden, sollten Sie intelligente Kampagnen erstellen, um Personen von einer Partition auf eine andere zu verschieben.
+Wenn Sie [Arbeitsbereiche und Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) verwenden, sollten Sie intelligente Kampagnen erstellen, um Personen von einer Partition auf eine andere zu verschieben.
 
 ![](assets/one-3.png)
 
