@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: Neue intelligente Kampagne erstellen - Marketing Docs - Produktdokumentation
 title: Neue intelligente Kampagne erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Neue Smart-Kampagne erstellen {#create-a-new-smart-campaign}
 
-Intelligente Kampagnen sind das wichtigste Werkzeug in Marketing. Sie können eine Person auslösen und Aktionen durchführen oder Millionen von Personen zusammenführen und eine Reihe von Flussschritten ausführen.
+Intelligente Kampagnen sind das wichtigste Werkzeug in Marketing. Sie können Trigger an einer Person ausführen und Aktionen durchführen oder Millionen von Menschen zusammenführen und eine Reihe von Flussschritten ausführen.
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Intelligente Kampagnen sind super cool. Erfahren Sie mehr über sie [hier](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Intelligente Kampagnen sind super cool. Erfahren Sie mehr über sie [hier](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -43,13 +41,8 @@ Intelligente Kampagnen sind das wichtigste Werkzeug in Marketing. Sie können ei
 
    Cool! Erfahren Sie, wie Sie definieren können, welche Menschen mit einer intelligenten Liste durch die intelligente Kampagne laufen sollen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Intelligente Liste für intelligente Kampagne definieren | Stapel](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Intelligente Liste für intelligente Kampagne definieren | Auslöser](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [Intelligente Liste für intelligente Kampagne definieren | Stapel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Intelligente Liste für intelligente Kampagne definieren | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
