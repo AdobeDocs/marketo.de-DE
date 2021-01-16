@@ -3,9 +3,9 @@ unique-page-id: 1147084
 description: Aus Fluss entfernen - Marketing-Dokumente - Produktdokumentation
 title: Aus Fluss entfernen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aus Fluss {#remove-from-flow} entfernen
 
-Stellen Sie sich vor, Sie haben eine intelligente Kampagne, die mit &quot;Warnung senden&quot;einen Vertriebsmitarbeiter daran erinnert, einen heißen Potenzieller Kunde anzurufen. Es sendet jeden Tag eine Nachricht, bis der Mitarbeiter den Anruf abgibt. Sie können &quot;Aus Fluss entfernen&quot;in einer Auslöser-Kampagne verwenden, sobald der Potenzieller Kunde kontaktiert wurde, um weitere Warnungen zu stoppen. Es ist wie ein kluger Kampagne-Projektor-Sitzplatz für eine Person.
+Stellen Sie sich vor, Sie haben eine intelligente Kampagne, die mit &quot;Warnung senden&quot;einen Vertriebsmitarbeiter daran erinnert, einen heißen Potenzieller Kunde anzurufen. Es sendet jeden Tag eine Nachricht, bis der Mitarbeiter den Anruf abgibt. Sie können &quot;Aus Fluss entfernen&quot;in einer Trigger-Kampagne verwenden, sobald der Potenzieller Kunde kontaktiert wurde, um weitere Warnungen zu stoppen. Es ist wie ein kluger Kampagne-Projektor-Sitzplatz für eine Person.
 
 >[!NOTE]
 >
@@ -37,7 +37,4 @@ Wählen Sie die intelligente Kampagne aus, aus der Sie Personen entfernen möcht
 
 >[!NOTE]
 >
->**Erinnerung**
->
 >Diese Funktion ist für die Verwendung in den Flussschritten einer intelligenten Kampagne vorgesehen.
-
