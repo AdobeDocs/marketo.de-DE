@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: Kampagne-Aktionen - Klonen einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Kampagne-Aktionen - Klonen einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Klonen von Kampagnen kann Ihnen Zeit sparen. Keine Notwendigkeit, alles von Grun
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Wählen Sie die entsprechende **Klonen in **Option. Wählen Sie in diesem Beispiel **Programm**.
+1. Wählen Sie die entsprechende Option **Klonen zu**. Wählen Sie in diesem Beispiel **Programm**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ Klonen von Kampagnen kann Ihnen Zeit sparen. Keine Notwendigkeit, alles von Grun
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   Und fertig! Arbeite nicht fleißig, arbeite intelligent.
-
+Und fertig!
