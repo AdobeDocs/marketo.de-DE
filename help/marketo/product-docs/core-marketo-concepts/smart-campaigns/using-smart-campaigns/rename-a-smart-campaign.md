@@ -3,7 +3,7 @@ unique-page-id: 1147049
 description: Umbenennen einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Umbenennen einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können den Namen einer vorhandenen intelligenten Kampagne ändern. So geht es.
 
-1. Gehen Sie zu Marketing-Aktivitäten.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ Sie können den Namen einer vorhandenen intelligenten Kampagne ändern. So geht 
    >
    >Intelligente Kampagnen innerhalb von Programmen werden immer in das Format &quot;ProgramName.CampaignName&quot;übersetzt.
 
-1. Geben Sie den Namen der neuen intelligenten Kampagne ein und klicken Sie auf Speichern.
+1. Geben Sie den Namen der neuen intelligenten Kampagne ein und klicken Sie auf **Speichern**.
 
    ![](assets/rename-cursorandhand.png)
 
