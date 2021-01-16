@@ -1,9 +1,9 @@
 ---
 unique-page-id: 1146935
-description: Aktivieren einer auslösenden intelligenten Kampagne | Registerkarte "Plan"- Marketing Docs - Produktdokumentation
-title: Aktivieren einer auslösenden intelligenten Kampagne | Registerkarte "Plan"
+description: Aktivieren einer Trigger-Smart-Kampagne | Registerkarte "Plan"- Marketing Docs - Produktdokumentation
+title: Aktivieren einer Trigger-Smart-Kampagne | Registerkarte "Plan"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Aktivieren einer auslösenden intelligenten Kampagne | Registerkarte Plan {#activate-a-trigger-smart-campaign-schedule-tab}
+# Aktivieren einer Trigger-Smart-Kampagne | Registerkarte Plan {#activate-a-trigger-smart-campaign-schedule-tab}
 
-Das Aktivieren einer intelligenten Kampagne für Auslöser ist so, als würde sie aktiviert. Hier ist, was zu tun ist.
+Die Aktivierung einer intelligenten Trigger-Kampagne ist so, als würde sie aktiviert. Hier ist, was zu tun ist.
 
 1. Klicken Sie auf der Registerkarte **Plan** der intelligenten Kampagne auf **Aktivieren**.
 
