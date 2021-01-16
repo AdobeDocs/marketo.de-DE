@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: Kampagne anfordern - Marketing Docs - Produktdokumentation
 title: Kampagne anfordern
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Mithilfe der Kampagne **Anforderung** für einen einzelnen Fluss können Sie Per
 
 >[!NOTE]
 >
->Die Kampagne, in der Sie die Person platzieren, muss aktiv sein und die Kampagne ** [muss angefordert werden](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)***.
+>Die Kampagne, in der Sie die Person platzieren, muss aktiv sein und die **[Kampagne muss den Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** haben.
 
 1. Suchen und wählen Sie in der **Datenbank** die gewünschte(n) Person(en) aus.
 
@@ -43,5 +43,4 @@ Mithilfe der Kampagne **Anforderung** für einen einzelnen Fluss können Sie Per
 
 >[!TIP]
 >
->Verwenden Sie den Auslöser oder Filter **Kampagne ist angefordert**, um Personen zu finden, die von diesem Flussschritt betroffen sind.
-
+>Verwenden Sie den Trigger oder Filter **Kampagne ist angefordert**, um Personen zu finden, die von diesem Flussschritt betroffen sind.
