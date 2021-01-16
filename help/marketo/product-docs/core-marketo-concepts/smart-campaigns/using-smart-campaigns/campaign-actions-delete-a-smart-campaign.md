@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Aktionen zur Kampagne - Löschen einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Kampagnen-Aktionen - Löschen einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, k
 
    >[!TIP]
    >
-   >Um die Verarbeitung einer aktiven intelligenten Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie, wie Sie eine intelligente Kampagne [abbrechen.](abort-a-smart-campaign.md)
+   >Um die Verarbeitung einer aktiven intelligenten Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie, wie Sie eine intelligente Kampagne [abbrechen.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, k
    >[!CAUTION]
    >
    >Löschen Sie **NOT** eine aktive intelligente Kampagne mit Personen in den Flussschritten. Die Kampagne wird wahrscheinlich noch ausgeführt.
-
-Schön!
