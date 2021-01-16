@@ -3,9 +3,9 @@ unique-page-id: 1146960
 description: Datenwert ändern - MarketingToDocs - Produktdokumentation
 title: Datenwert ändern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-Mit Marketo können Sie den Wert eines Felds aktualisieren. Dazu verwenden Sie die Aktion **Datenwert ändern **Fluss.
+Mit Marketo können Sie den Wert eines Felds aktualisieren. Dazu verwenden Sie die Flussaktion **Datenwert ändern**.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
 >[!NOTE]
 >
->Sie können auch verhindern, dass ein Feld aktualisiert wird. Weitere Informationen finden Sie unter [Blockaktualisierungen für ein Feld](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
+>Sie können auch verhindern, dass ein Feld aktualisiert wird. Weitere Informationen finden Sie unter [Blockaktualisierungen für ein Feld](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Verwendung {#usage}
 
@@ -35,22 +35,14 @@ Mit Marketo können Sie den Wert eines Felds aktualisieren. Dazu verwenden Sie d
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Sie können Token auch in **Neuer Wert** verwenden.
 
    >[!TIP]
    >
-   >Sie können unter **Neuer Wert** den Wert &#39;NULL&#39; (keine Anführungszeichen, Großbuchstaben) eingeben, um das Feld zu löschen. Weitere Informationen finden Sie unter [Feldwerte löschen](change-data-value/clear-field-values.md).
+   >Sie können unter **Neuer Wert** den Wert &#39;NULL&#39; (keine Anführungszeichen, Großbuchstaben) eingeben, um das Feld zu löschen. Weitere Informationen finden Sie unter [Feldwerte löschen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md).
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Tokens für Flussschritte](use-tokens-in-flow-steps.md)
-   >    * [Daten an ein Feld anhängen](append-data-to-a-field.md)
-
+   >* [Tokens für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
+   >* [Daten an ein Feld anhängen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
 
