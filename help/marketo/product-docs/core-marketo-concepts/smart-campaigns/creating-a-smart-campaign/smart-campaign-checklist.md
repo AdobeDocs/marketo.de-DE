@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: Checkliste für intelligente Kampagnen - Marketing-Dokumente - Produktdokumentation
 title: Checkliste für intelligente Kampagnen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -15,53 +15,52 @@ ht-degree: 0%
 
 Gehen Sie wie folgt vor, um eine reibungslose Ausführung der intelligenten Kampagne sicherzustellen und Fehler so weit wie möglich zu vermeiden.
 
-1. Rid of Smart-Liste-Fehler abrufen
+## Rid of Smart-Liste-Fehler {#get-rid-of-smart-list-errors} abrufen
 
-   Klicken Sie in Ihrer Smart-Kampagne auf **Smart-Liste**. Entfernen Sie alle roten zitternden Linien, die Sie sehen, indem Sie die Fehler beheben.
+Klicken Sie in Ihrer Smart-Kampagne auf **Smart-Liste**. Entfernen Sie alle roten zitternden Linien, die Sie sehen, indem Sie die Fehler beheben.
 
-   ![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/image2014-9-22-16-3a9-3a13.png)
 
-   >[!TIP]
-   >
-   >Rote, zitternde Linien weisen auf Fehler oder fehlende Informationen hin. Wenn die Kampagne nicht korrigiert wird, ist sie ungültig und wird nicht ausgeführt.
-   >
-   >
-   >**Behalten Sie die Dinge auch einfach.** Wenn Sie Dutzende oder Hunderte von Filtern haben, ist es schwer, sie zu erhalten und nachzuverfolgen. Weniger Filter können auch schneller geladen werden.
+>[!TIP]
+>
+>Rote, zitternde Linien weisen auf Fehler oder fehlende Informationen hin. Wenn die Kampagne nicht korrigiert wird, ist sie ungültig und wird nicht ausgeführt.
+>
+>**Behalten Sie die Dinge auch einfach.** Wenn Sie Dutzende oder Hunderte von Filtern haben, ist es schwer, sie zu erhalten und nachzuverfolgen. Weniger Filter können auch schneller geladen werden.
 
-   >[!NOTE]
-   >
-   >**Erinnerung**
-   >
-   >
-   >Bei Verwendung von **Smart-Liste** kann es in dieser anderen Liste zu Fehlern kommen. Schau auch da hin.
+>[!NOTE]
+>
+>Bei Verwendung von **Smart-Liste** kann es in dieser anderen Liste zu Fehlern kommen. Schau auch da hin.
 
-1. Abrufen von Flussfehlern
-1. Klicken Sie in Ihrer intelligenten Kampagne auf **Fluss**. Entfernen Sie alle roten zitternden Linien, die Sie sehen, indem Sie die Fehler beheben.
+## Abrufen von Flussfehlern {#get-rid-of-flow-errors}
 
-   ![](assets/image2014-9-22-16-3a10-3a49.png)
+Klicken Sie in Ihrer intelligenten Kampagne auf **Fluss**. Entfernen Sie alle roten zitternden Linien, die Sie sehen, indem Sie die Fehler beheben.
 
-   >[!TIP]
-   >
-   >Bewegen Sie den Mauszeiger über die rote zitternde Linie, um Details zum Fehler anzuzeigen.
+![](assets/image2014-9-22-16-3a10-3a49.png)
 
-1. Überprüfen Sie die Registerkarte Plan.
-1. Markieren Sie auf der Registerkarte **Plan** die Option **Smart** **Liste** **Status** auf Fehler in der intelligenten Kampagne, die behoben werden müssen.
+>[!TIP]
+>
+>Bewegen Sie den Mauszeiger über die rote zitternde Linie, um Details zum Fehler anzuzeigen.
 
-   ![](assets/three.png)
+## Überprüfen Sie die Registerkarte Plan. {#review-the-schedule-tab}
 
-1. Beschränkung der Personenkontrollen
-1. Stellen Sie auf der Registerkarte **Plan** sicher, dass die Anzahl der qualifizierten Personen die Beschränkung der Personeneinschränkung nicht überschreitet.
+Markieren Sie auf der Registerkarte **Plan** die Option **Smart** **Liste** **Status** auf Fehler in der intelligenten Kampagne, die behoben werden müssen.
 
-   ![](assets/four.png)
+![](assets/three.png)
 
-   >[!TIP]
-   >
-   >Bei Bedarf können Sie [Personenbeschränkungen in einer intelligenten Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) überschreiben.
+## Personenbeschränkung überprüfen {#check-person-restrictions-limit}
+
+Stellen Sie auf der Registerkarte **Plan** sicher, dass die Anzahl der qualifizierten Personen die Beschränkung der Personeneinschränkung nicht überschreitet.
+
+![](assets/four.png)
+
+>[!TIP]
+>
+>Bei Bedarf können Sie [Personenbeschränkungen in einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) überschreiben.
 
 >[!NOTE]
 >
 >**Erinnerung**
 >
->Wenn Ihre intelligente Kampagne immer noch fehlschlägt, erfahren Sie, wie [Benachrichtigungen](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) erkannt werden, um herauszufinden, was schiefgelaufen ist und wie Sie das Problem beheben können.
+>Wenn Ihre intelligente Kampagne immer noch fehlschlägt, erfahren Sie, wie [Benachrichtigungen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) erkannt werden, um herauszufinden, was schiefgelaufen ist und wie Sie das Problem beheben können.
 
 Gute Arbeit! Halten Sie diese Checkliste praktisch, bevor Sie eine intelligente Kampagne ausführen.
