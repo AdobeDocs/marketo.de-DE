@@ -3,7 +3,7 @@ unique-page-id: 1147001
 description: Verwenden der Standard-Regellogik für intelligente Listen - Marketing-Dokumente - Produktdokumentation
 title: Verwenden der Standard-Logik für intelligente Listen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,20 +19,27 @@ Möglicherweise haben Sie die Option &quot;Filter verwenden&quot;beim Erstellen 
 
 >[!NOTE]
 >
->Das Ändern der Regellogik für intelligente Listen gilt nur für Filter, die nicht **auslösen.**
+>Das Ändern der Regellogik für intelligente Listen gilt nur für Filter, **nicht**-Trigger.
 
-Auslöser werden immer als ODER ausgewertet, selbst wenn die oben angegebene Einstellung auf ALL eingestellt ist.  Hier ein Beispiel:
+Trigger werden immer als ODER ausgewertet, selbst wenn die oben angegebene Einstellung auf ALL eingestellt ist.  Hier ein Beispiel:
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 Die oben genannte intelligente Liste in Worten:
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Wenn also eine Person das Formular **oder** ausfüllt, wird diese Kampagne anhand von **alle **oder **beliebige **der nachfolgenden Filter ausgewertet, je nach verwendeter Einstellung.
+
+```box
+IF person fills out My Form
+OR
+IF person visits My Page 
+AND 
+Industry is Marketing 
+AND 
+Country is USA 
+THEN follow the campaign's flow step(s)
+```
+
+Wenn eine Person also das Formular **oder** ausfüllt, wird diese Kampagne anhand der **alle** oder **alle** der nachfolgenden Filter auswerten, je nach verwendeter Einstellung.
 
 >[!MORELIKETHIS]
 >
->* [Erweiterte Logik der Smart-Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-
->
-
-
-
+>[Erweiterte Logik der Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
