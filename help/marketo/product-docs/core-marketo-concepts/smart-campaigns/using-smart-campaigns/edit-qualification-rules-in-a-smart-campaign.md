@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Qualifikationsregeln in einer intelligenten Kampagne bearbeiten - Marketing Docs - Produktdokumentation
 title: Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne {#edit-qualification-rules-in-a-smart-campaign}
 
-Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne durch den Fluss laufen kann. Standardmäßig wird eine intelligente Kampagne nur einmal durch den Fluss gesendet, selbst wenn sie mehrere Male ausgelöst wird. So ändern Sie diese Einstellungen.
+Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne durch den Fluss laufen kann. Standardmäßig wird eine Smart-Kampagne nur einmal durch den Fluss gesendet, selbst wenn ein Trigger mehrere Male erfolgt. So ändern Sie diese Einstellungen.
 
 1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Plan** und dann **Einstellungen bearbeiten**.
 
@@ -33,18 +33,10 @@ Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne dur
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Kommunikationsbeschränkungen werden nicht standardmäßig auf intelligente Kampagnen angewendet. Erfahren Sie, wie Sie auf eine intelligente Kampagne [Kommunikationsbeschränkungen anwenden.](apply-communication-limits-to-smart-campaign.md)
+   >Kommunikationsbeschränkungen werden nicht standardmäßig auf intelligente Kampagnen angewendet. Erfahren Sie, wie Sie auf eine intelligente Kampagne [Kommunikationsbeschränkungen anwenden.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Kommunikationsbeschränkungen auf intelligente Kampagnen anwenden](apply-communication-limits-to-smart-campaign.md)
-
+   >[Kommunikationsbeschränkungen auf intelligente Kampagnen anwenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 Auftrag erfüllt! Sie wissen jetzt, wie Sie Qualifikationsregeln in einer intelligenten Kampagne steuern können.
