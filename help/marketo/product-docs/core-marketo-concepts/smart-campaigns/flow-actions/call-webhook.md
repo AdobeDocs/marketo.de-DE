@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Aufruf von WebHaken - Marketing Docs - Produktdokumentation
 title: Aufruf von WebHook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Erstellen eines Webhofs](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
-
->
-
-
+>[Erstellen eines Webhofs](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## Übersicht {#overview}
 
@@ -29,9 +25,7 @@ Mit Webhooks können Sie mit Drittanbieterdiensten interagieren. Senden/Empfange
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Erfahren Sie mehr über die vielen faszinierenden Dinge, die [Webhooks](http://developers.marketo.com/documentation/webhooks/) für Sie tun können.
+>Erfahren Sie mehr über die vielen faszinierenden Dinge, die [Webhooks](https://developers.marketo.com/documentation/webhooks/) für Sie tun können.
 
 ## Verwendung {#usage}
 
@@ -41,13 +35,6 @@ Wählen Sie aus der Dropdownliste einen **WebHaken** aus.
 
 Das ist alles! Ihr WebHook wird jetzt aufgerufen, wenn Personen in den Fluss der intelligenten Kampagne gelangen.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Verwenden eines Webhofs in einer intelligenten Kampagne](use-a-webhook-in-a-smart-campaign.md)
-
->
-
-
-
+>[Verwenden eines Webhofs in einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
