@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: Daten an ein Feld anhängen - Marketing-Dokumente - Produktdokumentation
 title: Daten an ein Feld anhängen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht es.
 
 >[!PREREQUISITES]
 >
->* [Eine Kampagne erstellen](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[Eine Kampagne erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. Ziehen Sie unter der Registerkarte **Fluss** den Schritt **Datenwert ändern**.
 
@@ -39,5 +35,4 @@ Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht es.
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   Das ist&#39;s! Sie können kreative Elemente erstellen und mehrere Token hinzufügen.
-
+Das ist&#39;s! Sie können kreative Elemente erstellen und mehrere Token hinzufügen.
