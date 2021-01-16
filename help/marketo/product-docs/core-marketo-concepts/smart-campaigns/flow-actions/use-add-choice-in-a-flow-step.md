@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: Hinzufügen in einem Flussschritt - Marketing Docs - Produktdokumentation verwenden
 title: Hinzufügen in einem Flussschritt verwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **hinzufügen** Auswahlmöglichkeiten verwenden Sie einen Flussschritt und sagen &quot;Es kommt darauf an&quot;, wenn Sie die Details auswählen.
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Nur die erste passende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie Sie [die Hinzufügen in einer Flussaktion](reorder-add-choice-in-a-flow-step.md) neu anordnen.
+   >Nur die erste passende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie Sie [die Hinzufügen in einer Flussaktion](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md) neu anordnen.
 
-   >[!NOTE]
+   Großartig! Sie können jetzt eine einzelne intelligente Kampagne mit Flussschrittauswahl erstellen, anstatt für jede Auswahl mehrere intelligente Kampagnen zu erstellen.
+
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [&quot;Hinzufügen Auswahl&quot;in einem Flussschritt neu anordnen](reorder-add-choice-in-a-flow-step.md)
-
-
-Großartig! Sie können jetzt eine einzelne intelligente Kampagne mit Flussschrittauswahl erstellen, anstatt für jede Auswahl mehrere intelligente Kampagnen zu erstellen.
+   >[Hinzufügen in einem Flussschritt neu anordnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
