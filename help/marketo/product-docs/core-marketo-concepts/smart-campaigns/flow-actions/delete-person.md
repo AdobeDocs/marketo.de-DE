@@ -3,7 +3,7 @@ unique-page-id: 1147082
 description: Person löschen - Marketing-Dokumente - Produktdokumentation
 title: Person löschen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -38,4 +38,3 @@ Sie können z. B. aus Marketo und nicht aus Ihrem CRM löschen:
 >[!NOTE]
 >
 >Das Entfernen der Person aus Ihrem CRM **funktioniert nur mit Salesforce**. Wenn Sie eine Person aus Marketo löschen und sie in Salesforce behalten, werden sie in Marketo neu erstellt, wenn ihr Salesforce-Datensatz jemals aktualisiert wird.
-
