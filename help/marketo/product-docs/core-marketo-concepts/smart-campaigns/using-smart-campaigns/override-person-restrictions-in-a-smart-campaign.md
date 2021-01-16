@@ -3,7 +3,7 @@ unique-page-id: 1147066
 description: Außerkraftsetzen von Personenbeschränkungen in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Personenbeschränkungen in einer intelligenten Kampagne überschreiben
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -13,17 +13,18 @@ ht-degree: 0%
 
 # Personenbeschränkungen in einer intelligenten Kampagne {#override-person-restrictions-in-a-smart-campaign} überschreiben
 
-Mit Marketo können Sie die maximale* *Anzahl der Personen festlegen, die sich für eine intelligente Kampagne qualifizieren können. Dadurch vermeiden Sie versehentlich das Versenden Ihrer gesamten Datenbank per E-Mail. Wenn Sie *override* diese Beschränkung anwenden möchten, hier sehen Sie wie.
+Mit Marketo können Sie festlegen, wie viele Personen maximal für eine intelligente Kampagne qualifiziert sein können. Dadurch vermeiden Sie versehentlich das Versenden Ihrer gesamten Datenbank per E-Mail. Wenn Sie _override_ diese Beschränkung anwenden möchten, hier sehen Sie wie.
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie in Marketing Admin Personenbeschränkungen für intelligente Kampagnen[ aktivieren.](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+>Stellen Sie sicher, dass Sie in Marketing Admin Personenbeschränkungen für intelligente Kampagnen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) aktivieren.[
 
-1. Gehen Sie in den Marketing-Aktivitäten zu Ihrer** **Smart-Kampagne und klicken Sie auf **Plan**.
+1. Gehen Sie in den Marketing-Aktivitäten zu Ihrer Smart-Kampagne und klicken Sie auf **Plan**.
 
    ![](assets/one.png)
 
-   Klicken Sie in den Einstellungen für intelligente Kampagne auf Bearbeiten.
+1. Klicken Sie in den Einstellungen für intelligente Kampagne auf **Bearbeiten**.
+
    ![](assets/two.png)
 
    >[!NOTE]
@@ -39,4 +40,3 @@ Mit Marketo können Sie die maximale* *Anzahl der Personen festlegen, die sich f
    >[!CAUTION]
    >
    >Seien Sie vorsichtig mit dieser Funktion, damit Sie nicht versehentlich zu viele Personen einschließen.
-
