@@ -1,23 +1,21 @@
 ---
 unique-page-id: 7514898
-description: Einrichten einer auslösenden intelligenten Kampagne für den Vertrieb mithilfe von "Kampagne ist angefordert"- Marketing Docs - Produktdokumentation
-title: Einrichten einer auslösenden intelligenten Kampagne für den Vertrieb mithilfe von "Kampagne ist angefordert"
+description: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mithilfe von "Kampagne ist angefordert"- Marketing Docs - Produktdokumentation
+title: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mithilfe von "Kampagne ist angefordert"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
 
-# Einrichten einer auslösenden intelligenten Kampagne für den Vertrieb mithilfe von &quot;Kampagne ist angefordert&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+# Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mithilfe von &quot;Kampagne ist angefordert&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Eines der coolsten Merkmale von Marketo ist die Fähigkeit, Verkaufspersonal an den Marketingbemühungen teilnehmen zu lassen. Sie sind an der Front und interagieren mit Leuten. Vertriebsmitarbeiter sollten in der Lage sein, Marketing in die richtige Richtung zu lenken.
 
 >[!NOTE]
->
->**Beispiel**
 >
 >Beispiele für anzufordernde intelligente Kampagnen:
 >
@@ -32,7 +30,7 @@ Sei kreativ! Was soll der Verkäufer automatisieren? Fragen Sie sie einfach und 
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Suchen und ziehen Sie **Kampagne** **ist** **Angefordert **auf die Arbeitsfläche.
+1. Suchen und ziehen Sie **Kampagne angefordert** auf die Arbeitsfläche.
 
    ![](assets/campaignfilterdrag.png)
 
@@ -41,7 +39,6 @@ Sei kreativ! Was soll der Verkäufer automatisieren? Fragen Sie sie einfach und 
    >[!TIP]
    >
    >Die Quelloperatoren dienen der Sicherheit. Sie können die Kampagne auf Anforderungen beschränken, die nur von bestimmten Quellen wie anderen intelligenten Kampagnen oder Entwicklern ausgeführt werden. Wählen Sie **Ist Beliebig** im ersten Feld, wenn Sie Anforderungen aus allen Quellen zulassen möchten.
-   >
    >
    >**Denken Sie daran**, dass es durch Auswahl von Sales Insight auf magische Weise in der Box für Verkäufe angezeigt wird. Übertreibe es nicht! Zu viele werden von ihnen ignoriert.
 
@@ -52,4 +49,3 @@ Dies ist eine großartige Möglichkeit, Ihre Marketing-Reichweite auf andere Abt
 >[!TIP]
 >
 >Vergiss nicht, deine klugen Kampagnen klar zu benennen! Sie werden in Sales Insight genau wie Sie sie benennen.
-
