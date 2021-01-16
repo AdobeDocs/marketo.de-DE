@@ -3,9 +3,9 @@ unique-page-id: 1147324
 description: Feldwerte löschen - MarketingToDocs - Produktdokumentation
 title: Feldwerte löschen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Feldwerte löschen {#clear-field-values}
 
-** [Datenwert ändern](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** ist großartig, aber wie können Sie *den Wert vollständig entfernen?* Gute Frage!
+[Ändern Sie ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) die Datenwerte, aber wie können Sie den Wert vollständig  __ entfernen? Gute Frage!
 
-1. Wählen Sie im Flussschritt das Feld, das Sie löschen möchten, und geben Sie **NULL **(Großbuchstaben) als **Neuer Wert** ein.
+1. Wählen Sie im Flussschritt das Feld, das Sie löschen möchten, und geben Sie unter **NULL** (Großbuchstaben) den Wert **Neuer Wert** ein.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
@@ -26,7 +26,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >Wenn Sie den neuen Wert leer lassen oder einfach einen Leerzeichen eingeben, wird das Feld nicht wirklich leer. Sie müssen NULL eingeben. Beachten Sie auch, dass Flussschritte nach dem Ausführen nicht rückgängig gemacht werden können.
-
-   ![(Lächeln)](assets/smile.svg)
-
-Übrigens befindet sich diese kleine Technik in der Zertifizierungsprüfung von Marketo. Sag ihnen nicht, dass wir das gesagt haben!
