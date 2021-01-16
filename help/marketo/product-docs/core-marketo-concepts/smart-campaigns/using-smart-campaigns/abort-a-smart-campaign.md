@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Abbrechen einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Abbrechen einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Manchmal starten Sie eine kluge Kampagne und erkennen sofort, dass es ein Fehler
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Klicken Sie auf die Dropdownliste** Kampagne Aktionen**. Wählen Sie **Kampagne abbrechen**.
+1. Klicken Sie auf die Dropdown-Liste **Kampagne Aktionen**. Wählen Sie **Kampagne abbrechen**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
@@ -33,19 +33,16 @@ Manchmal starten Sie eine kluge Kampagne und erkennen sofort, dass es ein Fehler
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Aborting rückgängig machen Schritte noch nicht abgeschlossen, es verhindert einfach mehr, dass es passiert. (Beispiel: Die Auslieferung von E-Mails kann nicht rückgängig gemacht werden.)
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >Sehen Sie sich die Registerkarte **Ergebnisse** der intelligenten Kampagne an, um zu sehen, welche Aktionen vor dem Abbruch durchgeführt wurden. Außerdem finden Sie eine [notification](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) mit weiteren Details.
+   >Sehen Sie sich die Registerkarte **Ergebnisse** der intelligenten Kampagne an, um zu sehen, welche Aktionen vor dem Abbruch durchgeführt wurden. Außerdem finden Sie eine [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) mit weiteren Details.
 
    >[!TIP]
    >
-   >Soll eine Person in einer Auslöser-Kampagne aus dem Fluss entfernt werden? Sehen Sie sich [Entfernen aus Fluss](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) an.
+   >Möchten Sie eine Person aus dem Fluss in einer Trigger-Kampagne entfernen? Sehen Sie sich [Entfernen aus Fluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) an.
 
 Kontrollieren Sie immer Ihre Dublette, aber diese Notbremse kann in Zukunft praktisch sein.
