@@ -3,7 +3,7 @@ unique-page-id: 1146972
 description: Eine wiederkehrende Batch-Kampagne planen - Marketing Docs - Produktdokumentation
 title: Kampagne eines wiederkehrenden Stapels planen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Mit der Wiederholung können Sie eine intelligente Batch-Kampagne regelmäßig ausführen. Zum Beispiel - einmal pro Woche, Montag um 22:00 Uhr.
 
-1. Wählen Sie die Kampagne aus, gehen Sie zur Registerkarte Plan und klicken Sie auf Wiederholung planen.
+1. Wählen Sie die Kampagne aus, gehen Sie zur Registerkarte Plan und klicken Sie auf **Vorkommen planen**.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. Klicken Sie auf die Dropdownliste Plan und wählen Sie Wöchentlich aus.
+1. Klicken Sie auf die Dropdownliste Plan und wählen Sie **Wöchentlich**.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -31,7 +31,7 @@ Mit der Wiederholung können Sie eine intelligente Batch-Kampagne regelmäßig a
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. Lassen Sie &quot;Wiederholen&quot;alle 1, wählen Sie &quot;Montag&quot;und klicken Sie auf &quot;Speichern&quot;.
+1. Lassen Sie &quot;Wiederholen&quot;alle 1, wählen Sie &quot;Montag&quot;und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
