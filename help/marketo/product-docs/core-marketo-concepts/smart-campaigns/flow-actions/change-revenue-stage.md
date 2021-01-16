@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: Umsatzstufe ändern - Marketing-Dokumente - Produktdokumentation
 title: Umsatzstufe ändern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Wenn Sie den Umsatzwyklen-Modellierer verwenden und über ein zugelassenes Model
    >[!CAUTION]
    >
    >Das Data Warehouse achtet besonders darauf, wann Interessenten zwischen Phasen wechseln. Dadurch können fehlerhafte Daten erzeugt werden, wenn sie nicht korrekt verwendet werden.
-
