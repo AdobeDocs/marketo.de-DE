@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: Planen Sie eine Batch-Smart-Kampagne, die später ausgeführt werden soll - Marketing Docs - Produktdokumentation
 title: Stapelausführung einer intelligenten Kampagne für später planen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wenn Sie eine intelligente Batch-Kampagne so einrichten möchten, dass sie irgen
 
 >[!TIP]
 >
->Sie können auch [eine intelligente Batch-Kampagne in der Ansicht Programmplanung](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md) neu planen.
+>Sie können auch [eine intelligente Batch-Kampagne in der Ansicht Programmplanung](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md) neu planen.
 
 1. Wählen Sie die auszuführende Stapel-Smart-Kampagne aus, wechseln Sie zur Registerkarte **Plan** und klicken Sie auf **Einmal ausführen**.
 
@@ -41,10 +41,4 @@ Wenn Sie eine intelligente Batch-Kampagne so einrichten möchten, dass sie irgen
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Kampagne eines wiederkehrenden Stapels planen](schedule-a-recurring-batch-campaign.md)
-
-
+   >[Kampagne eines wiederkehrenden Stapels planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
