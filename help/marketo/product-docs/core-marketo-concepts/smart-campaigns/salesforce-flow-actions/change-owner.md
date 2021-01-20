@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: Inhaber ändern - Marketing-Dokumente - Produktdokumentation
 title: Inhaber ändern
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewi
    >1. Marketo erstellt einen Duplikat-Lead **nur**, wenn der Kontakt mit Salesforce synchronisiert wird. Anders ausgedrückt: Wenn Sie den Schritt **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** mit `AssignTo=<a lead queue>` verwenden, erstellt Marketo einen Duplikat-Lead in Salesforce und weist ihn der Interessentenwarteschlange zu.
       >
       >
-   2. Wenn Sie versuchen, den Flussschritt **Ändern des Inhabers** für einen Kontakt zu verwenden, wird in Salesforce kein Duplikat erstellt.
+   1. Wenn Sie versuchen, den Flussschritt **Ändern des Inhabers** für einen Kontakt zu verwenden, wird in Salesforce kein Duplikat erstellt.
 
 
    >[!NOTE]
