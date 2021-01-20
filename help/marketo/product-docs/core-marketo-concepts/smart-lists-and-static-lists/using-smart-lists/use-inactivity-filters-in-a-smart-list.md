@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: Verwenden Sie Inaktivität-Filter in einer intelligenten Liste - Marketing Docs - Produktdokumentation
 title: Inaktive Filter in einer intelligenten Liste verwenden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ Wusstest du, dass du nach Leuten in einer intelligenten Liste suchen kannst, die
 1. Wählen Sie den Operator **ist ein beliebiger**. Dies finden Sie alle Personen, die in den letzten 30 Tagen keine Seite besucht haben.
 
    ![](assets/mysmartlist-people.jpg)
-
-   War das nicht einfach?
-
