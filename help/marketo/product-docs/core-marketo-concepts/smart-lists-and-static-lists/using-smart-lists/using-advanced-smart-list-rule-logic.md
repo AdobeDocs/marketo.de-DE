@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: Verwenden der erweiterten Regellogik für intelligente Listen - Marketing Docs - Produktdokumentation
 title: Erweiterte Logik der Smart-Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Sie können genau die Personen finden, die Sie benötigen, indem Sie innerhalb e
 
 >[!PREREQUISITES]
 >
->* [Filter für eine intelligente Liste suchen und Hinzufügen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definieren von Filtern für intelligente Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [Filter für eine intelligente Liste suchen und Hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definieren von Filtern für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ Sie können genau die Personen finden, die Sie benötigen, indem Sie innerhalb e
 
 ## hinzufügen der Logik zu einer intelligenten Liste {#add-logic-to-a-smart-list}
 
-Standardmäßig finden Sie in Ihrer intelligenten Liste die Personen, die mit den Filtern **ALL** übereinstimmen (Filter 1 *und* 2 *und* 3). Sie können die Regellogik ändern, um nach Personen zu suchen, die **ANY** der definierten Filter (Filter 1 *oder* 2 *oder* 3) übereinstimmen, oder erweiterte Filter (Filter 1 *und* 2 *oder *3) verwenden.
+Standardmäßig finden Sie in Ihrer intelligenten Liste die Personen, die mit den Filtern **ALL** übereinstimmen (Filter 1 _und_ 2 _und_ 3). Sie können die Regellogik ändern, um nach Personen zu suchen, die **ANY** der definierten Filter (Filter 1 _oder_ 2 _oder_ 3) übereinstimmen, oder erweiterte Filter (Filter 1 _und_ 2 _oder_ 3) verwenden.
 
-In diesem Beispiel möchten Sie Personen in Kalifornien *und* mit einem Ergebnis von mindestens 50 Punkten *oder* mit dem Status &quot;Sales Qualified&quot;finden.
+In diesem Beispiel möchten Sie Personen in Kalifornien _und_ mit einem Ergebnis von mindestens 50 Punkten _oder_ mit dem Status &quot;Sales Qualified&quot;finden.
 
-1. Wählen Sie **Verwenden Sie** **Erweitert** **Filter** aus der Dropdownliste.
+1. Wählen Sie **Erweiterte Filter** aus der Dropdownliste.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ In diesem Beispiel möchten Sie Personen in Kalifornien *und* mit einem Ergebnis
    >
    >Durch die Verwendung von **Advanced**-Filtern müssen keine intelligenten Listen mit dem Filter Member of Smart Liste erstellt werden. Dies hilft, die Leistung zu optimieren.
 
-1. Das Textfeld **Erweitert** **Filter** zeigt &quot;und&quot;als Standardwert zwischen allen Ihren Filtern an.
+1. Im Textfeld **Erweiterte Filter** wird &quot;und&quot;als Standardwert für alle Filter angezeigt.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ Abhängig von Ihrer Absicht müssen Sie ggf. verschachtelte Klammern hinzufügen
 >[!TIP]
 >
 >Wenn Sie eine ungültige Regel eingeben, wird eine rote Linie unter der Regel angezeigt. Blättern Sie über den Text, um die entsprechende Fehlermeldung anzuzeigen.
-
