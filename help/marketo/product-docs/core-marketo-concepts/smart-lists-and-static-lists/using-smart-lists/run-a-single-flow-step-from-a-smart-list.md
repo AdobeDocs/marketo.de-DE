@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: Führen Sie einen Schritt für einen einzelnen Fluss aus einer intelligenten Liste - Marketing to Docs - Produktdokumentation
 title: Ausführen eines einzelnen Flussschritts aus einer intelligenten Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einz
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -35,7 +31,7 @@ Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einz
    >
    >Diese Funktion ist sowohl für statische Listen als auch für intelligente Listen verfügbar.
 
-1. Klicken Sie auf **Alle auswählen**. Sie können auch die Strg-/Cmd-Taste** verwenden und dann klicken, um ein paar Datensätze manuell auszuwählen.
+1. Klicken Sie auf **Alle auswählen**. Sie können auch **Strg/Cmd** verwenden und auf klicken, um einige Datensätze manuell auszuwählen.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einz
    >
    >Wenn sich die Ergebnisse über mehrere Seiten erstrecken, werden durch Klicken auf **Alle auswählen** alle Personen auf allen Seiten ausgewählt.
 
-1. Wählen Sie unter **Person** **Aktionen** den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [Datenwert ändern](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Wählen Sie unter **Person** **Aktionen** den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
