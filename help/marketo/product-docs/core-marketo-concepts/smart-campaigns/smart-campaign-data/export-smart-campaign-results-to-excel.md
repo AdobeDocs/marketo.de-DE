@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: Exportieren von Ergebnissen intelligenter Kampagnen in Excel - Marketing-Dokumente - Produktdokumentation
 title: Ergebnisse intelligenter Kampagnen nach Excel exportieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Exportieren Sie die Ergebnisse Ihrer intelligenten Kampagne nach Excel, um sie a
    >[!NOTE]
    >
    >Der Export ist auf 20.000 Zeilen beschränkt. Die Excel-Datei wird im standardmäßigen Downloadordner Ihres Browsers gespeichert.
-
