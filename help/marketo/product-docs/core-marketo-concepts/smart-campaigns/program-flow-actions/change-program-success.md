@@ -3,7 +3,7 @@ unique-page-id: 1147009
 description: Change Programm Success - Marketing to Docs - Produktdokumentation
 title: Erfolg des Programms ändern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit Programm S
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Wählen Sie **Erfolgsdatum** oder*** Erfolgsdatum** als Attribut aus.
+1. Wählen Sie **Erfolgsdatum** oder **Erfolgsdatum** als Attribut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
