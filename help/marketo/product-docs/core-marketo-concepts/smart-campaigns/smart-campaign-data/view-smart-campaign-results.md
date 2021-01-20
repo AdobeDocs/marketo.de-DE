@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: Ergebnisse der intelligenten Ansicht-Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Ansicht - Ergebnisse intelligenter Kampagnen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Möchten Sie eine Aufschlüsselung aller Geschehnisse in einer intelligenten Kam
 
    >[!TIP]
    >
-   >Sie können die Liste der Personen sehen, die von der intelligenten Kampagne verarbeitet wurden, indem Sie auf [Ansicht Kampagne Member](view-smart-campaign-members.md) klicken.
+   >Sie können die Liste der Personen sehen, die von der intelligenten Kampagne verarbeitet wurden, indem Sie auf [Ansicht Kampagne Member](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md) klicken.
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >Sie können die Ergebnisse auch nach dem Typ der Aktivität filtern. Erfahren Sie, wie Sie die Ergebnisse der intelligenten Kampagne [filtern.](filter-smart-campaign-results.md)
+   >Sie können die Ergebnisse auch nach dem Typ der Aktivität filtern. Erfahren Sie, wie Sie die Ergebnisse der intelligenten Kampagne [filtern.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
 
 1. Klicken Sie auf eine **ID**, um weitere Informationen zu dieser Aktivität Ansicht.
 
@@ -35,16 +35,8 @@ Möchten Sie eine Aufschlüsselung aller Geschehnisse in einer intelligenten Kam
    >
    >Angaben zur Person durch Klicken auf den Namen der Ansicht.
 
-   [Exportieren der Ergebnisse der intelligenten Kampagne nach Excel](export-smart-campaign-results-to-excel.md)
+   Sehen Sie sich die Ergebnisse an, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder einfach [exportieren Sie die Ergebnisse der intelligenten Kampagne nach Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Ergebnisse intelligenter Kampagnen filtern](filter-smart-campaign-results.md)
-   >    * [Ergebnisse intelligenter Kampagnen nach Excel exportieren](export-smart-campaign-results-to-excel.md)
-
-
-Schauen Sie sich die Ergebnisse an, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder einfach.
+   >[Ergebnisse intelligenter Kampagnen filtern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
