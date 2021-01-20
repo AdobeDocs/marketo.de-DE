@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: Person aus dem SFDC löschen - Marketing Docs - Produktdokumentation
 title: Person aus dem SFDC löschen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Wenn Sie einen bestimmten Satz von Interessenten aus Salesforce entfernen, diese
    >[!CAUTION]
    >
    >Wenn Sie **Löschen in Marketo** auf **true** setzen und die Personen aus Marketo und die Interessenten aus Salesforce löschen, sind sie für immer weg. Das kann nicht rückgängig gemacht werden.
-
