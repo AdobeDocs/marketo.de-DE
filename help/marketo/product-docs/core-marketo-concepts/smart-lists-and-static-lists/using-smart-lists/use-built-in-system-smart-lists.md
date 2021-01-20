@@ -3,7 +3,7 @@ unique-page-id: 557275
 description: Integrierte/systemspezifische intelligente Listen - Marketing Docs - Produktdokumentation
 title: Integrierte/System-intelligente Listen verwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo verfügt über einige sehr nützliche integrierte intelligente Listen. L
 >
 >Marketo ist dabei, Begriffe wie Blacklist und Whitelist in Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
-1. Gehen Sie zur** Datenbank*.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/db.png)
 
@@ -35,16 +35,16 @@ Marketo verfügt über einige sehr nützliche integrierte intelligente Listen. L
    >
    >Die Filter in den intelligenten Listen des Systems müssen nicht auf jede intelligente Liste/Kampagne angewendet werden. Ihre Inhalte werden automatisch erkannt.
 
-   | Name der Liste | Beschreibung |
-   |---|---|
-   | Alle Personen | Alle Personen in Ihrer Marketing-Datenbank |
-   | Abonnierte Personen | Diese Personen können nur operative E-Mails verschickt werden. wird normalerweise von der Person selbst kontrolliert. |
-   | Marketing ausgesetzt | Diese Personen können nur operative E-Mails verschickt werden. wird normalerweise von Ihnen, dem Marketingspezialisten, gesteuert. |
-   | Blockierungsliste | Diese Leute werden überhaupt keine E-Mail erhalten. |
-   | Abgebrochene E-Mail-Adressen | Personen mit einer nicht auslieferbaren E-Mail-Adresse oder Personen, die Ihre E-Mail ablehnen. |
-   | Mögliche Duplikat | Personen, die in der Marketing-Datenbank dupliziert werden können. |
-
 Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten intelligenten Listen:
+
+| Name der Liste | Beschreibung |
+|---|---|
+| Alle Personen | Alle Personen in Ihrer Marketing-Datenbank |
+| Abonnierte Personen | Diese Personen können nur operative E-Mails verschickt werden. wird normalerweise von der Person selbst kontrolliert. |
+| Marketing ausgesetzt | Diese Personen können nur operative E-Mails verschickt werden. wird normalerweise von Ihnen, dem Marketingspezialisten, gesteuert. |
+| Blockierungsliste | Diese Leute werden überhaupt keine E-Mail erhalten. |
+| Abgebrochene E-Mail-Adressen | Personen mit einer nicht auslieferbaren E-Mail-Adresse oder Personen, die Ihre E-Mail ablehnen. |
+| Mögliche Duplikat | Personen, die in der Marketing-Datenbank dupliziert werden können. |
 
 >[!NOTE]
 >
@@ -52,9 +52,4 @@ Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten int
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
-
+>[Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
