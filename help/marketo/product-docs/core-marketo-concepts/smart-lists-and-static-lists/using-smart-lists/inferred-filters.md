@@ -3,9 +3,9 @@ unique-page-id: 2953188
 description: Infertigte Filter - Marketing Docs - Produktdokumentation
 title: Vorgestellte Filter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Angedeutete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, werden diese von [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und in das System eingefügt. Wir suchen ihre IP in einer speziellen Datenbank und ziehen alle möglichen guten Informationen. Schau es dir an.
+Wenn jemand Ihre Website besucht, werden diese von [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und in das System eingefügt. Wir suchen ihre IP in einer speziellen Datenbank und ziehen alle möglichen guten Informationen. Schau es dir an.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -36,15 +36,9 @@ Wenn Sie einen dieser Filter in einer intelligenten Liste verwenden, ergeben sic
 >* Besuchte Webseite - Letzte 24 Stunden
 >* Der Status &quot;Inferated&quot;ist [Wählen Sie ihr Territorium]
 
->
-
-
 
 Diese anonymen Besucher werden automatisch in Personen umgewandelt, wenn sie auf einen E-Mail-Link klicken oder ein Formular ausfüllen. Sie behalten jedoch alle daraus resultierenden Informationen bei.
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Erfahren Sie mehr über [Anonyme Aktivität und Interessenten](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
-
+>Erfahren Sie mehr über [Anonyme Aktivität und Interessenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
