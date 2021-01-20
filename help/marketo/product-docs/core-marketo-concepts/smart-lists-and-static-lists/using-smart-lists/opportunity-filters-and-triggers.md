@@ -1,9 +1,9 @@
 ---
 unique-page-id: 8159286
 description: Opportunity Filters and Triggers - Marketing Docs - Produktdokumentation
-title: Chancen, Filter und Auslöser
+title: Chancen, Filter und Trigger
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Opportunity-Filter und -Auslöser {#opportunity-filters-and-triggers}
+# Opportunity-Filter und -Trigger {#opportunity-filters-and-triggers}
 
-Mit Filtern und Auslösern von Chancen können Sie Ereignis von Salesforce nachverfolgen. Sie unterscheiden sich etwas von anderen Filtern und Auslösern.
+Mit Opportunity-Filtern und -Triggern können Sie Opportunity-Ereignis von Salesforce nachverfolgen. Sie unterscheiden sich etwas von anderen Filtern und Triggern.
 
 ## Opportunity-Filter {#opportunity-filters}
 
@@ -27,7 +27,7 @@ Mit den Filtern von Gelegenheiten können Sie Ihre Salesforce-Leads, die Chancen
 * Chancen wurden entfernt
 * Gelegenheit wurde aktualisiert
 
-Wenn Sie nach Ihren Opportunity-Feldern suchen (benutzerdefiniert oder Standard), verwenden Sie den Filter **Hat Chancen** oder **Die Gelegenheit war`[Added/Removed/Updated]`** Filter oder Auslöser.
+Wenn Sie nach Ihren Opportunity-Feldern suchen (benutzerdefiniert oder Standard), verwenden Sie den Filter **Hat Chancen** oder **Die Gelegenheit war`[Added/Removed/Updated]`** Filter oder Trigger.
 
 **Anzahl der Optionen, Gesamtanzahl der Optionen, Gesamtsumme der Optionen, Gesamtsumme des erwarteten Umsatzes**
 
@@ -59,25 +59,24 @@ Nehmen wir beispielsweise an, Sie möchten Interessenten finden, die eine offene
 
 **Gelegenheit wurde aktualisiert**
 
-Der Filter **Gelegenheit wurde aktualisiert** sucht nach Möglichkeiten, wenn ein bestimmtes Feld aktualisiert wurde. Wählen Sie das Feld aus, um es mit dem Pulldown für das Auslöserattribut zu überprüfen, und verwenden Sie dann die Einschränkungen, um den Satz der Änderungen einzugrenzen.
+Der Filter **Gelegenheit wurde aktualisiert** sucht nach Möglichkeiten, wenn ein bestimmtes Feld aktualisiert wurde. Wählen Sie das Feld aus, um es mit dem Pulldown für das Trigger-Attribut zu überprüfen, und verwenden Sie dann die Einschränkungen, um den Änderungssatz einzugrenzen.
 
 Dieser Filter zeigt beispielsweise alle Interessenten an, deren Datumsangabe in den letzten 30 Tagen kurz war:
 
 ![](assets/image2015-6-11-12-3a33-3a7.png)
 
-## Opportunity Triggers {#opportunity-triggers}
+## Opportunity-Trigger {#opportunity-triggers}
 
-Die folgenden Gelegenheitsauslöser stehen zur Verfügung. Sie funktionieren genau wie die entsprechenden Filter (siehe Beschreibung weiter oben), allerdings können sie Kampagnen direkt auslösen, wenn das Ereignis eintritt:
+Die folgenden Trigger stehen zur Verfügung. Sie funktionieren genau wie die entsprechenden Filter (siehe Beschreibung weiter oben), mit der Ausnahme, dass sie Kampagnen beim Trigger des Ereignisses direkt ausführen können:
 
 * Chancen werden aktualisiert
 * Zu Chancen hinzugefügt
 * Aus Gelegenheit entfernt
 
-Beispielsweise können Sie diese intelligente Liste verwenden, um auszulösen, wenn ein Interessent einer Gelegenheit hinzugefügt wird. Im Fluss können Sie sie der Liste &quot;Ausgesetzt für Marketing&quot;hinzufügen oder ihnen eine zielgerichtete E-Mail senden.
+Sie können diese intelligente Liste beispielsweise zum Trigger verwenden, wenn ein Interessent zu einer beliebigen Gelegenheit hinzugefügt wird. Im Fluss können Sie sie der Liste &quot;Ausgesetzt für Marketing&quot;hinzufügen oder ihnen eine zielgerichtete E-Mail senden.
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Wenn Sie Ihre Gelegenheit für benutzerdefinierte Felder auslösen möchten, verwenden Sie den Auslöser **Gelegenheit wurde aktualisiert** und wählen Sie das Feld im Pulldown aus:
+Um Ihre Gelegenheit für benutzerdefinierte Felder Trigger, verwenden Sie den Trigger **Gelegenheit wird aktualisiert** und wählen Sie das Feld im Pulldown aus:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
