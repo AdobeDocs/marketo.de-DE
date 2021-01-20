@@ -3,9 +3,9 @@ unique-page-id: 2360496
 description: hinzufügen mehrerer Werte zu einem Filter für intelligente Listen - MarketingToDocs - Produktdokumentation
 title: Mehrere Werte zu einem Filter für intelligente Listen Hinzufügen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Filter für eine intelligente Liste suchen und Hinzufügen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-
->
-
+>* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Filter für eine intelligente Liste suchen und Hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 
 Nehmen wir an, Sie möchten jeden in Kalifornien finden, aber Sie können **California** und **CA** in Ihrer Datenbank speichern. Um alle relevanten Personen einzubeziehen, können Sie zwei **state**-Filter verwenden, aber es ist einfacher mit einem.
@@ -32,7 +29,7 @@ Nehmen wir an, Sie möchten jeden in Kalifornien finden, aber Sie können **Cali
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Klicken Sie auf das Pluszeichen **Pluszeichen** im Filter.
+1. Klicken Sie auf **+** im Filter.
 
    ![](assets/smartlist-plussignhand-.png)
 
@@ -40,16 +37,10 @@ Nehmen wir an, Sie möchten jeden in Kalifornien finden, aber Sie können **Cali
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
-   Schnelle Arbeit!
+Schnelle Arbeit!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [hinzufügen einer Beschränkung auf einen Filter für intelligente Listen](add-a-constraint-to-a-smart-list-filter.md)
->* [Erweiterte Filter in einer intelligenten Liste verwenden](using-advanced-smart-list-rule-logic.md)
-
->
-
-
+>* [hinzufügen einer Beschränkung auf einen Filter für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Erweiterte Filter in einer intelligenten Liste verwenden](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
