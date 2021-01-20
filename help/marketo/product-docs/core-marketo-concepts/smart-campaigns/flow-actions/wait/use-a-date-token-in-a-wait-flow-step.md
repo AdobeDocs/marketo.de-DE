@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Verwenden Sie ein Datums-Token in einem Wartezeitschritt - MarketingToDocs - Produktdokumentation
 title: Verwenden eines Datums-Tokens in einem Wartezeitschritt
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Verwenden Sie ein Datums-Token in einem Warteflussschritt {#use-a-date-token-in-a-wait-flow-step}
 
-Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelligente Kampagne bis zu einem bestimmten Datum anhalten, das ein Datums-Token verwendet. Sie können das Enddatum auch um einige Tage ändern.
+Mit dem Schritt zum Warten können Sie die Journey einer Person durch eine intelligente Kampagne anhalten, bis zu einem bestimmten Datum, das ein Datums-Token verwendet. Sie können das Enddatum auch um einige Tage ändern.
 
 >[!NOTE]
 >
->Dies gilt nur für auslösende Kampagnen. Sie können diese Funktion nicht in Batch-Kampagnen verwenden.
+>Dies gilt nur für Kampagnen des Triggers. Sie können diese Funktion nicht in Batch-Kampagnen verwenden.
 
 1. Ziehen Sie in der Registerkarte &quot;Smart-Kampagne **Fluss**&quot;über den Textfluss **Wait**.
 
@@ -56,15 +56,12 @@ Mit dem Schritt zum Warten können Sie die Reise einer Person durch eine intelli
    >
    >Sie können auch die Anzahl der Tage mit einem Token des Typs `{{lead.` oder `{{company.` angeben, das ein ganzzahliges Feld oder ein Token des Typs `{{my.` darstellt.
 
-1. Klicken Sie auf Speichern.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >* [Verwenden einer Dauer in einem Wartezeitschritt](use-a-duration-in-a-wait-flow-step.md)
-   >* [Verwenden eines bestimmten Datums in einem Schritt mit einem Wartefluss](use-a-specific-date-in-a-wait-flow-step.md)
-
+   >* [Verwenden einer Dauer in einem Wartezeitschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [Verwenden eines bestimmten Datums in einem Schritt mit einem Wartefluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
