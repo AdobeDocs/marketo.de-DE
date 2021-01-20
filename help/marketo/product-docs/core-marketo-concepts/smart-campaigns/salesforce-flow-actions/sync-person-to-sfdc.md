@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: Person mit dem SFDC synchronisieren - Marketing Docs - Produktdokumentation
 title: Person mit dem SFDC synchronisieren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Mit diesem Flussschritt fügen Sie von Marketo erstellte Personen als Interessen
    >[!CAUTION]
    >
    >Salesforce lässt die Zuweisung von &quot;Kontakten&quot;zu Interessentenwarteschlangen nicht zu. In diesem Fall wird Marketo ein Duplikat &quot;Lead&quot; in Salesforce erstellen.
-
