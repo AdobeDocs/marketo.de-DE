@@ -3,7 +3,7 @@ unique-page-id: 2949413
 description: hinzufügen einer Beschränkung auf einen Filter für intelligente Listen - Marketing Docs - Produktdokumentation
 title: hinzufügen einer Beschränkung auf einen Filter für intelligente Listen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # hinzufügen einer Beschränkung auf einen Filter für intelligente Listen {#add-a-constraint-to-a-smart-list-filter}
 
-Beim Erstellen intelligenter Listen verfügen einige Filter über erweiterte Optionen, die als *einschränkungen bezeichnet werden. *Dies sind zusätzliche Bedingungen, die Sie zu Filtern und Auslösern hinzufügen können, um Ihre Suche noch weiter einzuschränken.
+Beim Erstellen intelligenter Listen verfügen einige Filter über erweiterte Optionen, die als &quot;Beschränkungen&quot;bezeichnet werden. Dies sind zusätzliche Bedingungen, die Sie Filtern und Triggern hinzufügen können, um Ihre Suche noch weiter einzuschränken.
 
-In diesem Beispiel sollten wir einem ** [Datenwert geändert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**-Filter einige Einschränkungen hinzufügen, um nach Personen zu suchen, die eine Statusänderung von MQL in SQL hatten.
+In diesem Beispiel fügen wir dem Filter **[Datenwert geändert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** einige Einschränkungen hinzu, um nach Personen zu suchen, deren Status von MQL in SQL geändert wurde.
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Verwenden Sie den Filter &quot;Datenwert geändert&quot;in einer intelligenten Liste](use-the-data-value-changed-filter-in-a-smart-list.md)
+>* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Verwenden Sie den Filter &quot;Datenwert geändert&quot;in einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 
 >
 
@@ -51,4 +51,3 @@ In diesem Beispiel sollten wir einem ** [Datenwert geändert](../../../../produc
    ![](assets/six.png)
 
 1. Gut gemacht! Klicken Sie auf die Registerkarte **Personen**, um alle Personen anzuzeigen, die in den letzten 30 Tagen einen Wechsel von **MQL** zu **SQL** hatten.****
-
