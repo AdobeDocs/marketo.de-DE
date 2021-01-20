@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: Referenzieren einer Liste oder intelligenten Liste über Arbeitsbereiche - Marketing to Docs - Produktdokumentation
 title: Verweisen Sie auf eine Liste oder intelligente Liste in allen Arbeitsbereichen.
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Listen und intelligente Listen können für verschiedene Arbeitsbereiche freigeg
 
    ![](assets/four-3.png)
 
-1. Wählen Sie einen **Arbeitsbereich **für die Freigabe. Wählen Sie **Speichern**.
+1. Wählen Sie einen **Arbeitsbereich**, für den Sie freigeben möchten. Wählen Sie **Speichern**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ Listen und intelligente Listen können für verschiedene Arbeitsbereiche freigeg
    >[!NOTE]
    >
    >In Marketing-Aktivitäten können Sie nur Ordner der obersten Ebene freigeben. In der Datenbank können Sie Ordner der obersten Ebene sowie eine Ebene nach unten freigeben.
-
