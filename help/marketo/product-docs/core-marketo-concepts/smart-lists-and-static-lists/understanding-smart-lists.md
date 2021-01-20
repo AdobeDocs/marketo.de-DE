@@ -3,9 +3,9 @@ unique-page-id: 557130
 description: Intelligente Listen - Marketing-Dokumente - Produktdokumentation
 title: Intelligente Listen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 23339f1ffbe09e68143f3da963852b1347d5088a
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -13,28 +13,28 @@ ht-degree: 0%
 
 # Intelligente Listen {#understanding-smart-lists}
 
-Intelligente Listen ermöglichen es Ihnen, mithilfe einfacher Filter bestimmte Personengruppen zu finden. Sie werden überall in Marketo verwendet, z. B. in [Smart-Kampagnen](http://docs.marketo.com/display/docs/smart+campaigns), [Programm](http://docs.marketo.com/display/docs/programs), [Reports](http://docs.marketo.com/display/docs/basic+reporting), [Segmentationen](http://docs.marketo.com/display/docs/segmentation+and+snippets), [Geschäftsmodelle](http://docs.marketo.com/display/docs/revenue+cycle+models), [Interaktionsmodelle](http://docs.marketo.com/display/docs/drip+nurturing), &lt;a1111/>, 12/>Dynamischer Inhalt](http://docs.marketo.com/display/docs/segmentation+and+snippets) und mehr. [ Je nach Bedarf können intelligente Listen an zwei Stellen in Marketo erstellt werden:
+Intelligente Listen ermöglichen es Ihnen, mithilfe einfacher Filter bestimmte Personengruppen zu finden. Sie werden überall in Marketing eingesetzt, z. B. in intelligenten Kampagnen, Programmen, Berichten, Segmentierungen, Geschäftsmodellen, Interaktions-Programmen, dynamischen Inhalten und mehr. Je nach Bedarf können intelligente Listen an zwei Stellen in Marketo erstellt werden:
 
 1. In der **Datenbank**, in der sie für die gemeinsame/globale Nutzung verfügbar sind (z. B. &quot;Alle nicht abonnierten Personen&quot;).
-1. In **Programmen **als lokale Vermögenswerte, wo sie eine Gruppe von Personen finden, die für dieses spezifische Programm relevant sind (z.B. &quot;teilnehmende Tradeshow&quot;).
+1. In **Programmen** als lokale Assets, in denen sie eine Gruppe von Personen finden, die für dieses spezifische Programm relevant sind (z.B. &quot;Beteiligte Tradeshow&quot;).
 
 Die wichtigsten Schritte zum Erstellen einer intelligenten Liste sind:
 
-1. [Erstellen einer intelligenten Liste](creating-a-smart-list/create-a-smart-list.md)
-1. [Filter für eine intelligente Liste suchen und Hinzufügen](creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-1. [Definieren von Filtern für intelligente Listen](creating-a-smart-list/define-smart-list-filters.md)
+1. [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+1. [Filter für eine intelligente Liste suchen und Hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+1. [Definieren von Filtern für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 Hier ist ein Beispiel dafür, wie eine intelligente Liste aussieht.
 
 ## Hauptregisterkarte {#main-tab}
 
-Hier können Sie [den Namen der intelligenten Liste](../../../product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) bearbeiten und Informationen zur intelligenten Liste anzeigen.
+Hier können Sie [den Namen der intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) bearbeiten und Informationen zur intelligenten Liste anzeigen.
 
 ![](assets/smartlist.png)
 
 ## Registerkarte &quot;Personen&quot; {#people-tab}
 
-Hier sehen Sie Ihre Ergebnisse. d. h. alle Personen, die sich für die Filter qualifizieren, die Sie [unter der Registerkarte &quot;Intelligente Liste&quot;hinzugefügt und definiert haben.](creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+Hier sehen Sie Ihre Ergebnisse. d. h. alle Personen, die sich für die Filter qualifizieren, die Sie [unter der Registerkarte &quot;Intelligente Liste&quot;hinzugefügt und definiert haben.](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 ![](assets/smartlist-people.png)
 
@@ -48,10 +48,6 @@ Ok, fangen wir an!
 
 >[!MORELIKETHIS]
 >
->* [Integrierte/System-intelligente Listen verwenden](using-smart-lists/use-built-in-system-smart-lists.md)
->* [Erstellen einer intelligenten Liste](creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [Integrierte/System-intelligente Listen verwenden](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
