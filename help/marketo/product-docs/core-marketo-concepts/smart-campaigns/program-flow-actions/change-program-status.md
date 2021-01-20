@@ -3,7 +3,7 @@ unique-page-id: 1147007
 description: Ändern des Programm-Status - Marketing-Dokumente - Produktdokumentation
 title: Status des Programms ändern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-Programm-Statusangaben helfen Ihnen dabei, zu verfolgen, wie Menschen durch ein Programm oder Ereignis vorankommen. Weitere Informationen finden Sie unter [Kanal anpassen, erstellen und verwalten](../../../../product-docs/administration/tags/create-a-program-channel.md).
+Programm-Statusangaben helfen Ihnen dabei, zu verfolgen, wie Menschen durch ein Programm oder Ereignis vorankommen. Weitere Informationen finden Sie unter [Kanal anpassen, erstellen und verwalten](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
