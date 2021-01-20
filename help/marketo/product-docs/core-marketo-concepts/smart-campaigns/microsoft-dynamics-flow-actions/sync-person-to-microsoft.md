@@ -3,7 +3,7 @@ unique-page-id: 7514027
 description: Synchronisieren von Personen mit Microsoft - Marketing Docs - Produktdokumentation
 title: Person mit Microsoft synchronisieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -29,5 +29,4 @@ Sie können einen Dynamics-Benutzer als Eigentümer festlegen.
 
 >[!NOTE]
 >
->Bei Verwendung der &quot;Synchronisierungsperson mit Microsoft&quot;-Flussaktion (nur in einer Auslöseraktion) wird der Interessent/Kontakt in Echtzeit in Dynamics erstellt.
-
+>Bei Verwendung der &quot;Synchronisierungsperson mit Microsoft&quot;-Flussaktion (nur in einer Trigger-Kampagne) wird der Interessent/Kontakt in Echtzeit in Dynamics erstellt.
