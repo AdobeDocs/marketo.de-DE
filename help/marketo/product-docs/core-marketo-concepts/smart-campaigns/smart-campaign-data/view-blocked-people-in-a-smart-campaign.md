@@ -3,9 +3,9 @@ unique-page-id: 1147062
 description: Ansicht blockierte Menschen in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Ansicht blockierte Personen in einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Blockierte Personen in der Marketo-Datenbank werden als auf die Blockierungslist
 
    >[!NOTE]
    >
-   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch vom Empfang von E-Mails ausgeschlossen werden. Erfahren Sie, wie Sie die Kommunikationsbeschränkungen [im Abschnitt &quot;Admin&quot;bearbeiten.](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
+   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch vom Empfang von E-Mails ausgeschlossen werden. Erfahren Sie, wie Sie die Kommunikationsbeschränkungen [im Abschnitt &quot;Admin&quot;bearbeiten.](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
 
    Auf der Registerkarte &quot;Blockierte Personen&quot;werden Personen angezeigt, die keine Mails erhalten.
 
@@ -35,16 +35,12 @@ Blockierte Personen in der Marketo-Datenbank werden als auf die Blockierungslist
    >
    >Operative E-Mails werden an Personen gesendet, die als nicht abonniert und Marketing ausgesetzt markiert wurden.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Qualifikationsregeln bearbeiten](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [Kommunikationsbeschränkungen aktivieren](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [Mitglieder der Ansicht für intelligente Kampagne](view-smart-campaign-members.md)
-   >    * [Qualifizierte Ansicht für Menschen in einer intelligenten Kampagne](view-qualified-people-in-a-smart-campaign.md)
+   >* [Qualifikationsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [Mitglieder der Ansicht für intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [Qualifizierte Ansicht für Menschen in einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
 Los geht&#39;s! Jetzt können Sie sich darüber im Klaren sein, wer die Mailings möglicherweise nicht erhält.
