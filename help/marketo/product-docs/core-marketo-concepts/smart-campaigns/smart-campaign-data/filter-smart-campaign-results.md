@@ -3,7 +3,7 @@ unique-page-id: 1147068
 description: Ergebnisse intelligenter Kampagnen filtern - Marketing to Docs - Produktdokumentation
 title: Ergebnisse intelligenter Kampagnen filtern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ansicht - Ergebnisse intelligenter Kampagnen](view-smart-campaign-results.md)
-
->
-
-
+>[Ansicht - Ergebnisse intelligenter Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 Filtern Sie die Ergebnisse der intelligenten Kampagne, um bestimmte Aktivitäten anzuzeigen, die für Sie von Bedeutung sind.
 
@@ -51,9 +47,8 @@ Filtern Sie die Ergebnisse der intelligenten Kampagne, um bestimmte Aktivitäten
 
    ![](assets/saveasfilter-hands.png)
 
-1. Der benutzerspezifische Filter wird auf Ihre Ergebnisse angewendet und ist jetzt in der Dropdown-Liste verfügbar. (Möglicherweise müssen Sie die Seite aktualisieren, um sie in der Dropdown-Liste anzuzeigen.)
+1. Der benutzerdefinierte Filter wird auf Ihre Ergebnisse angewendet und ist jetzt in der Dropdown-Liste verfügbar (Sie müssen die Seite möglicherweise aktualisieren, um sie in der Dropdown-Liste anzuzeigen).
 
    ![](assets/customfilter-hands.png)
 
    Ist das nicht cool? Ihr benutzerdefinierter Filter steht jetzt in allen Aktivitäten-Protokollen zur Verfügung.
-
