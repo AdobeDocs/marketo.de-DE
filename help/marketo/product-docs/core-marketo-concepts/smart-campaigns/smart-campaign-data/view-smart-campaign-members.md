@@ -3,9 +3,9 @@ unique-page-id: 1146937
 description: Mitglieder der Ansicht für intelligente Kampagne - Marketing Docs - Produktdokumentation
 title: Mitglieder der Ansicht für intelligente Kampagne
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Ansicht von Menschen, die bereits den Fluss der intelligenten Kampagne durchlaufen haben; d. h. Mitglieder intelligenter Kampagnen.
 
-1. Gehen Sie zu Marketing-Aktivitäten.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf Ansicht Kampagne Members .
+1. Klicken Sie in Ihrer intelligenten Kampagne auf **Ansicht Kampagne Members**.
 
    ![](assets/changescore-hands.png)
 
@@ -35,19 +35,6 @@ Ansicht von Menschen, die bereits den Fluss der intelligenten Kampagne durchlauf
    >
    >Die Liste der Mitglieder der Kampagne wird zunächst leer sein, wenn die intelligente Kampagne nicht auf Menschen läuft.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr darüber, was Sie mit [Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) tun können.
-
-   >[!NOTE]
-   >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Ansicht blockierte Personen in einer intelligenten Kampagne](view-blocked-people-in-a-smart-campaign.md)
-
-
+   >[Ansicht blockierte Personen in einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
