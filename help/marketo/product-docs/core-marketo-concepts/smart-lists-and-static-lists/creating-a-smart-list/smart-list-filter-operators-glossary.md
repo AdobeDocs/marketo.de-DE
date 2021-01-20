@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Smart-Liste-Filteroperatoren - Glossar - Marketing Docs - Produktdokumentation
 title: Glossar zu Operatoren für intelligente Liste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # Filteroperatoren für intelligente Listen - Glossar {#smart-list-filter-operators-glossary}
 
-Ein Operator ist Teil der [intelligenten Liste](http://docs.marketo.com/display/docs/smart+lists+and+static+lists), die Ihnen hilft, spezifische Daten zu erhalten. Damit können Sie Ihren Filter oder Auslöser in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.\
+Ein Operator ist ein Teil der intelligenten Liste, die Ihnen hilft, bestimmte Informationen zu erhalten. Damit können Sie Ihren Filter oder Trigger in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.
+
 Im Folgenden finden Sie ein Glossar, das die einzelnen Operatoren beschreibt.
 
 ## Datumsfelder {#date-fields}
@@ -51,7 +52,7 @@ Geben Sie einfach die Nummer und Einheit zusammen und es funktioniert!
 
 >[!NOTE]
 >
->In der Vergangenheit haben Sie **die Smart-Liste (bis zum Zeitpunkt, nicht danach) mit einbezogen.**
+>&quot;In der Vergangenheit&quot; **bezieht** den Tag ein (bis zum Zeitpunkt, nicht danach), den Sie Ihre intelligente Liste erstellen.
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">Operator</th> 
-   <th colspan="1" rowspan="1"><p>Beschreibung</p></th> 
+   <th colspan="1" rowspan="1">Beschreibung</th> 
   </tr> 
  </thead> 
  <tbody> 
