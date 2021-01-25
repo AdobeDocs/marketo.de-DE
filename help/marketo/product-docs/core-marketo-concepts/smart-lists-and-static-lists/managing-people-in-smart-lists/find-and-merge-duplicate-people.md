@@ -3,7 +3,7 @@ unique-page-id: 557339
 description: Duplikat People suchen und zusammenführen - Marketing Docs - Produktdokumentation
 title: Duplikat-Personen suchen und zusammenführen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
 
 >[!PREREQUISITES]
 >
->Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierten / System intelligenten Listen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierten / System intelligenten Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Duplikat suchen {#find-duplicates}
 
@@ -33,13 +33,13 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
    >
    >Die Zusammenführung von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein Salesforce-Benutzerkonto verwenden. Bitte führen Sie die Unterlagen nach Möglichkeit in Salesforce zusammen.
 
-1. Wählen Sie die Liste **Mögliche** **Duplikat** System-Smart aus und klicken Sie auf die Registerkarte **Personen**.
+1. Wählen Sie die Systemintelligente Liste **Mögliche Duplikat** und klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Sie können auch [Duplikat-Personen mit benutzerdefinierter Logik](find-duplicate-people-with-custom-logic.md) suchen.
+   >Sie können auch [Duplikat-Personen mit benutzerdefinierter Logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md) suchen.
 
 ## Personen manuell zusammenführen {#merge-people-manually}
 
@@ -47,14 +47,15 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
 >
 >Wenn beim Zusammenführen von Personen die unterliegende Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird **nicht** erneut der Gewinner-Person zugeordnet. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
 
-Wählen Sie die Duplikate aus, indem Sie Strg/Befehl drücken und auf &quot;Personen zusammenführen&quot;klicken.
-![](assets/three.png)
+1. Wählen Sie die Duplikat aus, indem Sie Strg/Cmd drücken und auf **Personen zusammenführen** klicken.
 
->[!TIP]
->
->Sie können zwei oder mehr Duplikate für dieselbe Person haben - wählen Sie sie alle gleichzeitig aus.
+   ![](assets/three.png)
 
-1. Sie sehen die Werte zwischen den Datensätzen, die *nicht* übereinstimmen. Wählen Sie den Wert aus, den Sie für die einzelnen Felder beibehalten möchten. Klicken Sie nach Abschluss des Vorgangs auf **Zusammenführen**. Wenn Sie keinen Wert wünschen, können Sie **Benutzerdefiniert** aktivieren und einen Wert Ihrer Wahl eingeben.
+   >[!TIP]
+   >
+   >Sie können zwei oder mehr Duplikate für dieselbe Person haben - wählen Sie sie alle gleichzeitig aus.
+
+1. Sie sehen die Werte zwischen den Datensätzen, die _nicht_ übereinstimmen. Wählen Sie den Wert aus, den Sie für die einzelnen Felder beibehalten möchten. Klicken Sie nach Abschluss des Vorgangs auf **Zusammenführen**. Wenn Sie keinen Wert wünschen, können Sie **Benutzerdefiniert** aktivieren und einen Wert Ihrer Wahl eingeben.
 
    ![](assets/four.png)
 
@@ -70,13 +71,13 @@ Wählen Sie die Duplikate aus, indem Sie Strg/Befehl drücken und auf &quot;Pers
 
 Wenn Sie Salesforce-Integration haben, gibt es einige Hinweise zur Wirkung von Merge Leads in Salesforce.
 
-    * Wenn nur Interessenten oder nur Kontakte zusammengeführt werden, führen sie nach normalen Salesforce-Regeln zusammen.
-    * Beim Zusammenführen von Interessenten und Kontakten werden alle Interessenten in Kontakte konvertiert, bevor sie gemäß den normalen Salesforce-Regeln zusammengeführt werden.
+* Beim Zusammenführen nur Interessenten oder nur Kontakte werden diese gemäß den normalen Salesforce-Regeln zusammengeführt.
+* Beim Zusammenführen von Interessenten und Kontakten werden alle Interessenten in Kontakte konvertiert, bevor sie gemäß den normalen Salesforce-Regeln zusammengeführt werden.
 
 Einzelheiten zum Verhalten von Salesforce beim Zusammenführen von Interessenten oder Kontakten finden Sie in den folgenden Salesforce-Dokumenten:
 
-    * [Zusammenführende Duplikat-Interessenten](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-    * [Zusammenführende Duplikat-Kontakte](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Zusammenführen von Duplikat-Interessenten](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
+* [Zusammenführen von Duplikat-Kontakten](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
 ## Massenzusammenführung {#bulk-merging}
 
