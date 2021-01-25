@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Benutzerdefinierte Felder für Programm-Mitglieder - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Felder für Programm-Member
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Benutzerdefinierte Felder für Programm-Member {#program-member-custom-fields}
 
-Benutzerdefinierte Programm-Member-Felder ermöglichen die Erfassung von Programm-spezifischen Daten für jedes Mitglied. Sie können verwendet werden bei: Marketo-Formulare, Filter und Auslöser für intelligente Liste und Flussaktionen für intelligente Kampagnen. Die Daten sind auf der Registerkarte &quot;Mitglieder&quot;des Programms sichtbar.
+Benutzerdefinierte Programm-Member-Felder ermöglichen die Erfassung von Programm-spezifischen Daten für jedes Mitglied. Sie können verwendet werden bei: Marketo-Formulare, Filter und Trigger für intelligente Liste und Flussaktionen für intelligente Kampagnen. Die Daten sind auf der Registerkarte &quot;Mitglieder&quot;des Programms sichtbar.
 
 ## Erstellen eines benutzerspezifischen Programm-Mitglieds {#create-a-program-member-custom-field}
 
@@ -43,7 +43,7 @@ Benutzerdefinierte Programm-Member-Felder ermöglichen die Erfassung von Program
 
    >[!NOTE]
    >
-   >Unterstützte Typen für benutzerdefinierte Programm-Member-Felder: boolean, date, datetime, float, integer, string, URL. [Weitere Informationen zu Feldtypen](http://docs.marketo.com/x/Wwgt).
+   >Unterstützte Typen für benutzerdefinierte Programm-Member-Felder: boolean, date, datetime, float, integer, string, URL. [Weitere Informationen zu Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 ## Objektbeschreibungen {#object-descriptions}
 
@@ -54,9 +54,9 @@ Benutzerdefinierte Programm-Member-Felder ermöglichen die Erfassung von Program
 | Person | Eine Person in Ihrer Marketo-Datenbank, mit der Sie über Marketing-Kampagnen in Kontakt treten. |
 | Programm | Person, die auch Mitglied eines Programms ist |
 
-## Auslöser und Filter {#triggers-and-filters}
+## Trigger und Filter {#triggers-and-filters}
 
-Sie können diese Programm-spezifischen Daten in intelligenten Listen über [Auslöser](http://docs.marketo.com/x/PoAR)und/oder [Filter](http://docs.marketo.com/x/2YAI) nutzen.
+Sie können diese Programm-spezifischen Daten in intelligenten Listen über [Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) und/oder [Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) nutzen.
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ Sie können diese Programm-spezifischen Daten in intelligenten Listen über [Aus
 * Das Programm Member-Objekt kann bis zu 20 benutzerdefinierte Felder enthalten. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und das benutzerdefinierte Feld &quot;Programm-Mitglied&quot;Daten enthält, werden die Daten aus diesem Feld gescrubbt.
 * Um die Daten Ansicht, klicken Sie im Programm auf die Registerkarte &quot;Mitglieder&quot;und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
-* Import und Export über [Liste](http://docs.marketo.com/x/egAk)und [API](http://developers.marketo.com/)werden unterstützt.
+* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)und [API](https://developers.marketo.com/) werden unterstützt.
 * Wenn Sie zwei Personen zusammenführen, werden die Felddaten des Gewinners für ein benutzerdefiniertes Programm verwendet. Hat der Gewinner jedoch keine, wird der Wert des Verlierers verwendet.
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefiniertes Feld in Marketing erstellen](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[Benutzerdefiniertes Feld in Marketing erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
