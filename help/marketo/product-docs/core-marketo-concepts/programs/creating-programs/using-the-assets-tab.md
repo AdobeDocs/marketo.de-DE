@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: Registerkarte "Assets"- "Marketo Docs - Produktdokumentation"
 title: Registerkarte "Elemente"
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Klicken Sie im Bereich **Marketing-Aktivitäten** auf die Registerkarte **Assets
 
 Wenn Assets in Ihrem Programm vorhanden sind, werden sie hier aufgeführt.
 
-| Orange | Auslöser-Kampagne |
+| Orange | Trigger Kampagne |
 |---|---|
 | Grün | Batch-Kampagne |
 
@@ -37,6 +37,8 @@ Sie können mit der rechten Maustaste auf die Kopfzeile klicken, wenn Sie mit di
 >
 >Verschieben Sie die Asset-Spalten per Drag &amp; Drop.
 
-Assets, die für Ihr Programm nicht lokal verfügbar sind, sehen wie folgt aus:  ![](assets/image2014-9-18-16-3a30-3a33.png)
+Assets, die für Ihr Programm nicht lokal verfügbar sind, sehen wie folgt aus:
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 Die Registerkarte &quot;Assets&quot;ist ein großartiges kleines Dashboard für alles, was im Programm enthalten ist und auf das verwiesen wird.
