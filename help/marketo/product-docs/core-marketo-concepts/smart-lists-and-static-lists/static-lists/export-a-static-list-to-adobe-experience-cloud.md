@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Exportieren einer statischen Liste nach Adobe Experience Cloud - Marketing Docs - Produktdokumentation
 title: Statische Liste nach Adobe Experience Cloud exportieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Einrichten der Freigabe von Adobe Experience Cloud-Audiencen](http://docs.marketo.com/x/D4GMAg)
+>[Einrichten der Freigabe von Adobe Experience Cloud-Audiencen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Unterstützte Zielanwendungen {#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **Freigeben für Adobe Analytics**
 
-Für Kunden, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, ermöglicht diese Integration die Freigabe von Audiencen von Marketo an Ihre Adobe Analytics Report Suites, es gibt jedoch einige zusätzliche Konfigurationsschritte, die in Adobe Audience Manager durchgeführt werden müssen, um dies zu ermöglichen. Weitere Informationen zum Einrichten dieser Funktion finden Sie in der Adobe Audience Manager-Dokumentation: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Für Kunden, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, ermöglicht diese Integration die Freigabe von Audiencen von Marketo an Ihre Adobe Analytics Report Suites, es gibt jedoch einige zusätzliche Konfigurationsschritte, die in Adobe Audience Manager durchgeführt werden müssen, um dies zu ermöglichen. Weitere Informationen zum Einrichten dieser Funktion finden Sie in der Adobe Audience Manager-Dokumentation: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Eigenschaftsverwendung für Adobe Audience Manager-Kunden**
 
@@ -80,4 +80,4 @@ Unter der Haube funktioniert die Audience-Integration, indem Marketo Munchkin-Co
 
 Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht die Datei &quot;munchkin.js&quot;von Marketo, ECIDs der Adobe für die Adobe IMS Org zu erfassen und zu speichern, die Sie während der Integrationseinstellung angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-ID abzustimmen. Dadurch können die anonymen Profil von Marketo mit Adobe-ECIDs bereichert werden.
 
-Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerkonto mit einem Lead-Profil zu verknüpfen, das mit einer E-Mail-Adresse ohne Text identifiziert wird. Wie genau dies funktioniert, wird hier beschrieben: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerkonto mit einem Lead-Profil zu verknüpfen, das mit einer E-Mail-Adresse ohne Text identifiziert wird. Wie genau dies funktioniert, wird hier beschrieben: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
