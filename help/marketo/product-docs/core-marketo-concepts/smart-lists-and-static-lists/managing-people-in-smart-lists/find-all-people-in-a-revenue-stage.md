@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: Alle Personen in einer Umsatzstufe suchen - Marketing Docs - Produktdokumentation
 title: Alle Personen in einer Umsatzstufe suchen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Alle Mitglieder einer bestimmten Umsatzstufe {#find-all-members-of-a-specific-revenue-stage} suchen
 
-1. Klicken Sie in einer intelligenten Liste auf die Registerkarte **Intelligente Liste **und suchen Sie den Filter **Umsatzstufe** und ziehen Sie ihn auf die Arbeitsfläche.
+1. Klicken Sie in einer intelligenten Liste auf die Registerkarte **Intelligente Liste**, suchen Sie den Filter **Umsatzstufe** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ Nun da Sie wissen, welche Personen in welchen Umsatzstufen sind, können Sie dir
    ![](assets/six.png)
 
    Von dort können Sie auswählen, welche Mitglieder von welchem Aspekt des Flussschritts betroffen sind. Spaß!
-
