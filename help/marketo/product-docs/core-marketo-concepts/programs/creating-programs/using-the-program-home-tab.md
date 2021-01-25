@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: Verwenden der Registerkarte "Programm Home"- "Marketing Docs - Produktdokumentation"
 title: Verwenden der Registerkarte "Programm-Startseite"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorg
    >
    >Dies ist Ihre standardmäßige Ansicht. Es enthält Informationen zu Ihren Einstellungen, Zeitplan, Ergebnissen und dem Status Ihrer Mitglieder-Programme.
 
-   Klicken Sie auf unterstrichene Elemente, um Änderungen vorzunehmen oder weitere Informationen zur Ansicht zu erhalten.
+1. Klicken Sie auf unterstrichene Elemente, um Änderungen vorzunehmen oder weitere Informationen zur Ansicht zu erhalten.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   Klicken Sie unten in der Zusammenfassung auf Exportieren, um den Bericht herunterzuladen.
+1. Klicken Sie unten in der Zusammenfassung auf **Export**, um den Bericht herunterzuladen.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorg
    >
    >**&quot;** Historisch&quot;bezeichnet jeden, der jemals das Programm durchlaufen hat, während  **** derzeit nur Personen im Programm anwesend sind.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Informationen zur Programm-Mitgliedschaft](understanding-program-membership.md)
-
-
+   >[Informationen zur Programm-Mitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
