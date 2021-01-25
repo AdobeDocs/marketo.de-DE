@@ -3,7 +3,7 @@ unique-page-id: 2952636
 description: Duplikat-Personen mit benutzerdefinierter Logik suchen - Marketing-Dokumente - Produktdokumentation
 title: Duplikat-Personen mit benutzerdefinierter Logik suchen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -17,21 +17,17 @@ Marketo verfügt über eine systemintelligente Liste, die Duplikat-Leute findet,
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Gehen Sie zum Bereich Marketing-Aktivitäten.
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
 ![](assets/ma-2.png)
 
-1. Wählen Sie Ihre intelligente Liste aus und klicken Sie auf die Registerkarte Intelligente Liste.
+1. Wählen Sie Ihre Smart-Liste aus und klicken Sie auf die Registerkarte **Smart-Liste**.
 
    ![](assets/two-4.png)
 
-1. Ziehen Sie den Filter &quot;Duplikat-Felder&quot;in die Arbeitsfläche.
+1. Suchen und ziehen Sie den Filter **Duplikat-Felder** auf die Arbeitsfläche.
 
    ![](assets/three-4.png)
 
@@ -45,4 +41,3 @@ Marketo verfügt über eine systemintelligente Liste, die Duplikat-Leute findet,
    ![](assets/four-2.png)
 
    Fertig! Führen Sie die intelligente Liste aus, um Personen mit demselben Wert im zuvor ausgewählten Feld zu suchen.
-
