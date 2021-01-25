@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: hinzufügen Person in Blockierungsliste - Marketing Docs - Produktdokumentation
 title: hinzufügen in Blockierungsliste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 >
 >Marketo ist dabei, Begriffe wie Blacklist und Whitelist in Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
-1. [Erstellen Sie ein neues Standardprogramm ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) und nennen Sie es  **Hinzufügen Blockierungsliste**.
+1. [Erstellen Sie ein neues Standardprogramm ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) und nennen Sie es  **Hinzufügen Blockierungsliste**.
+
 1. Klicken Sie auf **Neu** und wählen Sie **Neues lokales Element**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    >[!TIP]
    >
-   >Erstellen Sie eine [Auslöser-intelligente Kampagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) mithilfe von **Datenwert ändern** mit **Blockliste ist true** für alle zukünftig auf die Blockierungsliste gesetzt Personen, die Attribute haben, die eine  ermöglichen.
-
+   >Erstellen Sie eine intelligente Kampagne [Trigger-Blockierungsliste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) mithilfe von **Datenwert ändern** mit **aufgelisteter  ist true** für alle zukünftig verwendbaren Personen mit Attributen, die über  verfügen.
