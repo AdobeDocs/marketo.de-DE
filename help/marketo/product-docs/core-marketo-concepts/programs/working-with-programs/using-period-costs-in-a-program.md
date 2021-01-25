@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: Verwenden von Zeitkosten in einem Programm - Marketing Docs - Produktdokumentation
 title: Verwenden von Periodenkosten in einem Programm
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Verwenden von Zeitkosten in einem Programm {#using-period-costs-in-a-program}
 
-Ein [Periodenkosten](understanding-period-costs.md) ist der Betrag, den Sie für ein Programm ausgeben. Es kann ein oder mehrere Monate dauern und wird für den Berichte-ROI verwendet.
-
->[!NOTE]
->
->**Tieftauchen**
->
-> Erfahren Sie mehr über [Umsatzzyklusanalysen](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+Ein [Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) ist der Betrag, den Sie für ein Programm ausgeben. Es kann ein oder mehrere Monate dauern und wird für den Berichte-ROI verwendet.
 
 ## hinzufügen einer Periodenkosten {#add-a-period-cost}
 
@@ -54,7 +48,8 @@ Ein [Periodenkosten](understanding-period-costs.md) ist der Betrag, den Sie für
 ## Bearbeiten von Zeitkosten {#edit-a-period-cost}
 
 1. Wenn Sie mehr oder weniger Geld ausgeben als ursprünglich geplant, können Sie die Zeitraumkosten bearbeiten.
-1. Gehen Sie zur Registerkarte **Setup **Ihres Programms.
+
+1. Gehen Sie zur Registerkarte **Setup** Ihres Programms.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -76,17 +71,12 @@ Ein [Periodenkosten](understanding-period-costs.md) ist der Betrag, den Sie für
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Klicken Sie zur Bestätigung auf **Löschen*.
+1. Klicken Sie zur Bestätigung auf **Löschen**.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Die Kosten des Zeitraums](understanding-period-costs.md)
->* [Umsatzzyklusanalysen](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [Filtern eines Programm-Berichts nach Zeitraumkosten](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
->
-
-
+>* [Die Kosten des Zeitraums](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [Filtern eines Programm-Berichts nach Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
