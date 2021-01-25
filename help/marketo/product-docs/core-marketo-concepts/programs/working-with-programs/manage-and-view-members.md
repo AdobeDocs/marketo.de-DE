@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Mitglieder verwalten und Ansicht - Marketing Docs - Produktdokumentation
 title: Mitglieder verwalten und Ansicht
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Tieftauchen**
->
-> Tauchen Sie tiefer in [Programm-Mitgliedschaft](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) ein.
+>Tauchen Sie tiefer in [Programm-Mitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) ein.
 
 ## Nach einem Mitglied {#search-for-a-member} suchen
 
@@ -41,21 +39,21 @@ Sie können Ihre Mitglieds-Liste exportieren, indem Sie auf das Excel-Symbol neb
 
 ## Spalten im Mitgliederraster {#manage-columns-in-the-members-grid} verwalten
 
-* Ziehen Sie Spalten per Drag &amp; Drop, um ihre Reihenfolge zu ändern. Die blauen Pfeile zeigen an, wohin die Spalte geht.
+Ziehen Sie Spalten per Drag &amp; Drop, um ihre Reihenfolge zu ändern. Die blauen Pfeile zeigen an, wohin die Spalte geht.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um sie alphabetisch zu sortieren, entweder aufsteigend oder absteigend.
+Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um sie alphabetisch zu sortieren, entweder aufsteigend oder absteigend.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Wählen Sie, welche Spalten im Raster {#choose-which-columns-are-visible-in-the-grid} sichtbar sind
 
-1. Klicken Sie auf die Dropdownliste **Ansicht **und wählen Sie **Ansicht erstellen**.
+1. Klicken Sie auf die Dropdownliste **Ansicht** und wählen Sie **Ansicht erstellen**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken Sie auf** Hinzufügen **und** **entfernen, um Spalten zu verschieben und eine Ansicht zu erstellen.
+1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken Sie auf **Hinzufügen** und **Entfernen**, um Spalten zu verschieben und eine Ansicht zu erstellen.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ So viele Features, aber sie sind alle ziemlich einfach. Viel Spaß!
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Programm-Leistungsberichts](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[Erstellen eines Programm-Leistungsberichts](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
