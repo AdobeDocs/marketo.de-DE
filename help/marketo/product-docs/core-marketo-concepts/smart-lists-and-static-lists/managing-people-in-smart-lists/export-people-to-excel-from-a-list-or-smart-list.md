@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: Exportieren von Personen aus einer Liste oder intelligenten Liste in Excel - Marketing to Docs - Produktdokumentation
 title: Export von Personen in Excel aus einer Liste oder einer Smart-Liste
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Wenn Sie Listen oder Ergebnisse intelligenter Listen außerhalb von Marketo ben�
    >[!TIP]
    >
    >Sie können die Zwischenspeicherung der Liste rückgängig machen, indem Sie einfach auf die Aktualisierungsschaltfläche der Liste klicken.
-
