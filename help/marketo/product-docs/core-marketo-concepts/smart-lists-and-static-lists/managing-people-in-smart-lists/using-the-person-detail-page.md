@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Verwenden der Seite "Personendetails"- "Marketing-Dokumente - Produktdokumentation"
 title: Verwenden der Seite "Personendetails"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ Die Personendetailseite enthält alle Informationen, die Marketo über eine Pers
 
 ## Seite &quot;Zu Personendaten&quot; {#getting-to-person-detail-page}
 
-Es gibt viele Möglichkeiten, bestimmte Leute zu öffnen. Nachfolgend sind einige Beispiele aufgeführt.
+Es gibt viele Möglichkeiten, bestimmte Leute zu öffnen. Beispiele:
 
->[!NOTE]
->
->**Beispiel**
->
->* In der **Datenbank** können Sie in der Schnellsuche suchen
->* Eine Smart **Liste** oder Liste
->* **programm-** Memberstab
->* **Ansicht Kampagne** Mitglied einer intelligenten Kampagne
->* Einige **Berichte**
+* In der **Datenbank** können Sie in der Schnellsuche suchen
+* Eine Smart **Liste** oder Liste
+* **programm-** Memberstab
+* **Ansicht Kampagne** Mitglied einer intelligenten Kampagne
+* Einige **Berichte**
 
->
-
-
+   <br> 
 
 1. Klicken Sie entweder mit der Dublette auf eine beliebige Person oder klicken Sie mit der Maus auf die ID auf der linken Seite.
 
@@ -96,9 +90,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Einige Felder sind bearbeitbar:**
+>Einige Felder sind bearbeitbar:__
 >
 >* Informationen zur Firma
 >* Möglichkeiten für die Kontakte zum SFDC
@@ -107,13 +99,8 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 
 >
 >
-Erfahren Sie mehr über [Systemverwaltete Felder](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+Erfahren Sie mehr über [Systemverwaltete Felder](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines benutzerspezifischen Registers für die Seite mit den Benutzerdetails](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[Erstellen eines benutzerspezifischen Registers für die Seite mit den Benutzerdetails](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
