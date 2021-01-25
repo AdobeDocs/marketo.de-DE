@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: Filtern von Aktivitäten im Aktivitäten-Protokoll einer Person - Marketing Docs - Produktdokumentation
 title: Filtern von Aktivitäten im Benutzerprotokoll einer Aktivität
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Suchen Sie im Aktivitäten-Protokoll nach Aktivitäten, die für Sie am wichtigs
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Erfahren Sie mehr über [das Aktivitäten-Protokoll](locate-the-activity-log-for-a-person.md).
+>Erfahren Sie mehr über [das Aktivitäten-Protokoll](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. Gehen Sie zur Seite **Personendetails**. Klicken Sie auf die Registerkarte **Aktivität Log**.
 
@@ -58,4 +56,3 @@ Gespeicherte Filter können über die Dropdownliste **Filter** aufgerufen werden
 1. Klicken Sie auf **Gespeicherte Filter**. Gespeicherte Filter werden unten aufgeführt.
 
    ![](assets/eight.png)
-
