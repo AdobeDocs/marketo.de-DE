@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: Löschen eines Programms - Marketing Docs - Produktdokumentation
 title: Löschen eines Programms
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Sie können ein Programm archivieren, aber manchmal möchten Sie es einfach daue
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Klicken Sie auf Programm Aktionen. Klicken Sie auf Löschen.
+1. Klicken Sie auf **Programm Actions**. Klicken Sie auf **Löschen**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Wählen Sie die Option &quot;Alle löschen&quot;. Überprüfen Sie die Nebenwirkungen des Löschvorgangs des Programms und klicken Sie dann zur Bestätigung auf Löschen.
+1. Wählen Sie die Option &quot;Alle löschen&quot;. Überprüfen Sie die Nebenwirkungen des Löschvorgangs des Programms und klicken Sie zur Bestätigung auf **Löschen**.
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ Um das Problem zu beheben, müssen Sie möglicherweise einen Drilldown durchfüh
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klicken Sie auf **Verwendet** **By**, um zu sehen, wo das Asset verwendet wird.
+1. Klicken Sie auf **Verwendet von**, um zu sehen, wo das Asset verwendet wird.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    Sobald Sie wissen, wo Ihr Asset verwendet wird, gehen Sie zu ihm und heben Sie die Genehmigung/Löschung auf. Versuchen Sie dann erneut, Ihr Programm zu löschen.
-
