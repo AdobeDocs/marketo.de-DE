@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: Importieren von Mitgliedern aus einer Tabelle in ein Programm - MarketingToDocs - Produktdokumentation
 title: Mitglieder aus einer Tabelle in ein Programm importieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglieder eine
 
    >[!CAUTION]
    >
-   >Verwenden Sie beim Importieren eines Datums in ein Datumsfeld das folgende Format: 23.09.13 (Monat/Tag/Jahr).
+   >Verwenden Sie beim Importieren eines Datums in ein Datumsfeld das folgende Format: 29.09.13 (Monat/Tag/Jahr).
 
 ## CSV in Marketing importieren {#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglieder eine
 
 >[!MORELIKETHIS]
 >
->* [Mitglieder verwalten und Ansicht](manage-and-view-members.md)
-
->
-
-
-
+>[Mitglieder verwalten und Ansicht](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
