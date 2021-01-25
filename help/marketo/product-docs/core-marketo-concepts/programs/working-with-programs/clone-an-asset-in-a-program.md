@@ -3,9 +3,9 @@ unique-page-id: 1147152
 description: Klonen eines Assets in einem Programm - Marketing Docs - Produktdokumentation
 title: Klonen eines Assets in einem Programm
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Klonen eines Assets in einem Programm {#clone-an-asset-in-a-program}
 
-Klonen eines Programms *alles* Manchmal möchten Sie nur ein Asset klonen. So geht es.
+Klonen eines Programms _alles_ Manchmal möchten Sie nur ein Asset klonen. So geht es.
 
 >[!NOTE]
 >
->Sie müssen weitere Schritte ausführen, um [eine Landingpage-Testgruppe](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md) zu klonen.
+>Sie müssen weitere Schritte ausführen, um [eine Landingpage-Testgruppe](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md) zu klonen.
 
 ## Klonen eines lokalen Assets {#clone-a-local-asset}
 
@@ -33,7 +33,7 @@ Klonen eines Programms *alles* Manchmal möchten Sie nur ein Asset klonen. So ge
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Jedes Asset enthält ein anderes Dialogfeld. Füllen Sie einfach die Informationen aus und klicken Sie auf **Klonen.**
+1. Jedes Asset enthält ein anderes Dialogfeld. Füllen Sie einfach die Infos aus und klicken Sie auf **Klonen**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
@@ -47,10 +47,4 @@ Klonen eines Programms *alles* Manchmal möchten Sie nur ein Asset klonen. So ge
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Klonen eines Programms](clone-a-program.md)
-
-
+   >[Klonen eines Programms](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
