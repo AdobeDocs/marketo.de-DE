@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Programm importieren - Marketing Docs - Produktdokumentation
 title: Programm importieren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Ein Programm kann von einem Markt in ein anderes Abonnement importiert werden. S
 
    ![](assets/ma.png)
 
-1. Klicken Sie auf **Neu **Dropdown-Liste. Wählen Sie **Programm importieren**.
+1. Klicken Sie auf die Dropdownliste **Neu**. Wählen Sie **Programm importieren**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Programm Import ist nur für Benutzer verfügbar, für die die Berechtigung Programm importieren aktiviert ist. Erfahren Sie mehr über [Verwalten von Benutzerrollen und Berechtigungen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Programm Import ist nur für Benutzer verfügbar, für die die Berechtigung Programm importieren aktiviert ist. Erfahren Sie mehr über [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >
-   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketing Support](http://www.marketo.com/services/support/).
+   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Wählen Sie ein Marketo **Abonnement** und ein zu importierendes Programm aus. Klicken Sie auf **Weiter**.
 
@@ -42,7 +41,7 @@ Ein Programm kann von einem Markt in ein anderes Abonnement importiert werden. S
 
    >[!NOTE]
    >
-   >Vergewissern Sie sich, dass** ****Standardkonflikt**-Regeln verwenden ausgewählt ist. Konfliktregeln sind erforderlich, wenn Sie Programm in eine Instanz importieren, deren Assets denselben Namen haben.
+   >Vergewissern Sie sich, dass **Standardkonflikt**-Regeln verwenden ausgewählt ist. Konfliktregeln sind erforderlich, wenn Sie Programm in eine Instanz importieren, deren Assets denselben Namen haben.
 
 1. Details zur Vorschau und **Importieren** des Programms.
 
@@ -56,7 +55,7 @@ Sobald der Import abgeschlossen ist, erhalten Sie eine E-Mail-Bestätigung.
 
 >[!NOTE]
 >
->Sie müssen importierte Batch-Kampagnen neu planen und die Kampagnen aktivieren. Das System deaktiviert automatisch die Zeitpläne der Kampagne und löst Kampagnen im importierten Programm aus.
+>Sie müssen importierte Batch-Kampagnen neu planen und Trigger-Kampagnen aktivieren. Das System deaktiviert automatisch die Kampagnen für die Kampagne und den Trigger im importierten Programm.
 
 ## Identifizieren Sie vorab erstellte Programm in der Marketing Programm-Bibliothek {#identify-pre-built-programs-in-the-marketo-program-library}
 
@@ -77,7 +76,7 @@ Die Marketing Programm Library enthält vordefinierte, getestete Programm, die S
 1. **Synchronisieren Sie Neue Personen mit CRM.** Die Kampagne, die neue Leute mit Ihrem CRM-System synchronisiert. Er weist einem Personenstand den Status zu, dass er als nicht verkaufsbereit anerkannt wird.
 1. **Webinar mit Ereignis Adapter.** Eine ganze Reihe von E-Mails - wie Einladungen und Erinnerungen - sowie Landingpages mit Formularen und Kampagnen, um Menschen durch das Programm zu bewegen. In diesem Programm erhalten Sie aktuelle Informationen zur Registrierung, zur Teilnahme usw. von Online-Ereignissen wie WebEx.
 1. **Webinar ohne Ereignis-Adapter.** Wie oben, aber mit manuellen Prozessen zur Registrierung, Anwesenheitskontrolle, etc.
-1. **Sirius entscheidet Scoring Programm**. Dieses Programm wurde entwickelt, um das Sirius Decision Scoring-Standardmodell zu unterstützen, einschließlich der impliziten und expliziten Bewertungsregeln und der Zuweisung von Matrixpersonen. Ansicht [diese PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)für weitere Informationen.
+1. **Sirius entscheidet Scoring Programm**. Dieses Programm wurde entwickelt, um das Sirius Decision Scoring-Standardmodell zu unterstützen, einschließlich der impliziten und expliziten Bewertungsregeln und der Zuweisung von Matrixpersonen.
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ Die Marketing Programm Library enthält vordefinierte, getestete Programm, die S
 
 Programme verwenden externe Assets wie E-Mail-Vorlagen, Vorlagen für Landingpages, Bilder, Formulare, Token und Programm-Tags. Sie haben die Möglichkeit zu konfigurieren, wie Landingpages- und Programm-Tags verarbeitet werden, und Marketo verwaltet den Rest automatisch.
 
-**E-Mail-Vorlagen: **E-Mail-Vorlagen werden automatisch importiert und erstellt, es sei denn, eine mit demselben Namen ist vorhanden.
+**E-Mail-Vorlagen:** E-Mail-Vorlagen werden automatisch importiert und erstellt, es sei denn, eine Vorlage mit demselben Namen ist vorhanden.
 
-**Landingpages-Vorlagen: **Landingpages-Vorlagen werden in das Design-Studio importiert. Mithilfe von Konfliktregeln können Sie das Verhalten konfigurieren, wenn eine Vorlage mit demselben Namen vorhanden ist. Bei Verwendung der Standardregel wird eine Landingpage an eine Vorlage angehängt, wenn eine mit demselben Namen vorhanden ist. Eine Vorlage mit dem Namen &quot;Standardvorlage 1&quot;wird beispielsweise erstellt, wenn eine Landingpage mit dem Namen &quot;Standardvorlage&quot;vorhanden ist.
+**Vorlagen für Landingpages: Vorlagen für** Landingpages werden in das Design-Studio importiert. Mithilfe von Konfliktregeln können Sie das Verhalten konfigurieren, wenn eine Vorlage mit demselben Namen vorhanden ist. Bei Verwendung der Standardregel wird eine Landingpage an eine Vorlage angehängt, wenn eine mit demselben Namen vorhanden ist. Eine Vorlage mit dem Namen &quot;Standardvorlage 1&quot;wird beispielsweise erstellt, wenn eine Landingpage mit dem Namen &quot;Standardvorlage&quot;vorhanden ist.
 
-**Bilder: **Von Landingpages verwendete Bilder werden in das Design-Studio importiert, es sei denn, eines mit demselben Namen existiert.
+**Bilder:** Von Landingpages verwendete Bilder werden in das Design-Studio importiert, es sei denn, es ist eines mit demselben Namen vorhanden.
 
-**Token: **Token, die außerhalb eines Programms leben, werden während des Importvorgangs in lokale Token konvertiert.
-
->[!CAUTION]
->
->Bildtyp, den meine Token für Programm-Importe nicht unterstützen. Wenn ein Programm mit Bildtyp meine Token importiert wird, werden **keine **Token angezeigt.
-
-**Programm-Tags: **Sie können Konfliktregeln verwenden, um zu steuern, wie Programm-Tags, die nicht im Zielkonto vorhanden sind, behandelt werden. Mithilfe der Standardregel werden die Programm-Tags erstellt oder Sie können die Tags ignorieren.  **Forms: **Externe Formulare werden automatisch in das Design-Studio importiert, es sei denn, eines mit demselben Namen ist vorhanden.
+**Token:** Token, die außerhalb eines Programms leben, werden während des Importvorgangs in lokale Token konvertiert.
 
 >[!CAUTION]
 >
->Beim Importieren eines Programms werden Landingpages/E-Mails, die [dynamische Inhalte](http://docs.marketo.com/x/yRAt) enthalten, übersprungen.
+>Bildtyp, den meine Token für Programm-Importe nicht unterstützen. Wenn ein Programm mit meinem Token importiert wird, werden **keine** Token angezeigt.
 
-## Video ansehen {#watch-a-video}
+**Programm-Tags:** Sie können mit Konfliktregeln steuern, wie Programm-Tags, die nicht im Zielkonto vorhanden sind, behandelt werden. Mithilfe der Standardregel werden die Programm-Tags erstellt oder Sie können die Tags ignorieren. **Forms:** Externe Formulare werden automatisch in das Design-Studio importiert, es sei denn, es ist ein gleichnamiges Formular vorhanden.
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>Beim Importieren eines Programms werden Landingpages/E-Mails, die [dynamische Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) enthalten, übersprungen.
