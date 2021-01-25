@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: Verwenden Sie Listen in einer intelligenten Liste - Marketing Docs - Produktdokumentation
 title: Verwenden von Listen in einer intelligenten Liste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Sie können Personen zu einer Liste hinzufügen, indem Sie [Import](../../../../getting-started/quick-wins/import-a-list-of-people.md) oder [Hinzufügen ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md) zum Liste-Flussschritt&lt;a3/> verwenden.
+>Sie können Personen zu einer Liste hinzufügen, indem Sie [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) oder [Hinzufügen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md) zum Liste-Flussschritt verwenden.
 
 Mit diesem Filter können Sie Mitglieder aus einer anderen Liste ziehen, indem Sie in Ihren Regeln für intelligente Liste darauf verweisen. So geht es.
 
@@ -31,5 +31,4 @@ Mit diesem Filter können Sie Mitglieder aus einer anderen Liste ziehen, indem S
 
    ![](assets/memberoflist.png)
 
-   **Fertig!** In diesem Beispiel Zielgruppe die intelligente Liste jetzt nur die Mitglieder dieser Liste und wertet sie basierend auf anderen eingeschlossenen Regeln aus.
-
+   Fertig! In diesem Beispiel Zielgruppe die intelligente Liste jetzt nur die Mitglieder dieser Liste und wertet sie basierend auf anderen eingeschlossenen Regeln aus.
