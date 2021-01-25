@@ -3,7 +3,7 @@ unique-page-id: 1147154
 description: Synchronisieren einer SFDC-Kampagne mit einem Programm - Marketing Docs - Produktdokumentation
 title: Synchronisieren einer SFDC-Kampagne mit einem Programm
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo ermöglicht Ihnen, Ihre Programme mit Salesforce-Kampagnen zu synchronis
 
 >[!PREREQUISITES]
 >
->Zunächst müssen Sie die Salesforce-Kampagne synchronisieren[ aktivieren.](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
+>Zunächst müssen Sie die Salesforce-Kampagne synchronisieren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) aktivieren.[
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketo ermöglicht Ihnen, Ihre Programme mit Salesforce-Kampagnen zu synchronis
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Wählen Sie **Neu erstellen **oder wählen Sie eine bestehende Salesforce-Kampagne.
+1. Wählen Sie **Neu erstellen** oder eine bestehende Salesforce-Kampagne.
 
    >[!TIP]
    >
-   >Wenn Sie eine bestehende Salesforce-Kampagne auswählen, stellen Sie sicher, dass [Sie die Programm-Statusangaben der Salesforce-Kampagne und des Marketo-Programms](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) erfüllen.
+   >Wenn Sie eine bestehende Salesforce-Kampagne auswählen, stellen Sie sicher, dass [Sie die Programm-Statusangaben der Salesforce-Kampagne und des Marketo-Programms](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) erfüllen.
 
 1. Geben Sie einen Namen für die neue Kampagne ein und klicken Sie auf **Speichern**.
 
@@ -50,4 +50,3 @@ Marketo ermöglicht Ihnen, Ihre Programme mit Salesforce-Kampagnen zu synchronis
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
    Ausgezeichnet! Jetzt werden alle Statusänderungen des Programms in Marketo mit der SFDC-Kampagne synchronisiert und umgekehrt.
-
