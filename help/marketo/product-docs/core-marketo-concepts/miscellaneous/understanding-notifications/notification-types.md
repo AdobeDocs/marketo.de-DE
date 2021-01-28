@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Benachrichtigungstypen - Marketing-Dokumente - Produktdokumentation
 title: Benachrichtigungstypen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Facebook
 
 Wenn Sie versuchen, Leads zu Facebook zu senden, ohne die Nutzungsbedingungen zu akzeptieren, oder wenn Sie versuchen, Leads zu Facebook zu senden, nachdem Sie die Marketing-App entfernt haben.
 
-Säuberung der Idle Trigger-Kampagne
+Säuberung der Kampagne im Leerlauf des Triggers
 
-Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Erfahren Sie mehr über [automatische Kampagne-Bereinigung für Auslöser](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Erfahren Sie mehr über [automatische Bereinigung der Trigger-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Die Quo
 
 >[!NOTE]
 >
->Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes) aufgeführt.
-
+>Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes) aufgeführt.
