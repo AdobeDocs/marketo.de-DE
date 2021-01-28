@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: Überprüfen Sie Personen von Ihrem Tablet - Marketing Docs - Produktdokumentation in Ihr Ereignis.
 title: Personen von Ihrem Tablet in Ihr Ereignis einchecken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Lay
 >* Erstellen Sie ein Ereignis in Marketo und füllen Sie es mit eingeladenen und registrierten Personen aus.
 >* Laden Sie die Tablet-App für [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) oder [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8) herunter
 
->
-
-
 
 ## Registrierte Gäste {#check-in-registered-guests}
 
 1. Tippen Sie auf das App-Symbol auf Ihrem iPad oder Android-Tablet.
+
 1. Tippen Sie auf **Anmelden**, um die Marketing Ereignis-App zu starten.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Lay
    >
    >Der Vorgang ist auf dem iPad und Android gleich, aber die Bildschirme unterscheiden sich, und Elemente können sich an unterschiedlichen Positionen befinden. Dieser Artikel enthält die iPad-Oberfläche. Vergleichen Sie den Android-Bildschirm in diesem Abschnitt als Referenz.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ Die neue Person wird als bei Ihrem Ereignis eingecheckt registriert und wird bei
 
 ## Umkehren eines Check-ins {#reverse-a-check-in}
 
-Wenn Sie versehentlich eine Person, *vor der Synchronisierung mit Marketo*, eingecheckt haben, können Sie den Status &quot;Teilnehmer&quot;umkehren.
+Wenn Sie versehentlich eine Person, _vor der Synchronisierung mit Marketo_, eingecheckt haben, können Sie den Status &quot;Teilnehmer&quot;umkehren.
 
 1. Tippen Sie in der Liste auf den Namen und im Personensatz auf **Rückgängig**.
 
@@ -146,6 +146,7 @@ Die Marketing Ereignisses-App funktioniert unabhängig, bis Sie Ihre Aktivität 
 >Nach der Synchronisierung können Sie einen Check-in nicht mehr in der App rückgängig machen.
 
 1. Öffnen Sie auf Ihrem Tablet die App und navigieren Sie zu Ihrem Ereignis.
+
 1. Tippen Sie auf **Synchronisieren**.
 
    Ihr Ereignis wird mit neuen Check-ins in der Marketo-Datenbank aktualisiert. Der rote Zähler auf der Schaltfläche &quot;Synchronisieren&quot;wird gelöscht, bis Sie einen anderen Benutzer einchecken.
@@ -170,4 +171,3 @@ Wenn Sie sich wegen des Internetzugangs am Veranstaltungsort Sorgen machen, kön
 >[!NOTE]
 >
 >Die App meldet Sie nach acht Stunden Inaktivität automatisch ab.
-
