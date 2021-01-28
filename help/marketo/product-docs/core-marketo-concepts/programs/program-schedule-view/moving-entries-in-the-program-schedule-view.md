@@ -3,9 +3,9 @@ unique-page-id: 1147134
 description: Verschieben von Einträgen in die Ansicht Programmplanung - Marketing Docs - Produktdokumentation
 title: Verschieben von Einträgen in der Ansicht "Programmplanung"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Beim Verschieben von Einträgen in der Ansicht des Zeitplans werden diese automa
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 
-   Woof Wart! Ihr Eintrag wird nun neu geplant.
+   Ihr Eintrag wird nun neu geplant.
 
    ![](assets/image2014-9-18-17-3a49-3a19.png)
-
