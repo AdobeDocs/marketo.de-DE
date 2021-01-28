@@ -3,7 +3,7 @@ unique-page-id: 1147251
 description: Erstellen benutzerdefinierter Überlagerungen in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation
 title: Erstellen benutzerdefinierter Überlagerungen in der Ansicht "Programmplanung"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -27,11 +27,10 @@ Sie können benutzerdefinierte Überlagerungen für die Ansicht von Einträgen e
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Sie können auch nach [Programm-Tags](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md) filtern.
+1. Sie können auch nach [Programm-Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md) filtern.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
    Fantastisch. Jetzt zeigt Ihre Überlagerung nur die von Ihnen definierten Einträge an.
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)
-
