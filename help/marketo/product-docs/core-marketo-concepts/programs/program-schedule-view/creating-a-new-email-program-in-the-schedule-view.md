@@ -3,9 +3,9 @@ unique-page-id: 1147144
 description: Erstellen eines neuen E-Mail-Programms in der Ansicht Plan - Marketing Docs - Produktdokumentation
 title: Erstellen eines neuen E-Mail-Programms in der Ansicht "Plan"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Sie können ein E-Mail-Programm aus der Ansicht Programmplanung erstellen. So ge
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Geben Sie einen Namen ein. Wählen Sie **Email** **Programm**.
+1. Geben Sie einen Namen ein. Wählen Sie **E-Mail-Programm**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,8 @@ Sie können ein E-Mail-Programm aus der Ansicht Programmplanung erstellen. So ge
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Richten Sie Ihr E-Mail-](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) Programm ein und klicken Sie auf Programm  **genehmigen**.
+1. [Richten Sie Ihr E-Mail-](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) Programm ein und klicken Sie auf Programm  **genehmigen**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail-Programms](http://docs.marketo.com/display/docs/email+programs) anstelle einer intelligenten Kampagne die Möglichkeit, einen [A/B-Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) einfach zu implementieren. Viel Spaß!
-
+   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) anstelle einer intelligenten Kampagne die Möglichkeit, einen [A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) einfach zu implementieren. Viel Spaß!
