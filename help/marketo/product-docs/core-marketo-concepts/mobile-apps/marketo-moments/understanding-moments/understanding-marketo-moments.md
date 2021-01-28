@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Erläuterungen zu Marketo-Momenten - Marketing-Dokumente - Produktdokumentation
 title: Erläuterungen zu Markusmomenten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Die Macht von Marketo liegt jetzt in Ihren Händen, buchstäblich! Vorschau und 
 >
 >**Verfügbarkeit**
 >
->Zugriff auf die Berechtigung für mobile Apps erforderlich. Wenden Sie sich an Ihren Marketing-Administrator, um [Ihre Rolle zu aktualisieren](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
-## Vorstellung von Momenten {#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>Zugriff auf die Berechtigung für mobile Apps erforderlich. Wenden Sie sich an Ihren Marketing-Administrator, um [Ihre Rolle zu aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -35,13 +31,11 @@ Hier sind die verschiedenen Ströme in Moments.
 >
 >**Definition**
 >
->Momente - Alles, was gerade lief oder laufen wird, geht hier.
->
->Favoriten - Alles, was Sie zu einem Favoriten machen, geht hier rein.
->
->Später - Alles, was nach diesem Moment passiert, geht hier rein.
->
->Fertig - Alles, was fertig läuft oder wie getan markiert wurde, geht hier.
+>* Momente: Alles, was gerade lief oder laufen wird, geht hier.
+>* Favoriten: Alles, was du am liebsten machst, geht hier rein.
+>* Später: Alles, was später als in diesem Moment geschieht, geht hier rein.
+>* Fertig: Alles, was fertig läuft oder wie getan markiert wurde, geht hier.
+
 
 OK, jetzt da wir das übrig haben, lasst uns einen Blick auf Marketo Moments auf einem Telefon werfen!
 
@@ -93,19 +87,12 @@ Großartig! Jetzt können Sie etwas geschehen lassen, indem Sie auf Folgendes ti
 >* Beispiel senden (nur E-Mail): Verwenden Sie dies, damit andere überprüfen können, wie Ihre E-Mails aussehen, bevor Sie sie senden.
 >* Vorschauen-E-Mail (nur E-Mails): Es ist immer eine gute Idee, Ihre E-Mails im Voraus zu überprüfen.
 
->
-
-
 
 ## Spätere Momente {#later-moments}
 
 Im Abschnitt Später werden die kommenden Aktivitäten angezeigt.
 
 1. Beginn durch Tippen auf das Hamburger Menü.
-
-   >[!NOTE]
-   >
-   >Laut dem Guinness Book of World Records[ wog der größte Hamburger der Welt 2.014 lbs.](http://www.guinnessworldrecords.com/world-records/largest-hamburger)
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ In jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ih
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-Sind Sie bereit, mehr zu erfahren?
-
->[!MORELIKETHIS]
->
->* [Verstehen der E-Mail-Programm-Karten](understanding-email-program-cards.md)
->* [Einführung in Ereignis-Karten](understanding-event-cards.md)
->* [Die Analytics-Karten](understanding-analytics-cards.md)
->* [Karten mit intelligenter Kampagne](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## Unterstützte Versionen {#supported-versions}
 
 Marketo Moments unterstützt die folgenden Betriebssystemversionen:
 
 * Apple iOS 8.0 und höher.
 * Android Version 4.1 und höher (im Grunde Jellybean und höher).
+
+Sind Sie bereit, mehr zu erfahren?
+
+>[!MORELIKETHIS]
+>
+>* [Verstehen der E-Mail-Programm-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Einführung in Ereignis-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Die Analytics-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Karten mit intelligenter Kampagne](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
