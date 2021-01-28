@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navigieren in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation
 title: Navigieren in der Ansicht "Programmplanung"
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Im Folgenden finden Sie die Grundlagen zur Navigation in der Ansicht der Program
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Jetzt sehen Sie sich die Ansicht Ihres Programms an.
+   Jetzt sehen Sie sich die Ansicht Ihres Programms an.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ Im Folgenden finden Sie die Grundlagen zur Navigation in der Ansicht der Program
 >
 >Die Ansicht der Programmplanung ist klebrig. Sobald Sie diese Einstellung vorgenommen haben, wird für alle Programm standardmäßig die Ansicht des Zeitplans verwendet.
 
-1. Wechseln zwischen Einträgen
+## Wechseln zwischen Einträgen {#switching-between-entries}
+
 1. Klicken Sie in den Einstiegsdetails auf die Pfeile, um zum nächsten geplanten Eintrag zu wechseln.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ Im Folgenden finden Sie die Grundlagen zur Navigation in der Ansicht der Program
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. Kontextmenü der Ansicht
+## Ansicht-Kontextmenü {#view-context-menu}
+
 1. Klicken Sie mit der rechten Maustaste auf ein beliebiges Programm, um Änderungen am Programm, der intelligenten Liste, den Einstellungen, den My Tokens oder den Members vorzunehmen.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ Großartig! Nun, da Sie wissen, wie Sie Ihr Programm Ansicht haben, lernen wir d
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Eintrags in der Ansicht &quot;Programmplanung&quot;](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[Erstellen eines Eintrags in der Ansicht &quot;Programmplanung&quot;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
