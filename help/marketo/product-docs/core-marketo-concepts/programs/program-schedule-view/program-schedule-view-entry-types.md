@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Programmplanung Ansicht Einstiegstypen - Marketing Docs - Produktdokumentation
 title: Programmplanung Ansicht Einstiegstypen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Programmplanung Ansicht Einstiegstypen {#program-schedule-view-entry-types}
 
-Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanung-Ansicht sichtbar und verfügbar sind. Sie können auch [benutzerdefinierte Eintragstypen](create-custom-entry-types.md) im Abschnitt &quot;Admin&quot;erstellen.
+Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanung-Ansicht sichtbar und verfügbar sind. Sie können auch [benutzerdefinierte Eintragstypen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) im Abschnitt &quot;Admin&quot;erstellen.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanun
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Erstellen eines benutzerspezifischen Einstiegstyps](create-custom-entry-types.md)
-
->
-
-
-
