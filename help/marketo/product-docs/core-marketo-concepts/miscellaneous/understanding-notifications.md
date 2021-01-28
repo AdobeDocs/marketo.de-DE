@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Benachrichtigungen - Marketing-Dokumente - Produktdokumentation
 title: Benachrichtigungen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
 1. Wählen Sie den Benachrichtigungstyp und geben Sie die E-Mail-Adresse(n) ein, an die Benachrichtigungen gesendet werden sollen.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 >[!TIP]
 >
 >Möchten Sie sich von Benachrichtigungs-E-Mails abmelden? Kein Problem. Klicken Sie einfach unten in der E-Mail auf den Link **Abmelden von Benachrichtigungen**.
-
