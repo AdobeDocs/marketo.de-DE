@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: Erstellen eines Eintrags in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation
 title: Erstellen eines Eintrags in der Ansicht "Programmplanung"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Benennen Sie den Eintrag. Drücken Sie **Eingabetaste **um den Namen zu bestätigen.
+1. Benennen Sie den Eintrag. Drücken Sie **Geben Sie** ein, um den Namen zu bestätigen.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    >[!NOTE]
    >
-   >Aufgabe ist ein [benutzerdefinierter Eintrag](create-custom-entry-types.md). Sie können eine Aufgabenbeschreibung und andere benutzerdefinierte Einträge erstellen, um nicht-marketo-Tagesordnungspunkte nachzuverfolgen.
+   >Aufgabe ist ein [benutzerdefinierter Eintrag](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Sie können eine Aufgabenbeschreibung und andere benutzerdefinierte Einträge erstellen, um nicht-marketo-Tagesordnungspunkte nachzuverfolgen.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
 >[!NOTE]
 >
-> Sie können auch ein [Smart-Kampagne](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) oder [E-Mail-Programm](creating-a-new-email-program-in-the-schedule-view.md) aus der Ansicht des Zeitplans erstellen.
-
+> Sie können auch ein [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) oder [E-Mail-Programm](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) aus der Ansicht des Zeitplans erstellen.
