@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: Führen Sie eine intelligente Kampagne in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation erneut aus.
 title: Eine intelligente Kampagne in der Ansicht Programmplanung erneut ausführen
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Sie können ganz einfach neue Runs einer vorhandenen intelligenten Kampagne dire
 
    >[!TIP]
    >
-   >Sie können dies auch über den [Programm focus](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) tun.
+   >Sie können dies auch über den [Programm focus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) tun.
 
 Boom! Genau so haben Sie eine weitere Ausführung für diese intelligente Kampagne geplant. Wenn diese intelligente Kampagne E-Mail-Schritte enthält, werden Sie auch diese sehen!
