@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: Bearbeiten von Einträgen in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation
 title: Bearbeiten von Einträgen in der Ansicht "Programmplanung"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Du Rock! Jetzt wurde das Datum Ihres Eintrags auf ein neues Datum verschoben.
 >[!NOTE]
 >
 > Einträge mit intelligenter Kampagne und E-Mail-Programm, die bereits ausgeführt wurden, können nicht in die Vergangenheit verschoben werden.
-
