@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Einrichten von Adobe Experience Cloud Audience Sharing - Marketing Docs - Produktdokumentation
 title: Einrichten der Freigabe von Adobe Experience Cloud-Audiencen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
 
    ![](assets/three-2.png)
 
-1. Geben Sie Ihre Adobe IMS Organisations-ID ein (lernen Sie, wie Sie [hier](http://docs.adobe.com/content/help/en/control-panel/using/faq.html) finden) und klicken Sie auf **OK**.
+1. Geben Sie Ihre Adobe IMS Organisations-ID ein (lernen Sie, wie Sie [hier](https://docs.adobe.com/content/help/en/control-panel/using/faq.html) finden) und klicken Sie auf **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
    >
    >Aus Sicherheitsgründen müssen Sie ein Organisationsadministrator für die Adobe-Organisation sein, der Sie zugeordnet werden möchten. Wenn du nicht bist, schlägt die Aktion fehl.
 
-1. Wenn Sie *noch nicht* bereits angemeldet sind, wird ein Popup in einem neuen Register/Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (bei dieser Aktion wird der Organisationszugriff überprüft).
+1. Wenn Sie _noch nicht_ bereits angemeldet sind, wird ein Popup in einem neuen Register/Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (bei dieser Aktion wird der Organisationszugriff überprüft).
 
-   Und das ist es! Sie können nun mit der Freigabe von Daten zur Audience [beginnen.](http://docs.marketo.com/x/ogI6Ag)
-
+   Und das ist es! Sie können nun mit der Freigabe von Daten zur Audience [beginnen.](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
