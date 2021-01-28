@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: Speichern einer Filterdefinition im Marketingkalender - Marketing Docs - Produktdokumentation
 title: Speichern einer Filterdefinition im Marketingkalender
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Durch Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitio
 
 >[!PREREQUISITES]
 >
->* [Filtern des Marketingkalenders](filtering-the-marketing-calendar.md)
-
->
-
-
+>[Filtern des Marketingkalenders](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. Definieren Sie den Filter.
 
@@ -39,14 +35,8 @@ Durch Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitio
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Wenn Sie möchten, können Sie [eine Kopie](sharing-a-filter-definition-in-the-marketing-calendar.md) der Definition an andere Marker senden.
+   Wenn Sie möchten, können Sie [eine Kopie](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) der Definition an andere Marker senden.
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Freigeben einer Filterdefinition im Marketingkalender](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Freigeben einer Filterdefinition im Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
