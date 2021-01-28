@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Vorbereitung auf Ihr Ereignis - Marketing Docs - Produktdokumentation
 title: Vorbereitung auf Ihr Ereignis
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Es gibt mehrere Dinge, die du tun musst, um dich auf das Ereignis vorzubereiten.
 
 ## Neue Markerrolle erstellen {#create-a-new-marketo-role}
 
-Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App.  [Erstellen Sie eine neue Marketing-](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) Rolle für iPad- oder Android-Benutzer mit Zugriffsberechtigung für die mobile Anwendung.
+Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App. [Erstellen Sie eine neue Marketing-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Rolle für iPad- oder Android-Benutzer mit Zugriffsberechtigung für die mobile Anwendung.
 
 ## Neue Tablet-Benutzer zum Ereignis {#invite-new-tablet-users-to-the-event} einladen
 
-[Laden Sie neue Tablet-Benutzer zur ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) Veranstaltung ein und weisen Sie ihnen die neue Rolle zu.
+[Laden Sie neue Tablet-Benutzer zur ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Veranstaltung ein und weisen Sie ihnen die neue Rolle zu.
 
 ## Neues Marketing-Ereignis-Programm {#create-a-new-marketo-event-program} erstellen
 
