@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: Einrichten des iPad- oder Android-Tablet - MarketingToDocs - Produktdokumentation
 title: Einrichten des iPad- oder Android-Tablet
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Wenn auf Ihrem iPad die Marketing Ereignisses-App noch nicht installiert ist, er
 
 Wenn auf Ihrem Android-Tablet die Marketing Ereignisses-App noch nicht installiert ist, erhalten Sie hier eine Anleitung.
 
-1. Öffnen Sie Ihr Tablet und tippen Sie auf die App** Google Play Store*.
+1. Öffnen Sie das Tablet und tippen Sie auf die App **Google Play Store**.
 1. Geben Sie im Feld Suchen **Markieren** ein und tippen Sie auf **Rückgabe**.
 1. Tippen Sie in den Suchergebnissen auf die App **Marketing-Ereignis**.
 
@@ -69,7 +69,7 @@ Vergewissern Sie sich, dass die Anmeldeinformationen, die Sie verwenden, ordnung
 Synchronisieren Sie, um sicherzustellen, dass die von Ihnen hinzugefügten Personen vorhanden sind.
 
 1. Öffnen Sie Ihr Ereignis in der iPad- oder Android-App.
-1. Sieh die Leute! Wenn sie nicht angezeigt werden, tippen Sie auf **Synchronisieren **Synchronisieren, um die App zu synchronisieren und die Ereignis neu zu laden, die die Liste &quot;Personen&quot;erhalten hat.
+1. Sieh die Leute! Wenn sie nicht angezeigt werden, tippen Sie auf **Synchronisieren**, um die App zu synchronisieren und die Ereignisse neu zu laden, die die Liste &quot;Personen&quot;enthält.
 
    **iPad**
 
@@ -83,7 +83,7 @@ Synchronisieren Sie, um sicherzustellen, dass die von Ihnen hinzugefügten Perso
 
 Vergewissern Sie sich, dass die Check-ins über das iPad oder Tablet vor dem Ereignis funktionieren.
 
-1. Überprüfen Sie in der App [einen TestLead in](check-people-into-your-event-from-your-tablet.md).
+1. Überprüfen Sie in der App [einen TestLead in](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Tippen Sie auf das Symbol **Synchronisieren**, um die App zu synchronisieren.
 1. Öffnen Sie in Marketo Ihr Ereignis und klicken Sie auf **Members**.
 
@@ -96,4 +96,3 @@ Vergewissern Sie sich, dass die Check-ins über das iPad oder Tablet vor dem Ere
    >[!TIP]
    >
    >Benutze dich selbst als Testperson.
-
