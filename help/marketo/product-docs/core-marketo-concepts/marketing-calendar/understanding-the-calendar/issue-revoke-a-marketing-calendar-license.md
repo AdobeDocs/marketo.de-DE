@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: Ausgabe/Widerruf einer Marketing-Kalenderlizenz - Marketing Docs - Produktdokumentation
 title: Ausgabe/Widerruf einer Marketing-Kalenderlizenz
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Um Ihre [Marketingkalender](http://docs.marketo.com/display/docs/marketing+calendar)-Lizenzen nutzen zu können, müssen Sie Lizenzen für Benutzer ausstellen, die Zugriff benötigen. So geht es.
+Um Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)-Lizenzen nutzen zu können, müssen Sie Lizenzen für Benutzer ausstellen, die Zugriff benötigen. So geht es.
 
 1. Gehen Sie zum Abschnitt **Admin**.
 
@@ -43,7 +43,7 @@ Um Ihre [Marketingkalender](http://docs.marketo.com/display/docs/marketing+calen
 
    ![](assets/4.png)
 
-   Gut gemacht! Siehe grünes Häkchen unter **Kalender**?
+   Gut gemacht! Siehe das grüne Häkchen unter &quot;Kalender?&quot;
 
    ![](assets/5.png)
 
