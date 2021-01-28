@@ -3,7 +3,7 @@ unique-page-id: 8781974
 description: Verstehen von Ereignis Cards - Marketing Docs - Produktdokumentation
 title: Einführung in Ereignis-Karten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -14,11 +14,12 @@ ht-degree: 0%
 # Die Ereignis-Karten {#understanding-event-cards}
 
 Verwenden Sie Marketo Moments, um Ihre Ereignis-Programms auf Ihrem Smartphone oder iPad Ansicht.
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` Wenn Sie auf eine E-Mail-Programm-Karte tippen, haben Sie folgende Möglichkeiten:
 
-* [Ereignis zu einem Favoriten machen](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markieren eines Ereignisses nach Abschluss](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Freigeben einer Ereignis-Ereigniskarte](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+Wenn Sie auf eine E-Mail-Programm-Karte tippen, haben Sie folgende Möglichkeiten:
+
+* [Ereignis zu einem Favoriten machen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markieren eines Ereignisses nach Abschluss](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Freigeben einer Ereignis-Ereigniskarte](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Es gibt zwei Ereignisse. Die On-Deck-Karte, die einige Stunden vor dem Ereignis geschickt wird, zeigt an, wie viele Personen angemeldet sind. Die Karte Ergebnisse, die danach gesendet wird, zeigt an, wie viele tatsächlich teilgenommen haben.
 
@@ -28,11 +29,7 @@ Du bist gut!
 
 >[!MORELIKETHIS]
 >
->* [Erläuterungen zu Markusmomenten](understanding-marketo-moments.md)
->* [Verstehen der E-Mail-Programm-Karten](understanding-email-program-cards.md)
->* [Ereignis-Programme](../../../../../product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-
->
-
-
+>* [Erläuterungen zu Markusmomenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Verstehen der E-Mail-Programm-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Ereignis-Programme](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
 
