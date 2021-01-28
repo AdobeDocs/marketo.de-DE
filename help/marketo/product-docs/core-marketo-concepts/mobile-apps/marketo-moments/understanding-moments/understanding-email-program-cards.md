@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Verstehen von E-Mail-Programm-Karten - Marketing-Dokumente - Produktdokumentation
 title: Verstehen der E-Mail-Programm-Karten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Verwenden Sie Marketo-Momente, um Ihre E-Mail-Programm von Ihrem Telefon oder iP
 
 ## E-Mail-Programm-Karten {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` Wenn Sie auf eine E-Mail-Programm-Karte tippen, haben Sie folgende Möglichkeiten:
+Wenn Sie auf eine E-Mail-Programm-Karte tippen, haben Sie folgende Möglichkeiten:
 
-* [Eine E-Mail zum Favoriten machen](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markieren einer E-Mail nach Abschluss](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Freigeben einer E-Mail-Ereigniskarte](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Eine E-Mail zum Favoriten machen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markieren einer E-Mail nach Abschluss](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Freigeben einer E-Mail-Ereigniskarte](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Auf einer E-Mail-Programm-Karte für eine noch nicht gesendete E-Mail finden Sie Informationen zum Status und zur Audience des E-Mail-Programms.
 
@@ -41,7 +41,7 @@ Nachdem die E-Mail gesendet wurde, werden auf der Karte weitere wichtige Informa
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tippen Sie auf **Bestätigen **um den Auftrag abzuschließen, oder **Niemals Mind**, wenn Sie eine zweite Überlegung hatten.
+1. Tippen Sie auf **Bestätigen**, um den Auftrag abzuschließen, oder **Nie Mind**, wenn Sie zweite Gedanken hatten.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   Auf diese Weise wissen Sie, dass Ihre E-Mail perfekt ist, bevor Sie den Auslöser ziehen!\
+   Auf diese Weise wissen Sie, dass Ihre E-Mail perfekt ist, bevor Sie den Trigger ziehen!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    Ausgezeichnet!
@@ -114,12 +115,7 @@ Und das ist die Bruchkerbe beim Betrachten Ihrer E-Mail-Kampagnen. Du bist jetzt
 
 >[!MORELIKETHIS]
 >
->* [Erläuterungen zu Markusmomenten](understanding-marketo-moments.md)
->* [Einführung in Ereignis-Karten](understanding-event-cards.md)
->* [Die Analytics-Karten](understanding-analytics-cards.md)
->* [E-Mail-Programme](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [Erläuterungen zu Markusmomenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Einführung in Ereignis-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Die Analytics-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
