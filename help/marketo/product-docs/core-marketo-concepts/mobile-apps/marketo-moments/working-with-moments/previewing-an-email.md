@@ -3,9 +3,9 @@ unique-page-id: 8783563
 description: Vorschau einer E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Vorschau einer E-Mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorschau einer E-Mail {#previewing-an-email}
 
-Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau, bevor Sie den Auslöser ziehen.
+Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau, bevor Sie den Trigger abrufen.
 
 1. Tippen Sie auf einer E-Mail-Karte auf das Menü mit drei Punkten.
 
@@ -23,7 +23,8 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau, be
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-1. Sie können die E-Mail auf Ihrem Gerät Ansicht haben.\
+1. Sie können die E-Mail auf Ihrem Gerät Ansicht haben.
+
    ![](assets/image2015-9-25-11-3a23-3a42.png)
 
    >[!NOTE]
@@ -31,4 +32,3 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau, be
    >Um ein Muster direkt von der Seite &quot;E-Mail-Vorschau&quot;zu senden, tippen Sie oben rechts auf das Papierflugzeugsymbol.
 
    Ausgezeichnet!
-
