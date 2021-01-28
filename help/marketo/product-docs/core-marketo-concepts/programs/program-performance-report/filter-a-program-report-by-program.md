@@ -3,9 +3,9 @@ unique-page-id: 2360047
 description: Filtern eines Programm-Berichts nach Programm - Marketing Docs - Produktdokumentation
 title: Programm-Bericht nach Programm filtern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtern eines Programm-Berichts nach Programm {#filter-a-program-report-by-program}
 
-Konzentrieren Sie den [Programm-Leistungsbericht](create-a-program-performance-report.md) auf bestimmte Programm, um ihre Leistung zu vergleichen.
+Konzentrieren Sie den [Programm-Leistungsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) auf bestimmte Programm, um ihre Leistung zu vergleichen.
 
 1. Gehen Sie zu **Marketing** **Aktivitäten** (oder **Analytics**).
 
@@ -35,23 +35,10 @@ Konzentrieren Sie den [Programm-Leistungsbericht](create-a-program-performance-r
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Inhalte dieses Ordners zum Zeitpunkt der Ausführung des Berichts.
 
-1. Das ist alles! Klicken Sie auf die Registerkarte **Bericht**, um *nur* die ausgewählten Programm in Ihrem Bericht anzuzeigen.
+1. Das ist alles! Klicken Sie auf die Registerkarte **Bericht**, um _nur_ die ausgewählten Programm in Ihrem Bericht anzuzeigen.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Programm-Bericht nach Tag filtern](filter-a-program-report-by-tag.md)
-
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Programm-Bericht nach Tag filtern](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
