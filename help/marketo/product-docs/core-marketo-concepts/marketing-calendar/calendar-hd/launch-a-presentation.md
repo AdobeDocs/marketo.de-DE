@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: Präsentation starten - Marketing Docs - Produktdokumentation
 title: Präsentation starten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer Präsentation](create-a-presentation.md)
->* [Anpassen einer Präsentation](customize-a-presentation.md)
-
->
-
+>* [Erstellen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Anpassen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 
    >[!TIP]
    >
-   >Ihre Präsentation wird in einer neuen Registerkarte gestartet. Verschieben Sie bei Bedarf die Registerkarte auf einen externen Monitor oder TV für die Anzeige und klicken Sie auf **Vollbild** (oder drücken Sie **F11 **auf der Tastatur, wenn Sie Internet Explorer verwenden).
-
+   >Ihre Präsentation wird in einer neuen Registerkarte gestartet. Verschieben Sie bei Bedarf die Registerkarte zu einem externen Monitor oder TV für die Anzeige und klicken Sie auf **Vollbild** (oder drücken Sie auf der Tastatur **F11**, wenn Sie Internet Explorer verwenden).
