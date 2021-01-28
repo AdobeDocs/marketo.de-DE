@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Programm-Fokus verstehen/aktivieren - Marketing-Dokumente - Produktdokumentation
 title: Programm-Fokus verstehen/aktivieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Programm-Fokus verstehen/aktivieren {#understand-enable-program-focus}
 
-Der Marketingkalender gibt Ihnen eine Ansicht der Dinge, aber er erlaubt auch einige Interaktionen. Sie können [Einträge erstellen, ](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [bearbeiten, [löschen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) und [bestätigen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md). ](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) Um mit Einträgen zu interagieren, müssen Sie sich zuerst auf ein Programm konzentrieren.
+Der Marketingkalender gibt Ihnen eine Ansicht der Dinge, aber er erlaubt auch einige Interaktionen. Sie können [Einträge erstellen, ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [bearbeiten, [löschen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) und [bestätigen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md). ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) Um mit Einträgen zu interagieren, müssen Sie sich zuerst auf ein Programm konzentrieren.
 
-1. Gehen Sie zum **Marketing** **Kalender**.
+1. Gehen Sie zum **Marketingkalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -39,12 +39,8 @@ Fantastisch! Nun machen Sie weiter und lernen Sie, mit Einträgen zu interagiere
 
 >[!MORELIKETHIS]
 >
->* [Einträge direkt im Marketingkalender erstellen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
->* [Einträge direkt im Marketingkalender bearbeiten](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
->* [Einträge direkt im Marketingkalender löschen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
->* [Einträge direkt im Marketingkalender bestätigen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
+>* [Einträge direkt im Marketingkalender erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
+>* [Einträge direkt im Marketingkalender bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
+>* [Einträge direkt im Marketingkalender löschen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>* [Einträge direkt im Marketingkalender bestätigen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
 
