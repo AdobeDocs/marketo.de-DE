@@ -3,9 +3,9 @@ unique-page-id: 1147237
 description: Filtern eines Programm-Berichts nach Periodenkosten - Marketing-Dokumente - Produktdokumentation
 title: Filtern eines Programm-Berichts nach Zeitraumkosten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtern eines Programm-Berichts nach Zeitkosten {#filter-a-program-report-by-period-cost}
 
-Konzentrieren Sie den [Programm Performance Report](create-a-program-performance-report.md) auf einen bestimmten Zeitraumkostenzeitrahmen.
+Konzentrieren Sie den [Programm Performance Report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) auf einen bestimmten Zeitraumkostenzeitrahmen.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten** (oder **Analytics**).
+1. Gehen Sie zu **Marketing-Aktivitäten** (oder **Analytics**).
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,17 +37,4 @@ Konzentrieren Sie den [Programm Performance Report](create-a-program-performance
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Programm-Bericht nach Programm filtern](filter-a-program-report-by-program.md)
-
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Programm-Bericht nach Programm filtern](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
