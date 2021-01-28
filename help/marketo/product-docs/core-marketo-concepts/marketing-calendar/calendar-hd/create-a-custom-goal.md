@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: Benutzerdefiniertes Ziel erstellen - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefiniertes Ziel erstellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ziele sind Wege, Fortschritte zu verfolgen und Ihr Team zu motivieren. Nach der Erstellung müssen sie manuell aktualisiert werden.
 
-Wie bei Präsentationen sind Ziele [workspace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-spezifisch.
+Wie bei Präsentationen sind Ziele [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-spezifisch.
 
 1. Gehen Sie zum Ordner **Kalender**.
 
@@ -25,7 +25,7 @@ Wie bei Präsentationen sind Ziele [workspace](../../../../product-docs/administ
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Wählen Sie die Registerkarte** Ziele*.
+1. Wählen Sie die Registerkarte **Ziele**.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ Wie bei Präsentationen sind Ziele [workspace](../../../../product-docs/administ
    Ihr benutzerdefiniertes Ziel wurde erstellt!
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
