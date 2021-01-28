@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: Neuen Kampagnenordner erstellen - Marketing-Dokumente - Produktdokumentation
 title: Neuen Kampagnenordner erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Kampagne-Ordner helfen Ihnen, einen sauberen Arbeitsbereich zu behalten. Folgen 
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Optional: Geben Sie eine **Beschreibung** ein und klicken Sie auf** Erstellen. **
+1. Optional: Geben Sie eine **Beschreibung** ein und klicken Sie auf **Erstellen**.
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ Kampagne-Ordner helfen Ihnen, einen sauberen Arbeitsbereich zu behalten. Folgen 
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Wenn Sie nun [ein neues Programm](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) erstellen, sehen Sie diesen Kampagnen-Ordner als Option.
+   Wenn Sie nun [ein neues Programm](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) erstellen, sehen Sie diesen Kampagnen-Ordner als Option.
 
 >[!MORELIKETHIS]
 >
->* [Programm erstellen](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Neue intelligente Kampagne erstellen](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [Programm erstellen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Neue intelligente Kampagne erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
