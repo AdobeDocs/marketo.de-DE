@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: Ordner - Marketing-Dokumente - Produktdokumentation
 title: Ordner verstehen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ordner {#understanding-folders}
 
-Ordner in einem Programm können zum Organisieren Ihrer intelligenten Kampagnen und Assets verwendet werden. Diese unterscheiden sich von [Kampagnen-Ordnern](create-new-campaign-folder.md).
+Ordner in einem Programm können zum Organisieren Ihrer intelligenten Kampagnen und Assets verwendet werden. Diese unterscheiden sich von [Kampagnen-Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Erstellen eines Ordners {#create-a-folder}
 
@@ -76,4 +76,3 @@ Funktionen, die sich bei der Archivierung ändern, wenn **nicht**:
 * Ein Asset, das verwendet wird, funktioniert auch nach der Archivierung weiter
 * Sie können einen Filter verwenden, um archivierte Assets zur Verwendung in Berichten auszuwählen
 * Archivierte Assets werden nicht deaktiviert. Sie müssen auch deaktiviert werden, wenn Sie möchten, dass sie nicht mehr ausgeführt werden
-
