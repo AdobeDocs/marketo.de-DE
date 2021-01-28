@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: Einführung zu meinen Token in einem Programm - Marketing Docs - Produktdokumentation
 title: Meine Token in einem Programm
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Beispiele:
  <tbody> 
   <tr> 
    <td>Kalenderdatei <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token, um <a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">eine Kalenderdatei (.i</a><a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> zu Ihren E-Mails und Landingpages hinzuzufügen.</td> 
+   <td>Verwenden Sie dieses Token, um <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">eine Kalenderdatei (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> zu Ihren E-Mails und Landingpages hinzuzufügen.</td> 
   </tr> 
   <tr> 
    <td><p>Datum <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -58,7 +58,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>Ergebnis <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token im Schritt <a href="../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">zum Ändern des Ergebnisablaufs</a>. </td> 
+   <td>Verwenden Sie dieses Token im Schritt <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">zum Ändern des Ergebnisablaufs</a>. </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC-Kampagne <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
@@ -73,7 +73,7 @@ Beispiele:
 
 >[!CAUTION]
 >
->Meine Tokens werden nicht aufgelöst, wenn eine E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce gesendet wird. Es werden nur Standard-Token ausgefüllt (Interessent, Firma usw.). Die Standardwerte für Token *funktionieren jedoch*.
+>Meine Tokens werden nicht aufgelöst, wenn eine E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce gesendet wird. Es werden nur Standard-Token ausgefüllt (Interessent, Firma usw.). Die Standardwerte für Token _funktionieren jedoch_.
 
 ## Verschachtelungstoken {#nesting-tokens}
 
