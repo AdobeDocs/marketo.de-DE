@@ -3,9 +3,9 @@ unique-page-id: 1147129
 description: Erstellen eines Programm Performance Report - Marketing Docs - Produktdokumentation
 title: Erstellen eines Programm-Leistungsberichts
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Mit diesem Bericht erhalten Sie großartige Statistiken zu Ihren Programmen.
 
-1. [Erstellen Sie einen Bericht in einem ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie den  **Programm Performance** [Port-Typ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht in einem ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie den  **Programm Performance** [Port-Typ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. Klicken Sie auf die Registerkarte **Bericht**.
 1. Du bist da! Entdecken Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
 
@@ -23,7 +23,7 @@ Mit diesem Bericht erhalten Sie großartige Statistiken zu Ihren Programmen.
 
 >[!TIP]
 >
->Um die Programm mit den niedrigsten *Kosten pro Erfolg* zu finden, sortieren Sie z. B. [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie **Aufsteigend sortieren**.
+>Um die Programm mit den niedrigsten *Kosten pro Erfolg* zu finden, sortieren Sie z. B. [Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie **Aufsteigend sortieren**.
 
 Die Spalten in einem Programm-Leistungsbericht umfassen:
 
@@ -53,10 +53,3 @@ Die Spalten in einem Programm-Leistungsbericht umfassen:
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere Informationen finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
-
