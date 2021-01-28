@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Verwenden einer globalen Überlagerung - Marketing Docs - Produktdokumentation
 title: Verwenden einer globalen Überlagerung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Mit der globalen Überlagerung in der Ansicht &quot;Programmplanung&quot;können
 
 >[!PREREQUISITES]
 >
->Sie müssen über eine [Marketing-Kalender-Lizenz](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) verfügen, um diese Funktion nutzen zu können.
+>Sie müssen über eine [Marketing-Kalender-Lizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) verfügen, um diese Funktion nutzen zu können.
 
 ## Globale Überlagerung verwenden {#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ Mit der globalen Überlagerung in der Ansicht &quot;Programmplanung&quot;können
 
 ## Verwenden eines gespeicherten Filters als Überlagerung {#use-a-saved-filter-as-an-overlay}
 
-Wenn Sie im Marketingkalender[ einen Filter gespeichert haben, können Sie ihn als Überlagerung in der Ansicht &quot;Programmplanung&quot;verwenden.](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+Wenn Sie im Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md) einen Filter gespeichert haben, können Sie ihn als Überlagerung in der Ansicht &quot;Programmplanung&quot;verwenden.[
 
 1. Klicken Sie auf die Dropdownliste **Überlagerung** und wählen Sie Ihre Filterdefinition aus.
 
@@ -49,12 +49,6 @@ Wenn Sie im Marketingkalender[ einen Filter gespeichert haben, können Sie ihn a
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Erstellen benutzerdefinierter Überlagerungen in der Ansicht &quot;Programmplanung&quot;](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[Erstellen benutzerdefinierter Überlagerungen in der Ansicht &quot;Programmplanung&quot;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
