@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: Senden eines Beispiels - Marketing-Dokumente - Produktdokumentation
 title: Senden eines Beispiels
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ Sie können ein Beispiel eines E-Mail-Moments direkt mit jemandem teilen. Es gib
 
 ## Der schnelle Weg {#the-quick-way}
 
-1. Tippen Sie auf das Papierflugzeugsymbol im Bildschirm &quot;E-Mail-Vorschau&quot;, um ein Muster direkt aus der Vorschau zu senden.\
+1. Tippen Sie auf das Papierflugzeugsymbol im Bildschirm &quot;E-Mail-Vorschau&quot;, um ein Muster direkt aus der Vorschau zu senden.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 Auftrag abgeschlossen!
