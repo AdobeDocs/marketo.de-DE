@@ -3,7 +3,7 @@ unique-page-id: 1147304
 description: Freigeben einer Filterdefinition im Marketingkalender - Marketing Docs - Produktdokumentation
 title: Freigeben einer Filterdefinition im Marketingkalender
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Filter können für verschiedene Benutzer freigegeben werden.
 
 >[!PREREQUISITES]
 >
->* [Erstellen eines Filters im Marketingkalender](filtering-the-marketing-calendar.md)
->* [Speichern einer Filterdefinition im Marketingkalender](saving-a-filter-definition-in-the-marketing-calendar.md)
-
->
-
+>* [Erstellen eines Filters im Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [Speichern einer Filterdefinition im Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 
 >[!NOTE]
@@ -43,4 +40,3 @@ Filter können für verschiedene Benutzer freigegeben werden.
    >[!NOTE]
    >
    >Benutzerberechtigungen wirken sich auf die Sichtbarkeit aus.
-
