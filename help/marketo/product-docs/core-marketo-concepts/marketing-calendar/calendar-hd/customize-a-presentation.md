@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Präsentation anpassen - Marketing-Dokumente - Produktdokumentation
 title: Anpassen einer Präsentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ Richten Sie Ihre Kalenderpräsentation so ein, dass sie die Ziele und Aktivität
 
 >[!PREREQUISITES]
 >
->* [Benutzerdefinierte ](create-a-custom-goal.md) Ziele für  [intelligente Listen erstellen](create-a-smart-list-goal.md)
+>* [Benutzerdefinierte ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) Ziele für  [intelligente Listen erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [Erstellen einer Präsentation](create-a-presentation.md)
-
->
-
+* [Erstellen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## Auswählen der Ansichten {#choosing-the-views}
 
-Presentations durchlaufen verschiedene [Filterdefinitionen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md), die Sie auswählen. Ziehen Sie beliebig viele Ansichten ein und passen Sie die Häufigkeit an.
+Presentations durchlaufen verschiedene [Filterdefinitionen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md), die Sie auswählen. Ziehen Sie beliebig viele Ansichten ein und passen Sie die Häufigkeit an.
 
 1. Ziehen Sie die verschiedenen Ansichten, die Sie in Ihrer Präsentation durchblättern möchten, aus der rechten Baumstruktur heraus.
 
@@ -42,7 +39,7 @@ Presentations durchlaufen verschiedene [Filterdefinitionen](../../../../product-
 
 ## hinzufügen eines Ziels {#add-a-goal}
 
-Presentations ist das großartigste, wenn es Ihre Teamziele anzeigt. Ziehen Sie einfach über verschiedene [benutzerdefinierte Ziele](create-a-custom-goal.md) oder [Smart-Listen-Ziele](create-a-smart-list-goal.md). Sie können bis zu 10 verwenden.
+Presentations ist das großartigste, wenn es Ihre Teamziele anzeigt. Ziehen Sie einfach über verschiedene [benutzerdefinierte Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) oder [Smart-Listen-Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Sie können bis zu 10 verwenden.
 
 1. Ziehen Sie aus der rechten Struktur verschiedene Ziele, die in Ihrer Präsentation angezeigt werden sollen.
 
@@ -52,7 +49,7 @@ Presentations ist das großartigste, wenn es Ihre Teamziele anzeigt. Ziehen Sie 
 
 Sobald Sie die Ansichten in der Präsentation eingezogen haben, legen Sie fest, wie oft sie sich zwischen den verschiedenen Ansichten dreht.
 
-1. Klicken Sie auf** 5 Minuten** (dies ist die Standardkadenz).
+1. Klicken Sie auf **5 Minuten** (dies ist die Standardkadenz).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ Die Kalenderanzeige kann in eine 3-wöchige oder monatliche Ansicht geändert we
 
 >[!TIP]
 >
->Legen Sie ein [Hintergrundbild](add-a-background-image-to-a-presentation.md) für Ihre Präsentation fest. Wir empfehlen Kätzchen oder Regenbogen.
+>Legen Sie ein [Hintergrundbild](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) für Ihre Präsentation fest. Wir empfehlen Kätzchen oder Regenbogen.
 
 ## Vorschau einer Präsentation {#preview-a-presentation}
 
@@ -92,14 +89,8 @@ Sobald die Präsentation konfiguriert wurde, kann sie in der Vorschau angezeigt 
 
    Gefällt dir nicht, was du siehst? Gehen Sie zurück und verwenden Sie verschiedene Filterdefinitionen, um die gewünschte Ansicht zu erstellen.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [hinzufügen eines Hintergrundbilds zu einer Präsentation](add-a-background-image-to-a-presentation.md)
->* [Präsentation starten](launch-a-presentation.md)
-
->
-
-
+>* [hinzufügen eines Hintergrundbilds zu einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [Präsentation starten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
