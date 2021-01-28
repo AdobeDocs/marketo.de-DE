@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Die Analytics-Karten - Marketing-Dokumente - Produktdokumentation
 title: Die Analytics-Karten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Zu Beginn eines jeden Monats stellt Marketo Moments drei verschiedene Berichtska
 
 ## Analytics-Karten {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Wenn Sie auf eine Analytics-Karte tippen, haben Sie folgende Möglichkeiten:
+Wenn Sie auf eine Analytics-Karte tippen, haben Sie folgende Möglichkeiten:
 
-* [Mach es zum Favoriten](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markieren Sie es fertig](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Freigeben](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Mach es zum Favoriten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markieren Sie es fertig](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Freigeben](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Tippen Sie auf eine Analytics-Karte, um Folgendes anzuzeigen:
 
@@ -37,7 +37,7 @@ In diesem Beispiel zeigt rot an, dass der Wert im ausgewählten Datumsbereich ab
 
 ## Erworbene Interessenten {#acquired-leads}
 
-Die Karte **Akquise Interessenten **zeigt Ihnen einen Trend-Monatsüberblick über die Anzahl neuer Interessenten.
+Die Karte **Akquirierte Interessenten** zeigt Ihnen einen Trend-Monatsbericht zur Anzahl neuer Interessenten.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Jetzt weißt du Bescheid.
 
 >[!MORELIKETHIS]
 >
->* [Erläuterungen zu Markusmomenten](understanding-marketo-moments.md)
->* [Einführung in Ereignis-Karten](understanding-event-cards.md)
->* [Verstehen der E-Mail-Programm-Karten](understanding-email-program-cards.md)
+>* [Erläuterungen zu Markusmomenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Einführung in Ereignis-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Verstehen der E-Mail-Programm-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-Spaß: Die erste E-Mail, die jemals von Ray Tomlinson an sich geschickt wurde, stammt aus dem Jahr 1971.
