@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: Ausblenden und Ausblenden benutzerdefinierter Eingabetypen - Marketing-Dokumente - Produktdokumentation
 title: Ausblenden und Ausblenden benutzerdefinierter Eingabetypen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Benutzerdefinierte Eintragstypen können im Abschnitt &quot;Admin&quot;ausgeblen
 
 ## Benutzerdefinierter Einstiegstyp {#hide-a-custom-entry-type} ausblenden
 
-1. Wechseln Sie zum Abschnitt **Admin** und klicken Sie auf **Kalender** **Eintrag** **Typen**.
+1. Wechseln Sie zum Abschnitt **Admin** und klicken Sie auf **Kalendereintrag** **Typen**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ Wenn Sie einen benutzerdefinierten Einstiegstyp wieder einblenden möchten, ist 
    Ta-da! Ihr benutzerdefinierter Eintragstyp wird jetzt nicht mehr ausgeblendet.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
