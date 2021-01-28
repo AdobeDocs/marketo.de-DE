@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: Einträge direkt im Marketingkalender erstellen - Marketing Docs - Produktdokumentation
 title: Einträge direkt im Marketingkalender erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -26,7 +26,8 @@ So geht es.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   Wählen Sie einen vorherigen Eintrag aus und klicken Sie auf Programm-Fokus anzeigen.
+1. Wählen Sie einen vorherigen Eintrag aus und klicken Sie auf **Programm-Fokus anzeigen**.
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. Wählen Sie im Programm-Fokusmodus den gewünschten Tag aus, um einen Eintrag hinzuzufügen.
@@ -47,9 +48,4 @@ So geht es.
 
 >[!MORELIKETHIS]
 >
->* [Einträge direkt im Marketingkalender bearbeiten](edit-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Einträge direkt im Marketingkalender bearbeiten](edit-entries-directly-in-the-marketing-calendar.md)
