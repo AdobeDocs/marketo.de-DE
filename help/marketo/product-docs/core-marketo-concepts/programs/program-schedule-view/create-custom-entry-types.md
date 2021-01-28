@@ -3,7 +3,7 @@ unique-page-id: 1147245
 description: Benutzerdefinierte Eingabetypen erstellen - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Eingabetypen erstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Großartig! Wenn Sie jetzt einen neuen Eintrag in Ihrer Zeitplan-Ansicht erstell
 >[!NOTE]
 >
 >Sie können bis zu 100 benutzerdefinierte Eintragstypen erstellen.
-
