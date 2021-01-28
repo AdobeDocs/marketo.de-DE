@@ -3,7 +3,7 @@ unique-page-id: 10093348
 description: Erläuterungen zu Smart-Kampagnen-Karten - Marketing-Dokumente - Produktdokumentation
 title: Karten mit intelligenter Kampagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -26,6 +26,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt wurde
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. Mit der Detailkarte haben Sie Zugriff auf Informationen zu den Filtern für die intelligente Liste, zum Fluss und zur E-Mail-Zusammenfassung.
+
 1. Tippen Sie auf **Intelligente Liste**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -66,7 +67,7 @@ Es ist eine gute Idee, sich eine E-Mail anzusehen, bevor sie ausgeht. Oder sende
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tippen Sie auf [Beispiel senden](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [Vorschau E-Mail](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (für weitere Informationen klicken Sie auf diese Links).
+1. Tippen Sie auf [Beispiel senden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [Vorschau E-Mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (für weitere Informationen klicken Sie auf diese Links).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -128,9 +129,9 @@ Sie können eine bestätigte intelligente Kampagne, die noch nicht ausgeführt w
 
 Wie bei anderen Marketo-Moments-Karten können Sie auf jeder Smart-Kampagne- oder Detailkarte auf die drei Punkte tippen, um:
 
-* [Mach es zum Favoriten](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markieren Sie das Ergebnis](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Freigeben](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Mach es zum Favoriten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markieren Sie das Ergebnis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Freigeben](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
