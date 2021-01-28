@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: Umbenennen eines Marketing-Assets - Marketing Docs - Produktdokumentation
 title: Markieren eines Assets umbenennen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,4 +26,3 @@ Ordner, Programme und lokale Assets können problemlos umbenannt werden.
    >[!NOTE]
    >
    >Sie können Dateien und Bilder, die hochgeladen wurden, oder Assets, auf die derzeit in einer intelligenten Liste oder intelligenten Kampagne verwiesen wird (in Filtern, Triggern, Flussschritten usw.), nicht umbenennen.
-
