@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketing Docs - Produktdokumentation
 title: Marketo Plugin Releases for Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version der Plugins für Marketo herunter. Marketo aktualisiert diese Plugins regelmäßig, sodass Sie zum selben Ort zurückkehren können, um die neue Version herunterzuladen.
 
-[Laden Sie das neueste ](sync-setup/download-the-marketo-lead-management-solution.md) Plugin herunter, das Ihrem Dynamics Release entspricht.
+[Laden Sie das neueste ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Plugin herunter, das Ihrem Dynamics Release entspricht.
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ Die nachstehende Tabelle zeigt die neuesten Versionen an.
 
 >[!MORELIKETHIS]
 >
->* [Laden Sie die Marketing-Interessentenverwaltungslösung herunter](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[Laden Sie die Marketing-Interessentenverwaltungslösung herunter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
