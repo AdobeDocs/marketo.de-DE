@@ -3,9 +3,9 @@ unique-page-id: 6848922
 description: Laden Sie die Marketing-Interessentenverwaltungslösung - Marketing Docs - Produktdokumentation herunter.
 title: Laden Sie die Marketing-Interessentenverwaltungslösung herunter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
 >[!CAUTION]
 >
->Sie müssen unbedingt die neueste Marketing-Lösung *herunterladen, bevor Sie eine Aktualisierung durchführen.*
+>Sie müssen unbedingt die neueste Marketing-Lösung _herunterladen, bevor Sie eine Aktualisierung durchführen._
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
 1. Gehen Sie zum Bereich **Admin**.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. Klicken Sie auf **CRM**.
 
@@ -45,7 +45,6 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
 1. Wählen Sie die passende Lösung für Ihre Microsoft Dynamics Version.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    Fantastisch! Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.
-
