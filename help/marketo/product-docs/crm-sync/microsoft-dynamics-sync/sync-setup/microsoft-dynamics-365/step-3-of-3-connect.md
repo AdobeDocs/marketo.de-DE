@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Schritt 3 von 3 - Verbinden von Microsoft Dynamics mit Marketo (Online) - Marketing Docs - Produktdokumentation
 title: Schritt 3 von 3 - Verbinden von Microsoft Dynamics mit Marketo (Online)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: Installieren der Marketing Solution (Online)](step-1-of-3-install.md)
+>* [Schritt 1 von 3: Installieren der Marketing Solution (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
    >
    >
-* [Schritt 2 von 3: Marketo Sync User in Dynamics einrichten](step-2-of-3-set-up.md)
-
->
-
+* [Schritt 2 von 3: Marketo Sync User in Dynamics einrichten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -58,7 +55,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;[`[email protected]`&quot;oder &quot;](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1)&quot;oder &quot;DOMAIN\user&quot;lauten.
+   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;user@domain.com&quot;oder &quot;DOMAIN\user&quot;lauten.
 
 ## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
 
