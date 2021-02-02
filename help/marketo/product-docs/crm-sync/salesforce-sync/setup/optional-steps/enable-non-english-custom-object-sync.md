@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: Benutzerdefinierte Objektsynchronisierung ohne Englisch aktivieren - Marketing Docs - Produktdokumentation
 title: Benutzerdefinierte Objektsynchronisierung für Nicht-Englisch aktivieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -61,7 +61,4 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
 >[!NOTE]
 >
->**Erinnerung**
->
 >Vergessen Sie nicht, das Schema ein letztes Mal zu aktualisieren, um die Objekte in Ihrer Sprache zurückzuziehen.
-
