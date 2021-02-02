@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erwerben - Marketing Docs - Produktdokumentation
 title: Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erhalten.
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Azurblauer Active Directory erweitert Ihre lokalen Verzeichnisse in die Cloud un
 
 ## Registrieren einer neuen App {#registering-a-new-app}
 
-1. [Melden Sie sich mit einem Konto mit Administratorberechtigungen ](http://manage.windowsazure.com/) beim Microsoft Azurblase Management Portal an. Sie können auch über das Office 365 Admin Center auf das Microsoft Azurblaus-Portal zugreifen, indem Sie das Element **Admin** im linken Navigationsbereich erweitern und **Azurblaue Anzeige** auswählen.
+1. [Melden Sie sich ](http://manage.windowsazure.com/) beim Microsoft Azurblase Management Portal mit einem Konto mit Administratorberechtigungen an. Sie können auch über das Office 365 Admin Center auf das Microsoft Azurblaus-Portal zugreifen, indem Sie das Element **Admin** im linken Navigationsbereich erweitern und **Azurblaue Anzeige** auswählen.
 
    >[!CAUTION]
    >
@@ -38,7 +38,7 @@ Azurblauer Active Directory erweitert Ihre lokalen Verzeichnisse in die Cloud un
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Neue Registrierung **oben auf der Seite.
+1. Klicken Sie oben auf der Seite auf **Neue Registrierung**.
 
    ![](assets/four.png)
 
