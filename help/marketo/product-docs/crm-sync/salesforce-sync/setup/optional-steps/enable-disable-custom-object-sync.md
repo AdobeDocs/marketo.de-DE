@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren - MarketingToDocs - Produktdokumentation
 title: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 1. Klicken Sie auf **Admin**.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. Klicken Sie im Menü Datenbankverwaltung auf **Salesforce** **Objekte synchronisieren**.
+1. Klicken Sie im Menü Database Management auf **Salesforce Objects Sync**.
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 1. Klicken Sie erneut auf **Synchronisierung aktivieren**.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. Gehen Sie zurück zum Register **Salesforce** und klicken Sie auf **Synchronisierung aktivieren**.
 
@@ -69,9 +65,9 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 >[!NOTE]
 >
->Sie können benutzerdefinierte Objekte nicht mit Auslösern in intelligenten Kampagnen verwenden.
+>Sie können keine benutzerdefinierten Objekte in intelligenten Kampagnen mit Triggern verwenden.
 
-1. Ziehen Sie in der intelligenten Liste über den Filter **Hat Gelegenheit** und setzen Sie ihn auf **true**.
+1. Ziehen Sie in der intelligenten Liste über den Filter **Hat Gelegenheit** und legen Sie **true** fest.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -83,9 +79,4 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 >[!MORELIKETHIS]
 >
->* [Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Auslöser Hinzufügen/entfernen](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Trigger Hinzufügen/entfernen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
