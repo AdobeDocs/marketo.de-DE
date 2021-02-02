@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Schritt 3 von 3 - Connect Marketing and Dynamics (On-Premises 2013) - Marketing Docs - Produktdokumentation
 title: Schritt 3 von 3 - Connect Marketing and Dynamics (On-Premises 2013)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: Installieren Sie die Marketing Solution in Dynamics (On-Premises 2013)](step-1-of-3-install.md)
->* [Schritt 2 von 3: Konfigurieren des Synchronisierungsbenutzers für Marketo (On-Premises 2013)](step-2-of-3-configure.md)
-
->
-
+>* [Schritt 1 von 3: Installieren Sie die Marketing Solution in Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [Schritt 2 von 3: Konfigurieren des Synchronisierungsbenutzers für Marketo (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -42,7 +39,7 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klicken Sie in **Schritt 1 auf** BEARBEITEN **: Geben Sie Anmeldeinformationen** ein.
+1. Klicken Sie in **Schritt 1 auf** Bearbeiten **: Geben Sie Anmeldeinformationen** ein.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -56,17 +53,17 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;[`[email protected]`&quot;oder &quot;](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e)&quot;oder &quot;DOMAIN\user&quot;lauten.
+   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;user@domain.com&quot;oder &quot;DOMAIN\user&quot;lauten.
 
    >[!TIP]
    >
-   >Kennst du die URL nicht? Wir zeigen Ihnen, wie Sie die [Dynamics Organisationsdienst-URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier finden.
+   >Kennst du die URL nicht? Wir zeigen Ihnen, wie Sie die [Dynamics Organisations-Dienst-URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier finden.
 
 ## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
 
 Jetzt müssen wir die Felder auswählen, über die wir synchronisieren möchten.
 
-1. Klicken Sie auf **BEARBEITEN **in **Schritt 2: Wählen Sie die zu synchronisierenden Felder aus.**
+1. Klicken Sie in **Schritt 2 auf** Bearbeiten **: Wählen Sie die zu synchronisierenden Felder aus.**
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -92,7 +89,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
 
 ## Synchronisierung aktivieren {#enable-sync}
 
-1. Klicken Sie auf **BEARBEITEN **in **Schritt 3: Aktivieren Sie die Synchronisierung**.
+1. Klicken Sie in **Schritt 3 auf** Bearbeiten **: Aktivieren Sie die Synchronisierung**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -100,7 +97,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
    >
    >Marketo wird nicht automatisch deduplizieren gegen eine Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben Personen oder Interessenten.
 
-1. Lesen Sie alles im Popup, geben Sie Ihre E-Mail ein und klicken Sie auf **BEGINN SYNC**.
+1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail ein und klicken Sie auf **Beginn-Synchronisierung**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
@@ -110,13 +107,6 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
 
 Exzellente Arbeit! Sie haben soeben die Kraft der bidirektionalen Synchronisierung zwischen Marketo und Microsoft Dynamics freigesetzt. Wenn Sie Marketo Sales Insight gekauft haben, haben Sie mehr Spaß:
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2013](../../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-
->
-
-
-
+>[Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2013](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
