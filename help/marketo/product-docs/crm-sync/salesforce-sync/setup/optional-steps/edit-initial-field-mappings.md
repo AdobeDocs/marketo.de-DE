@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: Erste Feldzuordnungen bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Zuordnungen von Anfangsfeldern bearbeiten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Erinnerung**
->
 >Diese Funktion steht erst vor der ersten Synchronisierung mit Salesforce zur Verfügung! Sobald die Schaltfläche **Jetzt synchronisieren** gedrückt wurde, kann dies nicht mehr durchgeführt werden.
 
 Während der anfänglichen Synchronisierung mit Salesforce kombiniert Marketo automatisch gleichnamige benutzerdefinierte Felder in einem Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten mit Lead- und Kontaktobjekten im CRM ausgetauscht werden können. In diesem Artikel wird beschrieben, wie Sie diese Zuordnungen anpassen.
@@ -25,7 +23,7 @@ Während der anfänglichen Synchronisierung mit Salesforce kombiniert Marketo au
 
 Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bedeutet dies, dass es keinem ähnlichen Feld im Feld &quot;Interessent&quot;oder &quot;Kontakt&quot;in Salesforce zugeordnet ist. Du kannst das reparieren.
 
-1. Klicken Sie auf Zuordnungen bearbeiten.
+1. Klicken Sie auf **Zuordnungen bearbeiten**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ Wenn Sie gleichnamige Felder auf dem Interessenten- und Kontaktobjekt haben, wer
 
    * Alle Zuordnungsänderungen werden zurückgesetzt!
    * Durch Zurücksetzen des Schemas werden nur Felder hinzugefügt, nicht jedoch entfernt (auch wenn Sie sie vom Synchronisierungsbenutzer ausblenden).
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
