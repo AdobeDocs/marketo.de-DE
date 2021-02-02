@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Verwenden Sie die Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld - Marketing Docs - Produktdokumentation
 title: Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld verwenden
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Im Folgenden wird beschrieben, wie Sie die Schnellsynchronisierung verwenden, um
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Klicken Sie auf** Microsoft Dynamics**.
+1. Klicken Sie auf **Microsoft Dynamics**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ Was ist, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies jedoch nur
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Wählen Sie **Aktualisiert **und wählen Sie einen Datumsbereich mithilfe der Datumsauswahl aus. Klicken Sie auf **Speichern**.
+1. Wählen Sie **Aktualisiert** und wählen Sie einen Datumsbereich mithilfe der Datumsauswahl aus. Klicken Sie auf **Speichern**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ In dem seltenen Fall, in dem ein Dynamikfeld und ein Marketo-Feld nicht synchron
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    Das sollte es reparieren!
-
