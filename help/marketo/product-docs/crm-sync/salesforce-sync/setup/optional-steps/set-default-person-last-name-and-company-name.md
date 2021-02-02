@@ -3,7 +3,7 @@ unique-page-id: 4719291
 description: Standardnamen der Firma und des Benutzers festlegen - Marketing Docs - Produktdokumentation
 title: Standardnamen der Person und Firma festlegen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Salesforce benötigt (mindestens) Nachname und Firma für seine Interessenten un
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Geben Sie einen **Familiennamen der Standardperson** und eine **Standard ****Firma** ein und klicken Sie dann auf **Speichern**.
+1. Geben Sie einen **Familiennamen der Standardperson** und eine **Standardperson-Firma** ein und klicken Sie dann auf **Speichern**.
 
    ![](assets/sync-options-hands.png)
 
