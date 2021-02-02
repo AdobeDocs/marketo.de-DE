@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Schritt 1 von 3 - Hinzufügen Marketing Fields to Salesforce (Enterprise/Unlimited) - Marketing Docs - Produktdokumentation
 title: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ hinzufügen drei benutzerdefinierte Felder auf den oben aufgeführten Interessen
 
 Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felder aus, um sie hinzuzufügen. Beginn mit Ergebnis.
 
-1. Melden Sie sich bei Salesforce an und klicken Sie auf Setup.
+1. Melden Sie sich bei Salesforce an und klicken Sie auf **Setup**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicken Sie im Menü Erstellen auf der linken Seite auf Anpassen und wählen Sie Interessenten. Klicken Sie auf Felder.
+1. Klicken Sie im Menü &quot;Erstellen&quot;auf der linken Seite auf **Anpassen** und wählen Sie **Interessenten**. Klicken Sie auf **Felder**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicken Sie im Abschnitt &quot;Benutzerdefinierte Felder und Beziehungen&quot;unten auf der Seite auf &quot;Neu&quot;.
+1. Klicken Sie im Abschnitt &quot;Benutzerdefinierte Felder und Beziehungen&quot;unten auf der Seite auf **Neu**.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,7 +47,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klicken Sie auf Weiter.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,18 +106,18 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 >
 >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
-1. Klicken Sie auf Weiter.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Legen Sie die Zugriffseinstellungen fest und klicken Sie auf Weiter:
+1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **Weiter**:
 
-   * Legen Sie alle Rollen auf **Sichtbar **und **Schreibgeschützt** fest.
+   * Legen Sie alle Rollen auf **Sichtbar** und **Schreibgeschützt** fest.
 
    * Deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Profil des Synchronisierungsbenutzers:
 
-      * Wenn Sie einen Benutzer mit dem Profil eines *Systemadministrators* als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Systemadministrator-Profil (wie unten gezeigt).
-      * Wenn Sie ein *benutzerdefiniertes Profil* für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für dieses benutzerdefinierte Profil
+      * Wenn Sie einen Benutzer mit dem Profil eines _Systemadministrators_ als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Systemadministrator-Profil (wie unten gezeigt).
+      * Wenn Sie ein _benutzerdefiniertes Profil_ für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für dieses benutzerdefinierte Profil
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicken Sie auf Speichern &amp; Neu, um zurückzukehren und die beiden anderen benutzerdefinierten Felder zu erstellen. Klicken Sie auf Speichern mit allen drei.
+1. Klicken Sie auf **Speichern und Neu**, um zurückzukehren und die beiden anderen benutzerdefinierten Felder zu erstellen. Klicken Sie auf **Speichern**, wenn Sie alle drei Schritte abgeschlossen haben.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicken Sie im Menü Erstellen auf der linken Seite auf Anpassen und wählen Sie Kontakte. Klicken Sie auf Felder.
+1. Klicken Sie im Menü Erstellen auf der linken Seite auf **Anpassen** und wählen Sie Kontakte. Klicken Sie auf Felder.
 1. Führen Sie die Schritte 3 bis 10 für die Felder &quot;Punktzahl&quot;, &quot;Akquise-Programm&quot;und &quot;Akquise-Objekt&quot;auf dem Kontaktobjekt aus, genau wie für das Lead-Objekt.
 1. Optional können Sie das obige Verfahren für weitere benutzerdefinierte Felder aus dieser Tabelle verwenden.
 
@@ -261,23 +261,15 @@ Ein benutzerdefiniertes Feld auf dem Interessentenobjekt in Salesforce sollte ei
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Wiederholen Sie die oben genannten Schritte für alle anderen von Ihnen erstellten Felder.
+
 1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    Einfach genug, nicht wahr?
 
 >[!NOTE]
 >
->**Tieftauchen**
->
 >Hier ist ein Link zu einem [Video des gesamten Verfahrens](https://nation.marketo.com/videos/1475), das es kristallklar machen sollte!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
->
-
-
-
+>[Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
