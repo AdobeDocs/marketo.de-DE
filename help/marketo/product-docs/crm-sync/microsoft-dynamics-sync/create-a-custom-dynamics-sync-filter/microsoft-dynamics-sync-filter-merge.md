@@ -3,7 +3,7 @@ unique-page-id: 10092969
 description: Microsoft Dynamics Sync Filter - Merge - Marketing Docs - Produktdokumentation
 title: Microsoft Dynamics Sync Filter - Zusammenführen
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Wenn ein Datensatz wahr ist und einer falsch, wird er knifflig.
 | False | False | Der erfolgreichste Datensatz wird weiterhin **nicht** mit Marketo synchronisiert |
 | False | true | Der erfolgreichste Datensatz wird mit Marketo synchronisiert |
 | true | False | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert |
-
