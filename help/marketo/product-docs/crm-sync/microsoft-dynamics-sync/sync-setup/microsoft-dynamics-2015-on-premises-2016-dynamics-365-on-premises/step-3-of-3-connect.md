@@ -3,23 +3,20 @@ unique-page-id: 7504744
 description: Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 3 von 3 - Marketing Docs - Produktdokumentation
 title: Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 3 von 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 3 von 3 {#install-marketo-for-dynamics-on-prem-and-on-prem-step-of}
+# Schritt 3 von 3: Connect Marketo Dynamics (On-Prem 2015 und On-Prem 2016 365) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 1 von 3](step-1-of-3-install.md)
->* [Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 2 von 3](step-2-of-3-set-up.md)
-
->
-
+>* [Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 2 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -54,11 +51,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;[`[email protected]`&quot;oder &quot;](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1)&quot;oder &quot;DOMAIN\user&quot;lauten.
+   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;user@domain.com&quot;oder &quot;DOMAIN\user&quot;lauten.
 
    >[!TIP]
    >
-   >Kennst du die URL nicht? Hier erfahren Sie, wie Sie die [Dynamics Organisations-Dienst-URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) finden.
+   >Kennst du die URL nicht? Hier erfahren Sie, wie Sie die [Dynamics Organisations-Dienst-URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) finden.
 
 ## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
 
