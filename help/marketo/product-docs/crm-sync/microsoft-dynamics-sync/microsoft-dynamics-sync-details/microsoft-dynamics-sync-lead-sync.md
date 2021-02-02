@@ -3,9 +3,9 @@ unique-page-id: 3571848
 description: Microsoft Dynamics Sync - Lead Sync - Marketing Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Lead Sync
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Die Synchronisierung erfolgt bidirektional. Wenn Sie Änderungen an einem Lead i
 
 >[!NOTE]
 >
->Löscht werden nicht immer automatisch in beide Richtungen synchronisiert. Siehe [Löschen eines Interessenten oder Kontakts](http://docs.marketo.com/x/agO1Ag).
+>Löscht werden nicht immer automatisch in beide Richtungen synchronisiert. Siehe [Löschen eines Interessenten oder Kontakts](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
 
 ## Was ist, wenn in beiden Systemen gleichzeitig Änderungen am gleichen Feld vorgenommen werden? (Datenkollision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,21 +29,20 @@ Obwohl dies selten ist, wird Marketo gewinnen für Menschen (Interessenten) und 
 
 ## Kann ich mit Marketo einen Lead in Dynamics erstellen? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Ja, verwenden Sie die Aktion [Person mit Microsoft ](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)-Textfluss synchronisieren. Dies wird einen Vorsprung in Dynamics erzeugen, wenn der Lead nicht existiert. Wenn der Interessent vorhanden ist, führt der Flussschritt keine Aktion durch.
+Ja, verwenden Sie die Aktion [Person mit Microsoft ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)-Textfluss synchronisieren. Dies wird einen Vorsprung in Dynamics erzeugen, wenn der Lead nicht existiert. Wenn der Interessent vorhanden ist, führt der Flussschritt keine Aktion durch.
 
 >[!NOTE]
 >
->Bei Verwendung der &quot;Synchronisierungsperson mit Microsoft&quot;-Flussaktion (nur in einer Auslöseraktion) wird der Interessent/Kontakt in Echtzeit in Dynamics erstellt.
+>Bei Verwendung der &quot;Synchronisierungsperson mit Microsoft&quot;-Flussaktion (nur in einer Trigger-Kampagne) wird der Interessent/Kontakt in Echtzeit in Dynamics erstellt.
 
 ## Kann ich manuell eine Synchronisierung einer Person von Marketo zu einem Lead in Dynamics erzwingen? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit, Updates zwischen Marketo und Dynamics zu synchronisieren. Die Aktion [Person mit Microsoft ](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)-Fluss synchronisieren erzwingt keine Synchronisierung des Interessenten.
+Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit, Updates zwischen Marketo und Dynamics zu synchronisieren. Die Aktion [Person mit Microsoft ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)-Fluss synchronisieren erzwingt keine Synchronisierung des Interessenten.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können die zu synchronisierenden Felder [während des Setups auswählen.](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)
+Sie können die zu synchronisierenden Felder [während des Setups auswählen.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)
 
 ## Wird Marketo die Dynamikvalidierungsregeln einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
 
 Ja. Die Synchronisierung schlägt fehl, wenn das Datenformat falsch ist oder die erforderlichen Feldinformationen fehlen. Marketo protokolliert das Ergebnis im Benutzerprotokoll, wenn dies der Fall ist.
-
