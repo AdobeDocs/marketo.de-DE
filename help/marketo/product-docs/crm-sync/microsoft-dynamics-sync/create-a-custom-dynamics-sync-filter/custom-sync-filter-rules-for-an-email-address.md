@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Sync-Filterregeln für eine E-Mail-Adresse
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ Um die Synchronisierung von Datensätzen ohne E-Mail-Adresse zu verhindern, befo
 
 * Wenn das Feld &quot;Firma des Kontakts&quot;(parentcustomerid) aktualisiert wird, prüfen Sie, ob das Feld &quot;Mit Mkto synchronisieren&quot;des Kontakts wahr ist. Ist dies der Fall, ändern Sie für das Konto die Option Auf Mkto synchronisieren in **True** ebenfalls
 * Wenn das Feld Potenzieller Kunde (benutzerdefiniert) oder Kontakt (übergeordnet) aktualisiert wird, überprüfen Sie, ob das Feld Synchronisierung mit Mkto des Kontos wahr ist oder ob das Feld Synchronisierung mit Mkto des Kontakts wahr ist. Ist dies der Fall, ändern Sie &quot;Synchronisieren&quot;zu &quot;Mkto&quot;, um **True** ebenfalls aufzurufen.
-
