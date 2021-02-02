@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited - Marketing Docs - Produktdokumentation
 title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-
->
-
-
+>[Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein und erstellen ein Marketing-Salesforce-Integrationskonto.
 
@@ -100,10 +96,10 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 1. Gehen Sie auf der Detailseite zum Profil zu **Sicherheit auf Feldebene**. Klicken Sie auf **Ansicht**, um die Barrierefreiheit für die Objekte zu bearbeiten:
 
-   * `Lead`
-   * `Contact`
-   * `Account`
-   * `Opportunity`
+   * Interessent
+   * Kontakt
+   * Konto
+   * Chancen
 
    >[!TIP]
    >
@@ -115,18 +111,15 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Suchen Sie die nicht benötigten Felder, stellen Sie sicher, dass die Kontrollkästchen **Zugriff lesen **und** Zugriff bearbeiten **deaktiviert sind. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Suchen Sie die nicht benötigten Felder, stellen Sie sicher, dass **Lesezugriff** und **Zugriff bearbeiten** deaktiviert sind. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    >[!NOTE]
-   >
-   >**Erinnerung**
-   >
    >
    >Bearbeiten Sie nur die Barrierefreiheit für die benutzerdefinierten Felder.
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nachdem Sie alle nicht benötigten Felder deaktiviert haben, müssen Sie für die folgenden Objektfelder die Option **Zugriff lesen und Zugriff bearbeiten **aktivieren. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Nachdem Sie alle nicht benötigten Felder deaktiviert haben, müssen Sie **Zugriff lesen und Zugriff bearbeiten** für die folgenden Objektfelder aktivieren. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
 <table> 
  <tbody> 
@@ -155,7 +148,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 >[!TIP]
 >
->Erstellen Sie ein dediziertes Salesforce-Konto (z. [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)), um die von Marketo vorgenommenen Änderungen im Vergleich zu anderen Salesforce-Benutzern zu unterscheiden.
+>Erstellen Sie ein dediziertes Salesforce-Konto (z. B. marketo@yourcompany.com), um die von Marketo vorgenommenen Änderungen im Vergleich zu anderen Salesforce-Benutzern zu unterscheiden.
 
 1. Geben Sie &quot;Benutzer verwalten&quot;in die Navigationsleiste ein und klicken Sie dann auf **Benutzer**. Klicken Sie auf **Neuer Benutzer**.
 
@@ -169,11 +162,4 @@ Schritt 2 von 2 ist abgeschlossen.
 
 >[!NOTE]
 >
->**Verwandte Artikel**
->
->* [Schritt 3 von 3: Connect Marketing und Salesforce (Enterprise/Unlimited)](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-
->
-
-
-
+>[Schritt 3 von 3: Connect Marketing und Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
