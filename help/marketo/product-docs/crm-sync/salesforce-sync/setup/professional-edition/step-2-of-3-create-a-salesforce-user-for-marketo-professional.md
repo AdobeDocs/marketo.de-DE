@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Professional) - Marketing Docs - Produktdokumentation
 title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: hinzufügen Marketo Fields to Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[Schritt 1 von 3: hinzufügen Marketo Fields to Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 In diesem Artikel passen Sie die Feldberechtigungen mit einem Salesforce-Seitenlayout an und erstellen einen Synchronisierungsbenutzer von &quot;Marketing-Salesforce&quot;.
 
@@ -92,9 +88,6 @@ Salesforce Professional stellt die Barrierefreiheit auf Feldebene mit Seitenlayo
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Vergewissern Sie sich, dass das Feld **Ganztägiges Ereignis** zum **Ereignis Seitenlayout** hinzugefügt wurde.
 
 ## Synchronisierungsbenutzer {#create-sync-user} erstellen
@@ -123,13 +116,6 @@ Marketo benötigt Anmeldeinformationen für den Zugriff auf Salesforce. Dies ist
 
 Ausgezeichnet! Jetzt haben Sie ein Konto, mit dem Marketo eine Verbindung zu Salesforce herstellen kann. Machen wir es!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Schritt 3 von 3: Connect Marketing und Salesforce (Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[Schritt 3 von 3: Connect Marketing und Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
