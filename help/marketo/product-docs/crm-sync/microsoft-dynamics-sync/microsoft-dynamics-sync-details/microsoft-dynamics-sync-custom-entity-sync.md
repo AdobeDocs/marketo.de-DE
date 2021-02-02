@@ -3,7 +3,7 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Custom Entity Sync - Marketing Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Benutzerdefinierte Entitäts-Synchronisierung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
 >[!PREREQUISITES]
 >
->Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [lead](microsoft-dynamics-sync-lead-sync.md)-, [contact](microsoft-dynamics-sync-contact-sync.md)- oder [account](microsoft-dynamics-sync-account-sync.md)-Objekt in Dynamics verknüpft sein.
+>Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)-, [contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)- oder [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)-Objekt in Dynamics verknüpft sein.
 
 >[!CAUTION]
 >
@@ -35,9 +35,11 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Installieren Sie eine Version von Microsoft Dynamics, die die benutzerdefinierte Entitätssynchronisierung unterstützt (nach 2_0_0_2). Siehe [Marketo Plugin Releases für MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Installieren Sie eine Version von Microsoft Dynamics, die die benutzerdefinierte Entitätssynchronisierung unterstützt (nach 2_0_0_2). Siehe [Marketo Plugin Releases für MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+
 1. Weisen Sie dem Synchronisierungsbenutzer Lesezugriff auf alle Entitäten zu, die synchronisiert werden sollen.
-1. Klicken Sie unter Datenbankverwaltung auf den Link** Dynamics Entities Sync**.
+
+1. Klicken Sie unter &quot;Datenbankverwaltung&quot;auf den Link **Dynamics Entities Sync**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -45,7 +47,7 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Wählen Sie nach der Synchronisierung der Liste die zu synchronisierenden und die zu verwendenden Felder [constraints](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Auslöser in intelligenten Listen aus. Klicken Sie abschließend auf **Synchronisierung aktivieren**.
+1. Wählen Sie nach der Synchronisierung der Liste die zu synchronisierenden und die zu verwendenden Felder [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Trigger in intelligenten Listen aus. Klicken Sie abschließend auf **Synchronisierung aktivieren**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -59,6 +61,6 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
    >[!NOTE]
    >
-   >Entitätsnamen dürfen maximal** 33 Zeichen** enthalten.
+   >Entitätsnamen können maximal **33 Zeichen** haben.
 
 Du bist gut!
