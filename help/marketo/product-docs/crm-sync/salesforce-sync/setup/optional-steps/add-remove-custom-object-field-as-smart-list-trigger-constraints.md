@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719300
-description: Benutzerdefiniertes Objektfeld Hinzufügen/entfernen als Einschränkungen für intelligente Liste/Auslöser - Marketing-Dokumente - Produktdokumentation
-title: Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Auslöser Hinzufügen/entfernen
+description: Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Trigger Hinzufügen/entfernen - Marketing-Dokumente - Produktdokumentation
+title: Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Trigger Hinzufügen/entfernen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
 
-# Benutzerdefiniertes Objektfeld als Smart-Liste-/Auslöser-Einschränkungen {#add-remove-custom-object-field-as-smart-list-trigger-constraints} Hinzufügen/entfernen
+# Benutzerdefiniertes Objektfeld Hinzufügen/entfernen als Einschränkungen für intelligente Liste/Trigger {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo bietet feine Kontrolle über die benutzerdefinierte Objektsynchronisierung von Salesforce. Auf diese Weise können Sie die Felder auswählen, die in Filtern mit benutzerdefinierten Objekten als Einschränkungen verfügbar sind, und sie als Auslöser in intelligenten Kampagnen verwenden.
+Marketo bietet feine Kontrolle über die benutzerdefinierte Objektsynchronisierung von Salesforce. Auf diese Weise können Sie die Felder auswählen, die in Filtern mit benutzerdefinierten Objekten als Einschränkungen verfügbar sind, und sie als Trigger in intelligenten Kampagnen verwenden.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Marketo bietet feine Kontrolle über die benutzerdefinierte Objektsynchronisieru
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Markieren Sie die Kontrollkästchen neben den erforderlichen Filter-/Auslöser-Beschränkungen und klicken Sie auf **Speichern**.
+1. Markieren Sie die Kästchen neben den erforderlichen Filter-/Trigger-Beschränkungen und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -61,18 +61,10 @@ Marketo bietet feine Kontrolle über die benutzerdefinierte Objektsynchronisieru
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Vergessen Sie nicht, Ihre globale Synchronisierung erneut zu aktivieren!
 
 Wow! Ihre intelligenten Listen und intelligenten Kampagnen haben jetzt noch mehr Macht.
 
 >[!MORELIKETHIS]
 >
->* [Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren](enable-disable-custom-object-sync.md)
-
->
-
-
-
+>[Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
