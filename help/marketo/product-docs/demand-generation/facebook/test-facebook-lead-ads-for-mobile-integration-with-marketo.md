@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: Testen von Facebook-Interessentenanzeigen für die mobile Integration mit Marketing - Marketing - Marketing-Dokumente - Produktdokumentation
 title: Testen von Facebook-Interessentenanzeigen für die mobile Integration mit Marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen!
 
 >[!PREREQUISITES]
 >
->Sie müssen [die Facebook-Interessentenwerbungsintegration](set-up-facebook-lead-ads.md) einrichten.
+>Sie müssen [die Facebook-Interessentenwerbungsintegration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) einrichten.
 
 1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **Bearbeiten**.
+
 1. Klicken Sie unter **Links** auf den Link **Ansicht in der mobilen App**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
@@ -44,7 +45,7 @@ Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen!
    >
    >Dies ist nur ein Beispiel, bei dem ein Aktionsaufruf für weitere Informationen verwendet wird. Ihr Aktionsaufruf für die Interessentenanwerbung kann anders ausfallen.
 
-1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine intelligente Liste in Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Interessentendatenbank, die den Filter **Ausgefülltes Facebook-Formular für Interessentenanzeigen** verwendet. Geben Sie den Namen des Interessentenanwerbungsformulars des soeben gesendeten Formulars ein.
+1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine intelligente Liste in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Interessentendatenbank, die den Filter **Ausgefülltes Facebook-Formular für Interessentenanzeigen** verwendet. Geben Sie den Namen des Interessentenanwerbungsformulars des soeben gesendeten Formulars ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -52,15 +53,8 @@ Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen!
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-   Ist das cool oder was?
+Ist das cool oder was?
 
 >[!NOTE]
 >
->**Verwandte Artikel**
->
->* [Facebook-Interessentenanzeigen aktivieren/deaktivieren](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Facebook-Interessentenanzeigen aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
