@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: hinzufügen/Entfernen von Picklist-Werten - Marketing Docs - Produktdokumentation
 title: Picklist-Werte Hinzufügen/entfernen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von p
 
 ## Picklist-Werte {#adding-picklist-values} hinzufügen
 
-1. Wenn ein zusätzlicher Wert in Salesforce zu einem picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md), die angibt, welche Formulare dies betreffen.
+1. Wenn ein zusätzlicher Wert in Salesforce zu einem picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md), die angibt, welche Formulare dies betreffen.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Gehen Sie zum Formulareditor und fügen Sie [den zusätzlichen Wert](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) zu Ihrer Liste der Vorschläge hinzu.
+1. Gehen Sie zum Formulareditor und fügen Sie [den zusätzlichen Wert](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) zu Ihrer Liste der Vorschläge hinzu.
 
 ## Picklist-Werte {#remove-picklist-values} entfernen
 
