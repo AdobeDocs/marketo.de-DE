@@ -3,7 +3,7 @@ unique-page-id: 4719310
 description: Salesforce-Synchronisierung aktivieren/deaktivieren - Marketing Docs - Produktdokumentation
 title: Salesforce-Synchronisierung aktivieren/deaktivieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,9 +17,7 @@ Wenn Sie wichtige Änderungen an Ihren Synchronisierungs- oder Feldeinstellungen
 
 1. Gehen Sie zum Abschnitt **Admin**.
 
-   ** ![](assets/image2014-12-10-13-3a24-3a35.png)
-
-   **
+   ![](assets/image2014-12-10-13-3a24-3a35.png)
 
 1. Klicken Sie unter **Salesforce** auf **Synchronisierung deaktivieren**.
 
@@ -30,4 +28,3 @@ Wenn Sie wichtige Änderungen an Ihren Synchronisierungs- oder Feldeinstellungen
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
 1. Nehmen Sie Ihre Änderungen vor und aktivieren Sie die Synchronisierung erneut. Es ist der gleiche Knopf.
-
