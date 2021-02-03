@@ -3,7 +3,7 @@ unique-page-id: 11383945
 description: Offline-Konversionen für Facebook - Marketing-Dokumente - Produktdokumentation
 title: Offline-Konversionen in Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -40,17 +40,12 @@ Das bedeutet, dass Ad 1, obwohl es weniger Interessenten gab, eine Erfolgsrate v
 >
 >Ohne Offline-Konversionen würde der Werbetreibende wahrscheinlich mehr Geld in Ad 3 investieren. Bei Offline-Konversionsdaten investiert der Werbetreibende wahrscheinlich eher in Anzeige 1.
 
-Sie können [Facebook-Offline-Konvertierungen](set-up-facebook-offline-conversions.md) einrichten, um die Offline-Anzeigenleistung an Facebook zu senden.
+Sie können [Facebook-Offline-Konvertierungen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) einrichten, um die Offline-Anzeigenleistung an Facebook zu senden.
 
-1. Vergewissern Sie sich, dass Ihre [Facebook-LaunchPoint-Integration](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) auf dem neuesten Stand ist.
+1. Vergewissern Sie sich, dass Ihre [Facebook-LaunchPoint-Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) auf dem neuesten Stand ist.
 1. Ordnen Sie die Phasen im Umsatzzyklusmodell den Offline-Konversionsphasen auf Facebook zu.
 1. Wenn ein Facebook-Lead aus einer Facebook-Lead-Anzeige generiert wird und eine zugeordnete Phase erreicht, sendet Marketing Offline-Konversionsdaten mehrmals täglich über eine sichere, automatisierte API zurück an Facebook. Die Daten werden im Bericht &quot;Facebook Ads Manager&quot;angezeigt.
 
 >[!MORELIKETHIS]
 >
->* [Einrichten von Facebook-Offline-Konversionen](set-up-facebook-offline-conversions.md)
-
->
-
-
-
+>[Einrichten von Facebook-Offline-Konversionen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
