@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Geben Sie Ihre ON24-Anmeldeinformationen in Marketing - Marketing Docs - Produktdokumentation ein.
 title: Geben Sie Ihre ON24-Anmeldeinformationen in Marketing ein
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ Beginnen wir mit Ihrer ON24-Ereignis-Integration. Wenn Sie Ihre Anmeldedaten bea
 
    * **Anzeigename** : Geben Sie einen Namen für die Verwendung in Marketing ein. Dies kann Ihr Name oder der Name Ihrer Gruppe sein, wenn Sie Anmeldeinformationen freigeben.
    * **Dienst**  - Wählen Sie  **On24** aus dem Dropdown-Menü.
-
    * **Client-Schlüssel** : Geben Sie den ON24-Client-Schlüssel ein, den Sie für die Anmeldung verwenden. Der Clientschlüssel ist eine 32-stellige Zeichenfolge, die eine Mischung aus Buchstaben und Zahlen enthält.
    * **Client-ID** : Geben Sie die 4-stellige ON24-Client-ID ein, die Sie für die Anmeldung verwenden. Sie können die Client-ID und den Client-Schlüssel direkt von Ihrem ON24-Kundenbetreuer abrufen.
 
@@ -67,13 +66,8 @@ Sie können Ihre Anmeldeinformationen bearbeiten, wenn Ihr Kennwort abgelaufen i
 
    ![](assets/nine.png)
 
-Als Nächstes erstellen Sie [Ihr Webinar-Ereignis in ON24](create-your-webinar-event-in-on24.md).
+Als Nächstes erstellen Sie [Ihr Webinar-Ereignis in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
->* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
