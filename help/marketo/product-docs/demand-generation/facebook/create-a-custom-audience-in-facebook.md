@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Erstellen einer benutzerspezifischen Audience in Facebook - Marketing Docs - Produktdokumentation
 title: Erstellen einer benutzerspezifischen Audience in Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) Dienst im Abschnitt &quot;Admin&quot;.
+>* [hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) Dienst im Abschnitt &quot;Admin&quot;.
 >* [Akzeptieren Sie in Ihrem Facebook-Konto die ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Begriffe &quot;Benutzerdefinierte Audiencen&quot;von Facebook.
 
 >
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. Wählen Sie die Registerkarte **Interessenten** und klicken Sie dann auf das Symbol **Über Anzeigenbrücke senden **unten.
+1. Wählen Sie die Registerkarte **Interessenten** und klicken Sie dann unten auf das Symbol **Über Anzeigenbrücke senden**.
 
    ![](assets/222.png)
 
-1. Wählen Sie **Facebook **und klicken Sie auf **Weiter**.
+1. Wählen Sie **Facebook** und klicken Sie auf **Weiter**.
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [hinzufügen führt zu einer benutzerspezifischen Audience in Facebook](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[hinzufügen führt zu einer benutzerspezifischen Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
