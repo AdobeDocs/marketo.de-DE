@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: hinzufügen eines Feldsatzes auf ein Formular - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Feldsatzes auf ein Formular
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Fieldsets sind cool. Sie gruppieren eine Reihe von Feldern. Du kannst auch einen ganzen Block gleichzeitig steuern!
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ Da hast du es!
 
 >[!TIP]
 >
->Sie können das gesamte Feldset je nach einem anderen Feld dynamisch ein-/ausblenden. Erfahren Sie mehr über [Sichtbarkeitsregeln](dynamically-toggle-visibility-of-a-form-field.md).
-
+>Sie können das gesamte Feldset je nach einem anderen Feld dynamisch ein-/ausblenden. Erfahren Sie mehr über [Sichtbarkeitsregeln](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
