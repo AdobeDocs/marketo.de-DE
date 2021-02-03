@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: Bearbeiten eines Ereignis-Kanals - Marketing Docs - Produktdokumentation
 title: Bearbeiten eines Ereignis-Kanals
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Sie können den Typ des Kanals auf der Registerkarte **Zusammenfassung** des Ere
 
 >[!NOTE]
 >
->Ein Programm ist eine spezifische Marketinginitiative. Der **Kanal** ist als Mechanismus für den Versand gedacht, z. B. Webinar, Tradeshow oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, sehen Sie in Ihrer Dropdown-Liste möglicherweise unterschiedliche Kanal. Sie können auch [Ihren eigenen Kanal erstellen.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Ein Programm ist eine spezifische Marketinginitiative. Der **Kanal** ist als Mechanismus für den Versand gedacht, z. B. Webinar, Tradeshow oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, sehen Sie in Ihrer Dropdown-Liste möglicherweise unterschiedliche Kanal. Sie können auch [Ihren eigenen Kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) erstellen.
 
 ## Auf der Registerkarte Zusammenfassung {#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ Ein neuer Kanal kann auch über die Registerkarte **Setup** des Ereignisses zuge
 
    ![](assets/tradeshowchange.png)
 
-1. Klicken Sie auf **Speichern.**
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
