@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Position der Formularbeschriftung ändern - Marketing to Docs - Produktdokumentation
 title: Position der Formularbeschriftung ändern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Position der Formularbeschriftung ändern {#change-form-label-position}
 
-Wenn Sie ein Formular [erstellen, können Sie die Positionierung der Formularfeldbeschriftungen ganz einfach ändern. ](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) So geht es.
+Wenn Sie ein Formular [erstellen, können Sie die Positionierung der Formularfeldbeschriftungen ganz einfach ändern. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) So geht es.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ Wenn Sie ein Formular [erstellen, können Sie die Positionierung der Formularfel
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Wählen Sie die gewünschte **Beschriftung** **Position** aus.
+1. Wählen Sie die gewünschte **Beschriftungsposition** aus.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -50,18 +50,10 @@ Wenn Sie ein Formular [erstellen, können Sie die Positionierung der Formularfel
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Denken Sie daran, den mit den Formularänderungen erstellten Entwurf der Landingpage zu genehmigen.
 
 Gut gemacht! Erkennen Sie, wie einfach es war, die Beschriftungsposition auf einem Formular zu ändern? Okay, sehen wir, was wir tun können, um die Schrift der Formularbeschriftungen zu ändern.
 
 >[!MORELIKETHIS]
 >
->* [Formularschriftfamilie ändern](change-the-form-font-family.md)
-
->
-
-
-
+>[Formularschriftfamilie ändern](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
