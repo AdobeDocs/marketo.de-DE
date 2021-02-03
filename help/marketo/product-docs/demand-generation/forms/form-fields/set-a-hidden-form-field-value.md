@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Ausgeblendete Formularfeldwerte festlegen - MarketingToDocs - Produktdokumentation
 title: Wert für ein ausgeblendetes Formularfeld festlegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ausgeblendete Felder werden in der Regel dynamisch ausgefüllt. Sie werden dem B
 
 >[!PREREQUISITES]
 >
->[Formularfelder als ausgeblendet festlegen](set-a-form-field-as-hidden.md)
+>[Formularfelder als ausgeblendet festlegen](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Wählen Sie das Feld {#select-the-field}
 
@@ -33,11 +33,11 @@ Durch Auswahl von &quot;Standardwert verwenden&quot;können Sie einen bestimmten
 
 ## URL-Parameter {#url-parameter}
 
-Wenn Sie URL-Parameter (Abfrage-Zeichenfolgen) von der Seite erfassen möchten, auf der sich der Benutzer beim Ausfüllen des Formulars befindet, können Sie **URL** **Parameter** verwenden, um das unsichtbare Feld zu füllen.
+Wenn Sie URL-Parameter (Abfrage-Zeichenfolgen) von der Seite erfassen möchten, auf der sich der Benutzer beim Ausfüllen des Formulars befindet, können Sie **URL-Parameter** verwenden, um das unsichtbare Feld zu füllen.
 
 >[!NOTE]
 >
->Parameter sind eine Art Techie, nicht wahr? Sobald man sie aber bekommt, sind sie mächtig. Diese [Wikipedia-Seite auf Abfrage Strings](http://en.wikipedia.org/wiki/Query_string) ist hilfreich.
+>Parameter sind eine Art Techie, nicht wahr? Sobald man sie aber bekommt, sind sie mächtig. Diese [Wikipedia-Seite auf Abfrage Strings](https://en.wikipedia.org/wiki/Query_string) ist hilfreich.
 
 1. Wählen Sie **URL-Parameter** für **Werttyp** abrufen.
 
@@ -53,9 +53,9 @@ Wenn Sie URL-Parameter (Abfrage-Zeichenfolgen) von der Seite erfassen möchten, 
 
 ## Cookie-Wert {#cookie-value}
 
-Wenn Sie Daten in Cookies speichern, können Sie **Cookie** **Wert** verwenden, um Daten beim Senden des Formulars abzurufen.
+Wenn Sie Daten in Cookies speichern, können Sie **Cookie-Wert** verwenden, um Daten beim Senden des Formulars aufzunehmen.
 
-1. Wählen Sie **Cookie** **Wert** für **Get** **Wert** **von**.
+1. Wählen Sie **Cookie-Wert** für **Wert abrufen von**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Wenn Sie Daten in Cookies speichern, können Sie **Cookie** **Wert** verwenden, 
 
 ## Werber-Parameter {#referrer-parameter}
 
-Wenn Sie Daten von der Seite erfassen möchten, von der der Besucher vor dem Ausfüllen des Formulars kam, können Sie **Werber** **Parameter** verwenden.
+Wenn Sie Daten von der Seite erfassen möchten, von der der Besucher vor dem Ausfüllen des Formulars stammt, können Sie den Parameter **Werber** verwenden.
 
-1. Stellen Sie **Get** **value** **Von** auf **Werber** **Parameter** ein.
+1. Legen Sie **Wert abrufen von** auf **Werber-Parameter** fest.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Wenn Sie Daten von der Seite erfassen möchten, von der der Besucher vor dem Aus
 
    >[!TIP]
    >
-   >Sie können einen **Default** **Value** eingeben, falls der Werber-Parameter nicht gefunden wird.
+   >Sie können einen **Standardwert** eingeben, falls der Werber-Parameter nicht gefunden wird.
 
 1. Klicken Sie auf **Fertigstellen**.
 
@@ -90,5 +90,3 @@ Wenn Sie Daten von der Seite erfassen möchten, von der der Besucher vor dem Aus
 1. Klicken Sie auf **Genehmigen und Schließen**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-Süß! Du machst das ziemlich gut. Weitere Informationen zu [Formularen](http://docs.marketo.com/display/docs/forms).
