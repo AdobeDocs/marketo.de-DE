@@ -3,9 +3,9 @@ unique-page-id: 2359677
 description: Verwenden Sie ein Formular in einem Leuchtkasten - Marketing Docs - Produktdokumentation
 title: Formular in einem Leuchtkasten verwenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ein Leuchtkasten ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. So geht es.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,18 +23,15 @@ Ein Leuchtkasten ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Klicken Sie unter **Formular** **Aktionen** auf **Einbetten** **Code**.
+1. Klicken Sie unter **Formularaktionen** auf **Einbettungscode**.
 
    >[!NOTE]
-   >
-   >**Erinnerung**
-   >
    >
    >Das Formular muss genehmigt werden, damit das Element des Einbettungscodes sichtbar/nutzbar ist.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Stellen Sie **Code** **Typ** auf **Leuchtkasten** ein.
+1. Setzen Sie **Codetyp** auf **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
