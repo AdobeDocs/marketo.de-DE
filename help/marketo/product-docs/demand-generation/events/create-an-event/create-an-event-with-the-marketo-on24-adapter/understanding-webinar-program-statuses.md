@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: Erläuterungen zu Webinar-Programm-Statusangaben - Marketing-Dokumente - Produktdokumentation
 title: Erläuterungen zu Webinar-Programm-Status
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Die Webinar-Programm-Statusangaben {#understanding-webinar-program-statuses}
 
-Der Status eines Programms stellt die verschiedenen Ereignisses dar, die eine Person als Mitglied des Ereignisses durchläuft. Sie sind mit einem Kanal verknüpft. Marketo verfügt über einen integrierten Kanal namens **Webinar**. Status können sowohl in Batch- als auch in Trigger-Kampagnen verwendet werden.
+Der Status eines Programms stellt die verschiedenen Ereignisses dar, die eine Person als Mitglied des Ereignisses durchläuft. Sie sind mit einem Kanal verknüpft. Marketo verfügt über einen integrierten Kanal namens **Webinar**. Status können sowohl in Kampagnen von Stapeln als auch von Triggern verwendet werden.
 
 Die Menschen durchlaufen die Statusangaben des Programms linear und gehen nicht zurück. Beispielsweise kann eine Person mit dem Status **Anwesend** nicht zu **Registered** zurückwechseln.
 
@@ -27,9 +27,9 @@ Im Folgenden werden die mit dem Webinar-Kanal verbundenen Programm-Status kurz b
 
 **Nicht im Programm**  - Verwenden Sie diesen Status, um Personen aus dem Ereignis zu entfernen.
 
-** Eingeladen** - Verwenden Sie diesen Status, um dem Ereignis Personen hinzuzufügen.
+**Eingeladen**  - Verwenden Sie diesen Status, um dem Ereignis Personen hinzuzufügen.
 
-**Ausstehende Genehmigung**  - Verwenden Sie diesen Status, um die Versendung einer Bestätigungs-E-Mail an Ihre Personen zu unterbrechen. Weitere Informationen finden Sie unter &quot;Manuelles Genehmigen von Registranten&quot;in [ON24 Ereignis Registration Updates](on24-event-registration-updates.md).
+**Ausstehende Genehmigung**  - Verwenden Sie diesen Status, um die Versendung einer Bestätigungs-E-Mail an Ihre Personen zu unterbrechen. Weitere Informationen finden Sie unter &quot;Manuelles Genehmigen von Registranten&quot;in [ON24 Ereignis Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md).
 
 **Warteliste**  - Verwenden Sie diesen Status, um einige Personen so lange warten zu lassen, bis weitere Plätze verfügbar sind.
 
@@ -43,7 +43,7 @@ Im Folgenden werden die mit dem Webinar-Kanal verbundenen Programm-Status kurz b
 >
 >Wenn ein Registrierungsfehler auftritt, können Sie weitere Informationen zu dieser Person abrufen, indem Sie die Spalte &quot;Statusgrund&quot;auf der Registerkarte &quot;Mitglieder&quot;Ihres Programms aufrufen. Nachdem der Fehler behoben wurde, können Sie den Status des Programms des Benutzers manuell in &quot;Registered in Marketo&quot;ändern.
 
-**Teilnehmer**: Am Ende des Webinars gibt ON24 eine Liste der Teilnehmenden zurück. Dieser Status wird automatisch nach Marketo gezogen.
+**Teilnehmer** : Am Ende des Webinars gibt ON24 eine Liste der Teilnehmenden zurück. Dieser Status wird automatisch nach Marketo gezogen.
 
 **Angezeigt On-Demand**  - Personen, die an der archivierten Version des Webinars teilgenommen haben, erhalten diesen Status.
 
@@ -55,9 +55,4 @@ Im Folgenden werden die mit dem Webinar-Kanal verbundenen Programm-Status kurz b
 
 >[!MORELIKETHIS]
 >
->* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
