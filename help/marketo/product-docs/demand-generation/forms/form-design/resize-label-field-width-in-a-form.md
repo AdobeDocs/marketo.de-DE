@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: Größe der Beschriftung/Feldbreite in einem Formular ändern - Marketing-Dokumente - Produktdokumentation
 title: Ändern der Größe von Beschriftung/Feldbreite in einem Formular
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Es gibt zwei Möglichkeiten, sowohl die Feldbeschriftungsbreite als auch die Fel
 
 ## Ziehen und ablegen Sie die Breite {#drag-and-drop-the-width}
 
-1. Wählen Sie im [Formular-Editor](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md) das Feld aus, dessen Größe Sie ändern möchten.
+1. Wählen Sie im [Formular-Editor](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) das Feld aus, dessen Größe Sie ändern möchten.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
