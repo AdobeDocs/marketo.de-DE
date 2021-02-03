@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Landingpages auf Facebook - Marketing-Dokumente - Produktdokumentation veröffentlichen
 title: Landingpages auf Facebook veröffentlichen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Sie können Ihre Landingpages auf Facebook veröffentlichen, Ihre Audience dort treffen, wo sie bereits hängen, und mehr Traffic zu Ihren Programms generieren.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard &amp; Select. Enterprise mit separat lizenzierter Funktion.
 
@@ -65,8 +63,4 @@ Nehmen wir an, Sie starten ein neues Buch, Sie können einige Ihrer Audiencen pe
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Um die Landingpage aus Facebook zu entfernen, heben Sie die Genehmigung in Marketing auf und wählen Sie bei Aufforderung die Option zum Entfernen der Facebook-Registerkarte aus.
-
