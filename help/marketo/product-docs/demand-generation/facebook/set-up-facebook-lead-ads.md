@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Einrichten von Facebook-Interessentenanzeigen - Marketing-Dokumente - Produktdokumentation
 title: Einrichten von Facebook-Interessentenanzeigen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Verwenden Sie [Facebook-Interessentenanzeigen](https://www.facebook.com/business
 >
 >**Administratorberechtigungen erforderlich**
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Um Facebook-Interessentenanzeigen zu Ihrer Instanz hinzuzufügen, wenden Sie sich bitte an Ihren Kundenbetreuer.
 
@@ -37,7 +35,7 @@ Verwenden Sie [Facebook-Interessentenanzeigen](https://www.facebook.com/business
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [www.facebook.com.](http://www.facebook.com.) Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
+1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [facebook.com](http://www.facebook.com). Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
 
    >[!NOTE]
    >
@@ -69,7 +67,7 @@ Verwenden Sie [Facebook-Interessentenanzeigen](https://www.facebook.com/business
 
    >[!TIP]
    >
-   >Durch Ändern der Zuordnungen können Sie anpassen, wo die Daten der Interessentenanzeigen in Marketo gespeichert werden. Sie können auch [Daten aus Interessentenanzeigen Benutzerspezifische Fragen](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md) abrufen.
+   >Durch Ändern der Zuordnungen können Sie anpassen, wo die Daten der Interessentenanzeigen in Marketo gespeichert werden. Sie können auch [Daten aus Interessentenanzeigen Benutzerspezifische Fragen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md) abrufen.
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Verwenden Sie [Facebook-Interessentenanzeigen](https://www.facebook.com/business
 
 >[!MORELIKETHIS]
 >
->* [Filter und Auslöser von Interessentenanzeigen in einer intelligenten Kampagne verwenden](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Benutzerdefinierte Felder zu Markieren zuordnen](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [Filter und Trigger von Interessentenanzeigen in einer intelligenten Kampagne verwenden](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Benutzerdefinierte Felder zu Markieren zuordnen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
