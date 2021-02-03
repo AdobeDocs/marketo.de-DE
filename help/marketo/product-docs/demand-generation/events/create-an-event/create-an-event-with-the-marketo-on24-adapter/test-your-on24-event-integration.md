@@ -3,7 +3,7 @@ unique-page-id: 10096677
 description: On24-Ereignis-Integration testen - Marketing Docs - Produktdokumentation
 title: On24-Ereignis-Integration testen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -35,10 +35,6 @@ So werden die Daten nach dem Ereignis aktualisiert:
 
 >[!MORELIKETHIS]
 >
->* [Beispiel für eine ON24-Ereignis-Integration](example-on24-event-integration.md)
->* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
-
->
-
-
+>* [Beispiel für eine ON24-Ereignis-Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
