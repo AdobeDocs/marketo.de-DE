@@ -3,7 +3,7 @@ unique-page-id: 2359649
 description: Schaltflächentext "Formular senden"ändern - Marketing to Docs - Produktdokumentation
 title: Schaltflächentext "Formular senden"ändern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können die Schaltfläche &quot;Formulare&quot;schnell und einfach von &quot;Senden&quot;in ein beliebiges anderes Wort ändern. So geht es.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
@@ -42,4 +42,3 @@ Sie können die Schaltfläche &quot;Formulare&quot;schnell und einfach von &quot
    Bam!
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)
-
