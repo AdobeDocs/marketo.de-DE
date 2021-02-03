@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: Formular erstellen - Marketing-Dokumente - Produktdokumentation
 title: Formular erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo mit [macht, um Ihre Formulare sicher zu halten](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo mit [macht, um Ihre Formulare sicher zu halten](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ Süß! Nun, da das Formular erstellt wurde, lassen Sie es uns anziehen.
 
 >[!MORELIKETHIS]
 >
->* [Formularentwurf auswählen](select-a-form-theme.md)
->* [hinzufügen eines Feldsatzes auf ein Formular](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [Formularentwurf auswählen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [hinzufügen eines Feldsatzes auf ein Formular](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
