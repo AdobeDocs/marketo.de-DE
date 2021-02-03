@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst - Marketing Docs - Produktdokumentation
 title: hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Verbinden Sie Ihr Marketing-Konto mit LinkedIn-übereinstimmenden Audiencen, um 
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **Anzeigenamen** ein und wählen Sie **LinkedIn-übereinstimmende Audiencen**. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigenamen** ein und wählen Sie **LinkedIn Matched Audiencen**. Klicken Sie auf **Erstellen**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -61,9 +61,4 @@ Verbinden Sie Ihr Marketing-Konto mit LinkedIn-übereinstimmenden Audiencen, um 
 
 >[!MORELIKETHIS]
 >
->* [Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
