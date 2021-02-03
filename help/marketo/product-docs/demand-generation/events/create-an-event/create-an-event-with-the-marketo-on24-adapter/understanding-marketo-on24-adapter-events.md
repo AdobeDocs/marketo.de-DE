@@ -3,7 +3,7 @@ unique-page-id: 10096658
 description: Die Ereignis des Marketo On24-Adapters - MarketingToDocs - Produktdokumentation
 title: Ereignisse des Marketo On24-Adapters
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -23,13 +23,8 @@ Die nachstehende Grafik zeigt den Integrationsprozess.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Bereit zu beginnen? Beginn mit [Erstellen Sie ein Ereignis mit dem ON24-Adapter](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
+Bereit zu beginnen? Beginn mit [Erstellen Sie ein Ereignis mit dem ON24-Adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Ereignisses mit dem Marketo ON24-Adapter](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-
->
-
-
-
+>[Erstellen eines Ereignisses mit dem Marketo ON24-Adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
