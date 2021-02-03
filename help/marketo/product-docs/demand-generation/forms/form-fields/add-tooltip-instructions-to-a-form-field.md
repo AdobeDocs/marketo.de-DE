@@ -3,9 +3,9 @@ unique-page-id: 2359673
 description: hinzufügen Hinweise zu einem Formularfeld - Marketing Docs - Produktdokumentation
 title: Anweisungen zur Hinzufügen eines Formularfelds
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Anweisungen für die Hinzufügen eines Formularfelds {#add-tooltip-instructions-to-a-form-field}
 
-[](add-hint-text-to-a-form-field.md) Hinweise und Anleitungen helfen den Benutzern beim Ausfüllen von Formularen. So fügen Sie QuickInfo-Anweisungen hinzu.
+[](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) Hinweise und Anleitungen helfen den Benutzern beim Ausfüllen von Formularen. So fügen Sie QuickInfo-Anweisungen hinzu.
 
 >[!NOTE]
 >
@@ -45,18 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Vergessen Sie nicht, [den von den Formularänderungen erstellten Entwurf der Landingpage](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen.
+   >Vergessen Sie nicht, [den von den Formularänderungen erstellten Entwurf der Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
 Fantastische Arbeit! Die QuickInfo wird angezeigt, wenn der Besucher den Mauszeiger über das Feld bewegt.
-
->[!NOTE]
->
->**Tieftauchen**
->
->Es gibt so viel, was Sie mit [Formularen](http://docs.marketo.com/display/docs/forms) tun können.
-
