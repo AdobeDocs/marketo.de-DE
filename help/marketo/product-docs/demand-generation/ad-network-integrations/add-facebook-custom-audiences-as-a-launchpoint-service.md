@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-Dienst - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen benutzerdefinierter Facebook-Audiencen als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [www.facebook.com.](http://www.facebook.com./) Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
+1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [facebook.com](http://www.facebook.com/). Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    >[!NOTE]
    >
-   >Sie müssen *ein Facebook Business Manager-Konto verwenden, damit Ihre Integration mit benutzerspezifischen Audiencen funktioniert.* Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
+   >Sie müssen _ein Facebook Business Manager-Konto verwenden, damit Ihre Integration mit benutzerspezifischen Audiencen funktioniert._ Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
 
-1. Wenn Sie dazu aufgefordert werden, klicken Sie auf **OK **OK, um die Installation der Marketing-App in Facebook zu akzeptieren.
+1. Wenn Sie dazu aufgefordert werden, klicken Sie auf **OK**, um die Installation der Marketing-App in Facebook zu akzeptieren.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    >[!NOTE]
    >
-   >**Basis-Übereinstimmung** verwendet nur E-Mail-Adressen.**Advanced** Matchinguses verwendet sieben weitere Felder, wodurch die Übereinstimmungsrate erhöht wird, um mehr Konversionen zu erzielen. Wenn die Datenschutzrichtlinien Ihrer Firma die Freigabe zusätzlicher Felder nicht zulassen oder wenn Ihre Daten diese nicht enthalten, wählen Sie &quot;Grundlegende Übereinstimmung&quot;.
+   >**Basis-** Übereinstimmung verwendet nur E-Mail-Adressen. **Advanced** Matchinguses verwendet sieben weitere Felder, wodurch die Übereinstimmungsrate erhöht wird, um mehr Konversionen zu erzielen. Wenn die Datenschutzrichtlinien Ihrer Firma die Freigabe zusätzlicher Felder nicht zulassen oder wenn Ihre Daten diese nicht enthalten, wählen Sie &quot;Grundlegende Übereinstimmung&quot;.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer benutzerspezifischen Audience in Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Erstellen einer benutzerspezifischen Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Einrichten von Facebook-Interessentenanzeigen](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [Einrichten von Facebook-Interessentenanzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
