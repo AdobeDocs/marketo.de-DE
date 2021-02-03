@@ -3,9 +3,9 @@ unique-page-id: 17728023
 description: Erstellen eines Ereignisses mit Zoom - Marketing Docs - Produktdokumentation
 title: Ereignis mit Zoom erstellen
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* [hinzufügen Zoom als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stellen Sie die entsprechenden [Flussaktionen](http://docs.marketo.com/display/DOCS/Flow+Actions)ein, um Interaktionen zu verfolgen.
+>* Stellen Sie die entsprechenden [Flussaktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)ein, um Interaktionen zu verfolgen.
 
 
 Erstellen Sie zuerst Ihr Webinar im Zoom. Bestimmte Einstellungen bei der Erstellung des Zooms werden von Marker verwendet, andere werden nur von Zoom verwendet.
