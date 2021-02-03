@@ -3,7 +3,7 @@ unique-page-id: 2359566
 description: Bearbeiten einer Feldbeschriftung in einem Formular - Marketing-Dokumente - Produktdokumentation
 title: Bearbeiten einer Feldbeschriftung in einem Formular
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können die Beschriftung eines Formulars in alles ändern - Sie können sogar ein Bild verwenden oder es komplett löschen! Hier ist, wie man das macht.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
@@ -29,9 +29,7 @@ Sie können die Beschriftung eines Formulars in alles ändern - Sie können soga
 
    >[!TIP]
    >
-   >Wenn Sie sich etwas vorstellen möchten, klicken Sie auf die   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
-   >
-   > . Dadurch öffnet sich ein Rich-Text-Editor und Sie können mit Bildern, Links und mehr in die Stadt gehen!
+   >Wenn Sie sich etwas vorstellen möchten, können Sie auf den ![Bleistift](assets/image2014-9-15-17-3a27-3a7.png) klicken. Dadurch öffnet sich ein Rich-Text-Editor und Sie können mit Bildern, Links und mehr in die Stadt gehen!
 
 1. Klicken Sie auf **Fertigstellen**.
 
@@ -43,9 +41,6 @@ Sie können die Beschriftung eines Formulars in alles ändern - Sie können soga
 
 >[!NOTE]
 >
->**Erinnerung**
->
->Vergessen Sie nicht, [den von den Formularänderungen erstellten Entwurf der Landingpage](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen.
+>Vergessen Sie nicht, [den von den Formularänderungen erstellten Entwurf der Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen.
 
 Da hast du es! Nach und nach werden Sie zu einem Formularentwickler-Meister.
-
