@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Erstellen Sie ein Ereignis mit Adobe Connect - Marketing Docs - Produktdokumentation
 title: Ereignis mit Adobe Connect erstellen
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Conn
 
    >[!MORELIKETHIS]
    >
-   > * [hinzufügen Adobe Connect als LaunchPoint-Dienst](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Bearbeiten eines Ereignis-Kanals](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [hinzufügen Adobe Connect als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [Bearbeiten eines Ereignis-Kanals](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 Personen, die sich für Ihr Webinar anmelden, werden über den Schritt zum Ändern des Status des Programms an Ihren Webinaranbieter weitergeleitet, wenn der neue Status auf &quot;Registriert&quot;eingestellt ist. Kein anderer Status wird die Person übertreiben. Stellen Sie außerdem sicher, dass Sie den Schritt zum Ändern des Status des Programms 1 und zum Senden der E-Mail-Zustellung Schritt 2 durchführen.
