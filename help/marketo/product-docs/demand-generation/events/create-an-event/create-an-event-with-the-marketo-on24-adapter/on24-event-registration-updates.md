@@ -3,7 +3,7 @@ unique-page-id: 10096683
 description: ON24 Ereignis Registration Updates - Marketing Docs - Produktdokumentation
 title: ON24-Ereignis-Registrierungsaktualisierungen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 Sie können Ihre Registrierungspflichtigen manuell genehmigen, bevor Sie ihnen eine Bestätigungs-E-Mail senden. Dazu müssen Sie Ihre Kampagnen so konfigurieren, dass sie diesen zusätzlichen Schritt handhaben:
 
-1. Kampagne zum Registrierungsauslöser:
+1. Für die Kampagne zum Trigger registrieren:
 
-   * Legen Sie in der Smart-Liste den Auslöser auf **Ausfüllbares Formular** fest.
+   * Legen Sie in der Smart-Liste den Trigger auf **Ausfüllbares Formular** fest.
    * Stellen Sie im Fluss den Status in Progression auf **Ausstehende Genehmigung** ein.
 
 1. Gehen Sie zum Ereignis und klicken Sie auf die Registerkarte **Members**. Auf dieser Registerkarte werden alle Personen angezeigt, die das Formular ausgefüllt haben. Ihr Status sollte auf **Ausstehende Genehmigung** eingestellt werden.
@@ -41,9 +41,4 @@ Marketo holt die Anwesenheitsinformationen automatisch um ca. 23.00 Uhr Pazifik 
 
 >[!MORELIKETHIS]
 >
->* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
