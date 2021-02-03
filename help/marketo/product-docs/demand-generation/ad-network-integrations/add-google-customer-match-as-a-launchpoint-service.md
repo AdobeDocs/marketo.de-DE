@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: hinzufügen Google Customer Match als LaunchPoint Service - Marketing Docs - Produktdokumentation
 title: hinzufügen Google-Kundenabgleich als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ Mit dieser Integration können Sie eine Marketo-Audience an Google senden, die m
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Wählen Sie **Neu** dann** Neuer Dienst**.
+1. Wählen Sie **Neu** und **Neuer Dienst**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **Anzeigenamen **ein und wählen Sie** Google-Kundenübereinstimmung **aus der Dropdownliste **Dienst**. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigenamen** ein und wählen Sie **Google-Kundenübereinstimmung** aus der Dropdownliste **Dienst**. Klicken Sie auf **Erstellen**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Mit dieser Integration können Sie eine Marketo-Audience an Google senden, die m
 
    >[!CAUTION]
    >
-   >Damit Marketo Audiencen über mehrere AdWords-Konten senden kann, muss der Google-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Konten haben.
+   >Damit Marketo Audiencen über mehrere AdWords-Konten senden kann, muss der Google-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf _alle_ dieser Konten haben.
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ Mit dieser Integration können Sie eine Marketo-Audience an Google senden, die m
    ![](assets/authorizesuccess.png)
 
    Fantastisch! Google Matched-Audiencen werden jetzt auf der Registerkarte &quot;Installierte Dienste&quot;als LaunchPoint-Dienst aufgeführt.
-
