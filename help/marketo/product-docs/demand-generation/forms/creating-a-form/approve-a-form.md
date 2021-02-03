@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Formular genehmigen - Marketing-Dokumente - Produktdokumentation
 title: Formular genehmigen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Um ein Formular zu einer Ihrer Landingpages hinzuzufügen, muss es genehmigt wer
 
 Hier sehen Sie, wie Sie ein vorhandenes Formular genehmigen können, das fertig ist.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ Hier sehen Sie, wie Sie ein vorhandenes Formular genehmigen können, das fertig 
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Es ist genehmigt und kann [zu einer Landingpage](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) hinzugefügt werden.
+   Es ist genehmigt und kann [zu einer Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) hinzugefügt werden.
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ Wenn Sie Änderungen an einem Formular vornehmen, können Sie die Seite direkt i
 
 >[!PREREQUISITES]
 >
->* [Formular bearbeiten](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [Formular bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. Klicken Sie auf **Fertigstellen**.
@@ -63,8 +60,6 @@ Wenn Sie Änderungen an einem Formular vornehmen, können Sie die Seite direkt i
 
 >[!NOTE]
 >
->**Erinnerung**
->
->Denken Sie daran, wenn Sie das Formular nach der Genehmigung bearbeiten, müssen Sie die Landingpage [genehmigen, um die Änderungen zu sehen.](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
+>Denken Sie daran, wenn Sie das Formular nach der Genehmigung bearbeiten, müssen Sie die Landingpage [genehmigen, um die Änderungen zu sehen.](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
 
 Das ist&#39;s! Einfach, wie es sein kann.
