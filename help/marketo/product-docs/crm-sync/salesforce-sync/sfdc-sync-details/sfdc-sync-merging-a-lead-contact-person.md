@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7515133
-description: SFDC-Synchronisierung - Zusammenführen eines Interessenten/Kontakts/einer Person - Marketing Docs - Produktdokumentation
+description: SFDC-Synchronisierung - Zusammenführen von Lead/Kontakt/Person - Marketing-Dokumente - Produktdokumentation
 title: SFDC-Synchronisierung - Zusammenführen eines Interessenten/Kontakts/einer Person
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ Manchmal ist es am besten, nur die Regeln Liste. Gehen wir weiter:
 
 >[!NOTE]
 >
->**Beispiel**
->
 >Die Zusammenführung von 3 Interessenten (Personen) mit 10 Punkten pro, ergibt ein Ergebnis von 1 Interessent (Person) mit einem Ergebnis von 30.
 
 * Konfliktende Feldwerte werden aus dem Gewinn-Datensatz genommen. (Datensatz = resultierender Interessent oder Kontakt)
@@ -32,7 +30,4 @@ Manchmal ist es am besten, nur die Regeln Liste. Gehen wir weiter:
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Tief tauchen für weitere Informationen über [Personen in Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) zusammenführen.
-
+>Tief tauchen für weitere Informationen über [Personen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) zusammenführen.
