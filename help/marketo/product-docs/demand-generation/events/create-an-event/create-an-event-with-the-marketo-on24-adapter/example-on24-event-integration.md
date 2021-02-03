@@ -3,7 +3,7 @@ unique-page-id: 10096679
 description: Beispiel für eine ON24-Ereignis-Integration - Marketing Docs - Produktdokumentation
 title: Beispiel für eine ON24-Ereignis-Integration
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON2
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Wählen Sie **Ereignis **als **Programm-Typ**.
+1. Wählen Sie **Ereignis** als **Programm-Typ**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Wählen Sie **Webinar **als **Kanal **für das Ereignis.
+1. Wählen Sie **Webinar** als **Kanal** für das Ereignis aus.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -51,15 +51,15 @@ Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON2
 
 * **Plan** : Legen Sie das Datum für den Versand der Einladung fest.
 
-## Registrierung/Bestätigung (Auslöser-Kampagne) {#registration-confirmation-trigger-campaign}
+## Registrierung/Bestätigung (Trigger-Kampagne) {#registration-confirmation-trigger-campaign}
 
 * **Intelligente Liste**
 
-   * Auslösen der Kampagne auf der Grundlage von **Ausfüllen des Formulars**. Stellen Sie sicher, dass Sie die Landingpage, auf der sich das Formular befindet, mit **Hinzufügen Constraint** einschließen, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
+   * Trigger der Kampagne auf Basis von **Ausfüllen des Formulars**. Stellen Sie sicher, dass Sie die Landingpage, auf der sich das Formular befindet, mit **Hinzufügen Constraint** einschließen, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
 >
->Sie müssen ein Marketo-Formular verwenden, um Personen für das Ereignis zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Ereignis-Partnerintegration. **HINWEIS**: Wenn Sie ein Marketo-Formular für eine Nicht-Marketo-Landingpage verwenden, wird als Auslöser das  **Ausfüllen von** Formularen mit dem Formularbennamen verwendet.
+>Sie müssen ein Marketo-Formular verwenden, um Personen für das Ereignis zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Ereignis-Partnerintegration. **HINWEIS**: Wenn Sie ein Marketo-Formular für eine Nicht-Marketo-Landingpage verwenden, lautet Ihr Trigger  **Ausfüllen des** Formulars mit dem Formularnamen.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
@@ -81,9 +81,9 @@ Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON2
 
 **HINWEIS**: Sie können eine ähnliche Kampagne verwenden, um eine  ** andere Follow-up-E-Mail an eingeladene, aber noch nicht registrierte Benutzer zu senden.
 
-## Follow-up-Kampagne (Batch- oder Trigger-Kampagne) {#follow-up-campaign-batch-or-trigger-campaign}
+## Follow-up-Kampagne (Stapel- oder Trigger-Kampagne) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Intelligente Liste**  - Auslöser basierend auf Änderungen im Programm-Status.
+* **Intelligente Liste**  - Trigger basierend auf Änderungen im Programm-Status.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
@@ -93,9 +93,4 @@ Hier ist ein Beispiel für ein Ereignis, einschließlich Kampagnen, für ein ON2
 
 >[!MORELIKETHIS]
 >
->* [Ereignisse des Marketo ON24-Adapters](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
