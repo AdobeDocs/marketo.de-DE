@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: Verwenden von Benutzerkonten - Marketing Docs - Produktdokumentation
 title: Verwenden von Benutzerkonten
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Aktivitäten zu Personenkonten werden im Bedienfeld **Konto** angezeigt.
 
 >[!NOTE]
 >
->Marketo Sales Insight&#39;s **Hinzufügen an Marketing Kampagne **und **E-Mail senden **Optionen sind derzeit nicht für Personenkonten verfügbar.
+>Die Optionen **Hinzufügen** und **E-Mail senden** von Marketo Sales Insight stehen derzeit nicht für Personenkonten zur Verfügung.
 
 ## Wie verknüpfe ich Chancen mit einem Personenkonto? {#how-do-i-associate-opportunities-to-a-person-account}
 
