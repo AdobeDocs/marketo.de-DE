@@ -3,7 +3,7 @@ unique-page-id: 2359870
 description: Suchen Sie die URL eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketing Docs - Produktdokumentation
 title: Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Suchen Sie die Internetadresse (URL) eines hochgeladenen Bildes oder einer hochg
 
    ![](assets/designstudio-4.png)
 
-1. Klicken Sie im linken Menü auf **Bilder** **und** **Dateien** und wählen Sie dann die Datei aus, für die Sie die URL verwenden möchten.
+1. Klicken Sie im linken Menü auf **Bilder und Dateien** und wählen Sie dann die Datei aus, für die Sie die URL verwenden möchten.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
@@ -31,9 +31,4 @@ Geben Sie sich einen Pat auf den Rücken für eine Arbeit gut gemacht!
 
 >[!MORELIKETHIS]
 >
->* [Hochgeladene Bilder oder Dateien ersetzen](replace-an-uploaded-image-or-file.md)
-
->
-
-
-
+>[Hochgeladene Bilder oder Dateien ersetzen](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
