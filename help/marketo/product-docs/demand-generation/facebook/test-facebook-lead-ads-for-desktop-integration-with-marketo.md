@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Testen von Facebook-Interessentenanzeigen für die Integration von Desktop mit Marketing - Marketing - Dokumentation
 title: Testen von Facebook-Interessentenanzeigen für die Desktop-Integration mit Marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen! Hi
 
 >[!PREREQUISITES]
 >
->Sie müssen [die Facebook-Interessentenwerbungsintegration](set-up-facebook-lead-ads.md) einrichten.
+>Sie müssen [die Facebook-Interessentenwerbungsintegration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) einrichten.
 
 1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **Bearbeiten**.
+
 1. Klicken Sie unter **Links** auf den Link **Ansicht in News Feed**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
@@ -40,7 +41,7 @@ Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen! Hi
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine intelligente Liste in Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Filter &quot;Facebook-Interessentenanzeigeformular&quot;verwendet. Geben Sie den Namen des Interessentenanwerbungsformulars des soeben gesendeten Formulars ein.
+1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine intelligente Liste in Marketing](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Filter &quot;Facebook-Interessentenanzeigeformular&quot;verwendet. Geben Sie den Namen des Interessentenanwerbungsformulars des soeben gesendeten Formulars ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
@@ -50,13 +51,6 @@ Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen! Hi
 
    Ist das cool oder was?
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Einrichten von Facebook-Interessentenanzeigen](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Einrichten von Facebook-Interessentenanzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
