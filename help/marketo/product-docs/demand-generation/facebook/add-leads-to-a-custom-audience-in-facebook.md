@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: hinzufügen führt zu einer benutzerspezifischen Audience in Facebook - Marketing Docs - Produktdokumentation
 title: hinzufügen führt zu einer benutzerspezifischen Audience in Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sie haben bereits eine benutzerdefinierte Audience in Facebook und möchten weit
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer benutzerspezifischen Audience in Facebook](create-a-custom-audience-in-facebook.md)
+>* [Erstellen einer benutzerspezifischen Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Akzeptieren Sie die ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Bezeichnungen der benutzerspezifischen Audiencen in Ihrem Facebook-Konto.
 
 >
@@ -28,11 +28,11 @@ Sie haben bereits eine benutzerdefinierte Audience in Facebook und möchten weit
 
    ![](assets/one.png)
 
-1. Wählen Sie die Registerkarte **Interessenten** und klicken Sie dann auf das Symbol **Über Anzeigenbrücke senden **unten.
+1. Wählen Sie die Registerkarte **Interessenten** und klicken Sie dann unten auf das Symbol **Über Anzeigenbrücke senden**.
 
    ![](assets/two-1.png)
 
-1. Wählen Sie **Facebook **und klicken Sie auf **Weiter**.
+1. Wählen Sie **Facebook** und klicken Sie auf **Weiter**.
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ Sie haben bereits eine benutzerdefinierte Audience in Facebook und möchten weit
 
    >[!NOTE]
    >
-   >**hinzufügen führt zur Audience: Es sind** nur Facebook-Audiencen mit einem benutzerdefinierten Untertyp verfügbar.\
+   >**hinzufügen führt zur Audience**: Es sind nur Facebook-Audiencen mit einem benutzerdefinierten Untertyp verfügbar.\
    >**Entfernen Sie Interessenten aus der Audience**: entfernt die Leads in Ihrer statischen oder intelligenten Liste aus einer Facebook-Audience.
 
 1. Nach Abschluss des Vorgangs wird der Status aktualisiert.
@@ -53,10 +53,4 @@ Sie haben bereits eine benutzerdefinierte Audience in Facebook und möchten weit
 
    >[!NOTE]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Erstellen einer benutzerspezifischen Audience in Facebook](create-a-custom-audience-in-facebook.md)
-
-
+   >[Erstellen einer benutzerspezifischen Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
