@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular - Marketing-Dokumente - Produktdokumentation
 title: Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Sobald Sie [einen Feldtyp](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) als Optionsfeld oder Auswahltyp festgelegt haben, müssen Sie die Werte definieren, aus denen der Benutzer auswählen kann. So geht es.
+Sobald Sie [einen Feldtyp](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) als Optionsfeld oder Auswahltyp festgelegt haben, müssen Sie die Werte definieren, aus denen der Benutzer auswählen kann. So geht es.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ Sobald Sie [einen Feldtyp](../../../../product-docs/administration/field-managem
    >
    >**Definition**
    >
-   >
    >**Anzeigewert:** Was dem Besucher angezeigt wird.
-   >
    >
    >**Gespeicherter Wert:** Was wird in Marketo aufgezeichnet.
 
@@ -65,4 +63,4 @@ Sobald Sie [einen Feldtyp](../../../../product-docs/administration/field-managem
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Super! Du machst es wirklich gut. Erfahren Sie mehr über [Formulare](http://docs.marketo.com/display/docs/forms).
+Super! Du machst es wirklich gut.
