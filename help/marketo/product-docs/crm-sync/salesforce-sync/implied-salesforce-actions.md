@@ -3,9 +3,9 @@ unique-page-id: 4719304
 description: Implizierte Salesforce-Aktionen - Marketing Docs - Produktdokumentation
 title: Implizierte Salesforce-Aktionen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn ein Salesforce-spezifischer Flussschritt ausgeführt wird, werden manchmal zusätzliche Schritte automatisch ausgeführt. Hier sind die Regeln, Sie wissen also:
 
-Diese Regeln gelten für *wenn sich die Person derzeit nicht unter [Salesforce.com](http://Salesforce.com)* als Kontakt oder Interessent befindet.
+Diese Regeln gelten für _wenn sich die Person derzeit nicht unter [Salesforce.com](http://Salesforce.com)_ als Kontakt oder Interessent befindet.
 
 <table> 
  <thead> 
@@ -50,6 +50,4 @@ Diese Regeln gelten für *wenn sich die Person derzeit nicht unter [Salesforce.c
 
 Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des Filters **SFDC-Typ** herausfiltern, wobei der Operator auf &quot;ist nicht leer&quot;gesetzt ist. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
-Beachten Sie, dass diese automatischen Aktionen nur stattfinden, wenn der Interessent derzeit nicht unter [Salesforce.com](http://Salesforce.com)
-
-Die Salesforce-Synchronisierung ist cool, nicht wahr?
+Beachten Sie, dass diese automatischen Aktionen nur stattfinden, wenn der Interessent derzeit nicht unter [Salesforce.com](https://salesforce.com)
