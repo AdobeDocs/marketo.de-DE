@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: Häufig gestellte Fragen zu LinkedIn-Social-Formularelefüllen - Marketing Docs - Produktdokumentation
 title: Häufig gestellte Fragen zur LinkedIn Social-Formularausfüllung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Die überarbeitete API-Richtlinie von LinkedIn erforderte, dass LinkedIn Social-
 
 ## Wichtige Dinge, die Sie wissen sollten {#important-things-to-know}
 
-* Die Schaltflächen zum Ausfüllen von LinkedIn-Social-Formularen sind ab dem 28. April 2016 nicht mehr verfügbar
+* Die Schaltflächen zum Ausfüllen von LinkedIn-Social-Formularen waren ab dem 28. April 2016 nicht mehr als Option zum Hinzufügen zu Marketo verfügbar
 
 * Wir haben die Schaltfläche zum Ausfüllen von LinkedIn-Social-Formularen aus allen Formularen entfernt, für die sie aktiviert war
 
