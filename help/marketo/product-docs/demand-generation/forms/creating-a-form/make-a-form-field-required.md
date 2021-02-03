@@ -3,9 +3,9 @@ unique-page-id: 2359569
 description: Formularfelder erforderlich machen - Marketing-Dokumente - Produktdokumentation
 title: Formularfelder erforderlich machen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Formularfeld erforderlich machen {#make-a-form-field-required}
 
-Wenn Sie [Felder zu einem Formular](add-a-field-to-a-form.md) hinzufügen, müssen Sie eventuell einige dieser Felder für die ausgefüllte Person erforderlich machen. So geht es.
+Wenn Sie [Felder zu einem Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) hinzufügen, müssen Sie eventuell einige dieser Felder für die ausgefüllte Person erforderlich machen. So geht es.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/editform-2.png)
 
@@ -37,8 +37,6 @@ Wenn Sie [Felder zu einem Formular](add-a-field-to-a-form.md) hinzufügen, müss
 
 >[!NOTE]
 >
->**Erinnerung**
->
->Vergessen Sie nicht, [Landingpages](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, damit die Änderungen live gehen.
+>Vergessen Sie nicht, [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, damit die Änderungen live gehen.
 
-Müssen Sie die Felder, die Sie Ihrem Formular hinzugefügt haben, [neu anordnen?](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
+Müssen Sie die Felder, die Sie Ihrem Formular hinzugefügt haben, [neu anordnen?](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
