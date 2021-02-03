@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Benutzerdefiniertes HTML-Formular für bekannte Personen anzeigen - Marketing Docs - Produktdokumentation
 title: Benutzerdefiniertes HTML-Formular für bekannte Personen anzeigen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Wenn ein Besucher in Cookies gespeichert ist (eine bekannte Person, die in der Vergangenheit eine E-Mail-Adresse angegeben hat), warum sollte sich das Formular dann mit dem Formular beschäftigen? Geben Sie ihnen einfach die Download-Schaltfläche. So geht es.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie unter **Marketing** **Aktivitäten** Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie unter **Marketing-Aktivitäten** Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Klicken Sie unter **Formular** **Einstellungen** auf **Einstellungen**.
+1. Klicken Sie unter **Formulareinstellungen** auf **Einstellungen**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Legen Sie fest, ob **Bekannter** **Besucher, Anzeigen**: nach **Benutzerdefiniert** **HTML**.
+1. Wenn **Bekannter Besucher, Anzeigen**: nach **Benutzerdefiniertes HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klicken Sie auf ![—](assets/image2014-9-25-14-3a1-3a26.png), um die **Benutzerspezifische** **HTML** zu bearbeiten, die bekannten Personen angezeigt wird.
+1. Klicken Sie auf ![—](assets/image2014-9-25-14-3a1-3a26.png), um **Benutzerdefiniertes HTML** zu bearbeiten, das Bekannten angezeigt wird.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,15 +66,12 @@ Wenn ein Besucher in Cookies gespeichert ist (eine bekannte Person, die in der V
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Denken Sie daran, [den Formularentwurf](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran, [den Formularentwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, der durch die Formularänderungen erstellt wurde.
+
+   Kuchen! Überprüfen Sie, was eine Person sehen würde, wenn sie dasselbe Formular erneut aufruft:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >Sie können den Klick auf die Schaltfläche zum Asset lenken, indem Sie die Formular-Folgeseite auf die URL der Datei einstellen.
-
-Kuchen! Überprüfen Sie, was eine Person sehen würde, wenn sie dasselbe Formular erneut aufruft:
