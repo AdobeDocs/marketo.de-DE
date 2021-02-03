@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: Ausblenden eines Salesforce-Felds aus der Marketing-Synchronisierung - Marketing-Dokumente - Produktdokumentation
 title: Ausblenden eines Salesforce-Felds aus dem zu synchronisierenden Markt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ Nicht jedes Feld in Salesforce ist nützlich für Marketing. Sie können die Syn
 
    Das ist&#39;s! Dieses Feld wird nach Abschluss der nächsten Synchronisierung nicht mehr in Marketo angezeigt.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Ein Feld ein- und ausblenden](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[Ein Feld ein- und ausblenden](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
