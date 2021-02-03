@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: SFDC-Synchronisierung - Lead-Warteschlange - Marketing Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Interessentenwarteschlange
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Mit Marketo können Sie Personen zu [Salesforce-Interessentenwarteschlangen](htt
 
 Sie können eine Person einer Salesforce-Interessentenwarteschlange mithilfe einer der folgenden Flussaktionen zuweisen:
 
-* [Person mit dem SFDC synchronisieren](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Inhaber ändern](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Person mit dem SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Inhaber ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Wenn ein Interessent einer Warteschlange in Salesforce gehört, bleiben diese Fe
 * Name des Verkäufers
 * Telefonnummer des Verkäufers
 * E-Mail-Adresse des Verkäufers
-
