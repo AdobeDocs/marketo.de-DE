@@ -3,7 +3,7 @@ unique-page-id: 12983101
 description: Benutzerdefinierte Felder Marketo - Marketing Docs - Produktdokumentation zuordnen
 title: Benutzerdefinierte Felder zu Markieren zuordnen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Möglicherweise möchten Sie mehr als die Standardinformationen erfassen, die Facebook speichert, z. B. wie oft jemand Ihren Online-Versand-Dienst verwendet. Dies können Sie erreichen, indem Sie [benutzerdefinierte Fragen](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in Ihren Facebook-Interessentenanzeigen erstellen.
 
-**Marketo Beginn jedoch nicht automatisch, diese Daten zu erfassen.**** ** Damit Marketo benutzerdefinierte Feldwerte erfassen kann, müssen Sie **diese benutzerdefinierten Felder einem Feld in Marketo zuordnen.**
+**Marketo Beginn jedoch nicht automatisch, diese Daten zu erfassen.** Damit Marketo benutzerdefinierte Feldwerte erfassen kann, müssen Sie **diese benutzerdefinierten Felder einem Feld in Marketo zuordnen.**
 
 Hier erfahren Sie, wie Sie dies im Bereich &quot;LaunchPoint&quot;von Admin einrichten.
 
@@ -41,9 +41,7 @@ Hier erfahren Sie, wie Sie dies im Bereich &quot;LaunchPoint&quot;von Admin einr
 
 1. Hier ordnen Sie das benutzerdefinierte Facebook-Feld Ihrem Marketing-Feld zu. Klicken Sie auf **Hinzufügen.**
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. Geben Sie in der neuen Zeile den Namen Ihres benutzerdefinierten Facebook-Felds ein.
 
@@ -59,9 +57,8 @@ Hier erfahren Sie, wie Sie dies im Bereich &quot;LaunchPoint&quot;von Admin einr
 
    >[!NOTE]
    >
-   >Wenn Sie noch kein Feld in Marketo haben, dem das Facebook-Feld zugeordnet werden soll, erfahren Sie, wie Sie [benutzerdefinierte Felder ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) erstellen.
+   >Wenn Sie noch kein Feld in Marketo haben, dem das Facebook-Feld zugeordnet werden soll, erfahren Sie, wie Sie [benutzerdefinierte Felder ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) erstellen.
 
 >[!CAUTION]
 >
 >**müssen Sie diesen Vorgang für jedes neue Facebook-Feld ausführen, damit Marketing die Daten erfassen kann.**
-
