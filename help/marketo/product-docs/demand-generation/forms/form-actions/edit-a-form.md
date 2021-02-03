@@ -3,9 +3,9 @@ unique-page-id: 2359590
 description: Formular bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Formular bearbeiten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,12 @@ ht-degree: 0%
 
 Wenn Sie Änderungen an einem vorhandenen Formular vornehmen möchten, erfahren Sie hier, wie Sie den Prozess starten.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/editform.png)
 
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere Informationen zum Bearbeiten und Anpassen von [Formularen](http://docs.marketo.com/display/docs/forms) finden Sie hier.
-
+Einfach!
