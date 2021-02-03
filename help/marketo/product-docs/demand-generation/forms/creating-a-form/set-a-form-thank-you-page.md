@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: Formulardankseite einrichten - Marketing-Dokumente - Produktdokumentation
 title: Danksagungsseite für ein Formular festlegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Was passiert, wenn jemand ein Formular ausfüllt? An wen werden sie weitergeleit
 
 ## Formular bearbeiten {#edit-form}
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ Was passiert, wenn jemand ein Formular ausfüllt? An wen werden sie weitergeleit
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Klicken Sie unter **Formular** **Einstellungen** auf **Einstellungen**.
+1. Klicken Sie unter **Formulareinstellungen** auf **Einstellungen**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Blättern Sie nach unten zum Abschnitt **Vielen Dank** **Sie** **Seite**.
+1. Blättern Sie nach unten zum Abschnitt **Danksagungsseite**.
 
 ## Auf Seite {#stay-on-page} bleiben
 
 Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher beim Senden des Formulars auf derselben Seite.
 
-1. Wählen Sie **Bleiben** **Ein** **Seite** für **Folgen** **Auf** **Mit**.
+1. Wählen Sie **Auf Seite bleiben** für **Follow-up mit**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher beim Senden des 
 
 Mit der Einstellung &quot;Externe URL&quot;können Sie eine beliebige URL als Folgeseite definieren. Sobald der Benutzer das Formular gesendet hat, wird er an die angegebene URL weitergeleitet.
 
-1. Wählen Sie **External** **URL** für **Folgen** **Nach** **Mit**.
+1. Wählen Sie **Externe URL** für **Follow-up mit**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ Sie können eine beliebige genehmigte Marketing-Landingpage als Folgeaktion ausw
 
 Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um Benutzern je nach Antwort unterschiedliche Folgemaßnahmen anzuzeigen.
 
-1. Klicken Sie auf **Hinzufügen** **Auswahl**.
+1. Klicken Sie auf **Hinzufügen**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Wählen Sie die entsprechende Seite für **Nach** **Nach** Nach **Typ**.
+1. Wählen Sie die entsprechende Seite für den Typ **Follow-up with**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**Erinnerung**
-   >
    >
    >Sie müssen diese Landingpages zuvor erstellt/genehmigt haben.
 
@@ -114,7 +111,7 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
    >
    >Sie können mehrere Auswahlmöglichkeiten hinzufügen. Wenn Sie jedoch zu viele hinzufügen, kann sich dies auf die Ladegeschwindigkeit des Formulars auswirken und fügen Sie daher nur das hinzu, was Sie benötigen.
 
-1. Gehen Sie durch und richten Sie **Choice** **2** ein.
+1. Gehen Sie durch und richten Sie **Auswahl 2** ein.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 Gute Arbeit!
+
