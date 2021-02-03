@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: hinzufügen Bilder und Dateien an Marketing - Marketing Docs - Produktdokumentation
 title: hinzufügen von Bildern und Dateien in Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
 
-1. Gehen Sie zu **Design** **Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie unter **Neu** auf** Bild hochladen** **oder** **Datei**.
+1. Klicken Sie unter **Neu** auf **Bild hochladen** oder **Datei**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -41,16 +41,14 @@ Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Um Dateien in der Warteschlange vor dem Hochladen zu entfernen, klicken Sie auf das X neben dem Dateinamen.
 
    >[!TIP]
    >
    >Marketo überprüft alle Dateien, bevor sie hochgeladen werden. Infizierte Dateien werden übersprungen.
 
-   Klicken Sie nach Abschluss des Uploads auf Fertig stellen.
+1. Klicken Sie nach Abschluss des Uploads auf **Fertigstellen**.
+
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
 1. Ihre Bilder stehen jetzt für die Verwendung in Kampagne-E-Mails und -Landingpages zur Verfügung.
@@ -63,15 +61,6 @@ Gut gemacht!
 >
 >Marketo akzeptiert zwar alle Dateitypen zum Hochladen, jedoch nur die wichtigsten Bildtypen (JPG, PNG, GIF usw.) funktioniert in unserem E-Mail-Editor.
 
-## Video ansehen {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Bilder und Dateien mithilfe von Ordnern organisieren](organize-your-images-and-files-using-folders.md)
-
->
-
-
-
+>[Bilder und Dateien mithilfe von Ordnern organisieren](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
