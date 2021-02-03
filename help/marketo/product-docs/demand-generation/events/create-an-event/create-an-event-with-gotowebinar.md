@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: Erstellen Sie ein Ereignis mit GotoWebinar - Marketing Docs - Produktdokumentation
 title: Ereignis mit GotoWebinar erstellen
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [hinzufügen GoToWebinar als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stellen Sie die entsprechenden [Flussaktionen](http://docs.marketo.com/display/DOCS/Flow+Actions)ein, um Interaktionen zu verfolgen.
+>* Stellen Sie die entsprechenden [Flussaktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)ein, um Interaktionen zu verfolgen.
 
 
 Erstellen Sie zuerst Ihr Webinar im GoToWebinar. Bestimmte Einstellungen bei der Erstellung Ihres GoToWebinars werden von Marketo verwendet und einige werden nur von GoToWebinar verwendet.
 
-Nachdem Sie ein Marketo-Ereignis erstellt und das GoToWebinar damit verknüpft haben, können die Systeme Registrierungs- und Anwesenheitsdaten gemeinsam nutzen. Hilfe zum Erstellen eines GoToWebinars finden Sie im [GoToWebinar-Benutzerhandbuch](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+Nachdem Sie ein Marketo-Ereignis erstellt und das GoToWebinar damit verknüpft haben, können die Systeme Registrierungs- und Anwesenheitsdaten gemeinsam nutzen.
 
 Nachfolgend finden Sie eine Liste der Einstellungen, die von Marketo verwendet werden.
 
@@ -36,7 +36,7 @@ Nachfolgend finden Sie eine Liste der Einstellungen, die von Marketo verwendet w
 
 ## Datum und Uhrzeit {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`Adapter. Wenn Sie Änderungen an diesen Informationen vornehmen, müssen Sie unter **Ereignis-Aktionen** auf den Link &quot;**Von Webinar-Provider aktualisieren**&quot;klicken, damit Marketo die Änderungen sehen kann.
+Geben Sie die folgenden Informationen für Ihr Webinar ein und es wird über den Adapter nach Marketo gezogen. Wenn Sie Änderungen an diesen Informationen vornehmen, müssen Sie unter **Ereignis-Aktionen** auf den Link &quot;**Von Webinar-Provider aktualisieren**&quot;klicken, damit Marketo die Änderungen sehen kann.
 
 **Datum**  des Beginns - geben Sie das Datum Ihres Beginns ein. Dies wird in Marketo sichtbar sein.
 
@@ -56,7 +56,7 @@ Nachfolgend finden Sie eine Liste der Einstellungen, die von Marketo verwendet w
 
 >[!TIP]
 >
->Es gibt zusätzliche Felder, die Sie in GoToWebinar konfigurieren werden, die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern finden Sie im [GoToWebinar Benutzerhandbuch](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf), da sie in diesem Artikel nicht behandelt werden. Wenn Sie weitere Hilfe zum GoToWebinar benötigen, besuchen Sie bitte deren [Hilfe-Site](http://support.logmeininc.com/gotowebinar).
+>Wenn Sie weitere Hilfe zum GoToWebinar benötigen, besuchen Sie bitte deren [Hilfe-Site](https://support.logmeininc.com/gotowebinar).
 
 Springen wir jetzt nach Marketo!
 
@@ -68,7 +68,7 @@ Springen wir jetzt nach Marketo!
    >
    >Der Kanal des ausgewählten Ereignisses muss **webinar** lauten.
 
-1. Wählen Sie **GoToWebinar** aus der Liste **Ereignis** **Partner**.
+1. Wählen Sie **GoToWebinar** aus der Liste **Ereignis-Partner**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ Personen, die sich für Ihr Webinar anmelden, werden über den Schritt zum Ände
 
 ## Ansicht des Zeitplans {#viewing-the-schedule}
 
-Klicken Sie in der Ansicht [Programmplanung](http://docs.marketo.com/display/docs/program+schedule+view) auf den Kalendereintrag für Ihr Ereignis. Sie können den Zeitplan auf der rechten Seite des Bildschirms sehen.
+Klicken Sie in der Ansicht Programmplanung auf den Kalendereintrag für Ihr Ereignis. Sie können den Zeitplan auf der rechten Seite des Bildschirms sehen.
 
 >[!NOTE]
 >
