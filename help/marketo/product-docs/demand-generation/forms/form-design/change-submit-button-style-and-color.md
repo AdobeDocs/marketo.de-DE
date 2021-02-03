@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: Stil und Farbe der Senden-Schaltfläche ändern - Marketing-Dokumente - Produktdokumentation
 title: Stil und Farbe der Senden-Schaltfläche ändern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Wenn Sie den Standard-Sende-Knopf stumm finden oder etwas mehr Fantasie benötigen, können Sie aus einer breiten Palette von gebrauchsfertigen Schaltflächenstilen wählen.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ Wenn Sie den Standard-Sende-Knopf stumm finden oder etwas mehr Fantasie benötig
    >[!NOTE]
    >
    >Wie bei vielen grafischen Elementen sieht die Schaltfläche je nach verwendetem Browser möglicherweise anders aus.
-
