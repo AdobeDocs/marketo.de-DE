@@ -3,7 +3,7 @@ unique-page-id: 2359679
 description: CSS eines Formularthemas bearbeiten - Marketing Docs - Produktdokumentation
 title: CSS eines Formularthemas bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # CSS eines Formularthemas bearbeiten {#edit-the-css-of-a-form-theme}
 
-Sie haben einige vordefinierte [Themen, die Sie einfach unter](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) auswählen können. Wenn Sie jedoch gerne CSS bearbeiten, können Sie alle gewünschten Änderungen vornehmen. So geht es.
+Sie haben einige vordefinierte [Themen, die Sie einfach unter](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) auswählen können. Wenn Sie jedoch gerne CSS bearbeiten, können Sie alle gewünschten Änderungen vornehmen. So geht es.
 
 >[!NOTE]
 >
 >Vergewissern Sie sich, dass Sie CSS kennen, wenn Sie dies versuchen möchten, da die Marketing-Unterstützung nicht für die benutzerdefinierte Kodierung eingerichtet wurde. Außerdem gelten alle vorgenommenen Änderungen nur für das derzeit bearbeitete Formular.
 
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Bearbeiten** **Formular**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Gehen Sie zu **Formular** **Einstellungen**.
+1. Wechseln Sie zu **Formulareinstellungen**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -47,7 +47,7 @@ Sie haben einige vordefinierte [Themen, die Sie einfach unter](../../../../produ
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Klicken Sie unter dem Zahnradsymbol auf **Bearbeiten** **Benutzerdefiniert** **CSS**.
+1. Klicken Sie unter dem Zahnradsymbol auf **Benutzerspezifische CSS bearbeiten**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +59,7 @@ Sie haben einige vordefinierte [Themen, die Sie einfach unter](../../../../produ
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Um Ihr benutzerdefiniertes Formular anzuzeigen, klicken Sie auf **Vorschau** **Entwurf**.
+1. Um Ihr benutzerdefiniertes Formular anzuzeigen, klicken Sie auf **Vorschau-Entwurf**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
