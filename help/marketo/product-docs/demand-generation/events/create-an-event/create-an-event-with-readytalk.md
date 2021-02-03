@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: Erstellen Sie ein Ereignis mit ReadyTalk - Marketing Docs - Produktdokumentation
 title: Ereignis mit ReadyTalk erstellen
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [hinzufügen ReadyTalk als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stellen Sie die entsprechenden [Flussaktionen](http://docs.marketo.com/display/DOCS/Flow+Actions)ein, um Interaktionen zu verfolgen.
+>* Stellen Sie die entsprechenden [Flussaktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)ein, um Interaktionen zu verfolgen.
 
 
-Richten Sie zuerst Ihr Ereignis im ReadyTalk Konferenzzentrum ein. Wenn Sie Hilfe benötigen, schauen Sie im [ReadyTalk Resource Center nach.](https://www.readytalk.com/resources/readytalk)  Wählen Sie bei der Auswahl des Registrierungstyps die Option  **Vorregistrierung vor der Sitzung**. Wenn Sie *Registrierung zum Zeitpunkt des Treffens* auswählen, erfasst Marketo **nicht** einen registrierten Status für Ihre Personen und ruft nur den Personenstand von *nach* Abschluss des Webinars ab.
+Richten Sie zuerst Ihr Ereignis im ReadyTalk Konferenzzentrum ein. Wenn Sie Hilfe benötigen, sehen Sie sich das [ReadyTalk Resource Center](https://www.readytalk.com/resources/readytalk) an. Wählen Sie bei Auswahl des Registrierungstyps **Vor dem Meeting** die Option Vorregistrieren. Wenn Sie _Registrierung zum Zeitpunkt des Treffens_ auswählen, erfasst Marketo **nicht** einen registrierten Status für Ihre Personen und ruft nur den Personenstand von _nach_ Abschluss des Webinars ab.
 
 Lassen Sie **mich über neue Registrierungen per E-Mail** unmarkiert.
 
@@ -78,7 +78,7 @@ Jetzt können Sie Ihr Ereignis mit Marketo verknüpfen.
 
 ## Ansicht des Zeitplans {#viewing-the-schedule}
 
-Klicken Sie in der Ansicht [Programmplanung](http://docs.marketo.com/display/docs/program+schedule+view) auf den Kalendereintrag für Ihr Ereignis. Sie können den Zeitplan auf der rechten Seite des Bildschirms sehen!
+Klicken Sie in der Ansicht Programmplanung auf den Kalendereintrag für Ihr Ereignis. Sie können den Zeitplan auf der rechten Seite des Bildschirms sehen!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
