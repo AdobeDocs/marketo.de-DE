@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Listen mit personalisierten URLs exportieren - Marketing Docs - Produktdokumentation
 title: Listen mit personalisierten URLs exportieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Personalisierte URLs für Ihr Konto aktivieren](enable-personalized-urls-for-your-account.md)
->* [Aktivieren personalisierter URLs für eine Landingpage](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [Personalisierte URLs für Ihr Konto aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Aktivieren personalisierter URLs für eine Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. Wählen Sie Ihre Liste oder intelligente Liste aus, klicken Sie auf die Registerkarte **Interessenten**, um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. INLINE Vergewissern Sie sich, dass Sie über **Marketo Unique Code **und **Marketo Unique Name** [Spalten verfügen, die sichtbar sind](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Wählen Sie Ihre Liste oder intelligente Liste aus, klicken Sie auf die Registerkarte **Interessenten**, um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. INLINE Vergewissern Sie sich, dass **Marketo Unique Code** und **Marketo Unique Name** [Spalten sichtbar sind](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -53,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Wenn es Interessenten mit demselben Vor- und Nachnamen gibt, werden automatisch Zahlen angehängt, um sicherzustellen, dass die URLs eindeutig bleiben.
-
