@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: Genehmigen, Ablehnen oder Löschen einer Landingpage - Marketing Docs - Produktdokumentation
 title: Genehmigen, Ablehnen oder Löschen einer Landingpage
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch Geneh
 
    >[!TIP]
    >
-   >Sie können [mehrere Seiten gleichzeitig genehmigen](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md), um Ihr Leben zu vereinfachen.
+   >Sie können [mehrere Seiten gleichzeitig genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md), um Ihr Leben zu vereinfachen.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch Geneh
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Nach der Genehmigung befindet sich auf dem Symbol Landingpage ein grünes Häkchen.
 
-1. Genehmigen einer Landingpage aufheben
+## Genehmigen einer Landingpage {#unapprove-a-landing-page} aufheben
+
 1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpage Aktionen** und klicken Sie auf **Nicht genehmigen**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch Geneh
 
 >[!NOTE]
 >
->Ihre nicht genehmigte Landingpage wird nicht mehr im Internet veröffentlicht und erzeugt keine zusätzliche Aktivität. Besucher nicht genehmigter Landingpages und ihrer Facebook-Registerkarten sehen die [Fallback-Seite](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>Ihre nicht genehmigte Landingpage wird nicht mehr im Internet veröffentlicht und erzeugt keine zusätzliche Aktivität. Besucher nicht genehmigter Landingpages und ihrer Facebook-Registerkarten sehen die [Fallback-Seite](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Löschen einer Landingpage {#delete-a-landing-page}
 
