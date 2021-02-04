@@ -3,7 +3,7 @@ unique-page-id: 2359730
 description: Hinzufügen von benutzerspezifischem HTML zu einer Landingpage mit Freiform - Marketing Docs - Produktdokumentation
 title: Hinzufügen von benutzerdefiniertem HTML zu einer Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Sie können benutzerdefinierte Skripten, CSS oder andere HTML zu Landingpages hi
 >
 >Der Marketing-Support ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes HTML hilft. Für HTML-Hilfe wenden Sie sich bitte an einen Webentwickler.
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten.**
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ Sie können benutzerdefinierte Skripten, CSS oder andere HTML zu Landingpages hi
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Geben Sie Ihren benutzerdefinierten HTML-Code ein und klicken Sie auf **Speichern.**
+1. Geben Sie Ihren benutzerdefinierten HTML-Code ein und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
@@ -40,4 +40,3 @@ Schön! Geben Sie die gewünschten Skripten oder CSS ein.
 >[!CAUTION]
 >
 >Wenn Ihr benutzerdefinierter HTML-Code nicht gerendert wird (z. B. eine unsichtbare JavaScript-Funktion oder CSS), platzieren Sie das Element an einer unvergesslichen Stelle wie oben links. Die Elementumrisslinie ist nur sichtbar, wenn Sie in den Bereich klicken.
-
