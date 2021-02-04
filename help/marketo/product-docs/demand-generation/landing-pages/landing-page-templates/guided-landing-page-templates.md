@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: Vorlagen für geführte Landingpages - Marketing-Dokumente - Produktdokumentation
 title: Vorlagen für geführte Landingpages
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlagen für geführte Landingpages {#guided-landing-page-templates}
 
-Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Guided Landingpage Editor](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage reagiert vollständig und basiert auf dem Bootstrap-Framework.
+Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Guided Landingpage Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage reagiert vollständig und basiert auf dem Bootstrap-Framework.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ So importieren Sie eine Vorlage in Marketing:
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [Vorlage 12-C](guided-landing-page-templates/template-12-c.md) | [Vorlage 12-D](guided-landing-page-templates/template-12-d.md) | [Meldebogen 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [Vorlage 12-F](guided-landing-page-templates/template-12-f.md) | [Meldebogen 13-A](guided-landing-page-templates/template-13-a.md) | [Meldebogen 13-B](guided-landing-page-templates/template-13-b.md) |
+| [Vorlage 12-F](guided-landing-page-templates/template-12-f.md) | [Vorlage 13-C](guided-landing-page-templates/template-13-a.md) | [Meldebogen 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
 | [Meldebogen 13-A](guided-landing-page-templates/template-13-c.md) | [Vorlage 13-D](guided-landing-page-templates/template-13-d.md) | [Meldebogen 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
