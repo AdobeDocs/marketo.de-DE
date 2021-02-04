@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: hinzufügen eines Formulars zu einer Landingpage mit Anleitung - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Formulars zu einer Landingpage mit Guided
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
 >[!PREREQUISITES]
 >
->* [Eine geführte Landingpage erstellen](create-a-guided-landing-page.md)
-
->
-
-
+>[Eine geführte Landingpage erstellen](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
@@ -61,4 +57,4 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Schließen Sie jetzt einfach den Landingpage-Editor und genehmigen Sie den Landingpage-Entwurf[.](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
+Schließen Sie jetzt einfach den Landingpage-Editor und genehmigen Sie den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).[
