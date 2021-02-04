@@ -3,7 +3,7 @@ unique-page-id: 2359868
 description: Bilder und Dateien aus dem Feld hochladen - Marketing to Docs - Produktdokumentation
 title: Bilder und Dateien aus Feld hochladen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können Dateien von Box hochladen, um sie in Landingpages und E-Mails zu verwenden.
 
-1. Gehen Sie zu **Design** **Studio**.
+1. Gehen Sie zu **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Gehen Sie zu** Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus Web** abrufen.
+1. Gehen Sie zu **Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus Web** abrufen.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
