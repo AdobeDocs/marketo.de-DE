@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: hinzufügen von Text und Token zu einer Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen von Text und Token in eine Landingpage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Tokens sind dynamische Textabschnitte, die Ihre Landingpage personalisieren kön
    >
    >Der Landingpages-Designer wird in einem neuen Fenster geöffnet.
 
-1. Dublette klicken Sie auf das Rich-Text-Feld, dem Sie das Token hinzufügen möchten.
+1. Klicken Sie bei gedrückter Dublette auf das Rich-Textfeld, dem Sie das Token hinzufügen möchten.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -74,4 +74,3 @@ Tokens sind dynamische Textabschnitte, die Ihre Landingpage personalisieren kön
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
    Auftrag abgeschlossen! Sie haben jetzt ein Token auf Ihrer Landingpage.
-
