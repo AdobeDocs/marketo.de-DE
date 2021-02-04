@@ -3,7 +3,7 @@ unique-page-id: 2359705
 description: hinzufügen eines neuen Formulars zu einer Freiformdatei-Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen eines neuen Formulars in eine Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -17,18 +17,15 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
 >[!PREREQUISITES]
 >
->* [Formular erstellen](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [Erstellen einer Freiform-Landingpage](create-a-free-form-landing-page.md)
-
->
+>* [Formular erstellen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
-
-1. Gehen Sie zu **Marketing** **Aktivitäten**.
+1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Suchen Sie Ihre Landingpage und klicken Sie auf **Bearbeiten** **Entwurf**.
+1. Suchen Sie Ihre Landingpage und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -43,13 +40,12 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 1. Sie haben drei Optionen bei der Auswahl Ihrer Folgeseite:
 
    * **Landingpage**  - zur Auswahl einer Marketing-Landingpage
-   * **Externe**** URL** - zur Auswahl der gewünschten URL
+   * **Externe URL**  - zur Auswahl der gewünschten URL
+   * **Formulardefiniert**  - zur Verwendung der auf Formularebene definierten Einstellungen
 
-   * **Form**** Definiert** - zur Verwendung der auf Formularebene definierten Einstellungen
    >[!NOTE]
    >
    >**Definition**
-   >
    >
    >Die Folgeseite ist die Seite, die die Benutzer sehen, nachdem sie das Formular gesendet haben.
 
@@ -59,4 +55,4 @@ Formular, erfüllen Sie die Landingpage. Landingpage, Treffen Sie das Formular.
 
    Gut gemacht!
 
-Schließen Sie einfach den Landingpages-Editor und [genehmigen Sie den Landingpage-Entwurf](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie einfach den Landingpages-Editor und [genehmigen Sie den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
