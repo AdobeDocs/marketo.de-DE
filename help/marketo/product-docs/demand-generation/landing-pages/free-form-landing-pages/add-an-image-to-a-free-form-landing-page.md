@@ -3,7 +3,7 @@ unique-page-id: 2359703
 description: hinzufügen eines Bildes in eine Freiformdatei-Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Bildes in eine Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen von Bildern und Dateien in Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-
->
-
-
+>[hinzufügen von Bildern und Dateien in Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. Wählen Sie Ihre Freiform-Landingpage aus und klicken Sie auf **Bearbeiten** **Entwurf**.
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    Gute Arbeit! Sie haben gerade ein Bild zu Ihrer Freiform-Landingpage hinzugefügt.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-
