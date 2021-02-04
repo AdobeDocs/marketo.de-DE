@@ -3,9 +3,9 @@ unique-page-id: 2359728
 description: Benutzerhandbücher für das Design von Landingpages - Marketing Docs - Produktdokumentation
 title: Benutzerhandbücher für das Entwerfen von Landingpages
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Beim Entwerfen einer Freiform-Landingpage können Sie Hilfslinien verwenden, die
 
 >[!NOTE]
 >
->Guides sind nur im Landingpages-Editor **Free**-**form** verfügbar.
+>Guides sind nur im Editor **Free-form** Landingpage verfügbar.
 
 1. Wählen Sie eine **Landingpage** und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicken Sie auf **Landingpage Aktionen **und wählen Sie **Hilfslinien anzeigen**.
+1. Klicken Sie auf **Aktionen der Landingpage** und wählen Sie **Hilfslinien anzeigen**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
@@ -36,4 +36,3 @@ Beim Entwerfen einer Freiform-Landingpage können Sie Hilfslinien verwenden, die
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
    Alignment Objekte sind einfach zu sehen!
-
