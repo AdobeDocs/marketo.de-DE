@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: hinzufügen einer Landingpage mit Anleitung - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Bildes in eine Landingpage mit Guided
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ Anders als bei den Freiform-Landingpages verfügen geführte Landingpages über 
 
    >[!NOTE]
    >
-   >Die Größenänderung des Bildes hängt von der Vorlage ab. Erfahren Sie mehr über [Vorlagen für leitende Landingpages](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Die Größenänderung des Bildes hängt von der Vorlage ab. Erfahren Sie mehr über [Vorlagen für leitende Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >Die Angabe eines Links für ein Bild im Editor wird derzeit nicht unterstützt. Verwenden Sie stattdessen ein Rich-Text-Element.
-
