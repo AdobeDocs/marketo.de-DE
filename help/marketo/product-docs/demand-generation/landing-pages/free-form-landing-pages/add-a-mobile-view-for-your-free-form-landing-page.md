@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: hinzufügen einer mobilen Ansicht für Ihre Freiform-Landingpage - Marketing Docs - Produktdokumentation
 title: hinzufügen einer mobilen Ansicht für Ihre Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Es ist einfach, Ihre Landingpages mit freien Formularen auf einem Smartphone gro
 
 >[!NOTE]
 >
->Die mobile Ansicht funktioniert auf Bildschirmen mit einer Breite von 480 Pixel (oder weniger). Mit anderen Worten, Smartphones. Hier finden Sie weitere [Informationen zu Geräteauflösungen](http://mydevice.io/devices/.).
+>Die mobile Ansicht funktioniert auf Bildschirmen mit einer Breite von 480 Pixel (oder weniger). Mit anderen Worten, Smartphones. Hier finden Sie weitere [Informationen zu Geräteauflösungen](https://mydevice.io/devices/).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -41,21 +41,12 @@ Es ist einfach, Ihre Landingpages mit freien Formularen auf einem Smartphone gro
 
    >[!CAUTION]
    >
-   >Die Vorlage für das freie Formular muss möglicherweise aktualisiert werden. Wenn diese Meldung angezeigt wird, lesen Sie schnell, wie [eine vorhandene Vorlage für die freie Landingpage für Mobilgeräte ](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md) kompatibel gemacht werden kann.
+   >Die Vorlage für das freie Formular muss möglicherweise aktualisiert werden. Wenn diese Meldung angezeigt wird, lesen Sie schnell, wie [eine vorhandene Vorlage für die freie Landingpage für Mobilgeräte ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md) kompatibel gemacht werden kann.
 
-1. Großartig! Sie haben jetzt die Mobilversion Ihrer Landingpage aktiviert. Klicken Sie auf **Schließen. **
+1. Großartig! Sie haben jetzt die Mobilversion Ihrer Landingpage aktiviert. Klicken Sie auf **Schließen**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Sie können jetzt [Ihre mobile Ansicht](customize-mobile-view-for-your-free-form-landing-page.md) anpassen.
+   Sie können jetzt [Ihre mobile Ansicht](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) anpassen.
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
-
->[!MORELIKETHIS]
->
->* [Anpassen der mobilen Ansicht für Ihre Landingpage mit kostenlosen Formularen](customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
