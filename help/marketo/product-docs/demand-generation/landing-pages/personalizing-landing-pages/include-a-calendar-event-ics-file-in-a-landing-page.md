@@ -3,9 +3,9 @@ unique-page-id: 2359540
 description: Eine ICS-Datei des Kalenderdokuments in eine Landingpage einschließen - Marketing Docs - Produktdokumentation
 title: Einbeziehen einer ICS-Datei des KalenderEreignisses in eine Landingpage
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,7 @@ Mit dem Token **Kalenderdatei** können Sie einen Kalenderlink (.ics) zu Ihren M
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer Kalenderdatei (.ics) für Ereignisse](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
-
->
-
+>* [Erstellen einer Kalenderdatei (.ics) für Ereignisse](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 
 1. Klicken Sie im Landingpages-Editor auf **{...}**, um ein Token einzufügen.
@@ -33,26 +30,19 @@ Mit dem Token **Kalenderdatei** können Sie einen Kalenderlink (.ics) zu Ihren M
    >
    >Die folgenden Token werden auf Landingpages nicht unterstützt:
    >
-   >    
-   >    
-   >    * member.webinar-URL
+   >* member.webinar-URL
 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
 1. Klicken Sie auf **Speichern**.
 
-   Die Benutzer sehen eine Landingpage, die wie folgt aussieht:   ![](assets/image2015-1-6-16-3a42-3a51.png)
+   Die Benutzer sehen eine Landingpage, die wie folgt aussieht:
+
+   ![](assets/image2015-1-6-16-3a42-3a51.png)
 
 Süß! Jetzt sollte alles gut funktionieren. Stellen Sie sicher, dass Sie es testen.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Einbeziehen eines Kalenderinhalts (.ics) in eine E-Mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
-
->
-
-
-
+>[Einbeziehen eines Kalenderinhalts (.ics) in eine E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
