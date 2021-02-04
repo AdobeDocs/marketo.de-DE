@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: Dynamische Inhalte in einer Landingpage - Marketing Docs - Produktdokumentation
 title: Dynamische Inhalte in einer Landingpage verwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Eine Segmentierung erstellen](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Erstellen einer Freiform-Landingpage](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [hinzufügen eines neuen Formulars in eine Freiform-Landingpage](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [Eine Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [hinzufügen eines neuen Formulars in eine Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 Die Verwendung von dynamischen Inhalten in Landingpages bindet Menschen mit gezielten Informationen.
@@ -81,14 +78,8 @@ Die Verwendung von dynamischen Inhalten in Landingpages bindet Menschen mit gezi
 
 Voila! Sie können jetzt zielgerichtete Inhalte senden.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Vorschau einer Landingpage mit dynamischen Inhalten](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Dynamische Inhalte in einer E-Mail verwenden](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [Vorschau einer Landingpage mit dynamischen Inhalten](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Dynamische Inhalte in einer E-Mail verwenden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
