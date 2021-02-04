@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: Erstellen Sie eine Landingpage mit Freiform - Marketing Docs - Produktdokumentation
 title: Erstellen einer Freiform-Landingpage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Freiform-Landingpages können als lokale Assets eines Programms oder in Design S
 
 >[!NOTE]
 >
->Landingpages werden durch ihre Vorlage definiert. [Erfahren Sie ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mehr über Vorlagen für freie und geführte Landingpages.
+>Landingpages werden durch ihre Vorlage definiert. [Erfahren Sie ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mehr über Vorlagen für freie und geführte Landingpages.
 
 ## Erstellen einer Freiform-Landingpage in einem Programm {#create-a-free-form-landing-page-in-a-program}
 
@@ -55,11 +55,11 @@ Freiform-Landingpages können als lokale Assets eines Programms oder in Design S
 
 ## Erstellen einer Freiform-Landingpage in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Gehen Sie zu **Design** **Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu**, dann **Neue Landingpage.**
+1. Klicken Sie auf **Neu** und dann **Neue Landingpage**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ Freiform-Landingpages können als lokale Assets eines Programms oder in Design S
 >[!TIP]
 >
 >Deaktivieren Sie &quot;Landingpage-Editor für neue Seite öffnen&quot;, wenn Sie nicht möchten, dass der Editor sofort nach dem Klicken auf **Erstellen** geöffnet wird.
-
