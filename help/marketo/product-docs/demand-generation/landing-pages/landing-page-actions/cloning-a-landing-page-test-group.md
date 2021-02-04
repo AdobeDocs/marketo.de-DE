@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: Klonen einer Landingpage-Testgruppe - Marketing Docs - Produktdokumentation
 title: Klonen einer Landingpages-Testgruppe
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Im Design Studio können Sie eine Landingpages-Testgruppe suchen und Duplikat er
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. Wenn Sie fertig sind, klicken Sie auf **Erstellen.**
+1. Klicken Sie abschließend auf **Erstellen**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ Im Design Studio können Sie eine Landingpages-Testgruppe suchen und Duplikat er
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    Die Gruppe verfolgt nun aktiv Besuche und Formularabschlüsse, sodass Sie sehen können, welche Landingpage am leistungsfähigsten ist.
-
