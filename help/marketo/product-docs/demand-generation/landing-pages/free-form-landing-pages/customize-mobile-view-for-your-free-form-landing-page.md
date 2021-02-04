@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Anpassen der mobilen Ansicht für Ihre Free-Form-Landingpage - Marketing Docs - Produktdokumentation
 title: Anpassen der mobilen Ansicht für Ihre Landingpage mit kostenlosen Formularen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen einer mobilen Ansicht für Ihre Freiform-Landingpage](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[hinzufügen einer mobilen Ansicht für Ihre Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 Die mobile Ansicht Ihrer Freiform-Landingpage ist meist automatisch, Sie können sie jedoch anpassen. So geht es.
 
@@ -49,11 +45,12 @@ Standardmäßig wird alles auf der Desktop-Ansicht auf der mobilen Ansicht angez
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Wichtige Informationen:  {#important-things-to-know}
+## Wichtige Informationen: {#important-things-to-know}
 
 * Die Bilder werden bis zur Breite Ihres Mobilgeräts erweitert. Wenn Sie kleinere Bilder benötigen, ziehen Sie das Rich-Text-Element und fügen Sie das Bild von dort hinzu.
 * Verwenden Sie nur Forms 2.0-Formulare. Sie reagieren und passen sich automatisch an.
-* Es kann nur ein Vorlagenelement bearbeitet werden, BODY#bodyid (Mobil). Auf diese Weise können Sie die Hintergrundfarbe ändern.\
+* Es kann nur ein Vorlagenelement bearbeitet werden, BODY#bodyid (Mobil). Auf diese Weise können Sie die Hintergrundfarbe ändern.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Element aus der Mobile-Ansicht {#hide-an-element-from-the-mobile-view} ausblenden
@@ -112,13 +109,6 @@ Standardmäßig wird alles auf der Desktop-Ansicht auf der mobilen Ansicht angez
 
 Viel Spaß!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->* [Vorhandene Vorlage für eine Landingpage mit Freiform Mobile kompatibel machen](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[Vorhandene Vorlage für eine Landingpage mit Freiform Mobile kompatibel machen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
