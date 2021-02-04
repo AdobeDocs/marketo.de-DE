@@ -3,9 +3,9 @@ unique-page-id: 9437831
 description: Vorlage 15-E - Marketing Docs - Produktdokumentation
 title: Vorlage 15-E
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 15-E {#template-e}
 
-[Vorlage 15-E herunterladen](http://docs.marketo.com/download/attachments/9437831/template-15e.html?version=1&amp;modificationdate=1438980610000&amp;api=v2)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 15-E herunterladen](http://docs.marketo.com/download/attachments/9437831/template-15e.html?version=1&amp;modificationdate=1438980610000&amp;api=v2)
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 
@@ -26,6 +26,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Fünf Abschnitte (optional)
 * Fußzeile (optional)
 
-Klicken Sie unten, um diese Vorlage herunterzuladen:
+Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:
 
 [Template15-E.html](http://docs.marketo.com/download/attachments/9437831/template-15e.html?version=1&amp;modificationdate=1438980610000&amp;api=v2)
