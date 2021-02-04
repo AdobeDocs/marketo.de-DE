@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: Landingpages-Testgruppen - Marketing-Dokumente - Produktdokumentation
 title: Landingpages-Testgruppen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo verfolgt die Anzahl der Ansichten und Formularabschlüsse auf jeder gete
 
 >[!PREREQUISITES]
 >
->[Erstellen Sie zwei oder mehr Landingpages](../../../../getting-started/quick-wins/landing-page-with-a-form.md), vorzugsweise mit einem Formular.
+>[Erstellen Sie zwei oder mehr Landingpages](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), vorzugsweise mit einem Formular.
 
 1. Klicken Sie in Design Studio auf **Neu**. Wählen Sie im Dropdownmenü **Neue Testgruppe**.
 
@@ -27,10 +27,8 @@ Marketo verfolgt die Anzahl der Ansichten und Formularabschlüsse auf jeder gete
    >
    >Die anderen Methoden zum Erstellen einer Testgruppe sind:
    >
-   >    
-   >    
-   >    * Klicken Sie mit der rechten Maustaste auf eine Landingpage in der Struktur und wählen Sie **In Testgruppe konvertieren**
-   >    * Erstellen Sie eine Landingpages-Testgruppe in einem Programm, indem Sie im Menü **Neues lokales Element** die Option **AB-Testgruppe** wählen.
+   >* Klicken Sie mit der rechten Maustaste auf eine Landingpage in der Struktur und wählen Sie **In Testgruppe konvertieren**
+   >* Erstellen Sie eine Landingpages-Testgruppe in einem Programm, indem Sie im Menü **Neues lokales Element** die Option **AB-Testgruppe** wählen.
 
 
 1. Geben Sie einen Namen und eine optionale Beschreibung ein. Wählen Sie die zu testenden Landingpages aus und klicken Sie auf **Erstellen**.
@@ -56,4 +54,3 @@ Marketo verfolgt die Anzahl der Ansichten und Formularabschlüsse auf jeder gete
    >[!TIP]
    >
    >Wenn Sie die Testgruppe jemals löschen möchten, klicken Sie einfach auf **Testgruppenaktionen** und wählen Sie **Testgruppe** löschen.
-
