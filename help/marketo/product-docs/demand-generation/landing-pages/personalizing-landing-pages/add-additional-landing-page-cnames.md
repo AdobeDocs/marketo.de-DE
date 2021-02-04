@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: hinzufügen CNAMEs zusätzlicher Landingpages - Marketing Docs - Produktdokumentation
 title: hinzufügen CNAMEs zusätzlicher Landingpages
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Möglicherweise möchten Sie CNAMEs der Landingpage hinzufügen, damit verschied
 
 >[!TIP]
 >
->**Gleiche Domäne auf oberster Ebene - Gut! Cookies sind shared.go**.mycompany.com > **info**.mycompany.com **Unterschiedliche Top-Level-Domänen - Unangemessen! Cookies werden nicht freigegeben.**
->gehen.**mycompany**.com > go.**mynewcompany**.com
+>**Gleiche Domäne auf oberster Ebene - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com >  **info**.mycompany.com
+>
+>**Verschiedene Top Level Domains - Schlecht! Cookies sind _nicht_ freigegeben**.<br/> gehen.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
