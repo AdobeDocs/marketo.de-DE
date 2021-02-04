@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: Eine Vorlage für die Marketing-Landingpage bearbeiten - Marketing Docs - Produktdokumentation
 title: Eine Vorlage für die Marketing-Landingpage bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Sie können jede beliebige Landingpage-Vorlage in Marketing bearbeiten.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Wählen Sie die zu bearbeitende **Vorlage** aus. Klicken Sie auf** Entwurf bearbeiten**.
+1. Wählen Sie die zu bearbeitende **Vorlage** aus. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -32,4 +32,3 @@ Sie können jede beliebige Landingpage-Vorlage in Marketing bearbeiten.
    >[!NOTE]
    >
    >Wenn Sie eine Vorlage bearbeiten, wird ein Entwurf eines Landingpage-Assets mit dieser Vorlage erstellt.
-
