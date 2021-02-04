@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: Vorhandene Vorlage für eine Landingpage mit Freiform Mobile kompatibel machen - Marketing Docs - Produktdokumentation
 title: Vorhandene Vorlage für eine Landingpage mit Freiform Mobile kompatibel machen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # Vorhandene Vorlage für eine Landingpage mit Freiform mit Mobilgeräten kompatibel machen {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->Landingpages-Vorlagen, die vor der Veröffentlichung [Januar 2015 erstellt wurden, müssen aktualisiert werden, um mobilkompatibel zu sein.](../../../../release-notes/2015/release-notes-january-2015.md)
 
 Dies kann an zwei Stellen erfolgen: dem Vorlageneditor und dem Landingpages-Editor.
 
@@ -57,7 +53,9 @@ Dies kann an zwei Stellen erfolgen: dem Vorlageneditor und dem Landingpages-Edit
 
 Große Fragen! Ihre Vorlage muss die folgenden Tags aufweisen:
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  Wenn alles gut aussieht, sehen Sie diese Nachricht.
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+Wenn alles gut aussieht, sehen Sie diese Nachricht.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte &quot;Mobil&quot;
    >
    >Wenn Sie die mobile Version einer Vorlage aktivieren, werden Entwürfe aller Landingpages erstellt, die diese verwenden.
 
-Fantastisch! Sie können jetzt [die mobile Ansicht](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aller Landingpages anpassen, die diese Vorlage verwenden.
-
->[!MORELIKETHIS]
->
->* [Anpassen der mobilen Ansicht für Ihre Landingpage mit kostenlosen Formularen](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+Fantastisch! Sie können jetzt [die mobile Ansicht](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aller Landingpages anpassen, die diese Vorlage verwenden.
