@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: Erstellen Sie eine Vorlage für die Landingpage von Freiform - Marketing Docs - Produktdokumentation
 title: Erstellen einer Vorlage für eine Landingpage mit Freiform
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ Freiform-Landingpages erfordern weniger Fachwissen als ihre leitenden Kollegen. 
    >Wählen Sie **Munchkin-Verfolgung** deaktivieren, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder Sie möchten lediglich das Webverhalten auf einer bestimmten Seite nicht verfolgen.\
    >Wählen Sie **Mobilkompatibilität überprüfen**, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >    * [Erstellen einer Freiform-Landingpage](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [Erstellen einer Vorlage für eine Landingpage mit Guided](create-a-guided-landing-page-template.md)
-   >    * [Grundlegendes zu Freiform- und Guided-Landingpages](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Erstellen einer Vorlage für eine Landingpage mit Guided](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Grundlegendes zu Freiform- und Guided-Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
