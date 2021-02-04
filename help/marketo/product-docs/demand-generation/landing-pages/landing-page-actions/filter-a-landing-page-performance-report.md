@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: Filtern eines Landingpage Performance Report - Marketing Docs - Produktdokumentation
 title: Landingpages-Leistungsbericht filtern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtern eines Landingpages-Leistungsberichts {#filter-a-landing-page-performance-report}
 
-Konzentrieren Sie den [Landingpage Performance Report](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) auf Landingpages in Ihren Programmen (lokale Assets), auf die in Design Studio (globale Assets) oder auf die archivierten Assets.
+Konzentrieren Sie den [Landingpage Performance Report](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) auf Landingpages in Ihren Programmen (lokale Assets), auf die in Design Studio (globale Assets) oder auf die archivierten Assets.
 
 1. Gehen Sie zu **Analytics** (oder **Marketing-Aktivitäten**).
 
@@ -42,10 +42,3 @@ Konzentrieren Sie den [Landingpage Performance Report](../../../../product-docs/
 1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht**, um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**Tieftauchen**
->
->Erfahren Sie alles über Berichte in [Basisbericht](http://docs.marketo.com/display/docs/basic+reporting).
-
