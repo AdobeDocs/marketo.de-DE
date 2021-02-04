@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: Erstellen einer Vorlage für die Landingpage mit Guided - Marketing Docs - Produktdokumentation
 title: Erstellen einer Vorlage für eine Landingpage mit Guided
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Tief tauchen:** müde lesen? [Sehen Sie sich dieses coole ](https://youtu.be/3O7e4GdZKsM) Video mit schrittweisen Anleitungen an.
+>Lese müde? [Sehen Sie sich dieses coole ](https://youtu.be/3O7e4GdZKsM) Video mit schrittweisen Anleitungen an.
 
 Vorlagen für Landingpages mit Guided haben eine spezielle Syntax. Verwenden Sie diese Syntax, um anzugeben, was anpassbar ist und wo der Inhalt auf jeder Landingpage landet, die aus Ihrer Vorlage erstellt wurde. Nur die als bearbeitbar angegebenen Regionen oder Variablen können im Editor für geführte Landingpages angepasst werden.
 
@@ -46,13 +46,13 @@ Der Inhalt eines Elements mit der Klasse mktoText (sofern vorhanden) wird als St
 
 Beispiel:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### Bild {#image}
 
 Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder ein `<div>` verwenden, das einen Container angibt, in den das Bild eingefügt wird, oder ein `<img>`-Tag.
 
-## Option 1: Verwenden Sie eine <div> {#option-use-a-div}
+## Option 1: Verwenden Sie eine `<div>` {#option-use-a-div}
 
 Erforderliche Attribute:
 
