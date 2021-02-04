@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Tokens-Übersicht - Marketing-Dokumente - Produktdokumentation
 title: Tokens - Übersicht
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Token-Übersicht {#tokens-overview}
 
-Ein Token ist eine Variable, die in Marketo [smart Kampagne](http://docs.marketo.com/display/DOCS/Smart+Campaigns), [emails](http://docs.marketo.com/display/DOCS/General), [Landingpages](http://docs.marketo.com/display/DOCS/Landing+Pages), [Snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) und [Web-Kampagnen](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor) verwendet werden kann.
+Ein Token ist eine Variable, die in Flussschritten, E-Mails, Landingpages, Snippets und Web-Kampagnen der intelligenten Kampagne von Marketo verwendet werden kann.
 
 ## Standardwerte {#understanding-default-values}
 
@@ -131,7 +131,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Auslöser-Token {#trigger-tokens}
+## Trigger-Tokens {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,14 +149,12 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) basierend auf Auslösern, die in einer intelligenten Kampagne verwendet werden.
+>Weitere Informationen zu [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) finden Sie auf der Grundlage von Triggern, die in einer intelligenten Kampagne verwendet werden.
 
 ## Programm-Tokens {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## Meine Tokens {#my-tokens}
