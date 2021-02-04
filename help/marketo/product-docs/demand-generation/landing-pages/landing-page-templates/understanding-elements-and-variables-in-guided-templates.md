@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: Elemente und Variablen in Guided Templates - Marketing Docs - Produktdokumentation
 title: Elemente und Variablen in Guided Templates
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Wenn Sie eine geführte Landingpage bearbeiten, werden Elemente angezeigt, die i
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo-Preisausschreiben
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-Snippet
 
-Variablen
+## Variablen {#variables}
 
 Variablen sind Token-ähnliche Attribute, die wie unten dargestellt im Editor für geführte Landingpages angepasst werden können.
 
@@ -60,5 +60,4 @@ Es gibt drei Variablentypen: Zeichenfolgenvariablen, Farbvariablen und boolesche
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer Vorlage für eine Landingpage mit Guided](create-a-guided-landing-page-template.md)
-
+>[Erstellen einer Vorlage für eine Landingpage mit Guided](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
