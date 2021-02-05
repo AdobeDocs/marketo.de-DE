@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight-Seite für Marketing-Administratoren - Marketing-Dokumente - Produktdokumentation
 title: Sales Insight-Seite für Marketing-Administratoren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ Standardmäßig verwendet Marketo Sales Insight das Feld Interessentenbewertung,
    >
    >Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie diese hier [erstellen.](http://docs.marketo.com/x/3wMk)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >
    >[Sterne und Flammen](http://docs.marketo.com/x/qgU6Ag)
