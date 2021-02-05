@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Benutzerspezifische RTP-Dashboard in Google Universal Analytics - Marketing Docs - Produktdokumentation
 title: Benutzerdefinierte RTP-Dashboard in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -263,9 +263,7 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[RTP in Google Universal Analytics integrieren](integrate-rtp-with-google-universal-analytics.md)
 >
