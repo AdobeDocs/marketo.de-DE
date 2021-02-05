@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: Konvertierungsskript für benutzerdefinierte Ereignis - Marketing-Dokumente - Produktdokumentation
 title: Konvertierungsskript für benutzerdefinierte Ereignis
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,6 @@ Sie definieren das Fulfillment-Ziel, wenn Sie ein Angebot für eine Verweisung e
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Denken Sie daran, beide Skripte zu kopieren und einzufügen, wenn sie auf einer Nicht-Marketo-Website laufen.
 
 ## Loader Script abrufen {#retrieve-the-loader-script}
@@ -50,7 +47,7 @@ Fügen Sie die Konvertierungsskripte in den HTML-Code für den Text und die Kopf
 
 ## Verbinden des Konvertierungsskripts {#connecting-the-conversion-script}
 
-Hier schreiben Sie eine JavaScript-Funktion, die die spezifische HTML-ID jedes Seitenelements verwendet, bei dem das Ziel abgeschlossen werden soll. Beispiel:
+Hier schreiben Sie eine JavaScript-Funktion, die die spezifische HTML-ID jedes Seitenelements verwendet, bei dem das Trigger abgeschlossen werden soll. Beispiel:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
@@ -60,7 +57,7 @@ Fantastisch! Ihre Website erfasst jetzt mit Marketo benutzerdefinierte Ziele soz
 
 >[!MORELIKETHIS]
 >
->* [Angebot für Verweis angeben](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Erstellen eines Referrer-Angebots](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Social auf Ihrer Website bereitstellen](deploy-social-on-your-website.md)
+>* [Angebot für Verweis angeben](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Erstellen eines Referrer-Angebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Social auf Ihrer Website bereitstellen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
