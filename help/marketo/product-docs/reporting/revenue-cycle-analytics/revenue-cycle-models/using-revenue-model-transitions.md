@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: Verwenden von Transitionen des Umsatzmodells - Marketing-Dokumente - Produktdokumentation
 title: Verwenden der Transitionen des Umsatzmodells
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -30,15 +30,15 @@ Wenn Sie Ihr Modell erstellen und die Bestandsstufen auswählen und organisieren
    >&#39;Anonyme ⇒ Bekannte&#39; Transitionen können nicht bearbeitet werden.
 
 1. Für die ausgewählte Transition wird eine neue Registerkarte geöffnet.   ![](assets/three-1.png)
-1. Transitionen steuern, wie sich Interessenten zwischen Phasen bewegen. Ziehen Sie den Auslöser (oder Filter) Ihrer Wahl von rechts und lassen Sie ihn an einer beliebigen Stelle auf die Arbeitsfläche los. In diesem Beispiel wählen wir den Auslöser &quot;Formular ausfüllen&quot;aus.
+1. Transitionen steuern, wie sich Interessenten zwischen Phasen bewegen. Ziehen Sie den Trigger (oder Filter) Ihrer Wahl von rechts und lassen Sie ihn an einer beliebigen Stelle auf die Arbeitsfläche los. In diesem Beispiel wählen wir den Trigger Formular ausfüllen aus.
 
    >[!TIP]
    >
-   >Da der Umsatzmodellierer Sie für den Berichte eingerichtet hat, wird empfohlen, dass die Transitionen immer Auslöser enthalten. Auf diese Weise spiegeln Ihre Berichte die wahre Geschwindigkeit Ihres Modells/Ihres Bühnenflusses wider. Bei zusätzlichen Einschränkungen können Filter mit den Auslösern hinzugefügt werden.
+   >Da der Umsatzmodellierer Sie für den Berichte eingerichtet hat, wird empfohlen, dass die Transitionen immer Trigger enthalten. Auf diese Weise spiegeln Ihre Berichte die wahre Geschwindigkeit Ihres Modells/Ihres Bühnenflusses wider. Für zusätzliche Einschränkungen können Filter mit den Triggern hinzugefügt werden.
 
    ![](assets/four-2.png)
 
-1. Wählen Sie die Parameter für den ausgewählten Auslöser/Filter aus.
+1. Wählen Sie die Parameter für den ausgewählten Trigger/Filter aus.
 
    ![](assets/five-2.png)
 
@@ -60,8 +60,6 @@ Wenn Sie Ihr Modell erstellen und die Bestandsstufen auswählen und organisieren
 
 Gut gemacht! Sie haben Ihre Transitionen erfolgreich geändert.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Genehmigung/Aufhebung der Genehmigung eines Umsatzmodells](approve-unapprove-a-revenue-model.md)
