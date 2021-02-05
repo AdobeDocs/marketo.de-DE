@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Erstellen Sie einen Bericht zur E-Mail-Analyse, der Listen Interessenten - Marketing Docs - Produktdokumentation
 title: Erstellen Sie einen Bericht zur E-Mail-Analyse mit Listen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Erstellen Sie einen Bericht zur E-Mail-Analyse, in dem die Listen {#build-an-email-analysis-report-that-lists-leads}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
