@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: Einblick in die Einsatzbewertung - Marketing-Dokumente - Produktdokumentation
 title: Einsatzergebnis
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Die Interaktionsbewertung {#understanding-the-engagement-score}
 
-Mit dem Interaktionswert können Sie leicht erkennen, wie effektiv der Inhalt in Ihrem Interaktions-Programm ist. Der Wert liegt zwischen 0 und 100. Sehen Sie sich [das Dashboard Interaktion](the-engagement-dashboard.md) an, um zu sehen, wie Sie die Leistung Ihres Inhalts verfolgen können.
+Mit dem Interaktionswert können Sie leicht erkennen, wie effektiv der Inhalt in Ihrem Interaktions-Programm ist. Der Wert liegt zwischen 0 und 100. Sehen Sie sich [das Dashboard Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) an, um zu sehen, wie Sie die Leistung Ihres Inhalts verfolgen können.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ Interaktionswerte sind universell für alle Kunden. Sie können sie vergleichen,
 
 >[!MORELIKETHIS]
 >
->* [Einblick in die Programme der Interaktion](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[Einblick in die Programme der Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
