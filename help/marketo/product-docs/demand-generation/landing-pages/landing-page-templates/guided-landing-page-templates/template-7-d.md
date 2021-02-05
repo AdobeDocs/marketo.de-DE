@@ -3,9 +3,9 @@ unique-page-id: 8783950
 description: Vorlage 7-D - Marketing Docs - Produktdokumentation
 title: Vorlage 7-D
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 7-D {#template-d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 7-D herunterladen](http://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&amp;modificationdate=1437693396000&amp;api=v2)
+[Vorlage 7-D herunterladen](https://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&amp;modificationdate=1437693396000&amp;api=v2)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -27,6 +27,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Vier Textkörperabschnitte (optional)
 * Fußzeile (optional)
 
-Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:
+**Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template7-D.html](http://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&amp;modificationdate=1437693396000&amp;api=v2)
+[Template7-D.html](https://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&amp;modificationdate=1437693396000&amp;api=v2)
