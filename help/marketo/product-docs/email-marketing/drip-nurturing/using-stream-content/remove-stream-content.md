@@ -3,7 +3,7 @@ unique-page-id: 2359915
 description: Stream-Inhalt entfernen - Marketing-Dokumente - Produktdokumentation
 title: Stream-Inhalte entfernen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Stream-Inhalt {#remove-stream-content} entfernen
 
-Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalten behält [Archivieren](archive-and-unarchive-stream-content.md) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie zu entfernen, hier ist, wie Sie das machen.
+Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalten behält [Archivieren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie zu entfernen, hier ist, wie Sie das machen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -29,7 +29,6 @@ Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von S
 
    >[!CAUTION]
    >
-   >Entfernen Sie Inhalte nur, wenn Sie nichts über die Geschichte wissen. Wenn Sie den Verlauf beibehalten möchten, [archive](archive-and-unarchive-stream-content.md) stattdessen verwenden.
+   >Entfernen Sie Inhalte nur, wenn Sie nichts über die Geschichte wissen. Wenn Sie den Verlauf beibehalten möchten, [archive](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) stattdessen verwenden.
 
    Das ist&#39;s! Jetzt wissen Sie, wie man ein Stück Inhalt entfernt.
-
