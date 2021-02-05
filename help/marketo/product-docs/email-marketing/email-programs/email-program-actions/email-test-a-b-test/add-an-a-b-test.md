@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: hinzufügen eines A/B-Tests - Marketing Docs - Produktdokumentation
 title: hinzufügen eines A/B-Tests
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Tests sind eine großartige Möglichkeit, Ihre E-Mails für eine bessere Interak
    >
    >Wenn sich in Ihrer Datenbank Duplikat-Datensätze befinden, erhalten diese Datensätze **sowohl die Test- als auch die Gewinner-E-Mails.** Um dies zu verhindern, vergewissern Sie sich, dass [Personen mit Duplikat](http://docs.marketo.com/x/G4EI) in Ihrer Datenbank suchen und zusammenführen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [A/B-Tests mit &quot;Betreffzeile&quot;verwenden](use-subject-line-a-b-testing.md)
 >* [A/B-Tests mit &quot;Gesamter E-Mail&quot;](use-whole-email-a-b-testing.md)
