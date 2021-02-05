@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: '"Betreffzeile" A/B-Tests - Marketing Docs - Produktdokumentation'
 title: A/B-Tests mit "Betreffzeile"verwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,8 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Einer der häufigsten Tests is
 
    Okay, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md) definieren.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
