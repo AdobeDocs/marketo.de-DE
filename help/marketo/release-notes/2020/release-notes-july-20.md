@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Versionshinweise - 20. Juli - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juli 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom 20. Juli enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Beachten Sie, dass je nach aktuellem Paket Artikel mit einem Stern ( ![(star)](assets/star-yellow.svg)) möglicherweise den Kauf eines Wertzusatzes erfordern. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
