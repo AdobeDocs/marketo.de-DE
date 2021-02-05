@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Definieren einer Audience mit einer intelligenten Liste - Marketing Docs - Produktdokumentation
 title: Definieren einer Audience mit einer intelligenten Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Po
 >
 >Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36.png) auf der Kachel &quot;Audience&quot;, um zu sehen, wie viele Personen die E-Mail erhalten werden.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Vorhandene E-Mail auswählen](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [E-Mail für ein E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
