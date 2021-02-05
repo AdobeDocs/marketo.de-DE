@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Einblick in die Programme der Interaktion - Marketing-Dokumente - Produktdokumentation
 title: Einblick in die Programme der Interaktion
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Interaktions-Programme sind so konzipiert, dass sie neue Menschen vermarkten, in
 
 ## Interaktions-Programm {#engagement-program}
 
-Ein **engagement pr****ogramm** ist eine Art Programm, das komplexe Pflege mit Leichtigkeit durchführen kann.
+Ein **Programm für Interaktionen** ist ein Programm, das komplexe Pflegeaufgaben mit Leichtigkeit durchführen kann.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
-Verwandter Artikel:
-
-* [Interaktives Programm erstellen](create-an-engagement-program.md)
+>[!MORELIKETHIS]
+>
+>[Interaktives Programm erstellen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## Stream {#stream}
 
@@ -35,10 +35,11 @@ Ein **stream** ist ein Pool von priorisierten Inhalten, die vom Interaktionswerk
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
-Verwandte Artikel:
+>[!MORELIKETHIS]
+>
+>* [hinzufügen eines Streams](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [Stream klonen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-* [hinzufügen eines Streams](add-a-stream.md)
-* [Stream klonen](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## Inhalt {#content}
 
@@ -46,13 +47,14 @@ Es gibt zwei Typen von **content**, die Sie zu Interaktions-Programm-Streams hin
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
-Verwandte Artikel:
+>[!MORELIKETHIS]
+>
+>* [hinzufügen von Inhalten in einem Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Stream-Inhalte priorisieren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [Verfügbarkeit von Stream-Inhalten bearbeiten](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [Stream-Inhalte entfernen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+>* [Archivieren und Archivieren von Stream-Inhalten](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-* [hinzufügen von Inhalten in einem Stream](add-content-to-a-stream.md)
-* [Stream-Inhalte priorisieren](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
-* [Verfügbarkeit von Stream-Inhalten bearbeiten](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
-* [Stream-Inhalte entfernen](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-* [Archivieren und Archivieren von Stream-Inhalten](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## Cast {#cast}
 
@@ -66,21 +68,17 @@ Ein **cast** ist das Ereignis, E-Mails von einem Interaktions-Programm zu senden
 
 Sie entscheiden, wann eine Besetzung stattfindet, indem Sie **Stream-Kadenz** einrichten. Auf diese Weise planen Sie, dass Inhalte in regelmäßigen Abständen ausgeführt werden.
 
-^ ![](assets/image2014-9-15-15-3a25-3a27.png)
+![](assets/image2014-9-15-15-3a25-3a27.png)
 
-`
-
-Verwandter Artikel:
-
-* [Stream-Kadenz festlegen](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[!MORELIKETHIS]
+>
+>[Stream-Kadenz festlegen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## Personenkasse {#person-cadence}
 
 Ein **Personenkatadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte von einem Interaktions-Programm zu empfangen. Sie können den Flussschritt **Programm-Kadenz ändern** verwenden, um dies in &quot;Angehalten&quot;oder &quot;Normal&quot;zu ändern.
 
-^ ![](assets/image2014-9-15-15-3a25-3a55.png)
-
-`
+![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Abgebrannt {#exhausted}
 
@@ -90,11 +88,7 @@ Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Per
 
 >[!MORELIKETHIS]
 >
->* [Personen mit abgelaufenem Inhalt](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
-
->
-
-
+>[Personen mit abgelaufenem Inhalt](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## Content-Interaktionsstufe {#content-engagement-level}
 
@@ -102,9 +96,4 @@ Die Ebene der Inhaltsinteraktion ist ein 0 bis 100-Punkt-Ergebnis, das Marketo I
 
 >[!MORELIKETHIS]
 >
->* [Einsatzergebnis](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
-
->
-
-
-
+>[Einsatzergebnis](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
