@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: Gruppen-E-Mail-Berichte nach Segmenten - Marketing-Dokumente - Produktdokumentation
 title: E-Mail-Berichte nach Segmenten gruppieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Segmente sind nicht nur für dynamische Inhalte gedacht. Sie können Ihren [E-Ma
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Assets in einem E-Mail-Bericht filtern](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
