@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: Verwenden Sie Promo-Codes zur Angebot-Fulfillment - Marketing Docs - Produktdokumentation
 title: Verwenden von Promo-Codes für die Angebot-Fulfillment
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Wenn Sie ein Angebot für Verweise oder einen Preisausschreiben erstellen, könn
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Wechseln Sie im Referrer-Angebot-Editor zu **App-Einstellungen** und dann **Angebot-Details.**
+1. Wechseln Sie im Editor für Verweisdokumente zu **App-Einstellungen** und dann **Angebot-Details**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ Wenn Sie ein Angebot für Verweise oder einen Preisausschreiben erstellen, könn
 
    >[!CAUTION]
    >
-   >
    >Jeder Leerraum in der Datei mit den Promo-Codes wird als Teil des Codes in dieser Zeile behandelt. Achten Sie besonders darauf, Leerzeichen am Ende jeder Zeile zu vermeiden.
 
 1. Nach Abschluss des Uploads wird die Gesamtanzahl der hochgeladenen Codes angezeigt.
@@ -52,7 +51,7 @@ Sobald die Beginn, die Ihr Angebot belohnen, teilnehmen, können Sie sehen, an w
 
 >[!NOTE]
 >
->Nur Marketo-Benutzer mit der Berechtigung *Access Awards* haben Zugriff auf diese Informationen. Siehe [Verwalten von Benutzerrollen und Berechtigungen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Nur Marketo-Benutzer mit der Berechtigung _Access Awards_ haben Zugriff auf diese Informationen. Siehe [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
