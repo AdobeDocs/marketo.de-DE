@@ -3,7 +3,7 @@ unique-page-id: 2359910
 description: Verfügbarkeit von Stream-Inhalten bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Verfügbarkeit von Stream-Inhalten bearbeiten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Wählen Sie das Datum **Aktiv ab**, dann das Datum **Aktiv bis **und klicken Sie auf **Speichern**.
+1. Wählen Sie das Datum **Aktiv ab**, dann das Datum **Aktiv bis** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
@@ -31,5 +31,6 @@ Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein sol
    >
    >Sie können **Aktiv bis** leer lassen, um Inhalte für immer verfügbar zu machen.
 
-   Perfekt! Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Es wird gemäß dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.   ![](assets/image2014-9-15-17-3a36-3a4.png)
+   Perfekt! Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Es wird gemäß dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
 
+   ![](assets/image2014-9-15-17-3a36-3a4.png)
