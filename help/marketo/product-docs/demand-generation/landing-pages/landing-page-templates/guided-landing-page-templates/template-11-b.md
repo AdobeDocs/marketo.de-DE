@@ -1,11 +1,11 @@
 ---
 unique-page-id: 9437559
-description: Vorlage 11-B - Marketing Docs - Produktdokumentation
+description: Vorlage 11-F - Marketing Docs - Produktdokumentation
 title: Meldebogen 11-B
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 11-B {#template-b}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 11-B herunterladen](http://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
+[Vorlage 11-B herunterladen](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -27,6 +27,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Vier Textkörperabschnitte (optional)
 * Fußzeile (optional)
 
-Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:
+**Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template11-B.html](http://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
+[Template11-B.html](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
