@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Stellen Sie eine Marketing-E-Mail-Hinzufügen-in-Lizenz aus - Marketing-Dokumente - Produktdokumentation
 title: Eine Marketing-E-Mail-Hinzufügen-Lizenz ausstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Jeder, der das Hinzufügen-in von Marketo E-Mail an Outlook verwenden möchte, m
 * **[Enterprise Key-Installation](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Verwenden Sie diese Methode, wenn die Vertriebsmitarbeiter keine Administratorrechte für ihre Laptops haben und keine Plugins, Software usw. installieren können. auf. In diesem Fall stellt der Marketing-Administrator Lizenzen für eine Liste autorisierter Benutzer aus. Als Nächstes stellt das IT-Team das Plugin mithilfe des Enterprise-Schlüssels remote auf allen Computern autorisierter Benutzer bereit. Der Plug-in-Benutzer autorisiert es dann.
 * **[Installation](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)** des Registrierungscodes: Verwenden Sie diese Methode, wenn Vertriebsmitarbeiter über Administratorrechte für ihren Laptop verfügen und Plugins, Software usw. installieren können. auf. Zu diesem Zweck erteilt der Marketing-Administrator Lizenzen an eine Liste autorisierter Benutzer und sendet ihnen Registrierungs-E-Mails direkt mit Downloadlinks. Der Vertriebsmitarbeiter erhält eine E-Mail mit einem Plugin-Download-Link und einer eindeutigen Registrierungs-URL.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
