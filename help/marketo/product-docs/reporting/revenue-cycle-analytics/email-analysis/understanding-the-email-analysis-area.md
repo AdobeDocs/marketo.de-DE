@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: Informationen zum Bereich "E-Mail-Analyse"- Marketing-Dokumente - Produktdokumentation
 title: Der Bereich "E-Mail-Analyse"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Der Bereich &quot;E-Mail-Analyse&quot;konzentriert sich auf E-Mail-Metriken. In diesem Artikel werden alle darin verfügbaren Berichte vorgestellt.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Dies steht Benutzern mit dem Add-on Select Edition oder [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) zur Verfügung. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
