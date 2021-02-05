@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack - How Import a Seedlist - Marketing to Docs - Produktdokumentation
 title: Email Deliverability Power Pack - Wie man eine Seedlist importiert
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Eine Seed-Liste ist eine Liste von E-Mail-Konten bei verschiedenen Mailbox-Anbietern, einschließlich Google Apps, Hotmail, Yahoo! usw., die verwendet werden, um die Zustellbarkeit von Inbox- und Spam-Ordnern zu schätzen. So erhalten Sie diese Liste in Ihrer Marketo-Instanz.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
@@ -41,9 +39,9 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei verschiedenen Mailbox-Anbie
 
    >[!NOTE]
    >
-   >Wählen Sie **Liste optimieren**, wenn Sie 250ok zu [Ihre Liste](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) optimieren möchten. Wählen Sie** Liste anpassen**, wenn Sie die gewünschten Listenbereiche auswählen möchten.
+   >Wählen Sie **Liste optimieren**, wenn Sie 250ok zu [Ihre Liste](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) optimieren möchten. Wählen Sie **Liste** anpassen, wenn Sie die gewünschten Listenbereiche auswählen möchten.
 
-1. Nach dem Exportieren wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie es ab und [importieren](../../../getting-started/quick-wins/import-a-list-of-people.md) es als statische Liste in Ihre Marketo-Instanz.
+1. Nach dem Exportieren wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie es ab und [importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) es als statische Liste in Ihre Marketo-Instanz.
 
    ![](assets/five.png)
 
