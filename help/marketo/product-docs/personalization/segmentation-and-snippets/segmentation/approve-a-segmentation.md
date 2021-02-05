@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Genehmigung einer Segmentierung - Marketing-Dokumente - Produktdokumentation
 title: Genehmigen einer Segmentierung
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 >
 >Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [SegmentFilter in einer intelligenten Liste verwenden](use-segment-filters-in-a-smart-list.md)
 
