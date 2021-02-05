@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: Testen eines Interaktionsstreams - Marketing-Dokumente - Produktdokumentation
 title: Interaktions-Stream testen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Nachdem Sie den gesamten Inhalt zu einem Stream hinzugefügt haben, können Sie 
 
    ![](assets/two.png)
 
-1. Klicken Sie auf** Programm Actions** und wählen Sie **Test Stream**.
+1. Klicken Sie auf **Programm Actions** und wählen Sie **Test Stream**.
 
    ![](assets/three.png)
 
-1. Wählen Sie Ihre Person aus der Dropdownliste **Testperson **aus. Denken Sie daran, dass Inhalte tatsächlich ausgehen, also denken Sie bei der Auswahl daran.
+1. Wählen Sie Ihre Person aus der Dropdownliste **Testperson**. Denken Sie daran, dass Inhalte tatsächlich ausgehen, also denken Sie bei der Auswahl daran.
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ Nachdem Sie den gesamten Inhalt zu einem Stream hinzugefügt haben, können Sie 
    Klicken Sie auf &quot;Ursprünglicher Stream&quot;, wählen Sie den zu testenden Stream aus und klicken Sie auf &quot;Beschneiden ausführen&quot;.
    ![](assets/five-rubiks.png)
 
-1. Wenn die Person die zuvor eingerichteten [Transitionen](transition-people-between-engagement-streams.md) durchläuft, klicken Sie auf das Symbol Aktualisieren.
+1. Wenn die Person die zuvor eingerichteten [Transitionen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) durchläuft, klicken Sie auf das Symbol Aktualisieren.
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ Nachdem Sie den gesamten Inhalt zu einem Stream hinzugefügt haben, können Sie 
 
    >[!NOTE]
    >
-   >Es werden keine weiteren Inhalte gesendet, es sei denn, Sie klicken auf **Cast ausführen **nochmal.
-
+   >Es werden keine weiteren Inhalte gesendet, es sei denn, Sie klicken auf **Cast erneut ausführen**.
