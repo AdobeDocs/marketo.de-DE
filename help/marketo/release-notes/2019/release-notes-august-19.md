@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Versionshinweise - 19. August - Marketing Docs - Produktdokumentation
 title: Versionshinweise - August 19
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Einstieg:** Schrittweise Anleitung erleichtert und verbessert das Einsteigen, indem neue Benutzer durch die Instanzeinrichtung geführt werden.
 * **Verbesserung des Personenseitenlayouts:** Verwalten Sie Ihre Personen und Gruppen durch Importe von Listen und Massenaktionen im neuen Personenseitenlayout.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Marketo-Kundenbetreuer, um mehr zu erfahren.
 
