@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Erstellen Sie einen Bericht zur E-Mail-Analyse, der Programm-Informationen - Marketing-Dokumente - Produktdokumentation anzeigt.
 title: Erstellen eines Berichts zur E-Mail-Analyse mit Programm-Informationen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstellen, der E-Mail-Informationen nach Programm-Kanälen gruppiert anzeigt.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
