@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: Erstellen eines Berichts über den Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
 title: Erstellen eines Berichts für den Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Mit dem Bericht &quot;Umsatz-Explorer&quot;können Sie den ROI Ihrer Marketinginitiativen verfolgen.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
