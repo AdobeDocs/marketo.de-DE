@@ -3,9 +3,9 @@ unique-page-id: 37355826
 description: Versionshinweise - 20. Februar - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Feb '20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
