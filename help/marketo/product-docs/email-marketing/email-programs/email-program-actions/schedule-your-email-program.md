@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Planen Sie Ihr E-Mail-Programm - Marketing Docs - Produktdokumentation
 title: Planen Ihres E-Mail-Programms
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Wenn Ihr E-Mail-Programm erstellt, die Audience definiert und E-Mail ausgewählt
 
    Wie einfach war das? Das einzige, was noch übrig ist, ist [Genehmigen Sie ein E-Mail-Programm](approve-unapprove-an-email-program.md) und Sie sind gut zu gehen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [E-Mail-Programm mit Zeitzone des Empfängers planen](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Beginn für E-Mail-Programme](head-start-for-email-programs.md)
