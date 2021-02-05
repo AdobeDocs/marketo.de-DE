@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: hinzufügen ein E-Mail-Champion/Challenger - Marketing Docs - Produktdokumentation
 title: hinzufügen eines E-Mail-Champions/Challenger
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ Hier ist, wie man anfängt.
 
 1. Es wird ein neues Fenster mit verschiedenen Testtypoptionen geöffnet. Lesen Sie die entsprechenden Artikel unten, um mehr über sie zu erfahren.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
