@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Head Beginn für E-Mail-Programme - Marketing Docs - Produktdokumentation
 title: Beginn für E-Mail-Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Das bedeutet, dass Sie, wenn Sie in Amerika/Los Angeles sind und sowohl Head-Beg
 
 [Erfahren Sie ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mehr darüber, wie Sie E-Mail-Programm mit der Zeitzone des Empfängers planen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Planen Ihres E-Mail-Programms](schedule-your-email-program.md)
 >* [E-Mail-Programm mit Zeitzone des Empfängers planen](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
