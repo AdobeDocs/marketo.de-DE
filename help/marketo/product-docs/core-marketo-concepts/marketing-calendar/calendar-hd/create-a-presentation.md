@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Präsentation erstellen - Marketing-Dokumente - Produktdokumentation
 title: Erstellen einer Präsentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Erstellen Sie eine Präsentation, um die Kalenderziele und Ansichten Ihres Teams auf einem HDTV zu präsentieren. Presentations ist Workspace-spezifisch.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
