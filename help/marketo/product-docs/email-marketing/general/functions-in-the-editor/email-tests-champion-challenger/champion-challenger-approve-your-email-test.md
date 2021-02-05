@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -40,13 +40,12 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
 
    >[!NOTE]
    >
-   >Um den Test zu senden, wählen Sie die E-Mail, der Sie den Test hinzugefügt haben, im Flussschritt **E-Mail senden** Ihrer Auslöser-Kampagne. Sie haben auch die Möglichkeit, diese E-Mail in einen Stream eines Interaktions-Programms einzufügen. Champion/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
+   >Um den Test zu senden, wählen Sie die E-Mail, der Sie den Test hinzugefügt haben, im Textfluss **E-Mail senden** Ihrer Trigger-Kampagne aus. Sie haben auch die Möglichkeit, diese E-Mail in einen Stream eines Interaktions-Programms einzufügen. Champion/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
 
    War das nicht einfach? Sobald Sie einige Berichte erhalten haben, möchten Sie einen Champion erklären.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
