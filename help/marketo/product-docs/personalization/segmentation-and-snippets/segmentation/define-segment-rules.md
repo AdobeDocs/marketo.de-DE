@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Segmentregeln definieren - Marketing-Dokumente - Produktdokumentation
 title: Segmentregeln definieren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Gute Arbeit! Diese Segmente werden an vielen Orten in Marketo praktisch sein.
 >
 >Der Bildschirm &quot;Personen (Entwurf)&quot;zeigt alle Personen an, die sich als Mitglied qualifizieren und nicht immer die endgültige Liste von Personen ist. Genehmigen Sie Ihr Segment, um die endgültige Liste anzuzeigen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Genehmigen einer Segmentierung](approve-a-segmentation.md)
 
