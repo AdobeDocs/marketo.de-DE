@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Vergleichen Sie die Effektivität von Programmen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ Wir sehen, dass das Paper Fest 12-Programm nicht nur mehr Umsatz (größere Blas
 >
 >Sie können die Programm in einem Kanal schnell mit denen in einem anderen vergleichen. Verwenden Sie einfach den **Kanal-Filter** oben im Fenster, um weitere Kanal hinzuzufügen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Programm- und Kanal-Details mit dem Programm Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Kanal-Effektivität mit dem Programm-Analyzer vergleichen](compare-channel-effectiveness-with-the-program-analyzer.md)
