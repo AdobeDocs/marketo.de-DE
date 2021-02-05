@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Präsentation anpassen - Marketing-Dokumente - Produktdokumentation
 title: Anpassen einer Präsentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Richten Sie Ihre Kalenderpräsentation so ein, dass sie die Ziele und Aktivitäten widerspiegelt, die für Ihr Team am wichtigsten sind.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
