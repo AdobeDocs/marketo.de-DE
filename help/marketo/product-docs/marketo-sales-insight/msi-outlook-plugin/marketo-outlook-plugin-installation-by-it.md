@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Installation des Marketo Outlook Plugins durch IT - Marketing Docs - Produktdokumentation
 title: Installation des Marketo Outlook Plugins durch IT
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -44,11 +44,9 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 >
 >Der Speicherort der Protokolldatei muss vorhanden sein, damit die Datenspeicherung abgebrochen werden kann.
 
-Bitte lesen Sie die vollständige Liste der Switches[ von Microsoft, wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten.](https://support.microsoft.com/en-us/kb/227091)
+Bitte lesen Sie die vollständige Liste der Switches](https://support.microsoft.com/en-us/kb/227091) von Microsoft, wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten.[
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Marketo Outlook Plugin Uninstall by IT](marketo-outlook-plugin-uninstall-by-it.md)
 
