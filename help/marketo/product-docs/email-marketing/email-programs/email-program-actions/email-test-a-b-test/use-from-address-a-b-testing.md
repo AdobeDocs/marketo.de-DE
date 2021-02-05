@@ -3,9 +3,9 @@ unique-page-id: 2359504
 description: A/B-Tests mit "Von Adresse" - Marketing-Dokumentation - Produktdokumentation
 title: A/B-Tests mit "Von Adresse"verwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der
 
    OK, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md) definieren.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
