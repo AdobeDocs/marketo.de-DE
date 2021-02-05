@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Anpassen von Sternen und Flammen - Marketo Docs - Produktdokumentation
 title: Anpassen von Sternen und Flammen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Insight verwendet Sterne und Flammen, um Interessenten zu priorisieren. Marketo entscheidet automatisch, wer 1-2-3 Sterne/Flammen bekommt. Sie können die Formel jedoch ändern. So geht es:
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
