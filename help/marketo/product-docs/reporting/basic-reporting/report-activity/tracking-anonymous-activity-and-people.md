@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: Verfolgung anonymer Aktivitäten und Personen - Marketing Docs - Produktdokumentation
 title: Verfolgung anonymer Aktivitäten und Personen
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ Wenn jemand zum ersten Mal eine Marketo [Landingpage](../../../../product-docs/d
    >
    >Wenn anonyme Datensätze in einen neuen oder vorhandenen Personensatz zusammengeführt werden, werden benutzerdefinierte Feldwerte **nicht** übertragen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
