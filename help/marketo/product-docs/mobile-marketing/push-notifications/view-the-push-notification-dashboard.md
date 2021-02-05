@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: Ansicht des Push-Benachrichtigungs-Dashboards - Marketing Docs - Produktdokumentation
 title: Ansicht des Push-Benachrichtigungs-Dashboards
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ Es ist einfach zu erkennen, wie Ihre Push-Benachrichtigungen funktionieren.
    >
    >Die Metrik **Gesendet** kann mehr Sends als die exakte Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang des Push-Vorgangs infrage kommen. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sends, nicht eine.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
