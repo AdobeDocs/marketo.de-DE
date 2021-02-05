@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Erste Schritte mit Sales Connect - Marketing Docs - Produktdokumentation
 title: Erste Schritte mit Sales Connect
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Wenn Sie diese Schritte lieber als gelesen ansehen möchten, gehen Sie direkt zu den [Videoanweisungen unter](#video).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Wenden Sie sich für weitere Informationen an Ihren Kundenbetreuer.
 
