@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: Filtern von Assets in E-Mail-Berichten einer Kampagne - Marketing to Docs - Produktdokumentation
 title: Filtern von Assets in E-Mail-Berichten einer Kampagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ Konzentrieren Sie den Bericht [Kampagne E-Mail-Leistung](../../../../product-doc
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
