@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: Interaktions-Stream-Leistungsbericht - Marketing-Dokumente - Produktdokumentation
 title: Interaktions-Stream-Leistungsbericht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
    >[!TIP]
    >
-   >
-   >Obwohl nicht illustriert, ist die Interaktionsbewertung eine Spalte in diesem Bericht. Weitere Informationen dazu finden Sie unter [Einblick in den Einsatzwert](understanding-the-engagement-score.md).
+   >Obwohl nicht illustriert, ist die Interaktionsbewertung eine Spalte in diesem Bericht. Weitere Informationen dazu finden Sie unter [Einblick in den Einsatzwert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Gute Arbeit! Beachten Sie, dass der Bericht nach Interaktionsdaten gruppiert ist.
-
