@@ -3,7 +3,7 @@ unique-page-id: 2359759
 description: Schaltfläche "Social-App anpassen"- "Marketing-Dokumente - Produktdokumentation"
 title: Schaltfläche "Social-App anpassen"
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Schaltfläche &quot;Social-App anpassen&quot; {#customize-social-app-button}
 
-Wenn Sie eine [Social-Schaltfläche](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) oder ein [Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie das Erscheinungsbild der Schaltflächen anpassen.
+Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) oder ein [Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie das Erscheinungsbild der Schaltflächen anpassen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten.**
+1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -61,5 +61,4 @@ Wenn Sie eine [Social-Schaltfläche](../../../../product-docs/demand-generation/
 
 >[!MORELIKETHIS]
 >
->Bei einer Social-Schaltfläche müssen Sie [konfigurieren, wenn sie geöffnet wird](configure-when-social-button-opens.md). Geben Sie für ein Verweisziel [das Angebot-Angebot](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) an.
-
+>Bei einer Social-Schaltfläche müssen Sie [konfigurieren, wenn sie geöffnet wird](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Geben Sie für ein Verweisziel [das Angebot-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) an.
