@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: hinzufügen einer mobilen App - Marketing Docs - Produktdokumentation
 title: hinzufügen einer mobilen App
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ Senden Sie Push-Benachrichtigungen an Ihren Kundenstamm, indem Sie Ihre mobile A
 
 Apps werden in der Regel in einer Sandbox-Umgebung Beginn, in der Erstentwicklungen und Tests durchgeführt werden. Entwickler verwenden dann eine Produktions-Umgebung, um die endgültige App zu erstellen, die von Kunden verwendet wird. Sie müssen beim Hinzufügen einer mobilen App das entsprechende Benachrichtigungszertifikat auswählen (siehe Schritt 4 unten).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
