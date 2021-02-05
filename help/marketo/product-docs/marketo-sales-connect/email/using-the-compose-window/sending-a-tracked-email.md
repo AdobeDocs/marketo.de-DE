@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Versenden einer verfolgten E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Senden einer verfolgten E-Mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird geÃ
 
    ![](assets/five.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
