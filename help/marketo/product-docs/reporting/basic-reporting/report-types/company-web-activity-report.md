@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Firma Web Aktivität Report - Marketing Docs - Produktdokumentation
 title: Bericht zur Web-Aktivität der Firma
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Erstellen Sie einen [Bericht zur Aktivität der Webseite](web-page-activity-repo
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Personen oder anonyme Besucher in Webberichten anzeigen](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
