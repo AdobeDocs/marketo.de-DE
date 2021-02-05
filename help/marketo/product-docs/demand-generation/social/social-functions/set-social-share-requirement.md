@@ -3,7 +3,7 @@ unique-page-id: 2359821
 description: Social Sharing-Anforderung festlegen - Marketing-Dokumente - Produktdokumentation
 title: Social Sharing-Voraussetzung festlegen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Social Sharing-Voraussetzung festlegen {#set-social-share-requirement}
 
-Wenn Sie [ein Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie festlegen, dass Personen das Angebot freigeben müssen, um sich anzumelden, oder dass es optional sein muss.
+Wenn Sie [ein Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie festlegen, dass Personen das Angebot freigeben müssen, um sich anzumelden, oder dass es optional sein muss.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -31,10 +31,9 @@ Wenn Sie [ein Referrer-Angebot](../../../../product-docs/demand-generation/socia
 
    ![](assets/four.png)
 
-   * **Person Capture > Freigeben**: Die Person kann die Freigabe überspringen und sich einfach anmelden.
-   * **Freigabe > Personenerfassung**: Die Person muss freigegeben werden, um sich zu registrieren.
+   * **Personenerfassung** >  **Freigeben**: Die Person kann die Freigabe überspringen und sich einfach anmelden.
+   * **Freigabe** >  **Personenerfassung**: Die Person muss freigegeben werden, um sich zu registrieren.
 
 1. Die einzelnen Optionen finden Sie in der Vorschau im Fenster **Ansicht &amp; Bearbeiten**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
-
