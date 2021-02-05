@@ -3,7 +3,7 @@ unique-page-id: 7504180
 description: Verwenden Sie eine Marketing-Liste oder intelligente Liste als LinkedIn-Audience-Segment - Marketing-Dokumente - Produktdokumentation
 title: Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
 
 >[!PREREQUISITES]
 >
->* [hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
->
-
-
-
-1. Gehen Sie zur** Datenbank*.
+1. Gehen Sie zur Datenbank ****.
 
    ![](assets/db.png)
 
@@ -35,7 +31,7 @@ Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie unten in der Liste auf das Symbol** Über Anzeigenbrücke senden **![—](assets/image2015-4-20-18-3a18-3a41.png).
+1. Klicken Sie unten in der Liste auf das Symbol **Über Anzeigenbrücke senden** ![—](assets/image2015-4-20-18-3a18-3a41.png).
 
    ![](assets/four-1.png)
 
@@ -43,7 +39,7 @@ Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
    >
    >Wenn Sie mit Ad-Netzwerk-Integrationen eine Audience an LinkedIn senden, sendet Marketo nur die E-Mail-Adresse.
 
-1. Wählen Sie** LinkedIn** und klicken Sie auf **Weiter**.
+1. Wählen Sie **LinkedIn** und klicken Sie auf **Weiter**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -67,6 +63,4 @@ Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
    >
    >Die Synchronisierung dauert etwa 15 Minuten.
 
-   [LinkedIn&#39;s Marketing-Lösungen-Hilfecenter](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
-
-Hoch fünf! Ihre Daten werden nun mit den Audiencen von LinkedIn abgeglichen. Weitere Informationen zum Hochladen von Listen zu LinkedIn für Konto- und Kontaktanbieter-Targeting finden Sie unter .
+Hoch fünf! Ihre Daten werden nun mit den Audiencen von LinkedIn abgeglichen. Weitere Informationen zum Hochladen von Listen zu LinkedIn für Konto- und Kontaktanbieter-Targeting finden Sie im Hilfeszentrum [LinkedIn für Marketing-Lösungen](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
