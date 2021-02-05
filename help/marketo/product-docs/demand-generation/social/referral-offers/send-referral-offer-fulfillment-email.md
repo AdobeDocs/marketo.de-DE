@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Verweisdokument per E-Mail an Angebot senden - Marketing-Dokumente - Produktdokumentation
 title: Verweisende Angebot-Fulfillment-E-Mail senden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Diskontcodes, indem Sie die Angebot
 
 >[!PREREQUISITES]
 >
->* [E-Mails in Social-Promotions verwenden](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Erstellen eines Referrer-Angebots](create-a-referral-offer.md)
-
->
-
+>* [E-Mails in Social-Promotions verwenden](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Erstellen eines Referrer-Angebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## Einrichten des Fulfillment-Versands {#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Diskontcodes, indem Sie die Angebot
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Wählen Sie unter **App-Einstellungen** **Angebot-Details.**
+1. Wählen Sie unter **App-Einstellungen** **Angebot-Details**.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. Wählen Sie eine **Anmelde-E-Mail**.
 
@@ -46,10 +41,7 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Diskontcodes, indem Sie die Angebot
 
    >[!NOTE]
    >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über [E-Mails in sozialen Promotions](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Erfahren Sie mehr über [E-Mails in sozialen Promotions](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
 1. Klicken Sie auf die Dropdownliste **Fulfillment-Versand** und wählen Sie **auto bei Ziel**.
 
@@ -65,7 +57,7 @@ Sie können eine Fulfillment-E-Mail manuell an eine Person senden, sobald diese 
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Klicken Sie auf die Option **Filter nach **und wählen Sie **Ziel**.
+1. Klicken Sie auf die Option **Filtern nach** und wählen Sie **Ziel**.
 
    >[!NOTE]
    >
