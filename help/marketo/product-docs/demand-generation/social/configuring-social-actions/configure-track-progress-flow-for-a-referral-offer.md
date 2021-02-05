@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: Konfigurieren des Trackfortschrittsflusses für ein Referrer-Angebot - MarketingToDocs - Produktdokumentation
 title: Konfigurieren des Trackfortschrittsflusses für ein Referrer-Angebot
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Konfigurieren des Trackfortschrittsflusses für ein Referrer-Angebot {#configure-track-progress-flow-for-a-referral-offer}
 
-Wenn Sie [ein Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie die Eingabeaufforderungen konfigurieren, die den Teilnehmern ihren Fortschritt in Richtung Belohnung anzeigen.
+Wenn Sie [ein Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie die Eingabeaufforderungen konfigurieren, die den Teilnehmern ihren Fortschritt in Richtung Belohnung anzeigen.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -27,7 +27,7 @@ Wenn Sie [ein Referrer-Angebot](../../../../product-docs/demand-generation/socia
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Bearbeiten Sie im Fenster **Ansicht** **&amp;** **Bearbeiten** die Aufforderung, die die Teilnehmer daran erinnert, sich bei demselben sozialen Netzwerk anzumelden, mit dem sie sich für Ihr Angebot angemeldet haben.
+1. Bearbeiten Sie im Fenster **Ansicht &amp; Bearbeiten** die Aufforderung, die die Teilnehmer daran erinnert, sich bei demselben sozialen Netzwerk anzumelden, mit dem sie sich für Ihr Angebot angemeldet haben.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ Wenn Sie [ein Referrer-Angebot](../../../../product-docs/demand-generation/socia
 
 >[!MORELIKETHIS]
 >
->Klicken Sie anschließend auf **Fertig > Genehmigen und Schließen** und [Veröffentlichen Sie Ihr Verweisdokument](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
-
+>Klicken Sie anschließend auf **Fertigstellen** > **Genehmigen und Schließen** und [Veröffentlichen Sie Ihr Verweisdokument](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
