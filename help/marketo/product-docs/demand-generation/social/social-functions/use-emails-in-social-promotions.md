@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: E-Mails in Social Promotions - Marketing-Dokumente - Produktdokumentation
 title: E-Mails in Social-Promotions verwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # E-Mails in Social-Promotions {#use-emails-in-social-promotions} verwenden
 
-Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Gewinnspiel](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie E-Mails einschließen, die gesendet werden, wenn sich die Person anmeldet, und erneut, wenn die Person die Prämie erhalten hat.
+Wenn Sie ein [Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Gewinnspiel](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie E-Mails einschließen, die gesendet werden, wenn sich die Person anmeldet, und erneut, wenn die Person die Prämie erhalten hat.
 
 >[!TIP]
 >
->Informationen zum Erstellen einer E-Mail finden Sie unter [E-Mail-Benachrichtigung senden](../../../../getting-started/quick-wins/send-an-email.md).
+>Informationen zum Erstellen einer E-Mail finden Sie unter [E-Mail-Benachrichtigung senden](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 Verwenden Sie in den E-Mails die folgenden Token:
 
 * **Anmelde-E-Mail**: Verwenden Sie  **`{{social.Share Url}}`** diese Option, um jeder beteiligten Person einen personalisierten Link zur Freigabe zu senden.
 
-* **Fulfillment-E-Mail**: Verwenden Sie  **`{{social.Promo Code}}`** diese Option, um jedem Gewinner einen  [Promo-Code](use-promo-codes-for-offer-fulfillment.md) zu senden.
+* **Fulfillment-E-Mail**: Verwenden Sie  **`{{social.Promo Code}}`** diese Option, um jedem Gewinner einen  [Promo-Code](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) zu senden.
 
 >[!PREREQUISITES]
 >
->Bevor Sie einer Social-App eine E-Mail hinzufügen können, muss sie *operativ* und *genehmigt* sein. Siehe [Einstellungen bearbeiten für eine E-Mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Bevor Sie einer Social-App eine E-Mail hinzufügen können, muss sie _operativ_ und _genehmigt_ sein. Siehe [Einstellungen bearbeiten für eine E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -59,22 +59,19 @@ Verwenden Sie in den E-Mails die folgenden Token:
 
 >[!NOTE]
 >
->Bei einem Preisausschreiben wird die Fulfillment-E-Mail immer automatisch gesendet, wenn Sie [den Gewinner](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md) auswählen.
+>Bei einem Preisausschreiben wird die Fulfillment-E-Mail immer automatisch gesendet, wenn Sie [den Gewinner](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md) auswählen.
 
 >[!NOTE]
 >
 >**Definition**
 >
 >* **auto bei Ziel**: Die Fulfillment-E-Mail wird automatisch gesendet, wenn jeder Teilnehmer das Ziel erreicht.
->* **manuell senden**: Kehren Sie, sobald Beginn das Ziel erreicht haben, zu Ihrem Angebot zurück, um die Fulfillment-E-Mail manuell zu  [senden](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **manuell senden**: Kehren Sie, sobald Beginn das Ziel erreicht haben, zu Ihrem Angebot zurück, um die Fulfillment-E-Mail manuell zu  [senden](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 
 >
 
 
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->Als Nächstes können Sie [die freigegebene URL](choose-the-share-url-for-a-social-app.md) auswählen oder Sie können [die Promo-Codes](use-promo-codes-for-offer-fulfillment.md) in Ihrem Angebot &lt;a2/> hochladen, die Sie abschicken werden.
-
+>Als Nächstes können Sie [die freigegebene URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) auswählen oder Sie können [die Promo-Codes](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) in Ihrem Angebot  hochladen, die Sie abschicken werden.
