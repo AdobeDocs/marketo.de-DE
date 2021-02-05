@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installieren Sie das Hinzufügen-in für Outlook mit einem Registrierungscode - Marketing Docs - Produktdokumentation.
 title: Installieren Sie das Hinzufügen-in für Outlook mit einem Registrierungscode.
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
 Erfahren Sie mehr über die Verwendung der Aktionen &quot;Marketo-Nachricht&quot;und &quot;Mit Marketing anmelden&quot;.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Senden und Verfolgen einer E-Mail mit dem Marketing E-Mail-Hinzufügen für Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Senden und Verfolgen von Outlook mit einer Marketing-Vorlage](send-and-track-from-outlook-using-a-marketo-template.md)
