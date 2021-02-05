@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: hinzufügen von Inhalten in einem Stream - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen von Inhalten in einem Stream
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den S
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Für die intelligente Kampagne muss der Filter **Member of Engagement Programm** enthalten sein, damit dies ordnungsgemäß funktioniert.
 
 **Stream + Symbol**
@@ -118,9 +115,4 @@ Gute Arbeit! Sie kennen jetzt verschiedene Möglichkeiten, Programm-Streams Inha
 
 >[!MORELIKETHIS]
 >
->* [Hinzufügen eines Programms zu einem Interaktions-Programm-Stream](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[Hinzufügen eines Programms zu einem Interaktions-Programm-Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
