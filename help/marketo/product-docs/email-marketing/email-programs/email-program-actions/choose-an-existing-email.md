@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Auswählen einer vorhandenen E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Vorhandene E-Mail auswählen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Nachdem Sie [ein E-Mail-Programm](../../../../product-docs/email-marketing/email
 
 Nachdem wir entschieden haben, welche E-Mail gesendet werden soll, können wir einen A/B-Test einrichten oder diesen überspringen und das E-Mail-Programm planen.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [hinzufügen eines A/B-Tests](email-test-a-b-test/add-an-a-b-test.md)
 >* [Planen Ihres E-Mail-Programms](schedule-your-email-program.md)
