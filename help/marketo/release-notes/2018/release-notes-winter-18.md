@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Versionshinweise - Winter 18 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 18
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen
 
 ## Verbesserungen der Leistung und des Durchsatzes von Kampagnen {#campaign-performance-and-throughput-enhancements}
 
-Marketo nutzt unsere Big-Data-Architektur, um den Durchsatz der Kampagne zu steigern und die Verarbeitung der Web-Aktivität zu verbessern, sodass Sie schneller auf die Aktionen Ihrer Audience reagieren können.
+Marketo nutzt unsere Big-Data-Architektur, um den Durchsatz der Kampagne von Triggern zu steigern und die Verarbeitung von Web-Aktivitäten zu verbessern, sodass Sie schneller auf die Aktionen Ihrer Audience reagieren können.
 
 ## Verbesserungen der Salesforce CRM-Integration von Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
 
@@ -33,9 +33,8 @@ Diese Verbesserungen werden im Laufe des Jahres 2018 eingeführt.
 
 ## [Marketo Performance Insights](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Performance Insights ist ein Zusatzprodukt. Wenden Sie sich zwecks eines Angebots an Ihren Marketing-to-Customer Success Manager oder Kundenbetreuer.
 
@@ -89,7 +88,7 @@ Inhalte, die über die optimierten Content`<sup>AI </sup>`Algorithmen von Market
 
 ** [Kampagne-API aktivieren/deaktivieren](http://developers.marketo.com/rest-api/assets/campaigns/)**
 
-Mit dieser neuen API können Sie auslösende Kampagnen remote aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programm-Vorlagen erstellen können. Erstellen Sie einmal eine Vorlage für ein Programm und automatisieren Sie dann das Klonen, Marketingmaterial-Updates und jetzt die Aktivierung/Planung intelligenter Kampagnen.
+Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programm-Vorlagen erstellen können. Erstellen Sie einmal eine Vorlage für ein Programm und automatisieren Sie dann das Klonen, Marketingmaterial-Updates und jetzt die Aktivierung/Planung intelligenter Kampagnen.
 
 ## ToutApp {#toutapp}
 
