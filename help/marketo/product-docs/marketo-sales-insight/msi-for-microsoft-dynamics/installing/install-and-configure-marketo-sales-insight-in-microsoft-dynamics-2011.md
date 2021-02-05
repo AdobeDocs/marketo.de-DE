@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Installieren und konfigurieren Sie Marketing Sales Insight in Microsoft Dynamics 2011 - Marketing Docs - Produktdokumentation
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2011
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Richten Sie Benutzerrollen ein, um bestimmten Benutzern Zugriff auf Sales Insigh
 
    Herzlichen Glückwunsch! Sie haben jetzt die Kraft von Marketo Sales Insight freigesetzt.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >[Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](http://docs.marketo.com/x/BICMAg)
 
