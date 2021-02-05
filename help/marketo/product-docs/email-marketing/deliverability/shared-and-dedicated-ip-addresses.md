@@ -3,7 +3,7 @@ unique-page-id: 10912085
 description: Freigegebene und dedizierte IP-Adressen - Marketing Docs - Produktdokumentation
 title: Freigegebene und dedizierte IP-Adressen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -31,13 +31,13 @@ Wie üblich gibt es Vor- und Nachteile für beide Optionen.
 
 **Vorteile und Nachteile einer dedizierten IP**
 
-*Vorteile*
+_Vorteile_
 
 **Reputation**  - Sie besitzen Ihren Ruf und Ihre Lieferbarkeit.\
 **Überwachung**  - Durch die Überwachung Ihres Berichte zur Lieferbarkeit können Sie schnell auf Änderungen Ihrer Versand-Metriken reagieren.\
 **Problemlösung** : Es ist einfacher, Probleme im Versand zu untersuchen, zu verstehen und zu lösen.
 
-*Nachteile*
+_Nachteile_
 
 **Volumenänderungen**  - Volumenänderungen können Ihren Ruf beeinträchtigen und müssen daher verwaltet werden.\
 **IP-Aufwärmungsprozess**  - Reputation wird im Laufe der Zeit aufgebaut. Einige Internet-Dienstleister (ISPs) drosseln IP-Adressen ohne Volumenverlauf, sodass Sie in den ersten Wochen einen Ruf aufbauen müssen (Marketo kann Ihnen helfen).\
@@ -45,17 +45,17 @@ Wie üblich gibt es Vor- und Nachteile für beide Optionen.
 
 **Vorteile und Nachteile einer freigegebenen IP**
 
-*Vorteile*
+_Vorteile_
 
-**Gute Mitbewohner **- Wenn die Personen, die Ihre IP teilen, die besten Versandmethoden befolgen, würden Sie davon profitieren.\
-**Mailing frequency **- Es gibt keine Mindest-Mailing-Frequenz, die erforderlich ist, um sich für eine freigegebene IP zu qualifizieren, anders als bei dedizierten IPs.\
-**Kosten **- Es gibt keine zusätzliche Gebühr, die von einer freigegebenen IP gesendet werden kann.
+**Gute Mitbewohner**  - Wenn die Personen, die Ihre IP teilen, die besten Versandmethoden befolgen, würden Sie davon profitieren.\
+**Mailing-Frequenz**  - Im Gegensatz zu dedizierten IPs ist keine Mindest-Mailing-Frequenz erforderlich, um sich für eine freigegebene IP zu qualifizieren.\
+**Kosten** : Es gibt nie eine zusätzliche Gebühr, die von einer freigegebenen IP gesendet werden kann.
 
-*Nachteile*
+_Nachteile_
 
 **Unangemessene Mitbewohner** : Wenn die Personen, die Ihre IP teilen, schlechte Versandmethoden anwenden, könnten Ihre E-Mail-Kampagnen beeinträchtigt werden.\
-**Control **- Sie haben viel weniger Kontrolle über den Ruf des Absenders.\
-**Problembehebung **- Es kann oft schwieriger sein, ein Problem beim Senden von freigegebenen IPs zu lösen.
+**Kontrolle**  - Sie haben viel weniger Kontrolle über den Ruf des Absenders.\
+**Problembehebung** : Es kann oft schwieriger sein, ein Problem beim Senden von freigegebenen IPs zu lösen.
 
 >[!NOTE]
 >
