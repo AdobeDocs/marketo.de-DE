@@ -3,9 +3,9 @@ unique-page-id: 2359996
 description: Sortierungsbericht über Spalten - Marketing-Dokumente - Produktdokumentation
 title: Bericht nach Spalten sortieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,8 @@ Verwenden Sie Spalten, um die Daten in Ihrem Bericht zu sortieren und die wichti
 
    ![](assets/image2014-9-16-10-3a47-3a50.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
