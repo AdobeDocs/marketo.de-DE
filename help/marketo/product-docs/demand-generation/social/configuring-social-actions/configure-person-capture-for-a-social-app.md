@@ -3,7 +3,7 @@ unique-page-id: 2950547
 description: Personenerfassung für eine Social-App konfigurieren - Marketing Docs - Produktdokumentation
 title: Personenerfassung für eine Social-App konfigurieren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personenerfassung für eine Social-App {#configure-person-capture-for-a-social-app} konfigurieren
 
-Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Gewinnspiel](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie konfigurieren, welche Informationen Sie anfordern und welche Informationen Sie von den Personen benötigen, um teilnehmen zu können.
+Wenn Sie ein [Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Gewinnspiel](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie konfigurieren, welche Informationen Sie anfordern und welche Informationen Sie von den Personen benötigen, um teilnehmen zu können.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/socia
 
    ![](assets/ma-2.png)
 
-1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten.**
+1. Wählen Sie die App aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Gehen Sie im Social App-Editor zu **Anmeldefluss** > **Personenerfassung.**
+1. Gehen Sie im Social App-Editor zu **Anmeldefluss** > **Personenerfassung**.
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/socia
 
    >[!NOTE]
    >
-   >In beiden Fällen erhalten die Teilnehmer weiterhin die [*operativen* E-Mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) von Ihrem Angebot.
+   >In beiden Fällen erhalten die Teilnehmer weiterhin die [_operativen_ E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) von Ihrem Angebot.
 
 1. Klicken Sie im Fenster &quot;Ansicht und Bearbeiten&quot;auf **Bearbeitungen anzeigen** und bearbeiten Sie die Meldungen in der Freigabeaufforderung.
 
@@ -50,5 +50,4 @@ Wenn Sie ein [Referrer-Angebot](../../../../product-docs/demand-generation/socia
 
 >[!MORELIKETHIS]
 >
->Jetzt können Sie [den Social-Anmeldeablauf](configure-social-sign-up-share-flow.md) konfigurieren und die Freigabemeldungen bearbeiten, die in jedem sozialen Netzwerk veröffentlicht werden.
-
+>Jetzt können Sie [den Social-Anmeldeablauf](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) konfigurieren und die Freigabemeldungen bearbeiten, die in jedem sozialen Netzwerk veröffentlicht werden.
