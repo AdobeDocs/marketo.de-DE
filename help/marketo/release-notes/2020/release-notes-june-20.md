@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: Versionshinweise - 20. Juni - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juni 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) können kostenpflichtige Add-ons sein. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
@@ -30,7 +29,7 @@ Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfe
    **: Mit den neuen Filtern für intelligente Liste und intelligente Kampagne mit Adobe Sensei können Sie AI-basierte Audiencen für E-Mail-, Ereignis- und Webinar-Marketing-Programm erstellen. Verwenden Sie AI, um Audiencen basierend auf der Interessentenwahrscheinlichkeit zu segmentieren, um sich für ein Ereignis zu registrieren, ein Ereignis zu besuchen oder sich abzumelden. Erstellen Sie aussehende Audiencen auf der Grundlage vergangener Programm, um den vorherigen Erfolg effizient zu replizieren. Erzielen Sie Konversionsziele mit vorausschauender Zielverfolgung und erhalten Sie Empfehlungen, wie Sie Ihre Audiencen für Ereignis-Programm optimieren können.
 * **Batch-E-Mail-Boost ![(star)](assets/star-yellow.svg): ** Verbesserung unserer E-Mail-Marketingfunktion, mit der Sie bis zu 3 Millionen Batch-E-Mails pro Stunde versenden können. Wir haben unsere Batch-Kampagne und die Verarbeitung von E-Mail-Berichten neu gestaltet, um die Leistung von E-Mail-Programmen und Batch-E-Mail-Kampagnen zu verbessern. Dies führt zu kürzeren Vorlaufzeiten und verbesserter Abschlusszeit. Richten Sie Ihre E-Mail-Nachrichten so ein, wie Sie es normalerweise tun würden. Es gibt keine zusätzliche Komplexität. Diese Verbesserung ist als Produkt-Add-on verfügbar, das auch ein Versand Services Launch Pack, E-Mail-Versand-Tools und mehrere dedizierte IP-Adressen umfasst.
 * ** [Audience-Integration mit Adobe Experience Cloud (AEC)](https://docs.marketo.com/x/ogI6Ag): **Neue AEC-Integration (Adobe Experience Cloud), mit der Sie statische Listen bekannter Interessenten aus Marketo Engage mit mehreren AEC-Anwendungen synchronisieren können, um bestehende Programm zu verbessern, neue Anwendungsfälle zu erschließen und Kampagnen mit mehreren Kanälen zu orchestrieren. Diese Integration umfasst Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager und Adobe Advertising Cloud.
-* ** [Benutzerdefinierte Programm-Member-Felder](https://docs.marketo.com/x/MQA6Ag)**: Erfassen und verwenden Sie benutzerdefinierte Felder zu einem Programm-Member. Verwenden Sie diese neuen Felder in Ihren Marketo Engage-Formularen, Ansicht in die Member-Liste eines Programms, Nutzung in Smart-Liste-Filtern und -Triggern und Einbeziehung in eine neue Aktion für intelligente Kampagne zur verbesserten Automatisierung und granuläreren Personalisierung. Diese können auch über die Benutzeroberfläche und die APIs importiert und exportiert werden. Verbesserung unserer benutzerdefinierten Datenobjekte und Felder-Funktionalität.
+* ** [Benutzerdefinierte Programm-Member-Felder](https://docs.marketo.com/x/MQA6Ag)**: Erfassen und verwenden Sie benutzerdefinierte Felder zu einem Programm-Member. Verwenden Sie diese neuen Felder in Ihren Marketo Engage-Formularen, Ansicht in die Mitgliederaktion eines Programms, Nutzung in Filtern und Triggern mit intelligenter Liste und Einbindung in eine neue Aktion mit intelligenten Kampagnen zur Automatisierung und granuläreren Personalisierung. Diese können auch über die Benutzeroberfläche und die APIs importiert und exportiert werden. Verbesserung unserer benutzerdefinierten Datenobjekte und Felder-Funktionalität.
 * **Beschreiben Sie Programm Member**: Rufen Sie Programm Member-Metadaten ab, sodass Sie Programm Member Custom Field-Daten mit der REST-API importieren und exportieren können. Verbesserung unserer API*. *
 
 * ** [Aufgabe in Microsoft Dynamics](https://docs.marketo.com/x/jQM6Ag)** erstellen: Erstellen Sie Aufgaben für den Vertrieb innerhalb von Microsoft Dynamics mit einer neuen Flussaktion, die auf dem in Marketo Engage erfassten Kundenverhalten basiert. Verbesserung unserer nativen Microsoft Dynamics CRM-Integration*. *
@@ -60,11 +59,11 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **
 
-* **Integration** von Marketo Engage-Programmen: Ziehen Sie Programm-Daten direkt aus Marketo Engage, um Touchpoints während der Zuordnungsreise in Bizible zu erstellen, um E-Mail- und Interaktions-Programms angemessen zu gutschreiben. Verbesserung unserer Marketo Engage-Integration.
-* **Integration`<sup>BETA</sup>`** von Marketo Engage-Aktivitäten: Bringen Sie Daten zur Marketo Engage-Aktivität direkt in Bizible, um Touchpoints über die Customer Journey und alle Zuordnungsmodelle zu erstellen. Beispiele sind Änderungen des Interessentenwerts, interessante Momente, E-Mail-Klick oder benutzerspezifische Aktivitäten. Verbesserung unserer Marketo Engage-Integration.
+* **Integration** von Marketo Engage-Programmen: Ziehen Sie Programm-Daten direkt aus Marketo Engage, um Touchpoints entlang der Zuordnungs-Journey in Bizible zu erstellen, um E-Mail- und Interaktions-Programm angemessen zu gutschreiben. Verbesserung unserer Marketo Engage-Integration.
+* **Integration`<sup>BETA</sup>`** von Marketo Engage-Aktivitäten: Bringen Sie Daten zur Marketo Engage-Aktivität direkt in Bizible, um Touchpoints über die Journey und alle Zuordnungsmodelle hinweg zu erstellen. Beispiele sind Änderungen des Interessentenwerts, interessante Momente, E-Mail-Klick oder benutzerspezifische Aktivitäten. Verbesserung unserer Marketo Engage-Integration.
 * **Bizible Integration von B2B-Kundenattributen`<sup>BETA</sup>`**: Dies ist eine Adobe Experience Cloud-Integration mit Adobe Analytics, mit der Sie ausgewählte Bizible-Daten direkt in Adobe Analytics importieren können, um eine tiefere Analyse zu erhalten. Beispiele sind kontobasierter Site-Traffic und Content-Analyse nach Firmen-Namen, Kontoattributen, CRM-Möglichkeiten und hochwertigen Personen, wie durch bizibel zurechenbare Umsatz- und Trichterphase definiert.
 * **Bizible Discover-Filter und -Erweiterungen:** Analysieren Sie Ihre Daten mit Kanal-, Unterkanal-, Kampagne- und Segmentdaten über Dashboard hinweg. Verbessern Sie die Sichtbarkeit von Daten mit mehr Drilldown-Attributen. Dies ist eine Verbesserung unserer Discover-Pinnwände.
-* **Aktivitäten synchronisieren für Microsoft Dynamics**: Ordnen Sie Vertriebsinteraktionen zu, indem Sie Microsoft Dynamics CRM-Aktivitäten in die Touchpoint-Reise einbinden und Ereignis wie Anrufe, Termine oder Aufgaben verfolgen, die mit Ihren Kontakten oder Interessenten verbunden sind. Verbesserung der Microsoft Dynamics CRM-Integration.
+* **Aktivitäten synchronisieren für Microsoft Dynamics**: Ordnen Sie Vertriebsinteraktionen zu, indem Sie Microsoft Dynamics CRM-Aktivitäten in die Touchpoint-Journey einbinden und Ereignis wie Anrufe, Termine oder Aufgaben verfolgen, die mit Ihren Kontakten oder Interessenten verbunden sind. Verbesserung der Microsoft Dynamics CRM-Integration.
 
 **Sales Insight ![(star)](assets/star-yellow.svg)
 
