@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: Einrichten einer benutzerdefinierten DKIM-Signatur - Marketing Docs - Produktdokumentation
 title: Einrichten einer benutzerdefinierten DKIM-Signatur
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
 
    >[!NOTE]
    >
-   >
    >Wenn Sie eine benutzerdefinierte DKIM-Signatur auf die altmodische Weise einrichten, funktioniert sie weiterhin und sollte hier angezeigt werden.
 
 1. Klicken Sie auf **E-Mail**, dann auf die Registerkarte **DKIM** und schließlich **Hinzufügen Domäne**.
@@ -37,7 +36,6 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
 1. Geben Sie die Domäne ein, die Sie in Marketing-E-Mails als &quot;Von-Adresse&quot;verwenden möchten, und klicken Sie auf **Hinzufügen**.
 
    >[!TIP]
-   >
    >
    >Wenn Sie eine andere Domäne in Ihrer Von-Adresse verwenden, verwenden wir die freigegebene DKIM-Signatur von Marketo.
 
@@ -53,14 +51,10 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
    >Wenn die Bestätigung fehlschlägt und Ihre IT-Abteilung den Datensatz richtig erstellt hat, kann es sich um DNS-Weiterleitung handeln. Versuchen Sie es später noch einmal.
 
    >[!CAUTION]
    >
-   >
    >Das Ändern/Entfernen des entsprechenden DNS-Datensatzes beeinträchtigt die Lieferbarkeit. Achten Sie darauf, den Eintrag in Marketo zu löschen, bevor Sie DNS-Änderungen vornehmen.
 
    Dies hilft Ihnen bei der Zustellung Ihrer E-Mail. Sie sollten die Bestätigung erhalten, dass der Datensatz vorhanden ist und korrekt ist.
-
