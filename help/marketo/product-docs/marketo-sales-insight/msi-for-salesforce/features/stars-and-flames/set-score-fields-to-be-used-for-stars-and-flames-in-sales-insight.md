@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Score-Felder für Sterne und Flammen in Sales Insight - Marketing Docs - Produktdokumentation festlegen
 title: Score-Felder für Sterne und Flammen in Sales Insight festlegen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertun
    >
    >Die Neuberechnung von Sales Insight dauert einige Zeit. Sie können Ihr CRM später überprüfen, um die Sterne und Flammen zu sehen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >
    >[Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze](priority-urgency-relative-score-and-best-bets.md)
