@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: Versenden von Duplikat-Inhalten - Marketing-Dokumente - Produktdokumentation
 title: Senden von Duplikat-Inhalten vermeiden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Eine Person erhält eine E-Mail, die von der Customer Interaktion Engine gesende
 | Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **different** CEE-Programms ausgelöst wird | Mitglied des Standard-Programms | Nein |
 | Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **different** CEE-Programms ausgelöst wird | Kein Mitglied des Standard-Programms | Ja |
 | Ein **anderes** CEE-Programm mit einem intelligenten Stream | Mitglied beider CEE-Programme | Nein |
-
