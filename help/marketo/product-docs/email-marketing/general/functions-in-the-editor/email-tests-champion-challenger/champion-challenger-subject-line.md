@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger - Subject Line - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Betreffzeile
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Sie können ganz einfach mehrere Betreffzeilen testen. Wenn der Test beendet ist
 
    Fortschritt! Lass uns weitermachen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >
    >[Champion/Challenger: Champion Criteria definieren](champion-challenger-define-champion-criteria.md)
