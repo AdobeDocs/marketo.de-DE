@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Retargeting mit Web-Personalisierungsdaten - Marketing-Dokumente - Produktdokumentation
 title: Retargeting mit Web-Personalisierungsdaten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Retargeting mit Web-Personalisierungsdaten {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Website-Retargeting fällt jetzt unter die Web-Personalisierungskachel. Wenn Sie nur Retargeting gekauft haben, sehen Sie diese Kachel und greifen auf das Web-Personalisierungsprodukt zu, wenn **nur** Retargeting-Funktionen aktiviert sind. Auf diese Weise haben Sie Zugriff auf Kontoeinstellungen, die Retargeting-Seite, Segmente und zusätzliche Verfolgungsseiten.
 
