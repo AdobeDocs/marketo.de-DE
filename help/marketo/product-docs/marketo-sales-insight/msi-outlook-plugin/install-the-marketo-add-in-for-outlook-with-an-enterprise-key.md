@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel - Marketing Docs - Produktdokumentation
 title: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Vertriebsmitarbeiter verfügen oft nicht über Administratorrechte auf ihren Lap
 
    Das ist alles! Als Nächstes durchläuft der Vertriebsmitarbeiter den Registrierungsprozess [](authorize-the-marketo-outlook-plugin.md). Sie können ihnen einen Link zu den Anweisungen senden (siehe **Markieren Sie zugehörige Artikel**).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
