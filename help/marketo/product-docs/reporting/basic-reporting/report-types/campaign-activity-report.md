@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Bericht zur Aktivität der Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Aktivität der Kampagne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Sehen Sie, wie Ihre [intelligenten Kampagnen](http://docs.marketo.com/display/do
    | Ausgelöst (aktiv) | Aktuell ausgelöste Kampagnen auf der Registerkarte **Marketing-Aktivitäten**. |
    | Ausgelöst (Inaktiv) | Inaktiv ausgelöste Kampagnen auf der Registerkarte **Marketing-Aktivitäten**. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
