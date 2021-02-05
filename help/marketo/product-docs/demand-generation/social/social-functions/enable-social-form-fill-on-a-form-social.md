@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: Aktivieren Sie das Ausfüllen von Social-Formularen in einem Formular (Social) - Marketing-Dokumente - Produktdokumentation
 title: Ausfüllen von Social-Formularen in einem Formular aktivieren (Social)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufüllen. Sie erhalten automatisch zusätzliche Daten und erhalten eine schnellere Erlebnis. So geht es.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
@@ -39,7 +37,7 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 
    >[!TIP]
    >
-   >Sehen Sie sich an, was [data Marketo erfasst, wenn die Benutzer die Schaltflächen für soziale Netzwerke verwenden.](manage-social-profile-data.md)
+   >Sehen Sie sich an, was [data Marketo erfasst, wenn die Benutzer die Schaltflächen für soziale Netzwerke verwenden.](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
 
 1. Klicken Sie auf **Fertigstellen**.
 
