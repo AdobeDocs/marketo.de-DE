@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Vergleichen Sie die Effektivität von Kanälen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Kanal-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ In unserem Beispiel sehen wir, dass der Tradeshow-Kanal sowohl der teuerste (am 
 >
 >Die Beispiele in diesen Schritten messen die Effektivität anhand der erstellten Pipeline. Verwenden Sie die Dropdownliste &quot;Y-Achse&quot;, um andere Methoden zur Messung der Effektivität von Kanälen auszuwählen, z. B. neue Namen, Mitglieder, Kosten pro Erfolg usw.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Programm- und Kanal-Details mit dem Programm Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Programm-Effektivität mit dem Programm-Analyzer vergleichen](compare-program-effectiveness-with-the-program-analyzer.md)
