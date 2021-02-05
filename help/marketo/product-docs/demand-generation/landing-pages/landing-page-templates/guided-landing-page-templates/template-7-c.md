@@ -3,9 +3,9 @@ unique-page-id: 8783947
 description: Vorlage 7-C - Marketing Docs - Produktdokumentation
 title: Vorlage 7-C
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 7-C {#template-c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 7-C herunterladen](http://docs.marketo.com/download/attachments/8783947/template-7c.html?version=1&amp;modificationdate=1437693360000&amp;api=v2)
+[Vorlage 7-C herunterladen](https://docs.marketo.com/download/attachments/8783947/template-7c.html?version=1&amp;modificationdate=1437693360000&amp;api=v2)
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 
@@ -27,6 +27,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Vier Textkörperabschnitte (optional)
 * Fußzeile (optional)
 
-Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:
+**Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template7-C.html](http://docs.marketo.com/download/attachments/8783947/template-7c.html?version=1&amp;modificationdate=1437693360000&amp;api=v2)
+[Template7-C.html](https://docs.marketo.com/download/attachments/8783947/template-7c.html?version=1&amp;modificationdate=1437693360000&amp;api=v2)
