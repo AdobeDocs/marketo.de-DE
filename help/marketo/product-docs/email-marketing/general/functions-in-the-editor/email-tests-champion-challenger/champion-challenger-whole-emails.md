@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: Champion/Challenger - Gesamte E-Mails - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - ganze E-Mails
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
 
 1. Fortschritt! Lass uns weitermachen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
