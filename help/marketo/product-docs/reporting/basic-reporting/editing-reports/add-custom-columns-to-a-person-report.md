@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: hinzufügen benutzerdefinierter Spalten für einen Personenbericht - Marketing Docs - Produktdokumentation
 title: hinzufügen benutzerdefinierter Spalten für einen Personenbericht
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/di
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >
    >Sie können auch [Hinzufügen Gelegenheitsspalten zu einem Interessentenbericht](add-opportunity-columns-to-a-lead-report.md).
