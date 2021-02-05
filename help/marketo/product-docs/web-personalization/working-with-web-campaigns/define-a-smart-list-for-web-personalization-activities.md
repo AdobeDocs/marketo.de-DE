@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definieren einer intelligenten Liste für Web-Personalisierungs-Aktivitäten - MarketingToDocs - Produktdokumentation
 title: Definieren einer intelligenten Liste für Aktivitäten zur Web-Personalisierung
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Definieren einer intelligenten Liste für Web-Personalisierungs-Aktivitäten {#define-a-smart-list-for-web-personalization-activities}
 
-Sie können Web-Personalisierungs-Aktivitäten in Filtern und Auslösern verwenden, wenn Sie eine intelligente Liste in einer intelligenten Kampagne definieren. Hier möchten Sie alle Personen erfassen, die auf einen Aktionsaufruf zur Web-Personalisierung (Kampagne) geklickt haben.
+Sie können Web-Personalisierungs-Aktivitäten in Filtern und Triggern verwenden, wenn Sie eine intelligente Liste in einer intelligenten Kampagne definieren. Hier möchten Sie alle Personen erfassen, die auf einen Aktionsaufruf zur Web-Personalisierung (Kampagne) geklickt haben.
 
-Verwenden Sie einen Auslöser, um eine E-Mail oder Warnung zu senden, oder ändern Sie einen Wert oder eine Punktzahl, basierend auf Besuchern, die auf einen Aktionsaufruf zur Web-Personalisierung geklickt haben und mit diesem interagiert haben. Sie können auch diejenigen Interessenten filtern und Ansichten vornehmen, die auf einen Aktionsaufruf zur Webpersonalisierung geklickt haben.
+Verwenden Sie einen Trigger, um eine E-Mail oder Warnung zu senden, oder ändern Sie einen Wert oder einen Wert, der auf Besuchern basiert, die auf einen Aktionsaufruf zur Web-Personalisierung geklickt haben und mit diesem interagiert haben. Sie können auch diejenigen Interessenten filtern und Ansichten vornehmen, die auf einen Aktionsaufruf zur Webpersonalisierung geklickt haben.
 
 1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Intelligente Liste**.
 
@@ -28,13 +28,13 @@ Verwenden Sie einen Auslöser, um eine E-Mail oder Warnung zu senden, oder ände
    >
    >Intelligente Listen können erstaunliche Dinge tun. Weitere Informationen finden Sie unter [Smart Liste Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Suchen Sie nach dem Auslöser und ziehen Sie dann den Auslöser auf die Arbeitsfläche.
+1. Suchen Sie nach dem Trigger und ziehen Sie dann den Trigger auf die Arbeitsfläche.
 
    ![](assets/image2016-6-8-9-3a24-3a24.png)
 
    >[!NOTE]
    >
-   >Eine intelligente Kampagne mit Auslösern wird im Auslösermodus ausgeführt. Er wird auf der Grundlage von ausgelösten Ereignissen und hinzugefügten Filtern einzeln ausgeführt.
+   >Eine intelligente Kampagne mit Triggern wird im Trigger-Modus ausgeführt. Er wird auf der Grundlage von ausgelösten Ereignissen und hinzugefügten Filtern einzeln ausgeführt.
 
 1. Klicken Sie auf die Dropdownliste und wählen Sie einen Operator.
 
@@ -44,7 +44,7 @@ Verwenden Sie einen Auslöser, um eine E-Mail oder Warnung zu senden, oder ände
    >
    >Rote zitternde Linien weisen auf einen Fehler hin. Wenn keine Korrektur vorgenommen wird, wird die Kampagne ungültig und sie wird nicht ausgeführt.
 
-1. Definieren Sie den Auslöser.
+1. Definieren Sie den Trigger.
 
    ![](assets/image2016-6-7-11-3a12-3a23.png)
 
@@ -54,17 +54,16 @@ Verwenden Sie einen Auslöser, um eine E-Mail oder Warnung zu senden, oder ände
 
    >[!TIP]
    >
-   >In einer intelligenten Kampagne mit Auslösern und Filtern werden die Auslöser oben angezeigt. Bei Auslösung durchläuft der Fluss nur Personen, die die Filterkriterien erfüllen.
+   >In einer klugen Kampagne mit Triggern und Filtern gehen die Trigger an die Spitze. Bei Auslösung durchläuft der Fluss nur Personen, die die Filterkriterien erfüllen.
 
    >[!NOTE]
    >
-   >Bei mehreren Auslösern durchläuft eine Person den Fluss, wenn einer der Auslöser aktiviert wird.
+   >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn einer der Trigger aktiviert wird.
 
    [Intelligente Liste für intelligente Kampagne definieren | Stapel](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
