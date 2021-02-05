@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Bericht "Personen nach Umsatzstufe"- "Marketing-Dokumente"- Produktdokumentation
 title: Bericht "Personen nach Umsatzstufe"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Sie können einen Bericht erstellen, der zeigt, in welcher Phase Ihres [Umsatzzyklusmodells](http://docs.marketo.com/display/docs/revenue+cycle+models) Ihre Personen sich befinden. Der Bericht enthält alle Phasen des angegebenen Modells, solange eine Personenbilanz für den angegebenen Datumsbereich des Berichts vorliegt.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Marketo-Editionen enthalten diese Funktion. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
