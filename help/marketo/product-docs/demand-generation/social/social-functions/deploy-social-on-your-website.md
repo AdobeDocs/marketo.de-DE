@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: Social auf Ihrer Website bereitstellen - Marketing Docs - Produktdokumentation
 title: Social auf Ihrer Website bereitstellen
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Betten Sie soziale Apps auf Ihren Nicht-Marketo-Seiten ein.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
@@ -27,7 +25,7 @@ Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Audienc
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Wählen Sie **Einbetten** **Code**** **aus Social-App-Aktionen.
+1. Wählen Sie **Einbettungscode** aus den Social-App-Aktionen.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Audienc
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Wenn Sie die Größe der Social-App auf bestimmte Dimensionen auf Ihrer Seite einstellen müssen, fügen Sie dem zweiten Codefragment die Optionen **outerHeight** und **outerWidth** hinzu. Sie können beispielsweise options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39; wie folgt hinzufügen:
+1. Wenn Sie die Größe der Social-App auf bestimmte Dimensionen auf Ihrer Seite einstellen müssen, fügen Sie dem zweiten Codefragment die Optionen **outerHeight** und **outerWidth** hinzu. Sie können z. B. `options='{"outerHeight":400, "outerWidth":600}'` hinzufügen, wie in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
    Ihre Social-App Marketing fügt Ihrer Website jetzt Inhalte und Interaktivität hinzu und lädt Fans, Besucher und Bestandskunden ein, das Wort über Sie zu verbreiten. Gleichzeitig werden Ihre Profil-Daten zu Ihrer Datenbank hinzugefügt und Social-Einflussmetriken verfolgt.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
-   >
-   >    
-   >    
-   >* [Schaltfläche &quot;Social-App anpassen&quot;](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Social Sharing-Voraussetzung festlegen](set-social-share-requirement.md)
-   >* [Landingpages auf Facebook veröffentlichen](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Schaltfläche &quot;Social-App anpassen&quot;](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Social Sharing-Voraussetzung festlegen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Landingpages auf Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
