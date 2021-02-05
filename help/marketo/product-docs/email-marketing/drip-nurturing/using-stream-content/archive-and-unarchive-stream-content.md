@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: Archivieren und Archivieren von Stream-Inhalten - Marketing Docs - Produktdokumentation
 title: Archivieren und Archivieren von Stream-Inhalten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archivieren und Archivieren von Stream-Inhalten {#archive-and-unarchive-stream-content}
 
-Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen oder archivieren. ](remove-stream-content.md) Hier ist, wie man Inhalte archiviert.
+Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen oder archivieren. ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) Hier ist, wie man Inhalte archiviert.
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
 ## Archivierung von Stream-Inhalten aufheben {#unarchive-stream-content}
 
-1. Wählen Sie Ihr Interaktions-Programm aus und gehen Sie zur Registerkarte &quot;Streams&quot;.
+1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf Archivierten Inhalt anzeigen.
+1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf **Archivierten Inhalt anzeigen**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    Perfekt! Nun steht dieser Inhalt zur Verfügung, um priorisiert und aktiviert zu werden.
-
