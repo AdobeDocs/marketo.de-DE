@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Symbolleiste zur Inhaltsempfehlung - Marketing-Dokumente - Produktdokumentation
 title: Symbolleiste für die Inhaltsempfehlung aktivieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
 * Je mehr Inhalte in der Recommendations-Engine ausgeführt werden, desto besser kann der Algorithmus testen und lernen, welche Inhalte am besten funktionieren. Es wird empfohlen, mit 10 bis 20 Inhaltselementen zu beginnen, die aktiv und aktiv sind, und immer neue hinzufügen.
 * Das Inhaltselement, das Sie für eine Empfehlung aktivieren, sollte das RTP-Javascript-Tag enthalten. Dies hilft dem Algorithmus, empfohlene Inhalte zu verfolgen und zu optimieren.
 
->[!NOTE]
-**Verwandte Artikel**
+>[!MORELIKETHIS]
 * [Predictive Content für Web Rich Media aktivieren](enable-predictive-content-for-web-rich-media.md)
 
