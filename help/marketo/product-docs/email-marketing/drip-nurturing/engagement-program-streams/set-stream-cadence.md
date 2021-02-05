@@ -3,7 +3,7 @@ unique-page-id: 2359665
 description: Stream-Kadenz festlegen - Marketing-Dokumente - Produktdokumentation
 title: Stream-Kadenz festlegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen und wählen Sie Ihr Interaktions-Programm aus, klicken Sie auf die Registerkarte **Streams **und dann auf **Stream-Kadenz festlegen**.
+1. Suchen Sie nach Ihrem Interaktions-Programm, klicken Sie auf die Registerkarte **Streams** und klicken Sie dann auf **Stream-Kadenz festlegen**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können zwischen** Wöchentlich** oder **Monatlich** wählen.
+1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können **Wöchentlich** oder **Monatlich** auswählen.
 
 ## Wöchentlich {#weekly}
 
@@ -35,7 +35,7 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    >[!NOTE]
    >
-   >Durch Auswahl von **Keine **wird der Stream geschlossen.
+   >Wenn Sie **Keine** auswählen, wird der Stream geschlossen.
 
 1. Wählen Sie das Datum der ersten Besetzung.
 
@@ -51,9 +51,10 @@ Sie können Interaktionsinhalte in einem beliebigen Intervall senden. Beispiel: 
 
    >[!TIP]
    >
-   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **Wiederholungen auswählen: Wöchentlich** /** Alle: 1 Woche** /** ****On**: alle Tage.
+   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **Wiederholungen auswählen: Wöchentlich** / **Alle: 1 Woche** / **On**: alle Tage.
 
-   Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie [Zeitzone des Empfängers](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) verwenden möchten (d.h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf Speichern.
+   Wählen Sie jetzt die Zeit. Markieren Sie das Kästchen, wenn Sie [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) verwenden möchten (d.h. die Bereitstellung entsprechend den Zeitzonen), und klicken Sie dann auf **Speichern**.
+
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -72,7 +73,7 @@ Das ist&#39;s! Lesen Sie weiter, wenn Sie eine monatliche Kadenz einrichten möc
 
 ## Monatlich {#monthly}
 
-1. Wählen Sie **Monatlich **für die Häufigkeit der Wiederholungen.
+1. Wählen Sie **Monatlich** aus, wie oft es wiederholt wird.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -108,10 +109,6 @@ Jetzt wissen Sie, wie Sie eine Stream-Kadenz einrichten!
 
 >[!MORELIKETHIS]
 >
->* [Die Zeitzone des Empfängers](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Planen von Programmen mit Interaktion mit der Zeitzone des Empfängers](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [Die Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Planen von Programmen mit Interaktion mit der Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
