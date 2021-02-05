@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: Erstellen Sie einen Bericht zur Programm-Mitgliedschaft in der Analyse, den Listen führen - Marketing-Dokumente - Produktdokumentation
 title: Erstellen Sie einen Programm Membership Analyse Report, der von Listen geleitet wird.
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Führen Sie folgende Schritte aus, um einen Bericht zur Programm-Mitgliedschaft-Analyse zu erstellen, der alle Programm-Mitgliedsnamen anzeigt.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
