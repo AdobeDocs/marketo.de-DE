@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: Wählen Sie die Freigabe-URL für eine Social-App - Marketing Docs - Produktdokumentation
 title: Wählen Sie die Freigabe-URL für eine Social-App
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ Wenn Sie eine Social-App erstellen, können Sie festlegen, welche URL in den Bei
    >
    >**Definition**
    >
-   >
    >Beiträge freigeben kann zu drei Orten verknüpft werden:
    >
-   >    
-   >    
-   >    * **Verweisende Seite**: Die Seite, die die App enthält.
-   >    * **Andere Landingpage**: Eine andere Marketo-Landingpage als die in der Dropdown-Liste.
-   >    * **Externe URL**: Eine Nicht-Marketo-Landingpage.
+   >* **Verweisende Seite**: Die Seite, die die App enthält.
+   >* **Andere Landingpage**: Eine andere Marketo-Landingpage als die in der Dropdown-Liste.
+   >* **Externe URL**: Eine Nicht-Marketo-Landingpage.
 
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen Ihrer Datenschutzrichtlinien in eine Social-App](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[hinzufügen Ihrer Datenschutzrichtlinien in eine Social-App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
