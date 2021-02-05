@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: Erstellen eines Erfolgspfadanalysators - MarketingToDocs - Produktdokumentation
 title: Erstellen eines Erfolgspfad-Analyzers
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Jetzt können Sie Bewegung von jeder Bühne bis zur nächsten erforschen!
 >
 >Willst du deinen Bericht speichern? Klicken Sie auf die Dropdownliste **Analyzer-Aktionen** und wählen Sie **Speichern unter**.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Verwenden des Erfolgspfad-Analyzers](using-the-success-path-analyzer.md)
 
