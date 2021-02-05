@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Übersicht über Sales Connect - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Sales Connect
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Connect ist eine vielschichtige Vertriebssupport-Lösung mit einer Vielzahl von Funktionen, mit der Sie die Interaktion über den gesamten Vertriebszyklus hinweg fördern können.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden haben diese Funktion erworben. Wenden Sie sich für weitere Informationen an Ihren Kundenbetreuer.
 
