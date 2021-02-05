@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Übersicht über Leistungseinblicke - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Leistungseinblicke
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Performance Insights hilft Ihnen, Ihren Kanal-Mix für maximale Effektivität zu optimieren und langfristige Trends zu entdecken, um konsistente Gewinnstrategien zu erkennen.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Kunden verfügen über die Funktion &quot;Performance Insights&quot;. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
@@ -29,7 +28,7 @@ Klicken Sie auf das entsprechende Symbol im Analytics-Startbildschirm, um auf Pe
 
 ## Beitrag {#contribution}
 
-Bewerten Sie den Beitrag von Marketing zum Umsatz[in Abhängigkeit von Kundenakquise, Einfluss, Konversion und sogar installiertem Basiswachstum.](http://docs.marketo.com/x/QAvG)
+Bewerten Sie den Beitrag von Marketing zum Umsatz](http://docs.marketo.com/x/QAvG)in Abhängigkeit von Kundenakquise, Einfluss, Konversion und sogar installiertem Basiswachstum.[
 
 ![](assets/two.png)
 
