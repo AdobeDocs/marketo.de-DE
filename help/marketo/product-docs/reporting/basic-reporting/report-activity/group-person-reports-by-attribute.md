@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Gruppenbenutzerberichte nach Attribut - Marketing Docs - Produktdokumentation
 title: Personenberichte nach Attribut gruppieren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,8 @@ Sie können Ihre [Personenberichte](http://docs.marketo.com/display/docs/basic+r
    >
    >Erfahren Sie mehr über Personenberichte und andere Berichtstypen im [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting)Deep Dive.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
