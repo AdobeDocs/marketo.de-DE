@@ -3,7 +3,7 @@ unique-page-id: 2359877
 description: Benachrichtigungen über abgelaufene Inhalte deaktivieren und aktivieren - Marketing-Dokumente - Produktdokumentation
 title: Benachrichtigungen über abgelaufene Inhalte deaktivieren und aktivieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -27,9 +27,8 @@ Wenn Benutzer den gesamten Inhalt in einem Stream ausfüllen, kann Marketo Ihnen
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Wählen Sie **Aus **(oder **Ein**) und klicken Sie auf **Speichern**.
+1. Wählen Sie **Aus (oder** Ein **) und klicken Sie auf** Speichern **.**
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
    Super! Wenn Sie Benachrichtigungen aktivieren, sehen Sie etwas im Stream selbst und erhalten eine E-Mail-Benachrichtigung.
-
