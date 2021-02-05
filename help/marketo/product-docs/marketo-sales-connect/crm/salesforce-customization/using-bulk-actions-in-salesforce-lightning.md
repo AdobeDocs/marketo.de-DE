@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Verwendung von Massenaktionen in Salesforce Lightning - Marketing Docs - Produktdokumentation
 title: Verwenden von Massenaktionen im Salesforce-Blitz
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 
    ![](assets/five-4.png)
 
-1. Es wird ein Popup &quot;Hinzufügen Personen zu Ihrer Kampagne&quot;angezeigt. Klicken Sie auf **Weiter** und gehen Sie durch den typischen Ablauf der Kampagne, um eine MSC-Kampagne auszulösen.
+1. Es wird ein Popup &quot;Hinzufügen Personen zu Ihrer Kampagne&quot;angezeigt. Klicken Sie auf **Weiter** und gehen Sie durch den typischen Fluss der Kampagne, um eine MSC-Kampagne zu Trigger zu machen.
 
    ![](assets/six-1.png)
 
@@ -82,9 +82,7 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 >
 >Sie können die gleichen Schritte ausführen, um Massenaktionen auch in der Ansicht Liste Kontakt zu verwenden.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Senden von E-Mails per E-Mail](http://docs.marketo.com/x/KAQ6Ag)
 >* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
