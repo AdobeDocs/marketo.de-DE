@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Einrichten der Umsatzzuordnung für Digital Advertising Kampagnen - Marketing Docs - Produktdokumentation
 title: Einrichten der Umsatzzuordnung für Digital Advertising-Kampagnen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Mit separaten Programmen können Sie dann die Anzahl der Konvertierungen aus jed
 >* Erstellen oder bearbeiten Sie ein Formular, um eine Abfrage-Zeichenfolge mit der Person zu übergeben
 >* Vergewissern Sie sich, dass Sie Zugriff auf einige Analytics-Funktionen von &quot;Umsatz&quot;haben, um Berichte zu Ihren Kanälen und Kampagnen der Anzeige zu erstellen.
 
->
-
-
 
 ## Erstellen eines Standard-Programms {#create-a-default-program}
 
@@ -41,7 +38,7 @@ Im Gegensatz zu einigen Programmen (z. B. E-Mail), die für einen bestimmten Zei
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Wenn Sie bereits ein Programm eingerichtet haben, können Sie [es klonen](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Wenn Sie bereits ein Programm eingerichtet haben, können Sie [es klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,27 +50,23 @@ Im Gegensatz zu einigen Programmen (z. B. E-Mail), die für einen bestimmten Zei
    >
    >**Beispiel**
    >
-   >
    >Eine Abfrage-Zeichenfolge, die über die URL weitergegeben wird, hilft Marketo zu wissen, auf welche Kampagne eine Person geklickt hat, als sie in Marketo tätig wurde.
-   >
    >
    >Sie können eine Abfrage-Zeichenfolgenmethodik erstellen, die alle zu messenden Variablen enthält. Marketo verwendet diese Variablen, um Personen zu Ihren verschiedenen Programmen hinzuzufügen.
    >
-   >
    >Sie können beispielsweise Kanal type_Kanal__Asset__Region verwenden. Das könnte so aussehen: SP_FB_NewGuide_US. **Hinweis**: Abkürzungen sparen Platz.
-   >
    >
    >Sie können es auch als Kanal_Adsource_AssetName_Region_UniqueIdNumber einrichten. Das könnte so aussehen: Social-Paid_Facebook_NewGuide_NA_123.
 
 ## Erstellen einer intelligenten Kampagne für neue Namen {#create-a-smart-campaign-for-new-names}
 
-1. Erstellen Sie in der intelligenten Kampagne eine intelligente Liste, die, wie gezeigt, zwei Auslöser und zwei Filter enthält.
+1. Erstellen Sie in der intelligenten Kampagne eine intelligente Liste, die, wie gezeigt, zwei Trigger und zwei Filter enthält.
 
    ![](assets/image2016-3-23-13-3a59-3a24.png)
 
    >[!NOTE]
    >
-   >Die in den beiden Auslösern verwendete Zeichenfolge für die Abfrage und der Filter **Programm, das den erfassten Namen** erfasst hat, sind für Sie eindeutig. Die hier gezeigten Abfragen-Zeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
+   >Die in den beiden Triggern verwendete Zeichenfolge für die Abfrage und der Filter **Programm, das den erfassten Namen** erfasst hat, sind für Sie eindeutig. Die hier gezeigten Abfragen-Zeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
 
 1. Erstellen Sie einen Flussschritt, um das Attribut in **Akquise-Programm** zu ändern, und legen Sie den Neuen Wert auf den Wert fest, den Sie für gebührenpflichtige Social-Kampagnen definiert haben.
 
@@ -85,7 +78,7 @@ Im Gegensatz zu einigen Programmen (z. B. E-Mail), die für einen bestimmten Zei
 
 Sie benötigen eine zweite intelligente Kampagne, um den Status von Personen zu ändern, damit sie Programm erfolgreich erzielen und in Umsatzzuordnungsberechnungen einbezogen werden können.
 
-1. Geben Sie im Auslöser **Ausfüllbares Formular** den Programm in die Abfrage ein. Wenn Sie das Programm klonen, ersetzen Sie einfach den alten Abfragen-Zeichenfolgennamen durch den neuen.
+1. Geben Sie im Trigger **Ausfüllen des Formulars** den Programm in die Abfrage ein. Wenn Sie das Programm klonen, ersetzen Sie einfach den alten Abfragen-Zeichenfolgennamen durch den neuen.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -95,7 +88,7 @@ Sie benötigen eine zweite intelligente Kampagne, um den Status von Personen zu 
 
    >[!NOTE]
    >
-   >Das obige Beispiel zeigt **Konvertiert, **aber dies hängt von Ihren Status-/Erfolgswerten ab.
+   >Das obige Beispiel zeigt **Konvertiert**, aber dies hängt von Ihren Status-/Erfolgswerten ab.
 
 1. Planen und aktivieren Sie die Kampagne.
 
@@ -112,21 +105,16 @@ Nachdem Sie das Programm und die Kampagnen eingerichtet haben, erstellen Sie die
    >
    >**Beispiel**
    >
-   >
    >So können Sie alle von Ihnen eingerichteten Informationen zu einer tatsächlichen URL hinzufügen. Die Elemente werden durch ein kaufmännisches Und (&amp;) getrennt:
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **** Quellen der als Kanal-ID verwendeten Personenquelle
-   >    * **Der für jedes Programm erstellte eindeutige Bezeichner** kommentiert
-   >    * **&quot;** campis&quot;ist die Kampagne in Facebook, LinkedIn oder Google
-   >    * **** kkkis der Suchbegriff oder Asset-Name, den Sie erfassen möchten
+   >* **** Quellen der als Kanal-ID verwendeten Personenquelle
+   >* **Der für jedes Programm erstellte eindeutige Bezeichner** kommentiert
+   >* **&quot;** campis&quot;ist die Kampagne in Facebook, LinkedIn oder Google
+   >* **** kkkis der Suchbegriff oder Asset-Name, den Sie erfassen möchten
 
-   >    
-   >    
+   >
    >**Diese vier Begriffe müssen klein geschrieben sein, und es dürfen keine Leerzeichen in der URL vorhanden sein, damit diese Informationen erfasst werden.**
 
 ## Best Practices {#best-practices}
