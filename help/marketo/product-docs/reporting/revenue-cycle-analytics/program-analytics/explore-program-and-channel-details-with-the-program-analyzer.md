@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Erfahren Sie mehr über Programm- und Kanal-Details mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm- und Kanal-Details mit dem Programm Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,8 @@ Detaillierte Programm- und Kanal-Statistiken finden Sie im Programm Analyzer. Si
 >* [Programm-Analyzer erstellen](create-a-program-analyzer.md)
 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Nicht alle Marketo-Editionen enthalten diese Funktion. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
