@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: hinzufügen Möglichkeit, Spalten zu einem Interessentenbericht - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen der Möglichkeit, Spalten in einen Interessentenbericht aufzunehmen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](http://doc
    >
    >Blättern Sie nach rechts, um weitere Spalten anzuzeigen.
 
-1. Klicken Sie zum Hinzufügen oder Entfernen von Spalten aus dem Bericht auf eine Spaltenüberschrift und wählen Sie [Spalten](select-report-columns.md).****
+1. Klicken Sie zum Hinzufügen oder Entfernen von Spalten aus dem Bericht auf eine Spaltenüberschrift und wählen Sie **Spalten**.[](select-report-columns.md)
 
    ![](assets/six.png)
 
@@ -66,9 +66,8 @@ Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](http://doc
    | Tage bis zum Ende | Durchschnittliche Anzahl der Tage, die geschlossen werden sollen. |
    | Tage im Verkauf | Durchschnittliche Dauer des Verkaufszyklus (Tage bis Gelegenheit + Tage bis zum Schließen). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >
    >Erfahren Sie, wie Sie die Größe Ihres Berichts [verwalten.](configure-report-size.md)
