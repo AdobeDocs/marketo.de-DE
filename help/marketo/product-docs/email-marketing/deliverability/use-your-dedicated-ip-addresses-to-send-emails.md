@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: Verwenden Sie Ihre speziellen IP-Adressen zum Senden von E-Mails - Marketing-Dokumente - Produktdokumentation
 title: Verwenden Sie Ihre speziellen IP-Adressen zum Senden von E-Mails
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Die Versendung von einer oder mehreren IP-Adressen gibt Ihnen die vollständige Kontrolle über Ihren Ruf.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Eine dedizierte IP ist ein Zusatzprodukt. Nicht jeder wird berechtigt sein, seinem Programm eine eigene IP hinzuzufügen. Sie müssten monatlich mehr als 100.000 E-Mails versenden und über eine stabile Kampagne verfügen, um eine dedizierte IP zu verwalten. Wenden Sie sich an Ihren CSM, um weitere Informationen dazu zu erhalten, wie Sie Ihrem Marketo-Programm eine dedizierte IP hinzufügen können.
 >
->Wenn Sie weniger als 100.000 E-Mails pro Monat versenden und/oder variable Kampagnen haben und/oder saisonale Absender sind, können Sie keine dedizierte IP verwalten. Marketo unterhält einen separaten gemeinsamen Pool für vertrauenswürdige IP-Adressen für Kunden, die sich an strenge Best Practices halten. Wenn Sie Interesse haben, füllen Sie bitte [diesen Fragebogen](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) aus, um sich für das Trusted IP-Programm von Marketo zu bewerben.
+>Wenn Sie weniger als 100.000 E-Mails pro Monat versenden und/oder variable Kampagnen haben und/oder saisonale Absender sind, können Sie keine dedizierte IP verwalten. Marketo unterhält einen separaten gemeinsamen Pool für vertrauenswürdige IP-Adressen für Kunden, die sich an strenge Best Practices halten. Wenn Sie Interesse haben, füllen Sie bitte [diesen Fragebogen](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) aus, um sich für das Trusted IP-Programm von Marketo zu bewerben.
 
 Alle Marketo-Konten Beginn auf einer freigegebenen IP, sodass Sie sofort Beginn-Mailing. Wenn Sie eine dedizierte IP hinzufügen, arbeiten Sie mit Bereitstellungsberatern zusammen, um die IP-Bereitstellung zu planen.
 
@@ -40,9 +38,8 @@ Um die langfristige Lieferbarkeit zu maximieren, wurden im Angebot Deliverabilit
 
 >[!TIP]
 >
->Halten Sie Ihre Datenbank sauber, um Ihre Auslieferbarkeit hoch zu halten. [Für die Adobe ](http://www.adobe.com/legal/terms/aup.html) ist es erforderlich, dass Kunden Marketingmitteilungen nur an Personen senden, die sich für den Erhalt von E-Mails entschieden haben. Kein Spam!
+>Halten Sie Ihre Datenbank sauber, um Ihre Auslieferbarkeit hoch zu halten. [Für die Adobe ](https://www.adobe.com/legal/terms/aup.html) ist es erforderlich, dass Kunden Marketingmitteilungen nur an Personen senden, die sich für den Erhalt von E-Mails entschieden haben. Kein Spam!
 
 >[!CAUTION]
 >
->Wenn Sie eine hohe Anzahl von Absprüngen oder andere Probleme sehen, wenden Sie sich an [Marketing Support](http://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie mehr Unterstützung benötigen, um mehr über die Pflege einer sauberen Datenbank zu erfahren und die Interaktion mit Ihrem Programm zu steigern, können die E-Mail-Bereitstellungsberater von Marketing für ein Custom Services-Paket eingestellt werden.
-
+>Wenn Sie eine hohe Anzahl von Absprüngen oder andere Probleme sehen, wenden Sie sich an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie mehr Unterstützung benötigen, um mehr über die Pflege einer sauberen Datenbank zu erfahren und die Interaktion mit Ihrem Programm zu steigern, können die E-Mail-Bereitstellungsberater von Marketing für ein Custom Services-Paket eingestellt werden.
