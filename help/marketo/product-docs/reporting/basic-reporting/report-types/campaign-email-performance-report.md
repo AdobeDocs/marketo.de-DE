@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Kampagne-E-Mail-Leistungsbericht - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Kampagne-E-Mail-Leistung
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ Um Ihre E-Mail-Leistungsstatistiken nach [smart Kampagne](http://docs.marketo.co
    >
    >Im Allgemeinen versuchen wir, diese Statistiken mit dem gesunden Menschenverstand aufzuzeichnen. Wenn zum Beispiel jemand in einer E-Mail auf einen Link geklickt hat, hat er ihn offensichtlich zuerst geöffnet. Die spezifischen Regeln, die wir befolgen, finden Sie im [Bericht E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwandte Artikel**
    >
    >    
    >    
