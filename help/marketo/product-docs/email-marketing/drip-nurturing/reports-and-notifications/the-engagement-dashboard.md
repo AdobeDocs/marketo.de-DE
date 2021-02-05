@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Das Dashboard Interaktion - Marketing Docs - Produktdokumentation
 title: Das Dashboard Interaktion
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Das Dashboard Interaktion {#the-engagement-dashboard}
 
-Das Dashboard Interaktion ist die einfachste Methode, um zu sehen, wie der Inhalt in den [Interaktions-Programmen](http://docs.marketo.com/display/docs/drip+nurturing) abschneidet.
+Das Dashboard Interaktion ist die einfachste Methode, um zu sehen, wie die Inhalte in Ihrem Interaktions-Programm funktionieren.
 
 >[!NOTE]
 >
->Der Einsatzwert wird 72 Stunden nach jedem Spiel berechnet. Erfahren Sie mehr über das [Einsatzergebnis](understanding-the-engagement-score.md).
+>Der Einsatzwert wird 72 Stunden nach jedem Spiel berechnet. Erfahren Sie mehr über das [Einsatzergebnis](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Ansicht des Interaktions-Dashboards {#view-the-engagement-dashboard}
 
-Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf **Ansicht > Dashboard**.
+Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf **Ansicht** > **Dashboard**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Detailliertere Statistiken finden Sie im Bericht [Leistung des Interaktionsstreams](engagement-stream-performance-report.md).
+>Detailliertere Statistiken finden Sie im Bericht [Leistung des Interaktionsstreams](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md).
 
 ## Verstehen Sie das Erschöpfungs-Widget {#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ Mit diesem Widget können Sie vorhersehen, wann Interessenten den gesamten Inhal
 
 Zeigt den durchschnittlichen Interaktionswert im Zeitverlauf und die Auswirkungen von Inhaltsbearbeitungen.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Diese Funktion ist als Add-On für Kunden verfügbar, die den Umsatz-Cycle-Explorer von Marketo verwenden. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
@@ -69,11 +67,8 @@ Um die Sortierung zu ändern, klicken Sie auf das Zahnradsymbol und wählen Sie 
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-** Newestand  ** Oldestare basiert auf dem Zeitpunkt der letzten Genehmigung.
+__ Newestand  __ Oldestare basiert auf dem Zeitpunkt der letzten Genehmigung.
 
 >[!NOTE]
 >
->**Tieftauchen**
->
->Weitere Informationen finden Sie unter [Ein Programm für Interaktion erstellen](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Tiefgang.
-
+>Weitere Informationen finden Sie unter [Ein Programm für Interaktion erstellen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Tiefgang.
