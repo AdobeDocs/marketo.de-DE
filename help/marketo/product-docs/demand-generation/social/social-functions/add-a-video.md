@@ -3,9 +3,9 @@ unique-page-id: 2359761
 description: hinzufügen eines Videos - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Videos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
@@ -25,7 +23,7 @@ Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
 
    ![](assets/image2014-9-23-16-3a49-3a49.png)
 
-1. Ziehen Sie über **Video **aus den Elementen auf der rechten Seite.** **
+1. Ziehen Sie über **Video** aus den Elementen auf der rechten Seite.
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 
@@ -35,9 +33,9 @@ Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
 
    >[!NOTE]
    >
-   >Sie können auch eine Videofreigabe *in einem Programm* erstellen, indem Sie **Neu** > **Neues lokales Asset auswählen.** Sie können es dann aus der Dropdown-Liste auswählen, wie hier gezeigt.
+   >Sie können auch eine Videofreigabe _in einem Programm_ erstellen, indem Sie **Neu** > **Neues lokales Element** auswählen. Sie können es dann aus der Dropdown-Liste auswählen, wie hier gezeigt.
 
-1. Geben Sie die URL des YouTube-Videos ein und geben Sie einen Namen für Ihre Videofreigabe ein. Wählen Sie unter der Option **Klonen von** **Keine** und klicken Sie auf **Einfügen.**
+1. Geben Sie die URL des YouTube-Videos ein und geben Sie einen Namen für Ihre Videofreigabe ein. Wählen Sie unter der Option **Klonen von** **Keine** und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 
@@ -45,9 +43,8 @@ Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
 >
 >Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einer vorhandenen Videofreigabe kopieren.
 
-Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können die Landingpage auch unter [auf Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [veröffentlichen und die Videofreigabe auf Ihre Website](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) setzen.
+Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können die Landingpage auch unter [auf Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [veröffentlichen und die Videofreigabe auf Ihre Website](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) setzen.
 
 >[!MORELIKETHIS]
 >
->Sie sind fertig, aber Sie können bei Bedarf die Einstellungen für Ihre Videofreigabe ändern. Beginn mit [Anpassen des Share-Flusses](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Freigabeaufforderung geöffnet wird).
-
+>Sie sind fertig, aber Sie können bei Bedarf die Einstellungen für Ihre Videofreigabe ändern. Beginn mit [Anpassen des Share-Flusses](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Freigabeaufforderung geöffnet wird).
