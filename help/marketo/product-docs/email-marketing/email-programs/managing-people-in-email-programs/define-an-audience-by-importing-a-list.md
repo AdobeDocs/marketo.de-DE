@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: Definieren einer Audience durch Importieren einer Liste - Marketing Docs - Produktdokumentation
 title: Definieren einer Audience durch Importieren einer Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Po
 
 Fantastisch! Jetzt ist es an der Zeit, eine bereits vorhandene E-Mail auszuwählen oder eine neue E-Mail zu erstellen, die an diese Personen gesendet werden soll.
 
->[!NOTE]
->
->**Verwandte Artikel**
+>[!MORELIKETHIS]
 >
 >* [Vorhandene E-Mail auswählen](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [E-Mail für ein E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
