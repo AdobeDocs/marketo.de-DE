@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Bericht zur Aktivität der Webseite - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Aktivität der Webseite
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,8 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 >
 >Nimm deine Vertriebsmitarbeiter! [Filtern Sie den ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)Bericht nach ihrem Territorium und  [abonnieren Sie ihn](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
 >
 >* [Angezeigte Webseiten, Bericht zur Aktivität der Webseite](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Personen oder anonyme Besucher in Webberichten anzeigen](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
