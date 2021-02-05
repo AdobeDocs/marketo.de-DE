@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Erläuterungen zu Marketo-Momenten - Marketing-Dokumente - Produktdokumentation
 title: Erläuterungen zu Markusmomenten
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Die Macht von Marketo liegt jetzt in Ihren Händen, buchstäblich! Vorschau und Umplanung von E-Mails direkt von Ihrem Handy oder iPad aus.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Zugriff auf die Berechtigung für mobile Apps erforderlich. Wenden Sie sich an Ihren Marketing-Administrator, um [Ihre Rolle zu aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
