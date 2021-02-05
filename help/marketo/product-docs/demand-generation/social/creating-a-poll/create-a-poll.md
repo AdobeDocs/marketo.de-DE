@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Umfrage erstellen - Marketing Docs - Produktdokumentation
 title: Umfrage erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 Beziehen Sie Menschen mit einer Umfrage, in der sie wählen können, und teilen Sie sie mit ihren Freunden in sozialen Netzwerken. Sie können es Orten wie Ihren Landingpages, Ihrer Website und Facebook hinzufügen.
 
->[!NOTE]
->
->**Verfügbarkeit**
+>[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
 >[!PREREQUISITES]
 >
->Wenn Sie Bilder in Ihrer Umfrage verwenden möchten, fügen Sie sie Ihrer Bibliothek &quot;Marketo-Bilder und -Dateien&quot;vor dem Start hinzu. hinzufügen ein Bild im Format 60 x 60 Pixel für jeden Umfrageeintrag. Siehe [Hinzufügen Bilder und Dateien zu Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Wenn Sie Bilder in Ihrer Umfrage verwenden möchten, fügen Sie sie Ihrer Bibliothek &quot;Marketo-Bilder und -Dateien&quot;vor dem Start hinzu. hinzufügen ein Bild im Format 60 x 60 Pixel für jeden Umfrageeintrag. Siehe [Hinzufügen Bilder und Dateien zu Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Wählen Sie im Programm **Neu** > **Neues lokales Element.**
+1. Wählen Sie im Programm **Neu** > **Neues lokales Element**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Klicken Sie in der **Lokale Asset-Galerie** auf **Umfrage**
+1. Klicken Sie in der **Lokale Asset-Galerie** auf **Umfrage**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ Beziehen Sie Menschen mit einer Umfrage, in der sie wählen können, und teilen 
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Wählen Sie das gewünschte Bild aus und klicken Sie dann auf **Auswählen.**
+1. Wählen Sie das gewünschte Bild aus und klicken Sie dann auf **Wählen Sie**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Wenn Sie die Miniaturansicht, den Titel und die Beschreibung für alle Einträge festgelegt haben, klicken Sie auf **Fertig stellen.**
+1. Wenn Sie die Miniaturansicht, den Titel und die Beschreibung für alle Einträge festgelegt haben, klicken Sie auf **Fertig stellen**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ Der Umfrageeditor wird in einem neuen Fenster geöffnet. Die Standardeinstellung
 
 Wenn Probleme in der Umfrage auftreten, werden Sie aufgefordert, diese zu beheben, bevor die Umfrage genehmigt wird. Herzlichen Glückwunsch! Sie haben Ihre Umfrage erstellt.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwandte Artikel**
->
->Der nächste Schritt ist [Veröffentlichen Sie Ihre Umfrage](publish-a-poll.md), aber Sie können die Einstellungen Ihrer Umfrage bei Bedarf ändern. Beginn mit [Anpassen der Umfrageeinstellungen](customize-poll-settings.md).
-
+>Der nächste Schritt ist [Veröffentlichen Sie Ihre Umfrage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), aber Sie können die Einstellungen Ihrer Umfrage bei Bedarf ändern. Beginn mit [Anpassen der Umfrageeinstellungen](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
