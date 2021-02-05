@@ -3,9 +3,9 @@ unique-page-id: 14352634
 description: hinzufügen einer Anlage - Marketing Docs - Produktdokumentation
 title: hinzufügen einer Anlage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # hinzufügen einer Anlage {#add-an-attachment}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Verfügbarkeit**
 >
 >Das Hinzufügen von Anlagen ist verfügbar, wenn Sie Marketing Sales Connect verwenden. Sie ist im Standard-E-Mail-Editor von Marketo nicht verfügbar.
 
