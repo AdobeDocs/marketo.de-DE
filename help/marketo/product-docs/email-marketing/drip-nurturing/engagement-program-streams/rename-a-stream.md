@@ -3,7 +3,7 @@ unique-page-id: 2359832
 description: Umbenennen eines Streams - Marketing-Dokumente - Produktdokumentation
 title: Umbenennen eines Streams
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Wenn Sie gerne organisiert bleiben, können Sie Ihre Streams umbenennen. Hier is
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
    Und voila! Sie wissen jetzt, wie Streams umbenannt werden.
-
