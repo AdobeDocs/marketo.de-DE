@@ -3,9 +3,9 @@ unique-page-id: 9437813
 description: Vorlage 14-E - Marketing Docs - Produktdokumentation
 title: Meldebogen 14-E
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 14-E {#template-e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 14-E herunterladen](http://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
+[Vorlage 14-E herunterladen](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -27,6 +27,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Fünf Abschnitte (optional)
 * Fußzeile (optional)
 
-Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:
+**Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template14-E.html](http://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
+[Template14-E.html](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
