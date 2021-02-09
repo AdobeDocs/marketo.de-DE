@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Verwenden Sie "Gesamte E-Mail" A/B-Tests - Marketing-Dokumente - Produktdokumentation
 title: A/B-Tests mit "Gesamter E-Mail"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,11 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein guter Test ist der **Gesam
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines A/B-Tests](add-an-a-b-test.md)
+>[hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
->
+1. Klicken Sie unter der E-Mail-Kachel bei ausgewählter E-Mail auf **Hinzufügen A/B-Test**.
 
-
-
-1. Klicken Sie unter &quot;E-Mail-Kachel&quot;bei ausgewählter E-Mail auf Hinzufügen A/B-Test.
-
-^ ![](assets/image2014-9-12-15-3a22-3a12.png)
-
-`
+![](assets/image2014-9-12-15-3a22-3a12.png)
 
 1. Ein neues Fenster wird geöffnet. Klicken Sie auf die Dropdownliste **Testtyp** und wählen Sie **Ganze E-Mails**.
 
@@ -43,9 +37,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein guter Test ist der **Gesam
 
 1. Klicken Sie auf **Hinzufügen**, um die E-Mail anzuwenden.
 
-   ^ ![](assets/image2014-9-12-15-3a23-3a20.png)
-
-   `
+   ![](assets/image2014-9-12-15-3a23-3a20.png)
 
    >[!TIP]
    >
@@ -53,15 +45,11 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein guter Test ist der **Gesam
 
 1. Wählen Sie Ihre zweite E-Mail aus.
 
-   ^ ![](assets/image2014-9-12-15-3a23-3a49.png)
-
-   `
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Klicken Sie auf **Hinzufügen**, um die zweite E-Mail anzuwenden. Ziehen Sie den Schieberegler, um den Prozentwert der Audience auszuwählen, an die Sie den A/B-Test senden möchten, und klicken Sie auf **Weiter**.
 
-   ^ ![](assets/image2014-9-12-15-3a24-3a1.png)
-
-   `
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
@@ -69,15 +57,6 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein guter Test ist der **Gesam
 
    >[!CAUTION]
    >
-   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **smart**-Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer der Audience *zu diesem Zeitpunkt gesendet. *Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
+   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **smart**-Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience _zu diesem Zeitpunkt_ gesendet. Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
 
-   Okay, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md) definieren.
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definieren der Kriterien für den A/B-Test-Gewinner](define-the-a-b-test-winner-criteria.md)
-
-
+   Okay, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) definieren.
