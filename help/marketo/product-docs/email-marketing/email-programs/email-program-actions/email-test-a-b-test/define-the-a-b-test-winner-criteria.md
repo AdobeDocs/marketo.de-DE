@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Definieren Sie die Kriterien für den Gewinner des A/B-Tests - Marketing-Dokumente - Produktdokumentation
 title: Definieren der Kriterien für den A/B-Test-Gewinner
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # Definieren Sie die Kriterien für den Gewinner des A/B-Tests {#define-the-a-b-test-winner-criteria}
 
-Wenn Sie [einen A/B-Test](add-an-a-b-test.md) zu Ihrem E-Mail-Programm hinzufügen, müssen Sie einen Testtyp auswählen: [Planen Sie den A/B-Test](schedule-the-a-b-test.md) und legen Sie dann die Gewinnerkriterien fest. Hier ist, wie man entscheidet, welche E-Mail gewinnt.
+Wenn Sie [einen A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) zu Ihrem E-Mail-Programm hinzufügen, müssen Sie einen Testtyp auswählen: [Planen Sie den A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md) und legen Sie dann die Gewinnerkriterien fest. Hier ist, wie man entscheidet, welche E-Mail gewinnt.
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines A/B-Tests](add-an-a-b-test.md)
-
->
-
-
+>[hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 ## Gewinnerkriterien {#winner-criteria}
 
@@ -33,37 +29,34 @@ Wenn Sie [einen A/B-Test](add-an-a-b-test.md) zu Ihrem E-Mail-Programm hinzufüg
    |---|---|
    | **Klicks** | Standardmäßig sind Links in E-Mails mit einer Verfolgung versehen, die es Ihnen ermöglicht, zu sehen, wer auf welchen Link geklickt hat, wie viele Links insgesamt angeklickt wurden usw. |
    | **Zum Öffnen % klicken** | Prozentsatz der E-Mails, die geöffnet wurden und auf die ein Link in der E-Mail geklickt wurde. Damit werden Relevanz und Kontext einer E-Mail gemessen, indem die Anzahl der individuellen Klicks geteilt durch die Anzahl der individuellen Eröffnungen und dann durch 100 multipliziert werden, um den Prozentsatz anzuzeigen. |
-   | **Interaktionsbewertung** | Das [Interaktionsergebnis](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) hilft Ihnen bei der Bestimmung der Effektivität Ihres Inhalts. |
+   | **Interaktionsbewertung** | Das [Interaktionsergebnis](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) hilft Ihnen bei der Bestimmung der Effektivität Ihres Inhalts. |
 
    >[!TIP]
    >
-   >Wenn Sie Interaktionsbewertung auswählen, muss der Test mindestens 24 Stunden lang ausgeführt werden. Erfahren Sie mehr über [das Verstehen des Interaktionswerts](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+   >Wenn Sie Interaktionsbewertung auswählen, muss der Test mindestens 24 Stunden lang ausgeführt werden. Erfahren Sie mehr über [das Verstehen des Interaktionswerts](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-   Sie können Ihre Kriterien auch anpassen, indem Sie Benutzerspezifische Konversion auswählen und auf Bearbeiten klicken.
+1. Sie können Ihre Kriterien auch anpassen, indem Sie Benutzerspezifische Konversion auswählen und auf Bearbeiten klicken.
+
    ![](assets/image2014-9-12-15-3a51-3a53.png)
 
    >[!NOTE]
    >
-   >Mit der benutzerdefinierten Konversion können Sie jedes beliebige Ereignis als Konversion auswählen, indem Sie Auslöser und Filter verwenden.
+   >Mit der benutzerdefinierten Konversion können Sie jedes beliebige Ereignis als Konversion auswählen, indem Sie Trigger und Filter verwenden.
 
-   Daraufhin wird ein Fenster geöffnet. Suchen Sie den Auslöser Ihrer Wahl und ziehen Sie ihn auf die Arbeitsfläche.
+1. Daraufhin wird ein Fenster geöffnet. Suchen Sie den gewünschten Trigger und ziehen Sie ihn auf die Arbeitsfläche.
+
    ![](assets/image2014-9-12-15-3a52-3a18.png)
 
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über [intelligente Listen und statische Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+1. Definieren Sie den Trigger.
 
-   Definieren Sie den Auslöser.
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
    >[!NOTE]
    >
-   >Marketo erlaubt nur Auslöser für Personen, die die E-Mail von diesem E-Mail-Programm erhalten haben. Es ist nicht erforderlich, den Filter &quot;Wurde gesendet&quot; hinzuzufügen.
+   >Marketo erlaubt nur Trigger für Personen, die die E-Mail von diesem E-Mail-Programm gesendet haben. Es ist nicht erforderlich, den Filter &quot;Wurde gesendet&quot; hinzuzufügen.
 
-   Klicken Sie auf Schließen.
+1. Klicken Sie auf **Schließen**.
+
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 
    Großartig! Jetzt ist es an der Zeit zu entscheiden, wie der Gewinner bestimmt wird.
@@ -75,9 +68,6 @@ Wenn Sie [einen A/B-Test](add-an-a-b-test.md) zu Ihrem E-Mail-Programm hinzufüg
    ![](assets/image2014-9-12-15-3a53-3a44.png)
 
    >[!NOTE]
-   >
-   >**Erinnerung**
-   >
    >
    >Wenn Sie einen **Date/Time** A/B-Test durchführen, können Sie nur **Manuell** auswählen.
 
@@ -91,6 +81,4 @@ Wenn Sie [einen A/B-Test](add-an-a-b-test.md) zu Ihrem E-Mail-Programm hinzufüg
    >
    >Wenn Sie **Manuell** wählen, wird der Test gesendet und es wird gewartet, bis Sie einen Gewinner angeben. Sie erhalten einen Bericht über die Ergebnisse.
 
-   [Plan des A/B-Tests](schedule-the-a-b-test.md)
-
-Perfekt! Jetzt lasst uns .
+Perfekt! Planen Sie nun [den A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md).
