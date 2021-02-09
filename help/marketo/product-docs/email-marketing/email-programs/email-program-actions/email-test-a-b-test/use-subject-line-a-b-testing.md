@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: '"Betreffzeile" A/B-Tests - Marketing Docs - Produktdokumentation'
 title: A/B-Tests mit "Betreffzeile"verwenden
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Einer der häufigsten Tests is
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines A/B-Tests](add-an-a-b-test.md)
-
->
-
-
+>[hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. Klicken Sie unter &quot;E-Mail-Kachel&quot;bei ausgewählter E-Mail auf Hinzufügen A/B-Test.
 
@@ -31,13 +27,13 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Einer der häufigsten Tests is
 
    >[!NOTE]
    >
-   >Choice** A**** **wird mit den Angaben in der ausgewählten E-Mail vorab gefüllt.
+   >Bei Auswahl von **A** werden die in der ausgewählten E-Mail enthaltenen Informationen vorab ausgefüllt.
 
    ![](assets/image2014-9-12-15-3a9-3a14.png)
 
    >[!TIP]
    >
-   >Sie können auf das **plus****-Zeichen** klicken, um weitere Betreffzeilen hinzuzufügen.
+   >Sie können auf **+** klicken, um weitere Betreffzeilen hinzuzufügen.
 
 1. Verwenden Sie den Schieberegler, um den Prozentsatz der Audience auszuwählen, an die Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **Weiter**.
 
@@ -45,19 +41,10 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Einer der häufigsten Tests is
 
    >[!CAUTION]
    >
-   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, würde die Einstellung der Stichprobengröße auf 100 % die E-Mail an alle in der Audience senden und der Gewinner würde niemanden erreichen. Wenn Sie eine intelligente Liste verwenden, würde die Einstellung der Stichprobengröße auf 100 % die E-Mail an alle Benutzer in der Audience *zu diesem Zeitpunkt senden. *Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
+   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, würde die Einstellung der Stichprobengröße auf 100 % die E-Mail an alle in der Audience senden und der Gewinner würde niemanden erreichen. Wenn Sie eine intelligente Liste verwenden, würde die Stichprobengröße auf 100 % gesetzt, um die E-Mail an alle Benutzer in der Audience _zu diesem Zeitpunkt_ zu senden. Und wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
 
    >[!NOTE]
    >
    >Die verschiedenen Themenvarianten nehmen sogar Teile der ausgewählten Teststichprobengröße ein.
 
-   Okay, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md) definieren.
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definieren der Kriterien für den A/B-Test-Gewinner](define-the-a-b-test-winner-criteria.md)
-
-
+   Okay, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) definieren.
