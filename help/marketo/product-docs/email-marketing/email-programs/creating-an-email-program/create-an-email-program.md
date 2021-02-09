@@ -3,9 +3,9 @@ unique-page-id: 1900591
 description: E-Mail-Programm erstellen - Marketing-Dokumente - Produktdokumentation
 title: E-Mail-Programm erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,8 @@ Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Perso
 
 Schön! Beachten Sie, dass sich das Programm jetzt im Baum befindet und einsatzbereit ist. Der nächste Schritt besteht darin, Ihre Audience zu definieren. Weitere Informationen finden Sie in den unten stehenden Artikeln zum Markieren.
 
-## Video ansehen {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Definieren einer Audience mit einer intelligenten Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
->
-
-
+>* [Definieren einer Audience mit einer intelligenten Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Definieren einer Audience durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
