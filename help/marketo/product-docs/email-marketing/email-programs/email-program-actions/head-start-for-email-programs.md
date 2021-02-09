@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: Head Beginn für E-Mail-Programme - Marketing Docs - Produktdokumentation
 title: Beginn für E-Mail-Programme
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, wird festgelegt, wann das Programm mit der Verarbeitung beginnt. Wenn Sie möchten, dass Ihre E-Mails zum ausgewählten Zeitpunkt gestartet werden, gibt Ihnen Head Beginn diese Option, indem Sie das Programm im Voraus verarbeiten.
 
@@ -74,15 +70,11 @@ Das bedeutet, dass Sie, wenn Sie in Amerika/Los Angeles sind und sowohl Head-Beg
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Erfahren Sie ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mehr darüber, wie Sie E-Mail-Programm mit der Zeitzone des Empfängers planen.
+[Erfahren Sie ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mehr darüber, wie Sie E-Mail-Programm mit der Zeitzone des Empfängers planen.
 
 >[!MORELIKETHIS]
 >
->* [Planen Ihres E-Mail-Programms](schedule-your-email-program.md)
->* [E-Mail-Programm mit Zeitzone des Empfängers planen](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Die Zeitzone des Empfängers](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [E-Mail-Programm mit Zeitzone des Empfängers planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Die Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
