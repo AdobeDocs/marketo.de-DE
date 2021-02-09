@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: E-Mail-Programm genehmigen/nicht genehmigen - Marketing Docs - Produktdokumentation
 title: Genehmigen/Ablehnen eines E-Mail-Programms
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definieren einer Audience mit einer intelligenten ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste durch  [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definieren einer Audience mit einer intelligenten ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Wählen Sie einen vorhandenen ](choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](create-an-email-for-an-email-program.md)
+* [Wählen Sie einen vorhandenen ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [Planen Ihres E-Mail-Programms](schedule-your-email-program.md)
-
->
-
+* [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## E-Mail-Programm {#approve-your-email-program} genehmigen
