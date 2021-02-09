@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Planen des A/B-Tests - Marketing Docs - Produktdokumentation
 title: Planen des A/B-Tests
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Gewinnerkr
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines A/B-Tests](add-an-a-b-test.md)
-
->
-
-
+>[hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Für Datums-/Uhrzeittests müssen Sie nur festlegen, wenn Sie die Zusammenfassung der Testergebnisse erhalten.
 
-1. Wählen Sie das Testdatum senden aus.
+1. Wählen Sie das Datum **Test senden** aus.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Gewinnerkr
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Nur die Testgruppe erhält die Testvarianten.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Gewinnerkr
    >Wenn Sie sich dafür entschieden haben, einen Gewinner manuell zu ermitteln, definieren Sie **Bericht senden** Datum/Uhrzeit anstelle von **Endversand** Datum/Uhrzeit.
 
    Super! Sie sind fertig, lesen Sie einfach die Zusammenfassung und klicken Sie auf Schließen.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    Die Kachel **Plan** wurde jetzt aktualisiert.
@@ -69,9 +63,4 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Gewinnerkr
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Genehmigen/Ablehnen eines E-Mail-Programms](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[Genehmigen/Ablehnen eines E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
