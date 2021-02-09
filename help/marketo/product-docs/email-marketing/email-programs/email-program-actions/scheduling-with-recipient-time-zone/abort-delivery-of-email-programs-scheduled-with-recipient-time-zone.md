@@ -3,7 +3,7 @@ unique-page-id: 13795727
 description: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers - Marketing-Dokumente - Produktdokumentation geplant sind
 title: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Da E-Mail-Programm, die mit der Zeitzone des Empfängers geplant sind, bis zu 24
 
    >[!NOTE]
    >
-   >Abgebrochene E-Mails werden erst dann als Soft Bounce **angezeigt, wenn** ursprünglich geplant war, dass sie in den entsprechenden Zeitzonen zugestellt werden. ** Bis zu diesem Zeitpunkt werden sie weiterhin als &quot;E-Mail senden&quot;angezeigt.
+   >Abgebrochene E-Mails werden erst dann als Soft Bounce *angezeigt, wenn* ursprünglich geplant war, dass sie in den entsprechenden Zeitzonen zugestellt werden. **** Bis zu diesem Zeitpunkt werden sie weiterhin als &quot;E-Mail senden&quot;angezeigt.
 
 1. Im Raster können Sie auf jede beliebige E-Mail-Aktivität klicken, um Details zur Ansicht anzuzeigen. Bei einem abgebrochenen Senden sieht das Popup für Details wie folgt aus:
 
@@ -39,10 +39,6 @@ Da E-Mail-Programm, die mit der Zeitzone des Empfängers geplant sind, bis zu 24
 
 >[!MORELIKETHIS]
 >
->* [Die Zeitzone des Empfängers](understanding-recipient-time-zone.md)
->* [E-Mail-Programm mit Zeitzone des Empfängers planen](schedule-email-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [Die Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [E-Mail-Programm mit Zeitzone des Empfängers planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 
