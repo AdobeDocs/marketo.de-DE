@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Verwenden Sie das Dashboard E-Mail-Programm - A/B-Test-Ansicht - Marketing-Dokumente - Produktdokumentation
 title: Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Verwenden Sie das Dashboard E-Mail-Programm - A/B-Test-Ansicht {#use-the-email-program-dashboard-a-b-test-view}
 
-Sehen Sie sich an, wie Ihr [E-Mail-Programm A/B-Test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) mit diesem Dashboard läuft.
+Sehen Sie sich an, wie Ihr [E-Mail-Programm A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) mit diesem Dashboard läuft.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,9 +45,4 @@ Coole Dashboard, denkst du nicht?
 
 >[!MORELIKETHIS]
 >
->* [Verwenden Sie das Dashboard E-Mail-Programm](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
-
->
-
-
-
+>[Verwenden Sie das Dashboard E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
