@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: hinzufügen eines A/B-Tests - Marketing Docs - Produktdokumentation
 title: hinzufügen eines A/B-Tests
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [E-Mail-Programm erstellen](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definieren einer Audience mit einer intelligenten ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste durch  [Definieren einer Audience durch Importieren einer Liste](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definieren einer Audience mit einer intelligenten ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Wählen Sie einen vorhandenen ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
+* [Wählen Sie einen vorhandenen ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
 Tests sind eine großartige Möglichkeit, Ihre E-Mails für eine bessere Interaktion zu optimieren. So geht es los.
@@ -48,16 +45,12 @@ Tests sind eine großartige Möglichkeit, Ihre E-Mails für eine bessere Interak
 
    >[!CAUTION]
    >
-   >Wenn sich in Ihrer Datenbank Duplikat-Datensätze befinden, erhalten diese Datensätze **sowohl die Test- als auch die Gewinner-E-Mails.** Um dies zu verhindern, vergewissern Sie sich, dass [Personen mit Duplikat](http://docs.marketo.com/x/G4EI) in Ihrer Datenbank suchen und zusammenführen.
+   >Wenn sich in Ihrer Datenbank Duplikat-Datensätze befinden, erhalten diese Datensätze **sowohl die Test- als auch die Gewinner-E-Mails.** Um dies zu verhindern, vergewissern Sie sich, dass [Personen mit Duplikat](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) in Ihrer Datenbank suchen und zusammenführen.
 
 >[!MORELIKETHIS]
 >
->* [A/B-Tests mit &quot;Betreffzeile&quot;verwenden](use-subject-line-a-b-testing.md)
->* [A/B-Tests mit &quot;Gesamter E-Mail&quot;](use-whole-email-a-b-testing.md)
->* [A/B-Tests mit &quot;Von Adresse&quot;verwenden](use-from-address-a-b-testing.md)
->* [Verwendung von &quot;Datum/Uhrzeit&quot; A/B-Tests](use-date-time-a-b-testing.md)
-
->
-
-
+>* [A/B-Tests mit &quot;Betreffzeile&quot;verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [A/B-Tests mit &quot;Gesamter E-Mail&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [A/B-Tests mit &quot;Von Adresse&quot;verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Verwendung von &quot;Datum/Uhrzeit&quot; A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
