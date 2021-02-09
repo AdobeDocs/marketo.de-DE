@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: Planen von E-Mail-Programmen mit Empfänger-Zeitzone - Marketing-Dokumente - Produktdokumentation
 title: E-Mail-Programm mit Zeitzone des Empfängers planen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -37,15 +37,12 @@ Dies bietet zwei Optionen:
 >* **Stellen Sie den folgenden Tag in der Zeitzone** des Empfängers bereit: Wenn die E-Mail am Dienstag um 9:00 Uhr ausgehen soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits abgelaufen ist, die E-Mail am  ** Mittwoch um 9:00 Uhr.
    >
    >
-* **Bereitstellung unter Verwendung der Standardeinstellung** des Programms: Wenn die E-Mail am Dienstag um 9:00 Uhr ausgehen soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits abgelaufen ist, die E-Mail  *entsprechend Ihren Zeitzoneneinstellungen* des Abonnements. Wenn Ihre [s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md) [Zeitzoneneinstellungen für Abonnements](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md) auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger immer noch die E-Mail am Dienstag um 9:00 Uhr PDT (unabhängig davon, zu welchem Zeitpunkt sie sich in ihren eigenen Zeitzonen befinden).
-
->
-
+* **Bereitstellung unter Verwendung der Standardeinstellung** des Programms: Wenn die E-Mail am Dienstag um 9:00 Uhr ausgehen soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits abgelaufen ist, die E-Mail  _entsprechend Ihren Zeitzoneneinstellungen_ des Abonnements. Wenn Ihre Zeitzoneneinstellungen für [Abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger die E-Mail am Dienstag um 9:00 Uhr PDT (unabhängig davon, zu welchem Zeitpunkt sie sich in ihren eigenen Zeitzonen befinden).
 
 
 >[!NOTE]
 >
->[Erfahren Sie ](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) mehr darüber, wie Marketo Zeitzonen für Empfänger berechnet.
+>[Erfahren Sie ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) mehr darüber, wie Marketo Zeitzonen für Empfänger berechnet.
 
 Betrachten wir dieses Szenario genauer. Angenommen, Sie sind in San Francisco und planen eine E-Mail um 7:00 Uhr für einen **9:00 Uhr**-Versand. In Ihrer intelligenten Liste gibt es Menschen aus den folgenden Regionen:
 
@@ -68,15 +65,15 @@ Nachdem Sie Ihr Programm genehmigt haben, wird es innerhalb von 15 Minuten ausge
 
 >[!NOTE]
 >
->Obwohl das Programm den *Prozess* des Versands von E-Mails in 15 Minuten Beginn, werden E-Mails zu diesem Zeitpunkt nicht *ausgeliefert.* Empfänger erhalten weiterhin E-Mails, die auf den von Ihnen gewählten **Zeitzoneneinstellungen** basieren.
+>Obwohl das Programm den _Prozess_ des Versands von E-Mails in 15 Minuten Beginn, werden E-Mails zu diesem Zeitpunkt nicht _ausgeliefert._ Empfänger erhalten weiterhin E-Mails, die auf den von Ihnen gewählten **Zeitzoneneinstellungen** basieren.
 
 ## Szenario 2: Mehr als 25 Stunden {#scenario-more-than-hours}
 
 In diesem zweiten Szenario genehmigen Sie ein E-Mail-Programm mit aktivierter **Zeitzone des Empfängers** und einer geplanten Auslieferungszeit von mehr als 25 Stunden. In diesem Fall wird das Programm zur geplanten Zeit in der Zeitzone **älteste** der Welt ausgeführt (UTC + 14:00). Es kann Leute geben, die sich für Ihre intelligente Liste in jeder Zeitzone auf der ganzen Welt qualifizieren, sodass wir ab der frühesten Zeitzone die E-Mail zum geplanten Datum/zur Uhrzeit an alle Empfänger in ihren jeweiligen Zeitzonen senden können.
 
-Beginn
+**Beginn**
 
-Lassen Sie uns nun darüber sprechen, wie [Head-Beginn](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) mit **Empfänger-Zeitzone** funktioniert. Für unsere bestehende Kopfzeilenfunktion ist es erforderlich, dass das Programm mindestens 12 Stunden im Voraus geplant wird. Was bedeutet das für die Zeitzone des Empfängers? Denken Sie daran, dass bei aktivierter Zeitzone für Empfänger der Beginn, der das E-Mail-Programm zur geplanten Zeit in der frühesten Zeitzone ausführt (UTC +14:00). Um **beide** Überschrift- und Empfänger-Zeitzone zu aktivieren, müssen E-Mail-Programm mindestens 12 Stunden vor der geplanten Uhrzeit in UTC +14:00 geplant werden.****
+Lassen Sie uns nun darüber sprechen, wie [Head-Beginn](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) mit **Empfänger-Zeitzone** funktioniert. Für unsere bestehende Kopfzeilenfunktion ist es erforderlich, dass das Programm mindestens 12 Stunden im Voraus geplant wird. Was bedeutet das für die Zeitzone des Empfängers? Denken Sie daran, dass bei aktivierter Zeitzone für Empfänger der Beginn, der das E-Mail-Programm zur geplanten Zeit in der frühesten Zeitzone ausführt (UTC +14:00). Um **beide** Überschrift- und Empfänger-Zeitzone zu aktivieren, müssen E-Mail-Programm mindestens 12 Stunden vor der geplanten Uhrzeit in UTC +14:00 geplant werden.****
 
 Das bedeutet, dass Sie, wenn Sie in Amerika/Los Angeles sind und sowohl Head-Beginn als auch Empfänger-Zeitzone aktivieren möchten, das Programm **34 Stunden** im Voraus planen müssen. Wie sind wir zu dieser Zahl gekommen?
 
@@ -86,8 +83,8 @@ Das bedeutet, dass Sie, wenn Sie in Amerika/Los Angeles sind und sowohl Head-Beg
 
 Kurz gesagt, E-Mail-Programm, die mit der Zeitzone des Empfängers geplant sind, müssen zur planmäßigen Zeit in der frühesten Zeitzone (d. h. dort, wo sie zuerst Mitternacht erreicht werden) ausgeführt werden, um jede Zeitzone unterzubringen. Wenn Sie also ein E-Mail-Programm planen...
 
-* **mit einer Versand-Zeit  *innerhalb*  von 25 Stunden**, die Programm-Beginn innerhalb von 15 Minuten laufen. Empfänger, die die geplante Zeit bereits überschritten haben, erhalten die E-Mail entsprechend den von Ihnen gewählten Zeitzoneneinstellungen.
-* **mit einer Versand-Zeit von  ** *mehr als*  25 Stunden in der Zukunft**, die Programm-Beginn laufen zur geplanten Zeit in der frühesten Zeitzone (UTC +14:00).
+* **mit einer Versand-Zeit  _innerhalb_  von 25 Stunden**, die Programm-Beginn innerhalb von 15 Minuten laufen. Empfänger, die die geplante Zeit bereits überschritten haben, erhalten die E-Mail entsprechend den von Ihnen gewählten Zeitzoneneinstellungen.
+* **mit einer Versand-Zeit von  _mehr als_ 25 Stunden in der Zukunft** die Programm-Beginn, die zur geplanten Zeit in der frühesten Zeitzone ausgeführt werden (UTC +14:00).
 * **mit Head-Beginn** die Programm-Beginn, die 12 Stunden vor der geplanten Uhrzeit in der frühesten Zeitzone (UTC +14:00) verarbeiten.
 
 >[!CAUTION]
@@ -96,11 +93,7 @@ Kurz gesagt, E-Mail-Programm, die mit der Zeitzone des Empfängers geplant sind,
 
 >[!MORELIKETHIS]
 >
->* [Die Zeitzone des Empfängers](understanding-recipient-time-zone.md)
->* [Beginn für E-Mail-Programme](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-
->
-
-
+>* [Die Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Beginn für E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 
