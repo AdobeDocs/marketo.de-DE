@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Planen Sie Ihr E-Mail-Programm - Marketing Docs - Produktdokumentation
 title: Planen Ihres E-Mail-Programms
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definieren einer Audience mit einer intelligenten ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definieren einer Audience mit einer intelligenten ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Wählen Sie einen vorhandenen ](choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](create-an-email-for-an-email-program.md)
-
->
-
+* [Wählen Sie einen vorhandenen ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) E-Mail-Adresse oder E-Mail für ein E-Mail-Programm  [erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
 Wenn Ihr E-Mail-Programm erstellt, die Audience definiert und E-Mail ausgewählt ist, sollten Sie Ihrem Programm *mitteilen, wann* die E-Mail gesendet werden soll. So geht es.
@@ -44,19 +41,14 @@ Wenn Ihr E-Mail-Programm erstellt, die Audience definiert und E-Mail ausgewählt
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Sie können auch die Funktionen [Empfänger-Zeitzone](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [Überschrift-Beginn](head-start-for-email-programs.md) verwenden.
+1. Sie können auch die Funktionen [Empfänger-Zeitzone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [Überschrift-Beginn](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) verwenden.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Wie einfach war das? Das einzige, was noch übrig ist, ist [Genehmigen Sie ein E-Mail-Programm](approve-unapprove-an-email-program.md) und Sie sind gut zu gehen.
+   Wie einfach war das? Das einzige, was noch übrig ist, ist [Genehmigen Sie ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) und Sie sind gut zu gehen.
 
 >[!MORELIKETHIS]
 >
->* [E-Mail-Programm mit Zeitzone des Empfängers planen](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Beginn für E-Mail-Programme](head-start-for-email-programs.md)
->* [Genehmigen/Ablehnen eines E-Mail-Programms](approve-unapprove-an-email-program.md)
-
->
-
-
+>* [E-Mail-Programm mit Zeitzone des Empfängers planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Beginn für E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
