@@ -3,9 +3,9 @@ unique-page-id: 2359504
 description: A/B-Tests mit "Von Adresse" - Marketing-Dokumentation - Produktdokumentation
 title: A/B-Tests mit "Von Adresse"verwenden
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines A/B-Tests](add-an-a-b-test.md)
-
->
-
-
+>[hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. Klicken Sie unter der Kachel **E-Mail** mit ausgewählter E-Mail auf **Hinzufügen A/B-Test**.
 
@@ -45,7 +41,7 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der
 
    >[!TIP]
    >
-   >Sie können auf das Pluszeichen **klicken, um so viele von Adressen hinzuzufügen, wie Sie möchten.**
+   >Sie können auf **+** klicken, um so viele Von Adressen hinzuzufügen, wie Sie möchten.
 
 1. Verwenden Sie den Schieberegler, um den Prozentwert der Audience auszuwählen, die Sie im A/B-Test verwenden möchten, und klicken Sie auf **Weiter**.
 
@@ -57,15 +53,6 @@ Sie können Ihre E-Mails ganz einfach A/B testen. Ein interessanter Test ist der
 
    >[!CAUTION]
    >
-   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **smart**-Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer der Audience *zu diesem Zeitpunkt gesendet. *Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
+   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **smart**-Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience _zu diesem Zeitpunkt_ gesendet. Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
 
-   OK, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](define-the-a-b-test-winner-criteria.md) definieren.
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definieren der Kriterien für den A/B-Test-Gewinner](define-the-a-b-test-winner-criteria.md)
-
-
+   OK, wir sind fast da. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) definieren.
