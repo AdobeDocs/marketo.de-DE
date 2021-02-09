@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: E-Mail für ein E-Mail-Programm erstellen - Marketing-Dokumente - Produktdokumentation
 title: E-Mail für ein E-Mail-Programm erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definieren einer Audience mit einer intelligenten ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Liste oder  [Definieren einer Audience durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
->
 
-
-
-Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine vorhandene E-Mail](choose-an-existing-email.md) auswählen oder eine von Grund auf neu erstellen. So erstellen Sie eine neue E-Mail.
+Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine vorhandene E-Mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) auswählen oder eine von Grund auf neu erstellen. So erstellen Sie eine neue E-Mail.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -48,10 +45,4 @@ Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, möc
 
    ![](assets/five.png)
 
-Großartig! Nachdem wir eine E-Mail erstellt haben, die wir senden möchten, fügen wir [einen A/B-Test](email-test-a-b-test/add-an-a-b-test.md) hinzu oder überspringen Sie direkt zu [Planen Ihres E-Mail-Programms](schedule-your-email-program.md).
-
->[!MORELIKETHIS]
->
->* [hinzufügen eines A/B-Tests](email-test-a-b-test/add-an-a-b-test.md)
->* [Planen Ihres E-Mail-Programms](schedule-your-email-program.md)
-
+Großartig! Nachdem wir eine E-Mail erstellt haben, die wir senden möchten, fügen wir [einen A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) hinzu oder überspringen Sie direkt zu [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
