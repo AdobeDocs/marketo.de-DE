@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Deaktivieren Sie die Verfolgung für einen E-Mail-Link - Marketing Docs - Produktdokumentation
 title: Deaktivieren der Verfolgung für einen E-Mail-Link
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Manchmal möchten Sie die **Marketing-Tracking-URL** für einen Link in einer E-Mail nicht aktivieren. Dies ist nützlich, wenn die Zielseite keine URL-Parameter unterstützt und zu einem fehlerhaften Link führen kann.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Bearbeiten** **Entwurf**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-7.png)
 
