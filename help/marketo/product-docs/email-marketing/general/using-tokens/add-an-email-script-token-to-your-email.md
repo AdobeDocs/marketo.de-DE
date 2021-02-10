@@ -3,9 +3,9 @@ unique-page-id: 1900575
 description: hinzufügen eines E-Mail-Skript-Tokens an Ihre E-Mail - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen eines E-Mail-Skript-Tokens an Ihre E-Mail
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # hinzufügen eines E-Mail-Skript-Tokens an Ihre E-Mail {#add-an-email-script-token-to-your-email}
 
-Nachdem Sie [Ihr E-Mail-Skript erstellt haben,](create-an-email-script-token.md)möchten Sie es einer E-Mail hinzufügen, um es in Aktion zu sehen. So geht es.
+Nachdem Sie [Ihr E-Mail-Skript](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) erstellt haben, möchten Sie es einer E-Mail hinzufügen, um es in Aktion zu sehen. So geht es.
 
 >[!NOTE]
 >
 >Die Gesamtgröße aller Skript-Token, die in eine einzelne E-Mail eingefügt werden, darf 100 KB nicht überschreiten.
 
-1. Gehen Sie zum Bereich Marketing-Aktivitäten.
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/one-2.png)
 
-1. Suchen Sie die E-Mail, der Sie das Token hinzufügen möchten, wählen Sie sie aus und klicken Sie auf Entwurf bearbeiten.
+1. Suchen Sie nach der E-Mail, der Sie das Token hinzufügen möchten, und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ Nachdem Sie [Ihr E-Mail-Skript erstellt haben,](create-an-email-script-token.md)
 
    ![](assets/four-2.png)
 
-1. Wählen Sie das zuvor erstellte E-Mail-Skript-Token aus und klicken Sie auf Einfügen.
+1. Suchen Sie das zuvor erstellte E-Mail-Skript-Token und wählen Sie es aus und klicken Sie auf **Einfügen**.
 
    ![](assets/five-1.png)
 
@@ -47,14 +47,12 @@ Nachdem Sie [Ihr E-Mail-Skript erstellt haben,](create-an-email-script-token.md)
    >
    >hinzufügen Sie bei Bedarf einen Standardwert.
 
-1. Klicken Sie auf Speichern.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->**Erinnerung**
->
->Vergessen Sie nicht, [die E-Mail ](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) zu genehmigen.
+>Vergessen Sie nicht, [die E-Mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) zu genehmigen.
 
 Das ist&#39;s! Wenn diese E-Mail gesendet wird, wird das Skript hinter dem Token ausgeführt und der Inhalt gefüllt.
