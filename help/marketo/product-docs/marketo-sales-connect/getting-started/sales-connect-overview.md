@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Übersicht über Sales Connect - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketo Sales Connect ist eine vielschichtige Vertriebssupport-Lösung mit einer
 
 >[!AVAILABILITY]
 >
->
 >Nicht alle Kunden haben diese Funktion erworben. Wenden Sie sich für weitere Informationen an Ihren Kundenbetreuer.
 
 ## Der Live-Feed {#the-live-feed}
 
-Vertriebsmitarbeiter können [Echtzeit-Interaktionen](http://docs.marketo.com/x/d4TS) von Marketing- und Verkaufsinhalten Ansicht werden.
+Vertriebsmitarbeiter können [Echtzeit-Interaktionen](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) von Marketing- und Verkaufsinhalten Ansicht werden.
 
 ![](assets/engagement.jpg)
 
 ## Person Detail-Ansicht {#person-detail-view}
 
-Zugriff auf [detaillierte Personenstatistiken](http://docs.marketo.com/x/e4TS).
+Zugriff auf [detaillierte Personenstatistiken](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Erkennen Sie, wie Ihre Potenzieller Kunden mit Ihren Verkaufsbemühungen interag
   </tr> 
   <tr> 
    <td colspan="1"><p>Kaufaufruf empfangen</p></td> 
-   <td colspan="1"><p>Lead erhielt einen Anruf von einem Verkäufer, der das <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Verkaufstelefon</a> verwendet.</p></td> 
+   <td colspan="1"><p>Lead erhielt einen Anruf von einem Verkäufer, der das <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Verkaufstelefon</a> verwendet.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Kampagne Hinzufügen Vertrieb</p></td> 
@@ -81,7 +80,7 @@ Erkennen Sie, wie Ihre Potenzieller Kunden mit Ihren Verkaufsbemühungen interag
 
 ## Freigeben von Marketing-Kampagnen {#share-marketing-campaigns}
 
-Erstellen Sie eine einfache intelligente Kampagne, um Ihren Vertriebsmitarbeitern Zugriff auf [Marketo-Kampagne-Daten](http://docs.marketo.com/x/NwDh) zu geben.
+Erstellen Sie eine einfache intelligente Kampagne, um Ihren Vertriebsmitarbeitern Zugriff auf [Marketo-Kampagne-Daten](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) zu geben.
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Sind Sie bereit, loszulegen? Für Installationsanweisungen klicken Sie auf den u
 
 >[!MORELIKETHIS]
 >
->* [Erste Schritte mit Sales Connect](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[Erste Schritte mit Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
