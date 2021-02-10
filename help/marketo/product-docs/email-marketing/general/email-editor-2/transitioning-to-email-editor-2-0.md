@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: Übergang zum E-Mail-Editor 2.0 - Marketing-Dokumente - Produktdokumentation
 title: Übergang zum E-Mail-Editor 2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Übergang zum E-Mail-Editor 2.0 {#transitioning-to-email-editor}
 
-Ab der Version [Juni &#39;19 wurden alle Marketing-Abonnement auf Email Editor 2.0 umgestellt. [Erfahren Sie mehr](https://nation.marketo.com/docs/DOC-7038) über die Einstellung des E-Mail-Editors 1.0.](../../../../release-notes/2016/release-notes-spring-16.md)
+Ab der Version [Juni &#39;19 wurden alle Marketing-Abonnement auf Email Editor 2.0 umgestellt. [Erfahren Sie mehr](https://nation.marketo.com/docs/DOC-7038) über die Einstellung des E-Mail-Editors 1.0.](/help/marketo/release-notes/2016/release-notes-spring-16.md)
 
 E-Mails und E-Mail-Vorlagen in Ihrem Abonnement sollten eine Versionsnummer haben. Die Version befindet sich auf der Zusammenfassungsseite des Assets.
 
@@ -27,13 +27,13 @@ Standardmäßig werden alle vorhandenen E-Mails und E-Mail-Vorlagen als v1.0 mar
 Wenn Ihr Abonnement E-Mails der Version 1.0 vor dem Wechsel zu E-Mail Editor 2.0 enthält, wird das folgende Verhalten je nach dem aktuellen Status des Assets angezeigt:
 
 **Genehmigt**  - Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird ein Entwurf der genehmigten E-Mail der Version 2.0 erstellt. Wenn Sie dann den Entwurf der Version 2.0 genehmigen, wird der genehmigte Status der E-Mail zu Version 2.0 und es gibt keine Möglichkeit, zu Version 1.0 zurückzukehren.\
-**Entwurf** : Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Zu diesem Zeitpunkt ist es nicht möglich, v1.0 zu verwerfen und wiederherzustellen, da es keine genehmigte Version des Assets gibt.\
+**Entwurf** : Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Zu diesem Zeitpunkt ist es nicht möglich, v1.0 zu verwerfen und wiederherzustellen, da es keine genehmigte Version des Assets gibt.
 **Genehmigt mit Entwurf** : Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als Version 2.0 markiert. Aus diesem Grund gibt es auch keine Möglichkeit, den Entwurf zurück auf v1.0 zurückzusetzen.
 
 Wenn Ihr Abonnement E-Mail-Vorlagen der Version 1.0 vor dem Wechsel zu E-Mail-Editor 2.0 enthält, wird folgendes Verhalten festgestellt:
 
-**Genehmigt**  - Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird ein Entwurf der vorhandenen E-Mail-Vorlage der Version 2.0 erstellt.\
-**Entwurf** : Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Zu diesem Zeitpunkt ist es nicht möglich, v1.0 zu verwerfen und wiederherzustellen, da keine genehmigte Version des Assets vorhanden ist.\
+**Genehmigt**  - Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird ein Entwurf der vorhandenen E-Mail-Vorlage der Version 2.0 erstellt.
+**Entwurf** : Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Zu diesem Zeitpunkt ist es nicht möglich, v1.0 zu verwerfen und wiederherzustellen, da keine genehmigte Version des Assets vorhanden ist.
 **Genehmigt mit Entwurf** : Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Aus diesem Grund gibt es auch keine Möglichkeit, den Entwurf zurück auf v1.0 zurückzusetzen.
 
 Wenn Sie eine E-Mail-Vorlage genehmigen, die zuvor v1.0 war (in einem der oben genannten Status), sehen Sie das folgende Verhalten:
@@ -62,10 +62,6 @@ Hinweise
 
 >[!MORELIKETHIS]
 >
->* [Übersicht über Email Editor 2.0](email-editor-v2-0-overview.md)
->* [Syntax der E-Mail-Vorlage](email-template-syntax.md)
-
->
-
-
+>* [Übersicht über Email Editor 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [Syntax der E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
