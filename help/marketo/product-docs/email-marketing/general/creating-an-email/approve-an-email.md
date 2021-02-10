@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: E-Mail genehmigen - Marketing-Dokumente - Produktdokumentation
 title: E-Mail genehmigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ E-Mail-Beginn im Entwurfszustand. Sie sind im System generell nicht verfügbar, 
 
 1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Genehmigen**.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## Direkt in der Struktur {#approve-it-directly-in-the-tree} genehmigen
 
