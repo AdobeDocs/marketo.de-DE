@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: Bearbeiten des HTML-Codes einer E-Mail - Marketing-Dokumente - Produktdokumentation
 title: HTML einer E-Mail bearbeiten
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ Verwenden Sie die Funktion &quot;Suchcode&quot;, um Inhalte im HTML-Code Ihrer E
 
    >[!NOTE]
    >
-   >Der Suchcode ist auch im Editor [E-Mail-Vorlage](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template) verfügbar.
+   >Der Suchcode ist auch im Editor [E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md) verfügbar.
 
 Es wird empfohlen, dass Sie Ihre E-Mails weiterhin mit der integrierten Funktionalität von Marketo bearbeiten. Dieser Code-Editor bietet jedoch Flexibilität, wenn Sie ihn benötigen.
