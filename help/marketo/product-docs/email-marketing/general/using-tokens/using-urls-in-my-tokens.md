@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Verwenden von URLs in "Meine Token - Marketing Docs - Produktdokumentation"
 title: Verwenden von URLs in "Meine Token"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
    ![](assets/twelve.png)
 
    Und du bist fertig! Ihre URL wird nach dem Senden gefüllt, und dank Ihrer http:// vor dem Token wird ein nachverfolgbarer Link erzeugt.
-
