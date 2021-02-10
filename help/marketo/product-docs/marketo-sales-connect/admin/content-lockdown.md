@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: Content Lockdown - Marketing-Dokumente - Produktdokumentation
 title: Inhaltssperre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Indem Sie die Content-Absperrung aktivieren, können Sie verhindern, dass Nicht-
 
    ![](assets/two-4.png)
 
-1. Blättern Sie nach unten zur Inhaltsbegrenzung. Wenn Sie einen der Schieberegler einschalten, wird *die Fähigkeit Ihrer Teammitglieder, Vorlagen und/oder Kampagnen zu erstellen/bearbeiten, deaktiviert.*
+1. Blättern Sie nach unten zur Inhaltsbegrenzung. Wenn Sie einen der Schieberegler einschalten, wird _die Fähigkeit Ihrer Teammitglieder, Vorlagen und/oder Kampagnen zu erstellen/bearbeiten, deaktiviert._
 
    ![](assets/three-4.png)
-
