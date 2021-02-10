@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: Senden von E-Mails vom Interessenteninhaber - Marketing-Dokumente - Produktdokumentation
 title: E-Mails vom Interessenteninhaber senden
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ Was ist, wenn Sie eine E-Mail an einen Interessenten im Namen des Interessenteni
    >
    >Achten Sie darauf, dass Sie einen Abstand zwischen dem Token für den Vor- und Nachnamen einfügen.
 
-   Klicken Sie in das Feld Von E-Mail (löschen Sie eine vorhandene E-Mail-Adresse) und klicken Sie auf die Schaltfläche Token einfügen.
+1. Klicken Sie in das Feld Von E-Mail (löschen Sie eine vorhandene E-Mail-Adresse) und klicken Sie auf die Schaltfläche Token einfügen.
+
    ![](assets/eight.png)
 
 1. Beginn, der &quot;`{{lead.Lead Owner`&quot;eingibt, und das Token **`{{lead.Lead Owner Email Address}}`** auswählen.
@@ -61,4 +62,3 @@ Was ist, wenn Sie eine E-Mail an einen Interessenten im Namen des Interessenteni
 1. Vergewissern Sie sich, dass die Felder **Antwort auf** und **Betreff** ausgefüllt sind und Sie fertig sind!
 
    ![](assets/eleven.png)
-
