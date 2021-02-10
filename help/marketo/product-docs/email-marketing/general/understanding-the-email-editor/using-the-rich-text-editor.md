@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: Verwenden des Rich Text Editor - Marketing Docs - Produktdokumentation
 title: Verwenden des Rich-Text-Editors
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Der Rich-Text-Editor (RTE) wird überall in Marketing angezeigt und steht jederz
 
 ## Editoreinstellungen {#editor-settings}
 
-Die Einstellung für das Stammblock-Element definiert, welche Tags Ihren Inhalt umschließen. Standardmäßig verwendet das Element E-Mail-Stammblock <p> Tags. Sie haben die Möglichkeit, dies zu ändern, indem Sie die folgenden Schritte ausführen.
+Die Einstellung für das Stammblock-Element definiert, welche Tags Ihren Inhalt umschließen. Standardmäßig verwendet das Element des E-Mail-Stammblocks `<p>`-Tags. Sie haben die Möglichkeit, dies zu ändern, indem Sie die folgenden Schritte ausführen.
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ Die Einstellung für das Stammblock-Element definiert, welche Tags Ihren Inhalt 
 
    ![](assets/three.png)
 
-1. Wählen Sie in der Dropdownliste **E-Mail/Snippet-Editor** die Option <div> oder Keine und klicken Sie auf **Speichern**. <div> in diesem Beispiel verwendet.
+1. Wählen Sie in der Dropdown-Liste **E-Mail/Snippet-Editor** die Option `<div>` oder Keine und klicken Sie auf **Speichern**. `<div>` in diesem Beispiel verwendet.
 
    ![](assets/four.png)
 
-   Wenn Sie <div class="&ldquo;mktEditable&rdquo;"></div> in einer E-Mail-Vorlage sehen Sie das folgende Verhalten der HTML-Quelle, wenn Sie den Abschnitt öffnen und im Editor &quot;Text geht hierher&quot; eingeben:
+   Wenn Sie `<div class=“mktEditable”></div>` in einer E-Mail-Vorlage haben, sehen Sie das folgende Verhalten der HTML-Quelle, wenn Sie den Abschnitt öffnen und im Editor &quot;Text geht hier&quot;eingeben:
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ Die Einstellung für das Stammblock-Element definiert, welche Tags Ihren Inhalt 
 
 >[!NOTE]
 >
->Das Stammblock-Element ist immer <p> für Rich-Text-Programm-Token.
+>Das Stammblock-Element ist für Rich-Text-Programm-Token immer `<p>`.
 
 ## Funktionen {#features}
 
@@ -109,7 +109,7 @@ Hier finden Sie die Funktionen, die Sie in einer RTE finden.
 
 ## Landingpages {#landing-pages}
 
-Die Einstellung für das Stammblock-Element definiert, welche Tags Ihren Inhalt umschließen. Standardmäßig verwendet das Stammblock-Element der Landingpage <div> Tags. Sie haben die Möglichkeit, dies zu ändern, indem Sie die folgenden Schritte ausführen.
+Die Einstellung für das Stammblock-Element definiert, welche Tags Ihren Inhalt umschließen. Standardmäßig verwendet das Stammblock-Element der Landingpage die Tags `<div>`. Sie haben die Möglichkeit, dies zu ändern, indem Sie die folgenden Schritte ausführen.
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ Die Einstellung für das Stammblock-Element definiert, welche Tags Ihren Inhalt 
 
    ![](assets/three.png)
 
-1. Wählen Sie in der Dropdownliste **Landingpage-Editor** die Option <p> oder Keine und klicken Sie auf **Speichern**. <p> in diesem Beispiel verwendet.
+1. Wählen Sie in der Dropdown-Liste **Landingpage-Editor** die Option `<p>` oder Keine und klicken Sie auf **Speichern**. `<p>` in diesem Beispiel verwendet.
 
    ![](assets/five.png)
 
    Und das ist es!
-
