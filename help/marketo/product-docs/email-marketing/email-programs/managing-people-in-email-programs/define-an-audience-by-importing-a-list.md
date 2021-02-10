@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: Definieren einer Audience durch Importieren einer Liste - Marketing Docs - Produktdokumentation
 title: Definieren einer Audience durch Importieren einer Liste
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[E-Mail für ein E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an wen Sie die E-Mail senden möchten. Dazu können Sie [eine intelligente Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) erstellen oder eine Liste importieren. Hier ist, wie man das durch Importieren einer Liste erreicht.
+Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an wen Sie die E-Mail senden möchten. Dazu können Sie [eine intelligente Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) erstellen oder eine Liste importieren. Hier ist, wie man das durch Importieren einer Liste erreicht.
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 
    ![](assets/login-marketing-activities-1.png)
 
-   Wählen Sie Ihr E-Mail-Programm aus und klicken Sie dann auf Liste importieren unter der Kachel Audience.
+1. Wählen Sie Ihr E-Mail-Programm aus und klicken Sie dann auf Liste importieren unter der Kachel Audience.
+
    ![](assets/importlist.png)
 
-1. Das Fenster zum Importieren der Liste wird geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie die zu importierende Datei aus. Nachdem Sie die Liste der Personen ausgewählt haben, klicken Sie auf Weiter.
-1. ![](assets/importlist1.png)
+1. Das Fenster zum Importieren der Liste wird geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie die zu importierende Datei aus. Nachdem Sie die Liste der Personen ausgewählt haben, klicken Sie auf **Weiter**.
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >Vergewissern Sie sich, dass die Liste UTF-8, UTF-16, Shift-JIS oder EUC-JP kodiert ist und die Dateigröße 50 MB nicht überschreitet.
 
-   Vergewissern Sie sich, dass die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf Weiter.
+1. Vergewissern Sie sich, dass die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf **Weiter**.
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ Fantastisch! Jetzt ist es an der Zeit, eine bereits vorhandene E-Mail auszuwähl
 
 >[!MORELIKETHIS]
 >
->* [Vorhandene E-Mail auswählen](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [E-Mail für ein E-Mail-Programm erstellen](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
