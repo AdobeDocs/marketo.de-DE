@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Erste Schritte mit Sales Connect - Marketing Docs - Produktdokumentation
 title: Erste Schritte mit Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 Wenn Sie diese Schritte lieber als gelesen ansehen möchten, gehen Sie direkt zu den [Videoanweisungen unter](#video).
 
 >[!AVAILABILITY]
->
 >
 >Nicht alle Kunden haben diese Funktion erworben. Wenden Sie sich für weitere Informationen an Ihren Kundenbetreuer.
 
@@ -129,7 +128,3 @@ Für Teams, die Marketo Sales Connect mit ihrer Marketo Sandbox testen möchten,
 >[!NOTE]
 >
 >Sie können für mehrere Instanzen kein Sales Connect-Konto mit derselben E-Mail-ID bereitstellen. Wenn Sie also ein zusätzliches Sales Connect-Konto zum Testen mit Ihrer Marketing Sandbox-Instanz haben möchten, müssen Sie in jedem Konto eine andere E-Mail-ID verwenden.
-
-## Videoanweisungen {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
