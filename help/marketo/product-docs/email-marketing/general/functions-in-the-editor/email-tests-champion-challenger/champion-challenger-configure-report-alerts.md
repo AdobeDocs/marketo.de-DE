@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Champion/Challenger - Berichtwarnungen konfigurieren - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Berichtwarnungen konfigurieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie m
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Champion Criteria definieren](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[Champion/Challenger: Champion Criteria definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Planen wir, dass der Bericht am Freitag um 9 Uhr einmal pro Woche versendet wird.
 
@@ -47,9 +43,4 @@ Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie m
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: E-Mail-Test genehmigen](champion-challenger-approve-your-email-test.md)
-
-
+   >[Champion/Challenger: E-Mail-Test genehmigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
