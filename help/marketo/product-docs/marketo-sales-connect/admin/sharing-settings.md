@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: Freigabeeinstellungen - Marketing-Dokumente - Produktdokumentation
 title: Freigabeeinstellungen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren an Katego
 
 ## Konfigurieren Ihrer Freigabeeinstellungen {#configure-your-sharing-settings}
 
-1. Wechseln Sie in der Webanwendung [zur Seite &quot;Einstellungen&quot;.](http://toutapp.com/login)
+1. Wechseln Sie in der Webanwendung [zur Seite &quot;Einstellungen&quot;.](https://toutapp.com/login)
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren an Katego
 1. Nachdem Sie Ihr Team hinzugefügt haben, können Sie auswählen, dass nur Teamadministratoren die Freigabe für alle Benutzer dieses Teams zulassen dürfen. In diesem Beispiel haben wir allen Benutzern Zugriff auf das SDR-Team gewährt.
 
    ![](assets/eight-1.png)
-
