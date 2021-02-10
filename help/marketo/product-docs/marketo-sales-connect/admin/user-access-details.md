@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: Benutzerzugriffsdetails - Marketing-Dokumente - Produktdokumentation
 title: Benutzerzugriffsdetails
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Auf was haben Administratoren und Nichtadministratoren Zugriff?
 
 ## Admin-Benutzerberechtigungen {#admin-user-permissions}
 
-Administratoren können [alle Vorlagen ](http://docs.marketo.com/x/OYAXAQ) Ansicht.
+Administratoren können [alle Vorlagen ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) Ansicht.
 
 ![](assets/templates.jpg)
 
-Administratoren können [Ansicht aller Kampagnen](http://docs.marketo.com/x/N4AXAQ).
+Administratoren können [Ansicht aller Kampagnen](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Administratoren können [alle E-Mail-Aktivitäten ](http://docs.marketo.com/x/SYAXAQ) &lt;a0/>Ansicht.
+Administratoren können alle E-Mail-Aktivitäten Ansicht haben.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ Administratoren können Kampagnen im Namen von Benutzern beenden.
    * Benutzer können Vorlagen in Kategorien freigeben, die ihre Administratoren ihnen ermöglichen
    * Wenn ein Benutzer aus einem Team entfernt wird, werden seine Vorlagen für dieses Team nicht freigegeben
    * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Übergeordnet Admin, der den Benutzer gelöscht hat
-
