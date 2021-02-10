@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: Informationen zur Protokollierung von E-Mail-Ereignissen - Marketing-Dokumente - Produktdokumentation
 title: Informationen zur Protokollierung von E-Mail-Ereignissen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Beim Versenden von E-Mails protokolliert Marketo verschiedene Datenpunkte in den
 >[!CAUTION]
 >
 >Wenn dieselbe E-Mail zweimal von derselben Kampagne an dieselbe Person gesendet wird, wird das Ereignis **Geöffnet** maximal 1 Mal protokolliert.
-
