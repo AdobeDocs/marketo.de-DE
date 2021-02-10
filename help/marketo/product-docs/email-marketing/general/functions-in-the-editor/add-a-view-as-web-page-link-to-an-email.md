@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: hinzufügen einer Ansicht als Webseitenlink zu einer E-Mail - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen einer Ansicht als Webseitenlink zu einer E-Mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Hier ist ein Beispiel dafür, wie es aussieht:
 >
 >Die Ansicht wird erst dann als Webseite angezeigt, wenn Sie die E-Mail gesendet haben. Schicken Sie sich einen Test zur Ansicht.
 
-Informationen zum Ändern des Standardtextes finden Sie unter [Bearbeiten der Meldung &quot;Ansicht als Webseite&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Informationen zum Ändern des Standardtextes finden Sie unter [Bearbeiten der Meldung &quot;Ansicht als Webseite&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
