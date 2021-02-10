@@ -3,9 +3,9 @@ unique-page-id: 1147354
 description: E-Mail-Betrieb - Marketing-Dokumente - Produktdokumentation
 title: E-Mail-Betrieb
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,11 @@ Operative E-Mails ignorieren den Status &quot;Abgemeldet&quot;und &quot;Marketin
 >
 >Operative E-Mails unterliegen keinen Kommunikationsbeschränkungen.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf Entwurf bearbeiten.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
 ![](assets/one-1.png)
 
 >[!NOTE]
->
->**Erinnerung**
 >
 >Sie sollten Operative E-Mails nur für kritische E-Mails und Autoreparatoren verwenden. Sie sind nicht für Marketing-E-Mails vorgesehen.
 
@@ -41,4 +39,4 @@ Operative E-Mails ignorieren den Status &quot;Abgemeldet&quot;und &quot;Marketin
 >
 >Operative E-Mails wurden nicht für Interaktions-Programme konzipiert. Daher ignoriert ein Interaktions-Programm den Betriebsstatus einer E-Mail. Bitte bedenken Sie das, wenn Sie mit ihnen arbeiten.
 
-Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie [eine E-Mail genehmigen](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie [eine E-Mail genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
