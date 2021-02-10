@@ -3,7 +3,7 @@ unique-page-id: 1147360
 description: hinzufügen Tokens zu einem E-Mail-Link - Marketing Docs - Produktdokumentation
 title: hinzufügen Token zu einem E-Mail-Link
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -39,9 +39,4 @@ Um zusätzliche und personalspezifische Parameter in Ihre Links einzufügen, kö
 
 >[!MORELIKETHIS]
 >
->* [Verwenden von URLs in &quot;Meine Token&quot;](using-urls-in-my-tokens.md)
-
->
-
-
-
+>[Verwenden von URLs in &quot;Meine Token&quot;](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
