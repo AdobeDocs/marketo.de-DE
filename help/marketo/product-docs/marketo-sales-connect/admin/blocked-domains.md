@@ -3,9 +3,9 @@ unique-page-id: 18317338
 description: Blockierte Domänen - Marketing-Dokumente - Produktdokumentation
 title: Blockierte Domänen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Hilft Ihrem Vertriebsteam, erfolgreich zu sein, indem verhindert wird, dass Konk
 
    ![](assets/one-3.png)
 
-1. Klicken Sie unter &quot;Admin-Einstellungen&quot;auf **Allgemein.**
+1. Klicken Sie unter &quot;Admin-Einstellungen&quot;auf **Allgemein**.
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,4 @@ Hilft Ihrem Vertriebsteam, erfolgreich zu sein, indem verhindert wird, dass Konk
 
    >[!NOTE]
    >
-   >E-Mails, die Teil einer [Gruppen-E-Mail](http://docs.marketo.com/x/KAQ6Ag) sind und die fehlschlagen, weil sie an eine blockierte E-Mail-Domäne gesendet werden, schlagen ohne Meldung fehl und werden nicht im Ordner mit fehlgeschlagenen E-Mails angezeigt.
-
+   >E-Mails, die Teil einer [Gruppen-E-Mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) sind und die fehlschlagen, weil sie an eine blockierte E-Mail-Domäne gesendet werden, schlagen ohne Meldung fehl und werden nicht im Ordner mit fehlgeschlagenen E-Mails angezeigt.
