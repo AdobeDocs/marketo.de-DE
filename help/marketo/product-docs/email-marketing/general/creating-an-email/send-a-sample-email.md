@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Beispiel-E-Mail senden - Marketing-Dokumente - Produktdokumentation
 title: Senden einer Beispiel-E-Mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Beispiel-E-Mail senden {#send-a-sample-email}
 
-Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Senden einer E-Mail mit dynamischen Inhalten finden Sie unter [Vorschau einer E-Mail mit dynamischen Inhalten](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Senden einer E-Mail mit dynamischen Inhalten finden Sie unter [Vorschau einer E-Mail mit dynamischen Inhalten](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Erinnerung**
-   >
    >
    >Um mehrere E-Mail-Adressen einzugeben, trennen Sie diese durch Kommas.
 
@@ -59,13 +56,13 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    >[!NOTE]
    >
-   >Das Auslöserfeld ist nur für diejenigen anwendbar, die [email scripting](http://developers.marketo.com/documentation/velocity-script/) verwenden.
+   >Das Feld &quot;Trigger&quot;ist nur für diejenigen gültig, die [email scripting](https://developers.marketo.com/documentation/velocity-script/) verwenden.
 
 ## Senden einer Beispiel-E-Mail anhand eines Segments {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Wenden Sie die Segmentierung auf Ihre E-Mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email) an.
+>[Wenden Sie die Segmentierung auf Ihre E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md) an.
 
 1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf die Registerkarte **Entwurf bearbeiten**.
 
