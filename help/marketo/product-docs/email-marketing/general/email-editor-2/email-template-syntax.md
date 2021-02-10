@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: Syntax der E-Mail-Vorlage - Marketing-Dokumente - Produktdokumentation
 title: Syntax der E-Mail-Vorlage
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Elemente sind Inhaltsbereiche, die Sie in Ihrer E-Mail-Vorlage als bearbeitbar d
 
 ## Rich Text {#rich-text}
 
-Wenn Sie einen Bereich als Rich Text definieren, können Benutzer den Inhalt [mit dem Rich Text Editor von Marketo bearbeiten. ](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) Es gibt zwei Möglichkeiten, ein Rich-Text-Element in einer E-Mail-Vorlage zu definieren: mktEditable und mktoText. Beachten Sie, dass ein Rich-Text-Element immer aus dem E-Mail-Editor in ein Snippet konvertiert werden kann.
+Wenn Sie einen Bereich als Rich Text definieren, können Benutzer den Inhalt [mit dem Rich Text Editor von Marketo bearbeiten. ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) Es gibt zwei Möglichkeiten, ein Rich-Text-Element in einer E-Mail-Vorlage zu definieren: mktEditable und mktoText. Beachten Sie, dass ein Rich-Text-Element immer aus dem E-Mail-Editor in ein Snippet konvertiert werden kann.
 
 ### Option 1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ Beispiel:
 
 Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder ein `<div>` verwenden, das einen Container angibt, in den das `<img>` eingefügt wird, oder ein `<img>`-Tag. Wenn Sie möchten, dass der Endbenutzer einfach ein Bild auswählt, das die Bild-URL zurückgibt (im Gegensatz zum DOM), lesen Sie bitte &quot;Bildvariablen&quot; im folgenden Abschnitt. Die folgenden beiden Optionen fügen ein HTML `<img>`-Element ein.
 
-### Option 1: Verwenden Sie einen \&lt;div\> {#option-use-a-div}
+### Option 1: Verwenden Sie eine `<div>` {#option-use-a-div}
 
 Erforderliche Attribute
 
@@ -128,7 +128,7 @@ Beispiel:
 
 ## Snippets {#snippets}
 
-Wenn Sie einen Bereich als Snippet definieren, können Endbenutzer auswählen, welches [Snippet](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)sie in diesen Bereich einfügen möchten. Rich-Text-Elemente können zwar aus dem E-Mail-Editor in Snippets konvertiert werden, aber wenn Sie eine Region spezifisch als Snippet definieren, kann sie nicht in Rich-Text konvertiert werden. Sie können einen Snippet-Bereich mit einem `<div>` mit class=&quot;mktoSnippet&quot; angeben.
+Wenn Sie einen Bereich als Snippet definieren, können Endbenutzer auswählen, welches [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)sie in diesen Bereich einfügen möchten. Rich-Text-Elemente können zwar aus dem E-Mail-Editor in Snippets konvertiert werden, aber wenn Sie eine Region spezifisch als Snippet definieren, kann sie nicht in Rich-Text konvertiert werden. Sie können einen Snippet-Bereich mit einem `<div>` mit class=&quot;mktoSnippet&quot; angeben.
 
 Erforderliche Attribute
 
@@ -351,8 +351,6 @@ Optionale Attribute
 * **mktoAddByDefault:** Legt fest, ob sich dieses Modul bei der Erstellung in der Arbeitsfläche einer neuen E-Mail befindet, die diese Vorlage verwendet. Die Standardeinstellung ist true (wenn mktoActive auf false gesetzt ist, wird dieser Wert ignoriert).
 
 >[!NOTE]
->
->**Erinnerung**
 >
 >Bei Klassenwerten mit Marketo-Syntax (z. B. mktoModule, mktoContainer, mktoText) wird zwischen Groß- und Kleinschreibung unterschieden. Benutzerdefinierte Attributnamen (d. h. mktoimgwidth, mktoname) sind nicht vorhanden.
 
