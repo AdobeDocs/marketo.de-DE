@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: Vorschau einer E-Mail mit dynamischen Inhalten - Marketing-Dokumente - Produktdokumentation
 title: Vorschau einer E-Mail mit dynamischem Inhalt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Vorschau Ihrer E-Mail nach dem Hinzufügen dynamischer Inhalte, um sie zu überp
 
    ![](assets/one-3.png)
 
-   Klicken Sie auf die Dropdownliste Ansicht nach und wählen Sie den Typ des dynamischen Inhalts aus, der Vorschau werden soll.
+1. Klicken Sie auf die Dropdownliste Ansicht nach und wählen Sie den Typ des dynamischen Inhalts aus, der Vorschau werden soll.
+
    ![](assets/two-3.png)
 
 1. Eine neue Dropdownliste wird angezeigt. Klicken Sie darauf und wählen Sie den gewünschten Inhalt aus.
