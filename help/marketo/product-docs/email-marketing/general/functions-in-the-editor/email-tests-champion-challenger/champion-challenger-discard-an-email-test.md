@@ -3,7 +3,7 @@ unique-page-id: 2359587
 description: Champion/Challenger - Einen E-Mail-Test verwerfen - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Einen E-Mail-Test verwerfen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Wenn Sie sich entscheiden, Ihren E-Mail-Test nicht weiter auszuführen, können 
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: E-Mail-Test genehmigen](champion-challenger-approve-your-email-test.md)
-
->
-
-
+>[Champion/Challenger: E-Mail-Test genehmigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -33,9 +29,6 @@ Wenn Sie sich entscheiden, Ihren E-Mail-Test nicht weiter auszuführen, können 
 
 1. Klicken Sie zur Bestätigung auf **Löschen**.
 
-   ^ ![](assets/image2014-9-15-14-3a17-3a11.png)
+   ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   `
-
-   Du bist fertig! Wenn Sie sich jemals entscheiden, einen Test erneut einzurichten, gehen Sie vor und [fügen Sie einen E-Mail-Champion/Herausforderer](add-an-email-champion-challenger.md) hinzu.
-
+   Du bist fertig! Wenn Sie sich jemals entscheiden, einen Test erneut einzurichten, gehen Sie vor und [fügen Sie einen E-Mail-Champion/Herausforderer](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) hinzu.
