@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Email Editor v2.0 Übersicht - Marketing Docs - Produktdokumentation
 title: Übersicht über Email Editor v2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wenn Sie den E-Mail-Editor v2.0 aktivieren, werden Sie einige neue Funktionen be
 
 **Auswahl der E-Mail-Vorlage**
 
-Wenn Sie eine neue E-Mail erstellen, gelangen Sie zum [E-Mail-Vorlagenwähler](email-template-picker-overview.md).
+Wenn Sie eine neue E-Mail erstellen, gelangen Sie zum [E-Mail-Vorlagenwähler](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Wenn Sie Beginn haben, Ihre E-Mail zu bearbeiten, werden Sie feststellen, dass d
 
 **Module**
 
-Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Sie, wie Sie Ihrer E-Mail Module [hinzufügen.](add-modules-to-your-email.md)
+Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Sie, wie Sie Ihrer E-Mail Module [hinzufügen.](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
 
 ![](assets/three-4.png)
 
 **Textversion**
 
-Der Wechsel zwischen der HTML-Version und der Text-Version Ihrer E-Mail erfolgt jetzt auf einer praktischen Registerkarte unten. Erfahren Sie, wie Sie die Textversion einer E-Mail bearbeiten können.[](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
+Der Wechsel zwischen der HTML-Version und der Text-Version Ihrer E-Mail erfolgt jetzt auf einer praktischen Registerkarte unten. Erfahren Sie, wie Sie die Textversion einer E-Mail bearbeiten können.[](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
 
 ![](assets/four-3.png)
 
 **E-Mail-Kopfzeile**
 
-Möchten Sie mehr Platz im Design? Der E-Mail-Header kann ausgeblendet werden, nachdem Sie [die Bearbeitung abgeschlossen haben. ](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md) Klicken Sie einfach auf dieses Symbol...
+Möchten Sie mehr Platz im Design? Der E-Mail-Header kann ausgeblendet werden, nachdem Sie [die Bearbeitung abgeschlossen haben. ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md) Klicken Sie einfach auf dieses Symbol...
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ Die Standard-Ansicht ist Desktop...
 
 ...aber Sie können auch sehen, wie es auf einem Mobilgerät aussehen wird. Sie können auch die Textversion Vorschau! Klicken Sie einfach auf **Entwurf bearbeiten** oben rechts, um die Bearbeitung fortzusetzen.
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **E-Mail-Aktionen**
 
@@ -83,7 +83,7 @@ Unter **E-Mail-Aktionen** werden Sie einige neue Funktionen bemerken. **Laden Si
 
 >[!NOTE]
 >
->** [Bilder vom Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)*** funktioniert genau wie im Design Studio.
+>**[Nehmen Sie Bilder von](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks wie im Design Studio.
 
 **Deaktivieren Sie &quot;** Verfolgung öffnen&quot;unter &quot; **E-Mail-Einstellungen**&quot;, können Sie die Verfolgung öffnen deaktivieren, falls erforderlich.
 
@@ -103,15 +103,8 @@ Viele tolle neue Features! Viel Spaß!
 
 >[!NOTE]
 >
->**Tieftauchen**
->
 >Wenn Sie noch tiefer gehen möchten, sehen Sie sich dieses [hilfreiche Video](https://nation.marketo.com/videos/1463) an.
 
 >[!MORELIKETHIS]
 >
->* [Syntax der E-Mail-Vorlage](email-template-syntax.md)
-
->
-
-
-
+>[Syntax der E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
