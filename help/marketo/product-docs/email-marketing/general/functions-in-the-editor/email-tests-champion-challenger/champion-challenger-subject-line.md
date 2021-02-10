@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Subject Line - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Betreffzeile
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Sie können ganz einfach mehrere Betreffzeilen testen. Wenn der Test beendet ist
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines E-Mail-Champions/Challenger](add-an-email-champion-challenger.md)
+>[hinzufügen eines E-Mail-Champions/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Wählen Sie im E-Mail-Testeditor **Betreff-Zeile** in der Dropdownliste **Testtyp **aus.
+1. Wählen Sie im E-Mail-Testeditor in der Dropdown-Liste **Testtyp** die Option **Betreffzeile**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -47,10 +43,9 @@ Sie können ganz einfach mehrere Betreffzeilen testen. Wenn der Test beendet ist
    >
    >**Beispiel**
    >
-   >
    >In der oben gezeigten Distribution erhalten 10% der in der Smart-Liste angegebenen Audience eine der E-Mails mit der Betreffzeile des herausfordernden Benutzers und 90% erhalten E-Mails mit der Betreffzeile des Meisters. E-Mails mit mehreren herausfordernden Betreff-Zeilen haben die gleichen 10%. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.  [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
+   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
 
 1. Klicken Sie auf **Weiter**.
 
@@ -60,7 +55,4 @@ Sie können ganz einfach mehrere Betreffzeilen testen. Wenn der Test beendet ist
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Champion/Challenger: Champion Criteria definieren](champion-challenger-define-champion-criteria.md)
-
+   >[Champion/Challenger: Champion Criteria definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
