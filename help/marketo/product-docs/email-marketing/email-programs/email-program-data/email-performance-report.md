@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: E-Mail-Leistungsbericht - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur E-Mail-Leistung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Um zu sehen, wie gut Ihre E-Mails mit Statistiken wie Auslieferung, Öffnen, Klicken usw. funktionieren, erstellen Sie einen E-Mail-Leistungsbericht.
 
-1. [Erstellen Sie einen Bericht in einem ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie den  **Berichtstyp** [E-Mail-Leistung](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Ändern Sie den ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichtszeitrahmen und klicken Sie auf die Registerkarte  **** Bericht.
+1. [Erstellen Sie einen Bericht in einem ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie den  **Berichtstyp** [E-Mail-Leistung](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Ändern Sie den ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichtszeitrahmen und klicken Sie auf die Registerkarte  **** Bericht.
 1. Du bist da! Sehen Sie sich den Bericht an, um zu sehen, wie Ihre E-Mail-Adresse(n) funktioniert hat.
 
    >[!NOTE]
@@ -31,10 +31,9 @@ Um zu sehen, wie gut Ihre E-Mails mit Statistiken wie Auslieferung, Öffnen, Kli
 
    >[!NOTE]
    >
-   >
-   >Ein E-Mail-Leistungsbericht enthält Aktivitäten für alle Personen, einschließlich derer, die seit dem Senden der E-Mail gelöscht wurden. Manchmal möchten Sie Aktivitäten nur für aktive Menschen sehen. In diesem Fall müssen Sie gelöschte Personen aus Ihrem Bericht filtern. Verwenden Sie die Registerkarte **Intelligente Liste**, um [eine intelligente Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) für den Bericht zu erstellen. Wenn Sie nicht nach einem bestimmten Feld filtern, setzen Sie den Filter E-Mail-Adresse auf: **ist nicht leer**.
+   >Ein E-Mail-Leistungsbericht enthält Aktivitäten für alle Personen, einschließlich derer, die seit dem Senden der E-Mail gelöscht wurden. Manchmal möchten Sie Aktivitäten nur für aktive Menschen sehen. In diesem Fall müssen Sie gelöschte Personen aus Ihrem Bericht filtern. Verwenden Sie die Registerkarte **Intelligente Liste**, um [eine intelligente Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) für den Bericht zu erstellen. Wenn Sie nicht nach einem bestimmten Feld filtern, setzen Sie den Filter E-Mail-Adresse auf: **ist nicht leer**.
 
-   [Wählen Sie Berichtsspalten ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen E-Mail-Leistungsbericht aus:
+   [Wählen Sie Berichtsspalten ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen E-Mail-Leistungsbericht aus:
 
    | Spalte | Beschreibung |
    |---|---|
@@ -50,13 +49,13 @@ Um zu sehen, wie gut Ihre E-Mails mit Statistiken wie Auslieferung, Öffnen, Kli
 
 Im Allgemeinen versuchen wir, diese Statistiken mit dem gesunden Menschenverstand aufzuzeichnen. Wenn beispielsweise jemand in einer E-Mail auf einen Link geklickt hat, hat er die E-Mail offensichtlich zuerst geöffnet. Für den Bericht &quot;E-Mail-Leistung&quot;gelten die folgenden spezifischen Regeln:
 
-* **Regel 1**: Jeder E-Mail-Aktivität-Datensatz ist auf einen der folgenden Werte eingestellt:  *Ausgeliefert*,  *harter Absprung*,  *weich abgeschnitten* oder  *ausstehend*.
+* **Regel 1**: Jeder E-Mail-Aktivität-Datensatz ist auf einen der folgenden Werte eingestellt:  _Ausgeliefert_,  _harter Absprung_,  _weich abgeschnitten_ oder  _ausstehend_.
 
 * **Regel 2**: Wenn der E-Mail-Datensatz &quot; *Geöffnet*&quot;anzeigt, wird er als  *&quot;Ausgeliefert*&quot;gezählt.
 
-* **Artikel 3**: Wenn der E-Mail-Datensatz  *Klicks auf* E-Mail-Adresse  *abbestellt* anzeigt, wird er als  ** Ausgeliefert und  *geöffnet* gezählt.
+* **Artikel 3**: Wenn der E-Mail-Datensatz  _Klicks auf_ E-Mail-Adresse  _abbestellt_ anzeigt, wird er als  __ Ausgeliefert und  _geöffnet_ gezählt.
 
-* **Artikel 4**: Wenn die E-Mail  *geöffnet* ist, werden Absprünge ignoriert. Wenn die E-Mail nicht geöffnet wurde, hat *Hard Bounced* Vorrang vor *Soft Bounced* und *Delivered*.
+* **Artikel 4**: Wenn die E-Mail  _geöffnet_ ist, werden Absprünge ignoriert. Wenn die E-Mail nicht geöffnet wurde, hat _Hard Bounced_ Vorrang vor _Soft Bounced_ und _Delivered_.
 
 >[!NOTE]
 >
@@ -64,16 +63,6 @@ Im Allgemeinen versuchen wir, diese Statistiken mit dem gesunden Menschenverstan
 
 >[!MORELIKETHIS]
 >
->* [Assets in Kampagne-E-Mail-Berichten filtern](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [Leistungsbericht zu E-Mail-Links](email-link-performance-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere Informationen finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Assets in Kampagne-E-Mail-Berichten filtern](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Leistungsbericht zu E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
