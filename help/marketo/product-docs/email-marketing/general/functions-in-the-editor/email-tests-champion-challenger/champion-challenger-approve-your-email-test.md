@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Berichtwarnungen konfigurieren](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -33,10 +29,7 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Wenn Sie einen **Gesamte E-Mail**** **Test genehmigen, genehmigen Sie zuerst die herausfordernde E-Mail.
+   >Genehmigen Sie bei der Genehmigung eines Tests **Gesamte E-Mail** zunächst die herausfordernde E-Mail.
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht es.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Champion erklären](champion-challenger-declare-a-champion.md)
-   >    * [Champion/Challenger: Einen E-Mail-Test verwerfen](champion-challenger-discard-an-email-test.md)
-
+   >* [Champion/Challenger: Champion erklären](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger: Einen E-Mail-Test verwerfen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
