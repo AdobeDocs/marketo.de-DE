@@ -3,7 +3,7 @@ unique-page-id: 2359555
 description: Champion/Challenger - Gesamte E-Mails - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - ganze E-Mails
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines E-Mail-Champions/Challenger](add-an-email-champion-challenger.md)
+>[hinzufügen eines E-Mail-Champions/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Wählen Sie im Editor für E-Mail-Tests im Dropdown-Menü **Testtyp **die Option **Ganze E-Mails**.
+1. Wählen Sie im E-Mail-Testeditor in der Dropdown-Liste **Testtyp** die Option **Ganze E-Mails**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -47,10 +43,11 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
    >
    >**Beispiel**
    >
-   >
    >In der oben gezeigten Distribution erhalten 15 % der in der Smart-Liste angegebenen Audience eine der herausfordernden E-Mails und 85 % erhalten die Champion-E-Mail. Mehrere herausfordernde E-Mails teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
+   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der Prozentsatz, den Sie Herausforderern zuweisen, genügend Personen enthält, die Ihren Test gültig machen. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
+
+   [Mehr Informationen zum statistischen Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
 
 1. Klicken Sie auf **Weiter**.
 
@@ -60,10 +57,4 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Champion Criteria definieren](champion-challenger-define-champion-criteria.md)
-
-
-Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der Prozentsatz, den Sie Herausforderern zuweisen, genügend Personen enthält, die Ihren Test gültig machen. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
+   >[Champion/Challenger: Champion Criteria definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
