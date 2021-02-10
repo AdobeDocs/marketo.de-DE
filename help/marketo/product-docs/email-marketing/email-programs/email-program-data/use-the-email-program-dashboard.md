@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Verwenden Sie das Dashboard E-Mail-Programm - Marketing Docs - Produktdokumentation
 title: Verwenden Sie das Dashboard E-Mail-Programm
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Verwenden Sie das Dashboard E-Mail-Programm {#use-the-email-program-dashboard}
 
-Sehen Sie sich an, wie Ihre [E-Mail-Programm](http://docs.marketo.com/display/docs/email+programs) mit dieser Dashboard-Ansicht abschneiden.
+Sehen Sie sich an, wie Ihre E-Mail-Programm mit dieser Dashboard-Ansicht abschneiden.
 
 >[!NOTE]
 >
->Wenn Ihr Programm einen A/B-Test hat, sehen Sie sich das [E-Mail-Programm-Dashboard - A/B-Test-Ansicht](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md) an.
+>Wenn Ihr Programm einen A/B-Test hat, sehen Sie sich das [E-Mail-Programm-Dashboard - A/B-Test-Ansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md) an.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ Dieses Diagramm zeigt Ihnen die Anzahl der E-Mails, die in bestimmten Zeiträume
 
 ## Zusammenfassung - Einsatz {#summary-engagement}
 
-Dies zeigt Ihnen den Gesamtwert [Einsatz](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Dies zeigt Ihnen den Gesamtwert [Einsatz](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ Der Rest der Daten zeigt das Verhältnis &quot;Öffnen&quot;, &quot;Klicks&quot;
 >
 >**Definition**
 >
->**Öffnet **wird gezählt, wenn der E-Mail-Empfänger die E-Mail-Bilder herunterlädt, die ein durch Markieren eingefügtes Verfolgungs-Pixel enthalten. Wenn der Empfänger die E-Mail Ansicht, sich jedoch nicht für den Download der Bilder entscheidet, zählt dies nicht als &quot;open&quot;. Wenn die Bilder im Bereich &quot;Vorschau&quot;des Empfängers geladen werden, wird dies in der Regel als &quot;offen&quot;gezählt, aber je nach E-Mail-Client unterschiedlich.
+>**&quot;** Opensare&quot;wird gezählt, wenn der E-Mail-Empfänger die E-Mail-Bilder herunterlädt, die ein durch &quot;Marketo&quot;eingefügtes Verfolgungs-Pixel enthalten. Wenn der Empfänger die E-Mail Ansicht, sich jedoch nicht für den Download der Bilder entscheidet, zählt dies nicht als &quot;open&quot;. Wenn die Bilder im Bereich &quot;Vorschau&quot;des Empfängers geladen werden, wird dies in der Regel als &quot;offen&quot;gezählt, aber je nach E-Mail-Client unterschiedlich.
 >
 >**Klicken Sie zum** Öffnen, um den Prozentsatz der E-Mails zu messen, die sowohl geöffnet wurden als auch auf einen Link in der E-Mail geklickt wurden. Wir nehmen die Anzahl der individuellen Klicks geteilt durch die Anzahl der individuellen Öffnen, dann multiplizieren mit 100, um es als Prozentsatz anzuzeigen.
 
@@ -77,9 +77,4 @@ Um die aktuellsten Daten anzuzeigen, klicken Sie einfach auf das Aktualisierungs
 
 >[!MORELIKETHIS]
 >
->* [Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
