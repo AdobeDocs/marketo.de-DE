@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: Registerkarte "Admin-Einstellungen"- "Marketing-Dokumente"- Produktdokumentation
 title: Registerkarte "Admin-Einstellungen"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Auf der Registerkarte &quot;Admin-Einstellungen&quot;kann der Administrator in j
 
 Wenn Sie das Kontrollkästchen **Alle Salesforce-Synchronisierungseinstellungen für mein Team** überschreiben aktivieren, sehen Sie die Option, entweder die Protokollierung nur über BCC oder nur über API zuzulassen.
 
-Wenn Sie **API-Protokollierung** auswählen, werden alle Einstellungen, die für Chancen, Interessenten, Kontakte `will be set for the entire team after you click **Save Changes**.` ausgewählt wurden
+Wenn Sie **API-Protokollierung** auswählen, werden alle Einstellungen, die für Chancen, Interessenten und Kontakte ausgewählt sind, für das gesamte Team festgelegt, nachdem Sie auf **Änderungen speichern** geklickt haben.
 
 Von hier aus können Sie auch massenaktivierte Möglichkeiten und Aufgaben-Synchronisierung im gesamten Team nutzen.
 
@@ -25,12 +25,14 @@ Von hier aus können Sie auch massenaktivierte Möglichkeiten und Aufgaben-Synch
 >
 >Wenn Sie diese Einstellungen für die Massenaktivierung aktivieren, wird eine hohe Anzahl von API-Aufrufen für die Salesforce-Einstellungen Ihres Teams verwendet.
 
-1 - Aktivieren Sie &quot;Einstellungen meines Teams konfigurieren&quot;.
+1. Aktivieren Sie &quot;Einstellungen meines Teams konfigurieren&quot;.
 
-2 - Aktivieren Sie die Einstellungen für die Synchronisierung im Team
+1. Aktivieren Sie die Einstellungen für die Synchronisierung im Team.
 
-3 - Konfigurieren Sie, wie Sie möchten, dass Ihre E-Mail-Aktivität und die neueste MSE-Aktivität beim SFDC protokolliert werden.
+1. Konfigurieren Sie, wie Ihre E-Mail-Aktivität und die neueste MSE-Aktivität bei SFDC protokolliert werden sollen.
 
-4 - Die Option &quot;Aufgaben zum Synchronisieren von Verkaufsverbindungen&quot;ist optional.
+1. Die Option &quot;Aufgaben zum Synchronisieren von Verkaufsverbindungen&quot;ist optional.
 
-(Hinweis: MSE erlaubt es Ihnen, Aufgaben zu überspringen, während das SFDC dies nicht tut - Sie müssen also entscheiden, wie das SFDC mit der übersprungenen Aufgabe umgeht)
+>[!NOTE]
+>
+>MSC erlaubt es Ihnen, Aufgaben zu überspringen, während SFDC dies nicht tut - also müssen Sie entscheiden, wie SFDC mit der übersprungenen Aufgabe umgeht.
