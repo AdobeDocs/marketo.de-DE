@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: Erstellen einer Nur-Text-E-Mail - Marketing-Dokumente - Produktdokumentation
 title: E-Mail "Nur Text erstellen"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Wenn Sie nur Text-E-Mails senden möchten, hier erfahren Sie, wie Sie eine E-Mai
 
    >[!CAUTION]
    >
-   >Links werden nicht automatisch in E-Mails verfolgt, die nur Text enthalten. Erfahren Sie, wie Sie nachverfolgte Links zu einer Text-E-Mail[ Hinzufügen.](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
+   >Links werden nicht automatisch in E-Mails verfolgt, die nur Text enthalten. Erfahren Sie, wie Sie nachverfolgte Links zu einer Text-E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) Hinzufügen.[
 
    >[!TIP]
    >
