@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Bericht zur Leistung von E-Mail-Links - Marketing-Dokumente - Produktdokumentation
 title: Leistungsbericht zu E-Mail-Links
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut die Links in Ihren E-Mails funktionieren.
 
-1. [Erstellen Sie einen Bericht in einem ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie  **E-Mail-Link-** Leistung als Berichtstyp.
+1. [Erstellen Sie einen Bericht in einem ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie  **E-Mail-Link-** Leistung als Berichtstyp.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut 
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Legen Sie einen geeigneten Zeitraum für Ihren Bericht fest. Klicken Sie auf **Speichern. **
+1. Legen Sie einen geeigneten Zeitraum für Ihren Bericht fest. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut 
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Die für einen Bericht zur Leistung von E-Mail-Links ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) verfügbaren Spalten umfassen Folgendes:
+[Die für einen Bericht zur Leistung von E-Mail-Links ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) verfügbaren Spalten umfassen Folgendes:
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ Erstellen Sie einen Bericht zur Leistung von E-Mail-Links, um zu sehen, wie gut 
 
 >[!TIP]
 >
->Wenn Sie wissen möchten, was eine Person genau getan hat, können Sie das [Aktivität-Protokoll](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) auf der Seite [Personendetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) auf der Registerkarte &quot;Mitglieder&quot;des Programms öffnen.
+>Wenn Sie wissen möchten, was eine Person genau getan hat, können Sie das [Aktivität-Protokoll](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) auf der Seite [Personendetails](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) auf der Registerkarte &quot;Mitglieder&quot;des Programms öffnen.
 
 >[!MORELIKETHIS]
 >
->* [Bericht zur E-Mail-Leistung](email-performance-report.md)
->* [Assets in einem E-Mail-Bericht filtern](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Tieftauchen**
->
->Erfahren Sie mehr über [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Bericht zur E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Assets in einem E-Mail-Bericht filtern](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
