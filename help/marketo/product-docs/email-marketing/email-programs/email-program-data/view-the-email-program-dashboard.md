@@ -3,7 +3,7 @@ unique-page-id: 2359469
 description: Ansicht des E-Mail-Programm-Dashboards - Marketing Docs - Produktdokumentation
 title: Ansicht des E-Mail-Programm-Dashboards
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -47,10 +47,6 @@ Wenn Sie auch keinen A/B-Test *oder* hinzugefügt haben, wenn der Test beendet i
 
 >[!MORELIKETHIS]
 >
->* [Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Verwenden Sie das Dashboard E-Mail-Programm](use-the-email-program-dashboard.md)
-
->
-
-
+>* [Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Verwenden Sie das Dashboard E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
