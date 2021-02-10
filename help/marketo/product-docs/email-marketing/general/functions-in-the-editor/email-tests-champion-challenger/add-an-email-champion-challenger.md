@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: hinzufügen ein E-Mail-Champion/Challenger - Marketing Docs - Produktdokumentation
 title: hinzufügen eines E-Mail-Champions/Challenger
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -13,22 +13,21 @@ ht-degree: 0%
 
 # hinzufügen eines E-Mail-Champions/Challenger {#add-an-email-champion-challenger}
 
-Es empfiehlt sich, häufig verwendete E-Mails zu testen, um sicherzustellen, dass sie funktionieren. Eine Möglichkeit besteht darin, die Effektivität einer E-Mail mit anderen Versionen oder Herausforderern zu vergleichen. In einem Meister-/Herausforderer-Test können Sie die gesamte E-Mail, die Betreffzeile oder die Von-Adresse testen.\
-Die vorhandene E-Mail, die Sie testen, gilt als Meister. Alle Varianten, die Sie in einem Test erstellen, werden als Herausforderer betrachtet. Sie bestimmen den Prozentsatz der Benutzer, die entweder den Inhalt des Meisters oder den Inhalt des Herausforderers erhalten. Wenn Sie mehrere Herausforderer definiert haben, werden diese gleichmäßig auf die herausfordernde Gruppe verteilt.\
+Es empfiehlt sich, häufig verwendete E-Mails zu testen, um sicherzustellen, dass sie funktionieren. Eine Möglichkeit besteht darin, die Effektivität einer E-Mail mit anderen Versionen oder Herausforderern zu vergleichen. In einem Meister-/Herausforderer-Test können Sie die gesamte E-Mail, die Betreffzeile oder die Von-Adresse testen.
+
+Die vorhandene E-Mail, die Sie testen, gilt als Meister. Alle Varianten, die Sie in einem Test erstellen, werden als Herausforderer betrachtet. Sie bestimmen den Prozentsatz der Benutzer, die entweder den Inhalt des Meisters oder den Inhalt des Herausforderers erhalten. Wenn Sie mehrere Herausforderer definiert haben, werden diese gleichmäßig auf die herausfordernde Gruppe verteilt.
+
 Hier ist, wie man anfängt.
 
 >[!PREREQUISITES]
 >
->* [Programm erstellen](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [E-Mail erstellen](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
+>* [Programm erstellen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 
 >[!CAUTION]
 >
->Champion/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktions-Programm-Streams. Verwenden Sie für Batch-Mails die [A/B-Testfunktionalität](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) des E-Mail-Programms.
+>Champion/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktions-Programm-Streams. Verwenden Sie für Batch-Mails die [A/B-Testfunktionalität](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) des E-Mail-Programms.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -40,10 +39,7 @@ Hier ist, wie man anfängt.
 
    >[!NOTE]
    >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über [E-Mail-Programm](http://docs.marketo.com/display/docs/email+programs) für einmalige E-Mail-Nachrichten.
+   >Erfahren Sie mehr über [E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) für einmalige E-Mail-Nachrichten.
 
 1. Klicken Sie unter **E-Mail-Aktionen** auf **Neuer Test**.
 
@@ -53,11 +49,7 @@ Hier ist, wie man anfängt.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Ganze E-Mails](champion-challenger-whole-emails.md)
-   >    * [Champion/Challenger: Betreffzeile](champion-challenger-subject-line.md)
-   >    * [Champion/Challenger: Von Adresse](champion-challenger-from-address.md)
-
+   >* [Champion/Challenger: Ganze E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [Champion/Challenger: Betreffzeile](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger: Von Adresse](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
 
