@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Weiterleiten zu einem Freund-Link in E-Mails - Marketing-Dokumente - Produktdokumentation
 title: Weiterleiten zu einem Freund-Link in E-Mails
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
    >Denken Sie daran, den Vorlagenentwurf zu genehmigen, um die Änderungen anzuwenden.
 
    Jetzt haben alle E-Mails, die diese Vorlage verwenden, den Link &quot;Weiterleiten an Freunde&quot;. Wenn der E-Mail-Empfänger darauf klickt, wird er mit dem Feld &quot;An einen Freund weiterleiten&quot;zu einer Webversion der E-Mail weitergeleitet:
+
    ![](assets/f2afbox.png)
 
 ## hinzufügen des Links zu einer einzelnen E-Mail {#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ Sie können den Link &quot;Weiterleiten an Freunde&quot;auch direkt in eine E-Ma
 
    ![](assets/eight-1.png)
 
-1. Fügen Sie das Token **`{{system.forwardToFriendLink}}`** mithilfe von Strg/Cmd+V in das Feld **URL** ein und klicken Sie dann auf** Einfügen**.
+1. Fügen Sie das Token **`{{system.forwardToFriendLink}}`** mithilfe von Strg/Cmd+V in das Feld **URL** ein und klicken Sie dann auf **Einfügen**.
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ Sie können sehen, wer die E-Mails weitergeleitet und empfangen hat, im Benutzer
    >
    >**Definition**
    >
-   >
    >Bei &quot;An Freunde weitergeleitete E-Mail&quot;ist die Person, die die E-Mail weitergeleitet hat, die ID der Person.
-   >
    >
    >Für &quot;Weitergeleitet an Freunde-E-Mail&quot;ist die Personen-ID die Person, die die E-Mail erhalten hat.
 
    ![](assets/sixteen.png)
 
-1. Um eine Person nach ID Ansicht, kopieren Sie die** Person-ID** an das Ende der URL (der Anfang der URL hängt von Ihrer Marketing-Instanz ab):
+1. Um eine Person nach ID Ansicht, kopieren Sie die **Personen-ID** und fügen Sie sie an das Ende der URL ein (der Anfang der URL hängt von Ihrer Marketing-Instanz ab):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,14 +134,14 @@ Sie können sehen, wer die E-Mails weitergeleitet und empfangen hat, im Benutzer
 
    >[!NOTE]
    >
-   >Ist der Freund, der den Vorlauf erhält, eine unbekannte Person, wird eine neue Person mit der Kennzeichnung &quot;Weiterleitung an Freunde&quot;als **Quelle** der Person erstellt.\
+   >Ist der Freund, der den Vorlauf erhält, eine unbekannte Person, wird eine neue Person mit der Kennzeichnung &quot;Weiterleitung an Freunde&quot;als **Quelle** der Person erstellt.
    >Wenn die E-Mail ein lokales Asset eines Programms ist, wird das Programm als **Akquise-Programm** des Benutzers markiert.
 
-## Auslösen oder Filtern mit der Aktivität {#trigger-or-filter-using-forwarding-activity}
+## Trigger oder Filter mit Weiterleiten der Aktivität {#trigger-or-filter-using-forwarding-activity}
 
-Es gibt sechs Auslöser/Filter, mit denen Sie Flussaktionen auslösen oder Personen nach der Aktivität &quot;Weiterleiten an Freunde&quot;filtern können.
+Es gibt sechs Trigger/Filter, mit denen Sie Trigger-Flow-Aktionen durchführen oder Personen nach Versand und Erhalt der Aktivität &quot;Weiterleiten an Freunde&quot;filtern können.
 
-In der intelligenten Liste einer intelligenten Kampagne finden Sie die verfügbaren Auslöser und Filter, wenn Sie nach &quot;forward&quot;suchen.
+In einer intelligenten Kampagne, wenn Sie nach &quot;forward&quot; suchen, finden Sie die verfügbaren Trigger und Filter.
 
 ![](assets/nineteen.png)
 
