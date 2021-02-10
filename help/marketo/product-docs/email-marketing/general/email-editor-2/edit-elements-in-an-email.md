@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: Elemente in einer E-Mail bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Elemente in einer E-Mail bearbeiten
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ E-Mails können vier verschiedene Elemente enthalten: Rich Text, Bilder, Snippet
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Sie können auch Bilder, Token, Tabellen und andere Elemente hinzufügen. Siehe [Verwenden des Rich-Text-Editors](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Sie können auch Bilder, Token, Tabellen und andere Elemente hinzufügen. Siehe [Verwenden des Rich-Text-Editors](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ E-Mails können vier verschiedene Elemente enthalten: Rich Text, Bilder, Snippet
    >
    >Wenn Sie ein Marketo-Token verwenden möchten, verwenden Sie diese Option. Denken Sie daran, dass bei Verwendung eines Tokens das Bild im Editor beschädigt angezeigt wird, aber im Vorschau-Modus und in der E-Mail zum Senden eines Beispiels gerendert wird.
 
-   **Tauschen** ![](assets/eight.png)
+   Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bilds ein. Passen Sie die Abmessungen an Ihre Anforderungen an und fügen Sie einen Alternativtext hinzu (optional). Drücken Sie dann **Swap**.
+
+   ![](assets/eight.png)
 
    **Arbeitsplatz**
 
@@ -90,14 +89,15 @@ E-Mails können vier verschiedene Elemente enthalten: Rich Text, Bilder, Snippet
    >
    >Wenn Sie ein Bild ersetzen, müssen Sie das Feld **Vorhandenes Bild überschreiben** markieren, das unter der Bild-URL/dem Namen angezeigt wird.
 
-   **Design** StudioUm ein Bild aus dem Design Studio einzufügen, suchen Sie es einfach...
+   **Design Studio**
+
+   Um ein Bild aus dem Design Studio einzufügen, suchen Sie es einfach...
 
    ![](assets/twelve.png)
 
-   **Tauschen**
-   ![](assets/thirteen.png)
+   ...und fügen Sie es ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den Alt-Text (optional) und drücken Sie dann **Swap**.
 
-Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bilds ein. Passen Sie die Abmessungen an Ihre Anforderungen an und fügen Sie einen Alternativtext hinzu (optional). Dann drücken Sie .               ...und fügen Sie es ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den Alt-Text (optional) und drücken Sie dann die Eingabetaste.
+   ![](assets/thirteen.png)
 
 ## Bearbeiten des Snippet-Elements {#how-to-edit-the-snippet-element}
 
