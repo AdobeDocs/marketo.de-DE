@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: Champion/Challenger - Champion Criteria definieren - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Champion-Kriterien definieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines E-Mail-Champions/Challenger](add-an-email-champion-challenger.md)
-
->
-
-
+>[hinzufügen eines E-Mail-Champions/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Standard-Champion-Kriterien {#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
    >
    >Wir werden diese Metrik verfolgen und Ihnen per E-Mail einen Bericht mit den Daten senden.
 
-1. Wenn Sie eines der standardmäßigen **Champion Criteria** ausgewählt haben, fahren Sie fort und fahren Sie zu [Champion/Challenger: Berichtwarnungen konfigurieren](champion-challenger-configure-report-alerts.md)!
+1. Wenn Sie eines der standardmäßigen **Champion Criteria** ausgewählt haben, fahren Sie fort und fahren Sie zu [Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Benutzerdefinierte Champion-Kriterien {#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Berichtwarnungen konfigurieren](champion-challenger-configure-report-alerts.md)
-
-
+   >[Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
