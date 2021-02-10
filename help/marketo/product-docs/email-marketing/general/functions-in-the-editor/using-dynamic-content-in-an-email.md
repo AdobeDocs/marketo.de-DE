@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: Verwenden dynamischer Inhalte in einer E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Dynamische Inhalte in einer E-Mail verwenden
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Eine Segmentierung erstellen](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[Eine Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Interessenten zielgerichtete Informationen zu senden.
 
@@ -39,9 +35,9 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Interessenten zielgerichtet
 
    >[!NOTE]
    >
-   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch** (bzw. [Ersetzen durch Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie tun).
+   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch** (bzw. [Ersetzen durch Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie tun).
 
-   Geben Sie den Segmentierungsnamen ein, wählen Sie ihn aus und klicken Sie auf Speichern.
+1. Geben Sie den Segmentierungsnamen ein, wählen Sie ihn aus und klicken Sie auf **Speichern**.
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ Süß! Jetzt können Sie flexible E-Mails an Ihre Zielgruppe Audience senden.
 
 >[!MORELIKETHIS]
 >
->* [Vorschau einer E-Mail mit dynamischem Inhalt](preview-an-email-with-dynamic-content.md)
->* [Dynamische Inhalte in einer Landingpage verwenden](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [Vorschau einer E-Mail mit dynamischem Inhalt](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Dynamische Inhalte in einer Landingpage verwenden](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
