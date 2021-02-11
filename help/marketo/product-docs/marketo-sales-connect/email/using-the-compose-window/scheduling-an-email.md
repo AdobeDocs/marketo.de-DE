@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Einplanen einer E-Mail - Marketing-Dokumente - Produktdokumentation
 title: E-Mail planen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ Befolgen Sie diese einfachen Schritte, um eine E-Mail zu planen.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Übersicht über das Command Center](http://docs.marketo.com/x/kgDb)
-
+   >[Übersicht über das Command Center](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
