@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Versenden einer verfolgten E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Senden einer verfolgten E-Mail
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird ge�
 >
 >Vor dem Senden einer verfolgten E-Mail-Nachricht müssen eine Identitätsbestätigung und ein E-Mail-Versand-Kanal eingerichtet werden.
 >
->* [E-Mail-Adresse überprüfen](http://docs.marketo.com/x/ewPh)
->* Einrichten eines Versand-Kanals für [Outlook](http://docs.marketo.com/x/Z4AOAQ) oder [Gmail](http://docs.marketo.com/x/kYMOAQ)
-
->
-
+>* [E-Mail-Adresse überprüfen](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Einrichten eines Versand-Kanals für [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) oder [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
 
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
@@ -54,17 +51,12 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird ge�
    >
    >Zum Senden der E-Mail benötigen Sie eine Betreffzeile und einen Empfänger. Sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden, wird **der Entwurf automatisch gespeichert.**
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken Sie nach Abschluss des Vorgangs auf **Senden** (oder [Planen](http://docs.marketo.com/x/GAQ6Ag), falls gewünscht).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken Sie nach Abschluss des Vorgangs auf **Senden** (oder [Planen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), falls gewünscht).
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [E-Mail planen](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [Dynamische Felder](http://docs.marketo.com/x/wwDb)
-   >    * [Verwenden von Vorlagen](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [E-Mail planen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Vorlagen](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
