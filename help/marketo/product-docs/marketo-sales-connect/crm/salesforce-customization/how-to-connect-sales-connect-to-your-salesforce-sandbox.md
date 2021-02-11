@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Anleitung zum Verbinden von Verkaufsstellen mit Ihrer Salesforce-Sandbox - Marketo Docs - Produktdokumentation
 title: Verbindung von Verkaufsstellen mit Ihrer Salesforce-Sandbox
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ihr Sales Connect-Konto kann nicht bereits mit Salesforce verbunden werden, wenn eine Verbindung zur Sandbox hergestellt wird. Ist dies der Fall, stellen Sie sicher, dass Sie die Verbindung [trennen, bevor Sie die Schritte in diesem Artikel befolgen.](http://docs.marketo.com/x/FoDq)
+>Ihr Sales Connect-Konto kann nicht bereits mit Salesforce verbunden werden, wenn eine Verbindung zur Sandbox hergestellt wird. Ist dies der Fall, stellen Sie sicher, dass Sie die Verbindung [trennen, bevor Sie die Schritte in diesem Artikel befolgen.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
 
 1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[So installieren Sie Anpassungen in Ihrer Salesforce-Sandbox](http://docs.marketo.com/x/EIDq)
-
+>[So installieren Sie Anpassungen in Ihrer Salesforce-Sandbox](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
