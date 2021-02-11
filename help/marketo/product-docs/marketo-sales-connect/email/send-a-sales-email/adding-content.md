@@ -3,7 +3,7 @@ unique-page-id: 14352591
 description: Hinzufügen von Inhalten - Marketing-Dokumente - Produktdokumentation
 title: Hinzufügen von Inhalten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Wenn Sie zuvor Inhalte hinzugefügt haben, werden diese Dateien angezeigt. Wenn 
 >[!NOTE]
 >
 >Die Datei wird an der Stelle platziert, an der sich Ihr Cursor in der E-Mail befindet. Sie müssen beim Senden der E-Mail auf &quot;Tout It&quot;klicken, um den Inhalt in Ihrem Live-Feed zu verfolgen.
-
