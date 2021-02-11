@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Erstellen von Massen-E-Mails mit Select and Send - Marketing to Docs - Produktdokumentation
 title: Erstellen von Massen-E-Mails mit "Auswählen"und "Senden"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;Auswählen&quot;und &quot;
 
    ![](assets/three-2.png)
 
-1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf) und senden Sie die E-Mail mit [Plan](http://docs.marketo.com/x/GAQ6Ag).
+1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf) und senden Sie die E-Mail an einen Termin ([plan](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)).
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;Auswählen&quot;und &quot;
 
 **Massenbearbeitungen**
 
-1. Befolgen Sie die Schritte 1-3 im Abschnitt [E-Mails senden](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Befolgen Sie die Schritte 1-3 im Abschnitt [E-Mails senden](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;Auswählen&quot;und &quot;
    >
    >Sie können auf einen bestimmten E-Mail-Empfänger klicken, um die Änderungen zu dieser E-Mail zu sehen.
 
-1. Klicken Sie auf **Senden** (oder [Planen](http://docs.marketo.com/x/GAQ6Ag)), um alle Empfänger mit den von Ihnen vorgenommenen Massen-E-Mail-Aktualisierungen zu senden.
+1. Klicken Sie auf **Senden** (oder [Planen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)), um alle Empfänger mit den von Ihnen vorgenommenen Massen-E-Mail-Aktualisierungen zu senden.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;Auswählen&quot;und &quot;
 
 Schließen Sie die Massenaktualisierungen ab, bevor Sie die einzelnen E-Mails anpassen, da bei einer Massenaktualisierung Änderungen an jeder E-Mail in der Seitenleiste für die Massenzusammenstellung überschrieben werden.
 
-1. Führen Sie die Schritte 1-4 im Abschnitt [E-Mails senden aus.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Führen Sie die Schritte 1-4 im Abschnitt [E-Mails senden](#sending-emails) aus.
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ Schließen Sie die Massenaktualisierungen ab, bevor Sie die einzelnen E-Mails an
    >
    >Sie können auf andere Empfänger klicken, um zu sehen, dass die Änderungen, die Sie an dem zuvor ausgewählten Empfänger vorgenommen haben, nicht angezeigt werden.
 
-1. Klicken Sie auf **Senden** (oder [Planen](http://docs.marketo.com/x/GAQ6Ag)), um alle Empfänger mit den von Ihnen vorgenommenen Massen-E-Mail-Aktualisierungen zu senden.
+1. Klicken Sie auf **Senden** (oder [Planen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)), um alle Empfänger mit den von Ihnen vorgenommenen Massen-E-Mail-Aktualisierungen zu senden.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Massensendeoptionen](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [Dynamische Felder](http://docs.marketo.com/x/wwDb)
-
+   >* [Massensendeoptionen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Dynamische Felder](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
