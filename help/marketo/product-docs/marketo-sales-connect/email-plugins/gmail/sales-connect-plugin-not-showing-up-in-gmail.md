@@ -3,7 +3,7 @@ unique-page-id: 14352547
 description: Sales Connect-Plugin nicht in Gmail angezeigt - Marketing Docs - Produktdokumentation
 title: Sales Connect-Plugin wird nicht in Gmail angezeigt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,10 +21,10 @@ Aus unserer Erfahrung können Sie einige Dinge ausprobieren, wenn Ihre Symbollei
 
 - Dies ist zwar offensichtlich, aber versuchen Sie, aus Ihrem Browser auszusteigen und ein völlig neues Fenster zu öffnen.
 
-- Gehen Sie zur Webanwendung [und stellen Sie sicher, dass Sie dort angemeldet sind.](http://toutapp.com/login)
+- Gehen Sie zur Webanwendung [und stellen Sie sicher, dass Sie dort angemeldet sind.](https://toutapp.com/login)
 
 - Stellen Sie sicher, dass Cookies aktiviert sind. Wenn Sie Chrome verwenden, gehen Sie zu Einstellungen > Erweiterte Einstellungen anzeigen > Inhaltseinstellungen > Deaktivieren Sie &quot;Drittanbieter-Cookies und Site-Daten blockieren&quot;.
 
 - Trennen Sie die Verbindung und schließen Sie dann die Sales Connect-Browsererweiterung erneut an.
 
-Wenn keine der oben genannten Tipps hilfreich war, senden Sie bitte [eine Anfrage an den Support.](http://nation.marketo.com/community/support_solutions)
+Wenn keine der oben genannten Tipps hilfreich war, senden Sie bitte [eine Anfrage an den Support.](https://nation.marketo.com/community/support_solutions)
