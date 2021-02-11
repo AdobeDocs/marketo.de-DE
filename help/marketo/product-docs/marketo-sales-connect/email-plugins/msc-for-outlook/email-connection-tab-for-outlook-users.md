@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Registerkarte "E-Mail-Verbindung"für Outlook-Benutzer - Marketing-Dokumente - Produktdokumentation
 title: Registerkarte "E-Mail-Verbindung"für Outlook-Benutzer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Eine Verbindung mit Outlook bedeutet, dass Sie Antworten verfolgen, auf den Outl
 
    ![](assets/nine-a.png)
 
-   Sie können diese Verbindung verwenden, um E-Mails und [auch als Versand-Kanal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail) zu verfolgen.
+   Sie können diese Verbindung verwenden, um E-Mails und auch als Versand-Kanal zu verfolgen.
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ Eine Verbindung mit Exchange On-Premise bedeutet, dass Sie Antworten verfolgen, 
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | Auch als Office Online bekannt |
+   | Version | Beschreibung |
    |---|---|
+   | **Outlook Online** | Auch als Office Online bekannt |
    | **Austausch vor Ort** | Umfasst Exchange 2013 und 2016 |
 
 1. Geben Sie Ihre Anmeldeinformationen ein und klicken Sie auf **Verbinden**.
@@ -109,10 +110,8 @@ Eine Verbindung mit Exchange On-Premise bedeutet, dass Sie Antworten verfolgen, 
    >
    >Wenn Sie Autodiscover in der Dropdown-Liste Exchange-Version deaktivieren, müssen Sie Ihre IT-Abteilung um die Exchange-URL bitten.
 
-   [als Versand-Kanal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   Sie können diese Verbindung verwenden, um E-Mails und auch als Versand-Kanal zu verfolgen.
 
    >[!NOTE]
    >
    >Wenn Sie Outlook als Versand-Kanal verwenden, können Sie nicht mehr als 300 Massen-E-Mails gleichzeitig senden.
-
-Sie können diese Verbindung nutzen, um E-Mails und auch zu verfolgen .
