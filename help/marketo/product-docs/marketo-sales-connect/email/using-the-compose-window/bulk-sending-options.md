@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Massenversandoptionen - Marketing-Dokumente - Produktdokumentation
 title: Massensendeoptionen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Das Senden von E-Mails als Massenversand ist eine großartige Möglichkeit, die Interaktion mit Ihrem Potenzieller Kunde zu beschleunigen. Sales Connect Angebots bietet zwei Möglichkeiten, E-Mails stapelweise zu senden: **E-Mails gruppieren** und **Auswählen und Senden**. Gruppen-E-Mails sind eine großartige Möglichkeit, um schnell Hunderte von E-Mails an eine bestimmte Gruppe zu senden. Die Verwendung von &quot;Auswählen&quot;und &quot;Senden&quot;bedeutet geringere E-Mail-Beschränkungen, es werden jedoch mehr Anpassungsmöglichkeiten für den Benutzer Angebot.
 
-Gruppen-E-Mail im Vergleich zu Auswahl und Senden
+**Gruppen-E-Mail im Vergleich zu Auswahl und Senden**
 
 <table> 
  <colgroup> 
@@ -54,20 +54,16 @@ Gruppen-E-Mail im Vergleich zu Auswahl und Senden
  </tbody> 
 </table>
 
-Verwenden der Gruppen-E-Mail
+**Verwenden der Gruppen-E-Mail**
 
 Sie können jede E-Mail in der Liste Vorschau haben, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind, und die Vorlage, die Sie senden möchten, als Massenbearbeitung bearbeiten. Sie können jedoch keine eindeutigen &quot;Pro Benutzer&quot;-Änderungen vornehmen.
 
-Auswählen und Senden
+**Auswählen und Senden**
 
 Standardmäßig werden Sie alle Empfänger bearbeiten. Sie können jedoch auch jede einzelne E-Mail auswählen, um benutzerdefinierte Änderungen vorzunehmen. Dies kann besonders hilfreich sein, wenn Sie Empfängern, mit denen Sie einen personalisierteren Ansatz verfolgen möchten, eine oder mehrere individuelle(n) Zeilen zur Anpassung hinzufügen möchten.
 
 >[!MORELIKETHIS]
 >
->* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [Senden von E-Mails per E-Mail](http://docs.marketo.com/x/KAQ6Ag)
-
->
-
-
+>* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Senden von E-Mails per E-Mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
