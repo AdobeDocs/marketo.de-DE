@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: Schnellaktionen zur Beschleunigung Ihres Arbeitsablaufs - Marketing-Dokumente - Produktdokumentation
 title: Schnellaktionen zur Beschleunigung des Arbeitsablaufs
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den relevantesten
 
 **Ausgeliefert**
 
-| Archiv | Fügt die E-Mail zum archivierten Ordner hinzu und stoppt alle Deaktivierung der Ansicht und klickt auf Verfolgung für diese E-Mail. |
+| Status | Beschreibung |
 |---|---|
+| Archiv | Fügt die E-Mail zum archivierten Ordner hinzu und stoppt alle Deaktivierung der Ansicht und klickt auf Verfolgung für diese E-Mail. |
 | Erfolg | Kennzeichnet die E-Mail als erfolgreich, um in der Vorlagenanalyse berichtet zu werden. |
 
 **Archiviert**
@@ -84,13 +85,11 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den relevantesten
 
 **Folgemaßnahmen**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Follow-up-E-Mail senden | Öffnet das Komprimierungsfenster mit angehängter und bereitstehender eingebetteter E-Mail-Textstelle, die an den Empfänger gesendet werden kann. |
+| Funktion | Beschreibung |
 |---|---|
+| Follow-up-E-Mail senden | Öffnet das Komprimierungsfenster mit angehängter und bereitstehender eingebetteter E-Mail-Textstelle, die an den Empfänger gesendet werden kann. |
 | Aufruf durchführen | Öffnet das Verkaufstelefon, um den E-Mail-Empfänger anzurufen. |
 | InMail senden | Leitet LinkedIn zu, um der Person eine InMail-Nachricht zu senden. |
 | Aufgabe erstellen | Öffnet das Popup &quot;Aufgabe erstellen&quot;, um eine Erinnerung-Aufgabe zu erstellen. |
-
