@@ -3,9 +3,9 @@ unique-page-id: 37356329
 description: Erweiterte Suchübersicht - Marketing-Dokumente - Produktdokumentation
 title: Überblick über die erweiterte Suche
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,9 @@ Filtern Sie nach E-Mail-Empfänger/Absender im Bereich &quot;Wer&quot;.
 
 ![](assets/who.png)
 
-| **Ansicht als** | Filtern Sie nach einem bestimmten Absender in Ihrer Sales Connect-Instanz (diese Option steht nur Administratoren zur Verfügung). |
+| Dropdown | Beschreibung |
 |---|---|
+| **Ansicht als** | Filtern Sie nach einem bestimmten Absender in Ihrer Sales Connect-Instanz (diese Option steht nur Administratoren zur Verfügung). |
 | **Nach Gruppe** | Filtern von E-Mails nach einer bestimmten Gruppe von Empfängern. |
 | **Nach Person** | Filtern Sie nach einem bestimmten Empfänger. |
 
@@ -82,8 +83,9 @@ Filter nach Ihrer gesendeten E-Mail-Aktivität. Sie können Ansichten/keine Ansi
 
 Filter aller ausstehenden E-Mails.
 
-| **Geplant** | E-Mails, die aus dem Komprimierungsfenster (Salesforce oder die Web-App), E-Mail-Plugins oder einer Kampagne geplant wurden. |
+| Status | Beschreibung |
 |---|---|
+| **Geplant** | E-Mails, die aus dem Komprimierungsfenster (Salesforce oder die Web-App), E-Mail-Plugins oder einer Kampagne geplant wurden. |
 | **Entwürfe** | E-Mails, die sich derzeit im Entwurfszustand befinden. E-Mails benötigen eine Betreffzeile und einen Empfänger, um als Entwurf gespeichert zu werden. |
 | **Wird ausgeführt** | E-Mails, die gerade gesendet werden. E-Mails sollten in diesem Status nicht länger als einige Sekunden bleiben. |
 
@@ -93,8 +95,9 @@ Filter aller ausstehenden E-Mails.
 
 Filter per E-Mail, die nie zugestellt wurden.
 
-| **Fehlgeschlagen** | Wenn eine E-Mail nicht von Sales Connect gesendet werden kann (häufige Gründe sind: E-Mails, die an nicht abonnierte/blockierte Kontakte gesendet werden, oder wenn beim Füllen der dynamischen Felder ein Problem aufgetreten ist). |
+| Status | Beschreibung |
 |---|---|
+| **Fehlgeschlagen** | Wenn eine E-Mail nicht von Sales Connect gesendet werden kann (häufige Gründe sind: E-Mails, die an nicht abonnierte/blockierte Kontakte gesendet werden, oder wenn beim Füllen der dynamischen Felder ein Problem aufgetreten ist). |
 | **Absprungen** | Eine E-Mail wird als abgeschnitten markiert, wenn sie vom Server des Empfängers abgelehnt wird. Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
 | **Spam** | Als die E-Mail vom Empfänger als Spam (gebräuchlicher Begriff für unerbetene E-Mail) gekennzeichnet wurde. Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
 
@@ -113,4 +116,3 @@ So erstellen Sie eine gespeicherte Suche.
    Ihre gespeicherten Suchvorgänge werden in der Seitenleiste auf der linken Seite angezeigt.
 
    ![](assets/advanced-search-overview-15.png)
-
