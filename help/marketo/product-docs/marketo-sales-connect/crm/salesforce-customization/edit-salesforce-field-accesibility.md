@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: Barrierefreiheit von Salesforce-Feldern bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Barrierefreiheit des Salesforce-Felds bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Wenn Sie keine Anmeldung bei Salesforce zur E-Mail-Aktivität sehen, kann dies a
 * Wenden Sie sich an Ihren Salesforce-Administrator, um sicherzustellen, dass diese Sicherheitseinstellungen nicht in Sales Connect eingreifen.
 
 * Wenn Sie ein Salesforce-Administrator sind, können Sie die Barrierefreiheit für Felder auf der Registerkarte Sicherheitseinstellungen anzeigen. Die wichtigsten Felder, mit denen Sales Connect interagiert, sind: Konto, Kontakte, Gelegenheit, Interessent und Aufgabe.
-
