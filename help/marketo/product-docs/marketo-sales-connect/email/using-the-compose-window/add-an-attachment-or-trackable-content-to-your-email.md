@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: hinzufügen einer Anlage oder eines verfolgbaren Inhalts zu Ihrer E-Mail - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen einer Anlage oder eines verfolgbaren Inhalts zu Ihrer E-Mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Die Anlage wird am Ende Ihrer E-Mail angezeigt.
    >[!NOTE]
    >
    >Benutzer werden im Live Feed benachrichtigt, wenn sie ihre verfolgten Inhalte anzeigen. Benutzer können auch die leistungsstärksten Inhalte im Inhaltsabschnitt der Seite &quot;Analytics&quot;sehen.
-
