@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Synchronisieren von Abonnements mit Salesforce - Marketing Docs - Produktdokumentation
 title: Synchronisieren von Abonnements mit Salesforce
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Wenn Sie die Synchronisierung zum Abmelden aktiviert haben (Schritt 3 unten), wi
 
 Benutzer können entscheiden, ob sie ihre Abmeldung mit dem standardmäßigen Feld E-Mail-Opt-out synchronisieren möchten, mit dem Marketo ebenfalls synchronisieren kann, oder sie können mit dem Feld Marketing Sales Opt-out synchronisieren, sodass Abmeldeabbrüche und Marketingabmeldungen differenziert werden können.
 
-1. Wechseln Sie zur Webanwendung [und klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.](http://toutapp.com/login)
+1. Wechseln Sie zur Webanwendung [und klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.](https://toutapp.com/login)
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Benutzer können entscheiden, ob sie ihre Abmeldung mit dem standardmäßigen Fe
 
    ![](assets/4.png)
 
-   | **Opt-out synchronisieren** | Standardmäßig ausgewählt, wird nur das Feld Salesforce Opt-out aktualisiert. |
+   | Feld | Beschreibung |
    |---|---|
+   | **Opt-out synchronisieren** | Standardmäßig ausgewählt, wird nur das Feld Salesforce Opt-out aktualisiert. |
    | **Synchronisierung mit dem Opt-out** | Wenn Sie die Abonnements für Vertrieb und Marketing trennen möchten, wählen Sie diese Option, um das weitere Feld [Marketingto Sales Opt-out zu aktualisieren.](#msoo) |
 
 ## Opt-out im Seitenlayout {#installing-the-opt-out-field-in-the-page-layout} installieren
@@ -57,7 +58,7 @@ Benutzer können entscheiden, ob sie ihre Abmeldung mit dem standardmäßigen Fe
 
 Email Opt-out ist ein Standardfeld in Salesforce, das von Salesforce installiert werden kann. Sie müssen ein Salesforce-Administrator sein, um es zu installieren.
 
-1. Gehen Sie zu [Salesforce.com](http://Salesforce.com) und melden Sie sich an.
+1. Gehen Sie zu [Salesforce.com](https://salesforce.com) und melden Sie sich an.
 
    ![](assets/five-1.png)
 
