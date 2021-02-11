@@ -3,9 +3,9 @@ unique-page-id: 14352423
 description: Verbinden Sie Ihr Sales Connect-Konto mit Salesforce - Marketing Docs - Produktdokumentation
 title: Verbinden Sie Ihr Sales Connect-Konto mit Salesforce.
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Führen Sie die folgenden einfachen Schritte aus, um Sales Connect mit Salesforc
 
    ![](assets/four.png)
 
-1. Wenn Sie bereits bei Salesforce angemeldet sind, werden Sie verbunden. Andernfalls werden Sie aufgefordert, sich anzumelden.
+1. Wenn Sie bereits bei Salesforce angemeldet sind, werden Sie verbunden. Wenn nicht, werden Sie aufgefordert, sich anzumelden.
 
 ## So verbinden Sie sich mit einem Nicht-Admin {#how-to-connect-as-a-non-admin}
 
@@ -53,5 +53,4 @@ Führen Sie die folgenden einfachen Schritte aus, um Sales Connect mit Salesforc
 
    ![](assets/four.png)
 
-1. Wenn Sie bereits bei Salesforce angemeldet sind, werden Sie verbunden. Andernfalls werden Sie aufgefordert, sich anzumelden.
-
+1. Wenn Sie bereits bei Salesforce angemeldet sind, werden Sie verbunden. Wenn nicht, werden Sie aufgefordert, sich anzumelden.
