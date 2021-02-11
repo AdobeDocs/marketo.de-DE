@@ -3,7 +3,7 @@ unique-page-id: 14352619
 description: Verwendung von Aufgaben in Kampagnen - Marketing Docs - Produktdokumentation
 title: Aufgaben in Kampagnen verwenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Sie können auch eine &quot;Aufgabe zu Inmail&quot; als Kontakt auf LinkedIn ein
 
 >[!NOTE]
 >
->Das Wichtigste an Aufgaben in Kampagnen ist, dass Sie die Aufgabe abschließen müssen, um den nächsten Schritt auszulösen.
+>Das Wichtigste an Aufgaben in Kampagnen ist, dass Sie die Aufgabe abschließen müssen, um den nächsten Schritt zu Triggern.
 
 Aufgaben werden immer mit jedem Einzelpersonen in der Kampagne verknüpft. Das bedeutet, dass Sie in jede Person gehen und die Aufgabe schließen müssen, damit ihre Kampagne fortgesetzt werden kann.
 
