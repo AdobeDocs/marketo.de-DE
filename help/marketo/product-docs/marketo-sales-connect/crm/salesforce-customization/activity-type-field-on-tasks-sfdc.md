@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: Feld "Aktivität Type Field on Aufgaben (SFDC) - Marketing Docs - Produktdokumentation
 title: Feld "Typ der Aktivität bei Aufgaben"(SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Mithilfe von Sales Connect können Sie Ihre E-Mails und Anrufe als Aktivität in
 * Verbindung mit Salesforce
 * In der Auswahlliste &quot;Typ der Aufgabe&quot;wurde kein Standardwert ausgewählt
 * Aufruf, Antwort und E-Mail müssen alle in der Auswahlliste &quot;Aufgabe&quot;vorhanden sein (Großschreibung ist wichtig)
-* Keine Aktion von `Workflows` oder `Triggers` zum Wert des Felds &quot;Typ&quot;
+* Keine Workflows oder Trigger, die Maßnahmen zum Wert des Felds Typ ergreifen
 
 ## Setup {#setup}
 
 Überprüfen Sie zunächst, ob die richtigen Werte für die Auswahlliste vorhanden sind. Sie benötigen die Hilfe Ihres Salesforce-Administrators, um Änderungen an Ihrer Auswahlliste vorzunehmen.
 
-1. Navigieren Sie zu [Salesforce.com](http://Salesforce.com) und klicken Sie auf Setup in der oberen rechten Ecke.
+1. Navigieren Sie zu [Salesforce.com](https://salesforce.com) und klicken Sie auf Setup in der oberen rechten Ecke.
 1. Klicken Sie auf Anpassen.
 1. Klicken Sie auf Aktivitäten.
 1. Klicken Sie auf Aufgabe Felder.
