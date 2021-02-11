@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Verwendung von Massenaktionen in Salesforce Lightning - Marketing Docs - Produktdokumentation
 title: Verwenden von Massenaktionen im Salesforce-Blitz
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 
 >[!PREREQUISITES]
 >
->Aktualisieren Sie auf die neueste Version des Sales Connect-Pakets und installieren Sie die Schaltflächen für Massenaktionen in Ihrer Ansicht für Lead/Kontakt. [Klicken Sie hier für Anleitungen](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Aktualisieren Sie auf die neueste Version des Sales Connect-Pakets und installieren Sie die Schaltflächen für Massenaktionen in Ihrer Ansicht für Lead/Kontakt. [Klicken Sie hier für Anleitungen](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
@@ -84,10 +84,6 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer 
 
 >[!MORELIKETHIS]
 >
->* [Senden von E-Mails per E-Mail](http://docs.marketo.com/x/KAQ6Ag)
->* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
-
->
-
-
+>* [Senden von E-Mails per E-Mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 
