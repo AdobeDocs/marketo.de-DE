@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: Schritttypen der Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Schritttypen für Kampagnen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlag
 
 >[!TIP]
 >
->Erfahren Sie mehr über Ihre [Optionen für das Senden](http://docs.marketo.com/x/7QDb).
+>Erfahren Sie mehr über Ihre [Optionen für das Senden](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Aufruf {#call}
 
@@ -50,4 +50,3 @@ Das Nachverfolgen mehrerer Kanal ist eine großartige Möglichkeit, sich mit Int
 Verwenden Sie benutzerspezifische Aufgaben, wenn die oben genannten Optionen nicht verfügbar sind. Sie können beispielsweise einen Kollegen einladen, einen Interessenten per E-Mail weiterzuverfolgen.
 
 ![](assets/custom.png)
-
