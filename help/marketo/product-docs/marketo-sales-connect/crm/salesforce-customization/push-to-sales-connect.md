@@ -3,9 +3,9 @@ unique-page-id: 14352477
 description: Push to Sales Connect - Marketing Docs - Produktdokumentation
 title: An Sales Connect übertragen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## Voraussetzungen {#requirements}
 
-* Sales Connect [Salesforce-Paket](http://docs.marketo.com/x/C4PS) installiert von `Salesforce Admin`
+* Sales Connect Salesforce-Paket installiert von Salesforce Admin
 
-* `Push to Sales Connect`Schaltfläche, die in der Ansicht der Liste durch  `Salesforce Admin`
+* Schaltfläche &quot;An Sales Connect&quot;, die zur Ansicht durch Salesforce-Admin installiert wurde
 
 * Salesforce-Verbindung mit Sales Connect für Benutzer, die Push erstellen
 
@@ -30,11 +30,10 @@ ht-degree: 0%
 1. Klicken Sie auf **Los**.
 1. Wählen Sie alle Leads/Kontakte aus, die Sie herausziehen möchten.
 1. Wählen Sie **In MSE** verschieben.
-1. Es wird ein neues Fenster angezeigt, in dem die Anzahl der Kontakte/Kontakte überprüft wird, über die Sie weiterleiten möchten. Wählen Sie **Fahren Sie mit der Gruppe** fort. Sales Connect `will not push over` alle Kontakte, die als `Email Opt Out` in Salesforce oder `Unsubscribed` in Sales Connect markiert sind.
+1. Es wird ein neues Fenster angezeigt, in dem die Anzahl der Kontakte/Kontakte überprüft wird, über die Sie weiterleiten möchten. Wählen Sie **Fahren Sie mit der Gruppe** fort. Sales Connect überträgt keine Kontakte, die als E-Mail-Opt-out in Salesforce oder Unsubscribed in Sales Connect gekennzeichnet sind.
 
    >[!NOTE]
    >
    >Sales Connect fügt diese Gruppe mit dem Titel &quot;SFDC-...&quot;hinzu. auf der Seite &quot;Beziehungen&quot;der [Webanwendung](http://toutapp.com/login).
 
 1. Wählen Sie **E-Mail an die gesamte Gruppe**, um diese Gruppe per E-Mail zu versenden.
-
