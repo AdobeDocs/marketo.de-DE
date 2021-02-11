@@ -3,7 +3,7 @@ unique-page-id: 15368214
 description: Trennen Sie Salesforce von Ihrem Sales Connect-Konto - MarketingToDocs - Produktdokumentation
 title: Salesforce von Ihrem Sales Connect-Konto trennen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Manchmal müssen Sie Ihr Salesforce-Konto von Ihrem Sales Connect-Konto trennen.
 1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Verbindung trennen**.
 
    ![](assets/3333.png)
-
