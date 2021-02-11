@@ -3,7 +3,7 @@ unique-page-id: 14352442
 description: Anfügen eines Inhaltselements - Marketing-Dokumente - Produktdokumentation
 title: Anhängen eines Inhaltselements
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -18,4 +18,3 @@ hinzufügen Sie nachverfolgbaren Inhalt, indem Sie auf die Schaltfläche **Inhal
 >[!NOTE]
 >
 >Um Ihre E-Mail-Anhänge zu verfolgen, müssen Sie sie über diese Schaltfläche hinzufügen.
-
