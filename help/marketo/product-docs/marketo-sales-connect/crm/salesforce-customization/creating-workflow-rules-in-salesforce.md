@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: Erstellen von Workflow-Regeln in Salesforce - Marketing Docs - Produktdokumentation
 title: Erstellen von Workflow-Regeln in Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ Nachfolgend finden Sie die empfohlenen Namen der Workflow-Regeln und Beschreibun
    ![](assets/thirteen.png)
 
    Nach dem letzten Schritt können Sie die Workflow-Regel für die anderen Felder klonen, die im Abschnitt &quot;Erste Schritte&quot;aufgeführt sind: Desc, Typ, Quelle, Datum. Nachdem Sie die vier Workflow-Regeln im Kontaktobjekt abgeschlossen haben, wiederholen Sie dies für das Lead-Objekt.
-
