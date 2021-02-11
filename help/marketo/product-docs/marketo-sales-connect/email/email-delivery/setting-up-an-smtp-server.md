@@ -3,9 +3,9 @@ unique-page-id: 14746594
 description: Einrichten eines SMTP-Servers - Marketing Docs - Produktdokumentation
 title: Einrichten eines SMTP-Servers
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,17 @@ Nachteile
 * Das Ändern des O365-Kennworts eines Benutzers führt zu einer fehlerhaften Verbindung.
 
 Wenn Sie Office365 oder Exchange Online verwenden, können Sie eine Verbindung zu Ihrem SMTP-Server herstellen, indem Sie einen Standardberechtigungssatz verwenden. Denken Sie daran, dass Office365 kein Massen-E-Mail-Versand-Service ist, auch wenn dies für das Senden von einmaligen E-Mails gut funktioniert. Beim Senden von Massen-E-Mails kann Office365 Ihre E-Mails drosseln, was zu einem fehlgeschlagenen Versand führen kann. Weitere Informationen zu diesem Thema finden Sie im Microsoft-Artikel [wie Sie die SMTP-Clientübermittlung einrichten](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
-`<blockquote>  <p>“You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”</p> </blockquote>`\
+
+&quot;Sie können nur von einer E-Mail-Adresse aus senden, wenn Ihr Gerät Anmeldeinformationen für mehrere Office 365-Postfächer speichern kann. Office 365 sieht eine Beschränkung von 30 Nachrichten pro Minute und eine Beschränkung von 10.000 Empfängern pro Tag vor.&quot;
+
 Wenn Sie sich entscheiden, Office365 als Versand-Kanal zu verwenden, müssen Sie diese Anmeldeinformationen eingeben. Die gleichen Anmeldeinformationen können nicht für das gesamte Team verwendet werden, da Office365 die E-Mail-Adresse und das Kennwort des Benutzers verwendet, um eine Verbindung herzustellen.
 
 Microsoft- und Bulk-Senden
 
-[Klicken Sie ](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) hier, um mehr über die Massenversand in Office365 zu erfahren. 
-`<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
+[Klicken Sie ](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) hier, um mehr über die Massenversand in Office365 zu erfahren.
+
+Exchange Online-Kunden, die legale Massen-E-Mails für kommerzielle Zwecke versenden müssen (z. B. Newsletter von Kunden), sollten Drittanbieter verwenden, die sich auf diese Dienste spezialisieren.&quot;
+
 **Was ist, wenn meine Firma Gmail benutzt?**
 
 Sie benötigen keine SMTP-Anmeldeinformationen, wenn Ihr Team Gmail als Versand-Kanal mit Sales Connect verwenden möchte. Mit Sales Connect können Benutzer über unsere OAuth-Integration auf ihren Gmail Versand Kanal zugreifen. Benutzer können dies aktivieren, indem sie ihr Sales Connect-Konto mit Gmail integrieren.
@@ -73,4 +77,3 @@ Das hängt vom verwendeten Versand-Kanal ab. Dienste wie Sparkpost erlauben beis
 Wenn Sie eine Verbindung zu Office365 herstellen, basieren die Anmeldeinformationen auf E-Mail-Adressen. Das bedeutet, dass nur die E-Mail-Adresse, die die Verbindung hergestellt hat, authentifiziert wird, um E-Mails über diesen Versand-Kanal zu senden. Daher sollten die Anmeldeinformationen **nicht** freigegeben werden.
 
 ![](assets/3.png)
-
