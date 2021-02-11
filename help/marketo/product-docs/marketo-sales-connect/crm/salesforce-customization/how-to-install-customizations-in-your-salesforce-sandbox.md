@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Installation von Anpassungen in Ihrer Salesforce-Sandbox - MarketingToDocs - Produktdokumentation
 title: So installieren Sie Anpassungen in Ihrer Salesforce-Sandbox
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Verkaufsverbindung zu Ihrer Salesforce-Sandbox anschließen](http://docs.marketo.com/x/DYDq)
+>[Verkaufsverbindung zu Ihrer Salesforce-Sandbox anschließen](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   Als Nächstes führen Sie einfach die Schritte zur Installation der Anpassung durch, wie Sie es bei einem normalen Salesforce-Konto tun würden. Fahren Sie mit dem einminütigen Zeichen von [diesem Video](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) fort, um weitere Informationen zu erhalten.
-
+   Als Nächstes führen Sie einfach die Schritte zur Installation der Anpassung durch, wie Sie es bei einem normalen Salesforce-Konto tun würden.
