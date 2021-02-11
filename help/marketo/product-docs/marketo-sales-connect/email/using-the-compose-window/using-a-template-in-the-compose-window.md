@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Verwenden einer Vorlage im Fenster "Erstellen"- Marketing-Dokumente - Produktdokumentation
 title: Verwenden einer Vorlage im Fenster "Erstellen"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ Favoriten Sie **bis zu fünf** spezifische Vorlagenvorlagen, um schnell auf Ihre
    >
    >**** Favoriten sind dort standardmäßig vorhanden. Es enthält bevorzugte E-Mail-Vorlagen, keine Kategorien.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Dynamische Felder](http://docs.marketo.com/x/wwDb)
-   >    * [Verwenden von Vorlagen](http://docs.marketo.com/display/DOCS/Templates)
-
-
-Die ausgewählte Kategorie wird jetzt fixiert.
+   Die ausgewählte Kategorie wird jetzt fixiert.
