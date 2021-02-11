@@ -3,7 +3,7 @@ unique-page-id: 18317367
 description: Ansicht Kampagnen Liste als anderer Benutzer - Marketing Docs - Produktdokumentation
 title: Ansicht Kampagnen Liste als anderer Benutzer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Als Administrator können Sie Kampagnen als beliebige Ansichten verwenden.
    >[!NOTE]
    >
    >Sie können auch Filter oder die Suchfunktion zusammen mit der Ansicht Wie Ansicht, was für Sie am relevantesten ist.
-
