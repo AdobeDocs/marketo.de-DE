@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: hinzufügen zur Marketing-Kampagne - Marketing Docs - Produktdokumentation
 title: hinzufügen zur Marketing-Kampagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Kampagne für Vertriebsbenutzer sichtbar machen](http://docs.marketo.com/x/NwDh)
+>[Kampagne für Vertriebsbenutzer sichtbar machen](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## hinzufügen Personen zu einer Kampagne {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Damit eine Person über Sales Connect einer Marketing-Kampagne hinzugefügt werden kann, muss Sales Connect über die Marketing-ID der Person verfügen, die die Interessenten-ID hat. [Hier erfahren Sie, wie Sie Marketo-IDs erfassen](http://docs.marketo.com/x/CQXLAQ).
+>Damit eine Person über Sales Connect einer Marketing-Kampagne hinzugefügt werden kann, muss Sales Connect über die Marketing-ID der Person verfügen, die die Interessenten-ID hat. [Hier erfahren Sie, wie Sie Marketo-IDs erfassen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Klicken Sie auf die Registerkarte **Personen**.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Damit eine Person über Sales Connect einer Marketing-Kampagne hinzugefügt werden kann, muss Sales Connect über die Marketing-ID der Person verfügen, die die Interessenten-ID hat. [Hier erfahren Sie, wie Sie Marketo-IDs erfassen](http://docs.marketo.com/x/CQXLAQ).
+   >Damit eine Person über Sales Connect einer Marketing-Kampagne hinzugefügt werden kann, muss Sales Connect über die Marketing-ID der Person verfügen, die die Interessenten-ID hat. [Hier erfahren Sie, wie Sie Marketo-IDs erfassen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Klicken Sie auf die Dropdownliste Arbeitsbereiche und wählen Sie den Arbeitsbereich aus, der die Kampagne enthält, der die Gruppe hinzugefügt werden soll.
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken Sie auf **Beginn**, um sie hinzuzufügen.
 
    ![](assets/nine.png)
-
