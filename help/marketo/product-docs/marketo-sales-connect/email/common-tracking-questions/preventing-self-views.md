@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: Vermeidung von Ansichten - Marketing Docs - Produktdokumentation
 title: Vermeidung von Ansichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Ansichten werden verfolgt, indem ein kleines unsichtbares Bildpixel in Ihren E-M
 1. Klicken Sie unter &quot;Sicherheit&quot;auf das Optionsfeld **Niemals**.
 
    ![](assets/mac-3.png)
-
