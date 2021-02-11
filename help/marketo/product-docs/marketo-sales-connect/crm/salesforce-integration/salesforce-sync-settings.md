@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce-Synchronisierungseinstellungen - MarketingToDocs - Produktdokumentation
 title: Salesforce-Synchronisierungseinstellungen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ Wenn Sie unter Ihren Einstellungen &quot;Meine E-Mail an Salesforce&quot;nicht s
 >
 >Sie benötigen Administratorrechte, um dies einzurichten.
 
-1. Klicken Sie auf **Setup *.* **
-1. Klicken Sie auf **E-Mail-Verwaltung *.* **
-1. Klicken Sie auf **E-Mail an Salesforce *.* **
+1. Klicken Sie auf **Setup**.
+1. Klicken Sie auf **E-Mail-Administration**.
+1. Klicken Sie auf **E-Mail an Salesforce**.
 1. Klicken Sie auf **Bearbeiten**.
-1. Markieren Sie das Kästchen neben &quot;Aktiv*&quot;.*
-1. Klicken Sie auf **Speichern *.* **
+1. Markieren Sie das Kästchen neben &quot;Aktiv&quot;.
+1. Klicken Sie auf **Speichern**.
 
 ## Aufgaben/Erinnerungen für Verkaufsaktionen mit Salesforce-Aufgaben {#sync-sales-engage-tasks-reminders-to-salesforce-tasks} synchronisieren
 
@@ -114,4 +114,3 @@ Wenn Sie unter Ihren Einstellungen &quot;Meine E-Mail an Salesforce&quot;nicht s
 1. Wählen Sie die gewünschte Option aus (&quot;Nicht mit Salesforce-Aufgaben synchronisieren&quot;ist standardmäßig aktiviert).
 
    ![](assets/eight.png)
-
