@@ -3,7 +3,7 @@ unique-page-id: 14746184
 description: Geschichte-Karte abbestellen - Marketing Docs - Produktdokumentation
 title: Protokollkarte abmelden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -41,4 +41,3 @@ Die History Card zum Abbestellen von Abonnements hilft Administratoren und Benut
   </tr> 
  </tbody> 
 </table>
-
