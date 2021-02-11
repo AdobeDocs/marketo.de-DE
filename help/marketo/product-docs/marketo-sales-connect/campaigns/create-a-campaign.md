@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: Kampagne erstellen - Marketing Docs - Produktdokumentation
 title: Eine Kampagne erstellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Also, wie richtet man eine Kampagne ein?
 
    >[!NOTE]
    >
-   >Erstellen Sie eine neue Kategorie, indem Sie auf** +** neben **Kategorien** klicken.
+   >Erstellen Sie eine neue Kategorie, indem Sie auf **+** neben **Kategorien** klicken.
 
 1. Die gewählte Kategorie wird ausgewählt. Wenn Sie Ihre Meinung ändern, klicken Sie auf die Dropdownliste und wählen Sie eine andere aus. Klicken Sie abschließend auf **Weiter**.
 
@@ -44,7 +44,7 @@ Also, wie richtet man eine Kampagne ein?
 
    ![](assets/four-1.png)
 
-1. Wählen Sie zwischen: E-Mail, Aufruf, InMail oder benutzerdefinierte Aufgabe. In diesem Beispiel wählen wir [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Wählen Sie zwischen: E-Mail, Aufruf, InMail oder benutzerdefinierte Aufgabe. In diesem Beispiel wählen wir [Email](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ Also, wie richtet man eine Kampagne ein?
 
    >[!NOTE]
    >
-   >&quot;Tage&quot;ist nicht die Anzahl der Tage zwischen Aktionen, sondern der Tag innerhalb der Sequenz. Wenn Ihre Kampagne beispielsweise 7 Tage dauert, bedeutet die Eingabe von &quot;3&quot;, dass die Aktion am Tag 3 von 7, **nicht **3 Tage später ausgeführt wird.
+   >&quot;Tage&quot;ist nicht die Anzahl der Tage zwischen Aktionen, sondern der Tag innerhalb der Sequenz. Wenn Ihre Kampagne z. B. 7 Tage dauert, bedeutet die Eingabe von &#39;3&#39;, dass die Aktion am Tag 3 von 7, **nicht** 3 Tage später ausgeführt wird.
 
 1. Stellen Sie sicher, dass Sie die Zeitplan- und Antwortoptionen anpassen, z. B. das Überspringen der Wochenenden (was fantastisch ist), indem Sie die Registerkarte **Einstellungen** für Ihre Kampagne aufrufen.
 
    ![](assets/seven.png)
 
    Jetzt ist es an der Zeit, Beginn Leute zu Ihrer Kampagne hinzufügen!
-
