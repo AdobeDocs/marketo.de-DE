@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: Übersicht über Live-Feeds - Marketing-Dokumente - Produktdokumentation
 title: Live Feed-Übersicht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ Personen, die mit einer blauen Linie markiert sind, repräsentieren die Interakt
 >
 >* Wenn Ihr Empfänger für eine Firma, die ihren IT-Hauptsitz in einem anderen Ort oder Land hat, beim Wireless-Netzwerk angemeldet war, protokollieren wir diesen Speicherort anstelle des aktuellen Gebietsschemas des Empfängers.
 >* Wenn Ihre E-Mail von jemandem im CC/BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
-
->
-
 
 
 ## Registerkarte Aufgaben {#tasks-tab}
@@ -106,4 +103,3 @@ Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten bis zur niedrigsten
 >[!NOTE]
 >
 >Wenn Sie jemanden sehen, der Ihre E-Mail immer wieder in Ihrem Live-Feed Ansicht, könnte er die E-Mail an zusätzliche Empfänger weitergeleitet haben. Dies ist höchstwahrscheinlich der Fall, wenn Sie bemerken, dass sich der Beginn für den Standort für diese Ansichten ändert.
-
