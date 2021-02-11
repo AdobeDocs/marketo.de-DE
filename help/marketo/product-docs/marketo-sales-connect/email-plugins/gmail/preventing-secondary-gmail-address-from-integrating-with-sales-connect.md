@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: Vermeidung der Integration Sekundär-Gmail-Adresse in Sales Connect - MarketingToDocs - Produktdokumentation
 title: Vermeidung der Integration Sekundär-Gmail-Adresse in Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect wird über eine im Chrome-Browser installierte Erweiterung mit Gma
 
 Anmelden als anderer Chrome-Benutzer (empfohlen)
 
-Klicken Sie auf [diesen Link](http://support.google.com/chrome/answer/2364824?hl=en), um zu lesen, wie ein weiteres Chrome-Profil erstellt wird.
+Klicken Sie auf [diesen Link](https://support.google.com/chrome/answer/2364824?hl=en), um zu lesen, wie ein weiteres Chrome-Profil erstellt wird.
 
 **Vorteile**: Wenn Sie sich als ein anderer Benutzer anmelden, wird eine neue Instanz von Chrome geöffnet. Diese Instanz ist ein ganz neues Fenster von Chrome, und keine Ihrer alten Erweiterungen wird in dieser vorhanden sein. Es enthält auch Cookies, sodass Sie sich nicht jedes Mal bei Ihrer Google Mail anmelden müssen.
 
