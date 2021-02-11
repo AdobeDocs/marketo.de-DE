@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Analytics-Seitenübersicht - Marketing-Dokumente - Produktdokumentation
 title: Analytics-Seitenübersicht
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Die Seite &quot;Analyse&quot;wird alle zehn Minuten aktualisiert.
 
 ## Was bedeutet die Zahl? {#what-do-the-numbers-mean}
 
-Die Zahlen innerhalb von `radials` berechnen die Gesamtanzahl der Ereignisse aller gesendeten E-Mails. Wenn ein `single same email is viewed five times, it will add five views`auf diese Zahl gesetzt wird. Dieselbe Idee wird auf die innerhalb des Kreises gezählten Klicks und Antworten angewendet.
+Die Nummern in den Radialen berechnen die Gesamtanzahl der Ereignisse in allen gesendeten E-Mails. Wenn also eine einzige E-Mail fünfmal angezeigt wird, werden fünf Ansichten zu dieser Nummer hinzugefügt. Dieselbe Idee wird auf die innerhalb des Kreises gezählten Klicks und Antworten angewendet.
 
-Alle Statistiken, die innerhalb der `table` aufbewahrt werden, werden durch Betrachten der individuellen Ansichten, Klicks und Antworten auf Ihre E-Mails berechnet. Wenn `one email is viewed five times, we will count that as one view.` Aus diesem Grund können Sie einen großen Unterschied in den Zahlen in den Tabellen im Vergleich zu den Zahlen im radial sehen.
+Alle Statistiken, die in der Tabelle gespeichert sind, werden durch Betrachten der einzigartigen Ansichten, Klicks und Antworten auf Ihre E-Mails berechnet. Wenn eine E-Mail fünf Mal angezeigt wird, zählen wir diese als eine Ansicht. Deshalb sehen Sie vielleicht einen großen Unterschied in den Zahlen in den Tabellen im Vergleich zu den Zahlen im radial.
 
 ## Analytische Tabs {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Hier können Sie Statistiken und Ranglisten Ihres gesamten Teams sehen. Sie kön
 
 Die Registerkarte &quot;Inhalt&quot;enthält Statistiken zu Vorlagen, Inhalten und Links. Sie können entweder nach jedem oder nach Teams filtern, die Ihre Administratoren erstellt haben.
 
-Wenn Sie blauen Text unter der Subjektspalte sehen, bedeutet dies, dass die Vorlage `shared` ist. Sie können auf den blauen Text klicken, um zu dieser Vorlage zu gelangen. Ansicht der Verwendung durch Klicken auf **Vorlagenanalyse**.
+Wenn Sie blauen Text unter der Betreff-Spalte sehen, bedeutet dies, dass die Vorlage freigegeben wird. Sie können auf den blauen Text klicken, um zu dieser Vorlage zu gelangen. Ansicht der Verwendung durch Klicken auf **Vorlagenanalyse**.
 
 &quot;Inhaltsklicks&quot;werden gezählt, wenn ein Empfänger auf einen Link in Ihrer E-Mail klickt.
