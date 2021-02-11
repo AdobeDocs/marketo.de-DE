@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: Übersicht über das Abmelden - Marketing Docs - Produktdokumentation
 title: Übersicht zum Abmelden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Es wird immer wichtiger, dass Organisationen die Datenschutzgesetze für E-Mails
 * Abmeldeinformationen werden in PDV gespeichert
 * Die Abmeldung kann manuell erfolgen: Klicklink, Salesforce-Synchronisierung und Absprung
 * Neue Link-Landingpage zum Abmelden
-
