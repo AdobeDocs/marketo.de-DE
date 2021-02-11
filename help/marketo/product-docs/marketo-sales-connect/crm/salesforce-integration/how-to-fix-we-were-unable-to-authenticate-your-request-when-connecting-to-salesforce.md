@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: Fehlerbehebung "Wir konnten Ihre Anforderung nicht authentifizieren" bei der Verbindung mit Salesforce - Marketing Docs - Produktdokumentation
 title: Fehlerbehebung "Wir konnten Ihre Anforderung nicht authentifizieren" beim Herstellen einer Verbindung mit Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Wenn Sie beim Versuch, Sales Connect mit Salesforce zu verbinden, die Fehlermeld
 1. Wählen Sie **Apps verwalten**.
 1. Wählen Sie **Connected Apps OAuth Usage**.
 1. Stellen Sie sicher, dass Sales Connect &quot;Block&quot;daneben anzeigt. Wenn Sie &quot;Block aufheben&quot;sehen, klicken Sie auf die Schaltfläche, um die Sperrung des Zugriffs von Sales Connect auf Salesforce aufzuheben.
-
