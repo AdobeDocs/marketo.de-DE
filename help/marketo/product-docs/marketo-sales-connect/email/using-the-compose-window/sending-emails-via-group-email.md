@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Senden von E-Mails per E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Senden von E-Mails per E-Mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
 ## Bearbeiten einer Gruppen-E-Mail {#editing-a-group-email}
 
-1. Erstellen Sie eine Gruppen-E-Mail mit [Schritte 1-3 oben](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Erstellen Sie eine Gruppen-E-Mail mit [Schritte 1-3 oben](#sending-a-group-email).
+
 1. Wählen Sie eine Vorlage oder füllen Sie Ihre E-Mail aus.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
 >[!MORELIKETHIS]
 >
->* [Massensendeoptionen](http://docs.marketo.com/x/HwQ6Ag)
->* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](http://docs.marketo.com/x/MQQ6Ag)
->* [Dynamische Felder](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [Massensendeoptionen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
