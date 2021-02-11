@@ -3,9 +3,9 @@ unique-page-id: 14352447
 description: hinzufügen E-Mail an Salesforce (Office 365) - Marketing Docs - Produktdokumentation
 title: hinzufügen E-Mail an Salesforce (Office 365)
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,4 +15,4 @@ ht-degree: 0%
 
 hinzufügen E-Mail an Salesforce ermöglicht es Ihnen, alle E-Mails, die Sie in Outlook erhalten, an Ihr Salesforce-Konto zu senden. Wir suchen nach dem Absender der E-Mail, sodass wir derzeit nur diese Schaltfläche für E-Mails verwenden können, die Sie erhalten haben, nicht für E-Mails, die Sie gesendet haben.
 
-Wir arbeiten daran, die Funktionalität zu ändern, damit Sie bereits gesendete E-Mails protokollieren können. Wenn sich in der Zwischenzeit eine E-Mail nicht automatisch beim Versand anmeldete oder in Ihren fehlgeschlagenen Aktivitäten im [Aktivität-Protokoll](http://docs.marketo.com/pages/assets/external-link.jspa) angezeigt wurde, können Sie sie an Ihre [Salesforce BCC-E-Mail-Adresse](http://docs.marketo.com/x/soLS) weiterleiten.
+Wir arbeiten daran, die Funktionalität zu ändern, damit Sie bereits gesendete E-Mails protokollieren können. Wenn sich in der Zwischenzeit eine E-Mail nicht automatisch beim Versand anmeldete oder Ihre fehlgeschlagenen Aktivitäten im Protokoll der Aktivität angezeigt wurden, können Sie sie an Ihre Salesforce BCC-E-Mail-Adresse weiterleiten.
