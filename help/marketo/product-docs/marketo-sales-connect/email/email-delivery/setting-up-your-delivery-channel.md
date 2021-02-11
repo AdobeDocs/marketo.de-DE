@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: Einrichten Ihres Versand-Kanals - Marketing Docs - Produktdokumentation
 title: Einrichten des Versand-Kanals
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Wenn Sie mit Marketo Sales Connect Beginn verwenden, müssen Sie einen SMTP-Serv
 
 >[!NOTE]
 >
->Neben der Einrichtung Ihres SMTP-Servers muss Ihre [E-Mail-Identität überprüft werden, bevor Sie E-Mails senden können.](http://docs.marketo.com/x/ewPh)
+>Neben der Einrichtung Ihres SMTP-Servers muss Ihre [E-Mail-Identität überprüft werden, bevor Sie E-Mails senden können.](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
 
 Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-Server oder Gmail als Versand-Kanal senden. Gehen wir über jede Option!
 
 ## Benutzerspezifisches SMTP {#custom-smtp}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
    >
    >Wenn Ihr Team-Administrator den Team SMTP Server eingerichtet hat, wird dieser automatisch nur auf Ihre Standard-E-Mail-Identität angewendet und als Option für Ihre anderen E-Mail-Identitäten verfügbar sein.
 
-   **Video ansehen**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Team SMTP Server {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
    >
    >Der Team SMTP Server ist der Standard-Versand der Standard-E-Mail-Identität aller Teammitglieder. Darüber hinaus ist sie als Versand-Kanal für alle anderen E-Mail-Identitäten verfügbar.
 
-   ** Video abspielen**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
    ![](assets/fifteen.png)
 
 1. Melden Sie sich mit Ihren Google-Anmeldedaten an.
+
 1. Klicken Sie auf **Allow**, wenn Sie diesen Bildschirm aufrufen.
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ Sie können E-Mails mit einem benutzerdefinierten SMTP-Server, einem Team-SMTP-S
    >[!NOTE]
    >
    >Wenn Ihr Team-Administrator den Team SMTP Server eingerichtet hat, wird dieser automatisch nur auf Ihre Standard-E-Mail-Identität angewendet und als Option für Ihre anderen E-Mail-Identitäten verfügbar sein.
-
