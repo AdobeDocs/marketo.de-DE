@@ -3,7 +3,7 @@ unique-page-id: 14746177
 description: Neuabonnieren und Abmelden - Marketing Docs - Produktdokumentation
 title: Abonnement neu abonnieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,7 +27,8 @@ Manchmal wollen die Leute sich wieder für den Empfang von E-Mails entscheiden. 
 >
 >Wenn Sie die Synchronisierung zum Abbestellen aktiviert haben, müssen Sie das Abbestellen von ToutApp entfernen und die Opt-out in Salesforce deaktivieren, damit der persönliche Datensatz nicht wieder synchronisiert wird.
 
-1. Wechseln Sie zur Webanwendung [und klicken Sie auf **Personen**.](http://toutapp.com/login)
+1. Wechseln Sie zur Webanwendung [und klicken Sie auf **Personen**.](https://toutapp.com/login)
+
 1. Wählen Sie die Person aus, um die Ansicht mit den Personendetails zu öffnen.
 
    ![](assets/two.png)
@@ -39,4 +40,3 @@ Manchmal wollen die Leute sich wieder für den Empfang von E-Mails entscheiden. 
 1. Wählen Sie den Grund aus, warum die Person wieder für den Empfang von E-Mails ausgewählt wurde, und klicken Sie dann auf **Abmelden entfernen**.
 
    ![](assets/four.png)
-
