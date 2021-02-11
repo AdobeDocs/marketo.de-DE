@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: Installieren Sie die Ereignis-Felder für Sales Connect unter Aktivität History - Marketing Docs - Produktdokumentation
 title: Felder für das Ereignis "Sales Connect"im Verlauf der Aktivität installieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ Stellen Sie bei der Durchführung dieser Schritte sicher, dass Sie mit Ihrem Sal
 1. Klicken Sie auf **Speichern**.
 
    Ihre Benutzer können nun wertvolle Informationen und Updates über ihre E-Mails in Salesforce sehen!
-
