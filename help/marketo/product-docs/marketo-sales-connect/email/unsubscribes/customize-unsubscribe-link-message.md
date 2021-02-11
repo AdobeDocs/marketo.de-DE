@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: Linkmeldung zum Abmelden - Marketing-Dokumente - Produktdokumentation anpassen
 title: Linkmeldung zum Abmelden anpassen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Wir haben Teams immer erlaubt, ihre Link-Nachrichten zum Abmelden anzupassen, ab
 
 ## Anpassen der Nachrichten für Sie {#customize-messaging-for-yourself}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Wir haben Teams immer erlaubt, ihre Link-Nachrichten zum Abmelden anzupassen, ab
 
 ## Abmeldung für Ihr Team festlegen {#set-unsubscribe-messaging-for-your-team}
 
-1. Melden Sie sich bei der [Webanwendung](http://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Wir haben Teams immer erlaubt, ihre Link-Nachrichten zum Abmelden anzupassen, ab
 1. Wählen Sie **Ich stelle die Standardnachricht für mein Team** ein, damit die Nachricht für alle Benutzer gilt.
 
    ![](assets/eleven.png)
-
