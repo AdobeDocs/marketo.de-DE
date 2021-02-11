@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: Deaktivieren einer Kampagne - Marketing Docs - Produktdokumentation
 title: Deaktivieren einer Kampagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Muss eine Kampagne automatisch beendet werden, wenn ein Empfänger antwortet? So
 
 >[!NOTE]
 >
->Dies ist nur für Kunden verfügbar, die mit [Gmail oder Exchange](https://toutapp.com/next#settings/email-tracking) integriert sind und die Antwortverfolgung aktiviert haben.
+>Dies ist nur für Kunden verfügbar, die in Gmail oder Exchange integriert sind und die Antwortverfolgung aktiviert haben.
 
 ## Deaktivieren einer Kampagne für eine Person {#turn-off-a-campaign-for-one-person}
 
