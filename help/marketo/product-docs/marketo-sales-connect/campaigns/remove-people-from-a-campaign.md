@@ -3,7 +3,7 @@ unique-page-id: 14352608
 description: Entfernen von Personen aus einer Kampagne - Marketing Docs - Produktdokumentation
 title: Personen aus einer Kampagne entfernen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Außerdem können Sie Personen aus der Kampagne entfernen, Personen aus einer Ka
 1. Klicken Sie auf **Aktionen** und wählen Sie **Auswahl aus Kampagne** entfernen.
 
    ![](assets/four-b.png)
-
