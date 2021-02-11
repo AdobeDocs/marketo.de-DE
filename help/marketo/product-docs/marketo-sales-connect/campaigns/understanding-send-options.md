@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: Die Sendeoptionen - Marketing-Dokumente - Produktdokumentation
 title: Grundlagen zu Sendeoptionen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ Erstellen einer Aufgabe; Ich werde diese E-Mail selbst senden
 Diese E-Mail an die vorherige E-Mail weiterleiten
 
 * Diese Option zum Versenden wird eine &#39;Follow-up&#39; zu Ihrer vorherigen E-Mail sein und wird den vorherigen E-Mail-Text am Ende dieser E-Mail anhängen.
-
