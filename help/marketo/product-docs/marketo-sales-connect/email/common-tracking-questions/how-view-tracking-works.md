@@ -3,9 +3,9 @@ unique-page-id: 14352536
 description: Funktionsweise der Ansicht-Tracking - Marketing Docs - Produktdokumentation
 title: Funktionsweise der Ansicht-Verfolgung
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,10 @@ ht-degree: 0%
 
 Wir verfolgen E-Mails, die geöffnet werden, indem wir ein unsichtbares Bild in den E-Mails platzieren, die Sie senden.
 
-Wenn jemand auf Ihre E-Mail antwortet, aber Sales Connect sagt, dass sie nicht angezeigt wurde, ergeben sich Chancen, dass der Empfänger `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+Wenn jemand auf Ihre E-Mail antwortet, aber Sales Connect sagt, dass sie nicht angezeigt wurde, besteht die Wahrscheinlichkeit, dass der Empfänger keine Bilder in seinem E-Mail-Client aktiviert hat (d. h., klicken Sie in der E-Mail auf die Nachricht &quot;Hier klicken, um Bilder herunterzuladen&quot;).
 
 Einige Tipps, wie Sie bessere Rückverfolgungsstatistiken in Ihren E-Mails erhalten:
 
-* `Include an image` in Ihren E-Mails (wie ein Logo), damit der Empfänger ermutigt wird, Bilder zu aktivieren, um Ihre Nachricht zu sehen.
+* Fügen Sie ein Bild in Ihre E-Mails (wie ein Logo) ein, damit der Empfänger Ihre Nachricht sehen kann.
 
-* `Include a link` als Aktionsaufruf in der E-Mail.
-
+* Fügen Sie einen Link als Aktionsaufruf in die E-Mail ein.
