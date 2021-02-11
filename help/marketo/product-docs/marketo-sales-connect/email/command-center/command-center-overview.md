@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Übersicht über das Command Center - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über das Command Center
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert sie als dynamische
 
 >[!MORELIKETHIS]
 >
->* [Aufgaben](http://docs.marketo.com/x/qwDb)
->* [Überblick über die erweiterte Suche](http://docs.marketo.com/x/KQM6Ag)
->* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [Aufgaben](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [Überblick über die erweiterte Suche](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
