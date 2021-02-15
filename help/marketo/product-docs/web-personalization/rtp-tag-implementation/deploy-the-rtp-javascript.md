@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: RTP-JavaScript bereitstellen - Marketing Docs - Produktdokumentation
 title: RTP-JavaScript bereitstellen
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -39,11 +39,11 @@ Um Ihr RTP-Tag zu erstellen und einzurichten, befolgen Sie die Installationsanwe
 
    Vergewissern Sie sich, dass der Tag-Umschalter auf &quot;EIN&quot;eingestellt ist. Beginn sollten den Datenfluss in die Registerkarte der Organisation sehen.
 
-   Sie sind jetzt mit dem RTP-Tag eingerichtet und können [Beginn &lt;a0/>Segmente](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) und Echtzeit-Kampagnen erstellen!
+   Sie sind jetzt mit dem RTP-Tag eingerichtet und können [Beginn Segmente](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) und Echtzeit-Kampagnen erstellen!
 
 1. Überprüfen Sie, ob sich das Tag auf allen Seiten befindet.
 
 >[!MORELIKETHIS]
 >
->* [RTP-Tag-Implementierung](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [RTP-Tag-Implementierung](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
