@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: Performance Insights-Trendübersicht - Marketing Docs - Produktdokumentation
 title: Übersicht über Performance Insights Trends
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Klicken Sie auf die Registerkarte **Trend**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In diesem Beispiel werden wir uns die Chancen ansehen, die mit [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution) gewonnen wurden.
+Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In diesem Beispiel werden wir uns die Chancen ansehen, die mit [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution) gewonnen wurden.
 
 ![](assets/3-2.png)
 
