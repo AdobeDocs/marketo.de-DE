@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Übersicht über Insight Dashboard-Funktionen - Marketing Docs - Produktdokumentation
 title: Übersicht über Insight Dashboard-Funktionen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Erfahren Sie mehr über die Funktionen in Ihrem Sales Insights-Dashboard.
 
 >[!PREREQUISITES]
 >
->Sie müssen über das neueste MSI SFDC-Paket und [configuration](http://docs.marketo.com/x/F4GMAg) verfügen.
+>Sie müssen über das neueste MSI SFDC-Paket und [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md) verfügen.
 
 ![](assets/one.png)
 
@@ -44,7 +44,7 @@ Erfahren Sie mehr über die Funktionen in Ihrem Sales Insights-Dashboard.
 Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder standardmäßigen Programmen sind, die innerhalb der nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Interessenten-, Kontakt-, Konto- und Opportalbereichen wird gleich sein
+* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Lead-, Kontakt-, Konto- und Opportflächen wird gleich sein
 * Wenn die Wiederholung der Kampagne in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Aktivitäten-Detailkarte in diesem Abschnitt enthält eine Vorschau. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt zum Senden des E-Mail-Flusses mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, steht die Standardoption für die Vorschau zur Verfügung
 * Zu den Filtern zählen &quot;Suche&quot;und &quot;Datumsbereich&quot;.
@@ -85,7 +85,7 @@ Registerkarte &quot;Ereignis&quot;:
 Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder standardmäßigen Programmen sind, die innerhalb der nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Interessenten-, Kontakt-, Konto- und Opportalbereichen wird gleich sein
+* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Lead-, Kontakt-, Konto- und Opportflächen wird gleich sein
 * Wenn die Wiederholung der Kampagne in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Aktivitäten-Detailkarte in diesem Abschnitt enthält eine Vorschau. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt zum Senden des E-Mail-Flusses mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, steht die Standardoption für die Vorschau zur Verfügung
 * Zu den Filtern zählen &quot;Suche&quot;und &quot;Datumsbereich&quot;.
@@ -125,7 +125,7 @@ Registerkarte &quot;Ereignis&quot;:
 Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder standardmäßigen Programmen sind, die innerhalb der nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Interessenten-, Kontakt-, Konto- und Opportalbereichen wird gleich sein
+* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Lead-, Kontakt-, Konto- und Opportflächen wird gleich sein
 * Wenn die Wiederholung der Kampagne in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Aktivitäten-Detailkarte in diesem Abschnitt enthält eine Vorschau. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt zum Senden des E-Mail-Flusses mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, steht die Standardoption für die Vorschau zur Verfügung
 * Zu den Filtern zählen &quot;Suche&quot;und &quot;Datumsbereich&quot;.
@@ -159,7 +159,7 @@ Registerkarte &quot;Ereignis&quot;:
 **Bevorstehende E-Mail-Kampagnen und -** EreignisseRegisterkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder standardmäßigen Programmen sind, die innerhalb der nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Interessenten-, Kontakt-, Konto- und Opportalbereichen wird gleich sein
+* Nicht spezifisch für Kontakt/Interessent (d. h. Kampagnenliste ist eine generische Liste aller E-Mail-Kampagnen, die in der Marketing-Instanz geplant sind). Die Kampagnenliste in allen Lead-, Kontakt-, Konto- und Opportflächen wird gleich sein
 * Wenn die Wiederholung der Kampagne in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Aktivitäten-Detailkarte in diesem Abschnitt enthält eine Vorschau. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt zum Senden des E-Mail-Flusses mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, steht die Standardoption für die Vorschau zur Verfügung
 * Zu den Filtern zählen &quot;Suche&quot;und &quot;Datumsbereich&quot;.
@@ -172,4 +172,3 @@ Registerkarte &quot;Ereignis&quot;:
 * Bei Auswahl aller Ereignis wird die Liste der geplanten Ereignis innerhalb der nächsten 90 Tage angezeigt
 * Aktivität Details Karte in diesem Abschnitt hat Vorschau Option
 * Der Filter enthält &quot;Suche&quot;, &quot;Nur eingeladene Ereignis anzeigen&quot;und &quot;Datumsbereich&quot;
-
