@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Versionshinweise - Dezember 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Dezember 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Links in E-Mail-Skripten werden nun verfolgt und stehen im Bericht &quot;Leistun
 
 ## Token-Kodierungseinstellung {#token-encoding-setting}
 
-Wir haben eine neue Sicherheitsfunktion eingeführt, um automatisch HTML-Kodierungstoken zu kodieren, die im März 2015 standardmäßig aktiviert wird. Bis dahin können Sie diese Funktion in der Feldverwaltung aktivieren, um das Verhalten vorab zu testen. Alle Interessenten- und Firmen-Token werden kodiert, wenn sie in E-Mails oder Landingpages eingefügt werden. Optionen stehen auch für einzelne Felder zur Verfügung.
+Wir haben eine neue Sicherheitsfunktion eingeführt, um automatisch HTML-Kodierungstoken zu kodieren, die im März 2015 standardmäßig aktiviert werden. Bis dahin können Sie diese Funktion in der Feldverwaltung aktivieren, um das Verhalten vorab zu testen. Alle Interessenten- und Firmen-Token werden kodiert, wenn sie in E-Mails oder Landingpages eingefügt werden. Optionen stehen auch für einzelne Felder zur Verfügung.
 
 ## Neue ReST-API-Aufrufe {#new-rest-api-calls}
 
@@ -65,7 +65,7 @@ Drei neue Aufrufe für die Lead &amp; Aktivität ReST-API:
 
 ・ Interessenten zusammenführen
 
-Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](http://developers.marketo.com/) verfügbar.
+Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](https://developers.marketo.com/) verfügbar.
 
 ## Verbesserungen der JavaScript-Kompatibilität für Munchkin {#munchkin-javascript-compatibility-enhancements}
 
