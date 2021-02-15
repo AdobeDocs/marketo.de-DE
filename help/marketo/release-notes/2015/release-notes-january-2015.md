@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: Versionshinweise - Januar 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar 2015
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Drei neue Aufrufe für die Lead &amp; Aktivität ReST-API:
 * Interessenten nach Programm-ID abrufen
 * Gelöschte Interessenten abrufen
 
-Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Interessentenänderung asynchron für einen schnelleren API-Aufruf zu schreiben. Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](http://developers.marketo.com) verfügbar.
+Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Interessentenänderung asynchron für einen schnelleren API-Aufruf zu schreiben. Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](https://developers.marketo.com) verfügbar.
 
 **E-Mail-Skriptunterstützung für benutzerdefinierte Objekte**
 
@@ -59,13 +59,13 @@ Verbesserungen am Modul Benannte Konten verbessern die Übereinstimmungsraten un
 
 Aktualisierte RTP-Tag-Optionen
 
-[Die RTP-](http://docs.marketo.com/display/docs/rtp+tag+implementation) Tagoptionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und umfassen Folgendes:
+[Die RTP-](https://docs.marketo.com/display/docs/rtp+tag+implementation) Tagoptionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und umfassen Folgendes:
 
 1. CDN und Asynchron (Recommended-Tag)
 1. CDN und synchron (hohe Geschwindigkeit)
 1. Asynchrones Tag ohne CDN
 1. Synchrones Tag ohne CDN
 
-Für eine optimale Leistung wird empfohlen, das Tag nach `<head>` oben in der Kopfzeile Ihrer Webseite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-API](http://developers.marketo.com/documentation/websites/rtp-js-api/). Informationen zum Bereitstellen des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Für eine optimale Leistung wird empfohlen, das Tag nach `<head>` oben in der Kopfzeile Ihrer Webseite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-API](https://developers.marketo.com/documentation/websites/rtp-js-api/). Informationen zum Bereitstellen des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
