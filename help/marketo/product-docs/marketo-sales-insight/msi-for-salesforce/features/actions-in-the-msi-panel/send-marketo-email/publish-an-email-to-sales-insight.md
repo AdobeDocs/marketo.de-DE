@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Veröffentlichen Sie eine E-Mail an Sales Insight - Marketing Docs - Produktdokumentation
 title: Veröffentlichen einer E-Mail an Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ Gute Arbeit! Jetzt wissen Sie, wie Sie E-Mails für Ihr Vertriebsteam zur Verfü
 
 >[!NOTE]
 >
->[Meine ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokensets werden nicht aufgelöst, wenn eine E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce gesendet wird. Es werden nur Standard-Token ausgefüllt (Interessent, Firma usw.). Die Standardwerte für Token funktionieren jedoch.
+>[Meine ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokensets werden nicht aufgelöst, wenn eine E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce gesendet wird. Es werden nur Standard-Token ausgefüllt (Interessent, Firma usw.). Die Standardwerte für Token funktionieren jedoch.
 
 >[!TIP]
 >
->Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie [E-Mail ](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) genehmigen.
-
+>Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie [E-Mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) genehmigen.
