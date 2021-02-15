@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: Versionshinweise - Januar 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Versionshinweise: Januar 2014 {#release-notes-january}
 
-Die folgenden Funktionen sind in der Januar 2014-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](http://www.marketo.com/pricing/), um die Funktionsverfügbarkeit zu ermitteln.
+Die folgenden Funktionen sind in der Januar 2014-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/), um die Funktionsverfügbarkeit zu ermitteln.
 
 ## Forms 2.0 {#forms}
 
-Kopf hoch: Die Dokumentation für Forms 2.0 ist demnächst verfügbar. In der Zwischenzeit erfahren Sie mehr unten und im [intro video](http://docs.marketo.com/display/docs/forms)!
+Kopf hoch: Die Dokumentation für Forms 2.0 ist demnächst verfügbar. In der Zwischenzeit erfahren Sie mehr unten und im [intro video](https://docs.marketo.com/display/docs/forms)!
 
-Übernehmen Sie die Kontrolle über den Formularerstellungsprozess und geben Sie Ihren Webentwicklern eine Pause. [Mit Forms](http://docs.marketo.com/display/docs/forms) 2.0 können Marketingexperten visuell und funktional robuste Formulare erstellen, ohne Programmierkenntnisse zu benötigen.
+Übernehmen Sie die Kontrolle über den Formularerstellungsprozess und geben Sie Ihren Webentwicklern eine Pause. [Mit Forms](https://docs.marketo.com/display/docs/forms) 2.0 können Marketingexperten visuell und funktional robuste Formulare erstellen, ohne Programmierkenntnisse zu benötigen.
 
 **Geben Sie Ihrem Forms die visuelle Unterstützung, die Sie verdienen:**
 
@@ -38,7 +38,7 @@ Die Tage, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt un
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Weitere Informationen erhalten Sie im Intro-Video [Forms 2.0](http://docs.marketo.com/display/docs/forms). (Die Dokumentation kommt bald zum Tieftauchgang [Forms](http://docs.marketo.com/display/docs/forms)!)
+Weitere Informationen erhalten Sie im Intro-Video [Forms 2.0](https://docs.marketo.com/display/docs/forms). (Die Dokumentation kommt bald zum Tieftauchgang [Forms](https://docs.marketo.com/display/docs/forms)!)
 
 ## Kommunikationsbeschränkungen für E-Mail-Programm {#communication-limits-for-email-program}
 
