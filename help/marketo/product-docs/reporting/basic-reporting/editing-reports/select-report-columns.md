@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: Berichtspalten - Marketing-Dokumente - Produktdokumentation auswählen
 title: Berichtspalten auswählen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und nicht
    >    * [Bericht nach Spalten sortieren](sort-report-on-columns.md)
 
 
-   Mehr mit Berichten! Siehe [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   Mehr mit Berichten! Siehe [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
