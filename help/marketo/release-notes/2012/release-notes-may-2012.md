@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: Versionshinweise - Mai 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Mai 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Tieftauchen**
 >
->Weitere Versionen finden Sie unter [Versionshinweise](http://docs.marketo.com/display/docs/release+notes) Deep Dive.
+>Weitere Versionen finden Sie unter [Versionshinweise](https://docs.marketo.com/display/docs/release+notes) Deep Dive.
 
 ## Neugestaltung des E-Mail-Leistungsberichts {#email-performance-report-redesign}
 
@@ -125,7 +125,7 @@ Geben Sie Ihren Vertriebsmitarbeitern einen Einblick, welche Marketing-Aktivitä
 
 ## Benutzerdefiniertes Feld für den Kontaktstatus {#custom-field-for-contact-status}
 
-Sie können jetzt ein benutzerdefiniertes Feld in Salesforce zuordnen, um das Feld &quot;Status&quot;für Kontakte in den Ansichten &quot;Meine besten Betten&quot;, &quot;Meine besten Beten&quot;und &quot;Meine Teams&quot;auszufüllen.
+Sie können jetzt ein benutzerdefiniertes Feld in Salesforce zuordnen, um das Feld &quot;Status&quot;für Kontakte in den Ansichten &quot;Meine besten Einsätze&quot;, &quot;Meine besten Einsätze&quot;und &quot;Meine besten Einsätze&quot;auszufüllen.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
