@@ -3,9 +3,9 @@ unique-page-id: 6095037
 description: Versionshinweise - März 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - März 2015
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom März 2015 enthalten. Überprü
 
 ## Kalender HD {#calendar-hd}
 
-[Zeigen Sie die Marketing-](http://docs.marketo.com/display/docs/calendar+hd) Aktivitäten Ihres Teams mit dem neuen Präsentationsmodus des Kalenders an. Diese sind ideal für Fernseher oder Riesenmonitore im Büro! Ziele basierend auf einer intelligenten Liste oder benutzerspezifischen Metriken festlegen und anzeigen.
+[Zeigen Sie die Marketing-](https://docs.marketo.com/display/docs/calendar+hd) Aktivitäten Ihres Teams mit dem neuen Präsentationsmodus des Kalenders an. Diese sind ideal für Fernseher oder Riesenmonitore im Büro! Ziele basierend auf einer intelligenten Liste oder benutzerspezifischen Metriken festlegen und anzeigen.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ Verknüpfen Sie Ihr [Google AdWords-Konto mit Marketo](../../product-docs/admini
 
 ## Umsatz-Explorer-Neugestaltung {#revenue-explorer-redesign}
 
-[Revenue ](http://docs.marketo.com/display/docs/revenue+explorer) Explorer hat ein brandneues Aussehen und Gefühl sowie den neuen Sunburst Diagrammtyp! Wir werden das in den ersten zwei Wochen im April herausbringen.
+[Revenue ](https://docs.marketo.com/display/docs/revenue+explorer) Explorer hat ein brandneues Aussehen und Gefühl sowie den neuen Sunburst Diagrammtyp! Wir werden das in den ersten zwei Wochen im April herausbringen.
 
 ## Neue Asset-REST-APIs {#new-asset-rest-apis}
 
-[Neue Asset-REST-APIs](http://developers.marketo.com/)
+[Neue Asset-REST-APIs](https://developers.marketo.com/)
 
-Wir unterstützen jetzt das Erstellen und Bearbeiten von E-Mails, Vorlagen, meinen Tokens, Dateien und Snippets [über die API](http://developers.marketo.com/documentation/asset-api)!
+Wir unterstützen jetzt das Erstellen und Bearbeiten von E-Mails, Vorlagen, meinen Tokens, Dateien und Snippets [über die API](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
