@@ -3,7 +3,7 @@ unique-page-id: 2360235
 description: Erstellen Sie einen Einflussanalysator - Marketing Docs - Produktdokumentation
 title: Erstellen eines Einflussanalysators
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -75,5 +75,5 @@ Verwenden Sie den &quot;Opportunity Influence Analyzer&quot;, um den Beitrag des
 >
 >**Tieftauchen**
 >
->Weitere Analyzer finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere Analyzer finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
