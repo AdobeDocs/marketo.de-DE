@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: Priorität der Segmentierungsreihenfolge - Marketing-Dokumente - Produktdokumentation
 title: Priorität der Segmentierungsreihenfolge
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Es ist wichtig zu verstehen, wie **order** die Priorität für die Bewertung Ihr
 
 
 
-Cool, was? Sie können Segmente für dynamischen Inhalt, [Berichte](http://docs.marketo.com/display/docs/basic+reporting) und sogar in [intelligente Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) verwenden.
+Cool, was? Sie können Segmente für dynamischen Inhalt, [Berichte](https://docs.marketo.com/display/docs/basic+reporting) und sogar in [intelligente Listen](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) verwenden.
 
