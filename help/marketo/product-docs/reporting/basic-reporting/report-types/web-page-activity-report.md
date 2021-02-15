@@ -3,7 +3,7 @@ unique-page-id: 2359971
 description: Bericht zur Aktivität der Webseite - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Aktivität der Webseite
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 >
 >**Tieftauchen**
 >
->Weitere interessante Berichte finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere interessante Berichte finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
