@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: Implizierte Salesforce-Aktionen - Marketing Docs - Produktdokumentation
 title: Implizierte Salesforce-Aktionen
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn ein Salesforce-spezifischer Flussschritt ausgeführt wird, werden manchmal zusätzliche Schritte automatisch ausgeführt. Hier sind die Regeln, Sie wissen also:
 
-Diese Regeln gelten für _wenn sich die Person derzeit nicht unter [Salesforce.com](http://Salesforce.com)_ als Kontakt oder Interessent befindet.
+Diese Regeln gelten für _wenn sich die Person derzeit nicht unter [Salesforce.com](https://Salesforce.com)_ als Kontakt oder Interessent befindet.
 
 <table> 
  <thead> 
