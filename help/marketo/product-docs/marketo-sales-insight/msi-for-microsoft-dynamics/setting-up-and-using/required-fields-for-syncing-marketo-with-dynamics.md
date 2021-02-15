@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Erforderliche Felder für die Synchronisierung von Marketing mit Dynamik - Marketing Docs - Produktdokumentation
 title: Erforderliche Felder für die Synchronisierung von Marketing mit Dynamik
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen
 
 So überprüfen und fügen Sie Synchronisierungsfelder hinzu:
 
-1. Gehen Sie zu Admin und klicken Sie auf Microsoft Dynamics.
+1. Gehen Sie zu Admin und klicken Sie auf **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken Sie in den Feldsynchronisierungsdetails auf Bearbeiten.
+1. Klicken Sie unter &quot;Details zur Feldsynchronisierung&quot;auf **Bearbeiten**.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ So überprüfen und fügen Sie Synchronisierungsfelder hinzu:
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klicken Sie auf Speichern.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ So überprüfen und fügen Sie Synchronisierungsfelder hinzu:
 
 >[!MORELIKETHIS]
 >
->[Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](http://docs.marketo.com/x/BICMAg)
-
+>[Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
