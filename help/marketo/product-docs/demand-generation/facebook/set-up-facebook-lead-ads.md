@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Einrichten von Facebook-Interessentenanzeigen - Marketing-Dokumente - Produktdokumentation
 title: Einrichten von Facebook-Interessentenanzeigen
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Verwenden Sie [Facebook-Interessentenanzeigen](https://www.facebook.com/business
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [facebook.com](http://www.facebook.com). Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
+1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [facebook.com](https://www.facebook.com). Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
 
    >[!NOTE]
    >
