@@ -3,7 +3,7 @@ unique-page-id: 10099167
 description: hinzufügen eines Interessenten/Kontakts zu einer Marketing-Kampagne von Salesforce - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Interessenten/Kontakts zu einer Marketing-Kampagne von Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In Salesforce können Sie ganz einfach Kontakte oder Kontakte zu intelligenten Kampagnen von Marketo hinzufügen. So, mithilfe von Interessenten.
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten **s.
+1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten**.
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
@@ -31,7 +31,7 @@ In Salesforce können Sie ganz einfach Kontakte oder Kontakte zu intelligenten K
 
    ![](assets/three.png)
 
-1. Führen Sie einen Bildlauf nach unten zum Bereich &quot;Marketing to Sales Insight&quot;im Datensatz durch, klicken Sie auf die Dropdownliste **Aktionen**, wählen Sie **Hinzufügen zu Marketo-Kampagne,** und klicken Sie auf **Los.**
+1. Führen Sie im Datensatz einen Bildlauf nach unten zum Bereich Marketing to Sales Insight durch, klicken Sie auf die Dropdownliste **Aktionen**, wählen Sie **Hinzufügen bis Marketo-Kampagne** und klicken Sie auf **Los**.
 
    ![](assets/four.png)
 
@@ -41,6 +41,6 @@ In Salesforce können Sie ganz einfach Kontakte oder Kontakte zu intelligenten K
 
    >[!NOTE]
    >
-   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie die Kampagne [**Angefordert** Auslöser](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), wobei **Sales Insight** als Quelle dient, wenn Sie die Kampagne einrichten.
+   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie die Kampagne [**ist angefordert** Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), wobei **Sales Insight** als Quelle dient, wenn Sie die Kampagne einrichten.
 
 Und das ist es! Die Person wird Ihrer Marketo-Kampagne hinzugefügt.
