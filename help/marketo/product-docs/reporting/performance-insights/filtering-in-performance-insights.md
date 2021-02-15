@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: Filterung in Performance Insights - Marketing Docs - Produktdokumentation
 title: Filtern in Leistungseinsichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Klicken Sie auf das Pluszeichen, um dem Beginn Filter hinzuzufügen.
 
 >[!NOTE]
 >
->Derzeit sind benutzerspezifische Attribute nur für Filter verfügbar, für die [RCA](http://docs.marketo.com/x/lwIk) aktiviert ist.
+>Derzeit sind benutzerdefinierte Attribute nur für Filter verfügbar, für die [RCA](https://docs.marketo.com/x/lwIk) aktiviert ist.
 
 Wenn Sie auf eine Kategorie klicken, werden mehrere Kategorien angezeigt.
 
@@ -53,11 +53,11 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
   </tr> 
   <tr> 
    <td colspan="1"><strong>ABM-benanntes Konto</strong></td> 
-   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre benannten Konten mit MPI synchronisiert und über den Filter "ABM-benanntes Konto"sichtbar. Sie können ein benanntes Konto auswählen, um die Ergebnisse auf diese Konten zu filtern.<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">Erfahren Sie mehr über die von ABM benannten Konten.</a></td> 
+   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre benannten Konten mit MPI synchronisiert und über den Filter "ABM-benanntes Konto"sichtbar. Sie können ein benanntes Konto auswählen, um die Ergebnisse auf diese Konten zu filtern.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Erfahren Sie mehr über die von ABM benannten Konten.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Benutzerdefinierte Attribute</strong></td> 
-   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">Sie aktivieren</a> für die Analyse der Gelegenheit können in Performance Insights gefiltert werden.</p></td> 
+   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">Sie aktivieren</a> für die Analyse der Gelegenheit können in Performance Insights gefiltert werden.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investitionszeitraum</strong></p></td> 
@@ -73,7 +73,7 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
   </tr> 
   <tr> 
    <td><strong>Arbeitsbereich</strong></td> 
-   <td><p>Arbeitsflächen sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B.: programms, Landingpages, E-Mails und mehr. <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">Hier erfahren Sie mehr über Arbeitsbereiche.</a></p></td> 
+   <td><p>Arbeitsflächen sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B.: Programms, Landingpages, E-Mails und mehr. <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">Hier erfahren Sie mehr über Arbeitsbereiche.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
