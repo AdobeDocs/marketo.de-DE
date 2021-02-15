@@ -3,7 +3,7 @@ unique-page-id: 2360403
 description: Vergleichen Sie die Effektivität von Programmen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -98,4 +98,4 @@ Wir sehen, dass das Paper Fest 12-Programm nicht nur mehr Umsatz (größere Blas
 
 >[!NOTE]
 >
->Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
