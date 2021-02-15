@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight-Seite für Marketing-Administratoren - Marketing-Dokumente - Produktdokumentation
 title: Sales Insight-Seite für Marketing-Administratoren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Sie können die Rest-API-Anmeldeinformationen in SFDC entfernen und nur SOAP-API
 
 ## Personenbewertungseinstellungen {#person-score-settings}
 
-| **Sterne:** | Sterne stellen den Gesamt-Interessentenwert im Vergleich zu anderen Interessenten dar. |
-|---|---|
-| **Flammen:** | Flammen stellen Dringlichkeit dar - wie stark sich das Ergebnis eines Interessenten in letzter Zeit verändert hat. |
+* **Sterne**: Sterne stellen den Gesamt-Interessentenwert im Vergleich zu anderen Interessenten dar.
+* **Flammen**: Flammen stellen Dringlichkeit dar - wie stark sich das Ergebnis eines Interessenten in letzter Zeit verändert hat.
 
 Standardmäßig verwendet Marketo Sales Insight das Feld Interessentenbewertung, um Sterne und Flammen zu berechnen. Aber wenn Sie ein anderes Feld auswählen möchten, hier:
 
@@ -61,19 +60,17 @@ Standardmäßig verwendet Marketo Sales Insight das Feld Interessentenbewertung,
 
    >[!TIP]
    >
-   >Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie diese hier [erstellen.](http://docs.marketo.com/x/3wMk)
+   >Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie diese hier [erstellen.](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Sterne und Flammen](http://docs.marketo.com/x/qgU6Ag)
+   >[Sterne und Flammen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Einstellungen {#settings}
 
 ![](assets/nine.png)
 
-**Abmelden-Einstellungen: **
+**Abmeldeeinstellungen:**
 
 Sie können die folgenden Abmeldeeinstellungen für &quot;Keine Vorlage&quot;, &quot;Standard-E-Mails und operative E-Mails auswählen
 
@@ -82,10 +79,10 @@ Sie können die folgenden Abmeldeeinstellungen für &quot;Keine Vorlage&quot;, &
 * Einstellungen für das Abmelden bei mehr als 5 Empfängern respektieren
 * Einstellungen für das Abmelden ignorieren
 
-**Möglichkeit zum Sperren von Vorlagen aktivieren: **
+**Möglichkeit zum Sperren von Vorlagen:**
 
 Wenn diese Option aktiviert ist, können MSI-Benutzer beim Senden von E-Mails aus Salesforce keine Vorlagen bearbeiten
 
 **RSS-Feed aktivieren:**
 
-Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Interessenten-Feed in einem RSS-Feed (zusätzlich zum Interessenten-Feed in Salesforce)**.** Ansicht haben.
+Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed (zusätzlich zum Lead-Feed in Salesforce) Ansicht haben.
