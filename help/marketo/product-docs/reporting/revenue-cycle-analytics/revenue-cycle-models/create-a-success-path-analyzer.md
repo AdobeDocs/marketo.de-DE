@@ -3,7 +3,7 @@ unique-page-id: 2360411
 description: Erstellen eines Erfolgspfadanalysators - MarketingToDocs - Produktdokumentation
 title: Erstellen eines Erfolgspfad-Analyzers
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Erstellen eines Erfolgspfad-Analyzers {#create-a-success-path-analyzer}
 
-Sehen Sie sich die Geschwindigkeit und den Fluss durch Ihr [Modell für den Umsatzzyklus](http://docs.marketo.com/display/docs/revenue+cycle+analytics) an.
+Sehen Sie sich die Geschwindigkeit und den Fluss durch Ihr [Modell für den Umsatzzyklus](https://docs.marketo.com/display/docs/revenue+cycle+analytics) an.
 
 >[!PREREQUISITES]
 >
