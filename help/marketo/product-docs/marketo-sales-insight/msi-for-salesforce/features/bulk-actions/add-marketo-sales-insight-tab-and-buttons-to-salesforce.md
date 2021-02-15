@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: hinzufügen Marketo Sales Insight-Registerkarte und Schaltflächen zu Salesforce - Marketing Docs - Produktdokumentation
 title: hinzufügen Marketo Sales Insight-Registerkarte und Schaltflächen zu Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Sie können Ihrer Salesforce-Ansicht benutzerdefinierte Register und Schaltfläc
 
 ## Hinzufügen der Registerkarte &quot;Markieren&quot;{#adding-the-marketo-tab}
 
-1. Klicken Sie auf** + **und dann auf **Meine Registerkarten anpassen**.
+1. Klicken Sie auf **+** und dann auf **Meine Registerkarten anpassen**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ Sie können Ihren Salesforce-Layouts Marketo-Schaltflächen hinzufügen. Hier ei
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Klicken Sie in der Ansicht **Interessenten Liste **Zeile auf **Bearbeiten**.
+1. Klicken Sie in der Ansicht **Interessentenanwerbung** auf **Bearbeiten**.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
