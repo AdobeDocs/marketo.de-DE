@@ -3,7 +3,7 @@ unique-page-id: 2951114
 description: Versionshinweise - Juni 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juni 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Tieftauchen**
 >
->Weitere Versionen finden Sie unter [Versionshinweise](http://docs.marketo.com/display/docs/release+notes) Deep Dive.
+>Weitere Versionen finden Sie unter [Versionshinweise](https://docs.marketo.com/display/docs/release+notes) Deep Dive.
 
 ## Verbesserungen bei der Marketing-Lead-Verwaltung {#marketo-lead-management-enhancements}
 
 ### {#rename} umbenennen
 
-Sie können Ihre Smart-Listen, statischen Listen und Kampagnen umbenennen. Wenn Sie diese Assets in Filtern, Auslösern oder Textflüssen verwenden, wird der Name automatisch auch dort aktualisiert. Sie haben Ihre E-Mails, Formulare und Ordner immer umbenennen können.
+Sie können Ihre Smart-Listen, statischen Listen und Kampagnen umbenennen. Wenn Sie diese Assets in Filtern, Triggern oder Textflüssen verwenden, wird der Name automatisch auch dort aktualisiert. Sie haben Ihre E-Mails, Formulare und Ordner immer umbenennen können.
 
 Und als Bonus haben wir die Eingabe und Anzeige von Beschreibungstext für Assets verbessert.
 
@@ -43,7 +43,7 @@ Haben Sie sich schon einmal gefragt, wo Ihre Listen verwendet werden? Oder wer h
 
 ![](assets/image2014-9-23-10-3a23-3a40.png)
 
-Auf den vorhandenen Programm- und Kampagnen-Zusammenfassungsseiten haben wir das Erstellungsdatum/den Erstellungsbenutzer und auch die Letzte Änderung/Benutzerinformationen hinzugefügt!
+Auf den vorhandenen Programm- und Kampagnen-Zusammenfassungsseiten haben wir das Erstellungsdatum/den Erstellungsbenutzer und auch die Informationen zum Datum/der letzten Änderung hinzugefügt!
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
