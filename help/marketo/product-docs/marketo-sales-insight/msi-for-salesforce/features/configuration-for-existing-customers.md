@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: Konfiguration für bestehende Kunden - Marketing Docs - Produktdokumentation
 title: Konfiguration für bestehende Kunden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ Bitte richten Sie die folgende Konfiguration ein, um mit dem neuen Insight-Dashb
 ## Sales Insight in Marketo konfigurieren{#configure-sales-insight-in-marketo}
 
 1. Öffnen Sie eine neue Registerkarte in Ihrem Browser, um die Anmeldeinformationen von Marketing to Sales Insights von Ihrem Marketing-Konto abzurufen.
+
 1. Gehen Sie zum Bereich **Admin**.
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ Bitte richten Sie die folgende Konfiguration ein, um mit dem neuen Insight-Dashb
 ## Zugriff auf Marketing zu Sales Insight {#access-marketo-sales-insight}
 
 1. Kopieren Sie die Anmeldeinformationen aus dem Bedienfeld &quot;Rest-API&quot;auf der Admin-Seite von Marketing Sales Insight. Fügen Sie sie im Abschnitt Rest-API auf der Seite Sales Insight-Konfiguration von Salesforce ein.
+
 1. Geben Sie den geheimen API-Schlüssel ein.
 
    ![](assets/config.png)
-
