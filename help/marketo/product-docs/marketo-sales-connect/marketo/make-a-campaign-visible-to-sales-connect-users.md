@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: Kampagne für Vertriebs-Connect-Benutzer sichtbar machen - Marketing-Dokumente - Produktdokumentation
 title: Kampagne für Vertriebs-Connect-Benutzer sichtbar machen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 
    ![](assets/two.png)
 
-1. hinzufügen die Kampagne angefordert Auslöser ist.
+1. hinzufügen die Kampagne der angeforderte Trigger ist.
 
    ![](assets/three.png)
 
@@ -50,4 +50,3 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 1. Klicken Sie auf die Registerkarte **Plan** und **Aktivieren** der Kampagne.
 
    ![](assets/nine.png)
-
