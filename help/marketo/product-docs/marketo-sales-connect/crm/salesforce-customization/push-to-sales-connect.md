@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: Push to Sales Connect - Marketing Docs - Produktdokumentation
 title: An Sales Connect übertragen
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Sales Connect fügt diese Gruppe mit dem Titel &quot;SFDC-...&quot;hinzu. auf der Seite &quot;Beziehungen&quot;der [Webanwendung](http://toutapp.com/login).
+   >Sales Connect fügt diese Gruppe mit dem Titel &quot;SFDC-...&quot;hinzu. auf der Seite &quot;Beziehungen&quot;der [Webanwendung](https://toutapp.com/login).
 
 1. Wählen Sie **E-Mail an die gesamte Gruppe**, um diese Gruppe per E-Mail zu versenden.
