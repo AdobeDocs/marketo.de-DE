@@ -3,7 +3,7 @@ unique-page-id: 2360201
 description: hinzufügen benutzerdefinierter Spalten für einen Personenbericht - Marketing Docs - Produktdokumentation
 title: hinzufügen benutzerdefinierter Spalten für einen Personenbericht
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen benutzerdefinierter Spalten für einen Personenbericht {#add-custom-columns-to-a-person-report}
 
-Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/display/docs/basic+reporting) weiter filtern, indem Sie [intelligente Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) als benutzerspezifische Spalten verwenden.
+Sie können die Metriken in Ihren [Personenberichten](https://docs.marketo.com/display/docs/basic+reporting) weiter filtern, indem Sie [intelligente Listen](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) als benutzerspezifische Spalten verwenden.
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
 
@@ -36,7 +36,7 @@ Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/di
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie, wie Sie intelligente Listen im Tieftauchgang [Intelligente Listen und statische Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) erstellen und konfigurieren.
+   >Erfahren Sie, wie Sie intelligente Listen im Tieftauchgang [Intelligente Listen und statische Listen](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) erstellen und konfigurieren.
 
 1. Du hast es getan! Klicken Sie auf die Registerkarte **Bericht**, um Ihren Bericht mit den neuen Spalten anzuzeigen.
 
@@ -53,5 +53,5 @@ Sie können die Metriken in Ihren [Personenberichten](http://docs.marketo.com/di
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über die vielen Dinge, die Sie mit Berichten im Tieftauchgang [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) tun können.
+   >Erfahren Sie mehr über die vielen Dinge, die Sie mit Berichten im Tieftauchgang [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting) tun können.
 
