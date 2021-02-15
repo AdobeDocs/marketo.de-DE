@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: Senden Sie eine Marketing-E-Mail an den Vertrieb von Microsoft Dynamics - MarketingTo Docs - Produktdokumentation
 title: Senden Sie eine Marketing-E-Mail von Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Ihr Verkaufsteam kann E-Mails senden und sie für das Öffnen und Klicks direkt 
 
    >[!TIP]
    >
-   >Sie können [E-Mails als Vorlagen](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) veröffentlichen, damit Ihr Vertriebsteam sie verwenden kann.
+   >Sie können [E-Mails als Vorlagen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) veröffentlichen, damit Ihr Vertriebsteam sie verwenden kann.
 
 1. hinzufügen Sie einen Betreff, erstellen Sie Ihre E-Mail und klicken Sie auf **E-Mail senden**. (Wählen Sie eine Vorlage aus, wenn Sie eine benötigen.)
 
@@ -45,9 +45,4 @@ Gut gemacht! Jetzt wissen Sie, wie Sie Marketo nachverfolgte E-Mails direkt aus 
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen eines Interessenten/Kontakts zu einer Marketing-Kampagne von Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[hinzufügen eines Interessenten/Kontakts zu einer Marketing-Kampagne von Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
