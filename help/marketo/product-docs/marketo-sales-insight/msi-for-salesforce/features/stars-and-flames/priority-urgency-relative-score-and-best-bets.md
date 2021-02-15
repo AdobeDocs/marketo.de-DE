@@ -3,7 +3,7 @@ unique-page-id: 2950396
 description: Priorität, Dringlichkeit, relative Bewertung und Best-Bets - Marketing-Dokumente - Produktdokumentation
 title: Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Wenn sich Bewertungen ändern, werden Dringlichkeit, Priorität und relative Wer
 
 >[!MORELIKETHIS]
 >
->* [MarketingTo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [MarketingTo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
 
