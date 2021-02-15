@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Versionshinweise - Winter 18 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Inhalte, die über die optimierten Content`<sup>AI </sup>`Algorithmen von Market
 
 ## Integration {#integration}
 
-** [Kampagne-API aktivieren/deaktivieren](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Kampagne-API aktivieren/deaktivieren](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programm-Vorlagen erstellen können. Erstellen Sie einmal eine Vorlage für ein Programm und automatisieren Sie dann das Klonen, Marketingmaterial-Updates und jetzt die Aktivierung/Planung intelligenter Kampagnen.
 
@@ -94,7 +94,7 @@ Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktiv
 
 **Aktualisierung abmelden**
 
-Ab dem 1. März 2018 wird an allen E-Mails, die von [ToutApp.com](http://ToutApp.com) gesendet werden (und über die Schaltfläche &quot;E-Mail mit Tout&quot;in Salesforce), ein Link zum Abbestellen des Abonnements am Ende angehängt.
+Ab dem 1. März 2018 wird an allen E-Mails, die von [ToutApp.com](https://ToutApp.com) gesendet werden (und über die Schaltfläche &quot;E-Mail mit Tout&quot;in Salesforce), ein Link zum Abbestellen des Abonnements am Ende angehängt.
 
 **Live Feed-Aktualisierung**
 
