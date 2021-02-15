@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: Verwalten von Report Abonnements - Marketing Docs - Produktdokumentation
 title: Verwalten von Report Abonnements
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Konfigurieren und löschen Sie Report Abonnement.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Auf dieser Seite werden die Abonnement zu allen Berichten in Ihrem Konto angezeigt, gruppiert nach [Berichtstyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Dazu gehören [Abonnement zu Basisberichten](subscribe-to-a-basic-report.md) und zu [Umsatzwyklen-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten.
+   Auf dieser Seite werden die Abonnement zu allen Berichten in Ihrem Konto angezeigt, gruppiert nach [Berichtstyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Dazu gehören [Abonnement zu Basisberichten](subscribe-to-a-basic-report.md) und zu [Umsatzwyklen-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten.
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ Konfigurieren und löschen Sie Report Abonnement.
    >    * [Abonnieren eines Berichts über den Umsatz-Explorer](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   Weitere Informationen finden Sie in den Deep Dives [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) und [Umsatz-Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Weitere Informationen finden Sie in den Deep Dives [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting) und [Umsatz-Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
