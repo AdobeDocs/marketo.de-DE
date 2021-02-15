@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Versionshinweise - Frühjahr 16 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Frühjahr 16
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version Frühjahr 16 enthalten. Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
-## [E-Mail-Einblicke](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [E-Mail-Einblicke](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 Email Insights ist ein brandneues Erlebnis für historische Aggregat-Daten-E-Mail-Analysen — Das Design wurde im Rahmen des Project Orion für eine blitzschnelle Performance überarbeitet. Es verfügt über ein völlig neues Benutzeroberflächendesign, das auf die Anforderungen und den Workflow von E-Mail-Marketingexperten abgestimmt ist.
 
@@ -53,11 +53,11 @@ Gone sind die Tage, an denen Sie alles erneut genehmigen müssen, wenn ein Snipp
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Benutzerdefinierte Aktivitäten](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [Benutzerdefinierte Aktivitäten](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-Marketo-Administratoren können nun ihre benutzerdefinierten Aktivitäten über den Modellierer &quot;Definition für benutzerdefinierte Aktivitäten&quot;definieren und verwalten. Ähnlich wie der Marketo Custom Object Modeler (und in Verbindung mit diesem) können Administratoren das Datenmodell nun auf ihre spezifischen geschäftlichen Anforderungen ausdehnen. Einzelheiten zur Verwendung dieser Funktion finden Sie auf der [Marketing-Dokumentation-Website](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
+Marketo-Administratoren können nun ihre benutzerdefinierten Aktivitäten über den Modellierer &quot;Definition für benutzerdefinierte Aktivitäten&quot;definieren und verwalten. Ähnlich wie der Marketo Custom Object Modeler (und in Verbindung mit diesem) können Administratoren das Datenmodell jetzt auf ihre spezifischen geschäftlichen Anforderungen ausdehnen. Einzelheiten zur Verwendung dieser Funktion finden Sie auf der [Marketing-Dokumentation-Website](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
-## [Landingpages-, Landingpages- und Formular-APIs](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [Landingpages-, Landingpages- und Formular-APIs](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Die Marketo REST APIs unterstützen jetzt die Steuerung von Marketo-Landingpages, Landingpages-Vorlagen und Formularen. Benutzer können jetzt Inhalte erstellen, aktualisieren, genehmigen und diese Assets direkt über die Marketing REST API löschen.
 
