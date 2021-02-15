@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: Verwendung interessanter Momente - Marketing Docs - Produktdokumentation
 title: Verwenden interessanter Momente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebste
 
 >[!AVAILABILITY]
 >
->Diese sind nur für Kunden von Marketo Sales Insight und [Marketing Sales Connect](http://docs.marketo.com/x/fgTLAQ) verfügbar.
+>Diese sind nur für Kunden von Marketo Sales Insight und [Marketing Sales Connect](https://docs.marketo.com/x/fgTLAQ) verfügbar.
 
 ## Was ist ein interessanter Moment?  {#what-is-an-interesting-moment}
 
