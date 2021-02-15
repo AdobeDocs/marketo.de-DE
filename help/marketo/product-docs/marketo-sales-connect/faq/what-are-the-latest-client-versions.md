@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: Was sind die neuesten Clientversionen? - Marketing Docs - Produktdokumentation
 title: Was sind die neuesten Clientversionen?
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ Nachstehend finden Sie die neuesten Versionen für alle Sales Connect-Clients.
 >[!NOTE]
 >
 >Wir sind derzeit nicht für andere Browser als Chrome optimiert. Das ist etwas, was unser Produktteam wissen und hoffen, in Zukunft zu behandeln.
-
