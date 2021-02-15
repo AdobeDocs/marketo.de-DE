@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Einstellungen für die Landingpage bearbeiten - Marketing Docs - Produktdokumentation
 title: Einstellungen für Landingpages bearbeiten
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Sie können Ihren Domänennamen und Ihre Ausweichseite bearbeiten, das Vorausfü
 
    | Begriff | Definition |
    |---|---|
-   | Domänenname für Landingpages | Das ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages angeben. Beispiel: In `http://go.yourCompany.com` ist das Wort &quot;go&quot;der CNAME. Man kann mehrere haben, aber die meisten Leute verwenden nur das eine. |
+   | Domänenname für Landingpages | Das ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages angeben. Beispiel: In `https://go.yourCompany.com` ist das Wort &quot;go&quot;der CNAME. Man kann mehrere haben, aber die meisten Leute verwenden nur das eine. |
    | Fallback-Seite | Hier muss man gehen, wenn die Landingpage nicht existiert oder nicht da ist. Erfahren Sie mehr über [Ausweichseiten](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Homepage | Geben Sie Ihre Unternehmens-Site-URL ein. |
 
