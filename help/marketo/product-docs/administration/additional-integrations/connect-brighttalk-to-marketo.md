@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: BrightTALK mit Marketo - Marketing Docs - Produktdokumentation verbinden
 title: BrightTALK mit Marketo verbinden
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie Ihren BrightTALK-Kanal mit Ihrer Marketo-Instanz verbinden
 
 ## Schritte in BrightTALK {#steps-in-brighttalk}
 
-1. Melden Sie sich bei [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) an und klicken Sie auf **Jetzt verbinden**.
+1. Melden Sie sich bei [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) an und klicken Sie auf **Jetzt verbinden**.
 1. Klicken Sie unter &quot;Erweiterter Marketing-Connector&quot;auf **Connect**.
 1. Sie gelangen zum Anmeldebildschirm, in dem Sie nach Folgendem gefragt werden: Client-ID, geheimer Clientschlüssel, Identitätsdienst-URL und REST-Dienst-URL. Um diese Informationen zu erhalten, melden Sie sich bei Marketo an.
 
@@ -77,4 +77,4 @@ Erfahren Sie, wie Sie Ihren BrightTALK-Kanal mit Ihrer Marketo-Instanz verbinden
 
 1. Kehren Sie in Schritt 3 zum Setup-Bildschirm für den BrightTALK Connector zurück und geben Sie die Anmeldeinformationen ein, die Sie in den Schritten 12 und 14 gespeichert haben.
 
-   Nachdem die Anmeldeinformationen authentifiziert wurden, haben Sie BrightTALK offiziell mit Marketo verbunden. Der nächste Schritt besteht darin, [zu bestimmen, welche Datenfelder synchronisiert werden sollen.](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
+   Nachdem die Anmeldeinformationen authentifiziert wurden, haben Sie BrightTALK offiziell mit Marketo verbunden. Der nächste Schritt besteht darin, [zu bestimmen, welche Datenfelder synchronisiert werden sollen.](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
