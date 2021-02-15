@@ -3,7 +3,7 @@ unique-page-id: 1146999
 description: Tokens für interessante Momente - Marketing Docs - Produktdokumentation
 title: Tokens für interessante Momente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* Hier erfahren Sie, wie Sie den Schritt [Interessanter Moment-Fluss](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) verwenden.
->* Erfahren Sie mehr über [Token](http://docs.marketo.com/display/docs/tokens).
+>* Erfahren Sie mehr über [Token](https://docs.marketo.com/display/docs/tokens).
 
 >
 
@@ -26,13 +26,13 @@ ht-degree: 0%
 
 Sehen Sie sich [Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
 
-## Auslöser-Token {#trigger-tokens}
+## Trigger-Tokens {#trigger-tokens}
 
-Je nach Auslöser, der in einer intelligenten Kampagne verwendet wird, stehen zusätzliche Auslösertoken zur Verfügung.
+Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusätzliche Trigger-Token zur Verfügung.
 
-* `{{trigger.Trigger Name}}` was immer der eigentliche Auslöser ist. Beispiel: Klicken Sie in der E-Mail auf Link.
-* `{{trigger.Name}}` der Name des Assets, das die Kampagne ausgelöst hat. Beispiel: Klicks Link auf der Webseite ist die URL selbst, Betreff für Salesforce-Auslöser, etc.
-* Weitere Auslöser stehen aufgrund von Einschränkungen zur Verfügung, die im Folgenden aufgeführt sind:
+* `{{trigger.Trigger Name}}` was immer der eigentliche Trigger ist. Beispiel: Klicken Sie in der E-Mail auf Link.
+* `{{trigger.Name}}` der Name des Assets, das die Kampagne ausgelöst hat. Beispiel: Klicks Link auf der Webseite ist die URL selbst, Betreff für Salesforce Trigger, etc.
+* Weitere Trigger sind aufgrund von Einschränkungen verfügbar, die im Folgenden aufgeführt sind:
 
 <table> 
  <colgroup> 
@@ -238,7 +238,7 @@ Je nach Auslöser, der in einer intelligenten Kampagne verwendet wird, stehen zu
 >
 >Wenn es keinen Häkchen hat ![(tick)](assets/check.svg) würde es eine leere Zeichenfolge (nichts) im interessanten Moment zurückgeben.
 
-*Der Auslöser **Webseite &quot;Besuche&quot;** verfügt über einige zusätzliche Token:
+*Der Trigger **Webseite &quot;Besuche&quot;** verfügt über einige zusätzliche Token:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
