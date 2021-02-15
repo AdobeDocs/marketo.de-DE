@@ -3,7 +3,7 @@ unique-page-id: 6849099
 description: Aktualisieren Sie die Marketing Sales Insight-Lösung für Microsoft Dynamics - Marketing Docs - Produktdokumentation.
 title: Aktualisieren Sie die Marketing Sales Insight-Lösung für Microsoft Dynamics.
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Wenn eine neue Microsoft Dynamics-Lösung für Sales Insight veröffentlicht wir
    ![](assets/image2015-3-16-16-3a29-3a32.png)
 
    Fantastisch! Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.
-
