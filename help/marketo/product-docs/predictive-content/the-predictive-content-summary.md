@@ -3,7 +3,7 @@ unique-page-id: 11384634
 description: Die Zusammenfassung der prädiktiven Inhalte - Marketing Docs - Produktdokumentation
 title: Zusammenfassung des Predictive Content
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -55,8 +55,8 @@ Welche Kategorien von Inhalten sind am interessantesten? Sehen Sie es in diesem 
 
 >[!MORELIKETHIS]
 >
->* [Arbeiten mit allen Inhalten](http://docs.marketo.com/display/docs/working+with+all+content)
->* [Arbeiten mit prädiktiven Inhalten](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [Arbeiten mit allen Inhalten](https://docs.marketo.com/display/docs/working+with+all+content)
+>* [Arbeiten mit prädiktiven Inhalten](https://docs.marketo.com/display/docs/working+with+predictive+content)
 
 >
 
