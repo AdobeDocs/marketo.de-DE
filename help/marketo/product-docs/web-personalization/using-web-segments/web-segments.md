@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Websegmente - Marketing-Dokumente - Produktdokumentation
 title: Websegmente
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -108,23 +108,27 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >1. Alle Filter verwenden (1, 2 und 3...)
 >1. Alle Filter verwenden (1 oder 2 oder 3...)
 >1. Erweiterte Filter (mit und/oder Ausdrücken)
->
->    Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
->
->    * 1 und 2 und 3
->    * 1 oder 2 oder 3
->
->    Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
->
->    * 1 und (2 oder 3)
->    * (1 und 2) oder 3
->
->    Verschachtelte Klammern werden für eine kompliziertere Logik, z.
->
->    * (1 und 2) oder (3 und 4)
->    * 1 und 2 oder 3 und 4)
->
->    Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
+
+   >
+   >    
+   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
+   >
+   >    
+   * 1 und 2 und 3
+   >    * 1 oder 2 oder 3
+
+   >
+   Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
+
+   * 1 und (2 oder 3)
+   * (1 und 2) oder 3
+
+   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
+
+   * (1 und 2) oder (3 und 4)
+   * 1 und 2 oder 3 und 4)
+
+   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 
 
@@ -192,7 +196,7 @@ Wählen Sie aus einer [Liste für ein benanntes Konto](../../../product-docs/web
 
 >[!NOTE]
 >
->Die Nummer in den Klammern neben dem Namen der Liste des benannten Kontos wird als Indexverweis für die Liste für die Web-Personalisierung [Read-API](http://developers.marketo.com/documentation/websites/rtp-js-api/) verwendet.
+>Die Nummer in den Klammern neben dem Namen der Liste des benannten Kontos wird als Indexverweis für die Liste für die Web-Personalisierung [Read-API](https://developers.marketo.com/documentation/websites/rtp-js-api/) verwendet.
 
 **ISP ausschließen**
 
@@ -233,7 +237,7 @@ Definieren Sie das Segment entsprechend dem Status des Potenzieller Kunden: beka
 
 **Besuche -** Definieren Sie Ihr Segment entsprechend dem Verhalten des Besuchers oder der Identifizierung.
 
-* Anzahl der Besuche: Wählen Sie diese Option aus dem Dropdownfeld, um die Anzahl der Besuche für Potenzieller Kunde auf der Website anzugeben.
+* Anzahl der Besuche: Wählen Sie diese Option aus dem Dropdownfeld, um die Anzahl der Besuche für Potenzieller Kunde auf der Website festzulegen.
 
    * Wählen Sie &quot;Gleich&quot;, &quot;Gleich&quot;oder &quot;Größer als&quot;oder &quot;Gleich&quot;oder &quot;Kleiner als&quot;aus dem Dropdownfeld.
 
@@ -286,17 +290,17 @@ Zielgruppe Besucher, der bestimmte Browsertypen und/oder -versionen verwendet.
 
 ### API {#api}
 
-**Data Ereignisses**  - Segment-Besucher, die bestimmte benutzerspezifische Daten-Ereignis auslösen
+**Data Ereignisses**  - Segment-Besucher, die bestimmte benutzerspezifische Daten-Ereignis Trigger
 
 hinzufügen Sie den zu Zielgruppe Ereignis-Wert. z.B. aus externen Datenquellen.
 
 **Benutzerkontext-API**
 
-Web-Personalisierungs-API-Aufruf [Lesen Sie hier mehr darüber.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web-Personalisierungs-API-Aufruf [Lesen Sie hier mehr darüber.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Verwendung von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einschließen möchten, der etwas darin enthält, z. B. &quot;[google.com](http://google.com)&quot; oder &quot;search term product&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen - dieser kleine Kerl* - auf jedem Ende eingefügt werden. Daher sollte alles, was von [google.com](http://google.com) kommt, als * [google.com](http://google.com)* eingegeben werden.
+>**Verwendung von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einschließen möchten, der etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder &quot;search term product&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen - dieser kleine Kerl* - auf jedem Ende eingefügt werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als * [google.com](https://google.com)* eingegeben werden.
 
 ## Segmente bearbeiten {#edit-segments}
 
