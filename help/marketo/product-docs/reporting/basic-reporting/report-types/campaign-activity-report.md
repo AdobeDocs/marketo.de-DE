@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: Bericht zur Aktivität der Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Aktivität der Kampagne
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bericht zur Aktivität der Kampagne {#campaign-activity-report}
 
-Sehen Sie, wie Ihre [intelligenten Kampagnen](http://docs.marketo.com/display/docs/smart+campaigns) abschneiden.
+Sehen Sie, wie Ihre [intelligenten Kampagnen](https://docs.marketo.com/display/docs/smart+campaigns) abschneiden.
 
 1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Berichtstyp  **Kampagne** [Aktivität](report-type-overview.md).
 1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
@@ -54,5 +54,5 @@ Sehen Sie, wie Ihre [intelligenten Kampagnen](http://docs.marketo.com/display/do
    >    * [Filtern eines Berichts zur Aktivität einer Kampagne](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Weitere Berichte finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   Weitere Berichte finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
