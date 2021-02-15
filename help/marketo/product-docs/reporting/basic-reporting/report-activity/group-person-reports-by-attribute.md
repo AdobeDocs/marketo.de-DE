@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: Gruppenbenutzerberichte nach Attribut - Marketing Docs - Produktdokumentation
 title: Personenberichte nach Attribut gruppieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gruppenbenutzerberichte nach Attribut {#group-person-reports-by-attribute}
 
-Sie können Ihre [Personenberichte](http://docs.marketo.com/display/docs/basic+reporting) nach beliebigen Personen- oder Firmen-Attributen gruppieren.
+Sie können Ihre [Personenberichte](https://docs.marketo.com/display/docs/basic+reporting) nach beliebigen Personen- oder Firmen-Attributen gruppieren.
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
 
@@ -48,7 +48,7 @@ Sie können Ihre [Personenberichte](http://docs.marketo.com/display/docs/basic+r
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über Personenberichte und andere Berichtstypen im [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting)Deep Dive.
+   >Erfahren Sie mehr über Personenberichte und andere Berichtstypen im [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting)Deep Dive.
 
    >[!MORELIKETHIS]
    >
