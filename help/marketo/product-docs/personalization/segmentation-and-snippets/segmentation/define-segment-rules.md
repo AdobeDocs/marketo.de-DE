@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: Segmentregeln definieren - Marketing-Dokumente - Produktdokumentation
 title: Segmentregeln definieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ Durch die Definition von Segmentregeln können Sie Ihre Personen in verschiedene
    >**Tieftauchen**
    >
    >
-   >Intelligente Listen sind großartig. Erfahren Sie alles, was Sie mit [Smart-Listen und statischen Listen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) tun können.
+   >Intelligente Listen sind großartig. Erfahren Sie alles, was Sie mit [Smart-Listen und statischen Listen](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) tun können.
 
 1. Klicken Sie auf die Registerkarte **Personen (Entwurf)**, um die Personen Ansicht, die sich als Mitglied dieses Segments qualifizieren können.
 
@@ -63,7 +63,7 @@ Durch die Definition von Segmentregeln können Sie Ihre Personen in verschiedene
    >Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Segmentlogik ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, andere Filter können jedoch die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele: benutzerdefinierte Felder, Liste, Interessenteninhaberfelder und Umsatzstufen.
    >
    >
-   >Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](http://nation.marketo.com/t5/Support/ct-p/Support).
+   >Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Sehen Sie sich das Dashboard an, um einen schnellen Überblick über Ihre Segmente in einem Kreisdiagramm sowie die angewendeten Regeln zu erhalten.
 
