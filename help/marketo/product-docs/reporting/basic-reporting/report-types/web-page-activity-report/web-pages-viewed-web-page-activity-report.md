@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: Angezeigte Webseiten, Bericht zur Aktivität der Webseite - Marketing-Dokumente - Produktdokumentation
 title: Angezeigte Webseiten, Bericht zur Aktivität der Webseite
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Aus dem Bericht [Aktivität der Webseite](../../../../../product-docs/reporting/
    >**Tieftauchen**
    >
    >
-   >Mehr mit Berichten! Siehe Tieftauchgang [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Mehr mit Berichten! Siehe Tieftauchgang [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
