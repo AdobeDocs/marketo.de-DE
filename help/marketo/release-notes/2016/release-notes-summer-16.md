@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: Versionshinweise - sommer '16 - marketo Docs - Produktdokumentation
 title: Versionshinweise - Sommer 16
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Sommerversion &#39;16 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
-## [Kontobasiertes Marketing](http://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Kontobasiertes Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Marketo Account-basiertes Marketing bietet alle wesentlichen Komponenten einer einheitlichen Plattform:
 
@@ -29,7 +29,7 @@ Marketo Account-basiertes Marketing bietet alle wesentlichen Komponenten einer e
 >
 >ABM ist als Add-On für Ihr Marketo-Abonnement erhältlich. Wenden Sie sich daher an Ihren Vertriebsmitarbeiter, um es implementieren zu lassen.
 
-## [Prüfpfad](http://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [Prüfpfad](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
 
 Der Audit-Protokoll liefert einen umfassenden Überblick über die in Ihrem Marketing-Abonnement vorgenommenen Änderungen. Es schafft Rechenschaftspflicht bei Benutzern und Administratoren, hilft bei der Identifizierung der Ursache unerwarteten Verhaltens und bietet die Sicherheit zu wissen, wer was und wann tut. Diese Informationen stehen jederzeit zur Verfügung und können zur Beantwortung von Fragen wie:
 
@@ -39,7 +39,7 @@ Der Audit-Protokoll liefert einen umfassenden Überblick über die in Ihrem Mark
 
 ![](assets/audit-trail.png)
 
-## [Marketing-Vibes SMS LaunchPoint-Integration](http://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketing-Vibes SMS LaunchPoint-Integration](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
 
 Erstellen Sie ganz einfach SMS-Nachrichten direkt in Marketo. Personalisieren und Zielgruppe Ihrer Nachricht mit Ihren Rich-Marketing-Daten und einfache Überwachung der Leistung mithilfe des SMS-Dashboards.
 
@@ -53,7 +53,7 @@ Erstellen Sie ganz einfach SMS-Nachrichten direkt in Marketo. Personalisieren un
 
 **Variablen auf Modulebene**
 
-Zuvor waren alle in E-Mail 2.0-Vorlagen angegebenen Variablen &quot;global&quot;im Gültigkeitsbereich. Wenn Variablen in Modulen verwendet werden, ist dies nicht immer wünschenswert, wenn Sie mehrere Instanzen des Moduls verwenden möchten. Mit dieser Version können Variablen jetzt als &quot;Modulebene&quot;angegeben werden. Dadurch können Sie angeben, dass der Benutzer eindeutige Werte für jedes Modul festlegen kann, in dem er verwendet wird.
+Zuvor waren alle in E-Mail 2.0-Vorlagen angegebenen Variablen &quot;global&quot;im Gültigkeitsbereich. Wenn Sie Variablen in Modulen verwenden, ist dies nicht immer wünschenswert, wenn Sie mehrere Instanzen des Moduls verwenden möchten. Mit dieser Version können Variablen jetzt als &quot;Modulebene&quot;angegeben werden. Dadurch können Sie angeben, dass der Benutzer eindeutige Werte für jedes Modul festlegen kann, in dem er verwendet wird.
 
 ![](assets/module-level-variables.png)
 
@@ -72,7 +72,7 @@ Verwenden Sie neue Suchfunktionen, um Inhalte im E-Mail-Code effizient zu finden
 
 Tokens können jetzt im Bereich &quot;Externe URL&quot;des Erlebnisses zum Einfügen von Bildern verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}` angegeben haben, können Sie jetzt auf diese Token in Email Editor 2.0 verweisen. Beachten Sie, dass das Bild weiterhin auf der Arbeitsfläche des E-Mail-Editors 2.0 beschädigt angezeigt wird. Sie sehen jedoch, wie sie in Vorschau gerendert und als Beispiel gesendet werden, bevor Sie Ihre E-Mail versenden.
 
-## [Mehrere Branding-Domänen](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## [Mehrere Branding-Domänen](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
 E-Mail-Tracking-Links können nur mit einer einzigen Markendomäne versehen werden. Sie können jetzt mehrere Markendomänen hinzufügen, um das Vertrauen der Verbraucher zu steigern, ein optimiertes Erscheinungsbild zu schaffen, den Fokus auf die Marke zu legen, die E-Mail-Zustellbarkeit zu verbessern und auf E-Mail-Basis auszuwählen, welche Markendomäne für die Verfolgungslinks jeder E-Mail verwendet werden soll.
 
@@ -100,11 +100,11 @@ Geben Sie eine Verzögerung an, auf die Web-Kampagnen auf Ihrer Website reagiere
 
 Ansicht von Inhaltsanalysen- und Empfehlungsdaten offline.
 
-## [API-Unterstützung für Email Editor 2.0](http://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [API-Unterstützung für Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Bereits vorhandene Asset-APIs, die zuvor nur mit E-Mails und Vorlagen der Version 1.0 kompatibel waren, sind jetzt für E-Mail-Assets der Version 2.0 aktiviert.
 
-## [Website von Marketing-Entwicklern](http://developers.marketo.com/) {#marketo-developers-site}
+## [Website von Marketing-Entwicklern](https://developers.marketo.com/) {#marketo-developers-site}
 
 Neu und verbessert!
 
