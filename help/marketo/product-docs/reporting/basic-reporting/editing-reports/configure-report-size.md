@@ -3,7 +3,7 @@ unique-page-id: 2360002
 description: Berichtsgröße konfigurieren - Marketing Docs - Produktdokumentation
 title: Berichtsgröße konfigurieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Standardmäßig sind die Berichte von Marketo auf maximal 5.000 Zeilen beschrän
    >
    >Wenn Sie die Beschränkung ändern, ändert sich die Berichtsgröße selbst, nicht nur die exportierte Excel-Datei. Wenn die Erstellung Ihres Berichts also zu lange dauert, reduzieren Sie die Beschränkung!
 
-1. Klicken Sie auf **Speichern**, um die neue Beschränkung zu bestätigen.
+1. Klicken Sie auf **Speichern**, um den neuen Grenzwert zu bestätigen.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
@@ -47,5 +47,5 @@ Standardmäßig sind die Berichte von Marketo auf maximal 5.000 Zeilen beschrän
    >
    >Jetzt können Sie [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) mit der neuen Grenze exportieren.
 
-   Sehen Sie mehr Möglichkeiten zur Konfiguration Ihrer Berichte im Tiefen-Tauchgang unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   Sehen Sie mehr Möglichkeiten zur Konfiguration Ihrer Berichte im Tiefen-Tauchgang unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
