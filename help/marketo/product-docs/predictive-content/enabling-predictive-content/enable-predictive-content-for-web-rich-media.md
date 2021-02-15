@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Predictive Content für Web Rich Media - Marketing-Dokumente - Produktdokumentation aktivieren
 title: Predictive Content für Web Rich Media aktivieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Predictive Content bindet Ihre Web-Besucher mit den relevantesten Inhalten, basi
 >
 >Bevor Sie Predictive Content aktivieren, müssen Sie:
 >
->* [Vorbereitung von prädiktiven Inhalten](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Vorbereitung von prädiktiven Inhalten](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorb
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Lesen Sie die Dokumentation für die Rich Media Recommendation-Vorlage [auf der Marketing Developers-Website.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Dies erklärt, wie Sie die Vorlage für Ihre Website anpassen.
+Lesen Sie die Dokumentation für die Rich Media Recommendation-Vorlage [auf der Marketing Developers-Website.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Dies erklärt, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle auf Ihrer Website ein, an der die Vorlage angezeigt werden soll.
 
@@ -62,5 +62,5 @@ Hier ist ein Beispiel für die Rich Media Recommendation Template2:
 >[!MORELIKETHIS]
 >
 >* [Symbolleiste für die Inhaltsempfehlung aktivieren](enable-the-content-recommendation-bar.md)
->* [Predictive Inhalte in E-Mails aktivieren](http://docs.marketo.com/x/vLit)
+>* [Predictive Inhalte in E-Mails aktivieren](https://docs.marketo.com/x/vLit)
 
