@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketing Docs - Produktdokumentation
 title: Marketo-Glossar
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -185,7 +185,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Constraint</strong></a></td> 
-   <td colspan="1">Eine zusätzliche Bedingung, die Sie der intelligenten Liste <strong>Filter</strong>/<strong>hinzufügen können, löst </strong>aus, um die Suche einzuschränken.</td> 
+   <td colspan="1">Eine zusätzliche Bedingung, die Sie der intelligenten Liste <strong>Filter</strong>/<strong>Trigger </strong>hinzufügen können, um die Suche einzuschränken.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Inhalt</strong></td> 
@@ -376,7 +376,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>Filter</strong></a></td> 
-   <td>Ein Tool, das in <strong>smart Listen</strong> verwendet wird, mit dem Sie Ihre Audience eingrenzen können (z.B. alle in Ihrer Datenbank, die in Kalifornien leben). Filter können sowohl in <strong>Batch</strong> als auch in <strong>Auslöser-Kampagnen</strong> verwendet werden.</td> 
+   <td>Ein Tool, das in <strong>smart Listen</strong> verwendet wird, mit dem Sie Ihre Audience eingrenzen können (z.B. alle in Ihrer Datenbank, die in Kalifornien leben). Filter können sowohl in den Kampagnen <strong>Batch</strong> als auch <strong>Trigger</strong> verwendet werden.</td> 
   </tr> 
   <tr> 
    <td><strong>Fluss</strong></td> 
@@ -456,7 +456,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Bekannte Person</strong></a></td> 
-   <td><p>Personendaten in der Datenbank <strong>Marketo</strong> werden als personenbezogene Daten betrachtet. Es gibt verschiedene Möglichkeiten, wie eine Person in Ihre Datenbank gelangen kann, zum Beispiel: CRM-Synchronisierung, Ausfüllen eines Formulars, Liste-Import/manuelle Eingabe, Programmierung (Rest-API/Partnerintegrationen) und mehr. Web-Besucher werden zunächst über die <strong>Munchkin</strong>-Web-Verfolgung von Marketo (und sind anonym) <strong>gekocht und anschließend beim Auftreten einer identifizierbaren Aktion dem entsprechenden Personenerfolg zugeordnet (z. B. durch Klicken auf einen verfolgten Link in einer Marketing-E-Mail, Ausfüllen eines Formulars mit der E-Mail-Adresse oder manuelles Zuordnen über Marketo Lead-APIs in <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> und <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Rest-API</a> zuordnen</strong></p></td> 
+   <td><p>Personendaten in der Datenbank <strong>Marketo</strong> werden als personenbezogene Daten betrachtet. Es gibt verschiedene Möglichkeiten, wie eine Person in Ihre Datenbank gelangen kann, zum Beispiel: CRM-Synchronisierung, Ausfüllen eines Formulars, Liste-Import/manuelle Eingabe, Programmierung (Rest-API/Partnerintegrationen) und mehr. Web-Besucher werden zunächst über die <strong>Munchkin</strong>-Web-Verfolgung von Marketo (und sind anonym) <strong>gekocht und anschließend beim Auftreten einer identifizierbaren Aktion dem entsprechenden Personenerfolg zugeordnet (z. B. durch Klicken auf einen verfolgten Link in einer Marketing-E-Mail, Ausfüllen eines Formulars mit der E-Mail-Adresse oder manuelles Zuordnen über Marketo Lead-APIs in <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> und <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Rest-API</a> zuordnen</strong></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -474,7 +474,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
     <div> 
      <p><strong>Landingpage</strong></p> 
     </div></td> 
-   <td>Eine auf dem Markt gehostete Seite, auf der Sie <strong>content</strong> anzeigen und Besucher verfolgen können. Es gibt zwei verschiedene Typen: Freiform und Guided. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Einstiegsseiten mit freiem Formular </a> ermöglichen es Ihnen, den gewünschten Inhalt zu verschieben und dort abzulegen, wo Sie möchten. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Einstiegsseiten mit Guided </a> sind strenger, wobei ein vordefiniertes Layout/eine vordefinierte Struktur von der  <strong>Vorlage</strong> bestimmt wird.</td> 
+   <td>Eine auf dem Markt gehostete Seite, auf der Sie <strong>content</strong> anzeigen und Besucher verfolgen können. Es gibt zwei verschiedene Typen: Freiform und Guided. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Einstiegsseiten mit freiem Formular </a> ermöglichen es Ihnen, den gewünschten Inhalt zu verschieben und dort abzulegen, wo Sie möchten. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Einstiegsseiten </a> mit Guided sind strenger, wobei ein vordefiniertes Layout/eine vordefinierte Struktur von der  <strong>Vorlage</strong> bestimmt wird.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
@@ -482,7 +482,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
   </tr> 
   <tr> 
    <td><strong>Interessent</strong></td> 
-   <td>In <strong>Marketo Engage</strong> ist "Interessent"der vorherige Begriff (ersetzt durch <strong>person</strong>), mit dem eine Person in Ihrer Marketo <strong>Datenbank</strong> beschrieben wird, mit der Sie über Ihre Marketing-Kampagnen Kontakt aufnehmen. In Ihrem <strong>CRM</strong> kann ein Interessent ein anderes Konzept (d.h. eine Person, die mit einer <strong>Chance</strong> verknüpft ist) darstellen, unabhängig von Marketos Funktionalität.</td> 
+   <td>In <strong>Marketo Engage</strong> ist "Interessent"der vorherige Begriff (ersetzt durch <strong>person</strong>), der zur Beschreibung einer Person in Ihrer Marketing <strong>Datenbank</strong> verwendet wird, mit der Sie über Ihre Marketing-Kampagnen Kontakt aufnehmen. In Ihrem <strong>CRM</strong> kann ein Interessent ein anderes Konzept (d.h. eine Person, die mit einer <strong>Chance</strong> verknüpft ist) darstellen, unabhängig von Marketos Funktionalität.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Interessentendatenbank</strong></td> 
@@ -555,7 +555,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
    <td>Auch MSD genannt. Einer der beiden CRMs Marketo hat eine native Integration mit (siehe <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketos benutzerdefinierter JavaScript-Rückverfolgungscode. Er verfolgt alle Personen, die Ihre Website besuchen. Dies schließt anonyme Besucher ein (zusammen mit ihren IP-Adressen und anderen Informationen). </td> 
   </tr> 
   <tr> 
@@ -759,8 +759,8 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
    <td colspan="1"><p>Ein Authentifizierungsmechanismus, der die E-Mail-Server identifiziert, die E-Mails für eine bestimmte Domäne senden dürfen.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Intelligente Kampagne</strong></a></td> 
-   <td colspan="1">Eines der wichtigsten Werkzeuge in Marketo. Sie führen Aktionen durch, die Sie anhand von von Ihnen festgelegten Kriterien festlegen. (siehe auch <strong><a href="#b">Batch-Kampagne</a></strong> und <strong><a href="#t">Auslöser-Kampagne</a></strong>)</td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Intelligente Kampagne</strong></a></td> 
+   <td colspan="1">Eines der wichtigsten Werkzeuge in Marketo. Sie führen Aktionen durch, die Sie anhand von von Ihnen festgelegten Kriterien festlegen. (siehe auch <strong><a href="#b">Batch-Kampagne</a></strong> und <strong><a href="#t">Trigger-Kampagne</a></strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Intelligente Liste</strong></td> 
@@ -826,15 +826,15 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
    <td colspan="1">Die Spalte links in Marketo, in der Elemente in einer hierarchischen Struktur angezeigt werden. Es zeigt alles an, was sich in Ihrer Marketing-Instanz befindet (z. B. <strong>Arbeitsbereiche</strong>, <strong>Programm</strong>, <strong>lokale Elemente</strong> usw.).</td> 
   </tr> 
   <tr> 
-   <td><strong>Auslöser</strong></td> 
-   <td>Eine Aktivität oder ein Ereignis, die bzw. das die <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">Fließschritte einer auslösenden Kampagne</a> aktiviert, wenn ein bestimmtes Ereignis auftritt (z. B. wenn jemand eine Webseite besucht, auf einen Link in einer E-Mail klickt usw.). </td> 
+   <td><strong>Trigger</strong></td> 
+   <td>Eine Aktivität oder ein Ereignis, die bzw. das die <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">Fließschritte einer Trigger-Kampagne</a> aktiviert, wenn dieses Ereignis auftritt (z. B. besucht jemand eine Webseite, klickt auf einen Link in einer E-Mail usw.). </td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Auslöser-Kampagne</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Trigger Kampagne</strong></a></p> 
     </div></td> 
-   <td>Eine <strong>intelligente Kampagne</strong>, die mindestens einen Auslöser enthält.</td> 
+   <td>Eine <strong>intelligente Kampagne</strong>, die mindestens einen Trigger enthält.</td> 
   </tr> 
  </tbody> 
 </table>
