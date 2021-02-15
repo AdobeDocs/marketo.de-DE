@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: hinzufügen Single-Sign-On für ein Portal - Marketing Docs - Produktdokumentation
 title: hinzufügen Einmal-Anmeldung bei einem Portal
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 ## Senden der Anforderung {#how-to-send-the-request}
 
 * Senden Sie die SSO-Anforderung (eine SAML-Antwort) an `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Als Audiencen-URL des SP. Verwenden Sie [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Wenn Sie das Attribut SPNameQualifier verwenden, stellen Sie das Element NameID für Subject auf [http://saml.marketo.com/sp](http://saml.marketo.com/sp) ein.
-* Wenn Sie mehrere Marketing-Abonnement mit demselben SSO-Anbieter verbinden, können Sie für jedes Marketing-Unterelement eindeutige SP-URLs mit dem Format `http://saml.marketo.com/sp/<munchkin_id>` verwenden
+* Als Audiencen-URL des SP. Verwenden Sie [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Wenn Sie das Attribut SPNameQualifier verwenden, stellen Sie das Element NameID für Subject auf [https://saml.marketo.com/sp](https://saml.marketo.com/sp) ein.
+* Wenn Sie mehrere Marketing-Abonnement mit demselben SSO-Anbieter verbinden, können Sie für jedes Marketing-Unterelement eindeutige SP-URLs mit dem Format `https://saml.marketo.com/sp/<munchkin_id>` verwenden
 
 >[!NOTE]
 >
