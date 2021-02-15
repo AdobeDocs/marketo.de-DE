@@ -3,7 +3,7 @@ unique-page-id: 14352511
 description: Freigeben einer Gruppe - Marketing Docs - Produktdokumentation
 title: Freigeben einer Gruppe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Die Freigabe einer Gruppe von Interessenten oder Kontakten mit Ihrem Team ist in
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die Schaltfläche** Gruppenaktionen** und wählen Sie **Gruppe freigeben**.
+1. Klicken Sie auf die Schaltfläche **Gruppenaktionen** und wählen Sie **Gruppe freigeben**.
 
    ![](assets/three-1.png)
 
@@ -34,4 +34,3 @@ Die Freigabe einer Gruppe von Interessenten oder Kontakten mit Ihrem Team ist in
 1. Klicken Sie auf **Freigeben**.
 
    ![](assets/five-1.png)
-
