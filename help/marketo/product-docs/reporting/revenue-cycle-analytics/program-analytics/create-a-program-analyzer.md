@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: Erstellen eines Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm-Analyzer erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -79,4 +79,4 @@ Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Mar
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) und [Umsatzwyklus Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Weitere Informationen finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting) und [Umsatzwyklus Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
