@@ -3,7 +3,7 @@ unique-page-id: 37356282
 description: Massenaktionen in Salesforce Lightning - Marketing Docs - Produktdokumentation
 title: Massenaktionen im Salesforce-Blitz
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -48,4 +48,3 @@ So richten Sie Massenaktionen in Salesforce Lightning ein.
    >[!NOTE]
    >
    >Wiederholen Sie die gleichen Schritte, um Massenaktionen in der Ansicht Kontaktaufnahme mit der Liste hinzuzufügen.
-
