@@ -3,7 +3,7 @@ unique-page-id: 14352541
 description: Synchronisieren von Sales Connect-Aufgaben mit Salesforce zum ersten Mal - Marketing Docs - Produktdokumentation
 title: Aufgaben mit Salesforce zum ersten Mal synchronisieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Folgendes passiert, wenn Sie Sales Connect- und SFDC-Aufgaben synchronisieren:
 
 - Sobald Sie bei der Synchronisierung der Aufgaben auf Speichern klicken, beginnen sie zu synchronisieren. Das wird zunächst einige Zeit dauern.
 
-- Alle Erinnerungen, die in `last 24 hours` aktualisiert oder erstellt wurden, werden von SFDC zu Sales Connect abgerufen. Die Synchronisierung basiert auf `due date` und alle diese Aufgaben werden im Back-End synchronisiert, aber im Command Center werden nur noch Aufgaben angezeigt, die heute und morgen fällig sind.
+- Erinnerungen, die in den letzten 24 Stunden aktualisiert oder erstellt wurden, werden von SFDC zu Sales Connect abgerufen. Die Synchronisierung basiert auf dem Fälligkeitsdatum, und alle Aufgaben werden im Back-End synchronisiert, aber im Command Center sehen Sie nur noch die Aufgaben, die heute und morgen fällig sind.
 
 - Wenn die Synchronisierung zuvor aktiviert wurde und Sie alle Aufgaben im SFDC löschen, wird alles, was in den letzten 15 Tagen gelöscht wurde, aus dem Command Center gelöscht.
 
@@ -27,5 +27,4 @@ Folgendes passiert, wenn Sie Sales Connect- und SFDC-Aufgaben synchronisieren:
 
 Nach der anfänglichen Synchronisierung werden alle Aufgaben, die Sie in Sales Connect erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgaben-Liste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wurde, aktualisiert Ihre Aufgaben-Liste in Sales Connect.
 
-Um diese Synchronisierung zu aktivieren, markieren Sie einfach das Synchronisierungsfeld in Ihrer [Einstellungsseite](http://toutapp.com/next#settings/crm/salesforce/configure) in der Webanwendung.
-
+Um diese Synchronisierung zu aktivieren, markieren Sie einfach das Synchronisierungsfeld in Ihrer [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.
