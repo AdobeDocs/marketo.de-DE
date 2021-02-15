@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: Versionshinweise - Winter '16 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionshinweise: Winter &#39;16 {#release-notes-winter}
+# Versionshinweise: Winter &#39;17 {#release-notes-winter}
 
 Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
@@ -49,13 +49,13 @@ Um diese Funktion nutzen zu können, muss das E-Mail-Programm mindestens 12 Stun
 
 ## [Verbesserungen beim Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-Unterstützung:** Wir unterstützen jetzt Angebot PhoneGap für Ihre mobile App. [Weitere Informationen](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap-Unterstützung:** Wir unterstützen jetzt Angebot PhoneGap für Ihre mobile App. [Weitere Informationen](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Unterstützung für Sandbox-Apps**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Programm-API](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [Programm-API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Erstellen, aktualisieren und klonen Sie Programm über die REST-API. Dies umfasst nicht die Erstellung oder Aktualisierung intelligenter Listen und intelligenter Kampagnen in einem Programm.
 
@@ -77,7 +77,7 @@ Sie können jetzt viele-zu-viele Beziehungen zwischen Interessenten/Konten und e
 
 ## [Facebook-Interessentenanzeigen](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook-](https://www.facebook.com/business/a/lead-ads) Interessentenanzeigen sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf Facebook durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zu bekunden, damit das Unternehmen darauf reagieren kann. Die Integration von Marketing in Facebook-Interessentenanzeigen erfasst automatisch die Informationen, die ein Interessent im Formular für Interessentenanzeigen bereitstellt. Folgeaktionen und Benachrichtigungen können dann mit dem neuen Auslöser Facebook-Interessentenanzeigen ausgefüllt werden.
+[Facebook-](https://www.facebook.com/business/a/lead-ads) Interessentenanzeigen sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf Facebook durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zu bekunden, damit das Unternehmen darauf reagieren kann. Die Integration von Marketing in Facebook-Interessentenanzeigen erfasst automatisch die Informationen, die ein Interessent im Formular für Interessentenanzeigen bereitstellt. Folgeaktionen und Benachrichtigungen können dann mithilfe des neuen Triggers &quot;Facebook-Werbeanzeigen ausfüllen&quot;automatisiert werden.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
