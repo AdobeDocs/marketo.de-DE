@@ -3,7 +3,7 @@ unique-page-id: 4720257
 description: hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-Dienst - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen benutzerdefinierter Facebook-Audiencen als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [facebook.com](http://www.facebook.com/). Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
+1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [facebook.com](https://www.facebook.com/). Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
 
    >[!CAUTION]
    >
