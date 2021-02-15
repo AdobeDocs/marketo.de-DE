@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Integration mit Adobe Analytics - Marketing Docs - Produktdokumentation
 title: Integration mit Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
 1. Gehen Sie in Ihrem AA-Konto zu **Admin Tools**.
 1. Wählen Sie **Report Suite** aus, die für die Integration verwendet werden soll.
-1. Gehen Sie unter **Einstellungen bearbeiten** zu **Umrechnung** und wählen Sie ** [Umrechnungsvariablen](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Wählen Sie die Nummer [Umrechnungsvariable](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aus (wir empfehlen):
+1. Gehen Sie unter **Einstellungen bearbeiten** zu **Umrechnung** und wählen Sie ** [Umrechnungsvariablen](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Wählen Sie die Nummer [Umrechnungsvariable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aus (wir empfehlen):
 
    1. 
 
@@ -82,12 +82,12 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
          1. Ändern Sie &quot;Läuft ab nach&quot; in **Besuch.**
 
-1. Gehen Sie unter **Einstellungen bearbeiten **zu** Umrechnung **und wählen Sie ** [Erfolgserfolg-Ereignis](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Gehen Sie unter **Einstellungen bearbeiten **zu** Umrechnung **und wählen Sie ** [Erfolgserfolg-Ereignis](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Wählen Sie die Ereignis-Nummer des benutzerspezifischen Erfolgserfolgs-Ereignisses aus (wir empfehlen):
 
-   1. ereignis20 für RTP-Kampagnen
-   1. ereignis21 für RTP-Segmente
+   1. Ereignis20 für RTP-Kampagnen
+   1. Ereignis21 für RTP-Segmente
 
       >[!NOTE]
       >
@@ -97,7 +97,7 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
 1. Wählen Sie das Feld Typ* *aus, das **Zähler (keine Subrelationen)** sein soll.
 
-1. Gehen Sie unter **Einstellungen bearbeiten** zu ** [Traffic](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **und wählen Sie ** [Traffic-Variablen](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Gehen Sie unter **Einstellungen bearbeiten** zu ** [Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **und wählen Sie ** [Traffic-Variablen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Wählen Sie die Eigenschaftennummer der Traffic-Variablen aus (wir empfehlen):
 
@@ -183,13 +183,13 @@ Beispiele für benutzerspezifische Berichte und Dashboard in AA:
 
 **RTP-Dashboard erstellen**
 
-Erstellen Sie ein [neues Dashboard](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) mit dem Namen **RTP-Dashboard**. Dieses Dashboard hilft Ihnen, die Aufschlüsselung Ihrer Besucher nach Vertikalen und RTP-Segmenten zu verstehen.
+Erstellen Sie ein [neues Dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) mit dem Namen **RTP-Dashboard**. Dieses Dashboard hilft Ihnen, die Aufschlüsselung Ihrer Besucher nach Vertikalen und RTP-Segmenten zu verstehen.
 
 1. Klicken Sie auf **Dashboard,** auf** Hinzufügen Dashboard***
 
 1. Benennen Sie das Dashboard **RTP-Dashboard**
 1. Wählen Sie die **Dashboard-Größe** 3 x 2, 2 x 2
-1. Erstellen Sie das Reportlet [und fügen Sie dem Dashboard ](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) [Inhalte hinzu.](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)
+1. Erstellen Sie das Reportlet [und fügen Sie dem Dashboard ](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) [Inhalte hinzu.](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)
 
 Hinzufügen des Reportlets &quot;Industries&quot;zum Dashboard
 
