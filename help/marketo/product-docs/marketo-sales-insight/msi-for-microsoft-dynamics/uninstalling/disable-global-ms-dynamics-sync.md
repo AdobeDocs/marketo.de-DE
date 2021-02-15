@@ -3,9 +3,9 @@ unique-page-id: 37355596
 description: Deaktivieren Sie Global MS Dynamics Sync - Marketing Docs - Produktdokumentation
 title: Globale MS Dynamics-Synchronisierung deaktivieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,4 @@ Führen Sie diese einfachen Schritte aus, um die MS Dynamics Synchronisierung zu
 
    >[!NOTE]
    >
-   >Wenn in Ihrer Instanz keine Schaltfläche zum Deaktivieren der Synchronisierung angezeigt wird, wenden Sie sich bitte an [MarketingToSupport](http://nation.marketo.com/community/support_solutions).
-
+   >Wenn in Ihrer Instanz keine Schaltfläche zum Deaktivieren der Synchronisierung angezeigt wird, wenden Sie sich bitte an [MarketingToSupport](https://nation.marketo.com/t5/Support/ct-p/Support).
