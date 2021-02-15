@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: Filtern von Personen in einem Bericht mit einer intelligenten Liste - Marketing-Dokumente - Produktdokumentation
 title: Personen in einem Bericht mit intelligenter Liste filtern
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
 
 * [Leistung von Personen](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Personen nach Status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personen nach Umsatzstufe](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [Personen nach Umsatzstufe](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Leistung des E-Mail-Links](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Leistung des Interaktions-Streams](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
    >**Tieftauchen**
    >
    >
-   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
