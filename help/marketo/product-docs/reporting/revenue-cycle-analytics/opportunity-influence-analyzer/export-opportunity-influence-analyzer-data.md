@@ -3,7 +3,7 @@ unique-page-id: 2360394
 description: Export Opportunity Influenza Analyzer Data - Marketing to Docs - Produktdokumentation
 title: Exportchanceneinflussdaten für Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Exportchanceneinflussdaten für Analyzer {#export-opportunity-influence-analyzer-data}
 
-Um Updates von Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
+Um Updates von Ihren [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
 1. Gehen Sie zu **Analytics** und wählen Sie **Neu** **** **Neu** **Bericht** **Abonnement**.
 
@@ -51,5 +51,5 @@ Um Updates von Ihren [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/doc
 >
 >**Tieftauchen**
 >
->Sehen Sie mehr über die erweiterten Analysen von Marketo im Deep Dive unter [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Sehen Sie mehr über die erweiterten Analysen von Marketo im Deep Dive unter [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
