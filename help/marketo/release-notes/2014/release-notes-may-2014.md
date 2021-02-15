@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: Versionshinweise - Mai 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Mai 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Jeder bekommt jetzt mehrere Programm, Streams und Kommunikationsbeschränkungen.
 >
 >**Beispiel**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 Standardmäßig werden in der Textversion von E-Mails keine Links verfolgt. hinzufügen diese neue Syntax, um anzugeben, wann ein Link in einen Verfolgungslink konvertiert werden soll. Das Verhalten von HTML-Links bleibt unverändert.  So fügen Sie verfolgte Links zu Ihren E-Mails hinzu:
 
@@ -81,9 +81,9 @@ Der Umsatz-Cycle-Modellierer und der Erfolgspfad-Analyzer sind jetzt in der MA S
 
 ## Mobile Platform Info {#mobile-platform-info}
 
-[Segmentieren und ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) Auslösen von Interessenten, die E-Mails von ihren Mobilgeräten aus öffnen und anklicken.
+[Segment und ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) Auslösung von Interessenten, die E-Mails von ihren Mobilgeräten aus öffnen und anklicken.
 
 >[!NOTE]
 >
->Frühere [Marketing-Versionshinweise](http://docs.marketo.com/display/docs/release+notes)
+>Frühere [Marketing-Versionshinweise](https://docs.marketo.com/display/docs/release+notes)
 
