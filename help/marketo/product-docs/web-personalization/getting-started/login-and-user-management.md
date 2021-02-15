@@ -3,7 +3,7 @@ unique-page-id: 7513771
 description: Anmeldung und Benutzerverwaltung - Marketing Docs - Produktdokumentation
 title: Anmelden und Benutzerverwaltung
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Geben Sie einen Rollennamen ein und wählen Sie &quot;Berechtigungen&quot;. Klicken Sie auf **Create** (Diese Rolle muss [auf alle Arbeitsbereiche](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers) angewendet werden.)
+1. Geben Sie einen Rollennamen ein und wählen Sie &quot;Berechtigungen&quot;. Klicken Sie auf **Create** (Diese Rolle muss [auf alle Arbeitsbereiche](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers) angewendet werden.)
 
    ![](assets/four.png)
 
