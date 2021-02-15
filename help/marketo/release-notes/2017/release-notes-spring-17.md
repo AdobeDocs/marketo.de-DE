@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Versionshinweise - Frühjahr 17 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Frühjahr 17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -21,13 +21,13 @@ Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen
 
 [LinkedIn-Lead-Gen-](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Formulare sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf LinkedIn durchzuführen. Personen können Formulare ausfüllen, um Interesse an einem Produkt oder einer Dienstleistung zu bekunden, sodass das Unternehmen die Daten der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Aktivitäten von Interessentenanwerbung stattfinden können.
 
-Die Integration von Marketing mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Interessent im Formular der Interessentenanwerbung bereitstellt. Folgeaktionen und Benachrichtigungen können dann mithilfe des neuen Auslösers und Filters **LinkedIn-Lead-Gen-Formular** ausgefüllt werden.
+Die Integration von Marketing mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Interessent im Formular der Interessentenanwerbung bereitstellt. Folgeaktionen und Benachrichtigungen können dann mit dem neuen Trigger **LinkedIn-Interessentenformular** ausfüllen und filtern.
 
 ![](assets/release-notes-image.png)
 
 ## [MSI-Vorlage ablaufen](https://docs.marketo.com/x/VgIt) {#expire-msi-template}
 
-Die Tage der Bereinigung veralteter Vorlagen in Sales Insight sind vorbei. Legen Sie ein Ablaufdatum fest, wenn Sie Ihre E-Mail veröffentlichen, und wir werden dafür sorgen, dass die Veröffentlichung für Sie rückgängig gemacht wird, wenn das Ablaufdatum umlaufbar ist.
+Die Tage der Bereinigung veralteter Vorlagen in Sales Insight sind vorbei. Legen Sie ein Ablaufdatum fest, wenn Sie Ihre E-Mail veröffentlichen, und wir werden dafür sorgen, dass die Veröffentlichung für Sie rückgängig gemacht wird, sobald das Ablaufdatum umlaufbar ist.
 
 >[!NOTE]
 >
@@ -45,11 +45,11 @@ Die Tage der Bereinigung veralteter Vorlagen in Sales Insight sind vorbei. Legen
 
 Mit Marketo ABM können Sie jetzt bis zu 10 benutzerdefinierte Felder für Ihre benannten Konten erstellen. Sie können diese benutzerdefinierten Felder Feldern in Ihrem CRM-Kontoobjekt zuordnen, und Marketing ABM synchronisiert die Daten, sodass Sie Ihre ABM-benannten Konten erweitern und Ihr Marketing fördern können.
 
-** [Perzentile Scoring bei ABM Named Accounts](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)***
+** [Perzentile Scoring bei ABM Named Accounts](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)***
 
 Benannte Kontowerte können stark variieren. Marketo ABM errechnet nun automatisch einen Perzentil für jede Ihrer Bewertungen, sodass Sie auf einen Blick sehen können, wo jedes benannte Konto zu Ihren anderen benannten Konten gehört.
 
-** [ABM-Konto-Listen-APIs](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [ABM-Konto-Listen-APIs](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Profitieren Sie von umfassenden und robusten ABM-Partnerintegrationen mit verbesserter API-Unterstützung für Named Account-Listen.
 
