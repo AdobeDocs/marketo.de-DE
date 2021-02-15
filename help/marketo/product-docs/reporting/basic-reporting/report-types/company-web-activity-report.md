@@ -3,7 +3,7 @@ unique-page-id: 2360005
 description: Firma Web Aktivität Report - Marketing Docs - Produktdokumentation
 title: Bericht zur Web-Aktivität der Firma
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -78,4 +78,4 @@ Erstellen Sie einen [Bericht zur Aktivität der Webseite](web-page-activity-repo
 >
 >**Tieftauchen**
 >
->Erfahren Sie mehr über andere interessante Berichte im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) Deep Dive.
+>Erfahren Sie mehr über andere interessante Berichte im [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting) Deep Dive.
