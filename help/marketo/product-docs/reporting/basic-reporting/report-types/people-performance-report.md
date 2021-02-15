@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: Bericht zur Leistung von Personen - Marketing-Dokumente - Produktdokumentation
 title: Leistungsbericht für Personen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ Sie können:
 
 >[!TIP]
 >
->Denken Sie daran, dass Berichte einfach zu erstellen sind: [create](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configure](http://docs.marketo.com/display/docs/basic+reporting) und [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Machen Sie sich mit den vielen Möglichkeiten vertraut, wie Sie sie manipulieren können, um zu lernen, wie Sie sich am besten auf wichtige Daten konzentrieren können.
+>Denken Sie daran, dass Berichte einfach zu erstellen sind: [create](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configure](https://docs.marketo.com/display/docs/basic+reporting) und [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Machen Sie sich mit den vielen Möglichkeiten vertraut, wie Sie sie manipulieren können, um zu lernen, wie Sie sich am besten auf wichtige Daten konzentrieren können.
 
 >[!NOTE]
 >
 >**Tieftauchen**
 >
 >
->Weitere Informationen finden Sie im [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting)Deep Dive.
+>Weitere Informationen finden Sie im [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting)Deep Dive.
 
