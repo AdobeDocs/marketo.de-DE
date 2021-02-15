@@ -3,7 +3,7 @@ unique-page-id: 2951099
 description: Versionshinweise - April 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - April 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Versionshinweise: April 2013 {#release-notes-april}
 
-Die folgenden Funktionen sind in der April-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
+Die folgenden Funktionen sind in der April-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
 
 Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Knowledge Base-Artikel für jede Funktion zu erhalten!
 
@@ -39,7 +39,7 @@ Die Funktion für die E-Mail-Analyse wird während April und Mai während der Mi
 
 ## Programm-APIs {#program-apis}
 
-Unterstützung für Programm im SOAP API-Aufruf, einschließlich schreibgeschützter Zugriff auf Programm-Daten wie: programm Mitgliedschaft zählt, erworben von, Erfolg, Einstellungen, Kanal, Tags, Token und Kosten. Weitere Informationen finden Sie in der Dokumentation zur SOAP-API.
+Unterstützung für Programm im SOAP API-Aufruf, einschließlich schreibgeschützter Zugriff auf Programm-Daten wie: Programm Mitgliedschaft zählt, erworben von, Erfolg, Einstellungen, Kanal, Tags, Token und Kosten. Weitere Informationen finden Sie in der Dokumentation zur SOAP-API.
 
 ## ON24-Verbesserung {#on-enhancement}
 
