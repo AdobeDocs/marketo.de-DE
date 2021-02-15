@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: Eine Segmentierung bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Eine Segmentierung bearbeiten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## Segmentregeln bearbeiten {#edit-segment-rules}
 
-1. Gehen Sie im Entwurf **Segment** zu **Intelligente Liste**. Wenden Sie Regeln ähnlich wie [Definieren von Segmentregeln](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules) an.
+1. Gehen Sie im Entwurf **Segment** zu **Intelligente Liste**. Wenden Sie Regeln ähnlich wie [Definieren von Segmentregeln](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules) an.
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
