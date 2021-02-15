@@ -3,7 +3,7 @@ unique-page-id: 2359965
 description: Übersicht über Berichtstypen - Marketing-Dokumente - Produktdokumentation
 title: Berichttyp-Übersicht
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/ba
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht "Personen nach Umsatzstufe"</a>  </strong></td> 
-   <td>Grundlegender Berichte für Ihr <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzmodell</a>. Weitere Berichte finden Sie unter <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
+   <td>Grundlegender Berichte für Ihr <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzmodell</a>. Weitere Berichte finden Sie unter <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Leistung der Landingpage</a>  </strong></td> 
@@ -55,7 +55,7 @@ Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/ba
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programm-Performance</a>  </strong></td> 
-   <td>Grundlegende Programm-Metriken wie Member und success. Weitere Berichte finden Sie unter <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
+   <td>Grundlegende Programm-Metriken wie Member und success. Weitere Berichte finden Sie unter <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Firma Web Aktivität</a>  </strong></td> 
@@ -71,7 +71,7 @@ Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/ba
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Interaktions-Stream-Leistungsbericht</a> </strong></td> 
-   <td><p>Sehen Sie, wie gut Ihr <a href="http://docs.marketo.com/display/docs/drip+nurturing">Programm für Interaktionen</a> funktioniert.</p></td> 
+   <td><p>Sehen Sie, wie gut Ihr <a href="https://docs.marketo.com/display/docs/drip+nurturing">Programm für Interaktionen</a> funktioniert.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ Nicht so nützlich wie die obigen Berichtstypen, aber trotzdem verfügbar.
 >
 >**Tieftauchen**
 >
->Informationen zu allen möglichen Vorgängen in diesen Berichten finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) Tiefgang.
+>Informationen zu allen möglichen Vorgängen in diesen Berichten finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting) Tiefgang.
 
