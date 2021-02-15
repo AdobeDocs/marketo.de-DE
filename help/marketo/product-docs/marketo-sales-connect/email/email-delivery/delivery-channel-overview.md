@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: Übersicht über Versand Kanal - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Versand Kanal
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ In der Webanwendung wird Ihre Identität so angezeigt, wie Sie sie erstellt habe
 
 ## Benutzerdefinierter SMTP-Server {#custom-smtp-server}
 
-Bezahlen Sie für Ihren eigenen Server? Verwenden Sie eine Microsoft Exchange-Umgebung? Das ist eine Option für Sie. Sehen Sie sich [diese Anweisungen](http://docs.marketo.com/x/zYTS) beim Einrichten an. Wie bei Gmail-Servern, da Sales Connect Ihren Server nicht direkt verwaltet, zeichnen wir keine abgeschnittenen E-Mail-Ereignis in der Webanwendung auf.
+Bezahlen Sie für Ihren eigenen Server? Verwenden Sie eine Microsoft Exchange-Umgebung? Das ist eine Option für Sie. Sehen Sie sich [diese Anweisungen](https://docs.marketo.com/x/zYTS) beim Einrichten an. Wie bei Gmail-Servern, da Sales Connect Ihren Server nicht direkt verwaltet, zeichnen wir keine abgeschnittenen E-Mail-Ereignis in der Webanwendung auf.
