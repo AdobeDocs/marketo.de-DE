@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Telefonaufzeichnung aktivieren - MarketingToDocs - Produktdokumentation
 title: Telefonaufzeichnung aktivieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ Als Administrator können Sie die Telefonaufzeichnung für Ihre Sales Connect-An
 
    ![](assets/three.png)
 
-1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Telefonaufzeichnung selbst zu aktivieren oder zu deaktivieren, klicken Sie für alle Teammitglieder auf** Optionale Aufzeichnung. **Wenn alle Aufrufe automatisch aufgezeichnet werden sollen,** klicken Sie auf Alle Aufrufe aufzeichnen.**
+1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Call-Aufzeichnung für sich selbst zu aktivieren oder zu deaktivieren, klicken Sie auf **Optionale Aufzeichnung für alle Team-Mitglieder**. Wenn alle Aufrufe automatisch aufgezeichnet werden sollen, klicken Sie auf **Aufzeichnen aller Aufrufe**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Einstellungen für die Zustimmung von zwei Parteien](http://docs.marketo.com/x/dgC1Ag)
-
+>[Einstellungen für die Zustimmung von zwei Parteien](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
