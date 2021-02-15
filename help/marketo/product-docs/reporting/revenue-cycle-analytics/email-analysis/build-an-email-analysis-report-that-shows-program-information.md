@@ -3,7 +3,7 @@ unique-page-id: 2360409
 description: Erstellen Sie einen Bericht zur E-Mail-Analyse, der Programm-Informationen - Marketing-Dokumente - Produktdokumentation anzeigt.
 title: Erstellen eines Berichts zur E-Mail-Analyse mit Programm-Informationen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -65,5 +65,5 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
    >**Tieftauchen**
    >
    >
-   >Möchten Sie mehr über [Umsatz-Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) erfahren?
+   >Möchten Sie mehr über [Umsatz-Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) erfahren?
 
