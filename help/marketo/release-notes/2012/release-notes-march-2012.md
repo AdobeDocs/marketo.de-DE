@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: Versionshinweise - März 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - März 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Tieftauchen**
 >
->Weitere Versionen finden Sie unter [Versionshinweise](http://docs.marketo.com/display/docs/release+notes) Deep Dive.
+>Weitere Versionen finden Sie unter [Versionshinweise](https://docs.marketo.com/display/docs/release+notes) Deep Dive.
 >
 >## My Tokens {#resolve-my-tokens} auflösen
 
