@@ -3,7 +3,7 @@ unique-page-id: 7516390
 description: Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange - Marketing Docs - Produktdokumentation
 title: Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -23,11 +23,12 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 >
 >Marketo Sales Insight ist mit der Verschlüsselung der Salesforce-Plattform (Shield) kompatibel.
 
-1. Gehen Sie zur AppExchange-Seite [für Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) und klicken Sie auf **Jetzt herunterladen**.
+1. Gehen Sie zur AppExchange-Seite [für Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) und klicken Sie auf **Jetzt herunterladen**.
 
    ![](assets/one.png)
 
 1. Klicken Sie auf **Melden Sie sich bei der AppExchange** an und melden Sie sich mit Ihren Salesforce-Anmeldeinformationen an.
+
 1. Geben Sie Ihre verbundene Salesforce-Kontoanmeldung ein und klicken Sie auf **In Produktion** installieren.
 
    ![](assets/three.png)
@@ -36,7 +37,7 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
    >
    >Wenn Sie es zunächst in Ihrer Sandbox testen möchten, wählen Sie **In Sandbox** installieren.
 
-1. Lesen und akzeptieren Sie die Geschäftsbedingungen und klicken Sie dann auf** Bestätigen und Installieren**.
+1. Lesen und akzeptieren Sie die Geschäftsbedingungen und klicken Sie dann auf **Bestätigen und Installieren**.
 
    ![](assets/four.png)
 
@@ -48,7 +49,7 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 
    ![](assets/six.png)
 
-1. Vergewissern Sie sich, dass sich** Marketing Sales Insight** in den installierten Paketen befindet.
+1. Stellen Sie sicher, dass **MarketingTo Sales Insight** in den installierten Paketen enthalten ist.
 
    ![](assets/seven.png)
 
@@ -64,7 +65,7 @@ Sie müssen die App &quot;Marketo Sales Insight&quot;in Ihrem Salesforce-Abonnem
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
-1. Wenn ein Objekt nicht bereitgestellt ist, klicken Sie auf **Bearbeiten **neben dem Element.
+1. Wenn kein Objekt bereitgestellt ist, klicken Sie neben dem Element auf **Bearbeiten**.
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
@@ -76,7 +77,6 @@ Gute Arbeit! Jetzt haben Sie Marketo Sales Insight installiert und bereitgestell
 
 >[!MORELIKETHIS]
 >
->[Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>[Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
->[Konfigurieren von MarketingTo Sales Insight in Salesforce Enterprise/Unlimited](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-
+>[Konfigurieren von MarketingTo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
