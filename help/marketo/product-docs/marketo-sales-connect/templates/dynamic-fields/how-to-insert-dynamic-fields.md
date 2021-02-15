@@ -3,9 +3,9 @@ unique-page-id: 14352592
 description: So fügen Sie dynamische Felder ein - Marketing to Docs - Produktdokumentation
 title: Dynamische Felder einfügen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,12 @@ Sie können Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{first_name
 
 >[!TIP]
 >
->Das Feld &quot;first_name&quot;und &quot;Firma&quot;sind die Felder `only fields that will look to both Sales Connect and Salesforce.`. Wenn also in der [Webanwendung](http://toutapp.com/login) kein Kontakt vorhanden ist, suchen wir in Salesforce nach einem Kontakt-/Interessentendatensatz mit einer entsprechenden E-Mail-Adresse. Dann verwenden wir Informationen aus diesem Datensatz, um das Feld zu füllen.
+>Die Felder &quot;first_name&quot;und &quot;Firma&quot;sind die einzigen Felder, die sowohl auf Sales Connect als auch auf Salesforce ausgerichtet sind. Wenn also in der [Webanwendung](https://toutapp.com/login) kein Kontakt vorhanden ist, suchen wir in Salesforce nach einem Kontakt-/Interessentensdatensatz mit einer entsprechenden E-Mail-Adresse. Dann verwenden wir Informationen aus diesem Datensatz, um das Feld zu füllen.
 
 ## Dynamisches Feld in eine Vorlage {#insert-a-dynamic-field-into-a-template} einfügen
 
 1. Suchen Sie unter **Vorlagen und Kampagnen** die zu bearbeitende Vorlage und klicken Sie auf **Vorlage bearbeiten**.
+
 1. Klicken Sie auf **Dynamische Felder abschneiden**.
 
    >[!NOTE]
