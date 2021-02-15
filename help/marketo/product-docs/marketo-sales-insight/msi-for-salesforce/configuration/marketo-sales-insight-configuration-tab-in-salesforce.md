@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Registerkarte "Konfiguration von Marketo Sales Insight"in Salesforce - Marketo Docs - Produktdokumentation
 title: Registerkarte "Konfiguration von Marketo Sales Insight" in Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht spezifisch für Pro
 Wenn Sie sich dafür entscheiden, werden alle Konfigurationen im SFDC gelöscht und können nicht wiederhergestellt werden. Sie müssen alles erneut konfigurieren.
 
 ![](assets/three.png)
-
