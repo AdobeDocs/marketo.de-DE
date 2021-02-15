@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Datenschutzeinstellungen - Marketing-Dokumente - Produktdokumentation
 title: Datenschutzeinstellungen
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Marketingexperten können die Privatsphäre schützen, indem sie Benutzer mit ei
 
    >[!NOTE]
    >
-   >Die Verwendung dieses Parameters erfordert die Aktivierung von Munchkin V2. Wenden Sie sich an den [Marketing Support](http://nation.marketo.com/community/support_solutions), um die Aktivierung für Ihr Abonnement zu erhalten.
+   >Die Verwendung dieses Parameters erfordert die Aktivierung von Munchkin V2. Wenden Sie sich an den [Marketing Support](https://nation.marketo.com/community/support_solutions), um die Aktivierung für Ihr Abonnement zu erhalten.
 
 * Fügen Sie für die Web-Personalisierung (RTP) dem JavaScript Folgendes hinzu:
 
