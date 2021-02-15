@@ -3,7 +3,7 @@ unique-page-id: 27656223
 description: Installation der Salesforce-Anpassung für Professional Edition-Kunden - Marketing Docs - Produktdokumentation
 title: Installation der Salesforce-Anpassung für Professional Edition-Kunden
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Kunden mit Salesforce Professional Edition müssen die folgenden Schritte ausfü
 
 ## Guides {#guides}
 
-[Installationshandbuch für Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Installationshandbuch für Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Installationshandbuch für Salesforce-Blitze](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Installationshandbuch für Salesforce-Blitze](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
