@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: JavaScript für Content-AI - Marketing Docs - Produktdokumentation bereitstellen
 title: JavaScript für Content-AI bereitstellen
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Zur Verwendung von Predictive Content müssen Sie Ihr RTP (Web Personalization) 
 
    >[!NOTE]
    >
-   >Kopieren Sie das JavaScript-Tag &quot;Web-Personalisierung&quot;und fügen Sie es als erstes Skript in die Kopfzeile Ihrer Seiten zwischen den Tags `<head> </head>` ein. Weitere detaillierte [Implementierungsanweisungen finden Sie hier](http://docs.marketo.com/display/docs/rtp+tag+implementation) [.](http://pages2.marketo.com/rtp-implementation.html)
+   >Kopieren Sie das JavaScript-Tag &quot;Web-Personalisierung&quot;und fügen Sie es als erstes Skript in die Kopfzeile Ihrer Seiten zwischen den Tags `<head> </head>` ein. Weitere detaillierte [Implementierungsanweisungen finden Sie hier](https://docs.marketo.com/display/docs/rtp+tag+implementation) [.](https://pages2.marketo.com/rtp-implementation.html)
 
 1. Vergewissern Sie sich, dass das Tag auf allen Seiten, einschließlich Landingpages und Subdomänen, angezeigt wird. Klicken Sie dazu mit der rechten Maustaste auf Ihre `website’s` Seite. Gehen Sie in einem Webbrowser zu **Seitenquelle der Ansicht**. Suchen: &quot;RTP&quot;.
 1. Vergewissern Sie sich, dass der Tag-Umschalter auf **ON** eingestellt ist.
