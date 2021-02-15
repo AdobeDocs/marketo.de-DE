@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: Übersicht über Leistungseinblicke - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Leistungseinblicke
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Klicken Sie auf das entsprechende Symbol im Analytics-Startbildschirm, um auf Pe
 
 ## Beitrag {#contribution}
 
-Bewerten Sie den Beitrag von Marketing zum Umsatz](http://docs.marketo.com/x/QAvG)in Abhängigkeit von Kundenakquise, Einfluss, Konversion und sogar installiertem Basiswachstum.[
+Bewerten Sie den Beitrag von Marketing zum Umsatz](https://docs.marketo.com/x/QAvG)in Abhängigkeit von Kundenakquise, Einfluss, Konversion und sogar installiertem Basiswachstum.[
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ Standardmäßig spiegeln die angezeigten Daten die Leistung nach Interaktion wid
 
 ## Trend {#trend}
 
-Entdecken Sie [langfristige Trends](http://docs.marketo.com/x/QgvG), um konsistente Gewinnstrategien zu erkennen.
+Entdecken Sie [langfristige Trends](https://docs.marketo.com/x/QgvG), um konsistente Gewinnstrategien zu erkennen.
 
 ![](assets/4.png)
 
 ## Einstellungen {#settings}
 
-Klicken Sie in den Dashboards Umsatz und Pipeline auf das Symbol [Settings](http://docs.marketo.com/x/pIDS), um weitere Parameter festzulegen.
+Klicken Sie in den Dashboards Umsatz und Pipeline auf das Symbol [Settings](https://docs.marketo.com/x/pIDS), um weitere Parameter festzulegen.
 
 ![](assets/5.png)
 
