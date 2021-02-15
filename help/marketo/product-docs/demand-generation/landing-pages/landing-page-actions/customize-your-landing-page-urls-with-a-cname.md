@@ -3,7 +3,7 @@ unique-page-id: 2359746
 description: Passen Sie Ihre Landingpages-URLs mit einem CNAME - Marketing Docs - Produktdokumentation an.
 title: Passen Sie Ihre Landingpages-URLs mit einem CNAME an
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Obwohl Marketo Ihre Landingpages hostet, kann die URL komplett angepasst werden. Wie es ohne CNAME aussieht:
 
-`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+`https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
 So sollte es aussehen:
 
-`http://go.YourCompany.com/UnsubscribePage.html`
+`https://go.YourCompany.com/UnsubscribePage.html`
 
 ## Wählen Sie einen CNAME {#choose-a-cname}
 
