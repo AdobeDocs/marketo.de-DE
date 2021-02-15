@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Verwenden von URLs in "Meine Token - Marketing Docs - Produktdokumentation"
 title: Verwenden von URLs in "Meine Token"
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
 
    ![](assets/two-4.png)
 
-1. Geben Sie dem Token einen eindeutigen Namen, geben Sie eine URL ein (ohne http://) und klicken Sie auf **Speichern**.
+1. Geben Sie dem Token einen eindeutigen Namen, geben Sie eine URL ein (ohne https://) und klicken Sie auf **Speichern**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, geben Sie **nicht** in den Wert des Tokens http:// ein.
+   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, geben Sie **nicht** in den Wert des Tokens https:// ein.
 
 1. Wählen Sie die E-Mail in Ihrem Programm aus.
 
@@ -43,7 +43,7 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
 
    ![](assets/six-1.png)
 
-1. Geben Sie an beliebiger Stelle in Ihrer E-Mail &quot;http://&quot;(ohne nach dem Verlassen eines Leerzeichens) ein und klicken Sie auf das Symbol &quot;Token einfügen&quot;.
+1. Geben Sie an beliebiger Stelle in Ihrer E-Mail &quot;https://&quot;(ohne nach dem Verlassen eines Leerzeichens) ein und klicken Sie auf das Symbol &quot;Token einfügen&quot;.
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
 
    ![](assets/eight.png)
 
-1. Markieren Sie http:// und Token und drücken Sie dann Strg/Cmd+X (Strg = Windows/Cmd = Mac), um den Text zu schneiden.
+1. Markieren Sie https:// und Token und drücken Sie dann Strg/Cmd+X (Strg = Windows/Cmd = Mac), um den Text zu schneiden.
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einz
 
    ![](assets/twelve.png)
 
-   Und du bist fertig! Ihre URL wird nach dem Senden gefüllt, und dank Ihrer http:// vor dem Token wird ein nachverfolgbarer Link erzeugt.
+   Und du bist fertig! Ihre URL wird nach dem Senden gefüllt, und dank Ihrer https:// vor dem Token wird ein nachverfolgbarer Link erzeugt.
