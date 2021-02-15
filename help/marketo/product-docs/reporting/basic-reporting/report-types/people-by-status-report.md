@@ -3,7 +3,7 @@ unique-page-id: 2360012
 description: Bericht "Personen nach Status"- "Marketing-Dokumente"- Produktdokumentation
 title: Personen nach Statusbericht
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -38,5 +38,5 @@ ht-degree: 0%
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie, wie Sie Spalten und mehr in den tiefen Tauchgang [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) hinzufügen.
+   >Erfahren Sie, wie Sie Spalten und mehr in den tiefen Tauchgang [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting) hinzufügen.
 
