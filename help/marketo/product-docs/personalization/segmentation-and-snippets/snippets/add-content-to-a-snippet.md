@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: hinzufügen von Inhalten in ein Snippet - Marketing Docs - Produktdokumentation
 title: hinzufügen von Inhalten in ein Snippet
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Sie können einem Snippet drei Inhaltstypen hinzufügen.
 
    >[!NOTE]
    >
-   >Sie können Ihre eigenen Bilder oder Dateien zu Marketo hinzufügen. Erfahren Sie mehr über [Bilder und Dateien](http://docs.marketo.com/display/docs/images+and+files).
+   >Sie können Ihre eigenen Bilder oder Dateien zu Marketo hinzufügen. Erfahren Sie mehr über [Bilder und Dateien](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Wählen Sie das zu verwendende **Bild** aus und klicken Sie auf **Einfügen**.
 
