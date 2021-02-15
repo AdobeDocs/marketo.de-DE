@@ -3,7 +3,7 @@ unique-page-id: 10100397
 description: Informationen zu In-App-Nachrichten - Marketing-Dokumente - Produktdokumentation
 title: Informationen zu In-App-Nachrichten
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Verwenden Sie In-App-Nachrichten, um direkt mit Ihren Kunden in Verbindung zu tr
 >
 >Beispiel 1: Beim Öffnen der App wird die Promo &quot;Summer Sale&quot;angezeigt.
 >
->Beispiel 2: Während Sie sich ein medizinisches Video ansehen, planen Sie einen Arztbesuch und es löst einen Gutschein von 40 USD aus.
+>Beispiel 2: Während Sie sich ein medizinisches Video ansehen, planen Sie einen Arztbesuch und es wird ein Gutschein von 40 USD Trigger.
 
 Bevor Sie In-App-Nachrichten für Ihre mobile App erstellen und senden können, benötigen Sie Ihren Marketing Admin- und Mobile-Apps-Entwickler, um einige Setups durchzuführen.  Die Erstellung von In-App-Nachrichten erfolgt in drei Schritten:
 
@@ -33,18 +33,18 @@ Die Entwickler von Marketo Admin und mobilen Apps arbeiten zusammen, um Sie einz
 
 ## Schritt 2: Erstellen einer In-App-Nachricht {#step-create-an-in-app-message}
 
-Mit dem Online-Editor können Sie [eine In-App-Nachricht](http://docs.marketo.com/display/docs/create+an+in-app+message) erstellen.
+Mit dem Online-Editor können Sie [eine In-App-Nachricht](https://docs.marketo.com/display/docs/create+an+in-app+message) erstellen.
 
 ## Schritt 3: Schicken! {#step-send}
 
-Sie erstellen ein Programm zu [senden Sie die Nachricht](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Sie erstellen ein Programm zu [senden Sie die Nachricht](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Du bist unterwegs.
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer In-App-Nachricht](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Erstellen einer In-App-Nachricht](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
-* [In-App-Nachricht senden](http://docs.marketo.com/display/docs/send+your+in-app+message)
+* [In-App-Nachricht senden](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
