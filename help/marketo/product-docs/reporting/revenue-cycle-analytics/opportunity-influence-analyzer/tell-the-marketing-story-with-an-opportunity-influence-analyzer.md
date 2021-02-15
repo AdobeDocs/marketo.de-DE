@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: Erzählen Sie die Marketing Story mit einem Einflussanalysator - Marketing Docs - Produktdokumentation
 title: Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Verwenden Sie einen Einflussanalysator für Chancen, um die Rolle des Marketing 
 
    * s ![—](assets/image2014-10-3-13-3a44-3a9.png)
 
-      &quot;**Binder-Symbole** geben die Erfolge von [Programm](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) an.
+      &quot;**Binder-Symbole** geben [Programm](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) Erfolge an.
 
    * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalendersymbole** gibt an, dass [Ereignis](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) erfolgreich ist.
 
@@ -83,6 +83,6 @@ Verwenden Sie einen Einflussanalysator für Chancen, um die Rolle des Marketing 
 
 
 
-   * [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting)
+   * [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting)
 
 
