@@ -3,7 +3,7 @@ unique-page-id: 2360240
 description: Konfigurieren eines Einflussanalysators - Marketing Docs - Produktdokumentation
 title: Einen Einflussanalysator für Chancen konfigurieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Nachdem Sie [einen Einflussanalysator für eine Chance ](create-an-opportunity-i
 
 >[!NOTE]
 >
->Weitere Analyzer finden Sie unter [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Weitere Analyzer finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
 >[!MORELIKETHIS]
 >
