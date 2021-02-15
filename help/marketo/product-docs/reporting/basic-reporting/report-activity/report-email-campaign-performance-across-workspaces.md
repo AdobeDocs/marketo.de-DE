@@ -3,7 +3,7 @@ unique-page-id: 2360055
 description: Bericht-E-Mail, Kampagne-Performance über Arbeitsbereiche - Marketing-Dokumente - Produktdokumentation
 title: Bericht-E-Mail, Kampagne-Leistung auf allen Arbeitsbereichen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -48,5 +48,5 @@ Schalten Sie den globalen Berichte ein, um Daten aus allen Ihren Marketing-to-Wo
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Erfahren Sie mehr über Berichte in [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting) .
 
