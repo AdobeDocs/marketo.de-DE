@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: Verwenden Sie einen WebHook in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
 title: Verwenden eines Webhofs in einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Verwenden Sie einen WebHaken in einer intelligenten Kampagne {#use-a-webhook-in-a-smart-campaign}
 
-Um einen [webaken](http://developers.marketo.com/documentation/webhooks/) zu verwenden, fügen Sie ihn einer [smart Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) als Fließaktion hinzu.
+Um einen [webaken](https://developers.marketo.com/documentation/webhooks/) zu verwenden, fügen Sie ihn einer [intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) als Fließaktion hinzu.
 
 >[!AVAILABILITY]
 >
