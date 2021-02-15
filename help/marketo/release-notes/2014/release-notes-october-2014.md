@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: Versionshinweise - Oktober 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Oktober 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Verwenden Sie die API, um neue Aktivitäten oder Änderungen an Interessenten ab
 * Abrufen von Aktivitäten
 * Paging-Token abrufen
 
-Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](http://developers.marketo.com/documentation/rest/) verfügbar.
+Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](https://developers.marketo.com/documentation/rest/) verfügbar.
 
 ## MSI - Senden von Marketo E-Mail an Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -60,7 +60,7 @@ Das Dashboard wurde jetzt erweitert und enthält nun weitere Daten auf einen Bli
 
 ## RTP - Neue Mobilvorlagen für Kampagnen {#rtp-new-mobile-templates-for-campaigns}
 
-Erstellen Sie mit diesen neuen Vorlagen schnell und einfach mobile Kampagnen[.](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
+Erstellen Sie mit diesen neuen Vorlagen schnell und einfach mobile Kampagnen](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md).[
 
 ## RTP - User Context API {#rtp-user-context-api}
 
@@ -70,5 +70,5 @@ Verwenden Sie einen neuen Aufruf, der den Verlauf des letzten Besuchs des Besuch
 * Produkte, die
 * Welche RTP-Kampagnen sie gesehen haben
 
-Ausführliche Informationen finden Sie unter [developer.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+Ausführliche Informationen finden Sie unter [developer.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
