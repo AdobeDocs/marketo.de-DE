@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Verstehen von prädiktiven Inhalten - Marketing-Dokumente - Produktdokumentation
 title: Verstehen von prädiktiven Inhalten
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Die Filterung der Analyse aktivierter Inhalte gibt Ihnen die Möglichkeit zu seh
 
 ## Ansicht Table Data for Predictive Content {#view-table-data-for-predictive-content}
 
-In der Tabelle können Sie von links nach rechts Ansichten darüber vornehmen, welche Quellen für Prognoseinhalte aktiviert sind: Empfehlungsleiste, E-Mail und Rich Media. Aktivierte Quellen werden grün angezeigt. Sie aktivieren diese, wenn Sie [den Inhalt](http://docs.marketo.com/display/docs/edit+predictive+content) bearbeiten.
+In der Tabelle können Sie von links nach rechts Ansichten darüber vornehmen, welche Quellen für Prognoseinhalte aktiviert sind: Empfehlungsleiste, E-Mail und Rich Media. Aktivierte Quellen werden grün angezeigt. Sie aktivieren diese, wenn Sie [den Inhalt](https://docs.marketo.com/display/docs/edit+predictive+content) bearbeiten.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ Bewegen Sie den Mauszeiger über die Leiste in der Spalte &quot;Konversionsrat&q
 
 >[!MORELIKETHIS]
 >
->* [Predictive Content](http://docs.marketo.com/display/docs/predictive+content)
->* [Predictive Content bearbeiten](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Predictive Content](https://docs.marketo.com/display/docs/predictive+content)
+>* [Predictive Content bearbeiten](https://docs.marketo.com/display/docs/edit+predictive+content)
 
