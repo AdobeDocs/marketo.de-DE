@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: Kampagne-E-Mail-Leistungsbericht - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Kampagne-E-Mail-Leistung
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Kampagne-E-Mail-Leistungsbericht {#campaign-email-performance-report}
 
-Um Ihre E-Mail-Leistungsstatistiken nach [smart Kampagne](http://docs.marketo.com/display/docs/smart+campaigns) gruppiert anzuzeigen, führen Sie einen Bericht zur Kampagne E-Mail-Leistung aus.
+Um Ihre E-Mail-Leistungsstatistiken nach [smart Kampagne](https://docs.marketo.com/display/docs/smart+campaigns) gruppiert anzuzeigen, führen Sie einen Bericht zur Kampagne E-Mail-Leistung aus.
 
 1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Typ  **Kampagne E-Mail-** [Performance](report-type-overview.md).
 1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
@@ -53,5 +53,5 @@ Um Ihre E-Mail-Leistungsstatistiken nach [smart Kampagne](http://docs.marketo.co
    >**Tieftauchen**
    >
    >
-   >Weitere Informationen finden Sie unter [Grundlegender Berichte.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Weitere Informationen finden Sie unter [Grundlegender Berichte.](https://docs.marketo.com/display/docs/basic+reporting)
 
