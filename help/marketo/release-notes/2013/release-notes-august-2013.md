@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: Versionshinweise - August 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - August 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Versionshinweise: August 2013 {#release-notes-august}
 
-Die folgenden Funktionen sind in der Version vom August 2013 enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php), um die Funktionsverfügbarkeit zu ermitteln.
+Die folgenden Funktionen sind in der Version vom August 2013 enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php), um die Funktionsverfügbarkeit zu ermitteln.
 
 Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Artikel der Wissensdatenbank für jede neue Funktion zu erhalten!
 
@@ -49,9 +49,9 @@ Verwenden Sie diese [neuen Token](../../product-docs/email-marketing/general/usi
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## Automatische Kampagne-Bereinigung für Auslöser {#automatic-trigger-campaign-cleanup}
+## Automatische Trigger-Kampagne-Bereinigung {#automatic-trigger-campaign-cleanup}
 
-Marketo benachrichtigt Sie nun regelmäßig und deaktiviert automatisch auslösende Kampagnen, die in den letzten sechs Monaten noch nicht ausgeführt wurden.[](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
+Marketo benachrichtigt Sie nun regelmäßig und deaktiviert automatisch die Kampagnen des Triggers](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md), die in den letzten sechs Monaten noch nicht ausgeführt wurden.[
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
