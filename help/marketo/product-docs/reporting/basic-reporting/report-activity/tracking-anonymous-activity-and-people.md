@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: Verfolgung anonymer Aktivitäten und Personen - Marketing Docs - Produktdokumentation
 title: Verfolgung anonymer Aktivitäten und Personen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ Wenn jemand zum ersten Mal eine Marketo [Landingpage](../../../../product-docs/d
    Eine anonyme Aktivität wird zu einer neuen oder vorhandenen Person zusammengeführt, wenn eine Person:
 
    * Klicken Sie auf einen [Link in einer Marketing-E-Mail](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Füllt ein Marketo [form](http://docs.marketo.com/display/docs/forms) aus.
-   * Verwendet die [REST-API](http://developers.marketo.com/rest-api/lead-database/leads/) oder die [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)-API (für Entwickler) von Marketo, um eine anonyme Aktivität mit einem bekannten Datensatz zu verknüpfen.
+   * Füllt ein Marketo [form](https://docs.marketo.com/display/docs/forms) aus.
+   * Verwendet die [REST-API](https://developers.marketo.com/rest-api/lead-database/leads/) oder die [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)-API (für Entwickler) von Marketo, um eine anonyme Aktivität mit einem bekannten Datensatz zu verknüpfen.
 
    Ein Name in der Datenbank kann mit vielen Cookies verknüpft sein, da Benutzer Ihre Site oft mit verschiedenen Geräten und Browsern besuchen.
 
@@ -50,5 +50,5 @@ Wenn jemand zum ersten Mal eine Marketo [Landingpage](../../../../product-docs/d
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Erfahren Sie mehr über [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
