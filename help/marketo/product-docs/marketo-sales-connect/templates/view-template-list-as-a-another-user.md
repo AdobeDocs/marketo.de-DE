@@ -3,7 +3,7 @@ unique-page-id: 18317369
 description: Ansicht Template Liste als anderer Benutzer - Marketing Docs - Produktdokumentation
 title: Liste einer Vorlage für eine Ansicht als anderer Benutzer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Als Administrator können Sie Vorlagen als beliebige Ansichten verwenden.
    >[!NOTE]
    >
    >Sie können auch Filter oder die Suchfunktion zusammen mit der Ansicht Wie Ansicht, was für Sie am relevantesten ist.
-
