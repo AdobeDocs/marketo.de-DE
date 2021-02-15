@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: So protokollieren Sie E-Mails an andere CRMs - Marketing Docs - Produktdokumentation
 title: So protokollieren Sie E-Mails mit anderen CRMs
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Wenn Ihr CRM-System Ihnen eine BCC-Adresse zur Verfügung stellt, können Sie de
 
 ## CRMs, die wir mit {#crms-we-integrate-with} integrieren
 
-**`Almost every CRM`**:
+**Fast jedes CRM**:
 
-* Unsere `auto-BCC`* *Funktion funktioniert mit fast allen CRMs Record-E-Mails, die Sie mit Sales Connect an Ihre Kontakte gesendet haben. Stellen Sie sicher, dass Ihr CRM Ihrer Wahl Ihnen eine BCC-Adresse zur Verfügung stellt, um dies zu nutzen.
+* Unsere auto-BCC Funktion funktioniert mit fast allen CRMs Record-E-Mails, die Sie mit Sales Connect an Ihre Kontakte gesendet haben. Stellen Sie sicher, dass Ihr CRM Ihrer Wahl Ihnen eine BCC-Adresse zur Verfügung stellt, um dies zu nutzen.
 
-**`Salesforce`**:
+**Salesforce**:
 
 * Wir machen alles oben und mehr!
 
@@ -34,4 +34,3 @@ Wenn Ihr CRM-System Ihnen eine BCC-Adresse zur Verfügung stellt, können Sie de
 1. Klicken Sie auf **Speichern** und Ihre BCC-Adresse wird in Sales Connect gespeichert.
 
    E-Mails werden nun über BCC bei Ihrem CRM-System protokolliert.
-
