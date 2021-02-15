@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: Performance Insight-Beitragsübersicht - Marketing-Dokumente - Produktdokumentation
 title: Leistungsindikatoren - Beitragsübersicht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In die
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [First Touch und Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Erfahren Sie mehr über [First Touch und Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Wählen Sie aus, für welchen Zeitraum Metriken angezeigt werden sollen. In diesem Beispiel betrachten wir das aktuelle Jahr (bis heute).   ![](assets/3-1.png)
 
