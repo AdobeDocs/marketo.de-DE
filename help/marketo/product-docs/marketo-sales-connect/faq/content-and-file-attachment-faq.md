@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: Häufig gestellte Fragen zu Inhalten und Dateianlagen - Marketing-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zu Inhalten und Dateianlagen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Inhalte können von jedem Benutzer, der Vorlagen erstellen kann, in das Sales Co
 Benutzer können eigene Vorlagen erstellen und diese vom Team organisieren. Erstellen Sie dazu über die Seite &quot;Teamverwaltung&quot;ein Team. Wenn Ihr Team dann Vorlagen/Playbooks/Gruppen freigeben soll, können sie nur diese Gruppen teilen, nicht das gesamte Abonnement der Benutzer.
 
 Inhalte können innerhalb der Organisation freigegeben werden.
-
