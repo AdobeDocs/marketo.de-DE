@@ -3,7 +3,7 @@ unique-page-id: 14746594
 description: Einrichten eines SMTP-Servers - Marketing Docs - Produktdokumentation
 title: Einrichten eines SMTP-Servers
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Sie ermöglicht es Ihnen, den Ruf Ihrer Firma zu nutzen und sich nicht auf ander
 
 **Wie sendet Sales Connect mit meinem SMTP-Server?**
 
-Indem Sie [diese Schritte](http://docs.marketo.com/x/ZgPh) befolgen.
+Indem Sie [diese Schritte](https://docs.marketo.com/x/ZgPh) befolgen.
 
 ![](assets/1.png)
 
@@ -52,7 +52,7 @@ Nachteile
 * Jeder Benutzer muss dies selbst einrichten
 * Das Ändern des O365-Kennworts eines Benutzers führt zu einer fehlerhaften Verbindung.
 
-Wenn Sie Office365 oder Exchange Online verwenden, können Sie eine Verbindung zu Ihrem SMTP-Server herstellen, indem Sie einen Standardberechtigungssatz verwenden. Denken Sie daran, dass Office365 kein Massen-E-Mail-Versand-Service ist, auch wenn dies für das Senden von einmaligen E-Mails gut funktioniert. Beim Senden von Massen-E-Mails kann Office365 Ihre E-Mails drosseln, was zu einem fehlgeschlagenen Versand führen kann. Weitere Informationen zu diesem Thema finden Sie im Microsoft-Artikel [wie Sie die SMTP-Clientübermittlung einrichten](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
+Wenn Sie Office365 oder Exchange Online verwenden, können Sie eine Verbindung zu Ihrem SMTP-Server herstellen, indem Sie einen Standardberechtigungssatz verwenden. Denken Sie daran, dass Office365 kein Massen-E-Mail-Versand-Service ist, auch wenn dies für das Senden von einmaligen E-Mails gut funktioniert. Beim Senden von Massen-E-Mails kann Office365 Ihre E-Mails drosseln, was zu einem fehlgeschlagenen Versand führen kann. Weitere Informationen zu diesem Thema finden Sie im Microsoft-Artikel [wie Sie die SMTP-Clientübermittlung einrichten](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
 
 &quot;Sie können nur von einer E-Mail-Adresse aus senden, wenn Ihr Gerät Anmeldeinformationen für mehrere Office 365-Postfächer speichern kann. Office 365 sieht eine Beschränkung von 30 Nachrichten pro Minute und eine Beschränkung von 10.000 Empfängern pro Tag vor.&quot;
 
