@@ -3,7 +3,7 @@ unique-page-id: 13795536
 description: Erstellen eines Segments mithilfe einer statischen Liste - Marketing Docs - Produktdokumentation
 title: Erstellen eines Segments mithilfe einer statischen Liste
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Erstellen eines Segments mit einer statischen Liste {#create-a-segment-using-a-static-list}
 
-Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo [statischen Listen](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists) befinden.
+Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo [statischen Listen](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists) befinden.
 
 1. Gehen Sie zu **Segmente**.
 
