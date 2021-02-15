@@ -2,7 +2,7 @@
 title: my-token-link
 description: Mein Token-Link
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -37,7 +37,7 @@ So richten Sie ein Link-Token für die Verwendung in Ihren Programmen und Kampag
 
    >[!NOTE]
    >
-   >Wenn &quot;inklusive mkt_tok&quot;aktiviert ist, zeigt Marketo eine Link-Vorschau der Markenverfolgungsdomäne an (z. B. http://mkto-sjqe3355.com/mn/...). Wenn Sie dieses Kontrollkästchen deaktivieren, wird der Link geändert. Wenn Sie die Linktracking für E-Mails oder Landingpages deaktivieren, wird >die URL auf die Standardlänge gekürzt (z. B. www.examplepage.com).
+   >Wenn &quot;inklusive mkt_tok&quot;aktiviert ist, zeigt Marketo eine Link-Vorschau der Markenverfolgungsdomäne an (z. B. https://mkto-sjqe3355.com/mn/...). Wenn Sie dieses Kontrollkästchen deaktivieren, wird der Link geändert. Wenn Sie die Linktracking für E-Mails oder Landingpages deaktivieren, wird >die URL auf die Standardlänge gekürzt (z. B. www.examplepage.com).
 
 1. Optional können Sie unter [!UICONTROL Erweitert] Ihren Link mit CSS anpassen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
