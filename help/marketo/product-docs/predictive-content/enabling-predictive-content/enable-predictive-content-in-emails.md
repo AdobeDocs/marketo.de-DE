@@ -3,7 +3,7 @@ unique-page-id: 11385020
 description: Predictive Inhalte in E-Mails aktivieren - Marketing-Dokumente - Produktdokumentation
 title: Predictive Inhalte in E-Mails aktivieren
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Im Folgenden finden Sie ein Beispiel dafür, wie der Code aussehen sollte (dies 
 **Beispiel**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
 <a><img style="border:10px solid red;"></a>  
 </div>
 ```
