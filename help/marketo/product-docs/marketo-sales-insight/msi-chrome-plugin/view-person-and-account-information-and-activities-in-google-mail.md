@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Ansicht und Kontoinformationen und Aktivitäten in Google Mail - Marketing Docs - Produktdokumentation
 title: Ansicht Person und Kontoinformationen und Aktivitäten in Google Mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Klicken Sie auf das Symbol &quot;Markieren&quot;, um den Bereich zu erweitern.
 
 ## Aktivitäten der Ansicht in Google Chrome {#view-activities-in-google-chrome}
 
-Sie können auch den Bereich &quot;Globale Aktivität&quot;in Google Chrome verwenden, um eine vollständige Liste der neuesten Aktivitäten zu sehen, die für alle Personen aufgetreten sind, mit denen Sie kürzlich eine Korrespondenz erstellt haben. Dies ist ein in Echtzeit aktualisierter Feed, der kontinuierlich die Anzahl der ungelesenen Aktivitäten auf dem Symbol anzeigt.
+Sie können auch das Fenster &quot;Globale Aktivität&quot;in Google Chrome verwenden, um eine vollständige Liste der neuesten Aktivitäten zu sehen, die für alle Personen aufgetreten sind, mit denen Sie kürzlich eine Korrespondenz erstellt haben. Dies ist ein in Echtzeit aktualisierter Feed, der kontinuierlich die Anzahl der ungelesenen Aktivitäten auf dem Symbol anzeigt.
 
 Klicken Sie auf das Symbol &quot;Markieren&quot;, um den Bereich zu öffnen.
 
@@ -49,5 +49,4 @@ Klicken Sie auf das Symbol &quot;Markieren&quot;, um den Bereich zu öffnen.
 
 >[!MORELIKETHIS]
 >
->[Verwenden von Marketo Insights für Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Verwenden von Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
