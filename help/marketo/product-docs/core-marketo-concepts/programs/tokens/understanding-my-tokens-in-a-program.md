@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: Einführung zu meinen Token in einem Programm - Marketing Docs - Produktdokumentation
 title: Meine Token in einem Programm
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>Email-Skript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. Weitere Informationen <a href="http://developers.marketo.com/documentation/email-scripting/" title="Link" rel="nofollow">hier</a>. </td> 
+   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. Weitere Informationen <a href="https://developers.marketo.com/documentation/email-scripting/" title="Link" rel="nofollow">hier</a>. </td> 
   </tr> 
   <tr> 
    <td>Number<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
