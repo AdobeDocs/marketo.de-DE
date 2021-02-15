@@ -3,9 +3,9 @@ unique-page-id: 7516460
 description: Bereiten Sie Sales Insight für mehrsprachige Unterstützung in Salesforce - Marketing Docs - Produktdokumentation vor.
 title: Vorbereitung von Sales Insight für mehrsprachige Unterstützung in Salesforce
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,13 @@ Marketo Sales Insight wird nach Sprache gespeichert. Wenn Sie also möchten, das
 >
 Jede andere Sprache ist standardmäßig Englisch.
 
-1. Hinzufügen einer neuen Sprache für MarketingTo Sales Insight
+## Hinzufügen einer neuen Sprache für MarketingTo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
+
 1. Melden Sie sich bei Salesforce an. Klicken Sie in der Dropdown-Liste unter Ihrem Namen in der oberen rechten Ecke auf **Setup**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klicken Sie unter** Meine persönlichen Informationen** auf **Persönliche Informationen**.
+1. Klicken Sie unter **Meine persönlichen Informationen** auf **Persönliche Informationen**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -52,11 +53,11 @@ Jede andere Sprache ist standardmäßig Englisch.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Klicken Sie auf **Konfigurieren von MarketingTo Sales Insight **(in der ausgewählten Sprache).
+1. Klicken Sie auf **MarketingTo Sales Insight** konfigurieren (in der ausgewählten Sprache).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Geh nach Marketo. Suchen Sie die [Marketing-to-Sales Insight **API-Konfiguration** Details](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
+1. Geh nach Marketo. Suchen Sie die [Marketing-to-Sales-Insight **API-Konfiguration** Details](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -72,11 +73,11 @@ Wenn Sie mit der Anpassung Ihrer Salesforce-Organisation fertig sind, hier erfah
 >
 >Die folgenden Screenshots sind in französischer Sprache mit Anweisungen in englischer Sprache verfügbar.  Es werden dieselben Bildschirme mit Text in der Sprache angezeigt, die Sie im vorherigen Schritt ausgewählt haben.
 
-1. Klicken Sie unter Ihrem Namen auf Setup.
+1. Klicken Sie unter Ihrem Namen auf **Setup**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klicken Sie unter **Meine persönlichen Informationen** unter &lt;a2/>Meine persönlichen Informationen **auf**.
+1. Klicken Sie unter **Meine persönlichen Informationen** unter Meine persönlichen Informationen **auf**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
@@ -89,4 +90,3 @@ Wenn Sie mit der Anpassung Ihrer Salesforce-Organisation fertig sind, hier erfah
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
    Jetzt ist Ihre Salesforce wieder auf Englisch!
-
