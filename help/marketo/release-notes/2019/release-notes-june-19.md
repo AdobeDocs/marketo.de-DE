@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: Versionshinweise - 19. Juni - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juni 19
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 
 >[!CAUTION]
 >
->Ab dem 18. Juni 2019 ist E-Mail 1.0 nicht mehr verfügbar. Weitere Informationen zu Email 2.0 und der Vernichtung von Email 1.0 [finden Sie hier](http://nation.marketo.com/docs/DOC-7038).
+>Ab dem 18. Juni 2019 ist E-Mail 1.0 nicht mehr verfügbar. Weitere Informationen zu Email 2.0 und der Vernichtung von Email 1.0 [finden Sie hier](https://nation.marketo.com/docs/DOC-7038).
 
 ## Kontobasiertes Marketing {#account-based-marketing}
 
@@ -66,7 +66,7 @@ MarketingTo Sales Connect
 ## Bizibel von Marketo {#bizible-by-marketo}
 
 * **Unterstützung mehrerer Währungen für Dynamik**: Bizible passt sich jetzt an Microsoft Dynamics Währungstabellen an, sodass Sie einfach zwischen Unternehmens- und lokalen Währungen wechseln können. (Hinweis: Die Unterstützung für das SFDC wurde im 1. Quartal 2019 veröffentlicht.)
-* **Drift-Integration**: Verstehen Sie, wie Drift-Gespräche die Reise Ihres Kunden beeinflussen. Bizible ruft auch E-Mail-Adressen aus Gesprächen ab, um entweder einen neuen Interessenten zu erstellen oder den Touchpoint mit einem vorhandenen Interessenten zu verbinden.
-* **Lokale Anpassung**: Bizible ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
+* **Drift-Integration**: Verstehen Sie, wie Drift-Konversationen die Journey Ihres Kunden beeinflussen. Bizible ruft auch E-Mail-Adressen aus Gesprächen ab, um entweder einen neuen Interessenten zu erstellen oder den Touchpoint mit einem vorhandenen Interessenten zu verbinden.
+* **lokale Anpassung**: Bizible ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
 ***Produktversion*** WebinarSchauen Sie sich die Aufzeichnung unseres Webinars zu Release Innovations vom 19. Juni  [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.
