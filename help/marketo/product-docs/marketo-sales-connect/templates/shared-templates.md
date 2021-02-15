@@ -3,7 +3,7 @@ unique-page-id: 14352503
 description: Freigegebene Vorlagen - Marketing-Dokumente - Produktdokumentation
 title: Freigegebene Vorlagen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -19,9 +19,8 @@ Wenn Sie eines unserer Teamkonten verwenden, sind alle Ihre Vorlagen immer noch 
 
 ## Suchen nach freigegebenen Vorlagen {#how-to-find-shared-templates}
 
-Vorlagen, die für Sie freigegeben wurden, werden unter der Überschrift **Teamvorlagen **links auf der Seite &quot;Vorlagen&quot;angezeigt.
+Vorlagen, die für Sie freigegeben wurden, werden auf der linken Seite der Seite &quot;Vorlagen&quot;unter der Überschrift **Teamvorlagen** angezeigt.
 
 >[!NOTE]
 >
 >Teams sind nur für Premium-Benutzer verfügbar.
-
