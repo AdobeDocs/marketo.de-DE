@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Deaktivieren Sie die Verfolgung für einen E-Mail-Link - Marketing Docs - Produktdokumentation
 title: Deaktivieren der Verfolgung für einen E-Mail-Link
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Manchmal möchten Sie die **Marketing-Tracking-URL** für einen Link in einer E-
    >[!TIP]
    >
    >Möchten Sie die Klick-Tracking für einen Link in einer E-Mail **template** deaktivieren? Verwenden Sie folgendes Format:
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Wenn Sie Hilfe bei der Implementierung benötigen, wenden Sie sich bitte an Ihren Webentwickler.
 
 Schön! Sie haben jetzt die Verfolgung für einen Link deaktiviert.
