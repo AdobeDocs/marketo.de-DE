@@ -3,7 +3,7 @@ unique-page-id: 2359996
 description: Sortierungsbericht über Spalten - Marketing-Dokumente - Produktdokumentation
 title: Bericht nach Spalten sortieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -44,5 +44,5 @@ Verwenden Sie Spalten, um die Daten in Ihrem Bericht zu sortieren und die wichti
    >**Tieftauchen**
    >
    >
-   >Erfahren Sie mehr über die Leistungsfähigkeit der Arbeit mit Berichten in [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Erfahren Sie mehr über die Leistungsfähigkeit der Arbeit mit Berichten in [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
