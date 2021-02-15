@@ -3,7 +3,7 @@ unique-page-id: 2949158
 description: Integration von RTP mit Google Analytics - Marketing Docs - Produktdokumentation
 title: RTP mit Google Analytics integrieren
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Erfahren Sie, wie Sie [Web-Personalisierung in Universal Analytics integrieren.]
 
 ## Einführung {#introduction}
 
-Analysieren Sie Ihre Webanalyse unter Verwendung des direkten Datenflusses von Marketing zu Echtzeit-Personalisierung (RTP) zu Ihrem Google Analytics-Konto (GA). Messen Sie Ihre Web-Besuche in GA nach Organisationen, Branchen und RTP-Kampagnen. Metriken zur Ansicht wie Industrien oder RTP-Segmente in GA und wie sie funktionieren und Interessenten gemäß verschiedenen Traffic-Quellen (Social, gebührenpflichtig, Organisch) generieren, die Analyse der Durchklickraten auf Kampagnen und die Messung der Auswirkungen von Personalisierungs-Kampagnen auf Ihrer Website. Nutzen Sie diese Möglichkeit, um den größtmöglichen Nutzen aus Ihrem RTP-Konto zu ziehen.
+Analysieren Sie Ihre Webanalyse unter Verwendung des direkten Datenflusses von Marketing zu Echtzeit-Personalisierung (RTP) zu Ihrem Google Analytics-Konto (GA). Messen Sie Ihre Web-Besuche in GA nach Organisationen, Branchen und RTP-Kampagnen. Metriken zur Ansicht wie Industrien oder RTP-Segmente in GA und wie sie funktionieren und Interessenten entsprechend verschiedenen Traffic-Quellen (Social, gebührenpflichtig, Organisch) generieren, die Analyse der Durchklickraten auf Kampagnen und die Messung der Auswirkungen von Personalisierungs-Kampagnen auf Ihrer Website. Nutzen Sie diese Möglichkeit, um den größtmöglichen Nutzen aus Ihrem RTP-Konto zu ziehen.
 
 **RTP-Audience Analytics**
 
@@ -66,7 +66,7 @@ Messen Sie Ihre RTP-Kampagnen und ordnen Sie sie Ihrem Site-Durchschnitt insgesa
 
 ## RTP mit Google Analytics {#setting-up-rtp-with-google-analytics} einrichten
 
-1. hinzufügen Sie die E-Mail [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) als Benutzer zum Lesen und Analysieren auf Ihr GA-Konto. Weitere Informationen finden Sie unter [hier](https://support.google.com/analytics/answer/2884495?hl=en).
+1. hinzufügen Sie die E-Mail [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) als Benutzer zum Lesen und Analysieren auf Ihr GA-Konto. Weitere Informationen finden Sie unter [hier](https://support.google.com/analytics/answer/2884495?hl=en).
 1. In Ihrem RTP-Konto. Gehen Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
