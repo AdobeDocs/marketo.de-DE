@@ -3,7 +3,7 @@ unique-page-id: 11381689
 description: Kontobasiertes Web-Marketing mit ABM - Marketing Docs - Produktdokumentation
 title: Kontobasiertes Webmarketing mit ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Kontobasiertes Webmarketing mit ABM {#account-based-web-marketing-with-abm}
 
-Marketo hat eine neue Anwendung [Kontobasiertes Marketing](http://docs.marketo.com/display/docs/account+based+marketing) (ABM) eingeführt.
+Marketo hat eine neue Anwendung [Kontobasiertes Marketing](https://docs.marketo.com/display/docs/account+based+marketing) (ABM) eingeführt.
 
 Wenn Sie die Marketing Web-Personalisierung und das neue kontobasierte Marketing (ABM) verwenden:
 
