@@ -3,7 +3,7 @@ unique-page-id: 11384651
 description: hinzufügen neuer Inhalt - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen neuer Inhalt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -39,5 +39,5 @@ Sie können der Seite &quot;Alle Inhalte&quot;mühelos Inhalte manuell hinzufüg
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. So fügen Sie es [Predictive Content](http://docs.marketo.com/x/Vbet) hinzu.
+1. So fügen Sie es [Predictive Content](https://docs.marketo.com/x/Vbet) hinzu.
 
