@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Vorschau und Testen einer Web-Kampagne - Marketing Docs - Produktdokumentation
 title: Vorschau und Testen einer Web-Kampagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten zur Vorschau einer Web-Ka
 
    >[!NOTE]
    >
-   >Sie haben auch die Möglichkeit, ein Browser-Plugin zu installieren (entweder [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)), um eine Vorschau Ihrer Kampagne zu erhalten. Siehe den Abschnitt unten.
+   >Sie haben auch die Möglichkeit, ein Browser-Plugin zu installieren (entweder [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)), um eine Vorschau Ihrer Kampagne zu erhalten. Siehe den Abschnitt unten.
 
 ## Vorschau einer Web-Kampagne auf der Erstellungsseite mithilfe des Browser-Plugins {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -92,7 +92,7 @@ Erstellen Sie ein Sandbox-Segment und eine Kampagne.
 1. Füllen Sie die Kampagne kreativ aus und klicken Sie auf **Starten**.\
    ![](assets/click-launch.jpg)
 
-1. Gehen Sie zu Ihrer Website und fügen Sie den URL-Parameter &quot;?sandbox=1&quot;am Ende der URL hinzu. Beispiel: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Gehen Sie zu Ihrer Website und fügen Sie den URL-Parameter &quot;?sandbox=1&quot;am Ende der URL hinzu. Beispiel: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Sehen Sie sich die Kampagne reagieren auf Ihrer Website.
 
 >[!NOTE]
