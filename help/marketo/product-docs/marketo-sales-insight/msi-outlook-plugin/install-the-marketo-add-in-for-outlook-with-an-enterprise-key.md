@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel - Marketing Docs - Produktdokumentation
 title: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Vertriebsmitarbeiter verfügen oft nicht über Administratorrechte auf ihren Lap
 
 >[!NOTE]
 >
->Wenn die Schaltfläche &quot;Enterprise-Schlüssel&quot;nicht angezeigt wird, wenden Sie sich an [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371), um sie zu aktivieren.
+>Wenn die Schaltfläche &quot;Enterprise-Schlüssel&quot;nicht angezeigt wird, wenden Sie sich an [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371), um sie zu aktivieren.
 
 1. Klicken Sie in My Marketo auf **Admin** und dann **Sales Insight.**
 
