@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: Versionshinweise - März 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - März 2014
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Wählen Sie Ihre [Marketing-Anwendungssprache](/help/marketo/product-docs/admini
 
 ## Marketing Developer-Blog {#marketo-developer-blog}
 
-Der [Marketing Developer Blog](http://developers.marketo.com/blog/) ist speziell für Webentwickler und Softwareingenieure gedacht, die die sich schnell entwickelnden Anforderungen des modernen Marketingexperten unterstützen. Sie können Ankündigungen zu neuen Integrationsoptionen, Aktualisierungen der API-Version und eine neue Reihe von Anleitungen abonnieren, die Codebeispiele und Best Practices zur Integration mit der Marketing-Plattform enthalten.
+Der [Marketing Developer Blog](https://developers.marketo.com/blog/) ist speziell für Webentwickler und Softwareingenieure gedacht, die die sich schnell entwickelnden Anforderungen des modernen Marketingexperten unterstützen. Sie können Ankündigungen zu neuen Integrationsoptionen, Aktualisierungen der API-Version und eine neue Reihe von Anleitungen abonnieren, die Codebeispiele und Best Practices zur Integration mit der Marketing-Plattform enthalten.
 
-Der [erste Artikel](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in dieser Reihe führt Sie durch, wie Sie effizient Informationen über die Personen (Kunden/Kontakte/Interessenten) abrufen können, die in Marketo mithilfe der API gespeichert werden.
+Der [erste Artikel](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in dieser Reihe führt Sie durch, wie Sie effizient Informationen über die Personen (Kunden/Kontakte/Interessenten) abrufen können, die in Marketo mithilfe der API gespeichert werden.
