@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: Installation des Marketo Outlook Plugins durch IT - Marketing Docs - Produktdokumentation
 title: Installation des Marketo Outlook Plugins durch IT
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Manchmal erfordern die Richtlinien des Unternehmens, dass sein IT-Team alle Soft
 
 >[!PREREQUISITES]
 >
->[Legen Sie ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) den Enterprise-Schlüssel fest.
+>[Legen Sie ](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) den Enterprise-Schlüssel fest.
 
 Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als Administratorkonto mit dem /i-Switch aus, um die Installation durchzuführen.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
