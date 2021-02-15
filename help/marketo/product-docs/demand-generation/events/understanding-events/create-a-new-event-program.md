@@ -3,7 +3,7 @@ unique-page-id: 2949844
 description: Erstellen eines neuen Ereignis-Programms - Marketing Docs - Produktdokumentation
 title: Neues Ereignis-Programm erstellen
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Mit Ereignissen können Sie Online- und Offline-Ereignis automatisieren! Erfasse
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Nachdem Sie Ihr Ereignis erstellt haben, erstellen Sie die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie möchten sich auch mit der [Programmplanung-Ansicht](http://docs.marketo.com/display/docs/program+schedule+view) vertraut machen.
+Nachdem Sie Ihr Ereignis erstellt haben, erstellen Sie die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie möchten sich auch mit der [Programmplanung-Ansicht](https://docs.marketo.com/display/docs/program+schedule+view) vertraut machen.
 
 >[!MORELIKETHIS]
 >
