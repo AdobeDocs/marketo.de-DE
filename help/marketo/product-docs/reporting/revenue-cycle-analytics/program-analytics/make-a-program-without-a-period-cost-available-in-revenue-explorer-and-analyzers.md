@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: Programme ohne Periodenkosten in Umsatz Explorer und Analyzers - Marketing Docs - Produktdokumentation verfügbar machen
 title: Erstellen eines Programms ohne Zeitkosten in Umsatz Explorer und Analyzers
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Programme ohne Zeitkosten in Umsatz Explorer und Analyzers {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers} verfügbar machen
 
-Die Programm-Period-Kosten ermöglichen es Ihnen, &quot;Wie viel Geld&quot;und &quot;Wann&quot;für ein Programm zu definieren. Dies wird in [Umsatz-Zyklus-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) und [Analyzer](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md) angezeigt.
+Die Programm-Period-Kosten ermöglichen es Ihnen, &quot;Wie viel Geld&quot;und &quot;Wann&quot;für ein Programm zu definieren. Dies wird in [Umsatz-Zyklus-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) und [Analyzer](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md) angezeigt.
 
 >[!NOTE]
 >
