@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: Lokale Präsenz am Verkaufssymbol - Marketing-Dokumente - Produktdokumentation
 title: Lokale Präsenz auf dem Vertriebsnetz
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Nein, lokale Präsenz funktioniert nur bei ausgehenden Anrufen. Der Anrufer kann
 
 Wir Angebot alle Verkaufstelefonfunktionen für Anrufe nur in den USA.
 
-**Ist die lokale Präsenznummer immer gleich, wenn ich einen Gebietscode aufrufe? **
+**Ist die lokale Präsenznummer immer gleich, wenn ich einen Gebietscode aufrufe?**
 
 Die Zahl ist wahrscheinlich immer gleich, wenn Sie einen Bereichscode aufrufen.
 
