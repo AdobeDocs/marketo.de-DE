@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: Versionshinweise - Juni 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juni 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Wenn Sie eine Test-E-Mail von Sales Insight senden, werden die Token in der E-Ma
 
 ## Interessentenrückleitungs-API {#lead-rest-api}
 
-Erstellen, lesen und aktualisieren Sie Interessenten programmatisch über unsere neue ReST-API. Um mit ReST beginnen zu können, müssen Sie [einen benutzerdefinierten Dienst](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo erstellen. Gehen Sie dann zur Website [Entwickler](http://developers.marketo.com/documentation/rest/), um weitere Informationen zur Verwendung dieser API zu erhalten.
+Erstellen, lesen und aktualisieren Sie Interessenten programmatisch über unsere neue ReST-API. Um mit ReST beginnen zu können, müssen Sie [einen benutzerdefinierten Dienst](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo erstellen. Gehen Sie dann zur Website [Entwickler](https://developers.marketo.com/documentation/rest/), um weitere Informationen zur Verwendung dieser API zu erhalten.
 
 ## Aktualisierung der Kampagnen-Seite für die Marketo-Echtzeit-Personalisierung (RTP) {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
