@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Setup-Schritte - Marketing-Dokumente - Produktdokumentation
 title: Einrichtungsschritte
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -262,7 +262,7 @@ Wenn wir bereits einen SPF-Datensatz in unserem DNS-Eintrag haben, fügen Sie ei
 
 include:mktomail.com
 
-`[`Ersetzen Sie  **von** Domäne durch Ihre E-Mail von Domäne (z. B.: firma.com) und  **** CorpIPmit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B.: 255 255 255 255).  Wenn Sie E-Mails von mehreren Domänen über Marketo senden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domäne (in einer Zeile) hinzufügen.`]`
+`[`Ersetzen Sie  **von** Domäne durch Ihre E-Mail von Domäne (z. B.: Firma.com) und  **** CorpIPmit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B.: 255 255 255 255).  Wenn Sie E-Mails von mehreren Domänen über Marketo senden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domäne (in einer Zeile) hinzufügen.`]`
 
 `b.` Erstellen Sie für DKIM DNS-Ressourcendatensätze für jede Domäne, die wir einrichten möchten. Nachfolgend finden Sie die Hostdatensätze und TXT-Werte für jede Domäne, für die wir unterschreiben werden:
 
@@ -330,7 +330,7 @@ Senden Sie die E-Mail an IT. Wir wissen, dass es einige Zeit dauern kann, bis di
    >
    >Diese benutzerdefinierten Vorlagen stehen nur für Launch Pack-Kunden zur Verfügung.
 
-   Wechseln Sie zum Formular [Design der Vorlage markieren und Erstellen](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Füllen Sie Ihre Firmen aus.
+   Wechseln Sie zum Formular [Design der Vorlage markieren und Erstellen](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Füllen Sie Ihre Firmen aus.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
