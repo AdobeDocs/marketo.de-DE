@@ -3,7 +3,7 @@ unique-page-id: 2359968
 description: Ändern des Berichtszeitrahmens - Marketing-Dokumente - Produktdokumentation
 title: Ändern des Berichtszeitrahmens
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -57,5 +57,5 @@ ht-degree: 0%
    >**Tieftauchen**
    >
    >
-   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
