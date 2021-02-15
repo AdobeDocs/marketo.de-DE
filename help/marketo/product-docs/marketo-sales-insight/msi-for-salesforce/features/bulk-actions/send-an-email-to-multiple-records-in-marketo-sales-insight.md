@@ -3,7 +3,7 @@ unique-page-id: 5472672
 description: Senden Sie eine E-Mail an mehrere Datensätze in MarketingTo Sales Insight - MarketingTo Docs - Produktdokumentation
 title: Senden einer E-Mail an mehrere Datensätze in Marketing an Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,17 +33,16 @@ Mit Marketo Sales Insight können Sie ganz einfach eine E-Mail an mehrere Person
 
    >[!TIP]
    >
-   >Siehst du den Knopf nicht? Vergewissern Sie sich, dass [die Schaltflächen &quot;Markieren&quot;der Ansicht &quot;Liste](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)&quot;hinzugefügt wurden.
+   >Siehst du den Knopf nicht? Vergewissern Sie sich, dass [die Schaltflächen &quot;Markieren&quot;der Ansicht &quot;Liste](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)&quot;hinzugefügt wurden.
 
-1. Fahren Sie fort und erstellen Sie Ihre E-Mail. Klicken Sie auf **Mit Marketo senden **nach Abschluss.
+1. Fahren Sie fort und erstellen Sie Ihre E-Mail. Klicken Sie nach Beendigung auf **Mit Marketo** senden.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Sie können [E-Mail bei Sales Insight veröffentlichen und aus diesen E-Mails wählen.](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+   >Sie können [E-Mail bei Sales Insight veröffentlichen und aus diesen E-Mails wählen.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
 
    >[!NOTE]
    >
    >Sie können bis zu 200 Marketing-E-Mails gleichzeitig versenden.
-
