@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: Hinzufügen einer Zielgruppen-URL zu einer Web-Kampagne - Marketing Docs - Produktdokumentation
 title: Hinzufügen einer Zielgruppen-URL zu einer Web-Kampagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Eine Zielgruppen-URL befindet sich unter der Seite &quot;Kampagne festlegen&quot
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>URL-Parameter bei Übereinstimmung einschließen</strong></p></td> 
-   <td colspan="1" rowspan="1">hinzufügen URL-Parameter, der übereinstimmen soll, und zeigt die Kampagne für URLs einschließlich dieses Parameters an. z. kampagne=cpc</td> 
+   <td colspan="1" rowspan="1">hinzufügen URL-Parameter, der übereinstimmen soll, und zeigt die Kampagne für URLs einschließlich dieses Parameters an. z. Kampagne=cpc</td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ Wenn Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) kli
 >
 >
 >* Web-Kampagnen für Dialogfeld und Widget können die Optionen &quot;Beliebige Seite&quot;und &quot;Platzhalter (*)&quot;verwenden.
-* In fortgeschrittenen Anwendungsfällen können In-Zone-Web-Kampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* In fortgeschrittenen Anwendungsfällen können In-Zone-Web-Kampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URL unterscheidet zwischen Groß- und Kleinschreibung
 
 
@@ -75,7 +75,7 @@ Wenn Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) kli
 1. hinzufügen a** Kampagne Name**. Wählen Sie ein **Zielgruppe-Segment**. hinzufügen **Zielgruppen-URL**.
 
    >[!NOTE]
-   Zielgruppen-URL mit In-Zonen muss eine bestimmte URL oder URLs definieren. In fortgeschrittenen Anwendungsfällen können In-Zone-Web-Kampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   Zielgruppen-URL mit In-Zonen muss eine bestimmte URL oder URLs definieren. In fortgeschrittenen Anwendungsfällen können In-Zone-Web-Kampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
