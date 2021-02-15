@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API - Marketing Docs - Produktdokumentation
 title: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, e
 
 >[!TIP]
 >
->Weitere Informationen zur [ReST-API](http://developers.marketo.com/documentation/rest/) finden Sie in der Entwicklerdokumentation. Wir haben auch die [SOAP-API](http://developers.marketo.com/documentation/soap/), wenn Sie das benötigen.
+>Weitere Informationen zur [ReST-API](https://developers.marketo.com/documentation/rest/) finden Sie in der Entwicklerdokumentation. Wir haben auch die [SOAP-API](https://developers.marketo.com/documentation/soap/), wenn Sie das benötigen.
 
 >[!NOTE]
 >
