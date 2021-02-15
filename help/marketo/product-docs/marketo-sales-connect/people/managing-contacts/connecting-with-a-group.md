@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: Verbindung zu einer Gruppe - Marketing Docs - Produktdokumentation
 title: Herstellen einer Verbindung zu einer Gruppe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Erfahren Sie, wie Sie eine E-Mail an eine ganze Gruppe senden oder einer Kampagn
 
    >[!NOTE]
    >
-   >Möglicherweise wird eine Option zum Hinzufügen zu einer Kampagne angezeigt. [Das ist ein anderer Artikel](http://docs.marketo.com/x/CwDh).
+   >Möglicherweise wird eine Option zum Hinzufügen zu einer Kampagne angezeigt. [Das ist ein anderer Artikel](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md).
 
 1. Wählen Sie eine Kampagne aus (Sie können eine Kategorie auswählen, um die Ergebnisse einzuschränken) und klicken Sie auf **Weiter**.
 
@@ -60,4 +60,3 @@ Erfahren Sie, wie Sie eine E-Mail an eine ganze Gruppe senden oder einer Kampagn
 1. Planen Sie die Kampagne und klicken Sie auf **Beginn**.
 
    ![](assets/nine-1.png)
-
