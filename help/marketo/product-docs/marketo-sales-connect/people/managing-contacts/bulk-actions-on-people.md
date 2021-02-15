@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: Massenaktionen für Menschen - Marketing-Dokumente - Produktdokumentation
 title: Massenaktionen für Personen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Massenaktionen für Personen {#bulk-actions-on-people}
 
-Es gibt einige Dinge, die Sie mit Ihren Kontakten stapelweise machen können, um Zeit zu sparen.
+Es gibt ein paar Dinge, die Sie mit Ihren Kontakten stapelweise machen können, um Zeit zu sparen.
 
 Der erste Schritt für alle verfügbaren Massenaktionen besteht darin, zwei oder mehr Kontakte auszuwählen und auf das Feld (drei vertikale Punkte) zu klicken.
 
@@ -37,7 +37,7 @@ Wir weisen jedem Kontakt, der in die Datenbank gelangt, automatisch eine Quelle 
 
 ## Autorisierung {#authorization}
 
-Verwenden Sie in Übereinstimmung mit [GDPR](http://eugdpr.org/) die Autorisierung, um anzugeben, wie Sie die Berechtigung zum Kontakt mit diesen Kontakten erhalten haben.
+Verwenden Sie in Übereinstimmung mit [GDPR](https://eugdpr.org/) die Autorisierung, um anzugeben, wie Sie die Berechtigung zum Kontakt mit diesen Kontakten erhalten haben.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ Führen Sie eine Massenabmeldung bei Kontakten durch, die keine Korrespondenz me
 
 ## Löschen {#delete}
 
-Löschen Sie Kontakte stapelweise. Die vollständigen Schritte finden Sie [hier](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Löschen Sie Kontakte stapelweise. Die vollständigen Schritte finden Sie [hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
-
