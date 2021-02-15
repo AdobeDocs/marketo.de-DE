@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Versionshinweise - Frühjahr 2019 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Frühjahr 2019
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Die folgenden Funktionen wurden am 15. März 2019 veröffentlicht.
 
 * **Warteliste:** Neuer Programm-/Ereignis-Status für die Warteliste eines Mitglieds, wenn Sie sie  [in den ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) Besitz stellen möchten, bis eine offene Stelle geöffnet wird. Dies gilt für Kanal, die mit Ereignis-Programmen in Marketo Classic sowie Ereignis und Ereignis mit Webinar-Programmen in Marketo Sky verbunden sind. Standardmäßig hat Waitlist denselben Schrittwert wie Registered.
 * ** [Benutzerspezifische Kommunikationsbeschränkung](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Administratoren können nun benutzerdefinierte Tages- oder Wochenbeschränkungen für die Kommunikation festlegen.
-* ** [Asset-APIs für intelligente Kampagnen](http://developers.marketo.com/rest-api/assets/campaigns/)**: Erweitern Sie Ihre Analysen außerhalb von Marketo mit dem intelligenten Abrufen von Kampagnen nach Datum und ID.
+* ** [Asset-APIs für intelligente Kampagnen](https://developers.marketo.com/rest-api/assets/campaigns/)**: Erweitern Sie Ihre Analysen außerhalb von Marketo mit dem intelligenten Abrufen von Kampagnen nach Datum und ID.
 * **HTTPS-Tracking-Links für E-Mail:** Für Kunden, die &quot;sichere Domänen für Tracking-Links&quot;gekauft haben, können nun in Ihren E-Mails als HTTPS-Markenverfolgungslinks angezeigt werden.
 * **E-Mail-Versand von Powerpack-Aktualisierungen**: Möglichkeit, bestimmte Testergebnisse zu kennzeichnen und zu kommentieren, Ergebnisse mit Interessenträgern über eine URL zu teilen und Änderungen zu verfolgen, um die Entwicklung einer E-Mail zu sehen, während die Interessenträger Inhalte bearbeiten.
 
@@ -44,7 +44,7 @@ Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und An
 Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinweisen](https://help.marketo.com/hc/en-us/articles/360015760534-Q1-Releases).
 
 * **Vollständige E-Mail-Programm-Funktionen**: Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie die Ergebnisse in einem benutzerfreundlichen Erlebnis.
-* **Funktionen** der intelligenten Kampagne: Profitieren Sie von einer verbesserten Stabilität in einer neuen Benutzeroberfläche, da die Funktionen für intelligente Kampagne weiterhin in Sky verfügbar sind.
+* **Funktionen** der intelligenten Kampagne: Profitieren Sie von einer verbesserten Stabilität in einer neuen Benutzeroberfläche, da die Funktionalität der intelligenten Kampagne in Sky weiter ausgebaut wird.
 * **Verwalten von Design Studio-Assets**: Zusätzliche Möglichkeit, Vorlagen, Bilder, Forms, Snippets, Dateien, E-Mails und Landingpages stapelweise aus Design Studio Liste-Ansichten zu verwalten.
 * **Empfänger-Zeitzone-Dashboard** bereitstellen: Verstehen Sie das Kundenverhalten mit Berichte für E-Mails, die mit der Funktion &quot;Zeitzone im Empfänger bereitstellen&quot;in Sky gesendet werden.
 
