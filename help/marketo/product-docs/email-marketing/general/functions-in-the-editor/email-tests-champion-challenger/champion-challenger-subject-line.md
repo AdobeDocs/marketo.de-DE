@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Subject Line - Marketing Docs - Produktdokumentation
 title: Champion/Challenger - Betreffzeile
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Sie können ganz einfach mehrere Betreffzeilen testen. Wenn der Test beendet ist
    >
    >In der oben gezeigten Distribution erhalten 10% der in der Smart-Liste angegebenen Audience eine der E-Mails mit der Betreffzeile des herausfordernden Benutzers und 90% erhalten E-Mails mit der Betreffzeile des Meisters. E-Mails mit mehreren herausfordernden Betreff-Zeilen haben die gleichen 10%. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen zum statistischen Vertrauen](http://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
+   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen zum statistischen Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
 
 1. Klicken Sie auf **Weiter**.
 
