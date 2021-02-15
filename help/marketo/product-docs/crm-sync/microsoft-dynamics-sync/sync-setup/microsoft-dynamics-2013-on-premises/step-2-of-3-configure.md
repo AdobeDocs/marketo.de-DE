@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Schritt 2 von 3 - Konfigurieren des Synchronisierungsbenutzers für Marketing (On-Premises 2013) - Marketing Docs - Produktdokumentation
 title: Schritt 2 von 3 - Konfigurieren des Synchronisierungsbenutzers für Marketing (On-Premises 2013)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Weisen Sie die Rolle &quot;Benutzer synchronisieren&quot;nur dem Synchronisierun
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. Hier sehen Sie eine Liste von Benutzern. Wählen Sie Ihren dedizierten Marketo-Sync-Benutzer oder wenden Sie sich an Ihren [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [Administrator, um einen neuen Benutzer zu erstellen, der Marketo gewidmet ist.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. Hier sehen Sie eine Liste von Benutzern. Wählen Sie Ihren dedizierten Marketo-Sync-Benutzer oder wenden Sie sich an Ihren [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [Administrator, um einen neuen Benutzer zu erstellen, der Marketo gewidmet ist.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
