@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: Bericht klonen - Marketing-Dokumente - Produktdokumentation
 title: Bericht klonen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -41,5 +41,5 @@ Erstellen Sie ein Duplikat Ihres Berichts, um ihn weiter anzupassen, ohne das Or
    >    * [Personen in einem Bericht mit intelligenter Liste filtern](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   Machen Sie noch viel mehr, um Ihren Bericht anzupassen! Siehe [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+   Machen Sie noch viel mehr, um Ihren Bericht anzupassen! Siehe [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
