@@ -3,9 +3,9 @@ unique-page-id: 2953373
 description: Konfigurieren Sie die Abonnementfußzeilen in Marketing Sales Insight - Marketing Docs - Produktdokumentation
 title: Konfigurieren Sie die Abonnementfußzeilen in Marketo Sales Insight.
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten ange
 >
 >**Definition**
 >
->**Verkaufs-** E-Mails werden von Sales Insight gesendet. (Nicht enthalten sind die vom Marketo Outlook Plugin gesendeten Dateien.)
+>**Verkaufs-** E-Mails sind solche, die von Sales Insight gesendet werden (nicht enthalten sind die vom Marketing-zu-Outlook-Plugin gesendeten).
 
 1. Gehen Sie zum Bereich **Admin**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Sales Insight, **dann **Einstellungen bearbeiten**.
+1. Klicken Sie auf **Sales Insight** und dann **Einstellungen bearbeiten**.
 
    ![](assets/two-1.png)
 
@@ -37,7 +37,7 @@ In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten ange
 
    ![](assets/three-1.png)
 
-   * **Keine Vorlage **- Manuell erstellt vom Vertriebsbenutzer.
+   * **Keine Vorlage**  - Manuell erstellt vom Vertriebsbenutzer.
    * **Standard-E-Mail**  - E-Mails, die auf einer Vorlage basieren.
    * **Operative E-Mail** : E-Mails, die nicht abonniert, Marketing ausgesetzt und Kommunikationsbeschränkungen ignorieren (egal, was gesendet wird).
 
@@ -45,12 +45,11 @@ In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten ange
 
    >[!CAUTION]
    >
-   >**Einstellungen zum Abmelden beachten: **Abbestellte Interessenten erhalten die E-Mail NICHT, auch wenn die veröffentlichte E-Mail &quot;operativ&quot; ist
+   >**Einstellungen** zum Abmelden beachten: abonnierte Interessenten erhalten die E-Mail NICHT, auch wenn die veröffentlichte E-Mail &quot;betriebsbereit&quot;ist
    >
-   >
-   >**Einstellungen für das Abmelden ignorieren:** Abbestellte Interessenten erhalten die E-Mail
+   >**Einstellungen** für das Abmelden ignorieren: abonnierte Interessenten erhalten die E-Mail
 
-   Nehmen Sie die gewünschten Änderungen vor und klicken Sie dann auf Speichern.
+1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie dann auf **Speichern**.
 
    >[!TIP]
    >
@@ -59,10 +58,3 @@ In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten ange
    ![](assets/four-1.png)
 
 Dreh! Ein bisschen kompliziert, aber ziemlich flexibel, nicht wahr?
-
->[!NOTE]
->
->**Tieftauchen**
->
->Erfahren Sie mehr über [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
-
