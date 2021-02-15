@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: Filtern eines Berichts zur Aktivität einer Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Filtern eines Berichts zur Aktivität einer Kampagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtern eines Berichts zur Aktivität einer Kampagne {#filter-a-campaign-activity-report}
 
-Konzentrieren Sie den [Bericht &quot;Aktivität der Kampagne](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)auf bestimmte [intelligente Kampagnen](http://docs.marketo.com/display/docs/smart+campaigns).
+Konzentrieren Sie den [Bericht &quot;Aktivität der Kampagne](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)auf bestimmte [intelligente Kampagnen](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. Gehen Sie zu **Marketing-Aktivitäten** (oder **Analytics**) und wählen Sie Ihren Bericht zur Kampagne-Aktivität.
 
@@ -47,5 +47,5 @@ Konzentrieren Sie den [Bericht &quot;Aktivität der Kampagne](../../../../produc
 >
 >**Tieftauchen**
 >
->Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Erfahren Sie alles über Berichte in [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
