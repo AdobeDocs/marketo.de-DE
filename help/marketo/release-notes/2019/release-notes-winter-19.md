@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: Versionshinweise - Winter 19 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 19
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1112'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 * **Unterstützung für mehrere Branding-Domänen für die Asset-API:** Das Genehmigen und Klonen von Assets führt innerhalb der API und Benutzeroberfläche zu denselben Ergebnissen.
 * **E-Mail-CC-Unterstützung für Asset-API**: Benutzer, die E-Mails über die API klonen, genehmigen und verarbeiten, bleiben mit den Benutzeroberflächeneinstellungen identisch.
 
-** [Munchkin v155 (Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Nur-API-Modus**: Benutzer können nun festlegen, wann und wie Mitglieder ihrer Datenbank verfolgt werden, indem sie einseitige Web-Apps explizit aufrufen können, wenn sie einen Webseitenbesuch aufzeichnen möchten, anstatt sich auf die automatische Verfolgung von Marketo zu verlassen.
 * **Abmeldeverwaltung**: Sie können die Ausschluss-Cookie-Domäne problemlos verwalten, indem Sie die Ausschluss-Cookie-Domäne mit der Munchkin-Tracking-Cookie-Domäne abgleichen.
-* **Domänendef-Parameter**: Zweibuchstaben-Domänen (d. h. &quot;  [website.io](http://website.io)&quot;) wird in Marketo automatisch verfolgt, ohne dass zusätzliche Setup-Anforderungen erforderlich sind.
+* **Domänendef-Parameter**: Zweibuchstaben-Domänen (d. h. &quot;  [website.io](https://website.io)&quot;) wird in Marketo automatisch verfolgt, ohne dass zusätzliche Setup-Anforderungen erforderlich sind.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
@@ -103,10 +103,10 @@ Zur effizienteren Verwaltung von Domänen und Subdomänen können Benutzer nun S
 
 **Aktualisiertes MME Software Development Kit (SDK) für Android**
 
-Wir haben unser SDK für Android auf ein moderneres, stabileres und skalierbares Framework aktualisiert, das mehr Flexibilität und neue technische Funktionen enthält. Entwickler von Android-Apps können jetzt mit diesem neuen SDK direkt die Google-Version [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) verwenden.
+Wir haben unser SDK für Android auf ein moderneres, stabileres und skalierbares Framework aktualisiert, das mehr Flexibilität und neue technische Funktionen enthält. Entwickler von Android-Apps können jetzt mit diesem neuen SDK direkt die Google-Version [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) verwenden.
 
-* [Entwicklerhandbücher](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Häufig gestellte Fragen zu Entwicklern](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Entwicklerhandbücher](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Häufig gestellte Fragen zu Entwicklern](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
