@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: Versionshinweise - April 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - April 2015
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Zusätzlich steht jetzt eine private oder freigegebene Berichtsorganisation zur 
 
 ## Marketing-Mobile-Interaktion {#marketo-mobile-engagement}
 
-[Marketing-Mobile-Interaktion](http://docs.marketo.com/display/docs/mobile+marketing)
+[Marketing-Mobile-Interaktion](https://docs.marketo.com/display/docs/mobile+marketing)
 
-Mit [MarketingTo Mobile Interaktion](http://docs.marketo.com/display/docs/mobile+marketing) ist die Bereitstellung überzeugender mobiler Erlebnisse einfach. Erstellen Sie hochgradig personalisierte Kampagnen, die überzeugende Inhalte bereitstellen, ohne je auf ein App-Entwicklungsteam angewiesen zu sein. Neue Filter und Auslöser ermöglichen es Ihnen, über Push-Benachrichtigungen auf dem mobilen Kanal zuzuhören und darauf zu reagieren.
+Mit [MarketingTo Mobile Interaktion](https://docs.marketo.com/display/docs/mobile+marketing) ist die Bereitstellung überzeugender mobiler Erlebnisse einfach. Erstellen Sie hochgradig personalisierte Kampagnen, die überzeugende Inhalte bereitstellen, ohne je auf ein App-Entwicklungsteam angewiesen zu sein. Neue Filter und Trigger ermöglichen es Ihnen, über Push-Benachrichtigungen auf dem mobilen Kanal zuzuhören und darauf zu reagieren.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ Ihre bevorzugten Sales Insight-Funktionen - Lead-Feed, Best-Wetten, interessante
 
 ## RTP - Kontobasierte Marketing-Analysen {#rtp-account-based-marketing-analytics}
 
-RTP - [Kontobasierte Marketing-Analysen](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Kontobasierte Marketing-Analysen](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Erhalten Sie eine sofortige Übersicht über die [Performance Ihrer wichtigen Listen für benannte Konten](http://docs.marketo.com/pages/viewpage.action?pageid=7511515), die auf jeder Phase des Kaufzyklus basieren, mit dem neuen Leistungsdiagramm für Ihre Listen für benannte Konten. Das Diagramm zeigt den Stand des Besuchs der wichtigsten Organisation ausgehend vom Bewusstsein bis zum Handeln, basierend auf der Anzahl der Besuche und dem Status des Besuchers.
+Erhalten Sie eine sofortige Übersicht über die [Performance Ihrer wichtigen Listen für benannte Konten](https://docs.marketo.com/pages/viewpage.action?pageid=7511515), die auf jeder Phase des Kaufzyklus basieren, mit dem neuen Leistungsdiagramm für Ihre Listen für benannte Konten. Das Diagramm zeigt den Stand des Besuchs der wichtigsten Organisation ausgehend vom Bewusstsein bis zum Handeln, basierend auf der Anzahl der Besuche und dem Status des Besuchers.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
