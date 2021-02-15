@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Installieren und konfigurieren Sie Marketing Sales Insight in Microsoft Dynamics 2011 - Marketing Docs - Produktdokumentation
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2011
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight ist ein fantastisches Tool für Ihr Vertriebsteam. Hier fi
 
 >[!PREREQUISITES]
 >
->Füllen Sie die [Marketing-Microsoft-Integration](http://docs.marketo.com/x/DoA2) aus.
+>Schließen Sie Ihre Marketing-Microsoft-Integration ab.
 >
->[Laden Sie die richtige ](http://docs.marketo.com/x/LoJo) Lösung für Ihre Version von Microsoft Dynamics CRM herunter.
+>[Laden Sie die richtige ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Lösung für Ihre Version von Microsoft Dynamics CRM herunter.
 
 ## Lösung {#import-solution} importieren
 
@@ -37,12 +37,9 @@ Marketo Sales Insight ist ein fantastisches Tool für Ihr Vertriebsteam. Hier fi
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
-   >Sie sollten [die Marketing-Lösung bereits installiert und konfiguriert haben, bevor Sie fortfahren.](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
+   >Sie sollten [die Marketing-Lösung bereits installiert und konfiguriert haben, bevor Sie fortfahren.](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
 
-1. Klicken Sie auf **Durchsuchen**. Wählen Sie die Marketing Sales Insight-Lösung aus, die Sie [heruntergeladen haben. ](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Klicken Sie auf **Weiter**.
+1. Klicken Sie auf **Durchsuchen**. Wählen Sie die Marketing Sales Insight-Lösung aus, die Sie [heruntergeladen haben. ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Klicken Sie auf **Weiter**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -80,11 +77,11 @@ Marketo Sales Insight ist ein fantastisches Tool für Ihr Vertriebsteam. Hier fi
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Klicken Sie im Abschnitt **Sales Insight **auf **API-Konfiguration bearbeiten**.
+1. Klicken Sie im Abschnitt **Sales Insight** auf **API-Konfiguration bearbeiten**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopieren Sie die **Marketo-Host**, **API-URL** und **API-Benutzer-ID** zur Verwendung in einem späteren Schritt. Geben Sie einen **Geheimschlüssel der API** Ihrer Wahl ein und klicken Sie auf **SAVE**.
+1. Kopieren Sie die **Marketo-Host**, **API-URL** und **API-Benutzer-ID** zur Verwendung in einem späteren Schritt. Geben Sie einen **Geheimschlüssel der API** Ihrer Wahl ein und klicken Sie auf **Speichern**.
 
    >[!CAUTION]
    >
@@ -94,17 +91,14 @@ Marketo Sales Insight ist ein fantastisches Tool für Ihr Vertriebsteam. Hier fi
 
    >[!NOTE]
    >
-   >Die folgenden Felder müssen mit Marketo synchronisiert werden, damit *Lead und Kontakt* funktionieren:
+   >Die folgenden Felder müssen mit Marketo synchronisiert werden, damit _Lead und Kontakt_ funktionieren:
    >
-   >    
-   >    
-   >    * Priorität
-   >    * Dringlichkeit
-   >    * Relative Bewertung
+   >* Priorität
+   >* Dringlichkeit
+   >* Relative Bewertung
 
-   >    
-   >    
-   >Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, führen Sie [dieses Verfahren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) durch.
+   >
+   >Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, führen Sie [dieses Verfahren](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) durch.
 
 1. Gehen Sie zurück zu Dynamik und wählen Sie **Einstellungen**.
 
@@ -122,11 +116,9 @@ Marketo Sales Insight ist ein fantastisches Tool für Ihr Vertriebsteam. Hier fi
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. Klicken Sie auf **Speichern.**
+1. Klicken Sie auf **Speichern**.
 
-   ** ![](assets/image2015-5-4-11-3a28-3a13.png)
-
-   **
+   ![](assets/image2015-5-4-11-3a28-3a13.png)
 
 ## Benutzerzugriff einstellen {#set-user-access}
 
@@ -160,5 +152,4 @@ Richten Sie Benutzerrollen ein, um bestimmten Benutzern Zugriff auf Sales Insigh
 
 >[!MORELIKETHIS]
 >
->[Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](http://docs.marketo.com/x/BICMAg)
-
+>[Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
