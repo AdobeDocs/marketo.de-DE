@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: hinzufügen Möglichkeit, Spalten zu einem Interessentenbericht - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen der Möglichkeit, Spalten in einen Interessentenbericht aufzunehmen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen der möglichen Spalten zu einem Interessentenbericht {#add-opportunity-columns-to-a-lead-report}
 
-Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](http://docs.marketo.com/display/docs/basic+reporting) anzuzeigen, können Sie Opportunitätsspalten hinzufügen.
+Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](https://docs.marketo.com/display/docs/basic+reporting) anzuzeigen, können Sie Opportunitätsspalten hinzufügen.
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
@@ -77,5 +77,5 @@ Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](http://doc
    >**Tieftauchen**
    >
    >
-   >Sehen Sie, was Sie sonst noch mit Berichten im Tiefen-Tauchgang tun können.[](http://docs.marketo.com/display/docs/basic+reporting)
+   >Sehen Sie, was Sie sonst noch mit Berichten im Tiefen-Tauchgang tun können.[](https://docs.marketo.com/display/docs/basic+reporting)
 
