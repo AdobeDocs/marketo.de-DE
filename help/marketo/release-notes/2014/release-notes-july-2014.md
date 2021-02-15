@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: Versionshinweise - Juli 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juli 2014
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Neben dem Marketingkalender, mit dem Sie Ihre Ereignis und Standard-Programm ver
 
 ## Vorgänge zur Liste in der ReST-API {#list-operations-in-the-rest-api}
 
-Die nachfolgenden Aufrufe beziehen sich auf Listen in ReST. Die vollständige Dokumentation finden Sie unter [developer.marketo.com](http://developers.marketo.com/documentation/rest/).
+Die nachfolgenden Aufrufe beziehen sich auf Listen in ReST. Die vollständige Dokumentation finden Sie unter [developer.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 * Liste nach ID abrufen
 * Mehrere Listen abrufen
@@ -78,7 +78,7 @@ Die Seite &quot;RTP-Set-Kampagne&quot;enthält jetzt [fertige Vorlagen](/help/ma
 
 ## RTP: JavaScript-API-Erweiterungen {#rtp-javascript-api-enhancements}
 
-Neuer RTP-API-Aufruf zum Abrufen von Echtzeit-Besucher-Daten wie Unternehmen, Branche, Standort und Segment-Code-Übereinstimmung. Wenn Sie den Mauszeiger über einen Segmentnamen auf der Seite &quot;Segmente&quot;bewegen, wird eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden Sie auf unserer [Entwicklersite](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+Neuer RTP-API-Aufruf zum Abrufen von Echtzeit-Besucher-Daten wie Unternehmen, Branche, Standort und Segment-Code-Übereinstimmung. Wenn Sie den Mauszeiger über einen Segmentnamen auf der Seite &quot;Segmente&quot;bewegen, wird eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden Sie auf unserer [Entwicklersite](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
