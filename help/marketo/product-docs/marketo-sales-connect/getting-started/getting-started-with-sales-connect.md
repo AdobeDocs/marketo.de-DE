@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Erste Schritte mit Sales Connect - Marketing Docs - Produktdokumentation
 title: Erste Schritte mit Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Optional können Sie auch:
 
 ## Verbinden Sie Ihr Sales Connect-Konto mit Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Um Ihr Sales Connect-Konto mit Ihrem Salesforce-Konto als Administrator oder Nicht-Administrator zu verbinden, führen Sie die Schritte unter [diesen Artikel](http://docs.marketo.com/x/JwDb) aus.
+Um Ihr Sales Connect-Konto mit Ihrem Salesforce-Konto als Administrator oder Nicht-Administrator zu verbinden, führen Sie die Schritte unter [diesen Artikel](https://docs.marketo.com/x/JwDb) aus.
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Sie benötigen einen Satz Anmeldeinformationen aus Marketo. Diese Anmeldeinforma
 
 Wenn bereits Benutzer in Ihrem Konto vorhanden sind (zuvor von ToutApp), werden sie auf der Registerkarte **Team Access** im Abschnitt Marketing Connect angezeigt.
 
-Sie können Ihr Team als Marketing Connect-Benutzer auf dieser Seite bereitstellen. Wenn Sie ToutApp noch nie verwendet haben oder noch Benutzer einladen müssen, befolgen Sie die Schritte in [diesem Artikel](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Sie können Ihr Team als Marketing Connect-Benutzer auf dieser Seite bereitstellen. Wenn Sie ToutApp noch nie verwendet haben oder noch Benutzer einladen müssen, befolgen Sie die Schritte in [diesem Artikel](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
