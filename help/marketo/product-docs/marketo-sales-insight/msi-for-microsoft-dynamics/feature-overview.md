@@ -3,7 +3,7 @@ unique-page-id: 37357043
 description: Übersicht über Funktionen - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Funktionen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -73,4 +73,3 @@ Die folgenden Funktionen sind in der neuen MSI MSD Solution verfügbar.
 * Interessanter Moment
 * Status
 * Interessenten-Feed - Einschließlich Möglichkeit zum Abonnieren von IM
-
