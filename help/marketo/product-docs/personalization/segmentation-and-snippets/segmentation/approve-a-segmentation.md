@@ -3,7 +3,7 @@ unique-page-id: 2359457
 description: Genehmigung einer Segmentierung - Marketing-Dokumente - Produktdokumentation
 title: Genehmigen einer Segmentierung
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 >
 >Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Segmentlogik ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, andere Filter können jedoch die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele: benutzerdefinierte Felder, Liste, Interessenteninhaberfelder und Umsatzstufen.
 >
->Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
 >[!MORELIKETHIS]
 >
