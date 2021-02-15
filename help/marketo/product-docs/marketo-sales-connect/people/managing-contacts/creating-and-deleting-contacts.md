@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: Erstellen und Löschen von Kontakten - Marketing-Dokumente - Produktdokumentation
 title: Erstellen und Löschen von Kontakten
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Möchten Sie mehrere Kontakte gleichzeitig hinzufügen? [Klicken Sie ](http://docs.marketo.com/x/VADb) hier, um zu erfahren, wie Sie Kontakte per CSV importieren.
+   >Möchten Sie mehrere Kontakte gleichzeitig hinzufügen? [Klicken Sie ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hier, um zu erfahren, wie Sie Kontakte per CSV importieren.
 
 ## Löschen von Kontakten {#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Um mehrere Kontakte zu löschen, wählen Sie einfach mehrere Personen aus. Die verbleibenden Schritte wären die gleichen.
 
-1. Klicken Sie auf das Dokument (drei vertikale Punkte) und wählen Sie &quot;Löschen&quot;.
+1. Klicken Sie auf den Punkt (drei vertikale Punkte) und wählen Sie **Löschen**.
 
    ![](assets/four-2.png)
 
-1. Klicken Sie zur Bestätigung auf Kontakt löschen.
+1. Klicken Sie zur Bestätigung auf **Kontakt löschen**.
 
    ![](assets/five-2.png)
