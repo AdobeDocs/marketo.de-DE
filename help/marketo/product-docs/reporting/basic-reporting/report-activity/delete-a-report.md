@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: Einen Bericht löschen - Marketing-Dokumente - Produktdokumentation
 title: Einen Bericht löschen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ Wenn Sie [Berichte erstellen, können Sie schnell viele davon erstellen. ](../..
    >**Tieftauchen**
    >
    >
-   >Sehen Sie sich alle anderen Dinge an, die Sie mit Berichten im tiefen Tauchgang von [Basic Berichte](http://docs.marketo.com/display/docs/basic+reporting) tun können.
+   >Sehen Sie sich alle anderen Dinge an, die Sie mit Berichten im tiefen Tauchgang von [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting) tun können.
 
