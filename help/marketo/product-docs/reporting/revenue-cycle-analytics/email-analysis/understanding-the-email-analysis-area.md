@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Informationen zum Bereich "E-Mail-Analyse"- Marketing-Dokumente - Produktdokumentation
 title: Der Bereich "E-Mail-Analyse"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Der Bereich &quot;E-Mail-Analyse&quot;konzentriert sich auf E-Mail-Metriken. In 
 >[!AVAILABILITY]
 >
 >
->Dies steht Benutzern mit dem Add-on Select Edition oder [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) zur Verfügung. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Dies steht Benutzern mit dem Add-on Select Edition oder [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) zur Verfügung. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
 ## Email Click Aktivität Heat Grid {#email-click-activity-heat-grid}
 
