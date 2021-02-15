@@ -3,7 +3,7 @@ unique-page-id: 2359488
 description: Gruppen-E-Mail-Berichte nach Segmenten - Marketing-Dokumente - Produktdokumentation
 title: E-Mail-Berichte nach Segmenten gruppieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-Mail-Berichte nach Segmenten gruppieren {#group-email-reports-by-segmentations}
 
-Segmente sind nicht nur für dynamische Inhalte gedacht. Sie können Ihren [E-Mail-Leistungsbericht](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) auch nach [Segmentationen](http://docs.marketo.com/display/docs/segmentation+and+snippets) gruppieren.
+Segmente sind nicht nur für dynamische Inhalte gedacht. Sie können Ihren [E-Mail-Leistungsbericht](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) auch nach [Segmentationen](https://docs.marketo.com/display/docs/segmentation+and+snippets) gruppieren.
 
 >[!PREREQUISITES]
 >
