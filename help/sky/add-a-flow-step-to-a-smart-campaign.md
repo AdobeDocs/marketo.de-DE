@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-Kampagne
 description: hinzufügen eines Flussschritts zu einer intelligenten Kampagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Flussschritte sagen Marketo, was Sie einer Gruppe von Personen, die sich qualifi
 
 **Tieftauchen**
 
-Erfahren Sie mehr über die verschiedenen [Flussschritte](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Erfahren Sie mehr über die verschiedenen [Flussschritte](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Klicken Sie auf die Dropdownliste und wählen Sie eine entsprechende Option aus.
 
@@ -44,7 +44,7 @@ Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind
 >
 >Bei einem ungültigen Eintrag wird eine rote Linie angezeigt. Bewegen Sie den Mauszeiger über die Zeile, um zu sehen, wie sie korrigiert werden kann.
 >
->Überprüfen und überprüfen Sie die intelligente Kampagne[, bevor Sie sie planen oder aktivieren.](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist)
+>Überprüfen und überprüfen Sie die intelligente Kampagne](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist), bevor Sie sie planen oder aktivieren.[
 
 ## Flussschritte neu anordnen
 
