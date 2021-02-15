@@ -3,7 +3,7 @@ unique-page-id: 14352405
 description: Einrichten der einmaligen Anmeldung über SAML 2.0 in Sales Connect - Marketing Docs - Produktdokumentation
 title: Einrichten der einmaligen Anmeldung über SAML 2.0 in Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,6 +31,6 @@ Die Datei &quot;metadata.xml&quot;aus der SSO-Instanz Ihres Teams sollte die Aus
 
 Außerdem benötigen wir den SSO-Standort, damit Ihr SSO-Konto eine eindeutige Domäne sein kann. Beispielsweise benötigen wir eine eindeutige Subdomäne wie `toutapp.pingidentity.com` oder Ähnliches. Ohne diesen eindeutigen Bezeichner können wir keine SAML aus dem Dashboard einrichten.
 
-Bei einer Anmeldung und Okta werden beim Zuweisen einer URL nicht immer eindeutige IDs bereitgestellt. Wenn Sie Okta oder One Login verwenden, bedeutet das, dass wir nicht in der Lage sein werden, eine Anmeldung über die Schaltfläche Dashboard einzurichten. Wir können sie weiterhin über die Schaltfläche Single Sign-On auf der [Webanwendung](http://toutapp.com/login) einrichten.
+Bei einer Anmeldung und Okta werden beim Zuweisen einer URL nicht immer eindeutige IDs bereitgestellt. Wenn Sie Okta oder One Login verwenden, bedeutet das, dass wir nicht in der Lage sein werden, eine Anmeldung über die Schaltfläche Dashboard einzurichten. Wir können sie weiterhin über die Schaltfläche Single Sign-On auf der [Webanwendung](https://toutapp.com/login) einrichten.
 
 Sobald uns diese Informationen vorliegen, werden wir mit unserem Ingenieurteam zusammenarbeiten, um dies für Ihr Abonnement einzurichten.
