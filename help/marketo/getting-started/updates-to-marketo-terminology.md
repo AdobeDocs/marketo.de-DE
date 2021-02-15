@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Aktualisierungen der Marktterminologie - Marketing-Dokumente - Produktdokumentation
 title: Aktualisierungen der Marktterminologie
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ Felder, die den Begriff Interessent enthielten, wurden entweder durch Person ers
 
 Zusätzlich zur Namensänderung besteht die App jetzt aus vier separaten Apps:
 
-| ** [Web-Personalisierung](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Hat eine eigene Kachel auf dem Startbildschirm |
+| ** [Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Hat eine eigene Kachel auf dem Startbildschirm |
 |---|---|
-| ** [Kontobasiertes Webmarketing](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Verfügbar über Web-Personalisierungskachel |
-| ** [Personalisiertes Retargeting](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Verfügbar über Web-Personalisierungskachel |
-| ** [Vorheriger Inhalt](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Hat eine eigene Kachel auf dem Startbildschirm |
+| ** [Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Verfügbar über Web-Personalisierungskachel |
+| ** [Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Verfügbar über Web-Personalisierungskachel |
+| ** [Vorheriger Inhalt](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Hat eine eigene Kachel auf dem Startbildschirm |
 
 >[!NOTE]
 >
