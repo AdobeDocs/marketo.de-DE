@@ -3,7 +3,7 @@ unique-page-id: 6094890
 description: Versionshinweise - Februar 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Februar 2015
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2015 enthalten. Überpr
 
 Freut euch! Jetzt können Sie intelligente Kampagnen per Drag &amp; Drop oder mit der Funktion Verschieben in der Struktur in Programme verschieben.
 
-** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- unterstützt!
+** [Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- unterstützt!
 
 **Änderungen am HTTPS-Zertifikat**
 
@@ -29,11 +29,11 @@ Zur Wahrung der Vertraulichkeit und Integrität von Kundendaten und SaaS-Dienste
 
 und ersetzt derzeit verwendete Sicherheitsprotokolle (SHA-1 und SSL) durch sicherere Versionen (SHA-2 (alias). SHA-256) und TLS) für die folgenden Domänen:
 
-`·` [marketo.net](http://marketo.net) (verschlüsselter Munchkin-Traffic)
+`·` [marketo.net](https://marketo.net) (verschlüsselter Munchkin-Traffic)
 
-`·` [marketo.com](http://marketo.com) (Hauptanwendungen von SaaS)
+`·` [marketo.com](https://marketo.com) (Hauptanwendungen von SaaS)
 
-Dies wird kurz nach dieser Version passieren. Das SHA-1-Protokoll wird bis Dezember 2015 unter der Domäne [mktoapi.com](http://mktoapi.com) vorübergehend unterstützt, damit Eigentümer von älteren Systemen und Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
+Dies wird kurz nach dieser Version passieren. Das SHA-1-Protokoll wird bis Dezember 2015 unter der Domäne [mktoapi.com](https://mktoapi.com) vorübergehend unterstützt, damit Eigentümer von älteren Systemen und Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
 
 **Sicherer Munchkin**
 
