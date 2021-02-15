@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: Versionshinweise - Herbst 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Herbst 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Mehrere Abonnements können auf einer intelligenten Liste erstellt werden. Es gi
 
 ## Markieren zu benutzerdefinierten Objekten {#marketo-custom-objects}
 
-[Zu benutzerdefinierten Objekten markieren](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Zu benutzerdefinierten Objekten markieren](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Benutzerdefinierte Objekte lassen sich einfach über die Admin-Benutzeroberfläche erstellen. Wir unterstützen derzeit die Möglichkeit, ein 1:N-benutzerdefiniertes Objekt in Marketo zu erstellen und es mit einem Interessenten oder einer Firma zu verbinden.
 
@@ -121,7 +121,7 @@ Der Rich-Text-Editor wurde um einige Verbesserungen ergänzt. Nachdem wir den ak
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
