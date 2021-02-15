@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: Versionshinweise - Frühjahr 18 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Frühjahr 18
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen
 >
 >Sales Engage ist ein Add-On-Produkt. Wenden Sie sich zwecks eines Angebots an Ihren Marketing-to-Customer Success Manager oder Kundenbetreuer.
 
-Mehr Pipeline- und Umsätze durch die Ermöglichung von Verkäufen mit Intelligenz, Inhalten, Playbooks und Analysen, um mehr Interessenten in Verkaufschancen umzuwandeln. Sales Engage bietet Vertriebs- und Marketinglösungen mit einer einheitlichen Plattform für Interaktion während der gesamten Customer Journey und ermöglicht eine bessere Koordination durch eine gemeinsame Ansicht von Customer Touchpoints.
+Mehr Pipeline- und Umsätze durch die Ermöglichung von Verkäufen mit Intelligenz, Inhalten, Playbooks und Analysen, um mehr Interessenten in Verkaufschancen umzuwandeln. Sales Engage bietet Vertriebs- und Marketinglösungen mit einer einheitlichen Plattform für Kundeninteraktion über die Journey und ermöglicht eine bessere Koordination durch eine gemeinsame Ansicht von Customer Touchpoints.
 
 **ToutApp**
 
@@ -81,12 +81,12 @@ Legen Sie das Ziel des Optimierungsalgorithmus &quot;Inhalt<sup>AI</sup>&quot;fe
 
 Senden Sie Systembenachrichtigungen und interessante Momente an Facebook Workplace.
 
-[Statische Listen-APIs](http://developers.marketo.com/rest-api/assets/static-lists/)
+[Statische Listen-APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Mit neuen bidirektionalen APIs zur Erstellung, zum Lesen, Aktualisieren und Löschen von statischen Listen können Sie Listen zwischen Marketo und anderen Systemen einfacher verwalten, ohne dass Sie in der Benutzeroberfläche von Marketo aktiv werden müssen.
 
 ## Datenschutzverbesserungen {#privacy-enhancements}
 
-[Webtracking-Datenschutz](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Webtracking-Datenschutz](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 Die erweiterte Munchkin-Verfolgung entspricht den lokalen und internationalen Datenschutzbestimmungen, indem sie die IP-Adressen von Web-Besuchern anonymisiert und es ihnen ermöglicht, die Web-Verfolgung dauerhaft abzuwählen.
