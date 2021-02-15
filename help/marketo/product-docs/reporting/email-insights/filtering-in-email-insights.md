@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: Filterung in E-Mail Insights - Marketing Docs - Produktdokumentation
 title: Filtern in E-Mail-Insight
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Wählen Sie aus allgemeinen voreingestellten Datumsbereichen aus, wählen Sie be
 
 ## Kontobasiertes Marketing {#account-based-marketing}
 
-Wenn Sie [Kontenbasiertes Marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) verwenden, gibt es speziell für Sie Filter.
+Wenn Sie [Kontenbasiertes Marketing](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) verwenden, gibt es speziell für Sie Filter.
 
 ![](assets/abm.png)
 
