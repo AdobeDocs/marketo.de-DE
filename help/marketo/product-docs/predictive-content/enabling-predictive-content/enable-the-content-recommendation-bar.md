@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: Symbolleiste zur Inhaltsempfehlung - Marketing-Dokumente - Produktdokumentation
 title: Symbolleiste für die Inhaltsempfehlung aktivieren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
 >
 >Bevor Sie Prognostizierende Inhalte aktivieren, müssen Sie Folgendes tun:
 >
->* [Vorbereitung von prädiktiven Inhalten](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Vorbereitung von prädiktiven Inhalten](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
    >**Anzeigen-URL einschließen/ausschließen**
    >
    >    * Die Anzeigen-URL sollte der Pfad der Domäne sein.
-   >    * http:// oder https:// nicht einschließen
+   >    * https:// oder https:// nicht einschließen
    >    * * für Platzhalter verwenden
    * Semikolon als Trennzeichen verwenden
    * Beispiel: /contact_us*; *action=logout*
