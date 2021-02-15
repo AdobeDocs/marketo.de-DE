@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: Filtern von Assets in einem E-Mail-Bericht - Marketing to Docs - Produktdokumentation
 title: Assets in einem E-Mail-Bericht filtern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ Konzentrieren Sie den Bericht [E-Mail-Leistung](../../../../product-docs/email-m
 >
 >**Tieftauchen**
 >
->Erfahren Sie alles über Berichte in [Grundlegender Berichte](http://docs.marketo.com/display/docs/basic+reporting).
+>Erfahren Sie alles über Berichte in [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
 
