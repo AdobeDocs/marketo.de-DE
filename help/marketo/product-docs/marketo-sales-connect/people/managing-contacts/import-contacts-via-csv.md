@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: Kontakte über CSV importieren - Marketing Docs - Produktdokumentation
 title: Kontakte über CSV importieren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Kontakte auf der Seite &quot;Personen&quot;zu haben ist wichtig, da wir von dort
 1. Ordnen Sie die Spalten in Ihrer CSV ihren jeweiligen Feldern in Sales Connect zu. Klicken Sie abschließend auf **Weiter**.
 
    ![](assets/five.png)
-
