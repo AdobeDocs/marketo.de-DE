@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Versionshinweise - Herbst 16 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Herbst 16
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version Herbst 16 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
-## [Prognostizierter Inhalt in E-Mail](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [Prognostizierter Inhalt in E-Mail](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 Es gibt eine neue Benutzererfahrung, mit der unsere Predictive Content-Anwendung Ihre Inhalte verfolgen, verwalten und empfehlen kann. Dies geschieht mithilfe unserer maschinellen Lernalgorithmen und Prognosemethoden über Web- und E-Mail-Kanal hinweg.
 
@@ -45,7 +45,7 @@ Mit einer universellen ID können Sie mit einer einzigen Anmeldung auf mehrere M
 >
 >Wenden Sie sich an den Marketing Support, um diese Funktion zu aktivieren.
 
-## [Marketing-to-Account-basierte Marketingverbesserungen](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Marketing-to-Account-basierte Marketingverbesserungen](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 Jetzt können Sie Kontoteams benannten Konten im kontobasierten Marketing (ABM) zuweisen, z. B. Kontoinhaber, Vertriebsmitarbeiter, Geschäftsentwicklungsvertreter und Kundenerfolgsmanager. Sie können auch kontoinhaberspezifische Listen erstellen und personalisierte wöchentliche ABM-Berichte an das Kontoteam senden.
 
@@ -53,7 +53,7 @@ Jetzt können Sie Kontoteams benannten Konten im kontobasierten Marketing (ABM) 
 
 **REST-API**
 
-Mit dieser Version können Sie auch benannte Kontoattribute und Kontowerte in ABM mithilfe der Marketing REST API verwalten. Weitere Informationen zu den API-Operationen finden Sie auf der [Marketing Developers-Website](http://developers.marketo.com/rest-api/lead-database/named-accounts).
+Mit dieser Version können Sie auch benannte Kontoattribute und Kontowerte in ABM mithilfe der Marketing REST API verwalten. Weitere Informationen zu den API-Operationen finden Sie auf der [Marketing Developers-Website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Verbesserte Prüfprotokolle](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,11 +67,11 @@ Es sind die Tage vorbei, in denen Sie sich Sorgen machen mussten, dass Benutzer,
 
 **Einschränkungen für Kampagnen bearbeiten**
 
-Warum [Einschränkungen der Kampagne](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) festlegen, wenn Sie diese nicht erzwingen können? Wenn Sie die Kampagne &quot;Limit Settings&quot;festlegen, um die Anzahl der Personen in Ihrer Datenbank einzuschränken, die auf eine einzige Kampagne ausgerichtet werden können, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
+Warum [Einschränkungen der Kampagne](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) festlegen, wenn Sie diese nicht erzwingen können? Wenn Sie die Kampagne &quot;Limit Settings&quot;festlegen, um die Anzahl der Personen in Ihrer Datenbank einzuschränken, die auf eine einzige Kampagne ausgerichtet werden können, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
 
 ## [Audio für Push-Benachrichtigungen für Mobilgeräte](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
-Geben Sie Ihrer iOS-Push-Benachrichtigung mehr Komfort, indem Sie Sound aktivieren. Mit dieser neuen Funktion können Sie einen Ton auslösen, wenn die Push-Benachrichtigung auf dem Mobilgerät angezeigt wird.
+Geben Sie Ihrer iOS-Push-Benachrichtigung mehr Komfort, indem Sie Sound aktivieren. Mit dieser neuen Funktion können Sie einen Sound beim Anzeigen der Push-Benachrichtigung auf dem Mobilgerät Trigger haben.
 
 >[!NOTE]
 >
@@ -88,15 +88,15 @@ Geben Sie Ihrer iOS-Push-Benachrichtigung mehr Komfort, indem Sie Sound aktivier
 
 Market Sales Insight ist jetzt mit Salesforce Shield Encryption kompatibel. Alle Sales Insight-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket (Version 1.4359.2) durchführen, das [auf der App Exchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) verfügbar ist.
 
-## [APIs für benannte Konten](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [APIs für benannte Konten](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 Mit dieser Version können Benutzer von Marketo ABM benannte Konten über die API für benannte Konten verwalten. Benutzer können benannte Konten erstellen, aktualisieren und löschen sowie von ABM benannte Kontowerte lesen und aktualisieren.
 
-## [API-Unterstützung für Email Editor v2.0](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [API-Unterstützung für Email Editor v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Verwalten Sie Variablen und Module für E-Mails im Format v2.0 mithilfe der Marketing-REST-API.
 
 ## [Änderungen bei der Synchronisierung von Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Die Salesforce-Integration von Marketo verbessert die Synchronisierung von Marketo-Feldern mit Salesforce. Anstatt eine große Gruppe von Feldern zu synchronisieren, die Sie eventuell nicht benötigen, können Sie jetzt die Felder auswählen und auswählen, die Sie einschließen möchten. Weitere Informationen finden Sie in unserer Dokumentation: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Die Salesforce-Integration von Marketo verbessert die Synchronisierung von Marketo-Feldern mit Salesforce. Anstatt eine große Gruppe von Feldern zu synchronisieren, die Sie eventuell benötigen oder nicht, können Sie jetzt festlegen, welche Felder Sie einschließen möchten. Weitere Informationen finden Sie in unserer Dokumentation: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
 
