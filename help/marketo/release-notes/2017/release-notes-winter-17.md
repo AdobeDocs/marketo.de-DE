@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Versionshinweise - Winter 17 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 17
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Die Basisübereinstimmung verwendet nur E-Mail-Adressen, die neue erweiterte Üb
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [Benutzerdefinierte Objekt-Import-API](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [Benutzerdefinierte Objekt-Import-API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 Diese API bietet eine schnellere Schnittstelle zum Synchronisieren benutzerdefinierter Objekte mit Marketo. Sie können CSV-, TSV- oder SSV-Tabellenkalkulationsdateien als benutzerdefinierte Objekte in Marketing importieren.
 
@@ -37,7 +37,7 @@ Exportieren Sie alle Details und Analysen Ihrer Web-Kampagne in ein CSV-Format. 
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Lokale Anpassung](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [lokale Anpassung](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 Die Apps &quot;Web-Personalisierung&quot;, &quot;Predictive Content&quot;und &quot;E-Mail Insights&quot;stehen jetzt in japanischer, deutscher und spanischer Sprache zur Verfügung. Wählen Sie [Sprache und Gebietsschema](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aus, um Ihre Inhalte in diesen Sprachen Ansicht.
 
@@ -71,7 +71,7 @@ Predictive Content Analytics nach bestimmten Quellen filtern — E-Mail, Rich Me
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Predictive Content Editor](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[Predictive Content Editor](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 Es gibt eine verbesserte Bearbeitungserfahrung und ein verbessertes Layout, das die Inhaltsvorbereitung nach Quelle aufteilt — — E-Mail, Rich Media oder Recommendations-Leiste.
 
@@ -81,7 +81,7 @@ Es gibt eine verbesserte Bearbeitungserfahrung und ein verbessertes Layout, das 
 
 Bild-URL und Metadaten werden jetzt im Prozess der automatischen Inhaltssuche verwendet.
 
-## [SDK-Verbesserungen](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK-Verbesserungen](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Entwickler haben jetzt zusätzliche Kontrolle über den Versand von Push-Benachrichtigungen mit einem neuen SDK-API-Aufruf, der Entwicklern das Entfernen von Push-Token ermöglicht.
 
