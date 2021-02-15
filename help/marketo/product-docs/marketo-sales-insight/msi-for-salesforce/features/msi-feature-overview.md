@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Übersicht über die MSI-Funktionen - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über die MSI-Funktionen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MSI Visualforce Panel umfasst die folgenden Funktionen:
 
 * Registerkarten
 
-   * [Insight-Dashboard](http://docs.marketo.com/x/EoGMAg)
+   * [Insight-Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Interessanter Moment
    * Web-Aktivität
    * Email
@@ -64,7 +64,7 @@ Felder:
 
 Visualforce-Seiten:
 
-* Kontakt - Umfasst die Option zum Klicken auf die Hyper-Schaltfläche &quot;Zur vollen Liste gehen&quot;, werden Sie zu einer neuen Registerkarte in Salesforce gesendet, wo das MSI-Bedienfeld in einem ganzseitigen Layout angezeigt wird
+* Kontakt - Umfasst die Option zum Klicken auf die Hyper-Schaltfläche &quot;Zur vollen Liste gehen&quot;, werden Sie an eine neue Registerkarte in Salesforce gesendet, wo das MSI-Bedienfeld in einem ganzseitigen Layout angezeigt wird
 * Volle Liste kontaktieren - enthält keine Option &quot;Zur vollen Liste gehen&quot;
 * Contact Mobile - Sichtbar in Salesforce-Mobilanwendung
 * Kontaktseite Hinzufügen zur Marketing-Kampagne - Funktion Hinzufügen zur Marketing-Kampagne ist in diesem Bereich verfügbar
@@ -170,7 +170,7 @@ Salesforce Classic: hinzufügen in der Ansicht &quot;Lead- und Kontaktaufnahme&q
 
 >[!MORELIKETHIS]
 >
->[Registerkarte &quot;Konfiguration von Marketing zu Sales Insight&quot;in Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Registerkarte &quot;Konfiguration von Marketing zu Sales Insight&quot;in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Sales Insight-Leistungsberichte {#sales-insight-performance-reports}
 
