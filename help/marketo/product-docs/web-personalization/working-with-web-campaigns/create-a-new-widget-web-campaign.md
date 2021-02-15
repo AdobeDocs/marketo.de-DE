@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: Neue Widget-Web-Kampagne erstellen - Marketing-Dokumente - Produktdokumentation
 title: Neue Widget-Web-Kampagne erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anzeigen auf</strong></td> 
-   <td colspan="1">Ermöglicht Ihnen, <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">anzupassen, wann und wie</a> Ihre Web-Kampagne angezeigt wird.</td> 
+   <td colspan="1">Ermöglicht Ihnen, <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">anzupassen, wann und wie</a> Ihre Web-Kampagne angezeigt wird.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>In/Out animieren</strong></td> 
@@ -95,7 +95,7 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können  [A/B auf optimale Ergebnisse](ab-test-your-web-campaign.md) getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können auf optimale Ergebnisse  [A/B-Tests](ab-test-your-web-campaign.md) getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
 
 ## Eine Web-Kampagne bearbeiten {#edit-a-web-campaign}
 
