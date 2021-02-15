@@ -3,7 +3,7 @@ unique-page-id: 7512448
 description: SDK-Code an einen Entwickler senden - MarketingToDocs - Produktdokumentation
 title: SDK-Code an einen Entwickler senden
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Bevor Sie In-App-Nachrichten oder Push-Benachrichtigungen erstellen können, muss der Entwickler das Mobile App SDK für die Android- und iOS-Plattformen einrichten und initialisieren.
 
-* [Anleitung für Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [Anweisungen für iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Anleitung für Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
+* [Anweisungen für iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
 ## SDK-Code an einen Entwickler {#send-sdk-code-to-a-developer-1} senden
 
