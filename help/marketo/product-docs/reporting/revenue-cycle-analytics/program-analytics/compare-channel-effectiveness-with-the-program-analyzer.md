@@ -3,7 +3,7 @@ unique-page-id: 2360401
 description: Vergleichen Sie die Effektivität von Kanälen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Kanal-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -93,4 +93,4 @@ In unserem Beispiel sehen wir, dass der Tradeshow-Kanal sowohl der teuerste (am 
 
 >[!NOTE]
 >
->Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle-Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
