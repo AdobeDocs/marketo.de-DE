@@ -3,9 +3,9 @@ unique-page-id: 7512448
 description: SDK-Code an einen Entwickler senden - MarketingToDocs - Produktdokumentation
 title: SDK-Code an einen Entwickler senden
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Manchmal muss ein Administrator einen SDK-Code an einen Entwickler senden.
 
 So machen Sie das.
 
-1. Klicken Sie auf Admin.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Wählen Sie Mobile Apps.
+1. Wählen Sie **Mobile Apps**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -42,9 +42,8 @@ So machen Sie das.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf **SEND**.
+1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf **Senden**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
    Der SDK-Code wird jetzt an Ihren Entwickler gesendet.
-
