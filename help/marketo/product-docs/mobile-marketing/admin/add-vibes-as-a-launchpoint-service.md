@@ -3,7 +3,7 @@ unique-page-id: 11378845
 description: hinzufügen Vibes as a LaunchPoint Service - Marketing Docs - Produktdokumentation
 title: hinzufügen Vibes als LaunchPoint-Dienst
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 
-Sie können SMS-Nachrichten an die Personen in Ihren Vibes-Listen senden und mit der SMS-Aktivität Kampagnen auslösen und filtern. Zunächst müssen Sie Vibes als LaunchPoint-Dienst hinzufügen.
+Sie können SMS-Nachrichten an die Personen in Ihren Vibes-Listen senden und die SMS-Aktivität zum Trigger und Filtern von Kampagnen verwenden. Zunächst müssen Sie Vibes als LaunchPoint-Dienst hinzufügen.
 
 >[!NOTE]
 >
@@ -42,4 +42,3 @@ Sie können SMS-Nachrichten an die Personen in Ihren Vibes-Listen senden und mit
    Der neue SMS-Dienst wird jetzt in der Liste &quot;Installierte Dienste&quot;angezeigt.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
