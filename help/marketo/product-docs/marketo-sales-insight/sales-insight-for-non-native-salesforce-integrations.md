@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: Sales Insight für nicht-native Salesforce-Integrationen - Marketing-Dokumente - Produktdokumentation
 title: Sales Insight für nicht native Salesforce-Integrationen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -22,9 +22,6 @@ Wenn Ihr Marketo-Konto über eine benutzerdefinierte oder nicht native Integrati
 >* Marketo REST API [erfolgreich eingerichtet](https://developers.marketo.com/rest-api/). Die offen gelegten CRUD-APIs bilden die Grundlage für die Durchführung der nicht nativen Synchronisierung.
 >* Lesen Sie [diesen Blog-Beitrag](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/), um ein Verständnis des Objekts und der Beziehungen zu erhalten.
 >* Richten Sie Salesforce-Objekte so ein, dass der globale eindeutige Bezeichner mit 18 Zeichen und nicht der globale eindeutige Bezeichner mit 15 Zeichen ohne Unterscheidung zwischen Groß- und Kleinschreibung angezeigt wird.
-
->
-
 
 
 >[!NOTE]
@@ -62,7 +59,7 @@ API-Dokumentation für die Synchronisierung der Vertriebsperson: [https://develo
 
 1. Synchronisieren Sie die Salesforce-Konten mit Marketo.
 
-   Für das Salesforce-Konto muss eine Marketo-Firma aktualisiert werden. Die Felder *externalCompanyId* und *externalSalesPersonId* werden für die Aktualisierung der Firma angefordert.
+   Für das Salesforce-Konto muss eine Marketo-Firma aktualisiert werden. Die Felder _externalCompanyId_ und _externalSalesPersonId_ werden für die Aktualisierung der Firma angefordert.
 
 <table> 
  <colgroup> 
@@ -94,7 +91,7 @@ API-Dokumentation für Firmen: [https://developers.marketo.com/rest-api/lead-dat
 
 1. Synchronisieren Sie die Salesforce Leads/Kontakte mit Marketo.
 
-   Sie müssen einen Marketo Lead für den Salesforce Lead/Kontakt aufstellen. Die Felder *externalPersonId*, *externalSalesPersonId* und *externalCompanyId* sind für die Aktualisierung des Interessenten obligatorisch.
+   Sie müssen einen Marketo Lead für den Salesforce Lead/Kontakt aufstellen. Die Felder _externalPersonId_, _externalSalesPersonId_ und _externalCompanyId_ sind für die Aktualisierung des Interessenten obligatorisch.
 
 <table> 
  <colgroup> 
@@ -131,7 +128,7 @@ API-Dokumentation für die Synchronisierung von Interessenten:  [https://develop
 
 1. Synchronisieren Sie Salesforce-Chancen mit Marketo.
 
-   Für die Salesforce-Gelegenheit müssen Sie eine Marketing-Chance aktualisieren. Die Felder *externalOpportunityId*, *externalCompanyId* und *externalSalesPersonId* sind für die Aktualisierung der Gelegenheit obligatorisch.
+   Für die Salesforce-Gelegenheit müssen Sie eine Marketing-Chance aktualisieren. Die Felder _externalOpportunityId_, _externalCompanyId_ und _externalSalesPersonId_ sind für die Aktualisierung der Gelegenheit obligatorisch.
 
 <table> 
  <colgroup> 
@@ -168,7 +165,7 @@ API-Dokumentation für Chancen: [`https://developers.marketo.com/rest-api/lead-d
 
 1. Synchronisieren Sie Salesforce-Kontaktrollen mit Marketo.
 
-   Salesforce-Kontaktrollen für eine Salesforce-Chance können dann über die Marketing-Opportunity-Rolle synchronisiert werden. Der Bericht &quot;Opportunity Role&quot;fordert die Felder *externalOpportunityId*, *role* und *leadId* auf.
+   Salesforce-Kontaktrollen für eine Salesforce-Chance können dann über die Marketing-Opportunity-Rolle synchronisiert werden. Der Bericht &quot;Opportunity Role&quot;fordert die Felder _externalOpportunityId_, _role_ und _leadId_ auf.
 
 <table> 
  <colgroup> 
@@ -207,7 +204,7 @@ API-Dokumentation für Chancen: [`https://developers.marketo.com/rest-api/lead-d
 
    Sobald Ihre Salesforce-Objekte korrekt mit Marketo synchronisiert wurden, können Sie die MSI-Funktionen nutzen. Die Felder &quot;Letzter interessanter Moment/Bewertung&quot;für MSI werden in der REST-API für Interessenten angezeigt. Diese Felder werden durch MSI berechnet und sind schreibgeschützt.
 
-   Die Felder &quot;Letzter interessanter Moment/Bewertung&quot;eines Marketo-Interessenten müssen regelmäßig mit Salesforce unter Verwendung des REST API-Interessentenendpunkts synchronisiert werden. Abfrage dieses Endpunkts für einen Marketo-Lead mit der *externalPersonId* als filterType und Übergabe der Salesforce-Lead-GUID als filterValue.
+   Die Felder &quot;Letzter interessanter Moment/Bewertung&quot;eines Marketo-Interessenten müssen regelmäßig mit Salesforce unter Verwendung des REST API-Interessentenendpunkts synchronisiert werden. Abfrage dieses Endpunkts für einen Marketo-Lead mit der _externalPersonId_ als filterType und Übergabe der Salesforce-Lead-GUID als filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -264,7 +261,6 @@ API-Dokumentation für Chancen: [`https://developers.marketo.com/rest-api/lead-d
  </tbody> 
 </table>
 
-Dokumentation für die Interessenten-REST-API:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+Dokumentation für die Interessenten-REST-API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 Die ordnungsgemäße Verwendung der externen Felder ist der Schlüssel für eine erfolgreiche, nicht native Synchronisierung. Wenn in einigen Ansichten keine Daten angezeigt werden, wurde ein bestimmtes Feld wahrscheinlich nicht korrekt synchronisiert. Wenn beispielsweise die Aktivitäten und interessanten Momente eines Interessenten beim Betrachten des MSI-Widgets unter seinem Konto nicht angezeigt werden, ist es wahrscheinlich, dass entweder die Firma des Interessenten oder das Konto nicht richtig synchronisiert wurde. Wenn Sie eine GET für diesen Interessenten durchführen und dabei die externen Felder angeben, können Sie überprüfen, ob der Interessent richtig synchronisiert wurde. Darüber hinaus muss die E-Mail für den externen Vertriebsmitarbeiter in Marketo mit der E-Mail für diesen Benutzer in Salesforce übereinstimmen. Daten werden in Salesforce auf der Registerkarte &quot;Markieren&quot;möglicherweise nicht angezeigt, wenn die E-Mails nicht übereinstimmen.
-
