@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Score-Felder für Sterne und Flammen in Sales Insight - Marketing Docs - Produktdokumentation festlegen
 title: Score-Felder für Sterne und Flammen in Sales Insight festlegen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertun
 
 >[!TIP]
 >
->Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie [diese erstellen.](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie [wie ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) erstellen.
 
 >[!NOTE]
 >
 >**Definition**
 >
->* **Sterne: **Sterne stellen den Gesamt-Interessentenwert im Vergleich zu anderen Interessenten dar.
+>* **Sterne**: Sterne stellen den Gesamt-Interessentenwert im Vergleich zu anderen Interessenten dar.
 >* **Flammen**: Flammen stellen die Dringlichkeit dar - wie stark sich das Ergebnis eines Interessenten in letzter Zeit verändert hat.
 
 >
@@ -50,7 +50,8 @@ Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertun
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Klicken Sie auf Speichern.
+1. Klicken Sie auf **Speichern**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertun
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
