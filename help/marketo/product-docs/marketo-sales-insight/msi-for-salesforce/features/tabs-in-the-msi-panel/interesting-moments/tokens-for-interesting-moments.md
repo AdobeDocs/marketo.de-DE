@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Tokens für interessante Momente - Marketing Docs - Produktdokumentation
 title: Tokens für interessante Momente
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Hier erfahren Sie, wie Sie den Schritt [Interessanter Moment-Fluss](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) verwenden.
->* Erfahren Sie mehr über [Token](https://docs.marketo.com/display/docs/tokens).
-
->
-
-
+>Hier erfahren Sie, wie Sie den Schritt [Interessanter Moment-Fluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) verwenden.
 
 ## Verfügbare Tokens {#available-tokens}
 
-Sehen Sie sich [Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
+Sehen Sie sich [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
 
 ## Trigger-Tokens {#trigger-tokens}
 
@@ -249,4 +244,3 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zus�
 >Testen Sie immer Ihre interessanten Momente, um sicherzustellen, dass sie die von Ihnen gewünschte Art darstellen.
 >
 >Vergewissern Sie sich auch, dass es für den Verkäufer interessant ist, nicht nur für Sie. ![(wink)](assets/wink.svg)>
-
