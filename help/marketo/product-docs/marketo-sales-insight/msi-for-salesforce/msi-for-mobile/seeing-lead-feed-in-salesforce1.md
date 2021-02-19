@@ -3,7 +3,7 @@ unique-page-id: 7512654
 description: Lead Feed in Salesforce1 - Marketing Docs - Produktdokumentation
 title: Lead-Feed in Salesforce1 anzeigen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,11 +33,7 @@ Der Interessentenfeed ist eine aktuelle Liste interessanter Ereignis, die Ihre I
 
 >[!MORELIKETHIS]
 >
->* [Interessante Momente in Salesforce1](interesting-moments-in-salesforce1.md)
->* [Senden von E-Mail-Nachrichten und Kampagnen- und Watchlist-Aktionen in Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Beste Einsätze in Salesforce1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Interessante Momente in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Senden von E-Mail-Nachrichten und Kampagnen- und Watchlist-Aktionen in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Beste Einsätze in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
