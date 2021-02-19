@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Priorität, Dringlichkeit, relative Bewertung und Best-Bets - Marketing-Dokumente - Produktdokumentation
 title: Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Ihre besten Wetten sind Ihre Kontakte und Kontakte mit der höchsten Dringlichke
 
 >[!NOTE]
 >
->Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit jemandem in Ihrer Firma, der Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Bewertungsregeln](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit jemandem in Ihrer Firma, der Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Bewertungsregeln](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Berechnung der Dringlichkeitsbewertung und der relativen Bewertung
 
@@ -54,8 +54,3 @@ Wenn sich Bewertungen ändern, werden Dringlichkeit, Priorität und relative Wer
 >[!NOTE]
 >
 >Die Werte für relative Dringlichkeit (Flammen) und Relative Punktzahl (Sterne) sind Ganzzahlen in Marketo. Mögliche Werte sind 0-3.
-
->[!MORELIKETHIS]
->
->* [MarketingTo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
