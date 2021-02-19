@@ -3,7 +3,7 @@ unique-page-id: 11377640
 description: Marketo Outlook Plugin autorisieren - Marketing Docs - Produktdokumentation
 title: Marketo Outlook-Plugin autorisieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Um das Marketo MSI Plugin in Outlook verwenden zu können, müssen Sie es autori
 1. Wenn die E-Mail-Adresse nicht autorisiert ist, erhalten Sie diese weniger glückliche E-Mail. Wenden Sie sich an Ihren Marketing-Administrator, um das Problem zu beheben.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
