@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: Verwendung des Interessenten-Feeds - Marketing Docs - Produktdokumentation
 title: Verwendung des Interessenten-Feeds
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ Der Interessentenfeed ist eine aktuelle Liste interessanter Ereignis, die Ihre I
 
 ## Was ist im Interessentenfeed? {#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 Jeder Artikel im Interessentenfeed ist ein interessanter Moment - eine bemerkenswerte Aktivität oder ein Ereignis im Marketingverlauf dieses Leads.
 
 Bei der Anzeige in Salesforce verfügt jedes Element über Folgendes:
@@ -73,17 +74,19 @@ Bei der Anzeige in Salesforce verfügt jedes Element über Folgendes:
 
 Sie können auch Lead-Feed-Aktualisierungen über RSS-Dienste erhalten.  Mit einem RSS-Feed können Sie Aktualisierungen zu Ihren Leads erhalten, auch wenn Sie nicht mit Salesforce verbunden sind. Der Feed enthält dieselben Informationen wie der Interessentenfeed in Salesforce sowie folgende Informationen (falls verfügbar):
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* E-Mail-Adresse
+* Telefonnummer
+* Mobilnummer
+* Faxnummer
+* Anschrift der Firma
+* Firmen-URL
 
 >[!NOTE]
 >
->Der Marketo-Administrator Ihrer Firma muss [RSS-Feeds](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) aktivieren, damit dies funktioniert.
+>Der Marketo-Administrator Ihrer Firma muss [RSS-Feeds](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) aktivieren, damit dies funktioniert.
 
-Um RSS-Aktualisierungen zu erhalten, benötigen Sie zwei Dinge: den RSS-Link und einen RSS-Feed-Reader. Sie können den RSS-Link abrufen, indem Sie auf das RSS-Symbol im Interessentenfeed klicken:   ![](assets/three.png)
+Um RSS-Aktualisierungen zu erhalten, benötigen Sie zwei Dinge: den RSS-Link und einen RSS-Feed-Reader. Sie können den RSS-Link abrufen, indem Sie auf das RSS-Symbol im Interessentenfeed klicken:
+
+![](assets/three.png)
 
 Der RSS-Feed wird in einem neuen Fenster angezeigt. Anschließend können Sie die URL für Ihren RSS-Feed kopieren und in einem RSS-Reader verwenden. Die meisten Browser verfügen über einen integrierten RSS-Reader oder über einen RSS-Reader, der speziell für Ihre Plattform geeignet ist.
