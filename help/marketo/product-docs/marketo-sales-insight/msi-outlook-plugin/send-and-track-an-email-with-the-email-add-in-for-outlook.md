@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: Senden und Verfolgen einer E-Mail mit dem E-Mail-Hinzufügen für Outlook - Marketing Docs - Produktdokumentation
 title: E-Mail mit dem E-Mail-Hinzufügen für Outlook senden und verfolgen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
 
 >[!PREREQUISITES]
 >
->Wenn noch nicht geschehen, installieren Sie das [Marketing E-Mail-Add-In für Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Wenn noch nicht geschehen, installieren Sie das [Marketing E-Mail-Add-In für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Öffnen Sie Microsoft Outlook und erstellen Sie eine neue E-Mail.
 
@@ -37,7 +37,7 @@ Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
 
    >[!TIP]
    >
-   >Wenn Sie eine Marketing-Vorlage verwenden möchten, finden Sie weitere Informationen unter [Senden und Verfolgen aus Outlook mit einer Vorlage](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Wenn Sie eine Marketing-Vorlage verwenden möchten, finden Sie weitere Informationen unter [Senden und Verfolgen aus Outlook mit einer Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Sehen Sie sich die Vorschau an und klicken Sie auf **Senden**.
 
@@ -55,9 +55,4 @@ Das ist so einfach! Obwohl diese E-Mail von einem Verkäufer Outlook gesendet wu
 
 >[!MORELIKETHIS]
 >
->* [Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing ein](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing ein](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
