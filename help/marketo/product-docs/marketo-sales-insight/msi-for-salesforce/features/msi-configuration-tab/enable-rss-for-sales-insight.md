@@ -3,7 +3,7 @@ unique-page-id: 11377005
 description: RSS für Sales Insight - Marketing Docs - Produktdokumentation aktivieren
 title: RSS für Sales Insight aktivieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Wenn Marketo-Benutzer ihren Interessentenfeed nicht nur in Salesforce, sondern a
 
    ![](assets/rss-settings-tab.png)
 
-   Aktivieren Sie im Dialogfeld &quot;Einstellungen bearbeiten&quot;das Kontrollkästchen **RSS-Feed** und klicken Sie auf **Speichern**.
+1. Aktivieren Sie im Dialogfeld &quot;Einstellungen bearbeiten&quot;das Kontrollkästchen **RSS-Feed** und klicken Sie auf **Speichern**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -36,4 +36,3 @@ Wenn Marketo-Benutzer ihren Interessentenfeed nicht nur in Salesforce, sondern a
    ![](assets/rss-final-box.png)
 
    Kuchen!
-
