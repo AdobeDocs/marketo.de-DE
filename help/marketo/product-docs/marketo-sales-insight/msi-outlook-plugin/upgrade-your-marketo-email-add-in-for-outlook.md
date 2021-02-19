@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Aktualisieren Sie Ihre MarketingTo E-Mail-Hinzufügen für Outlook - Marketing Docs - Produktdokumentation
 title: Upgrade Ihres MarketingTo E-Mail-Hinzufügen für Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Klicken Sie auf Weiter.
+1. Klicken Sie auf **Weiter**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
    >
    >Wenn die Installation fehlschlägt, wenden Sie sich an Ihre IT-Abteilung, um sicherzustellen, dass HTTPS-Traffic nicht blockiert wird. Für das Installationsprogramm muss HTTPS-Traffic geöffnet sein.
 
-   Klicken Sie auf Weiter, um die Installation am Standardspeicherort durchzuführen.
+1. Klicken Sie auf **Weiter**, um die Installation am Standardspeicherort durchzuführen.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
 
 >[!MORELIKETHIS]
 >
->* [Senden und Verfolgen einer E-Mail mit dem Marketing E-Mail-Hinzufügen für Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Senden und Verfolgen von Outlook mit einer Marketing-Vorlage](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Senden und Verfolgen einer E-Mail mit dem Marketing E-Mail-Hinzufügen für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Senden und Verfolgen von Outlook mit einer Marketing-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
