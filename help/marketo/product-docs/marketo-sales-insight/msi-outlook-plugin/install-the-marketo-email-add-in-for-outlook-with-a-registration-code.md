@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: Installieren Sie das Hinzufügen-in für Outlook mit einem Registrierungscode - Marketing Docs - Produktdokumentation.
 title: Installieren Sie das Hinzufügen-in für Outlook mit einem Registrierungscode.
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -19,15 +19,12 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
 >[!PREREQUISITES]
 >
->* Sie müssen [eine Hinzufügen-in-Lizenz von ](issue-a-marketo-email-add-in-license.md) erhalten haben.
-
->
-
-
+>Sie müssen [eine Hinzufügen-in-Lizenz von ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) erhalten haben.
 
 ## Installationsprogramm herunterladen {#download-installer}
 
 1. Identifizieren Sie die [Microsoft Outlook-Version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+
 1. Klicken Sie auf den Link, um das Installationsprogramm herunterzuladen, das für Ihre Version von Microsoft Outlook geeignet ist.
 
    >[!NOTE]
@@ -71,7 +68,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Füllen Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und kopieren Sie dann den **Registrierungscode **aus der E-Mail in das Formular und klicken Sie auf **Weiter**.
+1. Füllen Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und kopieren Sie dann den **Registrierungscode** aus der E-Mail in das Formular und klicken Sie auf **Weiter**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -79,7 +76,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
    >
    >Wenn die Installation fehlschlägt, wenden Sie sich an Ihre IT-Abteilung, um sicherzustellen, dass HTTPS-Traffic nicht blockiert wird. Für das Installationsprogramm muss HTTPS-Traffic geöffnet sein.
 
-1. Klicken Sie auf** Weiter*, um die Installation im Standardspeicherort durchzuführen.
+1. Klicken Sie auf **Weiter**, um die Installation am Standardspeicherort durchzuführen.
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -105,10 +102,6 @@ Erfahren Sie mehr über die Verwendung der Aktionen &quot;Marketo-Nachricht&quot
 
 >[!MORELIKETHIS]
 >
->* [Senden und Verfolgen einer E-Mail mit dem Marketing E-Mail-Hinzufügen für Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Senden und Verfolgen von Outlook mit einer Marketing-Vorlage](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Senden und Verfolgen einer E-Mail mit dem Marketing E-Mail-Hinzufügen für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Senden und Verfolgen von Outlook mit einer Marketing-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
