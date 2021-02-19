@@ -3,7 +3,7 @@ unique-page-id: 7512432
 description: Mobile App-Android-Push-Zugriff konfigurieren - Marketing Docs - Produktdokumentation
 title: Mobile App-Android-Push-Zugriff konfigurieren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   Wählen Sie die gewünschte mobile App aus.
+1. Wählen Sie die gewünschte mobile App aus.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Sie benötigen einen **Server-API-Schlüssel** und **Projektnummer** von Ihrem Mobile-Apps-Entwickler. Der Entwickler erhält diese Informationen, indem er sich bei der Google Play Developer Console anmeldet, um Ihre App zu registrieren und Cloud Messaging zu aktivieren.
 
-   Geben Sie Ihren Server-API-Schlüssel und Ihre Projektnummer ein. Klicken Sie auf Speichern.
+1. Geben Sie Ihren Server-API-Schlüssel und Ihre Projektnummer ein. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Mobile App konfigurieren - Push-Zugriff auf iOS](configure-mobile-app-ios-push-access.md)
-
->
-
-
-
+>[Mobile App konfigurieren - Push-Zugriff auf iOS](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
