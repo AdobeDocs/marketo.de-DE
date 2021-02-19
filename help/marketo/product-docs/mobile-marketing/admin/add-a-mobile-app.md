@@ -3,7 +3,7 @@ unique-page-id: 7512252
 description: hinzufügen einer mobilen App - Marketing Docs - Produktdokumentation
 title: hinzufügen einer mobilen App
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Apps werden in der Regel in einer Sandbox-Umgebung Beginn, in der Erstentwicklun
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Klicken Sie auf** Mobile Apps &amp; Geräte**.
+1. Klicken Sie auf **Mobile Apps &amp; Devices**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   Klicken Sie auf Neue mobile App.
+1. Klicken Sie auf **Neue mobile App**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -46,10 +46,6 @@ Apps werden in der Regel in einer Sandbox-Umgebung Beginn, in der Erstentwicklun
 
 >[!MORELIKETHIS]
 >
->* [Mobile App-Android-Push-Zugriff konfigurieren](configure-mobile-app-android-push-access.md)
->* [Mobile App konfigurieren - Push-Zugriff auf iOS](configure-mobile-app-ios-push-access.md)
-
->
-
-
+>* [Mobile App-Android-Push-Zugriff konfigurieren](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [Mobile App konfigurieren - Push-Zugriff auf iOS](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
