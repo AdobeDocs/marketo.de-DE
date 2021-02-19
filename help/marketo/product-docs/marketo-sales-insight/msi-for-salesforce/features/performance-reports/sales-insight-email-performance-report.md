@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: Sales Insight-E-Mail-Leistungsbericht - Marketing-Dokumente - Produktdokumentation
 title: Sales Insight-E-Mail-Leistungsbericht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ Sie können diesen Bericht nach Vertriebsmitarbeiter gruppieren, indem Sie Ihre 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    Ziemlich cool, oder? Jetzt können Sie die Performance von E-Mails gruppiert nach Vertriebsmitarbeitern sehen.
-
