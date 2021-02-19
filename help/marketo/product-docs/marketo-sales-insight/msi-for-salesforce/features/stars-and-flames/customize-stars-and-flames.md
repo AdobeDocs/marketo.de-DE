@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Anpassen von Sternen und Flammen - Marketo Docs - Produktdokumentation
 title: Anpassen von Sternen und Flammen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,13 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Interessenten zu priorisi
 
 >[!AVAILABILITY]
 >
->
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie unter Admin auf Sales Insight.
+1. Klicken Sie unter Admin auf **Sales Insight**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -38,9 +37,7 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Interessenten zu priorisi
    >
    >**Definition**
    >
-   >
-   >**Dynamisch** : Ein Prozentwert, der aus  [relativen Daten](priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
-   >
+   >**Dynamisch** : Ein Prozentwert, der aus  [relativen Daten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
    >
    >**Statisch**  - Ermöglicht die Festlegung exakter Punktzahlen - keine Prozentsätze mehr, keine Geheimsaucen mehr.
 
@@ -50,14 +47,11 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Interessenten zu priorisi
 
    >[!TIP]
    >
-   >
    >Bearbeiten Sie einfach den Ausgangsprozentsatz, Marketo berechnet den Endprozentsatz für Sie!
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**Erinnerung**
 >
 >Sobald Änderungen vorgenommen wurden, wird der Prozess der Neuberechnung von Sternen und Flammen einige Zeit in Anspruch nehmen. Geduld ist eine Tugend.
 
