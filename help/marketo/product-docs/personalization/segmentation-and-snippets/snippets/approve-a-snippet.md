@@ -3,9 +3,9 @@ unique-page-id: 2359463
 description: Snippet genehmigen - Marketing Docs - Produktdokumentation
 title: Snippet genehmigen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen von Inhalten in ein Snippet](add-content-to-a-snippet.md)
-
->
-
-
+>[hinzufügen von Inhalten in ein Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Ein Snippet muss vor der Verwendung genehmigt werden.
 
-1. Gehen Sie zum** Design Studio.**
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klicken Sie auf **Snippet** und dann unter **Snippet-Aktionen** auf **Genehmigen**.
+1. Klicken Sie auf **Snippet**. Klicken Sie unter **Snippet-Aktionen** auf **Genehmigen**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -35,9 +31,4 @@ Das ist&#39;s! Der Status des Snippets ändert sich von &quot;Entwurf&quot;in &q
 
 >[!MORELIKETHIS]
 >
->* [Snippet ohne Entwurf genehmigen](approve-a-snippet-with-no-draft.md)
-
->
-
-
-
+>[Snippet ohne Entwurf genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
