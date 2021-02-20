@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Predictive Content für Web Rich Media - Marketing-Dokumente - Produktdokumentation aktivieren
 title: Predictive Content für Web Rich Media aktivieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ Predictive Content bindet Ihre Web-Besucher mit den relevantesten Inhalten, basi
 >
 >Bevor Sie Predictive Content aktivieren, müssen Sie:
 >
->* [Vorbereitung von prädiktiven Inhalten](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **Vorbereitung von prädiktiven Inhalten**
+   >
+   >   
+   * [Predictive Inhalte für ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) E-Mail bearbeiten
+   >   * [Predictive Content für Rich ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) Media bearbeiten
+   >   * [Predictive Inhalte für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorbereitet haben, können Sie einzelne oder mehrere Inhaltselemente aktivieren.
@@ -58,9 +61,3 @@ Hier ist ein Beispiel für die Rich Media Recommendation Template1:
 Hier ist ein Beispiel für die Rich Media Recommendation Template2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [Symbolleiste für die Inhaltsempfehlung aktivieren](enable-the-content-recommendation-bar.md)
->* [Predictive Inhalte in E-Mails aktivieren](https://docs.marketo.com/x/vLit)
-
