@@ -3,19 +3,15 @@ unique-page-id: 11384634
 description: Die Zusammenfassung der prädiktiven Inhalte - Marketing Docs - Produktdokumentation
 title: Zusammenfassung des Predictive Content
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
 # Zusammenfassung des Predictive Content {#the-predictive-content-summary}
-
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Die Zusammenfassung der prognostizierten Inhalte zeigt die Informationen, die Sie über Ihren prädiktiven Inhalt benötigen, auf einen Blick an, mit Tabellen, Diagrammen und aktuellen Zahlen.
 
@@ -52,13 +48,3 @@ Welche Kategorien von Inhalten sind am interessantesten? Sehen Sie es in diesem 
 >[!NOTE]
 >
 >Wenn Sie auf einen Link zur Kategorie klicken (Beispiele oben): Schreiben, E-Mail usw.) Dadurch wird die Seite &quot;Alle Inhalte&quot;mit der Kategorie geöffnet, auf die Sie geklickt haben und die die Inhaltsanalyse in dieser Kategorie anzeigt.
-
->[!MORELIKETHIS]
->
->* [Arbeiten mit allen Inhalten](https://docs.marketo.com/display/docs/working+with+all+content)
->* [Arbeiten mit prädiktiven Inhalten](https://docs.marketo.com/display/docs/working+with+predictive+content)
-
->
-
-
-
