@@ -3,7 +3,7 @@ unique-page-id: 7512463
 description: Mobile Push-Benachrichtigung löschen - Marketing-Dokumente - Produktdokumentation
 title: Mobile Push-Benachrichtigung löschen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mobile Push-Benachrichtigung löschen {#delete-mobile-push-notification}
 
-1. Gehen Sie zum Bereich Marketing-Aktivitäten.
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -25,11 +25,10 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-   Bestätigen Sie, indem Sie auf DELETE klicken.
+1. Bestätigen Sie dies, indem Sie auf **Löschen** klicken.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 
    >[!NOTE]
    >
    >Wenn die Mobile Push-Benachrichtigung von anderen Assets verwendet wird, ist das Löschen nicht zulässig. Sie müssen sie aus den Assets entfernen.
-
