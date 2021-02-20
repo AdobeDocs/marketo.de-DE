@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: Inhalt bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Inhalt bearbeiten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Sie können Listen auf der Seite &quot;Alle Inhalte&quot;bearbeiten.
 1. Markieren Sie das Kontrollkästchen **Genehmigen für Prognostischen Inhalt**, um die Genehmigung zu genehmigen, oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/edit-content-4.png)
-
