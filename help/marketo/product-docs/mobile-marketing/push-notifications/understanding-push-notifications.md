@@ -3,7 +3,7 @@ unique-page-id: 7511518
 description: Grundlegendes zu Push-Benachrichtigungen - Marketing-Dokumente - Produktdokumentation
 title: Informationen zu Push-Benachrichtigungen
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Mit der Interaktion mit Marketo für Mobilgeräte können Sie eine Benachrichtig
 
 ## Schritt 1: Admin und Entwickler führen erste Setups durch {#step-admin-and-developer-perform-initial-setups}
 
-Die Entwickler von Marketo Admin und mobilen Apps arbeiten zusammen, um Sie einzurichten. Weitere Informationen finden Sie unter [Bevor Sie Push-Benachrichtigungen und In-App-Nachrichten erstellen](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
+Die Entwickler von Marketo Admin und mobilen Apps arbeiten zusammen, um Sie einzurichten. Weitere Informationen finden Sie unter [Bevor Sie Push-Benachrichtigungen und In-App-Nachrichten erstellen](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Schritt 2: Push-Benachrichtigung erstellen {#step-create-a-push-notification}
 
-[Gestalten Sie Ihre ](create-a-push-notification.md) Nachrichten und Vorschauen, wie sie auf Android- und iOS-Geräten angezeigt werden.
+[Gestalten Sie Ihre ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) Nachrichten und Vorschauen, wie sie auf Android- und iOS-Geräten angezeigt werden.
 
 ## Schritt 3: Schicken! {#step-send}
 
-[Push-Benachrichtigungen können mit intelligenten Trigger- und Batch-Kampagnen ](send-a-mobile-push-notification.md) gesendet werden. Ziemlich cool, oder?
+[Push-Benachrichtigungen können mit intelligenten Trigger- und Batch-Kampagnen ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) gesendet werden. Ziemlich cool, oder?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
