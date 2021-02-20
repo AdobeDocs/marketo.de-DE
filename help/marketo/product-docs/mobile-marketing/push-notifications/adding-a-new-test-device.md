@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: Hinzufügen eines neuen Testgeräts - MarketingToDocs - Produktdokumentation
 title: Hinzufügen eines neuen Testgeräts
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Es ist einfach, ein neues Testgerät hinzuzufügen, an das Push-Benachrichtigung
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie auf **Admin **und dann auf den Link **Mobile Apps**.\
+1. Klicken Sie auf **Admin** und dann auf den Link **Mobile Apps**.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Klicken Sie auf die Registerkarte **Testgeräte** und **Neues Testgerät**.
@@ -51,4 +52,3 @@ Es ist einfach, ein neues Testgerät hinzuzufügen, an das Push-Benachrichtigung
 1. Der Status wird aktualisiert, um anzuzeigen, dass das Gerät hinzugefügt wird. Herzlichen Glückwunsch!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
