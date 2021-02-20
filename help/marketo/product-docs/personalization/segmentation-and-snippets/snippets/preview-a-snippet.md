@@ -3,7 +3,7 @@ unique-page-id: 2359498
 description: Vorschau a Snippet - Marketing Docs - Produktdokumentation
 title: Vorschau eines Snippets
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen von Inhalten in ein Snippet](add-content-to-a-snippet.md)
-
->
-
-
+>[hinzufügen von Inhalten in ein Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Snippets sind Blöcke mit dynamischem Inhalt, die sich je nach Segmentierungsregeln ändern.
 
-1. Gehen Sie zum **Design Studio.**
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -35,9 +31,4 @@ Vorschau ist hervorragend, um sicherzustellen, dass Ihr Inhalt für jedes Segmen
 
 >[!MORELIKETHIS]
 >
->* [Snippet genehmigen](approve-a-snippet.md)
-
->
-
-
-
+>[Snippet genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
