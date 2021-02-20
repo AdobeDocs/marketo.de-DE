@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Mobile Push-Benachrichtigung konfigurieren - MarketingToDocs - Produktdokumentation
 title: Mobile Push-Benachrichtigung konfigurieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mobile Push-Benachrichtigung konfigurieren {#configure-mobile-push-notification}
 
-1. Gehen Sie zum Bereich Marketing-Aktivitäten.
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   Wenn Ihre Push-Nachricht nur für eine Plattform gilt (z. B. für iPhones), können Sie die andere Plattform ausschließen, indem Sie ihre Auswahl auf Deaktiviert verschieben.
+1. Wenn Ihre Push-Nachricht nur für eine Plattform gilt (z. B. für iPhones), können Sie die andere Plattform ausschließen, indem Sie ihre Auswahl auf Deaktiviert verschieben.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Klicken Sie auf WEITER.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
-   >Es gibt drei Arten von**-Tap-Aktionen:**
-   >
+   >Es gibt drei Arten von Tippen-Aktionen:
    >
    >**App**  starten:  **Dieses** Apps öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **** Benutzerdefiniert öffnet einen Deep Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden Sie unter  [Deep Link-](#Deeplink) URIss unten).
    >
-   >
    >**Landingpage**  - bringt Sie zu einer bestimmten Marketo-Landingpage.
-   >
    >
    >**Externe URL**  - führt Sie zu einer Nicht-Marketo-Landingpage.
 
-   Um einen Deep Link für eine benutzerdefinierte Tickaktion einzufügen, klicken Sie auf &quot;Benutzerdefiniert&quot;und geben Sie den [Deep-Link-URI](#Deeplink) in das Feld ein.
+1. Um einen Deep Link für eine benutzerdefinierte Tickaktion einzufügen, klicken Sie auf &quot;Benutzerdefiniert&quot;und geben Sie den [Deep-Link-URI](#Deeplink) in das Feld ein.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   Um Token einzufügen, wählen Sie ein Token aus, geben Sie einen Standardwert ein und klicken Sie auf Einfügen.
+1. Um Token einzufügen, wählen Sie ein Token aus, geben Sie einen Standardwert ein und klicken Sie auf Einfügen.
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >Nachrichten und Tippen-Aktionen sehen auf beiden Plattformen gleich aus.
 
-   Markieren Sie das Kontrollkästchen nur für iOS, um der App mitzuteilen, dass sie beim Eintreffen der Nachricht einen Ton abspielen soll. Android gibt den Sound automatisch wieder.
+1. Markieren Sie das Kontrollkästchen nur für iOS, um der App mitzuteilen, dass sie beim Eintreffen der Nachricht einen Ton abspielen soll. Android gibt den Sound automatisch wieder.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Vorschau der anderen Plattform und klicken Sie auf FINISH.
+1. Vorschau der anderen Plattform und klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klicken Sie auf **GENEHMIGEN UND SCHLIESSEN**.
+1. Klicken Sie auf **Genehmigen und Schließen**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ Allerdings kann sich die Deep-Link-Struktur Ihrer App vom oben genannten Beispie
 
 >[!MORELIKETHIS]
 >
->* [Push-Benachrichtigung für Mobilgeräte senden](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[Push-Benachrichtigung für Mobilgeräte senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
