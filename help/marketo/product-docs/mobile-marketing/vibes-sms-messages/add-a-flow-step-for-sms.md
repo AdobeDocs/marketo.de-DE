@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: hinzufügen eines Flussschritts für SMS - Marketing Docs - Produktdokumentation
 title: hinzufügen eines Flussschritts für SMS
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ Marketo verfügt über drei Flussschritte, die Sie in Ihren SMS-Smart-Kampagnen 
 >* Marketo dedupliziert per Telefonnummer. Wenn also mehrere Personen dieselbe Telefonnummer haben, erhält nur eine Person die Nachricht.
 >* Marketo sendet keine Personen, die auf die Blockierungsliste gesetzt oder Marketing ausgesetzt sind.
 
->
 
-
-
-Allgemeine Informationen zum Einrichten von Flussschritten finden Sie unter [Hinzufügen eines Flussschritts zu einer intelligenten Kampagne](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Allgemeine Informationen zum Einrichten von Flussschritten finden Sie unter [Hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Hier sind die Grundlagen für die Verwendung von SMS.
 
@@ -50,6 +47,4 @@ Hier sind die Grundlagen für die Verwendung von SMS.
    >
    >Der Vibes-Liste-Selektor dient als weiterer Filter für die bereits in der intelligenten Liste identifizierte Audience, sodass nur die Leads, die zu dieser Vibes-Liste gehören, Zielgruppe werden.
    >
-   >
    >Die Abonnieren der Listen **Vibes abonnieren** und **Abmelden bei der Vibes-Liste** haben unterschiedliche Anforderungen. Für **Abonnieren** müssen Sie die Vibes-Liste und die Vibes-Akquise-Kampagne auswählen. Für **Unsubscribe** ist nur die Liste Vibes erforderlich.
-
