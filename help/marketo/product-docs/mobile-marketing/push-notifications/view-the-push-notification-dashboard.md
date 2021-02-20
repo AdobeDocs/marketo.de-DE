@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: Ansicht des Push-Benachrichtigungs-Dashboards - Marketing Docs - Produktdokumentation
 title: Ansicht des Push-Benachrichtigungs-Dashboards
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,14 +33,10 @@ Es ist einfach zu erkennen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    >[!NOTE]
    >
-   >Die Metrik **Gesendet** kann mehr Sends als die exakte Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang des Push-Vorgangs infrage kommen. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sends, nicht eine.
+   >Die Metrik _Gesendet_ kann mehr Sends als die exakte Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang des Push-Vorgangs infrage kommen. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sends, nicht eine.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Informationen zu Push-Benachrichtigungen](understanding-push-notifications.md)
-   >    * [Push-Benachrichtigung für Mobilgeräte senden](send-a-mobile-push-notification.md)
-
+   >* [Informationen zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Push-Benachrichtigung für Mobilgeräte senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
