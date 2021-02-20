@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: Predictive Inhalte in E-Mails aktivieren - Marketing-Dokumente - Produktdokumentation
 title: Predictive Inhalte in E-Mails aktivieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ Machen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie das
 
 >[!PREREQUISITES]
 >
->Vor der Aktivierung von Predictive Content. Sie müssen:
+>Bevor Sie Predictive Content aktivieren, müssen Sie:
 >
->* [Vorbereitung von prädiktiven Inhalten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **Vorbereitung von prädiktiven Inhalten**
+   >
+   >   
+   * [Predictive Inhalte für ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) E-Mail bearbeiten
+   >   * [Predictive Content für Rich ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) Media bearbeiten
+   >   * [Predictive Inhalte für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ Machen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie das
 
    ![](assets/two.png)
 
-1. Klicken Sie auf das Bild, das prädiktiv sein soll. Wenn das Zahnradsymbol angezeigt wird, klicken Sie darauf und wählen Sie **Inhalt aktivieren`AI`** aus (Inhalt`AI` ist der frühere Name für Predictive Content).
+1. Klicken Sie auf das Bild, das prädiktiv sein soll. Wenn das Zahnradsymbol angezeigt wird, klicken Sie darauf und wählen Sie **ContentAI aktivieren** (ContentAI ist der frühere Name für Predictive Content).
 
    ![](assets/three.png)
 
