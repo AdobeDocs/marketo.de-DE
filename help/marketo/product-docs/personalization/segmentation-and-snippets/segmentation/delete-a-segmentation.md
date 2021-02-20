@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: Eine Segmentierung löschen - Marketing-Dokumente - Produktdokumentation
 title: Eine Segmentierung löschen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Eine Segmentierung kann wie folgt gelöscht werden:
    >
    >Sie können Verknüpfungen entfernen, indem Sie Alternativen für die Assets löschen oder erstellen, die die Segmentierung verwenden.
 
-   Klicken Sie nach der Freigabe auf Segmentierungsaktionen und löschen Sie die Segmentierung.
+1. Klicken Sie nach der Freigabe auf **Segmentierungsaktionen** und löschen Sie die Segmentierung.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
