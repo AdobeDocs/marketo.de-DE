@@ -3,7 +3,7 @@ unique-page-id: 5472328
 description: Bericht aktualisieren - Marketing-Dokumente - Produktdokumentation
 title: Bericht aktualisieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Nach Ansicht eines Berichts speichert Marketo ihn in Ihrer Datenbank, damit er b
    ![](assets/three.png)
 
    Voilà!
-
