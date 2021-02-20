@@ -3,7 +3,7 @@ unique-page-id: 11378869
 description: Erstellen Sie eine SMS-Nachricht von Vibes - Marketing Docs - Produktdokumentation
 title: Erstellen einer Vibes-SMS-Nachricht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 So erstellen Sie eine SMS-Nachricht für Vibes:
 
-1. Gehen Sie zu Marketing-Aktivitäten und klicken Sie mit der rechten Maustaste auf ein Programm.
+1. Gehen Sie zu **Marketing-Aktivitäten** und klicken Sie mit der rechten Maustaste auf ein Programm.
 
    ![](assets/mobile-right-click-hand.jpg)
 
