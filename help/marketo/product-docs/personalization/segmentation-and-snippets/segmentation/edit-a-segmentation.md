@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Eine Segmentierung bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Eine Segmentierung bearbeiten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Der **Status **ändert sich in Mit Entwurf genehmigt. Ein **Entwurf **Ordner wird in Ihrer Segmentierung erstellt.
+1. Das **Status** ändert sich in Genehmigt mit Entwurf. Der Ordner **Draft** wird in Ihrer Segmentierung erstellt.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >Sie können nur Segmente eines Entwurfs und nicht die genehmigte Segmentierung bearbeiten.
 
-1. **hinzufügen Segment**, **Bearbeiten **vorhandene Segmente (umbenennen oder ändern Sie die Reihenfolge) oder **Löschen **beliebige Segmente.
+1. **hinzufügen Segment**,  **** Bearbeiten (Umbenennen oder Ändern der Reihenfolge) oder Löschen von Segmenten  **** aus.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## Segmentregeln bearbeiten {#edit-segment-rules}
 
-1. Gehen Sie im Entwurf **Segment** zu **Intelligente Liste**. Wenden Sie Regeln ähnlich wie [Definieren von Segmentregeln](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules) an.
+1. Gehen Sie im Entwurf **Segment** zu **Intelligente Liste**. Wenden Sie Regeln ähnlich wie [Definieren von Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md) an.
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Vergessen Sie nicht, Ihren Segmentierungsentwurf zu genehmigen.
 
 Experimentieren Sie mit Segmenten, die nicht in dynamischen Inhalten verwendet werden.
 
 >[!MORELIKETHIS]
 >
->* [Eine Segmentierung löschen](delete-a-segmentation.md)
-
->
-
-
-
+>[Eine Segmentierung löschen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
