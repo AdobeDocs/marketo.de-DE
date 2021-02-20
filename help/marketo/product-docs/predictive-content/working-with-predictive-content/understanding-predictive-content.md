@@ -3,19 +3,15 @@ unique-page-id: 11384665
 description: Verstehen von prädiktiven Inhalten - Marketing-Dokumente - Produktdokumentation
 title: Verstehen von prädiktiven Inhalten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 
 # Predictive Content {#understanding-predictive-content}
-
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Nachdem Sie [einen Titel für den vorhersagenden Inhalt ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) genehmigt haben, bearbeiten Sie ihn hier. Auf der Seite &quot;Predictive Content&quot;werden alle Titel angezeigt, die Sie für den Inhalt der Vorschau genehmigt haben.
 
@@ -58,7 +54,7 @@ Die Filterung der Analyse aktivierter Inhalte gibt Ihnen die Möglichkeit zu seh
 
 ## Ansicht Table Data for Predictive Content {#view-table-data-for-predictive-content}
 
-In der Tabelle können Sie von links nach rechts Ansichten darüber vornehmen, welche Quellen für Prognoseinhalte aktiviert sind: Empfehlungsleiste, E-Mail und Rich Media. Aktivierte Quellen werden grün angezeigt. Sie aktivieren diese, wenn Sie [den Inhalt](https://docs.marketo.com/display/docs/edit+predictive+content) bearbeiten.
+In der Tabelle können Sie von links nach rechts Ansichten darüber vornehmen, welche Quellen für Prognoseinhalte aktiviert sind: Empfehlungsleiste, E-Mail und Rich Media. Aktivierte Quellen werden grün angezeigt. Sie aktivieren diese beim Bearbeiten des Inhalts.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -75,9 +71,3 @@ Bewegen Sie den Mauszeiger über die Leiste in der Spalte &quot;Konversionsrat&q
 >**Direkte Konversion**: Besucher, die beim gleichen Besuch auf empfohlenen Inhalt geklickt und ein Formular ausgefüllt haben
 >
 >**Klicken**: Klicks insgesamt auf empfohlene Inhalte (einschließlich aller drei Quellen)
-
->[!MORELIKETHIS]
->
->* [Predictive Content](https://docs.marketo.com/display/docs/predictive+content)
->* [Predictive Content bearbeiten](https://docs.marketo.com/display/docs/edit+predictive+content)
-
