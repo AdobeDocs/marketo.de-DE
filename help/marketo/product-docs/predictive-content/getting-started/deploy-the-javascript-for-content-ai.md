@@ -3,9 +3,9 @@ unique-page-id: 11385053
 description: JavaScript für Content-AI - Marketing Docs - Produktdokumentation bereitstellen
 title: JavaScript für Content-AI bereitstellen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # JavaScript für Content-AI {#deploy-the-javascript-for-content-ai} bereitstellen
 
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
-
-Zur Verwendung von Predictive Content müssen Sie Ihr RTP (Web Personalization) `tag.`
+Zur Verwendung von Predictive Content müssen Sie das RTP-Tag (Web Personalization) erstellen und einrichten.
 
 ## Tag {#generate-tag} erstellen
 
@@ -25,7 +21,7 @@ Zur Verwendung von Predictive Content müssen Sie Ihr RTP (Web Personalization) 
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. Suchen Sie unter **Domänenkonfiguration** die entsprechende Domäne und klicken Sie auf **Tag generieren.**
+1. Suchen Sie unter **Domänenkonfiguration** die entsprechende Domäne und klicken Sie auf **Tag** erstellen.
 
    ![](assets/generate-tag.png)
 
@@ -35,8 +31,8 @@ Zur Verwendung von Predictive Content müssen Sie Ihr RTP (Web Personalization) 
 
    >[!NOTE]
    >
-   >Kopieren Sie das JavaScript-Tag &quot;Web-Personalisierung&quot;und fügen Sie es als erstes Skript in die Kopfzeile Ihrer Seiten zwischen den Tags `<head> </head>` ein. Weitere detaillierte [Implementierungsanweisungen finden Sie hier](https://docs.marketo.com/display/docs/rtp+tag+implementation) [.](https://pages2.marketo.com/rtp-implementation.html)
+   >Kopieren Sie das JavaScript-Tag &quot;Web-Personalisierung&quot;und fügen Sie es als erstes Skript in die Kopfzeile Ihrer Seiten zwischen den Tags `<head> </head>` ein. Detailliertere [Implementierungsanweisungen finden Sie hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
-1. Vergewissern Sie sich, dass das Tag auf allen Seiten, einschließlich Landingpages und Subdomänen, angezeigt wird. Klicken Sie dazu mit der rechten Maustaste auf Ihre `website’s` Seite. Gehen Sie in einem Webbrowser zu **Seitenquelle der Ansicht**. Suchen: &quot;RTP&quot;.
+1. Vergewissern Sie sich, dass das Tag auf allen Seiten, einschließlich Landingpages und Subdomänen, angezeigt wird. Überprüfen Sie dies, indem Sie mit der rechten Maustaste auf die Seite Ihrer Website klicken. Gehen Sie in einem Webbrowser zu **Seitenquelle der Ansicht**. Suchen: &quot;RTP&quot;.
+
 1. Vergewissern Sie sich, dass der Tag-Umschalter auf **ON** eingestellt ist.
-
