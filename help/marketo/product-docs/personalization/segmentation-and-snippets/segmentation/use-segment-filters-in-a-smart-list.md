@@ -3,7 +3,7 @@ unique-page-id: 2359512
 description: Segmentfunktionen in einer intelligenten Liste - Marketing-Dokumente - Produktdokumentation
 title: SegmentFilter in einer intelligenten Liste verwenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -15,11 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer intelligenten Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Eine Segmentierung erstellen](create-a-segmentation.md)
-
->
-
+>* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Eine Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 
 Optimieren Sie die Leistung Ihrer intelligenten Listen mithilfe von SegmentFiltern.
