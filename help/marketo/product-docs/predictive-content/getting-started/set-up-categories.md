@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: Einrichten von Kategorien - Marketing-Dokumente - Produktdokumentation
 title: Kategorien einrichten
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # Einrichten von Kategorien {#set-up-categories}
-
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Erstellen Sie Kategorien in Predictive Content, um Ihre Prognoseergebnisse im Web oder per E-Mail zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Sie können damit auch die Ansicht Ihrer Seite suchen und filtern.  Kategorien werden auf den Seiten &quot;Gesamter Inhalt&quot;und &quot;Vorheriger Inhalt&quot;angezeigt.
 
@@ -54,4 +50,3 @@ So erstellen Sie Kategorien-Tags.
    ![](assets/save-new.png)
 
    Ziemlich einfach.
-
