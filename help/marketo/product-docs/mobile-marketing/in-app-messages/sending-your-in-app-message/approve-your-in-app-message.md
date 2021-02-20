@@ -3,7 +3,7 @@ unique-page-id: 10617440
 description: Genehmigen Sie Ihre In-App-Nachricht - Marketing Docs - Produktdokumentation
 title: In-App-Nachricht genehmigen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
    >
    >Der Grund für das Anhalten könnte sein, die Nachricht für eine Weile zu stoppen oder die Nachricht zu ändern oder den Zeitplan anzupassen. Sie können jedoch nicht zu einer anderen Meldung wechseln, sondern nur die vorhandene Meldung bearbeiten.
 
-1. Wenn das angehaltene Programm weiterhin ausgeführt werden soll, klicken Sie auf **Fortsetzen** **Programm**.
+1. Wenn das angehaltene Programm weiterhin ausgeführt werden soll, klicken Sie auf **Programm fortsetzen**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -59,9 +59,7 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
 
 1. Wenn Sie sicher sind, dass Sie das Programm beenden möchten, klicken Sie auf **Stopp**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -72,4 +70,3 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
 Nachdem Ihr Programm ausgeführt wurde, können Sie seine Leistung mit dem In-App-Dashboard überwachen, das nach der Genehmigung des Programms automatisch angezeigt wird. Um zum Programm zurückzukehren, klicken Sie auf den Link oben rechts und wählen Sie **Systemsteuerung**.
 
 Das ist alles, Leute!
-
