@@ -3,19 +3,15 @@ unique-page-id: 11385942
 description: Predictive Inhalte für die Empfehlungsleiste bearbeiten - Marketing Docs - Produktdokumentation
 title: Predictive Inhalte für die Empfehlungsleiste bearbeiten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 
 # Predictive Inhalte für die Empfehlungsleiste {#edit-predictive-content-for-the-recommendation-bar} bearbeiten
-
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content<sup>AI</sup> enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 die Funktionen von Content<sup>AI</sup> Analytics. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content<sup>AI</sup> durchzuführen.
 
 Hier erfahren Sie, wie Sie Ihren Prognoseinhalt für die Recommendations-Leiste einrichten.
 
