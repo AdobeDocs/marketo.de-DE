@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: Einrichten des Hintergrunds der In-App-Nachricht - Marketing Docs - Produktdokumentation
 title: Einrichten des Hintergrunds der In-App-Nachricht
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Fertigst
    >
    >Für Tippen-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich behandelt. Wenn Ihre Nachricht nur zu einer Plattform oder zur anderen führt, lassen Sie die andere in der Standardeinstellung oder wählen Sie **Keine**.
 
-   [Schaltfläche &quot;Abbrechen&quot;einrichten](set-up-the-dismiss-button-and-approve-the-message.md)
+   Um den Auftrag abzuschließen, müssen Sie als letzten Schritt [die Schaltfläche &quot;Schließen&quot;einrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Informationen zu In-App-Nachrichten](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Eine In-App-Nachricht senden](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [Layout für Ihre In-App-Nachricht auswählen](choose-a-layout-for-your-in-app-message.md)
+   >* [Informationen zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Eine In-App-Nachricht senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-Um die Arbeit zu beenden, müssen Sie den letzten Schritt tun.
