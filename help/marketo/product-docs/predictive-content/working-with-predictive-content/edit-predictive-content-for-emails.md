@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: Predictive Inhalte für E-Mails bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Predictive Inhalte für E-Mails bearbeiten
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # Predictive Inhalte für E-Mails bearbeiten {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 So richten Sie Ihren vorhersagenden Inhalt für E-Mails ein:
 
