@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: Predictive Content Analytics - Überblick - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über Predictive Content Analytics
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Nutzen Sie die Inhaltsanalyse, um weitere Einblicke in Ihre vorhandenen Inhalte 
 
 ## Übersicht {#overview}
 
-Klicken Sie auf der Seite &quot;Zusammenfassung&quot;auf Analytics.
+Klicken Sie auf der Seite &quot;Zusammenfassung&quot;auf **Analytics**.
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Bewegen Sie den Mauszeiger über ein Bild in &quot;Vorgeschlagener Inhalt&quot;,
 
 >[!NOTE]
 >
->**Erläuterung**
->
 >Sehen Sie diese Symbole unten? Von links nach rechts sind sie: Inhalt der Ansicht, In CSV exportieren, Inhalt genehmigen
 
 ## Inhalt {#content}
@@ -96,4 +94,3 @@ Suchen Sie nach dem gewünschten Inhaltselement und klicken Sie darauf, um weite
 >[!NOTE]
 >
 >Ähnliche Inhalte basieren auf dem ausgewählten Inhaltselement und werden durch einen Algorithmus der Assoziationsregeln berechnet. Die Ergebnisse stellen Inhaltselemente dar, auf die Besucher am ehesten klicken, je nach ausgewähltem Besucher und Verhalten des vorherigen Elements. Der Filter oder der Datumsbereich werden dabei nicht berücksichtigt.
-
