@@ -3,7 +3,7 @@ unique-page-id: 7512451
 description: Push-Benachrichtigung erstellen - Marketing Docs - Produktdokumentation
 title: Push-Benachrichtigung erstellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Push-Benachrichtigung erstellen {#create-a-push-notification}
 
-Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketing Admin und Mobile Apps Developer einige Dinge einrichten, die Sie während der Ausführung benötigen. Weitere Informationen finden Sie unter [Push-Benachrichtigungen](understanding-push-notifications.md).
+Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketing Admin und Mobile Apps Developer einige Dinge einrichten, die Sie während der Ausführung benötigen. Weitere Informationen finden Sie unter [Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md).
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
@@ -35,5 +35,4 @@ Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginn
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, ziehen wir sie an und verkleiden sie [noch einmal.](configure-mobile-push-notification.md)
-
+   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, ziehen wir sie an und verkleiden sie [noch einmal.](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
