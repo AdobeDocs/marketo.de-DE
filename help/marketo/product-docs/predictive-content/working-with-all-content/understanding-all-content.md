@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Alle Inhalte - Marketing-Dokumente - Produktdokumentation
 title: Alle Inhalte verstehen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Alle Inhalte verstehen {#understanding-all-content}
 
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
+Auf der Seite &quot;Alle Inhalte&quot;werden alle Inhalte angezeigt, die manuell gefunden oder hinzugefügt wurden.
 
-Auf der Seite &quot;Alle Inhalte&quot;werden alle Inhalte angezeigt, die manuell gefunden oder hinzugefügt wurden.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 Die Seitenfelder umfassen:
 
@@ -52,12 +50,8 @@ Filtern Sie den Inhalt, indem Sie eine oder mehrere Kategorien auswählen. Richt
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen neuer Inhalt](add-new-content.md)
->* [Inhalt löschen](delete-content.md)
->* [Genehmigen eines Titels für prädiktive Inhalte](approve-a-title-for-predictive-content.md)
->* [Genehmigen eines Titels für prädiktive Inhalte aufheben](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [hinzufügen neuer Inhalt](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Inhalt löschen](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Genehmigen eines Titels für prädiktive Inhalte aufheben](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
