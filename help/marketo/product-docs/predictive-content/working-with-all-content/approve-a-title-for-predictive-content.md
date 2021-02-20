@@ -3,19 +3,15 @@ unique-page-id: 11384661
 description: Genehmigen eines Titels für prädiktive Inhalte - Marketing-Dokumente - Produktdokumentation
 title: Genehmigen eines Titels für prädiktive Inhalte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Genehmigen eines Titels für prädiktive Inhalte {#approve-a-title-for-predictive-content}
-
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Sie können einen beliebigen Titel auf Ihrer Seite &quot;Alle Inhalte&quot;zu vorhersagenden Inhalten hinzufügen, indem Sie ihn auf der Seite &quot;Alle Inhalte&quot;oder im Popup &quot;Inhalt bearbeiten&quot;genehmigen.
 
@@ -48,4 +44,3 @@ Unabhängig davon, wie Sie es verwenden, wird in der Zeile jetzt das Symbol &quo
 Der Titel wird jetzt auf der Seite &quot;Predictive Content&quot;angezeigt.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
