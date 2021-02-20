@@ -1,45 +1,45 @@
 ---
 unique-page-id: 11378871
-description: Verwenden von Vibes-SMS-Nachrichten in Auslösern und Filtern mit intelligenter Liste - Marketing Docs - Produktdokumentation
-title: Verwenden von Vibes-SMS-Nachrichten in Auslösern und Filtern mit intelligenter Liste
+description: Verwenden von Vibes SMS-Nachrichten in Triggern und Filtern mit intelligenter Liste - Marketing Docs - Produktdokumentation
+title: Verwenden von Vibes-SMS-Nachrichten in Triggern und Filtern mit intelligenter Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
 
-# Verwenden von Vibes-SMS-Nachrichten in Auslösern und Filtern mit intelligenter Liste {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
+# Verwenden von Vibes-SMS-Nachrichten in Triggern und Filtern mit intelligenter Liste {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Nachdem Sie [eine Vibes-SMS-Nachricht ](create-a-vibes-sms-message.md) erstellt haben, sollten Sie intelligente Liste-Trigger und Filter in einer intelligenten Kampagne verwenden, um die Vorteile zu erhalten. So geht es.
+Nachdem Sie [eine Vibes-SMS-Nachricht ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) erstellt haben, sollten Sie intelligente Liste-Trigger und Filter in einer intelligenten Kampagne verwenden, um die Vorteile zu erhalten. So geht es.
 
 1. Klicken Sie in &quot;My Marketo&quot;auf **Marketing-Aktivitäten**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Wählen Sie eine intelligente Kampagne aus, in der Sie Ihr SMS-Asset verwenden möchten. Ziehen Sie den Mauszeiger über einen Auslöser, z. B. das beliebte **Ausfüllformular**.
+1. Wählen Sie eine intelligente Kampagne aus, in der Sie Ihr SMS-Asset verwenden möchten. Ziehen Sie den Mauszeiger über einen Trigger, z. B. das beliebte Formular **Ausfüllen**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
-## SMS-Auslöser {#sms-triggers}
+## SMS-Trigger {#sms-triggers}
 
-Es sind weitere SMS-Auslöser verfügbar. Die SMS-Auslöser werden nur angezeigt, wenn der Dienst Vibes aktiviert ist.
+Es sind weitere SMS-Trigger verfügbar. Die SMS-Trigger werden nur angezeigt, wenn der Dienst Vibes aktiviert ist.
 
 ![](assets/new-sms-search2.png)
 
-Hier sind einige Beispiele.
+Im Folgenden finden Sie einige Beispiele:
 
-Der Auslöser für SMS-Absprünge initiiert einen Fluss, z. B. das Senden einer E-Mail, wenn eine SMS-Nachricht abspringt.
+Der Trigger &quot;SMS-Absprünge&quot;löst einen Fluss aus, z. B. das Senden einer E-Mail, wenn eine SMS-Nachricht abspringt.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Der Auslöser **Abonniert die Vibes-Liste** initiiert einen Fluss, wenn eine Person abonniert.
+Der Trigger **Abonniert die Vibes-Liste** ruft einen Fluss auf, wenn eine Person abonniert.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Der** Click Link in SMS Message** Auslöser initiiert einen Fluss, wenn eine Person auf einen Link in der SMS klickt.
+Der Trigger **Klickt auf Link in der SMS-Nachricht** löst einen Textfluss aus, wenn eine Person auf einen Link in der SMS klickt.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
@@ -49,7 +49,7 @@ Sie können auch Vibes-Filter in intelligenten Listen verwenden. Der Filter **Ab
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Im Gegensatz dazu hat das **Member of Vibes Liste **filter** **findet** **jedermann** ***zurzeit* Vibes abonniert und eignet sich am besten für die Verwendung in Smart-Kampagnen oder -Listen.
+Im Gegensatz dazu findet der Filter **Member of Vibes Liste** _jedermann_, der zurzeit Vibes abonniert hat, und ist am besten für die Verwendung in Smart-Kampagnen oder -Listen geeignet.
 
 ![](assets/image001.png)
 
@@ -57,15 +57,10 @@ Im Gegensatz dazu hat das **Member of Vibes Liste **filter** **findet** **jederm
 >
 >Alle SMS-Filter enthalten standardmäßig die Beschränkung **Datum der Aktivität**.
 
-Nachdem Sie die Vibes-Auslöser und -Filter in Ihrer intelligenten Liste eingerichtet haben, können Sie [den Fluss](add-a-flow-step-for-sms.md) definieren.
+Nachdem Sie in Ihrer Smart-Liste Vibes-Trigger und -Filter eingerichtet haben, können Sie [den Fluss](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md) definieren.
 
 >[!MORELIKETHIS]
 >
->* [Intelligente Liste für intelligente Kampagne definieren | Auslöser](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Filter für eine intelligente Liste suchen und Hinzufügen](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [hinzufügen eines Flussschritts für SMS](add-a-flow-step-for-sms.md)
-
->
-
-
+>* [Intelligente Liste für intelligente Kampagne definieren | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Filter für eine intelligente Liste suchen und Hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
