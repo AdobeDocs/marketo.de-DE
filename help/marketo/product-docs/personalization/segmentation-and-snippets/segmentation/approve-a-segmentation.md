@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Genehmigung einer Segmentierung - Marketing-Dokumente - Produktdokumentation
 title: Genehmigen einer Segmentierung
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 
 >[!PREREQUISITES]
 >
->* [Eine Segmentierung erstellen](create-a-segmentation.md)
->* [Segmentregeln definieren](define-segment-rules.md)
-
->
-
+>* [Eine Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Segmentregeln definieren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 
 1. Gehen Sie zur Datenbank ****.
@@ -55,13 +52,8 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 >
 >Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Segmentlogik ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, andere Filter können jedoch die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele: benutzerdefinierte Felder, Liste, Interessenteninhaberfelder und Umsatzstufen.
 >
->Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Hilfe bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >
->* [SegmentFilter in einer intelligenten Liste verwenden](use-segment-filters-in-a-smart-list.md)
-
->
-
-
-
+>[SegmentFilter in einer intelligenten Liste verwenden](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
