@@ -3,7 +3,7 @@ unique-page-id: 7511980
 description: Bericht speichern - Marketing-Dokumente - Produktdokumentation
 title: Einen Bericht speichern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -16,13 +16,14 @@ ht-degree: 0%
 Manchmal müssen Sie einen Standardbericht später erneut zur Ansicht speichern. So können Sie das machen:
 
 1. Wechseln Sie zum Bereich **Analytics**.
-1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Wählen Sie einen [Berichtstyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+   ![](assets/image2015-4-30-11-3a50-3a5.png)
+
+1. Wählen Sie einen [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Klicken Sie auf **Berichtsaktionen **und wählen Sie **Speichern unter**.
+1. Klicken Sie auf **Berichtaktionen** und wählen Sie **Speichern unter**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
@@ -40,5 +41,4 @@ Manchmal müssen Sie einen Standardbericht später erneut zur Ansicht speichern.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie einen Bericht [klonen, um Berichte zu gruppieren](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
-
+>Erfahren Sie, wie Sie einen Bericht [klonen, um Berichte zu gruppieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
