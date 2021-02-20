@@ -3,7 +3,7 @@ unique-page-id: 7511725
 description: Verstehen meiner Berichte und Gruppenberichte - Marketing-Dokumente - Produktdokumentation
 title: Meine Berichte und Gruppenberichte
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Verstehen meiner Berichte und Gruppenberichte {#understanding-my-reports-and-group-reports}
 
-Sie können **Meine Berichte **und **Gruppenberichte **aus dem [Analytics-Home](navigating-the-analytics-home-page.md) erstellen.
+Sie können **Meine Berichte** und **Gruppenberichte** aus der [Analytics-Homepage](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) erstellen.
 
 **Meine** Berichte sind nur für Sie sichtbar.
 
@@ -21,16 +21,12 @@ Sie können **Meine Berichte **und **Gruppenberichte **aus dem [Analytics-Home](
 
 >[!NOTE]
 >
->Jeder Arbeitsbereich verfügt über einen Satz von **Meine Berichte **und **Gruppenberichte**.
+>Jeder Arbeitsbereich verfügt über einen Satz von **Meine Berichte** und **Gruppenberichte**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
->* [Einen Bericht speichern](save-a-report.md)
->* [Bericht in Gruppenberichte klonen](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
-
->
-
-
+>* [Einen Bericht speichern](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [Bericht in Gruppenberichte klonen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
 
