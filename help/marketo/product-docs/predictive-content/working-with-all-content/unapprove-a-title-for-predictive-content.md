@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: Nicht genehmigen eines Titels für prädiktive Inhalte - Marketing-Dokumente - Produktdokumentation
 title: Genehmigen eines Titels für prädiktive Inhalte aufheben
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Genehmigen eines Titels für prädiktive Inhalte {#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->Je nach Kaufdatum kann Ihr Marketing-Abonnement entweder Marketing-to-Predictive Content oder Content`<sup>AI</sup>` enthalten. Für diejenigen, die Predictive Content verwenden, aktiviert Marketing bis zum 30. April 2018 Content`<sup>AI</sup>` Analytics-Funktionen. Um diese Funktionen über dieses Datum hinaus zu erhalten, wenden Sie sich an Ihren Marketing-Kundenbetreuer, um ein Upgrade auf MarketingTo Content`<sup>AI</sup>` durchzuführen.
 
 Sie können die Genehmigung von Titeln für prädiktive Inhalte auf der Seite &quot;Alle Inhalte&quot;oder im Popup &quot;Inhalt bearbeiten&quot;aufheben.
 
@@ -44,4 +40,3 @@ Sie können die Genehmigung eines Titels aufheben, während Sie ihn bearbeiten.
 Unabhängig davon, welche Methode Sie verwenden, das Symbol Genehmigen wird auf der Seite &quot;Alle Inhalte&quot;angezeigt und der Titel wird auf der Seite &quot;Vorheriger Inhalt&quot;nicht mehr angezeigt.
 
 ![](assets/unapprove-content-no-icon.png)
-
