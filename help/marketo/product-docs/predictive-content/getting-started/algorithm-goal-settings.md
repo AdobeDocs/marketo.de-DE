@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: Algorithmuszieleinstellungen - Marketing-Dokumente - Produktdokumentation
 title: Algorithmuszieleinstellungen
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ Algorithmuszieleinstellungen ermöglichen es Ihnen, das Endziel des Predictive C
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | Anzeigen des Inhalts, der am wahrscheinlichsten dazu führt, dass die Person, die den Inhalt ansieht, darauf klicken |
+   | **Klicks** | Anzeigen des Inhalts, der am wahrscheinlichsten dazu führt, dass die Person, die den Inhalt ansieht, darauf klicken |
    |---|---|
-   | **`Conversions`** | Anzeigen des Inhalts, der am wahrscheinlichsten dazu führt, dass die Person, die den Inhalt anzeigt, ein Formular sendet |
+   | **Konversionen** | Anzeigen des Inhalts, der am wahrscheinlichsten dazu führt, dass die Person, die den Inhalt anzeigt, ein Formular sendet |
 
 1. Klicken Sie abschließend auf **Speichern**.
 
    ![](assets/four.png)
-
