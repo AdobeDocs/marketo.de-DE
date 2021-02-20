@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: Vorschau einer Push-Benachrichtigung - Marketing Docs - Produktdokumentation
 title: Vorschau einer Push-Benachrichtigung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei f
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Oder klicken Sie auf der Seite &quot;Ansicht der Push-Benachrichtigung&quot;auf **Push-Benachrichtigungsaktionen** und dann **Vorschau**. Oder klicken Sie ganz rechts auf **Vorschau ******
+Oder klicken Sie auf der Seite &quot;Ansicht der Push-Benachrichtigung&quot;auf **Push-Benachrichtigungsaktionen** und dann **Vorschau**. Oder klicken Sie ganz rechts auf **Vorschau**.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ Mit der Vorschau der Push-Benachrichtigung wissen Sie also immer, was Ihre Kunde
 
 >[!MORELIKETHIS]
 >
->* [Push-Benachrichtigung erstellen](create-a-push-notification.md)
->* [Mobile Push-Benachrichtigung konfigurieren](configure-mobile-push-notification.md)
-
->
-
-
+>* [Push-Benachrichtigung erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Mobile Push-Benachrichtigung konfigurieren](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
