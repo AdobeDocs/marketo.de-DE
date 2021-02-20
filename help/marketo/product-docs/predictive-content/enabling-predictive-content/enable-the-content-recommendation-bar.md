@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Symbolleiste zur Inhaltsempfehlung - Marketing-Dokumente - Produktdokumentation
 title: Symbolleiste für die Inhaltsempfehlung aktivieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,15 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
 
 >[!PREREQUISITES]
 >
->Bevor Sie Prognostizierende Inhalte aktivieren, müssen Sie Folgendes tun:
+>Bevor Sie Predictive Content aktivieren, müssen Sie:
 >
->* [Vorbereitung von prädiktiven Inhalten](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **Vorbereitung von prädiktiven Inhalten**
+   >
+   >   
+   * [Predictive Inhalte für ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) E-Mail bearbeiten
+   >   * [Predictive Content für Rich ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) Media bearbeiten
+   >   * [Predictive Inhalte für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
    >
    >**Anzeigen-URL einschließen/ausschließen**
    >
-   >    * Die Anzeigen-URL sollte der Pfad der Domäne sein.
-   >    * https:// oder https:// nicht einschließen
-   >    * * für Platzhalter verwenden
+   >* Die Anzeigen-URL sollte der Pfad der Domäne sein.
+   >* https:// oder https:// nicht einschließen
+   >* * für Platzhalter verwenden
    * Semikolon als Trennzeichen verwenden
    * Beispiel: /contact_us*; *action=logout*
    * Bei diesem Feld ist die Groß-/Kleinschreibung zu beachten
@@ -61,5 +67,4 @@ Die Content Recommendation Engine verwendet Algorithmen für Prognoseanalyse und
 * Das Inhaltselement, das Sie für eine Empfehlung aktivieren, sollte das RTP-Javascript-Tag enthalten. Dies hilft dem Algorithmus, empfohlene Inhalte zu verfolgen und zu optimieren.
 
 >[!MORELIKETHIS]
-* [Predictive Content für Web Rich Media aktivieren](enable-predictive-content-for-web-rich-media.md)
-
+[Predictive Content für Web Rich Media aktivieren](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
