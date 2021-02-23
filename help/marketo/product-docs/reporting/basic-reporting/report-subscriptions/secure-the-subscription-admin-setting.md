@@ -3,7 +3,7 @@ unique-page-id: 10095347
 description: Sichern Sie die Abonnement-Administratoreinstellung - Marketing Docs - Produktdokumentation
 title: Abonnement-Administratoreinstellung sichern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Ein Administrator kann wählen, ob er sich anmelden muss, um einen Bericht Ansic
    >[!CAUTION]
    >
    >Wenn zum Herunterladen von Berichten eine Anmeldung erforderlich ist und Sie keinen Zugriff auf Marketo haben, erhalten Sie keine Smart-Liste-Bericht-E-Mails. Dies gilt für bestehende und künftige Abonnements.
-
