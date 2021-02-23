@@ -3,9 +3,9 @@ unique-page-id: 2359994
 description: Berichtspalten - Marketing-Dokumente - Produktdokumentation auswählen
 title: Berichtspalten auswählen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und nicht enthalten sind.
 
-1. Gehen Sie zum Bereich **Analytics **(oder **Marketing-Aktivitäten**).
+1. Gehen Sie zum Bereich **Analytics** (oder **Marketing-Aktivitäten**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -29,11 +29,4 @@ Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und nicht
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Bericht nach Spalten sortieren](sort-report-on-columns.md)
-
-
-   Mehr mit Berichten! Siehe [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Bericht nach Spalten sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
