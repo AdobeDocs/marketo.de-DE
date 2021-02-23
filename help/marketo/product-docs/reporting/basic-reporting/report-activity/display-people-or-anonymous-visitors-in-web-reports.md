@@ -3,7 +3,7 @@ unique-page-id: 2360008
 description: Personen oder anonyme Besucher in Webberichten anzeigen - Marketing-Dokumente - Produktdokumentation
 title: Personen oder anonyme Besucher in Webberichten anzeigen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In den Berichten [Aktivität der Webseite](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) und [Firma Web Aktivität](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder [Personen oder anonyme Besucher](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) sehen, die Ihre Site besuchen. Den anonymen Besuchern liegen Daten wie Metrobereich vor.  So können Sie festlegen, ob der Bericht bekannte oder anonyme Besucher anzeigt.
+In den Berichten [Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) und [Firma Web Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder [Personen oder anonyme Besucher](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) sehen, die Ihre Site besuchen. Den anonymen Besuchern liegen Daten wie Metrobereich vor.  So können Sie festlegen, ob der Bericht bekannte oder anonyme Besucher anzeigt.
 
 1. Klicken Sie im Bericht &quot;Aktivität der Webseite&quot;auf **Setup**.
 
@@ -27,7 +27,7 @@ In den Berichten [Aktivität der Webseite](../../../../product-docs/reporting/ba
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. Wählen Sie im Popup **Bekannte Interessenten **(people) oder** Anonyme Besucher **aus der Dropdownliste.
+1. Wählen Sie im Popup **Bekannte Interessenten** (Personen) oder **Anonyme Besucher** aus der Dropdownliste.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -41,9 +41,4 @@ In den Berichten [Aktivität der Webseite](../../../../product-docs/reporting/ba
 
 >[!MORELIKETHIS]
 >
->* [Verfolgung anonymer Aktivitäten und Personen](tracking-anonymous-activity-and-people.md)
-
->
-
-
-
+>[Verfolgung anonymer Aktivitäten und Personen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
