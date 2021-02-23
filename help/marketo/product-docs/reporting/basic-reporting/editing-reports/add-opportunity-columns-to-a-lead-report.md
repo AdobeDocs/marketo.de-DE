@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: hinzufügen Möglichkeit, Spalten zu einem Interessentenbericht - Marketing-Dokumente - Produktdokumentation
 title: hinzufügen der Möglichkeit, Spalten in einen Interessentenbericht aufzunehmen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen der möglichen Spalten zu einem Interessentenbericht {#add-opportunity-columns-to-a-lead-report}
 
-Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](https://docs.marketo.com/display/docs/basic+reporting) anzuzeigen, können Sie Opportunitätsspalten hinzufügen.
+Um die Statistiken zu den Möglichkeiten in Ihren Personendaten anzuzeigen, können Sie Angebotsspalten hinzufügen.
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
@@ -39,7 +39,7 @@ Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](https://do
    >
    >Blättern Sie nach rechts, um weitere Spalten anzuzeigen.
 
-1. Klicken Sie zum Hinzufügen oder Entfernen von Spalten aus dem Bericht auf eine Spaltenüberschrift und wählen Sie **Spalten**.[](select-report-columns.md)
+1. Klicken Sie zum Hinzufügen oder Entfernen von Spalten aus dem Bericht auf eine Spaltenüberschrift und wählen Sie **Spalten**.[](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ Um die Statistiken zu den Möglichkeiten in Ihren [Personenberichten](https://do
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Erfahren Sie, wie Sie die Größe Ihres Berichts [verwalten.](configure-report-size.md)
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Sehen Sie, was Sie sonst noch mit Berichten im Tiefen-Tauchgang tun können.[](https://docs.marketo.com/display/docs/basic+reporting)
-
+   >Erfahren Sie, wie Sie die Größe Ihres Berichts [verwalten.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)
