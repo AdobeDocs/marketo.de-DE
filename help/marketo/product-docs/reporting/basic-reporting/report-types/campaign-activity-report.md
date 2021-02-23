@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Bericht zur Aktivität der Kampagne - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Aktivität der Kampagne
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Bericht zur Aktivität der Kampagne {#campaign-activity-report}
 
-Sehen Sie, wie Ihre [intelligenten Kampagnen](https://docs.marketo.com/display/docs/smart+campaigns) abschneiden.
+Sehen Sie, wie Ihre [intelligenten Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) abschneiden.
 
-1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Berichtstyp  **Kampagne** [Aktivität](report-type-overview.md).
-1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+1. [Erstellen Sie einen ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Berichtstyp  **Kampagne** [Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+
+1. [Legen Sie den Zeitraum Ihres ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+
 1. Großartig! Untersuchen Sie Ihren Bericht, um die effektivsten Kampagnen nach Kampagnen zu identifizieren.
 
-   ^ ![](assets/image2014-9-16-16-3a8-3a45.png)
-
-   `
+   ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >Um die Kampagnen zu finden, die die meisten Personen verarbeiteten, sortieren Sie z. B. [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)unter *Gesamtzahl der verarbeiteten Personen* und wählen Sie **Absteigend sortieren**.
+   >Um die Kampagnen zu finden, die die meisten Personen verarbeiteten, sortieren Sie z. B. [Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) unter _Gesamtzahl der verarbeiteten Personen_ und wählen Sie **Absteigend sortieren**.
 
-   Klicken Sie auf den Namen einer intelligenten Kampagne, um sie zu öffnen.  [Folgende Spalten können Sie für einen Bericht zur Aktivität der Kampagne ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
+   Klicken Sie auf den Namen einer intelligenten Kampagne, um sie zu öffnen.  [Folgende Spalten können Sie für einen Bericht zur Aktivität der Kampagne ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
 
    | Spalte | Beschreibung |
    |---|---|
@@ -48,11 +48,4 @@ Sehen Sie, wie Ihre [intelligenten Kampagnen](https://docs.marketo.com/display/d
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtern eines Berichts zur Aktivität einer Kampagne](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-
-
-   Weitere Berichte finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtern eines Berichts zur Aktivität einer Kampagne](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
