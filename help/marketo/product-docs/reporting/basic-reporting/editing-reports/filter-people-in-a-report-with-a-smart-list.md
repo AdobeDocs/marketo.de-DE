@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filtern von Personen in einem Bericht mit einer intelligenten Liste - Marketing-Dokumente - Produktdokumentation
 title: Personen in einem Bericht mit intelligenter Liste filtern
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ Verwenden Sie intelligente Listen, um Ihre Berichte nach bestimmten Personenattr
 
 Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
 
-* [Leistung von Personen](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [Personen nach Status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personen nach Umsatzstufe](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [Leistung des E-Mail-Links](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [Leistung des Interaktions-Streams](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Kampagne Aktivität](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [E-Mail-Leistung der Kampagne](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [Firma Web Aktivität](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Aktivität der Webseite](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [Leistung von Personen](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [Personen nach Status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [Personen nach Umsatzstufe](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [Leistung des E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [Leistung des Interaktions-Streams](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [Kampagne Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [E-Mail-Leistung der Kampagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [Firma Web Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
@@ -49,11 +49,3 @@ Sie können intelligente Listen mit folgenden Berichtstypen verwenden:
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    Großartig! Ihr Bericht zeigt Ihnen nun Daten zu den Personen, die mit der intelligenten Liste übereinstimmen.
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
