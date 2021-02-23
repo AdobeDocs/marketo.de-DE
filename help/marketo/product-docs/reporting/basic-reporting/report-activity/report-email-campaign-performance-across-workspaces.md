@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: Bericht-E-Mail, Kampagne-Performance über Arbeitsbereiche - Marketing-Dokumente - Produktdokumentation
 title: Bericht-E-Mail, Kampagne-Leistung auf allen Arbeitsbereichen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bericht-E-Mail, Kampagne-Performance über Arbeitsflächen {#report-email-campaign-performance-across-workspaces}
 
-Schalten Sie den globalen Berichte ein, um Daten aus allen Ihren Marketing-to-Workspaces[in die Berichte [E-Mail-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-Mail-Link-Leistung](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) und [Kampagne-Aktivität](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) einzuschließen.](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+Schalten Sie den globalen Berichte ein, um Daten aus allen Ihren Marketing-to-Workspaces[in die Berichte [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-Mail-Link-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) und [Kampagne-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) einzuschließen.](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 1. Gehen Sie zum Bereich **Analytics** (oder **Marketing-Aktivitäten**).
 
@@ -37,16 +37,4 @@ Schalten Sie den globalen Berichte ein, um Daten aus allen Ihren Marketing-to-Wo
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Assets in einem E-Mail-Bericht filtern](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über Berichte in [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting) .
-
+   >[Assets in einem E-Mail-Bericht filtern](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
