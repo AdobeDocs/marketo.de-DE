@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Ändern des Berichtszeitrahmens - Marketing-Dokumente - Produktdokumentation
 title: Ändern des Berichtszeitrahmens
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie [Personen in einem Bericht mit einer Smart-Liste](filter-people-in-a-report-with-a-smart-list.md) filtern.
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Weitere Möglichkeiten zur Verwendung von Berichten finden Sie im Deep Dive unter [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie [Personen in einem Bericht mit einer Smart-Liste](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) filtern.
