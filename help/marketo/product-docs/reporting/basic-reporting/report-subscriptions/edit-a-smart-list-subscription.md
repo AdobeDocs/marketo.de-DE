@@ -3,7 +3,7 @@ unique-page-id: 10093041
 description: Bearbeiten eines Smart-Liste-Abonnements - Marketing Docs - Produktdokumentation
 title: Bearbeiten eines Smart-Liste-Abonnements
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Sie können diese Spalten direkt auf der Registerkarte &quot;Abonnement&quot;bea
 * Versand beenden
 * Format
 
-1. Wählen Sie **Database** (Datenbank&lt;a1/> aus (wir verwenden sie in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
+1. Wählen Sie **Database** (Datenbank aus (wir verwenden sie in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
 
    ![](assets/db-1.png)
 
@@ -52,4 +52,3 @@ Sie können diese Spalten direkt auf der Registerkarte &quot;Abonnement&quot;bea
 1. Das letzte Puzzleteil ist das Format. Klicken Sie auf die Spalte **Format** und wählen Sie das gewünschte Format aus. CSV ist die Standardeinstellung.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
