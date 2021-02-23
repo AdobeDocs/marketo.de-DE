@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: Bericht "Personen nach Status"- "Marketing-Dokumente"- Produktdokumentation
 title: Personen nach Statusbericht
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Personen nach Statusbericht {#people-by-status-report}
 
-Überprüfen Sie, wie gut Sie Personen durch den Prozess bewegen, indem Sie überprüfen, wie viele davon monatlich in jedem *Personenstand*-Wert angezeigt werden.
+Überprüfen Sie, wie gut Sie Personen durch den Prozess bewegen, indem Sie überprüfen, wie viele davon monatlich in jedem _Personenstand_-Wert angezeigt werden.
 
-1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Typ &quot; **Personen nach** [Status&quot;](report-type-overview.md).
-1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+1. [Erstellen Sie einen ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Typ &quot; **Personen nach** [Status&quot;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+
+1. [Legen Sie den Zeitraum Ihres ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+
 1. Großartig! Jetzt können Sie sehen, wie viele Personen sich von Monat zu Monat in jedem Personenstand befanden.
 
-   ^ ![](assets/image2017-3-27-11-3a17-3a4.png)
-
-   `
+   ![](assets/image2017-3-27-11-3a17-3a4.png)
 
    >[!TIP]
    >
@@ -29,14 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Verwenden Sie eine intelligente Liste, um Ihren ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Bericht auf bestimmte Personen zu filtern.
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie, wie Sie Spalten und mehr in den tiefen Tauchgang [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting) hinzufügen.
-
+   >[Verwenden Sie eine intelligente Liste, um Ihren ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Bericht auf bestimmte Personen zu filtern.
