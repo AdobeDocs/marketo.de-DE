@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Gruppenbenutzerberichte nach Attribut - Marketing Docs - Produktdokumentation
 title: Personenberichte nach Attribut gruppieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gruppenbenutzerberichte nach Attribut {#group-person-reports-by-attribute}
 
-Sie können Ihre [Personenberichte](https://docs.marketo.com/display/docs/basic+reporting) nach beliebigen Personen- oder Firmen-Attributen gruppieren.
+Sie können die Personenberichte nach beliebigen Personen- oder Firmen-Attributen gruppieren.
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
 
@@ -29,7 +29,7 @@ Sie können Ihre [Personenberichte](https://docs.marketo.com/display/docs/basic+
 
    >[!NOTE]
    >
-   >Sie können auch [Personenberichte nach Segment](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md) gruppieren.
+   >Sie können auch [Personenberichte nach Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md) gruppieren.
 
    Wählen Sie im Dialogfeld &quot;Personen nach Gruppe&quot;das Attribut &quot;Firma&quot;aus, das für die Gruppierung verwendet werden soll.
 
@@ -37,24 +37,12 @@ Sie können Ihre [Personenberichte](https://docs.marketo.com/display/docs/basic+
 
    >[!TIP]
    >
-   >Wenn Sie ein Attribut mit einem numerischen Wert auswählen, z. B. *Erstellt am* oder *Jahresumsatz*, wählen Sie die Metriken aus der Dropdownliste **Einheiten** auf der rechten Seite aus.
+   >Wenn Sie ein Attribut mit einem numerischen Wert auswählen, z. B. _Erstellt am_ oder _Jahresumsatz_, wählen Sie die Metriken aus der Dropdownliste **Einheiten** auf der rechten Seite aus.
 
    Das ist&#39;s! Klicken Sie auf die Registerkarte Bericht, um Ihren Bericht entsprechend gruppiert anzuzeigen.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über Personenberichte und andere Berichtstypen im [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting)Deep Dive.
-
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [hinzufügen benutzerdefinierter Spalten für einen Personenbericht](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
-
+   >[hinzufügen benutzerdefinierter Spalten für einen Personenbericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
