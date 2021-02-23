@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: Erstellen Sie einen Bericht zur Leistung von Personen mit Spalten der mobilen Plattform - Marketing-Dokumente - Produktdokumentation
 title: Erstellen eines Berichts zur Leistung von Personen mit Spalten der mobilen Plattform
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -106,4 +106,3 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
    ![](assets/seventeen.png)
 
    Ziemlich cool, nicht wahr? Gut gemacht!
-
