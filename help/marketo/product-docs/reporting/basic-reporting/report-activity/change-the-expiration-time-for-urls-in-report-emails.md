@@ -3,9 +3,9 @@ unique-page-id: 2360032
 description: Ändern der Ablaufzeit für URLs in Report E-Mails - Marketing-Dokumente - Produktdokumentation
 title: Ändern der Ablaufzeit für URLs in Bericht-E-Mails
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Links in Ihren Report Abonnement-E-Mails laufen nach drei Tagen ab. Gehen Sie wi
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klicken Sie auf die Schaltfläche **URL-Ablauf bearbeiten **auf .
+1. Klicken Sie auf die Schaltfläche **URL-Ablauf bearbeiten**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -35,8 +35,4 @@ Links in Ihren Report Abonnement-E-Mails laufen nach drei Tagen ab. Gehen Sie wi
 
    >[!NOTE]
    >
-   >**Erinnerung**
-   >
-   >
    >Beachten Sie, dass diese nur für Links in Berichten und Warnungen gelten, nicht für Marketing-E-Mails.
-
