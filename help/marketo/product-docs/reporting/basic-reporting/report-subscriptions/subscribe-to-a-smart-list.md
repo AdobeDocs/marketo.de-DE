@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: Abonnement einer intelligenten Liste - Marketing Docs - Produktdokumentation
 title: Eine intelligente Liste abonnieren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -36,11 +36,11 @@ Abonnement sind arbeitsbereichsspezifisch. Diese Liste von Abonnements befindet 
 
 ## Erstellen eines Smart-Liste-Abonnements {#create-a-smart-list-subscription}
 
-1. Gehen Sie zu **Datenbank** oder **Marketing-Aktivitäten**.
+1. Gehen Sie zu **Database** oder **Marketing-Aktivitäten**.
 
    ![](assets/db.png)
 
-1. Wählen Sie die intelligente Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken Sie auf **Listen-Aktionen** und wählen Sie** Neues Abonnement für intelligente Liste**.
+1. Wählen Sie die intelligente Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken Sie auf **Listen-Aktionen** und wählen Sie **Neues Abonnement für intelligente Liste**.
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ Abonnement sind arbeitsbereichsspezifisch. Diese Liste von Abonnements befindet 
 
 1. Klicken Sie auf die Liste **Häufigkeit** und wählen Sie eine Häufigkeit aus.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. Legen Sie den Versand **Ende **Datum fest. Sie können **Niemals** oder ein Kalenderdatum auswählen.
+1. Legen Sie das Datum **End Versand** fest. Sie können **Niemals** oder ein Kalenderdatum auswählen.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ Empfänger erhalten eine E-Mail mit der Option, den Bericht herunterzuladen, sow
 
 >[!NOTE]
 >
->Wenn die Einstellung [Sicheres Abonnement Admin](secure-the-subscription-admin-setting.md) auf **Ja** eingestellt ist, können nur Personen mit Zugriff auf die Marketing-Instanz den Bericht herunterladen.
+>Wenn die Einstellung [Sicheres Abonnement Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) auf **Ja** eingestellt ist, können nur Personen mit Zugriff auf die Marketing-Instanz den Bericht herunterladen.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ Um ein Abonnement zu löschen, wählen Sie es auf der Registerkarte &quot;Abonne
 
 >[!MORELIKETHIS]
 >
->* [Bearbeiten eines Smart-Liste-Abonnements](edit-a-smart-list-subscription.md)
->* [Abonnement-Administratoreinstellung sichern](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [Bearbeiten eines Smart-Liste-Abonnements](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Abonnement-Administratoreinstellung sichern](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
