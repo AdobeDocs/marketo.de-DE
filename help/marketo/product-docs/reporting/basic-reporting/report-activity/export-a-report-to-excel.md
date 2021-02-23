@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: Bericht nach Excel exportieren - Marketing-Dokumente - Produktdokumentation
 title: Bericht nach Excel exportieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,14 +31,4 @@ Sie können jeden Bericht in eine Excel-Datei exportieren, um mit den Daten in e
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Wenn die heruntergeladene Datei zu groß ist, können Sie [die Berichtsgröße](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) ändern.
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Sehen Sie sich alle anderen nützlichen Dinge an, die Sie mit Berichten im tiefen Tauchgang unter [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting) tun können.
-
+   >Wenn die heruntergeladene Datei zu groß ist, können Sie [die Berichtsgröße](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) ändern.
