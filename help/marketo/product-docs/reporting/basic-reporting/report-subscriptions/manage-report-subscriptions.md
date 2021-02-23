@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: Verwalten von Report Abonnements - Marketing Docs - Produktdokumentation
 title: Verwalten von Report Abonnements
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Konfigurieren und löschen Sie Report Abonnement.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Auf dieser Seite werden die Abonnement zu allen Berichten in Ihrem Konto angezeigt, gruppiert nach [Berichtstyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Dazu gehören [Abonnement zu Basisberichten](subscribe-to-a-basic-report.md) und zu [Umsatzwyklen-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten.
+   Auf dieser Seite werden die Abonnement zu allen Berichten in Ihrem Konto angezeigt, gruppiert nach [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Dazu gehören [Abonnement zu Basisberichten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) und zu Umsatzwyklen-Explorer-Berichten.
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ Konfigurieren und löschen Sie Report Abonnement.
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * Verwenden Sie Kommas zwischen E-Mail-Adressen.
-   >    * Um Ihre Änderungen zu speichern, klicken Sie in einen Bereich *außerhalb* der Liste &quot;Abonnement&quot;.
+   >* Verwenden Sie Kommas zwischen E-Mail-Adressen.
+   >* Um Ihre Änderungen zu speichern, klicken Sie in einen Bereich _außerhalb_ der Liste &quot;Abonnement&quot;.
 
 
    Sie können auch:
@@ -53,8 +50,6 @@ Konfigurieren und löschen Sie Report Abonnement.
    * Klicken Sie auf das Feld **Zusammenfassung** und bearbeiten Sie es, um die Anzahl der Zeilen in der E-Mail zu ändern.
    * Deaktivieren Sie das Kontrollkästchen **Excel**, um Berichtszusammenfassungen ohne Tabellenanhang zu senden.
    * Klicken Sie auf die Schaltfläche **Senden**, um die Bericht-E-Mail sofort zu senden.
-
-
 
 1. Um ein Abonnement ganz zu löschen, wählen Sie die Zeile aus und klicken Sie auf **Abonnement löschen**.
 
@@ -66,12 +61,6 @@ Konfigurieren und löschen Sie Report Abonnement.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Abonnement eines einfachen Berichts](subscribe-to-a-basic-report.md)
-   >    * [Abonnieren eines Berichts über den Umsatz-Explorer](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   Weitere Informationen finden Sie in den Deep Dives [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting) und [Umsatz-Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   >* [Abonnement eines einfachen Berichts](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Abonnieren eines Berichts über den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
