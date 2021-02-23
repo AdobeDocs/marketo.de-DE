@@ -3,7 +3,7 @@ unique-page-id: 2360035
 description: Drilldown in einem Bericht zur Leistung von Personen - Marketing-Dokumente - Produktdokumentation
 title: Drilldown in einem Personendaten-Leistungsbericht
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weit
 
    ![](assets/three.png)
 
-1. Wählen Sie im Popupfenster **Drill-Down** das Attribut aus, zu dem Sie einen Drilldown durchführen möchten. Klicken Sie dann auf** Drill-Down**.
+1. Wählen Sie im Popupfenster **Drill-Down** das Attribut aus, zu dem Sie einen Drilldown durchführen möchten. Klicken Sie dann auf **Drill-Down**.
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weit
 1. Klicken Sie zum Speichern der Ergebnisse (optional) unten links auf das Symbol **Export**.
 
    ![](assets/six.png)
-
