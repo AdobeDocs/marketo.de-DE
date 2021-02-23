@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Firma Web Aktivität Report - Marketing Docs - Produktdokumentation
 title: Bericht zur Web-Aktivität der Firma
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -15,24 +15,27 @@ ht-degree: 0%
 
 Erkennen Sie, welche Firmen Ihre Website besuchen. Sie können bekannte oder anonyme Besucher anzeigen, jedoch nicht beide im gleichen Bericht.
 
-Erstellen Sie einen [Bericht zur Aktivität der Webseite](web-page-activity-report.md), um die einzelnen Personen anzuzeigen, die Ihre Site besuchen.
+Erstellen Sie einen [Bericht zur Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), um die einzelnen Personen anzuzeigen, die Ihre Site besuchen.
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) einrichten.
+>Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) einrichten.
 
-1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den   [Berichtstyp](report-type-overview.md) &quot;Firma Web Aktivität&quot;.
-1. Wählen Sie [Bekannte oder anonyme Personen](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) im Bericht anzeigen.
-1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+1. [Erstellen Sie einen ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den  [Berichtstyp](report-type-overview.md) &quot;Firma Web Aktivität&quot;.
+
+1. Wählen Sie [Bekannte oder anonyme Personen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) im Bericht anzeigen.
+
+1. [Legen Sie den Zeitraum Ihres ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+
 1. Das ist&#39;s! Überprüfen Sie Ihren Bericht, um zu sehen, welche Firmen Ihre Site besuchen.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Um die Firmen zu finden, die Ihre Site am häufigsten besuchen, sortieren Sie [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in der Spalte *Ansichten* und wählen Sie **Absteigend sortieren**.
+   >Um die Firmen zu finden, die Ihre Site am häufigsten besuchen, sortieren Sie [Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in der Spalte _Ansichten_ und wählen Sie **Absteigend sortieren**.
 
-   [Folgende Spalten können Sie für einen Bericht zur Web-Aktivität der Firma ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
+   [Folgende Spalten können Sie für einen Bericht zur Web-Aktivität der Firma ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
 
 <table> 
  <thead> 
@@ -71,11 +74,4 @@ Erstellen Sie einen [Bericht zur Aktivität der Webseite](web-page-activity-repo
 
 >[!MORELIKETHIS]
 >
->* [Personen oder anonyme Besucher in Webberichten anzeigen](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-
-
->[!NOTE]
->
->**Tieftauchen**
->
->Erfahren Sie mehr über andere interessante Berichte im [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting) Deep Dive.
+>[Personen oder anonyme Besucher in Webberichten anzeigen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
