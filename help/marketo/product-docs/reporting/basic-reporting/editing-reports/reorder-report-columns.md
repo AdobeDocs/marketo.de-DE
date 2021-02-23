@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: Berichtspalten neu anordnen - Marketing Docs - Produktdokumentation
 title: Berichtspalten neu anordnen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ Sie können die Reihenfolge der Spalten in einem Bericht ändern.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Berichtspalten auswählen](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie mehr über die Leistungsfähigkeit der Arbeit mit Berichten in [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Berichtspalten auswählen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
