@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: Filtern von Assets in E-Mail-Berichten einer Kampagne - Marketing to Docs - Produktdokumentation
 title: Filtern von Assets in E-Mail-Berichten einer Kampagne
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtern von Assets in einer Kampagne E-Mail-Berichte {#filter-assets-in-a-campaign-email-reports}
 
-Konzentrieren Sie den Bericht [Kampagne E-Mail-Leistung](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) auf bestimmte [intelligente Kampagnen](https://docs.marketo.com/display/docs/smart+campaigns) in Ihren Programmen (&#39;lokale Assets&#39;) oder auf archivierte Assets.
+Konzentrieren Sie den Bericht [Kampagne E-Mail-Leistung](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) auf bestimmte [intelligente Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in Ihren Programmen (&#39;lokale Assets&#39;) oder auf archivierte Assets.
 
-1. Gehen Sie zum Bereich **Analytics **(oder **Marketing-Aktivitäten**).
+1. Gehen Sie zum Bereich **Analytics** (oder **Marketing-Aktivitäten**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -44,17 +44,5 @@ Konzentrieren Sie den Bericht [Kampagne E-Mail-Leistung](../../../../product-doc
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Bericht zur Kampagne-E-Mail-Leistung](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >    * [Assets in einem E-Mail-Bericht filtern](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Erfahren Sie alles über Berichte in [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Bericht zur Kampagne-E-Mail-Leistung](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Assets in einem E-Mail-Bericht filtern](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
