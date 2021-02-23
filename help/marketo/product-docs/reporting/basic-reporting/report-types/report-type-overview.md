@@ -3,9 +3,9 @@ unique-page-id: 2359965
 description: Übersicht über Berichtstypen - Marketing-Dokumente - Produktdokumentation
 title: Berichttyp-Übersicht
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Übersicht über den Berichtstyp {#report-type-overview}
 
-Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) erstellen, wählen Sie den gewünschten Berichtstyp.
+Wenn Sie [einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) erstellen, wählen Sie den gewünschten Berichtstyp.
 
 ## Am häufigsten verwendete Berichte {#most-used-reports}
 
@@ -30,15 +30,15 @@ Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/ba
    <td>Gruppieren Sie Personen nach beliebigen Attributen und fügen Sie Informationen zu den Möglichkeiten hinzu. Fahren Sie mit der Maus herunter und erkunden Sie.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">Leistung des E-Mail-Links</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">Leistung des E-Mail-Links</a>  </strong></td> 
    <td>Steht auf den einzelnen Links in Ihren E-Mails.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">E-Mail-Leistung</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">E-Mail-Leistung</a>  </strong></td> 
    <td>Überprüfen Sie die Interaktionen mit Ihren E-Mails: ausgeliefert oder abgebrochen, geöffnet, angeklickt, abgemeldet usw.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight-E-Mail-Leistung</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight-E-Mail-Leistung</a>  </strong></td> 
    <td>Überprüfen Sie die Interaktionen mit Ihren E-Mails, die Sie über Marketo Sales Insight in Salesforce, Microsoft Dynamics und das Outlook- und Gmail-Plug-in erhalten.</td> 
   </tr> 
   <tr> 
@@ -46,15 +46,15 @@ Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/ba
    <td>Automatischer Berichte basierend auf dem Feld "Personenstand".</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht "Personen nach Umsatzstufe"</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht "Personen nach Umsatzstufe"</a>  </strong></td> 
    <td>Grundlegender Berichte für Ihr <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzmodell</a>. Weitere Berichte finden Sie unter <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Leistung der Landingpage</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Leistung der Landingpage</a>  </strong></td> 
    <td>Kein Ersatz für Google Analytics, aber trotzdem wirklich gute Informationen.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programm-Performance</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programm-Performance</a>  </strong></td> 
    <td>Grundlegende Programm-Metriken wie Member und success. Weitere Berichte finden Sie unter <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzwyklusanalyse</a>.</td> 
   </tr> 
   <tr> 
@@ -70,7 +70,7 @@ Wenn Sie [einen Bericht in einem Programm](../../../../product-docs/reporting/ba
    <td>Prüfen Sie die Aktivität, die Sie erzeugen, und sehen Sie, wie oft Ihre Leute ihren Freunden von Ihnen erzählen.</td> 
   </tr> 
   <tr> 
-   <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Interaktions-Stream-Leistungsbericht</a> </strong></td> 
+   <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Interaktions-Stream-Leistungsbericht</a> </strong></td> 
    <td><p>Sehen Sie, wie gut Ihr <a href="https://docs.marketo.com/display/docs/drip+nurturing">Programm für Interaktionen</a> funktioniert.</p></td> 
   </tr> 
  </tbody> 
@@ -82,12 +82,5 @@ Nicht so nützlich wie die obigen Berichtstypen, aber trotzdem verfügbar.
 
 | Bericht | Beschreibung |
 |---|---|
-| ** [Aktivität der Kampagne](campaign-activity-report.md) ** | Verarbeitungsstatistiken für intelligente Kampagnen. |
-| ** [Kampagne E-Mail-Leistung](campaign-email-performance-report.md) ** | E-Mail-Leistung, gruppiert nach Smart-Kampagnen. |
-
->[!NOTE]
->
->**Tieftauchen**
->
->Informationen zu allen möglichen Vorgängen in diesen Berichten finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting) Tiefgang.
-
+| [Kampagne Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) | Verarbeitungsstatistiken für intelligente Kampagnen. |
+| [E-Mail-Leistung der Kampagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) | E-Mail-Leistung, gruppiert nach Smart-Kampagnen. |
