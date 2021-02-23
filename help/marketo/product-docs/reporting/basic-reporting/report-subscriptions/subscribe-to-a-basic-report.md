@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: Abonnement eines Basisberichts - Marketing Docs - Produktdokumentation
 title: Abonnement eines einfachen Berichts
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Einen einfachen Bericht abonnieren {#subscribe-to-a-basic-report}
 
-Um automatische Aktualisierungen eines [einfachen Berichts](https://docs.marketo.com/display/docs/basic+reporting) zu erhalten oder um sie freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
+Um automatische Aktualisierungen eines Basisberichts zu erhalten oder diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
 >[!NOTE]
 >
->Informationen zu den [Abonnements für den Umsatz-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) finden Sie unter [Abonnieren eines Umsatz-Explorer-Berichts](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Informationen zu den Abonnements der Berichte zum Umsatz-Cycle-Explorer finden Sie unter [Einen Umsatz-Explorer-Bericht abonnieren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Navigieren Sie zum Bereich **Aktivitäten **Marketing.
+1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
@@ -49,14 +49,4 @@ Um automatische Aktualisierungen eines [einfachen Berichts](https://docs.marketo
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Erfahren Sie, wie Sie [alle Ihre Report Abonnement](manage-report-subscriptions.md) an einem Ort verwalten.
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Sehen Sie, was Sie sonst noch mit Berichten im Tiefen-Tauchgang tun können.[](https://docs.marketo.com/display/docs/basic+reporting)
-
+   >Erfahren Sie, wie Sie [alle Ihre Report Abonnement](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
