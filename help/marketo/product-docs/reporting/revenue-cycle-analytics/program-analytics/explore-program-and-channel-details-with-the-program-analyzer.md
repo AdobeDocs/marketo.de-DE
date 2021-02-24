@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Erfahren Sie mehr über Programm- und Kanal-Details mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm- und Kanal-Details mit dem Programm Analyzer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,9 @@ Detaillierte Programm- und Kanal-Statistiken finden Sie im Programm Analyzer. Si
 
 >[!PREREQUISITES]
 >
->* [Programm-Analyzer erstellen](create-a-program-analyzer.md)
-
+>[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
->
 >
 >Nicht alle Marketo-Editionen enthalten diese Funktion. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
@@ -56,7 +54,3 @@ Detaillierte Programm- und Kanal-Statistiken finden Sie im Programm Analyzer. Si
 1. Um den Umsatz-Cycle-Explorer zu öffnen, um eine Statistik noch tiefer einzugraben, klicken Sie im Popup-Dialogfeld auf diese Zahl.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Explorer](https://docs.marketo.com/display/docs/revenue+explorer).
