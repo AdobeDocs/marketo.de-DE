@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: Informationen zum Programm Membership Analyse Area - Marketing Docs - Produktdokumentation
 title: Programm-Analyse
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Wie viele neue Namen haben die einzelnen Programme/Kanal pro Monat generiert?
 | % Erfolg (insgesamt) | Prozentsatz der Interessenten, die im Verlauf eines Programms erfolgreich waren |
 | Erfolg (neue Namen) | Gesamtzahl der neuen Namen, die im Verlauf eines Programms erfolgreich waren |
 | Erfolg (insgesamt) | Gesamtzahl der Interessenten, die im Verlauf eines Programms erfolgreich waren |
-
