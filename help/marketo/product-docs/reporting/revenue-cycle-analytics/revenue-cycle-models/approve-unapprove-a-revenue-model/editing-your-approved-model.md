@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: Bearbeiten Ihres genehmigten Modells - MarketingToDocs - Produktdokumentation
 title: Bearbeiten des genehmigten Modells
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Wählen Sie die neue Phase für Interessenten aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keine **aus, um die Interessenten aus Ihrem Modell zu entfernen. Klicken Sie abschließend auf **Zusammenführen**.
+1. Wählen Sie die neue Phase für Interessenten aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keine**, um die Interessenten aus Ihrem Modell zu entfernen. Klicken Sie abschließend auf **Zusammenführen**.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ Sie können jeweils nur ein genehmigtes Modell haben. Wenn Sie ein Modell genehm
 
 >[!MORELIKETHIS]
 >
->[Neues Umsatzmodell erstellen](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
