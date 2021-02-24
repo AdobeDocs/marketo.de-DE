@@ -3,7 +3,7 @@ unique-page-id: 4718656
 description: Erstellen eines neuen Umsatzmodells - Marketing-Dokumente - Produktdokumentation
 title: Neues Umsatzmodell erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -37,5 +37,4 @@ Schärfer aussehen! Sie sind gerade in die wunderbare Welt des Modellierens eing
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie mehr über [Verwenden der Lagerbestandsstadien des Umsatzmodells](using-revenue-model-inventory-stages.md).
-
+>Erfahren Sie mehr über [Verwenden der Lagerbestandsstadien des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).
