@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: Genehmigung/Aufhebung der Genehmigung eines Umsatzmodells - Marketing Docs - Produktdokumentation
 title: Genehmigung/Aufhebung der Genehmigung eines Umsatzmodells
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Sie können jederzeit nur ein genehmigtes Modell haben.
 
 >[!CAUTION]
 >
->[Einzelne Phasen müssen ](approving-stages-and-assigning-leads-to-a-revenue-model.md) genehmigt und Personen hinzugefügt werden, bevor Sie ein ganzes Modell genehmigen.
+>[Einzelne Phasen müssen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) genehmigt und Personen hinzugefügt werden, bevor Sie ein ganzes Modell genehmigen.
 
 ## {#approve} genehmigen
 
@@ -66,4 +66,3 @@ Herzlichen Glückwunsch! Ihr Modell ist jetzt nicht genehmigt.
 >[!CAUTION]
 >
 >Wenn Sie ein Modell nicht genehmigen, werden alle Ihre Personen aus dem Modell entfernt und ihr Verlauf wird aus der Datenbank entfernt.
-
