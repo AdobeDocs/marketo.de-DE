@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: Export Opportunity Influenza Analyzer Data - Marketing to Docs - Produktdokumentation
 title: Exportchanceneinflussdaten für Analyzer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Exportchanceneinflussdaten für Analyzer {#export-opportunity-influence-analyzer-data}
 
-Um Updates von Ihren [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
+Um Updates von Ihren Umsatz-Cycle-Explorer-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
-1. Gehen Sie zu **Analytics** und wählen Sie **Neu** **** **Neu** **Bericht** **Abonnement**.
+1. Gehen Sie zu **Analytics** und wählen Sie **Neu** > **Neues Abonnement**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Informationen zum Abonnieren eines grundlegenden Berichts, den Sie in einem Programm erstellt haben, finden Sie unter [Einen einfachen Bericht abonnieren](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
+   >Informationen zum Abonnieren eines grundlegenden Berichts, den Sie in einem Programm erstellt haben, finden Sie unter [Einen einfachen Bericht abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Wählen Sie für Berichtsquelle **Umsatz-Explorer.**
+1. Wählen Sie unter Berichtsquelle **Umsatz-Explorer**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,4 @@ Um Updates von Ihren [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/do
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [alle Ihre Report Abonnement](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
-
->[!NOTE]
->
->**Tieftauchen**
->
->Sehen Sie mehr über die erweiterten Analysen von Marketo im Deep Dive unter [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
-
+>Erfahren Sie, wie Sie [alle Ihre Report Abonnement](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
