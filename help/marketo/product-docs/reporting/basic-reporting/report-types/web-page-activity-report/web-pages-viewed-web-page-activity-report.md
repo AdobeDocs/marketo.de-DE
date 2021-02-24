@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Angezeigte Webseiten, Bericht zur Aktivität der Webseite - Marketing-Dokumente - Produktdokumentation
 title: Angezeigte Webseiten, Bericht zur Aktivität der Webseite
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Angezeigte Webseiten, Bericht zur Aktivität der Webseite {#web-pages-viewed-web-page-activity-report}
 
-Aus dem Bericht [Aktivität der Webseite](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angezeigt wurden.
+Aus dem Bericht [Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angezeigt wurden.
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) einrichten.
+>Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) einrichten.
 
-1. Klicken Sie im Bericht [Aktivität der Webseite](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf die Nummer in der Spalte Ansichten der Seite.
+1. Klicken Sie im Bericht [Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf die Nummer in der Spalte Ansichten der Seite.
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,14 +29,4 @@ Aus dem Bericht [Aktivität der Webseite](../../../../../product-docs/reporting/
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Erstellen Sie einen [Firma Web Aktivität-Bericht](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), um zu sehen, welche Firmen Ihre Site besuchen.
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Mehr mit Berichten! Siehe Tieftauchgang [Basic Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Erstellen Sie einen [Firma Web Aktivität-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), um zu sehen, welche Firmen Ihre Site besuchen.
