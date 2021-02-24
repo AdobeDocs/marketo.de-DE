@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: Grafische Ergebnisse aus Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
 title: Grafiken der Ergebnisse aus Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ Standardmäßig werden Berichte im Umsatz-Explorer als Tabelle angezeigt. Sie ha
 1. Klicken Sie auf die Schaltfläche &quot;Tabelle&quot;, um zur Ansicht zurückzukehren.
 
    ![](assets/two-1.png)
-
