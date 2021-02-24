@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: Verwendung der Gate-Phasen des Umsatzmodells - Marketing-Dokumente - Produktdokumentation
 title: Verwenden der Gate-Phasen des Umsatzmodells
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Eine Tor-Phase dient als Qualifizierungsprüfung.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Wählen Sie ein vorhandenes Modell oder [erstellen Sie ein neues.](create-a-new-revenue-model.md)
+1. Wählen Sie ein vorhandenes Modell oder [erstellen Sie ein neues.](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicken Sie auf **Bearbeiten** **Entwurf**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ Eine Tor-Phase dient als Qualifizierungsprüfung.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Bearbeiten Sie **Name **und wählen Sie ein **Typ**.
+1. Bearbeiten Sie **Name** und wählen Sie **Typ**.
 
    >[!NOTE]
    >
-   >Wählen Sie zu diesem Zeitpunkt [Beginn Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md) aus, um einen Einblick in die Performance Ihrer Konten zu erhalten, während sie durch Ihr Modell laufen.
+   >Wählen Sie zu diesem Zeitpunkt [Beginn Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) aus, um einen Einblick in die Performance Ihrer Konten zu erhalten, während sie durch Ihr Modell laufen.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ Eine Tor-Phase dient als Qualifizierungsprüfung.
 
 ## Eine Gate-Phase bearbeiten {#edit-a-gate-stage}
 
-Bearbeiten Sie den Namen und die Beschreibung und passen Sie den Typ der Gate-Phase an. Sie können auch die Option [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md) wählen.
+Bearbeiten Sie den Namen und die Beschreibung und passen Sie den Typ der Gate-Phase an. Sie können auch die Option [Beginn-Verfolgung nach Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) wählen.
 
 1. Klicken Sie auf das Symbol **Gate** für die Bühne.
 
@@ -83,11 +83,7 @@ Herzlichen Glückwunsch! Jetzt verstehen Sie die wunderbare Welt der Gate Stages
 
 >[!MORELIKETHIS]
 >
->* [Verwenden der Lagerbestandsstadien des Umsatzmodells](using-revenue-model-inventory-stages.md)
->* [Verwenden der SLA-Stufen des Umsatzmodells](using-revenue-model-sla-stages.md)
->* [Erstellen Sie ein neues Umsatzmodell](create-a-new-revenue-model.md).
-
->
-
-
+>* [Verwenden der Lagerbestandsstadien des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Verwenden der SLA-Stufen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Erstellen Sie ein neues Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
