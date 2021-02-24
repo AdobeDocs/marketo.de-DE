@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: Advanced Programm Berichte Overview - Marketing Docs - Produktdokumentation
 title: Überblick über Advanced Programm Berichte
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Analysen enthalten in Umsatz Explorer jeweils unterschiedliche Datensätze und M
 
 ## Programm Analyse Bereiche {#program-analysis-areas}
 
-* ** [Programm Cost Analyse](understanding-the-program-cost-analysis-area.md) ** - Siehe ROI für alle Ihre Programm.
+* **[Programm Cost Analyse](understanding-the-program-cost-analysis-area.md)**  - Sehen Sie sich den ROI für alle Ihre Programm.
 
-* ** [Analyse der Programm-Mitgliedschaft](understanding-the-program-membership-analysis-area.md) **- Zeigen Sie die Ergebnisse nach Kanal, Beitrag, Erfolgskriterien usw. an.
+* **[Analyse](understanding-the-program-membership-analysis-area.md)**  der Programm-Mitgliedschaft - Zeigen Sie die Ergebnisse nach Kanal, Teilnahme, Erfolgskriterien usw. an.
 
-* ** [Programm Opportunity Analyse](understanding-the-program-opportunity-analysis-area.md) **- Chancen generiert basierend auf Verteilung, Umsatz und ROI.
+* **[Analyse](understanding-the-program-opportunity-analysis-area.md)**  der Programm-Chancen - Chancen, die auf der Grundlage der Verteilung, des Umsatzes und des ROI entstehen.
 
-* ** [Analyse der Programm-Umsatzstufe](understanding-the-program-revenue-stage-analysis-area.md) **- Neue Namen, die bestimmte Erfolgsphasen in Ihrem Umsatzzyklusmodell erreicht haben.
+* **[Analyse](understanding-the-program-revenue-stage-analysis-area.md)**  der Umsatzstufe im Programm: Neue Namen, die bestimmte Erfolgsphasen in Ihrem Umsatzzyklusmodell erreicht haben.
 
 ## Programm Analyzers {#program-analyzers}
 
