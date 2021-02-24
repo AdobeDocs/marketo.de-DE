@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: Der Bereich Programm Cost Analyse - Marketing Docs - Produktdokumentation
 title: Programm Cost Analyse Area
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Wie viel habe ich pro Programm im Monat ausgegeben?
    <th>Beschreibung</th> 
   </tr> 
   <tr> 
-   <td><p>% Neue Namen</p></td> 
+   <td>% Neue Namen</td> 
    <td>Prozentsatz der von einem Programm erworbenen Interessenten</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ Wie viel habe ich pro Programm im Monat ausgegeben?
 | % Erfolg (insgesamt) | Prozentsatz der Interessenten, die im Verlauf eines Programms erfolgreich waren |
 | Erfolg (neue Namen) | Gesamtzahl der neuen Namen, die im Verlauf eines Programms erfolgreich waren |
 | Erfolg (insgesamt) | Gesamtzahl der Interessenten, die im Verlauf eines Programms erfolgreich waren |
-
