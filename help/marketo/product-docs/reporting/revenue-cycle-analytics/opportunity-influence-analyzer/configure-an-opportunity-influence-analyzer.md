@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: Konfigurieren eines Einflussanalysators - Marketing Docs - Produktdokumentation
 title: Einen Einflussanalysator für Chancen konfigurieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,13 @@ ht-degree: 0%
 
 # Einen möglichen Einflussanalysator {#configure-an-opportunity-influence-analyzer} konfigurieren
 
-Nachdem Sie [einen Einflussanalysator für eine Chance ](create-an-opportunity-influence-analyzer.md) erstellt haben, können Sie die eingeschlossenen Typen von [interessanten Momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) konfigurieren.
+Nachdem Sie [einen Einflussanalysator für eine Chance ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) erstellt haben, können Sie die eingeschlossenen Typen von [interessanten Momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) konfigurieren.
 
 >[!PREREQUISITES]
 >
->* [Erstellen eines Einflussanalysators](create-an-opportunity-influence-analyzer.md)
+>[Erstellen eines Einflussanalysators](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-
-1. Klicken Sie auf Analytics.
+1. Klicken Sie auf **Analytics**.
 
    ![](assets/login-to-analytics.png)
 
@@ -42,16 +41,12 @@ Nachdem Sie [einen Einflussanalysator für eine Chance ](create-an-opportunity-i
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Klicken Sie auf jede Art von interessantem Moment, den Sie möchten. Klicken Sie dann auf Speichern.
+1. Klicken Sie auf jede Art von interessantem Moment, den Sie möchten. Klicken Sie dann auf **Speichern**.
+
 1. Klicken Sie auf die Hauptregisterkarte, um die Geschichte der Gelegenheit mit nur den ausgewählten Arten von interessanten Moment zu sehen.
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
->[!NOTE]
->
->Weitere Analyzer finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
-
 >[!MORELIKETHIS]
 >
->* [Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-
+>[Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
