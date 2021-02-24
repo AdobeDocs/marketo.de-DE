@@ -3,7 +3,7 @@ unique-page-id: 4718677
 description: Klonen eines Marketing-Beispielumsatzmodells - Marketing-Dokumente - Produktdokumentation
 title: Klonen eines Marketing-to-Beispiel-Umsatzmodells
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo verfügt über Beispielumsatzmodelle, die Sie inspirieren. Klonen Sie di
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Wählen Sie **Umrechnungszyklusmodell **und klicken Sie auf **Marketing-Beispiele**.
+1. Wählen Sie den Ordner **Revenue Cycle Modeler** und klicken Sie auf **Marketing-Beispiele**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,12 +27,12 @@ Marketo verfügt über Beispielumsatzmodelle, die Sie inspirieren. Klonen Sie di
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-   Wählen Sie unter &quot;Modellaktionen&quot;die Option &quot;Klonmodell&quot;aus.
+1. Wählen Sie unter Modellaktionen **Klonmodell**.
+
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Geben Sie einen **Name **und klicken Sie auf **CLONE**.
+1. Geben Sie einen **Name** ein und klicken Sie auf **Klonen**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
    Wenn die Generierung von Umsatz nur so einfach wäre!
-
