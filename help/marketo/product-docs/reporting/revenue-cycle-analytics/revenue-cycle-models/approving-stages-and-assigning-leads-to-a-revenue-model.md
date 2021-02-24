@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: Genehmigen von Phasen und Zuweisen von Interessenten zu einem Umsatzmodell - Marketing-Dokumente - Produktdokumentation
 title: Genehmigen von Phasen und Zuweisen von Interessenten zu einem Umsatzmodell
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Genehmigen von Phasen und Zuweisen von Interessenten zu einem Umsatzmodell {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Richten Sie Ihr **Umsatz** **Modell** ein, indem Sie vorhandene Interessenten hinzufügen und Zuordnungsregeln für alle neuen Interessenten erstellen.
+Richten Sie Ihr **Umsatzmodell** ein, indem Sie vorhandene Interessenten hinzufügen und Zuordnungsregeln für alle neuen Interessenten erstellen.
 
 ## Genehmigungsphasen {#approving-stages}
 
 Genehmigen wir die Phasen Ihres Modells, bevor Sie Interessenten hinzufügen.
 
-1. Gehen Sie zum Bereich **Analytics **und** **
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,7 +27,7 @@ Genehmigen wir die Phasen Ihres Modells, bevor Sie Interessenten hinzufügen.
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Wählen Sie unter **Modellaktionen** **Genehmigen** **Phasen**.
+1. Wählen Sie unter **Modellaktionen** **Phasen genehmigen**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
@@ -39,9 +39,9 @@ Ausgezeichnet! Lassen Sie uns fortfahren und diese Leads zuweisen.
 
 ## Zuweisen vorhandener Interessenten {#assigning-existing-leads}
 
-[Erstellen Sie eine intelligente ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) Liste, um die Interessenten für eine Phase Ihres Modells in Ihrer Interessentendatenbank zu identifizieren.
+[Erstellen Sie eine intelligente ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) Liste, um die Interessenten für eine Phase Ihres Modells in Ihrer Interessentendatenbank zu identifizieren.
 
-1. Nachdem Sie [Ihre Smart-Liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) erstellt haben, klicken Sie auf die Registerkarte **Interessenten**.
+1. Nachdem Sie [Ihre Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) erstellt haben, klicken Sie auf die Registerkarte **Interessenten**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
@@ -65,17 +65,17 @@ Großartig! Erstellen Sie Zuordnungsregeln, um festzulegen, wie den Phasen neue 
 >
 >Wenn sich Ihr Modell im Status &quot;Genehmigte Phasen&quot;befindet, werden in den Aktivitäten-Protokollen der Interessenten keine Ereignisse zur Umsatzstufe ändern angezeigt. Wenn Ihr Modell vollständig genehmigt ist, wird dieser Flussschritt übersprungen, wenn Sie einen Interessenten in dieselbe Phase verschieben, in der er sich gerade befindet.
 
-## Neue Interessenten: Aufgabenregeln erstellen {#new-leads-create-assignment-rules}
+## Neue Interessenten: Aufgabenregeln {#new-leads-create-assignment-rules} erstellen
 
-1. Klicken Sie erneut auf** Markieren Sie zu Hause** und wählen Sie **Analytics**.
+1. Klicken Sie erneut auf **Markieren Sie** und wählen Sie **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. `Click your model in the tree, then the`**`Model Actions`**`menu, selecting`**`Assignment Rules`** `.`
+1. Klicken Sie in der Struktur auf Ihr Modell und wählen Sie dann im Menü **Modellaktionen** die Option **Zuweisungsregeln**.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. `If your assignment rules contain more than just one default choice click **Stage, **make your selection, then click`**`Add Choice`**`.`
+1. Wenn Ihre Zuordnungsregeln mehr als nur eine Standardauswahl enthalten, klicken Sie auf **Stage**, wählen Sie aus und klicken Sie dann auf **Hinzufügen Auswahl**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
@@ -84,9 +84,8 @@ Großartig! Erstellen Sie Zuordnungsregeln, um festzulegen, wie den Phasen neue 
 Erstellen Sie eine Interessentenbewertungsregel, um die neuen Interessenten mit einer Mindestpunktzahl einem entsprechenden Schritt zuzuweisen.
 
 1. Wählen Sie unter **Wenn** **Interessentenbewertung**. Wählen Sie dann **mindestens**.
-s ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-   `
+   ![](assets/image2015-4-29-13-3a27-3a8.png)
 
 1. Geben Sie **40** in das Feld ein und wählen Sie **Verkaufsleiter** als Phase. Klicken Sie auf **Speichern**, um abzuschließen.
 
@@ -94,5 +93,4 @@ s ![](assets/image2015-4-29-13-3a27-3a8.png)
 
 >[!MORELIKETHIS]
 >
->Um Ihr Modell zu genehmigen, lesen Sie unsere Hilfeseite unter ** [Genehmigen und Ungenehmigen eines Umsatzmodells](approve-unapprove-a-revenue-model.md)***.
-
+>Um Ihr Modell zu genehmigen, lesen Sie unsere Hilfeseite unter **[Genehmigen und Nicht genehmigen eines Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**.
