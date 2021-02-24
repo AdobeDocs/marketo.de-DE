@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: Aktivieren der benutzerdefinierten Feldsynchronisierung für die Analyse des Umsatzzyklus - MarketingToDocs - Produktdokumentation
 title: Aktivieren der benutzerdefinierten Feldsynchronisierung für die Analyse von Umsatzzyklen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Mit den folgenden Schritten können Sie benutzerdefinierte Felder in RCA-Bericht
    >[!NOTE]
    >
    >Nachdem das Feld aktiviert wurde, sind die Daten am nächsten Tag in der Analytics für den Umsatzzyklus verfügbar.
-
