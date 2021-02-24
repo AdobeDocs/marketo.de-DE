@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: Verwenden von Dashboards im Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
 title: Verwenden von Dashboards im Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
 
    ![](assets/nine.png)
 
-1. Um einen Abschnitt umzubenennen, klicken Sie auf ihn, um ihn auszuwählen, geben Sie den gewünschten Namen unter Titel ein und klicken Sie auf** Übernehmen**. Wiederholen Sie diese Schritte für jeden Abschnitt.
+1. Um einen Abschnitt umzubenennen, klicken Sie auf ihn, um ihn auszuwählen, geben Sie den gewünschten Namen unter Titel ein und klicken Sie auf **Apply**. Wiederholen Sie diese Schritte für jeden Abschnitt.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
 1. Wählen Sie das zu löschende Dashboard aus und klicken Sie dann auf **In den Papierkorb verschieben**.
 
    ![](assets/fifteen.png)
-
