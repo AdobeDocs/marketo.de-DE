@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Verwendung der Lagerbestandsstadien für Umsatzmodelle - Marketing-Dokumente - Produktdokumentation
 title: Verwenden der Lagerbestandsstadien des Umsatzmodells
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Alle bekannten Interessenten und Konten befinden sich anfangs in der Lagerbestan
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Wählen Sie im Abschnitt **Analytics** Ihr vorhandenes Modell oder [erstellen Sie ein neues Modell](create-a-new-revenue-model.md).
+1. Wählen Sie im Abschnitt **Analytics** Ihr vorhandenes Modell oder [erstellen Sie ein neues Modell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ Alle bekannten Interessenten und Konten befinden sich anfangs in der Lagerbestan
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Sie können den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ nach dem Hinzufügen einer Bühne anpassen. Sie können zur Zeit auch ** [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
+1. Sie können den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ nach dem Hinzufügen einer Bühne anpassen. Sie können zu diesem Zeitpunkt auch **[Beginn-Verfolgung nach Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Eine Lagerbestandsstufe bearbeiten {#edit-an-inventory-stage}
 
-Wenn Sie ein Lagerbestandssymbol auswählen, können Sie **Name** bearbeiten, eine **Beschreibung** hinzufügen oder **Typ** anpassen. Sie können auch [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
+Wenn Sie ein Lagerbestandssymbol auswählen, können Sie **Name** bearbeiten, eine **Beschreibung** hinzufügen oder **Typ** anpassen. Sie können auch [Beginn-Verfolgung nach Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
 
 1. Klicken Sie auf das Symbol Bestand.
 
