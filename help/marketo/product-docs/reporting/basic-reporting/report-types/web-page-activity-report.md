@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Bericht zur Aktivität der Webseite - Marketing-Dokumente - Produktdokumentation
 title: Bericht zur Aktivität der Webseite
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,15 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 
 >[!PREREQUISITES]
 >
->* [hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [Erstellen Sie einen ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Bericht und wählen Sie den Berichtstyp [** Aktivität der Webseite** ](report-type-overview.md)aus.
-1. Wählen Sie [Bekannte oder anonyme Personen](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) im Bericht anzeigen.
-1. [Legen Sie den Zeitraum Ihres ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+1. [Erstellen Sie einen ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Bericht und wählen Sie den Berichtstyp &quot; **Webseiten-Aktivität&quot;** [aus](report-type-overview.md).
+
+1. Wählen Sie [Bekannte oder anonyme Personen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) im Bericht anzeigen.
+
+1. [Legen Sie den Zeitraum Ihres ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+
 1. Du hast es! Überprüfen Sie Ihren Bericht, um zu sehen, wer Ihre Site besucht.
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +38,10 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 
    >[!TIP]
    >
-   >Um herauszufinden, wer Ihre Site am häufigsten besucht, sortieren Sie [Ihren Bericht](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)in der Spalte *Ansichten* und wählen Sie Absteigend sortieren.
+   >Um herauszufinden, wer Ihre Site am häufigsten besucht, sortieren Sie [Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in der Spalte _Ansichten_ und wählen Sie Absteigend sortieren.
 
-   [Marketo fügt Ihrer Datenbank ](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) anonyme Website-Besucher hinzu und Sie können diese in diesem Bericht anzeigen lassen. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.\
-   [Folgende Spalten können Sie für einen Bericht zur Aktivität einer Webseite ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
+   [Marketo fügt Ihrer Datenbank ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) anonyme Website-Besucher hinzu und Sie können diese in diesem Bericht anzeigen lassen. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.\
+   [Folgende Spalten können Sie für einen Bericht zur Aktivität einer Webseite ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
 
 <table> 
  <thead> 
@@ -81,17 +84,10 @@ Sie können sich dafür entscheiden, bekannte Personen oder anonyme Personen, ab
 
 >[!TIP]
 >
->Nimm deine Vertriebsmitarbeiter! [Filtern Sie den ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)Bericht nach ihrem Territorium und  [abonnieren Sie ihn](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>Nimm deine Vertriebsmitarbeiter! [Filtern Sie den ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)Bericht nach ihrem Territorium und  [abonnieren Sie ihn](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
 >[!MORELIKETHIS]
 >
->
->* [Angezeigte Webseiten, Bericht zur Aktivität der Webseite](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [Personen oder anonyme Besucher in Webberichten anzeigen](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [Angezeigte Webseiten, Bericht zur Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+>* [Personen oder anonyme Besucher in Webberichten anzeigen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
-
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere interessante Berichte finden Sie unter [Grundlegender Berichte](https://docs.marketo.com/display/docs/basic+reporting).
