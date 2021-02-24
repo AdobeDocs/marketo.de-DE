@@ -3,9 +3,9 @@ unique-page-id: 2953444
 description: Definieren der Zeitkosten - Marketing-Dokumente - Produktdokumentation
 title: Definieren von Zeitkosten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Verfolgen und verbinden Sie die Kosten für Lead-Pflege und Interessentenakquise
 
 ## Bearbeiten von Zeitkosten {#edit-a-period-cost}
 
-1. Klicken Sie mit der rechten Maustaste auf die Kosten des Zeitraums und wählen Sie **Bearbeiten **aus dem Popupmenü, um das Dialogfeld **Kosten bearbeiten** zu öffnen.
+1. Klicken Sie mit der rechten Maustaste auf die Kosten des Zeitraums und wählen Sie **Bearbeiten** aus dem Popupmenü, um das Dialogfeld **Kosten bearbeiten** zu öffnen.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ Verfolgen und verbinden Sie die Kosten für Lead-Pflege und Interessentenakquise
 
 ## Löschen von Zeitkosten {#delete-a-period-cost}
 
-1. Klicken Sie mit der rechten Maustaste auf den zu löschenden Zeitraum und wählen Sie **Löschen **aus dem Popup-Menü, um die Eingabeaufforderung **Kosten löschen **anzuzeigen.
+1. Klicken Sie mit der rechten Maustaste auf den zu löschenden Zeitraum und wählen Sie **Löschen** aus dem Popupmenü, um die Meldung **Kosten löschen** anzuzeigen.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Klicken Sie auf **Löschen**, um die Zeitkosten dauerhaft zu löschen, oder auf **Abbrechen**, um zurückzukehren.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
