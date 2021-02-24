@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: Benutzerdefinierte Felder mit dem Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation synchronisieren
 title: Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ In &quot;Umsatz-Cycle-Analysen&quot;können Berichte zu benutzerdefinierten Mark
    >Nach der Aktivierung sind die Daten am folgenden Tag in der Analytics für den Umsatzzyklus verfügbar.
 
    Gute Arbeit! Jetzt wissen Sie, wie Sie RCA benutzerdefinierte Felder hinzufügen können.
-
