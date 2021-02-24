@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: Verwenden des Erfolgspfadanalysators - Marketing Docs - Produktdokumentation
 title: Verwenden des Erfolgspfad-Analyzers
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Verwenden des Erfolgspfad-Analyzers {#using-the-success-path-analyzer}
 
-Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl Fluss (Menge) als auch Geschwindigkeit (in Tagen) der Personen während der Phasen Ihres [Umrechnungszyklusmodells](understanding-revenue-models.md) widerspiegeln.
+Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl Fluss (Menge) als auch Geschwindigkeit (in Tagen) der Personen während der Phasen Ihres [Umrechnungszyklusmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) widerspiegeln.
 
 >[!PREREQUISITES]
 >
->[Erstellen eines Erfolgspfad-Analyzers](create-a-success-path-analyzer.md)
+>[Erstellen eines Erfolgspfad-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Gehen Sie zu **Analytics** und wählen Sie **Erfolgspfadanalyse**.
 
@@ -55,7 +55,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Klicken Sie für Phasen mit SLAs (Service-Level Agreements) auf **Diagrammaktionen** >** SLA-Fälligkeit anzeigen**, um alle Personen anzuzeigen, die innerhalb des angegebenen Zeitraums eine SLA-Zielgruppe versäumt haben.
+1. Klicken Sie für Phasen mit SLAs (Service-Level Agreements) auf **Diagrammaktionen** > **SLA-Fälligkeit anzeigen**, um alle Personen anzuzeigen, die innerhalb des angegebenen Zeitraums eine SLA-Zielgruppe versäumt haben.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    Die orangefarbenen Personen können *oder* noch nicht in der SLA-Phase sein.
 
-1. Klicken Sie auf **Diagrammaktionen** >** SLA Past Due** anzeigen, um alle Personen mit abgelaufenen SLA-Zielgruppen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch im SLA-Stadium befinden.
+1. Klicken Sie auf **Diagrammaktionen** > **SLA-Überlastungsgrad anzeigen, um alle Personen mit abgelaufenen SLA-Zielgruppen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch im SLA-Stadium befinden.**
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Um das Diagramm zu drucken, klicken Sie auf** ****Diagrammaktionen** > **Druckdiagramm**.
+1. Um das Diagramm zu drucken, klicken Sie auf **Diagrammaktionen** > **Druckdiagramm**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
