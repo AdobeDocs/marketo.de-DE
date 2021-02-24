@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: Performance Insight-Beitragsübersicht - Marketing-Dokumente - Produktdokumentation
 title: Leistungsindikatoren - Beitragsübersicht
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In die
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [First Touch und Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Erfahren Sie mehr über [First Touch und Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Wählen Sie aus, für welchen Zeitraum Metriken angezeigt werden sollen. In diesem Beispiel betrachten wir das aktuelle Jahr (bis heute).   ![](assets/3-1.png)
+Wählen Sie aus, für welchen Zeitraum Metriken angezeigt werden sollen. In diesem Beispiel betrachten wir das aktuelle Jahr (bis heute).
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >Die Auswahl für &quot;Vorheriges Jahr&quot;wurde vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die Leistungsdaten des gesamten Vorjahres mithilfe der Auswahl &quot;Benutzerdefinierter Bereich&quot;anzuzeigen.
 
-Metriken werden in zwei Diagrammen dargestellt: Donut und Bar.   ![](assets/four.png)
+Metriken werden in zwei Diagrammen dargestellt: Donut und Bar.
+
+![](assets/four.png)
 
 Das Diagramm mit der Donut zeigt die Top-10 Kanal für die ausgewählte Metrik an.
 
@@ -45,7 +49,9 @@ Das Balkendiagramm zeigt die Leistung des Programms für alle Kanal (zehn Progra
 >
 >Wenn die Balken im Diagramm beim Durchblättern der Gruppen nach oben skaliert werden sollen, aktivieren Sie das Kontrollkästchen **Y-Achse skalieren, um sie einzupassen**.
 
-Bewegen Sie den Mauszeiger über eine Leiste, um weitere Details anzuzeigen.   ![](assets/seven.png)
+Bewegen Sie den Mauszeiger über eine Leiste, um weitere Details anzuzeigen.
+
+![](assets/seven.png)
 
 Wählen Sie einen oder mehrere Kanal im Ringdiagramm aus, und alle mit diesen Kanälen verknüpften Programm werden im Balkendiagramm rechts angezeigt. Klicken Sie erneut auf die Kanal, um die Auswahl aufzuheben.
 
@@ -69,4 +75,3 @@ Erweitern Sie einen Kanal, um die ersten zehn Programm zu sehen, wobei die restl
 >[!NOTE]
 >
 >Wenn Sie auf das Kontrollkästchen neben einem Kanal klicken, wird dieser im Diagramm oben aktiviert/deaktiviert.
-
