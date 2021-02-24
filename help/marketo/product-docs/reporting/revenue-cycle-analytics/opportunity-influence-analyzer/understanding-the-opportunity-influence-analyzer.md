@@ -3,7 +3,7 @@ unique-page-id: 4718648
 description: Einführung in den Opportunity Influence Analyzer - Marketing Docs - Produktdokumentation
 title: Einblick in den Opportunity Influenza Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Mit dem Opportunity Influence Analyzer können Sie die ganze Geschichte sehen. E
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Beachten Sie die grüne Prüfung.** Sie zeigen den Erfolg des Programms für einen der auf der rechten Seite markierten Namen an. Der grüne Bereich zeigt den Anfang und das Ende der Gelegenheit.
+**Beachten Sie die grüne Prüfung**. Sie zeigen den Erfolg des Programms für einen der auf der rechten Seite markierten Namen an. Der grüne Bereich zeigt den Anfang und das Ende der Gelegenheit.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Wenn Sie dieses Verhalten beibehalten möchten, sollten Sie Ihre Daten in Ihrem 
 
 >[!MORELIKETHIS]
 >
->* [Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Erstellen eines Einflussanalysators](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>* [Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Erstellen eines Einflussanalysators](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
