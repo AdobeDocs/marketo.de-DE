@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Erläuterungen zu Umsatzmodellen - Marketing-Dokumente - Produktdokumentation
 title: Umsatzmodelle
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Der Modellierer misst alle Interessenten im Behälter zu jeder Zeit. Das nennt m
 
 >[!TIP]
 >
->Für diejenigen, die sich finanziell stärker engagieren, können Sie sich die Phasen als Konten vorstellen, in denen am Ende eines jeden Tages Geld fließt und wieder ausgeglichen wird.
+>Für diejenigen, die sich finanziell stärker engagieren, können Sie sich die Phasen als Konten vorstellen, in denen am Ende jedes Tages Geld fließt und aus dem Gleichgewicht kommt.
 
 Modelle sind im Allgemeinen für Kunden gedacht, die mit intelligenten Kampagnen und Programmen vertraut sind und ihre Analysen auf die nächste Stufe bringen möchten.
 
@@ -37,11 +37,11 @@ Standardmäßig werden bei einem neuen Modell sechs Umsatzstufen Beginn. Dieses 
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Beachten Sie, dass sie alle auf einem grünen Hintergrund stehen. Dies wird als **Erfolgspfad** bezeichnet. Verstehen Sie mehr über den Erfolgspfad [hier](understanding-revenue-model-success-path.md).
+Beachten Sie, dass sie alle auf einem grünen Hintergrund stehen. Dies wird als **Erfolgspfad** bezeichnet. Verstehen Sie mehr über den Erfolgspfad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **** Stufen sind die Meilensteine auf dem Weg zu ihren Zielen.
 
-**Transitionen **werden als Pfeile angezeigt und steuern, wie sich Interessenten zwischen den Stufen bewegen.
+**Die** Übergänge werden als Pfeile dargestellt und steuern, wie sich Interessenten zwischen den Stufen bewegen.
 
 >[!NOTE]
 >
@@ -79,33 +79,36 @@ Eine Gate-Phase ist für Situationen gedacht, in denen Sie Interessenten in eine
 
 ## Transitionen {#transitions}
 
-Präzisieren Sie, wie sich ein Interessent mithilfe intelligenter Kampagnen von einer Bühne zur nächsten bewegt, und stellen Sie sicher, dass Interessenten nicht in irgendeiner Phase stecken. Achten Sie darauf, Auslöser-Filter für Transitionen zu verwenden (dies ist eine Möglichkeit zur Evaluierung).
+Präzisieren Sie, wie sich ein Interessent mithilfe intelligenter Kampagnen von einer Bühne zur nächsten bewegt, und stellen Sie sicher, dass Interessenten nicht in irgendeiner Phase stecken. Achten Sie darauf, Trigger-Filter für Transitionen zu verwenden (dies ist eine Möglichkeit zur Evaluierung).
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->Eine Transition kann durch ein Interessent **Ausfüllen eines Formulars definiert werden. **
+>Eine Transition kann definiert werden, indem ein Interessent ein Formular ausfüllt.
 
-Hier sind einige Links, die hilfreich hoffen könnten. (oder hoffentlich hilfreich - nehmen Sie Ihre Auswahl!)
+Hinzufügen einer Phase vom glücklichen Erfolgspfad
 
->[!MORELIKETHIS]
->
->[Neues Umsatzmodell erstellen](create-a-new-revenue-model.md)
->
->[Verwenden der Lagerbestandsstadien des Umsatzmodells](using-revenue-model-inventory-stages.md)
->
->[Verwenden der Gate-Phasen des Umsatzmodells](using-revenue-model-gate-stages.md)
->
->[Verwenden der SLA-Stufen des Umsatzmodells](using-revenue-model-sla-stages.md)
-
-Hinzufügen einer Phase vom glücklichen Erfolgspfad   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Verloren ist gut hinzuzufügen, aber beachten Sie, dass es nicht auf dem grünen Pfad ist. Das liegt daran, dass es kein &quot;Erfolg&quot; ist.
 
 >[!MORELIKETHIS]
 >
->[Bericht zu Ihrem Umsatzmodell](report-on-your-revenue-model.md)
->
->[Genehmigung/Aufhebung der Genehmigung eines Umsatzmodells](approve-unapprove-a-revenue-model.md)
+>* [Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [Verwenden der Lagerbestandsstadien des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [Verwenden der Gate-Phasen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [Verwenden der SLA-Stufen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [Bericht zu Ihrem Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [Genehmigung/Aufhebung der Genehmigung eines Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
