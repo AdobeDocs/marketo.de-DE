@@ -3,7 +3,7 @@ unique-page-id: 7504749
 description: Exportieren eines Berichts "Umsatz Explorer"- "Marketing zu Docs - Produktdokumentation
 title: Exportieren eines Berichts zum Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Sie können jeden Bericht zu Umsatzforschern exportieren und ihn an andere weite
    >
    >Sie können einen Bericht in die folgenden drei Formate exportieren:
    >
-   >    
-   >    
-   >    * PDF
-   >    * Excel
-   >    * CSV
+   >* PDF
+   >* Excel
+   >* CSV
 
 
 1. Wählen Sie das gewünschte **Seitenformat** und **Ausrichtung** und klicken Sie auf **Export**.
@@ -38,9 +36,4 @@ Sie können jeden Bericht zu Umsatzforschern exportieren und ihn an andere weite
 
 >[!MORELIKETHIS]
 >
->* [Abonnieren eines Berichts über den Umsatz-Explorer](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Abonnieren eines Berichts über den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
