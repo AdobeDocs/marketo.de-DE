@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: Die Analyse von Chancen im Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
 title: Die Analyse von Chancen im Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Im Folgenden finden Sie einige Berichte, die Sie im Bereich Analyse zu Chancen e
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Marketing-Einfluss auf Chancen geschlossen und gewinnt
-1. Dieser Bericht zeigt nach Anzahl und Betrag, wie viel Umsatz durch Marketing erzielt und beeinflusst wurde.
+1. Marketing-Einfluss auf Chancen geschlossen und gewinnt.
+
+   Dieser Bericht zeigt nach Anzahl und Betrag, wie viel Umsatz durch Marketing erzielt und beeinflusst wurde.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Chancen nach Interessentenquelle geschlossen
-1. Dieser Bericht unterteilt alle Möglichkeiten, die durch Interessentenanwerbung geschlossen werden, und gibt Ihnen einen klaren Überblick darüber, welche Quellen funktionieren und welche nicht.
+
+   Dieser Bericht unterteilt alle Möglichkeiten, die durch Interessentenanwerbung geschlossen werden, und gibt Ihnen einen klaren Überblick darüber, welche Quellen funktionieren und welche nicht.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ Die Opportunity-Analyse ermöglicht Ihnen den Zugriff auf alle Lead-, Firma- und
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Berichts für den Umsatz-Explorer](create-a-revenue-explorer-report.md)
->* [Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](adding-fields-to-a-revenue-explorer-report.md)
->* [Abonnieren eines Berichts über den Umsatz-Explorer](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [Erstellen eines Berichts für den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Abonnieren eines Berichts über den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
