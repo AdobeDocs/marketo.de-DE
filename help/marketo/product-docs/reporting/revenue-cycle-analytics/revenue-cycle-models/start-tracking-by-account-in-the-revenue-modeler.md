@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: Beginn-Rückverfolgung nach Konto im Umsatzmodell - Marketing-Dokumente - Produktdokumentation
 title: Beginn-Rückverfolgung nach Konto im Umsatzmodell
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Mit dem Umsatzstufenmodell und dem Umsatz-Explorer erhalten Sie einen Einblick i
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Um einen neuen Bericht zu erstellen, klicken Sie auf **Datei** und wählen Sie **Neu** dann **Bericht**.
+1. Um einen neuen Bericht zu erstellen, klicken Sie auf **Datei** und wählen Sie **Neu** und dann **Bericht**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -44,4 +44,3 @@ Mit dem Umsatzstufenmodell und dem Umsatz-Explorer erhalten Sie einen Einblick i
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. Ihr Bericht sollte jetzt nur die Phasen anzeigen, die Sie nach Konto verfolgen. Speichern Sie den Bericht unbedingt, damit Sie ihn in Zukunft verwenden können. Jetzt können Sie dies als einen weiteren Maßstab für den Erfolg Ihrer Marketingbemühungen verwenden.
-
