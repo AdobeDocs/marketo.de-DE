@@ -3,7 +3,7 @@ unique-page-id: 11375276
 description: Benutzerspezifische Dimensionen für E-Mail-Einblicke - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Dimensionen für E-Mail-Einblicke
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die 
 
 >[!CAUTION]
 >
->Benutzerdefinierte Dimensionen **KÖNNEN NICHT** gelöscht oder ersetzt werden. Wählen Sie daher Ihre 10 sorgfältig aus.
+>Benutzerdefinierte Dimensionen **können nicht** gelöscht oder ersetzt werden. Wählen Sie daher Ihre 10 sorgfältig aus.
 
 1. Klicken Sie unter &quot;E-Mail-Einblicke&quot;auf das Zahnradsymbol oben rechts auf der Seite.
 
@@ -43,6 +43,4 @@ Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die 
    >
    >**Nach Audience**: Zeigt alle genehmigten Segmente an (aus der Datenbank heraus)
    >
-   >
    >**Nach Inhalt**: Zeigt alle Programm-Tags an
-
