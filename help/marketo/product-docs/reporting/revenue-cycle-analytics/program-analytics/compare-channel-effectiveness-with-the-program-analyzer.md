@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Vergleichen Sie die Effektivität von Kanälen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Kanal-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Verwenden Sie den Programm Analyzer, um die Kosten des Kanals, die Mitgliederakq
 
 >[!PREREQUISITES]
 >
->* [Programm-Analyzer erstellen](create-a-program-analyzer.md)
+>[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Klicken Sie auf **Analytics** in **My Marketo.**
+1. Klicken Sie auf **Analytics** in **My Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Wählen Sie Ihren **Programm-Analyzer.**
+1. Wählen Sie **Programm Analyzer**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Ändern Sie die Ansicht in **By** **Kanal**.
+1. Ändern Sie die Ansicht in **Nach Kanal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ Verwenden Sie den Programm Analyzer, um die Kosten des Kanals, die Mitgliederakq
 
    Wir sehen, dass der Kanal des Webinars schrumpft, gemessen durch **Neue Namen**. Wir können zu dem Schluss kommen, dass es zwar viele Mitglieder hat, aber weniger effektiv ist, neue Interessenten zu generieren als der Kanal der Messen.
 
-1. Verwenden Sie schließlich die Dropdownliste Farbe, um die vierte Dimension hinzuzufügen. Wählen Sie **(FT) Umsatz** **Won**.
+1. Verwenden Sie schließlich die Dropdownliste Farbe, um die vierte Dimension hinzuzufügen. Wählen Sie **(FT) Umsatz Won**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ In unserem Beispiel sehen wir, dass der Tradeshow-Kanal sowohl der teuerste (am 
 
 >[!MORELIKETHIS]
 >
->* [Programm- und Kanal-Details mit dem Programm Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Programm-Effektivität mit dem Programm-Analyzer vergleichen](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Programm- und Kanal-Details mit dem Programm Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Programm-Effektivität mit dem Programm-Analyzer vergleichen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
