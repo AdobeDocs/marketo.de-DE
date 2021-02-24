@@ -3,7 +3,7 @@ unique-page-id: 7504047
 description: Erstellen eines Berichts über den Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
 title: Erstellen eines Berichts für den Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,10 +17,9 @@ Mit dem Bericht &quot;Umsatz-Explorer&quot;können Sie den ROI Ihrer Marketingin
 
 >[!AVAILABILITY]
 >
->
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-1. Gehen Sie zum Bereich **Umsatz-Explorer **I.
+1. Wechseln Sie zum Bereich **Umsatz-Explorer**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
@@ -38,10 +37,5 @@ Mit dem Bericht &quot;Umsatz-Explorer&quot;können Sie den ROI Ihrer Marketingin
 
 >[!MORELIKETHIS]
 >
->* [Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](adding-fields-to-a-revenue-explorer-report.md)
->* [Hinzufügen benutzerdefinierter Maßnahmen zu einem Bericht &quot;Umsatz-Explorer&quot;](adding-custom-measures-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Hinzufügen benutzerdefinierter Maßnahmen zu einem Umsatz-Explorer-Bericht](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
