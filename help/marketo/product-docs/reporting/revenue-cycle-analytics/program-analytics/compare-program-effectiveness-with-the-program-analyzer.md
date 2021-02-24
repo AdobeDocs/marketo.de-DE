@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Vergleichen Sie die Effektivität von Programmen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Programm-Effektivität mit dem Programm-Analyzer vergleichen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Verwenden Sie den Programm Analyzer, um Ihre am effektivsten und effektivsten Pr
 
 >[!PREREQUISITES]
 >
->* [Programm-Analyzer erstellen](create-a-program-analyzer.md)
+>[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Klicken Sie auf Analytics.
+1. Klicken Sie auf **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ Verwenden Sie den Programm Analyzer, um Ihre am effektivsten und effektivsten Pr
 
    >[!TIP]
    >
-   >Eine schnelle Methode zum Filtern von Programmen auf nur einen Kanal besteht darin, **Ansicht > Nach Kanal** auszuwählen, auf die Blase für diesen Kanal zu klicken und dann im Popup-Dialogfeld auf den Kanal-Namen zu klicken.
+   >Eine schnelle Methode zum Filtern von Programmen auf nur einen Kanal besteht darin, **Ansicht** > **Nach Kanal** auszuwählen, auf die Blase für diesen Kanal zu klicken und dann im Popup-Dialogfeld auf den Kanal-Namen zu klicken.
 
 1. Verwenden Sie die Dropdownliste &quot;X-Achse&quot;, um eine Metrik für die horizontale Achse auszuwählen. Wir werden mit Programm-Kosten Beginn machen.
 
@@ -92,10 +91,6 @@ Wir sehen, dass das Paper Fest 12-Programm nicht nur mehr Umsatz (größere Blas
 
 >[!MORELIKETHIS]
 >
->* [Programm- und Kanal-Details mit dem Programm Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Kanal-Effektivität mit dem Programm-Analyzer vergleichen](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Programm- und Kanal-Details mit dem Programm Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Kanal-Effektivität mit dem Programm-Analyzer vergleichen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->Weitere Informationen zu erweiterten Analysen finden Sie im [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
