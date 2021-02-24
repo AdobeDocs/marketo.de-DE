@@ -3,9 +3,9 @@ unique-page-id: 14746432
 description: Benutzerdefinierte Felder mit Performance Insights synchronisieren - Marketing to Docs - Produktdokumentation
 title: Benutzerdefinierte Felder mit Leistungseinsichten synchronisieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MPI-Dashboard für Umsatz und Pipeline können nach benutzerdefinierten Marketo-
 
 >[!NOTE]
 >
->Dieser Artikel ist nur für Benutzer gedacht, die **nicht** [RCA](https://docs.marketo.com/x/lwIk) haben. Wenn Sie RCA haben, befolgen Sie bitte die Schritte in [diesem Artikel](https://docs.marketo.com/x/FQQk).
+>Dieser Artikel ist nur für Benutzer gedacht, die **nicht** über Umsatzwyklusanalysen verfügen. Wenn Sie RCA haben, befolgen Sie bitte die Schritte in [diesem Artikel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
 
 1. Gehen Sie zum Abschnitt **Admin**.
 
@@ -50,4 +50,3 @@ MPI-Dashboard für Umsatz und Pipeline können nach benutzerdefinierten Marketo-
    >[!NOTE]
    >
    >Nach der Aktivierung sind die Felder am folgenden Tag in MPI verfügbar.
-
