@@ -3,7 +3,7 @@ unique-page-id: 7514146
 description: Namensnennungsbeispiel 2 - Marketing Docs - Produktdokumentation
 title: Zuordnungsbeispiel 2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 * 15. April | Joan wird von (Webinar) erworben
 * 22. April | (Chance 1) für 6.000 $ erstellt
 * 24. April | (Chance 2) für 10.000 $ erstellt
-* 25. April | Bill und Joan sind Rollen zugeordnet **BEIDE **Optionen
+* 25. April | Bill und Joan sind mit den Rollen **BEIDE** Optionen verknüpft.
 * 29. April | (Chance 1) ist geschlossen
 
 | Name des Programms | (Diashow) | (Webinar) |
@@ -35,7 +35,7 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 >
 >**Erläuterung**
 >
->Da sowohl Bill als auch Joan mit den Rollen **BEIDE **Gelegenheiten verbunden waren, teilte das System (nach den Regeln) die Gutschrift gleichmäßig zwischen ihnen auf.
+>Da sowohl Bill als auch Joan mit den Rollen zu **BOTH**-Gelegenheiten verbunden waren, teilte das System (gemäß den Regeln) die Gutschrift gleichmäßig zwischen ihnen auf.
 >
 >Die für jedes Programm erstellte Pipeline (8.000 USD) ist die Hälfte der Gesamtsumme (16.000 USD), die als Gutschrift zur Verfügung steht.
 
@@ -47,17 +47,12 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 >1. Du kannst dir nicht mehr gutschreiben, als du verdient hast
 >1. Man kann etwas nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
 
->
-
-
-
-<br> 
 
 Probieren Sie alle Beispiele aus und Sie werden ein Zuordnungs-Pro!
 
 >[!MORELIKETHIS]
 >
->* [Zuordnungsbeispiel 1](attribution-example-1.md)
->* [Zuordnungsbeispiel 3](attribution-example-3.md)
->* [Zuordnungsbeispiel 4](attribution-example-4.md)
+>* [Zuordnungsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Zuordnungsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Zuordnungsbeispiel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
