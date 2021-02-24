@@ -3,9 +3,9 @@ unique-page-id: 4718668
 description: Verwenden von SLA-Stufen des Umsatzmodells - Marketing-Dokumente - Produktdokumentation
 title: Verwenden der SLA-Stufen des Umsatzmodells
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ SLA steht für &quot;Service Level Agreement&quot;. Diese Phasen werden verwende
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Wählen Sie im Abschnitt &quot;Analytics&quot;Ihr vorhandenes Modell oder [erstellen Sie ein neues Modell](create-a-new-revenue-model.md).
+1. Wählen Sie im Abschnitt &quot;Analytics&quot;Ihr vorhandenes Modell oder [erstellen Sie ein neues Modell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -37,13 +37,13 @@ SLA steht für &quot;Service Level Agreement&quot;. Diese Phasen werden verwende
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Sie können die **Name** bearbeiten, eine **Beschreibung** hinzufügen und die **Typ** anpassen, nachdem Sie eine Phase hinzugefügt haben. Sie können zur Zeit auch ** [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
+1. Sie können die **Name** bearbeiten, eine **Beschreibung** hinzufügen und die **Typ** anpassen, nachdem Sie eine Phase hinzugefügt haben. Sie können zu diesem Zeitpunkt auch **[Beginn-Verfolgung nach Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Eine SLA-Phase bearbeiten{#edit-an-sla-stage}
 
-Wenn Sie ein SLA-Stage-Symbol auswählen, können Sie den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ anpassen. Sie können auch [Beginn-Verfolgung nach Konto](start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
+Wenn Sie ein SLA-Stage-Symbol auswählen, können Sie den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ anpassen. Sie können auch [Beginn-Verfolgung nach Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
 
 1. Klicken Sie auf ein SLA-Stationssymbol.
 
@@ -53,17 +53,16 @@ Wenn Sie ein SLA-Stage-Symbol auswählen, können Sie den Namen bearbeiten, eine
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Wählen Sie den Pulldown **Typ**, den Sie bearbeiten möchten.
+1. Wählen Sie die Pulldown-Liste **Typ** aus, um sie zu bearbeiten.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
 ## Löschen einer SLA-Phase {#delete-an-sla-stage}
 
-1. Sie können eine SLA-Phase löschen, indem Sie mit der rechten Maustaste auf ein SLA-Stationssymbol klicken oder dieses steuern.
+1. Sie können eine SLA-Phase löschen, indem Sie mit der rechten Maustaste oder bei gedrückter Ctrl-Taste auf ein SLA-Stage-Symbol klicken.
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
-1. Sie können eine Phase auch löschen, indem Sie darauf klicken und dann im Dropdown-Menü &quot;Aktionen der Stufe&quot;die Option Löschen wählen.
+1. Sie können eine Phase auch löschen, indem Sie darauf klicken und dann in der Dropdown-Liste &quot;Aktionen der Stufe&quot;die Option Löschen wählen.
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)
-
