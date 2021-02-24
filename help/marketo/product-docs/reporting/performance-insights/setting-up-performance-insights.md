@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: Einrichten von Leistungseinschätzungen - Marketing Docs - Produktdokumentation
 title: Einrichten der Leistungseinblicke
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
    >
    >Stellen Sie sicher, dass alle Möglichkeiten die entsprechenden Felder enthalten:
    >
-   >    
-   >    
-   >    * Opportunity Amount
-   >    * Ist geschlossen
-   >    * Ist gewonnen
-   >    * Erstellungsdatum (in Ihrem Fall möglicherweise nicht festgelegt)
-   >    * Datum geschlossen (in Ihrem Fall nicht festgelegt)
-   >    * Opportunity-Typ
+   >* Opportunity Amount
+   >* Ist geschlossen
+   >* Ist gewonnen
+   >* Erstellungsdatum (in Ihrem Fall möglicherweise nicht festgelegt)
+   >* Datum geschlossen (in Ihrem Fall nicht festgelegt)
+   >* Opportunity-Typ
 
 
 ## Programm-Setup {#program-setup}
@@ -121,4 +119,3 @@ Aktualisieren Sie die Programm-Kosten für mindestens 12 Monate. Sie können die
 >[!NOTE]
 >
 >Änderungen werden nicht sofort vorgenommen. Vor dem Inkrafttreten der Änderungen ist eine Übernachtungsperiode erforderlich.
-
