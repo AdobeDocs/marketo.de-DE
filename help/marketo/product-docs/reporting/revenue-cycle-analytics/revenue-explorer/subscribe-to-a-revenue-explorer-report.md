@@ -3,9 +3,9 @@ unique-page-id: 2360397
 description: Abonnieren eines Berichts über den Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
 title: Abonnieren eines Berichts über den Umsatz-Explorer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Abonnieren eines UmsatzExplorer-Berichts {#subscribe-to-a-revenue-explorer-report}
 
-Um Updates von Ihren [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
+Um Updates von Ihren Umsatz-Cycle-Explorer-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
-1. Gehen Sie zu **Analytics** und wählen Sie **Neu > Neues Abonnement.**
+1. Gehen Sie zu **Analytics** und wählen Sie **Neu** > **Neues Abonnement**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Informationen zum Abonnieren eines von Ihnen in einem Programm erstellten Basisberichts finden Sie unter [Einen Basisbericht abonnieren.](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Informationen zum Abonnieren eines von Ihnen in einem Programm erstellten Basisberichts finden Sie unter [Einen Basisbericht abonnieren.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Wählen Sie für **Berichtsquelle**** Umsatz-Explorer**.
+1. Wählen Sie für **Berichtsquelle** **Umsatz-Explorer**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,11 +45,4 @@ Um Updates von Ihren [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/do
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [alle Ihre Report Abonnement](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
-
->[!NOTE]
->
->**Tieftauchen**
->
->Sehen Sie mehr über die erweiterten Analysen von Marketo im Deep Dive unter [Umsatz-Cycle-Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
-
+>Erfahren Sie, wie Sie [alle Ihre Report Abonnement](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
