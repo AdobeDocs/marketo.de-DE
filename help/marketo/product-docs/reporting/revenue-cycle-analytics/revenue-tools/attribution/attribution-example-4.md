@@ -3,7 +3,7 @@ unique-page-id: 7514151
 description: Namensnennungsbeispiel 4 - Marketing Docs - Produktdokumentation
 title: Zuordnungsbeispiel 4
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -48,17 +48,12 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 >1. Du kannst dir nicht mehr gutschreiben, als du verdient hast
 >1. Man kann etwas nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
 
->
-
-
-
-<br> 
 
 Probieren Sie alle Beispiele aus und Sie werden ein Zuordnungs-Pro!
 
 >[!MORELIKETHIS]
 >
->* [Zuordnungsbeispiel 1](attribution-example-1.md)
->* [Zuordnungsbeispiel 2](attribution-example-2.md)
->* [Zuordnungsbeispiel 3](attribution-example-3.md)
+>* [Zuordnungsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Zuordnungsbeispiel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Zuordnungsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 
