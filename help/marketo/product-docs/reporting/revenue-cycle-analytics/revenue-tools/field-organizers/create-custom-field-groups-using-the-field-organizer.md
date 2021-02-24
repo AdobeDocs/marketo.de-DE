@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: Erstellen benutzerdefinierter Feldgruppen mit dem Feldorganisator - MarketingToDocs - Produktdokumentation
 title: Erstellen benutzerdefinierter Feldgruppen mithilfe des Feldorganisierers
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -180,8 +180,8 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
    >
    >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder Gruppenbereichseintrag baut auf dem vorherigen Eintrag auf. Wenn Sie den letzten Eintrag für den Gruppenbereich für die letzte von Ihnen erstellte benutzerspezifische Untergruppe leer lassen, wird kein Enddatumswert festgelegt.
 
+   Das folgende Beispiel zeigt einen Eintrag für Q1 2015-Interessenten bis zum 3. Quartal.
+
    ![](assets/16.5.png)
 
    Und das ist es! Gute Arbeit.
-
-Das folgende Beispiel zeigt einen Eintrag für Q1 2015-Interessenten bis zum 3. Quartal.
