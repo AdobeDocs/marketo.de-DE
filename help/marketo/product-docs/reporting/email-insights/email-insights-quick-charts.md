@@ -3,7 +3,7 @@ unique-page-id: 10099415
 description: E-Mail Insights Quick Charts - Marketing Docs - Produktdokumentation
 title: E-Mail-Einblicke - Schnelldiagramme
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Möchten Sie eine Ihrer Quick Charts löschen? Es ist einfach!
    ![](assets/eleven.png)
 
    Ihr QuickChart wird jetzt gelöscht. Sagte dir, es sei einfach.
-
