@@ -3,7 +3,7 @@ unique-page-id: 4718672
 description: Verwenden von Transitionen des Umsatzmodells - Marketing-Dokumente - Produktdokumentation
 title: Verwenden der Transitionen des Umsatzmodells
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Neues Umsatzmodell erstellen](create-a-new-revenue-model.md)
+>[Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 Wenn Sie Ihr Modell erstellen und die Bestandsstufen auswählen und organisieren, ist es an der Zeit, die Transitionen festzulegen.
 
@@ -29,7 +29,10 @@ Wenn Sie Ihr Modell erstellen und die Bestandsstufen auswählen und organisieren
    >
    >&#39;Anonyme ⇒ Bekannte&#39; Transitionen können nicht bearbeitet werden.
 
-1. Für die ausgewählte Transition wird eine neue Registerkarte geöffnet.   ![](assets/three-1.png)
+1. Für die ausgewählte Transition wird eine neue Registerkarte geöffnet.
+
+   ![](assets/three-1.png)
+
 1. Transitionen steuern, wie sich Interessenten zwischen Phasen bewegen. Ziehen Sie den Trigger (oder Filter) Ihrer Wahl von rechts und lassen Sie ihn an einer beliebigen Stelle auf die Arbeitsfläche los. In diesem Beispiel wählen wir den Trigger Formular ausfüllen aus.
 
    >[!TIP]
@@ -62,4 +65,4 @@ Gut gemacht! Sie haben Ihre Transitionen erfolgreich geändert.
 
 >[!MORELIKETHIS]
 >
->[Genehmigung/Aufhebung der Genehmigung eines Umsatzmodells](approve-unapprove-a-revenue-model.md)
+>[Genehmigung/Aufhebung der Genehmigung eines Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
