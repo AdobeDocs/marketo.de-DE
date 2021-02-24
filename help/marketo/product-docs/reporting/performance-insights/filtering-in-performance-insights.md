@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: Filterung in Performance Insights - Marketing Docs - Produktdokumentation
 title: Filtern in Leistungseinsichten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Klicken Sie auf das Pluszeichen, um dem Beginn Filter hinzuzufügen.
 
 >[!NOTE]
 >
->Derzeit sind benutzerdefinierte Attribute nur für Filter verfügbar, für die [RCA](https://docs.marketo.com/x/lwIk) aktiviert ist.
+>Derzeit sind benutzerdefinierte Attribute in Filtern nur für Kunden verfügbar, für die &quot;Umsatzwyklusanalyse&quot;aktiviert ist.
 
 Wenn Sie auf eine Kategorie klicken, werden mehrere Kategorien angezeigt.
 
@@ -57,7 +57,7 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
   </tr> 
   <tr> 
    <td colspan="1"><strong>Benutzerdefinierte Attribute</strong></td> 
-   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">Sie aktivieren</a> für die Analyse der Gelegenheit können in Performance Insights gefiltert werden.</p></td> 
+   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">Sie aktivieren</a> für die Analyse der Gelegenheit können in Performance Insights gefiltert werden.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investitionszeitraum</strong></p></td> 
@@ -69,11 +69,11 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
   </tr> 
   <tr> 
    <td><p><strong>Programm-Tag</strong></p></td> 
-   <td><p>Tags werden zur Beschreibung von Programmen verwendet. Sie können so viele machen, wie Sie benötigen, mit jeweils eindeutigen Werten. <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">Hier erfahren Sie, wie Sie mit Programm-Tags arbeiten.</a></p></td> 
+   <td><p>Tags werden zur Beschreibung von Programmen verwendet. Sie können so viele machen, wie Sie benötigen, mit jeweils eindeutigen Werten. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Hier erfahren Sie, wie Sie mit Programm-Tags arbeiten.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Arbeitsbereich</strong></td> 
-   <td><p>Arbeitsflächen sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B.: Programms, Landingpages, E-Mails und mehr. <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">Hier erfahren Sie mehr über Arbeitsbereiche.</a></p></td> 
+   <td><p>Arbeitsflächen sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B.: Programms, Landingpages, E-Mails und mehr. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Hier erfahren Sie mehr über Arbeitsbereiche.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
 >[!NOTE]
 >
 >Im Dashboard Interaktion sind nur Programm-Tags und Workspace-Filter verfügbar.
-
