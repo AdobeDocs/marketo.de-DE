@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: Informationen zum Bereich Programm Revenue Stage Analyse - Marketing Docs - Produktdokumentation
 title: Die Analyse der Programm-Umsatzstufe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In diesem Bereich können Sie die Effektivität einzelner Programm analysieren oder die zusammengefassten Analysen nach Kanal anzeigen. Es bietet Einblicke, wie viele der neu generierten Namen bestimmte Erfolgspfade innerhalb Ihres Umsatzzyklusmodells erreicht haben.
 
-**Zu den Geschäftsfragen, die Sie mit diesem Bereich der Analyse beantworten können, zählen:**
+**Zu den Geschäftsfragen, die Sie mit diesem Bereich der Analyse beantworten können, zählen**:
 
 Wie viele neue Namen aus einem bestimmten Programm haben je eine bestimmte Stufe in meinem Modell erreicht?
 
@@ -153,4 +153,4 @@ Um verfügbare Dimensionen oder Maßeinheiten in einer Kategorie Ansicht, klicke
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Berichts für den Umsatz-Explorer](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Erstellen eines Berichts für den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
