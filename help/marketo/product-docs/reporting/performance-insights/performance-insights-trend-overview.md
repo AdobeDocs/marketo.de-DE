@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: Performance Insights-Trendübersicht - Marketing Docs - Produktdokumentation
 title: Übersicht über Performance Insights Trends
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Klicken Sie auf die Registerkarte **Trend**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In diesem Beispiel werden wir uns die Chancen ansehen, die mit [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution) gewonnen wurden.
+Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In diesem Beispiel werden wir uns die Chancen ansehen, die mit [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) gewonnen wurden.
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ Erweitern Sie einen Kanal, um die ersten zehn Programm zu sehen, wobei die restl
 >[!NOTE]
 >
 >Wenn Sie auf das Kontrollkästchen neben einem Kanal klicken, wird dieser im Ringdiagramm aktiviert/deaktiviert.
-
