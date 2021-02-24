@@ -3,9 +3,9 @@ unique-page-id: 4718685
 description: Zusammenführen von zwei Phasen im Umsatzmodell - Marketing-Dokumente - Produktdokumentation
 title: Zusammenführen von zwei Phasen im Umsatzmodell
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Nachdem Sie das Modell genehmigt haben, können Sie beim Bearbeiten eines Entwur
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. `Right click the stage you want to merge and select`**`Merge Stage`**`in the menu.`
+1. Klicken Sie mit der rechten Maustaste auf die zusammenzuführende Phase und wählen Sie **Phase zusammenführen** im Menü.
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -35,13 +35,10 @@ Nachdem Sie das Modell genehmigt haben, können Sie beim Bearbeiten eines Entwur
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
+1. Sie können das Modell erneut genehmigen, indem Sie **Modellentwurf genehmigen** im Menü **Modellaktionen** auswählen.
 
-   ^ ![](assets/image2015-4-29-16-3a5-3a53.png)
-
-   `
+   ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
 >Wählen Sie **Keine** in der Merge-Phase, um die Leads aus Ihrem Modell zu entfernen.
-
