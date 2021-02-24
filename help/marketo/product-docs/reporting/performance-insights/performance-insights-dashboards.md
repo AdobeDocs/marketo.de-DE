@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: Performance Insight-Dashboard - Marketing Docs - Produktdokumentation
 title: Performance Insight-Dashboard
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Wählen Sie die Metrik **Erfolge** aus, um den Einsatz der Audience in Ihren Pro
 Der Zweck eines Programms besteht darin, eine aussagekräftige Interaktion mit der Person oder dem Potenzieller Kunde herzustellen. Der Erfolg wird markiert, wenn eine Person den Status erreicht, der dieses Ziel erreicht. Sie kann an einem Webinar teilnehmen, auf einen Link in einer E-Mail klicken oder ein Webformular ausfüllen. Der Erfolg hängt vom Kanal des Programms ab.
 
 >[!NOTE]
->
->**Beispiel**
 >
 >In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, registriert und teilgenommen. Eingeladene oder registrierte Interaktionen sind keine sinnvollen Interaktionen, weil die Leute das Webinar nicht wirklich ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
 
@@ -108,4 +106,3 @@ Das Dashboard Umsatz zeigt die Performance der Kanal nach First Touch- und Multi
   </tr> 
  </tbody> 
 </table>
-
