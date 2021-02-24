@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: Der Bereich "Programm Opportunity Analyse"- "Marketing to Docs"- Produktdokumentation
 title: Der Analyse-Bereich für Programm-Chancen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Die Analyse des Programm-Opportunity-Bereichs {#understanding-the-program-opportunity-analysis-area}
+# Der Analyse-Bereich für Programm-Chancen {#understanding-the-program-opportunity-analysis-area}
 
 ## Übersicht {#overview}
 
 Im Bereich Programm Opportunity Analyse können Sie die Effektivität einzelner Programm analysieren oder die zusammengefassten Ergebnisse nach Programm Kanal sehen.
 
-**Zu den Geschäftsfragen, die Sie mit diesem Bereich der Analyse beantworten können, zählen:**
+**Zu den Geschäftsfragen, die Sie mit diesem Bereich der Analyse beantworten können, zählen**:
 
 Wie viele Möglichkeiten wurden mit einem bestimmten Programm verbunden und wie viele davon haben wir gewonnen?
 
@@ -67,11 +67,11 @@ Wie bei der Akquise ändert sich auch der Wert des Beitrags zu den Verkäufen an
   </tr> 
   <tr> 
    <td>Opportunitätskosten</td> 
-   <td><p>Der Anteil der Kosten des Programms, der die Gelegenheit beeinflusste. Die Kosten können aufgeteilt werden, wenn mehrere Interessenten beteiligt waren.</p></td> 
+   <td>Der Anteil der Kosten des Programms, der die Gelegenheit beeinflusste. Die Kosten können aufgeteilt werden, wenn mehrere Interessenten beteiligt waren.</td> 
   </tr> 
   <tr> 
    <td>Erstellte Möglichkeiten</td> 
-   <td><p>Der Anteil, den das Programm erhält, um die Schaffung der Chance zu beeinflussen. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</p></td> 
+   <td>Der Anteil, den das Programm erhält, um die Schaffung der Chance zu beeinflussen. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</td> 
   </tr> 
   <tr> 
    <td>Chancen gewinnen</td> 
@@ -79,28 +79,28 @@ Wie bei der Akquise ändert sich auch der Wert des Beitrags zu den Verkäufen an
   </tr> 
   <tr> 
    <td>Pipeline erstellt</td> 
-   <td><p>Der Anteil des Kredits (in Geldwert), den das Programm erhalten hat, um die Schaffung der Chance zu beeinflussen. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</p></td> 
+   <td>Der Anteil des Kredits (in Geldwert), den das Programm erhalten hat, um die Schaffung der Chance zu beeinflussen. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</td> 
   </tr> 
   <tr> 
    <td>Pipeline erstellt - noch geöffnet</td> 
    <td>Der Anteil des Kredits (in Geldwert), den das Programm erhalten hat, um die Schaffung der derzeit offenen Chance zu beeinflussen. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</td> 
   </tr> 
   <tr> 
-   <td><p>Erwarteter Umsatz</p></td> 
+   <td>Erwarteter Umsatz</td> 
    <td>Der Anteil des Kredits (in Geldwert), den das Programm erhalten hat, um die Schaffung der Chance zu beeinflussen. Erwarteter Umsatz ist die mit dem Opportunitätswert multiplizierte Opportunitätswahrscheinlichkeit. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</td> 
   </tr> 
   <tr> 
-   <td><p>Einnahmen aus Investitionen</p></td> 
-   <td><p>Dies ist das Verhältnis des Anteils des Kredits (in Geldwert), den das Programm für die Beeinflussung der eigenen Chancen erhalten hat, und der Kosten des Programms.</p></td> 
+   <td>Einnahmen aus Investitionen</td> 
+   <td>Dies ist das Verhältnis des Anteils des Kredits (in Geldwert), den das Programm für die Beeinflussung der eigenen Chancen erhalten hat, und der Kosten des Programms.</td> 
   </tr> 
   <tr> 
    <td>Umsatz Gewonnen</td> 
-   <td><p>Der Anteil des Kredits (in Geldwert), den das Programm für die Beeinflussung der eigenen Chance erhalten hat. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</p></td> 
+   <td>Der Anteil des Kredits (in Geldwert), den das Programm für die Beeinflussung der eigenen Chance erhalten hat. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = First Touch Attribution, verwendet für Messungen der Interessentenanwerbung; (MT) = Multi-Touch-Zuordnung, verwendet für Messungen des Interessentenerfolgs*
+_* (FT) = First Touch Attribution, verwendet für Messungen der Interessentenanwerbung; (MT) = Multi-Touch-Zuordnung, verwendet für Messungen des Interessentenerfolgs_
 
 Nachfolgend finden Sie ein Szenario, in dem beschrieben wird, wie Opportunity-Einheiten berechnet werden, wenn zwei Programm Interessenten generiert haben, die jedoch zu einer Gelegenheit aus demselben Konto führten.
 
@@ -165,19 +165,19 @@ Während Maßnahmen (blaue Punkte) berechnet werden und Überlegungen und Erläu
  <tbody> 
   <tr> 
    <th>Kategorie</th> 
-   <th><p>Beschriftung anzeigen</p></th> 
+   <th>Beschriftung anzeigen</th> 
   </tr> 
   <tr> 
    <td>Opportunity-Attribute</td> 
-   <td><p>Chancen geschlossen<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</p></td> 
+   <td>Chancen geschlossen<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</td> 
   </tr> 
   <tr> 
    <td>Opportunity-Zeitrahmen</td> 
-   <td><p>Geschlossene Chance - Jahr/Quartal/Monat<br>Erschaffene Chance - Jahr/Quartal/Monat</p></td> 
+   <td>Geschlossene Chance - Jahr/Quartal/Monat<br>Erschaffene Chance - Jahr/Quartal/Monat</td> 
   </tr> 
   <tr> 
    <td>Programm-Attribute</td> 
-   <td><p>Programm-Kanal<br>Programm-Name</p></td> 
+   <td>Programm-Kanal<br>Programm-Name</td> 
   </tr> 
   <tr> 
    <td>Zeitrahmen für die Programm-Kosten</td> 
@@ -190,4 +190,4 @@ Während Maßnahmen (blaue Punkte) berechnet werden und Überlegungen und Erläu
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Berichts für den Umsatz-Explorer](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Erstellen eines Berichts für den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
