@@ -3,7 +3,7 @@ unique-page-id: 2953136
 description: Attribution - Marketing Docs - Produktdokumentation
 title: Zuordnung verstehen
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Was ist Zuordnung? {#what-is-attribution}
 
-Die Zuordnung ist die Art und Weise, wie Marketo den Programmen, die helfen, Umsatz und Chancen zu beeinflussen, Anerkennung zollt. Wenn Sie den Marketo-Modellierer verwenden, kann die Zuordnung auch dafür danken, dass jemand in Ihrem Geschäftsmodell vorankommt.
+Die Zuordnung ist die Art und Weise, wie Marketo den Programmen, die helfen, Umsatz und Chancen zu beeinflussen, Anerkennung zollt. Wenn Sie den Marketo-Modellierer verwenden, kann die Zuordnung auch dafür verantwortlich sein, jemanden in Ihrem Geschäftsmodell voranzubringen.
 
 ## Warum sollte man das im Auge behalten? {#why-keep-track-of-this}
 
@@ -41,10 +41,10 @@ In den folgenden Beispielen können Sie diese Regeln anwenden und alles verstehe
 
 >[!MORELIKETHIS]
 >
->1. [Zuordnungsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->1. [Zuordnungsbeispiel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->1. [Zuordnungsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->1. [Zuordnungsbeispiel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Zuordnungsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Zuordnungsbeispiel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Zuordnungsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Zuordnungsbeispiel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
 
 Wenn Sie diese Funktion verwenden, machen Sie definitiv das Beste aus Ihrer Investition in Marketo.
