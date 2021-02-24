@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: Hinzufügen benutzerdefinierter Maßnahmen zu einem Bericht "Umsatz - Explorer - Marketing - Dokumente - Produktdokumentation"
 title: Hinzufügen benutzerdefinierter Maßnahmen zu einem Bericht "Umsatz-Explorer"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ Im unten stehenden Beispiel erstellen Sie eine berechnete Maßeinheit für weich
 >
 >Sie benötigen mindestens eine Metrik in Ihrem Bericht, aber sie muss nicht zu den Maßnahmen gehören, die Sie zur Definition Ihrer benutzerspezifischen Maßeinheit verwenden.
 
-1. Ziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere Informationen finden Sie unter [Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht](adding-fields-to-a-revenue-explorer-report.md).
+1. Ziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere Informationen finden Sie unter [Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md).
+
 1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **Benutzerdefinierte Messung** und wählen Sie **Berechnete Messung**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ Im unten stehenden Beispiel erstellen Sie eine berechnete Maßeinheit für weich
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
