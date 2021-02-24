@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Informationen zum Bereich "E-Mail-Analyse"- Marketing-Dokumente - Produktdokumentation
 title: Der Bereich "E-Mail-Analyse"
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 Der Bereich &quot;E-Mail-Analyse&quot;konzentriert sich auf E-Mail-Metriken. In diesem Artikel werden alle darin verfügbaren Berichte vorgestellt.
 
 >[!AVAILABILITY]
->
 >
 >Dies steht Benutzern mit dem Add-on Select Edition oder [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) zur Verfügung. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
@@ -61,4 +60,3 @@ Dieser Bericht zeigt Ihnen den prozentualen Anteil der gesamten E-Mail, die zu j
 Dieser Bericht zeigt Ihnen den Wochentag und die Uhrzeit des Tages an, an dem Sie Ihre E-Mails senden. Je grüner die Box, desto mehr E-Mails an diesem bestimmten Tag und zu dieser bestimmten Zeit. Der aktuelle Filter enthält alle E-Mails, die in den letzten 7 Tagen gesendet wurden. Die Zeit ist in CST.
 
 ![](assets/seven.png)
-
