@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Erstellen Sie einen Bericht zur E-Mail-Analyse, der Listen Interessenten - Marketing Docs - Produktdokumentation
 title: Erstellen Sie einen Bericht zur E-Mail-Analyse mit Listen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,26 +15,25 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
 Führen Sie die folgenden Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstellen, der Ihnen alle Interessenten anzeigt, die eine bestimmte E-Mail gesendet wurden. Dieser Bericht enthält auch die Status &quot;Klicken und Öffnen&quot;. 1. Starten Sie den Umsatz-Explorer.
 
 ![](assets/image2014-9-17-19-3a12-3a54.png)
 
-1. Klicken Sie auf Neuer Bericht.
+1. Klicken Sie auf **Neuer Bericht**.
 
    ![](assets/image2014-9-17-19-3a13-3a1.png)
 
-1. Wählen Sie den Bereich &quot;E-Mail-Analyse&quot;und klicken Sie auf &quot;OK&quot;.
+1. Wählen Sie den Bereich &quot;E-Mail-Analyse&quot;und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-17-19-3a14-3a0.png)
 
-1. Suchen Sie den gelben Punkt E-Mail-Name, klicken Sie mit der rechten Maustaste darauf und wählen Sie Filter.
+1. Suchen Sie den gelben Punkt &quot;E-Mail-Name&quot;, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Filter**.
 
    ![](assets/image2014-9-17-19-3a14-3a6.png)
 
-1. Dublette klicken Sie in der Liste auf die E-Mail Ihrer Wahl und klicken Sie auf OK.
+1. Klicken Sie in der Liste auf die gewünschte E-Mail-Adresse und dann auf **OK**.
 
    ![](assets/image2014-9-17-19-3a14-3a11.png)
 
@@ -58,6 +57,8 @@ Führen Sie die folgenden Schritte aus, um einen Bericht zur E-Mail-Analyse zu e
 >
 >Abhängig von der Datenmenge, über die dieser Bericht verfügt, kann es eine Weile dauern, bis er aktualisiert wird.
 
-Nachdem Sie jetzt fertig sind, sollte Ihr Bericht in etwa so aussehen:   ![](assets/image2014-9-17-19-3a16-3a39.png)
+Nachdem Sie jetzt fertig sind, sollte Ihr Bericht in etwa so aussehen:
+
+![](assets/image2014-9-17-19-3a16-3a39.png)
 
 Mission abgeschlossen!
