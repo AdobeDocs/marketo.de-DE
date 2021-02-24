@@ -3,7 +3,7 @@ unique-page-id: 13795492
 description: Performance Insight-Einstellungen - Marketing Docs - Produktdokumentation
 title: Einstellungen für Performance Insights
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -25,17 +25,35 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 **Interaktions-Dashboard - Beitrag und Trend**
 
-| **Kostenzeitraum** | Wenn Sie diese Option aktivieren, werden alle neuen Namen und Erfolge von Performance Insights bis zu dem als Kostenzeitraum eingerichteten Aggregat . |
-|---|---|
-| **Aktivität** | Wenn Sie diese Option aktivieren, werden bei Performance Insights alle neuen Namen, Erfolge und Mitgliedschaften nach dem Datum der Aktivität Aggregat, unabhängig vom Zeitraum der Programm-Kosten. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kostenzeitraum</strong></td> 
+   <td>Wenn Sie diese Option aktivieren, werden alle neuen Namen und Erfolge von Performance Insights bis zu dem als Kostenzeitraum eingerichteten Aggregat .</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Aktivität</strong></td> 
+   <td>Wenn Sie diese Option aktivieren, werden bei Performance Insights alle neuen Namen, Erfolge und Mitgliedschaften nach dem Datum der Aktivität Aggregat, unabhängig vom Zeitraum der Programm-Kosten.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Konfiguration des vorherigen Zeitraums {#previous-period-configuration}
 
 **Interaktion, Pipeline, Umsatz - Dashboards - nur Beitrag**
 
-| **Kalenderzeitraum** | Den vorherigen Zeitraum auf: vorheriger Kalendermonat, -quartal oder -jahr. |
-|---|---|
-| **YOY-Zeitraum** | Stellen Sie den vorherigen Zeitraum auf denselben Monat oder dasselbe Quartal im Vorjahr ein. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kalenderzeitraum</strong></td> 
+   <td>Den vorherigen Zeitraum auf: vorheriger Kalendermonat, -quartal oder -jahr.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>YOY-Zeitraum</strong></td> 
+   <td>Stellen Sie den vorherigen Zeitraum auf denselben Monat oder dasselbe Quartal im Vorjahr ein.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Marketing-beeinflussende Chancen {#marketing-influenced-opportunities}
 
@@ -54,7 +72,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  </tbody> 
 </table>
 
-Dashboard Umsatz - Beitrag und Trend
+**Dashboard Umsatz - Beitrag und Trend**
 
 <table> 
  <tbody> 
@@ -73,7 +91,15 @@ Dashboard Umsatz - Beitrag und Trend
 
 **Dashboards für Pipeline und Umsatz - Beitrag und Trend**
 
-| **Basierend auf dem Investitionszeitraum** | Investitionskosten werden einfach als Summe der monatlichen Kosten des Programms berechnet, die durch den Filter für den Investitionszeitraum definiert werden. |
-|---|---|
-| **Basierend auf Programm Attribution** | Zugewiesene Kosten basieren auf einem Teil der Kosten für Programme, die durch im Programm erworbene oder erzielte Kontakte bestimmt werden und letztendlich zu einer guten Gelegenheit führten. |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Basierend auf dem Investitionszeitraum</strong></td> 
+   <td>Investitionskosten werden einfach als Summe der monatlichen Kosten des Programms berechnet, die durch den Filter für den Investitionszeitraum definiert werden.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Basierend auf Programm Attribution</strong></td> 
+   <td>Zugewiesene Kosten basieren auf einem Teil der Kosten für Programme, die durch im Programm erworbene oder erzielte Kontakte bestimmt werden und letztendlich zu einer guten Gelegenheit führten.</td> 
+  </tr> 
+ </tbody> 
+</table>
