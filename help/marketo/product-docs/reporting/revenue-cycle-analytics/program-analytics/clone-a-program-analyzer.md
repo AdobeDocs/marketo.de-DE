@@ -3,7 +3,7 @@ unique-page-id: 11383877
 description: Clone a Programm Analyzer - Marketing Docs - Produktdokumentation
 title: Klonen eines Programm Analyzer
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um einen neuen zu erstellen. Bearbeiten Sie dann das neue, wenn Änderungen erforderlich sind.
 
-1. Klicken Sie auf die Kachel **Analytics **Kachel.
+1. Klicken Sie auf die Kachel **Analytics**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -41,9 +41,4 @@ Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Programm-Analyzer erstellen](create-a-program-analyzer.md)
-
-
+   >[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
