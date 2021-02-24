@@ -3,7 +3,7 @@ unique-page-id: 7504520
 description: Löschen eines Felds in einem Umsatz-Explorer-Bericht - Marketing-Dokumente - Produktdokumentation
 title: Löschen eines Felds in einem Umsatz-Explorer-Bericht
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -25,9 +25,4 @@ Manchmal können Sie ein falsches Feld in den Bericht ziehen. So entfernen Sie s
 
 >[!MORELIKETHIS]
 >
->* [Speichern eines Umsatz-Explorer-Berichts](saving-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Speichern eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
