@@ -3,7 +3,7 @@ unique-page-id: 2360405
 description: Erstellen Sie einen Bericht zur Programm-Mitgliedschaft in der Analyse, den Listen führen - Marketing-Dokumente - Produktdokumentation
 title: Erstellen Sie einen Programm Membership Analyse Report, der von Listen geleitet wird.
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -17,18 +17,17 @@ Führen Sie folgende Schritte aus, um einen Bericht zur Programm-Mitgliedschaft-
 
 >[!AVAILABILITY]
 >
->
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
 1. Starten Sie den Umsatz-Explorer.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf Neu erstellen und dann Bericht.
+1. Klicken Sie auf **Neu erstellen** und dann **Bericht**.
 
    ![](assets/two.png)
 
-1. Wählen Sie Programm Membership Analyse und klicken Sie auf OK.
+1. Wählen Sie **Programm Membership Analyse** und klicken Sie auf **OK**.
 
    ![](assets/three.png)
 
@@ -48,17 +47,16 @@ Sehen Sie, wie einfach das war?
 
 ![](assets/seven.png)
 
-Sie können schnell ein Interessentenattribut wie **Vollständiger Name** hinzufügen, um zu sehen, wer die Mitglieder sind.
+Sie können schnell ein Interessentenattribut wie _Vollständiger Name_ hinzufügen, um zu sehen, wer die Mitglieder sind.
 
 >[!TIP]
 >
 >Es gibt viele Interessenten-/Firmen-Attribute, die Sie auswählen können. Schau sie doch mal an!
 
-1. Klicken Sie bei gedrückter Dublette auf den gelben Punkt Vollname.
+1. Suchen Sie nach dem gelben Punkt und klicken Sie mit der Dublette auf den Punkt **Vollständiger Name**.
 
    ![](assets/eight.png)
 
 Da hast du es!
 
 ![](assets/nine.png)
-
