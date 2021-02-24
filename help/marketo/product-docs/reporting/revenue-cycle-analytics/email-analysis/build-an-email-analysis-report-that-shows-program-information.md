@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Erstellen Sie einen Bericht zur E-Mail-Analyse, der Programm-Informationen - Marketing-Dokumente - Produktdokumentation anzeigt.
 title: Erstellen eines Berichts zur E-Mail-Analyse mit Programm-Informationen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
 
 >[!AVAILABILITY]
 >
->
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
 1. Starten Sie **Umsatz-Explorer**.
@@ -28,7 +27,7 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. Wählen Sie** E-Mail-Analyse** aus und klicken Sie auf **OK**.
+1. Wählen Sie den Bereich **E-Mail-Analyse** aus und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -44,7 +43,7 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Suchen und Dublette klicken Sie auf den** Programm Kanal** gelben Punkt.
+1. Suchen und Dublette klicken Sie auf den gelben Punkt **Programm Kanal**.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstel
    Gute Arbeit! Sie sollten einen Bericht haben, der in etwa so aussieht:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**Tieftauchen**
-   >
-   >
-   >Möchten Sie mehr über [Umsatz-Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) erfahren?
-
