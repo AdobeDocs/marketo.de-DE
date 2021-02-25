@@ -3,7 +3,7 @@ unique-page-id: 7504343
 description: Erstellen Sie ein Segment mithilfe von "Bekannte Personendaten - Marketing-Dokumente - Produktdokumentation"
 title: Erstellen eines Segments mithilfe von Daten bekannter Personen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Hier erfahren Sie, wie Sie ein Segment mit den Werten für bekannte Personendate
 
 >[!PREREQUISITES]
 >
->[Personendaten verwalten](manage-person-data.md)
+>[Personendaten verwalten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Gehen Sie zu **Segmente**.
 
@@ -31,7 +31,7 @@ Hier erfahren Sie, wie Sie ein Segment mit den Werten für bekannte Personendate
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Ziehen Sie bei der Segmentierung des Profils **Datenbank **auf die Arbeitsfläche.
+1. Ziehen Sie in der Segmentierung des Profils **Database** auf die Arbeitsfläche.
 
    ![](assets/four-1.png)
 
@@ -57,9 +57,8 @@ Hier erfahren Sie, wie Sie ein Segment mit den Werten für bekannte Personendate
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder auf **Speichern und definieren Sie die Kampagne **zum Speichern und rufen Sie die Seite &quot;Kampagnen&quot;auf.
+1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder **Kampagne speichern und definieren**, um zu speichern und zur Seite &quot;Kampagnen&quot;zu wechseln.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
    Sie haben jetzt ein Segment eingerichtet, das auf Daten bekannter Personen abzielt.
-
