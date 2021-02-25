@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: Personendaten verwalten - Marketing-Dokumente - Produktdokumentation
 title: Personendaten verwalten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche Felder auswählen, die Sie in Ihrer Segmentierung verwenden möchten.
 
-1. Gehen Sie zu **Kontoeinstellungen**.\
+1. Gehen Sie zu **Kontoeinstellungen**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Gehen Sie zu **Datenbank**.\
+1. Gehen Sie zu **Datenbank**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Hinzufügen eines Felds für eine neue Person {#adding-a-new-person-field}
@@ -29,11 +31,7 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * Ein neues Feld wird in einem ausstehenden Status hinzugefügt und kann bis zu 24 Stunden dauern, bis es aktiviert wird.
-
+   >Ein neues Feld wird in einem ausstehenden Status hinzugefügt und kann bis zu 24 Stunden dauern, bis es aktiviert wird.
 
 ## Löschen eines Personenfelds {#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
    >
    >**Verwalten der Datenfelder für Personen**
    >
-   >    
-   >    
-   >    * Nur Datenfelder für Personen können einbezogen werden
-   >    * Sie können bis zu 30 Personendatenfelder hinzufügen
-   >    * Das Hinzufügen neuer Felder kann bis zu 24 Stunden in Anspruch nehmen
-   >    * Die maximale Länge von Zeichenfolgen-Typen beträgt 255 Zeichen
-   >    * Ausgeblendete Felder werden automatisch entfernt
+   >* Nur Datenfelder für Personen können einbezogen werden
+   >* Sie können bis zu 30 Personendatenfelder hinzufügen
+   >* Das Hinzufügen neuer Felder kann bis zu 24 Stunden in Anspruch nehmen
+   >* Die maximale Länge von Zeichenfolgen-Typen beträgt 255 Zeichen
+   >* Ausgeblendete Felder werden automatisch entfernt
 
 
 <table> 
@@ -108,9 +104,4 @@ Die folgenden Interessentenfelder werden für neue Web-Personalisierungskonten s
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Segments mithilfe von Daten bekannter Personen](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[Erstellen eines Segments mithilfe von Daten bekannter Personen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
