@@ -3,7 +3,7 @@ unique-page-id: 10093159
 description: Inhaltsanalyse - Marketing-Dokumente - Produktdokumentation
 title: Inhaltsanalyse
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -100,6 +100,6 @@ Klicken Sie auf der Seite &quot;Inhaltsanalyse&quot;auf das Löschen-Symbol des 
 
 >[!MORELIKETHIS]
 >
->* [Symbolleiste für die Inhaltsempfehlung aktivieren](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Predictive Content für Web Rich Media aktivieren](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Symbolleiste für die Inhaltsempfehlung aktivieren](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Predictive Content für Web Rich Media aktivieren](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
