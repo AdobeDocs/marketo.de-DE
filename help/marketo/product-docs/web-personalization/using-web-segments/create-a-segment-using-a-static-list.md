@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: Erstellen eines Segments mithilfe einer statischen Liste - Marketing Docs - Produktdokumentation
 title: Erstellen eines Segments mithilfe einer statischen Liste
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Erstellen eines Segments mit einer statischen Liste {#create-a-segment-using-a-static-list}
 
-Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo [statischen Listen](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists) befinden.
+Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo [statischen Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) befinden.
 
 1. Gehen Sie zu **Segmente**.
 
@@ -27,7 +27,7 @@ Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachd
 
    ![](assets/three.png)
 
-1. Ziehen Sie in &quot;Bekannte Interessenten&quot;die Option **Statische Listen **auf die Arbeitsfläche.
+1. Ziehen Sie unter &quot;Bekannte Interessenten&quot;**Statische Listen** auf die Arbeitsfläche.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachd
    >
    >Die und/oder Dropdownliste ist genau das. Klicken Sie darauf, um **und**, **oder** oder **und/oder** auszuwählen.
 
-1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder auf **Speichern und definieren Sie die Kampagne **zum Speichern und rufen Sie die Seite &quot;Kampagnen&quot;auf.
+1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder **Kampagne speichern und definieren**, um zu speichern und zur Seite &quot;Kampagnen&quot;zu wechseln.
 
    ![](assets/eight-1.png)
-
