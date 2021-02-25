@@ -3,7 +3,7 @@ unique-page-id: 4719336
 description: Benutzereinstellungen - MarketingToDocs - Produktdokumentation
 title: Benutzereinstellungen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Profil/Kennwörter/Zeitzonen {#user-profile-passwords-time-zones}
 
-1. Klicken Sie auf Ihren Namen und wählen Sie **Benutzereinstellungen.**
+1. Klicken Sie auf Ihren Namen und wählen Sie **Benutzereinstellungen**.
 
    ![](assets/one.png)
 
@@ -27,15 +27,13 @@ ht-degree: 0%
 
    Auf der Seite &quot;Benutzereinstellungen&quot;haben Sie folgende Möglichkeiten:
 
-   * 
-
-      * E-Mail-Adresse ändern
-      * hinzufügen persönliche Angaben (Vor- und Nachname, Mobiltelefonnummer und Zeitzone)
-      * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen auf der Plattform exportiert werden sollen. Siehe Feld: &quot;Max. Anzahl der Zeilen im Excel-Export (begrenzt auf 10.000)&quot;
-      * Wählen Sie Ihre Mobile-Benachrichtigungen für eine neue Person aus oder beobachten Sie die Liste in Bezug auf die Mobilanwendung.
-      * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf **Regionen bearbeiten** klicken.
-      * Kennwort ändern
-      * Wählen Sie die Benachrichtigungseinstellungen für E-Mail-Berichte zu Organisationen, Personen, Kampagne und Asset-Leistung aus.
+   * E-Mail-Adresse ändern
+   * hinzufügen persönliche Angaben (Vor- und Nachname, Mobiltelefonnummer und Zeitzone)
+   * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen auf der Plattform exportiert werden sollen. Siehe Feld: &quot;Max. Anzahl der Zeilen im Excel-Export (begrenzt auf 10.000)&quot;
+   * Wählen Sie Ihre Mobile-Benachrichtigungen für eine neue Person aus oder beobachten Sie die Liste in Bezug auf die Mobilanwendung.
+   * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf **Regionen bearbeiten** klicken.
+   * Kennwort ändern
+   * Wählen Sie die Benachrichtigungseinstellungen für E-Mail-Berichte zu Organisationen, Personen, Kampagne und Asset-Leistung aus.
 
    Klicken Sie auf **Speichern**, nachdem Sie Änderungen vorgenommen haben.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 ## E-Mail-Berichte {#select-email-reports} auswählen
 
-Wählen Sie aus, welcher [E-Mail-Bericht](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Ihrem Benutzer zugeordnet werden soll, und wie häufig (täglich, wöchentlich oder vierteljährlich) der Bericht gesendet wird.
+Wählen Sie aus, welcher [E-Mail-Bericht](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Ihrem Benutzer zugeordnet werden soll, und wie häufig (täglich, wöchentlich oder vierteljährlich) der Bericht gesendet wird.
 
 ![](assets/three.png)
 
@@ -55,9 +53,4 @@ Wählen Sie aus, welcher [E-Mail-Bericht](../../../product-docs/web-personalizat
 
 >[!MORELIKETHIS]
 >
->* [Regionen bearbeiten](edit-regions.md)
-
->
-
-
-
+>[Regionen bearbeiten](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)
