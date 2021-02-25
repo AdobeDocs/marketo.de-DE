@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Erstellen einer Liste für ein neues Konto - Marketing Docs - Produktdokumentation
 title: Eine Liste für ein neues Konto erstellen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Erstellen Sie eine Liste von Organisations- und Domänennamen und laden Sie sie 
    >
    >**Welches Format hat die CSV-Datei?**
    >
-   >
    >Vergewissern Sie sich, dass die benannte CSV-Datei die folgenden Anforderungen erfüllt:
    >
    >* Als CSV-Format gespeichert
@@ -50,8 +49,6 @@ Erstellen Sie eine Liste von Organisations- und Domänennamen und laden Sie sie 
 
    >[!NOTE]
    >
-   >**Beispiel**
-   >
    >**Beispiel der CSV-Datei**
    >
    >* Zeile 1 Spalte A Wert = Organisation
@@ -62,16 +59,16 @@ Erstellen Sie eine Liste von Organisations- und Domänennamen und laden Sie sie 
    >* Land und Bundesland sind optionale Werte.
 
       >
-      >  
-   * Verwenden Sie für den Ländernamen den vollständigen Ländernamen oder den Abkürzungscode. z. USA oder USA.
-   >  * Für einen US-Bundesstaat verwenden Sie den 2-Buchstaben-Abkürzungscode, d.h. CA. Nur US-Bundesstaaten werden anerkannt.
+      >   
+      * Verwenden Sie für den Ländernamen den vollständigen Ländernamen oder den Abkürzungscode. z. USA oder USA.
+      >   * Für einen US-Bundesstaat verwenden Sie den 2-Buchstaben-Abkürzungscode, d.h. CA. Nur US-Bundesstaaten werden anerkannt.
 
-   >    
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Bearbeiten einer Konto-Liste {#edit-an-account-list}
 
-Klicken Sie auf der Seite **Kontoeinstellungen** auf das Symbol **Bearbeiten **auf der Liste.
+Klicken Sie auf der Seite **Kontoeinstellungen** auf das Symbol **Bearbeiten** auf der Liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -83,7 +80,7 @@ Die CSV-Datei ersetzt die vorhandene Datei. Die bestehende Liste bleibt solange 
 
 ## Löschen einer Liste für ein benanntes Konto {#delete-a-named-account-list}
 
-1. Klicken Sie auf der Seite **Kontoeinstellungen **auf das Symbol **Löschen **der Liste, die Sie löschen möchten.
+1. Klicken Sie auf der Seite **Kontoeinstellungen** auf das Symbol Löschen der Liste, die Sie löschen möchten.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -93,6 +90,4 @@ Die CSV-Datei ersetzt die vorhandene Datei. Die bestehende Liste bleibt solange 
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Segments mit einer Kontoversion einer Liste](create-a-segment-using-an-account-list.md)
->* [Ansicht einer Liste mit einem benannten Konto](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
-
+>[Erstellen eines Segments mit einer Kontoversion einer Liste](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
