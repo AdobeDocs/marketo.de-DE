@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: Erstellen eines Segments mithilfe einer Kontodokumentation - Marketing Docs - Liste
 title: Erstellen eines Segments mit einer Kontoversion einer Liste
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,11 +17,7 @@ So erstellen Sie ein Segment mit einer Kontoklasse.
 
 >[!PREREQUISITES]
 >
->* [Eine Liste für ein neues Konto erstellen](../../../product-docs/account-based-marketing/target/account-lists.md)
-
->
-
-
+>[Eine Liste für ein neues Konto erstellen](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
 
 1. Gehen Sie zu **Segmente**.
 
@@ -43,7 +39,8 @@ So erstellen Sie ein Segment mit einer Kontoklasse.
    >
    >Listen von Konten werden von ABM mit Web-Personalisierung synchronisiert, um sie in der Segmentierung zu verwenden. Wählen Sie sie aus der Dropdownliste aus. Die Synchronisierung kann bis zu fünf Minuten dauern. Die Synchronisierung erfolgt nur, wenn sich in der Liste &quot;Konto&quot;ein oder mehrere benannte Konten befinden.
 
-1. Klicken Sie auf **Speichern** oder klicken Sie auf **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.\
+1. Klicken Sie auf **Speichern** oder klicken Sie auf **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.
+
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Herzlichen Glückwunsch! Sie haben jetzt ein Segment für eine Liste eingerichtet.
