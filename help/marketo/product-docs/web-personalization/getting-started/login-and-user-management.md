@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: Anmeldung und Benutzerverwaltung - Marketing Docs - Produktdokumentation
 title: Anmelden und Benutzerverwaltung
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Geben Sie einen Rollennamen ein und wählen Sie &quot;Berechtigungen&quot;. Klicken Sie auf **Create** (Diese Rolle muss [auf alle Arbeitsbereiche](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers) angewendet werden.)
+1. Geben Sie einen Rollennamen ein und wählen Sie &quot;Berechtigungen&quot;. Klicken Sie auf **Create** (Diese Rolle muss [auf alle Arbeitsbereiche](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) angewendet werden.)
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Um Benutzern Zugriff auf alle Elemente in Targeting und Personalisierung zu gewähren, müssen Sie die Kontrollkästchen *alle* aktivieren.
+   >Um Benutzern Zugriff auf alle Elemente in Targeting und Personalisierung zu gewähren, müssen Sie die Kontrollkästchen _alle_ aktivieren.
 
 ## Web-Personalisierung und Predictive Content Benutzerberechtigungen {#web-personalization-and-predictive-content-user-permissions}
 
