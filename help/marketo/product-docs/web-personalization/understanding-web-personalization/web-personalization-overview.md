@@ -3,7 +3,7 @@ unique-page-id: 3571900
 description: Übersicht über die Web-Personalisierung - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über die Web-Personalisierung
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ## Einführung {#introduction}
 
-Bei neuen Marketo-Kunden wird die Echtzeit-Personalisierung in vier Apps unterteilt, auf die mit den beiden folgenden Kacheln zugegriffen wird: Web-Personalisierung und Inhalt`<sup>AI</sup>`.
+Bei neuen Marketo-Kunden wird die Echtzeit-Personalisierung in vier Apps unterteilt, auf die mit den beiden folgenden Kacheln zugegriffen wird: Web-Personalisierung und ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web-Personalisierung und Content`<sup>AI</sup>` sind in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch).
+>Web Personalization und ContentAI sind in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch).
 
 Bestehende Kunden greifen über die Kachel &quot;Echtzeit-Personalisierung&quot;bis zur Verlängerung auf die Apps zu. Zu diesem Zeitpunkt verwenden sie die oben genannte Anmeldung.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wenn Sie auf die Kachel &quot;Webpersonalisierung&quot;klicken, wird die Seite &quot;Dashboard&quot;angezeigt. Klicken Sie auf die Kachel &quot;Inhalt`<sup>AI</sup>`&quot;und gehen Sie direkt zur Seite &quot;Content Recommendations&quot;.
+Wenn Sie auf die Kachel &quot;Webpersonalisierung&quot;klicken, wird die Seite &quot;Dashboard&quot;angezeigt. Klicken Sie auf die Kachel ContentAI und gehen Sie direkt zur Seite Content Recommendations.
 
 Die vier Apps sind:
 
 * Web-Personalisierung
 * Kontobasiertes Webmarketing
 * Website-Retargeting
-* Inhalt`<sup>AI</sup>`
+* ContentAI
 
-Die** Web-Personalisierung **Kachel ist Ihr Zugriffspunkt für** **die Erstellung personalisierter Web-Kampagnen.** **Kontobasiertes Webmarketing und Web-Retargeting. Sie können Inhalte auf der Seite &quot;Inhaltsanalyse&quot;hinzufügen.
+Die Kachel **Web-Personalisierung** ist Ihr Zugangspunkt zum Erstellen personalisierter Web-Kampagnen. Kontobasiertes Webmarketing und Web-Retargeting. Sie können Inhalte auf der Seite &quot;Inhaltsanalyse&quot;hinzufügen.
 
 **Kontobasiertes Web-** Marketing funktioniert mit Web-Personalisierung und Funktionen Benannter Konten. Auf der Seite &quot;Benannte Konten&quot;finden Sie grafische Informationen zu bestehenden Kunden, zu Gesamtengagements und zu organisatorischen Trends sowie eine Liste der Konten. Sie können dort auch neue benannte Konten erstellen.
 
 **Website-** Retargetingung gibt Ihnen die Möglichkeit, segmentierte Audiencen zu vermarkten. Sie können Segmente festlegen, aber keine benannten Konten im Filter verwenden.
 
-**`<sup>AI</sup>`** Content ist der Ort, an dem Inhaltsempfehlungen gegeben werden. Sie können der Seite Content Recommendations mühelos Inhalte hinzufügen.
+**** ContentAIist der Ort, an dem Inhaltsempfehlungen gegeben werden. Sie können der Seite Content Recommendations mühelos Inhalte hinzufügen.
 
 >[!NOTE]
 >
@@ -61,9 +61,6 @@ Auf der Registerkarte &quot;Organisationen&quot;werden alle Details (Name, Stand
 >* Am aktivsten: die aktivsten Unternehmen in der Tabelle, basierend auf der Anzahl der Ansichten der Seite
 >* aktuelle: die neuesten Organisationen in der Tabelle (Standard)
 >* Für wertvolle Einblicke filtern Sie nach der aktivsten
-
->
-
 
 
 **Organisationen - Rechtsabteilung**
@@ -172,4 +169,3 @@ Die Echtzeitseite ist in 6 informative Tabellen mit Details zu Onsite-Besuchern 
   </tr> 
  </tbody> 
 </table>
-
