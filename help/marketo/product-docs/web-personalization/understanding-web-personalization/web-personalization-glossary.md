@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glossar zur Web-Personalisierung - Marketing-Dokumente - Produktdokumentation
 title: Glossar "Web-Personalisierung"
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
 | **ISP** | Internet Dienstleister |
 | **Bekannter Besucher** | Ein Web-Besucher, der ein Formular ausgefüllt und die Angaben (E-Mail-Adresse) auf Ihrer Website hinterlassen oder auf einen Link in einer Marketing-E-Mail geklickt hat. |
 | **Liste des Kontos** | Eine Liste der Namen des Hauptkontos/der Organisation. Auch als &quot;Account-Based Marketing&quot;(ABM)-Liste bezeichnet. |
-| **Segmente** | Eine Sammlung von Besuchern, die die angegebenen Kriterien erfüllen, die auf der Seite [&quot;Segment festlegen&quot;definiert sind.](../../../product-docs/web-personalization/using-web-segments/web-segments.md) |
+| **Segmente** | Eine Sammlung von Besuchern, die die angegebenen Kriterien erfüllen, die auf der Seite [&quot;Segment festlegen&quot;definiert sind.](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) |
 | **Teilungstest** | Ein Testversuch mit zwei oder mehr Varianten zur Messung der Ergebnisunterschiede. Das Ziel ist es, Änderungen an Webseiten zu identifizieren, die ein interessantes Ergebnis steigern oder maximieren. |
 | **Platzhalter** | Ein Platzhalterzeichen (*), das vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen. Siehe die folgenden Beispiele. |
 
@@ -42,4 +42,3 @@ Ordnen Sie allen Besuchern auf Seiten-URLs zu, die mit https:// Beginn übereins
 Finden Sie alle Besucher auf Seiten-URLs ab, die das Wort &quot;backup&quot;enthalten (z. B. [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
