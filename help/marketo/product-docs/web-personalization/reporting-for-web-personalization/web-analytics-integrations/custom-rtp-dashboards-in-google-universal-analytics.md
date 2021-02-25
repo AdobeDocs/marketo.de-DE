@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Benutzerspezifische RTP-Dashboard in Google Universal Analytics - Marketing Docs - Produktdokumentation
 title: Benutzerdefinierte RTP-Dashboard in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTP in Google Universal Analytics integrieren](integrate-rtp-with-google-universal-analytics.md)
+>[RTP in Google Universal Analytics integrieren](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-In diesem Beitrag wird das Einrichten von RTP-Dashboards in Google Universal Analytics (GUA) erläutert.  Die Daten, die von RTP an GUA gesendet werden, können als zwei separate benutzerdefinierte Dashboard eingerichtet werden:
+In diesem Beitrag wird das Einrichten von RTP-Dashboards in Google Universal Analytics (GUA) erläutert. Die Daten, die von RTP an GUA gesendet werden, können als zwei separate benutzerdefinierte Dashboard eingerichtet werden:
 
 * RTP B2B
 * RTP-Interaktion
 
 ## Einrichten eines benutzerspezifischen Dashboards {#setting-up-a-custom-dashboard}
 
-1. Melden Sie sich bei Google Analytics an. Klicken Sie auf **Berichte **im oberen Menü. Klicken Sie auf **Dashboards **und **+Neues benutzerdefiniertes Dashboard.**
+1. Melden Sie sich bei Google Analytics an. Klicken Sie im oberen Menü auf **Berichte**. Klicken Sie auf **Dashboard** und **+Neues benutzerdefiniertes Dashboard**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Wählen Sie **Leere Arbeitsfläche**, fügen Sie einen **Dashboard-Namen** hinzu und klicken Sie auf **Dashboard erstellen**.
 
-1. Klicken Sie auf **Hinzufügen Widget**, um ein neues Widget zu erstellen.\
+1. Klicken Sie auf **Hinzufügen Widget**, um ein neues Widget zu erstellen.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B-Dashboard {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ Das Dashboard besteht aus 3 Spalten
 * Segmentierung
 * Firmografischer Drilldown
 
-1. Erstellen Sie ein neues Dashboard mit dem Namen **RTP B2B-Dashboard **und definieren Sie die folgenden Widgets:
+1. Erstellen Sie ein neues Dashboard mit dem Namen **RTP B2B-Dashboard** und definieren Sie die folgenden Widgets:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ Das Dashboard besteht aus 3 Spalten
   <tr> 
    <th> 
     <div>
-      Spalte 1 - Traffic-Quellen 
+      Spalte 1 - Traffic-Quellen
     </div></th> 
    <th> 
     <div> <strong>Spalte 2 - Segmentierung</strong> 
@@ -151,11 +152,9 @@ Das Dashboard besteht aus 3 Spalten
 
 Dieses Dashboard ermöglicht es Benutzern, ihre RTP-Kampagne-Performance und Empfehlungs-Engine-Interaktionen zu analysieren. Es bietet einen Vergleich von Avg. Sitzungsdauer und Seiten pro Sitzung zwischen:
 
-* 
-
-   * Nicht aktiviert
-   * Interagiert (Impressionen und Klicks auf eine personalisierte Kampagne)
-   * Klicks auf die Recommendations-Engine und die am häufigsten empfohlenen Inhalte
+* Nicht aktiviert
+* Interagiert (Impressionen und Klicks auf eine personalisierte Kampagne)
+* Klicks auf die Recommendations-Engine und die am häufigsten empfohlenen Inhalte
 
 Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** und definieren Sie die folgenden Widgets:
 
@@ -265,7 +264,6 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
 
 >[!MORELIKETHIS]
 >
->[RTP in Google Universal Analytics integrieren](integrate-rtp-with-google-universal-analytics.md)
+>[RTP in Google Universal Analytics integrieren](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Benutzerspezifische RTP-Berichte in Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Benutzerspezifische RTP-Berichte in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
