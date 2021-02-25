@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Erstellen eines grundlegenden Websegments - Marketing-Dokumente - Produktdokumentation
 title: Ein einfaches Websegment erstellen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanz
 
    ![](assets/segment-name.png)
 
-1. Ziehen Sie **Position **aus dem Kontextmenü und legen Sie sie im Segment-Editor ab.
+1. Ziehen Sie **Position** aus dem Kontextmenü und legen Sie es im Segment-Editor ab.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanz
    >
    >Die Anzahl der Städte ist auf 300 pro Segment begrenzt.
 
-1. Ziehen Sie **Industries **aus dem Kontextmenü und legen Sie es im Segment-Editor ab.
+1. Ziehen Sie **Industries** aus dem Kontextmenü und legen Sie es im Segment-Editor ab.
 
    ![](assets/industries-hand.jpg)
 
-1. Wählen Sie aus der Dropdownliste die hinzuzufügenden Branchen aus. Wählen Sie **Finanzdienstleistungen ****Branche**.
+1. Wählen Sie aus der Dropdownliste die hinzuzufügenden Branchen aus. Wählen Sie **Finanzdienstleistungsbranche**.
 
    ![](assets/segment-industries.png)
 
    Sie haben nun ein Basissegment für alle Potenzieller Kunde eingerichtet, die Ihre Website aus den USA und der Finanzbranche besuchen.
 
-1. Klicken Sie auf** Speichern **zum Speichern des Segments oder **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.
+1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
@@ -57,9 +57,4 @@ Jetzt haben Sie Ihre Besucher aus den USA segmentiert, gehen Sie weiter und füg
 
 >[!MORELIKETHIS]
 >
->* [Websegmente](https://docs.marketo.com/x/9QFI)
-
->
-
-
-
+>[Websegmente](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
