@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: Einstellung der Web-Personalisierung auf Nicht verfolgen - Marketing Docs - Produktdokumentation
 title: Web-Personalisierung auf Nicht verfolgen einstellen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ In Web-Personalisierung und Predictive Content kann ein Marketingexperte einen U
    >Das Festlegen des Umschalters auf &quot;Ein&quot;kann sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken.
 
 1. Um den Umschalter &quot;Honor DNT&quot;zu deaktivieren und die Einstellung &quot;Do No Track (DNT)&quot;des Browsers zu ignorieren, wählen Sie **Off** unter &quot;Honor DNT&quot;aus.
-
