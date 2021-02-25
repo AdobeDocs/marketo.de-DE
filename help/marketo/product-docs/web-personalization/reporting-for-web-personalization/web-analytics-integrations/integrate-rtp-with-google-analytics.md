@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: Integration von RTP mit Google Analytics - Marketing Docs - Produktdokumentation
 title: RTP mit Google Analytics integrieren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Erfahren Sie, wie Sie [Web-Personalisierung in Universal Analytics integrieren.](integrate-rtp-with-google-universal-analytics.md)
+Erfahren Sie, wie Sie [Web-Personalisierung in Universal Analytics integrieren.](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Einführung {#introduction}
 
@@ -66,19 +66,23 @@ Messen Sie Ihre RTP-Kampagnen und ordnen Sie sie Ihrem Site-Durchschnitt insgesa
 
 ## RTP mit Google Analytics {#setting-up-rtp-with-google-analytics} einrichten
 
-1. hinzufügen Sie die E-Mail [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) als Benutzer zum Lesen und Analysieren auf Ihr GA-Konto. Weitere Informationen finden Sie unter [hier](https://support.google.com/analytics/answer/2884495?hl=en).
+1. hinzufügen Sie die E-Mail an rtp.ga2@gmail.com als Benutzer für Lesen und Analysieren für Ihr GA-Konto. Weitere Informationen finden Sie unter [hier](https://support.google.com/analytics/answer/2884495?hl=en).
+
 1. In Ihrem RTP-Konto. Gehen Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Unter **Kontoeinstellungen**, **Domäne** und **Analytics**
-1. Klicken Sie auf** Google Analytics.**
+1. Unter **Kontoeinstellungen**, **Domäne** und **Analytics**.
+
+1. Klicken Sie auf **Google Analytics**.
+
 1. Aktivieren Sie die entsprechenden **Benutzerspezifische Variablen** und **Ereignis**, um diese Daten von RTP an Google Analytics anzuhängen.
+
 1. Geben Sie die Zahl **Steckplatz** ein, um benutzerdefinierte Variablendaten zu senden (Standard ist 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Klicken Sie auf **SAVE**.
+1. Klicken Sie auf **Speichern**.
 
 >[!NOTE]
 >
