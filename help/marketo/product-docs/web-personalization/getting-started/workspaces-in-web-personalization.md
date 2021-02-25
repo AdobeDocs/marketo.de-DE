@@ -3,7 +3,7 @@ unique-page-id: 17727499
 description: Arbeitsbereiche in Web-Personalisierung - Marketing Docs - Produktdokumentation
 title: Arbeitsbereiche in der Web-Personalisierung
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -35,5 +35,4 @@ Um zwischen Arbeitsbereichen in der Web-Personalisierung zu wechseln, klicken Si
 
 >[!NOTE]
 >
->Benutzer können nur Web-Kampagnen und -Segmente anzeigen, die mit den Arbeitsbereichen, auf die sie Zugriff haben, verknüpft sind. So geben Sie einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche[.](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
-
+>Benutzer können nur Web-Kampagnen und -Segmente anzeigen, die mit den Arbeitsbereichen, auf die sie Zugriff haben, verknüpft sind. So geben Sie einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).[
