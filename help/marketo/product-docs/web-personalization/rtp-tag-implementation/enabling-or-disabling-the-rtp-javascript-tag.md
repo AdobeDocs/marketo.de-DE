@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: Aktivieren oder Deaktivieren des RTP JavaScript-Tags - MarketingTo Docs - Produktdokumentation
 title: RTP JavaScript-Tag aktivieren oder deaktivieren
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Das RTP-JavaScript-Tag steuert, ob die Web-Personalisierung die Web-Aktivität v
 1. Um das RTP-Tag zu aktivieren, wählen Sie unter &quot;Tag&quot;in &quot;Domain and Domain Configuration&quot;den Umschalter **Ein**.
 
    Einfach.
-
