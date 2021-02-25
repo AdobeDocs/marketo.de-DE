@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: Ausschluss bestimmter IPs von der Verfolgung - Marketing-Dokumente - Produktdokumentation
 title: Ausschließen bestimmter IPs von der Verfolgung
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Sie können einzelne IPs und alle oder Teile eines IPs ausschließen.
    ![](assets/exclude-ips-after.png)
 
    Hast du gesehen, wie einfach das war? Jetzt können Sie alle Daten aus den hinzugefügten IPs entweder einzeln oder nach Bereich ausschließen.
-
