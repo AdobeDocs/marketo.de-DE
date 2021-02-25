@@ -3,9 +3,9 @@ unique-page-id: 4720149
 description: Implementierung von RTP auf Wordpress - Marketing Docs - Produktdokumentation
 title: Implementierung von RTP auf Wordpress
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,10 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die Installationsanweisungen unt
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. Suchen Sie in der Liste der Vorlagendateien rechts neben dem Texteditor nach **header.php** und öffnen Sie es.
-1. Gehen Sie zu **Kontoeinstellungen.**
 
-   Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 5 fort.
+1. Gehen Sie zu **Kontoeinstellungen**.
+
+   a. Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 5 fort.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
@@ -34,11 +35,12 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die Installationsanweisungen unt
 
 1. Kopieren Sie das RTP JavaScript-Tag und fügen Sie es in Ihre Website-Vorlagen ein.
 
-   Vergewissern Sie sich, dass es sich um das erste Skript in der Kopfzeile der Seite handelt - zwischen den Tags **`<head> </head>`**.
+   a. Vergewissern Sie sich, dass es sich um das erste Skript in der Kopfzeile der Seite handelt - zwischen den Tags **`<head> </head>`**.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Klicken Sie für die Datei header.php auf **Datei aktualisieren**.
-1. Vergewissern Sie sich, dass sie auf allen `pages including`-Landingpages und -Subdomänen angezeigt wird.
 
-   Dazu klicken Sie mit der rechten Maustaste auf die Seite `website’s`. Gehen Sie zu **Seitenquelle der Ansicht.** Suchen Sie nach  **** RTP, um das Tag zu suchen.
+1. Vergewissern Sie sich, dass sie auf allen Seiten einschließlich Landingpages und Subdomänen angezeigt wird.
+
+   a. Dazu klicken Sie mit der rechten Maustaste auf die Seite Ihrer Website. Gehen Sie zu **Seitenquelle der Ansicht.** Suchen Sie nach  **** RTP, um das Tag zu suchen.
