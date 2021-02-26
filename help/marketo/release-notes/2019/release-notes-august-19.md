@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Versionshinweise - 19. August - Marketing Docs - Produktdokumentation
 title: Versionshinweise - August 19
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -15,34 +15,33 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom 19. August enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
-***Quartalsversionen***
+**_Quartalsversionen_**
 
 Die folgenden Funktionen wurden am 16. August 2019 veröffentlicht.
 
 ## Core-Marketo Engage {#core-marketo-engage}
 
-* **Erweiterbares Webinar-Framework:** Sparen Sie Zeit mit Marketos neuem Out-of-the-Box-Webinar-Framework (eingeführt in den  [Winter &quot;19 Versionshinweisen](release-notes-winter-19.md)&quot;), das Daten von Webinar-Anbietern nahtlos nach Marketo weiterleitet und umgekehrt. In diesem neuen Framework stehen jetzt &quot;Cvent and Zoom&quot;zur Verfügung.
-* **API-Aktualisierung für intelligente Kampagne:** Verwalten Sie Funktionen für intelligente Kampagne, während Sie die CRUD-Benutzeroberfläche (Erstellen, Lesen, Aktualisieren, Löschen) abschließen.
-* **API-Änderung für E-Mail-Kopfzeilen aktualisieren:** Für die API &quot;E-Mail-Kopfzeile aktualisieren&quot;ist keine E-Mail mehr erforderlich, um eine angehängte Vorlage zum Aktualisieren von Kopfzeilenfeldern wie der Betreffzeile zu haben.
+* **Erweiterbares Webinar-Framework**: Mit Marketos neuem Out-of-the-Box Webinar Framework (eingeführt in der  [Winterversion &quot;19&quot;, ](/help/marketo/release-notes/2019/release-notes-winter-19.md) die Daten von Webinar-Anbietern nahtlos an Marketo weiterleitet und umgekehrt. In diesem neuen Framework stehen jetzt &quot;Cvent and Zoom&quot;zur Verfügung.
+* **API-Aktualisierung** für intelligente Kampagne: Verwalten Sie Funktionen zum Lebenszyklus intelligenter Kampagnen, während wir die CRUD-Oberfläche (erstellen, lesen, aktualisieren, löschen) abrunden.
+* **API-Änderung** für E-Mail-Kopfzeilen aktualisieren: Für die API &quot;E-Mail-Kopfzeile aktualisieren&quot;ist keine E-Mail mehr erforderlich, damit eine Vorlage zum Aktualisieren von Kopfzeilenfeldern wie der Betreffzeile angehängt wird.
 
 **Kontobasiertes Marketing** ![(Stern)](assets/star-yellow.svg)
 
 * **Die LinkedIn-Kontoübereinstimmung**, zuvor in der Beta-Version, ist jetzt allgemein verfügbar.
-* **Die`<sup>AI</sup>`** Konten werden offiziell als  **Kontoprofilerstellung** umbenannt.
+* **Die** AccountAIs werden offiziell als  **Kontoprofilerstellung** umbenannt.
 
 <br> 
 
-***Veröffentlichung im gesamten Quartal***
+**_Veröffentlichung im gesamten Quartal_**
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden im dritten Kalenderquartal und Anfang des 4. Quartals 2019 veröffentlicht.
 
-**Marketing Sales Connect**  ![ (star)](assets/star-yellow.svg)
+**Marketing Sales Connect** ![ (star)](assets/star-yellow.svg)
 
-* **Einstieg:** Schrittweise Anleitung erleichtert und verbessert das Einsteigen, indem neue Benutzer durch die Instanzeinrichtung geführt werden.
+* **Einstieg**: Eine schrittweise Anleitung erleichtert und verbessert die Einarbeitung, indem neue Benutzer durch die Instanzeinrichtung geführt werden.
 * **Verbesserung des Personenseitenlayouts:** Verwalten Sie Ihre Personen und Gruppen durch Importe von Listen und Massenaktionen im neuen Personenseitenlayout.
 
 >[!AVAILABILITY]
->
 >
 >Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Marketo-Kundenbetreuer, um mehr zu erfahren.
 
@@ -52,4 +51,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 >
 >**Um den Zugriff auf Ihr Marketo Engage zu erhalten, stellen Sie sicher, dass alle Clientsysteme vor dem 13. Dezember 2019** TLS 1.2-kompatibel sind. Ausführlichere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-***Produktversion*** [WebinarNehmen Sie ](https://engage.marketo.com/August_19_Release_Webinar.html) am 28. August um 13:00 Uhr PT / 16:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.
+**_Produktversion_** [WebinarNehmen Sie ](https://engage.marketo.com/August_19_Release_Webinar.html) am 28. August um 13:00 Uhr PT / 16:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.
