@@ -3,7 +3,7 @@ unique-page-id: 10098884
 description: Filtern von Web-Kampagnen - Marketing-Dokumente - Produktdokumentation
 title: Web-Kampagnen filtern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nachdem Sie Hunderte von Web-Personalisierungs-Kampagnen erstellt haben, ist es wirklich hilfreich, Filter zu verwenden, um nur diejenigen zu Ansichten, die Sie interessieren.
 
-1. Gehen Sie zu **Web-Kampagnen.**
+1. Gehen Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -36,4 +36,3 @@ Nachdem Sie Hunderte von Web-Personalisierungs-Kampagnen erstellt haben, ist es 
    ![](assets/web-campaigns-filter-only-paused.jpg)
 
    Kuchen!
-
