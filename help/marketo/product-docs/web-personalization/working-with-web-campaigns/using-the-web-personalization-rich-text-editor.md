@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: Verwenden des Rich-Text-Editor für Web-Personalisierung - Marketing-Dokumente - Produktdokumentation
 title: Verwenden des Rich-Text-Editors für die Web-Personalisierung
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ Zu den wichtigen Symbolen im Rich-Text-Editor gehören:
 
 >[!NOTE]
 >
->Web-Tokens verwenden [Personendaten](https://docs.marketo.com/display/DOCS/Manage+Person+Data) aus Ihrer Marketing-Datenbank, die unter Kontoeinstellungen > Datenbank unter Web-Personalisierung verwaltet werden. Wenn es sich bei dem Webtoken um ein neues Datenbankfeld handelt, das noch nicht unter Kontoeinstellungen > Datenbank aufgeführt ist, wird es automatisch hinzugefügt und kann bis zu 24 Stunden dauern, bis die Aktivierung erfolgt ist.
+>Web-Tokens verwenden [Personendaten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) aus Ihrer Marketing-Datenbank, die unter Kontoeinstellungen > Datenbank unter Web-Personalisierung verwaltet werden. Wenn es sich bei dem Webtoken um ein neues Datenbankfeld handelt, das noch nicht unter Kontoeinstellungen > Datenbank aufgeführt ist, wird es automatisch hinzugefügt und kann bis zu 24 Stunden dauern, bis die Aktivierung erfolgt ist.
 
 >[!MORELIKETHIS]
 >
->[Verwenden des Rich-Text-Editors](https://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
-
+>[Verwenden des Rich-Text-Editors](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
