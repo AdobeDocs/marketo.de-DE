@@ -3,9 +3,9 @@ unique-page-id: 12983280
 description: Versionshinweise - Herbst 17 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Herbst 17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Wir haben die Kerninfrastruktur von Marketo weiter verbessert, einschließlich e
 
 ## SFDC-Synchronisierungsleistung {#sfdc-sync-performance}
 
-Profitieren Sie von einer umfangreicheren und schnelleren Synchronisierung über Marketo und Salesforce. Datenänderungen, die Massenaktualisierungen bei Konten oder Interessenten erfordern, können in parallele Warteschlangen aufgeteilt werden, um Rückstände zu vermeiden. Ereignisse und Aufgaben werden jetzt auch bis zu 50 % schneller synchronisiert.
+Profitieren Sie von einer umfangreicheren und schnelleren Synchronisierung über Marketo und Salesforce. Datenänderungen, die Massenaktualisierungen von Konten oder Interessenten erfordern, können in parallele Warteschlangen aufgeteilt werden, um Rückstände zu vermeiden. Ereignisse und Aufgaben werden jetzt auch bis zu 50 % schneller synchronisiert.
 
 ## Leistungsverbesserungen bei Analytics {#analytics-performance-improvements}
 
 Die jüngsten Infrastrukturverbesserungen haben Angebot zu höherer Betriebszeit und Stabilität in den Marketing Berichte- und Analysetools geführt, sodass Sie schneller Ad-hoc-Berichte erstellen können.
 
-## [Zeitzone des Empfängers](https://docs.marketo.com/x/_xvG) {#recipient-time-zone}
+## [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
 Mit dieser neuen Funktion können Sie jetzt E-Mails gemäß den örtlichen Zeitzonen speichern und senden. E-Mail- und Interaktions-Programm können so konfiguriert werden, dass sie in den Zeitzonen der Empfänger ausgeliefert werden, sodass nicht mehr mehrere Programm erstellt werden müssen. Einmalig senden und Marketo hält die E-Mail bis zur richtigen Ortszeit automatisch ab. Steigern Sie E-Mail-Metriken, beachten Sie lokale Praktiken und sparen Sie Zeit, indem Sie ein einzelnes Programm global verwenden.
 
@@ -39,15 +39,15 @@ Mit dieser neuen Funktion können Sie jetzt E-Mails gemäß den örtlichen Zeitz
 >
 >Wenn Sie die Zeitzone des Empfängers noch nicht in Ihren E-Mail- und Interaktions-Programmen aktivieren können, sollten Sie sich nicht panisch verhalten! Diese Funktion wird schrittweise allen Kunden zur Verfügung gestellt.
 
-## [Beispiel-E-Mails nach Segment überprüfen](https://docs.marketo.com/x/2IER) {#review-sample-emails-by-segment}
+## [Beispiel-E-Mails nach Segment überprüfen](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo verfügt über eine neue Option, um ein Segment auszuwählen, wenn E-Mails zum Review gesendet werden. Sie müssen nicht mehr manuell festlegen, zu welchem Segment ein Interessent gehört, sodass es einfacher ist, E-Mails mit dynamischen Inhalten an verschiedene Segmente zu senden.
 
-## [LinkedIn-Interessentenanwerbung - Benutzerspezifische Fragen](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-custom-questions}
+## [LinkedIn-Interessentenanwerbung - Benutzerspezifische Fragen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Passen Sie Ihre LinkedIn-Lead-Gen-Formulare an, um benutzerdefinierte Interessentenattribute zu erfassen. Sie können jetzt bis zu drei benutzerspezifische Fragen pro Formular stellen, aus einer einzeiligen Texteingabe oder Fragen mit mehreren Auswahlmöglichkeiten wählen und wieder Marketo-Interessentenfelder zuordnen.
 
-## [Slack-Integration](../../product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Slack-Integration](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 Im Rahmen der neuen Slack-Integration haben wir zwei Funktionen veröffentlicht:
 
@@ -56,15 +56,15 @@ Im Rahmen der neuen Slack-Integration haben wir zwei Funktionen veröffentlicht:
 
 ## ABM-Erweiterungen {#abm-enhancements}
 
-** [Konten ohne Kontakte anzeigen](https://docs.marketo.com/x/fKCt)**
+**[Konten ohne Kontakte anzeigen](https://docs.marketo.com/x/fKCt)**
 
 Marketo ABM synchronisiert und zeigt CRM-Konten ohne Kontakte an. Schließen Sie neue Konten ohne vorherigen Verkauf oder Marketingverlauf ein und verfolgen Sie den Fortschritt, indem Sie nachfolgende Interessenten zu den Konten abgleichen.
 
-## Inhalt`<sup>AI </sup>`Analytics {#contentai-analytics}
+## ContentAI Analytics {#contentai-analytics}
 
-** [Neue ABM-Kontofilter-Liste](https://docs.marketo.com/x/1BPG) **
+**[Neuer ABM Account Liste Filter](https://docs.marketo.com/x/1BPG)**
 
-Ansicht und Vergleich der Content-Performance über ABM-Listen hinweg, um vorhandene Inhalte zu optimieren. Inhalt`<sup>AI</sup>` zeigt Ihnen:
+Ansicht und Vergleich der Content-Performance über ABM-Listen hinweg, um vorhandene Inhalte zu optimieren. ContentAI zeigt Ihnen:
 
 * Hauptinhalt angezeigt
 * Top-konvertierte Inhalte
@@ -72,13 +72,13 @@ Ansicht und Vergleich der Content-Performance über ABM-Listen hinweg, um vorhan
 
 ## Web-Personalisierungsverbesserungen {#web-personalization-enhancements}
 
-** [Tokens für Web-Kampagnen](https://docs.marketo.com/x/SwJI)**
+**[Tokens für Web-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Token stehen jetzt zur Verwendung in Web-Kampagnen zur Verfügung. Nutzen Sie Token, um personalisierte Nachrichten und Inhalte bereitzustellen, um die Interaktion mit Ihren Web-Kampagnen zu steigern.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [Design Studio Images in Web Kampagne Editor](https://docs.marketo.com/x/SwJI)**
+**[Design Studio-Bilder im Web Kampagne Editor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Sparen Sie Zeit, indem Sie kreative Assets und Bilder in mehreren Kanälen in Marketing erneut verwenden.
 
@@ -86,10 +86,10 @@ Sparen Sie Zeit, indem Sie kreative Assets und Bilder in mehreren Kanälen in Ma
 
 ## Integration {#integration}
 
-** [Email-Vorschau-API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[E-Mail-Vorschau-API](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Sie können E-Mails nun remote außerhalb von Marketo Vorschau haben, wodurch die lokale Anpassung von E-Mail-Inhalten vereinfacht und Fehler reduziert werden.
+Sie können E-Mails nun remote außerhalb von Marketo Vorschau werden, wodurch die lokale Anpassung von E-Mail-Inhalten vereinfacht und Fehler reduziert werden.
 
-** [Ersetzen Sie HTML-API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[HTML-API ersetzen](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Entwickler können HTML-Inhalte von E-Mail-Assets remote aktualisieren, sodass sie in einem System arbeiten können, um Assets zu verwalten.
