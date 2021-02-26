@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Versionshinweise - 19. Juni - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juni 19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Version vom 19. Juni enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
-***Quartalsversionen***
+**_Quartalsversionen_**
 
 Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 
 ## Marketing-Hauptdienste {#marketo-core-services}
 
 * **Prüfsumme** der Massenextraktionsdatei: Vergewissern Sie sich, dass eine vollständige Datei abgerufen wurde, indem Sie den Datei-Hash mit der Prüfsummenzeichenfolge der abgeschlossenen Extraktionsaufträge vergleichen.
-* **Die automatisierte Migration von Email 1.0 auf Email 2.0:** Email 2.0 ist vollständig mit E-Mail 1.0 und Vorlagen kompatibel. Profitieren Sie von neuen Funktionen wie der Möglichkeit, Inhaltselemente (Bilder, Text usw.) zu gruppieren. Variablen wie String, Color, Image usw. definieren. und nutzen Sie vollständig reaktionsfähige Startvorlagen. Enthält auch einen visuellen Auswahldialog für E-Mail-Vorlagen.
+* **Automatisierte Migration von E-Mail 1.0 auf E-Mail 2.0**: Email 2.0 ist vollständig mit E-Mail 1.0 und Vorlagen kompatibel. Profitieren Sie von neuen Funktionen wie der Möglichkeit, Inhaltselemente (Bilder, Text usw.) zu gruppieren. Variablen wie String, Color, Image usw. definieren. und nutzen Sie vollständig reaktionsfähige Startvorlagen. Enthält auch einen visuellen Auswahldialog für E-Mail-Vorlagen.
 
 >[!CAUTION]
 >
@@ -30,11 +30,11 @@ Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 
 ## Kontobasiertes Marketing {#account-based-marketing}
 
-* **LinkedIn-Kontoübereinstimmung`<sup>BETA</sup>`** : Eine neue ABM-Funktion ist jetzt in der Beta-Version verfügbar. Sie haben die Möglichkeit, Listen bekannter und Whitespace-Konten direkt von Marketo in LinkedIn zu senden. Diese Funktion ist automatisch für alle Marketo ABM-Kunden enthalten.
+* **LinkedIn-Kontoübereinstimmung (BETA)** : Eine neue ABM-Funktion ist jetzt in der Beta-Version verfügbar. Sie haben die Möglichkeit, Listen bekannter und Whitespace-Konten direkt von Marketo in LinkedIn zu senden. Diese Funktion ist automatisch für alle Marketo ABM-Kunden enthalten.
 
 <br> 
 
-***Veröffentlichung im gesamten Quartal***
+**_Veröffentlichung im gesamten Quartal_**
 
 Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und Anfang des dritten Quartals 2019 verfügbar sein.
 
@@ -47,13 +47,13 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und A
 
 * **Vollständige Navigationslinks**: Wir haben die Navigation für alle zulässigen Anwendungen aktiviert, wie z.B. für Hootsuite, Kalender und mehr.
 * **Ansichten** für E-Mail-, Landingpage-, Snippet-, Formular-, Bild- und DateiListe: Ansicht, Suche und Durchführung von Massenaktionen für beliebige Assets in Design Studio.
-* **Seite** mit Details zu Bild, Datei und Snippet: Erhalten Sie schnelle Details zu Ihren Assets mit Metadaten wie &quot;at/ *byte&quot;* und Aktionen wie &quot; ** Löschen&quot;und &quot; *Genehmigen*&quot;.
+* **Seite** mit Details zu Bild, Datei und Snippet: Erhalten Sie schnelle Details zu Ihren Assets mit Metadaten wie &quot;at/ _byte&quot;_ und Aktionen wie &quot; __ Löschen&quot;und &quot; _Genehmigen_&quot;.
 * **Community-Blog-Posts-Widget**: Zugang zu den neuesten Beiträgen aus der Community in My Marketo.
 * **Baldes Widget** ab: hinzufügen Sie das Widget &quot;Läuft bald ab&quot;in Ihrem My Marketing Dashboard, um zu sehen, welche Kampagnen und Landingpages als Nächstes ablaufen.
 * **Weitere Smart-Liste-Karten**: Segmentieren und Zielgruppe mit zusätzlichen Karten für intelligente Liste, einschließlich Flussschritt &quot;Aufgabe erstellen&quot;, CRM-Regeln für intelligente Liste und mehr.
 * **E-Mail-Champion/Challenger-Detailseite**: Siehe Daten wie Gewinner-Kriterien, erstellt am usw. von Ihren E-Mail-Meister/Herausforderer-Tests.
 
-MarketingTo Sales Connect
+## Marketing-Verkaufsstelle {#marketo-sales-connect}
 
 * **Massenaktionen in Salesforce-Anpassung**: Mit der Salesforce-Anpassung können Sie die Produktivität durch das Senden von E-Mails und das Hinzufügen von Kontakten zu Kampagnen maximieren.
 * **Auswählen, Ziehen und Ablegen**: Organisieren Sie Ihre Sales Connect-Instanz einfach mit der Möglichkeit, Vorlagen per Drag &amp; Drop in intuitive Kategorien zu ziehen.
