@@ -3,7 +3,7 @@ unique-page-id: 4719410
 description: Löschen einer Web-Kampagne - Marketing Docs - Produktdokumentation
 title: Eine Web-Kampagne löschen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -19,9 +19,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
+   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
 
-1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Löschen **auf der Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Löschen** auf der Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Eine Web-Kampagne bearbeiten](edit-an-existing-web-campaign.md)
->* [Web-Kampagnen starten/anhalten](launch-pause-a-web-campaign.md)
+>* [Eine Web-Kampagne bearbeiten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
+>* [Web-Kampagnen starten/anhalten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
 
