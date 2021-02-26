@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Neue Web-Kampagne für die Zone - Marketing Docs - Produktdokumentation erstellen
 title: Eine neue Web-Kampagne in einer Zone erstellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Neue Web-Kampagne für die Zone {#create-a-new-in-zone-web-campaign} erstellen
 
-Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, einen In-Zone-Ersatz, eine [Widget-Funktion](create-a-new-widget-web-campaign.md) oder einen E-Mail-Warnhinweis handeln. Eine In-Zone-Web-Kampagne ersetzt ein auf der Zone-ID basierendes Element Ihrer Website durch Inhalte oder grafische Banner.
+Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) auf Ihrer Website, einen In-Zone-Ersatz, eine [Widget-Funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) oder einen E-Mail-Warnhinweis handeln. Eine In-Zone-Web-Kampagne ersetzt ein auf der Zone-ID basierendes Element Ihrer Website durch Inhalte oder grafische Banner.
 
 ## Eine Web-Kampagne für die In-Zone erstellen {#create-an-in-zone-web-campaign}
 
@@ -31,14 +31,9 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
    >**Was ist eine Zone-ID?**
    >
-   >
    >Eine Zone-ID ist der Ort, an dem sich Ihre &quot;In-Zone&quot;-Kampagne auf der Site befinden soll. Um eine &quot;Zone-ID&quot; zu finden, gehen Sie einfach zu Ihrer Website wählen Sie den Bereich, den Sie durch eine Web-Kampagne ersetzen möchten und klicken Sie mit der rechten Maustaste. In Chrome ist die Option &quot;Inspect Element&quot;, in anderen Browsern kann sie variieren.
-   >
    >
    >Dann suchen Sie die mit diesem Abschnitt der Website verknüpfte ID, die hervorgehoben wird, da Sie dieses Element überprüfen. Wenn Sie z. B. nach einem Rechtsklick in Chrome den markierten Text `<div id="featured-slider">` anklicken, dann ist &quot;featured-schieber&quot;das, was Sie im Abschnitt &quot;zone id&quot;eingeben sollten. Normalerweise wird &quot;div id&quot;verwendet, es können aber auch beliebige IDs wie h1 id, p id usw. verwendet werden.
 
@@ -68,7 +63,7 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
   </tr> 
   <tr> 
    <td colspan="1"><strong> Rich-Text-Editor  </strong></td> 
-   <td colspan="1">Der Rich-Text-Editor ermöglicht die Textformatierung, Verknüpfung und Einfügen von Bildern. <a href="using-the-web-personalization-rich-text-editor.md">Mehr dazu hier</a> .</td> 
+   <td colspan="1">Der Rich-Text-Editor ermöglicht die Textformatierung, Verknüpfung und Einfügen von Bildern. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Mehr dazu hier</a> .</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> Vorschau vor Ort   </strong></td> 
@@ -85,11 +80,11 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung Ihrer Kampagne, indem Sie unsere [integrierten Vorlagen](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) oder [Ihre vorhandene Kampagne](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung speichern.
+>Beschleunigen und vereinfachen Sie die Erstellung Ihrer Kampagne, indem Sie unsere [integrierten Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) oder [Ihre vorhandene Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung speichern.
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können  [A/B auf optimale Ergebnisse](ab-test-your-web-campaign.md) getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können auf optimale Ergebnisse  [A/B-Tests](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
 
 ## Eine Web-Kampagne bearbeiten {#edit-a-web-campaign}
 
@@ -99,21 +94,21 @@ Klicken Sie auf der Seite **Web-Kampagnen** auf **Bearbeiten** in der Kampagne.
 
 >[!NOTE]
 >
->Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
+>Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Vorschau **auf der Web-Kampagne, die Sie Ansicht wünschen.
+1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;in der zu Ansicht Web-Kampagne auf **Vorschau**.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
 ## Klonen einer Web-Kampagne {#clone-a-web-campaign}
 
-Siehe [Eine Web-Kampagne klonen](clone-a-web-campaign.md).
+Siehe [Eine Web-Kampagne klonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Eine Web-Kampagne {#delete-a-web-campaign} löschen
 
-1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Löschen **auf der Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Löschen** auf der Kampagne, die Sie löschen möchten.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
@@ -121,6 +116,6 @@ Siehe [Eine Web-Kampagne klonen](clone-a-web-campaign.md).
 
 >[!MORELIKETHIS]
 >
->* [Neue Widget-Web-Kampagne erstellen](create-a-new-widget-web-campaign.md)
->* [Eine neue Dialogfeld-Web-Kampagne erstellen](create-a-new-dialog-web-campaign.md)
+>* [Neue Widget-Web-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Eine neue Dialogfeld-Web-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
