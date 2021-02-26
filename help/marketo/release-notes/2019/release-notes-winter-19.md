@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: Versionshinweise - Winter 19 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Bitte klicken Sie auf die Titellink-Links, um detaillierte Ansichten zu den einz
 
 >[!NOTE]
 >
->Microsoft drängt alle Online-Kunden, auf die neueste Version von Microsoft Dynamics zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit Dynamics Online integrieren, müssen Sie vor dem 31. Januar 2019 **auf die neueste Version der Marketing-Lösung ](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) aktualisieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert.[**
+>Microsoft drängt alle Online-Kunden, auf die neueste Version von Microsoft Dynamics zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit Dynamics Online integrieren, müssen Sie vor dem 31. Januar 2019 **auf die neueste Version der Marketing-Lösung ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) aktualisieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert.[**
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Bitte klicken Sie auf die Titellink-Links, um detaillierte Ansichten zu den einz
 
 ## Verbesserungen der Kernplattform {#core-platform-enhancements}
 
-** [E-Mail-Adresse CC für Marketing-E-Mails](../../product-docs/email-marketing/general/email-cc.md)**
+**[Email CC für Marketing-E-Mails](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Marketing gesendet werden.
 
@@ -40,7 +40,7 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 * **Unterstützung für mehrere Branding-Domänen für die Asset-API:** Das Genehmigen und Klonen von Assets führt innerhalb der API und Benutzeroberfläche zu denselben Ergebnissen.
 * **E-Mail-CC-Unterstützung für Asset-API**: Benutzer, die E-Mails über die API klonen, genehmigen und verarbeiten, bleiben mit den Benutzeroberflächeneinstellungen identisch.
 
-** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Nur-API-Modus**: Benutzer können nun festlegen, wann und wie Mitglieder ihrer Datenbank verfolgt werden, indem sie einseitige Web-Apps explizit aufrufen können, wenn sie einen Webseitenbesuch aufzeichnen möchten, anstatt sich auf die automatische Verfolgung von Marketo zu verlassen.
 * **Abmeldeverwaltung**: Sie können die Ausschluss-Cookie-Domäne problemlos verwalten, indem Sie die Ausschluss-Cookie-Domäne mit der Munchkin-Tracking-Cookie-Domäne abgleichen.
@@ -54,8 +54,8 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 * **E-Mail-Dienst**: Profitieren Sie von einer besseren Auslieferbarkeit und verbesserten Funktionen für die Rückverfolgung von Antworten, geplante E-Mails und Massen-E-Mails, indem Sie eine Verbindung zu Microsoft Outlook herstellen (über die Registerkarte &quot;E-Mail-Verbindung&quot;über Office 365 oder On-Prem).
 * **Neue Admin-Einstellungen**: Zur Optimierung Ihrer Sales Engage-Instanz wurden zwei Admin-Seiten hinzugefügt:
 
-   * *Team* Management unterstützt einen nahtlosen Kontoeinrichtungsprozess, indem Administratoren Abonnements und Teams bearbeiten können.
-   * *Salesforce Admin* Settings Teams richten ihre SFDC-Synchronisierung schneller und einfacher ein als je zuvor.
+   * _Team_ Management unterstützt einen nahtlosen Kontoeinrichtungsprozess, indem Administratoren Abonnements und Teams bearbeiten können.
+   * _Salesforce Admin_ Settings Teams richten ihre SFDC-Synchronisierung schneller und einfacher ein als je zuvor.
 
 * **OWA-Plugin für Windows**: Mit einem einzigen Add-In werden alle Windows Office365-Clients in Sales Engage unterstützt, sodass Live Feed in Outlook verwendet werden kann. Das neue Plugin wird im Microsoft Store verfügbar sein.
 * **Aktivitäten Pusher**: Synchronisieren Sie Sales Engage mit der zentralen Marketo-Plattform, um Echtzeit-Marketing-Erkenntnisse zu nutzen.
@@ -64,7 +64,7 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 
 >[!NOTE]
 >
->Marketo Sky-Releases treten häufiger auf. Die folgenden Funktionen und Erweiterungen werden voraussichtlich Ende des 4. Quartals/Anfang des 1. Weitere Informationen und Aktualisierungen finden Sie in der [Sky-Dokumentation](https://help.marketo.com/hc/en-us/articles/360012858573).
+>Marketo Sky-Releases treten häufiger auf. Die folgenden Funktionen und Erweiterungen werden voraussichtlich Ende des 4. Quartals/Anfang des 1. Weitere Informationen und Aktualisierungen finden Sie in der [Sky-Dokumentation](https://help.marketo.com/).
 
 * **Optionales Standarderlebnis**: Marketo-Benutzer können Marketo Sky als Standarderlebnis festlegen, wenn ihnen der Zugriff durch einen Administrator gewährt wurde.
 
@@ -81,7 +81,7 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 
 ## Kontobasiertes Marketing {#account-based-marketing}
 
-** [ABM Personalisierte Segmentierung und Filterung](../../product-docs/account-based-marketing/using-personas.md)**
+**[ABM Personenbasierte Segmentierung und Filterung](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 Personalisieren Sie Ihre ABM-Kampagnen für bestimmte Personen in benannten Konten. Die ABM-Persona-Funktion erstellt einen Standardauftragstitel basierend auf der Interessentensegmentierung und ermöglicht die Konfiguration zusätzlicher Personensegmente.
 
