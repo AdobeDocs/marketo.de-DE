@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definieren einer intelligenten Liste für Web-Personalisierungs-Aktivitäten - MarketingToDocs - Produktdokumentation
 title: Definieren einer intelligenten Liste für Aktivitäten zur Web-Personalisierung
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,7 @@ Verwenden Sie einen Trigger, um eine E-Mail oder Warnung zu senden, oder ändern
 
    >[!NOTE]
    >
-   >**Tieftauchen**
-   >
-   >
-   >Intelligente Listen können erstaunliche Dinge tun. Weitere Informationen finden Sie unter [Smart Liste Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Intelligente Listen können erstaunliche Dinge tun. Weitere Informationen finden Sie unter [Smart Liste Deep Dive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Suchen Sie nach dem Trigger und ziehen Sie dann den Trigger auf die Arbeitsfläche.
 
@@ -60,16 +57,11 @@ Verwenden Sie einen Trigger, um eine E-Mail oder Warnung zu senden, oder ändern
    >
    >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn einer der Trigger aktiviert wird.
 
-   [Intelligente Liste für intelligente Kampagne definieren | Stapel](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   Um die Kampagne gleichzeitig für eine Gruppe von Personen auszuführen, lernen Sie [Intelligente Liste für intelligente Kampagne definieren. | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Intelligente Liste für intelligente Kampagne definieren | Stapel](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Definieren einer intelligenten Liste für Predictive Content-Aktivitäten](../../../product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [Intelligente Liste für intelligente Kampagne definieren | Stapel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definieren einer intelligenten Liste für Predictive Content-Aktivitäten](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 
-
-Um die Kampagne gleichzeitig auf einer Gruppe von Leuten laufen zu lassen, lernen Sie, wie man .
