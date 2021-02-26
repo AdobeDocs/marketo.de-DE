@@ -3,7 +3,7 @@ unique-page-id: 4720075
 description: Ansicht Web-Kampagnen von einer spezifischen Beschriftung - Marketing-Dokumente - Produktdokumentation
 title: Ansicht von Web-Kampagnen aus einer bestimmten Bezeichnung
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Suchen Sie nach Ansicht und filtern Sie Ihre Kampagnen nach einem bestimmten Eti
 
 ## Filtern nach vorhandenen Bezeichnungen {#filter-by-existing-labels}
 
-1. Gehen Sie zu **Web** **Kampagnen**.
+1. Gehen Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,11 +31,7 @@ Suchen Sie nach Ansicht und filtern Sie Ihre Kampagnen nach einem bestimmten Eti
 
 >[!MORELIKETHIS]
 >
->* [Ihre Web-Kampagnen beschriften](label-your-web-campaigns.md)
->* [Ansicht von Segmenten aus einer bestimmten Bezeichnung](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Segmente beschriften](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
+>* [Ihre Web-Kampagnen beschriften](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Ansicht von Segmenten aus einer bestimmten Bezeichnung](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Segmente beschriften](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
