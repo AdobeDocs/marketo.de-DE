@@ -3,7 +3,7 @@ unique-page-id: 2949154
 description: Kennzeichnen Ihrer Web-Kampagnen - Marketing-Dokumente - Produktdokumentation
 title: Ihre Web-Kampagnen beschriften
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Haben Sie so viele Kampagnen, dass der Bildlauf schwerfällig wird? Markieren Si
 
    >[!NOTE]
    >
-   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
+   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
 
 1. Wählen Sie die Kampagnen aus, die Sie mit einer Beschriftung versehen möchten.
 
@@ -31,11 +31,11 @@ Haben Sie so viele Kampagnen, dass der Bildlauf schwerfällig wird? Markieren Si
 
 1. Geben Sie den gewünschten Bezeichnungsnamen ein und klicken Sie auf Neu erstellen.
 
->[!TIP]
->
->Wenn die Beschriftung bereits vorhanden ist, wählen Sie sie aus und erstellen Sie keine neue.
+   >[!TIP]
+   >
+   >Wenn die Beschriftung bereits vorhanden ist, wählen Sie sie aus und erstellen Sie keine neue.
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 Cool! Sie können jetzt Bezeichnungen erstellen und sie Kampagnen zuweisen.
 
@@ -51,9 +51,4 @@ Cool! Sie können jetzt Bezeichnungen erstellen und sie Kampagnen zuweisen.
 
 >[!MORELIKETHIS]
 >
->* [Segment ](create-a-new-in-zone-web-campaign.md) [beschriften](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[Segment beschriften](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
