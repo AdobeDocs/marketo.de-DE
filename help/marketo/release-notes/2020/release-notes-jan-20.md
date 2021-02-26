@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: Versionshinweise - Januar 2020 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar 2020
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---
@@ -17,44 +17,45 @@ Die folgenden Funktionen sind in der Version Januar 20 enthalten. Überprüfen S
 
 >[!AVAILABILITY]
 >
->
 >Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
-***Vierteljährliche*** ReleasesDie folgenden Funktionen werden am 17.  **Januar 2020** veröffentlicht.
+**_Vierteljährliche_** ReleasesDie folgenden Funktionen werden am 17.  **Januar 2020** veröffentlicht.
 
 ## Core Marketo Engage Adobe Application {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Asset Selector](https://docs.marketo.com/x/_AA6Ag): Schneller Zugriff auf Assets, die mit Ihrer Marke und AEM Assets übereinstimmen, die direkt in Marketo Engage verfügbar sind. Hinweis: Diese Funktion ist sowohl in unseren Marketo Sky- als auch in unseren klassischen Erlebnissen verfügbar, aber die Verwaltungsfunktionen sind in unserer Classic-Erfahrung zu finden. Sie müssen Kunde von AEM Assets sein und über Version 6.5 oder höher verfügen.
+* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md): Schneller Zugriff auf Assets, die mit Ihrer Marke und AEM Assets übereinstimmen, die direkt in Marketo Engage verfügbar sind. Hinweis: Diese Funktion ist sowohl in unseren Marketo Sky- als auch in unseren klassischen Erlebnissen verfügbar, aber die Verwaltungsfunktionen sind in unserer Classic-Erfahrung zu finden. Sie müssen Kunde von AEM Assets sein und über Version 6.5 oder höher verfügen.
 
 >[!NOTE]
 >
->Derzeit wird AEM Asset Selector nur in Firefox vollständig unterstützt. Es wird in Safari nicht unterstützt, und es funktioniert möglicherweise nicht in der neuesten Version von Chrome (Version 80), abhängig von Ihren Einstellungen für SameSite-Cookies.
+>Derzeit wird AEM Asset Selector nur in Firefox vollständig unterstützt. Es wird in Safari nicht unterstützt, und es funktioniert möglicherweise nicht in der neuesten Version von Chrome (Version 80), abhängig von Ihren SameSite-Cookie-Einstellungen.
 
-* **Microsoft Dynamics - Synchronisieren Sie Lead zu CRM in Echtzeit:** Echtzeit-Synchronisierung von Interessenten und Kontakten zwischen Marketo Engage und Microsoft Dynamics. Erstellen Sie Kontakte oder Kontakte und sehen Sie sie sofort in Microsoft Dynamics mit der Flusshandlung &quot;Synchronisierte Person zu Microsoft&quot;.
-* **LinkedIn Lead Gen Forms Additional Field Mapping:** Erfassen Sie Interessentendaten von LinkedIn Lead Gen Forms, um relevantere Erlebnisse für Vertriebs- und Marketing-Touchpoints zu erstellen. Ziehen Sie unsichtbare Felder, Felder für die Zustimmung und das Testfeld führt in das Marketo Engage.
+* **Microsoft Dynamics - Synchronisieren Sie Lead mit CRM in Echtzeit**: Echtzeit-Synchronisierung von Interessenten und Kontakten zwischen Marketo Engage und Microsoft Dynamics. Erstellen Sie Kontakte oder Kontakte und sehen Sie sie sofort in Microsoft Dynamics mit der Flusshandlung &quot;Synchronisierte Person zu Microsoft&quot;.
+* **LinkedIn Lead Gen Forms Zusätzliche Feldzuordnung**: Erfassen Sie Interessentendaten von LinkedIn Lead Gen Forms, um relevantere Erlebnisse für Vertriebs- und Marketing-Touchpoints zu erstellen. Ziehen Sie unsichtbare Felder, Felder für die Zustimmung und das Testfeld führt in das Marketo Engage.
 * **API** zu Abhängigkeiten von E-Mail-Vorlagen: Sie erhalten eine Liste von Assets, die von einer E-Mail-Vorlage abhängen, um den Umfang potenzieller Änderungen zu verstehen und Abhängigkeiten von Vorlagen zu bearbeiten. Diese können schneller bearbeitet und gelöscht werden.
 * **Verbesserungen** der Verwaltung mehrerer Instanzen: Navigieren Sie schnell zu der gewünschten Instanz mit einem Dropdown-Menü mit Bildlauf und Alphabetisch Ihrer Abonnement.
 
-Kontobasiertes Marketing ![(star)](assets/star-yellow.svg)
+## Kontobasiertes Marketing {#account-based-marketing}
 
-* [Neue Kontoerkennung (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(Stern)](assets/star-yellow.svg) : Verwenden Sie die Kontoprofilerstellung, um auf der Grundlage Ihres AI-basierten Profil-Modells netto-neue Zielgruppen-Konten für Ihre ABM-Strategie zu ermitteln. Ansicht, Auswahl und Import von empfohlenen neuen Konten zusammen mit ihren AI-basierten Passform- und Intent-Datenindikatoren, die nicht bereits in Ihrer Marketo Engage-Interessenten- und Kontodatenbank für ABM-Targeting vorhanden sind. Sofort verfügbar für qualifizierende Kunden zur Profilerstellung.
+![(Stern)](assets/star-yellow.svg)
+
+* **[Neue Kontoerkennung (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(Stern)](assets/star-yellow.svg)**: Verwenden Sie die Kontoprofilerstellung, um auf der Grundlage Ihres AI-basierten Profil-Modells netto-neue Zielgruppen-Konten für Ihre ABM-Strategie zu ermitteln. Ansicht, Auswahl und Import von empfohlenen neuen Konten zusammen mit ihren AI-basierten Passform- und Intent-Datenindikatoren, die nicht bereits in Ihrer Marketo Engage-Interessenten- und Kontodatenbank für ABM-Targeting vorhanden sind. Sofort verfügbar für qualifizierende Kunden zur Profilerstellung.
 
 <br> 
 
-## Neuer Abschnitt
-
-***Veröffentlichung im gesamten Quartal***
+**_Veröffentlichung im gesamten Quartal_**
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden in den kommenden Monaten veröffentlicht.
 
-Bizible ![(star)](assets/star-yellow.svg)
+## Bizibel {#bizible}
+
+![(Stern)](assets/star-yellow.svg)
 
 * **Marketo Engage-Interessentenintegration**: Bringen Sie Vertrieb und Marketing mit einer einheitlichen Ansicht von Interessenten über Bizible und Marketo Engage. Mit diesem Update kann Marketo Engage jetzt als zusätzliche Interessentendatenquelle verwendet werden, sodass Sie nicht mehr warten müssen, bis Interessenten mit dem CRM synchronisiert werden, um über die Interessentenanwerbung zu berichten.
 * **Discover-Verbesserungen**: Profitieren Sie von unseren Discover-Foren in Bizible mit Verbesserungen, die durch Kundenfeedback entwickelt wurden, wie z. B. der Möglichkeit, im Drilldown-Verfahren zu Transaktionsdatensätzen aus Kacheln und Attributen aufzuschlüsseln, wesentliche Datensatzzählungen und entsprechende Kosten-pro-Metriken hinzuzufügen und Dashboard-Filter für mehrere Dashboard hinzuzufügen/zu entfernen. Bei der Anmeldung werden Sie auch direkt zum Standard-Dashboard geleitet.
 
 ## Marketo Sky {#marketo-sky}
 
-* [Bildbearbeitung](https://help.marketo.com/hc/en-us/articles/360041344614-Marketo-Image-Editor): Greifen Sie auf die Bearbeitungsfunktionen der Adobe zu, ohne das Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder ganz einfach verbessern, beschneiden und Text direkt in Design Studio hinzufügen.
+* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen der Adobe zu, ohne das Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder ganz einfach verbessern, beschneiden und Text direkt in Design Studio hinzufügen.
 
 ## Sales Insight {#sales-insight}
 
@@ -65,7 +66,7 @@ Bizible ![(star)](assets/star-yellow.svg)
 ## Sales Connect {#sales-connect}
 
 * **Rasterkomponenten**: Optimieren Sie Ihre Sales Connect-Instanz mit neuen Funktionen zur Rasteranpassung. Wählen Sie die anzuzeigenden Spalten, suchen Sie nach Spalten, wählen Sie alle Spalten aus/heben Sie deren Auswahl auf und legen Sie fest, wie viele Datenzeilen auf jeder Seite angezeigt werden sollen.
-* [Content-Lockerung](https://docs.marketo.com/x/6wA6Ag): Maximieren Sie die Markenausrichtung mit einer Einstellung für das gesamte Abonnement, mit der gesteuert wird, ob Nicht-Administratoren Vorlagen und Kampagnen erstellen und bearbeiten können.
+* **[Content-Lockerung](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)**: Maximieren Sie die Markenausrichtung mit einer Einstellung für das gesamte Abonnement, mit der gesteuert wird, ob Nicht-Administratoren Vorlagen und Kampagnen erstellen und bearbeiten können.
 
 >[!NOTE]
 >
@@ -75,4 +76,4 @@ Bizible ![(star)](assets/star-yellow.svg)
 * **ITP 2.1+ Munchkin-Update**: Aufgrund von Änderungen an der Cookie-Richtlinie für Safari wird Munchkin die Möglichkeit, Benutzer sitzungsübergreifend in derselben Domäne zu verfolgen, durch ITP auf der Grundlage der vom Besucher verwendeten Browser- und Browserversion auf 1 oder 7 Tage beschränkt. Um dies zu berücksichtigen, implementieren wir einen neuen Webdienst, mit dem Munchkin-Cookies über HTTP-Antwort mit einem Set-Cookie-Header gesetzt werden können. Weitere Informationen zur Implementierung dieses neuen Dienstes finden Sie unter [hier](https://nation.marketo.com/docs/DOC-7351).
 
 
-***Produktversion*** [WebinarNehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) am 3. März um 11:00 Uhr PT/2:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.
+**_Produktversion_** [WebinarNehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) am 3. März um 11:00 Uhr PT/2:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.
