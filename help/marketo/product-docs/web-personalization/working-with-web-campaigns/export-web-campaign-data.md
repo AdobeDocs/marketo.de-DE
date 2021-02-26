@@ -3,7 +3,7 @@ unique-page-id: 12615749
 description: Web-Kampagnen-Daten exportieren - Marketing-Dokumente - Produktdokumentation
 title: Webdaten exportieren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Führen Sie die folgenden Schritte aus, um Ihre Web-Kampagnen zu exportieren.
 1. Ansicht Ihrer Datei, um hilfreiche Statistiken anzuzeigen.
 
    ![](assets/four-1.png)
-
