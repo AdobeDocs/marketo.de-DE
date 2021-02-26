@@ -3,7 +3,7 @@ unique-page-id: 8782266
 description: Priorisierung von Web-Kampagnen - Marketing-Dokumente - Produktdokumentation
 title: Priorisierung von Web-Kampagnen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Eine In-Zone-Kampagne und eine (Widget- oder Dialog-) Kampagne können auf derse
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
+   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
 
 1. Legen Sie auf der Seite &quot;Kampagne bearbeiten&quot;die Prioritätsbewertung fest (9999 = Höchste Priorität 1 = Niedrigste Priorität).
 
