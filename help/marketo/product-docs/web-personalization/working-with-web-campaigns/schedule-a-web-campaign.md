@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: Planen einer Web-Kampagne - Marketing Docs - Produktdokumentation
 title: Planen einer Web-Kampagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Sie können die Web-Kampagne auf Grundlage der Zeit des Web-Besuchers oder einer
 
    >[!NOTE]
    >
-   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](filter-web-campaigns.md)
+   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
 
 1. Öffnen Sie das Menü &quot;Status der Kampagne&quot;und wählen Sie **Plan**.
 
@@ -59,11 +59,10 @@ Sie können die Web-Kampagne auf Grundlage der Zeit des Web-Besuchers oder einer
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. Der Status der Kampagne auf der Seite &quot;Kampagnen&quot;ändert sich in **Geplant **und das Uhren-/Kalendersymbol wird angezeigt. Klicken Sie auf dieses Symbol, um den Zeitplan für die Kampagne zu bearbeiten.
+1. Der Status der Kampagne auf der Seite &quot;Kampagnen&quot;ändert sich in **Geplant** und das Uhrensymbol/Kalendersymbol wird angezeigt. Klicken Sie auf dieses Symbol, um den Zeitplan für die Kampagne zu bearbeiten.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >Der Status &quot;Kampagne&quot;bleibt auch dann als **Geplant**, wenn die Kampagne während der ausgewählten geplanten Zeiträume ausgeführt wird. Nach Ablauf eines geplanten Enddatums ändert sich der Status der Kampagne in **Angehalten**.
-
