@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: Versionshinweise - Herbst 18 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Herbst 18
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Die Web-Personalisierung unterstützt jetzt mehrere Arbeitsbereiche.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Unterstützung** von SFDC-Blitzen: Benutzer, die zu Lightning migrieren oder zurzeit Lightning verwenden, können MSE für eine intelligentere Interaktion während der gesamten Käuferreise nutzen.
+* **Unterstützung** von SFDC-Blitzen: Benutzer, die zu Lightning migrieren oder zurzeit Lightning verwenden, können MSE für eine intelligentere Interaktion über die Journey nutzen.
 
 * **Erweiterte Unterstützung: Microsoft Office**
 
@@ -49,7 +49,7 @@ Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinwei
 
 * **Homepage** der Marketing-Aktivitäten: Schneller Zugriff auf allgemeine Funktionen direkt auf der Homepage der Marketing-Aktivitäten.
 
-   * Ergreifen Sie spezifische Aktionen (z. B. Beginn neuer Programm und intelligenter Kampagnen) und erhalten Sie wichtige Informationen zu aktuellen Programmen, wie Programmen und Kampagnen, die heute ausgeführt werden sollen, kürzlich aktualisierte Programm und Assets sowie die Gesamtzahl der aktiven Auslöser-Kampagnen.
+   * Ergreifen Sie spezifische Maßnahmen (z. B. Beginn neuer Programm und intelligenter Kampagnen) und erhalten Sie wichtige Informationen zu aktuellen Programmen, wie Programmen und Kampagnen, die heute ausgeführt werden sollen, kürzlich aktualisierte Programm und Assets sowie die Gesamtzahl der aktiven Trigger-Kampagne.
 
 * **Design Studio-Aktualisierungen**: Wir haben das Design Studio-Erlebnis neu gestaltet, um Ihnen dabei zu helfen, schneller und produktiver zu werden.
 * Design Studio-Homepage: Erstellen Sie neue Assets, ziehen Sie Bilder und Dateien per Drag &amp; Drop und verwalten Sie alle vorhandenen Assets.
@@ -74,7 +74,7 @@ Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinwei
 
    * Kunden können sich jetzt mit dem Identitätsanbieter und den Anmeldeinformationen ihrer Firma bei der Bizible-Webanwendung anmelden, die den Sicherheitsanforderungen für Unternehmen entsprechen.
 
-**[Verbesserungen bei den Marketing-Leistungsindikatoren](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Verbesserungen bei den Marketing-Leistungsindikatoren](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Verbesserungen der Benutzerfreundlichkeit**
 
@@ -84,11 +84,11 @@ Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinwei
    * Warnsymbol: Das Symbol für neue Warnungen zeigt alle aktiven Warnungen zu Datenqualitätsproblemen und Setup-Benachrichtigungen an.
 
 * **Interaktion nach Aktivität**: Die Benutzer können die Ansicht der Interaktionsmetriken nach Aktivitäten- oder Kostenzeitraum auswählen.
-* **FILTER** mit ABM-Namen: Filtern Sie die Dashboard Pipeline und Umsatz nach bestimmten benannten Konten.
+* **Filter** mit ABM-Namen: Filtern Sie die Dashboard Pipeline und Umsatz nach bestimmten benannten Konten.
 
 ## Anzeigennetzwerke {#ad-networks}
 
-**[Token aktualisieren](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Token aktualisieren](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 Wir haben ein Aktualisierungstoken in unseren Retargeting- und LinkedIn-Lead-Gen-Formularlösungen implementiert, mit dem der Zugriff auf ein Jahr verlängert wird, bevor eine erneute Authentifizierung erforderlich ist.
 
