@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Versionsplan - Marketing-Dokumente - Produktdokumentation
 title: Veröffentlichungszeitplan
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -38,40 +38,24 @@ Die Releasedaten können sich ändern.
    <th width="250px">Fortschritt</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">Januar 20</a></td> 
-   <td colspan="1">17. Januar 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Januar 21</td> 
+   <td colspan="1">15. Januar 2021</td> 
+   <td colspan="1">versandt</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">Februar '20</a></td> 
-   <td colspan="1">21. Februar 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Mai 21</td> 
+   <td colspan="1">7. Mai 2021</td> 
+   <td colspan="1">Wird ausgeführt</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">Juni 20</a></td> 
-   <td colspan="1">5. Juni 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21. August</td> 
+   <td colspan="1">13. August 2021</td> 
+   <td colspan="1">Planmäßig</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">Juli '20</a></td> 
-   <td colspan="1">31. Juli 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Oktober 20</td> 
-   <td colspan="1">16. Oktober 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Oktober 21</td> 
+   <td colspan="1">15. Oktober 2021</td> 
+   <td colspan="1">Planmäßig</td> 
   </tr> 
  </tbody> 
 </table>
-
