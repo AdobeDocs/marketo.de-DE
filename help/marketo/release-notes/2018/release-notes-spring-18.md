@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Versionshinweise - Frühjahr 18 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Frühjahr 18
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Mehr Pipeline- und Umsätze durch die Ermöglichung von Verkäufen mit Intellige
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
 Wählen Sie die Marketo Sky Open Beta, um Zugriff auf mehr als 100 neue Funktionen zur Produktivitätssteigerung zu erhalten, darunter:
 
@@ -69,11 +69,11 @@ Geben Sie Ihre Quick Charts problemlos für andere Performance Insights-Benutzer
 
 Optimierte Navigation und verbesserte Workflows geben Ihnen einen Einblick in die Erfolgskriterien des Programms und Zugriff auf Details zum Programm.
 
-## Inhalt<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [Zieleinstellung](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Legen Sie das Ziel des Optimierungsalgorithmus &quot;Inhalt<sup>AI</sup>&quot;fest, um mehr Ansichten, Klicks oder Konversionen zu fördern.
+Legen Sie das Ziel des ContentAI-Optimierungsalgorithmus fest, mehr Ansichten, Klicks oder Konversionen zu fördern.
 
 ## Integration und APIs {#integration-and-apis}
 
