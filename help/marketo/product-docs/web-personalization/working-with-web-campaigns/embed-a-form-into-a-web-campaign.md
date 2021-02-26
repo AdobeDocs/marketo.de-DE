@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Einbetten eines Formulars in eine Web-Kampagne - Marketing Docs - Produktdokumentation
 title: Einbetten eines Formulars in eine Web-Kampagne
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten könne
 
 1. Klicken Sie mit der rechten Maustaste auf ein genehmigtes Formular. Wählen Sie **Einbettungscode**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Kopieren Sie den Code.
 
@@ -31,9 +29,7 @@ Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten könne
 
 1. Klicken Sie auf **Neue Kampagne erstellen**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. Klicken Sie im Rich-Text-Editor auf das HTML-Symbol.
 
@@ -44,6 +40,7 @@ Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten könne
    ![](assets/six-1.png)
 
 1. Das Formular wird nicht in der Editor-Ansicht angezeigt, Sie können es jedoch auch so Vorschauen vornehmen, dass es in einer Kampagne wiedergegeben wird.
+
 1. Klicken Sie auf **Launch**, um die Kampagne Beginn.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ Um ein Hintergrundbild zu Ihrem Formular hinzuzufügen, können Sie:
 * Ändern der Dialog- oder Widget-Farben in der Kampagne &quot;Festlegen&quot;
 * CSS-Code in das Skript Hinzufügen
 
-Informationen zum Bearbeiten der CSS eines Formularthemas finden Sie in [diesem Artikel](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Informationen zum Bearbeiten der CSS eines Formularthemas finden Sie in [diesem Artikel](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 So ändern Sie die Dialog- oder Widget-Farben in der Kampagne &quot;Festlegen&quot;:
 
@@ -86,11 +83,7 @@ So fügen Sie dem Skript CSS-Code hinzu:
 
 >[!MORELIKETHIS]
 >
->* [CSS eines Formularthemas bearbeiten](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [CSS eines Formularthemas bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Danksagungsnachricht ohne Follow-up-Landingpage anzeigen](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
