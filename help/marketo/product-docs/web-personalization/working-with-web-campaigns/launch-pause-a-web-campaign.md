@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: Web-Kampagne starten/anhalten - Marketing Docs - Produktdokumentation
 title: Web-Kampagnen starten/anhalten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Starten/Anhalten einer Web-Kampagne {#launch-pause-a-web-campaign}
 
-Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](create-a-new-dialog-web-campaign.md) auf Ihrer Website, ein [In-Zone-Ersatz](create-a-new-in-zone-web-campaign.md), eine Widget-Funktion oder eine E-Mail-Warnung handeln.
+Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) auf Ihrer Website, ein [In-Zone-Ersatz](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), eine Widget-Funktion oder eine E-Mail-Warnung handeln.
 
 Sie können eine Web-Kampagne auf zwei Arten von der Seite &quot;Web-Kampagnen&quot;oder &quot;Web-Kampagnen festlegen&quot;starten oder anhalten.
 
@@ -25,7 +25,7 @@ Sie können eine Web-Kampagne auf zwei Arten von der Seite &quot;Web-Kampagnen&q
 
    ![](assets/two-1.png)
 
-1. Wenn die Kampagne gestartet wird, klicken Sie auf **Started**, um den Status der Kampagne in **Angehalten, **Angehalten zu ändern, um die Kampagne anzuhalten.
+1. Wenn die Kampagne gestartet wird, klicken Sie auf **Started**, um den Status der Kampagne in **Paused** zu ändern, um die Kampagne anzuhalten.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
@@ -47,11 +47,7 @@ Sie können eine Web-Kampagne auf zwei Arten von der Seite &quot;Web-Kampagnen&q
 
 >[!MORELIKETHIS]
 >
->* [Eine neue Dialogfeld-Web-Kampagne erstellen](create-a-new-dialog-web-campaign.md)
->* [Eine neue Web-Kampagne in einer Zone erstellen](create-a-new-in-zone-web-campaign.md)
->* [Widget-Web-Kampagne erstellen](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [Erstellen einer Dialog-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [RTP in Zone-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTP-Widget-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
