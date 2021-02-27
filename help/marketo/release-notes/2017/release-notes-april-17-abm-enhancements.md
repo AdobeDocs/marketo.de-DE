@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: Versionshinweise - 17 ABM-Verbesserungen vom April - Marketing-Dokumente - Produktdokumentation
 title: Versionshinweise - ABM-Verbesserungen vom 17. April
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Sie können nun benutzerdefinierte Felder zu Konten hinzufügen, sie Ihrem CRM z
 Sie können Ihre benannten Konten nun ganz einfach auf der Grundlage einer Kontoversion-Liste filtern.
 
 ![](assets/named-account-filters.png)
-
