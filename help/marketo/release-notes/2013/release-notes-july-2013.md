@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: Versionshinweise - Juli 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juli 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Versionshinweise: Juli 2013 {#release-notes-july}
 
-Die folgenden Funktionen sind in der Juli-Version enthalten, die für einen Freitag, den 26. Juli, geplant ist.  Bitte überprüfen Sie Ihre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
-
-Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Hilfe-Artikel für jede Funktion zu erhalten!
+Die folgenden Funktionen sind in der Juli-Version enthalten, die für einen Freitag, den 26. Juli, geplant ist.
 
 ## Widget &quot;Abgelaufener Inhalt&quot;auf dem Dashboard {#exhausted-content-widget-on-the-dashboard}
 
@@ -44,4 +42,3 @@ Ansicht und Sortieren des Mitgliederrasters nach dem Datum, an dem der Interesse
 ## Änderungen an der Rechtschreibprüfung im WYSIWYG-Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
 Der vom WYSIWYG-Editor für die Rechtschreibprüfung verwendete Dienst wurde eingestellt. Wir haben die Schaltfläche &quot;Rechtschreibprüfung&quot;aus dem Editor entfernt, bis wir einen Ersatz gefunden haben.
-
