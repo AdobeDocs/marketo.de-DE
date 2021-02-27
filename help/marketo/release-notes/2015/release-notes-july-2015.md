@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: Versionshinweise - Juli 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juli 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Mittagessen, aber muss eine E-Mail neu planen? Mit der App &quot;Marketo-Momente
 ## Rich-Text-Editor-Update {#rich-text-editor-update}
 
 Der Texteditor wurde mit modernem Erscheinungsbild aktualisiert, einschließlich optimierter Textformatierung, Bildbearbeitung, Einfügen von Links und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Codebearbeitung ermöglicht.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird innerhalb weniger Tage nach der Juli-Version automatisch veröffentlicht. Danach können Sie zwischen der neuen und der älteren Version des Editors umschalten, indem Sie **Admin > E-Mail > Bearbeitungseinstellungen** wählen. Wenn Sie Probleme mit der neuen Version des Texteditors bemerken, möchten wir wissen! Bitte senden Sie eine kurze Beschreibung an [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird innerhalb weniger Tage nach der Juli-Version automatisch veröffentlicht. Danach können Sie zwischen der neuen und der älteren Version des Editors umschalten, indem Sie **Admin > E-Mail > Bearbeitungseinstellungen** wählen.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ Lernen Sie [mehr](https://developers.marketo.com/documentation/company-api/) in 
 
 ## Zugriff auf E-Mail-Zustellbarkeit {#access-email-deliverability}
 
-**E-Mail-Auslieferungswerkzeug aufrufen: **Diese neue Berechtigung erlaubt Administratoren, Benutzern Zugriff auf das Tool zur E-Mail-Zustellung zu gewähren.
+**E-Mail-Auslieferungswerkzeug** aufrufen: Mit dieser neuen Berechtigung können Administratoren Benutzern Zugriff auf das Tool zur E-Mail-Zustellung gewähren.
