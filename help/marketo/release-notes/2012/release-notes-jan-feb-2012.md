@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: Versionshinweise - Januar/Februar 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar/Februar 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Die folgenden Funktionen sind in der Januar/Februar-Version enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
 
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere Versionen finden Sie unter [Versionshinweise](https://docs.marketo.com/display/docs/release+notes) Deep Dive.
-
 ## Erweiterte dynamische Inhalte {#advanced-dynamic-content}
 
-*Verfügbar für Pro- und Enterprise-Versionen*
+_Verfügbar für Pro- und Enterprise-Versionen_
 
 Mit fortschrittlichen dynamischen Inhalten können Sie ansprechende E-Mail-Nachrichten und -Landingpages erstellen, die für Ihre Audience relevant sind, ohne mehrere Assets für dieselbe Nachricht erstellen zu müssen. Aktualisierte Viewer ermöglichen die Ansicht jeder einzelnen Version in einem einzigen Bildschirm.
 
@@ -31,7 +25,7 @@ Mit fortschrittlichen dynamischen Inhalten können Sie ansprechende E-Mail-Nachr
 
 ## Segmentierung {#segmentation}
 
-*Verfügbar für Pro- und Enterprise-Versionen*
+_Verfügbar für Pro- und Enterprise-Versionen_
 
 Die Segmentierung ist eine Gruppe von Segmenten, bei denen es sich um eine zielgerichtete Gruppe von Einzelpersonen handelt, für die Sie Marketing betreiben. Segmente werden durch Regeln definiert, die auf Filterkriterien basieren, ähnlich wie bei intelligenten Listen. Ihre Segmente können auf demografischen Daten, wie beispielsweise der Berufsbezeichnung oder der Branche, oder auf Verhaltensweisen wie besuchten oder angeklickten Links basieren.
 
@@ -39,7 +33,7 @@ Die Segmentierung ist eine Gruppe von Segmenten, bei denen es sich um eine zielg
 
 ## Snippets {#snippets}
 
-*Verfügbar für Pro- und Enterprise-Versionen*
+_Verfügbar für Pro- und Enterprise-Versionen_
 
 Speichern Sie Rich-Content, der immer wieder verwendet werden kann, um statische oder dynamische E-Mails und Landingpages zu erstellen.
 
@@ -47,7 +41,7 @@ Speichern Sie Rich-Content, der immer wieder verwendet werden kann, um statische
 
 ## PURLs {#purls}
 
-*Verfügbar für Pro- und Enterprise-Versionen*
+_Verfügbar für Pro- und Enterprise-Versionen_
 
 Mithilfe von personalisierten URLs (PURLs) können Marketingexperten jetzt kontaktspezifische URLs erstellen, um Personalisierung, Messbarkeit und die Steigerung der Reaktionen in Multi-Touch-Marketing-Programmen für Direktversand- und E-Mail-Kampagnen zu fördern.
 
@@ -105,4 +99,3 @@ Verstehen Sie den Marketingbeitrag zu individuellen Opportunitätseinnahmen.
 Erhalten Sie einen Einblick in die Interessentengeschwindigkeit des Programms, indem Sie verstehen, welche Programm die Antriebsschnellläufe übernommen haben.
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
