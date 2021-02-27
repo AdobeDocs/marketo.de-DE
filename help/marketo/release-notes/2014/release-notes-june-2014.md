@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: Versionshinweise - Juni 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juni 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Ein neues Erscheinungsbild, einschließlich der Navigation für das Marketing Le
 
 ## Sales Insight-Plugin für Outlook 2013 {#sales-insight-plugin-for-outlook}
 
-Dies erfordert einen Download des neuen Plug-ins. Sie können es von [hier](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) herunterladen.
+Dies erfordert einen Download des neuen Plug-ins. Sie können es von [hier](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) herunterladen.
 
 ## Token-Auflösung {#token-resolution}
 
@@ -29,17 +29,17 @@ Wenn Sie eine Test-E-Mail von Sales Insight senden, werden die Token in der E-Ma
 
 ## Anpassen der Prozentsätze für Sterne und Flammen {#customize-percentages-for-stars-and-flames}
 
-[Legen Sie den ](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) Prozentsatz der Interessenten fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
+[Legen Sie den ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) Prozentsatz der Interessenten fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## Interessentenrückleitungs-API {#lead-rest-api}
 
-Erstellen, lesen und aktualisieren Sie Interessenten programmatisch über unsere neue ReST-API. Um mit ReST beginnen zu können, müssen Sie [einen benutzerdefinierten Dienst](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo erstellen. Gehen Sie dann zur Website [Entwickler](https://developers.marketo.com/documentation/rest/), um weitere Informationen zur Verwendung dieser API zu erhalten.
+Erstellen, lesen und aktualisieren Sie Interessenten programmatisch über unsere neue ReST-API. Um mit ReST beginnen zu können, müssen Sie [einen benutzerdefinierten Dienst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo erstellen. Gehen Sie dann zur Website [Entwickler](https://developers.marketo.com/documentation/rest/), um weitere Informationen zur Verwendung dieser API zu erhalten.
 
 ## Aktualisierung der Kampagnen-Seite für die Marketo-Echtzeit-Personalisierung (RTP) {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansicht-Ansichten und Kampagne-Performance. Zusätzlich können Sie [Ihre Kampagnen](../../product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) nach Datum oder Höchstleistung sortieren.
+RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansicht-Ansichten und Kampagne-Performance. Zusätzlich können Sie [Ihre Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) nach Datum oder Höchstleistung sortieren.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansicht-Ansichten und
 
 Hängen Sie alle RTP-Daten in Ihre Webanalyseplattform an.
 
-Die Integration mit [Google Analytics](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Switch, über den Daten an benutzerdefinierte GA-Variablen und -Ereignis gesendet werden sollen.
+Die Integration mit [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Switch, über den Daten an benutzerdefinierte GA-Variablen und -Ereignis gesendet werden sollen.
 
-Die Integration wurde auch mit [Adobe SiteCatalyst](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md) abgeschlossen.
+Die Integration wurde auch mit [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md) abgeschlossen.
