@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: Versionshinweise - März 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - März 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Versionshinweise: März 2012 {#release-notes-march}
 
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere Versionen finden Sie unter [Versionshinweise](https://docs.marketo.com/display/docs/release+notes) Deep Dive.
->
->## My Tokens {#resolve-my-tokens} auflösen
+## My Tokens {#resolve-my-tokens} auflösen
 
 Meine Token (Programm-Token) werden aufgelöst, wenn eine E-Mail in der Vorschau angezeigt wird, eine Test-E-Mail gesendet wird und eine lokale E-Mail über eine Flow-Aktion gesendet wird. Sie müssen keine intelligente Kampagne mehr im Programm erstellen, um Ihre My Tokens zu testen!
 
