@@ -3,9 +3,9 @@ unique-page-id: 2951050
 description: Versionshinweise - Januar 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Die folgenden Funktionen sind in der Januar 2014-Version enthalten. Bitte überp
 
 ## Forms 2.0 {#forms}
 
-Kopf hoch: Die Dokumentation für Forms 2.0 ist demnächst verfügbar. In der Zwischenzeit erfahren Sie mehr unten und im [intro video](https://docs.marketo.com/display/docs/forms)!
+Kopf hoch: Die Dokumentation für Forms 2.0 kommt bald!
 
-Übernehmen Sie die Kontrolle über den Formularerstellungsprozess und geben Sie Ihren Webentwicklern eine Pause. [Mit Forms](https://docs.marketo.com/display/docs/forms) 2.0 können Marketingexperten visuell und funktional robuste Formulare erstellen, ohne Programmierkenntnisse zu benötigen.
+Übernehmen Sie die Kontrolle über den Formularerstellungsprozess und geben Sie Ihren Webentwicklern eine Pause. Forms 2.0 ist so konzipiert, dass Marketingexperten sowohl visuell als auch funktional robuste Formulare erstellen können, ohne Programmierkenntnisse zu benötigen.
 
 **Geben Sie Ihrem Forms die visuelle Unterstützung, die Sie verdienen:**
 
@@ -27,7 +27,8 @@ Designentwürfe, Schaltflächenanpassungen und flexible Layouts ermöglichen es 
 
 **Bedingte Sichtbarkeit und Follow-up-Seitenlogik:**
 
-![](assets/image2014-9-22-10-3a30-3a52.png)\
+![](assets/image2014-9-22-10-3a30-3a52.png)
+
 Soll &quot;Bundesland&quot;nur angezeigt werden, wenn ein Benutzer &quot;USA&quot;als &quot;Land&quot;auswählt? Wie wäre es, Kunden verschiedene Whitepapers zu präsentieren, je nachdem, wie sie auf Fragen in Ihrem Formular antworten? Erstellen Sie Bedingungslogik direkt im Editor in Ihren Formularen. Kein Javascript erforderlich!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
@@ -38,17 +39,14 @@ Die Tage, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt un
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Weitere Informationen erhalten Sie im Intro-Video [Forms 2.0](https://docs.marketo.com/display/docs/forms). (Die Dokumentation kommt bald zum Tieftauchgang [Forms](https://docs.marketo.com/display/docs/forms)!)
-
 ## Kommunikationsbeschränkungen für E-Mail-Programm {#communication-limits-for-email-program}
 
-[Legen Sie Kommunikationsbeschränkungen für ein E-Mail-](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) Programm fest, um sicherzustellen, dass Sie nicht zu viel mit Ihrer Datenbank kommunizieren. Wenn eine Person den festgelegten Grenzwert überschreitet, erhält sie die E-Mail nicht.
+[Legen Sie Kommunikationsbeschränkungen für ein E-Mail-](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) Programm fest, um sicherzustellen, dass Sie nicht zu viel mit Ihrer Datenbank kommunizieren. Wenn eine Person den festgelegten Grenzwert überschreitet, erhält sie die E-Mail nicht.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Zusätzliche Felder in der Analyse zur Programm-Mitgliedschaft {#additional-fields-in-program-membership-analysis}
 
-Jetzt können Sie Ihre [Programm Membership Analyse](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Metriken nach Interessenten- und Firmen-Attributen hinzufügen und gruppieren. Sie können beispielsweise das Feld &quot;Branche&quot;hinzufügen, um die Aufteilung Ihrer Programm-Mitglieder und -Erfolge anzuzeigen.
+Jetzt können Sie Ihre [Programm Membership Analyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Metriken nach Interessenten- und Firmen-Attributen hinzufügen und gruppieren. Sie können beispielsweise das Feld &quot;Branche&quot;hinzufügen, um die Aufteilung Ihrer Programm-Mitglieder und -Erfolge anzuzeigen.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
-
