@@ -3,9 +3,9 @@ unique-page-id: 2951101
 description: Versionshinweise - März 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - März 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Versionshinweise: März 2013 {#release-notes-march}
 
-Die folgenden Funktionen sind in der März-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php), um die Funktionsverfügbarkeit zu ermitteln.
-
-Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Knowledge Base-Artikel für jede Funktion zu erhalten!
+Die folgenden Funktionen sind in der März-Version enthalten.
 
 ## Marketo-Kalenderdateien {#marketo-calendar-files}
 
-Erstellen Sie eine Kalenderdatei als **My Token**, um sie in Ihren Ereignis-Bestätigungs- und Erinnerungsemail zu verwenden. Diese integrierte Kalenderdatei (z. .ics-Datei) werden alle Token gerendert, einschließlich My Tokens und des `{{member.webinar URL}}`-Tokens.
+Erstellen Sie eine Kalenderdatei als **My Token**, um sie in Ihren Ereignis-Bestätigungs- und Erinnerungsemail zu verwenden. Diese integrierte Kalenderdatei (z. B. .ics-Datei) rendert alle Token, einschließlich My Tokens und des `{{member.webinar URL}}`-Tokens.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
