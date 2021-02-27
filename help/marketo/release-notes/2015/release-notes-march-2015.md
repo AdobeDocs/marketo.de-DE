@@ -3,9 +3,9 @@ unique-page-id: 6095037
 description: Versionshinweise - März 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - März 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom März 2015 enthalten. Überprü
 
 ## Kalender HD {#calendar-hd}
 
-[Zeigen Sie die Marketing-](https://docs.marketo.com/display/docs/calendar+hd) Aktivitäten Ihres Teams mit dem neuen Präsentationsmodus des Kalenders an. Diese sind ideal für Fernseher oder Riesenmonitore im Büro! Ziele basierend auf einer intelligenten Liste oder benutzerspezifischen Metriken festlegen und anzeigen.
+Zeigen Sie die Marketingaktionen Ihres Teams mit dem neuen Präsentationsmodus des Kalenders an. Diese sind ideal für Fernseher oder Riesenmonitore im Büro! Ziele basierend auf einer intelligenten Liste oder benutzerspezifischen Metriken festlegen und anzeigen.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Die folgenden Funktionen sind in der Version vom März 2015 enthalten. Überprü
 
 ## Google Adwords Integration {#google-adwords-integration}
 
-Verknüpfen Sie Ihr [Google AdWords-Konto mit Marketo](../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md), um automatisch Offline-Konversionsdaten von Marketing zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden führten (oder welche Umsatzstufen Sie verfolgen möchten).
+Verknüpfen Sie Ihr [Google AdWords-Konto mit Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md), um automatisch Offline-Konversionsdaten von Marketing zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden führten (oder welche Umsatzstufen Sie verfolgen möchten).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
 ## Umsatz-Explorer-Neugestaltung {#revenue-explorer-redesign}
 
-[Revenue ](https://docs.marketo.com/display/docs/revenue+explorer) Explorer hat ein brandneues Aussehen und Gefühl sowie den neuen Sunburst Diagrammtyp! Wir werden das in den ersten zwei Wochen im April herausbringen.
+Der Umsatz-Explorer hat ein ganz neues Aussehen und das neue Sunburst-Diagrammtyp! Wir werden das in den ersten zwei Wochen im April herausbringen.
 
 ## Neue Asset-REST-APIs {#new-asset-rest-apis}
 
@@ -43,18 +43,14 @@ Wir unterstützen jetzt das Erstellen und Bearbeiten von E-Mails, Vorlagen, mein
 
 ## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
-Unterstützt mit dem neuesten Installationsprogramm jetzt [Zugriff über die App](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+Unterstützt mit dem neuesten Installationsprogramm jetzt [Zugriff über die App](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - Personalisierte Web-Interaktion mit Interessentendaten {#rtp-personalized-web-engagement-with-lead-data}
 
-Nutzen Sie die Felder [Interessentendaten](../../product-docs/web-personalization/using-web-segments/manage-person-data.md)Sie haben in Ihrer Marketing-Datenbank, um eine Echtzeit-Segmentierung und personalisierte Content-Kampagnen zu erstellen. Verwalten Sie Ihre Interessentendatenfelder in RTP und fügen Sie relevante Interessentenfelder hinzu/löschen Sie sie.
-
-![](https://lh5.googleusercontent.com/OnjwgUtNi6UxjovgMofQW2DcxCDRSsmyn_cupaw5qYROsDx0FqOc8Y-Un3w-TJG7OEckeDsk9qjQwnqhLJFaiuJFyuatMrXGUdMe9GtRgGojcuet4GUXpuCzbhEu_buqoidW7R4)
+Nutzen Sie die Felder [Interessentendaten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md), die Sie in Ihrer Marketing-Datenbank haben, um eine Echtzeitsegmentierung und personalisierte Content-Kampagnen zu erstellen. Verwalten Sie Ihre Interessentendatenfelder in RTP und fügen Sie relevante Interessentenfelder hinzu/löschen Sie sie.
 
 ## RTP - Personalisieren von Webinhalten nach dem Namen der E-Mail-Kampagne oder des Programms {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Fahren Sie mit Ihrem Interessenten über Kanal von E-Mail bis Internet fort. [Personalisieren Sie eingehende Inhalte basierend auf der E-Mail-Kampagne oder dem ](../../product-docs/web-personalization/using-web-segments/web-segments.md) Programmnamen, die in den Marketing-Aktivitäten von Marketing verwendet werden.
-
-![](https://lh6.googleusercontent.com/CyX7Kh2dvBmxVtbc44DSfhqepujOsjZxoQ44StHQjgkHbrWoNUO9Bv8g8ZUH_oU-1QRTTltIb9WutoYMO5vnjjDDUmxWKS7Hyi0OSUv6nfe7JXfC-CVhFFUYA6q5kg21D556UEQ)
+Fahren Sie mit Ihrem Interessenten über Kanal von E-Mail bis Internet fort. [Personalisieren Sie eingehende Inhalte basierend auf der E-Mail-Kampagne oder dem ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Programmnamen, die in den Marketing-Aktivitäten von Marketing verwendet werden.
