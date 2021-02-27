@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: Versionshinweise - April 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - April 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Versionshinweise: April 2012 {#release-notes-april}
 
 ## Segmentierung - Filter und Trigger {#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere Versionen finden Sie unter [Versionshinweise](https://docs.marketo.com/display/docs/release+notes) Deep Dive.
 
 Zielgruppe Sie dieselbe Interessengruppe konsistent? Wenn ja, verwenden Sie die Segmentierung in Ihren intelligenten Listen zum Targeting von Interessenten. Mit der Segmentierung wird Ihre gesamte Interessentendatenbank immer segmentiert und kann zur Konsistenz in allen Programmen wiederverwendet werden. Segmentierungsergebnisse werden schnell abgerufen, da die intelligente Liste zum Zeitpunkt der Anforderung nicht ausgeführt werden muss.
 
@@ -63,4 +57,3 @@ Wenn Sie Ihr Abonnement nicht mit Salesforce synchronisieren, werden Sie bemerke
 Ermöglicht Benutzern das Definieren einer Reihenfolge für ihre Transition.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
