@@ -3,7 +3,7 @@ unique-page-id: 2951107
 description: Versionshinweise - Dezember 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Dezember 2012
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Die Dezember-Version enthält die viel erwartete Funktion **An Freunde weiterlei
 
 ## An Freunde weiterleiten {#forward-to-friend}
 
-Aktivieren Sie die Freigabe von Inhalten für andere, indem Sie in Ihre E-Mails einen Link **An Freunde weiterleiten** einfügen. Die Hinzufügung neuer Filter und Auslöser hilft Ihnen, Ihre Einflussnehmer zu identifizieren, indem Sie die Benutzer identifizieren, die eine E-Mail weitergeleitet haben, sowie diejenigen, die die weitergeleiteten E-Mails erhalten haben.
+Aktivieren Sie die Freigabe von Inhalten für andere, indem Sie in Ihre E-Mails einen Link **An Freunde weiterleiten** einfügen. Die Hinzufügung neuer Filter und Trigger hilft Ihnen, Ihre Einflussnehmer zu identifizieren, indem Sie die Benutzer identifizieren, die eine E-Mail weitergeleitet haben, sowie diejenigen, die die weitergeleiteten E-Mails erhalten haben.
 
 Um eine Einladung **An Freunde weiterleiten** in Ihre E-Mail einzuschließen, öffnen Sie sie im Editor und fügen Sie das Token `{{system.forwardToFriendLink}}` ein.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Verwenden Sie die entsprechenden Auslöser und Filter, um Benutzer zu identifizieren, die den Link **An Freunde weiterleiten** und diejenigen, die die E-Mail erhalten haben.
+Verwenden Sie die entsprechenden Trigger und Filter, um Benutzer zu identifizieren, die den Link **An Freunde weiterleiten** und diejenigen, die die E-Mail erhalten haben.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -70,7 +70,6 @@ hinzufügen benutzerspezifischen Opportunity-Felder, um Ihre Programm Opportunit
 
 Haben Sie sich schon einmal gefragt, welche Kampagnen eine bestimmte Flussaktion verwenden, z. B. &quot;Punktzahl ändern&quot;oder &quot;Kampagne anfordern&quot;? Oder wo wird ein bestimmter Filter verwendet? Mit dem neuen Kampagne Inspector (verfügbar über die Schatztruhe) können Sie diese Kampagnen sowie aktive Kampagnen und Kampagnen mit Fehlern identifizieren.
 
-Gehen Sie zu **Admin** > **Schatztruhe**, um den** Kampagnen-Inspektor** zu aktivieren.
+Gehen Sie zu **Admin** > **Schatztruhe**, um den **Kampagnen-Inspektor** zu aktivieren.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
