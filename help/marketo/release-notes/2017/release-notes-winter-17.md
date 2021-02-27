@@ -3,9 +3,9 @@ unique-page-id: 12255606
 description: Versionshinweise - Winter 17 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Exportieren Sie alle Details und Analysen Ihrer Web-Kampagne in ein CSV-Format. 
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [lokale Anpassung](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## lokale Anpassung {#localization}
 
 Die Apps &quot;Web-Personalisierung&quot;, &quot;Predictive Content&quot;und &quot;E-Mail Insights&quot;stehen jetzt in japanischer, deutscher und spanischer Sprache zur Verfügung. Wählen Sie [Sprache und Gebietsschema](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aus, um Ihre Inhalte in diesen Sprachen Ansicht.
 
@@ -71,7 +71,7 @@ Predictive Content Analytics nach bestimmten Quellen filtern — E-Mail, Rich Me
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Predictive Content Editor](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**Predictive Content Editor**
 
 Es gibt eine verbesserte Bearbeitungserfahrung und ein verbessertes Layout, das die Inhaltsvorbereitung nach Quelle aufteilt — — E-Mail, Rich Media oder Recommendations-Leiste.
 
