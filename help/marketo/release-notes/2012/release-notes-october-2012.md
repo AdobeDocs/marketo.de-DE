@@ -3,7 +3,7 @@ unique-page-id: 2951109
 description: Versionshinweise - Oktober 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Oktober 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Erstellen Sie Report Abonnement und senden Sie Ihre Revenue Explorer-Berichte re
 >[!NOTE]
 >
 >Nur für Benutzer verfügbar, die über Umsatz-Explorer verfügen, indem sie mit der Enterprise Edition oder Select Edition Umsätze in Cycle Analytics erwerben.
-
