@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: Versionshinweise - Januar 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Feldanzeigenamen können Text in verschiedenen Sprachen anzeigen (z. B. werden M
 Mit dem Schritt zum Ändern der Programm-Daten können Sie den Erfolgsstatus und das Erfolgsdatum eines Programm-Mitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu beheben oder ein Mitglied, das möglicherweise nicht wie gewünscht am Programm teilgenommen hat, manuell zu ändern.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
