@@ -3,9 +3,9 @@ unique-page-id: 2951044
 description: Versionshinweise - Mai 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Mai 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Die folgenden Funktionen sind in der Version vom Mai 2014 enthalten. Überprüfe
 
 ## Arbeitsbereich {#delete-workspace} löschen
 
-Jetzt können Sie [einen nicht verwendeten Arbeitsbereich](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) löschen. Stellen Sie sicher, dass alle Assets in einen anderen Arbeitsbereich verschoben werden, bevor Sie versuchen, den Arbeitsbereich zu löschen.
+Jetzt können Sie [einen nicht verwendeten Arbeitsbereich](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) löschen. Stellen Sie sicher, dass alle Assets in einen anderen Arbeitsbereich verschoben werden, bevor Sie versuchen, den Arbeitsbereich zu löschen.
 
 ## Erste Stufe planen {#schedule-first-cast}
 
-In Interaktions-Programmen können Sie das Datum für die Ausführung des [ersten gezählten Bildes](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) planen. Geben Sie z. B. den Cadence-Wert alle 2 Wochen an und wählen Sie das Datum des ersten Bestichs aus.
+In Interaktions-Programmen können Sie das Datum für die Ausführung des [ersten gezählten Bildes](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) planen. Geben Sie z. B. den Cadence-Wert alle 2 Wochen an und wählen Sie das Datum des ersten Bestichs aus.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,13 +33,13 @@ Jeder bekommt jetzt mehrere Programm, Streams und Kommunikationsbeschränkungen.
 
 ## Linktracking in Text-E-Mails {#link-tracking-in-text-emails}
 
-[hinzufügen Dublette mit quadratischen ](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) Klammern um URLs in der Textversion Ihrer E-Mails, um anzugeben, wann Links in umgeleitete Marketing-zu-Tracking-Links konvertiert werden sollten
+[hinzufügen Dublette mit quadratischen ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) Klammern um URLs in der Textversion Ihrer E-Mails, um anzugeben, wann Links in umgeleitete Marketing-zu-Tracking-Links konvertiert werden sollten
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->[[[https://www.marketo.com](https://www.marketo.com)]]
+>`[[https://www.marketo.com]]`
 
 Standardmäßig werden in der Textversion von E-Mails keine Links verfolgt. hinzufügen diese neue Syntax, um anzugeben, wann ein Link in einen Verfolgungslink konvertiert werden soll. Das Verhalten von HTML-Links bleibt unverändert.  So fügen Sie verfolgte Links zu Ihren E-Mails hinzu:
 
@@ -59,7 +59,7 @@ Erkennen Sie, wie sich Ihre Links in E-Mails im Vorfeld verhalten werden. Beispi
 
 ## Kampagne abbrechen {#abort-campaign}
 
-Keine Panik! Wenn Sie einen Fehler finden, verwenden Sie die neue Schaltfläche [abort Kampagne](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md), um Kampagnen in ihren Tracks sofort zu stoppen. Sie erhalten eine Benachrichtigung, in der angegeben wird, wie viele Interessenten in jedem Flussschritt beim Beenden der Kampagne noch ausstehen.
+Keine Panik! Wenn Sie einen Fehler finden, verwenden Sie die neue Schaltfläche [abort Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md), um Kampagnen in ihren Tracks sofort zu stoppen. Sie erhalten eine Benachrichtigung, in der angegeben wird, wie viele Interessenten in jedem Flussschritt beim Beenden der Kampagne noch ausstehen.
 
 ## Sales Insight auf Japanisch, Portugiesisch und Spanisch {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Laden Sie die neueste Version von Sales Insight von AppExchange herunter, damit 
 
 ## Programm-Status und Erfolgszeitrahmen in der Programm-Mitgliedschaft-Analyse {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Ansicht, wie viele [Mitglieder sich in jedem Programm Status](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) befinden und wann sie zu jedem Status gewechselt haben, einschließlich des Datums, an dem sie Programm-Erfolg erzielt haben.
+Ansicht, wie viele [Mitglieder sich in jedem Programm Status](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) befinden und wann sie zu jedem Status gewechselt haben, einschließlich des Datums, an dem sie Programm-Erfolg erzielt haben.
 
 ## A/B-Test-E-Mails in der E-Mail-Analyse {#a-b-test-emails-in-email-analysis}
 
-Berichte zu den einzelnen E-Mail-Varianten [A/B-Test](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in der E-Mail-Analyse.
+Berichte zu den einzelnen E-Mail-Varianten [A/B-Test](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in der E-Mail-Analyse.
 
 ## Änderungen am Analytics-Paket {#analytics-packaging-changes}
 
@@ -81,9 +81,4 @@ Der Umsatz-Cycle-Modellierer und der Erfolgspfad-Analyzer sind jetzt in der MA S
 
 ## Mobile Platform Info {#mobile-platform-info}
 
-[Segment und ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) Auslösung von Interessenten, die E-Mails von ihren Mobilgeräten aus öffnen und anklicken.
-
->[!NOTE]
->
->Frühere [Marketing-Versionshinweise](https://docs.marketo.com/display/docs/release+notes)
-
+[Segment und ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) Auslösung von Interessenten, die E-Mails von ihren Mobilgeräten aus öffnen und anklicken.
