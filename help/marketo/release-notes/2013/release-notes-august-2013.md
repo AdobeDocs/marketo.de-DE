@@ -3,9 +3,9 @@ unique-page-id: 2951058
 description: Versionshinweise - August 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - August 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Versionshinweise: August 2013 {#release-notes-august}
 
-Die folgenden Funktionen sind in der Version vom August 2013 enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php), um die Funktionsverfügbarkeit zu ermitteln.
+Die folgenden Funktionen sind in der Version vom August 2013 enthalten.
 
-Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Artikel der Wissensdatenbank für jede neue Funktion zu erhalten!
+**Nur Text-E-Mails**
 
-Nur Text-E-Mails
-
-Jetzt können Sie [nur noch die Textversion](../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) einer E-Mail senden. Beachten Sie, dass Links bei Verwendung dieser Option nicht dekoriert werden.
+Jetzt können Sie [nur noch die Textversion](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) einer E-Mail senden. Beachten Sie, dass Links bei Verwendung dieser Option nicht dekoriert werden.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -27,13 +25,13 @@ Jetzt können Sie [nur noch die Textversion](../../product-docs/email-marketing/
 
 ### Ausgestoßene Inhalte ignorieren {#ignore-exhausted-content}
 
-Konfigurieren Sie das Programm &quot;Einsatz&quot;auf [Erschöpfung ignorieren](../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), einschließlich der Unterdrückung von Benachrichtigungen.
+Konfigurieren Sie das Programm &quot;Einsatz&quot;auf [Erschöpfung ignorieren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), einschließlich der Unterdrückung von Benachrichtigungen.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Interaktions-Stream-Tests {#engagement-stream-testing}
 
-Verwenden Sie die [neue Testfunktion](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md), um eine Besetzung zu simulieren und neu hinzugefügte Inhalte in einem Live-Stream zu testen.
+Verwenden Sie die [neue Testfunktion](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md), um eine Besetzung zu simulieren und neu hinzugefügte Inhalte in einem Live-Stream zu testen.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -45,13 +43,13 @@ Wenn Sie einen E-Mail-Test senden, können Sie den Namen eines Interessenten aus
 
 ## &quot;Ansicht Email as Web Page&quot; und &quot;Unsubscribe&quot;-SystemTokens {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Verwenden Sie diese [neuen Token](../../product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md), um ihre Platzierung in E-Mails besser zu kontrollieren.
+Verwenden Sie diese [neuen Token](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md), um ihre Platzierung in E-Mails besser zu kontrollieren.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## Automatische Trigger-Kampagne-Bereinigung {#automatic-trigger-campaign-cleanup}
 
-Marketo benachrichtigt Sie nun regelmäßig und deaktiviert automatisch die Kampagnen des Triggers](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md), die in den letzten sechs Monaten noch nicht ausgeführt wurden.[
+Marketo benachrichtigt Sie nun regelmäßig und deaktiviert automatisch die Kampagnen des Triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md), die in den letzten sechs Monaten noch nicht ausgeführt wurden.[
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
