@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: Versionshinweise - Februar 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Februar 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Facebook-Tabs, die von Marketo veröffentlicht werden, erkennen Mobilgeräte und
 
 ## Bald verfügbar: Unterstützung für mehrere Modelle {#coming-soon-support-for-multiple-models}
 
-Wir legen die Grundlagen für die Unterstützung mehrerer Modelle für den Umsatzzyklus, die in der Gemeinschaft zur ersten Idee für RCA gewählt wurden, in einer zukünftigen Version. In dieser Version werden Sie einige Änderungen bemerken, darunter [Filter für intelligente Liste und Hinzufügen unter &quot;Fließschritte](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)&quot;, um die Auswahl eines Modells und einer Phase zu unterstützen. Außerdem verschieben wir die Felder &quot;Interessentenumsatzstufe&quot;und &quot;Interessentenumsatzmodell&quot;aus der Registerkarte &quot;Intelligente Liste - Interessentenraster&quot;.
+Wir legen die Grundlagen für die Unterstützung mehrerer Modelle für den Umsatzzyklus, die in der Gemeinschaft zur ersten Idee für RCA gewählt wurden, in einer zukünftigen Version. In dieser Version werden Sie einige Änderungen bemerken, darunter [Filter für intelligente Liste und Hinzufügen unter &quot;Fließschritte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)&quot;, um die Auswahl eines Modells und einer Phase zu unterstützen. Außerdem verschieben wir die Felder &quot;Interessentenumsatzstufe&quot;und &quot;Interessentenumsatzmodell&quot;aus der Registerkarte &quot;Intelligente Liste - Interessentenraster&quot;.
