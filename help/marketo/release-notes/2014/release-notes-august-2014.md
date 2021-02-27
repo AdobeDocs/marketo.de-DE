@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: Versionshinweise - August 2014 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - August 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom August 2014 enthalten. Überpr�
 
 ## Marketingkalender Lizenzen {#marketing-calendar-licenses}
 
-Nach dem 5. September 2014 können nur noch 5 Benutzer kostenlos auf den Marketingkalender zugreifen. Stellen Sie sicher, dass Sie den Benutzern Ihrer Wahl vor diesem Zeitpunkt [Lizenz für den Marketingkalender ](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) widerrufen/widerrufen, damit sie ununterbrochen darauf zugreifen können.
+Nach dem 5. September 2014 können nur noch 5 Benutzer kostenlos auf den Marketingkalender zugreifen. Stellen Sie sicher, dass Sie den Benutzern Ihrer Wahl vor diesem Zeitpunkt [Lizenz für den Marketingkalender ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) widerrufen/widerrufen, damit sie ununterbrochen darauf zugreifen können.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -30,12 +30,12 @@ Die folgenden neuen Benutzerberechtigungen wurden hinzugefügt:
 | Zugriff auf Umsatz-Explorer | Wenn Sie RCA gekauft haben, haben Sie jetzt die Kontrolle darüber, wer darauf zugreifen kann. |
 | Liste importieren | Sperren Sie Benutzer vom Importieren von Listen in die Interessentendatenbank. |
 | Liste importieren | Schränken Sie Benutzern das Importieren von Listen über ein Programm unter &quot;Marketing-Aktivitäten&quot;ein. |
-| Trigger-Kampagne aktivieren | Steuerung, wer Auslöser-Kampagnen aktivieren kann und nicht. |
+| Trigger-Kampagne aktivieren | Kontrollieren Sie, wer Trigger-Kampagnen aktivieren kann und nicht. |
 | Batch-Kampagne planen | Kontrollieren Sie, wer die Ausführung der Batch-Kampagne planen kann und nicht. |
 
 ## Benutzer und Rollen aus Admin {#export-users-and-roles-from-admin} exportieren
 
-Sie können jetzt [eine Liste von &quot;Users and Roles](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)&quot;aus Marketo exportieren. Sie können auch einen Zeitstempel &quot;Letzte Anmeldung&quot;einfügen, der in den Export aufgenommen werden soll.
+Sie können jetzt [eine Liste von &quot;Users and Roles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)&quot;aus Marketo exportieren. Sie können auch einen Zeitstempel &quot;Letzte Anmeldung&quot;einfügen, der in den Export aufgenommen werden soll.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ Admin-Benutzer können jetzt Benutzer aufgrund mehrerer fehlgeschlagener Anmelde
 Sie können jetzt bestimmte IPs von allen Verfolgungs- und Berichten in der Echtzeit-Personalisierung ausschließen.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
