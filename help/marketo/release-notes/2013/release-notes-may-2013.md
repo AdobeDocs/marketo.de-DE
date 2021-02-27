@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: Versionshinweise - Mai 2013 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Mai 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Versionshinweise: Mai 2013 {#release-notes-may}
 
-Die folgenden Funktionen sind in der Mai-Version enthalten. Bitte überprüfen Sie Ihre [Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php), um eine Funktionsverfügbarkeit zu erhalten.
-
-Nach der Veröffentlichung sollten Sie sich die Registerkarte [Neue Version](release-notes-december-2013.md) in der Community ansehen, um detaillierte Knowledge Base-Artikel für jede Funktion zu erhalten!
+Die folgenden Funktionen sind in der Mai-Version enthalten.
 
 ## Kalenderdateien für Landingpages {#calendar-files-for-landing-pages}
 
@@ -40,4 +38,3 @@ Mit der neu organisierten Flussaktionsstruktur können Sie Flussaktionen schnell
 Statusänderung für Progression ändern heißt jetzt Programm ändern. Ändern der Programm-Daten lautet jetzt Programm-Erfolg ändern
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
