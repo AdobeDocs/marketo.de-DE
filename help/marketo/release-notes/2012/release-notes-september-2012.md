@@ -3,7 +3,7 @@ unique-page-id: 2951111
 description: Versionshinweise - September 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - September 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Wir unterstützen Microsoft Dynamics 2011 jetzt vor Ort mit einer Internet-Facin
 
 ## Webhooks (Schatztruhe) {#webhooks-treasure-chest}
 
-Ein Webgehaken ist ein benutzerdefinierter HTTP-Rückruf. Es ist eine großartige Möglichkeit, Daten von Marketo an einen anderen Dienst zu übertragen. Diese Funktion ist derzeit in der Schatztruhe verfügbar und wird derzeit nur in Auslöseeinstellungen unterstützt.
+Ein Webgehaken ist ein benutzerdefinierter HTTP-Rückruf. Es ist eine großartige Möglichkeit, Daten von Marketo an einen anderen Dienst zu übertragen. Diese Funktion ist derzeit in der Schatztruhe verfügbar und wird derzeit nur in Trigger-Kampagnen unterstützt.
 
 Beispiele für die Verwendung von Webhooks: Veröffentlichen von Benutzernamen- und Kennwortinformationen in einem anderen System, um ein Testkonto zu erstellen; Senden einer SMS-Textnachricht, wenn Sie einen neuen Interessenten erhalten.
 
@@ -60,4 +60,3 @@ Dem API-Aufruf getMultipleLeads wurden neue Filterkriterien hinzugefügt. Zusät
 * Datumsbereiche
 * Namen der statischen Liste
 * Arrays von Lead Keys
-
