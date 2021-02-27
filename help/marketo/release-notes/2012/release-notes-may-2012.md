@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: Versionshinweise - Mai 2012 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Mai 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # Versionshinweise: Mai 2012 {#release-notes-may}
-
->[!NOTE]
->
->**Tieftauchen**
->
->Weitere Versionen finden Sie unter [Versionshinweise](https://docs.marketo.com/display/docs/release+notes) Deep Dive.
 
 ## Neugestaltung des E-Mail-Leistungsberichts {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ Vereinfachen Sie Ihren Ereignis-Check-in mit unserer neuen iPad-App! Die Ereigni
 
 Erfordert iOS 5.1 oder höher; Nur iPad.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Abbildung 3. Ereignis-Check-in-Startseite
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Abbildung 3. Ereignis-Check-in-Startseite
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -59,7 +55,7 @@ Abbildung 5. Einchecken
 
 ## Erweiterte Webinar-Bestätigungs-URL {#enhanced-webinar-confirmation-url}
 
-Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie mit dem neuen Token `{{member.webinar URL}}` einen eindeutigen Link in die Bestätigungs-E-Mail für jeden registrierten Teilnehmer ein. Zu den Adobe Connect-Erweiterungen gehört auch die Möglichkeit, die E-Mail mit den Kontoinformationen der Adobe, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren/deaktivieren.
+Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie mit dem neuen Token `{{member.webinar URL}}` für jeden registrierten Teilnehmer einen eindeutigen Link in die Bestätigungs-E-Mail ein. Zu den Adobe Connect-Erweiterungen gehört auch die Möglichkeit, die E-Mail mit den Kontoinformationen der Adobe, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren/deaktivieren.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -142,4 +138,3 @@ Abbildung 15. Siehe Anonyme Web-Aktivität
 ## Verbessertes Lead- und Kontaktabonnement {#enhanced-lead-and-contact-subscribe}
 
 Folgen Sie einem Interessenten oder wenden Sie sich jederzeit mit der neuen Schaltfläche &quot;Abonnieren&quot;auf der Seite mit den Datensatzdetails.
-
