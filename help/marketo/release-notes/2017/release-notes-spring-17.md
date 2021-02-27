@@ -3,9 +3,9 @@ unique-page-id: 12977439
 description: Versionshinweise - Frühjahr 17 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Frühjahr 17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version Frühjahr 17 enthalten. Überprüfe
 
 Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen. **Hinweis**: Wenn ein Thema mehrere Unterüberschriften enthält, werden die Links dort platziert.
 
-## [LinkedIn Lead Gen Forms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [LinkedIn-Lead-Gen-](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Formulare sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf LinkedIn durchzuführen. Personen können Formulare ausfüllen, um Interesse an einem Produkt oder einer Dienstleistung zu bekunden, sodass das Unternehmen die Daten der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Aktivitäten von Interessentenanwerbung stattfinden können.
 
@@ -25,7 +25,7 @@ Die Integration von Marketing mit LinkedIn Lead Gen Forms erfasst automatisch di
 
 ![](assets/release-notes-image.png)
 
-## [MSI-Vorlage ablaufen](https://docs.marketo.com/x/VgIt) {#expire-msi-template}
+## [MSI-Vorlage ablaufen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
 Die Tage der Bereinigung veralteter Vorlagen in Sales Insight sind vorbei. Legen Sie ein Ablaufdatum fest, wenn Sie Ihre E-Mail veröffentlichen, und wir werden dafür sorgen, dass die Veröffentlichung für Sie rückgängig gemacht wird, sobald das Ablaufdatum umlaufbar ist.
 
@@ -41,15 +41,15 @@ Die Tage der Bereinigung veralteter Vorlagen in Sales Insight sind vorbei. Legen
 
 ## ABM-Erweiterungen {#abm-enhancements}
 
-** [Benutzerdefinierte Felder für von ABM benannte Konten](https://docs.marketo.com/x/1wnG)**
+**[Benutzerdefinierte Felder für von ABM benannte Konten](https://docs.marketo.com/x/1wnG)**
 
 Mit Marketo ABM können Sie jetzt bis zu 10 benutzerdefinierte Felder für Ihre benannten Konten erstellen. Sie können diese benutzerdefinierten Felder Feldern in Ihrem CRM-Kontoobjekt zuordnen, und Marketing ABM synchronisiert die Daten, sodass Sie Ihre ABM-benannten Konten erweitern und Ihr Marketing fördern können.
 
-** [Perzentile Scoring bei ABM Named Accounts](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)***
+**[Perzentile Scoring bei von ABM benannten Konten](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Benannte Kontowerte können stark variieren. Marketo ABM errechnet nun automatisch einen Perzentil für jede Ihrer Bewertungen, sodass Sie auf einen Blick sehen können, wo jedes benannte Konto zu Ihren anderen benannten Konten gehört.
 
-** [ABM-Konto-Listen-APIs](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM-Konto-Listen-APIs](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Profitieren Sie von umfassenden und robusten ABM-Partnerintegrationen mit verbesserter API-Unterstützung für Named Account-Listen.
 
@@ -57,7 +57,7 @@ Profitieren Sie von umfassenden und robusten ABM-Partnerintegrationen mit verbes
 
 ![](assets/dialogoptions.png)
 
-** [Web-Kampagne bei Bildlauf](https://docs.marketo.com/x/2grG)**
+**[Web-Kampagne bei Bildlauf](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Neue Web-Kampagne-Effekte bieten Ihren Web-Besuchern ein personalisierteres Erlebnis. Stellen Sie Ihre personalisierten Web-Kampagnen so ein, dass sie nur angezeigt werden, wenn ein Web-Besucher einen Bildlauf nach unten auf Ihrer Webseite durchführt. Sie können Ihre Web-Kampagnen für Dialogfelder so einrichten, dass sie bei einem Bildlauf angezeigt werden, basierend auf:
 
@@ -65,35 +65,35 @@ Neue Web-Kampagne-Effekte bieten Ihren Web-Besuchern ein personalisierteres Erle
 * Pixel erreicht
 * Bildlauf unter der Kante der Seite
 
-** [Web-Kampagne bei Ausstiegsbedingung](https://docs.marketo.com/x/2grG)**
+**[Web-Kampagne bei Beendigung](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Erfassen Sie die Aufmerksamkeit Ihres Besuchers, bevor er Ihre Seite schließt. Stellen Sie Ihre personalisierten Web-Kampagnen so ein, dass sie nur angezeigt werden, wenn eine Mausbewegung darauf hinweist, dass der Besucher die Seite verlässt.
 
-** [Animationseffekte für Web-Kampagnen](https://docs.marketo.com/x/JgNI)**
+**[Animationseffekte für Web-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Legen Sie die Animationseffekte für Ihre Dialog-Web-Kampagne fest, um festzulegen, wie eine Kampagne angezeigt wird, wenn Sie Ihre Webseite aufrufen oder verlassen. Sie können zwischen 6 verschiedenen Effekten wählen und die Timing- und Richtung des Dialogfelds steuern.
 
 ![](assets/animationoptins.png)
 
-** [Anpassung der Dialogfeldschaltflächen ](https://docs.marketo.com/x/JgNI)**
+**[Anpassung der Schaltfläche zum Schließen des Dialogfelds](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Passen Sie die Schaltfläche &quot;Schließen&quot;für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die in Web-Kampagnen mit transparentem Dialogfeldstil verwendet werden. Wählen Sie das Symbol, die Farbe und die Position für die Schaltfläche &quot;Schließen&quot;aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [Web-Kampagnen archivieren](https://docs.marketo.com/x/_grG)**
+**[Web-Kampagnen archivieren](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 Archiv ist ein neuer Web-Kampagne-Status, mit dem Sie Web-Kampagnen archivieren und von der standardmäßigen Web-Kampagne-Ansicht ausblenden können. Dadurch können Sie sich auf Ihre relevantesten, aktiven Kampagnen konzentrieren und ältere archivierte Kampagnen nach Bedarf abrufen.
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-** [Lokale Anpassung](https://docs.marketo.com/x/YAIk)**
+**[lokale Anpassung](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 Web-Personalisierung wird jetzt in allen von Marketo unterstützten Sprachen angeboten (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
 ## Prognostische Verbesserungen {#predictive-enhancements}
 
-** [Lokale Anpassung](https://docs.marketo.com/x/YAIk)**
+**[lokale Anpassung](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 Predictive Content wird jetzt in allen von Marketo unterstützten Sprachen (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch) angeboten.
 
