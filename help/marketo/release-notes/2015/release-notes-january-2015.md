@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: Versionshinweise - Januar 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Überpr�
 
 ## Aktualisierungen der Marketing-Automatisierung {#marketing-automation-updates}
 
-**Neue Fotos von Rick DeCosta!**
-
-Rick ist ein Marketo-Kunde von SmartBear und hat eine [unglaubliche Sammlung von Fotos](https://www.flickr.com/photos/rickdecosta). Schau sie doch mal an!
-
-## Mobil freundliche Landingpages {#mobile-friendly-landing-pages}
+**Mobil-freundliche Landingpages**
 
 Sie können jetzt [Mobilgeräte-Ansichten für Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) aus dem Landingpages-Editor erstellen. Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und erhöhen Sie die Interaktion, indem Sie Ihre Inhalte für eine einfache Nutzung unterwegs anpassen. Diese Funktion wird schrittweise in der Woche nach der Veröffentlichung eingeführt.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[- Landingpage-exemplarisch](https://youtu.be/aPQHlG2X6c0)
 
-**Neue ReST-API-Aufrufe**
+**Neue Rest-API-Aufrufe**
 
 Drei neue Aufrufe für die Lead &amp; Aktivität ReST-API:
 
@@ -57,9 +53,9 @@ Verbesserungen am Modul Benannte Konten verbessern die Übereinstimmungsraten un
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Aktualisierte RTP-Tag-Optionen
+**Aktualisierte RTP-Tag-Optionen**
 
-[Die RTP-](https://docs.marketo.com/display/docs/rtp+tag+implementation) Tagoptionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und umfassen Folgendes:
+Die RTP-Tag-Optionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und umfassen Folgendes:
 
 1. CDN und Asynchron (Recommended-Tag)
 1. CDN und synchron (hohe Geschwindigkeit)
