@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Versionshinweise - 19. Juni - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juni 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und A
 ## Marketing-Verkaufsstelle {#marketo-sales-connect}
 
 * **Massenaktionen in Salesforce-Anpassung**: Mit der Salesforce-Anpassung können Sie die Produktivität durch das Senden von E-Mails und das Hinzufügen von Kontakten zu Kampagnen maximieren.
-* **Auswählen, Ziehen und Ablegen**: Organisieren Sie Ihre Sales Connect-Instanz einfach mit der Möglichkeit, Vorlagen per Drag &amp; Drop in intuitive Kategorien zu ziehen.
 * **Einstellungen - Salesforce-Seite für Admin und Nicht-Admin**: Verwalten Sie Ihre Sales Connect-Instanz mit einer klaren Ansicht der Salesforce-Instanz, die mit Sales Connect verbunden ist, sowie mit den Aktualisierungen von &quot;Meine E-Mail an Salesforce&quot;. In den kommenden Monaten werden erweiterte Synchronisierungseinstellungen für Administratoren, Nichtadministratoren und Team-Wide-Synchronisierung veröffentlicht.
 * **Einstellungen - Integrationsseite**: Eine zentrale Anlaufstelle für all Ihre Integrationen, damit Sie unser offenes Ökosystem optimal nutzen können.
 * **Einstellungen - Profil-Seite**: Ansicht und Aktualisierung Ihrer Kontodetails, Änderung des Passworts und Überprüfung des Status der Implementierung Ihrer Instanz auf dieser neuen Profil-Seite.
