@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Versionshinweise - 19. August - Marketing Docs - Produktdokumentation
 title: Versionshinweise - August 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **Marketing Sales Connect** ![ (star)](assets/star-yellow.svg)
 
-* **Einstieg**: Eine schrittweise Anleitung erleichtert und verbessert die Einarbeitung, indem neue Benutzer durch die Instanzeinrichtung geführt werden.
 * **Verbesserung des Personenseitenlayouts:** Verwalten Sie Ihre Personen und Gruppen durch Importe von Listen und Massenaktionen im neuen Personenseitenlayout.
 
 >[!AVAILABILITY]
