@@ -3,7 +3,7 @@ unique-page-id: 6848747
 description: Beschreibungen der Rollenberechtigungen - Marketing Docs - Produktdokumentation
 title: Beschreibung der Rollenberechtigungen
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Ermöglicht Benutzern den Zugriff auf die unten aufgeführten APIs.********
 * Schreibmöglichkeiten
 * Vertriebsmitarbeiter lesen
 
-Zugriff auf Analytics
+## Zugriff auf Analytics {#access-analytics}
 
 Ermöglicht Benutzern Zugriff auf die Registerkarten &quot;Analytics&quot;, &quot;E-Mail-Einblicke&quot;, &quot;Berichte&quot;und die drei folgenden Elemente, sofern sie nicht deaktiviert sind.
 
@@ -96,7 +96,7 @@ Ermöglicht Benutzern Zugriff auf die Registerkarten &quot;Analytics&quot;, &quo
 
 ## Access Calendar Presentations {#access-calendar-presentations}
 
-Bietet die Benutzer Zugriff auf Kalenderpräsentationen ??- ermöglicht die Anzeige der Presentations-Schaltfläche unten?
+Ermöglicht Anwendern Zugriff auf Kalenderpräsentationen - ermöglicht die Anzeige der Presentations-Schaltfläche unten.
 
 * Kalender bearbeiten Presentations - Ermöglicht Benutzern das Bearbeiten von Präsentationen im Kalender
 
@@ -216,5 +216,5 @@ Zugriff auf SEO
 
 Workspace-Administration
 
-* Admin-Zugriff für eine bestimmte Arbeitsfläche (nur, wenn Sie Workspace aktiviert haben)
+* Admin-Zugriff für einen bestimmten Arbeitsbereich (nur, wenn Sie Workspace aktiviert haben)
 * Verschieben von Assets zwischen Workspaces (nur, wenn Workspace aktiviert ist)
