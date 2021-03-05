@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Verwenden der Seite "Personendetails"- "Marketing-Dokumente - Produktdokumentation"
 title: Verwenden der Seite "Personendetails"
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Es gibt viele Möglichkeiten, bestimmte Leute zu öffnen. Beispiele:
 
 * In der **Datenbank** können Sie in der Schnellsuche suchen
 * Eine Smart **Liste** oder Liste
-* **programm-** Memberstab
+* **Programm-** Memberstab
 * **Ansicht Kampagne** Mitglied einer intelligenten Kampagne
 * Einige **Berichte**
 
@@ -59,6 +59,10 @@ Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 | Microsoft-Interessentenfeld | Integrierte Microsoft-Felder. |
 | Aktivitäten-Protokoll | Alle Aktivitäten, die mit der Person zusammenhängen. |
 
+>[!NOTE]
+>
+>Außerdem können Sie Opportunity info [sehen, die über API](http://developers.marketo.com/rest-api/lead-database/opportunities/) eingefügt wird, wenn Instanzen nicht mit einem CRM synchronisiert werden.
+
 ## Bearbeiten eines Felds {#editing-a-field}
 
 Viele Felder können bearbeitet werden. Um die Informationen einer Person zu aktualisieren, geben Sie einen neuen Wert ein und klicken Sie zum Speichern auf eine Stelle außerhalb des Felds.
@@ -92,10 +96,10 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 >
 >Einige Felder sind bearbeitbar:__
 >
+>* Aktivitäten-Protokoll
 >* Informationen zur Firma
 >* Möglichkeiten für die Kontakte zum SFDC
 >* Bestimmte marketingspezifische Felder, wie &quot;Erstellungsdatum&quot;und &quot;Ursprünglicher Quelltyp&quot;.
->* Aktivitäten-Protokoll
 
 >
 >
