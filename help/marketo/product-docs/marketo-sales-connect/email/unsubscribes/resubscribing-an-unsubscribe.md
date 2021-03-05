@@ -3,9 +3,9 @@ unique-page-id: 14746177
 description: Neuabonnieren und Abmelden - Marketing Docs - Produktdokumentation
 title: Abonnement neu abonnieren
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ Manchmal wollen die Leute sich wieder für den Empfang von E-Mails entscheiden. 
 1. Wählen Sie den Grund aus, warum die Person wieder für den Empfang von E-Mails ausgewählt wurde, und klicken Sie dann auf **Abmelden entfernen**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Wenn Sie die Synchronisierung zum Abbestellen aktiviert haben, müssen Sie auch das Opt-out Feld im Datensatz in Salesforce deaktivieren, oder die nächtliche Synchronisierung wird die Person in Sales Connect erneut abmelden, da sie erkennt, dass die Person in Salesforce abgemeldet wurde. Wenn einer der Datensätze Opt-out/nicht abonniert wird, markiert die Synchronisierung den verknüpften Datensatz als solchen.
