@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Produktdokumentation zu Marketing
 translation-type: tm+mt
-source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '7833'
+source-wordcount: '7857'
 ht-degree: 0%
 
 ---
@@ -210,6 +210,7 @@ ht-degree: 0%
          + [Bearbeiten und Löschen von Markierungen in benutzerdefinierten Objektfeldern](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [Benutzerspezifische Objektdaten importieren](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [Trigger aus benutzerdefinierten Objektänderungen](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+         + [Export benutzerdefinierter Objektmetadaten](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Einstellungen {#settings}
          + [Ändern der Zuordnungseinstellungen für Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Kennzeichnungskennwort ändern](product-docs/administration/settings/change-your-marketo-password.md)
@@ -325,6 +326,7 @@ ht-degree: 0%
             + [Status des Programms ändern](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Erfolg des Programms ändern](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
          + Microsoft Dynamics Flow Actions {#microsoft-dynamics-flow-actions}
+            + [hinzufügen oder entfernen Sie Personen aus Ihrer Kampagne &quot;Dynamics&quot;](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Ändern des Inhabers in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Aufgabe in Microsoft erstellen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Person mit Microsoft synchronisieren](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
@@ -529,6 +531,8 @@ ht-degree: 0%
             + [Microsoft Dynamics Sync: Chancen-Synchronisierung](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics Sync: Benutzersynchronisierung](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Synchronisierungsstatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
+            + [Übersicht über die Synchronisierung von Kampagnen](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+            + [Kampagne synchronisieren aktivieren](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + Details zum benutzerspezifischen Dynamiksynchronisierungsfilter {#custom-dynmaics-sync-filter-details}
             + [Erstellen eines benutzerspezifischen Synchronisierungsfilters](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Benutzerdefinierte Sync-Filterregeln für eine E-Mail-Adresse](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -580,6 +584,7 @@ ht-degree: 0%
          + [Picklist-Werte Hinzufügen/entfernen](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [Salesforce-Synchronisierung aktivieren/deaktivieren](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Implizierte Salesforce-Aktionen](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce-Synchronisierungsstatus](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + Nachfragegenerierung {#demand-generation}
       + Ad-Netzwerk-Integrationen {#ad-network-integrations}
          + [hinzufügen benutzerdefinierter Facebook-Audiencen als LaunchPoint-Dienst](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -782,9 +787,9 @@ ht-degree: 0%
                + [Vorlage 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Meldebogen 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Vorlage 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Meldebogen 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Vorlage 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Meldebogen 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Vorlage 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Meldebogen 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Vorlage 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Meldebogen 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Meldebogen 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1645,10 +1650,11 @@ ht-degree: 0%
 + Versionshinweise {#release-notes}
    + [Veröffentlichungszeitplan](release-notes/release-schedule.md)
    + 2020 {#2020}
-      + [Versionshinweise: Feb &#39;20](release-notes/2020/release-notes-feb-20.md)
       + [Versionshinweise: Jan &#39;20](release-notes/2020/release-notes-jan-20.md)
-      + [Versionshinweise: Juli &#39;20](release-notes/2020/release-notes-july-20.md)
+      + [Versionshinweise: Feb &#39;20](release-notes/2020/release-notes-feb-20.md)
       + [Versionshinweise: Juni 20](release-notes/2020/release-notes-june-20.md)
+      + [Versionshinweise: Juli &#39;20](release-notes/2020/release-notes-july-20.md)
+      + [Versionshinweise: Okt. 20](release-notes/2020/release-notes-oct-20.md)
    + 2019 {#2019}
       + [Versionshinweise: 19. August](release-notes/2019/release-notes-august-19.md)
       + [Versionshinweise: Juni 19](release-notes/2019/release-notes-june-19.md)
