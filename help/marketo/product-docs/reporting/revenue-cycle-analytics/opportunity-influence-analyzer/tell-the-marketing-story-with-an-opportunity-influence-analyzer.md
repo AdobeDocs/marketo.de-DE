@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: Erzählen Sie die Marketing Story mit einem Einflussanalysator - Marketing Docs - Produktdokumentation
 title: Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Verwenden Sie einen Einflussanalysator für Chancen, um die Rolle des Marketing 
 
    Der Opportunity Influence Analyzer ist eine visuelle Darstellung der Interaktionen und Programm- und Ereignis-Erfolge, die bei dieser Gelegenheit zu sehen sind. Lassen Sie uns das Diagramm untersuchen:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** dotsstellen  [interessante ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) Impulse für die Gelegenheit dar (E-Mails geöffnet, Messeauftritte, Whitepaper-Downloads usw.). Größere Punkte deuten auf mehr Interaktionen hin.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** dotsstellen interessante Momente in der Gelegenheit dar (E-Mails geöffnet, Messeauftritte, Whitepaper-Downloads usw.). Größere Punkte deuten auf mehr Interaktionen hin.
 
    * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder** kennzeichnet Programm-Erfolge.
 
