@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: Erstellen und verwenden Sie ein Feld für verkettete Zeichenfolge (Formel) - Marketing Docs - Produktdokumentation
 title: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel)
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ Sie können Werte aus mehreren Feldern kombinieren oder einen bedingten Wert mit
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Erfahren Sie mehr über [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >[!TIP]
+   >
+   >Erfahren Sie mehr über [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Jetzt können Sie das Formelfeld als Token in einer E-Mail hinzufügen.
 
    ![](assets/seven.png)
 
-Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Begrüßung auf der Grundlage des Geschlechts einzubeziehen ist. Viel Spaß damit und kreativ.
-
 >[!NOTE]
 >
->Formularfelder können in Landingpages, E-Mails und Spalten mit intelligenter Liste verwendet werden. sie werden nicht exportiert. E-Mails mit Formelfeldern können nicht über Batch-Kampagnen gesendet werden
+>Formularfelder können in Landingpages, E-Mails und Spalten mit intelligenter Liste verwendet werden (sie werden nicht exportiert). E-Mails mit Formelfeldern können **nicht** mit einer Batch-Kampagne gesendet werden. Verwenden Sie in diesem Szenario ein [E-Mail-Skript-Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md).
+
+Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Begrüßung auf der Grundlage des Geschlechts einzubeziehen ist. Viel Spaß damit und kreativ.
