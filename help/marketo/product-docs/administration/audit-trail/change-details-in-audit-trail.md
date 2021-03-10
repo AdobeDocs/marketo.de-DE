@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Details im Audit-Protokoll ändern - Marketing-Dokumente - Produktdokumentation
 title: Details im Prüfpfad ändern
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <th colspan="1">Details ändern</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">Standard-Programm<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>Standard-Programm</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Erstellen</td> 
    <td>Kanal Typ "Kanal type"<br>oder<br>Kloniert von "Programm name"</td> 
   </tr> 
@@ -91,7 +91,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">Email<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>Email</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Erstellen</td> 
    <td>Erstellt mit Vorlage "Vorlagenname" <br>oder <br>Kloniert aus "Asset-Name"</td> 
   </tr> 
@@ -132,16 +132,20 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Bearbeitung abgebrochener E-Mails aus Vorlage "template_name"(HINWEIS: Dies geschieht heute, wenn Sie den Code direkt bearbeiten.)</td> 
   </tr> 
   <tr> 
+   <td>Bearbeiten</td> 
+   <td>Neue Beschreibung "new description" Alte Beschreibung "old description"</td> 
+  </tr> 
+  <tr> 
+   <td>Bearbeiten</td> 
+   <td>Modul bearbeiten <module name><attribute> auf "value"</td> 
+  </tr> 
+  <tr> 
    <td>Löschen</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
    <td>Neuer Name "new name", Vorname "previous name"</td> 
-  </tr> 
-  <tr> 
-   <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "new description" Alte Beschreibung "old description"</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
@@ -163,7 +167,6 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Entwurf</td> 
    <td>E-Mail wurde entworfen, weil das Fragment "Snippet-Name"genehmigt wurde<br>oder<br>E-Mail wurde entworfen, weil die Vorlage "Vorlagenname"genehmigt wurde.</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">E-Mail-Programm</td> 
    <td>Erstellen</td> 
    <td>Kanal Typ "Kanal type"<br>oder<br>Kloniert von "Programm name"</td> 
@@ -506,6 +509,14 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   <tr> 
    <td>Bearbeiten</td> 
    <td>Neue Beschreibung "new description" Vorherige "previous description"</td> 
+  </tr> 
+  <tr> 
+   <td>Bearbeiten</td> 
+   <td>"Bild", "Bild"entfernt, Bildkomponente bearbeitet</td> 
+  </tr> 
+  <tr> 
+   <td>Bearbeiten</td> 
+   <td>"Rich Text" hinzugefügt, "Rich Text" entfernt, Komponente "Rich Text" bearbeitet</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
