@@ -137,7 +137,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Modul bearbeiten <module name><attribute> auf "value"</td> 
+   <td>Modul bearbeiten <code>"<module name>" <attribute></code> auf "value"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
