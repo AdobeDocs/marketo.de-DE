@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: hinzufügen "Marketo Custom Object Fields"- "Marketo Docs"- Produktdokumentation
 title: hinzufügen "Markieren in benutzerdefinierten Objektfeldern"
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
    >[!TIP]
    >
-   >Wenn Sie ein Deduplizierungsfeld erstellen, können Sie damit Duplikat-Felder in Ihrer Datenbank entfernen.
+   >Deduplizierungsfelder können zum Abrufen, Aktualisieren oder Löschen benutzerdefinierter Objekte verwendet werden. Jede benutzerdefinierte Objektdefinition muss mindestens ein (und nicht mehr als drei) dedupliziertes Feld enthalten.
 
 1. hinzufügen anderen erforderlichen Felder.
 
@@ -63,6 +63,6 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 >
 >* [hinzufügen &quot;Markieren in benutzerdefinierten Objektverknüpfungsfeldern&quot;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Bearbeiten und Löschen eines Markierungen zu einem benutzerdefinierten Objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Erläuterungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Bearbeiten und Löschen von Markierungen in benutzerdefinierten Objektfeldern](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Erläuterungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
