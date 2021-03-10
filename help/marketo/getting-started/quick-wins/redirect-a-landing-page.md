@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: Umleiten einer Landingpage - MarketingToDocs - Produktdokumentation
 title: Eine Landingpage umleiten
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 >* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 >* [Passen Sie die URL Ihrer Landingpage mit einem CNAME an](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
