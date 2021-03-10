@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Einrichten von Adobe Experience Cloud Audience Sharing - Marketing Docs - Produktdokumentation
 title: Einrichten der Freigabe von Adobe Experience Cloud-Audiencen
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
 
 1. Wenn Sie _noch nicht_ bereits angemeldet sind, wird ein Popup in einem neuen Register/Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (bei dieser Aktion wird der Organisationszugriff überprüft).
 
-   Und das ist es! Sie können nun mit der Freigabe von Daten zur Audience [beginnen.](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+Und das ist es! Sie können jetzt [Daten zur Audience freigeben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md) an oder [eine Audience](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md) aus Adobe Experience Cloud synchronisieren.
