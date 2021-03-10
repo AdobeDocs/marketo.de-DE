@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Details im Prüfpfad {#change-details-in-audit-trail} ändern
+# Details im Prüfpfadändern {#change-details-in-audit-trail}
 
 Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abonnement tut. Hier sind die Details.
 
