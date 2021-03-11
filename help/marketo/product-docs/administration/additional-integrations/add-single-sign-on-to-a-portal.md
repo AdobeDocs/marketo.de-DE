@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: hinzufügen Single-Sign-On für ein Portal - Marketing Docs - Produktdokumentation
 title: hinzufügen Einmal-Anmeldung bei einem Portal
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,8 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 ## Senden der Anforderung {#how-to-send-the-request}
 
 * Senden Sie die SSO-Anforderung (eine SAML-Antwort) an `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Als Audiencen-URL des SP. Verwenden Sie [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
-* Wenn Sie das Attribut SPNameQualifier verwenden, stellen Sie das Element NameID für Subject auf [https://saml.marketo.com/sp](https://saml.marketo.com/sp) ein.
+* Als Audiencen-URL des SP. `https://saml.marketo.com/sp` verwenden
+* Wenn Sie das SPNameQualifier-Attribut verwenden, setzen Sie das NameID-Element für Subject auf `https://saml.marketo.com/sp`
 * Wenn Sie mehrere Marketing-Abonnement mit demselben SSO-Anbieter verbinden, können Sie für jedes Marketing-Unterelement eindeutige SP-URLs mit dem Format `https://saml.marketo.com/sp/<munchkin_id>` verwenden
 
 >[!NOTE]
@@ -44,6 +44,8 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 * **Benutzerbereitstellung**  - Benutzer werden manuell von Marketing bereitgestellt.
 * **Autorisierung** : Benutzerberechtigungen werden in Marketing verwaltet.
 * **OAuth-Unterstützung**  - Marketing unterstützt OAuth derzeit nicht.
+* **Automatische Benutzerübertragung**  - Wird auch als &quot;Just-in-time-Bereitstellung&quot;bezeichnet. Dies ist der Fall, wenn die erste SAML-Anmeldung eines Benutzers in der Lage ist, den Benutzer in einer beliebigen Webanwendung zu erstellen, auf die er zugreifen kann (z. B. Marketo), und keine manuelle Administratoraktion erforderlich ist. Dies wird derzeit von Marketo nicht unterstützt.
+* **Verschlüsselung**  - Marketing unterstützt derzeit keine Verschlüsselung.
 
 >[!NOTE]
 >
@@ -59,7 +61,7 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgend
 
    >[!NOTE]
    >
-   >Wenn **Single-Sign-On** unter **Admin** nicht angezeigt wird, wenden Sie sich an [[Marketing-Support]](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Wenn **Single Sign-On** unter **Admin** nicht angezeigt wird, wenden Sie sich an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klicken Sie unter dem Abschnitt **SAML-Einstellungen** auf **Bearbeiten**.
 
@@ -102,3 +104,10 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie die folgend
    >[!NOTE]
    >
    >Beide Seiten müssen öffentlich zugänglich sein.
+
+>[!MORELIKETHIS]
+>
+>* [Verwenden einer universellen ID für die Abonnement-Anmeldung](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [Benutzeranmeldung auf &quot;Nur SSO&quot;beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Einladen von Marketing-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
