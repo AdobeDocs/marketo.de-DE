@@ -3,9 +3,9 @@ unique-page-id: 7504770
 description: Ansicht der Organisationsdienst-URL - Marketing Docs - Produktdokumentation
 title: Ansicht der Organisationsdienst-URL
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ansicht der Organisationsdienst-URL {#view-the-organization-service-url}
 
-Marketo benötigt die Organisationsdienst-URL, um mit Dynamics On-Premises-Instanzen zu synchronisieren. Hier ist, wie es in Dynamics zu finden ist.
+Marketo benötigt die Organisationsdienst-URL, um mit Dynamics-Instanzen zu synchronisieren. Hier ist, wie es in Dynamics zu finden ist.
 
 1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Erweiterte Einstellungen**.
 
@@ -31,4 +31,4 @@ Marketo benötigt die Organisationsdienst-URL, um mit Dynamics On-Premises-Insta
 
    ![](assets/four.png)
 
-1. Kopieren Sie diese URL und fügen Sie sie nach Marketo ein, und genießen Sie den Rest der Synchronisierung.
+1. Kopieren Sie diese URL nach Marketo und fügen Sie sie ein. Genießen Sie den Rest der Synchronisierung.
