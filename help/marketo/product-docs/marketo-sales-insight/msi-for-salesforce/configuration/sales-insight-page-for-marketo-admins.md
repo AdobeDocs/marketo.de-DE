@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight-Seite für Marketing-Administratoren - Marketing-Dokumente - Produktdokumentation
 title: Sales Insight-Seite für Marketing-Administratoren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ Wenn diese Option aktiviert ist, können MSI-Benutzer beim Senden von E-Mails au
 
 **RSS-Feed aktivieren:**
 
-Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed (zusätzlich zum Lead-Feed in Salesforce) Ansicht haben.
+Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed (zusätzlich zum Lead-Feed in Salesforce) Ansicht haben. RSS-Feeds können nur funktionieren, wenn die Funktion &quot;Token-Ablauf&quot;deaktiviert ist.
+
+**Token-Ablauf:**
+
+Der Token-Ablauf wird im Feature Manager gesteuert. Um sie zu aktivieren/deaktivieren, wenden Sie sich an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn diese Option aktiviert ist, laufen alle Marketo-Token innerhalb von 10 Minuten ab. Wenn diese Option deaktiviert ist, laufen Marketo-Token nicht ab.
+
+Token, die vor dem Aktivieren des Token-Ablaufs generiert wurden, haben keine Ablaufzeit für die Überprüfung, sodass sie auch dann nicht ablaufen, wenn die Funktion derzeit aktiviert ist.
+
+Token, die nach der Aktivierung des Token-Ablaufs generiert wurden, haben eine Ablaufzeit von 10 Minuten. Daher laufen sie auch nach der Deaktivierung der Funktion in 10 Minuten immer noch ab.
+
+Das Token-Verhalten basiert auf dem Zeitpunkt, zu dem es generiert wurde (bei Aktivierung/Deaktivierung der Token-Ablauffunktion anstelle des aktuellen Funktionsstatus).
