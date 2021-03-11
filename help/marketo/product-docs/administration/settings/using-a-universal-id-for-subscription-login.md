@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: Verwenden einer universellen ID für die Abonnement-Anmeldung - Marketing Docs - Produktdokumentation
 title: Verwenden einer universellen ID für die Abonnement-Anmeldung
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,10 @@ Wenn Sie mehrere Abonnements haben, haben Sie möglicherweise mehrere Community-
 ## Mobile Plattform {#mobile-platform}
 
 Benutzer mit universeller ID können ihre Daten auf Marketo-Momenten und dem iPad-Ereignis-Check-in-Abonnement anzeigen, bei dem sie sich zuletzt angemeldet haben. Sie können Abonnement nicht von der Mobile-Plattform selbst ändern.
+
+>[!MORELIKETHIS]
+>
+>* [hinzufügen Einmal-Anmeldung bei einem Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Benutzeranmeldung auf &quot;Nur SSO&quot;beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Einladen von Marketing-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
