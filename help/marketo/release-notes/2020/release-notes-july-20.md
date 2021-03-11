@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Versionshinweise - 20. Juli - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Juli 20
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ Die folgenden Funktionen sind in der Version vom 20. Juli enthalten. Überprüfe
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden in den kommenden Monaten veröffentlicht.
 
 * **Forms-Dienst**: Wir führen eine stärkere Formularfeldsyntax-Überprüfung und die Möglichkeit ein, gängige Bot-Muster mit neuen Funktionen für sichere Domänen für Landingpages zu blockieren. Durch das Blockieren von Bot-Mustern können Sie die Übermittlung von Spam-Formularen reduzieren und die Qualität Ihrer Datenbank verbessern.
+
+>[!NOTE]
+>
+>Die vollständige Einführung der erweiterten Formularfeldsyntax-Überprüfung wurde nach unserer Version vom Januar 2021 verschoben.
+
 * **Maximale URI-Größe** für Asset-API: Die Größenbeschränkung der einheitlichen Ressourcenkennung (URI) wird von 8 KB auf 65 KB erhöht, bevor der Parameter &quot;_method&quot;entfernt wird. Bei Zeichenfolgen mit langer Abfrage können die Daten aufgrund dieser Größenbeschränkung leichter übergeben werden. Die Entfernung des Parameters &quot;_method&quot;ist Teil einer bevorstehenden Sicherheitsaktualisierung.
 
 ## Sales Insight {#sales-insight}
