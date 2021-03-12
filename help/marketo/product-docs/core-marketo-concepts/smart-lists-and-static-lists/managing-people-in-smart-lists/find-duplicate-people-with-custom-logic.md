@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: Duplikat-Personen mit benutzerdefinierter Logik suchen - Marketing-Dokumente - Produktdokumentation
 title: Duplikat-Personen mit benutzerdefinierter Logik suchen
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ Marketo verfügt über eine systemintelligente Liste, die Duplikat-Leute findet,
    * Vollständiger Name
    * Nachname
    * Aktualisiert am
+
+   >[!NOTE]
+   >
+   >Bei allen Feldern mit Ausnahme der E-Mail-Adresse wird die Groß-/Kleinschreibung beachtet. Wenn Sie also &quot;john doe&quot;im Feld &quot;Vollständiger Name&quot;verwenden, würden _nicht_ die Ergebnisse für John Doe zurückgegeben.
 
    ![](assets/four-2.png)
 
