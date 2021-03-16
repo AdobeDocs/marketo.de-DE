@@ -3,9 +3,9 @@ unique-page-id: 1147042
 description: Daten an ein Feld anhängen - Marketing-Dokumente - Produktdokumentation
 title: Daten an ein Feld anhängen
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht es.
 >[!PREREQUISITES]
 >
 >[Eine Kampagne erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+
+>[!NOTE]
+>
+>Die folgenden Schritte gelten auch für [Change Programm Member Data](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
 1. Ziehen Sie unter der Registerkarte **Fluss** den Schritt **Datenwert ändern**.
 
