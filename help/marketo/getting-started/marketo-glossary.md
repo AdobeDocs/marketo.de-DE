@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketing Docs - Produktdokumentation
 title: Marketo-Glossar
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
    <td colspan="1">Dieser Begriff kann eine andere Bedeutung haben:<br>-Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-In  <strong>ABM</strong> ist ein  <strong>benanntes </strong> Konto ein Benutzerkonto, das der Benutzer als Zielgruppe festgelegt hat, das er verfolgen möchte.<br>-In ABM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften  <strong>CRM</strong>  zugeordnet ist (Konto in  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamicsor  <strong>API</strong>).<br>- In Ihrem CRM sind Konten das Geschäft/die Firma, mit dem/denen Interessenten und Kontakte verbunden sind.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">Kontobasiertes Marketing</a>  (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Kontobasiertes Marketing</a>  (ABM)</strong></td> 
    <td colspan="1">Eine Zusatzfunktion, mit der Sie wichtige Konten in einer höchst koordinierten Zielgruppe und Interaktion nutzen können.</td> 
   </tr> 
   <tr> 
@@ -48,7 +48,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
    <td colspan="1">(ehemals AccountAI) Bei <strong>ABM</strong> werden vorhandene Firmen in Ihrer Datenbank mit Ihrem Idealkundenkonto (ICP) nach Rang geordnet und die Rangfolge als Punktzahlen in Ihren Konten hinzugefügt.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">Kontobewertung</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Kontobewertung</a></strong></td> 
    <td colspan="1">Bei <strong>ABM</strong> handelt es sich um eine einem Konto zugewiesene Punktzahl, die Ihnen bei der Bestimmung der Interaktionsstufe hilft.</td> 
   </tr> 
   <tr> 
@@ -431,7 +431,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
  </tbody> 
 </table>
 
-## I {#i}
+## K {#i}
 
 <table> 
  <colgroup> 
@@ -651,7 +651,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
    <td colspan="1">Personenpartitionen verhalten sich wie separate <strong>Datenbanken</strong>. Jede Partition hat eigene Leute, die nicht deduplizieren oder mit anderen Partitionen mischen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">Im <strong>Kontenbasiertes Marketing</strong> von Marketo sind Personas eine Untergruppe einer Audience, die ein spezifischeres Targeting ermöglicht.</td> 
   </tr> 
   <tr> 
