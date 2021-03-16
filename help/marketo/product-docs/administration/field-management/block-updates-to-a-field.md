@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: Blockieren von Aktualisierungen für ein Feld - Marketing-Dokumente - Produktdokumentation
 title: Blockieren von Aktualisierungen für ein Feld
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ Durch das Blockieren von Updates für ein Feld können Sie einmalig in das Feld 
 1. Suchen Sie das Feld, wählen Sie es aus und klicken Sie dann unter **Feldaktionen** auf **Feldaktualisierungen blockieren**.
 
    ![](assets/two-1.png)
+
+   >[!NOTE]
+   >
+   >Sie können auch Updates für die benutzerdefinierten Felder [Programm-Mitglied](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) blockieren.
 
 1. Wählen Sie die zu blockierenden **Eingabequellen** aus und klicken Sie auf **Anwenden**.
 
