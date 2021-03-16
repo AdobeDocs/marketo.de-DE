@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Versionshinweise - Frühjahr 2019 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Frühjahr 2019
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Die folgenden Funktionen wurden am 15. März 2019 veröffentlicht.
 
 Kundenbasiertes Marketing
 
-**[](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINjetzt allgemein verfügbar. AccountAI verwendet künstliche Intelligenz, um die Konten zu enthüllen, die Sie für Ihre ABM-Strategie Zielgruppe haben sollten.
+**[](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINjetzt allgemein verfügbar. AccountAI verwendet künstliche Intelligenz, um die Konten zu enthüllen, die Sie für Ihre ABM-Strategie Zielgruppe haben sollten.
 
 <br> 
 
