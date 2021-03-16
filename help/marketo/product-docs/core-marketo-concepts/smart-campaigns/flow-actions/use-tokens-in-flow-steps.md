@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: Token in Flussschritten verwenden - Marketing-Dokumente - Produktdokumentation
 title: Tokens in Flussschritten verwenden
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+>[hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 Ein Token ist eine Variable. Sie verwenden sie in E-Mails, Landingpages und intelligenten Kampagnen, um Ihr Leben zu vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussschritten, Webhooks, E-Mails und Landingpages verwenden. Sie können Token verwenden, um variablen Inhalt in die folgenden Flussschritte einzuschließen:
 
 * Datenwert ändern
+* Programm-Mitgliederdaten ändern
 * Interessanter Moment
 * Schritte zur Kampagne von Salesforce (Hinzufügen, Entfernen, Ändern des Status)
 * Aufgabe erstellen
@@ -43,6 +43,10 @@ Ein Token ist eine Variable. Sie verwenden sie in E-Mails, Landingpages und inte
    >[!TIP]
    >
    >Es können mehrere Token in den Arbeitsschritten &quot;Interessanter Moment&quot;, &quot;Aufgabe erstellen&quot;und &quot;Warnhinweis senden&quot;verwendet werden.
+
+   >[!NOTE]
+   >
+   >Benutzerdefinierte FeldToken für Programm-Member können verwendet werden in: Erstellen Sie Aufgaben, erstellen Sie Aufgaben in Microsoft, interessante Momente, ändern Sie die Aktionen zum Datenwertfluss und Webhooks.
 
    Cool! Die Daten werden beim Ausführen der intelligenten Kampagne aus dem Token gezogen.
 
