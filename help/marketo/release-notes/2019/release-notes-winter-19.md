@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Versionshinweise - Winter 19 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Binden Sie bis zu fünf CC-Adressen pro Empfänger in E-Mails ein, die über Mar
 
 ## Kontobasiertes Marketing {#account-based-marketing}
 
-**[ABM Personenbasierte Segmentierung und Filterung](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[ABM Personenbasierte Segmentierung und Filterung](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 Personalisieren Sie Ihre ABM-Kampagnen für bestimmte Personen in benannten Konten. Die ABM-Persona-Funktion erstellt einen Standardauftragstitel basierend auf der Interessentensegmentierung und ermöglicht die Konfiguration zusätzlicher Personensegmente.
 
