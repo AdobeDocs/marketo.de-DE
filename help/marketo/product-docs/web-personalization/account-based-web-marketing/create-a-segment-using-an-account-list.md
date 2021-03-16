@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: Erstellen eines Segments mithilfe einer Kontodokumentation - Marketing Docs - Liste
 title: Erstellen eines Segments mit einer Kontoversion einer Liste
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ So erstellen Sie ein Segment mit einer Kontoklasse.
 
 >[!PREREQUISITES]
 >
->[Eine Liste für ein neues Konto erstellen](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
+>[Eine Liste für ein neues Konto erstellen](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Gehen Sie zu **Segmente**.
 
