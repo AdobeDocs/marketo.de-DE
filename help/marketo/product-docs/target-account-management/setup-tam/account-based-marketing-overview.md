@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: Kontobasierte Marketingübersicht - Marketing-Dokumente - Produktdokumentation
 title: Kontobasierte Marketingübersicht
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketing-to-Konto-basiertes Marketing Angebot außerdem verschiedene Tools zur 
 
 Ich bin da! Wie gehe ich los?
 
-Wir dachten, du würdest nie fragen! ABM ist als Add-On für Ihr Marketo-Abonnement erhältlich. Wenden Sie sich daher an Ihren Vertriebsmitarbeiter, um es implementieren zu lassen. Sehen Sie sich den folgenden Artikel an, sobald Sie ihn haben: [Erste Schritte mit ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+Wir dachten, du würdest nie fragen! ABM ist als Add-On für Ihr Marketo-Abonnement erhältlich. Wenden Sie sich daher an Ihren Vertriebsmitarbeiter, um es implementieren zu lassen. Sehen Sie sich den folgenden Artikel an, sobald Sie ihn haben: [Erste Schritte mit ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
