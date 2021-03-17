@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: Ein benanntes Konto löschen - Marketing Docs - Produktdokumentation
 title: Benanntes Konto löschen
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Gehen Sie wie folgt vor, um ein benanntes Konto zu löschen.
 
    >[!NOTE]
    >
-   >Konten, die mit Ihrem CRM synchronisiert wurden, können nicht in ABM gelöscht werden. Wenn die Option zum Löschen nicht verfügbar ist oder Sie eine Meldung erhalten, dass diese Konten nicht gelöscht werden können, weil ein oder mehrere CRM-Konten ausgewählt sind, müssen sie direkt im CRM gelöscht werden.
+   >Konten, die mit Ihrem CRM synchronisiert wurden, können nicht in TAM gelöscht werden. Wenn die Option zum Löschen nicht verfügbar ist oder Sie eine Meldung erhalten, dass diese Konten nicht gelöscht werden können, weil ein oder mehrere CRM-Konten ausgewählt sind, müssen sie direkt im CRM gelöscht werden.
