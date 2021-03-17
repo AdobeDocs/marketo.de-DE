@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: Benannte Dimension in RCA - Marketing Docs - Produktdokumentation
 title: Benannte Konto-Dimension in RCA
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Benannte Konto-Dimension in RCA {#named-account-dimension-in-rca}
 
-Erstellen Sie umsatzbasierte Berichte mit der ABM-spezifischen Dimension &quot;Benanntes Konto&quot;in &quot;Umsatz-Cycle-Analytics&quot;.
+Erstellen Sie umsatzbasierte Berichte mit der TAM-spezifischen Dimension &quot;Benanntes Konto&quot;in &quot;Umsatzwyklusanalysen&quot;.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Die folgenden Berichte haben Zugriff auf die Dimension &quot;Benanntes Konto&quo
 
 >[!NOTE]
 >
->Im Folgenden finden Sie einige Beispiele von Marketo ABM in der Analyse von Umsatzzyklen.
+>Im Folgenden finden Sie einige Beispiele von Marketo TAM in der Analyse von Umsatzzyklen.
 
 Pipeline-Beschleunigung innerhalb benannter Konten
 
