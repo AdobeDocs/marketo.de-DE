@@ -3,9 +3,9 @@ unique-page-id: 17727818
 description: Verwenden von Personas - Marketing Docs - Produktdokumentation
 title: Verwenden von Personas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Personas sind eine großartige Möglichkeit, Ihre ABM-Audience und Ihren Markt a
 
    ![](assets/one.png)
 
-1. Wählen Sie in der Struktur **ABM**.
+1. Wählen Sie in der Struktur **Zielgruppe Kontoverwaltung**.
 
-   ![](assets/two.png)
+   ![](assets/using-personas-2.png)
 
 1. Klicken Sie auf **Bearbeiten**.
 
