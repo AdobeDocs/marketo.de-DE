@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: hinzufügen Personen in ein benanntes Konto - Marketing Docs - Produktdokumentation
 title: hinzufügen Personen in ein benanntes Konto
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # hinzufügen Personen in ein benanntes Konto {#add-people-to-a-named-account}
 
-Es gibt drei verschiedene Möglichkeiten, Personen manuell einem benannten Konto in ABM hinzuzufügen.
+Es gibt drei verschiedene Möglichkeiten, Personen manuell einem benannten Konto in TAM hinzuzufügen.
 
 ## Einzelflussaktion {#single-flow-action}
 
