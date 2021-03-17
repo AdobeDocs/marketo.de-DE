@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Setup des Kontoteams - Marketing Docs - Produktdokumentation
 title: Einrichten des Kontoteams
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Ein Kontoteam ist eine Gruppe von Interessenvertretern, die mit einem benannten 
 
    ![](assets/one-3.png)
 
-1. Klicken Sie auf **ABM**.
+1. Klicken Sie auf **Zielgruppe Kontoverwaltung**.
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. Klicken Sie unter &quot;Account Team Members&quot;auf **Bearbeiten**.
 
@@ -45,10 +45,12 @@ Ein Kontoteam ist eine Gruppe von Interessenvertretern, die mit einem benannten 
 
    >[!CAUTION]
    >
-   >Wenn Sie eine Aktualisierung vornehmen, kann es einige Zeit dauern, bis die Änderungen in ABM übernommen werden.
+   >Wenn Sie eine Aktualisierung vornehmen, kann es einige Zeit dauern, bis die Änderungen in TAM übernommen werden.
 
    >[!NOTE]
    >
-   >Wenn mehrere CRM-Konten mit verschiedenen Kontoinhabern zu einem benannten Konto zusammengeführt werden, wählt Marketo einen &quot;Kontoinhaber&quot;und fügt andere Kontoinhaber als &quot;Kontobesitzer&quot;hinzu.
-   >
-   >Wenn ein CRM-&quot;Rolle&quot;-Feld später umbenannt oder gelöscht wird, beendet Marketo ABM die Synchronisierung der aktualisierten Werte, bis der Benutzer das Setup in ABM manuell aktualisiert
+   >* Wenn mehrere CRM-Konten mit verschiedenen Kontoinhabern zu einem benannten Konto zusammengeführt werden, wählt Marketo einen &quot;Kontoinhaber&quot;und fügt andere Kontoinhaber als &quot;Kontobesitzer&quot;hinzu.
+      >
+      >
+   * Wenn ein CRM-&quot;Rolle&quot;-Feld später umbenannt oder gelöscht wird, beendet Marketo TAM die Synchronisierung der aktualisierten Werte, bis der Benutzer die Einrichtung in TAM manuell aktualisiert
+
