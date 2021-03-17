@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Versionshinweise - Winter 18 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 18
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Informieren Sie sich, wie Ihre Kampagnen und Kanal mit Zuordnungsanalysen, inter
 
 ## Kontobasierte Marketingverbesserungen {#account-based-marketing-enhancements}
 
-**[ABM-Hierarchien](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
+**[ABM-Hierarchien](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
 Für ABM-Kunden mit Salesforce oder Microsoft Dynamics übernimmt ABM nun automatisch die im CRM eingerichteten Beziehungen zwischen Mutter und Kind (und zeigt sie an). Sie können diese Beziehungen sowohl beim Rollup-Berichte als auch bei der Ausführung von Kampagnen verwenden.
 
