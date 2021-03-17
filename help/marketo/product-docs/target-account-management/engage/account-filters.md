@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Account-Filter - Marketing Docs - Produktdokumentation
 title: Filter
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Identifizieren und binden Sie benannte Konten und die darin enthaltenen Personen mithilfe neuer kontoorientierter Filter.
 
-## ABM-Filter {#abm-filters}
+## TAM-Filter {#tam-filters}
 
 1. Wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf **Intelligente Liste**.
 
@@ -45,25 +45,25 @@ Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste Konto-Liste...
 
 ## Mitglied des benannten Kontos {#member-of-named-account}
 
-1. Wählen Sie einen Qualifikator aus. Ist für ein bestimmtes(n) benanntes(e) Konto(e) oder für ein beliebiges benanntes Konto vorhanden.
+Wählen Sie zunächst einen Qualifikator aus. **Ist** für ein bestimmtes(n) benanntes(n) Konto(e) oder  **ist** ein beliebiges beliebiges Konto vorhanden.
 
-   ![](assets/six.png)
+![](assets/six.png)
 
-1. Klicken Sie auf die Dropdownliste Benanntes Konto.
+Klicken Sie auf die Dropdownliste Benanntes Konto...
 
-   ![](assets/seven.png)
+![](assets/seven.png)
 
-1. Wählen Sie die gewünschten benannten Konten aus.
+...und wählen Sie die gewünschten benannten Konten aus.
 
-   ![](assets/eight.png)
+![](assets/eight.png)
 
-1. Wenn Sie den Qualifikator &quot;is any&quot;verwenden, sollten Sie [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) verwenden, um Ihre Suchergebnisse einzuschränken. hinzufügen so viele, wie du willst!
+Wenn Sie den Qualifikator &quot;is any&quot;verwenden, sollten Sie [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) verwenden, um Ihre Suchergebnisse einzuschränken. hinzufügen so viele, wie du willst!
 
-   ![](assets/nine.png)
+![](assets/nine.png)
 
-1. Setzen Sie &quot;Kinder einschließen&quot;auf &quot;false&quot;, wenn Sie nur Mitglieder aus einem einzigen Konto der obersten Ebene verwenden möchten. Wählen Sie &quot;true&quot;, wenn Sie Mitglieder aus allen untergeordneten Konten haben möchten.
+Setzen Sie &quot;Kinder einschließen&quot;auf &quot;false&quot;, wenn Sie nur Mitglieder aus einem einzigen Konto der obersten Ebene verwenden möchten. Wählen Sie &quot;true&quot;, wenn Sie Mitglieder aus allen untergeordneten Konten haben möchten.
 
-   ![](assets/ten.png)
+![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
