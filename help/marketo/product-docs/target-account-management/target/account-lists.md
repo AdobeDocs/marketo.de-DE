@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Account-Listen - Marketing Docs - Produktdokumentation
 title: Listen von Konten
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
 >[!NOTE]
 >
->In &quot;Marketing to Account Based Marketing&quot;erstellte Listen stehen beim Erstellen intelligenter Listen und Web-Kampagnen in [Web-Personalisierung](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) automatisch zur Verfügung.
+>In der Kontoverwaltung von Marketing Zielgruppe erstellte Listen sind beim Erstellen intelligenter Listen und Web-Kampagnen in [Web-Personalisierung](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) automatisch verfügbar.
 
 ## Neue Konto-Liste {#create-a-new-account-list} erstellen
 
