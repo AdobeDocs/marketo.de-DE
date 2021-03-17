@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Neue Kontoerkennung - Marketing-Dokumente - Produktdokumentation
 title: Neue Kontoerkennung
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Mit der neuen Kontoerfassung können Sie mithilfe von AI-basierten Empfehlungen 
 >
 >Es wird empfohlen, die Schaltfläche **Vorhandene Konten aktualisieren** zu betätigen, bevor Sie eine neue Kontosuche durchführen, um sicherzustellen, dass Sie die neuesten Daten sehen. Diese Aktualisierung kann bis zu 24 Stunden dauern.
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **ABM**.
+1. Klicken Sie in &quot;My Marketo&quot;auf **Zielgruppe Account Management**.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Klicken Sie auf die Registerkarte **Kontoprofilerstellung**.
 
@@ -37,7 +37,7 @@ Mit der neuen Kontoerfassung können Sie mithilfe von AI-basierten Empfehlungen 
 
    >[!NOTE]
    >
-   >Neue Konten zeigen eine Liste von Konten an, die noch nicht in ABM enthalten sind. Es handelt sich dabei um Konten, die je nach von Ihnen gewählten Filtern neu sein können.
+   >Neue Konten zeigen eine Liste von Konten an, die noch nicht in TAM vorhanden sind. Es handelt sich dabei um Konten, die je nach von Ihnen gewählten Filtern neu sein können.
 
 1. Wählen Sie alle entsprechenden Filter aus (dieser Teil ist stark anpassbar, das folgende Beispiel zeigt die Filterung).
 
