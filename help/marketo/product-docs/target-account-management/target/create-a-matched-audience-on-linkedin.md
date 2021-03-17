@@ -3,7 +3,7 @@ unique-page-id: 26837421
 description: Eine übereinstimmende Audience auf LinkedIn - Marketing Docs - Produktdokumentation erstellen
 title: Eine übereinstimmende Audience auf LinkedIn erstellen
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Eine übereinstimmende Audience auf LinkedIn erstellen {#create-a-matched-audience-on-linkedin}
 
-Erstellen Sie entsprechende Audiencen aus Ihren ABM-Konto-Listen für LinkedIn-Anzeigen-Targeting.
+Erstellen Sie übereinstimmende Audiencen aus Ihren TAM-Konto-Listen für LinkedIn-Anzeigen-Targeting.
 
 >[!PREREQUISITES]
 >
 >[hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Klicken Sie in ABM auf die Registerkarte **Listen**.
+1. Klicken Sie in TAM auf die Registerkarte **Listen**.
 
    ![](assets/one-1.png)
 
