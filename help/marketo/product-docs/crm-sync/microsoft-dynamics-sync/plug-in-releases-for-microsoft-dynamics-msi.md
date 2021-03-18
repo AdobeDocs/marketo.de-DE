@@ -3,10 +3,10 @@ unique-page-id: 10099102
 description: Plug-in-Versionen für Microsoft Dynamics MSI - Marketing Docs - Produktdokumentation
 title: Plug-In-Versionen für Microsoft Dynamics MSI
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '258'
+ht-degree: 4%
 
 ---
 
@@ -21,12 +21,33 @@ Bitte [laden Sie das neueste Plugin](/help/marketo/product-docs/marketo-sales-in
 >
 >Diese Versionen können sowohl für lokale als auch für Online-Versionen von Dynamics verwendet werden.
 
-## Aktualisieren der MSI-Lösung {#updating-your-msi-solution}
+## Aktualisieren der MSI-Lösung {#upgrading-your-msi-solution}
 
-1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM Version 1.4 und die neueste Version 1.5 besitzt, würden Sie _over_ Version 1.4 importieren.
-1. Das folgende Popup wird angezeigt. Wählen Sie die Optionen **Aktualisieren** und **Anpassung überschreiben** und klicken Sie dann auf **Importieren**.
+1. Importieren Sie die neueste Version der Lösung _über die vorhandene Version_ von Dynamics CRM, indem Sie die Schaltfläche **Import** in Dynamics drücken.
 
-   ![](assets/one.png)
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
+
+>[!NOTE]
+>
+>Beispiel: Wenn Ihr Dynamics CRM Version 2.0.0.20 und die neueste Version 2.0.0.21 hat, würden Sie _over_ Version 2.0.0.20 importieren.
+
+1. Klicken Sie auf **Weiter**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
+
+1. Wählen Sie **Phase der Aktualisierung** und **Anpassungen beibehalten** und klicken Sie dann auf **Importieren**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
+
+1. Klicken Sie auf **Weiter**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
+
+1. Nach einem erfolgreichen Import werden Ihnen zwei MSI-Lösungen angezeigt: MarketoSalesInsight und MarketingSalesInsight_Upgrade. Wählen Sie die ältere Lösung aus und klicken Sie auf Lösungsaktualisierung anwenden.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
+
+Und das ist es! Nach der Aktualisierung wird nur eine MSI-Lösung angezeigt.
 
 ## Versionsupdates {#version-updates}
 
@@ -38,34 +59,39 @@ Bitte [laden Sie das neueste Plugin](/help/marketo/product-docs/marketo-sales-in
  </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Version</th> 
    <th colspan="1">Releasedatum</th> 
+   <th colspan="1">Version</th> 
    <th colspan="1">Hinweise</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">01.10.20</td> 
+   <td colspan="1">2.0.0.21</td> 
+   <td colspan="1">Fehlerbehebung: Zugriff auf MSI API-Konfigurationsfelder für Benutzer mit Sales Insight-Rolle zuweisen</td> 
   </tr> 
   <tr> 
    <td colspan="1">20.07.20</td> 
    <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Fehlerbehebung: Überprüfungsmeldung für nicht synchronisierte Datensätze Hinzufügen</td> 
+   <td colspan="1">Fehlerbehebung: hinzufügen einer Überprüfungsmeldung für nicht synchronisierte Datensätze</td> 
   </tr> 
   <tr> 
    <td colspan="1">12.06.20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1"><p>Fehlerbehebung: So blenden Sie das geheime MSI-Kennwort bei der MSD-API-Konfiguration aus</p></td> 
+   <td colspan="1">Fehlerbehebung: So blenden Sie das geheime MSI-Kennwort bei der MSD-API-Konfiguration aus</td> 
   </tr> 
   <tr> 
    <td colspan="1">26.05.20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1"><p>Fehlerbehebung: So ändern Sie die MSI-Rollen-ID-Überprüfung für die Anzeige von MSI-Schaltflächen</p></td> 
+   <td colspan="1">Fehlerbehebung: So ändern Sie die MSI-Rollen-ID-Überprüfung für die Anzeige von MSI-Schaltflächen</td> 
   </tr> 
   <tr> 
    <td colspan="1">21.05.20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1"><p>Fehlerbehebung: Rückgängig: Eigenschaftsfeld und Nicht-obligatorische Felder</p></td> 
+   <td colspan="1">Fehlerbehebung: Rückgängigmachen des Ausblendens des Felds "Inhaber"und Nichterfüllung der Felder</td> 
   </tr> 
   <tr> 
    <td colspan="1">28.04.20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1"><p>Fehlerbehebung: Entfernen der Link-Abhängigkeit für MSD CRM-Sitemap</p></td> 
+   <td colspan="1">Fehlerbehebung: Entfernen der Link-Abhängigkeit für MSD CRM-Sitemap</td> 
   </tr> 
  </tbody> 
 </table>
