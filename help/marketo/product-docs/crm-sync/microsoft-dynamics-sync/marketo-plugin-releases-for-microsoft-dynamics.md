@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketing Docs - Produktdokumentation
 title: Marketo Plugin Releases for Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,15 @@ Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version
 
 ![](assets/lead-management-solution.png)
 
-Die nachstehende Tabelle zeigt die neuesten Versionen an.
+## Aktualisieren der Dynamics Solution {#updating-your-dynamics-solution}
+
+1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM Version 1.4 und die neueste Version 1.5 besitzt, würden Sie _over_ Version 1.4 importieren.
+
+1. Das folgende Popup wird angezeigt. Wählen Sie **Aktualisieren** und **Anpassungen beibehalten** und klicken Sie dann auf **Importieren**.
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## Neueste Versionen {#latest-versions}
 
 >[!NOTE]
 >
@@ -31,6 +39,11 @@ Die nachstehende Tabelle zeigt die neuesten Versionen an.
    <th colspan="1">Version</th> 
    <th colspan="1">Releasedatum</th> 
    <th>Hinweise</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">16.10.20</td> 
+   <td colspan="1">Unterstützung für die Synchronisierung von Kampagnen mit MS Dynamics hinzugefügt.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
