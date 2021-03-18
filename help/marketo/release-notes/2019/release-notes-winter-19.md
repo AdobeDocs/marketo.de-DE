@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Versionshinweise - Winter 19 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Winter 19
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Bitte klicken Sie auf die Titellink-Links, um detaillierte Ansichten zu den einz
 
 >[!NOTE]
 >
->Microsoft drängt alle Online-Kunden, auf die neueste Version von Microsoft Dynamics zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit Dynamics Online integrieren, müssen Sie vor dem 31. Januar 2019 **auf die neueste Version der Marketing-Lösung ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) aktualisieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert.[**
+>Microsoft drängt alle Online-Kunden, auf die neueste Version von Microsoft Dynamics zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit Dynamics Online integrieren, müssen Sie vor dem 31. Januar 2019 **auf die neueste Version der Marketing-Lösung ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) aktualisieren, um sicherzustellen, dass Ihre Integration weiterhin funktioniert.[**
 
 >[!NOTE]
 >
