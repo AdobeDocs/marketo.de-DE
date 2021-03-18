@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Erstellen Sie eine SMS-Nachricht von Vibes - Marketing Docs - Produktdokumentation
 title: Erstellen einer Vibes-SMS-Nachricht
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # Erstellen einer Vibes-SMS-Nachricht {#create-a-vibes-sms-message}
 
 So erstellen Sie eine SMS-Nachricht für Vibes:
+
+>[!AVAILABILITY]
+>
+>Diese Funktion ist als Add-On für Ihr Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie von Ihrem Adobe Customer Success Manager.
+
+>[!NOTE]
+>
+>SMS-Textnachrichten sind nicht HIPAA-konform.
 
 1. Gehen Sie zu **Marketing-Aktivitäten** und klicken Sie mit der rechten Maustaste auf ein Programm.
 
