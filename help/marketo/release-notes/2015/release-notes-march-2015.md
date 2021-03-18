@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Versionshinweise - März 2015 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - März 2015
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Wir unterstützen jetzt das Erstellen und Bearbeiten von E-Mails, Vorlagen, mein
 
 ## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
-Unterstützt mit dem neuesten Installationsprogramm jetzt [Zugriff über die App](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+Unterstützt mit dem neuesten Installationsprogramm jetzt [Zugriff über die App](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
