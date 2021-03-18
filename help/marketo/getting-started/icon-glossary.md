@@ -3,15 +3,17 @@ unique-page-id: 4720476
 description: Symbol-Glossar - Marketing-Dokumente - Produktdokumentation
 title: Symbol-Glossar
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
 # Symbol-Glossar {#icon-glossary}
+
+Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die neue Benutzeroberfläche für Marketo Engage umgestellt wurden, finden Sie hier das Icon-Glossar [.](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
 
 **Allgemeine Symbole**
 
@@ -93,7 +95,7 @@ ht-degree: 0%
     <div> 
      <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
-   <td colspan="1">Auslöser</td> 
+   <td colspan="1">Trigger</td> 
   </tr> 
   <tr> 
    <td> 
