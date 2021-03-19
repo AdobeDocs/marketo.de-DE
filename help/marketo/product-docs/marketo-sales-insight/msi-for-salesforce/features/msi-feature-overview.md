@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: Übersicht über die MSI-Funktionen - Marketing-Dokumente - Produktdokumentation
 title: Übersicht über die MSI-Funktionen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Felder:
 
 * Sales Insight - Öffnet die Seite mit der vollständigen Liste
 
+Aktionen:
+
+* hinzufügen zur Kampagne von Marketo
+* E-Mail an Marke senden
+* hinzufügen/Entfernen aus der überwachten Liste
+
 Die folgenden Funktionen stehen auf der Seite &quot;Kontolayout&quot;nicht zur Verfügung:****
 
-* Aktionen: hinzufügen zur Kampagne von Marketing, E-Mail senden von Marketing, Hinzufügen/Entfernen aus der Liste
 * Sterne und Flammen
 
 ## Opportunity Layout {#opportunity-layout}
@@ -115,9 +120,14 @@ Felder:
 * Sales Insight - Öffnet die Seite mit der vollständigen Liste
 * Analyse von Marketo-Chancen - eröffnet Einflussanalyse für Chancen in Marketing
 
+Aktionen:
+
+* hinzufügen zur Kampagne von Marketo
+* E-Mail an Marke senden
+* hinzufügen/Entfernen aus der überwachten Liste
+
 Die folgenden Funktionen sind auf der Seite &quot;Opportunity Layout&quot;nicht verfügbar: **Nicht verfügbar**:
 
-* Aktionen: hinzufügen zur Kampagne von Marketing, E-Mail senden von Marketing, Hinzufügen/Entfernen aus der Liste
 * Sterne und Flammen
 
 ## Ansicht der Interessenten- und Kontaktpersonen-Liste (Massenaktionen) {#lead-and-contact-list-view-bulk-actions}
