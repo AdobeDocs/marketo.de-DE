@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketing Docs - Produktdokumentation
 title: Marketo-Glossar
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
    <td colspan="1">Dieser Begriff kann eine andere Bedeutung haben:<br>-Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-In  <strong>ABM</strong> ist ein  <strong>benanntes </strong> Konto ein Benutzerkonto, das der Benutzer als Zielgruppe festgelegt hat, das er verfolgen möchte.<br>-In ABM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften  <strong>CRM</strong>  zugeordnet ist (Konto in  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamicsor  <strong>API</strong>).<br>- In Ihrem CRM sind Konten das Geschäft/die Firma, mit dem/denen Interessenten und Kontakte verbunden sind.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Kontobasiertes Marketing</a>  (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Kontobasiertes Marketing</a>  (ABM)</strong></td> 
    <td colspan="1">Eine Zusatzfunktion, mit der Sie wichtige Konten in einer höchst koordinierten Zielgruppe und Interaktion nutzen können.</td> 
   </tr> 
   <tr> 
@@ -431,7 +431,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
  </tbody> 
 </table>
 
-## K {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
