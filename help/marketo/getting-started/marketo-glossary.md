@@ -431,7 +431,7 @@ Im Folgenden finden Sie Definitionen zu vielen Begriffen, die Sie bei der Verwen
  </tbody> 
 </table>
 
-## I {#i}
+## K {#i}
 
 <table> 
  <colgroup> 
