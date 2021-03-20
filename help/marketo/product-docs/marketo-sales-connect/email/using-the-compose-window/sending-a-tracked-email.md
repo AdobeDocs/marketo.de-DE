@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Versenden einer verfolgten E-Mail - Marketing-Dokumente - Produktdokumentation
 title: Senden einer verfolgten E-Mail
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Beim Senden einer E-Mail mit Marketing Connect werden Ansichten (E-Mail wird ge�
 >Vor dem Senden einer verfolgten E-Mail-Nachricht müssen eine Identitätsbestätigung und ein E-Mail-Versand-Kanal eingerichtet werden.
 >
 >* [E-Mail-Adresse überprüfen](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Einrichten eines Versand-Kanals für [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) oder [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+>* Einrichten eines Versand-Kanals für [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) oder [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
