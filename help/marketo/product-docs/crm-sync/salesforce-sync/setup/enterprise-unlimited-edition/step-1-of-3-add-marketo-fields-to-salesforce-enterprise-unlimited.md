@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Schritt 1 von 3 - Hinzufügen Marketing Fields to Salesforce (Enterprise/Unlimited) - Marketing Docs - Produktdokumentation
 title: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -265,10 +265,6 @@ Ein benutzerdefiniertes Feld auf dem Interessentenobjekt in Salesforce sollte ei
 1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    Einfach genug, nicht wahr?
-
->[!NOTE]
->
->Hier ist ein Link zu einem [Video des gesamten Verfahrens](https://nation.marketo.com/videos/1475), das es kristallklar machen sollte!
 
 >[!MORELIKETHIS]
 >
