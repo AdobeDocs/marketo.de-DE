@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: Sales Insight für nicht-native Salesforce-Integrationen - Marketing-Dokumente - Produktdokumentation
 title: Sales Insight für nicht native Salesforce-Integrationen
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Wenn Ihr Marketo-Konto über eine benutzerdefinierte oder nicht native Integrati
 
 >[!PREREQUISITES]
 >
->* Wenden Sie sich an Ihren Customer Success Manager, um die Funktion &quot;MSI Non-Native&quot;für Ihre Marketing-Instanz zu aktivieren.
->* Ein Salesforce-Konto mit MSI-Paket eingerichtet.
+>* Das Feature-Flag &quot;MSI Non-Native&quot;wurde für Ihre Marketo-Instanz aktiviert, bevor Sie den Beginn zur Einrichtung von MSI aufrufen (falls nicht, wenden Sie sich an Ihren Customer Success Manager).
+>* Ein Salesforce-Konto mit [MSI-Paket eingerichtet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 >* Marketo REST API [erfolgreich eingerichtet](https://developers.marketo.com/rest-api/). Die offen gelegten CRUD-APIs bilden die Grundlage für die Durchführung der nicht nativen Synchronisierung.
 >* Lesen Sie [diesen Blog-Beitrag](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/), um ein Verständnis des Objekts und der Beziehungen zu erhalten.
 >* Richten Sie Salesforce-Objekte so ein, dass der globale eindeutige Bezeichner mit 18 Zeichen und nicht der globale eindeutige Bezeichner mit 15 Zeichen ohne Unterscheidung zwischen Groß- und Kleinschreibung angezeigt wird.
