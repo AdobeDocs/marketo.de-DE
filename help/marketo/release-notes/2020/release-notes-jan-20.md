@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: Versionshinweise - Januar 2020 - Marketing Docs - Produktdokumentation
 title: Versionshinweise - Januar 2020
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,9 @@ Die folgenden Funktionen sind in der Version Januar 20 enthalten. Überprüfen S
 >
 >Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
-**_Vierteljährliche_** ReleasesDie folgenden Funktionen werden am 17.  **Januar 2020** veröffentlicht.
+**_Quartalsversionen_**
+
+Die folgenden Funktionen werden am **17. Januar 2020** veröffentlicht.
 
 ## Core Marketo Engage Adobe Application {#core-marketo-engage-adobe-application}
 
