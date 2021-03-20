@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Funktionsweise der Rückverfolgung von Antworten - Marketing Docs - Produktdokumentation
 title: Funktionsweise der Nachverfolgung von Antworten
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Die Rückverfolgung der Antworten erfolgt durch Prüfen einer Nachrichten-ID, di
 
 >[!PREREQUISITES]
 >
->**Verbindung mit E-Mail-Server:** Sales Connect muss mit Ihrem Posteingang verbunden sein, damit wir wissen, wann eine neue Antwort eingetroffen ist. Sie benötigen Ihr Sales Connect-Konto [mit Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md) verbunden. Wenn Sie Outlook verwenden, müssen wir mit Ihrem [Exchange-Server](https://toutapp.com/next#settings/exchange_settings) integrieren.
+>**Verbindung mit E-Mail-Server:** Sales Connect muss mit Ihrem Posteingang verbunden sein, damit wir wissen, wann eine neue Antwort eingetroffen ist. Sie benötigen Ihr Sales Connect-Konto [mit Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) verbunden. Wenn Sie Outlook verwenden, müssen wir mit Ihrem [Exchange-Server](https://toutapp.com/next#settings/exchange_settings) integrieren.
 
 Wenn Sales Connect die Antwort Ihres Potenzieller Kunden auf Ihre E-Mail nicht verfolgen kann, kann eine Kampagne nicht aufgrund der Antworterkennung oder der Anmeldung bei Salesforce beendet werden.  Was bedeuten wir, dass jede E-Mail-Adresse antworten kann?
 
