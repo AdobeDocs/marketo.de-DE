@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Benutzerdefinierte Felder für Programm-Mitglieder - Marketing-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Felder für Programm-Member
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,11 @@ ht-degree: 0%
 
 # Benutzerdefinierte Felder für Programm-Member {#program-member-custom-fields}
 
-Benutzerdefinierte Programm-Member-Felder ermöglichen die Erfassung von Programm-spezifischen Daten für jedes Mitglied. Sie können verwendet werden bei: Marketo-Formulare, Filter und Trigger für intelligente Liste und Flussaktionen für intelligente Kampagnen. Die Daten sind auf der Registerkarte &quot;Mitglieder&quot;des Programms sichtbar.
+Benutzerdefinierte Programm-Member-Felder ermöglichen Ihnen die Erfassung von Programm-spezifischen Daten für jedes Mitglied. Sie können verwendet werden bei: Marketo-Formulare, Filter und Trigger für intelligente Liste und Flussaktionen für intelligente Kampagnen. Die Daten sind auf der Registerkarte &quot;Mitglieder&quot;des Programms sichtbar.
+
+>[!NOTE]
+>
+>Benutzerdefinierte Programm-Member-Felder haben derzeit keine Integration mit Salesforce Kampagne Member-Feldern.
 
 ## Erstellen eines benutzerspezifischen Programm-Mitglieds {#create-a-program-member-custom-field}
 
@@ -64,11 +68,10 @@ Sie können diese Programm-spezifischen Daten in intelligenten Listen über [Tri
 
 * Benutzerdefinierte Programm-Member-Felder stehen nur in lokalen Assets zur Verfügung. Sie werden in Design Studio nicht unterstützt, da es nicht möglich ist, sie mit einem bestimmten Programm zu verknüpfen.
 * Sie können ein Formular (oder eine Landingpage mit einem Formular), das benutzerdefinierte Programm-Member-Felder enthält, nicht in Design Studio klonen/verschieben.
-* Benutzerdefinierte Programm-Member-Felder können nicht als Token verwendet werden.
 * Das Programm Member-Objekt kann bis zu 20 benutzerdefinierte Felder enthalten. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und das benutzerdefinierte Feld &quot;Programm-Mitglied&quot;Daten enthält, werden die Daten aus diesem Feld gescrubbt.
 * Um die Daten Ansicht, klicken Sie im Programm auf die Registerkarte &quot;Mitglieder&quot;und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
-* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)und [API](https://developers.marketo.com/) werden unterstützt.
+* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [API](https://developers.marketo.com/) werden unterstützt.
 * Wenn Sie zwei Personen zusammenführen, werden die Felddaten des Gewinners für ein benutzerdefiniertes Programm verwendet. Hat der Gewinner jedoch keine, wird der Wert des Verlierers verwendet.
 
 >[!MORELIKETHIS]
