@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Feldsynchronisierung
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -33,10 +33,14 @@ Nein, dies wird derzeit nicht unterstützt.
 
 Ja, Sie können [das Feld](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) synchronisieren, solange Ihr Synchronisierungsbenutzer Zugriff darauf in Dynamics hat.
 
-Welche Felder werden mit Marketo synchronisiert?
+## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
 Sie können die zu synchronisierenden Felder [während des Setups auswählen.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)
 
 ## Was ist, wenn ich nach der Synchronisierung von Marketo und Dynamics ein benutzerdefiniertes Feld hinzufügen muss? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
 Sie können jederzeit Felder hinzufügen und erwarten, dass die Daten von Dynamics zu Marketo aktualisiert werden. Weitere Informationen finden Sie unter [Schnellsynchronisierung mit Microsoft Dynamics verwenden für ein neues benutzerdefiniertes Feld](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md).
+
+## Was ist, wenn ich ein Feld in Dynamics löschen möchte, nachdem das Feld zur Synchronisierung hinzugefügt wurde? {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
+
+Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit [sync deaktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) zu tun. Aktualisieren Sie anschließend das Schema in Marketo, indem Sie die Felder [Zu synchronisierende Felder auswählen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) bearbeiten und speichern.
