@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: Aktualisieren Ihres MSI-Pakets - Marketing Docs - Produktdokumentation
 title: MSI-Paket aktualisieren
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. Sie können das Paket aktualisieren, indem Sie &quot;Nur für Administratoren installieren&quot;(und später MSI-Zugriff auf bestimmte Profil bereitstellen), &quot;Für alle Benutzer installieren&quot;oder &quot;Für bestimmte Profil installieren&quot;wählen. In diesem Beispiel wählen wir &quot;Nur Administratoren&quot;. Klicken Sie nach Auswahl auf **Upgrade**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Es wird empfohlen, das Paket nur für Administratoren zu aktualisieren und dann [Zugriff auf bestimmte Benutzer](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md) je nach Anzahl der erworbenen MSI-Sitze bereitzustellen. Alternativ können Sie ein bestimmtes Salesforce-Profil für MSI-Benutzer erstellen und das Paket nur für diese Benutzer installieren oder aktualisieren.
