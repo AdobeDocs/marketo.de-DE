@@ -3,9 +3,9 @@ unique-page-id: 14352402
 description: Team-Mitglieder einladen - Marketing Docs - Produktdokumentation
 title: Teammitglieder einladen
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Das Hinzufügen von Teammitgliedern ist schnell und einfach!
 
    ![](assets/one.png)
 
-1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Teamverwaltung**.
+1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Benutzerverwaltung**.
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. Klicken Sie auf **Neuen Benutzer einladen**.
+1. Klicken Sie auf **Benutzer einladen**.
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
 1. Geben Sie die E-Mail-Adressen der Personen ein, die Sie hinzufügen möchten, und klicken Sie auf **Weiter**.
 
