@@ -3,7 +3,7 @@ unique-page-id: 14352623
 description: Benutzerzugriffsdetails - Marketing-Dokumente - Produktdokumentation
 title: Benutzerzugriffsdetails
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Administratoren können [Ansicht aller Kampagnen](/help/marketo/product-docs/mar
 
 Administratoren können alle E-Mail-Aktivitäten Ansicht haben.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 Administratoren können alle Personen auf einer laufenden Kampagne sehen.
 
