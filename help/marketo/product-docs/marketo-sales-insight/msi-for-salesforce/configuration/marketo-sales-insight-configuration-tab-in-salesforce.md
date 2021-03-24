@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Registerkarte "Konfiguration von Marketo Sales Insight"in Salesforce - Marketo Docs - Produktdokumentation
 title: Registerkarte "Konfiguration von Marketo Sales Insight" in Salesforce
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht spezifisch für Pro
 
 * Anstehende Ereignisse: Möglichkeit, eingeladene Ereignis, alle Ereignis für Benutzer oder diese Registerkarte vollständig auszublenden
 * Anstehende Kampagnen: Möglichkeit, alle E-Mail-Kampagnen anzuzeigen oder diese Registerkarte vollständig auszublenden
+* Anstehende Kampagnen und Ereignis laden: Möglichkeit, die Anzahl der REST-API-Aufrufe durch Benutzer zu reduzieren, indem die Registerkarte &quot;Ereignis und Kampagnen&quot;hinter der Schaltfläche &quot;Anstehende Elemente laden&quot;platziert wird
 * Registerkarteneinstellungen - Alle 5 Registerkarten sind standardmäßig verfügbar. Alle 5 Registerkarten sind standardmäßig verfügbar. Sie können die Reihenfolge der Registerkarten im Bereich Sales Insight auswählen. Die gleiche Bestellung gilt für alle Layouts (Lead, Kontakt, Konto, Gelegenheit)
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht spezifisch für Pro
 Wenn Sie sich dafür entscheiden, werden alle Konfigurationen im SFDC gelöscht und können nicht wiederhergestellt werden. Sie müssen alles erneut konfigurieren.
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[Einrichten von Sales Insight für Ihr Team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
