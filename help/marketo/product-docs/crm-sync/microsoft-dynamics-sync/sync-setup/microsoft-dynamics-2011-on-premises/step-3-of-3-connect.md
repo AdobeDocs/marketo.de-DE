@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: Schritt 3 von 3 - Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011) - Marketing Docs - Produktdokumentation
 title: Schritt 3 von 3 - Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,9 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;user@domain.com&quot;oder &quot;DOMAIN\user&quot;lauten.
+   >* Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;`user@domain.com`&quot;oder &quot;DOMAIN\user&quot;lauten.
+   >* Wenn Sie die URL nicht kennen, [erfahren Sie, wie Sie sie hier finden.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
 
-   >[!TIP]
-   >
-   >Kennst du die URL nicht? Wir zeigen Ihnen, wie Sie die [Dynamics Organisationsdienst-URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier finden.
 
 ## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
 
@@ -70,6 +68,10 @@ Jetzt müssen wir die Felder auswählen, über die wir synchronisieren möchten.
 1. Es gibt vorab ausgewählte Felder, die synchronisiert werden. hinzufügen Sie weitere Informationen und klicken Sie auf **Speichern**.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
+
+   >[!NOTE]
+   >
+   >Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit [sync deaktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) zu tun. Aktualisieren Sie anschließend das Schema in Marketo, indem Sie die Felder [Zu synchronisierende Felder auswählen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) bearbeiten und speichern.
 
 ## Synchronisieren von Feldern für einen benutzerspezifischen Filter {#sync-fields-for-a-custom-filter}
 
