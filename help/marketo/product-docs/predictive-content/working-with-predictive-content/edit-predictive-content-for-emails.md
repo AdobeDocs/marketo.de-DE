@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: Predictive Inhalte für E-Mails bearbeiten - Marketing-Dokumente - Produktdokumentation
 title: Predictive Inhalte für E-Mails bearbeiten
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ So richten Sie Ihren vorhersagenden Inhalt für E-Mails ein:
 1. Um die Bild-URL hinzuzufügen oder zu bearbeiten, klicken Sie auf **Bild bearbeiten**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >Um eine optimale Qualität zu gewährleisten, muss das Bild mindestens 400 x 400 Pixel groß sein.
 
 1. Fügen Sie die Bild-URL ein und klicken Sie auf **Hinzufügen**.
 
