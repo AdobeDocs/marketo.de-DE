@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Aktualisieren Sie Ihre MarketingTo E-Mail-Hinzufügen für Outlook - Marketing Docs - Produktdokumentation
 title: Upgrade Ihres MarketingTo E-Mail-Hinzufügen für Outlook
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Aktualisieren Sie Ihr Marketing-E-Mail-Hinzufügen für Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Wenn eine neue Version des Marketing-E-Mail-Hinzufügen für Outlook verfügbar ist, befolgen Sie diese Anweisungen zum Aktualisieren.
+
+>[!NOTE]
+>
+>Ab dem 20.1.2010 unterstützt die neueste Version des Outlook-Plugins den Offlinemodus nicht mehr. Dies wird nach der Installation/Aktualisierung am oder nach dem 10.1. wirksam.
 
 ## Installationsprogramm herunterladen {#download-installer}
 
@@ -90,13 +94,6 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365 (nur Windows)</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-  </tr> 
-  <tr> 
    <td>Outlook für Mac</td> 
    <td>Nicht unterstützt</td> 
    <td>Nicht unterstützt</td> 
@@ -110,10 +107,23 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
    <td colspan="1">Nicht unterstützt</td> 
    <td colspan="1">Nicht unterstützt</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Office 365-Version: Nur Windows-Client (unter Windows 10, Enterprise oder Pro).
+
 ## Upgrade {#upgrade}
+
+1. Identifizieren Sie die [Microsoft Outlook-Version](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+
+1. Wählen Sie Ihre Version aus der obigen Liste aus.
 
 1. Führen Sie das Installationsprogramm aus.
 
