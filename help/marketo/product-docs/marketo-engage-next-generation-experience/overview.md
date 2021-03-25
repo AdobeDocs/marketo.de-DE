@@ -2,9 +2,9 @@
 description: Übersicht - Marketing-Dokumente - Produktdokumentation
 title: Übersicht
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Die neue Benutzeroberfläche bietet verbesserte und erweiterte Ikonografie. Weit
 
 **Baum**
 
-Auch der Baum wurde aktualisiert. Zu diesem Zeitpunkt steht das Ziehen und Ablegen jedoch nicht zur Verfügung. Sie können jedoch weiterhin Assets verschieben. Erfahren Sie, wie: [Verschieben von Assets](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+Auch der Baum wurde aktualisiert.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Es gibt eine Menge neuer Baumfunktionen.
   <tr>
    <td>Drag &amp; Drop von einem Baum zum Einsatzstream</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Drag &amp; Drop in der Struktur</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Nach Asset-Typ und Status filtern</td> 
@@ -194,7 +194,7 @@ Sehen Sie sich die neue globale Nav an.
    <td>Alle vorherigen, oben aufgelisteten Superball-Artikel</td> 
   </tr>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Verwenden Sie diese Option, um Feedback zu Ihrem MEUE-Erlebnis zu erhalten</td> 
   </tr>
   <tr>
