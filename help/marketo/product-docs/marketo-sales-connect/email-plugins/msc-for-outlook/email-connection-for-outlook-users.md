@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: E-Mail-Verbindung für Outlook-Benutzer - Marketing-Dokumente - Produktdokumentation
 title: E-Mail-Verbindung für Outlook-Benutzer
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ Eine Verbindung mit Outlook bedeutet, dass Sie Antworten verfolgen, auf den Outl
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** | Auch als Office Online bekannt |
-   |---|---|
-   | **Austausch vor Ort** | Umfasst Exchange 2013 und 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Auch bekannt als Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Austausch vor Ort</strong></td> 
+      <td>Umfasst Exchange 2013 und 2016</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >Marketo unterstützt derzeit keine Exchange Hybrid-Konten.
 
 1. Klicken Sie auf **OK**.
 
@@ -67,7 +80,7 @@ Eine Verbindung mit Outlook bedeutet, dass Sie Antworten verfolgen, auf den Outl
 
    >[!NOTE]
    >
-   >Wenn Sie Outlook als Versand-Kanal verwenden, können Sie nicht mehr als 300 Massen-E-Mails gleichzeitig senden.
+   >Outlook Online (Office365) setzt eigene Sendeschränkungen um. [Weitere Informationen finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Verbindung zu Exchange On-Premise {#connecting-to-exchange-on-premise}
 
@@ -97,10 +110,18 @@ Eine Verbindung mit Exchange On-Premise bedeutet, dass Sie Antworten verfolgen, 
 
    ![](assets/six-b.png)
 
-   | Version | Beschreibung |
-   |---|---|
-   | **Outlook Online** | Auch als Office Online bekannt |
-   | **Austausch vor Ort** | Umfasst Exchange 2013 und 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Auch bekannt als Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Austausch vor Ort</strong></td> 
+      <td>Umfasst Exchange 2013 und 2016</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. Geben Sie Ihre Anmeldeinformationen ein und klicken Sie auf **Verbinden**.
 
@@ -114,4 +135,4 @@ Eine Verbindung mit Exchange On-Premise bedeutet, dass Sie Antworten verfolgen, 
 
    >[!NOTE]
    >
-   >Wenn Sie Outlook als Versand-Kanal verwenden, können Sie nicht mehr als 300 Massen-E-Mails gleichzeitig senden.
+   >Wenn Sie Exchange On-prem verwenden, wird Ihr IT-Team Ihren E-Mail-Versand-Grenzwert festlegen.
