@@ -1,14 +1,14 @@
 ---
 title: local-assets-in-a-Programm
 description: Lokale Assets in einem Programm
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # Lokale Assets in einem Programm
 
@@ -21,9 +21,9 @@ Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpa
 * [Intelligente Kampagnen](https://docs.marketo.com/display/MER/Smart+Campaigns)
 * [Listen](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)
 * [E-Mail-Programme](https://docs.marketo.com/display/DOCS/Email+Programs)
-* [Email](https://docs.marketo.com/display/DOCS/Create+an+Email+for+an+Email+Program)
-* [Landingpage](https://docs.marketo.com/display/DOCS/Landing+Pages)
-* [Forms](https://docs.marketo.com/display/DOCS/Forms)
+* [E-Mail](https://docs.marketo.com/display/DOCS/Create+an+Email+for+an+Email+Program)
+* [Landing Page](https://docs.marketo.com/display/DOCS/Landing+Pages)
+* [Formulare](https://docs.marketo.com/display/DOCS/Forms)
 
 >[!IMPORTANT]
 >
