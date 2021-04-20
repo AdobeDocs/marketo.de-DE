@@ -1,20 +1,20 @@
 ---
 title: add-people-to-an-engagement-Programm
 description: hinzufügen von Personen zu einem Interaktions-Programm
+exl-id: 9de84f38-06b1-4e66-ac35-8573e84d0e4a
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # hinzufügen von Personen zu einem Interaktions-Programm
 
 Es gibt mehrere Möglichkeiten, wie Menschen Mitglieder eines Interaktionskonzepts werden können:
 
-* [Programm Hinzufügen Interaktion](https://docs.marketo.com/display/DOCS/Add+to+Engagement+Program)
+* [Zu Engagement-Programm hinzufügen](https://docs.marketo.com/display/DOCS/Add+to+Engagement+Program)
 * [Schritt zum Ändern des Interaktions-Programm ](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) Cadenceflow
 * [Schritt zum Ändern des Interaktions-Programm-](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream) Streamflows
 * [Schritt ](https://docs.marketo.com/display/DOCS/Change+Program+Status) zum Ändern des Status des Programms
