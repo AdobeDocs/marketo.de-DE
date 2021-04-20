@@ -1,20 +1,20 @@
 ---
 title: save-flow-actions
 description: Speichern von Flussaktionen
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
 # Speichern von Flussaktionen
 
 <br> 
 
-Flussschritte sagen Marketo, was Sie möchten, mit einer Gruppe von Personen geschehen, die sich qualifizieren (die Personen, die Sie in der intelligenten Liste ausgewählt haben). Das Speichern eines bestimmten Flusses spart Zeit.
+Die Flussschritte teilen Marketo mit, was Sie einer Gruppe von Personen, die sich qualifizieren (die Personen, die Sie in der intelligenten Liste ausgewählt haben), vorziehen möchten. Das Speichern eines bestimmten Flusses spart Zeit.
 
 ## Speichern von Flussaktionen
 
@@ -32,7 +32,7 @@ Flussschritte sagen Marketo, was Sie möchten, mit einer Gruppe von Personen ges
 
    ![Bild vier](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Wenn Sie mit dem Hinzufügen von Filtern/Auslösern fertig sind, klicken Sie auf die Dropdownliste **[!UICONTROL Aktionen mit intelligenter Kampagne]** und wählen Sie **[!UICONTROL Neuen Fluss speichern]**.
+1. Wenn Sie mit dem Hinzufügen von Filtern/Triggern fertig sind, klicken Sie auf die Dropdownliste **[!UICONTROL Aktionen mit intelligenter Kampagne]** und wählen Sie **[!UICONTROL Neuen Fluss speichern]**.
 
    ![Bild fünf](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
