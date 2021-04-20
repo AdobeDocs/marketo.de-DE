@@ -1,14 +1,14 @@
 ---
 title: my-token-email-script
 description: Mein Token-E-Mail-Skript
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Mein Token: Email-Skript
 
@@ -34,7 +34,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen, die Ihnen helfen:
 
-   * [Marketing-Entwickler - E-Mail-Skriptdokumentation](https://developers.marketo.com/email-scripting/)
+   * [Dokumentation für Marketo-Entwickler zur E-Mail-Skripterstellung](https://developers.marketo.com/email-scripting/)
    * [Velocity Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity Reference Guide](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0-Dokumentation](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
