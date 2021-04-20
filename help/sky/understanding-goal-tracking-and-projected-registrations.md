@@ -1,24 +1,24 @@
 ---
 title: understand-target-tracking-and-projiziert-registrations
 description: Erläuterung der Zielverfolgung und der geplanten Registrierungen
+exl-id: 65064cbd-2ed7-45d5-aab9-4fc865e2bed6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
 
 ---
 
-
 # Erläuterung der Zielverfolgung und der geplanten Registrierungen
 
 <br> 
 
-Nach dem Festlegen von Ereignis-Zielen[ und dem Senden von Einladungen durch eine ](/help/sky/setting-event-goals.md)intelligente Kampagne[ können Sie hier erfahren, wie Sie Ihren Zielfortschritt verfolgen und Marketo-Prognosen verstehen.](/help/sky/create-a-smart-campaign.md)
+Nach dem Festlegen von Ereignis-Zielen](/help/sky/setting-event-goals.md) und dem Senden von Einladungen durch eine [intelligente Kampagne](/help/sky/create-a-smart-campaign.md) können Sie hier erfahren, wie Sie Ihren Zielfortschritt verfolgen und die Vorhersagen von Marketo verstehen.[
 
 >[!NOTE]
 >
->Wenn ein Ereignis-Programm im Marketing Classic-Erlebnis erstellt wird, ist das Ereignis-Beginn derzeit standardmäßig auf das Erstellungsdatum des Ereignisses eingestellt. Da bei den projizierten Registrierungen die Zeit vor dem Beginn eines Ereignisses berücksichtigt wird, sind diese Zahlen möglicherweise nicht korrekt, wenn das Beginn- und Erstellungsdatum identisch sind (sofern sie nicht absichtlich festgelegt wurden).
+>Wenn ein Ereignis-Programm im Marketo Classic-Erlebnis erstellt wird, ist das Ereignis-Beginn derzeit standardmäßig auf das Erstellungsdatum des Ereignisses eingestellt. Da bei den projizierten Registrierungen die Zeit vor dem Beginn eines Ereignisses berücksichtigt wird, sind diese Zahlen möglicherweise nicht korrekt, wenn das Beginn- und Erstellungsdatum identisch sind (sofern sie nicht absichtlich festgelegt wurden).
 
 ## Zielverfolgung und geplante Registrierungen
 
@@ -54,14 +54,14 @@ Bei der Berechnung ähnlicher Programm werden unter anderem folgende Faktoren be
 
 * Programm
 * Programm Kanal
-* Audience
+* Zielgruppengröße
 * Programm-Tags
 * Zeitdauer von der Erstellung des Ereignisses bis zum Beginn des Ereignisses
 * Dauer des Ereignisses
 
    ![Bild fünf](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-5.png)
 
-## Recommendations
+## Empfehlungen
 
 Oben auf der Seite &quot;Berichte&quot;finden Sie AI/ML-basierte Empfehlungen, die auf Ihrem Fortschritt basieren. Schauen Sie regelmäßig vorbei, um hilfreiche Tipps und Einblicke zu erhalten!
 
