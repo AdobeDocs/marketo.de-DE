@@ -1,14 +1,14 @@
 ---
 title: erwartet-Verhalten
 description: Erwartetes Verhalten
+exl-id: 8f6d12e4-851c-43d8-a5cf-053887517aaa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Erwartetes Verhalten
 
@@ -23,7 +23,7 @@ In diesem Artikel finden Sie Informationen zum erwarteten Verhalten in Verbindun
 
 ## Bei Predictive-Audiencen ist folgendes Verhalten zu erwarten:
 
-* PA ist sowohl im Marketo Sky als auch im Marketo Classic-Erlebnis verfügbar. Die Verfügbarkeit spezifischer Funktionen ist wie folgt:
+* PA ist sowohl im Marketo Sky- als auch im Marketo Classic-Erlebnis verfügbar. Die Verfügbarkeit spezifischer Funktionen ist wie folgt:
    * Prognostische Filter - [!DNL Sky/Classic]
    * Projizierte Registrierungen - [!DNL Sky/Classic]
    * Prognosen zur Wahrscheinlichkeit auf Interessentenebene - [!DNL Sky/Classic]
@@ -36,7 +36,7 @@ In diesem Artikel finden Sie Informationen zum erwarteten Verhalten in Verbindun
 
 * Filter mit Registrierungs- und Teilnehmerwahrscheinlichkeit können nur mit Ereignis- oder Webinar-Programmen verwendet werden. Lookalike- und Unsubscribe-Filter können in E-Mail-, Ereignis- und Webinar-Programmen verwendet werden.
 * Sie können prädiktive Filter auf eine intelligente Kampagne anwenden, selbst wenn das übergeordnete Programm erstellt wurde, bevor die Filter für die Vorhersage aktiviert wurden.
-* Predictive Filter sind nicht für Auslöser-Kampagnen verfügbar.
+* Predictive Filter sind nicht für Trigger-Kampagnen verfügbar.
 * Um eine intelligente Kampagne auszuführen, müssen die Filter mit hoher Wahrscheinlichkeit zusammen mit anderen regulären Filtern verwendet werden.
 * Die Funktion Gespeicherte Regeln steht nicht zur Verwendung in Kampagnen zur Verfügung, die prädiktive Filter enthalten.
 * Sie können in einer intelligenten Liste **bis zu 5** Vorhersagekräftige Filter verwenden.
