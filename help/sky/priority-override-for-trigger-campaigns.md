@@ -1,24 +1,24 @@
 ---
-title: priority-override-for-trigger-Kampagnen
-description: Prioritätsabweichung für Auslöser-Kampagnen
+title: priority-override-for-Trigger-Kampagnen
+description: Prioritätsabweichung für Trigger-Kampagnen
+exl-id: 4468868c-33d7-4b5e-b524-bfcc2785c8ce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
-
-# Prioritätsabweichung für Auslöser-Kampagnen
+# Prioritätsabweichung für Trigger-Kampagnen
 
 <br> 
 
-Administratoren können Marketos festgelegte Priorität für auslösende Kampagnen außer Kraft setzen, um Prioritäten festzulegen, die besser mit Geschäftszielen übereinstimmen.
+Administratoren können Marketos festgelegte Priorität für Trigger-Kampagnen überschreiben, um Prioritäten festzulegen, die besser mit den Geschäftszielen in Einklang stehen.
 
 >[!NOTE]
 >
->Diese Funktion steht nur für Trigger-Kampagnen und für Benutzer zur Verfügung, denen die Berechtigung &quot;Kampagne bearbeiten&quot;erteilt wurde.
+>Diese Funktion steht nur für Trigger-Kampagnen und für Benutzer zur Verfügung, denen die Berechtigung &quot;Trigger-Kampagne bearbeiten&quot;erteilt wurde.
 
 >[!CAUTION]
 >
@@ -26,7 +26,7 @@ Administratoren können Marketos festgelegte Priorität für auslösende Kampagn
 
 ## Priorität außer Kraft setzen
 
-1. Klicken Sie in der Kampagne des Auslösers auf die Registerkarte **[!UICONTROL Plan]** und dann auf **[!UICONTROL Priorität außer Kraft setzen]**.
+1. Klicken Sie in der Kampagne Ihres Triggers auf die Registerkarte **[!UICONTROL Plan]** und dann auf **[!UICONTROL Priorität außer Kraft setzen]**.
 
    ![Bild eins](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
@@ -44,7 +44,7 @@ Administratoren können Marketos festgelegte Priorität für auslösende Kampagn
 
 ## Priorität zurücksetzen
 
-1. Um die Systemstandardpriorität zurückzusetzen, wechseln Sie zur Registerkarte **[!UICONTROL Plan]** in Ihrer Auslöser-Kampagne und klicken Sie auf **[!UICONTROL Kampagne zurücksetzen]**.
+1. Um die Systemstandardpriorität zurückzusetzen, wechseln Sie zur Registerkarte **[!UICONTROL Plan]** in der Kampagne Ihres Triggers und klicken Sie auf **[!UICONTROL Kampagne zurücksetzen]**.
 
    ![Bild vier](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
@@ -70,13 +70,13 @@ Administratoren können Marketos festgelegte Priorität für auslösende Kampagn
 
    ![Bild sieben](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Markieren Sie unter [!UICONTROL Zugriff auf Marketing-Aktivitäten] **[!UICONTROL Kampagnen-Priorität bearbeiten]**. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Markieren Sie unter [!UICONTROL Zugriff auf Marketing-Aktivitäten] **[!UICONTROL Kampagne des Triggers bearbeiten]**. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Bild acht](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
-## Priorität der Kampagne von Ansichten in Marketing Classic
+## Priorität der Kampagne der Ansicht in Marketo Classic
 
-Sie können die Priorität der Kampagne im Erlebnis [!DNL Classic] durch Klicken auf die Registerkarte **[!UICONTROL Planen]** in einer Auslöser-Kampagne festlegen.
+Sie können die Priorität der Kampagne im Erlebnis [!DNL Classic] durch Klicken auf die Registerkarte **[!UICONTROL Planen]** in einer Trigger-Kampagne festlegen.
 
 ![Bild neun](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
