@@ -1,20 +1,20 @@
 ---
 title: add-and-remove-label
 description: hinzufügen und Entfernen von Bezeichnungen
+exl-id: 9a1664ac-d346-4c0d-badc-0cbca767e740
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # hinzufügen und Entfernen von Bezeichnungen
 
 Sie können jedem Asset unter [!UICONTROL Marketing-Aktivitäten] Beschriftungen zuweisen, wodurch die Organisation und Suche von Assets eine Brise wird.
 
-## hinzufügen
+## Beschriftungen hinzufügen
 
 Um einem Asset neue Beschriftungen hinzuzufügen, navigieren Sie zur Seite [!UICONTROL Details] des Assets unter der Registerkarte [!UICONTROL Übersicht].
 <br> 
