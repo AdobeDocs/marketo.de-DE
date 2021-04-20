@@ -1,14 +1,14 @@
 ---
 title: using-the-Programm-setup-tab
 description: Registerkarte "Programm-Setup"
+exl-id: fe3c092f-aeb1-4450-9827-b4b8f6163196
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # Registerkarte &quot;Programm-Setup&quot;
 
@@ -44,7 +44,7 @@ Um den Kanal Ihres Programms zu ändern, wählen Sie oben auf der Seite aus der 
 
 >[!NOTE]
 >
->Erfahren Sie, wie Sie [Programm-Tags in Marketing Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) erstellen und sie in der Dropdown-Liste verfügbar machen.
+>Erfahren Sie, wie Sie in Marketo Classic [Programm-Tags erstellen und diese in der Dropdown-Liste verfügbar machen.](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)
 
 ## hinzufügen
 
