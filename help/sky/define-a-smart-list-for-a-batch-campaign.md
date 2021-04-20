@@ -1,20 +1,20 @@
 ---
 title: define-a-smart-Liste-for-a-batch-Kampagne
 description: Definieren einer intelligenten Liste für eine Batch-Kampagne
+exl-id: 35130f40-cce5-4677-8eaf-f9d73c995ba3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-
 # Definieren einer intelligenten Liste für eine Batch-Kampagne
 
 <br> 
 
-Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot;(welche Personen) definiert werden soll, ob es sich um einen Bericht, eine Liste oder eine intelligente Kampagne handelt. So definieren Sie eine intelligente Liste für eine Batch-Kampagne.
+Intelligente Listen sind der Mechanismus in Marketo, um zu definieren, wer (welche Personen) eingeschlossen werden soll, ob es sich um einen Bericht, eine Liste oder eine intelligente Kampagne handelt. So definieren Sie eine intelligente Liste für eine Batch-Kampagne.
 
 1. Wählen Sie eine intelligente Kampagne und klicken Sie dann auf **[!UICONTROL Intelligente Liste]**.
 
@@ -30,7 +30,7 @@ Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot
 
    >[!IMPORTANT]
    >
-   >Sie können eine intelligente Kampagne basierend auf Live-Ereignissen einzeln ausführen, indem Sie Auslöser hinzufügen, wodurch die intelligente Kampagne im Auslösermodus ausgeführt wird.
+   >Sie können eine intelligente Kampagne auf der Grundlage von Live-Ereignissen einzeln ausführen lassen, indem Sie Trigger hinzufügen, wodurch die intelligente Kampagne im Trigger-Modus ausgeführt wird.
 
 1. Klicken Sie auf die Dropdownliste und wählen Sie einen Filteroperator (z. B. **[!UICONTROL ist]**, **[!UICONTROL ist nicht]** usw.) für den ausgewählten Filter.
 
@@ -49,4 +49,4 @@ Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot
 >Standardmäßig sind Personen, die ALLE Regeln der intelligenten Liste erfüllen,
 >qualifiziert. Dies kann an Ihre Kampagne angepasst werden. Weitere Informationen finden Sie unter [Intelligente Liste für Complex Logic](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic).
 >
->Erfahren Sie, wie Sie bei Live-Ereignissen jeweils eine Person auslösen können, indem Sie [Intelligente Liste für intelligente Kampagne definieren | Auslöser](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger).
+>Um auf Live-Ereignissen einzeln Trigger, lernen Sie [Intelligente Liste für intelligente Kampagne definieren. | Trigger](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger).
