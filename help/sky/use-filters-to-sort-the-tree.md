@@ -1,14 +1,14 @@
 ---
 title: use-Filters-to-sort-the-tree
 description: Filter zum Sortieren der Struktur verwenden
+exl-id: bdf6563b-85eb-49d5-8afa-09dcd22f1455
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Filter zum Sortieren der Struktur verwenden
 
@@ -28,7 +28,7 @@ Standardmäßig lädt Marketo alle Inhalte der letzten sechs Monate. Um dies zu 
 
 ![Bild zwei](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
-## Beschriftungen
+## Labels
 
 Geben Sie eine Bezeichnung ein, nach der Sie sortieren möchten, und wählen Sie aus den verfügbaren Beschriftungen in Ihrer Instanz aus.
 
@@ -44,6 +44,6 @@ Markieren Sie die Kästchen, um nach verschiedenen Inhaltstypen zu filtern.
 
 ![Bild fünf](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-5.png)
 
-Sie können diese Filter auch weiter verfeinern, indem Sie auf den Pfeil neben einem Inhaltstyp klicken und aus den verfügbaren Optionen wählen. Sie können beispielsweise nach Kampagnen-Status sowohl nach Batch- als auch nach Auslöserungs-Kampagnen filtern.
+Sie können diese Filter auch weiter verfeinern, indem Sie auf den Pfeil neben einem Inhaltstyp klicken und aus den verfügbaren Optionen wählen. Sie können beispielsweise nach Kampagne-Status sowohl nach Stapel- als auch nach Trigger-Kampagnen filtern.
 
 ![Bild sechs](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-6.png)
