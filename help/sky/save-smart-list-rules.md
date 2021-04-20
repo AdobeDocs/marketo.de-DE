@@ -1,14 +1,14 @@
 ---
 title: save-smart-Liste-rules
 description: Intelligente Listen speichern
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # Intelligente Listen speichern
 
@@ -26,13 +26,13 @@ Die Speicherung intelligenter Listen ist eine großartige Möglichkeit, sich wer
 
    ![Bild zwei](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
-1. hinzufügen Sie die gewünschten Filter/Auslöser.
+1. hinzufügen Sie die gewünschten Filter/Trigger.
 
    ![Bild drei](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-3.png)
 
    ![Bild vier](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Wenn Sie mit dem Hinzufügen von Filtern/Auslösern fertig sind, klicken Sie auf die Dropdownliste **[!UICONTROL Aktionen mit intelligenter Kampagne]** und wählen Sie **[!UICONTROL Regel für intelligente Liste speichern]**.
+1. Wenn Sie mit dem Hinzufügen von Filtern/Triggern fertig sind, klicken Sie auf die Dropdownliste **[!UICONTROL Aktionen mit intelligenter Kampagne]** und wählen Sie **[!UICONTROL Regel für intelligente Liste speichern]**.
 
    ![Bild fünf](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -66,4 +66,4 @@ Und das ist es! Wenn Sie das nächste Mal eine intelligente Kampagne erstellen, 
 
 >[!CAUTION]
 >
->Durch das Übergeben einer Regel werden keine vorhandenen Auslöser/Filter ersetzt, sondern hinzugefügt.
+>Wenn Sie eine Regel übernehmen, werden keine vorhandenen Trigger/Filter ersetzt, sondern hinzugefügt.
