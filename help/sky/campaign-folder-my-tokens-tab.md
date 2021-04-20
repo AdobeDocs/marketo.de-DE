@@ -1,14 +1,14 @@
 ---
-title: kampagne-folder-my-tokens-tab
+title: Kampagne-folder-my-tokens-tab
 description: Registerkarte "Eigene Token"für Kampagne-Ordner
+exl-id: 41ea3c52-4864-4148-ba3b-21cb6f8b6b66
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Kampagnen-Ordner: Registerkarte &quot;Meine Token&quot;
 
@@ -22,6 +22,6 @@ Um zu ermitteln, wo Ihre My Tokens verwendet werden, wählen Sie ein My Token au
 
 ![Bild drei](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-3.png)
 
-**Tieftauchen**
+**Vertiefung**
 
 Erfahren Sie mehr über die Verwendung von [My Tokens](/help/sky/understanding-my-tokens.md).
