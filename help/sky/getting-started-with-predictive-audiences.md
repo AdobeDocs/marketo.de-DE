@@ -1,14 +1,14 @@
 ---
 title: getting-started-with-Predictive-Audiencen
 description: Erste Schritte mit Prognostischen Audiencen
+exl-id: 18dd4bd3-4557-4c53-ae44-9cf8abce9f53
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Erste Schritte mit Prognostischen Audiencen
 
@@ -21,7 +21,7 @@ PA umfasst die folgenden Funktionen:
 * [Zielverfolgung und geplante Registrierungen](/help/sky/understanding-goal-tracking-and-projected-registrations.md)
 * AI/ML-basierte Einblicke
 * Registrierungs- und Anwesenheitswahrscheinlichkeitswerte für jeden Interessenten in einem Ereignis-Programm
-* [Prognostizierende Filter](/help/sky/predictive-filters.md)
+* [Vorhersagefilter](/help/sky/predictive-filters.md)
 
 Die Performance der AI/ML-Modelle hängt von den Daten in Ihrem Abonnement ab. Je häufiger ein Abonnement verwendet wird, desto besser wird es an Ihre spezifischen Daten und Geschäftsabläufe angepasst.
 
