@@ -1,18 +1,18 @@
 ---
 title: add-a-flow-step-to-a-smart-Kampagne
 description: hinzufügen eines Flussschritts zu einer intelligenten Kampagne
+exl-id: 4f8fbe72-0471-41e1-9ef6-156a21fadb6e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # hinzufügen eines Flussschritts zu einer intelligenten Kampagne
 
-Flussschritte sagen Marketo, was Sie einer Gruppe von Personen, die sich qualifizieren, zustoßen möchten.
+Die Flussschritte teilen Marketo mit, was Sie einer Gruppe von Personen, die sich qualifizieren, vorziehen möchten.
 
 ## hinzufügen eines Flussschritts
 
@@ -24,7 +24,7 @@ Flussschritte sagen Marketo, was Sie einer Gruppe von Personen, die sich qualifi
 
    ![Bild zwei](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-2.png)
 
-**Tieftauchen**
+**Vertiefung**
 
 Erfahren Sie mehr über die verschiedenen [Flussschritte](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
