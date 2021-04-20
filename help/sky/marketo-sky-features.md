@@ -1,14 +1,14 @@
 ---
 title: marketo-sky-Funktionen
 description: Funktionen von Marketo Sky
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
-
 
 # Funktionen von Marketo Sky
 
@@ -21,47 +21,47 @@ Nachfolgend finden Sie die verfügbaren Informationen unter [!DNL Marketo Sky].
    * Alle reduzieren
    * Ikonografie
 * Globale Suche
-* Beschriftungen
+* Labels
 
 ## Personalisierung
 
-* Meine MarketWidgets
-   * Bald ablaufen
+* Meine Marketo Widgets
+   * Läuft bald ab
    * Navigation
-   * Status der Marke
+   * Marketo-Status
    * Community-Blog-Beiträge
-* Meine Marketing-to-Personalisierte Ansichten
+* Meine Marketo-Ansichten
 
-## Marketing-Aktivitäten
+## Marketingaktivitäten
 
 * Marketing-Aktivitäten - Startseite
    * Kürzlich aktualisierte Programm und Assets
    * Heute geplant
-   * Aktive Auslöser-Kampagnen gesamt
+   * Gesamtzahl der aktiven Auslöser-Kampagnen
 * Intelligente Kampagnen
    * Gespeicherte Regeln
    * Gespeicherte Abläufe
-* Interaktions-Programme
+* Engagementprogramme
 * E-Mail-Programme
    * In Zeitzonenberichten des Empfängers bereitstellen
-* Standardmäßige Programm
-* Ereignis-Programm
+* Standardprogramme
+* Veranstaltungsprogramme
 * Alle Programm verfügen über Massenaktionen und Asset-Ablauf
 * Arbeitsflächendetails
 * Programm-Ordner
 * Kampagnen-Ordner (ohne Registerkarte &quot;Ergebnisse&quot;)
 * Asset-Details-Seiten
-   * Email
-   * Landingpage
-   * Formblatt
+   * E-Mail
+   * Landing Page
+   * Formular
    * Statische Liste
    * Intelligente Liste
-* Tokens
+* Token
    * Token-Ordner
    * Link-Token
    * Token importieren
 
-## Design Studio
+## Design-Studio
 
 * Design Studio - Startseite
    * Letzte Assets
