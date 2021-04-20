@@ -1,14 +1,14 @@
 ---
 title: create-a-basic-entry-in-Programm-schedule-Ansicht
 description: Erstellen eines einfachen Eintrags in der Ansicht "Programmplanung"
+exl-id: c4b089f0-aaaa-42e8-8eb9-8b53dbd6a2d5
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines einfachen Eintrags in der Ansicht &quot;Programmplanung&quot;
 
