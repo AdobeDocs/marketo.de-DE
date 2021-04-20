@@ -7,18 +7,18 @@ translation-type: tm+mt
 source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 
 # Marketo Sky Docs {#sky}
 
-+ [Home](home.md)
++ [Startseite](home.md)
 + Erste Schritte {#getting-started}
    + [Funktionen von Marketo Sky](marketo-sky-features.md)
    + [Erste Schritte](how-to-enable-roles-for-marketo-sky.md)
-+ Ereignis-Programm {#event-programs}
++ Veranstaltungsprogramme {#event-programs}
    + [Festlegen einer Ereignis-Cap](setting-an-event-cap.md)
    + [Festlegen von Ereignis-Zielen](setting-event-goals.md)
 + Kampagnen-Ordner {#campaign-folders}
@@ -29,8 +29,8 @@ ht-degree: 0%
    + [Erstellen eines Kampagnen-Ordners](create-a-campaign-folder.md)
 + Design Studio {#design-studio}
    + [Assets mit Adobe Experience Manager importieren](importing-assets-with-adobe-experience-manager.md)
-   + [Markieren in Bild-Editor](marketo-image-editor.md)
-+ Interaktions-Programm {#engagement-programs}
+   + [Marketo Image Editor](marketo-image-editor.md)
++ Engagementprogramme {#engagement-programs}
    + [Stream-Inhalte aktivieren und deaktivieren](activate-and-deactivate-stream-content.md)
    + [hinzufügen eines Streams zu einem Interaktions-Programm](add-a-stream-to-an-engagement-program.md)
    + [hinzufügen von Inhalten in einen Interaktions-Stream](add-content-to-an-engagement-stream.md)
@@ -51,11 +51,11 @@ ht-degree: 0%
    + [Einblick in die Programme der Interaktion](understanding-engagement-programs.md)
    + [Einsatzergebnis](understanding-the-engagement-score.md)
    + [Verwenden eines Programms in einem Interaktions-Programm-Stream](using-a-program-in-an-engagement-program-stream.md)
-+ Beschriftungen {#labels}
++ Labels {#labels}
    + [hinzufügen und Entfernen von Bezeichnungen](add-and-remove-labels.md)
    + [Kopieren von Bezeichnungen von Original in Klon](copy-labels-from-original-to-clone.md)
    + [Kopieren von Beschriftungen von &quot;Übergeordnet&quot;in &quot;Untergeordnet&quot;](copy-labels-from-parent-to-child.md)
-+ Meine Tokens {#my-tokens}
++ Meine Token {#my-tokens}
    + [Meine Token-Ordner erstellen](create-my-token-folders.md)
    + [Meine Token-Aktionen: Bearbeiten, Löschen, Klonen und Kopieren von Token-Namen](my-token-actions-edit-delete-clone-and-copy-token-names.md)
    + [Mein Token: Kalenderdatei](my-token-calendar-file.md)
@@ -72,11 +72,11 @@ ht-degree: 0%
    + [My Tokens](understanding-my-tokens.md)
 + Prognostische Audiencen {#predictive-audiences}
    + [Erste Schritte mit Prognostischen Audiencen](getting-started-with-predictive-audiences.md)
-   + [Prognostizierende Filter](predictive-filters.md)
+   + [Vorhersagefilter](predictive-filters.md)
    + [Erwartetes Verhalten](expected-behavior.md)
    + [Modellgesundheit und Datenvalidierung](model-health-and-data-validity.md)
    + [Erläuterung der Zielverfolgung und der geplanten Registrierungen](understanding-goal-tracking-and-projected-registrations.md)
-+ Programm {#programs}
++ Programme {#programs}
    + [Programm archivieren](archive-a-program.md)
    + [Neues Programm erstellen](create-a-new-program.md)
    + [Löschen eines Programms](delete-a-program.md)
@@ -85,14 +85,14 @@ ht-degree: 0%
    + [Lokale Assets: Massenaktionen](local-assets-mass-actions.md)
    + [Registerkarte &quot;Programm-Übersicht&quot;](using-the-program-overview-tab.md)
    + [Registerkarte &quot;Programm-Setup&quot;](using-the-program-setup-tab.md)
-+ Programmplanung Ansicht {#program-schedule-view}
++ Ansicht des Programmplans {#program-schedule-view}
    + [Erstellen eines einfachen Eintrags in der Ansicht &quot;Programmplanung&quot;](create-a-basic-entry-in-program-schedule-view.md)
    + [Erstellen einer Stapel-Smart-Kampagne in der Ansicht &quot;Programmplanung&quot;](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [E-Mail-Programm in der Ansicht &quot;Programmplanung&quot;erstellen](create-an-email-program-in-program-schedule-view.md)
    + [Löschen eines Eintrags in der Ansicht &quot;Programmplanung&quot;](delete-an-entry-in-program-schedule-view.md)
    + [Bearbeiten eines Eintrags in der Ansicht &quot;Programmplanung&quot;](edit-an-entry-in-program-schedule-view.md)
    + [Navigieren in der Ansicht der Programmplanung](navigating-program-schedule-view.md)
-+ Smart-Kampagnen {#smart-campaigns}
++ Intelligente Kampagnen {#smart-campaigns}
    + [Aktivieren/Deaktivieren einer intelligenten Trigger-Kampagne](activate-deactivate-a-trigger-smart-campaign.md)
    + [hinzufügen eines Flussschritts zu einer intelligenten Kampagne](add-a-flow-step-to-a-smart-campaign.md)
    + [Kommunikationsbeschränkungen auf intelligente Kampagnen anwenden](apply-communication-limits-to-a-smart-campaign.md)
@@ -116,7 +116,7 @@ ht-degree: 0%
 + Intelligente Listen und statische Listen {#smart-lists-and-static-lists}
    + [Speichern von Flussaktionen](save-flow-actions.md)
    + [Intelligente Listen speichern](save-smart-list-rules.md)
-+ Tree {#tree}
++ Baumstruktur {#tree}
    + [Konfigurieren des Baums](configuring-the-tree.md)
    + [Symbole in der Struktur](understanding-icons-in-the-tree.md)
    + [Filter zum Sortieren der Struktur verwenden](use-filters-to-sort-the-tree.md)
