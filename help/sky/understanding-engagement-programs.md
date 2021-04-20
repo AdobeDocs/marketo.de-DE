@@ -1,14 +1,14 @@
 ---
 title: understand-engagement-Programms
 description: Einblick in die Programme der Interaktion
+exl-id: 15627752-8246-44fa-9293-2f97849635fc
 translation-type: tm+mt
-source-git-commit: 96839c20e8d6adf2dc87ae050decc73ecb5052e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
-
 
 # Einblick in die Programme der Interaktion
 
@@ -78,7 +78,7 @@ Eine Personenkapazität ist ein Status, der definiert, wie sie Inhalte von einem
 
 ![Bild fünf](/help/sky/assets/engagement-programs/understanding-engagement-programs/understanding-engagement-programs-5.png)
 
-## Abgase
+## Erschöpft
 
 Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Person erschöpft.
 
@@ -86,4 +86,4 @@ Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Per
 
 ## Content-Interaktionsstufe
 
-Die Ebene der Inhaltsinteraktion ist ein 0 bis 100-Punkt-Ergebnis, das Marketo Ihrem Inhalt geben wird. Diese Zahl wird durch eine ausgefeilte Formel ermittelt, bei der die Faktoren &quot;open&quot;, &quot;clicks&quot;, &quot;unsubscribes&quot;, &quot;Programm success&quot;und andere Faktoren eingesetzt werden.
+Content Interaktionsstufe ist ein 0 bis 100-Punkt-Ergebnis, das Marketo Ihnen mitteilt. Diese Zahl wird mittels einer komplexen Formel bestimmt, die Öffnungsvorgänge, Klicks, Abbestellungen, Programmerfolg und andere Faktoren einrechnet.
