@@ -1,14 +1,14 @@
 ---
 title: pause-people-in-an-engagement-Programm
 description: Anhalten von Personen in einem Interaktions-Programm
+exl-id: d6e8717a-179e-4bec-8b12-6dedd05b8569
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Anhalten von Personen in einem Interaktions-Programm
 
@@ -28,7 +28,7 @@ Wenn eine Person Mitglied eines Interaktions-Programms ist, erhält sie Inhalte,
 
    ![Bild drei](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-Sie können die Person auf **[!UICONTROL Normal]** zurücksetzen, wenn Sie möchten, dass sie erneut mit dem Empfang von Inhalten beginnt. Sie werden dort wiederaufleben, wo sie aufgehört haben.
+Sie können die Person auf **[!UICONTROL Normal]** zurücksetzen, wenn Sie möchten, dass sie mit dem Empfang von Inhalten beginnt. Sie werden dort wiederaufleben, wo sie aufgehört haben.
 
 >[!NOTE]
 >
