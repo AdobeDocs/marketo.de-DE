@@ -1,20 +1,20 @@
 ---
 title: edit-qualification-rules-in-a-smart-Kampagne
 description: Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne
+exl-id: a76c1fbb-9f12-40be-bf88-4c194231f5a8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
 # Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne
 
 <br> 
 
-Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne durch den Fluss laufen kann. Standardmäßig wird eine intelligente Kampagne nur einmal durch den Fluss gesendet, selbst wenn sie mehrere Male ausgelöst wird. So können Sie diese Einstellungen ändern.
+Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne durch den Fluss laufen kann. Standardmäßig wird eine Smart-Kampagne nur einmal durch den Fluss gesendet, selbst wenn ein Trigger mehrere Male erfolgt. So können Sie diese Einstellungen ändern.
 
 1. Wählen Sie die Kampagne aus und gehen Sie zur Registerkarte **[!UICONTROL Plan]**.
 
