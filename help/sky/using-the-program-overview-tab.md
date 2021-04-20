@@ -1,14 +1,14 @@
 ---
 title: using-the-Programm-overview-tab
 description: Registerkarte "Programm-Übersicht"
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Registerkarte &quot;Programm-Übersicht&quot;
 
@@ -32,7 +32,7 @@ Die Programmplanung Ansicht ist eine leistungsstarke Funktion, mit der Sie Eintr
 
 ![Bild drei](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-3.png)
 
-**Tieftauchen**
+**Vertiefung**
 
 * Erfahren Sie, wie Sie [die Programmplanung-Ansicht](/help/sky/navigating-program-schedule-view.md) verwenden.
 
