@@ -1,18 +1,18 @@
 ---
-title: kampagne-folder-overview-tab
+title: Kampagne-folder-overview-tab
 description: Registerkarte "Übersicht über Kampagne-Ordner"
+exl-id: 3098658d-1345-4974-a81c-1b639af02b62
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Kampagnen-Ordner: Registerkarte &quot;Übersicht&quot;
 
-Es gibt zwei Bereiche unter der Registerkarte &quot;Kampagne&quot;: [!UICONTROL Details] und **[!UICONTROL Berichte]**.****
+Es gibt zwei Bereiche unter der Registerkarte &quot;Kampagne&quot;: **[!UICONTROL Details]** und **[!UICONTROL Berichte]**.
 
 ![Bild eins](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
