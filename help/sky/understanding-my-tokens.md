@@ -1,14 +1,14 @@
 ---
 title: understand-my-tokens
 description: My Tokens
+exl-id: d56748e2-d742-45dd-96a8-dd80e30d9d8b
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '333'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # My Tokens
 
@@ -55,7 +55,7 @@ Das Verschieben von Programmen und Ordnern wirkt sich auch auf Token aus. Vergew
 >
 >Wenn es sich bei der von einem Interaktions-Programm gesendeten E-Mail um eine untergeordnete E-Mail eines Standard-Programms handelt (d. h. nicht lokal in Ihrem Interaktions-Programm), werden alle in der E-Mail verwendeten &quot;Meine Token&quot;aus dem Programm gelöst, in dem sich die untergeordnete E-Mail befindet.
 
-## Token-Gebrauch
+## Token-Verwendung
 
 Wählen Sie ein beliebiges Token aus und klicken Sie dann oben rechts auf das Nutzungssymbol, um eine Liste der Assets anzuzeigen, die dieses Token enthalten.
 
@@ -63,7 +63,7 @@ Wählen Sie ein beliebiges Token aus und klicken Sie dann oben rechts auf das Nu
 
 ![Bild vier](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-4.png)
 
-**Tieftauchen**
+**Vertiefung**
 
 Weitere Informationen zu jedem der My Tokens:
 
@@ -72,8 +72,8 @@ Weitere Informationen zu jedem der My Tokens:
 * [Kalenderdatei](/help/sky/my-token-calendar-file.md)
 * [Bild](/help/sky/my-token-image.md)
 * [Link](/help/sky/my-token-link.md)
-* [Nummer](/help/sky/my-token-number.md)
-* [Rich Text](/help/sky/my-token-rich-text.md)
-* [Ergebnis](/help/sky/my-token-score.md)
-* [Email-Skript](/help/sky/my-token-email-script.md)
+* [Zahl](/help/sky/my-token-number.md)
+* [RTF](/help/sky/my-token-rich-text.md)
+* [Bewerten](/help/sky/my-token-score.md)
+* [E-Mail-Script](/help/sky/my-token-email-script.md)
 * [Text](/help/sky/my-token-text.md)
