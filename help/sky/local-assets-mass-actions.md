@@ -1,14 +1,14 @@
 ---
 title: local-assets-maß-actions
 description: Massenaktionen für lokale Assets
+exl-id: e11d4019-56d6-47e0-bdd5-d61f558158f5
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
 
 ---
-
 
 # Lokale Assets: Massenaktionen
 
@@ -28,7 +28,7 @@ Darüber hinaus können Sie nach **[!UICONTROL Elementbedingung]** filtern, inde
 
 >[!NOTE]
 >
->[!DNL Marketo Sky] unterstützt derzeit nur das Filtern von E-Mails, Batch-Kampagnen, Landingpages und Auslöserungs-Kampagnen.
+>[!DNL Marketo Sky] unterstützt derzeit nur das Filtern von E-Mails, Batch-Kampagnen, Landingpages und Trigger-Kampagnen.
 
 ## Anwenden einer Massenaktion
 
@@ -38,7 +38,7 @@ Wählen Sie eine Gruppe von Assets und dann eine Aktion aus der Dropdownliste **
 
 ## Ignorierte Assets
 
-Assets, die bereits den Status haben, den Sie anwenden möchten, oder für die Sie keine Berechtigung haben, werden ignoriert (z. B. bei der Genehmigung einer Gruppe von Assets werden bereits genehmigte Assets ignoriert). Assets, die nicht mit der ausgewählten Aktion übereinstimmen (auslösende Kampagnen können beispielsweise nicht genehmigt werden), werden ebenfalls ignoriert.
+Assets, die bereits den Status haben, den Sie anwenden möchten, oder für die Sie keine Berechtigung haben, werden ignoriert (z. B. bei der Genehmigung einer Gruppe von Assets werden bereits genehmigte Assets ignoriert). Assets, die nicht mit der ausgewählten Aktion übereinstimmen (z. B. Trigger-Kampagnen können nicht genehmigt werden), werden ebenfalls ignoriert.
 
 Wenn Sie eine Massenaktion auswählen, werden Assets in einem Bestätigungs-Popup Liste.
 
