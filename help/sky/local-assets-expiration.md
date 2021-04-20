@@ -1,20 +1,20 @@
 ---
 title: local-assets-expiration
 description: Ablauf lokaler Assets
+exl-id: 9a115a96-9cb6-4cd7-ab33-b737d27bc439
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-
 # Lokale Assets: Ablauf
 
 <br> 
 
-Legen Sie ein Ablaufdatum bzw. eine Ablaufzeit fest, um die Veröffentlichung von Landingpages rückgängig zu machen, die Kampagnen zu deaktivieren oder die wiederholten Batch-Kampagnen zu beenden. Diese Funktion finden Sie im Abschnitt **[!UICONTROL Ablauf]** unter der Registerkarte **[!UICONTROL Assets]**.
+Legen Sie ein Ablaufdatum bzw. eine Ablaufzeit fest, um die Veröffentlichung von Landingpages rückgängig zu machen, Trigger-Kampagnen zu deaktivieren oder wiederholte Batch-Kampagnen zu beenden. Diese Funktion finden Sie im Abschnitt **[!UICONTROL Ablauf]** unter der Registerkarte **[!UICONTROL Assets]**.
 
 ![Bild eins](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
@@ -38,7 +38,7 @@ Legen Sie ein Ablaufdatum bzw. eine Ablaufzeit fest, um die Veröffentlichung vo
 
 >[!NOTE]
 >
->Nachdem ein Asset abgelaufen ist, wird es nicht mehr im Ablaufraster angezeigt. Das Raster zeigt nur veröffentlichte Landingpages, aktive Kampagnen und wiederkehrende Batch-Kampagnen an.
+>Nachdem ein Asset abgelaufen ist, wird es nicht mehr im Ablaufraster angezeigt. Das Raster zeigt nur veröffentlichte Landingpages, Kampagnen für aktive Trigger und wiederkehrende Batch-Kampagnen an.
 
 ## Ablaufdatum entfernen
 
