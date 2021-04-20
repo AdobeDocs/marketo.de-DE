@@ -1,18 +1,18 @@
 ---
 title: apply-communication-limits-to-a-smart-Kampagne
 description: Kommunikationsbeschränkungen auf intelligente Kampagnen anwenden
+exl-id: 8fef2150-c1bd-4411-9968-07c71e191784
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
 # Kommunikationsbeschränkungen auf intelligente Kampagnen anwenden
 
-Es ist keine gute Idee, jemandem mehrere Male am Tag oder zu oft in einer Woche eine E-Mail zu schicken. Glücklicherweise hat Marketo Kommunikationsbeschränkungen, um zu helfen.
+Es ist keine gute Idee, jemandem mehrere Male am Tag oder zu oft in einer Woche eine E-Mail zu schicken. Zum Glück hat Marketo Kommunikationsbeschränkungen, um zu helfen.
 
 >[!IMPORTANT]
 >
