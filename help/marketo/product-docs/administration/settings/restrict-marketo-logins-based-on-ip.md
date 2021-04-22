@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360297
-description: Marketinganmeldungen auf Basis der IP beschränken - Marketing Docs - Produktdokumentation
-title: Marketings anhand von IP beschränken
+description: Marketo-Anmeldungen auf Basis der IP-Adresse einschränken - Marketo Docs - Produktdokumentation
+title: Marketo-Anmeldungen auf IP-Basis beschränken
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-
-# Marketings auf Basis von IP-{#restrict-marketo-logins-based-on-ip} beschränken
+# Marketo-Anmeldungen auf Basis von IP einschränken {#restrict-marketo-logins-based-on-ip}
 
 Sie können den Zugriff auf Marketo je nach IP-Adressen einschränken oder aktivieren. So geht es.
 
@@ -38,7 +38,7 @@ Sie können den Zugriff auf Marketo je nach IP-Adressen einschränken oder aktiv
    >**Definition**
    >
    >* **Zulässige IP-Adressen**: Zulässige IP-Adressen werden inklusiv hinzugefügt. Es enthält alle angegebenen IP-Adressen und schließt alles andere aus.
-   >* **IP-Adressen** blockieren: Verhindert, dass bestimmte IPs auf Marketing zugreifen.
+   >* **IP-Adressen** blockieren: Verhindert, dass bestimmte IPs auf Marketo zugreifen.
    >* **IP-Beschränkungen** deaktivieren: Wenn Sie diese Option aktivieren, funktionieren alle/alle Beschränkungsregeln nicht mehr. Verwenden Sie dies zu Testzwecken.
 
 
