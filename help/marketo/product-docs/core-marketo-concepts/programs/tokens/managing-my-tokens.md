@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147116
-description: Verwalten meiner Token - Marketing Docs - Produktdokumentation
+description: Verwalten meiner Token - Marketo Docs - Produktdokumentation
 title: Verwalten von My Tokens
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # Verwalten von My Tokens {#managing-my-tokens}
 
-Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussschritten, Webhooks, E-Mails und Landingpages verwenden. Hier ist, wie man sie macht.
+Die Verwendung von Token kann Ihre Arbeit in Marketo vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussschritten, Webhooks, E-Mails und Landingpages verwenden. Hier ist, wie man sie macht.
 
 >[!TIP]
 >
