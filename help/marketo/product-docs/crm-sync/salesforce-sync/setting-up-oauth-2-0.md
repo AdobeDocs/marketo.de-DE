@@ -1,14 +1,14 @@
 ---
-description: Einrichten von OAuth 2.0 - Marketing Docs - Produktdokumentation
+description: Einrichten von OAuth 2.0 - Marketo Docs - Produktdokumentation
 title: Einrichten von OAuth 2.0
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Einrichten von OAuth 2.0 {#setting-up-oauth-2-0}
 
@@ -49,13 +49,13 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzern von Anwendungen den siche
 >[!PREREQUISITES]
 >
 >* Der API-Zugriff muss für den Salesforce-Synchronisierungsbenutzer aktiviert sein (wenn Sie Salesforce Professional Edition-Benutzer sind, ist dieser Zugriff standardmäßig nicht verfügbar. Wenden Sie sich an Ihren Salesforce-Kundenbetreuer).
->* Marketo Sync Benutzer muss in Salesforce erstellt werden.
+>* Marketo Sync user muss in Salesforce erstellt werden.
 >* Für bestehende Kunden ist die Funktion &quot;OAuth für SFDC-Synchronisierung aktivieren&quot;auf dem Abonnement des Kunden aktiviert.
 >* Popup-Blocker sind deaktiviert.
 >* Es wird eine verbundene App erstellt und die Consumer key und Consumer secret stehen zur Verwendung bereit.
 
 
-1. Klicken Sie im Abschnitt Marketing-Admin auf **CRM** und dann **Mit Salesforce** synchronisieren.
+1. Klicken Sie im Abschnitt Marketo Admin auf **CRM** und dann **Synchronisieren mit Salesforce**.
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -67,7 +67,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzern von Anwendungen den siche
 
    ![](assets/setting-up-oauth-2-9.png)
 
-1. Ein Popup mit der Anmeldeseite salesforce wird angezeigt. Geben Sie die Anmeldedaten für &quot;Benutzer synchronisieren&quot; ein und melden Sie sich an.
+1. Ein Popup mit der Anmeldeseite salesforce wird angezeigt. Geben Sie die Anmeldedaten für Marketo Sync User ein und melden Sie sich an.
 
    ![](assets/setting-up-oauth-2-10.png)
 
@@ -79,7 +79,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzern von Anwendungen den siche
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. In wenigen Minuten erscheint ein Popup in Marketo. Klicken Sie auf **Anmeldeinformationen** bestätigen.
+1. In wenigen Minuten wird in Marketo ein Popup angezeigt. Klicken Sie auf **Anmeldeinformationen** bestätigen.
 
    ![](assets/setting-up-oauth-2-13.png)
 
@@ -91,6 +91,6 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzern von Anwendungen den siche
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Ihre Synchronisierung zwischen Marketo und Salesforce läuft.
+Ihre Synchronisierung zwischen Marketo und Salesforce läuft jetzt.
 
 ![](assets/setting-up-oauth-2-16.png)
