@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360311
-description: Erstellen eines neuen Arbeitsbereichs - Marketing-Dokumente - Produktdokumentation
+description: Erstellen eines neuen Arbeitsbereichs - Marketo Dokumente - Produktdokumentation
 title: Neue Arbeitsfläche erstellen
+exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Neue Arbeitsfläche {#create-a-new-workspace} erstellen
 
@@ -30,7 +30,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
 >[!NOTE]
 >
->Weitere Informationen zu den Best Practices für Workspace erhalten Sie unter [Marketing Professional Services](mailto:services@marketo.com).
+>Weitere Informationen zu den Best Practices von Workspace erhalten Sie unter [Marketo Professional Services](mailto:services@marketo.com).
 
 1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
 
@@ -62,7 +62,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
    >[!NOTE]
    >
-   >Nach der Erstellung startet Marketo Beispielelemente im Arbeitsbereich. Die Sprache erlaubt es, dass diese übergebenen Objekte in einer nicht-englischen Sprache vorliegen.
+   >Nach der Erstellung startet Marketo Musterelemente im Arbeitsbereich. Die Sprache erlaubt es, dass diese übergebenen Objekte in einer nicht-englischen Sprache vorliegen.
 
    ![](assets/five.png)
 
