@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2953243
-description: Benachrichtigungstypen - Marketing-Dokumente - Produktdokumentation
+description: Benachrichtigungstypen - Marketo Docs - Produktdokumentation
 title: Benachrichtigungstypen
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Benachrichtigungstypen {#notification-types}
 
 Es gibt mehrere Benachrichtigungstypen.
 
-## Kampagne Failure {#campaign-failure}
+## Kampagnenfehler  {#campaign-failure}
 
 Fehler bei der Kampagne benachrichtigen Sie über Fehler in Ihren intelligenten Kampagnen.
 
-## CRM-Synchronisierung {#crm-sync}
+## CRM-Synch.{#crm-sync}
 
 CRM-Synchronisierungsbenachrichtigungen warnen Sie vor kritischen Problemen, die bei der CRM-Synchronisierung aufgetreten sind, wie z. B. fehlerhaften Berechtigungen oder ausbleibender Synchronisierung.
 
@@ -35,7 +35,7 @@ Wenn Sie Salesforce verwenden, sehen die Synchronisierungsfehlerbenachrichtigung
 
 ![](assets/salesforcesyncerror.png)
 
-Interaktion
+Engagement
 
 Wenn Interessenten in einem Stream erschöpft sind, senden wir eine Benachrichtigung.  Die Meldung enthält die Anzahl der ausgenutzten Interessenten und weitere Informationen.
 
@@ -43,15 +43,15 @@ Wenn Interessenten in einem Stream erschöpft sind, senden wir eine Benachrichti
 
 Facebook
 
-Wenn Sie versuchen, Leads zu Facebook zu senden, ohne die Nutzungsbedingungen zu akzeptieren, oder wenn Sie versuchen, Leads zu Facebook zu senden, nachdem Sie die Marketing-App entfernt haben.
+Wenn Sie versuchen, Leads nach Facebook zu senden, ohne die Nutzungsbedingungen zu akzeptieren, oder wenn Sie versuchen, Leads nach dem Entfernen der Marketo-App nach Facebook zu senden.
 
-Säuberung der Kampagne im Leerlauf des Triggers
+Leerlauf-Auslöser-Kampagnenbereinigung
 
 Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Erfahren Sie mehr über [automatische Bereinigung der Trigger-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
-Wenn Marketo nach drei Versuchen keine neue Audience, Anmeldung oder Push-E-Mails zu LinkedIn erstellen kann.
+Wenn Marketo nach drei Versuchen nicht in der Lage ist, eine neue Audience zu erstellen, sich anzumelden oder Push-E-Mails an LinkedIn zu senden.
 
 ![](assets/linkedin.png)
 
