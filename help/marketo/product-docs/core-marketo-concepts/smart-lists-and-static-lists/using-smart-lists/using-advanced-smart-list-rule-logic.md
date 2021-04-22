@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146901
-description: Verwenden der erweiterten Regellogik für intelligente Listen - Marketing Docs - Produktdokumentation
+description: Verwenden von Advanced Smart Liste Rule Logic - Marketo Docs - Produktdokumentation
 title: Erweiterte Logik der Smart-Liste
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # Verwenden der erweiterten Regellogik für intelligente Listen {#using-advanced-smart-list-rule-logic}
 
@@ -61,7 +61,7 @@ Das Mischen von &quot;Und&quot;- und &quot;Oder&quot;-Logik erfordert Klammern, 
 
 ![](assets/advancedfilters-parent.png)
 
-## Verschachtelte Klammern für vier oder mehr Filter verwenden, wenn erforderlich {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Verschachtelte Klammern für vier oder mehr Filter verwenden, falls erforderlich {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Abhängig von Ihrer Absicht müssen Sie ggf. verschachtelte Klammern hinzufügen, wenn Sie vier oder mehr Filter verwenden.
 
