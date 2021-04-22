@@ -1,14 +1,14 @@
 ---
 description: Salesforce-Synchronisierungsfehler - Marketo Docs - Produktdokumentation
 title: Salesforce-Synchronisierungsfehler
+exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Salesforce-Synchronisierungsfehler {#salesforce-sync-errors}
 
@@ -34,13 +34,13 @@ Ansicht einer Zusammenfassung der Fehler, die während des Synchronisierungsproz
 
 | Feld | Beschreibung |
 |---|---|
-| Fehlgeschlagen bei | Datensatzebene _oder_ |
+| Fehlgeschlagen an | Datensatzebene _oder_ |
 | Datum/Uhrzeit des Fehlers | Fehlerdetails |
 | Fehlertyp | SFDC-Rückkehrmeldung |
 
 >[!TIP]
 >
->Wenn Sie auf den Datensatzebenendatensatz klicken, werden die Marketo- und Salesforce-IDs des zugehörigen Objekts angezeigt. In einigen Fällen stammt die Meldung auf der Datensatzebene und auf der Auftragsebene direkt von Salesforce. Die Online-Suche kann weitere Details liefern.
+>Wenn Sie auf den Datensatz auf Datensatzebene klicken, werden die Marketo- und Salesforce-IDs des zugehörigen Objekts angezeigt. In einigen Fällen stammt die Meldung auf der Datensatzebene und auf der Auftragsebene direkt von Salesforce. Die Online-Suche kann weitere Details liefern.
 
 ## Filter-Synchronisierungsfehler {#filter-sync-errors}
 
