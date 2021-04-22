@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557316
-description: Definieren von Filtern für intelligente Listen - Marketing-Dokumente - Produktdokumentation
+description: Definieren von Filtern für intelligente Listen - Marketo Docs - Produktdokumentation
 title: Definieren von Filtern für intelligente Listen
+exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Definieren von Filtern für intelligente Listen {#define-smart-list-filters}
 
@@ -43,4 +43,4 @@ Lassen Sie uns in unserem Beispiel diese Filter definieren, um alle Menschen in 
 
    ![](assets/smartlistfilter-personscore.png)
 
-   Herzlichen Glückwunsch! Sie können jetzt eine intelligente Liste erstellen und Filter hinzufügen/definieren.
+   Herzlichen Glückwunsch!  Sie können jetzt eine intelligente Liste erstellen und Filter hinzufügen/definieren.
