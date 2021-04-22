@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360331
-description: Ändern Sie den Typ eines Markers in ein benutzerdefiniertes Feld - Marketing to Docs - Produktdokumentation
-title: Ändern des Markentyps in ein benutzerdefiniertes Feld
+description: Ändern des Typs eines Marketo-benutzerdefinierten Felds - Marketo Docs - Produktdokumentation
+title: Ändern des Typs eines benutzerdefinierten Marketo-Felds
+exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Ändern des Markentyps in Benutzerdefiniertes Feld {#change-the-type-of-a-marketo-custom-field}
+# Ändern des Typs eines benutzerdefinierten Marketo-Felds {#change-the-type-of-a-marketo-custom-field}
 
 So ändern Sie den Feldtyp eines benutzerdefinierten Felds.
 
@@ -45,4 +45,4 @@ So ändern Sie den Feldtyp eines benutzerdefinierten Felds.
 
    >[!MORELIKETHIS]
    >
-   >[Benutzerdefiniertes Feld in Marketing erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
