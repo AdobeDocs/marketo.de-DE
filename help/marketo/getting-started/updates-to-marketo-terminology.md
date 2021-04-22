@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11387674
-description: Aktualisierungen der Marktterminologie - Marketing-Dokumente - Produktdokumentation
-title: Aktualisierungen der Marktterminologie
+description: Aktualisierungen der Marketo-Terminologie - Marketo Docs - Produktdokumentation
+title: Aktualisierungen der Marketo-Terminologie
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
-# Aktualisierungen der Marketerminologie {#updates-to-marketo-terminology}
+# Aktualisierungen der Marketo-Terminologie {#updates-to-marketo-terminology}
 
-Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf das auswirken werden, was einige Dinge genannt werden. Wenn Sie seit März 2016 über eine neue Marketo-Instanz verfügen oder Ihre Firma nach Juli 2016 verlängert wurde, wird Ihnen die neue Terminologie möglicherweise jetzt angezeigt.
+Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf das auswirken werden, was einige Dinge genannt werden. Wenn Sie seit März 2016 eine neue Marketo-Instanz haben oder Ihre Firma nach Juli 2016 erneuert wurde, wird die neue Terminologie möglicherweise jetzt angezeigt.
 
-Obwohl Sie möglicherweise unterschiedliche Terminologie in der Dokumentation von Marketo sehen, sollten Sie darauf achten, dass alle Artikel bald aktualisiert werden, um diese Änderungen widerzuspiegeln. Alle Anweisungen sind gleich.
+Obwohl Sie möglicherweise unterschiedliche Terminologie in der Marketo-Dokumentation sehen, sollten Sie darauf achten, dass alle Artikel bald aktualisiert werden, um diese Änderungen widerzuspiegeln. Alle Anweisungen sind gleich.
 
 Was hat sich also verändert?
 
@@ -73,7 +73,7 @@ In einigen Fällen wird das Wort &quot;Blei&quot;einfach entfernt.
 
 Lead und Person **sind dasselbe**.
 
-## Tokens {#tokens}
+## Token {#tokens}
 
 Token mit dem Wort Interessent in ihnen **ändern sich nicht.** Wir entschuldigen uns für jede Verwirrung. Wenn Sie jedoch alle Token an die neue Terminologie anpassen, werden viele Token, die derzeit verwendet werden, beschädigt. Sie sehen also immer noch Token wie &quot;`{{lead.First Name}}`&quot;. Es gibt keine personenspezifischen Token.
 
@@ -143,7 +143,7 @@ Zusätzlich zur Namensänderung besteht die App jetzt aus vier separaten Apps:
 |---|---|
 | ** [Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Verfügbar über Web-Personalisierungskachel |
 | ** [Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Verfügbar über Web-Personalisierungskachel |
-| ** [Vorheriger Inhalt](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Hat eine eigene Kachel auf dem Startbildschirm |
+| ** [Predictive Content](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Hat eine eigene Kachel auf dem Startbildschirm |
 
 >[!NOTE]
 >
