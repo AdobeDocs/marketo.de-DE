@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7515133
-description: SFDC-Synchronisierung - Zusammenführen von Lead/Kontakt/Person - Marketing-Dokumente - Produktdokumentation
+description: SFDC-Synchronisierung - Zusammenführen von Lead/Kontakt/Person - Marketo Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Zusammenführen eines Interessenten/Kontakts/einer Person
+exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-
 # SFDC-Synchronisierung: Zusammenführen eines Interessenten/Kontakts/einer Person {#sfdc-sync-merging-a-lead-contact-person}
 
 Manchmal ist es am besten, nur die Regeln Liste. Gehen wir weiter:
 
 * Wenn Sie zwei Interessenten in **Salesforce** zusammenführen, teilt die normale Synchronisierung Marketo mit und die Interessenten werden automatisch als Personen in Marketo zusammengeführt.
-* Wenn zwei Personen in **Marketo** zusammengeführt werden, wird tatsächlich der gleiche Prozess aufgerufen wie beim Zusammenführen als Interessenten in Salesforce. Es funktioniert immer noch automatisch.
+* Wenn zwei Personen in **Marketo** zusammengeführt werden, wird der gleiche Prozess aufgerufen wie beim Zusammenführen als Interessenten in Salesforce. Es funktioniert immer noch automatisch.
 * Das Zusammenführen eines **Interessenten (Person) zu einem Kontakt** funktioniert auf dieselbe Weise. Am Ende haben Sie einen einzigen Kontakt auf beiden Seiten.
 * Beim Zusammenführen wird der Standardwert summiert.
 
@@ -30,4 +30,4 @@ Manchmal ist es am besten, nur die Regeln Liste. Gehen wir weiter:
 
 >[!NOTE]
 >
->Tief tauchen für weitere Informationen über [Personen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) zusammenführen.
+>Tief tauchen für weitere Informationen über [Zusammenführen von Personen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
