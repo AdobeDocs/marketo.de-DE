@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7504893
-description: hinzufügen von Google AdWords als Launchpoint Service mit einem Manager-Konto - Marketing Docs - Produktdokumentation
+description: hinzufügen von Google AdWords als Launchpoint-Dienst mit einem Manager-Konto - Marketo Docs - Produktdokumentation
 title: hinzufügen von Google AdWords als Startpunktdienst mit einem Managerkonto
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '338'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # hinzufügen von Google AdWords als Startpunktdienst mit einem Managerkonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um automatisch Offline-Konversionsdaten von Marketing zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) führten, nachdem Sie [benutzerdefinierte Spalten](https://support.google.com/adwords/answer/3073556) in AdWords hinzugefügt haben. Diese Informationen werden nicht in der Benutzeroberfläche von Marketing angezeigt.
+Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um automatisch Offline-Konversionsdaten von Marketo zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) führten, nachdem Sie [benutzerdefinierte Spalten](https://support.google.com/adwords/answer/3073556) in AdWords hinzugefügt haben. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
 
-Wenn Sie über mehrere Google Adwords-Konten verfügen, können Sie ein [Google AdWords Manager-Konto](https://www.google.com/adwords/manager-accounts/) (früher &quot;Mein Client-Center&quot;genannt) verwenden, um diese in Marketing zu integrieren.
+Wenn Sie über mehrere Google Adwords-Konten verfügen, können Sie ein [Google AdWords Manager-Konto](https://www.google.com/adwords/manager-accounts/) (früher &quot;Mein Client-Center&quot;genannt) verwenden, um diese in Marketo zu integrieren.
 
-Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https://support.google.com/adwords/answer/2998031?hl=en)
+Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion](https://support.google.com/adwords/answer/2998031?hl=en).[
 
 >[!NOTE]
 >
