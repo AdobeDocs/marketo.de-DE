@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953132
-description: Intelligente Batch- und Trigger-Kampagnen - Marketing-Dokumente - Produktdokumentation
+description: Intelligente Batch- und Trigger-Kampagnen - Marketo Docs - Produktdokumentation
 title: Intelligente Kampagnen für Stapel und Trigger
+exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Smart-Kampagnen für Stapel und Trigger {#understanding-batch-and-trigger-smart-campaigns}
 
