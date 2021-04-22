@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
-description: hinzufügen/Bearbeiten/Löschen von Markierungen in Feldern für benutzerdefinierte Aktivitäten - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen/Bearbeiten/Löschen von Markierungen in Feldern mit benutzerdefinierter Aktivität
+description: Benutzerdefinierte Marketo-Felder für Aktivitäten Hinzufügen/bearbeiten/löschen - Marketo Dokumente - Produktdokumentation
+title: Benutzerdefinierte Marketo-Aktivitäten Hinzufügen/bearbeiten/löschen
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
-# hinzufügen/Bearbeiten/Löschen von Markierungen in Feldern mit benutzerdefinierter Aktivität {#add-edit-delete-marketo-custom-activity-fields}
+# Benutzerdefinierte Marketo-Aktivitäten-Felder {#add-edit-delete-marketo-custom-activity-fields} Hinzufügen/bearbeiten/löschen
 
 Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinzufügen, ändern oder sogar entfernen. So geht es.
 
 ## hinzufügen eines Felds für eine benutzerdefinierte Aktivität {#add-a-custom-activity-field}
 
-1. Klicken Sie in &quot;Markieren zu benutzerdefinierten Aktivitäten&quot;auf **Felder**.
+1. Klicken Sie in den benutzerdefinierten Marketo-Aktivitäten auf **Felder**.
 
    ![](assets/one-3.png)
 
@@ -45,7 +45,7 @@ Möglicherweise müssen Sie ein Feld für die benutzerdefinierte Aktivität hinz
 
 ## Benutzerdefiniertes Feld für Aktivitäten bearbeiten {#edit-a-custom-activity-field}
 
-1. Klicken Sie in &quot;Markieren zu benutzerdefinierten Aktivitäten&quot;auf **Felder**.
+1. Klicken Sie in den benutzerdefinierten Marketo-Aktivitäten auf **Felder**.
 
    ![](assets/one-3.png)
 
@@ -81,7 +81,7 @@ Ihr Feld ist jetzt bearbeitet!
 
 ## Löschen eines Felds für eine benutzerdefinierte Aktivität {#delete-a-custom-activity-field}
 
-1. Klicken Sie in &quot;Markieren zu benutzerdefinierten Aktivitäten&quot;auf **Felder**.
+1. Klicken Sie in den benutzerdefinierten Marketo-Aktivitäten auf **Felder**.
 
    ![](assets/one-3.png)
 
