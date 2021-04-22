@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147058
-description: Abbrechen eines geplanten Batch-Kampagne-Ausführung - Marketing Docs - Produktdokumentation
+description: Kampagne eines geplanten Stapels abbrechen - Marketo Docs - Produktdokumentation
 title: Ausführung einer geplanten Batch-Kampagne abbrechen
+exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Abbrechen einer geplanten Batch-Kampagne, die ausgeführt wird {#cancel-a-scheduled-batch-campaign-run}
 
