@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782021
-description: Personalisieren von Marketo-Momenten - Marketing Docs - Produktdokumentation
-title: Anpassen von Markusmomenten
+description: Personalisieren von Marketo-Momenten - Marketo Docs - Produktdokumentation
+title: Personalisieren von Marketo-Momenten
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# Personalisieren von Marketing-Momenten {#personalizing-marketo-moments}
+# Personalisieren von Marketo-Momenten {#personalizing-marketo-moments}
 
 Wenn Sie viele Marketing-Programm und intelligente Kampagnen haben, ist es toll, alles zu sehen, aber Sie sollten sich vielleicht nur auf Ihre eigene Arbeit konzentrieren.
 
