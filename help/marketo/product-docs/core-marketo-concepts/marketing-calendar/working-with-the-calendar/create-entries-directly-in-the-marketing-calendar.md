@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953348
-description: Einträge direkt im Marketingkalender erstellen - Marketing Docs - Produktdokumentation
+description: Einträge direkt im Marketingkalender erstellen - Marketo Docs - Produktdokumentation
 title: Einträge direkt im Marketingkalender erstellen
+exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Einträge direkt im Marketingkalender {#create-entries-directly-in-the-marketing-calendar} erstellen
 
-Mit Marketo können Sie Einträge direkt im Marketingkalender mithilfe des Programm-Fokusmodus erstellen. Sie können die folgenden Eintragstypen erstellen:
+Mit Marketo können Sie Einträge direkt im Marketingkalender im Programm-Fokusmodus erstellen. Sie können die folgenden Eintragstypen erstellen:
 
 * Grundlegende Einträge
 * Benutzerdefinierte Einträge
