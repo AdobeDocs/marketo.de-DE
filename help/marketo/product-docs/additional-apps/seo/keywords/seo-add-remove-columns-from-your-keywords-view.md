@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949243
-description: SEO - Hinzufügen/Entfernen von Spalten aus Ihrer Suchbegriffs-Ansicht - Marketing-Dokumente - Produktdokumentation
+description: SEO - Hinzufügen/Entfernen von Spalten aus Ihrer Suchbegriffs-Ansicht - Marketo Docs - Produktdokumentation
 title: SEO - Spalten aus der Ansicht Suchbegriffe Hinzufügen/entfernen
+exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEO - Hinzufügen/Entfernen von Spalten aus Ihrer Suchbegriffs-Ansicht {#seo-add-remove-columns-from-your-keywords-view}
 
@@ -31,7 +31,7 @@ Sie können die Ansicht Ihres Suchbegriffs so anpassen, dass die Daten angezeigt
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Fantastisch! Sie haben jetzt Ihre Suchbegriffs-Ansicht angepasst.
+   Fantastisch Sie haben jetzt Ihre Suchbegriffs-Ansicht angepasst.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
