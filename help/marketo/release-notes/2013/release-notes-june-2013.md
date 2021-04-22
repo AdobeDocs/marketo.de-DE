@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951095
-description: Versionshinweise - Juni 2013 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Juni 2013 - Marketo Dokumente - Produktdokumentation
 title: Versionshinweise - Juni 2013
+exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Versionshinweise: Juni 2013 {#release-notes-june}
 
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Juni-Version enthalten.
 
 ## Zusätzliche Benutzersprachen {#additional-user-languages}
 
-Ansicht der Marketing Lead Management Schnittstelle in Ihrer bevorzugten Sprache - jetzt unterstützt Spanisch und Portugiesisch.
+Ansicht der Marketo Lead Management Schnittstelle in Ihrer bevorzugten Sprache - jetzt unterstützt Spanisch und Portugiesisch.
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
