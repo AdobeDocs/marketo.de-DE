@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503973
-description: Präsentation anpassen - Marketing-Dokumente - Produktdokumentation
+description: Präsentation anpassen - Marketo Dokumente - Produktdokumentation
 title: Anpassen einer Präsentation
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Anpassen einer Präsentation {#customize-a-presentation}
 
@@ -18,7 +18,7 @@ Richten Sie Ihre Kalenderpräsentation so ein, dass sie die Ziele und Aktivität
 >[!AVAILABILITY]
 >
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 >[!PREREQUISITES]
 >
@@ -68,7 +68,7 @@ Die Kalenderanzeige kann in eine 3-wöchige oder monatliche Ansicht geändert we
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Fantastisch! Sind Sie bereit, Ihre Präsentation zu sehen?
+   Fantastisch Sind Sie bereit, Ihre Präsentation zu sehen?
 
 >[!TIP]
 >
