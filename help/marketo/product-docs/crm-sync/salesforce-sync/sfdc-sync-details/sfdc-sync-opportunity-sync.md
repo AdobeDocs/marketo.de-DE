@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953467
-description: SFDC-Synchronisierung - Opportunity Sync - Marketing Docs - Produktdokumentation
+description: SFDC-Synchronisierung - Opportunity Sync - Marketo Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Opportunity Sync
+exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # SFDC-Synchronisierung: Opportunity Sync {#sfdc-sync-opportunity-sync}
 
 ## Wie werden Opportunitätsdetails zwischen den beiden Systemen synchronisiert? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-Die Synchronisierung erfolgt auf eine Weise: von Salesforce bis Marketo. Aktualisierungen der Möglichkeiten in Salesforce werden mit Marketo synchronisiert.
+Die Synchronisierung erfolgt auf eine Weise: von Salesforce nach Marketo. Aktualisierungen der Möglichkeiten in Salesforce werden mit Marketo synchronisiert.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Nein, das kannst du nicht. Die Änderungen an allen Möglichkeiten in Salesforce
 
 ## Unterstützt Marketo mehr als eine Währung im Opportunity Amount? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Nein, Marketo unterstützt nur eine Währung. Der Opportunitätsbetrag wird von Salesforce synchronisiert, die Währung ist jedoch die [Standardwährung](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) in Ihrem Marketing-Abonnement.
+Nein, Marketo unterstützt nur eine Währung. Der Opportunitätsbetrag wird von Salesforce synchronisiert, die Währung ist jedoch die [Standardwährung](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) in Ihrem Marketo-Abonnement.
 
 ## Wie verbindet Marketo Chancen und Kontakte? {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -39,7 +39,7 @@ Sie können eine Liste von Möglichkeiten auf der Registerkarte **Opportunity In
 
 ## Welche Trigger/Filter stehen im Zusammenhang mit Chancen? {#what-are-the-triggers-filters-related-to-opportunity}
 
-Trigger:
+Auslöser:
 
 * Der Gelegenheit hinzugefügt
 * Aus Gelegenheit entfernt
@@ -47,13 +47,13 @@ Trigger:
 
 Filter:
 
-* Hat Chancen
+* Hat Opportunity
 * Gelegenheit wurde aktualisiert/Keine Gelegenheit wurde aktualisiert
 * Der Möglichkeit hinzugefügt/Nicht der Möglichkeit hinzugefügt
 * Aus der Gelegenheit entfernt/Nicht aus der Gelegenheit entfernt
-* Optimalbetrag gesamt
-* Anzahl der Optionen
-* Erwarteter Gesamtumsatz der Option
+* Opty-Gesamtbetrag
+* Anzahl Opportunities
+* Erwarteter Opty-Gesamtumsatz
 
 >[!TIP]
 >
