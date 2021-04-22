@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360309
-description: Arbeitsbereiche und Benutzerpartitionen - Marketing-Dokumente - Produktdokumentation
+description: Arbeitsbereiche und Benutzerpartitionen - Marketo Dokumente - Produktdokumentation
 title: Arbeitsbereiche und Benutzerpartitionen
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Arbeitsbereiche und Benutzerpartitionen {#understanding-workspaces-and-person-partitions}
 
-## Workspaces {#workspaces}
+## Arbeitsbereiche {#workspaces}
 
 >[!CAUTION]
 >
->Arbeitsbereiche können komplex eingerichtet werden. Wenden Sie sich an den [Marketing-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um herauszufinden, ob sie für Sie richtig sind.
+>Arbeitsbereiche können komplex eingerichtet werden. Wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support), um herauszufinden, ob sie für Sie richtig sind.
 
 Arbeitsbereiche sind in Marketo separate Bereiche, in denen Marketing-Assets wie Programm, Landingpages, E-Mails und mehr enthalten sind. Sie können von mehreren Personen verwendet werden. Jeder Benutzer hat Zugriff auf einen oder mehrere Arbeitsbereiche.
 
@@ -73,12 +73,12 @@ Hier erfahren Sie, wie Sie Assets über Arbeitsbereiche hinweg freigeben. Es fun
 Sie können diese Elemente über mehrere Arbeitsbereiche hinweg freigeben.
 
 * E-Mail-Vorlagen
-* Landingpage-Vorlagen
+* Landing Page-Vorlagen
 * Modelle
 * Intelligente Kampagnen
 * [Intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segmente](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* Snippets
+* [Segmentierungen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+* Ausschnitte
 
 ## Klonen über Arbeitsbereiche {#cloning-across-workspaces}
 
@@ -86,8 +86,8 @@ Bei Assets, die keine Vorlagen sind, empfiehlt es sich, sie als lokale Assets in
 
 * Programme
 * E-Mails
-* Landingpages
-* Forms
+* Landing Pages
+* Formulare
 
 >[!NOTE]
 >
@@ -101,9 +101,9 @@ Um Assets in einen neuen Arbeitsbereich zu verschieben, legen Sie sie in einen O
 >
 >Sie können ein Programm, das Mitglieder enthält, nicht von einem Arbeitsbereich in einen anderen verschieben.
 
-## Benutzerpartitionen {#person-partitions}
+## Personen-Partitionen {#person-partitions}
 
-Personenpartitionen funktionieren wie separate Datenbanken. Jede Partition hat eigene Leute, die nicht deduplizieren oder mit anderen Partitionen mischen. Wenn Sie der Meinung sind, dass Sie einen Geschäftsfall haben, der möglicherweise Duplikate mit derselben E-Mail-Adresse erfordert, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+Personenpartitionen funktionieren wie separate Datenbanken. Jede Partition hat eigene Leute, die nicht deduplizieren oder mit anderen Partitionen mischen. Wenn Sie der Meinung sind, dass Sie einen Geschäftsfall haben, der möglicherweise Duplikate mit derselben E-Mail-Adresse erfordert, wenden Sie sich bitte an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Sie können [Arbeitsflächen](create-a-new-workspace.md) in den folgenden Konfigurationen persönliche Partitionen zuweisen:
 
