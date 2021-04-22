@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951050
-description: Versionshinweise - Januar 2014 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Januar 2014 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Januar 2014
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Versionshinweise: Januar 2014 {#release-notes-january}
 
-Die folgenden Funktionen sind in der Januar 2014-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/), um die Funktionsverfügbarkeit zu ermitteln.
+Die folgenden Funktionen sind in der Januar 2014-Version enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/), um eine Funktionsverfügbarkeit zu erhalten.
 
-## Forms 2.0 {#forms}
+## Formulare 2.0 {#forms}
 
 Kopf hoch: Die Dokumentation für Forms 2.0 kommt bald!
 
@@ -45,7 +45,7 @@ Die Tage, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt un
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## Zusätzliche Felder in der Analyse zur Programm-Mitgliedschaft {#additional-fields-in-program-membership-analysis}
+## Zusätzliche Felder in Programmmitgliedschafts-Analyse {#additional-fields-in-program-membership-analysis}
 
 Jetzt können Sie Ihre [Programm Membership Analyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Metriken nach Interessenten- und Firmen-Attributen hinzufügen und gruppieren. Sie können beispielsweise das Feld &quot;Branche&quot;hinzufügen, um die Aufteilung Ihrer Programm-Mitglieder und -Erfolge anzuzeigen.
 
