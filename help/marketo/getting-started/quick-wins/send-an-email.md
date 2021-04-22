@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359410
-description: E-Mail senden - Marketing-Dokumente - Produktdokumentation
+description: E-Mail senden - Marketo Dokumente - Produktdokumentation
 title: E-Mail senden
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # E-Mail senden {#send-an-email}
 
@@ -135,6 +135,6 @@ Sie sollten die E-Mail kurz nach dem geplanten Tag/der geplanten Uhrzeit erhalte
 
 <br> 
 
-[Einrichten und Hinzufügen eines Interessenten](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ Einrichten und Lead hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[Landingpage mit einem Formular ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Landing Page mit Formular ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
