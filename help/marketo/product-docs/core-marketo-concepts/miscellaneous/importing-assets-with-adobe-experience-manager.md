@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355768
-description: Importieren von Assets mit Adobe Experience Manager - Marketing Docs - Produktdokumentation
+description: Importieren von Assets mit Adobe Experience Manager - Marketo Docs - Produktdokumentation
 title: Assets mit Adobe Experience Manager importieren
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-
 # Importieren von Assets mit Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie auswählen und sie in das Design Studio von Marketo importieren. **Administratorberechtigungen sind erforderlich**.
+Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie auswählen und sie in Marketo Design Studio importieren. **Administratorberechtigungen sind erforderlich**.
 
 >[!AVAILABILITY]
 >
@@ -66,4 +66,4 @@ Marketo unterstützt derzeit die Adobe Experience Manager-Versionen 6.4 und 6.5.
 
 Alle Benutzer in Ihrer Instanz können auf die importierten Bilder zugreifen bzw. Ansichten durchführen.
 
-Bilder werden nicht automatisch aktualisiert. Wenn ein von Ihnen in Marketing Design Studio importiertes Bild in AEM aktualisiert wird, müssen Sie es manuell erneut in Marketing importieren.
+Bilder werden nicht automatisch aktualisiert. Wenn ein in Marketo Design Studio importiertes Bild in AEM aktualisiert wird, müssen Sie es manuell erneut in Marketo importieren.
