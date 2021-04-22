@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557322
-description: Führen Sie einen Schritt für einen einzelnen Fluss aus einer intelligenten Liste - Marketing to Docs - Produktdokumentation
+description: Führen Sie einen Einzelflussschritt von einer intelligenten Liste aus - Marketo Docs - Produktdokumentation
 title: Ausführen eines einzelnen Flussschritts aus einer intelligenten Liste
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ausführen eines Einzelflussschritts von einer intelligenten Liste {#run-a-single-flow-step-from-a-smart-list}
 
@@ -47,7 +47,7 @@ Wenn Sie einen einzigen Flussschritt ausführen möchten, können Sie einen einz
 
    ![](assets/runaction-hands.png)
 
-1. Geben Sie einen neuen Wert ein. Klicken Sie auf **Jetzt ausführen**.
+1. Neuen Wert eingeben. Klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/runactionnewvalue-hands.png)
 
