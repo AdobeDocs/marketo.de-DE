@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951259
-description: Glossar "Benutzerdefinierter Feldtyp"- Marketing-Dokumente - Produktdokumentation
+description: Glossar "Benutzerdefinierter Feldtyp"- Marketo Dokumente - Produktdokumentation
 title: Glossar "Benutzerdefinierter Feldtyp"
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Glossar für benutzerdefinierten Feldtyp {#custom-field-type-glossary}
 
-Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Liste von Typen zur Auswahl.
+Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste von Typen zur Auswahl.
 
 >[!PREREQUISITES]
 >
->[Benutzerdefiniertes Feld in Marketing erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
@@ -27,7 +27,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 >
 >Die meisten Felder können nicht bei der Anzahl der Zeichen, sondern bei der Anzahl der Byte aussteigen. Daher können wir für jedes Feld keine endgültige Zeichenbeschränkung festlegen. Die Ausnahme ist **String**, was bei 255 Zeichen ausfällt.
 
-## Boolean {#boolean}
+## Boolesch {#boolean}
 
 **Beispielname:** Ist Kunde - Kennzeichnen Sie Ihre Mitarbeiter als Kunden
 
@@ -51,7 +51,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 **Operatoren**: ist, nicht dazwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitraum, nachdem, bevor, am oder danach, am oder vorher, leer ist, nicht leer ist
 
-## Datum {#datetime}
+## Datum/Uhrzeit {#datetime}
 
 **Beispielname:** Erstellungsdatum - Speichern Sie das Datum und die Uhrzeit, zu der eine Person erstellt wurde
 
@@ -59,7 +59,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 **Operatoren**: ist, nicht dazwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitraum, nachdem, bevor, am oder danach, am oder vorher, leer ist, nicht leer ist
 
-## Email {#email}
+## E-Mail {#email}
 
 **Beispielname:** Alternative E-Mail - Behalten Sie eine alternative E-Mail-Adresse für Ihre Mitarbeiter bei (E-Mails können nicht tatsächlich an dieses Feld gesendet werden, wie z. B. das Standardfeld für die E-Mail-Adresse, das ist eine spezielle Adresse)
 
@@ -67,7 +67,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 **Operatoren**: is, is not, Beginn with, not Beginns with, contains, not contains, is empty, is not empty
 
-## Float {#float}
+## Gleitkomma {#float}
 
 **Beispielname:Durchschnittlicher** Grade-Punkt-Durchschnitt - Beibehalten des Grade-Punktdurchschnitts einer Person oder eines anderen numerischen Werts mit Dezimalstellen
 
@@ -81,7 +81,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 **Beispielwerte:verknüpfte Lösung** überprüfen
 
-## Integer {#integer}
+## Ganze Zahl {#integer}
 
 **Beispielname:** Anzahl der Mitarbeiter - Wert einer Zahl ohne Dezimalstellen speichern
 
@@ -105,7 +105,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketing erstellen, haben Sie eine Lis
 
 **Operatoren**: is, is not, Beginn with, not Beginns with, contains, not contains, is empty, is not empty
 
-## Ergebnis {#score}
+## Bewertung {#score}
 
 **Beispielname:** Verhaltensbasierte Bewertung/demografische Bewertung - Erstellen Sie mehrere Ergebnisfelder, um verschiedene Attribute nachzuverfolgen.
 
