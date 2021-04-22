@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360370
-description: Übereinstimmungen mit Programm-Status und Salesforce-Kampagnen-Status vor der Synchronisierung - Marketing-Dokumente - Produktdokumentation
+description: Übereinstimmungen mit Programm- und Salesforce-Kampagnen-Status vor der Synchronisierung - Marketo Docs - Produktdokumentation
 title: Übereinstimmungen mit Programm-Status und Salesforce-Kampagnen vor der Synchronisierung
+exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
 
 ---
 
-
 # Übereinstimmungen mit den Status von Programmen und Salesforce-Kampagnen vor der Synchronisierung{#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 
-In diesem Artikel wird beschrieben, wie Sie einen inkompatiblen Statusfehler und Zuordnungsstatus vor der Synchronisierung der Programm- und Salesforce-Kampagne beheben.
+In diesem Artikel wird beschrieben, wie Sie einen inkompatiblen Statusfehler und Zuordnungsstatus vor der Synchronisierung von Marketo Programm- und Salesforce-Kampagnen beheben.
 
 ## Was tun Sie, wenn Sie eine Fehlermeldung {#what-do-you-do-if-you-received-an-error-message} erhalten haben?
 
@@ -26,5 +26,5 @@ In dieser Fehlermeldung können Sie folgende Optionen auswählen:
 1. Wählen Sie eine andere Kampagne aus dem Dropdown-Menü ODER
 1. Sie können das Problem abbrechen, Statusfehler beheben und nach der Behebung der Fehler eine Synchronisierung durchführen. Führen Sie einen der folgenden Schritte aus, um Statusfehler zu beheben:
 
-   * Melden Sie sich bei Salesforce an und entfernen oder benennen Sie die inkompatiblen Kampagnen-Mitgliedsstaaten um, um den Marketo-Programm-Statusangaben zu zugeordnet zu werden, die für den mit Ihrem Marketing-Programm verknüpften Kanal-Typ verwendet werden.
-   * Ändern Sie die Status der Programme in Marketo, um sie den Mitgliedstaaten der Salesforce-Kampagne zuzuordnen, die Sie eingerichtet haben. Dies ist eine Marketing Admin-Funktion. Weitere Informationen finden Sie unter [Erstellen eines Programm-Kanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * Melden Sie sich bei Salesforce an und entfernen oder benennen Sie die inkompatiblen Kampagnen-Mitgliedsstaaten um, um den Marketo-Programm-Statusangaben zuzuordnen, die für den mit Ihrem Marketo-Programm verknüpften Kanal verwendet werden.
+   * Ändern Sie die Statusangaben des Programms in Marketo, um sie den Mitgliedstaaten der Salesforce-Kampagne zuzuordnen, die Sie eingerichtet haben. Dies ist eine Marketo Admin-Funktion. Weitere Informationen finden Sie unter [Erstellen eines Programm-Kanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
