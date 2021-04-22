@@ -1,20 +1,20 @@
 ---
-description: Synchronisieren einer Audience von Adobe Experience Cloud - Marketing Docs - Produktdokumentation
+description: Synchronisieren einer Audience von Adobe Experience Cloud - Marketo Docs - Produktdokumentation
 title: Synchronisieren einer Audience von Adobe Experience Cloud
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # Synchronisieren einer Audience von Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
 
 >[!NOTE]
 >
->Eine HIPAA-bereite Bereitstellung einer Marketing-Instanz kann diese Integration nicht verwenden.
+>Eine HIPAA-bereite Bereitstellung einer Marketo-Instanz kann diese Integration nicht verwenden.
 
 >[!PREREQUISITES]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Synchronisieren einer Audience {#how-to-sync-an-audience}
 
-1. Klicken Sie in &quot;My Marketo&quot;auf die Kachel **Database**.
+1. Klicken Sie in My Marketo auf die Kachel **Database**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 **Wie funktioniert die Cookie-Synchronisierung?**
 
-Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht die Datei &quot;munchkin.js&quot;von Marketo, ECIDs der Adobe für die Adobe IMS Org zu erfassen und zu speichern, die Sie während der Integrationseinstellung angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-ID abzustimmen. Dadurch können die anonymen Profil von Marketo mit Adobe-ECIDs bereichert werden.
+Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht Marketo&#39;s munchkin.js, ECIDs der Adobe für die Adobe IMS Org zu erfassen und zu speichern, die Sie bei der Integrationseinrichtung angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-ID abzustimmen. Dadurch können die anonymen Marketo-Profil mit Adobe-ECIDs bereichert werden.
 
 Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerkonto mit einem Lead-Profil zu verknüpfen, das mit einer E-Mail-Adresse ohne Text identifiziert wird. Wie genau dies funktioniert [wird hier beschrieben.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
 
 **Warum unterscheidet sich die Liste in Marketo von der in der Adobe?**
 
-Eine Person wird auch nicht synchronisiert, wenn wir keine ECID-Cookie-ID mit einer bekannten Person in Marketo verknüpfen können.
+Eine Person wird auch nicht synchronisiert, wenn es nicht möglich ist, eine ECID-Cookie-ID mit einer bekannten Person in Marketo zu verknüpfen.
 
 **Ist das eine einmalige Synchronisierung?**
 
