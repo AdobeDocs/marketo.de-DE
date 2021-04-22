@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097199
-description: Versionshinweise - Winter '16 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Winter 16 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Winter 16
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Versionshinweise: Winter &#39;17 {#release-notes-winter}
+# Versionshinweise: Winter &#39;16 {#release-notes-winter}
 
 Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
@@ -27,13 +27,13 @@ Die Interessentendatenbank verfügt über ein aktualisiertes Zusammenfassungs-Da
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Microsoft Edge wurde zur [Liste der Browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) hinzugefügt, die von Marketing unterstützt werden.
+Microsoft Edge wurde zur [Liste der von Marketo unterstützten Browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) hinzugefügt.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
 [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)  wird jetzt unterstützt.
 
-## [Email Programm Head Beginn](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## [E-Mail-Programm Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
 Verwenden Sie den Head-Beginn, um anzugeben, dass die Verarbeitung für Ihren Senden vorzeitig erfolgen soll. Anstatt Leads zu qualifizieren und E-Mails zur geplanten Zeit des Programms vorzubereiten, stellt Head Beginn sicher, dass diese Aufgaben im Voraus durchgeführt werden. Auf diese Weise erhält Ihre Audience Beginn E-Mails zur geplanten Zeit.
 
@@ -47,7 +47,7 @@ Um diese Funktion nutzen zu können, muss das E-Mail-Programm mindestens 12 Stun
 >
 >Diese Funktion wird eine Woche nach der Winterversion 16 schrittweise eingeführt. Es ist nicht für die Verwendung mit intelligenten Kampagnen oder der API verfügbar.
 
-## [Verbesserungen beim Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
+## [Mobile-Marketing-Erweiterungen](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
 **PhoneGap-Unterstützung:** Wir unterstützen jetzt Angebot PhoneGap für Ihre mobile App. [Weitere Informationen](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
@@ -57,9 +57,9 @@ Um diese Funktion nutzen zu können, muss das E-Mail-Programm mindestens 12 Stun
 
 ## [Programm-API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
-Erstellen, aktualisieren und klonen Sie Programm über die REST-API. Dies umfasst nicht die Erstellung oder Aktualisierung intelligenter Listen und intelligenter Kampagnen in einem Programm.
+Über REST API Programme erstellen, aktualisieren und klonen. Dies umfasst nicht die Erstellung oder Aktualisierung intelligenter Listen und intelligenter Kampagnen in einem Programm.
 
-## [Verbesserungen bei Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Erweiterung von Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
 **[Synchronisierungsstatus](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Behalten Sie die Tabulatoren für den aktuellen Durchsatz und den Rückstand des Synchronisierungsprozesses bei. Unterteilen Sie sie nach Anzahl der Einfügungen und Aktualisierungen nach Objekt.
 
@@ -69,15 +69,15 @@ Erstellen, aktualisieren und klonen Sie Programm über die REST-API. Dies umfass
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
-## [Verbesserungen bei benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
+## [Erweiterung der benutzerdefinierten Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
 
 Sie können jetzt viele-zu-viele Beziehungen zwischen Interessenten/Konten und einem benutzerdefinierten Objekt erstellen, indem Sie ein Intermediarobjekt mit mehreren Linkfeldern verwenden.
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook-Interessentenanzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook-Lead-Anzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook-](https://www.facebook.com/business/a/lead-ads) Interessentenanzeigen sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf Facebook durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zu bekunden, damit das Unternehmen darauf reagieren kann. Die Integration von Marketing in Facebook-Interessentenanzeigen erfasst automatisch die Informationen, die ein Interessent im Formular für Interessentenanzeigen bereitstellt. Folgeaktionen und Benachrichtigungen können dann mithilfe des neuen Triggers &quot;Facebook-Werbeanzeigen ausfüllen&quot;automatisiert werden.
+[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) Advertising ist eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Interessentenanwerbung auf Facebook zu führen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zu bekunden, damit das Unternehmen darauf reagieren kann. Die Marketo-Integration mit Facebook-Interessentenanzeigen erfasst automatisch die Informationen, die ein Interessent im Interessentenanzeigeformular bereitstellt. Folgeaktionen und Benachrichtigungen können dann mit dem neuen Trigger &quot;Ausfüllen von Facebook-Interessentenanzeigen&quot;automatisiert werden.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
