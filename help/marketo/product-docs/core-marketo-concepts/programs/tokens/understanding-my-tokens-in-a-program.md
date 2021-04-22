@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: Einführung zu meinen Token in einem Programm - Marketing Docs - Produktdokumentation
+description: Einführung zu meinen Token in einem Programm - Marketo Docs - Produktdokumentation
 title: Meine Token in einem Programm
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # My Tokens in einem Programm {#understanding-my-tokens-in-a-program}
 
@@ -17,7 +17,7 @@ Ein Token ist eine Variable, die Sie in E-Mails, Landingpages und intelligenten 
 
 Zusätzlich zu &quot;Meine Token&quot;können Sie auch beliebige der integrierten Token in Ihren Programmen verwenden. Sehen Sie sich die [Tokens-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an.
 
-## Meine Tokens {#my-tokens}
+## Meine Token  {#my-tokens}
 
 Meine Tokens sind benutzerspezifische Variablen, die jeder erstellen kann. Sie sind [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) in Kampagnen- oder Programmen.
 
@@ -37,7 +37,7 @@ Beispiele:
  </thead> 
  <tbody> 
   <tr> 
-   <td>Kalenderdatei <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Kalenderdatei <img alt="--" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Verwenden Sie dieses Token, um <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">eine Kalenderdatei (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> zu Ihren E-Mails und Landingpages hinzuzufügen.</td> 
   </tr> 
   <tr> 
@@ -45,24 +45,24 @@ Beispiele:
    <td>Dieses Token enthält einen Datumswert. Das Datum wird als Jahr-Monat-Tag angezeigt (z. B. 2016-05-23).</td> 
   </tr> 
   <tr> 
-   <td>Email-Skript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>E-Mail-Script <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. Weitere Informationen <a href="https://developers.marketo.com/documentation/email-scripting/" title="Link" rel="nofollow">hier</a>. </td> 
   </tr> 
   <tr> 
-   <td>Number<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
+   <td>Zahl<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
    <td>Jede Ganzzahl. Es kann sogar negativ sein.</td> 
   </tr> 
   <tr> 
-   <td>Rich Text <img alt="—" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>RTF <img alt="—" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Das ist HTML. Verwenden Sie es in E-Mails und Landingpages.</td> 
   </tr> 
   <tr> 
-   <td>Ergebnis <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Bewertung <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Verwenden Sie dieses Token im Schritt <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">zum Ändern des Ergebnisablaufs</a>. </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC-Kampagne <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
-   <td colspan="1">Verwenden Sie dieses Token, um zu ermöglichen, dass Interessenten, die Teil eines Marketo-Programms werden, auch zu jeder SFDC-Kampagne hinzugefügt werden.</td> 
+   <td colspan="1">Verwenden Sie dieses Token, um zu ermöglichen, dass Interessenten, die Teil eines Marketo-Programms werden, auch zu jeder beliebigen SFDC-Kampagne hinzugefügt werden.</td> 
   </tr> 
   <tr> 
    <td>Text <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
