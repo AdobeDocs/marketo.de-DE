@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783563
-description: Vorschau einer E-Mail - Marketing-Dokumente - Produktdokumentation
+description: Vorschau einer E-Mail - Marketo Dokumente - Produktdokumentation
 title: Vorschau einer E-Mail
+exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # Vorschau einer E-Mail {#previewing-an-email}
 
