@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360327
-description: Zuweisen von Benutzerpartitionen zu Zuweisungsregeln - MarketingToDocs - Produktdokumentation
+description: Zuweisen von Benutzerpartitionen zu Zuweisungsregeln - Marketo Dokumente - Produktdokumentation
 title: Zuweisen von Benutzerpartitionen zu Zuordnungsregeln
+exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Zuweisen von Benutzerpartitionen zu Zuweisungsregeln {#assigning-person-partitions-with-assignment-rules}
 
@@ -25,7 +25,7 @@ Richten Sie bei der Verwendung von Personenpartitionen Zuweisungsregeln ein, um 
 
 >[!NOTE]
 >
->Nur Personen, die in Marketo von Ihrem CRM und über die SOAP-API erstellt wurden, haben Zuweisungsregeln auf sie angewendet.
+>Nur Personen, die in Marketo aus Ihrem CRM-System und über die SOAP-API erstellt wurden, haben Zuordnungsregeln auf sie angewendet.
 
 1. Klicken Sie unter &quot;Admin&quot;auf Arbeitsbereiche und Partitionen.
 
