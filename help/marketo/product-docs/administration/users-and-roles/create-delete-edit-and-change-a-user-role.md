@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360198
-description: Benutzerrolle erstellen, löschen, bearbeiten und ändern - MarketingToDocs - Produktdokumentation
+description: Benutzerrolle erstellen, löschen, bearbeiten und ändern - Marketo Dokumente - Produktdokumentation
 title: Benutzerrolle erstellen, löschen, bearbeiten und ändern
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen, Löschen, Bearbeiten und Ändern einer Benutzerrolle {#create-delete-edit-and-change-a-user-role}
 
@@ -97,4 +97,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Wenn Sie mehrere Rollen ausgewählt lassen, erhält Marketo standardmäßig die restriktivste Berechtigung.
+>Wenn Sie mehrere Rollen ausgewählt lassen, hat Marketo standardmäßig die restriktivste Berechtigung.
