@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146980
-description: Hinzufügen in einem Flussschritt - Marketing Docs - Produktdokumentation verwenden
+description: Hinzufügen in einem Flussschritt - Marketo Docs - Produktdokumentation verwenden
 title: Hinzufügen in einem Flussschritt verwenden
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Hinzufügen in einem Flussschritt {#use-add-choice-in-a-flow-step} verwenden
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >Nur die erste passende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie Sie [die Hinzufügen in einer Flussaktion](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md) neu anordnen.
 
-   Großartig! Sie können jetzt eine einzelne intelligente Kampagne mit Flussschrittauswahl erstellen, anstatt für jede Auswahl mehrere intelligente Kampagnen zu erstellen.
+   Sehr gut! Sie können jetzt eine einzelne intelligente Kampagne mit Flussschrittauswahl erstellen, anstatt für jede Auswahl mehrere intelligente Kampagnen zu erstellen.
 
    >[!MORELIKETHIS]
    >
