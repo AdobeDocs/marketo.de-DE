@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
-description: Adobe Experience Manager-Integration konfigurieren - Marketing Docs - Produktdokumentation
+description: Adobe Experience Manager-Integration konfigurieren - Marketo Docs - Produktdokumentation
 title: Adobe Experience Manager-Integration konfigurieren
+exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Manager-Integration konfigurieren {#configuring-adobe-experience-manager-integration}
 
-Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und sie in das Design Studio von Marketo importieren können.
+Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und sie in Marketo Design Studio importieren können.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und si
 
    ![](assets/eight.png)
 
-1. Klicken Sie in Marketing Classic auf **Admin**.
+1. Klicken Sie in Marketo Classic auf **Admin**.
 
    ![](assets/nine.png)
 
