@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571846
-description: Microsoft Dynamics Sync - Custom Entity Sync - Marketing Docs - Produktdokumentation
+description: Microsoft Dynamics Sync - Custom Entity Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Benutzerdefinierte Entitäts-Synchronisierung
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamics Sync: Benutzerdefinierte Entitäts-Synchronisierung {#microsoft-dynamics-sync-custom-entity-sync}
 
@@ -35,9 +35,9 @@ Wenn Sie die anfängliche benutzerdefinierte Entitätssynchronisierung aktiviere
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Installieren Sie eine Version von Microsoft Dynamics, die die benutzerdefinierte Entitätssynchronisierung unterstützt (nach 2_0_0_2). Siehe [Marketo Plugin Releases für MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Installieren Sie eine Version von Microsoft Dynamics, die die benutzerdefinierte Entitätssynchronisierung unterstützt (nach 2_0_0_2). Siehe [Marketo Plugin Releases for MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
-1. Weisen Sie dem Synchronisierungsbenutzer Lesezugriff auf alle Entitäten zu, die synchronisiert werden sollen.
+1. Weisen Sie dem Marketo Sync User Lesezugriff auf alle Entitäten zu, die synchronisiert werden sollen.
 
 1. Klicken Sie unter &quot;Datenbankverwaltung&quot;auf den Link **Dynamics Entities Sync**.
 
