@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949222
-description: SEO - Export Issues to CSV - Marketing Docs - Produktdokumentation
+description: SEO - Exportprobleme in CSV - Marketo Dokumente - Produktdokumentation
 title: SEO - Exportprobleme in CSV
+exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEO - Exportieren von Problemen in CSV {#seo-export-issues-to-csv}
 
