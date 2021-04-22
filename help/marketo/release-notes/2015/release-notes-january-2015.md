@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720758
-description: Versionshinweise - Januar 2015 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Januar 2015 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Januar 2015
+exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # Versionshinweise: Januar 2015 {#release-notes-january}
 
-Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu finden Links zu detaillierten Artikeln für jede Funktion!
+Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Überprüfen Sie Ihre Marketo Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu finden Links zu detaillierten Artikeln für jede Funktion!
 
 ## Aktualisierungen der Marketing-Automatisierung {#marketing-automation-updates}
 
@@ -27,21 +27,21 @@ Sie können jetzt [Mobilgeräte-Ansichten für Landingpages](/help/marketo/produ
 
 Drei neue Aufrufe für die Lead &amp; Aktivität ReST-API:
 
-* Interessenten löschen
+* Lead löschen
 * Interessenten nach Programm-ID abrufen
 * Gelöschte Interessenten abrufen
 
 Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Interessentenänderung asynchron für einen schnelleren API-Aufruf zu schreiben. Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](https://developers.marketo.com) verfügbar.
 
-**E-Mail-Skriptunterstützung für benutzerdefinierte Objekte**
+**E-Mail-Skriptfunktionen: Support für benutzerdefinierte Objekte**
 
 Greifen Sie nun über E-Mail-Skripte auf benutzerdefinierte Objekte zu, die mit dem Kontoobjekt verknüpft sind!
 
 ## Echtzeit-Personalisierung {#real-time-personalization}
 
-**Personalisierte Remarketing für Google und Facebook**
+**Individuelles Remarketing für Google und Facebook**
 
-Remarketing zeigt Anzeigen für Personen, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt auf [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) mithilfe von Daten aus der Echtzeit-Personalisierung personalisieren. Erfahren Sie mehr zu Audiencen aus verschiedenen Branchen, namentlich Kontoangaben, Listen der Firma oder Daten bekannter Interessenten.
+Remarketing zeigt Anzeigen für Personen, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt unter [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) mithilfe von Daten aus der Echtzeit-Personalisierung personalisieren. Erfahren Sie mehr zu Audiencen aus verschiedenen Branchen, namentlich Kontoangaben, Listen der Firma oder Daten bekannter Interessenten.
 
 [Modul zur Liste benannter Konten](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
