@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359916
-description: Passwort ändern - MarketingToDocs - Produktdokumentation
-title: Kennzeichnungskennwort ändern
+description: Marketo-Kennwort ändern - Marketo-Dokumente - Produktdokumentation
+title: Marketo-Kennwort ändern
+exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# Marketo-Kennwort ändern {#change-your-marketo-password}
 
-# Ändern des Kennzeichens in Kennwort {#change-your-marketo-password}
-
-Ändern Sie Ihr Marketo-Kennwort mit diesen einfachen Schritten.
+Ändern Sie Ihr Marketo-Kennwort wie folgt:
 
 1. Jeder Marketo-Benutzer kann auf seinen Namen und **Mein Konto** klicken.
 
