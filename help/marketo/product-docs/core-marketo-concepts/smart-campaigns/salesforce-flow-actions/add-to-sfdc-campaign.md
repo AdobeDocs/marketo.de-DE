@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147034
-description: hinzufügen zur SFDC-Kampagne - Marketing Docs - Produktdokumentation
-title: hinzufügen an die SFDC-Kampagne
+description: hinzufügen zur SFDC-Kampagne - Marketo Docs - Produktdokumentation
+title: Zu SFDC-Kampagne hinzufügen
+exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# hinzufügen zu SFDC-Kampagne {#add-to-sfdc-campaign}
+# Der SFDC-Kampagne hinzufügen {#add-to-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Dieser Flussschritt kann in Marketo-Kampagnen oder als einzelner Flussschritt ve
 
 ![](assets/image2014-9-22-15-3a43-3a36.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Suchen und wählen Sie die Salesforce-Kampagne aus, der Sie Ihre Interessenten hinzufügen möchten.
 
@@ -34,7 +34,7 @@ Dieser Flussschritt kann in Marketo-Kampagnen oder als einzelner Flussschritt ve
    >Wenn in der Liste Kampagne keine Salesforce-Kampagne angezeigt wird:
    >
    >  1. Vergewissern Sie sich, dass [Kampagne-Synchronisierung aktiviert ist](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >  1. Vergewissern Sie sich, dass der [Markieren Sie den Benutzer ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) in Salesforce [ein ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)Marketing-Benutzer ist.
+   >  1. Vergewissern Sie sich, dass der [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ein [Marketing-Benutzer](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce ist.
 
 
    >[!TIP]
