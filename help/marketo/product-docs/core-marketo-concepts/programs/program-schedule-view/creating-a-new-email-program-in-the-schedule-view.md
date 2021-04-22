@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147144
-description: Erstellen eines neuen E-Mail-Programms in der Ansicht Plan - Marketing Docs - Produktdokumentation
+description: Erstellen eines neuen E-Mail-Programms in der Ansicht Plan - Marketo Docs - Produktdokumentation
 title: Erstellen eines neuen E-Mail-Programms in der Ansicht "Plan"
+exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines neuen E-Mail-Programms in der Ansicht Plan {#creating-a-new-email-program-in-the-schedule-view}
 
