@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098379
-description: Verwenden Sie die Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld - Marketing Docs - Produktdokumentation
+description: Verwenden Sie die Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld - Marketo Docs - Produktdokumentation
 title: Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld verwenden
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
-
 
 # Verwenden Sie die Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
@@ -75,7 +75,7 @@ Was ist, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies jedoch nur
 
 ## Korrektur von nicht synchronisierten Feldern {#fixing-out-of-sync-fields}
 
-In dem seltenen Fall, in dem ein Dynamikfeld und ein Marketo-Feld nicht synchron sind, gibt es eine schnelle und einfache Möglichkeit, sie neu zu synchronisieren.
+In dem seltenen Fall, in dem ein Dynamics- und Marketo-Feld nicht synchron sind, gibt es eine schnelle und einfache Möglichkeit, sie neu zu synchronisieren.
 
 1. Deaktivieren Sie das Feld und klicken Sie auf **Speichern**.
 
