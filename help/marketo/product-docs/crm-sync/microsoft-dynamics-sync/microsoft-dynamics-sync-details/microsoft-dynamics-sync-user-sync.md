@@ -2,14 +2,14 @@
 unique-page-id: 3571840
 description: Microsoft Dynamics Sync - User Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - User Sync
+exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamics Sync: Benutzersynchronisierung {#microsoft-dynamics-sync-user-sync}
 
@@ -19,11 +19,11 @@ Für die Integration benötigen Sie einen eigenen Microsoft Dynamics CRM-Benutze
 
 ## Wie werden die Benutzerdetails zwischen den beiden Systemen synchronisiert? {#how-are-user-details-kept-in-sync-between-the-two-systems}
 
-Die Benutzersynchronisierung ist eine Möglichkeit - Dynamik zu Marketo. Wenn Sie Änderungen an einem Benutzer in Dynamics vornehmen, werden die Änderungen in Marketo übernommen.
+Die Benutzersynchronisierung ist eine Möglichkeit - Dynamics zu Marketo. Wenn Sie Änderungen an einem Benutzer in Dynamics vornehmen, werden die Änderungen in Marketo übernommen.
 
 ## Kann ich einen Benutzer mit Marketo erstellen? {#can-i-create-an-user-using-marketo}
 
-Anzahl Marketo kann keine Benutzer in Dynamics erstellen.
+Anz. Marketo kann keine Benutzer in Dynamics erstellen.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#which-fields-will-sync-to-marketo}
 
