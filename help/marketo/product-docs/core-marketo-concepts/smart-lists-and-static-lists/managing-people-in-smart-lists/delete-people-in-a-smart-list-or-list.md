@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146897
-description: Löschen von Personen in einer intelligenten Liste oder Liste - Marketing Docs - Produktdokumentation
+description: Löschen von Personen in einer intelligenten Liste oder Liste - Marketo Docs - Produktdokumentation
 title: Löschen von Personen in einer intelligenten Liste oder Liste
+exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Löschen von Personen in einer Smart-Liste oder -Liste {#delete-people-in-a-smart-list-or-list}
 
@@ -49,17 +49,17 @@ Sie können einige/alle Personen, die sich in einer Liste oder einer intelligent
 
    >[!CAUTION]
    >
-   >Das Löschen von Marketo und Ihrem CRM-System bedeutet, dass Sie in keinem der beiden Systeme wiederhergestellt werden können. Die Menschen und ihre Geschichte werden für immer verschwinden. Wenn Sie sie später erneut hinzufügen, werden sie als brandneue Datensätze behandelt.
+   >Das Löschen von Marketo und Ihrem CRM-System bedeutet, dass Sie sich in keinem der beiden Systeme wiederherstellen können. Die Menschen und ihre Geschichte werden für immer verschwinden. Wenn Sie sie später erneut hinzufügen, werden sie als brandneue Datensätze behandelt.
 
    >[!NOTE]
    >
-   >Wenn Ihr Marketo nicht an Ihr CRM gebunden ist, wird die Option wie im Screenshot grau dargestellt.
+   >Wenn Ihr Marketo nicht an Ihr CRM-System gebunden ist, wird die Option wie im Screenshot grau dargestellt.
 
 1. Klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Wenn Sie mehr als 50 Personen löschen, sehen Sie dies. Geben Sie die Anzahl der Personen ein, die Sie löschen möchten, markieren Sie das Feld **Rückgängig können nicht rückgängig gemacht werden** und klicken Sie dann auf **Löschen**.
+1. Wenn Sie mehr als 50 Personen löschen, sehen Sie dies. Geben Sie die Anzahl der Personen ein, die Sie löschen möchten, markieren Sie das Feld **Rückgängig können nicht rückgängig machen** und klicken Sie dann auf **Löschen**.
 
    ![](assets/seven.png)
 
