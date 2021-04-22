@@ -1,20 +1,20 @@
 ---
-description: hinzufügen oder entfernen Sie Personen aus Ihrer Dynamics-Kampagne - Marketing Docs - Produktdokumentation
+description: hinzufügen oder entfernen Sie Personen aus Ihrer Dynamics-Kampagne - Marketo Docs - Produktdokumentation
 title: hinzufügen oder entfernen Sie Personen aus Ihrer Kampagne "Dynamics"
+exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-
 # hinzufügen oder entfernen Sie Personen aus Ihrer Dynamics Kampagne {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## hinzufügen auf Dynamics Kampagne {#add-to-dynamics-campaign}
 
-Dieser Flussschritt kann in Marketo Smart-Kampagnen verwendet werden, um Personen als Interessenten oder Ansprechpartner in einer Microsoft-Kampagne hinzuzufügen. Wenn der Interessent noch nicht in Dynamics vorhanden ist, wird er automatisch synchronisiert und der Kampagne hinzugefügt.
+Dieser Flussschritt kann in Marketo Smart-Kampagnen verwendet werden, um Personen als Kontakte oder Kontakte in einer Microsoft-Kampagne hinzuzufügen. Wenn der Interessent noch nicht in Dynamics vorhanden ist, wird er automatisch synchronisiert und der Kampagne hinzugefügt.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Wählen Sie in Ihrer intelligenten Kampagne die Dynamics Kampagne aus, der Sie I
 
 Das System erstellt automatisch eine Kampagne-spezifische statische Marketing-Liste, jeweils für Kontakte und Kontakte, die der Person hinzugefügt werden. Es handelt sich um eine einmalige Aktion, bei der einmal für eine nachfolgende Synchronisierung mit der Kampagne dieselbe Marketing-Liste verwendet wird. Der für den Namen der statischen Marketing-Liste verwendete Benennungsstandard lautet `Mkto-leads-<uniqueID>` für Interessenten und `Mkto-contacts-<uniqueID>` für Kontakte.
 
-Die Verknüpfung dieser marketinggenerierten Marketing-Listen mit anderen Kampagnen könnte zu Verwirrung führen. Beispiel: die einer Kampagne hinzugefügt wird, würde auch dazu führen, dass die zweite Kampagne hinzugefügt wird. Ebenso wird auch eine Trennung der von Marketo generierten Marketing-Liste von der Kampagne in Dynamics nicht empfohlen.
+Die Verknüpfung dieser Marketo-generierten Marketing-Listen mit anderen Kampagnen könnte zu Verwirrung führen. Beispiel: die einer Kampagne hinzugefügt wird, würde auch dazu führen, dass die zweite Kampagne hinzugefügt wird. Ebenso wird nicht empfohlen, die Marketo-generierte Marketing-Liste von der Kampagne in Dynamics zu trennen.
 
 ## Aus Dynamics-Kampagne {#remove-from-dynamics-campaign} entfernen
 
