@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147017
-description: Aufgabe erstellen - Marketing Docs - Produktdokumentation
+description: Aufgabe erstellen - Marketo Docs - Produktdokumentation
 title: Aufgabe erstellen
+exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Aufgabe {#create-task} erstellen
+# Aufgabe erstellen {#create-task}
 
 Als Marketingspezialist verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Geschäften helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
 
@@ -19,7 +19,7 @@ Als Marketingspezialist verfügen Sie über Informationen, die dem Vertrieb beim
 
 >[!NOTE]
 >
->Wenn der Markieren-Synchronisierungsbenutzer Aufgaben erstellt, ist **Due In** ein erforderliches Feld, damit die Aufgabe in Salesforce erstellt werden kann. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
+>Wenn der Marketo-Synchronisierungsbenutzer Aufgaben erstellt, ist **Due In** ein erforderliches Feld, damit die Aufgabe in Salesforce erstellt werden kann. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
 
 Standardmäßig sieht der Flussschritt wie folgt aus:
 
