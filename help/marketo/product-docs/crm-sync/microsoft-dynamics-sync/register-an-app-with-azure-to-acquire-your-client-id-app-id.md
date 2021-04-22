@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12983390
-description: Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erwerben - Marketing Docs - Produktdokumentation
+description: Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erwerben - Marketo Docs - Produktdokumentation
 title: Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erhalten.
+exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erlangen. {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
@@ -87,4 +87,3 @@ Azurblauer Active Directory erweitert Ihre lokalen Verzeichnisse in die Cloud un
    Und du bist fertig!
 
    ![](assets/fifteen.png)
-
