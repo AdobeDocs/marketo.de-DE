@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147084
-description: Aus Fluss entfernen - Marketing-Dokumente - Produktdokumentation
-title: Aus Fluss entfernen
+description: Aus Fluss entfernen - Marketo Docs - Produktdokumentation
+title: Aus Flow entfernen
+exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Aus Fluss {#remove-from-flow} entfernen
+# Aus Flow entfernen {#remove-from-flow}
 
 Stellen Sie sich vor, Sie haben eine intelligente Kampagne, die mit &quot;Warnung senden&quot;einen Vertriebsmitarbeiter daran erinnert, einen heißen Potenzieller Kunde anzurufen. Es sendet jeden Tag eine Nachricht, bis der Mitarbeiter den Anruf abgibt. Sie können &quot;Aus Fluss entfernen&quot;in einer Trigger-Kampagne verwenden, sobald der Potenzieller Kunde kontaktiert wurde, um weitere Warnungen zu stoppen. Es ist wie ein kluger Kampagne-Projektor-Sitzplatz für eine Person.
 
@@ -25,7 +25,7 @@ Sie können Personen aus dem Fluss einer Kampagne entfernen, indem Sie den Fluss
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 Wählen Sie die intelligente Kampagne aus, aus der Sie Personen entfernen möchten.
 
