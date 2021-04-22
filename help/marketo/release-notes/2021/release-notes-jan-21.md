@@ -1,18 +1,18 @@
 ---
-description: Versionshinweise - Januar 2021 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Januar 2021 - Marketo Dokumente - Produktdokumentation
 title: Versionshinweise - Januar 2021
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1268'
+ht-degree: 1%
 
 ---
 
-
 # Versionshinweise: Januar 2021 {#release-notes-jan-21}
 
-Die folgenden Funktionen sind in der Version vom 21. Januar enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom 21. Januar enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -32,18 +32,18 @@ Die folgenden Funktionen werden am **15. Januar 2021** veröffentlicht.
 * **[Kontinuierliche Synchronisierung der Audience mit Google, Facebook und LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**: Kontinuierlich automatisierte Synchronisierung mit einem Werbenetzwerk kann auf einer statischen Liste aktiviert werden. Dadurch wird das Werbenetzwerk aktualisiert, wenn sich die Mitgliedschaft in der Liste ändert, ohne dass ein Benutzereingriff erforderlich ist.
 * **[Token für benutzerdefinierte Felder](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)** für Programm-Member: Die Funktionen für benutzerdefinierte Programm-Mitglieder wurden erweitert, um das Token-Framework zu unterstützen. Marketingexperten können benutzerspezifische Felder in E-Mails, Landingpages, SMS-Nachrichten, Push-Benachrichtigungen und Webhooks einfügen. Verwenden Sie neue Token in Kampagnen-Flussaktionen, um Datenwerte zu ändern, eine Aufgabe oder einen interessanten Moment zu erstellen.
 
-## Landingpages und Forms {#landing-pages-and-forms}
+## Landing Pages und Formulare {#landing-pages-and-forms}
 
-* **Formular-API**: Ziehen Sie Interessenteninformationen oder Trigger-Kampagnen ein, während Sie Daten von Nicht-Marketo-Formularen abrufen. Nicht-Marketo-Formulare können über die REST-API in Marketo Engage integriert werden. Die neue API bietet die Möglichkeit, die Formularübermittlung des Marketo Engages mit allen zugehörigen Funktionen zu imitieren.
+* **Formular-API**: Ziehen Sie Interessenteninformationen oder Trigger-Kampagnen ein, während Sie Daten aus Nicht-Marketo-Formularen abrufen. Nicht-Marketo-Formulare können über die REST-API in Marketo Engage integriert werden. Die neue API bietet die Möglichkeit, die Formularübermittlung des Marketo Engages mit allen zugehörigen Funktionen zu imitieren.
 * **Landingpages-API**: Mit der neuen Landingpage Vorschau API können Sie Workflows in integrierten Anwendungen optimieren. Drittanbieter können nun vollständig personalisierte Vorschauen von Landingpages wiedergeben, ohne sich bei Marketo Engage anzumelden.  Die Landingpage Vorschau API ermöglicht die durchgängige Bearbeitung und lokale Anpassung von Workflows in integrierten Anwendungen von Drittanbietern.
 
-## Email Marketing {#email-marketing}
+## E-Mail-Marketing {#email-marketing}
 
 * **[Benutzerdefinierte Objekte - Abrufbeschränkungen erhöht](/help/marketo/product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)**: Entwickler von E-Mail-Velocity Scripting können die Anzahl der benutzerdefinierten Objekte durch Selbstbedienungsüberschreibungen schnell auf 100 erhöhen. Marketingexperten können die Effektivität intelligenter Kampagnen erhöhen, indem sie auf eine größere Anzahl von benutzerdefinierten Objekten der ersten und zweiten Ebene zugreifen.
 
-## Salesforce CRM-Integration {#salesforce-crm-integration}
+## Integration von Salesforce CRM {#salesforce-crm-integration}
 
-* [Salesforce CRM-Authentifizierung](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Das OAuth 2.0-Protokoll ist für die Synchronisierung von Operationen zwischen Marketo Engage und Salesforce CRM verfügbar. Bei neuen Abonnenten ist diese Option standardmäßig aktiviert. Aktuelle Abonnenten können diese Funktion anfordern, indem sie sich an den Marketing Support wenden.
+* [Salesforce CRM-Authentifizierung](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Das OAuth 2.0-Protokoll ist für die Synchronisierung von Operationen zwischen Marketo Engage und Salesforce CRM verfügbar. Bei neuen Abonnenten ist diese Option standardmäßig aktiviert. Aktuelle Abonnenten können diese Funktion beim Marketo Support anfordern.
 * [Salesforce CRM Syncing-Dashboard](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Administratoren können den Salesforce CRM-Synchronisierungsstatus aus dem Dashboard schnell überprüfen. Die Zeitspanne für die Synchronisierung der Leistungsberichte wurde von 2 Stunden auf 5 Tage erhöht.
 * **Metadatenexport**: Erweitert zur Unterstützung von Opportunitätsobjektattributen, benannten Konten, Standardfeldern und benutzerdefinierten Feldern des Programm-Mitglieds.
 
@@ -65,7 +65,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **[Sales Insight für nicht-native Salesforce CRM-Integrationen](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: GA-Abonnement mit benutzerdefinierten Salesforce CRM-Integrationen können das Sales Insight-Paket installieren und Vertriebsteams dabei unterstützen, die viel versprechendsten Interessenten und Chancen zu priorisieren und mit ihnen zu interagieren.
 * **[Best-Beta-Verbesserungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Kontaktieren Sie Hotspots schnell über das Register Beste Betten, indem Sie sie per E-Mail versenden oder einer Marketo Engage-Kampagne hinzufügen. Ansicht eines Interessenten in Marketo Engage oder fügen Sie ihn Ihrer Überwachungsliste hinzu. Massenaktionen und Sortieroptionen auf der Registerkarte Beste Betten sparen Zeit und verbessern die Effizienz des Verkaufsteams.
 
-## Sales Connect {#sales-connect}
+## SalesConnect {#sales-connect}
 
 ![(Stern)](assets/star-yellow.svg)
 
