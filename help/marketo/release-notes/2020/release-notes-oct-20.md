@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: Versionshinweise - 20. Oktober - Marketing Docs - Produktdokumentation
+description: Versionshinweise - 20. Oktober - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Okt. 20
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
-
 # Versionshinweise: Okt &#39;20 {#release-notes-oct}
 
-Die folgenden Funktionen sind in der Version vom 20. Oktober enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom 20. Oktober enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ Die folgenden Funktionen sind in der Version vom 20. Oktober enthalten. Überpr�
 
 * **Intelligente Kontoversion (Beta)**: Laden Sie Ihre ABM-Strategie mit der neuen Funktion zur intelligenten Liste für Ihr Konto hoch. Dynamische Identifizierung von Konten mit gewünschten Konto- und Personalattributen, um Kanal-übergreifende Kampagnen auszuführen und Warnungen rechtzeitig an den Vertrieb zu senden, um Transaktionen schneller abzuschließen. Hinweis: dies ist nur für Zielgruppe-Kontoverwaltungskunden verfügbar, die an das [Benutzererlebnis der nächsten Generation](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) angeschlossen wurden.
 
-## Email Marketing {#email-marketing}
+## E-Mail-Marketing {#email-marketing}
 
 * **Batch-E-Mail-Verstärkung  ![(Stern)](assets/star-yellow.svg)**: Senden Sie mehr E-Mails mit einem höheren Durchsatz von bis zu 5 Millionen Batch-E-Mails pro Stunde. Dank der umfassenden E-Mail-Auslieferungsoptionen müssen Sie nicht mehr zwischen E-Mail-Stapeln warten, sondern alle E-Mails pünktlich und planmäßig versenden.
 
