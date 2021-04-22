@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147062
-description: Ansicht blockierte Menschen in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
+description: Ansicht blockierte Personen in einer intelligenten Kampagne - Marketo Docs - Produktdokumentation
 title: Ansicht blockierte Personen in einer intelligenten Kampagne
+exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ansicht blockierte Personen in einer intelligenten Kampagne {#view-blocked-people-in-a-smart-campaign}
 
@@ -17,7 +17,7 @@ Blockierte Personen in der Marketo-Datenbank werden als auf die Blockierungslist
 
 >[!NOTE]
 >
->Marketo ist dabei, Begriffe wie Blacklist und Whitelist in Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
+>Marketo ist dabei, Begriffe wie Blacklist und Whitelist zu ändern, um Blockierungsliste und Zulassungsliste in unserem Produkt zu erhalten. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
 1. Klicken Sie in Ihrer intelligenten Kampagne auf **Plan**. Klicken Sie unter **Status der intelligenten Liste** auf den zweiten Link.
 
@@ -37,7 +37,7 @@ Blockierte Personen in der Marketo-Datenbank werden als auf die Blockierungslist
 
    >[!MORELIKETHIS]
    >
-   >* [Qualifikationsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [Qualifizierungsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
    >* [Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
    >* [Mitglieder der Ansicht für intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
    >* [Qualifizierte Ansicht für Menschen in einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
