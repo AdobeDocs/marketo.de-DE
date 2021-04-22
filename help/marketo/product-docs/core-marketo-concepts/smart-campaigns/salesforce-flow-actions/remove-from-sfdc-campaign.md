@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147036
-description: Entfernen aus der SFDC-Kampagne - Marketing Docs - Produktdokumentation
+description: Entfernen aus der SFDC-Kampagne - Marketo Docs - Produktdokumentation
 title: Aus SFDC-Kampagne entfernen
+exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
-# Aus SFDC-Kampagne {#remove-from-sfdc-campaign} entfernen
+# Aus SFDC-Kampagne entfernen {#remove-from-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Ebenso wie Sie [Hinzufügen zu SFDC-Kampagne](/help/marketo/product-docs/core-ma
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Nachdem Sie den Textfluss in den Textfluss gezogen haben, suchen und wählen Sie die Salesforce-Kampagne aus, aus der Sie die Person oder den Interessenten entfernen möchten.
 
