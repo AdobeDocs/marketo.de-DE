@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953457
-description: SFDC-Synchronisierung - Kontaktsynchronisierung - Marketing-Dokumente - Produktdokumentation
+description: SFDC-Synchronisierung - Kontaktabgleich - Marketo-Dokumente - Produktdokumentation
 title: SFDC-Synchronisierung - Kontaktsynchronisierung
+exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-Synchronisierung: Kontaktsynchronisierung {#sfdc-sync-contact-sync}
 
@@ -17,13 +17,13 @@ Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Salesforce synchronisiert? 
 
 ## Sync Direction {#sync-direction}
 
-Die Kontaktsynchronisierung erfolgt in beide Richtungen. Wenn Sie Änderungen an einem Kontakt in Salesforce oder Marketo vornehmen, werden Ihre Updates in beiden Systemen angezeigt.
+Die Kontaktsynchronisierung erfolgt in beide Richtungen. Wenn Sie Änderungen an einem Kontakt in Salesforce oder Marketo vornehmen, werden Ihre Aktualisierungen in beiden Systemen übernommen.
 
 ## Was ist, wenn beide Systeme gleichzeitig geändert werden? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
 Wir sind nett und lassen Salesforce gewinnen. Es ist selten, dass diese Art von Datenkollision auftritt.
 
-## Kann ich eine Person in einen Kontakt in Marketo umwandeln? {#can-i-convert-a-person-into-a-contact-in-marketo}
+## Kann ich eine Person in Marketo in eine Kontaktperson umwandeln? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
 Ja, verwenden Sie die Fließaktion **[Person konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**.
 
@@ -41,7 +41,7 @@ Nein, nicht alle Standardfelder sind nützlich. Alle benutzerdefinierten Felder 
 
 >[!NOTE]
 >
->Marketo synchronisiert nur die Felder, auf die Ihr Marketo Sync-Benutzer Zugriff hat.
+>Marketo synchronisiert nur die Felder, auf die Ihr Marketo Sync User Zugriff hat.
 
 ## Wird Marketo die Salesforce-Validierungsregeln einhalten? {#will-marketo-respect-the-salesforce-validation-rules}
 
