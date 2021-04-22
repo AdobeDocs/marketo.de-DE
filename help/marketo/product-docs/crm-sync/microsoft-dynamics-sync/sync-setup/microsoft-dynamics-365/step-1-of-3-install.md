@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571822
-description: Schritt 1 von 3 - Installieren der Marketing Solution (Online) - Marketing Docs - Produktdokumentation
-title: Schritt 1 von 3 - Installieren der Marketing Solution (Online)
+description: Schritt 1 von 3 - Installieren der Marketo-Lösung (Online) - Marketo Docs - Produktdokumentation
+title: Schritt 1 von 3 - Installieren der Marketo-Lösung (Online)
+exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-
-# Schritt 1 von 3: Installieren Sie die Marketing Solution (Online) {#step-of-install-the-marketo-solution-online}
+# Schritt 1 von 3: Installieren Sie die Marketo-Lösung (Online) {#step-of-install-the-marketo-solution-online}
 
 Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in Dynamics installieren. **Dynamics-Administratorberechtigungen sind erforderlich.**
 
 >[!CAUTION]
 >
 >* Aktivieren Sie keine benutzerdefinierte Entitätssynchronisierung, bevor die erste Synchronisierung abgeschlossen ist. Sie werden per E-Mail benachrichtigt, sobald die Synchronisierung abgeschlossen ist.
->* Wenn Multi-Factor Authentication (MFA) für die Dynamiksynchronisierung aktiviert ist, müssen Sie sie deaktivieren, damit Dynamics mit Marketo richtig synchronisiert wird. Weitere Informationen erhalten Sie beim [Marketing-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* Wenn Multi-Factor Authentication (MFA) für die Dynamiksynchronisierung aktiviert ist, müssen Sie diese deaktivieren, damit Dynamics mit Marketo ordnungsgemäß synchronisiert werden kann. Weitere Informationen erhalten Sie beim [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]
@@ -27,7 +27,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 
 >[!PREREQUISITES]
 >
->[Laden Sie die Marketing-Interessentenverwaltungslösung herunter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Marketo Lead Management Solution herunterladen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
 1. Melden Sie sich bei **[Microsoft Office 365](https://login.microsoftonline.com/)** an.
 
@@ -45,7 +45,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klicken Sie auf **Datei auswählen.** Wählen Sie die von Ihnen  [heruntergeladene](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Marketing Lead Management-Lösung aus. Klicken Sie auf **Weiter**.
+1. Klicken Sie auf **Datei auswählen.** Wählen Sie die von Ihnen  [heruntergeladene](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Marketo Lead Management-Lösung aus. Klicken Sie auf **Weiter**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -77,15 +77,15 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 
    >[!NOTE]
    >
-   >Sie sehen möglicherweise eine Meldung mit der Meldung &quot;Marketing-Lead-Management abgeschlossen mit Warnung&quot;. Das ist völlig zu erwarten.
+   >Es wird möglicherweise eine Meldung angezeigt, in der steht: &quot;Marketo Lead Management wurde mit Warnung abgeschlossen&quot;. Das ist völlig zu erwarten.
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. Das Marketing-Lead-Management wird nun in der Liste der Lösungen angezeigt.
+1. Marketo Lead Management wird nun in der Liste der Lösungen angezeigt.
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Wählen Sie **Marketing-Interessentenverwaltung** und klicken Sie auf **Alle Anpassungen veröffentlichen.**
+1. Wählen Sie **Marketo Lead Management** und klicken Sie auf **Alle Anpassungen veröffentlichen.**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
