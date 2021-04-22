@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516607
-description: Zu überprüfende Themen - Kernkompetenzen - Marketing-Dokumente - Produktdokumentation
+description: Überprüfung - Kernkompetenzen - Marketo Dokumente - Produktdokumentation
 title: Überprüfung - Kernkompetenzen
+exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Zu überprüfende Dinge: Kernkompetenzen {#things-to-review-core-skills}
 
