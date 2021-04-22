@@ -1,21 +1,21 @@
 ---
 unique-page-id: 8783189
-description: Versionshinweise - Juli 2015 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Juli 2015 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Juli 2015
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Versionshinweise: Juli 2015 {#release-notes-july}
 
-## Marketo-Momente {#marketo-moments}
+## Marketo Moments {#marketo-moments}
 
-Mittagessen, aber muss eine E-Mail neu planen? Mit der App &quot;Marketo-Momente&quot;im App Store oder im Google Play können Sie sehen, wie Ihre E-Mail- und Ereignis-Kampagnen in Echtzeit abschneiden und was in Zukunft von Ihrem iPhone, iPad oder Android-Smartphone aus geschieht.
+Mittagessen, aber muss eine E-Mail neu planen? Die App &quot;Marketo Moments&quot;, die im App Store oder in Google Play erhältlich ist, gibt Ihnen die Möglichkeit, zu sehen, wie Ihre E-Mail- und Ereignis-Kampagnen in Echtzeit funktionieren und was in Zukunft von Ihrem iPhone, iPad oder Android-Smartphone aus kommt.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -36,11 +36,11 @@ Wechsel zur Texteditorversion.
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
-## Single-Sign-On für E-Mail-Auslieferbarkeit {#email-deliverability-single-sign-on}
+## Single-Sign-On für die E-Mail-Zustellbarkeit {#email-deliverability-single-sign-on}
 
 Wenn Sie auf den Bereich E-Mail-Zustellbarkeit klicken, müssen Sie Ihre Anmeldedaten nicht mehr angeben.
 
-## Priorisierung der Kampagne {#campaign-prioritization}
+## Kampagnenpriorisierung {#campaign-prioritization}
 
 Haben Sie mehrere personalisierte RTP-Kampagnen eingerichtet und bemerkt, dass einige von ihnen möglicherweise mit anderen überlappen? Legen Sie eine Priorität fest, bei der der RTP der Kampagnen über anderen angezeigt werden soll.
 
@@ -48,7 +48,7 @@ Haben Sie mehrere personalisierte RTP-Kampagnen eingerichtet und bemerkt, dass e
 
 ## Firma-API {#company-api}
 
-**Zugriff auf Firma-Objekte über die REST-API**: Die REST-API bietet jetzt Zugriff auf die Marketing-Firma (auch bekannt als Konto). Das bedeutet, dass Sie in Marketo erstellte Objekte zur Firma lesen, aktualisieren und löschen und Interessenten mit diesen Firmen verknüpfen können, indem Sie die aktualisierte Interessenten-API verwenden.
+**Zugriff auf Firma-Objekte über die REST-API**: Die REST-API bietet jetzt Zugriff auf die Marketo-Firma (auch bekannt als Konto). Das bedeutet, dass Sie von Ihnen in Marketo erstellte Objekte zur Firma lesen, aktualisieren und löschen und Interessenten mit diesen Firmen verknüpfen können, indem Sie die aktualisierte Interessenten-API verwenden.
 
 Lernen Sie [mehr](https://developers.marketo.com/documentation/company-api/) in unserem Referenzhandbuch für die Firmen-API kennen.
 
