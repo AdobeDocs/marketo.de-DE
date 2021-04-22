@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097584
-description: Synchronisierungsstatus - Marketing-Dokumente - Produktdokumentation
+description: Synchronisierungsstatus - Marketo Docs - Produktdokumentation
 title: Synchronisierungsstatus
+exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Synchronisierungsstatus {#sync-status}
 
