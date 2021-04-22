@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949182
-description: SEO - Einführung zu Suchbegriffen - Marketing-Dokumente - Produktdokumentation
+description: SEO - Einführung zu Suchbegriffen - Marketo Docs - Produktdokumentation
 title: SEO - Einführung zu Suchbegriffen
+exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Die Suchbegriffe {#seo-understanding-keywords}
 
@@ -35,7 +35,7 @@ Der Abschnitt &quot;Suchbegriffe&quot;zeigt Ihnen, wie erfolgreich Ihre Site dab
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Rang und Trend</td> 
-   <td colspan="1" rowspan="1"><p>Der Rang Ihrer Site für diesen Suchbegriff. Pfeile zeigen, wie der Suchbegriffrang im Vergleich zur Vorwoche aussieht </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = Rang nach oben</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = nach unten</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= Rang gleich</p></td> 
+   <td colspan="1" rowspan="1"><p>Der Rang Ihrer Site für diesen Suchbegriff. Pfeile zeigen, wie der Suchbegriffrang im Vergleich zur Vorwoche aussieht </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = Rang nach oben</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = nach unten</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= Rang gleich</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Wettbewerbsebene</td> 
@@ -58,7 +58,7 @@ Sie können auch die Performance Ihrer Konkurrent mit denselben Metriken bewerte
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-Großartig! Nachdem Sie nun den Abschnitt &quot;Suchbegriffe&quot;verstanden haben, sollten Sie sich mit Seiten und Inbound-Links vertraut machen.
+Sehr gut! Nachdem Sie nun den Abschnitt &quot;Suchbegriffe&quot;verstanden haben, sollten Sie sich mit Seiten und Inbound-Links vertraut machen.
 
 >[!MORELIKETHIS]
 >
