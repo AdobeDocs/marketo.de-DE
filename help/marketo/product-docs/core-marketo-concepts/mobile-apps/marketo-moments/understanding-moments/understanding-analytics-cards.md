@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781988
-description: Die Analytics-Karten - Marketing-Dokumente - Produktdokumentation
+description: Die Analytics-Karten - Marketo-Dokumente - Produktdokumentation
 title: Die Analytics-Karten
+exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-
 # Die Analytics-Karten {#understanding-analytics-cards}
 
-Zu Beginn eines jeden Monats stellt Marketo Moments drei verschiedene Berichtskarten bereit: Erworbene Interessenten, neue Interessenten und Abmeldung. Jedes zeigt Ihnen die monatliche Performance und den Trend über einen Zeitraum von sechs Monaten.
+Zu Monatsbeginn stellt Marketo Moments drei verschiedene Berichtskarten bereit: Erworbene Interessenten, neue Interessenten und Abmeldung. Jedes zeigt Ihnen die monatliche Performance und den Trend über einen Zeitraum von sechs Monaten.
 
 ## Analytics-Karten {#analytics-cards}
 
@@ -51,7 +51,7 @@ Die Karte **Neue Interessenten** zeigt Ihnen einen Trend-Bericht über Monate de
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Abmeldet {#unsubscribes}
+## Abbestellungen {#unsubscribes}
 
 Die Karte **Abbestellte** zeigt Ihnen einen Monat-zu-Monat-Trendbericht Ihrer Abbestellrate in den letzten sechs Monaten.
 
@@ -61,7 +61,7 @@ Jetzt weißt du Bescheid.
 
 >[!MORELIKETHIS]
 >
->* [Erläuterungen zu Markusmomenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketo-Momente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Einführung in Ereignis-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Verstehen der E-Mail-Programm-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
