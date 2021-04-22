@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720476
-description: Symbol-Glossar - Marketing-Dokumente - Produktdokumentation
+description: Symbol-Glossar - Marketo Docs - Produktdokumentation
 title: Symbol-Glossar
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 
-
 # Symbol-Glossar {#icon-glossary}
 
-Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die neue Benutzeroberfläche für Marketo Engage umgestellt wurden, finden Sie hier das Icon-Glossar [.](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf die neue Benutzeroberfläche für Marketo Engage umgestellt wurden, finden Sie hier das Icon-Glossar [.](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
 
 **Allgemeine Symbole**
 
@@ -30,7 +30,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
   <tr> 
    <td> 
     <div> 
-     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Ordner</span></td> 
   </tr> 
@@ -95,7 +95,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
-   <td colspan="1">Trigger</td> 
+   <td colspan="1">Auslöser</td> 
   </tr> 
   <tr> 
    <td> 
@@ -109,7 +109,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-10-3a38-3a59.png"> 
     </div></td> 
-   <td>Geschichte</td> 
+   <td>Verlauf</td> 
   </tr> 
   <tr> 
    <td> 
@@ -123,21 +123,21 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
-   <td>Abonnement-Informationen</td> 
+   <td>Informationen zum Abonnement</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a49-3a41.png"> 
     </div></td> 
-   <td>Kundensupport</td> 
+   <td>Kunden-Support</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a52-3a30.png"> 
     </div></td> 
-   <td>Info zu Marketo</td> 
+   <td>Info über Marketo</td> 
   </tr> 
  </tbody> 
 </table>
@@ -190,7 +190,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-8-16-3a34-3a53.png"> 
     </div></td> 
-   <td>Ort</td> 
+   <td>Standort</td> 
   </tr> 
   <tr> 
    <td> 
@@ -204,7 +204,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td>Email</td> 
+   <td>E-Mail</td> 
   </tr> 
   <tr> 
    <td> 
@@ -246,7 +246,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-8-18-3a23-3a38.png"> 
     </div></td> 
-   <td>Landingpages</td> 
+   <td>Landing Pages</td> 
   </tr> 
   <tr> 
    <td> 
@@ -288,21 +288,21 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-9-3a39-3a28.png"> 
     </div></td> 
-   <td>Umsatzzyklusanalysen</td> 
+   <td>Revenue Cycle Analytics</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td>Schatztruhe</td> 
+   <td>Schatzkiste</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </div></td> 
-   <td>Admin</td> 
+   <td>Administrator</td> 
   </tr> 
   <tr> 
    <td> 
@@ -348,14 +348,14 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>Interaktionstherapie</td> 
+   <td>Engagement Nurturing</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a38-3a16.png"> 
     </div></td> 
-   <td>Programm Hinzufügen Interaktion</td> 
+   <td>Zu Engagement-Programm hinzufügen</td> 
   </tr> 
   <tr> 
    <td> 
@@ -383,7 +383,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>Angeforderte intelligente Kampagne (durch Sales Insight- oder Marketing Flow-Aktion)</td> 
+   <td>Angeforderte intelligente Kampagne (durch Sales Insight oder Marketo Flow-Aktion)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -432,14 +432,14 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>Kampagnen für geplante Stapel</td> 
+   <td>Geplante Stapelkampagnen</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>Flussaktion</td> 
+   <td>Flow-Aktion</td> 
   </tr> 
   <tr> 
    <td> 
@@ -453,14 +453,14 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-14-3a39-3a56.png"> 
     </div></td> 
-   <td>Formblatt</td> 
+   <td>Formular</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td>Klonen von Formularen</td> 
+   <td>Formular klonen</td> 
   </tr> 
   <tr> 
    <td> 
@@ -649,7 +649,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a42.png"> 
     </div></td> 
-   <td colspan="1">Nicht genehmigen</td> 
+   <td colspan="1">Genehmigung aufheben</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -677,7 +677,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">Bereitstellbarkeitstools</td> 
+   <td colspan="1">Tools für die Übermittlungsfähigkeit</td> 
   </tr> 
  </tbody> 
 </table>
@@ -695,7 +695,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>Landingpage. Landingpages</td> 
+   <td>Landing Page. Landing-Page-Aktionen</td> 
   </tr> 
   <tr> 
    <td> 
@@ -716,7 +716,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-12-10-3a57-3a25.png"> 
     </div></td> 
-   <td>Nicht genehmigen</td> 
+   <td>Genehmigung aufheben</td> 
   </tr> 
   <tr> 
    <td> 
@@ -737,14 +737,14 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>Landingpage klonen</td> 
+   <td>Landing Page klonen</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a8-3a54.png"> 
     </div></td> 
-   <td>Landingpage löschen</td> 
+   <td>Landing Page löschen</td> 
   </tr> 
   <tr> 
    <td> 
@@ -856,7 +856,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">Bilder aus dem Web erfassen</td> 
+   <td colspan="1">Bilder aus dem Web abrufen</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -881,7 +881,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>Modell des Umsatzzyklus</td> 
+   <td>Revenue Cycle Model</td> 
   </tr> 
   <tr> 
    <td> 
@@ -909,7 +909,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>Berichtaktionen</td> 
+   <td>Berichtsaktionen</td> 
   </tr> 
   <tr> 
    <td> 
@@ -923,7 +923,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>Neues Report Abonnement</td> 
+   <td>Neues Berichtsabonnement</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1004,7 +1004,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </div></td> 
-   <td>Nummer</td> 
+   <td>Zahl</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1071,7 +1071,7 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
     <div> 
      <img src="assets/image2015-1-5-16-3a10-3a6.png"> 
     </div></td> 
-   <td>Qualifikationsregeln bearbeiten</td> 
+   <td>Qualifizierungsregeln bearbeiten</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1205,4 +1205,3 @@ Unten sind die Symbole für den Marketing Classic aufgeführt. Wenn Sie auf die 
   </tr> 
  </tbody> 
 </table>
-
