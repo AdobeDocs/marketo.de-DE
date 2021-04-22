@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953352
-description: Einträge direkt im Marketingkalender bearbeiten - Marketing Docs - Produktdokumentation
+description: Einträge direkt im Marketingkalender bearbeiten - Marketo Docs - Produktdokumentation
 title: Einträge direkt im Marketingkalender bearbeiten
+exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # Einträge direkt im Marketingkalender bearbeiten{#edit-entries-directly-in-the-marketing-calendar}
 
