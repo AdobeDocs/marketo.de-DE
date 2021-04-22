@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949467
-description: Was ist Marketo? - Marketing Docs - Produktdokumentation
+description: Was ist Marketo? - Marketo Docs - Produktdokumentation
 title: Was ist Marketo?
+exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # Was ist Marketo? {#what-is-marketo}
 
@@ -22,19 +22,19 @@ Das ist eine Sache, die man in Marketo machen kann. Aber es gibt so viel mehr.
 ## Ok, komm zu dem Punkt, was ist das? {#ok-get-to-the-point-whats-it-got}
 
 * Formular-Editor
-* Landingpages-Editor
+* Landing-Page-Editor
 * Vorlagen für geführte Landingpages
-* Email-Editor
+* E-Mail-Editor
 * Predictive Content
 * Webinar-Integration
-* Mobile Marketing
+* Mobiles Marketing
 * Synchronisieren mit Ihrem CRM
 * Website-Integration
 * Workflow-Engine
-* Kontobasiertes Marketing
+* Account-Based-Marketing
 * Bewertung
 * In-CRM-Dashboard für Vertriebsmitarbeiter
-* Programm-Analyse
+* Programmanalyse
 * Und ja, auch Mail Blasts
 
 ## Heilige Kuh! Muss ich das alles lernen? {#holy-cow-do-i-need-to-learn-all-that}
