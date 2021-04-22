@@ -1,23 +1,23 @@
 ---
 unique-page-id: 557339
-description: Duplikat People suchen und zusammenführen - Marketing Docs - Produktdokumentation
+description: Duplikat People suchen und zusammenführen - Marketo Docs - Produktdokumentation
 title: Duplikat-Personen suchen und zusammenführen
+exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-
 # Duplikat-Personen suchen und zusammenführen {#find-and-merge-duplicate-people}
 
-Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteigen. Ihr CRM-System hat jedoch möglicherweise zunächst Duplikate an Marketo gesendet. Hier ist, wie man sie zusammenführt.
+Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteigen. Ihr CRM-System hat jedoch möglicherweise zunächst Duplikat an Marketo gesendet. Hier ist, wie man sie zusammenführt.
 
 >[!NOTE]
 >
->Marketo wird nicht automatisch deduplizieren gegen eine Salesforce- oder Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben Menschen.
+>Marketo wird nicht automatisch deduplizieren gegen eine Salesforce- oder Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben.
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
 
    >[!CAUTION]
    >
-   >Die Zusammenführung von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein Salesforce-Benutzerkonto verwenden. Bitte führen Sie die Unterlagen nach Möglichkeit in Salesforce zusammen.
+   >Das Zusammenführen von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein Salesforce-Benutzerkonto verwenden. Bitte führen Sie die Unterlagen nach Möglichkeit in Salesforce zusammen.
 
 1. Wählen Sie die Systemintelligente Liste **Mögliche Duplikat** und klicken Sie auf die Registerkarte **Personen**.
 
@@ -45,7 +45,7 @@ Marketo entfernt automatisch Duplikat, wenn neue Personen in das System einsteig
 
 >[!CAUTION]
 >
->Wenn beim Zusammenführen von Personen die unterliegende Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird **nicht** erneut der Gewinner-Person zugeordnet. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
+>Wenn beim Zusammenführen von Personen die unterliegende Person ein benutzerdefiniertes Marketo-Objekt hat, wird **nicht** erneut der Gewinner-Person zugeordnet. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
 
 1. Wählen Sie die Duplikat aus, indem Sie Strg/Cmd drücken und auf **Personen zusammenführen** klicken.
 
