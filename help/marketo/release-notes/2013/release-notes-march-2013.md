@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951101
-description: Versionshinweise - März 2013 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - März 2013 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - März 2013
+exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Versionshinweise: März 2013 {#release-notes-march}
 
@@ -29,13 +29,13 @@ Erstellen Sie Warteschritte, die eine bestimmte Anzahl von Tagen vor oder nach e
 
 Sie können einen Warteschritt erstellen, der 14 Tage vor dem Geburtstag des Interessenten wartet. Durch Auswahl von &quot;Nächstes Jahr dieses Datums verwenden&quot;ignoriert das System automatisch das mit dem Datum verbundene Jahr und verwendet stattdessen das aktuelle oder nächste Kalenderjahr.
 
-## Soziale Preisausschreiben {#social-sweepstakes}
+## Gewinnspiele in sozialen Netzwerken {#social-sweepstakes}
 
 Ein Preisausschreiben gibt Ihren Interessenten die Möglichkeit, einen Preis zu gewinnen und ihren Freunden von Ihnen zu erzählen. Sie wählen zufällige Gewinner aus den Teilnehmern aus und senden sie per E-Mail.
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Zusätzliche Fehlermeldungssprachen für Formulare {#additional-form-error-message-languages}
+## Neue Sprachen für Formularfehler-Meldungen {#additional-form-error-message-languages}
 
 Mehr als ein Dutzend Sprachen wurden zu den Fehlermeldungen des Formulars hinzugefügt!
 
@@ -43,4 +43,4 @@ Mehr als ein Dutzend Sprachen wurden zu den Fehlermeldungen des Formulars hinzug
 
 ## Support-Nachrichten und -Warnungen {#support-news-and-alerts}
 
-Bleiben Sie mit dem Marketing-Kundendienst in Verbindung, indem Sie die Support-Nachrichten und -Warnungen für P1-Warnungen, bekannte Probleme, Hinweise und Tipps von unseren Support-Experten abonnieren und Updates vom MarketingTo-Kundensupport erhalten.
+Bleiben Sie mit dem Marketo-Kundendienst in Verbindung, indem Sie die Support-Nachrichten und -Warnungen für P1-Warnungen, bekannte Probleme, Hinweise und Tipps von unseren Support-Experten abonnieren und Updates vom Marketo-Kundendienst erhalten.
