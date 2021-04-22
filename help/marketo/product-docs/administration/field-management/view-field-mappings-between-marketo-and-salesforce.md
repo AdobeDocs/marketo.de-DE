@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360344
 description: Feldzuordnungen von Ansichten zwischen Marketo und Salesforce - Marketo Docs - Produktdokumentation
-title: Feldzuordnungen von Ansichten zwischen Marketing und Salesforce
+title: Feldzuordnungen der Ansicht zwischen Marketo und Salesforce
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Feldzuordnungen von Ansichten zwischen Marketo und Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
