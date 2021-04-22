@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146931
-description: Neue intelligente Kampagne erstellen - Marketing Docs - Produktdokumentation
+description: Neue intelligente Kampagne erstellen - Marketo Docs - Produktdokumentation
 title: Neue intelligente Kampagne erstellen
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # Neue Smart-Kampagne erstellen {#create-a-new-smart-campaign}
 
-Intelligente Kampagnen sind das wichtigste Werkzeug in Marketing. Sie können Trigger an einer Person ausführen und Aktionen durchführen oder Millionen von Menschen zusammenführen und eine Reihe von Flussschritten ausführen.
+Intelligente Kampagnen sind das wichtigste Werkzeug in Marketo. Sie können Trigger an einer Person ausführen und Aktionen durchführen oder Millionen von Menschen zusammenführen und eine Reihe von Flussschritten ausführen.
 
 >[!NOTE]
 >
