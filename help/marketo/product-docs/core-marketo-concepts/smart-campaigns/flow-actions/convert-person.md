@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147019
-description: Person - Marketing-zu-Docs konvertieren - Produktdokumentation
+description: Person konvertieren - Marketo Dokumente - Produktdokumentation
 title: Person konvertieren
+exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Person {#convert-person} konvertieren
+# Person konvertieren {#convert-person}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Verwenden Sie diesen Flussschritt, um eine Person in einen Kontakt in Salesforce
 
 ![](assets/one-2.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wählen Sie aus, wem Sie **den resultierenden Kontakt, das Konto und die Gelegenheit zuweisen möchten.**
 
