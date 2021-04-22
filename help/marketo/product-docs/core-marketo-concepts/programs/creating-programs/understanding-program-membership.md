@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147091
-description: Informationen zur Programm-Mitgliedschaft - Marketing-Dokumente - Produktdokumentation
+description: Informationen zur Programm-Mitgliedschaft - Marketo Docs - Produktdokumentation
 title: Informationen zur Programm-Mitgliedschaft
+exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Informationen zur Programm-Mitgliedschaft {#understanding-program-membership}
 
 >[!NOTE]
 >
->Marketo standardisiert nun die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie möglicherweise Interessenten/Interessenten in Ihrem Abonnement und Personen/Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe. Es hat keine Auswirkungen auf die Artikelanweisungen. Es gibt auch noch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. Verwenden Sie den Flussschritt [Programm ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
 1. Eine Person registriert oder besucht ein [Webinar, das mit einem Ereignis-Programm](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md) synchronisiert wird.
-1. Eine Person wird mit der Marketo iPad-Check-in-Anwendung [ erstellt.](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
+1. Eine Person wird mit der Marketo iPad-Eincheckanwendung [erstellt.](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
 1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die mit dem Programm [synchronisiert wird.](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 
 >[!NOTE]
@@ -58,9 +58,9 @@ Der Zweck eines Programms besteht darin, eine aussagekräftige Interaktion mit d
 >
 >Bei einem Webinar ist die Registrierung keine sinnvolle Interaktion, wenn sie das Webinar nicht wirklich anschauen. Die Teilnahme ist in diesem Fall ein Erfolg.
 
-## Akquise-Programm {#acquisition-program}
+## Akquisitionsprogramm  {#acquisition-program}
 
-Wenn ein neuer Programm in das System als Systemmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [First Touch-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) eingerichtet.
+Wenn ein neuer Programm als Systemmitglied in das System aufgenommen wird, legt Marketo dieses Programm automatisch als &quot;Akquise&quot;fest. Dadurch wird die Gutschrift für [First Touch-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) eingerichtet.
 
 >[!MORELIKETHIS]
 >
