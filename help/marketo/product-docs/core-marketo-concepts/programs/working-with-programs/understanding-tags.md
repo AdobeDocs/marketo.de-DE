@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147112
-description: Einführung zu Tags - Marketing-Dokumente - Produktdokumentation
+description: Tags - Marketo Dokumente - Produktdokumentation
 title: Tags
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Tags {#understanding-tags}
 
@@ -23,7 +23,7 @@ Tag-Typen kennzeichnen die Art der Informationen, nach denen Sie sortieren möch
 
 >[!TIP]
 >
->Wenden Sie sich an Ihren [Marketing-Administrator](/help/marketo/product-docs/administration/tags/create-custom-tags.md), wenn Sie benutzerdefinierte Tags erstellen möchten.
+>Wenden Sie sich an Ihren [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md), wenn Sie benutzerdefinierte Tags erstellen möchten.
 
 >[!NOTE]
 >
