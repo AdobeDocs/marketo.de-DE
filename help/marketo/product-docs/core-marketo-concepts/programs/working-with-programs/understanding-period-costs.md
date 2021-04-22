@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504676
-description: Die Kosten des Zeitraums - Marketing-Dokumente - Produktdokumentation
+description: Die Kosten des Zeitraums - Marketo Docs - Produktdokumentation
 title: Die Kosten des Zeitraums
+exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Die Kosten für den Zeitraum {#understanding-period-costs}
 
@@ -61,7 +61,7 @@ Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im
 
    >[!NOTE]
    >
-   >Zusammenfassend - Monate ohne definierten Zeitraum werden die Kosten &quot;rückwärts&quot;auf den letzten definierten Zeitraum zurückgeführt. Wenn keine Kosten für einen vorherigen Zeitraum entstehen, werden die Monate auf den nächsten, der definiert wurde, weitergeleitet. Wenn für _beliebige_-Monate keine Periodenkosten definiert wurden, steht der Berichte in RCE für das Programm nicht zur Verfügung.
+   >Zusammenfassend - Monate ohne definierten Zeitraum werden die Kosten &quot;rückwärts&quot;auf den letzten definierten Zeitraum zurückgeführt. Wenn keine Kosten für einen vorherigen Zeitraum entstehen, werden die Monate &quot;weitergeleitet&quot;und zum nächsten definierten Zeitraum weitergeleitet. Wenn für _beliebige_-Monate keine Periodenkosten definiert wurden, steht der Berichte in RCE für das Programm nicht zur Verfügung.
 
    >[!MORELIKETHIS]
    >
