@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099102
-description: Plug-in-Versionen für Microsoft Dynamics MSI - Marketing Docs - Produktdokumentation
+description: Plug-in-Versionen für Microsoft Dynamics MSI - Marketo Docs - Produktdokumentation
 title: Plug-In-Versionen für Microsoft Dynamics MSI
+exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-
 # Plug-In-Versionen für Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Wenn Sie zum ersten Mal mit Microsoft Dynamics synchronisieren, laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren Sie sie. Marketo aktualisiert diese Plug-Ins regelmäßig, sodass Sie zum selben Ort zurückkehren können, um die neue Version herunterzuladen.
+Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren sie. Marketo aktualisiert diese Plug-Ins regelmäßig, damit Sie zum gleichen Speicherort zurückkehren können, um die neue Version herunterzuladen.
 
 Bitte [laden Sie das neueste Plugin](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) für Ihre Dynamics-Version herunter.
 
@@ -61,7 +61,7 @@ Und das ist es! Nach der Aktualisierung wird nur eine MSI-Lösung angezeigt.
   <tr> 
    <th colspan="1">Releasedatum</th> 
    <th colspan="1">Version</th> 
-   <th colspan="1">Hinweise</th> 
+   <th colspan="1">Hinweise:</th> 
   </tr> 
   <tr> 
    <td colspan="1">01.10.20</td> 
