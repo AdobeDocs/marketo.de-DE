@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099363
-description: Einrichten des iPad- oder Android-Tablet - MarketingToDocs - Produktdokumentation
+description: Einrichten des iPad- oder Android-Tablet - Marketo Docs - Produktdokumentation
 title: Einrichten des iPad- oder Android-Tablet
+exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # Einrichten des iPad- oder Android-Tablet {#set-up-the-ipad-or-android-tablet}
 
-Für ein reibungsloses Erlebnis am Ereignis bereiten Sie Ihr iPad- oder Android-Tablet vor und testen Sie die Marketing Ereignisses-App vor dem Ereignis.
+Für ein reibungsloses Erlebnis am Ereignis bereiten Sie Ihr iPad- oder Android-Tablet vor und testen Sie die Marketo Ereignisses-App vor dem Ereignis.
 
-Nachdem Sie das Ereignis in Marketo erstellt haben, wird es beim Anmelden in die Marketing Ereignisses iPad- oder Android-App geladen, wenn:
+Nachdem Sie das Ereignis in Marketo erstellt haben, wird es beim Anmelden in die Marketo Ereignisses iPad- oder Android-App geladen, wenn:
 
 * Das Konto hat Zugriff auf Ihre Datenbank
 * Das Ereignis ist für einen Zeitraum geplant, der eine Woche zuvor in Beginn endet und eine Woche nach dem aktuellen Datum endet
@@ -25,27 +25,27 @@ Nachdem Sie das Ereignis in Marketo erstellt haben, wird es beim Anmelden in die
 >
 >Sie müssen mit dem Internet verbunden sein, um Apps herunterladen zu können.
 
-## Herunterladen und Installieren der Marketing Ereignisses iPad-App {#download-and-install-the-marketo-events-ipad-app}
+## Herunterladen und Installieren der Marketo Ereignisses iPad-App {#download-and-install-the-marketo-events-ipad-app}
 
-Wenn auf Ihrem iPad die Marketing Ereignisses-App noch nicht installiert ist, erhalten Sie sie hier.
+Wenn auf Ihrem iPad die Marketo Ereignisses-App noch nicht installiert ist, erhalten Sie sie hier.
 
 1. Öffnen Sie Ihr iPad und starten Sie den App Store.
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. Geben Sie im Suchfeld **Marketo** und in Vorschläge **marketo-Ereignis** ein.
+1. Geben Sie im Suchfeld **Marketo** und in Vorschläge **marketo Ereignisses** ein.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
 1. Befolgen Sie die Anweisungen zum Herunterladen und Installieren der App auf Ihrem iPad.
 
-## Herunterladen und Installieren der Marketing Ereignisses-Android-App {#download-and-install-the-marketo-events-android-app}
+## Herunterladen und Installieren der Marketo Ereignisses-Android-App {#download-and-install-the-marketo-events-android-app}
 
-Wenn auf Ihrem Android-Tablet die Marketing Ereignisses-App noch nicht installiert ist, erhalten Sie hier eine Anleitung.
+Wenn auf Ihrem Android-Tablet die Marketo Ereignisses-App noch nicht installiert ist, erhalten Sie hier eine Anleitung.
 
 1. Öffnen Sie das Tablet und tippen Sie auf die App **Google Play Store**.
-1. Geben Sie im Feld Suchen **Markieren** ein und tippen Sie auf **Rückgabe**.
-1. Tippen Sie in den Suchergebnissen auf die App **Marketing-Ereignis**.
+1. Geben Sie in das Suchfeld **Marketo** ein und tippen Sie auf **Return**.
+1. Tippen Sie in den Suchergebnissen auf die App **Marketo Ereignisses**.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
