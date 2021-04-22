@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147049
-description: Umbenennen einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
+description: Umbenennen einer intelligenten Kampagne - Marketo Docs - Produktdokumentation
 title: Umbenennen einer intelligenten Kampagne
+exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Umbenennen einer intelligenten Kampagne {#rename-a-smart-campaign}
 
