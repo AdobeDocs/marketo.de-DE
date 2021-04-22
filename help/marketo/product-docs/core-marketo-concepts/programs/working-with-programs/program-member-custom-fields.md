@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355569
-description: Benutzerdefinierte Felder für Programm-Mitglieder - Marketing-Dokumente - Produktdokumentation
+description: Benutzerdefinierte Felder für Programm-Mitglied - Marketo Docs - Produktdokumentation
 title: Benutzerdefinierte Felder für Programm-Member
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Benutzerdefinierte Felder für Programm-Member {#program-member-custom-fields}
 
-Benutzerdefinierte Programm-Member-Felder ermöglichen Ihnen die Erfassung von Programm-spezifischen Daten für jedes Mitglied. Sie können verwendet werden bei: Marketo-Formulare, Filter und Trigger für intelligente Liste und Flussaktionen für intelligente Kampagnen. Die Daten sind auf der Registerkarte &quot;Mitglieder&quot;des Programms sichtbar.
+Benutzerdefinierte Programm-Member-Felder ermöglichen Ihnen die Erfassung von Programm-spezifischen Daten für jedes Mitglied. Sie können verwendet werden bei: Marketo Forms, Filter und Trigger für intelligente Liste und Flussaktionen für intelligente Kampagne. Die Daten sind auf der Registerkarte &quot;Mitglieder&quot;des Programms sichtbar.
 
 >[!NOTE]
 >
@@ -53,10 +53,10 @@ Benutzerdefinierte Programm-Member-Felder ermöglichen Ihnen die Erfassung von P
 
 | Objekt | Beschreibung |
 |---|---|
-| Firma | Der Name der Firma, die der Person zugeordnet ist. |
-| Chancen | Eine Möglichkeit kann mit einer Person oder einem Konto als potenzieller künftiger Verkauf verbunden werden. Normalerweise gelangen sie über ein CRM oder über eine API nach Marketo. |
+| Unternehmen | Der Name der Firma, die der Person zugeordnet ist. |
+| Opportunity | Eine Möglichkeit kann mit einer Person oder einem Konto als potenzieller künftiger Verkauf verbunden werden. Normalerweise gelangen sie über ein CRM oder eine API in Marketo. |
 | Person | Eine Person in Ihrer Marketo-Datenbank, mit der Sie über Marketing-Kampagnen in Kontakt treten. |
-| Programm | Person, die auch Mitglied eines Programms ist |
+| Programmmitglied | Person, die auch Mitglied eines Programms ist |
 
 ## Trigger und Filter {#triggers-and-filters}
 
@@ -76,4 +76,4 @@ Sie können diese Programm-spezifischen Daten in intelligenten Listen über [Tri
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefiniertes Feld in Marketing erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
