@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951114
-description: Versionshinweise - Juni 2012 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Juni 2012 - Marketo Dokumente - Produktdokumentation
 title: Versionshinweise - Juni 2012
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-
 # Versionshinweise: Juni 2012 {#release-notes-june}
 
-## Verbesserungen bei der Marketing-Lead-Verwaltung {#marketo-lead-management-enhancements}
+## Marketo Lead Management-Verbesserungen {#marketo-lead-management-enhancements}
 
-### {#rename} umbenennen
+### Umbenennen {#rename}
 
 Sie können Ihre Smart-Listen, statischen Listen und Kampagnen umbenennen. Wenn Sie diese Assets in Filtern, Triggern oder Textflüssen verwenden, wird der Name automatisch auch dort aktualisiert. Sie haben Ihre E-Mails, Formulare und Ordner immer umbenennen können.
 
@@ -25,9 +25,9 @@ Und als Bonus haben wir die Eingabe und Anzeige von Beschreibungstext für Asset
 
 ## Feldzuordnung importieren {#import-field-mapping}
 
-Wir haben den Import einer Liste nach Marketo sehr viel einfacher gemacht! Während des Importvorgangs können Sie den Namen des Felds &quot;Marketo&quot;dem Spaltenkopfnamen in der Importdatei zuordnen. Darüber hinaus können Sie in Admin Aliasnamen festlegen, die dem Feldnamen in Marketo zugeordnet werden, und sicherstellen, dass Ihre Benutzer jedes Mal das richtige Feld auswählen.
+Wir haben den Import einer Liste nach Marketo viel einfacher gemacht! Während des Importvorgangs können Sie den Namen des Marketo-Felds dem Spaltenkopfnamen in der Importdatei zuordnen. Darüber hinaus können Sie in Admin Aliasnamen festlegen, die dem Feldnamen in Marketo zugeordnet werden, und sicherstellen, dass Ihre Benutzer jedes Mal das richtige Feld auswählen.
 
-Während Sie weiterhin Felder importieren und zuordnen, speichert Marketo die Zuordnungen während des Imports, um die Verwendung zu vereinfachen. Um das Leben noch einfacher zu machen, können Sie auf die Kopfzeile &quot;Beispielwert&quot;klicken, um die verschiedenen Werte anzuzeigen, die im Feld aufgefüllt werden sollen. Dadurch wird sichergestellt, dass Sie jedes Mal das richtige Feld zuordnen!
+Während Sie weiterhin Felder importieren und zuordnen, speichert und zeigt Marketo die Zuordnungen während des Imports an, um die Verwendung zu vereinfachen. Um das Leben noch einfacher zu machen, können Sie auf die Kopfzeile &quot;Beispielwert&quot;klicken, um die verschiedenen Werte anzuzeigen, die im Feld aufgefüllt werden sollen. Dadurch wird sichergestellt, dass Sie jedes Mal das richtige Feld zuordnen!
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
@@ -79,7 +79,7 @@ Hinweis: Ab dieser Version gilt die vorherige Sortierung auf Rastern intelligent
 
 Erinnerung: Aktualisierung des E-Mail-Leistungsberichts läuft!
 
-## Verbesserungen bei Marketing-zu-Umsatz-Cycle-Analysen {#marketo-revenue-cycle-analytics-enhancements}
+## Verbesserungen bei Marketo-Umsatzwyklusanalysen {#marketo-revenue-cycle-analytics-enhancements}
 
 ### Neue Metriken in der Analyse für Programm-Chancen {#new-metrics-in-program-opportunity-analysis}
 
