@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719287
-description: Erste Feldzuordnungen bearbeiten - Marketing-Dokumente - Produktdokumentation
+description: Erste Feldzuordnungen bearbeiten - Marketo Docs - Produktdokumentation
 title: Zuordnungen von Anfangsfeldern bearbeiten
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Anfangsfeldzuordnungen bearbeiten {#edit-initial-field-mappings}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Diese Funktion steht erst vor der ersten Synchronisierung mit Salesforce zur Verfügung! Sobald die Schaltfläche **Jetzt synchronisieren** gedrückt wurde, kann dies nicht mehr durchgeführt werden.
 
-Während der anfänglichen Synchronisierung mit Salesforce kombiniert Marketo automatisch gleichnamige benutzerdefinierte Felder in einem Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten mit Lead- und Kontaktobjekten im CRM ausgetauscht werden können. In diesem Artikel wird beschrieben, wie Sie diese Zuordnungen anpassen.
+Während der anfänglichen Synchronisierung mit Salesforce kombiniert Marketo automatisch gleichnamige benutzerdefinierte Felder in einem Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten mit Lead- und Contact-Objekten im CRM ausgetauscht werden können. In diesem Artikel wird beschrieben, wie Sie diese Zuordnungen anpassen.
 
 ## Nicht zugeordnete Felder {#map-unmapped-fields} zuordnen
 
@@ -45,7 +45,7 @@ Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bede
 
 ## Vorhandene Zuordnung umbrechen {#break-existing-mapping}
 
-Wenn Sie gleichnamige Felder auf dem Interessenten- und Kontaktobjekt haben, werden sie von Marketo automatisch zugeordnet. Sie können davon ausgehen, dass sie unterschiedlich sind und unterschiedliche Daten enthalten. Unterbrechen Sie die Zuordnung so.
+Wenn Sie gleichnamige Felder auf dem Interessenten- und Kontaktobjekt haben, ordnet Marketo sie automatisch zu. Sie können davon ausgehen, dass sie unterschiedlich sind und unterschiedliche Daten enthalten. Unterbrechen Sie die Zuordnung so.
 
 1. Klicken Sie auf **Zuordnungen bearbeiten**.
 
@@ -61,7 +61,7 @@ Wenn Sie gleichnamige Felder auf dem Interessenten- und Kontaktobjekt haben, wer
 
    Schön! Sie sind fast mit der anfänglichen Synchronisierung fertig.
 
-## Schema {#reset-schema} zurücksetzen
+## Schema zurücksetzen {#reset-schema}
 
 1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen ziehen, indem Sie auf **Schema zurücksetzen** klicken.
 
