@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147082
-description: Person löschen - Marketing-Dokumente - Produktdokumentation
+description: Person löschen - Marketo Dokumente - Produktdokumentation
 title: Person löschen
+exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Person {#delete-person} löschen
+# Person löschen {#delete-person}
 
 Fehlerhafte Personen werden manchmal in Ihre Datenbank aufgenommen. Der Schritt zum Löschen von Personen kann diese löschen.
 
@@ -25,13 +25,13 @@ Verwenden Sie den Flussschritt in einer intelligenten Kampagne.
 >
 >Wenn Sie eine Person löschen, werden auch alle ihre historischen RCE-Daten gelöscht. Sie kann nicht rückgängig gemacht werden.
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 Wenn Sie in den Flow-Schritt ziehen, wird es automatisch so eingestellt, dass es auch aus Ihrem CRM gelöscht wird.
 
 ![](assets/two-4.png)
 
-Sie können z. B. aus Marketo und nicht aus Ihrem CRM löschen:
+So können Sie aus Marketo und nicht aus Ihrem CRM löschen:
 
 ![](assets/three-3.png)
 
