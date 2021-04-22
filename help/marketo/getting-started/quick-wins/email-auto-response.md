@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359416
-description: E-Mail - Automatische Antwort - Marketing-Dokumente - Produktdokumentation
-title: Automatische E-Mail-Antwort
+description: E-Mail für automatische Reaktion - Marketo-Dokumente - Produktdokumentation
+title: Automatische Antwort-E-Mail
+exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '384'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-
-# E-Mail-Automatische Antwort {#email-auto-response}
+# Automatische Antwort-E-Mail {#email-auto-response}
 
 ## Auftrag: Senden Sie eine Dankesemail, wenn eine Person ein Formular {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form} ausfüllt
 
 >[!PREREQUISITES]
 >
 >* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## Schritt 1: Erstellen einer E-Mail {#step-create-an-email}
+## Schritt 1: E-Mail erstellen {#step-create-an-email}
 
 1. Gehen Sie zum Bereich Marketing-Aktivitäten.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf E-Mail.
+1. Klicken Sie auf die E-Mail.
 
    ![](assets/three-2.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    Ein E-Mail-Editor wird in einem neuen Fenster oder auf einer neuen Registerkarte geöffnet. Wenn Popups blockiert sind, klicken Sie auf der Seite mit der Asset-Zusammenfassung auf **Entwurf bearbeiten**, um auf die E-Mail zuzugreifen.
 
-1. Geben Sie eine Betreffzeile ein und klicken Sie dann mit der Dublette auf den bearbeitbaren Bereich der E-Mail.
+1. Geben Sie eine Betreffzeile ein und klicken Sie dann bei gedrückter Dublette auf den bearbeitbaren Bereich der E-Mail.
 
    ![](assets/five-2.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a55-3a16.png)
 
-## Schritt 2: Erstellen einer Smart-Kampagne {#step-create-a-smart-campaign}
+## Schritt 2: Intelligente Kampagne erstellen {#step-create-a-smart-campaign}
 
 1. Klicken Sie mit der rechten Maustaste auf **Mein Programm** und klicken Sie auf **Neue Smart-Kampagne**.
 
@@ -73,17 +73,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Gehen Sie zur Registerkarte **Intelligente Liste**.
+1. Wechseln Sie zur Registerkarte **Intelligente Liste**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
    Diese Kampagne wird ausgeführt, wenn ein Benutzer das in [**Landingpage erstellte Formular mit einem Formular**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) ausfüllt.
 
-1. Ziehen Sie den Auslöser **Formular ausfüllen** auf die linke Arbeitsfläche.
+1. Suchen Sie den Trigger **Ausfüllen des Formulars** und ziehen Sie ihn auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Wählen Sie **Mein Formular** in der Dropdownliste aus. Klicken Sie auf die Registerkarte **Fluss**.
+1. Wählen Sie **Mein Formular** in der Dropdownliste aus. Klicken Sie auf die Registerkarte **“Flow“**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/8.png)
 
-1. Wählen Sie **jedes Mal** und klicken Sie auf **Speichern**.
+1. Wählen Sie **Immer** aus und klicken Sie dann auf **Speichern**.
 
    ![](assets/9.png)
 
@@ -115,13 +115,13 @@ ht-degree: 0%
 >
 >Sobald diese Kampagne aktiv ist, wird sie jedes Mal ausgeführt, wenn eine Person das angegebene Formular ausfüllt. Die Kampagne läuft, bis sie deaktiviert ist.
 
-## Schritt 3: Ausfüllen des Formulars {#step-fill-out-the-form}
+## Schritt 3: Formular ausfüllen {#step-fill-out-the-form}
 
 1. Wählen Sie **Meine Seite**. Dies wurde in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win erstellt.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Klicken Sie auf **Ansicht Genehmigte Seite**.
+1. Klicken Sie auf **“Genehmigte Seite anzeigen“**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
@@ -133,14 +133,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Vergewissern Sie sich, dass Sie Ihre tatsächliche E-Mail-Adresse verwenden, damit Sie die E-Mail erhalten können.
+>Stellen Sie sicher, dass Sie Ihre richtige E-Mail-Adresse verwenden, damit Sie E-Mails empfangen können.
 
-## Dienstabschluss {#mission-complete}
+## Aufgabe abgeschlossen  {#mission-complete}
 
-Innerhalb weniger Minuten sollten Sie die automatische Antwort-E-Mail in Ihrem Posteingang sehen. Gute Arbeit!
+Innerhalb weniger Minuten sollten Sie die automatische Antwort-E-Mail in Ihrem Posteingang sehen. Großartig gemacht!
 
 <br> 
 
-[Auftrag 3: Einfache Bewertung](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[◄ Aufgabe 3: Einfache Bewertung](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[Mission 5: Eine Liste von Interessenten importieren ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Aufgabe 5: Liste mit Leads importieren ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
