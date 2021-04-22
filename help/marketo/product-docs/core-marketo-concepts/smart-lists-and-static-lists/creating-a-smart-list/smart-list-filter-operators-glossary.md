@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557312
-description: Smart-Liste-Filteroperatoren - Glossar - Marketing Docs - Produktdokumentation
+description: Glossar "Operatoren für intelligente Liste"- Marketo Docs - Produktdokumentation
 title: Glossar zu Operatoren für intelligente Liste
+exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
-
 
 # Filteroperatoren für intelligente Listen - Glossar {#smart-list-filter-operators-glossary}
 
@@ -25,20 +25,20 @@ Wenn Sie einen Operator auswählen, ändert sich die rechte Seite dynamisch.
 
 | Operator | Rechts | Beschreibung |
 |---|---|---|
-| is | Einzeldatum | Genaue Datumsübereinstimmung |
+| ist | Einzeldatum | Genaue Datumsübereinstimmung |
 | ist nicht | Einzeldatum | Jedes Datum außer dem angegebenen |
-| between | Zwei Datumsfelder | Jedes Datum einschließlich und zwischen zwei angegebenen Daten |
-| in der Vergangenheit | Natürliche Spracheingabe* | Siehe Diagramm unten |
-| in der Vergangenheit | Natürliche Spracheingabe* | Siehe Diagramm unten |
-| in Zukunft | Natürliche Spracheingabe* | Siehe Diagramm unten |
-| in Zukunft nach | Natürliche Spracheingabe* | Siehe Diagramm unten |
-| im Zeitrahmen | Vorgaben (letztes Quartal, gestern usw.) | Definiert in picklist |
-| after | Einzeldatum | Alle Datensätze nach dem angegebenen Datum |
-| before | Einzeldatum | Alle Datensätze vor dem angegebenen |
-| on oder after | Einzeldatum | Wie &quot;after&quot;, aber inklusiv |
+| zwischen | Zwei Datumsfelder | Jedes Datum einschließlich und zwischen zwei angegebenen Daten |
+| in Vergangenheit | Natürliche Spracheingabe* | Siehe Diagramm unten |
+| in der Vergangenheit vor | Natürliche Spracheingabe* | Siehe Diagramm unten |
+| in der Zukunft | Natürliche Spracheingabe* | Siehe Diagramm unten |
+| in der Zukunft nach | Natürliche Spracheingabe* | Siehe Diagramm unten |
+| in Zeitrahmen | Vorgaben (letztes Quartal, gestern usw.) | Definiert in picklist |
+| nach | Einzeldatum | Alle Datensätze nach dem angegebenen Datum |
+| vor | Einzeldatum | Alle Datensätze vor dem angegebenen |
+| am oder nach | Einzeldatum | Wie &quot;after&quot;, aber inklusiv |
 | am oder vor | Einzeldatum | Wie &quot;vorher&quot;, aber inklusiv |
-| ist leer | Keines | Alle Datensätze ohne Datum |
-| ist nicht leer | Keines | Alle Datensätze mit einem beliebigen Datum |
+| ist leer | Keine | Alle Datensätze ohne Datum |
+| ist nicht leer | Keine | Alle Datensätze mit einem beliebigen Datum |
 
 * Die natürliche Spracheingabe ist cool. Folgende Muster können Sie eingeben:
 
@@ -82,11 +82,11 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 
 | Operator | Beschreibung |
 |---|---|
-| is | Genaue Übereinstimmung (nicht zwischen Groß- und Kleinschreibung unterscheiden) |
+| ist | Genaue Übereinstimmung (nicht zwischen Groß- und Kleinschreibung unterscheiden) |
 | ist nicht | Alles außer genaue Übereinstimmung |
-| beginn mit | Erste übereinstimmende Buchstaben einer Zeichenfolge |
-| nicht Beginn mit | Erste Buchstaben der Zeichenfolge DO NOT match |
-| contains | Alle Buchstaben in der Zeichenfolge stimmen überein (Beispiel: Kalifornien, Glück, also) |
+| beginnt mit | Erste übereinstimmende Buchstaben einer Zeichenfolge |
+| beginnt nicht mit | Erste Buchstaben der Zeichenfolge DO NOT match |
+| enthält | Alle Buchstaben in der Zeichenfolge stimmen überein (Beispiel: Kalifornien, Glück, also) |
 | enthält nicht | Keine Buchstaben zusammen in der Zeichenfolge übereinstimmen. (Umkehrung von &quot;enthält&quot;) |
 | ist leer | Datensätze ohne Wert (NULL) |
 | ist nicht leer | Datensätze mit ANY-Werten |
@@ -108,7 +108,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">is</td> 
+   <td colspan="1" rowspan="1">ist</td> 
    <td colspan="1" rowspan="1">Genaue Zahlenübereinstimmung ( = 0 gibt beide Leads mit 0 <em>und</em> NULL zurück)</td> 
   </tr> 
   <tr> 
@@ -116,7 +116,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
    <td colspan="1" rowspan="1">Alles außer exakte Zahlenübereinstimmung</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">between</td> 
+   <td colspan="1" rowspan="1">zwischen</td> 
    <td colspan="1" rowspan="1">Definieren Sie zwei Werte, um alle dazwischen zu finden (inklusive)</td> 
   </tr> 
   <tr> 
@@ -146,4 +146,4 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
  </tbody> 
 </table>
 
-Wie Sie sehen können, machen diese Operatoren es einfach, Marketo-ese mit Flauigkeit zu sprechen!
+Wie Sie sehen können, machen diese Operatoren es einfach, Marketo-ese mit fließender Sprache zu sprechen!
