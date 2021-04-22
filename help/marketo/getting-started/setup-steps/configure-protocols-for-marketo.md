@@ -1,25 +1,25 @@
 ---
 unique-page-id: 4720433
-description: Protokolle für Marketing - Marketing - Docs - Produktdokumentation konfigurieren
-title: Protokolle für Marketing konfigurieren
+description: Protokolle für Marketo - Marketo Docs - Produktdokumentation konfigurieren
+title: Protokolle für Marketo konfigurieren
+exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 1%
 
 ---
 
-
 # Protokolle für Marketo konfigurieren{#configure-protocols-for-marketo}
 
-Ihre Marketinggruppe verwendet Marketo, um Landingpages und E-Mails zu Kampagnen zu erstellen. Um sicherzustellen, dass diese Landingpages und E-Mails funktionieren, benötigen sie eine kleine Hilfe von der IT. Bitte richten Sie die folgenden Protokolle mit den Informationen ein, die Ihnen Ihre Marketinggruppe per E-Mail zukommen lassen sollte.
+Ihre Marketing-Gruppe verwendet Marketo, um Landingpages und E-Mails zu Kampagnen mit Markenbezeichnungen zu erstellen. Um sicherzustellen, dass diese Landingpages und E-Mails funktionieren, benötigen sie eine kleine Hilfe von der IT. Bitte richten Sie die folgenden Protokolle mit den Informationen ein, die Ihnen Ihre Marketinggruppe per E-Mail zukommen lassen sollte.
 
 Dieser Artikel sollte an die IT-Abteilung der Firma weitergegeben werden, die diese Protokolle implementieren möchte.
 
 >[!NOTE]
 >
->Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie die IT-Mitarbeiter, die folgenden Domänen (einschließlich des Sternchen) hinzuzufügen, damit alle Marketing-Ressourcen und Websockets zugelassen werden:
+>Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie die IT-Mitarbeiter, die folgenden Domänen (einschließlich des Sternchen) hinzuzufügen, damit alle Marketo-Ressourcen und -Websockets zugelassen werden:
 
 * `*.marketo.com`
 
@@ -31,7 +31,7 @@ Dieser Artikel sollte an die IT-Abteilung der Firma weitergegeben werden, die di
 
 **Tracking-Link-CNAMEs**
 
-Ihr Marketing-Team sollte Ihnen zwei Anfragen nach neuen CNAME-Aufzeichnungen senden. Die erste ist für Landingpages-URLs gedacht, sodass die Landingpages in URLs angezeigt werden, die Ihre Domäne und nicht Marketo (der eigentliche Host) widerspiegeln. Der zweite betrifft die Links zur Verfolgung, die in den E-Mails enthalten sind, die sie von Marketing senden.
+Ihr Marketing-Team sollte Ihnen zwei Anfragen nach neuen CNAME-Aufzeichnungen senden. Die erste ist für Landingpages-URLs gedacht, sodass die Landingpages in URLs angezeigt werden, die Ihre Domäne und nicht Marketo (den eigentlichen Host) widerspiegeln. Der zweite betrifft die Tracking-Links, die in den E-Mails enthalten sind, die sie von Marketo senden.
 
 `1` **hinzufügen CNAME für Landingpages**
 
@@ -46,7 +46,7 @@ hinzufügen der Landingpage CNAME, die Sie an Ihren DNS-Datensatz gesendet haben
 hinzufügen das E-Mail-CNAME-Marketing Ihnen gesendet hat, sodass `[YourEmailCNAME]` auf [MktoTrackingLink] verweist, den standardmäßigen Verfolgungslink, den Marketo zugewiesen hat, im folgenden Format:\
 `[YourEmailCNAME].[YourDomain].com` IN CNAME  `[MktoTrackingLink]`
 
-Beispiel:
+Zum Beispiel:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
@@ -56,7 +56,7 @@ Benachrichtigen Sie Ihr Marketingteam, wenn Sie diesen Vorgang abgeschlossen hab
 
 ## Schritt 2: Zulassungsliste Marketo IPs {#step-allowlist-marketo-ips}
 
-Wenn Ihre Marketing-Gruppe mit Marketo Test-E-Mails sendet (eine bewährte Methode, bevor E-Mails gesendet werden), werden die Test-E-Mails manchmal von Spam-Systemen blockiert, die zur Überprüfung der Gültigkeit der E-Mail auf IP-Adressen von Absendern angewiesen sind. Um sicherzustellen, dass diese Test-E-Mails eingehen, fügen Sie Ihrer Zulassungsliste Marketo hinzu.
+Wenn Ihre Marketing-Gruppe Marketo zum Senden von Test-E-Mails verwendet (eine bewährte Vorgehensweise vor dem Senden von E-Mail-Nachrichten), werden die Test-E-Mails manchmal von Spam-Systemen blockiert, die zur Überprüfung der Gültigkeit der E-Mail auf IP-Adressen von Absendern angewiesen sind. Um sicherzustellen, dass diese Test-E-Mails eingehen, fügen Sie Ihrer Zulassungsliste Marketo hinzu.
 
 hinzufügen dieser IP-Adressen auf Ihre Corporate Zulassungsliste:
 
