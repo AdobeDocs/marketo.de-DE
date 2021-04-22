@@ -1,106 +1,106 @@
 ---
 unique-page-id: 4719314
-description: Standardmäßige Salesforce-Feldzuordnung - Marketing-Dokumente - Produktdokumentation
+description: Standardmäßige Salesforce-Feldzuordnung - Marketo Docs - Produktdokumentation
 title: Standardmäßige Zuweisung von Salesforce-Feldern
+exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 0%
+ht-degree: 57%
 
 ---
 
-
 # Standardmäßige Salesforce-Feldzuordnung {#default-salesforce-field-mapping}
 
-Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, erstellt Marketo automatisch diese Verknüpfungen zwischen Ihren integrierten Salesforce- und Marketo-Feldern. Marketo synchronisiert auch Ihre benutzerdefinierten Felder auf Ihren Leads, Konten, Chancen und Kontakten.
+Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, stellt Marketo diese Verbindungen automatisch zwischen Ihren integrierten Salesforce- und Marketo-Feldern her. Marketo synchronisiert außerdem Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Möglichkeiten und Kontakten.
 
-## Interessentenfelder {#lead-fields}
+## Lead-Felder {#lead-fields}
 
-| SFDC-Feld | Feld &quot;Marke&quot; |
+| SFDC-Feld | Marketo-Feld |
 |---|---|
 | Jahresumsatz | Jahresumsatz |
 | Ort | Ort |
-| Firma | Name der Firma |
-| Konvertierungsdatum | Konvertierungsdatum des SFDC |
+| Unternehmen | Unternehmensname |
+| Konvertierungsdatum | SFDC – Konvertiertes Datum |
 | Land | Land |
-| Erstellungsdatum | Erstellungsdatum des SFDC |
-| Beschreibung | Personenknoten |
-| Email | Email-Adresse |
+| Erstellungsdatum | SFDC-Erstellungsdatum |
+| Beschreibung | Personenhinweise |
+| E-Mail | E-Mail-Adresse |
 | Fax | Faxnummer |
 | Vorname | Vorname |
-| Opt-out | Nicht abonniert |
+| E-Mail-Abmeldung | Abgemeldet |
 | Branche | Branche |
 | Konvertiert | SFDC wird konvertiert |
-| Gelöscht | SFDC wird gelöscht |
+| Gelöscht | SFDC wurde gelöscht |
 | Nachname | Nachname |
-| Interessentenquelle | Quelle |
-| Interessentenbewertung | Ergebnis |
+| Lead Quelle | Quelle |
+| Lead-Bewertung | Bewertung |
 | Mobiltelefon | Mobiltelefonnummer |
-| ArbeitnehmerInnen | Anzahl Arbeitnehmer |
+| Mitarbeiter | Anzahl Mitarbeiter |
 | Telefon | Telefonnummer |
-| PLZ/Postleitzahl | Postleitzahl |
-| Beurteilung | Beurteilung |
+| PLZ | Postleitzahl |
+| Bewertung | Bewertung |
 | Anrede | Anrede |
-| Bundesland/-staat | state |
+| Bundesland/Kanton | Bundesland |
 | Status | Status |
 | Straße | Adresse |
-| Titel | Auftragstitel |
-| Webseite | Webseite |
+| Stellenbezeichnung | Jobtitel |
+| Website | Webseite |
 
 ## Kontaktfelder {#contact-fields}
 
-| SFDC-Feld | Feld &quot;Marke&quot; |
+| SFDC-Feld | Marketo-Feld |
 |---|---|
 | Geburtsdatum | Geburtsdatum |
-| Erstellungsdatum | Erstellungsdatum des SFDC |
-| Kontaktbeschreibung | Personenknoten |
-| Email | Email-Adresse |
+| Erstellungsdatum | SFDC-Erstellungsdatum |
+| Kontaktbeschreibung | Personenhinweise |
+| E-Mail | E-Mail-Adresse |
 | Business Fax | Faxnummer |
 | Vorname | Vorname |
-| Opt-out | Nicht abonniert |
-| Gelöscht | SFDC wird gelöscht |
+| E-Mail-Abmeldung | Abgemeldet |
+| Gelöscht | SFDC wurde gelöscht |
 | Nachname | Nachname |
-| Interessentenquelle | Quelle |
-| Interessentenbewertung | Ergebnis |
+| Interessent Quelle | Quelle |
+| Lead-Bewertung | Bewertung |
 | MailingCity | Ort |
 | MailingCountry | Land |
 | MailingPostalCode | Postleitzahl |
-| MailingState | state |
+| MailingState | Bundesland |
 | MailingStreet | Adresse |
 | Mobiltelefon | Mobiltelefonnummer |
-| Business Phone | Telefonnummer |
+| Geschäftstelefon | Telefonnummer |
 | Anrede | Anrede |
-| Titel | Auftragstitel |
+| Stellenbezeichnung | Jobtitel |
 
 ## Kontofelder {#account-fields}
 
-| SFDC-Feld | Feld &quot;Marke&quot; |
+| SFDC-Feld | Marketo-Feld |
 |---|---|
 | Jahresumsatz | Jahresumsatz |
-| Rechnungsstadt | Rechnungsstadt |
-| Rechnungsland | Rechnungsland |
-| Rechnungsstellung Postleitzahl | Postleitzahl der Rechnungsstellung |
-| Rechnungsland/-staat | Rechnungsstaat |
+| Abrechnungsort | Abrechnungsort |
+| Abrechnungsland | Abrechnungsland |
+| Rechnungsstellung Postleitzahl | Postleitzahl für Abrechnung |
+| Rechnungsland/-staat | Bundesland für Abrechnung |
 | Billing Street | Rechnungsadresse |
-| Kontobeschreibung | Hinweise zur Firma |
+| Kontobeschreibung | Unternehmenshinweise |
 | Branche | Branche |
-| Gelöscht | SFDC wird gelöscht |
-| Kontoname | Name der Firma |
-| ArbeitnehmerInnen | Anzahl Arbeitnehmer |
-| Konto Telefon | Hauptfach |
+| Gelöscht | SFDC wurde gelöscht |
+| Kontoname | Unternehmensname |
+| Mitarbeiter | Anzahl Mitarbeiter |
+| Konto Telefon | Haupttelefonnummer |
 | SIC-Code | SIC-Code |
-| Kontosite | Site |
+| Kontosite | Seite |
 | Kontotyp | SFDC-Typ |
 | Webseite | Webseite |
 
-## Salesforce-verwandte Systemfelder in Marketo (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
+## Salesforce-bezogene Systemfelder in Marketo (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
 
-Diese Felder werden in Marketo erstellt, können aber nicht von Kunden angepasst werden.
+Diese Felder werden in Marketo erstellt, können jedoch nicht von Kunden angepasst werden.
 
 | Feld | Beschreibung |
 |---|---|
 | SFDC-ID | Die Salesforce-ID mit 18 Zeichen |
 | SFDC-Typ | Interessent oder Kontakt. Wenn leer, existiert der Interessent nur als Person in Marketo |
-| Erstellungsdatum des SFDC | In SFDC erstelltes Datum (kann sich von Erstellungsdatum in Marketing unterscheiden) |
-| SFDC wird gelöscht | Person war früher im SFDC, wurde aber gelöscht und lebt jetzt nur in Marketo |
+| SFDC-Erstellungsdatum | In SFDC erstelltes Datum (kann sich von Erstellungsdatum in Marketo unterscheiden) |
+| SFDC wird gelöscht | Personen, die früher im SFDC waren, aber gelöscht wurden und jetzt nur noch in Marketo leben |
