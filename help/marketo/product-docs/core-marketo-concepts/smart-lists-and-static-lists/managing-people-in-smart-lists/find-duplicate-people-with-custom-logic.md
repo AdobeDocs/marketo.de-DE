@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2952636
-description: Duplikat-Personen mit benutzerdefinierter Logik suchen - Marketing-Dokumente - Produktdokumentation
+description: Duplikat-Personen mit benutzerdefinierter Logik suchen - Marketo Docs - Produktdokumentation
 title: Duplikat-Personen mit benutzerdefinierter Logik suchen
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
 # Duplikat-Personen mit benutzerdefinierter Logik {#find-duplicate-people-with-custom-logic} suchen
 
-Marketo verfügt über eine systemintelligente Liste, die Duplikat-Leute findet, indem sie ihre E-Mail-Adressen abgleichen. Wenn Sie ein anderes Feld verwenden möchten, um Duplikate zu finden, hier sehen Sie, wie.
+Marketo verfügt über eine systemintelligente Liste, die Duplikat-Personen findet, indem sie ihre E-Mail-Adressen abgleichen. Wenn Sie ein anderes Feld verwenden möchten, um Duplikate zu finden, hier sehen Sie, wie.
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Marketo verfügt über eine systemintelligente Liste, die Duplikat-Leute findet,
 
 1. Wählen Sie eine der vier verfügbaren Optionen aus:
 
-   * Email-Adresse
+   * E-Mail-Adresse
    * Vollständiger Name
    * Nachname
    * Aktualisiert am
