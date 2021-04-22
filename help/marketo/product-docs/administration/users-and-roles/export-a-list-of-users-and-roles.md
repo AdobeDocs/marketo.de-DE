@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359912
-description: Liste von Benutzern und Rollen exportieren - Marketing Docs - Produktdokumentation
+description: Liste von Benutzern und Rollen exportieren - Marketo Docs - Produktdokumentation
 title: Listen von Benutzern und Rollen exportieren
+exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # Liste von Benutzern und Rollen {#export-a-list-of-users-and-roles} exportieren
 
