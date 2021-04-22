@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147316
-description: Manuelles Erstellen einer Person - Marketing Docs - Produktdokumentation
+description: Manuelles Erstellen einer Person - Marketo Docs - Produktdokumentation
 title: Manuelles Erstellen einer Person
+exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # Eine Person manuell erstellen {#create-a-person-manually}
 
-Es gibt viele Möglichkeiten, eine Person nach Marketo zu bringen. Wenn Sie eine manuell erstellen müssen, hier sehen Sie, wie man es macht.
+Es gibt viele Möglichkeiten, einen Menschen nach Marketo zu bringen. Wenn Sie eine manuell erstellen müssen, hier sehen Sie, wie man es macht.
 
 1. Gehen Sie zur Datenbank ****.
 
