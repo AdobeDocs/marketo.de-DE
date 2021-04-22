@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472490
-description: Versionsplan - Marketing-Dokumente - Produktdokumentation
+description: Versionsplan - Marketo Docs - Produktdokumentation
 title: Veröffentlichungszeitplan
+exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Releasungsplan {#release-schedule}
 
-**Version**: Marketo verwendet einen vierteljährlichen Plan für die Hauptversion. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verlinkt.
+**Version**: Marketo verwendet einen vierteljährlichen Veröffentlichungszeitplan. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verlinkt.
 
 **Releasedatum**: Die Rollout beginnt üblicherweise am Mittwoch der Release-Woche, wobei der Großteil der Aktualisierung am Freitagabend stattfindet. Es wird eine E-Mail mit bestimmten Daten und Versionshinweisen gesendet. Das angegebene Datum bezieht sich auf das Freitagsupdate.
 
@@ -40,12 +40,12 @@ _Änderungen an den Versionsdaten_
   <tr> 
    <td colspan="1">Januar 21</td> 
    <td colspan="1">15. Januar 2021</td> 
-   <td colspan="1">versandt</td> 
+   <td colspan="1">Versendet</td> 
   </tr> 
   <tr> 
    <td colspan="1">Mai 21</td> 
    <td colspan="1">7. Mai 2021</td> 
-   <td colspan="1">Wird ausgeführt</td> 
+   <td colspan="1">In Bearbeitung</td> 
   </tr> 
   <tr> 
    <td colspan="1">21. August</td> 
