@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147066
-description: Außerkraftsetzen von Personenbeschränkungen in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
+description: Personenbeschränkungen in einer intelligenten Kampagne außer Kraft setzen - Marketo Docs - Produktdokumentation
 title: Personenbeschränkungen in einer intelligenten Kampagne überschreiben
+exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Personenbeschränkungen in einer intelligenten Kampagne {#override-person-restrictions-in-a-smart-campaign} überschreiben
 
@@ -17,7 +17,7 @@ Mit Marketo können Sie festlegen, wie viele Personen maximal für eine intellig
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie in Marketing Admin Personenbeschränkungen für intelligente Kampagnen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) aktivieren.[
+>Stellen Sie sicher, dass Sie in Marketo Admin Personenbeschränkungen für intelligente Kampagnen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) aktivieren.[
 
 1. Gehen Sie in den Marketing-Aktivitäten zu Ihrer Smart-Kampagne und klicken Sie auf **Plan**.
 
