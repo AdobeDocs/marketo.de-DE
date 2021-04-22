@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953334
-description: Versionshinweise - Oktober 2014 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Oktober 2014 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Oktober 2014
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Versionshinweise: Oktober 2014 {#release-notes-october}
 
-Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Die Dokumentation wird zum Zeitpunkt der Veröffentlichung veröffentlicht.
+Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Die Dokumentation wird zum Zeitpunkt der Veröffentlichung veröffentlicht.
 
 ## Programm-Fokus im Marketingkalender {#program-focus-in-marketing-calendar}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## Neue ReST-API-Aufrufe {#new-rest-api-calls}
+## Neue ReST API-Aufrufe {#new-rest-api-calls}
 
 Verwenden Sie die API, um neue Aktivitäten oder Änderungen an Interessenten abzurufen:
 
@@ -32,15 +32,15 @@ Verwenden Sie die API, um neue Aktivitäten oder Änderungen an Interessenten ab
 
 Vollständige Details sind nach der Veröffentlichung unter [developer.marketo.com](https://developers.marketo.com/documentation/rest/) verfügbar.
 
-## MSI - Senden von Marketo E-Mail an Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - Senden der Marketo-E-Mail an Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
 [Senden und verfolgen Sie ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) E-Mails zu Interessenten und Kontakten von Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Hinzufügen zu Marketo-Kampagnen für Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - Hinzufügen auf Marketo-Kampagnen für Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[hinzufügen führt und kontaktiert Marketo Smart ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) Kampagnen direkt von Microsoft Dynamics. Marketing kann auswählen, welche Marketo-Kampagnen für den Vertrieb verfügbar sind.
+[hinzufügen führt und kontaktiert Marketo Smart ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) Kampagnen direkt von Microsoft Dynamics. Marketing kann wählen, welche Marketo-Kampagnen für den Vertrieb verfügbar sind.
 
 ## Benutzerdefinierte Entitätsunterstützung für Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
