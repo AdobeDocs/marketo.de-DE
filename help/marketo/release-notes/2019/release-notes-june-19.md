@@ -1,25 +1,25 @@
 ---
 unique-page-id: 18874822
-description: Versionshinweise - 19. Juni - Marketing Docs - Produktdokumentation
+description: Versionshinweise - 19. Juni - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Juni 19
+exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '631'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Versionshinweise: Juni &#39;19 {#release-notes-june}
 
-Die folgenden Funktionen sind in der Version vom 19. Juni enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom 19. Juni enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
 **_Quartalsversionen_**
 
 Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 
-## Marketing-Hauptdienste {#marketo-core-services}
+## Marketo Kernservices {#marketo-core-services}
 
 * **Prüfsumme** der Massenextraktionsdatei: Vergewissern Sie sich, dass eine vollständige Datei abgerufen wurde, indem Sie den Datei-Hash mit der Prüfsummenzeichenfolge der abgeschlossenen Extraktionsaufträge vergleichen.
 * **Automatisierte Migration von E-Mail 1.0 auf E-Mail 2.0**: Email 2.0 ist vollständig mit E-Mail 1.0 und Vorlagen kompatibel. Profitieren Sie von neuen Funktionen wie der Möglichkeit, Inhaltselemente (Bilder, Text usw.) zu gruppieren. Variablen wie String, Color, Image usw. definieren. und nutzen Sie vollständig reaktionsfähige Startvorlagen. Enthält auch einen visuellen Auswahldialog für E-Mail-Vorlagen.
@@ -28,9 +28,9 @@ Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 >
 >Ab dem 18. Juni 2019 ist E-Mail 1.0 nicht mehr verfügbar. Weitere Informationen zu Email 2.0 und der Vernichtung von Email 1.0 [finden Sie hier](https://nation.marketo.com/docs/DOC-7038).
 
-## Kontobasiertes Marketing {#account-based-marketing}
+## Kundenbezogenes Marketing {#account-based-marketing}
 
-* **LinkedIn-Kontoübereinstimmung (BETA)** : Eine neue ABM-Funktion ist jetzt in der Beta-Version verfügbar. Sie haben die Möglichkeit, Listen bekannter und Whitespace-Konten direkt von Marketo in LinkedIn zu senden. Diese Funktion ist automatisch für alle Marketo ABM-Kunden enthalten.
+* **linkedIn Account Match (BETA)** : Eine neue ABM-Funktion ist jetzt in der Beta-Version verfügbar, mit der Sie Listen bekannter und Whitespace-Konten direkt von Marketo nach LinkedIn senden können. Diese Funktion ist automatisch für alle Marketo ABM-Kunden verfügbar.
 
 <br> 
 
@@ -48,12 +48,12 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und A
 * **Vollständige Navigationslinks**: Wir haben die Navigation für alle zulässigen Anwendungen aktiviert, wie z.B. für Hootsuite, Kalender und mehr.
 * **Ansichten** für E-Mail-, Landingpage-, Snippet-, Formular-, Bild- und DateiListe: Ansicht, Suche und Durchführung von Massenaktionen für beliebige Assets in Design Studio.
 * **Seite** mit Details zu Bild, Datei und Snippet: Erhalten Sie schnelle Details zu Ihren Assets mit Metadaten wie &quot;at/ _byte&quot;_ und Aktionen wie &quot; __ Löschen&quot;und &quot; _Genehmigen_&quot;.
-* **Community-Blog-Posts-Widget**: Zugang zu den neuesten Beiträgen aus der Community in My Marketo.
-* **Baldes Widget** ab: hinzufügen Sie das Widget &quot;Läuft bald ab&quot;in Ihrem My Marketing Dashboard, um zu sehen, welche Kampagnen und Landingpages als Nächstes ablaufen.
+* **Community-Blog-Posts-Widget**: Rufen Sie die aktuellen Beiträge der Community in My Marketo auf.
+* **Baldes Widget** ab: hinzufügen Sie das Widget &quot;Läuft bald ab&quot;in Ihrem My Marketo-Dashboard, um zu sehen, welche Kampagnen und Landingpages als Nächstes ablaufen.
 * **Weitere Smart-Liste-Karten**: Segmentieren und Zielgruppe mit zusätzlichen Karten für intelligente Liste, einschließlich Flussschritt &quot;Aufgabe erstellen&quot;, CRM-Regeln für intelligente Liste und mehr.
 * **E-Mail-Champion/Challenger-Detailseite**: Siehe Daten wie Gewinner-Kriterien, erstellt am usw. von Ihren E-Mail-Meister/Herausforderer-Tests.
 
-## Marketing-Verkaufsstelle {#marketo-sales-connect}
+## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Massenaktionen in Salesforce-Anpassung**: Mit der Salesforce-Anpassung können Sie die Produktivität durch das Senden von E-Mails und das Hinzufügen von Kontakten zu Kampagnen maximieren.
 * **Einstellungen - Salesforce-Seite für Admin und Nicht-Admin**: Verwalten Sie Ihre Sales Connect-Instanz mit einer klaren Ansicht der Salesforce-Instanz, die mit Sales Connect verbunden ist, sowie mit den Aktualisierungen von &quot;Meine E-Mail an Salesforce&quot;. In den kommenden Monaten werden erweiterte Synchronisierungseinstellungen für Administratoren, Nichtadministratoren und Team-Wide-Synchronisierung veröffentlicht.
@@ -62,7 +62,7 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und A
 
 * **System-E-Mail-Vorlagen**: Aktualisierte Design-, Reaktionsfähigkeit und Internationalisierungsfunktionen.
 
-## Bizibel von Marketo {#bizible-by-marketo}
+## Bizible von Marketo {#bizible-by-marketo}
 
 * **Unterstützung mehrerer Währungen für Dynamik**: Bizible passt sich jetzt an Microsoft Dynamics Währungstabellen an, sodass Sie einfach zwischen Unternehmens- und lokalen Währungen wechseln können. (Hinweis: Die Unterstützung für das SFDC wurde im 1. Quartal 2019 veröffentlicht.)
 * **Drift-Integration**: Verstehen Sie, wie Drift-Konversationen die Journey Ihres Kunden beeinflussen. Bizible ruft auch E-Mail-Adressen aus Gesprächen ab, um entweder einen neuen Interessenten zu erstellen oder den Touchpoint mit einem vorhandenen Interessenten zu verbinden.
