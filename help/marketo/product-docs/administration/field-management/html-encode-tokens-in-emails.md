@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720461
-description: HTML-Kodierungstoken in E-Mails - Marketing Docs - Produktdokumentation
-title: HTML-Kodierungstoken in E-Mails
+description: HTML-Kodierungstoken in E-Mails - Marketo Docs - Produktdokumentation
+title: HTML-Kodier-Token in E-Mails
+exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# HTML-Kodierungstoken in E-Mails {#html-encode-tokens-in-emails}
+# HTML-Kodier-Token in E-Mails {#html-encode-tokens-in-emails}
 
 Personen- und Firmen-Token, die in E-Mails verwendet werden, aktivieren/deaktivieren
 
