@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951119
-description: Versionshinweise - April 2012 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - April 2012 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - April 2012
+exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
 
 ---
-
 
 # Versionshinweise: April 2012 {#release-notes-april}
 
@@ -32,7 +32,7 @@ Wir haben die Bestätigungs-URL vereinfacht, indem wir ein Mitglieds-Token erste
 
 ## Laden Sie mehrere Bilder und Dateien mit einem Klick hoch! {#upload-multiple-images-and-files-with-a-single-click}
 
-Sparen Sie Zeit und sparen Sie beim Import von Bildern und Dateien in Marketo noch effizienter! Wenn Sie Firefox oder Google Chrome verwenden, können Sie Dateien mehrmals auswählen und alle gleichzeitig hochladen. Obwohl die Anzahl der hochzuladenden Dateien unbegrenzt ist, beträgt die maximale Größe pro Datei 50 MB.
+Sparen Sie Zeit und sparen Sie beim Importieren von Bildern und Dateien in Marketo! Wenn Sie Firefox oder Google Chrome verwenden, können Sie Dateien mehrmals auswählen und alle gleichzeitig hochladen. Obwohl die Anzahl der hochzuladenden Dateien unbegrenzt ist, beträgt die maximale Größe pro Datei 50 MB.
 
 Hinweis: Derzeit wird diese Funktion im Internet Explorer aufgrund von Einschränkungen des Browsers nicht unterstützt.
 
@@ -50,7 +50,7 @@ Sie können Textblöcke in einer E-Mail neu anordnen. Wählen Sie im Texteditor 
 
 Wenn Sie Ihr Abonnement nicht mit Salesforce synchronisieren, werden Sie bemerken, dass alle Ordner und Flussaktionen, die Salesforce referenzieren, entfernt wurden.
 
-## Marketing-Umsatz-Cycle-Analytics {#marketo-revenue-cycle-analytics}
+## Marketo-Umsatzwyklusanalysen {#marketo-revenue-cycle-analytics}
 
 **Verbesserte Gate-Phasen im Umsatzzyklusmodell**
 
