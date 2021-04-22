@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951124
-description: Versionshinweise - Januar/Februar 2012 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Januar/Februar 2012 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Januar/Februar 2012
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Versionshinweise: Januar/Februar 2012 {#release-notes-jan-feb}
 
-Die folgenden Funktionen sind in der Januar/Februar-Version enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
+Die folgenden Funktionen sind in der Januar/Februar-Version enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
 
 ## Erweiterte dynamische Inhalte {#advanced-dynamic-content}
 
@@ -23,7 +23,7 @@ Mit fortschrittlichen dynamischen Inhalten können Sie ansprechende E-Mail-Nachr
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentierung {#segmentation}
+## Segmentierung  {#segmentation}
 
 _Verfügbar für Pro- und Enterprise-Versionen_
 
@@ -31,7 +31,7 @@ Die Segmentierung ist eine Gruppe von Segmenten, bei denen es sich um eine zielg
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## Snippets {#snippets}
+## Ausschnitte {#snippets}
 
 _Verfügbar für Pro- und Enterprise-Versionen_
 
@@ -53,9 +53,9 @@ Zu den neuen Funktionen, die die Einstellungen des Browsers &quot;Nicht verfolge
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## Single-Sign-on {#single-sign-on}
+## Einmaliges Anmelden {#single-sign-on}
 
-Organisationen können jetzt eine nahtlose Anmeldung bei der Marketing-Anwendung mit SAML 2.0 für Single Sign-On über ein Firmenportal unterstützen.
+Unternehmen können jetzt eine nahtlose Anmeldung bei der Marketo-Anwendung mit SAML 2.0 für die einmalige Anmeldung über ein Firmenportal unterstützen.
 
 ## Aktualisierte E-Mail- und Landingpage-Editoren {#updated-email-and-landing-page-editors}
 
@@ -84,7 +84,7 @@ Die vereinfachte Verwaltung von Programmen verbessert die Benutzerfreundlichkeit
 
 Jetzt können Sie sich vom Abonnement direkt vom Bericht abmelden!
 
-## Munchkin-Aktualisierungen {#munchkin-updates}
+## Munchkin-Updates {#munchkin-updates}
 
 Neue Munchkin-Aufrufe reduzieren die Ladezeit von Webseiten und sorgen für eine konsistentere Leistung bei Ereignissen mit Klicklinks.
 
