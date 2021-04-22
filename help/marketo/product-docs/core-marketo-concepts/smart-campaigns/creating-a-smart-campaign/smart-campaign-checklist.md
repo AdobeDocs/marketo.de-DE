@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147051
-description: Checkliste für intelligente Kampagnen - Marketing-Dokumente - Produktdokumentation
+description: Checkliste für intelligente Kampagnen - Marketo Docs - Produktdokumentation
 title: Checkliste für intelligente Kampagnen
+exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Checkliste für intelligente Kampagnen {#smart-campaign-checklist}
 
@@ -63,4 +63,4 @@ Stellen Sie auf der Registerkarte **Plan** sicher, dass die Anzahl der qualifizi
 >
 >Wenn Ihre intelligente Kampagne immer noch fehlschlägt, erfahren Sie, wie [Benachrichtigungen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) erkannt werden, um herauszufinden, was schiefgelaufen ist und wie Sie das Problem beheben können.
 
-Gute Arbeit! Halten Sie diese Checkliste praktisch, bevor Sie eine intelligente Kampagne ausführen.
+Großartig gemacht! Halten Sie diese Checkliste praktisch, bevor Sie eine intelligente Kampagne ausführen.
