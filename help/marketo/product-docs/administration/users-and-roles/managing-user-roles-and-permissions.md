@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359909
-description: Verwalten von Benutzerrollen und Berechtigungen - Marketing Docs - Produktdokumentation
+description: Verwalten von Benutzerrollen und Berechtigungen - Marketo Docs - Produktdokumentation
 title: Verwalten von Benutzerrollen und Berechtigungen
+exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-
 # Verwalten von Benutzerrollen und Berechtigungen {#managing-user-roles-and-permissions}
 
 Legen Sie Benutzerrollen fest, erstellen und bearbeiten Sie sie und weisen Sie sie Benutzern zu. Auf diese Weise können Sie die Bereiche und Funktionen steuern, auf die jeder Marketo-Benutzer Zugriff hat.
 
-So benötigt ein Marketingbenutzer in der Regel einen umfassenden Zugriff auf die gesamte Anwendung, um E-Mails, Landingpages und Programm zu erstellen, zu ändern und bereitzustellen. Ein Webdesigner hingegen verbringt fast die ganze Zeit im Design Studio und erstellt Assets, die in E-Mails und Landingpages verwendet werden können. Auch wenn Firmen im Analytics-Bereich die Berichte von Marketo umfassend nutzen, müssen sie die Assets oder Programm möglicherweise nicht selbst erstellen oder fördern.
+So benötigt ein Marketingbenutzer in der Regel einen umfassenden Zugriff auf die gesamte Anwendung, um E-Mails, Landingpages und Programm zu erstellen, zu ändern und bereitzustellen. Ein Webdesigner hingegen verbringt fast die ganze Zeit im Design Studio und erstellt Assets, die in E-Mails und Landingpages verwendet werden können. Und obwohl die Firmen die Berichte von Marketo im Bereich Analytics umfassend nutzen, müssen sie die Assets oder Programm möglicherweise nicht selbst erstellen oder fördern.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-Marketo bietet mehrere integrierte Rollen mit unterschiedlichen Zugriffsebenen:
+Marketo bietet mehrere integrierte Rollen mit unterschiedlichen Zugriffsstufen:
 
 * **Admin**  - alle Teile der Anwendung, einschließlich Admin-Abschnitt
 * **Standardbenutzer**  - alle Teile der Anwendung, außer im Abschnitt &quot;Admin&quot;
