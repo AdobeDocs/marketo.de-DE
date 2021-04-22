@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147255
-description: Ausgabe/Widerruf einer Marketing-Kalenderlizenz - Marketing Docs - Produktdokumentation
+description: Ausgabe/Widerruf einer Marketing-Kalenderlizenz - Marketo Dokumente - Produktdokumentation
 title: Ausgabe/Widerruf einer Marketing-Kalenderlizenz
+exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Ausgabe/Widerruf einer Marketing-Kalenderlizenz {#issue-revoke-a-marketing-calendar-license}
 
