@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147100
-description: Navigieren in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation
+description: Navigieren in der Ansicht Programmplanung - Marketo Docs - Produktdokumentation
 title: Navigieren in der Ansicht "Programmplanung"
+exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # Navigieren in der Ansicht Programmplanung {#navigating-the-program-schedule-view}
 
@@ -61,7 +61,7 @@ Im Folgenden finden Sie die Grundlagen zur Navigation in der Ansicht der Program
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
 
-Großartig! Nun, da Sie wissen, wie Sie Ihr Programm Ansicht haben, lernen wir die anderen coolen Dinge, die es tun kann.
+Sehr gut! Nun, da Sie wissen, wie Sie Ihr Programm Ansicht haben, lernen wir die anderen coolen Dinge, die es tun kann.
 
 >[!MORELIKETHIS]
 >
