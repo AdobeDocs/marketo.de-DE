@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372975
-description: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Professional) - Marketing Docs - Produktdokumentation
+description: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Professional) - Marketo Docs - Produktdokumentation
 title: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Professional)
+exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '745'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
-# Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Schritt 1 von 3: hinzufügen von Marketo-Feldern auf Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ Marketo verwendet eine Reihe von Feldern, um bestimmte Arten von Marketinginform
 1. Ordnen Sie diese benutzerdefinierten Felder zwischen Interessenten und Kontakten zu, damit die Werte bei der Konvertierung in Salesforce übernommen werden.
 1. Sie können bei Bedarf weitere Felder erstellen (siehe Tabelle unten).
 
-Alle diese benutzerdefinierten Felder sind optional und müssen nicht synchronisiert werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
+Alle diese benutzerdefinierten Felder sind optional und müssen nicht mit Marketo und Salesforce synchronisiert werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
 
-## hinzufügen Marketo-Felder an Salesforce {#add-marketo-fields-to-salesforce}
+## hinzufügen von Marketo-Feldern auf Salesforce {#add-marketo-fields-to-salesforce}
 
 hinzufügen drei benutzerdefinierte Felder auf den oben aufgeführten Interessenten- und Kontaktobjekten in Salesforce. Wenn Sie weitere hinzufügen möchten, sehen Sie sich die Tabelle der verfügbaren Felder am Ende dieses Abschnitts an.
 
@@ -58,7 +58,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
   <tr> 
    <th> 
     <div>
-      Feldbeschriftung 
+      Feldbezeichnung 
     </div></th> 
    <th> 
     <div>
@@ -76,19 +76,19 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
  </thead> 
  <tbody> 
   <tr> 
-   <td>Ergebnis</td> 
+   <td>Bewertung</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>Nummer</td> 
+   <td>Zahl</td> 
    <td>Länge 10<br>Dezimalstellen 0 </td> 
   </tr> 
   <tr> 
-   <td>Akquise-Datum</td> 
+   <td>Akquirierungsdatum</td> 
    <td>mkto71_Acquisition_Date</td> 
    <td>Datum/Uhrzeit</td> 
    <td> </td> 
   </tr> 
   <tr> 
-   <td>Akquise-Programm</td> 
+   <td>Akquisitionsprogramm</td> 
    <td>mkto71_Acquisition_Programm</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
@@ -137,85 +137,85 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 <table> 
  <tbody> 
   <tr> 
-   <th>Feldbeschriftung</th> 
+   <th>Feldbezeichnung</th> 
    <th>Feldname</th> 
    <th>Datentyp</th> 
    <th>Feldattribute</th> 
   </tr> 
   <tr> 
-   <td>Akquise-Programm-ID</td> 
+   <td>Akquisitionsprogramm-ID</td> 
    <td>mkto71_Acquisition_Programm_Id</td> 
-   <td>Nummer</td> 
+   <td>Zahl</td> 
    <td>Länge 18<br>Dezimalstellen 0 </td> 
   </tr> 
   <tr> 
-   <td>Ursprünglicher Werber</td> 
+   <td>Ursprünglicher Verweis</td> 
    <td>mkto71_Original_Werber</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprüngliche Suchmaschine</td> 
+   <td>Ursprüngliche Such-Engine</td> 
    <td>mkto71_Original_Suchmaschine</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprünglicher Suchbegriff</td> 
+   <td>Ursprünglicher Suchausdruck</td> 
    <td>mkto71_Original_Search_Phrase</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprüngliche Quellinformationen</td> 
+   <td>Ursprüngliche Quelleninfo</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Originalquellentyp</td> 
+   <td>Ursprünglicher Quellentyp</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Inferated City</td> 
+   <td>Abgeleiteter Ort</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Vorgestellte Firma</td> 
+   <td>Abgeleitetes Unternehmen</td> 
    <td>mkto71_Inferred_Firma</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Inferiertes Land</td> 
+   <td>Abgeleitetes Land</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Großraum</td> 
+   <td>Abgeleiteter Stadtbereich</td> 
    <td>mkto71_Inferred_Metropolitan_Area</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Abgeleiteter Telefonbereichscode</td> 
+   <td>Abgeleitete Vorwahl</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Postleitzahl</td> 
+   <td>Abgeleitete Postleitzahl</td> 
    <td>mkto71_Inferred_Postal_Code</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Inferierte Staatsregion</td> 
+   <td>Abgeleitetes Bundesland/abgeleitete Region</td> 
    <td>mkto71_Inferred_state_Region</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
@@ -258,4 +258,4 @@ Einfach genug, nicht wahr?
 
 >[!MORELIKETHIS]
 >
->[Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketing (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
