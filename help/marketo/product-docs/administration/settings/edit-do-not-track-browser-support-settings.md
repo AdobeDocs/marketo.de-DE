@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095047
-description: Browserunterstützungseinstellungen "Nicht verfolgen"bearbeiten - MarketingTo Docs - Produktdokumentation
+description: Browserunterstützungseinstellungen "Nicht verfolgen"bearbeiten - Marketo Dokumente - Produktdokumentation
 title: Browserunterstützungseinstellungen "Nicht verfolgen" bearbeiten
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # Browserunterstützungseinstellungen für &quot;Nicht verfolgen&quot; bearbeiten{#edit-do-not-track-browser-support-settings}
 
-&quot;Nicht verfolgen&quot;ist eine Browseranforderung, die in Systemen wie Marketo nicht verfolgt werden kann. Sie können diese Anforderung mit den folgenden Schritten berücksichtigen.
+&quot;Nicht verfolgen&quot;ist eine Browseranforderung, die in Systemen wie Marketo nicht verfolgt werden soll. Sie können diese Anforderung mit den folgenden Schritten berücksichtigen.
 
 >[!NOTE]
 >
