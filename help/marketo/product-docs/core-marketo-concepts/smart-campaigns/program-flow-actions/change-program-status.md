@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147007
-description: Ändern des Programm-Status - Marketing-Dokumente - Produktdokumentation
-title: Status des Programms ändern
+description: Ändern des Programm-Status - Marketo Docs - Produktdokumentation
+title: Programmstatus ändern
+exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Ändern des Programm-Status {#change-program-status}
+# Programmstatus ändern {#change-program-status}
 
 ## Übersicht {#overview}
 
@@ -21,7 +21,7 @@ Programm-Statusangaben helfen Ihnen dabei, zu verfolgen, wie Menschen durch ein 
 >
 >Wenn Sie den Status des Programms in einem Interaktionsmodul ändern, werden diese automatisch dem ersten Stream hinzugefügt. Sie erhalten Inhalte.
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Ziehen Sie in den Textfluss **Ändern des Programm-Status**.
 
