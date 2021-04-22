@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147055
-description: Aktionen zur Kampagne - Löschen einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
+description: Kampagne-Aktionen - Löschen einer intelligenten Kampagne - Marketo Docs - Produktdokumentation
 title: Kampagnen-Aktionen - Löschen einer intelligenten Kampagne
+exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # Kampagnen: Löschen einer Smart-Kampagne {#campaign-actions-delete-a-smart-campaign}
 
