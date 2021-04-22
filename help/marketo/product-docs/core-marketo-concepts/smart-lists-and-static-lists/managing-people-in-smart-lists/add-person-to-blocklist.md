@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9438139
-description: hinzufügen Person in Blockierungsliste - Marketing Docs - Produktdokumentation
+description: hinzufügen Person in Blockierungsliste - Marketo Docs - Produktdokumentation
 title: hinzufügen in Blockierungsliste
+exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # hinzufügen Person in Blockierungsliste {#add-person-to-blocklist}
 
@@ -17,7 +17,7 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
 >[!NOTE]
 >
->Marketo ist dabei, Begriffe wie Blacklist und Whitelist in Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
+>Marketo ist dabei, Begriffe wie Blacklist und Whitelist zu ändern, um Blockierungsliste und Zulassungsliste in unserem Produkt zu erhalten. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots zur Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
 1. [Erstellen Sie ein neues Standardprogramm ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) und nennen Sie es  **Hinzufügen Blockierungsliste**.
 
