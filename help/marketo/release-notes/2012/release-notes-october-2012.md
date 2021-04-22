@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951109
-description: Versionshinweise - Oktober 2012 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Oktober 2012 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Oktober 2012
+exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Versionshinweise: Oktober 2012 {#release-notes-october}
 
@@ -17,19 +17,19 @@ Die Oktober-Version enthält weitere spannende neue Funktionen! Social-Funktione
 
 ## Programme importieren und Programm Exchange {#import-programs-and-program-exchange}
 
-Ein Programm kann von einem Markt in ein anderes Abonnement importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus der Marketing-Programm-Bibliothek importieren.
+Ein Programm kann von einem Marketo-Abonnement in ein anderes importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus der Marketo Programm Library importieren.
 
 ![](assets/image2014-9-23-10-3a46-3a42.png)
 
 >[!NOTE]
 >
->Programm können nur von Marketo-Administratoren importiert werden, denen die Berechtigung erteilt wurde.
+>Nur Marketo-Benutzer, denen ein Marketo-Administrator die Berechtigung erteilt hat, können Programm importieren.
 >
->Wenden Sie sich an den Marketing-Support, um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden.
+>Wenden Sie sich an den Marketo Support, um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden.
 
 ## Benachrichtigungen {#notifications}
 
-Benachrichtigungen halten Sie auf dem Laufenden über die Ereignis des Systems, die in Ihrem Marketing-Abonnement stattfinden. Das System benachrichtigt Sie beispielsweise automatisch, wenn eine Kampagne fehlschlägt oder Ihre CRM-Synchronisierung Ihre Aufmerksamkeit erfordert. Benachrichtigungen sind auf der Registerkarte &quot;Mein Markent&quot;verfügbar. Darüber hinaus können Sie eine Benachrichtigung abonnieren, damit Sie sie in Echtzeit in Ihrer E-Mail empfangen können.
+Benachrichtigungen halten Sie auf dem Laufenden über die Ereignis des Systems, die in Ihrem Marketo-Abonnement stattfinden. Das System benachrichtigt Sie beispielsweise automatisch, wenn eine Kampagne fehlschlägt oder Ihre CRM-Synchronisierung Ihre Aufmerksamkeit erfordert. Benachrichtigungen sind auf der Registerkarte &quot;Mein Marketo&quot;verfügbar. Darüber hinaus können Sie eine Benachrichtigung abonnieren, damit Sie sie in Echtzeit in Ihrer E-Mail empfangen können.
 
 ![](assets/image2014-9-23-10-3a46-3a53.png)
 
@@ -45,13 +45,13 @@ Finden Sie heraus, wer Ihre Inhalte freigegeben und an Ihren Umfragen teilgenomm
 
 ![](assets/image2014-9-23-10-3a47-3a20.png)
 
-## Social-Profil {#social-profiles}
+## Soziale Profile {#social-profiles}
 
 Sie können jetzt Informationen über Ihre Interessenten erfassen, wenn sie Inhalte teilen oder Formulare mit ihren sozialen Profilen ausfüllen. Dazu gehören Facebook-, LinkedIn- und Twitter-Handles, die Anzahl der Freunde, die sie haben, und mehr.
 
 ## Abonnements für Umsatz-Explorer-Berichte {#revenue-explorer-report-subscriptions}
 
-Erstellen Sie Report Abonnement und senden Sie Ihre Revenue Explorer-Berichte regelmäßig an Ihre wichtigsten Interessenvertreter, einschließlich Nicht-Marketing-Benutzern. Die E-Mail enthält eine Vorschau der Berichtdatentabelle oder der Diagramme sowie eine Excel-Tabelle mit allen Berichtsdaten.
+Erstellen Sie Report Abonnement und senden Sie Ihre Revenue Explorer-Berichte regelmäßig an Ihre wichtigsten Interessenvertreter, einschließlich Nicht-Marketo-Benutzer. Die E-Mail enthält eine Vorschau der Berichtdatentabelle oder der Diagramme sowie eine Excel-Tabelle mit allen Berichtsdaten.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
