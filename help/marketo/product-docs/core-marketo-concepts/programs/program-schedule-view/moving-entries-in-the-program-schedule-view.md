@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147134
-description: Verschieben von Einträgen in die Ansicht Programmplanung - Marketing Docs - Produktdokumentation
+description: Verschieben von Einträgen in die Ansicht Programmplanung - Marketo Docs - Produktdokumentation
 title: Verschieben von Einträgen in der Ansicht "Programmplanung"
+exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # Verschieben von Einträgen in der Ansicht Programmplanung {#moving-entries-in-the-program-schedule-view}
 
