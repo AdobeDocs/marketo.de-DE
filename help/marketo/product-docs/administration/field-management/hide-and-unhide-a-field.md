@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360333
-description: Ein Feld ausblenden und ausblenden - Marketing Docs - Produktdokumentation
+description: Ein Feld ausblenden und ausblenden - Marketo Dokumente - Produktdokumentation
 title: Ein Feld ein- und ausblenden
+exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Ein Feld {#hide-and-unhide-a-field} ein- und ausblenden
 
-Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzeroberfläche ausblenden, sodass es nicht mehr in der Anwendung angezeigt wird.
+Wenn Sie ein Feld in Marketo nicht mehr verwenden, können Sie es aus der Benutzeroberfläche ausblenden, sodass es nicht mehr in der Anwendung angezeigt wird.
 
 ## Feld {#hide-a-field} ausblenden
 
@@ -37,7 +37,7 @@ Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzerobe
 
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
-   Gute Arbeit! Jetzt wissen Sie, wie Sie ein Feld über die Benutzeroberfläche von Marketo ausblenden.
+   Gute Arbeit! Jetzt wissen Sie, wie Sie ein Feld über die Marketo-Benutzeroberfläche ausblenden.
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
@@ -51,8 +51,8 @@ Wenn Sie in Marketo kein Feld mehr verwenden, können Sie es aus der Benutzerobe
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
-   Gute Arbeit! Jetzt wissen Sie, wie Sie Felder wieder einblenden und wieder in der Benutzeroberfläche von Marketo sichtbar machen können.
+   Tolle Arbeit! Jetzt wissen Sie, wie Sie die Felder wieder einblenden und wieder in der Marketo-Benutzeroberfläche sichtbar machen können.
 
    >[!TIP]
    >
-   >Muss man ein Massen-Verstecken/Rückblenden durchführen lassen? Wenden Sie sich an Marketing Professional Services: services@marketo.com.
+   >Muss man ein Massen-Verstecken/Rückblenden durchführen lassen? Wenden Sie sich an Marketo Professional Services: services@marketo.com.
