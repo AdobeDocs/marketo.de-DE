@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359900
-description: Mindestsystemanforderungen - Marketing-Dokumente - Produktdokumentation
+description: Mindestsystemanforderungen - Marketo Docs - Produktdokumentation
 title: Mindestsystemanforderungen
+exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Mindestsystemanforderungen {#minimum-system-requirements}
 
-Wenn Sie sich fragen, was Sie brauchen, um sich anzumelden und Marketo zu verwenden, hier sind die Informationen, die Sie suchen.
+Wenn Sie sich fragen, was Sie für die Anmeldung und Verwendung von Marketo benötigen, hier sind die Informationen, die Sie suchen.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Wenn Sie sich fragen, was Sie brauchen, um sich anzumelden und Marketo zu verwen
 
 >[!NOTE]
 >
->Wenn Ihr IT-Team den Web-Zugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, `*.marketo.com` hinzuzufügen, um alle Marketing-Ressourcen und Websockets zuzulassen.
+>Wenn Ihr IT-Team den Web-Zugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, `*.marketo.com` hinzuzufügen, um alle Marketo-Ressourcen und -Websockets zuzulassen.
