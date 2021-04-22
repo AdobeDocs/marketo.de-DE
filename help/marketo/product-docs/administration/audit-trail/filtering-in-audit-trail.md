@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378468
-description: Filterung im Audit-Protokoll - Marketing-Dokumente - Produktdokumentation
+description: Filterung im Audit-Protokoll - Marketo Docs - Produktdokumentation
 title: Filtern im Prüfpfad
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Filtern im Audit-Protokoll {#filtering-in-audit-trail}
 
@@ -55,7 +55,7 @@ Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
 
    >[!NOTE]
    >
-   >Wenn Sie Arbeitsbereiche aktiviert haben, werden Prüfdaten für alle Arbeitsbereiche angezeigt. Wenn Sie einen Arbeitsflächenfilter anwenden, speichert Marker bei jeder Verwendung des Prüfpfads den vorherigen Arbeitsbereichwert. Workspace-Berechtigungen auf Asset-Ebene werden erzwungen.
+   >Wenn Sie Arbeitsbereiche aktiviert haben, werden Prüfdaten für alle Arbeitsbereiche angezeigt. Wenn Sie einen Arbeitsflächenfilter anwenden, speichert Marketo bei jeder Verwendung des Prüfpfads den vorherigen Arbeitsbereichwert. Workspace-Berechtigungen auf Asset-Ebene werden erzwungen.
 
    >[!MORELIKETHIS]
    >
