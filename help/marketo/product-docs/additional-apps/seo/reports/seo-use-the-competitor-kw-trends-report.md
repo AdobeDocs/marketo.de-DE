@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949270
-description: SEO - Verwenden Sie den Konkurrent KW Trends Report - Marketing Docs - Produktdokumentation
+description: SEO - Verwenden Sie den Konkurrent KW Trends Report - Marketo Docs - Produktdokumentation
 title: SEO - Verwenden Sie den KW-Trendbericht des Konkurrenten
+exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # SEO - Verwenden Sie den KW-Trendbericht des Konkurrenten {#seo-use-the-competitor-kw-trends-report}
 
@@ -31,12 +31,12 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Suchbegriffe in einem bes
 
 ![](assets/image2014-9-18-14-3a7-3a1.png)
 
-| Posten | Beschreibung |
+| Element | Beschreibung |
 |---|---|
-| Schlüsselwörter | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
+| Schlagwörter | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
 | Ranking-URLs | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
 | % im Rang | Der Prozentsatz der Suchbegriffe, die in dem von Ihnen festgelegten Bereich eingestuft werden. |
-| Durchschn. Suchvorgänge | Die durchschnittliche Anzahl der Suchen nach diesen Suchbegriffen, die während des von Ihnen festgelegten Zeitraums (in den letzten 30 Tagen bei der Google US-Suche) stattgefunden haben |
+| Durchschnitt Suchvorgänge | Die durchschnittliche Anzahl der Suchen nach diesen Suchbegriffen, die während des von Ihnen festgelegten Zeitraums (in den letzten 30 Tagen bei der Google US-Suche) stattgefunden haben |
 
 ## Filtern von Daten {#filtering-data}
 
@@ -48,7 +48,7 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Suchbegriffe in einem bes
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportieren von Daten {#exporting-data}
+## Daten werden exportiert  {#exporting-data}
 
 >[!TIP]
 >
