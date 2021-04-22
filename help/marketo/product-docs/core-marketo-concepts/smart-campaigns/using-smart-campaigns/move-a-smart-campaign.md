@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6094949
-description: Eine intelligente Kampagne verschieben - MarketingToDocs - Produktdokumentation
+description: Eine intelligente Kampagne verschieben - Marketo Docs - Produktdokumentation
 title: Verschieben einer intelligenten Kampagne
+exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Verschieben einer Smart-Kampagne {#move-a-smart-campaign}
 
@@ -25,7 +25,7 @@ Verschieben Sie eine intelligente Kampagne zwischen verschiedenen Programmen ode
 
    ![](assets/rockclimbing-tabfix.jpg)
 
-   Fantastisch! Diese kluge Kampagne befindet sich jetzt in einem neuen Programm. Dies funktioniert auch bei Ordnern.
+   Fantastisch Diese kluge Kampagne befindet sich jetzt in einem neuen Programm. Dies funktioniert auch bei Ordnern.
 
    >[!NOTE]
    >
