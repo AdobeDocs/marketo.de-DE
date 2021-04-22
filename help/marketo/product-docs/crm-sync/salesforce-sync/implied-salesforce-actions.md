@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719304
-description: Implizierte Salesforce-Aktionen - Marketing Docs - Produktdokumentation
+description: Implizierte Salesforce-Aktionen - Marketo Docs - Produktdokumentation
 title: Implizierte Salesforce-Aktionen
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
-
 
 # Implizierte Salesforce-Aktionen {#implied-salesforce-actions}
 
@@ -20,30 +20,30 @@ Diese Regeln gelten für _wenn sich die Person derzeit nicht unter [Salesforce.c
 <table> 
  <thead> 
   <tr> 
-   <th>Schritt zum Markieren</th> 
+   <th>Marketo-Flussschritt</th> 
    <th>Automatische Aktion</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>hinzufügen an die SFDC-Kampagne</td> 
-   <td>Person mit dem SFDC synchronisieren</td> 
+   <td>Zu SFDC-Kampagne hinzufügen</td> 
+   <td>Person mit SFDC synchronisieren</td> 
   </tr> 
   <tr> 
-   <td>Status in der SFDC-Kampagne ändern</td> 
+   <td>Status in SFDC-Kampagne ändern</td> 
    <td>Person mit SFDC<br>Hinzufügen mit SFDC-Kampagne synchronisieren</td> 
   </tr> 
   <tr> 
-   <td>Inhaber ändern</td> 
-   <td><p>Person mit dem SFDC synchronisieren</p></td> 
+   <td>Eigentümer ändern</td> 
+   <td><p>Person mit SFDC synchronisieren</p></td> 
   </tr> 
   <tr> 
    <td>Person konvertieren</td> 
-   <td><p>Person mit dem SFDC synchronisieren</p></td> 
+   <td><p>Person mit SFDC synchronisieren</p></td> 
   </tr> 
   <tr> 
    <td>Aufgabe erstellen</td> 
-   <td>Person mit dem SFDC synchronisieren</td> 
+   <td>Person mit SFDC synchronisieren</td> 
   </tr> 
  </tbody> 
 </table>
