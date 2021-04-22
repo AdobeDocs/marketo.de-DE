@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147031
-description: Person aus dem SFDC löschen - Marketing Docs - Produktdokumentation
-title: Person aus dem SFDC löschen
+description: Personen aus dem SFDC löschen - Marketo Docs - Produktdokumentation
+title: Person aus SFDC löschen
+exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Person aus dem SFDC löschen {#delete-person-from-sfdc}
+# Person aus SFDC löschen {#delete-person-from-sfdc}
 
 Wenn Sie einen bestimmten Satz von Interessenten aus Salesforce entfernen, diese jedoch als Personen in Marketo belassen müssen, können Sie die Flusshandlung &quot;Person aus SFDC löschen&quot;verwenden.
 
@@ -27,11 +27,11 @@ Wenn Sie einen bestimmten Satz von Interessenten aus Salesforce entfernen, diese
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Vergewissern Sie sich, dass die Einstellung **In Marker löschen** **false** lautet, und klicken Sie dann auf **Jetzt ausführen**.
+1. Vergewissern Sie sich, dass die Einstellung **Löschen in Marketo** **false** lautet, und klicken Sie dann auf **Jetzt ausführen**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
-   Nachdem der Flussschritt ausgeführt wurde, wird Ihre Person nicht mehr ein Lead in Salesforce sein, sondern in Marketo bleiben.
+   Nachdem der Flussschritt ausgeführt wurde, wird Ihre Person nicht mehr eine Führungsrolle in Salesforce übernehmen, sondern in Marketo bleiben.
 
    >[!CAUTION]
    >
