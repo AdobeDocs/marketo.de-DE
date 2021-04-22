@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359902
-description: Festlegen der Standardspeicherorteinstellungen für ein Abonnement - Marketing Docs - Produktdokumentation
+description: Festlegen der Standardspeicherorteinstellungen für ein Abonnement - Marketo Docs - Produktdokumentation
 title: Festlegen der Standardpositionseinstellungen für ein Abonnement
+exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Standardmäßige Positionseinstellungen für ein Abonnement {#set-default-location-settings-for-a-subscription} festlegen
 
@@ -57,7 +57,7 @@ Wenn Sie das Standardgebietsschema für Ihre Benutzer ändern, sollten Sie auch 
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
-   Herzlichen Glückwunsch! Sie haben Ihre Positionseinstellungen für das Abonnement geändert.
+   Herzlichen Glückwunsch!  Sie haben Ihre Positionseinstellungen für das Abonnement geändert.
 
 >[!MORELIKETHIS]
 >
