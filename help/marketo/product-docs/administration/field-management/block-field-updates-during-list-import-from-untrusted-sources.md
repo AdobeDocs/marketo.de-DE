@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360335
-description: Feldaktualisierungen während des Listen-Imports aus nicht vertrauenswürdigen Quellen - Marketing to Docs - Produktdokumentation blockieren
+description: Feldaktualisierungen während des Listen-Imports aus nicht vertrauenswürdigen Quellen - Marketo Docs - Produktdokumentation blockieren
 title: Feldaktualisierungen während des Listen-Imports aus nicht vertrauenswürdigen Quellen blockieren
+exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # Feldaktualisierungen während des Listen-Imports aus nicht vertrauenswürdigen Quellen {#block-field-updates-during-list-import-from-untrusted-sources} blockieren
 
