@@ -1,21 +1,21 @@
 ---
 unique-page-id: 6095008
-description: hinzufügen Google AdWords als LaunchPoint-Dienst - Marketing Docs - Produktdokumentation
+description: hinzufügen von Google AdWords als LaunchPoint-Dienst - Marketo Docs - Produktdokumentation
 title: hinzufügen von Google AdWords als LaunchPoint-Dienst
+exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # hinzufügen von Google AdWords als LaunchPoint-Dienst {#add-google-adwords-as-a-launchpoint-service}
 
-Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um automatisch Offline-Konversionsdaten von Marketing zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) führten, nachdem Sie [benutzerdefinierte Spalten](https://support.google.com/adwords/answer/3073556) in AdWords hinzugefügt haben. Diese Informationen werden nicht in der Benutzeroberfläche von Marketing angezeigt.
+Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um automatisch Offline-Konversionsdaten von Marketo zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) führten, nachdem Sie [benutzerdefinierte Spalten](https://support.google.com/adwords/answer/3073556) in AdWords hinzugefügt haben. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
 
-Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https://support.google.com/adwords/answer/2998031?hl=en)
+Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion](https://support.google.com/adwords/answer/2998031?hl=en).[
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
 
    >[!NOTE]
    >
-   >Die Verwendung eines konsistenten Zuordnungsmodells in Marketing und AdWords bietet die genauesten Daten.
+   >Die Verwendung eines konsistenten Zuordnungsmodells in Marketo und AdWords bietet die genauesten Daten.
 
    ![](assets/image2015-2-23-16-3a57-3a49.png)
 
@@ -86,7 +86,7 @@ Erfahren Sie mehr über die Google Offline-Konversions-Importfunktion[.](https:/
    >
    >[Damit diese Funktion funktioniert, muss die automatische ](https://support.google.com/adwords/answer/1752125?hl=en) Taggingoption aktiviert sein. Die Deaktivierung muss innerhalb von AdWords erfolgen.
 
-Großartig! Sehen Sie sich nun den entsprechenden Artikel unten an, um zu erfahren, wie Sie AdWords Offline-Konversionen in Ihrem Umsatzmodell zuordnen.
+Sehr gut! Sehen Sie sich nun den entsprechenden Artikel unten an, um zu erfahren, wie Sie AdWords Offline-Konversionen in Ihrem Umsatzmodell zuordnen.
 
 >[!MORELIKETHIS]
 >
