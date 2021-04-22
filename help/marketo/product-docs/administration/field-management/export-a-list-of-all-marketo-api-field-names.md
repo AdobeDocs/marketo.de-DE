@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360295
-description: Liste aller Marketo-API-Feldnamen exportieren - MarketingToDocs - Produktdokumentation
-title: Eine Liste aller Marker-API-Feldnamen exportieren
+description: Eine Liste aller Marketo API-Feldnamen exportieren - Marketo Docs - Produktdokumentation
+title: Eine Liste aller Marketo-API-Feldnamen exportieren
+exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Eine Liste aller Marker-API-Feldnamen {#export-a-list-of-all-marketo-api-field-names} exportieren
+# Eine Liste aller Marketo-API-Feldnamen {#export-a-list-of-all-marketo-api-field-names} exportieren
 
 Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, benötigen Sie eine Liste aller Felder und der zugehörigen API-Namen. Hier ist, wie man diese Liste bekommt.
 
