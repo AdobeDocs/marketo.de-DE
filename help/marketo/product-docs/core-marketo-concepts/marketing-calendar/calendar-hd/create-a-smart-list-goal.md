@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504128
-description: Erstellen eines Ziels für intelligente Listen - Marketing Docs - Produktdokumentation
+description: Erstellen eines Ziels für intelligente Liste - Marketo Docs - Produktdokumentation
 title: Ziele für intelligente Listen erstellen
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Smart-Liste-Ziel {#create-a-smart-list-goal} erstellen
 
