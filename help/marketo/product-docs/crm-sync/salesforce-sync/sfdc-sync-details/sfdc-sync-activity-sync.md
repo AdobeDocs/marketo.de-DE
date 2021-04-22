@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953473
-description: SFDC-Synchronisierung - Synchronisierung von Aktivitäten - Marketing Docs - Produktdokumentation
+description: SFDC-Synchronisierung - Synchronisierung von Aktivitäten - Marketo Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Aktivität synchronisieren
+exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # SFDC-Synchronisierung: Aktivität Sync {#sfdc-sync-activity-sync}
 
 Marketo synchronisiert auch die Salesforce-Aktivitäten-Daten. Hier sind einige Fragen und Antworten.
 
-## Über welche Aktivitäten synchronisiert Marketo? {#what-types-of-activity-data-does-marketo-sync-over}
+## Über welche Aktivitäten synchronisiert Marketo Daten? {#what-types-of-activity-data-does-marketo-sync-over}
 
-Marketo synchronisiert sowohl Ereignisse als auch Aufgaben, die mit einem Interessenten oder Kontakt verbunden sind.
+Marketo synchronisiert Ereignisse und Aufgaben, die mit einem Interessenten oder Kontakt verbunden sind.
 
 ## Wie werden die Aktivitäten zwischen den beiden Systemen synchronisiert? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
@@ -29,10 +29,10 @@ Ja, Sie können die Flussaktion [Aufgabe erstellen](/help/marketo/product-docs/c
 
 ## Welche Trigger/Filter sind mit der Aktivität verbunden? {#what-are-the-triggers-filters-related-to-activity}
 
-Trigger
+Auslöser
 
 * Aktivität wird protokolliert
-* Aktivität wurde aktualisiert
+* Aktivität wird aktualisiert
 
 Filter
 
