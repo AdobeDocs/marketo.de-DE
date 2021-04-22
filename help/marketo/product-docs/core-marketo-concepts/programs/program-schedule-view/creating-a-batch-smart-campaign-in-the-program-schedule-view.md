@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147142
-description: Erstellen einer intelligenten Batch-Kampagne in der Programmplanung-Ansicht - MarketingToDocs - Produktdokumentation
+description: Erstellen einer intelligenten Batch-Kampagne in der Programmplanung-Ansicht - Marketo Docs - Produktdokumentation
 title: Erstellen einer intelligenten Batch-Kampagne in der Ansicht "Programmplanung"
+exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen einer Stapel-Smart-Kampagne in der Programmplanung-Ansicht {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
