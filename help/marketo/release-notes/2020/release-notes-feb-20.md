@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355826
-description: Versionshinweise - 20. Februar - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Feb 20 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Feb '20
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Versionshinweise: Feb &#39;20 {#release-notes-feb}
 
-Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überpr�
 
 **_Quartalsveröffentlichungen_** Die folgenden Funktionen wurden am 21.  **Februar 2020** veröffentlicht.
 
-## Core-Marketo Engage {#core-marketo-engage}
+## Kern-Marketo-Einbindung {#core-marketo-engage}
 
 * **Microsoft Dynamics &quot;Change Owner in Microsoft&quot; Flussaktion**: Behalten Sie die Kontrolle über Ihre Microsoft Dynamics CRM-Daten bei, sodass Sie einen Interessenten-/Kontaktbesitzer direkt von Marketo Engage aus ändern können. Dies ist eine Verbesserung unserer Native CRM-Integrationsfähigkeit.
 * **User Management-APIs**: Automatisieren Sie die Benutzer- und Rollenverwaltung über externe Identitäts- und Organisationsverwaltungssysteme. Dies ist eine Verbesserung unserer API-Aufruffunktion.
@@ -35,7 +35,7 @@ Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überpr�
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden in den kommenden Monaten veröffentlicht.
 
-## Bizibel {#bizible}
+## Bizible {#bizible}
 
 ![(Stern)](assets/star-yellow.svg)
 
@@ -43,16 +43,16 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Speichern von Filtern**: Speichern Sie benutzerspezifische Filter, um Ihre Dashboard schnell und konsistent zu analysieren.
 * **In PDF** exportieren: Geben Sie wertvolle Einblicke in Ihr Unternehmen, indem Sie Bizible-Dashboards als PDF-Dateien exportieren.
 
-## Sales Connect {#sales-connect}
+## SalesConnect {#sales-connect}
 
 * **Erstellen Sie Fensteraktualisierungen**: Wir haben den Prozess zur Auswahl von Vorlagen und zum Senden von E-Mails über Sales Connect optimiert. Verwenden Sie das Fenster Erstellen in unserem Webclient und Salesforce als eine zentrale Anlaufstelle für Verkäufer, mit der Sie Vorlagendaten speichern, E-Mails planen, E-Mails stapelweise versenden und E-Mails mit Ansicht und Klick-Tracking versenden können.
 * **Aktualisierungen** im Command Center: Wir bauen das Sales Connect Command Center wieder auf, um Verkäufern einen Einblick in all ihre E-Mails, Anrufe und Aufgaben zu geben, die von Sales Connect initiiert wurden. Sie können auch Informationen wie E-Mail-Interaktion und Zustellbarkeit über das Command Center Ansicht haben.
 
 <br> 
 
-## Mitteilungen {#announcements}
+## Ankündigungen {#announcements}
 
-* **Erfolgszentrum** des Marketo Engages: Wir starten das Erfolgszentrum von Marketo im Februar 2020. Das Erfolgszentrum ist ein produktinternes Hilfecenter, mit dem Sie Produktdokumente und die Community durchsuchen, Anleitungen einführen, auf Adoptionsinhalte wie die Marketo University zugreifen und Best Practice-Videos von Experten lesen und vieles mehr - direkt von Ihrer Marketo Engage-Instanz aus. **Hinweis**: Diese Funktion wird als Betaversion in ANZ eingeführt und wird später in Nordamerika eingeführt.
+* **Erfolgszentrum** des Marketo Engages: Wir starten das Marketo Erfolgszentrum im Februar 2020. Das Success Center ist ein produktinternes Hilfecenter, mit dem Sie Produktdokumente und die Community durchsuchen, Anleitungen starten, auf Adoptionsinhalte wie die Marketo University und Videos zu Best Practices zugreifen und vieles mehr - direkt von Ihrer Marketo Engage-Instanz aus. **Hinweis**: Diese Funktion wird als Betaversion in ANZ eingeführt und wird später in Nordamerika eingeführt.
 
 ## Veraltungen {#deprecations}
 
