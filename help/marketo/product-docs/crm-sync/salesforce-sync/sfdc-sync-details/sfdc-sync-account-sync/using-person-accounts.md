@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719316
-description: Verwenden von Benutzerkonten - Marketing Docs - Produktdokumentation
+description: Verwenden von Benutzerkonten - Marketo Docs - Produktdokumentation
 title: Verwenden von Benutzerkonten
+exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # Verwenden von Personenkonten {#using-person-accounts}
 
@@ -23,7 +23,7 @@ Personenkonten können in Salesforce eingerichtet werden, um den Anforderungen I
 
 Ein Personenkonto ist dem Kontoobjekt in Salesforce sehr ähnlich. Ein Benutzerkonto hat jedoch Zugriff sowohl auf die Kontofelder als auch auf die Kontaktfelder.
 
-## Was passiert, wenn ein Benutzerkonto mit Marketo synchronisiert wird? {#what-happens-when-a-person-account-is-synced-to-marketo}
+## Was passiert, wenn ein Personenkonto mit Marketo synchronisiert wird? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
 Ein Personenkonto wird mit Marketo als Firma und als Person synchronisiert.
 
@@ -35,17 +35,17 @@ Ein Personenkonto wird mit Marketo als Firma und als Person synchronisiert.
 
 Verwenden Sie den Filter **Ist-Personenkonto** in Ihrer intelligenten Liste, um Personenkonten von Standardkonten zu trennen.
 
-## Wo werden die Daten meiner persönlichen Konten in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
+## Wo werden die persönlichen Kontoinformationen in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
 Aktivitäten zu Personenkonten werden im Bedienfeld **Konto** angezeigt.
 
 >[!NOTE]
 >
->Die Optionen **Hinzufügen** und **E-Mail senden** von Marketo Sales Insight stehen derzeit nicht für Personenkonten zur Verfügung.
+>Die Optionen **Hinzufügen an Marketo Kampagne** und **E-Mail senden** von Marketo Sales Insight stehen derzeit nicht für Personenkonten zur Verfügung.
 
 ## Wie verknüpfe ich Chancen mit einem Personenkonto? {#how-do-i-associate-opportunities-to-a-person-account}
 
-Marketo hängt von der Möglichkeit der Kontaktrolle ab, um zu bestimmen, welche Person die Gelegenheit zu verbinden. Sie müssen die Kontaktrolle für die Möglichkeit jedes persönlichen Kontos hinzufügen, um die Gelegenheit mit der entsprechenden Person in Marketo zu verbinden. Es wird empfohlen, einen Arbeitsablauf einzurichten, um die Kontaktrolle automatisch hinzuzufügen.
+Marketo hängt von der Kontaktrolle für die Möglichkeit ab, zu bestimmen, welche Person die Gelegenheit erhält. Sie müssen die Kontaktfunktion für die Kontaktaufnahme mit jedem Benutzerkonto hinzufügen, um die Gelegenheit mit der entsprechenden Person in Marketo zu verbinden. Es wird empfohlen, einen Arbeitsablauf einzurichten, um die Kontaktrolle automatisch hinzuzufügen.
 
 ## Welches E-Mail-Feld sollte ich für Personenkonten verwenden? {#which-email-field-should-i-use-for-person-accounts}
 
