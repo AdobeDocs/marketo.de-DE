@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557331
-description: Alle Personen in einer Umsatzstufe suchen - Marketing Docs - Produktdokumentation
+description: Alle Personen in einer Umsatzstufe suchen - Marketo Docs - Produktdokumentation
 title: Alle Personen in einer Umsatzstufe suchen
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Alle Personen in einer Umsatzstufe {#find-all-people-in-a-revenue-stage} suchen
 
@@ -39,4 +39,4 @@ Nun da Sie wissen, welche Personen in welchen Umsatzstufen sind, können Sie dir
 
    ![](assets/six.png)
 
-   Von dort können Sie auswählen, welche Mitglieder von welchem Aspekt des Flussschritts betroffen sind. Spaß!
+   Von dort können Sie auswählen, welche Mitglieder von welchem Aspekt des Flussschritts betroffen sind. Lustig!
