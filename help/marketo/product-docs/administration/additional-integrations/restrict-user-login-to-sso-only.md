@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360358
-description: Benutzeranmeldung auf "Nur SSO" beschränken - Marketing Docs - Produktdokumentation
-title: Benutzeranmeldung auf "Nur SSO"beschränken
+description: Benutzeranmeldung auf "Nur SSO" beschränken - Marketo Docs - Produktdokumentation
+title: Benutzeranmeldung auf SSO beschränken
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Benutzeranmeldung auf &quot;Nur SSO&quot; beschränken {#restrict-user-login-to-sso-only}
+# Benutzeranmeldung auf SSO beschränken {#restrict-user-login-to-sso-only}
 
 Wenn Sie [SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) verwenden und sicherstellen möchten, dass Benutzer die SSO-Sicherheit nicht umgehen können, befolgen Sie diese Anweisungen.
 
@@ -37,7 +37,7 @@ Wenn Sie [SSO](/help/marketo/product-docs/administration/additional-integrations
 
 >[!TIP]
 >
->Wenn Sie **Einmalige Anmeldung erforderlich** auswählen, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **Einmaliges Anmelden umgehen** aktivieren. Auf diese Weise können Benutzer sich normal anmelden. So müssen sich Admin-Benutzer z. B. über den Anmeldebildschirm bei Marketo anmelden.
+>Wenn Sie **Einmalige Anmeldung erforderlich** auswählen, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **Einmaliges Anmelden umgehen** aktivieren. Auf diese Weise können Benutzer sich normal anmelden. So müssen sich Administratoren beispielsweise über den Anmeldebildschirm bei Marketo anmelden.
 
 >[!CAUTION]
 >
@@ -49,5 +49,5 @@ Das ist&#39;s! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Bere
 >
 >* [hinzufügen Einmal-Anmeldung bei einem Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Verwenden einer universellen ID für die Abonnement-Anmeldung](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Einladen von Marketing-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
