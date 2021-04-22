@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719302
-description: Benutzerdefinierte Objektsynchronisierung ohne Englisch aktivieren - Marketing Docs - Produktdokumentation
+description: Benutzerdefinierte Objektsynchronisierung ohne Englisch aktivieren - Marketo Docs - Produktdokumentation
 title: Benutzerdefinierte Objektsynchronisierung für Nicht-Englisch aktivieren
+exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Nicht-englischsprachige benutzerdefinierte Objektsynchronisierung aktivieren {#enable-non-english-custom-object-sync}
 
@@ -45,7 +45,7 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Zurück in Marketo, unter **Admin > Salesforce > Objekte** klicken Sie auf **Schema aktualisieren**.
+1. Zurück in Marketo unter **Admin > Salesforce > Objekte** klicken Sie auf **Schema aktualisieren**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
