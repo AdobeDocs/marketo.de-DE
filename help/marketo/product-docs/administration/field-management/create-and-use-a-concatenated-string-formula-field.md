@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360337
-description: Erstellen und verwenden Sie ein Feld für verkettete Zeichenfolge (Formel) - Marketing Docs - Produktdokumentation
+description: Erstellen und Verwenden eines Felds für verkettete Zeichenfolge (Formel) - Marketo Docs - Produktdokumentation
 title: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel)
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # Erstellen und Verwenden eines Felds für verkettete Zeichenfolge (Formel) {#create-and-use-a-concatenated-string-formula-field}
 
-Sie können Werte aus mehreren Feldern kombinieren oder einen bedingten Wert mit einem Feld &quot;Markieren-Formel&quot;erstellen.
+Sie können Werte aus mehreren Feldern kombinieren oder einen bedingten Wert mit einem Marketo-Formularfeld erstellen.
 
 1. Wechseln Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
 
