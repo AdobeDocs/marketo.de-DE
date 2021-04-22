@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147013
-description: Change Engagement Programm Cadence - Marketing to Docs - Produktdokumentation
-title: Änderung der Programm-Kadenz
+description: Change Engagement Programm Cadence - Marketo Docs - Produktdokumentation
+title: Engagement-Programm-Kadenz ändern
+exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
-# Programm-Kadenz ändern {#change-engagement-program-cadence}
+# Engagement-Programm-Kadenz ändern {#change-engagement-program-cadence}
 
 1. Übersicht
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >Wenn eine Person kein Mitglied des Programms ist und diesen Flussschritt durchläuft, wird sie automatisch als Mitglied und in den ersten Stream eingefügt.
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wählen Sie das Interaktions-Programm aus.
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-Sie können die Person auf **Normal** zurücksetzen, wenn Sie möchten, dass sie erneut mit dem Empfang von Inhalten beginnt.
+Sie können die Person auf **Normal** zurücksetzen, wenn Sie möchten, dass sie mit dem Empfang von Inhalten beginnt.
