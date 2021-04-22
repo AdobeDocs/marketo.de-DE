@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359918
-description: Einstellungen für die Landingpage bearbeiten - Marketing Docs - Produktdokumentation
+description: Einstellungen für die Landingpage bearbeiten - Marketo Docs - Produktdokumentation
 title: Einstellungen für Landingpages bearbeiten
+exl-id: 019b4651-3a66-46f9-8722-66af30194380
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Einstellungen für Landingpages bearbeiten {#edit-landing-page-settings}
 
@@ -33,7 +33,7 @@ Sie können Ihren Domänennamen und Ihre Ausweichseite bearbeiten, das Vorausfü
    |---|---|
    | Domänenname für Landingpages | Das ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages angeben. Beispiel: In `https://go.yourCompany.com` ist das Wort &quot;go&quot;der CNAME. Man kann mehrere haben, aber die meisten Leute verwenden nur das eine. |
    | Fallback-Seite | Hier muss man gehen, wenn die Landingpage nicht existiert oder nicht da ist. Erfahren Sie mehr über [Ausweichseiten](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | Homepage | Geben Sie Ihre Unternehmens-Site-URL ein. |
+   | Startseite | Geben Sie Ihre Unternehmens-Site-URL ein. |
 
    ![](assets/three.png)
 
@@ -41,7 +41,7 @@ Sie können Ihren Domänennamen und Ihre Ausweichseite bearbeiten, das Vorausfü
 
    ![](assets/four.png)
 
-1. Wenn Sie verhindern möchten, dass böswillige Seiten Ihren Inhalt scheinbar hosten, aktivieren Sie das Kontrollkästchen **Marketo-Seiten nicht in externe Webseiten** einbetten lassen.
+1. Wenn Sie verhindern möchten, dass eine bösartige Site Ihren Inhalt scheinbar hosten kann, aktivieren Sie das Kontrollkästchen **Nicht zulassen, dass Marketo-Seiten in externe Webseiten** eingebettet werden.
 
    ![](assets/five.png)
 
@@ -55,4 +55,4 @@ Sie können Ihren Domänennamen und Ihre Ausweichseite bearbeiten, das Vorausfü
 
    ![](assets/six.png)
 
-   Gute Arbeit! Ihre Landingpages haben jetzt die richtigen Informationen und sollten Beginn sofort arbeiten.
+   Großartig gemacht! Ihre Landingpages haben jetzt die richtigen Informationen und sollten Beginn sofort arbeiten.
