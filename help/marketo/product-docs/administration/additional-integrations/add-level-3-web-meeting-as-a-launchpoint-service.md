@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512292
-description: hinzufügen Level 3 Web Meeting als LaunchPoint Service - Marketing Docs - Produktdokumentation
+description: hinzufügen Level 3 Web Meeting als LaunchPoint Service - Marketo Docs - Produktdokumentation
 title: hinzufügen Level 3-Webtreffen als LaunchPoint-Dienst
+exl-id: f419b019-33bb-446d-baf5-55393770a703
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # hinzufügen Level 3 Web Meeting als LaunchPoint Service {#add-level-web-meeting-as-a-launchpoint-service}
 
-Marketo verwaltet die Registrierung und Teilnahme an einem Level 3 Web Meeting.
+Marketo verwaltet die Registrierung und Teilnahme an einem Level 3-Webtreffen.
 
 >[!NOTE]
 >
