@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953463
-description: SFDC-Synchronisierung - Lead-/Kontoinhaber-Synchronisierung - Marketing-Dokumente - Produktdokumentation
+description: SFDC-Synchronisierung - Lead-/Kontoinhaber-Synchronisierung - Marketo Dokumente - Produktdokumentation
 title: SFDC-Synchronisierung - Synchronisierung von Interessenten/Kontoinhabern
+exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # SFDC-Synchronisierung: Interessenten-/Kontoinhaber-Synchronisierung {#sfdc-sync-lead-account-owner-sync}
 
@@ -19,17 +19,17 @@ Diese synchronisieren die &quot;Benutzer&quot;-Tabelle in Salesforce, wir werden
 
 Für jede mit Marketo synchronisierte Person werden auch die folgenden Besitzerfelder synchronisiert:
 
-* Vorname des Verkäufers
-* Nachname des Verkäufers
+* Vorname des Vertriebseigentümers
+* Nachname des Vertriebseigentümers
 * Name des Verkäufers
-* Telefonnummer des Verkäufers
-* E-Mail-Adresse des Verkäufers
+* Telefonnummer des Vertriebseigentümers
+* E-Mail-Adresse des Vertriebseigentümers
 
 Für jeden Kontakt werden die oben genannten fünf Felder mit Interessenteninhabern sowie die folgenden Felder mit Kontoinhabern synchronisiert:
 
-* Vorname des Kontoinhabers
-* Nachname des Kontoinhabers
-* E-Mail-Adresse des Kontoinhabers
+* Vorname des Kontoeigentümers
+* Nachname des Kontoeigentümers
+* E-Mail Adresse des Kontoeigentümers
 
 ## Kann ich den Interessentenbesitzer in Marketo wechseln? {#can-i-change-the-lead-owner-in-marketo}
 
