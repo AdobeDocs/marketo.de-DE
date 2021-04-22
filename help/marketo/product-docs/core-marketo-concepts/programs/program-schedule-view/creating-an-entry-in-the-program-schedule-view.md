@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147102
-description: Erstellen eines Eintrags in der Ansicht Programmplanung - Marketing Docs - Produktdokumentation
+description: Erstellen eines Eintrags in der Ansicht Programmplanung - Marketo Docs - Produktdokumentation
 title: Erstellen eines Eintrags in der Ansicht "Programmplanung"
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines Eintrags in der Ansicht Programmplanung {#creating-an-entry-in-the-program-schedule-view}
 
@@ -59,7 +59,7 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    >[!NOTE]
    >
-   >Aufgabe ist ein [benutzerdefinierter Eintrag](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Sie können eine Aufgabenbeschreibung und andere benutzerdefinierte Einträge erstellen, um nicht-marketo-Tagesordnungspunkte nachzuverfolgen.
+   >Aufgabe ist ein [benutzerdefinierter Eintrag](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Sie können eine Aufgabenbeschreibung und andere benutzerspezifische Einträge erstellen, um nicht-Marketo-spezifische Tagesordnungspunkte zu verfolgen.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
