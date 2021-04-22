@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951097
-description: Versionshinweise - Mai 2013 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Mai 2013 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Mai 2013
+exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Versionshinweise: Mai 2013 {#release-notes-may}
 
@@ -21,7 +21,7 @@ Erstellen Sie eine Kalenderdatei als My Token, die Sie Ihrer Landingpage hinzuf�
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 
-## Registerkarte &quot;Modellmitgliedschaft&quot; {#model-membership-tab}
+## Registerkarte &quot;Modellmitgliedschaft&quot;{#model-membership-tab}
 
 Ansicht aller Daten Ihres Modellmitglieds an einem Ort, um eine einfache Überwachung und Fehlerbehebung zu ermöglichen. Die neue Registerkarte &quot;Member&quot;ist eine schreibgeschützte Ansicht, die verfügbar ist, wenn Sie ein genehmigtes Umsatzzyklusmodell auswählen.
 
