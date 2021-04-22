@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099785
-description: Einstellungen für Abonnements bearbeiten - Marketing Docs - Produktdokumentation
+description: Einstellungen für Abonnements bearbeiten - Marketo Docs - Produktdokumentation
 title: Einstellungen für Abonnements bearbeiten
+exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # Abonnement-Einstellungen bearbeiten {#edit-subscription-settings}
 
-Wenn Sie Zugriff auf mehrere Marketo-Abonnement haben und sicher sein möchten, welches Sie verwenden, geben Sie jedem ein eindeutiger Name. Dieser Name wird dann oben auf Ihrer Abonnement-Seite angezeigt.
+Wenn Sie Zugriff auf mehrere Marketo-Abonnement haben und sicher sein möchten, welches Sie verwenden, geben Sie jedem einen eindeutigen Namen. Dieser Name wird dann oben auf Ihrer Abonnement-Seite angezeigt.
 
 Wenn Sie beispielsweise sowohl in Produktions- als auch in Sandbox-Instanzen arbeiten, können Sie einem Abonnement **Marketo Production** und dem anderen **Marketo Sandbox** einen Namen geben.
 
