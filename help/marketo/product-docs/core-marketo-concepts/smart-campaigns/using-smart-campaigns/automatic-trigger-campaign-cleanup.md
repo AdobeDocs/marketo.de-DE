@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147074
-description: Automatische Trigger-Kampagne-Bereinigung - Marketing-Dokumente - Produktdokumentation
-title: Automatische Trigger-Kampagne-Bereinigung
+description: Automatische Bereinigung der Trigger-Kampagne - Marketo Docs - Produktdokumentation
+title: Automatische Auslöser-Kampagnenbereinigung
+exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Automatische Auslöser-Kampagnenbereinigung {#automatic-trigger-campaign-cleanup}
 
-# Automatische Trigger-Kampagne-Bereinigung {#automatic-trigger-campaign-cleanup}
-
-Marketo verfügt über einen netten/kostenlosen Dienst zum Deaktivieren ausgelöster intelligenter Kampagnen, die keine Aktivität mehr erhalten. Dies beschleunigt die Gesamtleistung des Systems und spart Ihnen Zeit.
+Marketo verfügt über einen netten und kostenlosen Dienst zum Deaktivieren von ausgelösten intelligenten Kampagnen, die keine Aktivität mehr erhalten. Dies beschleunigt die Gesamtleistung des Systems und spart Ihnen Zeit.
 
 ## Was passiert? {#what-happens}
 
-Einmal im Quartal findet Marketo intelligente Kampagnen, die seit 6 Monaten (keine Personen) schlafen und sie deaktivieren.
+Einmal im Quartal wird Marketo intelligente Kampagnen finden, die seit sechs Monaten (keine Personen) schlafen und sie deaktivieren.
 
 ## Wirst du mich zuerst benachrichtigen? {#will-you-notify-me-first}
 
@@ -39,7 +39,7 @@ Natürlich! Einmal im Quartal erhalten Sie eine Benachrichtigung eine Woche im V
 
 Wir werden nur Kampagnen deaktivieren, die seit über 6 Monaten aktiv sind, für die in diesem Zeitraum jedoch 0 Personen infrage kommen.
 
-## Warte! Nicht diese Kampagne! {#wait-not-this-campaign}
+## Einen Augenblick! Nicht diese Kampagne! {#wait-not-this-campaign}
 
 Keine Sorge - die Uhr auf jeder intelligenten Kampagne kann wie folgt zurückgesetzt werden:
 
