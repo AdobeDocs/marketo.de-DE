@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360360
-description: Erstellen eines Webhofs - Marketing Docs - Produktdokumentation
+description: Erstellen eines Webhofs - Marketo Docs - Produktdokumentation
 title: Erstellen eines Webhofs
+exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Erstellen eines Webhofs {#create-a-webhook}
 
@@ -17,7 +17,7 @@ Verwenden Sie Webhooks, um Webdienste von Drittanbietern zu nutzen, um Textnachr
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 1. Gehen Sie zu **Admin** und klicken Sie auf **Webhooks**.
 
