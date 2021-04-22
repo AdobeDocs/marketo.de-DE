@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359420
-description: Tropfen, Tropfen, Krankenpflege - Marketing Docs - Produktdokumentation
-title: Tropfen, Tropfen, Harnwege
+description: Tropfen, Tropfen, Krankenpflege - Marketo Docs - Produktdokumentation
+title: Schrittweises Lead-Nurturing
+exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Tropfen, Tropfen, Kurven {#drip-drip-nurture}
+# Schrittweises Lead-Nurturing {#drip-drip-nurture}
 
 ## Auftrag: Die Personen, die Ihre letzte Messe besucht haben, mit der Hilfe versorgen{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
@@ -43,7 +43,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    Sie haben jetzt ein Interaktions-Programm erstellt.
 
-## Schritt 2: Erstellen einer E-Mail {#step-create-an-email}
+## Schritt 2: E-Mail erstellen {#step-create-an-email}
 
 1. Wählen Sie Ihr Interaktions-Programm aus, klicken Sie dann auf **Neu** und wählen Sie **Neues lokales Element**.
 
@@ -59,7 +59,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!NOTE]
    >
-   >Sehen Sie nicht den E-Mail-Editor? Ihr Browser hat das Fenster wahrscheinlich blockiert. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf **Entwurf bearbeiten**.
+   >Sehen Sie nicht den E-Mail-Editor? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf **Entwurf bearbeiten**.
 
 1. Geben Sie einen Betreff ein.
 
@@ -115,7 +115,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
    >
    >Sie können Inhalte nicht aktivieren, ohne sie zuvor zu genehmigen.
 
-   Gute Arbeit! Ein weiterer Schritt und das Programm für die Interaktion ist fertig.
+   Tolle Arbeit! Ein weiterer Schritt und das Programm für die Interaktion ist fertig.
 
 ## Schritt 5: Stream-Kadenz {#step-set-the-stream-cadence} festlegen
 
@@ -155,7 +155,7 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    ![](assets/twenty-two.png)
 
-1. Auftrag abgeschlossen!
+1. Aufgabe abgeschlossen!
 
 1. Sie sollten eine E-Mail zu dem von Ihnen angegebenen Zeitpunkt und zu dem von Ihnen angegebenen Zeitpunkt erhalten.
 
@@ -165,6 +165,6 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
 <br> 
 
-[Auftrag 5: Eine Liste von Interessenten importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Aufgabe 5: Liste mit Leads importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Auftrag 7: E-Mail personalisieren ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Aufgabe 7: E-Mail personalisieren ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
