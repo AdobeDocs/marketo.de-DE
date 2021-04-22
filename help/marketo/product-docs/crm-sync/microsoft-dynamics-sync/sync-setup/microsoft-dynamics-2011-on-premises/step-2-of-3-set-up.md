@@ -1,31 +1,31 @@
 ---
 unique-page-id: 3571807
-description: Schritt 2 von 3 - Einrichten von MarketingTo Sync User in Dynamics (On-Premises 2011) - MarketingTo Docs - Produktdokumentation
-title: Schritt 2 von 3 - Einrichten von Marketo Sync User in Dynamics (On-Premises 2011)
+description: Schritt 2 von 3 - Einrichten des Marketo Sync User in Dynamics (On-Premises 2011) - Marketo Docs - Produktdokumentation
+title: Schritt 2 von 3 - Einrichten des Marketo Sync User in Dynamics (On-Premises 2011)
+exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
 
 ---
 
-
-# Schritt 2 von 3: Einrichten von Marketo Sync User in Dynamics (On-Premises 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# Schritt 2 von 3: Marketo Sync User in Dynamics (On-Premises 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Gute Arbeit, die vorherigen Schritte zu vollenden, lassen Sie uns fortfahren.
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 3: Installieren Sie die Marketing Solution (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>[Schritt 1 von 3: Installieren Sie die Marketo Solution (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
 
 ## Synchronisierte Benutzerrolle zuweisen {#assign-sync-user-role}
 
-Weisen Sie die Rolle &quot;Benutzer synchronisieren&quot;nur dem Synchronisierungsbenutzer von Marketing zu. Sie müssen sie keinem anderen Benutzer zuweisen.
+Weisen Sie die Rolle &quot;Marketo Sync User&quot;nur dem Marketo Sync-Benutzer zu. Sie müssen sie keinem anderen Benutzer zuweisen.
 
 >[!NOTE]
 >
->Dies gilt für das Marketo-Zusatzmodul Version 4.0.0.14 und höher. Bei älteren Versionen müssen alle Benutzer die Rolle &quot;Synchronisierungsbenutzer&quot;haben. Informationen zum Aktualisieren von Marketo finden Sie unter [Aktualisieren der Marketing-Lösung für Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Dies gilt für das Marketo-Plugin Version 4.0.0.14 und höher. Bei älteren Versionen müssen alle Benutzer die Rolle &quot;Synchronisierungsbenutzer&quot;haben. Informationen zum Aktualisieren von Marketo finden Sie unter [Aktualisieren der Marketo-Lösung für Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Wählen Sie im Menü unten links **Einstellungen**.
 
@@ -43,7 +43,7 @@ Weisen Sie die Rolle &quot;Benutzer synchronisieren&quot;nur dem Synchronisierun
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
-1. Markieren Sie **Markieren Sie den Benutzer** und klicken Sie auf **OK**.
+1. Markieren Sie **Marketo Sync User** und klicken Sie auf **OK**.
 
    ![](assets/image2015-4-2-14-3a15-3a0.png)
 
@@ -55,17 +55,17 @@ Weisen Sie die Rolle &quot;Benutzer synchronisieren&quot;nur dem Synchronisierun
    >
    >Alle Aktualisierungen, die der Synchronisierungsbenutzer in Ihrem CRM-System vorgenommen hat, werden **nicht** wieder mit Marketo synchronisiert.
 
-## Konfigurieren von Marketing Solution {#configure-marketo-solution}
+## Marketo-Lösung {#configure-marketo-solution} konfigurieren
 
 Fast fertig! Wir haben nur ein paar letzte Konfigurationsschritte, bevor wir zum nächsten Artikel gehen.
 
-1. Wählen Sie **Einstellungen**. Wählen Sie dann **Marketo Config** in der Struktur.
+1. Wählen Sie **Einstellungen**. Wählen Sie dann **Marketo Config** in der Struktur aus.
 
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
    >
-   >Wenn die Marketo-Konfiguration fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht, veröffentlichen Sie [die Marketing-Lösung erneut](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) oder melden Sie sich ab und wieder an.
+   >Wenn Marketo Config fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht, veröffentlichen Sie [die Marketo-Lösung erneut](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) oder melden Sie sich ab und wieder an.
 
 1. Klicken Sie auf **Default**.
 
@@ -93,7 +93,7 @@ Fast fertig! Wir haben nur ein paar letzte Konfigurationsschritte, bevor wir zum
     * Führen Sie den Vorgang &quot;[Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)&quot;aus. Es wird überprüft, ob die ersten Setups ordnungsgemäß durchgeführt wurden.
     * Melden Sie sich beim Marketo Sync User in Microsoft Dynamics CRM an.
 
-Gute Arbeit!
+Großartig gemacht!
 
 >[!MORELIKETHIS]
 >
