@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360317
-description: Zuweisen von Benutzerpartitionen zu Arbeitsbereichen - Marketing zu Dokumenten - Produktdokumentation
+description: Benutzerpartitionen Arbeitsbereichen zuweisen - Marketo Docs - Produktdokumentation
 title: Zuweisen von Benutzerpartitionen zu Arbeitsbereichen
+exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerpartitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces} zuweisen
 
@@ -25,7 +25,7 @@ So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsber
 
 >[!CAUTION]
 >
->Arbeitsbereiche und Benutzerpartitionen können komplex sein. Bitte wenden Sie sich an [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support), um Hilfe bei der Einrichtung zu erhalten.
+>Arbeitsbereiche und Benutzerpartitionen können komplex sein. Bitte wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um Hilfe bei der Einrichtung zu erhalten.
 
 1. Klicken Sie unter Admin auf **Arbeitsbereiche und Partitionen**.
 
@@ -53,7 +53,7 @@ So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsber
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-Herzlichen Glückwunsch! Sie haben Ihren Arbeitsbereich erfolgreich bearbeitet!
+Herzlichen Glückwunsch!  Sie haben Ihren Arbeitsbereich erfolgreich bearbeitet!
 
 >[!MORELIKETHIS]
 >
