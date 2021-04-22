@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953173
-description: Verwenden Sie Listen in einer intelligenten Liste - Marketing Docs - Produktdokumentation
+description: Verwenden Sie Listen in einer intelligenten Liste - Marketo Docs - Produktdokumentation
 title: Verwenden von Listen in einer intelligenten Liste
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Mitglieder der Liste in einer Smart-Liste verwenden {#use-members-of-list-in-a-smart-list}
 
