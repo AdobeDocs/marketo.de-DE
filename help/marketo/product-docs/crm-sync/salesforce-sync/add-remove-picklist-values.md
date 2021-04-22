@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719312
-description: hinzufügen/Entfernen von Picklist-Werten - Marketing Docs - Produktdokumentation
+description: hinzufügen/Entfernen von Picklist-Werten - Marketo Docs - Produktdokumentation
 title: Picklist-Werte Hinzufügen/entfernen
+exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
-
 
 # hinzufügen/Entfernen von Picklist-Werten {#add-remove-picklist-values}
 
@@ -29,7 +29,7 @@ Wenn ein picklist-Wert aus einem Feld in Salesforce entfernt wird, müssen Sie d
 
 >[!NOTE]
 >
->Wenn ein Interessentenfeld und ein Kontaktfeld in Salesforce unterschiedliche Werte haben, stehen die gemeinsamen Werte in Marketing zur Verfügung.
+>Wenn ein Interessentenfeld und ein Kontaktfeld in Salesforce unterschiedliche Werte haben, stehen die gemeinsamen Werte in Marketo zur Verfügung.
 
 Wenn ein Interessentenfeld und ein Kontaktfeld in Salesforce unterschiedliche Werte haben:
 
