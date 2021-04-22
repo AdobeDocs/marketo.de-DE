@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949180
-description: Erläuterungen zum SEO-Dashboard SEO Recommendations - Marketing Docs - Produktdokumentation
+description: Erläuterungen zum SEO-Dashboard - SEO Recommendations - Marketo Docs - Produktdokumentation
 title: Das SEO-Dashboard - SEO Recommendations
+exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
-
 
 # Das SEO-Dashboard: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
@@ -21,7 +21,7 @@ Sie können auch herausfinden, wie Sie mit dem Abschnitt Recommendations verbess
 
 ## Probleme mit der Optimierung der obersten Seite {#top-page-optimization-issues}
 
-Dies zeigt Ihnen fünf Möglichkeiten, Ihre Site sofort zu optimieren, um Beginn mit hoher Wirkung zu machen! Klicken Sie einfach auf einen der Links, um den vollständigen [Seitendruck unter](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) Ansicht.
+Dies zeigt Ihnen fünf Möglichkeiten, Ihre Site sofort zu optimieren, um einen Beginn zu machen! Klicken Sie einfach auf einen der Links, um den vollständigen [Seitendruck unter](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) Ansicht.
 
 >[!TIP]
 >
