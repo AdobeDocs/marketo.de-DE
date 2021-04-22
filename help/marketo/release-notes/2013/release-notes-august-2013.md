@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951058
-description: Versionshinweise - August 2013 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - August 2013 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - August 2013
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # Versionshinweise: August 2013 {#release-notes-august}
 
 Die folgenden Funktionen sind in der Version vom August 2013 enthalten.
 
-**Nur Text-E-Mails**
+**Nur-Text-E-Mails**
 
 Jetzt können Sie [nur noch die Textversion](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) einer E-Mail senden. Beachten Sie, dass Links bei Verwendung dieser Option nicht dekoriert werden.
 
@@ -35,7 +35,7 @@ Verwenden Sie die [neue Testfunktion](/help/marketo/product-docs/email-marketing
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
-## Personalisierter Senden-Test {#personalized-send-test}
+## Personalisierten Test senden {#personalized-send-test}
 
 Wenn Sie einen E-Mail-Test senden, können Sie den Namen eines Interessenten auswählen, um die Test-E-Mail zu personalisieren.
 
@@ -47,13 +47,13 @@ Verwenden Sie diese [neuen Token](/help/marketo/product-docs/email-marketing/gen
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## Automatische Trigger-Kampagne-Bereinigung {#automatic-trigger-campaign-cleanup}
+## Automatische Auslöser-Kampagnenbereinigung {#automatic-trigger-campaign-cleanup}
 
-Marketo benachrichtigt Sie nun regelmäßig und deaktiviert automatisch die Kampagnen des Triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md), die in den letzten sechs Monaten noch nicht ausgeführt wurden.[
+Marketo benachrichtigt Sie jetzt regelmäßig und deaktiviert automatisch die Kampagnen des Triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md), die in den letzten sechs Monaten noch nicht ausgeführt wurden.[
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Verbesserung der Finanzverwaltung durch Marketing {#marketo-financial-management-enhancement}
+## Marketo Financial Management Enhancement {#marketo-financial-management-enhancement}
 
 ### Programm Cost Update {#program-cost-update}
 
