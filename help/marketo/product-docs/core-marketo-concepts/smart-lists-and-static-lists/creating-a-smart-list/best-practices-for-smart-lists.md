@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512524
-description: Best Practices für intelligente Listen - Marketing-Dokumente - Produktdokumentation
+description: Best Practices für intelligente Listen - Marketo Docs - Produktdokumentation
 title: Best Practices für intelligente Listen
+exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Best Practices für intelligente Listen {#best-practices-for-smart-lists}
 
@@ -21,10 +21,10 @@ Um ihnen die Arbeit zu erleichtern und die Leistung zu optimieren, haben wir ein
 >
 >**Jeder Kunde ist anders.** Je größer die Datenbank, desto mehr Verarbeitung erfolgt. Je mehr Aktivitäten Sie gespeichert haben, desto länger dauert es, sie zu durchsuchen.
 >
->Wenn Sie eine Langsamkeit erleben, versuchen Sie die unten stehenden Tipps. Wenn das Problem weiterhin besteht, wenden Sie sich an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie eine Langsamkeit erleben, versuchen Sie die unten stehenden Tipps. Wenn das Problem weiterhin besteht, wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. **Geschichte beschränken -** Filter der Geschichte (alias Aktivität-Filter) gehören zu den ressourcenintensivsten und zeitaufwendigsten Abläufen. Wenn Sie diese verwenden müssen, versuchen Sie, den Datumsbereich so kurz wie möglich zu beschränken, wodurch der durchsuchbare Datensatz reduziert wird.
-1. **Schränken Sie verschachtelte intelligente Listen ein -** Wenn Sie eine neue intelligente Liste erstellen, begrenzen Sie die Anzahl der verwendeten Filter für &quot;Mitglied der intelligenten Liste&quot;. Dies wird als Verschachtelung intelligenter Listen bezeichnet. Jede referenzierte intelligente Liste verlängert die Verarbeitungszeit. Verweisen Sie stattdessen entweder auf statische Listen oder verwenden Sie [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. **Schränken Sie verschachtelte intelligente Listen ein -** Wenn Sie eine neue intelligente Liste erstellen, begrenzen Sie die Anzahl der verwendeten Filter für &quot;Mitglied der intelligenten Liste&quot;. Dies wird als Verschachteln intelligenter Listen bezeichnet. Jede referenzierte intelligente Liste verlängert die Verarbeitungszeit. Verweisen Sie stattdessen entweder auf statische Listen oder verwenden Sie [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 1. **Verwenden Sie positive und negative Operatoren -** Obwohl &quot;keine&quot;Filter verfügbar sind, müssen sie den gesamten Datensatz in Ihrer Instanz durchsuchen, was sehr zeitaufwendig sein kann. Positive &quot;is&quot;-Filter können effektivere Suchalgorithmen nutzen.
 1. **Vermeiden Sie &quot;enthält&quot;-** Wenn Sie nur partielle Daten haben, führen &quot;Beginn mit&quot;zu wesentlich schnelleren Ergebnissen als &quot;enthält&quot;. &quot;Ist&quot;läuft sogar noch schneller. Vermeiden Sie die Verwendung von &quot;contains&quot;mit mehreren Werten; Die beiden zusammen können eine Kampagne noch weiter verlangsamen.
 1. **Eigenes Zufallsbeispiel verwenden -** Random Sample ist ein Sonderfilter. Benutzen Sie es selbst, um Ihre Leute in vorgefertigte Listen zu setzen. Dann verwenden Sie einfach &quot;Member of Liste&quot;, um Ihre intelligente Liste super schnell zu machen. Random Sample funktioniert **NOT** mit verschachtelten Smart-Listen. Der Filter &quot;Random-Beispiel&quot;funktioniert nicht, wenn auf die Smart-Liste für den Filter &quot;Member of Smart Liste&quot;verwiesen wird.
@@ -36,4 +36,4 @@ Um ihnen die Arbeit zu erleichtern und die Leistung zu optimieren, haben wir ein
 
 >[!TIP]
 >
->Marketo kann auf vielfältige Weise eingesetzt werden und bestimmte Techniken sind besser für Sie und Ihr Unternehmen. Erwägen Sie [Marketo Professional Services](https://pages2.marketo.com/72-hour-survival-guide.html), um Ihre Investition zu glänzen.
+>Marketo kann auf vielfältige Weise eingesetzt werden und bestimmte Techniken sind besser für Sie und Ihr Unternehmen. Sehen Sie sich [Marketo Professional Services](https://pages2.marketo.com/72-hour-survival-guide.html) an, um Ihre Investition zu glänzen.
