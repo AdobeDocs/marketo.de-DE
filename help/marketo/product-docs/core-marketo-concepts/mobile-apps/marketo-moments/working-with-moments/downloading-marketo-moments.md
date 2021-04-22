@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782024
-description: Herunterladen von Marketo-Momenten - Marketing Docs - Produktdokumentation
-title: Herunterladen von Marketing-Momenten
+description: Herunterladen von Marketo-Momenten - Marketo Docs - Produktdokumentation
+title: Herunterladen von Marketo-Momenten
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
-# Herunterladen von Marketing-Momenten {#downloading-marketo-moments}
+# Herunterladen von Marketo-Momenten {#downloading-marketo-moments}
 
 Laden Sie Marketo Moments aus dem App Store oder Google Play und voila herunter! Marketo Magie in der Handfläche.
 
@@ -33,7 +33,7 @@ Laden Sie Marketo Moments aus dem App Store oder Google Play und voila herunter!
 
 1. Gehen Sie zu [Google Play](https://play.google.com/store?hl=en).
 
-1. Suchen Sie nach Marketo-Momenten und tippen Sie zum Herunterladen auf .
+1. Suchen Sie nach Marketo-Momenten und tippen Sie auf zum Herunterladen.
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
@@ -49,10 +49,10 @@ Viel Spaß!
 
 >[!NOTE]
 >
->Melden Sie sich mit Ihrem normalen Marketo-Login und -Passwort an.
+>Melden Sie sich mit Ihrem Marketo-Login und -Passwort an.
 >
 >Single Sign-On mit Security Assertion Markup Language (SAML) wird für Marketo Moments nicht unterstützt.
 
 >[!MORELIKETHIS]
 >
->[Erläuterungen zu Markusmomenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[Marketo-Momente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
