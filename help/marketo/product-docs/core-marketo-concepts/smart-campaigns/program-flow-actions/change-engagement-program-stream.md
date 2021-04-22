@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147015
-description: Interaktions-Programm-Stream ändern - Marketing-Dokumente - Produktdokumentation
-title: Interaktions-Programm-Stream ändern
+description: Ändern des Programm-Streams für Interaktionen - Marketo Docs - Produktdokumentation
+title: Engagement Program Stream ändern
+exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Interaktions-Programm-Stream {#change-engagement-program-stream} ändern
+# Engagement Program Stream ändern {#change-engagement-program-stream}
 
 ## Übersicht {#overview}
 
@@ -19,7 +19,7 @@ Normalerweise würden Sie [Stream-Transitionen](/help/marketo/product-docs/email
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wählen Sie das Interaktions-Programm aus, in das Sie die Person verschieben möchten.
 
