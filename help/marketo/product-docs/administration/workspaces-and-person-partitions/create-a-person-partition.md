@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360315
-description: Erstellen einer Personenpartition - Marketing Docs - Produktdokumentation
+description: Erstellen einer Personenpartition - Marketo Docs - Produktdokumentation
 title: Personenpartition erstellen
+exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen einer Personenpartition {#create-a-person-partition}
 
@@ -25,7 +25,7 @@ Erstellen Sie eine neue Personenpartition entsprechend den folgenden Schritten.
 
 >[!CAUTION]
 >
->Personenpartitionen können komplex sein. Wenden Sie sich an den [Marketing-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um Hilfe bei der Einrichtung zu erhalten.
+>Personenpartitionen können komplex sein. Wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support), um Hilfe bei der Einrichtung zu erhalten.
 
 1. Wählen Sie unter Admin **Arbeitsbereiche und Partitionen**.
 
