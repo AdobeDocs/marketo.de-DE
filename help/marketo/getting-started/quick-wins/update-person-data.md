@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359426
-description: Personendaten aktualisieren - Marketing-Dokumente - Produktdokumentation
+description: Personendaten aktualisieren - Marketo Docs - Produktdokumentation
 title: Personendaten aktualisieren
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # Personendaten aktualisieren {#update-person-data}
 
@@ -43,7 +43,7 @@ Stellen wir uns vor, dass eine Person Ihnen auf Ihrer letzten Fachmesse zusätzl
 
    >[!TIP]
    >
-   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Es gibt viele Möglichkeiten, personenbezogene Daten in Marketo zu aktualisieren. Siehe [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Personendaten {#update-the-person-data} aktualisieren
 
@@ -55,12 +55,12 @@ Stellen wir uns vor, dass eine Person Ihnen auf Ihrer letzten Fachmesse zusätzl
 >
 >Sobald Sie die Daten ändern, werden die neuen Informationen von Smart-Listen und Smart-Kampagnen sofort erkannt.
 
-## Dienstabschluss {#mission-complete}
+## Aufgabe abgeschlossen {#mission-complete}
 
 Gute Arbeit! Sie haben Ihre personenbezogenen Daten aktualisiert.
 
 <br> 
 
-[Auftrag 8: Warnung an den Vertriebsmitarbeiter](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Aufgabe 8: Vertriebsmitarbeiter benachrichtigen](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Mission 10: Umleiten einer Landingpage ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Aufgabe 10: Landing Page umleiten ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
