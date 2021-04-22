@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377406
-description: Bearbeiten Sie Ihre Standard-Branding-Domäne mit Arbeitsbereichen - MarketingToDocs - Produktdokumentation
+description: Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen - Marketo Docs - Produktdokumentation
 title: Standardmäßige Branding-Domäne mit Arbeitsbereichen bearbeiten
+exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen {#edit-your-default-branding-domain-with-workspaces}
 
