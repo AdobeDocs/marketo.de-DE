@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12983619
-description: hinzufügen Slack als LaunchPoint-Dienst - Marketing Docs - Produktdokumentation
+description: hinzufügen Slack als LaunchPoint-Dienst - Marketo Docs - Produktdokumentation
 title: hinzufügen Slack als LaunchPoint-Dienst
+exl-id: 38c1501d-27ac-4c6c-967d-4decd10e0cb3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
 
 ---
-
 
 # hinzufügen Slack als LaunchPoint-Dienst {#add-slack-as-a-launchpoint-service}
 
@@ -24,7 +24,7 @@ Die Slack-Integration umfasst zwei Benachrichtigungstypen:
 
 >[!PREREQUISITES]
 >
->Wenn Sie noch keine Systembenachrichtigungen für Slack aktiviert haben, wenden Sie sich bitte an [MarketingTo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie die Systembenachrichtigungen des Slacks noch nicht aktiviert haben, wenden Sie sich bitte an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Gehen Sie zu **LaunchPoint** und klicken Sie dann unter **New** auf **New Service**.
 
@@ -34,7 +34,7 @@ Die Slack-Integration umfasst zwei Benachrichtigungstypen:
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
-1. Klicken Sie auf **Autorisieren**. Dadurch wird der Slack in einer neuen Registerkarte geöffnet, auf der Sie die Autorisierung abschließen und Marketo die Berechtigung zum Abrufen von Informationen aus dem Slack erteilen.
+1. Klicken Sie auf **Autorisieren**. Dadurch wird der Slack in einer neuen Registerkarte geöffnet, auf der Sie die Autorisierung abschließen und Marketo die Erlaubnis erteilen, Informationen von Slack abzurufen.
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
@@ -46,7 +46,7 @@ Die Slack-Integration umfasst zwei Benachrichtigungstypen:
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. Wählen Sie in der Dropdownliste **An** posten den Kanal aus, in dem Benachrichtigungen von Marketing veröffentlicht werden sollen. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **Autorisieren**.
+1. Wählen Sie in der Dropdownliste **An** posten den Kanal aus, in dem Benachrichtigungen von Marketo veröffentlicht werden sollen. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **Autorisieren**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
@@ -54,7 +54,7 @@ Die Slack-Integration umfasst zwei Benachrichtigungstypen:
 
    ![](assets/image2017-11-27-15-3a51-3a57.png)
 
-1. Aktualisieren Sie die Registerkarte &quot;Markieren&quot;und vergewissern Sie sich, dass Slack jetzt als aktiver Dienst in LaunchPoint aufgeführt wird.
+1. Aktualisieren Sie die Registerkarte &quot;Marketo&quot;und vergewissern Sie sich, dass Slack jetzt als aktiver Dienst in LaunchPoint aufgeführt wird.
 
    ![](assets/image2017-11-27-15-3a55-3a37.png)
 
