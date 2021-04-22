@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571830
-description: Schritt 3 von 3 - Verbinden von Microsoft Dynamics mit Marketo (Online) - Marketing Docs - Produktdokumentation
+description: Schritt 3 von 3 - Verbinden von Microsoft Dynamics mit Marketo (Online) - Marketo Docs - Produktdokumentation
 title: Schritt 3 von 3 - Verbinden von Microsoft Dynamics mit Marketo (Online)
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Schritt 3 von 3: Verbinden von Microsoft Dynamics mit Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
@@ -17,7 +17,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: Installieren der Marketing Solution (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+>* [Schritt 1 von 3: Marketo Solution installieren (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 >* [Schritt 2 von 3: Marketo Sync User in Dynamics einrichten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
@@ -27,7 +27,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 ## Dynamics Sync-Benutzerinformationen eingeben {#enter-dynamics-sync-user-information}
 
-1. Melden Sie sich bei Marketing an und klicken Sie auf **Admin**.
+1. Melden Sie sich bei Marketo an und klicken Sie auf **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -45,7 +45,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
    >[!CAUTION]
    >
-   >Vergewissern Sie sich bitte, dass Ihre Anmeldeinformationen korrekt sind, da wir die nachfolgenden Änderungen des Schemas nach der Übermittlung nicht wiederherstellen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketing-Abonnement erhalten.
+   >Vergewissern Sie sich bitte, dass Ihre Anmeldeinformationen korrekt sind, da wir die nachfolgenden Änderungen des Schemas nach der Übermittlung nicht wiederherstellen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketo-Abonnement erhalten.
 
 1. Geben Sie **Benutzername**, **Kennwort** und Microsoft Dynamics **URL** ein. Klicken Sie abschließend auf **Speichern**.
 
@@ -53,12 +53,12 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
    >[!NOTE]
    >
-   >* Wenn Ihr Marketo vor Oktober 2020 bereitgestellt wurde, sind die optionalen Felder Client-ID und Geheimer Schlüssel optional. Andernfalls sind sie obligatorisch. Das Abrufen dieser Informationen hängt von der verwendeten MSD-Version ab.
-   >* Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;`user@domain.com`&quot;oder &quot;DOMAIN\user&quot;lauten.
+   >* Wenn Ihr Marketo vor Oktober 2020 bereitgestellt wurde, sind &quot;Client-ID&quot;und &quot;Geheim&quot;optionale Felder. Andernfalls sind sie obligatorisch. Das Abrufen dieser Informationen hängt von der verwendeten MSD-Version ab.
+   >* Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;`user@domain.com`&quot;oder &quot;DOMAIN\user&quot;lauten.
    >* Wenn Sie die URL nicht kennen, [erfahren Sie, wie Sie sie hier finden.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
 
 
-## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
+## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 
 1. Klicken Sie in **Schritt 2 auf** Bearbeiten **: Wählen Sie die zu synchronisierenden Felder aus.**
 
@@ -70,11 +70,11 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 >[!NOTE]
 >
->Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit [sync deaktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) zu tun. Aktualisieren Sie anschließend das Schema in Marketo, indem Sie die Felder [Zu synchronisierende Felder auswählen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) bearbeiten und speichern.
+>Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit [sync deaktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) zu tun. Aktualisieren Sie dann das Schema in Marketo, indem Sie die Felder [Zu synchronisierende Felder auswählen bearbeiten und speichern.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
 
 ## Synchronisieren von Feldern für einen benutzerspezifischen Filter {#sync-fields-for-a-custom-filter}
 
-Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt einsteigen und die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
+Wenn Sie einen benutzerspezifischen Filter erstellt haben, müssen Sie unbedingt eingehen und die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
 
 1. Gehen Sie zu Admin und wählen Sie **Microsoft Dynamics**.
 
@@ -96,7 +96,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
 
    >[!CAUTION]
    >
-   >Marketo wird nicht automatisch deduplizieren gegen eine Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben Personen oder Interessenten.
+   >Marketo wird nicht automatisch deduplizieren gegen eine Microsoft Dynamics Synchronisierung, oder wenn Sie manuell eingeben Personen oder Interessenten.
 
 1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail-Adresse ein und klicken Sie auf **Beginn-Synchronisierung**.
 
