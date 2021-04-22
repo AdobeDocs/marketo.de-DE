@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719308
-description: hinzufügen eines vorhandenen Salesforce-Felds zur Marketing-Synchronisierung - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen eines vorhandenen Salesforce-Felds zur Synchronisierung des Markets
+description: hinzufügen eines vorhandenen Salesforce-Felds zur Marketo Sync - Marketo Docs - Produktdokumentation
+title: hinzufügen eines vorhandenen Salesforce-Felds zur Marketo-Synchronisierung
+exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# hinzufügen eines vorhandenen Salesforce-Felds an den MarkerToSync {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# hinzufügen eines vorhandenen Salesforce-Felds mit Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-Normalerweise werden neue benutzerdefinierte Felder in Salesforce automatisch mit Marketo synchronisiert. Ist dies nicht der Fall, sind die Felder für den Benutzer von &quot;Markieren zum Synchronisieren&quot;möglicherweise nicht sichtbar. Hier ist, wie man das reparieren kann.
+Normalerweise werden neue benutzerdefinierte Felder in Salesforce automatisch mit Marketo synchronisiert. Andernfalls sind die Felder für den Marketo Sync-Benutzer möglicherweise nicht sichtbar. Hier ist, wie man das reparieren kann.
 
 1. Klicken Sie auf Ihren Namen und wählen Sie **Setup**.
 
@@ -47,4 +47,4 @@ Normalerweise werden neue benutzerdefinierte Felder in Salesforce automatisch mi
 
    >[!NOTE]
    >
-   > Wenn das Feld bereits Werte in Salesforce enthält, werden diese Werte erst nach der nächsten Datensatzaktualisierung mit Marketo synchronisiert.
+   > Wenn das Feld bereits über Werte in Salesforce verfügt, werden diese Werte erst nach der nächsten Datensatzaktualisierung mit Marketo synchronisiert.
