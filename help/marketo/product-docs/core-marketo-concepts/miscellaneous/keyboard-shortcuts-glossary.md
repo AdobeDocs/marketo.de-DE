@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147318
-description: Glossar zu Tastaturbefehlen - Marketing-Dokumente - Produktdokumentation
+description: Glossar "Tastaturbefehle"- Marketo Dokumente - Produktdokumentation
 title: Glossar "Tastaturbefehle"
+exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # Glossar {#keyboard-shortcuts-glossary} für Tastaturbefehle
 
@@ -19,14 +19,14 @@ Sind Sie ein Tastenkürzel? Wir haben dich abgedeckt!
 
 | Tastaturkürzel | Bereich |
 |---|---|
-| Alt/Opt + A | Analytics |
+| Alt/Opt + A | Analytik |
 | Alt/Opt + C | Kalender |
-| Alt/Opt + D | Design Studio |
+| Alt/Opt + D | Design-Studio |
 | Alt/Wahl + F | Globale Suche |
 | Alt/Opt + L | Datenbank |
-| Alt/Opt + M | Marketing-Aktivitäten |
-| Opt + N | Admin |
-| Wahl + O | Mein Markt |
+| Alt/Opt + M | Marketingaktivitäten |
+| Opt + N | Administrator |
+| Wahl + O | Mein Marketo |
 | Alt/Opt + S | Dropdown-Menü &quot;Superball&quot; |
 
 ## Kalendernavigation/Ansicht planen:  {#calendar-schedule-view-navigation}
