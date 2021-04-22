@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360325
-description: Benutzerzugriff auf einen Arbeitsbereich zulassen - Marketing Docs - Produktdokumentation
+description: Benutzerzugriff auf einen Arbeitsbereich zulassen - Marketo Docs - Produktdokumentation
 title: Benutzerzugriff auf eine Arbeitsfläche zulassen
+exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerzugriff auf eine Arbeitsfläche {#allow-user-access-to-a-workspace} zulassen
 
@@ -43,4 +43,4 @@ Arbeitsbereiche können aus jedem Grund (z. B. Geschäftseinheit oder geografisc
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-Großartig! Wenn sie sich jetzt anmelden, sehen sie alle Arbeitsbereiche, auf die Sie Zugriff haben.
+Sehr gut! Wenn sie sich jetzt anmelden, sehen sie alle Arbeitsbereiche, auf die Sie Zugriff haben.
