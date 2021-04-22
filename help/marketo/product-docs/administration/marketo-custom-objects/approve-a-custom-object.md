@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10094188
-description: Benutzerdefiniertes Objekt genehmigen - Marketing Docs - Produktdokumentation
+description: Benutzerdefiniertes Objekt genehmigen - Marketo Dokumente - Produktdokumentation
 title: Benutzerdefiniertes Objekt genehmigen
+exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerdefiniertes Objekt {#approve-a-custom-object} genehmigen
 
@@ -19,7 +19,7 @@ Sie müssen ein benutzerdefiniertes Objekt genehmigen, bevor Sie es verwenden k�
 
 Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. Hier ist, wie man es genehmigt.
 
-1. Klicken Sie in Admin auf **Benutzerdefinierte Objekte** markieren und wählen Sie ein Objekt mit dem Status &quot;Entwurf&quot;aus.
+1. Klicken Sie in Admin auf **Marketo Benutzerdefinierte Objekte** und wählen Sie ein Objekt aus, das sich im Entwurfsstatus befindet.
 
    ![](assets/one.png)
 
@@ -39,7 +39,7 @@ Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. Hier ist, wie man 
    >
    >Ein benutzerdefiniertes Objekt, das als _intermediäres Objekt_ verwendet wird, erfordert ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen, **erfordert jedoch kein dedupliziertes Feld.**
    >
-   >Weitere Informationen finden Sie unter [Informationen zu &quot;Markieren zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)&quot;.
+   >Weitere Informationen finden Sie unter [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
 Das ist&#39;s! Jetzt können Sie Ihr benutzerdefiniertes Objekt in den Einschränkungen Ihrer Filter und Trigger auswählen, die Sie in Ihren Kampagnen verwenden möchten.
 
