@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951099
-description: Versionshinweise - April 2013 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - April 2013 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - April 2013
+exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Versionshinweise: April 2013 {#release-notes-april}
 
@@ -27,7 +27,7 @@ Wenn Sie Marketo Sales Insight sowie Gmail verwenden, können Sie unser neues Gm
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
-## Email-Analyse {#email-analysis}
+## E-Mail-Analyse {#email-analysis}
 
 Erstellen Sie erweiterte E-Mail-Berichte im Umsatz-Explorer, z. B. den Bericht &quot;Klick-Aktivität-Kühlkörper&quot;. Dieser Bericht gibt einen Einblick in den Tag und die Zeit, an denen die Benutzer in Ihren E-Mails auf Links klicken.
 
@@ -41,4 +41,4 @@ Unterstützung für Programm im SOAP API-Aufruf, einschließlich schreibgeschüt
 
 ## ON24-Verbesserung {#on-enhancement}
 
-Der Auftragsname und der Name der Firma werden mit ON24 aus Ihrem Marketing-Registrierungsformular synchronisiert.
+Der Auftragsname und der Name der Firma werden von Ihrem Marketo-Registrierungsformular mit ON24 synchronisiert.
