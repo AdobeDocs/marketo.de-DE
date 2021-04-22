@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147237
-description: Filtern eines Programm-Berichts nach Periodenkosten - Marketing-Dokumente - Produktdokumentation
+description: Filtern eines Programm-Berichts nach Periodenkosten - Marketo Docs - Produktdokumentation
 title: Filtern eines Programm-Berichts nach Zeitraumkosten
+exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # Filtern eines Programm-Berichts nach Zeitkosten {#filter-a-program-report-by-period-cost}
 
