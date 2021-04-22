@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949228
-description: SEO - Inbound Link Suggestions - Marketing Docs - Produktdokumentation
+description: SEO - Inbound Link Suggestions - Marketo Docs - Produktdokumentation
 title: SEO - Empfehlungen zu Inbound-Links abrufen
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEO - Empfehlungen für Inbound-Links {#seo-get-inbound-link-suggestions}
 
@@ -35,7 +35,7 @@ Marketo kann vorschlagen, welche eingehenden Links für Ihre [Offpage-Optimierun
    >
    >Wussten Sie, dass Sie [Ihren Link zu einer neuen oder vorhandenen Liste](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md) hinzufügen können? Schau es dir an!
 
-1. Fantastisch! Diese hinzugefügten Links werden nun verfolgt.
+1. Fantastisch Diese hinzugefügten Links werden nun verfolgt.
 
    >[!NOTE]
    >
