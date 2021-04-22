@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6848747
-description: Beschreibungen der Rollenberechtigungen - Marketing Docs - Produktdokumentation
+description: Beschreibungen der Rollenberechtigungen - Marketo Dokumente - Produktdokumentation
 title: Beschreibung der Rollenberechtigungen
+exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1144'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-
 # Beschreibungen der Rollenberechtigungen {#descriptions-of-role-permissions}
 
-Nachfolgend finden Sie eine Liste aller verfügbaren Berechtigungen, die Sie Ihren Rollen zuweisen können. Berechtigungen sind in der Regel mit bestimmten Funktionsbereichen in Marketo verknüpft und können Ihnen helfen, zu steuern, auf welche Bereiche und Funktionen verschiedene Benutzer Zugriff haben.
+Nachfolgend finden Sie eine Liste aller verfügbaren Berechtigungen, die Sie Ihren Rollen zuweisen können. Berechtigungen sind in der Regel mit bestimmten Funktionsbereichen in Marketo verknüpft und können Ihnen helfen, zu steuern, auf welche Bereiche und Funktionen verschiedene Benutzer zugreifen können.
 
 Weitere Informationen zu Berechtigungen:
 
@@ -27,7 +27,7 @@ Wenn Sie [eine Rolle](/help/marketo/product-docs/administration/users-and-roles/
 
 ![](assets/createnewrole.png)
 
-## Zugriff auf Admin {#access-admin}
+## Auf Administrator zugreifen  {#access-admin}
 
 Ansicht und nehmen Sie Änderungen an den Einstellungen im Abschnitt &quot;Mein Konto&quot;von Admin vor.
 
@@ -44,8 +44,8 @@ Ansicht und nehmen Sie Änderungen an den Einstellungen im Abschnitt &quot;Mein 
 * Zugriffsposition - Ermöglicht Benutzern den Zugriff auf Standort in Admin zum Festlegen der Standardsprache, des Gebietsschemas, der Zeitzone und der Währung
 * Anmeldeverlauf aufrufen - Gewährt Benutzern Zugriff auf den Verlauf der Benutzeranmeldung im Prüfprotokoll
 * Zugriffseinstellungen für die Anmeldung - Ermöglicht Benutzern Zugriff auf die Anmeldeeinstellungen in &quot;Admin für Sicherheit&quot;, &quot;IP-Einschränkungen&quot;und &quot;Bericht für intelligente Liste&quot;
-* Zugriff auf die benutzerspezifische Aktivität - Ermöglicht Benutzern Zugriff auf benutzerdefinierte Aktivitäten von MarketingTo in Admin
-* Zugriff auf ein benutzerdefiniertes Objekt - gibt Benutzern Zugriff auf benutzerdefinierte Objekte in Admin
+* Zugriff auf benutzerdefinierte Marketo-Aktivität - Ermöglicht Benutzern Zugriff auf benutzerdefinierte Marketo-Aktivitäten in Admin
+* Zugriff auf benutzerdefinierte Marketo-Objekte - Ermöglicht Benutzern Zugriff auf benutzerdefinierte Marketo-Objekte in Admin
 * Zugriff auf Munchkin - GIs ermöglicht Benutzern den Zugriff auf Munchkin in Admin zum Festlegen von Trackingcode, Personenverfolgung und Aktivieren der API-Konfiguration
 * Access Revenue Cycle Analytics - Ermöglicht Benutzern Zugriff auf &quot;Revenue Cycle Analytics&quot;in Admin, um die Synchronisierung der Zusammenfassung und Zuordnung festzulegen
 * Zugriffsrollen - Ermöglicht Benutzern Zugriff auf die Verwaltung und Bearbeitung von Rollen, nicht jedoch auf Benutzer
@@ -59,34 +59,34 @@ Ansicht und nehmen Sie Änderungen an den Einstellungen im Abschnitt &quot;Mein 
 * Zugriff auf Webhooks - Ermöglicht Benutzern das Einrichten von Details und Antwortzuordnungen in Admin
 * Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern Zugriff auf das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
 
-## Zugriff-API {#access-api}
+## Auf API zugreifen  {#access-api}
 
 Ermöglicht Benutzern den Zugriff auf die unten aufgeführten APIs.********
 
 * Assets genehmigen
 * Kampagne ausführen
 * Schreibgeschützte Aktivität
-* Metadaten für schreibgeschützte Aktivitäten
+* Metadaten der schreibgeschützten Aktivität
 * Schreibgeschützte Assets
 * Schreibgeschützte Kampagne
-* Schreibgeschützte Firma
+* Schreibgeschütztes Unternehmen
 * Schreibgeschütztes benutzerdefiniertes Objekt
 * Schreibgeschützte Person
 * Schreibgeschütztes benanntes Konto
-* Schreibgeschützte Gelegenheit
-* Schreibgeschützter Verkaufspersonal
-* Aktivität zum Schreiben lesen
-* Metadaten zur Aktivität lesen
-* Assets lesen und schreiben
-* Kampagne zum Schreiben lesen
-* Firma zum Schreiben lesen
-* Benutzerdefiniertes Objekt lesen
-* Personen lesen und schreiben
-* Benanntes Konto lesen
-* Schreibmöglichkeiten
-* Vertriebsmitarbeiter lesen
+* Schreibgeschützte Geschäftschance
+* Schreibgeschützter Vertriebsmitarbeiter
+* Aktivität mit Lese-/Schreibzugriff
+* Metadaten der Aktivität mit Lese-/Schreibzugriff
+* Assets mit Lese-/Schreibzugriff
+* Kampagne mit Lese-/Schreibzugriff
+* Unternehmen mit Lese-/Schreibzugriff
+* Objekt mit Lese-/Schreibzugriff
+* Lese-/Schreib-Person
+* Benanntes Konto mit Lese-/Schreibzugriff
+* Vertriebschance mit Lese-/Schreibzugriff
+* Vertriebsmitarbeiter mit Lese-/Schreibzugriff
 
-## Zugriff auf Analytics {#access-analytics}
+## Auf Analytics zugreifen {#access-analytics}
 
 Ermöglicht Benutzern Zugriff auf die Registerkarten &quot;Analytics&quot;, &quot;E-Mail-Einblicke&quot;, &quot;Berichte&quot;und die drei folgenden Elemente, sofern sie nicht deaktiviert sind.
 
@@ -94,17 +94,17 @@ Ermöglicht Benutzern Zugriff auf die Registerkarten &quot;Analytics&quot;, &quo
 * Bericht löschen - Aufhebung der Überprüfung entfernt die Möglichkeit des Benutzers, Berichte zu löschen
 * Analytics-Daten exportieren - Aufhebung der Überprüfung entfernt die Möglichkeit des Benutzers zum Exportieren von Analytics-Daten
 
-## Access Calendar Presentations {#access-calendar-presentations}
+## Auf Kalenderpräsentationen zugreifen {#access-calendar-presentations}
 
 Ermöglicht Anwendern Zugriff auf Kalenderpräsentationen - ermöglicht die Anzeige der Presentations-Schaltfläche unten.
 
 * Kalender bearbeiten Presentations - Ermöglicht Benutzern das Bearbeiten von Präsentationen im Kalender
 
-## Zugriff auf Design Studio {#access-design-studio}
+## Auf Design-Studio zugreifen {#access-design-studio}
 
 Ermöglicht Benutzern Zugriff auf die Registerkarte &quot;Design Studio&quot;und die Ansicht der Struktur, jedoch nicht auf Details.
 
-* E-Mail
+* Auf E-Mail zugreifen
    * E-Mail bearbeiten - Ermöglicht Benutzern das Bearbeiten, Erstellen und Klonen von E-Mails
       * E-Mail operativ machen - Ermöglicht Benutzern, eine E-Mail in Betrieb zu nehmen. Siehe: [Eine E-Mail operativ machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
@@ -112,57 +112,57 @@ Ermöglicht Benutzern Zugriff auf die Registerkarte &quot;Design Studio&quot;und
       * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
       * Markendomäne festlegen - Ermöglicht Benutzern das Arbeiten mit Markendomänen. Siehe: [Hinzufügen einer zusätzlichen Branding-Domäne](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
-* E-Mail-Vorlage aufrufen
+* Auf E-Mail-Vorlage zugreifen
 
    * E-Mail-Vorlage genehmigen
    * E-Mail-Vorlage löschen
    * E-Mail-Vorlage bearbeiten - E-Mail-Vorlagen bearbeiten, erstellen und klonen
 
-* Formular aufrufen
+* Auf Formular zugreifen
 
    * Formular löschen
    * Formular bearbeiten - Formulare bearbeiten, erstellen und klonen
 
-* Bild aufrufen
+* Auf Bild zugreifen
 
    * Bild löschen
    * Bild hochladen
 
-* Landingpage aufrufen
+* Auf Landing Page zugreifen
 
-   * Landingpage genehmigen
-   * Landingpage löschen
+   * Landing Page genehmigen
+   * Landing Page löschen
    * Landingpage bearbeiten - Landingpages bearbeiten, erstellen und klonen
 
-* Landingpage aufrufen
+* Auf Landing Page-Vorlage zugreifen
 
-   * Vorlage für genehmigende Landingpages
-   * Landingpage löschen
+   * Landing Page-Vorlage genehmigen
+   * Landing Page-Vorlage löschen
    * Vorlage &quot;Landingpage bearbeiten&quot;- Bearbeiten, Erstellen und Klonen von Vorlagen für Landingpages
 
-* Snippet aufrufen
+* Auf Ausschnitt zugreifen
 
-   * Snippet genehmigen
-   * Snippet löschen
-   * Snippet bearbeiten
+   * Ausschnitt genehmigen
+   * Ausschnitt löschen
+   * Ausschnitt bearbeiten
 
-* Zugriff auf Social-App
+* Auf Social App zugreifen
 
-   * Social-Anwendung genehmigen
-   * Social-App löschen
-   * Social-App bearbeiten
+   * Social App genehmigen
+   * Social App löschen
+   * Social App bearbeiten
 
-## Datenbank aufrufen {#access-database}
+## Auf Datenbank zugreifen {#access-database}
 
 Ansicht der Datenbank sowie Ansicht und Bearbeitung von Smart-/statischen Listen.
 
-* Zugriff auf Segmentierung
+* Auf Segmentierung zugreifen
 
    * Segmentierung genehmigen
    * Segmentierung löschen
    * Segmentierung bearbeiten
 
-* Erweiterter Listen-Import
+* Erweiterter Listenimport
 * Person löschen
 * Liste löschen
 * Person bearbeiten - Verhindert die manuelle Bearbeitung und Ausführung von Einzelprozessen; Sie können die Benutzer trotzdem bearbeiten, indem Sie Kampagnen gegen sie ausführen
@@ -174,47 +174,47 @@ Ansicht der Datenbank sowie Ansicht und Bearbeitung von Smart-/statischen Listen
 
 * Ansicht Opportunity Data - Blendet die Opportunity-Informationen auf der Personendaten-Seite aus
 
-## Zugriff auf Marketing-Aktivitäten {#access-marketing-activities}
+## Auf Marketingaktivitäten zugreifen {#access-marketing-activities}
 
 Ansicht der Ordner &quot;Marketing-Aktivitäten&quot;, &quot;Kampagnen&quot;und &quot;Kampagne&quot;.
 
-* SMS-Nachricht abrufen
+* Auf SMS-Nachricht zugreifen
 
    * SMS-Nachricht genehmigen
    * SMS-Nachricht löschen
    * SMS-Nachricht bearbeiten
 
-* Push-Benachrichtigung aufrufen
+* Auf Push-Benachrichtigung zugreifen
 
    * Push-Benachrichtigung genehmigen
    * Push-Benachrichtigung löschen
    * Push-Benachrichtigung bearbeiten
 
-* Access Awards
-* Trigger-Kampagne aktivieren
+* Auf Preise zugreifen
+* Auslöser-Kampagne aktivieren
 * E-Mail-Programm genehmigen
 * Marketing-Asset klonen
 * Marketing-Asset löschen
-* Einschränkungen für Kampagnen bearbeiten
+* Kampagne-Einschränkungen bearbeiten
 * Marketing-Asset bearbeiten
 * Programm importieren
-* Liste importieren
-* Batch-Kampagne planen
+* Listenimport
+* Stapel-Kampagne planen
 
-Zugriff auf SEO
+Auf SEO zugreifen
 
 * SEO verwalten
-* Standard SEO
+* SEO-Standard
 
-## Targeting und Personalisierung {#targeting-and-personalization}
+## Zielgruppe und Personalisierung {#targeting-and-personalization}
 
 * Web-Personalisierung verwalten
-* CRE-Kampagne-Editor
-* CRE-Kampagne-Starter
-* Web-Kampagne-Editor
-* Web Kampagne Launcher
+* CRE-Kampagnen-Editor
+* CRE-Kampagnen-Startprogramm
+* Webkampagnen-Editor
+* Webkampagnen-Startprogramm
 
-Workspace-Administration
+Arbeitsbereichverwaltung
 
 * Admin-Zugriff für einen bestimmten Arbeitsbereich (nur, wenn Sie Workspace aktiviert haben)
 * Verschieben von Assets zwischen Workspaces (nur, wenn Workspace aktiviert ist)
