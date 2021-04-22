@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571813
-description: Schritt 1 von 3 - Installation der Marketing-Lösung in Dynamics (2013 vor Ort) - Marketing Docs - Produktdokumentation
-title: Schritt 1 von 3 - Installation der Marketing Solution in Dynamics (Vor-Ort-Abteilungen 2013)
+description: Schritt 1 von 3 - Installieren der Marketo-Lösung in Dynamics (2013 vor Ort) - Marketo Docs - Produktdokumentation
+title: Schritt 1 von 3 - Installieren der Marketo-Lösung in Dynamics (Vor-Ort-Abteilungen 2013)
+exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-
-# Schritt 1 von 3: Installieren Sie die Marketing Solution in Dynamics (On-Premises 2013) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# Schritt 1 von 3: Installieren Sie die Marketo-Lösung in Dynamics (On-Premises 2013) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
 Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in Dynamics installieren.
 
@@ -23,7 +23,7 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 >
 >Sie müssen [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) mit [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 oder 3.0 (ADFS) konfiguriert haben. Hinweis: Das IFD-Dokument wird automatisch heruntergeladen, wenn Sie auf den Link klicken.
 >
->[Laden Sie die Marketing ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solution vor dem Beginn herunter.
+>[Laden Sie die Marketo-](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Lösung vor dem Beginn herunter.
 
 >[!NOTE]
 >
@@ -75,15 +75,15 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
    >[!NOTE]
    >
-   >Sie sehen möglicherweise eine Meldung mit der Meldung &quot;Marketing-Lead-Management abgeschlossen mit Warnung&quot;. Das ist völlig zu erwarten.
+   >Es wird möglicherweise eine Meldung angezeigt, in der steht: &quot;Marketo Lead Management wurde mit Warnung abgeschlossen&quot;. Das ist völlig zu erwarten.
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. Die Marketing-Interessentenverwaltung wird nun auf der Seite **Alle Lösungen** angezeigt.
+1. Marketo Lead Management wird jetzt auf der Seite **Alle Lösungen** angezeigt.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Wählen Sie die Marketing-Lösung aus und klicken Sie auf **Alle Anpassungen veröffentlichen**.
+1. Wählen Sie die Marketo-Lösung und klicken Sie auf **Alle Anpassungen veröffentlichen**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
@@ -91,8 +91,8 @@ War das nicht zu schlecht? Los, ich werde dich durch den Rest führen.
 
 >[!CAUTION]
 >
->Die Deaktivierung eines der Marketing SDK Messaging-Prozesse führt zu einer fehlerhaften Installation!
+>Die Deaktivierung eines der Marketo SDK Messaging-Prozesse führt zu einer fehlerhaften Installation!
 
 >[!MORELIKETHIS]
 >
->[Schritt 2 von 3: Konfigurieren des Synchronisierungsbenutzers für Marketo (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[Schritt 2 von 3: Synchronisierungsbenutzer für Marketo konfigurieren (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
