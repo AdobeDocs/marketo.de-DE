@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147108
-description: Programm importieren - Marketing Docs - Produktdokumentation
+description: Programm importieren - Marketo Docs - Produktdokumentation
 title: Programm importieren
+exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-
 # Programm {#import-a-program} importieren
 
-Ein Programm kann von einem Markt in ein anderes Abonnement importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus der Marketing-Programm-Bibliothek importieren.
+Ein Programm kann von einem Marketo-Abonnement in ein anderes importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus der Marketo Programm Library importieren.
 
 ## Programm {#import-a-program-1} importieren
 
@@ -29,7 +29,7 @@ Ein Programm kann von einem Markt in ein anderes Abonnement importiert werden. S
    >
    >Programm Import ist nur für Benutzer verfügbar, für die die Berechtigung Programm importieren aktiviert ist. Erfahren Sie mehr über [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Wählen Sie ein Marketo **Abonnement** und ein zu importierendes Programm aus. Klicken Sie auf **Weiter**.
 
@@ -57,12 +57,12 @@ Sobald der Import abgeschlossen ist, erhalten Sie eine E-Mail-Bestätigung.
 >
 >Sie müssen importierte Batch-Kampagnen neu planen und Trigger-Kampagnen aktivieren. Das System deaktiviert automatisch die Kampagnen für die Kampagne und den Trigger im importierten Programm.
 
-## Identifizieren Sie vorab erstellte Programm in der Marketing Programm-Bibliothek {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identifizieren Sie vorab erstellte Programm in der Marketo-Programm-Bibliothek {#identify-pre-built-programs-in-the-marketo-program-library}
 
-Die Marketing Programm Library enthält vordefinierte, getestete Programm, die Sie in Ihr Abonnement importieren können. Zu den verfügbaren Programmen gehören:
+Die Marketo Programm Library enthält vordefinierte, getestete Programm, die Sie in Ihr Abonnement importieren können. Zu den verfügbaren Programmen gehören:
 
 1. **Grundlegende Drip Nurture.** Sendet eine Reihe von E-Mails getrennt durch Warteschritte.
-1. **Data Management.** Behält die Datenintegrität mithilfe intelligenter Kampagnen bei.
+1. **Datenverwaltung.** Behält die Datenintegrität mithilfe intelligenter Kampagnen bei.
 1. **E-Mail mit Landingpage.** Sendet eine erste E-Mail mit einem Angebot, z. B. &quot;Dieses Whitepaper herunterladen&quot;. Fügt eine Bestätigungs- oder Erinnerungsmail hinzu. Beinhaltet eine Landingpage mit einem Formular.
 1. **E-Mail mit Fortschrittsstatus.** Sendet eine Mail-Nachricht mit einem nachverfolgbaren Link, auf den die Person klicken kann. Aktualisiert den Status der Progression für jede Person - Gesendet, Geöffnet, angeklickt usw.
 1. **Interessante Momente.** Erstellt interessante Momente für Ihr Verkaufsteam, um sie in der Schleife zu halten.
@@ -70,7 +70,7 @@ Die Marketing Programm Library enthält vordefinierte, getestete Programm, die S
 1. **Lebenszyklus 2.** Verwendet Scoring, um eine Person von neu zu marketingfähig zu bewegen.
 1. **Mobile E-Mail-Vorlage.** Eine reaktionsfähige E-Mail-Vorlage, die mit iPhone und Android getestet wurde. Bestimmte Versionen von Android-, MS Outlook-, Exchange- und Drittanbieter-Apps wie Gmail und Yahoo! Mobile Mail-Apps unterstützen kein CSS, das für reaktionsfähige Vorlagen erforderlich ist. Wir empfehlen Ihnen, vor dem Versenden von E-Mails einen Test durchzuführen.
 1. **Preisausschreiben beim Programm importieren.** Preisausschreiben Programm für diejenigen, die die Programm-Bibliothek ausprobieren! Genehmigen Sie einfach die E-Mails und die Landingpage und aktivieren Sie die intelligente Kampagne. Dann Ansicht die genehmigte Landingpage, füllen Sie das Formular aus und Sie werden eingegeben!
-1. **Verfügbare Kampagnen zum Verkauf** Bietet Ihren Vertriebsmitarbeitern eine Möglichkeit, Marketo-intelligente Kampagnen aus einem Dashboard in Ihrem CRM auszuführen.
+1. **Verfügbare Kampagnen zum Verkauf** Bietet Ihren Vertriebsmitarbeitern eine Möglichkeit, Marketo Smart-Kampagnen aus einem Dashboard in Ihrem CRM auszuführen.
 1. **Scoring - Spark Edition.** Demografische Bewertung und Verhaltens, die in einem einzigen Bewertungsfeld erfasst werden. Umfasst mehr als zwei Dutzend Kampagnen, die mit Scoring zusammenhängen.
 1. **Bewertung - Standard- und Select-Editionen.** Demografische Bewertung und Verhaltens, die in separaten Bewertungsfeldern erfasst werden. Umfasst mehr als zwei Dutzend Kampagnen, die mit Scoring zusammenhängen.
 1. **Synchronisieren Sie Neue Personen mit CRM.** Die Kampagne, die neue Leute mit Ihrem CRM-System synchronisiert. Er weist einem Personenstand den Status zu, dass er als nicht verkaufsbereit anerkannt wird.
@@ -84,7 +84,7 @@ Die Marketing Programm Library enthält vordefinierte, getestete Programm, die S
 
 ## Auswirkungen auf externe Assets bei Programm-Importen {#impact-on-external-assets-during-program-imports}
 
-Programme verwenden externe Assets wie E-Mail-Vorlagen, Vorlagen für Landingpages, Bilder, Formulare, Token und Programm-Tags. Sie haben die Möglichkeit zu konfigurieren, wie Landingpages- und Programm-Tags verarbeitet werden, und Marketo verwaltet den Rest automatisch.
+Programme verwenden externe Assets wie E-Mail-Vorlagen, Vorlagen für Landingpages, Bilder, Formulare, Token und Programm-Tags. Sie können konfigurieren, wie Landingpages- und Programm-Tags verarbeitet werden, und Marketo verwaltet den Rest automatisch.
 
 **E-Mail-Vorlagen:** E-Mail-Vorlagen werden automatisch importiert und erstellt, es sei denn, eine Vorlage mit demselben Namen ist vorhanden.
 
