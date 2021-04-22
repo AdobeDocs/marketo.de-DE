@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147029
-description: Status in der SFDC-Kampagne ändern - Marketing Docs - Produktdokumentation
-title: Status in der SFDC-Kampagne ändern
+description: Status in der SFDC-Kampagne ändern - Marketo Docs - Produktdokumentation
+title: Status in SFDC-Kampagne ändern
+exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
-# Status ändern in der SFDC-Kampagne {#change-status-in-sfdc-campaign}
+# Status in SFDC-Kampagne ändern {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Wenn ein Interessent in Salesforce nicht vorhanden ist oder noch nicht Mitglied 
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Suchen und wählen Sie zuerst die Salesforce **Kampagne**, in der sich der Datensatz befindet.
 
