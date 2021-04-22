@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146956
-description: Interessanter Moment - Marketing Docs - Produktdokumentation
+description: Interessanter Moment - Marketo Docs - Produktdokumentation
 title: Interessanter Moment
+exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # Interessanter Moment {#interesting-moment}
 
 ## Übersicht {#overview}
 
-Wenn Sie über Marketo Sales Insight verfügen, können Sie den Schritt **Interessantes Moment** verwenden, um Ihrem Vertriebsteam einen Einblick in die coolen Aktivitäten Ihrer Mitarbeiter zu geben.
+Wenn Sie über Marketo Sales Insight verfügen, können Sie den Flussschritt **Interessantes Moment** verwenden, um Ihrem Vertriebsteam einen Einblick in die coolen Aktivitäten Ihrer Mitarbeiter zu geben.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wählen Sie den interessanten Moment **type** aus, den Sie verwenden möchten.
 
