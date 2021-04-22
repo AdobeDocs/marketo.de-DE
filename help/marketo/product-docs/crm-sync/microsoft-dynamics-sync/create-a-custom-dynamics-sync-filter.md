@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437903
-description: Erstellen eines benutzerspezifischen Dynamiksynchronisierungsfilters - Marketo Docs - Produktdokumentation
+description: Erstellen eines benutzerspezifischen Dynamics Sync-Filters - Marketo Docs - Produktdokumentation
 title: Erstellen eines benutzerspezifischen Synchronisierungsfilters
+exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamik {#create-a-custom-dynamics-sync-filter}
 
@@ -24,16 +24,16 @@ So richten Sie einen Dynamics-Synchronisierungsfilter ein:
 
 >[!NOTE]
 >
->Sie müssen diese Änderungen in Dynamics CRM vornehmen, nicht in Ihrer Datenbank oder in Marketo.
+>Sie müssen diese Änderungen in Dynamics CRM vornehmen, nicht in Ihrer Datenbank oder Marketo.
 
-Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld und bestimmt anhand dieser Logik, über welche Datensätze synchronisiert werden soll:
+Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld und legt anhand dieser Logik fest, über welche Datensätze synchronisiert werden soll:
 
 | Feldwert | Mit Marketo synchronisieren? |
 |---|---|
 | Feld nicht vorhanden | Ja |
 | Feld ist leer | Ja |
 | Feld hat den Wert &quot;Ja&quot; | Ja |
-| Feld hat den Wert &quot;Nein&quot; | Nein |
+| Feld hat den Wert &quot;Nein&quot; | Anz |
 
 >[!CAUTION]
 >
@@ -41,7 +41,7 @@ Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld
 
 >[!PREREQUISITES]
 >
->Installieren Sie die neueste Version des Marketo-Plug-ins (3.0.0.1 oder höher). Gehen Sie zu Marketing > Admin > Microsoft Dynamics > Marketing-Lösung herunterladen.
+>Installieren Sie die neueste Version des Marketo-Plug-ins (3.0.0.1 oder höher). Gehen Sie zu Marketo > Admin > Microsoft Dynamics > Marketo Solution herunterladen.
 
 ## Create SyncToMkto Field {#create-synctomkto-field}
 
@@ -75,9 +75,9 @@ Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld
 
 1. Wiederholen Sie diesen Vorgang und erstellen Sie das Feld **SyncToMkto** für alle weiteren Entitäten, für die Sie die Synchronisierung einschränken möchten, z. B. Kontakt, Konto, Gelegenheit und benutzerdefinierte Entitäten.
 
-## Wählen Sie den Filter in Marketo {#select-the-filter-in-marketo}
+## Filter in Marketo auswählen{#select-the-filter-in-marketo}
 
-Auch wenn Sie Ihre erste Synchronisierung bereits durchgeführt haben, wählen Sie die Felder aus, die mit Marketo synchronisiert werden sollen.
+Auch wenn Sie die erste Synchronisierung bereits durchgeführt haben, wählen Sie die zu synchronisierenden Felder aus.
 
 1. Gehen Sie zu Admin und wählen Sie **MIcrosoft Dynamics**.
 
@@ -137,7 +137,7 @@ Im Folgenden finden Sie einige Implementierungsdetails, die wir dachten Sie soll
 
 1. Beginn eines Synchronisierungsvorgangs
 
-   Wenn sich der Wert **SyncToMkto** von **No** in **Yes** ändert, benachrichtigt Dynamics Marketo sofort, dass der Beginn diesen Datensatz synchronisiert. Wenn der Datensatz bereits vorhanden ist, wird er von Marketo aktualisiert. Andernfalls erstellt Marketo den Datensatz.
+   Wenn sich der Wert **SyncToMkto** von **No** in **Yes** ändert, benachrichtigt Dynamics Marketo sofort, dass der Beginn diesen Datensatz synchronisiert. Wenn der Datensatz bereits vorhanden ist, aktualisiert Marketo ihn. Andernfalls erstellt Marketo den Datensatz.
 
    >[!TIP]
    >
@@ -145,7 +145,7 @@ Im Folgenden finden Sie einige Implementierungsdetails, die wir dachten Sie soll
 
 1. Synchronisierungsvorgang beenden
 
-   Wenn ein Datensatz seinen SyncToMkto-Wert von Yes in No ändert, wird Marketo benachrichtigt, diesen Datensatz nicht mehr zu synchronisieren. Der Datensatz wird jedoch nicht gelöscht, sondern es werden keine Updates mehr angezeigt.
+   Wenn ein Datensatz seinen SyncToMkto-Wert von &quot;Ja&quot;in &quot;Nein&quot;ändert, wird Marketo benachrichtigt, diesen Datensatz nicht mehr zu synchronisieren. Der Datensatz wird jedoch nicht gelöscht, sondern es werden keine Updates mehr angezeigt.
 
 >[!MORELIKETHIS]
 >
