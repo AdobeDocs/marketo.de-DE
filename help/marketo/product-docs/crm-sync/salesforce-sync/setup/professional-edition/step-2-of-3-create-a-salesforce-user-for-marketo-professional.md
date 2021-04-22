@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571797
-description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Professional) - Marketing Docs - Produktdokumentation
-title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Professional)
+description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo (Professional) - Marketo Docs - Produktdokumentation
+title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo (Professional)
+exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Schritt 2 von 3: Salesforce-Benutzer für Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional} erstellen
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >[Schritt 1 von 3: hinzufügen Marketo Fields to Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
-In diesem Artikel passen Sie die Feldberechtigungen mit einem Salesforce-Seitenlayout an und erstellen einen Synchronisierungsbenutzer von &quot;Marketing-Salesforce&quot;.
+In diesem Artikel passen Sie die Feldberechtigungen mit einem Salesforce-Seitenlayout an und erstellen einen Marketo-Salesforce-Synchronisierungsbenutzer.
 
 ## Seitenlayouts festlegen {#set-page-layouts}
 
-Salesforce Professional stellt die Barrierefreiheit auf Feldebene mit Seitenlayouts ein, im Gegensatz zu Salesforce Enterprise/Unlimited Profilen. Wenn Sie diese Schritte ausführen, kann der Benutzer mit der Synchronisierung die benutzerdefinierten Felder aktualisieren.
+Salesforce Professional stellt die Barrierefreiheit auf Feldebene mit Seitenlayouts ein, im Gegensatz zu Salesforce Enterprise/Unlimited Profilen. Wenn Sie diese Schritte ausführen, kann der Marketo-Synchronisierungsbenutzer die benutzerdefinierten Felder aktualisieren.
 
 1. Geben Sie **Seitenlayouts** in die Navigationsleiste ein, ohne die Taste **Eingabetaste** zu drücken, und klicken Sie unter **Seiten-Layout** auf **Leads**.
 
@@ -39,32 +39,32 @@ Salesforce Professional stellt die Barrierefreiheit auf Feldebene mit Seitenlayo
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Geben Sie &quot;Markieren&quot;für **Abschnittsname** ein und klicken Sie auf **OK**.
+1. Geben Sie &quot;Marketo&quot;für **Abschnittsname** ein und klicken Sie auf **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klicken Sie auf das Feld **Akquisedatum** und ziehen Sie es in den Abschnitt **Markieren**.
+1. Klicken Sie auf das Feld **Akquisedatum** und ziehen Sie es in den Abschnitt **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
 1. Wiederholen Sie den obigen Schritt für die folgenden Felder:
 
-   * Akquise-Programm
-   * Akquise-Programm-ID
-   * Opt-out
-   * Inferated City
-   * Vorgestellte Firma
-   * Inferiertes Land
-   * Großraum
-   * Abgeleiteter Telefonbereichscode
-   * Postleitzahl
-   * Inferierte Staatsregion
-   * Interessentenbewertung
-   * Ursprünglicher Werber
-   * Ursprüngliche Suchmaschine
-   * Ursprünglicher Suchbegriff
-   * Ursprüngliche Quellinformationen
-   * Originalquellentyp
+   * Akquisitionsprogramm
+   * Akquisitionsprogramm-ID
+   * E-Mail-Abmeldung
+   * Abgeleiteter Ort
+   * Abgeleitetes Unternehmen
+   * Abgeleitetes Land
+   * Abgeleiteter Stadtbereich
+   * Abgeleitete Vorwahl
+   * Abgeleitete Postleitzahl
+   * Abgeleitetes Bundesland/abgeleitete Region
+   * Lead-Bewertung
+   * Ursprünglicher Verweis
+   * Ursprüngliche Such-Engine
+   * Ursprünglicher Suchausdruck
+   * Ursprüngliche Quelleninfo
+   * Ursprünglicher Quellentyp
 
    >[!NOTE]
    >
@@ -118,4 +118,4 @@ Ausgezeichnet! Jetzt haben Sie ein Konto, mit dem Marketo eine Verbindung zu Sal
 
 >[!MORELIKETHIS]
 >
->[Schritt 3 von 3: Connect Marketing und Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[Schritt 3 von 3: Marketo und Salesforce verbinden (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
