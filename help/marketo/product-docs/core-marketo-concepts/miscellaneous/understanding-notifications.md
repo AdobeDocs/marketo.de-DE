@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2952292
-description: Benachrichtigungen - Marketing-Dokumente - Produktdokumentation
+description: Benachrichtigungen - Marketo Docs - Produktdokumentation
 title: Benachrichtigungen
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Benachrichtigungen {#understanding-notifications}
 
-Benachrichtigungen halten Sie auf dem Laufenden über die Ereignis des Systems, die in Ihrem Marketing-Abonnement stattfinden. Fehlermeldungen bei Kampagnen informieren Sie beispielsweise über Fehler in Ihren intelligenten Kampagnen. CRM-Synchronisierungsbenachrichtigungen warnen Sie auf kritische Probleme bei der CRM-Synchronisierung, wie z. B. falsche Zugriffsberechtigungen oder ausbleibende Synchronisierung.
+Benachrichtigungen halten Sie auf dem Laufenden über die Ereignis des Systems, die in Ihrem Marketo-Abonnement stattfinden. Fehlermeldungen bei Kampagnen informieren Sie beispielsweise über Fehler in Ihren intelligenten Kampagnen. CRM-Synchronisierungsbenachrichtigungen warnen Sie auf kritische Probleme bei der CRM-Synchronisierung, wie z. B. falsche Zugriffsberechtigungen oder ausbleibende Synchronisierung.
 
 ## Übersicht {#overview}
 
@@ -25,7 +25,7 @@ Benachrichtigungen halten Sie auf dem Laufenden über die Ereignis des Systems, 
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
-## Anmelden bei Benachrichtigungen {#subscribe-to-notifications}
+## Benachrichtigungen abonnieren {#subscribe-to-notifications}
 
 Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
@@ -39,7 +39,7 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
 >[!NOTE]
 >
->In einigen Fällen enthält eine Benachrichtigung den Link &quot;Vollständige Liste&quot;, um eine CSV-Datei (Comma Separated Value) herunterzuladen, z. B. die Microsoft Dynamics Sync Errors-Datei. Marketo behält diese CSV-Dateien 30 Tage lang bei. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, erhalten Sie einen 404-Fehler.
+>In einigen Fällen enthält eine Benachrichtigung den Link &quot;Vollständige Liste&quot;, um eine CSV-Datei (Comma Separated Value) herunterzuladen, z. B. die Microsoft Dynamics Sync Errors-Datei. Marketo bewahrt diese CSV-Dateien 30 Tage lang auf. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, erhalten Sie einen 404-Fehler.
 
 >[!TIP]
 >
