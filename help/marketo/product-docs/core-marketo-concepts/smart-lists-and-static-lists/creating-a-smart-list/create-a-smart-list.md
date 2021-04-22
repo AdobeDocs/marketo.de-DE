@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557154
-description: Erstellen einer intelligenten Liste - Marketing Docs - Produktdokumentation
+description: Erstellen einer intelligenten Liste - Marketo Docs - Produktdokumentation
 title: Erstellen einer intelligenten Liste
+exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-
 # Erstellen einer Smart-Liste {#create-a-smart-list}
 
-Intelligente Listen ermöglichen es Ihnen, mithilfe einfacher Filter bestimmte Personengruppen zu finden. Hier ist, wie man eine erstellt.
+Mit Hilfe einfacher Filter erlauben intelligente Listen es Ihnen, bestimmte Personengruppen zu finden. Hier ist, wie man eine erstellt.
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
