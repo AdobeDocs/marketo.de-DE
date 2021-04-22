@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147078
-description: Benutzerpartition ändern - Marketing-Dokumente - Produktdokumentation
-title: Benutzerpartition ändern
+description: Benutzerpartition ändern - Marketo Docs - Produktdokumentation
+title: Personen-Partition ändern
+exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-
-# Personenpartition ändern {#change-person-partition}
+# Personen-Partition ändern {#change-person-partition}
 
 ## Übersicht {#overview}
 
@@ -19,7 +19,7 @@ Wenn Sie [Arbeitsbereiche und Partitionen](/help/marketo/product-docs/administra
 
 ![](assets/one-3.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wählen Sie die Partition aus, auf die Sie die Personen verschieben möchten.
 
