@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147009
-description: Change Programm Success - Marketing to Docs - Produktdokumentation
-title: Erfolg des Programms ändern
+description: Change Programm Success - Marketo Docs - Produktdokumentation
+title: Programmerfolg ändern
+exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Erfolg des Programms ändern {#change-program-success}
+# Programmerfolg ändern {#change-program-success}
 
 ## Übersicht {#overview}
 
@@ -19,7 +19,7 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit Programm S
 
 ![](assets/image2014-9-22-14-3a45-3a8.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wenn Sie in diesen Flussschritt ziehen, wird das Programm automatisch auf das Programm mit der bearbeiteten intelligenten Kampagne eingestellt.
 
@@ -45,4 +45,4 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit Programm S
    >
    >Sie können den Flussschritt zweimal verwenden, um sowohl das Erfolgskennzeichen als auch das Datum festzulegen.
 
-Großartig! Jetzt wissen Sie, wie Sie den Erfolg rückgängig machen und erzwingen können.
+Sehr gut! Jetzt wissen Sie, wie Sie den Erfolg rückgängig machen und erzwingen können.
