@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557130
-description: Intelligente Listen - Marketing-Dokumente - Produktdokumentation
+description: Intelligente Listen - Marketo Docs - Produktdokumentation
 title: Intelligente Listen
+exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 translation-type: tm+mt
-source-git-commit: 23339f1ffbe09e68143f3da963852b1347d5088a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
 # Intelligente Listen {#understanding-smart-lists}
 
-Intelligente Listen ermöglichen es Ihnen, mithilfe einfacher Filter bestimmte Personengruppen zu finden. Sie werden überall in Marketing eingesetzt, z. B. in intelligenten Kampagnen, Programmen, Berichten, Segmentierungen, Geschäftsmodellen, Interaktions-Programmen, dynamischen Inhalten und mehr. Je nach Bedarf können intelligente Listen an zwei Stellen in Marketo erstellt werden:
+Mit Hilfe einfacher Filter erlauben intelligente Listen es Ihnen, bestimmte Personengruppen zu finden. Sie werden überall in Marketo verwendet, z. B. in intelligenten Kampagnen, Programmen, Berichten, Segmentierungen, Geschäftsmodellen, Interaktionsmodellen, dynamischen Programmen und mehr. Je nach Bedarf können innerhalb von Marketo intelligente Listen an zwei Stellen erstellt werden:
 
 1. In der **Datenbank**, in der sie für die gemeinsame/globale Nutzung verfügbar sind (z. B. &quot;Alle nicht abonnierten Personen&quot;).
 1. In **Programmen** als lokale Assets, in denen sie eine Gruppe von Personen finden, die für dieses spezifische Programm relevant sind (z.B. &quot;Beteiligte Tradeshow&quot;).
