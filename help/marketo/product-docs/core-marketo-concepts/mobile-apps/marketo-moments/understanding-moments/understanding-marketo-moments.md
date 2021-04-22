@@ -1,24 +1,24 @@
 ---
 unique-page-id: 8781845
-description: Erläuterungen zu Marketo-Momenten - Marketing-Dokumente - Produktdokumentation
-title: Erläuterungen zu Markusmomenten
+description: Erläuterungen zu Marketo-Momenten - Marketo Docs - Produktdokumentation
+title: Marketo-Momente
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Die Marketo-Momente {#understanding-marketo-moments}
 
-# Erläuterungen zu Marketo-Momenten {#understanding-marketo-moments}
-
-Die Macht von Marketo liegt jetzt in Ihren Händen, buchstäblich! Vorschau und Umplanung von E-Mails direkt von Ihrem Handy oder iPad aus.
+Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Vorschau und Neuplanen von E-Mail direkt über Telefon oder iPad.
 
 >[!AVAILABILITY]
 >
 >
->Zugriff auf die Berechtigung für mobile Apps erforderlich. Wenden Sie sich an Ihren Marketing-Administrator, um [Ihre Rolle zu aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Zugriff auf die Berechtigung für mobile Apps erforderlich. Wenden Sie sich an Ihren Marketo-Administrator, um [Ihre Rolle zu aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -36,7 +36,7 @@ Hier sind die verschiedenen Ströme in Moments.
 >* Fertig: Alles, was fertig läuft oder wie getan markiert wurde, geht hier.
 
 
-OK, jetzt da wir das übrig haben, lasst uns einen Blick auf Marketo Moments auf einem Telefon werfen!
+OK, jetzt da wir das im Weg haben, lasst uns einen Blick auf Marketo Moments am Telefon werfen!
 
 ## Drei Arten von Karten {#three-kinds-of-cards}
 
@@ -72,7 +72,7 @@ Durch Tippen auf die drei Punkte wird ein Menü für Kartenaktionen geöffnet.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Großartig! Jetzt können Sie etwas geschehen lassen, indem Sie auf Folgendes tippen:
+Sehr gut! Jetzt können Sie etwas geschehen lassen, indem Sie auf Folgendes tippen:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -81,7 +81,7 @@ Großartig! Jetzt können Sie etwas geschehen lassen, indem Sie auf Folgendes ti
 >**Definition**
 >
 >* Favorit: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und wichtigsten sind, wenn man sie zu Favoriten macht.
->* Fertig: Fertig bekommt es von Ihrer Marketo Moments Ansicht (aber lässt es in Marketo, sicher und Sound).
+>* Fertig: Fertig bekommt es von Ihrer Marketo Moments Ansicht (aber lässt es in Marketo, sicher und Ton).
 >* Freigeben: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
 >* Beispiel senden (nur E-Mail): Verwenden Sie dies, damit andere überprüfen können, wie Ihre E-Mails aussehen, bevor Sie sie senden.
 >* Vorschauen-E-Mail (nur E-Mails): Es ist immer eine gute Idee, Ihre E-Mails im Voraus zu überprüfen.
@@ -121,7 +121,7 @@ Analytics-Stundenkarten zeigen Ihnen, wie Ihre E-Mails und Ereignisse in den let
 
 1. Erworbene Interessenten
 1. Neue Interessenten
-1. Abonnements aufheben
+1. Abbestellungen
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
@@ -144,7 +144,7 @@ Marketo Moments unterstützt die folgenden Betriebssystemversionen:
 * Apple iOS 8.0 und höher.
 * Android Version 4.1 und höher (im Grunde Jellybean und höher).
 
-Sind Sie bereit, mehr zu erfahren?
+Sind Sie bereit für mehr?
 
 >[!MORELIKETHIS]
 >
