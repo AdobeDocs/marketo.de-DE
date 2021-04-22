@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571836
-description: Microsoft Dynamics Sync - Kontosynchronisierung - Marketing Docs - Produktdokumentation
+description: Microsoft Dynamics Sync - Account Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Kontosynchronisierung
+exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamics Sync: Kontosynchronisierung {#microsoft-dynamics-sync-account-sync}
 
@@ -21,11 +21,11 @@ Nur eine Möglichkeit: von Dynamics bis Marketo.
 
 ## Wie funktionieren die Updates? {#how-do-the-updates-work}
 
-Wenn Sie ein Feld für ein Konto für einen Kontakt in Marketo aktualisieren, ändert es die Werte aller Kontakte, die zu diesem Konto in Marketo gehören. Es wird nicht mit Dynamics synchronisiert. Bei der nächsten Aktualisierung dieses Kontos in Dynamics werden jedoch alle Kontoinformationen in Marketo durch die Änderungen außer Kraft gesetzt.
+Wenn Sie ein Feld &quot;Konto&quot;für eine Kontaktperson in Marketo aktualisieren, ändert es die Werte aller Kontakte, die zu diesem Konto in Marketo gehören. Es wird nicht mit Dynamics synchronisiert. Bei der nächsten Aktualisierung dieses Kontos in Dynamics werden jedoch alle Kontoinformationen in Marketo durch die Änderungen außer Kraft gesetzt.
 
 ## Kann ich mit Marketo ein Konto erstellen? {#can-i-create-an-account-using-marketo}
 
-Anzahl Marketo kann keine Konten in Dynamics erstellen.
+Anz. Marketo kann keine Konten in Dynamics erstellen.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#which-fields-will-sync-to-marketo}
 
