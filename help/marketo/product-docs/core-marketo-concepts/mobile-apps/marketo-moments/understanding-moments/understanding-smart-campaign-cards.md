@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10093348
-description: Erläuterungen zu Smart-Kampagnen-Karten - Marketing-Dokumente - Produktdokumentation
+description: Verstehen von Karten mit intelligenter Kampagne - Marketo Docs - Produktdokumentation
 title: Karten mit intelligenter Kampagne
+exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
 # Grundlagen zu Smart-Kampagnen-Karten {#understanding-smart-campaign-cards}
 
-Verwenden Sie Marketo Moments, um jede Ausführung Ihrer Smart-Kampagnen von Ihrem Smartphone oder iPad aus Ansicht. Die Smart-Kampagne &quot;Marketo Moments&quot;stellt einen einzelnen Durchgang einer Kampagne dar. Bei jeder Ausführung der intelligenten Kampagne wird eine neue Karte angezeigt. Smart-Kampagne-Karten werden oben links mit einer Glühbirne markiert.
+Verwenden Sie Marketo Moments, um jede Ausführung Ihrer Smart-Kampagnen von Ihrem Smartphone oder iPad aus Ansicht. Die Marketo Moments-Chipkarte für die Kampagne stellt einen einzelnen Vorgang einer Kampagne dar. Bei jeder Ausführung der intelligenten Kampagne wird eine neue Karte angezeigt. Smart-Kampagne-Karten werden oben links mit einer Glühbirne markiert.
 
-Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt wurden, zeigt die Karte &quot;Marketo-Momente&quot;noch keine Kampagnen an. Sie werden in einer zukünftigen Version erscheinen.
+Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt werden, zeigt die Marketo-Karte &quot;Moments&quot;noch keine Kampagne an. Sie werden in einer zukünftigen Version erscheinen.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
