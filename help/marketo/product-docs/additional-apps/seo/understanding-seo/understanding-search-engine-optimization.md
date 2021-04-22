@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949176
-description: Die Suchmaschinenoptimierung - Marketing-Dokumente - Produktdokumentation
+description: Die Suchmaschinenoptimierung - Marketo Docs - Produktdokumentation
 title: Die Suchmaschinenoptimierung
+exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-
 # Die Suchmaschinenoptimierung {#understanding-search-engine-optimization}
 
-Suchmaschinenoptimierung (SEO) ist eine Sammlung von Best Practices, mit denen Sie Ihre Seiten vor den Benutzern von Suchmaschinen bringen können. Die SEO-App von Marketo hilft Ihnen bei der Verbesserung.
+Suchmaschinenoptimierung (SEO) ist eine Sammlung von Best Practices, mit denen Sie Ihre Seiten vor den Benutzern von Suchmaschinen bringen können. Die Marketo SEO-App hilft Ihnen bei der Verbesserung.
 
 Zunächst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 
@@ -41,7 +41,7 @@ Zunächst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 
 (Beispiel: Minimalistische Frauen mit Schuhgröße 9)
 
-**Optimierungsergebnis**: Die Optimierungsbewertung ist ein proprietärer Marktergebnis, der alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst. Er basiert auf einer Sammlung von Dutzenden vorbildlichen Verfahren. Ein Wert von 70 oder höher gibt an, dass eine Site recht gut optimiert ist.
+**Optimierungsergebnis**: Die Optimierungsbewertung ist ein proprietärer Marketo-Wert, der alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst. Er basiert auf einer Sammlung von Dutzenden vorbildlichen Verfahren. Ein Wert von 70 oder höher gibt an, dass eine Site recht gut optimiert ist.
 
 **On-Page-Optimierung**: Maßnahmen, die direkt innerhalb Ihrer Website selbst ergriffen werden können, um ihre Position auf den Suchmaschinenergebnisseiten zu verbessern.
 
