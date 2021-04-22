@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949184
-description: SEO - Einführung zu Seiten - Marketing-Dokumente - Produktdokumentation
+description: SEO - Verstehen von Seiten - Marketo Docs - Produktdokumentation
 title: SEO - Die Seiten
+exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # SEO - Die Seiten {#seo-understanding-pages}
 
@@ -35,7 +35,7 @@ Die Registerkarte &quot;Seiten&quot;zeigt Ihnen, wie gut einzelne Seiten Ihrer S
 
 | Spaltenname | Beschreibung |
 |---|---|
-| Titel | Titel und URL aller Seiten in Ihrer Domäne. Überprüfen Sie Ihre Domäne. |
+| Stellenbezeichnung | Titel und URL aller Seiten in Ihrer Domäne. Überprüfen Sie Ihre Domäne. |
 | Optimierungsergebnis | Die geheime Sauce, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
 | Links | Anzahl der verschiedenen Domänen mit mindestens 1 Inbound-Link zu Ihrer Site. |
 | Zielgruppe Suchbegriffe | Die Suchbegriffe, für die Sie die einzelnen Seiten optimieren möchten. [Hierfür benötigen Sie Ihre Eingabe](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
@@ -49,7 +49,7 @@ Auf der Registerkarte &quot;Probleme&quot;werden die Verbesserungen angezeigt, d
 | Spaltenname | Beschreibung |
 |---|---|
 | Probleme | Liste von umsetzbaren Elementen, die zur Verbesserung Ihrer Optimierungsbewertung beitragen. |
-| Auswirkung | Wie wichtig es für Ihren Gesamtwert ist. Korrigieren Sie zuerst die Elemente mit hoher Auswirkung! |
+| Impact | Wie wichtig es für Ihren Gesamtwert ist. Korrigieren Sie zuerst die Elemente mit hoher Auswirkung! |
 | Kategorie | Der Typ des gemeldeten Problems. |
 | Status | Ist die Aufgabe abgeschlossen oder noch geöffnet? Sobald Sie und Ihr Webmaster das Problem auf Ihrer Site beheben, sollte sich der Status in &quot;Gelöscht&quot;(grünes Häkchen) ändern. |
 
