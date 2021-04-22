@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147304
-description: Freigeben einer Filterdefinition im Marketingkalender - Marketing Docs - Produktdokumentation
+description: Freigeben einer Filterdefinition im Marketingkalender - Marketo Dokumente - Produktdokumentation
 title: Freigeben einer Filterdefinition im Marketingkalender
+exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Freigeben einer Filterdefinition im Marketingkalender {#sharing-a-filter-definition-in-the-marketing-calendar}
 
@@ -33,7 +33,7 @@ Filter können für verschiedene Benutzer freigegeben werden.
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. Kopieren Sie die URL und geben Sie sie für andere Marker-Benutzer frei.
+1. Kopieren Sie die URL und geben Sie sie für andere Marketo-Benutzer frei.
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
