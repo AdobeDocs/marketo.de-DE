@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359414
-description: Einfache Bewertung - Marketing-Dokumente - Produktdokumentation
+description: Einfache Bewertung - Marketo Docs - Produktdokumentation
 title: Einfache Bewertung
+exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
-
 
 # Einfache Bewertung {#simple-scoring}
 
 >[!PREREQUISITES]
 >
 >* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
->* [Landingpage mit einem Formular](landing-page-with-a-form.md)
+>* [Landing Page mit Formular](landing-page-with-a-form.md)
 
 
-## Schritt 1: Erstellen einer bewerteten Kampagne {#step-create-a-scoring-campaign}
+## Schritt 1: Bewertungskampagne erstellen {#step-create-a-scoring-campaign}
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
@@ -45,13 +45,13 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-1. Klicken Sie auf die Registerkarte **Intelligente Liste**.
+1. Klicken Sie auf die Registerkarte **“Intelligente Liste“**.
 
    ![](assets/six-1.png)
 
    Diese Kampagne soll immer dann ausgeführt werden, wenn ein Benutzer das **Testanforderungsformular** ausfüllt.
 
-1. Suchen Sie den Auslöser **Ausfüllen des Formulars** und ziehen Sie ihn auf die linke Arbeitsfläche.
+1. Suchen Sie den Trigger **Ausfüllen des Formulars** und ziehen Sie ihn auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Klicken Sie auf die Registerkarte **Fluss**.
+1. Klicken Sie auf die Registerkarte **“Flow“**.
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Gute Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**Das endgültige Handbuch zur Interessentenauswertung**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Gute Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**Die ultimative Anleitung für die Lead-Bewertung**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
 1. Klicken Sie auf die Registerkarte **Plan** und auf die Schaltfläche **Aktivieren**.
 
@@ -91,13 +91,13 @@ ht-degree: 0%
 >
 >Sobald diese Kampagne aktiv ist, wird sie jedes Mal ausgeführt, wenn ein Benutzer das Formular ausfüllt. Die Kampagne läuft, bis sie deaktiviert ist.
 
-## Schritt 2: Ausfüllen des Formulars {#step-fill-out-the-form}
+## Schritt 2: Formular ausfüllen {#step-fill-out-the-form}
 
 1. Wählen Sie die Landingpage aus, die Sie in der Landingpage [mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win erstellt haben.
 
    ![](assets/fourteen-1.png)
 
-1. Klicken Sie auf **Ansicht Genehmigte Seite**. Die Landingpage wird in einer neuen Registerkarte geöffnet.
+1. Klicken Sie auf **“Genehmigte Seite anzeigen“**. Die Landingpage wird in einer neuen Registerkarte geöffnet.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
@@ -128,6 +128,6 @@ Ihre persönlichen Daten werden in einem neuen Register oder Fenster geöffnet. 
 ![](assets/twenty.png)
 
 **Herzlichen Glückwunsch!** Sie haben eine bewertete Kampagne erstellt.
-[Auftrag 2: Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[◄ Aufgabe 2: Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Mission 4: E-Mail-Automatisches Reagieren ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Aufgabe 4: Automatische Antwort-E-Mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
