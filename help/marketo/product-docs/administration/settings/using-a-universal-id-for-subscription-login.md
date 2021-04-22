@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100311
-description: Verwenden einer universellen ID für die Abonnement-Anmeldung - Marketing Docs - Produktdokumentation
+description: Verwenden einer universellen ID für die Abonnement-Anmeldung - Marketo Docs - Produktdokumentation
 title: Verwenden einer universellen ID für die Abonnement-Anmeldung
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Verwenden einer universellen ID für die Abonnement-Anmeldung {#using-a-universal-id-for-subscription-login}
 
-Mit einer universellen ID können Sie mit einer einzigen Anmeldung auf mehrere MarketingTo-Abonnement zugreifen und schnell zwischen Abonnements wechseln. Sie können jedoch auch andere Anmeldedaten für Ihre Abonnement verwenden, wenn Sie möchten.
+Mit einer universellen ID können Sie mit einer einzigen Anmeldung auf mehrere Marketo-Abonnement zugreifen und schnell zwischen Abonnements wechseln. Sie können jedoch auch andere Anmeldedaten für Ihre Abonnement verwenden, wenn Sie möchten.
 
 Mit der universellen ID erstellen Sie weiterhin Support-Tickets für jedes Ihrer Abonnement.
 
@@ -21,7 +21,7 @@ Die Einstellungen auf Abonnement-Ebene werden für Benutzer berücksichtigt, die
 
 ## Einrichten einer universellen ID {#setting-up-a-universal-id}
 
-Von jeder einzelnen Instanz aus muss Ihr Marketo-Administrator Sie zu jedem Ihrer verschiedenen Abonnement mit derselben Anmeldung einladen. Marketo kann Ihre vorhandenen Anmeldungen nicht automatisch zusammenführen. Sobald Sie die universelle ID aktiviert haben, ist **Ihre Marketo-Instanz bis zu 30 Minuten lang nicht mehr verfügbar.** Wenn Sie eine größere Benutzerbasis haben, kann es etwas länger dauern.
+Ihr Marketo-Administrator muss Sie von jeder einzelnen Instanz zu jedem Ihrer verschiedenen Abonnement mit derselben Anmeldung einladen. Marketo kann Ihre vorhandenen Anmeldungen nicht automatisch zusammenführen. Sobald Sie die universelle ID aktiviert haben, ist **Ihre Marketo-Instanz bis zu 30 Minuten lang nicht mehr verfügbar.** Wenn Sie eine größere Benutzerbasis haben, kann es etwas länger dauern.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Von jeder einzelnen Instanz aus muss Ihr Marketo-Administrator Sie zu jedem Ihre
 
 ## Anmelden {#logging-in}
 
-Wenn Sie sich anmelden, um eine Einladung zu einem zweiten Abonnement mit einer universellen ID anzunehmen, wird die Anmeldeseite angezeigt. Hier müssen Sie ein Kontrollkästchen aktivieren, um die Geschäftsbedingungen zu akzeptieren. Nach der Annahme sehen Sie die normale Reset-Seite, nicht diese, für alle nachfolgenden Anmeldungen. Indem Sie die Geschäftsbedingungen akzeptieren, ermöglichen Sie es Marketo, Ihre grundlegenden Profil-Daten (z. B. Vorname, Nachname und E-Mail-Adresse) an die Rechenzentren an verschiedenen Orten zu verteilen, an denen Ihr Abonnement gehostet wird.
+Wenn Sie sich anmelden, um eine Einladung zu einem zweiten Abonnement mit einer universellen ID anzunehmen, wird die Anmeldeseite angezeigt. Hier müssen Sie ein Kontrollkästchen aktivieren, um die Geschäftsbedingungen zu akzeptieren. Nach der Annahme sehen Sie die normale Reset-Seite, nicht diese, für alle nachfolgenden Anmeldungen. Indem Sie die Geschäftsbedingungen akzeptieren, ermöglichen Sie Marketo, Ihre grundlegenden Profil-Daten (z. B. Vorname, Nachname und E-Mail-Adresse) an die Rechenzentren an verschiedenen Orten zu verteilen, an denen Ihr Abonnement gehostet wird.
 
 ![](assets/new-login-reduced-hands-name.png)
 
@@ -57,7 +57,7 @@ Mit einer universellen ID können Sie das Abonnement sehen, bei dem Sie angemeld
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
-Wenn Sie sich abmelden und wieder anmelden, meldet Marketo Sie automatisch in dem Abonnement an, bei dem Sie zuletzt angemeldet waren. Sie können dann bei Bedarf zu einem anderen Abonnement wechseln.
+Wenn Sie sich ab- und wieder anmelden, meldet Marketo Sie automatisch in dem Abonnement an, bei dem Sie zuletzt angemeldet waren. Sie können dann bei Bedarf zu einem anderen Abonnement wechseln.
 
 ## Community-Profile {#community-profiles}
 
@@ -65,11 +65,11 @@ Wenn Sie mehrere Abonnements haben, haben Sie möglicherweise mehrere Community-
 
 ## Mobile Plattform {#mobile-platform}
 
-Benutzer mit universeller ID können ihre Daten auf Marketo-Momenten und dem iPad-Ereignis-Check-in-Abonnement anzeigen, bei dem sie sich zuletzt angemeldet haben. Sie können Abonnement nicht von der Mobile-Plattform selbst ändern.
+Benutzer mit universeller ID können ihre Daten über Marketo Moments und die iPad-Ereignis-Checkin-Anwendung aus dem Abonnement anzeigen, bei dem sie sich zuletzt angemeldet haben. Sie können Abonnement nicht von der Mobile-Plattform selbst ändern.
 
 >[!MORELIKETHIS]
 >
 >* [hinzufügen Einmal-Anmeldung bei einem Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Benutzeranmeldung auf &quot;Nur SSO&quot;beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Einladen von Marketing-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
