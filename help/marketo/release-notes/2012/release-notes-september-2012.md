@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951111
-description: Versionshinweise - September 2012 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - September 2012 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - September 2012
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # Versionshinweise: September 2012 {#release-notes-september}
 
@@ -35,11 +35,11 @@ Profitieren Sie von Erkenntnissen und reduzieren Sie die Reibung, indem Sie Inte
 
 ## Landingpages auf Facebook {#publish-landing-pages-to-facebook} veröffentlichen
 
-Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie sie direkt auf Facebook veröffentlichen - inklusive Social-Apps, Formularen und der vollständigen Funktionalität der Marketo-Landingpages.
+Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie sie direkt in Facebook veröffentlichen - inklusive Social-Apps, Formularen und der vollen Funktionalität der Marketo-Landingpages.
 
 ## ReadyTalk-Ereignis-Adapter {#readytalk-event-adapter}
 
-Schließen Sie ein Marketo-Ereignis nahtlos an ein ReadyTalk-Meeting an. Verwenden Sie ein Marketo-Formular, um Registrierungspflichtige zu erfassen und sie automatisch in ReadyTalk zu registrieren. Durch eine bidirektionale Synchronisierung können Anwesenheitsinformationen in Marketo gefüllt werden.
+Schließen Sie nahtlos ein Marketo-Ereignis an ein ReadyTalk-Treffen an. Verwenden Sie ein Marketo-Formular, um Registrierungspflichtige zu erfassen und sie automatisch in ReadyTalk zu registrieren. Durch eine bidirektionale Synchronisierung können Anwesenheitsinformationen in Marketo gefüllt werden.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
