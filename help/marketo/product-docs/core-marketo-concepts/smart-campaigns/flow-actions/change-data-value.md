@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146960
-description: Datenwert ändern - MarketingToDocs - Produktdokumentation
+description: Datenwert ändern - Marketo Docs - Produktdokumentation
 title: Datenwert ändern
+exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # Datenwert ändern {#change-data-value}
 
 ## Übersicht {#overview}
 
-Mit Marketo können Sie den Wert eines Felds aktualisieren. Dazu verwenden Sie die Flussaktion **Datenwert ändern**.
+Mit Marketo können Sie den Feldwert aktualisieren. Dazu verwenden Sie die Flussaktion **Datenwert ändern**.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
@@ -23,7 +23,7 @@ Mit Marketo können Sie den Wert eines Felds aktualisieren. Dazu verwenden Sie d
 >
 >Sie können auch verhindern, dass ein Feld aktualisiert wird. Weitere Informationen finden Sie unter [Blockaktualisierungen für ein Feld](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Suchen und wählen Sie das Feld aus, dessen Wert Sie ändern möchten.
 
