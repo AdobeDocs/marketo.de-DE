@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147257
-description: Navigieren im Marketing-Kalender - Marketing-Dokumente - Produktdokumentation
+description: Navigieren im Marketingkalender - Marketo Docs - Produktdokumentation
 title: Navigieren im Marketingkalender
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Navigieren im Marketingkalender {#navigating-the-marketing-calendar}
 
@@ -17,7 +17,7 @@ Die Navigation durch den Marketingkalender ist einfach als ein, zwei, drei!
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie über eine [Marketing-Kalender-Lizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) verfügen. Andernfalls wird die Kachel &quot;Marketing-Kalender&quot;nicht in &quot;Mein Marker&quot;angezeigt.
+>Vergewissern Sie sich, dass Sie über eine [Marketingkalenderlizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) verfügen. Andernfalls wird die Kachel &quot;Marketingkalender&quot;nicht in &quot;Mein Marketo&quot;angezeigt.
 
 1. Gehen Sie zum **Marketingkalender**.
 
@@ -45,7 +45,7 @@ Die Agenda-Ansicht zeigt alle Ihre Einträge als Liste an.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Fantastisch! Das ist eine großartige Ansicht, um alles zu sehen, was geplant ist.
+   Fantastisch Das ist eine großartige Ansicht, um alles zu sehen, was geplant ist.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
@@ -63,7 +63,7 @@ Sie können auch diese Tastaturbefehle verwenden.
 | In der Zeit weiterleiten | alt/opt + down |
 | Zu &quot;heute&quot; gehen | alt/opt + t |
 
-Fantastisch! Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
+Fantastisch Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
 
 >[!MORELIKETHIS]
 >
