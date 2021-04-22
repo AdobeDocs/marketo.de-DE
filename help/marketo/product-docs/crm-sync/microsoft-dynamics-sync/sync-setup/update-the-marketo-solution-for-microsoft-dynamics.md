@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849029
-description: Aktualisierung der Marketing-Lösung für Microsoft Dynamics - Marketing Docs - Produktdokumentation
-title: Aktualisierung der Marketing-Lösung für Microsoft Dynamics
+description: Aktualisierung der Marketo Solution für Microsoft Dynamics - Marketo Docs - Produktdokumentation
+title: Marketo Solution für Microsoft Dynamics aktualisieren
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Aktualisieren Sie die Marketing Solution für Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
+# Marketo Solution für Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics} aktualisieren
 
 Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die Aktualisierung vom Admin-Bereich in Ihrem Konto herunterladen.
 
@@ -21,9 +21,9 @@ Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die 
 
 >[!CAUTION]
 >
->Sie müssen unbedingt die neueste Marketing-Lösung _herunterladen, bevor Sie eine Aktualisierung durchführen._
+>Sie müssen unbedingt die neueste Marketo-Lösung _herunterladen, bevor Sie eine Aktualisierung durchführen._
 
-1. Gehen Sie zum Bereich **Admin**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
    ![](assets/admin.png)
 
@@ -31,7 +31,7 @@ Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die 
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Wählen Sie **Marketing-Lösung herunterladen**.
+1. Wählen Sie **Marketo-Lösung herunterladen**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -39,7 +39,7 @@ Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die 
 
    ![](assets/msd-online.png)
 
-   Fantastisch! Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen. Wenn Sie mit den Installationsschritten nicht vertraut sind, wenden Sie sich bitte an Ihren Dynamics Admin.
+   Fantastisch Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen. Wenn Sie mit den Installationsschritten nicht vertraut sind, wenden Sie sich bitte an Ihren Dynamics Admin.
 
 ## Ausführen des Updates {#performing-the-update}
 
