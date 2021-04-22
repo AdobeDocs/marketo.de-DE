@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359904
-description: Wählen Sie Ihre Sprache, Ihr Gebietsschema und Ihre Zeitzone - Marketing Docs - Produktdokumentation
+description: Wählen Sie Ihre Sprache, Ihr Gebietsschema und Ihre Zeitzone - Marketo Docs - Produktdokumentation
 title: Sprache, Gebietsschema und Zeitzone auswählen
+exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Sprache, Gebietsschema und Zeitzone {#select-your-language-locale-and-time-zone} auswählen
 
@@ -17,16 +17,16 @@ Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich abgedeckt. S
 
 ## Unterstützte Sprachen {#supported-languages}
 
-* englisch
-* französisch
-* deutsch
+* Englisch
+* Französisch
+* Deutsch
 * Japanisch
-* portugiesisch
-* spanisch
+* Portugiesisch
+* Spanisch
 
 ## Ändern der Benutzersprache, des Gebietsschemas und der Zeitzone {#change-user-language-locale-and-time-zone}
 
-1. Melden Sie sich bei Marketing an und wählen Sie unter Ihrem Namen **Mein Konto**.
+1. Melden Sie sich bei Marketo an und wählen Sie unter Ihrem Namen **Mein Konto**.
 
    ![](assets/myaccount.png)
 
