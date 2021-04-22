@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378713
-description: Trigger von benutzerdefinierten Objektänderungen - Marketing to Docs - Produktdokumentation
+description: Trigger von benutzerdefinierten Objektänderungen - Marketo Docs - Produktdokumentation
 title: Trigger aus benutzerdefinierten Objektänderungen
+exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Trigger aus benutzerdefinierten Objektänderungen {#trigger-off-custom-object-changes}
 
@@ -18,12 +18,12 @@ ht-degree: 0%
 >Diese Funktion ist nur verfügbar:
 >
 >* Für Kunden in der Orion-Infrastruktur
->* Nur zur Verwendung mit benutzerdefinierten Objekten von Marketo, nicht mit benutzerdefinierten Objekten, die über die native Salesforce- oder Microsoft Dynamics-Integration synchronisiert werden
+>* Nur zur Verwendung mit benutzerdefinierten Marketo-Objekten, nicht mit benutzerdefinierten Objekten, die über die native Salesforce- oder Microsoft Dynamics-Integration synchronisiert werden
 >* Als Trigger, nicht als Filter
 
 >
 >
-Wenden Sie sich an den [Marketing-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um die Trigger zur Objektänderung zu aktivieren.
+Wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support), um die Trigger für benutzerdefinierte Objektänderungen zu aktivieren.
 
 In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussaktion beim Trigger eines benutzerdefinierten Objekts zu einer Person oder Firma ausführen. Sie können auch eine intelligente Liste erstellen, die eine *change* in einem benutzerdefinierten Objekt als Trigger verwendet. Verwenden Sie diese zum Beispiel, um eine E-Mail zu senden, wenn ein Kursname aktualisiert wird.
 
@@ -58,5 +58,5 @@ In der intelligenten Liste einer intelligenten Kampagne können Sie eine Flussak
    >[!NOTE]
    >
    >* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Erläuterungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
