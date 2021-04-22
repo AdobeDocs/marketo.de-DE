@@ -1,14 +1,14 @@
 ---
-description: Einrichten der Microsoft Dynamics CRM-App für Online - Marketing Docs - Produktdokumentation
+description: Einrichten der Microsoft Dynamics CRM-App für Online - Marketo Docs - Produktdokumentation
 title: Einrichten der Microsoft Dynamics CRM-App für Online
+exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
 
 ---
-
 
 # Einrichten der Microsoft Dynamics CRM-App für Online {#set-up-microsoft-dynamics-crm-app-for-online}
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. Navigieren Sie zu https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
-1. Befolgen Sie alle Schritte. Geben Sie für Schritt 3 einen relevanten Anwendungsnamen ein (z. B. &quot;Marketing-Integration&quot;). Wählen Sie unter &quot;Unterstützte Kontotypen&quot;nur in diesem Unternehmensverzeichnis die Option Konto.
+1. Befolgen Sie alle Schritte. Geben Sie für Schritt 3 einen relevanten Anwendungsnamen ein (z. B. &quot;Marketo Integration&quot;). Wählen Sie unter &quot;Unterstützte Kontotypen&quot;nur in diesem Unternehmensverzeichnis die Option Konto.
 
 1. Notieren Sie sich die Anwendungs-ID (ClientId). Sie müssen es später in Marketo eingeben.
 
@@ -44,7 +44,7 @@ Marketo authentifiziert sich bei der Azurblauen Anzeige mit OAuth unter Verwendu
 
 Weitere Referenzen [finden Sie hier](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20contains%20federated,are%20federated%20to%20aw%20AD.).
 
-Wenn Sie fertig sind, ist es an der Zeit, **die Dynamics CRM generierte Client-ID und das Geheimnis in Marketo** einzugeben.
+Wenn Sie fertig sind, ist es an der Zeit, **die Dynamics CRM-generierte Client-ID und das Geheimnis in Marketo** einzugeben.
 
 ## Geben Sie die Dynamics CRM-generierte Client-ID und den geheimen Schlüssel in Marketo ein. {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
