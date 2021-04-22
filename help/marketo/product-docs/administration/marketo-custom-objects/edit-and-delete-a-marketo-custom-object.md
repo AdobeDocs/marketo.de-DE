@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093690
-description: Bearbeiten und Löschen eines Markets für ein benutzerdefiniertes Objekt - Marketing Docs - Produktdokumentation
-title: Bearbeiten und Löschen eines Markierungen zu einem benutzerdefinierten Objekt
+description: Bearbeiten und Löschen eines Marketo-benutzerdefinierten Objekts - Marketo Docs - Produktdokumentation
+title: Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts
+exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
-# Bearbeiten und Löschen eines Markierungen für ein benutzerdefiniertes Objekt {#edit-and-delete-a-marketo-custom-object}
+# Bearbeiten und Löschen eines Marketo-benutzerdefinierten Objekts {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Verwenden Sie das Menü &quot;Aktionen für benutzerdefinierte Objekte&quot;, um ein benutzerdefiniertes Objekt zu bearbeiten oder zu löschen.
 
-1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Markieren Sie die Option**.
+1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -51,7 +51,7 @@ Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vor
 >
 >Sie können ein benutzerdefiniertes Objekt nicht wiederherstellen, nachdem Sie es gelöscht haben.
 
-1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Markieren Sie die Option**.
+1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
