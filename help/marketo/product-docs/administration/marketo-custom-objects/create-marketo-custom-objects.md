@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093192
-description: Erstellen von Marketing-zu-benutzerdefinierten Objekten - Marketing-Dokumente - Produktdokumentation
-title: Erstellen von Markierungen zu benutzerdefinierten Objekten
+description: Marketo-benutzerdefinierte Objekte erstellen - Marketo Docs - Produktdokumentation
+title: Benutzerdefinierte Marketo-Objekte erstellen
+exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
 
 ---
 
+# Benutzerdefinierte Marketo-Objekte erstellen {#create-marketo-custom-objects}
 
-# Erstellen von Markierungen zu benutzerdefinierten Objekten {#create-marketo-custom-objects}
-
-Verwenden Sie benutzerdefinierte Objekte in Marketing, um geschäftsspezifische Metriken zu verfolgen. Das kann alles sein, von Autos bis zu Kursen - was auch immer Sie in Marketo modellieren möchten, um Ihre Kampagnen zu führen.
+Verwenden Sie benutzerdefinierte Objekte in Marketo, um unternehmensspezifische Metriken zu verfolgen. Das kann alles sein, von Autos bis zu Kursen - egal, was Sie in Marketo für Ihre Kampagnen modellieren möchten.
 
 >[!NOTE]
 >
->Sie können benutzerdefinierte Objekte so einrichten, dass sie 1-zu-viele- oder viele-zu-viele-arbeiten. Sie erstellen das ursprüngliche Objekt auf dieselbe Weise, aber die Schritte unterscheiden sich, wenn Sie dem Objekt Felder hinzufügen, wenn Sie Beginn hinzufügen. Weitere Informationen finden Sie unter [Informationen zu &quot;Markieren zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)&quot;.
+>Sie können benutzerdefinierte Objekte so einrichten, dass sie 1-zu-viele- oder viele-zu-viele-arbeiten. Sie erstellen das ursprüngliche Objekt auf dieselbe Weise, aber die Schritte unterscheiden sich, wenn Sie dem Objekt Felder hinzufügen, wenn Sie Beginn hinzufügen. Weitere Informationen finden Sie unter [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Verwenden Sie benutzerdefinierte Objekte in Marketing, um geschäftsspezifische 
 
 Dieses Beispiel zeigt ein benutzerdefiniertes Objekt für den Autokraftverkehr zur Verwendung in einer Eins-zu-viele-Struktur. Später erstellen Sie ein benutzerdefiniertes Kursobjekt und ein Intermediarobjekt, das in einer Viele-zu-viele-Struktur verwendet werden kann.
 
-1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Zu benutzerdefinierten Objekten** markieren.
+1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
 
    ![](assets/image2016-1-18-13-3a12-3a19.png)
 
@@ -37,7 +37,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Objekt für den Autokraftverkehr z
 
    >[!NOTE]
    >
-   >Auf der Registerkarte &quot;Zu benutzerdefinierten Objekten markieren&quot;werden alle benutzerdefinierten Objekte auf der rechten Seite sowie Details zu allen genehmigten Objekten angezeigt, einschließlich der Anzahl der Datensätze und Felder bei der letzten Aktualisierung.
+   >Auf der Registerkarte &quot;Marketo Custom Objects&quot;werden alle benutzerdefinierten Objekte auf der rechten Seite sowie Details zu allen genehmigten Objekten angezeigt, einschließlich der Anzahl der Datensätze und Felder bei der letzten Aktualisierung.
 
 1. Geben Sie einen Anzeigenamen ein. Der API-Name und der Plural-Name werden automatisch gefüllt. Geben Sie eine Beschreibung ein (optional).
 
@@ -59,7 +59,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Objekt für den Autokraftverkehr z
 
    >[!NOTE]
    >
-   >Sie können &quot;Zu benutzerdefinierten Objekten markieren&quot;nur über einen Listen-Import oder die [API](https://developers.marketo.com/documentation/rest/) ausfüllen.
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder über die [API](https://developers.marketo.com/documentation/rest/) füllen.
 
 ## Benutzerdefiniertes Objekt für eine Viele-zu-viele-Struktur {#create-a-custom-object-for-a-many-to-many-structure} erstellen
 
@@ -69,7 +69,7 @@ Dieses Beispiel zeigt ein kursspezifisches Objekt, mit dem Sie eine Viele-zu-vie
 >
 >Für eine Viele-zu-viele-Beziehung müssen Sie keine Verknüpfung im benutzerdefinierten Objekt erstellen. Stattdessen fügen Sie dem intermediären Objekt zwei Links hinzu (siehe unten).
 
-1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Zu benutzerdefinierten Objekten** markieren.
+1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
@@ -95,7 +95,7 @@ Dieses Beispiel zeigt ein kursspezifisches Objekt, mit dem Sie eine Viele-zu-vie
 
    >[!NOTE]
    >
-   >Sie können &quot;Zu benutzerdefinierten Objekten markieren&quot;nur über einen Listen-Import oder die [API](https://developers.marketo.com/documentation/rest/) ausfüllen.
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder über die [API](https://developers.marketo.com/documentation/rest/) füllen.
 
 Der nächste Schritt besteht darin, dass Sie Ihr Zwischenobjekt erstellen (siehe unten). Aber bevor das geschieht, müssen Sie ein Feld erstellen, mit dem Sie eine Verbindung herstellen können.
 
@@ -107,7 +107,7 @@ Verwenden Sie ein intermediäres Objekt, um ein benutzerdefiniertes Objekt mit P
 >
 >Sie müssen kein Intermediarobjekt für eine 1-zu-viele benutzerdefinierte Objektstruktur erstellen.
 
-1. Klicken Sie auf **Admin** und wählen Sie in **Datenbankverwaltung** **Markieren Sie die Option**.
+1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
@@ -133,7 +133,7 @@ Verwenden Sie ein intermediäres Objekt, um ein benutzerdefiniertes Objekt mit P
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen &quot;Markieren in benutzerdefinierten Objektfeldern&quot;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [hinzufügen &quot;Markieren in benutzerdefinierten Objektverknüpfungsfeldern&quot;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Erläuterungen zu benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Benutzerdefinierte Objektfelder Hinzufügen Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Benutzerdefinierte Objektverknüpfungsfelder Hinzufügen Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
