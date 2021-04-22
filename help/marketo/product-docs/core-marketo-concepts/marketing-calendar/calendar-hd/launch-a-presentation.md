@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504120
-description: Präsentation starten - Marketing Docs - Produktdokumentation
+description: Präsentation starten - Marketo Docs - Produktdokumentation
 title: Präsentation starten
+exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Eine Präsentation {#launch-a-presentation} starten
 
@@ -18,7 +18,7 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 >[!AVAILABILITY]
 >
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klicken Sie erneut auf **Starten**. Dadurch melden Sie sich bei Marketo ab, damit die Präsentation sicher angezeigt werden kann.
+1. Klicken Sie erneut auf **Starten**. Dadurch werden Sie von Marketo abgemeldet, damit die Präsentation sicher angezeigt werden kann.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
