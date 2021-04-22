@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720253
-description: Versionshinweise - Dezember 2014 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Dezember 2014 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Dezember 2014
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Versionshinweise: Dezember 2014 {#release-notes-december}
 
-Die folgenden Funktionen sind in der Version vom Dezember 2014 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu finden Links zu detaillierten Artikeln für jede Funktion!
+Die folgenden Funktionen sind in der Version vom Dezember 2014 enthalten. Überprüfen Sie Ihre Marketo Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu finden Links zu detaillierten Artikeln für jede Funktion!
 
 ## Sales Insight-Berichte {#sales-insight-reports}
 
@@ -23,9 +23,9 @@ Der [Sales Insight-Bericht &quot;E-Mail-Leistung](/help/marketo/product-docs/mar
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Benutzerdefinierte Facebook-Audiencen {#facebook-custom-audiences}
+## Benutzerdefinierte Facebook-Zielgruppen {#facebook-custom-audiences}
 
-Nachdem Ihr Marketo-Administrator [Facebook über Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) hinzugefügt hat, können Sie eine benutzerspezifische Facebook-Audience ganz einfach erstellen, aktualisieren oder [durch Leads einer statischen oder intelligenten Liste von Marketo ersetzen. ](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) Suchen Sie nach dem neuen Facebook-Symbol am unteren Rand des Interessentenrasters einer statischen oder intelligenten Liste.
+Nachdem Ihr Marketo-Administrator [Facebook über Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) hinzugefügt hat, können Sie ganz einfach eine benutzerdefinierte Facebook-Audience mit Interessenten aus einer statischen oder intelligenten Marketo-Liste](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) erstellen, aktualisieren oder [ersetzen. Suchen Sie nach dem neuen Facebook-Symbol am unteren Rand des Interessentenrasters einer statischen oder intelligenten Liste.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -43,7 +43,7 @@ Nachdem Ihr Marketo-Administrator [Facebook über Admin > Launchpoint](/help/mar
 
 [Intelligente Listen, die für einen anderen Arbeitsbereich freigegeben werden, können beim Erstellen einer intelligenten Liste oder eines intelligenten Textflusses ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) referenziert werden.
 
-## Verbesserungen beim Listen-Import {#list-import-improvements}
+## Verbesserungen bei Listenimporten {#list-import-improvements}
 
 [Importieren Sie ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) Dateien, die in UTF-16, Shift-JIS oder EUC-JP kodiert sind. Wir unterstützen weiterhin UTF-8-kodierte Dateien.
 
@@ -55,13 +55,13 @@ Links in E-Mail-Skripten werden nun verfolgt und stehen im Bericht &quot;Leistun
 
 Wir haben eine neue Sicherheitsfunktion eingeführt, um automatisch HTML-Kodierungstoken zu kodieren, die im März 2015 standardmäßig aktiviert werden. Bis dahin können Sie diese Funktion in der Feldverwaltung aktivieren, um das Verhalten vorab zu testen. Alle Interessenten- und Firmen-Token werden kodiert, wenn sie in E-Mails oder Landingpages eingefügt werden. Optionen stehen auch für einzelne Felder zur Verfügung.
 
-## Neue ReST-API-Aufrufe {#new-rest-api-calls}
+## Neue ReST API-Aufrufe {#new-rest-api-calls}
 
 Drei neue Aufrufe für die Lead &amp; Aktivität ReST-API:
 
 ・ Interessentenanschlüsse abrufen
 
-・ Associate Lead
+· Lead zuordnen
 
 ・ Interessenten zusammenführen
 
