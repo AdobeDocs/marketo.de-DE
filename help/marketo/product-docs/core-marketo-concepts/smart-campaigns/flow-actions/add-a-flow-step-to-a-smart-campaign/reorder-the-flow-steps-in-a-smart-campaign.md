@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146985
-description: Die Flussschritte in einer intelligenten Kampagne neu anordnen - Marketing Docs - Produktdokumentation
+description: Flussschritte in einer intelligenten Kampagne neu anordnen - Marketo Docs - Produktdokumentation
 title: Flussschritte in einer intelligenten Kampagne neu anordnen
+exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Flussschritte in einer intelligenten Kampagne {#reorder-the-flow-steps-in-a-smart-campaign} neu anordnen
 
