@@ -2,18 +2,18 @@
 unique-page-id: 2953465
 description: SFDC-Synchronisierung - Umwandlung eines Interessenten in einen Kontakt in Salesforce - Marketo Docs - Produktdokumentation
 title: SFDC-Synchronisierung - Umwandlung eines Interessenten in einen Kontakt in Salesforce
+exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
 # SFDC-Synchronisierung: Konvertieren eines Interessenten in einen Kontakt in Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Stellen Sie sich drei verschiedene Szenarien in Salesforce vor: (nicht mit dem [Schritt \&quot;Person konvertieren\&quot; unter ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) in Markieren)
+Stellen Sie sich drei verschiedene Szenarien in Salesforce vor: (nicht mit dem Schritt [Benutzerfluss konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) in Marketo)
 
 1. Umrechnung eines Interessenten in einen **neuen Kontakt und ein neues Konto**
 1. Konvertieren eines Interessenten in einen **neuen Kontakt** in ein **vorhandenes Konto**
