@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557333
-description: Hinzufügen in einem Flussschritt neu anordnen - Marketing Docs - Produktdokumentation
+description: Hinzufügen in einem Flussschritt neu anordnen - Marketo Docs - Produktdokumentation
 title: Hinzufügen in einem Flussschritt neu anordnen
+exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # Hinzufügen in einem Flussschritt {#reorder-add-choice-in-a-flow-step} neu anordnen
 
