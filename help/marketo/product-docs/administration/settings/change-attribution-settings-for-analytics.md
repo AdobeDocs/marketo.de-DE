@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360217
-description: Ändern der Zuordnungseinstellungen für Analytics - Marketing Docs - Produktdokumentation
+description: Ändern der Zuordnungseinstellungen für Analytics - Marketo Docs - Produktdokumentation
 title: Ändern der Zuordnungseinstellungen für Analytics
+exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
 # Ändern der Zuordnungseinstellungen für Analytics {#change-attribution-settings-for-analytics}
 
-Sie können die Art und Weise ändern, wie Marketo Kontakte mit Chancen für First- und Multi-Touch-Zuordnungen, Interessentenumrechnungsmetriken und die vom Marketing beeinflusste Opportunitätskennzeichnung verknüpft.
+Sie können die Art und Weise ändern, in der Marketo Kontakte mit Chancen für First Touch- und Multi-Touch-Zuordnungen, Interessentenumrechnungsmetriken und die vom Marketing beeinflusste Opportunitätskennzeichnung verknüpft.
 
 Diese Einstellungen wirken sich auf den Umsatz-Explorer-Bericht unter den Analysen [Programm-Chancen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Chancen-Analyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) und Interessentenanwerbung aus. Dies wirkt sich auch auf den Programm Analyzer-Bericht aus.
 
@@ -27,7 +27,7 @@ Diese Einstellungen wirken sich auf den Umsatz-Explorer-Bericht unter den Analys
 
    >[!TIP]
    >
-   >Durch Ändern dieser Einstellung werden keine Markierungsdaten geändert. Sie ändert lediglich die Ausführung Ihrer Berichte. Dies kann jederzeit rückgängig gemacht werden.
+   >Durch Ändern dieser Einstellung werden keine Marketo-Daten geändert. Sie ändert lediglich die Ausführung Ihrer Berichte. Dies kann jederzeit rückgängig gemacht werden.
 
 1. Wählen Sie eine Option und klicken Sie auf **Speichern**.
 
@@ -45,4 +45,4 @@ Diese Einstellungen wirken sich auf den Umsatz-Explorer-Bericht unter den Analys
 
 >[!CAUTION]
 >
->Bei Verwendung von **Implizit** prüft Marketo immer alle mit dem Konto verknüpften Kontakte, unabhängig von der Rolle. **Marketo empfiehlt dringend die Verwendung des expliziten Modus**. Die Verwendung von Implizit kann zu Falsch-Positiv-Werten führen. d.h. Menschen, denen eine Chance zugeschrieben wird, obwohl sie keinen wirklichen Einfluss auf die Chancen haben. Verwenden Sie Implizit mit Vorsicht.
+>Bei Verwendung von **Implizit** prüft Marketo stets alle mit dem Konto verknüpften Kontakte unabhängig von der Rolle. **Marketo empfiehlt dringend den expliziten Modus**. Die Verwendung von Implizit kann zu Falsch-Positiv-Werten führen. d.h. Menschen, denen eine Chance zugeschrieben wird, obwohl sie keinen wirklichen Einfluss auf die Chancen haben. Verwenden Sie Implizit mit Vorsicht.
