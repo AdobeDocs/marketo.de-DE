@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092969
-description: Microsoft Dynamics Sync Filter - Merge - Marketing Docs - Produktdokumentation
+description: Microsoft Dynamics Sync Filter - Merge - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync Filter - Zusammenführen
+exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Microsoft Dynamics Sync-Filter: Zusammenführen {#microsoft-dynamics-sync-filter-merge}
 
@@ -21,7 +21,7 @@ Wenn ein Datensatz wahr ist und einer falsch, wird er knifflig.
 
 | Wenn der Synchronisierungsfilter für den verlorenen Datensatz: | und der Synchronisierungsfilter für den Gewinn-Datensatz lautet: | Dies ist das Ergebnis in Marketo |
 |---|---|---|
-| true | true | Die erfolgreichste Platte wird weiterhin mit Marketo synchronisiert |
-| False | False | Der erfolgreichste Datensatz wird weiterhin **nicht** mit Marketo synchronisiert |
-| False | true | Der erfolgreichste Datensatz wird mit Marketo synchronisiert |
-| true | False | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert |
+| Wahr | Wahr | Die erfolgreichste Aufzeichnung wird weiterhin mit Marketo synchronisiert |
+| Falsch | Falsch | Der erfolgreichste Datensatz wird weiterhin mit Marketo synchronisiert.**** |
+| Falsch | Wahr | Der erfolgreichste Datensatz wird mit Marketo synchronisiert |
+| Wahr | Falsch | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert |
