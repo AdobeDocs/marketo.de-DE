@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953405
-description: Einstellungen für Analytics-Verhalten bearbeiten - MarketingToDocs - Produktdokumentation
-title: Einstellungen für Analytics-Verhalten bearbeiten
+description: Einstellungen für Analytics-Verhalten bearbeiten - Marketo Docs - Produktdokumentation
+title: Bearbeiten Sie die Verhaltenseinstellungen der Analytics
+exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Einstellungen für Analytics-Verhalten bearbeiten {#edit-analytics-behavior-settings}
+# Bearbeiten Sie die Verhaltenseinstellungen der Analytics {#edit-analytics-behavior-settings}
 
 Sie können das Analyseverhalten auf Admin-Ebene für Kanal](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) festlegen, es kann aber auch auf Programm-Ebene bearbeitet werden. [ So geht es.
 
