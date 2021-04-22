@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8781974
-description: Verstehen von Ereignis Cards - Marketing Docs - Produktdokumentation
+description: Verstehen von Ereignis Cards - Marketo Docs - Produktdokumentation
 title: Einführung in Ereignis-Karten
+exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Die Ereignis-Karten {#understanding-event-cards}
 
@@ -29,7 +29,7 @@ Du bist gut!
 
 >[!MORELIKETHIS]
 >
->* [Erläuterungen zu Markusmomenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketo-Momente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Verstehen der E-Mail-Programm-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Ereignis-Programme](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
 
