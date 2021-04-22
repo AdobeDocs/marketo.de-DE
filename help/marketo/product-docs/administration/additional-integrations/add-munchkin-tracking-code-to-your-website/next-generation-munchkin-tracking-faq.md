@@ -2,14 +2,14 @@
 unique-page-id: 10096583
 description: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation - Marketo Docs - Produktdokumentation
 title: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation
+exl-id: 283189ac-c817-479a-b896-91233980608c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 0%
 
 ---
-
 
 # Nächste Generation Munchkin Tracking FAQ {#next-generation-munchkin-tracking-faq}
 
@@ -21,13 +21,13 @@ Hier sind die wichtigsten Dinge zu wissen:
 * Wir erhöhen die Anzahl der Web-Ereignisse (Webseite besuchen, Link auf Webseite anklicken), die wir erfassen können
 * Ihr Munchkin-Code wird sich nicht ändern, sodass keine Aktualisierungen auf Ihrer Website erforderlich sind
 
-## Wann wird mein Marketo-Abonnement auf Munchkin V2 sein? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## Wann wird mein Marketo Abonnement auf Munchkin V2 sein? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 Wir haben noch kein genaues Datum, aber bitte schauen Sie hier nach, um Updates zu erhalten.
 
 ## Muss ich Änderungen an meiner Munchkin-Verfolgung auf meiner Website vornehmen? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Anzahl Der Munchkin-Trackingcode bleibt gleich. An Ihrer Website müssen keine Änderungen vorgenommen werden.
+Anz. Der Munchkin-Trackingcode bleibt gleich. An Ihrer Website müssen keine Änderungen vorgenommen werden.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Anzahl Der Munchkin-Trackingcode bleibt gleich. An Ihrer Website müssen keine �
 
 Wir haben verändert, wie anonyme Menschen mit intelligenten Kampagnen interagieren. Früher flogen sie durch eine kluge Kampagne, genau wie bekannte Menschen. Der Filter &quot;Ist anonym&quot;wurde verwendet, um anzugeben, dass nur bekannte oder nur anonyme Personen durch die Kampagne fließen.
 
-Mit Munchkin V2 werden wir weiterhin alle anonymen Aktivitäten verfolgen; Sie können jedoch keine Filter mehr auf anonyme Personen anwenden. Beim Zeitpunkt der Konversion (wenn die Person in Marketo bekannt wird) werden alle Aktivitäten, die beim Anonymisieren der Aktivität aufgetreten sind, an das Personenprotokoll angehängt und durchlaufen die Kampagnen, für die sie sich qualifizieren.
+Mit Munchkin V2 werden wir weiterhin alle anonymen Aktivitäten verfolgen; Sie können jedoch keine Filter mehr auf anonyme Personen anwenden. Beim Zeitpunkt der Umrechnung (wenn die Person in Marketo bekannt wird) werden alle Aktivitäten, die beim Anonymisieren der Aktivität aufgetreten sind, an das Personenprotokoll angehängt und zu diesem Zeitpunkt durchlaufen sie die Kampagnen, für die sie sich qualifizieren.
 
 Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Smart-Kampagne oder einem Bericht), wird er nicht automatisch aus der Smart-Liste entfernt. Weitere Informationen finden Sie unten.
 
@@ -66,7 +66,7 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 Nach unserer Winterversion &#39;16, wenn Sie alte Smart-Kampagnen mit einer Smart-Liste haben, die den Filter &quot;Ist anonym&quot; enthält, passiert eines von zwei Dingen:
 
 1. Wenn die intelligente Liste den Filter &quot;Ist anonym = falsch&quot;hat, passiert nichts. Wir werden es einfach ignorieren.
-1. Wenn die Smart-Liste über den Filter &quot;Ist anonym = true&quot;verfügt, schlägt diese Kampagne fehl und Sie erhalten eine Benachrichtigung.
+1. Wenn die Smart-Liste über den Filter &quot;Ist anonym = wahr&quot;verfügt, schlägt diese Kampagne fehl und Sie erhalten eine Benachrichtigung.
 
 ## Ich benutze Marketo schon eine Weile. Woher weiß ich, welche meiner Kampagnen den Filter &quot;Ist anonym&quot; verwenden? {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
@@ -80,7 +80,7 @@ Sehen Sie sich die folgenden Links an:
 
 [Übersicht über Anonyme Lead-Upgrades](https://nation.marketo.com/docs/DOC-2937)
 
-[Anonyme Lead-Upgrades - Änderungen in der Benutzeroberfläche von Marketing](https://nation.marketo.com/docs/DOC-2938)
+[Anonyme Lead-Upgrades - Änderungen innerhalb der Marketo-Benutzeroberfläche](https://nation.marketo.com/docs/DOC-2938)
 
 [Anonyme Lead-Upgrades - Kundenaktion erforderlich](https://nation.marketo.com/docs/DOC-2939)
 
@@ -94,4 +94,4 @@ Sehen Sie sich die folgenden Links an:
 
 ## Ich habe mehr Fragen! Wie kann ich sie beantworten? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Bitte kontaktieren Sie die [community](https://nation.marketo.com/welcome). Sie können sich auch an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support) wenden. Sie werden sich freuen, Ihre Fragen zu beantworten.
+Bitte kontaktieren Sie die [community](https://nation.marketo.com/welcome). Sie können sich auch an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) wenden. Sie werden sich freuen, Ihre Fragen zu beantworten.
