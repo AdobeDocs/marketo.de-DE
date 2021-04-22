@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360364
-description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited - Marketing Docs - Produktdokumentation
-title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited)
+description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited - Marketo Docs - Produktdokumentation
+title: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)
+exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[Schritt 1 von 3: hinzufügen Marketo-Felder für Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein und erstellen ein Marketing-Salesforce-Integrationskonto.
+In diesem Artikel richten Sie Benutzerberechtigungen in Salesforce Profil ein und erstellen ein Marketo-Salesforce-Integrationskonto.
 
 ## Profil {#create-a-profile} erstellen
 
@@ -37,7 +37,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Wählen Sie **Standardbenutzer**, geben Sie dem Profil den Namen &quot;Marketing-Salesforce-Synchronisierung&quot;und klicken Sie auf **Speichern**.
+1. Wählen Sie **Standardbenutzer**, geben Sie dem Profil den Namen &quot;Marketo-Salesforce-Synchronisierung&quot;und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -73,8 +73,8 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
    * Konten
    * Kampagnen
    * Kontakte
-   * Interessenten
-   * Chancen
+   * Leads
+   * Opportunities
 
    >[!NOTE]
    >
@@ -96,10 +96,10 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 1. Gehen Sie auf der Detailseite zum Profil zu **Sicherheit auf Feldebene**. Klicken Sie auf **Ansicht**, um die Barrierefreiheit für die Objekte zu bearbeiten:
 
-   * Interessent
+   * Lead
    * Kontakt
    * Konto
-   * Chancen
+   * Opportunity
 
    >[!TIP]
    >
@@ -132,7 +132,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
    <td colspan="1" rowspan="1"><p>Feld Typ</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Ereignis</p></td> 
+   <td colspan="1" rowspan="1"><p>Veranstaltung</p></td> 
    <td colspan="1" rowspan="1"><p>Alle Felder</p></td> 
   </tr> 
   <tr> 
@@ -144,7 +144,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Erstellen Sie ein Marketing-Salesforce-Synchronisierungskonto {#create-marketo-salesforce-sync-account}
+## Marketo-Salesforce-Synchronisierungskonto {#create-marketo-salesforce-sync-account} erstellen
 
 >[!TIP]
 >
@@ -162,4 +162,4 @@ Schritt 2 von 2 ist abgeschlossen.
 
 >[!NOTE]
 >
->[Schritt 3 von 3: Connect Marketing und Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[Schritt 3 von 3: Marketo und Salesforce verbinden (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
