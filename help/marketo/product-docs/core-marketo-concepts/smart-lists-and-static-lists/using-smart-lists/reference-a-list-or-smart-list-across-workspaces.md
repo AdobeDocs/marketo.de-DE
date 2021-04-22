@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720377
-description: Referenzieren einer Liste oder intelligenten Liste über Arbeitsbereiche - Marketing to Docs - Produktdokumentation
+description: Referenzieren einer Liste oder intelligenten Liste über Arbeitsbereiche - Marketo Docs - Produktdokumentation
 title: Verweisen Sie auf eine Liste oder intelligente Liste in allen Arbeitsbereichen.
+exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Verweisen auf eine Liste oder intelligente Liste über Workspaces {#reference-a-list-or-smart-list-across-workspaces}
 
@@ -45,7 +45,7 @@ Listen und intelligente Listen können für verschiedene Arbeitsbereiche freigeg
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
-   Fantastisch! Diese Liste ist jetzt in beiden Arbeitsbereichen verfügbar.
+   Fantastisch Diese Liste ist jetzt in beiden Arbeitsbereichen verfügbar.
 
    >[!NOTE]
    >
