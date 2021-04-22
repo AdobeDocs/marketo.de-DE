@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360215
-description: Personalisierte URLs für Ihr Konto aktivieren (Administration) - Marketing Docs - Produktdokumentation
+description: Personalisierte URLs für Ihr Konto aktivieren (Administration) - Marketo Dokumente - Produktdokumentation
 title: Personalisierte URLs für Ihr Konto aktivieren (Administration)
+exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Personalisierte URLs für Ihr Konto aktivieren (Administration) {#enable-personalized-urls-for-your-account-administration}
 
@@ -31,7 +31,7 @@ Personalisierte URLs eignen sich hervorragend für Kampagnen von Drucksendungen.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-Gute Arbeit! Nachdem Sie die PURLs für Ihr Konto aktiviert haben, können Sie sie für einzelne Landingpages [aktivieren.](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
+Großartig gemacht! Nachdem Sie die PURLs für Ihr Konto aktiviert haben, können Sie sie für einzelne Landingpages [aktivieren.](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 >[!NOTE]
 >
