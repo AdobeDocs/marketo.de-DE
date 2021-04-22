@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360362
-description: Schritt 1 von 3 - Hinzufügen Marketing Fields to Salesforce (Enterprise/Unlimited) - Marketing Docs - Produktdokumentation
+description: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Schritt 1 von 3 - Hinzufügen Marketo Fields to Salesforce (Enterprise/Unlimited)
+exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '731'
+ht-degree: 9%
 
 ---
 
-
-# Schritt 1 von 3: hinzufügen Marketo-Felder an Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Schritt 1 von 3: hinzufügen Marketo-Felder zu Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ Marketo verwendet eine Reihe von Feldern, um bestimmte Arten von Marketinginform
 1. Ordnen Sie diese benutzerdefinierten Felder zwischen Interessenten und Kontakten zu, damit die Werte bei der Konvertierung in Salesforce übernommen werden.
 1. Sie können bei Bedarf weitere Felder erstellen (siehe Tabelle unten).
 
-Alle diese benutzerdefinierten Felder sind optional und müssen nicht synchronisiert werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
+Alle diese benutzerdefinierten Felder sind optional und müssen nicht mit Marketo und Salesforce synchronisiert werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
 
-## hinzufügen Marketo-Felder an Salesforce {#add-marketo-fields-to-salesforce}
+## hinzufügen von Marketo-Feldern auf Salesforce {#add-marketo-fields-to-salesforce}
 
 hinzufügen drei benutzerdefinierte Felder auf den oben aufgeführten Interessenten- und Kontaktobjekten in Salesforce. Wenn Sie weitere hinzufügen möchten, sehen Sie sich die Tabelle der verfügbaren Felder am Ende dieses Abschnitts an.
 
@@ -58,7 +58,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
   <tr> 
    <th> 
     <div>
-      Feldbeschriftung 
+      Feldbezeichnung 
     </div></th> 
    <th> 
     <div>
@@ -76,19 +76,19 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
  </thead> 
  <tbody> 
   <tr> 
-   <td>Ergebnis</td> 
+   <td>Bewertung</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>Nummer</td> 
+   <td>Zahl</td> 
    <td>Länge 10<br>Dezimalstellen 0 </td> 
   </tr> 
   <tr> 
-   <td>Akquise-Datum</td> 
+   <td>Akquirierungsdatum</td> 
    <td>mkto71_Acquisition_Date</td> 
    <td>Datum/Uhrzeit</td> 
    <td> </td> 
   </tr> 
   <tr> 
-   <td>Akquise-Programm</td> 
+   <td>Akquisitionsprogramm</td> 
    <td>mkto71_Acquisition_Programm</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
@@ -138,7 +138,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
   <tr> 
    <th> 
     <div>
-      Feldbeschriftung 
+      Feldbezeichnung 
     </div></th> 
    <th> 
     <div>
@@ -156,79 +156,79 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
  </thead> 
  <tbody> 
   <tr> 
-   <td>Akquise-Programm-ID</td> 
+   <td>Akquisitionsprogramm-ID</td> 
    <td>mkto71_Acquisition_Programm_Id</td> 
-   <td>Nummer</td> 
+   <td>Zahl</td> 
    <td>Länge 18<br>Dezimalstellen 0 </td> 
   </tr> 
   <tr> 
-   <td>Ursprünglicher Werber</td> 
+   <td>Ursprünglicher Verweis</td> 
    <td>mkto71_Original_Werber</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprüngliche Suchmaschine</td> 
+   <td>Ursprüngliche Such-Engine</td> 
    <td>mkto71_Original_Suchmaschine</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprünglicher Suchbegriff</td> 
+   <td>Ursprünglicher Suchausdruck</td> 
    <td>mkto71_Original_Search_Phrase</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprüngliche Quellinformationen</td> 
+   <td>Ursprüngliche Quelleninfo</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Originalquellentyp</td> 
+   <td>Ursprünglicher Quellentyp</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Inferated City</td> 
+   <td>Abgeleiteter Ort</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Vorgestellte Firma</td> 
+   <td>Abgeleitetes Unternehmen</td> 
    <td>mkto71_Inferred_Firma</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Inferiertes Land</td> 
+   <td>Abgeleitetes Land</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Großraum</td> 
+   <td>Abgeleiteter Stadtbereich</td> 
    <td>mkto71_Inferred_Metropolitan_Area</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Abgeleiteter Telefonbereichscode</td> 
+   <td>Abgeleitete Vorwahl</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Postleitzahl</td> 
+   <td>Abgeleitete Postleitzahl</td> 
    <td>mkto71_Inferred_Postal_Code</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Inferierte Staatsregion</td> 
+   <td>Abgeleitetes Bundesland/abgeleitete Region</td> 
    <td>mkto71_Inferred_state_Region</td> 
    <td>Text</td> 
    <td>Länge 255</td> 
@@ -268,4 +268,4 @@ Ein benutzerdefiniertes Feld auf dem Interessentenobjekt in Salesforce sollte ei
 
 >[!MORELIKETHIS]
 >
->[Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketing (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
