@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719310
-description: Salesforce-Synchronisierung aktivieren/deaktivieren - Marketing Docs - Produktdokumentation
+description: Salesforce-Synchronisierung aktivieren/deaktivieren - Marketo Docs - Produktdokumentation
 title: Salesforce-Synchronisierung aktivieren/deaktivieren
+exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce-Synchronisierung aktivieren/deaktivieren{#enable-disable-the-salesforce-sync}
 
