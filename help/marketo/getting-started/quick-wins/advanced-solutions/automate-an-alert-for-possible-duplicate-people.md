@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513680
-description: Automatisieren eines Warnhinweises für potenzielle Duplikat-Personen - Marketing-Dokumente - Produktdokumentation
+description: Automatisieren eines Warnhinweises für potenzielle Duplikat - Marketo Docs - Produktdokumentation
 title: Automatisieren einer Warnung für mögliche Duplikat-Personen
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Automatisieren eines Warnhinweises für mögliche Duplikat-Personen {#automate-an-alert-for-possible-duplicate-people}
 
@@ -17,7 +17,7 @@ Sie möchten bei jedem Erstellen eines Duplikats eine Warnung erhalten? So richt
 
 1. [Erstellen Sie eine neue intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Definieren Sie die folgende intelligente Liste:
 
-* Auslöser: **Person wird erstellt**
+* Trigger: **Person wird erstellt**
 * Filter: **Duplikat-Felder.** Feldname  **ist Vollständiger Name**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
@@ -44,7 +44,7 @@ Sie möchten bei jedem Erstellen eines Duplikats eine Warnung erhalten? So richt
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-Das ist&#39;s! Diese intelligente Kampagne wird jedes Mal ausgelöst, wenn in Marketo eine neue Person mit einem vorhandenen vollständigen Namen erstellt wird.
+Das ist&#39;s! Diese intelligente Kampagne wird jedes Mal, wenn in Marketo eine neue Person mit einem bereits vorhandenen vollständigen Namen erstellt wird, Trigger erhalten.
 
 >[!MORELIKETHIS]
 >
