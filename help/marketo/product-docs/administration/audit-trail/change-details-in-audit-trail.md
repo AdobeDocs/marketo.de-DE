@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11379928
-description: Details im Audit-Protokoll ändern - Marketing-Dokumente - Produktdokumentation
+description: Details im Prüfpfad ändern - Marketo Dokumente - Produktdokumentation
 title: Details im Prüfpfad ändern
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-
 # Details im Prüfpfad {#change-details-in-audit-trail} ändern
 
-Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abonnement tut. Hier sind die Details.
+Audit Trail-Angebote bieten einen großen Einblick, wer was in Ihrem Marketo-Abonnement tut. Hier sind die Details.
 
-## Asset-Prüfpfad {#asset-audit-trail}
+## Audit-Trail-Asset {#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -84,14 +84,14 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td colspan="1">Programm-Setup ändern</td> 
-   <td colspan="1">Löschen Sie die Zeitkosten. Wert "#" Programm Monat "yyyy-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat "yyyy-mm"</td> 
   </tr> 
   <tr> 
-   <td>Export</td> 
+   <td>Exportieren</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>Email</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>E-Mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Erstellen</td> 
    <td>Erstellt mit Vorlage "Vorlagenname" <br>oder <br>Kloniert aus "Asset-Name"</td> 
   </tr> 
@@ -117,7 +117,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Die Segmentierung wurde entfernt</td> 
+   <td>Segmentierung wurde entfernt</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -125,7 +125,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Entferntes Snippet</td> 
+   <td>Snippet wurde entfernt</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -137,7 +137,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Modul bearbeiten <code>"<module name>" <attribute></code> auf "value"</td> 
+   <td>Modul bearbeiten <module name><attribute> auf "value"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -233,7 +233,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td colspan="1">Programm-Setup ändern</td> 
-   <td colspan="1">Löschen Sie die Zeitkosten. Wert "#" Programm Monat "yyyy-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat "yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td rowspan="8">E-Mail-Vorlage</td> 
@@ -343,7 +343,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Programm-Setup ändern</td> 
-   <td>Ändern des Status des Programms Neuer Wert "ein/aus" Alter Wert "aus/ein"</td> 
+   <td>Programmstatus ändern. Neuer Wert "ein/aus" Alter Wert "aus/ein"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programm-Setup ändern</td> 
@@ -355,10 +355,10 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td colspan="1">Programm-Setup ändern</td> 
-   <td colspan="1">Löschen Sie die Zeitkosten. Wert "#" Programm Monat "yyyy-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat "yyyy-mm"</td> 
   </tr> 
   <tr> 
-   <td>Export</td> 
+   <td>Exportieren</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
@@ -424,14 +424,14 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td colspan="1">Programm-Setup ändern</td> 
-   <td colspan="1">Löschen Sie die Zeitkosten. Wert "#" Programm Monat "yyyy-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat "yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programm-Setup ändern</td> 
    <td colspan="1">Ereignis-Partner "partner_name" hinzugefügt</td> 
   </tr> 
   <tr> 
-   <td>Export</td> 
+   <td>Exportieren</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
@@ -456,9 +456,9 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Gelöschtes Token "token_name"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Forms</td> 
+   <td rowspan="8">Formulare</td> 
    <td>Erstellen</td> 
-   <td>Bald. Weitere Informationen oder Klonen aus "Formulardame"</td> 
+   <td>Demnächst verfügbar. Weitere Informationen oder Klonen aus "Formulardame"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -474,11 +474,11 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Bearbeiten von Formulareinstellungen </td> 
+   <td>Bearbeitete Formulareinstellungen </td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Bearbeiten von Felddetails</td> 
+   <td>Bearbeitete Felddetails</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
@@ -489,12 +489,12 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>In "Design Studio"in den Ordner "Folder name"<br>oder<br>In "Marketing-Aktivitäten"in Programm "Programm-Name"verschoben</td> 
   </tr> 
   <tr> 
-   <td>Forms</td> 
+   <td>Formulare</td> 
    <td>Genehmigen</td> 
    <td>Verwendet von # Assets </td> 
   </tr> 
   <tr> 
-   <td rowspan="9">Landingpage</td> 
+   <td rowspan="9">Landing Page</td> 
    <td>Erstellen</td> 
    <td>Erstellt mit Vorlage "Vorlagenname" <br>oder <br>Kloniert aus "Asset-Name"</td> 
   </tr> 
@@ -539,7 +539,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Landingpage-Vorlage</td> 
+   <td rowspan="8">Landing Page-Vorlage</td> 
    <td>Erstellen</td> 
    <td><p>Leer<br>oder<br>Kloniert aus "Asset-Name"</p></td> 
   </tr> 
@@ -560,7 +560,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>In "Ordnername" <br>Name des geklonten Assets geklont</td> 
   </tr> 
   <tr> 
-   <td>Export</td> 
+   <td>Exportieren</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
@@ -577,7 +577,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td>Export</td> 
+   <td>Exportieren</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
@@ -647,7 +647,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Kloniert aus "Name der intelligenten Liste"</td> 
   </tr> 
   <tr> 
-   <td>Export</td> 
+   <td>Exportieren</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
@@ -671,7 +671,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Zeigt eine Momentaufnahme des aktuellen Status, einschließlich der Namen und Werte von Filtern und Triggern </td> 
   </tr> 
   <tr> 
-   <td rowspan="11">Snippet</td> 
+   <td rowspan="11">Ausschnitt</td> 
    <td>Erstellen</td> 
    <td><p>Leer<br>oder<br>Kloniert aus "Snippet-Name"</p></td> 
   </tr> 
@@ -681,7 +681,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Die Segmentierung wurde entfernt</td> 
+   <td>Segmentierung wurde entfernt</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -708,7 +708,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Verwendet von # Assets</td> 
   </tr> 
   <tr> 
-   <td>Mit Kein Entwurf genehmigen</td> 
+   <td>Genehmigen ohne Entwurf</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
@@ -718,7 +718,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
  </tbody> 
 </table>
 
-## Admin-Prüfpfad {#admin-audit-trail}
+## Audit-Trail-Verwaltung {#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -733,7 +733,7 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <th>Details ändern</th> 
   </tr> 
   <tr> 
-   <td>IP-Beschränkungen</td> 
+   <td>IP-Einschränkungen</td> 
    <td>Bearbeiten</td> 
    <td>Die IP-Beschränkungen wurden wie folgt geändert: Zulässiger/blockierter "Block", IP-Adresse "#", IP-Beschränkungen deaktiviert ""</td> 
   </tr> 
@@ -747,12 +747,12 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
    <td>Partition "partition name" gelöscht</td> 
   </tr> 
   <tr> 
-   <td>Kennwortstärke</td> 
+   <td>Passwortsicherheit</td> 
    <td>Bearbeiten</td> 
    <td>Kennwortsicherheit wurde in Vorlage geändert: Standardsicherheit, Mindestlänge: #, unten oben: #, Zahl: #, Groß-/Kleinschreibung: # , Ablauf : #, Sitzungs-Timeout: #</td> 
   </tr> 
   <tr> 
-   <td rowspan="3">Rolle<br><br></td> 
+   <td rowspan="3">Stellenbeschreibung<br><br></td> 
    <td>Erstellen</td> 
    <td>Rolle erstellt mit "Rollenname"(HINWEIS: Wenn Sie weitere Informationen zu den hinzugefügten Berechtigungen benötigen, wenden Sie sich bitte an den Support) - <br>Zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an</td> 
   </tr> 
@@ -813,4 +813,3 @@ Audit Trail-Angebot bieten einen großen Einblick, wer was in Ihrem Marketo-Abon
 >[!MORELIKETHIS]
 >
 >[Filtern im Prüfpfad](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
