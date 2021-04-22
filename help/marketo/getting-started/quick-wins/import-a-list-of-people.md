@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359418
-description: Liste von Personen importieren - Marketing-Dokumente - Produktdokumentation
+description: Eine Liste von Personen importieren - Marketo Docs - Produktdokumentation
 title: Eine Liste von Personen importieren
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Eine Liste von Personen {#import-a-list-of-people} importieren
 
@@ -43,7 +43,7 @@ In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulat
 >
 >Geben Sie Ihre echte E-Mail-Adresse in die CSV-Datei ein, damit Sie die Pflege-E-Mails erhalten können, die Sie bei der nächsten Mission senden werden.
 
-## Schritt 2: Programm {#step-create-a-program} erstellen
+## Schritt 2: Programm erstellen {#step-create-a-program}
 
 1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
 
@@ -65,7 +65,7 @@ In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulat
 >
 >Ereignis-Programm treten an bestimmten Daten auf. Erfahren Sie mehr über [**Ereignis**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
-## Schritt 3: Importieren Sie Ihre Tabelle in das Marketing {#step-import-your-spreadsheet-into-marketo}
+## Schritt 3: Importieren der Tabelle in Marketo {#step-import-your-spreadsheet-into-marketo}
 
 1. Klicken Sie in **Mein Programm für die Diashow** auf **Neu** und wählen Sie **Neues lokales Element**.
 
@@ -100,11 +100,11 @@ In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulat
    >Wenn Sie im Listen-Importmodus **Neue Personen und Updates überspringen** wählen, haben Sie keine Auswirkungen auf vorhandene Personendaten oder auf Aktivitäten. Verwenden Sie diesen Modus, wenn Sie eine schnelle, vorgefilterte statische Liste von vorhandenen Personen zur Verwendung in Ihren Marketing-Aktivitäten benötigen. Die Auswahl dieses Modus führt zu:
    >
    > * Neue Personenerstellung überspringen
-   > * Aktualisierung des Benutzerfelds überspringen
-   > * Protokollierung von Aktivitäten überspringen
+   > * Personen-Feldaktualisierungen überspringen
+   > * Aktivitätsprotokollierung überspringen
 
 
-1. Ordnen Sie die Spaltenfelder Ihrer Liste dem jeweiligen Markierungsfeld zu und klicken Sie auf **Weiter**.
+1. Ordnen Sie die Spaltenfelder Ihrer Liste dem jeweiligen Marketo-Feld zu und klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -114,7 +114,7 @@ In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulat
 
    >[!NOTE]
    >
-   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **Ignore** im Dropdownmenü &quot;Feld markieren&quot;.
+   >Wenn keine Felder importiert werden sollen, wählen Sie im Dropdown-Menü &quot;Marketo-Feld&quot;die Option **Ignorieren**.
 
 1. Wählen Sie **Mein Tradeshow-Programm** für das **Akquise-Programm** und klicken Sie dann auf **Import**.
 
@@ -132,12 +132,12 @@ In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulat
 >
 >Sie können den Erfolg Ihres Programms analysieren, indem Sie die Programm-Mitgliedschaft verfolgen. Erfahren Sie mehr über [**Programm**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
-## Dienstabschluss {#mission-complete}
+## Aufgabe abgeschlossen {#mission-complete}
 
-Ihre Messebesucher sind jetzt Mitglieder Ihres Marketo Programms!
+Ihre Messeteilnehmer sind nun Mitglieder Ihres Marketo-Programms!
 
 <br> 
 
 [Auftrag 4: Automatische E-Mail-Antwort](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Mission 6: Tropfen, Tropfen, Nurtur ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Aufgabe 6: Schrittweises Lead-Nurturing ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
