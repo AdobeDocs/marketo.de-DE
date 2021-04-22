@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951107
-description: Versionshinweise - Dezember 2012 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Dezember 2012 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Dezember 2012
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Versionshinweise: Dezember 2012 {#release-notes-december}
 
 Die Dezember-Version enthält die viel erwartete Funktion **An Freunde weiterleiten** sowie einige weitere Goodies! Beachten Sie, dass Funktionen, die mit einem Sternchen (*) gekennzeichnet sind, nur in der Select Edition und in RCA (Umsatz-Cycle-Analyse) verfügbar sind.
 
-## An Freunde weiterleiten {#forward-to-friend}
+## An einen Freund weiterleiten {#forward-to-friend}
 
 Aktivieren Sie die Freigabe von Inhalten für andere, indem Sie in Ihre E-Mails einen Link **An Freunde weiterleiten** einfügen. Die Hinzufügung neuer Filter und Trigger hilft Ihnen, Ihre Einflussnehmer zu identifizieren, indem Sie die Benutzer identifizieren, die eine E-Mail weitergeleitet haben, sowie diejenigen, die die weitergeleiteten E-Mails erhalten haben.
 
@@ -29,7 +29,7 @@ Verwenden Sie die entsprechenden Trigger und Filter, um Benutzer zu identifizier
 
 ## Granuläre Administratorberechtigungen {#granular-admin-permissions}
 
-Unsere neueste Version bietet Ihnen mehr Zugriff und Kontrolle über Admin-Rollen, indem Sie den Zugriff auf verschiedene Funktionen im Marketing Admin-Bereich für jede Rolle steuern. Wenn Sie eine neue Rolle erstellen, können Sie bestimmte Admin-Funktionen zuweisen, auf die diese Rolle zugreifen kann.
+Unsere neueste Version bietet Ihnen mehr Zugriff und Kontrolle über Admin-Rollen, indem Sie den Zugriff auf verschiedene Funktionen im Marketo Admin-Bereich für jede Rolle steuern. Wenn Sie eine neue Rolle erstellen, können Sie bestimmte Admin-Funktionen zuweisen, auf die diese Rolle zugreifen kann.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -66,7 +66,7 @@ hinzufügen benutzerspezifischen Opportunity-Felder, um Ihre Programm Opportunit
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Kampagne Inspector {#campaign-inspector}
+## Kampagnenprüfung {#campaign-inspector}
 
 Haben Sie sich schon einmal gefragt, welche Kampagnen eine bestimmte Flussaktion verwenden, z. B. &quot;Punktzahl ändern&quot;oder &quot;Kampagne anfordern&quot;? Oder wo wird ein bestimmter Filter verwendet? Mit dem neuen Kampagne Inspector (verfügbar über die Schatztruhe) können Sie diese Kampagnen sowie aktive Kampagnen und Kampagnen mit Fehlern identifizieren.
 
