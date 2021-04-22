@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13795802
-description: Deaktivieren Sie E-Mail-Benachrichtigungen an Interessenteninhaber - Marketing-Dokumente - Produktdokumentation
+description: Deaktivieren Sie E-Mail-Benachrichtigungen an Interessenteninhaber - Marketo Dokumente - Produktdokumentation
 title: E-Mail-Benachrichtigungen an Interessenteninhaber deaktivieren
+exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # Deaktivieren Sie E-Mail-Benachrichtigungen an Interessenteninhaber {#turn-off-email-notifications-to-lead-owner}
 
