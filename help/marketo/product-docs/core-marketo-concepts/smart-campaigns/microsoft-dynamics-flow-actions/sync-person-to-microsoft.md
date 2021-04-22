@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7514027
-description: Synchronisieren von Personen mit Microsoft - Marketing Docs - Produktdokumentation
-title: Person mit Microsoft synchronisieren
+description: Synchronisieren von Personen mit Microsoft - Marketo Docs - Produktdokumentation
+title: Personen mit Microsoft synchronisieren
+exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
-# Person mit Microsoft synchronisieren {#sync-person-to-microsoft}
+# Personen mit Microsoft synchronisieren {#sync-person-to-microsoft}
 
 Diese Funktion ist nur für diejenigen, die Marketo mit Microsoft Dynamics integrieren.
 
 ## Übersicht {#overview}
 
-Mit diesem Flussschritt fügen Sie von Marketo erstellte Personen in Ihr Dynamics CRM ein.
+Mit diesem Flussschritt fügen Sie Marketo-erstellte Mitarbeiter in Ihr Dynamics CRM ein.
 
 ![](assets/one.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 Sie können einen Dynamics-Benutzer als Eigentümer festlegen.
 
