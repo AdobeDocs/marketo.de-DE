@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356426
-description: Ändern des Inhabers in Microsoft - Marketing Docs - Produktdokumentation
+description: Ändern des Inhabers in Microsoft - Marketo Docs - Produktdokumentation
 title: Ändern des Inhabers in Microsoft
+exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ändern des Inhabers in Microsoft {#change-owner-in-microsoft}
 
@@ -17,7 +17,7 @@ Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewi
 
 >[!NOTE]
 >
->Dieser Flussschritt funktioniert nur bei Triggern **, nicht bei Filtern, in Ihrer intelligenten Kampagne.**
+>Dieser Flussschritt funktioniert nur, wenn er mit Triggern **, nicht mit Filtern, in Ihrer intelligenten Kampagne verwendet wird.**
 
 ![](assets/one-1.png)
 
