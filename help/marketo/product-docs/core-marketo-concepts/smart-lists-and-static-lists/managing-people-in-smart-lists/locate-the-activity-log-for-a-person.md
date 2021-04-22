@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472404
-description: Suchen Sie das Aktivitäten-Protokoll für eine Person - Marketing Docs - Produktdokumentation
+description: Suchen Sie das Aktivitäten-Protokoll für eine Person - Marketo Docs - Produktdokumentation
 title: Suchen Sie das Benutzerprotokoll für eine Aktivität
+exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
 # Suchen Sie das Aktivitäten-Protokoll für eine Person {#locate-the-activity-log-for-a-person}
 
-Das Protokoll der Aktivität ist die ultimative Quelle der Wahrheit. Das ist die komplette Geschichte der Journey einer Person in Marketo.
+Das Protokoll der Aktivität ist die ultimative Quelle der Wahrheit. Das ist die vollständige Geschichte der Journey einer Person in Marketo.
 
 1. Gehen Sie zur Datenbank ****.
 
