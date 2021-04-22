@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147027
-description: Person mit dem SFDC synchronisieren - Marketing Docs - Produktdokumentation
-title: Person mit dem SFDC synchronisieren
+description: Person mit dem SFDC synchronisieren - Marketo Docs - Produktdokumentation
+title: Person mit SFDC synchronisieren
+exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # Person mit SFDC synchronisieren {#sync-person-to-sfdc}
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## Übersicht {#overview}
 
-Mit diesem Flussschritt fügen Sie von Marketo erstellte Personen als Interessenten in Ihre Salesforce CRM ein.
+Dieser Flussschritt fügt Marketo-erstellte Personen als Interessenten in Ihr Salesforce CRM ein.
 
 ![](assets/sync-person-to-sfdc.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Standardmäßig weist dieser Flussschritt Interessenteninhabern basierend auf den Salesforce-Regeln für die automatische Zuweisung zu.
 
@@ -41,4 +41,4 @@ Mit diesem Flussschritt fügen Sie von Marketo erstellte Personen als Interessen
 
    >[!CAUTION]
    >
-   >Salesforce lässt die Zuweisung von &quot;Kontakten&quot;zu Interessentenwarteschlangen nicht zu. In diesem Fall wird Marketo ein Duplikat &quot;Lead&quot; in Salesforce erstellen.
+   >Salesforce lässt die Zuweisung von &quot;Kontakten&quot;zu Interessentenwarteschlangen nicht zu. In diesem Fall wird Marketo ein Duplikat &quot;Lead&quot;in Salesforce erstellen.
