@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377392
-description: Ihre Standard-Branding-Domäne bearbeiten - Marketing-Dokumente - Produktdokumentation
+description: Bearbeiten Ihrer Standard-Branding-Domäne - Marketo Docs - Produktdokumentation
 title: Standardmäßige Branding-Domäne bearbeiten
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Bearbeiten Ihrer Standard-Branding-Domäne {#edit-your-default-branding-domain}
 
@@ -17,7 +17,7 @@ Die Bearbeitung Ihrer Standard-Branding-Domäne ist der erste Schritt bei der Ar
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie [einen CNAME in Ihrem DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) eingerichtet haben, bevor Sie Ihre Markendomänen in Marketing hinzufügen.
+>Stellen Sie sicher, dass Sie [einen CNAME in Ihrem DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) eingerichtet haben, bevor Sie Ihre Markendomänen in Marketo hinzufügen.
 
 1. Gehen Sie zu **Admin** und klicken Sie auf **E-Mail**.
 
