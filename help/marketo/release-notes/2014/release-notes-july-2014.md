@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2951040
-description: Versionshinweise - Juli 2014 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Juli 2014 - Marketo Dokumente - Produktdokumentation
 title: Versionshinweise - Juli 2014
+exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Versionshinweise: Juli 2014 {#release-notes-july}
 
-Die folgenden Funktionen sind in der Version vom Juli 2014 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
+Die folgenden Funktionen sind in der Version vom Juli 2014 enthalten. Überprüfen Sie Ihre Marketo Edition auf Verfügbarkeit der Funktionen. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
 
 ## Marketingkalender {#marketing-calendar}
 
-Sehen Sie sich all Ihre Ereignisse, E-Mails und mehr über Programme hinweg an. [Dieses neue ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) Produkt steht Kunden mit 10 oder weniger Marketing Lead Management- oder Dialog-Benutzern kostenlos zur Verfügung.
+Zeigen Sie alle Ihre Termine, E-Mails und dergleichen programmübergreifend an. [Dieses neue ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) Produkt steht Kunden mit 10 oder weniger Marketo Lead Management- oder Dialog-Benutzern kostenlos zur Verfügung.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
 Dokumentation zum Marketingkalender wird zur Versionszeit verfügbar sein.
 
-## Neuer Look und Feel {#new-look-and-feel}
+## Neues Aussehen, neue Navigation {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Das Marketing Lead Management wird mit einem neuen Erscheinungsbild aktualisiert, das modern und elegant ist und eine aktualisierte Navigation beinhaltet.
+Marketo Lead Management wird mit einem neuen Erscheinungsbild aktualisiert, das modern und elegant ist und eine aktualisierte Navigation enthält.
 
 ## Datumsoperatoren {#date-operators}
 
@@ -37,7 +37,7 @@ Das Marketing Lead Management wird mit einem neuen Erscheinungsbild aktualisiert
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## Programmplanung Ansicht {#program-schedule-view}
+## Ansicht des Programmplans {#program-schedule-view}
 
 Neben dem Marketingkalender, mit dem Sie Ihre Ereignis und Standard-Programm verwalten, ist eine neue Ansicht des Zeitplans direkt auf dem Programm.
 
@@ -56,11 +56,11 @@ Die nachfolgenden Aufrufe beziehen sich auf Listen in ReST. Die vollständige Do
 
 ## Schneller Liste-Import {#fast-list-import}
 
-Über **50x schneller** werden Ihre Dateien in Marketo heranzoomen! Die alten Importoptionen &quot;Normal&quot;und &quot;Optimiert für neue Interessenten&quot;wurden durch &quot;Standard (Schneller Import)&quot;ersetzt.
+Über **50x schneller** werden Ihre Dateien nach Marketo zoomen! Die alten Importoptionen &quot;Normal&quot;und &quot;Optimiert für neue Interessenten&quot;wurden durch &quot;Standard (Schneller Import)&quot;ersetzt.
 
 Die Option &quot;Neue Interessenten und Aktualisierungen überspringen&quot;bleibt unverändert.
 
-## Neu Verbesserter Munchkin! {#new-improved-munchkin}
+## Munchkin völlig neu überarbeitet und optimiert! {#new-improved-munchkin}
 
 Die Rollout-Phase beginnt Mitte Juli und dauert mehrere Monate.
 
