@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147302
-description: Löschen eines Filters im Marketingkalender - Marketing Docs - Produktdokumentation
+description: Löschen eines Filters im Marketingkalender - Marketo Dokumente - Produktdokumentation
 title: Löschen eines Filters im Marketingkalender
+exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
-
 
 # Löschen eines Filters im Marketingkalender {#deleting-a-filter-in-the-marketing-calendar}
 
