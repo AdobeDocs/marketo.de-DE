@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848782
-description: Dynamische Abmeldung für Sprachen - Marketing Docs - Produktdokumentation
+description: Dynamische Abmeldung für Sprachen - Marketo Dokumente - Produktdokumentation
 title: Dynamische Abmeldung für Sprachen
+exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '495'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Dynamische Abmeldung für Sprachen {#make-your-unsubscribe-message-dynamic-for-languages}
 
@@ -19,7 +19,7 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 >
 >Unten haben wir dieses nette kleine Tutorial für Sie eingerichtet. Es stellt eine Best Practice dar, aber dies kann auf andere Weise erreicht werden.
 
-## Vorbereiten Ihrer Daten {#prepare-your-data}
+## Daten vorbereiten {#prepare-your-data}
 
 1. [Erstellen Sie ein benutzerdefiniertes ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) Feld mit dem Namen &quot;Bevorzugte Sprache&quot;. (Richten Sie es in Ihrem CRM ein, wenn dieses Feld synchronisiert werden soll).
 
@@ -49,11 +49,11 @@ Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisc
 
    ![](assets/image2015-3-9-8-3a38-3a5.png)
 
-1. Wählen Sie ein Segment aus.
+1. Segment auswählen.
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Gehen Sie zur Registerkarte **Intelligente Liste**. Geben Sie **Bevorzugte Sprache** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
+1. Wechseln Sie zur Registerkarte **Intelligente Liste.** Geben Sie **Bevorzugte Sprache** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
 
    ![](assets/six.png)
 
