@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949218
-description: SEO - Hinzufügen/Seite aus Liste entfernen - Marketing Docs - Produktdokumentation
+description: SEO - Hinzufügen/Seite aus Liste entfernen - Marketo Docs - Produktdokumentation
 title: SEO - Hinzufügen/Seite aus Liste entfernen
+exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Hinzufügen/Seite aus Liste {#seo-add-remove-page-from-list} entfernen
 
