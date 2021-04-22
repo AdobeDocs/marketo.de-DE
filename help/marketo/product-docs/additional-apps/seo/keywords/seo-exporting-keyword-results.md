@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949210
-description: SEO - Exportieren von Suchbegriffergebnissen - Marketing Docs - Produktdokumentation
+description: SEO - Exportieren von Suchbegriffergebnissen - Marketo Docs - Produktdokumentation
 title: SEO - Exportieren von Suchbegriffergebnissen
+exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Exportieren von Suchbegriffergebnissen {#seo-exporting-keyword-results}
 
