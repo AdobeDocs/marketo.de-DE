@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515767
-description: Freigeben von Segmenten über Arbeitsbereiche und Partitionen - Marketing-Dokumente - Produktdokumentation
+description: Freigeben von Segmenten über Arbeitsbereiche und Partitionen - Marketo Dokumente - Produktdokumentation
 title: Freigeben von Segmenten über Workspaces und Partitionen
+exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
-
 
 # Freigeben von Segmenten über Arbeitsbereiche und Partitionen {#share-segmentations-across-workspaces-and-partitions}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Was ist eine Segmentierung? {#whats-a-segmentation}
 
-Marketo ist großartig darin, genau die richtigen Leute für ein Programm oder eine intelligente Kampagne auszuwählen. Für permanentere Personen sollten Sie jedoch Segmentationen verwenden. Sie werden benötigt, um erweiterte dynamische Inhalte in Marketing zu verwenden.
+Marketo ist großartig darin, genau die richtigen Leute für ein Programm oder eine intelligente Kampagne auszuwählen. Für permanentere Personen sollten Sie jedoch Segmentationen verwenden. Sie werden benötigt, um erweiterte dynamische Inhalte in Marketo zu verwenden.
 
 >[!NOTE]
 >
@@ -82,6 +82,6 @@ Nachdem Sie diese Personen eingerichtet haben (_und_ verwenden Sie Arbeitsbereic
 
    >[!NOTE]
    >
-   >Im Dialogfeld werden die Arbeitsbereiche angezeigt, für die Sie über die Berechtigung zur Ansicht verfügen. Daher empfiehlt Marketo die Erstellung und Freigabe von Segmenten aus dem Standardarbeitsbereich, der alle Arbeitsbereiche und Partitionen sichtbar macht.
+   >Im Dialogfeld werden die Arbeitsbereiche angezeigt, für die Sie über die Berechtigung zur Ansicht verfügen. Aus diesem Grund empfiehlt Marketo die Erstellung und Freigabe von Segmenten aus dem Standardarbeitsbereich, der alle Arbeitsbereiche und Partitionen sichtbar macht.
 
 Der ursprüngliche Ordner wird in der Datenbankstruktur mit einem Pfeil angezeigt, der angibt, dass er für andere Arbeitsbereiche freigegeben ist. Innerhalb des freigegebenen Arbeitsbereichs wird der Ordner mit einer Sperre angezeigt, um anzugeben, dass der Inhalt des Ordners von einem anderen Arbeitsbereich freigegeben wurde und schreibgeschützt ist.
