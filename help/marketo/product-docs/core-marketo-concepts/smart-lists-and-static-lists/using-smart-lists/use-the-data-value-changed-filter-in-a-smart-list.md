@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557324
-description: Verwenden Sie den Datenwertänderungsfilter in einer intelligenten Liste - MarketingToDocs - Produktdokumentation
+description: Verwenden des Filters "Datenwert geändert"in einer intelligenten Liste - Marketo Docs - Produktdokumentation
 title: Verwenden des Filters "Datenwert geändert"in einer intelligenten Liste
+exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
 # Verwenden Sie den Filter &quot;Datenwert geändert&quot;in einer Smart-Liste {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Die Werte ändern sich ständig und werden in Ihrer Marketing-Datenbank aktualisiert. Manchmal sollten Sie, anstatt nach einem bestimmten Wert zu suchen, nach Personen suchen, die eine Wertänderung hatten. So geht es.
+Die Werte ändern sich ständig und werden in Ihrer Marketo-Datenbank aktualisiert. Manchmal sollten Sie, anstatt nach einem bestimmten Wert zu suchen, nach Personen suchen, die eine Wertänderung hatten. So geht es.
 
 >[!PREREQUISITES]
 >
