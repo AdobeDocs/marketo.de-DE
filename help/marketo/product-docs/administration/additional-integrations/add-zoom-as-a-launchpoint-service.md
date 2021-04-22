@@ -1,15 +1,15 @@
 ---
 unique-page-id: 17728028
-description: hinzufügen Zoom as a LaunchPoint Service - Marketing Docs - Produktdokumentation
+description: hinzufügen Zoom as a LaunchPoint Service - Marketo Docs - Produktdokumentation
 title: hinzufügen Zoom als LaunchPoint-Dienst
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # hinzufügen Zoom als LaunchPoint-Dienst {#add-zoom-as-a-launchpoint-service}
 
@@ -47,7 +47,7 @@ Marketo verwaltet Ihre Zoomregistrierung und -teilnahme.
 
    ![](assets/create-1.png)
 
-   Großartig! Ihr Zoomkonto wird jetzt mit Marketo synchronisiert und befindet sich im Bereich &quot;LaunchPoint&quot;.
+   Sehr gut! Ihr Zoomkonto wird jetzt mit Marketo synchronisiert und befindet sich im Bereich &quot;LaunchPoint&quot;.
 
 >[!CAUTION]
 >
@@ -55,4 +55,4 @@ Marketo verwaltet Ihre Zoomregistrierung und -teilnahme.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie ein Ereignis mit Zoom[ erstellen.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
+>Erfahren Sie, wie Sie ein Ereignis mit Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) erstellen.[
