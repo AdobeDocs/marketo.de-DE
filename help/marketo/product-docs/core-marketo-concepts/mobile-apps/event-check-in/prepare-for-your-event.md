@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10099360
-description: Vorbereitung auf Ihr Ereignis - Marketing Docs - Produktdokumentation
+description: Vorbereitung auf Ihr Ereignis - Marketo Docs - Produktdokumentation
 title: Vorbereitung auf Ihr Ereignis
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
 # Vorbereitung auf Ihr Ereignis {#prepare-for-your-event}
 
 Es gibt mehrere Dinge, die du tun musst, um dich auf das Ereignis vorzubereiten.
 
-## Neue Markerrolle erstellen {#create-a-new-marketo-role}
+## Neue Marketo-Rolle erstellen {#create-a-new-marketo-role}
 
-Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App. [Erstellen Sie eine neue Marketing-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Rolle für iPad- oder Android-Benutzer mit Zugriffsberechtigung für die mobile Anwendung.
+Marketo hat eine besondere Benutzerrolle für die Ereignis-Check-in-App. [Erstellen Sie eine neue Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Rolle für iPad- oder Android-Benutzer mit Zugriffsberechtigung für die mobile Anwendung.
 
 ## Neue Tablet-Benutzer zum Ereignis {#invite-new-tablet-users-to-the-event} einladen
 
 [Laden Sie neue Tablet-Benutzer zur ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Veranstaltung ein und weisen Sie ihnen die neue Rolle zu.
 
-## Neues Marketing-Ereignis-Programm {#create-a-new-marketo-event-program} erstellen
+## Neues Marketo-Ereignis-Programm {#create-a-new-marketo-event-program} erstellen
 
-[Erstellen Sie ein neues Marketing-Ereignis-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) Programm, um den Status Ihrer Mitarbeiter zu erfassen, während sie sich durch verschiedene Phasen bewegen, und erhalten Sie genaue Messungen des ROI für Ihre Marketinginitiativen.
+[Erstellen Sie ein neues Marketo Ereignis-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) Programm, um den Status Ihrer Mitarbeiter zu erfassen, während sie sich durch verschiedene Phasen bewegen, und präzise Messungen des ROI für Ihre Marketinginitiativen zu erhalten.
 
 ## Geben Sie die Ereignis-Daten {#specify-the-event-dates} an
 
@@ -47,7 +47,7 @@ Es ist ein Kinderspiel, Ihre Ereignis-Daten festzulegen.
 
 Jetzt, da Sie die *wenn* kennen, ist es an der Zeit, *who* hinzuzufügen.
 
-1. Wenn Sie bereits über eine Liste von Personen verfügen, klicken Sie in &quot;My Marketo&quot;auf die Kachel **Database**.
+1. Wenn Sie bereits über eine Liste von Personen verfügen, klicken Sie in My Marketo auf die Kachel **Database**.
 
    ![](assets/db.png)
 
