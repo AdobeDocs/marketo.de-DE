@@ -1,28 +1,28 @@
 ---
 unique-page-id: 10617187
-description: Datenschutzeinstellungen - Marketing-Dokumente - Produktdokumentation
+description: Datenschutzeinstellungen - Marketo Dokumente - Produktdokumentation
 title: Datenschutzeinstellungen
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
-
 # Die Datenschutzeinstellungen {#understanding-privacy-settings}
 
 ## Übersicht {#overview}
 
-Marketo bietet Marketingexperten die Möglichkeit, die Zustimmung der Web-Besucher zu deren Verfolgung zu erhalten. Es gibt zwei Möglichkeiten, um Opt-out oder Sie können sich entscheiden, von anonymisierter IP verfolgt zu werden.
+Marketo bietet Marketingexperten die Möglichkeit, die Zustimmung der Web-Besucher zur Verfolgung der Inhalte zu erhalten. Es gibt zwei Möglichkeiten, um Opt-out oder Sie können sich entscheiden, von anonymisierter IP verfolgt zu werden.
 
 * Web-Besucher wählen die Funktion &quot;Nicht verfolgen&quot;(DNT) in ihrem Browser aus (und der Marketingexperte berücksichtigt die Anforderung des Web-Besuchers für &quot;Nicht verfolgen&quot;)
 * Web-Besucher verwenden ein Opt-out Cookie, das von einem Marketingspezialisten auf einer Website bereitgestellt wird
 
 Oder der Marketingexperte kann Benutzer nachverfolgen, aber eine anonymisierte IP verwenden.
 
-Diese Methoden könnten sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketingspezialist *jedoch nichts in der Konfiguration von Marketo ändert, bleibt die Funktionalität von Marketo gleich.*
+Diese Methoden könnten sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Ändert der Marketingspezialist *jedoch nichts in der Marketo-Konfiguration, bleibt die Marketo-Funktionalität gleich.*
 
 ## Browsereinstellungen für Nicht verfolgen {#browser-settings-for-do-not-track}
 
@@ -60,9 +60,9 @@ Um zu überprüfen, ob das Cookie platziert werden kann, stellen Sie sicher, das
 >
 >Dies funktioniert derzeit nur mit Munchkin Versionen 152 und höher.
 
-## Opt-in {#opt-in}
+## Opt In {#opt-in}
 
-Marketingexperten können die Opt-in mithilfe der Funktionen von Marketo in E-Mails, Formularen, Landingpages und anderen Methoden ermöglichen.
+Marketingexperten können Benutzer Opt-in, indem sie die Marketo-Funktionen in E-Mails, Formularen, Landingpages und anderen Methoden verwenden.
 
 ## Verfolgung mit einer anonymisierten IP {#tracking-using-an-anonymized-ip}
 
@@ -72,7 +72,7 @@ Marketingexperten können die Privatsphäre schützen, indem sie Benutzer mit ei
 
    >[!NOTE]
    >
-   >Die Verwendung dieses Parameters erfordert die Aktivierung von Munchkin V2. Wenden Sie sich an den [Marketing Support](https://nation.marketo.com/community/support_solutions), um die Aktivierung für Ihr Abonnement zu erhalten.
+   >Die Verwendung dieses Parameters erfordert die Aktivierung von Munchkin V2. Um die Aktivierung für Ihr Abonnement zu erhalten, wenden Sie sich bitte an den [Marketo Support](https://nation.marketo.com/community/support_solutions).
 
 * Fügen Sie für die Web-Personalisierung (RTP) dem JavaScript Folgendes hinzu:
 
