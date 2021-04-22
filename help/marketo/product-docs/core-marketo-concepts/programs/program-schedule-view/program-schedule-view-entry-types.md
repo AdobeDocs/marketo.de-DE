@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147243
-description: Programmplanung Ansicht Einstiegstypen - Marketing Docs - Produktdokumentation
+description: Programmplanung Ansicht Einstiegstypen - Marketo Docs - Produktdokumentation
 title: Programmplanung Ansicht Einstiegstypen
+exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # Programmplanung Ansicht Einstiegstypen {#program-schedule-view-entry-types}
 
@@ -18,13 +18,13 @@ Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanun
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">Einsendungstyp</th> 
+   <th colspan="1" rowspan="1">Eintragstyp</th> 
    <th colspan="1" rowspan="1">Beschreibung</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Einfacher Eintrag<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
+   <td colspan="1" rowspan="1">Grundeingabe<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
    <td colspan="1" rowspan="1">Standardeingabetyp. Verwenden Sie dies als Platzhalter oder Notiz. </td> 
   </tr> 
   <tr> 
@@ -40,11 +40,11 @@ Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanun
    <td colspan="1" rowspan="1">Geplantes E-Mail-Programm.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">E-Mail-Programm-Test <img alt="—" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Test E-Mail-Programm <img alt="—" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Testen Sie E-Mails in einem geplanten E-Mail-Programm.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Einsatzkast <img alt="—" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Engagement-Umwandlung <img alt="—" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Stream-Abspieldatum eines Interaktions-Programms.</td> 
   </tr> 
   <tr> 
@@ -52,7 +52,7 @@ Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanun
    <td colspan="1" rowspan="1">Webinar-Datum eines Ereignis-Programms, das mit einem unterstützten Webinar-Provider verbunden ist.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Wichtigstes Ereignis <img alt="—" src="assets/image2014-9-24-10-3a6-3a15.png" data-linked-resource-id="3082722" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Hauptveranstaltung <img alt="—" src="assets/image2014-9-24-10-3a6-3a15.png" data-linked-resource-id="3082722" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Hauptdatum eines Ereignis-Programms, das nicht mit einem unterstützten Webinar-Provider verbunden ist.</td> 
   </tr> 
  </tbody> 
