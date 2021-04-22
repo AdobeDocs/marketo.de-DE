@@ -1,14 +1,14 @@
 ---
-description: Salesforce-Synchronisierungsstatus - Marketing Docs - Produktdokumentation
+description: Salesforce-Synchronisierungsstatus - Marketo Docs - Produktdokumentation
 title: Salesforce-Synchronisierungsstatus
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # Salesforce-Synchronisierungsstatus {#salesforce-sync-status}
 
@@ -64,15 +64,15 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
   <tr> 
    <th>Feld</th> 
    <th>Beschreibung</th> 
-   <th>Enum-Werte</th> 
+   <th>Aufzählungswerte</th> 
   </tr> 
   <tr> 
-   <td colspan="1">Beginnt am</td> 
+   <td colspan="1">Gestartet um</td> 
    <td colspan="1">Datum/Uhrzeit des Beginns des Synchronisierungszyklus (Zeitzone des Benutzers)</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">Beendet am</td> 
+   <td colspan="1">Beendet um</td> 
    <td colspan="1">Enddatum/Uhrzeit des Synchronisierungszyklus (Zeitzone des Benutzers)</td> 
    <td colspan="1"></td> 
   </tr> 
@@ -83,7 +83,7 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
   </tr>  
   <tr> 
    <td colspan="1">Vorgang</td> 
-   <td colspan="1">Vorgangsart</td> 
+   <td colspan="1">Vorgangstyp</td> 
    <td colspan="1">Vorgangsarten wie unten</td> 
   </tr>  
   <tr> 
@@ -141,7 +141,7 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
    <td colspan="1">Kampagne</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Mitgliederstatus der Kampagne</td> 
+   <td colspan="1">Status des Kampagnenmitgliedes</td> 
   </tr>
   <tr> 
    <td colspan="1">Kontakt</td> 
@@ -150,16 +150,16 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
    <td colspan="1">E-Mail-Vorlage</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Ereignis</td> 
+   <td colspan="1">Veranstaltung</td> 
   </tr> 
   <tr> 
    <td colspan="1">Person (Interessent)</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Chancen</td> 
+   <td colspan="1">Opportunity</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Kontaktrolle bei Chancen</td> 
+   <td colspan="1">Gelegenheit Kontaktrolle</td> 
   </tr>  
   <tr> 
    <td colspan="1">Aufgabe</td> 
@@ -170,7 +170,7 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
  </tbody> 
 </table>
 
-## Vorgangsart {#operation-type}
+## Vorgangstyp {#operation-type}
 
 <table> 
  <colgroup> 
@@ -181,7 +181,7 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Vorgangsart</th> 
+   <th>Vorgangstyp</th> 
    <th>Gegen diese Objekte gefunden</th> 
    <th>Bemerkungen</th> 
    <th>Art der Operation</th>
@@ -193,13 +193,13 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
    <td colspan="1">Aktualisieren</td>
   </tr>  
   <tr> 
-   <td colspan="1">Umrechnungen abziehen</td> 
+   <td colspan="1">Gespräche abrufen</td> 
    <td colspan="1">Person (Interessent)*</td> 
    <td colspan="1">Ziehen Sie Konvertierungsaktionen von SFDC nach Marketo. Einheiten(Nummern) sind Interessenten, die in Kontakte konvertieren</td> 
    <td colspan="1">Aktualisieren, Fehlgeschlagenes Element oder Übersprungen</td>
   </tr> 
   <tr> 
-   <td colspan="1">Entfernen</td> 
+   <td colspan="1">Gelöschte abrufen</td> 
    <td colspan="1">Kontakt, Person (Interessent), Gelegenheit, Kampagne, Kampagne Mitglieder, Kontaktmöglichkeit, Benutzerspezifische Objekte, Kampagnen, Status des Mitglieds der Kampagne, Kontaktrolle für Chancen</td> 
    <td colspan="1">Gelöschte Aufzeichnungen des SFDC, das mit Marketo synchronisiert wird</td> 
    <td colspan="1">Gelöschte, fehlgeschlagene Elemente oder übersprungene Elemente</td>
@@ -211,13 +211,13 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
    <td colspan="1">Neues, aktualisiertes, fehlgeschlagenes Element oder übersprungen</td>
   </tr>  
   <tr> 
-   <td colspan="1">Push new</td> 
+   <td colspan="1">Neue übertragen</td> 
    <td colspan="1">Aufgaben, E-Mail-Vorlagen</td> 
    <td colspan="1">Push-Aufgaben (Aktivitäten)</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
-   <td colspan="1">Push-Updates</td> 
+   <td colspan="1">Aktualisierungen übertragen</td> 
    <td colspan="1">Aufgaben, E-Mail-Vorlagen, Person, Kontakt, Kampagnen</td> 
    <td colspan="1">Übermitteln von Updates an das SFDC und Löschen</td> 
    <td colspan="1">Aktualisieren, Fehlgeschlagenes Element oder Übersprungen</td>
