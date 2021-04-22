@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719300
-description: Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Trigger Hinzufügen/entfernen - Marketing-Dokumente - Produktdokumentation
+description: Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Trigger Hinzufügen/entfernen - Marketo Docs - Produktdokumentation
 title: Benutzerdefiniertes Objektfeld als Einschränkungen für intelligente Liste/Trigger Hinzufügen/entfernen
+exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerdefiniertes Objektfeld Hinzufügen/entfernen als Einschränkungen für intelligente Liste/Trigger {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
