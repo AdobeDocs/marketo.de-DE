@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951044
-description: Versionshinweise - Mai 2014 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Mai 2014 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Mai 2014
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # Versionshinweise: Mai 2014 {#release-notes-may}
 
-Die folgenden Funktionen sind in der Version vom Mai 2014 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu den Links zu detaillierten Artikeln der Wissensdatenbank für jede Funktion zurückkehren!
+Die folgenden Funktionen sind in der Version vom Mai 2014 enthalten. Überprüfen Sie Ihre Marketo Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu den Links zu detaillierten Artikeln der Wissensdatenbank für jede Funktion zurückkehren!
 
-## Arbeitsbereich {#delete-workspace} löschen
+## Arbeitsbereich löschen {#delete-workspace}
 
 Jetzt können Sie [einen nicht verwendeten Arbeitsbereich](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) löschen. Stellen Sie sicher, dass alle Assets in einen anderen Arbeitsbereich verschoben werden, bevor Sie versuchen, den Arbeitsbereich zu löschen.
 
@@ -27,13 +27,13 @@ In Interaktions-Programmen können Sie das Datum für die Ausführung des [erste
 
 ![](assets/image2014-9-22-11-3a57-3a54.png)
 
-## Erweiterte Programme für Interaktion {#enhanced-engagement-programs}
+## Erweiterte Engagement Programs {#enhanced-engagement-programs}
 
 Jeder bekommt jetzt mehrere Programm, Streams und Kommunikationsbeschränkungen.
 
 ## Linktracking in Text-E-Mails {#link-tracking-in-text-emails}
 
-[hinzufügen Dublette mit quadratischen ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) Klammern um URLs in der Textversion Ihrer E-Mails, um anzugeben, wann Links in umgeleitete Marketing-zu-Tracking-Links konvertiert werden sollten
+[hinzufügen Dublette mit quadratischen ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) Klammern um URLs in der Textversion Ihrer E-Mails, um anzugeben, wann Links in umgeleitete Marketo-Verfolgungslinks konvertiert werden sollten
 
 >[!NOTE]
 >
@@ -81,4 +81,4 @@ Der Umsatz-Cycle-Modellierer und der Erfolgspfad-Analyzer sind jetzt in der MA S
 
 ## Mobile Platform Info {#mobile-platform-info}
 
-[Segment und ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) Auslösung von Interessenten, die E-Mails von ihren Mobilgeräten aus öffnen und anklicken.
+[Leads, die E-Mails über ihre Mobilgeräte öffnen oder anklicken, segmentieren und auf die Aktion reagieren.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
