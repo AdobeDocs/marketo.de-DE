@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147011
-description: hinzufügen zu Interaktions-Programm - Marketing Docs - Produktdokumentation
-title: Programm Hinzufügen Interaktion
+description: hinzufügen zu Interaktions-Programm - Marketo Docs - Produktdokumentation
+title: Zu Engagement-Programm hinzufügen
+exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-
-# hinzufügen auf Interaktions-Programm {#add-to-engagement-program}
+# Zu Engagement-Programm hinzufügen {#add-to-engagement-program}
 
 ## Übersicht {#overview}
 
@@ -19,7 +19,7 @@ Die intelligente Kampagne, die Sie mit diesem Flussschritt erstellen, ist das To
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wählen Sie das Interaktions-Programm aus, dem Sie die Personen hinzufügen möchten.
 
