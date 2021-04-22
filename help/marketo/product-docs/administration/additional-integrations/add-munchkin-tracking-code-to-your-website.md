@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360354
-description: hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website - Marketing Docs - Produktdokumentation
+description: hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website - Marketo Docs - Produktdokumentation
 title: hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website
+exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
-
 # hinzufügen Munchkin-Trackingcode auf Ihrer Website {#add-munchkin-tracking-code-to-your-website}
 
-Marketos benutzerdefinierter JavaScript-Rückverfolgungscode namens Munchkin verfolgt alle Personen, die Ihre Website besuchen, sodass Sie auf ihre Besuche mit automatisierten Marketing-Kampagnen reagieren können. Auch anonyme Besucher werden zusammen mit ihren IP-Adressen und anderen Informationen verfolgt. **Ohne diesen Rückverfolgungscode können Sie Besuche oder andere Aktivitäten auf Ihrer Website** nicht verfolgen!
+Marketos benutzerspezifischer JavaScript-Rückverfolgungscode namens Munchkin verfolgt alle Personen, die Ihre Website besuchen, sodass Sie mit automatisierten Marketing-Kampagnen auf ihre Besuche reagieren können. Auch anonyme Besucher werden zusammen mit ihren IP-Adressen und anderen Informationen verfolgt. **Ohne diesen Rückverfolgungscode können Sie Besuche oder andere Aktivitäten auf Ihrer Website** nicht verfolgen!
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie Zugriff auf einen erfahrenen JavaScript-Entwickler haben. Der technische Support von Marketo ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes JavaScript hilft.
+>Stellen Sie sicher, dass Sie Zugriff auf einen erfahrenen JavaScript-Entwickler haben. Der technische Support von Marketo ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes JavaScript unterstützt wird.
 
 ## hinzufügen Trackingcode auf Ihrer Website {#add-tracking-code-to-your-website}
 
@@ -70,7 +70,7 @@ Wenn Sie Workspaces in Ihrem Marketo-Konto verwenden, haben Sie wahrscheinlich a
 
 >[!NOTE]
 >
->Wenn Sie den speziellen Workspace-Munchkin-Code nicht verwenden, werden die Personen der Standardpartition zugewiesen, die beim Einrichten Ihres Kontos erstellt wurde. Es heißt anfangs &quot;Standard&quot;, aber Sie haben dies möglicherweise in Ihrem eigenen Marketo-Konto geändert.
+>Wenn Sie den speziellen Workspace-Munchkin-Code nicht verwenden, werden die Personen der Standardpartition zugewiesen, die beim Einrichten Ihres Kontos erstellt wurde. Es heißt zunächst &quot;Standard&quot;, aber Sie haben dies möglicherweise in Ihrem eigenen Marketo-Konto geändert.
 
 1. Wählen Sie **Asynchron** für Rückverfolgungscode-Typ.
 
@@ -94,7 +94,7 @@ Wenn Sie Workspaces in Ihrem Marketo-Konto verwenden, haben Sie wahrscheinlich a
 
 >[!NOTE]
 >
->Landingpages, die in Marketing erstellt wurden, enthalten automatisch Trackingcode, sodass Sie diesen Code nicht darauf verwenden müssen.
+>In Marketo erstellte Landingpages enthalten automatisch Trackingcode, sodass Sie diesen Code nicht darauf verwenden müssen.
 
 ## Typen von Munchkin-Rückverfolgungscodes {#types-of-munchkin-tracking-codes}
 
