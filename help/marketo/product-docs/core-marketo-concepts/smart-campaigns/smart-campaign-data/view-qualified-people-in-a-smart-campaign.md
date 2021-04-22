@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146966
-description: Qualifizierte Ansicht für Personen in einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
+description: Qualifizierte Ansicht für Personen in einer intelligenten Kampagne - Marketo Docs - Produktdokumentation
 title: Qualifizierte Ansicht für Menschen in einer intelligenten Kampagne
+exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Qualifizierte Ansicht für Personen in einer intelligenten Kampagne {#view-qualified-people-in-a-smart-campaign}
 
