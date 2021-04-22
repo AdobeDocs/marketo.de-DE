@@ -1,25 +1,25 @@
 ---
 unique-page-id: 10094114
-description: Versionshinweise - Herbst 2015 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Herbst 2015 - Marketo Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst 2015
+exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '995'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Versionshinweise: Herbst 2015 {#release-notes-fall}
 
-Die folgenden Funktionen sind in der Version Herbst 15 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Version Herbst 15 enthalten. Überprüfen Sie Ihre Marketo Edition auf Verfügbarkeit der Funktionen.
 
 ## Eine Smart-Liste abonnieren {#subscribe-to-a-smart-list}
 
 [Eine intelligente Liste abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-Mit dem Abonnement für intelligente Liste können Marketingexperten eine intelligente Liste exportieren und per E-Mail an Interessenvertreter senden, die z. B. keine Marketing-Produkte verwenden, z. B. Verkaufs- oder Telemarketing-Teams.
+Mit dem Abonnement für intelligente Liste können Marketingexperten eine intelligente Liste exportieren und per E-Mail an Interessenvertreter senden, die nicht Marketo verwenden, z. B. Verkaufs- oder Telemarketingteams.
 
 Der Export kann täglich, wöchentlich oder monatlich geplant werden, das Enddatum haben und für die Freigabe einer begrenzten Spaltenanzahl angepasst werden.
 
@@ -29,35 +29,35 @@ Mehrere Abonnements können auf einer intelligenten Liste erstellt werden. Es gi
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Markieren zu benutzerdefinierten Objekten {#marketo-custom-objects}
+## Benutzerdefinierte Marketo-Objekte {#marketo-custom-objects}
 
-[Zu benutzerdefinierten Objekten markieren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 Benutzerdefinierte Objekte lassen sich einfach über die Admin-Benutzeroberfläche erstellen. Wir unterstützen derzeit die Möglichkeit, ein 1:N-benutzerdefiniertes Objekt in Marketo zu erstellen und es mit einem Interessenten oder einer Firma zu verbinden.
 
 >[!NOTE]
 >
->&quot;Markieren zu benutzerspezifischen Objekten&quot;steht für Spark nicht zur Verfügung.
+>Benutzerdefinierte Marketo-Objekte sind für Spark nicht verfügbar.
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights für Google Chrome {#marketo-insights-for-google-chrome}
 
-[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 Wir freuen uns, die Veröffentlichung eines Updates für unsere Google Mail Sales Insight Erweiterung bekannt geben zu können! Ansicht im [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Dieses Update umfasst viele neue Funktionen:
 
-* Vor dem Kontakt können Verkäufer relevante Informationen über ihre Potenzieller Kunde direkt in Google Mail anzeigen, einschließlich Auftragstitel, Twitter-Profile, Informationen zur Firma, Fotos und mehr.
+* Vor dem Einstieg können Händler relevante Informationen über ihre Potenzieller Kunde direkt in Google Mail anzeigen, einschließlich Auftragstitel, twitter-Profile, Informationen zur Firma, Fotos und mehr.
 * Vertriebsmitarbeiter können in Echtzeit sehen, mit welchen Inhalten Potenzieller Kunde über Kanal hinweg interagieren, wie z. B. geöffnete oder angeklickte E-Mails, besuchte Online- oder persönliche Ereignisse, besuchte Webseiten, heruntergeladene eBooks und vieles mehr.
-* Über Google Mail gesendete E-Mails werden in Marketo protokolliert und in Echtzeit verfolgt. So können Verkäufer sehen, wann Potenzieller Kunde ihre E-Mails ansehen, damit sie genau zum richtigen Zeitpunkt nachverfolgen können. Marketo Sales Insight für Google Mail macht es Vertriebsmitarbeitern auch leicht, durch Marketing erstellte Vorlagen zu nutzen, um schöne Einladungen, Angebote und andere Inhaltstypen zu senden.
+* Über Google Mail gesendete E-Mails werden in Marketo protokolliert und in Echtzeit verfolgt. So können Verkäufer sehen, wann Potenzieller Kunde ihre E-Mails ansehen, damit sie genau zum richtigen Zeitpunkt nachverfolgen können. Marketo Sales Insight für Google Mail erleichtert es Vertriebsmitarbeitern außerdem, mit Marketing erstellte Vorlagen zu nutzen, um schöne Einladungen, Angebote und andere Inhaltstypen zu versenden.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketing Mobile-Interaktion - Tokens, Beispiel senden und Vorschau {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile Interaktion - Tokens, Beispiel senden und Vorschau {#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [Tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Beispiel senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Vorschau](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
@@ -73,7 +73,7 @@ Sie können auch [Vorschau](/help/marketo/product-docs/mobile-marketing/push-not
 
 ## Intelligente Kampagnen in Momenten {#smart-campaigns-in-moments}
 
-[Intelligente Kampagnen in Momenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[Intelligente Kampagnen in Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 Statistiken zu E-Mails, die über Smart-Kampagnen gesendet werden, sind jetzt in Moments verfügbar. Weitere Funktionen dieses Upgrades:
 
