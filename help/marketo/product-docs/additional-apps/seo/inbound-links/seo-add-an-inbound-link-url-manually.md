@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949247
-description: SEO - Hinzufügen einer URL für einen Inbound-Link manuell - Marketing Docs - Produktdokumentation
+description: SEO - Hinzufügen einer URL für einen Inbound-Link manuell - Marketo Docs - Produktdokumentation
 title: SEO - Hinzufügen einer URL für einen eingehenden Link manuell
+exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Hinzufügen einer URL für einen Inbound-Link manuell {#seo-add-an-inbound-link-url-manually}
 
@@ -34,4 +34,3 @@ Sie können Inbound Links manuell hinzufügen. So geht es:
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
 Zieh dich an! Sie sollten nun Ihre neue URL sehen, die der Liste hinzugefügt wurde. Es kann einige Zeit dauern, bis alle Daten gesammelt wurden.
-
