@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146944
-description: hinzufügen eines Flussschritts zu einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
+description: hinzufügen eines Flussschritts zu einer intelligenten Kampagne - Marketo Docs - Produktdokumentation
 title: hinzufügen eines Flussschritts zu einer intelligenten Kampagne
+exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-
 # hinzufügen eines Flussschritts zu einer intelligenten Kampagne {#add-a-flow-step-to-a-smart-campaign}
 
-Flussschritte sagen Marketo, was Sie einer Gruppe von Personen, die sich qualifizieren, zustoßen möchten. Das sind deine Anweisungen, und die kluge Kampagne wird dein Angebot machen!
+Die Flussschritte teilen Marketo mit, was Sie einer Gruppe von Personen, die sich qualifizieren, vorziehen möchten. Das sind deine Anweisungen, und die kluge Kampagne wird dein Angebot machen!
 
 1. Gehen Sie zu **Marketing-Aktivitäten**.
 
@@ -43,7 +43,7 @@ Flussschritte sagen Marketo, was Sie einer Gruppe von Personen, die sich qualifi
 >
 >Bei einem ungültigen Eintrag wird eine rote Wellenlinie angezeigt. Bewegen Sie den Mauszeiger über die Zeile, um zu sehen, wie sie korrigiert werden kann.
 
-Fantastisch! Überprüfen und überprüfen Sie die intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md), bevor Sie sie planen oder aktivieren.[
+Fantastisch Überprüfen und überprüfen Sie die intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md), bevor Sie sie planen oder aktivieren.[
 
 >[!MORELIKETHIS]
 >
