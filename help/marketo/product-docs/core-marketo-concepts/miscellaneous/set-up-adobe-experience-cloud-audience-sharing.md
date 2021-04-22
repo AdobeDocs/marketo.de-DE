@@ -1,15 +1,15 @@
 ---
 unique-page-id: 42762511
-description: Einrichten von Adobe Experience Cloud Audience Sharing - Marketing Docs - Produktdokumentation
+description: Einrichten der Adobe Experience Cloud-Audience-Freigabe - Marketo Docs - Produktdokumentation
 title: Einrichten der Freigabe von Adobe Experience Cloud-Audiencen
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Einrichten der Adobe Experience Cloud-Audience-Freigabe {#set-up-adobe-experience-cloud-audience-sharing}
 
@@ -17,7 +17,7 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
 
 >[!NOTE]
 >
->Eine HIPAA-bereite Bereitstellung einer Marketing-Instanz kann diese Integration nicht verwenden.
+>Eine HIPAA-bereite Bereitstellung einer Marketo-Instanz kann diese Integration nicht verwenden.
 
 1. Klicken Sie in Marketo auf **Admin**.
 
