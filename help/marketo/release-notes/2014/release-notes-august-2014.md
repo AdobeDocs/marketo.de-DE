@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2950212
-description: Versionshinweise - August 2014 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - August 2014 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - August 2014
+exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Versionshinweise: August 2014 {#release-notes-august}
 
-Die folgenden Funktionen sind in der Version vom August 2014 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
+Die folgenden Funktionen sind in der Version vom August 2014 enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung finden Sie Links zur ausführlichen Dokumentation der Funktionen.
 
 ## Marketingkalender Lizenzen {#marketing-calendar-licenses}
 
 Nach dem 5. September 2014 können nur noch 5 Benutzer kostenlos auf den Marketingkalender zugreifen. Stellen Sie sicher, dass Sie den Benutzern Ihrer Wahl vor diesem Zeitpunkt [Lizenz für den Marketingkalender ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) widerrufen/widerrufen, damit sie ununterbrochen darauf zugreifen können.
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
-## Neue Benutzerberechtigungen {#new-user-permissions}
+## Berechtigungen für neue Benutzer {#new-user-permissions}
 
 Die folgenden neuen Benutzerberechtigungen wurden hinzugefügt:
 
 | Berechtigung | Beschreibung |
 |---|---|
-| Zugriff auf Umsatz-Explorer | Wenn Sie RCA gekauft haben, haben Sie jetzt die Kontrolle darüber, wer darauf zugreifen kann. |
+| Auf Revenue Explorer zugreifen | Wenn Sie RCA gekauft haben, haben Sie jetzt die Kontrolle darüber, wer darauf zugreifen kann. |
 | Liste importieren | Sperren Sie Benutzer vom Importieren von Listen in die Interessentendatenbank. |
-| Liste importieren | Schränken Sie Benutzern das Importieren von Listen über ein Programm unter &quot;Marketing-Aktivitäten&quot;ein. |
-| Trigger-Kampagne aktivieren | Kontrollieren Sie, wer Trigger-Kampagnen aktivieren kann und nicht. |
-| Batch-Kampagne planen | Kontrollieren Sie, wer die Ausführung der Batch-Kampagne planen kann und nicht. |
+| Listenimport | Schränken Sie Benutzern das Importieren von Listen über ein Programm unter &quot;Marketing-Aktivitäten&quot;ein. |
+| Auslöser-Kampagne aktivieren | Kontrollieren Sie, wer Trigger-Kampagnen aktivieren kann und nicht. |
+| Stapel-Kampagne planen | Kontrollieren Sie, wer die Ausführung der Batch-Kampagne planen kann und nicht. |
 
 ## Benutzer und Rollen aus Admin {#export-users-and-roles-from-admin} exportieren
 
