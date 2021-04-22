@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359428
-description: Umleiten einer Landingpage - MarketingToDocs - Produktdokumentation
-title: Eine Landingpage umleiten
+description: Umleiten einer Landingpage - Marketo Docs - Produktdokumentation
+title: Landing Page umleiten
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-
-# Eine Landingpage umleiten {#redirect-a-landing-page}
+# Landing Page umleiten {#redirect-a-landing-page}
 
 ## Auftrag: Umleiten einer Landingpage zu einer anderen Webseite {#mission-redirect-a-landing-page-to-a-different-web-page}
 
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 >* [Passen Sie die URL Ihrer Landingpage mit einem CNAME an](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
 ## Schritt 1: Beginn einer neuen Umleitungsregel {#step-start-a-new-redirect-rule}
 
-1. Gehen Sie zum Bereich **Admin**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
    ![](assets/admin.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## Schritt 2: Definieren der Umleitungsregel {#step-define-the-redirect-rule}
 
-1. Klicken Sie auf die erste Dropdown-Liste **Ursprüngliche URL** und wählen Sie Ihren Marker-CNAME aus.
+1. Klicken Sie auf die erste Dropdown-Liste **Ursprüngliche URL** und wählen Sie Ihren Marketo CNAME aus.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
@@ -57,10 +57,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
-## Dienstabschluss {#mission-complete}
+## Aufgabe abgeschlossen {#mission-complete}
 
-Herzlichen Glückwunsch! Sie haben eine Landingpage erfolgreich umgeleitet.
+Herzlichen Glückwunsch!  Sie haben eine Landingpage erfolgreich umgeleitet.
 
 <br> 
 
-[Auftrag 9: Lead-Daten aktualisieren](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄ Aufgabe 9: Lead-Datenwerte aktualisieren](/help/marketo/getting-started/quick-wins/update-person-data.md)
