@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11378041
-description: Eine Branding-Domäne löschen - Marketing-Dokumente - Produktdokumentation
+description: Eine Branding-Domäne löschen - Marketo Docs - Produktdokumentation
 title: Eine Branding-Domäne löschen
+exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-
 # Eine Branding-Domäne {#delete-a-branding-domain} löschen
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **Admin** und dann auf den Link **E-Mail**.
+1. Klicken Sie in My Marketo auf **Admin** und dann auf den Link **E-Mail**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
