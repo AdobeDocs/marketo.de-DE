@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359424
-description: Warnung des Vertriebsmitarbeiters - Marketing Docs - Produktdokumentation
-title: Warnung an den Vertriebsmitarbeiter
+description: Warnung des Vertriebsmitarbeiters - Marketo Docs - Produktdokumentation
+title: Vertriebsmitarbeiter benachrichtigen
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
+# Vertriebsmitarbeiter benachrichtigen {#alert-the-sales-rep}
 
-# Warnung des Vertriebsmitarbeiters {#alert-the-sales-rep}
-
-## Auftrag: Warnung des Vertriebsmitarbeiters, wenn eine Person ein Formular auf Ihrer Website ausfüllt{#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## Auftrag: Warnen Sie den Vertriebsmitarbeiter, wenn eine Person ein Formular auf Ihrer Website ausfüllt. {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
 Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie lediglich eine Warn-E-Mail und eine E-Mail-Kampagne. Hier ist, wie man das macht.
 
 >[!PREREQUISITES]
 >
->[Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Schritt 1: Warnungs-E-Mail {#step-create-an-alert-email} erstellen
 
@@ -43,7 +43,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/five-5.png)
 
-1. Klicken Sie mit der Dublette, um den E-Mail-Text zu bearbeiten.
+1. Doppelklicken Sie, um den E-Mail-Text zu bearbeiten.
 
    ![](assets/six-5.png)
 
@@ -75,7 +75,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/twelve-4.png)
 
-## Schritt 2: Warnauslöser-Kampagne {#step-create-an-alert-trigger-campaign} erstellen
+## Schritt 2: Kampagne für Warnungsordner {#step-create-an-alert-trigger-campaign} erstellen
 
 1. Wählen Sie **Mein Programm**, das zuvor erstellt wurde, und klicken Sie dann unter **Neu** auf **Neue Smart-Kampagne**.
 
@@ -85,7 +85,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Suchen Sie unter der Registerkarte **Intelligente Liste** den Auslöser **Ausfüllen des Formulars** und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen Sie unter der Registerkarte **Intelligente Liste** den Trigger **Ausfüllen des Formulars** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -111,7 +111,7 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    >[!TIP]
    >
-   >Stellen Sie die **Qualifizierungsregeln** auf **jedes Mal** ein (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person Warnhinweise mehrmals auslösen kann.
+   >Stellen Sie die **Qualifizierungsregeln** auf **jedes Mal** ein (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person mehrmals Trigger-Warnungen ausführen kann.
 
 1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren**.
 
@@ -135,12 +135,12 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    >[!NOTE]
    >
-   >Klicken Sie auf die Registerkarte **Personeninfo** in Marketing, um die Kontaktinformationen anzuzeigen.
+   >Klicken Sie in Marketo auf die Registerkarte **Personeninfo**, um die Kontaktinformationen anzuzeigen.
 
-## Auftrag abgeschlossen! {#mission-complete}
+## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 
-[Auftrag 7: E-Mail personalisieren](personalize-an-email.md)
+[◄ Aufgabe 7: E-Mail personalisieren](personalize-an-email.md)
 
-[Mission 9: Lead-Daten aktualisieren ►](update-person-data.md)
+[Aufgabe 9: Lead-Datenwerte aktualisieren ►](update-person-data.md)
