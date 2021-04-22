@@ -1,20 +1,20 @@
 ---
-description: Standardmäßige Feldzuordnung für Dynamiken - Marketing-Dokumente - Produktdokumentation
+description: Standardmäßige Feldzuordnung für Dynamiken - Marketo Docs - Produktdokumentation
 title: Standardmäßige Feldzuordnung für Dynamik
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
-ht-degree: 1%
+ht-degree: 47%
 
 ---
 
-
 # Standardmäßige Feldzuordnung für Dynamik {#default-dynamics-field-mapping}
 
-Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marketo automatisch diese Verbindungen zwischen Ihren integrierten Dynamics- und Marketo-Feldern her.  Marketo synchronisiert auch Ihre benutzerdefinierten Felder auf Ihren Leads, Konten, Chancen und Kontakten.
+Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marketo automatisch diese Verbindungen zwischen Ihren integrierten Dynamics- und Marketo-Feldern her.  Marketo synchronisiert außerdem Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Möglichkeiten und Kontakten.
 
-## Interessentenfelder {#lead-fields}
+## Lead-Felder {#lead-fields}
 
 <table> 
  <colgroup> 
@@ -24,12 +24,12 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Markierungsfeld</th> 
+   <th>Marketo-Feld</th> 
    <th>MS Dynamics Field</th> 
    <th>MS Dynamics API-Name</th> 
   </tr> 
   <tr> 
-   <td>Microsoft Created Date</td> 
+   <td>Microsoft – Erstellungsdatum</td> 
    <td>Erstellt am</td> 
    <td>createdon</td> 
   </tr> 
@@ -39,37 +39,37 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>Anrede</td> 
   </tr> 
   <tr> 
-   <td>Erster</td> 
+   <td>Vorname</td> 
    <td>Vorname</td> 
    <td>firstname</td> 
   </tr> 
   <tr> 
-   <td>Mittel</td> 
-   <td>Mittlerer Name</td> 
+   <td>Zweiter Vorname</td> 
+   <td>Zweiter Vorname</td> 
    <td>middlename</td> 
   </tr> 
   <tr> 
-   <td>Letzte</td> 
+   <td>Nachname</td> 
    <td>Nachname</td> 
    <td>lastname</td> 
   </tr> 
   <tr> 
-   <td>Email</td> 
-   <td>Email</td> 
+   <td>E-Mail</td> 
+   <td>E-Mail</td> 
    <td>emailaddress1</td> 
   </tr> 
   <tr> 
-   <td>Auftragstitel</td> 
-   <td>Titel</td> 
+   <td>Jobtitel</td> 
+   <td>Stellenbezeichnung</td> 
    <td>jobtitle</td> 
   </tr> 
   <tr> 
    <td>Telefon</td> 
-   <td>Business Phone</td> 
+   <td>Geschäftstelefon</td> 
    <td>telephone1</td> 
   </tr> 
   <tr> 
-   <td>Mobilnummer</td> 
+   <td>Mobil</td> 
    <td>Mobiltelefon</td> 
    <td>mobilephone</td> 
   </tr> 
@@ -89,8 +89,8 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>state</td> 
-   <td>Bundesland/-staat</td> 
+   <td>Bundesland</td> 
+   <td>Bundesland/Kanton</td> 
    <td>address1_stateorprovinz</td> 
   </tr> 
   <tr> 
@@ -100,16 +100,16 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
   </tr> 
   <tr> 
    <td>Postleitzahl</td> 
-   <td>PLZ/Postleitzahl</td> 
+   <td>PLZ</td> 
    <td>address1_postalcode</td> 
   </tr> 
   <tr> 
-   <td>Personalquelle</td> 
-   <td>Interessentenquelle</td> 
+   <td>Person – Quelle</td> 
+   <td>Lead-Quelle</td> 
    <td>leadsourcecode</td> 
   </tr> 
   <tr> 
-   <td>Personenstand</td> 
+   <td>Personen-Status</td> 
    <td>Status</td> 
    <td>statecode</td> 
   </tr> 
@@ -119,9 +119,9 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>statuscode</td> 
   </tr> 
   <tr> 
-   <td>Personenknoten</td> 
+   <td>Personenhinweise</td> 
    <td>Beschreibung</td> 
-   <td>description</td> 
+   <td>Beschreibung</td> 
   </tr> 
   <tr> 
    <td>Nicht aufrufen</td> 
@@ -129,43 +129,43 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>donotphone</td> 
   </tr> 
   <tr> 
-   <td>Nicht abonniert</td> 
+   <td>Abgemeldet</td> 
    <td>Keine Massen-E-Mail</td> 
    <td>donotbulkemail</td> 
   </tr> 
   <tr> 
    <td>Personenbewertung</td> 
-   <td>Beurteilung</td> 
+   <td>Bewertung</td> 
    <td>Leadqualitycode</td> 
   </tr> 
   <tr> 
-   <td>Microsoft-Adresse 2</td> 
+   <td>Microsoft – Adresse 2</td> 
    <td>Straße 2</td> 
    <td>address1_line2</td> 
   </tr> 
   <tr> 
-   <td>Microsoft-Adresse 3</td> 
+   <td>Microsoft – Adresse 3</td> 
    <td>Straße 3</td> 
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>Microsoft nicht per E-Mail senden</td> 
+   <td>Microsoft – Keine E-Mail senden</td> 
    <td>E-Mails nicht zulassen</td> 
    <td>Donotemail</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Do Not Fax</td> 
+   <td>Microsoft – Kein Fax senden</td> 
    <td>Faxe nicht zulassen</td> 
    <td>donotfax</td> 
   </tr> 
   <tr> 
-   <td>Microsoft sendet kein Marketingmaterial</td> 
+   <td>Microsoft – Kein Marketingmaterial senden</td> 
    <td>Marketingmaterial</td> 
    <td>donotsendmm</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Home Phone</td> 
-   <td>Home Phone</td> 
+   <td>Microsoft – Telefon privat</td> 
+   <td>Festnetztelefon</td> 
    <td>telephone2</td> 
   </tr> 
   <tr> 
@@ -174,7 +174,7 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>preferConactmethodcode</td> 
   </tr> 
   <tr> 
-   <td>Microsoft-Thema</td> 
+   <td>Microsoft – Thema</td> 
    <td>Thema</td> 
    <td>subject</td> 
   </tr> 
@@ -191,12 +191,12 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Markierungsfeld</th> 
+   <th>Marketo-Feld</th> 
    <th>MS Dynamics Field</th> 
    <th>MS Dynamics API-Name</th> 
   </tr> 
   <tr> 
-   <td>Microsoft Created Date</td> 
+   <td>Microsoft – Erstellungsdatum</td> 
    <td>Erstellt am</td> 
    <td>createdon</td> 
   </tr> 
@@ -206,37 +206,37 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>Anrede</td> 
   </tr> 
   <tr> 
-   <td>Erster</td> 
+   <td>Vorname</td> 
    <td>Vorname</td> 
    <td>firstname</td> 
   </tr> 
   <tr> 
-   <td>Mittel</td> 
-   <td>Mittlerer Name</td> 
+   <td>Zweiter Vorname</td> 
+   <td>Zweiter Vorname</td> 
    <td>middlename</td> 
   </tr> 
   <tr> 
-   <td>Letzte</td> 
+   <td>Nachname</td> 
    <td>Nachname</td> 
    <td>lastname</td> 
   </tr> 
   <tr> 
-   <td>Email</td> 
-   <td>Email</td> 
+   <td>E-Mail</td> 
+   <td>E-Mail</td> 
    <td>emailaddress1</td> 
   </tr> 
   <tr> 
-   <td>Auftragstitel</td> 
-   <td>Auftragstitel</td> 
+   <td>Jobtitel</td> 
+   <td>Jobtitel</td> 
    <td>jobtitle</td> 
   </tr> 
   <tr> 
    <td>Telefon</td> 
-   <td>Business Phone</td> 
+   <td>Geschäftstelefon</td> 
    <td>telephone1</td> 
   </tr> 
   <tr> 
-   <td>Mobilnummer</td> 
+   <td>Mobil</td> 
    <td>Mobiltelefon</td> 
    <td>mobilephone</td> 
   </tr> 
@@ -250,8 +250,8 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>state</td> 
-   <td>Adresse 1: Bundesland/-staat</td> 
+   <td>Bundesland</td> 
+   <td>Adresse 1: Bundesland/Kanton</td> 
    <td>address1_stateorprovinz</td> 
   </tr> 
   <tr> 
@@ -264,7 +264,7 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>address1_postalcode</td> 
   </tr> 
   <tr> 
-   <td>Personenstand</td> 
+   <td>Personen-Status</td> 
    <td>Status</td> 
    <td>statecode</td> 
   </tr> 
@@ -279,28 +279,28 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>donotphone</td> 
   </tr> 
   <tr> 
-   <td>Nicht abonniert</td> 
+   <td>Abgemeldet</td> 
    <td>Keine Massen-E-Mail</td> 
    <td>donotbulkemail</td> 
   </tr> 
   <tr> 
-   <td>Microsoft-Adresse 2</td> 
+   <td>Microsoft – Adresse 2</td> 
    <td>Adresse 1: Straße 2</td> 
    <td>address1_line2</td> 
   </tr> 
    <tr> 
-   <td>Microsoft-Adresse 3</td> 
+   <td>Microsoft – Adresse 3</td> 
    <td>Adresse 1: Straße 3</td> 
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>Microsoft nicht per E-Mail senden</td> 
+   <td>Microsoft – Keine E-Mail senden</td> 
    <td>E-Mails nicht zulassen</td> 
    <td>Donotemail</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Home Phone</td> 
-   <td>Home Phone</td> 
+   <td>Microsoft – Telefon privat</td> 
+   <td>Festnetztelefon</td> 
    <td>telephone2</td> 
   </tr> 
   <tr> 
@@ -321,7 +321,7 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Markierungsfeld</th> 
+   <th>Marketo-Feld</th> 
    <th>MS Dynamics Field</th> 
    <th>MS Dynamics API-Name</th> 
   </tr> 
@@ -336,38 +336,38 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>address1_line1</td> 
   </tr> 
   <tr> 
-   <td>Rechnungsstadt</td> 
+   <td>Abrechnungsort</td> 
    <td>Adresse 1: Ort</td> 
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>Rechnungsland</td> 
+   <td>Abrechnungsland</td> 
    <td>Adresse 1: Land/Region</td> 
    <td>address1_country</td> 
   </tr> 
   <tr> 
-   <td>Postleitzahl der Rechnungsstellung</td> 
+   <td>Postleitzahl für Abrechnung</td> 
    <td>Adresse 1: PLZ/Postleitzahl</td> 
    <td>address1_postalcode</td> 
   </tr> 
   <tr> 
-   <td>Microsoft-Rechnungsadresse 2</td> 
+   <td>Microsoft – Rechnungsadresse 2</td> 
    <td>Adresse 1: Straße 2</td> 
    <td>address1_line2</td> 
   </tr> 
   <tr> 
-   <td>Microsoft-Rechnungsadresse 3</td> 
+   <td>Microsoft – Rechnungsadresse 3</td> 
    <td>Adresse 1: Straße 3</td> 
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>Hauptfach</td> 
-   <td>Hauptfach</td> 
+   <td>Haupttelefonnummer</td> 
+   <td>Haupttelefonnummer</td> 
    <td>telephone1</td> 
   </tr> 
   <tr> 
-   <td>Geschäftstyp</td> 
-   <td>Geschäftstyp</td> 
+   <td>Unternehmenstyp</td> 
+   <td>Unternehmenstyp</td> 
    <td>businessStypecode</td> 
   </tr> 
   <tr> 
@@ -376,19 +376,19 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>accountNumber</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Firma-Status</td> 
+   <td>Microsoft – Unternehmensstatus</td> 
    <td>Status</td> 
    <td>statecode</td> 
   </tr> 
   <tr> 
    <td>Jahresumsatz</td> 
    <td>Jahresumsatz</td> 
-   <td>Umsatz</td> 
+   <td>umsatz</td> 
   </tr> 
   <tr> 
-   <td>Hinweise zur Firma</td> 
+   <td>Unternehmenshinweise</td> 
    <td>Beschreibung</td> 
-   <td>description</td> 
+   <td>Beschreibung</td> 
   </tr> 
   <tr> 
    <td>Branche</td> 
@@ -401,7 +401,7 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
    <td>sic</td> 
   </tr> 
   <tr> 
-   <td>Webseite</td> 
+   <td>Website</td> 
    <td>Webseite</td> 
    <td>website</td> 
   </tr> 
@@ -410,7 +410,7 @@ Wenn Sie Ihr Marketo-Konto zunächst mit Microsoft synchronisieren, stellt Marke
 
 ## Microsoft-bezogene Systemfelder in Marketo (schreibgeschützt) {#microsoft-related-system-fields-in-marketo}
 
-Diese Felder werden in Marketo erstellt, können aber nicht von Kunden angepasst werden.
+Diese Felder werden in Marketo erstellt, können jedoch nicht von Kunden angepasst werden.
 
 <table> 
  <colgroup> 
@@ -419,20 +419,20 @@ Diese Felder werden in Marketo erstellt, können aber nicht von Kunden angepasst
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Markierungsfeld</th> 
+   <th>Marketo-Feld</th> 
    <th>Beschreibung</th> 
   </tr> 
   <tr> 
-   <td>Microsoft-Typ</td> 
+   <td>Microsoft – Typ</td> 
    <td>Interessent oder Kontakt. Wenn leer, existiert der Interessent nur als Person in Marketo</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Created Date</td> 
+   <td>Microsoft – Erstellungsdatum</td> 
    <td>In MS Dynamics erstelltes Datum (kann sich von Erstellt in Marketo unterscheiden)</td> 
   </tr> 
   <tr> 
    <td>Microsoft wird gelöscht</td> 
-   <td>Person war früher bei Microsoft, wurde aber gelöscht und lebt jetzt nur in Marketo</td> 
+   <td>Er war früher bei Microsoft, wurde aber gelöscht und lebt jetzt nur noch in Marketo</td> 
   </tr> 
  </tbody> 
 </table>
