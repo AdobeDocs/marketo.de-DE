@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359422
-description: E-Mail personalisieren - Marketing-Dokumente - Produktdokumentation
+description: E-Mail personalisieren - Marketo Dokumente - Produktdokumentation
 title: E-Mail personalisieren
+exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Personalisieren einer E-Mail {#personalize-an-email}
+# E-Mail personalisieren {#personalize-an-email}
 
 ## Auftrag: Persönliche E-Mails durch Hinzufügen von DatenToken {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
 >* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [E-Mail-Blast senden](/help/marketo/getting-started/quick-wins/send-an-email.md)
->* [Tropfen, Tropfen, Harnwege](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+>* [Massen-E-Mail senden](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Schrittweises Lead-Nurturing](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Schritt 1: E-Mail zur Personalisierung auswählen{#step-select-an-email-to-personalize}
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Dadurch wird eine Kopie der E-Mail als Entwurf erstellt. Sie müssen den Entwurf genehmigen, damit die Änderungen wirksam werden.
+   >Damit wird eine Kopie der E-Mail als Entwurf erstellt. Sie müssen den Entwurf genehmigen, damit die Änderungen wirksam werden.
 
 Wenn Sie keinen Popup-Blocker aktiviert haben, wird der E-Mail-Editor in einem neuen Register/Fenster geöffnet. Klicken Sie andernfalls zweimal auf **Entwurf bearbeiten**.
 
@@ -102,12 +102,12 @@ Wenn Sie keinen Popup-Blocker aktiviert haben, wird der E-Mail-Editor in einem n
 >
 >Benötigen Sie einen schnellen Auffrischungsbericht darüber, wie Sie sich die E-Mail senden? Siehe [E-Mail-Blast senden](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
-### Dienstabschluss {#mission-complete}
+### Aufgabe abgeschlossen {#mission-complete}
 
 Herzlichen Glückwunsch! Sie haben Ihre E-Mail personalisiert!
 
 <br> 
 
-[Auftrag 6: Tropfen, Tropfen, Harnwege](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[◄ Aufgabe 6: Schrittweises Lead-Nurturing](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
-[Mission 8: Warnung des Vertriebsmitarbeiters ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[Aufgabe 8: Vertriebsmitarbeiter benachrichtigen ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
