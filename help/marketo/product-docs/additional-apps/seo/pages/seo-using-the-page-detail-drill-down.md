@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949186
-description: SEO - Mit dem Drilldown für Seitendetails - Marketing Docs - Produktdokumentation
+description: SEO - Mit dem Drilldown für Seitendetails - Marketo Docs - Produktdokumentation
 title: SEO - Mit dem Drilldown-Verfahren für Seitendetails
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Mit dem Drilldown für Seitendetails {#seo-using-the-page-detail-drill-down}
 
@@ -33,16 +33,16 @@ Mit dem Detaillierungsgrad der Seite können Sie viele Informationen zu Ihren Se
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
-| Posten | Beschreibung |
+| Element | Beschreibung |
 |---|---|
 | Optimierungsergebnis | Die geheime Sauce, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
 | Aufgabenfeld | Zeigt die Anzahl der offenen Probleme in Bezug auf die Seite an, auf der Sie sich befinden. |
 | Inbound Links gesamt | Die Gesamtzahl der eingehenden Links zu Ihrer Website. |
 | Inbound Links (eindeutige Domänen) | Die Anzahl der anderen Websites mit mindestens einem eingehenden Link zu Ihrer Site. |
 | Ausgehende Links | Die Anzahl der Links, die von dieser Seite zu anderen Websites führen. |
-| Facebook-Freigabe | Häufigkeit, mit der diese Seite auf Facebook freigegeben wurde. |
-| Facebook-Vorlieben | Häufigkeit, mit der diese Seitenfreigabe auf Facebook gemocht wurde. |
-| Facebook-Klicks | Anzahl der Klicks aus der Facebook-Freigabe. |
+| Facebook Shares | Häufigkeit, mit der diese Seite auf Facebook freigegeben wurde. |
+| Facebook &quot;Gefällt mir&quot; | Häufigkeit, mit der diese Seitenfreigabe auf Facebook gemocht wurde. |
+| Facebook-Klicks | Anzahl der Klicks von der Facebook-Freigabe. |
 
 ## Suchbegriff(e), für die diese Seite optimiert wurde(n) für {#keyword-s-that-page-is-optimized-for}
 
