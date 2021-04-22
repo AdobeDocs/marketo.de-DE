@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949202
-description: SEO - Vorgeschlagene Suchbegriffe abrufen - Marketing Docs - Produktdokumentation
+description: SEO - Vorgeschlagene Suchbegriffe abrufen - Marketo Docs - Produktdokumentation
 title: SEO - Vorgeschlagene Suchbegriffe abrufen
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEO - Vorgeschlagene Suchbegriffe abrufen {#seo-get-suggested-keywords}
 
@@ -37,7 +37,7 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
-   Großartig! Ihr Suchbegriff wurde hinzugefügt.
+   Sehr gut! Ihr Suchbegriff wurde hinzugefügt.
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
@@ -69,7 +69,7 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. Großartig! Ihr Suchbegriff wurde hinzugefügt.
+1. Sehr gut! Ihr Suchbegriff wurde hinzugefügt.
 
    ![](assets/image2014-9-18-11-3a8-3a25.png)
 
