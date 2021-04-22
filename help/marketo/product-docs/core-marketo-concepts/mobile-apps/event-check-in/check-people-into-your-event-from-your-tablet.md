@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949839
-description: Überprüfen Sie Personen von Ihrem Tablet - Marketing Docs - Produktdokumentation in Ihr Ereignis.
+description: Überprüfen Sie Personen auf Ihrem Tablet - Marketo Docs - Produktdokumentation auf Ihr Ereignis.
 title: Personen von Ihrem Tablet in Ihr Ereignis einchecken
+exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
 
-
 # Personen auf Ihrem Tablet {#check-people-into-your-event-from-your-tablet} in Ihr Ereignis einchecken
 
-Wenn Personen in Ihrem Ereignis angezeigt werden, finden Sie deren Informationen in der App. Nach dem Check-in werden sie beim Synchronisieren mit Marketo zum Status &quot;Beendet&quot;befördert.
+Wenn Personen in Ihrem Ereignis angezeigt werden, finden Sie deren Informationen in der App. Nach dem Check-in werden sie beim Synchronisieren mit Marketo zum Status &quot;Angehalten&quot;befördert.
 
 Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Layout- und Designunterschiede.
 
@@ -27,11 +27,11 @@ Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Lay
 
 1. Tippen Sie auf das App-Symbol auf Ihrem iPad oder Android-Tablet.
 
-1. Tippen Sie auf **Anmelden**, um die Marketing Ereignis-App zu starten.
+1. Tippen Sie auf **Anmelden**, um die Marketo Ereignis-App zu starten.
 
    ![](assets/1.jpg)
 
-1. Geben Sie Ihren Benutzernamen und Ihr Passwort ein und klicken Sie auf **Anmelden**.
+1. Geben Sie Ihren Marketo-Benutzernamen und Ihr Kennwort ein und klicken Sie auf **Anmelden**.
 
    >[!NOTE]
    >
@@ -107,7 +107,7 @@ Sie können Gäste, die keine Personen sind, manuell in Ihre Marketo-Datenbank a
    >
    >Überprüfen Sie die E-Mail-Adresse bei der Dublette. Andere Felder können später korrigiert werden, aber die E-Mail-Adresse ist die primäre Methode, um den Gast zu kontaktieren.
 
-Die neue Person wird als bei Ihrem Ereignis eingecheckt registriert und wird bei der Synchronisierung mit Marketo der Datenbank &quot;Marketo&quot;mit dem Status &quot;Beendet&quot;hinzugefügt.
+Die neue Person ist als bei Ihrem Ereignis eingecheckt registriert und wird bei der Synchronisierung mit Marketo der Marketo-Datenbank mit dem Status &quot;Beendet&quot;hinzugefügt.
 
 ## Umkehren eines Check-ins {#reverse-a-check-in}
 
@@ -139,7 +139,7 @@ Die Informationen werden aktualisiert, wenn Sie die App mit Marketo synchronisie
 
 ## Synchronisieren der App mit Marketo {#sync-the-app-with-marketo}
 
-Die Marketing Ereignisses-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder mit der Marketo-Datenbank synchronisieren. Es ist am besten, so bald wie möglich nach dem letzten Check-in zu synchronisieren. Ihr Tablet muss mit dem Internet verbunden sein.
+Die Marketo Ereignisses-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder mit der Marketo-Datenbank synchronisieren. Es ist am besten, so bald wie möglich nach dem letzten Check-in zu synchronisieren. Ihr Tablet muss mit dem Internet verbunden sein.
 
 >[!CAUTION]
 >
@@ -151,18 +151,18 @@ Die Marketing Ereignisses-App funktioniert unabhängig, bis Sie Ihre Aktivität 
 
    Ihr Ereignis wird mit neuen Check-ins in der Marketo-Datenbank aktualisiert. Der rote Zähler auf der Schaltfläche &quot;Synchronisieren&quot;wird gelöscht, bis Sie einen anderen Benutzer einchecken.
 
-   Aus Sicherheitsgründen sollten Sie die Marketing Ereignisses-App beenden, nachdem Sie die Synchronisierung abgeschlossen haben.
+   Aus Sicherheitsgründen sollten Sie die Marketo Ereignisses-App beenden, nachdem Sie die Synchronisierung abgeschlossen haben.
 
 ## Arbeiten mit eingeschränktem Internetzugang {#working-with-limited-internet-access}
 
 Einige Veranstaltungsorte haben einen lausigen Internetzugang. Sie benötigen eine gute Verbindung zu:
 
 * Herunterladen und Installieren der App
-* Anmelden
+* Anmeldung
 * Ereignis auswählen
-* App mit Marketo synchronisieren
+* Synchronisieren der App mit Marketo
 
-Wenn Sie sich wegen des Internetzugangs am Veranstaltungsort Sorgen machen, können Sie sich bei der Marketing Ereignisses-App anmelden und Ihr Ereignis im Voraus an einem Ort mit starkem Internetzugang auswählen. Auf diese Weise können Sie die App weiterhin offline verwenden. Wenn Sie dann wieder eine Internetverbindung herstellen, synchronisieren Sie diese sofort mit der Marketo-Datenbank.
+Wenn Sie sich wegen des Internetzugangs am Veranstaltungsort Sorgen machen, können Sie sich bei der Marketo Ereignisses-App anmelden und Ihr Ereignis im Voraus auswählen, an einem Ort mit starkem Internetzugang. Auf diese Weise können Sie die App weiterhin offline verwenden. Wenn Sie dann wieder eine Internetverbindung herstellen, synchronisieren Sie diese sofort mit der Marketo-Datenbank.
 
 >[!TIP]
 >
