@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951117
-description: Versionshinweise - Mai 2012 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Mai 2012 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Mai 2012
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
-
 
 # Versionshinweise: Mai 2012 {#release-notes-may}
 
@@ -37,7 +37,7 @@ Abbildung 2. Beispiel des archivierten E-Mail-Filters
 
 ## Neue Ereignis-Check-in-App für das iPad {#new-event-check-in-app-for-ipad}
 
-Vereinfachen Sie Ihren Ereignis-Check-in mit unserer neuen iPad-App! Die Ereignis Check-in-App wird mit Ihrem Marketo-Programm synchronisiert und ermöglicht es Ihnen, Registrierungspflichtigen schnell und einfach in ein Ereignis zu checken und neue Interessenten direkt hinzuzufügen.
+Vereinfachen Sie Ihren Ereignis-Check-in mit unserer neuen iPad-App! Die Ereignis Check-in-App wird mit Ihrem Marketo-Programm synchronisiert und ermöglicht es Ihnen, Registrierungspflichtige schnell und einfach in ein Ereignis zu checken und neue Kontakte direkt hinzuzufügen.
 
 Erfordert iOS 5.1 oder höher; Nur iPad.
 
@@ -55,13 +55,13 @@ Abbildung 5. Einchecken
 
 ## Erweiterte Webinar-Bestätigungs-URL {#enhanced-webinar-confirmation-url}
 
-Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie mit dem neuen Token `{{member.webinar URL}}` für jeden registrierten Teilnehmer einen eindeutigen Link in die Bestätigungs-E-Mail ein. Zu den Adobe Connect-Erweiterungen gehört auch die Möglichkeit, die E-Mail mit den Kontoinformationen der Adobe, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren/deaktivieren.
+Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie mit dem neuen Token `{{member.webinar URL}}` einen eindeutigen Link in die Bestätigungs-E-Mail für jeden registrierten Teilnehmer ein. Zu den Adobe Connect-Erweiterungen gehört auch die Möglichkeit, die E-Mail mit den Kontoinformationen der Adobe, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren/deaktivieren.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
 Abbildung 6. Personen zu Ihrem Webinar bringen
 
-## Template-Vorschau {#template-preview}
+## Vorlagenvorschau {#template-preview}
 
 Suchen Sie beim Erstellen Ihrer E-Mail oder Landingpage nach einer bestimmten Vorlage, aber nicht sicher, wie diese aussieht? Mit der neuen Vorlagenfunktion können Sie die ausgewählte Vorschau vor dem Speichern eines neuen Assets überprüfen.
 
@@ -81,7 +81,7 @@ Abbildung 8. Formularvorausfüllkonfiguration in Admin
 
 Abbildung 9. Vorgabeeinstellungen für Formulare auf einer Landingpage bearbeiten
 
-## Marketo Schatztruhe {#marketo-treasure-chest}
+## Marketo Treasure Chest {#marketo-treasure-chest}
 
 Erhalten Sie Zugriff auf experimentelle Funktionen, die von Marketo Engineers entwickelt wurden, um Ihre Benutzererfahrung zu verbessern. Diese Version beinhaltet die Funktion &quot;Rückgängig machen per E-Mail&quot;sowie die Möglichkeit, Kommentare einzugeben und mit anderen Benutzern an Ihren Landingpages zusammenzuarbeiten.
 
@@ -91,7 +91,7 @@ Abbildung 10. Funktionen von Treasure-Test in Admin
 
 ## Microsoft Dynamics® CRM-Integration {#microsoft-dynamics-crm-integration}
 
-Synchronisieren Sie Konten, Kontakte und Interessenten zwischen Marketo und Microsoft Dynamics CRM Online mit unserer neuen vordefinierten Integration!
+Synchronisieren Sie Konten, Kontakte und Interessenten zwischen Marketo und Microsoft Dynamics CRM Online mit unserer neuen, vordefinierten Integration!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
@@ -109,7 +109,7 @@ Abbildung 12. Sales Insight-Einstellungen in Admin
 
 ## Ordner für E-Mail-Vorlagen für Vertrieb {#folders-for-sales-email-templates}
 
-Sie können jetzt die E-Mail-Vorlagen, die mit Marketo Sales Insight freigegeben wurden, in bestimmten Ordnern organisieren, um Ihren Vertriebsmitarbeitern die Suche nach der richtigen E-Mail zu erleichtern.
+Sie können die mit Marketo Sales Insight freigegebenen E-Mail-Vorlagen nun in bestimmten Ordnern organisieren, sodass Ihre Vertriebsmitarbeiter die richtige E-Mail finden können.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
@@ -117,7 +117,7 @@ Abbildung 13. Ordner für E-Mails auswählen
 
 ## Zugriff auf Opportunity Analyzer über Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Geben Sie Ihren Vertriebsmitarbeitern einen Einblick, welche Marketing-Aktivitäten die Interaktion fördern, indem Sie direkt auf den Opportunity Analyzer von Marketo Sales Insight zugreifen. Hinweis: Erfordert eine Analytics-Lizenz für Umsatz.
+Geben Sie Ihren Vertriebsmitarbeitern einen Einblick, welche Marketing-Aktivitäten die Interaktion fördern, indem Sie über Marketo Sales Insight direkt auf den Opportunity Analyzer zugreifen. Hinweis. Erfordert eine Analytics-Lizenz für Umsatz.
 
 ## Benutzerdefiniertes Feld für den Kontaktstatus {#custom-field-for-contact-status}
 
