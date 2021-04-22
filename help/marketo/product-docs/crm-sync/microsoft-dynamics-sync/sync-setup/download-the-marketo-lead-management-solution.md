@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6848922
-description: Laden Sie die Marketing-Interessentenverwaltungslösung - Marketing Docs - Produktdokumentation herunter.
-title: Laden Sie die Marketing-Interessentenverwaltungslösung herunter
+description: Marketo Lead Management Solution - Marketo Docs - Produktdokumentation herunterladen
+title: Marketo Lead Management Solution herunterladen
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 5%
 
 ---
 
-
-# Laden Sie die Marketing-Interessentenverwaltungslösung {#download-the-marketo-lead-management-solution} herunter.
+# Laden Sie die Marketo-Interessentenverwaltungslösung {#download-the-marketo-lead-management-solution} herunter
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
 >[!CAUTION]
 >
->Sie müssen unbedingt die neueste Marketing-Lösung _herunterladen, bevor Sie eine Aktualisierung durchführen._
+>Sie müssen unbedingt die neueste Marketo-Lösung _herunterladen, bevor Sie eine Aktualisierung durchführen._
 
 >[!NOTE]
 >
 >Marketo unterstützt derzeit nur SSL-Zertifikate, die mit Java 7 kompatibel sind.
 
-1. Gehen Sie zum Bereich **Admin**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
    ![](assets/admin-1.png)
 
@@ -39,7 +39,7 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Wählen Sie **Marketing-Lösung herunterladen**.
+1. Wählen Sie **Marketo-Lösung herunterladen**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
@@ -47,4 +47,4 @@ Um die Synchronisierung zu starten, müssen Sie eine Marketo-Lösung in Ihr Micr
 
    ![](assets/msd-online-1.png)
 
-   Fantastisch! Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.
+   Fantastisch Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.
