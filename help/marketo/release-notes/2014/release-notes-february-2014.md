@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951048
-description: Versionshinweise - Februar 2014 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Februar 2014 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Februar 2014
+exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Versionshinweise: Februar 2014 {#release-notes-february}
 
-Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Überprüfen Sie Ihre Marketing Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu den Links zu detaillierten Artikeln der Wissensdatenbank für jede Funktion zurückkehren!
+Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Überprüfen Sie Ihre Marketo Edition auf Verfügbarkeit der Funktionen. Stellen Sie nach der Veröffentlichung sicher, dass Sie wieder zu den Links zu detaillierten Artikeln der Wissensdatenbank für jede Funktion zurückkehren!
 
-## Interaktionsbewertung als Gewinnkriterien {#engagement-score-as-winning-criteria}
+## Engagement-Bewertung als entscheidendes Kriterium {#engagement-score-as-winning-criteria}
 
 [Verwenden Sie den Interaktionswert, ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) um die Gewinner-Variante im A/B-Split-Test oder im Champion/Challenger-Test zu ermitteln. Der Test muss mindestens 24 Stunden lang ausgeführt werden, um einen angemessenen Interaktionswert zu erhalten.
 
@@ -43,7 +43,7 @@ Der Interaktionswert wurde dem Bericht [Leistung des Interaktions-Streams](/help
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
-## Programm-Details in der E-Mail-Analyse {#program-details-in-email-analysis}
+## Programmdetails in der E-Mail-Analyse {#program-details-in-email-analysis}
 
 [Jetzt können Sie Ihre E-Mail-Metriken nach Programm, Kanal und Tags](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) gruppieren. Der Name des Programms wird dem Feld &quot;E-Mail-Name&quot;hinzugefügt, wenn es sich bei der E-Mail um ein lokales Asset für das Programm handelt. Das neue Feld &quot;Name des Programms&quot;zeigt den Programm der intelligenten Kampagne an, die die E-Mail gesendet hat. Dies kann sich vom Programm im Feld &quot;E-Mail-Name&quot;unterscheiden, wenn es sich bei der E-Mail um ein lokales Asset eines anderen Programms handelt.
 
@@ -59,7 +59,7 @@ Die folgenden Filter- und Trigger-Namen wurden aktualisiert:
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 
-## Forms 2.0-Verbesserungen {#forms-enhancements}
+## Verbesserungen für Formulare 2.0 {#forms-enhancements}
 
 Mit dieser Version haben wir Forms 2.0 mehrere &quot;Quality of Life&quot;-Updates bereitgestellt. Neben der Aktivierung der progressiven Profilerstellung für eingebettete Formulare haben wir Workflow- und UX-Änderungen vorgenommen, die die Verwendung der erweiterten Funktionen im Editor, [einschließlich der Sichtbarkeitsregeln](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), der erweiterten Dankeseiten und der ausgeblendeten Felder erleichtern.
 
