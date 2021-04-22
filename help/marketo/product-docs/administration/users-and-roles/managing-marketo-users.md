@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359906
-description: Verwalten von Marketing-Benutzern - Marketing-Dokumente - Produktdokumentation
-title: Verwalten von Marketing-Benutzern
+description: Verwalten von Marketo-Benutzern - Marketo Docs - Produktdokumentation
+title: Verwalten von Marketo-Benutzern
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
-# Verwalten von Markierungen für Benutzer {#managing-marketo-users}
+# Verwalten von Marketo-Benutzern {#managing-marketo-users}
 
 ## Erstellen von Benutzern {#create-users}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Ein Ablaufdatum ist ideal für kurzfristige externe Interessenten oder Berater, die Marketo nur für kurze Zeit benötigen.
+   >Ein Ablaufdatum eignet sich hervorragend für kurzfristige externe Interessenvertreter oder Berater, die nur für kurze Zeit auf Marketo zugreifen müssen.
 
    >[!NOTE]
    >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 Der neue Benutzer wird jetzt auf der Registerkarte &quot;Benutzer&quot;aufgelistet und erhält eine E-Mail mit Anweisungen zur Aktivierung seines Kontos.
 
-## Benutzer {#delete-users} löschen
+## Benutzer löschen {#delete-users}
 
 1. Gehen Sie zu Admin und klicken Sie auf **Benutzer und Rollen**.
 
@@ -115,7 +115,7 @@ Der Benutzer erhält eine E-Mail mit Anweisungen zum Zurücksetzen des Kennworts
 
 >[!CAUTION]
 >
->Wenn Sie der einzige Administrator in Marketing sind, sollten Sie Ihre eigenen Administratorrechte nicht entfernen.
+>Wenn Sie der einzige Administrator in Marketo sind, sollten Sie Ihre eigenen Administratorrechte nicht entfernen.
 
 >[!NOTE]
 >
