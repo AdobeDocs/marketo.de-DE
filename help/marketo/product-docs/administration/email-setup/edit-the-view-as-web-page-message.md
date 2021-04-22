@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360253
-description: Bearbeiten Sie die Meldung "Ansicht als Webseite"- Marketing Docs - Produktdokumentation
+description: Bearbeiten Sie die Meldung "Ansicht als Webseite"- Marketo Docs - Produktdokumentation
 title: Die Meldung "Ansicht als Webseite"bearbeiten
+exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Bearbeiten Sie die Meldung &quot;Ansicht als Webseite&quot; {#edit-the-view-as-web-page-message}
 
@@ -51,11 +51,11 @@ Da hast du es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 
 Wenn Sie jemals zum Standardsystem &quot;Ansicht als Webseite&quot;zurückkehren müssen, kopieren Sie Folgendes:
 
-**Ansicht als Webseiten-HTML:**
+**Als Webseiten-HTML anzeigen:**
 
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
 
-**Ansicht als Webseiten-Text:**
+**Als Webseitentext anzeigen:**
 
 Um diese E-Mail als Webseite Ansicht, gehen Sie zur folgenden Adresse:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom! Du bist fertig.
