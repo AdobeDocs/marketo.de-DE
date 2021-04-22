@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8159286
-description: Opportunity Filters and Triggers - Marketing Docs - Produktdokumentation
+description: Opportunity-Filter und Trigger - Marketo Docs - Produktdokumentation
 title: Chancen, Filter und Trigger
+exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Opportunity-Filter und -Trigger {#opportunity-filters-and-triggers}
 
@@ -19,13 +19,13 @@ Mit Opportunity-Filtern und -Triggern können Sie Opportunity-Ereignis von Sales
 
 Mit den Filtern von Gelegenheiten können Sie Ihre Salesforce-Leads, die Chancen haben, näher untersuchen. Sie können sie beim Bearbeiten einer intelligenten Liste im Ordner &quot;Chancen&quot;der Palette finden. Sie kommen in ein paar Geschmacksrichtungen.
 
-* Anzahl der Optionen
-* Optimalbetrag gesamt
-* Erwarteter Gesamtumsatz der Option
-* Hat Chancen
+* Anzahl Opportunities
+* Opty-Gesamtbetrag
+* Erwarteter Opty-Gesamtumsatz
+* Hat Opportunity
 * Gelegenheit wurde hinzugefügt
 * Chancen wurden entfernt
-* Gelegenheit wurde aktualisiert
+* Opportunity wurde aktualisiert
 
 Wenn Sie nach Ihren Opportunity-Feldern suchen (benutzerdefiniert oder Standard), verwenden Sie den Filter **Hat Chancen** oder **Die Gelegenheit war`[Added/Removed/Updated]`** Filter oder Trigger.
 
@@ -57,7 +57,7 @@ Nehmen wir beispielsweise an, Sie möchten Interessenten finden, die eine offene
 >
 >Wenn Sie mehrere Opportunity-Filter verwenden, erhalten Sie möglicherweise falsche Antworten. Wenn Sie das obige Beispiel mit zwei Opportunity-Filtern erstellen, erhalten Sie eine Liste von Interessenten, die eine Chance von mindestens 5.000 $ haben und jede Gelegenheit, die geschlossen ist, auch wenn es sich um separate Möglichkeiten handelt.
 
-**Gelegenheit wurde aktualisiert**
+**Opportunity wurde aktualisiert**
 
 Der Filter **Gelegenheit wurde aktualisiert** sucht nach Möglichkeiten, wenn ein bestimmtes Feld aktualisiert wurde. Wählen Sie das Feld aus, um es mit dem Pulldown für das Trigger-Attribut zu überprüfen, und verwenden Sie dann die Einschränkungen, um den Änderungssatz einzugrenzen.
 
@@ -69,9 +69,9 @@ Dieser Filter zeigt beispielsweise alle Interessenten an, deren Datumsangabe in 
 
 Die folgenden Trigger stehen zur Verfügung. Sie funktionieren genau wie die entsprechenden Filter (siehe Beschreibung weiter oben), mit der Ausnahme, dass sie Kampagnen beim Trigger des Ereignisses direkt ausführen können:
 
-* Chancen werden aktualisiert
-* Zu Chancen hinzugefügt
-* Aus Gelegenheit entfernt
+* Opportunity wird aktualisiert
+* Zu Opportunity hinzugefügt
+* Aus Opportunity entfernt
 
 Sie können diese intelligente Liste beispielsweise zum Trigger verwenden, wenn ein Interessent zu einer beliebigen Gelegenheit hinzugefügt wird. Im Fluss können Sie sie der Liste &quot;Ausgesetzt für Marketing&quot;hinzufügen oder ihnen eine zielgerichtete E-Mail senden.
 
