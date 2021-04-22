@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37357276
-description: Versionshinweise - 20. Juni - Marketing Docs - Produktdokumentation
+description: Versionshinweise - 20. Juni - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Juni 20
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1073'
 ht-degree: 0%
 
 ---
 
-
 # Versionshinweise: Juni &#39;20 {#release-notes-june}
 
-Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfe
 
 **_Vierteljährliche_** ReleasesDie folgenden Funktionen werden am 5.  **Juni 2020** veröffentlicht.
 
-## Core-Marketo Engage {#core-marketo-engage}
+## Kern-Marketo-Einbindung {#core-marketo-engage}
 
 * **[Prognostische Audiencen](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(Stern)](assets/star-yellow.svg): Mit den neuen Filtern für intelligente Liste und intelligente Kampagne mit Adobe Sensei können Sie AI-basierte Audiencen für E-Mail-, Ereignis- und Webinar-Marketing-Programm erstellen. Verwenden Sie AI, um Audiencen basierend auf der Interessentenwahrscheinlichkeit zu segmentieren, um sich für ein Ereignis zu registrieren, ein Ereignis zu besuchen oder sich abzumelden. Erstellen Sie aussehende Audiencen auf der Grundlage vergangener Programm, um den vorherigen Erfolg effizient zu replizieren. Erzielen Sie Konversionsziele mit vorausschauender Zielverfolgung und erhalten Sie Empfehlungen, wie Sie Ihre Audiencen für Ereignis-Programm optimieren können.
 * **Batch-E-Mail-Boost** ![(Stern)](assets/star-yellow.svg): Verbesserung unserer E-Mail-Marketingfunktion, mit der Sie bis zu 3 Millionen Batch-E-Mails pro Stunde senden können. Wir haben unsere Batch-Kampagne und die Verarbeitung von E-Mail-Berichten neu gestaltet, um die Leistung von E-Mail-Programmen und Batch-E-Mail-Kampagnen zu verbessern. Dies führt zu kürzeren Vorlaufzeiten und verbesserter Abschlusszeit. Richten Sie Ihre E-Mail-Nachrichten so ein, wie Sie es normalerweise tun würden. Es gibt keine zusätzliche Komplexität. Diese Verbesserung ist als Produkt-Add-on verfügbar, das auch ein Versand Services Launch Pack, E-Mail-Versand-Tools und mehrere dedizierte IP-Adressen umfasst.
@@ -33,7 +33,7 @@ Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfe
 * **E-Mail-Preheader über API** festlegen: Aktivieren Sie die automatische Übersetzung und lokale Anpassung von E-Mail-VorKopfzeilenfeldern. Verbesserung unserer API.
 * **Bild- und Dateizwischenspeicherung**: Die Stabilität des Marketo Engage-Servers wird verbessert, indem Bild- und Dateielemente aus einem 60-Sekunden-Cache bereitgestellt werden.
 
-## Kontobasiertes Marketing {#account-based-marketing}
+## Kundenbezogenes Marketing {#account-based-marketing}
 
 ![(Stern)](assets/star-yellow.svg)
 
@@ -47,7 +47,7 @@ Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfe
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden in den kommenden Monaten veröffentlicht.
 
-## Bizibel {#bizible}
+## Bizible {#bizible}
 
 ![(Stern)](assets/star-yellow.svg)
 
@@ -65,7 +65,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 <br> 
 
-## Mitteilungen {#announcements}
+## Ankündigungen {#announcements}
 
 * **ITP 2.1+ RTP Update**: Aufgrund von Änderungen an der Cookie-Richtlinie für Safari wird die Möglichkeit von RTP-Cookies, Benutzer sitzungsübergreifend in derselben Domäne zu verfolgen, von ITP auf je nach Browser- und Browserversion des Besuchers auf 1 oder 7 Tage beschränkt. Um dies zu berücksichtigen, implementieren wir einen neuen Webdienst, mit dem RTP-Cookies per HTTP-Antwort mit einem Set-Cookie-Header gesetzt werden können. Weitere Informationen finden Sie [hier](https://nation.marketo.com/t5/Knowledgebase/Browser-Cookie-Updates-How-Marketo-RTP-Is-Affected/ta-p/299603).
 
