@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147089
-description: Programme - Marketing-Dokumente - Produktdokumentation
+description: Programme - Marketo Docs - Produktdokumentation
 title: Programme verstehen
+exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # Programme {#understanding-programs}
 
@@ -17,11 +17,11 @@ Programme stellen eine einzige Marketinginitiative dar. Sie können sich das Pro
 
 Es gibt vier Arten von Programmen:
 
-**Ereignis-Programm**
+**Veranstaltungsprogramme**
 
 **[Für](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** Ereignisse gilt eine bestimmte Uhrzeit und ein bestimmtes Datum. Sie unterstützen Sie bei der Koordination, Erleichterung und Verfolgung Ihrer Live- und Online-Ereignisse.
 
-**Interaktions-Programme**
+**Engagementprogramme**
 
 **[Drip](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** Nurturingis wird angewendet, um Menschen in einem festgelegten periodischen Plan zu ernähren.
 
@@ -29,11 +29,11 @@ Es gibt vier Arten von Programmen:
 
 Die **[klassische E-Mail-Blast](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Es enthält coole integrierte Funktionen wie A/B-Tests und **[Email Head-Beginn](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
-**Standardmäßige Programm**
+**Standardprogramme**
 
 Ein Standard-Programm ist alles, was kein Ereignis-, Interaktions- oder E-Mail-Programm ist. Schaffen Sie sich kreative Ideen.
 
-Fangen wir an!
+Los geht&#39;s!
 
 >[!MORELIKETHIS]
 >
