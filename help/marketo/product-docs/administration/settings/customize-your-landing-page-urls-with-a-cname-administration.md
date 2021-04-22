@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360189
-description: Passen Sie Ihre Landingpages-URLs mit einem CNAME (Administration) - Marketing Docs - Produktdokumentation an.
+description: Passen Sie Ihre Landingpages-URLs mit einem CNAME (Administration) - Marketo Docs - Produktdokumentation an.
 title: Passen Sie Ihre Landingpages-URLs mit einem CNAME (Administration) an
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Passen Sie Ihre Landingpages-URLs mit einem CNAME (Administration) {#customize-your-landing-page-urls-with-a-cname-administration} an
 
-Obwohl Marketo Ihre Landingpages hostet, sollte die URL für Ihre Firma angepasst werden.
+Auch wenn Marketo Ihre Landingpages hostet, sollte die URL für Ihre Firma angepasst werden.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Obwohl Marketo Ihre Landingpages hostet, sollte die URL für Ihre Firma angepass
 >
 >**Administratorberechtigungen erforderlich**
 
-Lasst uns euch einrichten!
+Wir helfen Ihnen gerne bei der Einrichtung!
 
 1. Wählen Sie einen CNAME.
 
@@ -73,6 +73,6 @@ Lasst uns euch einrichten!
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-Auf Ihrer Fallback-Seite werden Personen umgeleitet, wenn Ihre Marketing-Landingpage nicht verfügbar ist.
+Auf Ihrer Ausweichseite werden Personen umgeleitet, wenn Ihre Marketo-Landingpage nicht verfügbar ist.
 
 Gute Arbeit! Ihre Landingpages werden jetzt mit Ihrer Firma-Domäne gekennzeichnet.
