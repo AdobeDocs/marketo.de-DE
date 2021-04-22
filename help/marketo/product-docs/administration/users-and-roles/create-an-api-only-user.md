@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360207
-description: Erstellen eines Nur-API-Benutzers - Marketing-Dokumente - Produktdokumentation
+description: Erstellen eines Nur-API-Benutzers - Marketo Docs - Produktdokumentation
 title: Nur-API-Benutzer erstellen
+exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines Nur-API-Benutzers {#create-an-api-only-user}
 
