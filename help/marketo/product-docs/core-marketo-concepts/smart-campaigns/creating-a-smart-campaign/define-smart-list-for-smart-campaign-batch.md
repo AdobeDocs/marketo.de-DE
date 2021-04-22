@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146940
-description: Intelligente Liste für intelligente Kampagne definieren | Batch - Marketing Docs - Produktdokumentation
+description: Intelligente Liste für intelligente Kampagne definieren | Batch - Marketo Docs - Produktdokumentation
 title: Intelligente Liste für intelligente Kampagne definieren | Stapel
+exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
-
 # Intelligente Liste für intelligente Kampagne definieren | Batch {#define-smart-list-for-smart-campaign-batch}
 
-Intelligente Listen sind der Mechanismus, mit dem in ganz Marketo &quot;wer&quot;(welche Personen) definiert werden soll, ob es sich um einen Bericht, eine Liste oder eine intelligente Kampagne handelt. So definieren Sie eine intelligente Liste für eine Batch-Kampagne.
+Intelligente Listen sind der Mechanismus in Marketo, um zu definieren, wer (welche Personen) eingeschlossen werden soll, ob es sich um einen Bericht, eine Liste oder eine intelligente Kampagne handelt. So definieren Sie eine intelligente Liste für eine Batch-Kampagne.
 
 1. Wählen Sie eine intelligente Kampagne und klicken Sie dann auf **Intelligente Liste**.
 
