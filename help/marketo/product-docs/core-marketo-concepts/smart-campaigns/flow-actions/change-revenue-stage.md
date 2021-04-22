@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147080
-description: Umsatzstufe ändern - Marketing-Dokumente - Produktdokumentation
-title: Umsatzstufe ändern
+description: Umsatzstufe ändern - Marketo Docs - Produktdokumentation
+title: Umsatzstadium ändern
+exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Umsatzstufe ändern {#change-revenue-stage}
+# Umsatzstadium ändern {#change-revenue-stage}
 
 ## Übersicht {#overview}
 
@@ -19,7 +19,7 @@ Wenn Sie den Umsatzwyklen-Modellierer verwenden und über ein zugelassenes Model
 
 ![](assets/image2014-9-22-17-3a4-3a59.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Wählen Sie das **Modell**.
 
