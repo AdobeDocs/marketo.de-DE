@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953415
-description: Verwenden der Seite "Personendetails"- "Marketing-Dokumente - Produktdokumentation"
+description: Verwenden der Seite "Personendetails"- Marketo Dokumente - Produktdokumentation
 title: Verwenden der Seite "Personendetails"
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 0%
+ht-degree: 50%
 
 ---
-
 
 # Verwenden der Seite mit den Personendetails {#using-the-person-detail-page}
 
@@ -42,22 +42,22 @@ Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 | Registerkarte | Beschreibung |
 |---|---|
 | Info | Kontaktinformationen und benutzerdefinierte Felder zu einer Person. |
-| Firma | Angaben und Anschrift der Person zur Firma. |
-| Opportunity Info | Aus Salesforce synchronisierte Opportunity-Informationen. |
-| SFDC-Interessentenfeld | Integrierte Salesforce-Felder. |
+| Unternehmensinfo | Angaben und Anschrift der Person zur Firma. |
+| Opportunity-Info | Aus Salesforce synchronisierte Opportunity-Informationen. |
+| SFDC-Lead-Feld | Integrierte Salesforce-Felder. |
 | Benutzerdefiniertes SFDC-Feld | Benutzerdefinierte Salesforce-Felder. |
-| Aktivitäten-Protokoll | Alle Aktivitäten, die mit der Person zusammenhängen. |
+| Aktivitätsprotokoll | Alle Aktivitäten, die mit der Person zusammenhängen. |
 
 ## Seitenorganisation - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
 | Registerkarte | Beschreibung |
 |---|---|
 | Info | Kontaktinformationen und benutzerdefinierte Felder zu einer Person. |
-| Firma | Angaben und Anschrift der Person zur Firma. |
-| Opportunity Info | Von Microsoft synchronisierte Opportunity-Informationen. |
-| Microsoft Benutzerdefinierte Felder | Benutzerdefinierte Microsoft-Felder. |
-| Microsoft-Interessentenfeld | Integrierte Microsoft-Felder. |
-| Aktivitäten-Protokoll | Alle Aktivitäten, die mit der Person zusammenhängen. |
+| Unternehmensinfo | Angaben und Anschrift der Person zur Firma. |
+| Opportunity-Info | Von Microsoft synchronisierte Opportunity-Informationen. |
+| Benutzerdefinierte Microsoft-Felder | Benutzerdefinierte Microsoft-Felder. |
+| Microsoft-Lead-Feld | Integrierte Microsoft-Felder. |
+| Aktivitätsprotokoll | Alle Aktivitäten, die mit der Person zusammenhängen. |
 
 >[!NOTE]
 >
@@ -69,37 +69,37 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Marketo-Standardfelder vor der CRM-Synchronisierung {#marketo-default-fields-prior-to-crm-sync}
+## Marketo-Standardfelder vor CRM-Synchronisierung {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Adresse | Jahresumsatz | Anonyme IP | Rechnungsadresse | Rechnungsstadt |
-| Rechnungsland | Postleitzahl der Rechnungsstellung | Rechnungsstaat | Ort | Name der Firma |
+| Adresse | Jahresumsatz | Anonyme IP | Rechnungsadresse | Abrechnungsort |
+| Abrechnungsland | Postleitzahl für Abrechnung | Bundesland für Abrechnung | Ort | Unternehmensname |
 | Land | Erstellt am | Geburtsdatum | Abteilung | Nicht aufrufen |
-| Ursache nicht aufrufen | Grund nicht aufrufen | Email-Adresse | Email ungültig | Email-Fehler |
-| Externe Firmen-ID | Externe Vertriebskennung | Faxnummer | Vorname | Vollständiger Name |
-| Branche | Inferated City | Vorgestellte Firma | Inferiertes Land | Großraum |
-| Abgeleiteter Telefonbereichscode | Postleitzahl | Inferierte Staatsregion | Ist anonym | Ist Kunde |
-| Ist Partner | Auftragstitel | Nachname | Beurteilung | Ergebnis |
-| Personalquelle | Status | Hauptfach | Anzeigename von &quot;Social Facebook&quot; | Marketing-zu-Social-Facebook-ID |
-| Marketing-zu-Social-Facebook-Foto-URL | Marketing-zu-Social-Facebook-Profil-URL | Marketing-zu-Social-Facebook-Reichweite | Auf Facebook verwiesene &quot;Social Marketing&quot;-Registrierungen | Von Social Facebook verwiesene Besuche |
-| Marketing für soziales Geschlecht | Anmeldung für &quot;Social zuletzt referenziert&quot; | Marketing zu Social - Letzter verwiesener Besuch | Markieren in Social LinkedIn-Anzeigename | MarketingIn Social LinkedIn-ID |
-| Marketing-zu-Social LinkedIn-Foto-URL | Marketing-zu-Social-LinkedIn-Profil-URL | Marketing-Social LinkedIn-Reichweite | Von &quot;Social&quot;verwiesene LinkedIn-Registrierungen | Von Marketing zu Social verwiesene LinkedIn-Besuche |
-| Marketing-Social-Syndikations-ID | In Social verwiesene Registrierungen gesamt | Marketing in Social insgesamt verwiesene Besuche | Anzeigename von Marketing in Social Twitter | Marketing-zu-Social-Twitter-ID |
-| Marketing-zu-Social-Twitter-Foto-URL | Marketing-zu-Social-Twitter-Profil-URL | Marketing in Social - Twitter-Reichweite | Von Marketing zu Social verwiesene Twitter-Registrierungen | Von Marketing zu Social verwiesene Twitter-Besuche |
-| Mittlerer Name | Mobiltelefonnummer | Anzahl Arbeitnehmer | Telefonnummer | Postleitzahl |
-| Priorität | Relative Bewertung | Rolle | Anrede | SIC-Code |
-| Site | state | Nicht abonniert | Grund für nicht abonnierte Benutzer | Aktualisiert am |
-| Dringlichkeit | Webseite |  |  |  |
+| Nicht aufrufen – Grund | Nicht aufrufen – Ursache | E-Mail-Adresse | E-Mail-Adresse ungültig | Grund für ungültige E-Mail |
+| Externe Unternehmens-ID | Externe Vertriebsmitarbeiter-ID | Faxnummer | Vorname | Vollständiger Name |
+| Branche | Abgeleiteter Ort | Abgeleitetes Unternehmen | Abgeleitetes Land | Abgeleiteter Stadtbereich |
+| Abgeleitete Vorwahl | Abgeleitete Postleitzahl | Abgeleitetes Bundesland/abgeleitete Region | Ist anonym | Ist Kunde |
+| Ist Partner | Jobtitel | Nachname | Bewertung | Bewertung |
+| Person – Quelle | Status | Haupttelefonnummer | Marketo Social – Facebook-Anzeigename | Marketo Social Facebook-ID |
+| Marketo Social – Facebook-Foto-URL | Marketo Social – Facebook-Profil-URL | Marketo Social – Facebook-Reichweite | Marketo Social – bezeichnete Registrierungen bei Facebook | Marketo Social – bezeichnete Besuche bei Facebook |
+| Marketo Social – Geschlecht | Marketo Social – letzte bezeichnete Registrierung | Marketo Social – letzter bezeichneter Besuch | Marketo Social – LinkedIn-Anzeigename | Marketo Social LinkedIn-ID |
+| Marketo Social – LinkedIn-Foto-URL | Marketo Social – LinkedIn-Profil-URL | Marketo Social – LinkedIn-Reichweite | Marketo Social – bezeichnete Registrierungen bei LinkedIn | Marketo Social – bezeichnete Besuche bei LinkedIn |
+| Marketo Social Syndication-ID | Marketo Social – bezeichnete Registrierungen insgesamt | Marketo Social – bezeichnete Besuche insgesamt | Marketo Social – Twitter-Anzeigename | Marketo Social Twitter-ID |
+| Marketo Social – Twitter-Foto-URL | Marketo Social – Twitter-Profil-URL | Marketo Social – Twitter-Reichweite | Marketo Social – bezeichnete Registrierungen bei Twitter | Marketo Social – bezeichnete Besuche bei Twitter |
+| Zweiter Vorname | Mobiltelefonnummer | Anzahl Mitarbeiter | Telefonnummer | Postleitzahl |
+| Priorität | Relative Bewertung | Stellenbeschreibung | Anrede | SIC-Code |
+| Seite | Bundesland | Abgemeldet | Ursache für Abbestellung | Aktualisiert am |
+| Dringlichkeit | Website |  |  |  |
 
 >[!NOTE]
 >
 >Einige Felder sind bearbeitbar:__
 >
->* Aktivitäten-Protokoll
+>* Aktivitätsprotokoll
 >* Informationen zur Firma
 >* Möglichkeiten für die Kontakte zum SFDC
->* Bestimmte marketingspezifische Felder, wie &quot;Erstellungsdatum&quot;und &quot;Ursprünglicher Quelltyp&quot;.
+>* Bestimmte Marketo-spezifische Felder, wie &quot;Erstellungsdatum&quot;und &quot;Ursprünglicher Quelltyp&quot;.
 
 >
 >
