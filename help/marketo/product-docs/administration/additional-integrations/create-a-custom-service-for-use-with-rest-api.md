@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360350
-description: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API - Marketing Docs - Produktdokumentation
+description: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API - Marketo Docs - Produktdokumentation
 title: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API {#create-a-custom-service-for-use-with-rest-api}
 
