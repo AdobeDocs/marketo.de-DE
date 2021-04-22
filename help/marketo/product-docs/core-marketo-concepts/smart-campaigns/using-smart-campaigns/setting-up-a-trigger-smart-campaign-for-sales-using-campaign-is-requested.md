@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514898
-description: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mithilfe von "Kampagne ist angefordert"- Marketing Docs - Produktdokumentation
+description: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mithilfe von "Kampagne ist angefordert"- Marketo Docs - Produktdokumentation
 title: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mithilfe von "Kampagne ist angefordert"
+exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-
 # Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mithilfe von &quot;Kampagne ist angefordert&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
-Eines der coolsten Merkmale von Marketo ist die Fähigkeit, Verkaufspersonal an den Marketingbemühungen teilnehmen zu lassen. Sie sind an der Front und interagieren mit Leuten. Vertriebsmitarbeiter sollten in der Lage sein, Marketing in die richtige Richtung zu lenken.
+Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeitern die Teilnahme an Marketingmaßnahmen zu ermöglichen. Sie sind an der Front und interagieren mit Leuten. Vertriebsmitarbeiter sollten in der Lage sein, Marketing in die richtige Richtung zu lenken.
 
 >[!NOTE]
 >
