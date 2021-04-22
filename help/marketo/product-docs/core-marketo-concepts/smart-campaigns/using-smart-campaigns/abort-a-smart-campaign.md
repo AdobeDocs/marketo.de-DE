@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147053
-description: Abbrechen einer intelligenten Kampagne - Marketing Docs - Produktdokumentation
+description: Abbrechen einer intelligenten Kampagne - Marketo Docs - Produktdokumentation
 title: Abbrechen einer intelligenten Kampagne
+exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # Abbrechen einer intelligenten Kampagne {#abort-a-smart-campaign}
 
@@ -39,7 +39,7 @@ Manchmal starten Sie eine kluge Kampagne und erkennen sofort, dass es ein Fehler
 
    >[!NOTE]
    >
-   >Sehen Sie sich die Registerkarte **Ergebnisse** der intelligenten Kampagne an, um zu sehen, welche Aktionen vor dem Abbruch durchgeführt wurden. Außerdem finden Sie eine [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) mit weiteren Details.
+   >Sehen Sie sich die Registerkarte **Ergebnisse** der intelligenten Kampagne an, um zu sehen, welche Aktionen vor dem Abbruch durchgeführt wurden. Sie finden auch eine [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) mit weiteren Details.
 
    >[!TIP]
    >
