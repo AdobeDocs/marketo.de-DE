@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146974
-description: Qualifikationsregeln in einer intelligenten Kampagne bearbeiten - Marketing Docs - Produktdokumentation
+description: Qualifikationsregeln in einer intelligenten Kampagne bearbeiten - Marketo Docs - Produktdokumentation
 title: Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne
+exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne {#edit-qualification-rules-in-a-smart-campaign}
 
