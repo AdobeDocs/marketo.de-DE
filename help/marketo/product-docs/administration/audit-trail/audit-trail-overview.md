@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377945
-description: Audit-Trail-Übersicht - Marketing-Dokumente - Produktdokumentation
+description: Übersicht über den Prüfpfad - Marketo Dokumente - Produktdokumentation
 title: Übersicht über Prüfprotokolle
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-
 # Prüfpfad-Übersicht {#audit-trail-overview}
 
-Audit Trail bietet Ihnen die Möglichkeit, einen vollständigen Verlauf (sechs Monate) von Änderungen zu erhalten, die in Ihrer Marketo-Instanz vorgenommen wurden.
+Audit Trail bietet Ihnen die Möglichkeit, einen vollständigen Verlauf der in Ihrer Marketo-Instanz vorgenommenen Änderungen (im Wert von sechs Monaten) zu erhalten.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Audit Trail bietet Ihnen die Möglichkeit, einen vollständigen Verlauf (sechs M
 
 ## Was ist Prüfpfad {#what-is-audit-trail}
 
-Audit Trail erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in einem Marketing-Abonnement auftreten. Es bietet eine Self-Service-Möglichkeit zum Zugriff auf eine sechsmonatige Datengeschichte, um Antworten auf Fragen wie die folgenden zu erhalten:
+Audit Trail erfasst in Echtzeit eine umfassende Liste von Maßnahmen und Ereignissen, die in einem Marketo-Abonnement auftreten. Es bietet eine Self-Service-Möglichkeit zum Zugriff auf eine sechsmonatige Datengeschichte, um Antworten auf Fragen wie die folgenden zu erhalten:
 
 Was ist mit diesem Asset oder dieser Einstellung passiert und wer hat es zuletzt aktualisiert?
 
@@ -36,7 +36,7 @@ Wer meldet sich bei unserem Konto an?
 Marketo prüft die Aktionen [Erstellen, Bearbeiten und Löschen](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) für:
 
 * Design von Studio-Assets
-* Alle Programm
+* Alle Marketo-Programme
 * Intelligente Kampagnen
 * Listen (intelligent/statisch)
 * Benutzer (Admin)
@@ -46,7 +46,7 @@ Marketo prüft die Aktionen [Erstellen, Bearbeiten und Löschen](/help/marketo/p
 
 >[!NOTE]
 >
->Marketo ist _nicht_ Prüfung von Änderungen, die derzeit in Web-Personalisierung, Predictive Content oder Sales Insight vorgenommen wurden.
+>Marketo prüft derzeit Änderungen, die in Web-Personalisierung, Predictive Content oder Sales Insight vorgenommen wurden.__
 
 ## Prüfprotokoll-Komponenten {#audit-trail-components}
 
@@ -68,7 +68,7 @@ Erkennen Sie, wer sich bei Ihrem Abonnement angemeldet hat und wann. Enthält au
 >
 >Es gibt so viel, dass Sie mit Audit Trail prüfen können, stellen Sie sicher, dass Sie [Filter](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) verwenden!
 
-## Exportieren von Daten {#exporting-data}
+## Daten werden exportiert {#exporting-data}
 
 Sie können in Ihrer Instanz nur Daten im Wert von 30 Ansichten speichern. Verwenden Sie die Exportoption, um einen Wert von bis zu sechs Monaten zu erhalten.
 
