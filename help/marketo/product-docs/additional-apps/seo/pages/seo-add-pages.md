@@ -2,14 +2,14 @@
 unique-page-id: 2949216
 description: SEO - Hinzufügen - Marketo Docs - Produktdokumentation
 title: SEO - Hinzufügen
+exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Hinzufügen Seiten {#seo-add-pages}
 
