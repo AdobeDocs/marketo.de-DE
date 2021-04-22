@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255606
-description: Versionshinweise - Winter 17 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Winter 17 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Winter 17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
 # Versionshinweise: Winter &#39;17 {#release-notes-winter}
 
-Die folgenden Funktionen sind in der Version Winter &#39;17 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version Winter &#39;17 enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
 Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen.
 
@@ -21,15 +21,15 @@ Bitte klicken Sie auf die Titellinks, um detaillierte Ansichten zu den einzelnen
 >
 >Wenn ein Thema mehrere Unterüberschriften enthält, werden die Links dort platziert.
 
-## [Erweiterte Übereinstimmung für benutzerdefinierte Facebook-Audiencen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Erweiterte Abgleichung für benutzerdefinierte Facebook-Zielgruppen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 Die Basisübereinstimmung verwendet nur E-Mail-Adressen, die neue erweiterte Übereinstimmung verwendet jedoch weitere sieben Felder, wodurch die Übereinstimmungsrate für mehr Konversionen erhöht wird.
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [Benutzerdefinierte Objekt-Import-API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API für den Import benutzerdefinierter Objekte](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-Diese API bietet eine schnellere Schnittstelle zum Synchronisieren benutzerdefinierter Objekte mit Marketo. Sie können CSV-, TSV- oder SSV-Tabellenkalkulationsdateien als benutzerdefinierte Objekte in Marketing importieren.
+Diese API bietet eine schnellere Schnittstelle zum Synchronisieren benutzerdefinierter Objekte mit Marketo. Sie können CSV-, TSV- oder SSV-Tabellenkalkulationsdateien als benutzerdefinierte Objekte in Marketo importieren.
 
 ## [Export von Web-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
@@ -37,7 +37,7 @@ Exportieren Sie alle Details und Analysen Ihrer Web-Kampagne in ein CSV-Format. 
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## lokale Anpassung {#localization}
+## Lokalisierung {#localization}
 
 Die Apps &quot;Web-Personalisierung&quot;, &quot;Predictive Content&quot;und &quot;E-Mail Insights&quot;stehen jetzt in japanischer, deutscher und spanischer Sprache zur Verfügung. Wählen Sie [Sprache und Gebietsschema](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aus, um Ihre Inhalte in diesen Sprachen Ansicht.
 
@@ -71,13 +71,13 @@ Predictive Content Analytics nach bestimmten Quellen filtern — E-Mail, Rich Me
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**Predictive Content Editor**
+**Editor für prädiktive Inhalte**
 
 Es gibt eine verbesserte Bearbeitungserfahrung und ein verbessertes Layout, das die Inhaltsvorbereitung nach Quelle aufteilt — — E-Mail, Rich Media oder Recommendations-Leiste.
 
 ![](assets/predictive-content-editor.png)
 
-**[Inhalte zur automatischen Erkennung für Prognosen](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+**[Automatische Erkennung prädiktiver Inhalte](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 Bild-URL und Metadaten werden jetzt im Prozess der automatischen Inhaltssuche verwendet.
 
@@ -93,6 +93,6 @@ Verbessern Sie Ihr Targeting mit der neuen Filteroption &quot;Mitglied der Vibes
 
 Ab dem 1. August 2017 werden Kunden, die weiterhin den alten Rich Text Editor und Form Editor 1.0 verwenden, automatisch auf das neue Erlebnis umgestellt.
 
-## [Marketing-Aktivität-APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [Marketo-Aktivitäts-APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Eine wichtige Änderung ist die Aktivität-APIs von Marketo. Bist du vorbereitet?
+Bei den Aktivitäten-APIs von Marketo gibt es eine wichtige Änderung. Bist du vorbereitet?
