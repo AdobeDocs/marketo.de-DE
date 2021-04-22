@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695939
-description: Versionshinweise - Herbst 18 - Marketing Docs - Produktdokumentation
+description: Versionshinweise - Herbst 18 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Herbst 18
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '850'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Versionshinweise: Fall &#39;18 {#release-notes-fall}
 
-Die folgenden Funktionen sind in der Version Herbst 18 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version Herbst 18 enthalten. Überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
 Bitte klicken Sie auf die Titellink-Links, um detaillierte Ansichten zu den einzelnen Funktionen anzuzeigen, falls verfügbar.
 
@@ -21,7 +21,7 @@ Bitte klicken Sie auf die Titellink-Links, um detaillierte Ansichten zu den einz
 
 **[Web-Personalisierung](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
-Die Web-Personalisierung unterstützt jetzt mehrere Arbeitsbereiche.
+Die Web-Personalisierung unterstützt jetzt mehrere Arbeitsplätze.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
@@ -30,7 +30,7 @@ Die Web-Personalisierung unterstützt jetzt mehrere Arbeitsbereiche.
 * **Erweiterte Unterstützung: Microsoft Office**
 
    * Outlook als Versand-Kanal: Marketingexperten können Outlook jetzt für E-Mail-Interaktionen nutzen, um die Zustellungsraten und die Reaktionsverfolgung zu verbessern.
-   * Verbesserungen beim E-Mail-Support für Office 365: Marketo Sales Engage ist direkt in Outlook für Mac, Outlook für Windows und Outlook Webanwendung für Office 365 E-Mail-Clients verfügbar, wodurch Marketo Sales Engage für alle Office-Benutzer leichter zugänglich ist.
+   * Verbesserungen beim E-Mail-Support für Office 365: Marketo Sales Engage ist direkt in Outlook für Mac, Outlook für Windows und Outlook Webanwendung für Office 365 E-Mail-Clients verfügbar, wodurch Marketo Sales Engage für alle Office-Benutzer leichter verfügbar ist.
 
 * **Verbesserte Verwaltung und Benutzeranmeldung**
 
@@ -58,9 +58,9 @@ Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinwei
 * **Standard-Programm jetzt auf Marketo Sky** verfügbar: Marketo Sky unterstützt jetzt Standard-Programm, den vielseitigen Programm-Stil, mit dem Sie jede Kampagne erstellen können, die Sie sich vorstellen können.
 * **E-Mail-Programm - Phase 1**: Sie können jetzt Ansichten E-Mail-Programme in Sky. Sehen Sie sich das neue Design an und [teilen Sie uns mit, was Sie denken](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
-## Analytics {#analytics}
+## Analytik {#analytics}
 
-**Bizibel**
+**Bizible**
 
 * **Erforderliche Abhängigkeit von CRM verringern**
 
@@ -74,7 +74,7 @@ Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinwei
 
    * Kunden können sich jetzt mit dem Identitätsanbieter und den Anmeldeinformationen ihrer Firma bei der Bizible-Webanwendung anmelden, die den Sicherheitsanforderungen für Unternehmen entsprechen.
 
-**[Verbesserungen bei den Marketing-Leistungsindikatoren](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Verbesserungen bei Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Verbesserungen der Benutzerfreundlichkeit**
 
@@ -86,15 +86,15 @@ Weitere Informationen und Aktualisierungen finden Sie in den [Sky-Versionshinwei
 * **Interaktion nach Aktivität**: Die Benutzer können die Ansicht der Interaktionsmetriken nach Aktivitäten- oder Kostenzeitraum auswählen.
 * **Filter** mit ABM-Namen: Filtern Sie die Dashboard Pipeline und Umsatz nach bestimmten benannten Konten.
 
-## Anzeigennetzwerke {#ad-networks}
+## Ad Networks {#ad-networks}
 
 **[Token aktualisieren](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-Wir haben ein Aktualisierungstoken in unseren Retargeting- und LinkedIn-Lead-Gen-Formularlösungen implementiert, mit dem der Zugriff auf ein Jahr verlängert wird, bevor eine erneute Authentifizierung erforderlich ist.
+Wir haben ein Aktualisierungstoken in unseren Retargeting- und LinkedIn Lead Gen-Formularlösungen implementiert, das die Zugriffszeit auf ein Jahr verlängert, bevor eine erneute Authentifizierung erforderlich ist.
 
 ## API {#api}
 
-**Interessentenzuordnungs-REST-API**
+**Lead Map REST API**
 
 Marketo unterstützt jetzt die Verwendung von E-Mail-Disposition-Feldern über die Interessenten-APIs (einschließlich Black Listed, Marketing Suspended, Email Suspended und Relative Urgency).
 
@@ -104,4 +104,4 @@ Marketo unterstützt jetzt die Verwendung von E-Mail-Disposition-Feldern über d
 
 >[!NOTE]
 >
->Marketo aktualisiert außerdem Bibliotheken, die sich auf Identität und Authentifizierung beziehen. Während der Aktualisierung werden möglicherweise zeitweise Fehler angezeigt, wenn eine aktive Sitzung geöffnet ist. Wenn Probleme auftreten, melden Sie sich bitte ab und wieder bei Ihrem Abonnement an.
+>Marketo aktualisiert außerdem Bibliotheken im Zusammenhang mit Identität und Authentifizierung. Während der Aktualisierung werden möglicherweise zeitweise Fehler angezeigt, wenn eine aktive Sitzung geöffnet ist. Wenn Probleme auftreten, melden Sie sich bitte ab und wieder bei Ihrem Abonnement an.
