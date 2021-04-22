@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147140
-description: Einführung in die Zukunft - Marketing-Dokumente - Produktdokumentation
+description: Einführung in die Tentative/Bestätigte Daten - Marketo Dokumente - Produktdokumentation
 title: Einführung/Bestätigung von Datumsangaben
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # Grundlagen zu den Tentativen/bestätigten Datumsangaben {#understanding-tentative-confirmed-dates}
 
@@ -45,7 +45,7 @@ Bestätigte Einträge werden definitiv ausgeführt. Sie verfügen über Regeln, 
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Fertig{#finished}
+## Beendet  {#finished}
 
 Fertige Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Nachdem ein Eintrag ausgeführt wurde und **Fertig** ist, können Sie ihn nicht verschieben oder vorläufig einstellen. (Keine Änderung der Realität und Unterbrechung des Zeitstrom-Kontinuums.)
 
