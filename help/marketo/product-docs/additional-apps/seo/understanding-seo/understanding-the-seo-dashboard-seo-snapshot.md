@@ -2,14 +2,14 @@
 unique-page-id: 2949178
 description: Erläuterungen zum SEO-Dashboard - SEO Snapshot - Marketo Docs - Produktdokumentation
 title: Das SEO-Dashboard - SEO Snapshot
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Das SEO-Dashboard: SEO Snapshot {#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -39,7 +39,7 @@ Zieh dich an! Lass uns fortfahren.
 
 ## Durchschnittliche Seitenoptimierungsbewertung {#average-page-optimization-score}
 
-Die Bewertung der durchschnittlichen Seitenoptimierung ist ein proprietärer Marktergebnis, der alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst.
+Der Durchschnittsseitenoptimierungswert ist ein proprietärer Marketo-Wert, der alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst.
 
 Es basiert auf einer Sammlung von Dutzenden bewährten Verfahren. Ein Wert von 70 oder höher weist auf eine gut optimierte Site hin.
 
