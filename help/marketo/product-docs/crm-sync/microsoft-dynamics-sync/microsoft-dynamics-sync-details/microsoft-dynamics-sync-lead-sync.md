@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics Sync - Lead Sync - Marketing Docs - Produktdokumentation
+description: Microsoft Dynamics Sync - Lead Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Lead Sync
+exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync: Interessentensynchronisierung {#microsoft-dynamics-sync-lead-sync}
 
-Marketo to to Dynamics sync ist super leistungsfähig. Im Folgenden finden Sie die Details:
+Marketo to Dynamics sync ist super leistungsfähig. Im Folgenden finden Sie die Details:
 
 ## Wie werden die Details zwischen den beiden Systemen synchronisiert? {#how-are-details-kept-in-sync-between-the-two-systems}
 
-Die Synchronisierung erfolgt bidirektional. Wenn Sie Änderungen an einem Lead in Dynamics oder einer Person in Marketo vornehmen, wird Ihr Update in beiden Systemen angezeigt.
+Die Synchronisierung erfolgt bidirektional. Wenn Sie Änderungen an einem Lead in Dynamics oder einer Person in Marketo vornehmen, wird Ihr Update in beiden Systemen übernommen.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Die Synchronisierung erfolgt bidirektional. Wenn Sie Änderungen an einem Lead i
 
 ## Was ist, wenn in beiden Systemen gleichzeitig Änderungen am gleichen Feld vorgenommen werden? (Datenkollision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Obwohl dies selten ist, wird Marketo gewinnen für Menschen (Interessenten) und Dynamics für Kontakte gewinnen. Das liegt daran, dass wir die Marketingabteilung für Menschen als maßgeblich betrachten, während das offizielle System der Kontaktaufnahme in der Verkaufsabteilung (CRM) besteht.
+Obwohl dies selten geschieht, wird Marketo für Menschen (Interessenten) gewinnen und Dynamics für Kontakte gewinnen. Das liegt daran, dass wir die Marketingabteilung für Menschen als maßgeblich betrachten, während das offizielle System der Kontaktaufnahme in der Verkaufsabteilung (CRM) besteht.
 
 ## Kann ich mit Marketo einen Lead in Dynamics erstellen? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
@@ -43,6 +43,6 @@ Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit,
 
 Sie können die zu synchronisierenden Felder [während des Setups auswählen.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)
 
-## Wird Marketo die Dynamikvalidierungsregeln einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
+## Wird Marketo die Regeln zur Dynamikvalidierung einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
 
 Ja. Die Synchronisierung schlägt fehl, wenn das Datenformat falsch ist oder die erforderlichen Feldinformationen fehlen. Marketo protokolliert das Ergebnis im Benutzerprotokoll, wenn dies der Fall ist.
