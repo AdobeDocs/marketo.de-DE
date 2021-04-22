@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949251
-description: SEO - Hinzufügen/Entfernen einer Inbound Link-URL aus einer Liste - MarketingToDocs - Produktdokumentation
+description: SEO - Hinzufügen/Entfernen einer Inbound Link-URL aus einer Liste - Marketo Docs - Produktdokumentation
 title: SEO - Hinzufügen/Entfernen einer Inbound-Link-URL aus einer Liste
+exl-id: 8079387f-633b-4982-a31d-837dcc374601
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Hinzufügen/Entfernen einer Inbound-Link-URL aus einer Liste {#seo-add-remove-an-inbound-link-url-from-a-list}
 
