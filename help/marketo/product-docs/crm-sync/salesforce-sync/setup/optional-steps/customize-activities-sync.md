@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719294
-description: Aktivitäten anpassen - Synchronisierung - Marketing-Dokumente - Produktdokumentation
+description: Synchronisieren von Aktivitäten - Marketo Docs - Produktdokumentation
 title: Synchronisieren von Aktivitäten anpassen
+exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
 # Aktivitäten anpassen Synchronisieren {#customize-activities-sync}
 
-Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Ereignis Salesforce-Aktivitäten-Verlaufsdatensätze erstellen. So können sie aktiviert werden.
+Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Ereignis Salesforce-Aktivitäten-Historikdatensätze erstellen. So können sie aktiviert werden.
 
 1. Gehen Sie zu **Admin**.
 
@@ -38,29 +38,29 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Erei
  </colgroup> 
  <thead> 
   <tr> 
-   <th>Aktivität</th> 
+   <th>Aktivitätstyp</th> 
    <th>Beschreibung</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
    <td>Ausgefülltes Formular</td> 
-   <td>Ausfüllen von Markierungsformularen</td> 
+   <td>Ausfüllen von Marketo-Formularen</td> 
   </tr> 
   <tr> 
-   <td>Zur Liste hinzugefügt</td> 
+   <td>Der Liste hinzugefügt</td> 
    <td><p>Flussschritt: Wurde einer statischen Liste hinzugefügt</p></td> 
   </tr> 
   <tr> 
-   <td>Email gesendet</td> 
+   <td>E-Mail gesendet</td> 
    <td>Flussschritt: Wurde eine E-Mail gesendet</td> 
   </tr> 
   <tr> 
-   <td>Ausgelieferte E-Mail</td> 
+   <td>E-Mail übermittelt</td> 
    <td>Eine E-Mail erhalten (nicht abgespielt)</td> 
   </tr> 
   <tr> 
-   <td>Email geöffnet</td> 
+   <td>E-Mail geöffnet</td> 
    <td>Öffnen einer E-Mail (ohne Blockieren von Bildern)</td> 
   </tr> 
   <tr> 
@@ -72,23 +72,23 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Erei
    <td>Flussschritt: Wurde aus einer statischen Liste entfernt</td> 
   </tr> 
   <tr> 
-   <td>Aus Fluss entfernen</td> 
+   <td>Aus Flow entfernen</td> 
    <td>Flussschritt: Aus Fluss entfernen</td> 
   </tr> 
   <tr> 
-   <td>E-Mail-Versand</td> 
-   <td>Wurde per E-Mail über Marketing an Sales Insight gesendet</td> 
+   <td>Vertriebs-E-Mail gesendet</td> 
+   <td>Wurde per E-Mail an Marketo Sales Insight gesendet</td> 
   </tr> 
   <tr> 
-   <td>Verkaufsemail geöffnet</td> 
-   <td>Öffnen einer E-Mail, die über MarketingTo Sales Insight gesendet wurde</td> 
+   <td>Vertriebs-E-Mail geöffnet</td> 
+   <td>Öffnen einer E-Mail, die über Marketo Sales Insight gesendet wurde</td> 
   </tr> 
   <tr> 
    <td>Link in Verkaufs-E-Mail</td> 
-   <td>Klicken Sie auf einen Link in einer E-Mail, die über MarketingTo Sales Insight gesendet wurde.</td> 
+   <td>Klicken Sie auf einen Link in einer E-Mail, die über Marketo Sales Insight gesendet wurde.</td> 
   </tr> 
   <tr> 
-   <td>E-Mail erhalten</td> 
+   <td>Vertriebs-E-Mail empfangen</td> 
    <td>Eine E-Mail wurde vom Vertriebsmitarbeiter im MSI Outlook Plugin empfangen und protokolliert</td> 
   </tr> 
  </tbody> 
@@ -100,4 +100,4 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Erei
 
 >[!TIP]
 >
->Wenn Sie mehr Marketo-Informationen in Salesforce erhalten möchten, sehen Sie sich unser [Marketing Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) Produkt an.
+>Wenn Sie weitere Marketo-Informationen in Salesforce erhalten möchten, sehen Sie sich unser [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) Produkt an.
