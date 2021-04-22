@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147152
-description: Klonen eines Assets in einem Programm - Marketing Docs - Produktdokumentation
+description: Klonen eines Assets in einem Programm - Marketo Docs - Produktdokumentation
 title: Klonen eines Assets in einem Programm
+exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # Klonen eines Assets in einem Programm {#clone-an-asset-in-a-program}
 
@@ -41,7 +41,7 @@ Klonen eines Programms _alles_ Manchmal möchten Sie nur ein Asset klonen. So ge
    >
    >Sie können ein Asset auch in ein anderes Programm klonen. Verwenden Sie die Dropdownliste **Programm**, um Ihre Auswahl vorzunehmen.
 
-1. Großartig! Sie sollten nun das neue geklonte Asset sehen.
+1. Sehr gut! Sie sollten nun das neue geklonte Asset sehen.
 
    ![](assets/report.jpg)
 
