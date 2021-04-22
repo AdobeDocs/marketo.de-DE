@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360291
-description: Blockieren von Aktualisierungen für ein Feld - Marketing-Dokumente - Produktdokumentation
+description: Feldaktualisierungen blockieren - Marketo Dokumente - Produktdokumentation
 title: Blockieren von Aktualisierungen für ein Feld
+exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Blockieren von Aktualisierungen für ein Feld {#block-updates-to-a-field}
 
@@ -37,4 +37,4 @@ Durch das Blockieren von Updates für ein Feld können Sie einmalig in das Feld 
 
    >[!CAUTION]
    >
-   >Beim Importieren einer Liste wird der Feldstatus, der in der Vorschau &quot;Importieren&quot;blockiert wird, nur dann angezeigt, wenn das Feld automatisch von Marketo anhand des Feldnamens erkannt wird, der _genau_ entspricht (oder wenn Aliase eingerichtet sind). Wenn das Feld manuell aus der Dropdownliste &quot;Feld markieren&quot;ausgewählt wird, wird der Blockierungsstatus nicht in der Vorschau &quot;Importieren&quot;angezeigt, aber die Updateblockung für dieses Feld wird trotzdem implementiert.
+   >Beim Importieren einer Liste wird der Feldstatus, der in der Vorschau &quot;Importieren&quot;blockiert wird, nur dann angezeigt, wenn das Feld automatisch von Marketo anhand des Feldnamens erkannt wird, der _genau_ entspricht (oder wenn Aliase eingerichtet sind). Wenn das Feld manuell aus der Dropdown-Liste &quot;Marketo-Feld&quot;ausgewählt wird, wird der Blockierungsstatus nicht in der Vorschau &quot;Importieren&quot;angezeigt, aber die Updateblockung für dieses Feld wird weiterhin implementiert.
