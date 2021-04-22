@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099389
-description: Marketo Plugin Releases for Microsoft Dynamics - Marketing Docs - Produktdokumentation
+description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Produktdokumentation
 title: Marketo Plugin Releases for Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
-
 # Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
-Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version der Plugins für Marketo herunter. Marketo aktualisiert diese Plugins regelmäßig, sodass Sie zum selben Ort zurückkehren können, um die neue Version herunterzuladen.
+Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version der Plugins für Marketo herunter. Marketo aktualisiert diese Plugins regelmäßig, sodass Sie zum gleichen Ort zurückkehren können, um die neue Version herunterzuladen.
 
 [Laden Sie das neueste ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Plugin herunter, das Ihrem Dynamics Release entspricht.
 
@@ -38,7 +38,7 @@ Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version
   <tr> 
    <th colspan="1">Version</th> 
    <th colspan="1">Releasedatum</th> 
-   <th>Hinweise</th> 
+   <th>Hinweise:</th> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.0</td> 
@@ -53,7 +53,7 @@ Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">27.06.18</td> 
-   <td colspan="1">Fehlerbehebung: Business Process Error beim Versuch, die Marketing Solutions for Dynamics 2013 zu installieren.</td> 
+   <td colspan="1">Fehlerbehebung: Business Process Error beim Versuch, die Marketo Solutions for Dynamics 2013 zu installieren.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -93,7 +93,7 @@ Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">03.03.16</td> 
-   <td colspan="1">Fehlerbehebung: Der Kunde konnte keinen Interessenten in CRM erstellen, da der Anmeldename-Benutzer nicht über die Berechtigung "Marketing-Konfiguration"verfügte.</td> 
+   <td colspan="1">Fehlerbehebung: Der Kunde konnte keinen Interessenten in CRM erstellen, da der Anmeldenutzer nicht über die Marketo Config-Berechtigung verfügte.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
@@ -103,7 +103,7 @@ Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version
   <tr> 
    <td colspan="1">4.0.0.13</td> 
    <td colspan="1">30.12.15</td> 
-   <td>Fehlerbehebung: Aktualisierungen in Dynamics wurden nicht mit Marketo synchronisiert, um Schritte und Bilder zu erhalten.</td> 
+   <td>Fehlerbehebung: Aktualisierungen in Dynamics wurden nicht mit Marketo für Schritte und Bilder synchronisiert.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.12</td> 
@@ -115,4 +115,4 @@ Beim ersten Synchronisieren mit Microsoft Dynamics laden Sie die neueste Version
 
 >[!MORELIKETHIS]
 >
->[Laden Sie die Marketing-Interessentenverwaltungslösung herunter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Marketo Lead Management Solution herunterladen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
