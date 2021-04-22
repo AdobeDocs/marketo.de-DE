@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359412
-description: Landingpage mit einem Formular - Marketing-Dokumente - Produktdokumentation
-title: Landingpage mit einem Formular
+description: Landingpage mit einem Formular - Marketo Docs - Produktdokumentation
+title: Landing Page mit Formular
+exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Landingpage mit einem Formular {#landing-page-with-a-form}
+# Landing Page mit Formular {#landing-page-with-a-form}
 
 ## Auftrag: Erstellen Sie eine Landingpage mit einem Formular, um neue Personen zu akquirieren. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
@@ -69,7 +69,7 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfah
 
    >[!TIP]
    >
-   >Sehen Sie nicht den Formulareditor? Ihr Browser hat das Fenster wahrscheinlich blockiert. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com/) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf bearbeiten.
+   >Sehen Sie nicht den Formulareditor? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com/) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf bearbeiten.
 
 1. Wählen Sie das Feld **E-Mail-Adresse** und aktivieren Sie **Ist erforderlich**.
 
@@ -145,7 +145,7 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfah
 
    ![](assets/image2014-9-24-11-3a9-3a19.png)
 
-   Gute Arbeit! Sie haben jetzt eine Landingpage mit einem Formular darauf. Lassen Sie uns Ihre Seite genehmigen, um sie zu aktivieren.
+   Großartig gemacht! Sie haben jetzt eine Landingpage mit einem Formular darauf. Lassen Sie uns Ihre Seite genehmigen, um sie zu aktivieren.
 
 ## SCHRITT 4: Genehmigen Ihrer Landingpage {#step-approve-your-landing-page}
 
@@ -183,10 +183,10 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfah
 
    ![](assets/thirty-one.png)
 
-## Auftrag abgeschlossen! {#mission-complete}
+## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 
-[Senden einer E-Mail-Blase](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Massen-E-Mail senden](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
 [Einfache Bewertung ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
