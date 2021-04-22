@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953120
-description: Intelligente Kampagnen - Marketing-Dokumente - Produktdokumentation
+description: Intelligente Kampagnen - Marketo Docs - Produktdokumentation
 title: Intelligente Kampagnen
+exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Intelligente Kampagnen {#understanding-smart-campaigns}
 
@@ -32,12 +32,12 @@ Die intelligente Liste ist, wie man definiert, wer mit seiner intelligenten Kamp
   </tr> 
   <tr> 
    <td>Filter</td> 
-   <td>Klicken auf Link</td> 
+   <td>Angeklickter Link</td> 
    <td><p>Sammle alle Personen in einem Stapel, die sich derzeit qualifizieren.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Trigger</td> 
-   <td colspan="1">Klicklink</td> 
+   <td colspan="1">Auslöser</td> 
+   <td colspan="1">Klickt auf Link</td> 
    <td colspan="1">Sobald jemand etwas tut, feuert sofort den Fluss.</td> 
   </tr> 
  </tbody> 
@@ -45,15 +45,15 @@ Die intelligente Liste ist, wie man definiert, wer mit seiner intelligenten Kamp
 
 Sie können Filter auf verschiedene Weise kombinieren und sie gemeinsam mit Triggern verwenden. Dies ist ein leistungsstarkes Werkzeug - experimentieren Sie damit.
 
-## Fluss {#flow}
+## Flow {#flow}
 
 Der Ablauf umfasst die Schritte, die die intelligente Kampagne durchführen soll, einschließlich Warteschritte und geteilte Auswahlmöglichkeiten.
 
-## Plan {#schedule}
+## Zeitplan {#schedule}
 
 Und schließlich steuert dies, wenn Sie Ihre intelligente Kampagne ausführen. Sie können die Wiederholung sogar so einrichten, dass sie nach einem sich wiederholenden Zeitplan ausgeführt wird.
 
-Die intelligente Kampagne kann sehr viel tun. Machen Sie sich die Sache fertig und Sie finden alles in Marketo wird viel einfacher zu verstehen.
+Die intelligente Kampagne kann sehr viel tun. Machen Sie sich die Sache fertig und Sie werden alles in Marketo einfacher zu verstehen.
 
 >[!MORELIKETHIS]
 >
