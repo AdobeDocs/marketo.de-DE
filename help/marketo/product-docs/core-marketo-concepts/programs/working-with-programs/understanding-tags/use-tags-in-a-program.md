@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147150
-description: Tags in einem Programm verwenden - Marketing Docs - Produktdokumentation
+description: Tags in einem Programm verwenden - Marketo Docs - Produktdokumentation
 title: Tags in einem Programm verwenden
+exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Tags in einem Programm {#use-tags-in-a-program} verwenden
 
@@ -51,7 +51,7 @@ Tags sind Attribute, die Ihre Programm beschreiben und zur Gruppierung von Progr
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
-1. Großartig! Die Änderungen sollten auf der Arbeitsfläche angezeigt werden.
+1. Sehr gut! Die Änderungen sollten auf der Arbeitsfläche angezeigt werden.
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
