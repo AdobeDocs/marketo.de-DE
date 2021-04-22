@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437991
-description: Trigger und Filter für mobile intelligente Kampagnen - Marketing Docs - Produktdokumentation
+description: Trigger und Filter für mobile intelligente Kampagnen - Marketo Docs - Produktdokumentation
 title: Trigger und Filter für mobile intelligente Kampagnen
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Trigger und Filter für mobile Smart-Kampagnen {#triggers-and-filters-for-mobile-smart-campaigns}
 
@@ -61,7 +61,7 @@ Bei einigen Triggern und Filtern gelten zusätzliche Einschränkungen wie:
 
 ## Trigger und Filter {#triggers-and-filters}
 
-**Hat mobile Anwendung**
+**Hat eine mobile App**
 
 Verwenden Sie diesen Filter, um alle Personen herauszufinden, die Ihre App jemals installiert haben. Dies ist nur als Filter verfügbar.
 
@@ -109,7 +109,7 @@ Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivi
 
 * Aktivität der mobilen App - Filter
 
-* AKTIVITÄT der mobilen App NICHT verfügbar - Inaktivitätsfilter
+* Aktivität der mobilen App NICHT verfügbar - Inaktivitätsfilter
 
 **Einschränkungen**: Gerätetyp und Plattform sowie fünf weitere:
 
