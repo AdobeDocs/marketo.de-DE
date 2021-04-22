@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146950
-description: Wait - Marketing Docs - Produktdokumentation
+description: Wait - Marketo Docs - Produktdokumentation
 title: Warten
+exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Wait {#wait}
+# Einen Augenblick {#wait}
 
 ## Übersicht {#overview}
 
@@ -29,7 +29,7 @@ Beachten Sie, wie Sie eine natürliche Sprache wie &quot;4 Stunden&quot;eingeben
 >
 >Wenn sich jemand bereits in einem Warteschritt befindet und Sie nicht möchten, dass er nach Ende der Wartezeit fortfährt, fügen Sie [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt nach dem Warteschritt ein. Geben Sie an, wer entfernt werden soll, indem Sie die Option [Wahl hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) verwenden.
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 Es gibt drei Hauptmethoden, um einen Warteflussschritt zu verwenden:
 
