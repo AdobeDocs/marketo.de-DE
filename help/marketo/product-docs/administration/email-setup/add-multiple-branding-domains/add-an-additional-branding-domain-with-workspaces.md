@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377408
-description: hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen - Marketing Docs - Produktdokumentation
+description: hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen - Marketo Docs - Produktdokumentation
 title: hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen
+exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
-
 
 # hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen {#add-an-additional-branding-domain-with-workspaces}
 
