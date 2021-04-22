@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719291
-description: Standardnamen der Firma und des Benutzers festlegen - Marketing Docs - Produktdokumentation
+description: Standardbenutzer-Nachname und Firma festlegen - Marketo Docs - Produktdokumentation
 title: Standardnamen der Person und Firma festlegen
+exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-
 # Standardnamen der Person und Firma festlegen{#set-default-person-last-name-and-company-name}
 
-Salesforce benötigt (mindestens) Nachname und Firma für seine Interessenten und Kontakte. Unvollständige Datensätze werden nicht mit Salesforce synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie Standardwerte festlegen, die Marketo mit Salesforce verwenden soll.
+Salesforce benötigt (mindestens) Nachname und Firma für seine Interessenten und Kontakte. Unvollständige Datensätze werden nicht mit Salesforce synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie für die Verwendung mit Salesforce Standardwerte festlegen.
 
 1. Gehen Sie zu **Admin** und klicken Sie auf **Salesforce**.
 
@@ -29,6 +29,6 @@ Salesforce benötigt (mindestens) Nachname und Firma für seine Interessenten un
 
    >[!NOTE]
    >
-   >Marketo weist nur dann einen Standardwert zu, wenn der Datensatz zunächst mit Salesforce synchronisiert wird, und nur dann, wenn eines der erforderlichen Felder leer ist.
+   >Marketo weist nur dann einen Standardwert zu, wenn der Datensatz zum ersten Mal mit Salesforce synchronisiert wird, und nur dann, wenn eines der erforderlichen Felder leer ist.
 
-Und das ist das! Jedes Mal, wenn einem Benutzer ein Nachname und/oder ein Firma fehlt, fügt Marketo den Standardwert hinzu, während der Datensatz synchronisiert wird.
+Und das ist das! Jedes Mal, wenn einem Benutzer ein Nachname und/oder eine Firma fehlt, fügt Marketo den Standardwert hinzu, während der Datensatz synchronisiert wird.
