@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504744
-description: Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 3 von 3 - Marketing Docs - Produktdokumentation
+description: Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 3 von 3 - Marketo Docs - Produktdokumentation
 title: Installieren Sie Marketo für Dynamics 2015 On-Prem und 2016 365 On-Prem Schritt 3 von 3
+exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Schritt 3 von 3: Connect Marketo Dynamics (On-Prem 2015 und On-Prem 2016 365) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## Dynamics Sync-Benutzerinformationen eingeben {#enter-dynamics-sync-user-information}
 
-1. Melden Sie sich bei Marketing an und klicken Sie auf **Admin**.
+1. Melden Sie sich bei Marketo an und klicken Sie auf **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Vergewissern Sie sich bitte, dass Ihre Anmeldeinformationen korrekt sind, da wir die nachfolgenden Änderungen des Schemas nach der Übermittlung nicht wiederherstellen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketing-Abonnement erhalten.
+   >Vergewissern Sie sich bitte, dass Ihre Anmeldeinformationen korrekt sind, da wir die nachfolgenden Änderungen des Schemas nach der Übermittlung nicht wiederherstellen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketo-Abonnement erhalten.
 
 1. Geben Sie **Benutzername**, **Kennwort** eine Microsoft Dynamics **URL** und eine **Client-ID/Secret** ein. Klicken Sie abschließend auf **Speichern**.
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* Wenn Ihr Marketo vor Oktober 2020 bereitgestellt wurde, sind die optionalen Felder Client-ID und Geheimer Schlüssel optional. Andernfalls sind sie obligatorisch. Das Abrufen dieser Informationen hängt von der verwendeten MSD-Version ab.
-   >* Der Benutzername in Marketing muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;`user@domain.com`&quot;oder &quot;DOMAIN\user&quot;lauten.
+   >* Wenn Ihr Marketo vor Oktober 2020 bereitgestellt wurde, sind &quot;Client-ID&quot;und &quot;Geheim&quot;optionale Felder. Andernfalls sind sie obligatorisch. Das Abrufen dieser Informationen hängt von der verwendeten MSD-Version ab.
+   >* Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann &quot;`user@domain.com`&quot;oder &quot;DOMAIN\user&quot;lauten.
    >* Wenn Sie die URL nicht kennen, [erfahren Sie, wie Sie sie hier finden.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
 
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >
    >Kennst du die URL nicht? Hier erfahren Sie, wie Sie die [Dynamics Organisations-Dienst-URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) finden.
 
-## Zu synchronisierende Felder auswählen{#select-fields-to-sync}
+## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 
 1. Klicken Sie in **Schritt 2 auf** Bearbeiten **: Wählen Sie die zu synchronisierenden Felder aus.**
 
@@ -72,11 +72,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit [sync deaktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) zu tun. Aktualisieren Sie anschließend das Schema in Marketo, indem Sie die Felder [Zu synchronisierende Felder auswählen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) bearbeiten und speichern.
+>Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit [sync deaktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) zu tun. Aktualisieren Sie dann das Schema in Marketo, indem Sie die Felder [Zu synchronisierende Felder auswählen bearbeiten und speichern.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
 
 ## Synchronisieren von Feldern für einen benutzerspezifischen Filter {#sync-fields-for-a-custom-filter}
 
-Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt einsteigen und die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
+Wenn Sie einen benutzerspezifischen Filter erstellt haben, müssen Sie unbedingt eingehen und die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
 
 1. Gehen Sie zu Admin und wählen Sie **Microsoft Dynamics**.
 
@@ -98,7 +98,7 @@ Wenn Sie einen benutzerspezifischen Filter erstellt haben, sollten Sie unbedingt
 
    >[!CAUTION]
    >
-   >Marketo wird nicht automatisch deduplizieren gegen eine Microsoft Dynamics-Synchronisierung, oder wenn Sie manuell eingeben Menschen.
+   >Marketo wird nicht automatisch deduplizieren gegen eine Microsoft Dynamics Sync, oder wenn Sie manuell eingeben Menschen.
 
 1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail ein und klicken Sie auf **Beginn-Synchronisierung**.
 
