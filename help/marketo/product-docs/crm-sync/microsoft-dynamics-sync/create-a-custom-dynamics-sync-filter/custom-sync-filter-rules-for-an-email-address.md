@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095307
-description: Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse - Marketing-Dokumente - Produktdokumentation
+description: Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse - Marketo Dokumente - Produktdokumentation
 title: Benutzerdefinierte Sync-Filterregeln für eine E-Mail-Adresse
+exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse {#custom-sync-filter-rules-for-an-email-address}
 
