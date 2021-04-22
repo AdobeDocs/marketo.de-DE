@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720779
-description: Ordner - Marketing-Dokumente - Produktdokumentation
+description: Ordner verstehen - Marketo Dokumente - Produktdokumentation
 title: Ordner verstehen
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
-
 
 # Ordner {#understanding-folders}
 
@@ -29,7 +29,7 @@ Ordner in einem Programm können zum Organisieren Ihrer intelligenten Kampagnen 
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-Großartig! Jetzt haben Sie einen neuen Ordner, in dem Sie Ihre lokalen Assets speichern können.
+Sehr gut! Jetzt haben Sie einen neuen Ordner, in dem Sie Ihre lokalen Assets speichern können.
 
 ## Ordner {#rename-a-folder} umbenennen
 
@@ -59,7 +59,7 @@ Es ist in Ordnung, deine Meinung zu ändern.
 
 ## Ordner {#archive-a-folder} archivieren
 
-In Marketo können Sie vorhandene Ordner in Archivordner konvertieren. Archivordner sind in Marketing Aktivitäten, Database und Design Studio vorhanden.
+In Marketo haben Sie die Möglichkeit, bestehende Ordner in Archivordner zu konvertieren. Archivordner sind in Marketing Aktivitäten, Database und Design Studio vorhanden.
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 
