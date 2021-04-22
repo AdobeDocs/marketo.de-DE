@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146958
-description: Warnung senden - Marketing-Dokumente - Produktdokumentation
-title: Warnung senden
+description: Send Alert - Marketo Docs - Produktdokumentation
+title: Benachrichtigung senden
+exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Warnung senden {#send-alert}
+# Benachrichtigung senden {#send-alert}
 
 ## Übersicht {#overview}
 
-Marketo kann eine E-Mail-Warnung mit persönlichen Informationen an jeden senden - den Vertriebsmitarbeiter, einen Partner oder eine andere Person. Verwenden Sie den Schritt **Warnung senden**.
+Marketo kann eine E-Mail-Benachrichtigung mit persönlichen Informationen an jeden senden - den Vertriebsmitarbeiter, einen Partner oder eine andere Person. Verwenden Sie den Schritt **Warnung senden**.
 
 ![](assets/one-1.png)
 
-## Verwendung {#usage}
+## Nutzung {#usage}
 
 1. Suchen und wählen Sie die E-Mail aus, die Sie senden möchten.
 
