@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8783322
-description: Validieren von Microsoft Dynamics Sync - Marketing Docs - Produktdokumentation
+description: Validieren von Microsoft Dynamics Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync überprüfen
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
-
 
 # Überprüfen der Microsoft Dynamics-Synchronisierung {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]
 >
->Wenn Multi-Factor Authentication (MFA) für die Dynamiksynchronisierung aktiviert ist, müssen Sie sie deaktivieren, damit Dynamics mit Marketo richtig synchronisiert wird. Weitere Informationen erhalten Sie beim [Marketing-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Multi-Factor Authentication (MFA) für die Dynamiksynchronisierung aktiviert ist, müssen Sie diese deaktivieren, damit Dynamics mit Marketo ordnungsgemäß synchronisiert werden kann. Weitere Informationen erhalten Sie beim [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-## Validieren der Synchronisierung in Marketo{#run-validate-sync-in-marketo}
+## Synchronisierung in Marketo überprüfen{#run-validate-sync-in-marketo}
 
 Es ist sehr wichtig, dass Sie das Tool zum Überprüfen der Synchronisierung ausführen, um sicherzustellen, dass Microsoft Dynamics Sync mit Marketo korrekt eingerichtet ist, bevor Sie die letzte Verbindung herstellen. Der Prozess generiert eine Checkliste mit sieben Setup-Schritten, die bestimmen, wo Probleme auftreten. Die Überprüfung, ob diese ordnungsgemäß durchgeführt wurden, kann viel Zeit später einsparen.
 
@@ -49,7 +49,7 @@ Es ist sehr wichtig, dass Sie das Tool zum Überprüfen der Synchronisierung aus
 
    >[!CAUTION]
    >
-   >Wir unterstützen derzeit keine Sandbox-Aktualisierung für Marketo Dynamics Sync. Wenn Sie Ihre Dynamics CRM-Sandbox aktualisieren müssen, benötigen Sie eine neue Marketo-Sandbox. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
+   >Die Sandbox-Aktualisierung für Marketo Dynamics Sync wird derzeit nicht unterstützt. Wenn Sie Ihre Dynamics CRM-Sandbox aktualisieren müssen, benötigen Sie eine neue Marketo-Sandbox. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
 >[!MORELIKETHIS]
 >
