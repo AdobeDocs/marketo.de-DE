@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949865
-description: Erstellen Sie ein Ereignis mit Adobe Connect - Marketing Docs - Produktdokumentation
+description: Erstellen Sie ein Ereignis mit Adobe Connect - Marketo Docs - Produktdokumentation
 title: Ereignis mit Adobe Connect erstellen
+exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
-
 # Ereignis mit Adobe Connect {#create-an-event-with-adobe-connect} erstellen
 
-Die Synchronisierung mit Adobe Connect ermöglicht es Ihnen, Ihre Webinarregistrierung und -teilnahme innerhalb von Marketo zu verwalten, wodurch sichergestellt wird, dass Interaktionen nicht rückverfolgt werden.
+Die Synchronisierung mit Adobe Connect ermöglicht es Ihnen, Ihre Webinarregistrierung und -teilnahme innerhalb von Marketo zu verwalten, wodurch sichergestellt wird, dass die Interaktion nicht rückverfolgt wird.
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,17 @@ Die Synchronisierung mit Adobe Connect ermöglicht es Ihnen, Ihre Webinarregistr
 >* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Connect erstellt haben. Wenn Sie Hilfe benötigen, sehen Sie sich das [Adobe Connect Benutzerhandbuch](https://help.adobe.com/en_US/connect/9.0/using/index.html) an. Die Meetings und Seminare, die Sie in Adobe Connect erstellen, müssen in dem Ordner erstellt werden, den Sie bei der Eingabe Ihrer Anmeldedaten in Marketing angegeben haben. Nachdem Sie Ihr Meeting oder Seminar erstellt haben, notieren Sie sich alle relevanten Logistikinformationen (z. B. die Telefonnummer), die Sie in Ihrer Bestätigungs-E-Mail und in Ihrer ICS-Datei verwenden können.
+Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Connect erstellt haben. Wenn Sie Hilfe benötigen, sehen Sie sich das [Adobe Connect Benutzerhandbuch](https://help.adobe.com/en_US/connect/9.0/using/index.html) an.
+
+Die Meetings und Seminare, die Sie in Adobe Connect erstellen, müssen in dem Ordner erstellt werden, den Sie bei der Eingabe Ihrer Anmeldeinformationen in Marketo angegeben haben. Nachdem Sie Ihr Meeting oder Seminar erstellt haben, notieren Sie sich alle relevanten Logistikinformationen (z. B. die Telefonnummer), die Sie in Ihrer Bestätigungs-E-Mail und in Ihrer ICS-Datei verwenden können.
+
+>[!CAUTION]
+>
+>Achten Sie darauf, dass Sie als Ereignis-Host aus der App und **nicht** über den Link, der an die Teilnehmer gesendet wird, beitreten.
 
 >[!NOTE]
 >
->Wir **unterstützen derzeit nicht** Adobe Connect On-Site.
+>Adobe Connect On-Site wird derzeit nicht unterstützt.
 
 1. Wählen Sie auf der Startseite eines neuen Ereignisses **Ereignis Actions** und dann **Ereignis Settings**.
 
@@ -47,17 +53,19 @@ Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Conn
 
    ![](assets/event-settings-overview.png)
 
-   Schön! Ihr Adobe Connect-Ereignis wird jetzt mit Ihrem Marketing-Ereignis synchronisiert.
+   Schön! Ihr Adobe Connect-Ereignis wird jetzt mit Ihrem Marketo-Ereignis synchronisiert.
 
    >[!NOTE]
    >
-   >Die Felder, die von Marketo gesendet werden, sind: Vorname, Nachname, E-Mail-Adresse.
+   >Die von Marketo gesendeten Felder sind: Vorname, Nachname, E-Mail-Adresse.
 
    >[!TIP]
    >
    >Verwenden Sie das folgende Token, um die eindeutige URL der Person in eine E-Mail einzufügen: `{{member.webinar url}}`. Wenn die E-Mail gesendet wird, löst dieses Token automatisch die eindeutige Bestätigungs-URL der Person aus Adobe Connect.
    >
    >Stellen Sie Ihre Bestätigungs-E-Mail auf **Operational** ein, um sicherzustellen, dass Personen, die sich registrieren und abgemeldet werden können, weiterhin ihre Bestätigungsinformationen erhalten.
+
+   Personen, die sich für Ihr Webinar anmelden, werden über den Schritt zum Ändern des Status des Programms an Ihren Webinaranbieter weitergeleitet, wenn der neue Status auf &quot;Registriert&quot;eingestellt ist. Kein anderer Status wird die Person übertreiben. Stellen Sie außerdem sicher, dass Sie den Schritt zum Ändern des Status des Programms 1 und zum Senden der E-Mail-Zustellung Schritt 2 durchführen.
 
    ![](assets/adobe.png)
 
@@ -71,8 +79,6 @@ Vergewissern Sie sich zunächst, dass Sie Ihr Meeting oder Seminar in Adobe Conn
 
    >[!MORELIKETHIS]
    >
-   > * [hinzufügen Adobe Connect als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Bearbeiten eines Ereignis-Kanals](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   >* [hinzufügen Adobe Connect als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Bearbeiten eines Ereignis-Kanals](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
-
-Personen, die sich für Ihr Webinar anmelden, werden über den Schritt zum Ändern des Status des Programms an Ihren Webinaranbieter weitergeleitet, wenn der neue Status auf &quot;Registriert&quot;eingestellt ist. Kein anderer Status wird die Person übertreiben. Stellen Sie außerdem sicher, dass Sie den Schritt zum Ändern des Status des Programms 1 und zum Senden der E-Mail-Zustellung Schritt 2 durchführen.
