@@ -4,9 +4,9 @@ description: Database Dashboard - Marketo Docs - Produktdokumentation
 title: Datenbank-Dashboard
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Das Database Dashboard dient als Momentaufnahme, mit dem Sie wichtige Attribute 
 
 >[!NOTE]
 >
->Jeder Arbeitsbereich verfügt über eine eigene Datenbank.
+>Jeder Arbeitsbereich verfügt über ein eigenes Datenbank-Dashboard.
 
 Klicken Sie dazu auf das Kachel **Datenbank** auf Ihrem Startbildschirm...
 
@@ -35,4 +35,6 @@ Die Diagramme zeigen die Gesamtzahl der Personen, die Anzahl der vermarktbaren P
 >
 >Möchten Sie genauere oder aktuellere Informationen über Ihre Mitarbeiter erhalten? Versuchen Sie es mit einem [Personendaten-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Gesamtzahl der Personen:** Die Anzahl der Vollzeitbenutzer für diesen Arbeitsbereich.  **Marketable People:** Die Anzahl der Vollzeitbenutzer für den Arbeitsbereich,  _abzüglich der folgenden_: Personen ohne E-Mail-Adresse, Personen, deren E-Mail-Adresse schwer abgeschnitten hat, auf die Blockierungsliste gesetzt, Personen, die sich abgemeldet haben, Personen, die sich derzeit auf Marketing ausgesetzt gesetzt haben.
+**Gesamtzahl der Personen:** Die Anzahl der Vollzeitbenutzer für diesen Arbeitsbereich.
+
+**Marketable People:** Die Anzahl der Vollzeitbenutzer für den Arbeitsbereich,  _abzüglich der folgenden_: Personen ohne E-Mail-Adresse, Personen, deren E-Mail-Adresse schwer abgeschnitten hat, auf die Blockierungsliste gesetzt, Personen, die sich abgemeldet haben, Personen, die sich derzeit auf Marketing ausgesetzt gesetzt haben.
