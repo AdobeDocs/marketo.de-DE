@@ -1,24 +1,24 @@
 ---
-description: Übersicht - Marketing-Dokumente - Produktdokumentation
-title: Übersicht
+description: Übersicht - Marketo Docs - Produktdokumentation
+title: Überblick
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 1%
+source-wordcount: '463'
+ht-degree: 8%
 
 ---
 
+# Überblick {#overview}
 
-# Übersicht {#overview}
-
-Willkommen bei der nächsten Generation von Marketo Engage, einer neuen Benutzeroberfläche, die eine verbesserte Benutzerfreundlichkeit und ein neues Erscheinungsbild auf der gesamten Marketo-Plattform bietet.
+Willkommen bei der nächsten Generation von Marketo Engage, einer neuen Benutzeroberfläche, die eine verbesserte Benutzerfreundlichkeit und ein neues Erscheinungsbild auf der Marketo-Plattform bietet.
 
 >[!PREREQUISITES]
 >
->Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie die IT-Mitarbeiter, die folgenden Domänen (einschließlich des Sternchen) hinzuzufügen, damit alle Marketing-Ressourcen und Websockets zugelassen werden:
+>Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie die IT-Mitarbeiter, die folgenden Domänen (einschließlich des Sternchen) hinzuzufügen, damit alle Marketo-Ressourcen und -Websockets zugelassen werden:
 >
->* *.marketo.com
+>* *.marketo.de
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
@@ -33,7 +33,7 @@ Die Tour führt Sie durch alles, was Sie wissen müssen!
 
 ![](assets/overview-2.png)
 
-## Neue Funktionen {#whats-new}
+## Neuigkeiten {#whats-new}
 
 Es gibt eine Menge neuer Funktionen in diesem Erlebnis der nächsten Generation, die alle darauf ausgelegt sind, Ihre Marketingerfahrung deutlich zu verbessern.
 
@@ -41,17 +41,11 @@ Es gibt eine Menge neuer Funktionen in diesem Erlebnis der nächsten Generation,
 
 Die neue Benutzeroberfläche bietet verbesserte und erweiterte Ikonografie. Weitere Informationen finden Sie hier: [Neues Symbol Glossar](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Baum**
-
-Auch der Baum wurde aktualisiert.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Globale Navigation**
 
-Auf Wiedersehen Superball. Sie haben jetzt schnellen Zugriff auf alle wichtigen Marketo-Abschnitte.
+Auf Wiedersehen Superball. Sie haben jetzt schnellen Zugriff auf alle wichtigen Marketo-Bereiche.
 
 ![](assets/overview-5.png)
 
@@ -65,7 +59,7 @@ Sie haben auch schnellen Zugriff auf Ihre munchkin-ID, die jetzt in der URL Ihre
 
 Es gibt eine Menge neuer Baumfunktionen.
 
-**Marketo Classic im Vergleich zum neuen Markt**
+**Marketo Classic gegen das neue Marketo**
 
 <table> 
  <tbody>
@@ -186,7 +180,7 @@ Sehen Sie sich die neue globale Nav an.
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Keine Superball-Dropdown-Liste mehr</td> 
   </tr>
   <tr>
@@ -194,7 +188,7 @@ Sehen Sie sich die neue globale Nav an.
    <td>Alle vorherigen, oben aufgelisteten Superball-Artikel</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>Verwenden Sie diese Option, um Feedback zu Ihrem MEUE-Erlebnis zu erhalten</td> 
   </tr>
   <tr>
