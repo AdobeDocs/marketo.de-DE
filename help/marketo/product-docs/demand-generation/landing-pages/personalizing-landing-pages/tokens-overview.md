@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950799
-description: Tokens-Übersicht - Marketing-Dokumente - Produktdokumentation
+description: Tokens - Übersicht - Marketo Docs - Produktdokumentation
 title: Tokens - Übersicht
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Token-Übersicht {#tokens-overview}
 
-Ein Token ist eine Variable, die in Flussschritten, E-Mails, Landingpages, Snippets und Web-Kampagnen der intelligenten Kampagne von Marketo verwendet werden kann.
+Ein Token ist eine Variable, die in Marketo-Flussschritten für intelligente Kampagnen, E-Mails, Landingpages, Snippets und Web-Kampagnen verwendet werden kann.
 
 ## Standardwerte {#understanding-default-values}
 
@@ -27,7 +27,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 
 >[!CAUTION]
 >
->Token funktionieren nicht im Preheader, wenn Sie den E-Mail-Editor von Marketo verwenden. Um ein Token im Preheader zu verwenden, muss es über Ihren eigenen HTML in einer E-Mail-Vorlage erfolgen.
+>Tokens funktionieren nicht im Preheader, wenn der E-Mail-Editor von Marketo verwendet wird. Um ein Token im Preheader zu verwenden, muss es über Ihren eigenen HTML in einer E-Mail-Vorlage erfolgen.
 
 >[!NOTE]
 >
@@ -149,15 +149,15 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 
 >[!NOTE]
 >
->Weitere Informationen zu [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) finden Sie auf der Grundlage von Triggern, die in einer intelligenten Kampagne verwendet werden.
+>Weitere Informationen zu [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) finden Sie auf der Grundlage von Triggern, die in einer intelligenten Kampagne verwendet werden.
 
-## Programm-Tokens {#program-tokens}
+## Programm-Token {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Meine Tokens {#my-tokens}
+## Meine Token {#my-tokens}
 
 Meine Token werden in einem Programm definiert und beginnen mit `{{my.`, gefolgt vom Namen, den Sie für das Token erstellt haben. Erfahren Sie mehr über [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
