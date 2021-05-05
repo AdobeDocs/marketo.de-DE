@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7511877
-description: Interessante Momente in Salesforce1 - Marketing Docs - Produktdokumentation
+description: Interessante Momente in Salesforce1 - Marketo Docs - Produktdokumentation
 title: Interessante Momente in Salesforce1
+exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Interessante Momente in Salesforce1 {#interesting-moments-in-salesforce}
 
-[Die Verwendung der interessanten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Dynamik ist der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketing Sales Insight-App. Mit Marketo Sales Insight für Salesforce1 können Sie das gleiche mit Ihrem Smartphone tun!
+[Die Verwendung von interessanter ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Dynamik ist der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketo Sales Insight-App. Mit Marketo Sales Insight für Salesforce1 können Sie das auch mit Ihrem Smartphone tun!
 
 >[!AVAILABILITY]
 >
@@ -32,5 +32,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [Interessanter Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [Tokens für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [Tokens für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
