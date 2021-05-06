@@ -4,7 +4,7 @@ description: Symbol-Glossar - Marketo Docs - Produktdokumentation
 title: Symbol-Glossar
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 33%
@@ -17,7 +17,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 **Allgemeine Symbole**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 ## Admin-Symbole {#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Symbol</th> 
@@ -316,7 +316,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 ### Symbole für Marketing-Aktivitäten {#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Symbol</th> 
@@ -684,7 +684,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 ### Design Studio-Symbole {#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Symbol</th> 
@@ -870,7 +870,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 ### Analytics-Symbole {#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Symbol</th> 
@@ -979,7 +979,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 ### Meine Token-Symbole {#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Symbol</th> 
@@ -1046,7 +1046,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 ### Menüs der Kampagne {#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Symbol</th> 
@@ -1120,7 +1120,7 @@ Nachfolgend sind die Symbole für das Marketo Classic aufgeführt. Wenn Sie auf 
 
 ### Datenbanksymbole {#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Symbol</th> 
