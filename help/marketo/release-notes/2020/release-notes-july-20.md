@@ -4,7 +4,7 @@ description: Versionshinweise - 20. Juli - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Juli 20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom 20. Juli enthalten. Überprüfe
 
 >[!AVAILABILITY]
 >
->Beachten Sie, dass je nach aktuellem Paket Artikel mit einem Stern ( ![(star)](assets/star-yellow.svg)) möglicherweise den Kauf eines Wertzusatzes erfordern. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Beachten Sie, dass je nach aktuellem Paket Artikel mit einem Stern ( ![(star)](assets/yellow-star.png)) möglicherweise den Kauf eines Wertzusatzes erfordern. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Vierteljährliche_** ReleasesDie folgenden Funktionen werden am 31.  **Juli 2020** veröffentlicht.
 
@@ -27,7 +27,7 @@ Die folgenden Funktionen sind in der Version vom 20. Juli enthalten. Überprüfe
 
 ## Kundenbezogenes Marketing {#account-based-marketing}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **Aktualisierte Benutzeroberfläche für die Kontoprofilerstellung**: Vereinfachen Sie die Erstellung Ihrer Zielgruppe-Konto-Liste im Kontoprofil mit optimierten Schritten in einem einzigen Bildschirm.
 
@@ -47,13 +47,13 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Sales Insight {#sales-insight}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **[Sales Insight aktiviert für Kunden mit nicht nativer Salesforce CRM-Integration](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)  (Beta)**: Marketo Engage-Kunden mit nicht-nativen Salesforce CRM-Integrationen können nun Sales Insight verwenden, um ihren Vertriebsteams zu helfen, die am meisten engagierten Interessenten und Chancen zu verstehen, zu priorisieren und mit ihnen zu interagieren, um intelligentes Verkaufen und schnellere Geschäfte zu ermöglichen.
 
 ## SalesConnect {#sales-connect}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **[Verbesserte Zweiparteizustimmungen für Verkaufsaufrufe:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Administratoren haben jetzt eine größere Kontrolle über die Konfigurationen für die Aufzeichnung von Aufrufen. [Aktivieren Sie ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) Aufrufe mit der Gewissheit, dass Sie das Zweitanbieter-Einwilligungsgesetz einhalten. Automatisieren Sie die Benachrichtigung über den aufgezeichneten Aufruf und aktivieren Sie Audioclips, die vor dem Aufruf wiedergegeben werden sollen.
 
