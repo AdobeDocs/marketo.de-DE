@@ -4,9 +4,9 @@ description: Versionshinweise - 20. Juni - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Juni 20
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfe
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) können kostenpflichtige Add-ons sein. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Funktionen, die mit einem Stern (![](assets/yellow-star.png)) gekennzeichnet sind, werden kostenpflichtig hinzugefügt. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Vierteljährliche_** ReleasesDie folgenden Funktionen werden am 5.  **Juni 2020** veröffentlicht.
 
 ## Kern-Marketo-Einbindung {#core-marketo-engage}
 
-* **[Prognostische Audiencen](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(Stern)](assets/star-yellow.svg): Mit den neuen Filtern für intelligente Liste und intelligente Kampagne mit Adobe Sensei können Sie AI-basierte Audiencen für E-Mail-, Ereignis- und Webinar-Marketing-Programm erstellen. Verwenden Sie AI, um Audiencen basierend auf der Interessentenwahrscheinlichkeit zu segmentieren, um sich für ein Ereignis zu registrieren, ein Ereignis zu besuchen oder sich abzumelden. Erstellen Sie aussehende Audiencen auf der Grundlage vergangener Programm, um den vorherigen Erfolg effizient zu replizieren. Erzielen Sie Konversionsziele mit vorausschauender Zielverfolgung und erhalten Sie Empfehlungen, wie Sie Ihre Audiencen für Ereignis-Programm optimieren können.
-* **Batch-E-Mail-Boost** ![(Stern)](assets/star-yellow.svg): Verbesserung unserer E-Mail-Marketingfunktion, mit der Sie bis zu 3 Millionen Batch-E-Mails pro Stunde senden können. Wir haben unsere Batch-Kampagne und die Verarbeitung von E-Mail-Berichten neu gestaltet, um die Leistung von E-Mail-Programmen und Batch-E-Mail-Kampagnen zu verbessern. Dies führt zu kürzeren Vorlaufzeiten und verbesserter Abschlusszeit. Richten Sie Ihre E-Mail-Nachrichten so ein, wie Sie es normalerweise tun würden. Es gibt keine zusätzliche Komplexität. Diese Verbesserung ist als Produkt-Add-on verfügbar, das auch ein Versand Services Launch Pack, E-Mail-Versand-Tools und mehrere dedizierte IP-Adressen umfasst.
+* **[Prognostische Audiencen](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(Stern)](assets/yellow-star.png): Mit den neuen Filtern für intelligente Liste und intelligente Kampagne mit Adobe Sensei können Sie AI-basierte Audiencen für E-Mail-, Ereignis- und Webinar-Marketing-Programm erstellen. Verwenden Sie AI, um Audiencen basierend auf der Interessentenwahrscheinlichkeit zu segmentieren, um sich für ein Ereignis zu registrieren, ein Ereignis zu besuchen oder sich abzumelden. Erstellen Sie aussehende Audiencen auf der Grundlage vergangener Programm, um den vorherigen Erfolg effizient zu replizieren. Erzielen Sie Konversionsziele mit vorausschauender Zielverfolgung und erhalten Sie Empfehlungen, wie Sie Ihre Audiencen für Ereignis-Programm optimieren können.
+* **Batch-E-Mail-Boost** ![(Stern)](assets/yellow-star.png): Verbesserung unserer E-Mail-Marketingfunktion, mit der Sie bis zu 3 Millionen Batch-E-Mails pro Stunde senden können. Wir haben unsere Batch-Kampagne und die Verarbeitung von E-Mail-Berichten neu gestaltet, um die Leistung von E-Mail-Programmen und Batch-E-Mail-Kampagnen zu verbessern. Dies führt zu kürzeren Vorlaufzeiten und verbesserter Abschlusszeit. Richten Sie Ihre E-Mail-Nachrichten so ein, wie Sie es normalerweise tun würden. Es gibt keine zusätzliche Komplexität. Diese Verbesserung ist als Produkt-Add-on verfügbar, das auch ein Versand Services Launch Pack, E-Mail-Versand-Tools und mehrere dedizierte IP-Adressen umfasst.
 * **[Integration der Audience mit Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: Die neue Adobe Experience Cloud-Integration (AEC) ermöglicht die Synchronisierung statischer Listen bekannter Interessenten aus Marketo Engage mit mehreren AEC-Anwendungen, um bestehende Programm zu verbessern, neue Anwendungsfälle zu erschließen und Kampagnen mit mehreren Kanälen zu orchestrieren. Diese Integration umfasst Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager und Adobe Advertising Cloud.
 * **[Benutzerdefinierte Felder](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)** für Programm-Member: Erfassen und verwenden Sie benutzerdefinierte Felder zu einem Programm-Member. Verwenden Sie diese neuen Felder in Ihren Marketo Engage-Formularen, Ansicht in die Mitgliederaktion eines Programms, Nutzung in Filtern und Triggern mit intelligenter Liste und Einbindung in eine neue Aktion mit intelligenten Kampagnen zur Automatisierung und granuläreren Personalisierung. Diese können auch über die Benutzeroberfläche und die APIs importiert und exportiert werden. Verbesserung unserer benutzerdefinierten Datenobjekte und Felder-Funktionalität.
 * **Beschreiben Sie Programm Member**: Rufen Sie Programm Member-Metadaten ab, sodass Sie Programm Member Custom Field-Daten mit der REST-API importieren und exportieren können. Verbesserung unserer API.
@@ -35,7 +35,7 @@ Die folgenden Funktionen sind in der Version vom 20. Juni enthalten. Überprüfe
 
 ## Kundenbezogenes Marketing {#account-based-marketing}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **Neue Kontoerkennung im Allgemeinen verfügbar**
 
@@ -49,7 +49,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Bizible {#bizible}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **Integration** von Marketo Engage-Programmen: Ziehen Sie Programm-Daten direkt aus Marketo Engage, um Touchpoints entlang der Zuordnungs-Journey in Bizible zu erstellen, um E-Mail- und Interaktions-Programm angemessen zu gutschreiben. Verbesserung unserer Marketo Engage-Integration.
 * **Integration von Marketo Engage-Aktivitäten (BETA)**: Bringen Sie Daten zur Marketo Engage-Aktivität direkt in Bizible, um Touchpoints über die Journey und alle Zuordnungsmodelle hinweg zu erstellen. Beispiele sind Änderungen des Interessentenwerts, interessante Momente, E-Mail-Klick oder benutzerspezifische Aktivitäten. Verbesserung unserer Marketo Engage-Integration.
@@ -59,7 +59,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Sales Insight {#sales-insight}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **[Insight-Dashboard für Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Wir stellen unsere Sales Insight-Funktion mit neuer Sichtbarkeit in zukünftige Marketing-Ereignis und -Kampagnen um, um Anbietern die Möglichkeit zu geben, Empfehlungen je nach ihren Bedürfnissen und Interessen für Kunden und Potenzieller Kunden relevanter zu gestalten. Verkäufer können auch die Kontakt- und Kontoinformationen innerhalb der Zeitschiene Ansicht und auf weitere Details zur Aktivität zugreifen. Weitere Informationen zur Aktualisierung Ihres Pakets [finden Sie hier](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
