@@ -4,10 +4,10 @@ description: Trigger-Tokens fÃ¼r interessante Momente - Marketo Docs - Produktdo
 title: Trigger-Token fÃ¼r interessante Momente
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 29%
+source-wordcount: '436'
+ht-degree: 30%
 
 ---
 
@@ -68,10 +68,10 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Link in E-Mail angeklickt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>E-Mail-AbsprÃ¼nge hart</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>E-Mail nicht zugestellt (Soft Bounce)</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>E-Mail wird gesendet</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Ã–ffnet E-Mail</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
     <tr> 
    <td>Weiterleitung an E-Mail-Adresse eines Freundes wurde empfangen</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
     <tr> 
    <td>Weiterleitung an E-Mail-Adresse eines Freundes wurde gesendet</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>Bestellt E-Mail ab</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Link in Verkaufs-E-Mail angeklickt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Ist gesendete Verkaufs-E-Mail</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Ã–ffnet Verkaufs-E-Mail</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail wird aufgrund eines Bounce-Ereignisses nicht zugestellt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail wird empfangen</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
     <tr> 
    <td>Opportunity wird aktualisiert</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
     <tr> 
    <td>EigentÃ¼mer wird geÃ¤ndert</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Person ist konvertiert</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Person wird aus SFDC gelÃ¶scht</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Person wird mit SFDC synchronisiert</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Aus Opportunity entfernt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Aus SFDC-Kampagne entfernt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>AktivitÃ¤t wird protokolliert</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>AktivitÃ¤t wird aktualisiert</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Zu Opportunity hinzugefÃ¼gt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Zu SFDC-Kampagne hinzugefÃ¼gt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Link in Verkaufs-E-Mail angeklickt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Ist gesendete Verkaufs-E-Mail</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Ã–ffnet Verkaufs-E-Mail</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail wird aufgrund eines Bounce-Ereignisses nicht zugestellt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail wird empfangen</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Ist zur Verkaufskampagne hinzugefÃ¼gt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   <tr>
    <td>EigentÃ¼mer wird geÃ¤ndert</td> 
    <td>Ist aus Verkaufskampagne entfernt</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Hat Verkaufsanruf empfangen</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>FÃ¼llt Formular aus</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
   </tr> 
   <tr> 
    <td>Besucht Webseite</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Klickt Link auf Webseite an</td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(Zecken)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
 
 >[!NOTE]
 >
->Wenn es keinen HÃ¤kchen hat ![(tick)](assets/check.svg) wÃ¼rde es eine leere Zeichenfolge (nichts) im interessanten Moment zurÃ¼ckgeben.
+>Wenn es keinen HÃ¤kchen hat ![(tick)](assets/) wÃ¼rde es eine leere Zeichenfolge (nichts) im interessanten Moment zurÃ¼ckgeben.
 
 *Der Trigger **Webseite &quot;Besuche&quot;** verfÃ¼gt Ã¼ber einige zusÃ¤tzliche Token:
 
@@ -816,4 +816,4 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusÃ
 >
 >Testen Sie immer Ihre interessanten Momente, um sicherzustellen, dass sie die von Ihnen gewÃ¼nschte Art darstellen.
 >
->Vergewissern Sie sich auch, dass es fÃ¼r den VerkÃ¤ufer interessant ist, nicht nur fÃ¼r Sie. ![(wink)](assets/wink.svg)>
+>Auch, stellen Sie sicher, dass es fÃ¼r den VerkÃ¤ufer interessant ist, nicht nur fÃ¼r Sie!
