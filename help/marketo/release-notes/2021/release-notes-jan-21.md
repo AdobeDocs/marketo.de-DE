@@ -3,7 +3,7 @@ description: Versionshinweise - Januar 2021 - Marketo Dokumente - Produktdokumen
 title: Versionshinweise - Januar 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom 21. Januar enthalten. Überprü
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/yellow-star.png)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Quartalsversionen_**
 
@@ -57,7 +57,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Sales Insight {#sales-insight}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **[Erweiterte Test-E-Mail-Workflows (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Erhöhen Sie die Effizienz Ihres Verkaufsteams durch verbesserte E-Mail-Workflows von Sales Insight. Verkäufer können Test-E-Mails an ausgewählte E-Mail-Adressen senden, bevor sie Massen-E-Mails an bis zu 200 Empfänger senden.
 * **[Einblicke in den E-Mail-Status (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Benutzern wird eine Warnmeldung angezeigt, wenn sie versuchen, eine E-Mail an eine ungültige E-Mail-ID oder eine nicht abonnierte E-Mail-Adresse zu senden, bevor sie eine E-Mail senden.  Die Statusangaben des E-Mail-Versands können auf der Registerkarte &quot;E-Mail&quot;von Sales Insight überprüft werden.
@@ -67,7 +67,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## SalesConnect {#sales-connect}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **Einschränken der E-Mail-Verbindung (BETA)**: Verbessern Sie Ihre E-Mail-Zustellbarkeit und skalieren Sie Ihre 1:1-Verkaufskommunikation mit E-Mail-Verbindungssperre für Sales Connect. Unsere neue Drosselungstechnologie verwaltet automatisch das Timing von E-Mails, um nahtlose Erlebnisse für Exchange- und Gmail-Benutzer zu schaffen. Verringern oder beseitigen Sie die Verwendung von Massen-E-Mail-Sendeanwendungen von Drittanbietern.
 * **Nachverfolgung** des Absprungs von E-Mail-Verbindungen: Erhalten Sie mit dem neuen E-Mail-Absprungbericht Einblicke in die Qualität der Interessenten und die Leistung der E-Mail-Vorlage. Exchange- und Gmail-Benutzer können Absprungbenachrichtigungen empfangen, die in den Live-Feed, E-Mail-Ordner, Vorlagenanalysen und Kampagne Analytics aggregiert werden.
