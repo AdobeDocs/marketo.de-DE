@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360423
-description: Finden Sie alle Interessenten in einem Umsatzzyklusmodell - Marketing-Dokumente - Produktdokumentation
+description: Alle Interessenten in einem Umsatzzyklusmodell finden - Marketo Docs - Produktdokumentation
 title: Alle Interessenten in einem Umsatzzyklusmodell suchen
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Alle Interessenten in einem Umsatzzyklusmodell {#find-all-leads-in-a-revenue-cycle-model} suchen
 
@@ -47,7 +47,7 @@ Durch die Verwendung intelligenter Listen können Sie alle Mitglieder des Umsatz
 
    >[!TIP]
    >
-   >Du brauchst nicht beide Filter, sondern nur den, den du brauchst. Wir zeigen Ihnen nur, dass Sie beide gründlich sind. ![(Lächeln)](assets/smile.svg)
+   >Du brauchst nicht beide Filter, sondern nur den, den du brauchst. Wir zeigen Ihnen nur, dass Sie beide gründlich sind.
 
    >[!CAUTION]
    >
