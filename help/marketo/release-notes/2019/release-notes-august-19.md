@@ -4,7 +4,7 @@ description: Versionshinweise - 19. August - Marketo Docs - Produktdokumentation
 title: Versionshinweise - August 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 3%
@@ -25,7 +25,7 @@ Die folgenden Funktionen wurden am 16. August 2019 veröffentlicht.
 * **API-Aktualisierung** für intelligente Kampagne: Verwalten Sie Funktionen zum Lebenszyklus intelligenter Kampagnen, während wir die CRUD-Oberfläche (erstellen, lesen, aktualisieren, löschen) abrunden.
 * **API-Änderung** für E-Mail-Kopfzeilen aktualisieren: Für die API &quot;E-Mail-Kopfzeile aktualisieren&quot;ist keine E-Mail mehr erforderlich, damit eine Vorlage zum Aktualisieren von Kopfzeilenfeldern wie der Betreffzeile angehängt wird.
 
-**Kontobasiertes Marketing** ![(Stern)](assets/star-yellow.svg)
+**Kontobasiertes Marketing** ![(Stern)](assets/yellow-star.png)
 
 * **linkedIn Account Matching**, früher Beta-Version, ist jetzt allgemein verfügbar.
 * **Die** AccountAIs werden offiziell als  **Kontoprofilerstellung** umbenannt.
@@ -36,13 +36,13 @@ Die folgenden Funktionen wurden am 16. August 2019 veröffentlicht.
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden im dritten Kalenderquartal und Anfang des 4. Quartals 2019 veröffentlicht.
 
-**Marketo Sales Connect** ![ (star)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (star)](assets/yellow-star.png)
 
 * **Verbesserung des Personenseitenlayouts:** Verwalten Sie Ihre Personen und Gruppen durch Importe von Listen und Massenaktionen im neuen Personenseitenlayout.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Marketo-Kundenbetreuer, um weitere Informationen zu erhalten.
+>Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/yellow-star.png)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Marketo-Kundenbetreuer, um weitere Informationen zu erhalten.
 
 >[!NOTE]
 >
