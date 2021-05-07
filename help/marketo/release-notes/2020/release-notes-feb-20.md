@@ -4,7 +4,7 @@ description: Versionshinweise - Feb 20 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom 20. Februar enthalten. Überpr�
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/yellow-star.png)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Quartalsveröffentlichungen_** Die folgenden Funktionen wurden am 21.  **Februar 2020** veröffentlicht.
 
@@ -37,7 +37,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Bizible {#bizible}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **Kontobasierte Segmentierung**: Analysieren Sie die Zuordnung auf Kontoebene mit der Möglichkeit, Segmente und Filter für Discover-Pinnwände basierend auf Kontoattributen zu erstellen. Verwenden Sie diese Segmente, um einen Drilldown in Ihrer kontobasierten Marketingleistung durchzuführen.
 * **Speichern von Filtern**: Speichern Sie benutzerspezifische Filter, um Ihre Dashboard schnell und konsistent zu analysieren.
