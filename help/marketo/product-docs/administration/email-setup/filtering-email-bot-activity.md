@@ -2,9 +2,9 @@
 description: Filtern der E-Mail-Bot-Aktivität - Marketo Docs - Produktdokumentation
 title: Filtern der E-Mail-Bot-Aktivität
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Filtern der E-Mail-Bot-Aktivität {#filtering-email-bot-activity}
 
 Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise dazu führen, dass Ihre E-Mail geöffnet und Klickdaten hochgezählt werden. Hier ist, wie man das repariert.
+
+>[!NOTE]
+>
+>Diese Funktion wird für alle Marketo-Instanzen am Abend des 11. Mai aktiviert.
 
 >[!NOTE]
 >
