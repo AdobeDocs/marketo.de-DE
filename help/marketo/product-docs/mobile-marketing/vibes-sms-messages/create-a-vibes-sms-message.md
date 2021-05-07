@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: Erstellen Sie eine SMS-Nachricht von Vibes - Marketing Docs - Produktdokumentation
+description: Erstellen einer SMS-Nachricht für Vibes - Marketo Docs - Produktdokumentation
 title: Erstellen einer Vibes-SMS-Nachricht
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 0%
+source-wordcount: '372'
+ht-degree: 3%
 
 ---
-
 
 # Erstellen einer Vibes-SMS-Nachricht {#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-On für Ihr Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie von Ihrem Adobe Customer Success Manager.
+>Diese Funktion ist als Add-On für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie von Ihrem Adobe Customer Success Manager.
 
 >[!NOTE]
 >
@@ -61,13 +61,13 @@ So erstellen Sie eine SMS-Nachricht für Vibes:
 
    >[!NOTE]
    >
-   >Das Hinzufügen eines Tokens kann dazu führen, dass die Meldung die Zeichenbeschränkung überschreitet. Die Nachricht wird dann aufgeteilt, was zu zusätzlichen Kosten führt.
+   >Durch das Hinzufügen eines Tokens kann die Nachricht u. U. die erlaubte Zeichenanzahl überschreiten. Die Nachricht wird dann aufgeteilt, was zu zusätzlichen Kosten führt.
 
 1. Klicken Sie im Menü &quot;Einfügen&quot;auf **Link**, um Ihrer Nachricht einen Link hinzuzufügen.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Wählen Sie einen Linktyp aus. Die Landingpage von Marketo ist die Standardeinstellung. Wenn Sie damit beginnen, müssen Sie die Landingpage aus der Dropdown-Liste auswählen und auf **Einfügen** klicken.
+1. Wählen Sie einen Linktyp aus. Die Marketo-Landingpage ist die Standardeinstellung. Wenn Sie damit beginnen, müssen Sie die Landingpage aus der Dropdown-Liste auswählen und auf **Einfügen** klicken.
 
    ![](assets/insert-link-real-hands.jpg)
 
