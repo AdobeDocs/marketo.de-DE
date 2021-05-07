@@ -4,10 +4,10 @@ description: Versionshinweise - 20. Oktober - Marketo Docs - Produktdokumentatio
 title: Versionshinweise - Okt. 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
-ht-degree: 0%
+source-wordcount: '957'
+ht-degree: 1%
 
 ---
 
@@ -17,19 +17,19 @@ Die folgenden Funktionen sind in der Version vom 20. Oktober enthalten. Überpr�
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) können kostenpflichtige Add-ons sein. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Funktionen, die mit einem Stern (![](assets/yellow-star.png)) gekennzeichnet sind, werden kostenpflichtig hinzugefügt. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Vierteljährliche_** ReleasesDie folgenden Funktionen werden am 16.  **Oktober 2020** veröffentlicht.
 
-## Zielgruppe Account Management {#target-account-management}
+## Zielkontoverwaltung {#target-account-management}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **Intelligente Kontoversion (Beta)**: Laden Sie Ihre ABM-Strategie mit der neuen Funktion zur intelligenten Liste für Ihr Konto hoch. Dynamische Identifizierung von Konten mit gewünschten Konto- und Personalattributen, um Kanal-übergreifende Kampagnen auszuführen und Warnungen rechtzeitig an den Vertrieb zu senden, um Transaktionen schneller abzuschließen. Hinweis: dies ist nur für Zielgruppe-Kontoverwaltungskunden verfügbar, die an das [Benutzererlebnis der nächsten Generation](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) angeschlossen wurden.
 
 ## E-Mail-Marketing {#email-marketing}
 
-* **Batch-E-Mail-Verstärkung  ![(Stern)](assets/star-yellow.svg)**: Senden Sie mehr E-Mails mit einem höheren Durchsatz von bis zu 5 Millionen Batch-E-Mails pro Stunde. Dank der umfassenden E-Mail-Auslieferungsoptionen müssen Sie nicht mehr zwischen E-Mail-Stapeln warten, sondern alle E-Mails pünktlich und planmäßig versenden.
+* **Batch-E-Mail-Verstärkung  ![(Stern)](assets/yellow-star.png)**: Senden Sie mehr E-Mails mit einem höheren Durchsatz von bis zu 5 Millionen Batch-E-Mails pro Stunde. Dank der umfassenden E-Mail-Auslieferungsoptionen müssen Sie nicht mehr zwischen E-Mail-Stapeln warten, sondern alle E-Mails pünktlich und planmäßig versenden.
 
 ## Website-Marketing {#website-marketing}
 
@@ -67,7 +67,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Sales Insight {#sales-insight}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **API-Optimierung und neue Konfigurationsoptionen** für die Verwaltung: Verbessern Sie die Benutzerfreundlichkeit von Sales Insight durch eine verbesserte API-Optimierung und zusätzliche Verwaltungsfunktionen. Mit den Konfigurationseinstellungen können Administratoren definieren, wie Kampagnen und Ereignis in das Sales Insight-Dashboard geladen werden. Flexible Kalenderoptionen zur Anzeige von Aktivitäten reduzieren die API-Nutzung und verbessern das Gesamterlebnis.
 
