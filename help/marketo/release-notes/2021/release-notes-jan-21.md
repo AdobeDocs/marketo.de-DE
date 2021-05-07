@@ -3,7 +3,7 @@ description: Versionshinweise - Januar 2021 - Marketo Dokumente - Produktdokumen
 title: Versionshinweise - Januar 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom 21. Januar enthalten. Überprü
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/yellow-star.png)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Mit einem Stern gekennzeichnete Funktionen (![(star)](assets/yellow-star.png)) werden kostenpflichtige Add-ons erstellt. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Quartalsversionen_**
 
