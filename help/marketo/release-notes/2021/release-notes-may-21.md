@@ -2,9 +2,9 @@
 description: Versionshinweise - Mai 2021 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Mai 2021
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '1490'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,23 @@ Die folgenden Funktionen sind in der Version vom 21. Mai enthalten. Überprüfen
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen (![(star)](assets/star-yellow.svg)) werden kostenpflichtige Add-ons erstellt. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Funktionen, die mit einem Stern ![](assets/star.png) gekennzeichnet sind, werden gebührenpflichtig hinzugefügt. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Quartalsversionen_**
 
 Die folgenden Funktionen werden am **7. Mai 2021** veröffentlicht.
 
+>[!NOTE]
+>
+>Diese drei Funktionen sind bis zum Abend des 11. Mai verfügbar:
+
+* **Intelligente Listen**
+* **Ausführen von Kampagne Flow-Schritten**
+* **Aktivität für Filter-Out-E-Mail-Bots**
+
 ## Kontobasierte Erlebnisse {#Account-based-eaperiences}
 
-* **Intelligente Listen für Konto (allgemeine Verfügbarkeit)** (![(Stern)](assets/star-yellow.svg): Dynamische Identifizierung und Qualifizierung von Konten mit den gewünschten Konto- und Personalattributen zur Zielgruppe von Cross-Kanal-Marketing-Kampagnen und Versand von rechtzeitigen Warnungen an Vertrieb, um Transaktionen schneller abzuschließen. Diese neue Funktion ermöglicht eine robuste Automatisierung von kontobasierten Marketingstrategien. Für Kunden mit Zielgruppe-Kontoverwaltung, die über eine Benutzererfahrung der nächsten Generation verfügen, stehen Smart-Listen für Ihr Konto zur Verfügung.
+* **Intelligente Listen für Konten (allgemeine Verfügbarkeit)** ![](assets/star.png): Dynamische Identifizierung und Qualifizierung von Konten mit den gewünschten Konto- und Personalattributen zur Zielgruppe von Cross-Kanal-Marketing-Kampagnen und Versand von rechtzeitigen Warnungen an Vertrieb, um Transaktionen schneller abzuschließen. Diese neue Funktion ermöglicht eine robuste Automatisierung von kontobasierten Marketingstrategien. Für Kunden mit Zielgruppe-Kontoverwaltung, die über eine Benutzererfahrung der nächsten Generation verfügen, stehen Smart-Listen für Ihr Konto zur Verfügung.
 
 ## Benutzererlebnis der nächsten Generation {#next-generation-user-experience}
 
@@ -75,7 +83,7 @@ Mehrere wichtige Aktualisierungen an Bulk- und Interessenten-APIs, darunter die 
 
 ## Bizible {#bizible}
 
-(![(star)](assets/star-yellow.svg))
+![](assets/star.png)
 
 * **Integration mit LinkedIn Lead Gen Forms (Beta)**: Mit der Bizible Premium Attribution Lösung erhalten Sie einen tiefen Einblick in Ihre LinkedIn Kanal-Ausgaben und Ihren ROI. Durch die neueste Integration mit LinkedIns Lead Gen Forms erhält Bizible Einblicke in Formulare, die auf der LinkedIn-Plattform eingereicht wurden. Diese Formularausfüllungen werden mit Interessenten aus Ihrer CRM- (Customer Relationship Management) oder Adobe-Marketo Engage-Instanz abgeglichen, sodass sie für eine Zuordnung infrage kommen und mit Ihren anderen Marketing-Interaktionen verfolgt werden können.
 
