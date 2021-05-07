@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378814
-description: Kontointelligente Listen - Marketing-Dokumente - Produktdokumentation
+description: Kontointelligente Listen - Marketo Docs - Produktdokumentation
 title: Intelligente Listen
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Konto-Smart-Listen {#account-smart-lists}
 
@@ -17,7 +17,11 @@ Hier sehen Sie, wie Sie Ihre hochwertigen Konten schnell und präzise identifizi
 
 >[!NOTE]
 >
->Diese Funktion ist in einer Open Beta verfügbar und steht allen Benutzern zur Verfügung, die sowohl TAM als auch die Marketo Next-Gen-Benutzererfahrung aktiviert haben. Bitte wenden Sie sich an Ihren CSM, wenn Sie an der Beta teilnehmen möchten.
+>Diese Funktion wird für alle qualifizierenden Marketo-Instanzen am Abend des 11. Mai aktiviert.
+
+>[!NOTE]
+>
+>Diese Funktion ist nur für Benutzer verfügbar, für die sowohl TAM als auch das Adobe Marketo Engage Next-Gen-Benutzererlebnis aktiviert sind.
 
 ## Erstellen einer Konto-Smart-Liste {#create-an-account-smart-list}
 
@@ -43,7 +47,7 @@ Hier sehen Sie, wie Sie Ihre hochwertigen Konten schnell und präzise identifizi
 
 Ihre Account Smart Liste wurde erstellt! Die Schritte zum Definieren der Regeln finden Sie unten.
 
-## Regeln für die intelligente Liste von Konten {#account-smart-list-rules}
+## Konto-Smart-List-Regeln {#account-smart-list-rules}
 
 Intelligente Kontoausnahmen funktionieren ähnlich wie normale Smart-Listen, mit einer bemerkenswerten Ausnahme: Container.
 
@@ -79,7 +83,7 @@ Und das ist es! Sehen Sie sich den unten stehenden Abschnitt an, um zu sehen, wi
 >
 >Genau wie bei standardmäßigen Smart-Listen können Sie mit fortschrittlicher Logik Ihre Ergebnisse weiter verfeinern. Dazu benötigen Sie mindestens drei Filter, und bei den Account-Smart-Listen ist ein Container (unabhängig von der Anzahl der darin enthaltenen Filter) gleich einem Filter.
 
-## Aktionen für die intelligente Liste von Konten {#account-smart-list-actions}
+## Konto-Smart-List-Aktionen {#account-smart-list-actions}
 
 Auf der Registerkarte Übersicht Ihrer Konto-Smart-Liste werden Sie einige Aktionsoptionen sehen.
 
@@ -101,4 +105,4 @@ Sie können Ihre Konto-Smart-Liste auch in einer standardmäßigen Smart-Kampagn
 >
 >**Definition**
 >
->**Personen, die Mitglied der Smart-Liste** des Kontos sind: In diesem Fall bezieht sich das Wort &quot;Mitglied&quot; auf das Konto selbst, also &quot;Mitglied der Leute&quot; die tatsächlichen Personen (Marketo-Datensätze) in diesen Konten.
+>**Personen, die Mitglied der Smart-Liste** des Kontos sind: In diesem Fall bezieht sich das Wort &quot;Mitglied&quot; auf das Konto selbst, sodass &quot;Mitglied der Person&quot; die tatsächlichen Personen (Marketo-Aufzeichnungen) in diesen Konten.
