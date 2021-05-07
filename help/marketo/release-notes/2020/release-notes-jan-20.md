@@ -4,7 +4,7 @@ description: Versionshinweise - Januar 2020 - Marketo Dokumente - Produktdokumen
 title: Versionshinweise - Januar 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version Januar 20 enthalten. Überprüfen S
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/star-yellow.svg)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Mit einem Stern gekennzeichnete Funktionen ( ![(star)](assets/yellow-star.png)) werden als kostenpflichtige Add-ons bezeichnet. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
 
 **_Quartalsversionen_**
 
@@ -38,9 +38,9 @@ Die folgenden Funktionen werden am **17. Januar 2020** veröffentlicht.
 
 ## Kundenbezogenes Marketing {#account-based-marketing}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
-* **[Neue Kontoerkennung (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(Stern)](assets/star-yellow.svg)**: Verwenden Sie die Kontoprofilerstellung, um auf der Grundlage Ihres AI-basierten Profil-Modells netto-neue Zielgruppen-Konten für Ihre ABM-Strategie zu ermitteln. Ansicht, Auswahl und Import von empfohlenen neuen Konten zusammen mit ihren AI-basierten Passform- und Intent-Datenindikatoren, die nicht bereits in Ihrer Marketo Engage-Interessenten- und Kontodatenbank für ABM-Targeting vorhanden sind. Sofort verfügbar für qualifizierende Kunden zur Profilerstellung.
+* **[Neue Kontoerkennung (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(Stern)](assets/yellow-star.png)**: Verwenden Sie die Kontoprofilerstellung, um auf der Grundlage Ihres AI-basierten Profil-Modells netto-neue Zielgruppen-Konten für Ihre ABM-Strategie zu ermitteln. Ansicht, Auswahl und Import von empfohlenen neuen Konten zusammen mit ihren AI-basierten Passform- und Intent-Datenindikatoren, die nicht bereits in Ihrer Marketo Engage-Interessenten- und Kontodatenbank für ABM-Targeting vorhanden sind. Sofort verfügbar für qualifizierende Kunden zur Profilerstellung.
 
 <br> 
 
@@ -50,7 +50,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Bizible {#bizible}
 
-![(Stern)](assets/star-yellow.svg)
+![(Stern)](assets/yellow-star.png)
 
 * **Marketo Engage-Interessentenintegration**: Bringen Sie Vertrieb und Marketing mit einer einheitlichen Ansicht von Interessenten über Bizible und Marketo Engage. Mit diesem Update kann Marketo Engage jetzt als zusätzliche Interessentendatenquelle verwendet werden, sodass Sie nicht mehr warten müssen, bis Interessenten mit dem CRM synchronisiert werden, um über die Interessentenanwerbung zu berichten.
 * **Discover-Verbesserungen**: Profitieren Sie von unseren Discover-Foren in Bizible mit Verbesserungen, die durch Kundenfeedback entwickelt wurden, wie z. B. der Möglichkeit, im Drilldown-Verfahren zu Transaktionsdatensätzen aus Kacheln und Attributen aufzuschlüsseln, wesentliche Datensatzzählungen und entsprechende Kosten-pro-Metriken hinzuzufügen und Dashboard-Filter für mehrere Dashboard hinzuzufügen/zu entfernen. Bei der Anmeldung werden Sie auch direkt zum Standard-Dashboard geleitet.
