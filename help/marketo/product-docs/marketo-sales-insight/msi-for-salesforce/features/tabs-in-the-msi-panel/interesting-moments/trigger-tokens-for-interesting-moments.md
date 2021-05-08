@@ -4,7 +4,7 @@ description: Trigger-Tokens für interessante Momente - Marketo Docs - Produktdo
 title: Trigger-Token für interessante Momente
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 30%
@@ -804,7 +804,7 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zus�
 
 >[!NOTE]
 >
->Wenn es keinen Häkchen hat ![(tick)](assets/) würde es eine leere Zeichenfolge (nichts) im interessanten Moment zurückgeben.
+>Wenn es keinen Häkchen hat ![(tick)](assets/check.png) würde es eine leere Zeichenfolge (nichts) im interessanten Moment zurückgeben.
 
 *Der Trigger **Webseite &quot;Besuche&quot;** verfügt über einige zusätzliche Token:
 
