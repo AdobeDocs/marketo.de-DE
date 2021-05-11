@@ -2,9 +2,9 @@
 description: Versionshinweise - Mai 2021 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Mai 2021
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Mehrere wichtige Aktualisierungen an Bulk- und Interessenten-APIs, darunter die 
 
 ## Ankündigungen {#announcements}
 
-* **Marketo Product Docs Switching-Plattformen**: Wir freuen uns, Ihnen mitteilen zu können, dass die Marketo Product Docs am Freitag, den 7. Mai, der Adobe Experience League beitreten werden. Sie können weiterhin die URL verwenden: docs.marketo.com und wenn bereits vorhandene Artikel mit Lesezeichen versehen sind, werden Sie umgeleitet. Alle aktuellen Produktdocs werden auf der neuen Plattform verfügbar sein, und für Ende des Jahres sind Verbesserungen geplant.
+* **Marketo Product Docs Switching-Plattformen**: Wir freuen uns, Ihnen mitteilen zu können, dass die Marketo Product Docs seit Freitag, dem 7. Mai, der Adobe Experience League beigetreten sind. Sie können weiterhin die URL verwenden: docs.marketo.com und wenn bereits vorhandene Artikel mit Lesezeichen versehen sind, werden Sie umgeleitet. Alle Produktdocs sind auf der neuen Plattform verfügbar, für Ende des Jahres sind Erweiterungen geplant.
 
 * **Optimierte Benutzerverwaltung und Single-Sign-On mit Adobe Identity System**: Ab Juli 2021 werden die neuen Adobe-Marketo Engage-Kunden mit Adobe-Benutzeranmeldeinformationen an Bord genommen. Bis Mitte 2022 erfolgt die Migration von aktuellen Kunden zum integrierten Identitätssystem. Bis auf Weiteres ist keine Kundenaktion erforderlich. Single Sign-On ermöglicht IT-/Security-Administratoren die Verwaltung mehrerer Adobe-Marketo Engage-Produktinstanzen zusammen mit anderen Experience Cloud-Lösungen sowie die Konfiguration der SSO (Shared Services Organization) über eine gemeinsame Konsole. Administratoren können Benutzergruppen und Benutzerberechtigungen bequem über eine gängige Admin Console verwalten.
+
+**_Webinar zur Produktversion_**
+
+Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Stellen Sie sicher, dass [registrieren Sie sich jetzt](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html), um am 13. Mai um 9:00 Uhr PT / 12:00 Uhr ET für ein Live-Webinar mit unserem Produktteam teilzunehmen, um einen tieferen Einstieg in diese Innovationen zu finden.
