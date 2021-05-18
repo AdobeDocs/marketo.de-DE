@@ -1,10 +1,9 @@
 ---
 description: Versionshinweise - Mai 2021 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Mai 2021
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ Die folgenden Funktionen sind in der Version vom 21. Mai enthalten. Überprüfen
 **_Quartalsversionen_**
 
 Die folgenden Funktionen werden am **7. Mai 2021** veröffentlicht.
-
->[!NOTE]
->
->Diese drei Funktionen sind bis zum Abend des 11. Mai verfügbar:
->
->* **Intelligente Listen**
->* **Ausführen von Kampagne Flow-Schritten**
->* **Aktivität für Filter-Out-E-Mail-Bots**
-
 
 ## Kontobasierte Erlebnisse {#Account-based-eaperiences}
 
