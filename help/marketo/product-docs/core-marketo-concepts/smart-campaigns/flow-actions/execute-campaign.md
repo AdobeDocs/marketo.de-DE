@@ -1,10 +1,9 @@
 ---
 description: Kampagne ausführen - Marketo Docs - Produktdokumentation
 title: Kampagne ausführen
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '711'
 ht-degree: 1%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 1%
 # Kampagne ausführen {#execute-campaign}
 
 Eine ausführbare Kampagne enthält wie andere Kampagnen eine intelligente Liste, einen Fluss und einen Zeitplan. Im Gegensatz zu anderen Kampagnen planen oder aktivieren Sie sie nicht. Sie kann nur von einer anderen Kampagne über den Flussschritt Kampagne ausführen aufgerufen werden. Die Flussschritte in der ausführbaren Kampagne werden nacheinander mit der übergeordneten Kampagne ausgeführt (im Gegensatz zur Request-Kampagne, die parallel in einer separaten Trigger-Kampagne ausgeführt wird).
-
->[!NOTE]
->
->Diese Funktion wird für alle Marketo-Instanzen am Abend des 11. Mai aktiviert.
 
 >[!NOTE]
 >
