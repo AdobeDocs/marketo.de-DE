@@ -3,16 +3,15 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 5%
 
 ---
 
 
-# Marketo Guide {#using}
+# Marketo-Handbuch {#using}
 
 + [Startseite](home.md)
 + Erste Schritte mit Marketo {#getting-started-with-marketo}
@@ -38,7 +37,7 @@ ht-degree: 5%
       + [Landing Page umleiten](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisieren einer Warnung für mögliche Duplikat-Personen](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Erben einer Marketo-Instanz {#inheriting-a-marketo-instance}
-      + [Hilfe! Ich habe eine bestehende Marketo-Instanz geerbt.](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Hilfe! Ich habe eine bestehende Marketo-Instanz geerbt](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Elemente zum Deaktivieren](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Zu überprüfende Dinge: Kernkompetenzen](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Möglichkeiten der Hilfe](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -809,7 +808,7 @@ ht-degree: 5%
                + [Vorlage 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Meldebogen 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Meldebogen 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Meldebogen 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Vorlage 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Vorlage 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Meldebogen 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Meldebogen 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,7 +1049,8 @@ ht-degree: 5%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Erste Schritte {#getting-started}
          + [Übersicht über Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Erste Schritte mit Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Zugriff auf Ihre neue Sales Connect-Instanz](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [Einrichten von Sales Connect](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [Meine Profil-Seite](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Kurzvideos und Tutorials zu Beginn](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Passwort für den Verkaufsanschluss ändern](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1100,7 +1100,7 @@ ht-degree: 5%
             + [Salesforce-ID in Sales Connect importieren](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [Felder für das Ereignis &quot;Sales Connect&quot;im Verlauf der Aktivität installieren](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Installation der Salesforce-Anpassung für Professional Edition-Kunden](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [An Sales Connect übertragen](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [In Sales Connect pushen](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Berichte-Dashboards in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [Sales Connect-Anpassungen für CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Massenaktionen in Salesforce Classic verwenden](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1214,6 +1214,8 @@ ht-degree: 5%
       + Integrationen {#integrations}
          + [So protokollieren Sie E-Mails mit anderen CRMs](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [Marketo-Verbindung manuell einrichten](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Gewähren des Zugriffs für Benutzer](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Kampagne für Vertriebs-Connect-Benutzer sichtbar machen](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + Personal {#people}
@@ -1502,7 +1504,7 @@ ht-degree: 5%
          + Berichtstypen {#report-types}
             + [Bericht zur Aktivität der Kampagne](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Bericht zur Kampagne-E-Mail-Leistung](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [ Bericht zur Web-Aktivität des Unternehmens](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [Bericht zur Web-Aktivität des Unternehmens](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Personen nach Statusbericht](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Leistungsbericht für Personen](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Berichttyp-Übersicht](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
