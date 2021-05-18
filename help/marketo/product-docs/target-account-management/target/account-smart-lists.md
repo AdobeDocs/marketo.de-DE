@@ -3,10 +3,9 @@ unique-page-id: 11378814
 description: Kontointelligente Listen - Marketo Docs - Produktdokumentation
 title: Intelligente Listen
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '467'
 ht-degree: 1%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 1%
 # Konto-Smart-Listen {#account-smart-lists}
 
 Hier sehen Sie, wie Sie Ihre hochwertigen Konten schnell und präzise identifizieren können.
-
->[!NOTE]
->
->Diese Funktion wird für alle qualifizierenden Marketo-Instanzen am Abend des 11. Mai aktiviert.
 
 >[!NOTE]
 >
