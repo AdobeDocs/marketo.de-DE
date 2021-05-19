@@ -1,9 +1,9 @@
 ---
 description: Benutzerzugriff gewähren - Marketo Docs - Produktdokumentation
 title: Gewähren des Zugriffs für Benutzer
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Führen Sie die Schritte in diesem Artikel aus, um Ihren Sales Connect-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie &quot;Interessante Momente&quot;im Live Feed und der Zugriff auf Marketing-Kampagnen entsperrt.
 
-Sie müssen Benutzer hier zu Sales Connect einladen, bevor sie auf der Seite &quot;Marketo - Team Access&quot;angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu Sales Connect [hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) einladen, bevor sie auf der Seite &quot;Marketo > Team Access&quot;(in Sales Connect) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Sie müssen Benutzer hier zu Sales Connect einladen, bevor sie auf der Seite &qu
 
    >[!NOTE]
    >
-   >Sie können die Workspace-Zuweisung nur einmal ausführen, wenn Sie Benutzer einladen. Nach der Einstellung müssen Sie die Verbindung zum Benutzer trennen, um sie zu ändern.
+   >Sie können die Workspace-Zuweisung nur einmal ausführen, wenn Sie Benutzern Zugriff gewähren. Nach der Einstellung müssen Sie die Verbindung zum Benutzer trennen, um sie zu ändern.
 
    ![](assets/granting-access-to-users-1.png)
 
@@ -33,9 +33,5 @@ Sie müssen Benutzer hier zu Sales Connect einladen, bevor sie auf der Seite &qu
 1. Klicken Sie auf die Dropdownliste Arbeitsbereich, wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
 
    ![](assets/granting-access-to-users-3.png)
-
-   >[!NOTE]
-   >
-   >Wenn Sie neue Benutzer hinzufügen möchten, wechseln Sie zum Abschnitt &quot;Teamverwaltung&quot;in den Admin-Einstellungen und klicken Sie auf die Schaltfläche **Benutzer einladen**.
 
 Sie können weitere Benutzer über die Seite &quot;Teamverwaltung&quot;aufrufen und die oben beschriebenen Schritte ausführen, um eine Verbindung herzustellen.
