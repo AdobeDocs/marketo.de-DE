@@ -1,9 +1,9 @@
 ---
 description: Einrichten von Sales Connect - Marketo Docs - Produktdokumentation
 title: Einrichten von Sales Connect
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 Dieses Dokument führt Sie durch die ersten Schritte zum Einrichten der neuen Sales Connect-Instanz. Für einige dieser Schritte ist der Zugriff als Marketo-Administrator, Salesforce-Administrator und Sales Connect-Administrator erforderlich. Folgen Sie unseren unten stehenden Anleitungen, um Ihre Instanzeinrichtung abzuschließen.
 
+>[!NOTE]
+>
+>**Administratorberechtigungen erforderlich.**
+
 ## Zugriff auf Ihr neues Marketo Sales Connect-Konto {#accessing-your-new-marketo-sales-connect-account}
 
-Wenn Sie Marketo Sales Connect erworben haben, wird der Zugriff auf Ihre Instanz über den Marketo-Administratorbereich bereitgestellt. Klicken Sie hier, um Anweisungen dazu zu erhalten, wie ein Marketo-Administrator den Zugriff auf Ihre neue Instanz bereitstellen kann.
+Wenn Sie Marketo Sales Connect erworben haben, wird der Zugriff auf Ihre Instanz über den Marketo-Administratorbereich bereitgestellt. [Klicken Sie ](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) hier, um Anweisungen darüber zu erhalten, wie ein Marketo-Administrator Zugriff auf Ihre neue Instanz gewähren kann.
 
 ![](assets/set-up-sales-connect-1.png)
 
