@@ -1,19 +1,18 @@
 ---
 unique-page-id: 42762511
-description: Einrichten der Adobe Experience Cloud-Audience-Freigabe - Marketo Docs - Produktdokumentation
-title: Einrichten der Freigabe von Adobe Experience Cloud-Audiencen
+description: Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe - Marketo-Dokumente - Produktdokumentation
+title: Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 760e39e662f361831eed63d424b74dc90bbfd2e2
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Einrichten der Adobe Experience Cloud-Audience-Freigabe {#set-up-adobe-experience-cloud-audience-sharing}
+# Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe {#set-up-adobe-experience-cloud-audience-sharing}
 
-Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ihre Adobe IMS Org Anmeldedaten in Marketo eingeben. So geht es.
+Um Zielgruppendaten für Ihre Adobe Apps freizugeben, müssen Sie zunächst Ihre Adobe IMS-Organisationsanmeldeinformationen in Marketo eingeben. So geht es.
 
 >[!NOTE]
 >
@@ -21,32 +20,32 @@ Um Audience-Daten für Ihre Adobe-Anwendungen freizugeben, müssen Sie zuerst Ih
 
 1. Klicken Sie in Marketo auf **Admin**.
 
-   ![](assets/one-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Klicken Sie unter &quot;Integration&quot;auf **Freigabe von Experience Cloud-Audiencen**.
+1. Klicken Sie unter &quot;Integration&quot;auf **Adobe-Organisationszuordnung**.
 
-   ![](assets/two-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
 1. Klicken Sie auf **Bearbeiten**.
 
-   ![](assets/three-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Geben Sie Ihre Adobe IMS Organisations-ID ein (lernen Sie, wie Sie [hier](https://docs.adobe.com/content/help/en/control-panel/using/faq.html) finden) und klicken Sie auf **OK**.
+1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie, wie Sie diese [hier](https://docs.adobe.com/content/help/en/control-panel/using/faq.html) finden) und klicken Sie auf **OK**.
 
-   ![](assets/four-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
 1. Klicken Sie auf **Bestätigen**.
 
-   ![](assets/five-1.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. Klicken Sie auf **Schließen**.
+1. Klicken Sie auf **Close**.
 
-   ![](assets/six-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
    >[!NOTE]
    >
-   >Aus Sicherheitsgründen müssen Sie ein Organisationsadministrator für die Adobe-Organisation sein, der Sie zugeordnet werden möchten. Wenn du nicht bist, schlägt die Aktion fehl.
+   >Aus Sicherheitsgründen müssen Sie Org-Admin für die Adobe-Organisation sein, der Sie eine Zuordnung zuweisen möchten. Wenn du nicht bist, schlägt die Aktion fehl.
 
-1. Wenn Sie _noch nicht_ bereits angemeldet sind, wird ein Popup in einem neuen Register/Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (bei dieser Aktion wird der Organisationszugriff überprüft).
+1. Wenn Sie _nicht_ bereits angemeldet sind, wird ein Popup in einer neuen Registerkarte/einem neuen Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (durch diese Aktion wird der Organisationszugriff überprüft).
 
-Und das ist es! Sie können jetzt [Daten zur Audience freigeben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md) an oder [eine Audience](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md) aus Adobe Experience Cloud synchronisieren.
+Und das ist es! Sie können jetzt [Zielgruppendaten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md) für oder [eine Zielgruppe](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md) aus Adobe Experience Cloud synchronisieren.
