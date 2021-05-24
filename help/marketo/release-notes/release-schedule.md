@@ -1,29 +1,28 @@
 ---
 unique-page-id: 5472490
-description: Versionsplan - Marketo Docs - Produktdokumentation
-title: Veröffentlichungszeitplan
+description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
+title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 05a174096a6ecab0791799db0af9291e1aa61c08
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 
-# Releasungsplan {#release-schedule}
+# Release Schedule {#release-schedule}
 
-**Version**: Marketo verwendet einen vierteljährlichen Veröffentlichungszeitplan. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verlinkt.
+**Version**: Marketo verwendet einen vierteljährlichen Hauptversionsplan. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verknüpft.
 
-**Releasedatum**: Die Rollout beginnt üblicherweise am Mittwoch der Release-Woche, wobei der Großteil der Aktualisierung am Freitagabend stattfindet. Es wird eine E-Mail mit bestimmten Daten und Versionshinweisen gesendet. Das angegebene Datum bezieht sich auf das Freitagsupdate.
+**Releasedatum**: Der Rollout beginnt normalerweise am Mittwoch der Release-Woche, wobei der Großteil der Aktualisierung am Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
 
 **Fortschritt**:
 
-* Planmäßig - Wir planen, die vierteljährlichen Funktionen und Verbesserungen am angegebenen Datum zu veröffentlichen
-* In Bearbeitung - Wir entwickeln und dokumentieren den Inhalt jetzt zur Veröffentlichung am angegebenen Datum
-* Versendet - Die Version ist abgeschlossen
+* Zeitplan - Die vierteljährlichen Funktionen und Verbesserungen werden voraussichtlich am angegebenen Datum veröffentlicht.
+* In Bearbeitung - Wir entwickeln und dokumentieren den Inhalt jetzt zur Veröffentlichung am angegebenen Datum.
+* Versand - Die Version ist abgeschlossen.
 
-_Änderungen an den Versionsdaten_
+_Die Veröffentlichungsdaten können sich ändern_
 
 <table> 
  <colgroup> 
@@ -34,7 +33,7 @@ _Änderungen an den Versionsdaten_
  <tbody> 
   <tr> 
    <th width="250px">Version</th> 
-   <th width="250px">Releasedatum</th> 
+   <th width="250px">Veröffentlichungsdatum</th> 
    <th width="250px">Fortschritt</th> 
   </tr> 
   <tr> 
@@ -45,17 +44,17 @@ _Änderungen an den Versionsdaten_
   <tr> 
    <td colspan="1">Mai 21</td> 
    <td colspan="1">7. Mai 2021</td> 
-   <td colspan="1">In Bearbeitung</td> 
+   <td colspan="1">Versendet</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21. August</td> 
+   <td colspan="1">August '21</td> 
    <td colspan="1">13. August 2021</td> 
-   <td colspan="1">Planmäßig</td> 
+   <td colspan="1">in progress</td> 
   </tr> 
   <tr> 
    <td colspan="1">Oktober 21</td> 
    <td colspan="1">15. Oktober 2021</td> 
-   <td colspan="1">Planmäßig</td> 
+   <td colspan="1">Zeitplan</td> 
   </tr> 
  </tbody> 
 </table>
