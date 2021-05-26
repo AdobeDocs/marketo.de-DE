@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
+source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
 workflow-type: tm+mt
-source-wordcount: '8040'
+source-wordcount: '8030'
 ht-degree: 5%
 
 ---
@@ -1242,7 +1242,6 @@ ht-degree: 5%
          + [Anmeldung zum Aktivitätsverlauf nicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Hat sich nicht bei Salesforce angemeldet](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Aufrufaufzeichnung aktivieren](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Erstellen einer Liste mit prioritären Aufrufen in Sales Connect](product-docs/marketo-sales-connect/phone/how-to-create-your-priority-call-list-in-sales-connect.md)
          + [Anleitung zum Anpassen des Anrufergebnisses im Verkaufsgespräch](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Sales Phone International - Aufruf](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokale Präsenz von Verkaufs-Telefonen](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
