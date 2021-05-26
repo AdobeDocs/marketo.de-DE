@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe - Marketo-Dokumente - Produktdokumentation
 title: Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 760e39e662f361831eed63d424b74dc90bbfd2e2
+source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Um Zielgruppendaten für Ihre Adobe Apps freizugeben, müssen Sie zunächst Ihre
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie, wie Sie diese [hier](https://docs.adobe.com/content/help/en/control-panel/using/faq.html) finden) und klicken Sie auf **OK**.
+1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie, wie Sie diese [hier](https://experienceleague.adobe.com/docs/control-panel/using/faq.html) finden) und klicken Sie auf **OK**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
