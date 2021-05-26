@@ -1,37 +1,49 @@
 ---
 unique-page-id: 17432598
-description: Einrichten der Kontoprofilerstellung - Marketing Docs - Produktdokumentation
-title: Einrichten der Kontoprofilerstellung
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Einrichten von Kontoprofilen - Marketo-Dokumente - Produktdokumentation
+title: Kontoprofil einrichten
+exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 2%
 
 ---
 
+# Einrichten von Kontoprofilen {#setting-up-account-profiling}
 
-# Einrichten der Kontoprofilerstellung {#setting-up-account-profiling}
+Führen Sie diese Schritte aus, um mit der Verwendung von Kontoprofilen zu beginnen.
 
-Führen Sie die folgenden Schritte aus, um mit der Kontoprofilerstellung Beginn auszuführen.
+>[!CAUTION]
+>
+>Die folgenden Felder müssen **nicht** ausgeblendet sein, damit die Kontoerstellung ordnungsgemäß funktioniert.
+>
+>* Website
+>* Unternehmen
+>* E-Mail
+>* Land
 
-1. Öffnen Sie unter &quot;Mein Marketo&quot;die Zielgruppe **Kontoverwaltung**.
+>
+>
+Erfahren Sie, wie Sie [ein Feld hier ein-/ausblenden](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+
+1. Öffnen Sie in My Marketo **Target Account Management**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Klicken Sie auf die Registerkarte **Kontoprofilerstellung**.
+1. Klicken Sie auf die Registerkarte **Kontoprofil** .
 
    ![](assets/two-1.png)
 
-1. Die Registerkarte &quot;Modell&quot;wird standardmäßig geöffnet. Klicken Sie auf **Erste Schritte**.
+1. Die Registerkarte Modell wird standardmäßig geöffnet. Klicken Sie auf **Erste Schritte**.
 
    ![](assets/three.png)
 
-1. Geben Sie dem Modell einen Namen, legen Sie fest, wer in die Ergebnisse einbezogen werden soll und wer die Grundlage für das ideale Profil (ICP) sein wird. Klicken Sie nach Abschluss des Vorgangs auf **Modell erstellen**.
+1. Geben Sie Ihrem Modell einen Namen, wählen Sie aus, wer in die Ergebnisse aufgenommen werden soll und wer als Grundlage für das Ideal Customer Profile (ICP) dienen wird. Klicken Sie abschließend auf **Modell erstellen** .
 
    ![](assets/four.png)
 
-1. Ihr Modell beginnt mit dem Aufbau. Es kann eine Weile dauern, aber keine Sorge, Sie werden benachrichtigt, wenn es fertig ist.
+1. Ihr Modell beginnt seinen Build. Es kann eine Weile dauern, aber keine Sorge, Sie werden benachrichtigt, wenn es fertig ist.
 
    ![](assets/five.png)
 
@@ -39,10 +51,10 @@ Führen Sie die folgenden Schritte aus, um mit der Kontoprofilerstellung Beginn 
 
    ![](assets/six.png)
 
-   Ihr Modell wurde jetzt erstellt.
+   Ihr Modell wird jetzt erstellt.
 
    ![](assets/seven.png)
 
    >[!TIP]
    >
-   >Nachdem Ihr Modell erstellt wurde, lernen Sie [wie Sie es einstellen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Nachdem Ihr Modell erstellt wurde, erfahren Sie [wie Sie es anpassen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
