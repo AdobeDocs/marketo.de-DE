@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
+source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
 workflow-type: tm+mt
-source-wordcount: '8030'
+source-wordcount: '8028'
 ht-degree: 5%
 
 ---
@@ -1044,7 +1044,6 @@ ht-degree: 5%
    + Marketo Engage-Erlebnis der nächsten Generation {#marketo-engage-next-generation-experience}
       + [Überblick](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [Neues Symbol-Glossar](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
-      + [Verschieben von Assets](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
       + [Verwenden der globalen Suche](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Erste Schritte {#getting-started}
