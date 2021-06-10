@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bff000b6e65b3cd92db1e90aa3a7b594cf0dd6a5
+source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
 workflow-type: tm+mt
-source-wordcount: '8033'
+source-wordcount: '8031'
 ht-degree: 5%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 5%
             + [Erstellen eines Ereignisses mit GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Erstellen einer Veranstaltung mit Level 3-Webtreffen](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Erstellen eines Ereignisses mit ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + Erstellen Sie ein Ereignis mit dem Marketo ON24-Adapter (#create-an-event-with-the-marketo-on24-adapter)
+            + Erstellen Sie ein Ereignis mit dem Marketo ON24-Adapter {#create-an-event-with-the-marketo-on24-adapter}
                + [Erstellen eines Ereignisses mit dem Marketo ON24-Adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Konfigurieren von Ereigniseinstellungen und Synchronisieren von Marketo mit Ihrem Webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Erstellen eines Ereignisses in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
