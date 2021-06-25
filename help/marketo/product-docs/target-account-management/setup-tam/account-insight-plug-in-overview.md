@@ -1,37 +1,38 @@
 ---
 unique-page-id: 12979282
-description: Übersicht über das Konto Insight-Plug-in - Marketing Docs - Produktdokumentation
-title: Übersicht über das Kontoinsight-Plug-in
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Übersicht über das Konto-Insight-Plug-in - Marketo-Dokumente - Produktdokumentation
+title: Übersicht über das Konto-Insight-Plug-in
+exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
+source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
+# Übersicht über das Konto-Insight-Plug-in {#account-insight-plug-in-overview}
 
-# Übersicht über das Konto-Insight-Plugin {#account-insight-plug-in-overview}
-
-Account Insight ist ein Chrome-Plug-in, das Ihren Vertriebsteams umsetzbare TAM- und Kontoeinblicke überträgt und ihnen so eine effektivere Interaktion mit Konten ermöglicht.
+Account Insight ist ein Chrome-Plug-in, das umsetzbare TAM-Daten und Kontoeinblicke für Ihre Verkaufsteams anzeigt, sodass diese Kunden effektiver mit Konten interagieren können.
 
 >[!AVAILABILITY]
 >
->Account Insight ist für alle Kunden mit TAM und Marketing Sales Insight enthalten. Für Kunden, die nur über TAM verfügen, ist Account Insight als erworbenes Add-on verfügbar. Jeder Kunde ist auf 250 Account Insight-Lizenzen beschränkt. Für weitere Informationen wenden Sie sich bitte an Ihren Vertriebspartner. Es steht Kunden ohne TAM nicht zur Verfügung.
+>Account Insight ist für alle Kunden mit TAM und Marketo Sales Insight enthalten. Für Kunden, die nur über TAM verfügen, ist Account Insight als erworbenes Add-on verfügbar. Jeder Kunde ist auf 250 Konto Insight-Plätze beschränkt. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter. Es ist nicht für Kunden verfügbar, die nicht über TAM verfügen.
 
 >[!CAUTION]
 >
->Das Kontoinsight-Plugin funktioniert nicht in Abonnements, in denen [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-On) aktiviert ist.
+>Das Account Insight-Plug-in funktioniert nicht bei Abonnements, bei denen [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-on) aktiviert ist.
+
+>[!CAUTION]
 >
->CRM-Kontext funktioniert für Salesforce, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. CRM-Kontext funktioniert nicht für Dynamics, wenn das Plug-in von einem Konto, Lead oder Kontakt gestartet wird. Für Dynamics-Benutzer empfehlen wir die Verwendung des Plugins Account Insight.
+>Der CRM-Kontext funktioniert für Salesforce, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. Der CRM-Kontext funktioniert für Dynamics nicht, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. Für Dynamics-Benutzer wird die Verwendung des Kontoeinblick-Plug-ins empfohlen.
 
-## Benannte Konten {#named-accounts}
+## Bekannte Kunden {#named-accounts}
 
-Siehe Benannte Konten in der Reihenfolge ihres Ranges untereinander. Diese Liste steht nur Kontoinhabern zur Verfügung. Die Kundenbetreuung steht in Kürze zur Verfügung.
+Sehen Sie die benannten Konten in der Reihenfolge ihres Rangs untereinander. Diese Liste steht nur Kontoinhabern zur Verfügung. Der Support für das Account-Team wird in Kürze verfügbar sein.
 
 ![](assets/na1.png)
 
-Um Details zu einem benannten Konto anzuzeigen, klicken Sie auf dessen Namen...
+Um Details zu einem benannten Konto anzuzeigen, klicken Sie auf seinen Namen ...
 
 ![](assets/na3.png)
 
@@ -39,46 +40,46 @@ Um Details zu einem benannten Konto anzuzeigen, klicken Sie auf dessen Namen...
 
 ![](assets/na4.png)
 
-Sehen Sie sich interessante Momente mithilfe der Dropdownliste an.
+Sehen Sie interessante Momente mithilfe der Dropdown-Liste.
 
 ![](assets/na5.png)
 
-Blättern Sie nach unten, um die besten Wetten zu sehen. Interessante Momente sind auch hier, zusammen mit engagierten Menschen.
+Scrollen Sie nach unten, um die besten Wetten zu sehen. Interessante Momente sind auch hier, zusammen mit engagierten Leuten.
 
 ![](assets/na6.png)
 
-Klicken Sie auf den Namen einer Person...
+Klicken Sie auf den Namen einer Person ...
 
 ![](assets/na7.png)
 
-...und ihre Aktivität.
+...und deren Aktivität anzeigen.
 
 ![](assets/na8.png)
 
-Sie können auch die Ansicht von Interaktion zu Pipeline wechseln.
+Sie können die Ansicht auch von Interaktion zu Pipeline wechseln.
 
 ![](assets/na9.png)
 
-Klicken Sie auf das X oben rechts, um das benannte Konto zu verlassen.
+Um das angegebene Konto zu verlassen, klicken Sie auf das X oben rechts.
 
 ![](assets/na10.png)
 
-## Aktivität Feed {#activity-feed}
+## Aktivitäts-Feed {#activity-feed}
 
-Der Feed &quot;Aktivität&quot;zeigt die letzte Aktivität an, die sieben Tage zurückgeht.
+Der Aktivitäts-Feed zeigt die letzten Aktivitäten an, die sieben Tage zurückgehen.
 
 ![](assets/af1.png)
 
-Klicken Sie auf die Dropdownliste **Filter**, um nach verschiedenen Aktivitäten zu filtern.
+Klicken Sie auf die Dropdown-Liste **Filter** , um nach verschiedenen Aktivitätstypen zu filtern.
 
 ![](assets/af2.png)
 
-Auf mehrere Elemente kann geklickt werden. Klicken Sie auf das benannte Konto, um dessen Details anzuzeigen. Klicken Sie auf den Namen des Benutzers, um dessen Aktivität anzuzeigen. Klicken Sie auf Mehr Aktivitäten, um weitere Aktivitäten anzuzeigen.
+Mehrere Elemente können angeklickt werden. Klicken Sie auf das spezifische Konto, um dessen Details anzuzeigen. Klicken Sie auf den Namen des Benutzers, um dessen Aktivität anzuzeigen. Klicken Sie auf Mehr Aktivitäten , um weitere Aktivitäten anzuzeigen.
 
 ![](assets/af3.png)
 
 Ziemlich cooles Zeug!
 
 >[!MORELIKETHIS]
+[Kontoeinblick einrichten](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
->[Kontoinsight einrichten](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
