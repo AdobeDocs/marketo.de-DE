@@ -1,76 +1,72 @@
 ---
 unique-page-id: 17728023
-description: Erstellen eines Ereignisses mit Zoom - Marketing Docs - Produktdokumentation
-title: Ereignis mit Zoom erstellen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Erstellen eines Ereignisses mit Zoom - Marketo Docs - Produktdokumentation
+title: Erstellen eines Ereignisses mit Zoom
+exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
+source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
 
 ---
 
-
-# Ereignis mit Zoom {#create-an-event-with-zoom} erstellen
+# Erstellen eines Ereignisses mit Zoom {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [hinzufügen Zoom als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
->* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stellen Sie die entsprechenden [Flussaktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)ein, um Interaktionen zu verfolgen.
+>* [Hinzufügen von Zoom als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+* [Neues Ereignisprogramm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* Legen Sie die entsprechenden [Fluss-Aktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)fest, um die Interaktion zu verfolgen.
 
 
-Erstellen Sie zuerst Ihr Webinar im Zoom. Bestimmte Einstellungen bei der Erstellung des Zooms werden von Marker verwendet, andere werden nur von Zoom verwendet.
+Erstellen Sie zunächst Ihr Webinar im Zoom. Bestimmte Einstellungen bei der Erstellung Ihres Zooms werden von Marketo verwendet, andere nur beim Zoomen.
 
-Nachdem Sie ein Marketo-Ereignis erstellt und ein Zoom-Webinar mit ihm verknüpft haben, können die Systeme Registrierungs- und Anwesenheitsinformationen gemeinsam nutzen. Hilfe zum Erstellen eines Webinars finden Sie unter [Erste Schritte mit Zoom-Webinaren](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
+Nachdem Sie ein Marketo-Ereignis erstellt und ein Zoom-Webinar damit verknüpft haben, können die Systeme Registrierungs- und Anwesenheitsinformationen freigeben. Hilfe zum Erstellen eines Webinars finden Sie unter [Erste Schritte mit Zoom-Webinaren](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
-Geben Sie die folgenden Informationen für Ihr Webinar ein und es wird über den Adapter nach Marketo gezogen. Wenn Sie Änderungen an diesen Informationen vornehmen, müssen Sie auf den Link &quot;Aktualisieren von Webinar-Provider&quot;unter &quot;Ereignis-Aktionen&quot;klicken, damit Marketo die Änderungen sehen kann.
+Geben Sie die folgenden Informationen für Ihr Webinar ein, das über den Adapter nach Marketo gezogen wird. Wenn Sie Änderungen an diesen Informationen vornehmen, müssen Sie unter &quot;Ereignisaktionen&quot;auf den Link &quot;Von Webinar-Anbieter aktualisieren&quot;klicken, damit Marketo die Änderungen sieht.
 
 **Titel und Beschreibung**
 
-* **Webinarname**  - Geben Sie den Namen für das Webinar ein. Dieser Name wird in Marketo angezeigt.
+* **Webinarname**  - Geben Sie den Namen für das Webinar ein. Dieser Name ist in Marketo sichtbar.
 
-* **Beschreibung**  (optional) - Geben Sie die Beschreibung für das Webinar ein. Die Beschreibung ist in Marketo sichtbar.
+* **Beschreibung**  (optional) - Geben Sie die Beschreibung für das Webinar ein. Die Beschreibung wird in Marketo angezeigt.
 
-**Datum und Uhrzeit**
+**Datum &amp; Uhrzeit**
 
-* **Datum**  des Beginns - Geben Sie das Datum Ihres Beginns ein. Dies wird in Marketo sichtbar sein.
+* **Startdatum**  - Geben Sie Ihr Startdatum ein. Dies ist in Marketo sichtbar.
 
-* **Beginn**  - Geben Sie die Uhrzeit Ihres Beginns ein. Dies wird in Marketo sichtbar sein.
+* **Startzeit**  - Geben Sie Ihre Startzeit ein. Dies ist in Marketo sichtbar.
 
-* **Dauer**  - Geben Sie die Dauer ein. Die Beginn- und Endzeit sind in Marketo sichtbar.
+* **Dauer**  - Geben Sie die Dauer ein. Die Start- und Endzeit sind in Marketo sichtbar.
 
-* **Zeitzone** : Wählen Sie die gewünschte Zeitzone aus. Dies wird in Marketo sichtbar sein.
+* **Zeitzone**  - Wählen Sie die gewünschte Zeitzone aus. Dies ist in Marketo sichtbar.
 
-* **Wiederkehrendes Webinar** - Nicht aktivieren.
+* **Wiederkehrendes Webinar** - Lassen Sie es deaktiviert.
 
-* **Registrierung**  - Aktivieren Sie dieses Kontrollkästchen, um die Registrierung erforderlich zu machen. Sie können mit einem &quot;Markieren&quot;-Formular/einer &quot;Landingpage&quot;Registrierungsinformationen erfassen, die zum Zoomen weitergeleitet werden.
+* **Registrierung**  - Aktivieren Sie dieses Kontrollkästchen, um die Registrierung erforderlich zu machen. Sie verwenden ein Marketo-Formular/eine Landingpage, um Registrierungsinformationen zu erfassen, die in den Zoom gepusht werden.
 
 >[!NOTE]
->
->Marketo unterstützt derzeit keine wiederkehrenden Webinare. Sie müssen für jedes Marketing-Ereignis und jedes Zoom-Webinar eine Sitzung einrichten.
+Marketo unterstützt derzeit keine wiederkehrenden Webinare. Sie müssen für jedes Marketo Event- und Zoom-Webinar eine einzelne Sitzung einrichten.
 
 ![](assets/overview2.png)
 
 >[!TIP]
->
->Es gibt weitere Felder, die Sie im Zoom konfigurieren werden, die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern finden Sie im [Zoom-Webinar-Hilfe-Center](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar).
+Es gibt zusätzliche Felder, die Sie im Zoom konfigurieren werden, die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern finden Sie im [Zoom Webinar Help Center](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) .
 
-Springen wir jetzt nach Marketo!
+Jetzt springen wir in Marketo!
 
-1. Wählen Sie ein Ereignis aus. Klicken Sie auf **Ereignis Actions** und wählen Sie **Ereignis Settings**.
+1. Wählen Sie ein Ereignis aus. Klicken Sie auf **Ereignisaktionen** und wählen Sie **Ereigniseinstellungen**.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
    >[!NOTE]
-   >
-   >Der Kanal des ausgewählten Ereignisses muss **webinar** lauten.
+   Der Kanaltyp des ausgewählten Ereignisses muss **Webinar** sein.
 
-1. Wählen Sie **Zoom** aus der Liste **Ereignis** **Partner**.
+1. Wählen Sie **Zoom** aus der Liste **Ereignis** **Partner** .
 
    ![](assets/eventsettings1.png)
 
-1. Wählen Sie das Zoomkonto aus, mit dem Sie Ihr Ereignis verknüpfen möchten.
+1. Wählen Sie das Zoom-Konto aus, mit dem Sie Ihr Ereignis verknüpfen möchten.
 
    ![](assets/selectaccount.png)
 
@@ -78,30 +74,25 @@ Springen wir jetzt nach Marketo!
 
    ![](assets/selectevent.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **Save**.
 
    ![](assets/eventsettingssave.png)
 
    Ausgezeichnet! Jetzt wird das Ereignis durch Zoom synchronisiert und geplant.
 
    >[!NOTE]
-   >
-   >Die Felder, die von Marketo gesendet werden, sind: Vorname, Nachname, E-Mail-Adresse.
+   Die von Marketo gesendeten Felder sind: Vorname, Nachname, E-Mail-Adresse.
 
    >[!TIP]
-   >
-   >Um Ihre Bestätigungs-E-Mail mit dieser eindeutigen URL zu füllen, verwenden Sie das folgende Token in Ihrer E-Mail: `{{member.webinar url}}`. Wenn die Bestätigungs-URL gesendet wird, wird dieses Token automatisch zur eindeutigen Bestätigungs-URL der Person aufgelöst.
-   >
-   >Stellen Sie Ihre Bestätigungs-E-Mail auf **Operational** ein, um sicherzustellen, dass Personen, die sich registrieren und abgemeldet werden können, weiterhin ihre Bestätigungsinformationen erhalten.
+   Um Ihre Bestätigungs-E-Mail mit dieser eindeutigen URL zu füllen, verwenden Sie das folgende Token in Ihrer E-Mail: `{{member.webinar url}}`. Wenn die Bestätigungs-URL gesendet wird, wird dieses Token automatisch in die eindeutige Bestätigungs-URL der Person aufgelöst.
+   Stellen Sie Ihre Bestätigungs-E-Mail auf **Operativ** ein, um sicherzustellen, dass Personen, die sich registrieren und abmelden können, weiterhin ihre Bestätigungsinformationen erhalten.
 
-   Personen, die sich für Ihr Webinar anmelden, werden über den Textfluss **Ändern des Programm-Status** an Ihren Webinar-Provider weitergeleitet, wenn der neue Status auf &quot;Registriert&quot;eingestellt ist. Kein anderer Status wird die Person übertreiben. Stellen Sie außerdem sicher, dass **Change Programm Status** den Flusstest #1 und **Send Email** den Flusstest #2 durchlaufen.
+   Personen, die sich für Ihr Webinar anmelden, werden über den Flow-Schritt **Programmstatus ändern** an Ihren Webinar-Provider gepusht, wenn der neue Status auf &quot;Registriert&quot;gesetzt ist. Kein anderer Status wird die Person überstürzen. Stellen Sie außerdem sicher, dass der Workflow Schritt 1 **Programmstatus ändern** und der Workflow Schritt 2 **E-Mail senden** ausgeführt wird.
 
    ![](assets/goto-webinar-1.png)
 
    >[!CAUTION]
-   >
-   >Vermeiden Sie die Verwendung verschachtelter E-Mail-Programm zum Versenden Ihrer Bestätigungs-E-Mails. Verwenden Sie stattdessen die intelligente Kampagne des Ereignis Programms, wie oben gezeigt.
+   Vermeiden Sie den Versand von Bestätigungs-E-Mails durch verschachtelte E-Mail-Programme. Verwenden Sie stattdessen die Smart-Kampagne des Ereignisprogramms, wie oben dargestellt.
 
    >[!TIP]
-   >
-   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach dem Warten immer noch nichts sehen, wählen Sie **Von Webinar-Provider aktualisieren** im Menü &quot;Ereignis-Aktionen&quot;auf der Registerkarte **Zusammenfassung** aus.
+   Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **Von Webinar-Anbieter aktualisieren** aus dem Menü Ereignisaktionen auf der Registerkarte **Zusammenfassung** Ihres Ereignisses.
