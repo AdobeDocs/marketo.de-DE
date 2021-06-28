@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Produktdokumentation
 title: Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
-ht-degree: 5%
+source-wordcount: '824'
+ht-degree: 6%
 
 ---
 
@@ -24,9 +24,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
 ## Konfigurieren von Sales Insight in Marketo {#configure-sales-insight-in-marketo}
 
-1. Öffnen Sie ein neues Browserfenster, um die Marketo Sales Insight-Anmeldedaten von Ihrem Marketo-Konto abzurufen.
-
-1. Gehen Sie zum Admin-Bereich und wählen Sie **Sales Insight** aus.
+1. Erhalten Sie Ihre MSI-Anmeldeinformationen in Marketo. Gehen Sie zum Admin-Bereich und wählen Sie **Sales Insight** aus.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 1. Es wird ein Bestätigungs-Popup angezeigt. Klicken Sie auf **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   Lassen Sie dieses Fenster geöffnet. Sie werden diese Informationen später in Salesforce benötigen.
 
 ## Sales Insight in Salesforce konfigurieren {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoRestAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre API-URL aus dem Bedienfeld REST-API-Konfiguration in Marketo ist. Klicken Sie auf **Save**. Sie haben jetzt Remote-Site-Einstellungen für die Rest-API erstellt.
-
-## Einrichten von Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Melden Sie sich bei Ihrer Marketo-Instanz an und klicken Sie auf **Admin**.
-
-   ![](assets/login-admin.png)
-
-1. Klicken Sie auf **Sales Insight**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. Klicken Sie auf **API-Konfiguration bearbeiten**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. Geben Sie einen **API-Geheimschlüssel** ein und klicken Sie auf **Speichern**.
-
-   >[!CAUTION]
-   Verwenden Sie kein kaufmännisches Und-Zeichen (&amp;) in Ihrem API-geheimen Schlüssel.
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   Lassen Sie dieses Fenster geöffnet. Sie werden diese Informationen später in Salesforce benötigen.
-
-1. Gehen Sie zurück zu Salesforce und klicken Sie auf **Setup**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. Suchen Sie nach &quot;Remote site&quot;und klicken Sie unter **Sicherheitskontrollen** auf **Remote Site Setting**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Klicken Sie auf **Neue Remote-Site**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Geben Sie **Remote Site Name** und **Remote Site URL** ein und klicken Sie dann auf **Speichern**.
-
-   ![](assets/remote-site.png)
+1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre API-URL aus dem Bedienfeld REST-API-Konfiguration in Marketo ist. Klicken Sie auf **Save**. Sie haben jetzt Remote-Site-Einstellungen für die Rest-API erstellt.
 
    >[!NOTE]
-   Sie wählen **Remote Site Name** (hier wird die MarketoAPI verwendet). Die **Remote-Site-URL** finden Sie im Feld Marketo-Host des Dialogfelds &quot;API-Konfiguration bearbeiten&quot;in Schritt 4.
+   __ Wählen Sie Ihren  **Remote-Site-Namen**  aus (hier wird die MarketoAPI verwendet). Die **Remote-Site-URL** finden Sie im Feld Marketo-Host des Dialogfelds &quot;API-Konfiguration bearbeiten&quot;in Schritt 3 im Abschnitt &quot;Configure Sales Insight in Marketo&quot;.
 
 ## Seitenlayouts anpassen {#customize-page-layouts}
 
