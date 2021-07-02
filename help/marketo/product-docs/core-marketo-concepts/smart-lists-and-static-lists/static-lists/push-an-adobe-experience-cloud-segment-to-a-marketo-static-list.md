@@ -2,9 +2,9 @@
 description: Senden eines Adobe Experience Cloud-Segments an eine statische Marketo-Liste - Marketo-Dokumente - Produktdokumentation
 title: Adobe Experience Cloud-Segment in eine statische Marketo-Liste pushen
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. Wählen Sie das entsprechende Feld aus, das die E-Mail-Adresse enthält, die den Benutzer identifiziert. Klicken Sie abschließend auf **Wählen Sie** aus.
+1. Wählen Sie entweder die Optionsschaltfläche **Attribute** oder **Identitäts-Namespace** auswählen (in diesem Beispiel wählen wir Attribute aus).
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >Wenn Sie **Identity Namespace** auswählen, fahren Sie nach der Auswahl mit Schritt 15 fort.
+
+1. Wählen Sie das entsprechende Feld aus, das die E-Mail-Adresse enthält, die den Benutzer identifiziert. Klicken Sie abschließend auf **Wählen Sie** aus.
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
 1. Klicken Sie auf das Zuordnungssymbol.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. Wählen Sie Ihr Zielfeld aus und klicken Sie auf **Wählen Sie**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. Klicken Sie auf **Next**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _Erstellen Sie in Marketo_ eine statische Liste oder suchen und wählen Sie eine bereits erstellte Liste aus. Kopieren Sie die Zuordnungs-ID vom Ende der URL.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
 1. Geben Sie in Adobe Experience Platform die soeben kopierte ID ein. Wählen Sie Ihr Startdatum aus. Die Personen werden bis zum ausgewählten Enddatum kontinuierlich synchronisiert. Lassen Sie das Enddatum für eine unbegrenzte Synchronisierung leer. Klicken Sie abschließend auf **Weiter** .
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. Bestätigen Sie Ihre Änderungen und klicken Sie auf **Beenden**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
