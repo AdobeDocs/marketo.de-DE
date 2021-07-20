@@ -1,7 +1,7 @@
 ---
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
 workflow-type: tm+mt
 source-wordcount: '1064'
 ht-degree: 0%
@@ -76,7 +76,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Neues Journey-Dashboard** für Kohortenwasserfälle: Auf diese Weise können Marketing-Experten den Fortschritt einer ausgewählten Kohorte anhand eines klassischen &quot;Demand-Wasserfall&quot;-Sets aus Phasen anzeigen, um ein schnelles Verständnis der Konversionsraten und der impliziten Staging-Konversionskausalität auf einer Staging-Ebene zu ermöglichen.
 
 ## Bizible-Integration mit Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
- 
+
 Dieser Abschnitt enthält neue Funktionen für Bizible-Benutzer, die die Migration des Identity Management-Systems (IMS) für die Adobe abgeschlossen haben. Wenn Sie migriert wurden, finden Sie Ihre neue Adobe ID in den Bizible-Einstellungen auf der Registerkarte Adobe ID . Alle Konten sollten bis Ende 2021 migriert werden.
 
 * **Bizible-Integration mit Adobe Privacy Service**: Durch die Integration von Bizible mit dem Adobe Privacy Service wird die Einhaltung wichtiger Datenschutzbestimmungen (wie DSGVO) in allen Adobe Experience Cloud-Applikationen zentralisiert. Sie können diesen Dienst jetzt nutzen und alle Datenschutzanfragen zentral verwalten, sodass sich Änderungsanfragen, die in Bizible und andere Adobe-Produkte eingehen, in allen Anwendungen widerspiegeln.
