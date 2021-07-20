@@ -3,14 +3,14 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 05a174096a6ecab0791799db0af9291e1aa61c08
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 4%
 
 ---
 
-# Release Schedule {#release-schedule}
+# Versionsplanung {#release-schedule}
 
 **Version**: Marketo verwendet einen vierteljährlichen Hauptversionsplan. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verknüpft.
 
@@ -48,7 +48,7 @@ _Die Veröffentlichungsdaten können sich ändern_
   </tr> 
   <tr> 
    <td colspan="1">August '21</td> 
-   <td colspan="1">13. August 2021</td> 
+   <td colspan="1">20. August 2021</td> 
    <td colspan="1">in progress</td> 
   </tr> 
   <tr> 
