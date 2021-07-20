@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
-source-wordcount: '8043'
+source-wordcount: '8045'
 ht-degree: 5%
 
 ---
@@ -1681,6 +1681,7 @@ ht-degree: 5%
          + [Anzeigen von Webkampagnen über eine bestimmte Bezeichnung](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Versionshinweise {#release-notes}
    + [Versionsplanung](release-notes/release-schedule.md)
+   + [Aktuelle Version](release-notes/current.md)
    + 2021 {#2021}
       + [Versionshinweise: Jan. 21](release-notes/2021/release-notes-jan-21.md)
       + [Versionshinweise: Mai 21](release-notes/2021/release-notes-may-21.md)
