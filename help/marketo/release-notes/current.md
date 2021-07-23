@@ -1,9 +1,9 @@
 ---
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 Dieser Abschnitt enthält neue Funktionen für Bizible-Benutzer, die die Migration des Identity Management-Systems (IMS) für die Adobe abgeschlossen haben. Wenn Sie migriert wurden, finden Sie Ihre neue Adobe ID in den Bizible-Einstellungen auf der Registerkarte Adobe ID . Alle Konten sollten bis Ende 2021 migriert werden.
 
-* **Bizible-Integration mit Adobe Privacy Service**: Durch die Integration von Bizible mit dem Adobe Privacy Service wird die Einhaltung wichtiger Datenschutzbestimmungen (wie DSGVO) in allen Adobe Experience Cloud-Applikationen zentralisiert. Sie können diesen Dienst jetzt nutzen und alle Datenschutzanfragen zentral verwalten, sodass sich Änderungsanfragen, die in Bizible und andere Adobe-Produkte eingehen, in allen Anwendungen widerspiegeln.
+* **Bizible-Integration mit Adobe Privacy Service**  (verfügbar im September 2021): Durch die Integration von Bizible mit dem Adobe Privacy Service wird die Einhaltung wichtiger Datenschutzbestimmungen (wie DSGVO) in allen Adobe Experience Cloud-Applikationen zentralisiert. Sie können diesen Dienst jetzt nutzen und alle Datenschutzanfragen zentral verwalten, sodass sich Änderungsanfragen, die in Bizible und andere Adobe-Produkte eingehen, in allen Anwendungen widerspiegeln.
 
 * **Bizible für Adobe Unified Shell**: Durch die Übernahme von Adobe Unified Shell durch Bizible erhalten Anwender neue Funktionen, die in der Bizible-Anwendungs-Header-Leiste angezeigt werden. Dazu gehören ein besserer Zugriff auf Support-Ressourcen und Anwendungsumschaltung. Adobe Unified Shell hilft, ein konsistentes Erlebnis zwischen Bizible und anderen Adobe Experience Cloud-Anwendungen zu schaffen.
 
