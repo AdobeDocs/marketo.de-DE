@@ -1,22 +1,21 @@
 ---
-description: Übersicht - Marketo Docs - Produktdokumentation
+description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 8%
+source-wordcount: '492'
+ht-degree: 7%
 
 ---
 
 # Überblick {#overview}
 
-Willkommen bei der nächsten Generation von Marketo Engage, einer neuen Benutzeroberfläche, die eine verbesserte Benutzerfreundlichkeit und ein neues Erscheinungsbild auf der Marketo-Plattform bietet.
+Willkommen beim Marketo Engage der nächsten Generation, einer neuen Benutzeroberfläche, die eine verbesserte Benutzerfreundlichkeit sowie ein neues Erscheinungsbild auf der Marketo-Plattform bietet.
 
 >[!PREREQUISITES]
 >
->Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie die IT-Mitarbeiter, die folgenden Domänen (einschließlich des Sternchen) hinzuzufügen, damit alle Marketo-Ressourcen und -Websockets zugelassen werden:
+>Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, die folgenden Domänen hinzuzufügen (einschließlich des Sternchens), um alle Marketo-Ressourcen und -Websockets zuzulassen:
 >
 >* *.marketo.de
 >* *.marketodesigner.com
@@ -25,7 +24,7 @@ Willkommen bei der nächsten Generation von Marketo Engage, einer neuen Benutzer
 
 ## Nehmen Sie die Tour {#take-the-tour}
 
-Bei der ersten Anmeldung erscheint ein Popup, das Ihnen den Überblick über das neue Erlebnis geben kann. Nach dem Hochladen ist **nicht** später verfügbar, wenn Sie es überspringen.
+Bei der ersten Anmeldung erscheint ein Popup, das Ihnen die Beschreibung des neuen Erlebnisses liefert. Wenn Sie es überspringen möchten, wird es später **nicht** verfügbar sein.
 
 ![](assets/overview-1.png)
 
@@ -35,38 +34,42 @@ Die Tour führt Sie durch alles, was Sie wissen müssen!
 
 ## Neuigkeiten {#whats-new}
 
-Es gibt eine Menge neuer Funktionen in diesem Erlebnis der nächsten Generation, die alle darauf ausgelegt sind, Ihre Marketingerfahrung deutlich zu verbessern.
+In diesem Erlebnis der nächsten Generation gibt es eine Menge neuer Funktionen, die alle darauf ausgelegt sind, Ihr Marketing-Erlebnis deutlich zu verbessern.
 
 **Symbole**
 
-Die neue Benutzeroberfläche bietet verbesserte und erweiterte Ikonografie. Weitere Informationen finden Sie hier: [Neues Symbol Glossar](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+Die neue Benutzeroberfläche verfügt über eine verbesserte und erweiterte Ikonographie. Weitere Informationen dazu finden Sie hier: [Neues Symbol Glossar](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
 **Globale Navigation**
 
-Auf Wiedersehen Superball. Sie haben jetzt schnellen Zugriff auf alle wichtigen Marketo-Bereiche.
+Auf Wiedersehen Superball. Sie haben jetzt schnellen Zugriff auf alle Hauptabschnitte in Marketo.
 
 ![](assets/overview-5.png)
 
 **Instanz-URL**
 
-Sie haben auch schnellen Zugriff auf Ihre munchkin-ID, die jetzt in der URL Ihrer Instanz angezeigt wird (noch hilfreicher für Benutzer mit mehreren Abonnements).
+Sie haben auch schnellen Zugriff auf Ihre Munchkin-ID, die jetzt in der URL Ihrer Instanz angezeigt wird (was für Benutzer mit mehreren Abonnements noch hilfreicher ist).
 
 ![](assets/overview-6.png)
 
-## Neue Baumoptionen {#new-tree-options}
+## Neue Baum-Optionen {#new-tree-options}
 
 Es gibt eine Menge neuer Baumfunktionen.
 
-**Marketo Classic gegen das neue Marketo**
+>[!NOTE]
+>
+>Wenn Sie eine Suche im Baum durchführen, werden nur die ersten 250 Ergebnisse angezeigt. Wenn Sie nach einer Suche Ihr Asset nicht finden können, verwenden Sie die Funktion [Globale Suche](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
+
+**Marketo Classic und die neue Marketo**
 
 <table> 
  <tbody>
   <tr>
    <th>Funktion</th> 
-   <th>Klassisch</th> 
-   <th>Next-gen</th> 
+   <th>Classic</th> 
+   <th>Nächste Generation</th> 
   </tr>
   <tr>
    <td>Mehrere Filter gleichzeitig anwenden</td> 
@@ -74,22 +77,22 @@ Es gibt eine Menge neuer Baumfunktionen.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Node des Entwurfs- und Genehmigungsbaums</td> 
+   <td>Knoten des kombinierten Entwurfs- und Genehmigungsbaums</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Lokale Assets in Programm-Ordnern erstellen</td> 
+   <td>Erstellen lokaler Assets in Programmordnern</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Klicken Sie mit der Dublette, um die Strukturknoten zu erweitern/zu reduzieren</td> 
+   <td>Doppelklicken Sie auf das Erweitern/Reduzieren von Strukturknoten</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Drag &amp; Drop von einem Baum zum Einsatzstream</td> 
+   <td>Drag &amp; Drop aus dem Baum in den Interaktionsstream</td> 
    <td><strong>X</strong></td> 
    <td></td> 
   </tr>
@@ -100,11 +103,11 @@ Es gibt eine Menge neuer Baumfunktionen.
   </tr>
   <tr>
    <td>Nach Asset-Typ und Status filtern</td> 
-   <td><i>teilweise</i></td> 
+   <td><i>Teilpartien</i></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Hintergrund hervorheben, um die Hierarchie im Fokuszustand anzuzeigen</td> 
+   <td>Hintergrund markieren, um die Hierarchie im Fokusstatus anzuzeigen</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -119,17 +122,17 @@ Es gibt eine Menge neuer Baumfunktionen.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Status von Strukturknoten mit Mauszeiger</td> 
+   <td>Hover-Status von Strukturknoten</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>QuickReduzieren des gesamten Baumes</td> 
+   <td>Schnelleinblenden des gesamten Baums</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Schnelles Reduzieren auf Stamm-Node</td> 
+   <td>Schnelles Reduzieren auf Stammknoten</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -139,7 +142,7 @@ Es gibt eine Menge neuer Baumfunktionen.
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Restriktiver Baum</td> 
+   <td>Größenänderungsbaum</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -149,12 +152,12 @@ Es gibt eine Menge neuer Baumfunktionen.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Beim Eingeben der globalen Suche in die Baumsuche gespeicherte Suchzeichenfolge</td> 
+   <td>Suchzeichenfolge, die bei der Eingabe der globalen Suche in der Baumsuche gespeichert wurde</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Alle Arbeitsbereiche in einem einzigen Baum anzeigen</td> 
+   <td>Anzeigen aller Arbeitsbereiche in einem einzigen Baum</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -164,7 +167,7 @@ Es gibt eine Menge neuer Baumfunktionen.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>"Word-Beginn mit"Suchlogik</td> 
+   <td>Suchlogik "Word beginnt mit"</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -173,7 +176,7 @@ Es gibt eine Menge neuer Baumfunktionen.
 
 ## Global Nav {#global-nav}
 
-Sehen Sie sich die neue globale Nav an.
+Sehen Sie sich das neue globale Nav an.
 
 ![](assets/overview-7.png)
 
@@ -185,15 +188,15 @@ Sehen Sie sich die neue globale Nav an.
   </tr>
   <tr>
    <td>2</td> 
-   <td>Alle vorherigen, oben aufgelisteten Superball-Artikel</td> 
+   <td>Alle vorherigen aufgeführten Superball-Elemente</td> 
   </tr>
   <tr>
    <td>3</td> 
-   <td>Verwenden Sie diese Option, um Feedback zu Ihrem MEUE-Erlebnis zu erhalten</td> 
+   <td>Verwenden Sie dies, um Feedback zu Ihrem MEUE-Erlebnis zu geben.</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>Wenn Sie mehrere Abonnements haben, klicken Sie auf Ihren Unternamen, um einfach zu einem anderen zu wechseln</td> 
+   <td>Wenn Sie mehrere Abonnements haben, klicken Sie auf Ihren Unternamen, um einfach zu einem anderen zu wechseln.</td> 
   </tr>
   <tr>
    <td>5</td> 
@@ -204,10 +207,10 @@ Sehen Sie sich die neue globale Nav an.
 
 >[!NOTE]
 >
->Alles, was früher in der Superball-Dropdown-Liste lebte, ist noch als Kachel in Ihrem My Marketo verfügbar.
+>Alles, was früher in der Dropdown-Liste der Superball lebte, ist noch als Kachel in Ihrer My Marketo verfügbar.
 
 >[!TIP]
 >
->Die Verwendung der Suche in der Struktur führt nur zu Ergebnissen aus dem Bereich, in dem Sie sich befinden (z.B. Marketing-Aktivitäten). Wenn Sie die gesamte Instanz durchsuchen möchten, verwenden Sie die globale Suche.
+>Die Verwendung der Suche im Baum liefert nur Ergebnisse aus dem Bereich, in dem Sie sich befinden (z. B. Marketingaktivitäten). Wenn Sie Ihre gesamte Instanz durchsuchen möchten, verwenden Sie die globale Suche.
 
 Genießen Sie das neue Marketo Engage-Erlebnis und teilen Sie Ihr Feedback!
