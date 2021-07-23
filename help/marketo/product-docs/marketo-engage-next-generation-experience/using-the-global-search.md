@@ -1,64 +1,63 @@
 ---
-description: Verwenden der globalen Suche - Marketing Docs - Produktdokumentation
+description: Verwenden der globalen Suche - Marketo Docs - Produktdokumentation
 title: Verwenden der globalen Suche
-translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
 
-
 # Verwenden der globalen Suche {#using-the-global-search}
 
-Die leistungsstarke globale Suche bietet Ihnen viele Möglichkeiten. Lass uns über sie gehen.
+Die leistungsstarke globale Suche bietet Ihnen viele Optionen ohne Begrenzung der angezeigten Ergebnisse.
 
-## Automatische Vervollständigung der Ergebnisse {#autocomplete-results}
+## Automatische Vervollständigung von Ergebnissen {#autocomplete-results}
 
 Manchmal zeigt Ihnen die automatische Vervollständigung schnell, was Sie suchen.
 
-1. Klicken Sie im globalen Navigationsbereich auf **Suche**.
+1. Klicken Sie im globalen Navigationsmenü auf **Suche**.
 
    ![](assets/using-the-global-search-1.png)
 
-1. Geben Sie Text für Ihr Asset ein.
+1. Geben Sie Text zur Identifizierung für Ihr Asset ein.
 
    ![](assets/using-the-global-search-2.png)
 
-1. Die Suchergebnisse werden automatisch gefüllt. Sie können auf eine beliebige Stelle in einem der Breadcrumbs klicken, um direkt zu diesem Element zu gelangen.
+1. Automatische Vervollständigung der Suchergebnisse wird angezeigt. Sie können auf eine beliebige Stelle in einem der Breadcrumbs klicken, um direkt zu diesem Element geleitet zu werden.
 
    ![](assets/using-the-global-search-3.png)
 
-1. In diesem Beispiel werden wir direkt zu der Liste geführt, nach der wir suchen. Klicken Sie auf den Namen der Liste.
+1. In diesem Beispiel möchten wir direkt zu der Liste geführt werden, nach der wir suchen. Klicken Sie auf den Namen der Liste.
 
    ![](assets/using-the-global-search-4.png)
 
-Sie werden direkt zur gewünschten Liste gebracht.
+Sie werden direkt zur gewünschten Liste geführt.
 
 ![](assets/using-the-global-search-5.png)
 
 ## Globale Suchergebnisse {#global-search-results}
 
-Verwenden Sie die vollständige Suche, wenn die Ergebnisse der automatischen Vervollständigung nicht zeigen, was Sie suchen.
+Verwenden Sie die vollständige Suche, wenn die Ergebnisse der automatischen Vervollständigung nicht zeigen, wonach Sie suchen.
 
-1. Klicken Sie im globalen Navigationsbereich auf **Suche**.
+1. Klicken Sie im globalen Navigationsmenü auf **Suche**.
 
    ![](assets/using-the-global-search-6.png)
 
-1. Geben Sie Text für Ihr Asset ein und klicken Sie auf **Suche**.
+1. Geben Sie Text zur Identifizierung für Ihr Asset ein und klicken Sie auf **Suchen**.
 
    ![](assets/using-the-global-search-7.png)
 
-1. Die Seite &quot;Globale Suchergebnisse&quot;wird geöffnet.
+1. Die Seite Globale Suchergebnisse wird geöffnet.
 
    ![](assets/using-the-global-search-8.png)
 
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
-   <td>Zuerst (oder nur) Seite mit allen Suchergebnissen klicken Sie an eine beliebige Stelle in einem der Breadcrumbs, um direkt zu diesem Bereich zu diesem Bereich geführt werden</td> 
+   <td>1</td> 
+   <td>Klicken Sie zuerst (oder nur) auf einer Seite aller Suchergebnisse auf eine beliebige Stelle in einem der Breadcrumbs, um direkt zu diesem Bereich zu gelangen.</td> 
   </tr>
   <tr>
    <td>2</td> 
@@ -66,23 +65,23 @@ Verwenden Sie die vollständige Suche, wenn die Ergebnisse der automatischen Ver
   </tr>
   <tr>
    <td>3</td> 
-   <td>Wählen Sie einen bestimmten Hauptmarketo-Abschnitt aus, der durchsucht werden soll, oder suchen Sie alle gleichzeitig</td> 
+   <td>Wählen Sie einen bestimmten Marketo-Hauptabschnitt aus, der durchsucht werden soll, oder suchen Sie alle gleichzeitig</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>Implementierung von fokussierten Filtern zur Eingrenzung der Suchergebnisse</td> 
+   <td>Implementieren fokussierter Filter zur Eingrenzung der Suchergebnisse</td> 
   </tr>
  </tbody>
 </table>
 
-OPTIONALER SCHRITT: Um die Filterung zu verwenden, wählen Sie Ihre Optionen aus und klicken Sie auf **Apply**.
+OPTIONALER SCHRITT: Um die Filterung zu verwenden, wählen Sie Ihre Optionen aus und klicken Sie auf **Anwenden**.
 
 ![](assets/using-the-global-search-9.png)
 
-OPTIONALER SCHRITT: Um die Details eines Elements anzuzeigen, klicken Sie auf den &quot;Leerraum&quot;seiner Zeile.
+OPTIONALER SCHRITT: Um die Details eines Elements anzuzeigen, klicken Sie in den &quot;Leerraum&quot;seiner Zeile.
 
 ![](assets/using-the-global-search-10.png)
 
-OPTIONALER SCHRITT: Um direkt zum letzten Element in einem Breadcrumb zu gelangen, klicken Sie darauf, ODER, bewegen Sie den Mauszeiger über den &quot;Leerraum&quot; in der Zeile, bis das Symbol unten erscheint, und klicken Sie darauf.
+OPTIONALER SCHRITT: Um direkt zum letzten Element in einem Breadcrumb zu gelangen, klicken Sie darauf ODER bewegen Sie den Mauszeiger über den Leerraum in der Zeile, bis das Symbol unten angezeigt wird, und klicken Sie darauf.
 
 ![](assets/using-the-global-search-11.png)
