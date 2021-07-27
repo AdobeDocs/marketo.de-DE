@@ -1,9 +1,9 @@
 ---
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Die folgenden Funktionen sind in der Version vom 21. August enthalten. Überprü
 Die folgenden Funktionen werden am **20. August 2021** veröffentlicht.
 
 ## Adobe Experience Platform-Integration {#adobe-experience-platform-integration}
-
-* **Nativer Adobe Experience Platform Connector für die Freigabe von Zielgruppen für Marketo Engage**: Aktivieren Sie die kanalübergreifende Kampagnenorchestrierung in Marketo Engage für Zielgruppensegmente, die in Adobe Experience Cloud über den nativen Ziel-Connector erstellt wurden. Der Connector verwendet E-Mail-Adressen, um Adobe Experience Platform-Profile mit Marketo Engage-Lead-Profilen abzugleichen, was zu einer sehr präzisen Segmentfreigabe zwischen Anwendungen führt. Statische Marketo Engage-Listen werden automatisch erstellt und ermöglichen es Marketing-Experten, Zielgruppen mit hochpersonalisiertem Messaging zu erreichen oder Workflows zu initiieren. Aktivieren Sie Zielgruppen, indem Sie ihren Konto- und Opportunity-Kontext sowie vollständigere und Echtzeit-Daten in Experience Platform nutzen.
 
 * **Marketo Engage-Benutzerauthentifizierung über Adobe Identity**: Ab September 2021 werden neue Marketo Engage-Benutzer mit Enterprise-Paketen mit Adobe ID-Benutzeranmeldeinformationen integriert. Die Migration der aktuellen Benutzer zum integrierten Identitätssystem erfolgt erst Mitte 2022 und es sind keine Maßnahmen erforderlich, bis weitere Informationen verfügbar sind. Die Authentifizierung von Identitätsbenutzern ermöglicht es IT-/Sicherheitsadministratoren, mehrere Marketo Engage-Produktinstanzen zusammen mit anderen Experience Cloud-Lösungen zu verwalten und SSO über eine gemeinsame Konsole zu konfigurieren. Administratoren können Benutzergruppen und Benutzerberechtigungen bequem an einem Ort verwalten.
 
