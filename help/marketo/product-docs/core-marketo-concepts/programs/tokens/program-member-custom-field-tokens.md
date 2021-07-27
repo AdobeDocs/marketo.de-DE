@@ -1,36 +1,35 @@
 ---
 unique-page-id: 1147114
-description: Benutzerspezifische FeldToken für Programm-Mitglieder - Marketo Docs - Produktdokumentation
-title: Benutzerdefinierte FeldToken für Programm-Member
+description: Benutzerdefinierte Feld-Token für Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
+title: Benutzerdefinierte Feld-Token für Programmteilnehmer
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---
 
-# Benutzerdefinierte FeldToken für Programm-Member {#program-member-custom-field-tokens}
+# Benutzerdefinierte Feld-Token für Programmteilnehmer {#program-member-custom-field-tokens}
 
-## Token-Unterstützung für benutzerdefinierte Programm-Felder {#token-support-for-program-member-custom-fields}
+## Token-Unterstützung für benutzerdefinierte Felder für Programmmitglieder {#token-support-for-program-member-custom-fields}
 
-Auf der Rückseite der Programm Member Custom Fields-Funktionen wird die Unterstützung für benutzerdefinierte Felder von Programmen in Token-Frameworks erweitert.
+Auf der Rückseite der Funktionen für benutzerdefinierte Felder des Programmmitglieds wird die Unterstützung für benutzerdefinierte Felder des Programmmitglieds in Token-Frameworks erweitert.
 
 Die PMCF-Token werden unter der Mitgliederdomäne der Token-Familie unterstützt.
 
-Member Tokens werden für Felder im Rahmen des Programm Member verwendet. Ab dem aktuellen Status werden Member Tokens auch verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. `{{member.webinar url}}` -Token löst automatisch die vom Dienstleister generierte eindeutige Bestätigungs-URL der Person auf. {{member.registration code}} wird zum Registrierungscode aufgelöst, der vom Dienstleister bereitgestellt wird.
+Mitglieder-Token werden für Felder verwendet, die unter den Geltungsbereich des Programmmitglieds fallen. Ab dem aktuellen Status werden Member Tokens auch verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. `{{member.webinar url}}` -Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde. {{member.registration code}} wird in den vom Dienstleister bereitgestellten Registrierungs-Code aufgelöst.
 
 >[!NOTE]
 >
->* Benutzerdefinierte Programm-Member-Felder können nur im Kontext eines Programms verwendet werden.
->* Token für benutzerdefinierte Programm-Member-Felder können nicht verwendet werden in: E-Mail-Skripten, E-Mail-Kopfzeile, Datums-Token in Warteschritten oder Snippets.
->* Programm Member Status wird in Member Tokens nicht unterstützt.
+>* Benutzerdefinierte Felder für Programmmitglieder können nur im Kontext eines Programms verwendet werden.
+>* Benutzerdefinierte Felder für Programmmitglieder können nicht in folgenden Bereichen verwendet werden: E-Mail-Preheader, Datum-Token in Warteschritten oder Snippets.
+>* Der Status der Programmteilnehmer wird in den Mitglieds-Token nicht unterstützt.
 
 
-## Verwenden von Programm Member Custom Field Tokens in Assets {#using-program-member-custom-field-tokens-in-assets}
+## Verwenden von benutzerdefinierten Feld-Token für Programmteilnehmer in Assets {#using-program-member-custom-field-tokens-in-assets}
 
-Sie können Token für benutzerdefinierte Programm-Felder in E-Mails, Landingpages, SMS, Push-Benachrichtigungen und Webhooks einfügen.
+Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mails, Landingpages, SMS, Push-Benachrichtigungen und Webhooks einfügen.
 
 **E-Mails**
 
@@ -38,21 +37,21 @@ Sie können Token für benutzerdefinierte Programm-Felder in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
-1. Klicken Sie auf das Symbol &quot;Token einfügen&quot;.
+1. Klicken Sie auf das Symbol Token einfügen .
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Suchen und wählen Sie das gewünschte Programm-Member-Token für benutzerdefinierte Felder aus, geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
+1. Suchen und wählen Sie das gewünschte Programmmitglied-Benutzerdefiniertes Feld-Token aus, geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **Save**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
 >[!NOTE]
 >
->Vergessen Sie nicht, Ihre E-Mail zu genehmigen.
+>Vergessen Sie nicht, Ihre E-Mail zu validieren.
 
 **Landing Pages**
 
@@ -62,13 +61,13 @@ Sie können Token für benutzerdefinierte Programm-Felder in E-Mails, Landingpag
 
    >[!NOTE]
    >
-   >Der Landingpages-Designer wird in einem neuen Fenster geöffnet.
+   >Der Landingpage-Designer wird in einem neuen Fenster geöffnet.
 
-1. Klicken Sie bei gedrückter Dublette auf das Rich-Textfeld, dem Sie das Token hinzufügen möchten.
+1. Doppelklicken Sie auf das Rich-Text-Feld, dem Sie das Token hinzufügen möchten.
 
    ![](assets/program-member-custom-field-tokens-6.png)
 
-1. Klicken Sie auf die Stelle, an der das Token eingefügt werden soll, und klicken Sie dann auf das Symbol Token einfügen.
+1. Klicken Sie auf die Stelle, an der das Token platziert werden soll, und klicken Sie dann auf das Symbol Token einfügen .
 
    ![](assets/program-member-custom-field-tokens-7.png)
 
@@ -80,7 +79,7 @@ Sie können Token für benutzerdefinierte Programm-Felder in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **Save**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -90,15 +89,15 @@ Sie können Token für benutzerdefinierte Programm-Felder in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Klicken Sie auf die Schaltfläche **`{{ Token`**.
+1. Klicken Sie auf die Schaltfläche **`{{ Token`** .
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Suchen und wählen Sie das gewünschte Programm-Member-Token für benutzerdefinierte Felder aus. Geben Sie einen Standardwert ein und klicken Sie auf &quot;Einfügen&quot;.
+1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf &quot;Einfügen&quot;.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klicken Sie auf die Dropdownliste SMS-Aktionen und wählen Sie **Genehmigen und Schließen**.
+1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **Genehmigen und schließen** aus.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -112,28 +111,28 @@ Sie können Token für benutzerdefinierte Programm-Felder in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Klicken Sie auf die Nachricht im Editor und klicken Sie auf die Schaltfläche `{{`, um den Token-Selektor abzurufen.
+1. Klicken Sie auf die Nachricht im Editor und klicken Sie auf die Schaltfläche `{{` , um die Token-Auswahl abzurufen.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Suchen und wählen Sie das gewünschte Programm-Member-Token für benutzerdefinierte Felder aus. Geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
+1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicken Sie auf **Fertig stellen, um zu speichern und zu beenden (oder** Weiter **, um zuerst zu überprüfen).**
+1. Klicken Sie auf **Beenden**, um zu speichern und zu beenden (oder **Weiter**, um zuerst zu überprüfen).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
 >[!NOTE]
 >
->Wenn das Programm Member Custom Field für ein Member des Programms keinen Wert hat, wird das Token durch den Standardwert ersetzt, wenn dieser bereitgestellt wurde.
+>Wenn das benutzerdefinierte Feld &quot;Programmteilnehmer&quot;für ein Programmmitglied keinen Wert aufweist, wird das Token durch den Standardwert ersetzt, sofern er angegeben wurde.
 
-## Verwenden von Programm Member Custom Field Tokens in Kampagnen {#using-program-member-custom-field-tokens-in-campaigns}
+## Verwenden von benutzerdefinierten Feld-Token für Programmteilnehmer in Kampagnen {#using-program-member-custom-field-tokens-in-campaigns}
 
-Benutzerdefinierte FeldToken für Programm-Member können verwendet werden in:
+Benutzerdefinierte Feld-Token für Programmmitglieder können in folgenden Bereichen verwendet werden:
 
 * Aufgabe erstellen
-* Aufgabe in Microsoft erstellen
+* Aufgabe erstellen in Microsoft
 * Interessante Momente
-* Datenwertflussaktionen ändern
+* Fluss-Aktionen für Datenwerte ändern
 * Webhooks
