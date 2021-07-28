@@ -1,46 +1,73 @@
 ---
 unique-page-id: 11381156
-description: Interessentenabgleich - Marketing Docs - Produktdokumentation
-title: Interessenten-zu-Konto-Übereinstimmung
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Lead zur Kontoübereinstimmung - Marketo-Dokumente - Produktdokumentation
+title: Lead zur Kontoübereinstimmung
+exl-id: 676ae500-7691-492d-abec-0cac708216b7
+source-git-commit: 98388f1ed941b321449e6e8badac0153dc2245ba
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
 
+# Lead zur Kontoübereinstimmung {#lead-to-account-matching}
 
-# Interessenten zu Kontoübereinstimmung {#lead-to-account-matching}
-
-Die Übereinstimmungsrechte führen zu rechtsbenannten Konten mit der Abgleichung von &quot;Interessent zu Konto&quot;.
+Match right führt zu Konten mit rechtlichem Namen, die Marketo Lead-zu-Konto-Abgleich verwenden.
 
 >[!NOTE]
 >
->**Interessenten-zu-Konto-** Übereinstimmung ist eine integrierte Funktion der Marketing Zielgruppe-Kontoverwaltung. Es verwendet unscharfe Logik, um automatisch Interessenten zu den richtigen Konten in Echtzeit zuzuordnen. Diese benannten Konten können CRM-Konten oder Marketo-Firmen sein.
+>**Die** Übereinstimmung von Interessenten-zu-Konto ist eine integrierte Funktion der Marketo Target-Kontoverwaltung. Es verwendet unscharfe Logik, um Leads in nahezu Echtzeit automatisch mit den richtigen benannten Konten abzugleichen. Diese benannten Konten können CRM-Konten oder Marketo-Unternehmen sein.
 
-Die Suche nach einer Marketing-to-Account-Übereinstimmung erfolgt in vier Schritten:
+## Überblick {#overview}
 
-**Schritt 1 -** Unser Übereinstimmungsprozess beginnt mit der Verwendung wichtiger Informationen zu den Interessentendatensätzen, z. B.:
+Die Zuordnung von Marketo-Lead zu Konto erfolgt in vier Schritten:
+
+**1. Schritt -** Unser Zuordnungsprozess beginnt mit der Verwendung von Schlüsselinformationen zu den Lead-Datensätzen, z. B.:
 
 * E-Mail-Domäne (z. B. acme.com)
-* Vorgestellter Name der Firma aus IP-Adresse
-* Name der Firma - Dies könnte der CRM-Kontoname oder das Attribut des Namens der Interessenten-Firma sein (z. B. stammt aus dem Ausfüllen des Formulars)
+* Abgeleiteter Firmenname von der IP-Adresse
+* Firmenname - Dies kann der CRM-Kontoname oder das Attribut für den Namen des Lead-Unternehmens sein (z. B. stammt aus dem Ausfüllen des Formulars)
 
-**Schritt 2 -** Wir normalisieren die Firmen, die wir auf Grundlage verschiedener Interessentenattribute finden (z.B. Acme Inc. und Acme Corp werden automatisch auf Acme normalisiert). Dieser Schritt stellt sicher, dass wir eine einzige Darstellung des benannten Kontos in Marketo haben und alle Interessenten in einem einzigen benannten Konto sehen können.
+**Schritt 2 -** Wir normalisieren die Unternehmensnamen, die wir anhand verschiedener Lead-Attribute finden (z. B. werden Acme Inc. und Acme Corp automatisch in Acme normalisiert). Dieser Schritt stellt sicher, dass wir über eine einzige Darstellung des benannten Kontos in Marketo verfügen und alle Leads in einem einzigen benannten Konto sehen können.
 
-**Schritt 3 -** Wir partitionieren übereinstimmende Interessenten in 2 Behälter: Starke Übereinstimmung und schwache Übereinstimmung.
+**Schritt 3:** Wir teilen übereinstimmende Leads in zwei Buckets auf: Starke Übereinstimmung und schwache Übereinstimmung.
 
-* Auf den benannten Konten werden weniger übereinstimmende Interessenten angezeigt, die dann manuell behoben werden können.
+* Auf den benannten Konten werden weniger übereinstimmende Leads angezeigt, die dann manuell aufgelöst werden können.
 
-**Schritt 4 -** Wir stellen eine Liste der vorgeschlagenen Firmen mit starken und schwachen Übereinstimmungen vor. Wenn ein benanntes Konto auf der Grundlage einer der vorgeschlagenen Firmen erstellt wird, erstellen wir Übereinstimmungsregeln, um automatisch neue Interessenten (z. B. Ausfüllen eines Formulars) zuzuordnen, die an die richtigen benannten Konten weitergeleitet werden. Auf diese Weise können Sie sich weniger um die Zuordnung von Interessenten und mehr um die Erzielung von Umsatz sorgen!
+**4. Schritt -** Wir stellen eine Liste der vorgeschlagenen Unternehmen mit starken und schwachen Übereinstimmungen vor. Wenn ein benanntes Konto basierend auf einem der vorgeschlagenen Unternehmen erstellt wird, erstellen wir Übereinstimmungsregeln, um automatisch neue Leads (z. B. Lead-Ausfüllen eines Formulars) zu verknüpfen, die an die richtigen benannten Konten weitergeleitet werden. Auf diese Weise können Sie sich weniger um übereinstimmende Leads und mehr um den Umsatz sorgen.
 
-Da Marketo Lead-to-Account-Abgleich eine integrierte Funktion des Kontomanagements von Marketo Zielgruppe ist, erfolgt die Abgleichung von Interessenten zu Konten in Echtzeit (z. B. wenn ein Interessent ein Marketo-Formular ausfüllt, verbinden wir diesen Interessenten mit dem richtig benannten Konto). Dieses Ereignis kann zum Trigger von Warnungen und zur Benachrichtigung der Kontoinhaber über die neuen Interessenten verwendet werden, die von ihren benannten Konten eingehen.
+Da der Marketo-Lead-zu-Konto-Abgleich eine integrierte Funktion der Marketo Target-Kontoverwaltung ist, führt der Abgleich fast in Echtzeit zu Konten (wenn z. B. ein Lead ein Marketo-Formular ausfüllt, wird Lead mit dem richtigen benannten Konto verknüpft). Mit diesem Ereignis können Warnhinweise Trigger und Kontoinhaber über die neuen Leads informiert werden, die von ihren benannten Konten eingehen.
 
 >[!NOTE]
 >
->Wenn Sie LeanData in Salesforce verwenden, um eine Interessenten-zu-Konto-Übereinstimmung zu erzielen, verfügt Marketo über eine Integration, die diese Übereinstimmungen mit Ihrer Marketing-Instanz synchronisiert. Um diese Funktion aktivieren zu lassen, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie LeanData in Salesforce zum Abgleich von Lead-zu-Konto verwenden, verfügt Marketo über eine Integration, die diese Übereinstimmungen mit Ihrer Marketo-Instanz synchronisiert. Um diese Funktion zu aktivieren, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) Erfahren Sie unten, wie Sie LeanData einrichten.
+
+## Verwenden von LeanData für Lead-to-Account-Übereinstimmung {#using-leandata-for-lead-to-account-matching}
+
+Nachdem [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) LeanData für Ihr Konto aktiviert hat, führen Sie die folgenden Schritte aus, um es einzurichten.
+
+1. Klicken Sie in Salesforce im linken Navigationsbereich auf **Setup Home** .
+
+1. Klicken Sie im linken Navigationsbereich unter &quot;Administration&quot;auf **Benutzer** und dann auf **Profile**.
+
+1. Suchen und wählen Sie das Profil **Marketo Sync** aus.
+
+1. Scrollen Sie nach unten zum Abschnitt Sicherheit auf Feldebene und suchen Sie das Lead-Objekt. Wählen Sie **Ansicht** aus.
+
+1. Stellen Sie für den Feldnamen &quot;Reporting Matched Account&quot;sicher, dass das Kontrollkästchen in der Spalte **Lesezugriff** aktiviert ist.
+
+1. Gehen Sie in Marketo zum Abschnitt **Admin** .
+
+   ![](assets/lead-to-account-matching-1.png)
+
+1. Wählen Sie **Feldverwaltung** aus.
+
+   ![](assets/lead-to-account-matching-2.png)
+
+1. Vergewissern Sie sich, dass das Feld vorhanden ist, indem Sie nach &quot;Reporting Matched Account&quot;suchen.
+
+   ![](assets/lead-to-account-matching-3.png)
 
 >[!MORELIKETHIS]
+[Discover-Konten](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)>
 >
->[Discover-Konten](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)
