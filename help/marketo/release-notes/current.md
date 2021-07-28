@@ -1,9 +1,9 @@
 ---
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Email Connection Throttling (GA)**: Verbessern Sie die Zustellbarkeit von E-Mails und skalieren Sie die personalisierte Verkaufskommunikation mit der E-Mail-Verbindungsbegrenzung für Sales Connect. Diese neue Technologie verwaltet automatisch den Zeitpunkt des E-Mail-Versands, um nahtlose Erlebnisse für Exchange- und Gmail-Benutzer zu erstellen. Verringern oder eliminieren Sie die Verwendung von Massen-E-Mail-Sendeanwendungen von Drittanbietern und senden Sie alle E-Mails von Sales Connect sicher.
+* **Email Connection Throttling (Beta)**: Verbessern Sie die Zustellbarkeit von E-Mails und skalieren Sie die personalisierte Verkaufskommunikation mit der E-Mail-Verbindungsbegrenzung für Sales Connect. Diese neue Technologie verwaltet automatisch den Zeitpunkt des E-Mail-Versands, um nahtlose Erlebnisse für Exchange- und Gmail-Benutzer zu erstellen. Verringern oder eliminieren Sie die Verwendung von Massen-E-Mail-Sendeanwendungen von Drittanbietern und senden Sie alle E-Mails von Sales Connect sicher.
+
+>[!NOTE]
+>
+>E-Mail-Einschränkungen sind jetzt in der Beta-Version verfügbar. [Weitere Informationen](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Verbesserte Einblicke** in die Verkaufsaktivität: Erfassen und aktivieren Sie die personalisierte Interaktion basierend auf den früheren Aktivitäten Ihres Verkaufsteams. In Marketo Engage-Smart-Listen können neue Attribute wie &quot;Link zur Aufzeichnung von Verkaufsaufrufen&quot;, &quot;Name der Verkaufskampagne&quot;und &quot;E-Mail-Betreff&quot;verwendet werden.  Diese Aktivitäten können über die Marketo Engage-REST-API oder den Massenexport exportiert werden und sind in Filtern und Triggern als zusätzliche Einschränkungen für Smart-Listen verfügbar.
 
