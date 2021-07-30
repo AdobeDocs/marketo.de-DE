@@ -1,9 +1,9 @@
 ---
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
-source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
+source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,7 @@ Die folgenden Funktionen werden am **20. August 2021** veröffentlicht.
 
 * **API für benutzerdefinierte Felder-Metadaten**: Optimieren Sie die Erstellung und Verwaltung von benutzerdefinierten Feldern in Marketo Engage für Partnerintegrationen. Erstellen Sie automatisch neue Felder auf einem Lead-Objekt und nehmen Sie Feldaktualisierungen in mehreren Marketo Engage-Instanzen sofort und gleichzeitig vor.
 
-* **Verbesserte Filterung**: Einige APIs unterstützen jetzt mehr Filter, z. B. das Hinzufügen eines Datumsbereichfilters zu E-Mail-Assets und Feldern der Programmmitglieder. Jetzt können Sie nur die Daten extrahieren, die innerhalb eines bestimmten Zeitraums für die folgenden APIs aktualisiert wurden...
-   * Abrufen von Programmmitgliedern
-   * E-Mails abrufen
-   * Extrahieren einer Massenaktivität
+* **Verbesserte Filterung**: Einige APIs unterstützen jetzt mehr Filter, z. B. das Hinzufügen eines Datumsbereichfilters zu E-Mail-Assets und Feldern der Programmmitglieder.
 
 * **Submit Form API**: Wenn eine E-Mail-Adresse in zwei oder mehr Lead-Datensätze dupliziert wird, wird der Eintrag &quot;Zuletzt aktualisiert&quot;aktualisiert, anstatt dass er vollständig übersprungen wird. Entspricht der Forms 2.0-API.
 
