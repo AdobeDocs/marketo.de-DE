@@ -1,7 +1,7 @@
 ---
 description: Erste Schritte für Sales Connect-Administratoren - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte für Sales Connect-Administratoren
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Um Ihre Sales Connect-Instanz mit Ihrer Salesforce-Instanz als Administrator ode
 Durch die Verbindung mit Marketo können Ihre Verkäufer die Vorteile von Marketing-Automatisierung und Marketing-Einblicken bei ihren Prospektionsbemühungen nutzen. Für die folgenden Funktionen müssen Sie eine Integration mit Marketo einrichten.
 
 * [Marketing-Kampagnen](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) für Verkäufer freigeben
-* Push [Interessante Momente](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) in den Live-Feed
+* Push [Interessante Momente](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) in den Live-Feed
 * Protokollieren von Verkaufsaktivitäten in Marketo
 
 Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, klicken Sie hier.
@@ -52,7 +52,7 @@ Ein Teil der erfolgreichen Aktivierung von Umsätzen bedeutet, dass in ihrem pri
 
 Weitere Informationen zur Installation der Anpassung von Sales Connect finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).[
 
-## Tests in Sandbox {#testing-in-sandbox}
+## Testen in Sandbox {#testing-in-sandbox}
 
 Teams, die Marketo Sales Connect mit ihrer Marketo-Sandbox testen möchten, können auf Anfrage ein zusätzliches Sales Connect-Konto bereitstellen. Dies gilt nur für Kunden, die eine Marketo-Sandbox erworben haben oder die diese als Teil ihres Marketo-Bundles haben. Wenden Sie sich an Ihren Marketo-Kundenbetreuer, wenn Sie daran interessiert sind, eine Sandbox zu erwerben.
 
