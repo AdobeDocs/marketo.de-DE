@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
 workflow-type: tm+mt
-source-wordcount: '8048'
+source-wordcount: '8052'
 ht-degree: 5%
 
 ---
@@ -134,6 +134,7 @@ ht-degree: 5%
          + [Mindestsystemanforderungen](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [Unterstützte Browser](product-docs/administration/setup-administration/supported-browsers.md)
+         + [Regel für globale Formularüberprüfung](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Zusätzliche Integrationen {#additional-integrations}
          + [Hinzufügen von Adobe Connect als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Hinzufügen von Google AdWords als Startpunktdienst mit einem Manager-Konto](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
