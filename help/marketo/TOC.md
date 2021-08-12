@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
 workflow-type: tm+mt
 source-wordcount: '8064'
 ht-degree: 5%
@@ -204,7 +204,7 @@ ht-degree: 5%
          + [Benutzerdefinierte Aktivität erstellen](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Bearbeiten einer benutzerdefinierten Aktivität](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Benutzerdefinierte Aktivität veröffentlichen](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-         + [Export benutzerspezifischer Aktivitäts-Metadaten](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
+         + [Export benutzerspezifischer Aktivitäts-Metadaten](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Benutzerdefinierte Marketo-Objekte {#marketo-custom-objects}
          + [Grundlegendes zu benutzerdefinierten Marketo-Objekten](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Benutzerdefinierte Marketo-Objektfelder hinzufügen](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
