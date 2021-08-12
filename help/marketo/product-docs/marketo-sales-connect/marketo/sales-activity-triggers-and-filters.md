@@ -3,9 +3,9 @@ description: Trigger und Filter für Verkaufsaktivitäten - Marketo-Dokumente - 
 title: Trigger und Filter für Verkaufsaktivitäten
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie in Ihren Smart-Kampagnen Filter
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
->[!NOTE
+>[!NOTE]
 >
 >Eine vollständige Liste der Aktivitäten, Begrenzungen und Definitionen finden Sie in unserem [Glossar zu den Verkaufsaktivitäten](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
