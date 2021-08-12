@@ -3,16 +3,16 @@ description: Export benutzerspezifischer Aktivitäts-Metadaten - Marketo-Dokumen
 title: Export benutzerspezifischer Aktivitäts-Metadaten
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Export benutzerspezifischer Aktivitäts-Metadaten {#custom-activity-metadata-export}
 
-Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, kann das benutzerdefinierte Aktivitäts-Metadatenschema exportiert werden. Hier ist, wie man es bekommt.
+Gehen Sie wie folgt vor, um Ihr benutzerdefiniertes Aktivitäts-Metadatenschema zu exportieren.
 
 1. Klicken Sie in My Marketo auf **Admin**.
 
