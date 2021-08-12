@@ -3,10 +3,10 @@ description: Glossar zu Verkaufsaktivitäten - Marketo-Dokumente - Produktdokume
 title: Glossar zur Verkaufsaktivität
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 15%
+source-wordcount: '416'
+ht-degree: 10%
 
 ---
 
@@ -60,7 +60,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
  <tr>
   <td>Vorlagen-ID</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">E-Mail zum empfangenen Verkauf</th>
   <td>Erhalten von</td>
  </tr>
@@ -150,6 +150,74 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <th>Beschreibung</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Details</strong></td> 
+   <td>Details zur Bounce-Fehlermeldung.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>E-Mail</strong></td> 
+   <td>Bounce-E-Mail-Adresse.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Link</strong></td> 
+   <td>URL, auf die geklickt wurde.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Erhalten von</strong></td> 
+   <td>E-Mail-Adresse der Person, die die E-Mail gesendet hat.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Verkaufsaufruf beantwortet von</strong></td> 
+   <td>Name der Person, die den Anruf entgegengenommen hat.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Dauer der Verkaufsaufrufe</strong></td> 
+   <td>Länge des Aufrufs in Sekunden.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Verkaufsaufruf von</strong></td> 
+   <td>E-Mail-Adresse der Verkaufsperson, die den Anruf getätigt hat.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL zur Aufzeichnung von Verkaufsaufrufen</strong></td> 
+   <td>URL der Aufrufaufzeichnung.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Status der Verkaufsaufrufe</strong></td> 
+   <td>Speichert den endgültigen Aufrufstatus des Aufrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Verkaufsgespräch</strong></td> 
+   <td>Rufen Sie das Ergebnis auf, das von einem Vertriebsbenutzer im Dialer ausgewählt wird.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Vertriebskampagnen-ID</strong></td> 
+   <td>Eindeutige ID für Sales Campaign-Assets in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Name der Verkaufskampagne</strong></td> 
+   <td>Name der Verkaufskampagne.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Vertriebskampagnen-URL</strong></td> 
+   <td>Sales Connect-URL für die Vertriebskampagne.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Email Subject</strong></td> 
+   <td>Betreffzeile der E-Mail</td> 
+  </tr>
+  <tr> 
+   <td><strong>Telefonnummer des Verkäufers aufgerufen</strong></td> 
+   <td>Telefonnummer, die von Sales aufgerufen wird.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Name der Verkaufsvorlage</strong></td> 
+   <td>Name der E-Mail-Vorlage in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL der Verkaufsvorlage</strong></td> 
+   <td>Sales Connect-URL für E-Mail-Vorlage.</td> 
+  </tr>
   <tr> 
    <td><strong>Gesendet von</strong></td>
    <td>E-Mail-Adresse der Person, die die E-Mail gesendet hat.</td> 
@@ -162,18 +230,6 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
    <td><strong>Vorlagen-ID</strong></td> 
    <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die Marketo Sales Connect-Vorlagen-ID. Verwenden Sie dies, um eine bestimmte Vorlage anstelle der Betreffzeile auszuwählen, die in mehreren Vorlagen vorhanden sein könnte.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Erhalten von</strong></td> 
-   <td>E-Mail-Adresse der Person, die die E-Mail gesendet hat.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Details</strong></td> 
-   <td>Details zur Bounce-Fehlermeldung.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>E-Mail</strong></td> 
-   <td>Bounce-E-Mail-Adresse.</td> 
   </tr> 
  </tbody> 
 </table>
