@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '8064'
+source-wordcount: '8071'
 ht-degree: 5%
 
 ---
@@ -318,6 +318,7 @@ ht-degree: 5%
             + [Kampagne anfordern](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Alarm senden](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [E-Mail senden](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [Einzelflussaktionen auf der Seite &quot;Personendetails&quot;](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [Trigger und Filter für mobile Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [Verwenden eines Webhooks in einer Smart-Kampagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Auswahl in einem Flussschritt hinzufügen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
