@@ -1,9 +1,9 @@
 ---
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
-source-git-commit: 45d489ed52f6a114514c79c234ff30567f4aff96
+source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Die folgenden Funktionen werden am **20. August 2021** veröffentlicht.
 
 * **Ausführbare Kampagnenerfassung**: Ausführbare Kampagnen können jetzt auch andere ausführbare Kampagnen aufrufen, sodass Sie sie bis zu drei Ebenen tief verschachteln können. Dies ermöglicht die weitere Konsolidierung gemeinsamer Betriebsabläufe und verbessert die Verwaltung intelligenter Kampagnen.
 
-* **EinzelFluss-Aktion auf der Seite** &quot;Personendetails&quot;: Führen Sie über das Flussaktionsmenü auf der Detailseite der Person Flüsse aus, z. B. E-Mails senden, den Inhaber einer Person ändern oder andere Aktionen mit intelligenter Kampagne für einzelne Personen, ohne zur Datenbankraster-Ansicht zu wechseln.
+* **Einzelflussaktion auf der Seite &quot;Personendetails&quot;** (bis 30. August verfügbar): Führen Sie über das Flussaktionsmenü auf der Detailseite der Person Flüsse aus, z. B. E-Mails senden, den Inhaber einer Person ändern oder andere Aktionen mit intelligenter Kampagne für einzelne Personen, ohne zur Datenbankraster-Ansicht zu wechseln.
 
 * **Export benutzerdefinierter Aktivitäten**: Der Metadatenexport unterstützt jetzt alle Objekte und entsprechenden Metadaten, die zum Freigeben, Analysieren und Entwerfen Ihres Abonnementdatenmodells verwendet werden können.
 
