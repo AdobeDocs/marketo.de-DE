@@ -1,9 +1,9 @@
 ---
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ Die folgenden Funktionen werden am **20. August 2021** veröffentlicht.
 
 * **Einzelflussaktion auf der Seite &quot;Personendetails&quot;** (bis 30. August verfügbar): Führen Sie über das Flussaktionsmenü auf der Detailseite der Person Flüsse aus, z. B. E-Mails senden, den Inhaber einer Person ändern oder andere Aktionen mit intelligenter Kampagne für einzelne Personen, ohne zur Datenbankraster-Ansicht zu wechseln.
 
-* **Export benutzerdefinierter Aktivitäten**: Der Metadatenexport unterstützt jetzt alle Objekte und entsprechenden Metadaten, die zum Freigeben, Analysieren und Entwerfen Ihres Abonnementdatenmodells verwendet werden können.
+* **[Export benutzerdefinierter Aktivitäten](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: Der Metadatenexport unterstützt jetzt alle Objekte und entsprechenden Metadaten, die zum Freigeben, Analysieren und Entwerfen Ihres Abonnementdatenmodells verwendet werden können.
 
 ## API-Verbesserungen {#api-enhancements}
-
-* **API für benutzerdefinierte Felder-Metadaten**: Optimieren Sie die Erstellung und Verwaltung von benutzerdefinierten Feldern in Marketo Engage für Partnerintegrationen. Erstellen Sie automatisch neue Felder auf einem Lead-Objekt und nehmen Sie Feldaktualisierungen in mehreren Marketo Engage-Instanzen sofort und gleichzeitig vor.
 
 * **Submit Form API**: Wenn eine E-Mail-Adresse in zwei oder mehr Lead-Datensätze dupliziert wird, wird der Eintrag &quot;Zuletzt aktualisiert&quot;aktualisiert, anstatt dass er vollständig übersprungen wird. Entspricht der Forms 2.0-API.
 
