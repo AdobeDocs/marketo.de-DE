@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 4%
+source-wordcount: '130'
+ht-degree: 5%
 
 ---
 
@@ -49,12 +49,12 @@ _Die Veröffentlichungsdaten können sich ändern_
   <tr> 
    <td colspan="1">August '21</td> 
    <td colspan="1">20. August 2021</td> 
-   <td colspan="1">in progress</td> 
+   <td colspan="1">Versendet</td> 
   </tr> 
   <tr> 
    <td colspan="1">Oktober 21</td> 
-   <td colspan="1">15. Oktober 2021</td> 
-   <td colspan="1">Zeitplan</td> 
+   <td colspan="1">22. Oktober 2021</td> 
+   <td colspan="1">in progress</td> 
   </tr> 
  </tbody> 
 </table>
