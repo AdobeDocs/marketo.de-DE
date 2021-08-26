@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 87bb4a2945dad03f3f041286b89efe80a577f79f
+source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 5%
@@ -500,8 +500,8 @@ ht-degree: 5%
          + [Glossar zu Tastaturbefehlen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo-Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Umbenennen eines Marketo-Assets](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-         + [Zielgruppe aus Adobe Experience Cloud synchronisieren](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Zielgruppe aus Adobe Experience Cloud synchronisieren](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Ordner verstehen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Wissenswertes zu Benachrichtigungen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Benachrichtigungstypen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
