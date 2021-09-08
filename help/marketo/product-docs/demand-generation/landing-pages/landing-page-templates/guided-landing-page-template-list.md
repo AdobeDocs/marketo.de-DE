@@ -1,33 +1,34 @@
 ---
 unique-page-id: 7515616
-description: Liste für Vorlagen für Landingpages - Marketing-Dokumente - Produktdokumentation
-title: Liste für Vorlagen für geführte Landingpages
-translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+description: Geführte Vorlagenliste für Landingpages - Marketo-Dokumente - Produktdokumentation
+title: Liste der geführten Landingpage-Vorlagen
+exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
+source-git-commit: d3a8aedba3c2b3403f6e7f206a51495ccab9ecd8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
+# Liste der geführten Landingpage-Vorlagen {#guided-landing-page-template-list}
 
-# Liste für Vorlagen für geführte Landingpages {#guided-landing-page-template-list}
-
-Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Guided Landingpage Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage reagiert vollständig und basiert auf dem Bootstrap-Framework.
+Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Geführten Landingpage-Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage ist vollständig responsiv und basiert auf dem Bootstrap-Framework.
 
 >[!NOTE]
 >
->Der Marketing-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenn Sie Hilfe beim Ändern dieser Vorlagen benötigen, wenden Sie sich bitte an einen Webentwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenn Sie Hilfe beim Ändern dieser Vorlagen benötigen, wenden Sie sich an einen Webentwickler.
 
-So importieren Sie eine Vorlage in Marketing:
+So importieren Sie eine Vorlage in Marketo:
 
-1. Klicken Sie auf den Namen der Vorlage für eine größere Ansicht.
+1. Klicken Sie für eine größere Ansicht auf den Namen der Vorlage.
 1. Laden Sie die ausgewählte Vorlage herunter.
-1. Navigieren Sie in Marketo zum **Design Studio.**
-1. Klicken Sie auf **Landingpages** in der linken Struktur und wählen Sie **Vorlagen.**
+1. Navigieren Sie in Marketo zu **Design Studio.**
+1. Klicken Sie im linken Baum auf **Landingpages** und wählen Sie dann **Vorlagen.** aus.
 
 1. Klicken Sie in der Menüleiste auf **Importvorlage.**
-1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie dann auf **Import**. (Achten Sie darauf, einen beschreibenden Namen auszuwählen und anzugeben, dass der Bearbeitungsmodus **Guided** lautet.)
+1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **Import** (wählen Sie einen beschreibenden Namen aus und geben Sie an, dass der Bearbeitungsmodus **Geführt** ist).
 
 |  |  |  |
 |---|---|---|
@@ -61,43 +62,43 @@ So importieren Sie eine Vorlage in Marketing:
 | ![](assets/8g.jpg) | ![](assets/9a.jpg) | ![](assets/9b.jpg) |
 | [Vorlage 9-C](guided-landing-page-templates/template-9-c.md) | [Vorlage 9-D](guided-landing-page-templates/template-9-d.md) | [Vorlage 9-E](guided-landing-page-templates/template-9-e.md) |
 | ![](assets/9c.jpg) | ![](assets/9d.jpg) | ![](assets/9e.jpg) |
-| [Vorlage 9-F](guided-landing-page-templates/template-9-f.md) | [Meldebogen 10-A](guided-landing-page-templates/template-10-a.md) | [Meldebogen 10-B](guided-landing-page-templates/template-10-b.md) |
+| [Vorlage 9-F](guided-landing-page-templates/template-9-f.md) | [Vorlage 10-A](guided-landing-page-templates/template-10-a.md) | [Vorlage 10-B](guided-landing-page-templates/template-10-b.md) |
 | ![](assets/9f.jpg) | ![](assets/10a.jpg) | ![](assets/10b.jpg) |
 | [Vorlage 10-C](guided-landing-page-templates/template-10-c.md) | [Vorlage 10-D](guided-landing-page-templates/template-10-d.md) | [Vorlage 10-E](guided-landing-page-templates/template-10-e.md) |
 | ![](assets/10c.jpg) | ![](assets/10d.jpg) | ![](assets/10e.jpg) |
-| [Vorlage 10-F](guided-landing-page-templates/template-10-f.md) | [Meldebogen 11-A](guided-landing-page-templates/template-11-a.md) | [Meldebogen 11-B](guided-landing-page-templates/template-11-b.md) |
+| [Vorlage 10-F](guided-landing-page-templates/template-10-f.md) | [Vorlage 11-A](guided-landing-page-templates/template-11-a.md) | [Meldebogen 11-B](guided-landing-page-templates/template-11-b.md) |
 | ![](assets/10f.jpg) | ![](assets/11a.jpg) | ![](assets/11b.jpg) |
 | [Vorlage 11-C](guided-landing-page-templates/template-11-c.md) | [Vorlage 11-D](guided-landing-page-templates/template-11-d.md) | [Meldebogen 11-E](guided-landing-page-templates/template-11-e.md) |
 | ![](assets/11c.jpg) | ![](assets/11d.jpg) | ![](assets/11e.jpg) |
-| [Vorlage 11-F](guided-landing-page-templates/template-11-f.md) | [Meldebogen 12-A](guided-landing-page-templates/template-12-a.md) | [Meldebogen 12-B](guided-landing-page-templates/template-12-b.md) |
+| [Vorlage 11-F](guided-landing-page-templates/template-11-f.md) | [Vorlage 12-A](guided-landing-page-templates/template-12-a.md) | [Meldebogen 12-B](guided-landing-page-templates/template-12-b.md) |
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [Vorlage 12-C](guided-landing-page-templates/template-12-c.md) | [Vorlage 12-D](guided-landing-page-templates/template-12-d.md) | [Meldebogen 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [Vorlage 12-F](guided-landing-page-templates/template-12-f.md) | [Meldebogen 13-A](guided-landing-page-templates/template-13-a.md) | [Meldebogen 13-B](guided-landing-page-templates/template-13-b.md) |
+| [Vorlage 12-F](guided-landing-page-templates/template-12-f.md) | [Vorlage 13-A](guided-landing-page-templates/template-13-a.md) | [Meldebogen 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [Vorlage 13-C](guided-landing-page-templates/template-13-c.md) | [Vorlage 13-D](guided-landing-page-templates/template-13-d.md) | [Meldebogen 13-E](guided-landing-page-templates/template-13-e.md) |
+| [Vorlage 13-A](guided-landing-page-templates/template-13-c.md) | [Vorlage 13-D](guided-landing-page-templates/template-13-d.md) | [Vorlage 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
-| [Meldebogen 14-A](guided-landing-page-templates/template-14-a.md) | [Meldebogen 14-B](guided-landing-page-templates/template-14-b.md) | [Vorlage 14-C](guided-landing-page-templates/template-14-c.md) |
+| [Vorlage 14-A](guided-landing-page-templates/template-14-a.md) | [Meldebogen 14-B](guided-landing-page-templates/template-14-b.md) | [Vorlage 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
-| [Vorlage 14-D](guided-landing-page-templates/template-14-d.md) | [Meldebogen 14-E](guided-landing-page-templates/template-14-e.md) | [Meldebogen 15-A](guided-landing-page-templates/template-15-a.md) |
+| [Vorlage 14-D](guided-landing-page-templates/template-14-d.md) | [Vorlage 14-E](guided-landing-page-templates/template-14-e.md) | [Vorlage 15-A](guided-landing-page-templates/template-15-a.md) |
 | ![](assets/14d.jpg) | ![](assets/14e.jpg) | ![](assets/15a.jpg) |
 | [Meldebogen 15-B](guided-landing-page-templates/template-15-b.md) | [Vorlage 15-C](guided-landing-page-templates/template-15-c.md) | [Vorlage 15-D](guided-landing-page-templates/template-15-d.md) |
 | ![](assets/15b.jpg) | ![](assets/15c.jpg) | ![](assets/15d.jpg) |
-| [Vorlage 15-E](guided-landing-page-templates/template-15-e.md) | [Meldebogen 16-A](guided-landing-page-templates/template-16-a.md) | [Meldebogen 16-B](guided-landing-page-templates/template-16-b.md) |
+| [Vorlage 15-E](guided-landing-page-templates/template-15-e.md) | [Vorlage 16-A](guided-landing-page-templates/template-16-a.md) | [Vorlage 16-B](guided-landing-page-templates/template-16-b.md) |
 | ![](assets/15e.jpg) | ![](assets/16a.jpg) | ![](assets/16b.jpg) |
-| [Vorlage 16-C](guided-landing-page-templates/template-16-c.md) | [Vorlage 16-D](guided-landing-page-templates/template-16-d.md) | [Meldebogen 16-E](guided-landing-page-templates/template-16-e.md) |
+| [Vorlage 16-C](guided-landing-page-templates/template-16-c.md) | [Vorlage 16-D](guided-landing-page-templates/template-16-d.md) | [Vorlage 16-E](guided-landing-page-templates/template-16-e.md) |
 | ![](assets/16c.jpg) | ![](assets/16d.jpg) | ![](assets/16e.jpg) |
-| [Meldebogen 17-A](guided-landing-page-templates/template-17-a.md) | [Meldebogen 17-B](guided-landing-page-templates/template-17-b.md) | [Vorlage 17-C](guided-landing-page-templates/template-17-c.md) |
+| [Vorlage 17-A](guided-landing-page-templates/template-17-a.md) | [Meldebogen 17-B](guided-landing-page-templates/template-17-b.md) | [Vorlage 17-C](guided-landing-page-templates/template-17-c.md) |
 | ![](assets/17a.jpg) | ![](assets/17b.jpg) | ![](assets/17c.jpg) |
-| [Vorlage 17-D](guided-landing-page-templates/template-17-d.md) | [Meldebogen 17-E](guided-landing-page-templates/template-17-e.md) | [Meldebogen 18-A](guided-landing-page-templates/template-18-a.md) |
+| [Vorlage 17-D](guided-landing-page-templates/template-17-d.md) | [Vorlage 17-E](guided-landing-page-templates/template-17-e.md) | [Vorlage 18-A](guided-landing-page-templates/template-18-a.md) |
 | ![](assets/17d.jpg) | ![](assets/17e.jpg) | ![](assets/18a.jpg) |
 | [Meldebogen 18-B](guided-landing-page-templates/template-18-b.md) | [Vorlage 18-C](guided-landing-page-templates/template-18-c.md) | [Vorlage 18-D](guided-landing-page-templates/template-18-d.md) |
 | ![](assets/18b.jpg) | ![](assets/18c.jpg) | ![](assets/18d.jpg) |
-| [Meldebogen 18-E](guided-landing-page-templates/template-18-e.md) | [Meldebogen 19-A](guided-landing-page-templates/template-19-a.md) | [Meldebogen 19-B](guided-landing-page-templates/template-19-b.md) |
+| [Vorlage 18-E](guided-landing-page-templates/template-18-e.md) | [Vorlage 19-A](guided-landing-page-templates/template-19-a.md) | [Meldebogen 19-B](guided-landing-page-templates/template-19-b.md) |
 | ![](assets/18e.jpg) | ![](assets/19a.jpg) | ![](assets/19b.jpg) |
 | [Vorlage 19-C](guided-landing-page-templates/template-19-c.md) | [Vorlage 19-D](guided-landing-page-templates/template-19-d.md) | [Meldebogen 19-E](guided-landing-page-templates/template-19-e.md) |
 | ![](assets/19c.jpg) | ![](assets/19d.jpg) | ![](assets/19e.jpg) |
-| [Meldebogen 20-A](guided-landing-page-templates/template-20-a.md) | [Meldebogen 20-B](guided-landing-page-templates/template-20-b.md) | [Vorlage 20-C](guided-landing-page-templates/template-20-c.md) |
+| [Vorlage 20-A](guided-landing-page-templates/template-20-a.md) | [Meldebogen 20-B](guided-landing-page-templates/template-20-b.md) | [Vorlage 20-C](guided-landing-page-templates/template-20-c.md) |
 | ![](assets/20a.jpg) | ![](assets/20b.jpg) | ![](assets/20c.jpg) |
 | [Vorlage 20-D](guided-landing-page-templates/template-20-d.md) | [Meldebogen 20-E](guided-landing-page-templates/template-20-e.md) |  |
 | ![](assets/20d.jpg) | ![](assets/20e.jpg) |  |
