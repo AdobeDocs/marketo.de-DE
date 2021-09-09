@@ -1,42 +1,39 @@
 ---
 unique-page-id: 10098691
-description: Verschieben einer E-Mail - Marketing-Dokumente - Produktdokumentation
-title: E-Mail verschieben
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Verschieben einer E-Mail - Marketo-Dokumente - Produktdokumentation
+title: Verschieben einer E-Mail
+exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# Verschieben einer E-Mail {#move-an-email}
 
-# Eine E-Mail {#move-an-email} verschieben
+Sie müssen eine E-Mail von einem Programm in ein anderes verschieben? So geht es.
 
-Müssen Sie eine E-Mail von einem Programm in ein anderes verschieben? So geht es.
+1. Gehen Sie zu **Marketingaktivitäten**.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+   ![](assets/move-an-email-1.png)
 
-   ![](assets/one-2.png)
+1. Suchen Sie die E-Mail, die Sie verschieben möchten, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben** aus.
 
-1. Suchen Sie die E-Mail, die Sie verschieben möchten, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben**.
+   ![](assets/move-an-email-2.png)
 
-   ![](assets/leadperformance.jpg)
+1. Wählen Sie das **Ziel**, **Programm** und optional **Ordner** aus. Wählen Sie **Verschieben** aus.
 
-1. Klicken Sie auf die Dropdownliste **Nach** und wählen Sie **Marketing-Aktivitäten**.
-
-   ![](assets/three-2.png)
+   ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
    >In diesem Beispiel verschieben wir eine E-Mail in ein anderes Programm, aber Sie können auch eine E-Mail in einen Ordner in Design Studio verschieben.
 
-1. Klicken Sie auf die Dropdown-Liste **Programm**, suchen und wählen Sie das Ziel-Programm und klicken Sie auf **Verschieben**.
+   Sie werden sehen, dass Ihre E-Mail jetzt im anderen Programm lebt.
 
-   ![](assets/four-2.png)
+   ![](assets/move-an-email-4.png)
 
-   Ihre E-Mail lebt jetzt im anderen Programm.
-
-   ![](assets/leadperformance2.jpg)
-
-   Ziemlich schlau!
+   >[!NOTE]
+   >
+   >Sie können Ihre E-Mail auch einfach per Drag &amp; Drop an ein neues Ziel im Baum verschieben.
