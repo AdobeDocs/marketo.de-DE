@@ -3,24 +3,26 @@ description: Systemadministrator einrichten - Marketo-Dokumente - Produktdokumen
 title: Systemadministrator einrichten
 hide: true
 hidefromtoc: true
-source-git-commit: 5d068e01870b4ced4a444c48f8a257f88a869384
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 0%
 
 ---
 
 # Systemadministrator einrichten {#set-up-system-admin}
 
+## Erstellen eines Produktprofils {#create-a-product-profile}
+
 Text
 
-Nachdem Sie als Marketo-Systemadministrator zum hinzugefügt wurden (der? an?) Adobe-Organisation, müssen Sie einige Schritte ausführen, um die Einrichtung abzuschließen.
+Nachdem Sie als Marketo-Systemadministrator zu einer Adobe-Organisation hinzugefügt wurden, müssen Sie einige Schritte unternehmen, um das Setup abzuschließen.
 
-1. Klicken Sie in der E-Mail, die Sie erhalten (wie erhalten sie das?), auf **Erste Schritte**.
+1. Nachdem Ihre Adobe-Organisation eingerichtet wurde, erhält der vorgesehene Systemadministrator eine Begrüßungs-E-Mail. Klicken Sie in dieser E-Mail auf **Erste Schritte**.
 
 PICC
 
-1. Tritt Adobe nicht mehr ein?
+1. Tritt Adobe nicht mehr ein? LINK ZUM VORHANDENEN DOC - WENN &quot;SKIP ZU SCHRITT EINRICHTEN&quot;EINGESTELLT WIRD?
 
 PICC
 
@@ -32,7 +34,7 @@ PICC
 
 PICC
 
-1. Text.
+1. (Abonnement auswählen - diese Schritte müssen für jeden Unterabschnitt befolgt werden)
 
 PICC
 
@@ -44,6 +46,8 @@ PICC
 
 PICC
 
+(Wenn Sie mehrere Produktprofile einrichten, haben diese unabhängig davon, zu welchem Profil ein Benutzer hinzugefügt wird, denselben Zugriff auf Marketo.)
+
 ## Produkt-Admin hinzufügen {#add-a-product-admin}
 
 1. Nachdem Sie die oben genannten Schritte ausgeführt haben, klicken Sie auf die Registerkarte **Administratoren** .
@@ -54,4 +58,6 @@ PICC
 
 PICC
 
-1. Suchen Sie den Benutzer, den Sie hinzufügen möchten. Vor- und Nachname sind optional.
+1. Suchen Sie den Benutzer, den Sie hinzufügen möchten. Vor- und Nachname sind optional. NICHT VORFÜLLEN
+
+PICC
