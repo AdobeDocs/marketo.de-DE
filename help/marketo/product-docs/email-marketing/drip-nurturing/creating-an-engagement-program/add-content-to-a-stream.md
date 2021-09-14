@@ -1,118 +1,55 @@
 ---
 unique-page-id: 2359659
-description: hinzufügen von Inhalten in einem Stream - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen von Inhalten in einem Stream
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Hinzufügen von Inhalten zu einem Stream - Marketo-Dokumente - Produktdokumentation
+title: Inhalt zu einem Stream hinzufügen
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 1%
 
 ---
 
+# Inhalt zu einem Stream hinzufügen {#add-content-to-a-stream}
 
-# hinzufügen von Inhalt in einen Stream {#add-content-to-a-stream}
+Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalt zu den Streams hinzufügen. Sie können einem Stream E-Mails oder Programme hinzufügen.
 
-Nachdem Sie Ihr Interaktions-Programm erstellt haben, müssen Sie dem bzw. den Streams Inhalte hinzufügen. Sie können einem Stream E-Mails oder Programme hinzufügen.
+1. Gehen Sie zu **Marketingaktivitäten**.
 
-## hinzufügen einer E-Mail an einen Stream {#add-an-email-to-a-stream}
+   ![](assets/add-content-to-a-stream-1.png)
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und gehen Sie zum Tab **Streams** .
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/add-content-to-a-stream-2.png)
 
-1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
+   Sie können Inhalte auf zwei verschiedene Arten hinzufügen:
 
-   ![](assets/streamstab.jpg)
+**Schaltfläche &quot;Inhalt hinzufügen&quot;**
 
-   Sie können die erste E-Mail auf drei verschiedene Arten hinzufügen:
+1. Klicken Sie auf die Schaltfläche **Inhalt hinzufügen** .
 
-**Schaltfläche &quot;Hinzufügen&quot;**
+   ![](assets/add-content-to-a-stream-3.png)
 
-1. Klicken Sie auf die Schaltfläche **Hinzufügen Content**.
+1. Wählen Sie **Email** _oder_ **Programm** und wählen Sie dann die E-Mail oder das Programm/die Smart-Kampagne aus, die Sie hinzufügen möchten.
 
-   ![](assets/addcontentbutton.jpg)
-
-1. Belassen Sie die Einstellung **Typ** auf **E-Mail** und wählen Sie dann die E-Mail aus, die Sie hinzufügen möchten.
-
-   ![](assets/image2014-9-15-15-3a44-3a58.png)
+   ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
-   >Die lokalen E-Mails zu diesem Programm werden oben sortiert.
+   >Die lokalen E-Mails dieses Interaktionsprogramms werden oben sortiert.
 
-**Stream + Symbol**
+**+ Symbol**
 
-1. Klicken Sie auf das Symbol für Streams **+**, lassen Sie **Typ** als **E-Mail** und wählen Sie die E-Mail aus, die Sie hinzufügen möchten.
+1. Klicken Sie auf das Symbol **+**, wählen Sie **E-Mail** _oder_ **Programm** und wählen Sie dann die E-Mail oder das Programm/die Smart-Kampagne aus, die Sie hinzufügen möchten.
 
-   ![](assets/image2014-9-15-15-3a45-3a25.png)
-
-**Drag &amp; Drop**
-
-1. Ziehen Sie einfach die E-Mail aus dem Baum in den Stream.
-
-   ![](assets/dragstreamcontent.jpg)
-
-## hinzufügen eines Programms zu einem Stream {#add-a-program-to-a-stream}
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
-
-   ![](assets/login-marketing-activities-1.png)
-
-1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
-
-   ![](assets/streamstab.jpg)
-
-   Sie können dem Stream auf drei verschiedene Arten ein Programm hinzufügen:
-
-**Schaltfläche &quot;Hinzufügen&quot;**
-
-1. Klicken Sie auf **Hinzufügen Content**.
-
-   ![](assets/image2014-9-15-15-3a45-3a51.png)
-
-1. Ändern Sie **Typ** in Programm.
-
-   ![](assets/image2014-9-15-15-3a46-3a0.png)
-
-1. Suchen und wählen Sie das Programm aus.
-
-   ![](assets/image2014-9-15-15-3a46-3a11.png)
-
-1. Wählen Sie die intelligente Kampagne im Programm aus, durch die die Leute laufen sollen.
-
-   ![](assets/image2014-9-15-15-3a46-3a17.png)
+   ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Für die intelligente Kampagne muss der Filter **Member of Engagement Programm** enthalten sein, damit dies ordnungsgemäß funktioniert.
+   >Eine intelligente Kampagne muss den Filter **Mitglied des Interaktionsprogramms** enthalten, damit er ordnungsgemäß funktioniert.
 
-**Stream + Symbol**
-
-1. Klicken Sie auf das Stream **+**-Symbol und ändern Sie **Typ** in Programm.
-
-   ![](assets/image2014-9-15-15-3a46-3a43.png)
-
-1. Suchen und wählen Sie Ihr Programm aus.
-
-   ![](assets/image2014-9-15-15-3a46-3a49.png)
-
-1. Wählen Sie die intelligente Kampagne aus, in der die Personen verarbeitet werden sollen.
-
-   ![](assets/image2014-9-15-15-3a46-3a54.png)
-
-**Drag &amp; Drop**
-
-1. Ziehen Sie das Programm Ihrer Wahl aus dem Baum in Ihren Stream.
-
-   ![](assets/streamcadence.jpg)
-
-1. Wählen Sie einfach die intelligente Kampagne aus, durch die Menschen fließen sollen.
-
-   ![](assets/image2014-9-15-15-3a47-3a8.png)
-
-Gute Arbeit! Sie kennen jetzt verschiedene Möglichkeiten, Programm-Streams Inhalte hinzuzufügen. hinzufügen so viele, wie du für deine Pflege brauchst. Weitere Informationen finden Sie im entsprechenden Artikel unten.
+Großartig gemacht! Jetzt wissen Sie, wie Sie Ihren Programm-Streams Inhalte hinzufügen können. Fügen Sie so viel hinzu, wie Sie für Ihre Pflege benötigen. Weitere Informationen finden Sie im entsprechenden Artikel unten.
 
 >[!MORELIKETHIS]
 >
->[Hinzufügen eines Programms zu einem Interaktions-Programm-Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 **Version**: Marketo verwendet einen vierteljährlichen Hauptversionsplan. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verknüpft.
 
-**Releasedatum**: Der Rollout beginnt normalerweise am Mittwoch der Release-Woche, wobei der Großteil der Aktualisierung am Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
+**Releasedatum**: Der Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei der Großteil der Aktualisierung Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
 
 **Fortschritt**:
 
