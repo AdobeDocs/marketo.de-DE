@@ -3,9 +3,9 @@ description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Es wird zwar eine Produktkarte in AC for Sales Connect geben, aber AC sollte nic
 
 **Wechsele ich immer noch zum Abschnitt &quot;Admin&quot;in Marketo, um Kontoänderungen vorzunehmen?**
 
-Nein, Sie müssen zu [account.adobe.com](account.adobe.com) navigieren.
+Nein, Sie müssen zu [account.adobe.com](https://account.adobe.com) navigieren.
 
 **Wie funktioniert dies mit der universellen ID von Marketo?**
 
