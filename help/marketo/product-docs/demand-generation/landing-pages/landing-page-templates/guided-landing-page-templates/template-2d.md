@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516478
-description: Vorlage 2-D - Marketo Docs - Produktdokumentation
-title: Vorlage 2-D
+description: Vorlage 2D - Marketo Docs - Produktdokumentation
+title: Vorlage 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Vorlage 2-D {#template-d}
+# Vorlage 2D {#template-2d}
 
-[Vorlage 2-D herunterladen](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&amp;modificationdate=1433229358000&amp;api=v2)
+[Vorlage 2D herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template2-D.html](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&amp;modificationdate=1433229358000&amp;api=v2)
+[Vorlage 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

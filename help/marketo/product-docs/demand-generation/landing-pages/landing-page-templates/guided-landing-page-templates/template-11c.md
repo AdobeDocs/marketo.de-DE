@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437562
-description: Vorlage 11-C - Marketo Docs - Produktdokumentation
-title: Vorlage 11-C
+description: Vorlage 11C - Marketo Docs - Produktdokumentation
+title: Vorlage 11C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Vorlage 11-C {#template-c}
+# Vorlage 11C {#template-11c}
 
-[Vorlage 11-C herunterladen](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
+[Vorlage 11C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -25,4 +25,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template11-C.html](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
+[Vorlage 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)

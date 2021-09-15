@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516470
-description: Vorlage 2-B - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 2-B
+description: Vorlage 2B - Marketo Docs - Produktdokumentation
+title: Vorlage 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Vorlage 2-B {#template-b}
+# Vorlage 2B {#template-2b}
 
-[Vorlage 2-B herunterladen](https://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&amp;modificationdate=1433229058000&amp;api=v2)
+[Vorlage 2B herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template2-B.html](https://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&amp;modificationdate=1433229058000&amp;api=v2)
+[Vorlage 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

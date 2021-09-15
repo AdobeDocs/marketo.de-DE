@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437574
-description: Vorlage 12-A - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 12-A
+description: Vorlage 12A - Marketo Docs - Produktdokumentation
+title: Vorlage 12A
 exl-id: 761d7849-9137-4c6b-b9f2-96d380beb55d
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Vorlage 12-A {#template-a}
+# Vorlage 12A {#template-12a}
 
-[Vorlage 12-A herunterladen](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+[Vorlage 12A herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template11-A.html](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+[Vorlage 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
