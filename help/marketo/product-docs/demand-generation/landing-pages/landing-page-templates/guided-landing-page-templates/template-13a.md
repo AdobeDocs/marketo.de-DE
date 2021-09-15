@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437783
-description: Vorlage 13-A - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 13-A
+description: Vorlage 13A - Marketo-Dokumente - Produktdokumentation
+title: Vorlage 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Vorlage 13-A {#template-a}
+# Vorlage 13A {#template-13a}
 
-[Vorlage 13-A herunterladen](https://docs.marketo.com/download/attachments/9437783/template-13a.html?version=1&amp;modificationdate=1438979525000&amp;api=v2)
+[Vorlage 13A herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -27,4 +27,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template13-A.html](https://docs.marketo.com/download/attachments/9437783/template-13a.html?version=1&amp;modificationdate=1438979525000&amp;api=v2)
+[Vorlage 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)

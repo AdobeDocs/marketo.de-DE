@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092896
-description: Vorlage 19-C - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 19-C
+description: Vorlage 19C - Marketo Docs - Produktdokumentation
+title: Vorlage 19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Vorlage 19-C {#template-c}
+# Vorlage 19C {#template-19c}
 
-[Vorlage 19-C herunterladen](https://docs.marketo.com/download/attachments/10092896/template-19c.html?version=1&amp;modificationdate=1441750440000&amp;api=v2)
+[Vorlage 19C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -27,4 +27,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template19-C.html](https://docs.marketo.com/download/attachments/10092896/template-19c.html?version=1&amp;modificationdate=1441750440000&amp;api=v2)
+[Vorlage 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

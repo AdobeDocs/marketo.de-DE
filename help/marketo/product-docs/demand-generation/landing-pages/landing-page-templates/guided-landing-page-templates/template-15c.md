@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437822
-description: Vorlage 15-C - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 15-C
+description: Vorlage 15C - Marketo Docs - Produktdokumentation
+title: Vorlage 15C
 exl-id: 63850bd7-1e63-4fcb-b420-d4528c17a914
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Vorlage 15-C {#template-c}
+# Vorlage 15C {#template-15c}
 
-[Vorlage 15-C herunterladen](https://docs.marketo.com/download/attachments/9437822/template-15c.html?version=1&amp;modificationdate=1438980471000&amp;api=v2)
+[Vorlage 15C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 
@@ -27,4 +27,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template15-C.html](https://docs.marketo.com/download/attachments/9437822/template-15c.html?version=1&amp;modificationdate=1438980471000&amp;api=v2)
+[Vorlage 15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)

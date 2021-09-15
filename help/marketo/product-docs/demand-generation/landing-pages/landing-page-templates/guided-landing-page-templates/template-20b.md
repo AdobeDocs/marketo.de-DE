@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092913
-description: Vorlage 20-B - Marketo-Dokumente - Produktdokumentation
-title: Meldebogen 20-B
+description: Vorlage 20B - Marketo Docs - Produktdokumentation
+title: Vorlage 20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Meldebogen 20-B {#template-b}
+# Vorlage 20B {#template-20b}
 
-[Vorlage 20-B herunterladen](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
+[Vorlage 20B herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 
@@ -27,4 +27,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template20-B.html](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
+[Vorlage 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)

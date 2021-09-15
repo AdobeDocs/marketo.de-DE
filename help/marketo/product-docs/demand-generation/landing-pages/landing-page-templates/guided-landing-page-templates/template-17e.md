@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438203
-description: Vorlage 17-E - Marketo Docs - Produktdokumentation
-title: Vorlage 17-E
+description: Vorlage 17E - Marketo Docs - Produktdokumentation
+title: Vorlage 17E
 exl-id: c4ffe84c-a15f-4d11-bbfa-5de78f981a7a
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Vorlage 17-E {#template-e}
+# Vorlage 17E {#template-17e}
 
-[Vorlage 17-E herunterladen](https://docs.marketo.com/download/attachments/9438203/template-17e.html?version=1&amp;modificationdate=1439843109000&amp;api=v2)
+[Vorlage 17E herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -27,4 +27,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template17-E.html](https://docs.marketo.com/download/attachments/9438203/template-17e.html?version=1&amp;modificationdate=1439843109000&amp;api=v2)
+[Template 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)

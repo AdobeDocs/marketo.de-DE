@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438191
-description: Vorlage 17-A - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 17-A
+description: Vorlage 17A - Marketo Docs - Produktdokumentation
+title: Vorlage 17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Vorlage 17-A {#template-a}
+# Vorlage 17A {#template-17a}
 
-[Vorlage 17-A herunterladen](https://docs.marketo.com/download/attachments/9438191/template-17a.html?version=1&amp;modificationdate=1439842942000&amp;api=v2)
+[Vorlage 17A herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 
@@ -27,4 +27,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template17-A.html](https://docs.marketo.com/download/attachments/9438191/template-17a.html?version=1&amp;modificationdate=1439842942000&amp;api=v2)
+[Vorlage 17a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)

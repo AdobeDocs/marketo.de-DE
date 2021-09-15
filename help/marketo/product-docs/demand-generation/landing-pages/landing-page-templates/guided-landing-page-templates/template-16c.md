@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437840
-description: Vorlage 16-C - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 16-C
+description: Vorlage 16C - Marketo Docs - Produktdokumentation
+title: Vorlage 16C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Vorlage 16-C {#template-c}
+# Vorlage 16C {#template-16c}
 
-[Vorlage 16-C herunterladen](https://docs.marketo.com/download/attachments/9437840/template-16c.html?version=1&amp;modificationdate=1438980731000&amp;api=v2)
+[Vorlage 16C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template16-C.html](https://docs.marketo.com/download/attachments/9437840/template-16c.html?version=1&amp;modificationdate=1438980731000&amp;api=v2)
+[Vorlage 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)

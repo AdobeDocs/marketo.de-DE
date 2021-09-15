@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092890
-description: Vorlage 19-E - Marketo Docs - Produktdokumentation
-title: Vorlage 19-A
+description: Vorlage 19A - Marketo Docs - Produktdokumentation
+title: Vorlage 19A
 exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '56'
 ht-degree: 1%
 
 ---
 
-# Vorlage 19-A {#template-a}
+# Vorlage 19A {#template-19a}
 
-[Vorlage 19-A herunterladen](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
+[Vorlage 19A herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -27,4 +27,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten, um diese Vorlage herunterzuladen:**
 
-[Template19-A.html](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
+[Vorlage 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
