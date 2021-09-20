@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: Erste Schritte - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 319f6a48ebf7f581f953fbb5244be7a8eea5cd79
+source-git-commit: 3d9c75a343ba2d78b1d5451ebe4344e71c2e53fb
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 33%
 
 ---
 
@@ -28,25 +28,106 @@ Mit ein wenig Hilfe von Ihrem IT-Team können Sie es in kürzester Zeit erledige
 
 Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo kennenzulernen.
 
-[![](/help/marketo/getting-started/assets/getting-started-1.png)](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-2.png)](getting-started/quick-wins/send-an-email.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-3.png)](getting-started/quick-wins/landing-page-with-a-form.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-4.png)](getting-started/quick-wins/simple-scoring.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-5.png)](getting-started/quick-wins/email-auto-response.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-6.png)](getting-started/quick-wins/import-a-list-of-people.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-7.png)](getting-started/quick-wins/drip-drip-nurture.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-8.png)](getting-started/quick-wins/personalize-an-email.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-7.png)](getting-started/quick-wins/alert-the-sales-rep.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-10.png)](getting-started/quick-wins/update-person-data.md)
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">
+      <img alt="Verbinden" src="getting-started/assets/getting-started-1.png"/>
+    </a>
+    <div>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Einrichten und Hinzufügen einer Person</a>
+    </div>
+    <br>
+  </td>
+  <td>
+      <a href="getting-started/quick-wins/send-an-email.md">
+       <img alt="Importieren" src="getting-started/assets/getting-started-2.png" />
+       </a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. E-Mail senden</a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">
+      <img alt="E-Mail" src="getting-started/assets/getting-started-3.png" />
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Landing Page mit Formular</a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="getting-started/quick-wins/simple-scoring.md">
+      <img alt="Verbinden" src="getting-started/assets/getting-started-4.png"/>
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. Einfache Bewertung</a>
+    </div>
+    <br>
+  </td>
+  <td>
+      <a href="getting-started/quick-wins/email-auto-response.md">
+       <img alt="Importieren" src="getting-started/assets/getting-started-5.png" />
+       </a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Automatische Antwort-E-Mail</a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">
+      <img alt="E-Mail" src="getting-started/assets/getting-started-6.png" />
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Import a List of People</a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">
+      <img alt="Verbinden" src="getting-started/assets/getting-started-7.png"/>
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drilldown-Nurtur</a>
+    </div>
+    <br>
+  </td>
+  <td>
+      <a href="getting-started/quick-wins/personalize-an-email.md">
+       <img alt="Importieren" src="getting-started/assets/getting-started-8.png" />
+       </a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. E-Mail personalisieren</a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">
+      <img alt="E-Mail" src="getting-started/assets/getting-started-9.png" />
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Vertriebsmitarbeiter benachrichtigen</a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="getting-started/quick-wins/update-person-data.md">
+      <img alt="Verbinden" src="getting-started/assets/getting-started-10.png"/>
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Aktualisieren von Personendaten</a>
+    </div>
+    <br>
+  </td>
+  <td>  </td>
+  <td>
+  </td>
+</tr>
+</table>
 
 ## SCHRITT 4 Congrats! Du bist bereit für die Nation  {#congrats-youre-ready-for-the-nation}
 
