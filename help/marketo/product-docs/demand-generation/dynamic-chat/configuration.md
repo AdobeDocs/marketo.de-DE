@@ -3,9 +3,9 @@ description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ PICC des Abstands
 
 **Agenteneinstellungen**
 
-Weisen Sie in den Agenteneinstellungen einen spezifischen Namen für den ChatBot zu (er wird oben angezeigt). Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern.
+In den Agenteneinstellungen können Sie Ihrer Chatbox eine Bezeichnung hinzufügen (z. B.: &quot;Adobe Bot&quot;), die oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern.
 
 PICC des Einstellungsnamens
 

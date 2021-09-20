@@ -3,10 +3,10 @@ description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdoku
 title: Übersicht über dynamischen Chat
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '323'
+ht-degree: 0%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 1%
 
 Intro Text
 
+>[!NOTE]
+>
+>Der dynamische Chat wird derzeit eingeführt, wobei alle Abonnements nach DATE zugreifen können.
+
 ## Dynamischen Chat einrichten {#access-dynamic-chat}
 
-Text
+Führen Sie diese Schritte für die Ersteinrichtung aus.
 
 1. Klicken Sie in My Marketo auf die Kachel **Dynamischer Chat** .
 
@@ -24,7 +28,7 @@ Text
 
    >[!NOTE]
    >
-   >Wenn Ihr Marketo-Administrator die Kachel noch nicht für Sie aktiviert hat, können Sie auch [hier auf den dynamischen Chat zugreifen](https://experience.adobe.com/dynamic-chat/).
+   >Wenn Sie nicht sehen...wenden Sie sich an Ihren Marketo-Administrator).
 
 1. Wenn Sie zuvor auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zum dynamischen Chat. Falls nicht, richten Sie [Ihre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) ein.
 
@@ -32,19 +36,19 @@ Text
 
 1. Um Ihre Marketo-Instanz zu verbinden, wählen Sie **Integrationen** aus.
 
-PICC
+   PICC
 
 1. Klicken Sie hier auf ?TEXT EINFÜGEN?.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Je nach Größe Ihrer Datenbank kann es zwischen 5 Minuten und 8 Stunden dauern, bis die Synchronisation abgeschlossen ist. Die durchschnittliche Synchronisierungszeit beträgt 60 Minuten.
+   >[!NOTE]
+   >
+   >Je nach Größe Ihrer Datenbank kann es zwischen 5 Minuten und 8 Stunden dauern, bis die Synchronisation abgeschlossen ist. Die durchschnittliche Synchronisierungszeit beträgt 60 Minuten.
 
 ## Integrationen {#integrations}
 
-Integrationen sind die erste Registerkarte, die Sie beim Zugriff auf den dynamischen Chat aufrufen möchten. Hier synchronisieren Sie Ihre Marketo-Abonnements, sodass Sie Ihre Datenbankdaten zur Identifizierung von Site-/Chat-Besuchern verwenden können ([siehe Schritt 3 oben](#access-dynamic-chat)).
+Integrationen sind die erste Registerkarte, die Sie beim Zugriff auf den dynamischen Chat aufrufen möchten. Hier synchronisieren Sie Ihre Marketo-Abonnements, sodass Sie Ihre Marketo-Datenbankdaten zur Identifizierung von Site-/Chat-Besuchern verwenden können ([siehe Schritt 3 oben](#access-dynamic-chat)).
 
 ## Dialogfelder {#dialogues}
 
