@@ -3,7 +3,7 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
@@ -95,7 +95,7 @@ Frage: Verwenden Sie diese Option, wenn Sie eine Multiple-Choice-Frage stellen m
 
 Informationserfassung: Verwenden Sie diese Option, wenn Sie Informationen erfassen möchten. Die drei Felder, aus denen Sie wählen können, sind E-Mail-Adresse, Telefonnummer und Text (mit denen der Besucher eine eigene Nachricht schreiben kann).
 
-Termin-Planung: Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Kalenderverfügbarkeit spiegelt [den nächsten Agenten in Zeile](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing) wider.
+Termin-Planung: Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Kalenderverfügbarkeit spiegelt [den nächsten Agenten in Zeile](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing) wider.
 
 Ziel: Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte nach &quot;Informationserfassung&quot;im Stream.)
 
