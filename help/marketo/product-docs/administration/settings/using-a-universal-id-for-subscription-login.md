@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: Verwenden einer universellen ID für die Anmeldung von Abonnements - Marketo Docs - Produktdokumentation
 title: Verwendung einer universellen ID zur Anmeldung von Abonnements
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '586'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Einstellungen auf Abonnementebene werden für Benutzer berücksichtigt, die eine
 
 ## Einrichten einer universellen ID {#setting-up-a-universal-id}
 
-Ihr Marketo-Administrator muss Sie von jeder Instanz aus zu jedem Ihrer Abonnements mit demselben Login einladen. Marketo kann Ihre vorhandenen Anmeldungen nicht automatisch zusammenführen. Sobald Sie die universelle ID aktiviert haben, ist **Ihre Marketo-Instanz bis zu 30 Minuten lang nicht mehr verfügbar**. Wenn Sie über eine größere Benutzerbasis verfügen, kann dies etwas länger dauern.
+Alle Marketo-Abonnements verfügen über die optionale Funktion Universal ID . Ihr Marketo-Administrator muss Sie von jeder Instanz aus zu jedem Ihrer Abonnements mit demselben Login einladen. Marketo kann Ihre vorhandenen Anmeldungen nicht automatisch zusammenführen.
 
 >[!NOTE]
 >

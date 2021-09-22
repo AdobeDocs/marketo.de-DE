@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Dieser Abschnitt enthält neue Funktionen für Bizible-Benutzer, die die Migrati
 
 ## Ankündigungen {#announcements}
 
-* **Aktualisierung der Einstellungen** für die universelle Anmeldekennung: Um die bevorstehende Integration von Marketo Engage- und Adobe-Identitäten für bestehende Benutzer zu unterstützen, werden alle Marketo Engage-Abonnements bei der Aktivierung der Universellen ID-Unterstützung vereinheitlicht.
+* **Aktualisierung der Einstellungen** für die universelle Anmeldekennung: Um die bevorstehende Integration von Marketo Engage- und Adobe-Identitäten für bestehende Benutzer zu unterstützen, werden alle Marketo Engage-Abonnements bei der Aktivierung der Universellen ID-Unterstützung vereinheitlicht. Weitere Informationen [finden Sie hier](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).

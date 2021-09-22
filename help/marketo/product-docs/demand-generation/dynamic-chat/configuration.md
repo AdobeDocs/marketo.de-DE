@@ -3,9 +3,9 @@ description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ PICC (aus dem ganzen Chatbox)
 
 **Stil**
 
-Mit Stil können Sie Ihre gewünschten Farben, die Position/den Abstand des Chat-Ankers und den Schrifttyp/die Schriftgröße auswählen.
+Hier definieren Sie das Erscheinungsbild des Chatbots, in dem Ihre Dialogfelder angezeigt werden, einschließlich: Farben, Schriftarten, Platzierung des Bot-Widgets und Name/Avatar des Chat-Bots.
 
 Die Farbe jeder Kategorie wird durch einen [hexadezimalen Farbwert](https://color.adobe.com/create/color-wheel) bestimmt (z. B. weiß = #ffffff, rot = #bf1932 usw.).
 
@@ -50,13 +50,13 @@ PICC der Wahl des Avatars
 
 ## Registerkarte &quot;Datenschutz&quot; {#privacy-tab}
 
-Klicken Sie auf die Registerkarte **Datenschutz** , um die URL der Datenschutzrichtlinie Ihrer Site hinzuzufügen/zu bearbeiten.
+Klicken Sie auf die Registerkarte **Datenschutz** , um die URL der Datenschutzrichtlinie Ihrer Site hinzuzufügen/zu bearbeiten (optional).
 
 PICC
 
 ## Registerkarte &quot;Installation&quot; {#installation-tab}
 
-Klicken Sie auf die Registerkarte **Installation** , um das Skript zu erfassen, das Ihr Web Dev-Team auf Ihrer Website platzieren muss.
+Damit der Chat-Bot auf Ihrer Website angezeigt wird, müssen Sie zunächst das Dynamic Chat-JavaScript-Snippet installieren. Klicken Sie auf diese Registerkarte, um den erforderlichen Code zu suchen/zu kopieren. Wenn Sie mit diesem Vorgang nicht vertraut sind, wenden Sie sich an Ihr Webteam oder Ihre IT-Abteilung, um Hilfe zu erhalten.
 
 PICC
 

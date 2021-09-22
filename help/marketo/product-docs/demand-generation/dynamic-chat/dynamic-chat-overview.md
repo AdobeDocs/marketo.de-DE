@@ -3,24 +3,24 @@ description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdoku
 title: Übersicht über dynamischen Chat
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 # Übersicht über dynamischen Chat {#dynamic-chat-overview}
 
-Intro Text
+Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um beide Leads (PEOPLE?) und Konten auf ihrer (BESUCHEN SIE IHRE?) Website. Erfassen Sie relevante Inhalte wie ihren Namen, Kontaktinformationen und freien Text. Besucher der Site können auch Meetings mit Ihrem Vertriebsteam buchen. Die Aktivitäts- und Interaktionsdaten des dynamischen Cats können verwendet werden, um Marketo-Programmen und kanalübergreifenden Aktivitäten von Triggern Mitglieder hinzuzufügen.
 
 >[!NOTE]
 >
->Der dynamische Chat wird derzeit eingeführt, wobei alle Abonnements nach DATE zugreifen können.
+>Der dynamische Chat wird derzeit eingeführt, wobei alle Abonnements, die Zugriff nach DATE haben sollen, verfügbar sind.
 
 ## Dynamischen Chat einrichten {#access-dynamic-chat}
 
-Führen Sie diese Schritte für die Ersteinrichtung aus.
+NACHDEM DER TITEL HINZUGEFÜGT WURDE... Führen Sie die folgenden Schritte aus, um zu beginnen.
 
 1. Klicken Sie in My Marketo auf die Kachel **Dynamischer Chat** .
 
@@ -52,7 +52,7 @@ Integrationen sind die erste Registerkarte, die Sie beim Zugriff auf den dynamis
 
 ## Dialogfelder {#dialogues}
 
-Dialogfelder sind die einzelnen Chatunterhaltungen, die Sie einrichten werden. Sie können angeben, wer sehen soll, was für bekannte oder sogar anonyme Besucher gilt. [Weitere Informationen zu Dialogfeldern](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Dialogfelder stellen eine einzige Chatinteraktion dar. Stellen Sie sich dies als Container mit all dem Zeug vor, das Sie benötigen, um einen ansprechenden Chat-Dialog mit Ihren Website-Besuchern zu führen. In jedem Dialogfeld können Sie angeben, auf welchen Seiten das Dialogfeld angezeigt werden soll, wem es angezeigt werden soll und Inhalt und Fluss des Dialogfelds selbst. Darüber hinaus können Sie Metriken finden, um zu sehen, wie gut Ihr Dialogfeld abschneidet. [Weitere Informationen zu Dialogfeldern](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## Konfiguration {#configuration}
 
@@ -60,14 +60,40 @@ Passen Sie auf der Registerkarte Konfiguration das Erscheinungsbild Ihrer versch
 
 ## Kalender {#calendar}
 
-Verbinden Sie auf der Registerkarte Kalender Ihren Kalender (Outlook oder Gmail) mit dem dynamischen Chat, damit Site-Besucher Termine mit Ihren Agenten planen können.
+Verbinden Sie auf der Registerkarte Kalender Ihren Kalender (Outlook oder Gmail) für die Verwendung bei der Terminplanung im Chat. Sobald der Kalender eines Benutzers mit dem dynamischen Chat verbunden ist, wird dieser Benutzer zur Warteschlange hinzugefügt und sein Kalender steht Website-Besuchern zur Verfügung, um Termine zu planen.
+
+Sie können auch den Text der Einladungs-E-MAIL anpassen? , der dem Besucher bei der Planung eines Termins im Kalender des Benutzers gesendet wird.
 
 ## Sitzungen {#meetings}
 
-Auf dem Tab Sitzungen werden der Status aller Sitzungen angezeigt, die Ihre Agenten über den dynamischen Chat geplant haben, sowie weitere Details zu diesem Thema.
+Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiedenen Dialoge geplant wurden. Hier finden Sie die E-Mail-Adresse des Leads, der den Termin gebucht hat, mit welchem Agenten er den Termin gebucht hat, wann der Termin geplant ist und ob das Treffen stattgefunden hat oder nicht.
 
 PICC?
 
 ## Routing {#routing}
 
-Routing zeigt Ihnen die Reihenfolge an, in der den Agenten Meetings zugewiesen werden, sowie die bisherigen Gesamtsitzungen (pro Agenten). Meetings gehen um Robin-Stil. Wenn Sie also fünf Agenten haben und Agenten drei das letzte Meeting abgehalten haben, werden Agent vier das nächste bekommen, gefolgt von fünf, dann zurück zum Agenten eins.
+Hier können Sie eine Liste aller Agenten sehen, die ihre Kalender verbunden haben, sowie die Reihenfolge, in der sie den Besuchern der Website präsentiert werden Meetings gehen im Robin-Stil. Wenn Sie also fünf Agenten haben und drei Agenten das letzte Meeting hatten, erhalten Agent vier das nächste, gefolgt von fünf und dann zurück zum Agenten.
+
+## FAQs {#faq}
+
+—JA? LOL—
+
+**Kann Chatbot mit CSS formatiert werden?**
+
+Der Chatbot kann derzeit nicht mit CSS formatiert werden.
+
+**Kann ich benutzerdefinierte Schriftoptionen verwenden?**
+
+Derzeit sind nur die voreingestellten Schriftoptionen verfügbar.
+
+**Ermöglicht der dynamische Chat einen Live-Chat?**
+
+Nein, nur vordefinierte Antworten.
+
+**Unterstützen Sie KI/NLP-Funktionen?**
+
+Die KI-/NLP-Funktionalität wird nicht unterstützt.
+
+**Bietet Dynamic Chat neben Englisch auch andere Sprachen?**
+
+Zum jetzigen Zeitpunkt nicht.

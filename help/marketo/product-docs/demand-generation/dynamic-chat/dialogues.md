@@ -3,16 +3,16 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Dialogfelder {#dialogues}
 
-Dialogfelder sind die spezifischen Chatunterhaltungen, die Sie einrichten. Sie können angepasst werden, indem Sie sehen, was gesagt wird und wer es sieht.
+Dialogfelder sind die einzelnen Chatunterhaltungen, die Sie einrichten werden. Erfahren Sie, wie Sie sie visuell anpassen, bestimmen, auf welchen Seiten sie erscheinen, und entscheiden, was gesagt wird und wer sie sieht.
 
 ## Neues Dialogfeld erstellen {#create-a-new-dialogue}
 
@@ -34,9 +34,9 @@ PICC
 
 ## Zielgruppenkriterien {#audience-criteria}
 
-Ähnlich wie bei Smart-Lists in Marketo ermöglichen Ihnen Zielgruppenkriterien-Attribute die Definition Ihrer Zielgruppe.
+Ähnlich wie bei Smart-Lists in Marketo ermöglichen Ihnen Zielgruppenkriterien-Attribute die Definition Ihrer Zielgruppe. Sie können bekannte oder unbekannte Leads mit abgeleiteten, Lead- oder Unternehmensattributen (oder einer Kombination daraus) als Ziel auswählen.
 
-Es gibt mehrere Attribute zur Auswahl. In diesem Beispiel richten wir uns an alle bekannten Leads in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
+Es gibt _viele_ Attributkombinationen, aus denen Sie auswählen können. In diesem Beispiel richten wir uns an alle bekannten Leads in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
 
 1. Ziehen Sie das Attribut Lead-Status nach rechts.
 
@@ -87,17 +87,29 @@ Zulässige Formate:
 
 Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, um die Chat-Konversation zu gestalten.
 
-TABELLE
-
-Nachricht: Verwenden Sie diese Option, wenn Sie eine Anweisung ohne Antwort erstellen möchten (z. B.: &quot;Hallo! Mit dem Code SAVE25 sind alle Artikel heute um 25 % billiger.&quot;)
-
-Frage: Verwenden Sie diese Option, wenn Sie eine Multiple-Choice-Frage stellen möchten, von der Sie die verfügbaren Antworten bereitstellen (z. B.: An welcher Art von Fahrzeug interessiert Sie sich? Antworten = SUV, Compact, Truck usw.)
-
-Informationserfassung: Verwenden Sie diese Option, wenn Sie Informationen erfassen möchten. Die drei Felder, aus denen Sie wählen können, sind E-Mail-Adresse, Telefonnummer und Text (mit denen der Besucher eine eigene Nachricht schreiben kann).
-
-Termin-Planung: Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Kalenderverfügbarkeit spiegelt [den nächsten Agenten in Zeile](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing) wider.
-
-Ziel: Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte nach &quot;Informationserfassung&quot;im Stream.)
+<table>
+ <tr>
+  <td><strong>Nachricht</strong></td>
+  <td>Verwenden Sie diese Option, wenn Sie eine Anweisung ohne Antwort erstellen möchten (z. B.: "Hallo! Mit dem Code SAVE25" sind alle Artikel heute um 25 % billiger.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Frage</strong></td>
+  <td>Verwenden Sie diese Option, wenn Sie eine Multiple-Choice-Frage stellen möchten, von der Sie die verfügbaren Antworten bereitstellen (z. B.: An welcher Art von Fahrzeug interessiert Sie sich? Antworten = SUV, Compact, Truck usw.).</td>
+ </tr>
+ <tr>
+  <td><strong>Informationserfassung</strong></td>
+  <td>Verwenden Sie diese Option, wenn Sie Informationen erfassen möchten. Die drei Felder, aus denen Sie wählen können, sind E-Mail-Adresse, Telefonnummer und Text (mit denen der Besucher eine eigene Nachricht schreiben kann).</td>
+ </tr>
+ <tr>
+  <td><strong>Zeitplan für die Ernennung</strong></td>
+  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Kalenderverfügbarkeit spiegelt [den nächsten Agenten in der Zeile](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing) wider.</td>
+ </tr>
+ <tr>
+  <td><strong>Ziel</strong></td>
+  <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte nach "Informationserfassung"im Stream).</td>
+ </tr>
+</table>
 
 MÖGLICHER EIGENER ABSCHNITT
 
