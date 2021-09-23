@@ -1,0 +1,55 @@
+---
+unique-page-id: 6095037
+description: Versionshinweise - März 2015 - Marketo-Dokumente - Produktdokumentation
+title: März 2015 - Versionshinweise
+exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
+source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+workflow-type: tm+mt
+source-wordcount: '300'
+ht-degree: 20%
+
+---
+
+# Versionshinweise: März 2015 {#release-notes-march}
+
+Die folgenden Funktionen sind in der Version vom März 2015 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie zu den einzelnen Funktionen Links zu detaillierten Artikeln finden.
+
+## HD-Kalender {#calendar-hd}
+
+Zeigen Sie die Marketingaktivitäten Ihres Teams mit dem neuen Präsentationsmodus des Kalenders an. Diese sind ideal für Fernseher oder große Monitore im Büro! Ziele basierend auf einer intelligenten Liste oder benutzerdefinierten Metriken festlegen und anzeigen.
+
+>[!NOTE]
+>
+>Diese Funktion ist nicht für Spark- und Standard-Editionen verfügbar.
+
+![](assets/image2015-3-23-11-3a39-3a15.png)
+
+## Google AdWords-Integration {#google-adwords-integration}
+
+Verknüpfen Sie Ihr [Google AdWords-Konto mit Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md), um Offline-Konversionsdaten automatisch von Marketo in Google AdWords hochzuladen. Anschließend können Sie in der AdWords-Benutzeroberfläche einfach sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden führten (oder welche Umsatzstufen Sie verfolgen möchten).
+
+![](assets/image2015-3-23-11-3a50-3a55.png)
+
+## Überarbeitetes Design des Revenue Explorer {#revenue-explorer-redesign}
+
+Die Oberfläche des Revenue Explorer wurde überarbeitet und bietet nun auch das neue Sunburst-Diagramm. Die Einführung ist für die ersten zwei Aprilwochen geplant.
+
+## Neue Ressourcen-REST-APIs {#new-asset-rest-apis}
+
+[Neue Ressourcen-REST-APIs](https://developers.marketo.com/)
+
+Wir unterstützen jetzt das Erstellen und Bearbeiten von E-Mails, Vorlagen, Token, Dateien und Snippets [über die API](https://developers.marketo.com/documentation/asset-api)!
+
+## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
+
+Unterstützt mit dem neuesten Installationsprogramm jetzt [Zugriff über die App](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+
+![](assets/image2015-3-23-11-3a47-3a16.png)
+
+## RTP: Personalisierte Webeinbindung mit Lead-Daten {#rtp-personalized-web-engagement-with-lead-data}
+
+Nutzen Sie die [Lead-Datenfelder](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md), die Sie in Ihrer Marketo-Lead-Datenbank haben, um eine Echtzeit-Segmentierung und personalisierte Inhaltskampagnen zu erstellen. Verwalten Sie Ihre Lead-Datenfelder in RTP und fügen Sie relevante Lead-Felder hinzu/löschen Sie sie.
+
+## RTP: Webinhalte nach E-Mail- oder Programmkampagnenname personalisieren {#rtp-personalize-web-content-by-email-or-program-campaign-name}
+
+Fahren Sie mit Ihrem Lead über Kanäle von E-Mail bis Web hinweg fort. [Personalisieren Sie eingehende Inhalte basierend auf E-Mail-Kampagnen oder ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Programmnamen, die in den Marketingaktivitäten von Marketo verwendet werden.

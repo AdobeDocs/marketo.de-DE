@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8099'
 ht-degree: 5%
 
 ---
@@ -1697,75 +1697,76 @@ ht-degree: 5%
 + Versionshinweise {#release-notes}
    + [Versionsplanung](release-notes/release-schedule.md)
    + [Aktuelle Version](release-notes/current.md)
-   + 2021 {#2021}
-      + [Versionshinweise: Jan. 21](release-notes/2021/release-notes-jan-21.md)
-      + [Versionshinweise: Mai 21](release-notes/2021/release-notes-may-21.md)
-   + 2020 {#2020}
-      + [Versionshinweise: Januar 20](release-notes/2020/release-notes-jan-20.md)
-      + [Versionshinweise: Februar 2020](release-notes/2020/release-notes-feb-20.md)
-      + [Versionshinweise: Juni &#39;20](release-notes/2020/release-notes-june-20.md)
-      + [Versionshinweise: Juli &#39;20](release-notes/2020/release-notes-july-20.md)
-      + [Versionshinweise: Okt. 20](release-notes/2020/release-notes-oct-20.md)
-   + 2019 {#2019}
-      + [Versionshinweise: August &#39;19](release-notes/2019/release-notes-august-19.md)
-      + [Versionshinweise: Juni 19](release-notes/2019/release-notes-june-19.md)
-      + [Versionshinweise: Frühjahr 19](release-notes/2019/release-notes-spring-19.md)
-      + [Versionshinweise: Winter &#39;19](release-notes/2019/release-notes-winter-19.md)
-   + 2018 {#2018}
-      + [Versionshinweise: Herbst 18](release-notes/2018/release-notes-fall-18.md)
-      + [Versionshinweise: Frühjahr 18](release-notes/2018/release-notes-spring-18.md)
-      + [Versionshinweise: Winter &#39;18](release-notes/2018/release-notes-winter-18.md)
-   + 2017 {#2017}
-      + [Versionshinweise: ABM-Verbesserungen vom April 17](release-notes/2017/release-notes-april-17-abm-enhancements.md)
-      + [Versionshinweise: ABM-Verbesserungen vom 17. August](release-notes/2017/release-notes-august-17-abm-enhancements.md)
-      + [Versionshinweise: Herbst 17](release-notes/2017/release-notes-fall-17.md)
-      + [Versionshinweise: Frühjahr 17](release-notes/2017/release-notes-spring-17.md)
-      + [Versionshinweise: Sommer 17](release-notes/2017/release-notes-summer-17.md)
-      + [Versionshinweise: Winter &#39;17](release-notes/2017/release-notes-winter-17.md)
-   + 2016 {#2016}
-      + [Versionshinweise: Herbst 16](release-notes/2016/release-notes-fall-16.md)
-      + [Versionshinweise: Frühjahr 16](release-notes/2016/release-notes-spring-16.md)
-      + [Versionshinweise: Sommer 16](release-notes/2016/release-notes-summer-16.md)
-      + [Versionshinweise: Winter &#39;16](release-notes/2016/release-notes-winter-16.md)
-   + 2015 {#2015}
-      + [Versionshinweise: April 2015](release-notes/2015/release-notes-april-2015.md)
-      + [Versionshinweise: Herbst 15](release-notes/2015/release-notes-fall-15.md)
-      + [Versionshinweise: Februar 2015](release-notes/2015/release-notes-february-2015.md)
-      + [Versionshinweise: Januar 2015](release-notes/2015/release-notes-january-2015.md)
-      + [Versionshinweise: Juli 2015](release-notes/2015/release-notes-july-2015.md)
-      + [Versionshinweise: Juni 2015](release-notes/2015/release-notes-june-2015.md)
-      + [Versionshinweise: März 2015](release-notes/2015/release-notes-march-2015.md)
-      + [Versionshinweise: Mai 2015](release-notes/2015/release-notes-may-2015.md)
-   + 2014 {#2014}
-      + [Versionshinweise: August 2014](release-notes/2014/release-notes-august-2014.md)
-      + [Versionshinweise: Dezember 2014](release-notes/2014/release-notes-december-2014.md)
-      + [Versionshinweise: Februar 2014](release-notes/2014/release-notes-february-2014.md)
-      + [Versionshinweise: Januar 2014](release-notes/2014/release-notes-january-2014.md)
-      + [Versionshinweise: Juli 2014](release-notes/2014/release-notes-july-2014.md)
-      + [Versionshinweise: Juni 2014](release-notes/2014/release-notes-june-2014.md)
-      + [Versionshinweise: März 2014](release-notes/2014/release-notes-march-2014.md)
-      + [Versionshinweise: Mai 2014](release-notes/2014/release-notes-may-2014.md)
-      + [Versionshinweise: Oktober 2014](release-notes/2014/release-notes-october-2014.md)
-   + 2013 {#2013}
-      + [Versionshinweise: April 2013](release-notes/2013/release-notes-april-2013.md)
-      + [Versionshinweise: August 2013](release-notes/2013/release-notes-august-2013.md)
-      + [Versionshinweise: Dezember 2013](release-notes/2013/release-notes-december-2013.md)
-      + [Versionshinweise: Februar 2013](release-notes/2013/release-notes-february-2013.md)
-      + [Versionshinweise: Januar 2013](release-notes/2013/release-notes-january-2013.md)
-      + [Versionshinweise: Juli 2013](release-notes/2013/release-notes-july-2013.md)
-      + [Versionshinweise: Juni 2013](release-notes/2013/release-notes-june-2013.md)
-      + [Versionshinweise: März 2013](release-notes/2013/release-notes-march-2013.md)
-      + [Versionshinweise: Mai 2013](release-notes/2013/release-notes-may-2013.md)
-      + [Versionshinweise: Oktober 2013](release-notes/2013/release-notes-october-2013.md)
-      + [Versionshinweise: September 2013](release-notes/2013/release-notes-september-2013.md)
-   + 2012 {#2012}
-      + [Versionshinweise: April 2012](release-notes/2012/release-notes-april-2012.md)
-      + [Versionshinweise: Dezember 2012](release-notes/2012/release-notes-december-2012.md)
-      + [Versionshinweise: Januar/Februar 2012](release-notes/2012/release-notes-jan-feb-2012.md)
-      + [Versionshinweise: Juni 2012](release-notes/2012/release-notes-june-2012.md)
-      + [Versionshinweise: März 2012](release-notes/2012/release-notes-march-2012.md)
-      + [Versionshinweise: Mai 2012](release-notes/2012/release-notes-may-2012.md)
-      + [Versionshinweise: Oktober 2012](release-notes/2012/release-notes-october-2012.md)
-      + [Versionshinweise: September 2012](release-notes/2012/release-notes-september-2012.md)
-   + [2010-2011](release-notes/2010-2011.md)
-   + [2007-2009](release-notes/2007-2009.md)
+   + Frühere Version {#previous-releases}
+      + 2021 {#2021}
+         + [Versionshinweise: Jan. 21](previous-releases/release-notes/2021/release-notes-jan-21.md)
+         + [Versionshinweise: Mai 21](previous-releases/release-notes/2021/release-notes-may-21.md)
+      + 2020 {#2020}
+         + [Versionshinweise: Januar 20](previous-releases/release-notes/2020/release-notes-jan-20.md)
+         + [Versionshinweise: Februar 2020](previous-releases/release-notes/2020/release-notes-feb-20.md)
+         + [Versionshinweise: Juni &#39;20](previous-releases/release-notes/2020/release-notes-june-20.md)
+         + [Versionshinweise: Juli &#39;20](previous-releases/release-notes/2020/release-notes-july-20.md)
+         + [Versionshinweise: Okt. 20](previous-releases/release-notes/2020/release-notes-oct-20.md)
+      + 2019 {#2019}
+         + [Versionshinweise: August &#39;19](previous-releases/release-notes/2019/release-notes-august-19.md)
+         + [Versionshinweise: Juni 19](previous-releases/release-notes/2019/release-notes-june-19.md)
+         + [Versionshinweise: Frühjahr 19](previous-releases/release-notes/2019/release-notes-spring-19.md)
+         + [Versionshinweise: Winter &#39;19](previous-releases/release-notes/2019/release-notes-winter-19.md)
+      + 2018 {#2018}
+         + [Versionshinweise: Herbst 18](previous-releases/release-notes/2018/release-notes-fall-18.md)
+         + [Versionshinweise: Frühjahr 18](previous-releases/release-notes/2018/release-notes-spring-18.md)
+         + [Versionshinweise: Winter &#39;18](previous-releases/release-notes/2018/release-notes-winter-18.md)
+      + 2017 {#2017}
+         + [Versionshinweise: ABM-Verbesserungen vom April 17](previous-releases/release-notes/2017/release-notes-april-17-abm-enhancements.md)
+         + [Versionshinweise: ABM-Verbesserungen vom 17. August](previous-releases/release-notes/2017/release-notes-august-17-abm-enhancements.md)
+         + [Versionshinweise: Herbst 17](previous-releases/release-notes/2017/release-notes-fall-17.md)
+         + [Versionshinweise: Frühjahr 17](previous-releases/release-notes/2017/release-notes-spring-17.md)
+         + [Versionshinweise: Sommer 17](previous-releases/release-notes/2017/release-notes-summer-17.md)
+         + [Versionshinweise: Winter &#39;17](previous-releases/release-notes/2017/release-notes-winter-17.md)
+      + 2016 {#2016}
+         + [Versionshinweise: Herbst 16](previous-releases/release-notes/2016/release-notes-fall-16.md)
+         + [Versionshinweise: Frühjahr 16](previous-releases/release-notes/2016/release-notes-spring-16.md)
+         + [Versionshinweise: Sommer 16](previous-releases/release-notes/2016/release-notes-summer-16.md)
+         + [Versionshinweise: Winter &#39;16](previous-releases/release-notes/2016/release-notes-winter-16.md)
+      + 2015 {#2015}
+         + [Versionshinweise: April 2015](previous-releases/release-notes/2015/release-notes-april-2015.md)
+         + [Versionshinweise: Herbst 15](previous-releases/release-notes/2015/release-notes-fall-15.md)
+         + [Versionshinweise: Februar 2015](previous-releases/release-notes/2015/release-notes-february-2015.md)
+         + [Versionshinweise: Januar 2015](previous-releases/release-notes/2015/release-notes-january-2015.md)
+         + [Versionshinweise: Juli 2015](previous-releases/release-notes/2015/release-notes-july-2015.md)
+         + [Versionshinweise: Juni 2015](previous-releases/release-notes/2015/release-notes-june-2015.md)
+         + [Versionshinweise: März 2015](previous-releases/release-notes/2015/release-notes-march-2015.md)
+         + [Versionshinweise: Mai 2015](previous-releases/release-notes/2015/release-notes-may-2015.md)
+      + 2014 {#2014}
+         + [Versionshinweise: August 2014](previous-releases/release-notes/2014/release-notes-august-2014.md)
+         + [Versionshinweise: Dezember 2014](previous-releases/release-notes/2014/release-notes-december-2014.md)
+         + [Versionshinweise: Februar 2014](previous-releases/release-notes/2014/release-notes-february-2014.md)
+         + [Versionshinweise: Januar 2014](previous-releases/release-notes/2014/release-notes-january-2014.md)
+         + [Versionshinweise: Juli 2014](previous-releases/release-notes/2014/release-notes-july-2014.md)
+         + [Versionshinweise: Juni 2014](previous-releases/release-notes/2014/release-notes-june-2014.md)
+         + [Versionshinweise: März 2014](previous-releases/release-notes/2014/release-notes-march-2014.md)
+         + [Versionshinweise: Mai 2014](previous-releases/release-notes/2014/release-notes-may-2014.md)
+         + [Versionshinweise: Oktober 2014](previous-releases/release-notes/2014/release-notes-october-2014.md)
+      + 2013 {#2013}
+         + [Versionshinweise: April 2013](previous-releases/release-notes/2013/release-notes-april-2013.md)
+         + [Versionshinweise: August 2013](previous-releases/release-notes/2013/release-notes-august-2013.md)
+         + [Versionshinweise: Dezember 2013](previous-releases/release-notes/2013/release-notes-december-2013.md)
+         + [Versionshinweise: Februar 2013](previous-releases/release-notes/2013/release-notes-february-2013.md)
+         + [Versionshinweise: Januar 2013](previous-releases/release-notes/2013/release-notes-january-2013.md)
+         + [Versionshinweise: Juli 2013](previous-releases/release-notes/2013/release-notes-july-2013.md)
+         + [Versionshinweise: Juni 2013](previous-releases/release-notes/2013/release-notes-june-2013.md)
+         + [Versionshinweise: März 2013](previous-releases/release-notes/2013/release-notes-march-2013.md)
+         + [Versionshinweise: Mai 2013](previous-releases/release-notes/2013/release-notes-may-2013.md)
+         + [Versionshinweise: Oktober 2013](previous-releases/release-notes/2013/release-notes-october-2013.md)
+         + [Versionshinweise: September 2013](previous-releases/release-notes/2013/release-notes-september-2013.md)
+      + 2012 {#2012}
+         + [Versionshinweise: April 2012](previous-releases/release-notes/2012/release-notes-april-2012.md)
+         + [Versionshinweise: Dezember 2012](previous-releases/release-notes/2012/release-notes-december-2012.md)
+         + [Versionshinweise: Januar/Februar 2012](previous-releases/release-notes/2012/release-notes-jan-feb-2012.md)
+         + [Versionshinweise: Juni 2012](previous-releases/release-notes/2012/release-notes-june-2012.md)
+         + [Versionshinweise: März 2012](previous-releases/release-notes/2012/release-notes-march-2012.md)
+         + [Versionshinweise: Mai 2012](previous-releases/release-notes/2012/release-notes-may-2012.md)
+         + [Versionshinweise: Oktober 2012](previous-releases/release-notes/2012/release-notes-october-2012.md)
+         + [Versionshinweise: September 2012](previous-releases/release-notes/2012/release-notes-september-2012.md)
+      + [2010-2011](previous-releases/release-notes/2010-2011.md)
+      + [2007-2009](previous-releases/release-notes/2007-2009.md)
