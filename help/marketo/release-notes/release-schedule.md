@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 5%
@@ -37,17 +37,17 @@ _Die Veröffentlichungsdaten können sich ändern_
    <th width="250px">Fortschritt</th> 
   </tr> 
   <tr> 
-   <td colspan="1">Januar 21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-jan-21.md">Januar 21</a></td> 
    <td colspan="1">15. Januar 2021</td> 
    <td colspan="1">Versendet</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Mai 21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-may-21.md">Mai 21</a></td> 
    <td colspan="1">7. Mai 2021</td> 
    <td colspan="1">Versendet</td> 
   </tr> 
   <tr> 
-   <td colspan="1">August '21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/current.md">August '21</a></td> 
    <td colspan="1">20. August 2021</td> 
    <td colspan="1">Versendet</td> 
   </tr> 

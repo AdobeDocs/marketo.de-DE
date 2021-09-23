@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Versionshinweise - 19. August - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - August 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 4%
@@ -20,7 +20,7 @@ Die folgenden Funktionen wurden am 16. August 2019 veröffentlicht.
 
 ## Kern-Marketo-Einbindung {#core-marketo-engage}
 
-* **Erweiterbares Webinar-Framework**: Sparen Sie Zeit mit dem neuen vordefinierten Webinar-Framework von Marketo (eingeführt in den [Winter 19-Versionshinweisen](/help/marketo/release-notes/2019/release-notes-winter-19.md), die Daten von Webinar-Anbietern nahtlos an Marketo weitergeben und umgekehrt. In diesem neuen Framework sind jetzt Cvent und Zoom verfügbar.
+* **Erweiterbares Webinar-Framework**: Sparen Sie Zeit mit dem neuen vordefinierten Webinar-Framework von Marketo (eingeführt in den Winter-Versionshinweisen zu 19), mit dem Daten von Webinar-Anbietern nahtlos an Marketo weitergegeben werden und umgekehrt. In diesem neuen Framework sind jetzt Cvent und Zoom verfügbar.
 * **API-Update für Smart Campaign**: Verwalten Sie die Lebenszyklusfunktionen intelligenter Kampagnen, während wir die Benutzeroberfläche von CRUD (Erstellen, Lesen, Aktualisieren, Löschen) abrunden.
 * **Änderung der E-Mail-Kopfzeilen-API**: Für die Update-E-Mail-Header-API ist es nicht mehr erforderlich, dass eine E-Mail über eine angehängte Vorlage verfügt, um Kopfzeilenfelder wie die Betreffzeile zu aktualisieren.
 
