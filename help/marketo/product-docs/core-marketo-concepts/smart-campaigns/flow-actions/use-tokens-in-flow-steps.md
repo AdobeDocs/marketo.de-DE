@@ -1,57 +1,54 @@
 ---
 unique-page-id: 1146995
-description: Token in Flussschritten verwenden - Marketo Docs - Produktdokumentation
-title: Tokens in Flussschritten verwenden
+description: Verwenden von Token in Flussschritten - Marketo Docs - Produktdokumentation
+title: Verwenden von Token in Flussschritten
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 8%
+source-wordcount: '194'
+ht-degree: 6%
 
 ---
 
-# Token in Flussschritten {#use-tokens-in-flow-steps} verwenden
-
->[!AVAILABILITY]
->
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+# Verwenden von Token in Flussschritten {#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >
->[hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-Ein Token ist eine Variable. Sie verwenden sie in E-Mails, Landingpages und intelligenten Kampagnen, um Ihr Leben zu vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussschritten, Webhooks, E-Mails und Landingpages verwenden. Sie können Token verwenden, um variablen Inhalt in die folgenden Flussschritte einzuschließen:
+Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intelligenten Kampagnen verwenden, um Ihr Leben zu vereinfachen. Sie können [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussprofilen, Webhooks, E-Mails und Landingpages verwenden. Sie können Token verwenden, um Variableninhalte in diese Flussschritte einzuschließen:
 
 * Datenwert ändern
 * Programmmitgliedsdaten ändern
 * Interessanter Moment
-* Schritte zur Kampagne von Salesforce (Hinzufügen, Entfernen, Ändern des Status)
+* Salesforce Campaign-Schritte (Hinzufügen, Entfernen, Ändern des Status)
 * Aufgabe erstellen
-* Warnung senden (nur in Trigger-Kampagnen)
+* Warnhinweis senden (nur in Trigger-Kampagnen)
 
-1. Geben Sie im Flussschritt `{{` ein, um Token-Kategorien abzurufen. ![](assets/image2014-9-22-14-3a3-3a17.png)
+1. Geben Sie im Flussschritt `{{` ein, um Tokenkategorien abzurufen.
+
+   ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >Sehen Sie sich [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) für eine Liste verschiedener verfügbarer Token an.
+   >Unter [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) finden Sie eine Liste verschiedener verfügbarer Token.
 
-1. Tippen Sie weiter, bis Sie das gewünschte Token gefunden haben, und klicken Sie auf die gewünschte Auswahl.
+1. Fahren Sie mit der Eingabe fort, bis Sie das gewünschte Token finden und klicken Sie zur Auswahl.
 
    ![](assets/image2014-9-22-14-3a3-3a48.png)
 
    >[!TIP]
    >
-   >Es können mehrere Token in den Arbeitsschritten &quot;Interessanter Moment&quot;, &quot;Aufgabe erstellen&quot;und &quot;Warnhinweis senden&quot;verwendet werden.
+   >Es können mehrere Token in den Schritten &quot;Interessanter Moment&quot;, &quot;Aufgabe erstellen&quot;und &quot;Warnhinweisfluss senden&quot;verwendet werden.
 
    >[!NOTE]
    >
-   >Benutzerdefinierte FeldToken für Programm-Member können verwendet werden in: Erstellen Sie Aufgaben, erstellen Sie Aufgaben in Microsoft, interessante Momente, ändern Sie die Aktionen zum Datenwertfluss und Webhooks.
+   >Benutzerdefinierte Feld-Token für Programmmitglieder können in folgenden Bereichen verwendet werden: Aufgabe erstellen, Aufgabe in Microsoft erstellen, interessante Momente, Flussaktionen für Datenwerte ändern und Webhooks.
 
-   Cool! Die Daten werden beim Ausführen der intelligenten Kampagne aus dem Token gezogen.
+   Cool! Die Daten werden beim Ausführen der Smart-Kampagne aus dem Token abgerufen.
 
    >[!MORELIKETHIS]
    >
    >* [Verwalten von My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
-   >* [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Grundlegendes zu meinen Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
 
