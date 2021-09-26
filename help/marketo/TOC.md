@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ff87419faf7a8cbe59ce781b892083475476ce61
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
 source-wordcount: '8099'
 ht-degree: 5%
@@ -399,7 +399,7 @@ ht-degree: 5%
          + Statische Listen {#static-lists}
             + [Erstellen einer statischen Liste](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Senden einer Liste an Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
-            + [Adobe Experience Cloud-Segment in eine statische Marketo-Liste pushen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
+            + [Adobe Experience Platform-Segment in eine statische Marketo-Liste pushen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
             + [Grundlegendes zu statischen Listen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programme {#programs}
          + Erstellen von Programmen {#creating-programs}
