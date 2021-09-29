@@ -3,9 +3,9 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -18,49 +18,75 @@ Dialogfelder sind die einzelnen Chatunterhaltungen, die Sie einrichten werden. E
 
 1. Klicken Sie auf **Dialogfelder**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Klicken Sie auf die Schaltfläche **Neu erstellen** .
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Geben Sie einen Namen ein (Beschreibung ist optional), legen Sie die Prioritätsstufe fest und klicken Sie auf **Speichern**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
->Die Prioritätsstufe bestimmt, wo das Dialogfeld auf Ihrer Liste angezeigt wird (z. B.: priority = 1 bedeutet, dass es ganz oben sein wird).
+>Die Prioritätsstufe bestimmt, wo das Dialogfeld in Ihrer Liste angezeigt wird (z. B.: priority = 1 bedeutet, dass es ganz oben sein wird).
 
 ## Zielgruppenkriterien {#audience-criteria}
 
 Ähnlich wie bei Smart-Lists in Marketo ermöglichen Ihnen Zielgruppenkriterien-Attribute die Definition Ihrer Zielgruppe. Sie können bekannte oder unbekannte Leads mit abgeleiteten, Lead- oder Unternehmensattributen (oder einer Kombination daraus) als Ziel auswählen.
 
-Es gibt _viele_ Attributkombinationen, aus denen Sie auswählen können. In diesem Beispiel richten wir uns an alle bekannten Leads in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
+**Bekannte Leads**
 
-1. Ziehen Sie das Attribut Lead-Status nach rechts.
+Es gibt _viele_ Attributkombinationen, aus denen Sie auswählen können. In diesem Beispiel richten wir uns an alle **bekannten Leads** in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
 
-PICC
+1. Ziehen Sie das Attribut **Lead-Status** und ziehen Sie es nach rechts.
+
+   ![](assets/dialogues-4.png)
 
 1. __ Die Liste wird standardmäßig festgelegt. Geben Sie im Feld Werte auswählen eine Zertifizierungsstelle ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Ziehen Sie das Attribut Unternehmensgröße nach rechts.
+1. Ziehen Sie das Attribut **Unternehmensgröße** und ziehen Sie es an die Stelle, an der _steht. Ziehen Sie ein Attribut hierher_.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Klicken Sie auf das Dropdown-Menü für den Operator und wählen Sie Größer als aus.
+   >[!NOTE]
+   >
+   >Sie können auch ein Attribut auswählen, indem Sie auf das Symbol **+** klicken.
 
-PICC
+1. Klicken Sie auf das Dropdown-Menü für den Operator und wählen Sie **Größer als** aus.
+
+   ![](assets/dialogues-7.png)
 
 1. Geben Sie 50 ein und klicken Sie auf eine andere Stelle auf dem Bildschirm, um zu speichern.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-ERFASSEN VON ANON-LEADS
+**Anonyme Leads**
 
-HINWEIS - Vielleicht wurde erwähnt, wie der Anwendungsfall von Werken/Anzeigen-Anon lautet, Lead-E-Mail ist leer
+Es gibt eine einfache Möglichkeit, Leads gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel richten wir uns an alle **anonymen Leads**, die sich im Raum New York befinden.
+
+1. Ziehen Sie das Attribut **Lead-E-Mail** und ziehen Sie es nach rechts.
+
+   ![](assets/dialogues-9.png)
+
+1. Klicken Sie auf das Dropdown-Menü für den Operator und wählen Sie **Ist leer** aus.
+
+   ![](assets/dialogues-10.png)
+
+1. Ziehen Sie das Attribut **Inferred State** und ziehen Sie es an die Stelle, an der _steht. Ziehen Sie ein Attribut hierher_.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >ERLÄUTERN SIE IHRE ANGEBOTE.
+
+1. __ Die Liste wird standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
+
+   ![](assets/dialogues-12.png)
 
 ## Gruppen hinzufügen {#add-groups}
 
@@ -70,7 +96,7 @@ ABSCHLIESSEN
 
 ## Ziel {#target}
 
-Hier geben Sie die spezifischen URLs ein, für die ein bestimmtes Dialogfeld angezeigt werden soll.
+Hier geben Sie die URL(s) ein, für die ein bestimmtes Dialogfeld angezeigt werden soll.
 
 Zulässige Formate:
 
@@ -110,8 +136,6 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
   <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte nach "Informationserfassung"im Stream).</td>
  </tr>
 </table>
-
-MÖGLICHER EIGENER ABSCHNITT
 
 BEISPIEL ANZEIGEN UNTEN
 
