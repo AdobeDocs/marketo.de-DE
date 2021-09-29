@@ -3,9 +3,9 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell 
 
 >[!NOTE]
 >
->Die Prioritätsstufe bestimmt, wo das Dialogfeld in Ihrer Liste angezeigt wird (z. B.: Priorität 1 bedeutet, dass sie ganz oben steht).
+>Die Priorität bestimmt, welches Dialogfeld einem Besucher angezeigt wird, wenn er sich für mehrere Dialogfelder gleichzeitig qualifiziert.
 
 ## Zielgruppenkriterien {#audience-criteria}
 

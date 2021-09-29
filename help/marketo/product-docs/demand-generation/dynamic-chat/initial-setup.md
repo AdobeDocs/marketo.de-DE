@@ -3,9 +3,9 @@ description: Ersteinrichtung - Marketo Docs - Produktdokumentation
 title: Ersteinrichtung
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Gehen Sie wie folgt vor, um einen dynamischen Chat einzurichten.
 
 ## Berechtigungen in Marketo hinzufügen {#add-permissions-in-marketo}
 
-Nachdem Sie Benutzer in der Admin Console in hinzugefügt haben, müssen Sie Berechtigungen in Marketo erteilen.
+Nachdem Sie Benutzer in der Admin Console in hinzugefügt haben, müssen Sie in Marketo Berechtigungen erteilen, damit sie über Marketo auf den Tastaturbefehl für dynamischen Chat zugreifen können.
 
 1. Klicken Sie in Marketo auf **Admin**.
 
@@ -46,4 +46,4 @@ Nachdem Sie Benutzer in der Admin Console in hinzugefügt haben, müssen Sie Ber
 >
 >Führen Sie die Schritte in der oben aufgeführten Reihenfolge aus. Wenn jemand zuerst eine Berechtigung in Marketo erhält, wird ihm die Kachel &quot;Dynamischer Chat&quot;angezeigt, aber er hat keinen Benutzerzugriff.
 
-Der nächste Schritt ist [Zugriff auf den dynamischen Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+Der nächste Schritt ist [Verbinden des dynamischen Chat mit Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
