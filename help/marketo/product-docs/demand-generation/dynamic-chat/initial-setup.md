@@ -3,16 +3,18 @@ description: Ersteinrichtung - Marketo Docs - Produktdokumentation
 title: Ersteinrichtung
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # Ersteinrichtung {#initial-setup}
 
-Intro Text
+## Admin Console aufrufen {#access-admin-console}
+
+Gehen Sie wie folgt vor, um einen dynamischen Chat einzurichten.
 
 >[!NOTE]
 >
@@ -20,16 +22,28 @@ Intro Text
 
 1. Nachdem der dynamische Chat für Ihre Marketo-Instanz aktiviert wurde, erhält der vorgesehene Systemadministrator eine Begrüßungs-E-Mail. Klicken Sie in dieser E-Mail auf **Erste Schritte**.
 
-   PICC
+   ![](assets/initial-setup-1.png)
 
 1. Wenn Sie zuvor auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zur Adobe Admin Console. Falls nicht, richten Sie [Ihre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) ein.
 
-   PICC
+   ![](assets/initial-setup-2.png)
 
-1. Benutzer hinzufügen (Schritte folgen)
+## Benutzer hinzufügen {#add-users}
 
-Der zweite Schritt - befindet sich in Marketo - Nachdem Sie Benutzer in Admin Console hinzugefügt haben, kehren sie zurück zu Marketo (Benutzer und Rollen) und fügen allen Agenten die DC-Berechtigung hinzu [COMING LATE OCT, kein Screenshot]
+1. Nach der Anmeldung bei der Admin Console müssen Sie als Nächstes Benutzer hinzufügen. Wir haben diesen Prozess [hier dokumentiert](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
->[!NOTE]
+## Berechtigungen in Marketo hinzufügen {#add-permissions-in-marketo}
+
+Nachdem Sie Benutzer in der Admin Console in hinzugefügt haben, müssen Sie Berechtigungen in Marketo erteilen.
+
+1. Klicken Sie in Marketo auf **Admin**.
+
+1. Doppelklicken Sie auf den gewünschten Benutzer.
+
+1. Fügen Sie **Zugriff auf den dynamischen Chat** hinzu und klicken Sie auf **Speichern**.
+
+>[!IMPORTANT]
 >
->Führen Sie die Schritte in der angegebenen Reihenfolge aus. Wenn jemand zuerst eine Berechtigung in Marketo erhält, wird ihm die Kachel &quot;Dynamischer Chat&quot;angezeigt, aber er hat keinen Benutzerzugriff.
+>Führen Sie die Schritte in der oben aufgeführten Reihenfolge aus. Wenn jemand zuerst eine Berechtigung in Marketo erhält, wird ihm die Kachel &quot;Dynamischer Chat&quot;angezeigt, aber er hat keinen Benutzerzugriff.
+
+Der nächste Schritt ist [Zugriff auf den dynamischen Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).

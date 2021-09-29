@@ -3,9 +3,9 @@ description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdoku
 title: Übersicht über dynamischen Chat
 hide: true
 hidefromtoc: true
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,9 @@ Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen
 >
 >Der dynamische Chat wird derzeit eingeführt, wobei alle Abonnements, die Zugriff nach DATE haben sollen, verfügbar sind.
 
-## Dynamischen Chat einrichten {#access-dynamic-chat}
-
-NACHDEM DER TITEL HINZUGEFÜGT WURDE... Führen Sie die folgenden Schritte aus, um zu beginnen.
-
-1. Klicken Sie in My Marketo auf die Kachel **Dynamischer Chat** .
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Wenn Sie nicht sehen...wenden Sie sich an Ihren Marketo-Administrator).
-
-1. Wenn Sie zuvor auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zum dynamischen Chat. Falls nicht, richten Sie [Ihre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) ein.
-
-   PICC
-
-1. Um Ihre Marketo-Instanz zu verbinden, wählen Sie **Integrationen** aus.
-
-   PICC
-
-1. Klicken Sie hier auf ?TEXT EINFÜGEN?.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Je nach Größe Ihrer Datenbank kann es zwischen 5 Minuten und 8 Stunden dauern, bis die Synchronisation abgeschlossen ist. Die durchschnittliche Synchronisierungszeit beträgt 60 Minuten.
-
 ## Integrationen {#integrations}
 
-Integrationen sind die erste Registerkarte, die Sie beim Zugriff auf den dynamischen Chat aufrufen möchten. Hier synchronisieren Sie Ihre Marketo-Abonnements, sodass Sie Ihre Marketo-Datenbankdaten zur Identifizierung von Site-/Chat-Besuchern verwenden können ([siehe Schritt 3 oben](#access-dynamic-chat)).
+Eine wichtige Komponente des dynamischen Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu arbeiten. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Es kann bis zu 24 Stunden dauern, bis die erste Synchronisation [einmalige Synchronisation](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) abgeschlossen ist.
 
 ## Dialogfelder {#dialogues}
 
@@ -68,23 +40,27 @@ Sie können auch den Text der Einladungs-E-MAIL anpassen? , der dem Besucher bei
 
 Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiedenen Dialoge geplant wurden. Hier finden Sie die E-Mail-Adresse des Leads, der den Termin gebucht hat, mit welchem Agenten er den Termin gebucht hat, wann der Termin geplant ist und ob das Treffen stattgefunden hat oder nicht.
 
-PICC?
-
 ## Routing {#routing}
 
 Hier können Sie eine Liste aller Agenten sehen, die ihre Kalender verbunden haben, sowie die Reihenfolge, in der sie den Besuchern der Website präsentiert werden Meetings gehen im Robin-Stil. Wenn Sie also fünf Agenten haben und drei Agenten das letzte Meeting hatten, erhalten Agent vier das nächste, gefolgt von fünf und dann zurück zum Agenten.
 
 ## FAQs {#faq}
 
-—JA? LOL—
-
 **Ermöglicht der dynamische Chat einen Live-Chat?**
 
 Nein, es werden nur vordefinierte Antworten verwendet.
 
+**Wie kann ich anonyme Leads ansprechen?**
+
+In Ihrem Dialogfeld müssten Sie das Attribut _Lead-E-Mail ist leer_ verwenden.
+
 **Unterstützen Sie KI/NLP-Funktionen?**
 
 Die KI-/NLP-Funktionalität wird nicht unterstützt.
+
+**Wie lange werden Daten für Berichte gespeichert?**
+
+90 Tage.
 
 **Bietet Dynamic Chat neben Englisch auch andere Sprachen?**
 

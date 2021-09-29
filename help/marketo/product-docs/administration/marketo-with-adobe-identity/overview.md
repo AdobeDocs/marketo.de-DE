@@ -3,9 +3,9 @@ description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 hide: true
 hidefromtoc: true
-source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '671'
 ht-degree: 1%
 
 ---
@@ -98,3 +98,9 @@ Anz. Der Workflow Benutzereinladung ist nicht mehr aktiv, wenn ein Abonnement IM
 **Haben wir für Adobe IMS die Möglichkeit, Adobe ID, Enterprise ID oder Federated ID zu verwenden?**
 
 Ja, Sie bestimmen den Identitätstyp, den Ihre Organisation unterstützen soll. Weitere Infos [hier](https://helpx.adobe.com/enterprise/using/identity.html) und [hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+>[!MORELIKETHIS]
+>
+>* [Admin-Einrichtung](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [Hinzufügen oder Entfernen eines Produkt-Admins](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [Hinzufügen oder Entfernen von Benutzern](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)

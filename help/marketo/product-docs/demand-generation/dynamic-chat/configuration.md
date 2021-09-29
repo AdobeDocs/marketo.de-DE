@@ -3,9 +3,9 @@ description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Erfahren Sie, wie Sie das Erscheinungsbild Ihres Chatbot-Dialogfensters anpassen
 
 Um zu beginnen, klicken Sie auf **Konfiguration**.
 
-PICC
+![](assets/configuration-1.png)
 
 Es gibt verschiedene Anpassungsoptionen.
 
-PICC (aus dem ganzen Chatbox)
+![](assets/configuration-2.png)
 
 ## Registerkarte &quot;Stil&quot; {#style-tab}
 
@@ -30,35 +30,33 @@ Hier definieren Sie das Erscheinungsbild des Chatbots, in dem Ihre Dialogfelder 
 
 Die Farbe jeder Kategorie wird durch einen [hexadezimalen Farbwert](https://color.adobe.com/create/color-wheel) bestimmt (z. B. weiß = #ffffff, rot = #bf1932 usw.).
 
-PICC
+![](assets/configuration-3.png)
 
-Der Anker ermöglicht es Ihrem Site-Besucher, die Chatbox zu öffnen/zu schließen. Sie können auswählen, ob dieses Symbol unten rechts oder unten links angezeigt werden soll. Sie können auch den Abstand zwischen dem Chat und dem Symbol erhöhen/verringern.
+Der Anker ermöglicht es Ihrem Site-Besucher, die Chatbox zu öffnen/zu schließen. Sie können auswählen, ob dieses Symbol unten rechts oder unten links angezeigt werden soll. Sie können auch den Abstand zwischen dem Symbol und dem unteren Rand der Webseite erhöhen/verringern.
 
-PICC der Ankerposten
-
-PICC des Abstands
+![](assets/configuration-4.png)
 
 **Agenteneinstellungen**
 
 In den Agenteneinstellungen können Sie Ihrer Chatbox eine Bezeichnung hinzufügen (z. B.: &quot;Adobe Bot&quot;), die oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern.
 
-PICC des Einstellungsnamens
+![](assets/configuration-5.png)
 
-PICC der Festlegung der Verzögerung
+Wenn Sie die Änderungen vorgenommen haben, klicken Sie auf **Speichern**.
 
-PICC der Wahl des Avatars
+![](assets/configuration-6.png)
 
 ## Registerkarte &quot;Datenschutz&quot; {#privacy-tab}
 
 Klicken Sie auf die Registerkarte **Datenschutz** , um die URL der Datenschutzrichtlinie Ihrer Site hinzuzufügen/zu bearbeiten (optional).
 
-PICC
+![](assets/configuration-7.png)
 
 ## Registerkarte &quot;Installation&quot; {#installation-tab}
 
 Damit der Chat-Bot auf Ihrer Website angezeigt wird, müssen Sie zunächst das Dynamic Chat-JavaScript-Snippet installieren. Klicken Sie auf diese Registerkarte, um den erforderlichen Code zu suchen/zu kopieren. Wenn Sie mit diesem Vorgang nicht vertraut sind, wenden Sie sich an Ihr Webteam oder Ihre IT-Abteilung, um Hilfe zu erhalten.
 
-PICC
+![](assets/configuration-8.png)
 
 >[!NOTE]
 >

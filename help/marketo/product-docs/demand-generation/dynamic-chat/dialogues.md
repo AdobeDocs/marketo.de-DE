@@ -3,10 +3,10 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
-ht-degree: 0%
+source-wordcount: '523'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->PRIORITÄTSEBENE ERKLÄREN
+>Die Prioritätsstufe bestimmt, wo das Dialogfeld auf Ihrer Liste angezeigt wird (z. B.: priority = 1 bedeutet, dass es ganz oben sein wird).
 
 ## Zielgruppenkriterien {#audience-criteria}
 
@@ -114,3 +114,7 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
 MÖGLICHER EIGENER ABSCHNITT
 
 BEISPIEL ANZEIGEN UNTEN
+
+## Berichte {#reports}
+
+Text
