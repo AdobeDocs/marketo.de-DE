@@ -3,9 +3,9 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -139,7 +139,9 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
 
 **Erstellen eines Streams**
 
-Es müssen _viele_ Stream-Kombinationen erstellt werden. In diesem Beispiel werden wir eine Frage stellen und vorbereiten .
+Es müssen _viele_ Stream-Kombinationen erstellt werden. In diesem Beispiel stellen wir eine Ja- oder Nein-Frage und bereiten einige Antworten vor.
+
+Beispiel
 
 ## Berichte {#reports}
 
