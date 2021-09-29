@@ -3,16 +3,16 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 1%
 
 ---
 
 # Dialogfelder {#dialogues}
 
-Dialogfelder sind die einzelnen Chatunterhaltungen, die Sie einrichten werden. Erfahren Sie, wie Sie sie visuell anpassen, bestimmen, auf welchen Seiten sie erscheinen, und entscheiden, was gesagt wird und wer sie sieht.
+Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell anpassen, bestimmen, auf welchen Seiten sie erscheinen, und entscheiden, was gesagt wird und wer sie sieht.
 
 ## Neues Dialogfeld erstellen {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ Dialogfelder sind die einzelnen Chatunterhaltungen, die Sie einrichten werden. E
 
 >[!NOTE]
 >
->Die Prioritätsstufe bestimmt, wo das Dialogfeld in Ihrer Liste angezeigt wird (z. B.: priority = 1 bedeutet, dass es ganz oben sein wird).
+>Die Prioritätsstufe bestimmt, wo das Dialogfeld in Ihrer Liste angezeigt wird (z. B.: Priorität 1 bedeutet, dass sie ganz oben steht).
 
 ## Zielgruppenkriterien {#audience-criteria}
 
@@ -82,7 +82,7 @@ Es gibt eine einfache Möglichkeit, Leads gezielt anzusprechen, die noch nicht i
 
    >[!NOTE]
    >
-   >ERLÄUTERN SIE IHRE ANGEBOTE.
+   >Wenn ein Besucher Ihre Website besucht, werden diese von [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies gesetzt und in das System eingefügt. Wir schauen ihre IP in einer speziellen Datenbank nach und schließen alle möglichen guten Informationen.
 
 1. __ Die Liste wird standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
@@ -137,8 +137,38 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
  </tr>
 </table>
 
-BEISPIEL ANZEIGEN UNTEN
+**Erstellen eines Streams**
+
+Es müssen _viele_ Stream-Kombinationen erstellt werden. In diesem Beispiel werden wir eine Frage stellen und vorbereiten .
 
 ## Berichte {#reports}
 
-Text
+Im Tab Berichte können Sie Daten aus den letzten 90 Tagen anzeigen. Jede Kategorie wird unten definiert.
+
+<table>
+ <tr>
+  <td><strong>Ausgelöste Gesamtzahl</strong></td>
+  <td>Wird jedes Mal erhöht, wenn sich ein Besucher für ein Dialogfeld qualifiziert/angezeigt wird.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Eingebunden</strong></td>
+  <td>Wird jedes Mal erhöht, wenn ein Besucher auf den Chatbot-Anker klickt, um das Dialogfeld zu öffnen.</td>
+ </tr>
+ <tr>
+  <td><strong>Abgeschlossen</strong></td>
+  <td>Wird jedes Mal erhöht, wenn ein Besucher das Ende einer Verzweigung in einem Dialogfeld erreicht.</td>
+ </tr>
+ <tr>
+  <td><strong>Erfasste Leads</strong></td>
+  <td>Wird jedes Mal erhöht, wenn ein Besucher eine gültige E-Mail-Adresse in einem Dialogfluss bereitstellt.</td>
+ </tr>
+ <tr>
+  <td><strong>Eingeschlossene Sitzungen</strong></td>
+  <td>Wird jedes Mal erhöht, wenn ein Besucher einen Termin erfolgreich über den Chatbot einplant.</td>
+ </tr>
+ <tr>
+  <td><strong>Erreichte Ziele</strong></td>
+  <td>Wird jedes Mal erhöht, wenn ein Besucher in einem beliebigen Dialogfluss ein Ziel erreicht.</td>
+ </tr>
+</table>
