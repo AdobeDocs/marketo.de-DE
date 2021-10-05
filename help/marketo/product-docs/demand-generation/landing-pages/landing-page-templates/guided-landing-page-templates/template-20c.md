@@ -3,16 +3,16 @@ unique-page-id: 10092916
 description: Vorlage 20C - Marketo Docs - Produktdokumentation
 title: Vorlage 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Vorlage 20C {#template-20c}
 
-[Vorlage 20C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html) herunterladen
 
 ![](assets/template-20c.png)
 
@@ -25,6 +25,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Vier Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)

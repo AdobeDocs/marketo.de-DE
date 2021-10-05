@@ -3,16 +3,16 @@ unique-page-id: 9437556
 description: Vorlage 11A - Marketo Docs - Produktdokumentation
 title: Vorlage 11A
 exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Vorlage 11A {#template-11a}
 
-[Vorlage 11A herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html) herunterladen
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -26,6 +26,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Vier Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)

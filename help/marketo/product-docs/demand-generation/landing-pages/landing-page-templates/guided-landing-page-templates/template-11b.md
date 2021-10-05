@@ -3,16 +3,16 @@ unique-page-id: 9437559
 description: Vorlage 11B - Marketo Docs - Produktdokumentation
 title: Vorlage 11B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Vorlage 11B {#template-11b}
 
-[Vorlage 11B herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html) herunterladen
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -26,6 +26,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Vier Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 11B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)

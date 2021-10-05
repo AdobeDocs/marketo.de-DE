@@ -3,16 +3,16 @@ unique-page-id: 8783917
 description: Vorlage 5B - Marketo-Dokumente - Produktdokumentation
 title: Vorlage 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
-source-git-commit: 6fdffce0ab2b9cd3db72122260c1e105fe2ea20e
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Vorlage 5B {#template-5b}
 
-[Vorlage 5B herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html) herunterladen
 
 ![](assets/template-5b.png)
 
@@ -26,6 +26,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Fünf Hauptabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

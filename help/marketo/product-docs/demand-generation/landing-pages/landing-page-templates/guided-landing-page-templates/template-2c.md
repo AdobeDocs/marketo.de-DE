@@ -3,16 +3,16 @@ unique-page-id: 7516475
 description: Vorlage 2C - Marketo Docs - Produktdokumentation
 title: Vorlage 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Vorlage 2C {#template-2c}
 
-[Vorlage 2C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -26,6 +26,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Ein Hauptteil mit Text und Formular (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)

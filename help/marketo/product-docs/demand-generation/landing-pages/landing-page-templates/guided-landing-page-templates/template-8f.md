@@ -3,16 +3,16 @@ unique-page-id: 8783975
 description: Vorlage 8F - Marketo Docs - Produktdokumentation
 title: Vorlage 8F
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Vorlage 8F {#template-8f}
 
-[Vorlage 8F herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html) herunterladen
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -26,6 +26,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Fünf Hauptabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)

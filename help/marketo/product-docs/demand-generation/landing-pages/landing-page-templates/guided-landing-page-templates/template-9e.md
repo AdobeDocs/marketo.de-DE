@@ -3,16 +3,16 @@ unique-page-id: 8783993
 description: Vorlage 9E - Marketo Docs - Produktdokumentation
 title: Vorlage 9E
 exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Vorlage 9E {#template-9e}
 
-[Vorlage 9E herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -25,6 +25,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Acht Hauptabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)

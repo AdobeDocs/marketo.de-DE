@@ -3,16 +3,16 @@ unique-page-id: 7515993
 description: Vorlage 1C - Marketo Docs - Produktdokumentation
 title: Vorlage 1C
 exl-id: 1a4e0a7a-6bf4-4688-be0b-91aa07f900df
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Vorlage 1C {#template-1c}
 
-[Vorlage 1C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html) herunterladen
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -25,6 +25,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)

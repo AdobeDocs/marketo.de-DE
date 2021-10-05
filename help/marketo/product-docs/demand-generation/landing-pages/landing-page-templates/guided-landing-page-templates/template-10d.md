@@ -3,16 +3,16 @@ unique-page-id: 8784008
 description: Vorlage 10D - Marketo Docs - Produktdokumentation
 title: Vorlage 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Vorlage 10D {#template-10d}
 
-[Vorlage 10D herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html) herunterladen
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 
@@ -25,6 +25,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)

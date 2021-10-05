@@ -3,16 +3,16 @@ unique-page-id: 7515620
 description: Vorlage 1A - Marketo-Dokumente - Produktdokumentation
 title: Vorlage 1A
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Vorlage 1A {#template-1a}
 
-[Vorlage 1a herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
+Klicken Sie mit der rechten Maustaste auf [Vorlage 1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html) herunterladen
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -25,6 +25,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
 [Vorlage 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
