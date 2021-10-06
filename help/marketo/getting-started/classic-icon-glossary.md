@@ -3,7 +3,7 @@ unique-page-id: 4720476
 description: Klassisches Symbol-Glossar - Marketo Docs - Produktdokumentation
 title: Glossar zu klassischen Symbolen
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 33%
@@ -12,7 +12,7 @@ ht-degree: 33%
 
 # Glossar zu klassischen Symbolen {#classic-icon-glossary}
 
-Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md) gefunden werden.
+Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md) gefunden werden.
 
 **Allgemeine Symbole**
 

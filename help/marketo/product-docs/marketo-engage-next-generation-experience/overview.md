@@ -2,9 +2,9 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '491'
 ht-degree: 7%
 
 ---
@@ -38,7 +38,7 @@ In diesem Erlebnis der nächsten Generation gibt es eine Menge neuer Funktionen,
 
 **Symbole**
 
-Die neue Benutzeroberfläche verfügt über eine verbesserte und erweiterte Ikonographie. Weitere Informationen dazu finden Sie hier: [Neues Symbol Glossar](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+Die neue Benutzeroberfläche verfügt über eine verbesserte und erweiterte Ikonographie. Weitere Informationen dazu finden Sie hier: [Symbol Glossar](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 

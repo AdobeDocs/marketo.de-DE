@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8101'
 ht-degree: 5%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 5%
    + [Erste Schritte](getting-started.md)
    + [Was ist Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo-Glossar](getting-started/marketo-glossary.md)
-   + [Symbol Glossar](getting-started/icon-glossary.md)
+   + [Glossar zu klassischen Symbolen](getting-started/classic-icon-glossary.md)
    + Setup {#setup}
       + [Einrichtungsschritte](getting-started/setup-steps.md)
       + [Checkliste einrichten](getting-started/setup-steps/setup-checklist.md)
@@ -138,7 +138,7 @@ ht-degree: 5%
       + Zusätzliche Integrationen {#additional-integrations}
          + [Hinzufügen von Adobe Connect als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Hinzufügen von Google AdWords als Startpunktdienst mit einem Manager-Konto](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-         + [Google AdWords als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+         + [Hinzufügen von Google AdWords als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [GoToWebinar als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
@@ -342,7 +342,7 @@ ht-degree: 5%
          + Microsoft Dynamics Flow Actions {#microsoft-dynamics-flow-actions}
             + [Hinzufügen oder Entfernen von Personen aus Ihrer Dynamics-Kampagne](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Inhaber in Microsoft ändern](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
-            + [Aufgabe erstellen in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
+            + [Aufgabe in Microsoft erstellen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Personen mit Microsoft synchronisieren](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Salesforce Flow Actions {#salesforce-flow-actions}
             + [Zu SFDC-Kampagne hinzufügen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
@@ -481,7 +481,7 @@ ht-degree: 5%
             + [Personen in Ihr Ereignis einchecken über Ihr Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Benutzern Zugriff auf die Check-in-App gewähren](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Vorbereitung auf Ihr Ereignis](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [iPad oder Android-Tablet einrichten](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
+            + [Einrichten des iPad- oder Android-Tablet-Geräts](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo Moments {#marketo-moments}
             + Grundlagen zu Momenten {#understanding-moments}
                + [Grundlagen zu Marketo-Momenten](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
@@ -511,7 +511,7 @@ ht-degree: 5%
          + [Benachrichtigungstypen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + CRM-Synch.{#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
-         + [Grundlagen zur Microsoft Dynamics-Synchronisierung](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+         + [Grundlagen zur Synchronisierung von Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Marketo-Plug-in-Versionen für Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [Plug-in-Versionen für Microsoft Dynamics MSI](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Synchronisierungsprobleme bei der Dynamics-Überprüfung beheben](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
@@ -535,7 +535,7 @@ ht-degree: 5%
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [Schritt 1 von 3: Installieren der Marketo-Lösung (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [Schritt 2 von 3: Einrichten des Marketo Sync User in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [Schritt 3 von 3: Verbinden von Microsoft Dynamics mit Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+               + [Schritt 3 von 3: Verbinden von Microsoft Dynamics mit Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Einrichten der OAuth-Authentifizierung für Dynamics {#set-up-oauth-authentication-for-dynamics}
                + [Erteilen der Zustimmung für die Kunden-ID und App-Registrierung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [Einrichten der Microsoft Dynamics CRM-App für Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
@@ -560,8 +560,8 @@ ht-degree: 5%
          + Custom Dynamics Sync Filter Details {#custom-dynmaics-sync-filter-details}
             + [Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Microsoft Dynamics Sync Filter: Zusammenführen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Microsoft Dynamics Sync Filter: Qualifizieren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Microsoft Dynamics Sync-Filter: Zusammenführen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Microsoft Dynamics Sync-Filter: Qualifizieren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Festlegen eines benutzerdefinierten Standardfeldpräfixes](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registrieren Sie eine App bei Azure, um Ihre Client-ID/App-ID zu erhalten.](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Lead oder Kontakt löschen](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
@@ -731,7 +731,7 @@ ht-degree: 5%
             + [Hinzufügen eines Videos zu einer Freiform-Landingpage](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [Hinzufügen eines Bildes zu einer Freiform-Landingpage](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [Hinzufügen eines Rechtecks zu einer Freiform-Landingpage](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
-            + [Hinzufügen von benutzerdefiniertem HTML zu einer Freiform-Einstiegsseite](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
+            + [Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [Erstellen einer Freiform-Landingpage](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [Mobile Ansicht für Ihre Freiform-Landingpage anpassen](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [Verwenden dynamischer Inhalte in einer Freiform-Landingpage](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
@@ -1059,7 +1059,7 @@ ht-degree: 5%
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage-Erlebnis der nächsten Generation {#marketo-engage-next-generation-experience}
       + [Überblick](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [Neues Symbol-Glossar](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Symbol Glossar](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [Verwenden der globalen Suche](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Erste Schritte {#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 5%
             + [Prüfen Ihrer E-Mail](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + Administrator {#admin}
          + [Zusätzliche Administratoren](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [Registerkarte &quot;Admin Settings&quot;](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [Blockierte Domänen](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Inhaltssperre](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Erstellen eines Unterteams](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1150,7 +1149,7 @@ ht-degree: 5%
                + [Deinstallieren von Sales Connect von Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365 Add-in {#office-365-add-in}
                + [E-Mail zu Salesforce hinzufügen (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Installieren von Sales Connect für Office 365 Mac OS, Windows und Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [Installieren von Sales Connect für Office365 Mac OS, Windows und Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
       + E-Mail {#email}
          + Kommandozentrale {#command-center}
             + [Übersicht über das Command Center](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
@@ -1301,7 +1300,7 @@ ht-degree: 5%
       + MSI Chrome Plugin {#msi-chrome-plugin}
          + [Installieren Sie Marketo Insights für Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [Verwenden von Marketo Insights für Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
-         + [Anzeigen von Personen- und Kontoinformationen und Aktivitäten in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+         + [Anzeigen von Personen- und Kontoinformationen und -aktivitäten in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI für Microsoft Dynamics {#msi-for-microsoft-dynamics}
          + [Funktionsübersicht](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
          + Wird installiert {#installing}
@@ -1312,9 +1311,9 @@ ht-degree: 5%
             + [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
             + [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + Einrichten und Verwenden von {#setting-up-and-using}
-            + [Lead/Kontakt zu einer Marketo-Kampagne aus Microsoft Dynamics hinzufügen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+            + [Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne aus Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Erforderliche Felder für die Synchronisierung von Marketo mit Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [Marketo Sales Email von Microsoft Dynamics senden](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Senden einer Marketo Sales-E-Mail aus Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + Deinstallieren von {#uninstalling}
             + [Globale MS Dynamics-Synchronisierung deaktivieren](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
@@ -1392,7 +1391,7 @@ ht-degree: 5%
          + [Authentifizieren der Sicherheit des mobilen Zugriffs](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Vor der Erstellung von Push-Benachrichtigungen und In-App-Nachrichten](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [Konfigurieren des Push-Zugriffs für die mobile App Android](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
-         + [Konfigurieren des iOS-Push-Zugriffs für die mobile App](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+         + [Konfigurieren des Push-Zugriffs auf die Mobile App iOS](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
          + [Mobile App löschen](product-docs/mobile-marketing/admin/delete-mobile-app.md)
          + [SDK-Code an einen Entwickler senden](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
          + [Push-Konfiguration überprüfen](product-docs/mobile-marketing/admin/verify-push-configuration.md)
@@ -1581,8 +1580,8 @@ ht-degree: 5%
             + [Suchen aller Leads in einem Umsatzzyklusmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
             + [Zusammenführen von zwei Phasen im Umsatzmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [Bericht zu Ihrem Umsatzmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto festlegen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-            + [Google AdWords-Konversionen im Umsatzmodell festlegen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+            + [Festlegen von Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [Festlegen von Google AdWords-Konversionen im Umsatzmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
             + [Start des Trackings nach Konto im Umsatzmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [Grundlagen zu den Phasen des Umsatzmodells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
             + [Erfolgspfad des Umsatzmodells verstehen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
@@ -1638,7 +1637,7 @@ ht-degree: 5%
          + [Implementieren von RTP in Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [Implementieren von RTP in Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [Implementieren von RTP mit Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
-         + [Implementieren von RTP mit Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
+         + [Implementieren von RTP mit dem Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Implementieren von RTP mit dem Tag-Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
       + Berichterstellung für Web-Personalisierung {#reporting-for-web-personalization}
          + [E-Mail-Berichte](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
@@ -1670,7 +1669,7 @@ ht-degree: 5%
          + [Websegmente](product-docs/web-personalization/using-web-segments/web-segments.md)
       + Website-Retargeting {#website-retargeting}
          + [Personalisiertes Remarketing in Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
-         + [Personalisierte Remarketing in Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+         + [Personalisiertes Remarketing in Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Retargeting mit Web-Personalisierungsdaten](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Arbeiten mit Web-Kampagnen {#working-with-web-campaigns}
          + [AB Test Your Web Campaign](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
