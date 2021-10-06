@@ -1,22 +1,19 @@
 ---
 unique-page-id: 14352517
-description: Erstellen einer Kontaktgruppe - Marketing Docs - Produktdokumentation
+description: Erstellen einer Kontaktgruppe - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Kontaktgruppe
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 19113c15-bd28-4030-8d84-afa93303197d
+source-git-commit: 2671ec00fcc032ab926f4a4cbb5559d94c0711a0
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
 # Erstellen einer Kontaktgruppe {#how-to-create-a-contact-group}
 
-Mit Sales Connect können Sie Kontaktgruppen erstellen, damit Sie personalisierte E-Mails an mehrere Empfänger senden können.
+Mit Sales Connect können Sie Kontaktgruppen erstellen, um personalisierte E-Mails an mehrere Empfänger zu senden.
 
-Um eine Gruppe zu erstellen, wählen Sie einfach **Neue Gruppe**.
+Um eine Gruppe zu erstellen, wählen Sie einfach **Neue Gruppe** aus.
 
-Von hier können Sie Kontakte [manuell](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md) oder [über CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hinzufügen.
-
-Um mehr über das Senden von Gruppen-E-Mails zu erfahren, [klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md).
+Hier können Sie Kontakte [manuell](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md) oder [über CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hinzufügen.
