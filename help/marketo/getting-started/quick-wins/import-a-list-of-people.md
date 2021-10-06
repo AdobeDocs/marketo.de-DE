@@ -1,59 +1,58 @@
 ---
 unique-page-id: 2359418
-description: Eine Liste von Personen importieren - Marketo Docs - Produktdokumentation
-title: Eine Liste von Personen importieren
+description: Importieren einer Personenliste - Marketo Docs - Produktdokumentation
+title: Eine Personenliste importieren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 5%
 
 ---
 
-# Eine Liste von Personen {#import-a-list-of-people} importieren
+# Eine Personenliste importieren {#import-a-list-of-people}
 
-## Auftrag: Eine Liste der Messebesucher in eine Tabellenkalkulationsdatenbank importieren {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Auftrag: Importieren Sie eine Tabellenliste mit den Teilnehmern einer Fachmesse in Ihre Datenbank. {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
 >[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulationsdatei in Marketo importieren.
+In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Marketo importieren.
 
 ## Schritt 1: Herunterladen und Bearbeiten einer Tabelle {#step-download-and-edit-a-spreadsheet}
 
-1. Um Beginn zu erhalten, laden Sie unsere Übungsdatenblattdatei ([**tradeshow-attendes.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) auf Ihren Computer herunter.
+1. Laden Sie zunächst unsere Übungs-Tabellendatei ([**tradeshow-attendes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) auf Ihren Computer herunter.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Verwenden Sie beim Importieren eines Datums folgendes Format: **9/21/20** (Monat/Tag/Jahr).
+   >Verwenden Sie beim Import eines Datums folgendes Format: **9/21/20** (Monat/Tag/Jahr).
 
    >[!NOTE]
    >
-   >Alle importierten Datums-/Uhrzeitfelder werden als &quot;Central Time&quot;behandelt. Wenn Sie Datums-/Uhrzeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (Amerika/Chicago) umzuwandeln.
+   >Alle Datums-/Uhrzeitfelder, die importiert werden, werden als Central Time behandelt. Wenn Sie Datums-/Uhrzeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
 
-1. hinzufügen Sie Ihren eigenen Vornamen, Nachnamen, Ihre E-Mail-Adresse und Ihren Auftragsnamen und speichern Sie die Datei dann auf Ihrem Computer.
+1. Fügen Sie Ihren eigenen Vornamen, Nachnamen, Ihre E-Mail-Adresse und Ihre Berufsbezeichnung hinzu und speichern Sie dann die Datei auf Ihrem Computer.
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
 >[!NOTE]
 >
->Geben Sie Ihre echte E-Mail-Adresse in die CSV-Datei ein, damit Sie die Pflege-E-Mails erhalten können, die Sie bei der nächsten Mission senden werden.
+>Geben Sie Ihre echte E-Mail-Adresse in die CSV-Datei ein, damit Sie die Pflege-E-Mails erhalten können, die Sie in der nächsten Mission versenden werden.
 
 ## Schritt 2: Programm erstellen {#step-create-a-program}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Gehen Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/ma-2.png)
 
-1. Wählen Sie den Ordner **Lernen** und klicken Sie dann unter **Neu** auf **Neues Programm**.
+1. Wählen Sie den Ordner **Learning** und klicken Sie dann unter **New** auf **Neues Programm**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Benennen Sie** das Programm &quot;My Tradeshow Programm&quot;und wählen Sie &quot;Ereignis&quot;als  **Programm**.
+1. **** Benennen Sie das Programm &quot;My Tradeshow Program&quot; und wählen Sie &quot;Event&quot; für den  **Programmtyp**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -63,23 +62,23 @@ In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulat
 
 >[!NOTE]
 >
->Ereignis-Programm treten an bestimmten Daten auf. Erfahren Sie mehr über [**Ereignis**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Ereignisprogramme treten an bestimmten Daten auf. Erfahren Sie mehr über [**Ereignisse**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
-## Schritt 3: Importieren der Tabelle in Marketo {#step-import-your-spreadsheet-into-marketo}
+## Schritt 3: Importieren Ihrer Tabelle in Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Klicken Sie in **Mein Programm für die Diashow** auf **Neu** und wählen Sie **Neues lokales Element**.
+1. Klicken Sie in **My Tradeshow Program** auf **New** und wählen Sie **New Local Asset** aus.
 
    ![](assets/seven-3.png)
 
-1. Klicken Sie auf **Liste**.
+1. Klicken Sie auf **List**.
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Benennen Sie** die Liste &quot;Händler-Teilnehmer&quot;und klicken Sie auf  **Erstellen**.
+1. **** Benennen Sie die Liste &quot;Messebesucher&quot;und klicken Sie auf  **Erstellen**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Klicken Sie in der Liste **Händler-Teilnehmer** auf **Listen-Aktionen** und wählen Sie **Liste importieren**.
+1. Klicken Sie in der Liste **Tradeshow-Teilnehmer** auf **Listenaktionen** und wählen Sie **Importliste** aus.
 
    ![](assets/ten-2.png)
 
@@ -91,46 +90,46 @@ In diesem Lernprogramm erfahren Sie, wie Sie Personen aus einer Tabellenkalkulat
    >
    >Die maximale Größe für CSV-Dateien beträgt 100 MB.
 
-1. **Navigieren Sie** zu der Datei  **tradeshow-attendes.** csvspreadsheet auf Ihrem Computer und klicken Sie auf  **Weiter**.
+1. **** Navigieren Sie zur Datei  **tradeshow-attendes.** csvspreadsheet auf Ihrem Computer und klicken Sie auf  **Weiter**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie im Listen-Importmodus **Neue Personen und Updates überspringen** wählen, haben Sie keine Auswirkungen auf vorhandene Personendaten oder auf Aktivitäten. Verwenden Sie diesen Modus, wenn Sie eine schnelle, vorgefilterte statische Liste von vorhandenen Personen zur Verwendung in Ihren Marketing-Aktivitäten benötigen. Die Auswahl dieses Modus führt zu:
+   >Wenn Sie im Listenimportmodus **Neue Personen und Updates überspringen** auswählen, haben Sie keine Auswirkungen auf vorhandene Personendatensätze oder Aktivitäten. Verwenden Sie diesen Modus, wenn Sie eine schnelle, vorgefilterte statische Liste vorhandener Personen zur Verwendung in Ihren Marketing-Aktivitäten wünschen. Durch Auswahl dieses Modus wird Folgendes ausgeführt:
    >
    > * Neue Personenerstellung überspringen
    > * Personen-Feldaktualisierungen überspringen
    > * Aktivitätsprotokollierung überspringen
 
 
-1. Ordnen Sie die Spaltenfelder Ihrer Liste dem jeweiligen Marketo-Feld zu und klicken Sie auf **Weiter**.
+1. Ordnen Sie Ihre Listenspaltenfelder dem entsprechenden Marketo-Feld zu und klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
    >[!TIP]
    >
-   >Spaltenüberschriften sollten immer exakt mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um die besten Ergebnisse für die automatische Zuordnung zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und sie nicht in der Dropdown-Liste sehen, gehen Sie zurück und [erstellen Sie sie](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md), damit sie Optionen werden können.
+   >Spaltenüberschriften sollten immer genau mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um die besten Ergebnisse für die automatische Zuordnung zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und sie nicht in der Dropdown-Liste sehen, gehen Sie zurück und [erstellen Sie sie](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md), damit sie Optionen werden können.
 
    >[!NOTE]
    >
-   >Wenn keine Felder importiert werden sollen, wählen Sie im Dropdown-Menü &quot;Marketo-Feld&quot;die Option **Ignorieren**.
+   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie im Dropdown-Menü Marketo-Feld die Option **Ignorieren**.
 
-1. Wählen Sie **Mein Tradeshow-Programm** für das **Akquise-Programm** und klicken Sie dann auf **Import**.
+1. Wählen Sie **My Tradeshow Program** für das **Akquiseprogramm** und klicken Sie dann auf **Import**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
-1. Warten Sie, bis die Personen importiert wurden, und schließen Sie dann das Popup für den Importstatus.
+1. Warten Sie, bis Ihre Personen importiert haben, und schließen Sie dann das Popup-Fenster für den Importfortschritt.
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. Zurück in **Mein Programm für die Diashow** klicken Sie auf die Registerkarte **Mitglieder**. Du wirst alle Leute sehen, die du gerade importiert hast.
+1. Klicken Sie in **My Tradeshow Program** auf den Tab **Mitglieder** . Du wirst alle Leute sehen, die du gerade importiert hast.
 
    ![](assets/fifteen-1.png)
 
 >[!NOTE]
 >
->Sie können den Erfolg Ihres Programms analysieren, indem Sie die Programm-Mitgliedschaft verfolgen. Erfahren Sie mehr über [**Programm**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Sie können den Erfolg Ihres Programms analysieren, indem Sie die Mitgliedschaft im Programm verfolgen. Erfahren Sie mehr über [**Programme**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Aufgabe abgeschlossen {#mission-complete}
 
