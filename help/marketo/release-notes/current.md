@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -49,9 +49,9 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **Neue E-Mail, Web-Aktivität, anonyme Dashboards für Web-Aktivitäten**: Wir haben die neuen Verkaufs-Dashboards hinzugefügt, um Verkäufer über die neuesten E-Mail- und Webaktivitäten ihrer Kontakte und Kontakte zu informieren. Mit der neuen Filterfunktion bieten die Dashboards jetzt Einblicke in E-Mail-Öffnungen, Klicks und Webseitenbesuche für die vollständige Liste der Konten oder ein bestimmtes Konto. Marketo Engage verfolgt alle Web-Aktivitäten und stellt für den Vertrieb wichtige Informationen bereit, sodass anonymer Traffic zu Leads wird. Verkäufer können Interaktionen personalisieren und Leads schneller in Umsätze konvertieren, da sie besser über Lead-Verhaltensweisen informiert sind und anhand der Relevanz aller Touchpoints handeln.
 
-**Sales Insight für Salesforce CRM**
+**Sales Insight für Salesforce**
 
-**Beste Betas auf Konto- und Opportunity-Ebene**: Sales Insight bietet Vertriebsmitarbeitern jetzt die Möglichkeit, Best-Betten für alle Kontakte auf dem Konto oder der Gelegenheit zu überprüfen, deren Inhaber sie sind, selbst wenn der Kontakt einem anderen Team-Mitglied zugewiesen wird. Dadurch erhalten Konto- und Opportunity-Eigentümer einen umfassenden Einblick in die Aktivitäten relevanter Kontakte und können auf der Grundlage einer ganzheitlicheren Sicht auf das Konto oder die Chancen handeln.
+**Beste Betas auf Konto- und Opportunity-Ebene**: Sales Insight bietet Vertriebsmitarbeitern jetzt die Möglichkeit, Best-Betten für alle Kontakte auf dem Konto oder der Gelegenheit zu überprüfen, deren Inhaber sie sind, selbst wenn der Kontakt einem anderen Team-Mitglied zugewiesen wird. Dadurch erhalten Konto- und Opportunity-Eigentümer einen umfassenden Einblick in die Aktivitäten relevanter Kontakte und können auf der Grundlage einer ganzheitlicheren Sicht des Kontos oder der Chancen handeln.
 
 ## SalesConnect {#sales-connect}
 
@@ -71,4 +71,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Ankündigungen {#announcements}
 
-**Verknüpfung von Lead-Verfall/Munchkin Beta 161 Update**: Am 7. September 2021 begann die Version 161 von Munchkin mit 10 % der Abonnements, für die Munchkin Beta aktiviert war, gefolgt von 50 % am 16. September und 100 % am 30. September. Diese Änderung betrifft Marketo Engage-Landingpages und die Version der Datei &quot;munchkin-beta.js&quot;, die für externe Landingpages bereitgestellt wird, die aus Abonnements geladen werden, für die die aktuelle Version eingeführt wurde. Diese Version veraltet die Munchkin Associate Lead-Methode vollständig. Diese Funktion ermöglicht die Übermittlung der Daten einer Person an ein Marketo Engage-Abonnement und den zugehörigen Webbrowsing-Verlauf mit einem bekannten Personendatensatz. &quot;Associate Lead&quot;wird zugunsten modernerer und sichererer Alternativen entfernt, wie z. B. der Forms JS-API, der Formular-Sende-API und der zugehörigen Lead-REST-API. [Erfahren Sie mehr über diese Einstellung](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Verknüpfung von Lead-Verfall/Munchkin Beta 161 Update**: Am 7. September 2021 begann die Version 161 von Munchkin mit 10 % der Abonnements, für die Munchkin Beta aktiviert war, gefolgt von 50 % am 16. September und 100 % am 30. September. Diese Änderung betrifft Marketo Engage-Landingpages und die Version der Datei &quot;munchkin-beta.js&quot;, die für externe Landingpages bereitgestellt wird, die aus Abonnements geladen werden, für die die aktuelle Version eingeführt wurde. Diese Version veraltet die Munchkin Associate Lead-Methode vollständig. Diese Funktion ermöglicht die Übermittlung der Daten einer Person an ein Marketo Engage-Abonnement und den zugehörigen Webbrowsing-Verlauf mit einem bekannten Personendatensatz. &quot;Associate Lead&quot;wird zugunsten modernerer und sichererer Alternativen entfernt, wie z. B. der Forms JS-API, der Formular-Sende-API und der zugehörigen Lead-REST-API. [Weitere Informationen zu dieser Einstellung finden Sie hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
