@@ -2,24 +2,24 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
 
 # Versionshinweise: Oktober 2021 {#release-notes-oct-21}
 
-Die folgenden Funktionen sind in der Version vom 21. Oktober enthalten. Überprüfen Sie Ihre Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom 21. Oktober enthalten. Informieren Sie sich in Ihrer Adobe Marketo Engage Edition über die Verfügbarkeit von Funktionen.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem für das Adobe Marketo Engage zuständigen Kundenbetreuer.
+>Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
 **_Vierteljährliche Versionen_**
 
-Die folgenden Funktionen werden am **22. Oktober 2021** veröffentlicht.
+Die folgenden Funktionen werden am **22. Oktober 2021** veröffentlicht, wobei jede Funktion in der folgenden Woche schrittweise eingeführt wird (sofern nicht anders angegeben).
 
 ## KI-gestützte Innovation {#ai-driven-innovation}
 
@@ -29,7 +29,9 @@ Die folgenden Funktionen werden am **22. Oktober 2021** veröffentlicht.
 
 **Wählen Sie Ihr eigenes Erlebnis** aus: Mit dem neuen Umschalter können Sie einfach zu Ihrem gewünschten Erlebnis wechseln, während Sie an Marketo Engage-Formularelementen oder der Listenansicht der Landingpage arbeiten, ohne Kontext, Asset-Änderungen oder Voreinstellungen zu verlieren. Darüber hinaus verbessert die neue Listenansicht der Landingpage Ihr Erlebnis mit neuen Filtern und der Möglichkeit, Massenaktionen durchzuführen.
 
-**Effiziente Suche**: Zu den Verbesserungen der Barrierefreiheit bei der globalen Suche gehören die aktualisierte Tastaturnavigation und Beschriftungsbeschreibungen, eine neue Bildlauffunktion für Ergebnisse und besser sichtbare angewendete Filter. Modale für das Verschieben wurden verbessert, um Tastaturbefehle zu unterstützen. Überwachen Sie den Status der Aufgaben, die im Hintergrund des neuen Erlebnisses ausgeführt werden, über die neue Aufgabenbenachrichtigungsablage in der globalen Navigationsleiste. In der Ablage werden Benachrichtigungen zu Aufgaben erfasst, die aus der neuen Erlebnisansicht von Formulardetails und Landingpage-Listen initiiert wurden. Dazu gehören der Wechsel des Status auf Landingpages und allgemeine Massenaktionen mit dem neuen Erlebnis.
+**Effiziente Suche**: Zu den Verbesserungen der Barrierefreiheit bei der globalen Suche gehören die aktualisierte Tastaturnavigation und Beschriftungsbeschreibungen, eine neue Bildlauffunktion für Ergebnisse und besser sichtbare angewendete Filter.
+
+**Überwachen von Aufgaben**: Überwachen Sie den Status der Aufgaben, die im Hintergrund des neuen Erlebnisses ausgeführt werden, über die neue Aufgabenbenachrichtigungsablage in der globalen Navigationsleiste. In der Ablage werden Benachrichtigungen zu Aufgaben erfasst, die aus der neuen Erlebnisansicht der Formulardetails und der Landingpage-Liste initiiert wurden. Dazu gehören der Wechsel des Status auf Landingpages und allgemeine Massenaktionen mit dem neuen Erlebnis.
 
 ## Erlebnisautomatisierung {#experience-automation}
 
@@ -51,7 +53,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **Sales Insight für Salesforce**
 
-**Beste Betas auf Konto- und Opportunity-Ebene**: Sales Insight bietet Vertriebsmitarbeitern jetzt die Möglichkeit, Best-Betten für alle Kontakte auf dem Konto oder der Gelegenheit zu überprüfen, deren Inhaber sie sind, selbst wenn der Kontakt einem anderen Team-Mitglied zugewiesen wird. Dadurch erhalten Konto- und Opportunity-Eigentümer einen umfassenden Einblick in die Aktivitäten relevanter Kontakte und können auf der Grundlage einer ganzheitlicheren Sicht des Kontos oder der Chancen handeln.
+**Beste Betas auf Konto- und Opportunity-Ebene**: Sales Insight bietet Vertriebsmitarbeitern jetzt die Möglichkeit, Best-Betten für alle Kontakte auf dem Konto oder der Gelegenheit zu überprüfen, deren Inhaber sie sind, selbst wenn der Kontakt einem anderen Team-Mitglied zugewiesen wird. Dadurch erhalten Konto- und Opportunity-Eigentümer einen umfassenden Einblick in die Aktivitäten relevanter Kontakte und können auf der Grundlage einer ganzheitlicheren Sicht auf das Konto oder die Chancen handeln.
 
 ## SalesConnect {#sales-connect}
 
