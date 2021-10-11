@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
+source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **Verknüpfung von Lead-Verfall/Munchkin Beta 161 Update**: Am 7. September 2021 begann die Version 161 von Munchkin mit 10 % der Abonnements, für die Munchkin Beta aktiviert war, gefolgt von 50 % am 16. September und 100 % am 30. September. Diese Änderung betrifft Marketo Engage-Landingpages und die Version der Datei &quot;munchkin-beta.js&quot;, die für externe Landingpages bereitgestellt wird, die aus Abonnements geladen werden, für die die aktuelle Version eingeführt wurde. Diese Version veraltet die Munchkin Associate Lead-Methode vollständig. Diese Funktion ermöglicht die Übermittlung der Daten einer Person an ein Marketo Engage-Abonnement und den zugehörigen Webbrowsing-Verlauf mit einem bekannten Personendatensatz. &quot;Associate Lead&quot;wird zugunsten modernerer und sichererer Alternativen entfernt, wie z. B. der Forms JS-API, der Formular-Sende-API und der zugehörigen Lead-REST-API. [Weitere Informationen zu dieser Einstellung finden Sie hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Stellen Sie sicher, dass Sie sich [jetzt registrieren](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html) , um am 28. Oktober 2021 um 9:00 Uhr PT/23:00 Uhr ET für ein Live-Webinar mit unserem Produktteam teilzunehmen, um sich eingehender mit diesen Innovationen zu beschäftigen.
+Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Stellen Sie sicher, dass Sie sich [jetzt registrieren](https://engage.marketo.com/October_Release_RegistrationPage.html) , um am 28. Oktober 2021 um 9:00 Uhr PT/23:00 Uhr ET für ein Live-Webinar mit unserem Produktteam teilzunehmen, um sich eingehender mit diesen Innovationen zu beschäftigen.
