@@ -12,7 +12,7 @@ ht-degree: 33%
 
 # Glossar zu klassischen Symbolen {#classic-icon-glossary}
 
-Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md) gefunden werden.
+Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md) gefunden werden.
 
 **Allgemeine Symbole**
 
