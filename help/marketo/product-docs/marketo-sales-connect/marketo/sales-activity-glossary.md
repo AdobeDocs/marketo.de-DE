@@ -1,10 +1,11 @@
 ---
 description: Glossar zu Verkaufsaktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Glossar zur Verkaufsaktivität
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '480'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +27,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <th>Attribut</th>
  </tr>
  <tr>
-  <th rowspan="3">Verkaufs-E-Mail senden</th>
+  <th rowspan="9">Verkaufs-E-Mail senden</th>
   <td>Gesendet von</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Vorlagen-ID</td>
  </tr>
  <tr>
-  <th rowspan="3">Verkaufs-E-Mail öffnen</th>
+  <td>URL der Verkaufsvorlage</td>
+ </tr>
+ <tr>
+  <td>Vertriebskampagnen-URL</td>
+ </tr>
+ <tr>
+  <td>Name der Verkaufsvorlage</td>
+ </tr>
+ <tr>
+  <td>Email Subject</td>
+ </tr>
+ <tr>
+  <td>Name der Verkaufskampagne</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
+ <tr>
+  <th rowspan="9">Verkaufs-E-Mail öffnen</th>
   <td>Gesendet von</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Vorlagen-ID</td>
  </tr>
  <tr>
-  <th rowspan="4">angeklickte E-Mail zum Vertrieb</th>
+  <td>URL der Verkaufsvorlage</td>
+ </tr>
+ <tr>
+  <td>Vertriebskampagnen-URL</td>
+ </tr>
+ <tr>
+  <td>Name der Verkaufsvorlage</td>
+ </tr>
+ <tr>
+  <td>Email Subject</td>
+ </tr>
+ <tr>
+  <td>Name der Verkaufskampagne</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
+ <tr>
+  <th rowspan="10">angeklickte E-Mail zum Vertrieb</th>
   <td>Link</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
  <tr>
   <td>Vorlagen-ID</td>
  </tr>
+ <tr>
+  <td>URL der Verkaufsvorlage</td>
+ </tr>
+ <tr>
+  <td>Vertriebskampagnen-URL</td>
+ </tr>
+ <tr>
+  <td>Name der Verkaufsvorlage</td>
+ </tr>
+ <tr>
+  <td>Email Subject</td>
+ </tr>
+ <tr>
+  <td>Name der Verkaufskampagne</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
 <tr>
-  <th rowspan="2">E-Mail zum empfangenen Verkauf</th>
+  <th rowspan="3">E-Mail zum empfangenen Verkauf</th>
   <td>Erhalten von</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <th rowspan="4">Verkaufs-E-Mail war aufgrund eines Bounce-Ereignisses unzustellbar</th>
-  <td>Details</td>
+  <td>Personen-ID (MSC)</td>
  </tr>
  <tr>
-  <td>Vorlagen-ID</td>
- </tr>
- <tr>
-  <td>E-Mail</td>
- </tr>
- <tr>
-  <td>Gesendet von</td>
- </tr>
- <tr>
-  <th rowspan="7">Hat Verkaufsanruf empfangen</th>
+  <th rowspan="11">Hat Verkaufsanruf empfangen</th>
   <td>Verkaufsaufruf von</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
  </tr>
  <tr>
   <td>Quelle</td>
+ </tr>
+ <tr>
+  <td>Dauer der Verkaufsaufrufe</td>
+ </tr>
+ <tr>
+  <td>URL zur Aufzeichnung von Verkaufsaufrufen</td>
+ </tr>
+  <tr>
+  <td>Verkaufsaufruf beantwortet von</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID (MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
