@@ -2,9 +2,9 @@
 description: Glossar zu Verkaufsaktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Glossar zur Verkaufsaktivität
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 7%
 
 ---
@@ -121,7 +121,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Personen-ID (MSC)</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="11">Hat Verkaufsanruf empfangen</th>
@@ -155,7 +155,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Verkaufsaufruf beantwortet von</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID (MSC)</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
@@ -216,6 +216,10 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <tr> 
    <td><strong>Link</strong></td> 
    <td>URL, auf die geklickt wurde.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo Sales Person ID</strong></td> 
+   <td>Eindeutige ID für den Personendatensatz in Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Erhalten von</strong></td> 
