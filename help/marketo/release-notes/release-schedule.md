@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
+source-git-commit: 214a968579052d93952bdbdd6e00bfe057ca7dac
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 5%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 **Releasedatum**: Der Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei der Großteil der Aktualisierung Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
 
-**Fortschritt**:
+**Status**:
 
 * Zeitplan - Die vierteljährlichen Funktionen und Verbesserungen werden voraussichtlich am angegebenen Datum veröffentlicht.
 * In Bearbeitung - Wir entwickeln und dokumentieren den Inhalt jetzt zur Veröffentlichung am angegebenen Datum.
@@ -34,27 +34,32 @@ _Die Veröffentlichungsdaten können sich ändern_
   <tr> 
    <th width="250px">Version</th> 
    <th width="250px">Veröffentlichungsdatum</th> 
-   <th width="250px">Fortschritt</th> 
+   <th width="250px">Status</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-jan-21.md">Januar 21</a></td> 
-   <td colspan="1">15. Januar 2021</td> 
-   <td colspan="1">Versendet</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-may-21.md">Mai 21</a></td> 
-   <td colspan="1">7. Mai 2021</td> 
-   <td colspan="1">Versendet</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/current.md">August '21</a></td> 
-   <td colspan="1">20. August 2021</td> 
-   <td colspan="1">Versendet</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Oktober 21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/current.md">Oktober 21</a></td> 
    <td colspan="1">22. Oktober 2021</td> 
    <td colspan="1">in progress</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Januar 22</td> 
+   <td colspan="1">21. Januar 2022</td> 
+   <td colspan="1">Zeitplan</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Mai 22</td> 
+   <td colspan="1">6. Mai 2022</td> 
+   <td colspan="1">Zeitplan</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">August '22</td> 
+   <td colspan="1">19. August 2022</td> 
+   <td colspan="1">Zeitplan</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Oktober 22</td> 
+   <td colspan="1">14. Oktober 2022</td> 
+   <td colspan="1">Zeitplan</td> 
   </tr> 
  </tbody> 
 </table>
