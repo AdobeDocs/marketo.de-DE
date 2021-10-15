@@ -3,7 +3,7 @@ description: Dynamischen Chat mit Marketo verbinden - Marketo-Dokumente - Produk
 title: Dynamischen Chat mit Marketo verbinden
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 
    PICC (Screenshot, wenn ich ein brandneues Unterverzeichnis bekomme)
 
-   >[!NOTE]
-   >
-   >Je nach Größe Ihrer Datenbank kann es zwischen 5 Minuten und 8 Stunden dauern, bis die Synchronisation abgeschlossen ist. Die durchschnittliche Synchronisierungszeit beträgt 60 Minuten. ÜBERPRÜFEN DES ZEITRAUMS
+>[!NOTE]
+>
+>Je nach Größe Ihrer Datenbank kann es zwischen 5 Minuten und 8 Stunden dauern, bis die Synchronisation abgeschlossen ist. Die durchschnittliche Synchronisierungszeit beträgt 60 Minuten. ÜBERPRÜFEN DES ZEITRAUMS
 
-THEMENNAHE ARTIKEL
+>[!MORELIKETHIS]
+>
+>[Ersteinrichtung](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

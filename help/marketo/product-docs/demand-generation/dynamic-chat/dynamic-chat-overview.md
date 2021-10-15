@@ -3,16 +3,16 @@ description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdoku
 title: Übersicht über dynamischen Chat
 hide: true
 hidefromtoc: true
-source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
 # Übersicht über dynamischen Chat {#dynamic-chat-overview}
 
-Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um beide Leads (PEOPLE?) und Konten auf ihrer (BESUCHEN SIE IHRE?) Website. Erfassen Sie relevante Inhalte wie ihren Namen, Kontaktinformationen und freien Text. Besucher der Site können auch Meetings mit Ihrem Vertriebsteam buchen. Die Aktivitäts- und Interaktionsdaten des dynamischen Cats können verwendet werden, um Marketo-Programmen und kanalübergreifenden Aktivitäten von Triggern Mitglieder hinzuzufügen.
+Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um sowohl Personen als auch Konten, die Ihre Website besuchen, als Ziel anzusehen. Erfassen Sie relevante Inhalte wie Namen, Kontaktinformationen und freien Text. Besucher der Site können auch Meetings mit Ihrem Vertriebsteam buchen. Die Aktivitäts- und Interaktionsdaten des dynamischen Cats können verwendet werden, um Marketo-Programmen und kanalübergreifenden Aktivitäten von Triggern Mitglieder hinzuzufügen.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Eine wichtige Komponente des dynamischen Chat ist die Möglichkeit, nativ mit Ih
 
 Folgendes wird synchronisiert:
 
-* Lead-Felddaten
+* Benutzerfelddaten
 * Felddaten des Unternehmens
 * Aktivitätsdaten
 
@@ -40,15 +40,15 @@ Passen Sie auf der Registerkarte Konfiguration das Erscheinungsbild Ihrer versch
 
 Verbinden Sie auf der Registerkarte Kalender Ihren Kalender (Outlook oder Gmail) für die Verwendung bei der Terminplanung im Chat. Sobald der Kalender eines Benutzers mit dem dynamischen Chat verbunden ist, wird dieser Benutzer zur Warteschlange hinzugefügt und sein Kalender steht Website-Besuchern zur Verfügung, um Termine zu planen.
 
-Sie können auch den Text der Einladungs-E-MAIL anpassen? , der dem Besucher bei der Planung eines Termins im Kalender des Benutzers gesendet wird.
+Sie können auch den Text der Einladung anpassen, die dem Besucher gesendet wird, wenn er einen Termin im Kalender des Benutzers einplant.
 
 ## Sitzungen {#meetings}
 
-Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiedenen Dialoge geplant wurden. Hier finden Sie die E-Mail-Adresse des Leads, der den Termin gebucht hat, mit welchem Agenten er den Termin gebucht hat, wann der Termin geplant ist und ob das Treffen stattgefunden hat oder nicht.
+Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiedenen Dialoge geplant wurden. Hier finden Sie die E-Mail-Adresse der Person, die den Termin gebucht hat, den Agenten, mit dem sie den Termin gebucht haben, wann der Termin geplant ist und ob das Treffen stattgefunden hat oder nicht.
 
 ## Routing {#routing}
 
-Hier können Sie eine Liste aller Agenten sehen, die ihre Kalender verbunden haben, sowie die Reihenfolge, in der sie den Besuchern der Website präsentiert werden Meetings gehen im Robin-Stil. Wenn Sie also fünf Agenten haben und drei Agenten das letzte Meeting hatten, erhalten Agent vier das nächste, gefolgt von fünf und dann zurück zum Agenten.
+Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, sowie die Reihenfolge, in der sie den Besuchern der Website angezeigt werden. Meetings gehen um Robin-Stil. Wenn Sie also fünf Agenten und Agenten drei haben, die das letzte Meeting hatten, werden Agent vier das nächste bekommen, gefolgt von Agent fünf, dann zurück zum Agenten eins.
 
 ## FAQs {#faq}
 
@@ -56,9 +56,9 @@ Hier können Sie eine Liste aller Agenten sehen, die ihre Kalender verbunden hab
 
 Nein, es werden nur vordefinierte Antworten verwendet.
 
-**Wie kann ich anonyme Leads ansprechen?**
+**Wie kann ich anonyme Personen ansprechen?**
 
-In Ihrem Dialogfeld müssten Sie das Attribut _Lead-E-Mail ist leer_ verwenden.
+In Ihrem Dialogfeld müssten Sie das Attribut _Person Email is Empty_ verwenden.
 
 **Unterstützen Sie KI/NLP-Funktionen?**
 

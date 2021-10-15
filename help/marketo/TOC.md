@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 78fc4dd6325abbebcad8446672159c9b75bf8470
+source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
 workflow-type: tm+mt
-source-wordcount: '7959'
+source-wordcount: '7968'
 ht-degree: 5%
 
 ---
@@ -1272,7 +1272,12 @@ ht-degree: 5%
          + [Verwenden von Marketo Insights für Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Anzeigen von Personen- und Kontoinformationen und -aktivitäten in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI für Microsoft Dynamics {#msi-for-microsoft-dynamics}
-         + [Funktionsübersicht](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
+         + Funktionen {#features}
+            + [Funktionsübersicht](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
+            + Marketo-Registerkarte {#marketo-tab}
+               + [Vielversprechende Kontakte](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
+               + [E-Mail-Aktivitäten](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+               + [Web-Aktivitäten](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + Wird installiert {#installing}
             + [Herunterladen der Marketo Sales Insight-Lösung für Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)

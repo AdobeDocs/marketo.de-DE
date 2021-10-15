@@ -3,9 +3,9 @@ description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 1%
 
 ---
@@ -60,4 +60,4 @@ Damit der Chat-Bot auf Ihrer Website angezeigt wird, müssen Sie zunächst das D
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenden Sie sich für HTML-Hilfe an einen Webentwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenden Sie sich an einen Webentwickler, um Hilfe beim HTML zu erhalten.

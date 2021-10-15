@@ -3,18 +3,18 @@ description: Erstellen eines Streams - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Streams
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Streams {#create-a-stream}
 
-Es müssen _viele_ Stream-Kombinationen erstellt werden. Im Folgenden finden Sie ein Beispiel, in dem der Marketing-Experte den Besucher fragt, ob er Fragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Das Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
+Es gibt _viele_ Stream-Kombinationen, die Sie erstellen können. Im Folgenden finden Sie ein Beispiel, bei dem der Marketing-Experte den Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Das Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
 
-1. Nachdem Sie [Ihr Dialogfeld](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) erstellt haben, klicken Sie auf die Registerkarte &quot;Stream Designer&quot;.
+1. Nachdem Sie [Ihr Dialogfeld](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) erstellt haben, klicken Sie auf die Registerkarte **Stream-Designer** .
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ Es müssen _viele_ Stream-Kombinationen erstellt werden. Im Folgenden finden Sie
      <td>Die Meldung, die der Besucher sieht und ihn auffordert, die Informationen anzugeben.</td>
     </tr>
     <tr>
-     <td><strong>Beispieltext, der dem Besucher dabei hilft, zu sehen, was er eingeben soll.</strong></td>
-     <td>Text</td>
+     <td><strong>Platzhalter</strong></td>
+     <td>Beispieltext, der dem Besucher dabei hilft, zu sehen, was er eingeben soll.</td>
     </tr>
     <tr>
      <td><strong>Antwort auf Attribut zuordnen</strong></td>
@@ -116,3 +116,7 @@ Es müssen _viele_ Stream-Kombinationen erstellt werden. Im Folgenden finden Sie
 >[!NOTE]
 >
 >Bevor Sie auf Veröffentlichen klicken, stellen Sie sicher, dass Sie [Ihre Ziel-URL(s)](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target) eingegeben haben.
+
+>[!MORELIKETHIS]
+>
+>[Dialogfelder](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)

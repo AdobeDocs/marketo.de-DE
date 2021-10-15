@@ -3,9 +3,9 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 1%
 
 ---
@@ -34,13 +34,13 @@ Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell 
 
 ## Zielgruppenkriterien {#audience-criteria}
 
-Ähnlich wie bei Smart-Lists in Marketo ermöglichen Ihnen Zielgruppenkriterien-Attribute die Definition Ihrer Zielgruppe. Sie können bekannte oder unbekannte Leads mit abgeleiteten, Lead- oder Unternehmensattributen (oder einer Kombination daraus) als Ziel auswählen.
+Ähnlich wie bei Smart-Lists in Marketo ermöglichen Ihnen Zielgruppenkriterien-Attribute die Definition Ihrer Zielgruppe. Sie können bekannte oder unbekannte Personen mithilfe von Inferred, Person oder Unternehmensattributen (oder einer Kombination daraus) ansprechen.
 
-**Bekannte Leads**
+**Bekannte Personen**
 
-Es gibt _viele_ Attributkombinationen, aus denen Sie auswählen können. In diesem Beispiel richten wir uns an alle **bekannten Leads** in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
+Es gibt _viele_ Attributkombinationen, aus denen Sie auswählen können. In diesem Beispiel richten wir uns an alle **bekannten Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
 
-1. Ziehen Sie das Attribut **Lead-Status** und ziehen Sie es nach rechts.
+1. Ziehen Sie das Attribut **Personenstatus** nach rechts.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Es gibt _viele_ Attributkombinationen, aus denen Sie auswählen können. In dies
 
    ![](assets/dialogues-8.png)
 
-**Anonyme Leads**
+**Anonyme Personen**
 
-Es gibt eine einfache Möglichkeit, Leads gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel richten wir uns an alle **anonymen Leads**, die sich im Raum New York befinden.
+Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel richten wir uns an alle **anonymen Personen** im Raum New York.
 
-1. Ziehen Sie das Attribut **Lead-E-Mail** und ziehen Sie es nach rechts.
+1. Ziehen Sie das Attribut **Person Email** und ziehen Sie es nach rechts.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
  </tr>
  <tr>
   <td><strong>Zeitplan für die Ernennung</strong></td>
-  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Kalenderverfügbarkeit spiegelt [den nächsten Agenten in der Zeile](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing) wider.</td>
+  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Kalenderverfügbarkeit spiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">den nächsten Agenten in Zeile</a> wider.</td>
  </tr>
  <tr>
   <td><strong>Ziel</strong></td>
-  <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte nach "Informationserfassung"im Stream).</td>
+  <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte unmittelbar nach der Informationserfassung im Stream.</td>
  </tr>
 </table>
 
 **Erstellen eines Streams**
 
-Es müssen _viele_ Stream-Kombinationen erstellt werden. Sehen wir uns nur ein Beispiel [in diesem Artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md) an.
+Es gibt _viele_ mögliche Stream-Kombinationen. Sehen wir uns ein Beispiel [in diesem Artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md) an.
 
 ## Berichte {#reports}
 
@@ -162,7 +162,7 @@ Im Tab Berichte können Sie Daten aus den letzten 90 Tagen anzeigen. Jede Katego
   <td>Wird jedes Mal erhöht, wenn ein Besucher das Ende einer Verzweigung in einem Dialogfeld erreicht.</td>
  </tr>
  <tr>
-  <td><strong>Erfasste Leads</strong></td>
+  <td><strong>Erfasste Personen</strong></td>
   <td>Wird jedes Mal erhöht, wenn ein Besucher eine gültige E-Mail-Adresse in einem Dialogfluss bereitstellt.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ Im Tab Berichte können Sie Daten aus den letzten 90 Tagen anzeigen. Jede Katego
   <td>Wird jedes Mal erhöht, wenn ein Besucher in einem beliebigen Dialogfluss ein Ziel erreicht.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Erstellen eines Streams](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)
