@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1119'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 ## SalesConnect {#sales-connect}
 
 ![(Stern)](assets/yellow-star.png)
-
-**Email Connection Throttling (GA)**: Verbessern Sie die Zustellbarkeit von E-Mails und skalieren Sie die personalisierte Verkaufskommunikation mit der E-Mail-Verbindungsbegrenzung für Sales Connect. Diese innovative Technologie verwaltet automatisch das Versanddatum von E-Mails, um ein nahtloses Erlebnis für Exchange- und Gmail-Benutzer zu schaffen. Verringern oder eliminieren Sie die Verwendung von Massen-E-Mail-Sendeanwendungen von Drittanbietern und senden Sie alle E-Mails von Sales Connect sicher.
 
 **Verbesserte Einblicke** in die Verkaufsaktivität: Die neue E-Mail-Antwort-Tracking-Aktivität Sales-E-Mail beantwortet die Interaktionen der Empfänger mit einer E-Mail, die automatisch mit Marketo Engage synchronisiert wird. Darüber hinaus wurde das Quellattribut von &quot;Tout&quot;in &quot;Sales App&quot;aktualisiert. Diese Aktivität kann über die Marketo Engage-REST-API oder den Massenexport exportiert werden und ist in Filtern und Triggern als zusätzliche Einschränkungen für Smart-Listen verfügbar, wodurch die Personalisierungsoptionen in Smart-Kampagnen erweitert werden.
 
