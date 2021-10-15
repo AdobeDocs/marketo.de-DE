@@ -3,9 +3,9 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 1%
 
 ---
@@ -82,7 +82,7 @@ Es gibt eine einfache Möglichkeit, Leads gezielt anzusprechen, die noch nicht i
 
    >[!NOTE]
    >
-   >Wenn ein Besucher Ihre Website besucht, werden diese von [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies gesetzt und in das System eingefügt. Wir schauen ihre IP in einer speziellen Datenbank nach und schließen alle möglichen guten Informationen.
+   >Wenn ein Besucher Ihre Website besucht, werden diese von [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies gesetzt und in das System eingefügt. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen guten Informationen.
 
 1. __ Die Liste wird standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
@@ -90,9 +90,11 @@ Es gibt eine einfache Möglichkeit, Leads gezielt anzusprechen, die noch nicht i
 
 ## Gruppen hinzufügen {#add-groups}
 
-Sie haben auch die Möglichkeit, Attribute zu gruppieren, falls Sie alle Attribute zusammen mit &quot;beliebig&quot;eines anderen Attributs haben möchten.
+Sie haben auch die Möglichkeit, Attribute zu gruppieren, falls Sie alle Attribute zusammen mit &quot;all&quot;oder &quot;any&quot;eines anderen Attributs haben möchten. Sie können mehrere Gruppen hinzufügen.
 
-ABSCHLIESSEN
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Ziel {#target}
 
@@ -107,7 +109,7 @@ Zulässige Formate:
 
 >[!NOTE]
 >
->Die Verwendung eines Sternchens dient als Platzhalter. `https://*.website.com` würde also den Dialog auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). Und `https://website.com/folder/*` würde das Dialogfeld auf jede HTML-Seite im nachfolgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
+>Die Verwendung eines Sternchens dient als Platzhalter. `https://*.website.com` würde also den Dialog auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). Und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im nachfolgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
 
 ## Stream-Designer {#stream-designer}
 
@@ -139,9 +141,7 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
 
 **Erstellen eines Streams**
 
-Es müssen _viele_ Stream-Kombinationen erstellt werden. In diesem Beispiel stellen wir eine Ja- oder Nein-Frage und bereiten einige Antworten vor.
-
-Beispiel
+Es müssen _viele_ Stream-Kombinationen erstellt werden. Sehen wir uns nur ein Beispiel [in diesem Artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md) an.
 
 ## Berichte {#reports}
 
