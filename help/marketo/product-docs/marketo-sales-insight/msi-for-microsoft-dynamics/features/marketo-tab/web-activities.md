@@ -3,9 +3,9 @@ description: Web-Aktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Web-Aktivitäten
 hide: true
 hidefromtoc: true
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 Der Tab Web-Aktivitäten zeigt die Web-Aktivitäten Ihrer Leads/Kontakte an.
 Überprüfen Sie die neuesten Web-Aktivitäten Ihres Leads unter Angabe der Anzahl der Seitenbesuche und der entsprechenden Konten. Sie können die Ergebnisse filtern, um die angegebene Anzahl von Seiten zu begrenzen.
 
-PICC
+![](assets/web-activities-1.png)
 
 ## Anonyme Webaktivitäten {#anonymous-web-activities}
 
-Auf der Registerkarte Anonyme Web-Aktivitäten werden alle **anonymen** Web-Seiten-Besucher-Web-Aktivitäten angezeigt. Überprüfen Sie die neuesten Web-Aktivitäten, in denen die Anzahl der Seitenbesuche angegeben wird.
+Auf der Registerkarte Anonyme Webaktivitäten werden alle **anonymous** Webaktivitäten der Webseitenbesucher. Überprüfen Sie die neuesten Web-Aktivitäten, in denen die Anzahl der Seitenbesuche angegeben wird.

@@ -1,51 +1,50 @@
 ---
 unique-page-id: 11385057
-description: Einrichten von Kategorien - Marketing-Dokumente - Produktdokumentation
+description: Einrichten von Kategorien - Marketo-Dokumente - Produktdokumentation
 title: Kategorien einrichten
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
+# Kategorien einrichten {#set-up-categories}
 
-# Einrichten von Kategorien {#set-up-categories}
-
-Erstellen Sie Kategorien in Predictive Content, um Ihre Prognoseergebnisse im Web oder per E-Mail zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Sie können damit auch die Ansicht Ihrer Seite suchen und filtern.  Kategorien werden auf den Seiten &quot;Gesamter Inhalt&quot;und &quot;Vorheriger Inhalt&quot;angezeigt.
+Erstellen Sie Kategorien im prädiktiven Inhalt, um Ihre prognostizierten Ergebnisse im Web oder in der E-Mail zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Außerdem können Sie damit Ihre Seitenansicht durchsuchen und filtern.  Kategorien werden auf den Seiten &quot;Alle Inhalte&quot;und &quot;Prädiktive Inhalte&quot;zur einfachen Referenz angezeigt.
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Wenn Sie entdeckte Inhalte bearbeiten, fügen Sie im Bearbeitungsbildschirm Kategorien hinzu. Klicken Sie auf das Feld **Kategorien** und wählen Sie sie aus der Dropdownliste aus.
+Wenn Sie erkannten Inhalt bearbeiten, fügen Sie auf dem Bearbeitungsbildschirm Kategorien hinzu. Klicken Sie auf **Kategorien** und wählen Sie sie aus der Dropdown-Liste aus.
 
 ![](assets/two.png)
 
-Wenn Sie Inhalte hinzufügen, können Sie diese mit den im Popup-Fenster ausgewählten Kategorien taggen.
+Wenn Sie Inhalte hinzufügen, können Sie sie mit den im Popup-Fenster ausgewählten Kategorien taggen.
 
 ![](assets/add-new-content-dropdown-hand.png)
 
-## Kategorien-Tags erstellen {#create-category-tags}
+## Erstellen von Kategorie-Tags {#create-category-tags}
 
-So erstellen Sie Kategorien-Tags.
+So erstellen Sie Kategorie-Tags:
 
-1. Gehen Sie zu **Inhaltseinstellungen**.
+1. Navigieren Sie zu **Inhaltseinstellungen**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Klicken Sie auf **Kategorien**.
+1. Klicken **Kategorien**.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Vorhandene Kategorien-Tags werden angezeigt. Geben Sie ein neues Kategorien-Tag ein und klicken Sie auf **Neu erstellen**.
+1. Bestehende Kategorie-Tags werden angezeigt. Geben Sie ein neues Kategorie-Tag ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Sie können ein Kategorien-Tag entfernen, indem Sie neben dem Tag auf **x** klicken.
+1. Sie können ein Kategorie-Tag entfernen, indem Sie auf **x** daneben.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Klicken **Speichern** wenn Sie fertig sind.
 
    ![](assets/save-new.png)
 
