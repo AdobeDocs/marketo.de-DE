@@ -2,7 +2,7 @@
 title: model-health-and-data-valid
 description: Modellgesundheit und Datengültigkeit
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Die Leistung Ihrer Modelle hängt von der Qualität und Vollständigkeit der Ein
 
 >[!NOTE]
 >
->Als (+) gekennzeichnete Verhaltensweisen beeinflussen die Vorhersagen positiv (und umgekehrt).
+>Mit (+) gekennzeichnete Verhaltensweisen beeinflussen die Vorhersagen positiv (und umgekehrt).
 
 Hier ist, wie man seine Modellgesundheit bewertet.
 

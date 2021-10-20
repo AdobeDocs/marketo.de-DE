@@ -2,7 +2,7 @@
 title: Vorhersagekraft-Filter
 description: Vorhersagefilter
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 1%
@@ -21,13 +21,13 @@ Als Teil der Predictive Audiencen Angebot Marketo eine Gruppe von AI/ML-basierte
 
 ## Wahrscheinlichkeit einer Teilnahme
 
-Dieser Filter wird verwendet, um Ihre Audience effektiv einzuschränken. Dies hilft Ihnen bei der Zielgruppe und Einladung von Leads, bei denen die Wahrscheinlichkeit höher ist als **Anwesenheit** Ihr Webinar oder Ereignis. Beachten Sie Folgendes: &quot;[!UICONTROL Wahrscheinlichkeit, Programm zu besuchen]&quot; wird Ihr aktuelles Ereignis-Programm.
+Dieser Filter wird verwendet, um Ihre Audience effektiv einzuschränken. Dies hilft Ihnen bei der Zielgruppe und Einladung von Leads, bei denen die Wahrscheinlichkeit höher ist als **Anwesenheit** Ihr Webinar oder Ereignis. Beachten Sie, dass Ihre &quot;Wahrscheinlichkeit, am Programm teilzunehmen&quot; Ihr aktuelles Ereignis-Programm ist.
 
 ![Bild 2](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Wahrscheinlichkeit einer Registrierung
 
-Ähnlich der [!UICONTROL _Wahrscheinlichkeit einer Teilnahme_] filtern, verwenden Sie diesen Filter, um Ihre Audience und Zielgruppe-Leads einzuschränken, bei denen die Wahrscheinlichkeit höher ist als **Registrieren** für Ihr Webinar oder Ereignis.
+Ähnlich der _Wahrscheinlichkeit einer Teilnahme_ filtern, verwenden Sie diesen Filter, um Ihre Audience und Zielgruppe-Leads einzuschränken, bei denen die Wahrscheinlichkeit höher ist als **Registrieren** für Ihr Webinar oder Ereignis.
 
 ![Bild 3](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
