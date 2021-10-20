@@ -3,7 +3,7 @@ description: Einrichten von MSI-Ansichten - Marketo Docs - Produktdokumentation
 title: MSI-Ansichten einrichten
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Durch die Installation des Sales Insight-Plugins in Dynamics werden auf der Site
 
 1. Klicken Sie in Dynamics auf das Zahnradsymbol und wählen Sie **Erweiterte Einstellungen** aus dem Dropdown-Menü.
 
-1. Klicken Sie in der linken oberen Ecke des Bildschirms auf **Einstellungen**. Wählen Sie unter Anpassung Anpassungen aus.
+1. Klicken Sie in der linken oberen Ecke des Bildschirms auf **Einstellungen**. Wählen Sie unter Anpassung **Anpassungen**.
 
 1. Klick **System anpassen**.
 
