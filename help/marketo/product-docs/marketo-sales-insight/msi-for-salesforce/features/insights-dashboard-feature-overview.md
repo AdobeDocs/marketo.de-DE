@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Insights-Dashboard Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen des Insights-Dashboards
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Erfahren Sie mehr über die Funktionen, die in Ihrem Sales Insights-Dashboard ve
 
 >[!PREREQUISITES]
 >
->Sie müssen über das neueste MSI SFDC-Paket und [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md) verfügen.
+>Sie müssen über das neueste MSI SFDC-Paket verfügen und [Konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ Registerkarte Ereignis :
 * In der wöchentlichen Zusammenfassungsleiste werden interessante Momente, E-Mail- und Web-Aktivitäten für diese Woche angezeigt. Jedes Symbol kann angeklickt werden und als Filter verwendet werden, um bestimmte Aktivitäten anzuzeigen
 * Standardansicht: Dies ist eine Liste der Aktivitäten der aktuellen Ansicht
 
-**Bevorstehende E-Mail-Kampagnen und** EreignisseRegisterkarte E-Mail-Kampagnen :
+**Bevorstehende E-Mail-Kampagnen und -Ereignisse** Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder Standardprogrammen sind, die für die nächsten 90 Tage geplant sind
 * Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller in der Marketo-Instanz geplanten E-Mail-Kampagnen). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
@@ -171,3 +171,7 @@ Registerkarte Ereignis :
 * Bei Auswahl aller Ereignisse wird die Liste der Ereignisse angezeigt, die für die nächsten 90 Tage geplant sind
 * Karte mit Aktivitätsdetails in diesem Abschnitt verfügt über eine Vorschauoption
 * Filter enthält &quot;Suche&quot;, &quot;Nur eingeladene Ereignisse anzeigen&quot;und &quot;Datumsbereich&quot;
+
+>[!NOTE]
+>
+>Wenn Ihr Konto oder Ihre Gelegenheit mehr als 800 Kontakte hat, werden im Dashboard keine Daten angezeigt. Sie können jedoch zu einzelnen Kontakten gehen, um deren Einblicke und Interaktion zu sehen. Wenn Ihr Konto mehr als 800 Kontakte hat, wird &quot;Aktivität auf Kontoebene anzeigen&quot;deaktiviert.
