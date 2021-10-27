@@ -3,9 +3,9 @@ description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdoku
 title: Übersicht über dynamischen Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen
 
 ## Integrationen {#integrations}
 
-Eine wichtige Komponente des dynamischen Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu arbeiten. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis die Daten zum ersten Mal ([einmalige Synchronisation](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)) synchronisiert sind. Die durchschnittliche Synchronisierungszeit beträgt weniger als zwei Stunden.
+Eine wichtige Komponente des dynamischen Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu arbeiten. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis Daten für die erste [einmalige Synchronisierung](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) zu beenden.
 
 Folgendes wird synchronisiert:
 
@@ -58,7 +58,7 @@ Nein, es werden nur vordefinierte Antworten verwendet.
 
 **Wie kann ich anonyme Personen ansprechen?**
 
-In Ihrem Dialogfeld müssten Sie das Attribut _Person Email is Empty_ verwenden.
+In Ihrem Dialogfeld müssen Sie die _Person Email is Empty_ -Attribut.
 
 **Unterstützen Sie KI/NLP-Funktionen?**
 
