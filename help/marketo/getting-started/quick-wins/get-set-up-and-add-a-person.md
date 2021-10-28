@@ -3,10 +3,10 @@ unique-page-id: 2359351
 description: Einrichten und Hinzufügen einer Person - Marketo Docs - Produktdokumentation
 title: Einrichten und Hinzufügen einer Person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 17%
+source-wordcount: '213'
+ht-degree: 16%
 
 ---
 
@@ -55,6 +55,10 @@ Fügen Sie sich in Marketo selbst als Person hinzu, damit Sie sich später Test-
 1. Geben Sie Ihren Vor- und Nachnamen, Ihre E-Mail-Adresse und Ihren Firmennamen ein und klicken Sie auf **Erstellen** um sich selbst als Person hinzuzufügen.
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >Marketo **not** unterstützen E-Mail-Adressen, die Emojis enthalten.
 
 1. Um Ihre Personen anzuzeigen, öffnen Sie im linken Menü Ihre System Smart Lists und klicken Sie dann auf Alle Personen .
 
