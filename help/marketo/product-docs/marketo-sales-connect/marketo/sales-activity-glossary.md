@@ -1,29 +1,29 @@
 ---
-description: Glossar zur Verkaufsförderung - Marketo Docs - Produktdokumentation
-title: Glossar zur Aktivität des Verkaufs
+description: Glossar zu Verkaufsaktivitäten - Marketo-Dokumente - Produktdokumentation
+title: Glossar zur Verkaufsaktivität
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '510'
 ht-degree: 7%
 
 ---
 
-# Glossar zur Aktivität des Verkaufs {#sales-activity-glossary}
+# Glossar zur Verkaufsaktivität {#sales-activity-glossary}
 
-In Sales Connect, wenn ein Verkäufer: fügt einen Lead zu einem Vertrieb Cadence, schickt ihnen eine E-Mail, oder macht einen Anruf eine Aktivität, wird es unter dem Marketo Aktivität Verlauf protokolliert. Wenn der Lead mit E-Mails interagiert, werden außerdem Klicks und Antworten protokolliert.
+Wenn ein Verkäufer in Sales Connect: fügt einen Lead zu einem Verkaufskatalog hinzu, sendet ihm eine E-Mail oder tätigt einen Aufruf an eine Aktivität. Er wird im Verlauf der Marketo-Aktivität protokolliert. Wenn der Lead mit E-Mails interagiert, werden auch Öffnungen, Klicks und Antworten protokolliert.
 
 Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokolliert.
 
 >[!NOTE]
 >
->Diese Aktivitäten und Attribute können über unsere REST- und Massen-API genutzt werden.
+>Diese Aktivitäten und Attribute können über unsere REST- und Bulk-API genutzt werden.
 
 ## Aktivitäten {#activities}
 
 <table>
  <tr>
-  <th>Aktivität des Verkaufs</th>
+  <th>Verkaufsaktivität</th>
   <th>Attribut</th>
  </tr>
  <tr>
@@ -40,19 +40,19 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>URL der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>Verkaufs-Kampagne-URL</td>
+  <td>Vertriebskampagnen-URL</td>
  </tr>
  <tr>
   <td>Name der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>E-Mail-Betreff</td>
+  <td>Email Subject</td>
  </tr>
  <tr>
-  <td>Name der Kampagne</td>
+  <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebskennung</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="9">Verkaufs-E-Mail öffnen</th>
@@ -68,22 +68,22 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>URL der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>Verkaufs-Kampagne-URL</td>
+  <td>Vertriebskampagnen-URL</td>
  </tr>
  <tr>
   <td>Name der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>E-Mail-Betreff</td>
+  <td>Email Subject</td>
  </tr>
  <tr>
-  <td>Name der Kampagne</td>
+  <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebskennung</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
-  <th rowspan="10">E-Mail mit angeklicktem Vertrieb</th>
+  <th rowspan="10">angeklickte E-Mail zum Vertrieb</th>
   <td>Link</td>
  </tr>
  <tr>
@@ -99,45 +99,45 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>URL der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>Verkaufs-Kampagne-URL</td>
+  <td>Vertriebskampagnen-URL</td>
  </tr>
  <tr>
   <td>Name der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>E-Mail-Betreff</td>
+  <td>Email Subject</td>
  </tr>
  <tr>
-  <td>Name der Kampagne</td>
+  <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebskennung</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
 <tr>
-  <th rowspan="3">E-Mail für Verkäufe beantwortet</th>
+  <th rowspan="3">Antwort auf E-Mail zum Vertrieb</th>
   <td>Erhalten von</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebskennung</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="11">Hat Verkaufsanruf empfangen</th>
-  <td>Verkaufsaufruf erstellt von</td>
+  <td>Verkaufsaufruf von</td>
  </tr>
  <tr>
-  <td>Status des Verkaufsaufrufs</td>
+  <td>Status der Verkaufsaufrufe</td>
  </tr>
  <tr>
-  <td>Verkaufsanruf-Betreff</td>
+  <td>Verkaufsgespräch</td>
  </tr>
  <tr>
-  <td>Name der Kampagne</td>
+  <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Verkaufs-Kampagne-URL</td>
+  <td>Vertriebskampagnen-URL</td>
  </tr>
  <tr>
   <td>Telefonnummer des Verkäufers aufgerufen</td>
@@ -146,45 +146,26 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Dauer des Verkaufsaufrufs</td>
+  <td>Dauer der Verkaufsaufrufe</td>
  </tr>
  <tr>
   <td>URL zur Aufzeichnung von Verkaufsaufrufen</td>
  </tr>
   <tr>
-  <td>Kaufanruf beantwortet von</td>
+  <td>Verkaufsaufruf beantwortet von</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebskennung</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
-  <td>Name der Kampagne</td>
+  <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Status des Verkaufsaufrufs</td>
+  <td>Status der Verkaufsaufrufe</td>
  </tr>
  <tr>
-  <td>Verkaufs-Kampagne-URL</td>
- </tr>
- <tr>
-  <td>Gesendet von</td>
- </tr>
- <tr>
-  <td>Quelle</td>
- </tr>
- <tr>
-  <td>Vertriebs-Kampagne-ID</td>
- </tr>
- <tr>
-  <th rowspan="6">Aus Kampagne des Verkaufs entfernen</th>
-  <td>Name der Kampagne</td>
- </tr>
- <tr>
-  <td>Status des Verkaufsaufrufs</td>
- </tr>
- <tr>
-  <td>Verkaufs-Kampagne-URL</td>
+  <td>Vertriebskampagnen-URL</td>
  </tr>
  <tr>
   <td>Gesendet von</td>
@@ -193,7 +174,26 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Vertriebs-Kampagne-ID</td>
+  <td>Vertriebskampagnen-ID</td>
+ </tr>
+ <tr>
+  <th rowspan="6">Aus Vertriebskampagne entfernen</th>
+  <td>Name der Verkaufskampagne</td>
+ </tr>
+ <tr>
+  <td>Status der Verkaufsaufrufe</td>
+ </tr>
+ <tr>
+  <td>Vertriebskampagnen-URL</td>
+ </tr>
+ <tr>
+  <td>Gesendet von</td>
+ </tr>
+ <tr>
+  <td>Quelle</td>
+ </tr>
+ <tr>
+  <td>Vertriebskampagnen-ID</td>
  </tr>
 </table>
 
@@ -207,67 +207,67 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
  <tbody> 
  <tr> 
    <td><strong>Details</strong></td> 
-   <td>Details der Bounce-Fehlermeldung.</td> 
+   <td>Details zur Bounce-Fehlermeldung.</td> 
   </tr> 
   <tr> 
    <td><strong>E-Mail</strong></td> 
-   <td>E-Mail-Adresse, die geknackt wurde.</td> 
+   <td>Bounce-E-Mail-Adresse.</td> 
   </tr> 
   <tr> 
    <td><strong>Link</strong></td> 
    <td>URL, auf die geklickt wurde.</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo-Vertriebskennung</strong></td> 
-   <td>Eindeutige ID für Personendatensätze in Sales Connect.</td> 
+   <td><strong>Marketo Sales Person ID</strong></td> 
+   <td>Eindeutige ID für den Personendatensatz in Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Erhalten von</strong></td> 
    <td>E-Mail-Adresse der Person, die die E-Mail gesendet hat.</td> 
   </tr>
   <tr> 
-   <td><strong>Kaufanruf beantwortet von</strong></td> 
-   <td>Name der Person, die den Anruf beantwortet hat.</td> 
+   <td><strong>Verkaufsaufruf beantwortet von</strong></td> 
+   <td>Name der Person, die den Anruf entgegengenommen hat.</td> 
   </tr>
   <tr> 
-   <td><strong>Dauer des Verkaufsaufrufs</strong></td> 
-   <td>Dauer des Anrufs in Sekunden.</td> 
+   <td><strong>Dauer der Verkaufsaufrufe</strong></td> 
+   <td>Länge des Aufrufs in Sekunden.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsaufruf erstellt von</strong></td> 
-   <td>E-Mail-Adresse des Verkäufers, der den Anruf getätigt hat.</td> 
+   <td><strong>Verkaufsaufruf von</strong></td> 
+   <td>E-Mail-Adresse der Verkaufsperson, die den Anruf getätigt hat.</td> 
   </tr>
   <tr> 
    <td><strong>URL zur Aufzeichnung von Verkaufsaufrufen</strong></td> 
-   <td>URL der Telefonaufzeichnung.</td> 
+   <td>URL der Aufrufaufzeichnung.</td> 
   </tr>
   <tr> 
-   <td><strong>Status des Verkaufsaufrufs</strong></td> 
-   <td>speichert den endgültigen Anrufstatus des Anrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
+   <td><strong>Status der Verkaufsaufrufe</strong></td> 
+   <td>Speichert den endgültigen Aufrufstatus des Aufrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsanruf-Betreff</strong></td> 
-   <td>Ergebnis anrufen, das von einem Vertriebsbenutzer im Dialer ausgewählt wird.</td> 
+   <td><strong>Verkaufsgespräch</strong></td> 
+   <td>Rufen Sie das Ergebnis auf, das von einem Vertriebsbenutzer im Dialer ausgewählt wird.</td> 
   </tr>
   <tr> 
-   <td><strong>Vertriebs-Kampagne-ID</strong></td> 
-   <td>Eindeutige ID für Sales Kampagne-Asset in Sales Connect.</td> 
+   <td><strong>Vertriebskampagnen-ID</strong></td> 
+   <td>Eindeutige ID für Sales Campaign-Assets in Sales Connect.</td> 
   </tr>
   <tr> 
-   <td><strong>Name der Kampagne</strong></td> 
-   <td>Name der Kampagne.</td> 
+   <td><strong>Name der Verkaufskampagne</strong></td> 
+   <td>Name der Verkaufskampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufs-Kampagne-URL</strong></td> 
-   <td>Sales Connect-URL für die Kampagne des Verkaufs.</td> 
+   <td><strong>Vertriebskampagnen-URL</strong></td> 
+   <td>Sales Connect-URL für die Vertriebskampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>E-Mail-Betreff für Verkäufe</strong></td> 
-   <td>Betreffzeile der E-Mail.</td> 
+   <td><strong>Sales Email Subject</strong></td> 
+   <td>Betreffzeile der E-Mail</td> 
   </tr>
   <tr> 
    <td><strong>Telefonnummer des Verkäufers aufgerufen</strong></td> 
-   <td>Telefonnummer, die vom Vertrieb aufgerufen wird.</td> 
+   <td>Telefonnummer, die von Sales aufgerufen wird.</td> 
   </tr>
   <tr> 
    <td><strong>Name der Verkaufsvorlage</strong></td> 
@@ -283,11 +283,11 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td>Quelle der Aktivität. Wird für Sales Connect-Aktivitäten als "Tout"festgelegt.</td> 
+   <td>Quelle der Aktivität. Wird vor der Version vom 22. Januar als "Tout"für Sales Connect-Aktivitäten festgelegt. wird nach der Version vom 22. Januar als "Sales App"für Sales Connect-Aktivitäten verwendet.</td>
   </tr> 
   <tr> 
    <td><strong>Vorlagen-ID</strong></td> 
-   <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die Marketo Sales Connect-Vorlagen-ID. Verwenden Sie diese Option, um eine bestimmte Vorlage anstelle einer Betreffzeile Zielgruppe, die in mehreren Vorlagen vorhanden sein könnte.
+   <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die Marketo Sales Connect-Vorlagen-ID. Verwenden Sie dies, um eine bestimmte Vorlage anstelle der Betreffzeile auszuwählen, die in mehreren Vorlagen vorhanden sein könnte.
 </td> 
   </tr> 
  </tbody> 
