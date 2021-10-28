@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '7972'
+source-wordcount: '7974'
 ht-degree: 5%
 
 ---
@@ -159,16 +159,16 @@ ht-degree: 5%
       + Audit-Trail {#audit-trail}
          + [Audit-Protokoll - Überblick](product-docs/administration/audit-trail/audit-trail-overview.md)
          + [Details im Audit-Protokoll ändern](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
-         + [Enable Audit Trail](product-docs/administration/audit-trail/enable-audit-trail.md)
-         + [Filtering in Audit Trail](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-         + [User Login History](product-docs/administration/audit-trail/user-login-history.md)
+         + [Audit-Protokoll aktivieren](product-docs/administration/audit-trail/enable-audit-trail.md)
+         + [Filtern im Audit-Protokoll](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+         + [Anmeldeverlauf für Benutzer](product-docs/administration/audit-trail/user-login-history.md)
       + E-Mail-Einrichtung {#email-setup}
          + Hinzufügen mehrerer Branding-Domänen {#add-multiple-branding-domains}
-            + [Add an Additional Branding Domain with Workspaces](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)
+            + [Hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)
             + [Hinzufügen einer zusätzlichen Branding-Domäne](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
             + [Eine Branding-Domäne löschen](product-docs/administration/email-setup/add-multiple-branding-domains/delete-a-branding-domain.md)
             + [Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
-            + [Edit Your Default Branding Domain](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
+            + [Bearbeiten Ihrer Standard-Branding-Domäne](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
             + [Primäre Domäne für E-Mails überschreiben](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
          + [Ändern von benutzerdefinierten Object Retrieval Limits in Velocity-Skripten](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
          + [Standard von E-Mail und Titel ändern](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
@@ -196,7 +196,7 @@ ht-degree: 5%
          + [Feld als vertraulich markieren](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [Umbenennen eines Felds](product-docs/administration/field-management/rename-a-field.md)
          + [Grundlegendes zu systemverwalteten Feldern](product-docs/administration/field-management/understanding-system-managed-fields.md)
-         + [View Field Mappings Between Marketo and Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
+         + [Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
       + Benutzerspezifische Marketo-Aktionen {#marketo-custom-activities}
          + [Grundlegendes zu benutzerdefinierten Aktivitäten](product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
          + [Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten/löschen](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
@@ -399,7 +399,7 @@ ht-degree: 5%
          + Statische Listen {#static-lists}
             + [Erstellen einer statischen Liste](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Senden einer Liste an Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
-            + [Push an Adobe Experience Platform Segment to a Marketo Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
+            + [Adobe Experience Platform-Segment in eine statische Marketo-Liste pushen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
             + [Grundlegendes zu statischen Listen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programme {#programs}
          + Erstellen von Programmen {#creating-programs}
@@ -620,8 +620,8 @@ ht-degree: 5%
          + [Senden einer Liste an ein Werbenetzwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamischer Chat {#dynamic-chat}
          + [Übersicht über dynamischen Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [Initial Setup](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [Connect Dynamic Chat to Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
+         + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+         + [Dynamischen Chat mit Marketo verbinden](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Dialogfelder](product-docs/demand-generation/dynamic-chat/dialogues.md)
@@ -639,9 +639,9 @@ ht-degree: 5%
             + [Erstellen einer Veranstaltung mit Level 3-Webtreffen](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Erstellen eines Ereignisses mit ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [Erstellen eines Ereignisses mit WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-            + [Create an Event with Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
+            + [Erstellen eines Ereignisses mit Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Erstellen eines Ereignisses mit dem Marketo ON24-Adapter {#create-an-event-with-the-marketo-on24-adapter}
-               + [Create an Event with the Marketo ON24 Adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+               + [Erstellen eines Ereignisses mit dem Marketo ON24-Adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Konfigurieren von Ereigniseinstellungen und Synchronisieren von Marketo mit Ihrem Webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Erstellen eines Ereignisses in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [Erstellen untergeordneter Kampagnen und lokaler Assets](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
@@ -654,7 +654,7 @@ ht-degree: 5%
                + [Grundlegendes zum Webinar-Programmstatus](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
       + Facebook {#facebook}
          + [Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-         + [Create a Custom Audience in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+         + [Erstellen einer benutzerdefinierten Zielgruppe in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [Bearbeiten von Facebook Rich-Post-Einstellungen](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [Veröffentlichen von Landingpages in Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [Einrichten von Facebook-Lead-Anzeigen](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
@@ -1061,7 +1061,8 @@ ht-degree: 5%
    + Erlebnis der nächsten Generation in Marketo Engage {#marketo-engage-next-generation-experience}
       + [Überblick](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [Symbol Glossar](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
-      + [Using the Global Search](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
+      + [Verwenden der globalen Suche](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
+      + [Umschalten](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Erste Schritte {#getting-started}
          + [Überblick über Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1071,11 +1072,11 @@ ht-degree: 5%
          + [Ändern des Kennworts für die Verkaufsverbindung](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-Mail-Einstellungen {#email-settings}
             + [Identität hinzufügen](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
-            + [Add Your Email Signature](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
+            + [E-Mail-Signatur hinzufügen](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [Nie eine Verifizierungs-E-Mail erhalten](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
             + [Prüfen Ihrer E-Mail](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + Administrator {#admin}
-         + [Additional Admins](product-docs/marketo-sales-connect/admin/additional-admins.md)
+         + [Zusätzliche Administratoren](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [Blockierte Domänen](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Inhaltssperre](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Erstellen eines Unterteams](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1285,9 +1286,9 @@ ht-degree: 5%
             + [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
             + [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
-            + [Install and Configure Marketo Sales Insight in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
+            + [Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + Einrichten und Verwenden von {#setting-up-and-using}
-            + [Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+            + [Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne aus Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Erforderliche Felder für die Synchronisierung von Marketo mit Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [Senden einer Marketo Sales-E-Mail aus Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
@@ -1303,8 +1304,8 @@ ht-degree: 5%
             + [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Konfiguration für bestehende Kunden](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
-            + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [Marketo Sales Insight-Konfigurationsregisterkarte in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Sales Insight-Seite für Marketo-Administratoren](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Einrichten von Sales Insight für Ihr Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Funktionen {#features}
             + [Übersicht über MSI-Funktionen](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
@@ -1488,16 +1489,16 @@ ht-degree: 5%
          + Berichtanmeldungen {#report-subscriptions}
             + [Abonnement einer Smart-Liste bearbeiten](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
             + [Berichtanmeldungen verwalten](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
-            + [Secure the Subscription Admin Setting](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+            + [Sichern der Abonnement-Admin-Einstellung](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
             + [Abonnieren eines einfachen Berichts](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Smart-Liste abonnieren](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Berichtstypen {#report-types}
             + [Bericht zur Kampagnenaktivität](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Bericht zur E-Mail-Leistung von Campaign](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Bericht zur Web-Aktivität des Unternehmens](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-            + [People by Status Report](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+            + [Personen nach Status-Bericht](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Personenleistungsbericht](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-            + [Report Type Overview](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [Berichtstyp - Übersicht](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
             + [Webseitenaktivitätsbericht](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Angezeigte Webseiten, Bericht zur Webseiten-Aktivität](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-Mail Insights {#email-insights}
@@ -1708,7 +1709,7 @@ ht-degree: 5%
       + 2015 {#2015}
          + [Versionshinweise: April 2015](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [Versionshinweise: Herbst 15](release-notes/previous-releases/2015/release-notes-fall-15.md)
-         + [Release Notes: February 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
+         + [Versionshinweise: Februar 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
          + [Versionshinweise: Januar 2015](release-notes/previous-releases/2015/release-notes-january-2015.md)
          + [Versionshinweise: Juli 2015](release-notes/previous-releases/2015/release-notes-july-2015.md)
          + [Versionshinweise: Juni 2015](release-notes/previous-releases/2015/release-notes-june-2015.md)
@@ -1728,7 +1729,7 @@ ht-degree: 5%
          + [Versionshinweise: April 2013](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [Versionshinweise: August 2013](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [Versionshinweise: Dezember 2013](release-notes/previous-releases/2013/release-notes-december-2013.md)
-         + [Release Notes: February 2013](release-notes/previous-releases/2013/release-notes-february-2013.md)
+         + [Versionshinweise: Februar 2013](release-notes/previous-releases/2013/release-notes-february-2013.md)
          + [Versionshinweise: Januar 2013](release-notes/previous-releases/2013/release-notes-january-2013.md)
          + [Versionshinweise: Juli 2013](release-notes/previous-releases/2013/release-notes-july-2013.md)
          + [Versionshinweise: Juni 2013](release-notes/previous-releases/2013/release-notes-june-2013.md)
@@ -1737,13 +1738,13 @@ ht-degree: 5%
          + [Versionshinweise: Oktober 2013](release-notes/previous-releases/2013/release-notes-october-2013.md)
          + [Versionshinweise: September 2013](release-notes/previous-releases/2013/release-notes-september-2013.md)
       + 2012 {#2012}
-         + [Release Notes: April 2012](release-notes/previous-releases/2012/release-notes-april-2012.md)
+         + [Versionshinweise: April 2012](release-notes/previous-releases/2012/release-notes-april-2012.md)
          + [Versionshinweise: Dezember 2012](release-notes/previous-releases/2012/release-notes-december-2012.md)
          + [Versionshinweise: Januar/Februar 2012](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
-         + [Release Notes: June 2012](release-notes/previous-releases/2012/release-notes-june-2012.md)
-         + [Release Notes: March 2012](release-notes/previous-releases/2012/release-notes-march-2012.md)
+         + [Versionshinweise: Juni 2012](release-notes/previous-releases/2012/release-notes-june-2012.md)
+         + [Versionshinweise: März 2012](release-notes/previous-releases/2012/release-notes-march-2012.md)
          + [Versionshinweise: Mai 2012](release-notes/previous-releases/2012/release-notes-may-2012.md)
          + [Versionshinweise: Oktober 2012](release-notes/previous-releases/2012/release-notes-october-2012.md)
-         + [Release Notes: September 2012](release-notes/previous-releases/2012/release-notes-september-2012.md)
+         + [Versionshinweise: September 2012](release-notes/previous-releases/2012/release-notes-september-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)
       + [2007-2009](release-notes/previous-releases/2007-2009.md)

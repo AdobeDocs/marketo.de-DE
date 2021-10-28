@@ -2,9 +2,9 @@
 description: Glossar zu Verkaufsaktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Glossar zur Verkaufsaktivität
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 7%
 
 ---
@@ -263,7 +263,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   </tr>
   <tr> 
    <td><strong>Sales Email Subject</strong></td> 
-   <td>Betreffzeile der E-Mail</td> 
+   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B.: Meine Betreffzeile (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Telefonnummer des Verkäufers aufgerufen</strong></td> 
@@ -283,7 +283,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td>Quelle der Aktivität. Wird vor der Version vom 22. Januar als "Tout"für Sales Connect-Aktivitäten festgelegt. wird nach der Version vom 22. Januar als "Sales App"für Sales Connect-Aktivitäten verwendet.</td>
+   <td>Quelle der Aktivität. Wird vor der Version vom 21. Oktober als "Tout"für Sales Connect-Aktivitäten festgelegt. wird nach der Version vom 21. Oktober als "Sales App"für Sales Connect-Aktivitäten verwendet.</td>
   </tr> 
   <tr> 
    <td><strong>Vorlagen-ID</strong></td> 
