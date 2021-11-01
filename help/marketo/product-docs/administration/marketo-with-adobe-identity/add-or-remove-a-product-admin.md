@@ -3,9 +3,9 @@ description: Hinzufügen oder Entfernen von Produktadministratoren - Marketo-Dok
 title: Hinzufügen oder Entfernen eines Produkt-Admins
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**** SystemAdmins werden nur auf Adobe-Org-Ebene erstellt. Wenn Sie glauben, dass Sie mehr als eine benötigen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>**System** Administratoren werden nur auf der Ebene der Adobe-Organisation erstellt. Wenn Sie glauben, dass Sie mehr als eine benötigen, wenden Sie sich bitte an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Produkt-Admin hinzufügen {#add-a-product-admin}
 
-1. Melden Sie sich bei [Adobe Admin Console](https://adminconsole.adobe.com/) an.
+1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Klicken Sie auf **Marketo Engage**.
+1. Klicken **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -30,15 +30,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Klicken Sie auf die Registerkarte **Admins** .
+1. Klicken Sie auf **Administratoren** Registerkarte.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Klicken Sie auf die Schaltfläche **Admin** hinzufügen .
+1. Klicken Sie auf **Admin hinzufügen** Schaltfläche.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Geben Sie die E-Mail-Adresse oder den Benutzernamen des Admins ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional. Klicken Sie auf **Save**.
+1. Geben Sie die E-Mail-Adresse oder den Benutzernamen des Admins ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional. Klicken **Speichern**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -46,25 +46,31 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Klicken Sie unter &quot;Products&quot;auf das Menü mit drei Punkten und wählen Sie **Edit**.
+1. Klicken Sie unter &quot;Products&quot;auf das Menü mit drei Punkten und wählen Sie **Bearbeiten**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Klicken Sie auf das Symbol **+**. Klicken Sie auf den Pfeil neben dem gewünschten Marketo Engage-Abonnement (wenn mehr als ein Abonnement vorhanden ist) und wählen Sie das gewünschte Produktprofil aus.
+1. Klicken Sie auf **+** signieren. Klicken Sie auf den Pfeil neben dem gewünschten Marketo Engage-Abonnement (wenn mehr als ein Abonnement vorhanden ist) und wählen Sie das gewünschte Produktprofil aus.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Klicken Sie auf **Save**.
+1. Klicken **Speichern**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
+Der Benutzer erhält dann zwei E-Mails. Die erste E-Mail informiert sie darüber, dass Marketo Engage Produktadministratorrechte zugewiesen wurden. Die zweite E-Mail lädt sie ein, sich bei Marketo Engage anzumelden.
+
+>[!NOTE]
+>
+>Wenn der Produktadministratorbenutzer über Adobe Admin Console zu Marketo Engage hinzugefügt wird, erhält der Adobe-Produktadministrator die Administratorrolle innerhalb des Abonnements.
+
 ## Entfernen eines Administrators {#remove-a-user}
 
-1. Melden Sie sich bei [Adobe Admin Console](https://adminconsole.adobe.com/) an.
+1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Klicken Sie auf **Marketo Engage**.
+1. Klicken **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -72,14 +78,16 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Klicken Sie auf die Registerkarte **Admins** .
+1. Klicken Sie auf **Administratoren** Registerkarte.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Wählen Sie den zu entfernenden Admin aus und klicken Sie auf die Schaltfläche **Admin** entfernen .
+1. Wählen Sie den Admin aus, den Sie entfernen möchten, und klicken Sie auf die Schaltfläche **Administrator entfernen** Schaltfläche.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Klicken Sie zur Bestätigung auf **Admin** entfernen.
+1. Klicken **Administrator entfernen** zur Bestätigung.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
+
+Der Benutzer wird dann per E-Mail benachrichtigt, dass er keinen Produktadministratorzugriff mehr auf Marketo Engage hat.
