@@ -1,109 +1,108 @@
 ---
 unique-page-id: 37356893
-description: Übersicht über die MSI-Funktionen - Marketing-Dokumente - Produktdokumentation
-title: Übersicht über die MSI-Funktionen
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+description: Übersicht über MSI-Funktionen - Marketo-Dokumente - Produktdokumentation
+title: Übersicht über MSI-Funktionen
+exl-id: e6cd988c-afba-44e3-b240-68258236f344
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '926'
+ht-degree: 12%
 
 ---
 
+# Übersicht über MSI-Funktionen {#msi-feature-overview}
 
-# Übersicht über die MSI-Funktionen {#msi-feature-overview}
+MSI bietet die folgenden Funktionen in Salesforce Lightning und Classic.
 
-MSI verfügt über die folgenden Funktionen in Salesforce Lightning und Classic.
+## Visualforce-Bereich {#visualforce-panel}
 
-## Visualforce-Bedienfeld {#visualforce-panel}
-
-MSI Visualforce Panel umfasst die folgenden Funktionen:
+Das MSI Visualforce-Bedienfeld umfasst die folgenden Funktionen:
 
 * Registerkarten
 
-   * [Insight-Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+   * [Insights-Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Interessanter Moment
-   * Web-Aktivität
-   * Email
-   * Ergebnis
+   * Webaktivität
+   * E-Mail
+   * Bewertung
 
 * Aktionen
 
-   * hinzufügen zur Kampagne von Marketo
-   * E-Mail an Marke senden
-   * hinzufügen/Entfernen aus der überwachten Liste
+   * Zu Marketo-Kampagne hinzufügen
+   * Marketo-E-Mail senden
+   * Aus Überwachungsliste hinzufügen/entfernen
 
 * Sterne und Flammen
 
-## Interessentenlayout {#lead-layout}
+## Lead-Layout {#lead-layout}
 
 Visualforce-Seiten:
 
-* Interessenten - Enthält die Option zum Klicken auf die Unterschrift &quot;Zur vollen Liste&quot;, werden Sie zu einer neuen Registerkarte in Salesforce gesendet, wo das MSI-Bedienfeld in einem ganzseitigen Layout angezeigt wird
-* Interessentenvolle Liste - Enthält nicht die Option &quot;Gehe zu voller Liste&quot;
-* Interessentenmobil - Sichtbar in Salesforce-Mobilanwendung
-* InteressentenkontaktBridge - Zeigt den Bereich &quot;MSI&quot;des Kontakts an, den Sie im Feld &quot;MSI-Kontakt-ID&quot;hinzugefügt haben
+* Lead - Enthält die Option zum Klicken auf die Unterschrift &quot;Zur vollständigen Liste gehen&quot;. Sie werden auf eine neue Registerkarte in Salesforce gesendet, auf der das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird.
+* Lead-Vollständige Liste - enthält nicht die Option &quot;Zur vollständigen Liste wechseln&quot;
+* Lead Mobile - In Salesforce Mobile App sichtbar
+* Lead Contact Bridge - Zeigt das MSI-Bedienfeld des Kontakts an, den Sie im Feld MSI-Kontakt-ID hinzugefügt haben
 
 Felder:
 
 * Letzter interessanter Moment
 * Datum des letzten interessanten Moments
-* Letzter interessanter Moment Desc
-* Letzter interessanter Moment Quelle
-* Letzter interessanter Moment-Typ
-* Letzte Aktivität nach Vertrieb
-* Letzte Marketinginteraktion nach Vertrieb
+* Beschreibung des letzten interessanten Moments
+* Quelle des letzten interessanten Moments
+* Typ des letzten interessanten Moments
+* Letzte Marketo-Aktivität nach Verkauf
+* Letztes Marketo-Engagement nach Verkauf
 * Relative Bewertung
-* relativer Score-Wert
+* Wert für Relativergebnis
 * Dringlichkeit
-* Dringlichkeitswert
-* Ansicht in Marketo - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Interessenten in Marketo zu öffnen. Umfasst: Interessenteninformationen, Firmen-Info, SFDC-Interessenteninformationen, benutzerdefinierte SFDC-Felder, Aktivitäten-Protokoll
-* MSI-Kontakt-ID - Hinzufügen einem Salesforce-Kontakt zu diesem Feld und fügen Sie das Bedienfeld &quot;Interessenten-Kontakt-Bridge&quot;in das Interessentenlayout ein, um das MSI-Bedienfeld des Kontakts anzuzeigen
+* Wert für Wichtigkeit
+* In Marketo anzeigen - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Umfasst: Lead-Info, Firmeninformationen, SFDC-Lead-Informationen, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
+* MSI-Kontakt-ID - Fügen Sie diesem Feld einen Salesforce-Kontakt hinzu und fügen Sie das Bedienfeld &quot;Lead Contact Bridge&quot;in das Lead-Layout ein, um das MSI-Bedienfeld des Kontakts anzuzeigen.
 
 ## Kontaktlayout {#contact-layout}
 
 Visualforce-Seiten:
 
-* Kontakt - Umfasst die Option zum Klicken auf die Hyper-Schaltfläche &quot;Zur vollen Liste gehen&quot;, werden Sie an eine neue Registerkarte in Salesforce gesendet, wo das MSI-Bedienfeld in einem ganzseitigen Layout angezeigt wird
-* Volle Liste kontaktieren - enthält keine Option &quot;Zur vollen Liste gehen&quot;
-* Contact Mobile - Sichtbar in Salesforce-Mobilanwendung
-* Kontaktseite Hinzufügen zur Marketing-Kampagne - Funktion Hinzufügen zur Marketing-Kampagne ist in diesem Bereich verfügbar
+* Kontakt - Enthält die Option zum Klicken auf &quot;Zur vollständigen Liste gehen&quot;, werden Sie an eine neue Registerkarte in Salesforce gesendet, auf der das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird.
+* Kontaktliste - enthält keine Option &quot;Zur vollständigen Liste&quot;
+* Contact Mobile - Visible in Salesforce mobile application
+* Zu Marketo Campaign-Kontaktseite hinzufügen - Funktion &quot;Zu Marketo Campaign hinzufügen&quot;ist in diesem Bereich verfügbar
 
 Felder:
 
 * Letzter interessanter Moment
 * Datum des letzten interessanten Moments
-* Letzter interessanter Moment Desc
-* Letzter interessanter Moment Quelle
-* Letzter interessanter Moment-Typ
-* Letzte Aktivität nach Vertrieb
+* Beschreibung des letzten interessanten Moments
+* Quelle des letzten interessanten Moments
+* Typ des letzten interessanten Moments
+* Letzte Marketo-Aktivität nach Verkauf
 * Relative Bewertung
-* relativer Score-Wert
+* Wert für Relativergebnis
 * Dringlichkeit
-* Dringlichkeitswert
-* Ansicht in Marketo - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Interessenten in Marketo zu öffnen. Umfasst: Interessenteninformationen, Firmen-Info, SFDC-Interessenteninformationen, benutzerdefinierte SFDC-Felder, Aktivitäten-Protokoll
-* MKTO-Interessentenbewertung
-* Sales Insight - Öffnet die Seite mit der vollständigen Liste
+* Wert für Wichtigkeit
+* In Marketo anzeigen - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Umfasst: Lead-Info, Firmeninformationen, SFDC-Lead-Informationen, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
+* MKTO-Lead-Ergebnis
+* Sales Insight - Öffnet die Seite mit der vollständigen Liste .
 
 ## Kontolayout {#account-layout}
 
 Visualforce-Seiten:
 
-* Konto - Umfasst die Option zum Klicken auf die Hyper-Schaltfläche &quot;Zur vollen Liste gehen&quot;, werden Sie zu einem neuen Register in Salesforce gesendet, wo das MSI-Bedienfeld in einem ganzseitigen Layout angezeigt wird
-* Vollständige Liste des Kontos - Option &quot;Zur vollen Liste gehen&quot;ist nicht enthalten
-* Account Mobile - Sichtbar in der mobilen Anwendung Salesforce
+* Konto - Umfasst die Option zum Klicken auf die Unterschrift &quot;Zur vollständigen Liste gehen&quot;. Sie werden auf eine neue Registerkarte in Salesforce gesendet, auf der das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird.
+* Vollständige Kontoliste - enthält keine Option &quot;Zur vollständigen Liste wechseln&quot;
+* Account Mobile - Visible in Salesforce mobile application
 
 Felder:
 
-* Sales Insight - Öffnet die Seite mit der vollständigen Liste
+* Sales Insight - Öffnet die Seite mit der vollständigen Liste .
 
 Aktionen:
 
-* hinzufügen zur Kampagne von Marketo
-* E-Mail an Marke senden
-* hinzufügen/Entfernen aus der überwachten Liste
+* Zu Marketo-Kampagne hinzufügen
+* Marketo-E-Mail senden
+* Aus Überwachungsliste hinzufügen/entfernen
 
-Die folgenden Funktionen stehen auf der Seite &quot;Kontolayout&quot;nicht zur Verfügung:****
+Die folgenden Funktionen sind **nicht verfügbar** auf der Seite Kontolayout :
 
 * Sterne und Flammen
 
@@ -111,85 +110,89 @@ Die folgenden Funktionen stehen auf der Seite &quot;Kontolayout&quot;nicht zur V
 
 Visualforce-Seiten:
 
-* Gelegenheit - Enthält die Option zum Klicken auf die Unterschrift &quot;Zur vollen Liste gehen&quot;, werden Sie zu einer neuen Registerkarte in Salesforce gesendet, wo das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird
-* Vollständige Liste der Gelegenheit - Option &quot;Zur vollen Liste gehen&quot;ist nicht enthalten
-* Opportunity Mobile - Sichtbar in Salesforce-Mobilanwendung
+* Chancen - Enthält die Option zum Klicken auf &quot;Zur vollständigen Liste gehen&quot;, werden Sie an eine neue Registerkarte in Salesforce gesendet, auf der das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird
+* Vollständige Liste der Möglichkeiten - enthält nicht die Option &quot;Zur vollständigen Liste wechseln&quot;
+* Opportunity Mobile - Visible in Salesforce mobile application
 
 Felder:
 
-* Sales Insight - Öffnet die Seite mit der vollständigen Liste
-* Analyse von Marketo-Chancen - eröffnet Einflussanalyse für Chancen in Marketing
+* Sales Insight - Öffnet die Seite mit der vollständigen Liste .
+* Marketo Opportunity Analysis - Opportunity Influenza Analyzer in Marketo
 
 Aktionen:
 
-* hinzufügen zur Kampagne von Marketo
-* E-Mail an Marke senden
-* hinzufügen/Entfernen aus der überwachten Liste
+* Zu Marketo-Kampagne hinzufügen
+* Marketo-E-Mail senden
+* Aus Überwachungsliste hinzufügen/entfernen
 
-Die folgenden Funktionen sind auf der Seite &quot;Opportunity Layout&quot;nicht verfügbar: **Nicht verfügbar**:
+Die folgenden Funktionen sind **nicht verfügbar** auf der Seite &quot;Opportunity Layout&quot;:
 
 * Sterne und Flammen
 
-## Ansicht der Interessenten- und Kontaktpersonen-Liste (Massenaktionen) {#lead-and-contact-list-view-bulk-actions}
+## Ansicht &quot;Lead&quot;und &quot;Kontaktliste&quot;(Massenaktionen) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce-Blitz: hinzufügen der Aktionsschaltflächen für die Massenaktion &quot;&quot;, &quot;Hinzufügen&quot;, &quot;Marketo-Kampagne&quot;und &quot;Senden von E-Mail an E-Mail an die Kontaktanfrage&quot;in der Ansicht &quot;Interessenten- und Kontaktaufnahme&quot;der Liste.
+Salesforce Lightning: Fügen Sie die Aktionsschaltflächen Zu Marketo Campaign hinzufügen und Marketo-E-Mail-Massenaktion senden in der Liste der Leads und Kontakte hinzu.
 
-Salesforce Classic: hinzufügen in der Ansicht &quot;Lead- und Kontaktaufnahme&quot;die Schaltflächen für Massenaktionen für-, Hinzufügen- und Marketing-Kampagne und Senden von E-Mail-Nachrichten.
+Salesforce Classic: Fügen Sie in der Listenansicht &quot;Lead&quot;und &quot;Kontaktliste&quot;die Schaltflächen &quot;Zu Marketo Campaign hinzufügen&quot;und &quot;Marketo-E-Mail-Massenaktion senden&quot;hinzu.
 
 ## Marketo-Registerkarte {#marketo-tab}
 
-* Beste Betas
+* Vielversprechende Kontakte
 
-   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten. Möglichkeit zum Ausblenden der besten Einsätze abhängig von der Konfiguration der Option &quot;Standardausblenden&quot;auf der Seite &quot;Konfiguration von Marketing&quot;
+   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten. Möglichkeit, die besten Betas je nach Konfiguration der Option &quot;Standardausblenden&quot;auf der Marketo-Konfigurationsseite auszublenden
    * Spalten - Name, Konto, letzter interessanter Moment, Statusüberschrift, Interaktion (Sterne und Flammen), Ausblenden
 
-* Meine Watch-Liste
+* Meine Merkliste
 
-   * Möglichkeit zum Erstellen und Bearbeiten von Ansichten
+   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten
    * Spalten - Name, Konto, letzter interessanter Moment, Statusüberschrift, Interaktion (Sterne und Flammen), Entfernen
 
-* Web-Aktivität
+* Webaktivität
 
-   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten, Funktionen für Zeitraumfilter
-   * Spalte - Ansicht der Seite, Name, Konto, Letzter Besuch
+   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten, Funktionen für Zeitrahmen-Filter
+   * Spalte - Seitenansicht, Name, Konto, Letzter Besuch
 
 * Anonyme Web-Aktivität
 
-   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten, Funktionen für Zeitraumfilter
-   * Spalten - Ansicht der Seite, Firma, Letzter Besuch, Suche (öffnet die LinkedIn-Seite der Firma)
+   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten, Funktionen für Zeitrahmen-Filter
+   * Spalten - Seitenansicht, Firma, Letzter Besuch, Suche (öffnet die LinkedIn-Seite des Unternehmens)
 
-* Meine E-Mail
+* Mein E-Mail
 
-   * Möglichkeit zum Erstellen und Bearbeiten von Ansichten
+   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten
    * Spalten - Name, Konto, Betreff, Datum, Öffnen, Klicken
 
-* Interessentenfeed - Enthält die Möglichkeit, interessante Momente zu abonnieren, muss RSS-Feed auf der Konfigurationsseite aktiviert werden, damit diese Funktion verwendet werden kann
+* Lead-Feed - Bietet die Möglichkeit, interessante Momente zu abonnieren, RSS-Feed auf der Konfigurationsseite muss aktiviert sein, damit diese Funktion verwendet werden kann.
 
-   * Interessanter Moment
-   * Interessanter Moment (Web, E-Mail oder Meilenstein) und Beschreibung
+   * Lead/Kontakt, der diesen interessanten Moment hatte
+   * Interessanter Moment-Typ (Web, E-Mail oder Meilenstein) und Beschreibung
    * Kontoname
-   * Zeit, die dieser interessante Moment
-   * Option &quot;Abonnieren&quot;zum Empfangen von E-Mail-Benachrichtigungen für diesen Ereignis
-   * Symbol mit hoher Priorität, um diese Person zu zeigen, ist eine beste Wette
+   * Zeit, zu der dieser interessante Moment gekommen ist
+   * Abonnement-Option für den Empfang von E-Mail-Benachrichtigungen für diesen Ereignistyp
+   * Symbol mit hoher Priorität, um diese Person als besten Einsatz zu zeigen
 
-## Registerkarte &quot;Konfiguration von Marketing-Sales Insight&quot; {#marketo-sales-insight-configuration-tab}
+## Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot; {#marketo-sales-insight-configuration-tab}
 
-* Betriebseinstellungen: Beinhaltet die für die Einrichtung von MSI in SFDC erforderlichen Soap- und Rest-API-Anmeldeinformationen
-* MSI-Konfiguration: Umfasst die Konfiguration der Registerkarte &quot;Marketo&quot;und des MSI Visualforce-Bedienfelds
-* Zurücksetzen von Marketing auf Sales Insight: Beinhaltet die Möglichkeit, alle Konfigurationen zu löschen
+* Betriebseinstellungen: Enthält Soap- und Rest-API-Anmeldeinformationen, die zum Einrichten von MSI in SFDC erforderlich sind
+* MSI-Konfiguration: Enthält die Konfiguration der Marketo-Registerkarte und des MSI-Visualisierungs-Bedienfelds
+* Marketo Sales Insight zurücksetzen: Möglichkeit zum Löschen aller Konfigurationen
 
 >[!MORELIKETHIS]
 >
->[Registerkarte &quot;Konfiguration von Marketing zu Sales Insight&quot;in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot;in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Sales Insight-Leistungsberichte {#sales-insight-performance-reports}
+## Performance-Berichte für Sales Insight {#sales-insight-performance-reports}
 
-Ansicht der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder ein Gmail- oder Outlook-Plugin gesendet werden
+Anzeigen der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder ein Gmail- oder Outlook-Plug-in gesendet werden
 
-## MSI for Mobile {#msi-for-mobile}
+## MSI für Mobilgeräte {#msi-for-mobile}
 
-MSI-Funktionen werden in der Salesforce-Mobilanwendung unterstützt
+MSI-Funktionen werden in der Salesforce-Mobile App unterstützt
 
 ## Sprachunterstützung {#language-support}
 
-Marketo Sales Insight wird nach Sprache gespeichert. Wenn Sie also möchten, dass es für mehr als eine Sprache funktioniert, müssen Sie die Anmeldeinformationen für jede Sprache einzeln eingeben.
+Marketo Sales Insight wird nach Sprache gespeichert. Wenn es also für mehr als eine Sprache verwendet werden soll, müssen Sie die Anmeldeinformationen separat für jede Sprache eingeben.
+
+>[!NOTE]
+>
+>Ein Kontakt/Lead muss sich in der Standardpartition befinden, damit er zur Watchlist hinzugefügt werden kann.

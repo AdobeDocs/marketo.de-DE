@@ -2,47 +2,51 @@
 description: Best Bets - Marketo Docs - Produktdokumentation
 title: Vielversprechende Kontakte
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '285'
 ht-degree: 7%
 
 ---
 
 # Vielversprechende Kontakte {#best-bets}
 
-Das Register Beste Einsätze enthält eine Liste aller aktiven Leads, basierend auf ihrer Priorität, berechnet anhand der Dringlichkeit und der relativen Punktzahl.
+Der Tab Beste Einsätze enthält eine Liste aller Hot Leads basierend auf ihrer Priorität, berechnet anhand der Dringlichkeit und des relativen Punktes.
 
 **Filteroptionen**
 
-Sie können auf jede der folgenden Schaltflächen klicken, um die besten Bets zu sehen:
+Sie können auf jede der folgenden Schaltflächen klicken, um die besten Einsätze anzuzeigen:
 
-* Interessenten: Sie können die besten Beta-Punkte für alle Leads sehen, die Ihnen im CRM zugewiesen wurden.
-* Ansprechpartner: Sie können die besten Beta-Punkte für alle Kontaktpersonen sehen, die Ihnen im CRM zugewiesen wurden.
-* Kontokontakte: Sie können die besten Bets für alle Kontakte sehen, die zu Konten gehören, die Ihnen im CRM zugewiesen wurden, auch wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
-* Gelegenheitskontakte: Sie können die besten Wetten für alle Kontakte sehen, die zu Chancen gehören, die Ihnen im CRM zugewiesen wurden, auch wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
+* Leads: Für alle Leads, die Ihnen im CRM-System zugewiesen sind, können Sie die besten Bets sehen.
+* Ansprechpartner: Es werden die Best-Bets für alle Kontakte angezeigt, die Ihnen im CRM-System zugewiesen sind.
+* Kundenkontakte: Sie können die besten Bets für alle Kontakte sehen, die zu Konten gehören, die Ihnen im CRM zugewiesen sind, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
+* Ansprechpartner für weitere Informationen: Sie können die besten Einsätze für alle Kontakte sehen, die zu den Ihnen im CRM zugewiesenen Chancen gehören, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
 
-**Zu beachtende Dinge**
+**Zu beachten**
 
-Lead- und Kontaktschaltflächen sind standardmäßig aktiviert. Sie können eine oder mehrere Filteroptionen auswählen und mindestens eine der vier Optionen muss immer ausgewählt werden.
+Die Schaltflächen Lead und Kontakt sind standardmäßig ausgewählt. Sie können eine oder mehrere Filteroptionen auswählen, wobei mindestens eine der vier Optionen immer ausgewählt sein muss.
 
-Sie können einen Lead oder Kontakt, den Sie nicht besitzen, nicht &quot;ausblenden&quot;.
+Sie können einen Lead oder Kontakt, der Ihnen nicht gehört, nicht &quot;ausblenden&quot;.
 
 **Inline-Interaktion**
 
-Wenn Sie in der Spalte Aktionen auf das Menü &quot;Punkt&quot;klicken, können Sie über die folgenden Interaktionsoptionen auf einen bestimmten Lead oder Kontakt zugreifen:
+Durch Klicken auf das Datenmenü unter der Spalte Aktionen können Sie einen bestimmten Lead oder Kontakt erreichen, indem Sie die folgenden Interaktionsoptionen verwenden:
 
 * Marketo-E-Mail senden
 * Zu Marketo-Kampagne hinzufügen
 * In Marketo anzeigen
-* hinzufügen in Prüfliste
+* Hinzufügen zur Watchlist
 
 **Massenaktionen**
 
-Sie können über das Kontrollkästchen eine oder mehrere Leads oder Kontakte aus Ihrer Best-Bets-Seite auswählen und über die folgenden Interaktionsoptionen als Gruppe darauf zuzugreifen:
+Sie können über das Kontrollkästchen einen oder mehrere Leads oder Kontakte aus Ihrer Best-Bets-Seite auswählen und sie mithilfe der folgenden Interaktionsoptionen als Gruppe erreichen:
 
 * Marketo-E-Mail senden
 * Zu Marketo-Kampagne hinzufügen
-* hinzufügen in Prüfliste
+* Hinzufügen zur Watchlist
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>Ein Kontakt/Lead muss sich in der Standardpartition befinden, damit er zur Watchlist hinzugefügt werden kann.
