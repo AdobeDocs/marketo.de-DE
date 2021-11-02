@@ -3,10 +3,10 @@ description: Umschalten - Marketo Docs - Produktdokumentation
 title: Umschalten
 hide: true
 hidefromtoc: true
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 1%
+source-wordcount: '221'
+ht-degree: 0%
 
 ---
 
@@ -14,42 +14,54 @@ ht-degree: 1%
 
 Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von Marketo und dem neuen Marketo Engage-Erlebnis der nächsten Generation wechseln. Sie ist in der Listenansicht der Landingpage und auf den Formulardetailseiten verfügbar.
 
+>[!NOTE]
+>
+>Wenn die Option Umschalter aktiviert ist, werden alle vorhandenen Workflows automatisch gespeichert, bevor die UI geändert wird. Wenn ein Vorgang bereits ausgeführt wird (z. B.: Ein Asset wird derzeit genehmigt), erhalten Sie eine Fehlermeldung, die darauf hinweist, dass es sich um ein Asset handelt, das nach Abschluss des Vorgangs erneut geprüft werden sollte.
+
 ## Listenansicht der Landingpage {#landing-page-list-view}
 
 Wählen Sie in Marketo **Design Studio**.
 
-PICC
+![](assets/toggle-switch-1.png)
 
 Auswählen **Landing Pages**.
 
-PICC
+![](assets/toggle-switch-2.png)
 
 Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
 
-PICC
+![](assets/toggle-switch-3.png)
 
-Text
+Das neue Erlebnis wird geladen.
+
+![](assets/toggle-switch-4.png)
+
+>[!NOTE]
+>
+>Die neue Listenansicht der Einstiegsseite bietet Suchfilter und die Möglichkeit, Massenaktionen auf der Einstiegsseite durchzuführen.
 
 ## Formulardetailseite {#form-details-page}
 
 Suchen und wählen Sie in Marketo Ihr Formular aus.
 
-PICC
+![](assets/toggle-switch-5.png)
 
 Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
 
-PICC
+![](assets/toggle-switch-6.png)
 
-Text
+Das neue Erlebnis wird geladen.
 
-PICC
+![](assets/toggle-switch-7.png)
 
 ## Aktivieren für alle Funktionen {#enable-for-all-features}
 
 Sie haben die Möglichkeit, die Benutzeroberfläche der nächsten Generation von Marketo für alle verfügbaren Funktionen zu aktivieren, die aktuell und in Kürze verfügbar sind.
 
-In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Listenansicht der Landingpage](#landing-page-list-view)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
+In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Formulardetailseite](#form-details-page)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
 
-PICC
+![](assets/toggle-switch-8.png)
 
 Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
+
+![](assets/toggle-switch-9.png)
