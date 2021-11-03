@@ -1,9 +1,9 @@
 ---
 description: Datenschutzverwaltung - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzverwaltung
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Um Sie bei der Einhaltung der Datenschutzverordnungen zu unterstützen, ermögli
 * Die **Recht auf Zugriff** ist das Recht der betroffenen Person, vom Datenverantwortlichen eine Auskunft darüber zu erhalten, ob ihre personenbezogenen Daten verarbeitet werden, wo dies geschieht und zu welchem Zweck. Der Datenverantwortliche stellt eine Kopie der personenbezogenen Daten kostenlos in elektronischer Form zur Verfügung.
 * Auch als Datenlöschung bezeichnet, die **Recht auf Vergessenwerden** (Löschanfrage) berechtigt das Datensubjekt, vom Datenverantwortlichen die Löschung seiner personenbezogenen Daten zu verlangen, die weitere Verbreitung der Daten einzustellen und gegebenenfalls Dritte anzuhalten, die Datenverarbeitung einzustellen.
 
-Informationen dazu, wie Sie Zugriffs- und Löschanfragen erstellen und wie wir sie verarbeiten, finden Sie im Abschnitt [Implementierungsschritte](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Informationen zum Erstellen von Zugriffs-/Löschanfragen und deren Verarbeitung finden Sie unter [diesem Artikel](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
