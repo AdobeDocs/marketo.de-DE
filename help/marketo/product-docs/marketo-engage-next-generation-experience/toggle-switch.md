@@ -1,9 +1,7 @@
 ---
 description: Umschalten - Marketo Docs - Produktdokumentation
 title: Umschalten
-hide: true
-hidefromtoc: true
-source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,35 +18,33 @@ Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von 
 
 ## Listenansicht der Landingpage {#landing-page-list-view}
 
-Wählen Sie in Marketo **Design Studio**.
+Die Listenansicht der nächsten Generation der Einstiegsseite bietet Suchfilter und die Möglichkeit, Massenaktionen auf der Einstiegsseite durchzuführen.
 
-![](assets/toggle-switch-1.png)
+1. Wählen Sie in Marketo **Design Studio**.
 
-Auswählen **Landing Pages**.
+   ![](assets/toggle-switch-1.png)
 
-![](assets/toggle-switch-2.png)
+1. Auswählen **Landing Pages**.
 
-Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+   ![](assets/toggle-switch-2.png)
 
-![](assets/toggle-switch-3.png)
+1. Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+
+   ![](assets/toggle-switch-3.png)
 
 Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->Die neue Listenansicht der Einstiegsseite bietet Suchfilter und die Möglichkeit, Massenaktionen auf der Einstiegsseite durchzuführen.
-
 ## Formulardetailseite {#form-details-page}
 
-Suchen und wählen Sie in Marketo Ihr Formular aus.
+1. Suchen und wählen Sie in Marketo Ihr Formular aus.
 
-![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-5.png)
 
-Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+1. Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
 
-![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-6.png)
 
 Das neue Erlebnis wird geladen.
 
@@ -58,10 +54,10 @@ Das neue Erlebnis wird geladen.
 
 Sie haben die Möglichkeit, die Benutzeroberfläche der nächsten Generation von Marketo für alle verfügbaren Funktionen zu aktivieren, die aktuell und in Kürze verfügbar sind.
 
-In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Formulardetailseite](#form-details-page)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
+1. In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Formulardetailseite](#form-details-page)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
 
-![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-8.png)
 
-Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
+1. Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
 
-![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-9.png)
