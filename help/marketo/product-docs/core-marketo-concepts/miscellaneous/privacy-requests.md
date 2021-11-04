@@ -1,9 +1,9 @@
 ---
 description: Datenschutzanfragen - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzanfragen
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 
 Dieses Dokument bietet einen Überblick über die Verwaltung individueller Datenschutzanfragen, die Sie über die Privacy Service-Benutzeroberfläche und die **Privacy Service-API**.
 
+>[!NOTE]
+>
+>Datenschutzanfragen, die über die Privacy Service-Benutzeroberfläche oder API zum Marketo Engage gesendet werden, gelten nur für diejenigen, die Marketo Engage + RT-CDP, B2B und B2P-Editionen haben.
+
 Sie können individuelle Anfragen zum Zugriff auf und zum Löschen von Verbraucherdaten aus Marketo Engage auf zwei Arten senden:
 
 * Durch die [Privacy Service-Benutzeroberfläche](https://privacyui.cloud.adobe.io/). Weitere Informationen finden Sie in der Dokumentation [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
@@ -19,13 +23,11 @@ Sie können individuelle Anfragen zum Zugriff auf und zum Löschen von Verbrauch
 
 Die [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) unterstützt zwei Arten von Anforderungen: Datenzugriff und Datenlöschung.
 
-Hinweis: Datenschutzanfragen, die über die Privacy Service-Benutzeroberfläche oder -API zum Marketo Engage gesendet werden, gelten nur für Kunden mit Marketo Engage + RT-CDP, B2B- und B2P-Editionen.
-
 Sehen wir uns an, wie Sie Zugriffs- und Löschanfragen erstellen können.
 
 ## Erforderliche Einrichtung zum Senden von Anforderungen an Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-Um Anfragen zum Zugreifen auf und Löschen von Daten für Marketo Engage zu stellen, müssen Sie:
+Um Anforderungen an Zugriffs- und Löschdaten für Marketo Engage zu stellen, müssen Sie:
 
 1. Identifizieren Sie Folgendes:
 
@@ -45,7 +47,6 @@ b. E-Mail-Adresse der Person, auf die Sie reagieren möchten
 
 “Benutzer”:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   (optional)
 * &quot;action&quot;: entweder **access** oder **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
@@ -58,7 +59,7 @@ b. E-Mail-Adresse der Person, auf die Sie reagieren möchten
 
 &quot;Verordnung&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd** oder **nzpa**  (die Datenschutzverordnung, die für die Anfrage gilt)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** oder **nzpa_nzl**  (die Datenschutzverordnung, die für die Anfrage gilt)
 
 ## Beispiel 1: DSGVO-Löschanfrage {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ JSON-Anfrage
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ JSON-Antwort
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ JSON-Anfrage
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ JSON-Antwort
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
