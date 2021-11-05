@@ -1,7 +1,7 @@
 ---
 description: Datenschutzverwaltung - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzverwaltung
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -14,7 +14,7 @@ Marketo Engage bietet eine Reihe von Tools, die Sie bei der Einhaltung der Daten
 
 >[!NOTE]
 >
->Datenschutzanfragen, die über die Privacy Service-Benutzeroberfläche oder -API zum Marketo Engage gesendet werden, gelten nur für Kunden mit Marketo Engage + RT-CDP, B2B- und B2P-Editionen.
+>Datenschutzanfragen, die über die Privacy Service-Benutzeroberfläche oder API zum Marketo Engage gesendet werden, gelten nur für diejenigen, die Marketo Engage + RT-CDP, B2B und B2P-Editionen haben.
 
 ## Verordnungen zur Datenschutzverwaltung {#regulations-on-privacy-management}
 
