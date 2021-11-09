@@ -1,0 +1,132 @@
+---
+description: null
+title: null
+hide: true
+hidefromtoc: true
+source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+workflow-type: tm+mt
+source-wordcount: '497'
+ht-degree: 6%
+
+---
+
+# E-Mail-Spalten und E-Mail-Seitenlayout {#email-columns-and-email-page-layout}
+
+Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Bereich des [Command Center](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Ihre Konfigurationseinstellungen werden für jeden E-Mail-Unterordner gespeichert (z. B. Zugestellt, Fehlgeschlagen, Geplant usw.).
+
+## E-Mail-Spalten {#email-columns}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th>Spalte</th> 
+   <th>Beschreibung</th> 
+  </tr> 
+  <tr> 
+   <td><strong>Person</td> 
+   <td>Name und E-Mail-Adresse der Person in Sales Connect. Wenn Sie auf dieses Feld klicken, wird in der Personendetailansicht der Tab Info geöffnet.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Name</td> 
+   <td>Name der Person in Sales Connect.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Adresse</td> 
+   <td>Primäre E-Mail-Adresse der Person in Sales Connect.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Kampagne</td> 
+   <td>Wenn die E-Mail im Rahmen einer Kampagne gesendet wurde, wird der Name der Kampagne angezeigt. Wenn Sie auf dieses Feld klicken, gelangen Sie zur Setup-Seite dieser Kampagne.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Vorlage</td> 
+   <td>Zeigt den Namen der Vorlage an (wenn die E-Mail mit einer gesendet wurde).</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Betreff</td> 
+   <td>Betreffzeile der E-Mail.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Gruppen</td> 
+   <td>Zeigt die Gruppen an, zu denen der E-Mail-Empfänger gehört.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Jobtitel</td> 
+   <td>Titel des E-Mail-Empfängers.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Unternehmen</td> 
+   <td>Firma des E-Mail-Empfängers.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Status der E-Mail</td> 
+   <td>Status, in dem sich die E-Mail befindet. Zu den Status gehören: Entwurf, Geplant, Gestartet, Spam, Bounce, Fehlgeschlagen, Gesendet. Gesendete E-Mails zeigen einen Aktivitäts-Stream, der anzeigt, wie viele Ansichten, Klicks und Antworten in dieser E-Mail stattgefunden haben.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Erstellungsdatum</td> 
+   <td>Datum der Erstellung der E-Mail.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Zuletzt aktualisiert</td> 
+   <td>Datum der letzten Aktualisierung der E-Mail.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Übertragungskanal</td> 
+   <td>Der Name des Versandkanals, der zum Senden der E-Mail verwendet wurde.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Letzte Aktivität</td> 
+   <td>Die letzte Interaktion des E-Mail-Empfängers (z. B. Ansicht, Klicken oder Antwort).</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Daten gesendet</td> 
+   <td>Das Datum, an dem die E-Mail gesendet wurde.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Folgeaktionen</td> 
+   <td>Schnellaktionsschaltflächen, die für die Nachverfolgung per E-Mail, Telefon, InMail oder Aufgabe verwendet werden können.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Gruppenemail</td> 
+   <td>Zeigt ein Häkchen an, wenn die E-Mail als Teil einer Gruppen-E-Mail gesendet wurde.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Fälligkeitsdatum der Aufgabe</td> 
+   <td>Zeigt das Fälligkeitsdatum von Aufgaben an, die sich auf die E-Mail beziehen. Aufgaben können sich auf eine E-Mail beziehen, indem sie über die Schnellaktionen-Schaltflächen in der E-Mail-Liste erstellt werden.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>E-Mail-Aktion</td> 
+   <td>Schnellaktionsschaltflächen, mit denen Aktionen für die E-Mail durchgeführt werden können. Je nach Status der E-Mail können die folgenden Aktionen verfügbar sein: Archivieren, Erfolg, Löschen, Senden wiederholen, Archivierung aufheben.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Aufgabentyp</td> 
+   <td>Zeigt den Aufgabentyp einer Aufgabe an, die mit der E-Mail verbunden ist. Aufgaben können sich auf eine E-Mail beziehen, indem sie über die Schnellaktionen-Schaltflächen in der E-Mail-Liste erstellt werden.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Datum fehlgeschlagen</td> 
+   <td>Zeigt das Datum des Fehlschlagens der E-Mail an, wenn die E-Mail nicht zugestellt wurde.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## Layout-Einstellungen für E-Mail-Seiten {#email-page-layout-settings}
+
+Gehen Sie wie folgt vor, um Ihr Layout zu konfigurieren.
+
+1. Klicken Sie in der Webanwendung auf **Command Center**.
+
+   ![](assets/email-columns-and-email-page-layout-1.png)
+
+1. Wählen Sie die **E-Mails** Abschnitt.
+
+   ![](assets/email-columns-and-email-page-layout-2.png)
+
+1. Wählen Sie die Konfigurationsschaltfläche aus. Zu Ihren Optionen gehören: Wählen Sie aus, wie viele Zeilen angezeigt werden sollen, wählen Sie die Felder aus, die angezeigt werden sollen, und wählen Sie aus, ob die Gruppierung von E-Mails zu einem Element im Raster zusammengefasst werden soll (oder ob alle E-Mails, die Teil eines E-Mail-Rasters sind, als einzelnes Element angezeigt werden sollen).
+
+   ![](assets/email-columns-and-email-page-layout-3.png)
+
+1. Klicken Sie einfach zum Speichern der Änderungen außerhalb des Konfigurationsfelds.
