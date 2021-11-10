@@ -3,7 +3,7 @@ unique-page-id: 7515401
 description: Erstellen einer geführten Landingpage-Vorlage - Marketo Docs - Produktdokumentation
 title: Erstellen einer Vorlage für eine geführte Landingpage
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: f098742d384770983206b47cd9b5535fd6ab056f
+source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 2%
@@ -43,7 +43,7 @@ Beispiel:
 
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
-### Bild {#image}
+## Bild {#image}
 
 Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder `<div>`, der einen Container angibt, in den das Bild eingefügt wird, oder einen `<img>` -Tag.
 
