@@ -1,48 +1,43 @@
 ---
 unique-page-id: 7515401
-description: Erstellen einer Vorlage für die Landingpage mit Guided - Marketing Docs - Produktdokumentation
-title: Erstellen einer Vorlage für eine Landingpage mit Guided
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Erstellen einer geführten Landingpage-Vorlage - Marketo Docs - Produktdokumentation
+title: Erstellen einer Vorlage für eine geführte Landingpage
+exl-id: 7d097162-d862-4d09-9440-aba1628450c2
+source-git-commit: f098742d384770983206b47cd9b5535fd6ab056f
 workflow-type: tm+mt
-source-wordcount: '1269'
-ht-degree: 0%
+source-wordcount: '1254'
+ht-degree: 2%
 
 ---
 
-
 # Erstellen einer Vorlage für eine geführte Landingpage {#create-a-guided-landing-page-template}
 
->[!NOTE]
->
->Lese müde? [Sehen Sie sich dieses coole ](https://youtu.be/3O7e4GdZKsM) Video mit schrittweisen Anleitungen an.
-
-Vorlagen für Landingpages mit Guided haben eine spezielle Syntax. Verwenden Sie diese Syntax, um anzugeben, was anpassbar ist und wo der Inhalt auf jeder Landingpage landet, die aus Ihrer Vorlage erstellt wurde. Nur die als bearbeitbar angegebenen Regionen oder Variablen können im Editor für geführte Landingpages angepasst werden.
+Geführte Landingpage-Vorlagen haben eine spezielle Syntax. Verwenden Sie diese Syntax, um festzulegen, was angepasst werden kann und wo der Inhalt auf jeder aus Ihrer Vorlage erstellten Landingpage landet. Nur die Regionen oder Variablen, die Sie als bearbeitbar angeben, stehen im Landingpage-Editor &quot;Geführt&quot;zur Anpassung zur Verfügung.
 
 >[!TIP]
 >
->Verwenden Sie gute Benennungskonventionen, und Ihr Marketing-Team wird sich in Sie verlieben.
+>Verwenden Sie gute Namenskonventionen, und Ihr Marketing-Team wird sich in Sie verlieben.
 
-Es gibt zwei Möglichkeiten, zu erklären, dass etwas auf Ihrer Seite bearbeitbar sein sollte:
+Es gibt zwei Möglichkeiten, zu deklarieren, dass etwas auf Ihrer Seite bearbeitbar sein sollte:
 
-* Deklarieren Sie ein Objekt als &quot;Element&quot;. Der Ersteller der Landingpage kann Bilder, Texte oder Markets zu den angegebenen Bereichen hinzufügen.
+* Deklarieren Sie ein Objekt als &quot;Element&quot;. Der Ersteller der Landingpage kann Bilder, Texte oder Marketo-Assets zu den angegebenen Bereichen hinzufügen.
 * Deklarieren Sie eine Zeichenfolge als &quot;Variable&quot;. Der Ersteller der Landingpage kann diese Variable durch einen String-, Farb- oder booleschen Status aus einem true/false-Hebel ersetzen.
 
 ## Bearbeitbare Elemente {#editable-elements}
 
-Elemente werden deklariert, indem der Vorlage ein normales DOM-Element hinzugefügt und anschließend das Element mit einem Marketo-spezifischen Klassennamen dekoriert wird.
+Elemente werden deklariert, indem ein normales DOM-Element zur Vorlage hinzugefügt und das Element dann mit einem Marketo-spezifischen Klassennamen dekoriert wird.
 
 ## Text {#text}
 
-Wenn Sie einen Bereich als Rich Text definieren, können Benutzer den Inhalt [mit dem Rich Text Editor von Marketo bearbeiten.](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+Wenn Sie eine Region als Rich-Text definieren, können Benutzer den Inhalt bearbeiten [Verwenden des Rich-Text-Editors von Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Erforderliche Attribute:\
 **class**: &quot;mktoText&quot;\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-Der Inhalt eines Elements mit der Klasse mktoText (sofern vorhanden) wird als Standardwert für den bearbeitbaren Bereich verwendet.
+Der Inhalt eines Elements mit der Klasse mktoText (sofern verfügbar) wird als Standardwert für den bearbeitbaren Bereich verwendet.
 
 Beispiel:
 
@@ -50,29 +45,29 @@ Beispiel:
 
 ### Bild {#image}
 
-Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder ein `<div>` verwenden, das einen Container angibt, in den das Bild eingefügt wird, oder ein `<img>`-Tag.
+Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder `<div>`, der einen Container angibt, in den das Bild eingefügt wird, oder einen `<img>` -Tag.
 
-## Option 1: Verwenden Sie eine `<div>` {#option-use-a-div}
+## Option 1: Verwenden eines `<div>` {#option-use-a-div}
 
 Erforderliche Attribute:
 
-class: &quot;mktoImg&quot;\
-id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
-mktoName: Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
+-Klasse: &quot;mktoImg&quot;\
+id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+mktoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-mktoImgClass: Zeichenfolge. Der Wert hier wird dem Klassenattribut des Elements `<img>` innerhalb des div hinzugefügt.
+mktoImgClass: Zeichenfolge. Der Wert hier wird dem class -Attribut der `<img>` -Element innerhalb des div.
 
 Beispiel:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Option 2: Verwenden Sie eine `<img>` {#option-use-a-img}
+## Option 2: Verwenden einer `<img>` {#option-use-a-img}
 
 Erforderliche Attribute:\
-class: &quot;mktoImg&quot;\
-id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
-mktoName: Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
+-Klasse: &quot;mktoImg&quot;\
+id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+mktoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
 src: String-URL. Dies wird als Standardwert für das Bild verwendet.
@@ -83,13 +78,13 @@ Beispiel:
 
 >[!NOTE]
 >
->Bei Verwendung der `<img>`-Version enthält der gerenderte HTML-Code einen generierten div-Wrapper um das `<img>`-Tag. Es wird auf class festgelegt.&quot;mktoImg.mktoGen,&quot; und wird angezeigt:inline-block.
+>Bei Verwendung von `<img>` -Version enthält die gerenderte HTML einen generierten Div-Wrapper um die `<img>` -Tag. Sie wird auf class festgelegt.&quot;mktoImg.mktoGen&quot; und werden angezeigt:inline-block.
 
 ## Formular {#form}
 
 Beispiel: Erforderliche Attribute:\
 **class**: &quot;mktoForm&quot;\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 `<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
@@ -98,18 +93,18 @@ Beispiel: Erforderliche Attribute:\
 
 Erforderliche Attribute:\
 **class**: &quot;mktoSnippet&quot;\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
 
-## Freigabebeschaltfläche {#share-button}
+## Schaltfläche &quot;Freigeben&quot; {#share-button}
 
 Erforderliche Attribute:\
 **class**: &quot;mktoShareButton&quot;\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
@@ -120,11 +115,11 @@ Beispiel:
 
 >[!NOTE]
 >
->Wenn Sie das Videoelement in einer Landingpage verwenden, unterstützt Marketo nur Videos von YouTube. Wenn Sie einen anderen Dienst verwenden, sollten Sie ein Rich-Text-Feld verwenden und den Einbettungscode des Videos einfügen.
+>Bei Verwendung des Videoelements in einer Landingpage unterstützt Marketo nur Videos aus YouTube. Wenn Sie einen anderen Dienst verwenden, empfehlen wir, ein Rich-Text-Feld zu verwenden und den Einbettungscode des Videos einzufügen.
 
 Erforderliche Attribute:
 **class**: &quot;mktoVideo&quot;
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
@@ -135,29 +130,29 @@ Beispiel:
 
 Erforderliche Attribute:\
 **class**: &quot;mktoPoll&quot;\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
 
 `<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
 
-## Verweis {#referral}
+## Empfehlung {#referral}
 
 Erforderliche Attribute:\
 **class**: &quot;mktoReferral&quot;\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
 
 `<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
 
-## Preisausschreiben {#sweepstakes}
+## Gewinnspiele {#sweepstakes}
 
 Erforderliche Attribute:\
 **class**: &quot;mktoSweepstakes&quot;\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
@@ -166,7 +161,7 @@ Beispiel:
 
 ## Bearbeitbare Variablen {#editable-variables}
 
-Alle Variablentypen werden verwendet, indem auf den Wert ihres id-Attributs verwiesen wird, das in eine ${ }-Zeichensequenz eingeschlossen ist. Sie können überall im Dokument verwendet werden, außer innerhalb anderer Variablendeklarationen.
+Alle Variablentypen werden verwendet, indem auf den Wert ihres id-Attributs verwiesen wird, das in eine ${ } -Zeichensequenz eingeschlossen ist. Sie können überall im Dokument verwendet werden, außer in anderen Variablendeklarationen.
 
 Beispiel:
 
@@ -174,18 +169,18 @@ Beispiel:
 
 **Erklärung:**
 
-Variablen werden als Meta-Tags innerhalb des Elements `<head>` der Vorlage deklariert. Es stehen drei Variablentypen zur Verfügung: Zeichenfolge, Farbe und Boolescher Wert.
+Variablen werden als Meta-Tags innerhalb der `<head>` -Element der Vorlage. Es stehen drei Variablentypen zur Verfügung: Zeichenfolge, Farbe und Boolesch.
 
 ## Zeichenfolge {#string}
 
 Erforderliche Attribute:\
 **class** : &quot;mktoString&quot;,\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-**Standard**: Zeichenfolgenwert für das Attribut. Leer, wenn keine angegeben ist.\
-**allowHtml**: &quot;true&quot;oder &quot;false&quot;. Steuert, ob der Wert gedruckt wird, ohne dass HTML-Escape-Zeichen verwendet werden. Der Standardwert lautet &quot;false&quot;(falsch), wenn das Kontrollkästchen deaktiviert ist.
+**default**: Zeichenfolgenwert für das Attribut. Leer, wenn keine angegeben ist.\
+**allowHtml**: &quot;true&quot;oder &quot;false&quot;. Steuert, ob der Wert gedruckt wird, ohne dass HTML maskiert wird. Die Standardeinstellung ist &quot;false&quot;, wenn nicht festgelegt.
 
 Grundlegendes Beispiel:
 
@@ -199,11 +194,11 @@ Beispiel mit allen Attributen:
 
 Erforderliche Attribute:\
 **class** : &quot;mktoColor&quot;,\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-**Standard**: Ein 7-stelliger HEX-Zeichenfarbcode. z. B.: &quot;#336699&quot;
+**default**: Ein 7-stelliger HEX-Zeichenfarbcode. z: &quot;#336699&quot;
 
 Grundlegendes Beispiel:
 
@@ -213,19 +208,19 @@ Beispiel mit allen Attributen:
 
 `<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
 
-## Boolean {#boolean}
+## Boolesch {#boolean}
 
 Erforderliche Attribute:\
 **class** : &quot;mktoBoolean&quot;,\
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich (-) und Unterstrich (_). Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-**Standard**: Boolescher String. &quot;true&quot;oder &quot;false&quot;steuert, wenn der Wert in der EIN- oder AUS-Position Beginn. &quot;false&quot;, wenn nicht angegeben.\
-**false_value**: Zeichenfolge. Der Wert, der für die Variable eingefügt werden soll, wenn sie sich in der Stellung OFF befindet. &quot;false&quot;, wenn nicht angegeben.\
-**true_value**: Zeichenfolge. Der Wert, der für die Variable eingefügt werden soll, wenn sie sich an der Position ON befindet. &quot;true&quot;, wenn nicht angegeben.\
-**false_value_name**: Zeichenfolge. Der Anzeigename, der im Landingpages-Editor angezeigt wird, wenn sich der Wert an der Stellung &quot;OFF&quot;befindet. &quot;AUS&quot;, wenn nicht angegeben.\
-**true_value_name**: Zeichenfolge. Der Anzeigename, der im Landingpages-Editor angezeigt wird, wenn sich der Wert an der Position &quot;EIN&quot;befindet. &quot;ON&quot;, falls nicht angegeben.
+**default**: Boolesche Zeichenfolge. &quot;true&quot;oder &quot;false&quot;steuert, ob der Wert in der EIN- oder AUS-Position beginnt. &quot;false&quot;, wenn nicht angegeben.\
+**false_value**: Zeichenfolge. Der Wert, der für die Variable eingefügt werden soll, wenn sie sich in der Stellung &quot;AUS&quot;befindet. &quot;false&quot;, wenn nicht angegeben.\
+**true_value**: Zeichenfolge. Der Wert, der für die Variable eingefügt werden soll, wenn sie sich an der Position &quot;ON&quot;befindet. &quot;true&quot;, wenn nicht angegeben.\
+**false_value_name**: Zeichenfolge. Der Anzeigename, der im Landingpage-Editor angezeigt wird, wenn sich der Wert in der Stellung &quot;AUS&quot;befindet. &quot;AUS&quot;, falls nicht angegeben.\
+**true_value_name**: Zeichenfolge. Der Anzeigename, der im Landingpage-Editor angezeigt wird, wenn sich der Wert an der Position &quot;EIN&quot;befindet. &quot;ON&quot;, falls nicht angegeben.
 
 Grundlegendes Beispiel:
 
@@ -235,10 +230,10 @@ Grundlegendes Beispiel:
 
 Beispiel mit allen Attributen:
 
-Dieses Beispiel zeigt einen häufigen Anwendungsfall, bei dem eine boolesche Variable die Sichtbarkeit eines CSS-Elements steuert, indem der Wert der css-Anzeigeeigenschaft auf &quot;block&quot;oder &quot;none&quot;eingestellt wird, um ein Element mit CSS ein-/auszublenden. Der Landingpages-Editor verwendet den Anzeigenamen &quot;Anzeigen/Ausblenden&quot;anstelle von &quot;AUS/EIN&quot;.
+Dieses Beispiel zeigt einen häufigen Anwendungsfall, bei dem eine boolesche Variable die Sichtbarkeit eines CSS-Elements steuert, indem sie den Wert der CSS-Anzeigeeigenschaft auf &quot;block&quot;oder &quot;none&quot;setzt, um ein Element anhand der ID mit CSS anzuzeigen/auszublenden. Der Landingpage-Editor verwendet den Anzeigenamen &quot;Einblenden/Ausblenden&quot;anstelle von &quot;AUS/ON&quot;.
 
 `<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
 
 >[!NOTE]
 >
->Programm-Token (my.token) können auch überall in Guided- oder Free-Form-Landingpages verwendet werden.
+>Programm-Token (my.token) können auch überall auf Landingpages mit Guided oder Free-Form verwendet werden.
