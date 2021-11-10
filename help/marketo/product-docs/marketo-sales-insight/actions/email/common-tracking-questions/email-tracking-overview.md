@@ -3,10 +3,10 @@ description: Übersicht über das E-Mail-Tracking - Marketo-Dokumente - Produktd
 title: Übersicht über das E-Mail-Tracking
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,14 @@ Wenn Sales Connect die Antwort Ihres potenziellen Kunden auf Ihre E-Mail nicht v
 
 Wenn Sie also flynn@flynnsarcade.com per E-Mail senden und er mit kevinf@flynnsarcade.com antwortet, können wir die Antwort verfolgen. Wenn Sie außerdem eine E-Mail an flynn@flynnsarcade.com und CC alan@encom.com senden und Alan Sie zurückschreibt, wird auch die Antwort erkannt und die Kampagne beendet.
 
-## Funktionsweise des Antworten-Trackings {#how-reply-tracking-works}
+## Verfolgen Ihrer E-Mail-Anhänge {#how-to-track-your-email-attachments}
 
 Text
 
-## Verfolgen Ihrer E-Mail-Anhänge {#how-to-track-your-email-attachments}
+## Funktionsweise des Tracking-Anzeigentracks {#how-view-tracking-works}
 
+Text
+
+## Test-E-Mail wird nicht wie angezeigt angezeigt {#test-email-not-showed-as-viewed}
+
+Text
