@@ -1,11 +1,10 @@
 ---
 description: Senden eines Adobe Experience Platform-Segments an eine statische Marketo-Liste - Marketo-Dokumente - Produktdokumentation
 title: Adobe Experience Platform-Segment in eine statische Marketo-Liste pushen
-hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -42,7 +41,6 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
 1. Klicken **Neues Ziel konfigurieren**.
 
-   PICC
 
 1. Klicken Sie unter &quot;Kontotyp&quot;auf das **Neues Konto** Optionsfeld. Geben Sie Ihre Marketo-Anmeldedaten ein und klicken Sie auf **Mit Ziel verbinden**.
 
