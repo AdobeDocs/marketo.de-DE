@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '1119'
+source-wordcount: '1088'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ Die folgenden Funktionen sind in der Version vom 21. Oktober enthalten. Informie
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern gekennzeichnete Funktionen (![](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
 **_Vierteljährliche Versionen_**
 
-Die folgenden Funktionen werden am **22. Oktober 2021** veröffentlicht, wobei jede Funktion in der folgenden Woche schrittweise eingeführt wird (sofern nicht anders angegeben).
+Die folgenden Funktionen werden ab der Veröffentlichung auf **22. Oktober 2021**, mit einem stufenweisen Rollout jeder Funktion über die folgende Woche (sofern nicht anders angegeben).
 
 ## KI-gestützte Innovation {#ai-driven-innovation}
 
@@ -27,7 +27,7 @@ Die folgenden Funktionen werden am **22. Oktober 2021** veröffentlicht, wobei j
 
 ## Erlebnis der nächsten Generation {#next-gen-experience}
 
-**Wählen Sie Ihr eigenes Erlebnis** aus: Mit dem neuen Umschalter können Sie einfach zu Ihrem gewünschten Erlebnis wechseln, während Sie an Marketo Engage-Formularelementen oder der Listenansicht der Landingpage arbeiten, ohne Kontext, Asset-Änderungen oder Voreinstellungen zu verlieren. Darüber hinaus verbessert die neue Listenansicht der Landingpage Ihr Erlebnis mit neuen Filtern und der Möglichkeit, Massenaktionen durchzuführen.
+**Auswählen eines eigenen Erlebnisses**: Mit dem neuen Umschalter können Sie einfach zu Ihrem gewünschten Erlebnis wechseln, während Sie an Marketo Engage-Formularelementen oder der Listenansicht der Landingpage arbeiten, ohne Kontext, Asset-Änderungen oder Voreinstellungen zu verlieren. Darüber hinaus verbessert die neue Listenansicht der Landingpage Ihr Erlebnis mit neuen Filtern und der Möglichkeit, Massenaktionen durchzuführen.
 
 **Effiziente Suche**: Zu den Verbesserungen der Barrierefreiheit bei der globalen Suche gehören die aktualisierte Tastaturnavigation und Beschriftungsbeschreibungen, eine neue Bildlauffunktion für Ergebnisse und besser sichtbare angewendete Filter.
 
@@ -51,19 +51,19 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **Sales Insight für Microsoft Dynamics 365 Sales**
 
-**Best-Bets-Verbesserungen**: Der Tab Beste Einsätze in Sales Insight bietet Vertrieb mit einer Echtzeitansicht der heißesten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Es wurde die Möglichkeit hinzugefügt, dass Vertriebsmitarbeiter Aktionen ausführen können, z. B.: Sie können die Punktzahl einer Person überprüfen, eine E-Mail senden oder Interessenten zu bestimmten Marketo Engage-Kampagnen direkt auf der Best-Bets-Seite hinzufügen, um die Effizienz zu steigern und die Reaktionszeit zu verkürzen.
+**Best-Beta-Verbesserungen**: Der Tab Beste Einsätze in Sales Insight bietet Vertrieb mit einer Echtzeitansicht der heißesten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Es wurde die Möglichkeit hinzugefügt, dass Vertriebsmitarbeiter Aktionen ausführen können, z. B.: Sie können die Punktzahl einer Person überprüfen, eine E-Mail senden oder Interessenten zu bestimmten Marketo Engage-Kampagnen direkt auf der Best-Bets-Seite hinzufügen, um die Effizienz zu steigern und die Reaktionszeit zu verkürzen.
 
-**Neue E-Mail, Web-Aktivität, anonyme Dashboards für Web-Aktivitäten**: Wir haben die neuen Verkaufs-Dashboards hinzugefügt, um Verkäufer über die neuesten E-Mail- und Webaktivitäten ihrer Kontakte und Kontakte zu informieren. Mit der neuen Filterfunktion bieten die Dashboards jetzt Einblicke in E-Mail-Öffnungen, Klicks und Webseitenbesuche für die vollständige Liste der Konten oder ein bestimmtes Konto. Marketo Engage verfolgt alle Web-Aktivitäten und stellt für den Vertrieb wichtige Informationen bereit, sodass anonymer Traffic zu Leads wird. Verkäufer können Interaktionen personalisieren und Leads schneller in Umsätze konvertieren, da sie besser über Lead-Verhaltensweisen informiert sind und anhand der Relevanz aller Touchpoints handeln.
+**Neue E-Mail, Web-Aktivität, anonyme Web-Aktivitäts-Dashboards**: Wir haben die neuen Verkaufs-Dashboards hinzugefügt, um Verkäufer über die neuesten E-Mail- und Webaktivitäten ihrer Kontakte und Kontakte zu informieren. Mit der neuen Filterfunktion bieten die Dashboards jetzt Einblicke in E-Mail-Öffnungen, Klicks und Webseitenbesuche für die vollständige Liste der Konten oder ein bestimmtes Konto. Marketo Engage verfolgt alle Web-Aktivitäten und stellt für den Vertrieb wichtige Informationen bereit, sodass anonymer Traffic zu Leads wird. Verkäufer können Interaktionen personalisieren und Leads schneller in Umsätze konvertieren, da sie besser über Lead-Verhaltensweisen informiert sind und anhand der Relevanz aller Touchpoints handeln.
 
 **Sales Insight für Salesforce**
 
-**Beste Betas auf Konto- und Opportunity-Ebene**: Sales Insight bietet Vertriebsmitarbeitern jetzt die Möglichkeit, Best-Betten für alle Kontakte auf dem Konto oder der Gelegenheit zu überprüfen, deren Inhaber sie sind, selbst wenn der Kontakt einem anderen Team-Mitglied zugewiesen wird. Dadurch erhalten Konto- und Opportunity-Eigentümer einen umfassenden Einblick in die Aktivitäten relevanter Kontakte und können auf der Grundlage einer ganzheitlicheren Sicht des Kontos oder der Chancen handeln.
+**Beste Betas auf Kontoebene und Opportunity-Ebene**: Sales Insight bietet Vertriebsmitarbeitern jetzt die Möglichkeit, Best-Betten für alle Kontakte auf dem Konto oder der Gelegenheit zu überprüfen, deren Inhaber sie sind, selbst wenn der Kontakt einem anderen Team-Mitglied zugewiesen wird. Dadurch erhalten Konto- und Opportunity-Eigentümer einen umfassenden Einblick in die Aktivitäten relevanter Kontakte und können auf der Grundlage einer ganzheitlicheren Sicht des Kontos oder der Chancen handeln.
 
 ## SalesConnect {#sales-connect}
 
 ![(Stern)](assets/yellow-star.png)
 
-**Verbesserte Einblicke** in die Verkaufsaktivität: Die neue E-Mail-Antwort-Tracking-Aktivität Sales-E-Mail beantwortet die Interaktionen der Empfänger mit einer E-Mail, die automatisch mit Marketo Engage synchronisiert wird. Darüber hinaus wurde das Quellattribut von &quot;Tout&quot;in &quot;Sales App&quot;aktualisiert. Diese Aktivität kann über die Marketo Engage-REST-API oder den Massenexport exportiert werden und ist in Filtern und Triggern als zusätzliche Einschränkungen für Smart-Listen verfügbar, wodurch die Personalisierungsoptionen in Smart-Kampagnen erweitert werden.
+**Verbesserte Einblicke in die Verkaufsaktivität**: Die neue E-Mail-Antwort-Tracking-Aktivität Sales-E-Mail beantwortet die Interaktionen der Empfänger mit einer E-Mail, die automatisch mit Marketo Engage synchronisiert wird. Darüber hinaus wurde das Quellattribut von &quot;Tout&quot;in &quot;Sales App&quot;aktualisiert. Diese Aktivität kann über die Marketo Engage-REST-API oder den Massenexport exportiert werden und ist in Filtern und Triggern als zusätzliche Einschränkungen für Smart-Listen verfügbar, wodurch die Personalisierungsoptionen in Smart-Kampagnen erweitert werden.
 
 **Optimiertes Benutzererlebnis**: Mit dieser Aktualisierung werden neue Schriftarten, Farben, Schaltflächen und Modale für Sales Connect eingeführt, die auf dem Adobe Spectrum-Designsystem basieren. Mit diesen Updates bieten wir ein effizienteres Erlebnis, bei dem sich die Verkäufer auf das konzentrieren können, was benötigt wird, wenn es benötigt wird.
 
@@ -75,6 +75,8 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Ankündigungen {#announcements}
 
-**Verknüpfung von Lead-Verfall/Munchkin Beta 161 Update**: Am 7. September 2021 begann die Version 161 von Munchkin mit 10 % der Abonnements, für die Munchkin Beta aktiviert war, gefolgt von 50 % am 16. September und 100 % am 30. September. Diese Änderung betrifft Marketo Engage-Landingpages und die Version der Datei &quot;munchkin-beta.js&quot;, die für externe Landingpages bereitgestellt wird, die aus Abonnements geladen werden, für die die aktuelle Version eingeführt wurde. Diese Version veraltet die Munchkin Associate Lead-Methode vollständig. Diese Funktion ermöglicht die Übermittlung der Daten einer Person an ein Marketo Engage-Abonnement und den zugehörigen Webbrowsing-Verlauf mit einem bekannten Personendatensatz. &quot;Associate Lead&quot;wird zugunsten modernerer und sichererer Alternativen entfernt, wie z. B. der Forms JS-API, der Formular-Sende-API und der zugehörigen Lead-REST-API. [Weitere Informationen zu dieser Einstellung finden Sie hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Verknüpfen von Lead-Deprecation/Munchkin Beta 161 Update**: Am 7. September 2021 begann die Version 161 von Munchkin mit 10 % der Abonnements, für die Munchkin Beta aktiviert war, gefolgt von 50 % am 16. September und 100 % am 30. September. Diese Änderung betrifft Marketo Engage-Landingpages und die Version der Datei &quot;munchkin-beta.js&quot;, die für externe Landingpages bereitgestellt wird, die aus Abonnements geladen werden, für die die aktuelle Version eingeführt wurde. Diese Version veraltet die Munchkin Associate Lead-Methode vollständig. Diese Funktion ermöglicht die Übermittlung der Daten einer Person an ein Marketo Engage-Abonnement und den zugehörigen Webbrowsing-Verlauf mit einem bekannten Personendatensatz. &quot;Associate Lead&quot;wird zugunsten modernerer und sichererer Alternativen entfernt, wie z. B. der Forms JS-API, der Formular-Sende-API und der zugehörigen Lead-REST-API. [Weitere Informationen zu dieser Einstellung finden Sie hier .](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Stellen Sie sicher, dass Sie sich [jetzt registrieren](https://engage.marketo.com/October_Release_RegistrationPage.html) , um am 28. Oktober 2021 um 9:00 Uhr PT/23:00 Uhr ET für ein Live-Webinar mit unserem Produktteam teilzunehmen, um sich eingehender mit diesen Innovationen zu beschäftigen.
+**_Webinar zur Produktversion_**
+
+[Webinar zur Marketo Engage-Version Oktober 2021](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
