@@ -2,9 +2,9 @@
 description: Versionshinweise - Mai 2021 - Marketo-Dokumente - Produktdokumentation
 title: Mai 2021 - Versionshinweise
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '1481'
+source-wordcount: '1446'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ Die folgenden Funktionen sind in der Version vom 21. Mai enthalten. Überprüfen
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern gekennzeichnete Funktionen (![](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
 **_Vierteljährliche Versionen_**
 
-Die folgenden Funktionen werden am **7. Mai 2021** veröffentlicht.
+Die folgenden Funktionen werden veröffentlicht auf **7. Mai 2021**.
 
 ## Kontobasierte Erlebnisse {#Account-based-eaperiences}
 
@@ -31,15 +31,15 @@ Mit der globalen Suchvorschau können Marketingexperten schnell erkennen, wo sic
 
 ## Erlebnisautomatisierung {#experience-automation}
 
-* **Ausführen der Kampagnenflussschritte**: Optimieren Sie die Arbeitsabläufe zur Kampagnenerstellung und verbessern Sie die Kampagnenleistung mit einem neuen Flussschritt für Smart-Kampagnen. Erstellen und speichern Sie zentralisierte Vorlagenkampagnen für sich wiederholende Aufgaben in Ihrem Arbeitsbereich, wie z. B. die Normalisierung des Ländercodes, die über den neuen Workflow &quot;Kampagne ausführen&quot;von jeder Smart-Kampagne aus aufgerufen und ausgeführt werden können. Verknüpfte Kampagnen werden in der angegebenen Reihenfolge ausgeführt und stellen sicher, dass die Aufgaben abgeschlossen sind, bevor zum nächsten Flussschritt gewechselt wird. Bearbeiten Sie den Fluss schnell in nur einer zentralisierten Kampagne, um jede Smart-Kampagne zu aktualisieren, die sie verwendet, um die Datenverwaltung, die Lead-Scoring- und Routing-Workflows zu optimieren.
+* **Ausführen der Kampagnenflussschritte**: Optimieren Sie die Arbeitsabläufe zur Kampagnenerstellung und verbessern Sie die Kampagnenleistung mit einem neuen Flussschritt für Smart-Kampagnen. Erstellen und speichern Sie zentralisierte Vorlagenkampagnen für sich wiederholende Aufgaben in Ihrem Arbeitsbereich, wie z. B. die Normalisierung des Ländercodes, die über den neuen Workflow &quot;Kampagne ausführen&quot;von jeder Smart-Kampagne aus aufgerufen und ausgeführt werden können. Verknüpfte Kampagnen werden in der angegebenen Reihenfolge ausgeführt und stellen sicher, dass die Aufgaben abgeschlossen sind, bevor zum nächsten Flussschritt gewechselt wird. Bearbeiten Sie den Fluss schnell in nur einer zentralisierten Kampagne, um jede Smart-Kampagne zu aktualisieren, die sie verwendet, um die Datenverwaltung, Lead-Scoring- und Routing-Workflows zu optimieren.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
 * **Sensible Datenfelder in Forms**: Die personenbezogenen Daten des Protect-Kunden können nicht in Adobe Marketo Engage-Formularen angezeigt werden, indem Datenfelder als vertraulich definiert und das Vorausfüllen von Formularen für diese Felder eingeschränkt wird. Wenn ein Besucher ein Formular auf der Landingpage anzeigt, zeigen die als vertraulich definierten Felder keine vorausgefüllten Daten an.
 
-* **Blockieren von Spam-Formular-Übermittlungen**: Protect Sie Ihre Adobe Marketo Engage-Datenbank anhand von Junk-Daten, die zu ungültigen Warnhinweisen für Trigger, Rückläufen für Kampagnen und unerwünschten Aktivitäten führen können. Der neue Validierungsmechanismus lehnt ungültige Formularübermittlungen ab und stoppt Bot-Angriffe. Ihre Daten sind sauberer, und Ihre Marketing-Kampagnen werden wie gewünscht ausgeführt, wodurch das Risiko minimiert wird, unqualifizierte Leads zum Verkauf zu senden.
+* **Senden von Spam-Formularen blockieren**: Protect Sie Ihre Adobe Marketo Engage-Datenbank anhand von Junk-Daten, die zu ungültigen Warnhinweisen für Trigger, Rückläufen für Kampagnen und unerwünschten Aktivitäten führen können. Der neue Validierungsmechanismus lehnt ungültige Formularübermittlungen ab und stoppt Bot-Angriffe. Ihre Daten sind sauberer, und Ihre Marketing-Kampagnen werden wie gewünscht ausgeführt, wodurch das Risiko minimiert wird, unqualifizierte Leads zum Verkauf zu senden.
 
-* **E-Mail-Programmbestätigungswarnung**: Verhindern Sie den Versand fehlerhafter E-Mails, wenn die neuen Bearbeitungen an einem zuvor genehmigten Programm vorgenommen wurden.  Die Warnung dient als Schutz, wenn ein Marketing-Experte Änderungen an einer bereits genehmigten E-Mail vornimmt, dann aber vergisst, die neuesten Änderungen zu genehmigen, und die E-Mail an eine große Zielgruppe ohne Inhalt, ungültigen Inhalt oder alten Inhalt sendet.
+* **Warnung zur Genehmigung des E-Mail-Programms**: Verhindern Sie den Versand fehlerhafter E-Mails, wenn die neuen Bearbeitungen an einem zuvor genehmigten Programm vorgenommen wurden.  Die Warnung dient als Schutz, wenn ein Marketing-Experte Änderungen an einer bereits genehmigten E-Mail vornimmt, dann aber vergisst, die neuesten Änderungen zu genehmigen, und die E-Mail an eine große Zielgruppe ohne Inhalt, ungültigen Inhalt oder alten Inhalt sendet.
 
 * **Filtern der E-Mail-Bots-Aktivität**: Verhindern Sie unbeabsichtigte Verkaufswarnungen und ungenaue E-Mail-Berichte über die neue Funktion zur Filterung von E-Mail-Bot-Aktivitäten. Ermitteln und filtern Sie Öffnungen und Klicks, die E-Mail-Bots zugeordnet werden können, indem Sie Links überprüfen, die zu falschen Triggern und Verkaufswarnungen oder falschen Berichten führen.
 
@@ -47,9 +47,9 @@ Mit der globalen Suchvorschau können Marketingexperten schnell erkennen, wo sic
 
 Mehrere wichtige Aktualisierungen an Bulk- und Lead-APIs, darunter die Möglichkeit, benutzerdefinierte Objektdaten stapelweise zu exportieren, Unternehmen mit Lead in Batches zu verknüpfen, die Möglichkeit, die Massenextraktion von Aktivitäten anhand eines Primärattributs zu filtern und die Möglichkeit, Programmmitgliedschaften zu erstellen und zu aktualisieren.
 
-* **Nest Event Programmes**: Im Adobe Marketo Engage können Sie Ereignisprogramme unter anderen Programmtypen erstellen, klonen oder verschieben. Diese Funktion ist jetzt in der Assets-API zulässig.
+* **Verschachteln von Ereignisprogrammen**: Im Adobe Marketo Engage können Sie Ereignisprogramme unter anderen Programmtypen erstellen, klonen oder verschieben. Diese Funktion ist jetzt in der Assets-API zulässig.
 
-* **Verbesserte API** zum Löschen von Programmen: Ermöglicht integrierten Anwendungen das Löschen von Programmen, die zusätzliche Asset-Typen enthalten, ohne dass Benutzer dies manuell über Adobe Marketo Engage tun müssen.
+* **Verbesserte API zum Löschen eines Programms**: Ermöglicht integrierten Anwendungen das Löschen von Programmen, die zusätzliche Asset-Typen enthalten, ohne dass Benutzer dies manuell über Adobe Marketo Engage tun müssen.
 
 * **Programmmitgliedschaft**: Marketingexperten können bei verschiedenen Kriterien, wie z. B. dem Status der Programmmitglieder, alle Datensätze der Programmmitglieder für ein ausgewähltes Programm abfragen. Geben Sie diese Informationen für eine externe Anwendung, ein Business Intelligence-Tool oder Adobe Experience Cloud frei, um die Segmentierung zu verbessern und gezieltere Interaktionen zu erstellen.
 
@@ -57,7 +57,7 @@ Mehrere wichtige Aktualisierungen an Bulk- und Lead-APIs, darunter die Möglichk
 
 * **API für benutzerdefinierte Felder-Metadaten**: Sparen Sie Zeit, indem Sie beim Einrichten Ihrer Adobe Marketo Engage-Integrationen mit einer Drittanbieteranwendung die Erstellung benutzerdefinierter Felder automatisieren. Diese Automatisierung kommt insbesondere Kunden mit mehreren Adobe Marketo Engage-Instanzen zugute, die jetzt in der Lage sind, die Erstellung benutzerdefinierter Felder zu optimieren, für die in jeder Instanz manuelle Arbeit erforderlich war. Optimieren Sie die Erstellung benutzerdefinierter Felder und sparen Sie Zeit für diese ressourcenintensive Aktivität.
 
-* **Bulk Activity Extract-API**: Gewinnen Sie bei der Durchführung von Massenextraktionen Kontrolle über die Datenmenge und -art. Filtern Sie unnötige Datenpunkte und steuern Sie die Anzahl der API-Aufrufe, die erforderlich sind, um Aktivitätsdaten stapelweise zu extrahieren.  Wählen Sie beispielsweise offene E-Mails aus, besuchen Sie eine Webseite oder ändern Sie den Lead-Punktstand und lassen Sie andere Wertänderungen, die Sie nicht analysieren möchten, zurück. Optimieren Sie den Prozess, um die Anzahl der API-Aufrufe und die Datenbereinigung zu verringern.
+* **Bulk Activity Extract API**: Gewinnen Sie bei der Durchführung von Massenextraktionen Kontrolle über die Datenmenge und -art. Filtern Sie unnötige Datenpunkte und steuern Sie die Anzahl der API-Aufrufe, die erforderlich sind, um Aktivitätsdaten stapelweise zu extrahieren.  Wählen Sie beispielsweise offene E-Mails aus, besuchen Sie eine Webseite oder ändern Sie den Lead-Punktstand und lassen Sie andere Wertänderungen, die Sie nicht analysieren möchten, zurück. Optimieren Sie den Prozess, um die Anzahl der API-Aufrufe und die Datenbereinigung zu verringern.
 
 * **Lead-API**: Identifizieren Sie Leads im Adobe Marketo Engage, denen die Adobe ECID (Experience Cloud ID) zugeordnet ist.  Adobe Marketo Engage-Kunden können eine Liste von Leads aus einer ausgewählten Kampagne erstellen und die ECIDs (Experience Cloud ID) verwenden, um in Adobe Analytics Berichte für diese spezifische Liste zu erstellen. Die Integration von Adobe Marketo Engage mit Adobe Experience Cloud eröffnet unbegrenzte Möglichkeiten für Segmentierung, Targeting und Reporting.
 
@@ -69,20 +69,20 @@ Mehrere wichtige Aktualisierungen an Bulk- und Lead-APIs, darunter die Möglichk
 
 * **XLSX-Export**: Wir haben die Exportfunktionen im gesamten Produkt aktualisiert, um XLSX anstelle von XLS zu unterstützen. Dies bedeutet, dass diese Option an jeder Stelle im Produkt, an der der XLS-Export derzeit unterstützt wird, durch eine Option zum Exportieren nach XLSX ersetzt wird. Diese Änderung betrifft die Dateinamen aller Excel-Exporte von Berichten und anderen Daten aus Adobe Marketo Engage.
 
-* **Suche nach Lead-ID**: Schneller Zugriff auf die Suche nach Lead-Datensätzen nach Adobe Marketo Engage-Lead-ID in der Lead-Datenbank oder statischen Liste. Geben Sie im Fenster Schnellsuche einfach `[id]` mit der entsprechenden Nummer ein, dann werden die Lead-Informationen angezeigt. Benutzer können schnell Lead-, Unternehmens- oder Opportunity-Details überprüfen.
+* **Suche nach Lead-ID**: Schneller Zugriff auf die Suche nach Lead-Datensätzen nach Adobe Marketo Engage-Lead-ID in der Lead-Datenbank oder statischen Liste. Geben Sie im Fenster Schnellsuche einfach `[id]` mit der entsprechenden Nummer, werden die Lead-Informationen angezeigt. Benutzer können schnell Lead-, Unternehmens- oder Opportunity-Details überprüfen.
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Integration mit LinkedIn Lead Gen Forms (Beta)**: Verschaffen Sie sich mit der Bizible Premium-Attributionslösung einen umfassenden Einblick in Ihre LinkedIn-Kanalausgaben und Ihren ROI. Durch die neueste Integration mit LinkedIns Lead Gen Forms erhält Bizible Einblicke in Formulare, die auf der LinkedIn-Plattform eingereicht wurden. Diese Formularausfüllungen werden mit Leads aus Ihrem CRM-System (Customer Relationship Management) oder Ihrer Adobe-Marketo Engage-Instanz abgeglichen, sodass sie für die Attribution infrage kommen und anhand Ihrer anderen Marketing-Interaktionen verfolgt werden können.
+* **Integration mit LinkedIn Lead Gen Forms (Beta)**: Verschaffen Sie sich mit der Bizible Premium-Attributionslösung einen umfassenden Einblick in Ihre LinkedIn-Kanalausgaben und Ihren ROI. Durch die neueste Integration mit LinkedIns Lead Gen Forms erhält Bizible Einblicke in Formulare, die auf der LinkedIn-Plattform eingereicht wurden. Diese Formularausfüllungen werden mit Leads aus Ihrem CRM-System (Customer Relationship Management) oder Ihrer Adobe-Marketo Engage-Instanz abgeglichen, sodass sie für die Attribution infrage kommen und anhand Ihrer anderen Marketinginteraktionen verfolgt werden können.
 
 ## Ankündigungen {#announcements}
 
-* **Marketo-Produktdokumente Wechselplattformen**: Wir freuen uns, Ihnen mitteilen zu können, dass die Marketo-Produktdokumente seit Freitag, dem 7. Mai, der Adobe Experience League beigetreten sind. Sie können weiterhin die URL verwenden: docs.marketo.com, und wenn Sie bereits vorhandene Artikel mit einem Lesezeichen versehen haben, werden Sie umgeleitet. Alle Produktdokumente sind auf der neuen Plattform verfügbar, für Ende des Jahres sind Verbesserungen geplant.
+* **Marketo-Produktdokumente Wechseln von Plattformen**: Wir freuen uns, Ihnen mitteilen zu können, dass die Marketo-Produktdokumente seit Freitag, dem 7. Mai, der Adobe Experience League beigetreten sind. Sie können weiterhin die URL verwenden: docs.marketo.com, und wenn Sie bereits vorhandene Artikel mit einem Lesezeichen versehen haben, werden Sie umgeleitet. Alle Produktdokumente sind auf der neuen Plattform verfügbar, für Ende des Jahres sind Verbesserungen geplant.
 
 * **Optimierte Benutzerverwaltung und Single Sign-on mit Adobe Identity System**: Ab Juli 2021 werden die neuen Adobe Marketo Engage-Kunden mit Adobe-Benutzeranmeldeinformationen integriert. Die Migration von aktuellen Kunden zum integrierten Identitätssystem erfolgt erst Mitte 2022 und es ist bis auf Weiteres keine Kundenaktion erforderlich. Single Sign-On ermöglicht IT-/Sicherheitsadministratoren die Verwaltung mehrerer Adobe Marketo Engage-Produktinstanzen zusammen mit anderen Experience Cloud-Lösungen sowie die Konfiguration von SSO (Shared Services Organization) über eine gemeinsame Konsole. Administratoren können Benutzergruppen und Benutzerberechtigungen bequem über eine gemeinsame Admin Console verwalten.
 
 **_Webinar zur Produktversion_**
 
-Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Stellen Sie sicher, dass Sie sich [jetzt registrieren](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html), um am 13. Mai um 9:00 Uhr PT/23:00 Uhr ET für ein Live-Webinar mit unserem Produktteam teilzunehmen, um diese Innovationen näher zu untersuchen.
+[Webinar zur Marketo Engage-Version Mai 2021](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)
