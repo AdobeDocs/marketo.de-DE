@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 5%
 
 ---
@@ -1269,6 +1269,25 @@ ht-degree: 5%
             + [Meine dynamischen Felder werden nicht ausgefüllt](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Referenzieren Sie sich in einem dynamischen Feld](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + Aktionen {#actions}
+         + Administrator {#admin}
+            + [Blockierte Domänen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Inhaltssperre](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [Team erstellen](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Einrichten des Trackings benutzerdefinierter Domänen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [Benutzer und Administratoren einladen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Weitergabe-Einstellungen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + E-Mail {#email}
+            + Kommandozentrale {#command-center}
+               + [Erweiterte Suchübersicht](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [Zuweisen von Aufgaben zu Team-Mitgliedern](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [Übersicht über das Command Center](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [E-Mail-Spalten und E-Mail-Seitenlayout](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [Schnellaktionen im Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + E-Mail-Einstellungen {#email-settings}
+            + [Prüfen Ihrer E-Mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + E-Mail zum Vertrieb senden {#send-a-sales-email}
+            + [Übersicht über das E-Mail-Tracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Verwenden von MSI {#using-msi}
          + [Eingehende E-Mails von Ihren Leads in Marketo anmelden](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome Plugin {#msi-chrome-plugin}
