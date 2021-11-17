@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8047'
 ht-degree: 5%
 
 ---
@@ -1273,7 +1273,7 @@ ht-degree: 5%
          + Administrator {#admin}
             + [Blockierte Domänen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Inhaltssperre](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [Team erstellen](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Team erstellen](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Einrichten des Trackings benutzerdefinierter Domänen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Benutzer und Administratoren einladen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Weitergabe-Einstellungen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1286,6 +1286,8 @@ ht-degree: 5%
                + [Schnellaktionen im Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + E-Mail-Einstellungen {#email-settings}
             + [Prüfen Ihrer E-Mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [Marketo-Zugriff für Benutzer gewähren](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + E-Mail zum Vertrieb senden {#send-a-sales-email}
             + [Übersicht über das E-Mail-Tracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Verwenden von MSI {#using-msi}
