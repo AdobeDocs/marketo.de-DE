@@ -3,10 +3,10 @@ description: Inhaltssperre - Marketo-Dokumente - Produktdokumentation
 title: Inhaltssperre
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '100'
+ht-degree: 4%
 
 ---
 
@@ -18,7 +18,7 @@ Indem Sie die Sperrung von Inhalten aktivieren, können Benutzer ohne Administra
 >
 >Benutzer können den Inhalt einer E-Mail zum Zeitpunkt des Versands oder des Starts einer Kampagne weiterhin bearbeiten.
 
-1. Im [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/content-lockdown-1.png)
 
