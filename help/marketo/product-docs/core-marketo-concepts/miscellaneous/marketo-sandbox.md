@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - Produktdokumentation
 title: Marketo-Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: c2dc3c337cb5ea1446a2ebd6233f570025d1d986
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,10 @@ Eine Marketo-Sandbox kann nicht mit Ihrem regulären CRM-System synchronisiert w
 
 ## Wissenswertes über Sandboxes {#things-to-know-about-sandboxes}
 
-* Sobald Ihre Sandbox eingerichtet ist und Sie von Ihrem Customer Success Manager eingeladen werden, müssen Sie sich mit einer anderen E-Mail-Adresse anmelden als in Ihrer Marketo-Produktionsinstanz.
-* Wenn Sie Benutzer hinzufügen möchten, ist der Prozess derselbe wie [Hinzufügen von Benutzern in der Produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Auch hier müssen sie eine andere E-Mail-Adresse verwenden, wenn sie bereits über eine Marketo-Anmeldung verfügen.
+* Nachdem Ihr Customer Success Manager Ihre Sandbox eingerichtet hat und Sie die Einladung erhalten hat, müssen Sie sich mit einer anderen E-Mail-Adresse anmelden als mit Ihrer Marketo-Produktionsinstanz.
+* Wenn Sie Benutzer hinzufügen möchten, ist der Prozess mit dem Szenario [Hinzufügen von Benutzern in der Produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Auch hier müssen sie eine andere E-Mail-Adresse verwenden, wenn sie bereits über eine Marketo-Anmeldung verfügen.
 * Ihre Marketo-Sandbox beginnt leer, verfügt jedoch über dieselben Funktionen wie Ihre Produktionsinstanz.
-* Wenn Sie ein Programm in Ihrer Sandbox erstellen und in die Produktion verschieben möchten, können Sie einen [Programm-Import](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md) durchführen.
+* Wenn Sie ein Programm in Ihrer Sandbox erstellen und in die Produktion verschieben möchten, können Sie eine [Programmimport](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Sandboxes werden gedrosselt, sodass Produktionsinstanzen von Testumgebungen nicht beeinträchtigt werden. Pro Kampagnenablauf können bis zu 20 E-Mails gesendet werden.
 
 >[!CAUTION]
@@ -34,10 +34,8 @@ Eine Marketo-Sandbox kann nicht mit Ihrem regulären CRM-System synchronisiert w
 
 ## Instanz kopieren {#instance-copy}
 
-Sie können einen Support-Fall senden, der eine einmalige Instanzkopie anfordert, um Ihre Sandbox zu füllen. Die Instanzkopie übernimmt jedoch nicht _alles_. Weitere Informationen finden Sie unter [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) .
+Sie können einen Support-Fall senden, der eine einmalige Instanzkopie anfordert, um Ihre Sandbox zu füllen. Die Instanzkopie wird nicht übertragen _alles_ jedoch. Bitte konsultieren Sie [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) für Details.
 
 >[!NOTE]
 >
->* Die Instanzkopie wird **nicht** unterstützt, wenn die Quellinstanz in Microsoft Dynamics integriert ist.
->* Wenn Sie Ihr natives CRM ändern, ist eine neue Marketo-Instanz erforderlich und eine Instanzkopie in die neue Marketo-Instanz ist nicht möglich. Wenden Sie sich stattdessen an den Marketo-Support , um die Funktion des Programms importieren zu erkunden.
-
+>Wenn Sie Ihr natives CRM ändern, ist eine neue Marketo-Instanz erforderlich und eine Instanzkopie in die neue Marketo-Instanz ist nicht möglich. Wenden Sie sich stattdessen an den Marketo-Support , um die Funktion des Programms importieren zu erkunden.
