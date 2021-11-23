@@ -3,9 +3,9 @@ description: Übersicht über das Command Center - Marketo Docs - Produktdokumen
 title: Übersicht über das Command Center
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 3%
 
 ---
@@ -18,7 +18,7 @@ Das Command Center ist eine zentrale, einheitliche Ansicht, mit der Sie den näc
 
 Im E-Mail-Bereich des Command Centers können Sie Ihre gesamte E-Mail-Aktivität verwalten. Stellen Sie sich dies als Ihren E-Mail-Postausgang vor, um E-Mails zu überprüfen, die von Sales Connect gesendet wurden. Verwalten Sie geplante E-Mails, sehen Sie, wer mit Ihren E-Mails interagiert hat, überprüfen Sie, ob Probleme mit dem Versand Ihrer E-Mails aufgetreten sind und vieles mehr.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können Ihre Organisation mit primären Tabs und Unterregisterkarten vereinfachen, die als Ordner fungieren, in denen Ihre E-Mails automatisch basierend auf ihrem Status gespeichert werden.
 
@@ -73,7 +73,7 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
 
 Der Aufgabenbereich ist Ihre zentrale Anlaufstelle für die Verwaltung und Ausführung von Aufgaben. Hier können Sie Ihre Aufgaben nahtlos verwalten, um Ihre Produktivität zu steigern und sich auf die relevantesten Elemente zu konzentrieren.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## Folgemaßnahmen zu interagierten Perspektiven {#follow-up-with-engaged-prospects}
 
