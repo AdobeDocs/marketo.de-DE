@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '8068'
+source-wordcount: '8083'
 ht-degree: 5%
 
 ---
@@ -1278,6 +1278,10 @@ ht-degree: 5%
             + [Benutzer und Administratoren einladen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Weitergabe-Einstellungen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Benutzerzugriffsdetails](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + CRM {#crm}
+            + Salesforce-Integration {#salesforce-integration}
+               + [Verbinden Ihres Marketo-Verkaufskontos mit Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Salesforce-Synchronisationseinstellungen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + E-Mail {#email}
             + Kommandozentrale {#command-center}
                + [Erweiterte Suchübersicht](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1297,6 +1301,7 @@ ht-degree: 5%
          + E-Mail zum Vertrieb senden {#send-a-sales-email}
             + [Übersicht über das E-Mail-Tracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Vorlagen {#templates}
+            + [Vorlagen verwalten](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Verwalten von Vorlagenkategorien](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + Verwenden von MSI {#using-msi}
          + [Eingehende E-Mails von Ihren Leads in Marketo anmelden](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
