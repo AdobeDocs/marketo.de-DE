@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Übersicht über MSI-Funktionen - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über MSI-Funktionen
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '937'
 ht-degree: 12%
 
 ---
@@ -21,7 +21,7 @@ Das MSI Visualforce-Bedienfeld umfasst die folgenden Funktionen:
 * Registerkarten
 
    * [Insights-Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Interessanter Moment
+   * Interessante Momente
    * Webaktivität
    * E-Mail
    * Bewertung
@@ -64,7 +64,7 @@ Felder:
 Visualforce-Seiten:
 
 * Kontakt - Enthält die Option zum Klicken auf &quot;Zur vollständigen Liste gehen&quot;, werden Sie an eine neue Registerkarte in Salesforce gesendet, auf der das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird.
-* Kontaktliste - enthält keine Option &quot;Zur vollständigen Liste&quot;
+* Kontaktliste - enthält keine Option &quot;Zur vollständigen Liste wechseln&quot;
 * Contact Mobile - Visible in Salesforce mobile application
 * Zu Marketo Campaign-Kontaktseite hinzufügen - Funktion &quot;Zu Marketo Campaign hinzufügen&quot;ist in diesem Bereich verfügbar
 
@@ -195,4 +195,7 @@ Marketo Sales Insight wird nach Sprache gespeichert. Wenn es also für mehr als 
 
 >[!NOTE]
 >
->Ein Kontakt/Lead muss sich in der Standardpartition befinden, damit er zur Watchlist hinzugefügt werden kann.
+>* Ein Kontakt/Lead muss sich in der Standardpartition befinden, damit er zur Watchlist hinzugefügt werden kann.
+>
+>* Das MSI Salesforce-Paket unterstützt keine benutzerdefinierte Ansicht mit abhängigen Feldern.
+
