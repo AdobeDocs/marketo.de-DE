@@ -3,10 +3,10 @@ description: Verwalten von Vorlagen - Marketo-Dokumente - Produktdokumentation
 title: 'Vorlagen verwalten '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 0%
+source-wordcount: '523'
+ht-degree: 1%
 
 ---
 
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >Geben Sie Text immer direkt in die Vorlage ein oder kopieren Sie ihn aus einem Texteditor (z. B. Notepad oder TextEdit). Das Kopieren und Einfügen aus einem Rich-Text-Editor (z. B. MS Word) kann zu Formatierungsfehlern führen.
+
+## Vorlagendetails anzeigen {#view-template-details}
+
+Der Bereich &quot;Vorlagendetails&quot;enthält mehrere Registerkarten.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Vorlage</strong></td>
+  <td>Überprüfen und bearbeiten Sie, richten Sie Kriterien ein, um die Vorlage zu einer empfohlenen Vorlage zu machen, und fügen Sie Notizen hinzu.</td>
+ </tr>
+ <tr>
+  <td><strong>Analytics</strong></td>
+  <td>Überprüfen Sie die Interaktionsanalyse für die Vorlage. Führen Sie eine gefilterte Suche durch.</td>
+ </tr>
+ <tr>
+  <td><strong>E-Mails</strong></td>
+  <td>Zeigen Sie alle mit dieser Vorlage gesendeten E-Mails an. Führen Sie eine gefilterte Suche durch.</td>
+ </tr>
+ <tr>
+  <td><strong>Kampagnen</strong></td>
+  <td>Ermitteln Sie, in welchen Kampagnen die Vorlage verwendet wird.</td>
+ </tr>
+</table>
 
 ## Vorlage freigeben {#share-a-template}
 
@@ -92,9 +117,17 @@ Aus dem **Ansicht** in der Dropdown-Liste können Sie Folgendes anzeigen: alle V
 
 Archivieren Sie Vorlagen, um Ihre Verkaufsinhalte organisiert und fokussiert zu halten, ohne Vorlagendaten zu verlieren.
 
-Aktivieren Sie das Kontrollkästchen neben einer Vorlage und klicken Sie auf **Archivieren**.
+1. Aktivieren Sie das Kästchen neben der Vorlage, die Sie archivieren möchten.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Klicken **Archivieren**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Klicken **Archivieren** zur Bestätigung.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ Gehen Sie wie folgt vor, um eine Vorlage zu löschen.
 >
 >Durch das Löschen einer Vorlage werden auch ALLE damit verbundenen Tracking- und Analysefunktionen gelöscht.
 
-1. Wählen Sie die Vorlage aus, die Sie entfernen möchten.
+1. Aktivieren Sie das Kästchen neben der Vorlage, die Sie löschen möchten.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Klicken Sie oben rechts auf das Dropdown-Menü und dann auf **Löschen**.
+1. Klicken **Löschen**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Klicken **Löschen** zur Bestätigung.
 
-PICC
+   ![](assets/manage-templates-19.png)
