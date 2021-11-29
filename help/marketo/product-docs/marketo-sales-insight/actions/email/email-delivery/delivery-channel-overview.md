@@ -3,9 +3,9 @@ description: Versandkanal-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Versandkanal-Übersicht
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Darüber hinaus bieten SMTP-Drittanbieter eine Vielzahl von Funktionen, mit dene
 Marketo Sales-Server sind nur für ältere ToutApp-Kunden verfügbar. Diese Kunden sehen die Marketo Sales-Server, die in ihren E-Mail-Einstellungen verfügbar sind. Nicht-ältere Kunden sehen Marketo Sales nicht als Option und sollten ihr Gmail- oder Outlook-Konto mit Marketo Sales verbinden, um einen Versandkanal zu entsperren.
 
 Marketo Sales-Server unterstützen keine DKIM- und SPF-Authentifizierungsmethoden, die die Zustellrate senken können. Aus diesem Grund empfehlen wir allen Kunden, eine Verbindung zu Gmail oder Outlook herzustellen, um eine optimale Zustellbarkeit zu erreichen.
+
+## MSC-Server (alt) {#msc-servers-legacy}
+
+MSC-Server sind nur für einige ältere ToutApp-Kunden verfügbar. Diese Kunden sehen MSC-Server, die in ihren E-Mail-Einstellungen verfügbar sind. Nicht-ältere Kunden sehen MSC nicht als Option und sollten ihr Gmail- oder Outlook-Konto mit Sales Connect verbinden, um einen Versandkanal zu entsperren.
+
+MSC-Server unterstützen keine DKIM- und SPF-Authentifizierungsmethoden, die die Zustellrate senken können. Aus diesem Grund empfehlen wir allen Kunden, eine Verbindung zu Gmail oder Outlook herzustellen, um eine optimale Zustellbarkeit zu erreichen.
 
 ## Marketo-Server {#marketo-servers}
 
