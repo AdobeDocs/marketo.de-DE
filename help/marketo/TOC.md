@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '8083'
+source-wordcount: '8097'
 ht-degree: 5%
 
 ---
@@ -1294,6 +1294,10 @@ ht-degree: 5%
                + [Nachricht zum Abmelden von Links anpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Überprüfung von „Marketo abbestellen“](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Synchronisieren von Abmeldungen mit Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+         + E-Mail-Versand {#email-delivery}
+            + [Versandkanal-Übersicht](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
+            + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
+            + [Einrichten eines benutzerdefinierten Bereitstellungskanals](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
          + E-Mail-Einstellungen {#email-settings}
             + [Prüfen Ihrer E-Mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
