@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definieren von Segmentregeln - Marketo-Dokumente - Produktdokumentation
 title: Segmentregeln definieren
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Durch die Definition von Segmentregeln können Sie Ihre Personen in verschiedene
 
    >[!CAUTION]
    >
-   >Beratung _against_ Verwendung von Kontofeldern bei der Definition von Segmentregeln, da dies zu Problemen bei der Aktivitätsprotokollierung führen kann.
+   >Das Aktivitätsprotokollierungsverhalten für Kontofelder kann sich auf die Qualifizierung auswirken. Daher empfehlen wir, bei der Definition von Segmentregeln keine Kontofelder zu verwenden.
 
 1. Klicken Sie auf **Personen (Entwurf)** um die Personen anzuzeigen, die sich möglicherweise als Mitglied dieses Segments qualifizieren.
 
