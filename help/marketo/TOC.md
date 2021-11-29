@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
+source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 5%
@@ -1296,7 +1296,7 @@ ht-degree: 5%
                + [Synchronisieren von Abmeldungen mit Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + E-Mail-Versand {#email-delivery}
             + [Versandkanal-Übersicht](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
             + [Einrichten eines benutzerdefinierten Bereitstellungskanals](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + E-Mail-Einstellungen {#email-settings}
             + [Prüfen Ihrer E-Mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
