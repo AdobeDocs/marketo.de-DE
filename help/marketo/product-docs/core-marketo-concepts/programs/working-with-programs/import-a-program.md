@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Programm importieren - Marketo-Dokumente - Produktdokumentation
 title: Programm importieren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -16,33 +16,33 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
 
 ## Programm importieren {#import-a-program-1}
 
-1. Gehen Sie zu **Marketingaktivitäten.**
+1. Navigieren Sie zu **Marketingaktivitäten.**
 
    ![](assets/ma.png)
 
-1. Klicken Sie auf die Dropdown-Liste **Neu** . Wählen Sie **Programm importieren** aus.
+1. Klicken **Neu** angezeigt. Auswählen **Importprogramm**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Der Programm-Import ist nur für Benutzer verfügbar, deren Rollen mit der Berechtigung Programm importieren aktiviert sind. Erfahren Sie mehr über [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Der Programm-Import ist nur für Benutzer verfügbar, deren Rollen mit der Berechtigung Programm importieren aktiviert sind. Weitere Informationen [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Wählen Sie eine Marketo **Subscription** und ein zu importierendes Programm aus. Klicken Sie auf **Next**.
+1. Marketo auswählen **Abonnement** und ein Importprogramm. Klicken **Nächste**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Geben Sie einen **Kampagnenordner** für das importierte Programm an. Klicken Sie auf **Weiter.**
+1. Geben Sie eine **Kampagnenordner** für das importierte Programm. Klicken **Weiter.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass **Standardkonfliktregeln** ausgewählt sind. Konfliktregeln sind erforderlich, wenn Sie Programme in eine Instanz importieren, die Assets mit demselben Namen enthält.
+   >Stellen Sie sicher **Standardkonflikt verwenden** -Regeln ausgewählt ist. Konfliktregeln sind erforderlich, wenn Sie Programme in eine Instanz importieren, die Assets mit demselben Namen enthält.
 
-1. Vorschau der Details und **Import** des Programms.
+1. Details in der Vorschau anzeigen und **Import** das Programm.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -74,7 +74,7 @@ Die Marketo-Programmbibliothek enthält vordefinierte, getestete Programme, die 
 1. **Scoring - Standardbearbeitung und Auswahl von Editionen.** Demografische und verhaltensbezogene Bewertung, die in separaten Scoring-Feldern erfasst wird. Umfasst mehr als zwei Dutzend Scoring-bezogene Kampagnen.
 1. **Synchronisieren neuer Personen mit CRM.** Die Kampagne, die neue Personen mit Ihrem CRM-System synchronisiert. Er weist einen Personenstand so zu, dass er als nicht verkaufsbereit erkannt wird.
 1. **Webinar mit Ereignisadapter.** Eine vollständige Reihe von E-Mails - wie z. B. Einladungen und Erinnerungen - sowie Landingpages mit Formularen und Kampagnen, um Personen durch das Programm zu bewegen. Dieses Programm enthält aktuelle Informationen über Registrierung, Teilnahme usw. von Online-Ereignisanbietern wie WebEx.
-1. **Webinar ohne Ereignisadapter.** Wie oben, aber mit manuellen Prozessen für die Registrierung, Anwesenheit, usw.
+1. **Webinar ohne Ereignisadapter.** Wie oben, aber mit manuellen Prozessen für die Aufzeichnung der Registrierung, Anwesenheit, usw.
 1. **Scoring-Programm für Sirius-Entscheidungen**. Dieses Programm unterstützt das Standard-Scoring-Modell für Sirius-Entscheidungen, einschließlich der impliziten und expliziten Scoring-Regeln und der Zuweisung von matrixten Personen.
 
 >[!CAUTION]
@@ -85,22 +85,20 @@ Die Marketo-Programmbibliothek enthält vordefinierte, getestete Programme, die 
 
 Programme verwenden externe Assets wie E-Mail-Vorlagen, Landingpage-Vorlagen, Bilder, Formulare, Token und Programm-Tags. Sie können konfigurieren, wie Landingpage-Vorlagen und Programm-Tags verarbeitet werden, und Marketo verwaltet den Rest automatisch.
 
-**E-Mail-Vorlagen:** E-Mail-Vorlagen werden automatisch importiert und erstellt, es sei denn, eine Vorlage mit demselben Namen ist vorhanden.
+**E-Mail-/Landingpage-Vorlagen:** E-Mail-/Landingpage-Vorlagen werden in Design Studio importiert. Sie können Konfliktregeln verwenden, um das Verhalten zu konfigurieren, wenn eine Vorlage mit demselben Namen vorhanden ist. Unter Verwendung der Standardregel wird eine Zahl an eine Vorlage angehängt, wenn eine mit demselben Namen vorhanden ist. Wenn Sie beispielsweise bereits über eine Vorlage mit dem Namen &quot;Standardvorlage&quot;verfügen, erhält die neue Vorlage den Namen &quot;Standardvorlage 1&quot;.
 
-**Landingpage-Vorlagen:** Landingpage-Vorlagen werden in das Design-Studio importiert. Sie können Konfliktregeln verwenden, um das Verhalten zu konfigurieren, wenn eine Vorlage mit demselben Namen vorhanden ist. Unter Verwendung der Standardregel wird eine Zahl an eine Landingpage-Vorlage angehängt, wenn eine mit demselben Namen vorhanden ist. Beispielsweise wird eine Landingpage-Vorlage mit dem Namen Standardvorlage 1 erstellt, wenn eine mit dem Namen Standardvorlage vorhanden ist.
-
-**Bilder:** Von Landingpages verwendete Bilder werden in das Design-Studio importiert, es sei denn, es existiert eines mit demselben Namen.
+**Bilder:** Bilder, die von Landingpages verwendet werden, werden in das Design-Studio importiert, es sei denn, es existiert eines mit demselben Namen.
 
 **Token:** Token, die außerhalb eines Programms liegen, werden während des Importvorgangs in lokale Token konvertiert.
 
 >[!CAUTION]
 >
->Bildtyp Meine Token werden für Programmimporte nicht unterstützt. Wenn ein Programm importiert wird, das den Bildtyp meiner Token aufweist, werden **no** Token angezeigt.
+>Bildtyp Meine Token werden für Programmimporte nicht unterstützt. Wenn ein Programm mit Bildtyp meine Token importiert wird, **no** Token werden durchkommen.
 
-**Programm-Tags:** Sie können Konfliktregeln verwenden, um zu steuern, wie Programm-Tags, die im Zielkonto nicht vorhanden sind, behandelt werden. Durch die Verwendung der Standardregel werden die Programm-Tags erstellt, oder Sie können die Tags ignorieren.
+**Programm-Tags:** Sie können Konfliktregeln verwenden, um zu steuern, wie Programm-Tags behandelt werden, die im Zielkonto nicht vorhanden sind. Durch die Verwendung der Standardregel werden die Programm-Tags erstellt, oder Sie können die Tags ignorieren.
 
 **Forms:** Externe Formulare werden automatisch in das Design-Studio importiert, es sei denn, es existiert ein Formular mit demselben Namen.
 
 >[!CAUTION]
 >
->Beim Importieren eines Programms werden Landingpages/E-Mails, die [dynamische Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) enthalten, übersprungen.
+>Beim Importieren eines Programms werden E-Mails/Landingpages mit [dynamischer Inhalt](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) werden übersprungen.
