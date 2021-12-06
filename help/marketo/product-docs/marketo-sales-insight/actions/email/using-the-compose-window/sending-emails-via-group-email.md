@@ -3,9 +3,9 @@ description: Senden von E-Mails per Gruppenemail - Marketo-Dokumente - Produktdo
 title: Senden von E-Mails über Gruppen-E-Mails
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 7462371066d983d9d7f483e8bf26bd3e666e495e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
 1. Klicken Sie auf **Personen** Registerkarte.
 
-   ![](assets/one-3.png)
+   PICC
 
 1. Wählen Sie die Gruppe aus, die Sie per E-Mail versenden möchten.
 
-   ![](assets/two-3.png)
+   PICC
 
 1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe**.
 
-   ![](assets/three-3.png)
+   PICC
 
 1. Füllen Sie Ihre E-Mail aus (oder wählen Sie eine Vorlage aus) und senden (oder planen) Sie sie.
 
-   ![](assets/four-3.png)
+   PICC
 
 ## Bearbeiten einer Gruppen-E-Mail {#editing-a-group-email}
 
@@ -38,19 +38,19 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
 1. Wählen Sie eine Vorlage aus oder füllen Sie Ihre E-Mail aus.
 
-   ![](assets/edit-two.png)
+   PICC
 
 1. Nach Abschluss der E-Mail können Sie nun für jede E-Mail in der Liste eine Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind.
 
-   ![](assets/edit-three.png)
+   PICC
 
 1. Wählen Sie den gewünschten Empfänger aus.
 
-   ![](assets/edit-four.png)
+   PICC
 
 1. Klicken **Vorschau dynamischer Felder** und sehen Sie sich die Vorschau auf der rechten Seite an.
 
-   ![](assets/edit-five.png)
+   PICC
 
    >[!NOTE]
    >
