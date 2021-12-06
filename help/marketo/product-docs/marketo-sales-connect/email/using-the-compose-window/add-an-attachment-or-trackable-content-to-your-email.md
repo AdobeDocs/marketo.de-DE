@@ -1,27 +1,30 @@
 ---
 unique-page-id: 37356587
-description: hinzufügen einer Anlage oder eines verfolgbaren Inhalts zu Ihrer E-Mail - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen einer Anlage oder eines verfolgbaren Inhalts zu Ihrer E-Mail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Hinzufügen eines Anhangs oder verfolgbaren Inhalts zu Ihrer E-Mail - Marketo Docs - Produktdokumentation
+title: Hinzufügen eines Anhangs oder verfolgbaren Inhalts zu Ihrer E-Mail
+exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
+source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
+# Hinzufügen eines Anhangs oder verfolgbaren Inhalts zu Ihrer E-Mail {#add-an-attachment-or-trackable-content-to-your-email}
 
-# hinzufügen einer Anlage oder eines verfolgbaren Inhalts zu Ihrer E-Mail {#add-an-attachment-or-trackable-content-to-your-email}
+Beim Versand einer E-Mail über Sales Connect haben Sie die Möglichkeit, eine Datei als Anlage hinzuzufügen oder eine Datei als herunterladbaren (und nachverfolgten) Link zu erstellen.
 
-Wenn Sie eine E-Mail über Sales Connect senden, haben Sie die Möglichkeit, eine Datei als Anlage hinzuzufügen oder eine Datei als einen herunterladbaren (und nachverfolgbaren) Link darzustellen.
+>[!NOTE]
+>
+>Normalerweise ist jede Datei über 20 MB zu groß, um bereitgestellt werden zu können. Die Größe eines Anhangs, den Sie per E-Mail senden können, hängt vom verwendeten E-Mail-Versandkanal ab.
 
-## hinzufügen einer Anlage {#add-an-attachment}
+## Anlage hinzufügen {#add-an-attachment}
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
    ![](assets/one-4.png)
 
-1. Füllen Sie das Feld &quot;An&quot;aus und geben Sie ein Betreff ein.
+1. Füllen Sie das Feld An aus und geben Sie einen Betreff ein.
 
    ![](assets/attach-two.png)
 
@@ -35,33 +38,33 @@ Wenn Sie eine E-Mail über Sales Connect senden, haben Sie die Möglichkeit, ein
 
    >[!NOTE]
    >
-   >Wenn Sie eine Datei hochladen müssen, klicken Sie oben rechts im Fenster auf die Schaltfläche **Inhalt hochladen**.
+   >Wenn Sie eine Datei hochladen müssen, klicken Sie auf das **Inhalt hochladen** rechts oben im Fenster.
 
    ![](assets/attach-five.png)
 
-Die Anlage wird am Ende Ihrer E-Mail angezeigt.
+Der Anhang wird unten in Ihrer E-Mail angezeigt.
 
-## hinzufügen nachverfolgbarer Inhalt {#add-trackable-content}
+## Verfolgbaren Inhalt hinzufügen {#add-trackable-content}
 
-1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir das Fenster Erstellen).
+1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir das Fenster Erstellen aus).
 
    ![](assets/one-4.png)
 
-1. Füllen Sie das Feld &quot;An&quot;aus und geben Sie ein Betreff ein.
+1. Füllen Sie das Feld An aus und geben Sie einen Betreff ein.
 
    ![](assets/two-4.png)
 
-1. Klicken Sie auf die Stelle in der E-Mail, an der der nachverfolgbare Inhalt erscheinen soll, und klicken Sie auf das Symbol für die Anlage.
+1. Klicken Sie auf die Stelle in der E-Mail, an der der nachverfolgte Inhalt erscheinen soll, und klicken Sie auf das Anlagensymbol.
 
    ![](assets/three-4.png)
 
-1. Wählen Sie den hinzuzufügenden Inhalt aus, klicken Sie auf den Schieberegler **Inhalt wird verfolgt** und klicken Sie auf **Einfügen**.
+1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, und klicken Sie auf die **Inhalt wird verfolgt** und klicken Sie auf **Einfügen**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Datei hochladen müssen, klicken Sie oben rechts im Fenster auf die Schaltfläche **Inhalt hochladen**.
+   >Wenn Sie eine Datei hochladen müssen, klicken Sie auf das **Inhalt hochladen** rechts oben im Fenster.
 
    Der Inhalt wird als Link in Ihrer E-Mail angezeigt. Der Empfänger kann auf den Link klicken, um den Inhalt herunterzuladen.
 
@@ -69,4 +72,4 @@ Die Anlage wird am Ende Ihrer E-Mail angezeigt.
 
    >[!NOTE]
    >
-   >Benutzer werden im Live Feed benachrichtigt, wenn sie ihre verfolgten Inhalte anzeigen. Benutzer können auch die leistungsstärksten Inhalte im Inhaltsabschnitt der Seite &quot;Analytics&quot;sehen.
+   >Benutzer werden im Live Feed benachrichtigt, wenn sie ihren verfolgten Inhalt anzeigen. Benutzer können auch die Inhalte mit der höchsten Leistung im Inhaltsabschnitt der Analytics-Seite sehen.
