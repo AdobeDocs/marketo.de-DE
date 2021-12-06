@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '8119'
+source-wordcount: '8147'
 ht-degree: 5%
 
 ---
@@ -1177,7 +1177,6 @@ ht-degree: 5%
             + [Kampagne wurde beendet](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC oder BCC in E-Mails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-Mail als Spam gekennzeichnet](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [Senden von Dateianlagen in Ihrer E-Mail](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
          + Der Live-Feed {#the-live-feed}
             + [Falscher Empfängerort](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Live Feed-Übersicht](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
@@ -1297,15 +1296,21 @@ ht-degree: 5%
                + [Übersicht über das Command Center](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [E-Mail-Spalten und E-Mail-Seitenlayout](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Schnellaktionen im Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + E-Mail-Versand {#email-delivery}
+               + [Versandkanal-Übersicht](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Abbestellungen {#unsubscribes}
                + [Abmelde-Übersicht](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Nachricht zum Abmelden von Links anpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Überprüfung von „Marketo abbestellen“](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Synchronisieren von Abmeldungen mit Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-            + E-Mail-Versand {#email-delivery}
-               + [Versandkanal-Übersicht](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-               + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Verwenden des Fensters &quot;Erstellen&quot; {#using-the-compose-window}
+               + [Hinzufügen eines Anhangs oder verfolgbaren Inhalts zu Ihrer E-Mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+               + [Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
+               + [Massen-E-Mail-Optionen](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+               + [Erstellen von Massen-E-Mails mit Auswählen und Senden](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+               + [Senden von E-Mails über Gruppen-E-Mails](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
          + Marketo {#marketo}
             + [Marketo-Zugriff für Benutzer gewähren](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + E-Mail zum Vertrieb senden {#send-a-sales-email}
