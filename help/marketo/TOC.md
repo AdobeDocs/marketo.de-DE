@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '8147'
+source-wordcount: '8159'
 ht-degree: 5%
 
 ---
@@ -1233,10 +1233,13 @@ ht-degree: 5%
             + [Benutzerseitenspalten](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Telefon {#phone}
          + [Aufrufe werden nicht bei Salesforce protokolliert](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [Ergebnisse der Aufrufe](product-docs/marketo-sales-connect/phone/call-outcomes.md)
+         + [Gründe für Aufrufe](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [Anmeldung zum Aktivitätsverlauf nicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Hat sich nicht bei Salesforce angemeldet](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Aufrufaufzeichnung aktivieren](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [Anleitung zum Anpassen des Anrufergebnisses im Verkaufsgespräch](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
+         + [Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Sales Phone International - Aufruf](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokale Präsenz von Verkaufs-Telefonen](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [Vertrieb - Telefonübersicht](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
