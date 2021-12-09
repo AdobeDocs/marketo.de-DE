@@ -3,9 +3,10 @@ description: Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr
 title: Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
