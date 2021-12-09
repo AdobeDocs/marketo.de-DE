@@ -1,37 +1,36 @@
 ---
 unique-page-id: 10093688
-description: hinzufügen Marketo Benutzerdefinierte Objektfelder - Marketo Docs - Produktdokumentation
-title: Benutzerdefinierte Objektfelder Hinzufügen Marketo
-translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+description: Benutzerdefinierte Marketo-Objektfelder hinzufügen - Marketo Docs - Produktdokumentation
+title: Benutzerdefinierte Marketo-Objektfelder hinzufügen
+exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
+# Benutzerdefinierte Marketo-Objektfelder hinzufügen {#add-marketo-custom-object-fields}
 
-# Benutzerdefinierte Objektfelder Hinzufügen Marketo {#add-marketo-custom-object-fields}
+Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie Felder hinzufügen, um Ihre geschäftlichen Anforderungen zu erfüllen.
 
-Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie Felder hinzufügen, um Ihren geschäftlichen Anforderungen zu entsprechen.
+Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag, um benutzerdefinierte Objekte zu verbinden. Sie werden in einer [separater Artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag, um benutzerdefinierte Objekte zu verbinden, und werden in einem [separaten Artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) behandelt.
-
-1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
+1. Klicken **Admin** und in **Datenbankverwaltung** auswählen **Benutzerdefinierte Marketo-Objekte**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
-1. Wählen Sie das Objekt aus, dem Sie das Feld auf der rechten Seite hinzufügen möchten.
+1. Wählen Sie rechts das Objekt aus, dem Sie das Feld hinzufügen möchten.
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. Klicken Sie auf der Registerkarte **Felder** auf **Neues Feld**.
+1. Im **Felder** Registerkarte, klicken Sie auf **Neues Feld**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
    >[!NOTE]
    >
-   >Die drei oben aufgeführten Felder werden automatisch von Marketo erstellt, wenn Sie ein benutzerdefiniertes Objekt erstellen. Marketo verwaltet diese Felder automatisch und Sie können sie weder bearbeiten noch löschen.
+   >Die drei oben gezeigten Felder werden von Marketo automatisch erstellt, wenn Sie ein benutzerdefiniertes Objekt erstellen. Marketo verwaltet diese Felder automatisch und Sie können sie weder bearbeiten noch löschen.
 
 1. Geben Sie einen Anzeigenamen und eine Beschreibung ein.
 
@@ -41,28 +40,28 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
    >
    >Der API-Name kann nur bearbeitet werden, bis er genehmigt wurde.
 
-1. Wählen Sie jetzt einen entsprechenden Datentyp aus der Liste.
+1. Wählen Sie nun einen geeigneten Datentyp aus der Liste aus.
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. Ziehen Sie den Deduplizierungsregler nach oben, wenn Sie das neue Feld als eindeutigen Bezeichner verwenden möchten. Klicken Sie auf **Speichern**, um abzuschließen.
+1. Ziehen Sie den Regler Deduplizieren , wenn Sie das neue Feld als eindeutige Kennung verwenden möchten. Klicken **Speichern** zu beenden.
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
    >[!TIP]
    >
-   >Deduplizierungsfelder können zum Abrufen, Aktualisieren oder Löschen benutzerdefinierter Objekte verwendet werden. Jede benutzerdefinierte Objektdefinition muss mindestens ein (und nicht mehr als drei) dedupliziertes Feld enthalten.
+   >Mithilfe von Deduplizierungsfeldern können benutzerdefinierte Objekte abgerufen, aktualisiert oder gelöscht werden. Jede benutzerdefinierte Objektdefinition muss mindestens ein (und höchstens drei) dedupliziertes Feld enthalten.
 
-1. hinzufügen anderen erforderlichen Felder.
+1. Fügen Sie weitere erforderliche Felder hinzu.
 
    >[!NOTE]
    >
-   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie dem benutzerdefinierten Objekt ein Feld &quot;Link&quot;hinzufügen. Für eine Viele-zu-viele-Struktur benötigen Sie im benutzerdefinierten Objekt kein Verknüpfungsfeld, Sie müssen jedoch zwei Verknüpfungsfelder in das intermediäre Objekt einfügen. Weitere Informationen zu Typen von benutzerdefinierten Objekten finden Sie unter [Hinzufügen Felder für benutzerdefinierte Objektverknüpfungen von Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md), um die Verknüpfungsfelder zu erstellen, und [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
+   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie ein Feld Link zu Ihrem benutzerdefinierten Objekt hinzufügen. Für eine n:n-Struktur benötigen Sie im benutzerdefinierten Objekt kein Verknüpfungsfeld, sondern müssen zwei Verknüpfungsfelder in das zwischengeschaltete Objekt einfügen. Siehe [Benutzerdefinierte Marketo-Objektverknüpfungsfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) um die Verknüpfungsfelder zu erstellen, und [Grundlegendes zu benutzerdefinierten Marketo-Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) für weitere Informationen zu Typen von benutzerdefinierten Objekten.
 
 >[!MORELIKETHIS]
 >
->* [Benutzerdefinierte Objektverknüpfungsfelder Hinzufügen Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Benutzerdefinierte Marketo-Objektverknüpfungsfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Grundlegendes zu benutzerdefinierten Marketo-Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
