@@ -3,9 +3,10 @@ description: Aufrufergebnisse - Marketo-Dokumente - Produktdokumentation
 title: Ergebnisse der Aufrufe
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ Ermöglichen Sie es Ihren Verkaufsteams, bei Anrufen die Ergebnisse der Anrufe a
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. Auswählen **Aktivieren der Anrufergebnisse**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. Wählen Sie die gewünschte Ergebnisanforderung für den Anruf aus.
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## Ergebnisse von Aufrufen erstellen {#create-call-outcomes}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. Klicken **Ergebnisse von Aufrufen verwalten**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. Geben Sie den gewünschten Ergebnisnamen des Aufrufs in das Textfeld ein.
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. Klicken Sie auf die Dropdown-Liste Antworten und wählen Sie den Ergebnistyp aus (in diesem Beispiel wählen wir Beantwortet aus). Klicken Sie anschließend auf **Hinzufügen**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## Ergebnis eines Aufrufs auswählen {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Gründe für Aufrufe](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+
