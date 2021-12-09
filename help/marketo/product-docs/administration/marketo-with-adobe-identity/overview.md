@@ -3,7 +3,8 @@ description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 hide: true
 hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '809'
 ht-degree: 0%
@@ -33,7 +34,7 @@ Adobe Marketo Engage-Abonnements, die in der Adobe Identity Management System in
  </tr>
  <tr>
   <td><strong>Marketo Engage User</strong></td>
-  <td>Eine Person, der Zugang zum Marketo Engage gewährt wurde. Keine Administratorrechte.</td>
+  <td>Eine Person, der Zugang zum Marketo Engage gewährt wurde. Keine Administratorberechtigungen.</td>
  </tr>
 </table>
 
