@@ -3,7 +3,8 @@ description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 1%
@@ -12,15 +13,15 @@ ht-degree: 1%
 
 # Dialogfelder {#dialogues}
 
-Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell anpassen, bestimmen, auf welchen Seiten sie erscheinen, und entscheiden, was gesagt wird und wer sie sieht.
+Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell anpassen, festlegen, auf welchen Seiten sie erscheinen, und entscheiden, was gesagt wird und wer sie sieht.
 
 ## Neues Dialogfeld erstellen {#create-a-new-dialogue}
 
-1. Klicken Sie auf **Dialogfelder**.
+1. Klicken **Dialogfelder**.
 
    ![](assets/dialogues-1.png)
 
-1. Klicken Sie auf die Schaltfläche **Neu erstellen** .
+1. Klicken Sie auf **Neu erstellen** Schaltfläche.
 
    ![](assets/dialogues-2.png)
 
@@ -38,25 +39,25 @@ Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell 
 
 **Bekannte Personen**
 
-Es gibt _viele_ Attributkombinationen, aus denen Sie auswählen können. In diesem Beispiel richten wir uns an alle **bekannten Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
+Es gibt _many_ Attributkombinationen zur Auswahl. In diesem Beispiel zielen wir auf alle **bekannte Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Beschäftigten arbeiten.
 
-1. Ziehen Sie das Attribut **Personenstatus** nach rechts.
+1. Grab die **Bundesland** -Attribut fest und ziehen Sie es nach rechts.
 
    ![](assets/dialogues-4.png)
 
-1. __ Die Liste wird standardmäßig festgelegt. Geben Sie im Feld Werte auswählen eine Zertifizierungsstelle ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
+1. _Is_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen eine Zertifizierungsstelle ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
    ![](assets/dialogues-5.png)
 
-1. Ziehen Sie das Attribut **Unternehmensgröße** und ziehen Sie es an die Stelle, an der _steht. Ziehen Sie ein Attribut hierher_.
+1. Grab die **Firmengröße** Attribut hinzufügen und an die gewünschte Position ziehen _Attribut hier ziehen und ablegen_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >Sie können auch ein Attribut auswählen, indem Sie auf das Symbol **+** klicken.
+   >Sie können auch ein Attribut auswählen, indem Sie auf dessen **+** Symbol.
 
-1. Klicken Sie auf das Dropdown-Menü für den Operator und wählen Sie **Größer als** aus.
+1. Klicken Sie auf die Dropdown-Liste Operator und wählen Sie **Größer als**.
 
    ![](assets/dialogues-7.png)
 
@@ -68,25 +69,25 @@ Und das ist es!
 
 **Anonyme Personen**
 
-Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel richten wir uns an alle **anonymen Personen** im Raum New York.
+Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel zielen wir auf alle **Anonyme Personen** befindet sich im Gebiet von New York.
 
-1. Ziehen Sie das Attribut **Person Email** und ziehen Sie es nach rechts.
+1. Grab die **Personen-E-Mail** -Attribut fest und ziehen Sie es nach rechts.
 
    ![](assets/dialogues-9.png)
 
-1. Klicken Sie auf das Dropdown-Menü für den Operator und wählen Sie **Ist leer** aus.
+1. Klicken Sie auf die Dropdown-Liste Operator und wählen Sie **Ist leer**.
 
    ![](assets/dialogues-10.png)
 
-1. Ziehen Sie das Attribut **Inferred State** und ziehen Sie es an die Stelle, an der _steht. Ziehen Sie ein Attribut hierher_.
+1. Grab die **Inferated State** Attribut hinzufügen und an die gewünschte Position ziehen _Attribut hier ziehen und ablegen_.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >Wenn ein Besucher Ihre Website besucht, werden diese von [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies gesetzt und in das System eingefügt. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen guten Informationen.
+   >Wenn jemand Ihre Website besucht, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und setzt sie in das System. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen guten Informationen.
 
-1. __ Die Liste wird standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
+1. _Is_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ Zulässige Formate:
 
 >[!NOTE]
 >
->Die Verwendung eines Sternchens dient als Platzhalter. `https://*.website.com` würde also den Dialog auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). Und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im nachfolgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
+>Die Verwendung eines Sternchens dient als Platzhalter. Also `https://*.website.com` würde das Dialogfeld auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im folgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
 
 ## Stream-Designer {#stream-designer}
 
@@ -133,7 +134,7 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
  </tr>
  <tr>
   <td><strong>Zeitplan für die Ernennung</strong></td>
-  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Kalenderverfügbarkeit spiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">den nächsten Agenten in Zeile</a> wider.</td>
+  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Verfügbarkeit eines Kalenders spiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">der nächste Agent in Zeilen</a>.</td>
  </tr>
  <tr>
   <td><strong>Ziel</strong></td>
@@ -143,7 +144,7 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
 
 **Erstellen eines Streams**
 
-Es gibt _viele_ mögliche Stream-Kombinationen. Sehen wir uns ein Beispiel [in diesem Artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md) an.
+Es gibt _many_ mögliche Stream-Kombinationen. Sehen wir uns ein Beispiel an [in diesem Artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Berichte {#reports}
 
