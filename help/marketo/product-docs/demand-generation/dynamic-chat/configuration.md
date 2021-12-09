@@ -3,7 +3,8 @@ description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 1%
@@ -28,7 +29,7 @@ Es gibt verschiedene Anpassungsoptionen.
 
 Hier definieren Sie das Erscheinungsbild des Chatbots, in dem Ihre Dialogfelder angezeigt werden, einschließlich: Farben, Schriftarten, Platzierung des Bot-Widgets und Name/Avatar des Chat-Bots.
 
-Die Farbe jeder Kategorie wird durch einen [hexadezimalen Farbwert](https://color.adobe.com/create/color-wheel) bestimmt (z. B. weiß = #ffffff, rot = #bf1932 usw.).
+Die Farbe jeder Kategorie wird durch eine [hexadezimaler Farbwert](https://color.adobe.com/create/color-wheel) (z. B. weiß = #ffffff, rot = #bf1932 usw.).
 
 ![](assets/configuration-3.png)
 
@@ -48,7 +49,7 @@ Wenn Sie die Änderungen vorgenommen haben, klicken Sie auf **Speichern**.
 
 ## Registerkarte &quot;Datenschutz&quot; {#privacy-tab}
 
-Klicken Sie auf die Registerkarte **Datenschutz** , um die URL der Datenschutzrichtlinie Ihrer Site hinzuzufügen/zu bearbeiten (optional).
+Klicken Sie auf **Datenschutz** Registerkarte, um die URL der Datenschutzrichtlinie Ihrer Site hinzuzufügen/zu bearbeiten (optional).
 
 ![](assets/configuration-7.png)
 
