@@ -3,9 +3,10 @@ description: Gründe für Aufrufe - Marketo-Dokumente - Produktdokumentation
 title: Gründe für Aufrufe
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ Lassen Sie zu, dass Ihre Verkaufsteams bei Aufrufen die Anrufgründe auswählen,
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Auswählen **Gründe für Anrufe aktivieren**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. LEERZEICHEN
+1. Wählen Sie die gewünschte Anrufgrundanforderung aus.
 
-Wählen Sie &quot;Benutzer können Aufrufe ausführen, ohne Anrufgründe auszuwählen&quot;aus, wenn Sie Benutzern erlauben möchten, einen Aufruf abzuschließen, ohne einen Aufruf protokollieren zu müssen, oder wählen Sie &quot;Benutzer müssen die Gründe für Aufrufe vor der Protokollierung auswählen&quot;aus, um die Anforderung zu erfüllen
+   ![](assets/call-reasons-4.png)
 
 ## Grund für Aufruf erstellen {#create-call}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Klicken **Gründe für Aufrufe verwalten**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Geben Sie den Namen des gewünschten Anrufs in das Textfeld ein.
+1. Geben Sie den Namen des gewünschten Anrufgrunds in das Textfeld ein und klicken Sie auf **Hinzufügen**.
 
-PICC
-
-1. Klicken **Hinzufügen**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Anrufgrund auswählen {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ Nachdem die Anrufgründe aktiviert wurden. Benutzer können beim Aufruf eine aus
 
 1. Klicken Sie auf die Anruftaste, um den Dialer zu starten.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Geben Sie die Anrufinformationen im Dialer ein.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Klicken Sie auf Aufruf.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Wählen Sie den Anrufgrund aus, der den Aufruf am besten beschreibt.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Beenden Sie den Aufruf.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Protokollieren Sie den -Aufruf.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >
