@@ -4,9 +4,9 @@ title: Gründe für Aufrufe
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,27 @@ Nachdem die Anrufgründe aktiviert wurden. Benutzer können beim Aufruf eine aus
 
 1. Klicken Sie auf die Anruftaste, um den Dialer zu starten.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Geben Sie die Anrufinformationen im Dialer ein.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Klicken Sie auf Aufruf.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Wählen Sie den Anrufgrund aus, der den Aufruf am besten beschreibt.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Beenden Sie den Aufruf.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Protokollieren Sie den -Aufruf.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
