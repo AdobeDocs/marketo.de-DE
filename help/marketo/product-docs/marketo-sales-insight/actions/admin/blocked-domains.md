@@ -3,7 +3,8 @@ description: Blockierte Domänen - Marketo-Dokumente - Produktdokumentation
 title: Blockierte Domänen
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
@@ -18,11 +19,11 @@ Helfen Sie Ihrem Vertriebsteam, Erfolg zu erzielen, indem Sie verhindern, dass K
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/blocked-domains-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
 
    ![](assets/blocked-domains-2.png)
 
