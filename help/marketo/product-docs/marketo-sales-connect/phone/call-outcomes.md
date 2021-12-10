@@ -4,9 +4,9 @@ title: Ergebnisse der Aufrufe
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ Sobald die Ergebnisse der Aufrufe aktiviert wurden. Benutzer können beim Aufruf
 
 1. Klicken Sie auf die Anruftaste, um den Dialer zu starten.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. Geben Sie die Anrufinformationen im Dialer ein.
+1. Geben Sie die Anrufinformationen in den Dialer ein und klicken Sie auf **Aufruf**.
 
-PICC
-
-1. Klicken Sie auf Aufruf.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. Wählen Sie das Aufrufergebnis aus, das den Aufruf am besten beschreibt.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. Beenden Sie den Aufruf.
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. Protokollieren Sie den -Aufruf.
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
