@@ -4,9 +4,9 @@ title: Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
 ### Fügen Sie benutzerdefinierte Aktivitätsfelder zum Aufgabenseitenlayout in Salesforce Classic hinzu. {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>Sie müssen diese Schritte nur ausführen, wenn Sie Ihr gewünschtes Seitenlayout in Schritt 9 oben nicht ausgewählt haben.
+
 1. Klicken Sie in Salesforce auf **Einrichtung**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Ziehen Sie das Feld in das Layout der Aufgabenseite.
+1. Ziehen Sie das Feld in den gewünschten Bereich des Aufgabenseitenlayouts.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. Klicken **Speichern**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce Lightning {#salesforce-lightning}
 
 ### Benutzerdefiniertes Aktivitätsfeld in Salesforce-Blitzen erstellen {#create-custom-activity-field-in-salesforce-lightning}
 
-1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts.
+1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung**.
 
-PICC
-
-1. Klicken **Einrichtung**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. Klicken **Object Manager**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Geben Sie in das Feld &quot;Schnellsuche&quot;die Aktivität ein und klicken Sie auf die Bezeichnung Aktivität , um die Objekteinrichtung zu öffnen.
+1. Geben Sie &quot;Aktivität&quot;in das Feld &quot;Schnellsuche&quot;ein.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Klicken Sie links auf **Felder und Beziehungen**.
+1. Klicken Sie auf **Aktivität** Beschriftung.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. Klicken **Felder und Beziehungen**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. Klicken **Neu**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Fügen Sie benutzerdefiniertes Aktivitätsfeld zum Aufgabenseitenlayout in Salesforce-Blitzen hinzu {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts.
+1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Klicken **Einrichtung**.
+1. Klicken **Object Manager**.
 
-PICC
-
-1. Gehen Sie zu Einrichtung?????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. Geben Sie &quot;Aufgabe&quot;in das Feld &quot;Schnellsuche&quot;ein.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Klicken Sie auf Aufgabe.
+1. Klicken Sie auf **Aufgabe** Beschriftung.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Klicken Sie auf Seitenlayouts.
+1. Klicken **Seitenlayouts**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. Klicken Sie auf das Aufgabenseitenlayout, dem Sie dieses Feld hinzufügen möchten.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Ziehen Sie das Feld in das Layout der Aufgabenseite.
+1. Ziehen Sie das Feld in den gewünschten Bereich des Aufgabenseitenlayouts.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Klicken Sie auf Speichern.
+1. Klicken **Speichern**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
