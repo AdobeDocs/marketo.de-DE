@@ -3,7 +3,7 @@ description: Konfigurieren der Anpassung der Salesforce-Aktivit채tsdetails - Mar
 title: Konfigurieren der Anpassung der Salesforce-Aktivit채tsdetails
 hide: true
 hidefromtoc: true
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 137acd3ace0da73bcdfebcf7f4f2723bb03c7c39
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 1%
@@ -85,7 +85,7 @@ Dynamische Felder der Aktivit채t Referenzinformationen zu Ihren Verkaufsaktivit�
  </tr>
 </table>
 
-## Konfigurieren der Anpassung der Salesforce-Aktivit채tsdetails {#configure-salesforce-activity-detail-customization}
+## Konfigurieren der Anpassung der Salesforce-Aktivit채tsdetails {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
