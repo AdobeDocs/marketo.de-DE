@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '8174'
+source-wordcount: '8189'
 ht-degree: 5%
 
 ---
@@ -1306,6 +1306,9 @@ ht-degree: 5%
                + [Versandkanal-Übersicht](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Salesforce-Konfiguration {#email-delivery}
+               + [Salesforce Classic-Anpassungspaket deinstallieren](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Salesforce Lightning Customization Package deinstallieren](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Abbestellungen {#unsubscribes}
                + [Abmelde-Übersicht](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Nachricht zum Abmelden von Links anpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1737,6 +1740,7 @@ ht-degree: 5%
          + [Versionshinweise: Jan. 21](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Versionshinweise: Mai 21](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Versionshinweise: August &#39;21](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [Versionshinweise: Oktober 21](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020 {#2020}
          + [Versionshinweise: Januar 20](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [Versionshinweise: Februar 2020](release-notes/previous-releases/2020/release-notes-feb-20.md)
