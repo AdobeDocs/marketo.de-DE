@@ -1,47 +1,47 @@
 ---
 unique-page-id: 18317340
-description: Marketo-Abmeldeprüfung - Marketing Docs - Produktdokumentation
-title: Marketo-Abmeldeprüfung
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Marketo-Abmeldeprüfung - Marketo-Dokumente - Produktdokumentation
+title: Überprüfung von „Marketo abbestellen“
+exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 3%
 
 ---
 
+# Überprüfung von „Marketo abbestellen“ {#marketo-unsubscribe-check}
 
-# Marketo-Abmeldeprüfung {#marketo-unsubscribe-check}
-
-Der Marketo Unsubscribe Check nutzt die Verbindung Ihres Teams mit Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich vom Marketing Management System abmelden. Wenn ein Vertriebsbenutzer eine E-Mail mit Sales Connect sendet, wird ein API-Aufruf an Marketing gesendet, um zu prüfen, ob die E-Mail-ID abgemeldet wird. Ist dies der Fall, wird die Versendung der E-Mail blockiert.
+Die Prüfung der Marketo-Abmeldung nutzt die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich vom Marketo Lead Management System abgemeldet haben. Wenn ein Vertriebsbenutzer eine E-Mail mit Sales Connect sendet, wird ein API-Aufruf an Marketo gesendet, um zu überprüfen, ob die E-Mail-ID abgemeldet wird. Ist dies der Fall, blockieren wir den Versand der E-Mail.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-## {#turning-it-on} einschalten
+## Aktivieren {#turning-it-on}
 
 1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/one-2.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Unsubscribes**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Abmeldungen**.
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf **Integrationen**.
+1. Klicken **Integrationen**.
 
    ![](assets/three-3.png)
 
-1. Klicken Sie im Abschnitt Markieren zum Abmelden auf den Schieberegler, um die Prüfung zu aktivieren.
+1. Klicken Sie im Bereich Prüfung der Marketo-Abmeldung auf den Regler, um die Prüfung zu aktivieren.
 
    ![](assets/four-2.png)
 
-## Was Sie wissen sollten {#things-to-know}
+## Was zu wissen ist {#things-to-know}
 
-Marketo Abmelden Check..
+Prüfung der Marketo-Abmeldung ...
 
-* Wird nicht mit Ihren API-Beschränkungen angerechnet
-* Erfordert die Einrichtung einer Marketing-Verbindung
+* Zählt nicht mit Ihren API-Beschränkungen
+* Erfordert die Einrichtung einer Marketo-Verbindung
 * Ist eine globale Einstellung
-* Blockiert E-Mails, die von der Webanwendung, E-Mail-Clients und Salesforce gesendet werden
+* Blockierungen von E-Mails, die von der Webanwendung, E-Mail-Clients und Salesforce gesendet werden
+* Protokolliert eine fehlgeschlagene E-Mail oder verhindert, dass ein Benutzer den Versand durchführt, wenn er versucht, alle Workflows zu senden (E-Mail-Plug-in-Versand, individueller Versand, Versand einer Verkaufskampagne, Mehrfachauswahl und Versand) außer [Gruppen-E-Mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), wodurch verhindert wird, dass E-Mails still gesendet werden
