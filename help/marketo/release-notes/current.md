@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '948'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Die folgenden Funktionen werden veröffentlicht auf **21. Januar 2022**.
 
 ## Erlebnis der nächsten Generation {#next-generation-experience}
 
-* **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die über Umschalter aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten:
+* **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
    * Asset-Details für Landingpages in Design Studio
    * Asset-Details der Landingpage in Marketingaktivitäten
