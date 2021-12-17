@@ -1,10 +1,10 @@
 ---
-solution: Marketo, Marketo Engage, Marketo Sky
-user-guide-title: '[!DNL Sky] Produktdokumentation'
+solution: Marketo Sky
+user-guide-title: Sky-Produktdokumentation
 feature-set: Marketo Sky
-source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
+source-git-commit: 76feca10cfd99acb79dfd883ee7dd4e37a3175a7
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '483'
 ht-degree: 4%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 4%
 + [Startseite](home.md)
 + Erste Schritte {#getting-started}
    + [Marketo Sky-Funktionen](marketo-sky-features.md)
-   + [How to Get Started](how-to-enable-roles-for-marketo-sky.md)
+   + [Erste Schritte](how-to-enable-roles-for-marketo-sky.md)
 + Veranstaltungsprogramme {#event-programs}
    + [Festlegen einer Ereignisbegrenzung](setting-an-event-cap.md)
-   + [Setting Event Goals](setting-event-goals.md)
+   + [Festlegen von Ereigniszielen](setting-event-goals.md)
 + Kampagnenordner {#campaign-folders}
    + [Archivieren/Archivieren eines Kampagnenordners](archive-unarchive-a-campaign-folder.md)
    + [Kampagnenordner: Registerkarte &quot;Aktivitäten&quot;](campaign-folder-activities-tab.md)
@@ -35,7 +35,7 @@ ht-degree: 4%
    + [Hinzufügen von Personen zu einem Interaktionsprogramm](add-people-to-an-engagement-program.md)
    + [Archivieren und Archivieren von Stream-Inhalten aufheben](archive-and-unarchive-stream-content.md)
    + [Klonen eines Streams](clone-a-stream.md)
-   + [Create an Engagement Program](create-an-engagement-program.md)
+   + [Erstellen eines Interaktionsprogramms](create-an-engagement-program.md)
    + [Löschen eines Streams](delete-a-stream.md)
    + [Abgelaufene Inhaltsbenachrichtigungen deaktivieren oder aktivieren](disable-or-enable-exhausted-content-notifications.md)
    + [Verfügbarkeit von Stream-Inhalten bearbeiten](edit-availability-of-stream-content.md)
@@ -71,7 +71,7 @@ ht-degree: 4%
 + Vorhersagekräftige Zielgruppen {#predictive-audiences}
    + [Erste Schritte mit vorausschauenden Zielgruppen](getting-started-with-predictive-audiences.md)
    + [Vorhersagefilter](predictive-filters.md)
-   + [Expected Behavior](expected-behavior.md)
+   + [Erwartetes Verhalten](expected-behavior.md)
    + [Modellkonsistenz und Datenvalidierung](model-health-and-data-validity.md)
    + [Verstehen des Zieltrackings und der geplanten Registrierungen](understanding-goal-tracking-and-projected-registrations.md)
 + Programme {#programs}
@@ -80,7 +80,7 @@ ht-degree: 4%
    + [Programm löschen](delete-a-program.md)
    + [Lokale Assets in einem Programm](local-assets-in-a-program.md)
    + [Lokale Assets: Ablauf](local-assets-expiration.md)
-   + [Local Assets: Mass Actions](local-assets-mass-actions.md)
+   + [Lokale Assets: Massenaktionen](local-assets-mass-actions.md)
    + [Verwenden der Registerkarte &quot;Programmübersicht&quot;](using-the-program-overview-tab.md)
    + [Über die Registerkarte &quot;Programmeinrichtung&quot;](using-the-program-setup-tab.md)
 + Ansicht des Programmplans {#program-schedule-view}
@@ -94,11 +94,11 @@ ht-degree: 4%
    + [Aktivieren/Deaktivieren einer Trigger-Smart-Kampagne](activate-deactivate-a-trigger-smart-campaign.md)
    + [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](add-a-flow-step-to-a-smart-campaign.md)
    + [Anwenden von Kommunikationsbeschränkungen auf eine intelligente Kampagne](apply-communication-limits-to-a-smart-campaign.md)
-   + [Cancel a Scheduled Batch Campaign Run](cancel-a-scheduled-batch-campaign-run.md)
+   + [Abbrechen eines geplanten Batch-Kampagnenausführens](cancel-a-scheduled-batch-campaign-run.md)
    + [Abbrechen eines geplanten wiederkehrenden Batch-Kampagnenausführens](cancel-a-scheduled-recurring-batch-campaign-run.md)
    + [Klonen einer Smart-Kampagne](clone-a-smart-campaign.md)
    + [Erstellen einer Smart-Kampagne](create-a-smart-campaign.md)
-   + [Define a Smart List for a Batch Campaign](define-a-smart-list-for-a-batch-campaign.md)
+   + [Definieren einer Smart-Liste für eine Batch-Kampagne](define-a-smart-list-for-a-batch-campaign.md)
    + [Definieren einer Smart-Liste für eine Trigger-Kampagne](define-a-smart-list-for-a-trigger-campaign.md)
    + [Löschen einer Smart-Kampagne](delete-a-smart-campaign.md)
    + [Bearbeiten von Qualifikationsregeln in einer Smart-Kampagne](edit-qualification-rules-in-a-smart-campaign.md)
@@ -109,11 +109,11 @@ ht-degree: 4%
    + [Umbenennen einer Smart-Kampagne](rename-a-smart-campaign.md)
    + [Durchführen einer Batch-Smart-Kampagne jetzt](run-a-batch-smart-campaign-now.md)
    + [Planen einer späteren Ausführung einer Smart-Batch-Kampagne](schedule-a-batch-smart-campaign-to-run-later.md)
-   + [Schedule a Recurring Batch Campaign](schedule-a-recurring-batch-campaign.md)
-   + [Understanding Batch and Trigger Smart Campaigns](understanding-batch-and-trigger-smart-campaigns.md)
+   + [Wiederkehrende Batch-Kampagne planen](schedule-a-recurring-batch-campaign.md)
+   + [Smart-Kampagnen für Batch und Trigger](understanding-batch-and-trigger-smart-campaigns.md)
 + Smart-Listen und statische Listen {#smart-lists-and-static-lists}
    + [Speichern von Fluss-Aktionen](save-flow-actions.md)
-   + [Save Smart List Rules](save-smart-list-rules.md)
+   + [Speichern von Smart-List-Regeln](save-smart-list-rules.md)
 + Baumstruktur {#tree}
    + [Konfigurieren des Baums](configuring-the-tree.md)
    + [Symbole im Baum](understanding-icons-in-the-tree.md)
