@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
 workflow-type: tm+mt
-source-wordcount: '8195'
+source-wordcount: '8200'
 ht-degree: 5%
 
 ---
@@ -1308,6 +1308,7 @@ ht-degree: 5%
                + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Salesforce-Konfiguration {#email-delivery}
+               + [Konfiguration von MSI-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [Salesforce Classic-Anpassungspaket deinstallieren](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Salesforce Lightning Customization Package deinstallieren](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Abbestellungen {#unsubscribes}
