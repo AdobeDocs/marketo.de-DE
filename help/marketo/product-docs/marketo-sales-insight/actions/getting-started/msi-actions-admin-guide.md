@@ -3,7 +3,7 @@ description: MSI Actions Admin Guide - Marketo Docs - Produktdokumentation
 title: Administratorhandbuch für MSI-Aktionen
 hide: true
 hidefromtoc: true
-source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
+source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 1%
@@ -125,7 +125,7 @@ PICC
 
 Personendatensätze, die in Marketo und Salesforce vorhanden sind, werden mit Ihrem Marketo Sales Apps-Konto synchronisiert.
 
-## Einladen einzelner Benutzer zu MSI-Aktionen {#invite-individual users-to-msi-actions}
+## Einladen einzelner Benutzer zu MSI-Aktionen {#invite-individual-users-to-msi-actions}
 
 1. Klicken Sie in Ihrem Marketo-Verkaufskonto auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
