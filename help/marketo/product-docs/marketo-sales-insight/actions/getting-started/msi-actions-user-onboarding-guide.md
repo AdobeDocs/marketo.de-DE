@@ -3,7 +3,8 @@ description: Benutzerhandbuch für MSI-Aktionen - Marketo-Dokumente - Produktdok
 title: Benutzerhandbuch zu MSI-Aktionen
 hide: true
 hidefromtoc: true
-source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
+exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
+source-git-commit: 83556a56bddc1bdbeb5a5e93ec3a2c0d92aed831
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
