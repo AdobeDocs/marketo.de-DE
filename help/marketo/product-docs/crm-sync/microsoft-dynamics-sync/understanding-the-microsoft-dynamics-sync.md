@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10098625
-description: Grundlagen zur Microsoft Dynamics-Synchronisierung - Marketo-Dokumente - Produktdokumentation
-title: Grundlagen zur Microsoft Dynamics-Synchronisierung
+description: Grundlegendes zur Microsoft Dynamics-Synchronisierung - Marketo-Dokumente - Produktdokumentation
+title: Grundlagen zur Synchronisierung von Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 8%
 
 ---
 
-# Grundlagen zur Microsoft Dynamics-Synchronisierung {#understanding-the-microsoft-dynamics-sync}
+# Grundlagen zur Synchronisierung von Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
 Marketo und Microsoft Dynamics gehen Hand in Hand. Wir halten Ihre Verkaufs- und Marketingdaten synchron.
 
@@ -40,9 +40,9 @@ Die Synchronisation zwischen Marketo und Dynamics erfolgt bidirektional für Lea
 * [Benutzer](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * Teams (Gruppen von System-Benutzern)
 * [Opportunities](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [Benutzerdefinierte Entitäten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [Benutzerdefinierte Entitäten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-Die [Anmeldeinformationen, die Sie in Marketo für Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) eingeben, werden zum Synchronisieren von Daten verwendet.
+Die [Anmeldedaten, die Sie in Marketo für Dynamics eingeben](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) werden zum Synchronisieren von Daten verwendet.
 
 >[!NOTE]
 >
