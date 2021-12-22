@@ -3,9 +3,10 @@ description: Neue Administratoren mit Marketo verbinden - Marketo-Dokumente - Pr
 title: Neue Admin mit Marketo verbinden
 hide: true
 hidefromtoc: true
-source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
+exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
+source-git-commit: 4055b121b416f3fa56abcfa21d370d148d3ab3c4
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '494'
 ht-degree: 0%
 
 ---
@@ -18,11 +19,11 @@ Wenn der zweite Administrator nicht mit Marketo als Administrator verbunden ist 
 
 1. Der primäre Administrator muss die Verbindung zwischen dem zweiten Administrator und Marketo über Einstellungen > Marketo > Benutzerzugriff trennen.
 
-1. Sekundäre Administratoren melden sich bei ihrem MSC-Konto an, navigieren zu Einstellungen > Marketo und klicken auf **Verbinden**.
+1. Der sekundäre Administrator meldet sich bei seinem MSC-Konto an, navigiert zu Einstellungen > Marketo und klickt auf **Verbinden**.
 
 1. Jetzt ist der sekundäre Benutzer mit Marketo als Administrator verbunden.
 
-1. Primäre Administratoren können sich jetzt anmelden und die Verbindung zu Marketo trennen.
+1. Der primäre Administrator kann sich jetzt anmelden und die Verbindung zu Marketo trennen.
 
 >[!NOTE]
 >
@@ -30,13 +31,13 @@ Wenn der zweite Administrator nicht mit Marketo als Administrator verbunden ist 
 
 ## Aktualisieren der Marketo-Verbindung {#update-your-marketo-connection}
 
-Wenn Sie sich entscheiden, den Administrator zu entfernen, der die Marketo-Integration eingerichtet hat, lesen Sie diesen Artikel , um zu erfahren, wie Sie dies vornehmen können.
+Wenn Sie den Admin, der die Marketo-Integration eingerichtet hat, entfernen möchten, lesen Sie diesen Artikel , um zu erfahren, wie Sie dies vornehmen können.
 
 Die Marketo-Integration ist an einen Admin-Benutzer von Sales Connect/Actions gebunden. In der Regel ist dies der Administrator, der zuerst auf der Marketo-Verbindungsseite auf die Schaltfläche &quot;Verbinden&quot;geklickt und die Verbindung hergestellt hat.
 
 Um den Administrator zu entfernen, der die Marketo-Verbindung hergestellt hat, muss zunächst eine neue Verbindung von einem anderen Administrator hergestellt werden. Wir haben die unten aufgeführten Aufgaben aufgelistet, die zu diesem Zweck durchgeführt werden müssen.
 
-Um die Anweisungen zu vereinfachen, beziehen wir uns auf den derzeit verbundenen Administrator als Administrator A und den Administrator, mit dem Sie eine neue Verbindung zu Marketo herstellen möchten, und zwar mit Administrator B:
+Um die Anweisungen zu vereinfachen, beziehen wir uns auf den derzeit verbundenen Admin als Admin A und den Admin, mit dem Sie eine neue Verbindung zu Marketo herstellen möchten, und zwar mit Admin B:
 
 1. Admin A (derzeit angeschlossener Administrator) muss den Zugriff auf die Integration mit Marketo aus Admin B (neuer Administrator) entfernen.
 
@@ -46,13 +47,13 @@ Um die Anweisungen zu vereinfachen, beziehen wir uns auf den derzeit verbundenen
 
 >[!NOTE]
 >
->Der ursprüngliche Administrator, der für die Marketo-Integration zuständig ist, sieht die Option &quot;Verbindung trennen&quot;, die angeklickt werden kann, wenn er zur Marketo-Integrationsseite navigiert. Andere Administratoren (die keine Verbindung hergestellt haben) werden dies nicht tun. Außerdem können Administratoren, denen Zugriff auf die Marketo-Integration gewährt wurde, nicht auf Verbinden klicken. Daher müssen Sie zuerst die Schritte ausführen, um den Zugriff auf die Integration zu entfernen.
+>Dem ursprünglichen für die Marketo-Integration verantwortlichen Administrator wird die Option &quot;Verbindung trennen&quot;angezeigt, die beim Navigieren zur Marketo-Integrationsseite angeklickt werden kann. Andere Administratoren (die keine Verbindung hergestellt haben) werden dies nicht tun. Außerdem können Administratoren, denen Zugriff auf die Marketo-Integration gewährt wurde, nicht auf Verbinden klicken. Daher müssen Sie zuerst die Schritte ausführen, um den Zugriff auf die Integration zu entfernen.
 
 **Entfernen des Marketo-Zugriffs aus Admin B**
 
 Administrator A (Administrator, der ursprünglich für die Verbindung verantwortlich war) sollte diese Schritte ausführen.
 
-1. Navigieren Sie zu Einstellungen.
+1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
 1. Klicken **Marketo**.
 
@@ -66,7 +67,7 @@ Administrator A (Administrator, der ursprünglich für die Verbindung verantwort
 
 Auf diese Schritte sollte Admin B (neuer Administrator) folgen.
 
-1. Navigieren Sie zu Einstellungen.
+1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
 1. Klicken **Marketo**.
 
@@ -74,9 +75,9 @@ Auf diese Schritte sollte Admin B (neuer Administrator) folgen.
 
 **Marketo-Integration für Admin A deaktivieren**
 
-Auf diese Schritte sollte Admin A (ursprünglich angemeldeter Administrator) folgen.
+Auf diese Schritte sollte Admin A (ursprünglich angemeldeter Admin) folgen.
 
-1. Navigieren Sie zu Einstellungen.
+1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
 1. Klicken **Marketo**.
 
