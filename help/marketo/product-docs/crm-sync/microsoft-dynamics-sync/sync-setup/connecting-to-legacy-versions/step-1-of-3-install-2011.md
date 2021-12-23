@@ -3,7 +3,7 @@ unique-page-id: 3571805
 description: 'Schritt 1 von 3: Installieren der Marketo-Lösung (On-Premises 2011) - Marketo Docs - Produktdokumentation'
 title: Schritt 1 von 3 - Installieren der Marketo-Lösung (On-Premises 2011)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -94,4 +94,4 @@ War nicht zu schlecht? Komm schon, ich werde dich durch den Rest führen.
 
 >[!MORELIKETHIS]
 >
->[Schritt 2 von 3: Marketo Sync User in Dynamics einrichten (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>[Schritt 2 von 3: Marketo Sync User in Dynamics einrichten (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up.md)
