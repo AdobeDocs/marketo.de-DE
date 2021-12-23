@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 'Schritt 2 von 3: Einrichten des Marketo Sync User in Dynamics (On-Premises 2011) - Marketo Docs - Produktdokumentation'
 title: 'Schritt 2 von 3: Einrichten des Marketo Sync User in Dynamics (On-Premises 2011)'
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+source-git-commit: e55f3ea02c64410bab92a9123289bac6e859022a
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -52,11 +52,10 @@ Weisen Sie die Benutzerrolle &quot;Marketo Sync User&quot;nur dem Marketo-Synchr
 
    >[!TIP]
    >
-   >Wenn die Rolle nicht angezeigt wird, gehen Sie zurück zu [Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) und importieren Sie die Lösung.
+   >Wenn die Rolle nicht angezeigt wird, gehen Sie zurück zu [Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) und importieren Sie die Lösung.
 
    >[!NOTE]
-   >
-   >Alle vom Synchronisierungsbenutzer in Ihrem CRM-System vorgenommenen Aktualisierungen werden **not** wieder mit Marketo synchronisiert werden.
+   Alle vom Synchronisierungsbenutzer in Ihrem CRM-System vorgenommenen Aktualisierungen werden **not** wieder mit Marketo synchronisiert werden.
 
 ## Konfigurieren der Marketo-Lösung {#configure-marketo-solution}
 
@@ -67,8 +66,7 @@ Fast fertig! Wir haben nur einige letzte Konfigurationsschritte, bevor wir zum n
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
-   >
-   >Wenn die Marketo-Konfiguration fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht, [Marketo-Lösung erneut veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) oder melden Sie sich ab und wieder an.
+   Wenn die Marketo-Konfiguration fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht, [Marketo-Lösung erneut veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) oder melden Sie sich ab und wieder an.
 
 1. Klicken **Standard**.
 
@@ -99,5 +97,4 @@ Fast fertig! Wir haben nur einige letzte Konfigurationsschritte, bevor wir zum n
 Großartig gemacht!
 
 >[!MORELIKETHIS]
->
->[Schritt 3 von 3: Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+[Schritt 3 von 3: Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
