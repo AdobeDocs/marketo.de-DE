@@ -3,7 +3,7 @@ unique-page-id: 3571848
 description: Microsoft Dynamics Sync - Lead Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Lead Sync
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Nein, die automatisierte Hintergrundsynchronisierung ist die einzige Möglichkei
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können [Auswahl der zu synchronisierenden Felder](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) während der Einrichtung.
+Sie können [Auswahl der zu synchronisierenden Felder](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) während der Einrichtung.
 
 ## Wird Marketo die Dynamics-Validierungsregeln einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
 
