@@ -1,10 +1,9 @@
 ---
 unique-page-id: 3571833
-description: Microsoft Dynamics Sync - Contact Sync - Marketo Docs - Produktdokumentation
-title: Microsoft Dynamics Sync - Contact Sync
+description: Synchronisation von Microsoft Dynamics - Kontaktsynchronisierung - Marketo-Dokumente - Produktdokumentation
+title: Synchronisation von Microsoft Dynamics - Kontaktsynchronisierung
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,32 +12,32 @@ ht-degree: 0%
 
 # Microsoft Dynamics Sync: Kontaktsynchronisierung {#microsoft-dynamics-sync-contact-sync}
 
-Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Dynamics synchronisiert? Es synchronisiert, wartet dann 5 Minuten und synchronisiert dann den ganzen Tag, jeden Tag. Hier sind einige Details darüber, wie Marketo Dynamics Contacts speziell behandelt.
+Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Dynamics synchronisiert? Es wird synchronisiert, dann 5 Minuten wartet und dann wieder synchronisiert, den ganzen Tag, jeden Tag. Im Folgenden finden Sie einige Details dazu, wie Marketo Dynamics-Kontakte spezifisch behandelt.
 
 ## Wie werden die Details zwischen den beiden Systemen synchronisiert? {#how-are-details-kept-in-sync-between-the-two-systems}
 
-Die Kontaktsynchronisierung erfolgt in beide Richtungen. Wenn Sie Änderungen an einem Kontakt in Dynamics oder einer Person in Marketo vornehmen, werden Ihre Updates in beiden Systemen übernommen.
+Die Synchronisation von Kontakten erfolgt bidirektional. Wenn Sie Änderungen an einem Kontakt in Dynamics oder einer Person in Marketo vornehmen, werden Ihre Aktualisierungen in beiden Systemen übernommen.
 
-## Was ist, wenn in beiden Systemen gleichzeitig Änderungen am gleichen Feld vorgenommen werden? (Datenkollision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
+## Was passiert, wenn in beiden Systemen gleichzeitig Änderungen an demselben Feld vorgenommen werden? (Datenkollision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Obwohl dies selten geschieht, wird Marketo für Menschen gewinnen und Dynamics gewinnt Kontakte. Das liegt daran, dass wir die Marketingabteilung für Menschen als maßgeblich betrachten, während das offizielle System der Kontaktaufnahme in der Verkaufsabteilung (CRM) besteht.
+Obwohl dies selten vorkommt, wird Marketo für Menschen gewinnen und Dynamics gewinnt Kontakte. Dies liegt daran, dass wir die Marketing-Abteilung für Menschen als maßgeblich betrachten, während das offizielle System der Kontaktaufnahme in der Vertriebs- (CRM-) Abteilung ist.
 
-## Kann ich mit Marketo eine Kontaktperson erstellen? {#can-i-create-a-contact-using-marketo}
+## Kann ich einen Kontakt mit Marketo erstellen? {#can-i-create-a-contact-using-marketo}
 
-Ja. [So](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md) geht&#39;s.
+Ja. [So](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
 
 >[!NOTE]
 >
->Bei Verwendung der &quot;Synchronisierungsperson mit Microsoft&quot;-Flussaktion (nur in einer Trigger-Kampagne) wird der Interessent/Kontakt in Echtzeit in Dynamics erstellt.
+>Bei Verwendung der FlusAktion &quot;Person mit Microsoft synchronisieren&quot;(nur in einer Trigger-Kampagne) wird der Lead/Kontakt in Echtzeit in Dynamics erstellt.
 
-## Kann ich eine Synchronisierung einer Person oder eines Kontakts manuell erzwingen? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
+## Kann ich die Synchronisierung einer Person oder eines Kontakts manuell erzwingen? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit, Updates zwischen Marketo und Dynamics zu synchronisieren. Die Variable [Person mit Microsoft ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) synchronisieren erzwingt keine Synchronisierung des Interessenten.
+Nein, die automatisierte Hintergrundsynchronisierung ist die einzige Möglichkeit, Updates zwischen Marketo und Dynamics zu synchronisieren. Die [Person mit Microsoft synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) erzwingt keine Synchronisierung des Leads.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können die zu synchronisierenden Felder [während des Setups auswählen. ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) Marketo synchronisiert jedoch nur die Felder, auf die Ihr Dynamics Sync-Benutzer Zugriff hat.
+Sie können [Auswahl der zu synchronisierenden Felder](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) während der Einrichtung. Marketo synchronisiert jedoch nur die Felder, auf die der Benutzer für die Synchronisierung mit Dynamics Zugriff hat.
 
-## Wird Marketo die Regeln zur Dynamikvalidierung einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
+## Wird Marketo die Dynamics-Validierungsregeln einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
 
-Ja, wenn ein Konflikt vorliegt, wird das Ergebnis im Protokoll der Interessenten-Aktivität protokolliert.
+Ja, wenn ein Konflikt vorliegt, wird das Ergebnis im Interessenten-Aktivitätsprotokoll protokolliert.
