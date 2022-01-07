@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 'Schritt 3: Verbinden der Marketo-Lösung mit der S2S-Verbindung - Marketo Docs - Produktdokumentation'
 title: 'Schritt 3 von 3: Verbinden der Marketo-Lösung mit der S2S-Verbindung'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '438'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
+
+>[!IMPORTANT]
+>
+>Wenn Sie von der einfachen Authentifizierung auf OAuth aktualisieren, müssen Sie sich an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support) für Hilfe bei der Aktualisierung der zusätzlichen Parameter. Durch Aktivierung dieser Funktion wird die Synchronisierung vorübergehend angehalten, bis neue Anmeldeinformationen eingegeben und die Synchronisierung wieder aktiviert wird. Die Funktion kann (bis April 2022) deaktiviert werden, wenn Sie zum alten Authentifizierungsmodus zurückkehren möchten.
 
 >[!NOTE]
 >
