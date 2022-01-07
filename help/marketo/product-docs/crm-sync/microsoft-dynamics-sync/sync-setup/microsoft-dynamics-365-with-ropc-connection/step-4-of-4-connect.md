@@ -2,10 +2,10 @@
 description: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit Resource Owner Password Control Connection - Marketo Docs - Produktdokumentation'
 title: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Resource Owner Password Control Connection'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '456'
+ht-degree: 1%
 
 ---
 
@@ -56,7 +56,7 @@ Dies ist der letzte Schritt der Synchronisierung. Sie haben es fast geschafft!
 
 1. Geben Sie die **Benutzername**, **Passwort**, **Client-ID**, **Client Secret** und Microsoft Dynamics **URL**. Klicken **Speichern** wann geschehen.
 
-   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+   ![](assets/step-4-of-4-connect-ropc-5.png)
 
    >[!NOTE]
    >
