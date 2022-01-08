@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '8250'
+source-wordcount: '8252'
 ht-degree: 5%
 
 ---
@@ -133,25 +133,25 @@ ht-degree: 5%
          + [Erfahren Sie, welche Berechtigungen Sie haben](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Mindestsystemanforderungen](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
-         + [Unterstützte Browser](product-docs/administration/setup-administration/supported-browsers.md)
-         + [Regel für globale Formularüberprüfung](product-docs/administration/setup-administration/global-form-validation-rule.md)
+         + [Supported Browsers](product-docs/administration/setup-administration/supported-browsers.md)
+         + [Global Form Validation Rule](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Zusätzliche Integrationen {#additional-integrations}
          + [Hinzufügen von Adobe Connect als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Hinzufügen von Google AdWords als Startpunktdienst mit einem Manager-Konto](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-         + [Hinzufügen von Google AdWords als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+         + [Add Google AdWords as a LaunchPoint Service](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [GoToWebinar als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-         + [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+         + [Next Generation Munchkin Tracking FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [ON24 als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
-         + [ReadyTalk als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
+         + [Add ReadyTalk as a LaunchPoint Service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Single Sign-On zu einem Portal hinzufügen](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Hinzufügen von WebEx als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Hinzufügen von Workplace by Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Hinzufügen von Zoom als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Konfigurieren der SOAP-API-Einstellungen](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [BrightTALK mit Marketo verbinden](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
-         + [Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
+         + [Create a Custom Service for Use with ReST API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Webhook erstellen](product-docs/administration/additional-integrations/create-a-webhook.md)
          + [Erstellen einer Zulassungsliste für IP-basierten API-Zugriff](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [GoogleAdwords-Aktivitätsprotokoll herunterladen](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
@@ -253,6 +253,7 @@ ht-degree: 5%
          + [Erstellen einer Benutzerrolle &quot;Nur API&quot;](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Erstellen eines reinen API-Benutzers](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
+         + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
          + [Aktivieren der erweiterten Listenimportberechtigung für eine Rolle](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Eine Liste von Anwendern und Rollen exportieren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Marketo-Benutzern](product-docs/administration/users-and-roles/managing-marketo-users.md)
@@ -558,17 +559,17 @@ ht-degree: 5%
             + [Microsoft Dynamics Sync: Lead-Synchronisation](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [Erstellen eines Kontakts in Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
             + [Microsoft Dynamics Sync: Opportunity Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-            + [Microsoft Dynamics Sync: Benutzersynchronisierung](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
+            + [Microsoft Dynamics Sync: User Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Synchronisierungsstatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
-            + [Übersicht über die Kampagnensynchronisierung](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+            + [Campaign Sync Overview](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Kampagnensynchronisierung aktivieren](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + Details zum benutzerdefinierten Synchronisierungsfilter für Dynamics {#custom-dynmaics-sync-filter-details}
-            + [Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
+         + Custom Dynamics Sync Filter Details {#custom-dynmaics-sync-filter-details}
+            + [Create a Custom Dynamics Sync Filter](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Microsoft Dynamics Sync-Filter: Zusammenführen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Microsoft Dynamics Sync Filter: Merge](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
             + [Microsoft Dynamics Sync-Filter: Qualifizieren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Festlegen eines benutzerdefinierten Standardfeldpräfixes](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
-         + [Registrieren Sie eine App bei Azure, um Ihre Client-ID/App-ID zu erhalten.](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
+         + [Register an App with Azure to Acquire Your Client ID/App ID](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Lead oder Kontakt löschen](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce-Synchronisierung {#salesforce-sync}
          + [Erläuterungen zur Salesforce-Synchronisierung](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
@@ -579,7 +580,7 @@ ht-degree: 5%
                + [Schritt 3 von 3: Verbinden von Marketo und Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
             + Professional Edition {#professional-edition}
                + [Schritt 1 von 3: Marketo-Felder zu Salesforce (Professional) hinzufügen](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-               + [Schritt 2 von 3: Salesforce-Benutzer für Marketo (Professional) erstellen](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+               + [Step 2 of 3: Create a Salesforce User for Marketo (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
                + [Schritt 3 von 3: Verbinden von Marketo und Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
             + Optionale Schritte {#optional-steps}
                + [Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
@@ -588,8 +589,8 @@ ht-degree: 5%
                + [Aktivieren/Deaktivieren der Kampagnensynchronisierung](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
                + [Einrichten eines Marketo Sync-Benutzers als Marketing-Benutzer](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
                + [Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
-               + [Aktivieren der nicht englischsprachigen benutzerdefinierten Objektsynchronisierung](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
-               + [Standardnamen der Person und des Unternehmens festlegen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+               + [Enable Non-English Custom Object Sync](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
+               + [Set Default Person Last Name and Company Name](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [E-Mail-Benachrichtigungen für Lead-Inhaber deaktivieren](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
          + Details zur SFDC-Synchronisierung {#sfdc-sync-details}
             + [Hinzufügen eines vorhandenen Salesforce-Felds zur Marketo-Synchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
@@ -798,15 +799,15 @@ ht-degree: 5%
                + [Vorlage 7E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md)
                + [Vorlage 7F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md)
                + [Vorlage 8A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md)
-               + [Vorlage 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
+               + [Template 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
                + [Vorlage 8C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md)
-               + [Vorlage 8D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md)
+               + [Template 8D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md)
                + [Vorlage 8E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md)
-               + [Vorlage 8F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8f.md)
+               + [Template 8F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8f.md)
                + [Vorlage 8G](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8g.md)
                + [Vorlage 9A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9a.md)
                + [Vorlage 9B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9b.md)
-               + [Vorlage 9C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9c.md)
+               + [Template 9C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9c.md)
                + [Vorlage 9D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9d.md)
                + [Vorlage 9E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9e.md)
                + [Vorlage 9F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9f.md)
@@ -1010,15 +1011,15 @@ ht-degree: 5%
             + [Definieren einer Zielgruppe mit einer Smart-Liste](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [Importieren einer Liste nicht lateinischer Zeichen](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
       + Allgemein {#general}
-         + Grundlagen zum E-Mail-Editor {#understanding-the-email-editor}
-            + [Informationen zur E-Mail-Ereignisprotokollierung](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
+         + Understanding the Email Editor {#understanding-the-email-editor}
+            + [Understanding Email Event Logging](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Verwenden des Rich-Text-Editors](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + E-Mail erstellen {#creating-an-email}
             + [E-Mail genehmigen](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
-            + [Erstellen einer E-Mail &quot;Nur Text&quot;](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
-            + [E-Mail erstellen](product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+            + [Create a Text Only Email](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+            + [Create an Email](product-docs/email-marketing/general/creating-an-email/create-an-email.md)
             + [Bearbeiten der Textversion einer E-Mail](product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
-            + [E-Mail-Header bearbeiten](product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+            + [Edit Your Email Header](product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
             + [Senden einer Beispiel-E-Mail](product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
             + [Rückgängig im E-Mail-Editor](product-docs/email-marketing/general/creating-an-email/undo-in-the-email-editor.md)
          + Email Editor 2 {#email-editor-2}
@@ -1047,7 +1048,7 @@ ht-degree: 5%
             + E-Mail-Tests - Champion-Challenger {#email-tests-champion-challenger}
                + [E-Mail-Champion/Challenger hinzufügen](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Champion/Challenger: E-Mail-Test genehmigen](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
-               + [Champion/Challenger: Berichtwarnungen konfigurieren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+               + [Champion/Challenger: Configure Report Alerts](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
                + [Champion/Challenger: Declare a Champion](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [Champion/Challenger: Champion-Kriterien definieren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [Champion/Challenger: Einen E-Mail-Test verwerfen](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
@@ -1219,23 +1220,23 @@ ht-degree: 5%
       + Marketo {#marketo}
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzer](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-         + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
+         + [Interesting Moments in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Sichtbarkeit einer Kampagne für Benutzer von Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
-         + [Glossar zur Verkaufsaktivität](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
-         + [Trigger und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
+         + [Sales Activity Glossary](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [Sales Activity Triggers and Filters](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personal {#people}
          + [Personendetailansicht](product-docs/marketo-sales-connect/people/person-detail-view.md)
-         + [Sales Connect und Einhaltung der DSGVO](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + Verwalten von Kontakten {#managing-contacts}
+         + [Sales Connect and GDPR Compliance](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
+         + Managing Contacts {#managing-contacts}
             + [Massenaktionen für Personen](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [Erstellen und Löschen von Kontakten](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Gruppentypen](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Vorgehensweise von Sales Connect beim Deduplizieren von E-Mails](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [Importieren von Kontakten über CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
-            + [Gruppen verwalten](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
-            + [Benutzerseitenspalten](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
+            + [Import Contacts via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
+            + [Manage Groups](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
+            + [People Page Columns](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Telefon {#phone}
-         + [Aufrufe werden nicht bei Salesforce protokolliert](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [Calls Aren&#39;t Logging to Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Ergebnisse der Aufrufe](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Gründe für Aufrufe](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [Anmeldung zum Aktivitätsverlauf nicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
@@ -1659,13 +1660,13 @@ ht-degree: 5%
                + [Grundlegendes zur Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Attributionsbeispiel 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Attributionsbeispiel 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
-               + [Attributionsbeispiel 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+               + [Attribution Example 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
                + [Attributionsbeispiel 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
             + Organisatoren von Feldern {#field-organizers}
                + [Verwenden von Feld-Organizern](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Webpersonalisierung {#web-personalization}
-      + Kontobasiertes Webmarketing {#account-based-web-marketing}
+      + Account-Based Web Marketing {#account-based-web-marketing}
          + [Kontobasiertes Webmarketing mit TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Neue Kontoliste erstellen](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Erstellen eines Segments mithilfe einer Kontoliste](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
@@ -1678,9 +1679,9 @@ ht-degree: 5%
          + [Arbeitsbereiche in der Web-Personalisierung](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
       + RTP-Tag-Implementierung {#rtp-tag-implementation}
          + [RTP-JavaScript bereitstellen](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
-         + [Aktivieren oder Deaktivieren des RTP-JavaScript-Tags](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
+         + [Enabling or Disabling the RTP JavaScript Tag](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
          + [Implementieren von RTP auf Marketo-Einstiegsseiten](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
-         + [Implementieren von RTP in Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
+         + [Implementing RTP on Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [Implementieren von RTP in Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [Implementieren von RTP mit Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [Implementieren von RTP mit dem Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)

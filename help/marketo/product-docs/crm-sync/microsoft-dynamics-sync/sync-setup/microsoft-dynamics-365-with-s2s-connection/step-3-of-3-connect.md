@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: 'Schritt 3: Verbinden der Marketo-Lösung mit der S2S-Verbindung - Marketo Docs - Produktdokumentation'
-title: 'Schritt 3 von 3: Verbinden der Marketo-Lösung mit der S2S-Verbindung'
+description: 'Schritt 3: Verbinden der Marketo-Lösung mit der Server-Verbindung - Marketo Docs - Produktdokumentation'
+title: 'Schritt 3: Verbinden der Marketo-Lösung mit der Server-zu-Server-Verbindung'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 1%
 
 ---
 
-# Schritt 3 von 3: Verbinden der Marketo-Lösung mit der S2S-Verbindung {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# Schritt 3 von 3: Verbinden der Marketo-Lösung mit der Server-zu-Server-Verbindung {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: Installieren der Marketo-Lösung mit S2S-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [Schritt 2 von 3: Einrichten der Marketo-Lösung mit S2S-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [Schritt 1 von 3: Installieren der Marketo-Lösung mit Server-zu-Server-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]

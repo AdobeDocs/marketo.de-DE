@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1028'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,6 @@ Die folgenden Funktionen werden veröffentlicht auf **21. Januar 2022**.
 
    * Asset-Details für Landingpages in Design Studio
    * Asset-Details der Landingpage in Marketingaktivitäten
-   * E-Mail-Listenansicht in Design Studio (einschließlich neuer Massenaktionen)
 
 * **Admin Control für den Erlebnis-Umschalter der nächsten Generation**: Administratoren können auswählen, welche Benutzertypen auf den Umschalter zugreifen können, um Bildschirme der nächsten Generation anzuzeigen.
 
