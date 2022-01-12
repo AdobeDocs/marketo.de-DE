@@ -3,9 +3,10 @@ description: Globale Formularvalidierungsregeln - Marketo-Dokumente - Produktdok
 title: Globale Formularvalidierungsregeln
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -20,46 +21,46 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
 1. Klicken Sie in Marketo auf **Admin**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. Klicken **Benutzer und Rollen**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. Klicken Sie auf **Rollen** Registerkarte.
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. Doppelklicken Sie auf die Rolle, der Sie Berechtigungen gewähren möchten.
 
-PICC
+   PICC
 
 1. Klicken Sie auf **+** neben Zugriff auf Admin.
 
-PICC
+   PICC
 
 1. Scrollen Sie nach unten und wählen Sie **Auf Formularvalidierungsregeln zugreifen** und klicken Sie auf **Speichern**.
 
-PICC
+   PICC
 
 ## Neue Formularvalidierungsregel erstellen {#create-new-form-validation-rule}
 
 1. Klicken Sie in Marketo auf **Admin**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. Klicken **Regel für globale Formularüberprüfung**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. Klicken **Neue Formularvalidierungsregel**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >In der Dropdown-Liste Aktionen für Formularvalidierungsregeln können Sie vorhandene Regeln löschen oder bearbeiten.
 
 1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die Ihre Formular-Besucher sehen sollen. Geben Sie die Domäne(n) ein, die blockiert werden sollen, und wählen Sie **Regel aktivieren** und klicken Sie auf **Erstellen**.
 
-PICC
-
->[!NOTE]
->
->In der Dropdown-Liste Aktionen für Formularvalidierungsregeln können Sie vorhandene Regeln löschen oder bearbeiten.
+   ![](assets/global-form-validation-rules-10.png)

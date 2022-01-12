@@ -4,14 +4,20 @@ title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '589'
 ht-degree: 1%
 
 ---
 
 # Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails {#configure-salesforce-activity-detail-customization}
+
+>[!PREREQUISITES]
+>
+>* Salesforce und Marketo Sales Connect [muss verbunden sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
 
 Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Feld &quot;Salesforce-Aufgabe - Betreff&quot;protokolliert werden, wenn eine Aktivität/Erinnerungsaufgabe vom Typ &quot;Sales Connect&quot;mit Salesforce synchronisiert wird.
 
