@@ -3,18 +3,18 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 214a968579052d93952bdbdd6e00bfe057ca7dac
+source-git-commit: f8784ea51e24dda22a42991e2806c98f1f11386a
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 2%
 
 ---
 
 # Versionsplanung {#release-schedule}
 
-**Version**: Marketo verwendet einen vierteljährlichen Hauptversionsplan. Sobald die Versionshinweise verfügbar sind, werden sie in der unten stehenden Tabelle verknüpft.
+**Version**: Monat/Jahr jeder Veröffentlichung. Sobald die Versionshinweise verfügbar sind, werden sie in der folgenden Tabelle verlinkt.
 
-**Releasedatum**: Der Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei der Großteil der Aktualisierung Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
+**Veröffentlichungsdatum**: Der Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei der Großteil der Aktualisierung Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
 
 **Status**:
 
@@ -29,37 +29,42 @@ _Die Veröffentlichungsdaten können sich ändern_
   <col> 
   <col> 
   <col> 
- </colgroup> 
+ </colgroup>
  <tbody> 
   <tr> 
-   <th width="250px">Version</th> 
-   <th width="250px">Veröffentlichungsdatum</th> 
-   <th width="250px">Status</th> 
-  </tr> 
+   <th width="250px">Version</th>
+   <th width="250px">Veröffentlichungsdatum</th>
+   <th width="250px">Status</th>
+  </tr>
   <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/current.md">Oktober 21</a></td> 
-   <td colspan="1">22. Oktober 2021</td> 
-   <td colspan="1">in progress</td> 
-  </tr> 
+   <td><a href="/help/marketo/release-notes/current.md">Januar 22</a></td>
+   <td>21. Januar 2022</td>
+   <td>in progress</td>
+  </tr>
   <tr> 
-   <td colspan="1">Januar 22</td> 
-   <td colspan="1">21. Januar 2022</td> 
-   <td colspan="1">Zeitplan</td> 
-  </tr> 
+   <td>März 22</td>
+   <td>11. März 2022</td>
+   <td>Zeitplan</td>
+  </tr>
   <tr> 
-   <td colspan="1">Mai 22</td> 
-   <td colspan="1">6. Mai 2022</td> 
-   <td colspan="1">Zeitplan</td> 
-  </tr> 
+   <td>Mai 22</td>
+   <td>6. Mai 2022</td>
+   <td>Zeitplan</td>
+  </tr>
   <tr> 
-   <td colspan="1">August '22</td> 
-   <td colspan="1">19. August 2022</td> 
-   <td colspan="1">Zeitplan</td> 
-  </tr> 
+   <td>Juni 22</td>
+   <td>24. Juni 2022</td>
+   <td>Zeitplan</td>
+  </tr>
   <tr> 
-   <td colspan="1">Oktober 22</td> 
-   <td colspan="1">14. Oktober 2022</td> 
-   <td colspan="1">Zeitplan</td> 
-  </tr> 
- </tbody> 
+   <td>August '22</td>
+   <td>19. August 2022</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr>
+   <td>Oktober 22</td>
+   <td>14. Oktober 2022</td>
+   <td>Zeitplan</td>
+  </tr>
+ </tbody>
 </table>
