@@ -4,21 +4,34 @@ title: E-Mail-Überprüfung
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # E-Mail-Überprüfung {#email-verification}
 
-Ich glaube, Sie haben gesagt, wir werden nur eine neue Seite erstellen, die die E-Mail-Verifizierung für Benutzer umfasst
+Bei Abonnements von Adobe Marketo Engage müssen alle Benutzer, die keine API verwenden, ihre E-Mail-Adresse überprüfen. Benutzer mit Single Sign-on (SSO) werden automatisch ihre E-Mail verifiziert, wenn ihr Abonnement mit E-Mail-Verifizierung aktiviert ist.
 
-Einladung eines Benutzers Wenn ein Administrator einen Benutzer einlädt, keine Änderung der Benutzeroberfläche oder des Benutzererlebnisses Wenn der Benutzer auf den Link zum Einladen klickt, wird seine E-Mail automatisch verifiziert, dass Benutzer mit SSO automatisch verifiziert werden
+**Einladung für Benutzer**
 
-Der Bildschirm &quot;Benutzerkonto&quot;zeigt die E-Mail-Adresse als verifiziert an. Wenn die E-Mail-Adresse aktualisiert wird, spiegelt die Benutzeroberfläche wider, dass die E-Mail-Adresse für das Konto nicht verifiziert ist und E-Mails gesendet werden (siehe angehängte E-Mail).
+Wenn ein Administrator einen Benutzer einlädt, wird dieser automatisch überprüft, sobald er auf den Link zum Einladen klickt. Benutzer mit SSO werden automatisch überprüft.
 
-Admin - Seite &quot;Benutzer und Rollen&quot;Neue Spalte mit dem Überprüfungsstatus eines Benutzers Neue Schaltfläche zum erneuten Trigger der E-Mail-Verifizierung für den Benutzer
+**E-Mail-Adresse ändern**
 
-MyMarketo Wenn sich ein Benutzer mit nicht verifizierter E-Mail anmeldet, sollte er ein Banner auf der Seite &quot;My Marketo&quot;sehen (NUR).
+Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprüft. Sie erhalten eine E-Mail, in der sie eine erneute Überprüfung durchführen können. Administratoren können diese E-Mail manuell erneut senden, indem sie auf **Überprüfung erneut durchführen**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**Benutzer und Rollen**
+
+In Admin > Benutzer und Rollen zeigt die Spalte E-Mail-Status den Verifizierungsstatus jedes Benutzers an.
+
+![](assets/email-verification-3.png)
+
+Um einen nicht geprüften Benutzer zu überprüfen, wählen Sie einfach seinen Datensatz aus und klicken Sie auf die **Email überprüfen** Schaltfläche.
+
