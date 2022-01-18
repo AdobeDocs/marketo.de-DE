@@ -4,9 +4,9 @@ title: Globale Formularvalidierungsregeln
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -33,15 +33,15 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
 1. Doppelklicken Sie auf die Rolle, der Sie Berechtigungen gewähren möchten.
 
-   PICC
+   ![](assets/global-form-validation-rules-4.png)
 
 1. Klicken Sie auf **+** neben Zugriff auf Admin.
 
-   PICC
+   ![](assets/global-form-validation-rules-5.png)
 
 1. Scrollen Sie nach unten und wählen Sie **Auf Formularvalidierungsregeln zugreifen** und klicken Sie auf **Speichern**.
 
-   PICC
+   ![](assets/global-form-validation-rules-6.png)
 
 ## Neue Formularvalidierungsregel erstellen {#create-new-form-validation-rule}
 

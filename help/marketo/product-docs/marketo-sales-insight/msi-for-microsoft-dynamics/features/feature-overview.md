@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Funktionsübersicht
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 30%
 
 ---
@@ -64,7 +64,15 @@ Die folgenden Funktionen sind in der neuen MSI MSD-Lösung verfügbar.
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Marketo Best-Beta-Seite  {#marketo-best-bets-page}
+## Bedienfeld &quot;Marketo Sales Insight&quot;im Kontolayout {#marketo-sales-insight-panel-in-account-layout}
+
+* Sterne und Flammen
+* Interessanter Moment
+* Webaktivität
+* Bewertung
+* E-Mail (öffnen und klicken)
+
+## Marketo Best-Beta-Seite {#marketo-best-bets-page}
 
 * Priorität (Sterne und Flammen)
 * Name (Hyperlink zur Lead-/Kontaktseite)
