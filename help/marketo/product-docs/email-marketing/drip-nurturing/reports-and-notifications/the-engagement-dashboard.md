@@ -1,65 +1,64 @@
 ---
 unique-page-id: 2359685
-description: Das Dashboard Interaktion - Marketing Docs - Produktdokumentation
-title: Das Dashboard Interaktion
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Das Interaktions-Dashboard - Marketo-Dokumente - Produktdokumentation
+title: Das Interaktions-Dashboard
+exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
+# Das Interaktions-Dashboard {#the-engagement-dashboard}
 
-# Das Dashboard Interaktion {#the-engagement-dashboard}
-
-Das Dashboard Interaktion ist die einfachste Methode, um zu sehen, wie die Inhalte in Ihrem Interaktions-Programm funktionieren.
+Das Interaktions-Dashboard bietet die einfachste Möglichkeit, die Leistung des Inhalts in Ihrem Interaktionsprogramm zu ermitteln.
 
 >[!NOTE]
 >
->Der Einsatzwert wird 72 Stunden nach jedem Spiel berechnet. Erfahren Sie mehr über das [Einsatzergebnis](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Der Interaktionswert enthält Daten aus Ihren letzten drei Beiträgen. Eine neue wird 72 Stunden nach jedem Spiel berechnet. Weitere Informationen zum [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-## Ansicht des Interaktions-Dashboards {#view-the-engagement-dashboard}
+## Anzeigen des Interaktions-Dashboards {#view-the-engagement-dashboard}
 
-Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf **Ansicht** > **Dashboard**.
+Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Ansicht** > **Dashboard**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Detailliertere Statistiken finden Sie im Bericht [Leistung des Interaktionsstreams](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md).
+>Sehen Sie sich die [Leistungsbericht zu Interaktionsstream](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) für detailliertere Statistiken.
 
-## Verstehen Sie das Erschöpfungs-Widget {#understand-the-exhaustion-widget}
+## Erschöpfungs-Widget {#understand-the-exhaustion-widget}
 
-Mit diesem Widget können Sie vorhersehen, wann Interessenten den gesamten Inhalt erschöpft haben. Der Erschöpfungswert wird unmittelbar nach jedem Spiel berechnet. Das unten stehende Beispiel zeigt, dass bei 1 Guss 195 Interessenten alle Inhalte ausgeschöpft haben.
+Mit diesem Widget können Sie vorhersehen, wann Leads alle Inhalte erschöpft haben. Der Erschöpfungswert wird unmittelbar nach jedem Guss berechnet. Das folgende Beispiel zeigt, dass 195 Leads im 1. Takt alle Inhalte ausgeschöpft haben.
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->Sie müssen auf die Registerkarte &quot;Einstellungen&quot;gehen und sicherstellen, dass &quot;Benachrichtigungen über abgelaufene Inhalte&quot;**Ein** sind, um das Diagramm oben anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
+>Gehen Sie zur Registerkarte Einrichtung und stellen Sie sicher, dass abgelaufene Inhaltsbenachrichtigungen **on** um das Diagramm oben anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
 
 >[!CAUTION]
 >
->Personen, die &quot;erschöpft&quot;sind, erhalten im nächsten Spiel keine Mitteilung.
+>Personen, die &quot;erschöpft&quot; sind, werden keine Kommunikation in der nächsten Besetzung erhalten.
 
-## Verstehen Sie das Widget &quot;Interaktion über Zeit&quot;.{#understand-the-engagement-over-time-widget}
+## Widget &quot;Interaktion im Zeitverlauf&quot; {#understand-the-engagement-over-time-widget}
 
-Zeigt den durchschnittlichen Interaktionswert im Zeitverlauf und die Auswirkungen von Inhaltsbearbeitungen.
+Zeigt den durchschnittlichen Interaktionswert im Zeitverlauf und die Auswirkungen von Inhaltsbearbeitungen an.
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-On für Kunden verfügbar, die den Umsatz-Cycle-Explorer von Marketo verwenden. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
+>Diese Funktion ist als Add-on für Kunden verfügbar, die Marketo Umsatz-Cycle Explorer verwenden. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
-Um anstelle eines Durchschnitts nur ein Inhaltselement anzuzeigen, klicken Sie auf das Zahnradsymbol und wählen Sie dann das Inhaltselement aus.
+Um anstelle eines Durchschnitts nur ein einzelnes Inhaltselement anzuzeigen, klicken Sie auf das Zahnradsymbol und wählen Sie dann das Inhaltselement aus.
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## Das Widget für höchste Interaktion {#understand-the-highest-engagement-widget}
+## Das Widget zur höchsten Interaktion {#understand-the-highest-engagement-widget}
 
-Eine Liste des gesamten Inhalts, geordnet nach dem höchsten Interaktionswert.
+Eine Liste aller Inhalte, sortiert nach dem höchsten Interaktionswert.
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
@@ -67,8 +66,8 @@ Um die Sortierung zu ändern, klicken Sie auf das Zahnradsymbol und wählen Sie 
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-__ Newestand  __ Oldestare basiert auf dem Zeitpunkt der letzten Genehmigung.
+_Neueste_ und _Oldest_ basieren auf dem Zeitpunkt der letzten Genehmigung.
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie unter [Ein Programm für Interaktion erstellen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Tiefgang.
+>Weitere Informationen finden Sie unter [Erstellen eines Interaktionsprogramms](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) tief tauchen.

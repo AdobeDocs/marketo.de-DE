@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359890
-description: Einblick in die Einsatzbewertung - Marketing-Dokumente - Produktdokumentation
-title: Einsatzergebnis
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Grundlegendes zur Interaktionsbewertung - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zur Interaktionsbewertung
+exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
+# Grundlegendes zur Interaktionsbewertung {#understanding-the-engagement-score}
 
-# Die Interaktionsbewertung {#understanding-the-engagement-score}
-
-Mit dem Interaktionswert können Sie leicht erkennen, wie effektiv der Inhalt in Ihrem Interaktions-Programm ist. Der Wert liegt zwischen 0 und 100. Sehen Sie sich [das Dashboard Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) an, um zu sehen, wie Sie die Leistung Ihres Inhalts verfolgen können.
+Der Interaktionswert erleichtert die Überprüfung der Effektivität des Inhalts in Ihrem Interaktionsprogramm. Die Punktzahl liegt im Bereich von 0 bis 100. Checkout [das Interaktions-Dashboard](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) um zu sehen, wie Sie die Leistung Ihres Inhalts verfolgen können.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
 ![](assets/highestengagementwidget.jpg)
 
-Das Ergebnis basiert auf einem proprietären Algorithmus, der das eingesetzte Verhalten (Öffnen, Klicken, Erfolg des Programms) und das nicht verwendete Verhalten (Abmelden) berücksichtigt. Es wird mit Drip- und Pflegestil-E-Mails verglichen, um durchschnittlich 50 zu geben. Um den Menschen die Möglichkeit zu geben, mit Ihrem Inhalt zu interagieren, wird der Einsatzwert 72 Stunden nach jedem Spiel berechnet.
+Das Ergebnis basiert auf einem proprietären Algorithmus, der das interaktive Verhalten (Öffnen, Klicken, Programm-Erfolg) und das nicht interaktive Verhalten (Abmelden) berücksichtigt. Es wird mit Tropfen- und Pflegestil-E-Mails verglichen, um durchschnittlich 50 zu erreichen. Um Personen die Möglichkeit zu geben, mit Ihrem Inhalt zu interagieren, wird der Interaktionswert 72 Stunden nach jedem Spiel berechnet. Die Punktzahl umfasst nur Daten aus **Ihre letzten drei** Kasten.
 
 >[!NOTE]
 >
->Wenn Programm als Inhalt in Streams verwendet werden, basiert das Interaktionsergebnis auf der Mitgliedschaft im Programm und dem Erfolgsstatus, der **nicht** E-Mail-Interaktion (Klicks, Öffnen, Abmelden).
+>Wenn Programme als Inhalt in Streams verwendet werden, basiert das Interaktionsergebnis auf der Programmmitgliedschaft und dem Erfolgsstatus. **not** E-Mail-Interaktion (Klicks, Öffnungen, Abmeldungen).
 
-Interaktionswerte sind universell für alle Kunden. Sie können sie vergleichen, um zu sehen, wer die interessantesten Inhalte hat.
+Interaktionsbewertungen sind für alle Kunden universell. Sie können sie vergleichen, um zu sehen, wer die ansprechendsten Inhalte hat.
 
 >[!NOTE]
 >
@@ -33,4 +32,4 @@ Interaktionswerte sind universell für alle Kunden. Sie können sie vergleichen,
 
 >[!MORELIKETHIS]
 >
->[Einblick in die Programme der Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
+>[Grundlegendes zu Interaktionsmaßnahmen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
