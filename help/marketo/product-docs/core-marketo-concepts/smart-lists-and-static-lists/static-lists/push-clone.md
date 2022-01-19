@@ -3,9 +3,9 @@ description: Push Clone - Marketo Docs - Produktdokumentation
 title: Push Clone
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >Wenn Sie Neues Konto auswählen, können Sie Ihre Munchkin-ID finden, indem Sie **Admin** > **Munchkin** (ist auch Teil Ihrer Marketo-URL, nachdem Sie angemeldet sind). Client-ID/Geheimnis , die Sie benötigen, um die Voraussetzungen oben in diesem Artikel zu erfüllen.
+
 1. Wählen Sie das Zielkonto aus und klicken Sie auf **Auswählen**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 1. Wählen Sie das Segment aus, das Sie an Marketo senden möchten, und klicken Sie auf **Nächste**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >Wenn Sie hier mehrere Segmente auswählen, müssen Sie jedes Segment einer angegebenen statischen Liste auf der Registerkarte Segmentplan zuordnen.
 
 1. Klicken **Neue Zuordnung hinzufügen**.
 
@@ -102,6 +110,10 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >Zuordnen von E-Mail und/oder ECID aus der **Identitäts-Namespace** -Registerkarte ist die wichtigste Maßnahme, um sicherzustellen, dass die Person in Marketo übereinstimmt. Die Zuordnung von E-Mail stellt die höchste Übereinstimmungsrate sicher.
+
 1. Jetzt ist es an der Zeit, die Quellfelder auszuwählen. Klicken Sie für E-Mails auf das Cursorsymbol.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 1. Sie benötigen jetzt die Kennung Ihrer Liste. Klicken Sie auf die Registerkarte in Ihrem Browser, in der die statische Marketo-Liste geöffnet ist (oder öffnen Sie eine neue Registerkarte und wählen Sie die gewünschte statische Liste aus).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >Die besten Ergebnisse erzielen Sie, wenn Sie eine leere Marketo Engage-Liste verwenden.
 
 1. Markieren und kopieren Sie die Listen-ID am Ende der URL.
 
