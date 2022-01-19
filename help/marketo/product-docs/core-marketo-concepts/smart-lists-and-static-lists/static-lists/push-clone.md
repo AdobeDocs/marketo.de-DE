@@ -3,9 +3,9 @@ description: Push Clone - Marketo Docs - Produktdokumentation
 title: Push Clone
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 >
 >* [Erstellen eines API-Benutzers](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Gehen Sie dann zu **Admin** > **Startpunkt**. Suchen Sie den Namen der soeben erstellten Rolle und klicken Sie auf **Details anzeigen**. Kopieren und speichern Sie die Informationen in **Client-ID** und **Client Secret**, da Sie es für diese Funktion benötigen werden.
+>* Erstellen Sie in Marketo eine statische Liste oder suchen und wählen Sie eine bereits erstellte Liste aus. Sie werden ihre Kennung benötigen.
 
 
 1. Anmelden bei [Adobe Experience Platform](https://experience.adobe.com/).
@@ -53,15 +54,13 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-Als Nächstes müssen Sie auswählen, ob Sie nur bestehende Marketo-Personen zuordnen oder vorhandene Marketo-Personen zuordnen und die vermissten Personen in Marketo erstellen möchten. Im Folgenden finden Sie Abschnitte, in denen die einzelnen Schritte beschrieben werden.
-
-## Vorhandene Marketo-Personen abgleichen und fehlende Personen in Marketo erstellen {#match-existing-marketo-people-create-missing-people}
-
-Nach den Schritten 1-8 von oben ...
-
-1. Ziel eingeben **Name** und eine optionale Beschreibung. Klicken Sie auf das Dropdown-Menü Personenerstellung und wählen Sie **Vorhandene Marketo-Personen abgleichen und fehlende Personen in Marketo erstellen**.
+1. Ziel eingeben **Name** und eine optionale Beschreibung. Klicken Sie auf das Dropdown-Menü &quot;Personenerstellung&quot;und wählen Sie &quot;Vorhandene Marketo-Personen abgleichen und Fehlende Personen in Marketo erstellen&quot;. _oder_ &quot;Nur vorhandene Marketo-Personen abgleichen&quot;. In diesem Beispiel wählen wir das erste.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >Wenn Sie &quot;Nur vorhandene Marketo-Personen abgleichen&quot;auswählen, müssen Sie nur die E-Mail und/oder die ECID zuordnen, damit Sie die Schritte 13-16 überspringen können.
 
 1. Dieser Abschnitt ist optional. Klicken **Erstellen** überspringen.
 
@@ -87,7 +86,7 @@ Nach den Schritten 1-8 von oben ...
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. Ordnen Sie Nachname und Firmenname zu, indem Sie auf **Neue Zuordnung hinzufügen** Wiederholen Sie erneut Schritt 7 zweimal und wählen Sie lastName und dann companyName aus.
+1. Ordnen Sie Nachname und Firmenname zu, indem Sie auf **Neue Zuordnung hinzufügen** Wiederholen und Wiederholen von Schritt 15 zweimal, wählen Sie **lastName** und dann **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ Nach den Schritten 1-8 von oben ...
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREEEE
+1. Um das Quellfeld Unternehmensname auszuwählen, klicken Sie auf das Cursorsymbol in der Zeile.
 
-## Nur vorhandene Marketo People abgleichen {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->Identitäten werden verwendet, um in Marketo nach Übereinstimmungen zu suchen. Wenn eine Übereinstimmung gefunden wird, wird die Person der statischen Liste hinzugefügt. Wenn keine Übereinstimmung gefunden wird, werden diese Personen abgelegt (d. h. nicht in Marketo erstellt).
+1. Lassen Sie die Optionsschaltfläche Attribut auswählen aktiviert. Suchen Sie nach &quot;company&quot;und wählen Sie **companyName** Klicken Sie auf **Auswählen**.
 
-1. _In Marketo_, erstellen Sie eine statische Liste oder suchen und wählen Sie eine bereits erstellte Liste aus. Kopieren Sie die Zuordnungs-ID vom Ende der URL.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. Ordnen Sie die Quellfelder für Nachname und Vorname zu, indem Sie auf das Cursorsymbol für jeden Cursor klicken und Schritt 23 zweimal wiederholen, indem Sie auswählen **lastName** und dann **firstName**.
 
->[!NOTE]
->
->Die besten Ergebnisse erzielen Sie, wenn die Liste, auf die Sie in Marketo verweisen, leer ist.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Geben Sie in Adobe Experience Platform die soeben kopierte ID ein. Wählen Sie Ihr Startdatum aus. Die Personen werden bis zum ausgewählten Enddatum kontinuierlich synchronisiert. Lassen Sie das Enddatum für eine unbegrenzte Synchronisierung leer. Klicken **Nächste** wann geschehen.
+1. Klicken **Nächste**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Bestätigen Sie Ihre Änderungen und klicken Sie auf **Beenden**.
+1. Sie benötigen jetzt die Kennung Ihrer Liste. Klicken Sie auf die Registerkarte in Ihrem Browser, in der die statische Marketo-Liste geöffnet ist (oder öffnen Sie eine neue Registerkarte und wählen Sie die gewünschte statische Liste aus).
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. Markieren und kopieren Sie die Listen-ID am Ende der URL.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. Fügen Sie die soeben kopierte ID unter &quot;Mapping ID&quot;ein und klicken Sie auf **Nächste**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. Klicken **Beenden**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)

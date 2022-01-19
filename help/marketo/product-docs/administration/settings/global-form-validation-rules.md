@@ -4,9 +4,9 @@ title: Globale Formularvalidierungsregeln
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,10 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
    ![](assets/global-form-validation-rules-6.png)
 
 ## Neue Formularvalidierungsregel erstellen {#create-new-form-validation-rule}
+
+>[!IMPORTANT]
+>
+>Diese Regeln gelten für alle Formulare in Ihren Marketo Engage-Abonnements.
 
 1. Klicken Sie in Marketo auf **Admin**.
 
