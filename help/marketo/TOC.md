@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: f5b755fb31aed9ddf03204502ad9bb8f79546bca
 workflow-type: tm+mt
 source-wordcount: '8254'
 ht-degree: 5%
@@ -54,9 +54,9 @@ ht-degree: 5%
             + [SEO - Region/Land für Ihre Suchmaschine auswählen](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
             + [SEO - Festlegen der Voreinstellungen für E-Mail-Warnhinweise](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Schlüsselwörter {#keywords}
-            + [SEO - Suchbegriffe hinzufügen](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+            + [SEO - Add Keywords](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
             + [SEO - Hinzufügen/Entfernen von Spalten aus der Suchbegriffansicht](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+            + [SEO - Add/Remove Keywords from a List](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - Exportieren von Suchbegriffergebnissen](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
             + [SEO - Filtern von Suchbegriffsergebnissen](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
             + [SEO - Vorgeschlagene Suchbegriffe abrufen](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
@@ -365,10 +365,10 @@ ht-degree: 5%
          + Erstellen von Programmen {#creating-programs}
             + [Grundlegendes zu Programmen](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
             + [Programm erstellen](product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
-            + [Grundlegendes zu lokalen Assets in einem Programm](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
+            + [Understanding Local Assets in a Program](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [Grundlegendes zur Programmmitgliedschaft](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
-            + [Verwenden der Registerkarte &quot;Assets&quot;](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
-            + [Verwenden der Registerkarte &quot;Startseite des Programms&quot;](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
+            + [Using the Assets Tab](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
+            + [Using the Program Home Tab](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
          + Arbeiten mit Programmen {#working-with-programs}
             + [Best Practice: Organisieren Ihrer Programme](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
             + [Klonen eines Programms](product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
@@ -383,11 +383,11 @@ ht-degree: 5%
             + [Zeitkosten verstehen](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Grundlegendes zu Tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
             + [Verwenden von Tags in einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
-            + [Verwenden von Zeitraumkosten in einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+            + [Using Period Costs in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Bericht zur Programmleistung {#program-performance-report}
             + [Erstellen eines Berichts zur Programmleistung](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Hinzufügen von Programmstatusspalten zu einem Programmbericht](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
-            + [Filtern eines Programmberichts nach Periodenkosten](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+            + [Filter a Program Report by Period Cost](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
             + [Filtern eines Programmberichts nach Programm](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
             + [Filtern eines Programmberichts nach Tag](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
          + Ansicht des Programmplans {#program-schedule-view}
@@ -459,7 +459,7 @@ ht-degree: 5%
                + [Teilen eines Augenblicks](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + Verschiedenes {#miscellaneous}
          + [Konfigurieren der Adobe Experience Manager-Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-         + [Neuen Kampagnenordner erstellen](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [Create New Campaign Folder](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + [Importieren von Assets mit Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [Glossar zu Tastaturbefehlen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo-Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
@@ -809,10 +809,10 @@ ht-degree: 5%
                + [Vorlage 16E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16e.md)
                + [Vorlage 17A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17a.md)
                + [Vorlage 17B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17b.md)
-               + [Vorlage 17C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17c.md)
+               + [Template 17C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17c.md)
                + [Vorlage 17D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17d.md)
                + [Vorlage 17E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17e.md)
-               + [Vorlage 18A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18a.md)
+               + [Template 18A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18a.md)
                + [Vorlage 18B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18b.md)
                + [Vorlage 18C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18c.md)
                + [Vorlage 18D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18d.md)
@@ -1151,14 +1151,14 @@ ht-degree: 5%
             + [Verlauf der Abmeldung](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-history-card.md)
             + [Abmelde-Link-Landingpage](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-link-landing-page.md)
             + [Abmelde-Übersicht](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
-         + Verwenden des Fensters &quot;Erstellen&quot; {#using-the-compose-window}
+         + Using the Compose Window {#using-the-compose-window}
             + [Hinzufügen eines Anhangs oder verfolgbaren Inhalts zu Ihrer E-Mail](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
             + [Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Massensendeoptionen](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Erstellen von Massen-E-Mails mit Auswählen und Senden](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [E-Mail planen](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
             + [Versenden einer getrackten E-Mail](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
-            + [Senden von E-Mails über Gruppen-E-Mails](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+            + [Sending Emails via Group Email](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + FAQs {#faq}
          + [Kann ich einen Kontakt oder eine Gruppe wiederherstellen, die ich gelöscht habe?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
@@ -1331,6 +1331,7 @@ ht-degree: 5%
          + Konfiguration {#configuration}
             + [Hinzufügen von Massen-Aktionsschaltflächen zu Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Hinzufügen der Marketo-Registerkarte zu Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Massenaktionen beim Salesforce-Blitzen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Konfiguration für bestehende Kunden](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
@@ -1347,7 +1348,6 @@ ht-degree: 5%
                + [Veröffentlichen einer E-Mail in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Test-E-Mail senden](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Massenaktionen {#bulk-actions}
-               + [Massenaktionen beim Salesforce-Blitzen](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [E-Mail an mehrere Datensätze in Marketo Sales Insight senden](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Sprachunterstützung {#language-support}
                + [Bereiten Sie Sales Insight für mehrsprachige Unterstützung in Salesforce vor.](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1474,7 +1474,7 @@ ht-degree: 5%
          + [Inhalt bearbeiten](product-docs/predictive-content/working-with-all-content/edit-content.md)
          + [Aufheben der Genehmigung eines Titels für prädiktive Inhalte](product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
       + Aktivieren prädiktiver Inhalte {#enabling-predictive-content}
-         + [Aktivieren prädiktiver Inhalte für Web Rich Media](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+         + [Enable Predictive Content for Web Rich Media](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
          + [Aktivieren von prädiktivem Inhalt in E-Mails](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)
          + [Symbolleiste für Inhaltsempfehlung aktivieren](product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
       + Arbeiten mit prädiktiven Inhalten {#working-with-predictive-content}
@@ -1566,19 +1566,19 @@ ht-degree: 5%
             + [Klonen eines Programm-Analyzers](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
             + [Kanaleffektivität mit dem Programm-Analyzer vergleichen](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
             + [Vergleichen der Programmwirksamkeit mit dem Programm-Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
-            + [Programm-Analyzer erstellen](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
-            + [Kennenlernen von Programm- und Kanaldetails mit dem Programm-Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+            + [Create a Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+            + [Explore Program &amp; Channel Details with the Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
             + [Bereitstellen eines Programms ohne Periodenkosten in Umsatz-Explorer und Analyzern](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
             + [Analytics-Verhalten auf Programmebene überschreiben](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
             + [Grundlegendes zum Programmkostenanalysebereich](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)
             + [Grundlegendes zum Bereich für die Programmzugehörigkeitsanalyse](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
-            + [Grundlegendes zum Programm-Opportunity Analysis Area](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
-            + [Grundlegendes zum Analysebereich für die Programmumsatzerlöse](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
+            + [Understanding the Program Opportunity Analysis Area](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
+            + [Understanding the Program Revenue Stage Analysis Area](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
          + Umsatzzyklusmodelle {#revenue-cycle-models}
-            + [Genehmigen/Aufheben der Genehmigung eines Umsatzmodells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
-            + [Bearbeiten des genehmigten Modells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
-            + [Genehmigen von Phasen und Zuweisen von Leads zu einem Umsatzmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
-            + [Ändern des Namens einer Bühne](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
+            + [Approve/Unapprove a Revenue Model](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+            + [Editing Your Approved Model](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
+            + [Approving Stages and Assigning Leads to a Revenue Model](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
+            + [Changing the Name of a Stage](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
             + [Klonen eines Marketo-Beispiel-Umsatzmodells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
             + [Neues Umsatzmodell erstellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
             + [Erstellen eines Erfolgspfad-Analyzers](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
@@ -1603,10 +1603,10 @@ ht-degree: 5%
             + [Erstellen eines Berichts &quot;Umsatz-Explorer&quot;](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
             + [Anpassen und Anzeigen von Hitzefeldern](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/customize-and-display-heat-grids.md)
             + [Löschen eines Felds in einem Umsatz-Explorer-Bericht](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
-            + [Exportieren eines Umsatz-Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/exporting-a-revenue-explorer-report.md)
+            + [Exporting a Revenue Explorer Report](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/exporting-a-revenue-explorer-report.md)
             + [Grafiken zu Ergebnissen aus Umsatz-Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/graphing-results-from-revenue-explorer.md)
-            + [Umsatz Explorer-Berichtstypen](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/revenue-explorer-report-types.md)
-            + [Speichern eines Umsatz-Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+            + [Revenue Explorer Report Types](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/revenue-explorer-report-types.md)
+            + [Saving a Revenue Explorer Report](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
             + [Abonnieren eines Umsatz-Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
             + [Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
             + [Grundlegendes zur Opportunity Analysis in Umsatz-Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
