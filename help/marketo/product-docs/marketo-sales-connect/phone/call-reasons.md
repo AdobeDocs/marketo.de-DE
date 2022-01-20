@@ -4,9 +4,9 @@ title: Gründe für Aufrufe
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ Lassen Sie zu, dass Ihre Verkaufsteams bei Aufrufen die Anrufgründe auswählen,
    ![](assets/call-reasons-4.png)
 
 ## Grund für Aufruf erstellen {#create-call}
+
+>[!NOTE]
+>
+>Sie können maximal 15 Gründe für Aufrufe erstellen.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
