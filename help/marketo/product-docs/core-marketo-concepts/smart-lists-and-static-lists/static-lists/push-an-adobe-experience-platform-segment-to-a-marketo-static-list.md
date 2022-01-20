@@ -2,9 +2,9 @@
 description: Senden eines Adobe Experience Platform-Segments an eine statische Marketo-Liste - Marketo-Dokumente - Produktdokumentation
 title: Adobe Experience Platform-Segment in eine statische Marketo-Liste pushen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -16,59 +16,66 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 >[!PREREQUISITES]
 >
 >* [Erstellen eines API-Benutzers](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
->* Gehen Sie dann zu **Admin** > **Startpunkt**. Suchen Sie den Namen der soeben erstellten Rolle und klicken Sie auf **Details anzeigen**. Kopieren und speichern Sie die Informationen in **Client-ID** und **Client Secret**, da Sie es für diese Funktion benötigen werden.
+>* Navigieren Sie zu **Admin** > **Startpunkt**. Suchen Sie den Namen der soeben erstellten Rolle und klicken Sie auf **Details anzeigen**. Kopieren und speichern Sie die Informationen in **Client-ID** und **Client Secret**, da Sie es für Schritt 7 benötigen könnten.
+>* Erstellen Sie in Marketo eine statische Liste oder suchen und wählen Sie eine bereits erstellte Liste aus. Sie werden ihre Kennung benötigen.
 
 
 1. Anmelden bei [Adobe Experience Platform](https://experience.adobe.com/).
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-1.png)
+   ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
 1. Klicken Sie auf das Rastersymbol und wählen Sie **Experience Platform**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-2.png)
+   ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
 1. Klicken Sie im linken Navigationsbereich auf **Ziele**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-3.png)
+   ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
 1. Klicken **Katalog**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
+   ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
 1. Suchen Sie die Kachel Marketo Engage und klicken Sie auf **Segmente aktivieren**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
+   ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
 1. Klicken **Neues Ziel konfigurieren**.
 
+   ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
-1. Klicken Sie unter &quot;Kontotyp&quot;auf das **Neues Konto** Optionsfeld. Geben Sie Ihre Marketo-Anmeldedaten ein und klicken Sie auf **Mit Ziel verbinden**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-6.png)
+1. Wählen Sie unter Kontotyp die Optionsschaltfläche Vorhandenes oder Neues Konto aus (in diesem Beispiel wählen wir **Vorhandenes Konto**). Klicken Sie auf das Symbol Konto auswählen .
 
-   >[!NOTE]
-   >
-   >Sie können Ihre Munchkin-ID finden, indem Sie **Admin** > **Munchkin** (ist auch Teil Ihrer Marketo-URL, nachdem Sie angemeldet sind). Client-ID/Geheimnis , die Sie benötigen, um die Voraussetzungen oben in diesem Artikel zu erfüllen.
-
-1. &quot;Verbunden&quot;sollte unter Ihren Anmeldedaten angezeigt werden. Klicken **Nächste** in der oberen rechten Ecke.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-7.png)
-
-1. Geben Sie einen **Name** und _optional_ Beschreibung. Klicken **Ziel erstellen**.
+   ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
    >[!NOTE]
    >
-   >Die Auswahl in Marketing-Aktionen ist ebenfalls optional. Marketo nutzt diese Informationen derzeit nicht, wird aber wahrscheinlich bald nutzen.
+   >Wenn Sie Neues Konto auswählen, können Sie Ihre Munchkin-ID finden, indem Sie **Admin** > **Munchkin** (ist auch Teil Ihrer Marketo-URL, nachdem Sie angemeldet sind). Client-ID/Geheimnis , die Sie benötigen, um die Voraussetzungen oben in diesem Artikel zu erfüllen.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-8.png)
+1. Wählen Sie das Zielkonto aus und klicken Sie auf **Auswählen**.
 
-1. Klicken **Nächste**.
+   ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-9.png)
+1. Ziel eingeben **Name** und eine optionale Beschreibung. Klicken Sie auf das Dropdown-Menü &quot;Personenerstellung&quot;und wählen Sie &quot;Vorhandene Marketo-Personen abgleichen und Fehlende Personen in Marketo erstellen&quot;. _oder_ &quot;Nur vorhandene Marketo-Personen abgleichen&quot;. In diesem Beispiel wählen wir das erste.
 
-1. Wählen Sie das gewünschte Segment aus und klicken Sie auf **Nächste**.
+   ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-10.png)
+   >[!NOTE]
+   >
+   >Wenn Sie &quot;Nur vorhandene Marketo-Personen abgleichen&quot;auswählen, müssen Sie nur die E-Mail und/oder die ECID zuordnen, damit Sie die Schritte 13-16 überspringen können.
+
+1. Dieser Abschnitt ist optional. Klicken **Erstellen** überspringen.
+
+   ![](assets/push-an-adobe-experience-platform-segment-10.png)
+
+1. Wählen Sie das von Ihnen erstellte Ziel aus und klicken Sie auf **Nächste**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-11.png)
+
+1. Wählen Sie das Segment aus, das Sie an Marketo senden möchten, und klicken Sie auf **Nächste**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-12.png)
 
    >[!NOTE]
    >
@@ -76,66 +83,76 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
 1. Klicken **Neue Zuordnung hinzufügen**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-11.png)
-
-1. Klicken Sie auf das Cursorsymbol.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
-
-1. Wählen Sie entweder **Attribute auswählen** oder **Identitäts-Namespace auswählen** Optionsfeld (in diesem Beispiel wählen wir Attribute aus).
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
-
-   >[!NOTE]
-   >
-   >Wenn Sie **Identitäts-Namespace auswählen** nach der Auswahl zu Schritt 15 wechseln.
-
-1. Wählen Sie das entsprechende Feld aus, das die E-Mail-Adresse enthält, die den Benutzer identifiziert. Klicken **Auswählen** wann geschehen.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-14.png)
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-15.png)
-
-   >[!NOTE]
-   >
-   >Das Beispiel, das wir ausgewählt haben, kann sich von Ihrer Auswahl unterscheiden.
+   ![](assets/push-an-adobe-experience-platform-segment-13.png)
 
 1. Klicken Sie auf das Zuordnungssymbol.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Auswählen **Identitäts-Namespace auswählen**.
+1. Vornamen zuordnen durch Auswahl von **firstName** und klicken **Auswählen**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+1. Ordnen Sie Nachname und Firmenname zu, indem Sie auf **Neue Zuordnung hinzufügen** Wiederholen und Wiederholen von Schritt 15 zweimal, wählen Sie **lastName** und dann **companyName**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-16.png)
+
+1. Jetzt ist es Zeit, die E-Mail-Adresse zuzuordnen. Klicken **Neue Zuordnung hinzufügen** erneut.
+
+   ![](assets/push-an-adobe-experience-platform-segment-17.png)
+
+1. Klicken Sie auf das Zuordnungssymbol.
+
+   ![](assets/push-an-adobe-experience-platform-segment-18.png)
+
+1. Klicken Sie auf die Optionsschaltfläche Identitäts-Namespace auswählen . Wählen Sie  **Email** Klicken Sie auf **Auswählen**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >Die Zuordnung von Attributen ist optional. Zuordnen von E-Mail und/oder ECID aus der **Identitäts-Namespace** -Registerkarte ist die wichtigste Maßnahme, um sicherzustellen, dass die Person in Marketo übereinstimmt. Die Zuordnung von E-Mail stellt die höchste Übereinstimmungsrate sicher.
+   >Zuordnen von E-Mail und/oder ECID aus der **Identitäts-Namespace** -Registerkarte ist die wichtigste Maßnahme, um sicherzustellen, dass die Person in Marketo übereinstimmt. Die Zuordnung von E-Mail stellt die höchste Übereinstimmungsrate sicher.
 
-1. Wählen Sie zwischen ECID oder E-Mail. In diesem Beispiel wählen wir **Email**.
+1. Jetzt ist es an der Zeit, die Quellfelder auszuwählen. Klicken Sie für E-Mails auf das Cursorsymbol.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-platform-segment-20.png)
+
+1. Klicken Sie auf die Optionsschaltfläche Identitäts-Namespace auswählen und wählen Sie **Email** Klicken Sie auf **Auswählen**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-21.png)
+
+1. Um das Quellfeld Unternehmensname auszuwählen, klicken Sie auf das Cursorsymbol in der Zeile.
+
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
+
+1. Lassen Sie die Optionsschaltfläche Attribute auswählen aktiviert. Suchen Sie nach &quot;company&quot;und wählen Sie **companyName** Klicken Sie auf **Auswählen**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
+
+1. Ordnen Sie die Quellfelder für Nachname und Vorname zu, indem Sie auf das Cursorsymbol für jeden Cursor klicken und Schritt 23 zweimal wiederholen, indem Sie auswählen **lastName** und dann **firstName**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
 1. Klicken **Nächste**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
+
+1. Sie benötigen jetzt die Kennung Ihrer Liste. Klicken Sie auf die Registerkarte in Ihrem Browser, in der die statische Marketo-Liste geöffnet ist (oder öffnen Sie eine neue Registerkarte und wählen Sie die gewünschte statische Liste aus).
+
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
 
    >[!NOTE]
    >
-   >Identitäten werden verwendet, um in Marketo nach Übereinstimmungen zu suchen. Wenn eine Übereinstimmung gefunden wird, wird die Person der statischen Liste hinzugefügt. Wenn keine Übereinstimmung gefunden wird, werden diese Personen abgelegt (d. h. nicht in Marketo erstellt).
+   >Die besten Ergebnisse erzielen Sie, wenn Sie eine leere Marketo Engage-Liste verwenden.
 
-1. _In Marketo_, erstellen Sie eine statische Liste oder suchen und wählen Sie eine bereits erstellte Liste aus. Kopieren Sie die Zuordnungs-ID vom Ende der URL.
+1. Markieren und kopieren Sie die Listen-ID am Ende der URL.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
 
-   >[!NOTE]
-   >
-   >Die besten Ergebnisse erzielen Sie, wenn die Liste, auf die Sie in Marketo verweisen, leer ist.
+1. Fügen Sie die soeben kopierte ID unter &quot;Mapping ID&quot;ein und klicken Sie auf **Nächste**.
 
-1. Geben Sie in Adobe Experience Platform die soeben kopierte ID ein. Wählen Sie Ihr Startdatum aus. Die Personen werden bis zum ausgewählten Enddatum kontinuierlich synchronisiert. Lassen Sie das Enddatum für eine unbegrenzte Synchronisierung leer. Klicken **Nächste** wann geschehen.
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
+1. Klicken **Beenden**.
 
-1. Bestätigen Sie Ihre Änderungen und klicken Sie auf **Beenden**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
