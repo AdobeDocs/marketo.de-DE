@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1055'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Die folgenden Funktionen sind in der Version vom 22. Januar enthalten. Informier
 
 **_Vierteljährliche Versionen_**
 
-Die folgenden Funktionen werden veröffentlicht auf **21. Januar 2022**.
+Die folgenden Funktionen werden ab der Veröffentlichung auf **21. Januar 2022**, mit einem stufenweisen Rollout jeder Funktion über die folgende Woche (sofern nicht anders angegeben).
 
 ## Erlebnis der nächsten Generation {#next-generation-experience}
 
