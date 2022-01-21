@@ -1,56 +1,55 @@
 ---
 unique-page-id: 2360251
-description: Bearbeiten Sie die Meldung zum Abmelden - Marketo Docs - Produktdokumentation
-title: Die Abmeldung bearbeiten
+description: Bearbeiten der Abmeldemeldung - Marketo Docs - Produktdokumentation
+title: Bearbeiten der Abmelde-Nachricht
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Bearbeiten Sie die Meldung zum Abmelden {#edit-the-unsubscribe-message}
+# Bearbeiten der Abmelde-Nachricht {#edit-the-unsubscribe-message}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-Wenn Sie Marketing-E-Mails senden (nicht-[operativ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), werden Text zum Abmelden und Links am unteren Rand angehängt. Sie können die Standardwerte ändern. So geht es.
+Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), werden der Text und die Links zum Abmelden am unteren Rand angehängt. Sie können die Standardeinstellungen ändern. So geht es.
 
-## Bearbeiten Sie die Meldung zum Abmelden {#edit-the-unsubscribe-message-1}
+## Bearbeiten der Abmelde-Nachricht {#edit-the-unsubscribe-message-1}
 
-1. Klicken Sie unter **Admin** auf **E-Mail**.
+1. under **Admin** klicken **Email**.
 
    ![](assets/image2014-9-18-16-3a52-3a1.png)
 
    >[!CAUTION]
    >
-   >Die folgenden Variablen sind von entscheidender Bedeutung. Löschen Sie sie nicht!
+   >Die folgenden Variablen sind wichtig. Löschen Sie sie nicht!
    >
-   >* **%mkt_opt_out_prefix%**
-   >* **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK#**
+   >* `%mkt_opt_out_prefix%`
+   >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 
-1. Bearbeiten Sie die Versionen **Abmelden von HTML** und **Abmelden von Text** nach Ihren Vorlieben und klicken Sie auf **Änderungen speichern**.
+1. Bearbeiten Sie die **HTML abmelden** und **Text abmelden** Versionen nach Ihren Wünschen und klicken Sie auf **Änderungen speichern**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   Da hast du es. _Stellen Sie sicher, dass Sie es testen!_ Sie möchten nicht, dass Ihre Marketing-E-Mails beschädigte Links zum Abmelden aufweisen.
+   Da hast du es. _Testen Sie unbedingt!_ Sie möchten nicht, dass Ihre Marketing-E-Mails fehlerhafte Abmelde-Links aufweisen.
 
 >[!TIP]
 >
->Sie können die Position des HTML-Abmeldung in Ihrer E-Mail mit [Token](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) anpassen.
+>Sie können die Position der Abmelde-HTML in Ihrer E-Mail anpassen, indem Sie [Token](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
-## Standard-Abmeldung von Text {#default-unsubscribe-text}
+## Standardtext für Abmeldung {#default-unsubscribe-text}
 
-Wenn Sie jemals zum Standardsystemabonnement zurückkehren müssen, kopieren Sie Folgendes:
+Wenn Sie jemals zur standardmäßigen Systemabmeldung zurückkehren müssen, kopieren Sie Folgendes:
 
 HTML abmelden:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Abmelden von Text:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Text abmelden:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]
 >
->[Die Meldung &quot;Ansicht als Webseite&quot;bearbeiten](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;.](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
