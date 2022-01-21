@@ -2,7 +2,7 @@
 description: Best Bets - Marketo Docs - Produktdokumentation
 title: Vielversprechende Kontakte
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 7%
@@ -37,6 +37,8 @@ Durch Klicken auf das Datenmenü unter der Spalte Aktionen können Sie einen bes
 * In Marketo anzeigen
 * Hinzufügen zur Watchlist
 
+![](assets/best-bets-1.png)
+
 **Massenaktionen**
 
 Sie können über das Kontrollkästchen einen oder mehrere Leads oder Kontakte aus Ihrer Best-Bets-Seite auswählen und sie mithilfe der folgenden Interaktionsoptionen als Gruppe erreichen:
@@ -45,7 +47,7 @@ Sie können über das Kontrollkästchen einen oder mehrere Leads oder Kontakte a
 * Zu Marketo-Kampagne hinzufügen
 * Hinzufügen zur Watchlist
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >

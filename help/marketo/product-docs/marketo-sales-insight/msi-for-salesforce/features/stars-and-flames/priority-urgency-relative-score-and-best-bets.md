@@ -1,56 +1,55 @@
 ---
 unique-page-id: 2950396
-description: Priorität, Dringlichkeit, relative Bewertung und Best-Bets - Marketing-Dokumente - Produktdokumentation
-title: Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Priorität, Dringlichkeit, relativer Punktstand und beste Bets - Marketo Docs - Produktdokumentation
+title: Priorität, Dringlichkeit, relatives Ergebnis und beste Beta
+exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '452'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Priorität, Dringlichkeit, relatives Ergebnis und beste Beta {#priority-urgency-relative-score-and-best-bets}
 
-# Priorität, Dringlichkeit, relatives Ergebnis und Beste Beta {#priority-urgency-relative-score-and-best-bets}
+Marketo Sales Insight wählt für Sie die besten Leads und Kontakte entsprechend der Priorität aus. Die Priorität eines Leads oder Kontakts besteht aus zwei Komponenten: Dringlichkeit und relatives Ergebnis.
 
-Marketo Sales Insight wählt Ihre besten Kontakte und Kontakte nach ihrer Priorität. Die Priorität eines Interessenten oder Kontakts besteht aus zwei Komponenten: Dringlichkeit und relatives Ergebnis.
+![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
-![](assets/one.png)
-
-Diese werden aus dem Interessentenwert abgeleitet - ein Maß für das Interesse der Person an Ihren Produkten. Je höher der Wert, desto wahrscheinlicher wird eine positive Reaktion auf einen Anruf Ihres Verkaufsteams sein.
+Diese werden aus dem Lead-Score abgeleitet - einem Maß für das Interesse der Person an Ihrem Produkt/Ihren Produkten. Je höher das Ergebnis ist, desto wahrscheinlicher wird eine positive Reaktion auf einen Aufruf Ihres Verkaufsteams sein.
 
 >[!NOTE]
 >
->Sie benötigen mehrere Kampagnen, um den vollen Wert von Priorität, Dringlichkeit und relativem Ergebnis zu erhalten.  Bei zu wenigen oder gar keinen Kampagnen sind diese Felder nicht hilfreich.
+>Sie benötigen mehrere Scoring-Kampagnen, um den vollen Wert aus Priorität, Dringlichkeit und relativem Ergebnis zu erhalten.  Bei zu wenigen oder gar keinen Scoring-Kampagnen sind diese Felder nicht nützlich.
 
 ## Dringlichkeit {#urgency}
 
-Die Flammen stellen die Dringlichkeit dar - wie sehr sich der Interessentenwert dieser Person in letzter Zeit verändert hat. Eine hohe Dringlichkeit (mehr Flammen) bedeutet, dass der Wert dieses Interessenten in letzter Zeit stark gestiegen ist; Es ist ein gutes Zeichen, dass sich diese Führung für Ihr Angebot interessiert. Du solltest schnell mit dieser Person weitermachen!
+Die Flammen stellen die Dringlichkeit dar - wie sehr sich die Lead-Punktzahl dieser Person in letzter Zeit geändert hat. Eine hohe Dringlichkeit (mehr Flammen) bedeutet, dass sich die Punktzahl dieses Leads in letzter Zeit stark erhöht hat. Es ist ein gutes Zeichen, dass dieser Leiter an Ihrem Angebot interessiert ist. Du solltest diese Person schnell verfolgen!
 
-Ein Interessent, der eine Demo angefordert und mehrere Webseiten besucht hat, wird wahrscheinlich eine sehr hohe Dringlichkeit haben. Ein Lead, der Ihre Webseite nicht besucht oder Ihre E-Mails geöffnet hat, hat eine geringe Dringlichkeit. Verwenden Sie die Dringlichkeit, um Prioritäten zu setzen, wer als Nächstes kontaktiert werden muss.
+Beispielsweise wird ein Lead, der eine Demo angefordert und mehrere Webseiten besucht hat, wahrscheinlich eine sehr hohe Dringlichkeit haben. Ein Lead, der Ihre Webseite nicht besucht oder Ihre E-Mails geöffnet hat, hat eine geringe Dringlichkeit. Verwenden Sie die Dringlichkeit, um zu bestimmen, wer als Nächstes kontaktiert werden muss.
 
-![](assets/two.png)
+![](assets/priority-urgency-relative-score-and-best-bets-2.png)
 
 ## Relative Bewertung {#relative-score}
 
-Die Sterne stellen den relativen Wert dar - ein Maß dafür, wie der Interessentenwert dieser Person mit dem aller anderen vergleichbar ist. Eine hohe relative Punktzahl bedeutet, dass diese Person wahrscheinlich mehr Interesse an Ihrem Angebot hat als Personen mit niedrigeren relativen Punktzahlen.
+Die Sterne stellen den relativen Wert dar - ein Maß dafür, wie der Lead-Wert dieser Person mit dem aller anderen verglichen wird. Eine hohe relative Punktzahl bedeutet, dass diese Person wahrscheinlich mehr Interesse an Ihrem Angebot hat als Personen mit niedrigeren relativen Punktzahlen.
 
-Wenn zwei Interessenten dieselbe Dringlichkeit haben, können Sie anhand des relativen Ergebnisses feststellen, welches zuerst einen Anruf verdient. Die mit dem höheren relativen Ergebnis reagiert möglicherweise günstiger auf Ihr Angebot als die untere.
+Wenn zwei Leads die gleiche Dringlichkeit haben, können Sie mit dem relativen Wert feststellen, welche zuerst einen Anruf verdient. Der mit dem höheren relativen Ergebnis kann auf Ihr Angebot im Vergleich zum niedrigeren Angebot günstiger reagieren.
 
-## Beste Bets {#best-bets}
+## Vielversprechende Kontakte {#best-bets}
 
-Ihre besten Wetten sind Ihre Kontakte und Kontakte mit der höchsten Dringlichkeit und relativem Ergebnis. Nur die Interessenten, die Sie besitzen, sind in dieser Liste sichtbar, und die Liste wird aktualisiert, wenn sich die Interessentenwerte ändern.
-
->[!NOTE]
->
->Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit jemandem in Ihrer Firma, der Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Bewertungsregeln](/help/marketo/getting-started/quick-wins/simple-scoring.md).
-
-### Berechnung der Dringlichkeitsbewertung und der relativen Bewertung
-
-Um die Anzahl der Sterne und Flammen zu berechnen, werden Ihre Kontakte und Kontakte zunächst nach Ergebnis- oder Bewertungsänderungen sortiert (für relative Punktzahl bzw. Dringlichkeit). Dann sind sie in Stufen unterteilt - die oberste Ebene erhält die meisten Sterne oder Flammen, die nächste erhält weniger und so weiter.
-
-Wenn sich Bewertungen ändern, werden Dringlichkeit, Priorität und relative Werte sofort neu berechnet. Die Dringlichkeitsstufe und die relative Ergebnisstufe werden auf Marketo-Servern jede Nacht automatisch berechnet.
+Ihre besten Wetten sind Ihre Leads und Kontakte mit höchster Dringlichkeit und relativem Ergebnis. Nur die Leads, deren Inhaber Sie sind, sind in dieser Liste sichtbar und die Liste wird aktualisiert, wenn sich die Lead-Punktzahlen ändern.
 
 >[!NOTE]
 >
->Die Werte für relative Dringlichkeit (Flammen) und Relative Punktzahl (Sterne) sind Ganzzahlen in Marketo. Mögliche Werte sind 0-3.
+>Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit einer Person in Ihrem Unternehmen, die Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Scoring-Regeln](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+
+### Berechnung von Dringlichkeit und relativer Punktzahl
+
+Um die Anzahl der Sterne und Flammen zu berechnen, werden Ihre Leads und Kontakte zuerst nach Punktänderung oder Punktänderung sortiert (für relative Punktzahl bzw. Urnität). Dann sind sie in Stufen unterteilt — die oberste Ebene erhält die meisten Sterne oder Flammen, die nächste erhält weniger, und so weiter.
+
+Wenn sich die Bewertungen ändern, werden Dringlichkeit, Priorität und relative Punktzahl sofort neu berechnet. Die Dringlichkeitsstufen und die relativen Punktzahlen werden auf Marketo-Servern jede Nacht automatisch berechnet.
+
+>[!NOTE]
+>
+>Die Zählungen Relative Dringlichkeit (Flammen) und Relative Punktzahl (Sterne) sind Ganzzahlen in Marketo. Mögliche Werte sind 0-3.

@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: Insights-Dashboard Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen des Insights-Dashboards
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Erfahren Sie mehr über die Funktionen, die in Ihrem Sales Insights-Dashboard ve
 >
 >Sie müssen über das neueste MSI SFDC-Paket verfügen und [Konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Kontaktlayout {#contact-layout}
 
@@ -48,7 +48,7 @@ Registerkarte &quot;E-Mail-Kampagnen&quot;:
 * Die Karte mit den Aktivitätsdetails in diesem Abschnitt enthält eine Vorschauoption. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt E-Mail-Ablauf des Versands mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, ist die Standardoption für die Vorschau verfügbar
 * Zu den Filtern gehören &quot;Suche&quot;und &quot;Datumsbereich&quot;.
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Registerkarte Ereignis :
 
@@ -59,7 +59,7 @@ Registerkarte Ereignis :
 * Karte mit Aktivitätsdetails in diesem Abschnitt verfügt über eine Vorschauoption
 * Filter enthält &quot;Suche&quot;, &quot;Nur eingeladene Ereignisse anzeigen&quot;und &quot;Datumsbereich&quot;
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Lead-Layout {#lead-layout}
 
@@ -89,7 +89,7 @@ Registerkarte &quot;E-Mail-Kampagnen&quot;:
 * Die Karte mit den Aktivitätsdetails in diesem Abschnitt enthält eine Vorschauoption. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt E-Mail-Ablauf des Versands mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, ist die Standardoption für die Vorschau verfügbar
 * Zu den Filtern gehören &quot;Suche&quot;und &quot;Datumsbereich&quot;.
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Registerkarte Ereignis :
 
@@ -100,7 +100,7 @@ Registerkarte Ereignis :
 * Karte mit Aktivitätsdetails in diesem Abschnitt verfügt über eine Vorschauoption
 * Filter enthält &quot;Suche&quot;, &quot;Nur eingeladene Ereignisse anzeigen&quot;und &quot;Datumsbereich&quot;
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Kontolayout {#account-layout}
 

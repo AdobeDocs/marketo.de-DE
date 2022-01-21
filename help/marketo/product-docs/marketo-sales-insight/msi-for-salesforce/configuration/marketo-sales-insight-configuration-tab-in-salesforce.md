@@ -1,64 +1,72 @@
 ---
 unique-page-id: 42762322
 description: Registerkarte "Konfiguration von Marketo Sales Insight"in Salesforce - Marketo Docs - Produktdokumentation
-title: Registerkarte "Konfiguration von Marketo Sales Insight" in Salesforce
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+title: Marketo Sales Insight-Konfigurationsregisterkarte in Salesforce
+exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
 
+# Marketo Sales Insight-Konfigurationsregisterkarte in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
 
-# Registerkarte &quot;Konfiguration von Marketo Sales Insight&quot; in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+## Betriebseinstellungen {#operational-settings}
 
-## Operative Einstellungen {#operational-settings}
+Sie müssen diese Einstellung einrichten, um Sales Insight in SFDC verwenden zu können.
 
-Sie müssen dies einrichten, um mit Sales Insight in SFDC Beginn zu erhalten.
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
-![](assets/one.png)
-
-* MSI verwendet SOAP- und Rest-API
-* Die Seite &quot;Sales Insight&quot;in Ihrem Marketing-Konto verfügt über zwei zugehörige Bedienfelder mit Seife- und Rest-API-Anmeldeinformationen, die Sie hier kopieren und einfügen können.
-* Die SOAP- und REST-API verfügt über separate Timeouts, die Sie je nach Bedarf Ihres Unternehmens festlegen können. Die maximal zulässige Zeit beträgt 120 Sekunden
-* Insight-Dashboard deaktivieren: Sie können die Rest-API-Anmeldeinformationen entfernen und nur die SOAP-API verwenden. Dadurch wird die Registerkarte &quot;Insight-Dashboard&quot;in allen MSI-Visualforce-Bedienfeldern deaktiviert.
+* MSI verwendet sowohl die Soap- als auch die Rest-API
+* Die Seite &quot;Sales Insight&quot;in Ihrem Marketo-Konto enthält zwei entsprechende Bereiche mit Soap- und Rest-API-Anmeldeinformationen, die Sie hier kopieren und einfügen können.
+* Die Soap- und Rest-API verfügt über separate Zeitlimits, die Sie entsprechend den Anforderungen Ihres Unternehmens festlegen können. Die maximal zulässige Zeit beträgt 120 Sekunden
+* Deaktivieren des Insights-Dashboards: Sie können REST-API-Anmeldeinformationen entfernen und nur die Soap-API verwenden. Dadurch wird die Registerkarte Insights Dashboard in allen MSI Visualisierungs-Bedienfeldern deaktiviert.
 
 ## MSI-Konfiguration {#msi-configuration}
 
-Konfigurationen gelten für alle MSI-Benutzer und sind nicht spezifisch für Profil.
-
-**Einstellungen für die Registerkarte &quot;Marketing&quot;**
-
-* Best Bets-Debug-Modus
-* Standardausblenden - Die Option, die Sie hier auswählen, ist die Anzahl der Tage, an denen eine beste Wette im Register Beste Wetten in Marketo ausgeblendet wird, wenn Sie auf das Symbol &quot;Ausblenden&quot; klicken
-* Kontaktstatusfeld - Die hier gewählte Option ist der Wert, der in der Spalte Statuskopfzeile auf der Registerkarte Beste Bets in Marketing ausgefüllt wird
-* Registerkarteneinstellungen - Alle 5 Registerkarten sind standardmäßig verfügbar. Sie können die Reihenfolge der Registerkarten auf der Seite &quot;Marketo global&quot;auswählen
+Konfigurationen gelten für alle MSI-Benutzer und sind nicht profilspezifisch.
 
 **Visualforce-Seiteneinstellungen**
 
-* Aktion-Dropdown aktivieren:
+* Aktivieren der Dropdown-Liste Aktion :
+   * Möglichkeit, Marketo-E-Mail aus der Dropdown-Liste im Lead- und Kontakt-MSI-Layout auszublenden
+   * Möglichkeit, die Optionen Zu Marketo-Campaign hinzufügen aus der Dropdown-Liste in Lead- und Kontakt-MSI-Layout auszublenden
+* Bevorstehende Ereignisse: Möglichkeit, eingeladene Ereignisse, alle Ereignisse für Benutzer anzuzeigen oder diese Registerkarte vollständig auszublenden
+* Kampagnen: Möglichkeit, alle E-Mail-Kampagnen anzuzeigen oder diesen Tab vollständig auszublenden
+* Bevorstehende Kampagnen und Ereignisse laden: Möglichkeit, die Anzahl der REST-API-Aufrufe durch Benutzer zu reduzieren, indem die Registerkarte &quot;Ereignisse&quot;und &quot;Kampagnen&quot;hinter der On-Demand-Schaltfläche &quot;Bevorstehende Elemente laden&quot;platziert wird
+* Registerkarteneinstellungen: Alle fünf Tabs sind standardmäßig verfügbar. Sie können die Reihenfolge der Registerkarten im Bereich Sales Insight auswählen. Dieselbe Reihenfolge gilt für alle Layouts (Lead, Kontakt, Konto, Chancen)
 
-   * Möglichkeit zum Ausblenden von &quot;Send&quot;-E-Mail von Dropdown im &quot;Lead- und Kontakt-MSI-Layout&quot;
-   * Möglichkeit, Optionen für Hinzufügen bis zur Kampagne von Marketing aus der Dropdown-Liste im Lead- und Kontakts-MSI-Layout auszublenden
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
-* Anstehende Ereignisse: Möglichkeit, eingeladene Ereignis, alle Ereignis für Benutzer oder diese Registerkarte vollständig auszublenden
-* Anstehende Kampagnen: Möglichkeit, alle E-Mail-Kampagnen anzuzeigen oder diese Registerkarte vollständig auszublenden
-* Anstehende Kampagnen und Ereignis laden: Möglichkeit, die Anzahl der REST-API-Aufrufe durch Benutzer zu reduzieren, indem die Registerkarte &quot;Ereignis und Kampagnen&quot;hinter der Schaltfläche &quot;Anstehende Elemente laden&quot;platziert wird
-* Registerkarteneinstellungen - Alle 5 Registerkarten sind standardmäßig verfügbar. Alle 5 Registerkarten sind standardmäßig verfügbar. Sie können die Reihenfolge der Registerkarten im Bereich Sales Insight auswählen. Die gleiche Bestellung gilt für alle Layouts (Lead, Kontakt, Konto, Gelegenheit)
+**Registerkarte &quot;Marketo Global&quot;**
 
-![](assets/two.png)
+* RSS-Feed aktiviert: Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed anzeigen (zusätzlich zum Lead-Feed in Salesforce ). Der RSS-Feed kann nur funktionieren, wenn die Funktion &quot;Token-Ablauf&quot;deaktiviert ist. Diese Einstellung wird auf Ihrer Marketo Sales Insight-Administrationsseite gesteuert.
+* Debug-Modus für vielversprechende Kontakte
+* Standardausblenden: Die Option, die Sie hier auswählen, ist die Anzahl der Tage, an denen ein optimaler Einsatz auf der Registerkarte Beste Betten in Marketo ausgeblendet wird, wenn Sie auf das Symbol &quot;Ausblenden&quot;klicken
+* Kontaktstatusfeld: Die Option, die Sie hier auswählen, ist der Wert, der in der Spalte Statuskopfzeile auf der Registerkarte Beste Betas in Marketo ausgefüllt wird.
+* Live Feed-Einstellungen: Die Option, nur Live Feed (in den Bedienfeldern &quot;Lead&quot;, &quot;Kontakt&quot;, &quot;Konto&quot;und &quot;Chancen&quot;sowie auf der Seite &quot;Globale Marketo&quot;anzuzeigen), nur Lead-Feed (auf der globalen Marketo-Seite) oder sowohl Live- als auch Lead-Feed anzuzeigen
+* Registerkarteneinstellungen: Alle fünf Tabs sind standardmäßig verfügbar. Sie können die Reihenfolge der Registerkarten auf der globalen Marketo-Seite auswählen
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-3.png)
 
 **Beschränkungen**
 
-* Aktivität (Interessanter Moment, Web-Aktivität, E-Mail) ist standardmäßig auf 1000 eingestellt. E-Mail-Kampagnen und -Ereignis sind standardmäßig auf 200 eingestellt
-* Falls Sie Probleme mit der Zeitüberschreitung auf Ihrer Organisation feststellen, können Sie die Beschränkung
+* Aktivität (interessanter Moment, Web-Aktivität, E-Mail) ist standardmäßig auf 1000 gesetzt. E-Mail-Kampagnen und -Ereignisse sind standardmäßig auf 200 gesetzt
+* Falls Sie bei Ihrer Organisation Probleme mit der Zeitüberschreitung bemerken, können Sie die Beschränkung
 
-## Zurücksetzen von Marketing auf Sales Insight {#reset-marketo-sales-insight}
+**Aktionseinstellungen**
 
-Wenn Sie sich dafür entscheiden, werden alle Konfigurationen im SFDC gelöscht und können nicht wiederhergestellt werden. Sie müssen alles erneut konfigurieren.
+* Marketo-E-Mail senden: Durch Aktivierung dieser Option erhalten alle Sales Insight-Benutzer Zugriff auf das Senden von E-Mails aus den Bereichen Lead, Kontakt, Konto, Chancen und der Registerkarte Beste Beten (Massenaktionen und Inline-Interaktion).
+* Zu Marketo Campaign hinzufügen: Durch Aktivierung dieser Option erhalten alle Sales Insight-Benutzer Zugriff auf das Hinzufügen zu Kampagnen über die Bedienfelder &quot;Lead&quot;, &quot;Kontakt&quot;, &quot;Konto&quot;, &quot;Chancen&quot;und die Registerkarte &quot;Beste Wetten&quot;(Massenaktionen und Inline-Interaktion).
 
-![](assets/three.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
+
+## Marketo Sales Insight zurücksetzen {#reset-marketo-sales-insight}
+
+Wenn Sie sich dafür entscheiden, werden alle Ihre Konfigurationen in SFDC gelöscht und sie können nicht wiederhergestellt werden. Sie müssen alles erneut konfigurieren.
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
 >[!MORELIKETHIS]
 >
