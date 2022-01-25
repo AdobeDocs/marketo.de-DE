@@ -4,9 +4,9 @@ title: Globale Formularvalidierungsregeln
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -68,3 +68,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die Ihre Formular-Besucher sehen sollen. Geben Sie die Domäne(n) ein, die blockiert werden sollen, und wählen Sie **Regel aktivieren** und klicken Sie auf **Erstellen**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>Marketo Engage bietet eine definierte Blockierungsliste kostenloser E-Mail-Domains für Verbraucher, die blockiert werden, wenn die &quot;Consumer Email Domain pre-&quot;-Regel verwendet wird. [Liste hier anzeigen](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
