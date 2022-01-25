@@ -4,7 +4,7 @@ title: Globale Formularvalidierungsregeln
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
+source-git-commit: dcec5ef3856706d770a68228ae2b4c17cc47dfc0
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -71,4 +71,4 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
 >[!NOTE]
 >
->Marketo Engage bietet eine definierte Blockierungsliste kostenloser E-Mail-Domains für Verbraucher, die blockiert werden, wenn die &quot;Consumer Email Domain pre-&quot;-Regel verwendet wird. [Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engage verfügt über eine definierte Blockierungsliste kostenloser E-Mail-Domains für Verbraucher, die blockiert werden, wenn die Regel &quot;KundenE-Mail-Domain-Vorabregistrierung&quot;verwendet wird. [Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
