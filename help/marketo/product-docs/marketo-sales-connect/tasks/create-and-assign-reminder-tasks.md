@@ -4,9 +4,9 @@ title: Erstellen und Zuweisen von Erinnerungsaufgaben
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -17,40 +17,36 @@ Erinnerungsaufgaben eignen sich hervorragend, um auf dem Laufenden zu bleiben un
 
 1. Klicken **Command Center**.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Klicken **Aufgaben**.
+1. Aufgaben werden standardmäßig geöffnet. Klicken **Aufgabe hinzufügen**.
 
-PICC
-
-1. Klicken **Aufgabe hinzufügen**.
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
 1. Wählen Sie den Aufgabentyp aus E-Mail, Aufruf, InMail oder Benutzerdefinierte Aufgabe aus.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
 1. Geben Sie der Aufgabe einen Namen.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
 1. Wählen Sie aus, ob Sie die Aufgabe selbst zuweisen möchten, oder wählen Sie einen anderen Benutzer aus, dem Sie die Aufgabe zuweisen möchten.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
 1. Fügen Sie die Person hinzu, mit der Sie verfolgen, mit dieser Erinnerungsaufgabe.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
 1. Wählen Sie das Datum aus, an dem die Aufgabe fällig wird.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. Wählen Sie die Priorität der Aufgabe aus.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Fügen Sie Details zu der Aufgabe hinzu, die Sie beim Abschließen der Aufgabe benötigen, z. B. Anruferbeschreibungen, eine InMail-Nachrichtenvorlage oder Anmerkungen zur Person.
+1. Fügen Sie Details zu der Aufgabe hinzu, die Sie beim Abschließen der Aufgabe benötigen, z. B. Anruferbeschreibungen, eine InMail-Nachrichtenvorlage oder Anmerkungen zur Person. Klicken **Erstellen** wann geschehen.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)

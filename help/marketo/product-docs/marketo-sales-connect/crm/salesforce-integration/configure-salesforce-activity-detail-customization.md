@@ -4,9 +4,9 @@ title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
@@ -102,25 +102,39 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. Klicken **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. Klicken **Einstellungen synchronisieren**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. Fügen Sie im Editor zur Anpassung der Aktivitätsdetails den gewünschten freien Text hinzu. Dieser bleibt für das Betrefffeld aller mit Salesforce synchronisierten Aufgaben unverändert.
+1. Fügen Sie im Editor für die Anpassung der Aktivitätsdetails den gewünschten freien Text hinzu. Text, den Sie hinzufügen, ist nicht dynamisch und bleibt für das Betrefffeld aller mit Salesforce synchronisierten Aufgaben unverändert.
 
-1. Fügen Sie die hinzuzufügenden dynamischen Felder hinzu, indem Sie auf die Schaltfläche Dynamisches Feld klicken und die zu verwendenden dynamischen Felder aus der Liste auswählen.
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >Obwohl dies nicht erforderlich ist, kann es für einige Personen einfacher sein, zwischen den Daten zu unterscheiden, wenn sie in ein Subjektfeld in Salesforce eingefügt werden. Beispiel: `[Sales Connect] - {{Activity_type}}`
+
+1. Fügen Sie die gewünschten dynamischen Felder hinzu, indem Sie auf die Schaltfläche **Dynamisches Feld hinzufügen** Schaltfläche.
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. Wählen Sie die gewünschten dynamischen Felder aus.
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. Klicken **Speichern**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce erzwingt eine Beschränkung von 255 Zeichen. Wenn Ihre Aktivitätsdetails diese Anzahl überschreiten, werden sie abgeschnitten, um sicherzustellen, dass die Informationen im Betrefffeld Salesforce gespeichert werden können.
+>Salesforce erzwingt eine Beschränkung von 255 Zeichen. Wenn Ihre Aktivitätsdetails diese Zahl überschreiten, werden sie abgeschnitten, um sicherzustellen, dass die Informationen im Betrefffeld Salesforce gespeichert werden.
 
 >[!MORELIKETHIS]
 >
