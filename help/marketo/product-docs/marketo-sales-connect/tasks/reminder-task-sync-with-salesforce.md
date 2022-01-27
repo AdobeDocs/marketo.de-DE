@@ -4,9 +4,9 @@ title: Erinnern von Aufgabensynchronisierung mit Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '564'
 ht-degree: 2%
 
 ---
@@ -79,3 +79,7 @@ Folgendes geschieht, wenn Sie Sales Connect- und SFDC-Aufgaben synchronisieren:
 Nach der ersten Synchronisierung werden alle Aufgaben, die Sie in Sales Connect erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgabenliste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wurde, aktualisiert Ihre Aufgabenliste in Sales Connect.
 
 Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Synchronisierungsfeld in Ihrem [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.
+
+>[!NOTE]
+>
+>Das Betrefffeld einer Aufgabe kann in Sales Connect aktualisiert werden. Dieses Update wird im Betrefffeld Salesforce für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie die `{{activity_subject}}` dynamisches Feld in [Anpassung der Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) -Einstellungen. Umgekehrt werden alle Aktualisierungen am Betrefffeld in Salesforce _not_ Synchronisieren Sie mit dem Betreff der Erinnerungsaufgabe von Sales Connect.

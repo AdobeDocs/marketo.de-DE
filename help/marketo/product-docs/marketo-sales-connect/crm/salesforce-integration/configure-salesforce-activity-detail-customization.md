@@ -4,9 +4,9 @@ title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '675'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 1%
 
 
 Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Feld &quot;Salesforce-Aufgabe - Betreff&quot;protokolliert werden, wenn eine Aktivität/Erinnerungsaufgabe vom Typ &quot;Sales Connect&quot;mit Salesforce synchronisiert wird.
+
+>[!NOTE]
+>
+>Aktualisierungen am Betrefffeld in Sales Connect einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie die `{{activity_subject}}` dynamisches Feld in Ihrer Aktivitätsdetailanpassung.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ Mit der Funktion können die folgenden Vorteile freigeschaltet werden:
 * Administratoren können das Betrefffeld mit einer eindeutigen Kennung wie &quot;Mkto_sales&quot;taggen, damit Aktivitäten aus Sales Connect einfach identifiziert und von anderen E-Mail-Aktivitäten, Aufrufaktivitäten und Aufgaben unterschieden werden können.
 * Reduzieren Sie den Bedarf an benutzerdefinierten Aktivitätsfeldern. Salesforce erzwingt Einschränkungen bei der Anzahl der benutzerdefinierten Aktivitätsfelder, wodurch eingeschränkt werden kann, welche Daten in Berichten verwendet werden können. Durch die Verwendung dynamischer Aktivitätsfelder zum Hinzufügen von Schlüsseldaten zur Betreffzeile können Sie die Anzahl der benutzerdefinierten Aktivitätsfelder reduzieren, die Sie in Ihrer Salesforce-Instanz erstellen müssen.
 * Das Themenfeld der Aktivitäten und Aufgaben folgt einem einheitlichen Muster, das vom Sales Connect-Administrator definiert wird.
+
+>[!NOTE]
+>
+>Wenn Sie E-Mail-Antworten als Aktivitäten an Salesforce protokollieren, werden sie nicht die Einstellungen für die Anpassung der Salesforce-Aktivitätsdetails verwenden. Stattdessen protokollieren sie als &quot;Antwort: E-Mail-Betreff.&quot;
 
 ## Unterstützte dynamische Aktivitätsfelder {#activity-dynamic-fields-supported}
 
