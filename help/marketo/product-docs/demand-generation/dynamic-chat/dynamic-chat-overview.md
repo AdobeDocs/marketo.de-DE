@@ -4,9 +4,9 @@ title: Übersicht über dynamischen Chat
 hide: true
 hidefromtoc: true
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen
 >[!NOTE]
 >
 >Der dynamische Chat wird derzeit schrittweise eingeführt und ist derzeit in begrenztem Umfang verfügbar. Diese Seite wird mit den allgemeinen Verfügbarkeitsdetails (GA) aktualisiert, sobald sie verfügbar werden.
+
+>[!TIP]
+>
+>Besuch [diese Seite](https://dcweb.z20.web.core.windows.net/) um Anleitungsvideos sowie eine aufgezeichnete Demo des dynamischen Chat anzuzeigen.
 
 ## Integrationen {#integrations}
 
