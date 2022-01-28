@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
+source-git-commit: b6360de280547ba0fa486da094c467853b442621
 workflow-type: tm+mt
-source-wordcount: '8246'
+source-wordcount: '8237'
 ht-degree: 5%
 
 ---
@@ -1181,7 +1181,7 @@ ht-degree: 5%
          + [Sichtbarkeit einer Kampagne für Benutzer von Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zur Verkaufsaktivität](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Trigger und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Personal {#people}
+      + Personen {#people}
          + [Personendetailansicht](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect und Einhaltung der DSGVO](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Verwalten von Kontakten {#managing-contacts}
@@ -1199,7 +1199,6 @@ ht-degree: 5%
          + [Anmeldung zum Aktivitätsverlauf nicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Hat sich nicht bei Salesforce angemeldet](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Aufrufaufzeichnung aktivieren](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Anleitung zum Anpassen des Anrufergebnisses im Verkaufsgespräch](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Sales Phone International - Aufruf](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokale Präsenz von Verkaufs-Telefonen](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
