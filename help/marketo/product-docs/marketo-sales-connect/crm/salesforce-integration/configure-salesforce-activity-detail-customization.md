@@ -2,9 +2,9 @@
 description: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
 title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '707'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informa
 
 >[!NOTE]
 >
->Aktualisierungen am Betrefffeld in Sales Connect einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie die `{{activity_subject}}` dynamisches Feld in Ihrer Aktivitätsdetailanpassung.
+>* Aktualisierungen am Betrefffeld in Sales Connect einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie die `{{activity_subject}}` dynamisches Feld in Ihrer Aktivitätsdetailanpassung.
+>* Zeilenumbrüche werden bei der Protokollierung von Informationen in das Salesforce-Betrefffeld nicht unterstützt. Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff einer Verkaufsaufgabe aktualisiert wird.
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
