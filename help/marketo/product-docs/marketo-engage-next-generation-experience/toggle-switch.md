@@ -2,9 +2,9 @@
 description: Umschalten - Marketo Docs - Produktdokumentation
 title: Umschalten
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ Die Listenansicht der nächsten Generation der Einstiegsseite bietet Suchfilter 
 Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-4.png)
+
+## Landingpage-Detailseite {#landing-page-details-page}
+
+1. Suchen und wählen Sie in Marketo Ihre Landingpage aus.
+
+   ![](assets/toggle-switch-5.png)
+
+1. Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+
+   ![](assets/toggle-switch-6.png)
+
+Das neue Erlebnis wird geladen.
+
+![](assets/toggle-switch-7.png)
 
 ## Formulardetailseite {#form-details-page}
 
