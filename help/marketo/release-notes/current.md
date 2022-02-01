@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 2%
@@ -40,9 +40,9 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **21. Januar 2022**
 
 ## Administration {#administration}
 
-* **Formular-Validierungsregeln**: Warten Sie den Zustand Ihrer Datenbank, sodass Sie problematische oder unerwünschte E-Mail-Domains daran hindern können, Marketo Engage-Formulare zu senden. Im Bereich &quot;Globale Formularvalidierungsregel&quot;können Administratoren eine Blockierungsliste definieren oder eine vordefinierte Liste freier Verbraucherdomänen aktivieren, um sie von Formularen zu blockieren.
+* **[Formular-Validierungsregeln](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Warten Sie den Zustand Ihrer Datenbank, sodass Sie problematische oder unerwünschte E-Mail-Domains daran hindern können, Marketo Engage-Formulare zu senden. Im Bereich &quot;Globale Formularvalidierungsregel&quot;können Administratoren eine Blockierungsliste definieren oder eine vordefinierte Liste freier Verbraucherdomänen aktivieren, um sie von Formularen zu blockieren.
 
-* **Sicherheit der Landingpage-Kopfzeile**: Administratoren können Header für strikte Transport-Sicherheit und X-Frame-Optionen auf ihren Landingpage-Domänen verwalten, um starke Sicherheitsanforderungen zu erzwingen.
+* **[Sicherheit der Landingpage-Kopfzeile](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Administratoren können Header für strikte Transport-Sicherheit und X-Frame-Optionen auf ihren Landingpage-Domänen verwalten, um starke Sicherheitsanforderungen zu erzwingen.
 
 **_Veröffentlichung im gesamten Quartal_**
 
