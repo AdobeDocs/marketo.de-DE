@@ -3,9 +3,9 @@ description: Personendetailansicht - Marketo-Dokumente - Produktdokumentation
 title: Personendetailansicht
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem 
 
 PICC
 
-1. Klicken Sie auf die gewünschte Person.
+1. Wählen Sie die gewünschte Person aus.
 
 PICC
 
