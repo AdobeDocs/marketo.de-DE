@@ -4,9 +4,9 @@ title: Senden von E-Mails über Gruppen-E-Mails
 hide: true
 hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -19,39 +19,35 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
 1. Klicken Sie auf **Personen** Registerkarte.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-1.png)
 
 1. Wählen Sie die Gruppe aus, die Sie per E-Mail versenden möchten.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-2.png)
 
 1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe**.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-3.png)
 
 1. Füllen Sie Ihre E-Mail aus (oder wählen Sie eine Vorlage aus) und senden (oder planen) Sie sie.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-4.png)
 
 ## Bearbeiten einer Gruppen-E-Mail {#editing-a-group-email}
 
 1. Erstellen einer Gruppen-E-Mail mit [Schritte 1-3 oben](#sending-a-group-email).
 
-1. Wählen Sie eine Vorlage aus oder füllen Sie Ihre E-Mail aus.
+1. [Vorlage auswählen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)oder füllen Sie Ihre E-Mail aus.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-5.png)
 
 1. Nach Abschluss der E-Mail können Sie nun für jede E-Mail in der Liste eine Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-6.png)
 
-1. Wählen Sie den gewünschten Empfänger aus.
+1. Wählen Sie den gewünschten Empfänger aus und klicken Sie auf **Vorschau dynamischer Felder**. Zeigen Sie die Vorschau auf der rechten Seite an.
 
-   PICC
-
-1. Klicken **Vorschau dynamischer Felder** und sehen Sie sich die Vorschau auf der rechten Seite an.
-
-   PICC
+   ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
@@ -59,6 +55,6 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
 >[!MORELIKETHIS]
 >
->* [Massensendeoptionen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Massensendeoptionen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
