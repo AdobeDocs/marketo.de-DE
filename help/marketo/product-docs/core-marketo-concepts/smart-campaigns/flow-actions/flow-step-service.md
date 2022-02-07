@@ -3,7 +3,8 @@ description: Flow Step Service - Marketo Docs - Produktdokumentation
 title: Flussschritt-Dienst
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
+source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
 workflow-type: tm+mt
 source-wordcount: '1325'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Diese Vorabveröffentlichungsfunktion steht derzeit nur Konten zur Verfügung, die am Self-Service-Flow-Beta-Programm teilnehmen.
+>Diese Vorabveröffentlichungsfunktion ist derzeit nur für Konten verfügbar, die am Self-Service-Flow-Beta-Programm für Selbstbedienungsschritte teilnehmen.
 
 Die Flussschritte für Self-Service sind ein Framework und eine Reihe von Funktionen für das Erstellen, Veröffentlichen und Integrieren von Webdiensten in Smart-Kampagnen für Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). Eine Implementierung der Suchtabelle zum Machbarkeitsnachweis finden Sie [here](https://github.com/adobe/mkto-flow-lookup).
 
