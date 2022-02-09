@@ -4,9 +4,9 @@ title: Salesforce-Synchronisationseinstellungen
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ Für diese Funktion müssen Sie die Salesforce-Edition (Enterprise/Unlimited Edi
 
 >[!PREREQUISITES]
 >
->Salesforce und Marketo Sales müssen verbunden sein.
+>Salesforce- und Sales Insight-Aktionen müssen verknüpft sein.
 
-1. Klicken Sie in Marketo Sales auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in &quot;Sales Insight-Aktionen&quot;auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ Sobald Sie &quot;E-Mail an Salesforce (BCC)&quot; aktivieren, erhalten Sie einen
 
 >[!PREREQUISITES]
 >
->Salesforce und Marketo Sales müssen verbunden sein.
+>Salesforce- und Sales Insight-Aktionen müssen verknüpft sein.
 
 **So melden Sie Ihre E-Mails in Salesforce per E-Mail (BCC) an**
 
@@ -93,9 +93,9 @@ Wenn Sie Meine E-Mail an Salesforce unter Ihren Einstellungen nicht sehen, hat I
 1. Aktivieren Sie das Kästchen neben &quot;Aktiv&quot;.
 1. Klicken **Speichern**.
 
-## Synchronisieren von Marketo-Vertriebsaufgaben/-Erinnerungen mit Salesforce-Aufgaben {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Synchronisieren von Sales Insight-Aktionsaufgaben/-Erinnerungen mit Salesforce-Aufgaben {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Klicken Sie in Marketo Sales auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in &quot;Sales Insight-Aktionen&quot;auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/salesforce-sync-settings-10.png)
 

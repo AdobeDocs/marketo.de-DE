@@ -3,9 +3,9 @@ description: Personendetailansicht - Marketo-Dokumente - Produktdokumentation
 title: Personendetailansicht
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '288'
 ht-degree: 6%
 
 ---
@@ -18,21 +18,21 @@ Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem 
 
 1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf das **Personen** Registerkarte.
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. Wählen Sie die gewünschte Person aus.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->Überall, wo Sie den Namen einer Person sehen, können Sie darauf klicken und zu ihrer Personendetailansicht gelangen.
+   >[!TIP]
+   >
+   >Überall, wo Sie den Namen einer Person sehen, können Sie darauf klicken und zu ihrer Personendetailansicht gelangen.
 
 ## Registerkarte &quot;Info&quot; {#about-tab}
 
 Umfasst alle Kontaktinformationen der Person.
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **Kontaktkarte**
 
