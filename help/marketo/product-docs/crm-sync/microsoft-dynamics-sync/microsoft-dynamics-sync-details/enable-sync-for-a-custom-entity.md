@@ -3,16 +3,16 @@ unique-page-id: 2953384
 description: Aktivieren der Synchronisierung für eine benutzerdefinierte Entität - Marketo-Dokumente - Produktdokumentation
 title: Aktivieren der Synchronisierung für eine benutzerdefinierte Entität
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
+source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # Aktivieren der Synchronisierung für eine benutzerdefinierte Entität {#enable-sync-for-a-custom-entity}
 
-Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um in Marketo verfügbar zu sein, finden Sie hier eine Möglichkeit, die Synchronisierung dafür zu aktivieren:
+Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um in Marketo verfügbar zu sein, können Sie hier die Synchronisierung aktivieren.
 
 >[!NOTE]
 >
@@ -20,7 +20,9 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um in Market
 
 >[!NOTE]
 >
->Wenn Sie die Synchronisierung für eine benutzerdefinierte Entität aktivieren, führt Marketo eine erste Synchronisierung durch, um alle Daten für das benutzerdefinierte Objekt einzubringen.
+>* Wenn Sie die Synchronisierung für eine benutzerdefinierte Entität aktivieren, führt Marketo eine erste Synchronisierung durch, um alle Daten für das benutzerdefinierte Objekt einzubringen.
+>* Mitglieder der Marketing-Liste und der Marketing-Liste sind **nicht unterstützt** zu diesem Zeitpunkt.
+
 
 1. Navigieren Sie zu **Admin** Abschnitt.
 
@@ -61,4 +63,3 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um in Market
 1. Vergessen Sie nicht, die globale Synchronisierung erneut zu aktivieren!
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
-
