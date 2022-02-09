@@ -3,7 +3,7 @@ description: Sales Insight-Aktionen und Einhaltung der DSGVO - Marketo-Dokumente
 title: Sales Insight-Aktionen und Einhaltung der DSGVO
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 3%
@@ -101,7 +101,7 @@ Mit Sales Insight-Aktionen können auch die Autorisierungs- und Quelltypen eines
 
 Wenn Sie auf der Seite &quot;Personen&quot;einen oder mehrere Kontakte auswählen, wird rechts ein Punkt (Menü mit drei Punkten) angezeigt. Klicken Sie darauf und Sie sehen die Optionen Autorisierung und Quelle sind . Sie können die Autorisierung oder Quelle mehrerer Kontakte gleichzeitig festlegen.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 Wenn Sie auf das Autorisierungs-Modal klicken, wird ein Popup mit Dropdown-Optionen angezeigt, die mit den Optionen in der Kompatibilitätskarte übereinstimmen.
 
