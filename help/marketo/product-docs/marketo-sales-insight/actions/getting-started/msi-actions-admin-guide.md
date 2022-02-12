@@ -3,9 +3,10 @@ description: MSI Actions Admin Guide - Marketo Docs - Produktdokumentation
 title: Administratorhandbuch für MSI-Aktionen
 hide: true
 hidefromtoc: true
-source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
+exl-id: 339d518d-445b-4634-ab81-92c9d5541927
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '492'
 ht-degree: 2%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->* Vergewissern Sie sich bei Ihrem Customer Success Manager, dass MSI-Aktionen für Ihr Marketo-Konto aktiviert wurden (Wenn Sie kein CSM haben, geben Sie bitte an, [Support kontaktieren](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Vergewissern Sie sich bei Ihrem Customer Success Manager, dass MSI-Aktionen für Ihr Marketo-Konto aktiviert wurden (Wenn Sie kein CSM haben, geben Sie bitte an, [Marketo Support kontaktieren](https://nation.marketo.com/t5/support/ct-p/Support)).
 >* Ihre Marketo/Salesforce-Synchronisation muss eingerichtet sein.
 
 

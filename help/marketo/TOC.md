@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '8272'
+source-wordcount: '8282'
 ht-degree: 5%
 
 ---
@@ -1245,6 +1245,8 @@ ht-degree: 5%
                + [E-Mail-Signatur hinzufügen oder aktualisieren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Identität hinzufügen](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Administrator {#admin}
+            + [Häufig gestellte Fragen zur Datensynchronisation von Aktionen](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
+            + [Automatische Anmeldung von Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Blockierte Domänen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Neue Admin mit Marketo verbinden](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [Inhaltssperre](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1252,6 +1254,7 @@ ht-degree: 5%
             + [Einrichten des Trackings benutzerdefinierter Domänen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Benutzer und Administratoren einladen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [Anmeldeverwaltungseinstellungen](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Weitergabe-Einstellungen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Benutzerzugriffsdetails](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Kampagnen {#campaigns}
