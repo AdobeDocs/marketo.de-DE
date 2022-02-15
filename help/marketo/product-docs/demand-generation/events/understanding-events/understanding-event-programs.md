@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2949841
-description: Ereignis-Programme - Marketing-Dokumente - Produktdokumentation
-title: Ereignis-Programme
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Verstehen von Ereignisprogrammen - Marketo-Dokumente - Produktdokumentation
+title: Grundlagen zu Ereignisprogrammen
+exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Ereignis-Programm {#understanding-event-programs}
+# Grundlagen zu Ereignisprogrammen {#understanding-event-programs}
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-## Übersicht {#overview}
+## Überblick {#overview}
 
-Ein Ereignis-Programm ist eine Art Programm, das zur Automatisierung Ihrer Offline- oder Online-Ereignis verwendet werden kann. Ein Ereignis-Programm ist alles, was zu einem bestimmten Zeitpunkt und zu einem bestimmten Zeitpunkt besucht wird.
+Ein Ereignisprogramm ist ein Programm, mit dem Sie Ihre Offline- oder Online-Ereignisse automatisieren können. Stellen Sie sich ein Veranstaltungsprogramm als alles vor, was an einem bestimmten Datum und zu einer bestimmten Uhrzeit teilgenommen hat.
 
 >[!NOTE]
 >
@@ -27,16 +26,15 @@ Ein Ereignis-Programm ist eine Art Programm, das zur Automatisierung Ihrer Offli
 >
 >* Webinare
 >* Vertragsparteien
->* Diashows
->* Sitzungen
+>* Messen
+>* Meetings
 
 
-Ereignis können automatisch eine Verbindung zu Ihrem [Webinar-Provider](launchpoint-event-partners.md) herstellen und eine [iPad-Check-in-App](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) synchronisieren.
+Ereignisse können automatisch eine Verbindung zu Ihrer [Webinar-Anbieter](launchpoint-event-partners.md) sowie Synchronisierung mit [iPad-Eincheckanwendung](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
->* [Neues Ereignis-Programm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
-   >
-   >
-* [LaunchPoint Ereignis Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
+>* [Neues Ereignisprogramm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>
+>* [LaunchPoint-Ereignispartner](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
 

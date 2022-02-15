@@ -4,9 +4,9 @@ title: Häufig gestellte Fragen zur Datensynchronisation von Aktionen
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 3%
 
 ---
@@ -37,7 +37,7 @@ Leads und Kontakte, denen ein Vertriebseigentümer zugewiesen ist, werden in Ver
 
 Sie können sehen, ob ein Lead/Kontakt in Salesforce über einen Verkaufsinhaber verfügt, indem Sie sich das Standardeigentümerfeld ansehen.
 
-Der Vertriebsinhaber muss nicht der Marketo-Synchronisierungsbenutzer oder ein bestimmter Salesforce- oder Vertriebsbenutzer sein. Solange ein Benutzer im Standardeigentümerfeld aufgeführt ist, schließen wir den Lead/Kontakt ein, der mit Verkaufsaktionen synchronisiert werden soll, und fügen ihn in alle Aktualisierungen der synchronisierten Felder ein, die zu diesem Lead vorgenommen werden sollen.
+Der Vertriebsinhaber muss nicht der Marketo-Synchronisierungsbenutzer oder ein bestimmter Salesforce- oder Vertriebsbenutzer sein. Alles, was wir benötigen, ist, dass ein Benutzer im Feld Lead-Eigentümer und Kontaktbesitzer in Salesforce aufgelistet ist, damit wir ihn als Verkaufsleiter identifizieren und mit Sales Insight-Aktionen synchronisieren können. Sämtliche Aktualisierungen der Felder, mit denen wir synchronisieren, werden ebenfalls in Sales Insight-Aktionen erkannt und aktualisiert.
 
 ## Woher werden die im Smart Grid von Sales Insight angezeigten Aktivitätsdaten abgerufen? {#where-does-the-activity-data-get-sourced-from}
 
