@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Registerkarte "Konfiguration von Marketo Sales Insight"in Salesforce - Marketo Docs - Produktdokumentation
 title: Marketo Sales Insight-Konfigurationsregisterkarte in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht profilspezifisch.
 Wenn Sie sich dafür entscheiden, werden alle Ihre Konfigurationen in SFDC gelöscht und sie können nicht wiederhergestellt werden. Sie müssen alles erneut konfigurieren.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
+>[!IMPORTANT]
+>
+>Aktivieren Sie das Kontrollkästchen &quot;MSI-Aktionen aktivieren&quot;, es sei denn, Sie verwenden die Funktionen von Sales Insights-Aktionen .
 
 >[!MORELIKETHIS]
 >
