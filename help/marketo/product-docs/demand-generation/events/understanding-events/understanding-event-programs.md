@@ -3,7 +3,7 @@ unique-page-id: 2949841
 description: Verstehen von Ereignisprogrammen - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu Ereignisprogrammen
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 10%
@@ -30,7 +30,7 @@ Ein Ereignisprogramm ist ein Programm, mit dem Sie Ihre Offline- oder Online-Ere
 >* Meetings
 
 
-Ereignisse können automatisch eine Verbindung zu Ihrer [Webinar-Anbieter](launchpoint-event-partners.md) sowie Synchronisierung mit [iPad-Eincheckanwendung](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Ereignisse können automatisch eine Verbindung zu Ihrer [Webinar-Anbieter](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) sowie Synchronisierung mit [iPad-Eincheckanwendung](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
