@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 88bbace33ed01a0c2632751b67b4a38a59222394
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8281'
 ht-degree: 5%
 
 ---
@@ -595,7 +595,7 @@ ht-degree: 5%
             + [Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [Neues Ereignisprogramm erstellen](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
             + [Bearbeiten eines Ereigniskanals](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-            + [LaunchPoint-Ereignispartner](product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
+            + [Veranstaltungspartner](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [Grundlagen zu Ereignisprogrammen](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
          + Ereignis erstellen {#create-an-event}
             + [Erstellen eines Ereignisses mit Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)

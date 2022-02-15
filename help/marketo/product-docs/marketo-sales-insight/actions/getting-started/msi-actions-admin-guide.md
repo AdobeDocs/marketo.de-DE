@@ -4,10 +4,10 @@ title: Administratorhandbuch für MSI-Aktionen
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 2%
+source-wordcount: '556'
+ht-degree: 1%
 
 ---
 
@@ -110,15 +110,17 @@ Wenn Sie bereits bei Salesforce angemeldet sind, werden Sie angemeldet sein. Ist
 
 ## Datensynchronisation starten {#initiate-data-sync}
 
+Die Datenzusammenführungsfeldsynchronisierung für Sales Insight-Aktionen ermöglicht es dem System, personenbezogene Daten aus Ihrer Marketo Engage-Datenbank in Ihre Sales Insight-Aktionsdatenbank zu übertragen, Ihre Personendaten auf dem neuesten Stand zu halten und sicherzustellen, dass Aktivitäten in Marketo und Salesforce in den richtigen Datensätzen protokolliert werden.
+
 1. Klicken Sie in Marketo auf **Admin**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klicken Sie auf Sales Insight.
+1. Klicken **Sales Insight**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klicken Sie auf die Registerkarte Aktionskonfiguration . Klicken Sie auf der Karte Aktionsfeld-Synchronisierung auf **Synchronisieren**.
+1. Klicken Sie auf **Aktionskonfiguration** Registerkarte. Klicken Sie auf der Karte Aktionsfeld-Synchronisierung auf **Synchronisieren**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Wenn Sie bereits bei Salesforce angemeldet sind, werden Sie angemeldet sein. Ist
    ![](assets/msi-actions-admin-guide-13.png)
 
 Personendatensätze, die in Marketo und Salesforce vorhanden sind, werden mit Ihrem Marketo Sales Apps-Konto synchronisiert.
+
+>[!NOTE]
+>
+>Weitere Informationen dazu, wie Personen und Aktivitätsdaten zwischen Sales Insight Actions, Marketo und Salesforce synchronisiert werden, finden Sie unter [Hier klicken](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Einladen einzelner Benutzer zu MSI-Aktionen {#invite-individual-users-to-msi-actions}
 

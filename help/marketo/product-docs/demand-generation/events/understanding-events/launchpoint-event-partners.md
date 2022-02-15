@@ -1,26 +1,25 @@
 ---
 unique-page-id: 2949777
-description: LaunchPoint Ereignis Partners - Marketing Docs - Produktdokumentation
-title: LaunchPoint Ereignis Partners
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Ereignispartner - Marketo-Dokumente - Produktdokumentation
+title: Veranstaltungspartner
+exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 1%
+source-wordcount: '83'
+ht-degree: 12%
 
 ---
 
+# Veranstaltungspartner {#event-partners}
 
-# LaunchPoint Ereignis Partners {#launchpoint-event-partners}
+Verbinden Sie Marketo mit einem Ereignispartner , um Ihre Online-Ereignisse zu automatisieren. Wenn Sie eine Verbindung herstellen, haben Sie folgende Möglichkeiten:
 
-Verbinden Sie Marketo mit einem LaunchPoint Ereignis Partner, um Ihre Online-Ereignis zu automatisieren. Wenn Sie eine Verbindung herstellen, können Sie:
+* Webinar-Ereignisse verwalten
+* Push-Registrierungsinformationen, die auf einer Marketo-Landingpage erfasst werden, an den konfigurierten Partner für Ereignisse
+* Besucherinformationen automatisch in ein Marketo-Ereignis ziehen
+* Erfassen des Status der Personen als Programmmitglieder
 
-* Verwalten Ihrer Webinar-Ereignisse
-* Push-Registrierungsinformationen, die auf einer Marketing-Landingpage erfasst wurden, an den konfigurierten LaunchPoint-Ereignis-Partner
-* Ziehen Sie die Anweseninformationen automatisch in ein Marketing-Ereignis
-* Erfassen des Status der Personen als Mitglieder des Programms
-
-Informationen zur Integration Ihrer Online-Marketing-Ereignis in Ihren LaunchPoint-Ereignis-Partner finden Sie in den Anweisungen:
+Weitere Informationen finden Sie in den Anweisungen zur Integration Ihrer Online-Marketo-Ereignisse in Ihren -Veranstaltungspartner:
 
 * [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
