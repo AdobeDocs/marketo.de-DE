@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: Grundlegendes zur Programmmitgliedschaft - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zur Programmmitgliedschaft
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 1%
@@ -31,7 +31,7 @@ ht-degree: 1%
    1. Der erste Status des Fortschritts wird automatisch von Person übernommen.
 
 1. Sie verwenden die [Ändern des Programmstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) Flussschritt.
-1. Eine Person registriert oder besucht eine [Webinar, das mit einem Veranstaltungsprogramm synchronisiert wird](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. Eine Person registriert oder besucht eine [Webinar, das mit einem Veranstaltungsprogramm synchronisiert wird](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. Eine Person ist [mit der Marketo iPad-Eincheckanwendung erstellt wurde](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die [mit dem Programm synchronisiert](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
