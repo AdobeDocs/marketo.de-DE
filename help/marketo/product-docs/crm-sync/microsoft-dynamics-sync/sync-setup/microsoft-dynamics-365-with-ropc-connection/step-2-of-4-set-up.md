@@ -1,14 +1,15 @@
 ---
-description: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection - Marketo Docs - Produktdokumentation'
-title: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection'
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: 'Schritt 2 von 4: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection - Marketo Docs - Produktdokumentation'
+title: 'Schritt 2 von 4: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection'
+exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# Schritt 2 von 3: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# Schritt 2 von 4: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Beginnen wir mit der Erstellung eines Benutzerkontos.
 
@@ -45,6 +46,10 @@ Beginnen wir mit der Erstellung eines Benutzerkontos.
 1. Eine weitere neue Registerkarte wird geöffnet. Klicken **Benutzer hinzufügen**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >Der Synchronisierungsbenutzer sollte über Leseberechtigungen für die Marketo-Konfiguration verfügen.
 
 1. Geben Sie alle Ihre Informationen ein. Wenn Sie fertig sind, klicken Sie auf **Hinzufügen**.
 
@@ -126,12 +131,6 @@ Fast da! Wir haben nur noch die Möglichkeit, Marketo Solution über den neu ers
 
    ![](assets/nineteen.png)
 
-## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
-
-* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, [Einrichten eines benutzerdefinierten Synchronisierungsfilters](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) jetzt.
-* Führen Sie die [Überprüfen der Synchronisierung mit Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) Prozess. Es wird überprüft, ob Ihre ersten Setups ordnungsgemäß durchgeführt wurden.
-* Melden Sie sich im Microsoft Dynamics CRM beim Marketo Sync User an.
-
-   >[!MORELIKETHIS]
-   >
-   >[Schritt 3 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[!MORELIKETHIS]
+>
+>[Schritt 3 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
