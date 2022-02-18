@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Verwenden interessanter Momente - Marketo Docs - Produktdokumentation
 title: Verwenden interessanter Momente
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ Sie können einen interessanten Moment abonnieren, indem Sie entweder auf der Re
 1. Wählen Sie die E-Mail-Adresse(n) aus, an die Sie die Warnungen senden möchten (Sie/die Teammitglieder)
 
 1. Klicken **Abonnieren**.
+
+>[!NOTE]
+>
+>Beim Abonnieren von interessanten Ereignistypen oder -beschreibungen erhält der Benutzer E-Mail-Benachrichtigungen für Personen (Leads/Kontakte), die ihm gehören, wenn er einen interessanten Moment Trigger, der mit diesem Typ oder dieser Beschreibung übereinstimmt.
 
 ![](assets/using-interesting-moments-8.png)
