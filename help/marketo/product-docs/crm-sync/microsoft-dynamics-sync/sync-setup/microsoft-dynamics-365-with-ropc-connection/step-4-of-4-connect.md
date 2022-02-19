@@ -2,9 +2,9 @@
 description: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit Resource Owner Password Control Connection - Marketo Docs - Produktdokumentation'
 title: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Resource Owner Password Control Connection'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '460'
 ht-degree: 1%
 
 ---
@@ -54,7 +54,7 @@ Dies ist der letzte Schritt der Synchronisierung. Sie haben es fast geschafft!
    >
    >Bevor Sie neue Anmeldedaten eingeben, können Sie [Validieren Sie sie hier .](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
-1. Geben Sie die **Benutzername**, **Passwort**, **Client-ID**, **Client Secret** und Microsoft Dynamics **URL**. Klicken **Speichern** wann geschehen.
+1. Geben Sie die **Benutzername**, **Passwort**, Microsoft Dynamics **URL**, **Client-ID** und **Client Secret**. Klicken **Speichern** wann geschehen.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -111,3 +111,7 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wähl
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
 Exzellente Arbeit!
+
+>[!MORELIKETHIS]
+>
+>[Authentifizierungsmethode für Dynamics neu konfigurieren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
