@@ -4,9 +4,9 @@ title: Konfiguration von MSI-Aktionen in Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: daff9a98605b8a5c89c538f711fecb5b7a382f84
+source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Installieren/Aktualisieren Sie auf die [MSI-Aktionspaket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Ihrer Salesforce-Instanz.
+>* [Installieren]() oder [Upgrade]() Sales Insight-Paket in Ihrer Salesforce-Instanz Installieren/Aktualisieren auf [MSI-Aktionspaket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Ihrer Salesforce-Instanz.
+>* [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited]()
+
+
+## Neue Remote-Site in Salesforce hinzufügen {#add-new-remote-site-in-salesforce}
+
+1. Klicken Sie in Salesforce auf **Einrichtung**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+
+1. Suchen Sie nach &quot;Remote-Site&quot;und wählen Sie **Remote Site Settings**.
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+
+1. Klicken **Neue Remote-Site**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+
+1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoSalesInsight&quot;). Geben Sie die Remote-Site-URL ein (https://ims-na1-stg1.adobelogin.com) und klicken Sie auf **Speichern**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 ## Aktivieren von MSI-Aktionen im gesamten CRM {#enabling-msi-actions-across-the-crm}
 
 1. Klicken Sie in Salesforce auf die **Marketo Sales Insight-Konfiguration** Registerkarte.
 
-   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
@@ -29,11 +48,11 @@ ht-degree: 0%
 
 1. Wählen Sie die **MSI-Aktionen aktivieren** aktivieren.
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
 1. Geben Sie den geheimen API-Schlüssel ein.
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
@@ -51,11 +70,11 @@ Dadurch werden automatisch alle im Artikel Funktionsübersicht beschriebenen MSI
 
 1. Sie können im nächsten Abschnitt Verkaufskampagnen und/oder die Registerkarte Aufgabe deaktivieren. Dies gilt für Lead-, Kontakt-, Konto- und Opportunity-Bereiche.
 
-   ![](assets/msi-actions-configuration-in-salesforce-4.png)
+   ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
 1. Sie können MSI-Aktionen deaktivieren, indem Sie die entsprechenden Funktionen unter Aktionseinstellungen deaktivieren.
 
-   ![](assets/msi-actions-configuration-in-salesforce-5.png)
+   ![](assets/msi-actions-configuration-in-salesforce-9.png)
 
 >[!NOTE]
 >
