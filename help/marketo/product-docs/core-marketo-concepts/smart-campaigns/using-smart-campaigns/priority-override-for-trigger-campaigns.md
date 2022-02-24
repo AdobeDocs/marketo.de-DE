@@ -3,7 +3,7 @@ description: Prioritätsüberschreibungen für Trigger-Kampagnen - Marketo-Dokum
 title: Prioritätsüberschreibungen für Trigger-Kampagnen
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Administratoren können die von Marketo festgelegte Priorität für Trigger-Kamp
 
 ## Gewähren der Priorität Zugriff überschreiben {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >Nur Administratoren oder Benutzer mit Administratorrechten sollten die Kampagnenpriorität haben, den Zugriff außer Kraft zu setzen.
 

@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Beheben von Synchronisierungsproblemen bei der Dynamics-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: Synchronisierungsprobleme bei der Dynamics-Überprüfung beheben
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '454'
 ht-degree: 7%
 
 ---
@@ -44,7 +44,7 @@ Wenn Sie ![x](assets/delete.png) überprüfen Sie hier, ob Ihr Benutzername und 
 
 ## Der Synchronisierungsbenutzer wird der Benutzerrolle &quot;Marketo Sync User&quot;zugewiesen. {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Wenn Sie ![x](assets/delete.png) Dies könnte einer der beiden folgenden Gründe sein.
+Wenn Sie ![x](assets/delete.png) hier könnte es eines der drei folgenden Probleme sein.
 
 **Option 1: Überprüfen, ob die Benutzerrolle &quot;Marketo Sync User&quot;in Microsoft Dynamics aktiviert ist**:
 
@@ -75,6 +75,10 @@ Wenn Sie ![x](assets/delete.png) Dies könnte einer der beiden folgenden Gründe
 **Option 2: Genehmigung bestätigen**:
 
 1. Überprüfen Sie die [Erteilen der Zustimmung für die Kunden-ID und App-Registrierung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) , um zu bestätigen, dass die App über die Admin-Zustimmung zum Aufrufen von APIs verfügt.
+
+**Option 3: Benutzer synchronisieren**:
+
+1. Stellen Sie sicher, dass der Synchronisierungsbenutzer zur Marketo-Konfiguration hinzugefügt wird.
 
 ## Lösung von Marketo ist ordnungsgemäß installiert {#marketo-solution-is-properly-installed}
 
