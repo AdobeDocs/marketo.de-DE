@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '8293'
+source-wordcount: '8320'
 ht-degree: 5%
 
 ---
@@ -110,22 +110,22 @@ ht-degree: 5%
          + [Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Webhook erstellen](product-docs/administration/additional-integrations/create-a-webhook.md)
          + [Erstellen einer Zulassungsliste für IP-basierten API-Zugriff](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
-         + [Download GoogleAdwords Activity Log](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
+         + [GoogleAdwords-Aktivitätsprotokoll herunterladen](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [Benutzeranmeldung auf SSO beschränken](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
       + Audit-Trail {#audit-trail}
-         + [Audit Trail Overview](product-docs/administration/audit-trail/audit-trail-overview.md)
-         + [Change Details in Audit Trail](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+         + [Audit-Protokoll - Überblick](product-docs/administration/audit-trail/audit-trail-overview.md)
+         + [Details im Audit-Protokoll ändern](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
          + [Audit-Protokoll aktivieren](product-docs/administration/audit-trail/enable-audit-trail.md)
-         + [Filtering in Audit Trail](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-         + [User Login History](product-docs/administration/audit-trail/user-login-history.md)
+         + [Filtern im Audit-Protokoll](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+         + [Anmeldeverlauf für Benutzer](product-docs/administration/audit-trail/user-login-history.md)
       + E-Mail-Einrichtung {#email-setup}
          + Hinzufügen mehrerer Branding-Domänen {#add-multiple-branding-domains}
             + [Hinzufügen einer zusätzlichen Branding-Domäne mit Arbeitsbereichen](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)
             + [Hinzufügen einer zusätzlichen Branding-Domäne](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
             + [Eine Branding-Domäne löschen](product-docs/administration/email-setup/add-multiple-branding-domains/delete-a-branding-domain.md)
             + [Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
-            + [Edit Your Default Branding Domain](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
-            + [Overwrite Primary Domain for Emails](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
+            + [Bearbeiten Ihrer Standard-Branding-Domäne](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
+            + [Primäre Domäne für E-Mails überschreiben](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
          + [Ändern von benutzerdefinierten Object Retrieval Limits in Velocity-Skripten](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
          + [Standard von E-Mail und Titel ändern](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
          + [Bearbeiten der Abmelde-Nachricht](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
@@ -313,11 +313,11 @@ ht-degree: 5%
             + [Person aus SFDC löschen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
             + [Aus SFDC-Kampagne entfernen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
             + [Person mit SFDC synchronisieren](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-         + Smart Campaign Data {#smart-campaign-data}
-            + [Export Smart Campaign Results to Excel](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
+         + Smart-Campaign-Daten {#smart-campaign-data}
+            + [Exportieren von Ergebnissen intelligenter Kampagnen nach Excel](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
             + [Filtern von Ergebnissen intelligenter Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
             + [Anzeigen blockierter Personen in einer Smart-Kampagne](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
-            + [View Qualified People in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
+            + [Qualifizierte Personen in einer Smart-Kampagne anzeigen](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
             + [Mitglieder von Smart Campaign anzeigen](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
             + [Ergebnisse intelligenter Kampagnen anzeigen](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
       + Smart-Listen und statische Listen {#smart-lists-and-static-lists}
@@ -325,9 +325,9 @@ ht-degree: 5%
          + Erstellen einer Smart-Liste {#creating-a-smart-list}
             + [Best Practices für Smart-Listen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.md)
             + [Erstellen einer Smart-Liste](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-            + [Define Smart List Filters](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+            + [Definieren von Smart-List-Filtern](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
             + [Suchen und Hinzufügen von Filtern zu einer Smart-Liste](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-            + [Smart List Filter Operators Glossary](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)
+            + [Glossar zu Operatoren für intelligente Listenfilter](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)
          + Verwenden intelligenter Listen {#using-smart-lists}
             + [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
             + [Mehrere Werte zu einem Smart-Listenfilter hinzufügen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)
@@ -351,11 +351,11 @@ ht-degree: 5%
             + [Filtern von Aktivitätstypen im Aktivitätsprotokoll einer Person](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)
             + [Alle Personen in einer Umsatzphase suchen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-all-people-in-a-revenue-stage.md)
             + [Duplizierte Personen suchen und zusammenführen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
-            + [Find Duplicate People with Custom Logic](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md)
+            + [Duplizierte Personen mit benutzerdefinierter Logik suchen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md)
             + [Suchen Sie das Aktivitätsprotokoll für eine Person](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)
             + [Grundlegendes zu anonymen Aktivitäten und Personen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)
             + [Verwenden von Listenmitgliedern in einer Smart-Liste](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/use-members-of-list-in-a-smart-list.md)
-            + [Use Quick Find in a List or Smart List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/use-quick-find-in-a-list-or-smart-list.md)
+            + [Schnellsuche in Listen oder Smart-Listen verwenden](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/use-quick-find-in-a-list-or-smart-list.md)
             + [Verwenden der Seite &quot;Personendetails&quot;](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
          + Statische Listen {#static-lists}
             + [Erstellen einer statischen Liste](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
@@ -774,14 +774,14 @@ ht-degree: 5%
                + [Vorlage 9F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9f.md)
                + [Vorlage 10A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10a.md)
                + [Vorlage 10B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10b.md)
-               + [Template 10C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10c.md)
+               + [Vorlage 10C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10c.md)
                + [Vorlage 10D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10d.md)
-               + [Template 10E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10e.md)
+               + [Vorlage 10E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10e.md)
                + [Vorlage 10F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10f.md)
                + [Vorlage 11A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11a.md)
                + [Vorlage 11B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11b.md)
-               + [Template 11C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11c.md)
-               + [Template 11D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11d.md)
+               + [Vorlage 11C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11c.md)
+               + [Vorlage 11D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11d.md)
                + [Vorlage 11E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11e.md)
                + [Vorlage 11F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11f.md)
                + [Vorlage 12A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12a.md)
@@ -969,30 +969,30 @@ ht-degree: 5%
             + [Anzeigen des Dashboards &quot;E-Mail-Programm&quot;](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
          + Verwalten von Personen in E-Mail-Programmen {#managing-people-in-email-programs}
             + [Definieren einer Zielgruppe durch Importieren einer Liste](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-            + [Define an Audience with a Smart List](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+            + [Definieren einer Zielgruppe mit einer Smart-Liste](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [Importieren einer Liste nicht lateinischer Zeichen](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
       + Allgemein {#general}
          + Grundlagen zum E-Mail-Editor {#understanding-the-email-editor}
-            + [Understanding Email Event Logging](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
+            + [Informationen zur E-Mail-Ereignisprotokollierung](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Verwenden des Rich-Text-Editors](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Creating an Email {#creating-an-email}
+         + E-Mail erstellen {#creating-an-email}
             + [E-Mail genehmigen](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Erstellen einer E-Mail &quot;Nur Text&quot;](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
             + [E-Mail erstellen](product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-            + [Edit the Text Version of an Email](product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
+            + [Bearbeiten der Textversion einer E-Mail](product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
             + [E-Mail-Header bearbeiten](product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
-            + [Send a Sample Email](product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
+            + [Senden einer Beispiel-E-Mail](product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
             + [Rückgängig im E-Mail-Editor](product-docs/email-marketing/general/creating-an-email/undo-in-the-email-editor.md)
          + Email Editor 2 {#email-editor-2}
             + [Hinzufügen von Modulen zu Ihrer E-Mail](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
             + [E-Mail-Vorlage erstellen](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
-            + [Edit Elements in an Email](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+            + [Elemente in einer E-Mail bearbeiten](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
             + [Übersicht über Email Editor v2.0](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
-            + [Email Template Picker Overview](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
+            + [Übersicht über die E-Mail-Vorlagenauswahl](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
             + [Syntax der E-Mail-Vorlage](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
-            + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
-         + Functions in the Editor {#functions-in-the-editor}
-            + [Forward to a Friend Link in Emails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
+            + [Übergang zum E-Mail-Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
+         + Funktionen im Editor {#functions-in-the-editor}
+            + [Weiterleiten an einen Freunde-Link in E-Mails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [Kalenderereignisse (.ics) in eine E-Mail einschließen](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [E-Mail-Betrieb](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
             + [Vorschau einer E-Mail mit dynamischem Inhalt](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
@@ -1401,6 +1401,13 @@ ht-degree: 5%
       + [Sales Insight für nicht native Salesforce-Integrationen](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Aktivieren von Rollen für Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+      + [Erwartetes Verhalten](product-docs/marketo-sky/expected-behavior.md)
+      + [Erste Schritte mit vorausschauenden Zielgruppen](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+      + [Modellkonsistenz und Datenvalidierung](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [Vorhersagefilter](product-docs/marketo-sky/predictive-filters.md)
+      + [Festlegen einer Ereignisbegrenzung](product-docs/marketo-sky/setting-an-event-cap.md)
+      + [Festlegen von Ereigniszielen](product-docs/marketo-sky/setting-event-goals.md)
+      + [Verstehen des Zieltrackings und der geplanten Registrierungen](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobiles Marketing {#mobile-marketing}
       + Administrator {#admin}
          + [Mobile App hinzufügen](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
@@ -1414,7 +1421,7 @@ ht-degree: 5%
          + [Push-Konfiguration überprüfen](product-docs/mobile-marketing/admin/verify-push-configuration.md)
       + In-App-Nachrichten {#in-app-messages}
          + [Grundlegendes zu In-App-Nachrichten](product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-         + Creating In-App Messages {#creating-in-app-messages}
+         + Erstellen von In-App-Nachrichten {#creating-in-app-messages}
             + [In-App-Nachricht erstellen](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
             + [In-App-Nachrichtenbilder hinzufügen](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
             + [Layout für Ihre In-App-Nachricht auswählen](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
@@ -1442,8 +1449,8 @@ ht-degree: 5%
       + Videos für SMS-Nachrichten {#vibes-sms-messages}
          + [Erstellen einer Video-SMS-Nachricht](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
          + [Flussschritt für SMS hinzufügen](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
-         + [The SMS Message Dashboard](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
-         + [Use Vibes SMS Messages in Smart List Triggers and Filters](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [Das Dashboard für SMS-Nachrichten](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
+         + [Verwenden von Screens-SMS-Nachrichten in Triggern und Filtern mit Smart-Liste](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalisierung {#personalization}
       + Segmentierung und Snippets {#segmentation-and-snippets}
          + Segmentierung {#segmentation}
