@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Programm importieren - Marketo-Dokumente - Produktdokumentation
 title: Programm importieren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,8 @@ Programme verwenden externe Assets wie E-Mail-Vorlagen, Landingpage-Vorlagen, Bi
 
 **E-Mail-/Landingpage-Vorlagen:** E-Mail-/Landingpage-Vorlagen werden in Design Studio importiert. Sie können Konfliktregeln verwenden, um das Verhalten zu konfigurieren, wenn eine Vorlage mit demselben Namen vorhanden ist. Unter Verwendung der Standardregel wird eine Zahl an eine Vorlage angehängt, wenn eine mit demselben Namen vorhanden ist. Wenn Sie beispielsweise bereits über eine Vorlage mit dem Namen &quot;Standardvorlage&quot;verfügen, erhält die neue Vorlage den Namen &quot;Standardvorlage 1&quot;.
 
+**Landing Pages/Forms:** Wenn ein Formular oder eine Landingpage mit demselben Namen in Design Studio vorhanden ist, werden sie dennoch importiert, jedoch mit einer Nummer, die an ihren Namen angehängt wird (z. B.: Landingpage 1).
+
 **Bilder:** Bilder, die von Landingpages verwendet werden, werden in das Design-Studio importiert, es sei denn, es existiert eines mit demselben Namen.
 
 **Token:** Token, die außerhalb eines Programms liegen, werden während des Importvorgangs in lokale Token konvertiert.
@@ -96,8 +98,6 @@ Programme verwenden externe Assets wie E-Mail-Vorlagen, Landingpage-Vorlagen, Bi
 >Bildtyp Meine Token werden für Programmimporte nicht unterstützt. Wenn ein Programm mit Bildtyp meine Token importiert wird, **no** Token werden durchkommen.
 
 **Programm-Tags:** Sie können Konfliktregeln verwenden, um zu steuern, wie Programm-Tags behandelt werden, die im Zielkonto nicht vorhanden sind. Durch die Verwendung der Standardregel werden die Programm-Tags erstellt, oder Sie können die Tags ignorieren.
-
-**Forms:** Externe Formulare werden automatisch in das Design-Studio importiert, es sei denn, es existiert ein Formular mit demselben Namen.
 
 >[!CAUTION]
 >
