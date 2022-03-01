@@ -3,10 +3,10 @@ unique-page-id: 10095429
 description: Beheben von Synchronisierungsproblemen bei der Dynamics-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: Synchronisierungsprobleme bei der Dynamics-Überprüfung beheben
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 7%
+source-wordcount: '493'
+ht-degree: 6%
 
 ---
 
@@ -40,7 +40,7 @@ Wenn Sie ![x](assets/delete.png) überprüfen Sie hier, ob die URL gültig ist. 
 
 ## Benutzername und Passwort sind gültig {#username-and-password-are-valid}
 
-Wenn Sie ![x](assets/delete.png) überprüfen Sie hier, ob Ihr Benutzername und Kennwort für Microsoft Dynamics gültig sind.
+Wenn Sie ![x](assets/delete.png) Überprüfen Sie hier, ob Ihre Microsoft Dynamics-Anmeldeinformationen gültig sind. Für die Web-API-S2S-Authentifizierung muss der Benutzername in Marketo mit dem [E-Mail-Adresse](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) des Anwendungsbenutzers im CRM. Bei anderen Typen sollte sie mit dem Benutzernamen für den Synchronisierungsbenutzer übereinstimmen.
 
 ## Der Synchronisierungsbenutzer wird der Benutzerrolle &quot;Marketo Sync User&quot;zugewiesen. {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 

@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 'Schritt 3: Verbinden der Marketo-Lösung mit der Server-Verbindung - Marketo Docs - Produktdokumentation'
 title: 'Schritt 3: Verbinden der Marketo-Lösung mit der Server-zu-Server-Verbindung'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '451'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
    >[!NOTE]
    >
-   >Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer im CRM übereinstimmen. Das Format kann `user@domain.com` oder DOMAIN\user.
+   >Der Benutzername in Marketo muss mit dem [E-Mail-Adresse](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) des Anwendungsbenutzers im CRM. Das Format kann `user@domain.com` oder DOMAIN\user.
 
 ## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 
