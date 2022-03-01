@@ -1,0 +1,53 @@
+---
+description: Massenaktionen für Personen - Marketo-Dokumente - Produktdokumentation
+title: Massenaktionen für Personen
+hide: true
+hidefromtoc: true
+source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+workflow-type: tm+mt
+source-wordcount: '141'
+ht-degree: 5%
+
+---
+
+# Massenaktionen für Personen {#bulk-actions-on-people}
+
+Es gibt ein paar Dinge, die Sie mit Ihren Kontakten stapelweise machen können, um Zeit zu sparen.
+
+Der erste Schritt für alle verfügbaren Massenaktionen besteht darin, zwei oder mehr Kontakte auszuwählen und auf die Daten (drei vertikale Punkte) zu klicken.
+
+![](assets/bulk-actions-on-people-1.png)
+
+## Personen zur Gruppe hinzufügen {#add-people-to-group}
+
+Mehrere Personen gleichzeitig zu einer Gruppe hinzufügen.
+
+![](assets/bulk-actions-on-people-2.png)
+
+## Quelle {#source}
+
+Jedem Kontakt, der in die Datenbank gelangt, wird automatisch eine Quelle zugewiesen. Verwenden Sie diesen Schritt, um diese Quelle zu aktualisieren.
+
+![](assets/bulk-actions-on-people-3.png)
+
+>[!NOTE]
+>
+>Quellen können nicht angepasst werden.
+
+## Autorisierung {#authorization}
+
+In Übereinstimmung mit [DSGVO](https://eugdpr.org/)verwenden, um anzugeben, wie Sie die Berechtigung zur Interaktion mit diesen Kontakten erhalten haben.
+
+![](assets/bulk-actions-on-people-4.png)
+
+## Abbestellen {#unsubscribe}
+
+Führen Sie eine Massenabmeldung für Kontakte durch, die keine Korrespondenz mehr von Ihnen erhalten möchten.
+
+![](assets/bulk-actions-on-people-5.png)
+
+## Löschen {#delete}
+
+Massenlöschung von Kontakten. Vollständige Schritte finden Sie [here](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
+
+![](assets/bulk-actions-on-people-6.png)
