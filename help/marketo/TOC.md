@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
 workflow-type: tm+mt
 source-wordcount: '8334'
 ht-degree: 5%
@@ -109,7 +109,7 @@ ht-degree: 5%
          + [BrightTALK mit Marketo verbinden](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Webhook erstellen](product-docs/administration/additional-integrations/create-a-webhook.md)
-         + [Create an Allowlist for IP-Based API Access](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
+         + [Erstellen einer Zulassungsliste für IP-basierten API-Zugriff](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [GoogleAdwords-Aktivitätsprotokoll herunterladen](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [Benutzeranmeldung auf SSO beschränken](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
       + Audit-Trail {#audit-trail}
@@ -350,7 +350,7 @@ ht-degree: 5%
             + [Personen aus einer Liste oder Smart-Liste in Excel exportieren](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
             + [Filtern von Aktivitätstypen im Aktivitätsprotokoll einer Person](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)
             + [Alle Personen in einer Umsatzphase suchen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-all-people-in-a-revenue-stage.md)
-            + [Find and Merge Duplicate People](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
+            + [Duplizierte Personen suchen und zusammenführen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
             + [Duplizierte Personen mit benutzerdefinierter Logik suchen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md)
             + [Suchen Sie das Aktivitätsprotokoll für eine Person](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)
             + [Grundlegendes zu anonymen Aktivitäten und Personen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)
@@ -780,10 +780,10 @@ ht-degree: 5%
                + [Vorlage 10F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10f.md)
                + [Vorlage 11A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11a.md)
                + [Vorlage 11B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11b.md)
-               + [Template 11C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11c.md)
+               + [Vorlage 11C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11c.md)
                + [Vorlage 11D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11d.md)
                + [Vorlage 11E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11e.md)
-               + [Template 11F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11f.md)
+               + [Vorlage 11F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11f.md)
                + [Vorlage 12A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12a.md)
                + [Vorlage 12B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12b.md)
                + [Vorlage 12C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12c.md)
@@ -965,7 +965,7 @@ ht-degree: 5%
             + [E-Mail-Leistungsbericht](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [Exportieren des E-Mail-Programm-Dashboards in Excel](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [Verwenden des Dashboards &quot;E-Mail-Programm&quot;](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
-            + [View Email Program Results](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
+            + [Anzeigen von E-Mail-Programmergebnissen](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
             + [Anzeigen des Dashboards &quot;E-Mail-Programm&quot;](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
          + Verwalten von Personen in E-Mail-Programmen {#managing-people-in-email-programs}
             + [Definieren einer Zielgruppe durch Importieren einer Liste](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
@@ -1295,10 +1295,10 @@ ht-degree: 5%
          + Personal {#people}
             + [Personendetailansicht](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight-Aktionen und Einhaltung der DSGVO](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-               + Verwalten von Kontakten {#managing-contacts}
-                  + [Massenaktionen für Personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-                  + [Erstellen und Löschen von Kontakten](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-                  + [Importieren von Kontakten über CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+            + Verwalten von Kontakten {#managing-contacts}
+               + [Massenaktionen für Personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+               + [Erstellen und Löschen von Kontakten](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+               + [Importieren von Kontakten über CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Salesforce-Konfiguration {#salesforce-configuration}
             + [Konfiguration von MSI-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic-Anpassungspaket deinstallieren](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1410,7 +1410,7 @@ ht-degree: 5%
       + [Modellkonsistenz und Datenvalidierung](product-docs/marketo-sky/model-health-and-data-validity.md)
       + [Vorhersagefilter](product-docs/marketo-sky/predictive-filters.md)
       + [Festlegen einer Ereignisbegrenzung](product-docs/marketo-sky/setting-an-event-cap.md)
-      + [Setting Event Goals](product-docs/marketo-sky/setting-event-goals.md)
+      + [Festlegen von Ereigniszielen](product-docs/marketo-sky/setting-event-goals.md)
       + [Verstehen des Zieltrackings und der geplanten Registrierungen](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobiles Marketing {#mobile-marketing}
       + Administrator {#admin}
@@ -1446,9 +1446,9 @@ ht-degree: 5%
          + [Mobile Push-Benachrichtigung löschen](product-docs/mobile-marketing/push-notifications/delete-mobile-push-notification.md)
          + [Mobile Push-Benachrichtigung bearbeiten](product-docs/mobile-marketing/push-notifications/edit-mobile-push-notification.md)
          + [Vorschau einer Push-Benachrichtigung](product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
-         + [Send a Mobile Push Notification](product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+         + [Mobile Push-Benachrichtigung senden](product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
          + [Beispiel für Push-Benachrichtigung senden](product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-         + [Understanding Push Notifications](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+         + [Grundlegendes zu Push-Benachrichtigungen](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [Anzeigen des Dashboards für Push-Benachrichtigungen](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + Videos für SMS-Nachrichten {#vibes-sms-messages}
          + [Erstellen einer Video-SMS-Nachricht](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
