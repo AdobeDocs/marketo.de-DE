@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Produktdokumentation
 title: Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 6%
+source-wordcount: '877'
+ht-degree: 12%
 
 ---
 
@@ -16,8 +16,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
 >[!PREREQUISITES]
 >
->* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
    >
    >Es wird empfohlen, eine Höhe von 410 Pixel für die Objekte &quot;Konten und Chancen&quot;zu verwenden.
 
-1. Klicken Sie auf **Felder** auf der linken Seite. Suchen und ziehen Sie dann die **Interaktion** in die **Marketo Sales Insight** Layout.
+1. Klicken Sie auf **Felder** auf der linken Seite. Suchen und ziehen Sie dann die **Dringlichkeit** in die **Marketo Sales Insight** Layout.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. Wiederholen Sie den obigen Schritt auch für diese Felder.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">Engagement</td> 
+      <td>Letzter interessanter Moment</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Wert für Relativergebnis</p></td> 
+      <td>Datum des letzten interessanten Moments</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Wert für Wichtigkeit</p></td> 
+      <td>Beschreibung des letzten interessanten Moments</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Datum des letzten interessanten Moments</p></td> 
+      <td>Quelle des letzten interessanten Moments</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Beschreibung des letzten interessanten Moments</p></td> 
+      <td>Typ des letzten interessanten Moments</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Quelle des letzten interessanten Moments</p></td> 
+      <td>Letzte Marketo-Aktivität nach Verkauf</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Typ des letzten interessanten Moments</p></td> 
+      <td>Letztes Marketo-Engagement nach Verkauf</td> 
+     </tr> 
+     <tr> 
+      <td>MSI-Kontaktkennung</td> 
+     </tr> 
+     <tr> 
+      <td>Relative Bewertung</td> 
+     </tr> 
+     <tr> 
+      <td>Wert für Relativergebnis</td> 
+     </tr> 
+     <tr> 
+      <td>Dringlichkeit</td> 
+     </tr> 
+     <tr> 
+      <td>Wert für Wichtigkeit</td> 
+     </tr> 
+     <tr> 
+      <td>In Marketo anzeigen</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Wiederholen Sie diesen Vorgang, um VisualForce-Seitenabschnitte und Sales Insight-Felder für hinzuzufügen. **Kontakt**, **Konto** und **Chancen**.
+1. Wiederholen Sie die Schritte 5 bis 7, um visuelle Force-Seitenabschnitte und Sales Insight-Felder für hinzuzufügen. **Kontakt**, **Konto** und **Chancen**.
 
-1. Wiederholen Sie die Schritte 5 bis 7, um die Visualforce-Seitenabschnitte für Kontakt, Konto und Chancen hinzuzufügen. Wiederholen Sie dann die Schritte 8 bis 10, um Sales Insight-Felder für hinzuzufügen. **Kontakt**. Speichern Sie nach jeder Änderung unbedingt.
+1. Wiederholen Sie die Schritte 8 bis 10, um Sales Insight -Felder aus der folgenden Liste hinzuzufügen: **Kontakt**. Achten Sie darauf, alle Änderungen zu speichern.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>Letzter interessanter Moment</td> 
+     </tr> 
+     <tr> 
+      <td>Datum des letzten interessanten Moments</td> 
+     </tr> 
+     <tr> 
+      <td>Beschreibung des letzten interessanten Moments</td> 
+     </tr> 
+     <tr> 
+      <td>Quelle des letzten interessanten Moments</td> 
+     </tr> 
+     <tr> 
+      <td>Typ des letzten interessanten Moments</td> 
+     </tr> 
+     <tr> 
+      <td>Letzte Marketo-Aktivität nach Verkauf</td> 
+     </tr> 
+     <tr> 
+      <td>Letztes Marketo-Engagement nach Verkauf</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO-Lead-Ergebnis</td> 
+     </tr> 
+     <tr> 
+      <td>Relative Bewertung</td> 
+     </tr> 
+     <tr> 
+      <td>Wert für Relativergebnis</td> 
+     </tr> 
+     <tr> 
+      <td>Sales Insight - Öffnet die Seite mit der vollständigen Liste .</td> 
+     </tr> 
+     <tr> 
+      <td>Dringlichkeit</td> 
+     </tr> 
+     <tr> 
+      <td>Wert für Wichtigkeit</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## Benutzerdefinierte Personenfelder zuordnen {#map-custom-person-fields}
 
@@ -192,7 +253,7 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
       <th colspan="1" rowspan="1">Salesforce Contact Custom Field</th> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Interaktion</p></td> 
+      <td colspan="1" rowspan="1"><p>Engagement</p></td> 
       <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
      </tr> 
      <tr> 
