@@ -1,72 +1,71 @@
 ---
 unique-page-id: 14352623
-description: Benutzerzugriffsdetails - Marketing-Dokumente - Produktdokumentation
+description: Benutzerzugriffsdetails - Marketo-Dokumente - Produktdokumentation
 title: Benutzerzugriffsdetails
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
-
 # Benutzerzugriffsdetails {#user-access-details}
 
-Auf was haben Administratoren und Nichtadministratoren Zugriff?
+Auf was können Administratoren und Benutzer ohne Administratorrechte zugreifen?
 
 ## Admin-Benutzerberechtigungen {#admin-user-permissions}
 
-Administratoren können [alle Vorlagen ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) Ansicht.
+Administratoren können [Alle Vorlagen anzeigen](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
-Administratoren können [Ansicht aller Kampagnen](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Administratoren können [Alle Kampagnen anzeigen](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Administratoren können alle E-Mail-Aktivitäten Ansicht haben.
+Administratoren können alle E-Mail-Aktivitäten anzeigen.
 
 ![](assets/user-access-details-3.png)
 
-Administratoren können alle Personen auf einer laufenden Kampagne sehen.
+Administratoren können alle Personen einer laufenden Kampagne sehen.
 
 ![](assets/running.jpg)
 
-Alle Personendaten können in der Gruppe Alle aufgerufen werden.
+Auf alle Personendatensätze kann in der Gruppe Alle zugegriffen werden.
 
 ![](assets/viewed.jpg)
 
-Administratoren können Kampagnen im Namen von Benutzern beenden.
+Administratoren können Kampagnen im Namen von Benutzern stoppen.
 
-## Benutzerberechtigungen ohne Admin {#non-admin-user-permissions}
+## Benutzerberechtigungen ohne Administratorrechte {#non-admin-user-permissions}
 
 * Analytics:
 
    * Benutzer können Teamanalysen anzeigen
-   * Benutzer können nur in die Teams, denen sie angehören, einen Drilldown durchführen
+   * Benutzer können einen Drilldown in nur die Teams durchführen, denen sie angehören
    * Benutzer können sich ihre eigenen Analysen ansehen
 
-* Beziehungsseite:
+* Seite &quot;Beziehungen&quot;:
 
    * Benutzer können Gruppen für alle freigeben
-   * Benutzer können Gruppen mit nur den Teams teilen, denen sie angehören
-   * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den Übergeordnet-Administrator, der den Benutzer gelöscht hat
+   * Benutzer können Gruppen nur für Teams freigeben, denen sie angehören
+   * Wenn ein Benutzer gelöscht wird, überträgt sein freigegebener Kontakt das Eigentum an den Übergeordneten Administrator, der den Benutzer gelöscht hat
 
 * Sales Beat - Next und Live Feed:
 
-   * Benutzer können die Ansicht &quot;jedermann&quot;Ansicht
-   * Benutzer können nach Team/Teams filtern, zu denen sie gehören
+   * Benutzer können die Ansicht &quot;Alle&quot;anzeigen
+   * Benutzer können nach den Teams filtern, zu denen sie gehören
    * Benutzer können Beiträge für alle freigeben
-   * Benutzer können Beiträge nur für die Teams freigeben, denen sie angehören
+   * Benutzer können Beiträge nur für Teams freigeben, zu denen sie gehören
 
 * Seite &quot;Teamverwaltung&quot;:
 
    * Ansicht nicht möglich
 
-* Seite &quot;Vorlagen&quot;:
+* Vorlagenseite:
 
    * Benutzer können Vorlagen für alle freigeben
-   * Benutzer können Vorlagen in Kategorien freigeben, die ihre Administratoren ihnen ermöglichen
-   * Wenn ein Benutzer aus einem Team entfernt wird, werden seine Vorlagen für dieses Team nicht freigegeben
-   * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Übergeordnet Admin, der den Benutzer gelöscht hat
+   * Benutzer können Vorlagen in Kategorien freigeben, die ihnen Administratoren ermöglichen
+   * Wenn ein Benutzer aus einem Team entfernt wird, wird die Freigabe seiner Vorlagen für dieses Team aufgehoben
+   * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Übergeordneten Administrator, der den Benutzer gelöscht hat

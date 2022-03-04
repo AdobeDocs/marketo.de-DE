@@ -3,10 +3,10 @@ description: Gruppen verwalten - Marketo-Dokumente - Produktdokumentation
 title: Gruppen verwalten
 hide: true
 hidefromtoc: true
-source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 0%
+source-wordcount: '362'
+ht-degree: 3%
 
 ---
 
@@ -14,15 +14,46 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
+## Gruppentypen {#group-types}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th>Gruppe</th> 
+   <th>Beschreibung</th> 
+  </tr> 
+  <tr> 
+   <td>Alle Personen</td> 
+   <td>Alle Kontakte von allen Benutzern, die für Sie sichtbar sind.</td> 
+  </tr> 
+  <tr> 
+   <td>Dynamische Gruppen</td> 
+   <td>Meine Kontakte: Alle Kontakte, die du besitzt.<br>Abmeldungen: Kontakte, die sich vom Erhalt des Schriftstücks abgemeldet haben.</td> 
+  </tr> 
+  <tr> 
+   <td>Meine Gruppen</td> 
+   <td>Von Ihnen erstellte Gruppen. Sie können Ihre Kontakte oder Kontakte enthalten, die für Sie freigegeben wurden.</td> 
+  </tr> 
+  <tr> 
+   <td>Teamgruppen</td> 
+   <td>Gruppen, die für und/oder von Ihnen freigegeben wurden. Sie können Kontakte enthalten, die Ihre Teamkollegen besitzen, oder Kontakte, die Sie mit ihnen geteilt haben.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
 ## Erstellen einer Gruppe {#create-a-group}
 
 1. Klicken Sie auf der Seite &quot;Personen&quot;auf die **+** neben Gruppen.
 
-   ![](assets/one-4.png)
+   ![](assets/manage-groups-1.png)
 
 1. Benennen Sie Ihre Gruppe und klicken Sie auf **Erstellen**.
 
-   ![](assets/two-3.png)
+   ![](assets/manage-groups-2.png)
 
    Das ist es!
 
@@ -30,11 +61,11 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
 1. Suchen und wählen Sie auf der Seite Personen die Gruppe aus, der Sie Personen hinzufügen möchten.
 
-   ![](assets/three-3.png)
+   ![](assets/manage-groups-3.png)
 
 1. Klicken **Gruppenaktionen** und wählen Sie **Kontakt erstellen und zu Gruppe hinzufügen**.
 
-   ![](assets/four-3.png)
+   ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
@@ -42,7 +73,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
 1. Füllen Sie die Kontaktdaten aus und klicken Sie auf **Erstellen** (oder **Erstellen und Hinzufügen neuer** , um einen weiteren hinzuzufügen).
 
-   ![](assets/five-3.png)
+   ![](assets/manage-groups-5.png)
 
    Und du bist fertig!
 
@@ -54,15 +85,15 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
 1. Suchen und wählen Sie auf der Seite Personen die Gruppe aus, die Sie freigeben möchten.
 
-   ![](assets/six.png)
+   ![](assets/manage-groups-6.png)
 
 1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigeben**.
 
-   ![](assets/seven.png)
+   ![](assets/manage-groups-7.png)
 
 1. Klicken Sie auf das Dropdown-Menü, wählen Sie das Team aus, für das Sie die Gruppe freigeben möchten, und klicken Sie auf **Freigeben**.
 
-   ![](assets/eight.png)
+   ![](assets/manage-groups-8.png)
 
    Sie besitzen weiterhin die Gruppe, aber sie wird jetzt unter _Team-Gruppen_.
 
@@ -70,15 +101,15 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
 1. Suchen und wählen Sie auf der Seite Personen die Gruppe aus, deren Freigabe Sie aufheben möchten.
 
-   ![](assets/ten.png)
+   ![](assets/manage-groups-9.png)
 
 1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigeben**.
 
-   ![](assets/eleven.png)
+   ![](assets/manage-groups-10.png)
 
 1. Klicken Sie auf **X** neben dem Team, für das Sie die Gruppe freigegeben haben, klicken Sie dann aus dem Modal.
 
-   ![](assets/twelve.png)
+   ![](assets/manage-groups-11.png)
 
    Die Gruppenfreigabe ist jetzt aufgehoben.
 
@@ -86,26 +117,26 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
 1. Suchen und wählen Sie auf der Seite Personen die Gruppe aus, die Sie umbenennen möchten.
 
-   ![](assets/six.png)
+   ![](assets/manage-groups-12.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Umbenennen**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Bearbeiten**.
 
-   ![](assets/thirteen.png)
+   ![](assets/manage-groups-13.png)
 
-1. Geben Sie den neuen Namen ein und drücken Sie die Eingabetaste.
+1. Geben Sie den neuen Namen ein und klicken Sie auf **Speichern**.
 
-   ![](assets/fourteen.png)
+   ![](assets/manage-groups-14.png)
 
 ## Eine Gruppe löschen {#delete-a-group}
 
 1. Suchen und wählen Sie auf der Seite Personen die Gruppe aus, die Sie löschen möchten.
 
-   ![](assets/fifteen.png)
+   ![](assets/manage-groups-15.png)
 
 1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Löschen**.
 
-   ![](assets/sixteen.png)
+   ![](assets/manage-groups-16.png)
 
 1. Klicken **Löschen** zur Bestätigung.
 
-   ![](assets/seventeen.png)
+   ![](assets/manage-groups-17.png)
