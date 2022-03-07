@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung - Marketo Docs - Produktdokumentation'
 title: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Zusätzliche Verweise [finden Sie hier .](https://docs.microsoft.com/en-us/azure
 
 Fast da! Wir haben nur noch die Möglichkeit, Marketo Solution über den neu erstellten Benutzer zu informieren.
 
->[!IMPORTANT]
->
->Wenn Sie von der einfachen Authentifizierung auf OAuth aktualisieren, müssen Sie sich an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support) für Hilfe bei der Aktualisierung der zusätzlichen Parameter. Wenn Sie eine Konfigurationsänderung zum Benutzer Standardsynchronisierung durchführen, wird die Synchronisierung vorübergehend angehalten, bis neue Anmeldeinformationen eingegeben und die Synchronisierung wieder aktiviert wird. Auf Anfrage kann der Marketo-Support die Funktion deaktivieren (bis April 2022), wenn Sie zur alten Authentifizierungsmethode zurückkehren möchten.
-
 1. Gehen Sie zurück zum Abschnitt Erweiterte Einstellungen und klicken Sie auf die Schaltfläche ![](assets/image2015-5-13-15-3a49-3a19.png) Symbol neben Einstellungen und wählen Sie **Marketo-Konfiguration**.
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ Fast da! Wir haben nur noch die Möglichkeit, Marketo Solution über den neu ers
 1. Klicken Sie auf **Alle Anpassungen veröffentlichen** Schaltfläche.
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >Wenn Sie von der einfachen Authentifizierung auf OAuth aktualisieren, können Sie [diesem Artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) um die Authentifizierung neu zu konfigurieren.
 
 ## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
 

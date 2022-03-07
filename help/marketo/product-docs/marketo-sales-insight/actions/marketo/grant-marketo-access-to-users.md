@@ -4,22 +4,22 @@ title: Marketo-Zugriff für Benutzer gewähren
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Marketo-Zugriff für Benutzer gewähren {#grant-marketo-access-to-users}
 
-Führen Sie die Schritte in diesem Artikel aus, um Ihren Marketo-Vertriebsbenutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie interessante Momente im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
+Führen Sie die Schritte in diesem Artikel aus, um Ihren Sales Insight Actions-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie interessante Momente im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen [Marketo Sales](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) bevor sie auf der Seite Marketo > Team Access (in Marketo Sales) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer einladen, [Sales Insight-Aktionen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) bevor sie auf der Seite Marketo > Team Access (in Sales Insight-Aktionen) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >
->Warten Sie zehn Minuten, nachdem Sie Marketo Sales mit Marketo verbunden haben, bevor Sie diese Schritte ausführen.
+>Warten Sie zehn Minuten, nachdem Sie Sales Insight-Aktionen mit Marketo verbunden haben, bevor Sie diese Schritte ausführen.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 

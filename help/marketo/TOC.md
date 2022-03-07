@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '8382'
+source-wordcount: '8394'
 ht-degree: 5%
 
 ---
@@ -1263,6 +1263,7 @@ ht-degree: 5%
          + Analytics {#analytics}
             + [Vorlageninteraktion](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Kampagnen {#campaigns}
+            + [Zu Marketing-Kampagne hinzufügen](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Kampagne wurde beendet](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce-Integration {#salesforce-integration}
@@ -1299,6 +1300,7 @@ ht-degree: 5%
             + [Wie werden E-Mail-Deduplizierungen in Sales Insight-Aktionen behandelt?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [Marketo-Zugriff für Benutzer gewähren](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Sichtbarkeit einer Kampagne für Benutzer von Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + Personal {#people}
             + [Personendetailansicht](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight-Aktionen und Einhaltung der DSGVO](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)

@@ -2,10 +2,10 @@
 description: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit Resource Owner Password Control Connection - Marketo Docs - Produktdokumentation'
 title: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Resource Owner Password Control Connection'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 1%
+source-wordcount: '415'
+ht-degree: 2%
 
 ---
 
@@ -24,9 +24,9 @@ Dies ist der letzte Schritt der Synchronisierung. Sie haben es fast geschafft!
 >
 >**Erforderliche Administratorberechtigungen**
 
->[!IMPORTANT]
+>[!NOTE]
 >
->Wenn Sie von der einfachen Authentifizierung auf OAuth aktualisieren, müssen Sie sich an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support) für Hilfe bei der Aktualisierung der zusätzlichen Parameter. Durch Aktivierung dieser Funktion wird die Synchronisierung vorübergehend angehalten, bis neue Anmeldeinformationen eingegeben und die Synchronisierung wieder aktiviert wird. Die Funktion kann (bis April 2022) deaktiviert werden, wenn Sie zum alten Authentifizierungsmodus zurückkehren möchten.
+>Wenn Sie von der einfachen Authentifizierung auf OAuth aktualisieren, können Sie [diesem Artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) um die Authentifizierung neu zu konfigurieren.
 
 ## Benutzerinformationen zur Dynamics Sync eingeben {#enter-dynamics-sync-user-information}
 
