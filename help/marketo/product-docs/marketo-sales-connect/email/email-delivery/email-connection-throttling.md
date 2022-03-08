@@ -2,9 +2,9 @@
 description: Einschränken der E-Mail-Verbindung - Marketo-Dokumente - Produktdokumentation
 title: Einschränken der E-Mail-Verbindung
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-source-git-commit: 01748a560f41d5366862e75a3dd5349cf8b908bc
+source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Die Integration Ihres Sales Connect-Kontos für den Versand über Exchange oder Gmail-E-Mail-Anbieter bietet eine optimierte Einrichtung und Optimierung der E-Mail-Zustellbarkeit für die 1:1-Verkaufskommunikation. Um jedoch gesunde Systeme und sichere Konten zu gewährleisten, setzen Gmail und Exchange die Versandbeschränkungen von E-Mails um. Diese Beschränkungen können nach Ermessen der Anbieter erhöht oder verringert werden.
 
-## Einschränken der E-Mail-Verbindung (Beta) {#email-connection-throttling-beta}
+## Überblick {#overview}
 
 Durch die Einschränkung der E-Mail-Verbindung können Sales Connect-Administratoren die Senderate von E-Mails bei Verwendung von Gmail oder Exchange als Versandkanal konfigurieren, sodass die Rate, mit der E-Mails an den Versandkanalanbieter weitergeleitet werden, die erzwungenen Beschränkungen nicht überschreitet.
 
