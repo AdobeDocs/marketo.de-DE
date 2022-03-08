@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
 workflow-type: tm+mt
-source-wordcount: '8394'
+source-wordcount: '8396'
 ht-degree: 5%
 
 ---
@@ -1238,9 +1238,9 @@ ht-degree: 5%
             + [Referenzieren Sie sich in einem dynamischen Feld](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Aktionen {#actions}
-         + [Übersicht über die Funktionen von MSI-Aktionen](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
+         + [Übersicht über die Funktionen von Sales Insight-Aktionen](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Erste Schritte {#getting-started}
-            + [Benutzerhandbuch zu MSI-Aktionen](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Benutzerhandbuch zu Insight-Maßnahmen für Vertrieb](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Administratorhandbuch für MSI-Aktionen](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [Marketo Sales Password ändern](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + E-Mail-Einstellungen {#email-settings}
