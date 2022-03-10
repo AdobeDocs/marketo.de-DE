@@ -2,9 +2,9 @@
 description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen
 
 >[!TIP]
 >
->Besuch [diese Seite](https://dcweb.z20.web.core.windows.net/) um Anleitungsvideos sowie eine aufgezeichnete Demo des dynamischen Chat anzuzeigen.
+>Besuch [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) , um Anleitungsvideos zum dynamischen Chat anzuzeigen.
 
 ## Integrationen {#integrations}
 
