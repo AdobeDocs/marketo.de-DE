@@ -1,53 +1,56 @@
 ---
 unique-page-id: 2360358
-description: Benutzeranmeldung auf "Nur SSO" beschränken - Marketo Docs - Produktdokumentation
+description: Einschränken der Benutzeranmeldung auf "Nur SSO"- Marketo-Dokumente - Produktdokumentation
 title: Benutzeranmeldung auf SSO beschränken
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 5%
 
 ---
 
 # Benutzeranmeldung auf SSO beschränken {#restrict-user-login-to-sso-only}
 
-Wenn Sie [SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) verwenden und sicherstellen möchten, dass Benutzer die SSO-Sicherheit nicht umgehen können, befolgen Sie diese Anweisungen.
+Wenn du [Verwendung von SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) und sicherstellen möchten, dass Benutzer die SSO-Sicherheit nicht umgehen können, befolgen Sie diese Anweisungen.
+
+>[!IMPORTANT]
+>
+>Dieser Artikel gilt nicht für [Adobe IMS-fähig](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo-Abonnements.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Anmeldeeinstellungen**.
+1. Navigieren Sie zu **Admin** und klicken Sie auf **Anmeldeeinstellungen**.
 
    ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. Klicken Sie auf **Sicherheitseinstellungen bearbeiten**.
+1. Klicken **Sicherheitseinstellungen bearbeiten**.
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. Erweitern Sie die erweiterten Einstellungen, aktivieren Sie **SSO** erforderlich und klicken Sie auf **Speichern**.
+1. Erweitern Sie die erweiterten Einstellungen, aktivieren Sie **SSO erforderlich** und klicken Sie auf **Speichern**.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!NOTE]
 >
->Es empfiehlt sich, den/die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ die Einladung angenommen wurde, sollten Administratoren sie auf &quot;Einladung erforderlich&quot;setzen.
+>Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachher_ Wenn die Einladung akzeptiert wird, sollten Administratoren sie dann auf &quot;SSO erforderlich&quot;setzen.
 
 >[!TIP]
 >
->Wenn Sie **Einmalige Anmeldung erforderlich** auswählen, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **Einmaliges Anmelden umgehen** aktivieren. Auf diese Weise können Benutzer sich normal anmelden. So müssen sich Administratoren beispielsweise über den Anmeldebildschirm bei Marketo anmelden.
+>Wenn Sie **SSO erforderlich**, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung durch Überprüfen der **Single Sign-on umgehen** -Option beim Einrichten der Rolle. Auf diese Weise können sich Benutzer normal anmelden. Beispielsweise müssen sich Admin-Benutzer möglicherweise weiterhin über den Anmeldebildschirm bei Marketo anmelden.
 
 >[!CAUTION]
 >
->Wenn neue Benutzer eingeladen werden, erhalten sie eine Einladungs-E-Mail. Wenn Sie jedoch **SSO** anfordern auswählen, erhalten diese E-Mails nur dann, wenn sie einer Rolle zugewiesen sind, die auf **Single-Sign-On umgehen** eingestellt ist.
+>Wenn neue Benutzer eingeladen werden, erhalten sie Einladungs-E-Mails. Wenn **SSO erforderlich** ausgewählt ist, werden diese E-Mails nur dann empfangen, wenn ihnen eine Rolle zugewiesen wurde, die auf **Single Sign-on umgehen**.
 
-Das ist&#39;s! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Berechtigung, Single Sign-On zu umgehen) auf die Verwendung der einmaligen Anmeldung beschränkt.
+Das ist es! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Berechtigung, Single Sign-On zu umgehen) auf die Verwendung der SSO-Anmeldung beschränkt.
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen Einmal-Anmeldung bei einem Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Verwenden einer universellen ID für die Abonnement-Anmeldung](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [Single Sign-On zu einem Portal hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Verwendung einer universellen ID zur Anmeldung von Abonnements](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 

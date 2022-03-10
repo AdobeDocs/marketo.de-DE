@@ -2,9 +2,9 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Adobe Marketo Engage-Abonnements, die in der Adobe Identity Management System in
  <tr>
   <td><strong>Adobe Admin Console Product Admin</strong></td>
   <td>Zuständig für die Berechtigung von Benutzern für das Marketo Engage-Produkt in der Adobe Admin Console. Rolle in Adobe Admin Console zugewiesen.</td>
+ </tr>
+ <tr>
+  <td><strong>Adobe Admin Console-Produktprofiladministrator</strong></td>
+  <td>Verwalten Sie die diesem Administrator zugewiesenen Produktprofilbeschreibungen und alle zugehörigen Verwaltungsfunktionen.</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage Product Admin</strong></td>
