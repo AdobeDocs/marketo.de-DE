@@ -2,10 +2,10 @@
 description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 0%
+source-wordcount: '735'
+ht-degree: 2%
 
 ---
 
@@ -74,3 +74,71 @@ Die KI-/NLP-Funktionalität wird nicht unterstützt.
 **Bietet Dynamic Chat neben Englisch auch andere Sprachen?**
 
 Zum jetzigen Zeitpunkt nicht.
+
+## Einschränkungen im dynamischen Chat {#limits-in-dynamic-chat}
+
+<table>
+  <th>Parameter</th>
+  <th>Beschreibung</th>
+  <th>Beschränkung</th>
+ <tr>
+  <td>Dialogfelder insgesamt</td>
+  <td>Gesamtzahl der Dialogfelder (veröffentlicht und Entwurf)</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Veröffentlichte Dialogfelder</td>
+  <td>Anzahl der gespeicherten veröffentlichten Dialogfelder</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Target-URLs pro Dialogfeld</td>
+  <td>Anzahl der Ziel-URLs, die einem einzelnen Dialogfeld hinzugefügt werden können</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>Attribute pro Dialogfeld</td>
+  <td>Anzahl der Attribute, die zu Zielgruppenkriterien für ein einzelnes Dialogfeld hinzugefügt werden können</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Gruppen</td>
+  <td>Anzahl der Gruppen, die einem einzelnen Dialogfeld hinzugefügt werden können</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Attribute pro Gruppe</td>
+  <td>Anzahl der Attribute, die zu einer Gruppe hinzugefügt werden können</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Karten</td>
+  <td>Anzahl der Karten, die pro Dialogfeld zur Arbeitsfläche hinzugefügt werden können</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Anonymer Aufbewahrungszeitraum für Lead-Daten</td>
+  <td>Dauer der Aufbewahrung von Informationen zu einem anonymen Lead ohne Interaktion</td>
+  <td>90 Tage</td>
+ </tr>
+ <tr>
+  <td>Bindungszeitraum der Zielaktivität</td>
+  <td>Die Zeitdauer, in der Aktivitätsdaten beibehalten werden</td>
+  <td>24 Monate</td>
+ </tr>
+ <tr>
+  <td>Document Activity Retention Period</td>
+  <td>Dauer der Aufbewahrung von Dokumentaktivitätsdaten</td>
+  <td>24 Monate</td>
+ </tr>
+ <tr>
+  <td>Interagiert mit dem Dialogfeld "Aktivitätsdauer"</td>
+  <td>Dauer der Interaktion mit Dialogfeldaktivitätsdaten wird beibehalten</td>
+  <td>90 Tage</td>
+ </tr>
+ <tr>
+  <td>Treuezeitraum der Sitzungsbuchungsaktivität</td>
+  <td>Die Zeitdauer, in der die Buchungsaktivität für Meetings gespeichert wird, wird im dynamischen Chat gespeichert</td>
+  <td>24 Monate</td>
+ </tr>
+</table>
