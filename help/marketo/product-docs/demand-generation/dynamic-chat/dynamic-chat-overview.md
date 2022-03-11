@@ -2,9 +2,9 @@
 description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,10 @@ Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, sowi
 
 ## FAQs {#faq}
 
+**Wie lange werden Daten für Berichte gespeichert?**
+
+90 Tage (siehe vollständige Liste der Beschränkungen) [below](#limits-in-dynamic-chat)).
+
 **Ermöglicht der dynamische Chat einen Live-Chat?**
 
 Nein, es werden nur vordefinierte Antworten verwendet.
@@ -66,10 +70,6 @@ In Ihrem Dialogfeld müssen Sie die _Person Email is Empty_ -Attribut.
 **Unterstützen Sie KI/NLP-Funktionen?**
 
 Die KI-/NLP-Funktionalität wird nicht unterstützt.
-
-**Wie lange werden Daten für Berichte gespeichert?**
-
-90 Tage.
 
 **Bietet Dynamic Chat neben Englisch auch andere Sprachen?**
 
