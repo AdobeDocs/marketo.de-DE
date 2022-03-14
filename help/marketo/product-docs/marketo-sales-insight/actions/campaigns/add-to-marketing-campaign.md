@@ -1,105 +1,106 @@
 ---
-description: Zu Marketing Campaign hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Zu Marketing-Kampagne hinzufügen
+description: Add to Marketing Campaign - Marketo Docs - Product Documentation
+title: Add to Marketing Campaign
 hide: true
 hidefromtoc: true
-source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
-# Zu Marketing-Kampagne hinzufügen {#add-to-marketing-campaign}
+# Add to Marketing Campaign {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
->[Sichtbarkeit einer Kampagne für Vertriebsbenutzer](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
-## Hinzufügen von Personen zu einer Kampagne {#add-individuals-to-a-campaign}
-
->[!NOTE]
->
->Damit eine Person von Sales Connect aus einer Marketo-Kampagne hinzugefügt werden kann, muss Sales Connect über die Marketo-Lead-ID der Person verfügen.
-
-1. Klicken Sie auf **Personen** Registerkarte.
-
-PICC
-
-1. Suchen Sie die Kontakte, die Sie hinzufügen möchten.
-
-PICC
-
-1. Aktivieren Sie das Kontrollkästchen, um Ihre Kontakte auszuwählen.
-
-PICC
-
-1. Klicken **Auswahl zu Kampagne hinzufügen**.
-
-PICC
-
-1. Da Sie eine Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;Von&quot;-Adresse. Sie können jedoch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf Individuen und geben Sie diese ein. Klicken **Nächste** wann geschehen.
-
-PICC
-
-1. Klicken **Marketing-Kampagne**.
-
-PICC
-
-1. Klicken Sie auf das Dropdown-Menü Arbeitsbereiche und wählen Sie den Arbeitsbereich aus, der die Kampagne enthält, der die Gruppe hinzugefügt werden soll.
-
-PICC
+## Add Individuals to a Campaign {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass Ihr Administrator ihn über Ihre Marketo Team Access-Seite bereitstellt.
+>In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person&#39;s Marketo lead ID.
 
-1. Wählen Sie die gewünschte Kampagne aus und klicken Sie auf **Nächste**.
+1. ****
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
-1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken **Starten** , um sie hinzuzufügen.
+1. Find the contact(s) you want to add.
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-## Eine Gruppe zu einer Kampagne hinzufügen {#add-a-group-to-a-campaign}
+1. ****
 
-1. Klicken Sie auf **Personen** Registerkarte.
+   ![](assets/add-to-marketing-campaign-3.png)
 
-PICC
+1. STEP HERE
 
-1. Wählen Sie unter Meine Gruppen die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+   ![](assets/add-to-marketing-campaign-4.png)
 
-PICC
+1. Since you&#39;re adding to a Marketing campaign, skip selecting a &quot;from&quot; address. You can however choose to add more contacts. If you choose to, click Individuals and type them in. ****
 
-1. Klicken **Gruppe zu Kampagne hinzufügen**.
+   ![](assets/add-to-marketing-campaign-5.png)
 
-PICC
-
-1. Da Sie eine Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;Von&quot;-Adresse. Sie können jedoch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf Individuen und geben Sie diese ein. Klicken **Nächste** wann geschehen.
+1. ****
 
 PICC
 
-1. Auswählen **Marketing-Kampagne**.
+1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
 PICC
 
 >[!NOTE]
 >
->Damit eine Person von Sales Connect aus einer Marketo-Kampagne hinzugefügt werden kann, muss Sales Connect über die Marketo-Lead-ID der Person verfügen.
+>If you don&#39;t see the workspace you want, make sure your Admin provisions it through your Marketo Team Access page.
 
-1. Klicken Sie auf das Dropdown-Menü Arbeitsbereiche und wählen Sie den Arbeitsbereich aus, der die Kampagne enthält, der die Gruppe hinzugefügt werden soll.
+1. ****
+
+PICC
+
+1. You&#39;re shown the contacts that qualify. ****
+
+PICC
+
+## Add a Group to a Campaign {#add-a-group-to-a-campaign}
+
+1. ****
+
+PICC
+
+1. Under My Groups, select the group you wish to add to a campaign.
+
+PICC
+
+1. ****
+
+PICC
+
+1. Since you&#39;re adding to a Marketing campaign, skip selecting a &quot;from&quot; address. You can however choose to add more contacts. If you choose to, click Individuals and type them in. ****
+
+PICC
+
+1. ****
 
 PICC
 
 >[!NOTE]
 >
->Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass Ihr Administrator ihn über Ihre Marketo Team Access-Seite bereitstellt.
+>In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person&#39;s Marketo lead ID.
 
-1. Wählen Sie die gewünschte Kampagne aus und klicken Sie auf **Nächste**.
+1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
 PICC
 
-1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken **Starten** , um sie hinzuzufügen.
+>[!NOTE]
+>
+>If you don&#39;t see the workspace you want, make sure your Admin provisions it through your Marketo Team Access page.
+
+1. ****
+
+PICC
+
+1. You&#39;re shown the contacts that qualify. ****
 
 PICC
