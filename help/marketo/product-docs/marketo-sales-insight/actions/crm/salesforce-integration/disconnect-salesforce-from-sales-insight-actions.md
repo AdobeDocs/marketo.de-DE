@@ -3,9 +3,9 @@ description: Salesforce von Sales Insight-Aktionen trennen - Marketo Docs - Prod
 title: Salesforce von Sales Insight-Aktionen trennen
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ Manchmal müssen Sie möglicherweise Ihr Salesforce-Konto von Ihrem Sales Insigh
 
 1. Klicken Sie in &quot;Sales Insight-Aktionen&quot;auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
 1. Klicken Sie unter &quot;Admin Settings&quot;auf **Salesforce**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
 1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Trennen**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
 ## So trennen Sie sich von Salesforce als Nicht-Administrator {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. Klicken Sie in &quot;Sales Insight-Aktionen&quot;auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
 1. Wählen Sie unter Mein Konto die Option **Salesforce**.
 
