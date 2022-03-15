@@ -3,10 +3,11 @@ description: Protokollieren von Attributen zu Verkaufsaktivitäten in Salesforce
 title: Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 25%
+source-wordcount: '341'
+ht-degree: 24%
 
 ---
 
@@ -26,7 +27,7 @@ Salesforce-Administrator kann Salesforce manuell benutzerdefinierte Aktivitätsf
 
 Beschreibung der einzelnen Spalten in der unten stehenden Tabelle:
 
-* **Feldbezeichnung**: In der Benutzeroberfläche angezeigter Feldname
+* **Feldbezeichnung**: Feldname, der in der Benutzeroberfläche angezeigt wird (dieser Name kann angepasst werden, um die Lesbarkeit durch Ihr Team zu verbessern)
 * **Feldname**: Technischer Name des Felds (vergewissern Sie sich, dass der von Ihnen eingegebene Feldname mit dem Feldnamen in der unten stehenden Tabelle übereinstimmt)
 * **API-Name**: Technischer Name des Felds für die API (überprüfen Sie, ob der von Ihnen eingegebene API-Name mit dem API-Namen in der unten stehenden Tabelle übereinstimmt)
 * **Datentyp**: Feldtyp

@@ -3,9 +3,9 @@ description: Salesforce Diagnostics - Marketo Docs - Produktdokumentation
 title: Salesforce-Diagnose
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1445'
 ht-degree: 1%
 
 ---
@@ -131,7 +131,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Kategorie:** Zugriff/Validierung\
-**Nachricht:** Felder können nicht erstellt/aktualisiert werden: ToutApp__Tout_Last_Replied__c. Überprüfen Sie die Sicherheitseinstellungen dieses Felds.
+**Nachricht:** Felder können nicht erstellt/aktualisiert werden: MSE_Replied_c. Überprüfen Sie die Sicherheitseinstellungen dieses Felds.
 **Was geschieht:** Benutzer haben keinen Schreibzugriff auf die benutzerdefinierten Felder für Sales Insight-Aktionen, die zur Durchführung der Protokollierung der letzten Aktivität erforderlich sind. Team hat möglicherweise das Paket installiert, aber die korrekten Felder für die Benutzer wurden nicht aktiviert.\
 **Schritte zur Fehlerbehebung:** Salesforce Admin muss Zugriff auf die benutzerdefinierten Felder gewähren ODER die Protokollierung der letzten Aktivität deaktivieren.
 
