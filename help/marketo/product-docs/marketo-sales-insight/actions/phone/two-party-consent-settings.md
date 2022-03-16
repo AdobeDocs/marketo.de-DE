@@ -3,9 +3,10 @@ description: Einverständniseinstellungen von zwei Parteien - Marketo-Dokumente 
 title: Einverständniseinstellungen für zwei Parteien
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,32 +21,32 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
 1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. Scrollen Sie nach unten zu &quot;Sales Connect Phone Settings&quot;und klicken Sie auf **Hinweis zur Aufzeichnung verwalten**.
+1. Klicken Sie auf der Karte Aufzeichnung aufrufen auf **Hinweis zur Aufzeichnung verwalten**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. Klicken **Importaufzeichnung**.
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
->[!NOTE]
->
->Nur Wav- und MP3-Dateien werden unterstützt. Eine Datei, die länger als 30 Sekunden dauert, kann nicht hochgeladen werden.
+   >[!NOTE]
+   >
+   >Nur Wav- und MP3-Dateien werden unterstützt. Eine Datei, die länger als 30 Sekunden dauert, kann nicht hochgeladen werden.
 
-1. Wählen Sie die gewünschte Audiodatei von Ihrer Festplatte aus.
+1. Wählen Sie die gewünschten Audiodateien von Ihrer Festplatte aus.
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. Nachdem der Upload abgeschlossen ist, wählen Sie die Daten (drei Punkte) im Dateimanager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken **OK** wann geschehen.
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. Klicken Sie auf den Umschalter, um die Wiedergabe der ausgewählten Nachricht zu Beginn Ihrer aufgezeichneten Aufrufe zu aktivieren.
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)
