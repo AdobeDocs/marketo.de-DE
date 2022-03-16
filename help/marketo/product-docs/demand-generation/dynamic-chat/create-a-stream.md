@@ -2,9 +2,9 @@
 description: Erstellen eines Streams - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Streams
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: d2ac03bd01e1dd6998d47aac82383b64ffdd3ee7
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -110,7 +110,7 @@ Es gibt _many_ Stream-Kombinationen, die Sie erstellen können. Dieser Artikel e
 
    ![](assets/create-a-stream-17.png)
 
-1. Um das Dialogfeld in der Vorschau anzuzeigen, klicken Sie auf das Vorschausymbol auf der rechten Seite.
+1. Wählen Sie die **Vorschau** Umschalten auf Vorschau des Dialogfelds.
 
    ![](assets/create-a-stream-18.png)
 
