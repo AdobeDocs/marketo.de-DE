@@ -2,9 +2,9 @@
 description: Dynamischen Chat mit Marketo verbinden - Marketo-Dokumente - Produktdokumentation
 title: Dynamischen Chat mit Marketo verbinden
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Wählen Sie bis zu 50 standardmäßige oder benutzerdefinierte Felder aus, die mit dem dynamischen Chat synchronisiert werden sollen. Klicken **Nächste** wann geschehen.
+1. Wählen Sie bis zu 50 standardmäßige oder benutzerdefinierte Felder aus Ihrer Marketo-Instanz aus, um sie mit dem dynamischen Chat zu synchronisieren und sie für das Zielgruppen-Targeting, die Datenzuordnung und die Personalisierung zu verwenden. Klicken **Nächste** wann geschehen.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
    >
    >Zu diesem Zeitpunkt erfolgt die Attributauswahl **cannot** nach der ersten Synchronisierung geändert werden. Wenn die Synchronisierung abgeschlossen ist, können Sie nur zurückkehren und mehr hinzufügen (wenn Sie weniger als 50 ausgewählt haben).
 
-1. Stellen Sie sicher, dass Sie über die richtige Auswahl verfügen (erinnern Sie sich: Sie können Attribute nicht nach der Synchronisierung entfernen. Klicken Sie daher auf **Auswahlen bearbeiten** , wenn Sie in diesem Schritt eine ändern müssen). Klicken **Bestätigen** wann sie zum Initiieren der Synchronisierung abgeschlossen ist.
+1. Überprüfen Sie Ihre Auswahl (erinnern Sie sich: Sie können Attribute nicht nach der Synchronisierung entfernen. Klicken Sie daher auf **Auswahlen bearbeiten** , wenn Sie in diesem Schritt eine ändern müssen). Klicken **Bestätigen** wann sie zum Initiieren der Synchronisierung abgeschlossen ist.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
