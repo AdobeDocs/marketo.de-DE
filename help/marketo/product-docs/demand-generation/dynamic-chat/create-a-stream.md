@@ -2,16 +2,18 @@
 description: Erstellen eines Streams - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Streams
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Streams {#create-a-stream}
 
-Es gibt _many_ Stream-Kombinationen, die Sie erstellen können. Im Folgenden finden Sie ein Beispiel, bei dem der Marketing-Experte den Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Das Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
+Es gibt _many_ Stream-Kombinationen, die Sie erstellen können. Dieser Artikel enthält ein Beispiel, in dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Das Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
+
+![](assets/create-a-stream-0.png)
 
 1. Nach [Dialogfeld erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), klicken Sie auf die **Stream-Designer** Registerkarte.
 
@@ -108,9 +110,13 @@ Es gibt _many_ Stream-Kombinationen, die Sie erstellen können. Im Folgenden fin
 
    ![](assets/create-a-stream-17.png)
 
-1. Wenn Sie Ihr Dialogfeld aktivieren möchten, klicken Sie auf **Veröffentlichen**.
+1. Um das Dialogfeld in der Vorschau anzuzeigen, klicken Sie auf das Vorschausymbol auf der rechten Seite.
 
    ![](assets/create-a-stream-18.png)
+
+1. Wenn Sie bereit sind, Ihr Dialogfeld zu aktivieren, klicken Sie auf **Veröffentlichen**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >

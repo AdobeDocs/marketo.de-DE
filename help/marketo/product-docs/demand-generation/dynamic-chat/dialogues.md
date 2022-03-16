@@ -2,9 +2,9 @@
 description: Dialogfelder - Marketo-Dokumente - Produktdokumentation
 title: Dialogfelder
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell 
 
    ![](assets/dialogues-2.png)
 
-1. Geben Sie einen Namen ein (Beschreibung ist optional), legen Sie die Prioritätsstufe fest und klicken Sie auf **Speichern**.
+1. Wählen Sie ein leeres Dialogfeld oder eine der vorausgefüllten Vorlagen aus. Geben Sie einen Namen ein (Beschreibung ist optional), ändern Sie die Prioritätsstufe (optional) und klicken Sie auf **Erstellen**.
 
    ![](assets/dialogues-3.png)
 
@@ -37,7 +37,7 @@ Dialoge sind individuelle Chatunterhaltungen. Erfahren Sie, wie Sie sie visuell 
 
 **Bekannte Personen**
 
-Es gibt _many_ Attributkombinationen zur Auswahl. In diesem Beispiel zielen wir auf alle **bekannte Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Beschäftigten arbeiten.
+There are _many_ attribute combinations to choose from. In diesem Beispiel zielen wir auf alle **bekannte Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Beschäftigten arbeiten.
 
 1. Grab die **Bundesland** -Attribut fest und ziehen Sie es nach rechts.
 
@@ -110,7 +110,7 @@ Zulässige Formate:
 
 >[!NOTE]
 >
->Die Verwendung eines Sternchens dient als Platzhalter. Also `https://*.website.com` würde das Dialogfeld auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im folgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
+>Die Verwendung eines Sternchens dient als Platzhalter. So `https://*.website.com` would put the dialogue on every page of the site, including subdomains (ex: `support.website.com`). und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im folgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
 
 ## Stream-Designer {#stream-designer}
 
@@ -119,7 +119,7 @@ Der Stream-Designer enthält verschiedene Karten, die Sie hinzufügen können, u
 <table>
  <tr>
   <td><strong>Nachricht</strong></td>
-  <td>Verwenden Sie diese Option, wenn Sie eine Anweisung ohne Antwort erstellen möchten (z. B.: "Hallo! Mit dem Code SAVE25" sind alle Artikel heute um 25 % billiger.
+  <td>Use when you want to make a statement with no response necessary (ex: "Hi! All items are 25% off today with code SAVE25").
 </td>
  </tr>
  <tr>
@@ -151,7 +151,7 @@ Im Tab Berichte können Sie Daten aus den letzten 90 Tagen anzeigen. Jede Katego
 <table>
  <tr>
   <td><strong>Ausgelöste Gesamtzahl</strong></td>
-  <td>Wird jedes Mal erhöht, wenn sich ein Besucher für ein Dialogfeld qualifiziert/angezeigt wird.
+  <td>Increments every time a visitor qualifies for/is shown a Dialogue.
 </td>
  </tr>
  <tr>
