@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
 workflow-type: tm+mt
-source-wordcount: '8475'
+source-wordcount: '8573'
 ht-degree: 5%
 
 ---
@@ -1303,11 +1303,22 @@ ht-degree: 5%
                + [Senden von E-Mails über Gruppen-E-Mails](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + FAQs {#faq}
+            + [Kann ich einen Kontakt oder eine Gruppe wiederherstellen, die ich gelöscht habe?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kann ich mit CC/BCC mehrere Empfänger verfolgen?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Häufig gestellte Fragen zu Inhalt und Dateianhang](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Verfügt Sales Insight-Aktionen über eine iPhone- oder Android-App?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [Wie kann ich Sales Insight-Aktionen auf meinem Server in Zulassungslisten einordnen?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Wie behob ich die Fehlermeldung &quot;Wir konnten Ihre Anfrage nicht authentifizieren&quot;bei der Verbindung mit Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Wie kann ich Selbstansichten verhindern?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Wie funktioniert das Standorttracking?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Wie werden E-Mail-Deduplizierungen in Sales Insight-Aktionen behandelt?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [Ich wurde aus meinem Konto gesperrt. Was mache ich?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [Ist Sales Insight-Aktionen mit Salesforce-Blitzen kompatibel?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [Was sind die neuesten Client-Versionen?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [Was sind die Service-Bedingungen für Sales Insight-Aktionen?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [Warum werden keine meiner Kontakte an Sales Insight-Aktionen weitergeleitet?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Warum kann ich einen Kontakt nicht löschen?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
+            + [Warum wurden nicht alle meine Kontakte auf Sales Insight-Aktionen verschoben?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Warum wird die Tracking-Aktivität nicht in der Salesforce-Aktivität angezeigt?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [Marketo-Zugriff für Benutzer gewähren](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
