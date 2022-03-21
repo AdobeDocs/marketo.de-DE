@@ -2,9 +2,9 @@
 description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen von Sales Insight-Aktionen
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 1%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 1%
 # Übersicht über die Funktionen von Sales Insight-Aktionen {#msi-actions-feature-overview}
 
 Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mithilfe von Sales Insight-Aktionen die Prospektionsbemühungen in einem einzigen Workflow beschleunigen.
+
+>[!AVAILABILITY]
+>
+>Diese Funktion ist derzeit auf begrenztem GA verfügbar. Wenden Sie sich an Ihren Customer Success Manager oder Ihre E-Mail `sales-insights(at)adobe(dot)com` , um Zugriff anzufordern.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -21,7 +25,7 @@ Die folgenden Aktionen sind in der Dropdown-Liste &quot;Aktionen auswählen&quot
 
 * Verkaufs-E-Mail senden
    * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
+   * Umfasst E-Mail-Personalisierung, benutzerdefinierte Signatur und Anlagen
    * Vorlagenfreigabe und Berichte
    * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
    * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert

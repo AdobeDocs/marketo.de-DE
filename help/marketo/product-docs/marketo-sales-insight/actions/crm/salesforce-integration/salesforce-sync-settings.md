@@ -4,10 +4,10 @@ title: Salesforce-Synchronisationseinstellungen
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 1%
+source-wordcount: '709'
+ht-degree: 0%
 
 ---
 
@@ -114,3 +114,21 @@ Wenn Sie Meine E-Mail an Salesforce unter Ihren Einstellungen nicht sehen, hat I
 1. Wählen Sie die gewünschte Option aus (&quot;Synchronisieren Sie nicht mit Salesforce-Aufgaben&quot; ist standardmäßig ausgewählt).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Synchronisieren von Sales Insight-Aktionsaufgaben mit Salesforce zum ersten Mal {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+Wenn Sie die Synchronisierung zwischen Sales Insight-Aktionen und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir werden keine aktuellen Aufgaben, die Sie in Sales Insight-Aktionen haben, an Salesforce übergeben. Um Übersichtlichkeit und Duplikate zu reduzieren, sind die einzigen Aufgaben, die aus Sales Insight-Aktionen in Salesforce synchronisiert werden, Aufgaben, die nach der Synchronisierung von Sales Insight-Aktionen mit SFDC erstellt wurden.
+
+Folgendes passiert, wenn Sie Sales Insight-Aktionen und SFDC-Aufgaben synchronisieren:
+
+Sobald Sie auf Bei der Aufgabensynchronisierung speichern klicken, beginnen sie mit der Synchronisierung. Dies wird zunächst einige Zeit in Anspruch nehmen.
+
+Alle Erinnerungen, die in den letzten 24 Stunden aktualisiert oder erstellt wurden, werden von SFDC zu Sales Insight-Aktionen abgerufen. Die Synchronisation basiert auf dem Fälligkeitsdatum und alle diese Aufgaben werden im Backend synchronisiert, aber im Command Center werden nur noch Aufgaben angezeigt, die heute und morgen fällig sind.
+
+Wenn die Synchronisierung zuvor aktiviert wurde und Sie alle Aufgaben in SFDC löschen, werden alle Elemente, die in den letzten 15 Tagen gelöscht wurden, aus Command Center gelöscht.
+
+Solange die Synchronisierung aktiviert ist, synchronisieren wir ständig Aufgaben zwischen Sales Insight Actions und SFDC.
+
+Nach der ersten Synchronisierung werden alle Aufgaben, die Sie in Sales Insight-Aktionen erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgabenliste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wurde, aktualisiert Ihre Aufgabenliste in Sales Insight-Aktionen.
+
+Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Synchronisierungsfeld auf Ihrer Einstellungsseite in der Webanwendung.
