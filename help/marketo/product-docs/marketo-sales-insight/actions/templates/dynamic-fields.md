@@ -3,7 +3,7 @@ description: Dynamische Felder - Marketo-Dokumente - Produktdokumentation
 title: Dynamische Felder
 hide: true
 hidefromtoc: true
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: a0b10255513c13b7100b667513e3e61fc3788a15
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 1%
@@ -60,4 +60,4 @@ Dieses Tool wird verwendet, um `auto-personalize your email` und sparen Ihnen un
 
 >[!TIP]
 >
->Wenn Ihre dynamischen Felder nicht ausgefüllt werden, überprüfen Sie [diesem Artikel](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out).
+>Wenn Ihre dynamischen Felder nicht ausgefüllt werden, überprüfen Sie [diesem Artikel](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
