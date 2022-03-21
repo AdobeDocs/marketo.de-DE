@@ -1,10 +1,8 @@
 ---
 description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen von Sales Insight-Aktionen
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -23,7 +21,7 @@ Die folgenden Aktionen sind in der Dropdown-Liste &quot;Aktionen auswählen&quot
 
 * Verkaufs-E-Mail senden
    * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalisierung, benutzerdefinierte Signatur und Anlagen
+   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
    * Vorlagenfreigabe und Berichte
    * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
    * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert
@@ -75,7 +73,7 @@ Die folgenden Aktionen sind in der oberen Navigationsleiste verfügbar:
 
 * Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte Gruppen-E-Mails mit Ansicht-, Klick- und Antworttracking an alle Kontakte zu senden, die mit einem Konto/einer Gelegenheit verknüpft sind
    * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalisierung, benutzerdefinierte Signatur und Anlagen
+   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
    * Vorlagenfreigabe und Berichte
    * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
    * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert
