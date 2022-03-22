@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '803'
 ht-degree: 1%
 
 ---
@@ -23,9 +23,9 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **11. März 2022**,
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Dynamischer Chat**: Maximieren Sie jede Gelegenheit auf Ihrer Website, indem Sie sowohl Leads als auch Konten mit proaktiven, ansprechenden und 1:1 personalisierten Konversationen auswählen. Mit dem dynamischen Chat können Marketo Engage-Benutzer anfangen, Chat als zentralen Bestandteil integrierter kanalübergreifender Erlebnisse für B2B-Marketing- und Verkaufsanwendungsfälle zu nutzen. Zu den Funktionen gehören: die Möglichkeit, Meetings direkt im Chat zu buchen, Lead-Routing, Startervorlagen, Drag-and-Drop-Konversationserstellung und vieles mehr. Der dynamische Chat ist in allen Marketo Engage-Packages enthalten und wird in diesem Jahr für alle Marketo Engage-Benutzer eingeführt.
+* **Dynamischer Chat**: Maximieren Sie jede Gelegenheit auf Ihrer Website, indem Sie sowohl Leads als auch Konten mit proaktiven, ansprechenden und 1:1 personalisierten Konversationen auswählen. [Dynamischer Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} ermöglicht es Marketo Engage-Benutzern, Chat als zentralen Bestandteil integrierter kanalübergreifender Erlebnisse für B2B-Marketing- und Verkaufsanwendungsfälle zu nutzen. Zu den Funktionen gehören: die Möglichkeit, Meetings direkt im Chat zu buchen, Lead-Routing, Startervorlagen, Drag-and-Drop-Konversationserstellung und vieles mehr. Der dynamische Chat ist in allen Marketo Engage-Packages enthalten und wird in diesem Jahr für alle Marketo Engage-Benutzer eingeführt.
 
-* **Verbesserung der Filterung der E-Mail-Bot-Aktivität**: Als Verbesserung der zuvor veröffentlichten Funktion zur Filterung der E-Mail-Bot-Aktivität können Sie sich jetzt für Protokollierungsaktivitäten anmelden, die als Bots identifiziert werden. Sie können dann Aktionen nach Aktivitäten filtern und Trigger erstellen, die von Bots als ausgeführt identifiziert wurden.
+* **Verbesserung der Filterung der E-Mail-Bot-Aktivität**: Verbesserung der zuvor veröffentlichten [Filterung der E-Mail-Bot-Aktivität](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} verwenden, können Sie sich jetzt für Protokollierungsaktivitäten anmelden, die als Bots identifiziert werden. Sie können dann Aktionen nach Aktivitäten filtern und Trigger erstellen, die von Bots als ausgeführt identifiziert wurden.
 
 ## Erlebnis der nächsten Generation {#next-generation-experience}
 
@@ -54,6 +54,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **11. März 2022**,
 * **Massen-benutzerdefinierter Objektexport aktualisiert am Filter**: Ermöglicht Marketern die programmgesteuerte Synchronisierung benutzerdefinierter Objekte
 * **Head Start-Einstellung für E-Mail-Programme verfügbar machen**: Ermöglicht es Marketingexperten, E-Mail-Programme mit Head Start via API zu konfigurieren
 * **Selektives Programm-Tag-Update**: Ermöglicht es Marketing-Experten, selektive Tag-Updates zu pushen, ohne alle Tags gleichzeitig zu pushen
+* **Feld &quot;Massenaktivität extrahieren&quot;actionResult**: Ermöglicht es Marketingexperten, zu erkennen, welche Aktivitäten übersprungen wurden oder fehlgeschlagen sind
 
 **_Veröffentlichung im gesamten Quartal_**
 
