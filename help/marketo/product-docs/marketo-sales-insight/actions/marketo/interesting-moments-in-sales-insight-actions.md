@@ -1,0 +1,57 @@
+---
+description: Interessante Momente in Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+title: Interessante Momente in Sales Insight-Aktionen
+hide: true
+hidefromtoc: true
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+workflow-type: tm+mt
+source-wordcount: '250'
+ht-degree: 0%
+
+---
+
+# Interessante Momente in Sales Insight-Aktionen {#interesting-moments-in-sales-insight-actions}
+
+Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Verkaufsteam über Marketo Sales Insight-Aktionen.
+
+## Was ist ein interessanter Moment? {#what-is-an-interesting-moment}
+
+Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Verkaufsteam relevant sind. Ihr Verkaufsteam möchte möglicherweise wissen, wann ein Lead:
+
+* Besucht die Preisseite auf Ihrer Website
+* Klicken Sie auf einen Link in einer neuen Produktankündigungs-E-Mail
+* Anfordern einer Produktdemo
+
+## Wie erstelle ich einen interessanten Moment? {#how-do-i-create-an-interesting-moment}
+
+1. Wählen Sie eine [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target=&quot;_blank&quot;}, vorzugsweise eines, das Ihr Verkaufsteam interessant finden würde, wenn es ausgelöst wird.
+
+   ![](assets/interesting-moments-in-sales-insight-actions-1.png)
+
+1. Ziehen Sie über die **Interessante Momente** Flussschritt.
+
+   ![](assets/interesting-moments-in-sales-insight-actions-2.png)
+
+1. Wählen Sie eine **type** (E-Mail, Meilenstein oder Web).
+
+   ![](assets/interesting-moments-in-sales-insight-actions-3.png)
+
+1. Schreiben Sie eine Nachricht an Ihr Verkaufsteam im **Beschreibung** -Feld, das erklärt, warum diese Aktion wichtig ist.
+
+   ![](assets/interesting-moments-in-sales-insight-actions-4.png)
+
+   >[!NOTE]
+   >
+   >Marketo fügt außerdem das Datum, an dem es aufgetreten ist, sowie die Art und Weise hinzu, wie der interessante Moment hinzugefügt wurde (d. h. Lead-Aktion > Flussschritt, SOAP-API).
+
+## Wie sieht ein interessanter Moment in Marketo aus?  {#what-does-an-interesting-moment-look-like-in-marketo}
+
+Interessante Momente werden in einer [Aktivitätsprotokoll des Leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target=&quot;_blank&quot;}.
+
+![](assets/interesting-moments-in-sales-insight-actions-5.png)
+
+## Wie sieht ein interessanter Moment in Sales Insight-Aktionen aus? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+
+Interessante Momente werden in Echtzeit im Live Feed eines Benutzers angezeigt. Wir verwenden die Lead-Eigentümer-ID in Salesforce, um die interessanten Momente der Benutzer zu relevanten Leads zu zeigen, deren Inhaber sie sind. Benutzer können schnell über E-Mail-, Telefon- oder Vertriebskampagnen auf Leads reagieren, indem sie auf das Dropdown-Menü neben dem Namen des Leads klicken.
+
+![](assets/interesting-moments-in-sales-insight-actions-6.png)

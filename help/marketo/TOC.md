@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 5%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 5%
          + Kampagnen {#campaigns}
             + [Zu Marketing-Kampagne hinzufügen](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Kampagne wurde beendet](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Anzeigen der Kampagnenliste als anderer Benutzer](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce-Anpassung {#salesforce-customization}
                + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 5%
             + [E-Mails an eine externe Quelle protokollieren](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Marketo-Zugriff für Benutzer gewähren](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Interessante Momente in Sales Insight-Aktionen](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Sichtbarkeit einer Kampagne für Benutzer von Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [Trigger und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar zur Aktivität &quot;Sales Insight-Aktionen&quot;](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
