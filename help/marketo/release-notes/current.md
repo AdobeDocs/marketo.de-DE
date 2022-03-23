@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '793'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,6 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **11. März 2022**,
 
 * **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
-   * E-Mail-Listenansicht in Design Studio (einschließlich neuer Massenaktionen)
    * Formularlistenansicht in Design Studio (einschließlich neuer Massenaktionen)
 
 * **Import Program Workflow Update**: Der Workflow für das Importprogramm wird in der nächsten Generation mit aktualisierten Design- und Benutzerfreundlichkeitsverbesserungen bereitgestellt. Dies ist eine automatische Änderung ohne Umschalter.
