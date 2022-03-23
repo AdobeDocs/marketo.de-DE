@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Stream-Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 
 ## Erstellen eines Streams {#create-a-stream}
 
-1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md), klicken Sie auf die **Stream-Designer** Registerkarte.
+1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, klicken Sie auf die **Stream-Designer** Registerkarte.
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 
 >[!NOTE]
 >
->Stellen Sie vor dem Klicken auf Veröffentlichen sicher, dass Sie [Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Stellen Sie vor dem Klicken auf Veröffentlichen sicher, dass Sie [Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
