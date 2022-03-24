@@ -3,7 +3,8 @@ description: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails - Mar
 title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
+source-git-commit: 43878490538ad5485c9e6d7aa0c7f8f1b443ad8c
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 1%
@@ -14,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Salesforce- und Sales Insight-Aktionen [muss verbunden sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+>* Salesforce- und Sales Insight-Aktionen [muss verbunden sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 
 
