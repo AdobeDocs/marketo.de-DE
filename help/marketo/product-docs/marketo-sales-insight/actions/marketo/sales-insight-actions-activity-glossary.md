@@ -1,9 +1,8 @@
 ---
 description: Activity-Glossar zu Einblicken-Aktionen für Vertrieb - Marketo-Dokumente - Produktdokumentation
 title: Glossar zur Aktivität "Sales Insight-Aktionen"
-hide: true
-hidefromtoc: true
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 6%
