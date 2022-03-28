@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Programm importieren - Marketo-Dokumente - Produktdokumentation
 title: Programm importieren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
 
 1. Navigieren Sie zu **Marketingaktivitäten.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. Klicken **Neu** angezeigt. Auswählen **Importprogramm**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
 
 1. Marketo auswählen **Abonnement** und ein Importprogramm. Klicken **Nächste**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. Geben Sie eine **Kampagnenordner** für das importierte Programm. Klicken **Weiter.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >Stellen Sie sicher **Standardkonflikt verwenden** -Regeln ausgewählt ist. Konfliktregeln sind erforderlich, wenn Sie Programme in eine Instanz importieren, die Assets mit demselben Namen enthält.
 
+1. Wählen Sie die gewünschten Konfliktdetails aus und klicken Sie auf **Nächste**.
+
+   ![](assets/import-a-program-5.png)
+
 1. Details in der Vorschau anzeigen und **Import** das Programm.
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   Ein Dialogfeld zeigt den Fortschritt des Programmimports an.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 Sie erhalten eine E-Mail-Bestätigung, sobald der Import abgeschlossen ist.
 
@@ -67,7 +67,7 @@ Die Marketo-Programmbibliothek enthält vordefinierte, getestete Programme, die 
 1. **Interessante Momente.** Erstellt interessante Momente für Ihr Verkaufsteam, um sie in der Schleife zu halten.
 1. **Landingpage mit Autoresponder.** Verwenden Sie herunterladbare Inhalte, um neue Personen zu gewinnen und sie zu pflegen. Umfasst Landingpages und Formulare.
 1. **Lebenszyklus 2.** Verwendet Scoring, um eine Person von einer neuen in eine Marketing qualifizierte zu verschieben.
-1. **Mobile E-Mail-Vorlage.** Eine responsive E-Mail-Vorlage, die mit iPhone und Android getestet wurde. Bestimmte Versionen von Android-, MS Outlook-, Exchange- und Drittanbieter-Apps wie Gmail und Yahoo! Mobile E-Mail-Apps unterstützen nicht das für responsive Vorlagen erforderliche CSS. Wir empfehlen Ihnen, vor dem Versand von E-Mails einen Test durchzuführen.
+1. **Mobile-E-Mail-Vorlage.** Eine responsive E-Mail-Vorlage, die mit iPhone und Android getestet wurde. Bestimmte Versionen von Android-, MS Outlook-, Exchange- und Drittanbieter-Apps wie Gmail und Yahoo! Mobile E-Mail-Apps unterstützen nicht das für responsive Vorlagen erforderliche CSS. Wir empfehlen Ihnen, vor dem Versand von E-Mails einen Test durchzuführen.
 1. **Preisausschreiben beim Programmimport.** Preisausschreiben für diejenigen, die die Programmbibliothek ausprobieren! Validieren Sie einfach die E-Mails und die Landingpage und aktivieren Sie die Smart-Kampagne. Dann sehen Sie sich die genehmigte Landingpage an, füllen Sie das Formular aus und Sie werden eingetragen!
 1. **Verfügbare Kampagnen für Verkäufe.** Bietet Ihren Vertriebsmitarbeitern die Möglichkeit, Smart-Kampagnen aus Marketo über ein Dashboard in Ihrem CRM-System auszuführen.
 1. **Scoring - Spark Edition.** Demografische und verhaltensbasierte Bewertung, die in einem einzigen Scoring-Feld erfasst werden. Umfasst mehr als zwei Dutzend Scoring-bezogene Kampagnen.
