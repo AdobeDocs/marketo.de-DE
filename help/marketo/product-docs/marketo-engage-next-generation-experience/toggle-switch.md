@@ -2,9 +2,9 @@
 description: Umschalten - Marketo Docs - Produktdokumentation
 title: Umschalten
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -81,14 +81,32 @@ Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-13.png)
 
+## Formularlistenansicht {#form-list-view}
+
+1. Wählen Sie in Marketo **Design Studio**.
+
+   ![](assets/toggle-switch-14.png)
+
+1. Auswählen **Forms**.
+
+   ![](assets/toggle-switch-15.png)
+
+1. Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+
+   ![](assets/toggle-switch-16.png)
+
+Das neue Erlebnis wird geladen.
+
+![](assets/toggle-switch-17.png)
+
 ## Aktivieren für alle Funktionen {#enable-for-all-features}
 
 Sie haben die Möglichkeit, die Benutzeroberfläche der nächsten Generation von Marketo für alle verfügbaren Funktionen zu aktivieren, die aktuell und in Kürze verfügbar sind.
 
 1. In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Formulardetailseite](#form-details-page)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
 
-   ![](assets/toggle-switch-14.png)
+   ![](assets/toggle-switch-18.png)
 
 1. Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
 
-   ![](assets/toggle-switch-15.png)
+   ![](assets/toggle-switch-19.png)
