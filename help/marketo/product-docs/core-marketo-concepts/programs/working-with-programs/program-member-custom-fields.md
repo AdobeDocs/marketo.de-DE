@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Benutzerdefinierte Felder für Programmmitglieder - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Felder für Programmmitglieder
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -70,7 +70,7 @@ Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/he
 * Das Programmteilobjekt kann über bis zu 20 benutzerdefinierte Felder verfügen. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und im benutzerdefinierten Feld Programmteilnehmer Daten enthalten, werden die Daten aus diesem Feld gescrollt.
 * Um die Daten anzuzeigen, klicken Sie im Programm auf den Tab Mitglieder und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
-* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [API](https://developers.marketo.com/) werden unterstützt.
+* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [API](https://developers.marketo.com/) werden unterstützt. Exporte funktionieren nur auf Programmteilslisten, nicht auf statischen Listen.
 * Wenn Sie zwei Personen zusammenführen, werden die benutzerdefinierten Felddaten des Gewinners für das Programmmitglied verwendet. Wenn der Gewinner jedoch keinen hat, wird der Wert des Verlierers verwendet.
 * Änderungstyp ist **not** in Feldern mit Informationen zu Programmmitgliedern zulässig.
 
