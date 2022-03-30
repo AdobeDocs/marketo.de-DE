@@ -1,60 +1,59 @@
 ---
 unique-page-id: 10099077
-description: Email Deliverability Power Pack - How Import a Seedlist - Marketing to Docs - Produktdokumentation
-title: Email Deliverability Power Pack - Wie man eine Seedlist importiert
-translation-type: tm+mt
-source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
+description: Email Deliverability Power Pack - Importieren einer Testliste - Marketo Docs - Produktdokumentation
+title: Email Deliverability Power Pack - Importieren einer Testliste
+exl-id: a4782611-2556-43bf-802b-afeb332eafcd
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Email Deliverability Power Pack: Importieren einer Testliste {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
-# E-Mail-Auslieferungs-Power-Pack: Importieren einer Seedlist {#email-deliverability-power-pack-how-to-import-a-seedlist}
-
-Eine Seed-Liste ist eine Liste von E-Mail-Konten bei verschiedenen Mailbox-Anbietern, einschließlich Google Apps, Hotmail, Yahoo! usw., die verwendet werden, um die Zustellbarkeit von Inbox- und Spam-Ordnern zu schätzen. So erhalten Sie diese Liste in Ihrer Marketo-Instanz.
+Eine Seed-Liste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einschließlich Google Apps, Hotmail, Yahoo! usw., die verwendet werden, um die Zustellrate von Postfächern im Vergleich zu Spam-Ordnern zu schätzen. So erhalten Sie diese Liste in Ihre Marketo-Instanz.
 
 >[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-## Importieren einer Seedlist {#import-a-seedlist}
+## Testliste importieren {#import-a-seedlist}
 
-1. Gehen Sie zu **Bereitstellbarkeitstools**.
+1. Navigieren Sie zu **Zustellbarkeits-Tools**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Inbox-Informant**.
+1. Klicken **Inbox Informant**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf **Get Seedlist**.
+1. Klicken **Seedlist abrufen**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Liste exportieren**.
+1. Klicken **Exportliste**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Wählen Sie **Liste optimieren**, wenn Sie 250ok zu [Ihre Liste](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) optimieren möchten. Wählen Sie **Liste** anpassen, wenn Sie die gewünschten Listenbereiche auswählen möchten.
+   >Auswählen **Liste optimieren** wenn 250ok [Liste optimieren](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) für Sie. Auswählen **Liste anpassen** , wenn Sie die seedlist -Bereiche auswählen möchten, die Sie einbeziehen möchten.
 
-1. Nach dem Exportieren wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie es ab und [importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) es als statische Liste in Ihre Marketo-Instanz.
+1. Nach dem Export wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Abrufen und [importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in Ihre Marketo-Instanz als statische Liste.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Achten Sie darauf, Ihre Liste so zu benennen, dass sie leicht zu finden ist.
+   >Benennen Sie Ihre Liste so, dass sie leicht zu finden ist.
 
    >[!CAUTION]
    >
-   >Sie erhalten eine begrenzte Anzahl dieser Inbox-Informant-Kampagnen pro Monat. Um zu sehen, wie viele Sie erhalten, sehen Sie sich Ihre 250ok **Kontoeinstellungen** an. Für weitere Informationen wenden Sie sich bitte an Ihren Marketing-Vertriebsmitarbeiter.
+   >Sie erhalten eine begrenzte Anzahl dieser Inbox Informant-Kampagnen pro Monat. Um zu sehen, wie viele Sie erhalten, schauen Sie in Ihrem 250ok **Kontoeinstellungen**. Weitere Informationen erhalten Sie von Ihrem Marketo-Vertriebsmitarbeiter.
 
-## Neue Seedlists abrufen {#acquiring-new-seedlists}
+## Erfassen neuer Testlisten {#acquiring-new-seedlists}
 
-Ihre Sedlist kann sich so oft wie jeden Monat ändern. Es ist wichtig, sich regelmäßig beim E-Mail-Versand Power Pack anzumelden und den Status Ihrer Seed-Liste zu überprüfen. Wenn neue Adressen hinzugefügt werden oder ein Update erforderlich ist, werden Sie über die Oberfläche auf der Seite &quot;Get Seedlist&quot;benachrichtigt.
+Ihre Testliste kann sich so oft wie jeden Monat ändern. Es ist wichtig, sich regelmäßig beim Email Delivery Power Pack anzumelden und den Status Ihrer Testliste zu überprüfen. Wenn neue Adressen hinzugefügt werden oder eine Aktualisierung am Ende erforderlich ist, werden Sie über die Benutzeroberfläche auf der Seite &quot;Get Seedlist&quot;benachrichtigt.
 
-Nachdem die statische Liste in Marketo erstellt wurde, können Sie damit beginnen, die Platzierung des Posteingangs durch Ihre E-Mail zu testen.
+Nachdem Ihre statische Liste in Marketo erstellt wurde, können Sie mit dem Versand beginnen, um die Platzierung des Posteingangs Ihrer E-Mail zu testen.

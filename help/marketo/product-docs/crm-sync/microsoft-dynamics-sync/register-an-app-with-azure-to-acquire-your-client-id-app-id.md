@@ -1,23 +1,22 @@
 ---
 unique-page-id: 12983390
-description: Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erwerben - Marketo Docs - Produktdokumentation
-title: Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erhalten.
+description: Registrieren Sie eine App bei Azure, um Ihre Client-ID/App-ID zu erhalten - Marketo Docs - Produktdokumentation
+title: Registrieren Sie eine App bei Azure, um Ihre Client-ID/App-ID zu erhalten.
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
 
-# Registrieren Sie eine App mit Azurblase, um Ihre Client-ID/App-ID zu erlangen. {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
+# Registrieren Sie eine App bei Azure, um Ihre Client-ID/App-ID zu erhalten. {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azurblauer Active Directory erweitert Ihre lokalen Verzeichnisse in die Cloud und bietet Unterstützung für MS Dynamics 365 CRM mit lokale ADFS-Authentifizierung.
+Azure Active Directory erweitert Ihre lokalen Verzeichnisse in die Cloud und unterstützt MS Dynamics 365 CRM mit On-Premise-ADFS-Authentifizierung.
 
 ## Registrieren einer neuen App {#registering-a-new-app}
 
-1. [Melden Sie sich ](https://manage.windowsazure.com/) beim Microsoft Azurblase Management Portal mit einem Konto mit Administratorberechtigungen an. Sie können auch über das Office 365 Admin Center auf das Microsoft Azurblaus-Portal zugreifen, indem Sie das Element **Admin** im linken Navigationsbereich erweitern und **Azurblaue Anzeige** auswählen.
+1. [Anmelden](https://azure.microsoft.com/en-us/account/) über ein Konto mit Administratorberechtigungen zum Microsoft Azure-Verwaltungsportal. Sie können auch über das Office 365 Admin Center auf das Microsoft Azure-Portal zugreifen, indem Sie die **Admin** Element im linken Navigationsbereich und wählen Sie **Azure AD**.
 
    >[!CAUTION]
    >
@@ -25,12 +24,12 @@ Azurblauer Active Directory erweitert Ihre lokalen Verzeichnisse in die Cloud un
 
    >[!NOTE]
    >
-   >Wenn Sie kein blaues Konto haben, können Sie [für ein Konto ](https://azure.microsoft.com/en-us/free/) registrieren. Weitere Informationen erhalten Sie in der Microsoft-Dokumentation oder bei Ihrem Microsoft-Kundenbetreuer. Nachdem Sie ein Azurblauer Konto erstellt haben, können Sie eine oder mehrere Apps mit dem unten beschriebenen Verfahren registrieren.
+   >Wenn Sie kein Azure-Konto haben, können Sie [anmelden](https://azure.microsoft.com/en-us/free/) für eins. Weitere Informationen erhalten Sie in der Dokumentation zu Microsoft oder bei Ihrem Microsoft-Support-Mitarbeiter. Nachdem Sie ein Azure-Konto erstellt haben, können Sie eine oder mehrere Apps gemäß dem unten beschriebenen Verfahren registrieren.
    >
    >
-   >Wenn Sie über ein blaues Konto verfügen, aber Ihr Office 365-Abonnement mit Microsoft Dynamics 365 nicht in Ihrem Azurblauen Abonnement verfügbar ist, folgen Sie [diesen Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription), um die beiden Konten zuzuordnen.
+   >Wenn Sie über ein Azure-Konto verfügen, Ihr Office 365-Abonnement mit Microsoft Dynamics 365 jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, folgen Sie den Anweisungen. [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) , um die beiden Konten zuzuordnen.
 
-1. Klicken Sie im linken Navigationsbereich auf **Blaues Active Directory**.
+1. Suchen und Klicken **Azure Active Directory** im linken Navigationsbereich.
 
    ![](assets/two.png)
 
@@ -38,49 +37,49 @@ Azurblauer Active Directory erweitert Ihre lokalen Verzeichnisse in die Cloud un
 
    ![](assets/three.png)
 
-1. Klicken Sie oben auf der Seite auf **Neue Registrierung**.
+1. Klicken **Neue Registrierung** oben auf der Seite.
 
    ![](assets/four.png)
 
-1. Geben Sie einen Namen für Ihre App ein, wählen Sie den gewünschten Kontotyp und geben Sie eine Umleitungs-URL ein. Klicken Sie anschließend unten auf der Seite auf **Register**.
+1. Geben Sie einen Namen für Ihre App ein, wählen Sie den entsprechenden Kontotyp aus und geben Sie eine Umleitungs-URL ein. Klicken Sie anschließend auf **registrieren** unten auf der Seite.
 
    ![](assets/five.png)
 
-1. Sie sollten Ihre App jetzt auf der Registerkarte **App-Registrierungen** sehen.
+1. Ihre App sollte jetzt im **App-Registrierungen** Registerkarte.
 
    ![](assets/six.png)
 
 ## Konfigurieren von App-Berechtigungen {#configuring-app-permissions}
 
-1. Klicken Sie auf der Registerkarte **App-Registrierungen** in Ihrem Active Directory auf die App, für die Sie Berechtigungen konfigurieren möchten.
+1. Unter dem **App-Registrierungen** in Ihrem Active Directory auf die App klicken, für die Sie Berechtigungen konfigurieren möchten.
 
    ![](assets/seven.png)
 
-1. Klicken Sie unter Verwalten auf **API-Berechtigungen**.
+1. Klicken Sie unter Verwalten auf **API-Genehmigungen**.
 
    ![](assets/eight.png)
 
-1. Klicken Sie auf die Schaltfläche **Hinzufügen eine Berechtigung**.
+1. Klicken Sie auf **Berechtigung hinzufügen** Schaltfläche.
 
    ![](assets/nine.png)
 
-1. Wählen Sie **Dynamics CRM**.
+1. Auswählen **Dynamics CRM**.
 
    ![](assets/ten.png)
 
-1. Markieren Sie das Feld **Zugriff auf den allgemeinen Datendienst als Organisationsbenutzer****s** und klicken Sie dann auf **Hinzufügen Berechtigungen.**
+1. Überprüfen Sie die **Zugriff auf den allgemeinen Datendienst als Organisationsbenutzer***s** und klicken Sie auf **Berechtigungen hinzufügen.**
 
    ![](assets/eleven.png)
 
-1. Warten Sie nach dem erfolgreichen Hinzufügen der Berechtigungen mindestens 10 Sekunden.
+1. Warten Sie mindestens 10 Sekunden, nachdem die Berechtigungen erfolgreich hinzugefügt wurden.
 
    ![](assets/twelve.png)
 
-1. Klicken Sie auf die Schaltfläche **Administratorgenehmigung gewähren**.
+1. Klicken Sie auf **Erteilen der Admin-Zustimmung** Schaltfläche.
 
    ![](assets/thirteen.png)
 
-1. Klicken Sie zur Bestätigung auf **Ja**.
+1. Klicken **Ja** zur Bestätigung.
 
    ![](assets/fourteen.png)
 

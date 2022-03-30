@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Versionshinweise - Frühjahr 2019 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Frühjahr 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 6%
@@ -24,7 +24,7 @@ Die folgenden Funktionen wurden am 15. März 2019 veröffentlicht.
 
 * **Waitlisted:** Neuer Programm-/Ereignisstatus für die Warteliste eines Mitglieds, wenn Sie möchten [Legen Sie sie auf](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis zur Eröffnung eines freien Sitzes. Dies gilt für Kanäle, die Ereignisprogrammen in Marketo Classic zugeordnet sind, sowie für Event- und Event-Programme mit Webinar-Programmen in Marketo Sky. Standardmäßig hat &quot;Waitlisted&quot;denselben Schrittwert wie &quot;Registered&quot;.
 * **[Benutzerdefinierte Kommunikationsbeschränkung](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratoren können jetzt benutzerdefinierte tägliche oder wöchentliche Kommunikationsbeschränkungen festlegen.
-* **[Asset-APIs für intelligente Kampagnen](https://developers.marketo.com/rest-api/assets/campaigns/)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abrufen von Smart-Kampagnensätzen nach aktualisiertem Datum und aktualisierter ID an.
+* **[Asset-APIs für intelligente Kampagnen](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abrufen von Smart-Kampagnensätzen nach aktualisiertem Datum und aktualisierter ID an.
 * **HTTPS-Tracking-Links für E-Mail:** Kunden, die &quot;Sichere Domänen für Tracking-Links&quot;erworben haben, können in E-Mails nun Marken-Tracking-Links als HTTPS anzeigen.
 * **E-Mail-Zustellbarkeit - Powerpack-Updates**: Möglichkeit, bestimmte Testergebnisse zu kennzeichnen und zu kommentieren, Ergebnisse über eine URL mit Interessengruppen zu teilen und Änderungen zu verfolgen, um die Evolution einer E-Mail zu sehen, wenn Interessengruppen Inhalte bearbeiten.
 

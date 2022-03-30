@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Versionshinweise - Winter 18 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Winter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 8%
@@ -24,9 +24,9 @@ Marketo nutzt unsere Big-Data-Architektur, um den Durchsatz von Trigger-Kampagne
 
 Wir haben zwei Verbesserungen an unserer Salesforce CRM-Integration:
 
-* [Marketo-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) Administratorbenachrichtigungen für bestimmte Fehler bei der CRM-Synchronisierung (Anmeldeinformationen abgelaufen, API-Beschränkungen erreicht usw.)
+* [Marketo-Administratorbenachrichtigungen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) für bestimmte Fehler bei der CRM-Synchronisierung (Anmeldeinformationen abgelaufen, API-Beschränkungen erreicht usw.)
 
-* [Möglichkeit zur Deaktivierung von E-Mail-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) Benachrichtigungen an Lead-Eigentümer bei der Lead-Zuweisung
+* [Möglichkeit, E-Mail-Benachrichtigungen zu deaktivieren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) Lead-Eigentümer bei Lead-Zuweisung
 
 Diese Verbesserungen werden im Laufe des Jahres 2018 eingeführt.
 
@@ -56,13 +56,13 @@ Velocity-Scripting wird nun auch bei E-Mails mit dynamischem Inhalt unterstützt
 
 * **[Monatliche Krankenpflege](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Wir haben die Möglichkeit hinzugefügt, Pflegeprogramme monatlich zu planen.
 
-* **[Versand beenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Sie können jetzt alle verbleibenden Sendungen während der Ausführung stoppen.
+* **[Versand stoppen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Sie können jetzt alle verbleibenden Sendungen während der Ausführung stoppen.
 
 ## Anzeigennetzwerkintegrationen {#ad-network-integrations}
 
 **[Google Customer Match Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Mit dieser Integration können Sie eine Marketo-Zielgruppe an Google senden, um mithilfe von Google AdWords ein Targeting durchzuführen und Zielgruppen in YouTube, Search und Gmail erneut anzusprechen.
+Mit dieser Integration können Sie eine Marketo-Zielgruppe an Google senden, um mithilfe von Google AdWords Targeting durchzuführen und Zielgruppen in YouTube, Search und Gmail erneut anzusprechen.
 
 **[API-Erweiterung für linkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
@@ -70,13 +70,13 @@ Mit der neuen LinkedIn-API können Sie jetzt Personen in Ihrer Marketo-Datenbank
 
 ## Webpersonalisierung {#web-personalization}
 
-**Japanische Datenquelle für die Web-Personalisierung**
+**Japanische Datenquelle für Web Personalization**
 
-Marketo fügt eine zusätzliche japanische Datenquelle für die Web-Personalisierung hinzu, um die Identifizierung von Webbesuchern (Reverse-IP-Suche) und die Personalisierung von Besuchern aus Japan zu verbessern. Die Organisationsnamen werden auf Japanisch angezeigt.
+Marketo fügt eine zusätzliche japanische Datenquelle für Web Personalization hinzu, um die Identifizierung von Webbesuchern (Reverse-IP-Suche) und die Personalisierung von Besuchern aus Japan zu verbessern. Die Organisationsnamen werden auf Japanisch angezeigt.
 
 **[Web-Segment mithilfe statischer Listen erstellen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Mit der Web-Personalisierung können Inhalte nun für bekannte Webbesucher personalisiert werden, die Teil einer statischen Liste sind, die in Marketing-Aktivitäten (MLM) definiert ist. Mit dieser Verbesserung können Sie jetzt kanalübergreifend statische Listen vermarkten und Personen auf diesen Listen mit personalisierten Inhalten auf Ihrer Website ansprechen.
+Web Personalization kann Inhalte nun für einen bekannten Webbesucher personalisieren, der Teil einer statischen Liste ist, die in Marketingaktivitäten (MLM) definiert ist. Mit dieser Verbesserung können Sie jetzt kanalübergreifend statische Listen vermarkten und Personen auf diesen Listen mit personalisierten Inhalten auf Ihrer Website ansprechen.
 
 ## ContentAI {#contentai}
 
@@ -86,7 +86,7 @@ Inhalte, die über die optimierten ContentAI-Algorithmen von Marketo empfohlen w
 
 ## Integration {#integration}
 
-**[Kampagnen-API aktivieren/deaktivieren](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Kampagnen-API aktivieren/deaktivieren](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programmvorlagen erstellen können. Erstellen Sie einmal eine Programmvorlage und automatisieren Sie dann das Klonen, Marketingmaterial-Updates und jetzt die Aktivierung/Planung intelligenter Kampagnen.
 
@@ -94,7 +94,7 @@ Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktiv
 
 **Update abbestellen**
 
-Ab dem 1. März 2018 wird allen E-Mails, die von [ToutApp.com](https://ToutApp.com) gesendet werden (und über die Schaltfläche &quot;E-Mail mit Tout&quot;in Salesforce), ein Abmelde-Link am Ende angehängt.
+Ab dem 1. März 2018 werden alle E-Mails von [ToutApp.com](https://ToutApp.com) (und durch die Verwendung der Schaltfläche &quot;E-Mail mit Tout&quot; in Salesforce) wird am unteren Rand ein Abmelde-Link angehängt.
 
 **Live-Feed-Update**
 

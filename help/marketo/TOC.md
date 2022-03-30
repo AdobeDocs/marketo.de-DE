@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '8616'
+source-wordcount: '8637'
 ht-degree: 5%
 
 ---
@@ -1273,6 +1273,10 @@ ht-degree: 5%
          + Kampagnen {#campaigns}
             + [Zu Marketing-Kampagne hinzufügen](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Kampagne wurde beendet](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Erstellen einer Verkaufskampagne](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
+            + [Einstellungen für Vertriebskampagnen](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
+            + [Versandoptionen für E-Mail-Schritte für Vertriebskampagnen](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
+            + [Schritttypen und Erinnerungsaufgaben für Vertriebskampagnen](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Anzeigen der Kampagnenliste als anderer Benutzer](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce-Anpassung {#salesforce-customization}

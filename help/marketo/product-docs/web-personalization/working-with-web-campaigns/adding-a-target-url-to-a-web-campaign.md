@@ -1,31 +1,30 @@
 ---
 unique-page-id: 6094879
-description: Hinzufügen einer Zielgruppen-URL zu einer Web-Kampagne - Marketing Docs - Produktdokumentation
-title: Hinzufügen einer Zielgruppen-URL zu einer Web-Kampagne
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Hinzufügen einer Target-URL zu einer Webkampagne - Marketo Docs - Produktdokumentation
+title: Hinzufügen einer Target-URL zu einer Web-Kampagne
+exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Hinzufügen einer Target-URL zu einer Web-Kampagne {#adding-a-target-url-to-a-web-campaign}
 
-# Hinzufügen einer Zielgruppen-URL zu einer Web-Kampagne {#adding-a-target-url-to-a-web-campaign}
+Eine Target-URL befindet sich unter der Seite &quot;Kampagne festlegen&quot;und definiert die spezifischen URLs, auf denen eine Web-Kampagne erscheinen soll.
 
-Eine Zielgruppen-URL befindet sich unter der Seite &quot;Kampagne festlegen&quot;und definiert die URL bzw. URLs, auf denen eine Web-Kampagne angezeigt wird.
+## Hinzufügen einer Target-URL für Dialogfeld- oder Widget-Web-Kampagnen {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-## Hinzufügen einer Zielgruppen-URL für Dialogfeld- oder Widget-Web-Kampagnen {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
-
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Navigieren Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Wählen Sie **Neue Web-Kampagne erstellen**.
+1. Auswählen **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. hinzufügen Sie einen **Kampagnen-Namen**. Wählen Sie ein **Zielgruppe-Segment**. hinzufügen **Zielgruppen-URL**.
+1. Hinzufügen einer **Kampagnenname**. Wählen Sie eine **Zielsegment**. Hinzufügen **Ziel-URL**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -39,47 +38,47 @@ Eine Zielgruppen-URL befindet sich unter der Seite &quot;Kampagne festlegen&quot
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Beliebige Seite</strong></td> 
-   <td colspan="1" rowspan="1"><p>Kampagne darf auf allen Seiten angezeigt werden.</p></td> 
+   <td colspan="1" rowspan="1"><p>Lassen Sie zu, dass die Kampagne auf allen Seiten angezeigt wird.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>URL-Parameter bei Übereinstimmung einschließen</strong></p></td> 
-   <td colspan="1" rowspan="1">hinzufügen URL-Parameter, der übereinstimmen soll, und zeigt die Kampagne für URLs einschließlich dieses Parameters an. z. Kampagne=cpc</td> 
+   <td colspan="1" rowspan="1"><p><strong>URL-Parameter beim Abgleich einbeziehen</strong></p></td> 
+   <td colspan="1" rowspan="1">Fügen Sie den URL-Parameter hinzu, der mit der Kampagne auf URLs, einschließlich dieses Parameters, übereinstimmt und diese anzeigt. Z. B. campaign=cpc</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Hinzufügen mehrerer URLs zur Zielgruppen-URL {#adding-multiple-urls-to-target-url}
+## Hinzufügen mehrerer URLs zur Target-URL {#adding-multiple-urls-to-target-url}
 
-Wenn Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) klicken, wird das Dialogfeld &quot;Eintrag mit mehreren Werten&quot;geöffnet, um mehrere URLs hinzuzufügen. hinzufügen eine URL pro Zeile.
+Klicken Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öffnet das Dialogfeld Mehrwert-Einsendung , um mehrere URLs hinzuzufügen. Fügen Sie pro Zeile eine URL hinzu.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
 >[!NOTE]
 >
->* Web-Kampagnen für Dialogfeld und Widget können die Optionen &quot;Beliebige Seite&quot;und &quot;Platzhalter (*)&quot;verwenden.
-* In fortgeschrittenen Anwendungsfällen können In-Zone-Web-Kampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
-* URL unterscheidet zwischen Groß- und Kleinschreibung
+>* Web-Kampagnen für Dialogfeld und Widget können die Optionen Beliebige Seite und Platzhalter (*) verwenden.
+* In erweiterten Anwendungsfällen können In-Zone-Webkampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+* Bei URL wird zwischen Groß- und Kleinschreibung unterschieden
 
 
-## Hinzufügen einer Zielgruppen-URL für In-Zone-Web-Kampagnen {#adding-a-target-url-for-in-zone-web-campaigns}
+## Hinzufügen einer Ziel-URL für In-Zone-Web-Kampagnen {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Gehen Sie zu **Web** **Kampagnen**.
+1. Navigieren Sie zu **Web** **Kampagnen**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Wählen Sie **Neue Web-Kampagne erstellen**.
+1. Auswählen **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. hinzufügen Sie einen **Kampagnen-Namen**. Wählen Sie ein **Zielgruppe-Segment**. hinzufügen **Zielgruppen-URL**.
+1. Hinzufügen einer **Kampagnenname**. Wählen Sie eine **Zielsegment**. Hinzufügen **Ziel-URL**.
 
    >[!NOTE]
-   Zielgruppen-URL mit In-Zonen muss eine bestimmte URL oder URLs definieren. In fortgeschrittenen Anwendungsfällen können In-Zone-Web-Kampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+   Ziel-URL mit In-Bereichen muss eine bestimmte URL oder URLs definieren. In erweiterten Anwendungsfällen können In-Zone-Webkampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Erstellen einer Dialog-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [RTP in Zone-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [RTP-Widget-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Erstellen einer Dialogkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 

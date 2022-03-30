@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: Versionshinweise - Herbst 2015 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 2%
 
 ---
@@ -44,27 +44,27 @@ Einfaches Erstellen benutzerdefinierter Objekte über die Administrator-Benutzer
 
 [Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Wir freuen uns, die Veröffentlichung eines Updates unserer Google Mail Sales Insight-Erweiterung bekannt geben zu können! Zeigen Sie es im [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb) an.
+Wir freuen uns, die Veröffentlichung eines Updates unserer Google Mail Sales Insight-Erweiterung bekannt geben zu können! Zeigen Sie es im  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Dieses Update umfasst viele neue Funktionen:
 
-* Vor der Interaktion können Vertriebsmitarbeiter relevante Informationen über ihre Interessenten direkt in Google Mail sehen, einschließlich Auftragstiteln, twitter-Profilen, Unternehmensinformationen, Fotos und mehr.
+* Vor der Interaktion können Vertriebsmitarbeiter relevante Informationen über ihre potenziellen Kunden direkt in Google Mail sehen, einschließlich Auftragstitel, twitter-Profile, Unternehmensinformationen, Fotos und mehr.
 * Vertriebsmitarbeiter können in Echtzeit sehen, mit welchen Inhalten potenzielle Kunden über verschiedene Kanäle interagieren, wie z. B. geöffnete oder angeklickte E-Mails, online oder persönlich besuchte Ereignisse, besuchte Webseiten, heruntergeladene eBooks und vieles mehr.
 * Über Google Mail gesendete E-Mails werden in Marketo protokolliert und in Echtzeit nachverfolgt. So können die Verkäufer sehen, wann potenzielle Kunden ihre E-Mails betrachten, damit sie genau zum richtigen Zeitpunkt nachverfolgen können. Marketo Sales Insight für Google Mail erleichtert es Vertriebsmitarbeitern außerdem, durch Marketing erstellte Vorlagen zu nutzen, um attraktive Einladungen, Angebote und andere Inhaltstypen zu versenden.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile Interaktion - Token, Beispiel senden und Vorschau {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile-Interaktion - Token, Beispiel senden und Vorschau {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Beispiel senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Vorschau](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalisieren Sie Push-Benachrichtigungen einfach mit [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Einfaches Personalisieren von Push-Benachrichtigungen mit [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Sie können auch [Vorschau](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) anzeigen oder eine [Beispiel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)-Push-Benachrichtigung versenden, bevor Sie sie für Kunden bereitstellen.
+Sie können auch [Vorschau](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) oder senden Sie eine [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) Push-Benachrichtigung , bevor Sie sie für Kunden bereitstellen.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ In Momenten sind jetzt Statistiken zu E-Mails verfügbar, die über Smart-Kampag
 
 ## RTP - Content Analytics und Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics und Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) und Recommendations
 
 RTP Content Analytics zeigt Ihnen die Leistung Ihrer Webinhalt-Assets aus normalen Webbesuchen und Besuchen, die über die Inhaltsempfehlungs-Engine von RTP generiert wurden.
 
@@ -95,8 +95,8 @@ RTP Content Analytics zeigt Ihnen die Leistung Ihrer Webinhalt-Assets aus normal
 
 Die Asset-Seite von RTP ist jetzt in Content Analytics und Content Recommendations unterteilt.
 
-* **Content Analytics:** Zeigt die Ansichten und direkten Leads aller entdeckten und definierten Webinhalte an, sodass Sie Ihre leistungsstärksten Inhalte analysieren können.
-* **Content Recommendations**: Zeigt Impressionen und Klicks von RTP-empfohlenen Inhalten und der zugehörigen Lead-Attribution an. Sie können Inhaltsempfehlungen auch von dieser Seite aus für die Empfehlungen [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) und [Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) bearbeiten und aktivieren.
+* **Content Analytics:** Zeigt die Ansichten und direkten Leads aller entdeckten und definierten Webinhalte an, sodass Sie Ihre leistungsschwächsten Inhalte analysieren können
+* **Content Recommendations**: Zeigt Impressionen und Klicks von RTP-empfohlenen Inhalten und der zugehörigen Lead-Attribution an. Sie können Inhaltsempfehlungen auch auf dieser Seite bearbeiten und aktivieren für die [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) und [Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) Empfehlungen.
 
 * Alle direkten Lead-Daten auf diesen beiden Seiten wurden seit Jahresbeginn (1. Januar 2015) nachträglich aktualisiert.
 
@@ -120,11 +120,11 @@ Der Rich-Text-Editor wurde verbessert. Nachdem wir den aktualisierten Editor im 
 </v:background>
 ```
 
-* Alles kann jetzt in einen gültigen HTML-Kommentar eingefügt werden (bestimmte Syntaxen, wie unten dargestellt, wurden zuvor entfernt):
+* Alles kann jetzt in einen gültigen HTML-Kommentar eingefügt werden (bestimmte Syntaxen, wie unten gezeigt, wurden zuvor entfernt):
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* Leere Tabellenzellen nicht mit `&nbsp;` auffüllen
+* Leere Tabellenzellen nicht mit `&nbsp;`
 
 * Schaltfläche zum Maximieren/Minimieren, die zum HTML-Quell-Editor hinzugefügt wird
 * Bereits vorhandene Tabelleneigenschaften werden jetzt im Dialogfeld Tabelleneigenschaften identifiziert und angezeigt
@@ -161,7 +161,7 @@ Fügen Sie einfach neue Felder zu benutzerdefinierten Objekten hinzu, die aus Sa
 
 ## Unterstützung von IE 11 (und veraltete Unterstützung für IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-Wir unterstützen jetzt offiziell den Microsoft Internet Explorer 11-Browser und entfernen die Unterstützung für den Microsoft Internet Explorer 9-Browser.
+Der Microsoft Internet Explorer 11-Browser wird jetzt offiziell unterstützt und der Microsoft Internet Explorer 9-Browser wird nicht mehr unterstützt.
 
 ## Unterstützung der Blitzbenutzeroberfläche für MSI {#lightning-ui-support-for-msi}
 
