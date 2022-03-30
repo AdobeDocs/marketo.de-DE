@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8616'
 ht-degree: 5%
 
 ---
@@ -490,21 +490,21 @@ ht-degree: 5%
                + [Schritt 1 von 3: Installieren Sie die Marketo-Lösung - On-Premises 2015/2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Schritt 2 von 3: Einrichten des Marketo-Synchronisierungsbenutzers in Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Schritt 3 von 3: Marketo und Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises verbinden](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 with ROPC Connection{#microsoft-dynamics-365-with-ropc-connection}
-               + [Step 1 of 4: Install the Marketo Solution with ROPC Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+            + Microsoft Dynamics 365 mit ROPC-Verbindung{#microsoft-dynamics-365-with-ropc-connection}
+               + [Schritt 1 von 4: Installieren der Marketo-Lösung mit ROPC-Verbindung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [Schritt 2 von 4: Einrichten der Marketo-Lösung mit ROPC-Verbindung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [Schritt 3 von 4: Einrichten der Client App auf MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [Schritt 4 von 4: Verbinden der Marketo-Lösung mit der ROPC-Verbindung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
             + Microsoft Dynamics 365 mit S2S-Verbindung{#microsoft-dynamics-365-with-s2s-connection}
-               + [Step 1 of 3: Install the Marketo Solution with S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
-               + [Step 2 of 3: Set up the Marketo Solution with S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+               + [Schritt 1 von 3: Installieren der Marketo-Lösung mit S2S-Verbindung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+               + [Schritt 2 von 3: Einrichten der Marketo-Lösung mit S2S-Verbindung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [Schritt 3 von 3: Verbinden der Marketo-Lösung mit der S2S-Verbindung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
-            + Connecting to Legacy Versions {#connecting-to-legacy-versions}
+            + Herstellen einer Verbindung zu älteren Versionen {#connecting-to-legacy-versions}
                + [Schritt 1 von 3: Installieren Sie die Marketo-Lösung (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [Schritt 2 von 3: Einrichten des Marketo-Synchronisierungsbenutzers in Dynamics (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
                + [Schritt 3 von 3: Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
                + [Schritt 1 von 3: Installieren der Marketo-Lösung in Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
-               + [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [Schritt 2 von 3: Konfigurieren der Synchronisierungsbenutzer für Marketo (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
                + [Schritt 3 von 3: Marketo und Dynamics verbinden (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
                + [Schritt 1 von 3: Installieren der Marketo-Lösung in Dynamics (On-Premises 2015)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
                + [Schritt 2 von 3: Einrichten von Synchronisierungsbenutzern für Marketo (On-Premises 2015)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
@@ -599,16 +599,16 @@ ht-degree: 5%
             + [Berichte](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Veranstaltungen {#events}
          + Verstehen von Ereignissen {#understanding-events}
-            + [Adding Members to an Event Program](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
+            + [Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [Neues Ereignisprogramm erstellen](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
             + [Bearbeiten eines Ereigniskanals](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [Veranstaltungspartner](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [Grundlagen zu Ereignisprogrammen](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-         + Create an Event {#create-an-event}
+         + Ereignis erstellen {#create-an-event}
             + [Erstellen eines Ereignisses mit Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Erstellen eines Ereignisses mit GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
-            + [Create an Event with Level 3 Web Meeting](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [Create an Event with ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+            + [Erstellen einer Veranstaltung mit Level 3-Webtreffen](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
+            + [Erstellen eines Ereignisses mit ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [Erstellen eines Ereignisses mit WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Erstellen eines Ereignisses mit Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Erstellen eines Ereignisses mit dem Marketo ON24-Adapter {#create-an-event-with-the-marketo-on24-adapter}
@@ -919,18 +919,18 @@ ht-degree: 5%
             + [Engagement-Strom testen](product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)
             + [Übergang von Personen zwischen Interaktionsströmen](product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)
          + Einsatz von Programmen {#using-engagement-programs}
-            + [Avoid Sending Duplicate Content](product-docs/email-marketing/drip-nurturing/using-engagement-programs/avoid-sending-duplicate-content.md)
-            + [Disable and Enable Exhausted Content Notifications](product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)
-            + [Pause People in an Engagement Program](product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
+            + [Senden doppelter Inhalte vermeiden](product-docs/email-marketing/drip-nurturing/using-engagement-programs/avoid-sending-duplicate-content.md)
+            + [Abgelaufene Inhaltsbenachrichtigungen deaktivieren und aktivieren](product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)
+            + [Anhalten von Personen im Rahmen eines Interaktionsprogramms](product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
             + [Personen mit abgelaufenem Inhalt](product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
-            + [Remove a Member from an Engagement Program](product-docs/email-marketing/drip-nurturing/using-engagement-programs/remove-a-member-from-an-engagement-program.md)
+            + [Entfernen von Mitgliedern aus einem Interaktionsprogramm](product-docs/email-marketing/drip-nurturing/using-engagement-programs/remove-a-member-from-an-engagement-program.md)
             + [Siehe Mitglieder eines Interaktionsprogramms](product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md)
             + [Ein- und Ausschalten eines Interaktionsprogramms](product-docs/email-marketing/drip-nurturing/using-engagement-programs/turn-an-engagement-program-on-and-off.md)
          + Berichte und Benachrichtigungen {#reports-and-notifications}
             + [Interaktions-Stream-Leistungsbericht](product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
             + [Das Interaktions-Dashboard](product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)
             + [Grundlegendes zur Interaktionsbewertung](product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
-         + Using Stream Content {#using-stream-content}
+         + Verwenden von Stream-Inhalten {#using-stream-content}
             + [Aktivieren und Deaktivieren von Stream-Inhalten](product-docs/email-marketing/drip-nurturing/using-stream-content/activate-and-deactivate-stream-content.md)
             + [Archivieren und Archivieren von Stream-Inhalten aufheben](product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
             + [Verfügbarkeit von Stream-Inhalten bearbeiten](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
@@ -1024,7 +1024,7 @@ ht-degree: 5%
             + [Hinzufügen eines System-Tokens als Link in einer E-Mail](product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
             + [E-Mail-Skript-Token hinzufügen](product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
             + [Hinzufügen von Token zu einem E-Mail-Link](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
-            + [Create an Email Script Token](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
+            + [E-Mail-Skript-Token erstellen](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
             + [Glossar zu System-Token](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
             + [Verwenden des Tokens &quot;Send Alert Info&quot;](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Verwenden von URLs in My Tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
@@ -1038,9 +1038,9 @@ ht-degree: 5%
       + Erste Schritte {#getting-started}
          + [Überblick über Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Zugriff auf Ihre neue Sales Connect-Instanz](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
-         + [Getting Started Guide for Sales Connect Admins](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
+         + [Erste Schritte für Sales Connect-Administratoren](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [Profil verwalten](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
-         + [Change Your Sales Connect Password](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
+         + [Ändern des Kennworts für die Verkaufsverbindung](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-Mail-Einstellungen {#email-settings}
             + [Identität hinzufügen](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [E-Mail-Signatur hinzufügen](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
@@ -1457,6 +1457,7 @@ ht-degree: 5%
          + [Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [Festlegen von Marketo Sales Insight-Plugin-Administratoren](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [Upgrade Ihres Marketo-E-Mail-Add-ins für Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+      + [Sales Insight für nicht native MS Dynamics-Integrationen](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [Sales Insight für nicht native Salesforce-Integrationen](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Aktivieren von Rollen für Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
@@ -1685,10 +1686,10 @@ ht-degree: 5%
             + [Umsatz Explorer-Berichtstypen](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/revenue-explorer-report-types.md)
             + [Speichern eines Umsatz-Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
             + [Abonnieren eines Umsatz-Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-            + [Sync Custom Fields to the Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
-            + [Understanding Opportunity Analysis in Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
+            + [Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
+            + [Grundlegendes zur Opportunity Analysis in Umsatz-Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
             + [Verwenden von Dashboards im Umsatz-Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
-         + Revenue Tools {#revenue-tools}
+         + Umsatz-Tools {#revenue-tools}
             + [Definieren von Zeitkosten](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Aktivieren der benutzerdefinierten Feldsynchronisierung für die Umsatzzyklusanalyse](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Bericht &quot;Personen nach Umsatzstatus&quot;](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
@@ -1696,16 +1697,16 @@ ht-degree: 5%
                + [Grundlegendes zur Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Attributionsbeispiel 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Attributionsbeispiel 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
-               + [Attribution Example 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+               + [Attributionsbeispiel 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
                + [Attributionsbeispiel 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
             + Organisatoren von Feldern {#field-organizers}
                + [Verwenden von Feld-Organizern](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
-               + [Create Custom Field Groups Using the Field Organizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+               + [Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Zielkontoverwaltung {#target-account-management}
       + Einrichtung {#setup}
          + [Übersicht über die Verwaltung von Target-Konten](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Erste Schritte mit TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
-         + [Issue a License](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [Lizenz ausstellen](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Berechtigungen](product-docs/target-account-management/setup-tam/permissions.md)
          + [Kontobewertung](product-docs/target-account-management/setup-tam/account-score.md)
          + [Einrichten des Kontoteams](product-docs/target-account-management/setup-tam/account-team-setup.md)
