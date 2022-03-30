@@ -1,23 +1,22 @@
 ---
 unique-page-id: 13796475
-description: Ansicht "Personendaten"- "Marketing-Dokumente"- Produktdokumentation
-title: Ansicht "Personendaten"
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Personendetailansicht - Marketo-Dokumente - Produktdokumentation
+title: Personendetailansicht
+exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
+source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 6%
 
 ---
 
+# Personendetailansicht {#person-detail-view}
 
-# Person Detail-Ansicht {#person-detail-view}
+Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem MSC-Konto.
 
-Die Ansicht der Personendetails bietet ein detailliertes Profil der einzelnen Personen in Ihrem MSC-Konto.
+## Zugriff {#how-to-access}
 
-## Zugriff auf {#how-to-access}
-
-1. Klicken Sie auf die Registerkarte **Personen**, um auf die Ansicht der Personendetails zuzugreifen.
+1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf das **Personen** Registerkarte.
 
    ![](assets/people-tab.png)
 
@@ -27,72 +26,72 @@ Die Ansicht der Personendetails bietet ein detailliertes Profil der einzelnen Pe
 
    >[!TIP]
    >
-   >Ganz egal, wo man den Namen einer Person sieht, man kann darauf klicken und zu ihrer Ansicht &quot;Personendetails&quot;gelangen.
+   >Überall, wo Sie den Namen einer Person sehen, können Sie darauf klicken und zu ihrer Personendetailansicht gelangen.
 
-## Info zu Registerkarte {#about-tab}
+## Registerkarte &quot;Info&quot; {#about-tab}
 
-Umfasst alle Kontaktangaben der Person.
+Umfasst alle Kontaktinformationen der Person.
 
 ![](assets/about.jpg)
 
 **Kontaktkarte**
 
-* Enthält Kontaktinformationen wie: E-Mail-Adresse, Name, Firma, Titel, Telefonnummer und Links zu sozialen Medien
+* Enthält Kontaktinformationen wie: E-Mail-Adresse, Name, Firma, Titel, Telefonnummer und Social-Media-Links
 
 **Gruppen**
 
-* Zeigt an und verwaltet, welche Gruppen diese Person angehört
+* Zeigt an und verwaltet, welchen Gruppen diese Person angehört
 
 **Kontoinformationen**
 
 * Kann eine Person zu Salesforce hinzufügen
-* Ziehen Sie Konto- und Kontakt-Informationen von Salesforce ab
+* Pull-Konto- und Lead-/Kontaktinformationen von Salesforce
 
 **Benutzerdefinierte Felder**
 
-* Benutzerdefinierte Felder Hinzufügen oder entfernen, die als dynamische Felder in Ihren Vorlagen und Kampagnen verwendet werden können
+* Fügen Sie benutzerdefinierte Felder hinzu oder entfernen Sie sie, die in Ihren Vorlagen und Kampagnen als dynamische Felder verwendet werden können
 
 **Hinweise**
 
-* Erstellen benutzerdefinierter Notizen
+* Benutzerdefinierte Notizen erstellen
 
-## Interaktionsregister {#engagement-tab}
+## Registerkarte &quot;Interaktion&quot; {#engagement-tab}
 
-Sehen Sie, wie diese Person sich mit Ihrer Reichweite beschäftigt.
+Erfahren Sie, wie diese Person mit Ihrer Kontaktaufnahme interagiert.
 
 ![](assets/engagement.jpg)
 
 **Sales Connect-Aktivität**
 
-* Siehe Interaktions-Aktivitäten aus Ihren Verkaufs-E-Mails und Kampagnen
+* Anzeigen von Interaktionsaktivitäten aus Ihren Verkaufs-E-Mails und Kampagnen
 
 **Marketing-Aktivität**
 
-* Erkennen Sie, wie Ihre Person mit Marketing-Kampagnen interagiert
+* Erfahren Sie, wie Ihre Person mit Marketing-Kampagnen interagiert
 
-## Verlauf, Registerkarte {#history-tab}
+## Registerkarte &quot;Verlauf&quot; {#history-tab}
 
-Zeigt Ihre Reichweitengeschichte. Umfasst E-Mails, Kampagnen und Anrufe.
+Zeigt Ihren Kontaktverlauf an. Umfasst E-Mails, Kampagnen und Aufrufe.
 
 ![](assets/history.jpg)
 
-**Kampagnen**
+**Vertriebskampagnen**
 
-* Aktive oder abgeschlossene Kampagnen, denen diese Person angehört
+* Alle aktiven oder abgeschlossenen Kampagnen anzeigen, zu denen diese Person gehört
 
 **Marketing-Kampagnen**
 
-* Sehen Sie sich alle Marketing-Kampagnen an, zu denen diese Person gehört
+* Alle Marketing-Kampagnen anzeigen, denen diese Person angehört
 
-**E-Mails zum Vertrieb**
+**Verkaufs-E-Mails**
 
-* Alle E-Mails anzeigen, die Sie an diese Person gesendet haben, und die Einsatzmetriken
+* Alle E-Mails anzeigen, die Sie an diese Person gesendet haben, sowie die Interaktionsmetriken
 
-**Verkaufsaufrufe**
+**Verkaufsanrufe**
 
-* Alle Anrufe sehen, die Sie an diese Person gerichtet haben
+* Alle Anrufe anzeigen, die Sie an diese Person getätigt haben
 
-## Registerkarte Aufgaben {#tasks-tab}
+## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
 
 Verwalten Sie Aufgaben, die dieser Person zugeordnet sind.
 
@@ -100,21 +99,7 @@ Verwalten Sie Aufgaben, die dieser Person zugeordnet sind.
 
 Aktionen, die Sie ausführen können:
 
-* Bearbeiten oder Löschen einer Aufgabe
-* Siehe Fälligkeitsdatum
-* Klicken Sie auf den Typ, um das Verkaufstelefon bei Aufruf, E-Mail erstellen bei E-Mail, LinkedIn bei E-Mail und Benutzerspezifische Notiz bei Benutzerdefiniert zu starten.
+* Aufgabe bearbeiten oder löschen
+* Siehe Fälligkeitsdatum .
+* Klicken Sie auf den Typ , um das Verkaufsgespräch bei Aufruf, E-Mail erstellen bei E-Mail, LinkedIn bei E-Mail und benutzerdefinierten Hinweis bei Benutzerdefiniert zu starten.
 * Aufgabe als abgeschlossen markieren
-
-## Registerkarte &quot;Sales Navigator&quot; {#sales-navigator-tab}
-
-Ansicht von LinkedIn-Profil-Daten mit LinkedIn-Verkaufs-Navigator.
-
->[!NOTE]
->
->Sales Navigator ist ein kostenpflichtiges Add-on über LinkedIn. Wenden Sie sich an den jeweiligen Anbieter, um diese Funktion zu erhalten.
-
-![](assets/linkedin.jpg)
-
-Erwähnen Sie Eisbrecher, um einen Bericht zu erstellen.
-
-Speichern Sie Kontakte als Interessenten im Sales Navigator.
