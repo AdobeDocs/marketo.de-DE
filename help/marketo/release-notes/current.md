@@ -2,16 +2,16 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 1%
+source-wordcount: '800'
+ht-degree: 0%
 
 ---
 
-# Versionshinweise: März 2022 {#release-notes-mar-22}
+# Versionshinweise: Mai 2022 {#release-notes-may-22}
 
-Die folgenden Funktionen sind in der Version vom 22. März enthalten. Informieren Sie sich in Ihrer Adobe Marketo Engage Edition über die Verfügbarkeit von Funktionen.
+Unten finden Sie alle Funktionen der Version vom 22. Mai. Informieren Sie sich in Ihrer Adobe Marketo Engage Edition über die Verfügbarkeit von Funktionen.
 
 >[!AVAILABILITY]
 >
@@ -19,62 +19,52 @@ Die folgenden Funktionen sind in der Version vom 22. März enthalten. Informiere
 
 **_Vierteljährliche Versionen_**
 
-Die folgenden Funktionen werden ab der Veröffentlichung auf **11. März 2022**, wobei jede Funktion in den folgenden Wochen schrittweise eingeführt wird (sofern nicht anders angegeben).
+Die folgenden Funktionen werden ab der Veröffentlichung auf **6. Mai 2022**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden (sofern nicht anders angegeben).
+
+## Native CRM-Integration {#native-crm-integration}
+
+**Native Veeva CRM-Integration (begrenzte Verfügbarkeit)**: Verbessern Sie die Interaktion mit medizinischem Fachpersonal durch die Synchronisierung der Aktivität zwischen VRM und Marketo Engage über die native Integration. Diese Integration ermöglicht es Marketingexperten, für Fachkräfte im Gesundheitswesen personalisiertere und nahtlose kanalübergreifende Erlebnisse zu erstellen. Wenden Sie sich an Ihren Customer Success Manager, wenn Sie an einer Teilnahme interessiert sind.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Dynamischer Chat**: Maximieren Sie jede Gelegenheit auf Ihrer Website, indem Sie sowohl Leads als auch Konten mit proaktiven, ansprechenden und 1:1 personalisierten Konversationen auswählen. [Dynamischer Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} ermöglicht es Marketo Engage-Benutzern, Chat als zentralen Bestandteil integrierter kanalübergreifender Erlebnisse für B2B-Marketing- und Verkaufsanwendungsfälle zu nutzen. Zu den Funktionen gehören: die Möglichkeit, Meetings direkt im Chat zu buchen, Lead-Routing, Startervorlagen, Drag-and-Drop-Konversationserstellung und vieles mehr. Der dynamische Chat ist in allen Marketo Engage-Packages enthalten und wird in diesem Jahr für alle Marketo Engage-Benutzer eingeführt.
+**Chatbot-Ereignisse für dynamischen Chat**: Verwenden Sie detailliertere Verhaltensdaten für Webbesucher, z. B. die Besuchszeit pro Seite, die Besuchszeit pro Site und den prozentualen Seitenbildlauf, um festzulegen, wann ein Chat-Dialogfeld angezeigt werden soll.
 
-* **Verbesserung der Filterung der E-Mail-Bot-Aktivität**: Verbesserung der zuvor veröffentlichten [Filterung der E-Mail-Bot-Aktivität](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} verwenden, können Sie sich jetzt für Protokollierungsaktivitäten anmelden, die als Bots identifiziert werden. Sie können dann Aktionen nach Aktivitäten filtern und Trigger erstellen, die von Bots als ausgeführt identifiziert wurden.
+**PDF Einbetten in dynamischen Chat**: Erhöhen Sie die Interaktion und geben Sie sinnvolle Inhalte frei, indem Sie PDF in Chat-Dialogfelder einbetten und die Inhaltsleistung durch Interaktionsaktivitäten-Tracking messen.
 
-## Erlebnis der nächsten Generation {#next-generation-experience}
+**Erweiterte Sprachunterstützung für dynamischen Chat**: Die Benutzeroberfläche für dynamischen Chat ist jetzt auch auf Französisch, Deutsch, Japanisch, Portugiesisch und Spanisch verfügbar. Chat-Dialogfelder können auch in diesen Sprachen konfiguriert werden.
 
-* **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
+**Ausschluss von URLs für den dynamischen Chat**: Sie können steuern, auf welchen Ihrer Webseiten dynamischer Chat angezeigt wird, und bestimmte URLs von Targeting-Kriterien ausschließen.
 
-   * Formularlistenansicht in Design Studio (einschließlich neuer Massenaktionen)
+**Verbesserungen bei der Filterung der E-Mail-Bot-Aktivität**: Schützen Sie weiterhin den Zustand Ihrer Datenbank, indem Sie neben der vorhandenen IAB-Listen-Übereinstimmungskennung auch das Bot-Verhalten anhand von versteckten Link-Benutzeragenten oder IPs und Näherungsmustern identifizieren können. Zeigen Sie Bot-Aktivitätsstatistiken an, anhand derer Sie die Anzahl der für jeden Typ identifizierten Bot-Aktivitäten nachvollziehen können.
 
-* **Import Program Workflow Update**: Der Workflow für das Importprogramm wird in der nächsten Generation mit aktualisierten Design- und Benutzerfreundlichkeitsverbesserungen bereitgestellt. Dies ist eine automatische Änderung ohne Umschalter.
+**STS-Kopfzeile für E-Mail-Tracking-Links**: Erfüllen Sie die Best Practices für die Sicherheit mit der Möglichkeit, sichere Transport Security-Header anzuwenden, um sicherzustellen, dass Traffic zu verfolgten Links immer sicher ist.
 
-* **Admin Control für den Experience Toggle Switch der nächsten Generation**: Verwalten Sie den Rollout des Erlebnisses der nächsten Generation so, dass Ihre Benutzer die Möglichkeit haben, festzulegen, welche Benutzertypen auf den Umschalter zugreifen können.
+## Erlebnis der nächsten Generation {#next-generation-experience}
 
-## Erlebnisautomatisierung {#experience-automation}
+**Umschalter Standardmäßig auf Erlebnis der nächsten Generation umschalten**: Der Umschalter wird in allen Bildschirmen, auf denen es verfügbar ist, standardmäßig auf das neue Erlebnis festgelegt, wodurch die Benutzer die aktualisierten Designs und Verbesserungen der Benutzerfreundlichkeit leichter erkennen können.
 
-* **Selbstbedienungs-Flussschritte (Beta)**: Erweitern Sie die Konnektivität zwischen Marketo Engage und dem Rest Ihres Stapels mit der Möglichkeit, benutzerdefinierte Flussschritte zur Verwendung in Smart-Kampagnen zu erstellen. Sowohl Marketo-Benutzer als auch -Partner können diese Funktion nutzen, um die Verwendung externer Webdienste in Batch- und ausführbaren Kampagnen im Gegensatz zu Webhooks zu ermöglichen, die nur in Trigger-Kampagnen verwendet werden können.
+**Aktualisierter Bildschirm im Erlebnis der nächsten Generation**:
 
-* **Asset-Ablauf**: Behalten Sie die Kontrolle über Ihre zeitkritischen Assets und Kampagnen bei, sodass Sie deren automatische Deaktivierung zu einem bestimmten Zeitpunkt im klassischen Benutzererlebnis planen können.
+In der nächsten Generation liefern wir in Design Studio eine E-Mail-Vorlagendetailansicht, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bietet, auf die über den Umschalter zugegriffen werden kann.
 
-* **Prioritätsüberschreibungen für intelligente Kampagnen**: Stellen Sie sicher, dass Smart-Kampagnen mit hoher Priorität von Triggern so bald wie möglich ausgeführt werden, sodass die standardmäßige Kampagnenpriorität überschrieben werden kann. Smart-Kampagnen mit niedrigerer Priorität für Trigger können auch mit geringerer Priorität gesenkt werden, um Verarbeitungsressourcen für andere Aufgaben mit hoher Priorität freizugeben.
+## Erlebnisautomatisierung {#experience-automation}
+
+**Selbstbedienungs-Flussschritte (Fortsetzung Beta)**: Erweitern Sie die Konnektivität zwischen Marketo Engage und dem Rest Ihres Stapels mit der Möglichkeit, benutzerdefinierte Flussschritte zur Verwendung in Smart-Kampagnen zu erstellen. Sowohl Marketo Engage-Anwender als auch -Partner können diese Funktion nutzen, um die Verwendung externer Webdienste in Trigger-, Batch- und ausführbaren Kampagnen zu ermöglichen (im Gegensatz zu Webhooks, die nur in Trigger-Kampagnen verwendet werden können).
 
 ## API-Verbesserungen {#api-enhancements}
 
-* **Rückgabe Deaktivieren des Status des Öffnungs-Trackings von E-Mails**: Ermöglicht das Lesen des Status des offenen Trackings von E-Mails per API
-* **Abrufen dynamischer Inhaltsbetreffzeilen aus E-Mail**: Ermöglicht Marketern die Analyse dynamischer Betreffzeilen in BI-Tools
-* **CRUD für benutzerdefinierte Felder des Programmmitglieds**: Ermöglicht es Marketingexperten, benutzerdefinierte Felder für Programmmitglieder programmgesteuert zu erstellen
-* **Massen-benutzerdefinierter Objektexport aktualisiert am Filter**: Ermöglicht Marketern die programmgesteuerte Synchronisierung benutzerdefinierter Objekte
-* **Head Start-Einstellung für E-Mail-Programme verfügbar machen**: Ermöglicht es Marketingexperten, E-Mail-Programme mit Head Start via API zu konfigurieren
-* **Selektives Programm-Tag-Update**: Ermöglicht es Marketing-Experten, selektive Tag-Updates zu pushen, ohne alle Tags gleichzeitig zu pushen
-* **Feld &quot;Massenaktivität extrahieren&quot;actionResult**: Ermöglicht es Marketingexperten, zu erkennen, welche Aktivitäten übersprungen wurden oder fehlgeschlagen sind
-
-**_Veröffentlichung im gesamten Quartal_**
-
-Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden in den kommenden Monaten veröffentlicht.
-
-## Bizible {#bizible}
-
-![(Stern)](assets/yellow-star.png)
-
-* **BI-Vorlagen**: Bizible stellt nun herunterladbare, grundlegende Berichterstellungsartefakte und Beispielberichte für Tableau und Power BI bereit, um eine schnelle Erstellung benutzerdefinierter Berichte zu ermöglichen, die auf Ihre spezifischen Geschäftsanforderungen zugeschnitten sind.
-
-## SalesConnect {#sales-connect}
-
-![(Stern)](assets/yellow-star.png)
-
-* **Einschränken der E-Mail-Verbindung (GA)**: Durch die Einschränkung der E-Mail-Verbindung können Sales Connect-Administratoren die Senderate von E-Mails bei Verwendung von Gmail oder Exchange als Versandkanal konfigurieren, sodass die Rate, mit der E-Mails an den Versandkanalanbieter weitergeleitet werden, die erzwungenen Beschränkungen nicht überschreitet.
+* **Erweiterter API-Zugriff für CRM-aktivierte Abonnements**: Wir erweitern den API-Zugriff für Abonnements, für die eine CRM-Synchronisierung aktiviert ist, um Benutzern das Abrufen von Unternehmen, Chancen und Vertriebsmitarbeitern aus Marketo Engage zu ermöglichen.
+* **Unterstützung für &quot;ausgeblendete&quot;Datentypen in Forms**: Bietet die Möglichkeit, ausgeblendete Formularfelder über API zu verwalten.
+* **Unterstützung mehrerer Vergleichswerte für isNot Form über Regeln**: Verwalten Sie die Sichtbarkeit von Formularfeldern basierend darauf, ob der Wert eines anderen Felds nicht einer der Werte in einer bestimmten Liste ist.
+* **Zulassen der Anzeige- und Sendewerte in Listen separat auswählen**: Legen Sie den Anzeigewert und den gesendeten Wert in einem Feld separat fest. Zeigen Sie beispielsweise den Namen eines Hotels an, senden Sie jedoch eine interne ID an das Backend.
+* **Zulassen der Einstellung &quot;Öffnungs-Tracking deaktivieren&quot;bei &quot;E-Mail erstellen oder aktualisieren&quot;**: Erstellen Sie eine E-Mail mit deaktiviertem Öffnungs-Tracking.
 
 ## Ankündigungen {#announcements}
 
-* **Marketo Sky Deprecation**: Im März wird Marketo Sky nicht mehr verfügbar sein, da wir unsere Ressourcen auf die Bereitstellung des Benutzererlebnisses der nächsten Generation konzentrieren. Um den Zugriff auf Funktionen zu erhalten, die heute nur noch für Marketo Sky verfügbar sind, bieten wir das Classic-Erlebnis mit Asset-Ablauf und Smart-Campaign-Prioritätsüberschreibungen an. [Klicken Sie hier](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33), um mehr zu erfahren.
+**E-Mail-Verifizierung und Eindeutigkeit**: Ab April wird die Einführung der E-Mail-Überprüfung beginnen. Ab diesem Zeitpunkt müssen die E-Mail-Adressen der Marketo Engage-Benutzer überprüft und eindeutig sein (dies gilt nicht für reine API-Benutzer). Für vom Verzeichnisdienst authentifizierte Benutzer werden ihre E-Mails automatisch überprüft, wenn ihr Abonnement mit E-Mail-Überprüfung aktiviert ist.
+
+Die E-Mail-Überprüfung für Abonnements mit der Funktion &quot;Dialogfeld &quot;Anmeldung für eingeladene Benutzer&quot;oder bei denen eine einzelne E-Mail mit mehreren Benutzern verknüpft ist, fällt mit der Mai-Version zusammen. Abonnements, denen eine einzelne E-Mail mit mehreren Benutzern verknüpft ist, werden mit der E-Mail-Überprüfung aktiviert und erfordern, dass diese Benutzer den Konflikt beheben und eine eindeutige E-Mail pro Benutzer verwenden. Wenn die Funktion &quot;Dialogfeld &quot;Benutzer einladen&quot;aktiviert ist, müssen über diese Funktion eingeladene Benutzer über eine eindeutige E-Mail-Adresse verfügen. Für Benutzer, die nur über diese Funktion eingeladen werden, muss die E-Mail-Adresse nicht eindeutig sein.
 
 **_Webinar zur Produktversion_**
 
-Nehmen Sie am 11. Mai 2022 um 9:00 Uhr PT / 23:00 Uhr ET teil, um eine [Live-Webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle aktuellen Produktinnovationen nutzen können.
+Nehmen Sie am 11. Mai 2022 um 9:00 Uhr PT / 23:00 Uhr ET teil, um eine [Live-Webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wird von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle neuesten Produktinnovationen verwenden.
