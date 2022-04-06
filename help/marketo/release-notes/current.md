@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **6. Mai 2022**, wo
 
 ## Native CRM-Integration {#native-crm-integration}
 
-**Native Veeva CRM-Integration (begrenzte Verfügbarkeit)**: Verbessern Sie die Interaktion mit medizinischem Fachpersonal durch die Synchronisierung der Aktivität zwischen VRM und Marketo Engage über die native Integration. Diese Integration ermöglicht es Marketingexperten, für Fachkräfte im Gesundheitswesen personalisiertere und nahtlose kanalübergreifende Erlebnisse zu erstellen. Wenden Sie sich an Ihren Customer Success Manager, wenn Sie an einer Teilnahme interessiert sind.
+**Native Veeva CRM-Integration (begrenzte Verfügbarkeit)**: Verbessern Sie die Interaktion mit Fachkräften im Gesundheitswesen durch die Synchronisierung der Aktivitäten zwischen Veeva CRM und Marketo Engage über die native Integration. Diese Integration ermöglicht es Marketingexperten, für Fachkräfte im Gesundheitswesen personalisiertere und nahtlose kanalübergreifende Erlebnisse zu erstellen. Wenden Sie sich an Ihren Customer Success Manager, wenn Sie an einer Teilnahme interessiert sind.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
