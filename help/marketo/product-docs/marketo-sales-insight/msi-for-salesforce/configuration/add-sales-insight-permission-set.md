@@ -1,11 +1,10 @@
 ---
 description: Berechtigungssatz für Sales Insight hinzufügen - Marketo Docs - Produktdokumentation
 title: Berechtigungssatz "Sales Insight"hinzufügen
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '379'
 ht-degree: 3%
 
 ---
@@ -85,31 +84,29 @@ Die Berechtigung &quot;Marketo App&quot;ist Teil des Sales Insight Salesforce -P
 
 1. Melden Sie sich bei Ihrem Salesforce-Konto an.
 
-PICC
-
 1. Klicken **Einrichtung**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. Klicken Sie unter &quot;Administrator&quot;auf , um den Vorgang zu entfernen. **Benutzer verwalten**, dann **Benutzer**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. Wählen Sie unter &quot;Alle Benutzer&quot;den Benutzer aus, auf den Sie Zugriff gewähren möchten, und klicken Sie dann auf **Zuweisung von Berechtigungen**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. Klicken **Zuweisungen bearbeiten**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. Auswählen **Zugriff auf Marketo-Apps** aus den verfügbaren Berechtigungssätzen und **Hinzufügen**. Klicken **Speichern**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. Wenn Sie nun auf der Seite &quot;Benutzerdetails&quot;nach unten scrollen, sehen Sie &quot;Marketo App-Zugriff&quot;unter &quot;Zuweisungen von Berechtigungssätzen&quot;.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
