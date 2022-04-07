@@ -1,25 +1,24 @@
 ---
 unique-page-id: 11382815
-description: Installation des Marketo Outlook Plugins durch IT - Marketing Docs - Produktdokumentation
-title: Installation des Marketo Outlook Plugins durch IT
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Marketo Outlook-Plugin-Installation durch IT - Marketo Docs - Produktdokumentation
+title: Marketo Outlook-Plugin-Installation durch IT
+exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 1%
 
 ---
 
+# Marketo Outlook-Plugin-Installation durch IT {#marketo-outlook-plugin-installation-by-it}
 
-# Marketo Outlook Plugin Installation by IT {#marketo-outlook-plugin-installation-by-it}
-
-Manchmal erfordern die Richtlinien des Unternehmens, dass sein IT-Team alle Software auf den Computern seiner Mitarbeiter installiert. In diesen Fällen erfolgt dies oft remote mithilfe einer eigenen Bereitstellungssoftware. Dieses Dokument enthält die Befehlszeilen, die Sie während des Bereitstellungsprozesses verwenden würden, um das Plugin für Aussichten remote zu installieren.
+Manchmal erfordern Unternehmensrichtlinien, dass das IT-Team alle Software auf den Computern seiner Mitarbeiter installiert. In diesen Fällen führt die IT dies häufig remote mit ihrer eigenen Software durch. Dieses Dokument enthält die Befehlszeilen, die Sie während des Bereitstellungsprozesses als Eingaben verwenden würden, um das Outlook-Plug-in remote zu installieren.
 
 >[!PREREQUISITES]
 >
->[Legen Sie ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) den Enterprise-Schlüssel fest.
+>[Einrichten](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) den Unternehmensschlüssel.
 
-Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als Administratorkonto mit dem /i-Switch aus, um die Installation durchzuführen.
+Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als Administrator-Benutzerkonto mit dem /i-Switch aus, um zu installieren.
 
 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -29,7 +28,7 @@ Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als Administrat
 >
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn REG=ABC9-123y-WXYZ-4321</pre>`
 
-Zur Fehlerbehebung können Sie die Protokollierung aktivieren, um eine Ausgabsprotokolldatei zu erstellen.
+Zur Fehlerbehebung können Sie die Protokollierung aktivieren, um eine Protokolldatei für die Ausgabe zu erstellen.
 
 `<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
 
@@ -51,10 +50,10 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 
 >[!CAUTION]
 >
->Der Speicherort der Protokolldatei muss vorhanden sein, damit die Datenspeicherung abgebrochen werden kann.
+>Der Speicherort der Protokolldatei muss vorhanden sein oder die Installation wird abgebrochen.
 
-Bitte lesen Sie die vollständige Liste der Switches](https://support.microsoft.com/en-us/kb/227091) von Microsoft, wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten.[
+Siehe [Vollständige Liste der Switches von Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) , wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächen-Ebenen ausprobieren möchten.
 
 >[!MORELIKETHIS]
 >
->[Marketo Outlook Plugin Uninstall by IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo Outlook-Plug-in-Deinstallation durch IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

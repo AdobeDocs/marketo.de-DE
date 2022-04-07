@@ -1,12 +1,10 @@
 ---
 description: Flow Step Service - Marketo Docs - Produktdokumentation
 title: Flussschritt-Dienst
-hide: true
-hidefromtoc: true
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '1325'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -15,17 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Diese Vorabveröffentlichungsfunktion ist derzeit nur für Konten verfügbar, die am Self-Service-Flow-Beta-Programm für Selbstbedienungsschritte teilnehmen.
+>Die Selbstbedienungsflussschritte befinden sich derzeit in der offenen Beta-Phase. Sie können es für Ihr Abonnement im Menü Admin > Schatztruhe aktivieren.
 
-Die Flussschritte für Self-Service sind ein Framework und eine Reihe von Funktionen für das Erstellen, Veröffentlichen und Integrieren von Webdiensten in Smart-Kampagnen für Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). Eine Implementierung der Suchtabelle zum Machbarkeitsnachweis finden Sie [here](https://github.com/adobe/mkto-flow-lookup).
+Die Flussschritte für Self-Service sind ein Framework und eine Reihe von Funktionen für das Erstellen, Veröffentlichen und Integrieren von Webdiensten in Smart-Kampagnen für Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Eine Implementierung der Suchtabelle zum Machbarkeitsnachweis finden Sie [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Einschränkungen und Warnungen vor der Veröffentlichung {#pre-release-restrictions-and-warnings}
 
-Diese Funktion befindet sich derzeit in der geschlossenen Beta-Phase und hat einige Nutzungsbeschränkungen.
-
-* Diese Funktion kann nur auf Sandbox-Instanzen von Marketo Engage verwendet werden
-* Die Schritte &quot;Benutzerspezifischer Fluss&quot;und &quot;Drittanbieter-Fluss&quot;sind ab Version 4. Quartal 2021 nicht mit ausführbaren Kampagnen kompatibel. Dieses Problem soll im zweiten Quartal 2022 behoben werden
-* Die Marketo Sky-Benutzeroberfläche sollte bei Instanzen mit aktivierter Funktion überhaupt nicht verwendet werden
+Diese Funktion befindet sich derzeit in der offenen Beta-Phase und sollte nur auf Sandbox-Instanzen von Marketo Engage verwendet werden, bis Ihr Dienst vollständig getestet wurde.
 
 ## Onboarding und Verwalten von Diensten {#onboarding-and-managing-services}
 

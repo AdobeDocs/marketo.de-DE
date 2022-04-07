@@ -1,105 +1,104 @@
 ---
 unique-page-id: 10096675
-description: Erstellen von untergeordneten Kampagnen und lokalen Elementen - Marketing Docs - Produktdokumentation
-title: Untergeordnete Kampagnen und lokale Assets erstellen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Erstellen von untergeordneten Kampagnen und lokalen Assets - Marketo-Dokumente - Produktdokumentation
+title: Erstellen untergeordneter Kampagnen und lokaler Assets
+exl-id: 272105e1-43d6-455c-a533-aae65e859384
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 0%
+source-wordcount: '668'
+ht-degree: 1%
 
 ---
 
+# Erstellen untergeordneter Kampagnen und lokaler Assets {#create-child-campaigns-and-local-assets}
 
-# Untergeordnete Kampagnen und lokale Elemente erstellen {#create-child-campaigns-and-local-assets}
-
-Erstellen Sie untergeordnete Kampagnen und lokale Assets mit Design Studio.
+Erstellen Sie Ihre untergeordneten Kampagnen und lokalen Assets mit Design Studio.
 
 ## Landingpage und Formular {#landing-page-and-form}
 
-Um sicherzustellen, dass Personen korrekt bei ON24 registriert sind, müssen die folgenden Felder in Ihrem Marketing-Formular enthalten sein:
+Um sicherzustellen, dass Personen ordnungsgemäß bei ON24 registriert sind, müssen die folgenden Felder in Ihr Marketo-Formular eingefügt werden:
 
 * Vorname
 * Nachname
-* Email-Adresse
+* E-Mail-Adresse
 
-Sie können die folgenden Felder auch auf ON24 verschieben:
+Sie können auch die folgenden Felder an ON24 senden:
 
-* Name der Firma
-* Auftragstitel
+* Unternehmensname
+* Jobtitel
 
-Wenn der entsprechende Flussschritt zur Kampagne der Registrierung hinzugefügt wird, werden die Personen auf ON24 verschoben und als registriert markiert. Sie können dem Formular weitere Felder hinzufügen, und die Informationen werden in Marketo als Teil des Personendetaildatensatzes erfasst.
+Wenn der richtige Flussschritt zur Registrierungskampagne hinzugefügt wird, werden die Personen auf ON24 gepusht und als registriert markiert. Sie können dem Formular weitere Felder hinzufügen. Die Informationen werden dann in Marketo als Teil des Personendetaildatensatzes erfasst.
 
 >[!CAUTION]
 >
->Für eine erfolgreiche Integration müssen Sie entweder ein Marketo-Formular verwenden, um Ihre Mitarbeiter für das Ereignis zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu senden.
+>Für eine erfolgreiche Integration müssen Sie entweder ein Marketo-Formular verwenden, um Ihre Personen für das Ereignis zu registrieren, oder ein Nicht-Marketo-Formular mit der entsprechenden API-Integration, um Registrierungsdaten an Marketo zu senden.
 
-## E-Mails und URL-Tokens {#emails-and-url-tokens}
+## E-Mails und URL-Token {#emails-and-url-tokens}
 
-Erstellen Sie die Einladung, Bestätigung, Follow-up und Dankeschön-E-Mails mit Marketo.
+Erstellen Sie die Einladungs-, Bestätigungs-, Follow-up- und Danksagungs-E-Mails mit Marketo.
 
-## E-Mail-Bestätigung und URL-Token {#marketo-confirmation-email-and-url-token}
+## Marketo-Bestätigungs-E-Mail und URL-Token {#marketo-confirmation-email-and-url-token}
 
-Verwenden Sie Marketo, um die Bestätigungs-E-Mail für Ihr Ereignis zu senden. Wenn sich eine Person registriert, erhält sie eine eindeutige URL, die für die Eingabe des Ereignisses verwendet werden kann.
+Verwenden Sie Marketo , um die Bestätigungs-E-Mail für Ihr Ereignis zu senden. Wenn sich eine Person registriert, erhält sie eine eindeutige URL, über die sie das Ereignis aufruft.
 
 >[!NOTE]
 >
 >Um Ihre Bestätigungs-E-Mail mit dieser eindeutigen URL zu füllen, verwenden Sie das folgende Token in Ihrer E-Mail: `{{member.webinar url}}`. Wenn Sie die Bestätigungs-URL senden, wird dieses Token automatisch zur eindeutigen Bestätigungs-URL der Person aufgelöst.
 >
->Stellen Sie den Typ Ihrer Bestätigungs-E-Mail auf **Operational** ein, um sicherzustellen, dass Personen, die sich registrieren, ihre Bestätigungsinformationen erhalten, auch wenn sie sich abmelden.
+>Stellen Sie den Typ Ihrer Bestätigungs-E-Mail auf **Betrieb** sicherzustellen, dass Personen, die sich registrieren, ihre Bestätigungsinformationen erhalten, auch wenn sie sich abgemeldet haben.
 
 >[!TIP]
 >
->Sie können ON24 so konfigurieren, dass es Bestätigungs-, Erinnerungs- oder Follow-up-E-Mails sendet. Weitere Informationen finden Sie auf der Hilfeseite [ON24](https://webcastelitehelp.on24.com).
+>Sie können ON24 so konfigurieren, dass Bestätigungs-, Erinnerungsschreiben- oder Folgenachrichten gesendet werden. Siehe [ON24-Hilfeseite](https://www.on24.com/live-webcast-elite/) für weitere Informationen.
 
-## Voraussetzungen für die Kampagne des untergeordneten Registrierungsformulars {#registration-child-campaign-requirements}
+## Voraussetzungen für untergeordnete Kampagnen registrieren {#registration-child-campaign-requirements}
 
-Ereignis enthalten eine oder mehrere untergeordnete Kampagnen, die alle zusammen arbeiten, um Menschen durch die Programm-Status zu bewegen und die Leistung Ihres Ereignisses zu verfolgen.
+Ereignisse enthalten eine oder mehrere untergeordnete Kampagnen, die alle zusammenarbeiten, um Personen durch den Programmstatus zu bewegen und die Leistung Ihres Ereignisses zu verfolgen.
 
-Beispiele für untergeordnete Kampagnen sind eine Einladungs-Kampagne, eine Registrierungs-Kampagne und Kampagnen zur Weiterverfolgung.
-
->[!CAUTION]
->
->Damit der Adapter seinen Auftrag ausführen kann, MÜSSEN Sie eine Registrierungs-Kampagne erstellen. Diese Kampagne muss von der Person ausgelöst werden, die ein Formular ausfüllt. Der erste Schritt muss den Status des Programms der Person in **Registered** ändern. Die Kampagne sendet dann eine Bestätigungs-E-Mail. Weitere Informationen finden Sie in diesem Artikel.
-
-**Registrierung/Bestätigung (Kampagne des Triggers)**
-
-* Intelligente Liste
-* Trigger basierend auf **Fügt Formular** aus. Stellen Sie sicher, dass Sie die Landingpage, auf der sich das Formular befindet, mit **Hinzufügen Constraint** einschließen, insbesondere wenn dasselbe Formular auf mehreren Landingpages verwendet wird.
+Beispiele für untergeordnete Kampagnen sind eine Einladungskampagne, eine Registrierungs-Kampagne und Folgekampagnen.
 
 >[!CAUTION]
 >
->Sie müssen ein Marketo-Formular verwenden, um Ihre Personen für das Ereignis zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Ereignis-Partnerintegration.
+>Damit der Adapter seinen Auftrag erledigen kann, MÜSSEN Sie eine Registrierungs-Kampagne erstellen. Diese Kampagne muss von der Person ausgelöst werden, die ein Formular ausfüllt. Im ersten Schritt muss der Programmstatus der Person in **Angemeldet**. Die Kampagne sendet dann eine Bestätigungs-E-Mail. Weitere Informationen finden Sie im Rest dieses Artikels.
+
+**Registrierung/Bestätigung (Trigger Campaign)**
+
+* Smart List
+* Trigger basierend auf **Formular ausfüllen**. Stellen Sie sicher, dass Sie die Landingpage einschließen, auf der das Formular aktiv ist, indem Sie **Beschränkung hinzufügen**, insbesondere wenn dasselbe Formular auf mehreren Landingpages verwendet wird.
+
+>[!CAUTION]
+>
+>Sie müssen ein Marketo-Formular verwenden, um Ihre Personen für die Veranstaltung zu registrieren, oder ein Nicht-Marketo-Formular mit der entsprechenden API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Partner-Integration.
 
 >[!NOTE]
 >
->Wenn Sie ein Marketo-Formular in einer Nicht-Marketo-Landingpage verwenden, lautet Ihr Trigger **Ausfüllen des Formulars** mit dem Formularbennamen.
+>Wenn Sie ein Marketo-Formular auf einer Landingpage ohne Marketo verwenden, wird Ihr Trigger **Ausfüllen des Formulars** mit dem Formularnamen.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
-**Fluss**
+**Flow**
 
-* **Ändern Sie den Status**  des Programms - Auf Webinar einstellen -> Registriert.
+* **Ändern des Programmstatus** - Auf Webinar festlegen -> Registered.
 
-Dieser Flussschritt ist beim Einrichten der untergeordneten Kampagne als ERSTER FLOW-SCHRITT erforderlich. Wenn sich der Status des Programms einer Person in &quot;Registered&quot;ändert, setzt Marketo die Registrierungsinformationen auf ON24. Kein anderer Status wird die Person übertreiben.
+Dieser Flussschritt ist als ERSTER FLUSS-SCHRITT beim Einrichten Ihrer untergeordneten Kampagne erforderlich. Wenn sich der Programmstatus einer Person in Registered ändert, überträgt Marketo die Registrierungsinformationen an ON24. Kein anderer Status wird die Person überstürzen.
 
-* **E-Mail**  - Bestätigung per E-Mail senden. Stellen Sie diese E-Mail auf **Operational** ein, damit nicht abonnierte Personen, die sich registriert haben, sie weiterhin erhalten.
+* **E-Mail senden** - Bestätigungs-E-Mail. Setzen Sie diese E-Mail auf **Betrieb** sodass abgemeldete Personen, die sich registriert haben, diese immer noch erhalten.
 
-Der Schritt **E-Mail senden** MUSS der zweite Schritt sein. Die Bestätigungs-E-Mail enthält das `{{member.webinar url}}`, das mit Informationen gefüllt wird, die von ON24 an Marketo zurückgesendet werden.
+Die **E-Mail senden** Flussschritt MUSS der zweite Schritt sein. Die Bestätigungs-E-Mail enthält die `{{member.webinar url}}`, der mit Informationen gefüllt ist, die von ON24 an Marketo zurückgesendet werden.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->Die Reihenfolge dieser Flussschritte ist wichtig, weil die Aktionen in Marketo ausgeführt werden. Der Schritt **Change Programm Status** sendet die Person zur Registrierung an ON24 und es wird eine eindeutige URL generiert. Danach können Sie die Bestätigungs-E-Mail mit dieser eindeutigen URL mit dem Token `{{member.webinar URL}}` senden.
+>Die Reihenfolge dieser Flussschritte ist aufgrund der Reihenfolge, in der Aktionen in Marketo ausgeführt werden, wichtig. Die **Ändern des Programmstatus** -Schritt sendet die Person an ON24, um sich zu registrieren und eine eindeutige URL wird generiert. Danach können Sie die Bestätigungs-E-Mail mit dieser eindeutigen URL senden, indem Sie die `{{member.webinar URL}}` Token.
 >
 >Wenn die Person mit einem Registrierungsfehler zurückgegeben wird, erhält sie keine E-Mail-Bestätigung.
 
-Der nächste Schritt ist [Testen Sie Ihre ON24-Ereignis-Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
+Ihr nächster Schritt besteht darin, [Testen der ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
->* [Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [Beispiel für eine ON24-Ereignis-Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Erläuterungen zu Webinar-Programm-Status](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+>* [Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Beispiel für eine ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Grundlegendes zum Webinar-Programmstatus](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 

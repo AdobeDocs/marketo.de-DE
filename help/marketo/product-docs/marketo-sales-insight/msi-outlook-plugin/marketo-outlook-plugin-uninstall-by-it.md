@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11382829
-description: Marketo Outlook Plugin Uninstall by IT - Marketing Docs - Produktdokumentation
-title: Marketo Outlook Plugin Uninstall by IT
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Marketo Outlook-Plugin deinstallieren durch IT - Marketo Docs - Produktdokumentation
+title: Marketo Outlook-Plug-in-Deinstallation durch IT
+exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 2%
 
 ---
 
+# Marketo Outlook-Plug-in-Deinstallation durch IT {#marketo-outlook-plugin-uninstall-by-it}
 
-# Marketo Outlook Plugin Uninstall by IT {#marketo-outlook-plugin-uninstall-by-it}
+So kann IT das Marketo Outlook-Plugin remote deinstallieren.
 
-So kann IT das Marketo Outlook Plugin remote deinstallieren.
-
-Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als ein Administratorkonto mit dem /x-Switch aus, um die Deinstallation durchzuführen.
+Führen Sie die folgende Befehlszeile als &quot;System&quot;oder ein Administrator-Benutzerkonto mit dem /x-Switch aus, um es zu deinstallieren.
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -25,7 +24,7 @@ Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als ein Adminis
 >
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-Zur Fehlerbehebung können Sie die Protokollierung aktivieren, um eine Ausgabsprotokolldatei zu erstellen.
+Zur Fehlerbehebung können Sie die Protokollierung aktivieren, um eine Protokolldatei für die Ausgabe zu erstellen.
 
 `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
@@ -47,6 +46,6 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 
 >[!CAUTION]
 >
->Durch die entfernte Deinstallation des Plug-Ins wird Outlook auf dem Computer des Benutzers erzwungen.
+>Durch das Deinstallieren des Plug-ins wird Outlook auf dem Computer des Benutzers erzwungen.
 
-Bitte lesen Sie die vollständige Liste der Switches](https://support.microsoft.com/en-us/kb/227091) von Microsoft, wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten.[
+Siehe [Vollständige Liste der Switches von Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) , wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächen-Ebenen ausprobieren möchten.
