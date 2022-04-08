@@ -1,32 +1,29 @@
 ---
 unique-page-id: 10096409
-description: Versenden von Duplikat-Inhalten - Marketing-Dokumente - Produktdokumentation
-title: Senden von Duplikat-Inhalten vermeiden
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Versenden doppelter Inhalte vermeiden - Marketo-Dokumente - Produktdokumentation
+title: Senden doppelter Inhalte vermeiden
+exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
+source-git-commit: daaf3dc9b4da95db743409c6e2a6c426ed00e9c7
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 3%
 
 ---
 
+# Senden doppelter Inhalte vermeiden {#avoid-sending-duplicate-content}
 
-# Versenden von Duplikat-Inhalten vermeiden {#avoid-sending-duplicate-content}
+Hast du schon einmal zweimal dieselbe E-Mail erhalten? Wahnsinn, nicht wahr?
 
-Haben Sie schon einmal zweimal dieselbe E-Mail erhalten? Wahnsinn, nicht wahr?
+Im Folgenden finden Sie sieben mögliche Szenarien und Ergebnisse, die Sie kennen sollten, um zu verhindern, dass dieselbe Nachricht mit Interaktionsprogrammen zweimal gesendet wird.
 
-Es gibt sieben mögliche Szenarien und Ergebnisse, die Sie kennen sollten, um zu verhindern, dass jemand dieselbe Nachricht zweimal mit Programmen zur Interaktion sendet.
-
-## Szenarios {#scenarios}
-
-Eine Person erhält eine E-Mail, die von der Customer Interaktion Engine gesendet wird.
+## Szenarien {#scenarios}
 
 | Die E-Mail wird gesendet von | Die Person ist | Person erhält E-Mail |
 |---|---|---|
-| Eine Kampagne in einem separaten, eigenständigen, standardmäßigen Programm | Kein Mitglied des Standard-Programms | Ja |
-| Eine Kampagne in einem separaten, eigenständigen, standardmäßigen Programm | Mitglied des Standard-Programms | Nein |
-| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb des **same** CEE-Programms ausgelöst wird | Mitglied des Standard-Programms | Nein |
-| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb des **same** CEE-Programms ausgelöst wird | Kein Mitglied des Standard-Programms | Ja |
-| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **different** CEE-Programms ausgelöst wird | Mitglied des Standard-Programms | Nein |
-| Eine Kampagne innerhalb eines Standard-Programms, die durch eine Besetzung innerhalb eines **different** CEE-Programms ausgelöst wird | Kein Mitglied des Standard-Programms | Ja |
-| Ein **anderes** CEE-Programm mit einem intelligenten Stream | Mitglied beider CEE-Programme | Nein |
+| Eine Kampagne in einem separaten, eigenständigen Standardprogramm | Kein Mitglied des Standardprogramms | Ja |
+| Eine Kampagne in einem separaten, eigenständigen Standardprogramm | Ein Mitglied des Standardprogramms | Nein |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb der **same** CEE-Programm | Ein Mitglied des Standardprogramms | Nein |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb der **same** CEE-Programm | Kein Mitglied des Standardprogramms | Ja |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb einer **distinct** CEE-Programm | Ein Mitglied des Standardprogramms | Nein |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb einer **distinct** CEE-Programm | Kein Mitglied des Standardprogramms | Ja |
+| A **distinct** CEE-Programm mit intelligentem Stream | Mitglied beider CEE-Programme | Nein |
