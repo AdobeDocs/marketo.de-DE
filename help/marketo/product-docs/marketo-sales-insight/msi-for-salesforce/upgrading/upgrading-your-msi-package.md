@@ -1,32 +1,31 @@
 ---
 unique-page-id: 37357050
-description: Aktualisieren Ihres MSI-Pakets - Marketing Docs - Produktdokumentation
+description: Aktualisieren Ihres MSI-Pakets - Marketo-Dokumente - Produktdokumentation
 title: MSI-Paket aktualisieren
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
+# MSI-Paket aktualisieren {#upgrading-your-msi-package}
 
-# Aktualisieren Ihres MSI-Pakets {#upgrading-your-msi-package}
+1. Navigieren Sie zu [diese Seite im Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target=&quot;_blank&quot;}.
 
-1. Navigieren Sie zu [dieser Seite in der AppExchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+1. Melden Sie sich oben rechts auf der Seite von Schritt 1 bei Ihrer Salesforce-Instanz an (die mit Ihrer Marketo-Instanz verbunden ist und Sandbox oder Produktion sein kann). Sie müssen über Administratorrechte verfügen, um ein verwaltetes Paket in Salesforce installieren/aktualisieren zu können.
 
-1. Melden Sie sich bei Ihrer Salesforce-Instanz (die mit Ihrer Marketing-Instanz verbunden ist, kann Sandbox oder Produktion sein) von oben rechts auf der Seite ab Schritt 1 an. Sie müssen über Administratorrechte verfügen, um ein verwaltetes Paket in Salesforce installieren/aktualisieren zu können.
-
-1. Klicken Sie auf die Schaltfläche **Jetzt abrufen**. Sie werden aufgefordert, zu entscheiden, wo Sie installieren möchten. Sie erhalten die Möglichkeit, ein Upgrade durchzuführen, da Sie bereits über eine ältere Version von MSI verfügen. Wählen Sie eine Option basierend auf dem Konto, das Sie während Schritt 1 angemeldet haben.
+1. Klicken Sie auf **Jetzt downloaden** Schaltfläche. Sie werden gebeten zu wählen, wo Sie installieren möchten. Sie erhalten die Möglichkeit, ein Upgrade durchzuführen, da Sie bereits über eine frühere Version von MSI verfügen. Wählen Sie eine Option basierend auf dem Konto, bei dem Sie sich während Schritt 1 angemeldet haben.
 
    >[!TIP]
    >
    >Es wird empfohlen, dies auf Ihrer Sandbox-Instanz zu testen, bevor Sie Ihre Produktionsinstanz aktualisieren.
 
-1. Sie können das Paket aktualisieren, indem Sie &quot;Nur für Administratoren installieren&quot;(und später MSI-Zugriff auf bestimmte Profil bereitstellen), &quot;Für alle Benutzer installieren&quot;oder &quot;Für bestimmte Profil installieren&quot;wählen. In diesem Beispiel wählen wir &quot;Nur Administratoren&quot;. Klicken Sie nach Auswahl auf **Upgrade**.
+1. Sie können das Paket aktualisieren, indem Sie &quot;Nur für Administratoren installieren&quot;(und später MSI-Zugriff auf bestimmte Profile gewähren), &quot;Für alle Benutzer installieren&quot;oder &quot;Für bestimmte Profile installieren&quot;auswählen. In diesem Beispiel wählen wir &quot;Nur Administratoren&quot;. Klicken Sie nach Auswahl auf **Upgrade**.
 
    ![](assets/four.png)
 
 >[!NOTE]
 >
->Es wird empfohlen, das Paket nur für Administratoren zu aktualisieren und dann [Zugriff auf bestimmte Benutzer](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md) je nach Anzahl der erworbenen MSI-Sitze bereitzustellen. Alternativ können Sie ein bestimmtes Salesforce-Profil für MSI-Benutzer erstellen und das Paket nur für diese Benutzer installieren oder aktualisieren.
+>Es wird empfohlen, das Paket nur für Administratoren zu aktualisieren und dann [Zugriff auf bestimmte Benutzer gewähren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;} basierend auf der Anzahl der erworbenen MSI-Sitze. Alternativ können Sie ein bestimmtes Salesforce-Profil für MSI-Benutzer erstellen und das Paket nur für diese Benutzer installieren oder aktualisieren.
