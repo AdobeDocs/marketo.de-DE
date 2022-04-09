@@ -2,16 +2,16 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
 
 # Überblick {#overview}
 
-Wenn Sie ab dem 15. Februar 2022 über ein neues Konto mit Adobe Marketo Engage (neues Konto, nicht nur eine neue Instanz für ein bestehendes Konto) verfügen, kann es je nach erworbenem Produktpaket in das Adobe Identity Management-System integriert werden. Wenden Sie sich an Ihren Marketo-Administrator oder den Customer Success Manager Ihres Kontos, um herauszufinden, ob Sie über dieses verfügen.
+Wenn Sie ab dem 15. Februar 2022 über ein neues Konto bei Adobe Marketo Engage (kein neues Konto, sondern nur eine neue Instanz für ein bestehendes Konto) verfügen, kann es je nach erworbenem Produktpaket in das Adobe Identity Management-System integriert werden. Wenden Sie sich an Ihren Marketo-Administrator oder den Customer Success Manager Ihres Kontos, um herauszufinden, ob Sie über dieses verfügen.
 
 Bestehende Marketo-Abonnements werden Anfang des Jahres in das Adobe Identity Management System migriert.
 
@@ -77,6 +77,10 @@ Ja. Benutzer, die mit Adobe IMS integriert wurden, können nicht alle bestehende
 **Wen kontaktieren wir für Support, wenn wir mit IMS integriert sind?**
 
 Sie folgen dem Standardverfahren für die Kontaktaufnahme mit dem [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
+
+**Wenn ich eine Adobe Identity verwende, um auf andere Adobe Apps zuzugreifen, kann ich diese dann für den Zugriff auf Marketo verwenden?**
+
+Selbst wenn Sie über andere Adobe-Produkte verfügen, können Sie erst dann auf Marketo mit Adobe Identity zugreifen, wenn das Abonnement zu IMS migriert wird.
 
 **Werden Marketo-Benutzerrollen (innerhalb von Arbeitsbereichen) in Adobe Admin Console verwaltet?**
 
