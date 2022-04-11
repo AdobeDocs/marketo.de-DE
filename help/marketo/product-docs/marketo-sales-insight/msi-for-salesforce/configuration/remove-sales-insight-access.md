@@ -2,10 +2,10 @@
 description: Entfernen von Sales Insight Access - Marketo Docs - Produktdokumentation
 title: Entfernen des Sales Insight-Zugriffs
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -68,8 +68,8 @@ Für den Zugriff auf alle Sales Insight-Funktionen ist eine Berechtigung für di
  </tbody> 
 </table>
 
-* Apex-Klassenzugriff: 159 Apex-Klassen mit &quot;mkto_si&quot;
-* Visualforce Page Access: 64 Visualforce-Seiten, die &quot;mkto_si&quot;enthalten
+* Apex-Klassenzugriff: 159 Apex-Klassen, die mit &quot;mkto_si&quot;beginnen
+* Visualforce Page Access: 64 Visualforce-Seiten, die mit &quot;mkto_si&quot;beginnen
 * Benutzerdefinierte Einstellungsdefinitionen: mkto_si.Marketo-Einstellungen und mkto_si.Benutzereinstellungen
 
 ## Entfernen des Zugriffs auf Sales Insight {#removing-access-to-sales-insight}

@@ -2,10 +2,10 @@
 description: Berechtigungssatz für Sales Insight hinzufügen - Marketo Docs - Produktdokumentation
 title: Berechtigungssatz "Sales Insight"hinzufügen
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -76,8 +76,8 @@ Die Berechtigung &quot;Marketo App&quot;ist Teil des Sales Insight Salesforce -P
  </tbody> 
 </table>
 
-* Apex-Klassenzugriff: 159 Apex-Klassen mit &quot;mkto_si&quot;
-* Visualforce Page Access: 64 Visualforce-Seiten, die &quot;mkto_si&quot;enthalten
+* Apex-Klassenzugriff: 159 Apex-Klassen, die mit &quot;mkto_si&quot;beginnen
+* Visualforce Page Access: 64 Visualforce-Seiten, die mit &quot;mkto_si&quot;beginnen
 * Benutzerdefinierte Einstellungsdefinitionen: mkto_si.Marketo-Einstellungen und mkto_si.Benutzereinstellungen
 
 ## Hinzufügen von Marketo App-Berechtigungen für Benutzer {#adding-marketo-app-permission-set-to-users}
