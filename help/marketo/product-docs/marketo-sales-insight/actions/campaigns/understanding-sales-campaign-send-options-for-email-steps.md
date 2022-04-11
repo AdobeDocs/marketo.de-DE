@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: Verstehen der Sendeoptionen - Marketo-Dokumente - Produktdokumentation
-title: Grundlagen zu Sendeoptionen
+description: Verstehen der Versandoptionen von Verkaufskampagnen für E-Mail-Schritte - Marketo-Dokumente - Produktdokumentation
+title: Grundlagen zu den Versandoptionen von Vertriebskampagnen für E-Mail-Schritte
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '576'
 ht-degree: 5%
 
 ---
 
-# Grundlagen zu Sendeoptionen {#understanding-send-options}
+# Grundlagen zu den Versandoptionen von Vertriebskampagnen für E-Mail-Schritte {#understanding-sales-campaign-send-options-for-email-steps}
 
-Beim Erstellen einer Kampagne haben Sie mehrere Optionen, wie Ihre E-Mail-Schritte in Sales Connect erstellt werden. Je nachdem, wo Ihre E-Mail in Ihre Kampagne fällt, unterscheiden sich auch Ihre Optionen.
+Beim Erstellen einer Kampagne haben Sie mehrere Optionen, wie Ihre E-Mail-Schritte in Sales Insight-Aktionen erstellt werden. Je nachdem, wo Ihre E-Mail in Ihre Kampagne fällt, unterscheiden sich auch Ihre Optionen.
 
 Wenn es Ihr erster Schritt und der erste Tag in Ihrer Kampagne ist, haben Sie die folgenden Optionen:
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 Ich werde entscheiden, wann diese E-Mail gesendet werden soll
 
@@ -58,3 +58,9 @@ Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden
 Diese E-Mail an die vorherige E-Mail senden
 
 * Diese Versandoption ist eine &#39;Follow-up&#39;-Aktion zu Ihrer vorherigen E-Mail und hängt den vorherigen E-Mail-Textkörper an den Ende dieser E-Mail an.
+
+>[!MORELIKETHIS]
+>
+>[Erstellen einer Verkaufskampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Schritttypen und Erinnerungsaufgaben für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[Einstellungen für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}

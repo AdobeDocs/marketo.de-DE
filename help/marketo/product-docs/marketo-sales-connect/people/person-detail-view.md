@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: Personendetailansicht - Marketo-Dokumente - Produktdokumentation
 title: Personendetailansicht
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 6%
@@ -18,11 +18,11 @@ Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem 
 
 1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf das **Personen** Registerkarte.
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. Klicken Sie auf die gewünschte Person.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem 
 
 Umfasst alle Kontaktinformationen der Person.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **Kontaktkarte**
 
@@ -59,7 +59,7 @@ Umfasst alle Kontaktinformationen der Person.
 
 Erfahren Sie, wie diese Person mit Ihrer Kontaktaufnahme interagiert.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Sales Connect-Aktivität**
 
@@ -73,7 +73,7 @@ Erfahren Sie, wie diese Person mit Ihrer Kontaktaufnahme interagiert.
 
 Zeigt Ihren Kontaktverlauf an. Umfasst E-Mails, Kampagnen und Aufrufe.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **Vertriebskampagnen**
 
@@ -95,7 +95,7 @@ Zeigt Ihren Kontaktverlauf an. Umfasst E-Mails, Kampagnen und Aufrufe.
 
 Verwalten Sie Aufgaben, die dieser Person zugeordnet sind.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 Aktionen, die Sie ausführen können:
 
