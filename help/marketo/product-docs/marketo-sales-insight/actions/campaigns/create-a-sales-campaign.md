@@ -1,32 +1,31 @@
 ---
 description: Erstellen einer Vertriebskampagne - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Verkaufskampagne
-hide: true
-hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
 # Erstellen einer Verkaufskampagne {#create-a-sales-campaign}
 
-Kampagnen sind eine Reihe von Schritten mit mehreren Kanälen, darunter: E-Mails, Telefonanrufe, InMail und benutzerdefinierte Aufgaben. Damit können Sie Ihre Kommunikation mit Ihren potenziellen und bestehenden Kunden optimieren.
+Verkaufskampagnen sind eine Reihe von kanalübergreifenden Schritten, darunter: E-Mails, Telefonanrufe, InMail und benutzerdefinierte Aufgaben. Damit können Sie Ihre Kommunikation mit Ihren potenziellen und bestehenden Kunden optimieren.
 
-Mit Kampagnen können Sie:
+Mit Vertriebskampagnen können Sie:
 
 * **Organisieren**: Straffen Sie alle Ihre Reichweitenaktivitäten an einem Ort, um eine effiziente Ausführung zu gewährleisten.
 * **Skalieren**: Planen Sie alle Ihre Kontaktaufnahmen, damit Sie Ihre Bemühungen skalieren, die manuelle Arbeit minimieren und so viel Personalisierung wie nötig durchführen können.
 * **Maßnahme**: Verfolgen Sie den Erfolg aller E-Mails und Aufgaben an einem Ort, während Sie sie automatisch bei Salesforce anmelden. Indem Sie wissen, was Resonanz zeigt und zu Ergebnissen führt, können Sie Ihre Ergebnisse konsequent testen und verbessern.
 
-Wie richtet man also eine Kampagne ein?
+Wie richten Sie also eine Vertriebskampagne ein?
 
 1. Klicken Sie auf **Kampagnen** Registerkarte.
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Wählen Sie eine Kategorie aus und klicken Sie auf die Schaltfläche **Erstellen einer Kampagne** Schaltfläche, um eine neue Kampagne zu erstellen.
+1. Wählen Sie eine Kategorie aus und klicken Sie auf die Schaltfläche **Neue Kampagne erstellen** Schaltfläche.
 
    ![](assets/create-a-sales-campaign-2.png)
 
@@ -56,13 +55,13 @@ Wie richtet man also eine Kampagne ein?
 
    >[!NOTE]
    >
-   >&quot;Tage&quot;sind nicht die Anzahl der Tage zwischen Aktionen, sondern der Tag innerhalb der Sequenz. Wenn Ihre Kampagne beispielsweise sieben Tage dauert, bedeutet die Eingabe von &quot;3&quot;, dass die Aktion am Tag 3 von 7 ausgeführt wird. **not** 3 Tage später.
+   >&quot;Tage&quot;sind nicht die Anzahl der Tage zwischen Aktionen, sondern der Tag innerhalb der Sequenz. Wenn Ihre Vertriebskampagne beispielsweise sieben Tage dauert, bedeutet die Eingabe von &quot;3&quot;, dass die Aktion am Tag 3 von 7 ausgeführt wird. **not** 3 Tage später.
 
-1. Stellen Sie sicher, dass Sie die Zeitplan- und Antwortoptionen anpassen, z. B. das Überspringen von Wochenenden (was toll ist), indem Sie die **Registerkarte &quot;Einstellungen&quot;** für Ihre Kampagne.
+1. Stellen Sie sicher, dass Sie die Zeitplan- und Antwortoptionen anpassen, z. B. das Überspringen von Wochenenden (was toll ist), indem Sie die **Registerkarte &quot;Einstellungen&quot;** für Ihre Vertriebskampagne.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Jetzt ist es Zeit, Leute zu Ihrer Kampagne hinzuzufügen!
+Jetzt ist es Zeit, Leute hinzuzufügen!
 
 >[!MORELIKETHIS]
 >
