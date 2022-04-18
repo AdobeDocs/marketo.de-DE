@@ -2,9 +2,9 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 7%
 
 ---
@@ -24,7 +24,7 @@ Willkommen beim Marketo Engage der nächsten Generation, einer neuen Benutzerobe
 
 ## Nehmen Sie die Tour {#take-the-tour}
 
-Bei der ersten Anmeldung erscheint ein Popup, das Ihnen die Beschreibung des neuen Erlebnisses liefert. Wenn Sie es überspringen möchten, wird es später **nicht** verfügbar sein.
+Bei der ersten Anmeldung erscheint ein Popup, das Ihnen die Beschreibung des neuen Erlebnisses liefert. Wenn Sie es überspringen, werden Sie **not** später verfügbar sein.
 
 ![](assets/overview-1.png)
 
@@ -60,7 +60,7 @@ Es gibt eine Menge neuer Baumfunktionen.
 
 >[!NOTE]
 >
->Wenn Sie eine Suche im Baum durchführen, werden nur die ersten 250 Ergebnisse angezeigt. Wenn Sie nach einer Suche Ihr Asset nicht finden können, verwenden Sie die Funktion [Globale Suche](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
+>Wenn Sie eine Suche im Baum durchführen, werden nur die ersten 250 Ergebnisse angezeigt. Wenn Sie nach einer Suche Ihr Asset nicht finden können, verwenden Sie die [Globale Suche](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) -Funktion.
 
 **Marketo Classic und die neue Marketo**
 
@@ -192,7 +192,7 @@ Sehen Sie sich das neue globale Nav an.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Verwenden Sie dies, um Feedback zu Ihrem MEUE-Erlebnis zu geben.</td> 
+   <td>Verwenden Sie dies, um Feedback zu Ihrem Erlebnis zu geben.</td> 
   </tr>
   <tr>
    <td>4</td> 
