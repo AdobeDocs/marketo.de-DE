@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '8656'
+source-wordcount: '8654'
 ht-degree: 5%
 
 ---
@@ -468,7 +468,7 @@ ht-degree: 5%
          + [Datenschutzverwaltung](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Datenschutzanfragen](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Umbenennen eines Marketo-Assets](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Einrichten der Adobe Experience Cloud-Zielgruppenfreigabe](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Einrichten der Adobe-Organisationszuordnung](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [Zielgruppe aus Adobe Experience Cloud synchronisieren](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Ordner verstehen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Wissenswertes zu Benachrichtigungen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
