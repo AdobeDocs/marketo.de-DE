@@ -2,9 +2,9 @@
 description: Dynamischen Chat mit Marketo verbinden - Marketo-Dokumente - Produktdokumentation
 title: Dynamischen Chat mit Marketo verbinden
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
+source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 ## Adobe-Organisation und Marketo verknüpfen {#link-your-adobe-org-and-marketo}
 
 Als Nächstes ist es an der Zeit, Adobe und Marketo zu verknüpfen.
+
+>[!IMPORTANT]
+>
+>Die E-Mail-Adresse des Marketo Engage-Benutzers, der dieses Mapping erstellt, muss auch Zugriff auf die Adobe-Organisation haben, die verbunden wird.
 
 1. Anmelden bei [experience.adobe.com](https://experience.adobe.com).
 
