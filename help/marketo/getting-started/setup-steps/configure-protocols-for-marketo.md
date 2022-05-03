@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Konfigurieren von Protokollen für Marketo - Marketo Docs - Produktdokumentation
 title: Protokolle für Marketo konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,7 @@ Dieser Artikel sollte an die IT-Abteilung des Unternehmens weitergegeben werden,
 >Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, die folgenden Domänen hinzuzufügen (einschließlich des Sternchens), um alle Marketo-Ressourcen und -Websockets zuzulassen:
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Schritt 1: DNS-Einträge für Einstiegsseiten und E-Mail erstellen {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ Zum Beispiel:
 
 Benachrichtigen Sie Ihr Marketing-Team, wenn Sie diesen Vorgang abgeschlossen haben.
 
+`4` **Kontakt [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}, um den Prozess der Bereitstellung eines SSL-Zertifikats zu starten.**
+
+Dieser Vorgang kann bis zu drei Werktage dauern.
+
 ## Schritt 2: Marketo-IPs der Zulassungsliste {#step-allowlist-marketo-ips}
 
 Wenn Ihre Marketing-Gruppe Marketo zum Versand von Test-E-Mails verwendet (eine Best Practice vor dem Versand von E-Mail-Nachrichten), werden die Test-E-Mails manchmal von Anti-Spam-Systemen blockiert, die zur Überprüfung der Gültigkeit der E-Mail auf Absender-IP-Adressen angewiesen sind. Um sicherzustellen, dass diese Test-E-Mails eintreffen, fügen Sie Marketo zu Ihrer Zulassungsliste hinzu.
@@ -71,7 +73,7 @@ Fügen Sie diese IP-Adressen zu Ihrer Unternehmens-Zulassungsliste hinzu:
 103.237.104.0/22\
 94.236.119.0/26
 
-Einige Anti-Spam-Systeme verwenden für die Zulässigkeit das Feld Rückkehrpfad der E-Mail anstelle der IP-Adresse. In diesen Fällen ist der beste Ansatz die Zulassungsliste &quot;*.mktomail.com&quot;, da Marketo mehrere Postfach-Subdomänen verwendet. Andere Anti-Spam-Systeme werden basierend auf der Absenderadresse auf die Zulassungsliste gesetzt. Stellen Sie in diesen Situationen sicher, dass Sie alle sendenden (&quot;Von&quot;) Domänen einschließen, die Ihre Marketing-Gruppe zur Kommunikation mit Personen/Leads verwendet.
+Einige Anti-Spam-Systeme verwenden für die Zulässigkeit das Feld Rückkehrpfad der E-Mail anstelle der IP-Adresse. In diesen Fällen ist der beste Ansatz die Zulassungsliste &quot;&#42;.mktomail.com&quot;, da Marketo mehrere Postfach-Subdomains verwendet. Andere Anti-Spam-Systeme werden basierend auf der Absenderadresse auf die Zulassungsliste gesetzt. Stellen Sie in diesen Situationen sicher, dass Sie alle sendenden (&quot;Von&quot;) Domänen einschließen, die Ihre Marketing-Gruppe zur Kommunikation mit Personen/Leads verwendet.
 
 >[!NOTE]
 >

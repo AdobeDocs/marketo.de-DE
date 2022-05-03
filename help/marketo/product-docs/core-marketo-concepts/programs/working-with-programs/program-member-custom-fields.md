@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Benutzerdefinierte Felder für Programmmitglieder - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Felder für Programmmitglieder
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '427'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ Benutzerdefinierte Felder für Programmmitglieder ermöglichen die Erfassung pro
 
    >[!NOTE]
    >
-   >Unterstützte Typen für benutzerdefinierte Felder des Programmmitglieds sind: boolean, date, datetime, float, integer, string, URL. [Erfahren Sie mehr über Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Unterstützte Typen für benutzerdefinierte Felder des Programmmitglieds sind: boolean, date, datetime, float, integer, string, URL. [Erfahren Sie mehr über Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}.
 
 ## Objektbeschreibungen {#object-descriptions}
 
@@ -59,7 +59,7 @@ Benutzerdefinierte Felder für Programmmitglieder ermöglichen die Erfassung pro
 
 ## Trigger und Filter {#triggers-and-filters}
 
-Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) und/oder [Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
+Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;} und/oder [Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}.
 
 ![](assets/six.png)
 
@@ -70,10 +70,11 @@ Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/he
 * Das Programmteilobjekt kann über bis zu 20 benutzerdefinierte Felder verfügen. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und im benutzerdefinierten Feld Programmteilnehmer Daten enthalten, werden die Daten aus diesem Feld gescrollt.
 * Um die Daten anzuzeigen, klicken Sie im Programm auf den Tab Mitglieder und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
-* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [API](https://developers.marketo.com/) werden unterstützt. Exporte funktionieren nur auf Programmteilslisten, nicht auf statischen Listen.
+* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} und [API](https://developers.marketo.com/){target=&quot;_blank&quot;} werden unterstützt. Exporte funktionieren nur auf Programmteilslisten, nicht auf statischen Listen.
 * Wenn Sie zwei Personen zusammenführen, werden die benutzerdefinierten Felddaten des Gewinners für das Programmmitglied verwendet. Wenn der Gewinner jedoch keinen hat, wird der Wert des Verlierers verwendet.
-* Änderungstyp ist **not** in Feldern mit Informationen zu Programmmitgliedern zulässig.
+* Der Änderungstyp ist in den Feldern &quot;Programmteilnehmer-Info&quot;nicht zulässig.
+* Die Beschränkung &quot;enthält&quot;der intelligenten Liste wird für benutzerdefinierte Felder des Programmmitglieds nicht unterstützt.
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
