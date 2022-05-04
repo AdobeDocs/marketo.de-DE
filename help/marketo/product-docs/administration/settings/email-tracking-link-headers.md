@@ -1,12 +1,10 @@
 ---
 description: E-Mail-Tracking-Link-Kopfzeilen - Marketo-Dokumente - Produktdokumentation
 title: Kopfzeilen von E-Mail-Tracking-Links
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ Gehen Sie wie folgt vor, um die Kopfzeilen Ihrer E-Mail-Tracking-Links anzupasse
 <table>
  <tr>
   <td><strong>Strict-Transport-Security</strong></td>
-  <td>Verwenden Sie dies, um sicherzustellen, dass Verbindungen zu Landingpages immer über HTTPS bereitgestellt werden (sollte nur für Abonnements mit über SSL gesicherten Landingpages festgelegt werden)</td>
+  <td>Verwenden Sie dies, um sicherzustellen, dass Tracking-Links immer über HTTPS bereitgestellt werden (sollte nur für Abonnements mit durch SSL gesicherten Tracking-Links festgelegt werden)</td>
  </tr>
 </table>
 
