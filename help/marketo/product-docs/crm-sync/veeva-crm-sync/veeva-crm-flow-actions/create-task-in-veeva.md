@@ -1,0 +1,31 @@
+---
+description: Aufgabe in Veeva erstellen - Marketo-Dokumente - Produktdokumentation
+title: Aufgabe erstellen in Veeva
+source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 0%
+
+---
+
+# Aufgabe erstellen in Veeva {#create-task-in-veeva}
+
+Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Angeboten helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
+
+![](assets/create-task-in-veeva-1.png)
+
+>[!NOTE]
+>
+>Wenn der Marketo Sync User Aufgaben erstellt, **aufgrund von** ist ein erforderliches Feld für die Aufgabe, die in Veeva erstellt werden soll. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
+
+Standardmäßig sieht der Flussschritt wie folgt aus:
+
+![](assets/create-task-in-veeva-2.png)
+
+Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
+
+![](assets/create-task-in-veeva-3.png)
+
+>[!TIP]
+>
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im Betreff und in der Beschreibung. Siehe [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target=&quot;_blank&quot;} für weitere Details.
