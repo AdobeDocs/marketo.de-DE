@@ -2,16 +2,16 @@
 description: Umschalten - Marketo Docs - Produktdokumentation
 title: Umschalten
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Umschalten {#toggle-switch}
 
-Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von Marketo und dem neuen Marketo Engage-Erlebnis der nächsten Generation wechseln. Sie ist in der Listenansicht der Landingpage und auf den Formulardetailseiten verfügbar.
+Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von Marketo und dem Marketo Engage der nächsten Generation wechseln. Es ist in allen unten hervorgehobenen Bereichen verfügbar. Ab der Version Mai 2022 wird das Erlebnis der nächsten Generation standardmäßig aktiviert.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-17.png)
 
-## Aktivieren für alle Funktionen {#enable-for-all-features}
+## Detailansicht der E-Mail-Vorlage {#email-template-details-view}
 
-Sie haben die Möglichkeit, die Benutzeroberfläche der nächsten Generation von Marketo für alle verfügbaren Funktionen zu aktivieren, die aktuell und in Kürze verfügbar sind.
-
-1. In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Formulardetailseite](#form-details-page)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
+1. Wählen Sie in Marketo **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
+1. Wählen Sie die gewünschte E-Mail-Vorlage aus.
 
    ![](assets/toggle-switch-19.png)
+
+1. Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+
+   ![](assets/toggle-switch-20.png)
+
+Das neue Erlebnis wird geladen.
+
+![](assets/toggle-switch-21.png)
+
+## Aktivieren für alle Funktionen {#enable-for-all-features}
+
+Sie haben die Möglichkeit, die Benutzeroberfläche der nächsten Generation von Marketo für alle verfügbaren Funktionen (aktuell und in Kürze) manuell zu aktivieren.
+
+1. In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Formulardetailseite](#form-details-page)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
+
+   ![](assets/toggle-switch-23.png)
