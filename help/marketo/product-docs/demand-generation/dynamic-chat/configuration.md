@@ -2,9 +2,9 @@
 description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -56,6 +56,15 @@ Klicken Sie auf **Datenschutz** Registerkarte, um die URL der Datenschutzrichtli
 Damit der Chat-Bot auf Ihrer Website angezeigt wird, müssen Sie zunächst das Dynamic Chat-JavaScript-Snippet installieren. Klicken Sie auf diese Registerkarte, um den erforderlichen Code zu suchen/zu kopieren. Wenn Sie mit diesem Vorgang nicht vertraut sind, wenden Sie sich an Ihr Webteam oder Ihre IT-Abteilung, um Hilfe zu erhalten.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>Wenn Ihre Site eine Content Security Policy verwendet, müssen Sie möglicherweise die folgenden URLs auf die Whitelist setzen, damit der Chat-Bot erwartungsgemäß funktioniert:
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
