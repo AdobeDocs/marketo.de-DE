@@ -2,16 +2,16 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
 
 # Überblick {#overview}
 
-Wenn Sie ab dem 15. Februar 2022 über ein neues Konto bei Adobe Marketo Engage (kein neues Konto, sondern nur eine neue Instanz für ein bestehendes Konto) verfügen, kann es je nach erworbenem Produktpaket in das Adobe Identity Management-System integriert werden. Wenden Sie sich an Ihren Marketo-Administrator oder den Customer Success Manager Ihres Kontos, um herauszufinden, ob Sie über dieses verfügen.
+Wenn Sie ab dem 15. Februar 2022 über ein neues Konto mit Adobe Marketo Engage (neues Konto, nicht nur eine neue Instanz für ein bestehendes Konto) verfügen, kann es je nach erworbenem Produktpaket in das Adobe Identity Management-System integriert werden. Wenden Sie sich an Ihren Marketo-Administrator oder den Customer Success Manager Ihres Kontos, um herauszufinden, ob Sie über dieses verfügen.
 
 Bestehende Marketo-Abonnements werden Anfang des Jahres in das Adobe Identity Management System migriert.
 
@@ -34,7 +34,8 @@ Adobe Marketo Engage-Abonnements, die in der Adobe Identity Management System in
  </tr>
  <tr>
   <td><strong>Adobe Admin Console-Produktprofiladministrator</strong></td>
-  <td>Verwalten Sie die diesem Administrator zugewiesenen Produktprofilbeschreibungen und alle zugehörigen Verwaltungsfunktionen.</td>
+  <td>Verantwortlich für die Verwaltung von Benutzern in einem Produktprofil. Benutzer können nicht außerhalb dieses spezifischen Profils verwaltet werden. Ein Produktprofiladministrator hat keinen Zugriff auf die Marketo-Anwendung, es sei denn, er wurde zum Produktprofil als Benutzer hinzugefügt. Ihre Rolle wäre weiterhin ein Standardbenutzer (Standardarbeitsbereich, wenn mehrere Arbeitsbereiche vorhanden sind).
+</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage Product Admin</strong></td>

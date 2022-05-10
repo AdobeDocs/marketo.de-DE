@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Einrichten der Adobe-Organisationszuordnung - Marketo-Dokumente - Produktdokumentation
 title: Einrichten der Adobe-Organisationszuordnung
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Um eine Synchronisierung mit Adobe Apps wie Audience Manager, dem Marketo-Connec
 >[!NOTE]
 >
 >Eine HIPAA-bereite Bereitstellung einer Marketo-Instanz kann diese Integration nicht verwenden.
+
+>[!CAUTION]
+>
+>Für Kunden, die in die Adobe Business Platform und Identity Management integriert sind, wird die mit dem Abonnement verknüpfte Organisations-ID bereits ausgefüllt und ist ein schreibgeschütztes Feld.
 
 1. Klicken Sie in Marketo auf **Admin**.
 
