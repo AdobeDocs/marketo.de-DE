@@ -2,9 +2,9 @@
 description: Häufig gestellte Fragen zur Benutzerkontensynchronisierung - Marketo-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zur Benutzerkontosynchronisierung
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Personenkonten können in Veeva entsprechend den Anforderungen Ihrer Organisatio
 
 >[!NOTE]
 >
->Die Standardkonten von Veeva sind Profis.
+>Wir synchronisieren nur &quot;Professional&quot;-Statuskonten als Personenkonten.
 
 **Was ist ein Personenkonto?**
 
@@ -49,7 +49,7 @@ Wir wären nett und ließen Veeva CRM gewinnen. Es ist jedoch selten, dass diese
 
 **Werden Lead- oder Kontakttyp von Datensätzen mit Vevar CRM synchronisiert?**
 
-Veeva CRM behandelt ausschließlich Personen-Account-Objekte und hat auch Geschäftskonten. Die traditionellen CRM-Typen von Lead, Kontakten und Chancen sind in den traditionellen Veeva CRM-Systemen nicht wirklich im Einsatz. Diese können im VEE-CRM erstellt werden und die Synchronisation kann sie in Marketo bringen, sie werden jedoch von diesem Connector nicht offiziell unterstützt.
+Veeva CRM behandelt ausschließlich Personen-Account-Objekte und hat auch Geschäftskonten. Die traditionellen CRM-Typen von Lead, Kontakten und Chancen sind in den traditionellen Veeva CRM-Systemen nicht wirklich im Einsatz. Diese können im VEE-CRM erstellt werden, werden jedoch nicht offiziell über diesen Connector unterstützt.
 
 **Kann ich eine Person in einen Kontakt in Marketo umwandeln?**
 

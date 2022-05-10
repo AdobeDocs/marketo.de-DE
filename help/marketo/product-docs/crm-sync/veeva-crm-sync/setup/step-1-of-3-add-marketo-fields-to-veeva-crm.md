@@ -2,7 +2,7 @@
 description: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM - Marketo-Dokumente - Produktdokumentation'
 title: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 7%
@@ -25,7 +25,7 @@ Alle diese benutzerdefinierten Felder sind optional und müssen nicht mit Market
 
 ## Hinzufügen von Marketo-Feldern zum VEC-CRM {#add-marketo-fields-to-veeva-crm}
 
-Fügen Sie drei benutzerdefinierte Felder zu den Lead- und Kontaktobjekten im oben aufgelisteten Vevar CRM hinzu. Weitere Informationen finden Sie in der Tabelle der verfügbaren Felder am Ende dieses Abschnitts.
+Fügen Sie ein benutzerdefiniertes Feld zu den Lead- und Kontaktobjekten im oben aufgelisteten Vevar CRM hinzu. Weitere Informationen finden Sie in der Tabelle der verfügbaren Felder am Ende dieses Abschnitts.
 
 Führen Sie die folgenden Schritte aus, um das Feld Punktzahl hinzuzufügen.
 
@@ -112,7 +112,7 @@ Dezimalstellen 0</td>
 
 >[!NOTE]
 >
->Durch Hinzufügen des Felds zum Kontaktobjekt werden diese auch zum Benutzerkonto hinzugefügt.
+>Durch Hinzufügen des Felds zum Kontaktobjekt werden sie auch zum Objekt &quot;Personenkonto&quot;hinzugefügt.
 
 OPTIONAL: Verwenden Sie das obige Verfahren für alle zusätzlichen benutzerdefinierten Felder aus der unten stehenden Tabelle.
 

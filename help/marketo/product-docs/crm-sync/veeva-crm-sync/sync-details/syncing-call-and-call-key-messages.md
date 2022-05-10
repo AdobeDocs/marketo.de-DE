@@ -2,16 +2,16 @@
 description: Synchronisieren von Anrufen und Aufrufen von Schlüsselnachrichten - Marketo-Dokumente - Produktdokumentation
 title: Synchronisieren von Aufrufen und Aufrufen von Schlüsselmeldungen
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '503'
 ht-degree: 5%
 
 ---
 
 # Synchronisieren von Aufrufen und Aufrufen von Schlüsselmeldungen {#syncing-call-and-call-key-messages}
 
-Call and Call Key Message Objects in Veeva CRM werden standardmäßig in Marketo Engage synchronisiert. Marketo synchronisiert Daten, die bis zu 6 Monate alt sind, basierend auf dem Aufrufdatum.
+Call and Call Key Message Objects in Veeva CRM werden standardmäßig in Marketo Engage synchronisiert. Marketo synchronisiert Daten, die bis zu 6 Monate alt sind, basierend auf dem Erstellungsdatum des Aufrufs.
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ Die folgenden Felder in den Meldungen &quot;Aufruf&quot;und &quot;Schlüssel auf
       <td>Das Datum des Aufrufs, an dem er zum ersten Mal gespeichert oder gesendet wurde. Dieses Feld wird über einen Trigger auf das aktuelle Datum gesetzt, wenn weder das Datums- noch das Datum-Uhrzeit-Feld angegeben ist.</td>
       <td>Call_Date_vod_c</td>
       <td>Datum</td>
-    </tr>
-    <tr>
-      <td>Anruf</td>
-      <td>Detaillierte Produkte</td>
-      <td>Ein Hilfsfeld, um die Liste der detaillierten Produkte für einen Aufruf anzuzeigen. Produktnamen sollten durch doppelte Leerzeichen und die Priorität von links nach rechts getrennt werden. Dieses Feld hat keine Kontrolle über die Verarbeitung und ist enthalten, um verwandte Listen und Berichte benutzerfreundlicher zu gestalten.</td>
-      <td>details_products_vod_c</td>
-      <td>Textbereich(255)</td>
     </tr>
     <tr>
       <td>Anruf</td>
