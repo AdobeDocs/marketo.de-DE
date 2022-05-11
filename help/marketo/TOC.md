@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '8740'
+source-wordcount: '8743'
 ht-degree: 5%
 
 ---
@@ -608,6 +608,7 @@ ht-degree: 5%
          + [Dynamischen Chat mit Marketo verbinden](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [Dynamische Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Dialogfelder {#dialogues}
             + [Dialogübersicht](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Erstellen eines Dialogfelds](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)

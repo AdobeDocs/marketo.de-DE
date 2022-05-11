@@ -2,9 +2,9 @@
 description: Datenschutzanfragen - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzanfragen
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Dieses Dokument bietet einen Überblick über die Verwaltung individueller Daten
 
 Sie können individuelle Anfragen zum Zugriff auf und zum Löschen von Verbraucherdaten aus Marketo Engage auf zwei Arten senden:
 
-* Durch die [Privacy Service-Benutzeroberfläche](https://privacyui.cloud.adobe.io/). Weitere Informationen finden Sie in der Dokumentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* Durch die **Privacy Service-API**. Weitere Informationen finden Sie in der Dokumentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) und die API-Referenz [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Durch die [Privacy Service-Benutzeroberfläche](https://privacyui.cloud.adobe.io/). Weitere Informationen finden Sie in der Dokumentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
+* Durch die **Privacy Service-API**. Weitere Informationen finden Sie in der Dokumentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} und API-Informationen [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-Die [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) unterstützt zwei Arten von Anforderungen: Datenzugriff und Datenlöschung.
+Die [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} unterstützt zwei Anforderungstypen: Datenzugriff und Datenlöschung.
 
 Sehen wir uns an, wie Sie Zugriffs- und Löschanfragen erstellen können.
 

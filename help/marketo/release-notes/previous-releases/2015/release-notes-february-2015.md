@@ -3,10 +3,10 @@ unique-page-id: 6094890
 description: Versionshinweise - Februar 2015 - Marketo-Dokumente - Produktdokumentation
 title: Februar 2015 - Versionshinweise
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 18%
+source-wordcount: '325'
+ht-degree: 19%
 
 ---
 
@@ -20,7 +20,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2015 enthalten. Informa
 
 Viel Spaß! Sie können jetzt intelligente Kampagnen per Drag-and-drop oder mit der Verschieben-Funktion in der Baumstruktur in Programme verschieben und daraus entfernen.
 
-**[Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  - unterstützt!
+**[Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - unterstützt!
 
 **HTTPS-Zertifikatänderungen**
 
@@ -28,11 +28,11 @@ Zum Schutz der Vertraulichkeit und Integrität von Kundendaten und SaaS-Diensten
 
 und ersetzt die derzeit verwendeten Sicherheitsprotokolle (SHA-1 und SSL) durch sicherere Versionen (SHA-2 (alias SHA-256) und TLS) für die folgenden Domänen:
 
-* [marketo.net](https://marketo.net)  (verschlüsselter Munchkin-Traffic)
+* marketo.net (verschlüsselter Munchkin-Traffic)
 
-* [marketo.com](https://marketo.com)  (Hauptanwendungen von SaaS)
+* [marketo.com](https://marketo.com) (Hauptanwendungen von SaaS)
 
-Dies geschieht kurz nach dieser Version. Das SHA-1-Protokoll wird bis Dezember 2015 vorübergehend auf der Domäne [mktoapi.com](https://mktoapi.com) unterstützt, damit Eigentümer von Legacy-Systemen und -Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
+Dies geschieht kurz nach dieser Version. SHA-1-Protokoll wird temporär von [mktoapi.com](https://mktoapi.com) -Domain bis Dezember 2015, damit Eigentümer von Legacy-Systemen und -Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
 
 **Sicheres Munchkin**
 
