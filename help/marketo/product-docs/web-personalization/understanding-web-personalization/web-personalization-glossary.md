@@ -1,44 +1,43 @@
 ---
 unique-page-id: 3571927
-description: Glossar zur Web-Personalisierung - Marketing-Dokumente - Produktdokumentation
-title: Glossar "Web-Personalisierung"
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Glossar zur Web-Personalisierung - Marketo-Dokumente - Produktdokumentation
+title: Glossar zur Web-Personalisierung
+exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
+source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 0%
+source-wordcount: '260'
+ht-degree: 3%
 
 ---
 
-
-# Glossar für Web-Personalisierung {#web-personalization-glossary}
+# Glossar zur Web-Personalisierung {#web-personalization-glossary}
 
 Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
 
 | Begriff | Definition |
 |---|---|
-| **Anonymer Besucher** | Ein Besucher, der nie ein Formular ausgefüllt oder seine Daten auf der Website hinterlassen hat. |
-| **Web-Kampagne** | Eine benutzerspezifische Reaktion, die einem bestimmten Segment zugeordnet ist. Bei der Web-Personalisierung umfassen die Web-Kampagnen Dialoge, In-Zonen und Widgets. |
-| **Clickstream** | Der Aktivitäten- und URL-Pfad des Besuchers auf der Site und die Dauer des Besuchs auf den einzelnen Seiten |
-| **ISP** | Internet Dienstleister |
-| **Bekannter Besucher** | Ein Web-Besucher, der ein Formular ausgefüllt und die Angaben (E-Mail-Adresse) auf Ihrer Website hinterlassen oder auf einen Link in einer Marketing-E-Mail geklickt hat. |
-| **Liste des Kontos** | Eine Liste der Namen des Hauptkontos/der Organisation. Auch als &quot;Account-Based Marketing&quot;(ABM)-Liste bezeichnet. |
-| **Segmente** | Eine Sammlung von Besuchern, die die angegebenen Kriterien erfüllen, die auf der Seite [&quot;Segment festlegen&quot;definiert sind.](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) |
-| **Teilungstest** | Ein Testversuch mit zwei oder mehr Varianten zur Messung der Ergebnisunterschiede. Das Ziel ist es, Änderungen an Webseiten zu identifizieren, die ein interessantes Ergebnis steigern oder maximieren. |
-| **Platzhalter** | Ein Platzhalterzeichen (*), das vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen. Siehe die folgenden Beispiele. |
+| **Anonymer Besucher** | Ein Webbesucher, der nie ein Formular ausgefüllt oder seine Details auf der Website gelassen hat. |
+| **Webkampagne** | Eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist. Bei der Web-Personalisierung enthalten Webkampagnen Dialogfelder, Bereiche und Widgets. |
+| **Clickstream** | Aktivität und URL-Pfad des Besuchers auf der Site und Dauer des Besuchs auf den einzelnen Seiten |
+| **ISP** | Internet Service Provider |
+| **Bekannter Besucher** | Ein Webbesucher, der ein Formular ausgefüllt und seine Details (E-Mail-Adresse) auf Ihrer Website gelassen oder auf einen Link in einer Marketo-E-Mail geklickt hat. |
+| **Kontoliste** | Eine Liste der wichtigsten Konto-/Organisationsnamen. Wird auch als Account-Based Marketing-Liste (ABM) bezeichnet. |
+| **Segmente** | Eine Sammlung von Besuchern, die die in der Variablen [Seite &quot;Segment festlegen&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Test aufteilen** | Ein Testexperiment mit zwei oder mehr Varianten, um den Unterschied in den Ergebnissen zu messen. Das Ziel besteht darin, Änderungen an Webseiten zu identifizieren, die ein Interessenergebnis steigern oder maximieren. |
+| **Platzhalter** | Ein Platzhalterzeichen (&#42; wird verwendet), die vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen. Siehe die Beispiele unten. |
 
-## Platzhalterbeispiele {#wildcard-examples}
+## Beispiele für Platzhalter {#wildcard-examples}
 
-Im Folgenden finden Sie drei Möglichkeiten, wie Sie einen Platzhalter in der Web-Personalisierung verwenden können.
+Im Folgenden finden Sie drei Möglichkeiten, einen Platzhalter in der Web-Personalisierung zu verwenden.
 
-Finden Sie alle Besucher auf Seiten-URLs ab, die mit Preisangaben enden (z. B. [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
+Übereinstimmung aller Besucher mit Seiten-URLs, die mit Preisen enden (z. B. `www.marketo.com/pricing`
 
 ![](assets/wildcard-example-1.png)
 
-Ordnen Sie allen Besuchern auf Seiten-URLs zu, die mit https:// Beginn übereinstimmen (z. B. [https://www.marketo.com):](https://www.marketo.com))
+Übereinstimmung mit allen Besuchern auf Seiten-URLs, die mit https:// beginnen (z. B. `https://www.marketo.com`
 
 ![](assets/wildcard-example-2.png)
 
-Finden Sie alle Besucher auf Seiten-URLs ab, die das Wort &quot;backup&quot;enthalten (z. B. [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
+Übereinstimmung mit allen Besuchern auf Seiten-URLs, die das Wort &quot;backup&quot;enthalten (z. B. `https://www.marketo.com/backup/pricing.html`
 
 ![](assets/wildcard-example-3.png)

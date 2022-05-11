@@ -3,7 +3,7 @@ unique-page-id: 4720710
 description: Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit - Marketo Docs - Produktdokumentation
 title: Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Eine schnelle Methode zur Verbesserung Ihrer E-Mail-Versandraten besteht darin, **SPF** (Sender Policy Framework) und **DKIM** (Domain Keys Identified Mail) in Ihre DNS-Einstellungen zu integrieren. Zusätzlich zu Ihren DNS-Einträgen teilen Sie den Empfängern mit, dass Sie Marketo zum Versand von E-Mails in Ihrem Namen autorisiert haben. Ohne diese Änderung besteht eine höhere Wahrscheinlichkeit, dass Ihre E-Mail als Spam gekennzeichnet wird, da die E-Mail von Ihrer Domain aus, aber von einer IP-Adresse mit einer Marketo-Domain gesendet wurde.
+Eine schnelle Methode zur Verbesserung Ihrer E-Mail-Versandraten besteht darin, **SPF** (Sender Policy Framework) und **DKIM** (Domain Keys Identified Mail) in Ihre DNS-Einstellungen. Zusätzlich zu Ihren DNS-Einträgen teilen Sie den Empfängern mit, dass Sie Marketo zum Versand von E-Mails in Ihrem Namen autorisiert haben. Ohne diese Änderung besteht eine höhere Wahrscheinlichkeit, dass Ihre E-Mail als Spam gekennzeichnet wird, da die E-Mail von Ihrer Domain aus, aber von einer IP-Adresse mit einer Marketo-Domain gesendet wurde.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Eine schnelle Methode zur Verbesserung Ihrer E-Mail-Versandraten besteht darin, 
 
 **Wenn Sie keinen SPF-Datensatz in Ihrer Domäne haben**
 
-Bitten Sie Ihren Netzwerkadministrator, die folgende Zeile zu Ihren DNS-Einträgen hinzuzufügen. Ersetzen Sie [domain] durch die Hauptdomäne Ihrer Website (z. B. &quot;company.com&quot;) und [corpIP] mit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B. &quot;255 255 255 255 255&quot;). Wenn Sie E-Mails von mehreren Domänen über Marketo senden, sollten Sie diese zu jeder Domäne hinzufügen (in einer Zeile).
+Bitten Sie Ihren Netzwerkadministrator, die folgende Zeile zu Ihren DNS-Einträgen hinzuzufügen. Ersetzen [domain] mit der Hauptdomäne Ihrer Website (z. B. &quot;company.com&quot;) und [corpIP] mit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B. &quot;255 255 255 255 255&quot;). Wenn Sie E-Mails von mehreren Domänen über Marketo senden, sollten Sie diese zu jeder Domäne hinzufügen (in einer Zeile).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -34,7 +34,7 @@ include:mktomail.com
 
 ## Einrichten von DKIM {#set-up-dkim}
 
-**Was ist DKIM? Warum möchte ich DKIM einrichten?**
+**Was ist DKIM? Warum will ich DKIM einrichten?**
 
 DKIM ist ein Authentifizierungsprotokoll, das von E-Mail-Empfängern verwendet wird, um festzustellen, ob eine E-Mail-Nachricht von wem gesendet wurde, von dem angegeben wurde, dass sie gesendet wurde. DKIM verbessert oft die Zustellbarkeit von E-Mails an den Posteingang, da ein Empfänger sicher sein kann, dass die Nachricht keine Fälschung ist.
 
@@ -46,12 +46,12 @@ Nachdem Sie den öffentlichen Schlüssel in Ihrem DNS-Eintrag eingerichtet und d
 
 **Wie richte ich DKIM ein?**
 
-Weitere Informationen finden Sie unter [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+Siehe [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
 >* [Erfahren Sie mehr über SPF und seine Funktionsweise](http://www.open-spf.org/Introduction/)
 >* [Marketo Email Deliverability Tools](https://www.marketo.com/software/email-marketing/email-deliverability/)
 >* [Ist meine SPF korrekt eingerichtet?](https://www.kitterman.com/spf/validate.html)
->* [Habe ich die richtige Syntax verwendet?](https://www.open-spf.org/SPF_Record_Syntax/)
+>* [Habe ich die richtige Syntax verwendet?](http://www.open-spf.org/SPF_Record_Syntax/)
 
