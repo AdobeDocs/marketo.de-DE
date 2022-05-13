@@ -2,7 +2,7 @@
 description: Automatische Anmeldung von Salesforce - Marketo Docs - Produktdokumentation
 title: Automatische Anmeldung über Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Die automatische Anmeldung ermöglicht Benutzern von Sales Insight Actions, sich
 
 So verwenden Sie die automatische Anmeldung:
 
-* [Anmeldeverwaltungseinstellungen](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md) muss auf &quot;Salesforce Only&quot;gesetzt sein
+* [Anmeldeverwaltungseinstellungen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) muss auf &quot;Salesforce Only&quot;gesetzt sein
 
 * Der Benutzer muss eingeladen worden sein, Sales Insight-Aktionen zu verwenden
 
