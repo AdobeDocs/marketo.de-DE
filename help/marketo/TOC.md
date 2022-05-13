@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 5%
@@ -1167,7 +1167,7 @@ ht-degree: 5%
          + Der Live-Feed {#the-live-feed}
             + [Falscher Empfängerort](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Live Feed-Übersicht](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
-         + Abmeldungen {#unsubscribes}
+         + Abbestellungen {#unsubscribes}
             + [Nachricht zum Abmelden von Links anpassen](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Überprüfung von „Marketo abbestellen“](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Abmeldung](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
@@ -1279,7 +1279,6 @@ ht-degree: 5%
             + [Einrichten des Trackings benutzerdefinierter Domänen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Benutzer und Administratoren einladen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [Anmeldeverwaltungseinstellungen](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Weitergabe-Einstellungen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Benutzerzugriffsdetails](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 5%
                + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce-Diagnose](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce-Synchronisationseinstellungen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Salesforce-Konfiguration {#salesforce-configuration}
+               + [Anmeldeverwaltungseinstellungen](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Konfiguration von Sales Insight-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Salesforce Classic-Anpassungspaket deinstallieren](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Salesforce Lightning Customization Package deinstallieren](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + E-Mail {#email}
             + Kommandozentrale {#command-center}
                + [Erweiterte Suchübersicht](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1318,7 +1322,7 @@ ht-degree: 5%
                + [Versandkanal-Übersicht](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Einschränken der E-Mail-Verbindung](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Abmeldungen {#unsubscribes}
+            + Abbestellungen {#unsubscribes}
                + [Abmelde-Übersicht](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Nachricht zum Abmelden von Links anpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Überprüfung von „Marketo abbestellen“](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
@@ -1372,10 +1376,6 @@ ht-degree: 5%
             + [Internationaler Aufruf](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokale Präsenz](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Einverständniseinstellungen für zwei Parteien](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Salesforce-Konfiguration {#salesforce-configuration}
-            + [Konfiguration von Sales Insight-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [Salesforce Classic-Anpassungspaket deinstallieren](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [Salesforce Lightning Customization Package deinstallieren](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + E-Mail zum Vertrieb senden {#send-a-sales-email}
             + [Übersicht über das E-Mail-Tracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Aufgaben {#tasks}
