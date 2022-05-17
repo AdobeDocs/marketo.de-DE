@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
+source-git-commit: c040d8364bd353e31d26b98284130c22f44b24e8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -69,4 +69,4 @@ Die E-Mail-Überprüfung für Abonnements mit der Funktion &quot;Dialogfeld &quo
 
 **_Webinar zur Produktversion_**
 
-Nehmen Sie am 11. Mai 2022 um 9:00 Uhr PT / 23:00 Uhr ET teil, um eine [Live-Webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wird von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle neuesten Produktinnovationen verwenden.
+[Webinar zur Marketo Engage-Version vom März und Mai 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
