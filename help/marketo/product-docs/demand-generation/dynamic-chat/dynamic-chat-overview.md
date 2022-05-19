@@ -2,9 +2,9 @@
 description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Folgendes wird synchronisiert:
 * Felddaten des Unternehmens
 * Aktivitätsdaten
 
-## Dialogfelder {#dialogues}
+## Dialoge {#dialogues}
 
 Dialogfelder stellen eine einzige Chatinteraktion dar. Stellen Sie sich dies als Container mit all dem Zeug vor, das Sie benötigen, um einen ansprechenden Chat-Dialog mit Ihren Website-Besuchern zu führen. In jedem Dialogfeld können Sie angeben, auf welchen Seiten das Dialogfeld angezeigt werden soll, wem es angezeigt werden soll und Inhalt und Fluss des Dialogfelds selbst. Darüber hinaus können Sie Metriken finden, um zu sehen, wie gut Ihr Dialogfeld abschneidet. [Weitere Informationen zu Dialogfeldern](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
@@ -45,7 +45,7 @@ Verbinden Sie auf der Registerkarte Kalender Ihren Kalender (Outlook oder Gmail)
 
 Sie können auch den Text der Einladung anpassen, die dem Besucher gesendet wird, wenn er einen Termin im Kalender des Benutzers einplant.
 
-## Sitzungen {#meetings}
+## Meetings {#meetings}
 
 Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiedenen Dialoge geplant wurden. Hier finden Sie die E-Mail-Adresse der Person, die den Termin gebucht hat, den Agenten, mit dem sie den Termin gebucht haben, wann der Termin geplant ist und ob das Treffen stattgefunden hat oder nicht.
 
@@ -54,6 +54,10 @@ Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiede
 Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, sowie die Reihenfolge, in der sie den Besuchern der Website angezeigt werden. Meetings gehen um Robin-Stil. Wenn Sie also fünf Agenten und Agenten drei haben, die das letzte Meeting hatten, werden Agent vier das nächste bekommen, gefolgt von Agent fünf, dann zurück zum Agenten eins.
 
 ## FAQs {#faq}
+
+**Kann ich den dynamischen Chat überall auf meiner Firmenwebsite installieren oder funktioniert er nur auf Marketo-Landingpages?**
+
+Das JavaScript-Snippet &quot;Dynamischer Chat&quot;kann auf jeder Website sowie auf Marketo-Landingpages installiert werden.
 
 **Wie lange werden Daten für Berichte gespeichert?**
 
