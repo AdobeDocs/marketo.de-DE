@@ -3,9 +3,10 @@ description: Erste Schritte mit vorausschauenden Zielgruppen - Marketo-Dokumente
 title: Erste Schritte mit vorausschauenden Zielgruppen
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,11 @@ Predictive Audiences (PA) nutzt KI und maschinelles Lernen, um Sie in die Lage z
 
 PA umfasst die folgenden Funktionen:
 
-* [Zielverfolgung und geplante Registrierungen](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}
-* KI/ML-basierte Einblicke
 * Registrierungs- und Anerkennungswahrscheinlichkeitswerte für jeden Lead in einem Ereignisprogramm
 * [Prädiktive Filter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [Modelle und Einflussfaktoren](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* KI/ML-basierte Einblicke
+* [Zielverfolgung und geplante Registrierungen](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (Zielverfolgung ist nur für diejenigen verfügbar, bei denen der Umschalter der nächsten Generation für Ereignisprogramme aktiviert ist. Um auf diesen Umschalter zuzugreifen, wenden Sie sich an Ihr CSM und fordern Sie prädiktive Zielgruppen an)
 
 >[!NOTE]
 >

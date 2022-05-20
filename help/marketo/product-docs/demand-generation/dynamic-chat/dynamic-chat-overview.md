@@ -2,9 +2,9 @@
 description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 2%
 
 ---
@@ -67,17 +67,39 @@ Das JavaScript-Snippet &quot;Dynamischer Chat&quot;kann auf jeder Website sowie 
 
 Nein, es werden nur vordefinierte Antworten verwendet.
 
-**Wie kann ich anonyme Personen ansprechen?**
+**Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-In Ihrem Dialogfeld müssen Sie die _Person Email is Empty_ -Attribut.
+Ja. Der dynamische Chat unterstützt die folgenden Sprachen: Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Abschnitt unten](#changing-the-language).
 
 **Unterstützen Sie KI/NLP-Funktionen?**
 
 Die KI-/NLP-Funktionalität wird nicht unterstützt.
 
-**Bietet Dynamic Chat neben Englisch auch andere Sprachen?**
+**Wie kann ich anonyme Personen ansprechen?**
 
-Zum jetzigen Zeitpunkt nicht.
+In Ihrem Dialogfeld müssen Sie die _Person Email is Empty_ -Attribut.
+
+## Ändern der Sprache {#changing-the-language}
+
+Führen Sie diese Schritte aus, um Ihre Dynamic Chat-Sprache zu ändern.
+
+1. Klicken Sie in Ihrem Experience Cloud-Konto auf das Einstellungssymbol und wählen Sie **Voreinstellungen**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Klicken Sie unter Ihrer E-Mail-Adresse auf die aktuelle Sprache.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Wählen Sie Ihre neue Sprache aus (die zweite Sprache ist optional) und klicken Sie auf **Speichern**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Es gibt einige Dutzend Sprachen, aus denen Sie wählen können. Dynamischer Chat unterstützt jedoch nur Folgendes: Englisch, Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell).
+
+Wenn Sie Ihre Sprache aktualisieren, ändert sich alles in der App selbst, mit Ausnahme der Wörter, die Sie persönlich ausgefüllt haben (z. B. Stream-Antworten).
 
 ## Einschränkungen im dynamischen Chat {#limits-in-dynamic-chat}
 
