@@ -4,7 +4,7 @@ title: Erste Schritte mit vorausschauenden Zielgruppen
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Predictive Audiences wird automatisch einbezogen und für Instanzen aktiviert, d
 1. Nachdem die Funktion Ihrer Instanz hinzugefügt wurde, navigieren Sie zum **[!UICONTROL Vorhersagekräftige Zielgruppen]** in der **[!UICONTROL Admin]** Gebiet von Marketo.
 
 1. Überprüfen **[!UICONTROL Aktivieren prädiktiver Zielgruppen]** , um die Funktion zu aktivieren. Beachten Sie, dass die Einrichtung aller Prozesse bis zu 24 Stunden dauern kann.
-

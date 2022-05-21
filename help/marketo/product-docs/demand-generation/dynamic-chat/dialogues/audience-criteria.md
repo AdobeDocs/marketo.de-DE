@@ -1,75 +1,75 @@
 ---
-description: Audience Criteria - Marketo Docs - Product Documentation
+description: Zielgruppenkriterien - Marketo-Dokumente - Produktdokumentation
 title: Zielgruppenkriterien
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
 
 # Zielgruppenkriterien {#audience-criteria}
 
-Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
+Ähnlich wie bei Smart-Lists in Marketo ermöglichen Ihnen Zielgruppenkriterien-Attribute die Definition Ihrer Zielgruppe. Sie können bekannte oder unbekannte Personen mithilfe von Inferred, Person oder Unternehmensattributen (oder einer Kombination daraus) ansprechen.
 
 **Bekannte Personen**
 
-__ ****
+Es gibt _many_ Attributkombinationen zur Auswahl. In diesem Beispiel zielen wir auf alle **bekannte Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Beschäftigten arbeiten.
 
-1. ****
+1. Grab die **Bundesland** -Attribut fest und ziehen Sie es nach rechts.
 
    ![](assets/audience-criteria-1.png)
 
-1. __ In the Select Values field, type in CA (you can also click the drop-down and select from the list).
+1. _Is_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen eine Zertifizierungsstelle ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
    ![](assets/audience-criteria-2.png)
 
-1. ****__
+1. Grab die **Firmengröße** Attribut hinzufügen und an die gewünschte Position ziehen _Attribut hier ziehen und ablegen_.
 
    ![](assets/audience-criteria-3.png)
 
    >[!NOTE]
    >
-   >****
+   >Sie können auch ein Attribut auswählen, indem Sie auf dessen **+** Symbol.
 
-1. ****
+1. Klicken Sie auf die Dropdown-Liste Operator und wählen Sie **Größer als**.
 
    ![](assets/audience-criteria-4.png)
 
-1. Type 50 and click elsewhere on the screen to save.
+1. Geben Sie 50 ein und klicken Sie auf eine andere Stelle auf dem Bildschirm, um zu speichern.
 
    ![](assets/audience-criteria-5.png)
 
-And that&#39;s it!
+Und das ist es!
 
 **Anonyme Personen**
 
-There&#39;s an easy way to specifically target people who are not in your database yet. ****
+Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel zielen wir auf alle **Anonyme Personen** befindet sich im Gebiet von New York.
 
-1. ****
+1. Grab die **Personen-E-Mail** -Attribut fest und ziehen Sie es nach rechts.
 
    ![](assets/audience-criteria-6.png)
 
-1. ****
+1. Klicken Sie auf die Dropdown-Liste Operator und wählen Sie **Ist leer**.
 
    ![](assets/audience-criteria-7.png)
 
-1. ****__
+1. Grab die **Inferated State** Attribut hinzufügen und an die gewünschte Position ziehen _Attribut hier ziehen und ablegen_.
 
    ![](assets/audience-criteria-8.png)
 
    >[!NOTE]
    >
-   >[](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) We look up their IP in a special database and infer all kinds of good info.
+   >Wenn jemand Ihre Website besucht, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und setzt sie in das System. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen guten Informationen.
 
-1. __ In the Select Values field, type in NY (you can also click the drop-down and select from the list).
+1. _Is_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
    ![](assets/audience-criteria-9.png)
 
-## Add Groups {#add-groups}
+## Gruppen hinzufügen {#add-groups}
 
-You have the option of grouping attributes as well, in case you want to have all of certain attributes along with &quot;all or any&quot; of another. You can add multiple groups.
+Sie haben auch die Möglichkeit, Attribute zu gruppieren, falls Sie alle Attribute zusammen mit &quot;all&quot;oder &quot;any&quot;eines anderen Attributs haben möchten. Sie können mehrere Gruppen hinzufügen.
 
 ![](assets/audience-criteria-10.png)
 
@@ -77,9 +77,9 @@ You have the option of grouping attributes as well, in case you want to have all
 
 ## Ziel {#target}
 
-This is where you enter the URL(s) that you want a specific Dialogue to be shown on. You also have the option of adding exclusions.
+Hier geben Sie die URL(s) ein, für die ein bestimmtes Dialogfeld angezeigt werden soll. Sie haben auch die Möglichkeit, Ausschlüsse hinzuzufügen.
 
-Acceptable formats:
+Zulässige Formate:
 
 * `http://website.com`
 * `https://*.website.com`
@@ -88,15 +88,17 @@ Acceptable formats:
 
 >[!NOTE]
 >
->Using an asterisk acts as a catch-all wilcard. `https://*.website.com``support.website.com` `https://website.com/folder/*`
+>Die Verwendung eines Sternchens dient als Platzhalter. Also `https://*.website.com` würde das Dialogfeld auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im folgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
 
-**** Exclusions follow the same format as inclusions.
+**Ausschlüsse**
+
+Verwenden Sie Ausschlüsse, um sicherzustellen, dass Ihr Dialogfeld **not** auf einer bestimmten Seite/in einem bestimmten Bereich Ihrer Site angezeigt werden. Ausschlüsse haben dasselbe Format wie Einschlüsse.
 
 ![](assets/audience-criteria-12.png)
 
 >[!MORELIKETHIS]
 >
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+>* [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
+>* [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
+>* [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
 
