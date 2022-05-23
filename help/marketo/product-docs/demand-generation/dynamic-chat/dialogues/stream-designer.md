@@ -1,11 +1,11 @@
 ---
 description: Stream Designer - Marketo-Dokumente - Produktdokumentation
-title: Stream-Designer
+title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 3%
 
 ---
 
@@ -28,11 +28,15 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
   <td>Verwenden Sie diese Option, wenn Sie eine Multiple-Choice-Frage stellen möchten, von der Sie die verfügbaren Antworten bereitstellen (z. B.: An welcher Art von Fahrzeug interessiert Sie sich? Antworten = SUV, Compact, Truck usw.).</td>
  </tr>
  <tr>
+  <td><strong>Dokument</strong></td>
+  <td>Ermöglicht das Einbetten von PDF-Dokumenten in Dialogfelder und das Verfolgen der Aktivität von Besuchern zur Dokumenteninteraktion (Anzahl der angezeigten-Seiten, Download des Dokuments und/oder verwendete Suchbegriffe).</td>
+ </tr>
+ <tr>
   <td><strong>Informationserfassung</strong></td>
   <td>Verwenden Sie diese Option, wenn Sie Informationen erfassen möchten. Die drei Felder, aus denen Sie wählen können, sind E-Mail-Adresse, Telefonnummer und Text (mit denen der Besucher eine eigene Nachricht schreiben kann).</td>
  </tr>
  <tr>
-  <td><strong>Zeitplan für die Ernennung</strong></td>
+  <td><strong>Terminplaner</strong></td>
   <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Verfügbarkeit eines Kalenders spiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">der nächste Agent in Zeilen</a>.</td>
  </tr>
  <tr>
@@ -117,7 +121,7 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
      <td>Beispieltext, der dem Besucher dabei hilft, zu sehen, was er eingeben soll.</td>
     </tr>
     <tr>
-     <td><strong>Antwort auf Attribut zuordnen</strong></td>
+     <td><strong>Antwort zu Attribut zuordnen</strong></td>
      <td>Hiermit können Sie die Antwort des Besuchers mit dem entsprechenden Feld in seinem Personendatensatz in Ihrem Marketo-Abonnement synchronisieren.</td>
     </tr>
    </table>
