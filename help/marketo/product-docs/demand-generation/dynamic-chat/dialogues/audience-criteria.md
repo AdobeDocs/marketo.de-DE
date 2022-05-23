@@ -2,9 +2,9 @@
 description: Zielgruppenkriterien - Marketo-Dokumente - Produktdokumentation
 title: Zielgruppenkriterien
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 2%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 2%
 
 Ähnlich wie bei Smart-Lists in Marketo ermöglichen Ihnen Zielgruppenkriterien-Attribute die Definition Ihrer Zielgruppe. Sie können bekannte oder unbekannte Personen mithilfe von Inferred, Person oder Unternehmensattributen (oder einer Kombination daraus) ansprechen.
 
+## Veranstaltungen {#events}
+
+![](assets/audience-criteria-0.png)
+
+Mit Ereignissen können Sie Besucher auf Basis des Bildlaufs oder der Dauer des Bildlaufs auf Ihrer Seite/Site als Ziel auswählen. Im folgenden Beispiel werden Besucher angesprochen, die sich seit mehr als 20 Sekunden auf einer bestimmten Seite befinden.
+
+1. Grab die **Besuchszeit pro Seite** -Ereignis ein und ziehen Sie es nach rechts.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Legen Sie die Zeit &quot;Größer als&quot;auf 20 Sekunden fest.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Fügen Sie die URL der gewünschten Seite im [Target](#target) Abschnitt.
+
+   ![](assets/audience-criteria-0c.png)
+
+## Attribute {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **Bekannte Personen**
 
-Es gibt _many_ Attributkombinationen zur Auswahl. In diesem Beispiel zielen wir auf alle **bekannte Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Beschäftigten arbeiten.
+Es gibt _many_ Attributkombinationen zur Auswahl. Im folgenden Beispiel werden alle **bekannte Personen** in Kalifornien, die in einem Unternehmen mit mehr als 50 Beschäftigten arbeiten.
 
 1. Grab die **Bundesland** -Attribut fest und ziehen Sie es nach rechts.
 
