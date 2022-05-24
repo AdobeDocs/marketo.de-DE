@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketo-Dokumente - Produktdokumentation
 title: Marketo-Glossar
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 4%
 
 ---
@@ -36,7 +36,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td><strong>Kontoliste</strong></td> 
-   <td>Eine Liste der wichtigsten Konto-/Organisationsnamen. Auch als kontobasiertes Marketing bezeichnet (<strong>ABM</strong>).</td> 
+   <td>Eine Liste der wichtigsten Konto-/Organisationsnamen. Auch als Account-Based Marketing bezeichnet (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kontoprofilerstellung</strong></td> 
@@ -272,7 +272,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dokumente</strong></td> 
-   <td colspan="1">Kurz für Dokumente: Dokumente sind Hilfemeldungen für Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumente (die Site, auf der Sie sich derzeit befinden), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> Dokumente, <a href="https://developers.marketo.com/" rel="nofollow">Entwickler</a> Dokumente und <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> Dokumente.</td> 
+   <td colspan="1">Kurz für Dokumente: Dokumente sind Hilfemeldungen für Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumente (die Site, auf der Sie sich derzeit befinden), <a href="https://developers.marketo.com/" rel="nofollow">Entwickler</a> Dokumente und <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> Dokumente.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domänenbasierte Nachrichtenauthentifizierung, Berichterstellung und Konformität (DMARC)</strong></td> 
