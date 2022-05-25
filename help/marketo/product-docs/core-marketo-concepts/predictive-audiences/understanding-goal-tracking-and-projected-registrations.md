@@ -4,9 +4,9 @@ title: Verstehen des Zieltrackings und der geplanten Registrierungen
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Verstehen des Zieltrackings und der geplanten Registrierungen {#understanding-goal-tracking-and-projected-registrations}
 
 Hier erfahren Sie, wie Sie den Zielfortschritt verfolgen und die Prognosen von Marketo verstehen können.
+
+>[!PREREQUISITES]
+>
+>Um auf die meisten dieser Funktionen zugreifen zu können, müssen Sie die [Umschalter der nächsten Generation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} für Ereignisprogramme.
 
 >[!NOTE]
 >
@@ -66,7 +70,7 @@ Oben auf der Seite Berichte finden Sie KI/ML-basierte Empfehlungen, die auf Ihre
 
 PICC
 
-## Personenebenenprädiktionen
+## Vorhersagen auf Benutzerebene
 
 Klicken Sie auf **[!UICONTROL Mitglieder]** um alle Programmmitglieder anzuzeigen. Bewegen Sie den Mauszeiger über die **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Wahrscheinlichkeit der Teilnahme]** Balken, um genaue Prozentsätze und Kategorisierungen anzuzeigen. Sie können dann Maßnahmen für Mitglieder einer bestimmten Kategorie ergreifen (z. B. für alle in der Kategorie &quot;Weniger wahrscheinlich&quot;, um sich zu registrieren) und sie gezielt ansprechen, um Ihre Registrierungsnummern potenziell zu erhöhen.
 
