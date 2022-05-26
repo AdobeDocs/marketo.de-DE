@@ -2,16 +2,20 @@
 description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
+source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 3%
+source-wordcount: '756'
+ht-degree: 2%
 
 ---
 
 # Stream-Designer {#stream-designer}
 
-Es gibt _many_ Stream-Kombinationen, die Sie erstellen können. Dieser Artikel enthält ein Beispiel, in dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Das Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
+Es gibt _many_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, in dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Ihnen wird auch eine kostenlose PDF angeboten. Das ultimative Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
+
+>[!PREREQUISITES]
+>
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie zunächst [einrichten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;} in Ihrem Adobe-Konto.
 
 ## Designer-Karten streamen {#stream-designer-cards}
 
@@ -49,47 +53,51 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 
 1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, klicken Sie auf die **Stream-Designer** Registerkarte.
 
-   ![](assets/create-a-stream-1.png)
+   ![](assets/stream-designer-1.png)
 
 1. Ziehen Sie die Fragenkarte per Drag-and-Drop in den Arbeitsbereich.
 
-   ![](assets/create-a-stream-2.png)
+   ![](assets/stream-designer-2.png)
 
 1. Geben Sie unter Chatbot-Antwort Ihre Frage an, wie Sie möchten.
 
-   ![](assets/create-a-stream-3.png)
+   ![](assets/stream-designer-3.png)
 
    >[!NOTE]
    >
-   >Poke ist standardmäßig auf ein gesetzt, wodurch die öffnende Frage neben dem Chat-Symbol angezeigt wird, ohne dass der Besucher darauf klicken muss, um sie zu sehen.
+   >Poke ist standardmäßig auf ein gesetzt, wodurch die öffnende Frage neben dem Chat-Symbol angezeigt wird, ohne dass der Besucher darauf klicken muss, um sie zu sehen. Poke ist nur auf der ersten Karte in der Konversation verfügbar.
 
 1. Geben Sie Ihre Benutzerantworten ein und klicken Sie auf **Speichern**.
 
-   ![](assets/create-a-stream-4.png)
+   ![](assets/stream-designer-4.png)
+
+   >[!NOTE]
+   >
+   >**Gespeicherte Werte bearbeiten** ist ein optionaler Schritt für diejenigen, die einen anderen Wert in der Datenbank speichern möchten als der, der Besuchern im Chat-Bot für zugeordnete Attribute in der Fragekarte angezeigt wird (z. B.: Besucher sieht &quot;Suchmaschinenoptimierung&quot;, speichern Sie diesen Wert als &quot;SEO&quot;.)
 
 1. Für &quot;Ja&quot; möchten wir einen Termin planen. Ziehen Sie daher unterhalb dieser Option über die Karte Terminplaner .
 
-   ![](assets/create-a-stream-5.png)
+   ![](assets/stream-designer-5.png)
 
 1. Klicken Sie in der Spalte rechts auf **Speichern**.
 
-   ![](assets/create-a-stream-6.png)
+   ![](assets/stream-designer-6.png)
 
 1. Da dies ein Ziel ist, ziehen Sie die Zielkarte unter die Terminplaner.
 
-   ![](assets/create-a-stream-7.png)
+   ![](assets/stream-designer-7.png)
 
 1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **Speichern**.
 
-   ![](assets/create-a-stream-8.png)
+   ![](assets/stream-designer-8.png)
 
 1. Für &quot;Nein&quot; möchten wir sehen, ob sie der Mailingliste beitreten, also unterhalb dieser Option ziehen Sie über eine andere Fragekarte.
 
-   ![](assets/create-a-stream-9.png)
+   ![](assets/stream-designer-9.png)
 
 1. Geben Sie Ihre Antwort ein und fügen Sie Antwortoptionen für den Besucher hinzu. Klicken **Speichern** wann geschehen.
 
-   ![](assets/create-a-stream-10.png)
+   ![](assets/stream-designer-10.png)
 
    >[!NOTE]
    >
@@ -97,15 +105,15 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 
 1. Ziehen Sie unter der Antwort &quot;Ja&quot;über die Karte &quot;Informationserfassung&quot;, damit Sie die E-Mail des Besuchers erfassen können.
 
-   ![](assets/create-a-stream-11.png)
+   ![](assets/stream-designer-11.png)
 
 1. Klicken Sie auf **Typ** und wählen Sie **Email**.
 
-   ![](assets/create-a-stream-12.png)
+   ![](assets/stream-designer-12.png)
 
 1. Geben Sie eine Chat-Bot-Nachricht und einen Platzhalter ein. Stellen Sie sicher, dass das Attribut dem entsprechenden Feld in Marketo zugeordnet ist, und klicken Sie auf **Speichern**.
 
-   ![](assets/create-a-stream-13.png)
+   ![](assets/stream-designer-13.png)
 
    <table>
     <tr>
@@ -128,27 +136,27 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 
 1. Da das Sammeln ihrer E-Mail ein Ziel ist, ziehen Sie die Zielkarte unter &quot;Informationserfassung&quot;.
 
-   ![](assets/create-a-stream-14.png)
+   ![](assets/stream-designer-14.png)
 
 1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **Speichern**.
 
-   ![](assets/create-a-stream-15.png)
+   ![](assets/stream-designer-15.png)
 
-1. Denken Sie daran, eine Antwort hinzuzufügen, wenn Sie &quot;Nein&quot;sagen. Ziehen Sie eine Karte Nachricht unter diese Option.
+1. Denken Sie daran, eine Antwort hinzuzufügen, wenn Sie &quot;Nein&quot;sagen. Eine Option besteht darin, eine Nachrichten-Karte unten zu ziehen und &quot;Danke trotzdem&quot; zu sagen. Aber in diesem Beispiel stellen wir ihnen stattdessen ein kostenloses PDF-Dokument zur Verfügung.
 
-   ![](assets/create-a-stream-16.png)
+   ![](assets/stream-designer-16.png)
 
-1. Geben Sie Ihre Nachricht ein und klicken Sie auf **Speichern**.
+1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen ein, geben Sie die URL für die PDF ein, die Sie bereits gehostet haben, und klicken Sie auf **Speichern**.
 
-   ![](assets/create-a-stream-17.png)
+   ![](assets/stream-designer-17.png)
 
 1. Wählen Sie die **Vorschau** Umschalten auf Vorschau des Dialogfelds.
 
-   ![](assets/create-a-stream-18.png)
+   ![](assets/stream-designer-18.png)
 
 1. Wenn Sie bereit sind, Ihr Dialogfeld zu aktivieren, klicken Sie auf **Veröffentlichen**.
 
-   ![](assets/create-a-stream-19.png)
+   ![](assets/stream-designer-19.png)
 
 >[!NOTE]
 >
@@ -159,4 +167,5 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 >* [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
 >* [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
 >* [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
+>* [Verwenden der Dokumentkarte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;}
 
