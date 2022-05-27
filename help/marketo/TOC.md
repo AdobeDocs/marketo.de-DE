@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 5d8a129e29d56c0f997d1ef141977469b0afc1a8
+source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
 workflow-type: tm+mt
-source-wordcount: '8773'
+source-wordcount: '8775'
 ht-degree: 5%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 5%
          + [Trigger von benutzerdefinierten Objektänderungen](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [Export benutzerdefinierter Objektmetadaten](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo mit Adobe Identity {#marketo-with-adobe-identity}
+         + [Schnellanleitung](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
          + [Überblick](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [Admin-Einrichtung](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Produkt-Admin-Einrichtung](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
