@@ -3,16 +3,16 @@ description: Kurzanleitung - Marketo-Dokumente - Produktdokumentation
 title: Schnellanleitung
 hide: true
 hidefromtoc: true
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: f33af70109b0491138aff8aa0416f3f919e7d20c
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Schnellanleitung {#quick-guide}
 
-Gehen Sie wie folgt vor, um Marketo Engage mit Adobe Identity Management einzurichten und kennenzulernen.
+Die unten aufgeführten Artikel helfen Ihnen bei der Einrichtung von Marketo Engage mit Adobe Identity Management und informieren Sie sich darüber.
 
 ## Systemadministrator {#system-admin}
 
