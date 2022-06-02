@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
+source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **24. Juni 2022**, 
 
 ## Ankündigungen {#announcements}
 
-* **Veraltete Forms-Version - Forms 1.0, Lead-Capture-/Speicherendpunkt und Skriptversionen von Formularen**: Die Unterstützung für Forms 1.0-Assets wird im Oktober 2022 vollständig aus Marketo Engage entfernt. Alle vorhandenen Forms 1.0-Assets funktionieren nicht mehr. Für Marketo Engage-Formulare ist JavaScript erforderlich, damit sie auf Landingpages und Websites geladen werden können.
+* **Veraltete Forms-Version - Forms 1.0, Lead-Capture-/Speicherendpunkt und Skriptversionen von Formularen**: Die Unterstützung für Forms 1.0-Assets wird ab Oktober 2022 vollständig aus Marketo Engage entfernt. Alle vorhandenen Forms 1.0-Assets funktionieren nicht mehr. Für Marketo Engage-Formulare ist JavaScript erforderlich, damit sie auf Landingpages und Websites geladen werden können.
 
 **_Webinar zur Produktversion_**
 
