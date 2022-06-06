@@ -1,12 +1,10 @@
 ---
 description: Verstehen des Zieltrackings und der geplanten Registrierungen - Marketo-Dokumente - Produktdokumentation
 title: Verstehen des Zieltrackings und der geplanten Registrierungen
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ Hier erfahren Sie, wie Sie den Zielfortschritt verfolgen und die Prognosen von M
 
 1. Details zum Ziel-Tracking finden Sie im Abschnitt **[!UICONTROL Berichte]** Registerkarte Ihres Veranstaltungsprogramms. In diesem speziellen Beispiel gibt es bis jetzt 150 registrierte Mitglieder gegen ein Ziel von 200 (75%).
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 Sie werden auch Ihre **[!UICONTROL Projiziert]** Registrierungen. Bewegen Sie den Mauszeiger über das Informationssymbol, um eine Aufschlüsselung dieser Zahl nach Segment &quot;Wahrscheinlichkeit&quot;anzuzeigen.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >Das Diagramm &quot;Geplant&quot;und &quot;Höher&quot;bleiben bis zum Tag des Ereignisses leer.
 
+Wenn Sie den Umschalter nicht aktiviert haben, wird dieser in der Marketo Class-Benutzeroberfläche angezeigt:
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. Klicken Sie auf die Schaltfläche Diagramm , um nach Registrierungswahrscheinlichkeit zu einer Aufschlüsselung Ihrer Mitglieder zu wechseln. Sie sehen die aktuellen Registrierungsprozentsätze für jedes Segment im Vergleich zum durchschnittlichen Prozentsatz für dieses Segment in Ihren vergangenen Programmen.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 Alle (registrierten und noch nicht registrierten) Mitglieder werden nach ihrer Registrierungswahrscheinlichkeit kategorisiert. Bewegen Sie den Mauszeiger über das Infosymbol, um zu sehen, wie diese Wahrscheinlichkeitskategorien definiert sind.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ Bei der Berechnung ähnlicher Programme werden unter anderem folgende Faktoren b
 * Zeitdauer von der Ereigniserstellung bis zum Ereignisstart
 * Ereignisdauer
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Empfehlungen
 
 Oben auf der Seite Berichte finden Sie KI/ML-basierte Empfehlungen, die auf Ihrem Fortschritt basieren. Besuchen Sie regelmäßig die Seiten, um nützliche Tipps und Einblicke zu erhalten!
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Vorhersagen auf Benutzerebene
 
 Klicken Sie auf **[!UICONTROL Mitglieder]** um alle Programmmitglieder anzuzeigen. Bewegen Sie den Mauszeiger über die **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Wahrscheinlichkeit der Teilnahme]** Balken, um genaue Prozentsätze und Kategorisierungen anzuzeigen. Sie können dann Maßnahmen für Mitglieder einer bestimmten Kategorie ergreifen (z. B. für alle in der Kategorie &quot;Weniger wahrscheinlich&quot;, um sich zu registrieren) und sie gezielt ansprechen, um Ihre Registrierungsnummern potenziell zu erhöhen.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii. Nach 24 Stunden in der [!UICONTROL Berichte] -Tab können Sie die voraussich
 
 iii. Wenn die geplanten Registrierungen geringer sind als das Ziel, müssten Sie mehr Personen einladen. An diesem Punkt können Sie die Einblicke sehen, die Ihnen mitteilen, welche Schwelle in früheren Programmen funktioniert hat.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 iv. Sie können eine neue Smart-Kampagne mit diesem Schwellenwert erstellen, um weitere Personen einzuladen.
 
@@ -124,7 +126,7 @@ A: Drei Balken, von denen jeder ein Segment darstellt (hoch wahrscheinlich, wahr
 
 **Blaue Leiste:** Registrierungsprozentsatz aller Personen in diesem Segment.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Nehmen wir beispielsweise an, 100 Personen haben eine Wahrscheinlichkeit, sich bei > 50 % und 60 von 100 registrierten Personen zu registrieren. Eine Konversion von 60 % ist höchstwahrscheinlich. So erhalten alle zum Programm hinzugefügten Mitglieder die Wahrscheinlichkeit, Werte zu registrieren, dann werden sie in Segmente eingefügt und entsprechend der Anzahl der in den einzelnen Segmentkonversionsraten registrierten Personen berechnet.
 
@@ -134,10 +136,10 @@ A: Jede Person, die als registriert aufgeführt ist, oder jeder andere Status mi
 
 Sie können neue Progressionsstatus für ein Ereignisprogramm erstellen, aber wir ordnen diese Status den Standardstatus zu. Betrachten wir einen Fall, in dem eine Person von einer eingeladenen in eine Erinnerung verschoben wird, was einen höheren Schritt als die Registrierung darstellt. Diese Person gilt auch als registriert und wird im Ziel-Tracking angezeigt.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **F: Wie werden die voraussichtlichen Registrierungen berechnet?**
 
 A: Siehe unten.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
