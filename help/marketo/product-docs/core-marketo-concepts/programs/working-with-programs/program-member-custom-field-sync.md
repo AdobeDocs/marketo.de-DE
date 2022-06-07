@@ -3,9 +3,9 @@ description: Benutzerdefinierte Felder für Programmmitglieder - Marketo-Dokumen
 title: Benutzerdefinierte Felder für Programmmitglieder
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '348'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 6%
 >
 >Das Programmteilobjekt kann über bis zu 20 benutzerdefinierte Felder verfügen. Diese Felder stehen jedem Programm zur Verfügung.
 
-## Salesforce-Felder den Feldern der Programmmitglieder zuordnen {#map-salesforce-fields-to-program-member-fields}
+## Salesforce-Felder benutzerdefinierten Feldern des Programmmitglieds zuordnen {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. Klicken Sie in Marketo auf **Admin**.
 
@@ -44,7 +44,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >In der Dropdown-Liste werden nur benutzerdefinierte Felder für Programmmitglieder angezeigt, die mit dem Datentyp des Salesforce-Felds übereinstimmen.
+   >In der Dropdown-Liste werden nur benutzerdefinierte Felder für Programmmitglieder angezeigt, die dem Datentyp des Salesforce-Felds entsprechen.
 
 1. Für weitere Feldzuordnungen deaktivieren Sie das Suchfeld und wiederholen Sie die Schritte 3 bis 5.
 
@@ -60,7 +60,7 @@ ht-degree: 6%
    >
    >Wenn Sie den Datentyp eines Felds in Salesforce umbenennen oder ändern, wird jede Zuordnung dieses Felds zum benutzerdefinierten Feld &quot;Programmteilnehmer&quot;entfernt. Sie können es jedoch nach der Überprüfung mit dem neuen Feld überarbeiten.
 
-## Salesforce-Felder den Feldern der Programmmitglieder zuordnen {#unmap-salesforce-fields-to-program-member-fields}
+## Salesforce-Felder aus benutzerdefinierten Feldern des Programmmitglieds aufheben {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allgemeine Änderung vornehmen möchten, müssen Sie zuerst eine Aufhebung der Zuordnung durchführen. So geht es.
 
@@ -88,7 +88,7 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## Datentypzuordnung {#datatype-mapping}
+## Datentypzuordnung {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
   <tbody>
     <tr>
       <th>SFDC-Datentyp</th>
-      <th>Felddatentyp des Programmteilnehmers</th>
+      <th>Benutzerdefinierter Felddatentyp für Programmteilnehmer</th>
     </tr>
     <tr>
       <td>Text</td>
