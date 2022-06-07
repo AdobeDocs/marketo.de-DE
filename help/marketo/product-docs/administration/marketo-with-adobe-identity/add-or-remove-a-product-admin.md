@@ -2,9 +2,9 @@
 description: Hinzufügen oder Entfernen von Produktadministratoren - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen oder Entfernen eines Produkt-Admins
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 >**System** Administratoren werden nur auf der Ebene der Adobe-Organisation erstellt. Wenn Sie glauben, dass Sie mehr als eine benötigen, wenden Sie sich bitte an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Produkt-Admin hinzufügen {#add-a-product-admin}
+
+>[!IMPORTANT]
+>
+>Ein Administrator muss zu einem Produktprofil hinzugefügt werden, um Zugriff auf Marketo Engage zu erhalten.
 
 1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/).
 
