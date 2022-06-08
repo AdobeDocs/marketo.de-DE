@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2953457
-description: SFDC-Synchronisierung - Kontaktabgleich - Marketo-Dokumente - Produktdokumentation
-title: SFDC-Synchronisierung - Kontaktsynchronisierung
+description: SFDC Sync - Kontaktsynchronisierung - Marketo-Dokumente - Produktdokumentation
+title: SFDC Sync - Kontaktsynchronisierung
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# SFDC-Synchronisierung: Kontaktsynchronisierung {#sfdc-sync-contact-sync}
+# SFDC Sync: Kontaktsynchronisierung {#sfdc-sync-contact-sync}
 
-Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Salesforce synchronisiert? Es synchronisiert, wartet dann 5 Minuten und synchronisiert dann den ganzen Tag, jeden Tag. Hier sind einige Details darüber, wie Marketo Salesforce-Kontakte spezifisch behandelt.
+Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Salesforce synchronisiert? Es wird synchronisiert, dann 5 Minuten wartet und dann wieder synchronisiert, den ganzen Tag, jeden Tag. Im Folgenden finden Sie einige Details dazu, wie Marketo Salesforce-Kontakte spezifisch behandelt.
 
-## Sync Direction {#sync-direction}
+## Synchronisierungsrichtung {#sync-direction}
 
-Die Kontaktsynchronisierung erfolgt in beide Richtungen. Wenn Sie Änderungen an einem Kontakt in Salesforce oder Marketo vornehmen, werden Ihre Aktualisierungen in beiden Systemen übernommen.
+Die Synchronisation von Kontakten erfolgt bidirektional. Wenn Sie Änderungen an einem Kontakt in Salesforce oder Marketo vornehmen, spiegeln sich Ihre Aktualisierungen in beiden Systemen wider.
 
-## Was ist, wenn beide Systeme gleichzeitig geändert werden? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
+## Was passiert, wenn beide Systeme gleichzeitig geändert werden? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
 Wir sind nett und lassen Salesforce gewinnen. Es ist selten, dass diese Art von Datenkollision auftritt.
 
-## Kann ich eine Person in Marketo in eine Kontaktperson umwandeln? {#can-i-convert-a-person-into-a-contact-in-marketo}
+## Kann ich eine Person in einen Kontakt in Marketo umwandeln? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Ja, verwenden Sie die Fließaktion **[Person konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**.
+Ja, verwenden Sie die **[Person konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** Flussaktion.
 
 >[!CAUTION]
 >
->Die Umwandlung einer Person in Marketo wird zu einem neuen Konto und Chancen in Salesforce führen. Wenn Sie keine Duplikat-Konten wünschen, verwenden Sie Salesforce zur Konvertierung.
+>Das Konvertieren einer Person in Marketo wird zu einem neuen Konto und einer neuen Möglichkeit in Salesforce führen. Wenn Sie keine doppelten Konten möchten, verwenden Sie Salesforce zur Konvertierung.
 
-## Kann ich eine Synchronisierung eines Kontakts manuell erzwingen? {#can-i-manually-force-a-sync-of-a-contact}
+## Kann ich die Synchronisierung eines Kontakts manuell erzwingen? {#can-i-manually-force-a-sync-of-a-contact}
 
-Ja, verwenden Sie die Aktion **[Synchronisierte Person mit SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** und sie wird in Echtzeit synchronisiert.
+Ja, verwenden Sie die **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** Flussaktion und sie wird in Echtzeit synchronisiert.
 
-## Synchronisiert jedes einzelne Standardfeld mit Marketo? {#does-every-single-standard-field-sync-to-marketo}
+## Synchronisiert jedes Standardfeld mit Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
 Nein, nicht alle Standardfelder sind nützlich. Alle benutzerdefinierten Felder können Teil der Synchronisierung sein.
 
@@ -45,4 +44,4 @@ Nein, nicht alle Standardfelder sind nützlich. Alle benutzerdefinierten Felder 
 
 ## Wird Marketo die Salesforce-Validierungsregeln einhalten? {#will-marketo-respect-the-salesforce-validation-rules}
 
-Ja, wenn ein Konflikt vorliegt, wird das Ergebnis im Protokoll der Interessenten-Aktivität protokolliert.
+Ja, wenn ein Konflikt vorliegt, wird das Ergebnis im Interessenten-Aktivitätsprotokoll protokolliert.
