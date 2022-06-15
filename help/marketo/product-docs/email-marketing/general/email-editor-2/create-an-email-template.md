@@ -1,35 +1,38 @@
 ---
 unique-page-id: 10096400
-description: Erstellen einer E-Mail-Vorlage - Marketing-Dokumente - Produktdokumentation
+description: Erstellen einer E-Mail-Vorlage - Marketo Docs - Produktdokumentation
 title: E-Mail-Vorlage erstellen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
+source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-
-# Erstellen einer E-Mail-Vorlage {#create-an-email-template}
+# E-Mail-Vorlage erstellen {#create-an-email-template}
 
 Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen.
 
 >[!NOTE]
 >
->Der Marketing-Support ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes HTML hilft. Für HTML-Hilfe wenden Sie sich bitte an einen Webentwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Webentwickler, um Hilfe beim HTML zu erhalten.
+
+>[!CAUTION]
+>
+>Der von uns verwendete Editor konvertiert die Werte der CSS-Eigenschaften für Farbe und Hintergrundfarbe in Kleinbuchstaben. Vermeiden Sie daher die Verwendung von Binnenmajuskel-Schreibweise und verwenden Sie stattdessen Namen oder Bindestriche in Kleinbuchstaben.
 
 ## Neue E-Mail-Vorlage erstellen {#create-a-new-email-template}
 
-1. Klicken Sie auf **Design Studio**.
+1. Klicken **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neue E-Mail-Vorlage**.
+1. Klicken **Neu**, wählen Sie **Neue E-Mail-Vorlage**.
 
    ![](assets/ds-two.png)
 
-1. Geben Sie der neuen Vorlage einen Namen und klicken Sie auf **Erstellen**.
+1. Benennen Sie die neue Vorlage und klicken Sie auf **Erstellen**.
 
    ![](assets/three-1.png)
 
@@ -39,25 +42,25 @@ Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen
 
    >[!CAUTION]
    >
-   >Es gibt zwar keine feste Grenze, aber sobald eine E-Mail-Vorlage von über 500 E-Mails verwendet wird, kann eine erneute Genehmigung dieser Vorlage nach einer Aktualisierung zu Leistungsproblemen führen. Es wird empfohlen, eine neue Vorlage zu erstellen, sobald 500 E-Mails mit einer E-Mail-Vorlage verknüpft sind.
+   >Wenn eine E-Mail-Vorlage von mehr als 500 E-Mails verwendet wird, gibt es zwar keine feste Begrenzung, aber die erneute Validierung dieser Vorlage nach einer Aktualisierung kann zu Leistungsproblemen führen. Es wird empfohlen, eine neue Vorlage zu erstellen, sobald 500 E-Mails einer E-Mail-Vorlage zugeordnet sind.
 
-## Speichern einer E-Mail als Vorlage {#save-an-email-as-a-template}
+## E-Mail als Vorlage speichern {#save-an-email-as-a-template}
 
 Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Verwendung speichern möchten, führen Sie die folgenden einfachen Schritte aus.
 
-1. Klicken Sie auf **Marketing-Aktivitäten**.
+1. Klicken **Marketingaktivitäten**.
 
    ![](assets/one.png)
 
-1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf **Entwurf bearbeiten**.
+1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Als Vorlage speichern**.
+1. Klicken Sie auf **E-Mail-Aktionen** und wählen Sie **Als Vorlage speichern**.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf die Dropdownliste **Ordner**, wählen Sie aus, wo die Vorlage live sein soll, und klicken Sie auf **Speichern**.
+1. Klicken Sie auf **Ordner** in der Dropdown-Liste auswählen, wo die Vorlage live sein soll, und auf **Speichern**.
 
    ![](assets/five-1.png)
 
@@ -65,7 +68,7 @@ Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Ve
 
    >[!CAUTION]
    >
-   >Beim Speichern einer E-Mail als Vorlage werden Variablenwerte nicht übernommen. Variablen verwenden weiterhin die in der zugrunde liegenden Vorlage angegebenen Standardwerte. Verfügbare Module in der E-Mail werden auch nicht übertragen, es sei denn, sie wurden in den E-Mail-Textkörper eingefügt.
+   >Beim Speichern einer E-Mail als Vorlage werden Variablenwerte nicht übernommen. Variablen verwenden weiterhin die in der zugrunde liegenden Vorlage angegebenen Standardwerte. Die in der E-Mail verfügbaren Module werden nur übertragen, wenn sie in den E-Mail-Textkörper eingefügt wurden.
 
 Um Ihre E-Mail-Vorlage anzupassen, sehen Sie sich den unten stehenden Artikel an.
 
