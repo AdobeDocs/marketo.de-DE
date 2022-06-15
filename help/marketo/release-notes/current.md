@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
+source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,8 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **24. Juni 2022**, 
 * **My Marketo Tile Update - Sales Insight-Aktionen**: Marketo-Administratoren (und Benutzer, die sie bestimmen) können jetzt über die neue Kachel &quot;Sales Insight-Aktionen&quot;auf der Seite &quot;My Marketo&quot;schnell zu ihrer Instanz mit Sales Insight-Aktionen navigieren.
 
 ## SalesConnect {#sales-connect}
+
+![(Stern)](assets/yellow-star.png)
 
 * **Salesforce-API-Update**: Mit der Salesforce Summer Version 22 werden ältere API-Versionen 21-30 von Salesforce nicht mehr unterstützt. Mit dieser Marketo Engage-Version wurden alle Sales Connect-Anfragen, die ältere API-Versionen verwenden, aktualisiert, damit sie auf eine unterstützte Version passen. Ausführliche Informationen zu Salesforce API-Pensionsplänen finden Sie unter [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
