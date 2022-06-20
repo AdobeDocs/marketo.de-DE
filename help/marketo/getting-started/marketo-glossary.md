@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketo-Dokumente - Produktdokumentation
 title: Marketo-Glossar
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 4%
 
 ---
@@ -28,19 +28,15 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
-   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben:<br>- Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-in <strong>ABM</strong>, <strong>Benanntes Konto</strong> ist ein Konto, das der Benutzer als Zielkonto festgelegt hat, das er verfolgen möchte.<br>-In ABM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften Konto zugeordnet ist <strong>CRM</strong> (Konto in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> oder <strong>API</strong>).<br>-In Ihrem CRM-System sind Konten das Unternehmen, mit dem Leads und Kontakte verknüpft sind.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Account-basiertes Marketing</a> (ABM)</strong></td> 
-   <td colspan="1">Eine Zusatzfunktion, mit der Sie wichtige Konten in höchst koordinierter Weise ansprechen und ansprechen können.</td> 
+   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben:<br>- Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-in <strong>TAM</strong>, <strong>Benanntes Konto</strong> ist ein Konto, das der Benutzer als Zielkonto festgelegt hat, das er verfolgen möchte.<br>-In TAM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften Konto zugeordnet ist <strong>CRM</strong> (Konto in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> oder <strong>API</strong>).<br>-In Ihrem CRM-System sind Konten das Unternehmen, mit dem Leads und Kontakte verknüpft sind.</td> 
   </tr> 
   <tr> 
    <td><strong>Kontoliste</strong></td> 
-   <td>Eine Liste der wichtigsten Konto-/Organisationsnamen. Auch als Account-Based Marketing bezeichnet (<strong>ABM</strong>).</td> 
+   <td>Eine Liste der wichtigsten Konto-/Organisationsnamen. Wird auch als Target-Kontoverwaltung bezeichnet (<strong>TAM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kontoprofilerstellung</strong></td> 
-   <td colspan="1">(früher AccountAI) in <strong>ABM</strong>unter Verwendung Ihres Idealen Kundenprofils (ICP) werden bestehende Unternehmen in Ihrer Datenbank nach Rang geordnet und die Rankings werden als Bewertungen in Ihren Konten hinzugefügt.</td> 
+   <td colspan="1">(früher AccountAI) in <strong>TAM</strong>unter Verwendung Ihres Idealen Kundenprofils (ICP) werden bestehende Unternehmen in Ihrer Datenbank nach Rang geordnet und die Rankings werden als Bewertungen in Ihren Konten hinzugefügt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Kontobewertung</a></strong></td> 
@@ -574,7 +570,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><strong>Genanntes Konto</strong></td> 
-   <td><p>In <strong>ABM</strong>, ein Konto, das der Benutzer als Zielkonto festgelegt hat, das er verfolgen möchte.</p></td> 
+   <td><p>In <strong>TAM</strong>, ein Konto, das der Benutzer als Zielkonto festgelegt hat, das er verfolgen möchte.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Programm-Nurturing</strong></td> 
@@ -647,7 +643,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">In Marketo <strong>Account-basiertes Marketing</strong>, sind Personas eine Teilmenge einer Zielgruppe, was eine spezifischere Zielgruppenbestimmung ermöglicht.</td> 
+   <td colspan="1">In Marketo <strong>Verwaltung von Target-Konten</strong>, sind Personas eine Teilmenge einer Zielgruppe, was eine spezifischere Zielgruppenbestimmung ermöglicht.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Umfrage</strong></a></td> 
@@ -807,7 +803,11 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Tags</a></strong></td> 
    <td>Zu beschreibende Kennungen <strong>Programme</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Verwaltung von Target-Konten</a> (TAM)</strong></td> 
+   <td colspan="1">(ehemals kontobasiertes Marketing/ABM) Eine Add-On-Funktion, mit der Sie wichtige Konten in höchst koordinierter Weise ansprechen und ansprechen können.</td> 
+  </tr>
   <tr> 
    <td><strong>Vorlage</strong></td> 
    <td>Ein <strong>email</strong> oder <strong>Landingpage</strong> wird als Ausgangspunkt für die Erstellung zusätzlicher E-Mails oder Landingpages verwendet.</td> 
