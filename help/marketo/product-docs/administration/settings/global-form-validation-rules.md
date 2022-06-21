@@ -2,9 +2,9 @@
 description: Globale Formularvalidierungsregeln - Marketo-Dokumente - Produktdokumentation
 title: Globale Formularvalidierungsregeln
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -70,3 +70,17 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 >[!NOTE]
 >
 >Marketo Engage verfügt über eine definierte Blockierungsliste kostenloser E-Mail-Domains für Verbraucher, die blockiert werden, wenn die Regel &quot;KundenE-Mail-Domain-Vorabregistrierung&quot;verwendet wird. [Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+
+## Deaktivieren des Zugriffs pro Formular{#how-to-disable-access-per-form}
+
+Nach der Aktivierung gelten Regeln für alle Formulare. Wenn Sie jedoch über ein Formular mit bestimmten Anforderungen verfügen und nichts zurückgewiesen werden soll, können Sie die globalen Regeln zur Formularüberprüfung in den Einstellungen eines Formulars deaktivieren.
+
+1. Klicken Sie in dem gewünschten Formular auf **Formulareinstellungen**, dann **Einstellungen**.
+
+   ![](assets/global-form-validation-rules-11.png)
+
+1. Klicken Sie auf die Dropdown-Liste Globale Formularvalidierungsregeln und wählen Sie **Behinderte**.
+
+   ![](assets/global-form-validation-rules-12.png)
+
+Wenn Sie Ihr Formular genehmigen und posten, werden Ihre Regeln zur globalen Formularüberprüfung ignoriert.
