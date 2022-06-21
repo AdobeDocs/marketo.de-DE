@@ -2,7 +2,7 @@
 description: Globale Formularvalidierungsregeln - Marketo-Dokumente - Produktdokumentation
 title: Globale Formularvalidierungsregeln
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
+source-git-commit: c91fa08bcb833a4c8a65055fd2471d7bc03a4e71
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
 ## Deaktivieren des Zugriffs pro Formular{#how-to-disable-access-per-form}
 
-Nach der Aktivierung gelten Regeln für alle Formulare. Wenn Sie jedoch über ein Formular mit bestimmten Anforderungen verfügen und nichts zurückgewiesen werden soll, können Sie die globalen Regeln zur Formularüberprüfung in den Einstellungen eines Formulars deaktivieren.
+Nach der Aktivierung gelten Regeln für alle Formulare. Wenn Sie jedoch ein Formular mit bestimmten Anforderungen haben und nichts zurückgewiesen werden soll, können Sie die globalen Regeln zur Formularüberprüfung in den Einstellungen des Formulars deaktivieren.
 
 1. Klicken Sie in dem gewünschten Formular auf **Formulareinstellungen**, dann **Einstellungen**.
 
