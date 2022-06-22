@@ -2,24 +2,16 @@
 description: Flow Step Service - Marketo Docs - Produktdokumentation
 title: Flussschritt-Dienst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # Flussschritt-Dienst {#flow-step-service}
 
->[!NOTE]
->
->Die Selbstbedienungsflussschritte befinden sich derzeit in der offenen Beta-Phase. Sie können es für Ihr Abonnement im Menü Admin > Schatztruhe aktivieren.
-
-Die Flussschritte für Self-Service sind ein Framework und eine Reihe von Funktionen für das Erstellen, Veröffentlichen und Integrieren von Webdiensten in Smart-Kampagnen für Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Eine Implementierung der Suchtabelle zum Machbarkeitsnachweis finden Sie [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## Einschränkungen und Warnungen vor der Veröffentlichung {#pre-release-restrictions-and-warnings}
-
-Diese Funktion befindet sich derzeit in der offenen Beta-Phase und sollte nur auf Sandbox-Instanzen von Marketo Engage verwendet werden, bis Ihr Dienst vollständig getestet wurde.
+Die Fluss-Schritte für Self-Service sind ein Framework und eine Reihe von Funktionen für die Erstellung, Veröffentlichung und Integration von Webdiensten in Smart-Kampagnen von Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Eine Implementierung der Suchtabelle zum Machbarkeitsnachweis finden Sie [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Onboarding und Verwalten von Diensten {#onboarding-and-managing-services}
 
