@@ -2,9 +2,9 @@
 description: Umschalten - Marketo Docs - Produktdokumentation
 title: Umschalten
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-7.png)
 
-## Landingpage-Detailseite {#landing-page-details-page}
+## Detailansicht der Landingpage {#landing-page-details-view}
 
 1. Suchen und wählen Sie in Marketo Ihre Landingpage aus.
 
@@ -117,14 +117,48 @@ Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-21.png)
 
+## Ansicht mit E-Mail-Details {#email-details-view}
+
+1. Suchen und wählen Sie in Marketo Ihre E-Mail aus.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+
+   ![](assets/toggle-switch-23.png)
+
+Das neue Erlebnis wird geladen.
+
+![](assets/toggle-switch-24.png)
+
+## E-Mail-Listenansicht {#email-list-view}
+
+Die nächste Generation der E-Mail-Listenansicht bietet Suchfilter und die Möglichkeit, E-Mail-Massenaktionen durchzuführen.
+
+1. Wählen Sie in Marketo **Design Studio**.
+
+   ![](assets/toggle-switch-25.png)
+
+1. Auswählen **E-Mails**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. Klicken Sie unten rechts auf der Seite auf das **Neues Erlebnis** umschalten.
+
+   ![](assets/toggle-switch-27.png)
+
+Das neue Erlebnis wird geladen.
+
+![](assets/toggle-switch-28.png)
+
 ## Aktivieren für alle Funktionen {#enable-for-all-features}
 
 Sie haben die Möglichkeit, die Benutzeroberfläche der nächsten Generation von Marketo für alle verfügbaren Funktionen (aktuell und in Kürze) manuell zu aktivieren.
 
 1. In einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in [Formulardetailseite](#form-details-page)), klicken Sie auf das Zahnradsymbol unten rechts auf der Seite.
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
