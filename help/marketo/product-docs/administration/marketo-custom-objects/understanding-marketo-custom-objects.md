@@ -1,102 +1,101 @@
 ---
 unique-page-id: 10093188
-description: Benutzerdefinierte Marketo-Objekte - Marketo Docs - Produktdokumentation
-title: Benutzerdefinierte Marketo-Objekte
+description: Grundlegendes zu benutzerdefinierten Marketo-Objekten - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu benutzerdefinierten Marketo-Objekten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 2%
 
 ---
 
-# Benutzerdefinierte Marketo-Objekte {#understanding-marketo-custom-objects}
+# Grundlegendes zu benutzerdefinierten Marketo-Objekten {#understanding-marketo-custom-objects}
 
-Verwenden Sie benutzerdefinierte Objekte, um unternehmensspezifische Metriken zu verfolgen.
+Verwenden Sie benutzerdefinierte Objekte, um Metriken zu verfolgen, die für Ihr Unternehmen spezifisch sind.
 
 >[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-Verwenden Sie benutzerdefinierte Objekte als Filter und Trigger in Ihren intelligenten Kampagnen. Zum Beispiel:
+Verwenden Sie benutzerdefinierte Objekte als Filter und Trigger in Ihren Smart-Kampagnen. Zum Beispiel:
 
 * **Filter**: E-Mails nur an Inhaber einer bestimmten Fahrzeugmarke senden
-* **Trigger**: Senden Sie eine E-Mail, wenn einer Person oder Firma ein benutzerdefiniertes Objekt hinzugefügt wird.
+* **Trigger**: Senden Sie eine E-Mail, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird.
 
-Sie können benutzerdefinierte Objekte in einer Eins-zu-viele- oder einer Viele-zu-viele-Beziehung einrichten. Zum Beispiel:
+Sie können benutzerdefinierte Objekte in einer Eins-zu-viele- oder einer n-zu-n-Beziehung einrichten. Zum Beispiel:
 
 * **Eins-zu-viele**: Eine Person besitzt mehrere Autos
-* **Viele-zu-viele**: Mehrere Schüler/innen sind in mehreren Kursen aus einem Kurskatalog eingeschrieben
+* **Viele-zu-viele**: Mehrere Schüler/innen sind an mehreren Kursen aus einem Kurskatalog eingeschrieben
 
-Eine Eins-zu-viele-Struktur verwendet ein einzelnes Verknüpfungsfeld, um das benutzerdefinierte Objekt mit einer Person oder einer Firma zu verbinden.
+Eine Eins-zu-viele-Struktur verwendet ein einzelnes Verknüpfungsfeld, um das benutzerdefinierte Objekt mit einer Person oder einem Unternehmen zu verbinden.
 
-Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, die Teil eines Zwischenobjekts sind. Ein Feld &quot;Link&quot;ist mit der Person oder Firma verbunden und ein anderes mit dem benutzerdefinierten Objekt, z. B. dem Kurskatalog. Dieses intermediäre Objekt kann zusätzliche benutzerdefinierte Felder enthalten, z. B. eine Kursstufe oder ein Anwesenheitsdatum, die die Art der Verbindung weiter definieren.
+Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, die Teil eines Zwischen-Objekts sind. Ein Feld Link ist mit der Person oder Firma verbunden und ein anderes mit dem benutzerdefinierten Objekt, z. B. dem Kurskatalog. Dieses zwischengeschaltete Objekt kann zusätzliche benutzerdefinierte Felder enthalten, wie z. B. eine Kursstufe oder ein Anwesenheitsdatum, die die Art der Verbindung weiter definieren.
 
 >[!TIP]
 >
->Importieren Sie benutzerdefinierte Objekte mit kommagetrennten Werten (CSV) in der Benutzeroberfläche, um ein Datenmuster zu testen und zu validieren. Laden Sie dann alle Dateien mit einer API hoch.
+>Importieren Sie benutzerdefinierte Objekte mit kommagetrennten Werten (CSV) in die Benutzeroberfläche, um ein Datenbeispiel zu testen und zu validieren. Laden Sie dann alle Ihre Dateien mit einer API hoch.
 
 >[!CAUTION]
 >
->Sie können benutzerdefinierte Objekte nicht wiederherstellen. Daher müssen Sie sie vor dem Löschen nicht mehr benötigen.
+>Benutzerdefinierte Objekte können nicht wiederhergestellt werden. Stellen Sie daher sicher, dass Sie sie nicht mehr benötigen, bevor Sie sie löschen.
 
 ## Zugriff auf benutzerdefinierte Marketo-Objekte {#accessing-marketo-custom-objects}
 
-1. Um benutzerdefinierte Marketo-Objekte zu erstellen oder zu bearbeiten, klicken Sie auf **Admin** und dann auf den Link **Marketo Benutzerdefinierte Objekte**.
+1. Um benutzerdefinierte Marketo-Objekte zu erstellen oder zu bearbeiten, klicken Sie auf **Admin** und dann **Benutzerdefinierte Marketo-Objekte** Link.
 
-   ![](assets/image2016-5-18-16-3a59-3a30.png)
+   ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Die benutzerdefinierten Marketo-Objekte zeigen Listen für alle benutzerdefinierten Objekte auf der rechten Seite an, jedoch nur für die genehmigten Objekte im Hauptraster.
+1. Die Anzeige Benutzerdefinierte Marketo-Objekte listet alle Ihre benutzerdefinierten Objekte auf der rechten Seite auf, jedoch nur die genehmigten Objekte im Hauptraster.
 
-   ![](assets/image2016-6-10-15-3a14-3a18.png)
+   ![](assets/understanding-marketo-custom-objects-2.png)
 
 1. Das Raster zeigt den Objektnamen, die Anzahl der Datensätze, die Anzahl der Felder und das Datum der letzten Aktualisierung an.
 
    >[!TIP]
    >
-   >Marketo aktualisiert diese Felder automatisch, aber Sie können die Anzeige aktualisieren, indem Sie auf das Symbol in der Spalte &quot;Datensätze&quot;klicken.
+   >Marketo aktualisiert diese Felder automatisch, Sie können die Anzeige jedoch aktualisieren, indem Sie auf das Symbol in der Spalte Datensätze klicken.
 
-1. Klicken Sie auf den Objektnamen auf der rechten Seite, um die Detailseite zu öffnen.
+1. Klicken Sie rechts auf den Objektnamen, um die Detailseite zu öffnen.
 
-   ![](assets/image2016-6-10-15-3a15-3a29.png)
+   ![](assets/understanding-marketo-custom-objects-3.png)
 
-## Benutzerdefinierte Objekte der Ansicht, die einer Person {#view-custom-objects-associated-to-a-person} zugeordnet sind
+## Anzeigen benutzerdefinierter Objekte, die einer Person zugeordnet sind {#view-custom-objects-associated-to-a-person}
 
-Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen Objektdaten mithilfe des Linkfelds im benutzerdefinierten Objekt automatisch mit den Personen in der Datenbank verknüpft. Informationen zur Ansicht können Sie auf der Seite mit den Personendetails auf der Registerkarte &quot;Benutzerspezifische Objekte&quot;finden.
+Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen Objektdaten mithilfe des Linkfelds im benutzerdefinierten Objekt automatisch mit Personen in der Datenbank verknüpft. Sie können Informationen auf der Registerkarte &quot;Benutzerdefinierte Objekte&quot;auf der Seite mit den Personendetails anzeigen.
 
-1. Gehen Sie zu **Datenbank**.
+1. Navigieren Sie zu **Datenbank**.
 
-   ![](assets/db.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
-1. Öffnen Sie die Datenbank und klicken Sie auf die Registerkarte **Personen**. Klicken Sie bei gedrückter Dublette auf den Datensatz für eine Person, die Sie einem benutzerdefinierten Objekt zugeordnet haben.
+1. Öffnen Sie Ihre Datenbank und klicken Sie auf **Personen** Registerkarte. Doppelklicken Sie auf den Datensatz für eine Person, die Sie mit einem benutzerdefinierten Objekt verknüpft haben.
 
-   ![](assets/five.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Klicken Sie auf der Seite mit den Personendetails auf die Registerkarte **Benutzerspezifische Objekte**. Wählen Sie das Objekt aus der Dropdownliste aus.
+1. Klicken Sie auf der Personendetailseite auf die **Benutzerdefinierte Objekte** Registerkarte. Wählen Sie das Objekt aus der Dropdown-Liste aus.
 
-   ![](assets/six.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Jetzt können Sie eine Liste aller benutzerspezifischen Objekte dieses Typs, die mit dieser Person verbunden sind, Ansicht vornehmen.
+1. Jetzt können Sie eine Liste aller benutzerdefinierten Objekte dieses Typs anzeigen, die mit dieser Person verbunden sind.
 
-   ![](assets/seven.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
-## Verwenden benutzerdefinierter Objekte mit Firmen {#using-custom-objects-with-companies}
+## Verwenden benutzerdefinierter Objekte für Unternehmen {#using-custom-objects-with-companies}
 
-Ein benutzerdefiniertes Objekt, das mit der Firma verknüpft ist, funktioniert am besten, wenn Sie Firmen aus dem CRM-System synchronisieren oder explizit Firmen mit der API erstellen. Es wird außerdem empfohlen, die Firmen-ID als Linkfeld zu verwenden.
+Ein benutzerdefiniertes Objekt, das mit dem Unternehmen verknüpft ist, funktioniert am besten, wenn Sie Unternehmen aus dem CRM-System synchronisieren oder Unternehmen explizit mithilfe der API erstellen. Es wird außerdem empfohlen, die Firmen-ID als Linkfeld zu verwenden.
 
-Wenn Sie mehrere Personen in Marketo haben, die Datensätze in CRM- oder Marketo-Nur-Datensätzen enthalten, wird ein benutzerdefiniertes Objekt, das mit einer Firma verknüpft ist, nicht mehr als einem einzelnen Datensatz zugeordnet. Dies liegt daran, dass eine Firma, die mehrere Personen darunter hat, nur dann unterstützt wird, wenn Firmen aus dem CRM synchronisiert werden oder wenn Sie eine API verwenden, um explizit Firmen zu erstellen.
+Wenn Sie in Marketo mehrere Personen haben, die Datensätze im CRM-System oder nur in Marketo enthalten sind, wird ein benutzerdefiniertes Objekt, das mit einem Unternehmen verknüpft ist, nicht mehr als einem Datensatz zugeordnet. Dies liegt daran, dass ein Unternehmen mit mehreren Personen darunter nur unterstützt wird, wenn Unternehmen aus dem CRM-System synchronisiert werden oder wenn Sie eine API verwenden, um explizit Unternehmen zu erstellen.
 
-Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp durch ein Feld &quot;Firma&quot;verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendaten entweder einer Firma zugeordnet werden, indem Sie die Kontaktkonversion in Ihrem CRM verwenden oder das Feld externalCompanyId verwenden, wenn Sie Firmen mit den REST-APIs von Marketo verwalten. Bei Personendatensätzen, die nicht explizit mit Firmen verknüpft sind, werden mit Firma verknüpfte benutzerdefinierte Objekte zufällig mit einem einzigen Datensatz verknüpft, selbst wenn der Wert des Felds &quot;Firma&quot;für viele Personen freigegeben wird.
+Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp nach Unternehmensfeld verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendatensätze entweder mit einer Kontaktkonversion in Ihrem CRM-System oder mit dem Feld externalCompanyId verknüpft sind, wenn Sie Unternehmen verwalten, die die REST-APIs von Marketo verwenden. Für Personendatensätze, die nicht explizit mit Firmendatensätzen verknüpft sind, werden benutzerdefinierte Objekte, die mit &quot;company&quot;verknüpft sind, zufällig mit einem einzigen Datensatz verknüpft, selbst wenn der Wert des Unternehmensfelds für viele Personen freigegeben ist.
 
-Weitere Informationen finden Sie unter [Benutzerspezifische Objektdaten importieren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md).
+Siehe [Benutzerdefinierte Objektdaten importieren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) für weitere Informationen.
 
 >[!MORELIKETHIS]
 >
->* [Benutzerdefinierte Marketo-Objekte erstellen](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
->* [Benutzerdefiniertes Objekt genehmigen](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Erstellen benutzerdefinierter Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Genehmigen eines benutzerdefinierten Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
 >* [Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Benutzerdefinierte Objektfelder Hinzufügen Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Benutzerdefinierte Marketo-Objektfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Benutzerdefinierte Objektdaten importieren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
