@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketo-Dokumente - Produktdokumentation
 title: Marketo-Glossar
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -23,7 +23,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B-Tests</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B-Tests</a></strong></td>
    <td colspan="1">Dient der Änderung von Komponenten Ihrer E-Mail (z. B. Betreffzeile, Adresszeile etc.) und legen Testkriterien fest, um festzustellen, welche Inhaltspakete besser sind.</td> 
   </tr> 
   <tr> 

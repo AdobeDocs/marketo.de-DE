@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: Klassisches Symbol-Glossar - Marketo Docs - Produktdokumentation
 title: Glossar zu klassischen Symbolen
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 33%
+source-wordcount: '564'
+ht-degree: 34%
 
 ---
 
 # Glossar zu klassischen Symbolen {#classic-icon-glossary}
 
-Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md) gefunden werden.
+Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier finden](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Allgemeine Symbole**
 
@@ -66,7 +66,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Zielordner, der über einen anderen Arbeitsbereich freigegeben wurde <br> (Vorhängeschloss zeigt an, dass keine Änderungen vorgenommen werden können)</td> 
+   <td colspan="1">Zielordner, der in einem anderen Arbeitsbereich freigegeben wurde <br>(Vorhängeschloss bedeutet, dass keine Änderungen vorgenommen werden können)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +410,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>E-Mail-Programm <br>(Rote Markierung unten = E-Mail wurde noch nicht gesendet)</td> 
+   <td>Email Program <br>(Rotes Flag nach unten = E-Mail wurde noch nicht gesendet)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -722,7 +722,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>In Facebook veröffentlichen</td> 
+   <td>Auf Facebook veröffentlichen</td> 
   </tr> 
   <tr> 
    <td> 
