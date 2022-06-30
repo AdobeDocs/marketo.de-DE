@@ -1,13 +1,12 @@
 ---
 unique-page-id: 2359424
-description: Warnung des Vertriebsmitarbeiters - Marketo Docs - Produktdokumentation
+description: Warnhinweis an den Vertriebsmitarbeiter - Marketo-Dokumente - Produktdokumentation
 title: Vertriebsmitarbeiter benachrichtigen
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,31 +14,31 @@ ht-degree: 7%
 
 ## Auftrag: Warnen Sie den Vertriebsmitarbeiter, wenn eine Person ein Formular auf Ihrer Website ausfüllt. {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie lediglich eine Warn-E-Mail und eine E-Mail-Kampagne. Hier ist, wie man das macht.
+Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie lediglich eine Warn-E-Mail und eine E-Mail-Kampagne. Hier ist, wie man das macht.
 
 >[!PREREQUISITES]
 >
->[Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
-## Schritt 1: Warnungs-E-Mail {#step-create-an-alert-email} erstellen
+## Schritt 1: Erstellen einer Warnhinweis-E-Mail {#step-create-an-alert-email}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/one-5.png)
 
-1. Wählen Sie **Mein Programm**, das Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win erstellt haben, und klicken Sie dann unter **Neu** auf **Neues lokales Element**.
+1. Auswählen **Mein Programm** , die Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} schneller Sieg, dann unter **Neu** click **Neues lokales Asset**.
 
    ![](assets/two-6.png)
 
-1. Klicken Sie auf **E-Mail**.
+1. Klicken **Email**.
 
    ![](assets/three-5.png)
 
-1. **Benennen Sie** die E-Mail &quot;Meine E-Mail-Warnung&quot;, wählen Sie eine Vorlage und klicken Sie auf  **Erstellen**.
+1. **Name** die E-Mail &quot;Meine E-Mail-Warnung&quot;, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
 
    ![](assets/four-4.png)
 
-1. Geben Sie die **Aus Name**, **Aus E-Mail**, **Antwort auf** und **Betreff** ein, die Ihr Verkaufsteam sehen soll.
+1. Geben Sie die **Aus Name**, **Aus E-Mail**, **Antwort** und **Betreff** die Sie von Ihrem Verkaufsteam sehen wollen.
 
    ![](assets/five-5.png)
 
@@ -51,41 +50,41 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/seven-6.png)
 
-1. Platzieren Sie den Cursor an der Stelle, an der Sie die Kontaktinformationen der Person einfügen möchten, und klicken Sie auf das Symbol **Token einfügen**.
+1. Platzieren Sie den Cursor an die Stelle, an der Sie die Kontaktinformationen der Person einfügen möchten, und klicken Sie auf die **Token einfügen** Symbol.
 
    ![](assets/eight-4.png)
 
-1. Suchen Sie nach dem `{{SP_Send_Alert_Info}}` **Token** und klicken Sie auf **Einfügen**.
+1. Suchen und Auswählen `{{SP_Send_Alert_Info}}` **Token** und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warn-E-Mails. Weitere Informationen finden Sie unter [Verwenden Sie das Token für Warnhinweisinformationen senden](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md).
+   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warnhinweis-E-Mails. Siehe [Verwenden des Tokens &quot;Send Alert Info&quot;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;}, um mehr zu erfahren.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/ten-5.png)
 
-1. Schließen Sie die Registerkarte/das Fenster des E-Mail-Editors.
+1. Schließen Sie den Tab/Fenster des E-Mail-Editors.
 
    ![](assets/eleven-5.png)
 
-1. Klicken Sie unter **E-Mail-Aktionen** auf **Genehmigen**.
+1. under **E-Mail-Aktionen** click **Genehmigen**.
 
    ![](assets/twelve-4.png)
 
-## Schritt 2: Kampagne für Warnungsordner {#step-create-an-alert-trigger-campaign} erstellen
+## Schritt 2: Erstellen einer Warnhinweis-Trigger-Kampagne {#step-create-an-alert-trigger-campaign}
 
-1. Wählen Sie **Mein Programm**, das zuvor erstellt wurde, und klicken Sie dann unter **Neu** auf **Neue Smart-Kampagne**.
+1. Auswählen **Mein Programm** zuvor erstellt, dann unter **Neu** click **Neue intelligente Kampagne**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **Benennen Sie** die Kampagne &quot;Meine Kampagne für Warnung&quot;und klicken Sie auf  **Erstellen**.
+1. **Name** die Kampagne &quot;Meine Warnungskampagne&quot;und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Suchen Sie unter der Registerkarte **Intelligente Liste** den Trigger **Ausfüllen des Formulars** und ziehen Sie ihn auf die Arbeitsfläche.
+1. Unter dem **Smart List** Registerkarte, suchen und ziehen Sie die **Formular ausfüllen** Trigger zur Arbeitsfläche.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,54 +92,54 @@ Um Warnungen automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie ledig
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Suchen Sie unter der Registerkarte **Fluss** die Fließaktion **Warnung senden** und ziehen Sie sie auf die Arbeitsfläche.
+1. Unter dem **Fluss** Registerkarte, suchen und ziehen Sie die **Warnhinweis senden** Flussaktion zur Arbeitsfläche.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Wählen Sie **Meine Benachrichtigungs-E-Mail**, die zuvor erstellt wurde, und lassen Sie **Senden an** als **Sales Owner** stehen.
+1. Auswählen **Meine Benachrichtigungs-E-Mail** zuvor erstellt und verlassen **Senden an** as **Vertriebsmitarbeiter**.
 
    ![](assets/eighteen-1.png)
 
-1. Geben Sie Ihre E-Mail-Adresse in das Feld **An andere E-Mails** ein.
+1. Geben Sie Ihre E-Mail-Adresse in das Feld **zu anderen E-Mails** -Feld.
 
    ![](assets/nineteen-2.png)
 
-1. Wechseln Sie zur Registerkarte **Plan** und klicken Sie auf die Schaltfläche **Aktivieren**.
+1. Navigieren Sie zu **Zeitplan** und klicken Sie auf **Aktivieren** Schaltfläche.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Stellen Sie die **Qualifizierungsregeln** auf **jedes Mal** ein (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person mehrmals Trigger-Warnungen ausführen kann.
+   >Legen Sie die **Qualifikationsregeln** nach **jedes Mal** (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person Warnhinweise mehrmals Trigger.
 
-1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren**.
+1. Klicken **Aktivieren** auf dem Bestätigungsbildschirm.
 
    ![](assets/twenty-one-1.png)
 
 ## Schritt 3: Testen Sie es! {#step-test-it-out}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Ansicht Genehmigte Seite**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Genehmigte Seite anzeigen**.
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, Landingpages zu genehmigen; sie gehen erst nach Genehmigung live.
+   >Vergessen Sie nicht, Landingpages zu genehmigen. sie gehen erst live, wenn sie genehmigt wurden.
 
-1. Füllen Sie das Formular aus und klicken Sie auf **Senden**.
+1. Füllen Sie das Formular aus und klicken Sie auf **Einsenden**.
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
-1. Sie sollten Ihre E-Mail in Kürze erhalten. Nachdem Sie überprüft haben, ob alles ordnungsgemäß funktioniert, entfernen Sie Ihre E-Mail-Adresse aus dem Fluss Warnung senden (siehe Schritt 2.7 oben).
+1. Sie sollten Ihre E-Mail in Kürze erhalten. Nachdem Sie überprüft haben, ob alles wie gewünscht funktioniert, entfernen Sie Ihre E-Mail-Adresse aus dem Fluss Warnhinweis senden (siehe Schritt 2.7 oben).
 
    >[!NOTE]
    >
-   >Klicken Sie in Marketo auf die Registerkarte **Personeninfo**, um die Kontaktinformationen anzuzeigen.
+   >Klicken Sie auf **Personeninformationen** in Marketo, um die Kontaktinformationen anzuzeigen.
 
 ## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 
-[◄ Aufgabe 7: E-Mail personalisieren](personalize-an-email.md)
+[◄ Aufgabe 7: E-Mail personalisieren](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Aufgabe 9: Lead-Datenwerte aktualisieren ►](update-person-data.md)
+[Auftrag 9: Persönliche Daten aktualisieren ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

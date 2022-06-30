@@ -3,16 +3,16 @@ unique-page-id: 2949467
 description: Was ist Adobe Marketo Engage? - Marketo-Dokumente - Produktdokumentation
 title: Was ist Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 9%
 
 ---
 
 # Was ist Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage (manchmal auch als Marketo Engage oder sogar nur Marketo bezeichnet) ist Marketingautomatisierungssoftware. Mit der Marketing-Automatisierung können Sie Marketing-Aufgaben und -Workflows optimieren, automatisieren und messen, sodass Sie die betriebliche Effizienz steigern und Umsätze schneller steigern können.
+Adobe Marketo Engage (manchmal auch als Marketo Engage oder sogar nur Marketo bezeichnet) ist eine Software zur Marketing-Automatisierung. Mit der Marketing-Automatisierung können Sie Marketing-Aufgaben und -Workflows optimieren, automatisieren und messen, sodass Sie die betriebliche Effizienz steigern und Umsätze schneller steigern können.
 
 ## Was kann ich im Marketo Engage tun? {#what-can-i-do-in-marketo-engage}
 
@@ -43,10 +43,10 @@ Du nicht! Es ist einfach, in Marketo Engage zu beginnen und wird sich mit Ihnen 
 
 ## Muss ich irgendwelche Einstellungen vornehmen? {#do-i-need-to-do-any-setup}
 
-Ja, wir haben eine [Checkliste der Dinge erstellt, die zu erledigen sind](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Ja, wir haben eine [Checkliste der zu erledigenden Aufgaben](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}.
 
 ## Muss ich warten, bis die Einrichtung abgeschlossen ist, um zu lernen? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nein! Wir haben ein paar einfache Tutorials gemacht. [Fangen Sie hier](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md) an. Sie sollten etwa eine Stunde dauern. Du kannst jederzeit anfangen.
+Nein! Wir haben ein paar einfache Tutorials gemacht. [Erste Schritte hier](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. Sie sollten etwa eine Stunde dauern. Du kannst jederzeit anfangen.
 
 Willkommen bei Marketo Engage! Wir freuen uns, dass du hier bist.

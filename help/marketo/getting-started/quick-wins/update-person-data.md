@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359426
-description: Personendaten aktualisieren - Marketo Docs - Produktdokumentation
+description: Persönliche Daten aktualisieren - Marketo-Dokumente - Produktdokumentation
 title: Personendaten aktualisieren
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Personendaten aktualisieren {#update-person-data}
 
-## Auftrag: Aktualisieren Sie die Kontaktinformationen oder andere Daten einer Person {#mission-update-a-persons-contact-info-or-other-data}
+## Auftrag: Aktualisieren der Kontaktinformationen einer Person oder anderer Daten {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
-Stellen wir uns vor, dass eine Person Ihnen auf Ihrer letzten Fachmesse zusätzliche Kontaktinformationen gegeben hat. So aktualisieren Sie Personendaten.
+Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusätzliche Kontaktinformationen gegeben hat. So aktualisieren Sie Personendaten:
 
 ## Suchen Sie die Person, die Sie aktualisieren müssen {#find-the-person-you-need-to-update}
 
-1. Wechseln Sie zu Ihrer Datenbank.
+1. Rufen Sie Ihre Datenbank auf.
 
    ![](assets/db-3.png)
 
@@ -37,27 +36,27 @@ Stellen wir uns vor, dass eine Person Ihnen auf Ihrer letzten Fachmesse zusätzl
 
    ![](assets/two-rubiks.png)
 
-1. Klicken Sie mit der Dublette, um die Personendetails zu öffnen.
+1. Doppelklicken Sie auf , um die Personendetails zu öffnen.
 
    ![](assets/three-rubiks.png)
 
    >[!TIP]
    >
-   >Es gibt viele Möglichkeiten, personenbezogene Daten in Marketo zu aktualisieren. Siehe [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) und [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} und [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
 
-## Personendaten {#update-the-person-data} aktualisieren
+## Personendaten aktualisieren {#update-the-person-data}
 
-1. Geben Sie die neu erhaltenen Informationen ein und schließen Sie dann die Registerkarte.
+1. Geben Sie die neuen Informationen ein, die Sie erhalten haben, und schließen Sie dann die Registerkarte .
 
 ![](assets/four-rubiks.png)
 
 >[!NOTE]
 >
->Sobald Sie die Daten ändern, werden die neuen Informationen von Smart-Listen und Smart-Kampagnen sofort erkannt.
+>Sobald Sie die Daten geändert haben, erkennen Smart-Listen und Smart-Kampagnen die neuen Informationen sofort.
 
 ## Aufgabe abgeschlossen {#mission-complete}
 
-Gute Arbeit! Sie haben Ihre personenbezogenen Daten aktualisiert.
+Gut gemacht! Sie haben Ihre Personendaten aktualisiert.
 
 <br> 
 

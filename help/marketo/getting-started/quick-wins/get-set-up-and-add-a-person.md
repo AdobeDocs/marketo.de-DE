@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Einrichten und Hinzufügen einer Person - Marketo Docs - Produktdokumentation
 title: Einrichten und Hinzufügen einer Person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 16%
 
 ---
@@ -16,7 +16,7 @@ Es gibt ein paar Dinge zu tun, bevor Sie mit den Missionen beginnen.
 
 ## Schritt 1: Bei Marketo anmelden {#step-log-in-to-marketo}
 
-1. [Bei Marketo anmelden](https://app.marketo.com) die Anmeldedaten verwenden, die Sie per E-Mail erhalten haben.
+1. [Bei Marketo anmelden](https://app.marketo.com){target=&quot;_blank&quot;} mit den E-Mail-Zugangsdaten, die Sie erhalten haben.
 
    ![](assets/one.png)
 

@@ -1,65 +1,64 @@
 ---
 unique-page-id: 2359420
-description: Tropfen, Tropfen, Krankenpflege - Marketo Docs - Produktdokumentation
+description: Drip, Drip, Nurture - Marketo Docs - Produktdokumentation
 title: Schrittweises Lead-Nurturing
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 6%
+source-wordcount: '463'
+ht-degree: 5%
 
 ---
 
 # Schrittweises Lead-Nurturing {#drip-drip-nurture}
 
-## Auftrag: Die Personen, die Ihre letzte Messe besucht haben, mit der Hilfe versorgen{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Auftrag: Die Menschen, die an Ihrer aktuellen Messe teilgenommen haben, fördern {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
-Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Marketo erstellen. So!
+Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in Marketo erstellen. So!
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Eine Liste von Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
-## Schritt 1: Programm für Interaktion {#step-create-an-engagement-program} erstellen
+## Schritt 1: Erstellen eines Interaktionsprogramms {#step-create-an-engagement-program}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/one-3.png)
 
-1. Wählen Sie den Ordner **Lernen**, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues Programm**.
+1. Wählen Sie die **Lernen** Ordner, klicken Sie auf **Neu** und wählen Sie **Neues Programm**.
 
    ![](assets/two-4.png)
 
-1. Geben Sie einen **Name** ein und wählen Sie **Einsatz** für den **Programm-Typ**.
+1. Geben Sie einen **Name** und wählen Sie **Interaktion** für **Programmtyp**.
 
    ![](assets/three-3.png)
 
-1. Vergewissern Sie sich, dass das Feld **Kanal** **Struktur** lautet, und klicken Sie auf **Erstellen**.
+1. Stellen Sie sicher, dass **Kanal** Feld ist **Krankenpflege** und klicken Sie auf **Erstellen**.
 
    ![](assets/four-2.png)
 
-   Sie haben jetzt ein Interaktions-Programm erstellt.
+   Sie haben jetzt ein Interaktionsprogramm erstellt.
 
 ## Schritt 2: E-Mail erstellen {#step-create-an-email}
 
-1. Wählen Sie Ihr Interaktions-Programm aus, klicken Sie dann auf **Neu** und wählen Sie **Neues lokales Element**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
 
    ![](assets/five-3.png)
 
-1. Klicken Sie auf **E-Mail**.
+1. Klicken **Email**.
 
    ![](assets/six-3.png)
 
-1. Geben Sie einen **Namen** ein, wählen Sie die **Vorlage** aus, die Sie verwenden möchten, und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name**, wählen Sie die **Vorlage** Sie verwenden möchten, und klicken Sie auf **Erstellen**.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >Sehen Sie nicht den E-Mail-Editor? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf **Entwurf bearbeiten**.
+   >Siehst du den E-Mail-Editor nicht? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Popups aktivieren von `app.marketo.com` in Ihrem Browser und klicken Sie auf **Entwurf bearbeiten** in der oberen Menüleiste.
 
 1. Geben Sie einen Betreff ein.
 
@@ -73,53 +72,53 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    ![](assets/ten-3.png)
 
-1. Schließen Sie die Registerkarte/das Fenster des E-Mail-Editors.
+1. Schließen Sie den Tab/Fenster des E-Mail-Editors.
 
    ![](assets/eleven-3.png)
 
-1. Klicken Sie unter **E-Mail-Aktionen** auf **Genehmigen**.
+1. under **E-Mail-Aktionen** klicken **Genehmigen**.
 
    ![](assets/twelve-2.png)
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, Ihre E-Mails zu genehmigen, oder Sie können sie später nicht aktivieren.
+   >Vergessen Sie nicht, Ihre E-Mails zu validieren, oder Sie können sie später nicht aktivieren.
 
-1. Erstellen Sie jetzt eine weitere E-Mail, indem Sie die Schritte 2 wiederholen.
+1. Erstellen Sie nun eine weitere E-Mail, indem Sie die Aktionen von Schritt 2 wiederholen.
 
    ![](assets/thirteen-2.png)
 
-## Schritt 3: hinzufügen von Inhalt in Ihren Stream {#step-add-content-to-your-stream}
+## Schritt 3: Inhalt zu Ihrem Stream hinzufügen {#step-add-content-to-your-stream}
 
-1. Jetzt ist es an der Zeit, einen Inhaltsstream für Ihr Interaktions-Programm mit den von Ihnen erstellten E-Mails zu erstellen.
+1. Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhaltsstream für Ihr Interaktionsprogramm zu erstellen.
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Schaltfläche **Streams** Registerkarte.
 
    ![](assets/fourteen-2.png)
 
-1. Ziehen Sie die beiden erstellten E-Mails auf die rechte Arbeitsfläche.
+1. Ziehen Sie die beiden von Ihnen erstellten E-Mails auf die rechte Arbeitsfläche.
 
    ![](assets/fifteen-2.png)
 
    >[!TIP]
    >
-   >Sie können auch die Schaltfläche **Hinzufügen Inhalt** oder das Symbol **für den Stream** verwenden.
+   >Sie können auch die **Inhalt hinzufügen** Schaltfläche oder Stream **+** Symbol.
 
 ## Schritt 4: Stream-Inhalt aktivieren {#step-activate-stream-content}
 
-1. Aktivieren Sie alle Inhalte auf einmal, indem Sie auf das Stream-Zahnradsymbol klicken und dann auf **Aktivieren Sie alle Inhalte**.
+1. Aktivieren Sie alle Inhalte gleichzeitig, indem Sie auf das Zahnradsymbol für den Stream klicken, und klicken Sie dann auf **Alle Inhalte aktivieren**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
    >[!NOTE]
    >
-   >Sie können Inhalte nicht aktivieren, ohne sie zuvor zu genehmigen.
+   >Sie können Inhalte nicht aktivieren, ohne sie zuvor genehmigt zu haben.
 
-   Tolle Arbeit! Ein weiterer Schritt und das Programm für die Interaktion ist fertig.
+   Tolle Arbeit! Ein weiterer Schritt und das Interaktionsprogramm ist fertig.
 
-## Schritt 5: Stream-Kadenz {#step-set-the-stream-cadence} festlegen
+## Schritt 5: Festlegen der Stream-Kadenz {#step-set-the-stream-cadence}
 
-1. Klicken Sie auf **Stream-Kadenz einstellen**.
+1. Klicken **Stream-Kadenz festlegen**.
 
    ![](assets/seventeen.png)
 
@@ -127,15 +126,15 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
-   Ihr Interaktions-Programm ist eingestellt. Fügen wir nun eine Testperson zu Ihrem Programm hinzu.
+   Ihr Interaktionsprogramm ist vollständig festgelegt. Fügen wir nun eine Testperson zu Ihrem Programm hinzu.
 
    >[!NOTE]
    >
-   >Die Testperson ist die Person, die Ihr Interaktions-Programm überprüft, um zu prüfen, ob es korrekt ist, bevor sie es an Kunden sendet.
+   >Die Testperson ist die Person, die Ihr Interaktionsprogramm auf seine Richtigkeit überprüft, bevor es an Kunden gesendet wird.
 
-## Schritt 6: hinzufügen einer Testperson für Ihr Programm für Interaktion {#step-add-a-test-person-to-your-engagement-program}
+## Schritt 6: Hinzufügen einer Testperson zu Ihrem Interaktionsprogramm {#step-add-a-test-person-to-your-engagement-program}
 
-1. Wechseln Sie zum Bereich **Datenbank**.
+1. Navigieren Sie zu **Datenbank** Bereich.
 
    ![](assets/nineteen-1.png)
 
@@ -145,26 +144,28 @@ Sie können einfach ein fortschrittliches und anspruchsvolles Pflegesystem in Ma
 
    >[!NOTE]
    >
-   >Vergewissern Sie sich, dass die Testperson über eine gültige E-Mail-Adresse verfügt, damit Sie den Empfang von E-Mails beim Testen bestätigen können.
+   >Stellen Sie sicher, dass die Testperson über eine gültige E-Mail-Adresse verfügt, damit Sie den Empfang von E-Mails beim Testen bestätigen können.
 
-1. Klicken Sie mit der rechten Maustaste auf die Person, klicken Sie dann auf Programm und Hinzufügen auf Interaktions-Programm.
+1. Klicken Sie mit der rechten Maustaste auf die Person und klicken Sie dann auf Programme und Add to Engagement Program (Zu Interaktionsprogramm hinzufügen).
 
    ![](assets/twenty-one.png)
 
-1. Wählen Sie Ihr **Programm** und **Stream** und klicken Sie dann auf **Jetzt ausführen**.
+1. Wählen Sie Ihre **Programm** und **Stream** Klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/twenty-two.png)
 
 1. Aufgabe abgeschlossen!
 
-1. Sie sollten eine E-Mail zu dem von Ihnen angegebenen Zeitpunkt und zu dem von Ihnen angegebenen Zeitpunkt erhalten.
+1. Sie sollten die E-Mail zum angegebenen Zeitpunkt und in der von Ihnen angegebenen Häufigkeit erhalten.
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über [Programm für Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >Weitere Informationen [Interaktionsmaßnahmen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}.
+
+## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 
-[◄ Aufgabe 5: Liste mit Leads importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Auftrag 5: Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 [Aufgabe 7: E-Mail personalisieren ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

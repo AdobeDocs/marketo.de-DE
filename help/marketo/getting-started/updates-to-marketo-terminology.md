@@ -1,27 +1,25 @@
 ---
 unique-page-id: 11387674
-description: Aktualisierungen der Marketo-Terminologie - Marketo Docs - Produktdokumentation
+description: Aktualisierungen der Marketo-Terminologie - Marketo-Dokumente - Produktdokumentation
 title: Aktualisierungen der Marketo-Terminologie
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
 # Aktualisierungen der Marketo-Terminologie {#updates-to-marketo-terminology}
 
-Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf das auswirken werden, was einige Dinge genannt werden. Wenn Sie seit März 2016 eine neue Marketo-Instanz haben oder Ihre Firma nach Juli 2016 erneuert wurde, wird die neue Terminologie möglicherweise jetzt angezeigt.
+Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf das auswirken werden, was einige Dinge heißen. Wenn Sie seit März 2016 eine neue Marketo-Instanz haben oder Ihr Unternehmen nach Juli 2016 erneuert wurde, wird Ihnen die neue Terminologie möglicherweise jetzt angezeigt.
 
-Obwohl Sie möglicherweise unterschiedliche Terminologie in der Marketo-Dokumentation sehen, sollten Sie darauf achten, dass alle Artikel bald aktualisiert werden, um diese Änderungen widerzuspiegeln. Alle Anweisungen sind gleich.
+Auch wenn Sie in der Marketo-Dokumentation möglicherweise unterschiedliche Terminologie sehen, können Sie sicher sein, dass alle Artikel bald aktualisiert werden, um diese Änderungen widerzuspiegeln. Alle Anweisungen sind identisch.
 
-Was hat sich also verändert?
+Was hat sich also geändert?
 
-## Interessent ist jetzt Person {#lead-is-now-person}
+## Lead ist jetzt Person {#lead-is-now-person}
 
-Die größte Veränderung ist die Umbenennung von Interessenten/Interessenten zu Personen/Personen.
+Die größte Änderung ist die Umbenennung von Lead/Leads zu Person/Personen.
 
 <table> 
  <colgroup> 
@@ -30,7 +28,7 @@ Die größte Veränderung ist die Umbenennung von Interessenten/Interessenten zu
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Alt</strong></td> 
+   <td><strong>Old</strong></td> 
    <td><strong>Neu</strong></td> 
   </tr> 
   <tr> 
@@ -46,7 +44,7 @@ Die größte Veränderung ist die Umbenennung von Interessenten/Interessenten zu
  </tbody> 
 </table>
 
-In einigen Fällen wird das Wort &quot;Blei&quot;einfach entfernt.
+In einigen Fällen wird das Wort &quot;Lead&quot;einfach entfernt.
 
 <table> 
  <colgroup> 
@@ -55,7 +53,7 @@ In einigen Fällen wird das Wort &quot;Blei&quot;einfach entfernt.
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Alt</strong></td> 
+   <td><strong>Old</strong></td> 
    <td><strong>Neu</strong></td> 
   </tr> 
   <tr> 
@@ -71,19 +69,19 @@ In einigen Fällen wird das Wort &quot;Blei&quot;einfach entfernt.
  </tbody> 
 </table>
 
-Lead und Person **sind dasselbe**.
+Lead und Person **das gleiche**.
 
 ## Token {#tokens}
 
-Token mit dem Wort Interessent in ihnen **ändern sich nicht.** Wir entschuldigen uns für jede Verwirrung. Wenn Sie jedoch alle Token an die neue Terminologie anpassen, werden viele Token, die derzeit verwendet werden, beschädigt. Sie sehen also immer noch Token wie &quot;`{{lead.First Name}}`&quot;. Es gibt keine personenspezifischen Token.
+Token mit dem Wort Lead **nicht ändern**. Wir entschuldigen uns für jede Verwirrung. Wenn Sie jedoch alle Token so ändern, dass sie der neuen Terminologie entsprechen, würde dies viele der derzeit verwendeten Token beschädigen. Daher werden weiterhin Token wie &quot;`{{lead.First Name}}`.&quot; Es gibt keine personenspezifischen Token.
 
 >[!NOTE]
 >
->Es gibt *ein Token mit dem Namen &quot;Personenkarten&quot;, das Token war jedoch immer vorhanden.* Es wird normalerweise für ein Beschreibungsfeld in Ihrem CRM-System verwendet, wenn überhaupt.
+>Dort *is* Ein Token namens &quot;Personnotes&quot;, aber dieses Token war immer vorhanden. Sie wird normalerweise für ein Beschreibungsfeld in Ihrem CRM-System verwendet, wenn überhaupt.
 
 ## Feldverwaltung {#field-management}
 
-Felder, die den Begriff Interessent enthielten, wurden entweder durch Person ersetzt oder das Wort Interessent wurde entfernt. Eine bemerkenswerte Ausnahme bildet jedoch das Feld &quot;Lead Owner&quot;. Es wird jetzt als &quot;Sales Owner&quot;bezeichnet.
+Felder, die den Begriff &quot;Lead&quot;enthielten, wurden entweder durch &quot;Person&quot;ersetzt oder das Wort &quot;Lead&quot;wurde entfernt. Eine wichtige Ausnahme bildet jedoch das Feld &quot;Lead Owner&quot;. Es wird jetzt als &quot;Vertriebsmitarbeiter&quot;bezeichnet.
 
 <table> 
  <colgroup> 
@@ -92,7 +90,7 @@ Felder, die den Begriff Interessent enthielten, wurden entweder durch Person ers
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Alt</strong></td> 
+   <td><strong>Old</strong></td> 
    <td><strong>Neu</strong></td> 
   </tr> 
   <tr> 
@@ -110,7 +108,7 @@ Felder, die den Begriff Interessent enthielten, wurden entweder durch Person ers
 
 >[!NOTE]
 >
->Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
 
 ## Echtzeit-Personalisierung (RTP) ist jetzt Web-Personalisierung {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -121,7 +119,7 @@ Felder, die den Begriff Interessent enthielten, wurden entweder durch Person ers
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Alt</strong></td> 
+   <td><strong>Old</strong></td> 
    <td><strong>Neu</strong></td> 
   </tr> 
   <tr> 
@@ -137,16 +135,16 @@ Felder, die den Begriff Interessent enthielten, wurden entweder durch Person ers
  </tbody> 
 </table>
 
-Zusätzlich zur Namensänderung besteht die App jetzt aus vier separaten Apps:
+Zusätzlich zur Namensänderung besteht sie jetzt aus vier separaten Apps:
 
-| ** [Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Hat eine eigene Kachel auf dem Startbildschirm |
 |---|---|
-| ** [Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Verfügbar über Web-Personalisierungskachel |
-| ** [Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Verfügbar über Web-Personalisierungskachel |
-| ** [Predictive Content](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Zugriff über die Kachel Web-Personalisierung |
+| **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Zugriff über die Kachel Web-Personalisierung |
+| **[Prädiktive Inhalte](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Hat eine eigene Kachel auf dem Startbildschirm |
 
 >[!NOTE]
 >
->Die auf Ihrem Startbildschirm angezeigten Kacheln spiegeln die erworbenen Module wider.
+>Die auf Ihrem Startbildschirm sichtbaren Kacheln spiegeln die gekauften Module wider.
 
 Vielen Dank für Ihre Geduld während dieser Aktualisierung.

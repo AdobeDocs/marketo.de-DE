@@ -1,93 +1,92 @@
 ---
 unique-page-id: 2359412
-description: Landingpage mit einem Formular - Marketo Docs - Produktdokumentation
+description: Landingpage mit einem Formular - Marketo-Dokumente - Produktdokumentation
 title: Landing Page mit Formular
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 4%
+source-wordcount: '544'
+ht-degree: 5%
 
 ---
 
 # Landing Page mit Formular {#landing-page-with-a-form}
 
-## Auftrag: Erstellen Sie eine Landingpage mit einem Formular, um neue Personen zu akquirieren. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## Auftrag: Erstellen Sie eine Landingpage mit einem Formular, um neue Personen zu gewinnen. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
 >[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## SCHRITT 1: Programm {#step-create-a-program} erstellen
+## SCHRITT 1: Programm erstellen {#step-create-a-program}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/ma.png)
 
-1. Wählen Sie den Ordner **Lernen**, der im Ordner [previous quick win](/help/marketo/getting-started/quick-wins/send-an-email.md) erstellt wurde.
+1. Wählen Sie die **Lernen** Ordner, der in der [vorheriger Schnellsieg](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
-1. Klicken Sie unter **Neu** auf **Neues Programm**.
+1. under **Neu** klicken **Neues Programm**.
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Geben Sie ein Programm **Name** ein, wählen Sie einen **Kanal** und klicken Sie auf **Erstellen**.
+1. Programm eingeben **Name**, wählen Sie eine **Kanal** und klicken Sie auf **Erstellen**.
 
    >[!NOTE]
    >
-   >Fügen Sie Ihre Initialen am Ende des Programm-Namens ein, um sie eindeutig zu machen.
+   >Fügen Sie Ihre Initialen am Ende des Programmnamens ein, um sie eindeutig zu machen.
 
    ![](assets/image2014-9-8-17-3a46-3a28.png)
 
    >[!NOTE]
    >
-   >Ein Programm ist eine spezifische Marketinginitiative. Der **Kanal** ist als Versand gedacht, z. B. Webinar, Sponsoring oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, sehen Sie in Ihrer Dropdown-Liste möglicherweise unterschiedliche Kanal. Sie können auch [Ihren eigenen Kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) erstellen.
+   >Ein Programm ist eine spezifische Marketinginitiative. Die **channel** ist als Bereitstellungsmechanismus gedacht, z. B. Webinar, Sponsoring oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, können in der Dropdown-Liste verschiedene Kanaloptionen angezeigt werden. Sie können auch [Erstellen eines eigenen Kanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
-Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfahren und Inhalte erstellen.
+Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und erstellen etwas Inhalt.
 
-## SCHRITT 2: Formular {#step-create-a-form} erstellen
+## SCHRITT 2: Erstellen eines Formulars {#step-create-a-form}
 
-1. Wählen Sie Ihr Programm aus und klicken Sie auf **Neu** und dann **Neues lokales Element**.
+1. Klicken Sie bei ausgewähltem Programm auf **Neu** then **Neues lokales Asset**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
-1. Wählen Sie **Formular**.
+1. Auswählen **Formular**.
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Geben Sie ein Formular **Name** ein und klicken Sie auf **Erstellen**.
+1. Formular eingeben **Name** und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Vergewissern Sie sich, dass das Feld **Im Editor öffnen** markiert ist. Ist dies nicht der Fall, müssen Sie auf die Registerkarte **Formular bearbeiten** klicken.
+   >Stellen Sie sicher, dass **Im Editor öffnen** aktiviert ist. Ist dies nicht der Fall, müssen Sie auf die **Formular bearbeiten** Registerkarte.
 
    >[!TIP]
    >
-   >Sehen Sie nicht den Formulareditor? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Aktivieren Sie Popups von [app.marketo.com](https://app.marketo.com/) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf bearbeiten.
+   >Siehst du den Formular-Editor nicht? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Popups aktivieren von [app.marketo.com](https://app.marketo.com/) in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf bearbeiten .
 
-1. Wählen Sie das Feld **E-Mail-Adresse** und aktivieren Sie **Ist erforderlich**.
+1. Wählen Sie die **Email-Adresse** Feld und Prüfung **ist erforderlich**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken **Nächste**.
 
    ![](assets/image2014-9-24-11-3a5-3a44.png)
 
-1. Klicken Sie auf die Pfeile, um durch die Themen zu blättern. Wählen Sie eine aus.
+1. Klicken Sie auf die Pfeile, um durch die Designs zu blättern. Wählen Sie eins aus.
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken **Nächste**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. Wählen Sie im Abschnitt Danksagungsseite für **Externe URL** für **Follow-up mit**.
+1. Wählen Sie unter dem Abschnitt Dankeseite die Option **Externe URL** für **Folgemaßnahmen zu**.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,39 +96,39 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfah
 
    >[!NOTE]
    >
-   >Auf der Nachverfolgungsseite wird der Besucher nach dem Ausfüllen des Formulars umgeleitet. Die externe URL ist eine Option, aber es gibt noch mehr. Siehe [Eine Danksagungsseite für Formulare festlegen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >Auf der Nachverfolgungsseite wird der Besucher nach dem Ausfüllen des Formulars umgeleitet. Die externe URL ist eine Option, es gibt jedoch mehr. Siehe [Formular-Danksagungsseite festlegen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-24-11-3a7-3a3.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
-   Super! Jetzt haben Sie ein Programm mit einem Formular darin. Lassen Sie uns fortfahren und eine Seite erstellen.
+   Super! Jetzt haben Sie ein Programm mit einem Formular darin. Erstellen wir eine Seite.
 
    ![](assets/image2014-9-24-11-3a7-3a32.png)
 
-## SCHRITT 3: Erstellen Sie eine Landingpage und Hinzufügen Sie Ihr Formular {#step-create-a-landing-page-and-add-your-form}
+## SCHRITT 3: Landingpage erstellen und Formular hinzufügen {#step-create-a-landing-page-and-add-your-form}
 
-1. Klicken Sie bei ausgewähltem Programm auf **Neu** und dann auf **Neues lokales Element**.
+1. Klicken Sie bei ausgewähltem Programm auf **Neu** und dann **Neues lokales Asset**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
-1. Wählen Sie **Landingpage**.
+1. Auswählen **Landingpage**.
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Geben Sie eine Seite **Name** ein, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
+1. Seite eingeben **Name**, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
 
    >[!NOTE]
    >
-   >Sie haben vielleicht eine andere Vorlage als die in unserem Screenshot, es ist okay, wählen Sie einfach eine und gehen Sie weiter.
+   >Sie haben vielleicht eine andere Vorlage als die in unserem Screenshot, es ist okay, wählen Sie einfach eine und machen Sie weiter.
 
    ![](assets/image2014-9-24-11-3a8-3a23.png)
 
-1. Ziehen Sie nach dem Öffnen des Landingpages-Editors das Formularelement in die Arbeitsfläche.
+1. Nachdem der Landingpage-Editor geöffnet wurde, ziehen Sie das Formularelement auf die Arbeitsfläche.
 
    ![](assets/twentyone.png)
 
@@ -141,37 +140,37 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfah
 
    ![](assets/image2014-9-24-11-3a9-3a6.png)
 
-1. Alle Änderungen werden automatisch gespeichert. Schließen Sie die Registerkarte/das Fenster des Formulareditors.
+1. Alle Änderungen werden automatisch gespeichert. Schließen Sie die Registerkarte/das Fenster des Formular-Editors.
 
    ![](assets/image2014-9-24-11-3a9-3a19.png)
 
-   Großartig gemacht! Sie haben jetzt eine Landingpage mit einem Formular darauf. Lassen Sie uns Ihre Seite genehmigen, um sie zu aktivieren.
+   Großartig gemacht! Sie haben jetzt eine Landingpage mit einem Formular darauf. Lassen Sie uns Ihre Seite genehmigen, damit sie live ist.
 
-## SCHRITT 4: Genehmigen Ihrer Landingpage {#step-approve-your-landing-page}
+## SCHRITT 4: Landingpage genehmigen {#step-approve-your-landing-page}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie unter **Landingpage Aktionen** auf **Genehmigen**.
+1. Wählen Sie Ihre Landingpage unter **Landingpage-Aktionen** click **Genehmigen**.
 
    >[!NOTE]
    >
-   >Durch die Genehmigung der Landingpage wird sie live geschaltet und im Internet zugänglich gemacht.
+   >Wenn Sie die Landingpage validieren, wird sie live geschaltet und im Internet zugänglich gemacht.
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
 
-   Perfekt! Sehen Sie das grüne Häkchen darauf?
+   Perfekt! Siehst du das grüne Häkchen darauf?
 
    ![](assets/image2014-9-24-11-3a9-3a53.png)
 
-## SCHRITT 5: Formular {#step-test-your-form} testen
+## SCHRITT 5: Formular testen {#step-test-your-form}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Ansicht Genehmigte Seite**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Genehmigte Seite anzeigen**.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
-1. Füllen Sie das Formular mit den Informationen aus, von denen Sie wissen, dass es eindeutig ist, und klicken Sie auf **Senden**.
+1. Füllen Sie das Formular mit Informationen aus, von denen Sie wissen, dass es eindeutig ist, und klicken Sie auf **Einsenden**.
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Wechseln Sie zum Bereich **Datenbank**.
+1. Navigieren Sie zu **Datenbank** Bereich.
 
    ![](assets/db-1.png)
 
@@ -179,7 +178,7 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfah
 
    ![](assets/30.png)
 
-   Da ist es! Sie haben eine neue Landingpage mit einem Formular erstellt und damit eine neue Person generiert.
+   Da ist es! Sie haben eine neue Landingpage mit einem Formular erstellt und mit ihr eine neue Person erstellt.
 
    ![](assets/thirty-one.png)
 
@@ -187,6 +186,6 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, lassen Sie uns fortfah
 
 <br> 
 
-[◄ Massen-E-Mail senden](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Aufgabe 1: Massen-E-Mail senden](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Einfache Bewertung ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Aufgabe 3: Einfache Bewertung ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

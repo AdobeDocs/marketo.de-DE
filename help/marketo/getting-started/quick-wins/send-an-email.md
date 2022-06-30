@@ -1,97 +1,96 @@
 ---
 unique-page-id: 2359410
-description: E-Mail senden - Marketo Dokumente - Produktdokumentation
+description: E-Mail senden - Marketo-Dokumente - Produktdokumentation
 title: E-Mail senden
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 3%
+source-wordcount: '410'
+ht-degree: 1%
 
 ---
 
 # E-Mail senden {#send-an-email}
 
-Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
+Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
 >[!PREREQUISITES]
 >
->[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
-## E-Mail-Programm {#create-an-email-program} erstellen
+## E-Mail-Programm erstellen {#create-an-email-program}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/one-1.png)
 
-1. Wählen Sie den Ordner **Lernen**. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues Programm**.
+1. Wählen Sie Ihre **Lernen** Ordner. Klicken Sie auf **Neu** und wählen Sie **Neues Programm**.
 
    ![](assets/two-1.png)
 
-1. Geben Sie einen **Programm** ein und wählen Sie **E-Mail** für **Typ des .**
+1. Geben Sie einen **Name** und wählen Sie **Email** für **Programmtyp.**
 
    >[!TIP]
    >
-   >hinzufügen Sie Ihre Initialen am Ende des Programms, um sie eindeutig zu machen.
+   >Fügen Sie Ihre Initialen am Ende des Programmnamens hinzu, um sie eindeutig zu machen.
 
    ![](assets/three.png)
 
-1. Wählen Sie unter **Kanal** **E-Mail senden** und klicken Sie auf **Erstellen**.
+1. under **Kanal** auswählen **E-Mail-Versand** und klicken Sie auf **Erstellen**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Definieren Sie Ihre Audience {#define-your-audience}
+## Zielgruppe definieren {#define-your-audience}
 
-1. Klicken Sie unter der Kachel &quot;Audience&quot;auf **Intelligente Liste bearbeiten**.
+1. Klicken **Smart List bearbeiten** unter der Kachel Zielgruppe .
 
    ![](assets/five.png)
 
-1. Suchen Sie den Filter &quot;E-Mail-Adresse&quot;und ziehen Sie ihn in die Arbeitsfläche.
+1. Suchen Sie den Filter E-Mail-Adresse und ziehen Sie ihn in die Arbeitsfläche.
 
    ![](assets/six.png)
 
    >[!TIP]
    >
-   >Verwenden Sie **Suchen** oben in der Liste &quot;Filter&quot;, um den Filter leichter zu finden.
+   >Verwendung **Suche** oben in der Filterliste, um den Filter leichter zu finden.
 
-1. Suchen und wählen Sie Ihre E-Mail-Adresse aus.
+1. Wählen Sie Ihre E-Mail-Adresse aus.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Wenn Ihre E-Mail nicht automatisch aufgefüllt wird, haben Sie möglicherweise vergessen, [Setup aufzurufen und einen Interessenten Hinzufügen.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >Wenn Ihre E-Mail nicht automatisch ausgefüllt wird, haben Sie möglicherweise vergessen, [Richten Sie sich ein und fügen Sie einen Lead hinzu.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
    >[!NOTE]
    >
-   >In diesem Beispiel senden Sie die E-Mail nur an Sie selbst, aber Sie können die Audience nach Ihren Vorstellungen anpassen.
+   >In diesem Beispiel senden Sie die E-Mail nur selbst, aber Sie können die Audience nach Bedarf anpassen.
 
-1. Gehen Sie zurück zur Registerkarte &quot;Haupt-Programm&quot;und klicken Sie auf das Aktualisierungssymbol für **Person**.
+1. Gehen Sie zurück zur Hauptregisterkarte des Programms und klicken Sie auf das Aktualisierungssymbol für **Person**.
 
    ![](assets/refresh-icon.png)
 
-   Sie sollten sehen, wie die Personenanzahl auf 1 steigt. Das bist du!
+   Sie sollten sehen, dass die Personenanzahl auf 1 steigt. Das bist du!
 
-## Erstellen einer E-Mail {#create-an-email}
+## E-Mail erstellen {#create-an-email}
 
-1. Klicken Sie unter der E-Mail-Kachel auf **Neue E-Mail**.
+1. Klicken Sie unter der Kachel E-Mail auf **Neue E-Mail**.
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Geben Sie einen **Name** ein, wählen Sie eine **Vorlage** und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name**, wählen Sie eine **Vorlage** und klicken Sie auf **Erstellen**.
 
    ![](assets/ten-1.png)
 
-1. Das Fenster des E-Mail-Editors wird geöffnet. Geben Sie einen Betreff mit höchstens 50 Zeichen ein (empfohlen).
+1. Daraufhin wird das Fenster des E-Mail-Editors geöffnet. Geben Sie einen Betreff mit maximal 50 Zeichen ein (empfohlen).
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Wenn Sie einen Popup-Blocker haben, klicken Sie auf **Entwurf bearbeiten**, um den E-Mail-Editor einzugeben.
+   >Wenn Sie einen Popup-Blocker haben, klicken Sie auf **Entwurf bearbeiten** , um den E-Mail-Editor aufzurufen.
 
-1. Wählen Sie den zu bearbeitenden Bereich aus, klicken Sie auf das Zahnradsymbol auf der rechten Seite und wählen Sie **Bearbeiten** (Sie können auch mit der Dublette auf den bearbeitbaren Bereich klicken, um ihn zu bearbeiten).
+1. Wählen Sie den Bereich aus, den Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol auf der rechten Seite und wählen Sie dann **Bearbeiten** (Sie können auch auf den bearbeitbaren Bereich doppelklicken, um ihn zu bearbeiten).
 
    ![](assets/twelve.png)
 
@@ -103,38 +102,40 @@ Das ist das erste, was jeder tun möchte. Senden wir eine E-Mail aus Marketo!
 
    ![](assets/fourteen.png)
 
-1. Klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Genehmigen**.
+1. Klicken Sie auf **E-Mail-Aktionen** und wählen Sie **Genehmigen**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >Möchten Sie sich ein kurzes Beispiel senden, um zu sehen, wie Ihre E-Mail vor dem Start aussieht? Wählen Sie **Beispiel senden** im Menü oben oder klicken Sie auf **E-Mail-Aktionen** und dann [**Beispiel senden**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Sie möchten sich ein kurzes Beispiel senden, um zu sehen, wie Ihre E-Mail vor dem Start aussieht? Auswählen **Beispiel senden** im Menü oben oder klicken Sie auf **E-Mail-Aktionen** then [**Beispiel senden**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target=&quot;_blank&quot;}.
 
-1. Wählen Sie das E-Mail-Programm in der linken Baumstruktur aus.
+1. Wählen Sie im linken Baum das E-Mail-Programm aus.
 
    ![](assets/sixteen.png)
 
-1. Legen Sie in der Kachel Plan den Starttag für die E-Mail auf **Heute fest.**
+1. Legen Sie in der Kachel Planung den Starttag für die E-Mail auf **Heute.**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
-1. Wählen Sie eine Zeit aus, die in der Zukunft mindestens 15 Minuten beträgt.
+1. Wählen Sie einen Zeitpunkt aus, der in der Zukunft mindestens 15 Minuten beträgt.
 
    ![](assets/image2014-9-8-15-3a13-3a25.png)
 
    >[!TIP]
    >
-   >Ist die Standardzeitzone nicht Ihre? Erfahren Sie, wie Sie [es hier aktualisieren](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
+   >Ist die Standardzeitzone nicht Ihre? Erfahren Sie, wie Sie [Aktualisieren Sie es hier](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target=&quot;_blank&quot;}.
 
-1. Klicken Sie unter der Genehmigungskachel auf **Programm genehmigen** und Sie sind fertig!
+1. Klicken **Programm genehmigen** unter der Kachel Validierung und Sie sind fertig!
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
 Sie sollten die E-Mail kurz nach dem geplanten Tag/der geplanten Uhrzeit erhalten.
 
+## Aufgabe abgeschlossen! {#mission-complete}
+
 <br> 
 
-[◄ Einrichten und Lead hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[Landing Page mit Formular ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Aufgabe 2: Landing Page mit Formular ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

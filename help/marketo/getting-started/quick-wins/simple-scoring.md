@@ -1,13 +1,12 @@
 ---
 unique-page-id: 2359414
-description: Einfache Bewertung - Marketo Docs - Produktdokumentation
+description: Einfache Bewertung - Marketo-Dokumente - Produktdokumentation
 title: Einfache Bewertung
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 14%
+source-wordcount: '380'
+ht-degree: 11%
 
 ---
 
@@ -15,33 +14,33 @@ ht-degree: 14%
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](get-set-up-and-add-a-person.md)
->* [Landing Page mit Formular](landing-page-with-a-form.md)
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
 ## Schritt 1: Bewertungskampagne erstellen {#step-create-a-scoring-campaign}
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/ma-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner **Lernen** und klicken Sie auf **Neuer Kampagnenordner**.
+1. Rechtsklick auf Ihre **Lernen** Ordner und klicken Sie auf **Neuer Kampagnenordner**.
 
    ![](assets/two-2.png)
 
-1. Benennen Sie den Ordner &quot;Kampagne&quot;als &quot;Punktzahl&quot;.
+1. Nennen Sie den Kampagnenordner &quot;Scoring&quot;.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Wenn Sie bereits über einen Scoring-Ordner verfügen, geben Sie diesem einen anderen Namen, z. B. Scoring 1. Ordnernamen müssen eindeutig sein.
+   >Wenn Sie bereits über einen Scoring-Ordner verfügen, benennen Sie diesen etwas Anderes, z. B. Scoring 1. Ordnernamen müssen eindeutig sein.
 
-1. Klicken Sie dann mit der rechten Maustaste auf den neuen Ordner **Scoring** und wählen Sie **Neue Smart-Kampagne**.
+1. Klicken Sie dann mit der rechten Maustaste auf Ihre neue **Scoring** Ordner und wählen Sie **Neue intelligente Kampagne**.
 
    ![](assets/four.png)
 
-1. **Benennen Sie** die Kampagne &quot;Change Score&quot;und klicken Sie auf  **Create**.
+1. **Name** Klicken Sie auf die Kampagne &quot;Ergebnis ändern&quot; und **Erstellen**.
 
    ![](assets/five-1.png)
 
@@ -49,17 +48,17 @@ ht-degree: 14%
 
    ![](assets/six-1.png)
 
-   Diese Kampagne soll immer dann ausgeführt werden, wenn ein Benutzer das **Testanforderungsformular** ausfüllt.
+   Wir möchten, dass diese Kampagne ausgeführt wird, sobald eine Person Ihre **Testanfrageformular**.
 
-1. Suchen Sie den Trigger **Ausfüllen des Formulars** und ziehen Sie ihn auf die linke Arbeitsfläche.
+1. Suchen und Ziehen **Formular ausfüllen** Trigger auf der linken Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
-1. Wählen Sie **Mein Formular**.
+1. Auswählen **Mein Formular**.
 
    >[!NOTE]
    >
-   >Wenn Sie die [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win abgeschlossen haben, sollten Sie das Formular haben. Wenn Sie einen anderen Namen für Ihr Formular verwendet haben, wählen Sie diesen aus.
+   >Wenn Sie die [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} Quick win Sie sollten über das Formular verfügen. Wenn Sie für Ihr Formular einen anderen Namen verwendet haben, wählen Sie diesen aus.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
@@ -67,51 +66,51 @@ ht-degree: 14%
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
-1. Ziehen Sie die Aktion **Wert ändern** auf die linke Arbeitsfläche.
+1. Ziehen Sie die **Bewertung ändern** Flussaktion auf die linke Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. Sie können einen beliebigen Wert eingeben, der dem Ergebnis der Person hinzugefügt werden soll. Geben Sie &quot;+5&quot;in das Feld **Change** ein.
+1. Sie können einen beliebigen Wert eingeben, der dem Ergebnis der Person hinzugefügt werden soll. Geben wir &quot;+5&quot;im **Änderung** -Feld.
 
    ![](assets/eleven-1.png)
 
    >[!TIP]
    >
-   >Gute Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**Die ultimative Anleitung für die Lead-Bewertung**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Gute Scoring-Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen [**Der endgültige Leitfaden für die Lead-Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}.
 
-1. Klicken Sie auf die Registerkarte **Plan** und auf die Schaltfläche **Aktivieren**.
+1. Klicken Sie auf **Zeitplan** und **Aktivieren** Schaltfläche.
 
    ![](assets/twelve-1.png)
 
-1. Klicken Sie im Bestätigungsbildschirm auf **Aktivieren**.
+1. Klicken **Aktivieren** auf dem Bestätigungsbildschirm.
 
    ![](assets/thirteen-1.png)
 
 >[!NOTE]
 >
->Sobald diese Kampagne aktiv ist, wird sie jedes Mal ausgeführt, wenn ein Benutzer das Formular ausfüllt. Die Kampagne läuft, bis sie deaktiviert ist.
+>Nach der Aktivierung wird diese Kampagne jedes Mal ausgeführt, wenn eine Person das Formular ausfüllt. Die Kampagne läuft so lange, bis sie deaktiviert wird.
 
 ## Schritt 2: Formular ausfüllen {#step-fill-out-the-form}
 
-1. Wählen Sie die Landingpage aus, die Sie in der Landingpage [mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win erstellt haben.
+1. Wählen Sie die Landingpage aus, die Sie im [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} schneller Sieg.
 
    ![](assets/fourteen-1.png)
 
-1. Klicken Sie auf **“Genehmigte Seite anzeigen“**. Die Landingpage wird in einer neuen Registerkarte geöffnet.
+1. Klicken Sie auf **“Genehmigte Seite anzeigen“**. Die Landingpage wird in einem neuen Tab geöffnet.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Füllen Sie das Formular mit Ihrem Vornamen, Nachnamen und Ihrer E-Mail-Adresse aus und klicken Sie dann auf **Senden**.
+1. Füllen Sie das Formular mit Vorname, Nachname und E-Mail-Adresse aus und klicken Sie auf **Einsenden**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
    >[!NOTE]
    >
-   >Verwenden Sie denselben Namen und dieselbe E-Mail-Adresse, die Sie beim ersten Einstieg als Person verwendet haben, um die &quot;+5&quot;-Ergebniserhöhung anzuwenden.
+   >Verwenden Sie denselben Namen und dieselbe E-Mail-Adresse, die Sie beim ersten Einstieg als Person verwendet haben, um die Erhöhung des Punktwerts &quot;+5&quot;anzuwenden.
 
-## Schritt 3: Ansicht der Personeninfo {#step-view-the-person-info}
+## Schritt 3: Anzeigen der Personeninformationen {#step-view-the-person-info}
 
-1. Wechseln Sie zum Bereich &quot;Datenbank&quot;.
+1. Wechseln Sie zum Bereich Datenbank .
 
    ![](assets/db-2.png)
 
@@ -119,15 +118,18 @@ ht-degree: 14%
 
    ![](assets/eighteen.png)
 
-1. Klicken Sie mit der Dublette auf Ihre Person.
+1. Doppelklicken Sie auf Ihre Person.
 
    ![](assets/nineteen.png)
 
-Ihre persönlichen Daten werden in einem neuen Register oder Fenster geöffnet. Sehen Sie, wie Ihr Ergebnis um 5 Punkte für das Ausfüllen des Formulars erhöht wurde!!
+Ihre Personendetails werden in einem neuen Tab oder Fenster geöffnet. Erfahren Sie, wie Ihr Ergebnis um 5 Punkte für das Ausfüllen des Formulars erhöht wurde!
 
 ![](assets/twenty.png)
 
-**Herzlichen Glückwunsch!** Sie haben eine bewertete Kampagne erstellt.
+## Aufgabe abgeschlossen! {#mission-complete}
+
+<br> 
+
 [◄ Aufgabe 2: Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [Aufgabe 4: Automatische Antwort-E-Mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

@@ -1,30 +1,27 @@
 ---
 unique-page-id: 7516605
-description: Zu prüfende Elemente - Marketo Dokumente - Produktdokumentation
+description: Elemente zum Deaktivieren - Marketo-Dokumente - Produktdokumentation
 title: Elemente zum Deaktivieren
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
 
-# Elemente, die deaktiviert werden können {#items-to-check-off}
+# Elemente zum Deaktivieren {#items-to-check-off}
 
-![](assets/life-preserver.jpg)
+Stellen Sie sicher, dass Sie über die richtigen Arten von Zugriff und Informationen verfügen. Führen Sie diese einfachen Schritte aus, damit Sie einige Dinge von Ihrer Aufgabenliste sofort überprüfen können!
 
-Stellen Sie sicher, dass Sie über die richtigen Zugriffsmöglichkeiten und Informationen verfügen. Führen Sie diese einfachen Schritte aus, damit Sie einige Dinge von Ihrer zu erledigenden Liste sofort überprüfen können!
+* Einen kurzen Überblick über [**Funktionsweise von Marketo**](https://pages2.marketo.com/demoFull.html){target=&quot;_blank&quot;}.
 
-* Sehen Sie sich einen kurzen Überblick darüber an, was Marketo tut **](https://pages2.marketo.com/demoFull.html).[**
+* **Profil einrichten** im [**Marketing-Nation**](https://nation.marketo.com/){target=&quot;_blank&quot;} Community (Benutzername und Kennwort erforderlich).
 
-* **Richten Sie Ihr** Profil in  [**Marketing**](https://nation.marketo.com/) Nationcommunity ein (Benutzername und Passwort erforderlich).
+* Erfahren Sie, wie Sie mit dem [**Marketing-Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target=&quot;_blank&quot;} Community, um Antworten auf Ihre Fragen zu erhalten.
 
-* Erfahren Sie, wie Sie mit der [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community)-Community interagieren, um Antworten auf Ihre Fragen zu erhalten.
+* Klicken **Ihre Orte** in Ihrem Marketo Nation-Community-Profil , um die Kontoseite Ihres Unternehmens anzuzeigen.
 
-* Klicken Sie auf **Ihre Orte** in Ihrem Marketo Nation Community-Profil, um die Kontoseite Ihrer Firma anzuzeigen.
+* Erfahren Sie, wie Sie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target=&quot;_blank&quot;} (und bestätigen Sie, dass Sie [**als autorisierter Support-Ansprechpartner einrichten**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}).
 
-* Erfahren Sie, wie Sie [**eine Supportanfrage**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) senden (und bestätigen Sie, dass Sie [**als autorisierter Support-Ansprechpartner**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341) eingerichtet sind).
-
-* [**Verwalten Sie**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) Benutzer und löschen Sie diejenigen, die Ihre Firma verlassen haben.
+* [**Benutzer verwalten**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target=&quot;_blank&quot;} und löschen Sie diejenigen, die Ihr Unternehmen verlassen haben.
