@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 5d8a129e29d56c0f997d1ef141977469b0afc1a8
+source-git-commit: b54fbf0b922189d0d0d9e26da9e65a2dbd926875
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 6%
 
 ---
 
@@ -54,12 +54,12 @@ _Die Veröffentlichungsdaten können sich ändern_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">Juni 22</td>
    <td>24. Juni 2022</td>
-   <td>in progress</td>
+   <td>Versendet</td>
   </tr>
   <tr> 
    <td>August '22</td>
    <td>19. August 2022</td>
-   <td>Zeitplan</td>
+   <td>in progress</td>
   </tr>
   <tr>
    <td>Oktober 22</td>
