@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - Produktdokumentation
 title: Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '906'
 ht-degree: 5%
 
 ---
@@ -295,8 +295,6 @@ Und das ist es! Sie sollten die Marketo Sales Insight -Felder für Leads, Kontak
 ## Auf Marketo Sales Insight zugreifen {#access-marketo-sales-insight}
 
 1. Klicken Sie in Salesforce auf die **+** Klicken Sie am Ende der Registerkartenleiste auf **Marketo Sales Insight-Konfiguration**.
-
-1. Wählen Sie die **Marketo-API aktivieren** aktivieren.
 
 1. Kopieren Sie die Anmeldeinformationen aus dem Bedienfeld Soap API auf der Marketo Sales Insight-Admin-Seite und fügen Sie sie in den Abschnitt Soap API der Salesforce Sales Insight-Konfigurationsseite ein.
 
