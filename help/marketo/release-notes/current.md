@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,13 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **24. Juni 2022**, 
 * **Fortschrittliche Dialogberichte für dynamischen Chat**: Zeigen Sie die Leistung Ihrer Dynamic Chat-Kampagnen mithilfe der neuen Datenvisualisierungen für Interaktions- und Konversionsmetriken detaillierter an.
 
 * **Nicht verwendete Marketo Engage-Attribute für dynamischen Chat nicht synchronisieren**: Heben Sie die Synchronisierung von Marketo Engage-Attributen aus Ihrem Dynamic Chat-Abonnement auf, die nicht verwendet werden. Dies erleichtert Ihnen die Datenbereinigung und ermöglicht die Synchronisierung alternativer Attribute nach Bedarf.
+
+## Erlebnis der nächsten Generation
+
+**Neue Umschaltansichten**: Die folgenden Ansichten sind jetzt im Erlebnis der nächsten Generation verfügbar:
+
+* [Ansicht mit E-Mail-Details](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [E-Mail-Listenansicht](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## Erlebnisautomatisierung {#experience-automation}
 
