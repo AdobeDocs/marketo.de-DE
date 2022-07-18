@@ -3,9 +3,10 @@ description: Festlegen von Ereigniszielen - Marketo-Dokumente - Produktdokumenta
 title: Festlegen von Ereigniszielen
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,14 +20,28 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 
 1. Erstellen Sie ein Veranstaltungsprogramm.
 
-PICC
+   ![](assets/setting-event-goals-1.png)
 
-1. Geben Sie dem Ereignis eine [!UICONTROL Name], wählen Sie die [!UICONTROL Ziel] Ordner und [!UICONTROL Kanal].
+1. Wählen Sie die [!UICONTROL Kampagnenordner], geben Sie Ihrem Ereignis eine [!UICONTROL Name], wählen Sie die [!UICONTROL Programmtyp] und [!UICONTROL Kanal]. Klicken **[!UICONTROL Erstellen]** wann geschehen.
 
-PICC
+   ![](assets/setting-event-goals-2.png)
 
-1. Geben Sie das Ziel für [!UICONTROL Angemeldet] und [!UICONTROL Angemeldet]Klicken Sie auf **[!UICONTROL Erstellen]** ([!UICONTROL Beschreibung] und [!UICONTROL Bezeichnungen] sind optional).
+1. Klicken Sie in Ihrem Ereignis auf die **[!UICONTROL Berichte]** Registerkarte.
 
-PICC
+   ![](assets/setting-event-goals-3.png)
+
+1. Geben Sie das Ziel für [!UICONTROL Angemeldet] durch Klicken auf **[!UICONTROL Festlegen eines Ziels]**. Geben Sie die Zahl in ein und drücken Sie die Eingabetaste.
+
+   ![](assets/setting-event-goals-4.png)
+
+   ![](assets/setting-event-goals-5.png)
+
+1. Wiederholen Sie dieselben Schritte für [!UICONTROL Angemeldet].
+
+   ![](assets/setting-event-goals-6.png)
+
+>[!NOTE]
+>
+>Sie können für ein Ereignis nach dem Start keine Ziele festlegen.
 
 Und das ist es! Überprüfen Sie den Status Ihres Ereignisziels, indem Sie auf [!UICONTROL Berichte] Registerkarte.
