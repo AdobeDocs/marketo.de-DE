@@ -2,77 +2,66 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
+source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
 
-# Versionshinweise: Juni 2022 {#release-notes-june-22}
+# Versionshinweise: August 2022 {#release-notes-aug-22}
 
-Unten finden Sie alle Funktionen der Version vom 22. Juni. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen der Version vom 22. August. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
 >Mit einem Stern gekennzeichnete Funktionen (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-Die folgenden Funktionen werden ab der Veröffentlichung auf **24. Juni 2022**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden (sofern nicht anders angegeben).
-
-## Marketing-Datenumgebung {#marketing-data-environment}
-
-* **Felder CreatedAt/UpdatedAt für benutzerdefinierte Objekte verfügbar machen**: Bietet Ihnen die Möglichkeit, diese Felder im Bildschirm &quot;Personendetails&quot;zu überprüfen, um weitere Einblicke zu erhalten.
+Die folgenden Funktionen werden ab der Veröffentlichung auf **19. August 2022**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden (sofern nicht anders angegeben). Die Veröffentlichungsfunktionen und das genaue Datum können sich ändern.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Verbesserte Verwendung von Stream Designer für dynamischen Chat**: Fügen Sie Karten direkt aus der Arbeitsfläche von Stream Designer hinzu, ohne sie per Drag-and-Drop verschieben zu müssen. Die Benutzeroberfläche des dynamischen Chat wurde ebenfalls verbessert, um eine bessere Sichtbarkeit des Inhalts auf einzelnen Karten zu ermöglichen.
+* **Alle veröffentlichten Dialogfelder gleichzeitig für dynamischen Chat aktivieren/deaktivieren**: Globale Aktivierung/Deaktivierung aller veröffentlichten Dialogfelder auf einmal über die Seite &quot;Konfiguration&quot;, indem Sie auf eine Schaltfläche drücken.
 
-* **Erweiterte Regeln für die Zuweisung von Routing für dynamischen Chat**: Dynamischer Chat bietet mehr Optionen für zielgerichtetes Termin-Routing. Geben Sie an, welche Agentenbestellungen auf der Grundlage von Marketo Engage-Attributen weitergeleitet werden sollen, und stellen Sie sicher, dass die Leads an die entsprechenden Agenten weitergeleitet werden.
+* **Benutzerdefinierte Avatare für dynamischen Chat**: Laden Sie einen benutzerdefinierten Chat-Bot-Avatar hoch, damit er für Ihre Marke personalisiert werden kann.
 
-* **Fortschrittliche Dialogberichte für dynamischen Chat**: Zeigen Sie die Leistung Ihrer Dynamic Chat-Kampagnen mithilfe der neuen Datenvisualisierungen für Interaktions- und Konversionsmetriken detaillierter an.
-
-* **Nicht verwendete Marketo Engage-Attribute für dynamischen Chat nicht synchronisieren**: Heben Sie die Synchronisierung von Marketo Engage-Attributen aus Ihrem Dynamic Chat-Abonnement auf, die nicht verwendet werden. Dies erleichtert Ihnen die Datenbereinigung und ermöglicht die Synchronisierung alternativer Attribute nach Bedarf.
+* **Chat-Transkripte für dynamischen Chat**: Sehen Sie sich für jede Konversation Chat-Transkripte an, um einen tieferen Einblick in das Interesse jedes Webbesuchers zu erhalten.
 
 ## Erlebnis der nächsten Generation
 
-**Neue Umschaltansichten**: Die folgenden Ansichten sind jetzt im Erlebnis der nächsten Generation verfügbar:
+* **Adobe Branding**: Das Erscheinungsbild für Bearbeiter und Personendetailseite wurde mit dem neuen Adobe Experience Cloud-Branding aktualisiert.
 
-* [Ansicht mit E-Mail-Details](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [E-Mail-Listenansicht](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* **Anzeigen der Ordnerhierarchie des Zielordners im Dialogfeld &quot;Verschieben&quot;**: Die Anzeige der Ordnerhierarchie für jeden Ordner erleichtert das Verschieben von Assets und verringert die Wahrscheinlichkeit, dass sie in den falschen Ordner eingefügt werden.
+
+>[!NOTE]
+>
+>Die Ausnahme besteht darin, ein Asset in einen Ordner innerhalb eines Programms in Marketingaktivitäten zu verschieben. Durch diese Aktion wird die Ordnerhierarchie nicht angezeigt, da Ordner innerhalb eines Programms keine doppelten Namen haben können.
 
 ## Erlebnisautomatisierung {#experience-automation}
 
-* **Ausnahmen für globale Formularfeldvalidierungsregeln**: Schließen Sie bestimmte Formulare aus den Regeln zur globalen Formularüberprüfung aus, damit Abonnementzentren und andere geschäftskritische Workflows alle Werte akzeptieren können.
+* **Selbstbedienungs-Flussschritte - Verbesserungen beim Programm-Import**: Verbesserte Unterstützung für den Import von Programmen mit benutzerdefinierten Flussschritten, bei denen Sie jetzt mehrere Instanzen desselben Dienstleisters verwenden und Programme importieren können, bei denen Flussschritte mit diesen Dienstleistern kompatibel sind.
 
-* **Selbstbedienungs-Flussschritte**: Erweitern Sie die Konnektivität zwischen Marketo Engage und dem Rest Ihres Stapels mit der Möglichkeit, benutzerdefinierte Flussschritte zur Verwendung in Smart-Kampagnen zu erstellen. Sowohl Marketo Engage-Benutzer als auch -Partner können diese Funktion nutzen, um die Verwendung externer Webdienste in Trigger-, Batch- und ausführbaren Kampagnen im Gegensatz zu Webhooks zu ermöglichen, die nur in Trigger-Kampagnen verwendet werden können.
+* **Munchkin - Erweitertes Linktracking**: Erweitern der Unterstützung für das Tracking von `tel` und `mailto` Links mit Munchkin , um eine erweiterte Reihe von Web-Verhaltensweisen zu verfolgen.
 
-* **Munchkin-Protokoll-Agnostik-Link-Tracking**: Erweitern der Unterstützung für das Tracking von `tel` und `mailto` Links mit Munchkin , um erweiterte Web-Verhaltensweisen zu verfolgen.
+* **Benutzerdefinierte Webhook-Kopfzeilenanzeige**: Benutzerdefinierte Webhook-Header werden jetzt auf der Registerkarte Admin > Webhooks angezeigt, um eine bessere Sichtbarkeit zu erzielen.
 
-* **Zusätzliche HTTP-Methoden für Webhooks**: Geben Sie PUT, PATCH und DELETE als Anfragetypen an, um mit Webdiensten zu interagieren.
+* **CAPTCHA**: Bewerten Sie die Gültigkeit von Formularübermittlungen mit reCAPTCHA v3, um den eingehenden Formular-Traffic zu bewerten. Erstellen Sie Marketing-Workflows, um verdächtigen Bot-Traffic automatisch auszuschließen, in Quarantäne zu stellen oder zu löschen.
 
-## Sales Insight {#sales-insight}
+* **Berechtigung zum Genehmigen eines Formulars**: Neue Berechtigung zum Steuern, welche Designer Änderungen an einem Formular im Einklang mit anderen Design Studio-Assets genehmigen können. Dies verhindert, dass andere Designer Änderungen an Formularen senden, ohne dass jemand anderes über eine Genehmigungsberechtigung verfügt, die sie überprüft.
 
-![(Stern)](assets/yellow-star.png)
+* **Kampagnenwiedergabe nach anonymer Zusammenführung immer durchführen**: Die anonyme Lead-Zusammenführung erfolgt vor der Wiederholung der Kampagne. Benutzerdefinierte Feldfilter verhalten sich also zuverlässig, wenn die anonyme Kampagnenwiedergabe erfolgt.
 
-* **Zugriffsberechtigungen für Sales Insight in Salesforce**: Administratoren können über den Berechtigungssatz der Marketo App, der Teil des Sales Insight Salesforce-Pakets ist, Sales Insight-Zugriff für eine begrenzte Anzahl von Personen auf Benutzerebene und nicht auf Profilebene bereitstellen.
+## Marketing-Datenumgebung {#marketing-data-environment}
 
-* **My Marketo Tile Update - Sales Insight-Aktionen**: Marketo-Administratoren (und Benutzer, die sie bestimmen) können jetzt über die neue Kachel &quot;Sales Insight-Aktionen&quot;auf der Seite &quot;My Marketo&quot;schnell zu ihrer Instanz mit Sales Insight-Aktionen navigieren.
-
-## SalesConnect {#sales-connect}
-
-![(Stern)](assets/yellow-star.png)
-
-* **Salesforce-API-Update**: Mit der Salesforce Summer Version 22 werden ältere API-Versionen 21-30 von Salesforce nicht mehr unterstützt. Mit dieser Marketo Engage-Version wurden alle Sales Connect-Anfragen, die ältere API-Versionen verwenden, aktualisiert, damit sie auf eine unterstützte Version passen. Ausführliche Informationen zu Salesforce API-Pensionsplänen finden Sie unter [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
+* **Fehlerbehebung bei der Kürzung der Benutzeroberflächen für die Felder &quot;Verwendet von&quot; benutzerdefiniertes Objekt**: Benutzerdefinierte Objektfelder, die &quot;verwendet&quot;werden, lassen sich jetzt einfacher identifizieren, sodass Sie bei Bedarf Felder aus einem benutzerdefinierten Objekt löschen können.
 
 ## API-Verbesserungen {#api-enhancements}
 
 * **Neue Filterfunktionen für die Bulk Program Member Extract API**: Filtern Sie nach Status der Programmmitgliedschaft, updatedAt, Cadence oder erschöpftem Inhalt, um den extrahierten Datensatz zu verfeinern.
 
-* **Verbesserung der Bulk Program Member Extract API**: Geben Sie bis zu 10 Programme während der Schaffung von Arbeitsplätzen an, um den Durchsatz zu erhöhen.
+* **Anzeigen von reinen API-Benutzern in Fehlerbenachrichtigungen für Webdienste**: Ermitteln Sie, welcher Nur-API-Benutzer einen Webdienst-Fehler generiert hat, um die Fehlerbehebung zu verbessern.
 
 ## Ankündigungen {#announcements}
-
-* **Veraltete Forms-Version - Forms 1.0, Lead-Capture-/Speicherendpunkt und Skriptversionen von Formularen**: Die Unterstützung für Forms 1.0-Assets wird ab Oktober 2022 vollständig aus Marketo Engage entfernt. Alle vorhandenen Forms 1.0-Assets funktionieren nicht mehr. Für Marketo Engage-Formulare ist JavaScript erforderlich, damit sie auf Landingpages und Websites geladen werden können.
 
 **_Webinar zur Produktversion_**
 
