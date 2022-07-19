@@ -1,55 +1,65 @@
 ---
 unique-page-id: 2360198
-description: Benutzerrolle erstellen, löschen, bearbeiten und ändern - Marketo Dokumente - Produktdokumentation
-title: Benutzerrolle erstellen, löschen, bearbeiten und ändern
+description: Erstellen, Löschen, Bearbeiten und Ändern einer Benutzerrolle - Marketo Docs - Produktdokumentation
+title: Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
-# Erstellen, Löschen, Bearbeiten und Ändern einer Benutzerrolle {#create-delete-edit-and-change-a-user-role}
+# Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen {#create-delete-edit-and-change-a-user-role}
 
-**Gruppieren Sie** mehrere Berechtigungen zusammen. **** Erlauben Sie, Dinge in Marketo zu tun. Sie weisen einem Benutzer eine **Rolle** zu. Leicht zum Kuchen.
+**Rollen** eine Reihe von Berechtigungen gruppieren. **Berechtigungen** erlaubt Ihnen, Dinge in Marketo zu erledigen. Sie weisen eine **Rolle** an einen Benutzer. Einfach pie.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-## Rolle {#create-a-role} erstellen
+>[!IMPORTANT]
+>
+>Die folgenden Rollen sind Systemrollen und können nicht bearbeitet oder gelöscht werden:
+>
+>* Administrator
+>* Adobe Product Admin
+>* Standardbenutzer
+>* RTP Editor
+>* RTP Launcher
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+
+## Rolle erstellen {#create-a-role}
+
+1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Gehen Sie zur Registerkarte **Rollen** und klicken Sie auf **Neue Rolle**.
+1. Navigieren Sie zu **Registerkarte &quot;Rollen&quot;** und klicken Sie auf **Neue Rolle**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
-1. Benennen Sie Ihre neue Rolle, überprüfen Sie alle Berechtigungen, die Sie Benutzern gewähren möchten, die der Rolle zugeordnet sind, und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre neue Rolle, aktivieren Sie alle Berechtigungen, die Sie Benutzern gewähren möchten, die mit der Rolle verknüpft sind, und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
-## Löschen einer Rolle {#delete-a-role}
+## Rolle löschen {#delete-a-role}
 
-1. Klicken Sie unter **Admin** auf **Benutzer und Rollen**.
+1. under **Admin** klicken **Benutzer und Rollen**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Wählen Sie unter der Registerkarte **Rollen** eine Rolle aus und klicken Sie auf **Rolle löschen**.
+1. Unter dem **Rollen** Registerkarte eine Rolle auswählen und auf **Rolle löschen**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
-1. Bestätigen Sie den Löschvorgang, indem Sie auf **Löschen** klicken.
+1. Bestätigen Sie den Löschvorgang durch Klicken auf **Löschen**.
 
    ![](assets/image2014-9-16-13-3a32-3a25.png)
 
 >[!NOTE]
 >
->Zuerst müssen Sie sicherstellen, dass keiner Rolle Benutzer zugewiesen sind, andernfalls kann sie nicht gelöscht werden.
+>Sie müssen zunächst sicherstellen, dass keine Benutzer einer Rolle zugewiesen sind, da diese andernfalls nicht gelöscht werden kann.
 
 ## Eine vorhandene Rolle bearbeiten {#edit-an-existing-role}
 
@@ -57,15 +67,15 @@ ht-degree: 0%
 >
 >Um Ihre eigene Benutzerrolle zu bearbeiten, müssen Sie sich als ein anderer Benutzer mit Administratorrechten anmelden.
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Klicken Sie auf die Registerkarte **Rollen**.
+1. Klicken Sie auf **Rollen** Registerkarte.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Wählen Sie die Rolle, die Sie bearbeiten möchten, und klicken Sie auf **Rolle bearbeiten**.
+1. Wählen Sie die Rolle aus, die Sie bearbeiten möchten, und klicken Sie auf **Rolle bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,11 +89,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Möchten Sie die E-Mail-Adresse des Kontos aktualisieren? [Erfahren Sie hier](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Möchten Sie die E-Mail-Adresse des Kontos aktualisieren? [Hier erfahren Sie mehr darüber](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
-## Ändern der Rolle eines Benutzers {#change-a-users-role}
+## Ändern der Benutzerrolle {#change-a-users-role}
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
@@ -91,10 +101,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Heben Sie die Markierung der vorherigen Rolle auf, wählen Sie die neue Rolle aus und klicken Sie dann auf **Speichern**.
+1. Deaktivieren Sie die vorherige Rolle, wählen Sie die neue aus und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
 >[!NOTE]
 >
->Wenn Sie mehrere Rollen ausgewählt lassen, hat Marketo standardmäßig die restriktivste Berechtigung.
+>Wenn Sie mehrere Rollen ausgewählt lassen, erhält Marketo standardmäßig die restriktivste Berechtigung.
