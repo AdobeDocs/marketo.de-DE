@@ -4,9 +4,9 @@ title: Festlegen einer Ereignisbegrenzung
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Begrenzen Sie die Anzahl der Personen, die sich für Ihr Ereignis mit einer Erei
 
 >[!IMPORTANT]
 >Sie müssen mindestens zwei genehmigte Landingpages (eine Registrierungs- und eine Registrierungs-Vollseite) im Programm haben, bevor Sie eine Ereignisbegrenzung festlegen können.
+
+>[!NOTE]
+>
+>Um Speicherplatz in einem Ereignis freizugeben, muss das Programmmitglied entfernt werden. (Dazu können Sie den Status auf &quot;Nicht im Programm&quot; aktualisieren.)
 
 1. Wählen Sie Ihr Veranstaltungsprogramm aus.
 

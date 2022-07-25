@@ -2,9 +2,9 @@
 description: Filtern der E-Mail-Bot-Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Filtern der E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute 
 
 >[!NOTE]
 >
->Sie können festlegen, dass Bot-Aktivitäten gefiltert werden sollen **oder** protokolliert. Wenn Sie &quot;gefiltert&quot;auswählen, wird möglicherweise ein Rückgang bei E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten ausgeschaltet werden
+>* Sie können festlegen, dass Bot-Aktivitäten gefiltert werden sollen **oder** protokolliert. Wenn Sie &quot;gefiltert&quot;auswählen, wird möglicherweise ein Rückgang bei E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten ausgeschaltet werden.
+>
+>* Derzeit ist nur &quot;Log Bot Activity&quot;für &quot;Match with Nähe Pattern&quot;verfügbar.
+
 
 **OPTIONALER SCHRITT**: Um diese Funktion zu deaktivieren, deaktivieren Sie einfach die Schieberegler. Wenn Sie deaktivieren, werden die Daten nicht zurückgesetzt.
 

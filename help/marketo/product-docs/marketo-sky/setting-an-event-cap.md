@@ -3,9 +3,10 @@ description: Einrichten einer Ereignisbegrenzung - Marketo Docs - Produktdokumen
 title: Festlegen einer Ereignisbegrenzung
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,10 @@ Begrenzen Sie die Anzahl der Personen, die sich für Ihr Ereignis mit einer Erei
 
 >[!IMPORTANT]
 >Sie müssen mindestens zwei genehmigte Landingpages (eine Registrierungs- und eine Registrierungs-Vollseite) im Programm haben, bevor Sie eine Ereignisbegrenzung festlegen können.
+
+>[!NOTE]
+>
+>Um Speicherplatz in einem Ereignis freizugeben, muss das Programmmitglied entfernt werden. (Dazu können Sie den Status auf &quot;Nicht im Programm&quot; aktualisieren.)
 
 1. Wählen Sie Ihr Veranstaltungsprogramm aus.
 

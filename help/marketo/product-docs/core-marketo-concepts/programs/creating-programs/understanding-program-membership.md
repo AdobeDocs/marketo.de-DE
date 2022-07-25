@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: Grundlegendes zur Programmmitgliedschaft - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zur Programmmitgliedschaft
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads in Ihrem Abonnement und Personen in docs.marketo.com sehen können. Diese Begriffe bedeuten dasselbe: es wirkt sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten dasselbe: es wirkt sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >
