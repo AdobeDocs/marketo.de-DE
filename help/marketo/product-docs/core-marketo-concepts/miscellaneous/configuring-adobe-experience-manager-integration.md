@@ -2,10 +2,12 @@
 unique-page-id: 30081815
 description: Konfigurieren der Adobe Experience Manager-Integration - Marketo Docs - Produktdokumentation
 title: Konfigurieren der Adobe Experience Manager-Integration
+hide: true
+hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -18,9 +20,12 @@ Konfigurieren Sie AEM, damit Sie auf AEM Assets zugreifen, sie auswählen und in
 >
 >**Erforderliche Administratorberechtigungen**
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->Diese Funktion wird derzeit nur in Firefox vollständig unterstützt. Sie wird in Safari nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von Chrome, je nach Ihren SameSite-Cookie-Einstellungen.
+>* Diese Integration funktioniert nur mit On-Premise-Implementierungen von AEM und wird nicht für AEM Cloud Service-Implementierungen unterstützt.
+>
+>* Diese Funktion wird derzeit nur in Firefox vollständig unterstützt. Sie wird in Safari nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von Chrome, je nach Ihren SameSite-Cookie-Einstellungen.
+
 
 1. Navigieren Sie zur Adobe Experience Manager (die URL ist unternehmensspezifisch).
 
