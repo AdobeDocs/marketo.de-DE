@@ -2,9 +2,9 @@
 description: Senden eines Adobe Experience Platform-Segments an eine statische Marketo-Liste - Marketo-Dokumente - Produktdokumentation
 title: Adobe Experience Platform-Segment in eine statische Marketo-Liste pushen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Ziel eingeben **Name** und eine optionale Beschreibung. Klicken Sie auf das Dropdown-Menü &quot;Personenerstellung&quot;und wählen Sie &quot;Vorhandene Marketo-Personen abgleichen und Fehlende Personen in Marketo erstellen&quot;. _oder_ &quot;Nur vorhandene Marketo-Personen abgleichen&quot;. In diesem Beispiel wählen wir das erste.
+1. Ziel eingeben **Name** und eine optionale Beschreibung. Klicken Sie auf das Dropdown-Menü &quot;Personenerstellung&quot;und wählen Sie &quot;Vorhandene Marketo-Personen abgleichen und Fehlende Personen in Marketo erstellen&quot;. _oder_ &quot;Nur vorhandene Marketo-Personen abgleichen&quot;. In diesem Beispiel wählen wir das erste. Sie können auch optional einen Arbeitsbereich auswählen oder einfach den Standard übernehmen.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Vornamen zuordnen durch Auswahl von **firstName** und klicken **Auswählen**.
+1. Wählen Sie die gewünschten Attribute aus und klicken Sie auf **Auswählen**. In diesem Beispiel wählen wir Vorname, Nachname und E-Mail-Adresse.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >Sie können Attribute von Experience Platform zu allen Attributen zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;}, um Attributfelder abzurufen, auf die Ihr Unternehmen Zugriff hat.
 
 1. Ordnen Sie Nachname und Firmenname zu, indem Sie auf **Neue Zuordnung hinzufügen** Wiederholen und Wiederholen von Schritt 15 zweimal, wählen Sie **lastName** und dann **companyName**.
 
@@ -142,22 +146,6 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Sie benötigen jetzt die Kennung Ihrer Liste. Klicken Sie auf die Registerkarte in Ihrem Browser, in der die statische Marketo-Liste geöffnet ist (oder öffnen Sie eine neue Registerkarte und wählen Sie die gewünschte statische Liste aus).
+1. Überprüfen Sie Ihre Änderungen und klicken Sie auf **Beenden**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >Die besten Ergebnisse erzielen Sie, wenn Sie eine leere Marketo Engage-Liste verwenden.
-
-1. Markieren und kopieren Sie die Listen-ID am Ende der URL.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. Fügen Sie die soeben kopierte ID unter &quot;Mapping ID&quot;ein und klicken Sie auf **Nächste**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. Klicken **Beenden**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
