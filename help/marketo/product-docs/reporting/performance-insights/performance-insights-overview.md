@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Übersicht über Leistungseinblicke - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über Leistungseinblicke
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '231'
 ht-degree: 2%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 2%
 # Übersicht über Leistungseinblicke {#performance-insights-overview}
 
 Mit Marketo Performance Insights können Sie Ihren Kanalmix optimieren, um maximale Effektivität zu erzielen, und langfristige Trends erkennen, um konsistente Gewinnstrategien zu erkennen.
+
+>[!AVAILABILITY]
+>
+>Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
 
 Performance Insights lädt Daten aus (bis zu) den letzten 24 Monaten. Dazu gehören die aktuellen Jahresdaten sowie die des Vorjahres. Beispielsweise lädt MPI am 31. Januar 2019 Daten aus diesem Monat und jeden Monat ab 2018. Am 31. Dezember 2019 lädt MPI Daten aus jedem Monat der Jahre 2019 und 2018.
 
