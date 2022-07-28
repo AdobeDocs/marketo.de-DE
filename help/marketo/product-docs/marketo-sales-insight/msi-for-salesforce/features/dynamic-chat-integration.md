@@ -3,9 +3,9 @@ description: Dynamic Chat-Integration - Marketo-Dokumente - Produktdokumentation
 title: Dynamic Chat-Integration
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 5%
 
 ---
@@ -22,6 +22,8 @@ Erfahren Sie mehr über die Integration von Dynamic Chat mit Sales Insight.
 
 
 ## Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot; {#marketo-sales-insight-configuration-tab}
+
+Gehen Sie wie folgt vor, um die Dynamic Chat-Integration zu aktivieren.
 
 1. Melden Sie sich bei Ihrem Salesforce-Konto an, klicken Sie auf das Pluszeichen am Ende der Registerkartenleiste und klicken Sie auf **Marketo Sales Insight-Konfiguration**.
 
