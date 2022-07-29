@@ -2,7 +2,7 @@
 description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
+source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 2%
@@ -15,7 +15,7 @@ Es gibt _many_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispi
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie zunächst [einrichten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;} in Ihrem Adobe-Konto.
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie zunächst [einrichten](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} in Ihrem Adobe-Konto.
 
 ## Designer-Karten streamen {#stream-designer-cards}
 
