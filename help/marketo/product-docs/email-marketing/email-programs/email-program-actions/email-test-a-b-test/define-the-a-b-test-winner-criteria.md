@@ -3,10 +3,10 @@ unique-page-id: 2359545
 description: Definieren der A/B-Test-Gewinnerkriterien - Marketo Docs - Produktdokumentation
 title: Definieren der A/B-Test-Gewinnerkriterien
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '439'
+ht-degree: 2%
 
 ---
 
@@ -63,9 +63,9 @@ Wann [Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/em
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo erlaubt nur Trigger für Personen, die die E-Mail aus diesem E-Mail-Programm erhalten haben. Der Filter &quot;Wurde E-Mail gesendet&quot;muss nicht hinzugefügt werden.
+   >Marketo lässt nur Trigger/Filter für Personen zu, die die E-Mail aus diesem E-Mail-Programm erhalten haben. Daher ist es nicht erforderlich, einen Filter &quot;E-Mail gesendet&quot;hinzuzufügen. Achten Sie außerdem bei der Verwendung eines E-Mail-bezogenen Triggers/Filters darauf, &quot;ist vorhanden&quot;als Operator zu verwenden.
 
 1. Klicken **Schließen**.
 
