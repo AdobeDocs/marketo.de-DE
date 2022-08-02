@@ -2,9 +2,9 @@
 description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen von Sales Insight-Aktionen
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mi
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist derzeit auf begrenztem GA verfügbar. Wenden Sie sich an Ihren Customer Success Manager oder Ihre E-Mail `sales-insights(at)adobe(dot)com` , um Zugriff anzufordern.
+>Diese Funktion befindet sich derzeit in einem schrittweisen Rollout. Wenden Sie sich an Ihren Customer Success Manager oder Ihre E-Mail `sales-insights(at)adobe(dot)com` , um Zugriff anzufordern.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -77,7 +77,7 @@ Die folgenden Aktionen sind in der oberen Navigationsleiste verfügbar:
 
 * Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte Gruppen-E-Mails mit Ansicht-, Klick- und Antworttracking an alle Kontakte zu senden, die mit einem Konto/einer Gelegenheit verknüpft sind
    * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
+   * Umfasst E-Mail-Personalisierung, benutzerdefinierte Signatur und Anlagen
    * Vorlagenfreigabe und Berichte
    * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
    * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert
