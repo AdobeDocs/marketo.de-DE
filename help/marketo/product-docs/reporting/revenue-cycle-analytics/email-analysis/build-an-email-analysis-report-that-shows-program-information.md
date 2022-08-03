@@ -1,60 +1,59 @@
 ---
 unique-page-id: 2360409
-description: Erstellen Sie einen Bericht zur E-Mail-Analyse, der Programm-Informationen - Marketing-Dokumente - Produktdokumentation anzeigt.
-title: Erstellen eines Berichts zur E-Mail-Analyse mit Programm-Informationen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Erstellen Sie einen E-Mail-Analysebericht, der Informationen zum Programm - Marketo-Dokumente - Produktdokumentation anzeigt.
+title: Erstellen eines E-Mail-Analyseberichts, der Informationen zum Programm anzeigt
+exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
+# Erstellen eines E-Mail-Analyseberichts, der Informationen zum Programm anzeigt {#build-an-email-analysis-report-that-shows-program-information}
 
-# Erstellen Sie einen Bericht zur E-Mail-Analyse, der Programm-Informationen {#build-an-email-analysis-report-that-shows-program-information} anzeigt.
-
-Führen Sie folgende Schritte aus, um einen Bericht zur E-Mail-Analyse zu erstellen, der E-Mail-Informationen nach Programm-Kanälen gruppiert anzeigt.
+Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in dem E-Mail-Informationen nach Programmkanälen gruppiert angezeigt werden.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
 
-1. Starten Sie **Umsatz-Explorer**.
+1. Launch **Umsatz-Explorer**.
 
-   ![](assets/image2014-9-17-19-3a42-3a26.png)
+   ![](assets/report-that-shows-program-information-1.png)
 
-1. Klicken Sie auf **Neuer Bericht**.
+1. Klicken **Neu erstellen** und wählen Sie **Bericht**.
 
-   ![](assets/image2014-9-17-19-3a42-3a32.png)
+   ![](assets/report-that-shows-program-information-2.png)
 
-1. Wählen Sie den Bereich **E-Mail-Analyse** aus und klicken Sie auf **OK**.
+1. Auswählen **E-Mail-Analyse** Bereich und Klicken **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Suchen Sie den gelben Punkt **Gesendet (Woche)** und klicken Sie mit der rechten Maustaste darauf. Klicken Sie auf **Filter**.
+1. Suchen Sie die **Gesendet (Woche)** gelber Punkt und Rechtsklick. Klicken **Filter**.
 
    >[!NOTE]
    >
-   >Dadurch wird der Zeitrahmen des Berichts verkürzt.
+   >Dadurch wird der Zeitrahmen für den Bericht verkürzt.
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Markieren Sie **Aktuelle gesendete Woche** und klicken Sie auf **OK**.
+1. Überprüfen **Aktuelle gesendete Woche** und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Suchen und Dublette klicken Sie auf den gelben Punkt **Programm Kanal**.
+1. Doppelklicken Sie auf Suchen und **Programmkanal** gelber Punkt.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Suchen und Dublette klicken Sie auf den gelben Punkt **E-Mail-Name**.
+1. Doppelklicken Sie auf Suchen und **Email Name** gelber Punkt.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Klicken Sie auf die blauen Punkte **Gesendet**, **Geöffnet** und **Klicken Sie auf**.
+1. Doppelklicken Sie auf Suchen und **Gesendet**, **Geöffnet** und **Angeklickt** blaue Punkte.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   Gute Arbeit! Sie sollten einen Bericht haben, der in etwa so aussieht:
+   Großartig gemacht! Sie sollten einen Bericht haben, der in etwa so aussieht:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)

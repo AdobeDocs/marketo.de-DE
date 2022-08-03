@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **19. August 2022**
 ## API-Verbesserungen {#api-enhancements}
 
 * **Neue Filterfunktionen für die Bulk Program Member Extract API**: Filtern Sie nach Status der Programmmitgliedschaft, updatedAt, Cadence oder erschöpftem Inhalt, um den extrahierten Datensatz zu verfeinern.
-
-* **Anzeigen von reinen API-Benutzern in Fehlerbenachrichtigungen für Webdienste**: Ermitteln Sie, welcher Nur-API-Benutzer einen Webdienst-Fehler generiert hat, um die Fehlerbehebung zu verbessern.
 
 ## Ankündigungen {#announcements}
 
