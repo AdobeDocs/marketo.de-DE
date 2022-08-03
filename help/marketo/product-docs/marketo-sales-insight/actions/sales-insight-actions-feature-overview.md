@@ -2,9 +2,9 @@
 description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen von Sales Insight-Aktionen
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
+source-git-commit: da20d39c53f0e1731506585c6be886b5c509e81b
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1356'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mi
 >Diese Funktion befindet sich derzeit in einem schrittweisen Rollout. Wenden Sie sich an Ihren Customer Success Manager oder Ihre E-Mail `sales-insights(at)adobe(dot)com` , um Zugriff anzufordern.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
+
+>[!NOTE]
+>
+>Eine Videoübersicht zu Sales Insight-Aktionen finden Sie unter [Hier klicken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
 
 ## Lead-Layout und Kontaktlayout {#lead-layout-and-contact-layout}
 
