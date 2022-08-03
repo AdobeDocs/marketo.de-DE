@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Unten finden Sie alle Funktionen der Version vom 22. August. Überprüfen Sie Ih
 >
 >Mit einem Stern gekennzeichnete Funktionen (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-Die folgenden Funktionen werden ab der Veröffentlichung auf **19. August 2022**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden (sofern nicht anders angegeben). Die Veröffentlichungsfunktionen und das genaue Datum können sich ändern.
+Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden (sofern nicht anders angegeben). Die Veröffentlichungsfunktionen und das genaue Datum können sich ändern.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
@@ -64,8 +64,14 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **19. August 2022**
 
 * **Neue Filterfunktionen für die Bulk Program Member Extract API**: Filtern Sie nach Status der Programmmitgliedschaft, updatedAt, Cadence oder erschöpftem Inhalt, um den extrahierten Datensatz zu verfeinern.
 
+## Sales Insight {#sales-insight}
+
+![(Stern)](assets/yellow-star.png)
+
+* **Integration von Sales Insight mit Dynamic Chat**: Zeigen Sie Aktivitäten aus dem dynamischen Chat im Bereich Sales Insight an und nutzen Sie diesen neuen Datenpunkt für Ihre Werbemaßnahmen.
+
 ## Ankündigungen {#announcements}
 
 **_Webinar zur Produktversion_**
 
-Nehmen Sie am 24. August 2022 um 9:00 Uhr PT / 23:00 Uhr ET teil, um eine [Live-Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wird von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle neuesten Produktinnovationen verwenden.
+Treten Sie uns am 24. August 2022 um 9:00 Uhr PT / 23:00 Uhr ET für eine [Live-Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wird von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle neuesten Produktinnovationen verwenden.

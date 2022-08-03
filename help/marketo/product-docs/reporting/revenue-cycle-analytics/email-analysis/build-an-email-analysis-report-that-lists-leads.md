@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: Erstellen eines E-Mail-Analyseberichts mit Leads - Marketo Docs - Produktdokumentation
 title: Erstellen eines E-Mail-Analyseberichts, der Leads auflistet
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Erstellen eines E-Mail-Analyseberichts, der Leads auflistet {#build-an-email-analysis-report-that-lists-leads}
 
+Führen Sie die folgenden Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in dem alle Leads angezeigt werden, die an eine bestimmte E-Mail gesendet wurden. Dieser Bericht enthält auch die Statistiken Klicks und Öffnungen.
+
 >[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
-
-Führen Sie die folgenden Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in dem alle Leads angezeigt werden, die an eine bestimmte E-Mail gesendet wurden. Dieser Bericht enthält auch die Statistiken Klicks und Öffnungen.
 
 >[!NOTE]
 >
