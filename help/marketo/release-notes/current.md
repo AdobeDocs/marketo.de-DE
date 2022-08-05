@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,8 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**
 
 * **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
-   * Details zu &quot;Bildern und Dateien&quot;
    * Details zum Ausschnitt
+   * Details zu &quot;Bildern und Dateien&quot;
 
 >[!NOTE]
 >
