@@ -1,27 +1,26 @@
 ---
 unique-page-id: 10093690
-description: Bearbeiten und Löschen eines Marketo-benutzerdefinierten Objekts - Marketo Docs - Produktdokumentation
+description: Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts - Marketo Docs - Produktdokumentation
 title: Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8f02503736ba1def4b2f4df79118eeb352b212a0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Bearbeiten und Löschen eines Marketo-benutzerdefinierten Objekts {#edit-and-delete-a-marketo-custom-object}
+# Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
->Sie können ein Verknüpfungs- oder Deduplizierungsfeld nicht erstellen, bearbeiten oder löschen, nachdem das benutzerdefinierte Objekt genehmigt wurde.
+>Sobald das benutzerdefinierte Objekt genehmigt wurde, können Sie keine Link- oder Deduplizierungsfelder erstellen, bearbeiten oder löschen.
 
 ## Bearbeiten eines benutzerdefinierten Objekts {#edit-a-custom-object}
 
 Verwenden Sie das Menü &quot;Aktionen für benutzerdefinierte Objekte&quot;, um ein benutzerdefiniertes Objekt zu bearbeiten oder zu löschen.
 
-1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
+1. Klicken **Admin** und in **Datenbankverwaltung** auswählen **Benutzerdefinierte Marketo-Objekte**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -29,56 +28,52 @@ Verwenden Sie das Menü &quot;Aktionen für benutzerdefinierte Objekte&quot;, um
 
    ![](assets/image2016-1-18-13-3a33-3a11.png)
 
-1. Klicken Sie auf die Registerkarte **Benutzerspezifische Objektaktionen** und dann auf **Objekt bearbeiten**.
+1. Klicken Sie auf **Benutzerdefinierte Objektaktionen** Registerkarte und klicken Sie auf **Objekt bearbeiten**.
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
-   >[!NOTE]
-   >
-   >&quot;Objekt bearbeiten&quot;zeigt dieselben Felder wie &quot;Objekt erstellen&quot;, mit Ausnahme des API-Namens, der nicht bearbeitet werden kann.
+1. Nehmen Sie die gewünschten Änderungen vor. Ziehen Sie den Schieberegler darüber, wenn Sie das Objekt auf der Seite &quot;Lead-Detail&quot;anzeigen möchten. Klicken **Speichern**.
 
-1. Nehmen Sie alle Änderungen vor. Ziehen Sie den Schieberegler, wenn Sie das Objekt auf der Seite &quot;Interessentendetails&quot;anzeigen möchten. Klicken Sie auf **Speichern**.
+   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-   ![](assets/image2015-9-15-16-3a48-3a39.png)
-
-1. Achten Sie darauf, [das bearbeitete Objekt](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md) zu genehmigen.
+1. Stellen Sie sicher, dass Sie [das bearbeitete Objekt](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Löschen eines benutzerdefinierten Objekts {#delete-a-custom-object}
 
-Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vorsichtig sein. Benutzerdefinierte Objekte können mit anderen Objekten oder mit intelligenten Listen verbunden werden. Marketo warnt Sie also, bevor Sie auf **Löschen** klicken.
+Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vorsichtig sein. Benutzerdefinierte Objekte können mit anderen Objekten oder mit Smart-Listen verbunden werden. Marketo warnt Sie also, bevor Sie auf **Löschen**.
 
 >[!CAUTION]
 >
 >Sie können ein benutzerdefiniertes Objekt nicht wiederherstellen, nachdem Sie es gelöscht haben.
 
-1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
+1. Klicken **Admin** und in **Datenbankverwaltung** auswählen **Benutzerdefinierte Marketo-Objekte**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
-1. Wählen Sie das zu löschende Objekt aus.
+1. Wählen Sie das Objekt aus, das Sie löschen möchten.
 
    ![](assets/image2015-9-23-16-3a29-3a5.png)
 
-1. Klicken Sie auf **Benutzerspezifische Objektaktionen** und wählen Sie **Objekt** löschen.
+1. Klicken **Benutzerdefinierte Objektaktionen** und wählen Sie **Objekt löschen**.
 
    ![](assets/image2015-9-23-11-3a39-3a5.png)
 
    >[!TIP]
    >
-   >Sie können auch mit der rechten Maustaste auf das Objekt klicken und **Objekt löschen** auswählen.
+   >Sie können auch mit der rechten Maustaste auf das Objekt klicken und **Objekt löschen**.
 
-1. Wenn sich das benutzerdefinierte Objekt im Entwurfsformular befindet und noch nicht genehmigt wurde, erhalten Sie diese Warnung. Wenn Sie sicher sind, klicken Sie auf **Löschen**.
+1. Wenn sich das benutzerdefinierte Objekt im Entwurfsformular befindet, das noch nicht genehmigt wurde, erhalten Sie diese Warnung. Wenn Sie sich sicher sind, klicken Sie auf **Löschen**.
 
    ![](assets/image2015-9-23-16-3a31-3a2.png)
 
-1. Wenn das benutzerdefinierte Objekt bereits genehmigt wurde, besteht ein höheres Risiko, wenn Sie es löschen. Sie werden also diese stärkere Warnung bekommen. Geben Sie **Ich verstehe** ein, aktivieren Sie das Kontrollkästchen **Rückgängig können nicht möglich** und klicken Sie auf **Löschen**.
+1. Wenn das benutzerdefinierte Objekt bereits genehmigt wurde, besteht beim Löschen ein höheres Risiko. Sie werden also diese stärkere Warnung bekommen. Eingabe **Ich verstehe**, überprüfen Sie die **Rückgängig nicht möglich** und klicken Sie auf **Löschen**.
 
    ![](assets/image2016-1-15-9-3a49-3a38.png)
 
    >[!NOTE]
    >
-   >Wenn das benutzerdefinierte Objekt mit einem Intermediarobjekt verknüpft ist, müssen Sie das Intermediarobjekt zuerst löschen.
+   >Wenn das benutzerdefinierte Objekt mit einem zwischengeschalteten Objekt verknüpft ist, müssen Sie das intermediäre Objekt zuerst löschen.
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefiniertes Objekt genehmigen](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>[Genehmigen eines benutzerdefinierten Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
