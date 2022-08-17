@@ -1,10 +1,8 @@
 ---
 description: Chatbot-Verhalten - Marketo-Dokumente - Produktdokumentation
 title: Chatbot-Verhalten
-hide: true
-hidefromtoc: true
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 97b1a00b8ff1dc29a92687a70c71093fc8c04267
+source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -54,9 +52,9 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1</p>
       </td>
       <td>
-        <p>D1 sollte auf V1 aufgelöst werden </p>
+        <p>D1 wird in V1 aufgelöst </p>
       </td>
-      <td>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</td>
+      <td>Die Anzahl der Trigger für D1 wird um 1 erhöht</td>
     </tr>
     <tr>
       <td>
@@ -65,11 +63,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte auf V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte D1 erneut aufgelöst werden</p>
+        <p>D1 wird in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird D1 erneut aufgelöst</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Nach der Aktualisierung keine Änderung am D1-Trigger oder an der Interaktionsanzahl</p>
       </td>
     </tr>
@@ -79,9 +77,9 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1 zum ersten Mal</p>
         <p>V1 klickt auf D1, reagiert jedoch nicht</p>
       </td>
-      <td>D1 sollte auf V1 aufgelöst werden</td>
+      <td>D1 wird in V1 aufgelöst</td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Keine Änderung an der Anzahl der Interaktionen in D1</p>
       </td>
     </tr>
@@ -91,10 +89,10 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1 zum ersten Mal</p>
         <p>V1 klickt auf D1 und liefert die erste Antwort</p>
       </td>
-      <td>D1 sollte auf V1 aufgelöst werden</td>
+      <td>D1 wird in V1 aufgelöst</td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
-        <p>Die Interaktionsanzahl für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
+        <p>Die Interaktionsanzahl für D1 wird um 1 erhöht</p>
       </td>
     </tr>
     <tr>
@@ -105,11 +103,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte auf V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte D1 fortgesetzt werden</p>
+        <p>D1 wird in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird D1 fortgesetzt</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger und Interaktionen für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger und Interaktionen für D1 werden um 1 erhöht</p>
         <p>Nach der Aktualisierung wird keine Anzahl geändert</p>
       </td>
     </tr>
@@ -121,12 +119,12 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte auf V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte kein Dialogfeld oder nächstes Dialogfeld für V1 aufgelöst werden.</p>
+        <p>D1 wird in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird kein Dialogfeld oder nächstes Dialogfeld für V1 aufgelöst</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger, Interaktionen und Abgeschlossene Anzahl für D1 sollte um 1 erhöht werden.</p>
-        <p>Nach der Aktualisierung sollte kein Dialogfeld oder nächstes Dialogfeld aufgelöst werden</p>
+        <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
+        <p>Nach der Aktualisierung wird kein Dialogfeld oder nächstes Dialogfeld aufgelöst</p>
       </td>
     </tr>
     <tr>
@@ -137,11 +135,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP2</p>
       </td>
       <td>
-        <p>Seitenbesuch WP1, D1 sollte auf V1 aufgelöst werden</p>
-        <p>Seitenbesuch WP2, D1 sollte auf V2 aufgelöst werden</p>
+        <p>Seitenbesuch WP1, D1 wird in V1 aufgelöst</p>
+        <p>Seitenbesuch WP2, D1 wird auf V2 aufgelöst</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>In WP2 keine Änderung an der Anzahl der D1-Trigger</p>
       </td>
     </tr>
@@ -153,11 +151,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP2</p>
       </td>
       <td>
-        <p>Seitenbesuch WP1, D1 sollte auf V1 aufgelöst werden</p>
-        <p>Seitenbesuch WP2, D1 sollte auf V1 aufgelöst werden</p>
+        <p>Seitenbesuch WP1, D1 wird in V1 aufgelöst</p>
+        <p>Seitenbesuch WP2, D1 wird in V1 aufgelöst</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger und Interaktionen für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger und Interaktionen für D1 werden um 1 erhöht</p>
         <p>In WP2 wird keine Anzahl geändert</p>
       </td>
     </tr>
@@ -170,11 +168,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP2</p>
       </td>
       <td>
-        <p>D1 sollte auf WP1 aufgelöst werden</p>
-        <p>D1 sollte weiterhin V1 auf WP2 verwenden</p>
+        <p>D1 wird auf WP1 aufgelöst</p>
+        <p>D1 wird weiterhin V1 auf WP2</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger und Interaktionen für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger und Interaktionen für D1 werden um 1 erhöht</p>
         <p>Keine Änderung an D2-Trigger oder Interaktionsanzahl</p>
       </td>
     </tr>
@@ -186,11 +184,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 klickt auf D1, reagiert jedoch nicht </p>
         <p>V1 besucht WP2</p>
       </td>
-      <td>D1 sollte auf WP1 aufgelöst werden<br/>
-      D2 sollte auf WP2 aufgelöst werden</td>
+      <td>D1 wird auf WP1 aufgelöst<br/>
+      D2 wird auf WP2 aufgelöst</td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
-        <p>Die Anzahl der Trigger für D2 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
+        <p>Die Anzahl der Trigger für D2 wird um 1 erhöht</p>
       </td>
     </tr>
     <tr>
@@ -201,10 +199,10 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 klickt auf D1 und schließt D1 ab</p>
         <p>V1 besucht WP2</p>
       </td>
-      <td>D1 sollte bei WP1 und nach der Fertigstellung aufgelöst werden<br/>D2 sollte auf WP2 aufgelöst werden</td>
+      <td>D1 wird auf WP1 und nach der Fertigstellung aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
       <td>
-        <p>Die Anzahl der Trigger, Interaktionen und Abgeschlossene Anzahl für D1 sollte um 1 erhöht werden.</p>
-        <p>Die Anzahl der Trigger für D2 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
+        <p>Die Anzahl der Trigger für D2 wird um 1 erhöht</p>
       </td>
     </tr>
     <tr>
@@ -216,10 +214,10 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP2</p>
         <p>V1-Klicks auf D2 liefern die erste Antwort </p>
       </td>
-      <td>D1 sollte bei WP1 und nach der Fertigstellung aufgelöst werden<br/>D2 sollte auf WP2 aufgelöst werden</td>
+      <td>D1 wird auf WP1 und nach der Fertigstellung aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
       <td>
-        <p>Die Anzahl der Trigger, Interaktionen und Abgeschlossene Anzahl für D1 sollte um 1 erhöht werden.</p>
-        <p>Trigger und Interaktionsanzahl für D2 sollten um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
+        <p>Trigger und Interaktionsanzahl für D2 werden um 1 erhöht</p>
       </td>
     </tr>
     <tr>
@@ -229,9 +227,9 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 klickt auf D1, reagiert jedoch nicht</p>
         <p>D1 ist unveröffentlicht</p>
       </td>
-      <td>D1 sollte auf V1 aufgelöst werden</td>
+      <td>D1 wird in V1 aufgelöst</td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Keine Änderung an der Anzahl der D1-Interaktionen</p>
       </td>
     </tr>
@@ -244,11 +242,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte zum ersten Mal in V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte kein Dialogfeld aufgelöst werden</p>
+        <p>D1 wird zum ersten Mal in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird kein Dialogfeld aufgelöst</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Keine Änderung an der Anzahl der D1-Interaktionen</p>
         <p>Nach der Aktualisierung keine Änderung am D1-Trigger oder an der Interaktionsanzahl</p>
       </td>
@@ -262,12 +260,12 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte auf V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte D1 fortgesetzt werden</p>
+        <p>D1 wird in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird D1 fortgesetzt</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
-        <p>Die Anzahl der Interaktionen mit D1 sollte um 1 erhöht werden.</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
+        <p>Die Anzahl der Interaktionen mit D1 wird um 1 erhöht</p>
         <p>Nach der Aktualisierung wird D1 weiter verwendet und ändert sich nicht mehr in die Trigger- oder Interaktionsanzahl.</p>
       </td>
     </tr>
@@ -280,11 +278,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte zum ersten Mal in V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte das Dialogfeld mit neuen Änderungen aufgelöst werden</p>
+        <p>D1 wird zum ersten Mal in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird das Dialogfeld mit neuen Änderungen aufgelöst</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Nach der Aktualisierung, da D1 neue Änderungen enthält, aber keine weitere Änderung an der Anzahl der Trigger</p>
       </td>
     </tr>
@@ -297,12 +295,12 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte zum ersten Mal in V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte das Dialogfeld mit alten Änderungen fortgesetzt werden</p>
+        <p>D1 wird zum ersten Mal in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird das Dialogfeld mit alten Änderungen fortgesetzt</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
-        <p>Die Interaktionsanzahl für D1 sollte um 1 erhöht werden </p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
+        <p>Die Interaktionsanzahl für D1 wird um 1 erhöht </p>
         <p>Nach der Aktualisierung wird die alte D1 angezeigt, sodass keine Änderung an der Anzahl der Trigger vorgenommen wird.</p>
       </td>
     </tr>
@@ -316,12 +314,12 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte zum ersten Mal in V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte D2 auf V1 aufgelöst werden</p>
+        <p>D1 wird zum ersten Mal in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird D2 in V1 aufgelöst</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
-        <p>Nach der Aktualisierung sollte die Anzahl der Trigger für D2 um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
+        <p>Nach der Aktualisierung wird die Anzahl der Trigger für D2 um 1 erhöht</p>
       </td>
     </tr>
     <tr>
@@ -335,12 +333,12 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 aktualisiert WP1</p>
       </td>
       <td>
-        <p>D1 sollte zum ersten Mal in V1 aufgelöst werden</p>
-        <p>Nach der Aktualisierung sollte D2 auf V1 aufgelöst werden</p>
-        <p>Nach Abschluss von D1 und D2 sollte D2 unabhängig von den Änderungen oder der erneuten Veröffentlichung von D1 nicht mehr in V1 angezeigt werden.</p>
+        <p>D1 wird zum ersten Mal in V1 aufgelöst</p>
+        <p>Nach der Aktualisierung wird D2 in V1 aufgelöst</p>
+        <p>Nach Abschluss von D1 und D2 wird D2 unabhängig von den Änderungen oder der erneuten Veröffentlichung von D1 nicht mehr in V1 angezeigt.</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger, Interaktionen und Abgeschlossene Anzahl für D1 sollte um 1 erhöht werden.</p>
+        <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
         <p>Nach Abschluss von D2 aktualisieren, keine Maßnahmen erforderlich</p>
       </td>
     </tr>
@@ -350,10 +348,10 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1</p>
       </td>
       <td>
-        <p>D1 sollte aufgelöst werden, wird jedoch nicht auf V1 ausgelöst</p>
-        <p>Nach 30 Sekunden sollte D1 auf V1 angezeigt/ausgelöst werden</p>
+        <p>D1 wird zwar aufgelöst, aber nicht auf V1 ausgelöst</p>
+        <p>Nach 30 Sekunden wird D1 angezeigt/auf V1 ausgelöst</p>
       </td>
-      <td>Die Anzahl der Trigger für D1 sollte nur nach mehr als 30 Sekunden, die auf einer Webseite verbracht wurden, um 1 erhöht werden</td>
+      <td>Die Anzahl der Trigger für D1 wird nur nach mehr als 30 Sekunden, die auf einer Webseite verbracht werden, um 1 erhöht</td>
     </tr>
     <tr>
       <td>
@@ -361,10 +359,10 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1, WP2</p>
       </td>
       <td>
-        <p>D1 sollte aufgelöst werden, wird jedoch nicht auf V1 ausgelöst</p>
-        <p>Nach 30 Sekunden sollte D1 auf V1 angezeigt/ausgelöst werden</p>
+        <p>D1 wird zwar aufgelöst, aber nicht auf V1 ausgelöst</p>
+        <p>Nach 30 Sekunden wird D1 angezeigt/auf V1 ausgelöst</p>
       </td>
-      <td>Die Anzahl der Trigger für D1 sollte nur nach mehr als 30 Sekunden, die auf einer Webseite verbracht wurden, um 1 erhöht werden</td>
+      <td>Die Anzahl der Trigger für D1 wird nur nach mehr als 30 Sekunden, die auf einer Webseite verbracht werden, um 1 erhöht</td>
     </tr>
     <tr>
       <td>
@@ -372,10 +370,10 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1</p>
       </td>
       <td>
-        <p>D1 sollte aufgelöst werden, wird jedoch nicht auf V1 ausgelöst</p>
-        <p>Nach einem 50%igen Bildlauf sollte D1 auf V1 angezeigt/ausgelöst werden</p>
+        <p>D1 wird zwar aufgelöst, aber nicht auf V1 ausgelöst</p>
+        <p>Nach 50 % Bildlauf wird D1 angezeigt/ausgelöst auf V1</p>
       </td>
-      <td>Die Anzahl der Trigger für D1 sollte nur nach 50 % Bildlauf um 1 erhöht werden</td>
+      <td>Die Anzahl der Trigger für D1 wird erst nach 50 % Bildlauf um 1 erhöht</td>
     </tr>
     <tr>
       <td>
@@ -384,11 +382,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1, nachdem V1 WP2 nach 10 Sekunden besucht hat, besucht V1 WP1</p>
       </td>
       <td>
-        <p>Auf WP1 sollte D1 aufgelöst werden, wird jedoch nicht auf V1 ausgelöst</p>
-        <p>Auf WP2 sollte D2 aufgelöst werden, wird jedoch nicht auf V1 ausgelöst</p>
-        <p>Auf WP1 sollte D1 aufgelöst und nach 20 Sekunden sollte D1 auf V1 ausgelöst werden</p>
+        <p>Auf WP1 wird D1 zwar aufgelöst, aber nicht auf V1 ausgelöst</p>
+        <p>Auf WP2 wird D2 zwar aufgelöst, aber nicht auf V1 ausgelöst</p>
+        <p>Auf WP1 wird D1 aufgelöst und nach 20 Sekunden wird D1 auf V1 ausgelöst</p>
       </td>
-      <td>Die Anzahl der Trigger für D1 sollte nur nach 30 Sekunden um 1 erhöht werden</td>
+      <td>Die Anzahl der Trigger für D1 wird erst nach 30 Sekunden um 1 erhöht</td>
     </tr>
     <tr>
       <td>
@@ -397,11 +395,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 schließt WP1 und kehrt 2 Tage später zu WP1 zurück</p>
       </td>
       <td>
-        <p>D1 sollte V1 automatisch angezeigt werden, da sie die Trigger-Kriterien bereits während der vorherigen Sitzung erfüllt haben</p>
-        <p>Dieselbe Logik sollte für "Besuchszeit pro Seite"und "Seitenbildprozentsatz"gelten</p>
+        <p>D1 wird V1 automatisch angezeigt, da sie die Trigger-Kriterien während der vorherigen Sitzung bereits erfüllt haben</p>
+        <p>Dasselbe gilt für "Besuchszeit pro Seite"und "Prozentsatz für Seitenscrollvorgänge"</p>
       </td>
       <td>
-        <p>Die Anzahl der Trigger für D1 sollte um 1 erhöht werden</p>
+        <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Nach der Rückkehr keine Maßnahmen erforderlich</p>
       </td>
     </tr>
