@@ -4,9 +4,9 @@ title: Einrichten von reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Text: Beschreiben Sie v3 : Die folgenden Schritte werden außerhalb von Marketo 
 
 1. Melden Sie sich mit einem Google-Konto an/melden Sie sich an.
 
-1. Klicken Sie auf die Schaltfläche Erstellen (+-Zeichen) , um einen neuen Schlüssel zu erstellen.
+1. Klicken Sie auf die Schaltfläche Erstellen (+-Zeichen), um einen neuen Schlüssel zu erstellen.
 
 1. Erstellen Sie einen Titel, der angibt, welcher Schlüssel zum Marketo Engage verwendet werden soll.
 
@@ -43,7 +43,7 @@ Text: Beschreiben Sie v3 : Die folgenden Schritte werden außerhalb von Marketo 
 
 >[!NOTE]
 >
->Halten Sie den Site-Schlüssel und den geheimen Schlüssel für die Konfiguration von Marketo Engage bereit.
+>Halten Sie den Site-Schlüssel und den geheimen Schlüssel für die Marketo Engage-Konfiguration bereit.
 
 ## CAPTCHA in Marketo Engage einrichten {#setting-up-captcha-in-marketo-engage}
 
