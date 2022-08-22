@@ -1,36 +1,34 @@
 ---
 unique-page-id: 1147021
-description: Eigentümer ändern - Marketo Docs - Produktdokumentation
+description: Inhaber ändern - Marketo Docs - Produktdokumentation
 title: Eigentümer ändern
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 44c134811242b4136a3137cdd60e60edeb838c8c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '170'
+ht-degree: 2%
 
 ---
 
 # Eigentümer ändern {#change-owner}
 
-Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewiesen sind, können Sie diese mit diesem Flussschritt einem anderen Eigentümer erneut zuweisen.
+Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewiesen sind, können Sie diesen Flussschritt verwenden, um sie einem anderen Eigentümer erneut zuzuweisen.
 
 ![](assets/image2014-9-22-15-3a1-3a3.png)
 
 **Nutzung**
 
-1. Wählen Sie einfach den Inhaber oder die Interessentenwarteschlange aus, zu der Sie wechseln möchten!
+1. Wählen Sie einfach den Eigentümer oder die Lead-Warteschlange aus, in die Sie wechseln möchten.
 
    ![](assets/image2014-9-22-15-3a1-3a6.png)
 
    >[!CAUTION]
    >
-   >Salesforce lässt die Zuweisung von Kontakten zu Interessentenwarteschlangen nicht zu. Für einen Datensatz, der ein SFDC-Kontakt ist:
+   >Salesforce lässt die Zuweisung von Kontakten zu Lead-Warteschlangen nicht zu. Für einen Datensatz, der ein SFDC-Kontakt ist:
    >
-   >1. Marketo erstellt einen Duplikat-Lead **nur**, wenn der Kontakt mit Salesforce synchronisiert wird. Anders ausgedrückt: Wenn Sie den Schritt **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** mit `AssignTo=<a lead queue>` verwenden, erstellt Marketo einen Duplikat-Lead in Salesforce und weist ihn der Interessentenwarteschlange zu.
-      >
-      >
-   1. Wenn Sie versuchen, den Flussschritt **Ändern des Inhabers** für einen Kontakt zu verwenden, wird in Salesforce kein Duplikat erstellt.
+   >1. Marketo erstellt ein doppeltes Lead **only** wenn der Kontakt mit Salesforce synchronisiert wird. Mit anderen Worten, wenn Sie die **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** Flussschritt mit `AssignTo=<a lead queue>`, erstellt Marketo einen doppelten Lead in Salesforce und weist ihn der Lead-Warteschlange zu.
+   >
+   >1. Wenn Sie **Inhaber ändern** Flussschritt bei einem Kontakt erstellt Marketo in Salesforce ein doppeltes Lead. Um dies zu vermeiden, verwenden Sie einen Filter für das Feld &quot;SFDC-Typ&quot;, der die Aktion auf Leads beschränkt.
 
 
    >[!NOTE]
