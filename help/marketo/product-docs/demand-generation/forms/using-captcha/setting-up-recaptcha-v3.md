@@ -4,7 +4,7 @@ title: Einrichten von reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Einrichten von reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-reCAPTCHA v3 ist ein reibungsloses Erlebnis, bei dem Formularübermittlungen basierend darauf bewertet werden, wie misstrauisch sie sind, ohne Text-, Bild- oder Schaltflächen-Herausforderungen zu verwenden. [Weitere Infos](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+ReCAPTCHA v3 ist ein reibungsloses Erlebnis, bei dem Formularübermittlungen basierend darauf bewertet werden, wie misstrauisch sie sind, ohne Text-, Bild- oder Schaltflächen-Herausforderungen zu verwenden. [Weitere Infos](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
 
 ## Abrufen Ihres Rechenzentrums und Ihrer Munchkin-ID {#retrieve-your-data-center-and-munchkin-id}
 
@@ -61,9 +61,9 @@ Die folgenden Schritte werden außerhalb von Marketo ausgeführt.
 
 1. Klicken **Einsenden**.
 
->[!NOTE]
->
->Halten Sie den Site-Schlüssel und den geheimen Schlüssel für die Marketo Engage-Konfiguration bereit.
+   >[!NOTE]
+   >
+   >Halten Sie den Site-Schlüssel und den geheimen Schlüssel für die Marketo Engage-Konfiguration bereit.
 
 ## CAPTCHA in Marketo Engage einrichten {#setting-up-captcha-in-marketo-engage}
 
