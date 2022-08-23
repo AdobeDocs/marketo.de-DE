@@ -4,20 +4,36 @@ title: Einrichten von reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
+source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Einrichten von reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-Intro Text
+reCAPTCHA v3 ist ein reibungsloses Erlebnis, bei dem Formularübermittlungen basierend darauf bewertet werden, wie misstrauisch sie sind, ohne Text-, Bild- oder Schaltflächen-Herausforderungen zu verwenden. [Weitere Infos](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+
+## Abrufen Ihres Rechenzentrums und Ihrer Munchkin-ID {#retrieve-your-data-center-and-munchkin-id}
+
+Für Schritt 6 im unten stehenden Abschnitt zur Einrichtung von reCAPTCHA v3 benötigen Sie das Data Center und die Munchkin-ID Ihres Marketo Engage-Abonnements. So findet man sie.
+
+1. Klicken Sie in Marketo auf **Admin**.
+
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. Klicken **Mein Konto**.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
+
+1. Scrollen Sie nach unten zu Support-Informationen.
+
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 ## Erstmaliges reCAPTCHA v3-Setup {#initial-recaptcha-v3-setup}
 
-Text: Beschreiben Sie v3 : Die folgenden Schritte werden außerhalb von Marketo Engage ausgeführt.
+Die folgenden Schritte werden außerhalb von Marketo ausgeführt.
 
 1. Navigieren Sie zu [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;} und klicken Sie auf die Admin Console v3.
 
@@ -29,11 +45,15 @@ Text: Beschreiben Sie v3 : Die folgenden Schritte werden außerhalb von Marketo 
 
 1. Typ auswählen **reCAPTCHA v3**. Marketo Engage unterstützt reCAPTCHA v2 derzeit nicht.
 
-1. Fügen Sie alle Domänen hinzu, die das Marketo Engage-Abonnement verwendet. Domänen, die hier nicht festgelegt sind, geben Fehler in Formularen zurück, bei denen reCAPTCHA aktiviert ist.
+1. Fügen Sie alle Domänen hinzu, die das Marketo Engage-Abonnement verwendet. Domänen, die hier nicht festgelegt sind, geben Fehler in Formularen zurück, bei denen reCAPTCHA aktiviert ist. Denken Sie daran, die Wörter &quot;datacenter&quot;und &quot;munchkinID&quot;durch die [Daten in Ihrem Abonnement](#retrieve-your-data-center-and-munchkin-id).
 
-   * 123-ABC-456.mktoweb.com
-   * app-pod.marketo.com
+   * app-datacenter.marketo.com
+   * munchkinID.mktoweb.com
    * jede Landingpage-Domäne und jeden im Abonnement konfigurierten Alias
+
+   >[!NOTE]
+   >
+   >Wenn das Rechenzentrum Ihres Kontos beispielsweise &quot;sjst&quot;ist, lautet die Domäne, die Sie vom Zulassungsliste erhalten würden `app-sjst.marketo.com`. Wenn Ihre Munchkin-ID 123-ABC-789 lautet, lautet die Domäne, die Sie in Zulassungsliste haben. `123-ABC-789.mktoweb.com`.
 
 1. Legen Sie einen Eigentümer und eine zusätzliche E-Mail-Adresse fest, die Warnhinweise zu diesem Dienst erhalten sollen.
 
@@ -49,20 +69,20 @@ Text: Beschreiben Sie v3 : Die folgenden Schritte werden außerhalb von Marketo 
 
 1. Klicken Sie in Marketo auf **Admin**.
 
-   ![](assets/setting-up-recaptcha-v3-1.png)
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. Auswählen **CAPTCHA** im Baum.
 
-   ![](assets/setting-up-recaptcha-v3-2.png)
+   ![](assets/setting-up-recaptcha-v3-5.png)
 
 1. Klicken **Bearbeiten** in den CAPTCHA-Einstellungen.
 
-   ![](assets/setting-up-recaptcha-v3-3.png)
+   ![](assets/setting-up-recaptcha-v3-6.png)
 
 1. Klicken Sie auf die Dropdown-Liste CAPTCHA und wählen Sie reCAPTCHA v3 aus.
 
-   ![](assets/setting-up-recaptcha-v3-4.png)
+   ![](assets/setting-up-recaptcha-v3-7.png)
 
 1. Geben Sie den geheimen Schlüssel und den Site-Schlüssel ein. Klicken **Speichern** wann geschehen.
 
-   ![](assets/setting-up-recaptcha-v3-5.png)
+   ![](assets/setting-up-recaptcha-v3-8.png)
