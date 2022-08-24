@@ -2,9 +2,9 @@
 description: Dialogfeld-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Dialogübersicht
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Die [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-
 
 ![](assets/dialogue-overview-1.png)
 
-## Stream-Designer {#stream-designer}
+## Stream Designer {#stream-designer}
 
 Die [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)Im Abschnitt {target=&quot;_blank&quot;} eines Dialogfelds erstellen Sie die Unterhaltung, die Sie mit Ihren Website-Besuchern führen möchten.
 
@@ -30,3 +30,15 @@ Die [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/
 Die [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)Im Abschnitt {target=&quot;_blank&quot;} eines Dialogfelds können Sie Metriken zur Leistung Ihres Dialogfelds anzeigen.
 
 ![](assets/dialogue-overview-3.png)
+
+## Alle Dialogfelder deaktivieren/aktivieren {#disable-enable-all-dialogues}
+
+Sie können alle veröffentlichten Dialogfelder gleichzeitig deaktivieren (und wieder aktivieren).
+
+1. Klicken Sie im dynamischen Chat auf die **Konfiguration** Registerkarte.
+
+   ![](assets/dialogue-overview-4.png)
+
+1. Umschalten zwischen **Chat aktiviert** schalten Sie aus, um alle Dialogfelder zu deaktivieren (und wieder zu aktivieren).
+
+   ![](assets/dialogue-overview-5.png)
