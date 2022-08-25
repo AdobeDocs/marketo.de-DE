@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Einrichtungsschritte - Marketo-Dokumente - Produktdokumentation
 title: Einrichtungsschritte
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ Sie haben jetzt alle Informationen, die Sie benötigen, um Ihre Anfrage an IT zu
 
 Sobald Sie alle erforderlichen Informationen gesammelt haben, können Sie eine Anfrage an die IT senden. Sie können den unten stehenden Text als Vorlage verwenden und den fett gedruckten Text durch Ihre eigenen Informationen ersetzen.
 
-[Link zu diesem Artikel einschließen](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Link zu diesem Artikel einschließen](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 Fügen Sie diesen Text in die E-Mail ein und ersetzen Sie die fett hervorgehobenen Platzhalter:
 
