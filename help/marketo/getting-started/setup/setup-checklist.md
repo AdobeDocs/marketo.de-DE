@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Setup-Checkliste - Marketo-Dokumente - Produktdokumentation
 title: Checkliste einrichten
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Checkliste einrichten {#setup-checklist}
 
-Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Aufgabenliste verwenden, um die ersten Schritte einzuleiten. Details finden Sie unter [Einrichtungsschritte](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
+Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Aufgabenliste verwenden, um die ersten Schritte einzuleiten. Details finden Sie unter [Einrichtungsschritte](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Anmelden bei Marketo und Erstellen zusätzlicher Benutzer {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Aufgabe
 
 >[!MORELIKETHIS]
 >
->[Einrichtungsschritte](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[Einrichtungsschritte](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}

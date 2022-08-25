@@ -3,7 +3,7 @@ unique-page-id: 1147226
 description: Erste Schritte - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 33%
@@ -22,7 +22,7 @@ Was fragst du in Marketo? Große Frage!
 
 Mit ein wenig Hilfe von Ihrem IT-Team können Sie es in kürzester Zeit erledigen.
 
-[Einrichten](/help/marketo/getting-started/setup-steps.md)
+[Einrichten](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## Schritt 3 Gewinnen Sie schnell {#get-some-quick-wins}
 
@@ -80,7 +80,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo kennenzulernen
       <img alt="E-Mail" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Import a List of People</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Eine Personenliste importieren</a>
     </div>
     <br>
   </td>
@@ -89,7 +89,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo kennenzulernen
       <img alt="Verbinden" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drilldown-Nurtur</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Tropfsteinbildung</a>
     </div>
     <br>
   </td>
@@ -115,7 +115,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo kennenzulernen
       <img alt="Verbinden" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10. Aktualisieren von Personendaten</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Personendaten aktualisieren</a>
     </div>
     <br>
   </td>
