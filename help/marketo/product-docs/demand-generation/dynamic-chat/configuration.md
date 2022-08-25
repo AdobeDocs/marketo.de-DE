@@ -2,10 +2,10 @@
 description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '319'
+ht-degree: 1%
 
 ---
 
@@ -40,6 +40,10 @@ Der Anker ermöglicht es Ihrem Site-Besucher, die Chatbox zu öffnen/zu schließ
 In den Agenteneinstellungen können Sie Ihrer Chatbox eine Bezeichnung hinzufügen (z. B.: &quot;Adobe Bot&quot;), die oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern. Um Ihr eigenes Avatarbild hochzuladen, klicken Sie auf das **+** Schaltfläche.
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>Benutzerdefinierte Avatare sollten aus quadratischen Bildern mit einer Auflösung von weniger als 256 KB und aus Bildern mit einer Auflösung von weniger als 200 x 200 Pixel bestehen. Zu den unterstützten Dateitypen gehören: .jpg, .png, .gif, .webp, .svg.
 
 Wenn Sie die Änderungen vorgenommen haben, klicken Sie auf **Speichern**.
 
