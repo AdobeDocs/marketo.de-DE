@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: E-Mail senden - Marketo-Dokumente - Produktdokumentation
 title: E-Mail senden
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 1%
@@ -22,11 +22,11 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
 1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. Wählen Sie Ihre **Lernen** Ordner. Klicken Sie auf **Neu** und wählen Sie **Neues Programm**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. Geben Sie einen **Name** und wählen Sie **Email** für **Programmtyp.**
 
@@ -34,29 +34,29 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
    >
    >Fügen Sie Ihre Initialen am Ende des Programmnamens hinzu, um sie eindeutig zu machen.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. under **Kanal** auswählen **E-Mail-Versand** und klicken Sie auf **Erstellen**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## Zielgruppe definieren {#define-your-audience}
 
 1. Klicken **Smart List bearbeiten** unter der Kachel Zielgruppe .
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
-1. Suchen Sie den Filter E-Mail-Adresse und ziehen Sie ihn in die Arbeitsfläche.
+1. Suchen und ziehen Sie den Filter E-Mail-Adresse auf die Arbeitsfläche.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Verwendung **Suche** oben in der Filterliste, um den Filter leichter zu finden.
+   >Verwenden Sie die **Suche** -Funktion, um Filter leichter zu finden.
 
 1. Wählen Sie Ihre E-Mail-Adresse aus.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
 1. Gehen Sie zurück zur Hauptregisterkarte des Programms und klicken Sie auf das Aktualisierungssymbol für **Person**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    Sie sollten sehen, dass die Personenanzahl auf 1 steigt. Das bist du!
 
@@ -76,15 +76,15 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
 1. Klicken Sie unter der Kachel E-Mail auf **Neue E-Mail**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. Geben Sie einen **Name**, wählen Sie eine **Vorlage** und klicken Sie auf **Erstellen**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. Daraufhin wird das Fenster des E-Mail-Editors geöffnet. Geben Sie einen Betreff mit maximal 50 Zeichen ein (empfohlen).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
 1. Wählen Sie den Bereich aus, den Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol auf der rechten Seite und wählen Sie dann **Bearbeiten** (Sie können auch auf den bearbeitbaren Bereich doppelklicken, um ihn zu bearbeiten).
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. Geben Sie den gewünschten Inhalt ein und klicken Sie auf **Speichern**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. Die Änderungen werden automatisch gespeichert. Schließen Sie die Registerkarte/das Fenster des Editors.
+1. Klicken Sie auf **E-Mail-Aktionen** und wählen Sie **Genehmigen und schließen**.
 
-   ![](assets/fourteen.png)
-
-1. Klicken Sie auf **E-Mail-Aktionen** und wählen Sie **Genehmigen**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
 1. Wählen Sie im linken Baum das E-Mail-Programm aus.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. Legen Sie in der Kachel Planung den Starttag für die E-Mail auf **Heute.**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >Weitere Informationen [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} und [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
 
 1. Wählen Sie einen Zeitpunkt aus, der in der Zukunft mindestens 15 Minuten beträgt.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
 1. Klicken **Programm genehmigen** unter der Kachel Validierung und Sie sind fertig!
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 Sie sollten die E-Mail kurz nach dem geplanten Tag/der geplanten Uhrzeit erhalten.
 
