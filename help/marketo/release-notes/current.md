@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**
 
 * **[Alle veröffentlichten Dialogfelder gleichzeitig für dynamischen Chat aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Globale Aktivierung/Deaktivierung aller veröffentlichten Dialogfelder auf einmal über die Seite &quot;Konfiguration&quot;, indem Sie auf eine Schaltfläche drücken.
 
-* **Benutzerdefinierte Avatare für dynamischen Chat**: Laden Sie einen benutzerdefinierten Chat-Bot-Avatar hoch, damit er für Ihre Marke personalisiert werden kann.
+* **[Benutzerdefinierte Avatare für dynamischen Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Laden Sie einen benutzerdefinierten Chat-Bot-Avatar hoch, damit er für Ihre Marke personalisiert werden kann.
 
 * **Chat-Transkripte für dynamischen Chat**: Sehen Sie sich für jede Konversation Chat-Transkripte an, um einen tieferen Einblick in das Interesse jedes Webbesuchers zu erhalten.
 
@@ -33,7 +33,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**
 
 * **Anzeigen der Ordnerhierarchie des Zielordners im Dialogfeld &quot;Verschieben&quot;**: Die Anzeige der Ordnerhierarchie für jeden Ordner erleichtert das Verschieben von Assets und verringert die Wahrscheinlichkeit, dass sie in den falschen Ordner eingefügt werden.
 
-* **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
+* **[Aktualisierte Screens im Erlebnis der nächsten Generation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
    * Details zum Ausschnitt
    * Details zu &quot;Bildern und Dateien&quot;
@@ -44,7 +44,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**
 
 ## Erlebnisautomatisierung {#experience-automation}
 
-* **Selbstbedienungs-Flussschritte - Verbesserungen beim Programm-Import**: Verbesserte Unterstützung für den Import von Programmen mit benutzerdefinierten Flussschritten, bei denen Sie jetzt mehrere Instanzen desselben Dienstleisters verwenden und Programme importieren können, bei denen Flussschritte mit diesen Dienstleistern kompatibel sind.
+* **[Selbstbedienungs-Flussschritte - Verbesserungen beim Programm-Import](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Verbesserte Unterstützung für den Import von Programmen mit benutzerdefinierten Flussschritten, bei denen Sie jetzt mehrere Instanzen desselben Dienstleisters verwenden und Programme importieren können, bei denen Flussschritte mit diesen Dienstleistern kompatibel sind.
 
 * **Munchkin - Erweitertes Linktracking**: Erweitern der Unterstützung für das Tracking von `tel` und `mailto` Links mit Munchkin , um eine erweiterte Reihe von Web-Verhaltensweisen zu verfolgen.
 
@@ -68,7 +68,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Integration von Sales Insight mit Dynamic Chat**: Zeigen Sie Aktivitäten aus dem dynamischen Chat im Bereich Sales Insight an und nutzen Sie diesen neuen Datenpunkt für Ihre Werbemaßnahmen.
+* **[Integration von Sales Insight mit Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Zeigen Sie Aktivitäten aus dem dynamischen Chat im Bereich Sales Insight an und nutzen Sie diesen neuen Datenpunkt für Ihre Werbemaßnahmen.
 
 ## Ankündigungen {#announcements}
 
