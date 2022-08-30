@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Alle veröffentlichten Dialogfelder gleichzeitig für dynamischen Chat aktivieren/deaktivieren**: Globale Aktivierung/Deaktivierung aller veröffentlichten Dialogfelder auf einmal über die Seite &quot;Konfiguration&quot;, indem Sie auf eine Schaltfläche drücken.
+* **[Alle veröffentlichten Dialogfelder gleichzeitig für dynamischen Chat aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Globale Aktivierung/Deaktivierung aller veröffentlichten Dialogfelder auf einmal über die Seite &quot;Konfiguration&quot;, indem Sie auf eine Schaltfläche drücken.
 
 * **Benutzerdefinierte Avatare für dynamischen Chat**: Laden Sie einen benutzerdefinierten Chat-Bot-Avatar hoch, damit er für Ihre Marke personalisiert werden kann.
 
