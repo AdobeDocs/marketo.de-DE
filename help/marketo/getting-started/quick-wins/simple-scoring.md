@@ -3,10 +3,10 @@ unique-page-id: 2359414
 description: Einfache Bewertung - Marketo-Dokumente - Produktdokumentation
 title: Einfache Bewertung
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 10637f7853c5b0f8a076779d95b8163b2de8abcb
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 11%
+source-wordcount: '379'
+ht-degree: 10%
 
 ---
 
@@ -22,57 +22,57 @@ ht-degree: 11%
 
 1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
-   ![](assets/ma-1.png)
+   ![](assets/simple-scoring-1.png)
 
 1. Rechtsklick auf Ihre **Lernen** Ordner und klicken Sie auf **Neuer Kampagnenordner**.
 
-   ![](assets/two-2.png)
+   ![](assets/simple-scoring-2.png)
 
-1. Nennen Sie den Kampagnenordner &quot;Scoring&quot;.
+1. Benennen Sie den Kampagnenordner &quot;Scoring&quot;und klicken Sie auf **Erstellen**.
 
-   ![](assets/three-1.png)
+   ![](assets/simple-scoring-3.png)
 
    >[!NOTE]
    >
    >Wenn Sie bereits über einen Scoring-Ordner verfügen, benennen Sie diesen etwas Anderes, z. B. Scoring 1. Ordnernamen müssen eindeutig sein.
 
-1. Klicken Sie dann mit der rechten Maustaste auf Ihre neue **Scoring** Ordner und wählen Sie **Neue intelligente Kampagne**.
+1. Rechtsklick auf Ihre **Scoring** Ordner und wählen Sie **Neue intelligente Kampagne**.
 
-   ![](assets/four.png)
+   ![](assets/simple-scoring-4.png)
 
-1. **Name** Klicken Sie auf die Kampagne &quot;Ergebnis ändern&quot; und **Erstellen**.
+1. Benennen Sie die Kampagne &quot;Ergebnis ändern&quot;und klicken Sie auf **Erstellen**.
 
-   ![](assets/five-1.png)
+   ![](assets/simple-scoring-5.png)
 
 1. Klicken Sie auf die Registerkarte **“Intelligente Liste“**.
 
-   ![](assets/six-1.png)
+   ![](assets/simple-scoring-6.png)
 
    Wir möchten, dass diese Kampagne ausgeführt wird, sobald eine Person Ihre **Testanfrageformular**.
 
 1. Suchen und Ziehen **Formular ausfüllen** Trigger auf der linken Arbeitsfläche.
 
-   ![](assets/image2014-9-24-11-3a43-3a35.png)
+   ![](assets/simple-scoring-7.png)
 
 1. Auswählen **Mein Formular**.
 
+   ![](assets/simple-scoring-8.png)
+
    >[!NOTE]
    >
-   >Wenn Sie die [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} Quick win Sie sollten über das Formular verfügen. Wenn Sie für Ihr Formular einen anderen Namen verwendet haben, wählen Sie diesen aus.
-
-   ![](assets/image2014-9-24-11-3a44-3a16.png)
+   >Wenn Sie die [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} Quick win, sollte das Formular vorhanden sein. Wenn Sie für Ihr Formular einen anderen Namen verwendet haben, wählen Sie diesen aus.
 
 1. Klicken Sie auf die Registerkarte **“Flow“**.
 
-   ![](assets/image2014-9-24-11-3a44-3a33.png)
+   ![](assets/simple-scoring-9.png)
 
 1. Ziehen Sie die **Bewertung ändern** Flussaktion auf die linke Arbeitsfläche.
 
-   ![](assets/image2014-9-24-11-3a44-3a45.png)
+   ![](assets/simple-scoring-10.png)
 
 1. Sie können einen beliebigen Wert eingeben, der dem Ergebnis der Person hinzugefügt werden soll. Geben wir &quot;+5&quot;im **Änderung** -Feld.
 
-   ![](assets/eleven-1.png)
+   ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
@@ -80,11 +80,11 @@ ht-degree: 11%
 
 1. Klicken Sie auf **Zeitplan** und **Aktivieren** Schaltfläche.
 
-   ![](assets/twelve-1.png)
+   ![](assets/simple-scoring-12.png)
 
 1. Klicken **Aktivieren** auf dem Bestätigungsbildschirm.
 
-   ![](assets/thirteen-1.png)
+   ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
@@ -94,15 +94,15 @@ ht-degree: 11%
 
 1. Wählen Sie die Landingpage aus, die Sie im [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} schneller Sieg.
 
-   ![](assets/fourteen-1.png)
+   ![](assets/simple-scoring-14.png)
 
-1. Klicken Sie auf **“Genehmigte Seite anzeigen“**. Die Landingpage wird in einem neuen Tab geöffnet.
+1. Klicken **Vorschau**. Die Landingpage wird in einem neuen Tab geöffnet.
 
-   ![](assets/image2014-9-24-11-3a47-3a51.png)
+   ![](assets/simple-scoring-15.png)
 
 1. Füllen Sie das Formular mit Vorname, Nachname und E-Mail-Adresse aus und klicken Sie auf **Einsenden**.
 
-   ![](assets/image2014-9-24-11-3a47-3a59.png)
+   ![](assets/simple-scoring-16.png)
 
    >[!NOTE]
    >
@@ -112,19 +112,19 @@ ht-degree: 11%
 
 1. Wechseln Sie zum Bereich Datenbank .
 
-   ![](assets/db-2.png)
+   ![](assets/simple-scoring-17.png)
 
 1. Suchen Sie nach der E-Mail-Adresse, die Sie beim Ausfüllen des Formulars verwendet haben.
 
-   ![](assets/eighteen.png)
+   ![](assets/simple-scoring-18.png)
 
 1. Doppelklicken Sie auf Ihre Person.
 
-   ![](assets/nineteen.png)
+   ![](assets/simple-scoring-19.png)
 
-Ihre Personendetails werden in einem neuen Tab oder Fenster geöffnet. Erfahren Sie, wie Ihr Ergebnis um 5 Punkte für das Ausfüllen des Formulars erhöht wurde!
+Ihre Personendetails werden in einem neuen Tab oder Fenster geöffnet. Erfahren Sie, wie sich Ihr Ergebnis beim Ausfüllen des Formulars um 5 Punkte erhöht hat.
 
-![](assets/twenty.png)
+![](assets/simple-scoring-20.png)
 
 ## Aufgabe abgeschlossen! {#mission-complete}
 
