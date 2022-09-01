@@ -3,10 +3,10 @@ unique-page-id: 2359418
 description: Importieren einer Personenliste - Marketo Docs - Produktdokumentation
 title: Eine Personenliste importieren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '500'
+ht-degree: 5%
 
 ---
 
@@ -24,7 +24,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 1. Laden Sie zunächst unsere Übungs-Tabellendatei ([**tradeshow-attendes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) auf Ihrem Computer installiert.
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 1. Fügen Sie Ihren eigenen Vornamen, Nachnamen, Ihre tatsächliche E-Mail-Adresse (sodass Sie die Pflege-E-Mails erhalten können, die Sie in der nächsten Mission senden werden) und Ihre Berufsbezeichnung hinzu. Speichern Sie die Datei auf Ihrem Computer.
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. Wählen Sie Ihre **Lernen** Ordner, dann unter **Neu** click **Neues Programm**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **Name** das Programm &quot;My Tradeshow Program&quot; und wählen Sie &quot;Event&quot; für die **Programmtyp**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. Auswählen **Messen** für **Kanal** und klicken Sie auf **Erstellen**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 1. In **Eigenes Schulungsprogramm** klicken **Neu** und wählen Sie **Neues lokales Asset**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. Klicken **Liste**.
+1. Auswählen **Liste**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **Name** die Liste &quot;Messen - Teilnehmer&quot;und klicken Sie auf **Erstellen**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. In **Messebesucher** Liste, klicken Sie auf **Aktionen auflisten** und wählen Sie **Importliste**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 1. **Durchsuchen** der **tradeshow-attendes.csv** Tabellendatei auf Ihrem Computer und klicken Sie auf **Nächste**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 1. Ordnen Sie die Listenspaltenfelder dem entsprechenden Marketo-Feld zu und klicken Sie auf **Nächste**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 1. Auswählen **Eigenes Schulungsprogramm** für **Akquiseprogramm** Klicken Sie auf **Import**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. Warten Sie, bis Ihre Personen importiert haben, und schließen Sie dann das Popup-Fenster für den Importfortschritt.
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. Zurück in **Eigenes Schulungsprogramm**, klicken Sie auf die **Mitglieder** Registerkarte. Du wirst alle Leute sehen, die du gerade importiert hast.
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
