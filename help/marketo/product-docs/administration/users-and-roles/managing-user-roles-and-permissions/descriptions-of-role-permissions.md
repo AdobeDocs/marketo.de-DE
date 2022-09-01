@@ -3,10 +3,10 @@ unique-page-id: 6848747
 description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Beschreibung der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
-ht-degree: 20%
+source-wordcount: '1143'
+ht-degree: 19%
 
 ---
 
@@ -162,7 +162,6 @@ Zeigen Sie die Datenbank an sowie Smart-/statische Listen an und bearbeiten Sie 
    * Segmentierung löschen
    * Segmentierung bearbeiten
 
-* Erweiterter Listenimport
 * Person löschen
 * Liste löschen
 * Person bearbeiten - Verhindert die manuelle Bearbeitung und Ausführung von Einzeldurchsatzschritten. Sie können Personen dennoch bearbeiten, indem Sie Kampagnen für sie ausführen
