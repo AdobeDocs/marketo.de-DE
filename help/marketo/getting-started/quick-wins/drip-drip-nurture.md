@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Produktdokumentation
 title: Schrittweises Lead-Nurturing
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 5%
 
 ---
@@ -26,35 +26,35 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 
 1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Wählen Sie die **Lernen** Ordner, klicken Sie auf **Neu** und wählen Sie **Neues Programm**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Geben Sie einen **Name** und wählen Sie **Interaktion** für **Programmtyp**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Stellen Sie sicher, dass **Kanal** Feld ist **Krankenpflege** und klicken Sie auf **Erstellen**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    Sie haben jetzt ein Interaktionsprogramm erstellt.
 
 ## Schritt 2: E-Mail erstellen {#step-create-an-email}
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
+1. Wählen Sie Ihr Interaktionsprogramm aus, klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Klicken **Email**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Geben Sie einen **Name**, wählen Sie die **Vorlage** Sie verwenden möchten, und klicken Sie auf **Erstellen**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 
 1. Geben Sie einen Betreff ein.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Wählen Sie den Bereich der E-Mail aus, die Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Bearbeiten Sie Ihre E-Mail und klicken Sie auf **Speichern**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Schließen Sie den Tab/Fenster des E-Mail-Editors.
+1. under **E-Mail-Aktionen** klicken **Genehmigen und schließen**.
 
-   ![](assets/eleven-3.png)
-
-1. under **E-Mail-Aktionen** klicken **Genehmigen**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, Ihre E-Mails zu validieren, oder Sie können sie später nicht aktivieren.
+   >Denken Sie daran, Ihre E-Mails zu validieren, oder Sie können sie später nicht aktivieren.
 
-1. Erstellen Sie nun eine weitere E-Mail, indem Sie die Aktionen von Schritt 2 wiederholen.
+1. Erstellen Sie nun eine weitere E-Mail, indem Sie die Aktionen in den Schritten 2-7 wiederholen.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Schritt 3: Inhalt zu Ihrem Stream hinzufügen {#step-add-content-to-your-stream}
 
-1. Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhaltsstream für Ihr Interaktionsprogramm zu erstellen.
+Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhaltsstream für Ihr Interaktionsprogramm zu erstellen.
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Schaltfläche **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Streams** Registerkarte.
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Ziehen Sie die beiden von Ihnen erstellten E-Mails auf die rechte Arbeitsfläche.
+1. Klicken Sie auf **Inhalt hinzufügen** im Stream.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >Sie können auch die **Inhalt hinzufügen** Schaltfläche oder Stream **+** Symbol.
+   >Sie können auch die **+** Symbol.
+
+1. Behalten Sie den Typ &quot;E-Mail&quot; bei. Wählen Sie die beiden erstellten E-Mails aus.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Schritt 4: Stream-Inhalt aktivieren {#step-activate-stream-content}
 
 1. Aktivieren Sie alle Inhalte gleichzeitig, indem Sie auf das Zahnradsymbol für den Stream klicken, und klicken Sie dann auf **Alle Inhalte aktivieren**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 
 1. Klicken **Stream-Kadenz festlegen**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Bearbeiten Sie die Einstellungen entsprechend dem gewünschten Zeitplan und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Ihr Interaktionsprogramm ist vollständig festgelegt. Fügen wir nun eine Testperson zu Ihrem Programm hinzu.
 
@@ -136,23 +136,23 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 
 1. Navigieren Sie zu **Datenbank** Bereich.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Suchen Sie nach Ihrer Testperson.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Stellen Sie sicher, dass die Testperson über eine gültige E-Mail-Adresse verfügt, damit Sie den Empfang von E-Mails beim Testen bestätigen können.
 
-1. Klicken Sie mit der rechten Maustaste auf die Person und klicken Sie dann auf Programme und Add to Engagement Program (Zu Interaktionsprogramm hinzufügen).
+1. Klicken Sie mit der rechten Maustaste auf die Person und klicken Sie dann auf **Programme** und **Hinzufügen zum Interaktionsprogramm**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Wählen Sie Ihre **Programm** und **Stream** Klicken Sie auf **Jetzt ausführen**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. Aufgabe abgeschlossen!
 

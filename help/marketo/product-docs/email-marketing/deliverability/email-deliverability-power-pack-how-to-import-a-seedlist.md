@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack - Importieren einer Testliste - Marketo Docs - Produktdokumentation
 title: Email Deliverability Power Pack - Importieren einer Testliste
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, eins
 
 ## Testliste importieren {#import-a-seedlist}
 
-1. Navigieren Sie zu **Zustellbarkeits-Tools**.
+1. Wählen Sie in Ihrer Marketo die Option **Zustellbarkeits-Tools**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. Klicken **Inbox Informant**.
 
