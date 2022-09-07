@@ -3,9 +3,9 @@ unique-page-id: 6094949
 description: Verschieben einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Verschieben einer Smart-Kampagne
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
-source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
+source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,19 @@ ht-degree: 0%
 
 Verschieben Sie eine intelligente Kampagne zwischen verschiedenen Programmen oder Ordnern durch Drag &amp; Drop oder die Verschieben-Funktion im Baum. Die Regeln Ihrer Smart-Kampagne werden sich nicht ändern, sie werden einfach an einem anderen Ort verschachtelt.
 
-1. Gehen Sie zu **Marketingaktivitäten**.
+>[!CAUTION]
+>
+>Da sich die Regeln nicht ändern, müssen Sie diese Informationen, wenn die Smart List- oder Flow-Schritte der Kampagne auf das ursprüngliche Programm verweisen, manuell aktualisieren, um das neue Programm widerzuspiegeln. **not** automatische Aktualisierung.
+
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Suchen Sie die zu verschiebende Smart-Kampagne, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben** aus.
+1. Suchen Sie die zu verschiebende Smart-Kampagne, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Wählen Sie **To** (Ziel), **Programm** und optional **Ordner** aus. Wählen Sie **Verschieben** aus.
+1. Wählen Sie die **nach** (Bestimmungsort), **Programm**, und optional **Ordner**. Auswählen **Verschieben**.
 
    ![](assets/move-a-smart-campaign-3.png)
 
