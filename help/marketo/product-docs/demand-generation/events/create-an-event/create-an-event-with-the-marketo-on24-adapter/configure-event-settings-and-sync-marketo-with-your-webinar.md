@@ -1,27 +1,30 @@
 ---
 unique-page-id: 10096673
-description: Ereignis-Einstellungen konfigurieren und Marketing mit Ihrem Webinar - MarketingToDocs - Produktdokumentation synchronisieren
-title: Ereignis-Einstellungen konfigurieren und Marketing mit Ihrem Webinar synchronisieren
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Ereigniseinstellungen konfigurieren und Marketo mit Ihrem Webinar synchronisieren - Marketo Docs - Produktdokumentation
+title: Konfigurieren von Ereigniseinstellungen und Synchronisieren von Marketo mit Ihrem Webinar
+exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
+# Konfigurieren von Ereigniseinstellungen und Synchronisieren von Marketo mit Ihrem Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
-# Ereignis-Einstellungen konfigurieren und Marketo mit Ihrem Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar} synchronisieren
+>[!IMPORTANT]
+>
+>Ab August 2022 unterstützt ON24 keine neuen Marketo-Integrationen mehr. Die Informationen in diesem Artikel gelten nur für bestehende Benutzer.
 
-Gehen Sie wie folgt vor, um die Einstellungen für das Marketo-Ereignis zu konfigurieren und Marketo und ON24 zu verbinden.
+Führen Sie diese Schritte aus, um die Ereigniseinstellungen für Marketo zu konfigurieren und Marketo und ON24 zu verbinden.
 
 ## Festlegen des Ereignisses {#set-the-event}
 
-1. Wählen Sie das Ereignis, das Sie einem ON24-Webinar zuordnen möchten, und klicken Sie dann auf die Dropdownliste **Ereignis-Aktionen** und wählen Sie **Ereignis-Einstellungen**.
+1. Wählen Sie das Ereignis aus, das Sie einem ON24-Webinar zuordnen möchten, und klicken Sie dann auf die Schaltfläche **Ereignisaktionen** und wählen Sie **Ereigniseinstellungen**.
 
    ![](assets/one.png)
 
-1. Wählen Sie ON24 als Ereignis-Partner.
+1. Wählen Sie ON24 als Veranstaltungspartner aus.
 
    ![](assets/two.png)
 
@@ -29,32 +32,32 @@ Gehen Sie wie folgt vor, um die Einstellungen für das Marketo-Ereignis zu konfi
 
    ![](assets/three.png)
 
-1. Geben Sie die Ereignis-ID ein (abrufen von ON24). Klicken Sie auf **Speichern**.
+1. Geben Sie die Ereignis-ID ein (rufen Sie diese von ON24 ab). Klicken **Speichern**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Während der Spitzenzeiten kann es 15 bis 20 Minuten dauern, bis ON24 die Informationen des Ereignisses für Marketo verfügbar macht. Wenn Sie die Meldung &quot;Ungültige Sitzungs-ID&quot;erhalten, versuchen Sie es später noch einmal.
+   >Während der Spitzenzeiten kann es 15 bis 20 Minuten dauern, bis ON24 die Ereignisinformationen für Marketo verfügbar macht. Wenn Sie die Meldung &quot;Ungültige Sitzungs-ID&quot;erhalten, versuchen Sie es später noch einmal.
 
-## Zeitplan {#set-the-schedule} festlegen
+## Festlegen des Zeitplans {#set-the-schedule}
 
-Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Zeitplan des Ereignisses mit Daten von ON24 gefüllt. Gehen Sie wie folgt vor, um das Dialogfeld &quot;Ereignis-Zeitplan&quot;aufzurufen.
+Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Ereigniszeitplan mit Daten aus ON24 gefüllt. Gehen Sie wie folgt vor, um auf das Dialogfeld &quot;Event Schedule&quot;zuzugreifen.
 
-1. Wählen Sie das Ereignis aus. Klicken Sie auf die Dropdownliste **Ereignis-Aktionen** und wählen Sie **Plan.**
+1. Wählen Sie das Ereignis aus. Klicken Sie auf **Ereignisaktionen** und wählen Sie **Zeitplan.**
 
    ![](assets/five.png)
 
-1. Wählen Sie **Beginn Date, End Date** und **Time Zone**. Klicken Sie auf **Speichern**.
+1. Wählen Sie Ihre **Startdatum, Enddatum** und **Zeitzone**. Klicken **Speichern**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Wenn Sie in ON24 Ereignis-Informationen aktualisieren, müssen Sie im Menü &quot;Ereignis-Aktionen&quot;auf **Von Webinar-Provider aktualisieren** klicken, um das neue Datenauffüllen anzuzeigen.
+   >Wenn Sie Ereignisinformationen in ON24 aktualisieren, müssen Sie auf **Von Webinar-Anbieter aktualisieren** im Menü Ereignisaktionen , um das Ausfüllen der neuen Daten anzuzeigen.
 
-Nun können Sie mit dem nächsten Schritt fortfahren: [Erstellen untergeordneter Kampagnen und lokaler Elemente](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
+Nun können Sie zum nächsten Schritt übergehen: [Erstellen von untergeordneten Kampagnen und lokalen Assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->[Ereignisse des Marketo On24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Grundlegendes zu Marketo On24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

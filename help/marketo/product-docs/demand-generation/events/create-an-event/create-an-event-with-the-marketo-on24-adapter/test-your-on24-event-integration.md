@@ -1,40 +1,43 @@
 ---
 unique-page-id: 10096677
-description: On24-Ereignis-Integration testen - Marketing Docs - Produktdokumentation
-title: On24-Ereignis-Integration testen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Testen der ON24-Ereignisintegration - Marketo Docs - Produktdokumentation
+title: Testen der ON24-Ereignisintegration
+exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
+# Testen der ON24-Ereignisintegration {#test-your-on-event-integration}
 
-# On24-Ereignis-Integration testen {#test-your-on-event-integration}
+>[!IMPORTANT]
+>
+>Ab August 2022 unterstützt ON24 keine neuen Marketo-Integrationen mehr. Die Informationen in diesem Artikel gelten nur für bestehende Benutzer.
 
-Stellen Sie sicher, dass Sie Ihre Ereignis-Integration gründlich testen.
+Stellen Sie sicher, dass Sie Ihre Ereignisintegration gründlich testen.
 
 ## Empfohlene Testsequenz vor Ausführung der ersten Kampagne {#recommended-test-sequence-before-running-your-first-campaign}
 
-1. Füllen Sie das Registrierungsformular des Ereignisses aus und verwenden Sie eine gültige E-Mail-Adresse, um es zu testen.
-1. Bestätigen Sie, dass der Testname mit dem Status **Registered** im Mitgliederverzeichnis Ihres Marketo-Ereignisses angezeigt wird.
-1. Bestätigen Sie, dass der Testname auch in ON24 als **Registered** angezeigt wird.
-1. Vergewissern Sie sich, dass die gültige E-Mail-Adresse, die Sie zur Registrierung des Testnamens verwendet haben, eine Bestätigungs-E-Mail an das Ereignis erhalten hat und dass die eindeutige URL in der E-Mail aufgelöst wird.
+1. Füllen Sie das Registrierungsformular des Ereignisses aus und verwenden Sie eine gültige E-Mail-Adresse zum Testen.
+1. Bestätigen Sie, dass der Testname mit einer **Angemeldet** Status in der Mitgliederliste Ihres Marketo-Ereignisses.
+1. Bestätigen Sie, dass der Testname auch als **Angemeldet** in ON24.
+1. Vergewissern Sie sich, dass die gültige E-Mail-Adresse, die Sie zur Registrierung des Testnamens verwendet haben, eine Bestätigungs-E-Mail an das Ereignis erhalten hat und dass die eindeutige URL in der E-Mail aufgelöst wurde.
 
    >[!NOTE]
    >
-   >Sie müssen das Token `{{member.webinar url}}` in Ihrer Bestätigungs-E-Mail verwenden, damit die eindeutige URL in der E-Mail jedes Registrierungspflichtigen angezeigt wird.
+   >Sie müssen die `{{member.webinar url}}` Token in Ihrer Bestätigungs-E-Mail, damit die eindeutige URL in der E-Mail jedes Registrierenden angezeigt wird.
 
 ## Nach dem Ereignis {#after-the-event}
 
-So werden die Daten nach dem Ereignis aktualisiert:
+So werden Daten aktualisiert, nachdem das Ereignis stattgefunden hat:
 
 * Marketo ruft täglich Teilnehmerdaten von ON24 ab.
-* Nachdem die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Status der Mitgliedschaft auf &quot;Anwesend&quot;, &quot;Anwesend On-Demand&quot;oder &quot;Keine Anzeige&quot;. Im Register **Zusammenfassung** des Ereignisses wird der Status des Ereignisses auf **Ereignis Complete** aktualisiert.
+* Nachdem die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Mitgliedschaftsstatus auf &quot;Teilnehmer&quot;, &quot;Abonniert On-Demand&quot;oder &quot;Keine Anzeige&quot;. Im Ereignis **Zusammenfassung** auf, wird der Ereignisstatus auf **Event Complete**.
 
 >[!MORELIKETHIS]
 >
->* [Beispiel für eine ON24-Ereignis-Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Beispiel für eine ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 

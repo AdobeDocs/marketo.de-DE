@@ -1,58 +1,61 @@
 ---
 unique-page-id: 10096681
-description: Erläuterungen zu Webinar-Programm-Statusangaben - Marketing-Dokumente - Produktdokumentation
-title: Erläuterungen zu Webinar-Programm-Status
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Erläuterungen zum Webinar-Programmstatus - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum Webinar-Programmstatus
+exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
+# Grundlegendes zum Webinar-Programmstatus {#understanding-webinar-program-statuses}
 
-# Die Webinar-Programm-Statusangaben {#understanding-webinar-program-statuses}
+>[!IMPORTANT]
+>
+>Ab August 2022 unterstützt ON24 keine neuen Marketo-Integrationen mehr. Die Informationen in diesem Artikel gelten nur für bestehende Benutzer.
 
-Der Status eines Programms stellt die verschiedenen Ereignisses dar, die eine Person als Mitglied des Ereignisses durchläuft. Sie sind mit einem Kanal verknüpft. Marketo verfügt über einen integrierten Kanal namens **Webinar**. Status können sowohl in Kampagnen von Stapeln als auch von Triggern verwendet werden.
+Programmstatus stellen die verschiedenen Ereignisstatus dar, die eine Person als Mitglied des Ereignisses durchlaufen kann. Sie sind mit einem Kanaltyp verknüpft. Marketo verfügt über einen integrierten Kanaltyp mit dem Namen **Webinar**. Status können sowohl in Batch- als auch in Trigger-Kampagnen verwendet werden.
 
-Die Menschen durchlaufen die Statusangaben des Programms linear und gehen nicht zurück. Beispielsweise kann eine Person mit dem Status **Anwesend** nicht zu **Registered** zurückwechseln.
+Menschen durchlaufen den Programmstatus linear und gehen nicht in den Status zurück. Beispiel: eine Person mit dem Status **Angemeldet** kann nicht zurück zu **Angemeldet**.
 
-Im Folgenden werden die mit dem Webinar-Kanal verbundenen Programm-Status kurz beschrieben.
+Im Folgenden finden Sie eine kurze Beschreibung des Programmstatus im Zusammenhang mit dem Webinar-Kanal.
 
 >[!TIP]
 >
->Um die Status manuell zu aktualisieren, klicken Sie in der Dropdown-Liste **Ereignis-Aktionen** auf **Von Webinar-Anbieter aktualisieren**.
+>Um den Status manuell zu aktualisieren, klicken Sie auf  **Von Webinar-Anbieter aktualisieren** im **Ereignisaktionen** Dropdown-Liste.
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
-**Nicht im Programm**  - Verwenden Sie diesen Status, um Personen aus dem Ereignis zu entfernen.
+**Nicht im Programm** - Verwenden Sie diesen Status, um Personen aus dem Ereignis zu entfernen.
 
-**Eingeladen**  - Verwenden Sie diesen Status, um dem Ereignis Personen hinzuzufügen.
+**Eingeladen** - Verwenden Sie diesen Status, um Personen zum Ereignis hinzuzufügen.
 
-**Ausstehende Genehmigung**  - Verwenden Sie diesen Status, um die Versendung einer Bestätigungs-E-Mail an Ihre Personen zu unterbrechen. Weitere Informationen finden Sie unter &quot;Manuelles Genehmigen von Registranten&quot;in [ON24 Ereignis Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md).
+**Ausstehende Genehmigung** - Verwenden Sie diesen Status, um Ihren Personen eine Bestätigungs-E-Mail zu senden. Siehe &quot;Manuelles Genehmigen von Registranten&quot;in [Aktualisierungen der Ereignisregistrierung in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) für weitere Informationen.
 
-**Warteliste**  - Verwenden Sie diesen Status, um einige Personen so lange warten zu lassen, bis weitere Plätze verfügbar sind.
+**Warteliste** - Verwenden Sie diesen Status, damit einige Personen warten, bis weitere Plätze verfügbar sind.
 
-**Abgelehnt**  - Verwenden Sie diesen Status, um die Registrierung einer Person für Ihr Ereignis abzulehnen.
+**Zurückgewiesen** - Verwenden Sie diesen Status, um die Registrierung einer Person für Ihr Ereignis abzulehnen.
 
-**Registered**  - Dieser Status zwingt die Benutzer zu ON24, wenn Sie die ON24-Integration verwenden. Der Status der Person wird aktualisiert, wenn ON24 darauf antwortet, dass die Person erfolgreich registriert wurde.
+**Angemeldet** - Dieser Status sendet Personen an ON24, wenn Sie die ON24-Integration verwenden. Der Status der Person wird aktualisiert, wenn ON24 antwortet, dass die Person erfolgreich registriert wurde.
 
-**Registrierungsfehler** : Dieser Status gibt an, dass beim Versuch, sich für das Ereignis zu registrieren, ein Fehler aufgetreten ist.
-
->[!NOTE]
->
->Wenn ein Registrierungsfehler auftritt, können Sie weitere Informationen zu dieser Person abrufen, indem Sie die Spalte &quot;Statusgrund&quot;auf der Registerkarte &quot;Mitglieder&quot;Ihres Programms aufrufen. Nachdem der Fehler behoben wurde, können Sie den Status des Programms des Benutzers manuell in &quot;Registered in Marketo&quot;ändern.
-
-**Teilnehmer** : Am Ende des Webinars gibt ON24 eine Liste der Teilnehmenden zurück. Dieser Status wird automatisch nach Marketo gezogen.
-
-**Angezeigt On-Demand**  - Personen, die an der archivierten Version des Webinars teilgenommen haben, erhalten diesen Status.
-
-**Keine Anzeige**  - Nach Abschluss des Webinars und nach Eingabe der Anwesenheitsdaten von ON24 wird der Status der Personen, die sich registriert, aber nicht teilgenommen haben, auf No Show aktualisiert. Es kann zwischen 30 Minuten und 3 Stunden dauern, bis ON24 die letzten Anwesenheitsinformationen vorbereitet und in Marketo verfügbar macht.
+**Registrierungsfehler** - Dieser Status spiegelt wider, dass beim Versuch, sich für das Ereignis zu registrieren, ein Fehler aufgetreten ist.
 
 >[!NOTE]
 >
->Damit Marketo den Status &quot;Keine Anzeige&quot;abrufen kann, müssen die Personen in Marketo *registriert sein.* Wir können keine No Shows erfassen, die aus dem On24-Datenfeed stammen.
+>Wenn ein Registrierungsfehler auftritt, können Sie zusätzliche Informationen für diese Person erhalten, indem Sie die Spalte Status Grund auf auf der Registerkarte Mitglieder Ihres Programms ansehen. Nachdem der Fehler behoben wurde, können Sie den Programmstatus des Benutzers manuell in In Marketo registriert ändern.
+
+**Angemeldet** - Zum Abschluss des Webinars gibt ON24 eine Liste der Teilnehmer zurück. Dieser Status wird automatisch in Marketo abgerufen.
+
+**On-Demand teilgenommen** - Personen, die an der archivierten Version des Webinars teilgenommen haben, erhalten diesen Status.
+
+**Keine Sendung** - Am Ende des Webinars und nach der Erfassung der Anwesenheitsdaten von ON24 wird der Status der Personen, die sich registriert, aber nicht teilgenommen haben, auf No Show aktualisiert. Es kann zwischen 30 Minuten und 3 Stunden dauern, bis ON24 die endgültigen Anwesenheitsinformationen vorbereitet und in Marketo verfügbar macht.
+
+>[!NOTE]
+>
+>Damit Marketo den Status &quot;Keine Anzeige&quot;abrufen kann, müssen die Personen registriert worden sein. *in Marketo*. Wir können keine No Shows erfassen, die aus dem On24-Daten-Feed stammen.
 
 >[!MORELIKETHIS]
 >
->[Ereignisse des Marketo ON24-Adapters](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

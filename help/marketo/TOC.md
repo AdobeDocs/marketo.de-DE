@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '8807'
+source-wordcount: '8795'
 ht-degree: 5%
 
 ---
@@ -99,7 +99,6 @@ ht-degree: 5%
          + [Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-         + [ON24 als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [ReadyTalk als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Single Sign-On zu einem Portal hinzufügen](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Hinzufügen von WebEx als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
@@ -647,7 +646,6 @@ ht-degree: 5%
                + [Erstellen eines Ereignisses in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [Erstellen untergeordneter Kampagnen und lokaler Assets](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [Webinar-Veranstaltung in ON24 erstellen](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-               + [Anmeldedaten für ON24 in Marketo eingeben](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
                + [Beispiel für eine ON24-Ereignisintegration](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [Aktualisierungen der Ereignisregistrierung in ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
                + [Testen der ON24-Ereignisintegration](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)

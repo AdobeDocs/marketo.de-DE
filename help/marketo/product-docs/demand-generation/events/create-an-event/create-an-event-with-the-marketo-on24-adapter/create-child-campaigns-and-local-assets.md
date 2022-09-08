@@ -3,14 +3,18 @@ unique-page-id: 10096675
 description: Erstellen von untergeordneten Kampagnen und lokalen Assets - Marketo-Dokumente - Produktdokumentation
 title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
 # Erstellen untergeordneter Kampagnen und lokaler Assets {#create-child-campaigns-and-local-assets}
+
+>[!IMPORTANT]
+>
+>Ab August 2022 unterstützt ON24 keine neuen Marketo-Integrationen mehr. Die Informationen in diesem Artikel gelten nur für bestehende Benutzer.
 
 Erstellen Sie Ihre untergeordneten Kampagnen und lokalen Assets mit Design Studio.
 
