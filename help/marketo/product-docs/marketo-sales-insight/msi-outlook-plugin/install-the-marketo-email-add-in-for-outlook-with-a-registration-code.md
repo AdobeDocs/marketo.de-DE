@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installieren des Marketo-E-Mail-Add-ins für Outlook mit einem Registrierungs-Code - Marketo Docs - Produktdokumentation
 title: Installieren des Marketo-E-Mail-Add-ins für Outlook mit einem Registrierungs-Code
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
 >[!IMPORTANT]
 >
->Die Installation wird nicht auf PCs unterstützt, auf denen der Ordner Windows-Benutzer nicht englische Zeichen enthält. Dieser Ordner wird automatisch von Windows unter <System Root>\Benutzer\ basierend auf dem Windows-Benutzernamen und kann nicht englische Zeichen enthalten, wenn der Windows-Benutzername ein nicht englischer Name ist. Wenden Sie sich an Ihr IT-Team, um festzustellen, ob bei der Installation Probleme auftreten.
+>Die Installation wird nicht auf PCs unterstützt, auf denen der Ordner Windows-Benutzer nicht englische Zeichen enthält. Dieser Ordner wird automatisch von Windows unter `<System Root>\Users\` basierend auf dem Windows-Benutzernamen und kann nicht englische Zeichen enthalten, wenn der Windows-Benutzername ein nicht englischer Name ist. Wenden Sie sich an Ihr IT-Team, um festzustellen, ob bei der Installation Probleme auftreten.
 
 >[!NOTE]
 >
