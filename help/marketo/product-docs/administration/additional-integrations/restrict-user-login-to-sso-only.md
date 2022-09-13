@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: Einschränken der Benutzeranmeldung auf "Nur SSO"- Marketo-Dokumente - Produktdokumentation
 title: Benutzeranmeldung auf SSO beschränken
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 5%
@@ -16,7 +16,7 @@ Wenn du [Verwendung von SSO](/help/marketo/product-docs/administration/additiona
 
 >[!IMPORTANT]
 >
->Dieser Artikel gilt nicht für [Adobe IMS-fähig](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo-Abonnements.
+>Dieser Artikel gilt nicht für [Adobe IMS-fähig](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo-Abonnements.
 
 >[!NOTE]
 >
