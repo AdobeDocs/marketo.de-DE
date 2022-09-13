@@ -2,9 +2,9 @@
 description: Filtern der E-Mail-Bot-Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Filtern der E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 2fd0856e21c51af6ca29887978d5aa946733405d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -36,16 +36,13 @@ Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute 
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Wählen Sie **Übereinstimmung mit IAB-Liste**, **Übereinstimmung mit Näherungsmuster** oder beides.
+1. Wählen Sie **Übereinstimmung mit IAB-Liste**, **Übereinstimmung mit Näherungsmuster** oder beides. Auswählen, ob eine Bot-Aktivität protokolliert werden soll _oder_ Filtern von Bot-Aktivitäten.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->* Sie können festlegen, dass Bot-Aktivitäten gefiltert werden sollen **oder** protokolliert. Wenn Sie &quot;gefiltert&quot;auswählen, wird möglicherweise ein Rückgang bei E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten ausgeschaltet werden.
->
->* Derzeit ist nur &quot;Log Bot Activity&quot;für &quot;Match with Nähe Pattern&quot;verfügbar.
-
+>Wenn Sie &quot;Bot-Aktivität filtern&quot;auswählen, wird möglicherweise ein Rückgang bei E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten ausgeschaltet werden.
 
 **OPTIONALER SCHRITT**: Um diese Funktion zu deaktivieren, deaktivieren Sie einfach die Schieberegler. Wenn Sie deaktivieren, werden die Daten nicht zurückgesetzt.
 
