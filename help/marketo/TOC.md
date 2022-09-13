@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 5%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 5%
          + [Export benutzerdefinierter Objektmetadaten](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo mit Adobe Identity {#marketo-with-adobe-identity}
          + [Schnellanleitung](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [Überblick](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [Übersicht über Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Admin-Einrichtung](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Produkt-Admin-Einrichtung](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Hinzufügen eines reinen API-Benutzers für Adobe IMS-aktivierte Abonnements](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 5%
          + [Versionshinweise: März 22](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [Versionshinweise: Mai 22](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [Versionshinweise: Juni 22](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [Versionshinweise: August &#39;22](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021 {#2021}
          + [Versionshinweise: Januar 21](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Versionshinweise: Mai 21](release-notes/previous-releases/2021/release-notes-may-21.md)

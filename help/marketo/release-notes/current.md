@@ -2,76 +2,62 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
 
-# Versionshinweise: August 2022 {#release-notes-aug-22}
+# Versionshinweise: Oktober 2022 {#release-notes-oct-22}
 
-Unten finden Sie alle Funktionen der Version vom 22. August. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen der Version vom 22. Oktober. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
 >Mit einem Stern gekennzeichnete Funktionen (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-Die folgenden Funktionen werden ab der Veröffentlichung auf **26. August 2022**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden (sofern nicht anders angegeben). Die Veröffentlichungsfunktionen und das genaue Datum können sich ändern.
+Die folgenden Funktionen werden ab der Veröffentlichung auf **14. Oktober 2022**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden (sofern nicht anders angegeben). Die Veröffentlichungsfunktionen und das genaue Datum können sich ändern.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **[Alle veröffentlichten Dialogfelder gleichzeitig für dynamischen Chat aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Globale Aktivierung/Deaktivierung aller veröffentlichten Dialogfelder auf einmal über die Seite &quot;Konfiguration&quot;, indem Sie auf eine Schaltfläche drücken.
+* **Dialogfeld-Streams für dynamischen Chat automatisch anordnen**: Verbessern Sie Ihre überfüllte Dialog-Arbeitsfläche, indem Sie alles auf der Arbeitsfläche in einem sauberen und leicht lesbaren Format organisieren, indem Sie die Taste drücken, indem Sie Auto Arrange auswählen.
 
-* **[Benutzerdefinierte Avatare für dynamischen Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Laden Sie einen benutzerdefinierten Chat-Bot-Avatar hoch, damit er für Ihre Marke personalisiert werden kann.
+* **Unterstützung zusätzlicher Datentypen für dynamischen Chat**: Drei neue Datentypen (boolesch, Ganzzahl, Gleitkommazahl) ermöglichen es Ihnen, vorhandene Marketo Engage-Felder im dynamischen Chat für Dinge wie das Targeting auf Grundlage von Bewertungen oder die Frage, ob Besucher Ja/Nein-Fragen haben, besser zu nutzen.
 
-* **Chat-Transkripte für dynamischen Chat**: Sehen Sie sich für jede Konversation Chat-Transkripte an, um einen tieferen Einblick in das Interesse jedes Webbesuchers zu erhalten.
+* **Meeting-Links für dynamischen Chat**: Option zur automatischen Einbindung eines Teams- oder Meet-Links für Google und Outlook in jede Kalendereinladung, die an Besucher gesendet wird.
 
-## Erlebnis der nächsten Generation
+* **Terminierte Meetingbenachrichtigungen für dynamischen Chat**: Vertriebsmitarbeiter erhalten automatisierte E-Mail-Benachrichtigungen zu geplanten Sitzungen sowie relevante Informationen zur Chatbot-Interaktion des Besuchers.
 
-* **Adobe Branding**: Das Erscheinungsbild für Bearbeiter und Personendetailseite wurde mit dem neuen Adobe Experience Cloud-Branding aktualisiert.
+* **Rollen und Berechtigungen für dynamischen Chat**: Administratoren können granulare Berechtigungen verwenden, um die Sichtbarkeit und Nutzung der Anwendung zu steuern und benutzerdefinierte Benutzerrollen zu erstellen.
 
-* **Anzeigen der Ordnerhierarchie des Zielordners im Dialogfeld &quot;Verschieben&quot;**: Die Anzeige der Ordnerhierarchie für jeden Ordner erleichtert das Verschieben von Assets und verringert die Wahrscheinlichkeit, dass sie in den falschen Ordner eingefügt werden.
+   * Vollständiger Zugriff - Benutzer können die Funktion in vollem Umfang nutzen (z. B. Veröffentlichungsdialogfelder, Farbschema ändern usw.)
+   * Schreibgeschützter Zugriff - Benutzer können Informationen anzeigen, aber keine Änderungen vornehmen (z. B. unter Zielgruppenkriterien oder Stream-Designer, aber nicht ändern)
+   * Eingeschränkter Zugriff - Benutzer können die Abschnitte &quot;Konfiguration&quot;und &quot;Integrationen&quot;nicht sehen oder darauf zugreifen
 
-* **[Aktualisierte Screens im Erlebnis der nächsten Generation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
+## Erlebnis der nächsten Generation {#next-generation-experience}
 
-   * Details zum Ausschnitt
-   * Details zu &quot;Bildern und Dateien&quot;
+* **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
->[!NOTE]
->
->Die Ausnahme besteht darin, ein Asset in einen Ordner innerhalb eines Programms in Marketingaktivitäten zu verschieben. Durch diese Aktion wird die Ordnerhierarchie nicht angezeigt, da Ordner innerhalb eines Programms keine doppelten Namen haben können.
+   * Details zur Landingpage-Vorlage
+   * E-Mail-Vorlagenliste
 
-## Erlebnisautomatisierung {#experience-automation}
+* **Verbesserte Verwendung nach Registerkarte in Details von E-Mail-Vorlagen**: Im neuen Erlebnis sehen Sie zusätzliche Informationen zu Assets, die die E-Mail-Vorlage verwenden, einschließlich Asset-Status, Last Modified und Last Modified By. Sie können auch die Liste der von Assets verwendeten suchen, sortieren und filtern.
 
-* **[Selbstbedienungs-Flussschritte - Verbesserungen beim Programm-Import](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Verbesserte Unterstützung für den Import von Programmen mit benutzerdefinierten Flussschritten, bei denen Sie jetzt mehrere Instanzen desselben Dienstleisters verwenden und Programme importieren können, bei denen Flussschritte mit diesen Dienstleistern kompatibel sind.
-
-* **Munchkin - Erweitertes Linktracking**: Erweitern der Unterstützung für das Tracking von `tel` und `mailto` Links mit Munchkin , um eine erweiterte Reihe von Web-Verhaltensweisen zu verfolgen.
-
-* **Benutzerdefinierte Webhook-Kopfzeilenanzeige**: Benutzerdefinierte Webhook-Header werden jetzt auf der Registerkarte Admin > Webhooks angezeigt, um eine bessere Sichtbarkeit zu erzielen.
-
-* **CAPTCHA**: Bewerten Sie die Gültigkeit von Formularübermittlungen mit reCAPTCHA v3, um den eingehenden Formular-Traffic zu bewerten. Erstellen Sie Marketing-Workflows, um verdächtigen Bot-Traffic automatisch auszuschließen, in Quarantäne zu stellen oder zu löschen.
-
-* **Berechtigung zum Genehmigen eines Formulars**: Neue Berechtigung zum Steuern, welche Designer Änderungen an einem Formular im Einklang mit anderen Design Studio-Assets genehmigen können. Dies verhindert, dass andere Designer Änderungen an Formularen senden, ohne dass jemand anderes über eine Genehmigungsberechtigung verfügt, die sie überprüft.
-
-* **Kampagnenwiedergabe nach anonymer Zusammenführung immer durchführen**: Die anonyme Lead-Zusammenführung erfolgt vor der Wiederholung der Kampagne. Benutzerdefinierte Feldfilter verhalten sich also zuverlässig, wenn die anonyme Kampagnenwiedergabe erfolgt.
+* **Report Asset-Filtermodelle**: Neues Design für Berichtskonfigurationsmodelle, das eine neue Asset-Struktur im Konfigurationsmenü und einen Filter für das Erstellungsdatum und das Änderungsdatum anzeigt.
 
 ## Marketing-Datenumgebung {#marketing-data-environment}
 
-* **Fehlerbehebung bei der Kürzung der Benutzeroberflächen für die Felder &quot;Verwendet von&quot; benutzerdefiniertes Objekt**: Benutzerdefinierte Objektfelder, die &quot;verwendet&quot;werden, lassen sich jetzt einfacher identifizieren, sodass Sie bei Bedarf Felder aus einem benutzerdefinierten Objekt löschen können.
+* **Integration von Adobe Privacy Service**: Harmonisierung mit Privacy Service zur Automatisierung der Einhaltung von Datenschutzbestimmungen für Experience Cloud-Produkte. Dieser Dienst steht derzeit nur Marketo Engage-Kunden zur Verfügung, die am [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;} System.
+
+* **Synchronisierung benutzerdefinierter Felder für Programmmitglieder**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.)
 
 ## API-Verbesserungen {#api-enhancements}
 
-* **Neue Filterfunktionen für die Bulk Program Member Extract API**: Filtern Sie nach Status der Programmmitgliedschaft, updatedAt, Cadence oder erschöpftem Inhalt, um den extrahierten Datensatz zu verfeinern.
-
-## Sales Insight {#sales-insight}
-
-![(Stern)](assets/yellow-star.png)
-
-* **[Integration von Sales Insight mit Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Zeigen Sie Aktivitäten aus dem dynamischen Chat im Bereich Sales Insight an und nutzen Sie diesen neuen Datenpunkt für Ihre Werbemaßnahmen.
+* **Massenimport von Blei: SalesPersonenverein**: Parität mit der Lead-REST-API, um Leads während des Massenimport-Prozesses mit SalesPERS zu verknüpfen, wodurch die Komplexität und die Anzahl der erforderlichen API-Aufrufe verringert werden.
 
 ## Ankündigungen {#announcements}
 
-**_Webinar zur Produktversion_**
+* **Forms 1.0**: Die Einstellung von Forms 1.0 wird mit der Oktober-Version abgeschlossen. Forms 1.0-Assets können keine Daten mehr an Marketo Engage senden und geben bei Versuchen Fehler zurück.
 
-[Webinar zur Marketo Engage-Version vom Juni und August 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+* **NoScript Forms**: Forms funktioniert nicht mehr, wenn JavaScript im Browser deaktiviert ist. Für die Übermittlung von Formularen muss JavaScript aktiviert sein.
