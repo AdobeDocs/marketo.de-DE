@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack - Importieren einer Testliste - Marketo Docs - Produktdokumentation
 title: Email Deliverability Power Pack - Importieren einer Testliste
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, eins
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Klicken **Inbox Informant**.
+1. Die Everest App wird geöffnet. Klicken Sie im linken Navigationsbereich auf **Flug** und wählen Sie **Posteingangsplatzierung**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Klicken **Seedlist abrufen**.
+1. Klicken Sie auf **Testadressenliste verwalten** Registerkarte.
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Klicken **Exportliste**.
+1. Klicken Sie auf das Dropdown-Menü Aktionen und wählen Sie **Pro Zeile herunterladen**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Auswählen **Liste optimieren** wenn 250ok [Liste optimieren](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) für Sie. Auswählen **Liste anpassen** , wenn Sie die seedlist -Bereiche auswählen möchten, die Sie einbeziehen möchten.
+   >Verwenden Sie den Seed List Optimizer (oben auf der Seite), wenn Sie möchten, dass Everest Ihre Liste für Sie optimiert.
 
 1. Nach dem Export wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Abrufen und [importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in Ihre Marketo-Instanz als statische Liste.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, eins
 
    >[!CAUTION]
    >
-   >Sie erhalten eine begrenzte Anzahl dieser Inbox Informant-Kampagnen pro Monat. Um zu sehen, wie viele Sie erhalten, schauen Sie in Ihrem 250ok **Kontoeinstellungen**. Weitere Informationen erhalten Sie von Ihrem Marketo-Vertriebsmitarbeiter.
+   >Sie erhalten eine begrenzte Anzahl dieser Posteingang-Platzierungskampagnen pro Monat. Um zu sehen, wie viele Sie erhalten, sehen Sie sich den Abschnitt Anmeldung unter Kontoeinstellungen > Anmeldung bei Everest an. Weitere Informationen erhalten Sie von Ihrem Marketo-Vertriebsmitarbeiter.
 
 ## Erfassen neuer Testlisten {#acquiring-new-seedlists}
 
