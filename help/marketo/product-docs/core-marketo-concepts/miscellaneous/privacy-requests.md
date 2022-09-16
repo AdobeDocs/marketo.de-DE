@@ -2,10 +2,10 @@
 description: Datenschutzanfragen - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzanfragen
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 0%
+source-wordcount: '367'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,14 @@ Dieses Dokument bietet einen Überblick über die Verwaltung individueller Daten
 
 >[!NOTE]
 >
->Datenschutzanfragen, die über die Privacy Service-Benutzeroberfläche oder API zum Marketo Engage gesendet werden, gelten nur für diejenigen, die Marketo Engage + RT-CDP, B2B und B2P-Editionen haben.
+>Datenschutzanfragen, die über die Privacy Service-Benutzeroberfläche oder -API zum Marketo Engage gesendet werden, gelten nur für Folgendes:
+>
+>* Marketo Engage-Benutzer, die mit Adobe Identity Management System integriert sind
+>
+>**-oder-**
+>
+>* Marketo Engage-Anwender, die ein anderes Experience Cloud-Produkt verwenden, das bereits im Adobe Identity Management-System installiert ist (z. B. RT-CDP, B2B- und B2P-Editionen, Audience Manager).
+
 
 Sie können individuelle Anfragen zum Zugriff auf und zum Löschen von Verbraucherdaten aus Marketo Engage auf zwei Arten senden:
 
