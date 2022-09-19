@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importieren von Assets mit Adobe Experience Manager - Marketo Docs - Produktdokumentation
 title: Importieren von Assets mit Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie die [AEM Konfiguration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) bereits ausgeführt haben.
+>Vergewissern Sie sich, dass Sie die [AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Diese Funktion wird in den aktuellen Versionen von Firefox, Chrome und Edge vollständig unterstützt. Es wird in Safari nicht unterstützt.
+>Diese Funktion wird derzeit nur in Firefox vollständig unterstützt. Sie wird in Safari nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von Chrome, je nach Ihren SameSite-Cookie-Einstellungen.
 
-1. Klicken Sie auf **Design Studio**.
+1. Klicken **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **Import aus Adobe Experience Manager** aus.
+1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **Import aus Adobe Experience Manager**.
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
    ![](assets/four-1.png)
 
-1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken Sie abschließend auf **Wählen Sie** aus.
+1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken **Auswählen** wann geschehen.
 
    ![](assets/five.png)
 
@@ -50,11 +50,11 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
    >
    >Die Größe von Bildern darf 100 MB nicht überschreiten.
 
-1. Klicken Sie auf **Import** , um den Vorgang abzuschließen.
+1. Klicken **Import** , um den Prozess abzuschließen.
 
    ![](assets/six-1.png)
 
-   Und das ist es! Klicken Sie auf **Close** , um zum Design Studio zurückzukehren.
+   Und das ist es! Klicken **Schließen** , um zu Design Studio zurückzukehren.
 
    ![](assets/seven-1.png)
 
