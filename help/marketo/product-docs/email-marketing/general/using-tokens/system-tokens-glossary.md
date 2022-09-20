@@ -1,77 +1,76 @@
 ---
 unique-page-id: 1147344
-description: Glossar "SystemToken"- Marketo Docs - Produktdokumentation
-title: Glossar "SystemToken"
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: System Tokens-Glossar - Marketo Docs - Produktdokumentation
+title: Glossar zu System-Token
+exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
+source-git-commit: 93032a016a67fe0edf7a8093633d6b06ec25c18d
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
+# Glossar zu System-Token {#system-tokens-glossary}
 
-# SystemToken-Glossar {#system-tokens-glossary}
-
-Zusätzlich zu den persönlichen Token können Sie einige wirklich coole Systemtokens verwenden. Hier sind sie.
+Neben Personen-Token können Sie auch einige wirklich coole System-Token verwenden. Hier sind sie.
 
 >[!NOTE]
 >
->Die Einstellungen für die Zeitzone Ihres Kontos wirken sich darauf aus, wann Datums- und UhrzeitToken ausgeführt werden.
+>Die Zeitzoneneinstellungen Ihres Kontos wirken sich auf die Ausführung von Datums- und Uhrzeit-Token aus.
 
 ## system.date {#system-date}
 
-Das `{{system.date}}`-Token gibt das aktuelle Datum zur Laufzeit wie folgt wieder: **08. August 2013**
+Die `{{system.date}}` -Token rendert das aktuelle Datum zur Laufzeit wie folgt: **8. August 2013**
 
 **Funktioniert in:**
 
-* [Schritt ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) &quot;Datenwert ändern&quot;
-* [Interessanter Schritt ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) des Momentflusses
-* [TaskFlow-](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Schritt erstellen
-* Text einer E-Mail oder Vorlage
+* [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} Flussschritt
+* [Interessanter Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} Flussschritt
+* [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} Flussschritt
+* Der Textkörper einer E-Mail oder Vorlage
 
 ## system.time {#system-time}
 
-Das Token `{{system.time}}` gibt die aktuelle Zeit zur Laufzeit wie folgt wieder: **04:34 PM (GMT -0700)**
+Die `{{system.time}}` -Token gibt die aktuelle Zeit zur Laufzeit wie folgt aus: **16:34 (GMT -0700)**
 
 **Funktioniert in:**
 
-* [Schritt ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) &quot;Datenwert ändern&quot;
-* [Interessanter Schritt ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) des Momentflusses
-* [TaskFlow-](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Schritt erstellen
-* Text einer E-Mail oder Vorlage
+* [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} Flussschritt
+* [Interessanter Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} Flussschritt
+* [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} Flussschritt
+* Der Textkörper einer E-Mail oder Vorlage
 
 ## system.dateTime {#system-datetime}
 
-Das `{{system.dateTime}}`-Token gibt das aktuelle Datum und die aktuelle Uhrzeit zur Laufzeit wie folgt wieder: **2013-08-08 16:36:13**
+Die `{{system.dateTime}}` -Token rendert das aktuelle Datum und die aktuelle Uhrzeit zur Laufzeit wie folgt: **08.08.2013 16:36:13**
 
 **Funktioniert in:**
 
-* [Schritt ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) &quot;Datenwert ändern&quot;
-* [Interessanter Schritt ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) des Momentflusses
-* [TaskFlow-](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Schritt erstellen
-* Text einer E-Mail oder Vorlage
+* [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} Flussschritt
+* [Interessanter Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} Flussschritt
+* [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} Flussschritt
+* Der Textkörper einer E-Mail oder Vorlage
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Mit dem Token `{{system.forwardToFriendLink}}` können Sie die Platzierung des [&#39;Weiterleiten an einen Freund-Link&#39; in E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md) steuern.
+Die `{{system.forwardToFriendLink}}` Mit token können Sie die Platzierung der [&quot;Weiterleiten an einen Freunde-Link&quot;in E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target=&quot;_blank&quot;}.
 
 **Funktioniert in:**
 
-* [hinzufügen eines System-Tokens als Link in einer ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) E-Mail-Vorlage
+* [Hinzufügen eines System-Tokens als Link in einer E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} oder Vorlage
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-Mit dem Token `{{system.unsubscribLink}}` können Sie die Platzierung des Link zum Abmelden in einer E-Mail steuern.
+Die `{{system.unsubscribeLink}}` Mit token können Sie die Platzierung des Abmelde-Links in einer E-Mail steuern.
 
 **Funktioniert in:**
 
-* [hinzufügen eines System-Tokens als Link in einer ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) E-Mail-Vorlage
+* [Hinzufügen eines System-Tokens als Link in einer E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} oder Vorlage
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-Mit dem Token `{{system.viewAsWebpageLink}}` können Sie die Platzierung der Ansicht als Webseitenlink in einer E-Mail steuern.
+Die `{{system.viewAsWebpageLink}}` Mit dem -Token können Sie die Platzierung des Links Als Webseite anzeigen in einer E-Mail steuern.
 
 **Funktioniert mit:**
 
-* [hinzufügen eines System-Tokens als Link in einer ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) E-Mail-Vorlage
+* [Hinzufügen eines System-Tokens als Link in einer E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} oder Vorlage
