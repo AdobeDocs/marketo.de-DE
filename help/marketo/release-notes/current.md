@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **14. Oktober 2022*
 ## API-Verbesserungen {#api-enhancements}
 
 * **Massenimport von Blei: SalesPersonenverein**: Parität mit der Lead-REST-API, um Leads während des Massenimport-Prozesses mit SalesPERS zu verknüpfen, wodurch die Komplexität und die Anzahl der erforderlichen API-Aufrufe verringert werden.
+
+## Sales Insight {#sales-insight}
+
+![(Stern)](assets/yellow-star.png)
+
+* **[Integration von Sales Insight mit Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Das Insights-Dashboard enthält jetzt Aktivitäten des dynamischen Cats im Smart-Raster sowie eine wöchentliche Zusammenfassung und Detailkarten.
 
 ## Ankündigungen {#announcements}
 
