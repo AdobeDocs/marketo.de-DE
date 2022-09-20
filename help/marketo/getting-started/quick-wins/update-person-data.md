@@ -3,10 +3,10 @@ unique-page-id: 2359426
 description: Persönliche Daten aktualisieren - Marketo-Dokumente - Produktdokumentation
 title: Personendaten aktualisieren
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,7 @@ Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusät
 
 1. Rufen Sie Ihre Datenbank auf.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. Suchen Sie den Namen oder die E-Mail-Adresse der Person.
 
@@ -34,11 +34,11 @@ Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusät
    >
    >Die Verwendung der E-Mail-Adresse zur Suche führt zu einer schnelleren Suche.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. Doppelklicken Sie auf , um die Personendetails zu öffnen.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusät
 
 1. Geben Sie die neuen Informationen ein, die Sie erhalten haben, und schließen Sie dann die Registerkarte .
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
