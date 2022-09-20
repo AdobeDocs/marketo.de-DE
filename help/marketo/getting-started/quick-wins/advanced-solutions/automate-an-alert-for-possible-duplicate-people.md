@@ -3,7 +3,7 @@ unique-page-id: 7513680
 description: Warnhinweis für mögliche doppelte Personen automatisieren - Marketo-Dokumente - Produktdokumentation
 title: Warnhinweis für mögliche doppelte Personen automatisieren
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Möchten Sie jedes Mal, wenn eine doppelte Person erstellt wird, einen Warnhinwe
 * Trigger: **Person wird erstellt**
 * Filter: **Duplizieren Sie Felder.** Feldname **ist vollständiger Name**
 
-   ![](assets/image2017-3-27-8-3a22-3a4.png)
+   ![](assets/automate-an-alert-1.png)
 
    >[!TIP]
    >
@@ -27,7 +27,7 @@ Möchten Sie jedes Mal, wenn eine doppelte Person erstellt wird, einen Warnhinwe
 
 1. Wählen Sie im Flussschritt [Warnhinweis senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)Fluss-Aktion {target=&quot;_blank&quot;}.
 
-   ![](assets/image2017-3-27-8-3a24-3a8.png)
+   ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
@@ -41,7 +41,7 @@ Möchten Sie jedes Mal, wenn eine doppelte Person erstellt wird, einen Warnhinwe
 
 1. Aktivieren Sie die Kampagne im **Zeitplan** Registerkarte.
 
-   ![](assets/image2017-3-27-8-3a24-3a37.png)
+   ![](assets/automate-an-alert-3.png)
 
 Das ist es! Diese Smart-Kampagne wird jedes Mal Trigger, wenn in Marketo eine neue Person mit dem vollständigen Namen erstellt wird.
 

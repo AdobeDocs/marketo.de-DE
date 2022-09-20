@@ -3,7 +3,7 @@ unique-page-id: 2359428
 description: Landingpage umleiten - Marketo-Dokumente - Produktdokumentation
 title: Landing Page umleiten
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 13%
@@ -28,21 +28,21 @@ ht-degree: 13%
 
 1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/admin.png)
+   ![](assets/redirect-a-landing-page-1.png)
 
 1. Navigieren Sie zu **Landing Pages**.
 
-   ![](assets/image2014-9-24-13-3a28-3a43.png)
+   ![](assets/redirect-a-landing-page-2.png)
 
 1. Klicken Sie auf **Regeln** Registerkarte und klicken Sie dann auf **Neu** und **Neue Umleitungsregel**.
 
-   ![](assets/image2014-9-24-13-3a28-3a59.png)
+   ![](assets/redirect-a-landing-page-3.png)
 
 ## Schritt 2: Definieren der Umleitungsregel {#step-define-the-redirect-rule}
 
 1. Klicken Sie auf die erste **Ursprüngliche URL** und wählen Sie Ihren Marketo-CNAME aus.
 
-   ![](assets/image2014-9-24-13-3a30-3a33.png)
+   ![](assets/redirect-a-landing-page-4.png)
 
    >[!NOTE]
    >
@@ -50,11 +50,11 @@ ht-degree: 13%
 
 1. Klicken Sie auf die zweite **Ursprüngliche URL** und wählen Sie die Landingpage aus, die Sie umleiten möchten.
 
-   ![](assets/image2014-9-24-13-3a30-3a50.png)
+   ![](assets/redirect-a-landing-page-5.png)
 
 1. Für **Umleitungs-URL** Wählen Sie die Seite aus, zu der Sie umleiten möchten, und klicken Sie auf **Erstellen**.
 
-   ![](assets/image2014-9-24-13-3a31-3a10.png)
+   ![](assets/redirect-a-landing-page-6.png)
 
 ## Aufgabe abgeschlossen {#mission-complete}
 
