@@ -3,18 +3,14 @@ unique-page-id: 10096658
 description: Grundlegendes zu Marketo on24 Adapter-Ereignissen - Marketo Docs - Produktdokumentation
 title: Grundlegendes zu Marketo On24-Adapterereignissen
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Grundlegendes zu Marketo On24-Adapterereignissen {#understanding-marketo-on-adapter-events}
-
->[!IMPORTANT]
->
->Ab August 2022 unterstützt ON24 keine neuen Marketo-Integrationen mehr. Die Informationen in diesem Artikel gelten nur für bestehende Benutzer.
 
 Wenn Ihr ON24-Webinar nicht mit Marketo verbunden ist, müssen Sie die Informationen, die bereits in Marketo vorhanden sind, abrufen und in ON24 eingeben. Nach dem Webinar müssen Sie die bereits in ON24 vorhandenen Teilnehmerinformationen mitnehmen und sie wieder in Marketo eingeben.
 
@@ -26,4 +22,4 @@ Die nachstehende Grafik zeigt den Integrationsprozess.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Bereit zu beginnen? Beginnen mit [Erstellen Sie ein Ereignis mit dem ON24-Adapter.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
+Bereit zu beginnen? Beginnen mit [Erstellen Sie ein Ereignis mit dem ON24-Adapter.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target=&quot;_blank&quot;}.

@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: Erläuterungen zum Webinar-Programmstatus - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zum Webinar-Programmstatus
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # Grundlegendes zum Webinar-Programmstatus {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->Ab August 2022 unterstützt ON24 keine neuen Marketo-Integrationen mehr. Die Informationen in diesem Artikel gelten nur für bestehende Benutzer.
 
 Programmstatus stellen die verschiedenen Ereignisstatus dar, die eine Person als Mitglied des Ereignisses durchlaufen kann. Sie sind mit einem Kanaltyp verknüpft. Marketo verfügt über einen integrierten Kanaltyp mit dem Namen **Webinar**. Status können sowohl in Batch- als auch in Trigger-Kampagnen verwendet werden.
 
@@ -32,7 +28,7 @@ Im Folgenden finden Sie eine kurze Beschreibung des Programmstatus im Zusammenha
 
 **Eingeladen** - Verwenden Sie diesen Status, um Personen zum Ereignis hinzuzufügen.
 
-**Ausstehende Genehmigung** - Verwenden Sie diesen Status, um Ihren Personen eine Bestätigungs-E-Mail zu senden. Siehe &quot;Manuelles Genehmigen von Registranten&quot;in [Aktualisierungen der Ereignisregistrierung in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) für weitere Informationen.
+**Ausstehende Genehmigung** - Verwenden Sie diesen Status, um Ihren Personen eine Bestätigungs-E-Mail zu senden. Siehe &quot;Manuelles Genehmigen von Registranten&quot;in [Aktualisierungen der Ereignisregistrierung in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} für weitere Informationen.
 
 **Warteliste** - Verwenden Sie diesen Status, damit einige Personen warten, bis weitere Plätze verfügbar sind.
 
@@ -58,4 +54,4 @@ Im Folgenden finden Sie eine kurze Beschreibung des Programmstatus im Zusammenha
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

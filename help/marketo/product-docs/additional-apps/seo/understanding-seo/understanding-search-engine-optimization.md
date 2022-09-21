@@ -1,60 +1,59 @@
 ---
 unique-page-id: 2949176
-description: Die Suchmaschinenoptimierung - Marketo Docs - Produktdokumentation
-title: Die Suchmaschinenoptimierung
+description: Grundlagen zur Suchmaschinenoptimierung - Marketo-Dokumente - Produktdokumentation
+title: Grundlagen zur Suchmaschinenoptimierung
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# Die Suchmaschinenoptimierung {#understanding-search-engine-optimization}
+# Grundlagen zur Suchmaschinenoptimierung {#understanding-search-engine-optimization}
 
-Suchmaschinenoptimierung (SEO) ist eine Sammlung von Best Practices, mit denen Sie Ihre Seiten vor den Benutzern von Suchmaschinen bringen können. Die Marketo SEO-App hilft Ihnen bei der Verbesserung.
+Suchmaschinenoptimierung (SEO) ist eine Sammlung von Best Practices, mit denen Sie Ihre Seiten vor Personen bringen können, die Suchmaschinen verwenden. Die Marketo SEO-App hilft Ihnen bei der Verbesserung.
 
 Zunächst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 
 ## SEO-Glossar {#seo-glossary}
 
-**Suchmaschinenoptimierung (SEO)**: Eine Mischung aus Strategien und Techniken, die verwendet werden, um den Site-Traffic durch eine Platzierung auf Suchmaschinenergebnisseiten (SERP) zu erhöhen.
+**Suchmaschinenoptimierung (SEO)**: Eine Mischung aus Strategien und Techniken, die zur Erhöhung des Site-Traffics verwendet werden, indem eine hochwertige Platzierung in Suchergebnisseiten (SERP) erzielt wird.
 
-**Suchbegriff**: Ein Suchbegriff ist das Wort oder die Wortgruppe, die in Suchmaschinen wie Google, Yahoo oder Bing eingegeben wird.
+**Schlüsselwort**: Ein Keyword ist das Wort oder die Wortgruppe, das/die in Suchmaschinen wie Google, Yahoo oder Bing eingegeben wird.
 
-**Inbound Links**: Links auf anderen Sites, die Traffic zu Ihrer Site leiten. Je höher der Ruf der verlinkenden Site ist, desto wertvoller ist dieser Link.
+**Eingehende Links**: Links auf anderen Sites, die Traffic zu Ihrer Site leiten. Je höher der Ruf der verlinkenden Website ist, desto wertvoller ist dieser eingehende Link.
 
-**SERP-Rangfolge**: Steht für Suchmaschinen-Ergebnisseite. Suchmaschinen geben mehrere Ergebnisseiten zurück. Die SERP-Rangfolge ist die Seite, auf der Ihr Link angezeigt wird. In der Regel gibt es 10 Ergebnisse pro Seite.
+**SERP-Rangfolge**: Steht für Suchmaschinen-Ergebnisseite. Suchmaschinen geben mehrere Ergebnisseiten zurück. Das SERP-Ranking ist die Seite, auf der Ihr Link erscheint. In der Regel gibt es 10 Ergebnisse pro Seite.
 
-**Suchmaschinen-Ansicht**: Die Art und Weise, wie ein Suchmaschinencomputer Ihre Site wahrnimmt, im Gegensatz zur Art, wie ein Mensch dies tut.
+**Suchmaschinenansicht**: Die Art und Weise, wie ein Suchmaschinencomputer Ihre Site wahrnimmt, im Gegensatz zur Art und Weise, wie ein Mensch es tut.
 
-**Suchbegriffe** für FAT-Überschriften: Allgemeine Suchbegriffe, die ein sehr großes Netz darstellen. Sie machen etwa 19 % aller verwendeten Suchbegriffe aus.
+**Suchbegriffe für FAT-Kopfzeilen**: Allgemeine Suchbegriffe, die ein sehr großes Netz darstellen. Sie machen etwa 19 % aller verwendeten Suchbegriffe aus.
 
 (Beispiel: Schuhe)
 
-**Textbausteine** der mittleren Suche: Genauere Suchbegriffe. Auf diese entfallen etwa 11 % aller verwendeten Suchbegriffe.
+**Chunky Middle Search-Begriffe**: spezifischere Suchbegriffe. Auf sie entfallen etwa 11 % aller verwendeten Suchbegriffe.
 
 (Beispiel: Laufende Schuhe)
 
-**Suchbegriffe** mit langer Laufzeit: Super spezifische Suchbegriffe. Diese werden in etwa 70 % der Fälle verwendet.
+**Langfristige Suchbegriffe**: Super spezifische Keywords. Diese werden in etwa 70 % der Fälle verwendet.
 
-(Beispiel: Minimalistische Frauen mit Schuhgröße 9)
+(Beispiel: Minimalistische Damen mit Laufschuhen der Größe 9)
 
-**Optimierungsergebnis**: Die Optimierungsbewertung ist ein proprietärer Marketo-Wert, der alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst. Er basiert auf einer Sammlung von Dutzenden vorbildlichen Verfahren. Ein Wert von 70 oder höher gibt an, dass eine Site recht gut optimiert ist.
+**Optimierungsbewertung**: Die Optimierungsbewertung ist ein proprietäres Marketo-Ergebnis, das alle Seiten auf Ihrer Site auf einer Skala von 1 bis 100 misst. Sie basiert auf einer Sammlung von Dutzenden von Best Practices. Ein Wert von 70 oder höher zeigt an, dass eine Site recht gut optimiert ist.
 
-**On-Page-Optimierung**: Maßnahmen, die direkt innerhalb Ihrer Website selbst ergriffen werden können, um ihre Position auf den Suchmaschinenergebnisseiten zu verbessern.
+**On-Page-Optimierung**: Maßnahmen, die direkt auf Ihrer Website durchgeführt werden können, um ihre Position auf den Suchmaschinenergebnis-Seiten zu verbessern.
 
-(Beispiel: Einfügen von Suchbegriffen in die Kopfzeile Ihrer Seite)
+(Beispiel: Einbinden von Keywords in die Kopfzeile Ihrer Seite)
 
-**Offseitenoptimierung**: Maßnahmen, die außerhalb der eigentlichen Website ergriffen werden können, um ihre Position in der Suchrangliste zu verbessern.
+**Off-Page-Optimierung**: Maßnahmen, die außerhalb der eigentlichen Website ergriffen werden können, um ihre Position in den Suchrankings zu verbessern.
 
-(Beispiel: Erhöhung der Anzahl der eingehenden Links von qualitativ hochwertigen und seriösen Sites)
+(Beispiel: Erhöhung der Anzahl der eingehenden Links von hochwertigen und renommierten Websites)
 
 ## Wie gehe ich los? {#how-do-i-get-started}
 
-1. Entwickeln Sie Ihre Strategie mit [Die Suchbegriffe](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-1. Bestehende Probleme in [Verstehen der Seiten](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) beheben
-1. Erweitern Sie Ihre Reichweite um [Eingehende Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Entwickeln Sie Ihre Strategie mit [Grundlegendes zu Suchbegriffen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
+1. Beheben Sie vorhandene Probleme in [Verstehen von Seiten](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target=&quot;_blank&quot;}
+1. Reichweite erweitern durch [Grundlegendes zu eingehenden Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target=&quot;_blank&quot;}
 
-Ihr Ziel ist es, bei Suchbegriffen, die für Ihr Unternehmen von Bedeutung sind, der ersten Seite (und dem ersten Ergebnis) so nahe zu sein.
+Ihr Ziel besteht darin, bei Suchbegriffen, die für Ihr Unternehmen von Bedeutung sind, der ersten Seite (und dem ersten Ergebnis) so nahe zu stehen.
