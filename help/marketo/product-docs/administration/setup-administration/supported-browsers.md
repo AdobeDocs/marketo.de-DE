@@ -3,9 +3,9 @@ unique-page-id: 2359893
 description: Unterstützte Browser - Marketo Docs - Produktdokumentation
 title: Unterstützte Browser
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
-source-git-commit: c1dbd244fe113a4cd7f6d72d68ae8f673d01117e
+source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '66'
 ht-degree: 1%
 
 ---
@@ -16,9 +16,9 @@ Marketo unterstützt derzeit die folgenden Browser:
 
 | Browser | Unterstützte Versionen |
 |---|---|
-| [Google Chrome](https://www.google.com/intl/en/chrome/browser/) | latest |
-| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) | latest |
-| [Apple Safari](https://www.apple.com/safari/) | latest |
-| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | latest |
+| [Google Chrome](https://www.google.com/intl/en/chrome/browser/){target=&quot;_blank&quot;} | latest |
+| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/){target=&quot;_blank&quot;} | latest |
+| [Apple Safari](https://www.apple.com/safari/){target=&quot;_blank&quot;} | latest |
+| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge){target=&quot;_blank&quot;} | latest |
 
-Um das beste Erlebnis zu erzielen, halten Sie Ihren Browser auf dem neuesten Stand **!**
+Für das beste Erlebnis: **Browser aktualisieren**!

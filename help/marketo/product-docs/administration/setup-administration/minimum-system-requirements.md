@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359900
-description: Mindestsystemanforderungen - Marketo Docs - Produktdokumentation
+description: Systemanforderungen - Marketo-Dokumente - Produktdokumentation
 title: Mindestsystemanforderungen
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Mindestsystemanforderungen {#minimum-system-requirements}
 
-Wenn Sie sich fragen, was Sie für die Anmeldung und Verwendung von Marketo benötigen, hier sind die Informationen, die Sie suchen.
+Wenn Sie sich fragen, was Sie für die Anmeldung und Verwendung von Marketo benötigen, hier die Informationen, die Sie suchen.
 
 >[!NOTE]
 >
@@ -22,9 +21,9 @@ Wenn Sie sich fragen, was Sie für die Anmeldung und Verwendung von Marketo ben�
 * Computer oder Laptop mit Windows, OS X oder Linux
 * Tastatur und Maus
 * Monitor mit einer Mindestauflösung von 1280 x 768
-* Aktuelle Browser finden Sie unter [Unterstützte Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)
+* Aktueller Browser, siehe [Unterstützte Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target=&quot;_blank&quot;} für Details
 * Internetverbindung
 
 >[!NOTE]
 >
->Wenn Ihr IT-Team den Web-Zugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, `*.marketo.com` hinzuzufügen, um alle Marketo-Ressourcen und -Websockets zuzulassen.
+>Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, den `*.marketo.com` um alle Marketo-Ressourcen und -Websockets zuzulassen.
