@@ -1,68 +1,71 @@
 ---
 unique-page-id: 7512289
-description: hinzufügen GoToWebinar als LaunchPoint-Dienst - Marketo Docs - Produktdokumentation
-title: hinzufügen GoToWebinar als LaunchPoint-Dienst
+description: GoToWebinar als LaunchPoint-Dienst hinzufügen - Marketo Docs - Produktdokumentation
+title: GoToWebinar als LaunchPoint-Dienst hinzufügen
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 3%
 
 ---
 
-# hinzufügen GoToWebinar als LaunchPoint-Dienst {#add-gotowebinar-as-a-launchpoint-service}
+# GoToWebinar als LaunchPoint-Dienst hinzufügen {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo verwaltet die Registrierung und den Besuch Ihres GoToWebinars.
-
->[!NOTE]
->
->**Administratorberechtigungen erforderlich**
+Marketo verwaltet Ihre GoToWebinar-Registrierung und -Teilnahme.
 
 >[!NOTE]
 >
->Für diesen Schritt sind ein Abonnement zu GoToWebinar und Verwaltungsrechte erforderlich. Halten Sie die E-Mail und das Passwort bereit, mit denen Sie sich beim GoToWebinar anmelden.
+>**Erforderliche Administratorberechtigungen**
+
+>[!NOTE]
+>
+>Für diesen Schritt sind ein bestehendes Abonnement für GoToWebinar und Administratorrechte erforderlich. Lassen Sie die E-Mail-Adresse und das Passwort, die Sie verwenden, um sich bei GoToWebinar anzumelden.
 
 >[!NOTE]
 >
 >GoToMeeting, GoToWebcast und GoToTraining werden derzeit nicht unterstützt.
 
-1. Gehen Sie zu **Admin** und wählen Sie **LaunchPoint**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2015-4-22-15-3a33-3a47.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. Wählen Sie **Neu** und **Neuer Dienst**.
+1. Klicken **LaunchPoint**.
 
-   ![](assets/new-service-gotowebinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Service** **GoToWebinar**.
+1. Auswählen **Neu** und **Neuer Dienst**.
 
-   ![](assets/new-service-goto-webinar1.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Klicken Sie anschließend auf **Anmelden bei GoToWebinar**.
+1. Geben Sie einen **Anzeigename**. under **Diensleistung** auswählen **GoToWebinar**.
 
-   ![](assets/image2015-4-22-15-3a57-3a59.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
+
+1. Klicken Sie anschließend auf **Bei GoToWebinar anmelden**.
+
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Wenn Sie die Firmen- und Auftragsnamen aus Ihrem Marketo-Formular mit GoToWebinar synchronisieren möchten, wählen Sie das Kontrollkästchen **Zusätzliche Felder aktivieren**.
+   >Wenn Sie Firmenname und Auftragstitel aus Ihrem Marketo-Formular mit GoToWebinar synchronisieren möchten, wählen Sie die **Zusätzliche Felder aktivieren** ankreuzen.
 
-1. Geben Sie im Popup-Fenster &quot;GoToWebinar-Anmeldung&quot;Ihre **GoToWebinar**-E-Mail und Ihr -Kennwort ein und klicken Sie auf **Anmelden**.
+1. Geben Sie im Popup-Fenster GoToWebinar-Anmeldung Ihre **GoToWebinar** E-Mail und Kennwort und klicken Sie auf **Anmelden**.
 
-   ![](assets/image2015-4-22-15-3a52-3a31.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. Klicken Sie nach dem Schließen des Fensters auf **Erstellen**.
+1. Nachdem das Fenster geschlossen wurde, klicken Sie auf **Erstellen**.
 
-   ![](assets/image2015-4-22-15-3a57-3a43.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Sehr gut! Ihr **GoToWebinar**-Konto wird jetzt mit Marketo synchronisiert.
+1. Sehr gut! Ihre **GoToWebinar** -Konto jetzt mit Marketo synchronisiert.
 
-   ![](assets/goto-webinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
->Wenn Sie Ihr Passwort im GoToWebinar aktualisieren, müssen Sie auch Ihr Passwort in Marketo aktualisieren.
+>Wenn Sie Ihr Kennwort in GoToWebinar aktualisieren, müssen Sie auch Ihr Kennwort in Marketo aktualisieren.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie ein Ereignis mit GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md) erstellen.[
+>Erfahren Sie, wie Sie [Ereignis mit GotoWebinar erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}.

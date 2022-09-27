@@ -1,127 +1,143 @@
 ---
 unique-page-id: 2360354
-description: hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website - Marketo Docs - Produktdokumentation
-title: hinzufügen Munchkin-Rückverfolgungscode auf Ihrer Website
+description: Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 0%
+source-wordcount: '672'
+ht-degree: 2%
 
 ---
 
-# hinzufügen Munchkin-Trackingcode auf Ihrer Website {#add-munchkin-tracking-code-to-your-website}
+# Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website {#add-munchkin-tracking-code-to-your-website}
 
-Marketos benutzerspezifischer JavaScript-Rückverfolgungscode namens Munchkin verfolgt alle Personen, die Ihre Website besuchen, sodass Sie mit automatisierten Marketing-Kampagnen auf ihre Besuche reagieren können. Auch anonyme Besucher werden zusammen mit ihren IP-Adressen und anderen Informationen verfolgt. **Ohne diesen Rückverfolgungscode können Sie Besuche oder andere Aktivitäten auf Ihrer Website** nicht verfolgen!
+Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens Munchkin verfolgt alle Personen, die Ihre Website besuchen, sodass Sie mit automatisierten Marketingkampagnen auf ihre Besuche reagieren können. Auch anonyme Besucher werden zusammen mit ihren IP-Adressen und anderen Informationen verfolgt. **Ohne diesen Trackingcode können Sie keine Besuche oder anderen Aktivitäten auf Ihrer Website verfolgen**!
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie Zugriff auf einen erfahrenen JavaScript-Entwickler haben. Der technische Support von Marketo ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes JavaScript unterstützt wird.
+>Stellen Sie sicher, dass Sie Zugriff auf einen erfahrenen JavaScript-Entwickler haben. Der technische Support von Marketo ist nicht für die Fehlerbehebung bei benutzerdefiniertem JavaScript eingerichtet.
 
-## hinzufügen Trackingcode auf Ihrer Website {#add-tracking-code-to-your-website}
+## Hinzufügen von Trackingcode zu Ihrer Website {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Adobe Experience Cloud-Kunden können auch die Integration von Marketo in Adobe Launch verwenden, um Munchkin-Skripten auf ihren Webseiten einzubinden. Rufen Sie die App [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html) ab.
+>Adobe Experience Cloud-Kunden können auch die Marketo-Integration in Adobe Launch verwenden, um Munchkin-Skript auf ihren Webseiten einzubinden. App abrufen [here](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Munchkin** in der Struktur auf der linken Seite.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2015-8-25-16-3a21-3a14.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-   Wählen Sie Asynchron für den Rückverfolgungscode-Typ.
+1. Klicken **Munchkin**.
 
-   ![](assets/image2015-8-25-16-3a24-3a33.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
+
+1. Wählen Sie Asynchron für den Trackingcode-Typ aus.
+
+   ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
    >[!NOTE]
    >
-   >In fast allen Fällen sollten Sie den asynchronen Code verwenden. [Weitere Informationen.](#types-of-munchkin-tracking-codes)
+   >In fast allen Fällen sollten Sie den asynchronen Code verwenden. [Weitere Informationen](#types-of-munchkin-tracking-codes).
 
-   Klicken Sie auf und kopieren Sie den Javascript-Trackingcode, den Sie auf Ihre Website setzen möchten.
+1. Klicken Sie auf den Javascript-Trackingcode und kopieren Sie ihn in Ihre Website.
 
-   ![](assets/image2015-8-25-16-3a26-3a12.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >Verwenden Sie nicht den Code, der in diesem Screenshot gezeigt wird - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird!
+   >Verwenden Sie nicht den in diesem Screenshot angezeigten Code - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird!
 
    >[!TIP]
    >
-   >Setzen Sie Trackingcode auf die Webseiten, die Sie verfolgen möchten. Dies kann jede Seite für kleinere Sites oder nur wichtige Seiten auf Sites mit vielen dynamisch generierten Webseiten, Benutzerforen usw. sein.
+   >Fügen Sie den Trackingcode auf die Webseiten ein, die Sie verfolgen möchten. Dabei kann es sich um jede Seite für kleinere Sites oder nur um wichtige Seiten auf Sites mit vielen dynamisch generierten Webseiten, Benutzerforen usw. handeln.
 
-   Um optimale Ergebnisse zu erzielen, verwenden Sie den asynchronen Munchkin-Code und platzieren Sie ihn in den `<head>`-Elementen Ihrer Seiten. Wenn Sie den einfachen Code verwenden (nicht empfohlen), liegt dieser direkt vor dem `</body>`-Tag.
-   ![](assets/image2015-8-25-16-3a5-3a20.png)
+   Die besten Ergebnisse erzielen Sie, wenn Sie den asynchronen Munchkin-Code verwenden und ihn im `<head>` Elemente Ihrer Seiten. Wenn Sie den einfachen Code verwenden (nicht empfohlen), liegt dies direkt vor dem `</body>` -Tag.
 
->[!TIP]
->
->Bei Sites mit hohem Traffic-Aufkommen (d. h. Hunderttausenden Besuchen pro Monat) empfehlen wir, anonyme Personen nicht zu verfolgen. [Weitere Informationen](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
-## hinzufügen Rückverfolgungscode bei Verwendung mehrerer Arbeitsflächen {#add-tracking-code-when-using-multiple-workspaces}
+   >[!TIP]
+   >
+   >Bei Sites mit hohem Traffic-Aufkommen (d. h. Hunderttausende Besuche pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Informationen](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
 
-Wenn Sie Workspaces in Ihrem Marketo-Konto verwenden, haben Sie wahrscheinlich auch separate Webpräsenzen, die Ihren Arbeitsbereichen entsprechen. In diesem Fall können Sie das Munchkin-Tracking-Javascript verwenden, um Ihre anonymen Personen der richtigen Arbeitsfläche und Partition zuzuweisen.
+## Hinzufügen von Trackingcode bei Verwendung mehrerer Arbeitsbereiche {#add-tracking-code-when-using-multiple-workspaces}
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Munchkin** in der Struktur auf der linken Seite.
+Wenn Sie Workspace in Ihrem Marketo-Konto verwenden, verfügen Sie wahrscheinlich auch über separate Webpräsenzen, die Ihren Arbeitsbereichen entsprechen. In diesem Fall können Sie das Javascript für das Munchkin-Tracking verwenden, um Ihre anonymen Personen dem richtigen Arbeitsbereich und der richtigen Partition zuzuweisen.
 
-![](assets/image2015-8-25-16-3a28-3a41.png)
+1. Navigieren Sie zum **Admin**-Bereich.
+
+   ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
+
+1. Klicken **Munchkin**.
+
+   ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
 1. Wählen Sie den entsprechenden Arbeitsbereich für die Webseiten aus, die Sie verfolgen möchten.
 
-   ![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-8.png)
 
->[!NOTE]
->
->Wenn Sie den speziellen Workspace-Munchkin-Code nicht verwenden, werden die Personen der Standardpartition zugewiesen, die beim Einrichten Ihres Kontos erstellt wurde. Es heißt zunächst &quot;Standard&quot;, aber Sie haben dies möglicherweise in Ihrem eigenen Marketo-Konto geändert.
+   >[!NOTE]
+   >
+   >Wenn Sie den speziellen Workspace Munchkin-Code nicht verwenden, werden die Personen der Standardpartition zugewiesen, die beim Einrichten Ihres Kontos erstellt wurde. Er heißt anfangs &quot;Standard&quot;, aber Sie haben dies möglicherweise in Ihrem eigenen Marketo-Konto geändert.
 
-1. Wählen Sie **Asynchron** für Rückverfolgungscode-Typ.
+1. Auswählen **Asynchron** für den Trackingcode-Typ.
 
-   ![](assets/image2015-8-25-16-3a32-3a42.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. Klicken Sie auf und kopieren Sie den JavaScript-Rückverfolgungscode, der auf Ihre Website eingefügt werden soll.
+1. Klicken Sie auf den JavaScript-Trackingcode und kopieren Sie ihn in Ihre Website.
 
-   ![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
    >[!CAUTION]
    >
-   >Verwenden Sie nicht den Code, der in diesem Screenshot gezeigt wird - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird!
+   >Verwenden Sie nicht den in diesem Screenshot angezeigten Code - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird!
 
-1. Platzieren Sie den Rückverfolgungscode auf Ihren Webseiten im Element `<head>`. Neue Personen, die diese Seite besuchen, werden dieser Partition zugewiesen.
+1. Platzieren Sie den Trackingcode auf Ihren Webseiten im `<head>` -Element. Neue Personen, die diese Seite besuchen, werden dieser Partition zugewiesen.
 
-   ![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
->[!CAUTION]
->
->Sie können nur ein Munchkin-Verfolgungsskript für eine einzelne Partition und einen Arbeitsbereich auf einer Seite verwenden. Schließen Sie keine Verfolgungsskripten für mehrere Partitionen/Arbeitsbereiche auf Ihrer Website ein.
+   >[!CAUTION]
+   >
+   >Sie können nur ein Munchkin-Tracking-Skript für eine Partition und einen Arbeitsbereich auf einer Seite verwenden. Schließen Sie keine Tracking-Skripte für mehrere Partitionen/Arbeitsbereiche auf Ihrer Website ein.
 
->[!NOTE]
->
->In Marketo erstellte Landingpages enthalten automatisch Trackingcode, sodass Sie diesen Code nicht darauf verwenden müssen.
+   >[!NOTE]
+   >
+   >In Marketo erstellte Landingpages enthalten automatisch Trackingcode, sodass Sie diesen Code nicht darauf ablegen müssen.
 
-## Typen von Munchkin-Rückverfolgungscodes {#types-of-munchkin-tracking-codes}
+## Typen von Munchkin-Trackingcodes {#types-of-munchkin-tracking-codes}
 
-Es gibt drei Arten von Munchkin-Trackingcodes, aus denen Sie wählen können. Jede Änderung wirkt sich unterschiedlich auf die Ladezeit der Webseite aus.
+Es gibt drei Typen von Munchkin-Trackingcodes, aus denen Sie wählen können. Jede Änderung wirkt sich unterschiedlich auf die Ladezeiten der Webseite aus.
 
-1. **Einfach**: hat die wenigsten Codezeilen, optimiert aber nicht für die Ladezeit der Webseite. Dieser Code lädt die jQuery-Bibliothek jedes Mal, wenn eine Webseite geladen wird.
-1. **Asynchron**: verkürzt die Ladezeit der Webseite.
-1. **Asynchrone jQuery**: verringert die Ladezeit von Webseiten und verbessert auch die Systemleistung. Bei diesem Code wird davon ausgegangen, dass Sie bereits über jQuery verfügen, und nicht überprüft, ob Sie ihn laden möchten.
+1. **Einfach**: hat die wenigsten Codezeilen, optimiert jedoch nicht für die Ladezeit von Webseiten. Dieser Code lädt die jQuery-Bibliothek jedes Mal, wenn eine Webseite geladen wird.
+1. **Asynchron**: verkürzt die Ladezeit von Webseiten.
+1. **Asynchrone jQuery**: reduziert die Ladezeit von Webseiten und verbessert auch die Systemleistung. In diesem Code wird davon ausgegangen, dass Sie bereits über jQuery verfügen und nicht überprüfen, ob Sie ihn laden.
 
-## Testen Sie, ob Ihr Munchkin-Code {#test-if-your-munchkin-code-is-working} funktioniert.
+## Testen, ob Ihr Munchkin-Code funktioniert {#test-if-your-munchkin-code-is-working}
 
 So überprüfen Sie, ob Ihr Munchkin-Code funktioniert, nachdem Sie ihn hinzugefügt haben:
 
 1. Besuchen Sie Ihre Webseite.
 
-1. Gehen Sie zu **Analytics**.
+1. Klicken Sie in Ihrer Marketo auf die **Analytics** Kachel.
 
-   ![](assets/mainnav-analytics-hand.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Klicken Sie auf **Aktivität der Webseite**.
+1. Klicken **Webseiten-Aktivität**.
 
-   ![](assets/webanalytics.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Klicken Sie auf die Registerkarte **Setup**, klicken Sie mit der Dublette auf **Aktivität Quelle** und ändern Sie sie in **Anonyme Besucher (einschließlich ISPs)**.
+1. Klicken Sie auf **Einrichtung** Registerkarte, doppelklicken **Aktivitätsquelle**.
 
-   ![](assets/analytics-activity-source.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-   ![](assets/activitysource.png)
+1. Ändern Sie die Aktivitätsquelle in **Anonyme Besucher (einschließlich ISPs)** und klicken Sie auf **Anwenden**.
 
-1. Klicken Sie auf die Registerkarte **Bericht**. Wenn keine Daten angezeigt werden, warten Sie einige Minuten und klicken Sie dann auf das Aktualisierungssymbol unten.
+   ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
+
+1. Klicken Sie auf **Bericht** Registerkarte.
+
+   ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
+
+   >[!NOTE]
+   >
+   >Wenn keine Daten angezeigt werden, warten Sie einige Minuten und klicken Sie auf das Aktualisierungssymbol unten.

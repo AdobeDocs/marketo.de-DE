@@ -1,48 +1,51 @@
 ---
 unique-page-id: 7512292
-description: hinzufügen Level 3 Web Meeting als LaunchPoint Service - Marketo Docs - Produktdokumentation
-title: hinzufügen Level 3-Webtreffen als LaunchPoint-Dienst
+description: Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst
 exl-id: f419b019-33bb-446d-baf5-55393770a703
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
-# hinzufügen Level 3 Web Meeting als LaunchPoint Service {#add-level-web-meeting-as-a-launchpoint-service}
+# Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo verwaltet die Registrierung und Teilnahme an einem Level 3-Webtreffen.
-
->[!NOTE]
->
->**Administratorberechtigungen erforderlich**
+Marketo verwaltet die Registrierung und Teilnahme von Level 3-Webtreffen.
 
 >[!NOTE]
 >
->Für diesen Schritt sind ein Abonnement zu Level 3 Web Meeting und Verwaltungsrechte erforderlich. Halten Sie Ihre Zugangsnummer, Ihren Zugangscode und Ihren Passcode bereit.
+>**Erforderliche Administratorberechtigungen**
 
-1. Gehen Sie zu **Admin** und wählen Sie **LaunchPoint**.
+>[!NOTE]
+>
+>Für diesen Schritt ist ein bestehendes Abonnement für Level 3 Web Meeting und Administratorrechte erforderlich. Lassen Sie Ihre Zugriffsnummer, Zugriffscode und Passcode zur Verfügung.
 
-   ![](assets/image2015-4-23-10-3a5-3a12.png)
+1. Navigieren Sie zum **Admin**-Bereich.
 
-1. Wählen Sie **Neu** und dann **Neuer Dienst**.
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-   ![](assets/level-3-web-meeting-new-service.png)
+1. Klicken **LaunchPoint**.
 
-1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Service** **Level 3 Web Meeting**.
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-   ![](assets/new-service-level-3.png)
+1. Auswählen **Neu** und dann **Neuer Dienst**.
 
-1. Geben Sie **Zugriffsnummer**, **Zugangscode** und **Passcode** ein und klicken Sie dann auf **Erstellen**.
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-   ![](assets/image2015-4-23-10-3a10-3a26.png)
+1. Geben Sie einen **Anzeigename**. under **Diensleistung** auswählen **Level 3 Web Meeting**.
+
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
+
+1. Geben Sie Ihre **Zugriffsnummer**, **Zugriffscode** und **Passcode** Klicken Sie auf **Erstellen**.
+
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 
 Ihr Level 3 Web Meeting-Konto ist jetzt mit Marketo synchronisiert!
 
-![](assets/level-3-web-meeting.png)
+![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie ein Ereignis mit einem Level-3-Webtreffen [erstellen.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
+>Erfahren Sie, wie Sie [Ereignis mit einem Level 3-Webtreffen erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target=&quot;_blank&quot;}.
