@@ -1,52 +1,55 @@
 ---
 unique-page-id: 7512278
-description: hinzufügen ReadyTalk als LaunchPoint-Dienst - Marketo Docs - Produktdokumentation
-title: hinzufügen ReadyTalk als LaunchPoint-Dienst
+description: ReadyTalk als LaunchPoint-Dienst hinzufügen - Marketo Docs - Produktdokumentation
+title: ReadyTalk als LaunchPoint-Dienst hinzufügen
 exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 4%
 
 ---
 
-# hinzufügen ReadyTalk als LaunchPoint-Dienst {#add-readytalk-as-a-launchpoint-service}
+# ReadyTalk als LaunchPoint-Dienst hinzufügen {#add-readytalk-as-a-launchpoint-service}
 
-Marketo verwaltet die Registrierung und den Besuch Ihres ReadyTalk-Webinars.
-
->[!NOTE]
->
->**Administratorberechtigungen erforderlich**
+Marketo verwaltet die Registrierung und Teilnahme Ihres ReadyTalk-Webinars.
 
 >[!NOTE]
 >
->Für diesen Schritt sind ein Abonnement zu ReadyTalk und Verwaltungsrechte erforderlich. Legen Sie die folgenden Einstellungen fest: Zugriffsnummer, Zugriffscode und Passcode.
+>**Erforderliche Administratorberechtigungen**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **ReadyTalk**.
+>[!NOTE]
+>
+>Für diesen Schritt sind ein bestehendes Abonnement für ReadyTalk und Administratorrechte erforderlich. Verwenden Sie die folgenden Einstellungen: Zugriffsnummer, Zugriffscode und Passcode.
 
-   ![](assets/image2015-4-23-10-3a50-3a23.png)
+1. Navigieren Sie zum **Admin**-Bereich.
 
-1. Wählen Sie **Neu** und dann **Neuer Dienst**.
+   ![](assets/add-readytalk-as-a-launchpoint-service-1.png)
 
-   ![](assets/readytalk-new-service.png)
+1. Klicken **LaunchPoint**.
 
-1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Service** **ReadyTalk**.
+   ![](assets/add-readytalk-as-a-launchpoint-service-2.png)
 
-   ![](assets/new-service-readytalk.png)
+1. Auswählen **Neu** und dann **Neuer Dienst**.
 
-1. Geben Sie **Zugriffsnummer** und **Zugriffscode** ein.
+   ![](assets/add-readytalk-as-a-launchpoint-service-3.png)
 
-   ![](assets/image2015-4-24-18-3a53-3a2.png)
+1. Geben Sie einen **Anzeigename**. under **Diensleistung** auswählen **ReadyTalk**.
 
-1. Schließen Sie den Prozess ab, indem Sie **Passcode** eingeben und auf **Erstellen** klicken.
+   ![](assets/add-readytalk-as-a-launchpoint-service-4.png)
 
-   ![](assets/image2015-4-24-18-3a53-3a38.png)
+1. Geben Sie Ihre **Zugriffsnummer** und **Zugriffscode**.
 
-Ihr **ReadyTalk**-Konto wird jetzt mit Marketo synchronisiert.
+   ![](assets/add-readytalk-as-a-launchpoint-service-5.png)
 
-![](assets/readytalk.png)
+1. Schließen Sie den Prozess ab, indem Sie Ihre **Passcode** und klicken Sie auf **Erstellen**.
+
+   ![](assets/add-readytalk-as-a-launchpoint-service-6.png)
+
+Ihre **ReadyTalk** -Konto jetzt mit Marketo synchronisiert.
+
+![](assets/add-readytalk-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie mit ReadyTalk [ein Ereignis erstellen.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+>Erfahren Sie, wie Sie [Ereignis mit ReadyTalk erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).

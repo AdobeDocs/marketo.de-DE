@@ -1,67 +1,74 @@
 ---
 unique-page-id: 14745982
-description: hinzufügen Workplace By Facebook as a LaunchPoint Service - Marketo Docs - Produktdokumentation
-title: hinzufügen Workplace by Facebook als LaunchPoint-Dienst
+description: Hinzufügen von Workplace by Facebook as a LaunchPoint Service - Marketo Docs - Produktdokumentation
+title: Hinzufügen von Workplace by Facebook as a LaunchPoint Service
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 1%
+source-wordcount: '286'
+ht-degree: 3%
 
 ---
 
-# hinzufügen Workplace By Facebook as a LaunchPoint Service {#add-workplace-by-facebook-as-a-launchpoint-service}
+# Hinzufügen von Workplace by Facebook as a LaunchPoint Service {#add-workplace-by-facebook-as-a-launchpoint-service}
 
-Die Integration in Workplace umfasst zwei Benachrichtigungstypen:
+In der Arbeitsplatzintegration sind zwei Benachrichtigungstypen enthalten:
 
-* **Systembenachrichtigungen**: Rufen Sie Benachrichtigungen zu wichtigen Ereignissen in Ihrer Marketo-Instanz ab, z. B. Warnungen zu aktuellen Statuswerten der Kampagne und Problemen, die sofortige Aufmerksamkeit erfordern (CRM-Fehler und API-Beschränkungen).
-* **Interessante Momente**: Wenn ein Marketo Insight von einer bekannten Person aus einem Kundenkonto ausgelöst wurde, können Interessenteninhaber über Workplace benachrichtigt werden. Benachrichtigungen enthalten Interessenteninformationen sowie Details zum Kundenkonto.
+* **Systembenachrichtigungen**: Rufen Sie Benachrichtigungen von Workplace zu wichtigen Ereignissen in Ihrer Marketo-Instanz ab, z. B. Warnhinweise zum aktuellen Kampagnenstatus und zu Problemen, die sofortige Aufmerksamkeit erfordern (CRM-Fehler und API-Beschränkungen).
+* **Interessante Momente**: Wenn ein Marketo Insight von einer bekannten Person aus einem Verkaufskonto ausgelöst wurde, können Lead-Inhaber über Workplace benachrichtigt werden. Benachrichtigungen enthalten Lead-Informationen sowie Details zum Verkaufskonto.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!PREREQUISITES]
 >
->Wenn Sie noch keine Workspace-Benachrichtigungen aktiviert haben, wenden Sie sich bitte an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie keine Workspace-Benachrichtigungen bereits aktiviert haben, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
 
-1. Gehen Sie zu **LaunchPoint** und klicken Sie dann unter **New** auf **New Service**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2017-11-27-14-3a13-3a18-1.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-1.png)
 
-1. Geben Sie einen Anzeigenamen für Ihre Workplace-Integration ein. Wählen Sie in der Dropdownliste **Dienst** **Arbeitsplatz nach Facebook**. Klicken Sie auf **Erstellen**.
+1. Klicken **LaunchPoint**.
 
-   ![](assets/newservice.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-2.png)
+
+1. Auswählen **Neu** und dann **Neuer Dienst**.
+
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
+
+1. Geben Sie einen Anzeigenamen für Ihre Workplace-Integration ein. Im **Diensleistung** Dropdown-Liste auswählen **Arbeitsplatz nach Facebook**. Klicken Sie auf **Erstellen**.
+
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
 1. Um Systembenachrichtigungen und interessante Momente zu erhalten, lassen Sie die Optionen unverändert. Klicken Sie auf **Erstellen**.
 
-   ![](assets/create.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
-1. Klicken Sie auf **Autorisieren**. Dadurch wird Workplace in einer neuen Registerkarte geöffnet, auf der Sie die Autorisierung abschließen und Marketo die Erlaubnis erteilen, Informationen von Workplace zu beziehen.
+1. Klicken **Autorisieren**. Dadurch wird Arbeitsplatz in einer neuen Registerkarte geöffnet, auf der Sie die Autorisierung abschließen und Marketo die Berechtigung zum Abrufen von Informationen von Workplace erteilen.
 
-   ![](assets/authorize.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
-1. Geben Sie auf der neuen Registerkarte &quot;Arbeitsplatz&quot;Ihre geschäftliche E-Mail oder Ihren Arbeitsplatz-Benutzernamen ein und klicken Sie auf **Weiter**.
+1. Geben Sie im neuen Tab Arbeitsplatz Ihre geschäftliche E-Mail-Adresse oder Ihren Arbeitsplatz-Benutzernamen ein und klicken Sie auf **Weiter**.
 
-   ![](assets/workplacelogin.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-7.png)
 
-1. Geben Sie Ihre Anmeldeinformationen für den Arbeitsplatz ein und klicken Sie auf **Anmelden**.
+1. Geben Sie Ihre Anmeldeinformationen für Workplace ein und klicken Sie auf **Anmelden**.
 
-   ![](assets/workplacelogininfo.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-8.png)
 
-1. Wählen Sie im Popup &quot;Arbeitsplatz&quot;eine Facebook-Gruppe aus, für die Benachrichtigungen von Marketo veröffentlicht werden sollen (z. B. Partnerintegrationen). Klicken Sie auf **Install**.
+1. Wählen Sie im Popup &quot;Workplace&quot;eine Facebook-Gruppe aus, für die Benachrichtigungen von Marketo veröffentlicht werden sollen (z. B. Partnerintegrationen). Klicken **Installieren**.
 
-   ![](assets/installmarketo.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-9.png)
 
-1. Die Bestätigungsmeldung wird unten angezeigt. Die Registerkarte wird automatisch geschlossen.
+1. Unten sehen Sie die Bestätigungsbenachrichtigung. Die Registerkarte wird automatisch geschlossen.
 
-   ![](assets/success.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-10.png)
 
-1. Aktualisieren Sie die Registerkarte &quot;Marketo&quot;und stellen Sie sicher, dass &quot;Workplace&quot;jetzt als aktiver Dienst in LaunchPoint aufgeführt wird.
+1. Aktualisieren Sie die Registerkarte Marketo und vergewissern Sie sich, dass Workspace jetzt als aktiver Dienst in LaunchPoint aufgeführt wird.
 
-   ![](assets/confirm.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-11.png)
 
-   Benachrichtigungen beginnen nun mit der Veröffentlichung für die Facebook-Gruppe, die Sie in Schritt 7 ausgewählt haben. Sie werden ungefähr so aussehen:
+   Benachrichtigungen werden jetzt mit der Veröffentlichung für die Facebook-Gruppe beginnen, die Sie in Schritt 7 ausgewählt haben. Sie werden ungefähr so aussehen:
 
-   ![](assets/example.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-12.png)

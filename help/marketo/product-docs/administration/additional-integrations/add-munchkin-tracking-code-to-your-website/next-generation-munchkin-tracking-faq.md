@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Häufig gestellte Fragen zum Munchkin-Tracking der nächsten Generation - Marketo-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Anz. Der Munchkin-Trackingcode bleibt derselbe. An Ihrer Website müssen keine �
 
 >[!NOTE]
 >
->Diese Änderung betrifft nicht Web Personalization (Real-Time Personalization). Es identifiziert weiterhin anonyme und bekannte Webbesucher und personalisiert Inhalte in Echtzeit für diese Besucher.
+>Diese Änderung betrifft nicht die Web-Personalisierung (Echtzeit-Personalisierung). Es identifiziert weiterhin anonyme und bekannte Webbesucher und personalisiert Inhalte in Echtzeit für diese Besucher.
 
 ## Warum hat Marketo den Filter &quot;Ist anonym&quot;aus Smart-Listen entfernt? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ Bevor wir diese Änderung vorgenommen haben, haben wir mehrere wöchentliche Ben
 
 Sehen Sie sich diese Links an:
 
-[Anonyme Lead-Upgrades - Überblick](https://nation.marketo.com/docs/DOC-2937)
+[Anonyme Lead-Upgrades - Überblick](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[Anonyme Lead-Upgrades - Änderungen in der Marketo-Benutzeroberfläche](https://nation.marketo.com/docs/DOC-2938)
+[Anonyme Lead-Upgrades - Änderungen in der Marketo-Benutzeroberfläche](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[Anonyme Lead-Upgrades - Kundenaktion erforderlich](https://nation.marketo.com/docs/DOC-2939)
+[Anonyme Lead-Upgrades - Kundenaktion erforderlich](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[Anonyme Lead-Upgrades - Analytics-Berichte](https://nation.marketo.com/docs/DOC-2940)
+[Anonyme Lead-Upgrades - Analytics-Berichte](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[Anonyme Lead-Upgrades - Veröffentlichungszeitplan](https://nation.marketo.com/docs/DOC-2961)
+[Anonyme Lead-Upgrades - Veröffentlichungszeitplan](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[Anonyme Lead-Upgrades - unter dem Menüpfad](https://nation.marketo.com/docs/DOC-2962)
+[Anonyme Lead-Upgrades - unter dem Menüpfad](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[Anonyme Lead-Promotion zu bekanntem Blei - Munchkin V2-Verhalten](https://nation.marketo.com/docs/DOC-2963)
+[Anonyme Lead-Promotion zu bekanntem Blei - Munchkin V2-Verhalten](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## Ich habe mehr Fragen! Wie bekomme ich Antworten? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Bitte kontaktieren Sie die [Community](https://nation.marketo.com/). Sie können auch [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Sie werden sich freuen, Ihre Fragen zu beantworten.
+Bitte kontaktieren Sie die [Community](https://nation.marketo.com/){target=&quot;_blank&quot;}. Sie können auch [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. Sie werden sich freuen, Ihre Fragen zu beantworten.
