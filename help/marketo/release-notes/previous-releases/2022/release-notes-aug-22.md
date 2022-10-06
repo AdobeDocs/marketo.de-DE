@@ -1,9 +1,9 @@
 ---
 description: Versionshinweise - August 2022 - Marketo-Dokumente - Produktdokumentation
 title: August 2022 - Versionshinweise
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Mit den folgenden Funktionen wurde ein schrittweises Rollout für **26. August 2
 
 * **Benutzerdefinierte Webhook-Kopfzeilenanzeige**: Benutzerdefinierte Webhook-Header werden jetzt auf der Registerkarte Admin > Webhooks angezeigt, um eine bessere Sichtbarkeit zu erzielen.
 
-* **CAPTCHA**: Bewerten Sie die Gültigkeit von Formularübermittlungen mit reCAPTCHA v3, um den eingehenden Formular-Traffic zu bewerten. Erstellen Sie Marketing-Workflows, um verdächtigen Bot-Traffic automatisch auszuschließen, in Quarantäne zu stellen oder zu löschen.
+* **CAPTCHA**: Gültigkeit von Formularübermittlungen bewerten [Verwenden von reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}, um den eingehenden Formular-Traffic zu bewerten. Erstellen Sie Marketing-Workflows, um verdächtigen Bot-Traffic automatisch auszuschließen, in Quarantäne zu stellen oder zu löschen.
 
 * **Berechtigung zum Genehmigen eines Formulars**: Neue Berechtigung zum Steuern, welche Designer Änderungen an einem Formular im Einklang mit anderen Design Studio-Assets genehmigen können. Dies verhindert, dass andere Designer Änderungen an Formularen senden, ohne dass jemand anderes über eine Genehmigungsberechtigung verfügt, die sie überprüft.
 

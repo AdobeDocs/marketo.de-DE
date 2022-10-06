@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: Erste Schritte - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 33%
+source-wordcount: '161'
+ht-degree: 26%
 
 ---
 
 # Erste Schritte {#getting-started}
 
-## Schritt 1: Was ist Marketo? {#what-is-marketo}
+## Was ist Adobe Marketo Engage {#what-is-marketo-engage}
 
-Was fragst du in Marketo? Große Frage!
+Was ist Marketo Engage, fragen Sie? Große Frage!
 
-[Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## Schritt 2 Einrichten {#get-set-up}
+## Welche Preisstufen sind verfügbar? {#what-pricing-tiers-are-available}
+
+Sehen Sie sich die [Marketo Engage-Preise und -Packaging-Seite](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} für weitere Informationen.
+
+## Einrichten {#get-set-up}
 
 Mit ein wenig Hilfe von Ihrem IT-Team können Sie es in kürzester Zeit erledigen.
 
-[Einrichten](/help/marketo/getting-started/setup/setup-steps.md)
+[Einrichten](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## Schritt 3 Gewinnen Sie schnell {#get-some-quick-wins}
+## Gewinnen Sie Quick Wins {#get-some-quick-wins}
 
-Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo kennenzulernen.
+Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenzulernen.
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo kennenzulernen
 
 ## SCHRITT 4 Congrats! Du bist bereit für die Nation  {#congrats-youre-ready-for-the-nation}
 
-Zeit, der Marketing Nation beizutreten!
-
-[Werden Sie ein Mitglied der Nation](https://nation.marketo.com)
+Sehen Sie sich die [Marketing-Nation](https://nation.marketo.com){target=&quot;_blank&quot;}!
