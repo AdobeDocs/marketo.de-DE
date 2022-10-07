@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '8807'
+source-wordcount: '8809'
 ht-degree: 5%
 
 ---
@@ -1605,6 +1605,7 @@ ht-degree: 5%
          + [Predictive Content für Rich Media bearbeiten](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Prädiktive Inhalte für die Empfehlungsleiste bearbeiten](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
    + Berichterstellung {#reporting}
+      + [Berichtübersicht](product-docs/reporting/reporting-overview.md)
       + Basisberichterstattung {#basic-reporting}
          + Erstellen von Berichten {#creating-reports}
             + [Erstellen eines Berichts in einem Programm](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
