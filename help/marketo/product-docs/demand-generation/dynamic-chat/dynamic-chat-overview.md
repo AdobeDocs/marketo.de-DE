@@ -2,9 +2,9 @@
 description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 2%
 
 ---
@@ -51,7 +51,7 @@ Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiede
 
 ## Routing {#routing}
 
-Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, sowie die Reihenfolge, in der sie den Besuchern der Website angezeigt werden. Meetings gehen um Robin-Stil. Wenn Sie also fünf Agenten und Agenten drei haben, die das letzte Meeting hatten, werden Agent vier das nächste bekommen, gefolgt von Agent fünf, dann zurück zum Agenten eins.
+Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, sowie die Reihenfolge, in der sie den Besuchern der Website angezeigt werden.
 
 ## FAQs {#faq}
 
