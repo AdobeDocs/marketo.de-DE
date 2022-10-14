@@ -2,9 +2,9 @@
 description: Umschalten - Marketo Docs - Produktdokumentation
 title: Umschalten
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,13 @@ Die folgenden Funktionen sind derzeit in der Benutzeroberfläche der nächsten G
 * Ansicht mit E-Mail-Details
 * E-Mail-Listenansicht
 * Detailansicht der E-Mail-Vorlage
+* E-Mail-Vorlagenliste
 * Dashboard-Ansicht für E-Mail-Tests
 * Ansicht &quot;Formularedetails&quot;
 * Formularlistenansicht
 * Detailseite für Bilder und Dateien
 * Detailansicht der Landingpage
 * Listenansicht der Landingpage
+* Details zur Landingpage-Vorlage
 * Ansicht &quot;Snippet-Details&quot;
+
