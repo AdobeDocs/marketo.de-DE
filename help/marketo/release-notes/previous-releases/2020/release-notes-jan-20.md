@@ -3,10 +3,10 @@ unique-page-id: 37355534
 description: Versionshinweise - Januar 2020 - Marketo-Dokumente - Produktdokumentation
 title: Januar 2020 - Versionshinweise
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ Die folgenden Funktionen werden veröffentlicht auf **17. Januar 2020**.
 
 ## Core Marketo Engage Adobe Application {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md): Schneller Zugriff auf Assets, die mit Ihrer Marke übereinstimmen, AEM Assets, die direkt in Marketo Engage verfügbar sind. Hinweis: Diese Funktion ist zwar sowohl im Marketo Sky als auch in klassischen Erlebnissen verfügbar, doch die Verwaltungsfunktionen sind in unserer klassischen Erfahrung zu finden. Sie müssen AEM Assets-Kunde sein und über Version 6.5 oder höher verfügen.
+* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Schneller Zugriff auf Assets, die mit Ihrer Marke übereinstimmen, AEM Assets, die direkt in Marketo Engage verfügbar sind. Hinweis: Diese Funktion ist zwar sowohl im Marketo Sky als auch in klassischen Erlebnissen verfügbar, doch die Verwaltungsfunktionen sind in unserer klassischen Erfahrung zu finden. Sie müssen AEM Assets-Kunde sein und über Version 6.5 oder höher verfügen.
 
 >[!NOTE]
 >

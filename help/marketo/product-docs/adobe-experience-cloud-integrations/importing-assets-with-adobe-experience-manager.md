@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Importieren von Assets mit Adobe Experience Manager - Marketo Docs - Produktdokumentation
 title: Importieren von Assets mit Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -28,23 +28,23 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 1. Klicken **Design Studio**.
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
 1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **Import aus Adobe Experience Manager**.
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. Wählen Sie den Ordner aus, in dem die Bilder gespeichert werden sollen.
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. Melden Sie sich bei Adobe Experience Manager an (falls noch nicht geschehen).
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
 1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken **Auswählen** wann geschehen.
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 1. Klicken **Import** , um den Prozess abzuschließen.
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
    Und das ist es! Klicken **Schließen** , um zu Design Studio zurückzukehren.
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## Zu beachten {#things-to-note}
 
