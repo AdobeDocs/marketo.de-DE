@@ -2,9 +2,9 @@
 description: Dynamic Chat-Integration - Marketo-Dokumente - Produktdokumentation
 title: Dynamic Chat-Integration
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -58,17 +58,27 @@ Erreichtes Ziel: Wird in Marketo angemeldet und in Sales Insight ausgefüllt, we
 * Zielname
 * Seiten-URL
 
-In den Bedienfeldern &quot;Lead&quot;und &quot;Kontakt&quot;ist eine Registerkarte &quot;Chat&quot;verfügbar. Sie enthält die Spalten Aktivitätstyp, Dialogfeldname und Datum .
+Interagiert mit Dokument: Wird in Marketo angemeldet und in Sales Insight ausgefüllt, wenn ein Besucher mit einem Dokument interagiert, das über den ChatBot freigegeben wurde.
+
+* Dialogname
+* Dokument
+* Status
+
+Chat-Aktivitäten sind im Insights-Dashboard verfügbar.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Sie können mehr über einen Aktivitätstyp erfahren, indem Sie darauf klicken.
+In den Bedienfeldern &quot;Lead&quot;und &quot;Kontakt&quot;ist eine Registerkarte &quot;Chat&quot;verfügbar. Sie enthält die Spalten Aktivitätstyp, Dialogfeldname und Datum .
 
 ![](assets/dynamic-chat-integration-4.png)
 
-Die Bedienfelder &quot;Konto&quot;und &quot;Chancen&quot;umfassen ebenfalls die Spalten &quot;Name&quot;, &quot;Aktivitätstyp&quot;, &quot;Dialogfeldname&quot;und &quot;Datum&quot;.
+Sie können mehr über einen Aktivitätstyp erfahren, indem Sie darauf klicken.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+Die Bedienfelder &quot;Konto&quot;und &quot;Chancen&quot;umfassen ebenfalls die Spalten &quot;Name&quot;, &quot;Aktivitätstyp&quot;, &quot;Dialogfeldname&quot;und &quot;Datum&quot;.
+
+![](assets/dynamic-chat-integration-6.png)
 
 Der Tab Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfasst drei Aktivitätstypen (Dialog interagieren, Terminplanung, Ziel erreicht) sowie die folgenden Spalten:
 
@@ -80,8 +90,15 @@ Der Tab Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfass
 
 Erfahren Sie mehr über einen Aktivitätstyp, indem Sie darauf klicken.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->Die Aktivität &quot;Interagiert mit Dokument&quot;wird in einer kommenden Version in MSI verfügbar sein.
+>Wenn das Kontrollkästchen &quot;Dynamische Chat-Daten aktivieren&quot;deaktiviert ist, werden die folgenden Funktionen deaktiviert:
+>
+>* Zeile mit Chat-Aktivitäten im Insights-Dashboard (Smart-Raster- und Wochenlistenansicht)
+>* Registerkarte &quot;Chat&quot;in den Bedienfeldern &quot;Lead&quot;, &quot;Kontakt&quot;, &quot;Konto&quot;und &quot;Chancen&quot;
+>* Registerkarte &quot;Chat&quot;auf der Registerkarte &quot;Globale Marketo&quot;
+>
+>Es ist nicht möglich, nur eine dieser Funktionen zu deaktivieren.
+
