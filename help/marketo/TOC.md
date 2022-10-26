@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 0ee977037504930b6e8ba4de3ea7b8e9e6859260
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8818'
 ht-degree: 5%
 
 ---
@@ -470,13 +470,11 @@ ht-degree: 5%
       + Verschiedenes {#miscellaneous}
          + [Konfigurieren der Adobe Experience Manager-Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Neuen Kampagnenordner erstellen](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-         + [Importieren von Assets mit Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [Glossar zu Tastaturbefehlen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo-Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Datenschutzverwaltung](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Datenschutzanfragen](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Umbenennen eines Marketo-Assets](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Zielgruppe aus Adobe Experience Cloud synchronisieren](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Ordner verstehen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Wissenswertes zu Benachrichtigungen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Benachrichtigungstypen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
