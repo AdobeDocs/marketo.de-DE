@@ -3,7 +3,7 @@ unique-page-id: 42762511
 description: Einrichten der Adobe-Organisationszuordnung - Marketo-Dokumente - Produktdokumentation
 title: Einrichten der Adobe-Organisationszuordnung
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -48,8 +48,8 @@ Um eine Synchronisierung mit Adobe Apps wie Audience Manager, dem Marketo-Connec
 
    >[!IMPORTANT]
    >
-   >Aus Sicherheitsgründen müssen Sie Org-Admin für die Adobe-Organisation sein, der Sie eine Zuordnung zuweisen möchten. Andernfalls schlägt die Aktion fehl. Außerdem müssen der Adobe-Benutzer und der Marketo-Benutzer bei der Anmeldung dieselbe E-Mail-Adresse verwenden.
+   >Aus Sicherheitsgründen müssen Sie Org-Admin für die Adobe-Organisation sein, der Sie eine Zuordnung zuweisen möchten. Wenn du nicht bist, schlägt die Aktion fehl. Außerdem müssen der Adobe-Benutzer und der Marketo-Benutzer bei der Anmeldung dieselbe E-Mail-Adresse verwenden.
 
 1. Wenn du _not_ bereits angemeldet ist, wird ein Popup in einer neuen Registerkarte/einem neuen Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (durch diese Aktion wird der Organisationszugriff überprüft).
 
-Und das ist es! Sie können jetzt [Zielgruppendaten freigeben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} zu oder [Zielgruppe synchronisieren](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} aus Adobe Experience Cloud.
+Und das ist es! Sie können jetzt [Zielgruppendaten freigeben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} zu oder [Zielgruppe synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} aus Adobe Experience Cloud.
