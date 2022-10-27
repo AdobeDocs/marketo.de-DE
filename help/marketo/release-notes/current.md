@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
+source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,6 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **14. Oktober 2022*
 ## Marketing-Datenumgebung {#marketing-data-environment}
 
 * **Integration von Adobe Privacy Service**: Harmonisierung mit Privacy Service zur Automatisierung der Einhaltung von Datenschutzbestimmungen für Experience Cloud-Produkte. Dieser Dienst steht derzeit nur Marketo Engage-Kunden zur Verfügung, die am [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;} System.
-
-* **Synchronisierung benutzerdefinierter Felder für Programmmitglieder**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.)
 
 ## API-Verbesserungen {#api-enhancements}
 
