@@ -1,9 +1,9 @@
 ---
 description: Berichtsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Berichtübersicht
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 1%
 
 ---
@@ -52,10 +52,6 @@ Zu den Vorteilen von Advanced BI Analytics Reporting gehören:
 * Visualisierung in grafischer Form, Heatmaps und Verteilungskurven
 
 ## Erweiterte Journey Analytics {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->Nicht alle Kunden haben Advanced BI Analytics- und Advanced Journey Analytics-Module erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
 
 Umsatzzyklusmodelle: modellieren Sie alle Phasen Ihres gesamten Umsatzes-Trichters und wie diese zwischen diesen Phasen wechseln, von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
 
