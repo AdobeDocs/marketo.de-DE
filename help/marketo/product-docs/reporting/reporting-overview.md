@@ -3,7 +3,7 @@ description: Berichtsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Berichtübersicht
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 1%
@@ -59,13 +59,13 @@ Zu den Vorteilen von Advanced BI Analytics Reporting gehören:
 >
 >Nicht alle Kunden haben Advanced BI Analytics- und Advanced Journey Analytics-Module erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
 
-Umsatzzyklusmodelle - Modellieren Sie alle Phasen Ihres gesamten Umsatzes und wie diese zwischen diesen Phasen wechseln, von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
+Umsatzzyklusmodelle: modellieren Sie alle Phasen Ihres gesamten Umsatzes-Trichters und wie diese zwischen diesen Phasen wechseln, von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
 
-Erfolgspfad-Analyse - Erhalten Sie eine visuelle Darstellung von Geschwindigkeit und Fluss durch Ihr Umsatzzyklusmodell. Für die Erfolgspfad-Analyse müssen Sie Umsatzzyklusmodelle erstellen.
+Erfolgspfad-Analyse: Erhalten Sie eine visuelle Darstellung der Geschwindigkeit und des Durchflusses durch Ihr Umsatzzyklusmodell. Für die Erfolgspfad-Analyse müssen Sie Umsatzzyklusmodelle erstellen.
 
-Programm-Analyzer - Ermitteln Sie schnell erfolgreiche oder nicht erfolgreiche Programme und konzentrieren Sie Ihre Ressourcen entsprechend. Verwenden Sie den Programm-Analyzer, um alle Kosten zu analysieren und zu vergleichen und im Detail nach Programm oder Kanal zurückzugeben.
+Programm-Analyzer: Schnelle Identifizierung erfolgreicher oder nicht erfolgreicher Programme und entsprechende Fokussierung Ihrer Ressourcen. Verwenden Sie den Programm-Analyzer, um alle Kosten zu analysieren und zu vergleichen und im Detail nach Programm oder Kanal zurückzugeben.
 
-Opportunity Influence Analyzer - Beweisen Sie den Beitrag von Marketing durch die Messung der Auswirkungen von Programmen und wichtigen Interaktionen, die zu Chancen führten.
+Opportunity Influenza Analyzer: Beweisen Sie den Beitrag des Marketing durch Messung der Wirkung von Programmen und wichtigen Interaktionen, die zu Chancen geführt haben.
 
 >[!NOTE]
 >
