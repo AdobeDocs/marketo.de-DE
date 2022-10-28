@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 18a09eb1d41d76b35072f45d0bdb3c66908a6335
+source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 5%
+source-wordcount: '140'
+ht-degree: 2%
 
 ---
 
@@ -37,33 +37,39 @@ _Die Veröffentlichungsdaten können sich ändern_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">Januar 22</a></td>
-   <td>21. Januar 2022</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">März 22</a></td>
-   <td>11. März 2022</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-may-22.md">Mai 22</a></td>
-   <td>6. Mai 2022</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">Juni 22</td>
-   <td>24. Juni 2022</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">August '22</td>
-   <td>26. August 2022</td>
-   <td>Versendet</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/current.md">Oktober 22</td>
    <td>14. Oktober 2022</td>
+   <td>Versendet</td>
+  </tr>
+  <tr> 
+   <td>Januar 23</td>
+   <td>20. Januar 2023</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>März '23</td>
+   <td>24. März 2023</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>Mai 23</td>
+   <td>19. Mai 2023</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>Juli 23</td>
+   <td>21. Juli 2023</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr>
+   <td>September 23</td>
+   <td>8. September 2023</td>
+   <td>Zeitplan</td>
+  </tr>
+
+<tr>
+   <td>Oktober 23</td>
+   <td>20. Oktober 2023</td>
    <td>Zeitplan</td>
   </tr>
  </tbody>
