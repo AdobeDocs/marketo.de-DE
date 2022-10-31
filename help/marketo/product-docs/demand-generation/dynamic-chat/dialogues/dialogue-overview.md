@@ -2,10 +2,10 @@
 description: Dialogfeld-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Dialogübersicht
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ Dialoge sind individuelle Chatunterhaltungen. In jedem Dialog legen Sie fest, wo
 
 ## Zielgruppenkriterien {#audience-criteria}
 
-Die [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)Im Abschnitt {target=&quot;_blank&quot;} eines Dialogfelds legen Sie fest, wo und wem Ihre Chat-Konversation angezeigt wird.
+Die [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)Im Abschnitt {target=&quot;_blank&quot;} eines Dialogfelds definieren Sie, wo und wem Ihre Chat-Konversation angezeigt wird.
 
 ![](assets/dialogue-overview-1.png)
 
