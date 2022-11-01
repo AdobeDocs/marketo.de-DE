@@ -2,9 +2,9 @@
 description: Filtern der E-Mail-Bot-Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Filtern der E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 32e635cf2c37f078737103653c706ad7b1afb515
+source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,11 @@ Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise die Daten Ihrer E-Mai
 Wir verwenden drei verschiedene Methoden zur Bestätigung von Bot-Aktivitäten:
 
 * Übereinstimmung mit [Bot-Liste des Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: Aktivitäten, die mit irgendetwas in der Liste &quot;IAB UA/IP&quot;(Benutzeragent/IP-Adresse) übereinstimmen, werden als Bots markiert.
-* Übereinstimmung mit dem Annäherungsmuster: Wenn mehrere Aktivitäten gleichzeitig stattfinden (in einer Sekunde), werden sie als Bots identifiziert.
+* Übereinstimmung mit dem Annäherungsmuster: Wenn mehrere Aktivitäten gleichzeitig stattfinden (in einer Sekunde), werden sie als Bots identifiziert. Beim Vergleich berücksichtigte Attribute sind:
+   * Lead-ID (sollte identisch sein)
+   * E-Mail-Asset (sollte identisch sein)
+   * Link-Klick oder E-Mail-Öffnung
+   * Zeitdifferenz (sollte kleiner als eine Sekunde sein)
 
 Bei der Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute mit den folgenden Werten ausgefüllt:
 
