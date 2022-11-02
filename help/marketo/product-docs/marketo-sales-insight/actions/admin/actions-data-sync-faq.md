@@ -2,9 +2,9 @@
 description: Häufig gestellte Fragen zur Datensynchronisation von Aktionen - Marketo-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zur Datensynchronisation von Aktionen
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1050'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Der Vertriebsinhaber muss nicht der Marketo-Synchronisierungsbenutzer oder ein b
 
 ![](assets/actions-data-sync-faq-3.png)
 
-Die Aktivitätsdaten wie E-Mail, Anruf, interessanter Moment und Web stammen alle aus der Datenbank von Marketo Engage. Das Smart-Raster &quot;Sales Insight&quot;sendet eine Anfrage an die Marketo Engage-Instanz, diese jedes Mal abzurufen, wenn ein Vertriebsbenutzer das Bedienfeld &quot;Sales Insight&quot;lädt.
+Die Aktivitätsdaten wie E-Mail, Anruf, interessanter Moment und Web stammen alle aus der Marketo Engage-Datenbank. Das Smart-Raster &quot;Sales Insight&quot;sendet eine Anfrage an die Marketo Engage-Instanz, diese jedes Mal abzurufen, wenn ein Vertriebsbenutzer das Bedienfeld &quot;Sales Insight&quot;lädt.
 
 ![](assets/actions-data-sync-faq-4.png)
 
@@ -55,6 +55,8 @@ Es gibt 11 Felder, die von Marketo Engage mit Sales Insight-Aktionen synchronisi
 * Nachname
 * Salesforce-Kontakt-ID
 * Salesforce-Lead-ID
+* Salesforce-Konto-ID
+* Salesforce-Opportunity-ID
 * Marketo-ID
 * Unternehmen
 * Titel
