@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
+source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 6%
@@ -57,7 +57,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **14. Oktober 2022*
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Demnächst verfügbar</td>
+   <td><i>Demnächst verfügbar</i></td>
    <td>Nicht zutreffend</td>
   </tr>
   </tbody>
@@ -71,7 +71,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **14. Oktober 2022*
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Demnächst verfügbar</td>
+   <td><i>Demnächst verfügbar</i></td>
    <td>Nicht zutreffend</td>
   </tr>
   </tbody>
