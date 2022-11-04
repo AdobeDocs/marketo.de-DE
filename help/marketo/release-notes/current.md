@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c932466d9307768e9635150e499e4eabcad7c83b
+source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 5%
+source-wordcount: '551'
+ht-degree: 6%
 
 ---
 
@@ -44,7 +44,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **14. Oktober 2022*
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Stream-Designer-Symbole</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
