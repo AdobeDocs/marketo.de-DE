@@ -1,13 +1,13 @@
 ---
 description: Berichtsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Berichtübersicht
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 1%
 
 ---
-
 
 # Berichtübersicht {#reporting-overview}
 
@@ -64,8 +64,3 @@ Opportunity Influenza Analyzer: Beweisen Sie den Beitrag des Marketing durch Mes
 >[!NOTE]
 >
 >Die Modellleistungsanalyse (Unternehmen) und die Modell-Leistungsanalyse (Leads) mit der erweiterten BI Analytics-Berichterstellung hängen vom Umsatzzyklusmodell ab, das im Advanced Journey Analytics-Produkt erstellt wurde.
-
-
-
-
-
