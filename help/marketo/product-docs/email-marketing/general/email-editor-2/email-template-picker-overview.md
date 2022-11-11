@@ -1,51 +1,46 @@
 ---
 unique-page-id: 10912237
-description: Übersicht über die E-Mail-Vorlagenauswahl - Marketing-Dokumente - Produktdokumentation
+description: Übersicht über die E-Mail-Vorlagenauswahl - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die E-Mail-Vorlagenauswahl
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
+source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
+# Übersicht über die E-Mail-Vorlagenauswahl {#email-template-picker-overview}
 
-# Überblick über die Auswahl der E-Mail-Vorlagen {#email-template-picker-overview}
-
-Wenn Sie [eine E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) erstellen, stehen Ihnen mehrere kostenlose Vorlagen zur Auswahl. Sie können auch eine eigene Vorlage erstellen und für die zukünftige Verwendung speichern.
+Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), haben Sie mehrere freie Vorlagen zur Auswahl. Sie können auch eine eigene Vorlage erstellen und für die zukünftige Verwendung speichern.
 
 ![](assets/starter-templates.png)
 
-**Der** Name ist der Name der E-Mail, die Sie anhand der Vorlage erstellen, nicht die Vorlage selbst. **Die** Beschreibung gilt auch für die E-Mail und ist optional.
+**Name** wird der Name der E-Mail sein, die Sie basierend auf der Vorlage erstellen, nicht die Vorlage selbst. **Beschreibung** gilt auch für die E-Mail und ist optional.
 
 ![](assets/two-2.png)
 
-Wenn Ihre E-Mail kritisch ist und Sie die Kommunikationsbeschränkungen umgehen möchten, [stellen Sie sie betriebsbereit](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md), indem Sie das Kontrollkästchen aktivieren. **In** Editoris öffnen ist standardmäßig aktiviert und bedeutet einfach, dass Sie sofort Beginn haben möchten, Ihre neue E-Mail zu bearbeiten. **** Kreateminnen, erschaffen!
+Wenn Ihre E-Mail kritisch ist und Sie die Kommunikationsbeschränkungen umgehen möchten, [Betrieb](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) durch Ankreuzen des Kästchens. **Im Editor öffnen** ist standardmäßig ausgewählt und bedeutet einfach, dass Sie sofort mit der Bearbeitung Ihrer neuen E-Mail beginnen möchten. **Erstellen** bedeutet, erstellen!
 
 ![](assets/three-2.png)
 
-**Startvorlagen** enthalten eine Sammlung von sofort einsatzfähigen E-Mail-Vorlagen. Sie können sie unverändert verwenden oder sie nach Ihren Wünschen anpassen.
+**Startervorlagen** enthält eine Sammlung vordefinierter responsiver E-Mail-Vorlagen. Sie können sie unverändert verwenden oder nach Ihren Wünschen anpassen.
 
 ![](assets/starter-templates.png)
 
->[!NOTE]
->
->Marketo&#39;s Starter Templates stehen allen Kunden kostenlos zur Verfügung. Diese werden kontinuierlich aktualisiert und für große E-Mail-Clients (und Mobilgeräte) optimiert. Sie sollten jedoch stets prüfen, ob sie Ihren Anforderungen entsprechen. Das [E-Mail-Auslieferungstool](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) von Marketo kann Ihnen die Darstellung von Vorlagen auf verschiedenen E-Mail-Clients anzeigen. Leider kann Marketo keine Designanforderungen außerhalb der bezahlten Service-Interaktionen annehmen.
-
-**Meine** Vorlagen bestehen aus allen Vorlagen, die Sie erstellt haben. Es können auch Ordner vorhanden sein.
+**Meine Vorlagen** besteht aus allen Vorlagen, die Sie erstellt haben. Sie können auch Ordner haben.
 
 ![](assets/five-2.png)
 
-Alle Ordner, die unter &quot;E-Mails&quot;> &quot;Vorlagen&quot;in Ihrer Design Studio-Struktur angezeigt werden, stehen unter **Meine Vorlagen** zur Verfügung.
+Alle Ordner, die unter E-Mails > Vorlagen in Ihrer Design Studio-Struktur angezeigt werden, sind in **Meine Vorlagen**.
 
 ![](assets/six-1.png)
 
-Um eine Vorlage Vorschau, halten Sie den Mauszeiger über die Miniaturansicht und klicken Sie auf **Vorschau**. Sie können auch einfach mit der Dublette darauf klicken.
+Um eine Vorlage in der Vorschau anzuzeigen, bewegen Sie den Mauszeiger über die Miniaturansicht und klicken Sie auf **Vorschau**. Sie können auch einfach darauf doppelklicken.
 
 ![](assets/seven-1.png)
 
-Die Vorschau zeigt Ihnen, wie die Vorlage auf einem Desktop-Computer dargestellt wird...
+Die Vorschau zeigt, wie die Vorlage auf einem Desktop-Computer dargestellt wird..
 
 ![](assets/eight-1.png)
 
@@ -53,7 +48,7 @@ Die Vorschau zeigt Ihnen, wie die Vorlage auf einem Desktop-Computer dargestellt
 
 ![](assets/nine-1.png)
 
-Wenn Ihnen diese Vorlage gefällt, wählen Sie sie aus, indem Sie unten rechts auf **Auswählen** klicken. Willst du weitersehen? Klicken Sie oben rechts auf **X**. Blättern Sie mit den Pfeiltasten nach links und rechts durch die Vorlagen.
+Wenn Ihnen diese Vorlage gefällt, wählen Sie sie aus, indem Sie auf **Auswählen** unten rechts. Willst du weiter suchen? Klicken Sie auf **X** oben rechts. Verwenden Sie die Links- und Rechtspfeile, um durch Vorlagen zu blättern.
 
 ![](assets/ten-1.png)
 
@@ -63,9 +58,9 @@ Sie können auch mit der rechten Maustaste auf eine Vorlagenminiatur klicken, um
 
 >[!NOTE]
 >
->Eine tolle Sache mit Vorlagenminiaturen ist, dass sie live sind. Wenn Sie also eine Änderung an einer Vorlage vornehmen, ändert sich die Miniaturansicht mit ihr.
+>Eine tolle Sache mit Vorlagenminiaturansichten ist, dass sie live sind. Wenn Sie also eine Vorlage ändern, ändert sich die Miniaturansicht mit ihr.
 
-Ziemlich ordentlich!
+Ziemlich nett!
 
 >[!MORELIKETHIS]
 >
