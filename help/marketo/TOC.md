@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+source-git-commit: 8a2429eb077b3bddafb3d8c7b96ecdca2eefba34
 workflow-type: tm+mt
-source-wordcount: '8816'
+source-wordcount: '8813'
 ht-degree: 5%
 
 ---
@@ -931,7 +931,6 @@ ht-degree: 5%
       + Zustellbarkeit {#deliverability}
          + [Dauerhafte Abmeldung](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack: Importieren einer Testliste](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
-         + [Email Deliverability Tool](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [Hard- und Softbounces in E-Mails](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [Einrichten einer benutzerdefinierten DKIM-Signatur](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
          + [Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
