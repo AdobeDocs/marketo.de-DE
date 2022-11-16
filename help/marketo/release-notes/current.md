@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 5%
@@ -22,6 +22,8 @@ Unten finden Sie alle Funktionen der Version vom 22. Oktober. Überprüfen Sie I
 Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **14. Oktober 2022**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 ### Erlebnis der nächsten Generation {#next-generation-experience}
+
+</br>
 
 * **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
@@ -70,6 +72,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 ### Marketing-Datenumgebung {#marketing-data-environment}
 
+</br>
+
 * **Integration von Adobe Privacy Service**: Harmonisierung mit Privacy Service zur Automatisierung der Einhaltung von Datenschutzbestimmungen für Experience Cloud-Produkte. Derzeit ist dieser Dienst nur für Marketo Engage-Kunden verfügbar, die mit dem Adobe Identity Management System integriert sind.
 
 <table> 
@@ -86,6 +90,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 ### API-Verbesserungen {#api-enhancements}
 
+</br>
+
 * **Massenimport von Blei: SalesPersonenverein**: Parität mit der Lead-REST-API, um Leads während des Massenimport-Prozesses mit SalesPERS zu verknüpfen, wodurch die Komplexität und die Anzahl der erforderlichen API-Aufrufe verringert werden.
 
 <table> 
@@ -101,6 +107,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 </table>
 
 ### Sales Insight {#sales-insight}
+
+</br>
 
 ![(Stern)](assets/yellow-star.png)
 
