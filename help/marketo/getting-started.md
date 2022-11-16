@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: Erste Schritte - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
+source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 26%
+source-wordcount: '139'
+ht-degree: 30%
 
 ---
 
@@ -17,10 +17,6 @@ ht-degree: 26%
 Was ist Marketo Engage, fragen Sie? Große Frage!
 
 [Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
-
-## Welche Preisstufen sind verfügbar? {#what-pricing-tiers-are-available}
-
-Sehen Sie sich die [Marketo Engage-Preise und -Packaging-Seite](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} für weitere Informationen.
 
 ## Einrichten {#get-set-up}
 
