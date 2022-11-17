@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
-ht-degree: 5%
+source-wordcount: '629'
+ht-degree: 6%
 
 ---
 
@@ -20,6 +20,24 @@ Unten finden Sie alle Funktionen der Version vom 22. Oktober. Überprüfen Sie I
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **14. Oktober 2022**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+
+### Marketing-Datenumgebung {#marketing-data-environment}
+
+</br>
+
+* **Synchronisierung benutzerdefinierter Felder für Programmmitglieder**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.)
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### Erlebnis der nächsten Generation {#next-generation-experience}
 
