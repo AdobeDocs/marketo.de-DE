@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f656901c3a25e043e59411857190f4711036637d
+source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '626'
 ht-degree: 6%
 
 ---
@@ -35,6 +35,20 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   <tr> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Integration von Adobe Privacy Service**: Harmonisierung mit Privacy Service zur Automatisierung der Einhaltung von Datenschutzbestimmungen für Experience Cloud-Produkte. Derzeit ist dieser Dienst nur für Marketo Engage-Kunden verfügbar, die mit dem Adobe Identity Management System integriert sind.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,24 +98,6 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   <tr> 
    <td>Versendet</td>
    <td>Nicht zutreffend</td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketing-Datenumgebung {#marketing-data-environment}
-
-</br>
-
-* **Integration von Adobe Privacy Service**: Harmonisierung mit Privacy Service zur Automatisierung der Einhaltung von Datenschutzbestimmungen für Experience Cloud-Produkte. Derzeit ist dieser Dienst nur für Marketo Engage-Kunden verfügbar, die mit dem Adobe Identity Management System integriert sind.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
