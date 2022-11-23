@@ -2,9 +2,9 @@
 description: Globale Formularvalidierungsregeln - Marketo-Dokumente - Produktdokumentation
 title: Globale Formularvalidierungsregeln
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 2736e8a0456de76b9894312c26f6ba9c0345daee
+source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
 >[!NOTE]
 >
->Marketo Engage verfügt über eine definierte Blockierungsliste kostenloser E-Mail-Domains für Verbraucher, die blockiert werden, wenn die Regel &quot;KundenE-Mail-Domain-Vorabregistrierung&quot;verwendet wird. [Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains_2023.csv).
+>Marketo Engage verfügt über eine definierte Blockierungsliste kostenloser E-Mail-Domains für Verbraucher, die blockiert werden, wenn die Regel &quot;KundenE-Mail-Domain-Vorabregistrierung&quot;verwendet wird. [Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
 
 ## Deaktivieren des Zugriffs pro Formular{#how-to-disable-access-per-form}
 
