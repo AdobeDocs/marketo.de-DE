@@ -1,49 +1,52 @@
 ---
 unique-page-id: 14746432
-description: Benutzerdefinierte Felder mit Performance Insights synchronisieren - Marketing to Docs - Produktdokumentation
-title: Benutzerdefinierte Felder mit Leistungseinsichten synchronisieren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Benutzerdefinierte Felder mit Leistungseinblicken synchronisieren - Marketo-Dokumente - Produktdokumentation
+title: Synchronisieren benutzerdefinierter Felder mit Performance Insights
+exl-id: 90b7cd29-b8f3-4f52-aa15-5c1a0e50b590
+source-git-commit: 84b1e13e29fb4c7d7b7d10660983f418e6d9957c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
+# Synchronisieren benutzerdefinierter Felder mit Performance Insights {#sync-custom-fields-to-performance-insights}
 
-# Benutzerdefinierte Felder mit Performance Insights {#sync-custom-fields-to-performance-insights} synchronisieren
-
-MPI-Dashboard für Umsatz und Pipeline können nach benutzerdefinierten Marketo-Feldern filtern. Dazu müssen Sie die zu synchronisierenden benutzerdefinierten Felder festlegen.
-
->[!NOTE]
->
->**Administratorberechtigungen erforderlich**
+MPI-Umsatz- und Pipeline-Dashboards können nach benutzerdefinierten Marketo-Feldern filtern. Dazu müssen Sie die zu synchronisierenden benutzerdefinierten Felder festlegen.
 
 >[!NOTE]
 >
->Dieser Artikel ist nur für Benutzer gedacht, die **nicht** über Umsatzwyklusanalysen verfügen. Wenn Sie RCA haben, befolgen Sie bitte die Schritte in [diesem Artikel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
+>**Erforderliche Administratorberechtigungen**
 
-1. Gehen Sie zum Abschnitt **Admin**.
+>[!NOTE]
+>
+>Dieser Artikel richtet sich nur an Benutzer, die **not** über &quot;Umsatz&quot;in Analytics verfügen. Wenn Sie über RCA verfügen, führen Sie die Schritte unter [diesem Artikel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
+
+1. Navigieren Sie zu **Admin** Abschnitt.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Wählen Sie unter &quot;Sonstige&quot;die Option **Programm-Analyse**.
+1. Wählen Sie unter &quot;Sonstige Stuff&quot;die Option **Programmanalyse**.
 
    ![](assets/2-3.png)
 
-1. Klicken Sie auf die Registerkarte **Benutzerdefinierte Feldsynchronisierung**.
+1. Klicken Sie auf **Benutzerdefinierte Feldsynchronisierung** Registerkarte.
 
    ![](assets/3-5.png)
 
-1. Wählen Sie das Feld, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option zum Bearbeiten der Synchronisierung**.
+1. Wählen Sie das Feld aus, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option &quot;Sync bearbeiten&quot;**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Ändern Sie **Synchronisierungsstatus** in **Aktiviert**.
+   >[!IMPORTANT]
+   >
+   >Die ausgewählten Felder müssen nur mit dem Bereich Programmangebote verknüpft sein.
+
+1. Ändern Sie die **Synchronisierungsstatus** nach **Aktiviert**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Wählen Sie den **RCA-Typ** Ihrer Wahl aus und klicken Sie dann auf **Speichern**.
+1. Wählen Sie die **RCA-Typ** Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
