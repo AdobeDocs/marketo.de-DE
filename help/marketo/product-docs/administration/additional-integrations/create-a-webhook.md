@@ -3,10 +3,10 @@ unique-page-id: 2360360
 description: Webhook erstellen - Marketo-Dokumente - Produktdokumentation
 title: Webhook erstellen
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 3%
+source-wordcount: '210'
+ht-degree: 6%
 
 ---
 
@@ -18,17 +18,21 @@ Verwenden Sie Webhooks, um Webdienste von Drittanbietern zu nutzen, um Textnachr
 >
 >Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Webhooks**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. Klicken **Webhooks**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. Klicken **Neuer Webhook**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. Benennen und konfigurieren Sie Ihren Webhook.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ Verwenden Sie Webhooks, um Webdienste von Drittanbietern zu nutzen, um Textnachr
 
    * **Anfragetyp**: Wählen Sie die zu verwendende HTTP-Methode aus (DELETE, GET, PATCH, POST, PUT).
 
-   Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **Erstellen**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >

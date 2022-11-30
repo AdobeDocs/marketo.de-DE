@@ -1,44 +1,47 @@
 ---
 unique-page-id: 10098433
-description: Erstellen einer Zulassungsliste für den IP-basierten API-Zugriff - Marketo Docs - Produktdokumentation
+description: Erstellen einer Zulassungsliste für IP-basierten API-Zugriff - Marketo Docs - Produktdokumentation
 title: Erstellen einer Zulassungsliste für IP-basierten API-Zugriff
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 3%
 
 ---
 
 # Erstellen einer Zulassungsliste für IP-basierten API-Zugriff {#create-an-allowlist-for-ip-based-api-access}
 
-Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder einen Adressbereich gewähren. Dazu aktivieren Sie zunächst die Einschränkungen und geben dann die IP-Adressen an, die die APIs verwenden dürfen.
+Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder eine Reihe von Adressen gewähren. Dazu aktivieren Sie zunächst die Einschränkungen und geben dann die IP-Adressen an, die die APIs verwenden dürfen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Wechseln Sie zu **Admin** und klicken Sie auf **Web-Services**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-2-25-9-3a12-3a48.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Klicken Sie im Bereich &quot;IP-Beschränkungen&quot;auf **Bearbeiten,** oder klicken Sie links oben auf **IP-Beschränkungen bearbeiten**.
+1. Klicken **Web-Services**.
 
-   ![](assets/image2016-2-25-9-3a15-3a30.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Markieren Sie das Feld **IP-Beschränkungen aktivieren** und geben Sie die IP-Adressen ein, die Sie in Zulassungsliste setzen möchten.
+1. Klicken Sie im Bereich &quot;IP-Einschränkungen&quot;auf **Bearbeiten,** oder klicken Sie auf **IP-Einschränkungen bearbeiten** oben links.
 
-   ![](assets/image2016-2-25-9-3a18-3a28.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
+
+1. Überprüfen Sie die **IP-Einschränkungen aktivieren** und geben Sie die IP-Adressen ein, die Sie in das Zulassungsliste eintragen möchten.
+
+   ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
    >Sie können eine einzelne IP-Adresse oder einen Bereich davon eingeben oder einen Platzhalter verwenden.
 
-1. Klicken Sie auf **Hinzufügen**, um weitere Felder zur Eingabe weiterer IP-Adressen zu öffnen.
+1. Klicken **Hinzufügen** um zusätzliche Felder zur Eingabe weiterer IP-Adressen zu öffnen.
 
-   ![](assets/image2016-2-25-9-3a20-3a47.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
-   ![](assets/image2016-2-25-9-3a28-3a21.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

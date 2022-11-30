@@ -1,13 +1,12 @@
 ---
 unique-page-id: 2360352
-description: Konfigurieren der SOAP-API-Einstellungen - Marketo Docs - Produktdokumentation
+description: Konfigurieren Ihrer SOAP-API-Einstellungen - Marketo Docs - Produktdokumentation
 title: Konfigurieren der SOAP-API-Einstellungen
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 5%
 
 ---
 
@@ -15,24 +14,28 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Wir empfehlen die Verwendung der REST-API. Weitere Informationen finden Sie unter [developer.marketo.com](https://developers.marketo.com/documentation/rest/).
+>Wir empfehlen die Verwendung der REST-API. Weitere Informationen finden Sie unter [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Wechseln Sie zu **Admin** und klicken Sie auf **Web-Services**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Legen Sie einen geeigneten **Verschlüsselungsschlüssel** fest, klicken Sie auf **Änderungen speichern** und geben Sie alle Informationen an Ihren Entwickler weiter.
+1. Klicken **Web-Services**.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-2.png)
+
+1. Festlegen einer geeigneten **Verschlüsselungsschlüssel** klicken **Änderungen speichern** und übergeben Sie alle Informationen an Ihren Entwickler.
+
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->Ihr SOAP-Endpunkt und Ihre Benutzer-ID sind eindeutig. Senden Sie den Screenshot in diesem Artikel nicht an Ihren Entwickler.
+>Ihr SOAP-Endpunkt und Ihre Benutzer-ID sind eindeutig. senden Sie den Screenshot in diesem Artikel nicht an Ihren Entwickler.
 
 >[!MORELIKETHIS]
 >
->[Dokumentation zur SOAP-API](https://developers.marketo.com/documentation/soap/)
+>[SOAP-API-Dokumentation](https://developers.marketo.com/documentation/soap/)

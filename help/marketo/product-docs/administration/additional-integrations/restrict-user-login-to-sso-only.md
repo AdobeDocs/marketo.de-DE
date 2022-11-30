@@ -3,10 +3,10 @@ unique-page-id: 2360358
 description: Einschränken der Benutzeranmeldung auf "Nur SSO"- Marketo-Dokumente - Produktdokumentation
 title: Benutzeranmeldung auf SSO beschränken
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 5%
+source-wordcount: '233'
+ht-degree: 7%
 
 ---
 
@@ -22,17 +22,21 @@ Wenn du [Verwendung von SSO](/help/marketo/product-docs/administration/additiona
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Anmeldeeinstellungen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. Klicken **Anmeldeeinstellungen**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. Klicken **Sicherheitseinstellungen bearbeiten**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. Erweitern Sie die erweiterten Einstellungen, aktivieren Sie **SSO erforderlich** und klicken Sie auf **Speichern**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

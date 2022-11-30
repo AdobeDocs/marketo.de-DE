@@ -1,76 +1,75 @@
 ---
 unique-page-id: 11377945
-description: Übersicht über den Prüfpfad - Marketo Dokumente - Produktdokumentation
-title: Übersicht über Prüfprotokolle
+description: Übersicht über das Audit-Protokoll - Marketo-Dokumente - Produktdokumentation
+title: Audit-Protokoll - Überblick
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-# Prüfpfad-Übersicht {#audit-trail-overview}
+# Audit-Protokoll - Überblick {#audit-trail-overview}
 
-Audit Trail bietet Ihnen die Möglichkeit, einen vollständigen Verlauf der in Ihrer Marketo-Instanz vorgenommenen Änderungen (im Wert von sechs Monaten) zu erhalten.
+Mit dem Audit-Protokoll erhalten Sie einen vollständigen Verlauf (im Wert von sechs Monaten) der in Ihrer Marketo-Instanz vorgenommenen Änderungen.
 
 >[!NOTE]
 >
->Der Audit-Trail-Datenverlauf begann am 14. September 2016.
+>Der Verlauf der Audit-Protokolldaten begann am 14. September 2016.
 
-![](assets/one.png)
+![](assets/audit-trail-overview-1.png)
 
-## Was ist Prüfpfad {#what-is-audit-trail}
+## Was ist das Audit-Protokoll {#what-is-audit-trail}
 
-Audit Trail erfasst in Echtzeit eine umfassende Liste von Maßnahmen und Ereignissen, die in einem Marketo-Abonnement auftreten. Es bietet eine Self-Service-Möglichkeit zum Zugriff auf eine sechsmonatige Datengeschichte, um Antworten auf Fragen wie die folgenden zu erhalten:
+Das Audit-Protokoll erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die innerhalb eines Marketo-Abonnements auftreten. Es bietet eine Self-Service-Möglichkeit für den Zugriff auf einen sechsmonatigen Datenverlauf, der Ihnen bei der Beantwortung von Fragen hilft, z. B.:
 
 Was ist mit diesem Asset oder dieser Einstellung passiert und wer hat es zuletzt aktualisiert?
 
-Was hat Benutzer X bisher gemacht?
+Was hat Benutzer X so gemacht?
 
 Wer meldet sich bei unserem Konto an?
 
-## Was wir prüfen {#what-we-audit}
+## Was wir überprüfen {#what-we-audit}
 
-Marketo prüft die Aktionen [Erstellen, Bearbeiten und Löschen](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) für:
+Marketo prüft die [erstellen, bearbeiten und löschen](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) Aktionen für:
 
-* Design von Studio-Assets
+* Erstellen von Studio-Assets
 * Alle Marketo-Programme
-* Intelligente Kampagnen
-* Listen (intelligent/statisch)
-* Benutzer (Admin)
+* Smart-Kampagnen
+* Listen (smart/static)
+* Benutzer (admin)
 * Rollen und Berechtigungen (Admin)
 * Arbeitsbereich und Partitionen (Admin)
 * Anmeldeverlauf des Benutzers
 
 >[!NOTE]
 >
->Marketo prüft derzeit Änderungen, die in Web-Personalisierung, Predictive Content oder Sales Insight vorgenommen wurden.__
+>Marketo ist _not_ Prüfung von Änderungen, die derzeit in Web-Personalisierung, Predictive Content oder Sales Insight vorgenommen wurden.
 
-## Prüfprotokoll-Komponenten {#audit-trail-components}
+## Audit-Protokollkomponenten {#audit-trail-components}
 
-Prüfpfad besteht aus drei Komponenten.
+Audit-Protokoll besteht aus drei Komponenten.
 
-**1)  [Asset-Prüfpfad](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [Asset-Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
-Siehe Aktivität für bestimmte Assets.
+Siehe Aktivitäten, die mit bestimmten Assets durchgeführt wurden.
 
-**2)  [Admin-Prüfpfad](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
+**2) [Admin-Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
-Überwachen Sie benutzerbasierte Details.
+Überwachen benutzerbasierter Details.
 
-**3)  [Benutzeranmeldeverlauf](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3) [Anmeldeverlauf für Benutzer](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Erkennen Sie, wer sich bei Ihrem Abonnement angemeldet hat und wann. Enthält auch fehlgeschlagene Anmeldeversuche.
+Finden Sie heraus, wer sich bei Ihrem Abonnement angemeldet hat und wann. Enthält auch fehlgeschlagene Anmeldeversuche.
 
 >[!TIP]
 >
->Es gibt so viel, dass Sie mit Audit Trail prüfen können, stellen Sie sicher, dass Sie [Filter](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) verwenden!
+>Es gibt so viele Möglichkeiten, die Sie mit dem Audit-Protokoll überprüfen können. Verwenden Sie [Filter](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## Daten werden exportiert {#exporting-data}
 
-Sie können in Ihrer Instanz nur Daten im Wert von 30 Ansichten speichern. Verwenden Sie die Exportoption, um einen Wert von bis zu sechs Monaten zu erhalten.
+Sie können nur Daten im Wert von 30 Tagen in Ihrer Instanz anzeigen. Verwenden Sie die Exportoption, um (bis zu) einen Zeitraum von sechs Monaten zu erhalten.
 
 ![](assets/two.png)
 
@@ -78,8 +77,8 @@ Sie können in Ihrer Instanz nur Daten im Wert von 30 Ansichten speichern. Verwe
 >
 >**Definition**
 >
->**Unbekannt:** Im Prüfpfad werden der Name und die E-Mail eines Benutzers möglicherweise als &quot;Unbekannt&quot;aufgelistet. Dies geschieht, wenn Sie eine Änderung an Ihren picklist-Werten in Ihrem CRM vornehmen. Diese Werte werden in Marketo-Formularen und -Landingpages angezeigt. Wenn Sie dieses Update auf der CRM-Seite durchführen, werden Ihre Landingpages automatisch entworfen, die auf das Formular verweisen. Im Audit-Protokoll werden wir feststellen, dass die Landingpage entworfen wurde, aber der Benutzername und die E-Mail-Adresse werden als &quot;Unbekannt&quot;angezeigt, da wir die Benutzerinformationen nicht von der CRM-Seite aus erfassen können.
+>**unbekannt:** Im Audit-Protokoll werden der Name und die E-Mail eines Benutzers möglicherweise als &quot;Unbekannt&quot;aufgeführt. Dies geschieht, wenn Sie Ihre Picklist-Werte in Ihrem CRM-System ändern. Diese Werte werden in Marketo forms und Landingpages angezeigt. Durch diese Aktualisierung auf der CRM-Seite werden Ihre Landingpages, die auf das Formular verweisen, automatisch entworfen. Im Audit-Protokoll wird erfasst, dass die Landingpage entworfen wurde. Der Name des Benutzers und die E-Mail-Adresse werden jedoch als &quot;Unbekannt&quot;angezeigt, da wir die Benutzerinformationen nicht von der CRM-Seite aus erfassen können.
 
 >[!MORELIKETHIS]
 >
->[Prüfpfad aktivieren](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
+>[Audit-Protokoll aktivieren](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)

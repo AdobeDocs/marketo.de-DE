@@ -2,7 +2,7 @@
 description: Konfiguration von Sales Insight-Aktionen in Salesforce - Marketo Docs - Produktdokumentation
 title: Konfiguration von Sales Insight-Aktionen in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ## Neue Remote-Site in Salesforce hinzufügen {#add-new-remote-site-in-salesforce}
 
-1. Klicken Sie in Salesforce auf **Einrichtung**.
+1. Klicken Sie in Salesforce auf **Einrichtung**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Suchen Sie nach &quot;Remote-Site&quot;und wählen Sie **Remote Site Settings**.
+1. Suchen Sie nach &quot;Remote-Site&quot;und wählen Sie **Remote Site Settings**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. Klicken **Neue Remote-Site**.
+1. Klicken **Neue Remote-Site**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoSalesInsight2&quot;). Remote Site URL eingeben `https://mkto-sales-connect.adobe.io` und klicken Sie auf **Speichern**.
+1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoSalesInsight2&quot;). Remote Site URL eingeben `https://mkto-sales-connect.adobe.io` und klicken Sie auf **Speichern**.
 
 ## Aktivierung von Sales Insight-Aktionen im gesamten CRM {#enabling-sales-insight-actions-across-the-crm}
 

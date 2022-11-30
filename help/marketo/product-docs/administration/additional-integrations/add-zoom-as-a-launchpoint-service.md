@@ -1,58 +1,61 @@
 ---
 unique-page-id: 17728028
-description: hinzufügen Zoom as a LaunchPoint Service - Marketo Docs - Produktdokumentation
-title: hinzufügen Zoom als LaunchPoint-Dienst
+description: Hinzufügen von Zoom as a LaunchPoint Service - Marketo Docs - Produktdokumentation
+title: Hinzufügen von Zoom als LaunchPoint-Dienst
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 4%
 
 ---
 
-# hinzufügen Zoom als LaunchPoint-Dienst {#add-zoom-as-a-launchpoint-service}
+# Hinzufügen von Zoom als LaunchPoint-Dienst {#add-zoom-as-a-launchpoint-service}
 
-Marketo verwaltet Ihre Zoomregistrierung und -teilnahme.
-
->[!NOTE]
->
->**Administratorberechtigungen erforderlich**
+Marketo verwaltet Ihre Zoom-Registrierung und -Teilnahme.
 
 >[!NOTE]
 >
->Für diesen Schritt sind ein bestehendes Abonnement zum Zoomen und Verwaltungsrechte erforderlich. Halten Sie die E-Mail-Adresse und das Passwort bereit, mit denen Sie sich bei Zoom anmelden können.
+>**Erforderliche Administratorberechtigungen**
 
-1. Wechseln Sie zum Bereich **Admin** und klicken Sie auf **LaunchPoint**.
+>[!NOTE]
+>
+>Für diesen Schritt sind ein bestehendes Abonnement für Zoom und Administratorrechte erforderlich. Lassen Sie die E-Mail-Adresse und das Passwort, mit denen Sie sich bei der Option &quot;Handzoomen&quot;anmelden.
 
-   ![](assets/launchpoint.png)
+1. Navigieren Sie zum **Admin**-Bereich.
 
-1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neuer Dienst**.
+   ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-   ![](assets/newservicelp.png)
+1. Klicken **LaunchPoint**.
 
-1. Geben Sie einen **Anzeigenamen** ein. Wählen Sie unter **Dienst** **Zoom**.
+   ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-   ![](assets/newservice-1.png)
+1. Auswählen **Neu** und dann **Neuer Dienst**.
 
-1. Klicken Sie auf **Anmelden bei Zoom**.
+   ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-   ![](assets/login.png)
+1. Geben Sie einen **Anzeigename**. under **Diensleistung** auswählen **Zoom**.
 
-1. Geben Sie im Fenster zur Zoomanmeldung Ihre Zoomberechtigung ein und klicken Sie auf **Anmelden**.
+   ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-   ![](assets/zoomlogin.png)
+1. Klicken **Beim Zoomen anmelden**.
 
-1. Klicken Sie nach dem Schließen des Fensters auf **Erstellen**.
+   ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-   ![](assets/create-1.png)
+1. Geben Sie im Anmeldefenster &quot;Zoom&quot;Ihre Zoom-Anmeldedaten ein und klicken Sie auf **Anmelden**.
 
-   Sehr gut! Ihr Zoomkonto wird jetzt mit Marketo synchronisiert und befindet sich im Bereich &quot;LaunchPoint&quot;.
+   ![](assets/add-zoom-as-a-launchpoint-service-6.png)
+
+1. Nachdem das Fenster geschlossen wurde, klicken Sie auf **Erstellen**.
+
+   ![](assets/add-zoom-as-a-launchpoint-service-7.png)
+
+   Sehr gut! Ihr Zoom-Konto wird jetzt mit Marketo synchronisiert und befindet sich im Bereich &quot;LaunchPoint&quot;.
 
 >[!CAUTION]
 >
->Wenn Sie Ihr Passwort im Zoom aktualisieren, müssen Sie auch Ihr Passwort in Marketo aktualisieren.
+>Wenn Sie Ihr Kennwort im Zoom-Modus aktualisieren, müssen Sie auch Ihr Kennwort in Marketo aktualisieren.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie ein Ereignis mit Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) erstellen.[
+>Erfahren Sie, wie Sie [Ereignis mit Zoom erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).

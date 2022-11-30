@@ -3,81 +3,82 @@ unique-page-id: 2360350
 description: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API - Marketo Docs - Produktdokumentation
 title: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 0%
+source-wordcount: '213'
+ht-degree: 5%
 
 ---
 
 # Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API {#create-a-custom-service-for-use-with-rest-api}
 
-Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, erstellen Sie einen benutzerdefinierten Dienst. So geht es.
+Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, möchten Sie einen benutzerdefinierten Dienst erstellen. So geht es.
 
 >[!PREREQUISITES]
 >
->* [Benutzerrolle &quot;Nur API erstellen&quot;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Nur-API-Benutzer erstellen](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
-
+>* [Erstellen einer Benutzerrolle &quot;Nur API&quot;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Erstellen eines reinen API-Benutzers](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!TIP]
 >
->Weitere Informationen zur [ReST-API](https://developers.marketo.com/documentation/rest/) finden Sie in der Entwicklerdokumentation. Wir haben auch die [SOAP-API](https://developers.marketo.com/documentation/soap/), wenn Sie das benötigen.
-
->[!NOTE]
->
->Sie können keinen benutzerdefinierten Dienst erstellen, wenn Sie die Spark-Ebene von Marketo haben.
+>Weitere Informationen finden Sie in der Entwicklerdokumentation . [ReST-API](https://developers.marketo.com/documentation/rest/). Wir haben auch die [SOAP-API](https://developers.marketo.com/documentation/soap/) wenn das das ist, was du brauchst.
 
 ## Benutzerspezifischen Dienst erstellen {#create-custom-service}
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **LaunchPoint**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-19-10-3a38-3a15.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. Klicken Sie unter **Neu** auf **Neuer Dienst**.
+1. Klicken **LaunchPoint**.
 
-   ![](assets/image2014-9-19-10-3a38-3a22.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. Geben Sie einen **Anzeigenamen** für den Dienst ein. Wählen Sie **Nur Benutzer** [Zuvor erstellte](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) aus.
+1. Auswählen **Neu** und dann **Neuer Dienst**.
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
+
+1. Geben Sie einen **Anzeigename** für den Dienst. Wählen Sie die **Nur API-Benutzer** [zuvor erstellt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
    >[!NOTE]
    >
-   >Beachten Sie, dass wir bereits eine native Integration für populäre Webinar-Dienste haben.
-
-   ![](assets/image2014-9-19-10-3a38-3a32.png)
+   >Beachten Sie, dass wir bereits eine native Integration für beliebte Webinar-Dienste haben.
 
 1. Klicken Sie auf **Erstellen**.
 
-   ![](assets/image2014-9-19-10-3a39-3a28.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Oh ja! Der Dienst wurde jetzt erstellt. Lassen Sie uns fortfahren und alle Anmeldeinformationen abrufen, um Zugriff zu gewähren.
+   Oh ja! Der Dienst wird jetzt erstellt. Lassen Sie uns fortfahren und alle Anmeldedaten abrufen, um Zugriff bereitzustellen.
 
-## Anmeldeinformationen für den API-Zugriff {#credentials-for-api-access}
+## Anmeldedaten für den API-Zugriff {#credentials-for-api-access}
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **LaunchPoint**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-19-10-3a42-3a11.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Klicken Sie für den oben erstellten benutzerdefinierten LaunchPoint-Dienst auf **Ansicht Details**.
+1. Klicken **LaunchPoint**.
 
-   ![](assets/image2014-9-19-10-3a42-3a16.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Klicken Sie auf **Get Token**.
+1. Klicken **Details anzeigen** für den oben erstellten benutzerdefinierten LaunchPoint-Dienst.
 
-   ![](assets/image2014-9-19-10-3a42-3a24.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Stellen Sie die **Client-ID**, **geheimer Clientschlüssel**, **autorisierter Benutzer** und **Token** der Person bereit, die für die Einrichtung der Verbindung zuständig ist.
+1. Klicken **Token abrufen**.
 
-   ![](assets/image2014-9-19-10-3a42-3a38.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
+
+1. Stellen Sie die **Client-ID**, **Client Secret**, **Autorisierter Benutzer** und **Token** an die Person, die für die Herstellung der Verbindung verantwortlich ist.
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
 >[!CAUTION]
 >
->Geben Sie diese Informationen nicht weiter. es ist die Hintertür zu Ihren Daten. Halte es in Sicherheit!
+>Geben Sie diese Informationen nicht weiter. Es ist die Hintertür zu Ihren Daten. Halte es sicher!
