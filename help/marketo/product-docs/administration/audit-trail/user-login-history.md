@@ -1,70 +1,73 @@
 ---
 unique-page-id: 11377958
-description: Benutzeranmeldungsverlauf - Marketo Docs - Produktdokumentation
-title: Verlauf der Benutzeranmeldung
+description: User Login History - Marketo Docs - Produktdokumentation
+title: Anmeldeverlauf für Benutzer
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Benutzeranmeldeverlauf {#user-login-history}
+# Anmeldeverlauf für Benutzer {#user-login-history}
 
-Der Verlauf der Benutzeranmeldung hilft Ihnen, die Verantwortlichkeit und Sicherheit zu wahren, indem er genau anzeigt, wer sich bei Ihrem Abonnement angemeldet hat, einschließlich fehlgeschlagener Anmeldeversuche.
+Der User Login History hilft Ihnen, die Verantwortlichkeit und Sicherheit zu wahren, indem er genau anzeigt, wer sich bei Ihrem Abonnement angemeldet hat, einschließlich fehlgeschlagener Anmeldeversuche.
 
 >[!PREREQUISITES]
 >
->Für die Ansicht des Benutzeranmeldeverlaufs muss die Berechtigung Zugriffsanmeldungsverlauf aktiviert sein.
+>Sie müssen über eine Rolle verfügen, für die die Berechtigung Zugriffslogin-Verlauf aktiviert ist, um den Benutzeranmeldeverlauf anzeigen zu können.
 
-Der Benutzeranmeldungsverlauf identifiziert Personen, die sich anmelden nach:
+Der User Login History identifiziert Personen, die sich anmelden über:
 
-* Anmeldezeit und -datum
-* Benutzername und E-Mail-Adresse
-* Stellenbeschreibung
+* Anmeldungszeit und -datum
+* Name und E-Mail-Adresse des Benutzers
+* Rolle
 * Arbeitsbereich
 * IP-Adresse
 
-Ansicht des Benutzeranmeldeverlaufs:
+So zeigen Sie den Verlauf der Benutzeranmeldung an:
 
-1. Klicken Sie auf die Registerkarte **Admin** und klicken Sie unter Sicherheit auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
 
-1. Klicken Sie auf die Registerkarte **Anmeldeverlauf**. Die Liste zeigt die neuesten Anmeldungen an.
+1. Klicken Sie unter &quot;Sicherheit&quot;auf **Benutzer und Rollen**.
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-2.png)
 
-1. Verwenden Sie den Filter, um die Suche einzuschränken.
+1. Klicken Sie auf **Anmeldeverlauf** Registerkarte. Die Liste enthält die neuesten Anmeldedaten.
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-3.png)
+
+1. Verwenden Sie den Filter , um die Suche einzuschränken.
+
+   ![](assets/user-login-history-4.png)
 
 1. Wählen Sie mithilfe der Datumsauswahl einen Datumsbereich aus.
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-5.png)
 
-1. Oder wählen Sie aus der Dropdownliste aus.
+1. Oder wählen Sie aus der Dropdown-Liste aus.
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
-1. Wählen Sie die Benutzer aus der Dropdownliste **Benutzer**.
+1. Wählen Sie die Benutzer aus dem **Benutzer** Dropdown-Liste.
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
-1. Markieren Sie das Feld **Nur fehlgeschlagene Anmeldungen**, um nur fehlgeschlagene Anmeldungen anzuzeigen.
+1. Überprüfen Sie die **Nur fehlgeschlagene Anmeldungen** , um nur fehlgeschlagene Anmeldungen bei der Suche anzuzeigen.
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
-1. Klicken Sie auf **Apply**.
+1. Klicken **Anwenden**.
 
-   ![](assets/click-apply-real.jpg)
-
-   >[!NOTE]
-   >
-   >Die Benutzeroberfläche zeigt Daten von bis zu 30 Tagen an. Wenn Sie mehr benötigen, können Sie die letzten sechs Monate an Daten in eine CSV-Datei herunterladen.
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >
-   >[Übersicht über Prüfprotokolle](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >In der Benutzeroberfläche werden Daten von bis zu 30 Tagen angezeigt. Wenn Sie mehr benötigen, können Sie die Daten der letzten sechs Monate in eine CSV-Datei herunterladen.
+
+   >[!NOTE]
+   >
+   >[Audit-Protokoll - Überblick](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

@@ -1,10 +1,9 @@
 ---
 unique-page-id: 11378468
-description: Filterung im Audit-Protokoll - Marketo Docs - Produktdokumentation
-title: Filtern im Prüfpfad
+description: Filtern im Audit-Protokoll - Marketo-Dokumente - Produktdokumentation
+title: Filtern im Audit-Protokoll
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -13,50 +12,50 @@ ht-degree: 0%
 
 # Filtern im Audit-Protokoll {#filtering-in-audit-trail}
 
-Filtern Sie nach Zeitraum, Asset-Typ, Benutzer, getroffener Aktion und mehr.
+Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzer, durchgeführte Aktionen und mehr.
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
-   ![](assets/one-1.png)
+   ![](assets/filtering-in-audit-trail-1.png)
 
-1. Wählen Sie unter **Sicherheit** **Prüfpfad**.
+1. under **Sicherheit** auswählen **Audit-Protokoll**.
 
-   ![](assets/two-1.png)
+   ![](assets/filtering-in-audit-trail-2.png)
 
 1. Klicken Sie auf das Filtersymbol.
 
-   ![](assets/three.png)
+   ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
-   >Es gibt eine Vielzahl von möglichen Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _alle E-Mails - von jedermann bearbeitet - in den letzten sieben Tagen_.
+   >Es gibt eine Vielzahl möglicher Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _alle - von jedermann bearbeiteten - E-Mails in den letzten sieben Tagen_.
 
-1. Klicken Sie auf die Dropdownliste **Zeitraum** und wählen Sie **Letzte 7 Tage**.
+1. Klicken Sie auf **Zeitraum** und wählen Sie **Letzte 7 Tage**.
 
-   ![](assets/four.png)
+   ![](assets/filtering-in-audit-trail-4.png)
 
-1. Klicken Sie auf die Dropdownliste **Asset-Typ** und wählen Sie **E-Mail**.
+1. Klicken Sie auf **Asset-Typ** und wählen Sie **Email**.
 
-   ![](assets/five.png)
+   ![](assets/filtering-in-audit-trail-5.png)
 
-1. Klicken Sie auf die Dropdownliste **Aktionen** und wählen Sie **Bearbeiten**.
+1. Klicken Sie auf **Aktionen** und wählen Sie **Bearbeiten**.
 
-   ![](assets/six.png)
+   ![](assets/filtering-in-audit-trail-6.png)
 
-1. Klicken Sie auf **Apply**.
+1. Klicken **Anwenden**.
 
-   ![](assets/seven.png)
+   ![](assets/filtering-in-audit-trail-7.png)
 
 1. Gefilterte Ergebnisse werden links angezeigt.
 
-   ![](assets/eight.png)
+   ![](assets/filtering-in-audit-trail-8.png)
 
-   Das ist&#39;s!
+   Das ist es!
 
    >[!NOTE]
    >
-   >Wenn Sie Arbeitsbereiche aktiviert haben, werden Prüfdaten für alle Arbeitsbereiche angezeigt. Wenn Sie einen Arbeitsflächenfilter anwenden, speichert Marketo bei jeder Verwendung des Prüfpfads den vorherigen Arbeitsbereichwert. Workspace-Berechtigungen auf Asset-Ebene werden erzwungen.
+   >Wenn Sie Arbeitsbereiche aktiviert haben, werden Prüfdaten für alle Arbeitsbereiche angezeigt. Wenn Sie einen Arbeitsbereichfilter anwenden, speichert Marketo bei jeder Verwendung des Audit-Protokolls den vorherigen Arbeitsbereichswert. Workspace-Berechtigungen auf der Asset-Ebene werden erzwungen.
 
    >[!MORELIKETHIS]
    >
-   >[Details im Prüfpfad ändern](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[Details im Audit-Protokoll ändern](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

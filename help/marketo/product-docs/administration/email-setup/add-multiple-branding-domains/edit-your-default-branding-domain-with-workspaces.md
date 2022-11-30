@@ -1,42 +1,45 @@
 ---
 unique-page-id: 11377406
-description: Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen - Marketo Docs - Produktdokumentation
-title: Standardmäßige Branding-Domäne mit Arbeitsbereichen bearbeiten
+description: Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
+title: Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
 # Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen {#edit-your-default-branding-domain-with-workspaces}
 
-1. Gehen Sie zu **Admin** und klicken Sie dann auf **E-Mail**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Wählen Sie in der Tabelle &quot;Branding-Domänen&quot;die aktuelle allgemeine Domäne aus und klicken Sie auf Bearbeiten, um sie in die Markendomäne Ihrer Firma zu ändern.
+1. Klicken **Email**.
 
-   ![](assets/image2016-8-12-10-3a30-3a34.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
+
+1. Wählen Sie in der Tabelle Branding-Domänen die aktuelle allgemeine Domäne aus und klicken Sie auf Bearbeiten , um sie in die Markendomäne Ihres Unternehmens zu ändern.
+
+   ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
    >[!NOTE]
    >
-   >**Admin** funktioniert erst, wenn Sie die generische Domäne bearbeitet haben. **Das** Löschen funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
+   >**Hinzufügen** funktioniert erst, wenn Sie die generische Domäne bearbeitet haben. **Löschen** funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
    >
-   >Sie können erst eine zusätzliche Domäne hinzufügen, wenn Sie die allgemeine Domäne zum ersten Mal bearbeiten.
+   >Sie können erst dann eine zusätzliche Domäne hinzufügen, wenn Sie die generische Domäne zum ersten Mal bearbeiten.
 
-1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf **Weiter**.
+1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf **Nächste**.
 
-   ![](assets/image2016-8-12-10-3a32-3a31.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
-   ![](assets/edit-branding-domain-9-12-16-hand.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 
 >[!NOTE]
 >
->Wenn Sie zusätzliche Branding-Domänen hinzufügen, können Sie diese als primäre Domäne für einen oder mehrere Arbeitsbereiche festlegen. Alle vorhandenen nicht gesendeten E-Mails mit der Einstellung &quot;Standard&quot;und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domäne eingestellt. Sie können dies per E-Mail außer Kraft setzen.
+>Beim Hinzufügen zusätzlicher Branding-Domänen können Sie festlegen, dass diese Domäne für einen oder mehrere Arbeitsbereiche als primäre Domäne gilt. Alle vorhandenen nicht gesendeten E-Mails, die auf &quot;Standard&quot;eingestellt sind, sowie alle neu erstellten E-Mails werden standardmäßig zur primären Domäne hinzugefügt. Sie können dies pro E-Mail überschreiben.
 
-Jetzt können Sie [zusätzliche Branding-Domänen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) hinzufügen, die Sie für die Arbeitsbereiche benötigen.
+Jetzt können Sie [Hinzufügen zusätzlicher Branding-Domänen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) Sie benötigen die Arbeitsbereiche.
