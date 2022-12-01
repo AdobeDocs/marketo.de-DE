@@ -1,166 +1,165 @@
 ---
 unique-page-id: 6848782
-description: Dynamische Abmeldung für Sprachen - Marketo Dokumente - Produktdokumentation
-title: Dynamische Abmeldung für Sprachen
+description: Dynamische Abmeldemeldung für Sprachen - Marketo-Dokumente - Produktdokumentation
+title: Dynamische Abmeldemeldung für Sprachen
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 4%
+source-wordcount: '491'
+ht-degree: 3%
 
 ---
 
-# Dynamische Abmeldung für Sprachen {#make-your-unsubscribe-message-dynamic-for-languages}
+# Dynamische Abmeldemeldung für Sprachen {#make-your-unsubscribe-message-dynamic-for-languages}
 
-Die Standardmeldung und der Link zum Abbestellen des Abonnements sind in Englisch verfügbar. Sie können dynamische Inhalte verwenden, um sie in verschiedenen Sprachen anzuzeigen.
+Die Standard-Abmelde-Nachricht und der entsprechende Link sind in englischer Sprache verfügbar. Sie können dynamische Inhalte verwenden, um sie in verschiedenen Sprachen anzuzeigen.
 
 >[!NOTE]
 >
->Unten haben wir dieses nette kleine Tutorial für Sie eingerichtet. Es stellt eine Best Practice dar, aber dies kann auf andere Weise erreicht werden.
+>Dieser Artikel stellt eine Best Practice dar, kann aber auf andere Weise durchgeführt werden.
 
 ## Daten vorbereiten {#prepare-your-data}
 
-1. [Erstellen Sie ein benutzerdefiniertes ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) Feld mit dem Namen &quot;Bevorzugte Sprache&quot;. (Richten Sie es in Ihrem CRM ein, wenn dieses Feld synchronisiert werden soll).
+1. [Benutzerdefiniertes Feld erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) namens &quot;Bevorzugte Sprache&quot;. (Richten Sie es in Ihrem CRM ein, wenn dieses Feld synchronisiert werden soll).
 
    >[!TIP]
    >
-   >Verwenden Sie dieses Feld in Zukunft, wenn Sie [ein Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) erstellen, um die Spracheinstellung zu erfassen.
+   >Verwenden Sie dieses Feld zukünftig, wenn Sie [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) , um die Sprachvoreinstellung zu erfassen.
 
-## Erstellen der Segmentierung {#create-segmentation}
+## Segmentierung erstellen {#create-segmentation}
 
-1. Gehen Sie zur Datenbank ****.
+1. Navigieren Sie zu **Datenbank**.
 
-   ![](assets/db.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. Klicken Sie in der Dropdownliste **Neu** auf **Neue Segmentierung**.
+1. Im **Neu** Dropdown, klicken Sie auf **Neue Segmentierung**.
 
-   ![](assets/two.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Benennen Sie die Segmentierung **Bevorzugte Sprache**. Klicken Sie auf **Hinzufügen Segment**. Geben Sie eine Sprache ein.
+1. Benennen Sie die Segmentierung. **Bevorzugte Sprache**. Klicken **Segment hinzufügen**. Geben Sie eine Sprache ein.
 
-   ![](assets/image2015-3-9-8-3a33-3a44.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
    >[!NOTE]
    >
    >Das Standardsegment ist Englisch.
 
-1. Fügen Sie weiterhin Segmente hinzu, bis alle Ihre Sprachen angezeigt werden. Klicken Sie auf **Erstellen**.
+1. Fügen Sie weiterhin Segmente hinzu, bis alle Ihre Sprachen repräsentiert sind. Klicken Sie auf **Erstellen**.
 
-   ![](assets/image2015-3-9-8-3a38-3a5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
 1. Segment auswählen.
 
-   ![](assets/image2015-3-9-8-3a38-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Wechseln Sie zur Registerkarte **Intelligente Liste.** Geben Sie **Bevorzugte Sprache** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
+1. Wechseln Sie zur Registerkarte **Intelligente Liste.** Eingabe **Bevorzugte Sprache** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
 
-   ![](assets/six.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
 1. Legen Sie die entsprechende Sprache fest.
 
-   ![](assets/seven.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. Wiederholen Sie diese Schritte für alle Ihre Sprachen. Wählen Sie dann die Dropdownliste **Segmentierungsaktionen** und klicken Sie auf **Genehmigen**.
+1. Wiederholen Sie diese Schritte für alle Ihre Sprachen. Wählen Sie anschließend die **Segmentierungsaktionen** Dropdown-Liste und klicken Sie auf **Genehmigen**.
 
-   ![](assets/image2015-3-9-8-3a39-3a36.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
-## Erstellen eines Snippets {#create-a-snippet}
+## Snippet erstellen {#create-a-snippet}
 
-1. Wechseln Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. Klicken Sie im Dropdownmenü **Neu** auf **Neues Snippet**.
+1. Im **Neu** Dropdown, klicken **Neuer Snippet**.
 
-   ![](assets/ten.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. Benennen Sie das Codefragment **Meldung abmelden**. Klicken Sie auf **Erstellen**.
+1. Benennen Sie das Snippet. **Abmelde-Nachricht**. Klicken Sie auf **Erstellen**.
 
-   ![](assets/image2015-3-9-8-3a40-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
-1. Geben Sie die Standardnachricht zum Abmelden ein, markieren Sie sie und klicken Sie auf das Hyperlink-Symbol.
+1. Geben Sie Ihre standardmäßige Abmelde-Nachricht ein, markieren Sie sie und klicken Sie auf das Hyperlink-Symbol.
 
-   ![](assets/image2015-3-9-8-3a41-3a47.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Kopieren Sie dieses Token und fügen Sie es ein: `{{system.unsubscribeLink}}` in das Feld **URL verknüpfen** ein. Klicken Sie auf **Einfügen**.
+1. Kopieren Sie dieses Token und fügen Sie es ein: `{{system.unsubscribeLink}}` in **URL** -Feld. Klicken Sie auf **Einfügen**.
 
-   ![](assets/image2015-3-9-8-3a43-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Wählen Sie **Segment nach** im Abschnitt Segmentierung.
+1. Auswählen **Segment nach** im Abschnitt Segmentierung .
 
-   ![](assets/image2015-3-9-8-3a44-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. Geben Sie in der Dropdownliste Segmentierung **Bevorzugte** ein und wählen Sie **Bevorzugte Sprache**. Klicken Sie auf **Speichern**.
+1. Geben Sie in der Dropdown-Liste Segmentierung **Bevorzugt** und wählen Sie **Bevorzugte Sprache**. Klicken **Speichern**.
 
-   ![](assets/image2015-3-9-8-3a44-3a32.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Wählen Sie ein Segment aus der Struktur. Geben Sie Ihre Nachricht zum Abbestellen in dieser Sprache ein.
+1. Wählen Sie ein Segment aus der Baumstruktur aus. Klicken Sie auf Ihre Abmeldung und dann auf das Link-Symbol.
 
-   ![](assets/image2015-3-9-8-3a45-3a43.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Kopieren Sie dasselbe Token und fügen Sie es ein: `{{system.unsubscribeLink}}` in das Feld **URL verknüpfen** ein. Klicken Sie auf **Einfügen**.
+1. Stellen Sie sicher `{{system.unsubscribeLink}}` befindet sich weiterhin im Feld URL . Bearbeiten Sie den Anzeigetext entsprechend der ausgewählten Sprache. Klicken **Anwenden**.
 
-   ![](assets/image2015-3-9-8-3a47-3a4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. Wiederholen Sie diese Schritte für alle Ihre Segmente. Gehen Sie dann zurück zu Design Studio, klicken Sie auf die Dropdownliste **Codeausschnittaktionen** und klicken Sie auf **Genehmigen**.
+1. Wiederholen Sie diese Schritte für alle Ihre Segmente. Gehen Sie dann zurück zu Design Studio und klicken Sie auf das **Snippet-Aktionen** und klicken Sie auf **Genehmigen**.
 
-   ![](assets/image2015-3-9-8-3a47-3a34.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-   Fantastisch. Fast da.
+Fantastisch. Fast da!
 
-## Snippet in einer E-Mail {#use-snippet-in-an-email} verwenden
+## Snippet in einer E-Mail verwenden {#use-snippet-in-an-email}
 
-1. Klicken Sie im E-Mail-Editor auf das bearbeitbare Element. Klicken Sie dann auf das Zahnradsymbol und wählen Sie **Ersetzen durch Ausschnitt**. Wenn Sie ein bearbeitbares Snippet-Element auswählen, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
+1. Klicken Sie im E-Mail-Editor auf das bearbeitbare Element. Klicken Sie dann auf das Zahnradsymbol und wählen Sie **Ersetzen durch Snippet**. Wenn Sie ein bearbeitbares Snippet-Element auswählen, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
 
-   ![](assets/4.1.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. Suchen Sie nach Ihrem Snippet und wählen Sie es aus der Dropdownliste aus und klicken Sie auf **Speichern**.
+1. Suchen und wählen Sie Ihr Snippet aus der Dropdown-Liste aus und klicken Sie auf **Speichern**.
 
-   ![](assets/image2015-3-9-8-3a50-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. Klicken Sie zum Testen auf **Zurück**...
+1. Um es auszuprobieren, klicken Sie auf **Zurück**...
 
-   ![](assets/4.3.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...dann die Registerkarte **Dynamisch**.
+1. ...dann die **Dynamik** Registerkarte.
 
-   ![](assets/4.4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
 1. Klicken Sie auf die verschiedenen Sprachen, um die Änderung des Snippets anzuzeigen.
 
-   ![](assets/4.5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-23.png)
 
    >[!TIP]
    >
-   >Natürlich können Sie den Rest Ihrer E-Mail auch für dynamische Sprachen bearbeiten. Während Sie sich daran befinden, führen Sie auf der Seite zum Abmelden das gleiche Verfahren aus.
+   >Natürlich können Sie den Rest Ihrer E-Mail auch für dynamische Sprachen bearbeiten. Führen Sie auf der Abmeldeseite die gleiche Technik aus, während Sie damit arbeiten.
 
-## Anpassen Ihrer Abmeldeseite mit dynamischem Inhalt {#customizing-your-unsubscribe-page-with-dynamic-content}
+## Anpassen der Abmeldeseite mit dynamischen Inhalten {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-Wenn Sie möchten, dass Ihre Mitarbeiter eine Abmeldeseite in ihrer bevorzugten Sprache aufrufen, können Sie dynamische Inhalte auf der Landingpage und der Bestätigungsseite verwenden.
+Wenn Sie möchten, dass Ihre Personen zu einer Abmeldeseite in der gewünschten Sprache gelangen, können Sie dynamischen Inhalt auf der Landingpage und der Bestätigungsseite verwenden.
 
-1. Navigieren Sie zum Design Studio.
+1. Navigieren Sie zum **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Geben Sie _Abmelden_ in das Suchfeld ein. Sie sollten Ihre Abmeldeseiten finden.
+1. Geben Sie ein _Abmelden_ in das Suchfeld ein und wählen Sie die gewünschte Abmeldeseite aus.
 
-   ![](assets/image2015-3-9-8-3a51-3a53.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
-1. Klicken Sie auf **Entwurf bearbeiten**.
+1. Klicken **Entwurf bearbeiten**.
 
-   ![](assets/image2015-3-9-8-3a52-3a23.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. Wählen Sie **Segment nach**.
+1. Auswählen **Segment nach**.
 
-   ![](assets/image2015-3-9-8-3a52-3a57.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. Suchen Sie das Segment Bevorzugte Sprache. Klicken Sie auf **Speichern**.
+1. Suchen Sie das Segment Bevorzugte Sprache . Klicken **Speichern**.
 
-   ![](assets/image2015-3-9-8-3a53-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Bearbeiten Sie Ihre Inhalte für jede Landingpage, genehmigen Sie, und Sie sind gut zu gehen!
+   Bearbeiten Sie den Inhalt für jede Landingpage, validieren Sie, und Sie können loslegen!
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über [dynamische Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) und alle coolen Dinge, die Sie tun können.
+   >Weitere Informationen [dynamischer Inhalt](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) und all die coolen Sachen, die man machen kann.

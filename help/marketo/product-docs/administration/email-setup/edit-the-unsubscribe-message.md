@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: Bearbeiten der Abmeldemeldung - Marketo Docs - Produktdokumentation
 title: Bearbeiten der Abmelde-Nachricht
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), werden der Text und die Links zum Abmelden am unteren Rand angehängt. Sie können die Standardeinstellungen ändern. So geht es.
 
-## Bearbeiten der Abmelde-Nachricht {#edit-the-unsubscribe-message-1}
+## Wo kann ich die Bearbeitung vornehmen? {#where-to-make-the-edit}
 
-1. under **Admin** klicken **Email**.
+1. Navigieren Sie zu **Admin** Abschnitt.
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. Klicken **Email**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/mar
 
 1. Bearbeiten Sie die **HTML abmelden** und **Text abmelden** Versionen nach Ihren Wünschen und klicken Sie auf **Änderungen speichern**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    Da hast du es. _Testen Sie unbedingt!_ Sie möchten nicht, dass Ihre Marketing-E-Mails fehlerhafte Abmelde-Links aufweisen.
 
