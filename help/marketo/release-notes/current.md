@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
+source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 5%
@@ -25,7 +25,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Synchronisierung benutzerdefinierter Felder für Programmmitglieder**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.)
+* **Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.)
 
 <table> 
   <tr> 
@@ -34,7 +34,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisierung benutzerdefinierter Felder für Programmmitglieder</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer</a></td>
   </tr>
   </tbody>
 </table>
