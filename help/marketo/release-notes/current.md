@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 5%
@@ -53,7 +53,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-### Erlebnis der nächsten Generation {#next-generation-experience}
+### Erlebnis der nächsten Generation {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Umschalten</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalten</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 * **Forms 1.0**: Die Einstellung von Forms 1.0 wird mit der Oktober-Version abgeschlossen. Forms 1.0-Assets können keine Daten mehr an Marketo Engage senden und geben bei Versuchen Fehler zurück.
 
 * **NoScript Forms**: Forms funktioniert nicht mehr, wenn JavaScript im Browser deaktiviert ist. Für die Übermittlung von Formularen muss JavaScript aktiviert sein.
+
