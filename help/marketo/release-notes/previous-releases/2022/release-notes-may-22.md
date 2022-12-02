@@ -1,7 +1,8 @@
 ---
 description: Versionshinweise - Mai 2022 - Marketo-Dokumente - Produktdokumentation
 title: Mai 2022 - Versionshinweise
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -38,7 +39,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **6. Mai 2022**, wo
 
 **[STS-Kopfzeile für E-Mail-Tracking-Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Erfüllen Sie die Best Practices für die Sicherheit mit der Möglichkeit, sichere Transport Security-Header anzuwenden, um sicherzustellen, dass Traffic zu verfolgten Links immer sicher ist.
 
-## Erlebnis der nächsten Generation {#next-generation-experience}
+## Erlebnis der nächsten Generation {#modern-ux}
 
 **Umschalter Standardmäßig auf Erlebnis der nächsten Generation umschalten**: Der Umschalter wird in allen Bildschirmen, auf denen es verfügbar ist, standardmäßig auf das neue Erlebnis festgelegt, wodurch die Benutzer die aktualisierten Designs und Verbesserungen der Benutzerfreundlichkeit leichter erkennen können.
 

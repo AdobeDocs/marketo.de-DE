@@ -2,7 +2,7 @@
 description: Versionshinweise - August 2022 - Marketo-Dokumente - Produktdokumentation
 title: August 2022 - Versionshinweise
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Mit den folgenden Funktionen wurde ein schrittweises Rollout für **26. August 2
 
 * **Anzeigen der Ordnerhierarchie des Zielordners im Dialogfeld &quot;Verschieben&quot;**: Die Anzeige der Ordnerhierarchie für jeden Ordner erleichtert das Verschieben von Assets und verringert die Wahrscheinlichkeit, dass sie in den falschen Ordner eingefügt werden.
 
-* **[Aktualisierte Screens im Erlebnis der nächsten Generation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
+* **[Aktualisierte Screens im Erlebnis der nächsten Generation](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
    * Details zum Ausschnitt
    * Details zu &quot;Bildern und Dateien&quot;

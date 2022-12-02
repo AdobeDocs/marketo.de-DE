@@ -2,7 +2,7 @@
 title: Marketo Produktdokumente
 description: Marketo Produktdokumente
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 21%
@@ -28,7 +28,7 @@ ht-degree: 21%
 
 * [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [Übersicht über Adobe Marketo Engage Next Gen UX-Erlebnisse](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
+* [Übersicht über Adobe Marketo Engage Next Gen UX-Erlebnisse](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
 
 ## Versionshinweise
 

@@ -2,7 +2,7 @@
 description: Versionshinweise - März 2022 - Marketo-Dokumente - Produktdokumentation
 title: März 2022 - Versionshinweise
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **11. März 2022**,
 
 * **Verbesserung der Filterung der E-Mail-Bot-Aktivität**: Verbesserung der zuvor veröffentlichten [Filterung der E-Mail-Bot-Aktivität](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} verwenden, können Sie sich jetzt für Protokollierungsaktivitäten anmelden, die als Bots identifiziert werden. Sie können dann Aktionen nach Aktivitäten filtern und Trigger erstellen, die von Bots als ausgeführt identifiziert wurden.
 
-## Erlebnis der nächsten Generation {#next-generation-experience}
+## Erlebnis der nächsten Generation {#modern-ux}
 
 * **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
@@ -73,7 +73,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Ankündigungen {#announcements}
 
-* **Marketo Sky Deprecation**: Im März wird Marketo Sky nicht mehr verfügbar sein, da wir unsere Ressourcen auf die Bereitstellung des Benutzererlebnisses der nächsten Generation konzentrieren. Um den Zugriff auf Funktionen zu erhalten, die heute nur noch für Marketo Sky verfügbar sind, bieten wir das Classic-Erlebnis mit Asset-Ablauf und Smart-Campaign-Prioritätsüberschreibungen an. [Klicken Sie hier](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33), um mehr zu erfahren.
+* **Marketo Sky Deprecation**: Im März wird Marketo Sky nicht mehr verfügbar sein, da wir unsere Ressourcen auf die Bereitstellung des Benutzererlebnisses der nächsten Generation konzentrieren. Um den Zugriff auf Funktionen zu erhalten, die heute nur noch für Marketo Sky verfügbar sind, bieten wir das Classic-Erlebnis mit Asset-Ablauf und Smart-Campaign-Prioritätsüberschreibungen an. [Klicken Sie hier](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33), um mehr zu erfahren.
 
 **_Webinar zur Produktversion_**
 
