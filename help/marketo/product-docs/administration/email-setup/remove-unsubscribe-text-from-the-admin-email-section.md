@@ -1,38 +1,41 @@
 ---
 unique-page-id: 2360245
-description: Entfernen Sie den Text für das Abbestellen aus der Admin-E-Mail-Sektion - Marketo Dokumente - Produktdokumentation
-title: Entfernen Sie den Text zum Abmelden aus dem Abschnitt "Admin-E-Mail".
+description: Entfernen Sie den Abmeldungstext aus dem Abschnitt "Admin-E-Mail"- Marketo-Dokumente - Produktdokumentation
+title: Entfernen Sie den Abmelde-Text aus dem Abschnitt "Admin-E-Mail".
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 3%
 
 ---
 
-# Entfernen Sie den Text zum Abmelden aus dem Abschnitt für die Admin-E-Mail {#remove-unsubscribe-text-from-the-admin-email-section}
+# Entfernen Sie den Abmelde-Text aus dem Abschnitt &quot;Admin-E-Mail&quot;. {#remove-unsubscribe-text-from-the-admin-email-section}
 
-Der einzige Grund, warum Sie den Inhalt zum Abbestellen des Abonnements aus dem Bereich &quot;Admin > E-Mail&quot;vollständig entfernen sollten, ist, wenn Sie den Link zum Abbestellen des Abonnements in die E-Mail-Vorlagen selbst erstellen. Das Textfeld verfügt über eine Überprüfung, die das Speichern ohne Inhalt nicht zulässt. Sie können dies umgehen, indem Sie einen kleinen HTML-Kommentar hinzufügen. Der HTML-Kommentar wird nicht im E-Mail-Client angezeigt, da er die E-Mail in HTML wiedergibt und die Kommentare weggelassen werden. Hier ist, wie man das macht.
+Der einzige Grund, warum Sie den Inhalt der Abmeldung vollständig aus dem Bereich &quot;Admin > E-Mail&quot;entfernen sollten, besteht darin, den Abmelde-Link in die E-Mail-Vorlagen selbst zu integrieren. Das Textfeld verfügt über eine Validierung, die das Speichern ohne Inhalt nicht zulässt. Sie können dies umgehen, indem Sie einen kleinen HTML-Kommentar hinzufügen. Der HTML-Kommentar wird nicht im E-Mail-Client angezeigt, da er die E-Mail in HTML rendert und die Kommentare weggelassen werden. Hier ist, wie man das macht.
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **E-Mail**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-8-26-13-3a57-3a9.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Wählen Sie den gesamten Text aus und drücken Sie die Taste **Löschen**.
+1. Klicken **Email**.
+
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
+
+1. Wählen Sie den gesamten Text aus und drücken Sie die **Löschen** Schlüssel.
 
    >[!CAUTION]
    >
-   >Kopieren Sie vor dem Löschen dieses Dokuments als Sicherung in ein Textzeichen.
+   >Kopieren Sie vor dem Löschen das Dokument als Sicherung in ein Textdokument.
 
-1. Geben Sie `<!--This is a comment -->` ein.
+1. Geben Sie ein `<!--This is a comment -->`.
 
-   ![](assets/image2016-8-26-13-3a53-3a15.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. Klicken Sie auf **Änderungen speichern**.
+1. Klicken **Änderungen speichern**.
 
-   ![](assets/image2016-8-26-13-3a59-3a40.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 
 >[!NOTE]
 >
->Für den **Text abmelden** müssen Sie ein einzelnes Zeichen hinzufügen. Verwenden Sie einen Bindestrich oder einen Punkt.
+>Für **Text abmelden** müssen Sie ein einzelnes Zeichen hinzufügen. Verwenden Sie einen Bindestrich oder einen Punkt.

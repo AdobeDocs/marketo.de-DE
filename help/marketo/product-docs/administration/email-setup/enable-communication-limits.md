@@ -1,13 +1,12 @@
 ---
 unique-page-id: 2360222
-description: Kommunikationsbeschränkungen aktivieren - Marketo Dokumente - Produktdokumentation
+description: Kommunikationsbeschränkungen aktivieren - Marketo-Dokumente - Produktdokumentation
 title: Kommunikationsbeschränkungen aktivieren
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 3%
 
 ---
 
@@ -17,54 +16,58 @@ Es ist sehr wichtig, nicht zu viel mit Ihren Leuten zu kommunizieren. Durch das 
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Klicken Sie unter **Admin** auf **Kommunikationsbeschränkungen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-18-15-3a53-3a37.png)
+   ![](assets/enable-communication-limits-1.png)
 
-1. Klicken Sie auf **Bearbeiten**.
+1. Klicken **Kommunikationsgrenzen**.
 
-   ![](assets/image2014-9-18-15-3a53-3a47.png)
+   ![](assets/enable-communication-limits-2.png)
+
+1. Klicken **Bearbeiten**.
+
+   ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
    >Pro Tag basiert auf dem Kalendertag in der Zeitzone des Abonnements (Mitternacht).
 
-1. Klicken Sie auf die Dropdownliste **Pro Tag** und wählen Sie die gewünschte Beschränkung aus. In diesem Beispiel wählen wir 1.
+1. Klicken Sie auf **Pro Tag** und wählen Sie die gewünschte Begrenzung aus. In diesem Beispiel wählen wir 1.
 
-   ![](assets/three.png)
+   ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >Sie können auch **Benutzerdefiniert** wählen, wenn keine der Vorgabeoptionen für Sie funktioniert.
+   >Sie können auch **Benutzerdefiniert** , wenn keine der voreingestellten Optionen für Sie funktioniert.
 
-1. Klicken Sie auf die Dropdownliste **Pro 7 Tage** und wählen Sie die gewünschte Grenze aus. In diesem Beispiel wählen wir 5.
+1. Klicken Sie auf **Pro 7 Tage** und wählen Sie die gewünschte Begrenzung aus. In diesem Beispiel wählen wir 5.
 
-   ![](assets/four.png)
+   ![](assets/enable-communication-limits-5.png)
 
-1. Wählen Sie **Nicht operative E-Mails blockieren**.
+1. Auswählen **Nicht operative E-Mails blockieren**.
 
-   ![](assets/five.png)
+   ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
    >Erfahren Sie mehr darüber, was [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sind.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
-   ![](assets/six.png)
+   ![](assets/enable-communication-limits-7.png)
 
    >[!NOTE]
    >
    >**Beispiel**
    >
-   >Die oben genannten Einstellungen bedeuten, dass Personen pro Tag höchstens **1 E-Mail oder** 5 in einem Zeitraum von sieben Tagen **erhalten.**
+   >Die obigen Einstellungen bedeuten, dass Personen nicht mehr als **1 E-Mail pro Tag** oder mehr als **5 innerhalb eines beliebigen Zeitraums von sieben Tagen**.
 
    >[!NOTE]
    >
-   >Die Kommunikationsbeschränkungen gelten automatisch für alle E-Mail- und Interaktions-Programm.
+   >Kommunikationsbeschränkungen gelten automatisch für alle E-Mail- und Interaktionsprogramme.
 
 >[!MORELIKETHIS]
 >
->[Kommunikationsbeschränkungen auf intelligente Kampagne anwenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Anwenden von Kommunikationsbeschränkungen auf Smart-Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

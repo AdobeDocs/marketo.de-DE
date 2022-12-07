@@ -1,55 +1,58 @@
 ---
 unique-page-id: 2360253
-description: Bearbeiten Sie die Meldung "Ansicht als Webseite"- Marketo Docs - Produktdokumentation
-title: Die Meldung "Ansicht als Webseite"bearbeiten
+description: Bearbeiten Sie die Meldung "Als Webseite anzeigen"- Marketo Docs - Produktdokumentation
+title: Bearbeiten Sie die Meldung "Als Webseite anzeigen".
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 5%
+source-wordcount: '184'
+ht-degree: 8%
 
 ---
 
-# Bearbeiten Sie die Meldung &quot;Ansicht als Webseite&quot; {#edit-the-view-as-web-page-message}
+# Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;. {#edit-the-view-as-web-page-message}
 
-Wenn Sie den Text &quot;[Ansicht als Webseite](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;bearbeiten müssen, hier sehen Sie wie.
+Wenn Sie die[Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; Text, so ist es.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-## Bearbeiten Sie die Meldung &quot;Ansicht als Webseite&quot; {#edit-the-view-as-web-page-message-1}
+## Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;. {#edit-the-view-as-web-page-message-1}
 
-1. Klicken Sie unter **Admin** auf **E-Mail**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-18-17-3a13-3a2.png)
+   ![](assets/edit-the-view-as-web-page-message-1.png)
+
+1. Klicken **Email**.
+
+   ![](assets/edit-the-view-as-web-page-message-2.png)
 
    >[!CAUTION]
    >
-   >Die folgenden Variablen sind von entscheidender Bedeutung. Löschen Sie sie nicht!
+   >Die folgenden Variablen sind wichtig. Löschen Sie sie nicht!
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Der zweite Teil `##MKT_TOK##` ist das munchkin-Cookie dieser Person. Dadurch wird sichergestellt, dass sie beim Klicken auf den Link entsprechend gekocht werden.
+   >Der zweite Teil `##MKT_TOK##` ist das Munchkin-Cookie dieser Person. Dadurch wird sichergestellt, dass die Cookies beim Klicken auf den Link entsprechend Cookies erhalten.
 
-1. Bearbeiten Sie die Ansicht **wie gewünscht als Webseiten-HTML** und **Ansicht als Webseiten-Text** und klicken Sie auf **Änderungen speichern**.
+1. Bearbeiten Sie die **Als Webseiten-HTML anzeigen** und **Als Webseiten-Text anzeigen** Versionen nach Ihren Wünschen und klicken Sie auf **Änderungen speichern**.
 
-   ![](assets/image2016-8-26-14-3a40-3a29.png)
+   ![](assets/edit-the-view-as-web-page-message-3.png)
 
 >[!CAUTION]
 >
 >Vermeiden Sie Folgendes:
 >
 >* Hinzufügen zusätzlicher URLs zu einem der HTML-Felder
->* HTML in der Textversion bereitstellen
+>* HTML in Textversion platzieren
 
 
 Da hast du es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 
-## Standardtext &quot;Ansicht als Webseite&quot; {#default-view-as-web-page-text}
+## Standardtext &quot;Als Webseite anzeigen&quot; {#default-view-as-web-page-text}
 
-Wenn Sie jemals zum Standardsystem &quot;Ansicht als Webseite&quot;zurückkehren müssen, kopieren Sie Folgendes:
+Wenn Sie jemals zum Standardsystem &quot;Als Webseite anzeigen&quot;zurückkehren müssen, kopieren/einfügen Sie Folgendes:
 
 **Als Webseiten-HTML anzeigen:**
 
@@ -57,5 +60,7 @@ Wenn Sie jemals zum Standardsystem &quot;Ansicht als Webseite&quot;zurückkehren
 
 **Als Webseitentext anzeigen:**
 
-Um diese E-Mail als Webseite Ansicht, gehen Sie zur folgenden Adresse:
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom! Du bist fertig.
+Um diese E-Mail als Webseite anzuzeigen, gehen Sie zur folgenden Adresse:
+`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
+
+Das ist es!
