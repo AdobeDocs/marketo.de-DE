@@ -2,9 +2,9 @@
 description: Adobe Identity Management - Überblick - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Wenn Sie ab dem 15. Februar 2022 über ein neues Konto bei Adobe Marketo Engage (kein neues Konto, sondern nur eine neue Instanz für ein bestehendes Konto) verfügen, kann es je nach erworbenem Produktpaket in das Adobe Identity Management-System integriert werden. Wenden Sie sich an Ihren Marketo-Administrator oder den Customer Success Manager Ihres Kontos, um herauszufinden, ob Sie über dieses verfügen.
 
-Bestehende Marketo-Abonnements werden Anfang des Jahres in das Adobe Identity Management System migriert.
+Bestehende Marketo-Abonnements werden im zweiten Halbjahr 2023 in das Identity Management-System der Adobe migriert.
 
 >[!NOTE]
 >
@@ -113,7 +113,7 @@ Ja. Die Marketo-Integration mit Adobe IMS unterstützt universelle ID-Benutzer u
 
 **Wie funktioniert die Geräteregistrierung?**
 
-Adobe IMS unterstützt derzeit keine Funktionen wie die Marketo-Funktion zur Geräteregistrierung.
+Adobe IMS unterstützt derzeit keine Funktionen wie die Marketo-Funktion zur Geräteautorisierung.
 
 **Ist es weiterhin möglich, die Funktion &quot;Anmelden im Dialogfeld &quot;Benutzer einladen&quot;zu verwenden, um die Anmeldung eines Benutzers von seiner E-Mail-Adresse aus eindeutig zu machen?**
 
