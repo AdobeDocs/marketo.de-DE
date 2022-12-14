@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC Sync - Custom Object Sync - Marketo Docs - Produktdokumentation
 title: SFDC Sync - benutzerdefinierte Objektsynchronisierung
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 >[!PREREQUISITES]
 >
 >Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [Lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [Kontakt](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)oder [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) -Objekt in Salesforce.
+
+>[!IMPORTANT]
+>
+>Der Marketo Sync User benötigt Lesezugriff auf das benutzerdefinierte Objekt, um es aufzulisten und eine Synchronisierung durchzuführen.
 
 ## Benutzerdefiniertes Objekt aktivieren  {#enable-custom-object}
 
