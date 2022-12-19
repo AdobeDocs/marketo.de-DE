@@ -3,10 +3,10 @@ description: Temp - Marketo Docs - Produktdokumentation
 title: Temp
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 12%
+source-wordcount: '523'
+ht-degree: 13%
 
 ---
 
@@ -71,14 +71,11 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-### Erlebnis der nächsten Generation {#modern-ux}
+### Titel {#title}
 
 </br>
 
-* **Aktualisierte Screens in der modernen Benutzeroberfläche**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
-
-   * Details zur Landingpage-Vorlage
-   * E-Mail-Vorlagenliste
+* **title**: description
 
 <table> 
   <tr> 
