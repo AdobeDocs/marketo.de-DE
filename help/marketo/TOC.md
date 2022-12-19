@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '8810'
+source-wordcount: '8812'
 ht-degree: 5%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 5%
             + [SEO - Verwenden des Trends-Berichts &quot;Konkurrentenk - KW&quot;](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Verwenden des Suchbegriff-Trends-Berichts](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + Administration {#administration}
-      + Einrichtung {#setup}
+      + Setup {#setup}
          + [Erfahren Sie, welche Berechtigungen Sie haben](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Mindestsystemanforderungen](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
@@ -543,7 +543,7 @@ ht-degree: 5%
          + [Lead oder Kontakt löschen](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce-Synchronisierung {#salesforce-sync}
          + [Erläuterungen zur Salesforce-Synchronisierung](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-         + Einrichtung {#setup}
+         + Setup {#setup}
             + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
                + [Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
@@ -589,7 +589,7 @@ ht-degree: 5%
          + [Verwenden von Personenkonten](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veva CRM Sync {#veeva-crm-sync}
          + [Grundlagen zur VEC CRM-Synchronisierung](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
-         + Einrichtung {#setup}
+         + Setup {#setup}
             + [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC-CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [Schritt 2 von 3: Erstellen eines eVeva CRM-Benutzers für Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [Schritt 3 von 3: Marketo Engage- und Veeva-CRM verbinden](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
@@ -1748,7 +1748,7 @@ ht-degree: 5%
                + [Verwenden von Feld-Organizern](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Zielkontoverwaltung {#target-account-management}
-      + Einrichtung {#setup}
+      + Setup {#setup}
          + [Übersicht über die Verwaltung von Target-Konten](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Erste Schritte mit TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Lizenz ausstellen](product-docs/target-account-management/setup-tam/issue-a-license.md)
@@ -1869,6 +1869,7 @@ ht-degree: 5%
 + Versionshinweise {#release-notes}
    + [Versionsplanung](release-notes/release-schedule.md)
    + [Aktuelle Version](release-notes/current.md)
+   + [Aktuelle Version](release-notes/temp.md)
    + Frühere Versionen {#previous-releases}
       + 2022 {#2022}
          + [Versionshinweise: Januar 22](release-notes/previous-releases/2022/release-notes-jan-22.md)

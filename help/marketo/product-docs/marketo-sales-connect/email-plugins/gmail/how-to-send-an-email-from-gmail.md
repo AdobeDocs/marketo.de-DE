@@ -1,17 +1,20 @@
 ---
 unique-page-id: 14352440
-description: So senden Sie eine E-Mail von Google Mail - Marketing zu Docs - Produktdokumentation
+description: Senden einer E-Mail von Gmail - Marketo Docs - Produktdokumentation
 title: So senden Sie eine E-Mail von Gmail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8a036b37-984c-4298-917e-fa680657b79f
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # So senden Sie eine E-Mail von Gmail {#how-to-send-an-email-from-gmail}
+
+>[!CAUTION]
+>
+>Die Verwendung der Funktion &quot;Rückgängig-Versand&quot;in Gmail verhindert den Versand der E-Mail bei Verwendung der Gmail-Erweiterung. Es kann jedoch dennoch eine Aktivität in der Webanwendung sowie in Salesforce angezeigt werden, wenn Sie Aktivitäten mit Salesforce protokollieren.
 
 1. Klicken Sie in Gmail auf **Erstellen**.
 
@@ -21,4 +24,4 @@ ht-degree: 0%
 
 1. Wählen Sie eine E-Mail-Vorlage aus oder schreiben Sie eine neue Nachricht.
 
-1. Wenn die E-Mail gesendet werden soll, klicken Sie auf die Schaltfläche **Senden und Verbinden**. Wenn Sie auf diese Schaltfläche statt auf die normale Senden-Schaltfläche klicken, wird sichergestellt, dass Ihre E-Mail mit angewendeter Verfolgung gesendet wird. Sales Connect verfolgt, wann Ihre E-Mail geöffnet wird und wann jemand auf Links klickt.
+1. Wenn Ihre E-Mail zum Senden bereit ist, klicken Sie auf das **Senden und Verbinden** Schaltfläche. Durch Klicken auf diese Schaltfläche anstelle der normalen Versandschaltfläche wird sichergestellt, dass Ihre E-Mail mit angewendetem Tracking gesendet wird. Sales Connect verfolgt, wann Ihre E-Mail geöffnet wird und wann jemand auf einen Link klickt.
