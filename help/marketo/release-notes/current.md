@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
+source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 10%
+source-wordcount: '667'
+ht-degree: 9%
 
 ---
 
@@ -201,3 +201,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   </tbody>
 </table>
+
+**_Webinar zur Produktversion_**
+
+Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Stellen Sie sicher, dass [registrieren](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) um am 24. Januar um 9:00 Uhr PT / 23:00 Uhr ET zu einem Live-Webinar mit unserem Produktteam zu kommen, um einen tieferen Einblick in diese Innovationen zu erhalten.
