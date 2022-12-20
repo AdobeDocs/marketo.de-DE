@@ -2,16 +2,16 @@
 description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
+source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 5%
+source-wordcount: '616'
+ht-degree: 9%
 
 ---
 
-# Versionshinweise: Oktober 2022 {#release-notes-oct-22}
+# Versionshinweise: Januar 2023 {#release-notes-jan-23}
 
-Unten finden Sie alle Funktionen der Version vom 22. Oktober. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen der Version vom 23. Januar. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -19,62 +19,30 @@ Unten finden Sie alle Funktionen der Version vom 22. Oktober. Überprüfen Sie I
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **14. Oktober 2022**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **20. Januar 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-### Marketing-Datenumgebung {#marketing-data-environment}
-
-</br>
-
-* **Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.)
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Integration von Adobe Privacy Service**: Harmonisierung mit Privacy Service zur Automatisierung der Einhaltung von Datenschutzbestimmungen für Experience Cloud-Produkte. Derzeit ist dieser Dienst nur für Marketo Engage-Kunden verfügbar, die mit dem Adobe Identity Management System integriert sind.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Erlebnis der nächsten Generation {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
+* **Aktualisierte Screens in der modernen Benutzeroberfläche**: In der modernen Benutzeroberfläche (früher bekannt als Erlebnis der nächsten Generation) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über Umschalter zugegriffen werden kann:
 
-   * Details zur Landingpage-Vorlage
-   * E-Mail-Vorlagenliste
+   * Ansicht &quot;Snippet List&quot;
+   * Liste der Landingpage-Vorlagen
 
-<table> 
+   <table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalten</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Verbesserte Verwendung nach Registerkarte in Details von E-Mail-Vorlagen**: Im neuen Erlebnis sehen Sie zusätzliche Informationen zu Assets, die die E-Mail-Vorlage verwenden, einschließlich Asset-Status, Last Modified und Last Modified By. Sie können auch die Liste der von Assets verwendeten suchen, sortieren und filtern.
+* **Verbesserte Verwendung durch die Komponente für Details von E-Mail-Vorlagen und Snippet-Details**: Die Registerkarte &quot;Neu verwendet von&quot;bietet zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurden. Mithilfe der Such-, Sortierungs- und Filterfunktionen können Sie mühelos Analysen durchführen. Diese neue UI-Komponente wird mit den Assets E-Mail-Vorlage und Snippet integriert.
 
 <table> 
   <tr> 
@@ -82,13 +50,17 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Report Asset-Filtermodelle**: Neues Design für Berichtskonfigurationsmodelle, das eine neue Asset-Struktur im Konfigurationsmenü und einen Filter für das Erstellungsdatum und das Änderungsdatum anzeigt.
+### Marketing Impact Analytics {#marketing-impact-analytics}
+
+</br>
+
+* **Neu entworfene Modelle für Report Assets**: Neues Design für Berichtskonfigurationsmodelle in der modernen UX-Benutzeroberfläche, das ein aktualisiertes Aussehen und ein verbessertes Erscheinungsbild bietet.
 
 <table> 
   <tr> 
@@ -96,8 +68,26 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Measure {#marketo-measure}
+
+</br>
+
+* **Marketo Measurement Ultimate**: Ermöglicht die vollständige B2B-Zuordnung für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für die Adobe RT-CDP über freigegebene AEP-Daten.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +96,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Massenimport von Blei: SalesPersonenverein**: Parität mit der Lead-REST-API, um Leads während des Massenimport-Prozesses mit SalesPERS zu verknüpfen, wodurch die Komplexität und die Anzahl der erforderlichen API-Aufrufe verringert werden.
+* **Verbesserte Registerkarte &quot;Webdienste&quot; durch Hinzufügen von Bulk Export API-Informationen**: Sie können jetzt die tägliche Kapazitätszuweisung für Ihre Abonnements anzeigen und die Menge der täglichen Kapazitätszuweisung anzeigen, die in den letzten sieben Tagen verwendet wurde.
 
 <table> 
   <tr> 
@@ -114,28 +104,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Import von Bulk Lead</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Sales Insight {#sales-insight}
-
-</br>
-
-![(Stern)](assets/yellow-star.png)
-
-* **Integration von Sales Insight mit Dynamic Chat**: Das Insights-Dashboard enthält jetzt Aktivitäten des dynamischen Cats im Smart-Raster sowie eine wöchentliche Zusammenfassung und Detailkarten.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat-Integration</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
@@ -144,35 +114,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-* **Dialogfeld-Streams für dynamischen Chat automatisch anordnen**: Verbessern Sie Ihre überfüllte Dialog-Arbeitsfläche, indem Sie alles auf der Arbeitsfläche in einem sauberen und leicht lesbaren Format organisieren, indem Sie die Taste drücken, indem Sie Auto Arrange auswählen.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Stream-Designer-Symbole</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Meeting-Links für dynamischen Chat**: Option zur automatischen Einbindung eines Teams- oder Meet-Links für Google und Outlook in jede Kalendereinladung, die an Besucher gesendet wird.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Unterstützung zusätzlicher Datentypen für dynamischen Chat**: Drei neue Datentypen (boolesch, Ganzzahl, Gleitkommazahl) ermöglichen es Ihnen, vorhandene Marketo Engage-Felder im dynamischen Chat für Dinge wie das Targeting auf Grundlage von Bewertungen oder die Frage, ob Besucher Ja/Nein-Fragen haben, besser zu nutzen.
+* **Picklist in Info Capture Card für dynamischen Chat definieren**: Um Datensauberkeit zu gewährleisten, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
 
 <table> 
   <tr> 
@@ -181,12 +123,12 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td><i>Demnächst verfügbar</i></td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Terminierte Meetingbenachrichtigungen für dynamischen Chat**: Vertriebsmitarbeiter erhalten automatisierte E-Mail-Benachrichtigungen zu geplanten Sitzungen sowie relevante Informationen zur Chatbot-Interaktion des Besuchers.
+* **Personalisierung bei der Konferenzbestätigung für dynamischen Chat**: Kundendienstmitarbeiter können per E-Mail Bestätigungen für die Buchung von Meetings personalisieren, indem sie Marketo Engage- und Firmenfelder verwenden, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher nach Vorname in der E-Mail zur automatischen Sitzungsbuchung begrüßen).
 
 <table> 
   <tr> 
@@ -195,14 +137,63 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td><i>Demnächst verfügbar</i></td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-## Ankündigungen {#announcements}
+* **Suchen in Stream-Designer**: Einfache Suche nach Inhalten in Stream Designer, um Inhalte auf allen Karten/Knoten in einem Stream schnell zu finden (z. B.: Suchen Sie &quot;SEO&quot;, und es werden alle Knoten markiert, die diese Zeichenfolge enthalten).
 
-* **Forms 1.0**: Die Einstellung von Forms 1.0 wird mit der Oktober-Version abgeschlossen. Forms 1.0-Assets können keine Daten mehr an Marketo Engage senden und geben bei Versuchen Fehler zurück.
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
 
-* **NoScript Forms**: Forms funktioniert nicht mehr, wenn JavaScript im Browser deaktiviert ist. Für die Übermittlung von Formularen muss JavaScript aktiviert sein.
+* **Chatbot-Datums-/Uhrzeitauswahl für dynamischen Chat**: Webbesucher können mit der Kalenderauswahl ein Datum und eine Uhrzeit auswählen, anstatt das Datum manuell einzugeben.
 
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **E-Mail-Benachrichtigungen für geplante Meetings für dynamischen Chat**: Wenn ein Meeting im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Interaktion des Besuchers mit dynamischem Chat.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dialoginteraktionsbericht für dynamischen Chat**: Bietet einen Überblick über die Interaktion des Dialogfelds im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
