@@ -1,11 +1,11 @@
 ---
-description: Aktuelle Versionshinweise - Marketo-Dokumente - Produktdokumentation
+description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 9%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 ## Agile Release-Funktionen
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+
+### Dynamischer Chat {#dynamic-chat}
+
+</br>
 
 * **Picklist in Info Capture Card für dynamischen Chat definieren**: Um Datensauberkeit zu gewährleisten, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
 
