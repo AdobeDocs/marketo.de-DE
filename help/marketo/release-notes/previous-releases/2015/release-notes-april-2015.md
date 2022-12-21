@@ -22,7 +22,7 @@ Die folgenden Funktionen sind in der Version vom April 2015 enthalten. Informati
 >
 >Diese Funktion wird am Dienstag, den 28. April veröffentlicht.
 
-Die neue [Analytics-Startseite](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht einen schnellen Zugriff für die Ausführung von Ad-hoc-Berichten über verfügbare Berichtstypen hinweg.
+Die neue [Startseite von Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht schnellen Zugriff für die Ausführung von Ad-hoc-Berichten über verfügbare Berichtstypen hinweg.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ Mit Marketo Mobile Interaktion ist es einfach, ansprechende mobile Erlebnisse be
 
 [Integration von LinkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Erweitern Sie Ihre Lead-Pflegestrategie auf bezahlte Display- und Social-Anzeigen. Die [Ad-Netzwerk-Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) mit LinkedIn Lead Accelerator ermöglicht es Ihnen, basierend auf den Mitgliedern einer beliebigen Smart- oder statischen Liste sicher ein Zielgruppensegment innerhalb von LinkedIn zu erstellen. Mitglieder in einem LinkedIn-Zielgruppensegment können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
+Erweitern Sie Ihre Lead-Pflegestrategie auf bezahlte Display- und Social-Anzeigen. Die [Anzeigennetzintegration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) Mit LinkedIn Lead Accelerator können Sie sicher ein Zielgruppensegment in LinkedIn erstellen, das auf den Mitgliedern einer beliebigen Smart- oder statischen Liste basiert. Mitglieder in einem LinkedIn-Zielgruppensegment können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

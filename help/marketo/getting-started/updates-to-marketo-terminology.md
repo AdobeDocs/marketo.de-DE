@@ -4,8 +4,8 @@ description: Aktualisierungen der Marketo-Terminologie - Marketo-Dokumente - Pro
 title: Aktualisierungen der Marketo-Terminologie
 source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '368'
+ht-degree: 1%
 
 ---
 

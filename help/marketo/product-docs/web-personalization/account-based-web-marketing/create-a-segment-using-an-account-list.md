@@ -1,46 +1,45 @@
 ---
 unique-page-id: 4720236
-description: Erstellen eines Segments mithilfe einer Kontodokumentation - Marketing Docs - Liste
-title: Erstellen eines Segments mit einer Kontoversion einer Liste
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Erstellen eines Segments mithilfe einer Kontoliste - Marketo Docs - Produktdokumentation
+title: Erstellen eines Segments mithilfe einer Kontoliste
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
+# Erstellen eines Segments mithilfe einer Kontoliste {#create-a-segment-using-an-account-list}
 
-# Erstellen eines Segments mit einer Kontoversion einer Liste {#create-a-segment-using-an-account-list}
-
-So erstellen Sie ein Segment mit einer Kontoklasse.
+So erstellen Sie ein Segment mithilfe einer Kontoliste.
 
 >[!PREREQUISITES]
 >
->[Eine Liste für ein neues Konto erstellen](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[Neue Kontoliste erstellen](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Gehen Sie zu **Segmente**.
+1. Navigieren Sie zu **Segmente**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klicken Sie auf **Neu erstellen**.
+1. Klicken **Neu erstellen**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Geben Sie einen Namen für das Segment ein. Ziehen Sie **Kontoeinstellungen** aus dem Bereich **Listen**.
+1. Geben Sie einen Namen für das Segment ein. Drag &amp; Drop **Kontolisten** von **Firmographie** Abschnitt.
 
    ![](assets/set-segment-hands.jpg)
 
-1. Wählen Sie eine Konto-Liste aus der Liste der benannten Konten, die Sie hochgeladen haben. Die Anzahl in Klammern neben dem Namen der Kontonummer ist die ID der Liste für API-Liste.
+1. Wählen Sie eine Kontoliste aus der Liste der benannten Konten aus, die Sie hochgeladen haben. Die Zahl in eckigen Klammern neben dem Namen der Kontoliste ist die ID der Liste für API-Referenz.
 
    ![](assets/select-list-for-segment-hands.jpg)
 
    >[!NOTE]
    >
-   >Listen von Konten werden von ABM mit Web-Personalisierung synchronisiert, um sie in der Segmentierung zu verwenden. Wählen Sie sie aus der Dropdownliste aus. Die Synchronisierung kann bis zu fünf Minuten dauern. Die Synchronisierung erfolgt nur, wenn sich in der Liste &quot;Konto&quot;ein oder mehrere benannte Konten befinden.
+   >Kontolisten werden von ABM mit Web-Personalisierung synchronisiert, um sie in der Segmentierung zu verwenden. Wählen Sie sie aus der Dropdown-Liste aus. Die Synchronisation kann bis zu fünf Minuten dauern. Die Synchronisierung erfolgt nur, wenn in der Kontoliste mindestens ein benanntes Konto enthalten ist.
 
-1. Klicken Sie auf **Speichern** oder klicken Sie auf **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.
+1. Klicken **Speichern** oder klicken Sie auf **Kampagne speichern und definieren** , um zur Seite Kampagnen zu gelangen.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Herzlichen Glückwunsch! Sie haben jetzt ein Segment für eine Liste eingerichtet.
+Herzlichen Glückwunsch!  Sie haben jetzt ein Segment eingerichtet, das auf eine Kontoliste ausgerichtet ist.

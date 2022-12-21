@@ -1,37 +1,38 @@
 ---
-description: Benutzerzugriff gewähren - Marketo Docs - Produktdokumentation
-title: Gewähren des Zugriffs für Benutzer
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+description: Gewähren des Zugriffs für Benutzer - Marketo-Dokumente - Produktdokumentation
+title: Gewähren von Zugriff für Benutzer
+exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Gewähren des Zugriffs für Benutzer {#granting-access-to-users}
+# Gewähren von Zugriff für Benutzer {#granting-access-to-users}
 
-Führen Sie die Schritte in diesem Artikel aus, um Ihren Sales Connect-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie &quot;Interessante Momente&quot;im Live Feed und der Zugriff auf Marketing-Kampagnen entsperrt.
+Führen Sie die Schritte in diesem Artikel aus, um Ihren Sales Connect-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie interessante Momente im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen Benutzer zu Sales Connect [hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) einladen, bevor sie auf der Seite &quot;Marketo > Team Access&quot;(in Sales Connect) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu Sales Connect einladen. [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), bevor sie auf der Seite Marketo > Team Access (in Sales Connect) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >
->Bitte warten Sie zehn Minuten nach der Verbindung von Sales Connect mit Marketo, bevor Sie diese Schritte durchführen.
+>Warten Sie zehn Minuten, nachdem Sie die Verbindung von Sales Connect mit Marketo hergestellt haben, bevor Sie diese Schritte ausführen.
 
-1. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie dann auf **Verbinden**.
+1. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie auf **Verbinden**.
 
    >[!NOTE]
    >
-   >Sie können die Workspace-Zuweisung nur einmal ausführen, wenn Sie Benutzern Zugriff gewähren. Nach der Einstellung müssen Sie die Verbindung zum Benutzer trennen, um sie zu ändern.
+   >Sie können die Arbeitsbereichszuweisung nur einmal ausführen, wenn Sie Benutzern Zugriff gewähren. Nach der Einstellung müssen Sie den Benutzer trennen, um ihn zu ändern.
 
    ![](assets/granting-access-to-users-1.png)
 
-1. Wenn Ihr Marketo-Abonnement Arbeitsbereiche aktiviert hat, können Sie jedem Benutzer oder Benutzergruppen Arbeitsflächen zuweisen. Wenn keine Arbeitsbereiche ausgewählt sind, weisen wir sie dem Standard-Arbeitsbereich von Marketo zu.
+1. Wenn für Ihr Marketo-Abonnement Arbeitsbereiche aktiviert sind, können Sie jedem Benutzer oder Benutzergruppen Arbeitsbereiche zuweisen. Wenn keine Arbeitsbereiche ausgewählt sind, werden sie dem standardmäßigen Marketo-Arbeitsbereich zugewiesen.
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Klicken Sie auf die Dropdownliste Arbeitsbereich, wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
+1. Klicken Sie auf die Dropdown-Liste Arbeitsbereich , wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
 
    ![](assets/granting-access-to-users-3.png)
 
-Sie können weitere Benutzer über die Seite &quot;Teamverwaltung&quot;aufrufen und die oben beschriebenen Schritte ausführen, um eine Verbindung herzustellen.
+Sie können weitere Benutzer über die Seite &quot;Team Management&quot;hinzufügen und die oben beschriebenen Schritte ausführen, um eine Verbindung herzustellen.

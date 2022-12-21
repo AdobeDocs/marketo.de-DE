@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147318
-description: Glossar "Tastaturbefehle"- Marketo Dokumente - Produktdokumentation
-title: Glossar "Tastaturbefehle"
+description: Glossar zu Tastaturbefehlen - Marketo-Dokumente - Produktdokumentation
+title: Glossar zu Tastaturbefehlen
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
@@ -11,36 +10,36 @@ ht-degree: 13%
 
 ---
 
-# Glossar {#keyboard-shortcuts-glossary} für Tastaturbefehle
+# Glossar zu Tastaturbefehlen {#keyboard-shortcuts-glossary}
 
-Sind Sie ein Tastenkürzel? Wir haben dich abgedeckt!
+Sind Sie ein Tastaturkürzel? Wir haben dich verdeckt!
 
 ## Bereichsnavigation: {#area-navigation}
 
-| Tastaturkürzel | Bereich |
+| Tastaturbefehl | Bereich |
 |---|---|
-| Alt/Opt + A | Analytik |
-| Alt/Opt + C | Kalender |
-| Alt/Opt + D | Design-Studio |
+| Alt/Wahl + A | Analytics |
+| Alt/Wahltaste + C | Kalender |
+| Alt/Wahl + D | Design-Studio |
 | Alt/Wahl + F | Globale Suche |
-| Alt/Opt + L | Datenbank |
-| Alt/Opt + M | Marketingaktivitäten |
-| Opt + N | Administrator |
-| Wahl + O | Mein Marketo |
-| Alt/Opt + S | Dropdown-Menü &quot;Superball&quot; |
+| Alt/Wahl + L | Datenbank |
+| Alt/Wahl + M | Marketingaktivitäten |
+| Opt-in + N | Administrator |
+| Opt-in + O | Mein Marketo |
+| Alt/Wahl + S | Dropdown-Menü &quot;Superball&quot; |
 
-## Kalendernavigation/Ansicht planen:  {#calendar-schedule-view-navigation}
+## Kalenderansicht/Planungsansicht:  {#calendar-schedule-view-navigation}
 
-| Tastaturkürzel | Aktion |
+| Tastaturbefehl | Aktion |
 |---|---|
-| Alt/Wahl + Aufwärtspfeil | Zurück zur Zeit |
-| Alt/Wahl + Abwärtspfeil | Vorwärts |
-| Alt/Opt + T | Gehe zu &#39;Heute&#39; |
+| Alt-/Wahltaste + Aufwärtspfeil | Zurück zur Zeit |
+| Alt-/Wahltaste + Abwärtspfeil | Zeitnah weitermachen |
+| Alt/Wahltaste + T | Zu &quot;Heute&quot; |
 
 ## Verschiedenes: {#miscellaneous}
 
-| Tastaturkürzel | Aktion |
+| Tastaturbefehl | Aktion |
 |---|---|
 | ESC | Popup schließen |
-| Zurück/Eingabetaste | Popup &quot;Senden&quot; |
-| Strg + Alt/Opt + H | Ausblenden/Ausblenden eines Felds im Formulareditor |
+| Eingabe/Eingabe | Popup &quot;Senden&quot; |
+| Strg + Alt/Wahltaste + H | Ein Feld im Formulareditor ausblenden/ausblenden |

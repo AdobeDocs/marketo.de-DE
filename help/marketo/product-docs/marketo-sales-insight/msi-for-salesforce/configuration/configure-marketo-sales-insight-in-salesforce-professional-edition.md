@@ -236,7 +236,7 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
    <th colspan="1" rowspan="1">Salesforce Contact Custom Field</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Interaktion</p></td> 
+   <td colspan="1" rowspan="1"><p>Engagement</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
   </tr> 
   <tr> 

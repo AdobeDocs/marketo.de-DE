@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352536
-description: Funktionsweise der Ansicht-Tracking - Marketing Docs - Produktdokumentation
-title: Funktionsweise der Ansicht-Verfolgung
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: So funktioniert das Tracking - Marketo-Dokumente - Produktdokumentation
+title: Funktionsweise des Tracking-Anzeigentracks
+exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
+# Funktionsweise des Tracking-Anzeigentracks {#how-view-tracking-works}
 
-# Funktionsweise der Ansicht-Verfolgung {#how-view-tracking-works}
+Wir verfolgen E-Mail-Öffnungen, indem wir in den gesendeten E-Mails ein unsichtbares Bild einfügen.
 
-Wir verfolgen E-Mails, die geöffnet werden, indem wir ein unsichtbares Bild in den E-Mails platzieren, die Sie senden.
+Wenn eine Person auf Ihre E-Mail antwortet, aber Sales Connect darauf hinweist, dass sie nicht angezeigt wurde, besteht die Gefahr, dass der Empfänger keine Bilder in seinem E-Mail-Client aktiviert hat (d. h., er klickt in der E-Mail auf die Nachricht &quot;Hier klicken, um Bilder herunterzuladen&quot;).
 
-Wenn jemand auf Ihre E-Mail antwortet, aber Sales Connect sagt, dass sie nicht angezeigt wurde, besteht die Wahrscheinlichkeit, dass der Empfänger keine Bilder in seinem E-Mail-Client aktiviert hat (d. h., klicken Sie in der E-Mail auf die Nachricht &quot;Hier klicken, um Bilder herunterzuladen&quot;).
+Tipps für bessere Trackingstatistiken in E-Mails:
 
-Einige Tipps, wie Sie bessere Rückverfolgungsstatistiken in Ihren E-Mails erhalten:
-
-* Fügen Sie ein Bild in Ihre E-Mails (wie ein Logo) ein, damit der Empfänger Ihre Nachricht sehen kann.
+* Fügen Sie ein Bild (wie ein Logo) in Ihre E-Mails ein, damit der Empfänger die Bilder zum Anzeigen Ihrer Nachricht aktivieren kann.
 
 * Fügen Sie einen Link als Aktionsaufruf in die E-Mail ein.

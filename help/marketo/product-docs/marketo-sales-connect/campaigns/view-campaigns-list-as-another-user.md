@@ -1,29 +1,28 @@
 ---
 unique-page-id: 18317367
-description: Ansicht Kampagnen Liste als anderer Benutzer - Marketing Docs - Produktdokumentation
-title: Ansicht Kampagnen Liste als anderer Benutzer
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Anzeigen der Kampagnenliste als anderer Benutzer - Marketo-Dokumente - Produktdokumentation
+title: Anzeigen der Kampagnenliste als anderer Benutzer
+exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
+# Anzeigen der Kampagnenliste als anderer Benutzer {#view-campaigns-list-as-another-user}
 
-# Ansicht Kampagnen Liste als anderer Benutzer {#view-campaigns-list-as-another-user}
-
-Als Administrator können Sie Kampagnen als beliebige Ansichten verwenden.
+Als Administrator können Sie Kampagnen wie beliebige Benutzer anzeigen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 1. Klicken Sie in der Webanwendung auf **Kampagnen**.
 
    ![](assets/one-5.png)
 
-1. Klicken Sie auf die Dropdownliste **Ansicht als** und wählen Sie den gewünschten Benutzer aus.
+1. Klicken Sie auf **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
 
    ![](assets/two-4.png)
 
@@ -33,4 +32,4 @@ Als Administrator können Sie Kampagnen als beliebige Ansichten verwenden.
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit der Ansicht Wie Ansicht, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit View As verwenden, um anzuzeigen, was für Sie am relevantesten ist.

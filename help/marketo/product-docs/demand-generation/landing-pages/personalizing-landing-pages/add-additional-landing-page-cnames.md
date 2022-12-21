@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359798
-description: hinzufügen CNAMEs zusätzlicher Landingpages - Marketing Docs - Produktdokumentation
-title: hinzufügen CNAMEs zusätzlicher Landingpages
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Zusätzliche CNAMEs der Einstiegsseite hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: Zusätzliche CNAMEs der Einstiegsseite hinzufügen
+exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
+# Zusätzliche CNAMEs der Einstiegsseite hinzufügen {#add-additional-landing-page-cnames}
 
-# hinzufügen zusätzliche Landingpage CNAMEs {#add-additional-landing-page-cnames}
-
-Möglicherweise möchten Sie CNAMEs der Landingpage hinzufügen, damit verschiedene URLs auf Ihre Marketo-Landingpages verweisen können. Gehen Sie wie folgt vor, um mehrere Domänen zu verwalten.
+Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedliche URLs auf Ihre Marketo-Landingpages verweisen können. Die folgenden Schritte helfen Ihnen bei der Verwaltung mehrerer Domänen.
 
 >[!CAUTION]
 >
@@ -21,43 +20,43 @@ Möglicherweise möchten Sie CNAMEs der Landingpage hinzufügen, damit verschied
 
 >[!TIP]
 >
->**Gleiche Domäne auf oberster Ebene - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com >  **info**.mycompany.com
+>**Dieselbe Top-Level-Domain - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com > **Info**.mycompany.com
 >
->**Verschiedene Top Level Domains - Schlecht! Cookies sind _nicht_ freigegeben**.<br/> gehen.**mycompany**.com > go.**mynewcompany**.com
+>**Verschiedene Top-Level-Domains - Schlecht! Cookies sind _not_ shared**.<br/> gehen.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-## Suchen Sie Ihre Kontozeichenfolge {#find-your-account-string}
+## Konto-Zeichenfolge suchen {#find-your-account-string}
 
-1. Wechseln Sie zum Bereich **Admin** und klicken Sie auf **Landingpages**.
+1. Navigieren Sie zu **Admin** Bereich und Klicken **Landing Pages**.
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Kopieren Sie die **Kontozeichenfolge** aus dem Abschnitt **Einstellungen**.
+1. Kopieren Sie die **Kontozeichenfolge** von **Einstellungen** Abschnitt.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
-1. Notieren Sie sich dies für den nächsten Schritt.
+1. Notieren Sie sich das für den nächsten Schritt.
 
-## Anforderung an IT senden {#send-request-to-it}
+## Anfrage an IT senden {#send-request-to-it}
 
-1. Bitten Sie Ihre IT-Abteilung, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] durch den CNAME Ihrer Wahl und [ACCOUNT STRING] durch den Text aus dem vorherigen Schritt).
+1. Bitten Sie Ihre IT-Abteilung, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] mit dem CNAME Ihrer Wahl und [KONTOZEICHENFOLGE] mit dem Text aus dem vorherigen Schritt).
 
-   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com > [KONTOZEICHENFOLGE].mktoweb.com
 
-## hinzufügen eines neuen CNAME {#add-a-new-cname}
+## Neuen CNAME hinzufügen {#add-a-new-cname}
 
-1. Nachdem die IT-Abteilung den CNAME erstellt hat, gehen Sie zu **Admin** und klicken Sie dann auf **Landingpages**.
+1. Sobald Ihre IT-Abteilung den CNAME erstellt hat, gehen Sie zu **Admin** Klicken Sie dann auf **Landing Pages**.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neue Domänenalias**.
+1. Klicken **Neu** und wählen Sie **Neuer Domänenname**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Geben Sie Ihren **Domänenalias ein.** Die  **Standardseite** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin sie in diesem Fall gehen sollten.
+1. Geben Sie Ihre **Domänen-Alias.** Die **Standardseite** angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin der Benutzer in diesem Fall wechseln sollte.
 
    >[!NOTE]
    >
@@ -65,8 +64,8 @@ Möglicherweise möchten Sie CNAMEs der Landingpage hinzufügen, damit verschied
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Geben Sie Ihre **Standardseite** ein und klicken Sie auf **Erstellen**.
+1. Geben Sie Ihre **Standardseite** und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
-Schön! Jetzt wissen Sie, was zu tun ist, wenn Sie jemals einen CNAME hinzufügen möchten.
+Gut! Jetzt wissen Sie, was zu tun ist, wenn Sie jemals einen CNAME hinzufügen möchten.

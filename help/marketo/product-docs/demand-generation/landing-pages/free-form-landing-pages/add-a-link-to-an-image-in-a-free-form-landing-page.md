@@ -1,37 +1,36 @@
 ---
 unique-page-id: 5472314
-description: hinzufügen eines Links zu einem Bild in einer Freiformdatei-Landingpage - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hinzufügen eines Links zu einem Bild auf einer Freiform-Landingpage - Marketo Docs - Produktdokumentation
+title: Hinzufügen eines Links zu einem Bild auf einer Freiform-Landingpage
+exl-id: ad845417-2414-407f-998b-eeebe38f328f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
+# Hinzufügen eines Links zu einem Bild auf einer Freiform-Landingpage {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-# hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage {#add-a-link-to-an-image-in-a-free-form-landing-page}
-
-Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site einrichten? So geht es.
+Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site machen? So geht es.
 
 >[!PREREQUISITES]
 >
->[hinzufügen eines Bildes in eine Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Hinzufügen eines Bildes zu einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
-1. Klicken Sie auf das Bild, dem Sie einen Link hinzufügen möchten.
+1. Klicken Sie auf das Bild, zu dem Sie einen Link hinzufügen möchten.
 
    ![](assets/click-on-image.png)
 
-1. Erweitern Sie das **Eigenschaftenblatt**.
+1. Erweitern Sie die **Eigenschaftenblatt**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Kopieren Sie den Link oder geben Sie ihn in das Feld **linkUrl** ein.
+1. Kopieren oder geben Sie den Link in die **linkUrl** ankreuzen.
 
    ![](assets/add-link.png)
 
-   Herzlichen Glückwunsch! Sie haben nun erfolgreich eine Verknüpfung zu einem Bild auf Ihrer Landingpage hinzugefügt. Jetzt können Sie [die Vorschau der Seite](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) ausführen, um sie in Aktion zu sehen.
+   Herzlichen Glückwunsch!  Sie haben nun erfolgreich einen Link zu einem Bild auf Ihrer Landingpage hinzugefügt. Sie können jetzt [Seitenvorschau](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) um es in Aktion zu sehen.
 
 >[!TIP]
 >

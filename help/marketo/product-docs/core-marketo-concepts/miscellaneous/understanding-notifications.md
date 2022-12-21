@@ -32,16 +32,16 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Wählen Sie den Benachrichtigungstyp aus und geben Sie die E-Mail-Adresse(n) ein, an die Benachrichtigungen gesendet werden sollen (durch Kommas getrennt). Klicken Sie abschließend auf **Abonnieren** .
+1. Wählen Sie den Benachrichtigungstyp aus und geben Sie die E-Mail-Adresse(n) ein, an die Benachrichtigungen gesendet werden sollen (durch Kommas getrennt). Klicken **Abonnieren** wann geschehen.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->Im Bereich **Senden an** können Sie nur Ihre E-Mail-Adresse eingeben. Es wird keine Liste der vorhandenen Abonnenten angezeigt.
+>Die **senden an** -Bereich ist nur für Sie zur Eingabe Ihrer E-Mail, es wird keine Liste der bestehenden Abonnenten angezeigt.
 
 In einigen Fällen bietet eine Benachrichtigung den Link &quot;Vollständige Liste anzeigen&quot;, um eine CSV-Datei (mit kommagetrennten Werten) herunterzuladen, z. B. die Microsoft Dynamics Sync Errors-Datei. Marketo bewahrt diese CSV-Dateien 30 Tage lang auf. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, erhalten Sie einen 404-Fehler.
 
 >[!TIP]
 >
->Möchten Sie sich von Benachrichtigungs-E-Mails abmelden? Kein Problem. Klicken Sie einfach unten in der E-Mail auf den Link **Abmeldung von Benachrichtigungen** .
+>Möchten Sie sich von Benachrichtigungs-E-Mails abmelden? Kein Problem. Klicken Sie einfach auf die **Abmelden von Benachrichtigungen** unten in der E-Mail.

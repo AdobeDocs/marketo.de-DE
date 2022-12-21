@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2952402
-description: Filtern von Aktivitäten im Aktivitäten-Protokoll einer Person - Marketo Docs - Produktdokumentation
-title: Filtern von Aktivitäten im Benutzerprotokoll einer Aktivität
+description: Filtern von Aktivitätstypen im Aktivitätsprotokoll einer Person - Marketo Docs - Produktdokumentation
+title: Filtern von Aktivitätstypen im Aktivitätsprotokoll einer Person
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
@@ -11,48 +10,48 @@ ht-degree: 0%
 
 ---
 
-# Filtern von Aktivitäten im Aktivitäten-Protokoll einer Person {#filter-activity-types-in-the-activity-log-of-a-person}
+# Filtern von Aktivitätstypen im Aktivitätsprotokoll einer Person {#filter-activity-types-in-the-activity-log-of-a-person}
 
-Suchen Sie im Aktivitäten-Protokoll nach Aktivitäten, die für Sie am wichtigsten sind.
+Suchen Sie im Aktivitätsprotokoll nach Aktivitäten, die für Sie am wichtigsten sind.
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [das Aktivitäten-Protokoll](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
+>Weitere Informationen [das Aktivitätsprotokoll](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
-1. Gehen Sie zur Seite **Personendetails**. Klicken Sie auf die Registerkarte **Aktivität Log**.
+1. Navigieren Sie zu **Personendetails** Seite. Klicken Sie auf **Aktivitätsprotokoll** Registerkarte.
 
    ![](assets/one.png)
 
-1. Wählen Sie die Dropdownliste **Filter** aus.
+1. Wählen Sie die **Filter** Dropdown-Liste.
 
    ![](assets/two-3.png)
 
 ## Erstellen benutzerdefinierter Filter {#creating-custom-filters}
 
-1. Klicken Sie auf die Dropdownliste **Filter**. Wählen Sie **Benutzerdefiniert**.
+1. Klicken Sie auf **Filter** Dropdown-Liste. Auswählen **Benutzerdefiniert**.
 
    ![](assets/three-3.png)
 
-1. Wählen Sie Aktivitäten aus, nach denen gefiltert werden soll. Klicken Sie auf **Speichern unter**.
+1. Wählen Sie Aktivitäten aus, nach denen gefiltert werden soll. Klicken **Speichern unter**.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Geben Sie einen **benutzerdefinierten Filternamen** ein. Klicken Sie auf **Speichern**.
+1. Geben Sie einen **benutzerspezifischer Filtername**. Klicken **Speichern**.
 
    ![](assets/five-1.png)
 
-   Jetzt werden nur Aktivitäten angezeigt, die die Filterkriterien erfüllen.
+   Jetzt werden nur Personenaktivitäten angezeigt, die den Kriterien des Filters entsprechen.
 
    ![](assets/six-1.png)
 
 ## Referenz Gespeicherte Filter {#reference-saved-filters}
 
-Gespeicherte Filter können über die Dropdownliste **Filter** aufgerufen werden.
+Gespeicherte Filter können über die **Filter** Dropdown-Liste.
 
-1. Klicken Sie auf die Dropdownliste **Filter**. Wählen Sie **Benutzerdefiniert**.
+1. Klicken Sie auf **Filter** Dropdown-Liste. Auswählen **Benutzerdefiniert**.
 
    ![](assets/seven-1.png)
 
-1. Klicken Sie auf **Gespeicherte Filter**. Gespeicherte Filter werden unten aufgeführt.
+1. Klicken **Gespeicherte Filter**. Gespeicherte Filter sind unten aufgeführt.
 
    ![](assets/eight.png)

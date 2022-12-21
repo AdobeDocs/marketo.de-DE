@@ -1,44 +1,43 @@
 ---
 unique-page-id: 12979223
-description: Einrichten von Account Insight - Marketing Docs - Produktdokumentation
-title: Kontoinsight einrichten
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Kontoeinblick einrichten - Marketo-Dokumente - Produktdokumentation
+title: Kontoeinblick einrichten
+exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Einrichten von Account Insight {#set-up-account-insight}
+# Kontoeinblick einrichten {#set-up-account-insight}
 
 So richten Sie Account Insight ein.
 
 >[!PREREQUISITES]
 >
->Das TAM-Kontoergebnis [muss zuerst konfiguriert werden.](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)
+>TAM-Kontowert [muss konfiguriert werden](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) zuerst.
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klicken Sie in der Struktur auf **Zielgruppe Kontoverwaltung** und dann auf die Registerkarte **Vertrieb**.
+1. Klicken **Verwaltung von Target-Konten** im Baum, dann die **Vertrieb** Registerkarte.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Klicken Sie auf **Bearbeiten**.
+1. Klicken **Bearbeiten**.
 
    ![](assets/set-up-account-insight-3.png)
 
-1. Klicken Sie auf die Dropdownliste, um festzulegen, wie Account Insight benannte Konten und engagierte Personen priorisiert.
+1. Klicken Sie auf die Dropdown-Liste, um festzulegen, wie Account Insight benannte Konten und engagierte Personen priorisiert.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Wenn die [Kontobewertungseinstellungen](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) zu einem beliebigen Zeitpunkt aktualisiert werden, muss die Konfiguration unter &quot;Umsatz&quot;von einem Administrator aktualisiert werden, um sicherzustellen, dass die Ergebnisse die Benutzereinstellungen korrekt widerspiegeln. Der Benutzer muss sich abmelden und sich wieder anmelden, um die Änderungen zu sehen.
+   >Wenn die Variable [Kontobewertungseinstellungen](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) jederzeit aktualisiert werden, muss die Konfiguration unter Verkauf von einem Administrator aktualisiert werden, um sicherzustellen, dass die Bewertungen die Voreinstellungen des Benutzers korrekt widerspiegeln. Der Benutzer muss sich ab- und wieder anmelden, um die Änderungen zu sehen.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/five-4.png)

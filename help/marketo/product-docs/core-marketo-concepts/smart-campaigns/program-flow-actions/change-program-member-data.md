@@ -1,8 +1,7 @@
 ---
-description: Ändern der Mitgliederdaten des Programms - Marketo Docs - Produktdokumentation
+description: Ändern der Daten der Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
 title: Programmmitgliedsdaten ändern
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
@@ -12,13 +11,13 @@ ht-degree: 5%
 
 # Programmmitgliedsdaten ändern {#change-program-member-data}
 
-Sie können Marketo verwenden, um den Feldwert zu aktualisieren, indem Sie die Flussaktion &quot;Datenwert ändern&quot;verwenden.
+Sie können Marketo verwenden, um den Feldwert zu aktualisieren, indem Sie die Workflow-Aktion &quot;Datenwert ändern&quot;verwenden.
 
 >[!NOTE]
 >
->Sie können auch verhindern, dass ein Feld aktualisiert wird. Weitere Informationen finden Sie unter Blockaktualisierungen für ein Feld sperren.
+>Sie können die Aktualisierung eines Felds auch verhindern. Weitere Informationen finden Sie unter Blockaktualisierungen für ein Feld .
 
-1. Übernehmen Sie auf der Registerkarte &quot;Fluss der intelligenten Kampagne&quot;den Textfluss **Change Programm Member Data** und wählen Sie das gewünschte Programm.
+1. Übernehmen Sie im Tab Fluss Ihrer Smart-Kampagne die Variable **Ändern von Programmteilnehmerdaten** und wählen Sie das gewünschte Programm aus.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,16 +31,16 @@ Sie können Marketo verwenden, um den Feldwert zu aktualisieren, indem Sie die F
 
 >[!NOTE]
 >
->Sie können Token auch in &quot;Neuer Wert&quot;verwenden.
+>Sie können auch Token in &quot;Neuer Wert&quot;verwenden.
 
-Nun führen Sie einfach die Smart Kampagne aus und Sie sind fertig!
+Führen Sie einfach die Smart-Kampagne aus und Sie sind fertig!
 
 >[!TIP]
 >
->Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie &quot;NULL&quot;(keine Anführungszeichen, Großbuchstaben) als neuen Wert eingeben.
+>Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie &quot;NULL&quot; (keine Anführungszeichen, alle Großbuchstaben) als neuen Wert eingeben.
 
 >[!MORELIKETHIS]
 >
->* [Tokens in Flussschritten verwenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
+>* [Verwenden von Token in Flussschritten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
 >* [Daten an ein Feld anhängen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
 

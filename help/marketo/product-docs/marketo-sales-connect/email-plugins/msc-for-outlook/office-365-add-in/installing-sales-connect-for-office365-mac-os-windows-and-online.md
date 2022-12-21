@@ -1,34 +1,33 @@
 ---
 unique-page-id: 14352455
-description: Installieren von Sales Connect für Office 365 Mac OS, Windows und Online - Marketing Docs - Produktdokumentation
-title: Installieren von Sales Connect für Office 365 Mac OS, Windows und Online
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Installieren von Sales Connect für Office365 Mac OS, Windows und Online - Marketo Docs - Produktdokumentation
+title: Installieren von Sales Connect für Office365 Mac OS, Windows und Online
+exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Installieren von Sales Connect für Office365 Mac OS, Windows und Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 
-# Installieren von Sales Connect für Office 365 Mac OS, Windows und Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
+Wir haben eine Integration mit Outlook Web Apps erstellt. Outlook Web Apps ist eine Version von Outlook, die mit dem Office 365-Abonnement bereitgestellt wird. Da es browserbasiert ist, funktioniert die Integration sowohl unter Mac als auch unter Windows. [Klicken Sie hier für das vollständige Installationshandbuch](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Wir haben eine Integration mit Outlook Web Apps erstellt. Outlook Web Apps ist eine Outlook-Version, die im Abonnement Office 365 enthalten ist. Da die Integration browserbasiert ist, funktioniert sie sowohl unter Mac als auch unter Windows. [Klicken Sie hier für das vollständige Installationshandbuch](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
-
-Als Administrator können Sie [dies für Ihr gesamtes Team ](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) installieren.
+Als Administrator können Sie [installieren Sie dies im Namen Ihres gesamten Teams](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
 
 >[!NOTE]
 >
->Wenn Sie keine Store-Schaltfläche haben, sind Sie nicht auf der neuesten Version von Outlook für Mac. Führen Sie die folgenden Schritte aus, um aktualisiert zu werden:
+>Wenn Sie keine Store-Schaltfläche haben, ist nicht die neueste Version von Outlook for Mac verfügbar. Führen Sie die folgenden Schritte aus, um aktualisiert zu werden:
 >
->i. Navigieren Sie zur Schaltfläche &quot;Hilfe&quot;(ganz oben in der Navigation, rechts neben &quot;Outlook&quot;)
+>i. Navigieren Sie zur Schaltfläche Hilfe (in der oberen Navigation rechts neben &quot;Outlook&quot;).
 >
->ii. Wählen Sie **Nach Updates suchen** im Dropdown-Menü
+>ii. Auswählen **Nach Updates suchen** im Dropdown-Menü
 >
->iii. Aktualisieren Sie auf die neueste Version von Outlook und gehen Sie nach Abschluss der Schritte zurück zu diesen Schritten
+>iii. Aktualisieren Sie auf die neueste Version von Outlook und kehren Sie nach Abschluss der Schritte zu diesen Schritten zurück.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Das .Net-Add-in unterstützt nicht mehr das Planen von E-Mails aus Outlook. Sie müssen das Office365-Add-In aktualisieren, um E-Mails zu planen.
+>Das .Net-Add-in unterstützt nicht mehr die Planung von E-Mails von Outlook. Sie müssen das Office365-Add-In aktualisieren, um E-Mails planen zu können.

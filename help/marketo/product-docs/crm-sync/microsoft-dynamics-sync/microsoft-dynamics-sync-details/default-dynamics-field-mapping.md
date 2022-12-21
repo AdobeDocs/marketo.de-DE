@@ -88,7 +88,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Microsoft synchronisieren, führt 
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Bundesland</td>
+      <td>Zustand</td>
       <td>Bundesland/Kanton</td>
       <td>address1_stateorprovinz</td>
     </tr>
@@ -199,7 +199,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Microsoft synchronisieren, führt 
     </tr>
     <tr>
       <td>Unternehmen</td>
-      <td>Untern.-name</td>
+      <td>Firmenname</td>
       <td>companyname</td>
     </tr>
     <tr>
@@ -323,7 +323,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Bundesland</td>
+      <td>Zustand</td>
       <td>Adresse 1: Bundesland/Kanton</td>
       <td>address1_stateorprovinz</td>
     </tr>
@@ -467,7 +467,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>parentcustomerid</td>
-      <td>Untern.-name</td>
+      <td>Firmenname</td>
     </tr>
   </tbody>
 </table>
@@ -563,7 +563,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Website</td>
-      <td>Webseite</td>
+      <td>Website</td>
       <td>website</td>
     </tr>
     <tr>
@@ -578,7 +578,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Unternehmen</td>
-      <td>Name</td>
+      <td>name</td>
       <td>Kontoname</td>
     </tr>
     <tr>
@@ -644,7 +644,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Name</td>
       <td>Thema</td>
-      <td>Name</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Geschätzter Wert</td>

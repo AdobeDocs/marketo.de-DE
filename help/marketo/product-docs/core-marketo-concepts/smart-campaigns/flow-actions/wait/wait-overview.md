@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146950
-description: Wait - Marketo Docs - Produktdokumentation
+description: Warten - Marketo-Dokumente - Produktdokumentation
 title: Warten
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
@@ -11,28 +10,28 @@ ht-degree: 2%
 
 ---
 
-# Einen Augenblick {#wait}
+# Warten {#wait}
 
-## Übersicht {#overview}
+## Überblick {#overview}
 
-Halten Sie eine Kampagne in einem intelligenten Textfluss mit dem praktischen **wait-Schritt** an.
+Halten Sie eine Person in einem intelligenten Kampagnenfluss mit dem Handlichen an **Warteschritt**.
 
 ![](assets/wait-overview.png)
 
-Beachten Sie, wie Sie eine natürliche Sprache wie &quot;4 Stunden&quot;eingeben können. Abkürzung der Wörter (d.h. 4 Std.): **** Die intelligente Kampagne würde weiterhin ausgeführt, aber der Warteschritt würde ignoriert.
+Beachten Sie, wie Sie in natürliche Sprache wie &quot;4 Stunden&quot;eingeben können. Do **not** Abkürzung: 4 Stunden. Die intelligente Kampagne würde weiterhin laufen, aber der Warteschritt würde ignoriert.
 
 >[!CAUTION]
 >
->Eine Änderung der Dauer eines Warteschritts hat keine Auswirkungen auf Personen, die diesen Schritt bereits eingegeben haben. Beispiel: Wenn Sie einen Warteschritt für 5 Tage haben, gibt eine Person ihn ein, dann ändern Sie den Warteschritt auf 7 Tage - diese Person wartet immer noch die ursprünglichen 5 Tage, bevor sie zum nächsten Flussschritt vorgeht.
+>Eine Änderung der Dauer eines Warteschritts wirkt sich nicht auf Personen aus, die bereits in diesen Schritt eingetreten sind. Beispiel: Wenn Sie einen Warteschritt für 5 Tage haben, tritt eine Person ein, dann ändern Sie den Warteschritt in 7 Tage - diese Person wird immer noch nur die ursprünglichen 5 Tage warten, bevor sie zum nächsten Flussschritt übergeht.
 
 >[!TIP]
 >
->Wenn sich jemand bereits in einem Warteschritt befindet und Sie nicht möchten, dass er nach Ende der Wartezeit fortfährt, fügen Sie [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt nach dem Warteschritt ein. Geben Sie an, wer entfernt werden soll, indem Sie die Option [Wahl hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) verwenden.
+>Wenn Sie bereits in einem Warteschritt sind und nicht möchten, dass sie nach Ablauf der Wartezeit weitergehen, fügen Sie [Aus Fluss entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt nach dem Warteschritt. Geben Sie mithilfe der [Auswahl hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) -Option.
 
 ## Nutzung {#usage}
 
-Es gibt drei Hauptmethoden, um einen Warteflussschritt zu verwenden:
+Es gibt drei Möglichkeiten, einen Schritt zum Warten zu verwenden:
 
-1. [Verwenden einer Dauer in einem Wartezeitschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-1. [Verwenden eines bestimmten Datums in einem Schritt mit einem Wartefluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-1. [Verwenden eines Datums-Tokens in einem Wartezeitschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+1. [Verwenden einer Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+1. [Verwenden eines bestimmten Datums in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+1. [Verwenden eines Datums-Tokens in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)

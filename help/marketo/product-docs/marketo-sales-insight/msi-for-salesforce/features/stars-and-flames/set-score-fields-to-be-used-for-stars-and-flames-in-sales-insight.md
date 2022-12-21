@@ -1,56 +1,53 @@
 ---
 unique-page-id: 2360301
-description: Score-Felder für Sterne und Flammen in Sales Insight - Marketing Docs - Produktdokumentation festlegen
-title: Score-Felder für Sterne und Flammen in Sales Insight festlegen
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Festlegen von Bewertungsfeldern für Sterne und Flammen in Sales Insight - Marketo Docs - Produktdokumentation
+title: Festlegen von Bewertungsfeldern für Sterne und Flammen in Sales Insight
+exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
-# Score-Felder für Sterne und Flammen in Sales Insight festlegen {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Festlegen von Bewertungsfeldern für Sterne und Flammen in Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertung**, um Sterne und Flammen zu berechnen. Aber wenn Sie ein anderes Feld auswählen möchten, hier:
+Standardmäßig verwendet Marketo Sales Insight die **Lead-Punktzahl** Feld zur Berechnung von Sternen und Flammen. Wenn Sie jedoch ein anderes Feld auswählen möchten, sehen Sie wie:
 
 >[!TIP]
 >
->Wenn Sie noch keine benutzerdefinierten Ergebnisfelder haben, können Sie [wie ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) erstellen.
+>Wenn Sie noch keine benutzerdefinierten Punktfelder haben, finden Sie hier eine Anleitung zum [erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) sie.
 
 >[!NOTE]
 >
 >**Definition**
 >
->* **Sterne**: Sterne stellen den Gesamt-Interessentenwert im Vergleich zu anderen Interessenten dar.
->* **Flammen**: Flammen stellen die Dringlichkeit dar - wie stark sich das Ergebnis eines Interessenten in letzter Zeit verändert hat.
-
+>* **Sterne**: Sterne stellen den Gesamt-Lead-Wert im Vergleich zu anderen Leads dar.
+>* **Flammen**: Flammen stellen die Dringlichkeit dar - wie sehr sich das Ergebnis eines Leads in letzter Zeit geändert hat.
 >
 
 
-
-1. Klicken Sie unter **Admin** auf **Sales Insight**.
+1. under **Admin** klicken **Sales Insight**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Klicken Sie unter **Interessentenbewertungseinstellungen** auf **Bearbeiten**.
+1. under **Lead-Scoring-Einstellungen** klicken Sie auf **Bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Wählen Sie das Feld aus, das Sie für **Sterne** verwenden möchten.
+1. Wählen Sie das Feld aus, für das Sie **Sterne**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Wählen Sie das Feld aus, das Sie für **Flammen** verwenden möchten.
+1. Wählen Sie das Feld aus, für das Sie **Flammen**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
@@ -60,4 +57,4 @@ Standardmäßig verwendet Marketo Sales Insight das Feld **Interessentenbewertun
 
    >[!MORELIKETHIS]
    >
-   >[Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[Priorität, Dringlichkeit, relatives Ergebnis und beste Beta](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

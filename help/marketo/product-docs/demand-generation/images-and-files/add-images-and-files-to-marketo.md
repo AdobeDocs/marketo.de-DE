@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359858
-description: hinzufügen Bilder und Dateien an Marketing - Marketing Docs - Produktdokumentation
-title: hinzufügen von Bildern und Dateien in Marketo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Hinzufügen von Bildern und Dateien zu Marketo - Marketo Docs - Produktdokumentation
+title: Hinzufügen von Bildern und Dateien zu Marketo
+exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
-# hinzufügen Bilder und Dateien an Marketo {#add-images-and-files-to-marketo}
+# Hinzufügen von Bildern und Dateien zu Marketo {#add-images-and-files-to-marketo}
 
 Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
 
-1. Wechseln Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie unter **Neu** auf **Bild hochladen** oder **Datei**.
+1. under **Neu** klicken **Bild hochladen** oder **Datei**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -29,29 +28,29 @@ Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
 
    >[!NOTE]
    >
-   >Die maximale Größe pro Datei beträgt 100 MB.
+   >Die maximale Dateigröße beträgt 100 MB.
 
-1. Um mehrere Bilder und Dateien hinzuzufügen, navigieren Sie zum richtigen Ordner auf Ihrem Computer, drücken Sie die Taste **Strg/Cmd** und klicken Sie auf jede Datei, die Sie hinzufügen möchten, und klicken Sie dann auf **Öffnen**.
+1. Um mehrere Bilder und Dateien hinzuzufügen, navigieren Sie zum richtigen Ordner auf Ihrem Computer und drücken Sie die Eingabetaste **Strg/Befehl** und klicken Sie auf jede Datei, die Sie hinzufügen möchten, und klicken Sie dann auf **Öffnen**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Erweitern Sie **Dateidetails**, um zu überprüfen, ob die richtigen Bilder ausgewählt wurden, und klicken Sie dann auf **Hochladen**.
+1. Erweitern Sie die **Dateidetails** , um zu überprüfen, dass Sie die richtigen Bilder ausgewählt haben, und klicken Sie dann auf **Hochladen**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
    >[!NOTE]
    >
-   >Um Dateien in der Warteschlange vor dem Hochladen zu entfernen, klicken Sie auf das X neben dem Dateinamen.
+   >Um vor dem Hochladen in der Warteschlange befindliche Dateien zu entfernen, klicken Sie auf das x neben dem Dateinamen.
 
    >[!TIP]
    >
-   >Marketo überprüft alle Dateien, bevor sie hochgeladen werden. Infizierte Dateien werden übersprungen.
+   >Marketo überprüft alle Dateien vor dem Hochladen. Infizierte Dateien werden übersprungen.
 
-1. Klicken Sie nach Abschluss des Uploads auf **Fertigstellen**.
+1. Klicken Sie nach Abschluss des Uploads auf **Beenden**.
 
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
-1. Ihre Bilder stehen jetzt für die Verwendung in Kampagne-E-Mails und -Landingpages zur Verfügung.
+1. Ihre Bilder stehen nun zur Verwendung in Kampagnen-E-Mails und Landingpages zur Verfügung.
 
    ![](assets/image2014-9-15-18-3a8-3a45.png)
 
@@ -59,8 +58,8 @@ Gut gemacht!
 
 >[!NOTE]
 >
->Marketo akzeptiert zwar alle Dateitypen zum Hochladen, jedoch nur die wichtigsten Bildtypen (JPG, PNG, GIF usw.) funktioniert in unserem E-Mail-Editor.
+>Marketo akzeptiert zwar alle Dateitypen zum Hochladen, jedoch nur die wichtigsten Bildtypen (JPG, PNG, GIF usw.) in unserem E-Mail-Editor arbeiten.
 
 >[!MORELIKETHIS]
 >
->[Bilder und Dateien mithilfe von Ordnern organisieren](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>[Organisieren von Bildern und Dateien mithilfe von Ordnern](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)

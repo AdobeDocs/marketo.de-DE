@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10097613
-description: hinzufügen Marketo Benutzerdefinierte Objektverknüpfungsfelder - Marketo Docs - Produktdokumentation
-title: Benutzerdefinierte Objektverknüpfungsfelder Hinzufügen Marketo
+description: Benutzerdefinierte Marketo-Objektverknüpfungsfelder hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: Benutzerdefinierte Marketo-Objektverknüpfungsfelder hinzufügen
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
@@ -11,18 +10,18 @@ ht-degree: 0%
 
 ---
 
-# hinzufügen Marketo Benutzerdefinierte Objektverknüpfungsfelder {#add-marketo-custom-object-link-fields}
+# Benutzerdefinierte Marketo-Objektverknüpfungsfelder hinzufügen {#add-marketo-custom-object-link-fields}
 
 Wenn Sie benutzerdefinierte Objekte erstellen, müssen Sie Verknüpfungsfelder bereitstellen, um den benutzerdefinierten Objektdatensatz mit dem richtigen übergeordneten Datensatz zu verbinden.
 
-* Verwenden Sie für eine benutzerdefinierte Eins-zu-viele-Struktur das Linkfeld im benutzerdefinierten Objekt, um eine Verbindung zu einer Person oder Firma herzustellen.
-* Für eine Viele-zu-viele-Struktur verwenden Sie zwei Verknüpfungsfelder, die mit einem separat erstellten Zwischenobjekt verbunden sind (auch ein benutzerdefinierter Objekttyp). Ein Link stellt eine Verbindung zu Personen oder Firmen in Ihrer Datenbank her, der andere eine Verbindung zum benutzerdefinierten Objekt. In diesem Fall befindet sich das Feld &quot;Link&quot;nicht im benutzerdefinierten Objekt selbst.
+* Verwenden Sie für eine 1:n-benutzerdefinierte Struktur das Linkfeld im benutzerdefinierten Objekt, um es mit einer Person oder einem Unternehmen zu verbinden.
+* Für eine n:n-Struktur verwenden Sie zwei Verknüpfungsfelder, die mit einem separat erstellten Intermediär-Objekt verbunden sind (auch ein benutzerdefinierter Objekttyp). Eine Verknüpfung stellt eine Verbindung zu Personen oder Unternehmen in Ihrer Datenbank her, die andere eine Verbindung zum benutzerdefinierten Objekt. In diesem Fall befindet sich das Linkfeld nicht im benutzerdefinierten Objekt selbst.
 
-## Erstellen eines Linkfelds für eine 1-zu-viele-Struktur {#create-a-link-field-for-a-one-to-many-structure}
+## Erstellen eines Link-Felds für eine 1:n-Struktur {#create-a-link-field-for-a-one-to-many-structure}
 
-So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für eine Eins-zu-viele-Struktur.
+So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für eine 1:n-Struktur.
 
-1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
+1. Klicken **Admin** und in **Datenbankverwaltung** auswählen **Benutzerdefinierte Marketo-Objekte**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,27 +29,27 @@ So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für 
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Klicken Sie auf der Registerkarte **Felder** auf **Neues Feld**.
+1. Im **Felder** Registerkarte, klicken Sie auf **Neues Feld**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
-1. Benennen Sie das Linkfeld und fügen Sie eine optionale Beschreibung hinzu. Wählen Sie unbedingt den Datentyp &quot;Link&quot;aus.
+1. Benennen Sie das Link-Feld und fügen Sie eine optionale Beschreibung hinzu. Wählen Sie unbedingt den Datentyp Link aus.
 
    ![](assets/image2015-10-5-13-3a24-3a57.png)
 
    >[!CAUTION]
    >
-   >Sie können ein Verknüpfungs- oder Deduplizierungsfeld nicht mehr erstellen, bearbeiten oder löschen, nachdem das benutzerdefinierte Objekt genehmigt wurde.
+   >Sobald das benutzerdefinierte Objekt genehmigt wurde, können Sie einen Link oder ein Deduplizierungsfeld nicht mehr erstellen, bearbeiten oder löschen.
 
-1. Wählen Sie aus, ob das Linkobjekt für einen Interessenten (eine Person) oder eine Firma bestimmt ist.
+1. Wählen Sie aus, ob das Link-Objekt für einen Lead (eine Person) oder ein Unternehmen bestimmt ist.
 
    ![](assets/image2015-10-5-13-3a28-3a1.png)
 
    >[!NOTE]
    >
-   >Wenn Sie &quot;Lead&quot;auswählen, werden ID, E-Mail-Adresse und alle benutzerdefinierten Felder in der Liste angezeigt.
+   >Wenn Sie &quot;Lead&quot;auswählen, werden in der Liste &quot;ID&quot;, &quot;E-Mail-Adresse&quot;und alle benutzerdefinierten Felder angezeigt.
    >
-   >Wenn Sie &quot;Firma&quot;auswählen, werden in der Liste &quot;ID&quot;und alle benutzerdefinierten Felder angezeigt.
+   >Wenn Sie &quot;company&quot;auswählen, werden die ID und alle benutzerdefinierten Felder in der Liste angezeigt.
 
 1. Wählen Sie das Verknüpfungsfeld aus, mit dem Sie eine Verbindung herstellen möchten, als übergeordnetes Element des neuen Felds.
 
@@ -58,57 +57,57 @@ So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für 
 
    >[!NOTE]
    >
-   >Im Feld &quot;Link&quot;werden nur Zeichenfolgen-Feldtypen unterstützt.
+   >Im Linkfeld werden nur Zeichenfolgenfeldtypen unterstützt.
 
-1. Klicken Sie auf **Speichern.**
+1. Klicken **Speichern.**
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
-## Erstellen eines Linkfelds für eine Viele-zu-viele-Struktur {#create-a-link-field-for-a-many-to-many-structure}
+## Erstellen eines Verknüpfungsfelds für eine Viele-zu-viele-Struktur {#create-a-link-field-for-a-many-to-many-structure}
 
-So erstellen Sie ein Verknüpfungsfeld in einem Zwischenobjekt, das in einer Viele-zu-viele-Struktur verwendet werden kann.
+So erstellen Sie ein Verknüpfungsfeld in einem zwischengeschalteten Objekt zur Verwendung in einer n:n-Struktur.
 
 >[!PREREQUISITES]
 >
->Sie müssen das intermediäre Objekt und alle benutzerdefinierten Objekte, mit denen Sie es verknüpfen möchten, bereits erstellt haben.
+>Sie müssen das Zwischenobjekt und alle benutzerdefinierten Objekte, mit denen Sie es verknüpfen möchten, bereits erstellt haben.
 
-1. Klicken Sie auf **Admin** und wählen Sie unter **Datenbankverwaltung** **Marketo Benutzerspezifische Objekte**.
+1. Klicken **Admin** und in **Datenbankverwaltung** auswählen **Benutzerdefinierte Marketo-Objekte**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
-1. Wählen Sie das Zwischenobjekt aus, dem Sie das Feld hinzufügen möchten.
+1. Wählen Sie das zwischengeschaltete Objekt aus, dem Sie das Feld hinzufügen möchten.
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Klicken Sie auf der Registerkarte **Felder** auf **Neues Feld**.
+1. Im **Felder** Registerkarte, klicken Sie auf **Neues Feld**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
-1. Sie müssen zwei Verknüpfungsfelder erstellen. Erstellen Sie sie einzeln. Benennen Sie zunächst das Feld für die Mitglieder Ihrer Datenbankkomponente (z. B. leadID). hinzufügen eine optionale Beschreibung. Stellen Sie sicher, dass Sie den Linkdatentyp auswählen.
+1. Sie müssen zwei Verknüpfungsfelder erstellen. Erstellen Sie sie einzeln. Benennen Sie zunächst das Feld für die Mitglieder Ihrer Datenbankliste (z. B. leadID). Fügen Sie eine optionale Beschreibung hinzu. Wählen Sie unbedingt den Linkdatentyp aus.
 
    ![](assets/image2016-1-18-9-3a38-3a59.png)
 
    >[!CAUTION]
    >
-   >Sie können ein Verknüpfungs- oder Deduplizierungsfeld nicht mehr erstellen, bearbeiten oder löschen, nachdem das benutzerdefinierte Objekt genehmigt wurde.
+   >Sobald das benutzerdefinierte Objekt genehmigt wurde, können Sie einen Link oder ein Deduplizierungsfeld nicht mehr erstellen, bearbeiten oder löschen.
 
-1. Wählen Sie das Link-Objekt aus Ihrer Datenbank, in diesem Fall Interessent.
+1. Wählen Sie das Link-Objekt aus Ihrer Datenbank, in diesem Fall Lead.
 
    ![](assets/image2016-1-18-9-3a50-3a48.png)
 
-1. Wählen Sie das Verknüpfungsfeld aus, mit dem Sie eine Verbindung herstellen möchten, in diesem Fall &quot;ID&quot;.
+1. Wählen Sie das Link-Feld aus, mit dem Sie eine Verbindung herstellen möchten, in diesem Fall &quot;ID&quot;.
 
    ![](assets/image2016-1-18-9-3a53-3a54.png)
 
    >[!NOTE]
    >
-   >Im Feld &quot;Link&quot;werden nur Zeichenfolgen-Feldtypen unterstützt.
+   >Im Linkfeld werden nur Zeichenfolgenfeldtypen unterstützt.
 
-1. Klicken Sie auf **Speichern.**
+1. Klicken **Speichern.**
 
    ![](assets/image2016-1-18-9-3a55-3a18.png)
 
-1. Wiederholen Sie diesen Vorgang für die zweite Verknüpfung zu Ihrem benutzerdefinierten Objekt, in diesem Beispiel, natürlichID. Der Link-Objektname lautet natürlich, und das Link-Feld lautet kursID. Da Sie das benutzerdefinierte Kursobjekt bereits erstellt und genehmigt haben, stehen diese Auswahlen in den Dropdownmenüs zur Verfügung.
+1. Wiederholen Sie diesen Vorgang für den zweiten Link zu Ihrem benutzerdefinierten Objekt, in diesem Beispiel &quot;kursID&quot;. Der Link-Objektname lautet natürlich und das Link-Feld lautet kursID. Da Sie das benutzerdefinierte Kursobjekt bereits erstellt und genehmigt haben, sind diese Auswahlmöglichkeiten in den Dropdown-Menüs verfügbar.
 
    ![](assets/image2016-1-18-9-3a57-3a46.png)
 
@@ -116,14 +115,14 @@ So erstellen Sie ein Verknüpfungsfeld in einem Zwischenobjekt, das in einer Vie
 
 ## Verwenden benutzerdefinierter Objekte {#using-custom-objects}
 
-Der nächste Schritt besteht darin, diese benutzerdefinierten Objekte in Filtern in Ihren intelligenten Kampagnen zu verwenden. In einer Viele-zu-viele-Beziehung können Sie mehrere Personen/Firmen und mehrere benutzerdefinierte Objekte auswählen. Im folgenden Beispiel wird jeder Benutzer in Ihrer Datenbank aufgelistet, der diese Kriterien erfüllt. Das Feld coursename stammt aus dem benutzerdefinierten Kursobjekt und die Registrierungsstufe stammt aus dem Zwischenobjekt.
+Der nächste Schritt besteht darin, diese benutzerdefinierten Objekte in Filtern in Ihren Smart-Kampagnen zu verwenden. Mit einer n:n-Beziehung können Sie mehrere Personen/Unternehmen und mehrere benutzerdefinierte Objekte auswählen. Im folgenden Beispiel wird jeder Benutzer in Ihrer Datenbank aufgelistet, der diese Kriterien erfüllt. Das Feld coursename stammt aus dem benutzerdefinierten Kurs-Objekt und die Registrierungsstufe stammt aus dem Zwischenobjekt.
 
 ![](assets/image2016-1-14-15-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [Benutzerdefinierte Objektfelder Hinzufügen Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Benutzerdefinierte Marketo-Objektfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Grundlegendes zu benutzerdefinierten Marketo-Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 

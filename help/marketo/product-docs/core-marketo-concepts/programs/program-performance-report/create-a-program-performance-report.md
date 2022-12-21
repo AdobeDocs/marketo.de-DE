@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147129
-description: Erstellen eines Programm Performance Report - Marketo Docs - Produktdokumentation
-title: Erstellen eines Programm-Leistungsberichts
+description: Erstellen eines Programmleistungsberichts - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines Berichts zur Programmleistung
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
@@ -11,21 +10,21 @@ ht-degree: 6%
 
 ---
 
-# Erstellen eines Programm-Leistungsberichts {#create-a-program-performance-report}
+# Erstellen eines Berichts zur Programmleistung {#create-a-program-performance-report}
 
-Mit diesem Bericht erhalten Sie großartige Statistiken zu Ihren Programmen.
+Mit diesem Bericht sehen Sie großartige Statistiken zu Ihren Programmen.
 
-1. [Erstellen Sie einen Bericht in einem ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Programm und wählen Sie den  **Programm Performance** [Port-Typ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Klicken Sie auf die Registerkarte **Bericht**.
-1. Du bist da! Entdecken Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
+1. [Erstellen eines Berichts in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie die **Programmleistung** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Klicken Sie auf **Bericht** Registerkarte.
+1. Du bist da! Untersuchen Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Um die Programm mit den niedrigsten *Kosten pro Erfolg* zu finden, sortieren Sie z. B. [Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie **Aufsteigend sortieren**.
+>So finden Sie die Programme mit den niedrigsten *Kosten pro Erfolg*, beispielsweise [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie **Aufsteigende Sortierung**.
 
-Die Spalten in einem Programm-Leistungsbericht umfassen:
+Spalten in einem Bericht zur Programmleistung umfassen:
 
 <table> 
  <thead> 
@@ -37,15 +36,15 @@ Die Spalten in einem Programm-Leistungsbericht umfassen:
  <tbody> 
   <tr> 
    <td>Kanal</td> 
-   <td>Der Kanal des Programms.</td> 
+   <td>Der Kanaltyp des Programms.</td> 
   </tr> 
   <tr> 
    <td>Neue Namen</td> 
-   <td>Neue Leute, die vom Programm erworben wurden.</td> 
+   <td>Neue durch das Programm erworbene Personen.</td> 
   </tr> 
   <tr> 
    <td>Erfolg</td> 
-   <td>Anzahl der Programm, die gemäß der Definition in den Statusangaben erfolgreich waren. </td> 
+   <td>Anzahl der Mitglieder, die gemäß Definition im Programmstatus einen Erfolg erzielt haben. </td> 
   </tr> 
   <tr> 
    <td>Gesamtkosten</td> 

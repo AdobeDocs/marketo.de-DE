@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2359951
-description: Entfernen eines Mitglieds aus einem Programm der Interaktion - Marketing-Dokumente - Produktdokumentation
-title: Entfernen eines Mitglieds aus einem Interaktions-Programm
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Entfernen eines Mitglieds aus einem Interaktionsprogramm - Marketo-Dokumente - Produktdokumentation
+title: Entfernen von Mitgliedern aus einem Interaktionsprogramm
+exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Entfernen von Mitgliedern aus einem Interaktionsprogramm {#remove-a-member-from-an-engagement-program}
 
-# Entfernen Sie ein Mitglied aus einem Interaktions-Programm {#remove-a-member-from-an-engagement-program}
-
-Ups! Wie sind diese Leute da hineingekommen? Sie können Mitglieder mit dem Textfluss **Programm-Status ändern** aus einem Interaktions-Programm entfernen.
+Entschuldigung! Wie sind diese Leute dort hineingekommen? Sie können Mitglieder aus einem Interaktionsprogramm entfernen, indem Sie die **Ändern des Programmstatus** Flussschritt.
 
 >[!TIP]
 >
->Verwenden Sie dies nicht, um Inhalte für eine Person anzuhalten. Dadurch werden alle Zuordnungen in der Analyse beseitigt. Erfahren Sie mehr darüber, wie [Personen in einem Interaktions-Programm](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) angehalten werden.
+>Verwenden Sie dies nicht, um Inhalte für eine Person anzuhalten. Dadurch wird die gesamte Attribution in Analytics eliminiert. Erfahren Sie mehr darüber, wie Sie [Anhalten von Personen in einem Interaktionsprogramm](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
-## Flussschritt {#flow-step}
+## Flow-Schritt {#flow-step}
 
-1. Ziehen Sie in den Textfluss **Ändern des Programm-Status**.
+1. Ziehen Sie die **Ändern des Programmstatus** Flussschritt.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Wählen Sie den Status **Nicht im Programm**.
+   Wählen Sie den Status aus, **Nicht im Programm**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Alle Mitglieder, die Sie in der [intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) definiert haben, befinden sich nicht mehr in diesem Interaktions-Programm.
+   Groovy. Alle Mitglieder, die Sie in der Variablen [Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) wird nicht mehr in diesem Interaktionsprogramm enthalten sein.
 
-## Personen {#pause-people} anhalten
+## Personen anhalten  {#pause-people}
 
-Manchmal möchten Sie die Leute einfach in einem Interaktions-Programm anhalten und nicht entfernen. Dies geschieht mit dem Programm **Interaktion ändern - Kadenz**.
+Manchmal möchten Sie Personen einfach in einem Interaktionsprogramm anhalten und nicht entfernen. Dies geschieht mit dem **Ändern der Interaktionsprogrammkadenz**.
 
 >[!MORELIKETHIS]
 >
->[Anhalten von Personen in einem Interaktions-Programm](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
+>[Anhalten von Personen im Rahmen eines Interaktionsprogramms](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)

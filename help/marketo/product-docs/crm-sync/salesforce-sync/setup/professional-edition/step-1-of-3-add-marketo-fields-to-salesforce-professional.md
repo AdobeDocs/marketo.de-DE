@@ -28,25 +28,25 @@ Alle diese benutzerdefinierten Felder sind optional und müssen nicht mit Market
 
 Fügen Sie drei benutzerdefinierte Felder zu den oben aufgeführten Lead- und Kontaktobjekten in Salesforce hinzu. Weitere Informationen finden Sie in der Tabelle der verfügbaren Felder am Ende dieses Abschnitts.
 
-Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felder aus, um sie hinzuzufügen. Beginnen Sie mit **Score**.
+Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felder aus, um sie hinzuzufügen. Beginnen mit **Ergebnis**.
 
-1. Melden Sie sich bei Salesforce an und klicken Sie auf **Setup.**
+1. Melden Sie sich bei Salesforce an und klicken Sie auf **Einrichtung.**
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicken Sie im Menü &quot;Erstellen&quot;auf der linken Seite auf **Anpassen** und wählen Sie **Leads** aus. Klicken Sie auf **Felder**.
+1. Klicken Sie im Menü Erstellen auf der linken Seite auf **Anpassen** und wählen Sie **Leads**. Klicken **Felder**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicken Sie unten auf der Seite im Abschnitt Benutzerdefinierte Felder und Beziehungen auf **Neu** .
+1. Klicken **Neu** im Abschnitt Benutzerdefinierte Felder und Beziehungen unten auf der Seite.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Wählen Sie den entsprechenden Feldtyp aus (für Score — **number**; Akquiseprogramm — **text**; Akquisedatum - **Datum/Uhrzeit**).
+1. Wählen Sie den entsprechenden Feldtyp aus (für Bewertung — **number**; Akquiseprogramm — **text**; Akquisedatum — **Datum/Uhrzeit**).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klicken Sie auf **Next**.
+1. Klicken **Nächste**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -105,19 +105,19 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 >
 >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
-1. Klicken Sie auf **Next**.
+1. Klicken **Nächste**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **Next**:
+1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **Nächste**:
 
-   * Legen Sie alle Rollen auf **Visible** und **Read-Only** fest.
+   * Legen Sie alle Rollen auf **Sichtbar** und **Schreibgeschützt**
 
-   * Deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Profil Ihres Synchronisierungsbenutzers:
+   * Löschen Sie die **Schreibgeschützt** Kontrollkästchen für das Profil Ihres Synchronisierungsbenutzers:
 
-      * Wenn Sie einen Benutzer mit dem Profil eines _Systemadministrators_ als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für das Profil des Systemadministrators (wie unten dargestellt).
+      * Wenn Sie einen Benutzer mit dem Profil eines _Systemadministrator_ als Synchronisierungsbenutzer verwenden, löschen Sie die **Schreibgeschützt** Kontrollkästchen für das Profil &quot;Systemadministrator&quot;(wie unten dargestellt)
 
-      * Wenn Sie ein _benutzerdefiniertes Profil_ für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen **Schreibgeschützt** für dieses benutzerdefinierte Profil.
+      * Wenn Sie eine _Benutzerdefiniertes Profil_ Löschen Sie für den Synchronisierungsbenutzer die **Schreibgeschützt** Kontrollkästchen für dieses benutzerdefinierte Profil
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicken Sie auf **Speichern und Neu** , um zurück zu gehen und jedes der beiden anderen benutzerdefinierten Felder zu erstellen. Klicken Sie auf **Save** , wenn Sie mit allen drei Schritten fertig sind.
+1. Klicken **Speichern und Neu** , um die beiden anderen benutzerdefinierten Felder zu erstellen. Klicken **Speichern** mit Ihnen sind mit allen drei fertig.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicken Sie im Menü &quot;Erstellen&quot;auf der linken Seite auf **Anpassen** und wählen Sie **Kontakte**. Klicken Sie auf **Felder**.
+1. Klicken Sie im Menü Erstellen auf der linken Seite auf **Anpassen** und wählen Sie **Kontakte**. Klicken **Felder**.
 1. Führen Sie die Schritte 3 bis 10 für die Felder Score, Akquise-Datum und Akquise-Programm für das Kontaktobjekt aus, genau wie für das Lead-Objekt.
 1. Optional können Sie das obige Verfahren für alle zusätzlichen benutzerdefinierten Felder aus dieser Tabelle verwenden.
 
@@ -257,7 +257,7 @@ Einfach genug, nicht wahr?
 
 >[!NOTE]
 >
->Hier ist ein [Video des gesamten Prozesses](https://nation.marketo.com/videos/1475), das es kristallklar machen sollte!
+>Hier ist ein [Video des gesamten Prozesses](https://nation.marketo.com/videos/1475) das sollte es kristallklar machen!
 
 >[!MORELIKETHIS]
 >

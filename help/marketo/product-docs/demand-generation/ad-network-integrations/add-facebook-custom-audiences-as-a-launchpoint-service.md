@@ -1,74 +1,72 @@
 ---
 unique-page-id: 4720257
-description: hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-Dienst - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen benutzerdefinierter Facebook-Audiencen als LaunchPoint-Dienst
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst - Marketo Docs - Produktdokumentation
+title: Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst
+exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-
-# hinzufügen benutzerspezifische Facebook-Audiencen als LaunchPoint-Dienst {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-Mit dieser Integration können Sie Daten zur Audience von Marketo-statischen und intelligenten Listen an Facebook senden, um sie als benutzerdefinierte Audiencen in Facebook-Werbeanzeigen-Kampagnen zu verwenden. So richten Sie es ein:
+Mit dieser Integration können Sie Zielgruppendaten aus statischen und intelligenten Marketo-Listen an Facebook senden, um sie als benutzerdefinierte Zielgruppen in Facebook-Anzeigenkampagnen zu verwenden. So richten Sie es ein.
 
-1. Gehen Sie zu Markieren **Admin**.
+1. Navigieren zu Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gehen Sie zu **LaunchPoint**, klicken Sie auf **New** und wählen Sie **New Service**.
+1. Navigieren Sie zu **LaunchPoint** klicken Sie auf **Neu** und wählen Sie **Neuer Dienst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein und wählen Sie den Dienst **Facebook Benutzerspezifische Audiencen** aus der Dropdownliste **Dienst**.
+1. Geben Sie einen **Anzeigename** für Ihren Dienst und wählen Sie die **Benutzerdefinierte facebook-Zielgruppen** Dienst von **Diensleistung** Dropdown-Liste.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Öffnen Sie eine neue Registerkarte im selben Browser und gehen Sie zu [facebook.com](https://www.facebook.com/). Melden Sie sich bei Facebook mit dem Konto an, das Sie für die Integration verwenden möchten.
+1. Öffnen Sie eine neue Registerkarte im selben Browser und navigieren Sie zu [facebook.com](https://www.facebook.com/). Melden Sie sich mit dem Konto, das Sie für die Integration verwenden möchten, bei Facebook an.
 
    >[!CAUTION]
    >
-   >Damit Marketing Audiencen über mehrere Ad Manager-Konten senden kann, muss der Facebook-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Konten haben.
+   >Damit Marketo Zielgruppen über mehrere Ad Manager-Konten hinweg senden kann, muss der Facebook-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *all* dieser Konten.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Wenn Sie bei Facebook angemeldet sind, kehren Sie zu Marketo zurück. Klicken Sie auf **Autorisieren**.
+1. Nachdem Sie sich bei Facebook angemeldet haben, kehren Sie zu Marketo zurück. Klicken **Autorisieren**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >Sie müssen _ein Facebook Business Manager-Konto verwenden, damit Ihre Integration mit benutzerspezifischen Audiencen funktioniert._ Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
+   >You _must_ Verwenden Sie ein Facebook Business Manager-Konto, damit Ihre benutzerdefinierte Zielgruppenintegration funktioniert. Informationen zum Einrichten eines Business Manager-Kontos finden Sie unter [Hilfe zu facebook](https://www.facebook.com/business/help/1710077379203657).
 
-1. Wenn Sie dazu aufgefordert werden, klicken Sie auf **OK**, um die Installation der Marketing-App in Facebook zu akzeptieren.
+1. Klicken Sie bei entsprechender Aufforderung auf **OK** , um die Installation der Marketo-App in Facebook zu akzeptieren.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Du bist jetzt autorisiert! Wählen Sie einen passenden Modus und klicken Sie auf **Erstellen**.
+1. Du bist jetzt autorisiert! Wählen Sie den entsprechenden Modus aus und klicken Sie auf **Erstellen**.
 
    >[!NOTE]
    >
-   >**Basis-** Übereinstimmung verwendet nur E-Mail-Adressen. **Advanced** Matchinguses verwendet sieben weitere Felder, wodurch die Übereinstimmungsrate erhöht wird, um mehr Konversionen zu erzielen. Wenn die Datenschutzrichtlinien Ihrer Firma die Freigabe zusätzlicher Felder nicht zulassen oder wenn Ihre Daten diese nicht enthalten, wählen Sie &quot;Grundlegende Übereinstimmung&quot;.
+   >**Grundlegende Übereinstimmung** verwendet nur E-Mail-Adressen. **Erweiterte Übereinstimmung** verwendet sieben zusätzliche Felder, wodurch die Übereinstimmungsrate erhöht wird, für mehr Konvertierung. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;Grundlegende Übereinstimmung&quot;.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Gute Arbeit! Sie können jetzt zu jeder statischen oder intelligenten Liste in Marketo wechseln und Daten zur Audience an Facebook senden.
+   Großartig gemacht! Sie können jetzt zu einer beliebigen statischen oder intelligenten Liste in Marketo wechseln und Zielgruppendaten an Facebook senden.
 
    >[!CAUTION]
    >
-   >Ach, bevor Sie gehen, stellen Sie sicher, dass Sie in Ihrem Facebook-Konto [die benutzerspezifischen Audiencen von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php)! Andernfalls schlagen die Aktualisierungen der Audience fehl.
+   >Ach, bevor du gehst, sei sicher [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem Facebook-Konto! Andernfalls schlagen die Zielgruppen-Updates fehl.
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer benutzerspezifischen Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-   >
-   >
-* [Einrichten von Facebook-Interessentenanzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [Erstellen einer benutzerdefinierten Zielgruppe in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>
+>* [Einrichten von Facebook-Lead-Anzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 

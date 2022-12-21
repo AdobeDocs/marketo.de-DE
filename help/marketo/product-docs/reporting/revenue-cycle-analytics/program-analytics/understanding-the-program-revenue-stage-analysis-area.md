@@ -1,23 +1,22 @@
 ---
 unique-page-id: 7514009
-description: Informationen zum Bereich Programm Revenue Stage Analyse - Marketing Docs - Produktdokumentation
-title: Die Analyse der Programm-Umsatzstufe
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Grundlegendes zum Programmumsatzanalysebereich - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum Analysebereich für die Programmumsatzerlöse
+exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Grundlegendes zum Analysebereich für die Programmumsatzerlöse {#understanding-the-program-revenue-stage-analysis-area}
 
-# Die Analyse der Programm-Umsatzstufe {#understanding-the-program-revenue-stage-analysis-area}
+In diesem Analysebereich können Sie die Effektivität einzelner Programme analysieren oder die zusammengefassten Ergebnisse nach Kanal anzeigen. Es bietet Einblicke, wie viele der neu generierten Namen bestimmte Erfolgspfade innerhalb Ihres Umsatzzyklusmodells erreicht haben.
 
-In diesem Bereich können Sie die Effektivität einzelner Programm analysieren oder die zusammengefassten Analysen nach Kanal anzeigen. Es bietet Einblicke, wie viele der neu generierten Namen bestimmte Erfolgspfade innerhalb Ihres Umsatzzyklusmodells erreicht haben.
+**Beispiele für Geschäftsfragen, die Sie mit diesem Analysebereich beantworten können:**:
 
-**Zu den Geschäftsfragen, die Sie mit diesem Bereich der Analyse beantworten können, zählen**:
-
-Wie viele neue Namen aus einem bestimmten Programm haben je eine bestimmte Stufe in meinem Modell erreicht?
+Wie viele neue Namen aus einem Programm haben schon einmal eine bestimmte Stufe in meinem Modell erreicht?
 
 ![](assets/one-3.png)
 
@@ -25,38 +24,38 @@ Wie viele neue Namen aus einem bestimmten Programm befinden sich derzeit in eine
 
 ![](assets/two-3.png)
 
-Wie viele Tage dauert es, bis Interessenten ihre aktuelle Phase erreichen?
+Wie viele Tage dauert es, bis die aktuelle Phase erreicht ist?
 
 ![](assets/three-3.png)
 
-**Dimensionen und Maßnahmen zur Analyse der Programm-Umsatzstufen**
+**Dimensionen und Maßnahmen zur Analyse der Programmumsätze**
 
-Dimensionen und Maßeinheiten werden nach Funktionsmerkmalen kategorisiert und durch gelbe oder blaue Punkte im System dargestellt: gelb für die Abmessungen und blau für die Maße. Verwenden Sie die Dimensionen und Maßnahmen zur Analyse der Umsatzstufen von Programm, um bestimmte Fragen in Ihrem Bericht zu beantworten.
+Dimensionen und Kennzahlen werden nach Funktionalität kategorisiert und durch gelbe oder blaue Punkte im System dargestellt: gelb für Dimensionen und blau für Kennzahlen. Verwenden Sie die Dimensionen und Maßnahmen der Programmumsatzanalyse, um spezifische Fragen in Ihrem Bericht zu beantworten.
 
-Um verfügbare Dimensionen oder Maßeinheiten in einer Kategorie Ansicht, klicken Sie auf den Pfeil neben dem Namen der Kategorie, um die Liste der Kategorie zu erweitern. Klicken Sie auf den Abwärtspfeil, um die Liste der Kategorie zu reduzieren.
+Um verfügbare Dimensionen oder Kennzahlen innerhalb einer Kategorie anzuzeigen, klicken Sie auf den Pfeil neben dem Kategorienamen, um die Kategorienliste zu erweitern. Klicken Sie auf den Abwärtspfeil, um die Kategorienliste zu reduzieren.
 
 >[!TIP]
 >
->Wenn Sie weitere Informationen zu einer bestimmten Dimension oder Maßeinheit während des Berichts erhalten möchten, halten Sie den Mauszeiger darüber.
+>Um weitere Informationen über eine bestimmte Dimension oder Kennzahl zu erhalten, halten Sie den Mauszeiger im Bericht darüber.
 
 **Modellattribute**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Dimension</strong></td> 
+   <td colspan="1" rowspan="1"><strong>Abmessung</strong></td> 
    <td colspan="1" rowspan="1"><p><strong>Beschreibung</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Ist das Modell aktiv</p></td> 
+   <td colspan="1" rowspan="1"><p>Ist modellaktiv</p></td> 
    <td colspan="1" rowspan="1"><p>Beschreibt, ob das Modell derzeit genehmigt und aktiv ist</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Ist Phase aktiv</p></td> 
-   <td colspan="1" rowspan="1"><p>Beschreibt, ob die Phase aktiv ist</p></td> 
+   <td colspan="1" rowspan="1"><p>Ist Staging aktiv</p></td> 
+   <td colspan="1" rowspan="1"><p>Beschreibt, ob die Bühne aktiv ist</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Bei Erfolgspfad</p></td> 
+   <td colspan="1" rowspan="1"><p>Auf Erfolgspfad</p></td> 
    <td colspan="1" rowspan="1"><p>Beschreibt, ob sich die Phase auf dem Erfolgspfad befindet oder nicht</p></td> 
   </tr> 
   <tr> 
@@ -64,59 +63,59 @@ Um verfügbare Dimensionen oder Maßeinheiten in einer Kategorie Ansicht, klicke
    <td colspan="1" rowspan="1"><p>Modellname</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Phase</p></td> 
-   <td colspan="1" rowspan="1"><p>Die in Ihrem Umsatzzyklusmodell vorhandenen Phasen. Wird als Von-Phase bei der Analyse von Maßnahmen zwischen zwei Phasen verwendet</p></td> 
+   <td colspan="1" rowspan="1"><p>Stadium</p></td> 
+   <td colspan="1" rowspan="1"><p>Die Phasen, die in Ihrem Umsatzzyklusmodell vorhanden sind. Wird als Von-Phase bei der Analyse von Maßnahmen zwischen zwei Phasen verwendet</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Stage-Typ</p></td> 
-   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Bestand, SLA oder Gate jeder Phase</p></td> 
+   <td colspan="1" rowspan="1"><p>Staging-Typ</p></td> 
+   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Inventar, SLA oder Gate jeder Phase ist</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Programm-Attribute**
+**Programmattribute**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Abmessung</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Beschreibung</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Programm Kanal</p></td> 
-   <td colspan="1" rowspan="1"><p>Programm Kanal</p></td> 
+   <td colspan="1" rowspan="1"><p>Programmkanal</p></td> 
+   <td colspan="1" rowspan="1"><p>Programmkanal</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Name des Programms</p></td> 
-   <td colspan="1" rowspan="1"><p>Name des Programms</p></td> 
+   <td colspan="1" rowspan="1"><p>Programmname</p></td> 
+   <td colspan="1" rowspan="1"><p>Programmname</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Zeitrahmen für die Programm-Kosten**
+**Zeitrahmen für Programmkosten**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Abmessung</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Beschreibung</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Kostenjahr</p></td> 
-   <td colspan="1" rowspan="1"><p>Zeitrahmen für die Programm-Kosten</p></td> 
+   <td colspan="1" rowspan="1"><p>Zeitrahmen der Programmkosten</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Kostenquartier</p></td> 
-   <td colspan="1" rowspan="1"><p>Zeitrahmen für die Programm-Kosten</p></td> 
+   <td colspan="1" rowspan="1"><p>Zeitrahmen der Programmkosten</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Kostentag</p></td> 
-   <td colspan="1" rowspan="1"><p>Zeitrahmen für die Programm-Kosten</p></td> 
+   <td colspan="1" rowspan="1"><p>Kostenmonat</p></td> 
+   <td colspan="1" rowspan="1"><p>Zeitrahmen der Programmkosten</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Mitgliedschaft in der Phase**
+**Staging-Mitgliedschaft**
 
 <table> 
  <tbody> 
@@ -125,32 +124,32 @@ Um verfügbare Dimensionen oder Maßeinheiten in einer Kategorie Ansicht, klicke
    <td colspan="1" rowspan="1"><p><strong>Beschreibung</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Ist das Modell aktiv</p></td> 
+   <td colspan="1" rowspan="1"><p>Ist modellaktiv</p></td> 
    <td colspan="1" rowspan="1"><p>Beschreibt, ob das Modell derzeit genehmigt und aktiv ist</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Ist Phase aktiv</p></td> 
-   <td colspan="1" rowspan="1"><p>Beschreibt, ob die Phase aktiv ist</p></td> 
+   <td colspan="1" rowspan="1"><p>Ist Staging aktiv</p></td> 
+   <td colspan="1" rowspan="1"><p>Beschreibt, ob die Bühne aktiv ist</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Bei Erfolgspfad</p></td> 
+   <td colspan="1" rowspan="1"><p>Auf Erfolgspfad</p></td> 
    <td colspan="1" rowspan="1"><p>Beschreibt, ob sich die Phase auf dem Erfolgspfad befindet oder nicht</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Kosten pro neuer Name</p></td> 
-   <td colspan="1" rowspan="1"><p>Die durchschnittlichen Kosten eines neuen Namens, der jemals die Stufe erreicht hat</p></td> 
+   <td colspan="1" rowspan="1"><p>Kosten pro neuem Namen</p></td> 
+   <td colspan="1" rowspan="1"><p>Durchschnittliche Kosten eines neuen Namens, der die Stufe erreicht hat</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Neue Namen (aktuell)</p></td> 
-   <td colspan="1" rowspan="1"><p>Gesamtzahl der Interessenten, die sich derzeit in der Phase befinden und vom Programm übernommen wurden</p></td> 
+   <td colspan="1" rowspan="1"><p>Gesamtzahl der Leads, die sich derzeit in der Phase befinden und vom Programm erworben wurden</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Neue Namen (ever)</p></td> 
-   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Bestand, SLA oder Gate jeder Phase</p></td> 
+   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Inventar, SLA oder Gate jeder Phase ist</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Berichts für den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Erstellen eines Berichts &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

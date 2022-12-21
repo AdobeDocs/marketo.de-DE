@@ -1,42 +1,41 @@
 ---
 unique-page-id: 4720215
-description: Implementierung von RTP auf Wordpress Enterprise - Marketing Docs - Produktdokumentation
-title: Implementierung von RTP in Wordpress Enterprise
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Implementieren von RTP auf Wordpress Enterprise - Marketo Docs - Produktdokumentation
+title: Implementieren von RTP in Wordpress Enterprise
+exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
+# Implementieren von RTP in Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-# Implementierung von RTP auf Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanweisungen:
 
-Befolgen Sie zur Implementierung Ihres RTP-Tags die Installationsanweisungen unten:
-
-1. Gehen Sie zu **Kontoeinstellungen**.
+1. Navigieren Sie zu **Kontoeinstellungen**.
 
    a. Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 3 fort.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Suchen Sie unter &quot;Domäne&quot;die entsprechende Domäne und klicken Sie auf **Tag** generieren.
+1. Suchen Sie unter &quot;Domain&quot;die entsprechende Domäne und klicken Sie auf **Tag generieren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
-1. Kopieren Sie das RTP JavaScript-Tag.
+1. Kopieren Sie das RTP-JavaScript-Tag.
 
 1. Melden Sie sich bei Ihrem WordPress-Konto als Admin-Benutzer an
 
-   a. Wechseln Sie unter **Erscheinungsbild** zu **Benutzerdefiniertes JavaScript**.
-b. Fügen Sie das RTP-Javascript-Tag direkt nach dem vorhandenen Code ein.
+   a. under **Erscheinungsbild**, gehen Sie zu **Benutzerdefiniertes JavaScript**.
+b. Fügen Sie das RTP-JavaScript-Tag direkt nach dem vorhandenen Code ein.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
 
    >[!CAUTION]
    >
-   >BEIM Einfügen des Codes AUSSCHLIESSEN der folgenden Tags:
+   >Schließen Sie beim Einfügen des Codes die folgenden Tags aus:
    >
    >* `<!-- RTP tag -->`
    >* `<script type='text/javascript'>`
@@ -46,4 +45,4 @@ b. Fügen Sie das RTP-Javascript-Tag direkt nach dem vorhandenen Code ein.
    >
    >Fügen Sie das Skript NUR selbst ein.
 
-1. Klicken Sie auf **Aktualisieren**.
+1. Klicken **Aktualisieren**.

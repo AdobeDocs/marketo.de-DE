@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 14C {#template-14c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html) herunterladen
+Rechtsklick auf [Download-Vorlage 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 

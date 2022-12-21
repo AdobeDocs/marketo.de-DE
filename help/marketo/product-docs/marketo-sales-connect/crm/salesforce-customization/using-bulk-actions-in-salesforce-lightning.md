@@ -1,89 +1,88 @@
 ---
 unique-page-id: 42762825
-description: Verwendung von Massenaktionen in Salesforce Lightning - Marketing Docs - Produktdokumentation
-title: Verwenden von Massenaktionen im Salesforce-Blitz
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Verwenden von Massenaktionen in Salesforce-Blitzen - Marketo-Dokumente - Produktdokumentation
+title: Verwenden von Massenaktionen in Salesforce-Blitzen
+exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Verwenden von Massenaktionen in Salesforce-Blitzen {#using-bulk-actions-in-salesforce-lightning}
 
-Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Interessenten zu einer Kampagne hinzufügen, eine Massen-E-Mail versenden oder Interessenten von Salesforce zu Sales Connect verschieben.
+Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne hinzufügen, eine Massen-E-Mail senden oder Leads von Salesforce an Sales Connect senden.
 
 >[!PREREQUISITES]
 >
->Aktualisieren Sie auf die neueste Version des Sales Connect-Pakets und installieren Sie die Schaltflächen für Massenaktionen in Ihrer Ansicht für Lead/Kontakt. [Klicken Sie hier für Anleitungen](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Aktualisieren Sie auf die neueste Version des Sales Connect-Packages und installieren Sie die Massen-Aktionsschaltflächen in Ihrer Lead-/Kontaktansicht. [Hier finden Sie Anweisungen.](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
->Bevor Sie die unten stehenden Schritte ausführen, stellen Sie sicher, dass Sie bei Ihrem Marketingto Sales Connect-Konto angemeldet sind.
+>Bevor Sie die folgenden Schritte ausführen, stellen Sie sicher, dass Sie bei Ihrem Marketo Sales Connect-Konto angemeldet sind.
 
-## Bulk Email {#bulk-email}
+## Massen-E-Mail {#bulk-email}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und wählen Sie dann die Liste der gewünschten Interessenten aus.
+1. Klicken Sie in Salesforce auf die **Leads** und wählen Sie dann die Liste der gewünschten Leads aus.
 
    ![](assets/one-6.png)
 
    >[!NOTE]
    >
-   >Wenn Sie bereits auf der Liste sind, die Sie verwenden werden, müssen Sie sie erneut ausführen, indem Sie sie aus der Dropdownliste auswählen, um sicherzustellen, dass die MSC-MSC-MSC-Massen-Aktionsschaltflächen angezeigt werden. Das ist Salesforce-Verhalten, das nicht geändert werden kann.
+   >Wenn Sie sich bereits auf der Liste befinden, die Sie verwenden werden, müssen Sie sie erneut ausführen, indem Sie sie aus der Dropdown-Liste auswählen, um sicherzustellen, dass die MSC-Aktionsschaltflächen angezeigt werden. Dies ist das Salesforce-Verhalten, das nicht geändert werden kann.
 
-1. Klicken Sie auf die Dropdownliste mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **E-Mail mit MSC**.
+1. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (rechts neben dem Bildschirm) und wählen Sie **E-Mail mit MSC**.
 
    ![](assets/two-6.png)
 
-1. Es erscheint eine MSC-E-Mail. Es umfasst die folgenden Funktionen:
+1. Daraufhin wird eine MSC-E-Mail angezeigt. Es umfasst die folgenden Funktionen:
 
-   a. &quot;An&quot;-Feld zeigt &quot;Alle Einnahmen&quot;- dies entspricht der Liste der Interessenten, die Sie in der Ansicht &quot;Interessentenanwerbung&quot;ausgewählt haben\
-   b. Diese Liste ist im linken Fensterbereich &quot;Massenzusammenstellung&quot;sichtbar - hier können Sie Empfänger hinzufügen/entfernen\
-   c. Sie können eine Vorlage auswählen oder eine eigene E-Mail erstellen\
-   d. Sie können die E-Mail sofort senden oder planen, sie zu einem späteren Zeitpunkt zu senden
+   a. Das Feld &quot;An&quot;zeigt &quot;Alle Quittungen&quot;- dies entspricht der Liste der Leads, die Sie in der Lead-Listenansicht ausgewählt haben\
+   b. Diese Liste ist im linken Bereich &quot;Bulk Composer&quot;sichtbar - Sie können hier Empfänger hinzufügen/entfernen\
+   c. Sie können eine Vorlage auswählen oder eine eigene E-Mail erstellen.\
+   d. Sie können die E-Mail sofort versenden oder den Versand planen, um sie zu einem späteren Zeitpunkt zu senden
 
    ![](assets/three-5.png)
 
-## hinzufügen in Kampagne {#add-to-campaign}
+## Zu  Kampagne hinzufügen {#add-to-campaign}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und wählen Sie dann die Liste der gewünschten Interessenten aus.
+1. Klicken Sie in Salesforce auf die **Leads** und wählen Sie dann die Liste der gewünschten Leads aus.
 
    ![](assets/four-4.png)
 
-1. Klicken Sie auf das Dropdownmenü mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **Hinzufügen auf MSC-Kampagne**.
+1. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (rechts neben dem Bildschirm) und wählen Sie **Zu MSC Campaign hinzufügen**.
 
    ![](assets/five-4.png)
 
-1. Es wird ein Popup &quot;Hinzufügen Personen zu Ihrer Kampagne&quot;angezeigt. Klicken Sie auf **Weiter** und gehen Sie durch den typischen Fluss der Kampagne, um eine MSC-Kampagne zu Trigger zu machen.
+1. Daraufhin wird das Popup &quot;Personen zu Ihrer Kampagne hinzufügen&quot;angezeigt. Klicken **Nächste** und gehen Sie durch den typischen Kampagnenfluss, um eine MSC-Kampagne Trigger.
 
    ![](assets/six-1.png)
 
-## Push to Marketing Sales Connect {#push-to-marketo-sales-connect}
+## In Marketo Sales Connect pushen {#push-to-marketo-sales-connect}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Interessenten** und wählen Sie dann die Liste der gewünschten Interessenten aus.
+1. Klicken Sie in Salesforce auf die **Leads** und wählen Sie dann die Liste der gewünschten Leads aus.
 
    ![](assets/seven-2.png)
 
-1. Klicken Sie auf die Dropdownliste mit dem Pfeil (ganz rechts auf dem Bildschirm) und wählen Sie **Nach MSC** verschieben.
+1. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (rechts neben dem Bildschirm) und wählen Sie **Push to MSC**.
 
    ![](assets/eight-2.png)
 
-1. Eine neue Registerkarte namens &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf die Schaltfläche **Fahren Sie mit Gruppe →** fort.
+1. Eine neue Registerkarte namens &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf **Fahren Sie zu Gruppe →** Schaltfläche.
 
    ![](assets/nine-2.png)
 
-1. Sie werden an Ihr MSC-Konto gesendet, wo eine mit Datum-/Zeitstempel erstellte Gruppe angezeigt wird. Sie erhalten eine Benachrichtigung, sobald die Synchronisierung abgeschlossen ist und die Gruppe die von Salesforce synchronisierten Interessenten enthält.
+1. Sie werden an Ihr MSC-Konto gesendet, wo eine mit Datums-/Uhrzeitstempel erstellte Gruppe angezeigt wird. Sie erhalten eine Benachrichtigung, sobald die Synchronisation abgeschlossen ist und die Gruppe die von Salesforce synchronisierten Leads enthält.
 
    ![](assets/ten-1.png)
 
 >[!NOTE]
 >
->Sie können die gleichen Schritte ausführen, um Massenaktionen auch in der Ansicht Liste Kontakt zu verwenden.
+>Sie können dieselben Schritte ausführen, um auch Massenaktionen in der Kontaktlisten-Ansicht zu verwenden.
 
 >[!MORELIKETHIS]
 >
->* [Senden von E-Mails per E-Mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [Erstellen von Massen-E-Mails mit &quot;Auswählen&quot;und &quot;Senden&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Senden von E-Mails über Gruppen-E-Mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Erstellen von Massen-E-Mails mit Auswählen und Senden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 

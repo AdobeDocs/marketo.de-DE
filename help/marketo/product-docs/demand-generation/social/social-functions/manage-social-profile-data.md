@@ -1,82 +1,81 @@
 ---
 unique-page-id: 2950578
-description: Social-Profil-Daten verwalten - Marketing-Dokumente - Produktdokumentation
-title: Social-Profil-Daten verwalten
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Social-Profildaten verwalten - Marketo-Dokumente - Produktdokumentation
+title: Social-Profildaten verwalten
+exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
+# Social-Profildaten verwalten {#manage-social-profile-data}
 
-# Social-Profil-Daten verwalten {#manage-social-profile-data}
+Interaktion mit einer Marketo [Social App](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), oder autorisiert ihr soziales Netzwerk, ein Marketo-Formular vorab auszufüllen mit [Soziales Formular ausfüllen](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), erfasst Marketo alle Daten, die über ihr Social-Profil verfügbar sind. Diese Informationen finden Sie im [Seite &quot;Personendetails&quot;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)oder fügen Sie sie als Spalte in einer [benutzerdefinierte Ansicht einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
-Wenn jemand mit einer Marketing [Social-App](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) interagiert oder ihr soziales Netzwerk autorisiert, ein Marketing-Formular mit [Social-Formularausfüllung](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md) im Voraus auszufüllen, erfasst Marketo alle Daten, die in ihrem Social-Profil verfügbar sind. Sie können diese Informationen auf der Seite [Personendetails](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) oder als Spalte in einer [benutzerdefinierten Ansicht einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) Ansicht hinzufügen.
-
-In Social-Formularen und Social-Apps werden leicht unterschiedliche Feldsätze erfasst. siehe den Abschnitt für die einzelnen unten.
+Social-Formulare und Social-Apps erfassen leicht unterschiedliche Feldsätze. sehen Sie den Abschnitt für jeden unten.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 ## Erfasst über Social App {#captured-via-social-app}
 
-Je nach den Datenschutzeinstellungen des Netzwerks und des Benutzers werden eines oder mehrere der folgenden Felder abgerufen:
+Je nach den Datenschutzeinstellungen des Netzwerks und des Benutzers werden eines oder mehrere dieser Felder abgerufen:
 
 >[!NOTE]
 >
->Die zusätzlichen Informationen aus sozialen Netzwerken werden auf der Seite &quot;Personendetails&quot;etwa fünf Minuten nach der Erlaubnis der Person angezeigt.
+>Die zusätzlichen Informationen aus sozialen Netzwerken werden auf der Seite &quot;Personendetails&quot;ca. fünf Minuten nach der Erlaubnis der Person angezeigt.
 
-## Von Twitter: {#from-twitter}
+## In Twitter: {#from-twitter}
 
-* Vorname (analysiert aus Anzeigename)
-* Nachname (analysiert aus Anzeigename)
-* Profil Foto-URL
-* URL der Profil-Seite
-* Soziale Reichweite (Follower-Anzahl)
+* Vorname (basierend auf Anzeigename geparst)
+* Nachname (basierend auf Anzeigename geparst)
+* Profilfoto-URL
+* Profilseiten-URL
+* Soziale Reichweite (Anzahl der Follower)
 
 >[!NOTE]
 >
 >Social-Apps rufen die E-Mail-Adresse der Person nicht ab.
 
-## Von Facebook: {#from-facebook}
+## In Facebook: {#from-facebook}
 
 * Vorname
 * Nachname
 * Profil-URL
-* Profil Foto-URL
+* Profilfoto-URL
 * Geschlecht
-* Soziale Reichweite (Anzahl der Freunde)
+* Soziale Reichweite (Anzahl Freunde)
 
-### Erfasst über Social-Formularausfüllung {#captured-via-social-form-fill}
+### Erfasst über Social-Formular {#captured-via-social-form-fill}
 
-Je nach den Datenschutzeinstellungen des Netzwerks und des Benutzers werden eines oder mehrere der folgenden Felder abgerufen:
+Je nach den Datenschutzeinstellungen des Netzwerks und des Benutzers werden eines oder mehrere dieser Felder abgerufen:
 
 >[!CAUTION]
 >
->Durch das Ausfüllen sozialer Formulare erfasste Daten überschreiben übereinstimmende Felder, es sei denn, Sie [blockieren Aktualisierungen dieser Felder auf Formularebene](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
+>Durch das Ausfüllen von sozialen Formularen erfasste Daten überschreiben übereinstimmende Felder, es sei denn, Sie [Blockaktualisierungen dieser Felder auf Formularebene](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## Von Twitter: {#from-twitter-1}
+## In Twitter: {#from-twitter-1}
 
-* Vorname (analysiert aus Anzeigename)
-* Nachname (analysiert aus Anzeigename)
-* Email
+* Vorname (basierend auf Anzeigename geparst)
+* Nachname (basierend auf Anzeigename geparst)
+* E-Mail
 
 ## Von Facebook: {#from-facebook-1}
 
 * Vorname
 * Nachname
-* Email
+* E-Mail
 * Geburtsdatum
-* Auftragstitel
-* Firma
+* Jobtitel
+* Unternehmen
 
 >[!NOTE]
 >
->Beim Ausfüllen eines sozialen Formulars wird die E-Mail-Adresse _nur dann erfasst, wenn die Person sie in das Formular eingibt._ Wenn Sie die E-Mail-Adresse benötigen, sollten Sie [sie zu einem erforderlichen Feld in Ihrem Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) machen.
+>Durch das Ausfüllen eines Social-Formulars wird die E-Mail-Adresse erfasst _only_ wenn die Person sie in das Formular eingibt. Wenn Sie die E-Mail-Adresse benötigen, sollten Sie [Machen Sie es zu einem erforderlichen Feld in Ihrem Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Um diese Informationen aus Formularen zu erfassen, aktivieren Sie die Option [Ausfüllen sozialer Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
+>Um diese Informationen aus Formularen zu erfassen, aktivieren Sie [Soziales Formular ausfüllen](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).

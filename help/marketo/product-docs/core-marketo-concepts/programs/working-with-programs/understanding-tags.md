@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147112
-description: Tags - Marketo Dokumente - Produktdokumentation
-title: Tags
+description: Grundlegendes zu Tags - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu Tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,25 +10,25 @@ ht-degree: 3%
 
 ---
 
-# Tags {#understanding-tags}
+# Grundlegendes zu Tags {#understanding-tags}
 
-Sie wissen inzwischen wahrscheinlich, dass Programme wie Bausteine in Marketo sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten für Berichte.
+Wahrscheinlich wissen Sie inzwischen, dass Programme wie Bausteine in Marketo sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten zu Berichtszwecken.
 
-Tags werden zur Beschreibung von Programmen verwendet. Sie können so viele machen, wie Sie benötigen, mit jeweils eindeutigen Werten. Kanal identifizieren den Mechanismus des Versands in einem Programm, z. B. Webinar, Sponsoring oder Online-Anzeige.
+Tags dienen zur Beschreibung von Programmen. Sie können so viele erstellen, wie Sie benötigen, mit jeweils eindeutigen Werten. Kanäle identifizieren den Bereitstellungsmechanismus in einem Programm, z. B. Webinar, Sponsoring oder Online-Anzeige.
 
 ## Tag-Typ {#tag-type}
 
-Tag-Typen kennzeichnen die Art der Informationen, nach denen Sie sortieren möchten.
+Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren möchten.
 
 >[!TIP]
 >
->Wenden Sie sich an Ihren [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md), wenn Sie benutzerdefinierte Tags erstellen möchten.
+>Sprechen Sie mit Ihrem [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) , wenn Sie benutzerdefinierte Tags erstellen möchten.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->* Tag-Typ = Programm-Inhaber
+>* Tag-Typ = Programmeigentümer
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
@@ -42,22 +41,22 @@ Jeder Tag-Typ verfügt über Werte, aus denen Sie auswählen können.
 >
 >**Beispiel**
 >
->* Tagwerte = Anna, Arun, Reza
+>* Tag-Werte = Anna, Arun, Reza
 
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## Kanal {#channel}
 
-Kanal werden verwendet, um zu berichten, wie Ihre [Mitglieder](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) durch Ihr Programm verschoben wurden. Jeder Kanal verfügt über eine Reihe von Status für die Progression und einen Status, der als gleicher Erfolg festgelegt ist.
+Kanäle werden verwendet, um Berichte zur [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) durch Ihr Programm verschoben. Jeder Kanal verfügt über eine Reihe von Fortschrittsstatus und einen Status, der auf &quot;gleicher Erfolg&quot;festgelegt ist.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
 >* Kanal = Roadshow
->* Status der Progression = Eingeladen, Registriert, teilgenommen, Keine Anzeige
->* Erfolg = teilgenommen
+>* Progressionsstatus = Eingeladen, Registriert, Angewendet, Keine Anzeige
+>* Erfolg = Teilnehmer
 
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
@@ -65,5 +64,5 @@ Kanal werden verwendet, um zu berichten, wie Ihre [Mitglieder](/help/marketo/pro
 >[!MORELIKETHIS]
 >
 >* [Benutzerdefinierte Tags erstellen](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [Erstellen eines Programm-Kanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [Erstellen eines Programmkanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 

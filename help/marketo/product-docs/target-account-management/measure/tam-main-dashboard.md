@@ -1,42 +1,41 @@
 ---
 unique-page-id: 11380783
-description: TAM Main Dashboard - Marketing Docs - Produktdokumentation
-title: TAM Main Dashboard
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: TAM-Haupt-Dashboard - Marketo-Dokumente - Produktdokumentation
+title: TAM-Haupt-Dashboard
+exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
+# TAM-Haupt-Dashboard {#tam-main-dashboard}
 
-# TAM Main Dashboard {#tam-main-dashboard}
-
-Das Hauptkonto enthält eine Zusammenfassung Ihrer Kontoverwaltungsbemühungen in Ihrer Zielgruppe. Sie können die Zielgruppen- oder Kontokonten sehen, die erfolgreich sind, und die Listen, die mehr Aufmerksamkeit benötigen.
+Das Haupt-Dashboard bietet eine Zusammenfassung Ihrer Target-Kontoverwaltungsbemühungen. Sie können die Zielkonten oder Kontolisten sehen, die erfolgreich sind, und diejenigen, die mehr Aufmerksamkeit benötigen.
 
 ![](assets/one.png)
 
-Klicken Sie auf die Dropdown-Liste Ansicht, um nach Liste des Kontos zu filtern...
+Um nach Kontoliste zu filtern, klicken Sie auf das Dropdown-Menü Ansicht ...
 
 ![](assets/two.png)
 
-...und eine Auswahl treffen. In diesem Beispiel wählen wir unsere Liste für High-Tech-Konten.
+...und eine Auswahl treffen. In diesem Beispiel wählen wir unsere &quot;High-Tech&quot;-Kontoliste.
 
 ![](assets/three.png)
 
-Klicken Sie zur Ansicht des Dashboards [Konto-Liste](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard) auf den Namen der ausgewählten Konto-Liste...
+So zeigen Sie die [Dashboard &quot;Kontoliste&quot;](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard)klicken Sie auf den Namen der von Ihnen ausgewählten Kontoliste..
 
 ![](assets/four.png)
 
-...und das Dashboard lädt.
+...und das Dashboard wird geladen.
 
 ![](assets/five.png)
 
-Wenn Sie nicht das Dashboard Kontoinformationen anzeigen möchten, das Sie im Drilldown-Verfahren zu einem benannten Liste-Konto aufrufen möchten, klicken Sie unter dessen Namen auf **Mehr Details**...
+Wenn Sie sich nicht das Dashboard der Kontoliste ansehen möchten, sondern einen Drilldown in ein benanntes Konto durchführen möchten, klicken Sie auf **Weitere Details** unter seinem Namen...
 
 ![](assets/six.png)
 
-...und Ansicht der Einblicke des [benannten Kontos](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...und zeigen Sie die [Einblicke des benannten Kontos](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

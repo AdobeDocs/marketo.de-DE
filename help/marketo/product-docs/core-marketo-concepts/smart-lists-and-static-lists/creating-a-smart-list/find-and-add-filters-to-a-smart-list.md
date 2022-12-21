@@ -1,9 +1,8 @@
 ---
 unique-page-id: 557273
-description: Suchen und Hinzufügen von Filtern zu einer intelligenten Liste - Marketo Docs - Produktdokumentation
-title: Filter für eine intelligente Liste suchen und Hinzufügen
+description: Suchen und Hinzufügen von Filtern zu einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
+title: Suchen und Hinzufügen von Filtern zu einer Smart-Liste
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
@@ -11,36 +10,36 @@ ht-degree: 0%
 
 ---
 
-# Suchen und Hinzufügen von Filtern in einer Smart-Liste {#find-and-add-filters-to-a-smart-list}
+# Suchen und Hinzufügen von Filtern zu einer Smart-Liste {#find-and-add-filters-to-a-smart-list}
 
-Nachdem Sie [eine intelligente Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) erstellt haben, müssen Sie [definieren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)-Filter hinzufügen und definieren. Hier erfahren Sie, wie Sie Filter finden und hinzufügen.
+Sobald du [eine Smart-Liste erstellt hat](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), müssen Sie und [definieren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md) Filter. So können Sie Filter finden und hinzufügen.
 
-In diesem Beispiel sollten wir alle Menschen in Kalifornien mit einer Punktzahl über 50 finden.
+In diesem Beispiel finden wir alle Menschen in Kalifornien mit einer Punktzahl über 50.
 
 >[!TIP]
 >
->Entdecken Sie den Baum auf der rechten Seite - Filter sind sehr leistungsstark und haben eine große Auswahl an Funktionen.
+>Erkunden Sie den Baum auf der rechten Seite - Filter sind sehr leistungsstark und haben eine Vielzahl von Funktionen.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie die intelligente Liste aus, der Sie Filter hinzufügen möchten, und klicken Sie auf die Registerkarte **Intelligente Liste**.
+1. Wählen Sie die Smart-Liste aus, der Sie Filter hinzufügen möchten, und klicken Sie auf **Smart List** Registerkarte.
 
    ![](assets/two.png)
 
-1. Suchen Sie den Filter **State** und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen und Ziehen **state** auf die Arbeitsfläche.
 
    ![](assets/three.png)
 
-1. Suchen und ziehen Sie den Filter **Ergebnis**.
+1. Suchen und ziehen Sie außerdem **Ergebnis** nach.
 
    ![](assets/four.png)
 
-Perfekt! Lasst uns diese Filter definieren.
+Perfekt! Definieren wir diese Filter.
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Definieren von Filtern für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+>* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Definieren von Smart-List-Filtern](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 

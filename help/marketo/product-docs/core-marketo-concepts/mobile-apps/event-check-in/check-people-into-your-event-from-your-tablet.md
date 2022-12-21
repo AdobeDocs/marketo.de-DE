@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949839
-description: Überprüfen Sie Personen auf Ihrem Tablet - Marketo Docs - Produktdokumentation auf Ihr Ereignis.
-title: Personen von Ihrem Tablet in Ihr Ereignis einchecken
+description: Überprüfen Sie Personen in Ihr Ereignis auf Ihrem Tablet - Marketo-Dokumente - Produktdokumentation
+title: Personen in Ihr Ereignis einchecken über Ihr Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Personen auf Ihrem Tablet {#check-people-into-your-event-from-your-tablet} in Ihr Ereignis einchecken
+# Personen in Ihr Ereignis einchecken über Ihr Tablet {#check-people-into-your-event-from-your-tablet}
 
-Wenn Personen in Ihrem Ereignis angezeigt werden, finden Sie deren Informationen in der App. Nach dem Check-in werden sie beim Synchronisieren mit Marketo zum Status &quot;Angehalten&quot;befördert.
+Wenn Personen bei Ihrer Veranstaltung angezeigt werden, finden Sie deren Informationen in der App. Nach dem Einchecken werden sie bei der Synchronisierung mit Marketo zum Status &quot;Beendet&quot;beworben.
 
-Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Layout- und Designunterschiede.
+Das Programm funktioniert sowohl auf iPad als auch auf Android gleich, mit Ausnahme kleiner Unterschiede bei Layout und Design.
 
 >[!PREREQUISITES]
 >
->* Erstellen Sie ein Ereignis in Marketo und füllen Sie es mit eingeladenen und registrierten Personen aus.
->* Laden Sie die Tablet-App für [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) oder [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8) herunter
+>* Erstellen Sie ein Ereignis in Marketo und fügen Sie es mit eingeladenen und registrierten Personen ein.
+>* Herunterladen der Tablet-App für [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) oder [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 
-## Registrierte Gäste {#check-in-registered-guests}
+## Einchecken registrierter Gäste {#check-in-registered-guests}
 
-1. Tippen Sie auf das App-Symbol auf Ihrem iPad oder Android-Tablet.
+1. Tippen Sie auf das App-Symbol auf Ihrem iPad- oder Android-Tablet.
 
-1. Tippen Sie auf **Anmelden**, um die Marketo Ereignis-App zu starten.
+1. Tippen **Anmelden** , um die Marketo Event-App zu starten.
 
    ![](assets/1.jpg)
 
@@ -35,25 +34,25 @@ Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Lay
 
    >[!NOTE]
    >
-   >Sie müssen über eine Rolle mit Zugriff auf die Datenbank verfügen, um Benutzer in der App anzuzeigen.
+   >Sie müssen über eine Rolle mit Zugriff auf die Datenbank verfügen, um Personen in der App anzuzeigen.
 
-1. Wählen Sie ein **Ereignis**.
+1. Wählen Sie eine **Ereignis**.
 
    ![](assets/2.jpg)
 
    >[!TIP]
    >
-   >Es werden nur Ereignis-Programms (mit Ausnahme von Webinaren) angezeigt, die eine Woche vor und eine Woche nach dem heutigen Datum geplant sind.
+   >Es werden nur Veranstaltungsprogramme (mit Ausnahme von Webinaren) angezeigt, die eine Woche vor und eine Woche nach dem heutigen Datum geplant sind.
 
 1. Suchen Sie auf dem Startbildschirm nach registrierten Gästen. Um eine Person in der Liste zu finden, können Sie:
 
-   * Scrollen, um einen Namen zu suchen
+   * Scrollen Sie nach einem Namen
    * Geben Sie einen Namen in das Suchfeld ein
-   * Springen Sie zu einem bestimmten Anfangsbuchstaben des Nachnamens, indem Sie auf der rechten Seite der Liste darauf tippen
+   * Wechseln Sie zu einem bestimmten ersten Buchstaben des Nachnamens, indem Sie auf der rechten Seite der Liste auf den entsprechenden Buchstaben tippen.
 
    >[!NOTE]
    >
-   >Der Vorgang ist auf dem iPad und Android gleich, aber die Bildschirme unterscheiden sich, und Elemente können sich an unterschiedlichen Positionen befinden. Dieser Artikel enthält die iPad-Oberfläche. Vergleichen Sie den Android-Bildschirm in diesem Abschnitt als Referenz.
+   >Der Prozess ist in iPad und Android identisch, die Bildschirme unterscheiden sich jedoch, und die Elemente können sich an verschiedenen Orten befinden. In diesem Artikel wird die Benutzeroberfläche von iPad beschrieben. Vergleichen Sie den Android-Bildschirm in diesem Abschnitt zur Referenz.
 
    **iPad**
 
@@ -63,11 +62,11 @@ Die App funktioniert auf dem iPad und Android gleich, mit Ausnahme kleinerer Lay
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tippen Sie auf den ausgewählten Namen und dann im Personendatensatz auf **Check-in**.
+1. Tippen Sie auf den ausgewählten Namen und tippen Sie im Personendatensatz auf **Einchecken**.
 
    ![](assets/img-0068-35-hands.png)
 
-Der Gast hat jetzt den Status &quot;Angenommen&quot;und erhält ein Häkchen. Der Personendatensatz wird bei der Synchronisierung mit Marketo aktualisiert. Der rote Zähler auf der Synchronisierungsschaltfläche wird inkrementiert, um die Anzahl der Check-ins seit der letzten Synchronisierung mit Marketo anzuzeigen. Die Schaltfläche &quot;Synchronisieren&quot;sieht anders aus und befindet sich für iPad und Android an einem anderen Speicherort:
+Der Gast hat jetzt den Status &quot;Geplant&quot;und erhält ein Häkchen. Der Personendatensatz wird bei der Synchronisierung mit Marketo aktualisiert. Der rote Zähler auf der Schaltfläche Synchronisieren wird erhöht und zeigt die Anzahl der Check-ins seit der letzten Synchronisation mit Marketo an. Die Schaltfläche &quot;Synchronisieren&quot;sieht anders aus und befindet sich an einem anderen Speicherort für iPad und Android:
 
 **iPad**
 
@@ -79,13 +78,13 @@ Der Gast hat jetzt den Status &quot;Angenommen&quot;und erhält ein Häkchen. De
 
 >[!TIP]
 >
->Wenn eine Person eingeladen wurde, sich aber nicht registriert hat, können Sie nach dem Namen suchen, indem Sie auf **Suche auf Server** klicken, direkt unterhalb des Suchfelds. Der Status &quot;Eingeladen&quot;ändert sich für das Ereignis in **Anwesend**.
+>Wenn eine Person eingeladen, sich aber nicht registriert hat, können Sie nach dem Namen suchen, indem Sie auf **Suche auf dem Server**, direkt unter dem Suchfeld. Der Status Eingeladen ändert sich in **Angemeldet** für das Ereignis.
 
-## Neue Person auf dem Tablet {#create-a-new-person-on-the-tablet} erstellen
+## Erstellen einer neuen Person auf der Registerkarte {#create-a-new-person-on-the-tablet}
 
-Sie können Gäste, die keine Personen sind, manuell in Ihre Marketo-Datenbank aufnehmen. Sie werden automatisch eingecheckt und Ihrer Datenbank hinzugefügt, wenn Sie mit Marketo synchronisieren.
+Sie können in Ihrer Marketo-Datenbank nicht vorhandene Gäste manuell hinzufügen. Sie werden automatisch eingecheckt und Ihrer Datenbank hinzugefügt, wenn Sie mit Marketo synchronisieren.
 
-1. Klicken Sie auf **Hinzufügen**.
+1. Klicken **Hinzufügen**.
 
    **iPad**
 
@@ -105,25 +104,25 @@ Sie können Gäste, die keine Personen sind, manuell in Ihre Marketo-Datenbank a
 
    >[!CAUTION]
    >
-   >Überprüfen Sie die E-Mail-Adresse bei der Dublette. Andere Felder können später korrigiert werden, aber die E-Mail-Adresse ist die primäre Methode, um den Gast zu kontaktieren.
+   >Überprüfen Sie die E-Mail-Adresse. Andere Felder können später korrigiert werden, aber die E-Mail-Adresse ist die primäre Methode, den Gast zu kontaktieren.
 
-Die neue Person ist als bei Ihrem Ereignis eingecheckt registriert und wird bei der Synchronisierung mit Marketo der Marketo-Datenbank mit dem Status &quot;Beendet&quot;hinzugefügt.
+Die neue Person wird als bei Ihrem Ereignis eingecheckt und bei der Synchronisierung mit Marketo der Marketo-Datenbank mit dem Status &quot;Geplant&quot;hinzugefügt.
 
-## Umkehren eines Check-ins {#reverse-a-check-in}
+## Ein Einchecken umkehren {#reverse-a-check-in}
 
-Wenn Sie versehentlich eine Person, _vor der Synchronisierung mit Marketo_, eingecheckt haben, können Sie den Status &quot;Teilnehmer&quot;umkehren.
+Wenn Sie versehentlich bei einer Person eingecheckt haben, _vor der Synchronisierung mit Marketo_ können Sie den Status &quot;Geplant&quot;umkehren.
 
-1. Tippen Sie in der Liste auf den Namen und im Personensatz auf **Rückgängig**.
+1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **Rückgängig**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   Alles fest!
+   Alles repariert!
 
-## Einen Personensatz beim Check-In bearbeiten {#edit-a-person-record-at-check-in}
+## Bearbeiten eines Personendatensatzes beim Einchecken {#edit-a-person-record-at-check-in}
 
-Sie können Gastinformationen direkt am Ereignis hinzufügen und ändern!
+Sie können Gastinformationen direkt bei der Veranstaltung hinzufügen und ändern!
 
-1. Tippen Sie auf den Namen in der Liste &quot;people&quot;und dann auf **Edit**.
+1. Tippen Sie auf den Namen in der Personenliste und dann auf **Bearbeiten**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
@@ -133,40 +132,40 @@ Sie können Gastinformationen direkt am Ereignis hinzufügen und ändern!
 
    >[!NOTE]
    >
-   >In Android kann die Schaltfläche **Fertig** ausgeblendet sein. Blättern Sie nach unten, um es zu finden.
+   >Unter Android wird die **Fertig** -Schaltfläche ausgeblendet sein. Scrollen Sie nach unten, um ihn zu finden.
 
 Die Informationen werden aktualisiert, wenn Sie die App mit Marketo synchronisieren.
 
 ## Synchronisieren der App mit Marketo {#sync-the-app-with-marketo}
 
-Die Marketo Ereignisses-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder mit der Marketo-Datenbank synchronisieren. Es ist am besten, so bald wie möglich nach dem letzten Check-in zu synchronisieren. Ihr Tablet muss mit dem Internet verbunden sein.
+Die Marketo Events-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder mit der Marketo-Datenbank synchronisieren. Es ist am besten, so bald wie möglich nach dem letzten Einchecken zu synchronisieren. Ihr Tablet muss mit dem Internet verbunden sein.
 
 >[!CAUTION]
 >
->Nach der Synchronisierung können Sie einen Check-in nicht mehr in der App rückgängig machen.
+>Nach der Synchronisierung können Sie ein Einchecken aus der App nicht rückgängig machen.
 
 1. Öffnen Sie auf Ihrem Tablet die App und navigieren Sie zu Ihrem Ereignis.
 
-1. Tippen Sie auf **Synchronisieren**.
+1. Tippen **Synchronisieren**.
 
-   Ihr Ereignis wird mit neuen Check-ins in der Marketo-Datenbank aktualisiert. Der rote Zähler auf der Schaltfläche &quot;Synchronisieren&quot;wird gelöscht, bis Sie einen anderen Benutzer einchecken.
+   Ihr Ereignis wird mit neuen Check-ins in der Marketo-Datenbank aktualisiert. Der rote Zähler auf der Synchronisierungsschaltfläche wird gelöscht, bis Sie einen anderen Benutzer einchecken.
 
-   Aus Sicherheitsgründen sollten Sie die Marketo Ereignisses-App beenden, nachdem Sie die Synchronisierung abgeschlossen haben.
+   Aus Sicherheitsgründen sollten Sie die Marketo Events-App beenden, nachdem Sie die Synchronisierung abgeschlossen haben.
 
 ## Arbeiten mit eingeschränktem Internetzugang {#working-with-limited-internet-access}
 
 Einige Veranstaltungsorte haben einen lausigen Internetzugang. Sie benötigen eine gute Verbindung zu:
 
-* Herunterladen und Installieren der App
+* Herunterladen und Installieren des Programms
 * Anmeldung
-* Ereignis auswählen
+* Auswählen eines Ereignisses
 * Synchronisieren der App mit Marketo
 
-Wenn Sie sich wegen des Internetzugangs am Veranstaltungsort Sorgen machen, können Sie sich bei der Marketo Ereignisses-App anmelden und Ihr Ereignis im Voraus auswählen, an einem Ort mit starkem Internetzugang. Auf diese Weise können Sie die App weiterhin offline verwenden. Wenn Sie dann wieder eine Internetverbindung herstellen, synchronisieren Sie diese sofort mit der Marketo-Datenbank.
+Wenn Sie sich wegen des Internetzugangs am Veranstaltungsort Sorgen machen, können Sie sich bei der Marketo Events-App anmelden und Ihre Veranstaltung vorab an einem Ort mit starkem Internetzugang auswählen. Auf diese Weise können Sie die App weiterhin offline verwenden. Wenn Sie dann wieder eine Internetverbindung herstellen, synchronisieren Sie sofort mit der Marketo-Datenbank.
 
 >[!TIP]
 >
->Wenn Sie keine Internetverbindung haben, können Sie dennoch eine neue Person für eine Person erstellen, die sich anmeldet. Es wird mit der vorhandenen Person abgeglichen, wenn Sie die App synchronisieren.
+>Wenn Sie keine Internetverbindung haben, können Sie noch eine neue Person für eine Person erstellen, die eincheckt. Sie stimmen bei der Synchronisierung der App mit der vorhandenen Person überein.
 
 >[!NOTE]
 >

@@ -1,39 +1,38 @@
 ---
 unique-page-id: 3571892
-description: Verwendung von Feldorganisatoren - Marketing-Dokumente - Produktdokumentation
-title: Verwenden von Feldorganizern
-translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+description: Verwenden von Field Organizers - Marketo Docs - Produktdokumentation
+title: Verwenden von Feld-Organizern
+exl-id: 578969f7-9380-4019-9b86-85c659a216b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Verwenden von Feld-Organizern {#using-field-organizers}
 
-# Verwenden von Feldorganisatoren {#using-field-organizers}
+Mithilfe der Feldorganisatoren können Sie bestimmte Felder aus allen möglichen Werten angeben. Sie können beispielsweise aussagekräftige Gruppierungen wie Westküste und Ostküste für das Territorialfeld erstellen. So können Berichte schneller ausgeführt werden.
 
-Anhand der Feldorganisatoren können Sie bestimmte Felder aus allen verfügbaren Werten auswählen. Sie können beispielsweise aussagekräftige Gruppierungen für das Territorialfeld erstellen, z. B. Westküste und Ostküste. Auf diese Weise können Berichte schneller ausgeführt werden.
+Die Organisatoren der Felder ähneln den Segmentierungen, die im Allgemeinen verwendet werden, doch werden Feldorganisatoren für die Berichterstellung auf Feldebene verwendet.
 
-Feldorganisatoren ähneln Segmenten, die im Allgemeinen verwendet werden, aber Feldorganisatoren werden für den Berichte auf Feldebene verwendet.
-
-Sie können bis zu drei benutzerspezifische Segmentationen in einer Liste haben.
+Sie können bis zu drei benutzerdefinierte Segmentierungen in einer Feldliste haben.
 
 Es gibt keinen spezifischen Bericht &quot;Feldorganisatoren&quot;.
 
-Feldorganisatoren werden in der Analyse zur Modellleistung verwendet.
+Field Organizers werden in der Modellleistungsanalyse verwendet.
 
-## Erstellen von Feldorganizern {#how-to-create-field-organizers}
+## Erstellen von Feld-Organizern {#how-to-create-field-organizers}
 
-1. Klicken Sie auf **Datenbank**.
+1. Klicken **Datenbank**.
 
    ![](assets/db.png)
 
-1. Wählen Sie unter **New** **New Field Organizer**.
+1. under **Neu** auswählen **Neuer Feld-Organizer**.
 
    ![](assets/two-1.png)
 
-1. Wählen Sie unter **Feld** ein Attribut aus. Beschreibung ist optional.
+1. under **Feld**, wählen Sie ein Attribut aus. Beschreibung ist optional.
 
    ![](assets/three-1.png)
 
@@ -41,12 +40,12 @@ Feldorganisatoren werden in der Analyse zur Modellleistung verwendet.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Benennen Sie die Gruppe und geben Sie die entsprechenden Daten ein (dies hängt vom Datentyp des ausgewählten Felds ab). Klicken Sie auf **Hinzufügen**.
+1. Benennen Sie die Gruppe und geben Sie die entsprechenden Daten ein (dies hängt vom Datentyp des ausgewählten Felds ab). Klicken **Gruppe hinzufügen**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
-Erstellen Sie bei Bedarf auf die gleiche Weise weitere Feldorganisatoren. Und da bist du.
+Erstellen Sie bei Bedarf auf die gleiche Weise weitere Organisatoren für Felder. Und da bist du.
 
 >[!MORELIKETHIS]
 >
->[Erstellen benutzerdefinierter Feldgruppen mithilfe des Feldorganisierers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+>[Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

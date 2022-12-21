@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14352470
-description: Erstellen Sie einen Salesforce-Prioritätsaufrufbericht mit Sales Connect-Daten - Marketing-Dokumente - Produktdokumentation
-title: Erstellen Sie einen Salesforce-Bericht mit Sales Connect-Daten.
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Erstellen eines Salesforce-Prioritätsaufrufberichts mit Sales Connect-Daten - Marketo Docs - Produktdokumentation
+title: Erstellen eines Salesforce-Prioritätsaufrufberichts mit Sales Connect-Daten
+exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Erstellen eines Salesforce-Prioritätsaufrufberichts mit Sales Connect-Daten {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
-# Erstellen Sie einen Salesforce-Prioritätsaufrufbericht mit Sales Connect-Daten {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+Erfahren Sie, wie Sie mit Sales Connect-E-Mail-Interaktionsdaten einen Salesforce-Bericht/eine Salesforce-Anruferliste erstellen, um sich auf Personen oder Chancen mit Dynamik zu konzentrieren.
 
-Erfahren Sie, wie Sie eine Salesforce-Bericht-/Call-Liste mithilfe von Sales Connect-E-Mail-Interaktionsdaten erstellen, um sich auf Personen oder Chancen mit Dynamik zu konzentrieren.
-
-1. Wechseln Sie zur Registerkarte &quot;SFDC-Bericht&quot;.
-1. Erstellen Sie einen Bericht mit &quot;Aufgaben und Ereignis&quot;.
-1. Legen Sie Ihre Filter fest und wählen Sie einen Datumsbereich.
-1. Ziehen Sie Sales Connect-Daten in Ihre Spalten, indem Sie &quot;Marketing to Sales&quot;in die Feldsuche eingeben. Nachdem Sie Sales Connect-Daten hinzugefügt haben, fügen Sie eine Spalte für die Telefonnummer hinzu, damit Sie in diesem Bericht Maßnahmen ergreifen und ihn als Call-Liste verwenden können.
-1. Führen Sie den Bericht aus und sortieren Sie nach verfolgten Sales Connect-Ereignissen. Dadurch werden die Menschen mit der meisten Aktivität in Ihren E-Mails beleuchtet. Stellen Sie sicher, dass Sie die nächsten Schritte mit diesen Top-Personen planen oder dass Sie sie an diesem Tag zu einer Priorität machen. Mit einer hohen Zahl ist die Dynamik wahrscheinlich.
+1. Gehen Sie zur Registerkarte SFDC-Bericht .
+1. Erstellen Sie einen Bericht mit &quot;Aufgaben und Ereignisse&quot;.
+1. Legen Sie Ihre Filter fest und wählen Sie einen Datumsbereich aus.
+1. Ziehen Sie Sales Connect -Daten in Ihre Spalten, indem Sie &quot;Marketo Sales&quot;in die Feldsuche eingeben. Nachdem Sie Sales Connect-Daten hinzugefügt haben, fügen Sie eine Spalte für Telefonnummer hinzu, damit Sie Aktionen für diesen Bericht durchführen und ihn als Aufrufliste verwenden können.
+1. Führen Sie den Bericht aus und sortieren Sie nach getrackten Sales Connect-Ereignissen. Dadurch werden die Personen mit der größten Aktivität in Ihren E-Mails in die Luft getrieben. Stellen Sie sicher, dass Sie entweder die nächsten Schritte mit diesen Personen planen oder sie an diesem Tag zu einer Priorität machen. Mit einer hohen Zahl ist die Dynamik wahrscheinlich.

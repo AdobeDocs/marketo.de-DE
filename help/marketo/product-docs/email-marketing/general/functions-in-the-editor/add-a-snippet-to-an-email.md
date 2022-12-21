@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1147358
-description: hinzufügen eines Snippets an eine E-Mail - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Snippets in eine E-Mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Hinzufügen eines Snippets zu einer E-Mail - Marketo Docs - Produktdokumentation
+title: Hinzufügen eines Snippets zu einer E-Mail
+exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
+# Hinzufügen eines Snippets zu einer E-Mail {#add-a-snippet-to-an-email}
 
-# hinzufügen eines Ausschnitts an eine E-Mail {#add-a-snippet-to-an-email}
-
-Snippets sind wiederverwendbare Textblöcke und Grafiken, die Sie in Ihren E-Mails und Landingpages verwenden können.
+Snippets sind wiederverwendbare Blöcke von Rich-Text und Grafiken, die Sie in E-Mails und Landingpages verwenden können.
 
 >[!PREREQUISITES]
 >
@@ -21,17 +20,17 @@ Snippets sind wiederverwendbare Textblöcke und Grafiken, die Sie in Ihren E-Mai
 
 >[!NOTE]
 >
->Sie können keine [Marketo-E-Mail-Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in Snippets einbetten. Es funktioniert **nicht** in einer E-Mail. Snippets sollten nur Textinhalt (HTML + TEXT) sein.
+>Sie können keine [Marketo-E-Mail-Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in Snippets; wird **not** in einer E-Mail arbeiten. Snippets sollten nur Textinhalt sein (HTML + TEXT).
 
 1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-2.png)
 
-1. Wählen Sie den bearbeitbaren Bereich aus, den Sie in ein Snippet konvertieren möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Ersetzen durch Snippet**.
+1. Wählen Sie den bearbeitbaren Bereich aus, den Sie in einen Snippet konvertieren möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Ersetzen durch Snippet**.
 
    ![](assets/two-2.png)
 
-1. Wählen Sie das gewünschte Codefragment aus und klicken Sie auf **Speichern**.
+1. Wählen Sie das gewünschte Snippet aus und klicken Sie auf **Speichern**.
 
    ![](assets/three-1.png)
 
@@ -43,6 +42,6 @@ Snippets sind wiederverwendbare Textblöcke und Grafiken, die Sie in Ihren E-Mai
 
    >[!NOTE]
    >
-   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail-Adresse wird erstellt, es sei denn, Sie genehmigen das Fragment mit [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail wird erstellt, es sei denn, Sie genehmigen das Ausschnitt mit [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
-So können dynamische Inhalte schnell und einfach wiederverwendet werden.
+So können Sie dynamische Inhalte schnell und einfach wiederverwenden.

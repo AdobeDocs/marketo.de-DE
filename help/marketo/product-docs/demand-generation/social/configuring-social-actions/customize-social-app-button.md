@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359759
-description: Schaltfläche "Social-App anpassen"- "Marketing-Dokumente - Produktdokumentation"
+description: Schaltfläche "Social-Anwendung anpassen"- Marketo-Dokumente - Produktdokumentation
 title: Schaltfläche "Social-App anpassen"
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-
 # Schaltfläche &quot;Social-App anpassen&quot; {#customize-social-app-button}
 
-Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) oder ein [Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie das Erscheinungsbild der Schaltflächen anpassen.
+Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) oder [Referenzangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)können Sie das Erscheinungsbild der Schaltflächen anpassen.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +22,11 @@ Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Wechseln Sie im Social App-Editor zu **App-Einstellungen** > **Schaltflächenstil** (oder **Anmeldungsstil,** für Verweisdokumente).
+1. Navigieren Sie im Social-App-Editor zu **App-Einstellungen** > **Schaltflächenstil** (oder **Anmeldeformat,** für Verweisangebote).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
-1. Wählen Sie aus, wo die Anzahl der freigegebenen Inhalte angezeigt werden soll oder nicht, um sie anzuzeigen.
+1. Wählen Sie aus, wo die Anzahl der freigegebenen Assets angezeigt werden soll oder ob sie überhaupt nicht angezeigt werden sollen.
 
    ![](assets/image2014-9-23-17-3a4-3a10.png)
 
@@ -37,7 +36,7 @@ Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generatio
 
    >[!NOTE]
    >
-   >Wählen Sie für verweisende Angebot Ihre Netzwerke unter **2 aus. Anmeldefluss > Social Networks**.
+   >Wählen Sie für Verweisangebote Ihre Netzwerke unter **2. Anmeldefluss > Soziale Netzwerke**.
 
 1. Wählen Sie einen Schaltflächentyp aus.
 
@@ -45,20 +44,20 @@ Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generatio
 
    >[!TIP]
    >
-   >Wenn Sie unter Schaltflächenstil **** Bilder hochladen auswählen, können Sie in den folgenden Abschnitten Schaltflächenbilder hochladen, anstatt den Text zu bearbeiten.
+   >Wenn Sie **Hochladen von Bildern unter Schaltflächenstil** über dem Abschnitt können Sie Schaltflächenbilder hochladen, anstatt den Text zu bearbeiten.
 
 1. Bearbeiten Sie die Beschriftungen für die Schaltfläche vor und nach dem Klicken.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Überprüfen Sie bei jeder Auswahl das Ergebnis im Fenster **Ansicht &amp; Bearbeiten**.
+1. Überprüfen Sie bei jeder Auswahl das Ergebnis in der **Anzeigen und Bearbeiten** Fenster.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In einem Referrer-Angebot können Sie auch die Schaltfläche **Track Progress** anpassen. Gehen Sie zu **App-Einstellungen** > **Track Progress Style** und befolgen Sie die gleichen Schritte wie oben.
+>In einem Verweisangebot können Sie auch die **Fortschritt verfolgen** Schaltfläche. Navigieren Sie zu **App-Einstellungen** > **Tracking-Fortschrittsstil** und führen Sie dieselben Schritte wie oben aus.
 
 >[!MORELIKETHIS]
 >
->Bei einer Social-Schaltfläche müssen Sie [konfigurieren, wenn sie geöffnet wird](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Geben Sie für ein Verweisziel [das Angebot-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) an.
+>Für eine Social-Schaltfläche: [beim Öffnen konfigurieren](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Für ein Angebot mit Verweis: [Angebotsergebnis festlegen](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).

@@ -1,38 +1,37 @@
 ---
 unique-page-id: 7512451
-description: Push-Benachrichtigung erstellen - Marketing Docs - Produktdokumentation
+description: Push-Benachrichtigung erstellen - Marketo-Dokumente - Produktdokumentation
 title: Push-Benachrichtigung erstellen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-
 # Push-Benachrichtigung erstellen {#create-a-push-notification}
 
-Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketing Admin und Mobile Apps Developer einige Dinge einrichten, die Sie während der Ausführung benötigen. Weitere Informationen finden Sie unter [Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md).
+Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketo-Administrator und Ihren Mobile Apps-Entwickler einige Dinge einrichten lassen, die Sie während der Arbeit benötigen. Siehe [Grundlegendes zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) für Details.
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
-1. Suchen und wählen Sie Ihr Programm aus.
+1. Wählen Sie Ihr Programm aus.
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. Klicken Sie unter **Neu** auf **Neues lokales Element**.
+1. under **Neu** klicken **Neues lokales Asset**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Wählen Sie **Push Notification**.
+1. Auswählen **Push-Benachrichtigung**.
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Geben Sie einen **Push Notification Name** ein und klicken Sie auf **Create**.
+1. Geben Sie einen **Name der Push-Benachrichtigung** und klicken Sie auf **Erstellen**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, ziehen wir sie an und verkleiden sie [noch einmal.](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, gehen wir weiter und [Dress it up](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 11C {#template-11c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html) herunterladen
+Rechtsklick auf [Download-Vorlage 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949273
-description: SEO - Verwenden Sie den Suchbegrifftrendbericht - Marketo Docs - Produktdokumentation
-title: SEO - Verwenden des Suchbegrifftrendberichts
+description: SEO - Verwenden des Suchbegriff-Trends-Berichts - Marketo Docs - Produktdokumentation
+title: SEO - Verwenden des Suchbegriff-Trends-Berichts
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
@@ -11,13 +10,13 @@ ht-degree: 5%
 
 ---
 
-# SEO - Verwenden Sie den Suchbegrifftrendbericht {#seo-use-the-keyword-trends-report}
+# SEO - Verwenden des Suchbegriff-Trends-Berichts {#seo-use-the-keyword-trends-report}
 
 In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen geordnet sind.
 
-## Bericht {#load-report} laden
+## Bericht laden {#load-report}
 
-1. Gehen Sie zu **Berichte**.
+1. Navigieren Sie zu **Berichte**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
@@ -33,18 +32,18 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 
    | Element | Beschreibung |
    |---|---|
-   | Schlagwörter | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
-   | Ranking-URLs | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
-   | Durchschnitt rank | Der durchschnittliche Suchbegriffranking in dem von Ihnen festgelegten Bereich. |
-   | Durchschnitt Suchvorgänge | Die durchschnittliche Anzahl der Suchen nach diesen Suchbegriffen, die während des von Ihnen festgelegten Zeitraums (in den letzten 30 Tagen bei der Google US-Suche) aufgetreten sind |
+   | Schlüsselwörter | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
+   | Rangierungs-URLs | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
+   | Durchschnitt rank | Der durchschnittliche Rang der Suchbegriffe in dem von Ihnen festgelegten Bereich. |
+   | Durchschnitt Suchvorgänge | Durchschnittliche Anzahl der Suchvorgänge für diese Suchbegriffe, die während des von Ihnen festgelegten Zeitraums (in den letzten 30 Tagen bei der Google US-Suche) stattgefunden haben |
 
 ## Filtern von Daten {#filtering-data}
 
-1. Klicken Sie auf die Dropdownliste und wählen Sie den gewünschten Zeitraum aus.
+1. Klicken Sie auf das Dropdown-Menü und wählen Sie den gewünschten Zeitraum aus.
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. Klicken Sie auf die Dropdown-Liste Rang, um den Rangbereich auszuwählen, für den Sie Suchbegriffe Ansicht wünschen.
+1. Klicken Sie auf das Dropdown-Menü Rang , um festzulegen, für welchen Rangbereich Sie Suchbegriffe anzeigen möchten.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
@@ -54,12 +53,12 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 >
 >Sie können diesen Bericht auf Ihren Desktop exportieren.
 
-1. Klicken Sie auf CSV oder Export PDF exportieren.
+1. Klicken Sie auf CSV oder Export PDF exportieren .
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Großartig gemacht! Sie können auch sehen, wie Sie im Suchbegriffranking mit Ihren Konkurrenten vergleichen.
+   Großartig gemacht! Sie können auch sehen, wie Sie im Keyword-Ranking mit Ihren Konkurrenten vergleichen.
 
    >[!NOTE]
    >
-   >[Verwenden des Berichts &quot;Konkurrenzfähige KW-Rang-Trends&quot;](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[Verwenden des Berichts &quot;KW-Rang-Trends&quot;](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 14A {#template-14a}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html) herunterladen
+Rechtsklick auf [Download-Vorlage 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 

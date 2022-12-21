@@ -1,9 +1,8 @@
 ---
 unique-page-id: 8781911
-description: Verstehen von E-Mail-Programm-Karten - Marketo Docs - Produktdokumentation
-title: Verstehen der E-Mail-Programm-Karten
+description: Verstehen der E-Mail-Programmkarten - Marketo-Dokumente - Produktdokumentation
+title: Grundlagen zu E-Mail-Programmkarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
@@ -11,85 +10,85 @@ ht-degree: 0%
 
 ---
 
-# Verstehen der E-Mail-Programm-Karten {#understanding-email-program-cards}
+# Grundlagen zu E-Mail-Programmkarten {#understanding-email-program-cards}
 
-Verwenden Sie Marketo Moments, um Ihre E-Mail-Programms von Ihrem Smartphone oder iPad aus Ansicht.
+Verwenden Sie Marketo Moments , um Ihre E-Mail-Programme von Ihrem Telefon oder iPad aus anzuzeigen.
 
-## E-Mail-Programm-Karten {#email-program-cards}
+## E-Mail-Programmkarten {#email-program-cards}
 
-Wenn Sie auf eine E-Mail-Programm-Karte tippen, haben Sie folgende Möglichkeiten:
+Wenn Sie auf eine E-Mail-Programmkarte tippen, haben Sie folgende Möglichkeiten:
 
 * [Eine E-Mail zum Favoriten machen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markieren einer E-Mail nach Abschluss](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Freigeben einer E-Mail-Ereigniskarte](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [E-Mail markieren wie erledigt](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Freigeben einer E-Mail-Momentkarte](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Auf einer E-Mail-Programm-Karte für eine noch nicht gesendete E-Mail finden Sie Informationen zum Status und zur Audience des E-Mail-Programms.
+Auf einer E-Mail-Programmkarte für eine E-Mail, die noch nicht gesendet wurde, finden Sie Informationen zum Status und zur Audience des E-Mail-Programms.
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
-Nachdem die E-Mail gesendet wurde, werden auf der Karte weitere wichtige Informationen angezeigt, darunter die Anzahl der zugestellten E-Mails, die Aktionen der Empfänger und ein Link zur intelligenten Liste, die in der Kampagne verwendet wird.
+Nach dem Versand der E-Mail zeigt die Karte weitere wertvolle Informationen an, darunter die Anzahl der zugestellten E-Mails, die Aktionen der Empfänger und einen Link zur in der Kampagne verwendeten Smart-Liste.
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
-## Bestätigen einer E-Mail-Karte {#confirming-an-email-card}
+## E-Mail-Karte bestätigen {#confirming-an-email-card}
 
-1. Um eine nicht bestätigte E-Mail-Karte zu bestätigen, tippen Sie auf das Menü mit drei Punkten.
+1. Um eine nicht bestätigte E-Mail-Karte zu bestätigen, tippen Sie auf das Menü mit den drei Punkten.
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tippen Sie auf **Bestätigen**.
+1. Tippen **Bestätigen**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tippen Sie auf **Bestätigen**, um den Auftrag abzuschließen, oder **Nie Mind**, wenn Sie zweite Gedanken hatten.
+1. Tippen **Bestätigen** , um den Auftrag abzuschließen, oder **Niemals Mind** wenn du noch nachdenklich bist.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
    >[!NOTE]
    >
-   >Jetzt wird Ihre Karte in Orange!
+   >Jetzt wird Ihre Karte in Orange umgestellt!
 
-## Abbrechen einer E-Mail-Karte senden {#canceling-an-email-card-send}
+## Abbrechen des Versands einer E-Mail-Karte {#canceling-an-email-card-send}
 
-1. Wenn Sie sich entscheiden, Ihre bestätigte E-Mail nicht abzusenden, tippen Sie auf das Menü mit drei Punkten.
+1. Wenn Sie sich entscheiden, Ihre bestätigte E-Mail nicht zu senden, tippen Sie auf das Menü mit den drei Punkten.
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tippen Sie auf **Senden abbrechen**.
+1. Tippen **Abbrechen von Senden**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
-## Umplanen einer E-Mail-Karte {#rescheduling-an-email-card}
+## E-Mail-Karte neu planen {#rescheduling-an-email-card}
 
 Sie können bestätigte oder nicht bestätigte E-Mail-Karten neu planen.
 
 >[!NOTE]
 >
->Für bereits bestätigte E-Mails müssen Sie zuerst die E-Mail abbrechen (siehe unten).
+>Für bereits bestätigte E-Mails müssen Sie die E-Mail zuerst abbrechen (siehe unten).
 
-1. Um eine E-Mail neu zu planen, tippen Sie auf das Menü mit drei Punkten.
+1. Um eine E-Mail zu planen, tippen Sie auf das Menü mit den drei Punkten .
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tippen Sie auf **Neu planen**.
+1. Tippen **Zeitplan**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Neu planen**.
+1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Zeitplan**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   Solange Sie über einen drahtlosen Service verfügen, können Sie von jedem Ort aus eine Neuplanung durchführen!
+   Solange Sie über einen drahtlosen Service verfügen, können Sie von überall aus einen anderen Termin vereinbaren!
 
 ## Senden eines Beispiels {#sending-a-sample}
 
-Sie können ein Beispiel eines E-Mail-Moments direkt mit jemandem teilen.
+Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen.
 
 1. Öffnen Sie das Kartenmenü.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tippen Sie auf **Beispiel senden**.
+1. Tippen **Beispiel senden**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
@@ -97,11 +96,11 @@ Sie können ein Beispiel eines E-Mail-Moments direkt mit jemandem teilen.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Vorschau einer E-Mail {#previewing-an-email}
+## E-Mail-Vorschau {#previewing-an-email}
 
-Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau.
+Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie in der Vorschau anzuzeigen.
 
-1. Tippen Sie auf **Vorschau E-Mail**.
+1. Tippen **Vorschau von E-Mail**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -111,11 +110,11 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie Vorschau.
 
    Ausgezeichnet!
 
-Und das ist die Bruchkerbe beim Betrachten Ihrer E-Mail-Kampagnen. Du bist jetzt ein Profi!
+Und das ist die Spur bei der Anzeige Ihrer E-Mail-Kampagnen. Jetzt bist du ein Profi!
 
 >[!MORELIKETHIS]
 >
->* [Marketo-Momente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Einführung in Ereignis-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Die Analytics-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Grundlagen zu Marketo-Momenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Grundlagen zu Ereigniskarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Grundlagen zu Analytics-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 

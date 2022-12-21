@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359614
-description: Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular - Marketing-Dokumente - Produktdokumentation
+description: Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular - Marketo Docs - Produktdokumentation
 title: Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-
 # Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Sobald Sie [einen Feldtyp](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) als Optionsfeld oder Auswahltyp festgelegt haben, müssen Sie die Werte definieren, aus denen der Benutzer auswählen kann. So geht es.
+Sobald du [Feldtyp festlegen](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) um ein Optionsfeld oder einen Auswahltyp zu sein, sollten Sie die Werte definieren, aus denen der Benutzer wählen kann. So geht es.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -29,7 +28,7 @@ Sobald Sie [einen Feldtyp](/help/marketo/product-docs/administration/field-manag
 
    >[!NOTE]
    >
-   >Der erste und der Standardwert sind immer &quot;Select...&quot;. Sie können das gerne bearbeiten. Wenn Sie das Standard-Optionsfeld in eine andere Zeile ändern, &quot;Wählen Sie...&quot; wird nicht als Auswahl im Formular angezeigt.
+   >Der erste und der Standardwert ist immer &quot;Select..&quot;. Sie können das gerne bearbeiten. Wenn Sie die standardmäßige Optionsschaltfläche in eine andere Zeile ändern, &quot;Auswählen..&quot; wird im Formular nicht als Auswahl angezeigt.
 
 1. Klicken Sie auf , um Ihren Wert hinzuzufügen.
 
@@ -43,7 +42,7 @@ Sobald Sie [einen Feldtyp](/help/marketo/product-docs/administration/field-manag
    >
    >**Gespeicherter Wert:** Was wird in Marketo aufgezeichnet.
 
-1. hinzufügen Sie so viele Werte, wie Sie benötigen, und klicken Sie dann auf **Speichern**.
+1. Fügen Sie beliebig viele Werte hinzu und klicken Sie auf **Speichern**.
 
    >[!NOTE]
    >
@@ -53,13 +52,13 @@ Sobald Sie [einen Feldtyp](/help/marketo/product-docs/administration/field-manag
 
    >[!TIP]
    >
-   >Klicken Sie auf **Erweiterter Editor**, um eine Liste von Werten zu kopieren/einzufügen. Es kann eine Echtzeit-Einsparung sein.
+   >Klicken **Erweiterter Editor** , um bei Bedarf eine Werteliste zu kopieren/einzufügen. Das kann in Echtzeit gerettet werden.
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

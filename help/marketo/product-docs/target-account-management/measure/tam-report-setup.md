@@ -1,43 +1,42 @@
 ---
 unique-page-id: 11384438
-description: TAM Report Setup - Marketing Docs - Produktdokumentation
-title: TAM-Berichtseinrichtung
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: TAM-Berichtseinstellungen - Marketo-Dokumente - Produktdokumentation
+title: TAM-Berichteinstellungen
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
+# TAM-Berichteinstellungen {#tam-report-setup}
 
-# TAM Report Setup {#tam-report-setup}
+Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an das Account-Team gesendet wird.
 
-Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an das Kontoteam gesendet wird.
+## Berichtseinstellungen {#report-setup}
 
-## Bericht einrichten {#report-setup}
-
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie auf **Zielgruppe Kontoverwaltung**.
+1. Klicken **Verwaltung von Target-Konten**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicken Sie unter &quot;Bericht pro Woche&quot;auf **Bearbeiten**.
+1. Klicken Sie unter &quot;Wöchentlicher Bericht&quot;auf **Bearbeiten**.
 
    ![](assets/three-3.png)
 
-1. Klicken Sie auf die Dropdownliste **Tag** und wählen Sie den Wochentag aus, an dem die Empfänger die E-Mail erhalten sollen.
+1. Klicken Sie auf **Tag** und wählen Sie den Wochentag aus, an dem die Empfänger die E-Mail erhalten sollen.
 
    ![](assets/four-4.png)
 
-1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf die Dropdownliste **Sortieren nach** und wählen Sie aus.
+1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf die Schaltfläche **Sortieren nach** und wählen Sie aus.
 
    ![](assets/five-3.png)
 
-1. Markieren Sie das Kontrollkästchen **Benutzer**, klicken Sie dann auf die Dropdownliste und wählen Sie aus, wen Sie die E-Mail erhalten möchten.
+1. Überprüfen Sie die **Benutzer** aktivieren, klicken Sie auf das Dropdown-Menü und wählen Sie aus, an wen die E-Mail gesendet werden soll.
 
    ![](assets/six-2.png)
 
@@ -45,33 +44,33 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
    >
    >Benachrichtigungen werden nur an Kontoinhaber oder Teammitglieder gesendet.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/seven-2.png)
 
 Und das ist es!
 
-## Abmelden {#how-to-unsubscribe}
+## Abmeldung {#how-to-unsubscribe}
 
-Jeder Bericht bietet die Möglichkeit, Opt-out. Klicken Sie dazu einfach unten in der E-Mail auf **Abmelden**.
+Jeder Bericht enthält die Option zum Abmelden. Klicken Sie dazu einfach auf **Abmelden** unten in der E-Mail.
 
 ![](assets/eight-1.png)
 
-## Neuabonnieren von {#how-to-resubscribe}
+## Neuanmeldung {#how-to-resubscribe}
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie auf **Zielgruppe Kontoverwaltung**.
+1. Klicken **Verwaltung von Target-Konten**.
 
    ![](assets/tam-report-setup-10.png)
 
-1. Klicken Sie unter &quot;Bericht pro Woche&quot;auf die als &quot;Abbestellt&quot;aufgelistete Zahl.
+1. Klicken Sie unter &quot;Wöchentlicher Bericht&quot;auf die Zahl, die als Abgemeldet angezeigt wird.
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf die Dropdownliste **Benutzer**.
+1. Klicken Sie auf **Benutzer** Dropdown-Liste.
 
    ![](assets/ten.png)
 

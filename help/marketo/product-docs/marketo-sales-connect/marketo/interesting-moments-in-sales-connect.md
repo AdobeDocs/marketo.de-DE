@@ -16,7 +16,7 @@ Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Verkaufstea
 
 >[!AVAILABILITY]
 >
->Diese sind nur für Kunden von [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) und Marketo Sales Connect verfügbar.
+>Diese sind verfügbar für [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) und Marketo Sales Connect-Kunden.
 
 ## Was ist ein interessanter Moment? {#what-is-an-interesting-moment}
 
@@ -28,19 +28,19 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Verkaufsteam re
 
 ## Wie erstelle ich einen interessanten Moment? {#how-do-i-create-an-interesting-moment}
 
-1. Wählen Sie eine [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), vorzugsweise eine, die Ihr Verkaufsteam interessant finden würde, wenn sie ausgelöst wird.
+1. Wählen Sie eine [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), vorzugsweise eines, das Ihr Verkaufsteam interessant finden würde, wenn es ausgelöst wird.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Ziehen Sie über den Flussschritt **Interessante Momente**.
+1. Ziehen Sie über die **Interessante Momente** Flussschritt.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Wählen Sie einen **Typ** (E-Mail, Meilenstein oder Web).
+1. Wählen Sie eine **type** (E-Mail, Meilenstein oder Web).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Schreiben Sie im Feld **Beschreibung** eine Nachricht an Ihr Verkaufsteam, die erklärt, warum diese Aktion wichtig ist.
+1. Schreiben Sie eine Nachricht an Ihr Verkaufsteam im **Beschreibung** -Feld, das erklärt, warum diese Aktion wichtig ist.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -50,7 +50,7 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Verkaufsteam re
 
 ## Wie sieht ein interessanter Moment in Marketo aus?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interessante Momente werden im Aktivitätsprotokoll eines [Leads angezeigt.](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
+Interessante Momente werden in einer [Aktivitätsprotokoll des Leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

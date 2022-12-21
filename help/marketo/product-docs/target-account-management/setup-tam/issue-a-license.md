@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380771
-description: Lizenz ausstellen - Marketing Docs - Produktdokumentation
+description: Lizenzerteilung - Marketo Docs - Produktdokumentation
 title: Lizenz ausstellen
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Lizenz ausstellen {#issue-a-license}
 
@@ -17,17 +16,17 @@ Sie müssen Benutzer mit einer Lizenz für die Verwendung von TAM einrichten. Hi
 
 >[!NOTE]
 >
->Die Anzahl der verfügbaren Lizenzen hängt von Ihrem Abonnement ab. Wenn Sie mehr benötigen, wenden Sie sich bitte an Ihren Vertriebspartner.
+>Die Anzahl der verfügbaren Lizenzen hängt von Ihrem Abonnement ab. Wenn Sie mehr benötigen, wenden Sie sich bitte an Ihren Vertriebsmitarbeiter.
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Klicken Sie auf **Benutzer und Rollen**. Wählen Sie den Benutzer aus, für den die Lizenz ausgestellt werden soll, klicken Sie auf die Dropdownliste **Ausgabenlizenz** und wählen Sie **Zielgruppe Kontoverwaltung**.
+1. Klicken **Benutzer und Rollen**. Wählen Sie den Benutzer aus, für den die Lizenz ausgestellt werden soll, und klicken Sie auf das **Ausstelllizenz** und wählen Sie **Verwaltung von Target-Konten**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Markieren Sie das Kontrollkästchen **Lizenz aktivieren** und klicken Sie auf **Speichern**.
+1. Überprüfen Sie die **Lizenz aktivieren** Kontrollkästchen und klicken Sie auf **Speichern**.
 
    ![](assets/issue-a-license-3.png)
 

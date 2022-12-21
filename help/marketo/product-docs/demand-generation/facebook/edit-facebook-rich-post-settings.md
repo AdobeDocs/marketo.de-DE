@@ -1,67 +1,66 @@
 ---
 unique-page-id: 2950555
-description: Einstellungen für reichhaltige Beiträge bearbeiten - Marketing-Dokumente - Produktdokumentation
-title: Einstellungen für Facebook-Rich-Beiträge bearbeiten
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Facebook Rich-Post-Einstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
+title: Bearbeiten von Facebook Rich-Post-Einstellungen
+exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Bearbeiten von Facebook Rich-Post-Einstellungen {#edit-facebook-rich-post-settings}
 
-# Einstellungen für Facebook-Rich-Post bearbeiten {#edit-facebook-rich-post-settings}
-
-Passen Sie Beiträge an, wenn Personen Sie auf Facebook freigeben.
+Passen Sie Beiträge an, wenn Benutzer Sie in Facebook freigeben.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-Marketo [Social-Apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) ermöglichen es Ihren Interessenten, Ihre Landingpages mit ihren Verbindungen in sozialen Netzwerken wie Facebook, Twitter usw. zu teilen. Mit den Facebook OpenGraph-Tags (OG-Tags) können Sie angeben, welche Informationen aus Ihrer Landingpage in Facebook-Beiträgen enthalten sind.
+Marketo [Social Apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) ermöglichen es Leads, Ihre Landingpages mit ihren Verbindungen in sozialen Netzwerken wie Facebook, Twitter usw. zu teilen. Mit facebook OpenGraph-Tags (OG-Tags) können Sie angeben, welche Informationen von Ihrer Landingpage in Facebook-Beiträgen enthalten sind.
 
 ## Rich-Post-Optionen auswählen {#select-rich-post-options}
 
-Sie können die Arten von Seiteninformationen angeben, die in den Facebook-Rich-Posts verwendet werden sollen, die von Teilen Ihrer Landingpage generiert wurden.
+Sie können die Arten von Seiteninformationen angeben, die in den Rich-Posts von Facebook verwendet werden sollen, die von Teilen aus Ihrer Landingpage generiert wurden.
 
-1. Wählen Sie **Facebook-Nachricht** im Editor für Ihre **YouTube**-Schaltfläche für Video oder Social.
+1. Auswählen **Facebook-Nachricht** im Editor für Ihre **YouTube** Video- oder Social-Schaltfläche.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Wählen Sie aus den folgenden Optionen für Ihre Facebook-Nachricht aus.
+1. Wählen Sie eine der folgenden Optionen für Ihre Facebook-Nachricht aus.
 
-   * hinzufügen statischen Inhalt: Wählen Sie diese Option, um den Titel, die Beschriftung und die Beschreibung manuell einzugeben.
+   * Statischen Inhalt hinzufügen: Wählen Sie diese Option aus, um den Titel, die Beschriftung und die Beschreibung manuell einzugeben.
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * hinzufügen dynamischer Inhalt: Ihre Social-App kann die Tags `<TITLE>`, `<CAPTION>` und `<DESCRIPTION>` Ihrer Landingpage verwenden, um Ihren Rich-Post zu füllen.
+   * Dynamischen Inhalt hinzufügen: Ihre Social-App kann die `<TITLE>`, `<CAPTION>`und `<DESCRIPTION>` Tags zum Ausfüllen Ihres Rich-Posts.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >Diese sollten bereits in der Seitenquelle vorhanden sein, aber für mehr Kontrolle können Sie Ihrer Landingpage bestimmte Facebook-OG-Tags hinzufügen.
+   >Diese sollten bereits in der Seitenquelle vorhanden sein. Für mehr Kontrolle können Sie Ihrer Landingpage jedoch bestimmte Facebook OG-Tags hinzufügen.
 
-   * Fügen Sie keinen Rich Content hinzu: Begrenzt die Facebook-Beiträge von Ihrer Landingpage auf die Hauptnachricht und den Link.
+   * Fügen Sie keine Rich-Inhalte hinzu: Beschränkt die Facebook-Beiträge von Ihrer Landingpage auf die Hauptnachricht und den Link.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## hinzufügen von Facebook-OG-Tags zu einer Landingpage {#add-facebook-og-tags-to-a-landing-page}
+## Hinzufügen von Facebook OG-Tags zu einer Landingpage {#add-facebook-og-tags-to-a-landing-page}
 
-Um die Seitenelemente zu steuern, die in den Facebook-Teilen Ihrer Landingpage enthalten sein werden, können Sie Ihrer Landingpage Facebook OG-Tags (Open Graph) für Titel, Beschriftung und Beschreibung hinzufügen.
+Um die Seitenelemente zu steuern, die in den Facebook-Freigaben von Ihrer Landingpage enthalten sein werden, können Sie Ihrer Landingpage Facebook OG (Open Graph)-Tags für Titel, Beschriftung und Beschreibung hinzufügen.
 
-1. Öffnen Sie die Landingpage, die die Schaltfläche **YouTube video** oder social enthält.
+1. Öffnen Sie die Landingpage, die Ihre **YouTube-Video** oder &quot;Social&quot;.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Der Designer **Landingpage** wird in einem neuen Fenster geöffnet.
+   Die **Landingpage-Designer** in einem neuen Fenster geöffnet.
 
-1. Wählen Sie **Landingpages-Aktionen** > **Seitenmeta-Tags bearbeiten**.
+1. Auswählen **Landingpage-Aktionen** > **Bearbeiten von Seiten-Meta-Tags**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. hinzufügen HTML, das og:title, og:caption und og:description definiert. Kopieren Sie die folgenden Zeilen und ersetzen Sie den Platzhaltertext:
+1. Fügen Sie die HTML hinzu, die og:title, og:caption und og:description definiert. Kopieren Sie diese Zeilen und fügen Sie sie ein und ersetzen Sie den Platzhaltertext:
 
    `<meta property="og:title" content="My Post Title"/>`
 
@@ -73,4 +72,4 @@ Um die Seitenelemente zu steuern, die in den Facebook-Teilen Ihrer Landingpage e
 
 >[!NOTE]
 >
->Achten Sie darauf, beim Hinzufügen der OG-Tags die richtige HTML-Syntax zu verwenden.
+>Achten Sie beim Hinzufügen der OG-Tags auf die Verwendung der richtigen HTML-Syntax.

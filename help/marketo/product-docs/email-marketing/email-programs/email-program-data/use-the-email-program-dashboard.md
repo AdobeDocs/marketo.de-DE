@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359476
-description: Verwenden Sie das Dashboard E-Mail-Programm - Marketing Docs - Produktdokumentation
-title: Verwenden Sie das Dashboard E-Mail-Programm
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Verwenden des Dashboards "E-Mail-Programm"- Marketo-Dokumente - Produktdokumentation
+title: Verwenden des Dashboards "E-Mail-Programm"
+exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
+# Verwenden des Dashboards &quot;E-Mail-Programm&quot; {#use-the-email-program-dashboard}
 
-# Verwenden Sie das Dashboard E-Mail-Programm {#use-the-email-program-dashboard}
-
-Sehen Sie sich an, wie Ihre E-Mail-Programm mit dieser Dashboard-Ansicht abschneiden.
+In dieser Dashboard-Ansicht erfahren Sie, wie Ihre E-Mail-Programme funktionieren.
 
 >[!NOTE]
 >
->Wenn Ihr Programm einen A/B-Test hat, sehen Sie sich das [E-Mail-Programm-Dashboard - A/B-Test-Ansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md) an.
+>Wenn Ihr Programm über einen A/B-Test verfügt, überprüfen Sie die [E-Mail-Programm-Dashboard - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
 >[!NOTE]
 >
->Alle Daten in dieser Ansicht sind Aggregat (einschließlich A/B-Test sowie finaler E-Mail-Versand).
+>Alle Daten in dieser Ansicht sind aggregiert (einschließlich A/B-Test und E-Mail-Versand).
 
-## E-Mail senden {#email-send}
+## E-Mail gesendet {#email-send}
 
 Hier können Sie sehen, wie viele E-Mails gesendet, abgeschnitten und zugestellt wurden.
 
@@ -33,43 +32,43 @@ Hier können Sie sehen, wie viele E-Mails gesendet, abgeschnitten und zugestellt
 
 >[!NOTE]
 >
->Aufgrund von E-Mail-Zustellungsstandards, die sich außerhalb von Marketo befinden, sind die Statistiken &quot;Bounced&quot;und &quot;Delivered&quot;ungefähre und nicht exakte Angaben.
+>Aufgrund von E-Mail-Zustellbarkeitsstandards, die außerhalb der Kontrolle von Marketo liegen, sind die Statistiken &quot;Bounce&quot;und &quot;Delivered&quot;ungefährlich und nicht exakt.
 
-## Öffnen/Klicks {#opens-clicks}
+## Öffnungen/Klicks {#opens-clicks}
 
-Dieses Diagramm zeigt Ihnen die Anzahl der E-Mails, die in bestimmten Zeiträumen nach der Ausführung des E-Mail-Programms geöffnet/angeklickt wurden.
+Diese Grafik zeigt die Anzahl der geöffneten/angeklickten E-Mails während eines bestimmten Zeitraums nach der Ausführung des E-Mail-Programms.
 
 ![](assets/image2014-9-12-14-3a13-3a7.png)
 
 >[!TIP]
 >
->Beachten Sie, wie die Anzahl der Öffnen/Klicks mit der Zeit abnimmt.
+>Beachten Sie, wie die Anzahl der Öffnungen/Klicks mit der Zeit abnimmt.
 
-## Zusammenfassung - Einsatz {#summary-engagement}
+## Zusammenfassung - Interaktion {#summary-engagement}
 
-Dies zeigt Ihnen den Gesamtwert [Einsatz](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Dies zeigt Ihnen die Gesamtübersicht [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
 ## Zusammenfassung - Rest {#summary-rest}
 
-Der Rest der Daten zeigt das Verhältnis &quot;Öffnen&quot;, &quot;Klicks&quot;, &quot;Klicken/Öffnen&quot;und &quot;Abmelden&quot;an.
+Der Rest der Daten zeigt Öffnungen, Klicks, Klick-/Öffnungsverhältnis und Abmeldungen an.
 
 ![](assets/image2014-9-12-14-3a13-3a15.png)
 
 >[!TIP]
 >
->Die **Abbestellen**-Rate im obigen Beispiel war so klein, dass Marketo eingezoomt wurde, um Ihnen ein besseres Aussehen zu geben. Die zweite Zahl innerhalb der Leiste wird nur für die Skalierung hinzugefügt.
+>Die **Abmelden** Die im obigen Beispiel angegebene Rate war so klein, dass Marketo einzoomte, um Ihnen einen besseren Einblick zu geben. Die zweite Zahl innerhalb der Leiste wird lediglich als Skalierungswert hinzugefügt.
 
 >[!NOTE]
 >
 >**Definition**
 >
->**&quot;** Opensare&quot;wird gezählt, wenn der E-Mail-Empfänger die E-Mail-Bilder herunterlädt, die ein durch &quot;Marketo&quot;eingefügtes Verfolgungs-Pixel enthalten. Wenn der Empfänger die E-Mail Ansicht, sich jedoch nicht für den Download der Bilder entscheidet, zählt dies nicht als &quot;open&quot;. Wenn die Bilder im Bereich &quot;Vorschau&quot;des Empfängers geladen werden, wird dies in der Regel als &quot;offen&quot;gezählt, aber je nach E-Mail-Client unterschiedlich.
+>**Öffnungen** werden gezählt, wenn der E-Mail-Empfänger die E-Mail-Bilder herunterlädt, die ein von Marketo eingefügtes Tracking-Pixel enthalten. Wenn der Empfänger die E-Mail anzeigt, aber keine Bilder herunterlädt, zählt dies nicht als Öffnung. Wenn die Bilder im Vorschaufenster des Empfängers geladen werden, zählt dies normalerweise als Öffnung, doch variiert dies je nach E-Mail-Client.
 >
->**Klicken Sie zum** Öffnen, um den Prozentsatz der E-Mails zu messen, die sowohl geöffnet wurden als auch auf einen Link in der E-Mail geklickt wurden. Wir nehmen die Anzahl der individuellen Klicks geteilt durch die Anzahl der individuellen Öffnen, dann multiplizieren mit 100, um es als Prozentsatz anzuzeigen.
+>**Zum Öffnen klicken** misst den Prozentsatz der E-Mails, die sowohl geöffnet als auch in der E-Mail auf einen Link geklickt wurden. Wir nehmen die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen und multiplizieren sie dann mit 100, um sie als Prozentsatz anzuzeigen.
 
-## Dashboard {#refresh-dashboard} aktualisieren
+## Dashboard aktualisieren {#refresh-dashboard}
 
 Um die aktuellsten Daten anzuzeigen, klicken Sie einfach auf das Aktualisierungssymbol im Dashboard.
 
@@ -77,4 +76,4 @@ Um die aktuellsten Daten anzuzeigen, klicken Sie einfach auf das Aktualisierungs
 
 >[!MORELIKETHIS]
 >
->[Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)

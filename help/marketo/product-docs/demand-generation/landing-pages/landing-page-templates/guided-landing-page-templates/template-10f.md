@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 10F {#template-10f}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html) herunterladen
+Rechtsklick auf [Download-Vorlage 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 

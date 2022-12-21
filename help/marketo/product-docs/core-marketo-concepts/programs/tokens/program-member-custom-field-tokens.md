@@ -5,7 +5,7 @@ title: Benutzerdefinierte Feld-Token für Programmteilnehmer
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -41,11 +41,11 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Suchen und wählen Sie das gewünschte Programmmitglied-Benutzerdefiniertes Feld-Token aus, geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
+1. Suchen Sie nach dem gewünschten benutzerdefinierten Feld-Token für Programmteilnehmer und wählen Sie es aus, geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klicken Sie auf **Save**.
+1. Klicken **Speichern**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -79,7 +79,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klicken Sie auf **Save**.
+1. Klicken **Speichern**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -89,7 +89,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Klicken Sie auf die Schaltfläche **`{{ Token`** .
+1. Klicken Sie auf **`{{ Token`** Schaltfläche.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,7 +97,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **Genehmigen und schließen** aus.
+1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **Genehmigen und schließen**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -107,11 +107,11 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klicken Sie auf **Push Notification**.
+1. Klicken **Push-Benachrichtigung**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Klicken Sie auf die Nachricht im Editor und klicken Sie auf die Schaltfläche `{{` , um die Token-Auswahl abzurufen.
+1. Klicken Sie auf die Nachricht im Editor und klicken Sie auf die Schaltfläche `{{` -Schaltfläche zum Abrufen der Token-Auswahl.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
@@ -119,7 +119,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicken Sie auf **Beenden**, um zu speichern und zu beenden (oder **Weiter**, um zuerst zu überprüfen).
+1. Klicken **Beenden** Speichern und beenden (oder **Nächste** zunächst zu überprüfen).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
@@ -132,7 +132,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 Benutzerdefinierte Feld-Token für Programmmitglieder können in folgenden Bereichen verwendet werden:
 
 * Aufgabe erstellen
-* Aufgabe erstellen in Microsoft
+* Aufgabe in Microsoft erstellen
 * Interessante Momente
 * Fluss-Aktionen für Datenwerte ändern
 * Webhooks

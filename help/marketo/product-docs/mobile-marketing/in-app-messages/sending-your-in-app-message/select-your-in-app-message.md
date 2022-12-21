@@ -1,34 +1,33 @@
 ---
 unique-page-id: 10617434
-description: Wählen Sie Ihre In-App-Nachricht - Marketing-Dokumente - Produktdokumentation
+description: Wählen Sie Ihre In-App-Nachricht - Marketo-Dokumente - Produktdokumentation aus.
 title: In-App-Nachricht auswählen
-translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
+# In-App-Nachricht auswählen {#select-your-in-app-message}
 
-# Wählen Sie Ihre In-App-Nachricht {#select-your-in-app-message}
+Hier wählen Sie die Nachricht aus, die Sie für das Programm erstellt haben.
 
-Hier wählen Sie die Nachricht aus, die Sie im Programm verwenden möchten.
-
-1. Wählen Sie Ihre In-App-Nachricht aus der Dropdownliste.
+1. Wählen Sie Ihre In-App-Nachricht aus der Dropdown-Liste aus.
 
    ![](assets/image2016-5-9-15-3a43-3a3.png)
 
    >[!NOTE]
    >
-   >Alle Nachrichten stehen zur Auswahl, egal wo sie leben. Marketo hängt den übergeordneten Namen an jeden an, um sicherzustellen, dass jede Datei einen eindeutigen Namen erhält.
+   >Alle Nachrichten können unabhängig vom Wohnort ausgewählt werden. Marketo hängt den übergeordneten Namen an jeden an, um sicherzustellen, dass jede Datei einen eindeutigen Namen erhält.
 
-1. Nachdem Sie die Nachricht ausgewählt haben, ist sie fertig. Sie können sie bearbeiten oder Vorschau vornehmen.
+1. Nachdem Sie die Nachricht ausgewählt haben, ist sie bereit. Sie können sie bearbeiten oder in der Vorschau anzeigen.
 
    ![](assets/image2016-5-9-15-3a41-3a48.png)
 
    >[!TIP]
    >
-   >Um eine andere Nachricht auszuwählen, löschen Sie sie im Feld &quot;In-App-Nachricht&quot;. Dann wird der Link &quot;Neue In-App-Nachricht&quot;zurückgegeben. Klicken Sie darauf und wählen Sie eine andere Nachricht aus.
+   >Um eine andere Nachricht auszuwählen, löschen Sie sie im Feld In-App-Nachricht . Dann kehrt der Link Neue In-App-Nachricht zurück. Klicken Sie darauf und wählen Sie eine andere Nachricht aus.
 
-Du bist auf dem richtigen Weg. Zeit bis [planen Sie den Versand](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+Du bist auf dem richtigen Weg. Zeit bis [den Versand planen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).

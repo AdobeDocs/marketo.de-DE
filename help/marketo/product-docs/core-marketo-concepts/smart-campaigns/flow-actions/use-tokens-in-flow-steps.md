@@ -16,7 +16,7 @@ ht-degree: 6%
 >
 >[Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intelligenten Kampagnen verwenden, um Ihr Leben zu vereinfachen. Sie können [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussprofilen, Webhooks, E-Mails und Landingpages verwenden. Sie können Token verwenden, um Variableninhalte in diese Flussschritte einzuschließen:
+Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intelligenten Kampagnen verwenden, um Ihr Leben zu vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussprofilen, Webhooks, E-Mails und Landingpages. Sie können Token verwenden, um Variableninhalte in diese Flussschritte einzuschließen:
 
 * Datenwert ändern
 * Programmmitgliedsdaten ändern
@@ -25,13 +25,13 @@ Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intell
 * Aufgabe erstellen
 * Warnhinweis senden (nur in Trigger-Kampagnen)
 
-1. Geben Sie im Flussschritt `{{` ein, um Tokenkategorien abzurufen.
+1. Beginnen Sie im Flussschritt mit der Eingabe von `{{` , um Tokenkategorien abzurufen.
 
    ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >Unter [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) finden Sie eine Liste verschiedener verfügbarer Token.
+   >Checkout [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) für eine Liste verschiedener verfügbarer Token.
 
 1. Fahren Sie mit der Eingabe fort, bis Sie das gewünschte Token finden und klicken Sie zur Auswahl.
 
@@ -43,7 +43,7 @@ Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intell
 
    >[!NOTE]
    >
-   >Benutzerdefinierte Feld-Token für Programmmitglieder können in folgenden Bereichen verwendet werden: Aufgabe erstellen, Aufgabe in Microsoft erstellen, interessante Momente, Flussaktionen für Datenwerte ändern und Webhooks.
+   >Benutzerdefinierte Feld-Token für Programmmitglieder können in folgenden Bereichen verwendet werden: Erstellen von Aufgaben, Erstellen von Aufgaben in Microsoft, interessante Momente, Ändern von Datenwertflussaktionen und Webhooks.
 
    Cool! Die Daten werden beim Ausführen der Smart-Kampagne aus dem Token abgerufen.
 

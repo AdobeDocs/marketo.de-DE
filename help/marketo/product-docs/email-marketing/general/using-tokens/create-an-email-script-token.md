@@ -1,43 +1,42 @@
 ---
 unique-page-id: 1900577
-description: Erstellen eines E-Mail-Skript-Tokens - Marketing Docs - Produktdokumentation
+description: Erstellen eines E-Mail-Skript-Tokens - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Skript-Token erstellen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
+# E-Mail-Skript-Token erstellen {#create-an-email-script-token}
 
-# Erstellen eines E-Mail-Skript-Tokens {#create-an-email-script-token}
+Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails. Hier ist, wie man das macht.
 
-Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails verwenden. Hier ist, wie man das macht.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Suchen und wählen Sie ein beliebiges Programm (Ereignis, Standard oder Interaktion usw.).
+1. Suchen Sie nach einem beliebigen Programm (Ereignis, Standard, Interaktion usw.) und wählen Sie es aus.
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Ziehen Sie unter der Registerkarte **Meine Token** ein Token **E-Mail-Skript**.
+1. Unter dem **Meine Token** Registerkarte, ziehen Sie eine **Email Script** Token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Benennen Sie Ihr E-Mail-Skript-Token und **klicken Sie auf , um den Inhalt zu bearbeiten.**
+1. Benennen Sie Ihr E-Mail-Skript-Token und **Klicken Sie zum Bearbeiten** Inhalt.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Verwenden Sie die Struktur auf der rechten Seite, um die Token **Person, Gelegenheit** oder **Benutzerdefiniertes Objekt** zu ziehen.
+1. Verwenden Sie die Baumstruktur auf der rechten Seite, um einzuziehen. **Person, Chancen** oder **Benutzerdefiniertes Objekt** Token.
 
    ![](assets/five-2.png)
 
    >[!NOTE]
    >
-   >Beim Zugriff auf ein Array (Gelegenheit oder benutzerdefiniertes Objekt) sind Sie auf die letzten 10 Elemente beschränkt, die der Person zugeordnet sind.
+   >Beim Zugriff auf ein Array (Opportunities oder benutzerdefiniertes Objekt) sind Sie auf die letzten 10 Elemente beschränkt, die mit der Person verknüpft sind.
 
 1. Beachten Sie, dass das Token nach dem Ziehen in den Skript-Editor aktiviert/aktiv wird.
 
@@ -45,25 +44,25 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
    >[!NOTE]
    >
-   >Wenn Sie in Token frei eingeben, stellen Sie sicher, dass alle entsprechenden Token im Baum markiert/aktiviert werden. Andernfalls werden sie als normaler Text behandelt und funktionieren nicht.
+   >Wenn Sie Token frei eingeben, stellen Sie sicher, dass Sie alle entsprechenden Token im Baum aktivieren/aktivieren. Andernfalls werden sie als normaler Text behandelt und funktionieren nicht.
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen:
 
-   * [Marketing-Entwickler - E-Mail-Skriptdokumentation](https://developers.marketo.com/email-scripting/)
-   * [Velocity Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [Velocity Reference Guide](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Dokumentation zur E-Mail-Skripterstellung für Marketo-Entwickler](https://developers.marketo.com/email-scripting/)
+   * [Velocity-Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Velocity-Referenzhandbuch](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Klicken Sie nach Abschluss des Skripts auf **Speichern**.
+1. Nachdem das Skript abgeschlossen ist, klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicken Sie noch einmal auf **Speichern**.
+1. Klicken **Speichern** einmalig.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
-Nun können Sie dieses Token in Ihren E-Mails verwenden. Das Skript wird jedes Mal ausgeführt, wenn eine E-Mail gesendet wird.
+Jetzt können Sie dieses Token in Ihren E-Mails verwenden. Das Skript wird jedes Mal ausgeführt, wenn eine E-Mail gesendet wird.
 
 >[!MORELIKETHIS]
 >
->[hinzufügen eines E-Mail-Skript-Tokens an Ihre E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[E-Mail-Skript-Token hinzufügen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

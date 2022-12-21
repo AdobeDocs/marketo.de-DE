@@ -1,64 +1,63 @@
 ---
 unique-page-id: 1147340
-description: Senden von E-Mails vom Interessenteninhaber - Marketing-Dokumente - Produktdokumentation
-title: E-Mails vom Interessenteninhaber senden
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Senden von E-Mails vom Lead-Eigentümer - Marketo Docs - Produktdokumentation
+title: E-Mails vom Lead-Eigentümer senden
+exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
+# E-Mails vom Lead-Eigentümer senden {#send-emails-from-the-lead-owner}
 
-# E-Mails vom Interessenteninhaber {#send-emails-from-the-lead-owner} senden
-
-Was ist, wenn Sie eine E-Mail an einen Interessenten im Namen des Interessenteninhabers senden möchten?  So geht es.
+Was ist, wenn Sie im Namen des Lead-Eigentümers eine E-Mail an einen Lead senden möchten?  So geht es.
 
 1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one.png)
 
-1. Klicken Sie in das Feld **Von** (löschen Sie einen vorhandenen Namen) und klicken Sie auf die Schaltfläche **Token einfügen**.
+1. Klicken Sie in **Von** ein (löschen Sie einen vorhandenen Namen) und klicken Sie auf die Schaltfläche **Token einfügen** Schaltfläche.
 
    ![](assets/two.png)
 
-1. Beginn, der &quot;`{{lead.Lead Owner`&quot;eingibt, und das Token **`{{lead.Lead Owner First Name}}`** auswählen.
+1. Eingabe beginnen`{{lead.Lead Owner`&quot; und wählen Sie die **`{{lead.Lead Owner First Name}}`** Token.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Geben Sie einen Standardwert ein, falls der Interessent noch keinen Interessentenbesitzer hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Eigentümer hat, und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Klicken Sie nach dem ersten Token auf , fügen Sie ein Leerzeichen hinzu und klicken Sie dann auf die Schaltfläche **Token einfügen**.
+1. Klicken Sie nach dem ersten Token auf , fügen Sie ein Leerzeichen hinzu und klicken Sie dann auf das **Token einfügen** Schaltfläche.
 
    ![](assets/five.png)
 
-1. Beginn, der &quot;`{{lead.Lead Owner`&quot;eingibt, und das Token **`{{lead.Lead Owner Last Name}}`** auswählen.
+1. Eingabe beginnen`{{lead.Lead Owner`&quot; und wählen Sie die **`{{lead.Lead Owner Last Name}}`** Token.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Geben Sie einen Standardwert ein, falls der Interessent noch keinen Interessentenbesitzer hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Eigentümer hat, und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
    >[!TIP]
    >
-   >Achten Sie darauf, dass Sie einen Abstand zwischen dem Token für den Vor- und Nachnamen einfügen.
+   >Stellen Sie sicher, dass Sie zwischen dem Vor- und Nachnamen-Token ein Leerzeichen hinzugefügt haben.
 
-1. Klicken Sie in das Feld Von E-Mail (löschen Sie eine vorhandene E-Mail-Adresse) und klicken Sie auf die Schaltfläche Token einfügen.
+1. Klicken Sie in das Feld Von E-Mail (löschen Sie eine vorhandene E-Mail-Adresse) und klicken Sie auf die Schaltfläche Token einfügen .
 
    ![](assets/eight.png)
 
-1. Beginn, der &quot;`{{lead.Lead Owner`&quot;eingibt, und das Token **`{{lead.Lead Owner Email Address}}`** auswählen.
+1. Eingabe beginnen`{{lead.Lead Owner`&quot; und wählen Sie die **`{{lead.Lead Owner Email Address}}`** Token.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Geben Sie einen Standardwert ein, falls der Interessent noch keinen Interessentenbesitzer hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Eigentümer hat, und klicken Sie auf **Einfügen**.
 
    ![](assets/ten.png)
 
-1. Vergewissern Sie sich, dass die Felder **Antwort auf** und **Betreff** ausgefüllt sind und Sie fertig sind!
+1. Stellen Sie sicher, dass **Antwort** und **Betreff** -Felder werden ausgefüllt und Sie sind fertig!
 
    ![](assets/eleven.png)

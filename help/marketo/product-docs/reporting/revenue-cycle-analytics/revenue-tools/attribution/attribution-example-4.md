@@ -1,59 +1,58 @@
 ---
 unique-page-id: 7514151
-description: Namensnennungsbeispiel 4 - Marketing Docs - Produktdokumentation
-title: Zuordnungsbeispiel 4
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+description: Attributionsbeispiel 4 - Marketo-Dokumente - Produktdokumentation
+title: Attributionsbeispiel 4
+exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Zuordnungsbeispiel 4 {#attribution-example}
+# Attributionsbeispiel 4 {#attribution-example}
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
 
-* 11. April | Michelle downloads e-Book (Content) - Erfolg
-* 15. April | John besucht (Webinar) - Erfolg
-* 22. April | (Chance 1) für 3.000 $ erstellt
-* 24. April | (Chance 2) für 5.000 $ erstellt
-* 25. April | John und Michelle sind mit **beide** Optionen verknüpft.
-* 29. April | [Option 1] ist geschlossen
+* 11. April | Michelle downloads e-Book (Inhalt) - Erfolg
+* 15. April | John attends (Webinar) - Success
+* 22. April | (Chance 1) erstellt für 3.000 $
+* 24. April | (Chancen 2) erstellt für 5.000 $
+* 25. April | John und Michelle sind mit **both** Optys
+* 29. April | [Option 1] is Closed-Won
 
-| Name des Programms | (Inhalt) | (Webinar) |
+| Programmname | (Inhalt) | (Webinar) |
 |---|---|---|
 |  | (Option 1) | (Option 2) | (Option 1) | (Option 2) |
 | (MT) Opty Created | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
-| (MT) Pipeline erstellt | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
+| (MT) Erstellte Pipeline | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0</pre>` | `<pre>0.5</pre>` | `<pre>0</pre>` |
-| (MT) Umsatz gewinnbringend | `<pre>$1,500</pre>` | `<pre>$0</pre>` | `<pre>$1,500</pre>` | `<pre>$0</pre>` |
+| (MT) Gewonnener Ertrag | `<pre>$1,500</pre>` | `<pre>$0</pre>` | `<pre>$1,500</pre>` | `<pre>$0</pre>` |
 
 **Antworten anzeigen**
 
 >[!NOTE]
 >
->**Erläuterung**
+>**Erklärung**
 >
->Wenn Sie mehrere Möglichkeiten und mehrere Programm-Erfolgspersonen haben, müssen Sie die Gutschrift zwischen den Menschen und den Programmen aufteilen. Beachten Sie jedoch, dass die Gutschrift für Chancen 1 und 2 nicht kombiniert werden. Jede Bewertung ist eine eigene Bonitätsbewertung.
+>Wenn Sie mehrere Möglichkeiten und mehrere Personen mit Programmerfolg haben, müssen Sie die Gewichtung zwischen Personen und Programmen aufteilen. Beachten Sie jedoch, dass die Gutschrift für die Chancen 1 und 2 nicht kombiniert wird. Jede ist eine eigene Bonitätsbeurteilung.
 >
->Wenn viele Leute involviert sind, berechnet Marketo automatisch die Bruchteile einer Gelegenheit, um die Gutschrift zu geben.
+>Wenn viele Personen beteiligt sind, berechnet Marketo automatisch die Bruchteile einer Chance, die man sich zutraut.
 
 >[!NOTE]
 >
->**Zuordnungsregeln**
+>**Attributionsregeln**
 >
->1. Die Gutschrift wird gleichmäßig aufgeteilt
->1. Du kannst dir nicht mehr gutschreiben, als du verdient hast
->1. Man kann etwas nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
+>1. Die Gewichtung wird gleichmäßig aufgeteilt
+>1. Du kannst nicht mehr Guthaben als du verdient hast
+>1. Man kann etwas, das in der Vergangenheit passiert ist, nicht zuschreiben
 
 
-Probieren Sie alle Beispiele aus und Sie werden ein Zuordnungs-Pro!
+Probieren Sie alle Beispiele aus und Sie werden ein Attributionsprofi sein!
 
 >[!MORELIKETHIS]
 >
->* [Zuordnungsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Zuordnungsbeispiel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Zuordnungsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Attributionsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attributionsbeispiel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Attributionsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 

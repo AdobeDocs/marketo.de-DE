@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) im Abschnitt &quot;Admin&quot;.
 >* [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem Facebook-Konto.
-
 >
 
 

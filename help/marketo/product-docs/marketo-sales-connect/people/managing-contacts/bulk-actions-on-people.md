@@ -1,33 +1,32 @@
 ---
 unique-page-id: 30081230
-description: Massenaktionen für Menschen - Marketing-Dokumente - Produktdokumentation
+description: Massenaktionen für Personen - Marketo-Dokumente - Produktdokumentation
 title: Massenaktionen für Personen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Massenaktionen für Personen {#bulk-actions-on-people}
 
 Es gibt ein paar Dinge, die Sie mit Ihren Kontakten stapelweise machen können, um Zeit zu sparen.
 
-Der erste Schritt für alle verfügbaren Massenaktionen besteht darin, zwei oder mehr Kontakte auszuwählen und auf das Feld (drei vertikale Punkte) zu klicken.
+Der erste Schritt für alle verfügbaren Massenaktionen besteht darin, zwei oder mehr Kontakte auszuwählen und auf die Daten (drei vertikale Punkte) zu klicken.
 
 ![](assets/one-3.png)
 
-## hinzufügen Personen zu Gruppe {#add-people-to-group}
+## Personen zur Gruppe hinzufügen {#add-people-to-group}
 
-hinzufügen mehrere Personen gleichzeitig zu einer Gruppe.
+Mehrere Personen gleichzeitig zu einer Gruppe hinzufügen.
 
 ![](assets/add-to-group.png)
 
 ## Quelle {#source}
 
-Wir weisen jedem Kontakt, der in die Datenbank gelangt, automatisch eine Quelle zu. Verwenden Sie diesen Schritt, um diese Quelle zu aktualisieren.
+Jedem Kontakt, der in die Datenbank gelangt, wird automatisch eine Quelle zugewiesen. Verwenden Sie diesen Schritt, um diese Quelle zu aktualisieren.
 
 ![](assets/source.png)
 
@@ -37,18 +36,18 @@ Wir weisen jedem Kontakt, der in die Datenbank gelangt, automatisch eine Quelle 
 
 ## Autorisierung {#authorization}
 
-Verwenden Sie in Übereinstimmung mit [GDPR](https://eugdpr.org/) die Autorisierung, um anzugeben, wie Sie die Berechtigung zum Kontakt mit diesen Kontakten erhalten haben.
+In Übereinstimmung mit [DSGVO](https://eugdpr.org/)verwenden, um anzugeben, wie Sie die Berechtigung zur Interaktion mit diesen Kontakten erhalten haben.
 
 ![](assets/authorization.png)
 
-## Abmelden {#unsubscribe}
+## Abbestellen {#unsubscribe}
 
-Führen Sie eine Massenabmeldung bei Kontakten durch, die keine Korrespondenz mehr von Ihnen erhalten möchten.
+Führen Sie eine Massenabmeldung für Kontakte durch, die keine Korrespondenz mehr von Ihnen erhalten möchten.
 
 ![](assets/unsubscribe.png)
 
 ## Löschen {#delete}
 
-Löschen Sie Kontakte stapelweise. Die vollständigen Schritte finden Sie [hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
+Massenlöschung von Kontakten. Vollständige Schritte finden Sie [here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)

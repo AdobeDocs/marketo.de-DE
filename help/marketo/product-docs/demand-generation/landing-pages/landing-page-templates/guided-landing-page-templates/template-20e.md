@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 20E {#template-20e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html) herunterladen
+Rechtsklick auf [Download-Vorlage 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
 
 ![](assets/template-20e.png)
 

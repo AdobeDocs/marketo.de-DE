@@ -58,13 +58,13 @@ Durch das Hinzufügen von Raster-Linien für Landingpages wird die Ausrichtung v
 
 ## Von Sendungen blockierte Leads {#leads-blocked-from-mailings}
 
-Wenn Sie eine Kampagne planen, können Sie auf den Link klicken, um die Liste der Leads anzuzeigen, die von Ihrem Mailing ausgeschlossen sind.
+Wenn Sie eine Kampagne planen, können Sie auf den Link klicken, um die Liste der Leads anzuzeigen, die von Ihrem Versand blockiert werden.
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
 ## Warteschritt: Lead-Token und My Token {#wait-step-lead-token-and-my-token}
 
-In unserer Mai-Version haben wir dem Schritt Wartefluss erweiterte Optionen hinzugefügt. Mit diesen Änderungen können Sie einen Geschäftstag, ein Datum und eine Uhrzeit angeben. In dieser Version haben wir die Möglichkeit hinzugefügt, ein Token im Warteschritt zu verwenden. Sie können beispielsweise `{{lead.Birthday}}` verwenden, um eine E-Mail zum Geburtstag zu senden, oder `{{my.Event Date}}` verwenden, um eine endgültige Webinar-Erinnerung zu senden.
+In unserer Mai-Version haben wir dem Schritt Wartefluss erweiterte Optionen hinzugefügt. Mit diesen Änderungen können Sie einen Geschäftstag, ein Datum und eine Uhrzeit angeben. In dieser Version haben wir die Möglichkeit hinzugefügt, ein Token im Warteschritt zu verwenden. Sie können beispielsweise `{{lead.Birthday}}` um eine E-Mail zum Geburtstag zu senden oder `{{my.Event Date}}` , um eine endgültige Webinar-Erinnerung zu senden.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

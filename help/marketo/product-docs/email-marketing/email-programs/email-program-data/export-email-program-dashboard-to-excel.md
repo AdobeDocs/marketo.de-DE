@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359598
-description: E-Mail-Programm-Dashboard nach Excel exportieren - Marketing Docs - Produktdokumentation
-title: E-Mail-Programm-Dashboard nach Excel exportieren
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Exportieren des E-Mail-Programm-Dashboards in Excel - Marketo-Dokumente - Produktdokumentation
+title: Exportieren des E-Mail-Programm-Dashboards in Excel
+exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
+# Exportieren des E-Mail-Programm-Dashboards in Excel {#export-email-program-dashboard-to-excel}
 
-# E-Mail-Programm-Dashboard nach Excel exportieren {#export-email-program-dashboard-to-excel}
+Sobald Sie ein E-Mail-Programm ausgeführt haben und einige Daten im Dashboard haben, können Sie diese Rohdaten exportieren, um sie für weitere Analysen zu extrahieren. So geht es.
 
-Nachdem Sie ein E-Mail-Programm ausgeführt und Daten im Dashboard gespeichert haben, können Sie diese Rohdaten exportieren, um sie für weitere Analysen zu optimieren. So geht es.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Suchen und wählen Sie Ihr E-Mail-Programm aus.
+1. Wählen Sie Ihr E-Mail-Programm aus.
 
    ![](assets/lifecycledashboard.jpg)
 
    >[!NOTE]
    >
-   >Wenn Ihr E-Mail-Programm noch nicht gestartet wurde, wird kein Dashboard angezeigt, da keine Daten sichtbar sind.
+   >Wenn Ihr E-Mail-Programm noch nicht gestartet wurde, wird kein Dashboard angezeigt, da keine Daten angezeigt werden.
 
 1. Klicken Sie einfach auf das Excel-Symbol und Ihr Export beginnt.
 

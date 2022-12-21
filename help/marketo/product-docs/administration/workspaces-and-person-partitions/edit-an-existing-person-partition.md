@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360323
-description: Vorhandene Benutzerpartition bearbeiten - Marketo Docs - Produktdokumentation
+description: Bearbeiten einer bestehenden Personenpartition - Marketo Docs - Produktdokumentation
 title: Vorhandene Personenpartition bearbeiten
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
@@ -11,35 +10,35 @@ ht-degree: 0%
 
 ---
 
-# Eine vorhandene Benutzerpartition bearbeiten {#edit-an-existing-person-partition}
+# Vorhandene Personenpartition bearbeiten {#edit-an-existing-person-partition}
 
-Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partition kann bis zu einem oder mehreren Arbeitsbereichen verbunden werden. Hier sehen Sie, wie Sie die Partitionsdetails bearbeiten.
+Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partition kann mit einem oder mehreren Arbeitsbereichen verbunden werden. Hier finden Sie, wie Sie die Partitionsdetails bearbeiten können.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!PREREQUISITES]
 >
->[Personenpartition erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Erstellen einer Personenpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
+1. under **Admin** klicken **Arbeitsbereiche und Partitionen**.
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. Wählen Sie unter der Registerkarte **Benutzerpartitionen** die zu bearbeitende Personenpartition aus und klicken Sie auf **Personenpartition bearbeiten**.
+1. Unter dem **Personenpartitionen** , wählen Sie die Personenpartition aus, die Sie bearbeiten möchten, und klicken Sie auf **Personenpartition bearbeiten**.
 
    ![](assets/two-5.png)
 
-1. Geben Sie die Personenpartition **Name**, die **Arbeitsbereiche** ein, zu denen sie gehören, und klicken Sie auf **Speichern**.
+1. Benutzerpartition eingeben **Name**, die **Arbeitsbereiche** Sie gehören zu und klicken auf **Speichern**.
 
    ![](assets/three-5.png)
 
-1. Nach dem Speichern der Änderungen sollten Sie das Update sehen!
+1. Nach dem Speichern der Änderungen sollte das Update angezeigt werden!
 
    ![](assets/four-4.png)
 
-Das ist es. Es scheint, als solch ein mächtiges Merkmal sollte komplex sein, aber es ist es nicht.
+Das ist es. Es scheint, dass ein solch mächtiges Feature komplex sein sollte, aber es ist es nicht.
 
 >[!CAUTION]
 >

@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14746161
-description: Übersicht über das Abmelden - Marketing Docs - Produktdokumentation
-title: Übersicht zum Abmelden
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Übersicht über die Abmeldung - Marketo-Dokumente - Produktdokumentation
+title: Abmelde-Übersicht
+exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
+# Abmelde-Übersicht {#unsubscribe-overview}
 
-# Übersicht zum Abmelden {#unsubscribe-overview}
+Es wird immer wichtiger, dass Unternehmen die Datenschutzgesetze für E-Mails einhalten. Um Ihnen dabei zu helfen, haben wir unsere Abmeldeerfahrung verbessert.
 
-Es wird immer wichtiger, dass Organisationen die Datenschutzgesetze für E-Mails einhalten. Um dies zu unterstützen, haben wir einige Verbesserungen an unserer Abmeldung vorgenommen.
-
-* Abmelden-Links werden in allen E-Mails platziert, die von Sales Connect/ToutApp und Salesforce gesendet werden (dies gilt nicht für benutzerdefinierte E-Mails, die von Outlook oder Gmail gesendet werden)
-* Administratoren können Nachrichten zum Abmelden für ihr gesamtes Team bearbeiten
-* Abmeldeinformationen werden in PDV gespeichert
-* Die Abmeldung kann manuell erfolgen: Klicklink, Salesforce-Synchronisierung und Absprung
-* Neue Link-Landingpage zum Abmelden
+* Abmelde-Links werden in allen E-Mails platziert, die von Sales Connect/ToutApp und Salesforce gesendet werden (dies gilt nicht für benutzerdefinierte E-Mails, die von Outlook oder Gmail gesendet werden).
+* Administratoren können Abmelde-Nachrichten für ihr gesamtes Team bearbeiten
+* Abmeldeinformationen werden in PDV gespeichert.
+* Abmeldungen können manuell vorgenommen werden: Klicks auf Link, Salesforce Sync und Bounce
+* Neue Landingpage für Abmelde-Links

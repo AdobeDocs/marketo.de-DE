@@ -54,7 +54,7 @@ Abbildung 5. Einchecken
 
 ## Verbesserte Bestätigungs-URL des Webinars {#enhanced-webinar-confirmation-url}
 
-Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie für jeden registrierten Teilnehmer mithilfe des neuen Tokens `{{member.webinar URL}}` einen eindeutigen Link in die Bestätigungs-E-Mail ein. Zu den Adobe Connect-Verbesserungen gehört auch die Möglichkeit, die E-Mail mit den Benutzerkontoinformationen, die die Anmelde-ID und das Kennwort enthält, zu aktivieren bzw. zu deaktivieren.
+Jetzt erhältlich für ON24 und Adobe Connect! Einbeziehen eines eindeutigen Links in die Bestätigungs-E-Mail für jeden registrierten Teilnehmer mithilfe der neuen `{{member.webinar URL}}` Token. Zu den Adobe Connect-Verbesserungen gehört auch die Möglichkeit, die E-Mail mit den Benutzerkontoinformationen, die die Anmelde-ID und das Kennwort enthält, zu aktivieren bzw. zu deaktivieren.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 

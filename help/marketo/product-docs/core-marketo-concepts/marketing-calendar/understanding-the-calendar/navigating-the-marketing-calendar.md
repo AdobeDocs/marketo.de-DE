@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147257
-description: Navigieren im Marketingkalender - Marketo Docs - Produktdokumentation
+description: Navigieren im Marketing-Kalender - Marketo-Dokumente - Produktdokumentation
 title: Navigieren im Marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
@@ -13,39 +12,39 @@ ht-degree: 1%
 
 # Navigieren im Marketingkalender {#navigating-the-marketing-calendar}
 
-Die Navigation durch den Marketingkalender ist einfach als ein, zwei, drei!
+Der Marketingkalender ist einfach zu navigieren: Eins, Zwei, Drei!
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie über eine [Marketingkalenderlizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) verfügen. Andernfalls wird die Kachel &quot;Marketingkalender&quot;nicht in &quot;Mein Marketo&quot;angezeigt.
+>Stellen Sie sicher, dass Sie [Lizenz für Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - Andernfalls wird die Kachel Marketing-Kalender nicht in My Marketo angezeigt.
 
-1. Gehen Sie zum **Marketingkalender**.
+1. Navigieren Sie zu **Marketingkalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Dies ist eine voreingestellte Ansicht von Assets, die in Ihrer Marketo-Instanz geplant sind.
+1. Dies ist eine Vogelperspektive-Ansicht von Assets, die in Ihrer Marketo-Instanz geplant sind.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
-## Ändern zwischen Modi {#change-between-modes}
+## Wechsel zwischen Modi {#change-between-modes}
 
-1. Klicken Sie auf die Registerkarten **3 Wochen** oder **Monat**, um zwischen den Modi zu wechseln.
+1. Klicken Sie auf **3 Wochen** oder **Monat** Registerkarten zum Wechseln zwischen Modi.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Verwenden Sie die Agenda-Ansicht {#use-the-agenda-view}
+## Verwenden der Agenda-Ansicht {#use-the-agenda-view}
 
-Die Agenda-Ansicht zeigt alle Ihre Einträge als Liste an.
+In der Agenda-Ansicht werden alle Einträge als Liste angezeigt.
 
-1. Klicken Sie auf die Dropdownliste **Filter**.
+1. Klicken Sie auf **Filter-Dropdown**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Wählen Sie die Ansicht **Agenda**.
+1. Wählen Sie die **Agenda** anzeigen.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Fantastisch Das ist eine großartige Ansicht, um alles zu sehen, was geplant ist.
+   Fantastisch Das ist ein toller Ausblick, um alles zu sehen, was geplant ist.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
@@ -57,14 +56,14 @@ Ohne DeLorean! Klicken Sie einfach auf die Navigationsschaltflächen.
 
 Sie können auch diese Tastaturbefehle verwenden.
 
-| Aktion | Tastaturkürzel |
+| Aktion | Tastaturbefehl |
 |---|---|
-| Zurück zur Zeit | Alt/Opt+Up |
-| In der Zeit weiterleiten | alt/opt + down |
-| Zu &quot;heute&quot; gehen | alt/opt + t |
+| Zurück zur Zeit | alt/opt + up |
+| Zeitnah weiterleiten | Alt/Opt-out + Herunterfahren |
+| Wechseln Sie zu &quot;heute&quot;. | alt/opt + t |
 
 Fantastisch Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
 
 >[!MORELIKETHIS]
 >
->[Filtern des Marketingkalenders](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtern des Marketing-Kalenders](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)

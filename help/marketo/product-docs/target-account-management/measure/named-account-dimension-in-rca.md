@@ -1,53 +1,52 @@
 ---
 unique-page-id: 11380789
-description: Benannte Dimension in RCA - Marketing Docs - Produktdokumentation
-title: Benannte Konto-Dimension in RCA
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Dimension von benannten Konten in RCA - Marketo Docs - Produktdokumentation
+title: Dimension von benannten Konten in RCA
+exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Dimension von benannten Konten in RCA {#named-account-dimension-in-rca}
 
-# Benannte Konto-Dimension in RCA {#named-account-dimension-in-rca}
-
-Erstellen Sie umsatzbasierte Berichte mit der TAM-spezifischen Dimension &quot;Benanntes Konto&quot;in &quot;Umsatzwyklusanalysen&quot;.
+Erstellen Sie umsatzbasierte Berichte mit der TAM-spezifischen Dimension &quot;Spezifisches Konto&quot;in der Umsatzzyklusanalyse.
 
 >[!NOTE]
 >
->**Dimensionen**  - Attribute (durch gelbe Punkte dargestellt), die unterschiedliche Ansichten der Maßnahmen geben.
+>**Dimensionen** - Attribute (dargestellt durch gelbe Punkte), die unterschiedliche Ansichten der Maßnahmen geben.
 
 ![](assets/one-2.png)
 
 >[!NOTE]
 >
->Die Dimension &quot;Benanntes Konto&quot;in RCA kann verwendet werden, um die Ergebniseffekte zielgerichteter Konten zu messen (z. B. Umsatz gewonnen, Pipeline generiert oder Beschleunigung im Verkaufszyklus). Diese Dimension kann auch verwendet werden, um zu identifizieren, welche Programm bei benannten Konten gut abgeschnitten haben und nicht gut abgeschnitten haben.
+>Die Dimension &quot;Spezifisches Konto&quot;in RCA kann verwendet werden, um die Ergebniseffekte aus Zielkonten zu messen (z. B. Umsatz gewonnen, Pipeline generiert oder Beschleunigung im Verkaufszyklus). Diese Dimension kann auch verwendet werden, um zu ermitteln, welche Programme bei benannten Konten eine gute Leistung erzielt haben und welche nicht.
 
-Die folgenden Berichte haben Zugriff auf die Dimension &quot;Benanntes Konto&quot;:
+Die folgenden Berichte haben Zugriff auf die Dimension &quot;Spezifisches Konto&quot;:
 
 * E-Mail-Analyse
-* Interessentenanwerbung
-* Chancen Analyse
-* Analyse der Programm-Mitgliedschaft
+* Lead-Analyse
+* Opportunity-Analyse
+* Analyse der Programmmitgliedschaft
 
 >[!NOTE]
 >
->Im Folgenden finden Sie einige Beispiele von Marketo TAM in der Analyse von Umsatzzyklen.
+>Im Folgenden finden Sie einige Beispiele für Marketo TAM in der Umsatzzyklusanalyse.
 
 Pipeline-Beschleunigung innerhalb benannter Konten
 
 ![](assets/two-1.png)
 
-Effektivität und Erfolg von Kanälen nach benannten Konten
+Kanaleffektivität und -erfolg nach benannten Konten
 
 ![](assets/three-2.png)
 
-Effektivität und Auswirkung von Programmen auf das Endergebnis
+Effektivität und Auswirkung des Programms auf das Endergebnis
 
 ![](assets/four-3.png)
 
-Reichweite von QualitätsInteressenten und Interaktionen innerhalb benannter Konten
+Abdeckung von Qualitäts-Leads und Interaktion innerhalb von benannten Konten
 
 ![](assets/five-2.png)

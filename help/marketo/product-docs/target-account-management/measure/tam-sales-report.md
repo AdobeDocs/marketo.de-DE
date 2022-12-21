@@ -1,34 +1,33 @@
 ---
 unique-page-id: 11385183
-description: TAM Sales Report - Marketing Docs - Produktdokumentation
+description: TAM Sales Report - Marketo Docs - Produktdokumentation
 title: TAM-Verkaufsbericht
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # TAM-Verkaufsbericht {#tam-sales-report}
 
-Erhalten Sie eine wöchentliche E-Mail mit Ihren Top-Konten und deren wöchentlichen Trends.
+Sie erhalten eine wöchentliche E-Mail mit Ihren Top-Konten und ihren wöchentlichen Trends.
 
 >[!NOTE]
 >
->Erfahren Sie, wie Sie diesen Bericht [hier](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md) einrichten.
+>Erfahren Sie, wie Sie diesen Bericht einrichten [here](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 Der Bericht teilt:
 
-* Benannte Konten, sortiert nach der von Ihnen gewählten Kontenbewertung
-* Top-engagierte Mitarbeiter
+* Spezifische Konten, sortiert nach der von Ihnen ausgewählten Kontobewertung
+* Topbeteiligte Personen
 * Wichtige Trends und interessante Momente
-* Ein Link zum Herunterladen einer CSV-Datei mit weiteren Details
+* Link zum Herunterladen einer CSV-Datei mit zusätzlichen Details
 
 ![](assets/tam-sales-report-1.png)
 
-## Verkaufsberichtschlüssel {#sales-report-key}
+## Schlüssel zum Verkaufsbericht {#sales-report-key}
 
 <table> 
  <tbody> 
@@ -36,28 +35,28 @@ Der Bericht teilt:
    <td><strong>Kontobewertung</strong></td> 
    <td> 
     <div>
-      Wöchentlicher Trend nach Kontostand (in Setup ausgewählt), gefolgt von der Punktzahl des aktuellen Kontos 
+      Wöchentlicher Trend nach Kontobewertung (in der Einrichtung ausgewählt), gefolgt von der aktuellen Kontobewertung 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Vertriebskanal</strong></td> 
+   <td><strong>Verkaufspipelines</strong></td> 
    <td> 
     <div>
-      Wöchentliche Trends nach Pipeline, gefolgt von der gesamten derzeitigen Pipeline und der Anzahl der offenen Möglichkeiten 
+      Wöchentlicher Trend nach Pipeline, gefolgt von der gesamten aktuellen Pipeline und der Anzahl der offenen Möglichkeiten 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Ansichten der Seite</strong></td> 
+   <td><strong>Seitenansichten</strong></td> 
    <td> 
     <div>
-      Wöchentliche Trends bei den Ansichten, gefolgt von der Gesamtzahl der Ansichten und der Anzahl individueller Besucher 
+      Wöchentlicher Trend der Seitenansichten, gefolgt von der Gesamtzahl der Seitenansichten und der Anzahl der Unique Visitors 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Interessante Momente</strong></td> 
    <td> 
     <div>
-      Gesamtzahl der interessanten Momente, die während der Woche aufgetreten sind 
+      Gesamtzahl interessanter Momente während der Woche 
     </div></td> 
   </tr> 
  </tbody> 

@@ -1,80 +1,79 @@
 ---
 unique-page-id: 10097202
-description: Head Beginn für E-Mail-Programme - Marketing Docs - Produktdokumentation
-title: Beginn für E-Mail-Programme
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Head Start für E-Mail-Programme - Marketo-Dokumente - Produktdokumentation
+title: Abteilungsstart für E-Mail-Programme
+exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
-
-# Head-Beginn für E-Mail-Programm {#head-start-for-email-programs}
+# Abteilungsstart für E-Mail-Programme {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
 >[E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
-Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, wird festgelegt, wann das Programm mit der Verarbeitung beginnt. Wenn Sie möchten, dass Ihre E-Mails zum ausgewählten Zeitpunkt gestartet werden, gibt Ihnen Head Beginn diese Option, indem Sie das Programm im Voraus verarbeiten.
+Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, wird festgelegt, wann die Verarbeitung des Programms beginnt. Wenn Ihre E-Mails zum ausgewählten Zeitpunkt gestartet werden sollen, bietet Ihnen Head Start diese Option, indem Sie das Programm im Voraus verarbeiten.
 
-## Beginn der Standardüberschrift {#standard-head-start}
+## Standardkopfzeilenstart {#standard-head-start}
 
-1. Klicken Sie auf **Marketing-Aktivitäten**.
+1. Klicken **Marketingaktivitäten**.
 
    ![](assets/one-1.png)
 
-1. Suchen und wählen Sie Ihr E-Mail-Programm aus.
+1. Wählen Sie Ihr E-Mail-Programm aus.
 
    ![](assets/selectemailprogram-4.jpg)
 
    >[!NOTE]
    >
-   >Head-Beginn kann nicht mit A/B-Tests verwendet werden.
+   >Head Start kann nicht mit A/B-Tests verwendet werden.
 
-1. Planen Sie in der Kachel Plan Ihre E-Mail und wählen Sie dann das Feld **Überschrift Beginn**.
+1. Planen Sie Ihre E-Mail in der Kachel Planung und wählen Sie dann die **Head Start** ankreuzen.
 
    ![](assets/three-1.png)
 
-   Bei Auswahl des Head-Beginns beginnt das Programm etwa 12 Stunden vor der geplanten Zeit mit der Verarbeitung. Nach der Verarbeitung von Beginn ist das Programm gesperrt.
+   Wenn Head Start ausgewählt ist, beginnt das Programm etwa 12 Stunden vor der geplanten Zeit mit der Verarbeitung. Sobald die Verarbeitung beginnt, wird das Programm gesperrt.
 
    >[!CAUTION]
    >
-   >Jeder von Ihrer Audience, der sich nach dem Sperren des Programms abmeldet, erhält die E-Mail noch. Es wird empfohlen, die Benachrichtigung zum Abbestellen des Abonnements so anzupassen, dass die Verarbeitung von Abbestellungen 1-2 Werktage dauern kann.
+   >Jeder, der sich von Ihrer Audience abmeldet, nachdem das Programm gesperrt wurde, erhält weiterhin die E-Mail. Es wird empfohlen, Ihre Abmelde-Benachrichtigung so anzupassen, dass die Verarbeitung von Abmeldungen 1-2 Werktage dauern kann.
 
-1. Klicken Sie auf **Programm genehmigen**.
+1. Klicken **Programm genehmigen**.
 
    ![](assets/four-1.png)
 
-   Nach der Genehmigung durch das Programm befinden sich vier verschiedene Statusangaben auf der Genehmigungskachel.
+   Nach der Programmgenehmigung gibt es vier verschiedene Status, die Sie auf der Kachel Genehmigung sehen können.
 
-   * **Warten auf Ausführung:** Nachdem das Programm genehmigt wurde.
-   * **Verarbeitung gestartet und wartet auf Ausführung:** Verarbeitung wird ausgeführt.
-   * **Verarbeitung abgeschlossen, auf Ausführung warten:** Verarbeitung abgeschlossen, E-Mail wartet jetzt auf geplante Zeit zum Starten.
-   * **Fertig gestellt:** Programm abgeschlossen.
+   * **Warten auf Ausführung:** Nach Genehmigung des Programms.
+   * **Die Verarbeitung wurde gestartet und wartet auf die Ausführung:** Die Verarbeitung wird ausgeführt.
+   * **Verarbeitung abgeschlossen, Warten auf Ausführung:** Verarbeitung abgeschlossen, E-Mail wartet nun auf die geplante Startzeit.
+   * **Abgeschlossen:** Programm abgeschlossen.
 
    >[!TIP]
    >
-   >Möchten Sie den Vorgang abbrechen, nachdem das Programm gesperrt wurde, aber bevor die E-Mail gesendet wird? Kein Problem! Klicken Sie einfach unten rechts in der Genehmigungskachel auf **Programm abbrechen**.
+   >Möchten Sie abbrechen, nachdem das Programm gesperrt wurde, aber bevor die E-Mail gesendet wird? Kein Problem! Einfaches Klicken **Programm abbrechen** rechts unten in der Kachel Genehmigung .
 
    >[!NOTE]
    >
-   >Wenn Sie Ihr E-Mail-Programm weniger als 12 Stunden vor der geplanten Laufzeit ablehnen und dann Ihre Meinung ändern, müssen Sie ein neues Datum/eine neue Uhrzeit auswählen, das mindestens 12 Stunden vor der Genehmigung liegt.
+   >Wenn Sie die Genehmigung Ihres E-Mail-Programms weniger als 12 Stunden vor der geplanten Laufzeit aufheben, sich dann aber anders entscheiden, müssen Sie ein neues Datum/eine neue Uhrzeit auswählen, das mindestens 12 Stunden vor der Genehmigung liegt.
 
-## Head-Beginn mit Empfänger-Zeitzone {#head-start-with-recipient-time-zone}
+## Head Start mit Zeitzone des Empfängers {#head-start-with-recipient-time-zone}
 
-Für unsere bestehende Kopfzeilenfunktion ist es erforderlich, dass das Programm mindestens 12 Stunden im Voraus geplant wird. Was bedeutet das für die Zeitzone des Empfängers? Denken Sie daran, dass, wenn die Zeitzone des Empfängers aktiv ist, wir Beginn das E-Mail-Programm um Mitternacht in der frühesten Zeitzone (UTC +14:00) ausführen. Um **beide** Überschrift- und Empfänger-Zeitzone zu aktivieren, müssen Programm daher mindestens 12 Stunden vor der frühesten Zeitzone geplant werden (UTC +14:00 **).**
+Für unsere bestehende Head Start-Funktion muss das Programm mindestens 12 Stunden im Voraus geplant werden. Was bedeutet das für die Zeitzone der Empfänger? Denken Sie daran, dass wir, wenn die Zeitzone des Empfängers aktiv ist, mit der Ausführung des E-Mail-Programms um Mitternacht in der frühesten Zeitzone beginnen (UTC +14:00). Um **both** Start- und Zeitzone der Empfänger, Programme müssen geplant werden **mindestens 12 Stunden vor der frühesten Zeitzone (UTC +14:00**.
 
-Das bedeutet, dass Sie, wenn Sie in Amerika/Los Angeles sind und sowohl Head-Beginn als auch Empfänger-Zeitzone aktivieren möchten, das Programm **34 Stunden** im Voraus planen müssen. Wie sind wir zu dieser Zahl gekommen?
+Wenn Sie sich also in Amerika/Los Angeles befinden und sowohl Head Start als auch Recipient Time Zone aktivieren möchten, müssen Sie das Programm planen **34 Stunden** im Voraus. Wie sind wir auf diese Zahl gekommen?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Erfahren Sie ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mehr darüber, wie Sie E-Mail-Programm mit der Zeitzone des Empfängers planen.
+[Weitere Infos](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) Informationen zur Planung von E-Mail-Programmen mit der Zeitzone der Empfänger.
 
 >[!MORELIKETHIS]
 >
->* [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
->* [E-Mail-Programm mit Zeitzone des Empfängers planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Die Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [E-Mail-Programm planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [E-Mail-Programme mit der Zeitzone der Empfänger planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Verstehen der Zeitzone eines Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 

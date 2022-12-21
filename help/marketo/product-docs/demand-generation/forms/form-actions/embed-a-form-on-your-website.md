@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359641
-description: Einbetten eines Formulars in Ihre Website - Marketing Docs - Produktdokumentation
-title: Einbetten eines Formulars in Ihre Website
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Einbetten eines Formulars auf Ihrer Website - Marketo Docs - Produktdokumentation
+title: Einbetten eines Formulars auf Ihrer Website
+exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
+# Einbetten eines Formulars auf Ihrer Website {#embed-a-form-on-your-website}
 
-# Einbetten eines Formulars in Ihre Website {#embed-a-form-on-your-website}
+Mit Marketo können Sie unsere Formulare auf Ihrer eigenen Website einbetten. So erhalten Sie Zugriff auf den Einbettungscode.
 
-Marketo ermöglicht Ihnen, unsere Formulare auf Ihrer eigenen Website einzubetten. So erhalten Sie Zugriff auf den Einbettungscode.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,30 +22,30 @@ Marketo ermöglicht Ihnen, unsere Formulare auf Ihrer eigenen Website einzubette
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Klicken Sie unter **Formularaktionen** auf **Einbettungscode**.
+1. under **Formularaktionen** klicken **Einbettungscode**.
 
    >[!NOTE]
    >
-   >Das Formular muss genehmigt werden, damit das Element **Einbettungscode** sichtbar/verwendbar ist.
+   >Das Formular muss für die **Einbettungscode** Element sichtbar/verwendbar sein.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >**[Die](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** Formularvorausfüllung funktioniert nicht, wenn der Formulareinbettungscode auf Ihren eigenen Seiten oder in der  __ Marketing-Landingpage verwendet wird. Die Funktion zum Vorausfüllen von Formularen funktioniert nur, wenn das Formular über die Option &quot;Element einfügen&quot;in einer Marketing-Landingpage verwendet wird.
+   >**[Vorab ausfüllen](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** funktioniert nicht bei der Verwendung des Formular-Einbettungscodes auf Ihren eigenen Seiten _oder_ eine Marketo-Landingpage. Das Vorbefüllen von Formularen ist nur dann sinnvoll, wenn das Formular in einer Marketo-Landingpage über die Option Element einfügen verwendet wird.
 
-1. Wählen Sie den Einbettungscode aus/kopieren und klicken Sie dann auf **Schließen**.
+1. Wählen/kopieren Sie den Einbettungscode aus und klicken Sie auf **Schließen**.
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 
 >[!TIP]
 >
->Sobald der Code auf Ihrer Website eingebettet ist, werden alle Änderungen am Formular in Marketing nach Genehmigung des Formulars an Ihre Site gesendet. Sie müssen keine weiteren Änderungen am Code vornehmen.
+>Sobald der Code auf Ihrer Website eingebettet ist, werden alle Änderungen am Formular in Marketo bei der Formulargenehmigung an Ihre Site gesendet. Sie müssen keine weiteren Änderungen am Code vornehmen.
 
-Geben Sie den Einbettungscode einfach an Ihren Webentwickler weiter und lassen Sie ihn zu Ihrer Site hinzufügen.
+Geben Sie nun einfach den Einbettungscode an Ihren Web-Entwickler weiter und lassen Sie ihn von diesen zu Ihrer Site hinzufügen.
 
 >[!NOTE]
 >
->Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihnen die [Forms 2.0 Developers Page](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihnen die [Forms 2.0-Entwicklerseite](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Gute Arbeit! Soll der [Einbettungscode den Leuchtkasten-Code](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) enthalten? Das ist auch leicht!
+Großartig gemacht! Möchten Sie die [Einbettungscode zum Einschließen von Lightbox-Code](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Das ist auch einfach!

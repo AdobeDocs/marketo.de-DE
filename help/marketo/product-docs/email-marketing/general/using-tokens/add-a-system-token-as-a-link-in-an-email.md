@@ -22,11 +22,11 @@ Die folgenden Token können als Links in einer E-Mail- oder E-Mail-Vorlage verwe
 
 >[!NOTE]
 >
->Diese Token können nur dann auf **nicht** geklickt werden, wenn sie sich in einem Ankerlink befinden. Außerdem können sie **nicht** in ein My Token eingebettet werden.
+>Diese Token werden **not** auf anklickbar sein, es sei denn, sie befinden sich in einem Ankerlink. Außerdem können sie **not** in ein My Token eingebettet sein.
 
 So fügen Sie sie einer E-Mail hinzu:
 
-1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf **Entwurf bearbeiten**.
+1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-1.png)
 
@@ -34,7 +34,7 @@ So fügen Sie sie einer E-Mail hinzu:
 
    ![](assets/two-1.png)
 
-1. Markieren Sie den Text, den Sie in einen Link konvertieren möchten, der das Token enthält, und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten**.
+1. Markieren Sie den Text, den Sie in einen Link konvertieren möchten, der das Token enthält, und klicken Sie auf **Link einfügen/bearbeiten** Schaltfläche.
 
    ![](assets/three-1.png)
 
@@ -46,16 +46,16 @@ So fügen Sie sie einer E-Mail hinzu:
    >
    >Kopieren/Fügen Sie das gewünschte Token ein: **`{{system.forwardToFriendLink}}`** oder **`{{system.unsubscribeLink}}`** oder **`{{system.viewAsWebpageLink}}`**
 
-1. Klicken Sie auf **Save**.
+1. Klicken **Speichern**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
 >[!IMPORTANT]
 >
->Wenn Sie diesen Ansatz verwenden, um das System-Token &quot;viewAsWebpageLink&quot;hinzuzufügen, können Sie **not** es mithilfe von Token überschreiben. Verwenden Sie stattdessen [Einen Link &quot;Als Webseite anzeigen&quot;zu einem E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)-Ansatz hinzufügen, mit dem Sie &quot;viewAsWebPageLink&quot;mithilfe von Token überschreiben können.
+>Wenn Sie diesen Ansatz verwenden, um das System-Token &quot;viewAsWebpageLink&quot;hinzuzufügen, können Sie **not** mit Token überschreiben. Verwenden Sie stattdessen [Hinzufügen eines Links &quot;Als Webseite anzeigen&quot;zu einer E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) -Ansatz, bei dem Sie &quot;viewAsWebPageLink&quot;mithilfe von Token überschreiben können.
 
 >[!NOTE]
 >
->Vergessen Sie nicht, [Ihre E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) zu validieren, wenn Sie fertig sind.
+>Vergiss nicht, [E-Mail validieren](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) wann geschehen.
 
 Gut gemacht! Jetzt wissen Sie, wie Sie ein System-Token als Link in einer E-Mail hinzufügen können.

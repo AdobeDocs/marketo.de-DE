@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147118
-description: Verwenden von Periodenkosten in einem Programm - Marketo Docs - Produktdokumentation
-title: Verwenden von Periodenkosten in einem Programm
+description: Verwenden von Periodenkosten in einem Programm - Marketo-Dokumente - Produktdokumentation
+title: Verwenden von Zeitraumkosten in einem Programm
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
@@ -11,29 +10,29 @@ ht-degree: 0%
 
 ---
 
-# Verwenden von Zeitkosten in einem Programm {#using-period-costs-in-a-program}
+# Verwenden von Zeitraumkosten in einem Programm {#using-period-costs-in-a-program}
 
-Ein [Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) ist der Betrag, den Sie für ein Programm ausgeben. Es kann ein oder mehrere Monate dauern und wird für den Berichte-ROI verwendet.
+A [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) ist der Betrag, den Sie für ein Programm ausgeben. Er kann einen oder mehrere Monate dauern und wird für die Berichterstellung des ROI verwendet.
 
-## hinzufügen einer Periodenkosten {#add-a-period-cost}
+## Hinzufügen von Periodenkosten  {#add-a-period-cost}
 
-1. Gehen Sie zur Registerkarte **Setup** Ihres Programms.
+1. Navigieren Sie zu **Einrichtung** -Tab Ihres Programms.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Ziehen Sie **Period Cost** in die Arbeitsfläche.
+1. Drag &amp; Drop **Periodenkosten** in die Arbeitsfläche.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. Klicken Sie auf das Kalendersymbol. Wählen Sie einen Monat aus. Klicken Sie auf **OK**.
+1. Klicken Sie auf das Kalendersymbol. Wählen Sie einen Monat aus. Klicken **OK**.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Geben Sie eine **Period Cost** (ohne Dezimalstellen oder Kommas) ein. Klicken Sie auf **Speichern**.
+1. Geben Sie einen **Periodenkosten** (ohne Dezimalstellen oder Kommas). Klicken **Speichern**.
 
    >[!NOTE]
    >
-   >Das kann eine Schätzung sein. Sie können die Kosten eines Zeitraums jederzeit bearbeiten, sobald Sie den genauen Betrag kennen (siehe nächsten Abschnitt).
+   >Dies kann eine Schätzung sein. Sobald Sie den genauen Betrag kennen, können Sie die Kosten eines Zeitraums jederzeit bearbeiten (siehe nächsten Abschnitt).
 
    ![](assets/image2016-4-1-8-3a54-3a30.png)
 
@@ -43,40 +42,40 @@ Ein [Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/w
 
    >[!TIP]
    >
-   >Sie können mehrere Zeitraumkosten per Drag &amp; Drop auf die Arbeitsfläche ziehen. Dadurch können Sie Ihrem Programm mehrere Monate mit unterschiedlichen Periodenkosten zuordnen.
+   >Sie können mehrere Zeitraumkosten per Drag-and-Drop auf die Arbeitsfläche ziehen. Auf diese Weise können Sie Ihrem Programm mehrere Monate mit unterschiedlichen Zeitraumkosten zuordnen.
 
-## Bearbeiten von Zeitkosten {#edit-a-period-cost}
+## Bearbeiten von Periodenkosten {#edit-a-period-cost}
 
 1. Wenn Sie mehr oder weniger Geld ausgeben als ursprünglich geplant, können Sie die Zeitraumkosten bearbeiten.
 
-1. Gehen Sie zur Registerkarte **Setup** Ihres Programms.
+1. Navigieren Sie zu **Einrichtung** -Tab Ihres Programms.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Klicken Sie mit der rechten Maustaste auf **Kosten des Zeitraums**. Wählen Sie **Bearbeiten**.
+1. Klicken Sie mit der rechten Maustaste auf die **Periodenkosten**. Auswählen **Bearbeiten**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. Nehmen Sie Ihre Änderungen vor. Klicken Sie auf **Speichern**.
+1. Nehmen Sie Ihre Änderungen vor. Klicken **Speichern**.
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
 ## Löschen von Zeitkosten {#delete-a-period-cost}
 
-1. Gehen Sie zur Registerkarte **Setup** Ihres Programms.
+1. Navigieren Sie zu **Einrichtung** -Tab Ihres Programms.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Klicken Sie mit der rechten Maustaste auf **Kosten des Zeitraums**. Wählen Sie **Löschen**.
+1. Klicken Sie mit der rechten Maustaste auf die **Periodenkosten**. Auswählen **Löschen**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Klicken Sie zur Bestätigung auf **Löschen**.
+1. Klicken **Löschen** zur Bestätigung.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Die Kosten des Zeitraums](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
->* [Filtern eines Programm-Berichts nach Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+>* [Zeitkosten verstehen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [Filtern eines Programmberichts nach Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 

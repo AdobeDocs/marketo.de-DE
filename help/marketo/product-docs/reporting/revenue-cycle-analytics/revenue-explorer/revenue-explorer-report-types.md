@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7504922
-description: Umsatz-Explorer-Berichtstypen - Marketing-Dokumente - Produktdokumentation
-title: Umsatz-Explorer-Berichtstypen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Umsatz Explorer-Berichtstypen - Marketo-Dokumente - Produktdokumentation
+title: Umsatz Explorer-Berichtstypen
+exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Umsatz Explorer-Berichtstypen {#revenue-explorer-report-types}
 
-# Umsatz-Explorer-Berichtstypen {#revenue-explorer-report-types}
-
-Im Folgenden werden die Berichtstypen aufgeführt, auf die Sie stoßen, wenn Sie die Analyse des Umsatzes in Cycle verwenden.
+Im Folgenden finden Sie die Berichtstypen, auf die Sie stoßen, wenn Sie Umsatzzyklusanalysen verwenden.
 
 <table> 
  <thead> 
@@ -25,38 +24,38 @@ Im Folgenden werden die Berichtstypen aufgeführt, auf die Sie stoßen, wenn Sie
  <tbody> 
   <tr> 
    <td>E-Mail-Analyse</td> 
-   <td>Metriken und Attribute zu bestimmten ausgesendeten E-Mails</td> 
+   <td>Metriken und Attribute für ausgehende E-Mails</td> 
   </tr> 
   <tr> 
-   <td>Interessentenanwerbung</td> 
-   <td>Interessenten- und Firmen-Metriken und -Attribute im Zusammenhang mit Interessenten</td> 
+   <td>Lead-Analyse</td> 
+   <td>Lead- und Firmenmetriken und -attribute im Zusammenhang mit Leads</td> 
   </tr> 
   <tr> 
-   <td>Analyse der Modellleistung (Firmen)</td> 
-   <td>Metriken und Attribute zu Ihrem Umsatzzyklusmodell nach Firma</td> 
+   <td>Modell-Leistungsanalyse (Unternehmen)</td> 
+   <td>Metriken und Attribute im Zusammenhang mit Ihrem Umsatzzyklusmodell nach Unternehmen</td> 
   </tr> 
   <tr> 
-   <td>Analyse der Modellleistung (Interessenten)</td> 
-   <td>Metriken und Attribute zu Ihrem Umsatzzyklusmodell nach Interessenten</td> 
+   <td>Modellleistungsanalyse (Leads)</td> 
+   <td>Metriken und Attribute im Zusammenhang mit Ihrem Umsatzzyklusmodell nach Lead</td> 
   </tr> 
   <tr> 
-   <td>Chancen Analyse</td> 
-   <td><p>Interessenten- und Firmen-Metriken und -Attribute im Zusammenhang mit Chancen</p></td> 
+   <td>Opportunity-Analyse</td> 
+   <td><p>Lead- und Firmenmetriken und -attribute im Zusammenhang mit Chancen</p></td> 
   </tr> 
   <tr> 
-   <td>Analyse der Programm-Kosten</td> 
+   <td>Programmkostenanalyse</td> 
    <td>Metriken und Attribute zu Programmen mit mindestens einem Kostenzeitraum</td> 
   </tr> 
   <tr> 
-   <td>Analyse der Programm-Mitgliedschaft</td> 
+   <td>Analyse der Programmmitgliedschaft</td> 
    <td>Metriken und Attribute zu Programmen mit mindestens einem Mitglied</td> 
   </tr> 
   <tr> 
-   <td>Analyse von Programm-Chancen</td> 
-   <td>Metriken und Opportunitätsattribute zu Programmen</td> 
+   <td>Programm-Opportunity-Analyse</td> 
+   <td>Metriken und Opportunities-Attribute im Zusammenhang mit Programmen</td> 
   </tr> 
   <tr> 
-   <td>Analyse der Programm-Umsatzstufe</td> 
+   <td>Analyse der Programmumsatzstatistik</td> 
    <td>Metriken und Attribute basierend auf Ihrem Umsatzzyklusmodell</td> 
   </tr> 
  </tbody> 

@@ -71,7 +71,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. Klicken **Schließen.**
+1. Klicken Sie auf **Schließen.**
 
    >[!NOTE]
    >

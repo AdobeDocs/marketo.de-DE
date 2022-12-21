@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949413
-description: hinzufügen einer Beschränkung auf einen Filter für intelligente Listen - Marketo Docs - Produktdokumentation
-title: hinzufügen einer Beschränkung auf einen Filter für intelligente Listen
+description: Eine Beschränkung zu einem Smart-List-Filter hinzufügen - Marketo Docs - Produktdokumentation
+title: Eine Beschränkung zu einem Smart-Listenfilter hinzufügen
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -11,43 +10,41 @@ ht-degree: 0%
 
 ---
 
-# hinzufügen einer Beschränkung auf einen Filter für intelligente Listen {#add-a-constraint-to-a-smart-list-filter}
+# Eine Beschränkung zu einem Smart-Listenfilter hinzufügen {#add-a-constraint-to-a-smart-list-filter}
 
-Beim Erstellen intelligenter Listen verfügen einige Filter über erweiterte Optionen, die als &quot;Beschränkungen&quot;bezeichnet werden. Dies sind zusätzliche Bedingungen, die Sie Filtern und Triggern hinzufügen können, um Ihre Suche noch weiter einzuschränken.
+Beim Erstellen von Smart-Listen verfügen einige Filter über erweiterte Optionen, die als &quot;Begrenzungen&quot;bezeichnet werden. Dies sind zusätzliche Bedingungen, die Sie zu Filtern und Triggern hinzufügen können, um Ihre Suche noch weiter einzugrenzen.
 
-In diesem Beispiel fügen wir dem Filter **[Datenwert geändert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** einige Einschränkungen hinzu, um nach Personen zu suchen, deren Status von MQL in SQL geändert wurde.
+In diesem Beispiel fügen wir einer **[Datenwert geändert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** nach Personen suchen, die einen Status-Wechsel von MQL zu SQL hatten.
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Verwenden Sie den Filter &quot;Datenwert geändert&quot;in einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
-
+>* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Verwenden des Filters &quot;Datenwert geändert&quot;in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 >
 
 
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie die intelligente Liste mit einem Filter aus, dem Sie eine Beschränkung hinzufügen möchten, und klicken Sie auf die Registerkarte **Intelligente Liste**.
+1. Wählen Sie die Smart-Liste mit einem Filter aus, dem Sie eine Einschränkung hinzufügen möchten, und klicken Sie auf die **Smart List** Registerkarte.
 
    ![](assets/two-3.png)
 
-1. Wählen Sie unter **Hinzufügen Constraint** **Vorheriger Wert**.
+1. under **Beschränkung hinzufügen** auswählen **Vorheriger Wert**.
 
    ![](assets/three-3.png)
 
-1. Geben Sie den Wert **Vorheriger Wert** ein. In diesem Beispiel verwenden wir MQL.
+1. Geben Sie die **Vorheriger Wert**. In diesem Beispiel verwenden wir MQL.
 
    ![](assets/four-2.png)
 
-1. Wählen Sie unter **Hinzufügen Constraint** **Neuer Wert**.
+1. under **Beschränkung hinzufügen** auswählen **Neuer Wert**.
 
    ![](assets/five.png)
 
-1. Geben Sie den Wert **Neuer Wert** ein. In diesem Beispiel verwenden wir SQL.
+1. Geben Sie die **Neuer Wert**. In diesem Beispiel verwenden wir SQL.
 
    ![](assets/six.png)
 
-1. Gut gemacht! Klicken Sie auf die Registerkarte **Personen**, um alle Personen anzuzeigen, die in den letzten 30 Tagen einen Wechsel von **MQL** zu **SQL** hatten.****
+1. Gut gemacht! Klicken Sie auf **Personen** Registerkarte, um alle Personen anzuzeigen, die über eine **Status** ändern von **MQL** nach **SQL** in den letzten 30 Tagen.

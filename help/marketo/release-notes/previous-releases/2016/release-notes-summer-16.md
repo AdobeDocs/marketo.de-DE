@@ -18,9 +18,9 @@ Die folgenden Funktionen sind in der Sommerversion 16 enthalten. Überprüfen Si
 
 Marketo Account-basiertes Marketing bietet alle wesentlichen Funktionen einer einheitlichen Plattform:
 
-* **Target**  - Kontoermittlung, Kontoübermittlung und Namenskontenliste
-* **Interaktion**  - kontobasierte Personalisierung, kanalübergreifende Interaktion und kontospezifische Workflows
-* **Messung**  - Insights auf Konto- und Listenebene, Interaktionsbewertung des Kontos sowie Auswirkungen auf Pipeline und Umsatz
+* **Target** - Kontoermittlung, Übereinstimmung von Interessenten mit Konten und Namenskontenlisten
+* **Engage** - Kontobasierte Personalisierung, kanalübergreifende Interaktion und kontospezifische Workflows
+* **Maßnahme** - Insights auf Konto- und Listenebene, Interaktionsbewertung des Kontos und Auswirkungen auf Pipeline und Umsatz
 
 ![](assets/abm-5-acme.png)
 
@@ -59,7 +59,7 @@ Zuvor waren alle in E-Mail 2.0-Vorlagen spezifizierten Variablen im Umfang &quot
 **Syntaxaktualisierung**
 
 * Sie können jetzt &quot;mktoAddByDefault&quot;für Module verwenden, die in E-Mail 2.0-Vorlagen angegeben sind, um anzugeben, welche Module standardmäßig in neuen E-Mails angezeigt werden sollen. Dies ist viel bequemer, wenn Sie eine E-Mail-Vorlage mit einer großen Anzahl von Modulen erstellen.
-* Bei Bildelementen können Sie jetzt angeben, ob die Eigenschaften &quot;height&quot;und &quot;width&quot;des zugrunde liegenden HTML-Elements `<img>` für den Endbenutzer gesperrt oder bearbeitbar sein sollen. mktoLockImgSize=&quot;true&quot; bewirkt, dass Höhe/Breite gesperrt wird (auch wenn das Bild geändert wird). Auf ähnliche Weise bewirkt mktoLockImgStyle=&quot;true&quot;, dass die Eigenschaft &quot;style&quot;gesperrt wird.
+* Bei Bildelementen können Sie jetzt angeben, ob das zugrunde liegende `<img>` Die Eigenschaften &quot;height&quot;und &quot;width&quot;des HTML-Elements sollten für den Endbenutzer gesperrt oder bearbeitbar sein. mktoLockImgSize=&quot;true&quot; bewirkt, dass Höhe/Breite gesperrt wird (auch wenn das Bild geändert wird). Auf ähnliche Weise bewirkt mktoLockImgStyle=&quot;true&quot;, dass die Eigenschaft &quot;style&quot;gesperrt wird.
 
 **Codesuche**
 
@@ -69,11 +69,11 @@ Verwenden Sie neue Suchfunktionen, um effizient Inhalte im Code Ihrer E-Mail zu 
 
 **Token-Unterstützung in Bildelementen**
 
-Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebnisses verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}` angegeben haben, können Sie diese Token jetzt im E-Mail-Editor 2.0 referenzieren. Beachten Sie, dass das Bild weiterhin auf der Arbeitsfläche des E-Mail-Editors 2.0 fehlerhaft angezeigt wird. Sie werden jedoch vor dem Versand Ihrer E-Mail in der Vorschau und im Beispiel gerendert.
+Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebnisses verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}`können Sie diese Token jetzt im E-Mail-Editor 2.0 referenzieren. Beachten Sie, dass das Bild weiterhin auf der Arbeitsfläche von Email Editor 2.0 fehlerhaft angezeigt wird. Sie werden jedoch vor dem Versand Ihrer E-Mail in der Vorschau und im Beispiel gerendert.
 
 ## Mehrmarken-Domainen {#multiple-branding-domains}
 
-Vorbei sind die Tage, an denen E-Mail-Tracking-Links nur mit einer einzigen Branding-Domäne versehen werden konnten. Sie können jetzt mehrere Branding-Domänen hinzufügen, um das Vertrauen der Verbraucher zu steigern, ein optimiertes Erscheinungsbild zu schaffen, das sich auf die Marke konzentriert, die Zustellbarkeit von E-Mails zu verbessern und anhand von E-Mails zu entscheiden, welche Branding-Domäne für die Tracking-Links jeder E-Mail verwendet werden soll.
+Vorbei sind die Tage, an denen E-Mail-Tracking-Links nur mit einer einzigen Branding-Domäne versehen werden konnten. Sie können jetzt mehrere Branding-Domänen hinzufügen, um das Vertrauen der Verbraucher zu wecken, ein optimiertes Erscheinungsbild zu schaffen, das sich auf die Marke konzentriert, die Zustellbarkeit von E-Mails zu verbessern und anhand von E-Mails zu entscheiden, welche Branding-Domäne für die Tracking-Links jeder E-Mail verwendet werden soll.
 
 ![](assets/multiple-branding-domains.png)
 

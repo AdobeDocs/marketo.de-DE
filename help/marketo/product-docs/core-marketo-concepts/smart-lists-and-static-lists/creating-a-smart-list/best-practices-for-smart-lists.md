@@ -1,9 +1,8 @@
 ---
 unique-page-id: 7512524
-description: Best Practices für intelligente Listen - Marketo Docs - Produktdokumentation
-title: Best Practices für intelligente Listen
+description: Best Practices für intelligente Listen - Marketo-Dokumente - Produktdokumentation
+title: Best Practices für Smart-Listen
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
@@ -11,29 +10,29 @@ ht-degree: 0%
 
 ---
 
-# Best Practices für intelligente Listen {#best-practices-for-smart-lists}
+# Best Practices für Smart-Listen {#best-practices-for-smart-lists}
 
-Intelligente Listen sind das leistungsfähigste Werkzeug zur Abfrage im Marketing-Universum. Sie finden die Leute, die Sie suchen mit magischer Geschwindigkeit und Leichtigkeit.
+Smart-Listen sind das leistungsfähigste Abfragetool in der Marketing-Rubrik. Sie finden die Menschen, die Sie suchen, mit magischer Geschwindigkeit und Leichtigkeit.
 
-Um ihnen die Arbeit zu erleichtern und die Leistung zu optimieren, haben wir eine Liste bewährter Verfahren entwickelt. Viel Spaß!
+Um die Arbeit mit ihnen zu erleichtern und die Leistung zu optimieren, haben wir eine Liste bewährter Verfahren erstellt. Viel Spaß!
 
 >[!NOTE]
 >
->**Jeder Kunde ist anders.** Je größer die Datenbank, desto mehr Verarbeitung erfolgt. Je mehr Aktivitäten Sie gespeichert haben, desto länger dauert es, sie zu durchsuchen.
+>**Jeder Kunde ist anders.** Je größer die Datenbank, desto mehr Verarbeitung erfolgt. Je mehr Aktivitäten Sie gespeichert haben, desto länger dauert die Suche.
 >
->Wenn Sie eine Langsamkeit erleben, versuchen Sie die unten stehenden Tipps. Wenn das Problem weiterhin besteht, wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie eine Langsamkeit feststellen, versuchen Sie die folgenden Tipps. Wenn das Problem weiterhin besteht, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. **Geschichte beschränken -** Filter der Geschichte (alias Aktivität-Filter) gehören zu den ressourcenintensivsten und zeitaufwendigsten Abläufen. Wenn Sie diese verwenden müssen, versuchen Sie, den Datumsbereich so kurz wie möglich zu beschränken, wodurch der durchsuchbare Datensatz reduziert wird.
-1. **Schränken Sie verschachtelte intelligente Listen ein -** Wenn Sie eine neue intelligente Liste erstellen, begrenzen Sie die Anzahl der verwendeten Filter für &quot;Mitglied der intelligenten Liste&quot;. Dies wird als Verschachteln intelligenter Listen bezeichnet. Jede referenzierte intelligente Liste verlängert die Verarbeitungszeit. Verweisen Sie stattdessen entweder auf statische Listen oder verwenden Sie [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-1. **Verwenden Sie positive und negative Operatoren -** Obwohl &quot;keine&quot;Filter verfügbar sind, müssen sie den gesamten Datensatz in Ihrer Instanz durchsuchen, was sehr zeitaufwendig sein kann. Positive &quot;is&quot;-Filter können effektivere Suchalgorithmen nutzen.
-1. **Vermeiden Sie &quot;enthält&quot;-** Wenn Sie nur partielle Daten haben, führen &quot;Beginn mit&quot;zu wesentlich schnelleren Ergebnissen als &quot;enthält&quot;. &quot;Ist&quot;läuft sogar noch schneller. Vermeiden Sie die Verwendung von &quot;contains&quot;mit mehreren Werten; Die beiden zusammen können eine Kampagne noch weiter verlangsamen.
-1. **Eigenes Zufallsbeispiel verwenden -** Random Sample ist ein Sonderfilter. Benutzen Sie es selbst, um Ihre Leute in vorgefertigte Listen zu setzen. Dann verwenden Sie einfach &quot;Member of Liste&quot;, um Ihre intelligente Liste super schnell zu machen. Random Sample funktioniert **NOT** mit verschachtelten Smart-Listen. Der Filter &quot;Random-Beispiel&quot;funktioniert nicht, wenn auf die Smart-Liste für den Filter &quot;Member of Smart Liste&quot;verwiesen wird.
-1. **Seien Sie sparsam mit inaktiven Filtern -** Filter wie &quot;Nicht ausgefülltes Formular&quot;können sehr nützlich sein, benötigen aber viel mehr Verarbeitungsleistung.
-1. **Sparen Sie beim Einfügen mehrerer Werte -** Multi-select wurde zum Einfügen von Dutzenden oder möglicherweise Hunderten von Werten entwickelt. Aber lassen Sie zu viele hinein, und es wird langsamer werden.
-1. **Seien Sie beim Hinzufügen von Beschränkungen sparsam -** Dies sind die winzigen Details einer Regel und verwandter Werte. Je mehr Einschränkungen Sie hinzufügen, desto langsamer wird die Verarbeitungszeit.
-1. **Vereinfachen Sie Ihre Kampagnen - über** 100 unabhängige Regeln (wir haben sie gesehen!) werden natürlich einige Zeit in Anspruch nehmen. Halten Sie es einfach und Sie werden die Geschwindigkeit zu spüren - plus es wird einfacher für Sie zu verstehen.
-1. **Wenn Sie den Filter** **&quot;E-Mail-Adresse&quot;verwenden, müssen Sie das @-Symbol vor dem Domänennamen einfügen.** Dadurch wird eine schnellere Abfrage verwendet. Beispiel: Verwenden Sie _email enthält &#39;somedomain.com&#39;_, anstatt _email enthält &#39;@somedomain.com_&#39;. Wenn Sie mehrere E-Mail-Adressen mit &quot;contains&quot;verwenden, müssen ALLE von ihnen mit &quot;@&quot;Beginn werden.
+1. **Begrenzungsverlauf -** Verlaufsfilter (auch Aktivitätsfilter genannt) gehören zu den ressourcenintensivsten und zeitaufwendigsten Vorgängen. Wenn Sie sie verwenden müssen, versuchen Sie, den Datumsbereich so kurz wie möglich zu beschränken, wodurch der durchsuchbare Datensatz reduziert wird.
+1. **Einschränken verschachtelter Smart-Listen -** Begrenzen Sie beim Erstellen einer neuen Smart-Liste die Anzahl der verwendeten Filter für die intelligente Liste. Dies wird als Verschachteln von Smart-Listen bezeichnet und jede referenzierte intelligente Liste verlängert die Verarbeitungszeit. Verweisen Sie stattdessen entweder auf statische Listen oder verwenden Sie [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. **Verwenden Sie positive gegenüber negative Operatoren -** &quot;Nicht&quot;-Filter sind zwar verfügbar, müssen aber den gesamten Datensatz in Ihrer Instanz durchsuchen, was sehr zeitaufwendig sein kann. Positive &quot;is&quot;-Filter können effektivere Suchalgorithmen nutzen.
+1. **Vermeiden Sie &quot;enthält&quot;-** Wenn Sie nur partielle Daten haben, liefern &quot;beginnt mit&quot;-Qualifikatoren deutlich schnellere Ergebnisse als &quot;enthält&quot;. &quot;Ist&quot;wird noch schneller ausgeführt. Vermeiden Sie die Verwendung von &quot;contains&quot;mit mehreren Werten; beide zusammen können eine Kampagne noch weiter verlangsamen.
+1. **Zufallsbeispiel allein verwenden -** &quot;Zufallsbeispiel&quot;ist ein spezieller Filter. Benutzen Sie es allein, um Ihre Leute in vordefinierte Listen zu setzen. Verwenden Sie dann einfach &quot;Mitglied der Liste&quot;, um Ihre intelligente Liste schnell zu erstellen. Zufällige Beispiele **NOT** mit verschachtelten Smart-Listen arbeiten. Der Filter &quot;Zufällige Beispiele&quot;funktioniert nicht, wenn es sich um die Smart-Liste handelt, auf die für den Filter &quot;Mitglied der Smart-Liste&quot;verwiesen wird.
+1. **Sparen Sie sich bei Inaktivitätsfiltern -** Filter wie &quot;Nicht ausgefülltes Formular&quot;können zwar sehr nützlich sein, erfordern aber viel mehr Verarbeitungsleistung.
+1. **Sparen Sie sich beim Einfügen in mehrere Werte -** Mehrfachauswahl ist für das Einfügen in Dutzende oder möglicherweise Hunderte von Werten konzipiert. Man muss jedoch zu viele einbringen, und es wird sich verlangsamen.
+1. **Sparen Sie sich beim Hinzufügen von Begrenzungen -** Dies sind die winzigen Details einer Regel und verwandte Werte. Je mehr Einschränkungen Sie hinzufügen, desto langsamer dauert die Verarbeitung.
+1. **Vereinfachen Sie Ihre Kampagnen -** Mehr als 100 unabhängige Regeln (wir haben es gesehen!) werden natürlich einige Zeit in Anspruch nehmen. Halten Sie es einfach und Sie werden die Geschwindigkeitssteigerungen bemerken - und es wird Ihnen leichter sein, es zu verstehen.
+1. **Bei Verwendung des Filters &quot;E-Mail-Adresse&quot;das @-Symbol vor dem Domänennamen einschließen** **-** Dadurch wird eine schnellere Abfrage verwendet. Beispiel: anstelle von _email enthält &#39;somedomain.com&#39;_, verwenden _E-Mail enthält &#39;@somedomain.com_.&#39; Wenn Sie mehrere E-Mail-Adressen mit &quot;enthält&quot;verwenden, müssen ALLE von ihnen mit &quot;@&quot;beginnen.
 
 >[!TIP]
 >
->Marketo kann auf vielfältige Weise eingesetzt werden und bestimmte Techniken sind besser für Sie und Ihr Unternehmen. Sehen Sie sich [Marketo Professional Services](https://pages2.marketo.com/72-hour-survival-guide.html) an, um Ihre Investition zu glänzen.
+>Marketo kann auf vielerlei Weise eingesetzt werden und bestimmte Techniken sind für Sie und Ihr Unternehmen besser. Überlegen [Marketo Professional Services](https://pages2.marketo.com/72-hour-survival-guide.html) um Ihre Investition glänzen zu lassen.

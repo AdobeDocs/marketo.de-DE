@@ -1,25 +1,24 @@
 ---
 unique-page-id: 7515027
-description: hinzufügen einer Landingpage mit Anleitung - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Bildes in eine Landingpage mit Guided
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hinzufügen eines Bildes zu einer geführten Landingpage - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen eines Bildes zu einer geführten Landingpage
+exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
+# Hinzufügen eines Bildes zu einer geführten Landingpage {#add-an-image-to-a-guided-landing-page}
 
-# hinzufügen eines Bildes in eine geführte Landingpage {#add-an-image-to-a-guided-landing-page}
+Im Gegensatz zu Landingpages mit Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
 
-Anders als bei den Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
-
-1. Wählen Sie eine geführte Landingpage aus. Klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie eine geführte Landingpage aus. Klicken **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
-1. Klicken Sie auf das Bild, das Sie bearbeiten möchten. Der Elementplatzhalter wird in der Arbeitsfläche der Landingpage angezeigt.
+1. Klicken Sie auf das Bild, das Sie bearbeiten möchten. Der Platzhalter für Elemente wird auf der Arbeitsfläche der Landingpage angezeigt.
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
@@ -27,11 +26,11 @@ Anders als bei den Freiform-Landingpages verfügen geführte Landingpages über 
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
-1. Der Inhalt wird im Platzhalter des Elements angezeigt.
+1. Der Inhalt wird im Elementplatzierungsinhaber angezeigt.
 
    >[!NOTE]
    >
-   >Die Größenänderung des Bildes hängt von der Vorlage ab. Erfahren Sie mehr über [Vorlagen für leitende Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Die Größe des Bildes hängt von der Vorlage ab. Weitere Informationen [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

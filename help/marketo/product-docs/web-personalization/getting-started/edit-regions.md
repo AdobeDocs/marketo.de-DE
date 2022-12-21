@@ -1,30 +1,29 @@
 ---
 unique-page-id: 4720224
-description: Regionen bearbeiten - Marketing-Dokumente - Produktdokumentation
+description: Regionen bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Regionen bearbeiten
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
 # Regionen bearbeiten {#edit-regions}
 
-Sie möchten Ihre regionalen Benutzereinstellungen so ändern, dass nur Daten zu Ihrer Region angezeigt werden?
+Möchten Sie die regionalen Benutzereinstellungen ändern, damit nur Daten für Ihre spezifische Region angezeigt werden?
 
-1. Gehen Sie zu **Benutzereinstellungen**.
+1. Navigieren Sie zu **Benutzereinstellungen**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicken Sie auf **Regionen bearbeiten**.
+1. Klicken **Regionen bearbeiten**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
-1. Überprüfen Sie Ihre Länder oder Bundesstaaten, die mit Ihrer Region in Verbindung stehen.
+1. Überprüfen Sie Ihre mit Ihrer Region in Verbindung stehenden Länder oder Bundesstaaten.
 
 >[!NOTE]
 >
->Wenn Sie die Vereinigten Staaten auswählen, werden am unteren Rand der Seite alle US-Staaten Optionen zur Auswahl geöffnet.
+>Wenn Sie die USA auswählen, werden unten auf der Seite alle US-amerikanischen Optionen angezeigt.

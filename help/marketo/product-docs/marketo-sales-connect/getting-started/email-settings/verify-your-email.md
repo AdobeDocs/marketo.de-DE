@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746491
-description: E-Mail überprüfen - Marketing-Dokumente - Produktdokumentation
-title: E-Mail bestätigen
-translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+description: E-Mail überprüfen - Marketo-Dokumente - Produktdokumentation
+title: Prüfen Ihrer E-Mail
+exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# E-Mail {#verify-your-email} überprüfen
+# Prüfen Ihrer E-Mail {#verify-your-email}
 
 Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie die folgenden Schritte aus.
 
@@ -19,15 +18,15 @@ Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie 
 
    ![](assets/verify-your-email-1.png)
 
-1. Klicken Sie unter Mein Konto auf **E-Mail-Einstellungen**.
+1. Klicken Sie unter &quot;Mein Konto&quot;auf **E-Mail-Einstellungen**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Suchen Sie unter &quot;Adresse und Unterschrift&quot;die E-Mail-Identität, die Sie überprüfen möchten, und klicken Sie auf **E-Mail erneut senden**. Eine neue Verifizierungs-E-Mail wird gesendet.
+1. Suchen Sie unter &quot;Adresse und Signatur&quot;die E-Mail-Identität, die Sie überprüfen möchten, und klicken Sie auf **E-Mail erneut überprüfen**. Eine neue Verifizierungs-E-Mail wird gesendet.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicken Sie auf **Resend**.
+1. Klicken **Erneut senden**.
 
    ![](assets/verify-your-email-4.png)
 

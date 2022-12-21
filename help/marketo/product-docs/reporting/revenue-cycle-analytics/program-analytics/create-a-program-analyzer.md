@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2360399
-description: Erstellen eines Programm Analyzer - Marketing Docs - Produktdokumentation
+description: Erstellen eines Programm-Analyzers - Marketo Docs - Produktdokumentation
 title: Programm-Analyzer erstellen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 18715682-2afe-42cc-93d2-a3537749f784
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
+# Programm-Analyzer erstellen {#create-a-program-analyzer}
 
-# Erstellen eines Programm-Analyzers {#create-a-program-analyzer}
-
-Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Marketingkasse geben. Verwenden Sie den Programm-Analyzer, um alle Kosten zu prüfen und zu vergleichen und detailliert nach Programm oder Kanal zurückzugeben.
+Entdecken Sie, welche Programme und Kanäle Ihnen den größten Knall für Ihr Marketing bieten. Verwenden Sie den Programm-Analyzer, um alle Kosten zu analysieren und zu vergleichen und im Detail, nach Programm oder nach Kanal zurückzugeben.
 
 >[!NOTE]
 >
->Um gute Daten von einem Programm-Analyzer zu erhalten, stellen Sie sicher, dass Ihre CRM-Kontakte Rollen in den Chancen haben und dass Ihre Marketing-Programm vollständig eingerichtet sind, wobei [Periodenkosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), Programm-Status und Erfolg definiert sind.
+>Um gute Daten von einem Programm-Analyzer zu erhalten, stellen Sie sicher, dass Ihre CRM-Kontakte Rollen in den Chancen haben und dass Ihre Marketo-Programme vollständig eingerichtet sind, mit [Zeitkosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), Programmstatus und Erfolg definiert.
 
 >[!TIP]
 >
->Damit Programm ohne Kosten im Programm-Analyzer angezeigt werden, setzen Sie [ihre Zeitraumkosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) auf $0.
+>Damit Programme ohne Kosten im Programm-Analyzer erscheinen, [Zeitraumkosten festlegen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) auf 0 USD setzen.
 
-1. Klicken Sie auf die Kachel **Analytics**.
+1. Klicken Sie auf **Analytics** Kachel.
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. Klicken Sie auf die Kachel **Programm Analyzer**.
+1. Klicken Sie auf **Programm-Analyzer** Kachel.
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -35,42 +34,42 @@ Entdecken Sie, welche Programm und Kanal Ihnen den größten Knall für Ihre Mar
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. Klicken Sie auf die Registerkarte **Setup**, um Filter hinzuzufügen und anzupassen.
+1. Klicken Sie auf **Einrichtung** -Tab zum Hinzufügen und Anpassen von Filtern.
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
-1. Um beispielsweise den Filter &quot;Period Cost&quot;anzupassen, klicken Sie mit der Dublette darauf.
+1. Um beispielsweise den Filter &quot;Period Cost&quot;anzupassen, doppelklicken Sie darauf.
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
-1. Wählen Sie den Zeitraum aus, den Sie analysieren möchten, und klicken Sie auf **Apply**.
+1. Wählen Sie den zu analysierenden Zeitraum aus und klicken Sie auf **Anwenden**.
 
    ![](assets/image2016-10-31-15-3a30-3a32.png)
 
    >[!TIP]
    >
-   >Um einen bestimmten Bereich auszuwählen, wählen Sie **Benutzerdefiniert** und verwenden Sie die Felder **Von** und **Bis**.
+   >Um einen bestimmten Bereich auszuwählen, wählen Sie **Benutzerdefiniert** und verwenden Sie **Von** und **nach** -Felder.
 
-1. Wenn Sie den neuen benutzerdefinierten Analyzer speichern möchten, wählen Sie in der Dropdown-Liste &quot;Analyzer-Aktionen&quot;die Option **Speichern unter**.
+1. Wenn Sie Ihren neuen benutzerdefinierten Analyzer speichern möchten, wählen Sie in der Dropdown-Liste Analyzer-Aktionen die Option **Speichern unter**.
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. Wählen Sie mithilfe der Dropdown-Listen &quot;Speichern unter&quot;und &quot;Ordner&quot;den Speicherort aus, an dem Sie den benutzerdefinierten Analyzer speichern möchten. Benennen Sie den neuen benutzerdefinierten Analyzer. Eine Beschreibung ist optional. Klicken Sie auf **Speichern**.
+1. Wählen Sie mithilfe der Dropdown-Liste Speichern unter und Ordner den Speicherort aus, an dem Sie den benutzerdefinierten Analyzer speichern möchten. Benennen Sie den neuen benutzerdefinierten Analyzer. Eine Beschreibung ist optional. Klicken **Speichern**.
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
-1. Du hast es getan! Klicken Sie auf die Registerkarte &quot;Haupt&quot;, um den Beginn zu ermitteln und Ihre Programm und Kanal zu vergleichen.
+1. Du hast es getan! Klicken Sie auf den Haupttab, um Ihre Programme und Kanäle zu untersuchen und zu vergleichen.
 
 ![](assets/november-custom-report.png)
 
 >[!NOTE]
 >
->Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zu verstehen.
+>Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen bei Erstkontakt- (FT-) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, die [Differenz zwischen FT- und MT-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
->* [Kanal-Effektivität mit dem Programm-Analyzer vergleichen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [Programm-Effektivität mit dem Programm-Analyzer vergleichen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [Programm- und Kanal-Details mit dem Programm Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Klonen eines Programm Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+>* [Kanaleffektivität mit dem Programm-Analyzer vergleichen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Vergleichen der Programmwirksamkeit mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Kennenlernen von Programm- und Kanaldetails mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Klonen eines Programm-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
 

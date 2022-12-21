@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359813
-description: Konfigurieren von Nach-Freigabe-Eingabeaufforderungen - Marketing-Dokumente - Produktdokumentation
-title: Nach der Freigabe ausgeführte Eingabeaufforderungen konfigurieren
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Konfigurieren von Nach-Freigabe-Eingabeaufforderungen - Marketo Docs - Produktdokumentation
+title: Konfigurieren von Eingabeaufforderungen nach der Freigabe
+exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
+# Konfigurieren von Eingabeaufforderungen nach der Freigabe {#configure-after-share-prompts}
 
-# Nach der Freigabe übermittelte Eingabeaufforderungen {#configure-after-share-prompts} konfigurieren
+In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie wählen, was passiert, wenn eine Person Ihre Inhalte in ihrem sozialen Netzwerk teilt.
 
-In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie auswählen, was passiert, wenn eine Person Ihren Inhalt in ihrem sozialen Netzwerk teilt.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
@@ -23,37 +22,37 @@ In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie auswählen, was p
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Gehen Sie im Social App-Editor zu **App-Einstellungen** und dann **Erweiterte Optionen**.
+1. Navigieren Sie im Social-App-Editor zu **App-Einstellungen** und dann **Erweiterte Optionen**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Wählen Sie unter **Nach der Freigabe** das gewünschte Verhalten aus.
+1. Für **Nach Freigabe** wählen Sie das gewünschte Verhalten aus.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Bestätigungsmeldung:** Sobald die Person freigegeben wurde, wird eine Bestätigung angezeigt.
-   * **E-Mail-Erfassung:** Nachdem die Person freigegeben hat, fordern Sie ihre E-Mail-Adresse an.
+   * **Bestätigungsnachricht:** Nachdem die Person freigegeben wurde, zeigen Sie eine Bestätigung an.
+   * **E-Mail-Erfassung:** Nachdem die Person freigegeben wurde, fordern Sie ihre E-Mail-Adresse an.
 
    >[!NOTE]
    >
-   >Wenn Sie **E-Mail-Erfassung** auswählen, wird die Anforderung nur angezeigt, wenn die Person noch keine Informationen angegeben hat.
+   >Wenn Sie **E-Mail-Erfassung**, wird die Anfrage nur angezeigt, wenn die Person ihre Informationen noch nicht bereitgestellt hat.
 
-1. Wenn Sie **Bestätigungsmeldung:** Gehen Sie zu **Freigabefluss** und dann **Bestätigungsmeldung**.
+1. Wenn Sie **Bestätigungsnachricht:** Navigieren Sie zu **Fluss freigeben** und dann **Bestätigungsnachricht**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
-1. Bearbeiten Sie die Bestätigungsmeldung.
+1. Bearbeiten Sie die Bestätigungsnachricht.
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Wenn Sie **E-Mail-Erfassung** (anstelle der Bestätigung) auswählen: Wechseln Sie zu **Fluss freigeben** und dann **E-Mail-Erfassung**.
+1. Wenn Sie **E-Mail-Erfassung** (anstelle einer Bestätigung): Navigieren Sie zu **Fluss freigeben** und dann **E-Mail-Erfassung**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Wählen Sie aus, ob eine Marketingaufforderung einbezogen werden soll und ob dieses Kontrollkästchen standardmäßig aktiviert ist (**Opt-out**) oder nicht (**Opt-in**).
+1. Wählen Sie aus, ob eine Marketing-Eingabeaufforderung eingefügt werden soll und ob dieses Kontrollkästchen standardmäßig aktiviert ist (**Opt-out**) oder nicht (**Opt-in**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 
-1. Bearbeiten Sie die Anforderung für die E-Mail-Adresse und die Marketing-Eingabeaufforderung (sofern vorhanden).
+1. Bearbeiten Sie die E-Mail-Adresse und die Marketingaufforderung (falls vorhanden).
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)

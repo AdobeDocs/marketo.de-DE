@@ -1,105 +1,104 @@
 ---
 unique-page-id: 12981145
-description: Einrichten von Leistungseinschätzungen - Marketing Docs - Produktdokumentation
-title: Einrichten der Leistungseinblicke
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Einrichten von Leistungseinblicken - Marketo-Dokumente - Produktdokumentation
+title: Einrichten von Leistungseinblicken
+exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Einrichten der Leistungseinblicke {#setting-up-performance-insights}
+# Einrichten von Leistungseinblicken {#setting-up-performance-insights}
 
 Gehen Sie wie folgt vor, um MPI einzurichten.
 
-## Opportunity Setup {#opportunity-setup}
+## Einrichtung von Chancen {#opportunity-setup}
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicken Sie auf **Revenue Cycle Analytics**.
+1. Klicken **Umsatzzyklusanalysen**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie kein RCA haben, müssen Sie für Schritt 2 **Programm-Analyse** auswählen.
+   >Wenn Sie keine RCA haben, müssen Sie **Programmanalyse** für Schritt 2.
 
-1. Klicken Sie unter Zuordnung auf **Bearbeiten**.
+1. Klicken Sie unter &quot;Attribution&quot;auf **Bearbeiten**.
 
    ![](assets/three-1.png)
 
-1. Zuordnungseinstellungen werden angezeigt.
+1. Die Attributionseinstellungen werden angezeigt.
 
    ![](assets/four-2.png)
 
-   Wenn die Zuordnung explizit ist, stellen Sie sicher, dass die Kontaktrolle &quot;Chancen&quot;ausgefüllt wurde (entweder über den Endpunkt &quot;Chancen-Rolle&quot;oder über CRM-Integration).
+   Wenn die Attribution explizit ist, stellen Sie sicher, dass die Kontaktrolle &quot;Chancen&quot;ausgefüllt wurde (entweder über den Endpunkt &quot;Angebotsrolle&quot;oder über die CRM-Integration).
 
-   Wenn die Zuordnung implizit ist, stellen Sie sicher, dass das Feld Firma auf dem Interessenten/Kontakt mit dem Kontonamen der Gelegenheit identisch ist.
+   Wenn Attribution implizit ist, stellen Sie sicher, dass das Unternehmensfeld auf dem Lead/Kontakt mit dem Kontonamen der Opportunity übereinstimmt.
 
    >[!NOTE]
    >
    >Stellen Sie sicher, dass alle Möglichkeiten die entsprechenden Felder enthalten:
    >
-   >* Opportunity Amount
+   >* Opportunity-Betrag
    >* Ist geschlossen
    >* Ist gewonnen
-   >* Erstellungsdatum (in Ihrem Fall möglicherweise nicht festgelegt)
-   >* Datum geschlossen (in Ihrem Fall nicht festgelegt)
+   >* Erstellungsdatum (in Ihrem Fall kann dies nicht festgelegt werden)
+   >* Geschlossenes Datum (in Ihrem Fall kann dies nicht festgelegt werden)
    >* Opportunity-Typ
 
 
-## Programm-Setup {#program-setup}
+## Programm-Installation {#program-setup}
 
-Aktualisieren Sie die Programm-Kosten für mindestens 12 Monate. Sie können dies manuell oder mithilfe der Programm-API tun. In diesem Beispiel machen wir es manuell.
+Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies manuell oder mithilfe der Programm-API tun. In diesem Beispiel machen wir es manuell.
 
-1. Klicken Sie auf **Marketing-Aktivitäten**.
+1. Klicken **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Suchen und wählen Sie Ihr Programm aus.
+1. Wählen Sie Ihr Programm aus.
 
    ![](assets/select-program.png)
 
-1. Klicken Sie auf die Registerkarte **Setup**.
+1. Klicken Sie auf **Einrichtung** Registerkarte.
 
    ![](assets/setup-tab.png)
 
-1. Ziehen Sie **Period Cost** auf die Arbeitsfläche.
+1. Ziehen **Periodenkosten** auf die Arbeitsfläche.
 
    ![](assets/period-cost.png)
 
-1. Legen Sie den Programm-Monat vor mindestens 12 Monaten fest und klicken Sie auf **OK**.
+1. Legen Sie den Programmmonat vor mindestens 12 Monaten fest und klicken Sie auf **Ok**.
 
    ![](assets/set-period.png)
 
-1. Legen Sie die Zeitraumkosten fest und klicken Sie auf **Speichern**.
+1. Stellen Sie die Zeitraumkosten ein und klicken Sie auf **Speichern**.
 
    ![](assets/set-cost.png)
 
-Überprüfen Sie anschließend das Analyseverhalten, um anzugeben, ob ein bestimmter Kanal in die Analyse einbezogen werden soll. Legen Sie das Analytics-Verhalten fest (Normal, Einschließen, Operativ).
+Überprüfen Sie anschließend das Analytics-Verhalten, um anzugeben, ob ein bestimmter Kanal in die Analyse einbezogen werden soll. Legen Sie das Analytics-Verhalten fest (Normal, Einschließen, Operativ).
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicken Sie auf **Tags**.
+1. Klicken **Tags**.
 
    ![](assets/tags.png)
 
-1. Klicken Sie auf **+**, um die Liste des Kanals zu erweitern.
+1. Klicken Sie auf **+** , um die Kanalliste zu erweitern.
 
    ![](assets/channel.png)
 
-1. Klicken Sie mit der Dublette auf den gewünschten Kanal.
+1. Doppelklicken Sie auf den gewünschten Kanal.
 
    ![](assets/channel-click.png)
 
-1. Klicken Sie auf die Dropdownliste **Analytics-Verhalten** und wählen Sie das gewünschte Verhalten aus.
+1. Klicken Sie auf **Analytics-Verhalten** und wählen Sie das gewünschte Verhalten aus.
 
    ![](assets/edit-channel.png)
 
@@ -107,15 +106,15 @@ Aktualisieren Sie die Programm-Kosten für mindestens 12 Monate. Sie können die
 
    ![](assets/success.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/save.png)
 
-## Verbinden Sie das Programm mit der Person {#tie-the-program-to-the-person}
+## das Programm an die Person binden {#tie-the-program-to-the-person}
 
-1. Stellen Sie sicher, dass für jede Person in Ihrer Datenbank Akquise-Programm und Akquise-Datum festgelegt wurden, damit die Zuordnung von First Touch funktioniert.
-1. Stellen Sie sicher, dass Ihre Programm Erfolgsstatus für Ihre Mitarbeiter festlegen.
+1. Stellen Sie sicher, dass das Akquiseprogramm und das Akquisedatum für jede Person in Ihrer Datenbank festgelegt wurden, damit die Erstkontaktzuordnung funktioniert.
+1. Stellen Sie sicher, dass Ihre Programme Erfolgsstatus für Ihre Menschen festlegen.
 
 >[!NOTE]
 >
->Änderungen werden nicht sofort vorgenommen. Vor dem Inkrafttreten der Änderungen ist eine Übernachtungsperiode erforderlich.
+>Die vorgenommenen Änderungen sind nicht unmittelbar. Bevor Änderungen wirksam werden, ist eine Übernachtungsperiode erforderlich.

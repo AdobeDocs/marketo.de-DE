@@ -1,29 +1,28 @@
 ---
 unique-page-id: 14352473
-description: Installieren der Schaltflächen zum Verbinden von Verkaufsstellen in Salesforce - Marketing Docs - Produktdokumentation
+description: Installieren der Verkaufsverbindungs-Schaltflächen in Salesforce - Marketo Docs - Produktdokumentation
 title: Installieren der Schaltflächen zum Verbinden von Verkaufsstellen in Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-
 # Installieren der Schaltflächen zum Verbinden von Verkaufsstellen in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 
-Installieren Sie einfach Call mit Marketo Sales Connect, Send Marketing to Sales E-Mail und Hinzufügen an die Kampagne. Sie benötigen Administratorrechte in Salesforce, um diese Felder zu installieren.
+Einfache Installation von Call mit Marketo Sales Connect, Versand der Marketo Sales Email und Hinzufügen zu Campaign. Sie müssen über Administratorrechte in Salesforce verfügen, um diese Felder zu installieren.
 
-1. Melden Sie sich bei [Salesforce.com an.](https://salesforce.com)
-1. Klicken Sie auf **Anpassen**.
-1. Klicken Sie auf **Interessenten**.
-1. Klicken Sie auf **Seitenlayouts**.
-1. Klicken Sie neben dem Interessentenlayout, dem Sie die Schaltflächen hinzufügen möchten, auf **Bearbeiten**.
-1. Klicken Sie auf **Schaltflächen**.
-1. Ziehen Sie die Schaltflächen &quot;Verkaufsverbindung&quot;in den Bereich &quot;Interessentendetails&quot;.
-1. Klicken Sie auf **Speichern**.
+1. Anmelden bei [Salesforce.com.](https://salesforce.com)
+1. Klicken **Anpassen**.
+1. Klicken **Leads**.
+1. Klicken **Seitenlayouts**.
+1. Klicken **Bearbeiten** neben dem Lead-Layout , dem Sie die Schaltflächen hinzufügen möchten.
+1. Klicken **Schaltflächen**.
+1. Ziehen Sie die Schaltflächen Sales Connect in den Bereich Lead-Details .
+1. Klicken **Speichern**.
 
    >[!NOTE]
    >
-   >Sie können diese Schritte wiederholen, um sie im Kontaktlayout zu installieren. Wählen Sie für Schritt 3 unbedingt **Kontakte**.
+   >Sie können diese Schritte wiederholen, um sie im Kontaktlayout zu installieren. Wählen Sie **Kontakte** für Schritt 3.

@@ -1,50 +1,45 @@
 ---
 unique-page-id: 11383945
-description: Offline-Konversionen für Facebook - Marketing-Dokumente - Produktdokumentation
-title: Offline-Konversionen in Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Grundlegendes zu Facebook-Offline-Konversionen - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu Offline-Konversionen in Facebook
+exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
+# Grundlegendes zu Offline-Konversionen in Facebook {#understanding-facebook-offline-conversions}
 
-# Offline-Konversionen für Facebook {#understanding-facebook-offline-conversions}
-
-Kampagnen von Facebook-Interessentenanzeigen generieren Interessenten und senden sie zur Verwendung in Marketing-Kampagnen an Marketing. Ohne die Offline-Konvertierung kann der Facebook-Advertiser jedoch nicht wissen, welche Anzeigen am effektivsten sind. Hier ist ein Beispiel.
+Facebook Lead Ads-Kampagnen generieren Leads und senden sie zur Verwendung in Marketingkampagnen an Marketo. Ohne die Sichtbarkeit von Offline-Konversionen kann der Facebook-Advertiser jedoch nicht wissen, welche Anzeigen am effektivsten sind. Hier ist ein Beispiel.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->Facebook-Werbeanzeigen führen drei Werbeanzeigen aus.
+>Facebook Lead Ads führt drei Anzeigen aus.
 >
->* Anzeige 1 generiert 20 Interessenten
->* Anzeige 2 generiert 30 Interessenten
->* Anzeige 3 generiert 50 Interessenten
-
+>* Anzeige 1 generiert 20 Leads
+>* Anzeige 2 generiert 30 Leads
+>* Anzeige 3 generiert 50 Leads
 >
+>Basierend auf diesen Zahlen erscheint allein Anzeige 3 als die effektivste.
 >
-Allein auf der Grundlage dieser Zahlen scheint Ad 3 die effektivste zu sein.
->
->Wenn man sich jedoch Daten auf der Marketo-Seite ansieht, entwickelt sich eine andere Geschichte.
+>Bei der Betrachtung von Daten auf Marketo-Seite entwickelt sich jedoch eine andere Geschichte.
 >
 >* Anzeige 1 generiert 10 Verkäufe
->* Ad 3 generiert 2 Verkäufe
-
+>* Anzeige 3 generiert 2 Verkäufe
 >
+>Das bedeutet, dass Anzeige 1, obwohl sie weniger Leads generiert hat, eine Erfolgsrate von 50 Prozent aufwies, während Anzeige 3 überhaupt nicht wirksam war.
 >
-Das bedeutet, dass Ad 1, obwohl es weniger Interessenten gab, eine Erfolgsrate von 50 Prozent aufwies, während Ad 3 überhaupt nicht effektiv war.
->
->Ohne Offline-Konversionen würde der Werbetreibende wahrscheinlich mehr Geld in Ad 3 investieren. Bei Offline-Konversionsdaten investiert der Werbetreibende wahrscheinlich eher in Anzeige 1.
+>Ohne Offline-Konversionen würde der Werbetreibende wahrscheinlich mehr Geld in Ad 3 investieren. Mit Offline-Konversionsdaten investiert der Werbetreibende wahrscheinlich eher in Anzeige 1.
 
-Sie können [Facebook-Offline-Konvertierungen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) einrichten, um die Offline-Anzeigenleistung an Facebook zu senden.
+Sie können [Einrichten von Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) , um die Offline-Anzeigenleistung an Facebook zu senden.
 
-1. Vergewissern Sie sich, dass Ihre [Facebook-LaunchPoint-Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) auf dem neuesten Stand ist.
-1. Ordnen Sie die Phasen im Umsatzzyklusmodell den Offline-Konversionsphasen auf Facebook zu.
-1. Wenn ein Facebook-Lead aus einer Facebook-Lead-Anzeige generiert wird und eine zugeordnete Phase erreicht, sendet Marketing Offline-Konversionsdaten mehrmals täglich über eine sichere, automatisierte API zurück an Facebook. Die Daten werden im Bericht &quot;Facebook Ads Manager&quot;angezeigt.
+1. Stellen Sie sicher, dass [Facebook LaunchPoint-Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) ist auf dem neuesten Stand.
+1. Ordnen Sie Phasen in Ihrem Umsatzzyklusmodell Offline-Konversionsphasen in Facebook zu.
+1. Wenn ein Facebook-Lead aus einer Lead-Anzeige von Facebook generiert wird und eine zugeordnete Phase erreicht, sendet Marketo Offline-Konversionsdaten mehrmals täglich über eine sichere, automatisierte API an Facebook. Die Daten werden im Facebook Ads Manager-Bericht angezeigt.
 
 >[!MORELIKETHIS]
 >

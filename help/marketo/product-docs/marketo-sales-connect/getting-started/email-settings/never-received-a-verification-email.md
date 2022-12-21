@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14352411
-description: Keine Verifizierungs-E-Mail - Marketing-Dokumente - Produktdokumentation
-title: Keine Verifizierungs-E-Mail erhalten
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Nie eine Verifizierungs-E-Mail erhalten - Marketo-Dokumente - Produktdokumentation
+title: Nie eine Verifizierungs-E-Mail erhalten
+exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
+# Nie eine Verifizierungs-E-Mail erhalten {#never-received-a-verification-email}
 
-# Keine Verifizierungs-E-Mail {#never-received-a-verification-email} erhalten
+Haben Sie die Verifizierungs-E-Mail nicht von uns erhalten?
 
-Haben Sie die Bestätigungs-E-Mail von uns nicht erhalten?
+Vergewissern Sie sich zunächst, dass der Ordner nicht im Spam-Ordner enthalten ist.
 
-Vergewissern Sie sich zunächst, dass sich der Ordner nicht in Ihrem Spam-Ordner befindet.
-
-Wenn Sie die E-Mail dort nicht finden, wenden Sie sich bitte an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+Wenn Sie die E-Mail nicht dort finden, wenden Sie sich bitte an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).

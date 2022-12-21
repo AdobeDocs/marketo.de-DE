@@ -16,11 +16,11 @@ Die folgenden Funktionen sind in der Version vom Mai 2014 enthalten. Information
 
 ## Arbeitsbereich löschen {#delete-workspace}
 
-Jetzt können Sie [einen nicht verwendeten Arbeitsbereich](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) löschen. Stellen Sie sicher, dass Sie alle Assets in einen anderen Arbeitsbereich verschieben, bevor Sie versuchen, den Arbeitsbereich zu löschen.
+Jetzt können Sie [Löschen eines nicht verwendeten Arbeitsbereichs](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Stellen Sie sicher, dass Sie alle Assets in einen anderen Arbeitsbereich verschieben, bevor Sie versuchen, den Arbeitsbereich zu löschen.
 
 ## Erste Bestellung planen {#schedule-first-cast}
 
-In Interaktionsprogrammen können Sie das Datum für die Ausführung der [ersten Wiedergabe](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) planen. Geben Sie beispielsweise alle 2 Wochen den Cadence-Wert an und wählen Sie das Datum der ersten Besetzung aus.
+In Interaktionsprogrammen können Sie das Datum für die [erster Start](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise alle 2 Wochen den Cadence-Wert an und wählen Sie das Datum der ersten Besetzung aus.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -32,7 +32,7 @@ Jetzt erhält jeder mehrere Programme, Streams und Kommunikationsbeschränkungen
 
 ## Linktracking in Text-E-Mails {#link-tracking-in-text-emails}
 
-[Fügen Sie in der Textversion Ihrer E-Mails doppelte eckige ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) Klammern um URLs hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
+[Doppelte eckige Klammern hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) um URLs in der Textversion Ihrer E-Mails herum, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Standardmäßig werden in der Textversion von E-Mails keine Links verfolgt. Füg
 
 So fügen Sie nicht verfolgte Links zu E-Mails hinzu:
 
-* **HTML-Version:** Fügen Sie Ihren Link ein und fügen Sie die Klasse &quot;mktNoTrack&quot;zum Link hinzu.
+* **HTML-Version:** Fügen Sie Ihren Link ein und fügen Sie dem Link die Klasse &quot;mktNoTrack&quot;hinzu.
 * **Textversion:** Geben Sie einfach die URL ein. Sie wird standardmäßig deaktiviert.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
@@ -58,7 +58,7 @@ Erfahren Sie, wie sich Ihre Links in E-Mails im Voraus verhalten werden. Beispie
 
 ## Kampagne abbrechen {#abort-campaign}
 
-Keine Panik! Wenn Sie einen Fehler finden, verwenden Sie die neue Schaltfläche [Abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) , um Kampagnen in ihren Tracks sofort anzuhalten. Sie erhalten eine Benachrichtigung, in der Sie darüber informiert werden, wie viele Leads bei jedem Durchsatzschritt ausstanden, wenn die Kampagne angehalten wurde.
+Keine Panik! Wenn Sie einen Fehler finden, verwenden Sie das neue [Abbruchkampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) -Schaltfläche, um Kampagnen in ihren Tracks sofort anzuhalten. Sie erhalten eine Benachrichtigung, in der Sie darüber informiert werden, wie viele Leads bei jedem Durchsatzschritt ausstanden, wenn die Kampagne angehalten wurde.
 
 ## Sales Insight in Japanisch, Portugiesisch und Spanisch {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -68,11 +68,11 @@ Laden Sie die neueste Version von Sales Insight von AppExchange herunter, damit 
 
 ## Programmstatus und Erfolgszeitrahmen in der Analyse der Programmmitgliedschaft {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Zeigen Sie an, wie viele [Mitglieder sich in jedem Programmstatus](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) befinden und wann sie zu jedem Status geändert wurden, einschließlich des Datums, an dem sie den Programmerfolg erzielten.
+Wie viele [Mitglieder sind in jedem Programmstatus](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) und wann sie zu den einzelnen Status wechselten, einschließlich des Datums, an dem sie den Programmerfolg erzielten.
 
 ## A/B-Test-E-Mails in E-Mail-Analyse {#a-b-test-emails-in-email-analysis}
 
-Erstellen Sie einen Bericht zu den einzelnen [A/B-Test-E-Mail-Varianten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in der E-Mail-Analyse.
+Berichte zu jedem Ihrer [E-Mail-Varianten von A/B-Tests](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in der E-Mail-Analyse.
 
 ## Änderungen an der Analytics-Verpackung {#analytics-packaging-changes}
 

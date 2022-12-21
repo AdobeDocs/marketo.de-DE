@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146970
-description: Planen Sie eine Batch-Smart-Kampagne für eine spätere Ausführung - Marketo Docs - Produktdokumentation.
-title: Stapelausführung einer intelligenten Kampagne für später planen
+description: Planen einer späteren Ausführung einer Smart-Batch-Kampagne - Marketo Docs - Produktdokumentation
+title: Planen einer späteren Ausführung einer Smart-Batch-Kampagne
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
@@ -11,34 +10,34 @@ ht-degree: 0%
 
 ---
 
-# Planen Sie eine intelligente Batch-Kampagne, die später ausgeführt wird {#schedule-a-batch-smart-campaign-to-run-later}
+# Planen einer späteren Ausführung einer Smart-Batch-Kampagne {#schedule-a-batch-smart-campaign-to-run-later}
 
-Wenn Sie eine intelligente Batch-Kampagne so einrichten möchten, dass sie irgendwann in der Zukunft ausgeführt werden kann, dann ist das so.
+Wenn Sie eine Batch-Smart-Kampagne so einrichten möchten, dass sie irgendwann in der Zukunft ausgeführt wird, sehen Sie wie:
 
 >[!TIP]
 >
->Sie können auch [eine intelligente Batch-Kampagne in der Ansicht Programmplanung](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md) neu planen.
+>Sie können auch [eine Batch-Smart-Kampagne in der Programmplanungsansicht neu planen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
-1. Wählen Sie die auszuführende Stapel-Smart-Kampagne aus, wechseln Sie zur Registerkarte **Plan** und klicken Sie auf **Einmal ausführen**.
+1. Wählen Sie die Batch-Smart-Kampagne aus, die Sie ausführen möchten, und navigieren Sie zum **Zeitplan** und klicken Sie auf **Einmal ausführen**.
 
    ![](assets/scheduledruns2.png)
 
-1. Klicken Sie auf **Später ausführen**, klicken Sie dann auf das Kalendersymbol und wählen Sie den Tag aus, an dem die intelligente Kampagne ausgeführt werden soll.
+1. Klicken **Später ausführen** klicken Sie auf das Kalendersymbol und wählen Sie den Tag aus, an dem die Smart-Kampagne ausgeführt werden soll.
 
    ![](assets/runonce.png)
 
-1. Wählen Sie den Zeitraum aus, für den die intelligente Kampagne ausgeführt werden soll (mindestens 15 Minuten im Voraus).
+1. Wählen Sie den Zeitpunkt aus, zu dem die Smart-Kampagne laufen soll (mindestens 15 Minuten vor dem Start).
 
    ![](assets/runoncetime.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/runoncetimesave.png)
 
-1. Sie können die geplante Ausführung bestätigen, indem Sie die Registerkarte **Plan** aufrufen.
+1. Sie können die geplante Ausführung bestätigen, indem Sie die **Zeitplan** Registerkarte.
 
    ![](assets/scheduledrunsbox.png)
 
    >[!NOTE]
    >
-   >[Kampagne eines wiederkehrenden Stapels planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
+   >[Wiederkehrende Batch-Kampagne planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)

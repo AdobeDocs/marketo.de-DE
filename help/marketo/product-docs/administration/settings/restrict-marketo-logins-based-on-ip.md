@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360297
-description: Marketo-Anmeldungen auf Basis der IP-Adresse einschränken - Marketo Docs - Produktdokumentation
+description: Marketo-Anmeldungen auf Basis von IP einschränken - Marketo-Dokumente - Produktdokumentation
 title: Marketo-Anmeldungen auf IP-Basis beschränken
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
@@ -11,41 +10,41 @@ ht-degree: 0%
 
 ---
 
-# Marketo-Anmeldungen auf Basis von IP einschränken {#restrict-marketo-logins-based-on-ip}
+# Marketo-Anmeldungen auf IP-Basis beschränken {#restrict-marketo-logins-based-on-ip}
 
-Sie können den Zugriff auf Marketo je nach IP-Adressen einschränken oder aktivieren. So geht es.
-
->[!NOTE]
->
->**Administratorberechtigungen erforderlich**
+Sie können Benutzer anhand ihrer IP-Adressen am Zugriff auf Marketo hindern bzw. daran hindern. So geht es.
 
 >[!NOTE]
 >
->Die Informationen in diesem Artikel gelten nur für direkte Anmeldungen bei login.marketo.com. Es ist derzeit nicht möglich, IP-Beschränkungen für Single Sign-On-Anmeldungen (SSO) zu erzwingen.
+>**Erforderliche Administratorberechtigungen**
 
-1. Klicken Sie unter **Admin** auf **Anmeldeeinstellungen**.
+>[!NOTE]
+>
+>Die Informationen in diesem Artikel gelten nur für direkte Anmeldungen bei login.marketo.com. Es ist derzeit nicht möglich, IP-Einschränkungen für Single Sign-on (SSO)-Anmeldungen zu erzwingen.
+
+1. under **Admin** klicken **Anmeldeeinstellungen**.
 
    ![](assets/image2014-9-16-12-3a57-3a56.png)
 
-1. Klicken Sie auf **IP-Beschränkungen bearbeiten**.
+1. Klicken **IP-Einschränkungen bearbeiten**.
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Wählen Sie aus, ob Sie bestimmte Adressen **Allow** oder **Block** zulassen möchten, geben Sie die Adresse(n) ein und klicken Sie dann auf **Speichern**.
+1. Auswählen, ob Sie **Zulassen** oder **Block** bestimmte Adressen, geben Sie die Adresse(n) ein und klicken Sie auf **Speichern**.
 
    >[!NOTE]
    >
    >**Definition**
    >
-   >* **Zulässige IP-Adressen**: Zulässige IP-Adressen werden inklusiv hinzugefügt. Es enthält alle angegebenen IP-Adressen und schließt alles andere aus.
-   >* **IP-Adressen** blockieren: Verhindert, dass bestimmte IPs auf Marketo zugreifen.
-   >* **IP-Beschränkungen** deaktivieren: Wenn Sie diese Option aktivieren, funktionieren alle/alle Beschränkungsregeln nicht mehr. Verwenden Sie dies zu Testzwecken.
+   >* **Zulässige IP-Adressen**: Das Hinzufügen erlaubter IP-Adressen ist inklusiv. Sie enthält alle angegebenen IP-Adressen und schließt alle anderen aus.
+   >* **IP-Adressen blockieren**: Verhindert, dass bestimmte IPs auf Marketo zugreifen.
+   >* **IP-Einschränkungen deaktivieren**: Wenn Sie dies überprüfen, funktionieren alle/alle Einschränkungsregeln nicht mehr. Verwenden Sie dies zu Testzwecken.
 
 
    >[!NOTE]
    >
-   >Sie können mehrere Einschränkungen hinzufügen, diese können jedoch nur ALLE oder ALLE blockiert sein. Sie können keine zulässigen und blockierten Werte mischen und abgleichen.
+   >Sie können mehrere Einschränkungen hinzufügen, diese können jedoch nur &quot;ALLE&quot;oder &quot;ALLE blockiert&quot;sein. Sie können nicht mischen und passend erlaubt und blockiert.
 
    ![](assets/image2014-9-16-13-3a9-3a40.png)
 
-   Ihre Marketing-Daten sind jetzt noch sicherer als je zuvor!
+   Ihre Marketing-Daten sind jetzt sicherer als je zuvor!

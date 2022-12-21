@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352637
-description: hinzufügen Abonnements für eine Vorlage automatisch abbestellen - Marketing Docs - Produktdokumentation
-title: hinzufügen Abonnements für eine Vorlage automatisch abmelden
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Hinzufügen automatischer Abmeldungen zu einer Vorlage - Marketo Docs - Produktdokumentation
+title: Automatische Abmeldung zu einer Vorlage hinzufügen
+exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
+# Automatische Abmeldung zu einer Vorlage hinzufügen {#add-auto-unsubscribes-to-a-template}
 
-# hinzufügen Abonnements für eine Vorlage {#add-auto-unsubscribes-to-a-template} automatisch abmelden
+1. Wählen Sie Ihre Vorlage aus und klicken Sie auf **Bearbeiten** im Abschnitt Abonnement kündigen .
 
-1. Wählen Sie die Vorlage aus und klicken Sie im Abschnitt Abmelden auf **Bearbeiten**.
+1. Wählen Sie aus, ob Sie die automatische Abmeldung anhängen, die automatische Blockierung abmelden oder beides.
 
-1. Wählen Sie aus, ob Sie das automatische Abmelden, das automatische Abbrechen des Blocks oder beides anhängen möchten.
-
-   Nachdem diese Auswahlen gespeichert wurden, werden sie automatisch unter Ihrer Unterschrift angehängt, sobald Sie E-Mails mit dieser Vorlage senden.
+   Nachdem diese Auswahlen gespeichert wurden, werden sie automatisch unter Ihrer Signatur angehängt, sobald Sie E-Mails mit dieser Vorlage senden.
 
 >[!NOTE]
 >
->Sie können auch anpassen, wie diese Meldungen zum Abmelden von Abonnements auf der Registerkarte **Zeitzone &amp; Abmeldevorgänge** unter **Einstellungen** angezeigt werden.
+>Sie können auch anpassen, wie diese Abmelde-Nachrichten im **Zeitzone und Abmeldung** Registerkarte in **Einstellungen**.

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147093
-description: Grundlegendes zu lokalen Assets in einem Programm - Marketo Docs - Produktdokumentation
-title: Lokale Assets in einem Programm
+description: Grundlegendes zu lokalen Assets in einem Programm - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu lokalen Assets in einem Programm
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -19,11 +18,11 @@ Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpa
 
 >[!NOTE]
 >
->Nicht alle Kunden haben Zugriff auf alle verfügbaren Assets. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Nicht alle Kunden haben Zugriff auf alle verfügbaren Assets. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
 * [Intelligente Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
 * [Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
-* [Intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+* [Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 * [Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
 * [E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
 * [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
@@ -31,9 +30,9 @@ Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpa
 * [Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 * [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 * [Testgruppe](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
-* [Social-Schaltfläche](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
+* [Social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
 * [YouTube-Video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
 * [Umfrage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
 * [Empfehlungsangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 * [Gewinnspiele](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
-* [Vibes SMS-Nachrichten](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+* [Videos für SMS-Nachrichten](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)

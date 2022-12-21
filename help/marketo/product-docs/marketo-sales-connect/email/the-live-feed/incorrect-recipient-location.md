@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14352543
-description: Falsche Position des Empfängers - Marketing Docs - Produktdokumentation
-title: Falsche Position des Empfängers
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Falscher Empfängerort - Marketo Docs - Produktdokumentation
+title: Falscher Empfängerort
+exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
+# Falscher Empfängerort {#incorrect-recipient-location}
 
-# Falsche Position des Empfängers {#incorrect-recipient-location}
+Wenn der Ort für Ihre Empfänger falsch ist, gibt es drei Möglichkeiten, was möglicherweise passiert ist:
 
-Wenn wir den Ort für Ihre Empfänger falsch gewählt haben, gibt es drei Möglichkeiten, was passiert sein könnte:
+- Wenn Ihr Empfänger im Wireless-Netzwerk für ein Unternehmen angemeldet war, das seinen IT-Hauptsitz in einer anderen Stadt oder einem anderen Land hat, protokollieren wir diesen Standort anstelle des aktuellen Gebietsschemas.
 
-- Wenn Ihr Empfänger für eine Firma, die ihren IT-Hauptsitz in einem anderen Land oder einer anderen Stadt hat, beim Wireless-Netzwerk angemeldet war, protokollieren wir diesen Ort anstelle des aktuellen Gebietsschemas.
+- Wenn Ihre E-Mail von einer Person im CC- oder BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
 
--Wenn Ihre E-Mail von jemandem im CC- oder BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
-
-Insgesamt werden wir Orte so genau wie möglich anhand der IP-Verfolgung bestimmen, aber leider ist das keine exakte Wissenschaft.
+Insgesamt werden wir Orte so genau bestimmen, wie wir auf IP-Tracking basieren können, aber leider ist es keine exakte Wissenschaft.

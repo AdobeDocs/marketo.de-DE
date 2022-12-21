@@ -54,7 +54,7 @@ Marketo Sales Insight ist ein fantastisches Tool für Ihr Verkaufsteam. Hier fin
 
    ![](assets/image2015-5-4-11-3a0-3a58.png)
 
-1. Klicken **Schließen**.
+1. Klicken Sie auf **Schließen**.
 
    ![](assets/crmhand.png)
 

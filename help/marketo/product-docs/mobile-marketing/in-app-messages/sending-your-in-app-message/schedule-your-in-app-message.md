@@ -1,34 +1,33 @@
 ---
 unique-page-id: 11370503
-description: Planen Ihrer In-App-Nachricht - Marketing Docs - Produktdokumentation
+description: In-App-Nachricht planen - Marketo-Dokumente - Produktdokumentation
 title: In-App-Nachricht planen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# In-App-Nachricht planen {#schedule-your-in-app-message}
 
-# Planen Ihrer In-App-Nachricht {#schedule-your-in-app-message}
+Senden Sie Ihre Nachricht jetzt oder planen Sie sie für später.
 
-Senden Sie Ihre Nachricht jetzt oder planen Sie sie später.
-
-1. Um eine In-App-Nachricht zu planen, wählen Sie **Zukünftiges Datum** aus und wählen Sie ein Beginn aus dem Dropdownkalender.
+1. Um eine In-App-Nachricht zu planen, wählen Sie **Zukünftiges Datum festlegen** und wählen Sie ein Startdatum aus dem Dropdown-Kalender aus.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
-1. Wählen Sie aus der Dropdownliste eine Beginn-Zeit aus.
+1. Wählen Sie eine Startzeit aus der Dropdown-Liste aus.
 
    ![](assets/schedule-your-in-app-message-2.png)
 
-1. Enddatum und -zeit sind optional. Wählen Sie sie aus den Dropdownfeldern aus.
+1. Enddatum und -zeit sind optional. wählen Sie sie aus den Dropdown-Listen aus.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Oder wählen Sie **Sofort ausführen**, um das Programm jetzt auszuführen. Die Felder &quot;Beginn-Datum&quot;werden ausgeblendet.
+1. Oder wählen Sie zum sofortigen Ausführen des Programms die Option **Sofort ausführen**. Die Felder Startdatum werden nicht mehr angezeigt.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Einfach! Last but not least ist der Schritt [Approval](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).
+Einfach! Der letzte, aber nicht zuletzt, ist [Genehmigung](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) Schritt.

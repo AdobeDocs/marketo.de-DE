@@ -55,9 +55,9 @@ Klicken Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) 
 
 >[!NOTE]
 >
->* Web-Kampagnen für Dialogfeld und Widget können die Optionen Beliebige Seite und Platzhalter (*) verwenden.
-* In erweiterten Anwendungsfällen können In-Zone-Webkampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* Bei URL wird zwischen Groß- und Kleinschreibung unterschieden
+>* Web-Kampagnen für Dialogfelder und Widgets können eine beliebige Seite und einen beliebigen Platzhalter (&#42;).
+>* In erweiterten Anwendungsfällen können In-Zone-Webkampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* Bei URL wird zwischen Groß- und Kleinschreibung unterschieden
 
 
 ## Hinzufügen einer Ziel-URL für In-Zone-Web-Kampagnen {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -73,12 +73,14 @@ Klicken Sie auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) 
 1. Hinzufügen einer **Kampagnenname**. Wählen Sie eine **Zielsegment**. Hinzufügen **Ziel-URL**.
 
    >[!NOTE]
-   Ziel-URL mit In-Bereichen muss eine bestimmte URL oder URLs definieren. In erweiterten Anwendungsfällen können In-Zone-Webkampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >
+   >Ziel-URL mit In-Bereichen muss eine bestimmte URL oder URLs definieren. In erweiterten Anwendungsfällen können In-Zone-Webkampagnen Platzhalter am Ende des URL-Pfads verwenden. Beispiel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Erstellen einer Dialogkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>
+>* [Erstellen einer Dialogkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 

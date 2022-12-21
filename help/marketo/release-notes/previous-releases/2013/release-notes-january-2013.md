@@ -12,11 +12,11 @@ ht-degree: 1%
 
 # Versionshinweise: Januar 2013 {#release-notes-january}
 
-Die Januar-Version erweitert unser Social-Angebot um **Verweisangebote**. Darüber hinaus können Marketo Lead Management-Benutzer ihre Zeitzone, Sprache und Gebietsschema-Voreinstellungen festlegen. Bitte beachten Sie, dass mit einem * gekennzeichnete Funktionen nur in der Select Edition verfügbar sind.
+Die Januar-Version erweitert unser Social-Angebot mit **Verweisangebote**. Darüber hinaus können Marketo Lead Management-Benutzer ihre Zeitzone, Sprache und Gebietsschema-Voreinstellungen festlegen. Beachten Sie, dass Funktionen mit einer &#42; sind nur in der Select Edition verfügbar.
 
 ## Empfehlungsangebote {#referral-offers}
 
-Ein **Verweisangebot** gibt Ihren Leads einen Anreiz, ihre Freunde zu verweisen. Erstellen Sie Ziele und Belohnungen für erfolgreiche Verweise. Sie können sie auf Landingpages, auf Ihrer Website und sogar in Facebook verwenden.
+A **Verweisangebot** gibt Ihren Leads einen Anreiz, ihre Freunde zu verweisen. Erstellen Sie Ziele und Belohnungen für erfolgreiche Verweise. Sie können sie auf Landingpages, auf Ihrer Website und sogar in Facebook verwenden.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -28,7 +28,7 @@ Sie können die Standardzeitzone für Ihr persönliches Marketo-Konto ändern. S
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Wählen Sie Ihre Marketo Lead Management Language aus {#select-your-marketo-lead-management-language}
+## Marketo Lead Management Language auswählen {#select-your-marketo-lead-management-language}
 
 Sie können die Standardsprache für Ihr Marketo-Benutzerkonto ändern. Selbst wenn der Standard für das Abonnement Englisch ist, können Sie ihn für Ihre eigene Verwendung in Deutsch oder Französisch ändern.
 

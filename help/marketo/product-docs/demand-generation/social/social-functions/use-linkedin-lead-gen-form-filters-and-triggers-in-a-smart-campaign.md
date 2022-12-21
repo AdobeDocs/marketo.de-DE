@@ -1,28 +1,27 @@
 ---
 unique-page-id: 12976776
-description: Verwenden Sie die Filter und Trigger von LinkedIn-Lead-Gen-Formularen in einer intelligenten Kampagne - Marketing-Dokumente - Produktdokumentation
-title: Filter und Trigger von LinkedIn-Interessentenformularen in einer intelligenten Kampagne verwenden
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Verwenden von LinkedIn Lead Gen-Formularfiltern und -Triggern in einer Smart-Kampagne - Marketo Docs - Produktdokumentation
+title: Verwenden von LinkedIn Lead Gen-Formularfiltern und -Triggern in einer Smart-Kampagne
+exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Verwenden von LinkedIn Lead Gen-Formularfiltern und -Triggern in einer Smart-Kampagne {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-# Verwenden Sie die Filter und Trigger von LinkedIn-Lead-Gen-Formularen in einer Smart-Kampagne {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
-
-Wenn Sie LinkedIn Lead Gen Forms aktiviert haben, können Sie diese als Filter und Trigger in Ihren intelligenten Kampagnen verwenden.
+Wenn Sie LinkedIn Lead Gen Forms aktiviert haben, können Sie sie als Filter und Trigger in Ihren Smart-Kampagnen verwenden.
 
 >[!NOTE]
 >
->Wenn Personen ihre Informationen in einem LinkedIn-Lead-Gen-Formular übermitteln, werden diese Informationen sofort an Marketing weitergeleitet und das Formular wird in der Dropdownliste Name des Lead-Gen-Formulars zur Verfügung gestellt. Formularnamen sind erst sichtbar, wenn mindestens eine Person das Formular gesendet hat.
+>Wenn Personen ihre Informationen in einem LinkedIn Lead Gen-Formular übermitteln, werden diese Informationen sofort an Marketo gesendet. Das Formular wird dann in der Dropdown-Liste &quot;Lead Gen Form Name&quot;verfügbar gemacht. Formularnamen sind erst sichtbar, wenn mindestens eine Person das Formular gesendet hat.
 
-1. Verwenden Sie den Trigger **Füllt das LinkedIn-Interessentenformular**, um sofort zu handeln, oder den Filter **Ausgefülltes LinkedIn-Interessentenformular** für geplante Batch-Kampagnen oder die standardmäßige Filterung intelligenter Listen.
+1. Verwenden Sie die **Ausfüllen des LinkedIn Lead Gen-Formulars** Trigger, unverzüglich Maßnahmen zu ergreifen, oder **Ausfüllen des LinkedIn Lead Gen-Formulars** nach geplanten Batch-Kampagnen oder standardmäßigem Filter für Smart-Listen filtern.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 
-1. hinzufügen Einschränkungen, um Ihre Ergebnisse weiter zu beschränken.
+1. Fügen Sie Einschränkungen hinzu, um Ihre Ergebnisse weiter zu beschränken.
 
    ![](assets/lead-gen-constraints.png)

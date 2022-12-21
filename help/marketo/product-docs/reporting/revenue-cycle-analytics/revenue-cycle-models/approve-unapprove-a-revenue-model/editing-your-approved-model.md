@@ -1,21 +1,20 @@
 ---
 unique-page-id: 5472402
-description: Bearbeiten Ihres genehmigten Modells - MarketingToDocs - Produktdokumentation
+description: Bearbeiten Ihres genehmigten Modells - Marketo-Dokumente - Produktdokumentation
 title: Bearbeiten des genehmigten Modells
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-
 # Bearbeiten des genehmigten Modells {#editing-your-approved-model}
 
-## Bearbeiten des Modells {#editing-your-model}
+## Modell bearbeiten {#editing-your-model}
 
-1. Wählen Sie das Modell, an dem Sie Änderungen vornehmen möchten, im Bereich &quot;Analytics&quot;aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Modell aus, an dem Sie im Abschnitt &quot;Analytics&quot;Änderungen vornehmen möchten, und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one.png)
 
@@ -23,29 +22,29 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Wählen Sie die neue Phase für Interessenten aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keine**, um die Interessenten aus Ihrem Modell zu entfernen. Klicken Sie abschließend auf **Zusammenführen**.
+1. Wählen Sie die neue Phase für Leads aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keines** , um die Leads aus Ihrem Modell zu entfernen. Wenn Sie fertig sind, klicken Sie auf **Zusammenführen**.
 
    ![](assets/three.png)
 
-1. Nachdem Sie Änderungen am Modell vorgenommen haben, genehmigen Sie es erneut, indem Sie **Modellentwurf genehmigen** im Menü **Modellaktionen** auswählen.
+1. Wenn Sie Änderungen am Modell vorgenommen haben, genehmigen Sie es erneut, indem Sie **Modell-Entwurf genehmigen** im **Modellaktionen** Menü.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Wenn Sie Änderungen an Ihren Phasen vornehmen, z. B. das Hinzufügen oder Zusammenführen, sollten Sie die Zuordnungsregeln und -phasen entsprechend Ihren Änderungen ändern.
+   >Wenn Sie Änderungen an Ihren Bühnen vornehmen, z. B. Hinzufügen oder Zusammenführen, müssen Sie die Zuweisungsregeln und -phasen entsprechend Ihren Bearbeitungen ändern.
 
-## Nicht genehmigen Ihres Modells {#unapproving-your-model}
+## Nicht genehmigen des Modells {#unapproving-your-model}
 
 >[!CAUTION]
 >
->Wenn Sie Ihr Modell nicht genehmigen, werden alle zugehörigen Interessenten entfernt und ihr Verlauf im Modell wird gelöscht. Erwägen Sie, Ihr Modell zu bearbeiten, anstatt die Genehmigung aufzuheben.
+>Wenn Sie die Genehmigung des Modells aufheben, werden alle Leads entfernt und ihr Verlauf im Modell wird gelöscht. Erwägen Sie, Ihr Modell zu bearbeiten, anstatt die Genehmigung aufzuheben.
 
-1. Wählen Sie das Modell aus, für das Sie die Genehmigung aufheben möchten. Wählen Sie im Menü **Modellaktionen** **Modell nicht genehmigen**.
+1. Wählen Sie das Modell aus, dessen Genehmigung Sie aufheben möchten. Aus dem **Modellaktionen** Menü auswählen **Modell nicht genehmigen**.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf **Nicht genehmigen**.
+1. Klicken **Nicht genehmigen**.
 
    ![](assets/six.png)
 
@@ -55,7 +54,7 @@ ht-degree: 0%
 
 ## Erstellen weiterer Modelle {#creating-more-models}
 
-Sie können jeweils nur ein genehmigtes Modell haben. Wenn Sie ein Modell genehmigen möchten, aber bereits eines genehmigt haben, müssen Sie zunächst die Genehmigung für das aktuelle Modell aufheben. Versuchen Sie nach Möglichkeit, Ihr Modell zu bearbeiten, anstatt ein neues zu erstellen.
+Sie können jeweils nur ein genehmigtes Modell haben. Wenn Sie ein Modell genehmigen möchten, aber bereits ein Modell genehmigt wurde, müssen Sie die Genehmigung für das aktuelle Modell zuerst aufheben. Versuchen Sie nach Möglichkeit, Ihr Modell zu bearbeiten, anstatt ein neues zu erstellen.
 
 >[!MORELIKETHIS]
 >

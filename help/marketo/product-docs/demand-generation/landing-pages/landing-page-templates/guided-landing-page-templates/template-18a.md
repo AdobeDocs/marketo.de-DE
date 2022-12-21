@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 18A {#template-18a}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html) herunterladen
+Rechtsklick auf [Download-Vorlage 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 

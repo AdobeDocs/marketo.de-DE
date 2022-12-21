@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 18C {#template-18c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html) herunterladen
+Rechtsklick auf [Download-Vorlage 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 

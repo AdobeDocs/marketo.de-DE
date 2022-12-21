@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Zuweisen von Aufgaben zu Team-Mitgliedern {#assigning-tasks-to-team-members}
 
-Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweisung von Aufgaben eine gute Möglichkeit sein, Ihre Interessensbekundungsbemühungen zu koordinieren.
+Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweisung von Aufgaben eine hervorragende Möglichkeit sein, Ihre Interessensbekundungsbemühungen zu koordinieren.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweis
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Aufgabe hinzufügen**.
+1. Klicken **Aufgabe hinzufügen**.
 
    ![](assets/two-1.png)
 

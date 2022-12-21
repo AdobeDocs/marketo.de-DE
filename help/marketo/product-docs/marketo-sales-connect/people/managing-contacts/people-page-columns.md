@@ -1,27 +1,26 @@
 ---
 unique-page-id: 30081307
-description: Benutzerseitenspalten - Marketing-Dokumente - Produktdokumentation
+description: Benutzerseitenspalten - Marketo-Dokumente - Produktdokumentation
 title: Benutzerseitenspalten
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
 # Benutzerseitenspalten {#people-page-columns}
 
-Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, indem Sie festlegen, welche Spalten angezeigt werden.
+Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem Sie auswählen, welche Spalten angezeigt werden.
 
-## So wählen Sie Spalten {#how-to-select-columns} aus
+## Auswählen von Spalten {#how-to-select-columns}
 
-1. Klicken Sie auf der Seite &quot;Personen&quot;auf das Symbol &quot;Listen-Einstellungen&quot;.
+1. Klicken Sie auf der Seite &quot;Personen&quot;auf das Symbol Listeneinstellungen .
 
    ![](assets/one-5.png)
 
-1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** klicken, wenn Sie jede Spalte wünschen). Klicken Sie abschließend aus der Liste.
+1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** wenn Sie jede Spalte benötigen). Klicken Sie abschließend auf die Liste.
 
    ![](assets/two-4.png)
 
@@ -47,7 +46,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
   </tr> 
   <tr> 
    <td colspan="1">E-Mail (Standard)</td> 
-   <td colspan="1">Email-Adresse</td> 
+   <td colspan="1">E-Mail-Adresse</td> 
   </tr> 
   <tr> 
    <td colspan="1">Telefon</td> 
@@ -55,63 +54,63 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
   </tr> 
   <tr> 
    <td colspan="1">Titel (Standard)</td> 
-   <td colspan="1">Titel</td> 
+   <td colspan="1">Stellenbezeichnung</td> 
   </tr> 
   <tr> 
-   <td>Firma (Standard)</td> 
-   <td>Name der Firma</td> 
+   <td>Unternehmen (standard)</td> 
+   <td>Unternehmensname</td> 
   </tr> 
   <tr> 
    <td>Kampagne (Standard)</td> 
-   <td>Kampagne verkaufen, auf der sich die Person derzeit befindet</td> 
+   <td>Vertriebskampagne der Person, die sich derzeit befindet</td> 
   </tr> 
   <tr> 
-   <td>Anzahl Kampagnen</td> 
-   <td>Gesamtzahl der verkaufsbezogenen Kampagnen, zu denen die Person gehörte</td> 
+   <td>Anz. Kampagnen</td> 
+   <td>Gesamtzahl der Verkaufskampagnen, zu denen die Person gehörte</td> 
   </tr> 
   <tr> 
-   <td># Aufrufe</td> 
-   <td>Gesamtzahl der Anrufe an diese Person</td> 
+   <td>Anz. Anrufe</td> 
+   <td>Gesamtzahl der Aufrufe an diese Person</td> 
   </tr> 
   <tr> 
-   <td># E-Mails</td> 
+   <td>Anz. E-Mails</td> 
    <td>Gesamtzahl der an diese Person gesendeten E-Mails</td> 
   </tr> 
   <tr> 
-   <td>Aufgabe fällig</td> 
+   <td>Fälligkeitsdatum der Aufgabe</td> 
    <td>Fälligkeitsdatum der Aufgabe</td> 
   </tr> 
   <tr> 
-   <td># Ereignis (Standard)</td> 
-   <td>Gesamtzahl der Interaktions-Ereignisse der Person (Ansichten, Klicks und Antworten)</td> 
+   <td># Ereignisse (Standard)</td> 
+   <td>Gesamtzahl der Interaktionsereignisse nach Person (Ansichten, Klicks und Antworten)</td> 
   </tr> 
   <tr> 
    <td># Aktivitäten (Standard)</td> 
-   <td>Gesamtanzahl der vom Benutzer für diesen Interessent abgerufenen Aktivitäten (E-Mails, Aufrufe und Aufgaben)</td> 
+   <td>Gesamtzahl der vom Benutzer für diesen Lead durchgeführten Aktivitäten (E-Mails, Aufrufe und Aufgaben)</td> 
   </tr> 
   <tr> 
-   <td>Zustimmung</td> 
-   <td><p>Rechtliche Interessen, Vertragserfüllung, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/Behörde und sonstige</p></td> 
+   <td>Einverständnis</td> 
+   <td><p>Rechtliche Interessen, Ausführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
   </tr> 
   <tr> 
-   <td>Aufgaben öffnen</td> 
+   <td>Offene Aufgaben</td> 
    <td>Anzahl der offenen Aufgaben für diese Person</td> 
   </tr> 
   <tr> 
-   <td>Anzahl Ansichten</td> 
-   <td>Gesamtzahl der Ansichten</td> 
+   <td>Anz. Ansichten</td> 
+   <td>Gesamtzahl der Ansichten dieser Person</td> 
   </tr> 
   <tr> 
-   <td>Anzahl Klicks</td> 
-   <td>Gesamtzahl der Klicks dieser Person</td> 
+   <td>Anz. Klicks</td> 
+   <td>Gesamtzahl der Klicks von dieser Person</td> 
   </tr> 
   <tr> 
-   <td>Anzahl Antworten</td> 
+   <td>Anz. Antworten</td> 
    <td>Gesamtzahl der Antworten dieser Person</td> 
   </tr> 
   <tr> 
    <td>Zuletzt aktualisiert</td> 
-   <td>Datum, an dem der Personensatz zuletzt aktualisiert wurde:</td> 
+   <td>Datum der letzten Aktualisierung des Personendatensatzes am</td> 
   </tr> 
   <tr> 
    <td>Ersteller</td> 
@@ -126,8 +125,8 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <td>Gruppen, denen die Person angehört</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Nicht abonniert</td> 
-   <td colspan="1">Status "Abmelden"</td> 
+   <td colspan="1">Hat abbestellt</td> 
+   <td colspan="1">Status der Abmeldung von Vertrieb</td> 
   </tr> 
  </tbody> 
 </table>

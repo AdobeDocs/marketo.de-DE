@@ -1,50 +1,49 @@
 ---
 unique-page-id: 10094404
-description: Erstellen benutzerdefinierter Feldgruppen mit dem Feldorganisator - MarketingToDocs - Produktdokumentation
-title: Erstellen benutzerdefinierter Feldgruppen mithilfe des Feldorganisierers
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Erstellen benutzerdefinierter Feldergruppen mit dem Field Organizer - Marketo Docs - Produktdokumentation
+title: Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer
+exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '992'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer {#create-custom-field-groups-using-the-field-organizer}
 
-# Erstellen benutzerdefinierter Feldgruppen mit dem Feldorganisator {#create-custom-field-groups-using-the-field-organizer}
+Bevor Sie benutzerdefinierte Feldergruppen für die Berichterstellung im Bereich &quot;Modell-Leistungsanalyse&quot;(Leads) des Umsatz-Cycle-Explorers aktivieren können, müssen Sie Standardfelder oder benutzerdefinierte Felder über den Field Organizer in Marketo Lead Management in Gruppen für die Berichterstellung kategorisieren. Dies gilt nur für Lead- und Firmenattribute.
+Wenn Sie ein standardmäßiges oder benutzerdefiniertes Feld aus der Dropdown-Liste &quot;Feld&quot;im Dialogfeld &quot;New Field Organizer&quot;auswählen, ordnet das System den Marketo Lead Management-Datentyp zu, der dem Feld zugeordnet ist, das Sie mit einem der drei verfügbaren Editoren im Field Organizer gruppieren möchten: Zeichenfolge, Ganzzahl oder Datum.
 
-Bevor Sie benutzerdefinierte Feldgruppen für den Berichte im Bereich Modellleistung (Interessenten) des Umsatz-Cycle-Explorers aktivieren können, müssen Sie Standardfelder oder benutzerdefinierte Analysen für den Berichte über den Feldorganisator in der Marketing-Interessentenverwaltung in Gruppen kategorisieren. Dies gilt nur für die Attribute für Lead und Firma.
-Wenn Sie ein Standard- oder benutzerdefiniertes Feld aus der Dropdown-Liste &quot;Feld&quot;im Dialogfeld &quot;Neuer Feld-Organizer&quot;auswählen, ordnet das System den Datentyp &quot;Anzeigen-zu-Interessentenverwaltung&quot;dem Feld zu, das Sie mit einem der drei verfügbaren Editoren im Feld-Organizer gruppieren möchten: Zeichenfolge, Ganzzahl oder Datum.
-
-| Datentyp &quot;Marketing-Interessentenverwaltung&quot; | Datentyp &quot;Field Organizer Editor&quot; |
+| Marketo Lead Management-Datentyp | Datentyp &quot;Field Organizer Editor&quot; |
 |---|---|
 | Zeichenfolge | Zeichenfolge |
-| Email | Zeichenfolge |
-| Integer | Integer |
+| E-Mail | Zeichenfolge |
+| Ganze Zahl | Ganze Zahl |
 | Text | Zeichenfolge |
 | URL | Zeichenfolge |
 | Referenz | Nicht unterstützt |
-| Währung | Integer |
-| DateTime | Datum |
+| Währung | Ganze Zahl |
+| Datum/Uhrzeit | Datum |
 | Boolesch | Nicht unterstützt |
 | Telefon | Zeichenfolge |
 | Datum | Datum |
-| Float | Integer |
+| Gleitkomma | Ganze Zahl |
 | Berechnet | Nicht unterstützt |
 
-In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifische Feldgruppe für eine Zeichenfolge, eine Ganzzahl oder einen Datumstyp erstellen.
+In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinierte Feldergruppe für einen String, eine Ganzzahl oder einen Datumstyp erstellen.
 
-## Benutzerspezifische Feldgruppe erstellen - Zeichenfolgen-Editor {#create-custom-field-group-string-editor}
+## Benutzerdefinierte Feldergruppe erstellen - Zeichenfolgen-Editor {#create-custom-field-group-string-editor}
 
-1. Klicken Sie auf **Interessentendatenbank**.
+1. Klicken **Lead-Datenbank**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **New** und wählen Sie **New Field Organizer**.
+1. Klicken **Neu** und wählen Sie **Neuer Feld-Organizer**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Feld** und wählen Sie ein Standard- oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgeneditor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Land wird hier verwendet.
+1. Klicken **Feld** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Land wird hier verwendet.
 
    ![](assets/three.png)
 
@@ -52,19 +51,19 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    ![](assets/four.png)
 
-   Die neue benutzerspezifische Gruppe wird in der Struktur der Interessentendatenbank angezeigt, die als Feldname > Feldnamengruppe dargestellt wird (Beispiel: Land > Ländergruppe).
+   Die neue benutzerdefinierte Gruppe wird in der Struktur der Lead-Datenbank angezeigt, die als Feldname > Feldernamengruppe dargestellt wird (Beispiel: Land > Ländergruppe).
 
    ![](assets/4.5.png)
 
-1. Klicken Sie auf das Stiftsymbol, um den Namen anzupassen. Sie können beispielsweise &quot;Ländergruppe&quot;in &quot;Kontinent&quot;umbenennen. Geben Sie den gewünschten neuen Namen ein und klicken Sie zum automatischen Speichern auf eine andere Stelle.
+1. Klicken Sie auf das Stiftsymbol, um den Namen anzupassen. Sie können beispielsweise &quot;Ländergruppe&quot;in &quot;Kontinent&quot;umbenennen. Geben Sie den gewünschten neuen Namen ein und klicken Sie auf das Feld, um es automatisch zu speichern.
 
    ![](assets/five.png)
 
-1. Standardmäßig werden alle Datenwerte in der Untergruppe &quot;Sonstige&quot;platziert. Um die Datenwerte zu kategorisieren, klicken Sie auf **Hinzufügen Gruppe**, um eine Untergruppe zu erstellen und ihr einen Namen zu geben.
+1. Standardmäßig werden alle Datenwerte in die Untergruppe &quot;Sonstige&quot;eingefügt. Um die Datenwerte zu kategorisieren, klicken Sie auf **Gruppe hinzufügen** um eine Untergruppe zu erstellen und ihr einen Namen zu geben.
 
    >[!NOTE]
    >
-   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder erstellten Untergruppe wird eine ID zugewiesen.
+   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder erstellten Untergruppe wird eine ID-Nummer zugewiesen.
 
    In diesem Beispiel wurden Gruppen für die meisten Kontinente erstellt.
 
@@ -72,9 +71,9 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    >[!NOTE]
    >
-   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn die Gruppe Datenwerte enthält, werden die Datenwerte in die Standardgruppe Sonstige verschoben.
+   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Untergruppennamen. Wenn die Gruppe Datenwerte enthält, werden die Datenwerte in die Standardgruppe Sonstige verschoben.
 
-1. Markieren Sie einen oder mehrere Datenwerte auf der Arbeitsfläche und ziehen Sie die Datenwerte per Drag &amp; Drop in die entsprechende Untergruppe.
+1. Markieren Sie einen oder mehrere Datenwerte auf der Arbeitsfläche und ziehen Sie die Datenwerte in die entsprechende Untergruppe.
 
    ![](assets/seven.png)
 
@@ -82,25 +81,25 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
    >
    >Um einen Datenwert aus einer Untergruppe zu entfernen, weisen Sie den Datenwert der Standardgruppe Sonstige zu.
 
-1. Verwenden Sie die Filteroption in der oberen linken Ecke direkt über der Arbeitsfläche, um die Datenwerte in einer oder mehreren Untergruppen auszuwählen und Ansicht. Die Datenwerte, die auf Ihrer Filterauswahl basieren, werden auf der Arbeitsfläche angezeigt.
+1. Verwenden Sie die Filteroption oben links direkt über der Arbeitsfläche, um die Datenwerte in einer oder mehreren Untergruppen auszuwählen und anzuzeigen. Die Datenwerte, die auf Ihrer Filterauswahl basieren, werden auf der Arbeitsfläche angezeigt.
 
    ![](assets/eight.png)
 
    >[!NOTE]
    >
-   >Nachdem die Gruppen definiert wurden, können Sie die benutzerspezifische Feldgruppe für den Berichte in der Modellleistung-Analyse (Interessenten) über die Registerkarte &quot;Analyse des Umsatzes&quot;in der Marketing-Interessentenverwaltung aktivieren.
+   >Nachdem die Gruppen definiert wurden, können Sie die benutzerdefinierte Feldergruppe für die Berichterstellung in der Modell-Leistungsanalyse (Leads) über die Registerkarte &quot;Umsatzwyklusanalyse&quot;in Marketo Lead Management aktivieren.
 
-## Benutzerspezifische Feldgruppe erstellen - Ganzzahleditor {#create-custom-field-group-integer-editor}
+## Benutzerdefinierte Feldergruppe erstellen - Ganzzahleditor {#create-custom-field-group-integer-editor}
 
-1. Klicken Sie auf **Interessentendatenbank**.
+1. Klicken **Lead-Datenbank**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **New** und wählen Sie **New Field Organizer**.
+1. Klicken **Neu** und wählen Sie **Neuer Feld-Organizer**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Feld** und wählen Sie ein Standard- oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgeneditor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Hier wird der Jahresumsatz verwendet.
+1. Klicken **Feld** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Hier wird der Jahresumsatz verwendet.
 
    ![](assets/nine.png)
 
@@ -108,27 +107,27 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    ![](assets/9.5.png)
 
-   Die neue benutzerspezifische Gruppe wird in der Struktur der Interessentendatenbank angezeigt, die als Feldname > Feldnamengruppe dargestellt wird (Beispiel: Jahresumsatz > Jährliche Umsatzgruppe).
+   Die neue benutzerdefinierte Gruppe wird in der Struktur der Lead-Datenbank angezeigt, die als Feldname > Feldernamengruppe dargestellt wird (Beispiel: Jahresumsatz > Umsatzgruppe pro Jahr).
 
    ![](assets/9.6.png)
 
-1. Klicken Sie auf den standardmäßigen Namen der benutzerspezifischen Gruppe über dem Ganzzahleditor, um den Namen anzupassen. Sie können beispielsweise &quot;Jährliche Umsatzgruppe&quot;in &quot;Jahresumsatz nach Größe&quot;umbenennen. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf den standardmäßigen benutzerspezifischen Gruppennamen über dem Integer-Editor, um den Namen anzupassen. Sie können beispielsweise &quot;Jährliche Umsatzgruppe&quot;in &quot;Jahresumsatz nach Größe&quot;umbenennen. Klicken **Speichern**.
 
    ![](assets/eleven.png)
 
-   Mit dem Ganzzahleditor können Sie mehrere Untergruppen erstellen, um jede Untergruppe nach Größe zu definieren. In diesem Beispiel werden drei Gruppen für kleine, mittlere und große Unternehmen eingerichtet.
+   Mit dem Integer-Editor können Sie mehrere Untergruppen erstellen, um jede Untergruppe nach Größe zu definieren. In diesem Beispiel werden drei Gruppen für kleine, mittlere und Unternehmen erstellt.
 
-1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Klein) und geben Sie im Feld **Gruppenbereich** einen Maximalwert ein (Beispiel: 200000). Klicken Sie auf **Hinzufügen**.
+1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in die **Gruppenname** -Feld (Beispiel: Klein) und geben Sie einen Maximalwert in die **Gruppenbereich** -Feld (Beispiel: 20000). Klicken **Gruppe hinzufügen**.
 
    ![](assets/twelve.png)
 
-   Unter der gerade eingegebenen Gruppe wird ein leerer Gruppeneintrag angezeigt. Das folgende Beispiel zeigt einen Eintrag für kleine, mittlere und Unternehmen.
+   Unter der soeben eingegebenen Gruppe wird ein leerer Gruppeneintrag angezeigt. Das folgende Beispiel zeigt einen Eintrag für kleine, mittlere und Unternehmen.
 
    >[!NOTE]
    >
-   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder Gruppenbereichseintrag baut auf dem vorherigen Eintrag auf. Wenn Sie den letzten Eintrag für den Gruppenbereich für die letzte von Ihnen erstellte benutzerspezifische Untergruppe leer lassen, wird kein Höchstwert für die Daten festgelegt.
+   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder Gruppenbereichseintrag baut auf dem vorherigen Eintrag auf. Wenn Sie den letzten Eintrag für den Gruppenbereich für die letzte von Ihnen erstellte benutzerdefinierte Untergruppe leer lassen, wird kein maximaler Datenwert festgelegt.
 
-1. Klicken Sie auf die Registerkarte Zusammenfassung, um Ihre Einstellungen zu speichern und zu überprüfen.
+1. Klicken Sie auf die Registerkarte Zusammenfassung , um Ihre Einstellungen zu speichern und zu überprüfen.
 
    ![](assets/thirteen.png)
 
@@ -142,19 +141,19 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    >[!NOTE]
    >
-   >Nachdem die Gruppen definiert wurden, können Sie die benutzerspezifische Feldgruppe für den Berichte in der Modellleistung-Analyse (Interessenten) über die Registerkarte &quot;Analyse des Umsatzes&quot;in der Marketing-Interessentenverwaltung aktivieren.
+   >Nachdem die Gruppen definiert wurden, können Sie die benutzerdefinierte Feldergruppe für die Berichterstellung in der Modell-Leistungsanalyse (Leads) über die Registerkarte &quot;Umsatzwyklusanalyse&quot;in Marketo Lead Management aktivieren.
 
-## Benutzerspezifische Feldgruppe erstellen - Datumseditor {#create-custom-field-group-date-editor}
+## Benutzerdefinierte Feldergruppe erstellen - Datumseditor {#create-custom-field-group-date-editor}
 
-1. Klicken Sie auf **Interessentendatenbank**.
+1. Klicken **Lead-Datenbank**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **New** und wählen Sie **New Field Organizer**.
+1. Klicken **Neu** und wählen Sie **Neuer Feld-Organizer**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Feld** und wählen Sie ein Standard- oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgeneditor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Das Akquise-Datum wird hier verwendet.
+1. Klicken **Feld** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Das Akquisedatum wird hier verwendet.
 
    ![](assets/fourteen.png)
 
@@ -162,17 +161,17 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
 
    ![](assets/14.5.png)
 
-   Die neue benutzerspezifische Gruppe wird in der Struktur der Interessentendatenbank angezeigt, die als Feldname > Feldnamengruppe dargestellt wird (Beispiel: Akquise-Datum > Akquise-Datumgruppe).
+   Die neue benutzerdefinierte Gruppe wird in der Struktur der Lead-Datenbank angezeigt, die als Feldname > Feldernamengruppe dargestellt wird (Beispiel: Akquisedatum > Akquise-Datumgruppe).
 
    ![](assets/14.6.png)
 
-1. Klicken Sie auf den standardmäßigen Namen der benutzerspezifischen Gruppe über dem Datumseditor, um den Namen anzupassen. Sie können beispielsweise &quot;Akquise-Datengruppe&quot;in &quot;Akquise-Datums-Kategorien&quot;umbenennen. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf den standardmäßigen Namen der benutzerspezifischen Gruppe über dem Datumseditor, um den Namen anzupassen. Sie können beispielsweise &quot;Akquise-Datumgruppe&quot;in &quot;Akquise-Datumskategorien&quot;umbenennen. Klicken **Speichern**.
 
    ![](assets/fifteen.png)
 
    Mit dem Datumseditor können Sie mehrere Untergruppen erstellen und jede Untergruppe nach Datum definieren. In diesem Beispiel werden drei Gruppen erstellt: Q1-15 Leads, Q2-15 Leads und Q3-15 Leads.
 
-1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Q1-15 Interessenten) und geben Sie ein Datum in das Datumsfeld ein, das dem Datum entspricht, an dem der Interessent am oder vor dem Kauf erworben wurde (Beispiel: 31.03.2015 für den letzten Tag des Q1-15). Klicken Sie auf **Hinzufügen**.
+1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in die **Gruppenname** -Feld (Beispiel: F1-15-Leads) und geben Sie ein Datum in das Datumsfeld ein, das das Datum darstellt, an dem der Lead erworben wurde (Beispiel: 31.03.2015 für den letzten Tag des Q1-15). Klicken **Gruppe hinzufügen**.
 
    ![](assets/sixteen.png)
 
@@ -180,7 +179,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerspezifi
    >
    >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder Gruppenbereichseintrag baut auf dem vorherigen Eintrag auf. Wenn Sie den letzten Eintrag für den Gruppenbereich für die letzte von Ihnen erstellte benutzerspezifische Untergruppe leer lassen, wird kein Enddatumswert festgelegt.
 
-   Das folgende Beispiel zeigt einen Eintrag für Q1 2015-Interessenten bis zum 3. Quartal.
+   Das folgende Beispiel zeigt einen Eintrag für Q1 2015-Leads durch Q3.
 
    ![](assets/16.5.png)
 

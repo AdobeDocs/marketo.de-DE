@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 6C {#template-6c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+Rechtsklick auf [Download-Vorlage 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 

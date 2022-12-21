@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2359469
-description: Ansicht des E-Mail-Programm-Dashboards - Marketing Docs - Produktdokumentation
-title: Ansicht des E-Mail-Programm-Dashboards
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Anzeigen des Dashboards "E-Mail-Programm"- Marketo-Dokumente - Produktdokumentation
+title: Anzeigen des Dashboards "E-Mail-Programm"
+exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
+# Anzeigen des Dashboards &quot;E-Mail-Programm&quot; {#view-the-email-program-dashboard}
 
-# Ansicht des E-Mail-Programm-Dashboards {#view-the-email-program-dashboard}
+Informieren Sie sich über die Leistung Ihres E-Mail-Programms (mit oder ohne A/B-Test) mit diesem Dashboard.
 
-Prüfen Sie, wie Ihr E-Mail-Programm (mit oder ohne A/B-Test) mit diesem Dashboard arbeitet.
+## E-Mail-Programm auswählen {#select-your-email-program}
 
-## Wählen Sie Ihr E-Mail-Programm {#select-your-email-program}
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen und wählen Sie Ihr E-Mail-Programm aus.
+1. Wählen Sie Ihr E-Mail-Programm aus.
 
    ![](assets/selectemailprogram.jpg)
 
    >[!CAUTION]
    >
-   >Wenn Ihr A/B-Test oder E-Mail-Programm noch nicht gestartet wurde, wird kein Dashboard angezeigt.
+   >Wenn Ihr A/B-Test- oder E-Mail-Programm noch nicht gestartet wurde, wird kein Dashboard angezeigt.
 
-## E-Mail-Programm A/B-Ansicht {#email-program-a-b-test-view}
+## A/B-Test-Ansicht des E-Mail-Programms {#email-program-a-b-test-view}
 
 Wenn Sie Ihrem E-Mail-Programm einen A/B-Test hinzugefügt haben und der Test derzeit ausgeführt wird, sehen Sie Folgendes:
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## E-Mail-Programm-Ansicht {#email-program-view}
+## Email Program View {#email-program-view}
 
-Wenn Sie auch keinen A/B-Test *oder* hinzugefügt haben, wenn der Test beendet ist, sollte Folgendes angezeigt werden:
+Wenn Sie keinen A/B-Test hinzugefügt haben, können Sie auch *oder* Wenn der Test beendet ist, sollte Folgendes angezeigt werden:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
 >[!TIP]
 >
->Experimentieren Sie, indem Sie den Cursor über die Widgets für Diagramme bewegen. Es werden zusätzliche Informationen angezeigt.
+>Experimentieren Sie, indem Sie den Cursor über die Diagramm-Widgets bewegen. Es werden zusätzliche Informationen angezeigt.
 
 >[!MORELIKETHIS]
 >
->* [Verwenden Sie die Ansicht E-Mail-Programm-Dashboard - A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Verwenden Sie das Dashboard E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Verwenden des Dashboards &quot;E-Mail-Programm&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 

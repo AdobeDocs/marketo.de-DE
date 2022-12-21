@@ -1,34 +1,33 @@
 ---
 unique-page-id: 4719410
-description: Löschen einer Web-Kampagne - Marketing Docs - Produktdokumentation
-title: Eine Web-Kampagne löschen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Eine Webkampagne löschen - Marketo-Dokumente - Produktdokumentation
+title: Eine Webkampagne löschen
+exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
+# Eine Webkampagne löschen {#delete-a-web-campaign}
 
-# Eine Web-Kampagne {#delete-a-web-campaign} löschen
-
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Navigieren Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
+   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Löschen** auf der Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der Seite Web-Kampagnen auf **Löschen** auf der Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
-1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, ob Sie die Web-Kampagne löschen möchten.
+1. Eine Bestätigungsmeldung wird angezeigt, um zu bestätigen, ob Sie die Webkampagne löschen möchten.
 
 >[!MORELIKETHIS]
 >
->* [Eine Web-Kampagne bearbeiten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
->* [Web-Kampagnen starten/anhalten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
+>* [Eine Webkampagne bearbeiten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
+>* [Starten/Anhalten einer Webkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
 

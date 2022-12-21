@@ -1,26 +1,25 @@
 ---
 unique-page-id: 2359483
-description: Optionen für E-Mail-Tests - Marketing-Dokumente - Produktdokumentation
-title: Optionen für E-Mail-Tests
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Grundlegendes zu E-Mail-Testoptionen - Marketo-Dokumente - Produktdokumentation
+title: Grundlagen zu E-Mail-Testoptionen
+exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Grundlagen zu E-Mail-Testoptionen {#understanding-email-testing-options}
 
-# Die E-Mail-Testoptionen {#understanding-email-testing-options}
-
-Testen Sie Ihre E-Mails, um deren Interaktionswert zu verbessern. In Marketo gibt es zwei Arten von E-Mail-Tests.
+Testen Sie Ihre E-Mails, um ihre Interaktionsbewertung zu verbessern. In Marketo gibt es zwei Arten von E-Mail-Tests.
 
 ## A/B-Tests {#a-b-testing}
 
-Dies gilt für einmalige E-Mails mit E-Mail-Programmen. hinzufügen [A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) und eine kleine Gruppe erhält den Test und der Rest erhält den Gewinner.
+Dies gilt für einmalige E-Mails, die E-Mail-Programme verwenden. Hinzufügen [A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) und eine kleine Gruppe erhält den Test und der Rest wird den Gewinner gewinnen.
 
-## Email-Champion/Challenger {#email-champion-challenger}
+## Email Champion/Challenger {#email-champion-challenger}
 
-Für laufende E-Mails, die in intelligenten Kampagnen oder Interaktions-Programmen des Triggers verwendet werden, können Sie [E-Mail-Champion/Herausforderer](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)-Tests hinzufügen. Dies führt zu Abweichungen bei einem fortlaufenden Prozentsatz der Empfänger.
+Für fortlaufende E-Mails, die in Trigger-Smart-Kampagnen oder -Interaktionsprogrammen verwendet werden, können Sie [E-Mail-Meister/Herausforderer](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) Testen. Dies führt zu Variationen eines fortlaufenden Prozentsatzes der Empfänger.
 
-Glückliche Tests!
+Gute Tests!

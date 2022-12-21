@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2950573
-description: Konfigurieren des Trackfortschrittsflusses für ein Referrer-Angebot - MarketingToDocs - Produktdokumentation
-title: Konfigurieren des Trackfortschrittsflusses für ein Referrer-Angebot
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Konfigurieren des Fortschrittsverlaufs für ein Verweisangebot - Marketo Docs - Produktdokumentation
+title: Konfigurieren des Fortschrittsablaufs für ein Verweisangebot
+exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
+# Konfigurieren des Fortschrittsablaufs für ein Verweisangebot {#configure-track-progress-flow-for-a-referral-offer}
 
-# Konfigurieren des Trackfortschrittsflusses für ein Referrer-Angebot {#configure-track-progress-flow-for-a-referral-offer}
+Wenn Sie [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)können Sie die Aufforderungen konfigurieren, die den Teilnehmern ihren Fortschritt in Richtung Belohnung zeigen.
 
-Wenn Sie [ein Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie die Eingabeaufforderungen konfigurieren, die den Teilnehmern ihren Fortschritt in Richtung Belohnung anzeigen.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie das verweisende Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Verweisangebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. Wechseln Sie im Editor für Verweismaterial zu **Verfolgungsfortschritt** > **Social Networks**.
+1. Navigieren Sie im Angebotseditor zu **Verfolgen des Fortschrittsflusses** > **Soziale Netzwerke**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Bearbeiten Sie im Fenster **Ansicht &amp; Bearbeiten** die Aufforderung, die die Teilnehmer daran erinnert, sich bei demselben sozialen Netzwerk anzumelden, mit dem sie sich für Ihr Angebot angemeldet haben.
+1. Im **Anzeigen und Bearbeiten** bearbeiten Sie die Aufforderung, die Teilnehmer daran zu erinnern, sich bei demselben sozialen Netzwerk anzumelden, mit dem sie sich für Ihr Angebot angemeldet haben.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >Um den zu bearbeitenden Text zu markieren, wählen Sie **Bearbeitungen anzeigen** in der oberen rechten Ecke aus.
+   >Um den Text zu markieren, den Sie bearbeiten können, wählen Sie **Bearbeitungen anzeigen** in der oberen rechten Ecke.
 
-1. Bearbeiten Sie die Eingabeaufforderung, die den Teilnehmer dazu anhält, den Link für weitere Freunde freizugeben.
+1. Bearbeiten Sie die Eingabeaufforderung, die den Teilnehmer dazu ermutigt, den Link für mehr Freunde freizugeben.
 
    ![](assets/image2014-9-22-14-3a36-3a22.png)
 
-1. Bearbeiten Sie die Aufforderung, die den Teilnehmer darüber informiert, dass er das Fulfillment-Ziel erreicht hat, und prüfen Sie deren E-Mail.
+1. Bearbeiten Sie die Aufforderung, die den Teilnehmer darüber informiert, dass er das Erfüllungsziel erreicht hat, und sollten ihre E-Mail-Adresse prüfen.
 
    ![](assets/image2014-9-22-14-3a36-3a36.png)
 
-1. Bearbeiten Sie die Nachricht, die einen erfolgreichen Teilnehmer über die entsprechenden Promo-Codes zur Vergütung informiert.
+1. Bearbeiten Sie die Nachricht, die einen erfolgreichen Teilnehmer über die relevanten Angebotscodes zur Einlösung seiner Belohnung informiert.
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 
 >[!MORELIKETHIS]
 >
->Klicken Sie anschließend auf **Fertigstellen** > **Genehmigen und Schließen** und [Veröffentlichen Sie Ihr Verweisdokument](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Klicken Sie anschließend auf **Beenden** > **Genehmigen und schließen** und [Veröffentlichen Ihres Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

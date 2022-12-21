@@ -1,55 +1,54 @@
 ---
 unique-page-id: 10098759
-description: Testen von Facebook-Interessentenanzeigen für die mobile Integration mit Marketing - Marketing - Marketing-Dokumente - Produktdokumentation
-title: Testen von Facebook-Interessentenanzeigen für die mobile Integration mit Marketing
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Facebook Lead Ads for Mobile Integration with Marketo - Marketo Docs - Produktdokumentation testen
+title: Facebook Lead Ads für die mobile Integration mit Marketo testen
+exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
+# Facebook Lead Ads für die mobile Integration mit Marketo testen {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
-# Testen Sie Facebook-Interessentenanzeigen für die mobile Integration mit Marketing {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
-
-Nachdem Sie Ihre Interessentenanzeige erstellt haben, sollten Sie sie testen!
+Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen!
 
 >[!PREREQUISITES]
 >
->Sie müssen [die Facebook-Interessentenwerbungsintegration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) einrichten.
+>Sie müssen [Einrichten der Facebook Lead Ads-Integration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie im Power Editor von Facebook eine Kampagne, eine Anzeige aus und klicken Sie auf **Bearbeiten**.
 
-1. Klicken Sie unter **Links** auf den Link **Ansicht in der mobilen App**.
+1. under **Links**, klicken Sie auf die **Anzeigen in mobilen Apps** Link.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. Eine neue Benachrichtigung wird an das Facebook-Konto gesendet, auf das Sie mit dem autorisierten Konto auf dem Mobilgerät zugreifen können. Klicken Sie auf **OK**.
+1. Eine neue Benachrichtigung wird an das Facebook-Konto gesendet, auf das Sie mit dem autorisierten Konto auf dem Mobilgerät zugreifen können. Klicken **OK**.
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. Tippen Sie auf Ihrem Mobilgerät in der mobilen Facebook-App auf **Benachrichtigungen**.
+1. Tippen Sie auf Ihrem Mobilgerät auf **Benachrichtigungen** in der mobilen Facebook-App.
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. Tippen Sie in Benachrichtigungen auf **Ihre Anzeige ist bereit zur Vorschau**.
+1. Tippen Sie in den Benachrichtigungen auf **Ihre Anzeige ist bereit zur Vorschau**.
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
-1. Senden Sie Ihre Test-Werbeeinheit, indem Sie auf Ihren Aktionsaufruf tippen und das erstellte Formular ausfüllen.
+1. Senden Sie Ihre Test-Lead-Anzeigeneinheit, indem Sie auf Ihre Aktionsaufruf tippen und das von Ihnen erstellte Formular ausfüllen.
 
    ![](assets/image2016-3-11-8-3a52-3a20.png)
 
    >[!NOTE]
    >
-   >Dies ist nur ein Beispiel, bei dem ein Aktionsaufruf für weitere Informationen verwendet wird. Ihr Aktionsaufruf für die Interessentenanwerbung kann anders ausfallen.
+   >Dies ist nur ein Beispiel, das einen &quot;Weitere Informationen&quot;-Aktionsaufruf verwendet. Ihr Aktionsaufruf für Lead-Anzeigeneinheiten kann anders ausfallen.
 
-1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine intelligente Liste in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Interessentendatenbank, die den Filter **Ausgefülltes Facebook-Formular für Interessentenanzeigen** verwendet. Geben Sie den Namen des Interessentenanwerbungsformulars des soeben gesendeten Formulars ein.
+1. Hier geschieht die Magie! Sobald Sie Ihr Formular übermittelt haben, [Erstellen einer Smart-Liste in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Lead-Datenbank, die die **Ausfüllen des Facebook Lead Ads-Formulars** Filter. Fügen Sie den Namen des Lead-Anzeigenformulars des soeben gesendeten Formulars ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
-1. Klicken Sie jetzt auf die Registerkarte &quot;Interessenten&quot;, um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
+1. Klicken Sie nun auf die Registerkarte Leads , um zu überprüfen, ob die Synchronisation ordnungsgemäß funktioniert.
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
@@ -57,4 +56,4 @@ Ist das cool oder was?
 
 >[!NOTE]
 >
->[Facebook-Interessentenanzeigen aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Facebook Lead-Anzeigen aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -17,7 +17,7 @@ Auf Ihrer Seite &quot;Mein Profil&quot;können Sie Ihren Namen, die Sprache/das 
 
 Hier können Sie Ihren Namen und/oder Ihr Passwort aktualisieren.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/manage-your-profile-1.png)
 
@@ -27,7 +27,7 @@ Hier können Sie Ihren Namen und/oder Ihr Passwort aktualisieren.
 
 >[!NOTE]
 >
->Ihre E-Mail-Adresse ist so eingestellt, dass sie nur angezeigt wird. Wenn Sie auch diese Änderung benötigen, wenden Sie sich an [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Ihre E-Mail-Adresse ist so eingestellt, dass sie nur angezeigt wird. Wenn Sie auch eine Änderung benötigen, wenden Sie sich bitte an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Sie können Ihr Kennwort auch in diesem Abschnitt ändern. Die Schritte sind in diesem Dokument beschrieben.
 
@@ -49,23 +49,23 @@ Hier erfahren Sie, wie Sie die Sprache, das Gebietsschema und/oder die Zeitzone 
 >
 >Unterstützte Sprachen: Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Um Ihre Sprache zu ändern, klicken Sie auf das Dropdown-Menü **Sprache** und wählen Sie aus.
+1. Um Ihre Sprache zu ändern, klicken Sie auf die Schaltfläche **Sprache** und wählen Sie aus.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Gebietsschema hier bezieht sich auf die Region, in der diese Sprache gesprochen wird. Klicken Sie auf die Dropdown-Liste **Gebietsschema** und wählen Sie aus.
+1. Gebietsschema hier bezieht sich auf die Region, in der diese Sprache gesprochen wird. Klicken Sie auf **Gebietsschema** und wählen Sie aus.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Klicken Sie auf das Dropdown-Menü **Ihre Zeitzone** und wählen Sie aus.
+1. Klicken Sie auf **Ihre Zeitzone** und wählen Sie aus.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Klicken Sie abschließend auf **Speichern** .
+1. Klicken **Speichern** wann geschehen.
 
    ![](assets/manage-your-profile-8.png)
 

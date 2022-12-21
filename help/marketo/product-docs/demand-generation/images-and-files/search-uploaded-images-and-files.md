@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2359862
-description: Hochgeladene Bilder und Dateien durchsuchen - Marketing Docs - Produktdokumentation
+description: Suchen nach hochgeladenen Bildern und Dateien - Marketo Docs - Produktdokumentation
 title: Hochgeladene Bilder und Dateien durchsuchen
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Hochgeladene Bilder und Dateien suchen {#search-uploaded-images-and-files}
+# Hochgeladene Bilder und Dateien durchsuchen {#search-uploaded-images-and-files}
 
 In Marketo ist das Suchen von Bildern und Dateien ein Kinderspiel.
 
-1. Wechseln Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Klicken Sie auf **Bilder und Dateien**, um eine vollständige Liste aller hochgeladenen Dateien anzuzeigen.
+1. Klicken **Bilder und Dateien** um eine vollständige Liste aller hochgeladenen Dateien anzuzeigen.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. Geben Sie im Feld **Schnellsuche** unten im Bildschirm den Namen der gesuchten Datei ein und klicken Sie auf **Geben Sie** ein.
+1. Im **Schnellsuche** unten auf dem Bildschirm den Namen der gesuchten Datei eingeben und auf **Eingabe**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Um eine neue Suche Beginn, klicken Sie im Feld **Schnellsuche** auf **x**.
+>Um eine neue Suche zu starten, klicken Sie auf die Schaltfläche **x** im **Schnellsuche** ankreuzen.
 
-Nimm deine Füße auf! Du bist fertig!
+Tritt auf, du bist fertig!
 
 >[!MORELIKETHIS]
 >
->* [Hochgeladene Bilder oder Dateien ersetzen](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Bilder und Dateien mithilfe von Ordnern organisieren](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [Organisieren von Bildern und Dateien mithilfe von Ordnern](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 

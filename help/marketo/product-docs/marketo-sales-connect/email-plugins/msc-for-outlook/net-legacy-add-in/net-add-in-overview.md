@@ -1,40 +1,39 @@
 ---
 unique-page-id: 14352457
-description: .NET-Hinzufügen - Übersicht - Marketing-Dokumente - Produktdokumentation
-title: .NET-Hinzufügen-Übersicht
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: .NET-Add-in-Übersicht - Marketo-Dokumente - Produktdokumentation
+title: Übersicht über das .NET-Add-in
+exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
-# .NET-Hinzufügen-Übersicht {#net-add-in-overview}
+# Übersicht über das .NET-Add-in {#net-add-in-overview}
 
 >[!NOTE]
 >
->Das ist unser altes Add-in. Wenn Sie es bereits installiert haben, funktioniert es bis 2020. Wenn Sie ein neuer Benutzer sind, installieren Sie bitte unser neues [Office 365-Add-in](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Dies ist unser altes Add-in. Wenn Sie es bereits installiert haben, wird es bis 2020 weiterhin funktionieren. Wenn Sie ein neuer Benutzer sind, installieren Sie bitte unsere neue [Office 365-Add-in](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Anhängen eines Inhaltselements {#attaching-a-piece-of-content}
+## Anfügen eines Inhaltselements {#attaching-a-piece-of-content}
 
-hinzufügen Sie nachverfolgbaren Inhalt, indem Sie auf die Schaltfläche **Inhalt** klicken und eine Datei hochladen.
+Fügen Sie verfolgbaren Inhalt hinzu, indem Sie auf die **Inhalt** und laden Sie eine Datei hoch.
 
-Zuvor hochgeladene Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
+Alle zuvor hochgeladenen Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
 
-## Kalenderfunktion {#calendar-functionality}
+## Kalenderfunktionen {#calendar-functionality}
 
-Teilen Sie Ihren Empfängern mit, wann Sie verfügbar sind, indem Sie auf die Schaltfläche **Kalender** klicken.
+Teilen Sie Ihren Empfängern mit, wenn Sie verfügbar sind, indem Sie die **Kalender** Schaltfläche.
 
-Dadurch wird Ihr Outlook-Kalender abgeholt und Sie können bestimmte Daten und Zeiten, die Sie kostenlos sind, hinzufügen und die Informationen zu Ihrer E-Mail hinzufügen.
+Dadurch wird Ihr Outlook-Kalender abgerufen und Sie können bestimmte Daten und Zeiten hinzufügen, zu denen Sie frei sind, und die Informationen zu Ihrer E-Mail hinzufügen.
 
 ## Abruf einer Vorlage {#pulling-in-a-template}
 
-Ziehen Sie eine vordefinierte Tout-Vorlage in die Outlook-Nachricht, indem Sie auf die Schaltfläche **Vorlagen** drücken.
+Ziehen Sie eine vordefinierte Tout-Vorlage in die Outlook-Nachricht, indem Sie die **Vorlagen** Schaltfläche.
 
-Wir synchronisieren mit all Ihren persönlichen Vorlagen und allen freigegebenen Vorlagen im Team. Wir übernehmen auch automatisch die zuletzt verwendete Vorlage und die am häufigsten verwendete Vorlage für den einfachen Zugriff.
+Wir synchronisieren mit all Ihren persönlichen Vorlagen und allen freigegebenen Vorlagen des Teams. Außerdem werden automatisch die zuletzt verwendete Vorlage und die am häufigsten verwendete Vorlage abgerufen, um den Zugriff zu erleichtern.
 
-## Die Schaltfläche &quot;Tout It&quot; {#the-tout-it-button}
+## Schaltfläche &quot;Tout it&quot; {#the-tout-it-button}
 
-Nachdem Sie Ihre personalisierte E-Mail ausgefüllt haben und bereit sind zu gehen, klicken Sie immer auf die Schaltfläche **Tout It**, um die Verfolgung zu erhalten. Es erscheint ein Kästchen mit dem Text &quot;Hängen Sie auf, wir fügen Ihnen die Verfolgungsmagie hinzu.&quot;
+Nachdem Sie Ihre personalisierte E-Mail ausgefüllt und bereit zum Senden sind, müssen Sie immer auf die **Tutorials** -Schaltfläche, um Tracking zu erhalten. Es erscheint ein Feld mit dem Text &quot;Häng ab, wir fügen Tracking-Magie hinzu&quot;.

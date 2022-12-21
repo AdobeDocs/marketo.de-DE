@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 15E {#template-15e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html) herunterladen
+Rechtsklick auf [Download-Vorlage 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 

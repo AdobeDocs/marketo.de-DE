@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12979010
-description: Performance Insights-Trendübersicht - Marketing Docs - Produktdokumentation
-title: Übersicht über Performance Insights Trends
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Leistungseinblicke - Trend-Übersicht - Marketo-Dokumente - Produktdokumentation
+title: Trend-Übersicht für Leistungseinblicke
+exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
+# Trend-Übersicht für Leistungseinblicke {#performance-insights-trend-overview}
 
-# Performance Insights-Trendübersicht {#performance-insights-trend-overview}
+Trend zeigt die Kanalleistung von über einen Zeitraum hinweg an.
 
-Trend zeigt die Performance des Kanals über einen bestimmten Zeitraum hinweg an.
-
-Klicken Sie auf die Registerkarte **Trend**, um auf diese Ansicht zuzugreifen.
+Klicken Sie auf **Trend** -Tab, um auf diese Ansicht zuzugreifen.
 
 ![](assets/1.png)
 
@@ -23,34 +22,34 @@ Klicken Sie auf die Registerkarte **Trend**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der die Performance Ansicht werden soll. In diesem Beispiel werden wir uns die Chancen ansehen, die mit [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) gewonnen wurden.
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir uns die Chancen ansehen, die durch [Erstkontakt](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
-Metriken werden in zwei Diagrammen dargestellt: Donut und Linie.
+Metriken werden in zwei Diagrammen dargestellt: Schalenfrüchte und Leine.
 
 ![](assets/4-1.png)
 
-Das Diagramm mit der Donut zeigt die Top-10 Kanal für die ausgewählte Metrik an.
+Das Doppeldiagramm zeigt die Top-10-Kanäle für die ausgewählte Metrik an.
 
 ![](assets/5-2.png)
 
-Das Liniendiagramm zeigt den Leistungstrend des Kanals für die Metrik an, die Sie in den letzten 12 Monaten ausgewählt haben.
+Das Liniendiagramm zeigt den Kanal-Leistungstrend für die Metrik an, die Sie in den letzten 12 Monaten ausgewählt haben.
 
 ![](assets/6-1.png)
 
-Wählen Sie einen oder mehrere Kanal aus und das Liniendiagramm zeigt den Kanal-Trend an. Klicken Sie erneut auf die Kanal, um die Auswahl aufzuheben.
+Wählen Sie einen oder mehrere Kanäle aus. Das Liniendiagramm zeigt den Kanaltrend an. Klicken Sie erneut auf die Kanäle, um die Auswahl aufzuheben.
 
 ![](assets/7.png)
 
-Das Datenraster unten funktioniert wie eine Tabelle, in der alle verfügbaren Trenddaten für die Metrik angezeigt werden, die Sie in den letzten 12 Monaten ausgewählt haben.
+Das unten stehende Datenraster funktioniert wie eine Tabelle, die alle verfügbaren Trenddaten für die Metrik anzeigt, die Sie in den letzten 12 Monaten ausgewählt haben.
 
 ![](assets/8.png)
 
-Erweitern Sie einen Kanal, um die ersten zehn Programm zu sehen, wobei die restlichen Programm kombiniert werden.
+Erweitern Sie einen Kanal, um die zehn wichtigsten Programme zu sehen, wobei die restlichen Programme kombiniert werden.
 
 ![](assets/9-1.png)
 
 >[!NOTE]
 >
->Wenn Sie auf das Kontrollkästchen neben einem Kanal klicken, wird dieser im Ringdiagramm aktiviert/deaktiviert.
+>Wenn Sie auf das Kontrollkästchen neben einem Kanal klicken, wird dieser im Zweierdiagramm aktiviert/deaktiviert.

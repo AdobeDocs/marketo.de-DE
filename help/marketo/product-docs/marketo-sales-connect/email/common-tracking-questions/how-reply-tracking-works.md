@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352482
-description: Funktionsweise der Rückverfolgung von Antworten - Marketing Docs - Produktdokumentation
-title: Funktionsweise der Nachverfolgung von Antworten
-translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+description: Funktionsweise des Antworten-Trackings - Marketo-Dokumente - Produktdokumentation
+title: Funktionsweise des Antworten-Trackings
+exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
+# Funktionsweise des Antworten-Trackings {#how-reply-tracking-works}
 
-# Funktionsweise der Nachverfolgung von Antworten {#how-reply-tracking-works}
-
-Die Rückverfolgung der Antworten erfolgt durch Prüfen einer Nachrichten-ID, die in jeder E-Mail enthalten ist, die Sie senden. Jede E-Mail enthält eine eindeutige Nachrichten-ID, mit der wir einige der besten Antworten verfolgen können.
+Das Tracking der Antworten erfolgt durch Überprüfen einer Nachrichten-ID, die in jeder gesendeten E-Mail enthalten ist. Jede E-Mail enthält eine eindeutige Nachrichten-ID, mit der wir die beste Antwort-Tracking-Funktion nutzen können.
 
 >[!PREREQUISITES]
 >
->**Verbindung mit E-Mail-Server:** Sales Connect muss mit Ihrem Posteingang verbunden sein, damit wir wissen, wann eine neue Antwort eingetroffen ist. Sie benötigen Ihr Sales Connect-Konto [mit Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) verbunden. Wenn Sie Outlook verwenden, müssen wir mit Ihrem [Exchange-Server](https://toutapp.com/next#settings/exchange_settings) integrieren.
+>**Verbindung mit E-Mail-Server:** Sales Connect muss mit Ihrem Posteingang verbunden sein, damit wir wissen, wann eine neue Antwort eintrifft. Sie benötigen Ihr Sales Connect-Konto. [mit Gmail verbunden](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Wenn Sie Outlook verwenden, müssen wir in Ihre [Exchange Server](https://toutapp.com/next#settings/exchange_settings).
 
-Wenn Sales Connect die Antwort Ihres Potenzieller Kunden auf Ihre E-Mail nicht verfolgen kann, kann eine Kampagne nicht aufgrund der Antworterkennung oder der Anmeldung bei Salesforce beendet werden.  Was bedeuten wir, dass jede E-Mail-Adresse antworten kann?
+Wenn Sales Connect die Antwort Ihres Interessenten auf Ihre E-Mail nicht verfolgen kann, kann eine Kampagne nicht aufgrund der Antworterkennung angehalten oder die Antwort an Salesforce protokolliert werden.  Was bedeutet, dass jede E-Mail-Adresse antworten kann?
 
-Das bedeutet, dass wir die Antwort verfolgen können, wenn Sie flynn@flynnsarcade.com per E-Mail senden und er mit kevinf@flynnsarcade.com antwortet. Wenn Sie außerdem flynn@flynnsarcade.com und CC alan@encom.com per E-Mail senden und Alan Sie zurückschreibt, wird die Antwort auch erkannt und die Kampagne beendet.
+Wenn Sie also flynn@flynnsarcade.com per E-Mail senden und er mit kevinf@flynnsarcade.com antwortet, können wir die Antwort verfolgen. Wenn Sie außerdem eine E-Mail an flynn@flynnsarcade.com und CC alan@encom.com senden und Alan Sie zurückschreibt, wird auch die Antwort erkannt und die Kampagne beendet.

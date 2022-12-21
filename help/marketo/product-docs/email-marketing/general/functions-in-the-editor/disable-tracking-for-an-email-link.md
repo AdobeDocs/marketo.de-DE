@@ -1,52 +1,51 @@
 ---
 unique-page-id: 1900579
-description: Deaktivieren Sie die Verfolgung für einen E-Mail-Link - Marketing Docs - Produktdokumentation
-title: Deaktivieren der Verfolgung für einen E-Mail-Link
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Tracking für einen E-Mail-Link deaktivieren - Marketo-Dokumente - Produktdokumentation
+title: Tracking für einen E-Mail-Link deaktivieren
+exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
+# Tracking für einen E-Mail-Link deaktivieren {#disable-tracking-for-an-email-link}
 
-# Deaktivieren der Verfolgung für einen E-Mail-Link {#disable-tracking-for-an-email-link}
-
-Manchmal möchten Sie die **Marketing-Tracking-URL** für einen Link in einer E-Mail nicht aktivieren. Dies ist nützlich, wenn die Zielseite keine URL-Parameter unterstützt und zu einem fehlerhaften Link führen kann.
+Manchmal möchten Sie die **Marketo-Tracking-URL** auf einen Link in einer E-Mail klicken. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
 
 1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-7.png)
 
-1. Klicken Sie mit der Dublette auf den bearbeitbaren Abschnitt, der den Link enthält.
+1. Doppelklicken Sie auf den bearbeitbaren Abschnitt, der den Link enthält.
 
    ![](assets/two-6.png)
 
-1. Klicken Sie auf den betreffenden Link und dann auf die Schaltfläche **Link einfügen/bearbeiten**.
+1. Klicken Sie auf den entsprechenden Link und anschließend auf die Schaltfläche **Link einfügen/bearbeiten** Schaltfläche.
 
    ![](assets/three-6.png)
 
-1. Deaktivieren Sie im Popup Link bearbeiten das Kontrollkästchen **Link verfolgen**.
+1. Deaktivieren Sie im Popup Link bearbeiten die Option **Link verfolgen** aktivieren.
 
    ![](assets/four-4.png)
 
-1. Beachten Sie, dass das Feld **inklusive mkt_tok** verschwindet. Klicken Sie auf **Apply**.
+1. Sie werden die **mkt_tok-Feld einschließen** verschwindet. Klicken **Anwenden**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Wenn Sie nur **inklusive mkt_tok** deaktivieren, kann der Link weiterhin verfolgt werden. Nach der Umleitung enthält die Ziel-URL jedoch nicht den Zeichenfolgenparameter &quot;mkt_tok&quot;, sondern auch nicht den Abfragen-Zeichenfolgenparameter &quot;mkt_tok&quot;. Dieser Parameter wird von Marketo-Landingpages und Munchkin verwendet, um eine ordnungsgemäße Verfolgung der Aktivitäten von Personen sicherzustellen (z. B. wenn sich ein Benutzer von einer E-Mail abmeldet). Sie sollten diese Funktion nur verwenden, wenn Sie auf Ihrer Website aufgrund des vorhandenen Parameters ein merkwürdiges Verhalten sehen.
+   >Deaktivieren von **mkt_tok einschließen** lässt weiterhin zu, dass der Link verfolgt wird, aber nach einer Umleitung enthält die Ziel-URL nicht den Abfragezeichenfolgenparameter mkt_tok . Dieser Parameter wird von Marketo-Einstiegsseiten und Munchkin verwendet, um eine ordnungsgemäße Verfolgung der Personenaktivitäten sicherzustellen (z. B. wenn sich eine Person von einer E-Mail abmeldet). Sie sollten die Verwendung dieser Funktion vermeiden, es sei denn, Sie sehen auf Ihrer Website ein seltsames Verhalten aufgrund des vorhandenen Parameters.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
    >[!TIP]
    >
-   >Möchten Sie die Klick-Tracking für einen Link in einer E-Mail **template** deaktivieren? Verwenden Sie folgendes Format:
+   >Möchten Sie das Klick-Tracking für einen Link in einer E-Mail deaktivieren **template**? Verwenden Sie dieses Format:
    >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Wenn Sie Hilfe bei der Implementierung benötigen, wenden Sie sich bitte an Ihren Webentwickler.
+   >Wenden Sie sich an Ihren Web-Entwickler, wenn Sie Hilfe bei der Implementierung benötigen.
 
-Schön! Sie haben jetzt die Verfolgung für einen Link deaktiviert.
+Gut! Sie haben nun das Tracking für einen Link deaktiviert.

@@ -3,7 +3,8 @@ description: Einzelflussaktionen von der Seite "Personendetails"- Marketo-Dokume
 title: Einzelflussaktionen auf der Seite "Personendetails"
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Sie können nicht nur einzelne Fluss-Aktionen aus einer Smart-Liste ausführen, sondern auch direkt auf einer Seite mit Personendetails ausführen.
 
-1. Klicken Sie auf **Database**.
+1. Klicken **Datenbank**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,7 +23,7 @@ Sie können nicht nur einzelne Fluss-Aktionen aus einer Smart-Liste ausführen, 
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Klicken Sie auf die Dropdown-Liste **Personen-Aktionen** und wählen Sie den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [E-Mail senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Klicken Sie auf **Personenaktionen** und wählen Sie den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [E-Mail senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 

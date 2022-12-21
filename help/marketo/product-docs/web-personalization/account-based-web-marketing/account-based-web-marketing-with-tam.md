@@ -1,39 +1,38 @@
 ---
 unique-page-id: 11381689
-description: Kontobasiertes Web-Marketing mit TAM - Marketing Docs - Produktdokumentation
+description: Kontobasiertes Webmarketing mit TAM - Marketo Docs - Produktdokumentation
 title: Kontobasiertes Webmarketing mit TAM
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-
 # Kontobasiertes Webmarketing mit TAM {#account-based-web-marketing-with-TAM}
 
-Marketo Angebots a [Zielgruppe Account Management](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM) Anwendung.
+Marketo bietet eine [Verwaltung von Target-Konten](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM).
 
-Wenn Sie Marketing Web-Personalisierung und Zielgruppe Account Management (TAM) verwenden:
+Wenn Sie Marketo Web Personalization und Target Account Management (TAM) verwenden:
 
-* TAM ist die Quelle für Ihre Account-Listen
-* Kontoeinstellungen werden in TAM verwaltet (erstellt, bearbeitet und gelöscht)
-* Listen von Konten werden zur Verwendung in der Segmentierung mit der Web-Personalisierung synchronisiert. Wählen Sie sie aus der Dropdownliste
+* TAM ist die Quelle für Ihre Kontolisten
+* Kontolisten werden in TAM verwaltet (erstellt, bearbeitet und gelöscht).
+* Kontolisten werden mit Web-Personalisierung synchronisiert, um sie in der Segmentierung zu verwenden. Wählen Sie sie aus der Dropdown-Liste aus
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern
 
-* In der Web-Personalisierung können Sie [Segmente für Targeting-Konten aus der in TAM erstellten Account-Liste](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) erstellen und Inhalte für diese Konten personalisieren.
+* In der Web-Personalisierung können Sie [Segmente, die Konten aus der Kontoliste auswählen](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) Sie haben in TAM erstellt und den Inhalt für diese Konten personalisieren.
 
 ## Für bestehende ABWM-Kunden {#for-existing-abwm-customers}
 
 Wenn Sie ABWM bereits verwenden:
 
-* Sie können Listen in ABWM _und_ in TAM erstellen.
-* Sie können Kontoeinstellungen in TAM _und_ in ABWM erstellen, bearbeiten und löschen.
-* Listen von Konten (von ABWM und TAM) werden zur Web-Personalisierung für die Segmentierung synchronisiert.
+* Sie können in ABWM Kontolisten erstellen _und_ in TAM
+* Sie können Kontolisten in TAM erstellen, bearbeiten und löschen _und_ in ABWM
+* Kontolisten (sowohl von ABWM als auch von TAM) werden zur Verwendung in der Segmentierung mit Web-Personalisierung synchronisiert.
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern
 
-* Bei der Web-Personalisierung können Sie Segmente erstellen, die auf Konten abzielen, und zwar aus Listen, die in _sowohl in_ ABWM als auch in TAM erstellt wurden, und Inhalte für diese Konten personalisieren
-* Sie können CSV-Dateien auf der Seite &quot;Liste des Web-Personalisierungskontos&quot;hochladen
+* In der Web-Personalisierung können Sie Segmente erstellen, die auf Konten abzielen, die aus in _both_ ABWM und TAM und personalisierte Inhalte für diese Konten
+* Sie können CSV-Dateien auf die Seite mit der Liste der Web-Personalisierungskonten hochladen

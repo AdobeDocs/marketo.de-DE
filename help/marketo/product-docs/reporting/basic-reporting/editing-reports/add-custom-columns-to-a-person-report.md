@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2360201
-description: hinzufügen benutzerdefinierter Spalten für einen Personenbericht - Marketing Docs - Produktdokumentation
-title: hinzufügen benutzerdefinierter Spalten für einen Personenbericht
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Benutzerdefinierte Spalten zu einem Personenbericht hinzufügen - Marketo Docs - Produktdokumentation
+title: Benutzerdefinierte Spalten zu einem Personenbericht hinzufügen
+exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# Benutzerdefinierte Spalten zu einem Personenbericht hinzufügen {#add-custom-columns-to-a-person-report}
 
-# hinzufügen benutzerdefinierter Spalten für einen Personenbericht {#add-custom-columns-to-a-person-report}
+Sie können die Metriken in Ihren Personenberichten weiter filtern, indem Sie Ihre [Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als benutzerdefinierte Spalten.
 
-Sie können die Metriken in Ihren Personenberichten weiter filtern, indem Sie [intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als benutzerspezifische Spalten verwenden.
-
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
+1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie Ihren Bericht aus und klicken Sie auf die Registerkarte **Setup**.
+1. Wählen Sie Ihren Bericht aus und klicken Sie auf das **Einrichtung** Registerkarte.
 
    ![](assets/two-1.png)
 
-1. Ziehen Sie den Mauszeiger über **Benutzerdefinierte Spalten**.
+1. Verschieben **Benutzerdefinierte Spalten**.
 
    ![](assets/three-1.png)
 
-1. Wählen Sie die intelligenten Listen aus, die als Berichtsspalten verwendet werden sollen.
+1. Wählen Sie die als Berichtsspalten zu verwendenden Smart-Listen aus.
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. Du hast es getan! Klicken Sie auf die Registerkarte **Bericht**, um Ihren Bericht mit den neuen Spalten anzuzeigen.
+1. Du hast es getan! Klicken Sie auf **Bericht** um Ihren Bericht mit den neuen Spalten anzuzeigen.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >Sie können auch [Hinzufügen Gelegenheitsspalten zu einem Interessentenbericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >Sie können auch [Hinzufügen von Angebotsspalten zu einem Lead-Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).

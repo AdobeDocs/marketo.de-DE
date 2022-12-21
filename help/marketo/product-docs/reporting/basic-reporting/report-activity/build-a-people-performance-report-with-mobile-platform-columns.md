@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2951220
-description: Erstellen Sie einen Bericht zur Leistung von Personen mit Spalten der mobilen Plattform - Marketing-Dokumente - Produktdokumentation
-title: Erstellen eines Berichts zur Leistung von Personen mit Spalten der mobilen Plattform
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Erstellen eines Personenleistungsberichts mit Mobile Platform-Spalten - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines Personenleistungsberichts mit Mobile Platform-Spalten
+exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Erstellen eines Personenleistungsberichts mit Mobile Platform-Spalten {#build-a-people-performance-report-with-mobile-platform-columns}
 
-# Erstellen eines Berichts zur Leistung von Personen mit Spalten der mobilen Plattform {#build-a-people-performance-report-with-mobile-platform-columns}
+Führen Sie diese Schritte aus, um einen Bericht zur Leistung für Personen mit mobilen Plattformen (iOS/Android) zu erstellen.
 
-Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Spalten für Mobilplattformen (iOS/Android) zu erstellen.
+## Erstellen mobiler Smart-Listen {#create-mobile-smart-lists}
 
-## Mobile Smart-Listen erstellen {#create-mobile-smart-lists}
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie ein Programm.
+1. Wählen Sie ein Programm aus.
 
    ![](assets/two-1.png)
 
-1. Wählen Sie unter **Neu** **Neues lokales Element**.
+1. under **Neu** auswählen **Neues lokales Asset**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Intelligente Liste**.
+1. Klicken **Smart List**.
 
    ![](assets/four-1.png)
 
@@ -41,19 +40,19 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
 
    ![](assets/six-1.png)
 
-1. Setzen Sie E-Mail auf **ist beliebig**.
+1. E-Mail festlegen auf **ist**.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf **Hinzufügen Constraint** und wählen Sie **Plattform**.
+1. Klicken Sie auf **Beschränkung hinzufügen** und wählen Sie **Plattform**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >In diesem Beispiel haben wir den Filter Geöffnete E-Mail verwendet. Sie können auch den Filter &quot;Geklickte E-Mail&quot;verwenden, da er die Plattformbeschränkung hat.
+   >In diesem Beispiel haben wir den Filter Geöffnete E-Mail verwendet. Sie können auch den Filter &quot;Angeklickte E-Mail&quot;verwenden, da er die Platform-Beschränkung aufweist.
 
-1. Setzen Sie Platform auf **iOS**.
+1. Platform auf **iOS**.
 
    ![](assets/nine.png)
 
@@ -61,23 +60,23 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
    >
    >Mindestens eine Person muss eine Ihrer E-Mails auf einem iOS-Gerät geöffnet haben, damit Marketo sie automatisch finden kann. Wenn sie nicht angezeigt wird, können Sie sie manuell eingeben und speichern.
 
-   Erstellen Sie jetzt eine zweite intelligente Liste für die &quot;Android&quot;-Plattform. Sobald das fertig ist, fahren Sie mit dem nächsten Abschnitt fort.
+   Erstellen Sie nun eine zweite Smart-Liste für die &quot;Android&quot;-Plattform. Fahren Sie nach Abschluss des Vorgangs mit dem nächsten Abschnitt fort.
 
-## Erstellen eines Berichts zur Personenleistung {#create-a-people-performance-report}
+## Erstellen eines Personenleistungsberichts {#create-a-people-performance-report}
 
-1. Wählen Sie unter &quot;Marketing-Aktivitäten&quot;das Programm aus, in dem Ihre Smart-Listen **iOS** und **Android** enthalten sind.
+1. Wählen Sie unter Marketingaktivitäten das Programm aus, in dem Ihre **iOS** und **Android** Smart-Listen.
 
    ![](assets/ten.png)
 
-1. Wählen Sie unter **Neu** **Neues lokales Element**.
+1. under **Neu** auswählen **Neues lokales Asset**.
 
    ![](assets/eleven.png)
 
-1. Klicken Sie auf **Bericht**.
+1. Klicken **Bericht**.
 
    ![](assets/twelve.png)
 
-1. Legen Sie &quot;Typ&quot;auf **Personenleistung** fest.
+1. Typ einstellen auf **Personenleistung**.
 
    ![](assets/thirteen.png)
 
@@ -85,23 +84,23 @@ Führen Sie die folgenden Schritte aus, um einen Personenleistungsbericht mit Sp
 
    ![](assets/fourteen.png)
 
-   Du machst das großartig! Nun zum nächsten Abschnitt.
+   Es geht dir gut! Nun zum nächsten Abschnitt.
 
-## hinzufügen Mobile Smart-Listen als Spalten {#add-mobile-smart-lists-as-columns}
+## Mobile Smart-Listen als Spalten hinzufügen {#add-mobile-smart-lists-as-columns}
 
-1. Klicken Sie im soeben erstellten Bericht auf **Setup** und ziehen Sie **Benutzerdefinierte Spalten** in die Arbeitsfläche.
+1. Klicken Sie im soeben erstellten Bericht auf **Einrichtung**, dann ziehen **Benutzerdefinierte Spalten** in die Arbeitsfläche.
 
    ![](assets/fifteen.png)
 
    >[!NOTE]
    >
-   >Standardmäßig werden im Bericht &quot;Personenleistung&quot;die letzten 7 Tage angezeigt. Sie können den Zeitrahmen ändern, indem Sie die Dublette darauf klicken.
+   >Der Bericht &quot;Personen-Performance&quot;bezieht sich standardmäßig auf die letzten 7 Tage. Sie können den Zeitraum ändern, indem Sie darauf doppelklicken.
 
-1. Suchen Sie die zuvor erstellten intelligenten Listen und wählen Sie sie aus und klicken Sie auf **Apply**.
+1. Suchen und wählen Sie die zuvor erstellten Smart-Listen aus und klicken Sie auf **Anwenden**.
 
    ![](assets/sixteen.png)
 
-1. Klicken Sie auf **Bericht**, um den Bericht auszuführen und Ihre Daten anzuzeigen.
+1. Klicken **Bericht** um den Bericht auszuführen und Ihre Daten anzuzeigen.
 
    ![](assets/seventeen.png)
 

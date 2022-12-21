@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352435
-description: Aufrufe sind keine Anmeldung bei Salesforce - Marketing Docs - Produktdokumentation
-title: Aufrufe melden sich nicht bei Salesforce an
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Aufrufe werden nicht bei Salesforce protokolliert - Marketo Docs - Produktdokumentation
+title: Aufrufe werden nicht bei Salesforce protokolliert
+exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
+# Aufrufe werden nicht bei Salesforce protokolliert {#calls-arent-logging-to-salesforce}
 
-# Aufrufe der Anmeldung bei Salesforce {#calls-arent-logging-to-salesforce}
+Wenn Ihre Anrufe von Sales Phone automatisch bei Salesforce protokolliert werden sollen, stellen Sie sicher, dass Folgendes vorhanden ist.
 
-Wenn Sie möchten, dass Ihre Anrufe von Sales Phone automatisch bei Salesforce protokolliert werden, stellen Sie sicher, dass Folgendes vorhanden ist.
+Sie benötigen Ihr Sales Connect-Konto, um mit Ihrem [Salesforce-Konto](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) über die API-Verbindung.
 
-Sie müssen Ihr Sales Connect-Konto über die API-Verbindung mit Ihrem [Salesforce-Konto](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) verbinden.
-
-Wenn Sie von der [Webanwendung](https://toutapp.com/login) aus aufrufen, benötigen Sie eine Salesforce-ID, die für diesen Kontakt gespeichert wurde. [Klicken Sie ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) hier, um zu sehen, wie Sie sicherstellen können, dass allen Ihren Sales Connect-Kontakten eine Salesforce-ID zugeordnet ist.
+Wenn Sie über die [Webanwendung](https://toutapp.com/login)benötigen Sie eine Salesforce ID, die für diesen Kontakt gespeichert ist. [Hier klicken](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) um zu sehen, wie Sie sicherstellen können, dass allen Ihren Sales Connect-Kontakten eine Salesforce-ID zugeordnet ist.
 
 >[!NOTE]
 >
->Stellen Sie sicher, dass Sie &quot;Call&quot; in Ihrer Aufgabe-Typ-Auswahlliste für einen genauen und einfachen Berichte in Salesforce haben.
+>Stellen Sie sicher, dass Sie in Ihrer Aufgabenauswahl über eine &quot;Call&quot;-Liste verfügen, um präzise und einfache Berichte in Salesforce zu erstellen.
 
-Sobald dies eingerichtet ist, sehen Sie eine Aufgabe, die im Bereich &quot;Aktivität-Verlauf&quot;von Salesforce erstellt wurde.
+Sobald dies eingerichtet ist, wird eine Aufgabe angezeigt, die im Abschnitt &quot;Aktivitätsverlauf&quot;von Salesforce erstellt wurde.

@@ -1,41 +1,40 @@
 ---
 unique-page-id: 13795734
-description: Hierarchie erstellen - Marketing Docs - Produktdokumentation
-title: Hierarchie erstellen
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Erstellen einer Hierarchie - Marketo Docs - Produktdokumentation
+title: Erstellen einer Hierarchie
+exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
+# Erstellen einer Hierarchie {#create-a-hierarchy}
 
-# Hierarchie {#create-a-hierarchy} erstellen
+Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie die folgenden Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie diese Schritte aus, um eine Hierarchie manuell zu erstellen.
-
-1. Klicken Sie unter Benannte Konten auf das Kontrollkästchen **Gruppe nach Hierarchie**.
+1. Klicken Sie in &quot;Spezifische Konten&quot;auf die **Gruppe nach Hierarchie** aktivieren.
 
    ![](assets/create-a-hierarchy-1.png)
 
    >[!NOTE]
    >
-   >Nur Nicht-CRM-Konten können zum manuellen Erstellen einer Hierarchie verwendet werden. CRM-verknüpfte Konten müssen ihre Hierarchien im CRM erstellen.
+   >Nur Nicht-CRM-Konten können zum manuellen Erstellen einer Hierarchie verwendet werden. CRM-verknüpfte Konten müssen ihre Hierarchien im CRM-System erstellen lassen.
 
-1. Wählen Sie mit Strg+Klick (Windows) bzw. Cmd+Klick (Mac) alle Konten aus, die Sie in einer Hierarchie gruppieren möchten.
+1. Wählen Sie bei gedrückter Strg- (Windows) bzw. Befehlstaste (Mac) alle Konten aus, die Sie in einer Hierarchie gruppieren möchten.
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Klicken Sie auf die Dropdownliste **Benannte Kontoaktionen** und wählen Sie **Link zu benanntem Konto**.
+1. Klicken Sie auf **Spezifische Kontoaktionen** und wählen Sie **Link zum benannten Konto**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Wenn Sie die Verknüpfung von Konten aufheben möchten, führen Sie die obigen Schritte aus, wählen Sie jedoch **Verknüpfung von benanntem Konto aufheben**.
+   >Wenn Sie die Verknüpfung von Konten aufheben möchten, gehen Sie wie oben beschrieben vor, wählen Sie jedoch **Verknüpfung von benanntem Konto aufheben**.
 
-1. Wählen Sie ein übergeordnetes Konto aus der Dropdownliste und klicken Sie auf **Link**.
+1. Wählen Sie ein übergeordnetes benanntes Konto aus der Dropdown-Liste aus und klicken Sie auf **Link**.
 
    ![](assets/create-a-hierarchy-4.png)
 

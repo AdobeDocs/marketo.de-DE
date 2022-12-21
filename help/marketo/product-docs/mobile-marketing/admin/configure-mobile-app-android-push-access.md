@@ -1,39 +1,38 @@
 ---
 unique-page-id: 7512432
-description: Mobile App-Android-Push-Zugriff konfigurieren - Marketing Docs - Produktdokumentation
-title: Mobile App-Android-Push-Zugriff konfigurieren
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Mobile App Android Push Access - Marketo Docs - Produktdokumentation konfigurieren
+title: Konfigurieren des Push-Zugriffs für die mobile App Android
+exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# Konfigurieren des Push-Zugriffs für die mobile App Android {#configure-mobile-app-android-push-access}
 
-# Mobile App Android-Push-Zugriff konfigurieren {#configure-mobile-app-android-push-access}
-
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Wählen Sie **Mobile Apps**.
+1. Auswählen **Mobile Apps**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-1. Wählen Sie die gewünschte mobile App aus.
+1. Wählen Sie die gewünschte Mobile App aus.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Wählen Sie unter **Push Access Type** **Android** und klicken Sie auf **Configure.**
+1. under **Push-Zugriffstyp** auswählen **Android** und klicken Sie auf **Konfigurieren.**
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Sie benötigen einen **Server-API-Schlüssel** und **Projektnummer** von Ihrem Mobile-Apps-Entwickler. Der Entwickler erhält diese Informationen, indem er sich bei der Google Play Developer Console anmeldet, um Ihre App zu registrieren und Cloud Messaging zu aktivieren.
+   >Sie benötigen eine **Server-API-Schlüssel** und **Projektnummer** von Ihrem App-Entwickler aus. Der Entwickler erhält diese Informationen, indem er sich bei der Google Play Developer Console anmeldet, um Ihre App zu registrieren und Cloud Messaging zu aktivieren.
 
-1. Geben Sie Ihren Server-API-Schlüssel und Ihre Projektnummer ein. Klicken Sie auf **Speichern**.
+1. Geben Sie Ihren Server-API-Schlüssel und Ihre Projektnummer ein. Klicken **Speichern**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
@@ -41,4 +40,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Mobile App konfigurieren - Push-Zugriff auf iOS](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>[Konfigurieren des Push-Zugriffs auf die Mobile App iOS](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

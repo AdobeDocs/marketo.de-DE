@@ -1,54 +1,53 @@
 ---
 unique-page-id: 10093041
-description: Bearbeiten eines Smart-Liste-Abonnements - Marketing Docs - Produktdokumentation
-title: Bearbeiten eines Smart-Liste-Abonnements
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Bearbeiten eines Smart-List-Abonnements - Marketo-Dokumente - Produktdokumentation
+title: Abonnement einer Smart-Liste bearbeiten
+exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Abonnement einer Smart-Liste bearbeiten {#edit-a-smart-list-subscription}
 
-# Bearbeiten eines Smart-Liste-Abonnements {#edit-a-smart-list-subscription}
-
-Sie können diese Spalten direkt auf der Registerkarte &quot;Abonnement&quot;bearbeiten, die in den Marketing-Aktivitäten oder in der Datenbank angezeigt wird:
+Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, die in den Marketingaktivitäten oder in der Datenbank angezeigt wird:
 
 * Empfänger
 * Häufigkeit
 * Spalten
-* Versand beenden
+* Übermittlung beenden
 * Format
 
-1. Wählen Sie **Database** (Datenbank aus (wir verwenden sie in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
+1. Auswählen **Datenbank** (Wir verwenden es in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
 
    ![](assets/db-1.png)
 
-1. Wählen Sie das zu bearbeitende Abonnement aus.
+1. Wählen Sie das Abonnement aus, das Sie bearbeiten möchten.
 
    ![](assets/two.png)
 
-1. Klicken Sie in die Spalte &quot;Empfänger&quot;und öffnen Sie sie, damit Sie weitere E-Mail-Adressen eingeben können (trennen Sie diese durch ein Komma).
+1. Klicken Sie in die Spalte Empfänger . Daraufhin wird die Spalte geöffnet, in der Sie weitere E-Mail-Adressen eingeben können (diese werden durch ein Komma getrennt).
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Klicken Sie auf die Spalte **Häufigkeit**, um Ihre Einstellung auszuwählen oder zu ändern.
+1. Klicken Sie auf **Häufigkeit** -Spalte, um Ihre Einstellung auszuwählen oder zu ändern.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Öffnen Sie die Spalte **Spalten** und verwenden Sie die Auswahl, um dem Bericht Spalten hinzuzufügen oder daraus zu entfernen. Die Berichtspalten enthalten alle verfügbaren Spalten, und die Markierungsspalten zeigen nur die Spalten an, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicken Sie auf **Speichern**.
+1. Öffnen Sie die **Spalten** und verwenden Sie die Auswahl, um Spalten aus dem Bericht hinzuzufügen oder zu entfernen. Berichtsspalten enthalten alle verfügbaren Spalten und Marketo-Spalten zeigen nur die Spalten an, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicken **Speichern**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
    >[!NOTE]
    >
-   >Die Spalten unter &quot;Abonnement in Spalten&quot;sind die Berichtsspalten, nicht die in der Registerkarte &quot;Bericht&quot;.
+   >Die Spalten unter Marketo-Spalten sind die Berichtsspalten, nicht die im Tab Abonnementbericht verwendeten.
 
-1. Klicken Sie auf die Spalte **Enddatum**, um das Enddatum zu bearbeiten. Wählen Sie **Niemals** oder **Datum**. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicken Sie auf **Genehmigen**.
+1. Klicken Sie auf **Enddatum** zum Bearbeiten des Enddatums. Auswählen **Nie** oder **Datum**. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicken **Genehmigen**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. Das letzte Puzzleteil ist das Format. Klicken Sie auf die Spalte **Format** und wählen Sie das gewünschte Format aus. CSV ist die Standardeinstellung.
+1. Das letzte Teil des Puzzles ist das Format. Klicken Sie auf **Format** und wählen Sie die gewünschte Spalte aus. CSV ist die Standardeinstellung.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2359718
-description: hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage - Marketing Docs - Produktdokumentation
-title: hinzufügen einer Social-Schaltfläche in eine Freiform-Landingpage
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage
+exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage {#add-a-social-button-to-a-free-form-landing-page}
 
-# hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage {#add-a-social-button-to-a-free-form-landing-page}
-
-Über eine Social-Schaltfläche können Benutzer Ihre Inhalte mit Freunden teilen. Legen Sie es auf freien Landingpages, Facebook und Ihrer Website ab.
+Über eine Social-Schaltfläche können Benutzer Ihre Inhalte für ihre Freunde freigeben. Legen Sie sie auf freien Landingpages, Facebook und Ihrer Website ab.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Navigieren Sie zu Ihrer Freiform-Landingpage und klicken Sie auf **Entwurf bearbeiten**.
+1. Navigieren Sie zu Ihrer Landingpage ohne Konfiguration und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/scoring.jpg)
 
-1. Ziehen Sie über **Social-Schaltfläche** aus den Elementen auf der rechten Seite.
+1. Verschieben **Social-Schaltfläche** aus den Elementen auf der rechten Seite.
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Wählen Sie **Social-Schaltflächen (mit Analytics)**.
+1. Auswählen **Social-Schaltflächen (mit Analytics)**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Sobald Ihre Landingpage aktiv ist, sehen Sie sich die Aktivität an, die durch Ihre Schaltfläche &quot;Social&quot;(mit Analytics) im [Social-Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md) generiert wurde.
+   Sobald Ihre Landingpage aktiv ist, sehen Sie sich die von Ihrer Social-Schaltfläche (mit Analytics) generierte Aktivität auf der Seite [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
-   Wenn Sie stattdessen eine &quot;Gefällt mir&quot;-/Empfehlungsschaltfläche (Lite) hinzufügen, sehen Sie sich die Anzahl der &quot;Teilen&quot;-Klicks im Leistungsbericht [Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) an.
+   Wenn Sie stattdessen eine &quot;Gefällt mir&quot;-/&quot;Empfehlen&quot;-Schaltfläche (Lite) hinzufügen, sehen Sie sich die Anzahl der &quot;Teilen&quot;-Klicks im [Landingpage-Leistungsbericht](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Wählen Sie **Neu erstellen** aus dem Dropdown-Menü.
+1. Auswählen **Neu erstellen** aus dem Dropdown-Menü.
 
    >[!NOTE]
    >
-   >Sie können auch eine Social-Schaltfläche in einem Programm erstellen, indem Sie **Neu** > **Neues lokales Element** auswählen.
+   >Sie können auch innerhalb eines Programms eine Social-Schaltfläche erstellen, indem Sie **Neu** > **Neues lokales Asset**.
 
-1. Benennen Sie Ihre Social-Schaltfläche, wählen Sie **Keine** aus **Klonen von** und klicken Sie auf **Einfügen**.
+1. Benennen Sie Ihre Social-Schaltfläche, wählen Sie **Keines** von **Klonen von** und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einer vorhandenen Social-Schaltfläche kopieren.
+   >Um Zeit zu sparen, können Sie die **Klonen von** -Option, um alle Einstellungen von einer vorhandenen Social-Schaltfläche zu kopieren.
 
-   [Veröffentlichen der Landingpage auf ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [FacebookPlatzieren der Schaltfläche &quot;Social&quot;auf Ihrer Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Platzieren Sie die Social-Schaltfläche auf Ihrer Website.](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
-Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Social-Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu genehmigen.
+Herzlichen Glückwunsch!  Sie haben Ihrer Landingpage eine Social -Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu validieren.
 
 >[!MORELIKETHIS]
 >
->Sie sind fertig, aber Sie können die Einstellungen Ihrer Social-Schaltfläche bei Bedarf ändern. Beginn mit [Anpassen des Schaltflächenstils](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) oder [Bearbeiten der Freigabemeldungen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), die angezeigt werden.
+>Sie sind fertig, aber Sie können bei Bedarf die Einstellungen Ihrer Social-Schaltfläche ändern. Beginnen mit [Anpassen des Schaltflächenstils](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) oder  [Bearbeiten von Nachrichten freigeben](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) es zeigt.

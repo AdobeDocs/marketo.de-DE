@@ -1,28 +1,27 @@
 ---
 unique-page-id: 14352613
-description: hinzufügen Personen in Ihrer Kampagne - Marketing Docs - Produktdokumentation
-title: hinzufügen Personen zu Ihrer Kampagne
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Personen zu Ihrer Kampagne hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: Personen zu Ihrer Kampagne hinzufügen
+exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
+# Personen zu Ihrer Kampagne hinzufügen {#add-people-to-your-campaign}
 
-# hinzufügen Personen zu Ihrer Kampagne {#add-people-to-your-campaign}
+Es gibt mehrere Möglichkeiten, jemanden zu einer Kampagne hinzuzufügen.
 
-Es gibt mehrere Möglichkeiten, einer Kampagne jemanden hinzuzufügen.
+Wenn Sie die Kommunikation mit einem Interessenten oder Kunden beginnen, können Sie &quot;Zu Campaign hinzufügen&quot;von jeder Seite in unserer Webanwendung oder aus Salesforce verwenden.
 
-Wenn Sie die Kommunikation mit einem Potenzieller Kunden oder Kunden beginnen, können Sie Hinzufügen verwenden, um von jeder Seite in unserer Webanwendung oder von Salesforce aus Kampagne zu erhalten.
+Mit diesem Ablauf können Sie Ihre erste E-Mail in der Kampagne in der Vorschau anzeigen, bearbeiten und planen. Wenn Ihre Kampagne mit einer Aufgabe beginnt, werden diese Aufgaben in Ihrer Aufgabenliste in unserer Webanwendung und in Salesforce für Sie in die Warteschlange gestellt.
 
-Dieser Ablauf ermöglicht Ihnen die Vorschau, Bearbeitung und Planung Ihrer ersten E-Mail in der Kampagne, und wenn Ihre Kampagne Beginn mit einer Aufgabe, werden diese Aufgaben in Ihrer Aufgabe Liste in unserer Webanwendung und in Salesforce in die Warteschlange gestellt.
+Sie können dies über den Tab Kampagnen in unserer Webanwendung tun.
 
-Dies können Sie über die Registerkarte Kampagnen in unserer Webanwendung tun.
+Die Schaltfläche Zu Kampagne hinzufügen finden Sie auf den Seiten Unterhaltungen und Personen in unserer Webanwendung.
 
-Sie finden die Schaltfläche Hinzufügen zur Kampagne auf den Seiten Konversationen und Personen in unserer Webanwendung.
+Wenn Sie einen potenziellen Kunden oder Kunden aus Ihrem Gmail- oder Outlook-Posteingang verfolgen, können Sie ihn über Ihr Komprimierungsfenster zu einer Kampagne hinzufügen, wenn Sie mit ihnen weitermachen (wenn der erste Schritt in der Kampagne eine E-Mail ist).
 
-Wenn Sie mit einem Potenzieller Kunde oder Kunden aus Ihrem Posteingang von Gmail oder Outlook fortfahren, können Sie diese über Ihr Komprimierungsfenster zu einer Kampagne hinzufügen, wenn Sie mit ihnen fortfahren (wenn der erste Schritt in der Kampagne eine E-Mail ist).
-
-Antworten Sie einfach auf ihre E-Mail und wählen Sie eine Kampagne aus unserem Plugin.
+Antworten Sie einfach auf ihre E-Mail und wählen Sie eine Kampagne aus unserem Plugin aus.

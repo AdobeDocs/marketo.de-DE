@@ -1,65 +1,64 @@
 ---
 unique-page-id: 2360237
-description: Erzählen Sie die Marketing Story mit einem Einflussanalysator - Marketing Docs - Produktdokumentation
-title: Erzählen Sie die Marketing Story mit einem Einflussanalysator für Chancen
-translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+description: Erzählen Sie die Marketing Story mit einer Chance für Einflussanalyzer - Marketo Docs - Produktdokumentation
+title: Erzählen Sie die Marketing Story mit einem Opportunity Influenza Analyzer
+exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
 
 ---
 
+# Erzählen Sie die Marketing Story mit einem Opportunity Influenza Analyzer {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-# Erzählen Sie die Marketing Story mit einem möglichen Einflussanalysator {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
-
-Verwenden Sie einen Einflussanalysator für Chancen, um die Rolle des Marketing in wichtigen Gelegenheiten zu illustrieren. Zeigen Sie, wie Marketing eine Chance beeinflusste, von der ersten Berührung bis zur Schaffung von Chancen und gewinnen, und darüber hinaus.
+Verwenden Sie einen Opportunity Influence Analyzer , um die Rolle des Marketing bei wichtigen Gelegenheiten zu veranschaulichen. Zeigen Sie, wie das Marketing eine Chance beeinflusst hat, von der Erstkontakt- über die Opportunitätserstellung bis hin zum Gewinn und darüber hinaus.
 
 >[!PREREQUISITES]
 >
->[Erstellen eines Einflussanalysators](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Gehen Sie zu **Analytics** und wählen Sie **Opportunity Influence Analyzer**.
+1. Navigieren Sie zu **Analytics** und wählen Sie die **Opportunity Influenza Analyzer**.
 
    ![](assets/analytics-opportunityhand.png)
 
-   Der Opportunity Influence Analyzer ist eine visuelle Darstellung der Interaktionen und Programm- und Ereignis-Erfolge, die bei dieser Gelegenheit zu sehen sind. Lassen Sie uns das Diagramm untersuchen:
+   Der Opportunity Influence Analyzer ist eine visuelle Darstellung der Interaktionen und Programm- und Ereigniserfolge, die an dieser Gelegenheit beteiligt sind. Sehen wir uns das Diagramm an:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** dotsstellen interessante Momente in der Gelegenheit dar (E-Mails geöffnet, Messeauftritte, Whitepaper-Downloads usw.). Größere Punkte deuten auf mehr Interaktionen hin.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orangefarbene Punkte** Interessante Momente in der Gelegenheit darstellen (geöffnete E-Mails, Messestandbesuche, Whitepaper-Downloads usw.). Größere Punkte zeigen mehr Interaktionen an.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder** kennzeichnet Programm-Erfolge.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder-Symbole** geben die Programmerfolge an.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalendererfolge** kennzeichnen Ereignisse.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalendersymbole** geben Ereigniserfolge an.
 
-   * **Opportunity period**. Der Grüne Raum stellt die Chance selbst dar, von der Schaffung von Chancen bis zur Schließung von Chancen (gewonnen oder verloren).
+   * **Opportunity period**. Der grüne Bereich stellt die Chance selbst dar, von der Schaffung von Chancen bis zur Schließung von Chancen (gewonnen oder verloren).
 
-   * **Chancen Lebenszyklus**. Die Grauzonen vor und nach der grünen Opportunitätszeit zeigen die Interaktionen, die zu dieser Gelegenheit führten und darauf folgten.
+   * **Lebenszyklus der Chancen**. Die Grauzonen vor und nach der Gründungsperiode zeigen die Interaktionen, die zu dieser Gelegenheit führten und diese auch verfolgten.
 
-   Im Bedienfeld **Einstellungen** werden die Personen aus dem Konto Liste:
+   Die **Einstellungen** -Bedienfeld listet die Personen aus dem Konto auf:
 
-   * Die Zahl **in Klammern** ist die Anzahl der Interaktionen mit diesem Kontakt.
+   * Die **Zahl in Klammern** die Anzahl der Interaktionen mit diesem Kontakt.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Das  **gelbe** Sternchen zeigt den primären Kontakt an.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Die **Gelber Stern** gibt den Hauptkontakt an.
 
 
-1. Bewegen Sie den Mauszeiger über einen Namen, um die Berufsbezeichnung der betreffenden Person und die Quelle ihrer Beteiligung mit der Gelegenheit zu sehen.
+1. Bewegen Sie den Mauszeiger über einen Namen, um die Berufsbezeichnung dieser Person und die Quelle ihrer Beteiligung mit der Gelegenheit zu sehen.
 
    ![](assets/image2015-6-23-14-3a43-3a1.png)
 
-1. Aktivieren Sie das Kontrollkästchen, um die Interaktionen dieser Person in das Diagramm einzuschließen.
+1. Aktivieren Sie das Kontrollkästchen, um die Interaktionen dieser Person in das Diagramm aufzunehmen.
 
    ![](assets/image2015-6-23-14-3a43-3a35.png)
 
-   Das Diagramm passt sich automatisch an, um ihre Interaktionen in der Gelegenheit anzuzeigen. In diesem Beispiel sehen wir sofort, dass MegaCorp CEO Sarah Geller tief in die Gelegenheit eingebunden war, obwohl sie keine Rolle in der CRM für die Gelegenheit zugewiesen hatte.
+   Das Diagramm passt sich automatisch an, um ihre Interaktionen bei der Gelegenheit anzuzeigen. In diesem Beispiel sehen wir sofort, dass die CEO von MegaCorp, Sarah Geller, tief in die Chance eingebunden war, obwohl sie keine Rolle im CRM für die Gelegenheit zugewiesen hatte.
 
-1. Klicken Sie auf einen orangefarbenen Punkt, um Interaktionsdetails anzuzeigen.
+1. Klicken Sie auf einen orangefarbenen Punkt, um die Interaktionsdetails anzuzeigen.
 
    ![](assets/image2015-6-23-14-3a44-3a15.png)
 
-   In unserem Beispiel erfahren wir, dass CEO Sarah Geller die Website mehrmals besucht und sogar abonniert den Blog. Dies deutet darauf hin, dass MegaCorp sein Interesse an dieser Gelegenheit größtenteils von Marketing-Programmen und -Assets angetrieben wurde.
+   In unserem Beispiel erfahren wir, dass Geschäftsführer Sarah Geller die Website mehrmals besucht und sogar den Blog abonniert hat. Dies deutet darauf hin, dass das Interesse von MegaCorp an dieser Gelegenheit größtenteils durch Marketingprogramme und Assets bestimmt wurde.
 
-   Klicken Sie auf der Zeitschiene auf mehr orangefarbene Punkte, um die Geschichte der Ereignisse, Programms und interessanten Momente zu erzählen, die dazu beigetragen haben, die Gelegenheit zu schaffen und zu schließen.
+   Klicken Sie auf mehr orangefarbene Punkte entlang der Zeitleiste, um die Geschichte der Veranstaltungen, Programme und interessanten Momente zu erzählen, die dazu beigetragen haben, die Gelegenheit zu schaffen und zu schließen.
 
    >[!MORELIKETHIS]
    >
-   >[Einen Einflussanalysator für Chancen konfigurieren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[Konfigurieren von Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359532
-description: Dynamische Inhalte in einer Landingpage - Marketing Docs - Produktdokumentation
+description: Verwenden dynamischer Inhalte in einer Landingpage - Marketo-Dokumente - Produktdokumentation
 title: Dynamische Inhalte in einer Landingpage verwenden
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-
-# Dynamische Inhalte in einer Landingpage {#use-dynamic-content-in-a-landing-page} verwenden
+# Dynamische Inhalte in einer Landingpage verwenden {#use-dynamic-content-in-a-landing-page}
 
 >[!PREREQUISITES]
 >
->* [Eine Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Erstellen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [hinzufügen eines neuen Formulars in eine Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
-Die Verwendung von dynamischen Inhalten in Landingpages bindet Menschen mit gezielten Informationen.
+Die Verwendung von dynamischen Inhalten in Landingpages bindet Personen mit zielgerichteten Informationen an.
 
-## hinzufügen{#add-segmentation}
+## Segmentierung hinzufügen {#add-segmentation}
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,46 +39,46 @@ Die Verwendung von dynamischen Inhalten in Landingpages bindet Menschen mit gezi
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   Ihre Segmentierung und ihre Segmente werden rechts unter &quot;Dynamisch&quot;angezeigt.
+   Ihre Segmentierung und ihre Segmente werden rechts unter Dynamisch angezeigt.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >Alle Elemente der Landingpage sind standardmäßig statisch.
+   >Alle Landingpage-Elemente sind standardmäßig statisch.
 
 ## Element dynamisch machen {#make-element-dynamic}
 
-1. Ziehen Sie Elemente per Drag &amp; Drop von Static zu **Dynamic**.
+1. Ziehen und Ablegen von Elementen aus &quot;Statisch&quot;in **Dynamik**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Sie können Elemente auch über das Element **Einstellungen** als &quot;Statisch&quot;oder &quot;Dynamisch&quot;festlegen.
+1. Sie können die Elemente auch über das Element &quot;Statisch&quot;oder &quot;Dynamisch&quot;festlegen **Einstellungen**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Dynamische Inhalte anwenden {#apply-dynamic-content}
 
-1. Wählen Sie ein Element unter einem Segment aus und klicken Sie dann auf **Bearbeiten**. Wiederholen Sie diese Schritte für jedes Segment.
+1. Wählen Sie ein Element unter einem Segment aus und klicken Sie auf **Bearbeiten**. Wiederholen Sie diesen Vorgang für jedes Segment.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
-1. Ein grünes Häkchen zeigt segmentspezifischen Inhalt an. Ein leeres Feld zeigt den Standardsegmentinhalt an.
+1. Ein grünes Häkchen zeigt segmentspezifischen Inhalt an. Ein leeres Feld zeigt den Standardinhalt des Segments an.
 
    ![](assets/image2015-5-21-12-3a44-3a24.png)
 
    >[!CAUTION]
    >
-   >Änderungen am Standard-Segmentinhaltsblock werden auf alle Segmente angewendet.
+   >Änderungen am Standard-Inhaltsbaustein für Segmente werden auf alle Segmente angewendet.
 
    >[!TIP]
    >
    >Erstellen Sie eine Standard-Landingpage, bevor Sie den Inhalt für die verschiedenen Segmente ändern.
 
-Voila! Sie können jetzt zielgerichtete Inhalte senden.
+Voila! Jetzt können Sie zielgerichtete Inhalte senden.
 
 >[!MORELIKETHIS]
 >
->* [Vorschau einer Landingpage mit dynamischen Inhalten](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Dynamische Inhalte in einer E-Mail verwenden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [Vorschau einer Landingpage mit dynamischem Inhalt](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Verwenden dynamischer Inhalte in einer E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 

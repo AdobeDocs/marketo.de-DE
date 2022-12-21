@@ -1,49 +1,48 @@
 ---
 unique-page-id: 10100644
-description: Einrichten der In-App-Nachricht-Schaltfläche - Marketing Docs - Produktdokumentation
-title: Einrichten der Schaltfläche "In-App-Nachricht"
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Schaltfläche "In-App-Nachricht einrichten"- Marketo-Dokumente - Produktdokumentation
+title: Schaltfläche "In-App-Nachricht einrichten"
+exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
+# Schaltfläche &quot;In-App-Nachricht einrichten&quot; {#set-up-the-in-app-message-button}
 
-# Einrichten der In-App-Nachricht-Schaltfläche {#set-up-the-in-app-message-button}
+Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder Ihr eigenes benutzerdefiniertes Schaltflächenbild hochladen.
 
-Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder ein eigenes benutzerdefiniertes Schaltflächenbild hochladen.
-
-1. Klicken Sie auf die Schaltfläche, um die Registerkarte &quot;Stil&quot;zur Bearbeitung zu öffnen.
+1. Klicken Sie auf die Schaltfläche , um die Registerkarte Stil zur Bearbeitung zu öffnen.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche **Farbe**.
+1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche **Farbe** Schaltfläche.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. Klicken Sie auf das Farbauswahlquadrat und wählen Sie die Schaltflächenfarbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Nummern in der Farbauswahl eingeben.
+1. Klicken Sie auf das Farbauswahlquadrat und wählen Sie die Schaltflächenfarbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Zahlen in die Farbauswahl eingeben.
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
-1. Wählen Sie eine Form in der Dropdown-Liste aus. Die Standardformauswahl umfasst spitze Ecken, runde Ecken und Verläufe.
+1. Wählen Sie eine Form in der Dropdown-Liste aus. Die Standardformwahl umfasst scharfe Ecken, runde Ecken und Verläufe.
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Wenn Sie ein eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche &quot;Bild&quot;und dann auf **Bild auswählen**.
+1. Wenn Sie ein eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche Bild und dann auf **Bild auswählen**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Wählen Sie das Bild und klicken Sie auf **Wählen Sie**.
+1. Wählen Sie das Bild aus und klicken Sie auf **Auswählen**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Wenn Sie ein benutzerdefiniertes Bild für die Schaltfläche platzieren, sollten Sie den Platzhaltertext löschen, der darüber platziert wurde, wenn Ihr Bild bereits Text enthält.
+   >Wenn Sie ein benutzerdefiniertes Bild für die Schaltfläche platzieren, sollten Sie den Platzhaltertext löschen, der darüber platziert wird, wenn Ihr Bild bereits Text enthält.
 
-1. Klicken Sie auf das Farbauswahlquadrat und wählen Sie dann die Schriftfarbe aus, indem Sie darauf klicken oder in der Farbauswahl Hex- oder RGB-Nummern eingeben.
+1. Klicken Sie auf das Farbauswahlquadrat und wählen Sie dann die Schriftfarbe aus, indem Sie darauf klicken oder in der Farbauswahl Hexadezimalzahlen oder RGB eingeben.
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -51,7 +50,7 @@ Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder 
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Wählen Sie den Schriftstil für die Hervorhebung: **Fett**, _Kursiv_ oder Unterstrichen.
+1. Wählen Sie den Schriftstil für die Hervorhebung aus: **Fett**, _Kursiv_ oder Unterstrichen.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -59,22 +58,22 @@ Sie können den Standardentwurf für Schaltflächen verwenden, ihn ändern oder 
 
    ![](assets/image2016-5-6-16-3a46-3a17.png)
 
-1. Markieren Sie das Kästchen, um die Aktion zum Tippen auf die Schaltfläche festzulegen.
+1. Aktivieren Sie das Kontrollkästchen, um die Schaltfläche auf &quot;Aktion&quot;festzulegen.
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-1. Klicken Sie auf die Dropdown-Liste für jede Plattform und wählen Sie eine Tippen-Aktion aus.
+1. Klicken Sie auf das Dropdown-Menü für jede Plattform und wählen Sie eine Tipp-Aktion aus.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >Die Schaltfläche verfügt immer über eine Tippaktion. Daher wird das Kontrollkästchen &quot;Aktion tippen&quot;automatisch mit der Standardmeldung &quot;Nachricht schließen&quot;aktiviert.
+   >Die Schaltfläche verfügt immer über eine Tipp-Aktion. Daher wird das Kontrollkästchen Tippen-Aktion automatisch mit der Standardmeldung &quot;Nachricht schließen&quot;aktiviert.
 
-Fast da. Der letzte Schritt ist [Konfigurieren Sie den Hintergrund Ihrer In-App-Nachricht und die Schaltfläche zum Schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Fast da. Ihr letzter Schritt besteht darin, [Konfigurieren des Hintergrunds von In-App-Nachrichten und der Schaltfläche zum Beenden](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Informationen zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 

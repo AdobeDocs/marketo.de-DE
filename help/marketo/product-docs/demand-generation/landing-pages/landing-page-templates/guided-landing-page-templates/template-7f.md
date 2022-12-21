@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 7F {#template-7f}
 
-Klicken Sie mit der rechten Maustaste auf [Download-Vorlage 7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
+Rechtsklick auf [Vorlage 7F herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 

@@ -1,66 +1,65 @@
 ---
 unique-page-id: 7504180
-description: Verwenden Sie eine Marketing-Liste oder intelligente Liste als LinkedIn-Audience-Segment - Marketing-Dokumente - Produktdokumentation
-title: Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment - Marketo-Dokumente - Produktdokumentation
+title: Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment
+exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
+# Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
-# Verwenden einer Marketing-Liste oder einer Smart-Liste als LinkedIn-Audience-Segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
-
-Integrieren Sie Ihre Marketing-Mitarbeiter in Ihre LinkedIn-Audiencen.
+Integrieren Sie Ihre Marketo-Mitarbeiter in Ihre LinkedIn-Zielgruppen.
 
 >[!PREREQUISITES]
 >
->[hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Gehen Sie zur Datenbank ****.
+1. Navigieren Sie zu **Datenbank**.
 
    ![](assets/db.png)
 
-1. Wählen Sie eine intelligente Liste aus.
+1. Wählen Sie eine Smart-Liste aus.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Registerkarte **Personen**.
+1. Klicken Sie auf **Personen** Registerkarte.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie unten in der Liste auf das Symbol **Über Anzeigenbrücke senden** ![—](assets/image2015-4-20-18-3a18-3a41.png).
+1. Klicken Sie auf **Über Ad Bridge senden** icon ![—](assets/image2015-4-20-18-3a18-3a41.png) am Ende der Liste.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Wenn Sie mit Ad-Netzwerk-Integrationen eine Audience an LinkedIn senden, sendet Marketo nur die E-Mail-Adresse.
+   >Bei der Verwendung von Ad-Network-Integrationen zum Senden einer Zielgruppe an LinkedIn sendet Marketo nur die E-Mail-Adresse über.
 
-1. Wählen Sie **LinkedIn** und klicken Sie auf **Weiter**.
+1. Auswählen **linkedIn** und klicken Sie auf **Nächste**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Wählen Sie eine **LinkedIn-Audience**.
+1. Wählen Sie eine **linkedIn Audience**.
 
    >[!NOTE]
    >
-   >Durch Klicken auf **+Neue Audience** wird eine Audience im LinkedIn Kampagne Manager erstellt.
+   >Klicken **+Neue Zielgruppe** erstellt eine Audience in LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
    >[!NOTE]
    >
-   >LinkedIn hat die für den Push-Typ &quot;Audience löschen und Interessenten hinzufügen&quot;verwendeten APIs im März 2018 eingestellt. Diese Option ist ab Marketos Version vom 1. Quartal 2018 nicht mehr verfügbar.
+   >linkedIn hat die für den Push-Typ &quot;Zielgruppe löschen und Leads hinzufügen&quot;verwendeten APIs im März 2018 eingestellt. Diese Option ist ab Marketo-Version 1. Quartal 2018 nicht mehr verfügbar.
 
-1. Wählen Sie einen **Push-Typ**. Klicken Sie auf **Aktualisieren**.
+1. Wählen Sie eine **Push-Typ**. Klicken **Aktualisieren**.
 
    ![](assets/7.png)
 
    >[!NOTE]
    >
-   >Die Synchronisierung dauert etwa 15 Minuten.
+   >Bitte warten Sie 15 Minuten, bis die Synchronisation stattfindet.
 
-Hoch fünf! Ihre Daten werden nun mit den Audiencen von LinkedIn abgeglichen. Weitere Informationen zum Hochladen von Listen zu LinkedIn für Konto- und Kontaktanbieter-Targeting finden Sie im Hilfeszentrum [LinkedIn für Marketing-Lösungen](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
+Hoch fünf! Ihre Daten werden jetzt mit den Zielgruppen von LinkedIn abgeglichen. Informationen zum Hochladen von Listen in LinkedIn für das Konto- und Kontaktseitenziel finden Sie unter [linkedIn Marketing Solutions-Hilfesystem](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).

@@ -60,7 +60,7 @@ Wenn Sie mehrere Abonnements haben, können Sie über mehrere Community-Profile 
 
 ## Mobile Platform {#mobile-platform}
 
-Benutzer mit einer universellen ID können ihre Daten zu Marketo Moments und der iPad-Ereignisabmeldeanwendung aus dem Abonnement sehen, bei dem sie sich zuletzt angemeldet haben. An der Mobile-Plattform selbst können Sie keine Abonnements ändern.
+Benutzer mit einer universellen ID können ihre Daten zu Marketo Moments und der iPad-Ereignisanmeldeanwendung aus dem Abonnement sehen, bei dem sie sich zuletzt angemeldet haben. An der Mobile-Plattform selbst können Sie keine Abonnements ändern.
 
 >[!MORELIKETHIS]
 >

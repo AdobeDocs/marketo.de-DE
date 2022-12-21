@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2360181
-description: Verfolgung anonymer Aktivitäten und Personen - Marketing Docs - Produktdokumentation
-title: Verfolgung anonymer Aktivitäten und Personen
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Tracking von anonymen Aktivitäten und Personen - Marketo-Dokumente - Produktdokumentation
+title: Tracking anonymer Aktivitäten und Personen
+exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
+# Tracking anonymer Aktivitäten und Personen {#tracking-anonymous-activity-and-people}
 
-# Verfolgung anonymer Aktivitäten und Personen {#tracking-anonymous-activity-and-people}
+Erstmaliger Besuch eines Marketo [Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (oder auf einer Seite Ihrer Website, auf der die Variable [Munchkin-Trackingcode](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), erstellt Marketo eine _anonyme Aktivität_ und verwendet ein Browser-Cookie, um es zu verfolgen. Sobald der Besucher identifiziert wurde, wird er zu einer Person und der mit dem Browser-Cookie verknüpfte Verlauf wird zusammengeführt.
 
-Wenn jemand zum ersten Mal eine Marketo [Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (oder eine Seite auf Ihrer Website mit dem [Munchkin-Trackingcode](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)) besucht, erstellt Marketo eine _anonyme Aktivität_ und verwendet zur Verfolgung ein Browsercookie. Sobald der Besucher identifiziert wurde, wird er zu einer Person und der mit dem Browser-Cookie verknüpfte Verlauf wird zusammengeführt.
+1. Eine anonyme Aktivität wird erstellt, wenn ein Benutzer:
 
-1. Eine anonyme Aktivität wird erstellt, wenn jemand:
-
-   * Besucht zum ersten Mal Ihre Marke [Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md).
-   * Besucht eine Seite auf Ihrer Site, die über [Munchkin-Verfolgung](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) verfügt.
-   * Klicken Sie auf den Link [Ansicht als Webseite](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) in einer Marketing-E-Mail.
+   * Besuchen Sie Ihre Marketo [Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) das erste Mal.
+   * Besucht eine Seite Ihrer Site, die [Munchkin-Tracking](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+   * Klicks auf die [Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) in einer Marketo-E-Mail.
 
    >[!NOTE]
    >
-   >Im Gegensatz zu anderen Links in Marketing-E-Mails wird die Ansicht als Webseite nicht als E-Mail-Klick verfolgt.
+   >Im Gegensatz zu anderen Links in Marketo-E-Mails wird &quot;Als Webseite anzeigen&quot;nicht als E-Mail-Klick verfolgt.
 
    Eine anonyme Aktivität wird zu einer neuen oder vorhandenen Person zusammengeführt, wenn eine Person:
 
-   * Klicken Sie auf einen [Link in einer Marketing-E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Füllt ein Marketo [form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) aus.
-   * Verwendet die [REST-API](https://developers.marketo.com/rest-api/lead-database/leads/) oder die [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)-API (für Entwickler) von Marketo, um eine anonyme Aktivität mit einem bekannten Datensatz zu verknüpfen.
+   * Klicks a [Link in einer Marketo-E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
+   * Ausfüllen eines Marketo [Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
+   * Verwendet Marketo [REST-API](https://developers.marketo.com/rest-api/lead-database/leads/) oder [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (für Entwickler) zum Verknüpfen einer anonymen Aktivität mit einem bekannten Datensatz.
 
-   Ein Name in der Datenbank kann mit vielen Cookies verknüpft sein, da Benutzer Ihre Site oft mit verschiedenen Geräten und Browsern besuchen.
+   Ein Name in der Datenbank kann mit vielen Cookies verknüpft sein, da Benutzer oft verschiedene Geräte und Browser verwenden, um Ihre Site zu besuchen.
 
    >[!NOTE]
    >
-   >Wenn anonyme Datensätze in einen neuen oder vorhandenen Personensatz zusammengeführt werden, werden benutzerdefinierte Feldwerte **nicht** übertragen.
+   >Wenn anonyme Datensätze zu einem neuen oder vorhandenen Personendatensatz zusammengeführt werden, werden benutzerdefinierte Feldwerte **not** Übertragung.
 
    >[!MORELIKETHIS]
    >

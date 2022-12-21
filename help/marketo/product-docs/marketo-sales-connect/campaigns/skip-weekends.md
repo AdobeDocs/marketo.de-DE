@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14352622
-description: Wochenenden überspringen - Marketing Docs - Produktdokumentation
+description: Wochenenden überspringen - Marketo-Dokumente - Produktdokumentation
 title: Wochenenden überspringen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Wochenenden überspringen {#skip-weekends}
 
-Beim Automatisieren einer Kampagne möchten Sie wahrscheinlich nicht, dass Ihre E-Mails am Samstag oder Sonntag ausgehen. Andernfalls haben Sie die Möglichkeit, Wochenenden zu überspringen.
+Bei der Automatisierung einer Kampagne möchten Sie wahrscheinlich nicht, dass Ihre E-Mails an einem Samstag oder Sonntag gesendet werden. Wenn nicht, können Sie die Wochenenden überspringen.
 
-1. Klicken Sie in Sales Connect auf die Registerkarte **Kampagnen**.
+1. Klicken Sie in Sales Connect auf die **Kampagnen** Registerkarte.
 
    ![](assets/one-2.png)
 
-1. Wählen Sie Ihre Kampagne aus.
+1. Suchen und wählen Sie Ihre Kampagne aus.
 
    ![](assets/two-2.png)
 
-1. Klicken Sie auf **Einstellungen**.
+1. Klicken **Einstellungen**.
 
    ![](assets/three-2.png)
 
-1. Aktivieren Sie das Kontrollkästchen **Wochenenden überspringen**.
+1. Wählen Sie die **Wochenenden überspringen** aktivieren.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Ohne Wochenenden überspringen zu müssen, werden Ihre E-Mails auf der Grundlage einer normalen Woche mit 7 Tagen geplant.
+   >Ohne Wochenenden überspringen zu müssen, werden Ihre E-Mails nach einer regulären 7-Tage-Woche geplant.

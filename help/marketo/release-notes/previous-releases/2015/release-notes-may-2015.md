@@ -34,11 +34,11 @@ Marketo führt jetzt wöchentliche automatisierte SPF- und DKIM-Prüfungen für 
 
 ## Verhaltensänderung E-Mail-Vorlage {#email-template-behavior-change}
 
-Ab dieser Version sind gültige HTML-Kommentare beim Erstellen neuer E-Mails nun zulässig und nicht entfernt.
+Ab dieser Version sind gültige HTML-Kommentare beim Erstellen neuer E-Mails nun zulässig und werden nicht mehr entfernt.
 
 ## RTP: Drag-and-drop-Segment-Editor {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Segment-Editor](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) per Drag-and-Drop verschieben
+RTP: [Ziehen und Ablegen des Segmenteditors](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Ziehen Sie Ihre Kriterien per Drag-and-Drop in den Segment Builder, definieren Sie den Wert und Sie sind auf dem besten Weg, ein Echtzeit-Segment zu erstellen.
 

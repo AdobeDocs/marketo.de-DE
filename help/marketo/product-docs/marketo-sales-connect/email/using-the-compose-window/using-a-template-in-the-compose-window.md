@@ -1,17 +1,16 @@
 ---
 unique-page-id: 37356593
-description: Verwenden einer Vorlage im Fenster "Erstellen"- Marketing-Dokumente - Produktdokumentation
+description: Verwenden einer Vorlage im Fenster "Erstellen"- Marketo-Dokumente - Produktdokumentation
 title: Verwenden einer Vorlage im Fenster "Erstellen"
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
-# Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;{#using-a-template-in-the-compose-window}
+# Verwenden einer Vorlage im Fenster &quot;Erstellen&quot; {#using-a-template-in-the-compose-window}
 
 ## Suchen und Verwenden von Vorlagen {#finding-and-using-templates}
 
@@ -19,54 +18,54 @@ ht-degree: 0%
 
    ![](assets/one-6.png)
 
-1. Füllen Sie das Feld &quot;An&quot;.
+1. Füllen Sie das Feld An aus.
 
    ![](assets/searching-two.png)
 
-1. Klicken Sie auf das Suchsymbol im Vorlagenbereich, um das Suchfeld für die Vorlage zu öffnen.
+1. Klicken Sie auf das Suchsymbol im Vorlagenbereich, um das Vorlagensuchfeld zu öffnen.
 
    ![](assets/searching-three.png)
 
-1. Wählen Sie eine Kategorie aus, in der Sie suchen möchten (oder wählen Sie Alle, um alle Kategorien zu durchsuchen).
+1. Wählen Sie eine Kategorie aus, in der gesucht werden soll (oder wählen Sie Alle aus, um alle Kategorien zu durchsuchen).
 
    ![](assets/searching-four.png)
 
-1. Suchen Sie nach dem Vorlagennamen, der Betreffzeile oder dem Text der E-Mail. Klicken Sie auf die gewünschte Vorlage, um sie auszuwählen.
+1. Suche nach Vorlagenname, Betreffzeile oder Hauptteil der E-Mail. Klicken Sie auf die gewünschte Vorlage, um sie auszuwählen.
 
    ![](assets/searching-five.png)
 
    >[!NOTE]
    >
-   >Durch Auswahl einer anderen Vorlage werden alle derzeit im Editor befindlichen Informationen ersetzt. Wenn Sie Änderungen vornehmen, müssen Sie diese unbedingt kopieren, bevor Sie eine andere Vorlage auswählen.
+   >Wenn Sie eine andere Vorlage auswählen, werden alle derzeit im Editor vorhandenen Informationen ersetzt. Wenn Sie Änderungen vornehmen, müssen Sie diese unbedingt kopieren, bevor Sie eine andere Vorlage auswählen.
 
-## Kategorien zum Erstellen von Vorlagen im Fenster {#pinning-template-categories-in-the-compose-window}
+## Veröffentlichen von Vorlagenkategorien im Fenster &quot;Erstellen&quot; {#pinning-template-categories-in-the-compose-window}
 
-Favoriten Sie **bis zu fünf** spezifische Vorlagenvorlagen, um schnell auf Ihre am häufigsten verwendeten Kategorien zugreifen zu können.
+Favorit **bis zu fünf** spezifische Vorlagenkategorien , um schnell auf Ihre am häufigsten verwendeten Vorlagen zugreifen zu können.
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
    ![](assets/one-6.png)
 
-1. Klicken Sie auf das Symbol **+** neben Favoriten.
+1. Klicken Sie auf **+** neben Favoriten.
 
    ![](assets/pinning-two.png)
 
-1. Klicken Sie auf die Dropdownliste **Kategorie** veröffentlichen und wählen Sie die gewünschte Kategorie aus.
+1. Klicken Sie auf **Kategorie veröffentlichen** und wählen Sie die gewünschte Kategorie aus.
 
    ![](assets/pinning-three.png)
 
-1. Klicken Sie auf **Änderungen speichern**, wenn Sie fertig sind (optional): Schritt 3 wiederholen, um weitere hinzuzufügen).
+1. Klicken **Änderungen speichern** when done (optional): Schritt 3 wiederholen, um weitere hinzuzufügen).
 
    ![](assets/pinning-four.png)
 
    >[!TIP]
    >
-   >Sie können Ihre fixierten Kategorien neu anordnen, indem Sie sie einfach per Drag &amp; Drop verschieben, bevor Sie die Änderungen speichern.
+   >Sie können die eingefügten Kategorien einfach durch Ziehen und Ablegen neu anordnen, bevor Sie Ihre Änderungen speichern.
 
    ![](assets/pinning-five.png)
 
    >[!NOTE]
    >
-   >**** Favoriten sind dort standardmäßig vorhanden. Es enthält bevorzugte E-Mail-Vorlagen, keine Kategorien.
+   >**Favoriten** ist standardmäßig vorhanden. Sie enthält bevorzugte E-Mail-Vorlagen, keine Kategorien.
 
-   Die ausgewählte Kategorie wird jetzt fixiert.
+   Ihre ausgewählte Kategorie ist jetzt fixiert.

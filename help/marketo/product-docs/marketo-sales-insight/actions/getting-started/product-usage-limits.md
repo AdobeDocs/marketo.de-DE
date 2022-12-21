@@ -1,7 +1,8 @@
 ---
 description: Verwendungsgrenzen für Produkte - Marketo-Dokumente - Produktdokumentation
 title: Einschränkungen bei der Produktnutzung
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 23%

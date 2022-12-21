@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 17E {#template-17e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html) herunterladen
+Rechtsklick auf [Download-Vorlage 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 

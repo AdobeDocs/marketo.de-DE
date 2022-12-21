@@ -132,7 +132,7 @@ Archivieren Sie Vorlagen, um Ihre Verkaufsinhalte organisiert und fokussiert zu 
 >
 >Nach der Archivierung kann eine Vorlage nicht mehr bearbeitet oder verwendet werden. Um sie erneut zu verwenden, verschieben Sie die Vorlage aus dem Archiv in eine andere Kategorie.
 
-Sie können auch den Filter Nicht verwendet auswählen, um Vorlagen anzuzeigen und zu archivieren, die seit mehr als 90 Tagen nicht mehr verwendet wurden.
+Sie können auch den Filter Nicht verwendet auswählen, um Vorlagen anzuzeigen und zu archivieren, die seit über 90 Tagen nicht mehr verwendet wurden.
 
 ## Eine Vorlage löschen {#delete-a-template}
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 557082
-description: Berichte - Marketing Docs - Produktdokumentation
-title: Berichte
-translation-type: tm+mt
+description: Reporting - Marketo-Dokumente - Produktdokumentation
+title: Berichterstellung
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
-# Berichte {#reporting}
+# Berichterstellung {#reporting}
 
-Umsetzbare Einblicke. Das bekommen Sie mit Marketo Berichte. Sie können sie sogar direkt an Ihren Posteingang senden lassen.
-** ![Grundlegender Berichte](assets/documents-bookmarks-17.png)Grundlegender Berichte** [Grundlegender Berichte Erste Schritte mit den Grundlagen. E-Mail-, Web- und Personenberichte, oh mein!](https://docs.marketo.com/display/DOCS/Basic+Reporting)     **  ![Umsatzwyklus ](assets/seo-08.png)AnalyticsUmsatzwyklus Analytics**  [Umsatzwyklus Analytics - Hardcore mit Zeitreihen-Datenanalyse.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     **  ![Performance ](assets/mpi-for-docs-2x.png)InsightsPerformance Insights**  [Performance Insights Ansicht aller Ihrer Kampagne Performance KPIs an einem Ort.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     **  ![Email ](assets/email-insights.png)InsightsEmail Insights***  [Email Insights Erfahren Sie mit Ihren historischen Daten, welche Einblicke Sie gewinnen.](https://docs.marketo.com/display/DOCS/Email+Insights)
+Umsetzbare Einblicke. Das ist es, was Sie mit Marketo-Berichten bekommen. Sie können sie sogar direkt in Ihren Posteingang schicken lassen.
+** ![Grundlegende Berichterstellung](assets/documents-bookmarks-17.png)Grundlegende Berichterstellung* [Grundlegende Berichterstellung - Erste Schritte mit den Grundlagen. E-Mail-, Web- und Personenberichte, oh meine!](https://docs.marketo.com/display/DOCS/Basic+Reporting)     ** ![Umsatzzyklusanalysen](assets/seo-08.png)Umsatzzyklus-Analyse** [Umsatzzyklusanalysen Gehen Sie mit Zeitreihen-Datenanalysen zu Hardcore.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     ** ![Performance Insights](assets/mpi-for-docs-2x.png)Performance Insights** [Performance Insights Alle Kampagnenleistung-KPIs an einem Ort anzeigen.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     ** ![Email Insights](assets/email-insights.png)Email Insights** [E-Mail-Einblicke Erkunden Sie leistungsstarke Einblicke mithilfe Ihrer historischen Daten.](https://docs.marketo.com/display/DOCS/Email+Insights)

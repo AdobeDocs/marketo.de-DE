@@ -1,31 +1,30 @@
 ---
 unique-page-id: 4719402
-description: Neue Widget-Web-Kampagne erstellen - Marketing-Dokumente - Produktdokumentation
-title: Neue Widget-Web-Kampagne erstellen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Erstellen einer neuen Widget-Webkampagne - Marketo-Dokumente - Produktdokumentation
+title: Erstellen einer neuen Widget-Webkampagne
+exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '632'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Erstellen einer neuen Widget-Webkampagne {#create-a-new-widget-web-campaign}
 
-# Neue Widget-Web-Kampagne {#create-a-new-widget-web-campaign} erstellen
+Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist, und kann eine [Dialogfeld](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) auf Ihrer Website ein [in Bereichsersetzung](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), einer Widget-Funktion oder einem E-Mail-Warnhinweis. Die Widget-Web-Kampagne ist ein Text oder Banner, der auf der vertikalen Seite Ihrer Web-Seite angezeigt wird und erweitert und kontraktiert werden kann, während er während des Besuchs auf der Website-Seite fixiert bleibt.
 
-Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Dabei kann es sich um ein [Dialogfeld](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) auf Ihrer Website, ein [In-Zone-Ersatz](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), eine Widget-Funktion oder eine E-Mail-Warnung handeln. Die Widget-Web-Kampagne ist ein Text oder Banner, der auf der vertikalen Seite Ihrer Webseite angezeigt wird und erweitert und verkleinert werden kann, während er während des Besuchs auf der Webseite unverändert bleibt.
+## Erstellen einer Widget-Webkampagne {#create-a-widget-web-campaign}
 
-## Widget-Web-Kampagne {#create-a-widget-web-campaign} erstellen
-
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Navigieren Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Wählen Sie **Neue Web-Kampagne erstellen**.
+1. Auswählen **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Wählen Sie die Kampagne **Widget**.
+1. Wählen Sie die **Widget** Kampagnentyp.
 
    ![](assets/3.png)
 
@@ -33,7 +32,7 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
 
    ![](assets/4.png)
 
-1. Klicken Sie auf **Vorschau**, um zu sehen, wie die Web-Kampagne auf Ihrer Site reagiert.
+1. Klicken **Vorschau** um zu sehen, wie die Web-Kampagne auf Ihrer Site reagieren wird.
 
    ![](assets/preview.png)
 
@@ -50,44 +49,44 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
    <td colspan="1">Wählen Sie aus einer von mehreren vordefinierten Vorlagen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Anzeigen auf</strong></td> 
-   <td colspan="1">Ermöglicht Ihnen, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">anzupassen, wann und wie</a> Ihre Web-Kampagne angezeigt wird.</td> 
+   <td colspan="1"><strong>Anzeige auf</strong></td> 
+   <td colspan="1">Ermöglicht Ihnen Folgendes: <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">Anpassen, wann und wie</a> Ihre Webkampagne angezeigt.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>In/Out animieren</strong></td> 
-   <td colspan="1">Wird beim Ein- und/oder Ausstieg des Dialogfelds eingestellt. Wählen Sie Effekt (Tropfen, Blind, Folie, Überblenden, kein Effekt), Dauer (in Sekunden) und Richtung (nach oben, nach unten, nach links, rechts).</td> 
+   <td colspan="1"><strong>Ein-/Ausblenden von Animationen</strong></td> 
+   <td colspan="1">Wird beim Ein- und/oder Ausstieg des Dialogfelds eingestellt. Wählen Sie den Effekt (Dropdown, blind, Folie, Überblendung, kein Effekt), die Dauer (in Sekunden) und die Richtung (oben, unten, links, rechts) aus.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Position</strong></td> 
-   <td colspan="1">Wählen Sie eine der vier Optionen für die Position des Widgets auf der Seite aus: Rechts, Links, Oben, Unten. Position % ist der Prozentsatz der Positionierung, in dem das Widget auf der Browserseite angezeigt wird (z. B. "50 % unten" bewirkt, dass das Widget auf halber Strecke unten auf der Seite angezeigt wird, "10 % links" bewirkt, dass das Widget in der Nähe der oberen linken Seite angezeigt wird usw.).<br></td> 
+   <td colspan="1">Wählen Sie eine der vier Optionen für die Position des Widgets auf der Seite aus: Rechts, Links, Oben, Unten. Position % ist der Prozentsatz der Positionierung in Bezug auf die Position, an der das Widget auf der Browser-Seite erscheint (z. B. führt "50 % unten"dazu, dass das Widget halb unten auf der Seite erscheint, "10 % links"dazu, dass das Widget oben links auf der Seite angezeigt wird usw.).<br></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Widget-Farbe</strong></td> 
-   <td colspan="1" rowspan="1"><p>Wählen Sie die Widget-Farbe aus einem Farbdiagramm oder geben Sie sie als RGB-Farbcode ein. Sie können auch die Transparenzstufe des Widget-Hintergrunds auswählen, indem Sie die Leiste unten in beide Richtungen verschieben.</p></td> 
+   <td colspan="1" rowspan="1"><p>Wählen Sie die Widget-Farbe aus einem Farbdiagramm aus oder geben Sie sie als RGB-Farbcode ein. Sie können auch die Transparenzstufe des Widget-Hintergrunds auswählen, indem Sie den Balken auf der Unterseite in beide Richtungen verschieben.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Widget-Schaltfläche</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Passen Sie die Widget-Schaltfläche selbst an.<br>Pfeil: Ermöglicht die Auswahl aus mehreren verschiedenen Symbolen im rechten Dropdown-Menü. Die linke Dropdownliste bestimmt die Farbe.<br>Benutzerdefiniert: Fügen Sie die URL eines gehosteten Bildes ein. Akzeptierte Dateitypen: .JPEG, .GIF (einschließlich animiert), .PNG, .APNG, .SVG, .BMP.<br>Text: Widget kann Text sein - seine Farbe, Größe und Schriftart anpassen.</td> 
+   <td colspan="1" rowspan="1">Passen Sie die Widget-Schaltfläche selbst an.<br>Pfeil: Ermöglicht die Auswahl aus mehreren verschiedenen Symbolen im rechten Dropdown-Menü. Die linke Dropdown-Liste bestimmt die Farbe.<br>Benutzerdefiniert: Fügen Sie die URL eines gehosteten Bildes ein. Akzeptierte Dateitypen - .JPEG, .GIF (einschließlich animierte Dateien), .PNG, .APNG, .SVG, .BMP.<br>Text: Widget kann Text sein - seine Farbe, Größe und Schriftart anpassen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Sticky</strong></td> 
-   <td colspan="1">Durch Auswahl dieser Option wird sichergestellt, dass das Widget während der gesamten Sitzung des Besuchers auf allen Webseiten angezeigt wird.</td> 
+   <td colspan="1"><strong>Anhaftend</strong></td> 
+   <td colspan="1">Dadurch wird sichergestellt, dass das Widget während der gesamten Besuchersitzung auf allen Webseiten angezeigt wird.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Widget bei Kampagne-Anzeige minimieren</strong></td> 
+   <td colspan="1"><strong>Minimieren von Widgets auf Kampagnenanzeige</strong></td> 
    <td colspan="1">Fügt Widget ein, minimiert es jedoch, sodass der Benutzer darauf klicken muss, um es zu maximieren.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Standard wiederherstellen </strong></td> 
-   <td colspan="1">Stellt die ursprüngliche Standardeinstellung für das Widget wieder her, indem die Widget-Farbe auf die standardmäßige transparente graue Option eingestellt wird.</td> 
+   <td colspan="1">Stellt die ursprüngliche Standardeinstellung für das Widget wieder her, indem die Widget-Farbe auf die standardmäßige transparente Grauoption gesetzt wird.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Vorschau vor Ort </strong></td> 
-   <td colspan="1">Kampagnen der Vorschau vor dem Start.<br> 
+   <td colspan="1"><strong>Vorschau auf Website </strong></td> 
+   <td colspan="1">Anzeigen einer Vorschau von Kampagnen vor dem Start<br> 
     <ul> 
-     <li>URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt wird, um ein Beispiel für die Vorschau der Live-Darstellung der Kampagne anzuzeigen.</li> 
-     <li>Vorschau - Klicken Sie auf <strong>Vorschau </strong>um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert (Hinzufügen <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-Erweiterung</a>, um die beste Web-Kampagne-Vorschau zu erhalten). </li> 
-     <li>Freigeben: Verwenden Sie die Schaltfläche Freigeben, um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
+     <li>URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne laufen würde, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li> 
+     <li>Vorschau - Klicken <strong>Vorschau </strong>, um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert (Fügen Sie die <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-Erweiterung</a> für das beste Web-Campaign-Vorschauerlebnis.) </li> 
+     <li>Freigabe - Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -95,38 +94,38 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die mit einem bestimmte
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Web-Kampagnen können auf optimale Ergebnisse  [A/B-Tests](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) getestet werden. Mit der Auto-Tune-Funktion erkennt die Plattform automatisch die leistungsfähigeren Kampagnen, setzt die Kampagnen mit der höchsten Umrechnung fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen A/B testen?** Eine oder mehrere Webkampagnen können [A/B-Test auf optimale Ergebnisse](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion Automatisierte Abstimmung erkennt die Plattform automatisch die leistungsschwächeren Kampagnen, setzt die Kampagne mit der höchsten Konversionsrate fort und setzt die anderen Kampagnen aus.
 
-## Eine Web-Kampagne bearbeiten {#edit-a-web-campaign}
+## Eine Webkampagne bearbeiten {#edit-a-web-campaign}
 
-Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Bearbeiten** in der Kampagne.
+Klicken Sie auf der Seite Web-Kampagnen auf **Bearbeiten** in der Kampagne.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
+>Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-## Klonen einer Web-Kampagne {#clone-a-web-campaign}
+## Eine Webkampagne klonen {#clone-a-web-campaign}
 
-Siehe [Eine Web-Kampagne klonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Siehe [Eine Webkampagne klonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
+## Vorschau einer Webkampagne {#preview-a-web-campaign}
 
-Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Vorschau** in der Web-Kampagne, die Sie zur Vorschau verwenden möchten.
+Klicken Sie auf der Seite Web-Kampagnen auf **Vorschau** in der Webkampagne, die Sie in der Vorschau anzeigen möchten
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Eine Web-Kampagne {#delete-a-web-campaign} löschen
+## Eine Webkampagne löschen {#delete-a-web-campaign}
 
-1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;in der zu löschenden Kampagne auf **Löschen**.
+1. Klicken Sie auf der Seite Web-Kampagnen auf **Löschen** in der Webkampagne, die Sie löschen möchten.
 
    ![](assets/widget-campaign-delete-hand.png)
 
-1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, ob Sie die Web-Kampagne löschen möchten.
+1. Eine Bestätigungsmeldung wird angezeigt, um zu bestätigen, ob Sie die Webkampagne löschen möchten.
 
 >[!MORELIKETHIS]
 >
->* [Eine neue Web-Kampagne in einer Zone erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Eine neue Dialogfeld-Web-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Erstellen einer neuen Web-Kampagne in Zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Erstellen einer neuen Web-Kampagne für Dialogfelder](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 

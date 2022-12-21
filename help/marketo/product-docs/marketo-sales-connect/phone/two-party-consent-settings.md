@@ -1,37 +1,36 @@
 ---
 unique-page-id: 45416566
-description: Einstellungen für die Zustimmung von zwei Parteien - MarketingToDocs - Produktdokumentation
-title: Einstellungen für die Zustimmung von zwei Parteien
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Einverständniseinstellungen von zwei Parteien - Marketo-Dokumente - Produktdokumentation
+title: Einverständniseinstellungen für zwei Parteien
+exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
+# Einverständniseinstellungen für zwei Parteien {#two-party-consent-settings}
 
-# Einstellungen für die Zustimmung von zwei Parteien {#two-party-consent-settings}
-
-Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung von Anrufen sicherzustellen, können Sie als Administrator eine vorab aufgezeichnete Nachricht Ihrer Wahl aktivieren, um sie zu Beginn Ihrer Anrufe zu spielen, wenn sie aufgezeichnet wird.
+Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung von Anrufen sicherzustellen, können Sie als Administrator eine aufgezeichnete Nachricht Ihrer Wahl aktivieren, die zu Beginn Ihrer Aufrufe abgespielt wird, wenn sie aufgezeichnet wird.
 
 >[!PREREQUISITES]
 >
->Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [die Aufrufaufzeichnung](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) aktivieren.
+>Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [Aufrufaufzeichnung aktivieren](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie unter &quot;Admin-Einstellungen&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
 
    ![](assets/two-1.png)
 
-1. Blättern Sie nach unten zu den Einstellungen für das Connect-Telefongespräch und klicken Sie auf **Aufzeichnung verwalten**.
+1. Scrollen Sie nach unten zu &quot;Sales Connect Phone Settings&quot;und klicken Sie auf **Hinweis zur Aufzeichnung verwalten**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Aufzeichnung importieren**.
+1. Klicken **Importaufzeichnung**.
 
    ![](assets/four-1.png)
 
@@ -43,10 +42,10 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
    ![](assets/five.png)
 
-1. Nachdem der Upload abgeschlossen ist, wählen Sie im Dateimanager das Dokument (drei Punkte) aus und klicken Sie auf **Als Zustimmung auswählen**. Klicken Sie abschließend auf **OK**.
+1. Nachdem der Upload abgeschlossen ist, wählen Sie die Daten (drei Punkte) im Dateimanager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken **OK** wann geschehen.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf den Umschalter, um zu aktivieren, dass die ausgewählte Nachricht zu Beginn der aufgezeichneten Aufrufe abgespielt werden kann.
+1. Klicken Sie auf den Umschalter, um die Wiedergabe der ausgewählten Nachricht zu Beginn Ihrer aufgezeichneten Aufrufe zu aktivieren.
 
    ![](assets/seven.png)

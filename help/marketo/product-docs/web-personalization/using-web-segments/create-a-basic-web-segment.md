@@ -1,25 +1,24 @@
 ---
 unique-page-id: 4719344
-description: Erstellen eines grundlegenden Websegments - Marketing-Dokumente - Produktdokumentation
-title: Ein einfaches Websegment erstellen
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Erstellen eines einfachen Websegments - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines einfachen Websegments
+exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
 # Erstellen eines einfachen Websegments {#create-a-basic-web-segment}
 
-Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanzdienstleistungsbranche anspricht.
+Erstellen wir ein Basissegment, das alle Webbesucher aus den USA und der Finanzdienstleistungsbranche anspricht.
 
-1. Gehen Sie zu **Segmente**.
+1. Navigieren Sie zu **Segmente**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicken Sie auf **Neu erstellen**.
+1. Klicken **Neu erstellen**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,33 +26,33 @@ Erstellen wir ein Basissegment, das alle Web-Besucher aus den USA und der Finanz
 
    ![](assets/segment-name.png)
 
-1. Ziehen Sie **Position** aus dem Kontextmenü und legen Sie es im Segment-Editor ab.
+1. Ziehen **Standort** aus dem Kontextmenü aus und legen Sie es im Segmenteditor ab.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Wählen Sie aus der Dropdownliste ein hinzuzufügendes Land aus. Wählen Sie **Vereinigte Staaten**.
+1. Wählen Sie aus der Dropdown-Liste ein Land aus, das hinzugefügt werden soll. Wählen Sie die **Vereinigte Staaten**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
    >[!NOTE]
    >
-   >Die Anzahl der Städte ist auf 300 pro Segment begrenzt.
+   >Die Anzahl der Städte ist auf 300 pro Segment beschränkt.
 
-1. Ziehen Sie **Industries** aus dem Kontextmenü und legen Sie es im Segment-Editor ab.
+1. Ziehen **Branchen** aus dem Kontextmenü aus und legen Sie es im Segmenteditor ab.
 
    ![](assets/industries-hand.jpg)
 
-1. Wählen Sie aus der Dropdownliste die hinzuzufügenden Branchen aus. Wählen Sie **Finanzdienstleistungsbranche**.
+1. Wählen Sie aus der Dropdown-Liste die hinzuzufügenden Branchen aus. Wählen Sie die **Finanzdienstleistungsbranche**.
 
    ![](assets/segment-industries.png)
 
-   Sie haben nun ein Basissegment für alle Potenzieller Kunde eingerichtet, die Ihre Website aus den USA und der Finanzbranche besuchen.
+   Sie haben nun ein Basissegment für alle Interessenten eingerichtet, die Ihre Website aus den USA und der Finanzbranche besuchen.
 
-1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder **Kampagne speichern und definieren**, um zur Seite &quot;Kampagnen&quot;zu wechseln.
+1. Klicken **Speichern** , um das Segment zu speichern, oder **Kampagne speichern und definieren** , um zur Seite Kampagnen zu gelangen.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Jetzt haben Sie Ihre Besucher aus den USA segmentiert, gehen Sie weiter und fügen Sie die Finanzdienstleistungsbranche hinzu.
+Jetzt haben Sie Ihre Besucher aus den USA segmentiert und die Finanzdienstleistungsbranche hinzugefügt.
 
 >[!MORELIKETHIS]
 >

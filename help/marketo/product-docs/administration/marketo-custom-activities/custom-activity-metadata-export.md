@@ -1,9 +1,10 @@
 ---
 description: Export benutzerspezifischer Aktivitäts-Metadaten - Marketo-Dokumente - Produktdokumentation
 title: Export benutzerspezifischer Aktivitäts-Metadaten
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ Gehen Sie wie folgt vor, um Ihr benutzerdefiniertes Aktivitäts-Metadatenschema 
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. Klicken Sie auf **Marketo Custom Activities**.
+1. Klicken **Benutzerdefinierte Marketo-Aktivitäten**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -24,7 +25,7 @@ Gehen Sie wie folgt vor, um Ihr benutzerdefiniertes Aktivitäts-Metadatenschema 
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. Klicken Sie auf das Dropdown-Menü **Benutzerdefinierte Aktivitätsaktionen** und wählen Sie **Aktivität exportieren** aus.
+1. Klicken Sie auf **Benutzerdefinierte Aktivitätsaktionen** und wählen Sie **Export-Aktivität**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

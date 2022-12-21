@@ -32,7 +32,7 @@ Steigern Sie die Pipeline und den Umsatz, indem Sie mit intelligenten Funktionen
 
 * **Compliance Card**: Sicherstellung der Einhaltung der DSGVO durch Erfassung der Quelle der Verkaufskontakte und der Details der Kundenzustimmung für den Erhalt von Nachrichten.
 * **Aktualisierung der Kennwortrichtlinie**: Halten Sie Ihre Daten mit strengeren Anforderungen an die Erstellung, das Zurücksetzen und den Ablauf von Passwörtern sicherer (erfüllt die Anforderungen an die Konformität mit SOC II - Typ 1).
-* **Optimiertes Erlebnis für die Kontoeinrichtung**: Richten Sie Ihr Konto schneller ein und verbinden Sie es mit Gmail, Outlook und anderen Systemen.
+* **Optimiertes Erlebnis bei der Kontoeinrichtung**: Richten Sie Ihr Konto schneller ein und verbinden Sie es mit Gmail, Outlook und anderen Systemen.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 

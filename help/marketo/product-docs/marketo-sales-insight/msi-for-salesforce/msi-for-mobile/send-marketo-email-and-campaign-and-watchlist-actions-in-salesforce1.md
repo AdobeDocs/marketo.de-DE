@@ -1,41 +1,38 @@
 ---
 unique-page-id: 7511931
-description: Senden von MarketingTo-E-Mail- und Kampagne- und Watchlist-Aktionen in Salesforce1 - MarketingTo Docs - Produktdokumentation
-title: Senden von E-Mail-Nachrichten und Kampagnen- und Watchlist-Aktionen in Salesforce1
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Senden von Marketo-E-Mail- und -Campaign- und Watchlist-Aktionen in Salesforce1 - Marketo Docs - Produktdokumentation
+title: Senden von Marketo-E-Mail- und -Campaign- und Watchlist-Aktionen in Salesforce1
+exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
+# Senden von Marketo-E-Mail- und -Campaign- und Watchlist-Aktionen in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-# Senden von Marketing-E-Mail- und Kampagne- und Watchlist-Aktionen in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
-
-1. Gehen Sie zum Bereich &quot;Interessentendetails&quot;in Salesforce1 und klicken Sie auf die Registerkarte **Ähnliche**.
+1. Wechseln Sie in Salesforce1 zum Bereich &quot;Lead-Detail&quot;und klicken Sie auf **Verwandte** Registerkarte.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf den Punkt (drei kleine Punkte). Am unteren Rand können Sie zwischen folgenden Optionen wählen: &quot;Hinzufügen an die Kampagne von Marketo&quot;, &quot;Senden von Marketo per E-Mail&quot;, &quot;Ansicht in Marketo&quot;, &quot;Hinzufügen/Entfernen von der Watchlist&quot;.
+1. Klicken Sie auf die Punkte (drei kleine Punkte). Unten können Sie Folgendes auswählen: &quot;Zu Marketo Campaign hinzufügen&quot;, &quot;Marketo-E-Mail senden&quot;, &quot;In Marketo anzeigen&quot;, &quot;Aus der Watchlist hinzufügen/entfernen&quot;.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Welche intelligenten Kampagnen tauchen auf? Die Trigger mit &quot;Kampagne ist angefordert&quot;. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mit &quot;Kampagne ist angefordert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;einrichten.
+   >Welche intelligenten Kampagnen werden angezeigt? Trigger mit  &quot;Campaign is Requested&quot;. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mit &quot;Kampagne ist angefordert&quot;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
-Cool, jetzt können Ihre Verkäufer aktiv an der Marketingmaßnahme teilnehmen.
+Cool, jetzt können Ihre Vertriebsmitarbeiter aktiv an der Marketingarbeit teilnehmen.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->Gute intelligente Kampagnen, die angefordert werden können, klingen wie:
+>Gutes Anfordern von intelligenten Kampagnen könnte wie folgt klingen:
 >
->1. Langfristige Pflege - wenn sie dieses Jahr keinen Haushalt haben
->1. Aktiver Verkaufszyklus - wenn der Verkäufer keine Nachrichten an den Interessenten mit Ausnahme seiner eigenen möchte (verwenden Sie die Marketing-Hängeflagge, um sie vorübergehend abzubestellen)
-
+>1. Langfristige Pflege - wenn sie in diesem Jahr kein Budget haben
+>1. Aktiver Verkaufszyklus - wenn der Verkäufer außer seinen eigenen Nachrichten keine Nachrichten an den Lead senden möchte (verwenden Sie die Markierung für ausgesetzte Marketing, um ihn vorübergehend abzumelden)
 >
->
-Sei kreativ! Was möchte der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!
+>Sei kreativ! Was möchte der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!

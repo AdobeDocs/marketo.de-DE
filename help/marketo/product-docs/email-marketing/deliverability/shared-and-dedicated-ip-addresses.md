@@ -1,64 +1,63 @@
 ---
 unique-page-id: 10912085
-description: Freigegebene und dedizierte IP-Adressen - Marketing Docs - Produktdokumentation
+description: Freigegebene und dedizierte IP-Adressen - Marketo-Dokumente - Produktdokumentation
 title: Freigegebene und dedizierte IP-Adressen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # Freigegebene und dedizierte IP-Adressen {#shared-and-dedicated-ip-addresses}
 
 ## Was ist eine IP-Adresse? {#what-is-an-ip-address}
 
-Eine numerische Beschriftung, die die Adresse eines Computers angibt, der mit dem Internet verbunden ist.
+Ein numerischer Titel, der die Adresse eines mit dem Internet verbundenen Computers angibt.
 
 ## Was sind freigegebene IP-Adressen? {#what-are-shared-ip-addresses}
 
-Dies bezieht sich auf Fälle, in denen mehrere Absender dieselben IP-Adressen zum Starten von E-Mail-Kampagnen verwenden. Sie alle nutzen dieselben sendenden IPs.
+Dies bezieht sich auf die Fälle, in denen mehrere Absender dieselben IP-Adressen zum Starten von E-Mail-Kampagnen verwenden. Sie teilen alle dieselben Sende-IPs.
 
 ## Was ist eine dedizierte IP-Adresse? {#what-is-a-dedicated-ip-address}
 
-Eine benutzerspezifische IP-Adresse, von der nur ein Absender gesendet wird.
+Eine benutzerspezifische IP-Adresse, von der nur ein Absender sendet.
 
-## Was ist besser: Freigegeben oder dediziert? {#which-is-better-shared-or-dedicated}
+## Was ist besser - freigegeben oder dediziert? {#which-is-better-shared-or-dedicated}
 
 Wie üblich gibt es Vor- und Nachteile für beide Optionen.
 
 **Vorteile und Nachteile einer dedizierten IP**
 
-_Vorteile_
+_Pro_
 
-**Reputation**  - Sie besitzen Ihren Ruf und Ihre Lieferbarkeit.\
-**Überwachung**  - Durch die Überwachung Ihres Berichte zur Lieferbarkeit können Sie schnell auf Änderungen Ihrer Versand-Metriken reagieren.\
-**Problemlösung** : Es ist einfacher, Probleme im Versand zu untersuchen, zu verstehen und zu lösen.
+**Reputation** - Sie besitzen ganz Ihren Ruf und Ihre Zustellbarkeit.\
+**Überwachung** - Durch die Überwachung der Zustellbarkeitsberichte können Sie schnell auf Änderungen in Ihren Versandmetriken reagieren.\
+**Problemlösung** - Es ist einfacher, Lieferprobleme zu untersuchen, zu verstehen und zu lösen.
 
-_Nachteile_
+_Contra_
 
-**Volumenänderungen**  - Volumenänderungen können Ihren Ruf beeinträchtigen und müssen daher verwaltet werden.\
-**IP-Aufwärmungsprozess**  - Reputation wird im Laufe der Zeit aufgebaut. Einige Internet-Dienstleister (ISPs) drosseln IP-Adressen ohne Volumenverlauf, sodass Sie in den ersten Wochen einen Ruf aufbauen müssen (Marketo kann Ihnen helfen).\
-**Kosten** : Es wird in der Regel eine zusätzliche Gebühr erhoben, die von einem bestimmten IP mit einem beliebigen Anbieter gesendet werden muss.
+**Volumenänderungen** - Volumenspitzen können sich negativ auf Ihre Reputation auswirken und müssen verwaltet werden.\
+**IP-Warmup-Prozess** - Der Ruf wird im Laufe der Zeit aufgebaut. Einige Internet Service Provider (ISPs) drosseln IP-Adressen ohne Volumenverlauf, sodass Sie in den ersten Wochen eine Reputation aufbauen müssen (Marketo kann Ihnen helfen).\
+**Kosten** - Es fallen in der Regel zusätzliche Gebühren an, die von einer dedizierten IP-Adresse an einen beliebigen Provider gesendet werden.
 
 **Vorteile und Nachteile einer freigegebenen IP**
 
-_Vorteile_
+_Pro_
 
-**Gute Mitbewohner**  - Wenn die Personen, die Ihre IP teilen, die besten Versandmethoden befolgen, würden Sie davon profitieren.\
-**Mailing-Frequenz**  - Im Gegensatz zu dedizierten IPs ist keine Mindest-Mailing-Frequenz erforderlich, um sich für eine freigegebene IP zu qualifizieren.\
-**Kosten** : Es gibt nie eine zusätzliche Gebühr, die von einer freigegebenen IP gesendet werden kann.
+**Gute Mitbewohner** - Wenn die Personen, die Ihre IP-Adresse mit Best Practices für den Versand teilen, profitieren Sie davon.\
+**Versandhäufigkeit** - Im Gegensatz zu dedizierten IPs ist keine minimale Versandhäufigkeit erforderlich, um für eine freigegebene IP qualifiziert zu sein.\
+**Kosten** - Es fallen nie zusätzliche Gebühren an, die von einer freigegebenen IP-Adresse gesendet werden.
 
-_Nachteile_
+_Contra_
 
-**Unangemessene Mitbewohner** : Wenn die Personen, die Ihre IP teilen, schlechte Versandmethoden anwenden, könnten Ihre E-Mail-Kampagnen beeinträchtigt werden.\
-**Kontrolle**  - Sie haben viel weniger Kontrolle über den Ruf des Absenders.\
-**Problembehebung** : Es kann oft schwieriger sein, ein Problem beim Senden von freigegebenen IPs zu lösen.
+**Schlechte Mitbewohner** - Wenn die Personen, für die Sie Ihre IP-Adresse freigeben, schlechte Versandpraktiken anwenden, können Ihre E-Mail-Kampagnen beeinträchtigt sein.\
+**Kontrolle** - Sie haben wesentlich weniger Kontrolle über die Reputation Ihres Absenders.\
+**Problemlösung** - Es kann oft schwieriger sein, ein Problem beim Senden von freigegebenen IPs zu lösen.
 
 >[!NOTE]
 >
->Bei einer Entscheidung gibt es einen weiteren wichtigen Faktor zu berücksichtigen: Senden des Volumens. Wenn Sie planen, weniger als 100.000 E-Mails pro Monat oder weniger als zwei Mailings pro Monat zu versenden, würden Sie wahrscheinlich keine dedizierte IP nutzen. Die Versendung solcher Nummern wird als gering angesehen, und es wäre schwierig, Ihre dedizierte IP &quot;warm&quot;genug zu halten, um von den wichtigsten ISPs als sicher betrachtet zu werden. Wenn Sie nicht häufig genug Mails verschicken, sehen die ISPs eine Mailing-Nachricht als plötzliche &quot;Welle&quot;der Aktivität und könnten sie letztendlich als vermutetes Spam blockieren.
+>Bei der Entscheidungsfindung ist ein weiterer wichtiger Faktor zu beachten: Versandvolumen. Wenn Sie planen, weniger als 100.000 E-Mails pro Monat oder weniger als zwei Mailings pro Monat zu versenden, würden Sie wahrscheinlich nicht von einer dedizierten IP profitieren. Das Senden von Nummern wie diese werden als niedrig betrachtet, und es wäre schwierig, Ihre dedizierte IP so &quot;warm&quot;zu halten, dass sie von den wichtigsten ISPs als sicher betrachtet werden. Wenn Sie nicht oft genug Nachrichten senden, sehen die ISPs einen E-Mail-Versand als plötzlichen &quot;Anstieg&quot;der Aktivität und blockieren ihn möglicherweise als Spam.
 
-Wenn Sie Fragen haben oder an der Einrichtung einer speziellen IP interessiert sind, wenden Sie sich bitte an Ihren Marketo Vertriebsmitarbeiter.
+Wenden Sie sich bei Fragen oder Interesse an der Einrichtung einer dedizierten IP-Adresse an Ihren Marketo-Vertriebsmitarbeiter.

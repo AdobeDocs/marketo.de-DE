@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146901
-description: Verwenden von Advanced Smart Liste Rule Logic - Marketo Docs - Produktdokumentation
-title: Erweiterte Logik der Smart-Liste
+description: Verwenden der erweiterten Smart-List-Regellogik - Marketo-Dokumente - Produktdokumentation
+title: Verwenden der erweiterten Smart-List-Regellogik
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
@@ -11,35 +10,35 @@ ht-degree: 0%
 
 ---
 
-# Verwenden der erweiterten Regellogik für intelligente Listen {#using-advanced-smart-list-rule-logic}
+# Verwenden der erweiterten Smart-List-Regellogik {#using-advanced-smart-list-rule-logic}
 
-Sie können genau die Personen finden, die Sie benötigen, indem Sie innerhalb einer intelligenten Liste eine intelligente Liste-Regellogik auf mehrere Filter anwenden. So geht es.
+Sie können genau die Personen finden, die Sie benötigen, indem Sie die Logik von Smart-Listen-Regeln auf mehrere Filter in einer intelligenten Liste anwenden. So geht es.
 
 >[!PREREQUISITES]
 >
->* [Filter für eine intelligente Liste suchen und Hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definieren von Filtern für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+>* [Suchen und Hinzufügen von Filtern zu einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definieren von Smart-List-Filtern](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
 >
->Erweiterte Filterlogik ist nur verfügbar, wenn Ihre intelligente Liste drei oder mehr Filter enthält.
+>Erweiterte Filterlogik ist nur verfügbar, wenn Ihre intelligente Liste mindestens drei Filter enthält.
 
-## hinzufügen der Logik zu einer intelligenten Liste {#add-logic-to-a-smart-list}
+## Hinzufügen einer Logik zu einer Smart-Liste {#add-logic-to-a-smart-list}
 
-Standardmäßig finden Sie in Ihrer intelligenten Liste die Personen, die mit den Filtern **ALL** übereinstimmen (Filter 1 _und_ 2 _und_ 3). Sie können die Regellogik ändern, um nach Personen zu suchen, die **ANY** der definierten Filter (Filter 1 _oder_ 2 _oder_ 3) übereinstimmen, oder erweiterte Filter (Filter 1 _und_ 2 _oder_ 3) verwenden.
+Standardmäßig findet Ihre Smart-Liste die Personen, die **ALL** Filter (Filter 1 _und_ 2 _und_ 3). Sie können die Regellogik ändern, um passende Personen zu finden **ANDERE** der definierten Filter (Filter 1 _oder_ 2 _oder_ 3) oder erweiterte Filter verwenden (Filter 1) _und_ 2 _oder_ 3).
 
-In diesem Beispiel möchten Sie Personen in Kalifornien _und_ mit einem Ergebnis von mindestens 50 Punkten _oder_ mit dem Status &quot;Sales Qualified&quot;finden.
+Nehmen wir an, Sie möchten Menschen in Kalifornien finden _und_ mit einer Punktzahl von mindestens 50 Punkten _oder_ mit dem Status &quot;Sales Qualified&quot;.
 
-1. Wählen Sie **Erweiterte Filter** aus der Dropdownliste.
+1. Auswählen **Erweiterte Filter verwenden** aus der Dropdown-Liste aus.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Durch die Verwendung von **Advanced**-Filtern müssen keine intelligenten Listen mit dem Filter Member of Smart Liste erstellt werden. Dies hilft, die Leistung zu optimieren.
+   >Verwenden **Erweitert** -Filter verringern die Notwendigkeit, Smart-Listen mit dem Filter Mitglied der Smart-Liste zu erstellen. Dies trägt zur Leistungsoptimierung bei.
 
-1. Im Textfeld **Erweiterte Filter** wird &quot;und&quot;als Standardwert für alle Filter angezeigt.
+1. Die **Erweiterte Filter** im Textfeld wird &quot;und&quot;als Standardwert zwischen allen Filtern angezeigt.
 
    ![](assets/two-2.png)
 
@@ -49,24 +48,24 @@ In diesem Beispiel möchten Sie Personen in Kalifornien _und_ mit einem Ergebnis
 
    >[!CAUTION]
    >
-   >Bei der Eingabe der Regellogik müssen Sie &quot;und&quot;vor &quot;oder&quot;verwenden.
+   >Sie müssen beim Eingeben der Regellogik &quot;und&quot;vor &quot;oder&quot;verwenden.
 
-1. Ändern Sie das &quot;und&quot;zwischen &quot;2 und 3&quot;in &quot;oder&quot;.
+1. Ändern Sie &quot;und&quot;zwischen &quot;2 und 3&quot;in &quot;oder&quot;.
 
    ![](assets/four-1.png)
 
-## Klammern beim Mischen von &quot;And&quot;und &quot;or {#use-parentheses-when-mixing-and-and-or}
+## Verwenden Sie beim Mischen von &quot;Und&quot;und &quot;Oder&quot;Klammern {#use-parentheses-when-mixing-and-and-or}
 
-Das Mischen von &quot;Und&quot;- und &quot;Oder&quot;-Logik erfordert Klammern, um Ihre Absicht klar zu machen.
+Das Mischen der Logik &quot;und&quot;und &quot;Oder&quot;erfordert Klammern, um Ihre Absicht klar zu machen.
 
 ![](assets/advancedfilters-parent.png)
 
-## Verschachtelte Klammern für vier oder mehr Filter verwenden, falls erforderlich {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Verwenden Sie verschachtelte Klammern für vier oder mehr Filter, falls erforderlich {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
-Abhängig von Ihrer Absicht müssen Sie ggf. verschachtelte Klammern hinzufügen, wenn Sie vier oder mehr Filter verwenden.
+Abhängig von Ihrer Absicht müssen Sie möglicherweise verschachtelte Klammern hinzufügen, wenn Sie vier oder mehr Filter verwenden.
 
 ![](assets/advancedfilters-nested.png)
 
 >[!TIP]
 >
->Wenn Sie eine ungültige Regel eingeben, wird eine rote Linie unter der Regel angezeigt. Blättern Sie über den Text, um die entsprechende Fehlermeldung anzuzeigen.
+>Wenn Sie eine ungültige Regel eingeben, wird unter der Regel eine rote Linie angezeigt. Scrollen Sie über den Text, um die zugehörige Fehlermeldung anzuzeigen.

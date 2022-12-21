@@ -16,13 +16,13 @@ Mit Marketo können Sie Ihre Programme mit Salesforce-Kampagnen synchronisieren,
 
 >[!PREREQUISITES]
 >
->Zunächst müssen Sie [Salesforce-Kampagnensynchronisation](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) aktivieren.
+>Sie müssen [Salesforce-Kampagnensynchronisierung aktivieren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) zuerst.
 
 >[!CAUTION]
 >
 >Beim Synchronisieren einer SFDC-Kampagne mit einem Marketo-Programm werden die impliziten SFDC-Aktionen (z. B. Hinzufügen zu SFDC Campaign, Synchronisieren mit SFDC) für untergeordnete Kampagnen des Programms deaktiviert.
 
-1. Gehen Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,15 +30,15 @@ Mit Marketo können Sie Ihre Programme mit Salesforce-Kampagnen synchronisieren,
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Klicken Sie auf **Programmaktionen** und wählen Sie **Salesforce-Kampagnensynchronisation** aus.
+1. Klicken **Programmaktionen**, wählen Sie **Salesforce Campaign Sync**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Wählen Sie **Neu erstellen** oder wählen Sie eine bestehende Salesforce-Kampagne aus.
+1. Auswählen **Neu erstellen** oder wählen Sie eine bestehende Salesforce-Kampagne aus.
 
    >[!TIP]
    >
-   >Wenn Sie eine bestehende Salesforce-Kampagne auswählen, achten Sie darauf, [den Programmstatus der Salesforce-Kampagne und des Marketo-Programms](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) anzugleichen.
+   >Wenn Sie eine bestehende Salesforce-Kampagne auswählen, stellen Sie sicher, dass [Übereinstimmung mit dem Programmstatus der Salesforce-Kampagne und des Marketo-Programms](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Geben Sie einen Namen für die neue Kampagne ein und klicken Sie auf **Speichern**.
 

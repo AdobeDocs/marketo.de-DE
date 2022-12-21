@@ -47,7 +47,7 @@ Fügen Sie den CNAME der Landingpage hinzu, den Sie an Ihren DNS-Eintrag gesende
 Fügen Sie das von Ihnen gesendete E-Mail-CNAME-Marketing hinzu, damit `[YourEmailCNAME]` weist auf [MktoTrackingLink], den standardmäßigen Tracking-Link, den Marketo im folgenden Format zugewiesen hat:\
 `[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
-Zum Beispiel:
+Beispiel:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
@@ -70,7 +70,8 @@ Wenn Ihre Marketing-Gruppe Marketo zum Versand von Test-E-Mails verwendet (eine 
 Fügen Sie diese IP-Adressen zu Ihrer Unternehmens-Zulassungsliste hinzu:
 
 199.15.212.0/22\
-192.28.144.0/20 192.28.160.0/19\
+192.28.144.0/20
+192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\
@@ -95,7 +96,7 @@ Ihr Marketing-Team sollte Ihnen auch DKIM-Informationen gesendet haben, die zu I
    Wenn wir bereits einen vorhandenen SPF-Eintrag in unserem DNS-Eintrag haben, fügen Sie einfach Folgendes hinzu:\
    include: mktomail.com
 
-   Ersetzen Sie CompanyDomain durch die Hauptdomäne Ihrer Website (z. B.: &quot;`(company.com/)`&quot;) und CorpIP mit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B. &quot;255 255 255 255 255&quot;). Wenn Sie E-Mails von mehreren Domänen über Marketo versenden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domäne hinzufügen (in einer Zeile).
+   Ersetzen Sie CompanyDomain durch die Hauptdomäne Ihrer Website (z. B.: &quot;`(company.com/)`&quot;) und CorpIP mit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B. &quot;255.255.255.255&quot;). Wenn Sie E-Mails von mehreren Domänen über Marketo versenden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domäne hinzufügen (in einer Zeile).
 
 1. Erstellen Sie für DKIM DNS-Ressourcendatensätze für jede Domäne, die wir einrichten möchten. Im Folgenden finden Sie die Hostdatensätze und TXT-Werte für jede Domäne, für die wir Signieren werden:
 
@@ -163,40 +164,40 @@ Die folgenden Tabellen enthalten alle Marketo Engage-Server, die ausgehende Aufr
    <th>Einzelne IP-Adresse</th>
   </tr>
   <tr>
-   <td>54 212 167 17</td>
+   <td>54.212.167.17</td>
   </tr>
    <tr>
-   <td>44 235 171 179</td>
+   <td>44.235.171.179</td>
   </tr>
    <tr>
-   <td>35 165 244 220</td>
+   <td>35.165.244.220</td>
   </tr>
    <tr>
-   <td>52 20 211 99</td>
+   <td>52.20.211.99</td>
   </tr>
    <tr>
-   <td>54 237 141 197</td>
+   <td>54.237.141.197</td>
   </tr>
   <tr>
-   <td>54 160 246 246</td>
+   <td>54.160.246.246</td>
   </tr>
    <tr>
-   <td>18 200 201 81</td>
+   <td>18.200.201.81</td>
   </tr>
   <tr>
-   <td>34 247 24 24 45</td>
+   <td>34.247.24.245</td>
   </tr>
    <tr>
-   <td>54 220 138 65</td>
+   <td>54.220.138.65</td>
   </tr>
   <tr>
-   <td>13 237 155 207</td>
+   <td>13.237.155.207</td>
   </tr>
    <tr>
-   <td>13 55 192 247</td>
+   <td>13.55.192.247</td>
   </tr>
   <tr>
-   <td>52 64 109 86</td>
+   <td>52.64.109.86</td>
   </tr>
  </tbody>
 </table>

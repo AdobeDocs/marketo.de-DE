@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092925
-description: Vorschau und Testen einer Webkampagne - Marketo-Dokumente - Produktdokumentation
+description: Vorschau und Testen einer Webkampagne - Marketo Docs - Produktdokumentation
 title: Vorschau erstellen und eine Webkampagne testen
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
@@ -20,11 +20,11 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Webkampagne in der 
 
 ## Vorschau einer Webkampagne auf der Erstellungsseite {#preview-a-web-campaign-on-the-creation-page}
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Navigieren Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Klicken Sie auf **Neue Web-Kampagne erstellen** oder auf das Symbol, um eine bestehende Kampagne zu bearbeiten.
+1. Klicken **Neue Web-Kampagne erstellen** oder das Symbol zum Bearbeiten einer vorhandenen Kampagne.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -34,11 +34,11 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Webkampagne in der 
 
    >[!TIP]
    >
-   >Klicken Sie auf **Share** , um eine E-Mail mit einer festen URL der Kampagnenvorschau zu öffnen.
+   >Klicken **Freigeben** um eine E-Mail mit einer festen URL der Kampagnenvorschau zu öffnen.
 
    >[!NOTE]
    >
-   >Sie haben auch die Möglichkeit, ein Browser-Plug-in zu installieren (entweder [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)), um eine optimale Kampagnenvorschau zu erhalten. Siehe den Abschnitt unten.
+   >Sie können auch ein Browser-Plug-in installieren (entweder [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) für das beste Erlebnis in der Kampagnenvorschau. Siehe den Abschnitt unten.
 
 ## Vorschau einer Webkampagne auf der Erstellungsseite mithilfe des Browser-Plug-ins {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -48,11 +48,11 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Webkampagne in der 
 
    ![](assets/4-1.png)
 
-1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Klicken Sie auf **Zu Chrome** hinzufügen.
+1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Klicken **Hinzufügen zu Chrome**.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf **Erweiterung hinzufügen**.
+1. Klicken **Erweiterung hinzufügen**.
 
    ![](assets/six.png)
 
@@ -66,7 +66,7 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Webkampagne in der 
 
 ## Vorschau einer Webkampagne auf der Seite &quot;Webkampagnen&quot; {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Wenn Sie sich die Liste Ihrer Webkampagnen ansehen, wählen Sie einfach eine Kampagne aus und klicken Sie auf das Symbol **Vorschau**.
+1. Wenn Sie sich die Liste Ihrer Web-Kampagnen ansehen, wählen Sie einfach eine Kampagne aus und klicken Sie auf **Vorschau** Symbol.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -80,13 +80,13 @@ Erstellen Sie ein Sandbox-Segment und eine Kampagne.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klicken Sie auf **Neu erstellen**.
+1. Klicken **Neu erstellen**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Benennen Sie das Segment.
 
-1. Ziehen Sie unter &quot;Verhalten&quot;Seiten einschließen auf die Arbeitsfläche. Fügen Sie den Wert *sandbox=1* hinzu. Klicken Sie auf **Kampagne speichern und definieren**.
+1. Ziehen Sie unter &quot;Verhalten&quot;Seiten einschließen auf die Arbeitsfläche. Wert hinzufügen &#42;Sandbox=1&#42;. Klicken **Kampagne speichern und definieren**.
 
    ![](assets/segment.png)
 
@@ -94,7 +94,7 @@ Erstellen Sie ein Sandbox-Segment und eine Kampagne.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Vervollständigen Sie die Kampagne und klicken Sie auf **Launch**.
+1. Kampagnenkreativ abschließen und auf klicken **Launch**.
 
    ![](assets/click-launch.jpg)
 
@@ -108,4 +108,4 @@ Erstellen Sie ein Sandbox-Segment und eine Kampagne.
 
 >[!NOTE]
 >
->Umleitungskampagnen können nicht in der Vorschau angezeigt werden. Die einzige Möglichkeit, sie zu testen, ist die Verwendung eines Sandbox-Segments (das auf bestimmte Seiten ausgerichtet ist - *sandbox=redirect*).
+>Umleitungskampagnen können nicht in der Vorschau angezeigt werden. Die einzige Möglichkeit, sie zu testen, ist die Verwendung eines Sandbox-Segments (das auf bestimmte Seiten ausgerichtet ist - &#42;sandbox=redirect&#42;)

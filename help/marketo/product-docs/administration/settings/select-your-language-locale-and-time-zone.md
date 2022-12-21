@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2359904
-description: Wählen Sie Ihre Sprache, Ihr Gebietsschema und Ihre Zeitzone - Marketo Docs - Produktdokumentation
+description: Sprache, Gebietsschema und Zeitzone auswählen - Marketo Docs - Produktdokumentation
 title: Sprache, Gebietsschema und Zeitzone auswählen
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
@@ -11,9 +10,9 @@ ht-degree: 4%
 
 ---
 
-# Sprache, Gebietsschema und Zeitzone {#select-your-language-locale-and-time-zone} auswählen
+# Sprache, Gebietsschema und Zeitzone auswählen {#select-your-language-locale-and-time-zone}
 
-Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich abgedeckt. So ändern Sie Ihre eigene Sprache, Ihr Gebietsschema und Ihre Zeitzone.
+Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier erfahren Sie, wie Sie Ihre eigene Sprache, Ihr Gebietsschema und Ihre Zeitzone ändern.
 
 ## Unterstützte Sprachen {#supported-languages}
 
@@ -30,30 +29,30 @@ Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich abgedeckt. S
 
    ![](assets/myaccount.png)
 
-1. Klicken Sie unter Mein Konto auf **Positionseinstellungen bearbeiten**.
+1. Klicken Sie unter &quot;Mein Konto&quot;auf **Standorteinstellungen bearbeiten**.
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Ändern Sie die **Sprache**.
+1. Ändern Sie Ihre **Sprache**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
    >[!TIP]
    >
-   >Sie haben auch die Möglichkeit, Ihre Sprache zu ändern, indem Sie oben auf der Anmeldeseite auf die Dropdownliste Sprache klicken.
+   >Sie haben auch die Möglichkeit, nur Ihre Sprache zu ändern, indem Sie oben auf der Anmeldeseite auf das Dropdown-Menü Sprache klicken.
 
-1. Ändern Sie das Gebietsschema **a1/>.**
+1. Ändern Sie Ihre **Gebietsschema**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Ändern Sie die **Zeitzone**.
+1. Ändern Sie Ihre **Zeitzone**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
-Gute Arbeit! Ihr Browser wird aktualisiert und die Änderungen sollten angezeigt werden.
+Gut gemacht! Ihr Browser wird aktualisiert und Sie sollten die Änderungen sehen.
 
 ![](assets/image2014-9-9-11-3a12-3a2.png)

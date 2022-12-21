@@ -1,31 +1,30 @@
 ---
 unique-page-id: 11378809
-description: Übersicht über benannte Konten - Marketing-Dokumente - Produktdokumentation
-title: Übersicht über benannte Konten
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Übersicht über benanntes Konto - Marketo Docs - Produktdokumentation
+title: Übersicht über benanntes Konto
+exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Übersicht über benanntes Konto {#named-account-overview}
 
-# Übersicht über benannte Konten {#named-account-overview}
+Die benannten Konten umfassen die Personen der Unternehmen, die Sie anvisieren. Das Dashboard stellt die aktuellen Daten jedes Attributs für alle Ihre spezifischen Konten bereit.
 
-Benannte Konten enthalten die Personen aus den Firmen, die Sie als Ziel auswählen. Das Dashboard stellt aktuelle Daten zu jedem Attribut für alle Ihre benannten Konten bereit.
-
-## Dashboard für benannte Konten {#named-accounts-dashboard}
+## Dashboard &quot;Spezifische Konten&quot; {#named-accounts-dashboard}
 
 ![](assets/one.png)
 
 >[!TIP]
 >
->Benannte Konten werden standardmäßig nach Erstellungsdatum sortiert. Sie können jedoch nach jeder Spalte sortieren, die ein Sortiersymbol in der Kopfzeile enthält.
+>Benannte Konten werden standardmäßig nach Erstellungsdatum sortiert. Sie können jedoch nach jeder Spalte sortieren, deren Kopfzeile ein Sortiersymbol enthält.
 
 >[!NOTE]
 >
->Marketo zeigt alle CRM-Benutzer an, die mit Marketo als Filterwerte von &quot;Kontoinhaber&quot;oder &quot;Mitglied des Kontoteams&quot;synchronisiert wurden.
+>Marketo zeigt alle in Marketo synchronisierten CRM-Benutzer als Filterwerte von &quot;Kontoinhaber&quot;oder &quot;Mitglied des Kontoteams&quot;an.
 
 ## Benannte Kontoattribute {#named-account-attributes}
 
@@ -33,23 +32,23 @@ Benannte Konten enthalten die Personen aus den Firmen, die Sie als Ziel auswähl
  <tbody> 
   <tr> 
    <td><strong>ID</strong></td> 
-   <td>Kennnummer des benannten Kontos</td> 
+   <td>Identifikationsnummer des benannten Kontos</td> 
   </tr> 
   <tr> 
-   <td><strong>Benanntes Konto</strong></td> 
+   <td><strong>Genanntes Konto</strong></td> 
    <td>Name des benannten Kontos</td> 
   </tr> 
   <tr> 
-   <td><strong>Personen</strong></td> 
-   <td>Anzahl der dem benannten Konto zugeschriebenen Personen</td> 
+   <td><strong>Personal</strong></td> 
+   <td>Dem benannten Konto zugeordnete Personenzahl</td> 
   </tr> 
   <tr> 
-   <td><strong>Pipeline</strong></td> 
-   <td>Summe aller Chancen in Ihrem CRM-System, die nicht als geschlossen oder geschlossen verloren gehen</td> 
+   <td><strong>Vertriebskette</strong></td> 
+   <td>Summe aller Chancen in Ihrem CRM-System, die nicht geschlossen wurden oder verpasst wurden</td> 
   </tr> 
   <tr> 
-   <td><strong>Offene Möglichkeiten</strong></td> 
-   <td>Alle Chancen in Ihrem CRM, die nicht geschlossen oder geschlossen verloren sind.</td> 
+   <td><strong>Offene Opportunities</strong></td> 
+   <td>Alle Chancen in Ihrem CRM, die nicht geschlossen wurden verloren oder geschlossen sind.</td> 
   </tr> 
   <tr> 
    <td><strong>Domäne</strong></td> 
@@ -57,30 +56,30 @@ Benannte Konten enthalten die Personen aus den Firmen, die Sie als Ziel auswähl
   </tr> 
   <tr> 
    <td><strong>Branche</strong></td> 
-   <td>Art der Branche, die dem benannten Konto zugeordnet ist</td> 
+   <td>Branchentyp, der dem benannten Konto zugeordnet wurde</td> 
   </tr> 
   <tr> 
    <td><strong>SIC-Code</strong></td> 
-   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - vierstelliger Code für die Klassifizierung von Industriezweigen<br></span></td> 
+   <td><span><strong>S</strong>Standard <strong>I</strong>Industrie <strong>C</strong>Klassifizierung - vierstelliger Code für die Klassifizierung von Branchen<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Umsatz</strong></td> 
-   <td>Jahreseinnahmen der Firma</td> 
+   <td>Jahresumsatz des Unternehmens</td> 
   </tr> 
   <tr> 
-   <td><strong>ArbeitnehmerInnen</strong></td> 
-   <td>Anzahl der Mitarbeiter, die einem benannten Konto zugeordnet sind</td> 
+   <td><strong>Mitarbeiter</strong></td> 
+   <td>Anzahl der einem benannten Konto zugewiesenen Mitarbeiter</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kontobewertung</strong></td> 
-   <td colspan="1">Aggregat von Interessentenbewertungen aus mehreren Interessenten, um eine Bewertung auf Kontoebene bereitzustellen</td> 
+   <td colspan="1">Aggregieren von Lead-Scores aus mehreren Leads, um Ergebnisse auf Kontoebene zu erzielen</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Ort</strong></td> 
    <td colspan="1">Ort des benannten Kontos</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Bundesland/-region</strong></td> 
+   <td colspan="1"><strong>Bundesland/Region</strong></td> 
    <td colspan="1">Status oder Region des benannten Kontos</td> 
   </tr> 
   <tr> 
@@ -89,15 +88,15 @@ Benannte Konten enthalten die Personen aus den Firmen, die Sie als Ziel auswähl
   </tr> 
   <tr> 
    <td colspan="1"><strong>Erstellungsdatum</strong></td> 
-   <td colspan="1">Erstellungsdatum des benannten Kontos</td> 
+   <td colspan="1">Datum der Erstellung des benannten Kontos</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Kontoinhaber</strong></td> 
+   <td colspan="1"><strong>Kontoeigentümer</strong></td> 
    <td colspan="1">Inhaber des angegebenen Kontos</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Mitglied des Kontoteams</strong></td> 
-   <td colspan="1">Mitglied einer Gruppe von Interessenvertretern, die bei spezifischen Abschlüssen zusammenarbeiten</td> 
+   <td colspan="1"><strong>Account-Teammitglied</strong></td> 
+   <td colspan="1">Mitglied einer Gruppe von Interessenvertretern, die an bestimmten Konten zusammenarbeiten</td> 
   </tr> 
  </tbody> 
 </table>

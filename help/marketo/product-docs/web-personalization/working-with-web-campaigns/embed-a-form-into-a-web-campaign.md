@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10095554
-description: Einbetten eines Formulars in eine Web-Kampagne - Marketing Docs - Produktdokumentation
-title: Einbetten eines Formulars in eine Web-Kampagne
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Einbetten eines Formulars in eine Webkampagne - Marketo Docs - Produktdokumentation
+title: Einbetten eines Formulars in eine Webkampagne
+exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
+# Einbetten eines Formulars in eine Webkampagne {#embed-a-form-into-a-web-campaign}
 
-# Einbetten eines Formulars in eine Web-Kampagne {#embed-a-form-into-a-web-campaign}
+Erfahren Sie, wie Sie ein Marketo-Formular in eine Webkampagne einbetten können (Dialogfeld, In Zone oder Widget).
 
-Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten können (Dialog, In-Zone oder Widget).
-
-1. Klicken Sie mit der rechten Maustaste auf ein genehmigtes Formular. Wählen Sie **Einbettungscode**.
+1. Klicken Sie mit der rechten Maustaste auf ein bestätigtes Formular. Auswählen **Einbettungscode**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,11 +22,11 @@ Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten könne
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Wechseln Sie in Web-Personalisierung zu **Web-Kampagnen**.
+1. Gehen Sie in Web-Personalisierung zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Klicken Sie auf **Neue Kampagne erstellen**.
+1. Klicken **Neue Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,35 +34,35 @@ Erfahren Sie, wie Sie ein Marketo-Formular in eine Web-Kampagne einbetten könne
 
    ![](assets/five-1.png)
 
-1. Fügen Sie den Formulareinbettungscode in den HTML-Quell-Editor ein. Klicken Sie auf **Aktualisieren**.
+1. Fügen Sie den Einbettungscode des Formulars in den HTML Source Editor ein. Klicken **Aktualisieren**.
 
    ![](assets/six-1.png)
 
-1. Das Formular wird nicht in der Editor-Ansicht angezeigt, Sie können es jedoch auch so Vorschauen vornehmen, dass es in einer Kampagne wiedergegeben wird.
+1. Das Formular wird nicht in der Editor-Ansicht angezeigt, Sie können es jedoch in der Vorschau anzeigen, um zu sehen, wie es in einer Kampagne dargestellt wird.
 
-1. Klicken Sie auf **Launch**, um die Kampagne Beginn.
+1. Klicken **Launch** um die Kampagne zu starten.
 
    >[!NOTE]
    >
-   >Änderungen an den Formularfeldern müssen in den Marketing-Aktivitäten von Marketo unter Formularentwurf bearbeiten vorgenommen werden.
+   >Alle Änderungen an den Formularfeldern müssen in den Marketingaktivitäten von Marketo unter &quot;Bearbeitungsentwurf des Formulars&quot;vorgenommen werden.
 
 ## Drei Methoden zum Hinzufügen eines Hintergrundbilds zu einem Formular {#three-ways-to-add-a-background-image-to-a-form}
 
-Um ein Hintergrundbild zu Ihrem Formular hinzuzufügen, können Sie:
+Um ein Hintergrundbild zu Ihrem Formular hinzuzufügen, haben Sie folgende Möglichkeiten:
 
-* CSS eines Formularthemas bearbeiten
-* Ändern der Dialog- oder Widget-Farben in der Kampagne &quot;Festlegen&quot;
-* CSS-Code in das Skript Hinzufügen
+* CSS eines Formulardesigns bearbeiten
+* Ändern der Dialogfeld- oder Widget-Farben in Set Campaign
+* CSS-Code zum Skript hinzufügen
 
-Informationen zum Bearbeiten der CSS eines Formularthemas finden Sie in [diesem Artikel](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Informationen zum Bearbeiten der CSS eines Formulardesigns finden Sie unter [diesem Artikel](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-So ändern Sie die Dialog- oder Widget-Farben in der Kampagne &quot;Festlegen&quot;:
+So ändern Sie die Dialogfeld- oder Widget-Farben in Set Campaign:
 
-1. Wählen Sie im Rich-Text-Editor einen Dialogfeldtyp und einen Dialogstil, eine Kopfzeilenfarbe und eine Hintergrundfarbe aus, um die Hintergrundfarben des Formulars anzupassen. Klicken Sie auf **Speichern**.
+1. Wählen Sie im Rich-Text-Editor einen Dialogfeldkampagnentyp und einen Dialogfeldstil, eine Kopfzeilenfarbe und eine Hintergrundfarbe aus, um die Hintergrundfarben des Formulars anzupassen. Klicken **Speichern**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
-1. Hier ist ein Beispiel dafür, wie ein moderner Trim-Dialog mit einer hellvioletten Kopf- und Hintergrundfarbe aussieht.
+1. Hier ist ein Beispiel dafür, wie ein moderner Trim Dialog Style mit einer hellvioletten Kopfzeile und Hintergrundfarbe aussieht.
 
    ![](assets/image2015-12-29-18-3a27-3a31.png)
 
@@ -73,17 +72,17 @@ So fügen Sie dem Skript CSS-Code hinzu:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Fügen Sie den Einbettungscode des Formulars mit dem Code des Hintergrundstils in den HTML-Quell-Editor ein. Klicken Sie auf **Aktualisieren**.
+1. Fügen Sie den Einbettungscode des Formulars mit dem Stil-Hintergrundcode in den HTML Source Editor ein. Klicken **Aktualisieren**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Klicken Sie auf **Vorschau**, um zu sehen, wie es in einer Kampagne dargestellt wird (das Formular wird nicht in der Editor-Ansicht angezeigt). Hier ein Beispiel, wie der oben aufgeführte Formularcode in einer Kampagne mit einem Hintergrundbild wiedergegeben wird.
+1. Klicken **Vorschau** Sie können sehen, wie es in einer Kampagne dargestellt wird (das Formular wird nicht in der Editor-Ansicht angezeigt). Hier ist ein Beispiel dafür, wie der oben aufgeführte Formular-Code in einer Kampagne mit einem Hintergrundbild wiedergegeben wird.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [CSS eines Formularthemas bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Danksagungsnachricht ohne Follow-up-Landingpage anzeigen](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [CSS eines Formulardesigns bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Dankesnachricht ohne Folgenachrichten-Landingpage anzeigen](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [Formulare 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
 

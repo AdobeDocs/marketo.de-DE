@@ -1,69 +1,68 @@
 ---
 unique-page-id: 10092730
-description: Vorschau einer Push-Benachrichtigung - Marketing Docs - Produktdokumentation
+description: Vorschau einer Push-Benachrichtigung - Marketo-Dokumente - Produktdokumentation
 title: Vorschau einer Push-Benachrichtigung
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-
 # Vorschau einer Push-Benachrichtigung {#preview-a-push-notification}
 
-Es ist einfach, die Darstellung Ihrer Push-Benachrichtigung für Android oder iOS Vorschau. Es gibt vier Möglichkeiten, das zu tun.
+Es ist einfach, eine Vorschau Ihrer Push-Benachrichtigung für Android oder iOS anzuzeigen. Es gibt vier Möglichkeiten, das zu tun.
 
-Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei für die zu Vorschau Benachrichtigung und klicken Sie auf **Vorschau**.
+Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei für die Benachrichtigung, die Sie in der Vorschau anzeigen möchten, und klicken Sie auf **Vorschau**.
 
 >[!NOTE]
 >
->Wenn die Push-Benachrichtigung nur für eine Plattform aktiviert ist, wird die Registerkarte für die andere Plattform nicht angezeigt.
+>Wenn die Push-Benachrichtigung nur für eine Plattform aktiviert wurde, wird der Tab für die andere Plattform nicht angezeigt.
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Oder klicken Sie auf der Seite &quot;Ansicht der Push-Benachrichtigung&quot;auf **Push-Benachrichtigungsaktionen** und dann **Vorschau**. Oder klicken Sie ganz rechts auf **Vorschau**.
+Oder klicken Sie auf der Seite mit der Ansicht &quot;Push Notification&quot;auf **Push-Benachrichtigungsaktionen** und dann **Vorschau**. Oder klicken Sie auf **Vorschau** ganz rechts.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Schließlich können Sie im Editor oben rechts auf die Registerkarte **Vorschau Draft** klicken, während Sie an der Benachrichtigung arbeiten.
+Schließlich können Sie im Editor auf die **Vorschau des Entwurfs** in der oberen rechten Ecke der Benachrichtigung angezeigt.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
-## Android-Vorschauen {#android-previews}
+## Android-Vorschau {#android-previews}
 
-Klicken Sie auf das Symbol auf der linken Seite, um genau zu sehen, wo die Push-Benachrichtigung angezeigt wird, wenn Sie sie senden. Klicken Sie auf oder verwenden Sie die Pfeiltasten, um zwischen ihnen umzuschalten.
+Klicken Sie auf das Symbol auf der linken Seite, um genau zu sehen, wo die Push-Benachrichtigung beim Senden angezeigt wird. Klicken oder verwenden Sie Tastaturpfeile, um zwischen ihnen umzuschalten.
 
-Auf dem Startbildschirm erscheint die Benachrichtigung etwas unterhalb des oberen Bereichs unter den Symbolen.
+Auf dem Startbildschirm wird die Benachrichtigung etwas unter den Symbolen oben angezeigt.
 
 ![](assets/image2015-9-17-16-3a57-3a0.png)
 
-Im Anzeigebereich &quot;Sperren&quot;wird es unter der Zeit partway nach unten angezeigt.
+Auf dem Bildschirm &quot;Sperren&quot;wird es unter der Zeit teilweise nach oben angezeigt.
 
 ![](assets/image2015-9-17-16-3a58-3a47.png)
 
 >[!NOTE]
 >
->Es gibt keine Ansicht für das Benachrichtigungscenter in Android.
+>In Android gibt es keine Ansicht des Benachrichtigungszentrums.
 
-## iOS-Vorschauen {#ios-previews}
+## iOS-Vorschau {#ios-previews}
 
-Klicken Sie wie bei Android auf oder verwenden Sie Tastaturpfeile, um zwischen den Ansichten zu wechseln.
+Wie bei Android können Sie durch Klicken oder Verwenden von Tastaturpfeilen zwischen Ansichten wechseln.
 
 Auf dem Startbildschirm wird die Benachrichtigung oben angezeigt.
 
 ![](assets/image2015-9-17-17-3a0-3a28.png)
 
-Im Anzeigebereich &quot;Sperren&quot;wird die Partway-Funktion nach unten angezeigt.
+Auf dem Bildschirm &quot;Sperren&quot;wird er teilweise nach unten angezeigt.
 
 ![](assets/image2015-9-17-17-3a2-3a1.png)
 
-Im Anzeigebereich &quot;Benachrichtigungscenter&quot;befindet er sich oben,
+Im Bildschirm &quot;Benachrichtigungszentrum&quot;oben befindet er sich oben.
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 
-Mit der Vorschau der Push-Benachrichtigung wissen Sie also immer, was Ihre Kunden sehen werden!
+Mit der Push-Benachrichtigungs-Vorschau wissen Sie immer, was Ihre Kunden sehen werden!
 
 >[!MORELIKETHIS]
 >

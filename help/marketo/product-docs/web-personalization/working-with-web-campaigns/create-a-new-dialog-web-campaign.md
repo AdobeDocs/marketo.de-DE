@@ -1,33 +1,32 @@
 ---
 unique-page-id: 4719398
-description: Neue Dialogfeld-Web-Kampagne - Marketing-Dokumente - Produktdokumentation erstellen
-title: Eine neue Dialogfeld-Web-Kampagne erstellen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Erstellen einer neuen Webkampagne für ein Dialogfeld - Marketo-Dokumente - Produktdokumentation
+title: Erstellen einer neuen Web-Kampagne für Dialogfelder
+exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '748'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Erstellen einer neuen Web-Kampagne für Dialogfelder {#create-a-new-dialog-web-campaign}
 
-# Neue Dialogfeld-Web-Kampagne {#create-a-new-dialog-web-campaign} erstellen
+## Erstellen einer Web-Kampagne für Dialogfelder {#create-a-dialog-web-campaign}
 
-## Erstellen einer Web-Kampagne für ein Dialogfeld {#create-a-dialog-web-campaign}
+Erstellen Sie eine Webkampagne, um Ihren Webinhalt in Echtzeit zu personalisieren und dem richtigen Benutzer die richtige Nachricht zur richtigen Zeit bereitzustellen.
 
-Erstellen Sie eine Web-Kampagne, um Ihre Webinhalte in Echtzeit zu personalisieren und dem richtigen Benutzer die richtige Nachricht zur richtigen Zeit bereitzustellen.
+Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist. Die Reaktion kann ein Dialogfeld auf Ihrer Website sein, eine [in Bereichsersetzung](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), [Widget-Funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) oder einen E-Mail-Warnhinweis.
 
-Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die einem bestimmten Segment zugeordnet ist. Die Reaktion kann ein Dialogfeld auf Ihrer Website, ein [In-Zone-Ersatz](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), eine [Widget-Funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) oder eine E-Mail-Warnung sein.
-
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Navigieren Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Wählen Sie **Neue Web-Kampagne erstellen**.
+1. Auswählen **Neue Web-Kampagne erstellen**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Wählen Sie den Webtyp **Dialog** aus. Entwerfen Sie Ihre kreativen Elemente und fügen Sie sie im Editor hinzu. Klicken Sie auf **Vorschau**, um zu sehen, wie die Web-Kampagne auf Ihrer Site reagiert.
+1. Wählen Sie die **Dialogfeld** Webkampagnentyp. Gestalten Sie Ihre Kreativinhalte und fügen Sie sie im Editor hinzu. Klicken **Vorschau** um zu sehen, wie die Web-Kampagne auf Ihrer Site reagieren wird.
 
    ![](assets/new-3.png)
 
@@ -40,87 +39,87 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die einem bestimmten Se
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Anzeigen auf</strong></td> 
-   <td colspan="1">Ermöglicht Ihnen, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">anzupassen, wann und wie</a> Ihre Web-Kampagne angezeigt wird.</td> 
+   <td colspan="1"><strong>Anzeige auf</strong></td> 
+   <td colspan="1">Ermöglicht Ihnen Folgendes: <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">Anpassen, wann und wie</a> Ihre Webkampagne angezeigt.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Dialogfeldstil</strong></td> 
+   <td colspan="1" rowspan="1"><strong>Stil des Dialogfelds</strong></td> 
    <td colspan="1" rowspan="1"> 
     <ul> 
-     <li>Modern Trim - Ein stilvoller und unverwechselbarer Dialog mit halbtransparentem schwarzen Schnitt und abgerundeten Ecken</li> 
-     <li>Modern Trim II - Ein stilvoller und unverwechselbarer Dialog mit einem hellen Schattentrimm und abgerundeten Ecken und einem Schließen-Knopf</li> 
+     <li>Modern Trim - Ein stilvolles und unverwechselbares Dialogfeld mit halbtransparentem schwarzen Schnitt und abgerundeten Ecken</li> 
+     <li>Modern Trim II - Ein stilvolles und unverwechselbares Dialogfeld mit einem hellen Schattentrimm und abgerundeten Ecken und einem Schließen-Knopf</li> 
      <li>Transparent - Ein vollständig transparentes Dialogfeld, ideal für transparente (png) Bilder für Ihren Aktionsaufruf. </li> 
-     <li>Einfach - Ein einfacher Dialog mit einem dicken Titelbereich, der Ihre grundlegenden Dialogfeldanforderungen erfüllt.</li> 
+     <li>Einfach - Ein einfaches Stildialogfeld mit dichterem Kopfzeilenraum für Titel, der Ihre grundlegenden Dialogfeldanforderungen erfüllt.</li> 
     </ul></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>In/Out animieren</strong></td> 
-   <td colspan="1">Wird beim Ein- und/oder Ausstieg des Dialogfelds eingestellt. Wählen Sie Effekt (Tropfen, Blind, Folie, Überblenden, kein Effekt), Dauer (in Sekunden) und Richtung (nach oben, nach unten, nach links, rechts).</td> 
+   <td colspan="1"><strong>Ein-/Ausblenden von Animationen</strong></td> 
+   <td colspan="1">Wird beim Ein- und/oder Ausstieg des Dialogfelds eingestellt. Wählen Sie den Effekt (Dropdown, blind, Folie, Überblendung, kein Effekt), die Dauer (in Sekunden) und die Richtung (oben, unten, links, rechts) aus.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Position</strong></p></td> 
    <td colspan="1" rowspan="1">Wählen Sie eine der 9 Optionen für die Position des Dialogfelds auf der Seite aus. Wenn Sie beispielsweise das mittlere Feld auswählen, wird das Dialogfeld in der Mitte des Bildschirms angezeigt.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Von Koordinaten</strong></p><p><br></p></td> 
-   <td colspan="1" rowspan="1">Für weitere Positionierungsoptionen des Dialogfelds aktivieren Sie das Kontrollkästchen "Positionskoordinaten"und geben die genauen Bildschirmkoordinaten (horizontal, vertikal) ein, an denen das Dialogfeld angezeigt werden soll.</td> 
+   <td colspan="1" rowspan="1"><p><strong>Nach Koordinaten</strong></p><p><br></p></td> 
+   <td colspan="1" rowspan="1">Um weitere Positionierungsoptionen des Dialogfelds zu erhalten, aktivieren Sie das Kontrollkästchen "Positionskoordinaten"und geben Sie die genauen Bildschirmkoordinaten (Horizontal, Vertikal) an, an denen das Dialogfeld angezeigt werden soll.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Schaltflächenfüllung</strong></td> 
-   <td colspan="1">Passen Sie die Schließen-Schaltfläche des Modals mit Farbe, Stil und Position an. Sie können auch eine eigene Schaltfläche verwenden, indem Sie im Feld "Bild-URL"eine Verknüpfung zu dieser Schaltfläche erstellen.</td> 
+   <td colspan="1"><strong>Ausfüllen Schaltfläche</strong></td> 
+   <td colspan="1">Passen Sie die Schließen-Schaltfläche des Modals mit Farbe, Stil und Position an. Sie können auch Ihre eigene Schaltfläche verwenden, indem Sie im Feld Bild-URL eine Verknüpfung dazu erstellen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Sticky</strong></td> 
-   <td colspan="1">Wenn Sie das Kontrollkästchen "Stickiness"aktivieren, bleibt das Dialogfeld ohne Zeitbeschränkung in Position, bis es vom Benutzer geschlossen wird, und wird während der gesamten Sitzung des Besuchers auf allen Seiten angezeigt.</td> 
+   <td colspan="1"><strong>Anhaftend</strong></td> 
+   <td colspan="1">Wenn Sie das Kontrollkästchen "Sticky"aktivieren, bleibt das Dialogfeld ohne Zeitbeschränkung an Position, bis es vom Benutzer geschlossen wird, und wird während der gesamten Sitzung des Besuchers auf allen Seiten angezeigt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Modal</strong></td> 
-   <td colspan="1">Stellt mehr Fokus auf das Dialogfeld und startet es mit einem dunklen Hintergrund hinter dem Dialogfeld, wodurch das Benutzerbewusstsein für das Dialogfeld erhöht wird.</td> 
+   <td colspan="1">Stellt den Fokus auf das Dialogfeld mehr her und startet es mit einem dunklen Hintergrund hinter dem Dialogfeld, wodurch das Benutzerbewusstsein für das Dialogfeld erhöht wird.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Modalfarbe</strong></td> 
-   <td colspan="1">Passen Sie die Farbe und Deckkraft des Modals an.</td> 
+   <td colspan="1"><strong>Popup-Farbe</strong></td> 
+   <td colspan="1">Passen Sie die Farbe des Modals sowie die Deckkraft an.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Timeout </strong></td> 
+   <td colspan="1"><strong>Zeitüberschreitung </strong></td> 
    <td colspan="1">Die Anzahl der Sekunden, die das Dialogfeld vor dem Ausblenden aktiviert wird.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kopfzeilenfarbe</strong></td> 
-   <td colspan="1">Legen Sie die Kopfzeilenleiste des Dialogfelds auf die gewünschte Farbe fest. Die Farbe kann aus einem Farbdiagramm ausgewählt oder als Hex-Farbcode eingegeben werden. </td> 
+   <td colspan="1">Legen Sie die Kopfzeilenleiste des Dialogfelds auf die gewünschte Farbe fest. Die Farbe kann aus einem Farbdiagramm ausgewählt oder als Hexadezimalfarbcode eingegeben werden. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Hintergrundfarbe des Inhalts </strong></td> 
-   <td colspan="1">Legen Sie die Hintergrundfarbe des Dialogfelds auf die gewünschte Farbe fest. Die Farbe kann aus einem Farbdiagramm ausgewählt oder als Hex-Farbcode eingegeben werden. </td> 
+   <td colspan="1">Legen Sie die Hintergrundfarbe des Dialogfelds auf die gewünschte Farbe fest. Die Farbe kann aus einem Farbdiagramm ausgewählt oder als Hexadezimalfarbcode eingegeben werden. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dialogtitel</strong></td> 
-   <td colspan="1">hinzufügen Sie einen Titel in der KopfzeilenTitelleiste des Dialogfelds.</td> 
+   <td colspan="1">Fügen Sie der KopfzeilenTitelleiste des Dialogfelds einen Titel hinzu.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Breite und Höhe</strong></td> 
    <td colspan="1">Wählen Sie die Pixelgröße des Dialogfelds aus.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Breite, Auto</strong></td> 
-   <td colspan="1">Wenn Sie dieses Kontrollkästchen aktivieren, kann das Dialogfeld automatisch an die Inhaltsbreite angepasst werden.</td> 
+   <td colspan="1"><strong>Breite automatisch</strong></td> 
+   <td colspan="1">Wenn Sie dieses Kontrollkästchen aktivieren, wird das Dialogfeld automatisch an die Inhaltsbreite angepasst.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Größe </strong></td> 
-   <td colspan="1">Wenn Sie das Kontrollkästchen zum Ändern der Größe aktivieren, kann die Größe des Dialogfelds vom Benutzer geändert werden.</td> 
+   <td colspan="1"><strong>Veränderbare Größe </strong></td> 
+   <td colspan="1">Wenn Sie das Kontrollkästchen zum Ändern der Größe aktivieren, kann der Benutzer die Größe des Dialogfelds ändern.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Rich-Text-Editor</strong></td> 
+   <td colspan="1"><strong>RTF-Editor</strong></td> 
    <td colspan="1"><p>Der Rich-Text-Editor ermöglicht die Textformatierung, Verknüpfung und Einfügen von Bildern. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Mehr dazu hier</a>.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Vorschau vor Ort</strong></td> 
-   <td colspan="1">Kampagnen der Vorschau vor dem Start.<br> 
+   <td colspan="1"><strong>Vorschau auf Website</strong></td> 
+   <td colspan="1">Anzeigen einer Vorschau von Kampagnen vor dem Start<br> 
     <ul> 
-     <li>URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt wird, um ein Beispiel für die Vorschau der Live-Darstellung der Kampagne anzuzeigen.</li> 
-     <li>Gerät - Vorschau, wie Ihre Kampagne auf dem Gerät angezeigt wird: Desktop, mobiles Hochformat, Mobile Querformat, Tablet Hochformat, Hochformat.<br></li> 
-     <li>Vorschau - Klicken Sie auf <strong>Vorschau </strong>um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert. </li> 
-     <li>Freigeben: Verwenden Sie die Schaltfläche Freigeben, um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
+     <li>URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne laufen würde, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li> 
+     <li>Gerät - Sehen Sie sich die Darstellung Ihrer Kampagne auf dem Gerät in der Vorschau an: Desktop, Mobiles Hochformat, Mobiles Querformat, Tablet-Hochformat, Hochformat.<br></li> 
+     <li>Vorschau - Klicken <strong>Vorschau </strong>um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert. </li> 
+     <li>Freigabe - Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -128,38 +127,38 @@ Eine Web-Kampagne ist eine benutzerspezifische Reaktion, die einem bestimmten Se
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung Ihrer Kampagne, indem Sie unsere [integrierten Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) oder [Ihre vorhandene Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung speichern.
+>Beschleunigen und vereinfachen Sie Ihren Kampagnenerstellungsprozess mithilfe des [integrierte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) oder [Speichern vorhandener Kampagnen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
 
-## Eine Web-Kampagne bearbeiten {#edit-a-web-campaign}
+## Eine Webkampagne bearbeiten {#edit-a-web-campaign}
 
-1. Klicken Sie auf der Seite **Web-Kampagnen** auf **Bearbeiten** in der Web-Kampagne.
+1. Aus dem **Web-Kampagnen** Seite, klicken Sie auf **Bearbeiten** in der Webkampagne.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
+>Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
+## Vorschau einer Webkampagne {#preview-a-web-campaign}
 
-1. Klicken Sie auf der Seite **Web-Kampagnen** auf **Vorschau** in der Web-Kampagne, die Sie Ansicht wünschen.
+1. Aus dem **Web-Kampagnen** Seite, klicken Sie auf **Vorschau** in der Webkampagne, die Sie anzeigen möchten.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## Klonen einer Web-Kampagne {#clone-a-web-campaign}
+## Eine Webkampagne klonen {#clone-a-web-campaign}
 
-Siehe [Eine Web-Kampagne klonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Siehe [Eine Webkampagne klonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Eine Web-Kampagne {#delete-a-web-campaign} löschen
+## Eine Webkampagne löschen {#delete-a-web-campaign}
 
-1. Klicken Sie auf der Seite **Web-Kampagnen** auf **Löschen** in der zu löschenden Web-Kampagne.
+1. Aus dem **Web-Kampagnen** Seite, klicken Sie auf **Löschen** in der Webkampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
-1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, ob Sie die Web-Kampagne löschen möchten.
+1. Eine Bestätigungsmeldung wird angezeigt, um zu bestätigen, ob Sie die Webkampagne löschen möchten.
 
 >[!MORELIKETHIS]
 >
->* [RTP in Zone-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [RTP-Widget-Kampagne erstellen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 

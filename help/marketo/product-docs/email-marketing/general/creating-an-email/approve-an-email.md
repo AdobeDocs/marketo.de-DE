@@ -1,36 +1,35 @@
 ---
 unique-page-id: 1147342
-description: E-Mail genehmigen - Marketing-Dokumente - Produktdokumentation
+description: E-Mail genehmigen - Marketo-Dokumente - Produktdokumentation
 title: E-Mail genehmigen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# E-Mail genehmigen {#approve-an-email}
 
-# Genehmigen einer E-Mail {#approve-an-email}
+E-Mails beginnen im Entwurfsstatus. Sie sind im System in der Regel nicht verfügbar, bis Sie sie genehmigen. Es gibt verschiedene Möglichkeiten, eine E-Mail zu validieren.
 
-E-Mail-Beginn im Entwurfszustand. Sie sind im System generell nicht verfügbar, bis Sie sie genehmigen. Es gibt einige Möglichkeiten, eine E-Mail zu genehmigen.
+## Validierung über das Menü E-Mail-Aktionen {#approve-it-using-the-email-actions-menu}
 
-## Genehmigen Sie es mithilfe des Menüs &quot;E-Mail-Aktionen&quot; {#approve-it-using-the-email-actions-menu}
-
-1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Genehmigen**.
+1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie auf das **E-Mail-Aktionen** und wählen Sie **Genehmigen**.
 
    ![](assets/one.png)
 
-## Direkt in der Struktur {#approve-it-directly-in-the-tree} genehmigen
+## Direkte Genehmigung im Baum {#approve-it-directly-in-the-tree}
 
 1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Genehmigen**.
 
    ![](assets/approveemail.png)
 
-## Genehmigen Ihrer E-Mail im E-Mail-Editor {#approve-your-email-in-the-email-editor}
+## E-Mail im E-Mail-Editor genehmigen {#approve-your-email-in-the-email-editor}
 
-1. Klicken Sie in Ihrer E-Mail auf die Dropdownliste **E-Mail-Aktionen** und wählen Sie **Genehmigen und Schließen**.
+1. Klicken Sie in Ihrer E-Mail auf die **E-Mail-Aktionen** und wählen Sie **Genehmigen und schließen**.
 
    ![](assets/three.png)
 
-Nach der Genehmigung ist Ihre E-Mail einsatzbereit!
+Nach der Validierung ist Ihre E-Mail einsatzbereit!

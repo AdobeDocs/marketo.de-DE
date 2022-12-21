@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147074
-description: Automatische Bereinigung der Trigger-Kampagne - Marketo Docs - Produktdokumentation
+description: Automatische Trigger-Kampagnenbereinigung - Marketo-Dokumente - Produktdokumentation
 title: Automatische Auslöser-Kampagnenbereinigung
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
@@ -13,46 +12,46 @@ ht-degree: 3%
 
 # Automatische Auslöser-Kampagnenbereinigung {#automatic-trigger-campaign-cleanup}
 
-Marketo verfügt über einen netten und kostenlosen Dienst zum Deaktivieren von ausgelösten intelligenten Kampagnen, die keine Aktivität mehr erhalten. Dies beschleunigt die Gesamtleistung des Systems und spart Ihnen Zeit.
+Marketo bietet einen netten/kostenlosen Dienst zum Deaktivieren von ausgelösten Smart-Kampagnen, die keine Aktivität mehr erhalten. Dies beschleunigt die Gesamtleistung des Systems und spart Ihnen Zeit.
 
 ## Was passiert? {#what-happens}
 
-Einmal im Quartal wird Marketo intelligente Kampagnen finden, die seit sechs Monaten (keine Personen) schlafen und sie deaktivieren.
+Einmal im Quartal wird Marketo intelligente Kampagnen finden, die seit mindestens sechs Monaten ruhen (keine Personen), und diese deaktivieren.
 
 ## Wirst du mich zuerst benachrichtigen? {#will-you-notify-me-first}
 
-Natürlich! Einmal im Quartal erhalten Sie eine Benachrichtigung eine Woche im Voraus, in der jede Kampagne angezeigt wird, die wir zum Deaktivieren planen.
+Natürlich! Einmal im Quartal erhalten Sie eine Woche im Voraus eine Benachrichtigung, die alle Kampagnen anzeigt, die wir zur Deaktivierung planen.
 
-1. Gehen Sie zur Registerkarte **Benachrichtigungen**.
+1. Navigieren Sie zu **Benachrichtigungen** Registerkarte.
 
    ![](assets/notifications.png)
 
-1. Klicken Sie auf **Kampagne des Leerlaufzeichens geplant**. Klicken Sie dann auf den Link **Diese Kampagnen des Idle-Triggers werden deaktiviert**.
+1. Klicken **Ungenutzte Trigger-Kampagnenbereinigung geplant**. Klicken Sie anschließend auf **Diese Idle Trigger-Kampagnen werden deaktiviert** Link.
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
-   Es wird eine Liste mit intelligenten Kampagnen angezeigt, deren Deaktivierung geplant ist.
+   Es wird eine Liste mit Smart-Kampagnen angezeigt, deren Deaktivierung geplant ist.
 
    ![](assets/image2015-4-27-20-3a35-3a29.png)
 
 ## Welche Kampagnen werden deaktiviert? {#which-campaigns-will-be-deactivated}
 
-Wir werden nur Kampagnen deaktivieren, die seit über 6 Monaten aktiv sind, für die in diesem Zeitraum jedoch 0 Personen infrage kommen.
+Wir werden nur Trigger-Kampagnen deaktivieren, die seit über 6 Monaten aktiv sind, für die in diesem Zeitraum jedoch 0 Personen qualifiziert waren.
 
 ## Einen Augenblick! Nicht diese Kampagne! {#wait-not-this-campaign}
 
-Keine Sorge - die Uhr auf jeder intelligenten Kampagne kann wie folgt zurückgesetzt werden:
+Keine Sorge - die Uhr einer Smart-Kampagne kann wie folgt zurückgesetzt werden:
 
-* Eine Person, die für die Kampagne qualifiziert ist.
-* Manuelles Deaktivieren und erneutes Aktivieren der Kampagne.
+* Eine Person, die sich für die Kampagne qualifiziert.
+* Manuelles Deaktivieren und Reaktivieren der Kampagne.
 
 Beide setzen den 6-Monats-Zähler zurück.
 
-## Kannst du mir mitteilen, welche Kampagnen deaktiviert wurden? {#will-you-let-me-know-which-campaigns-were-deactivated}
+## Teilen Sie mir mit, welche Kampagnen deaktiviert wurden? {#will-you-let-me-know-which-campaigns-were-deactivated}
 
-Absolut - eine Woche nach der ursprünglichen Benachrichtigung werden wir die aufgelisteten Kampagnen deaktivieren (abzüglich aller, die mindestens eine Person qualifiziert haben oder deaktiviert/reaktiviert wurden) und eine Bestätigungsmeldung veröffentlichen.
+Absolut - Eine Woche nach der ursprünglichen Benachrichtigung werden wir die aufgelisteten Kampagnen deaktivieren (abzüglich aller Kampagnen, die mindestens eine Person qualifiziert oder deaktiviert/reaktiviert wurden) und eine Bestätigungsbenachrichtigung versenden.
 
-1. Wählen Sie die Benachrichtigung **Säuberung der Kampagne des Triggers geplant** aus. Klicken Sie auf den Link **Diese Kampagnen des Idle-Triggers**.
+1. Wählen Sie die **Ungenutzte Trigger-Kampagnenbereinigung geplant** Benachrichtigung. Klicken Sie auf **Diese inaktiven Trigger-Kampagnen** Link.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 

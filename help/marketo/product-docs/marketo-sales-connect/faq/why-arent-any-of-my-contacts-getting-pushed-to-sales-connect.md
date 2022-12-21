@@ -1,16 +1,15 @@
 ---
 unique-page-id: 14352486
-description: Warum werden meine Kontakte nicht an den Vertrieb weitergeleitet? - Marketing Docs - Produktdokumentation
-title: Warum werden meine Kontakte nicht an den Vertrieb weitergeleitet?
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Warum werden keine meiner Kontakte an den Vertrieb weitergeleitet? - Marketo-Dokumente - Produktdokumentation
+title: Warum werden keine meiner Kontakte an den Vertrieb weitergeleitet?
+exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
+# Warum werden keine meiner Kontakte an den Vertrieb weitergeleitet? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-# Warum werden meine Kontakte nicht an den Vertrieb weitergeleitet? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
-
-Wenn keine Kontakte weitergegeben wurden, ist es möglich, dass Sie eine ungültige Salesforce-Verbindung haben. Gehen Sie zu den Einstellungen für [Salesforce](https://toutapp.com/login) und trennen Sie die Verbindung und stellen Sie dann die Verbindung wieder her. Geben Sie es etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn danach immer noch null ist, senden Sie bitte [eine Case](https://nation.marketo.com/t5/Support/ct-p/Support#) an Support.
+Wenn keine Kontakte übertragen wurden, ist es möglich, dass Sie eine ungültige Salesforce-Verbindung haben. Gehen Sie zu [Salesforce-Einstellungen](https://toutapp.com/login) und trennen Sie dann die Verbindung. Geben Sie es etwa 20 Minuten, um vollständig zurückzusetzen. Wenn es danach immer noch null ist, bitte [Fall einreichen](https://nation.marketo.com/t5/Support/ct-p/Support#) auf Support.

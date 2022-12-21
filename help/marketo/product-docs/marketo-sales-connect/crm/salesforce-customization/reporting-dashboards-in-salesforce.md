@@ -1,42 +1,41 @@
 ---
 unique-page-id: 14352464
-description: Berichte-Dashboard in Salesforce - Marketing Docs - Produktdokumentation
-title: Berichte-Dashboards in Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Reporting-Dashboards in Salesforce - Marketo-Dokumente - Produktdokumentation
+title: Reporting-Dashboards in Salesforce
+exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
+# Reporting-Dashboards in Salesforce {#reporting-dashboards-in-salesforce}
 
-# Berichte-Dashboard in Salesforce {#reporting-dashboards-in-salesforce}
+Erfahren Sie unten, wie Sie Dashboards einrichten.
 
-Hier erfahren Sie, wie Sie Dashboard einrichten.
+## Bericht öffnen und klicken {#open-and-click-report}
 
-## Öffnen und auf Bericht {#open-and-click-report} klicken
-
-1. Wählen Sie den Datensatztyp **Aufgaben und Ereignis** aus.
-1. Definieren Sie die Berichtsparameter basierend auf Ihrem gewünschten Zeitraum und Ihrer Hierarchiestruktur.
-1. hinzufügen Sie einen Filter, um bei Salesforce angemeldete interne E-Mails zu entfernen (z. B. Firma/Konto nicht gleich Marketo).
-1. Wählen Sie das Berichtsformat **Zusammenfassung**.
-1. hinzufügen die Felder Betreff, Zugewiesen und Marketo-Verkauf angeklickt/Verkauf angezeigt zum Bericht.
-1. Klicken Sie im Bereich &quot;Felder&quot;mit der Dublette auf **Hinzufügen Formel**.
-1. hinzufügen Sie der Formel einen Namen, wählen Sie **Prozent** im Format aus und wählen Sie **Gruppierung 1**.
-1. Wählen Sie **Angeklickter/marketo-Verkauf,** und **Summe** in den Zusammenfassungsfeldern.
-1. hinzufügen Sie ein Divide-Zeichen zur Formel und wählen Sie dann **Record Count** in den Feldern Summary - _Save As_.
+1. Wählen Sie die **Aufgaben und Ereignisse** Record Type.
+1. Definieren Sie die Berichtsparameter basierend auf dem gewünschten Zeitraum und der gewünschten Hierarchie-Struktur.
+1. Fügen Sie einen Filter hinzu, um in Salesforce protokollierte interne E-Mails zu entfernen (z. B. Unternehmen/Konto nicht gleich Marketo).
+1. Wählen Sie die **Zusammenfassung** Berichtsformat.
+1. Fügen Sie die Felder Betreff, Zugeordneter und Marketo Sales Clicked/Marketo Sales Viewed zum Bericht hinzu.
+1. Doppelklicken Sie auf **Formel hinzufügen** im Bereich Felder .
+1. Fügen Sie der Formel einen Namen hinzu, wählen Sie **Prozent** im Format und wählen Sie **Gruppierung 1**.
+1. Auswählen **Marketo Sales Clicked/Marketo Sales Viewed,** then **Summe** in den Zusammenfassungsfeldern.
+1. Fügen Sie der Formel ein Trennzeichen hinzu und wählen Sie dann **Datensatzanzahl** in den Feldern &quot;Zusammenfassung&quot;- _Speichern unter_.
 
 ## Vorlagenleistungsbericht {#template-performance-report}
 
-1. Passen Sie den Bericht Öffnen und Klicken an, um die folgenden Felder einzuschließen: _Speichern unter_.
+1. Anpassen des Berichts &quot;Öffnen und Klicken&quot;, um die folgenden Felder einzuschließen: _Speichern unter_.
 
 ## Vorlagenvolumenbericht {#template-volume-report}
 
-1. Ändern Sie den Bericht &quot;Vorlagenleistung&quot;und fügen Sie den Filter &quot;Vorlage für den Vertrieb nicht leer&quot;ein.
-1. Entfernen Sie das angeklickte Feld Markieren zum Verkauf - _Speichern unter_.
+1. Ändern Sie den Vorlagenleistungsbericht und fügen Sie den Filter &quot;Marketo Sales Template not equal to blank&quot;ein.
+1. Entfernen Sie das Feld Marketo Sales Clicked : _Speichern unter_.
 
-## Trendkontenbericht {#trending-accounts-report}
+## Trendberichte zu Konten {#trending-accounts-report}
 
-1. Wählen Sie Aktivitäten mit Datensatztyp &quot;Konten&quot;aus.
-1. Richten Sie die Berichtsparameter und -felder wie unten beschrieben ein - _Speichern unter_.
+1. Wählen Sie Aktivitäten mit Datensatztyp Konten aus.
+1. Richten Sie die Berichtsparameter und -felder wie unten angegeben ein - _Speichern unter_.

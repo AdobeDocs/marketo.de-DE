@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 7E {#template-7e}
 
-Klicken Sie mit der rechten Maustaste auf [Download-Vorlage 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+Rechtsklick auf [Download-Vorlage 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 

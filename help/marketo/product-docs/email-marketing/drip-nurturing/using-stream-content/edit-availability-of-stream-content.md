@@ -1,36 +1,35 @@
 ---
 unique-page-id: 2359910
-description: Verfügbarkeit von Stream-Inhalten bearbeiten - Marketing-Dokumente - Produktdokumentation
+description: Verfügbarkeit von Stream-Inhalten bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Verfügbarkeit von Stream-Inhalten bearbeiten
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # Verfügbarkeit von Stream-Inhalten bearbeiten {#edit-availability-of-stream-content}
 
-Sie können einen Zeitraum festlegen, in dem der Inhalt im Stream aktiv sein soll. So geht es.
+Sie können einen Zeitrahmen festlegen, innerhalb dessen der Inhalt in Ihrem Stream aktiv sein soll. So geht es.
 
-1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams** Registerkarte.
 
    ![](assets/cloneasteam-2.jpg)
 
-1. Klicken Sie auf das Zahnradsymbol für das Inhaltselement, das Sie planen möchten, und wählen Sie **Verfügbarkeit bearbeiten**.
+1. Klicken Sie auf das Zahnradsymbol für das Inhaltselement, das Sie planen möchten, und wählen Sie dann **Verfügbarkeit bearbeiten**.
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Wählen Sie das Datum **Aktiv ab**, dann das Datum **Aktiv bis** und klicken Sie auf **Speichern**.
+1. Wählen Sie Ihre **Aktiv ab** date, dann die **Aktiv bis** Datum und Klicken **Speichern**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Sie können **Aktiv bis** leer lassen, um Inhalte für immer verfügbar zu machen.
+   >Sie können **Aktiv bis** leer, um Inhalte für immer verfügbar zu machen.
 
-   Perfekt! Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Es wird gemäß dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
+   Perfekt! Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Sie wird entsprechend dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

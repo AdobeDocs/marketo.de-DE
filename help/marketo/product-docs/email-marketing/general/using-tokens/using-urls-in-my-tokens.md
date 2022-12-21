@@ -1,74 +1,73 @@
 ---
 unique-page-id: 11382535
-description: Verwenden von URLs in "Meine Token - Marketing Docs - Produktdokumentation"
-title: Verwenden von URLs in "Meine Token"
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Verwenden von URLs in My Tokens - Marketo Docs - Produktdokumentation
+title: Verwenden von URLs in My Tokens
+exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Verwenden von URLs in My Tokens {#using-urls-in-my-tokens}
 
-Gehen Sie wie folgt vor, um mit &quot;Meine Token&quot;URLs in Ihre E-Mails einzufügen.
+Gehen Sie wie folgt vor, um mithilfe von My Tokens URLs in E-Mails einzufügen.
 
 1. Wählen Sie Ihr Programm aus und klicken Sie auf **Meine Token**.
 
    ![](assets/one-4.png)
 
-1. Wählen Sie das Token **Text** Mein Token aus, ziehen Sie es auf die Arbeitsfläche und legen Sie es dort ab.
+1. Wählen Sie die **Text** Mein Token, ziehen Sie es auf die Arbeitsfläche.
 
    ![](assets/two-4.png)
 
-1. Geben Sie dem Token einen eindeutigen Namen, geben Sie eine URL ein (ohne https://) und klicken Sie auf **Speichern**.
+1. Geben Sie dem Token einen eindeutigen Namen, eine URL (ohne https://) ein und klicken Sie auf **Speichern**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, geben Sie **nicht** in den Wert des Tokens https:// ein.
+   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, führen Sie **not** Geben Sie https:// in den Wert des Tokens ein.
 
 1. Wählen Sie die E-Mail in Ihrem Programm aus.
 
    ![](assets/four-3.png)
 
-1. Klicken Sie auf **Entwurf bearbeiten**.
+1. Klicken **Entwurf bearbeiten**.
 
    ![](assets/five-3.png)
 
-1. Klicken Sie mit der Dublette in den zu bearbeitenden Textbereich.
+1. Doppelklicken Sie auf den zu bearbeitenden Textbereich.
 
    ![](assets/six-1.png)
 
-1. Geben Sie an beliebiger Stelle in Ihrer E-Mail &quot;https://&quot;(ohne nach dem Verlassen eines Leerzeichens) ein und klicken Sie auf das Symbol &quot;Token einfügen&quot;.
+1. Geben Sie an beliebiger Stelle in Ihrer E-Mail &quot;https://&quot;ein (ohne dass ein Leerzeichen danach steht) und klicken Sie auf das Symbol Token einfügen .
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Sie haben natürlich auch die Möglichkeit, &quot;https&quot; einzugeben, wenn Ihre Site es verwendet.
+   >Sie haben natürlich auch die Möglichkeit, &quot;https&quot; einzugeben, wenn Ihre Site dies verwendet.
 
-1. Suchen Sie Ihr My Token, wählen Sie es aus und klicken Sie auf **Insert**.
+1. Suchen Sie Ihr My Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
 
    ![](assets/eight.png)
 
-1. Markieren Sie https:// und Token und drücken Sie dann Strg/Cmd+X (Strg = Windows/Cmd = Mac), um den Text zu schneiden.
+1. Markieren Sie https:// und das Token und drücken Sie dann Strg/Befehl+X (Strg = Windows/Befehl = Mac), um den Text auszuschneiden.
 
    ![](assets/nine.png)
 
-1. Markieren Sie den Text, der als Link angezeigt werden soll, und klicken Sie auf das Symbol &quot;Link einfügen/bearbeiten&quot;.
+1. Markieren Sie den Text, den der Link anzeigen soll, und klicken Sie auf das Symbol Link einfügen/bearbeiten .
 
    ![](assets/ten.png)
 
-1. Drücken Sie Strg/Cmd+V, um den Inhalt in das Feld **URL** einzufügen, und klicken Sie auf **Einfügen**.
+1. Drücken Sie Strg/Befehl+V , um den Inhalt in die **URL** und klicken Sie auf **Einfügen**.
 
    ![](assets/eleven.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/twelve.png)
 
-   Und du bist fertig! Ihre URL wird nach dem Senden gefüllt, und dank Ihrer https:// vor dem Token wird ein nachverfolgbarer Link erzeugt.
+   Und du bist fertig! Ihre URL wird nach dem Versand ausgefüllt, und dank der Eingabe von https:// vor das Token wird ein verfolgbarer Link generiert.

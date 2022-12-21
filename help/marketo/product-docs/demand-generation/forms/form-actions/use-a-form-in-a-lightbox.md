@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359677
-description: Verwenden Sie ein Formular in einem Leuchtkasten - Marketing Docs - Produktdokumentation
-title: Formular in einem Leuchtkasten verwenden
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Verwenden eines Formulars in einer Lightbox - Marketo Docs - Produktdokumentation
+title: Verwenden eines Formulars in einer Lightbox
+exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Verwenden eines Formulars in einer Lightbox {#use-a-form-in-a-lightbox}
 
-# Formular in einem Leuchtkasten {#use-a-form-in-a-lightbox} verwenden
+Eine Lightbox ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. So geht es.
 
-Ein Leuchtkasten ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. So geht es.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,22 +22,22 @@ Ein Leuchtkasten ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Klicken Sie unter **Formularaktionen** auf **Einbettungscode**.
+1. under **Formularaktionen** klicken **Einbettungscode**.
 
    >[!NOTE]
    >
-   >Das Formular muss genehmigt werden, damit das Element des Einbettungscodes sichtbar/nutzbar ist.
+   >Das Formular muss genehmigt werden, damit das Einbettungscode-Element sichtbar/nutzbar ist.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Setzen Sie **Codetyp** auf **Lightbox**.
+1. Satz **Code-Typ** nach **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Wählen Sie den Code aus oder kopieren Sie ihn und klicken Sie auf **Schließen**.
+1. Wählen/kopieren Sie den Code aus und klicken Sie auf **Schließen**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
-Geben Sie den Code an Ihren Webentwickler weiter und lassen Sie ihn zu Ihrer Website hinzufügen.
+Übergeben Sie den Code an Ihren Web-Entwickler und lassen Sie ihn von diesen zu Ihrer Website hinzufügen.
 
-Gute Arbeit!
+Tolle Arbeit!

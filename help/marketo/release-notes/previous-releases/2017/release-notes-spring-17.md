@@ -18,9 +18,9 @@ Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funkti
 
 ## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Forms sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
+[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
 
-Die Marketo-Integration mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Lead im Lead Gen-Formular bereitstellt. Folgeaktionen und Benachrichtigungen können dann mit dem neuen Trigger **Ausfüllen des LinkedIn Lead Gen-Formulars** automatisiert werden.
+Die Marketo-Integration mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Lead im Lead Gen-Formular bereitstellt. Folgenachrichten und Benachrichtigungen können dann mit der neuen automatisiert werden **Ausfüllen des LinkedIn Lead Gen-Formulars** Trigger und Filter.
 
 ![](assets/release-notes-image.png)
 
@@ -30,7 +30,7 @@ Die Tage der Bereinigung veralteter Vorlagen in Sales Insight sind vorbei. Legen
 
 >[!NOTE]
 >
->Wenn Sie das Ablaufdatum auf den 31.05.17 festlegen, wird die Vorlage am 31.05.17 am Ende des Tages aus Sales Insight entfernt.
+>Wenn Sie das Ablaufdatum auf den 31.05.17 festlegen, wird die Vorlage am Ende des Tages am 31.05.17 aus Sales Insight entfernt.
 
 ![](assets/four-281-29.png)
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 10A {#template-10a}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 10A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10a.html) herunterladen
+Rechtsklick auf [Download-Vorlage 10A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10a.html)
 
 ![](assets/image2015-7-27-10-3a44-3a49.png)
 

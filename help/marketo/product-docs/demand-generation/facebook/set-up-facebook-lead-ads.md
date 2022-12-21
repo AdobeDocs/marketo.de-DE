@@ -62,7 +62,7 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Um die standardmäßigen Facebook- zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **Erstellen**.
+1. Um standardmäßige Facebook- zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **Erstellen**.
 
    >[!TIP]
    >

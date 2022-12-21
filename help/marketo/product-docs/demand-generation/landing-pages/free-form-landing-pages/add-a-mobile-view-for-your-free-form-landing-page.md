@@ -6,7 +6,7 @@ exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -42,7 +42,7 @@ Es ist einfach, Ihre freien Landingpages auf einem Smartphone großartig aussehe
    >
    >Möglicherweise muss die Freiformvorlage aktualisiert werden. Wenn Sie diese Meldung sehen, lesen Sie schnell, wie Sie [Kompatibilität vorhandener Freiform-Landingpage-Vorlagen mit Mobilgeräten](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Sehr gut! Sie haben jetzt die mobile Version Ihrer Landingpage aktiviert. Klicken **Schließen**.
+1. Sehr gut! Sie haben jetzt die mobile Version Ihrer Landingpage aktiviert. Klicken Sie auf **Schließen**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

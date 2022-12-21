@@ -1,8 +1,7 @@
 ---
 unique-page-id: 557074
-description: Marketo-Kernkonzepte - Marketo Docs - Produktdokumentation
-title: Marketo-Kernkonzepte
-translation-type: tm+mt
+description: Grundlegende Marketo-Konzepte - Marketo-Dokumente - Produktdokumentation
+title: Grundlegende Marketo-Konzepte
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -11,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo-Kernkonzepte {#core-marketo-concepts}
+# Grundlegende Marketo-Konzepte {#core-marketo-concepts}
 
-Es gibt einige Schlüsselelemente, um Marketo zu lernen. Lernen Sie diese und Sie werden auf halbem Wege sein, Marketo zu meistern.
-** ![Intelligente Kampagnen](assets/seo-01.png)Intelligente Kampagnen** [Intelligente Kampagnen, die mit intelligenten Listen verwendet werden, ermöglichen die Automatisierung nahezu aller Aktionen.](https://docs.marketo.com/display/DOCS/Smart+Campaigns)     **  ![Intelligente Listen und statische ](assets/office-35.png)ListenIntelligente Listen und statische Listen**  [Intelligente Listen und statische Listen Definiert eine Gruppe von Personen in Ihrer Datenbank und überwacht bestimmte Verhaltensweisen.](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Static+Lists)     **  ![](assets/office-02.png)Programme**  [Programme Diese sind wie Ordner. Fast alles, was Sie tun, wird in einem Programm sein.](https://docs.marketo.com/display/DOCS/Programs)     **  ![Marketingkalender ](assets/office-10.png)Marketingkalender**  [Marketingkalender hilft Marketingteams, ihre Aktivitäten innerhalb einer Kalenderversion zu koordinieren.](https://docs.marketo.com/display/DOCS/Marketing+Calendar)     **  ![Mobile ](assets/mobile-apps.png)AppsMobile Apps**  [Mobile Apps Nehmen Sie Marketo sofort!](core-marketo-concepts/mobile-apps.md)     **  ![](assets/party-11.png)VerschiedenesVerschiedenes**  [Verschiedenes Stuff wir dachten, Sie sollten es wissen.](https://docs.marketo.com/display/DOCS/Miscellaneous)
+Es gibt einige Schlüsselelemente für das Kennenlernen von Marketo. Lernen Sie diese und Sie werden auf halbem Wege sein, Marketo zu meistern.
+** ![Smart-Kampagnen](assets/seo-01.png)Smart-Kampagnen** [Smart-Kampagnen, die mit Smart-Listen verwendet werden, ermöglichen die Automatisierung nahezu aller Aktionsflüsse.](https://docs.marketo.com/display/DOCS/Smart+Campaigns)     ** ![Smart-Listen und statische Listen](assets/office-35.png)Smart-Listen und statische Listen** [Smart-Listen und statische Listen Definiert eine Reihe von Personen in Ihrer Datenbank und überwacht bestimmte Verhaltensweisen.](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Static+Lists)     ** ![Programme](assets/office-02.png)Programme** [Programme Diese sind wie Ordner. Fast alles, was du tust, wird sich in einem Programm befinden.](https://docs.marketo.com/display/DOCS/Programs)     ** ![Marketingkalender](assets/office-10.png)Marketingkalender** [Marketingkalender hilft Marketingteams, ihre Aktivitäten innerhalb einer Kalenderansicht zu koordinieren.](https://docs.marketo.com/display/DOCS/Marketing+Calendar)     ** ![Mobile Apps](assets/mobile-apps.png)Mobile Apps** [Mobile Apps Nehmen Sie Marketo auf den Weg!](core-marketo-concepts/mobile-apps.md)     ** ![Sonstiges](assets/party-11.png)Sonstiges** [Verschiedenes Stuff dachten wir, dass Sie es wissen sollten.](https://docs.marketo.com/display/DOCS/Miscellaneous)

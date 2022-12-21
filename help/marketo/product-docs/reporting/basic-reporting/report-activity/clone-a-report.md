@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2360028
-description: Bericht klonen - Marketing-Dokumente - Produktdokumentation
-title: Bericht klonen
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Einen Bericht klonen - Marketo-Dokumente - Produktdokumentation
+title: Einen Bericht klonen
+exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
 # Einen Bericht klonen {#clone-a-report}
 
 Erstellen Sie ein Duplikat Ihres Berichts, um ihn weiter anzupassen, ohne das Original zu ändern.
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
+1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Wählen Sie Ihren Bericht aus. Wählen Sie **Berichtaktionen** > **Einen Bericht** klonen.
+1. Wählen Sie Ihren Bericht aus. Auswählen **Berichtaktionen** > **Einen Bericht klonen**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
    >[!TIP]
    >
-   >Sie können einen Bericht auch klonen, indem Sie mit der rechten Maustaste darauf klicken.
+   >Sie können einen Bericht auch klonen, indem Sie ihn mit der rechten Maustaste im Baum anklicken.
 
-1. Benennen Sie Ihren Bericht-Klon.
+1. Benennen Sie Ihren Berichtklon.
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
-   Das ist es - Sie sind bereit, Ihren Klon anzupassen Beginn!
+   Das ist es - Sie sind bereit, Ihren Klon anzupassen!
 
    >[!MORELIKETHIS]
    >
-   >[Personen in einem Bericht mit intelligenter Liste filtern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+   >[Personen in einem Bericht mit einer intelligenten Liste filtern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)

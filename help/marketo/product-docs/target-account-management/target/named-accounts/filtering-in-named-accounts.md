@@ -1,23 +1,22 @@
 ---
 unique-page-id: 12615804
-description: Filtern in benannten Konten - MarketingToDocs - Produktdokumentation
+description: Filtern in benannten Konten - Marketo Docs - Produktdokumentation
 title: Filtern in benannten Konten
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
 # Filtern in benannten Konten {#filtering-in-named-accounts}
 
-Die Filterung ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
+Das Filtern eignet sich hervorragend, um Daten schnell einzugrenzen.
 
 >[!NOTE]
 >
->Daten in Filter-Dropdowns spiegeln alle verfügbaren Felder in Ihrem CRM-System wider, die mit Marketo synchronisiert wurden.
+>In Dropdown-Listen mit Filtern werden alle in Ihrem CRM-System verfügbaren Felder angezeigt, die mit Marketo synchronisiert wurden.
 
 1. Klicken Sie auf das Filtersymbol.
 
@@ -25,22 +24,22 @@ Die Filterung ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Es gibt eine Reihe von Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _Branche = Bankwesen, Land = Vereinigte Staaten, Max. Mitarbeiter = 10000_.
+   >Es gibt mehrere Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _Branche = Bankwesen, Land = USA, Max. Mitarbeiter = 10000_.
 
-1. Klicken Sie auf die Dropdownliste **Branche** und wählen Sie **Bankwesen**.
+1. Klicken Sie auf **Branche** und wählen Sie **Bankwesen**.
 
    ![](assets/filter-2.png)
 
-1. Klicken Sie auf die Dropdownliste **Land** und wählen Sie **Vereinigte Staaten**.
+1. Klicken Sie auf **Land** und wählen Sie **Vereinigte Staaten**.
 
    ![](assets/filter-3.png)
 
-1. Geben Sie unter **Employees** im Feld **Min** den Wert &quot;0&quot;in das Feld **Min** den Wert &quot;10000&quot;ein und klicken Sie dann auf **Apply**.
+1. under **ArbeitnehmerInnen**, geben Sie &quot;0&quot;in die **Min** -Feld, &quot;10000&quot;im **Max** und klicken Sie auf **Anwenden**.
 
    ![](assets/four-2.png)
 
-   Und das ist es! Die gefilterten Ergebnisse werden auf der linken Seite des Bildschirms angezeigt.
+   Und das ist es! Die gefilterten Ergebnisse werden auf der linken Bildschirmseite angezeigt.
 
    >[!NOTE]
    >
-   >Um weitere Filter hinzuzufügen, aus denen Sie auswählen können, klicken Sie unten links im Formular auf **Hinzufügen Filter**.
+   >Um weitere Filter hinzuzufügen, aus denen Sie auswählen können, klicken Sie auf **Filter hinzufügen** unten links im Formular.

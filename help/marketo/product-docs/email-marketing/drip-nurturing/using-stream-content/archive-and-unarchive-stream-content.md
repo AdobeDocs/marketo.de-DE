@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2359930
-description: Archivieren und Archivieren von Stream-Inhalten - Marketing Docs - Produktdokumentation
-title: Archivieren und Archivieren von Stream-Inhalten
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Archivieren und Archivieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
+title: Archivieren und Archivieren von Stream-Inhalten aufheben
+exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
+# Archivieren und Archivieren von Stream-Inhalten aufheben {#archive-and-unarchive-stream-content}
 
-# Archivieren und Archivieren von Stream-Inhalten {#archive-and-unarchive-stream-content}
-
-Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen oder archivieren. ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) Hier ist, wie man Inhalte archiviert.
+Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie entweder [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) oder archivieren. Hier erfahren Sie, wie Sie Inhalte archivieren.
 
 >[!TIP]
 >
->Das Entfernen zerstört den gesamten zugehörigen Verlauf. Archivieren bewahrt es.
+>Das Entfernen zerstört den gesamten zugehörigen Verlauf. Durch die Archivierung bleibt sie erhalten.
 
 ## Archiv-Stream-Inhalt {#archive-stream-content}
 
-1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams** Registerkarte.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Bewegen Sie den Mauszeiger über die E-Mail, die Sie archivieren möchten, und klicken Sie dann unter dem Zahnradsymbol auf **Archiv**.
+1. Bewegen Sie den Mauszeiger über die E-Mail, die Sie archivieren möchten, und klicken Sie dann unter dem Zahnradsymbol auf **Archivieren**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   Das ist&#39;s! Denken Sie daran, archivieren Sie, wenn Sie die Geschichte bewahren möchten.
+   Das ist es! Denken Sie daran, archivieren Sie, wenn Sie die Geschichte beibehalten möchten.
 
-## Archivierung von Stream-Inhalten aufheben {#unarchive-stream-content}
+## Archivierung von Stream-Inhalt aufheben {#unarchive-stream-content}
 
-1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams** Registerkarte.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
@@ -41,8 +40,8 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Nachdem Sie nun den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, den Sie dearchivieren möchten, und klicken Sie dann auf **Archivieren** aufheben.
+1. Nachdem Sie nun den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, dessen Archivierung Sie aufheben möchten, und klicken Sie dann auf **Archivierung aufheben**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   Perfekt! Nun steht dieser Inhalt zur Verfügung, um priorisiert und aktiviert zu werden.
+   Perfekt! Dieser Inhalt kann jetzt priorisiert und aktiviert werden.

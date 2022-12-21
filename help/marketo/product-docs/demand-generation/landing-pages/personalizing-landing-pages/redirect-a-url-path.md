@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2359826
-description: URL-Pfad umleiten - Marketing zu Dokumenten - Produktdokumentation
+description: Umleiten eines URL-Pfads - Marketo Docs - Produktdokumentation
 title: Umleiten eines URL-Pfads
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-
 # Umleiten eines URL-Pfads {#redirect-a-url-path}
 
-Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. So geht es.
+Marketo erleichtert die Umleitung eines URL-Pfads zu beliebigen Seiten. So geht es.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Klicken Sie unter **Admin** auf **Landingpages**.
+1. under **Admin** klicken **Landing Pages**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klicken Sie auf die Registerkarte **Regeln** und dann auf **Neu** und **Neue Umleitungsregel**.
+1. Klicken Sie auf **Regeln** Registerkarte und klicken Sie dann auf **Neu** und **Neue Umleitungsregel**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Klicken Sie auf die erste Dropdown-Liste **Ursprüngliche URL** und wählen Sie Ihren Marker-CNAME aus.
+1. Klicken Sie auf die erste **Ursprüngliche URL** und wählen Sie Ihren Marketo-CNAME aus.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
    >[!NOTE]
    >
-   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Beginn zu [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) umgeleitet werden.
+   >Beachten Sie, dass Sie nur URLs umleiten können, die mit Ihrer Marketo beginnen [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Geben Sie den URL-Pfad (oder eine bestimmte Seite), den Sie umleiten möchten, im zweiten Feld **Ursprüngliche URL** rechts ein.
+1. Geben Sie den URL-Pfad (oder eine bestimmte Seite) ein, den Sie in der zweiten umleiten möchten **Ursprüngliche URL** rechts.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Klicken Sie auf **Nicht marketo-Landingpage** verwenden, geben Sie die Seite, zu der Sie Besucher umleiten möchten, in das Feld **Umleitungs-URL** ein und klicken Sie auf **Erstellen**.
+1. Klicken **Landingpage außerhalb von Marketo verwenden** Geben Sie die Seite ein, auf die Sie Besucher umleiten möchten, in die **Umleitungs-URL** und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Sie können [Marketo-Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) auch als Ziel verwenden.
+   Sie können [Marketo-Landingpages verwenden](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) als Ziel.
 
-Herzlichen Glückwunsch! Sie haben Ihren URL-Pfad erfolgreich umgeleitet.
+Herzlichen Glückwunsch!  Sie haben Ihren URL-Pfad erfolgreich umgeleitet.
 
 >[!MORELIKETHIS]
 >
->[Eine Landingpage zu einer anderen Seite umleiten](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
+>[Weiterleiten einer Marketo-Landingpage zu einer anderen Seite](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 18E {#template-18e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html) herunterladen
+Rechtsklick auf [Download-Vorlage 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
 
 ![](assets/image2015-8-17-18-3a29-3a1.png)
 

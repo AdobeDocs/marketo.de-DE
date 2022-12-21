@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359553
-description: hinzufügen ein E-Mail-Champion/Challenger - Marketing Docs - Produktdokumentation
-title: hinzufügen eines E-Mail-Champions/Challenger
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: E-Mail-Champion/Challenger hinzufügen - Marketo Docs - Produktdokumentation
+title: E-Mail-Champion/Challenger hinzufügen
+exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
+# E-Mail-Champion/Challenger hinzufügen {#add-an-email-champion-challenger}
 
-# hinzufügen eines E-Mail-Champions/Challenger {#add-an-email-champion-challenger}
+Es empfiehlt sich, häufig verwendete E-Mails zu testen, um sicherzustellen, dass sie funktionieren. Eine Möglichkeit besteht darin, die Effektivität einer E-Mail mit anderen Versionen oder Herausforderern zu vergleichen. In einem Champion/Herausforderer-Test können Sie die gesamte E-Mail, die Betreffzeile oder die Absenderadresse testen.
 
-Es empfiehlt sich, häufig verwendete E-Mails zu testen, um sicherzustellen, dass sie funktionieren. Eine Möglichkeit besteht darin, die Effektivität einer E-Mail mit anderen Versionen oder Herausforderern zu vergleichen. In einem Meister-/Herausforderer-Test können Sie die gesamte E-Mail, die Betreffzeile oder die Von-Adresse testen.
+Die vorhandene E-Mail, die Sie testen, gilt als Champion. Alle Varianten, die Sie in einem Test erstellen, werden als Challenger betrachtet. Sie bestimmen den Prozentsatz der Personen, die entweder den Meisterinhalt oder den Inhalt des Herausforderers erhalten. Wenn Sie mehrere Challenger definiert haben, werden diese gleichmäßig auf die Challenger-Gruppe verteilt.
 
-Die vorhandene E-Mail, die Sie testen, gilt als Meister. Alle Varianten, die Sie in einem Test erstellen, werden als Herausforderer betrachtet. Sie bestimmen den Prozentsatz der Benutzer, die entweder den Inhalt des Meisters oder den Inhalt des Herausforderers erhalten. Wenn Sie mehrere Herausforderer definiert haben, werden diese gleichmäßig auf die herausfordernde Gruppe verteilt.
-
-Hier ist, wie man anfängt.
+Hier ist der Anfang.
 
 >[!PREREQUISITES]
 >
@@ -27,9 +26,9 @@ Hier ist, wie man anfängt.
 
 >[!CAUTION]
 >
->Champion/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktions-Programm-Streams. Verwenden Sie für Batch-Mails die [A/B-Testfunktionalität](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) des E-Mail-Programms.
+>Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionszielgruppen-Streams. Verwenden Sie für Batch-Mailings die Funktion [A/B-Test-Funktionalität](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -39,17 +38,17 @@ Hier ist, wie man anfängt.
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über [E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) für einmalige E-Mail-Nachrichten.
+   >Informationen zu einmaligen E-Mail-Strahlungen finden Sie hier: [E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. Klicken Sie unter **E-Mail-Aktionen** auf **Neuer Test**.
+1. under **E-Mail-Aktionen** klicken **Neuer Test**.
 
    ![](assets/chmapion2.jpg)
 
-1. Es wird ein neues Fenster mit verschiedenen Testtypoptionen geöffnet. Lesen Sie die entsprechenden Artikel unten, um mehr über sie zu erfahren.
+1. Es wird ein neues Fenster mit verschiedenen Testtyp-Optionen geöffnet. Lesen Sie die entsprechenden Artikel unten, um mehr über sie zu erfahren.
 
    >[!MORELIKETHIS]
    >
-   >* [Champion/Challenger: Ganze E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger: Betreffzeile](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger: Gesamte E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [Champion/Challenger: Betreff](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
    >* [Champion/Challenger: Von Adresse](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
 

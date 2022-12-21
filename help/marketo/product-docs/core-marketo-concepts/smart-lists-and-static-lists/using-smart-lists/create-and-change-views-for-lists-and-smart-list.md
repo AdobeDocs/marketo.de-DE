@@ -1,9 +1,8 @@
 ---
 unique-page-id: 557337
-description: Ansichten für Listen und intelligente Liste erstellen und ändern - Marketo Docs - Produktdokumentation
-title: Ansichten für Listen und intelligente Liste erstellen und ändern
+description: Erstellen und Ändern von Ansichten für Listen und Smart-Liste - Marketo-Dokumente - Produktdokumentation
+title: Erstellen und Ändern von Ansichten für Listen und Smart-Listen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Erstellen und Ändern von Ansichten für Listen und intelligente Liste {#create-and-change-views-for-lists-and-smart-list}
+# Erstellen und Ändern von Ansichten für Listen und Smart-Listen {#create-and-change-views-for-lists-and-smart-list}
 
-Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du diese Spalten inhaltlich bearbeiten könntest? So geht es.
+Eine intelligente Liste zeigt einen Standardsatz von Spalten an. Wusstest du, dass du diese Spalten an den Inhalt deines Herzens anpassen könntest? So geht es.
 
-## Eine Ansicht {#create-a-view} erstellen
+## Erstellen einer Ansicht {#create-a-view}
 
-1. Gehen Sie zu einer Liste oder intelligenten Liste, klicken Sie auf die Registerkarte **Personen** und klicken Sie unter der Dropdownliste **Ansicht** auf **Ansicht**.****
+1. Navigieren Sie zu einer Liste oder Smart-Liste, klicken Sie auf die **Personen** und klicken Sie auf **Erstellen** **Ansicht** unter **Ansicht** Dropdown-Liste.
 
    ![](assets/smartlist-createview.png)
 
@@ -25,31 +24,31 @@ Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-1. hinzufügen/Entfernen Sie die gewünschten Spalten und klicken Sie dann auf **Erstellen**.
+1. Fügen Sie die gewünschten Spalten hinzu/entfernen Sie sie und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
 >[!TIP]
 >
->Um schnell zu suchen, verwenden Sie das Feld **Suchen**.
+>Um schnell zu suchen, verwenden Sie die **Suchen** ankreuzen.
 
-## Ansichten {#switch-views} wechseln
+## Ansichten wechseln {#switch-views}
 
-1. Klicken Sie auf die Dropdownliste **Ansicht** und wählen Sie dann die gewünschte Ansicht aus. Wechseln Sie nach Bedarf zwischen Ansichten.
+1. Klicken Sie auf **Ansicht** und wählen Sie die gewünschte Ansicht aus. Wechseln Sie nach Bedarf zwischen Ansichten.
 
    ![](assets/smartlist-customviewchoose.png)
 
 >[!NOTE]
 >
-> Sie müssen zunächst eine zweite Ansicht zusätzlich zur standardmäßigen Ansicht erstellen, um die Ansichten zu wechseln.
+> Sie müssen zunächst zusätzlich zur Standardansicht eine zweite Ansicht erstellen, um zwischen Ansichten wechseln zu können.
 
 ## Bearbeiten einer Ansicht {#edit-a-view}
 
-1. Vergewissern Sie sich, dass die zu bearbeitende Ansicht in der Dropdown-Liste **Ansicht** ausgewählt ist.
+1. Stellen Sie sicher, dass die Ansicht, die Sie bearbeiten möchten, im **Ansicht** Dropdown-Liste.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Klicken Sie auf die Option **Bearbeiten**.
+1. Klicken Sie auf **Bearbeiten** -Option.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -57,20 +56,20 @@ Eine intelligente Liste zeigt einen Standardspaltensatz an. Wusstest du, dass du
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-## Löschen einer Ansicht {#delete-a-view}
+## Ansicht löschen {#delete-a-view}
 
-1. Wählen Sie die Option **Bearbeiten** für die Ansicht, die Sie aus der Dropdownliste **Ansicht** löschen möchten.
+1. Wählen Sie die **Bearbeiten** -Option für die Ansicht, die Sie aus der **Ansicht** Dropdown-Liste.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken **Löschen**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
-Nur Sie können die benutzerspezifischen Ansichten sehen, die Sie in der Ansicht-Dropdown-Liste, so sagen Sie Ihren Freunden, sie müssen ihre eigenen erstellen!
+Nur Sie können die benutzerdefinierten Ansichten, die Sie in der Dropdown-Liste Ansicht erstellen, sehen. Informieren Sie daher Ihre Freunde, dass sie eigene Ansichten erstellen müssen!
 
 >[!MORELIKETHIS]
 >
->* [Integrierte/System-intelligente Listen verwenden](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
->* [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Verwenden von integrierten/System-Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 

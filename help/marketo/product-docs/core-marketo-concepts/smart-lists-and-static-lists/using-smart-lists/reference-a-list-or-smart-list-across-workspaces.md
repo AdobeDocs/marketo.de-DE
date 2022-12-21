@@ -1,9 +1,8 @@
 ---
 unique-page-id: 4720377
-description: Referenzieren einer Liste oder intelligenten Liste über Arbeitsbereiche - Marketo Docs - Produktdokumentation
-title: Verweisen Sie auf eine Liste oder intelligente Liste in allen Arbeitsbereichen.
+description: Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg - Marketo Docs - Produktdokumentation
+title: Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Verweisen auf eine Liste oder intelligente Liste über Workspaces {#reference-a-list-or-smart-list-across-workspaces}
+# Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg {#reference-a-list-or-smart-list-across-workspaces}
 
-Listen und intelligente Listen können für verschiedene Arbeitsbereiche freigegeben und referenziert werden, um eine einfache Wiederverwendung über die Datenbank zu ermöglichen.
+Listen und Smart-Listen können über Arbeitsbereiche hinweg freigegeben und referenziert werden, um eine einfache Wiederverwendung über die Datenbank zu ermöglichen.
 
 >[!NOTE]
 >
->Es gelten Benutzerpartitionsregeln (intelligente Listen und statische Listen in einem Arbeitsbereich zeigen nur Personen an, die beide Mitglieder der Liste sind *und*).
+>Es gelten Benutzerpartitionsregeln (Smart-Listen und statische Listen in einem Arbeitsbereich zeigen nur Personen an, die beide Mitglieder der Liste sind. *und* -Elemente des aktuellen Arbeitsbereichs).
 
-## Freigeben einer Liste oder einer intelligenten Liste {#share-a-list-or-smart-list}
+## Liste oder Smart-Liste freigeben  {#share-a-list-or-smart-list}
 
-1. Gehen Sie zur Datenbank ****.
+1. Navigieren Sie zu **Datenbank**.
 
    ![](assets/db-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf einen Ordner &quot;Kampagne&quot;. Wählen Sie **Neuer Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf einen Kampagnenordner. Auswählen **Neuer Ordner**.
 
    >[!NOTE]
    >
@@ -33,15 +32,15 @@ Listen und intelligente Listen können für verschiedene Arbeitsbereiche freigeg
 
    ![](assets/two-4.png)
 
-1. Ziehen Sie eine Liste oder intelligente Liste, die Sie freigeben möchten, in den neuen Ordner.
+1. Ziehen Sie eine Liste oder Smart-Liste, die Sie freigeben möchten, per Drag-and-Drop in den neuen Ordner.
 
    ![](assets/three-4.png)
 
-1. Klicken Sie mit der rechten Maustaste auf **Neuer Ordner** und wählen Sie **Ordner freigeben**.
+1. Rechtsklick **Neuer Ordner** und wählen Sie **Ordner freigeben**.
 
    ![](assets/four-3.png)
 
-1. Wählen Sie einen **Arbeitsbereich**, für den Sie freigeben möchten. Wählen Sie **Speichern**.
+1. Wählen Sie eine **Arbeitsbereich** für freigeben. Auswählen **Speichern**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -49,4 +48,4 @@ Listen und intelligente Listen können für verschiedene Arbeitsbereiche freigeg
 
    >[!NOTE]
    >
-   >In Marketing-Aktivitäten können Sie nur Ordner der obersten Ebene freigeben. In der Datenbank können Sie Ordner der obersten Ebene sowie eine Ebene nach unten freigeben.
+   >In Marketingaktivitäten können Sie nur Ordner der obersten Ebene freigeben. In der Datenbank können Sie Ordner der obersten Ebene sowie eine Ebene nach unten freigeben.

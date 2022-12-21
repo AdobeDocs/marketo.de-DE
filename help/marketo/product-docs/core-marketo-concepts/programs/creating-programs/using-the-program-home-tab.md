@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147126
-description: Verwenden der Registerkarte "Programm Home"- Marketo Docs - Produktdokumentation
-title: Verwenden der Registerkarte "Programm-Startseite"
+description: Verwenden der Registerkarte "Programmstartseite"- Marketo-Dokumente - Produktdokumentation
+title: Verwenden der Registerkarte "Startseite des Programms"
 exl-id: 04c36190-d853-4900-b566-973d08316e37
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Verwenden der Registerkarte &quot;Startseite&quot;des Programms {#using-the-program-home-tab}
+# Verwenden der Registerkarte &quot;Startseite des Programms&quot; {#using-the-program-home-tab}
 
-Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorgänge in Ihrem Programm.
+Im Programm-Startseite-Tab erhalten Sie einen Überblick über die Vorgänge in Ihrem Programm.
 
-## Ansicht der Zusammenfassung {#summary-view}
+## Zusammenfassungsansicht {#summary-view}
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,48 +26,48 @@ Die Registerkarte &quot;Home&quot;des Programms gibt Ihnen eine Ansicht der Vorg
 
    >[!NOTE]
    >
-   >Dies ist Ihre standardmäßige Ansicht. Es enthält Informationen zu Ihren Einstellungen, Zeitplan, Ergebnissen und dem Status Ihrer Mitglieder-Programme.
+   >Dies ist Ihre Standardansicht. Es enthält Informationen zu Ihren Einstellungen, Ihrem Zeitplan, Ihren Ergebnissen und Ihrem Programmstatus für Mitglieder.
 
-1. Klicken Sie auf unterstrichene Elemente, um Änderungen vorzunehmen oder weitere Informationen zur Ansicht zu erhalten.
+1. Klicken Sie auf unterstrichene Elemente, um Änderungen vorzunehmen oder weitere Informationen anzuzeigen.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Klicken Sie unten in der Zusammenfassung auf **Export**, um den Bericht herunterzuladen.
+1. Klicken **Export** unten in der Zusammenfassung, um den Bericht herunterzuladen.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Verwendet von Ansicht {#used-by-view}
+## Nach Ansicht verwendet {#used-by-view}
 
-1. Wählen Sie in den Marketing-Aktivitäten ein Programm aus.
+1. Wählen Sie unter Marketingaktivitäten ein Programm aus.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klicken Sie auf die Dropdownliste **Ansicht**. Wählen Sie **Verwendet von**.
+1. Klicken Sie auf **Ansicht** Dropdown-Liste. Auswählen **Verwendet von**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
-   Diese Ansicht zeigt Ihnen, welche intelligenten Kampagnen verwendet werden.
+   Diese Ansicht zeigt Ihnen, welche Smart-Kampagnen verwendet werden.
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## Ansicht der Mitgliedschaft {#membership-view}
+## Mitgliedschaftsansicht {#membership-view}
 
-1. Wählen Sie in den Marketing-Aktivitäten ein Programm aus.
+1. Wählen Sie unter Marketingaktivitäten ein Programm aus.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klicken Sie auf die Dropdownliste **Ansicht**. Wählen Sie **Mitgliedschaft**.
+1. Klicken Sie auf **Ansicht** Dropdown-Liste. Auswählen **Mitgliedschaft**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
-   Dies zeigt Ihnen ein Diagramm, wo sich die Mitglieder befinden, während sie sich durch den Status des Programms bewegen.
+   Dies zeigt Ihnen ein Diagramm darüber, wo sich Mitglieder befinden, während sie durch den Programmstatus navigieren.
 
    ![](assets/image2014-9-18-17-3a8-3a1.png)
 
    >[!NOTE]
    >
-   >**&quot;** Historisch&quot;bezeichnet jeden, der jemals das Programm durchlaufen hat, während  **** derzeit nur Personen im Programm anwesend sind.
+   >**Historisch** bezeichnet jeden, der das Programm durchlaufen hat, während **Aktuell** umfasst nur Personen, die derzeit am Programm teilnehmen.
 
    >[!MORELIKETHIS]
    >
-   >[Informationen zur Programm-Mitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Grundlegendes zur Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359543
-description: hinzufügen eines Felds in ein Formular - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Felds in ein Formular
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Feld zu einem Formular hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: Feld zu einem Formular hinzufügen
+exl-id: cda45a69-128b-4cdc-846e-637acb9555da
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
+# Feld zu einem Formular hinzufügen {#add-a-field-to-a-form}
 
-# hinzufügen eines Felds in ein Formular {#add-a-field-to-a-form}
+Sobald du [das Formular erstellt hat](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [Design ausgewählt hat](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)können Sie zusätzliche Felder hinzufügen, die ausgefüllt werden sollen. So geht es.
 
-Nachdem Sie [Ihr Formular ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) erstellt und [ein Design](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) ausgewählt haben, können Sie weitere Felder hinzufügen, die ausgefüllt werden sollen. So geht es.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/editform-1.png)
 
-1. Klicken Sie auf das Symbol **+**.
+1. Klicken Sie auf **+** signieren.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,16 +34,16 @@ Nachdem Sie [Ihr Formular ](/help/marketo/product-docs/demand-generation/forms/c
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. hinzufügen Sie so viele Felder, wie Sie benötigen, und klicken Sie auf **Fertigstellen**.
+1. Fügen Sie so viele Felder hinzu, wie Sie benötigen, und klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Klicken Sie nun auf **Genehmigen und Schließen**.
+1. Jetzt klicken **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
 >[!NOTE]
 >
->Achten Sie darauf, alle aufgrund der Formularänderungen erstellten Entwürfe der Landingpage zu genehmigen.
+>Achten Sie darauf, alle Landingpage-Entwürfe zu genehmigen, die aufgrund der Formularänderungen erstellt wurden.
 
-Nicht schlecht. Halte die gute Arbeit! Wie wäre es mit [einem Formularfeld als Nächstes ein Pflichtfeld zu geben?](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)
+Ganz und gar nicht schlecht. Bleiben Sie bei der guten Arbeit! Erfahren Sie mehr über [Formularfeld erforderlich machen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) als Nächstes?

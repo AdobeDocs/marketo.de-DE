@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2359821
-description: Social Sharing-Anforderung festlegen - Marketing-Dokumente - Produktdokumentation
-title: Social Sharing-Voraussetzung festlegen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Social-Share-Anforderung festlegen - Marketo-Dokumente - Produktdokumentation
+title: Social Share-Anforderung festlegen
+exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
+# Social Share-Anforderung festlegen {#set-social-share-requirement}
 
-# Social Sharing-Voraussetzung festlegen {#set-social-share-requirement}
+Wenn Sie [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)können Sie Personen auffordern, das Angebot freizugeben, um sich anzumelden, oder es als optional festlegen.
 
-Wenn Sie [ein Referrer-Angebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) erstellen, können Sie festlegen, dass Personen das Angebot freigeben müssen, um sich anzumelden, oder dass es optional sein muss.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie das verweisende Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Verweisangebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Wechseln Sie im Editor für Verweisdokumente zu **App-Einstellungen** und dann **Schritte für die Anmeldung**.
+1. Navigieren Sie im Angebotseditor zu **App-Einstellungen** und dann **Schritte für den Anmeldefluss**.
 
    ![](assets/three.png)
 
-1. Wählen Sie die Reihenfolge des Anmeldevorgangs aus.
+1. Wählen Sie die Reihenfolge des Anmeldeflusses aus.
 
    ![](assets/four.png)
 
-   * **Personenerfassung** >  **Freigeben**: Die Person kann die Freigabe überspringen und sich einfach anmelden.
-   * **Freigabe** >  **Personenerfassung**: Die Person muss freigegeben werden, um sich zu registrieren.
+   * **Personenerfassung** > **Freigeben**: Personen können die Freigabe überspringen und sich einfach anmelden.
+   * **Freigeben** > **Personenerfassung**: Die Person muss freigeben, um sich anzumelden.
 
-1. Die einzelnen Optionen finden Sie in der Vorschau im Fenster **Ansicht &amp; Bearbeiten**.
+1. Für jede Option sehen Sie sich die Vorschau im **Anzeigen und Bearbeiten** Fenster.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

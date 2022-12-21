@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14746661
-description: Häufig gestellte Fragen zu Inhalten und Dateianlagen - Marketing-Dokumente - Produktdokumentation
-title: Häufig gestellte Fragen zu Inhalten und Dateianlagen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Häufig gestellte Fragen zu Inhalten und Dateianlagen - Marketo-Dokumente - Produktdokumentation
+title: Häufig gestellte Fragen zu Inhalt und Dateianhang
+exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-
-# Häufig gestellte Fragen zu Inhalt und Dateianlage {#content-and-file-attachment-faq}
+# Häufig gestellte Fragen zu Inhalt und Dateianhang {#content-and-file-attachment-faq}
 
 ## Was ist der Unterschied zwischen Inhalt und Dateianhang? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-Ein **Dateianhang** ist genau wie ein Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
+A **Dateianlage** ist genau wie ein Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
 
-**Inhalt** beschreibt Dateien (PPT, PDF, Word-Dokument usw.) dass Sie von Sales Connect verfolgt werden möchten.
+**Inhalt** ist das Element, mit dem wir Dateien (PPT, PDF, Word-Dokumente usw.) beschreiben. die Sie von Sales Connect verfolgen möchten.
 
-Nachdem Sie auf diese Schaltfläche geklickt haben, können Sie eine bereits hochgeladene Datei auswählen oder eine neue Datei hochladen, die verfolgt werden soll. Anschließend fügen wir einen Link in die E-Mail oder Vorlage ein, die Sie verwenden.
+Nachdem Sie auf diese Schaltfläche geklickt haben, können Sie eine bereits hochgeladene Datei auswählen oder eine neue Datei hochladen, die verfolgt werden soll. Fügen Sie dann einen Link in die E-Mail oder Vorlage ein, die Sie verwenden.
 
-Am Empfangsende klickt der Empfänger auf den Link und der Inhalt wird im Browser gefüllt. Auf diese Weise können wir jede Ansicht verfolgen und sie dem Sales Connect-Benutzer im Live Feed melden.
+Am Empfänger klickt der Empfänger auf den Link und der Inhalt wird im Browser ausgefüllt. Auf diese Weise können wir jede Seitenansicht verfolgen und sie dem Sales Connect-Benutzer im Live-Feed melden.
 
-Datei- und Inhaltsoptionen stehen zur Verfügung unter: Einmalige E-Mails, Vorlagen, Kampagnen, Outlook (Windows und Mac), Gmail und OWA.
+Datei- und Inhaltsoptionen sind verfügbar in: einmalige E-Mails, Vorlagen, Kampagnen, Outlook (sowohl Windows als auch Mac), Gmail und OWA.
 
 ## Wer verwaltet den Inhalt und wo wird er gespeichert? {#who-manages-the-content-and-where-is-it-stored}
 
 Inhalte können von jedem Benutzer, der Vorlagen erstellen kann, in das Sales Connect-Repository hochgeladen werden. Das bedeutet, dass Benutzer Inhalte ihrer Wahl hochladen können.
 
-## Können Inhalte, Playbooks, Vorlagen usw. von Teams erstellt/organisiert werden? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
+## Können Inhalte, Bücher, Vorlagen usw. von Teams erstellt/organisiert werden? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 
-Benutzer können eigene Vorlagen erstellen und diese vom Team organisieren. Erstellen Sie dazu über die Seite &quot;Teamverwaltung&quot;ein Team. Wenn Ihr Team dann Vorlagen/Playbooks/Gruppen freigeben soll, können sie nur diese Gruppen teilen, nicht das gesamte Abonnement der Benutzer.
+Benutzer können eigene Vorlagen erstellen und diese vom Team organisiert werden. Erstellen Sie dazu auf der Seite Team-Management ein Team. Wenn Ihr Team dann Vorlagen/Playbooks/Gruppen freigibt, kann es nur für diese Gruppen freigeben, im Gegensatz zum gesamten Abonnement der Benutzer.
 
 Inhalte können innerhalb der Organisation freigegeben werden.

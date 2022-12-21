@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352509
-description: Glossar "Dynamische Felder"- Marketing-Dokumente - Produktdokumentation
-title: Glossar "Dynamische Felder"
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Glossar zu dynamischen Feldern - Marketo-Dokumente - Produktdokumentation
+title: Glossar zu dynamischen Feldern
+exl-id: 28351ba9-53da-4408-9526-918200d9bd29
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Glossar zu dynamischen Feldern {#dynamic-fields-glossary}
 
-# Glossar für dynamische Felder {#dynamic-fields-glossary}
+Bei der Erstellung einer Vorlage in Sales Connect empfehlen wir immer, dynamische Felder mithilfe der **Dynamische MSE-Felder** Schaltfläche.
 
-Beim Erstellen einer Vorlage in Sales Connect empfehlen wir immer, dynamische Felder mithilfe der Schaltfläche **MSE Dynamische Felder** zu integrieren.
+Dieses Tool wird verwendet, um `auto-personalize your email` und sparen Ihnen unzählige Zeit `pulling information from the People page`.
 
-Dieses Tool wird verwendet, um `auto-personalize your email` und sparen Sie Tonnen Zeit durch `pulling information from the People page`.
-
-| Dynamisches Feld | Beispiel für die E-Mail |
+| Dynamisches Feld | Anwendungsbeispiel für E-Mails |
 |---|---|
 | `{{company}}` | Marketo |
 | `{{company_friendly}}` | Marketo |
@@ -28,12 +27,12 @@ Dieses Tool wird verwendet, um `auto-personalize your email` und sparen Sie Tonn
 | `{{title}}` | Senior Technical Writer |
 | `{{work_website}}` | https://www.marketo.com |
 
-**Folgendes ist zu beachten**:
+**Was zu beachten ist**:
 
 * Wenn die Informationen eines Kontakts falsch eingegeben wurden oder auf der Seite &quot;Personen&quot;fehlen, werden sie nicht korrekt in Ihre Vorlage übernommen.
-* Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` besteht darin, dass `{{company_friendly}}` alle formalen Titel, wie z.B. Inc., LLC. usw., aus dem Namen der Firma Ihres Kontakts entfernen wird.
-* Stellen Sie bei Verwendung von `{{company_friendly}}` sicher, dass Sie in den Kontaktdaten die Option &quot;Inc.&quot;oder &quot;Co.&quot;mit einem Komma trennen. So weiß Sales Connect, was entfernt werden muss, wenn der Wert eingezogen wird.
+* Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` dass `{{company_friendly}}` wird jeden formalen Titel, wie z.B. Inc., LLC. etc., aus dem Namen Ihres Kontakts entfernen.
+* Bei Verwendung von `{{company_friendly}}`, stellen Sie sicher, dass Sie Inc. oder Co. mit einem Komma in den Kontaktdaten trennen. So weiß Sales Connect, was beim Einziehen des Werts entfernt werden muss.
 
 >[!TIP]
 >
->Sie können Ihr eigenes dynamisches [benutzerdefiniertes Feld](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) für alles erstellen, was Sie automatisch in Ihre E-Mails eingefügt haben möchten
+>Sie können Ihre eigenen [Benutzerdefiniertes dynamisches Feld](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) für alles, was Sie automatisch in Ihre E-Mails gezogen haben möchten

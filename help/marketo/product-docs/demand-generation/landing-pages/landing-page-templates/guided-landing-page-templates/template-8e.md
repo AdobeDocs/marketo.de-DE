@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 8E {#template-8e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html) herunterladen
+Rechtsklick auf [Download-Vorlage 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
 
 ![](assets/image2015-7-29-14-3a39-3a0.png)
 

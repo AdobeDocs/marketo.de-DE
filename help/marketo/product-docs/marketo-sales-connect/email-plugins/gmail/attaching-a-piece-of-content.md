@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352442
-description: Anfügen eines Inhaltselements - Marketing-Dokumente - Produktdokumentation
-title: Anhängen eines Inhaltselements
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Anfügen eines Inhaltselements - Marketo-Dokumente - Produktdokumentation
+title: Anfügen eines Inhaltselements
+exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
+# Anfügen eines Inhaltselements {#attaching-a-piece-of-content}
 
-# Anhängen eines Inhaltselements {#attaching-a-piece-of-content}
-
-hinzufügen Sie nachverfolgbaren Inhalt, indem Sie auf die Schaltfläche **Inhalt** klicken und eine Datei hochladen. Alle zuvor verfolgten Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
+Fügen Sie verfolgbaren Inhalt hinzu, indem Sie auf die **Inhalt** und laden Sie eine Datei hoch. Alle zuvor verfolgten Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
 
 >[!NOTE]
 >

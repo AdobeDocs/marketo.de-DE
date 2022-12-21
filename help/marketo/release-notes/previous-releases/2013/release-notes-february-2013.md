@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Versionshinweise: Februar 2013 {#release-notes-february}
 
-Die Februarversion enthält eine dringend benötigte Funktion, Unterstützung für Apple Safari und andere kleine Verbesserungen.
+Die Februar-Version enthält eine dringend benötigte Funktion, Unterstützung für Apple Safari und andere kleine Verbesserungen.
 
-## Offizielle Unterstützung für Apple Safari {#official-support-for-apple-safari}
+## Offizieller Support für Apple Safari {#official-support-for-apple-safari}
 
-Die neuesten Versionen von Apple Safari für Mac und Windows werden vollständig für die Verwendung mit Marketo Lead Management unterstützt. Hinweis: Safari unter iOS ist nicht vollständig kompatibel.
+Die neuesten Versionen von Apple Safari für Mac und Windows werden vollständig für die Verwendung mit Marketo Lead Management unterstützt. Hinweis: Safari in iOS ist nicht vollständig kompatibel.
 
 ## Verbesserungen bei Webhooks {#webhooks-enhancements}
 
@@ -32,4 +32,4 @@ Facebook-Tabs, die von Marketo veröffentlicht werden, erkennen Mobilgeräte und
 
 ## In Kürze: Unterstützung für mehrere Modelle {#coming-soon-support-for-multiple-models}
 
-Wir legen die Grundlagen für die Unterstützung mehrerer Modelle für den Umsatzzyklus, der in einer zukünftigen Version als 1. Idee für RCA in der Gemeinschaft gewählt wurde. In dieser Version werden Sie einige Änderungen bemerken, darunter [Smart List-Filter und Add Choices in Flow Steps](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md), um die Auswahl eines Modells und einer Bühne zu unterstützen. Außerdem verschieben wir die Felder &quot;Lead-Umsatzstufe&quot;und &quot;Lead-Umsatzzyklusmodell&quot;aus der Registerkarte &quot;Smart List Lead Grid&quot;.
+Wir legen die Grundlagen für die Unterstützung mehrerer Modelle für den Umsatzzyklus, der in einer zukünftigen Version als 1. Idee für RCA in der Gemeinschaft gewählt wurde. In dieser Version werden Sie einige Änderungen bemerken, darunter [Filter mit intelligenter Liste und Auswahl in Flussschritten hinzufügen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) um die Auswahl eines Modells und einer Bühne zu unterstützen. Außerdem verschieben wir die Felder &quot;Lead-Umsatzstufe&quot;und &quot;Lead-Umsatzzyklusmodell&quot;aus der Registerkarte &quot;Smart List Lead Grid&quot;.

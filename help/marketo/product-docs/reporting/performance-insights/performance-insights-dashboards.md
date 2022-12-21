@@ -1,108 +1,107 @@
 ---
 unique-page-id: 13795534
-description: Performance Insight-Dashboard - Marketing Docs - Produktdokumentation
-title: Performance Insight-Dashboard
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Performance Insights-Dashboards - Marketo-Dokumente - Produktdokumentation
+title: Dashboards für Leistungseinblicke
+exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '504'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Dashboards für Leistungseinblicke {#performance-insights-dashboards}
 
-# Performance Insight-Dashboard {#performance-insights-dashboards}
-
-Erfahren Sie mehr über die verfügbaren Dashboard in MPI.
+Erfahren Sie mehr über die verfügbaren Dashboards in MPI.
 
 ![](assets/1-4.png)
 
-## Interaktion {#engagement}
+## Engagement {#engagement}
 
-Mit dem Dashboard Interaktion können Sie die Effektivität Ihrer Pflege und Ihrer neuen Programme zur Namenserfassung messen.
+Mit dem Interaktionsdashboard können Sie die Effektivität Ihrer Pflegeprogramme und der Akquiseprogramme für neue Namen messen.
 
 ![](assets/two-3.png)
 
-Audience-Interaktion messen
+Messen der Zielgruppeninteraktion
 
-Wählen Sie die Metrik **Erfolge** aus, um den Einsatz der Audience in Ihren Programmen zu messen. Erfolg ist ein Maß für sinnvolle Interaktion in Marketo.
+Wählen Sie die **Erfolge** Metrik zur Messung der Interaktion der Zielgruppe mit Ihren Pflegeprogrammen. Der Erfolg ist ein Maß für die sinnvolle Interaktion in Marketo.
 
 ![](assets/3-4.png)
 
-Der Zweck eines Programms besteht darin, eine aussagekräftige Interaktion mit der Person oder dem Potenzieller Kunde herzustellen. Der Erfolg wird markiert, wenn eine Person den Status erreicht, der dieses Ziel erreicht. Sie kann an einem Webinar teilnehmen, auf einen Link in einer E-Mail klicken oder ein Webformular ausfüllen. Der Erfolg hängt vom Kanal des Programms ab.
+Ziel eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem Interessenten herzustellen. Der Erfolg wird markiert, wenn eine Person den Status erreicht, der dieses Ziel erreicht. Sie können an einem Webinar teilnehmen, auf einen Link in einer E-Mail klicken oder ein Webformular ausfüllen. Der Erfolg variiert je nach Programmkanal.
 
 >[!NOTE]
 >
->In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, registriert und teilgenommen. Eingeladene oder registrierte Interaktionen sind keine sinnvollen Interaktionen, weil die Leute das Webinar nicht wirklich ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
+>In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, registriert und angemeldet. Eingeladene oder registrierte Interaktionen sind nicht aussagekräftig, da die Leute sich das Webinar nicht ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
 
-Erfassung neuer Namen messen
+Erfassen neuer Namen messen
 
-Wählen Sie die Metrik **Neue Namen** aus, um die Effektivität Ihrer neuen Programm zur Namenserfassung zu messen.
+Wählen Sie die **Neue Namen** Metrik, um die Effektivität Ihrer neuen Namensakquiseprogramme zu messen.
 
 ![](assets/4-3.png)
 
 >[!NOTE]
 >
->Alle Ihre Programm müssen so eingerichtet sein, dass das Akquise-Programm und das Akquisedatum der Interessenten festgelegt werden, damit dieses Dashboard die besten Ergebnisse liefert.
+>Alle Ihre Programme müssen so eingerichtet sein, dass sie das Akquiseprogramm und das Akquisedatum der Leads festlegen, damit dieses Dashboard die besten Ergebnisse liefert.
 
-## Pipeline {#pipeline}
+## Vertriebskette {#pipeline}
 
-Das Pipeline-Dashboard zeigt die Performance des Kanals nach First Touch- und Multi-Touch-Metriken.
+Das Pipeline-Dashboard zeigt die Kanalleistung nach Erstkontakt- und Multi-Touch-Metriken an.
 
 ![](assets/five-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Neue Möglichkeiten</strong></p></td> 
-   <td><p>Der Anteil der Kredite, die das Programm erhalten hat, um die Schaffung neuer Möglichkeiten zu beeinflussen. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</p></td> 
+   <td><p><strong>Neue Chancen</strong></p></td> 
+   <td><p>Der Teil des Kredits, den das Programm erhielt, um die Schaffung neuer Möglichkeiten zu beeinflussen. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Pipeline erstellt</strong></p></td> 
-   <td><p>Der Anteil des Kredits (in Geldwert), den das Programm erhalten hat, um die Schaffung von Chancen zu beeinflussen. Es kann ein Bruchteil der Summe sein, wenn mehrere Interessenten beteiligt waren.</p></td> 
+   <td><p>Der Teil des Kredits (in Geldwert), den das Programm zur Beeinflussung der Schaffung von Möglichkeiten erhalten hat. Wenn mehrere Leads beteiligt waren, kann dies ein Bruchteil der Gesamtsumme sein.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline öffnen</strong></p></td> 
-   <td><p>Der Anteil des Kredits (in Geldwert), den das Programm erhält, um die Schaffung von Möglichkeiten zu beeinflussen, die noch offen sind. Es kann ein Bruchteil der Summe sein, wenn mehrere Interessenten beteiligt waren.</p></td> 
+   <td><p><strong>Pipeline offen</strong></p></td> 
+   <td><p>Der Teil des Kredits (in Geldwert), den das Programm erhalten hat, um die Schaffung noch offener Möglichkeiten zu beeinflussen. Wenn mehrere Leads beteiligt waren, kann dies ein Bruchteil der Gesamtsumme sein.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Erwarteter Umsatz</strong></p></td> 
-   <td><p>Der Anteil des Kredits (in Geldwert), den das Programm erhalten hat, um die Schaffung von Chancen zu beeinflussen. Erwarteter Umsatz ist die Opportunity-Wahrscheinlichkeit multipliziert mit dem Opportunity-Wert. Es kann ein Bruchteil sein, wenn mehrere Interessenten involviert waren.</p></td> 
+   <td><p>Der Teil des Kredits (in Geldwert), den das Programm zur Beeinflussung der Schaffung von Möglichkeiten erhalten hat. Erwarteter Umsatz ist die Opportunity-Wahrscheinlichkeit multipliziert mit dem Opportunity-Wert. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Kosten pro Chancen erstellt</strong></p></td> 
-   <td><p>Der Anteil der Kosten des Programms, der neue Chancen beeinflusste, geteilt durch die Gesamtzahl der neu geschaffenen Chancen.</p></td> 
+   <td><p><strong>Kosten je erstellter Chance</strong></p></td> 
+   <td><p>Der Anteil der Programmkosten, der neue Möglichkeiten beeinflusste, geteilt durch die Gesamtzahl der neu geschaffenen Möglichkeiten.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline erstellt in Kostenverhältnis</strong></p></td> 
-   <td><p>Der Anteil an Krediten, den ein Programm für die Beeinflussung der Schaffung neuer Chancen erhalten hat, geteilt durch den Anteil der Kosten des Programms, der die Schaffung von Chancen beeinflusste.</p></td> 
+   <td><p><strong>Verhältnis Erstellte Pipeline : Kosten</strong></p></td> 
+   <td><p>Der Teil des Kredits, den ein Programm zur Beeinflussung der Schaffung neuer Möglichkeiten erhalten hat, geteilt durch den Anteil der Kosten des Programms, der die Schaffung von Chancen beeinflusst hat.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Umsatz {#revenue}
 
-Das Dashboard Umsatz zeigt die Performance der Kanal nach First Touch- und Multi-Touch-Metriken.
+Das Dashboard Umsatz zeigt die Kanalleistung nach Erstkontakt- und Multi-Touch-Metriken an.
 
 ![](assets/six-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Chancen gewinnen</strong></p></td> 
-   <td><p>Der Anteil an Krediten, den ein Programm erhält, um eine Chance zu beeinflussen.</p></td> 
+   <td><p><strong>Gewonnene Chancen</strong></p></td> 
+   <td><p>Der Teil des Kredits, den ein Programm erhalten hat, um eine gewesene Chance zu beeinflussen.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Umsatz Gewonnen</strong></p></td> 
-   <td><p>Der Anteil des Kredits (in Geldwert), der für die Beeinflussung einer gewann Chance erhalten wurde.</p></td> 
+   <td><p><strong>Gewonnener Ertrag</strong></p></td> 
+   <td><p>Der Teil des Kredits (in Geldwert), der für die Beeinflussung einer erschlossenen Chance erhalten wurde.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Kosten pro Opportunity Won</strong></p></td> 
-   <td><p>Der Anteil der Kosten des Programms, der neue Chancen beeinflusste, geteilt durch die Gesamtzahl der neu geschaffenen Chancen.</p></td> 
+   <td><p><strong>Kosten je gewonnener Chance</strong></p></td> 
+   <td><p>Der Anteil der Programmkosten, der neue Möglichkeiten beeinflusste, geteilt durch die Gesamtzahl der neu geschaffenen Möglichkeiten.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Verhältnis zwischen Umsatz und Kosten</strong></p></td> 
-   <td><p>Der Anteil des Kredits (in Geldwert), der für die Beeinflussung einer erwirtschafteten Chance erhalten wurde, geteilt durch den Anteil der Kosten des Programms, der neue Chancen beeinflusste.</p></td> 
+   <td><p><strong>Verhältnis Gewonnener Umsatz : Kosten</strong></p></td> 
+   <td><p>Der Teil des Kredits (in Geldwert), der für die Einflussnahme auf eine gewesene Chance erhalten wurde, geteilt durch den Anteil der Programmkosten, der neue Chancen beeinflusste.</p></td> 
   </tr> 
  </tbody> 
 </table>

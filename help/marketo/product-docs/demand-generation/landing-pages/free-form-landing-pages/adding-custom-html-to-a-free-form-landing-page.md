@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359730
-description: Hinzufügen von benutzerspezifischem HTML zu einer Landingpage mit Freiform - Marketing Docs - Produktdokumentation
-title: Hinzufügen von benutzerdefiniertem HTML zu einer Freiform-Landingpage
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage - Marketo Docs - Produktdokumentation
+title: Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage
+exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
+# Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage {#adding-custom-html-to-a-free-form-landing-page}
 
-# Hinzufügen von benutzerdefiniertem HTML zu einer Freiformdatei-Landingpage {#adding-custom-html-to-a-free-form-landing-page}
-
-Sie können benutzerdefinierte Skripten, CSS oder andere HTML zu Landingpages hinzufügen.
+Sie können Landingpages benutzerdefinierte Skripte, CSS oder andere HTML hinzufügen.
 
 >[!NOTE]
 >
->Der Marketing-Support ist nicht so eingerichtet, dass er bei der Fehlerbehebung für benutzerdefiniertes HTML hilft. Für HTML-Hilfe wenden Sie sich bitte an einen Webentwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Webentwickler, um Hilfe beim HTML zu erhalten.
 
 1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Ziehen Sie im Landingpages-Editor das Element **HTML**.
+1. Ziehen Sie im Landingpage-Editor in den **HTML** -Element.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
@@ -31,12 +30,12 @@ Sie können benutzerdefinierte Skripten, CSS oder andere HTML zu Landingpages hi
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-Schön! Geben Sie die gewünschten Skripten oder CSS ein.
+Gut! Fügen Sie alle gewünschten Skripte oder CSS hinzu.
 
 >[!TIP]
 >
->Testen Sie nach Möglichkeit Ihre benutzerdefinierte HTML-Quelle in einer lokalen Umgebung, bevor Sie sie in einer Landingpage bereitstellen.
+>Testen Sie nach Möglichkeit Ihre benutzerdefinierte HTML-Quelle in einer lokalen Umgebung, bevor Sie sie auf einer Landingpage bereitstellen.
 
 >[!CAUTION]
 >
->Wenn Ihr benutzerdefinierter HTML-Code nicht gerendert wird (z. B. eine unsichtbare JavaScript-Funktion oder CSS), platzieren Sie das Element an einer unvergesslichen Stelle wie oben links. Die Elementumrisslinie ist nur sichtbar, wenn Sie in den Bereich klicken.
+>Wenn Ihre benutzerdefinierte HTML nicht gerendert wird (z. B. eine unsichtbare JavaScript-Funktion oder CSS), platzieren Sie das Element an einer speicherbaren Stelle wie oben links. Der Elemententwurf ist nur sichtbar, wenn Sie in den Bereich klicken.

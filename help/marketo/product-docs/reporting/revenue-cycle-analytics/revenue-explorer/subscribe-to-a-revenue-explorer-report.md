@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360397
-description: Abonnieren eines Berichts über den Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
-title: Abonnieren eines Berichts über den Umsatz-Explorer
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Abonnieren eines Umsatz-Explorer-Berichts - Marketo-Dokumente - Produktdokumentation
+title: Abonnieren eines Umsatz-Explorer-Berichts
+exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
+# Abonnieren eines Umsatz-Explorer-Berichts {#subscribe-to-a-revenue-explorer-report}
 
-# Abonnieren eines UmsatzExplorer-Berichts {#subscribe-to-a-revenue-explorer-report}
+Um Aktualisierungen von Ihren Umsatz-Cycle-Explorer-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
-Um Updates von Ihren Umsatz-Cycle-Explorer-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
-
-1. Gehen Sie zu **Analytics** und wählen Sie **Neu** > **Neues Abonnement**.
+1. Navigieren Sie zu **Analytics** und wählen Sie **Neu** > **Neue Berichtanmeldung**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Informationen zum Abonnieren eines von Ihnen in einem Programm erstellten Basisberichts finden Sie unter [Einen Basisbericht abonnieren.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Informationen zum Abonnieren eines Basisberichts, den Sie in einem Programm erstellt haben, finden Sie unter [Abonnieren Sie einen einfachen Bericht.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Wählen Sie für **Berichtsquelle** **Umsatz-Explorer**.
+1. Für **Berichtsquelle** auswählen **Umsatz-Explorer**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -31,18 +30,18 @@ Um Updates von Ihren Umsatz-Cycle-Explorer-Berichten zu erhalten und diese freiz
 
    ![](assets/image2014-9-17-12-3a47-3a17.png)
 
-1. Geben Sie die E-Mail-Adresse(n) ein und legen Sie die Häufigkeit der Bericht-E-Mails fest.
+1. Geben Sie die E-Mail-Adresse(n) ein und legen Sie die Häufigkeit der E-Mails in Berichten fest.
 
    ![](assets/image2014-9-17-12-3a47-3a22.png)
 
    >[!NOTE]
    >
-   >Jeder kann sich aus dem Bericht in der E-Mail, die er erhält, abmelden.
+   >Jeder kann sich von dem Bericht in der E-Mail abmelden, die er erhält.
 
-1. Dein Abonnement ist festgelegt! Wenn Sie Ihre eigene E-Mail-Adresse angegeben haben, erhalten Sie den Bericht per E-Mail.
+1. Ihr Abonnement ist festgelegt! Wenn Sie Ihre eigene E-Mail-Adresse angegeben haben, erhalten Sie den Bericht per E-Mail.
 
    ![](assets/image2014-9-17-12-3a47-3a54.png)
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [alle Ihre Report Abonnement](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort verwalten.
+>Erfahren Sie, wie Sie [alle Berichtanmeldungen verwalten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort.

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 5B {#template-5b}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html) herunterladen
+Rechtsklick auf [Download-Vorlage 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 

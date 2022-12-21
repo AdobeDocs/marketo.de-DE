@@ -1,9 +1,8 @@
 ---
 unique-page-id: 557312
-description: Glossar "Operatoren für intelligente Liste"- Marketo Docs - Produktdokumentation
-title: Glossar zu Operatoren für intelligente Liste
+description: Glossar zu Operatoren für intelligente Listenfilter - Marketo-Dokumente - Produktdokumentation
+title: Glossar zu Operatoren für intelligente Listenfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
@@ -11,11 +10,11 @@ ht-degree: 12%
 
 ---
 
-# Filteroperatoren für intelligente Listen - Glossar {#smart-list-filter-operators-glossary}
+# Glossar zu Operatoren für intelligente Listenfilter {#smart-list-filter-operators-glossary}
 
-Ein Operator ist ein Teil der intelligenten Liste, die Ihnen hilft, bestimmte Informationen zu erhalten. Damit können Sie Ihren Filter oder Trigger in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.
+Ein Operator ist Teil der Smart-Liste, mit der Sie bestimmte Kriterien erfüllen können. Damit können Sie Ihren Trigger oder Filter in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.
 
-Im Folgenden finden Sie ein Glossar, das die einzelnen Operatoren beschreibt.
+Im Folgenden finden Sie ein Glossar, in dem die einzelnen Operatoren beschrieben werden.
 
 ## Datumsfelder {#date-fields}
 
@@ -25,22 +24,22 @@ Wenn Sie einen Operator auswählen, ändert sich die rechte Seite dynamisch.
 
 | Operator | Rechts | Beschreibung |
 |---|---|---|
-| ist | Einzeldatum | Genaue Datumsübereinstimmung |
-| ist nicht | Einzeldatum | Jedes Datum außer dem angegebenen |
+| ist | Einzeldatum | genaue Datumsübereinstimmung |
+| ist nicht | Einzeldatum | Jegliches Datum außer dem angegebenen |
 | zwischen | Zwei Datumsfelder | Jedes Datum einschließlich und zwischen zwei angegebenen Daten |
-| in Vergangenheit | Natürliche Spracheingabe* | Siehe Diagramm unten |
-| in der Vergangenheit vor | Natürliche Spracheingabe* | Siehe Diagramm unten |
-| in der Zukunft | Natürliche Spracheingabe* | Siehe Diagramm unten |
-| in der Zukunft nach | Natürliche Spracheingabe* | Siehe Diagramm unten |
+| in Vergangenheit | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
+| in der Vergangenheit vor | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
+| in der Zukunft | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
+| in der Zukunft nach | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
 | in Zeitrahmen | Vorgaben (letztes Quartal, gestern usw.) | Definiert in picklist |
 | nach | Einzeldatum | Alle Datensätze nach dem angegebenen Datum |
 | vor | Einzeldatum | Alle Datensätze vor dem angegebenen |
-| am oder nach | Einzeldatum | Wie &quot;after&quot;, aber inklusiv |
-| am oder vor | Einzeldatum | Wie &quot;vorher&quot;, aber inklusiv |
+| am oder nach | Einzeldatum | siehe &quot;after&quot;, aber inklusive |
+| am oder vor | Einzeldatum | siehe &quot;before&quot;, aber inklusive |
 | ist leer | Keine | Alle Datensätze ohne Datum |
-| ist nicht leer | Keine | Alle Datensätze mit einem beliebigen Datum |
+| ist nicht leer | Keine | Alle Datensätze mit beliebigem Datum |
 
-* Die natürliche Spracheingabe ist cool. Folgende Muster können Sie eingeben:
+&#42; Die natürliche Spracheingabe ist cool. Im Folgenden finden Sie einige der Muster, die Sie eingeben können:
 
 * 1 Stunde
 * 82 Tage
@@ -48,15 +47,15 @@ Wenn Sie einen Operator auswählen, ändert sich die rechte Seite dynamisch.
 * 14 Monate
 * 1 Jahr
 
-Geben Sie einfach die Nummer und Einheit zusammen und es funktioniert!
+Geben Sie einfach die Nummer und Einheit zusammen und es wird funktionieren!
 
 >[!NOTE]
 >
->&quot;In der Vergangenheit&quot; **bezieht** den Tag ein (bis zum Zeitpunkt, nicht danach), den Sie Ihre intelligente Liste erstellen.
+>&quot;In der Vergangenheit&quot; **does** den Tag (bis zur Uhrzeit, nicht nach), an dem Sie Ihre Smart-Liste erstellen.
 
 >[!CAUTION]
 >
->Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, Erstellungsdatum des SFDC) und die **before**- oder **on- oder vor-**-Einschränkungen verwenden, umfasst die intelligente Liste auch Personen, die in diesem Datumsfeld keinen Wert haben.
+>Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die **before** oder **auf oder vor** Einschränkungen enthält die intelligente Liste auch Personen, die in diesem Datumsfeld keinen Wert haben.
 
 Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoperatoren zu verstehen.
 
@@ -66,15 +65,15 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 >
 >**Beispiel**
 >
->Datumsfelder können kompliziert werden, wenn Sie mit vergangenen und zukünftigen Ereignissen arbeiten. Hier sind einige Beispiele.
+>Datumsfelder können schwierig werden, wenn Sie mit vergangenen und zukünftigen Ereignissen arbeiten. Hier sind einige Beispiele.
 >
->**Früher**
+>**In der Vergangenheit**
 >
->Für Ihre neue Promotion verwenden Sie diesen Operator, um E-Mails nur an Personen zu senden, die Ihren Dienst nicht innerhalb eines Jahres abonniert oder erneuert haben oder noch nie Abonnenten waren.
+>Verwenden Sie diesen Operator, um für Ihre neue Werbeaktion E-Mails nur an Personen zu senden, die Ihren Dienst nicht innerhalb eines Jahres abonniert oder erneuert haben oder noch nie Abonnenten waren.
 >
 >**In Zukunft nach**
 >
->Nehmen Sie an, Sie möchten Kunden sehen, die in 90 Tagen eine Verlängerung planen. Sie würden zwei separate Filter verwenden. Verwenden Sie zunächst &quot;In Zukunft nach 90 Tagen&quot; und dann &quot;In Zukunft 91 Tage&quot;. Dadurch würde erfasst werden, wer in 90 Tagen ein Datum hat.
+>Nehmen Sie an, Sie möchten Kunden sehen, die in 90 Tagen eine Verlängerung beantragen. Sie würden zwei separate Filter verwenden. Verwenden Sie zunächst &quot;In der Zukunft nach 90 Tagen&quot;und dann &quot;In den kommenden 91 Tagen&quot;. Dadurch würde erfasst, wer in 90 Tagen ein Datum hat.
 
 ## Zeichenfolgenfelder {#string-fields}
 
@@ -82,18 +81,18 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 
 | Operator | Beschreibung |
 |---|---|
-| ist | Genaue Übereinstimmung (nicht zwischen Groß- und Kleinschreibung unterscheiden) |
-| ist nicht | Alles außer genaue Übereinstimmung |
-| beginnt mit | Erste übereinstimmende Buchstaben einer Zeichenfolge |
-| beginnt nicht mit | Erste Buchstaben der Zeichenfolge DO NOT match |
+| ist | Exakte Übereinstimmung (nicht zwischen Groß- und Kleinschreibung unterscheiden) |
+| ist nicht | Alles außer exakter Übereinstimmung |
+| beginnt mit | Erste Buchstaben der Zeichenfolge stimmen überein |
+| beginnt nicht mit | Erste Buchstaben der Zeichenfolge stimmen NICHT überein |
 | enthält | Alle Buchstaben in der Zeichenfolge stimmen überein (Beispiel: Kalifornien, Glück, also) |
-| enthält nicht | Keine Buchstaben zusammen in der Zeichenfolge übereinstimmen. (Umkehrung von &quot;enthält&quot;) |
+| enthält nicht | Keine Buchstaben zusammen in der Zeichenfolge stimmen überein. (Umkehrung von &quot;enthält&quot;) |
 | ist leer | Datensätze ohne Wert (NULL) |
-| ist nicht leer | Datensätze mit ANY-Werten |
+| ist nicht leer | Datensätze mit ANY-Wert |
 
 >[!TIP]
 >
->Verwenden Sie positive und negative Operatoren. &quot;Ist nicht&quot;-Filter müssen den gesamten Datensatz in Ihrer Instanz durchsuchen, was sehr zeitaufwendig sein kann. Positive &quot;is&quot;-Filter können effektivere Suchalgorithmen nutzen.
+>Verwenden Sie positive gegenüber negative Operatoren. &quot;Ist nicht&quot;Filter müssen den gesamten Datensatz in Ihrer Instanz durchsuchen, was sehr zeitaufwendig sein kann. Positive &quot;is&quot;-Filter können effektivere Suchalgorithmen nutzen.
 
 ## Ganzzahlfelder {#integer-fields}
 
@@ -109,15 +108,15 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">ist</td> 
-   <td colspan="1" rowspan="1">Genaue Zahlenübereinstimmung ( = 0 gibt beide Leads mit 0 <em>und</em> NULL zurück)</td> 
+   <td colspan="1" rowspan="1">Exakte Zahlenübereinstimmung ( = 0 gibt beide Leads mit 0 zurück <em>und</em> NULL)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">ist nicht</td> 
-   <td colspan="1" rowspan="1">Alles außer exakte Zahlenübereinstimmung</td> 
+   <td colspan="1" rowspan="1">Alles außer exakter Zahlenübereinstimmung</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">zwischen</td> 
-   <td colspan="1" rowspan="1">Definieren Sie zwei Werte, um alle dazwischen zu finden (inklusive)</td> 
+   <td colspan="1" rowspan="1">Definieren Sie zwei Werte, um alle zwischen (einschließlich) zu finden.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">größer als</td> 
@@ -129,21 +128,21 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">mindestens</td> 
-   <td colspan="1" rowspan="1">Über dem angegebenen (einschließlich)</td> 
+   <td colspan="1" rowspan="1">Oberhalb des angegebenen (einschließlich)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">höchstens</td> 
-   <td colspan="1" rowspan="1">Kleiner als die angegebene (einschließlich)</td> 
+   <td colspan="1" rowspan="1">Niedriger als der angegebene (einschließlich)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">ist leer</td> 
-   <td colspan="1" rowspan="1">Datensätze ohne Wert (NULL) - null ist eine Zahl, es ist <em>nicht</em> NULL</td> 
+   <td colspan="1" rowspan="1">Datensätze ohne Wert (NULL) - null ist eine Zahl, es ist <em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">ist nicht leer</td> 
-   <td colspan="1" rowspan="1">Datensätze mit JEDEM Wert (einschließlich Null)</td> 
+   <td colspan="1" rowspan="1">Datensätze mit ANY-Wert (einschließlich Null)</td> 
   </tr> 
  </tbody> 
 </table>
 
-Wie Sie sehen können, machen diese Operatoren es einfach, Marketo-ese mit fließender Sprache zu sprechen!
+Wie Sie sehen können, machen diese Operatoren es einfach, Marketo-ese mit Flut zu sprechen!

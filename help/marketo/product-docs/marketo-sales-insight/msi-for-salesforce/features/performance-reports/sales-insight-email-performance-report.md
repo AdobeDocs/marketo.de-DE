@@ -1,43 +1,42 @@
 ---
 unique-page-id: 4720314
-description: Sales Insight-E-Mail-Leistungsbericht - Marketing-Dokumente - Produktdokumentation
+description: Sales Insight-E-Mail-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
 title: Sales Insight-E-Mail-Leistungsbericht
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
 # Sales Insight-E-Mail-Leistungsbericht {#sales-insight-email-performance-report}
 
-Ansicht der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder ein Gmail- oder Outlook-Plugin gesendet werden.
+Zeigen Sie die Leistung von E-Mails an, die über Salesforce, Microsoft Dynamics oder ein Gmail- oder Outlook-Plug-in gesendet werden.
 
-## Erstellen eines Berichts {#generate-a-report}
+## Einen Bericht erstellen {#generate-a-report}
 
-1. Klicken Sie auf **Analytics**.
+1. Klicken **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Klicken Sie auf **Sales Insight E-Mail-Leistung**.
+1. Klicken **Sales Insight-E-Mail-Leistung**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Klicken Sie auf die Registerkarte **Setup** und wählen Sie die gewünschten Werte aus.
+1. Klicken Sie auf **Einrichtung** und wählen Sie die gewünschten Werte aus.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht**.
+1. Klicken Sie auf **Bericht** Registerkarte.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
-   Großartig! Jetzt können Sie sehen, wie Ihre E-Mails, die von Ihrem Vertriebsteam gesendet wurden, funktioniert haben.
+   Sehr gut! Jetzt können Sie sehen, wie Ihre E-Mails, die von Ihrem Verkaufsteam gesendet wurden, funktionieren.
 
    >[!NOTE]
    >
-   >Der Status &quot;Ausgeliefert&quot;wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden, und wird nicht in diesen Bericht- oder Aktivitäten-Protokollen aufgenommen.
+   >Der Status Zugestellt wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden, und wird nicht in diesen Bericht oder die Aktivitätsprotokolle aufgenommen.
 
 >[!TIP]
 >
@@ -45,22 +44,22 @@ Ansicht der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder 
 
 ## Gruppe nach Vertriebsmitarbeiter {#group-by-sales-rep}
 
-Sie können diesen Bericht nach Vertriebsmitarbeiter gruppieren, indem Sie Ihre Einstellungen ändern.
+Sie können diesen Bericht nach Vertriebsmitarbeitern gruppiert anzeigen, indem Sie Ihre Einstellungen ändern.
 
-1. Klicken Sie auf **Setup**. Klicken Sie mit der Dublette auf **E-Mail**.
+1. Klicken **Einrichtung**. Doppelklicken **Email**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Wählen Sie Gruppe-E-Mails nach **Vertriebsmitarbeiter**.
+1. Wählen Sie E-Mails gruppieren nach **Vertriebsmitarbeiter**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht**.
+1. Klicken Sie auf **Bericht** Registerkarte.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
-   Ziemlich cool, oder? Jetzt können Sie die Performance von E-Mails gruppiert nach Vertriebsmitarbeitern sehen.
+   Sehr cool, was? Jetzt können Sie die Performance von E-Mails nach Vertriebsmitarbeitern gruppieren.

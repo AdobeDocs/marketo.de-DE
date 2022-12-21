@@ -24,7 +24,7 @@ Marketo Engage verwaltet die Registrierung und Teilnahme Ihres Webinars.
 
 >[!NOTE]
 >
->Der Site-Name befindet sich am Ende der URL, die zum Anmelden bei Webex verwendet wird. Zum Beispiel:
+>Der Site-Name befindet sich am Ende der URL, die zum Anmelden bei Webex verwendet wird. Beispiel:
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >

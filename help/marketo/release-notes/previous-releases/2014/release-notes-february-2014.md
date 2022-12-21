@@ -16,35 +16,35 @@ Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Informa
 
 ## Engagement-Bewertung als entscheidendes Kriterium {#engagement-score-as-winning-criteria}
 
-[Verwenden Sie den Interaktionswert, ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) um die Gewinnervariante in Ihrem A/B-Splittest oder Champion/Challenger-Test zu ermitteln. Der Test muss mindestens 24 Stunden laufen, um einen angemessenen Interaktionswert zu erhalten.
+[Interaktionsbewertung verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) um die Gewinnervariante in Ihrem A/B-Splitstest oder Champion/Challenger-Test zu ermitteln. Der Test muss mindestens 24 Stunden laufen, um einen angemessenen Interaktionswert zu erhalten.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
 ## Registerkarte &quot;Ergebnisse des E-Mail-Programms&quot; {#email-program-results-tab}
 
-[Zeigen Sie die ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) Ergebnisse und Aktivitäten an, die für das E-Mail-Programm protokolliert wurden.
+[Ergebnisse anzeigen](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) und Aktivitäten, die für das E-Mail-Programm protokolliert wurden.
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
 ## Personen/Interessenten, die vom Versand blockiert wurden {#people-leads-blocked-from-mailing}
 
-[Klicken Sie auf die Personen/Leads, die von der ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Mailingnummer blockiert wurden, um zu sehen, wer die E-Mail nicht erhält, weil er abgemeldet, auf die Blacklist gesetzt, eine ungültige oder leere E-Mail-Adresse verwendet oder das Marketing ausgesetzt wurde.
+[Klicken Sie auf Personen/Leads, die vom Versand ausgeschlossen sind.](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Zahl, um zu sehen, wer die E-Mail nicht erhält, weil er abgemeldet, auf der Blacklist steht, eine ungültige oder leere E-Mail-Adresse hat oder das Marketing ausgesetzt wurde.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
 ## Exportieren von E-Mail-Programmdaten {#export-email-program-data}
 
-[Exportieren Sie E-Mail-Metriken in Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), einschließlich AB-Test-Variantendaten.
+[E-Mail-Metriken in Excel exportieren](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), einschließlich Daten der AB-Testvarianten.
 
 ## Interaktionsbewertung im Interaktions-Stream-Leistungsbericht {#engagement-score-in-engagement-stream-performance-report}
 
-Wir haben die Interaktionsbewertung zum [Interaktions-Stream-Leistungsbericht](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) hinzugefügt, damit Sie sehen können, wie effektiv der Inhalt in Ihrem Interaktionsprogramm ist.
+Die Interaktionsbewertung wurde zum [Interaktions-Stream-Leistungsbericht](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) um Ihnen zu zeigen, wie effektiv der Inhalt in Ihrem Interaktionsprogramm ist.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
 ## Programmdetails in der E-Mail-Analyse {#program-details-in-email-analysis}
 
-[Jetzt können Sie Ihre E-Mail-Metriken nach Programmname, Kanal und Tags](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) gruppieren. Der Programmname wird dem Feld E-Mail-Name hinzugefügt, wenn die E-Mail ein lokales Asset des Programms ist. Das neue Feld Programmname zeigt den Programmnamen der Smart-Kampagne an, die die E-Mail gesendet hat. Dies kann sich vom Programm im Feld E-Mail-Name unterscheiden, wenn die E-Mail ein lokales Asset eines anderen Programms ist.
+[Jetzt können Sie Ihre E-Mail-Metriken nach Programmname, Kanal und Tags gruppieren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). Der Programmname wird dem Feld E-Mail-Name hinzugefügt, wenn die E-Mail ein lokales Asset des Programms ist. Das neue Feld Programmname zeigt den Programmnamen der Smart-Kampagne an, die die E-Mail gesendet hat. Dies kann sich vom Programm im Feld E-Mail-Name unterscheiden, wenn die E-Mail ein lokales Asset eines anderen Programms ist.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
@@ -60,6 +60,6 @@ Die folgenden Filter- und Trigger-Namen wurden aktualisiert:
 
 ## Verbesserungen für Formulare 2.0 {#forms-enhancements}
 
-Forms 2.0 wurde mit dieser Version um einige Updates zur Lebensqualität ergänzt. Neben der Aktivierung der progressiven Profilerstellung für eingebettete Formulare haben wir Workflow- und UX-Änderungen vorgenommen, die die Verwendung der erweiterten Funktionalität im Editor, [einschließlich der Sichtbarkeitsregeln](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), erweiterten Dankeseiten und ausgeblendeten Feldern, erleichtern.
+Forms 2.0 wurde mit dieser Version um einige Updates zur Lebensqualität ergänzt. Zusätzlich zur Aktivierung der progressiven Profilerstellung für eingebettete Formulare haben wir Änderungen am Arbeitsablauf und an der Benutzeroberfläche vorgenommen, die die Verwendung der erweiterten Funktionen im Editor erleichtern. [einschließlich der Sichtbarkeitsregeln](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), erweiterte Dankeseiten und ausgeblendete Felder.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

@@ -1,36 +1,35 @@
 ---
 unique-page-id: 11382593
-description: Einstellung der Web-Personalisierung auf Nicht verfolgen - Marketing Docs - Produktdokumentation
-title: Web-Personalisierung auf Nicht verfolgen einstellen
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Einstellung der Web-Personalisierung auf Nicht verfolgen - Marketo-Dokumente - Produktdokumentation
+title: Einstellen der Web-Personalisierung auf "Nicht verfolgen"
+exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
+# Einstellen der Web-Personalisierung auf &quot;Nicht verfolgen&quot; {#setting-web-personalization-to-do-not-track}
 
-# Web-Personalisierung auf Nicht verfolgen einstellen {#setting-web-personalization-to-do-not-track}
+Webbesucher können ihren Browser so einstellen, dass Tracking durch jede Website verhindert wird, indem sie &quot;Do Not Track&quot;(DNT) auswählen. Dies verhindert das Tracking für diesen bestimmten Browser und Gerät.
 
-Web-Besucher können ihren Browser so einstellen, dass die Verfolgung durch eine beliebige Website verhindert wird, indem sie &quot;Nicht verfolgen&quot;(DNT) wählen. Dies verhindert die Verfolgung für diesen bestimmten Browser und das betreffende Gerät.
+In Web-Personalisierung und Predictive Content kann ein Marketing-Experte einen Umschalter einrichten, um anzugeben, ob die Einstellung Do Not Track (DNT) des Browsers unterstützt oder ignoriert werden soll. Der Umschalter für Konten ist als Standard deaktiviert, was bedeutet, dass DNT von der Anwendung nicht berücksichtigt wird.
 
-In Web-Personalisierung und Predictive Content kann ein Marketingexperte einen Umschalter einrichten, um anzugeben, ob die Einstellung &quot;Keine Verfolgung (DNT)&quot;des Browsers unterstützt oder ignoriert werden soll. Der Umschalter für Konten ist standardmäßig deaktiviert, d. h., das DNT wird von der Anwendung nicht berücksichtigt.
+## Aktivieren oder Deaktivieren der Umschaltung {#enable-or-disable-the-toggle}
 
-## Aktivieren oder deaktivieren Sie das Umschalten {#enable-or-disable-the-toggle}
-
-1. Gehen Sie zu **Kontoeinstellungen**.
+1. Navigieren Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Wählen Sie unter &quot;Domain and Domain Configuration&quot;die Option **On** aus, um den Umschalter &quot;Honor DNT&quot;zu aktivieren.
+1. Wählen Sie in Konfiguration von Domäne und Domäne die Option **on** , um den Ehrenschalter DNT zu aktivieren.
 
    ![](assets/two-1.png)
 
-   Wenn der Umschalter auf &quot;Ein&quot;gesetzt ist, wird die Einstellung &quot;Nicht verfolgen&quot;des Browsers durch die Web-Personalisierung berücksichtigt und unterstützt. Außerdem werden keine Web-Aktivitäten verfolgt und keine Kampagnen oder Inhaltsempfehlungen auf Ihrer Website ausgeführt.
+   Wenn der Umschalter auf Ein gesetzt ist, berücksichtigt und unterstützt die Web-Personalisierung die Einstellung Nicht verfolgen (DNT) des Browsers und verfolgt keine Web-Aktivität oder führt keine Kampagnen oder Inhaltsempfehlungen auf Ihrer Website aus.
 
    >[!NOTE]
    >
-   >Das Festlegen des Umschalters auf &quot;Ein&quot;kann sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken.
+   >Das Festlegen des Umschalters auf Ein kann sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken.
 
-1. Um den Umschalter &quot;Honor DNT&quot;zu deaktivieren und die Einstellung &quot;Do No Track (DNT)&quot;des Browsers zu ignorieren, wählen Sie **Off** unter &quot;Honor DNT&quot;aus.
+1. Um den Umschalter &quot;Honor DNT&quot;zu deaktivieren und die Einstellung &quot;Do No Track (DNT)&quot;des Browsers zu ignorieren, wählen Sie **Aus** unter Honorar DNT.

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 7511477
-description: Inaktivität von Filtern in einer intelligenten Liste - Marketo Docs - Produktdokumentation
-title: Inaktive Filter in einer intelligenten Liste verwenden
+description: Verwenden von Inaktivitätsfiltern in einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
+title: Verwenden von Inaktivitätsfiltern in einer Smart-Liste
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
@@ -11,26 +10,26 @@ ht-degree: 0%
 
 ---
 
-# Inaktive Filter in einer intelligenten Liste {#use-inactivity-filters-in-a-smart-list} verwenden
+# Verwenden von Inaktivitätsfiltern in einer Smart-Liste {#use-inactivity-filters-in-a-smart-list}
 
-Wusstest du, dass du nach Leuten in einer intelligenten Liste suchen kannst, die *nicht* etwas getan haben? Sehen Sie sich diese Filter der Inaktivität an.
+Wussten Sie, dass Sie in einer intelligenten Liste nach Personen suchen können, die *did&#39;t* etwas tun? Sehen Sie sich diese Inaktivitätsfilter an.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie die zu bearbeitende intelligente Liste aus und klicken Sie dann auf die Registerkarte **Intelligente Liste**.
+1. Wählen Sie die Smart-Liste aus, die Sie bearbeiten möchten, und klicken Sie dann auf **Smart List** Registerkarte.
 
    ![](assets/smartlist-choose.png)
 
-1. Suchen Sie den Inaktivitätsfilter Ihrer Wahl und ziehen Sie ihn in die Arbeitsfläche. Als Beispiel sollten wir Menschen suchen, die keine Ihrer Seiten besucht haben.
+1. Suchen und ziehen Sie den Inaktivitätsfilter Ihrer Wahl auf die Arbeitsfläche. Suchen wir beispielsweise Personen, die keine Ihrer Seiten besucht haben.
 
    ![](assets/draginactivityfilter.png)
 
    >[!TIP]
    >
-   >Es gibt viele Filter im Ordner **Inaktive Filter**. Suchen Sie nach **Not** und checken Sie sie aus.
+   >Es gibt viele Filter im **Inaktivitätsfilter** Ordner. Suchen Sie nach **not** und checken Sie sie aus.
 
-1. Wählen Sie den Operator **ist ein beliebiger**. Dies finden Sie alle Personen, die in den letzten 30 Tagen keine Seite besucht haben.
+1. Wählen Sie die **ist** Operator. Hier finden Sie alle Personen, die in den letzten 30 Tagen keine Seite besucht haben.
 
    ![](assets/mysmartlist-people.jpg)

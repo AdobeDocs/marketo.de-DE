@@ -1,36 +1,35 @@
 ---
 unique-page-id: 12615802
-description: Ein benanntes Konto löschen - Marketing Docs - Produktdokumentation
-title: Benanntes Konto löschen
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Ein benanntes Konto löschen - Marketo Docs - Produktdokumentation
+title: Ein benanntes Konto löschen
+exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
+# Ein benanntes Konto löschen {#delete-a-named-account}
 
-# Löschen eines benannten Kontos {#delete-a-named-account}
+Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
 
-Gehen Sie wie folgt vor, um ein benanntes Konto zu löschen.
-
-1. Wählen Sie die Zeile des bzw. der benannten Konten aus, die Sie löschen möchten.
+1. Wählen Sie die Zeile der benannten Konten aus, die Sie löschen möchten.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Klicken Sie bei gedrückter Strg-Taste (Windows) bzw. Befehlstaste (Mac), um mehrere benannte Konten auszuwählen.
+   >Klicken Sie bei gedrückter Strg- (Windows) bzw. Befehlstaste (Mac), um mehrere benannte Konten auszuwählen.
 
-1. Klicken Sie auf die Dropdownliste **Benannte Kontoaktionen** und wählen Sie **Benanntes Konto löschen**.
+1. Klicken Sie auf **Spezifische Kontoaktionen** und wählen Sie **Benanntes Konto löschen**.
 
    ![](assets/eight-1.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken **Löschen**.
 
    ![](assets/nine-1.png)
 
    >[!NOTE]
    >
-   >Konten, die mit Ihrem CRM synchronisiert wurden, können nicht in TAM gelöscht werden. Wenn die Option zum Löschen nicht verfügbar ist oder Sie eine Meldung erhalten, dass diese Konten nicht gelöscht werden können, weil ein oder mehrere CRM-Konten ausgewählt sind, müssen sie direkt im CRM gelöscht werden.
+   >Konten, die mit Ihrem CRM synchronisiert wurden, können nicht in TAM gelöscht werden. Wenn die Löschoption nicht verfügbar ist oder Sie die Meldung &quot;Diese Konten können nicht gelöscht werden, weil mindestens ein CRM-Konto ausgewählt ist&quot;erhalten, müssen sie direkt im CRM gelöscht werden.

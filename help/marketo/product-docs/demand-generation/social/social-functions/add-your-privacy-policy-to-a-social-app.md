@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2950545
-description: hinzufügen Ihrer Datenschutzrichtlinien für eine Social-App - Marketing Docs - Produktdokumentation
-title: hinzufügen Ihrer Datenschutzrichtlinien in eine Social-App
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social-Anwendung - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App
+exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App {#add-your-privacy-policy-to-a-social-app}
 
-# hinzufügen Ihrer Datenschutzrichtlinien in eine Social-App {#add-your-privacy-policy-to-a-social-app}
+Wenn Sie eine Social-App erstellen, können Sie einen Link zur Datenschutzrichtlinie Ihres Unternehmens hinzufügen.
 
-Wenn Sie eine Social-App erstellen, können Sie einen Link zu den Datenschutzrichtlinien Ihrer Firma hinzufügen.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,20 +22,20 @@ Wenn Sie eine Social-App erstellen, können Sie einen Link zu den Datenschutzric
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. Gehen Sie im Social App-Editor zu **App-Einstellungen** > **Erweiterte Optionen**.
+1. Navigieren Sie im Social-App-Editor zu **App-Einstellungen** > **Erweiterte Optionen**.
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
-1. Um eine Verknüpfung zu Ihrer Datenschutzrichtlinie hinzuzufügen, aktivieren Sie das Kontrollkästchen, bearbeiten Sie den Titel und geben Sie die URL ein.
+1. Um einen Link zu Ihrer Datenschutzrichtlinie hinzuzufügen, aktivieren Sie das Kontrollkästchen, bearbeiten Sie den Titel und geben Sie die URL ein.
 
    ![](assets/image2014-9-22-10-3a51-3a12.png)
 
    >[!NOTE]
    >
-   >In diesem Bildschirm können Sie auch einen Link zu den Regeln (Geschäftsbedingungen) Ihres Angebots hinzufügen. Siehe [Erstellen eines Referrer-Angebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >Auf diesem Bildschirm können Sie auch einen Link zu den Regeln (Bedingungen) Ihres Angebots hinzufügen. Siehe [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
-1. Der Link &quot;Datenschutzrichtlinien&quot;(und der Link &quot;Regeln&quot;) werden unten in den Freigabefeldern angezeigt. Beispiel:
+1. Der Link zu Datenschutzrichtlinien (und der Link zu Regeln) wird unten auf den Bildschirmen zur Freigabe von Nachrichten angezeigt. Beispiel:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Als Nächstes können Sie [den Social-Anmeldevorgang und den Freigabefluss](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) Ihrer App konfigurieren.
+Als Nächstes können Sie [Konfigurieren des Social-Anmeldungs- und Freigabeflusses](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) Ihrer App.

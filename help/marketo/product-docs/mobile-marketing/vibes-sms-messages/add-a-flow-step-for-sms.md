@@ -1,50 +1,49 @@
 ---
 unique-page-id: 11379045
-description: hinzufügen eines Flussschritts für SMS - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Flussschritts für SMS
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Flussschritt für SMS hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: Flussschritt für SMS hinzufügen
+exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Flussschritt für SMS hinzufügen {#add-a-flow-step-for-sms}
 
-# hinzufügen eines Flussschritts für SMS {#add-a-flow-step-for-sms}
+Marketo verfügt über drei Flussprotokolle, die Sie in Ihren SMS-Smart-Kampagnen verwenden können:
 
-Marketo verfügt über drei Flussschritte, die Sie in Ihren SMS-Smart-Kampagnen verwenden können:
-
-* **SMS-Nachricht**  senden: Diese Textfluss-Aktion sendet Nachrichten an Personen aus der Marketing-Smart-Liste, die eine vom Benutzer ausgewählte Vibes Abonnement-Liste abonniert haben. Das Abonnement wird nicht initiiert.
-* **Abonnieren der Vibes-Liste** : Diese Flussaktion initiiert den SMS-Abonnement-Vorgang über eine benutzerdefinierte Vibes-Akquise-Kampagne. Vibes sendet dann eine Bestätigungsmeldung; der Empfänger muss darauf antworten, um das Abonnement abzuschließen.
-* **Abmelden bei der Vibes-Liste** : Diese Flussaktion löscht die Abonnierung jeder Person von einer vom Benutzer ausgewählten Vibes-Abonnement-Liste.
+* **SMS-Nachricht senden** - Diese FlusAktion sendet Nachrichten an Personen aus der Marketo-smartlist, die sich für eine vom Benutzer ausgewählte Vibes-Abonnementliste angemeldet haben. Der Abonnementprozess wird nicht initiiert.
+* **Abonnieren der Vibes-Liste** - Mit dieser Flussaktion wird der SMS-Abonnementprozess über eine benutzerdefinierte Vibes Acquisition Campaign gestartet. Vibes sendet dann eine Bestätigungsnachricht. Der Empfänger muss darauf antworten, um den Abonnementprozess abzuschließen.
+* **Abmeldung von der Vibes-Liste** - Mit dieser Flussaktion wird die Anmeldung für jede Person von einer vom Benutzer ausgewählten Abonnementliste &quot;Vibes&quot;aufgehoben.
 
 >[!NOTE]
 >
 >Beim Senden von SMS-Nachrichten:
 >
->* Marketo dedupliziert per Telefonnummer. Wenn also mehrere Personen dieselbe Telefonnummer haben, erhält nur eine Person die Nachricht.
->* Marketo sendet keine Personen, die auf die Blockierungsliste gesetzt oder Marketing ausgesetzt sind.
+>* Marketo dedupliziert nach Telefonnummer. Wenn also mehrere Personen dieselbe Telefonnummer haben, erhält nur eine Person die Nachricht.
+>* Marketo sendet keine Nachrichten an Personen, die auf die Blockierungsliste gesetzt oder Marketing ausgesetzt sind.
 
 
-Allgemeine Informationen zum Einrichten von Flussschritten finden Sie unter [Hinzufügen eines Flussschritts zu einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Allgemeine Informationen zum Einrichten von Flussschritten finden Sie unter [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
-Hier sind die Grundlagen für die Verwendung von SMS.
+Hier finden Sie die Grundlagen zur Verwendung von SMS.
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **Marketing-Aktivitäten**.
+1. Klicken Sie in My Marketo auf **Marketingaktivitäten**.
 
    ![](assets/image2016-7-28-11-3a41-3a17.png)
 
-1. Finden Sie die intelligente Kampagne, der Sie den SMS-Fluss hinzufügen möchten. Klicken Sie auf die Registerkarte **Fluss**.
+1. Suchen Sie die Smart-Kampagne, der Sie den SMS-Fluss hinzufügen möchten. Klicken Sie auf die Registerkarte **“Flow“**.
 
    ![](assets/image2016-7-28-11-3a43-3a41.png)
 
-1. Ziehen Sie über den Fluss, z. B. **SMS senden**. Wählen Sie die SMS-Nachricht und die Vibes-Liste aus den Dropdownfeldern aus.
+1. Ziehen Sie beispielsweise über den Fluss **SMS-Nachricht senden**. Wählen Sie aus den Dropdown-Listen die Liste SMS-Nachricht und die Adressen aus.
 
    ![](assets/send-sms-message-hands.jpg)
 
    >[!NOTE]
    >
-   >Der Vibes-Liste-Selektor dient als weiterer Filter für die bereits in der intelligenten Liste identifizierte Audience, sodass nur die Leads, die zu dieser Vibes-Liste gehören, Zielgruppe werden.
+   >Der Wähler &quot;Besuchsliste&quot;dient als weiterer Filter für die bereits in der Smart-Liste identifizierte Zielgruppe, sodass nur die Leads als Ziel ausgewählt werden, die zu dieser Vibes-Liste gehören.
    >
-   >Die Abonnieren der Listen **Vibes abonnieren** und **Abmelden bei der Vibes-Liste** haben unterschiedliche Anforderungen. Für **Abonnieren** müssen Sie die Vibes-Liste und die Vibes-Akquise-Kampagne auswählen. Für **Unsubscribe** ist nur die Liste Vibes erforderlich.
+   >Die **Abonnieren der Vibes-Liste** und **Abmeldung von der Vibes-Liste** -Flüsse haben unterschiedliche Anforderungen. Für **Abonnieren** müssen Sie die Vibes-Liste und die Vibes-Akquise-Kampagne auswählen. Für **Abmelden**, ist nur die Vibes-Liste erforderlich.

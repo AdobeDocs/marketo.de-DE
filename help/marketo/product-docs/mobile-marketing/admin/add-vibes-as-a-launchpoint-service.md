@@ -1,33 +1,32 @@
 ---
 unique-page-id: 11378845
-description: hinzufügen Vibes as a LaunchPoint Service - Marketing Docs - Produktdokumentation
-title: hinzufügen Vibes als LaunchPoint-Dienst
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Hinzufügen von Marketo als LaunchPoint-Dienst - Docs - Produktdokumentation
+title: Hinzufügen von Assets als LaunchPoint-Dienst
+exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# hinzufügen Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
+# Hinzufügen von Assets als LaunchPoint-Dienst {#add-vibes-as-a-launchpoint-service}
 
 Sie können SMS-Nachrichten an die Personen in Ihren Vibes-Listen senden und die SMS-Aktivität zum Trigger und Filtern von Kampagnen verwenden. Zunächst müssen Sie Vibes als LaunchPoint-Dienst hinzufügen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!NOTE]
 >
->Sie benötigen sowohl die Marketo-Administratorberechtigungen als auch ein aktives Vibes-Konto, um diese Einrichtung abzuschließen. Die in Schritt 4 angeforderten Anmeldeinformationen entsprechen den Anmeldeinformationen Ihres Vibes-Kontos.
+>Sie benötigen sowohl Marketo-Administratorberechtigungen als auch ein aktives Video-Konto, um dieses Setup abzuschließen. Die in Schritt 4 angeforderten Anmeldeinformationen sind die Anmeldeinformationen von Ihrem Vibes-Konto.
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **Admin** und dann **LaunchPoint**.
+1. Klicken Sie in My Marketo auf **Admin** und dann **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
-1. Klicken Sie auf **Neu** und **Neuer Dienst**.
+1. Klicken **Neu** und **Neuer Dienst**.
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
@@ -35,10 +34,10 @@ Sie können SMS-Nachrichten an die Personen in Ihren Vibes-Listen senden und die
 
    ![](assets/new-service-vibes.png)
 
-1. Geben Sie unter &quot;Einstellungen&quot;Ihren Benutzernamen, Ihr Kennwort und Ihren API-Firmen-Schlüssel ein. Klicken Sie auf **Erstellen**.
+1. Geben Sie unter &quot;Einstellungen&quot;Ihren Benutzernamen, Ihr Kennwort und Ihren API-Firmenschlüssel für Vibes ein. Klicken Sie auf **Erstellen**.
 
    ![](assets/new-service-vibes-settings-2.png)
 
-   Der neue SMS-Dienst wird jetzt in der Liste &quot;Installierte Dienste&quot;angezeigt.
+   Der neue SMS-Dienst wird jetzt in der Liste Installierte Dienste angezeigt.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)

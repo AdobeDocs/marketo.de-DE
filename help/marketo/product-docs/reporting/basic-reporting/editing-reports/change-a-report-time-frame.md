@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359968
-description: Ändern des Berichtszeitrahmens - Marketing-Dokumente - Produktdokumentation
-title: Ändern des Berichtszeitrahmens
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Ändern eines Berichtszeitrahmens - Marketo-Dokumente - Produktdokumentation
+title: Berichtszeitrahmen ändern
+exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
+# Berichtszeitrahmen ändern {#change-a-report-time-frame}
 
-# Ändern eines Berichtszeitrahmens {#change-a-report-time-frame}
+Ändern Sie den von Ihrem Bericht abgedeckten Zeitraum, um sich auf einen bestimmten Zeitpunkt der Aktivität zu konzentrieren.
 
-Ändern Sie den Zeitraum, der von Ihrem Bericht abgedeckt wird, um sich auf einen bestimmten Zeitpunkt der Aktivität zu konzentrieren.
-
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten** (oder **Analytics**).
+1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Setup**.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Einrichtung** Registerkarte.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
-1. Klicken Sie mit der Dublette auf das Zeitrahmenfeld, das je nach Berichtstyp unterschiedlich beschriftet ist:
+1. Doppelklicken Sie auf das Zeitrahmen-Feld, das je nach Berichtstyp unterschiedlich beschriftet ist:
 
-   * **Personen, die** am
+   * **Person erstellt bei** in Personenberichten
    * **Versanddatum** in E-Mail-Berichten
    * **Datum der Aktivität** in allen anderen Berichten
 
@@ -33,19 +32,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Person hat** Auszeichnungen erstellt, sobald die Person in Ihrer Datenbank bekannt wurde.
+   >**Person erstellt bei** bezeichnet den Zeitpunkt, zu dem die Person in Ihrer Datenbank bekannt wurde.
 
-1. Wählen Sie den gewünschten Zeitraum aus dem Dropdown-Menü.
+1. Wählen Sie den entsprechenden Zeitrahmen aus dem Dropdown-Menü aus.
 
    ![](assets/image2017-3-27-9-3a58-3a40.png)
 
    >[!TIP]
    >
-   >Um bestimmte Daten festzulegen, wählen Sie im Dropdownmenü **Benutzerspezifisch** aus und geben Sie die Daten in die Kalenderfelder **Von** und **Bis** ein.
+   >Um bestimmte Daten festzulegen, wählen Sie **Benutzerdefiniert** aus dem Dropdown-Menü aus und geben Sie die Daten im **Von** und **nach** Kalenderfelder.
 
-   Klicken Sie auf die Registerkarte **Bericht**, um Ihren Bericht für den ausgewählten Zeitraum anzuzeigen.\
+   Klicken Sie auf **Bericht** um den Bericht für den ausgewählten Zeitraum anzuzeigen.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
    >
-   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie [Personen in einem Bericht mit einer Smart-Liste](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) filtern.
+   >Um Ihren Bericht nach bestimmten Personenattributen einzugrenzen, können Sie [Personen in einem Bericht mit einer intelligenten Liste filtern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).

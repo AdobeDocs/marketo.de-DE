@@ -1,44 +1,43 @@
 ---
 unique-page-id: 1900548
-description: Vorschau einer E-Mail mit dynamischen Inhalten - Marketing-Dokumente - Produktdokumentation
+description: Vorschau einer E-Mail mit dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
 title: Vorschau einer E-Mail mit dynamischem Inhalt
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-
 # Vorschau einer E-Mail mit dynamischem Inhalt {#preview-an-email-with-dynamic-content}
 
-Vorschau Ihrer E-Mail nach dem Hinzufügen dynamischer Inhalte, um sie zu überprüfen.
+Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hinzugefügt haben, um ihn zu überprüfen.
 
-1. Wählen Sie Ihre E-Mail und klicken Sie auf **Vorschau E-Mail**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Vorschau von E-Mail**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie auf die Dropdownliste Ansicht nach und wählen Sie den Typ des dynamischen Inhalts aus, der Vorschau werden soll.
+1. Klicken Sie auf die Dropdown-Liste Anzeigen nach und wählen Sie den Typ des dynamischen Inhalts aus, den Sie in der Vorschau anzeigen möchten.
 
    ![](assets/two-3.png)
 
-1. Eine neue Dropdownliste wird angezeigt. Klicken Sie darauf und wählen Sie den gewünschten Inhalt aus.
+1. Eine neue Dropdown-Liste wird angezeigt. Klicken Sie darauf und wählen Sie den gewünschten Inhalt aus.
 
    ![](assets/three-2.png)
 
-1. Verwenden Sie die Pfeile, um durch die Optionen zu blättern.
+1. Mit den Pfeilen können Sie durch die Optionen blättern.
 
    ![](assets/four-1.png)
 
-Dynamische Inhalte können auch direkt im E-Mail-Editor Vorschau werden.
+Dynamische Inhalte können auch direkt im E-Mail-Editor in der Vorschau angezeigt werden.
 
-1. Klicken Sie unter **Inhalt** auf die Registerkarte **Dynamisch**.
+1. under **Inhalt**, klicken Sie auf die **Dynamik** Registerkarte.
 
    ![](assets/five-1.png)
 
-1. Klicken Sie auf den zu Vorschau Inhalt.
+1. Klicken Sie auf den Inhalt, den Sie in der Vorschau anzeigen möchten.
 
    ![](assets/six.png)
 
-Großartig! Vorschau Ihrer E-Mails, um sicherzustellen, dass der Inhalt Ihren Vorstellungen entspricht.
+Sehr gut! Sehen Sie sich Ihre E-Mails in der Vorschau an, um sicherzustellen, dass der Inhalt Ihren Vorstellungen entspricht.

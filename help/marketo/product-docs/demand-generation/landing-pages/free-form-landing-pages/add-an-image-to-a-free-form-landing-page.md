@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359703
-description: hinzufügen eines Bildes in eine Freiformdatei-Landingpage - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Bildes in eine Freiform-Landingpage
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hinzufügen eines Bildes zu einer Freiform-Landingpage - Marketo Docs - Produktdokumentation
+title: Hinzufügen eines Bildes zu einer Freiform-Landingpage
+exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# hinzufügen eines Bildes in eine Freiform-Landingpage {#add-an-image-to-a-free-form-landing-page}
+# Hinzufügen eines Bildes zu einer Freiform-Landingpage {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[hinzufügen von Bildern und Dateien in Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Hinzufügen von Bildern und Dateien zu Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Wählen Sie Ihre Freiform-Landingpage aus und klicken Sie auf **Bearbeiten** **Entwurf**.
+1. Wählen Sie Ihre freie Landingpage aus und klicken Sie auf **Bearbeiten** **Entwurf**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Ziehen Sie im Editor über das Element **Bild**.
+1. Ziehen Sie im Editor über den **Bild** -Element.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,6 +32,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Gute Arbeit! Sie haben gerade ein Bild zu Ihrer Freiform-Landingpage hinzugefügt.
+   Großartig gemacht! Sie haben gerade ein Bild zu Ihrer freien Landingpage hinzugefügt.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

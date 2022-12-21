@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2359400
-description: Wählen Sie ein Formularthema - Marketing-Dokumente - Produktdokumentation
-title: Formularentwurf auswählen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Formulardesign auswählen - Marketo-Dokumente - Produktdokumentation
+title: Formulardesign auswählen
+exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Formulardesign auswählen {#select-a-form-theme}
 
-# Wählen Sie ein Formulardesign {#select-a-form-theme}
+Wir haben für Ihre Formulare ein paar schöne Themen erstellt. Was magst du am liebsten?
 
-Wir haben eine Menge netter Themen für Ihre Formulare gemacht. Was magst du am liebsten?
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/editform.png)
 
-1. Wechseln Sie zu **Formulareinstellungen**.
+1. Navigieren Sie zu **Formulareinstellungen**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Wechsel hin und her zur Auswahl des **Formularthemas**.
+1. Ein- und Ausschalten , um die **Formulardesign** von Ihrem Gefallen.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
-   Zur Zeit sind 7 integrierte Themen vorhanden:
+   Derzeit gibt es sieben integrierte Themen:
 
    * Einfach
-   * Einzug
-   * Schein
-   * Runde
+   * Eingelassen
+   * Schimmernd
+   * Rund
    * Dunkel
-   * Schatten
-   * Plain
+   * Schattiert
+   * Schlicht
 
    >[!TIP]
    >
-   >Sie können auch [die CSS Ihres Formulardesigns bearbeiten.](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+   >Sie können auch [Bearbeiten der CSS Ihres Formulardesigns](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Klicken Sie auf **Weiter**, um andere Formularoptionen zu konfigurieren, oder klicken Sie auf **Fertig stellen**, wenn Sie nur das Formulardesign ändern möchten.
+1. Klicken **Nächste** , um andere Formularoptionen zu konfigurieren, oder klicken Sie auf **Beenden** , wenn Sie nur das Formulardesign ändern möchten.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-Wie einfach war das? Sie können Ihr HTML/CSS Buch jetzt etwas Staub sammeln lassen.
+Wie einfach war das?! Ihr HTML-/CSS-Buch kann jetzt Staub sammeln.
 
 >[!MORELIKETHIS]
 >
->* [CSS eines Formularthemas bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [hinzufügen eines Felds in ein Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
+>* [CSS eines Formulardesigns bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Feld zu einem Formular hinzufügen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
 

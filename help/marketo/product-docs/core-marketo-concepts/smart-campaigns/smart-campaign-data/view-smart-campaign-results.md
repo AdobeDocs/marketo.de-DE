@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146968
-description: Ergebnisse der intelligenten Ansicht-Kampagne - Marketo Docs - Produktdokumentation
-title: Ansicht - Ergebnisse intelligenter Kampagnen
+description: Anzeigen von Smart-Campaign-Ergebnissen - Marketo-Dokumente - Produktdokumentation
+title: Ergebnisse intelligenter Kampagnen anzeigen
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
@@ -11,32 +10,32 @@ ht-degree: 0%
 
 ---
 
-# Ergebnisse der intelligenten Ansicht-Kampagne {#view-smart-campaign-results}
+# Ergebnisse intelligenter Kampagnen anzeigen {#view-smart-campaign-results}
 
-Möchten Sie eine Aufschlüsselung aller Geschehnisse in einer intelligenten Kampagne sehen? So ist es einfach.
+Möchten Sie eine Aufschlüsselung aller Ereignisse in einer intelligenten Kampagne sehen? So ist es einfach.
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf **Ergebnisse**.
+1. Klicken Sie in Ihrer Smart-Kampagne auf **Ergebnisse**.
 
    >[!TIP]
    >
-   >Sie können die Liste der Personen sehen, die von der intelligenten Kampagne verarbeitet wurden, indem Sie auf [Ansicht Kampagne Member](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md) klicken.
+   >Sie können die Liste der Personen anzeigen, die von der Smart-Kampagne verarbeitet wurden, indem Sie auf [Anzeigen von Campaign-Mitgliedern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >Sie können die Ergebnisse auch nach dem Typ der Aktivität filtern. Erfahren Sie, wie Sie die Ergebnisse der intelligenten Kampagne [filtern.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
+   >Sie können die Ergebnisse auch nach Aktivitätstyp filtern. Erfahren Sie, wie Sie [Ergebnisse intelligenter Kampagnen filtern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
-1. Klicken Sie auf eine **ID**, um weitere Informationen zu dieser Aktivität Ansicht.
+1. Klicken Sie auf **ID** , um weitere Details zu dieser Aktivität anzuzeigen.
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 
    >[!TIP]
    >
-   >Angaben zur Person durch Klicken auf den Namen der Ansicht.
+   >Zeigen Sie die Personendetails an, indem Sie auf den Namen der Person klicken.
 
-   Sehen Sie sich die Ergebnisse an, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder einfach [exportieren Sie die Ergebnisse der intelligenten Kampagne nach Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
+   Informieren Sie sich über die Ergebnisse, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder einfach [Exportieren von Ergebnissen intelligenter Kampagnen in Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
 
    >[!MORELIKETHIS]
    >
-   >[Ergebnisse intelligenter Kampagnen filtern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
+   >[Filtern von Ergebnissen intelligenter Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)

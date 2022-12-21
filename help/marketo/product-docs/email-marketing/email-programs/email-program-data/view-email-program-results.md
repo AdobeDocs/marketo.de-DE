@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2951167
-description: Ansicht Email Programm Results - Marketing Docs - Produktdokumentation
-title: Ansicht E-Mail-Programm-Ergebnisse
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Anzeigen von E-Mail-Programmergebnissen - Marketo-Dokumente - Produktdokumentation
+title: Anzeigen von E-Mail-Programmergebnissen
+exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# Anzeigen von E-Mail-Programmergebnissen {#view-email-program-results}
 
-# Ansicht E-Mail-Programm Ergebnisse {#view-email-program-results}
+Genau wie die Registerkarte Ergebnisse in Smart-Kampagnen können Sie auch in E-Mail-Programmen dieselben Informationen sehen.
 
-Genau wie die Registerkarte &quot;Ergebnisse&quot;in intelligenten Kampagnen können Sie dieselben Informationen in E-Mail-Programmen sehen.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Suchen und wählen Sie Ihr E-Mail-Programm aus.
+1. Wählen Sie Ihr E-Mail-Programm aus.
 
    ![](assets/selectemailprogram3.jpg)
 
    >[!NOTE]
    >
-   >Wenn das E-Mail-Programm bereits ausgeführt wurde, werden Sie direkt zum E-Mail-Programm-Dashboard geleitet.
+   >Wenn das E-Mail-Programm bereits ausgeführt wurde, gelangen Sie direkt zum Dashboard des E-Mail-Programms.
 
-1. Wählen Sie unter **Ansicht** **Systemsteuerung**.
+1. under **Ansicht** auswählen **Control Panel**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Klicken Sie unter der Kachel **Audience** auf **Ansicht Ergebnisse**.
+1. Unter dem **Zielgruppe** tile, click **Ergebnisse anzeigen**.
 
    ![](assets/audiencetile.jpg)
 

@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Wenn Sie Listen- oder Smart-List-Ergebnisse außerhalb von Marketo benötigen, können Sie diese einfach nach Excel exportieren. So geht es.
 
-1. Gehen Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie die Liste oder die Smart-Liste aus, die Sie exportieren möchten, und gehen Sie zur Registerkarte **Personen** .
+1. Wählen Sie die Liste oder die Smart-Liste aus, die/die Sie exportieren möchten, und wechseln Sie zur **Personen** Registerkarte.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -26,22 +26,22 @@ Wenn Sie Listen- oder Smart-List-Ergebnisse außerhalb von Marketo benötigen, k
 
    ![](assets/exportpeople.png)
 
-1. Wählen Sie **Sichtbare Spalten** und klicken Sie auf **Export**.
+1. Auswählen **Sichtbare Spalten** und klicken Sie auf **Export**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Wenn Sie **Alle Spalten** auswählen, ist der Export größer und dauert länger zum Generieren/Herunterladen.
+   >Wenn Sie **Alle Spalten**, ist der Export größer und dauert länger, um ihn zu generieren/herunterzuladen.
 
    >[!TIP]
    >
-   >Wenn Ihre Personendatensätze Fremdzeichen enthalten, die beim Export nicht richtig dargestellt werden, versuchen Sie, den Dateityp in der Dropdown-Liste **Format** zu ändern.
+   >Wenn Ihre Personendatensätze Fremdzeichen enthalten, die beim Export nicht richtig dargestellt werden, versuchen Sie, den Dateityp in der **Format** Dropdown-Liste.
 
-1. Der Export wird ausgeführt. Nach Abschluss können Sie auf **Jetzt herunterladen** klicken, um die Datei zu erfassen.
+1. Der Export wird ausgeführt. Sobald Sie fertig sind, können Sie auf **Jetzt herunterladen** , um die Datei zu erfassen.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Wenn der Export eine Weile dauert, können Sie sich jederzeit abmelden und zu ihm zurückkehren. Der Link **Jetzt herunterladen** kann durch die Auswahl von **Export-Status anzeigen** im Menü **Listenaktionen** aufgerufen werden. Er ist eine Woche lang gültig.
+   >Wenn der Export eine Weile dauert, können Sie sich jederzeit abmelden und zu ihm zurückkehren. Die **Jetzt herunterladen** auf einen Link zugreifen können, indem Sie **Exportstatus anzeigen** im **Aktionen auflisten** und ist eine Woche lang gültig.

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359880
-description: Organisieren Sie Ihre Bilder und Dateien mithilfe von Ordnern - MarketingTo Docs - Produktdokumentation
-title: Bilder und Dateien mithilfe von Ordnern organisieren
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Organisieren von Bildern und Dateien mithilfe von Ordnern - Marketo Docs - Produktdokumentation
+title: Organisieren von Bildern und Dateien mithilfe von Ordnern
+exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
+# Organisieren von Bildern und Dateien mithilfe von Ordnern {#organize-your-images-and-files-using-folders}
 
-# Organisieren Sie Ihre Bilder und Dateien mit Ordnern {#organize-your-images-and-files-using-folders}
+Durch das Erstellen von Ordnern können Sie Bilder und Dateien verschieben, nur die gewünschten Bilder anzeigen und direkt in einen bestimmten Ordner hochladen.
 
-Wenn Sie Ordner erstellen, können Sie Bilder und Dateien verschieben, nur den gewünschten Bildsatz anzeigen und diese direkt in einen bestimmten Ordner hochladen.
-
-1. Wechseln Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Klicken Sie mit der rechten Maustaste auf **Bilder und Dateien** im linken Menü und wählen Sie **Neuer Ordner**.
+1. Rechtsklick auf **Bilder und Dateien** Wählen Sie im linken Menü die Option **Neuer Ordner**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -27,11 +26,11 @@ Wenn Sie Ordner erstellen, können Sie Bilder und Dateien verschieben, nur den g
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. Gehen Sie zu **Bilder und Dateien**, jetzt können Sie in den gewünschten Ordner ziehen und ablegen.
+1. Navigieren Sie zu **Bilder und Dateien**, können Sie nun per Drag-and-Drop in den gewünschten Ordner ziehen.
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
-Hoch fünf! Sie sind alle für Ordner-Utopie eingestellt.
+Hoch fünf! Sie sind alle für Ordner-Utopia eingestellt.
 
 >[!MORELIKETHIS]
 >

@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352434
-description: Sales Phone Internationales Telefongespräch - Marketing Docs - Produktdokumentation
-title: Verkaufstelefonanruf
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Sales Phone International Calling - Marketo Docs - Produktdokumentation
+title: Sales Phone International - Aufruf
+exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 8%
+ht-degree: 17%
 
 ---
 
+# Sales Phone International - Aufruf {#sales-phone-international-calling}
 
-# Sales Phone International unter {#sales-phone-international-calling}
-
-Sales Phone macht es Ihnen leicht, international zu kommunizieren. Für Kunden, die aus den USA anrufen, kann Sales Phone für ausgehende Anrufe in internationale Länder verwendet werden. Für Kunden außerhalb der Vereinigten Staaten unterstützen wir den Anruf aus internationalen Ländern.
+Sales Phone macht es Ihnen leicht, international zu kommunizieren. Kunden, die aus den USA anrufen, können das Sales Phone für ausgehende Anrufe in internationale Länder verwenden. Für Kunden außerhalb der Vereinigten Staaten unterstützen wir Anrufe aus internationalen Ländern.
 
 >[!NOTE]
 >
->Im Allgemeinen unterstützen wir keine Anrufe an internationale Mobilfunknummern, und Alaska wird als nicht unterstützte internationale Nummer behandelt.
+>Im Allgemeinen unterstützen wir nicht den Anruf internationaler Mobilfunknummern, und Alaska wird als nicht unterstützte internationale Nummer behandelt.
 
 ## Unterstützte Länder {#supported-countries}
 
@@ -33,7 +32,7 @@ Sales Phone macht es Ihnen leicht, international zu kommunizieren. Für Kunden, 
   </tr> 
   <tr> 
    <td colspan="1">Österreich</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4368 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -61,15 +60,15 @@ Sales Phone macht es Ihnen leicht, international zu kommunizieren. Für Kunden, 
   </tr> 
   <tr> 
    <td>Griechenland </td> 
-   <td>30.3.21</td> 
+   <td>30, 3021</td> 
   </tr> 
   <tr> 
    <td>Ungarn</td> 
-   <td>36.361</td> 
+   <td>36, 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irland </td> 
-   <td colspan="1">353.3531</td> 
+   <td colspan="1">353, 3531</td> 
   </tr> 
   <tr> 
    <td>Israel</td> 
@@ -81,7 +80,7 @@ Sales Phone macht es Ihnen leicht, international zu kommunizieren. Für Kunden, 
   </tr> 
   <tr> 
    <td colspan="1">Kasachstan </td> 
-   <td colspan="1">76.77</td> 
+   <td colspan="1">76, 77</td> 
   </tr> 
   <tr> 
    <td colspan="1">Korea</td> 
@@ -113,7 +112,7 @@ Sales Phone macht es Ihnen leicht, international zu kommunizieren. Für Kunden, 
   </tr> 
   <tr> 
    <td colspan="1">Polen </td> 
-   <td colspan="1">48.4832</td> 
+   <td colspan="1">48, 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -132,32 +131,32 @@ Sales Phone macht es Ihnen leicht, international zu kommunizieren. Für Kunden, 
    <td colspan="1">46</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Vereinigtes Königreich</td> 
+   <td colspan="1">Großbritannien</td> 
    <td colspan="1">44, 44203, 44207, 44208</td> 
   </tr> 
   <tr> 
    <td>Vereinigte Staaten</td> 
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Häufig gestellte Fragen zum Telefonat
+## Häufig gestellte Fragen zu internationalen Aufrufen
 
 {#international-calling-faq}
 
 **Warum unterstützt MSE nicht die internationale Forderung nach allen Ländern?**
 
-Heute haben wir mit dem Sales Phone ohne zusätzliche Kosten ein Angebot für internationale Anrufe. Wir möchten Ihnen die Kommunikation mit Ihren eigenen Potenzieller Kunden und Kunden erleichtern, deshalb haben wir Unterstützung für internationale Standardgespräche eingeführt. 34 Länder außerhalb der USA und Kanadas werden von uns für Regionen in Europa, Asien und anderen wichtigen Destinationen versorgt. Wir werden auf Basis des Feedbacks unserer Kunden weiter expandieren.
+Heute bieten wir mit Sales Phone internationale Anrufe ohne Zusatzkosten an. Wir möchten Ihnen die Kommunikation mit Ihren eigenen Interessenten und Kunden erleichtern, deshalb haben wir Unterstützung für internationale Standardtarife-Anrufe ins Leben gerufen. Wir bieten 34 Länder außerhalb der USA und Kanadas für Regionen in Europa, Asien und anderen wichtigen Zielen an. Wir werden auf der Basis des Feedbacks unserer Kunden weiter expandieren.
 
-**Wenn ich außerhalb der USA bin, aus welchen Ländern kann ich anrufen?**
+**Wenn ich außerhalb der USA bin, welche Länder kann ich von und zu anrufen?**
 
-Hier ist die Liste der Länder, in denen wir derzeit keine Anrufe von und nach unterstützen. Wenn das Land, von dem Sie anrufen, unterstützt wird, können Sie jedes andere von uns unterstützte internationale Land anrufen.
+Im Folgenden finden Sie die Liste der Länder, die wir derzeit keine Aufrufe von und nach unterstützen. Wenn das Land, von dem Sie anrufen, unterstützt wird, können Sie jedes andere von uns unterstützte internationale Land anrufen.
 
-**Gibt es bestimmte Zahlentypen, die ich mit dem Sales Phone nicht anrufen kann?**
+**Gibt es bestimmte Arten von Zahlen, die ich mit dem Verkaufsgespräch nicht aufrufen kann?**
 
-Ja. Wir unterstützen keine Anrufe zu Premium-Rate-Service-Telefonnummern (z. B. 900 Nummern in den USA und +449 Nummern in Großbritannien). Im Allgemeinen unterstützen wir keine Telefonnummern mit geteilten Kosten sowie eine kleine Anzahl anderer Premium-Routen.
+Ja. Wir unterstützen keine Anrufe zu Premium-Tarif-Service-Telefonnummern (wie 900 Nummern in den USA und +449 Nummern in Großbritannien). Im Allgemeinen unterstützen wir nicht das Anrufen von Telefonnummern mit gemeinsamen Kosten sowie einer kleinen Anzahl anderer Premium-Routen.
 
-**Kann ich bei internationalen Anrufen lokale Präsenz nutzen?**
+**Kann ich bei internationalen Anrufen die lokale Präsenz nutzen?**
 
-Anzahl Die Präsenz vor Ort ist nur für US-Nummern verfügbar.
+Anz. Die lokale Präsenz ist nur für US-Nummern verfügbar.

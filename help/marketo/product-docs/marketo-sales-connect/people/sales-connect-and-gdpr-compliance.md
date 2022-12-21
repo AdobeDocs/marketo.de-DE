@@ -1,88 +1,87 @@
 ---
 unique-page-id: 14745825
-description: Compliance mit Sales Connect und GDPR - Marketing Docs - Produktdokumentation
-title: Kompatibilität von Sales Connect und GDPR
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Sales Connect und Einhaltung der DSGVO - Marketo-Dokumente - Produktdokumentation
+title: Sales Connect und Einhaltung der DSGVO
+exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1387'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Sales Connect und Einhaltung der DSGVO {#sales-connect-and-gdpr-compliance}
 
-# Sales Connect und GDPR Compliance {#sales-connect-and-gdpr-compliance}
+Die Datenschutz-Grundverordnung (DSGVO) ist eine EU-Rechtsvorschrift, die am 25. Mai 2018 in Kraft getreten ist.
 
-Die Datenschutzverordnung (GDPR) ist eine Rechtsvorschrift der Europäischen Vereinigung, die am 25. Mai 2018 in Kraft getreten ist.
+## Überblick {#overview}
 
-## Übersicht {#overview}
+Ziel ist es, die Rechte der betroffenen Personen in der Europäischen Union (EU) und im Europäischen Wirtschaftsraum (EWR) hinsichtlich der Verwendung und des Schutzes ihrer personenbezogenen Daten zu stärken. &quot;Personenbezogene Daten&quot;sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.
 
-Ziel ist es, die Rechte der betroffenen Personen innerhalb der Europäischen Vereinigung (EU) und des Europäischen Wirtschaftsraums (EWR) hinsichtlich der Nutzung und des Schutzes ihrer personenbezogenen Daten zu stärken. &quot;personenbezogene Daten&quot;sind Informationen, die sich auf eine bestimmte oder bestimmbare natürliche Person beziehen.
-
-Der GDPR basiert auf sechs Grundsätzen (wie in Artikel 5 der Rechtsvorschriften beschrieben):
+Die DSGVO basiert auf sechs zentralen Grundsätzen (siehe Artikel 5 der Rechtsvorschriften):
 
 1. Transparenz darüber, wie Daten verwendet werden und wofür sie verwendet werden.
-1. Sicherstellen, dass die erfassten Daten nur für die zum Zeitpunkt der Erfassung ausdrücklich angegebenen Zwecke verwendet werden.
-1. Beschränkung der Datenerfassung auf das zur Erfüllung des Zwecks, zu dem sie erhoben wird, erforderliche Maß.
-1. Sicherstellen der Genauigkeit der Daten.
-1. Speichern der Daten nur so lange, wie dies innerhalb des vorgesehenen Zwecks erforderlich ist.
-1. Vermeidung der unbefugten Verwendung oder des versehentlichen Verlustes der Daten durch Einsatz geeigneter Sicherheitsmaßnahmen.
+1. Sicherstellung, dass die erfassten Daten nur für die zum Zeitpunkt der Erhebung explizit festgelegten Zwecke verwendet werden.
+1. Beschränken der Datenerfassung auf das für den Zweck, für den sie erfasst wird, erforderliche Maß.
+1. Sicherstellung der Genauigkeit der Daten.
+1. Speichern der Daten nur so lange, wie dies für den vorgesehenen Zweck erforderlich ist.
+1. Verhütung der unbefugten Nutzung oder des versehentlichen Verlusts der Daten durch Einsatz geeigneter Sicherheitsmaßnahmen.
 
-Darüber hinaus gibt es eine neue Verpflichtung zur Rechenschaftspflicht, um nachweisen zu können, wie die Einhaltung der Vorschriften verwaltet und verfolgt wird. Dies bedeutet, dass Aufzeichnungen darüber geführt werden müssen, wie und warum personenbezogene Daten erhoben wurden, sowie die Dokumentation der zum Schutz dieser Daten eingerichteten Verfahren.
+Darüber hinaus gibt es eine neue Rechenschaftspflicht, um nachweisen zu können, wie die Einhaltung der Vorschriften verwaltet und verfolgt wird. Dies bedeutet, dass Aufzeichnungen darüber geführt werden, wie und warum personenbezogene Daten erfasst wurden, sowie die Dokumentation der zum Schutz dieser Daten eingerichteten Prozesse.
 
-## Auf wen findet sie Anwendung? {#to-whom-does-it-apply}
+## Auf wen trifft es zu? {#to-whom-does-it-apply}
 
-Der GDPR gilt für alle Organisationen innerhalb oder außerhalb der EU, die Waren oder Dienstleistungen für betroffene Personen innerhalb der EU und des EWR vermarkten und/oder deren Verhalten verfolgen. Wenn Sie mit Betroffenen in Europa Geschäfte machen, die mit der Verarbeitung ihrer personenbezogenen Daten verbunden sind, gilt diese Gesetzgebung für Sie. Die Sanktionen wegen Nichteinhaltung der Vorschriften sind erheblich, und es werden hohe Geldbußen für Verstöße gegen die Verordnung verhängt; die Höchststrafe für eine einzelne Verletzung beträgt 20 Mio. € oder 4 % des weltweiten Jahresumsatzes, je nachdem, welcher Wert höher ist.
+Die DSGVO gilt für Organisationen innerhalb oder außerhalb der EU, die Waren oder Dienstleistungen für betroffene Personen in der EU und im EWR vermarkten und/oder deren Verhalten verfolgen. Wenn Sie mit Datensubjekten in Europa Geschäfte machen, die die Verarbeitung ihrer personenbezogenen Daten beinhalten, gilt diese Gesetzgebung für Sie. Bei Verstößen gegen die Verordnung werden erhebliche Strafen verhängt, wobei gegen die Verordnung hohe Geldbußen verhängt werden. die Höchststrafe für einen einzelnen Verstoß 20 Mio. € oder 4 % des weltweiten Jahresumsatzes beträgt, je nachdem, welcher Betrag höher ist.
 
-## Auswirkungen auf Marketing {#implications-for-marketing}
+## Auswirkungen auf das Marketing {#implications-for-marketing}
 
-Marketingexperten wollen Kundenerlebnisse schaffen, die sich persönlich und menschlich fühlen, auf Vertrauen gegründet und mit Sorgfalt bereitgestellt werden. Obwohl der GDPR diese Bedingungen nicht verwendet, verfolgen wir dieselben Ziele - die Rechte der Kunden zu respektieren und ihr Vertrauen zu gewinnen. Um dieses Vertrauen aufzubauen und aufrechtzuerhalten, müssen Marketingmitarbeiter darauf geachtet werden, wie, wann und warum ihre Kunden eingebunden werden möchten. Es ist wichtig, dass Kundenpräferenzen respektiert werden, nicht nur als gesetzliche Voraussetzung, sondern als Grundlage für kundenorientierte Einsatzpraktiken.
+Marketingexperten wollen Kundenerlebnisse schaffen, die sich persönlich und menschlich fühlen, auf Vertrauen beruhen und mit Sorgfalt bereitgestellt werden. Obwohl die DSGVO diese Bedingungen nicht verwendet, sind die Ziele identisch: die Rechte der Kunden zu achten und ihr Vertrauen zu gewinnen. Um dieses Vertrauen zu schaffen und zu erhalten, müssen Marketing-Experten darauf achten, wie, wann und warum ihre Kunden interagieren möchten. Es ist wichtig, dass Kundenpräferenzen respektiert werden, nicht nur als gesetzliche Voraussetzung, sondern als Grundlage für kundenorientierte Interaktionsmethoden.
 
-Entscheidend ist, wie Marketingfachleute diese höheren Erwartungen bei der Erfassung, Verwendung und Sicherheit der personenbezogenen Daten, die routinemäßig im Zuge ihrer Arbeit verwendet werden, angehen, und Marketo kann dabei helfen, diese Erwartungen zu erfüllen.
+Die Art und Weise, wie Marketer diese höheren Erwartungen in Bezug auf die Erfassung, Nutzung und Sicherheit personenbezogener Daten, die routinemäßig im Zuge ihrer Arbeit verwendet werden, erfüllen, ist von entscheidender Bedeutung, und Marketo kann dabei helfen, diese Erwartungen zu erfüllen.
 
-Es gibt zwei wichtige Aspekte des GDPR, bei denen Marketingexperten vergangene, aktuelle und künftige Vorgehensweisen überprüfen müssen. Die erste ist die Einwilligung des Individuums zur Verarbeitung seiner personenbezogenen Daten, und die zweite ist die Rechenschaftspflicht, d.h. die Fähigkeit, nachzuweisen, wie die Grundsätze des GDPR befolgt werden.
+Es gibt zwei Hauptaspekte der DSGVO, in denen Marketingexperten vergangene, aktuelle und zukünftige Vorgehensweisen überprüfen müssen. Die erste ist die Einwilligung des Einzelnen zur Verarbeitung seiner personenbezogenen Daten, die zweite ist die Rechenschaftspflicht, nämlich nachweisen zu können, wie die Grundsätze der DSGVO eingehalten werden.
 
-Wir bieten ausführliche Informationen über die Einwilligung und Rechenschaftspflicht innerhalb der Marketing-Plattform in unserem E-Book, [GDPR und The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in Marketo Sales Connect, die Ihrem Unternehmen helfen werden, die GDPR-Regeln einzuhalten.
+In unserem E-Book bieten wir umfassende Informationen über Einverständnis und Rechenschaftspflicht innerhalb der Marketo-Plattform. [DSGVO und Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in Marketo Sales Connect, die Ihrem Unternehmen helfen, die DSGVO-Regeln einzuhalten.
 
-## GDPR-Konformität mit Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
+## DSGVO-Compliance in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect ist eine leistungsstarke Anwendung - Teil der Marketing-Interaktionsplattform -, die einen einzigen Arbeitsablauf und eine einheitliche Ansicht für Vertrieb und Marketing bietet, um die Pipeline durch kollaboratives Engagement gemeinsam schneller voranzutreiben. Neue Funktionen in Marketo Sales Connect wurden speziell unter Berücksichtigung der GDPR-Compliance entwickelt. Wir werden alle drei Funktionen erläutern und erklären, wie sie bei ordnungsgemäßer Verwendung zur Einhaltung der GDPR in Ihrem Unternehmen beitragen.
+Marketo Sales Connect ist eine leistungsstarke Anwendung - Teil der Marketo Engagement Platform -, die einen einzigen Workflow und eine Ansicht für Vertrieb und Marketing bietet, um die Pipeline durch kollaborative Interaktion gemeinsam schneller zu führen. Neue Funktionen in Marketo Sales Connect wurden speziell unter Berücksichtigung der DSGVO erstellt. Wir werden alle drei Funktionen skizzieren und erläutern, wie sie bei ordnungsgemäßer Verwendung die Einhaltung der DSGVO in Ihrem Unternehmen unterstützen.
 
-## Kompatibilitätskarte {#compliance-card}
+## Compliance Card {#compliance-card}
 
-Marketo Sales Connect enthält eine Compliance Card in der Ansicht &quot;Personendaten&quot;, mit der wichtige Informationen zum Autorisierungstyp eines Kontakts sowie zum Quelltyp bereitgestellt werden. Auf diese Weise können Benutzer Informationen, die für den Datenschutz von entscheidender Bedeutung sind, einfach hinzufügen und nachverfolgen und fundiertere Entscheidungen zur Kampagne-/Informationsstrategie treffen.
+Marketo Sales Connect beinhaltet eine Compliance Card in der Personendetailansicht, die wichtige Informationen zum Autorisierungstyp eines Kontakts sowie zum Quelltyp enthält. Auf diese Weise können Benutzer Informationen, die für den Datenschutz von entscheidender Bedeutung sind, einfach hinzufügen und verfolgen und ihnen dabei helfen, fundiertere Entscheidungen über die Kampagnen-/Kontaktstrategie zu treffen.
 
 ![](assets/1.png)
 
-Autorisierungstyp kontaktieren
+Art der Kontaktgenehmigung
 
-Innerhalb der Compliance Card können Benutzer die Rechtsgrundlage für die Verarbeitung der persönlichen Daten eines Kontakts über die Dropdownliste &quot;Genehmigung&quot;nachverfolgen. Die Kenntnis des Autorisierungstyps eines Kontakts hilft Marketo Sales Connect-Benutzern, fundiertere Entscheidungen in Bezug auf die Kontaktverfahren zu treffen, und stellt sicher, dass jede Kampagne oder jeder Einsatz rechtmäßig und angemessen ist.
+Innerhalb der Compliance Card können Benutzer die Rechtsgrundlage für die Verarbeitung der personenbezogenen Daten eines Kontakts über die Dropdown-Liste Autorisierung verfolgen. Die Kenntnis des Autorisierungstyps eines Kontakts hilft Marketo Sales Connect-Benutzern dabei, fundiertere Entscheidungen über Outreach-Verfahren zu treffen, um sicherzustellen, dass jede Kampagne oder Interaktion legal und angemessen ist.
 
-Die Benutzer haben eine Vielzahl von Optionen zur Auswahl, darunter:
+Benutzer haben verschiedene Optionen zur Auswahl:
 
-* Zustimmung
-* Rechtliches Interesse
-* Ausführung eines Vertrags
+* Einverständnis
+* Berechtigtes Interesse
+* Leistung eines Vertrags
 * Einhaltung gesetzlicher Verpflichtungen
 * Schutz lebenswichtiger Interessen
-* Öffentliches Interesse/Amtliche Behörde
-* Sonstiges
+* Öffentliches Interesse/Offizielle Behörde
+* Andere
 
 Kontaktquellentyp
 
-Innerhalb der neuen Compliance Card können Benutzer die Quelle eines Kontakts nachverfolgen. Der Quelltyp definiert, woher die Informationen eines Kontakts kamen, als sie zum ersten Mal in Marketing to Sales Connect hochgeladen wurden. Die Kenntnis des Quellentyps eines Kontakts hilft auch bei Entscheidungen über die Informationspraxis, sowie bei der Bestimmung, welche anderen Systeme oder Orte personenbezogene Daten gespeichert werden, und gewährleistet, dass jede Interaktion mit den GDPR-Vorschriften im Einklang steht.
+Innerhalb der neuen Compliance Card können Benutzer die Quelle eines Kontakts verfolgen. Der Quelltyp definiert, woher die Informationen eines Kontakts kamen, als sie zum ersten Mal in Marketo Sales Connect hochgeladen wurden. Das Verständnis des Quelltyps eines Kontakts hilft auch bei Entscheidungen zu Outreach-Verfahren sowie bei der Bestimmung, welche anderen Systeme oder Standorte personenbezogene Daten speichern, und stellt sicher, dass jede Interaktion mit den DSGVO-Vorschriften im Einklang steht.
 
-Auch hier stehen den Benutzern zahlreiche Dropdown-Optionen zur Auswahl, darunter:
+Auch hier haben Benutzer zahlreiche Dropdown-Optionen zur Auswahl, darunter:
 
-* CRM-Synchronisierung
+* CRM-Synch.
 * Importieren
-* Manuelles Hochladen
-* Chrome Extension
-* Sonstiges
+* Manueller Upload
+* Chrome-Erweiterung
+* Andere
 
 Bearbeiten der Kompatibilitätskarte
 
-Wenn die Ansicht &quot;Personendetails&quot;geöffnet ist, klicken Sie in der Einhaltungskarte auf **Bearbeiten**.
+Wenn die Personendetailansicht geöffnet ist, klicken Sie auf **Bearbeiten** in der Einhaltungskarte.
 
 ![](assets/four.png)
 
@@ -90,39 +89,39 @@ Es werden zwei Dropdown-Listen angezeigt: Autorisierungstyp und Quelltyp.
 
 ![](assets/5.png)
 
-Wenn Sie &quot;Zustimmung&quot;als Autorisierungstyp auswählen, sind zwei Felder obligatorisch: &quot;Datum der Zustimmung&quot;und &quot;Zweck der Verarbeitung&quot;werden angezeigt. Diese beiden Felder gelten nicht für andere Optionen.
+Wenn Sie als Autorisierungstyp &quot;Einverständnis&quot;wählen, sind zwei erforderliche Felder erforderlich: &quot;Datum der Zustimmung&quot;und &quot;Zweck der Verarbeitung&quot;werden angezeigt. Diese beiden Felder können nicht auf andere Optionen angewendet werden.
 
 ![](assets/6.png)
 
-Wenn &quot;Sonstige&quot;für &quot;Autorisierungstyp&quot;oder &quot;Quelltyp&quot;ausgewählt ist, können Sie Text eingeben, um den Quelltyp zu beschreiben.
+Wenn &quot;Sonstige&quot;für den Autorisierungstyp oder den Quelltyp ausgewählt ist, können Sie Text eingeben, um den Quelltyp zu beschreiben.
 
 ![](assets/7.png)
 
-Massenaktionen** Marketing-Verkaufsstelle ermöglicht auch die stapelweise Aktualisierung der Autorisierungs- und Quelltypen eines Kontakts, wodurch wertvolle Zeit im Compliance-Prozess eingespart wird.
+Mit Massenaktionen** Marketo Sales Connect können auch die Autorisierung und Quelltypen eines Kontakts stapelweise aktualisiert werden, wodurch wertvolle Zeit im Compliance-Prozess eingespart wird.
 
-Wenn Sie auf der Seite &quot;Personen&quot;einen oder mehrere Kontakte auswählen, werden die Schaltflächen &quot;Autorisierung&quot;und &quot;Quelle&quot;oben im Container angezeigt. Mithilfe dieser Schaltflächen können Sie die Autorisierung oder Quelle mehrerer Kontakte gleichzeitig festlegen.
+Wenn Sie einen oder mehrere Kontakte aus der Seite Personen auswählen, werden die Schaltflächen Autorisierung und Quelle im oberen Container angezeigt. Mithilfe dieser Schaltflächen können Sie die Autorisierung oder Quelle mehrerer Kontakte gleichzeitig festlegen.
 
 ![](assets/eight.jpg)
 
-Wenn Sie auf das Genehmigungsmodell klicken, wird ein Popup mit Dropdown-Optionen angezeigt, die mit den Optionen in der Einhaltungskarte übereinstimmen.
+Wenn Sie auf das Autorisierungs-Modal klicken, wird ein Popup mit Dropdown-Optionen angezeigt, die mit den Optionen in der Kompatibilitätskarte übereinstimmen.
 
 ![](assets/9.png)
 
-Nach der Aktualisierung des Autorisierungstyps erhalten Sie ein Popup-Fenster mit einer Bestätigung, in dem Sie die aktualisierten Informationen in der Einhaltungskarte in der Ansicht &quot;Personendetails&quot;sehen können.
+Nachdem der Autorisierungstyp aktualisiert wurde, erhalten Sie ein Bestätigungs-Popup, in dem Sie die aktualisierten Details in der Kompatibilitätskarte in der Personendetailansicht sehen können.
 
 ![](assets/10.png)
 
-Gleichermaßen kann der Quelltyp auch stapelweise aktualisiert werden, indem auf das Modal Quelle geklickt wird.
+Ebenso kann der Quelltyp durch Klicken auf das Modal Quelle stapelweise aktualisiert werden.
 
 ![](assets/11.png)
 
-Nach Auswahl des richtigen Quelltyps für die ausgewählten Kontakte wird ein Bestätigungsfenster angezeigt, um die erfolgreiche Aktualisierung zu bestätigen.
+Nach Auswahl des richtigen Quelltyps für die ausgewählten Kontakte wird ein Bestätigungsfenster angezeigt, in dem die erfolgreiche Aktualisierung bestätigt wird.
 
 ![](assets/12.png)
 
-## Exportieren von Kontaktdaten von Marketing zu Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Exportieren von Kontaktdaten aus Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
 
-Sie haben die Möglichkeit, Kontaktinformationen aus der Ansicht &quot;Personendetails&quot;zu exportieren. Beim Exportieren wird eine .CSV-Datei mit den folgenden Spalten heruntergeladen:
+Sie können Kontaktinformationen aus der Personendetailansicht exportieren. Beim Export wird eine .CSV-Datei mit den folgenden Spalten heruntergeladen:
 
 <table> 
  <colgroup> 
@@ -133,32 +132,32 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Ansicht &quot;Personend
  <tbody> 
   <tr> 
    <td>Vorname</td> 
-   <td>Webseite</td> 
+   <td>Website</td> 
    <td>Facebook</td> 
   </tr> 
   <tr> 
    <td>Nachname</td> 
-   <td>Sonstiges</td> 
+   <td>Andere</td> 
    <td>Twitter</td> 
   </tr> 
   <tr> 
-   <td>Firma</td> 
+   <td>Unternehmen</td> 
    <td>Aktualisiert am</td> 
    <td>LinkedIn</td> 
   </tr> 
   <tr> 
    <td>Titel</td> 
    <td>Erstellt am</td> 
-   <td>Exportiert am</td> 
+   <td>Exportiert nach</td> 
   </tr> 
   <tr> 
-   <td>Email-ID</td> 
+   <td>E-Mail-ID</td> 
    <td>Salesforce-ID</td> 
    <td><br></td> 
   </tr> 
   <tr> 
    <td>Telefonnummer</td> 
-   <td>Person-ID</td> 
+   <td>Personen-ID</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -166,27 +165,27 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Ansicht &quot;Personend
 
 >[!NOTE]
 >
->Dies kann nur einmal pro Kontakt erfolgen. Es gibt derzeit keine Funktion, die Massenexporte von Kontakten erlaubt.
+>Dies kann jeweils nur einmal erfolgen. Es gibt derzeit keine Funktion, die den Massenexport von Kontakten ermöglicht.
 
-Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punkte in der Kopfzeile der Ansicht &quot;Personendetails&quot;und wählen Sie **Export**. Die .CSV-Datei wird automatisch heruntergeladen.
+Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punkte in der Kopfzeile der Personendetailansicht und wählen Sie **Export**. Die .CSV-Datei wird automatisch heruntergeladen.
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->Der GDPR erfordert auch die Möglichkeit, Kontakte aus der Benutzeroberfläche zu löschen, aber Marketo Sales Connect verfügt bereits über diese Funktion.
+>Die DSGVO erfordert auch die Möglichkeit, Kontakte aus der Benutzeroberfläche zu löschen. Marketo Sales Connect verfügt jedoch bereits über diese Funktion.
 
-## Abmeldet {#unsubscribes}
+## Abbestellungen {#unsubscribes}
 
-Ein häufig missverständlicher Bereich des GDPR umfasst Kontakte, die sich von der Datenbank des Unternehmens abmelden. Um neue Regeln zum Schutz der Daten derjenigen einzuhalten, die sich abmelden möchten, wurde die folgende Funktion in Marketing Sales Connect integriert:
+Ein häufig missverständlicher Bereich der DSGVO umfasst Kontakte, die sich von der Datenbank der Organisation abmelden. Um die neuen Regeln zum Schutz der Daten derjenigen einzuhalten, die sich abmelden, wurde die folgende Funktion in Marketo Sales Connect hinzugefügt:
 
-**Abmelden-Links:** Abmelden-Links werden automatisch an alle E-Mails angehängt, die von der Sales Connect-Webanwendung gesendet werden, um sicherzustellen, dass Kontakte eine Möglichkeit erhalten, sich abzumelden.\
-**Synchronisierung abmelden:** Benutzer können Abmeldeabbrüche mit und von ihrem CRM (Salesforce) synchronisieren, um sicherzustellen, dass die Abmeldeabmeldung aktuell ist.\
-**Verlauf der Abmeldung:** Benutzer können historische Ausschluss- und Anmeldevorgänge in der Ansicht &quot;Personendaten&quot;sehen.\
-**Entfernen des Abonnements abbestellen: Wenn Sie einen nicht abonnierten Kontakt wieder** wählen, muss der Benutzer über Administratorrechte verfügen und nachweisen, dass der Kontakt seine neue Einwilligung gegeben hat, ihn zu kontaktieren.
+**Abmelde-Links:** Abmelde-Links werden automatisch an alle E-Mails angehängt, die von der Sales Connect-Webanwendung gesendet werden. Dadurch wird sichergestellt, dass Kontakte die Möglichkeit erhalten, sich abzumelden.\
+**Abmeldesynchronisierung:** Benutzer können Abmeldungen von und aus ihrem CRM (Salesforce) synchronisieren, um sicherzustellen, dass Opt-outs aktuell sind.\
+**Abmeldeverlauf:** Benutzer können historische Opt-outs und Opt-ins in der Personendetailansicht sehen.\
+**Entfernung der Abmeldung:** Wenn ein abgemeldeter Kontakt wieder aktiviert werden soll, muss der Benutzer über Administratorberechtigungen verfügen und nachweisen können, dass der Kontakt neue Einwilligung zur Kontaktaufnahme gegeben hat.
 
 ## Zukünftige Updates {#future-updates}
 
-Als begeisterter Verfechter der Macht und Kundenorientierung der Interaktionswirtschaft versteht Marketo, wie wichtig es ist, Privatsphäre und Datenschutz in die Hände der betroffenen Person zu legen. Wie bei anderen Datenschutzgesetzen erfordert die Einhaltung der AGB sowohl von Marketo als auch von unseren Kunden Engagement. Dieser Artikel soll Ihnen bei der Verwendung von Marketo behilflich sein, um die GDPR-Konformität Ihres Unternehmens zu unterstützen.
+Als begeisterter Verfechter der Macht und Kundenorientierung der Interaktionswirtschaft versteht Marketo, wie wichtig es ist, die Privatsphäre und den Datenschutz in die Hände der betroffenen Person zu legen. Wie bei anderen Datenschutzgesetzen erfordert die Einhaltung der DSGVO das Engagement von Marketo und unseren Kunden. Dieser Artikel soll Ihnen dabei helfen, Marketo auf geeignete Weise zu verwenden, um die DSGVO Ihres Unternehmens einzuhalten.
 
-Wir werden weiterhin die geltenden Leitlinien der Regulierungsbehörden für das BIP und damit zusammenhängende Rechtsvorschriften genau verfolgen. Aktualisierungen werden in unserem Trust Center unter [trust.marketo.com](https://trust.marketo.com) veröffentlicht.
+Wir werden die geltenden DSGVO-Leitlinien der Regulierungsbehörden und der damit zusammenhängenden Rechtsvorschriften weiterhin genau verfolgen. Aktualisierungen werden in unserem Trust Center unter folgender Adresse veröffentlicht: [trust.marketo.com](https://trust.marketo.com).

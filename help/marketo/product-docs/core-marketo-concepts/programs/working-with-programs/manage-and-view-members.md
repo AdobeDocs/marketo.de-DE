@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147122
-description: Mitglieder für Verwaltung und Ansicht - Marketo Docs - Produktdokumentation
-title: Mitglieder verwalten und Ansicht
+description: Mitglieder verwalten und anzeigen - Marketo-Dokumente - Produktdokumentation
+title: Mitglieder verwalten und anzeigen
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -11,49 +10,49 @@ ht-degree: 0%
 
 ---
 
-# Mitglieder verwalten und Ansicht {#manage-and-view-members}
+# Mitglieder verwalten und anzeigen {#manage-and-view-members}
 
-Über die Registerkarte &quot;Mitglieder&quot;können Sie Ihre Mitglieder in Ihren Programmen verwalten und Ansichten vornehmen.
+Über den Tab Mitglieder können Sie Ihre Mitglieder in Ihren Programmen verwalten und anzeigen.
 
 >[!NOTE]
 >
->Tauchen Sie tiefer in [Programm-Mitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) ein.
+>Tauchen Sie tiefer in [Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
-## Nach einem Mitglied {#search-for-a-member} suchen
+## Nach einem Mitglied suchen {#search-for-a-member}
 
-Verwenden Sie das Suchfeld unten im Bereich &quot;Mitglieder&quot;, um nach Programm-Mitgliedern nach Name, E-Mail-Adresse, Berufsbezeichnung oder Firma zu suchen.
+Verwenden Sie unten im Bereich Mitglieder das Suchfeld, um nach Programmmitgliedern nach Name, E-Mail-Adresse, Berufsbezeichnung oder Unternehmen zu suchen.
 
-1. Klicken Sie auf die Registerkarte **Members** Ihres Programms.
+1. Klicken Sie auf **Mitglieder** -Tab Ihres Programms.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
-1. Verwenden Sie das Suchfeld, um die Liste der Mitglieder zu durchsuchen.
+1. Durchsuchen Sie mithilfe des Suchfelds die Mitgliederliste.
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Exportieren des Mitgliederrasters {#export-the-members-grid}
+## Mitgliederraster exportieren {#export-the-members-grid}
 
-Sie können Ihre Mitglieds-Liste exportieren, indem Sie auf das Excel-Symbol neben dem Suchfeld klicken.
+Sie können Ihre Mitgliederliste exportieren, indem Sie auf das Excel-Symbol neben dem Suchfeld klicken.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## Spalten im Mitgliederraster {#manage-columns-in-the-members-grid} verwalten
+## Spalten im Mitgliederraster verwalten {#manage-columns-in-the-members-grid}
 
-Ziehen Sie Spalten per Drag &amp; Drop, um ihre Reihenfolge zu ändern. Die blauen Pfeile zeigen an, wohin die Spalte geht.
+Verschieben Sie Spalten per Drag-and-Drop, um ihre Reihenfolge zu ändern. Die blauen Pfeile zeigen an, wohin die Spalte geht.
 
 ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um sie alphabetisch zu sortieren, entweder aufsteigend oder absteigend.
+Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um die Sortierung alphabetisch (aufsteigend oder absteigend) vorzunehmen.
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Wählen Sie, welche Spalten im Raster {#choose-which-columns-are-visible-in-the-grid} sichtbar sind
+## Festlegen, welche Spalten im Raster sichtbar sind {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klicken Sie auf die Dropdownliste **Ansicht** und wählen Sie **Ansicht erstellen**.
+1. Klicken Sie auf **Ansicht** und wählen Sie **Ansicht erstellen**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken Sie auf **Hinzufügen** und **Entfernen**, um Spalten zu verschieben und eine Ansicht zu erstellen.
+1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken **Hinzufügen** und **Entfernen** um Spalten zu verschieben und eine Ansicht zu erstellen.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -61,30 +60,30 @@ Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um sie alphab
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtern des Mitgliederrasters {#filter-the-members-grid}
+## Filtern des Mitgliederrasters  {#filter-the-members-grid}
 
-1. Klicken Sie auf die Dropdown-Liste **Filter** und wählen Sie einen Schritt zum Sortieren nach Progression.
+1. Klicken Sie auf **Filter** und wählen Sie einen Schritt nach dem Fortschritt aus.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## Personenstatus im Mitgliederraster {#manage-person-status-in-the-members-grid} verwalten
+## Verwalten des Personenstatus im Mitgliederraster {#manage-person-status-in-the-members-grid}
 
 Sie können den Status Ihrer Personen im Mitgliederraster ändern.
 
-1. Halten Sie **Strg/Cmd** gedrückt und wählen Sie die Personen aus.
+1. Halten Sie die **Strg/Befehl** und wählen Sie die Personen aus.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klicken Sie auf die Dropdownliste **Status ändern** und wählen Sie einen Status aus.
+1. Klicken Sie auf **Status ändern** und wählen Sie einen Status aus.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   Das könnte einen Moment dauern. Sie werden die folgende Nachricht sehen, wenn alles fertig ist!
+   Das kann einen Moment dauern. Sie werden die folgende Nachricht sehen, wenn alles erledigt ist!
 
    ![](assets/changestatusconfirm.png)
 
-So viele Features, aber sie sind alle ziemlich einfach. Viel Spaß!
+So viele Funktionen, aber sie sind alle ziemlich einfach. Viel Spaß!
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Programm-Leistungsberichts](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[Erstellen eines Berichts zur Programmleistung](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)

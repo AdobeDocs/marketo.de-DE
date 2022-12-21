@@ -3,7 +3,6 @@ unique-page-id: 10095636
 description: No-Draft für Snippets aktivieren - Marketo Docs - Produktdokumentation
 title: No-Draft für Snippets aktivieren
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -13,41 +12,41 @@ ht-degree: 0%
 
 # No-Draft für Snippets aktivieren {#enable-no-draft-for-snippets}
 
-&quot;Kein Entwurf&quot;für Snippets ermöglicht Ihnen, Snippet-Änderungen zu verteilen, ohne genehmigte Assets damit zu entwerfen. Alle Assets, die das bearbeitete Snippet verwenden, erhalten die Aktualisierungen und behalten ihren jeweiligen Status bei:
+Mit &quot;Kein Entwurf für Snippets&quot;können Sie Änderungen an Snippets verteilen, ohne genehmigte Assets mit diesem zu erstellen. Alle Assets, die das bearbeitete Snippet verwenden, erhalten die Aktualisierungen und behalten ihren jeweiligen Status bei:
 
-* Genehmigte Assets werden aktualisiert und bleiben genehmigt
+* Genehmigte Assets erhalten die Snippet-Aktualisierungen und bleiben genehmigt
 
-* Entwürfe erhalten die Codefragment-Aktualisierungen und bleiben im Entwurfsmodus
+* Entwürfe erhalten die Aktualisierungen des Snippets und bleiben im Entwurfsmodus
 
-&quot;Kein Entwurf&quot;ist für alle Administratorrollen automatisch aktiviert. Ein Administrator kann diese Funktion dann für jede zusätzliche Rolle aktivieren.
+&quot;No-Draft&quot;wird automatisch für alle Administratorrollen aktiviert. Ein Administrator kann diese Funktion dann für jede zusätzliche Rolle aktivieren.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Gehen Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
 
    ![](assets/usersandroles.png)
 
-1. Gehen Sie zur Registerkarte **Rollen**, wählen Sie eine Rolle und klicken Sie dann auf **Rolle bearbeiten**.
+1. Navigieren Sie zu **Rollen** Registerkarte, eine Rolle auswählen und auf **Rolle bearbeiten**.
 
    ![](assets/editrole2.png)
 
-1. Erweitern Sie die Option **Zugriff auf Design Studio**.
+1. Erweitern Sie die **Zugriff auf Design Studio** -Option.
 
    ![](assets/expanddesignstudio.png)
 
-1. Erweitern Sie die Option **Aufrufen eines Codeausschnitts**.
+1. Erweitern Sie die **Snippet aufrufen** -Option.
 
    ![](assets/expandsnippet.png)
 
-1. Erweitern Sie die Berechtigung **Snippet** genehmigen und aktivieren Sie das Kontrollkästchen **Kein Entwurf**. Klicken Sie dann auf **Speichern**.
+1. Erweitern Sie die **Snippet genehmigen** Berechtigung und Überprüfung der **No-Draft** ankreuzen. Klicken Sie anschließend auf **Speichern**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
->Um &quot;Kein Entwurf&quot;zu deaktivieren, führen Sie die Schritte 1 bis 4 aus, deaktivieren Sie das Kontrollkästchen &quot;Kein Entwurf&quot;und klicken Sie auf **Speichern**.
+>Um No-Draft zu deaktivieren, führen Sie die Schritte 1 bis 4 oben aus, deaktivieren Sie das Kontrollkästchen No-Draft und klicken Sie auf **Speichern**.
 
 >[!MORELIKETHIS]
 >

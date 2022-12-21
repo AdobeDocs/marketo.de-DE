@@ -1,23 +1,22 @@
 ---
 unique-page-id: 4718640
-description: Informationen zum Programm Membership Analyse Area - Marketing Docs - Produktdokumentation
-title: Programm-Analyse
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Grundlegendes zum Programmteilnahmebereich - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum Bereich für die Programmzugehörigkeitsanalyse
+exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
+# Grundlegendes zum Bereich für die Programmzugehörigkeitsanalyse {#understanding-the-program-membership-analysis-area}
 
-# Der Analyse-Bereich für die Programm-Mitgliedschaft {#understanding-the-program-membership-analysis-area}
+Im Bereich Programmteilnahmeanalyse können Sie die Effektivität einzelner Programme analysieren oder die zusammengefassten Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
 
-Im Bereich Programm Membership Analyse können Sie die Effektivität einzelner Programm analysieren oder die zusammengefassten Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
+## Beispiele für Geschäftsfragen {#example-business-questions}
 
-## Beispiel für Geschäftsfragen {#example-business-questions}
-
-Wie viele Personen nahmen an einem Programm pro Kanal in einem bestimmten Monat teil?
+Wie viele Personen nahmen an einem Programm nach Kanal in einem bestimmten Monat teil?
 
 ![](assets/one-2.png)
 
@@ -25,46 +24,46 @@ Wie viele Personen haben die Erfolgskriterien für ein bestimmtes Programm errei
 
 ![](assets/two-2.png)
 
-Wie viele neue Namen haben die einzelnen Programme/Kanal pro Monat generiert?
+Wie viele neue Namen haben die einzelnen Programme/Kanäle pro Monat generiert?
 
 ![](assets/three-2.png)
 
-## Dimensionen und Maßnahmen zur Analyse der Programme {#program-membership-analysis-dimensions-and-measures}
+## Dimensionen und Maßnahmen der Programmzugehörigkeitsanalyse {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
->Gelbe Punkte sind Dimensionen und blaue Punkte Maßstäbe.
+>Gelbe Punkte sind Dimensionen und blaue Punkte sind Messungen.
 
 ### Mitgliedschaft {#membership}
 
 | Maßnahme | Beschreibung |
 |---|---|
-| % Neue Namen | Prozentsatz der in einem Programm erworbenen Interessenten |
-| Mitglieder | Gesamte Interessenten in einem Programm |
-| Neue Namen | Gesamtzahl der von einem Programm erworbenen neuen Namen |
+| Anteil neuer Namen | Prozentsatz der im Rahmen eines Programms erworbenen Leads |
+| Mitglieder | Gesamtzahl der Leads im Programm |
+| Neue Namen | Gesamtzahl der durch ein Programm erworbenen neuen Namen |
 
-### Programm-Attribute {#program-attributes}
+### Programmattribute {#program-attributes}
 
-| Dimension | Beschreibung |
+| Abmessung | Beschreibung |
 |---|---|
-| Programm Kanal | Programm Kanal |
-| Name des Programms | Name des Programms |
+| Programmkanal | Programmkanal |
+| Programmname | Programmname |
 
-### Programm-Teilnahmezeitrahmen {#program-membership-timeframe}
+### Zeitrahmen der Programmmitgliedschaft {#program-membership-timeframe}
 
-| Dimension | Beschreibung |
+| Abmessung | Beschreibung |
 |---|---|
-| Jahr | Zeitrahmen der Programm-Mitgliedschaft |
-| Quartal | Zeitrahmen der Programm-Mitgliedschaft |
-| Monat | Zeitrahmen der Programm-Mitgliedschaft |
-| Woche | Zeitrahmen der Programm-Mitgliedschaft |
-| Datum | Zeitrahmen der Programm-Mitgliedschaft |
+| Jahr | Zeitrahmen der Programmmitgliedschaft |
+| Quartal | Zeitrahmen der Programmmitgliedschaft |
+| Monat | Zeitrahmen der Programmmitgliedschaft |
+| Woche | Zeitrahmen der Programmmitgliedschaft |
+| Datum | Zeitrahmen der Programmmitgliedschaft |
 
 ### Erfolg {#success}
 
 | Maßnahme | Beschreibung |
 |---|---|
-| % Erfolg (neue Namen) | Prozentsatz der vom Programm erworbenen Interessenten UND bei der Fortschreitung des Programms Erfolge erzielt |
-| % Erfolg (insgesamt) | Prozentsatz der Interessenten, die im Verlauf eines Programms erfolgreich waren |
-| Erfolg (neue Namen) | Gesamtzahl der neuen Namen, die im Verlauf eines Programms erfolgreich waren |
-| Erfolg (insgesamt) | Gesamtzahl der Interessenten, die im Verlauf eines Programms erfolgreich waren |
+| Erfolg in % (Neue Namen) | Prozentsatz der Leads, die durch das Programm erworben wurden UND im Fortgang des Programms erfolgreich waren |
+| % Erfolg (Summe) | Prozentsatz der Leads, die im Verlauf eines Programms erfolgreich waren |
+| Erfolg (Neue Namen) | Gesamtzahl der neuen Namen, die im Verlauf eines Programms erfolgreich waren |
+| Erfolg (Summe) | Gesamtzahl der Leads, die im Verlauf eines Programms erfolgreich waren |

@@ -1,36 +1,35 @@
 ---
 unique-page-id: 10095347
-description: Sichern Sie die Abonnement-Administratoreinstellung - Marketing Docs - Produktdokumentation
-title: Abonnement-Administratoreinstellung sichern
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Sichern der Abonnement-Admin-Einstellung - Marketo Docs - Produktdokumentation
+title: Sichern der Abonnement-Admin-Einstellung
+exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
-# Sichern Sie die Abonnement-Administratoreinstellung {#secure-the-subscription-admin-setting}
+# Sichern der Abonnement-Admin-Einstellung {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-Ein Administrator kann wählen, ob er sich anmelden muss, um einen Bericht Ansicht.
+Ein Administrator kann sich entscheiden, eine Anmeldung erforderlich zu machen, um einen Bericht anzuzeigen.
 
-1. Klicken Sie auf **Admin** und dann **Anmeldeeinstellungen**.
+1. Klicken **Admin**, und dann **Anmeldeeinstellungen**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klicken Sie für die Berichtseinstellungen für intelligente Listen auf **Bearbeiten**.
+1. Klicken **Bearbeiten** für Smart List-Berichtseinstellungen.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Wählen Sie **Ja** aus, um eine Anmeldung zum Herunterladen von Berichten erforderlich zu machen.
+1. Auswählen **Ja** , um zum Herunterladen von Berichten einen Login zu benötigen.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 
    >[!CAUTION]
    >
-   >Wenn zum Herunterladen von Berichten eine Anmeldung erforderlich ist und Sie keinen Zugriff auf Marketo haben, erhalten Sie keine Smart-Liste-Bericht-E-Mails. Dies gilt für bestehende und künftige Abonnements.
+   >Wenn zum Herunterladen von Berichten eine Anmeldung erforderlich ist und Sie keinen Zugriff auf Marketo haben, erhalten Sie keine E-Mails mit Smart-List-Berichten. Dies gilt für bestehende und zukünftige Abonnements.

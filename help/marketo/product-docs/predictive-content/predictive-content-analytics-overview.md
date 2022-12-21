@@ -1,59 +1,58 @@
 ---
 unique-page-id: 12981204
-description: Predictive Content Analytics - Überblick - Marketing-Dokumente - Produktdokumentation
-title: Übersicht über Predictive Content Analytics
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Predictive Content Analytics - Überblick - Marketo Docs - Produktdokumentation
+title: Predictive Content Analytics - Überblick
+exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
+# Predictive Content Analytics - Überblick {#predictive-content-analytics-overview}
 
-# Predictive Content Analytics-Übersicht {#predictive-content-analytics-overview}
-
-Nutzen Sie die Inhaltsanalyse, um weitere Einblicke in Ihre vorhandenen Inhalte zu erhalten, zu erfahren (basierend auf AI- und Prognosealgorithmen), welche Inhalte für Ihre Audiencen funktionieren, und den ROI Ihrer Marketingbemühungen zu erhöhen.
+Verwenden Sie die Inhaltsanalyse, um weitere Einblicke in Ihre vorhandenen Inhalte zu erhalten, (anhand von KI und Prognosealgorithmen) zu erfahren, welche Inhalte für Ihre Zielgruppen funktionieren, und um den ROI aus Ihren Marketing-Maßnahmen zu steigern.
 
 >[!NOTE]
 >
->Die Funktionen für die Registerkarte &quot;Analyse&quot;und &quot;Inhaltsanalyse&quot;stehen exklusiv für Marketing Predictive Content zur Verfügung.
+>Die Analytics-Registerkarte und die Inhaltsanalysefunktionen sind ausschließlich mit Marketo Predictive Content verfügbar.
 
-## Übersicht {#overview}
+## Überblick {#overview}
 
-Klicken Sie auf der Seite &quot;Zusammenfassung&quot;auf **Analytics**.
+Klicken Sie auf der Zusammenfassungsseite auf **Analytics**.
 
 ![](assets/one.png)
 
-Analytics umfasst mehrere Abschnitte: Top-Inhalte nach Ansichten, Top-Inhalte nach Konversionsrat, Trendinhalt, Vorgeschlagene Inhalte und Inhalt.
+Analytics umfasst mehrere Abschnitte: Top-Inhalte nach Ansichten, Top-Inhalt nach Konversionsrate, Trendinhalt, vorgeschlagene Inhalte und Inhalt
 
 ![](assets/new-2.png)
 
-Bewegen Sie den Mauszeiger über das Fragezeichen in einer Abschnittsüberschrift, um weitere Details anzuzeigen.
+Bewegen Sie den Mauszeiger über das Fragezeichen in einem Abschnitt-Header, um weitere Details anzuzeigen.
 
 ![](assets/new-3.png)
 
-Klicken Sie auf die Schaltfläche &quot;Exportieren&quot;, um die Ergebnisse dieses Abschnitts über Excel zu exportieren.
+Klicken Sie auf die Schaltfläche Exportieren , um die Ergebnisse des Abschnitts über Excel zu exportieren.
 
 ![](assets/new-3point5.png)
 
-Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B. ABM-Konto, Liste usw.).
+Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B. ABM-Kontoliste, Land usw.).
 
 ![](assets/pca.png)
 
-Klicken Sie auf das Kalendersymbol, um die Daten der reflektierten Daten zu ändern. Wählen Sie eine voreingestellte Zeit oder einen bestimmten Datumsbereich aus.
+Klicken Sie auf das Kalendersymbol, um die Daten der reflektierten Daten zu ändern. Wählen Sie einen vordefinierten Zeitraum oder einen bestimmten Datumsbereich aus.
 
 ![](assets/dates.png)
 
-## Top-Inhalt nach Ansichten {#top-content-by-views}
+## Top-Inhalt nach Anzeigen {#top-content-by-views}
 
-Zeigt die wichtigsten Inhaltselemente nach Anzahl der Ansichten pro Datumsbereich an.
+Zeigt die wichtigsten Inhaltselemente nach Anzahl der Ansichten pro ausgewähltem Datumsbereich an.
 
 ![](assets/new-6.png)
 
-## Top-Inhalt nach Konversionsrat {#top-content-by-conversion-rate}
+## Top-Inhalt nach Konvertierungsrate {#top-content-by-conversion-rate}
 
-Zeigt den Inhalt mit der höchsten Konvertierung für den ausgewählten Datumsbereich Konversionsrat an.
+Zeigt den am häufigsten konvertierenden Inhalt nach Konversionsrate für den ausgewählten Datumsbereich an.
 
 ![](assets/new-7.png)
 
@@ -61,36 +60,36 @@ Zeigt den Inhalt mit der höchsten Konvertierung für den ausgewählten Datumsbe
 >
 >**Definition**
 >
->**Konversionsrat**: Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird.
+>**Konversionsrate**: Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird.
 
-## Trendinhalt {#trending-content}
+## Trending-Inhalt {#trending-content}
 
-Zeigt die steigende Beliebtheit eines Inhaltselements an, indem Sie sich die Steigerung der Ansichten der letzten zwei Wochen im Vergleich zum gleichen Vorzeitraum ansehen.
+Zeigt den Anstieg der Beliebtheit eines Inhaltselements an, indem die Ansichten der letzten zwei Wochen im Vergleich zum gleichen Zeitraum angestiegen sind.
 
 ![](assets/new-8.png)
 
-## Vorgeschlagener Inhalt {#suggested-content}
+## Empfohlener Inhalt {#suggested-content}
 
-Zeigt Inhalte an, für die Sie je nach vordefiniertem Filter in Ihren Marketing-Aktivitäten werben möchten.
+Zeigt Inhalte an, die wir Ihnen empfehlen, in Ihren Marketingaktivitäten basierend auf dem von Ihnen definierten Filter zu bewerben.
 
 ![](assets/image2017-10-3-10-3a18-3a35.png)
 
-Bewegen Sie den Mauszeiger über ein Bild in &quot;Vorgeschlagener Inhalt&quot;, um die verfügbaren Optionen anzuzeigen.
+Bewegen Sie den Mauszeiger über ein Bild in &quot;Vorgeschlagener Inhalt&quot;, um verfügbare Optionen anzuzeigen.
 
 ![](assets/image2017-10-3-10-3a21-3a37.png)
 
 >[!NOTE]
 >
->Sehen Sie diese Symbole unten? Von links nach rechts sind sie: Inhalt der Ansicht, In CSV exportieren, Inhalt genehmigen
+>Sehen Sie diese Symbole unten? Von links nach rechts sind sie: Inhalt anzeigen, In CSV exportieren, Inhalt genehmigen.
 
 ## Inhalt {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Suchen Sie nach dem gewünschten Inhaltselement und klicken Sie darauf, um weitere Details anzuzeigen, darunter: die Besucher, die sie ansehen, neu versus zurückkehren, bekannt und anonym, die wichtigsten Orte, von denen die Besucher bei der Anzeige der Inhalte kamen, und die wichtigsten abgeleiteten Branchen, aus denen sie stammen.
+Suchen Sie nach dem gewünschten Inhaltselement und klicken Sie darauf, um weitere Details anzuzeigen, darunter: die Besucher, die ihn ansehen, neue oder zurückkehrende, bekannte und anonyme, die Top-Positionen, von denen die Besucher bei der Anzeige des Inhalts kamen, und die am häufigsten zurückgewiesenen Branchen, aus denen sie stammen.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 
 >[!NOTE]
 >
->Ähnliche Inhalte basieren auf dem ausgewählten Inhaltselement und werden durch einen Algorithmus der Assoziationsregeln berechnet. Die Ergebnisse stellen Inhaltselemente dar, auf die Besucher am ehesten klicken, je nach ausgewähltem Besucher und Verhalten des vorherigen Elements. Der Filter oder der Datumsbereich werden dabei nicht berücksichtigt.
+>Ähnlicher Inhalt basiert auf den ausgewählten Inhalten und wird mithilfe eines Zuordnungsregel-Algorithmus berechnet. Die Ergebnisse stellen Inhaltselemente dar, auf die Besucher je nach ausgewähltem Element und früherem Besucherverhalten mit hoher Wahrscheinlichkeit klicken werden. Dabei werden weder Filter noch Zeitraum berücksichtigt.

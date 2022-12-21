@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360311
-description: Erstellen eines neuen Arbeitsbereichs - Marketo Dokumente - Produktdokumentation
-title: Neue Arbeitsfläche erstellen
+description: Erstellen eines neuen Arbeitsbereichs - Marketo-Dokumente - Produktdokumentation
+title: Neuen Arbeitsbereich erstellen
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
@@ -11,28 +10,28 @@ ht-degree: 0%
 
 ---
 
-# Neue Arbeitsfläche {#create-a-new-workspace} erstellen
+# Neuen Arbeitsbereich erstellen {#create-a-new-workspace}
 
-Arbeitsbereiche sind hilfreich, um Ihre Firma zu unterteilen. Gründe für die Einrichtung von Arbeitsbereichen sind unter anderem:
+Arbeitsbereiche sind nützlich für die Unterteilung Ihres Unternehmens. Gründe für die Einrichtung von Arbeitsbereichen sind:
 
 * Geografie: Europe Marketing Operations vs. North America Marketing Operations
-* Business Unit A vs. Business Unit B
+* Geschäftseinheit A vs. Geschäftseinheit B
 
 So erstellen Sie einen neuen Arbeitsbereich.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!NOTE]
 >
->Verstehen Sie zuerst mit [Die Arbeitsbereiche und die Benutzerpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Erste Schritte mit [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Weitere Informationen zu den Best Practices von Workspace erhalten Sie unter [Marketo Professional Services](mailto:services@marketo.com).
+>Weitere Informationen zu Best Practices für Workspace erhalten Sie bei [Marketo Professional Services](mailto:services@marketo.com).
 
-1. Klicken Sie unter **Admin** auf **Arbeitsbereiche und Partitionen**.
+1. under **Admin** klicken Sie auf **Arbeitsbereiche und Partitionen**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
@@ -40,29 +39,29 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
    ![](assets/two-1.png)
 
-1. Geben Sie einen **Name** ein und wählen Sie die **Benutzerpartition(en)** aus, die Sie verwenden möchten. Wählen Sie eine **Primär Personale Partition**.
+1. Geben Sie einen **Name** und wählen Sie die **Personenpartition(en)** Sie verwenden möchten. Wählen Sie eine **Primäre Personenpartition**.
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass [Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) erstellen, wenn Sie dies noch nicht getan haben.
+   >Stellen Sie sicher, dass [Personenpartitionen erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) wenn Sie es noch nicht getan haben.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Das Kontrollkästchen **Alle Benutzerpartitionen** bedeutet, dass dieser Arbeitsbereich alle Personenpartitionen im System verwenden kann.
+   >Die **Partitionen aller Personen** Kontrollkästchen bedeutet, dass dieser Arbeitsbereich alle Personenpartitionen im System verwenden kann.
    >
-   >Die **primäre Personenpartition** fungiert als Standard und ist dort, wo alle Personen zugewiesen werden.
+   >Die **primäre Personenpartition** fungiert als Standard und ist der Ort, an dem alle Personen zugewiesen werden.
 
    Wenn Sie mehrere Markendomänen aktiviert haben, müssen Sie eine primäre Markendomäne auswählen.
 
    ![](assets/four-1.png)
 
-1. Wählen Sie die Arbeitsflächensprache aus.
+1. Wählen Sie die Arbeitsbereichssprache aus.
 
    >[!NOTE]
    >
-   >Nach der Erstellung startet Marketo Musterelemente im Arbeitsbereich. Die Sprache erlaubt es, dass diese übergebenen Objekte in einer nicht-englischen Sprache vorliegen.
+   >Nach der Erstellung testet Marketo Beispiel-Assets im Arbeitsbereich. Die Sprache ermöglicht es, dass diese gesendeten Objekte in einer nicht englischen Sprache vorliegen.
 
    ![](assets/five.png)
 
@@ -70,8 +69,8 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
    ![](assets/six.png)
 
-   Erstellen Sie so viele Arbeitsbereiche wie nötig und weisen Sie ihnen die entsprechenden Personenpartitionen zu.
+   Erstellen Sie so viele Arbeitsbereiche, wie Sie benötigen, und weisen Sie ihnen die entsprechenden Personenpartitionen zu.
 
-   Nachdem Sie Ihren Arbeitsbereich erstellt haben, sollten Sie das Update sehen!
+   Nach der Erstellung Ihres Arbeitsbereichs sollte das Update angezeigt werden!
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)

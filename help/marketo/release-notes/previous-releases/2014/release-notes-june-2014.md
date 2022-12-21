@@ -20,7 +20,7 @@ Ein neues Erscheinungsbild, einschließlich der Navigation für das Marketo Lead
 
 ## Sales Insight-Plug-in für Outlook 2013 {#sales-insight-plugin-for-outlook}
 
-Dies erfordert einen Download des neuen Plug-ins. Sie können es von [hier](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) herunterladen.
+Dies erfordert einen Download des neuen Plug-ins. Sie können es hier herunterladen: [here](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## Token-Auflösung {#token-resolution}
 
@@ -34,11 +34,11 @@ Wenn Sie eine Test-E-Mail aus Sales Insight senden, werden Token in der E-Mail m
 
 ## Lead ReST API {#lead-rest-api}
 
-Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Um mit ReST zu beginnen, müssen Sie [einen benutzerdefinierten Dienst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo erstellen. Gehen Sie dann zur [Entwickler-Site](https://developers.marketo.com/documentation/rest/), um mehr über die Verwendung dieser API zu erfahren.
+Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Für die ersten Schritte mit ReST müssen Sie [Erstellen eines benutzerdefinierten Dienstes](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Dann gehen Sie zu [Entwickler-Site](https://developers.marketo.com/documentation/rest/) für Details zur Verwendung dieser API.
 
 ## Real-Time Personalization (RTP, Echtzeit-Personalisierung) – Aktualisierung der Kampagnenseite {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [Ihre Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) nach Datum oder Spitzenleistung organisieren.
+RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [Kampagnen organisieren](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) nach Datum oder Höchstleistung.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -46,6 +46,6 @@ RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagn
 
 Fügen Sie Ihre RTP-Daten komplett zu Ihrer Web Analytics-Plattform hinzu.
 
-Die Integration mit [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Switch, für den Daten gesendet werden sollen, an benutzerdefinierte Variablen und Ereignisse für GA.
+Die Integration mit [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Schalter, für den Daten gesendet werden sollen, an benutzerdefinierte Variablen und Ereignisse der allgemeinen Verfügbarkeit.
 
-Wir haben die Integration auch mit [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md) abgeschlossen.
+Wir haben auch die Integration mit [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).

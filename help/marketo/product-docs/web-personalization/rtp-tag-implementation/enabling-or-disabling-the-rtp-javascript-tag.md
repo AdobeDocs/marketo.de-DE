@@ -1,36 +1,35 @@
 ---
 unique-page-id: 10097163
-description: Aktivieren oder Deaktivieren des RTP JavaScript-Tags - MarketingTo Docs - Produktdokumentation
-title: RTP JavaScript-Tag aktivieren oder deaktivieren
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Aktivieren oder Deaktivieren des RTP-JavaScript-Tags - Marketo Docs - Produktdokumentation
+title: Aktivieren oder Deaktivieren des RTP-JavaScript-Tags
+exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
+# Aktivieren oder Deaktivieren des RTP-JavaScript-Tags {#enabling-or-disabling-the-rtp-javascript-tag}
 
-# Aktivieren oder Deaktivieren des RTP JavaScript-Tags {#enabling-or-disabling-the-rtp-javascript-tag}
-
-Das RTP-JavaScript-Tag steuert, ob die Web-Personalisierung die Web-Aktivität verfolgt oder Kampagnen oder Inhaltsempfehlungen auf Ihrer Website ausführt.
+Das RTP JavaScript-Tag steuert, ob Web Personalization Webaktivitäten verfolgt oder Kampagnen oder Inhaltsempfehlungen auf Ihrer Website ausführt.
 
 >[!NOTE]
 >
->**Es ist nicht erforderlich, das Tag aus Ihrem HTML-Code auf Ihrer Website zu entfernen.** Kontrollieren Sie es über die Kontoeinstellungen.
+>**Es ist nicht erforderlich, das Tag aus Ihrem HTML-Code auf Ihrer Website zu entfernen.** Steuern Sie es über Kontoeinstellungen.
 
-## Aktivieren oder deaktivieren Sie das Tag {#enable-or-disable-the-tag}
+## Aktivieren oder Deaktivieren des Tags {#enable-or-disable-the-tag}
 
-1. Gehen Sie zu **Kontoeinstellungen**.
+1. Navigieren Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Wählen Sie unter &quot;Tag&quot;unter &quot;Domain and Domain Configuration&quot;die Option **Off** aus, um das JavaScript-Tag zu deaktivieren.
+1. Wählen Sie in der Konfiguration für Domäne und Domäne unter &quot;Tag&quot;die Option **Aus** , um das JavaScript-Tag zu deaktivieren.
 
    ![](assets/account-settings-domain-tag.jpg)
 
-   Wenn das Tag auf &quot;Aus&quot;gesetzt ist, ist der JavaScript-Code deaktiviert und Web-Personalisierung verfolgt keine Web-Aktivitäten und führt keine Kampagnen oder Inhaltsempfehlungen auf Ihrer Website aus.
+   Wenn das Tag auf Aus gesetzt ist, ist der JavaScript-Code deaktiviert und Web-Personalisierung verfolgt keine Web-Aktivität und führt keine Kampagnen oder Inhaltsempfehlungen auf Ihrer Website aus.
 
-1. Um das RTP-Tag zu aktivieren, wählen Sie unter &quot;Tag&quot;in &quot;Domain and Domain Configuration&quot;den Umschalter **Ein**.
+1. Um das RTP-Tag zu aktivieren, wählen Sie in &quot;Domain and Domain Configuration&quot;unter &quot;Tag&quot;die **on** umschalten.
 
    Einfach.

@@ -1,44 +1,43 @@
 ---
 unique-page-id: 7512448
-description: SDK-Code an einen Entwickler senden - MarketingToDocs - Produktdokumentation
+description: SDK-Code an einen Entwickler senden - Marketo-Dokumente - Produktdokumentation
 title: SDK-Code an einen Entwickler senden
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
+# SDK-Code an einen Entwickler senden {#send-sdk-code-to-a-developer}
 
-# SDK-Code an einen Entwickler {#send-sdk-code-to-a-developer} senden
-
-Bevor Sie In-App-Nachrichten oder Push-Benachrichtigungen erstellen können, muss der Entwickler das Mobile App SDK für die Android- und iOS-Plattformen einrichten und initialisieren.
+Bevor Sie In-App-Nachrichten oder Push-Benachrichtigungen erstellen können, müssen Sie den Entwickler bitten, das Mobile App SDK für die Plattformen Android und iOS einzurichten und zu initialisieren.
 
 * [Anleitung für Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [Anweisungen für iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
-## SDK-Code an einen Entwickler {#send-sdk-code-to-a-developer-1} senden
+## SDK-Code an einen Entwickler senden {#send-sdk-code-to-a-developer-1}
 
 Manchmal muss ein Administrator einen SDK-Code an einen Entwickler senden.
 
 ![](assets/image2016-3-9-16-3a24-3a14.png)
 
-So machen Sie das.
+So machst du das.
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Wählen Sie **Mobile Apps**.
+1. Auswählen **Mobile Apps**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-1. Wählen Sie die gewünschte mobile App aus.
+1. Wählen Sie die gewünschte Mobile App aus.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicken Sie auf **Aktionen für mobile Anwendungen** und wählen Sie **An Entwickler senden**.
+1. Klicken **Mobile App-Aktionen** und wählen Sie **An Entwickler senden**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 

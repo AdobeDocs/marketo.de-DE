@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352640
-description: Archivvorlagen - Marketing-Dokumente - Produktdokumentation
-title: Archivvorlagen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Archivvorlagen - Marketo-Dokumente - Produktdokumentation
+title: Vorlagen archivieren
+exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Archivvorlagen {#archive-templates}
+# Vorlagen archivieren {#archive-templates}
 
 Archivieren Sie Inhalte, um Ihr Konto für den Verkaufsinhalt zu bereinigen, ohne Vorlagendaten zu verlieren.
 
-Markieren Sie das Feld neben einer Vorlage und klicken Sie auf **Archiv**.
+Aktivieren Sie das Kontrollkästchen neben einer Vorlage und klicken Sie auf **Archivieren**.
 
 >[!NOTE]
 >
->Nach dem Archivieren kann eine Vorlage nicht mehr bearbeitet oder verwendet werden. Um sie erneut zu verwenden, verschieben Sie die Vorlage aus dem Archiv und in eine andere Kategorie.
+>Nach der Archivierung kann eine Vorlage nicht mehr bearbeitet oder verwendet werden. Um sie erneut zu verwenden, verschieben Sie die Vorlage aus dem Archiv in eine andere Kategorie.
 
-Sie können auch den Filter &quot;Nicht verwendet&quot;auswählen, um Vorlagen, die seit über 90 Tagen nicht verwendet wurden, zu Ansicht und Archivierung auszuwählen.
+Sie können auch den Filter Nicht verwendet auswählen, um Vorlagen anzuzeigen und zu archivieren, die seit mehr als 90 Tagen nicht mehr verwendet wurden.

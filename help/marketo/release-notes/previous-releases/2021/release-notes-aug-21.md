@@ -15,7 +15,7 @@ Die folgenden Funktionen sind in der Version vom 21. August enthalten. Überprü
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen (![](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem für das Adobe Marketo Engage zuständigen Kundenbetreuer.
+>Mit einem Stern gekennzeichnete Funktionen (![](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Adobe Marketo Engage-Support-Mitarbeiter.
 
 **_Vierteljährliche Versionen_**
 

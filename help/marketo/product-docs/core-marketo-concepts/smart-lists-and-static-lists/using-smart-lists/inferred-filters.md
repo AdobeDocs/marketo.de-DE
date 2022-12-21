@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2953188
-description: Inferierte Filter - Marketo Docs - Produktdokumentation
-title: Vorgestellte Filter
+description: Abgeleitete Filter - Marketo Docs - Produktdokumentation
+title: Abgeleitete Filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Angedeutete Filter {#inferred-filters}
+# Abgeleitete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, werden diese von [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und in das System eingefügt. Wir suchen ihre IP in einer speziellen Datenbank und ziehen alle möglichen guten Informationen. Schau es dir an.
+Wenn jemand Ihre Website besucht, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und setzt sie in das System. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen guten Informationen. Schau es dir an.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -27,18 +26,18 @@ Wenn jemand Ihre Website besucht, werden diese von [Munchkin](/help/marketo/prod
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-Wenn Sie einen dieser Filter in einer intelligenten Liste verwenden, ergeben sich daraus resultierende Informationen.
+Wenn Sie einen dieser Filter in einer intelligenten Liste verwenden, liefern die Ergebnisse Personen mit diesen Informationen.
 
 >[!TIP]
 >
->Verwenden Sie diese Filter in einem Bericht zur Web-Aktivität. Verwenden Sie die Territorien der Vertriebsmitarbeiter und abonnieren Sie sie in den letzten 24 Stunden zu einem benutzerspezifischen Tagesbericht mit Website-Besuchern. Sie werden es lieben!
+>Verwenden Sie diese Filter in einem Webaktivitätsbericht. Verwenden Sie die Territorien der Vertriebsmitarbeiter und melden Sie sie in den letzten 24 Stunden für einen benutzerspezifischen täglichen Bericht mit Website-Besuchern an. Sie werden es lieben!
 >
 >* Besuchte Webseite - Letzte 24 Stunden
->* Der Status &quot;Inferated&quot;ist [Wählen Sie ihr Territorium]
+>* Abgeleiteter Status ist [sein Hoheitsgebiet]
 
 
-Diese anonymen Besucher werden automatisch in Personen umgewandelt, wenn sie auf einen E-Mail-Link klicken oder ein Formular ausfüllen. Sie behalten jedoch alle daraus resultierenden Informationen bei.
+Diese anonymen Besucher werden automatisch in Personen umgewandelt, wenn sie auf einen E-Mail-Link klicken oder ein Formular ausfüllen. Sie bewahren jedoch alle enthaltenen Informationen auf.
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [Anonyme Aktivität und Interessenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Weitere Informationen [anonyme Aktivitäten und Leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).

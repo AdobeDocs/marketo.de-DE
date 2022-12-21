@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 10D {#template-10d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html) herunterladen
+Rechtsklick auf [Download-Vorlage 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 

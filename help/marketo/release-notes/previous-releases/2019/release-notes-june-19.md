@@ -25,7 +25,7 @@ Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 
 >[!CAUTION]
 >
->Ab dem 18. Juni 2019 ist E-Mail 1.0 nicht mehr verfügbar. Weitere Informationen zu Email 2.0 und der Einstellung von Email 1.0 [finden Sie hier](https://nation.marketo.com/docs/DOC-7038).
+>Ab dem 18. Juni 2019 ist E-Mail 1.0 nicht mehr verfügbar. Weitere Informationen zu Email 2.0 und der Einstellung von Email 1.0 [here](https://nation.marketo.com/docs/DOC-7038).
 
 ## Kundenbezogenes Marketing {#account-based-marketing}
 
@@ -39,16 +39,16 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und A
 
 ## Marketo Sky {#marketo-sky}
 
-* **Event** Capsand  **Event** Goalsare sind im Premium Events Add-on im Marketo Sky verfügbar.
+* **Ereignisabschlüsse** und **Ereignisziele** sind in der Regel unter Marketo Sky im Premium Events Add-on verfügbar.
 
    * Event Caps: Optimieren Sie das Kundenerlebnis für Ihre Veranstaltungen und Webinare mit Registrierungsoberflächen, Seitenumleitungen und Wartelisten-Funktionen.
    * Ereignisziele: Legen Sie Ereignisregistrierung und Anwesenheitsziele fest und verfolgen Sie den Fortschritt in Echtzeit.
 
 * **Vollständige Navigationslinks**: Wir haben die Navigation für alle Anwendungen mit Zugriffsberechtigung aktiviert, wie z. B. für Hootsuite, Kalender und mehr.
 * **E-Mail-, Landingpage-, Snippet-, Formular-, Bild- und Dateilistenansichten**: Anzeigen, Suchen und Ausführen von Massenaktionen für beliebige Assets in Design Studio.
-* **Seite mit Details zu Bild, Datei und Snippet**: Erhalten Sie schnelle Details zu Ihren Assets mit Metadaten wie  _erstellt am/_ by und Aktionen wie  __ Löschen und  _Genehmigen_.
+* **Seite mit Details zu Bild, Datei und Snippet**: Schnelle Details zu Ihren Assets mit Metadaten wie _erstellt bei/von_ und Aktionen wie _delete_ und _approve_.
 * **Community-Blog-Posts-Widget**: Rufen Sie aktuelle Beiträge aus der Community in My Marketo auf.
-* **Expiration Bald Widget**: Fügen Sie das Widget &quot;Bald ablaufen&quot;zu Ihrem Marketo-Dashboard hinzu, um zu sehen, welche Kampagnen und Landingpages als Nächstes ablaufen sollen.
+* **Baldes Widget ablaufen**: Fügen Sie das Widget &quot;Bald ablaufen&quot;zu Ihrem Marketo-Dashboard hinzu, um zu sehen, welche Kampagnen und Landingpages als Nächstes ablaufen sollen.
 * **Smart List Cards**: Segmentieren und Targeting Sie entsprechend mit zusätzlichen Smart-Listenkarten, einschließlich Workflow-Schritt &quot;Aufgabe erstellen&quot;, CRM-Smart-Liste-Regeln und mehr.
 * **Email Champion/Challenger-Detailseite**: Siehe Daten wie Gewinnkriterien, erstellt unter usw. von Ihren E-Mail-Meister/Challenger-Tests.
 
@@ -63,8 +63,8 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und A
 
 ## Bizible von Marketo {#bizible-by-marketo}
 
-* **Unterstützung mehrerer Währungen für Dynamics**: Bizible passt sich jetzt an Microsoft Dynamics-Währungstabellen an, sodass Sie einfach zwischen Unternehmens- und lokalen Währungen wechseln können. (Hinweis: Unterstützung für SFDC wurde im 1. Quartal 2019 veröffentlicht.)
+* **Unterstützung mehrerer Währungen für Dynamics**: Bizible passt sich jetzt an Microsoft Dynamics-Währungstabellen an, sodass Sie mühelos zwischen Unternehmens- und lokalen Währungen wechseln können. (Hinweis: Unterstützung für SFDC wurde im 1. Quartal 2019 veröffentlicht.)
 * **Drift-Integration**: Erfahren Sie, wie sich dynamische Konversationen auf die Journey Ihres Kunden auswirken. Bizible ruft auch E-Mail-Adressen aus Konversationen ab, um entweder einen neuen Lead zu erstellen oder den Touchpoint mit einem vorhandenen Lead zu verbinden.
 * **Lokalisierung**: Bizible ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
-***Produktversion*** WebinarSehen Sie sich die Aufzeichnung unseres Webinars über Neuerungen von Versionen vom 19. Juni  [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.
+***Webinar zur Produktversion*** Sehen Sie sich die Aufzeichnung unseres Webinars über die Neuerungen der Version vom 19. Juni an [here](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

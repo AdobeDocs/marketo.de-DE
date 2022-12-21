@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 20D {#template-20d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html) herunterladen
+Rechtsklick auf [Download-Vorlage 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 

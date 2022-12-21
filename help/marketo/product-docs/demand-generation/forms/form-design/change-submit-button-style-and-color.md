@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359620
-description: Stil und Farbe der Senden-Schaltfläche ändern - Marketing-Dokumente - Produktdokumentation
+description: Stil und Farbe der Sendeschaltfläche ändern - Marketo-Dokumente - Produktdokumentation
 title: Stil und Farbe der Senden-Schaltfläche ändern
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-
 # Stil und Farbe der Senden-Schaltfläche ändern {#change-submit-button-style-and-color}
 
-Wenn Sie den Standard-Sende-Knopf stumm finden oder etwas mehr Fantasie benötigen, können Sie aus einer breiten Palette von gebrauchsfertigen Schaltflächenstilen wählen.
+Wenn Sie die Standard-Senden-Schaltfläche stumpf finden oder etwas raffinierteres wünschen, können Sie aus einer Vielzahl von einsatzbereiten Schaltflächenstilen wählen.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Wählen Sie die Schaltfläche **Senden** und klicken Sie auf **Bearbeiten** neben Schaltflächenstil.
+1. Wählen Sie die **Einsenden** Schaltfläche und klicken Sie auf **Bearbeiten** neben Schaltflächenstil.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >Wusstest du, dass du die Senden-Schaltfläche nach links oder rechts ziehen kannst, um ihre Position zu ändern? So einfach ist es. Probier es aus!
+   >Wussten Sie, dass Sie die Senden-Schaltfläche nach links oder rechts ziehen können, um die Position zu ändern? So einfach ist es. Probier es aus!
 
-1. Wählen Sie den gewünschten Schaltflächenstil aus (Bildlauf nach oben/unten).
+1. Wählen Sie einen gewünschten Schaltflächenstil aus (scrollen Sie nach oben/unten).
 
    ![](assets/image2014-9-15-16-3a55-3a30.png)
 
@@ -43,22 +42,22 @@ Wenn Sie den Standard-Sende-Knopf stumm finden oder etwas mehr Fantasie benötig
    >
    >Sie können den Farbcode auch manuell eingeben.
 
-1. Klicken Sie auf **Wählen Sie**.
+1. Klicken **Auswählen**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
-   Los geht&#39;s!
+   Da bist du!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 
    >[!NOTE]
    >
-   >Wie bei vielen grafischen Elementen sieht die Schaltfläche je nach verwendetem Browser möglicherweise anders aus.
+   >Wie bei vielen grafischen Elementen kann die Schaltfläche je nach verwendetem Browser anders aussehen.

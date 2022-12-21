@@ -1,55 +1,54 @@
 ---
 unique-page-id: 2950524
-description: Social auf Ihrer Website bereitstellen - Marketing Docs - Produktdokumentation
+description: Social auf Ihrer Website bereitstellen - Marketo-Dokumente - Produktdokumentation
 title: Social auf Ihrer Website bereitstellen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
+# Social auf Ihrer Website bereitstellen {#deploy-social-on-your-website}
 
-# Social auf Ihrer Website {#deploy-social-on-your-website} bereitstellen
-
-Betten Sie soziale Apps auf Ihren Nicht-Marketo-Seiten ein.
+Betten Sie Social-Apps auf Ihren Nicht-Marketo-Seiten ein.
 
 >[!AVAILABILITY]
 >
 >Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
 
-Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Audience einzubinden und alle Beteiligten in die umfassendere Unterhaltung in sozialen Netzwerken einzubinden. Wenn Benutzer Ihre Promotions und Inhalte mit ihren Freunden in sozialen Netzwerken teilen, generieren Sie mehr Traffic auf Ihrer Site.
+Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Zielgruppe einzubinden und alle Beteiligten in das größere Gespräch in sozialen Netzwerken einzubinden. Wenn Personen Ihre Promotions und Inhalte mit ihren Freunden in sozialen Netzwerken teilen, generieren Sie mehr Traffic auf Ihrer Site.
 
 1. Wählen Sie eine genehmigte Social-App aus, z. B. eine YouTube-Video- oder Social-Schaltfläche.
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Wählen Sie **Einbettungscode** aus den Social-App-Aktionen.
+1. Auswählen **Einbettungscode** aus Social-App-Aktionen.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Kopieren Sie den Code für die Seitenüberschrift (`<head>`) und den Text (`<body>`) Ihrer Site.
+1. Kopieren Sie den Code für den Seitenkopf Ihrer Site (`<head>`) und Hauptteil (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
-1. Fügen Sie das erste Codefragment in die Kopfzeile Ihrer Website ein.
+1. Fügen Sie das erste Codefragment in den Seitenkopf Ihrer Website ein.
 
    ![](assets/socialonsite-embedhead.png)
 
-1. Fügen Sie das zweite Codefragment auf jeder Seite ein, auf der Ihre Social-App auf der Seite angezeigt werden soll.
+1. Fügen Sie das zweite Codefragment in jede Seite ein, auf der Ihre Social-App auf der Seite angezeigt werden soll.
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Wenn Sie die Größe der Social-App auf bestimmte Dimensionen auf Ihrer Seite einstellen müssen, fügen Sie dem zweiten Codefragment die Optionen **outerHeight** und **outerWidth** hinzu. Sie können z. B. `options='{"outerHeight":400, "outerWidth":600}'` hinzufügen, wie in:
+1. Wenn Sie die Größe der Social-App auf bestimmte Dimensionen auf Ihrer Seite einstellen müssen, fügen Sie die **outerHeight** und **outerWidth** Optionen zum zweiten Codeausschnitt. Sie können beispielsweise `options='{"outerHeight":400, "outerWidth":600}'`, wie in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
-   Ihre Social-App Marketing fügt Ihrer Website jetzt Inhalte und Interaktivität hinzu und lädt Fans, Besucher und Bestandskunden ein, das Wort über Sie zu verbreiten. Gleichzeitig werden Ihre Profil-Daten zu Ihrer Datenbank hinzugefügt und Social-Einflussmetriken verfolgt.
+   Ihre Marketo Social-App fügt Ihrer Website jetzt Inhalte und Interaktivität hinzu und lädt Fans, Besucher und Bestandskunden dazu ein, das Wort über Sie zu verbreiten. Gleichzeitig werden die Profildaten zu Ihrer Datenbank hinzugefügt und Metriken zu sozialen Einflüssen verfolgt.
 
    >[!MORELIKETHIS]
    >
    >* [Schaltfläche &quot;Social-App anpassen&quot;](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Social Sharing-Voraussetzung festlegen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [Landingpages auf Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Social Share-Anforderung festlegen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Veröffentlichen von Landingpages in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 

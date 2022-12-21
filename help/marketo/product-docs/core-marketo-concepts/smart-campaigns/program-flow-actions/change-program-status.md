@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147007
-description: Ändern des Programm-Status - Marketo Docs - Produktdokumentation
+description: Ändern des Programmstatus - Marketo-Dokumente - Produktdokumentation
 title: Programmstatus ändern
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
@@ -13,28 +12,28 @@ ht-degree: 5%
 
 # Programmstatus ändern {#change-program-status}
 
-## Übersicht {#overview}
+## Überblick {#overview}
 
-Programm-Statusangaben helfen Ihnen dabei, zu verfolgen, wie Menschen durch ein Programm oder Ereignis vorankommen. Weitere Informationen finden Sie unter [Kanal anpassen, erstellen und verwalten](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Mit den Programmstatus können Sie verfolgen, wie Personen durch ein Programm oder eine Veranstaltung vorankommen. Weitere Informationen finden Sie unter [Anpassen, Erstellen und Verwalten von Kanälen](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
->Wenn Sie den Status des Programms in einem Interaktionsmodul ändern, werden diese automatisch dem ersten Stream hinzugefügt. Sie erhalten Inhalte.
+>Wenn Sie den Programmstatus in einem Interaktionsprogramm ändern, werden diese automatisch zum ersten Stream hinzugefügt. Sie erhalten Inhalte.
 
 ## Nutzung {#usage}
 
-1. Ziehen Sie in den Textfluss **Ändern des Programm-Status**.
+1. Ziehen Sie die **Ändern des Programmstatus** Flussschritt.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Wählen Sie **Neuer Status** aus, den Sie festlegen möchten. Die Person wird auch Mitglied des Programms, wenn sie nicht schon.
+1. Wählen Sie die **Neuer Status** Sie festlegen möchten. Die Person wird auch Teil des Programms, wenn sie nicht bereits Teil des Programms war.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
-Die Auswahl ist auf gültige Status für dieses Programm beschränkt.
+Die Auswahlmöglichkeiten sind auf gültige Status für dieses Programm beschränkt.
 
 >[!NOTE]
 >
->Eine Person kann nicht rückwärts zu einem früheren Programm wechseln, wie im Kanal-Editor in Admin definiert.
+>Eine Person kann nicht zu einem früheren Programmstatus zurückwechseln, der im Kanaleditor in Admin definiert ist.
 
-Staaten sind leistungsstarke Instrumente, um Menschen im Auge zu behalten und Berichte zu haben. Es ist deine Zeit wert.
+Status sind leistungsstarke Werkzeuge, um Personen im Auge zu behalten und Berichte zu erstellen. Das ist deine Zeit wert.

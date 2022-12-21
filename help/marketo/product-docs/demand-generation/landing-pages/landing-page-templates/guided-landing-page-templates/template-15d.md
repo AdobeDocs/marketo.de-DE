@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 15D {#template-15d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 15D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html) herunterladen
+Rechtsklick auf [Download-Vorlage 15D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)
 
 ![](assets/image2015-8-13-13-3a56-3a26.png)
 

@@ -6,7 +6,7 @@ exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 57%
+ht-degree: 58%
 
 ---
 
@@ -20,7 +20,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 |---|---|
 | Jahresumsatz | Jahresumsatz |
 | Ort | Ort |
-| Unternehmen | Untern.-name |
+| Unternehmen | Firmenname |
 | Konvertiertes Datum | SFDC – Konvertiertes Datum |
 | Land | Land |
 | Erstellungsdatum | SFDC-Erstellungsdatum |
@@ -41,11 +41,11 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | PLZ | Postleitzahl |
 | Bewertung | Bewertung |
 | Anrede | Anrede |
-| Bundesland/Kanton | Bundesland |
+| Bundesland/Kanton | Zustand |
 | Status | Status |
 | Straße | Adresse |
 | Titel | Jobtitel |
-| Website | Webseite |
+| Website | Website |
 
 ## Kontaktfelder {#contact-fields}
 
@@ -65,7 +65,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | MailingCity | Ort |
 | MailingCountry | Land |
 | MailingPostalCode | Postleitzahl |
-| MailingState | Bundesland |
+| MailingState | Zustand |
 | MailingStreet | Adresse |
 | Mobiltelefon | Mobiltelefonnummer |
 | Geschäftstelefon | Telefonnummer |
@@ -85,13 +85,13 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | Kontobeschreibung | Unternehmenshinweise |
 | Branche | Branche |
 | Gelöscht | SFDC wurde gelöscht |
-| Kontoname | Untern.-name |
+| Kontoname | Firmenname |
 | Mitarbeiter | Anzahl Mitarbeiter |
 | Konto-Telefon | Haupttelefonnummer |
 | SIC-Code | SIC-Code |
 | Kontoseite | Seite |
 | Kontotyp | SFDC-Typ |
-| Webseite | Webseite |
+| Website | Website |
 
 ## Salesforce-bezogene Systemfelder in Marketo (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
 

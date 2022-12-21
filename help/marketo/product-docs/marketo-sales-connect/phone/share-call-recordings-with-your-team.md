@@ -1,40 +1,39 @@
 ---
 unique-page-id: 14352437
-description: Teilen von Telefonaufzeichnungen mit Ihrem Team - Marketing Docs - Produktdokumentation
-title: Teilen von Aufrufaufzeichnungen mit Ihrem Team
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Teilen von Anrufaufzeichnungen mit Ihrem Team - Marketo-Dokumente - Produktdokumentation
+title: Aufrufaufzeichnungen für Ihr Team freigeben
+exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-
 # Aufrufaufzeichnungen für Ihr Team freigeben {#share-call-recordings-with-your-team}
 
-Mit Sales Phone können Sie Ihre Telefonaufzeichnungen aufzeichnen und speichern. Wenn Sie eine Telefonaufzeichnung mit einem anderen Team teilen möchten, können Sie den Link an zwei Stellen kopieren.
+Mit Sales Phone können Sie Ihre Aufrufaufzeichnungen aufzeichnen und speichern. Wenn Sie eine Aufrufaufzeichnung für ein anderes Team freigeben möchten, können Sie den Link an zwei Stellen kopieren.
 
-## Link zum Kopieren der Aufzeichnung aus den Benutzerdetails in der Webanwendung {#copy-recording-link-from-the-person-details-in-the-web-application}
+## Link zur Aufzeichnung aus den Personendetails in der Webanwendung kopieren {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Navigieren Sie zur Webanwendung [](https://toutapp.com/login).
+1. Navigieren Sie zum [Webanwendung](https://toutapp.com/login).
 
 1. Öffnen Sie die Personendetails.
 
-1. Suchen Sie die Call-Aktivität unter der Liste Aktivität.
+1. Suchen Sie die Aktivität Aufrufen unter der Aktivitätenliste.
 
-1. Klicken Sie mit der rechten Maustaste auf die Aufzeichnung und kopieren Sie die Link-URL.
+1. Klicken Sie mit der rechten Maustaste auf die Aufrufaufzeichnung und kopieren Sie die Link-URL.
 
-## Link zur Aufzeichnung aus der Salesforce-Aufgabe {#copy-recording-link-from-the-salesforce-task} kopieren
+## Link zur Aufzeichnung aus Salesforce-Aufgabe kopieren {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->Sie müssen Ihre Anrufe bei Salesforce anmelden, um diesen Link zu erhalten.
+>Sie müssen Ihre Aufrufe bei Salesforce anmelden, um diesen Link zu erhalten.
 
-1. Navigieren Sie zu der Aufgabe, die in Salesforce für den Aufruf erstellt wurde.
+1. Navigieren Sie zur Aufgabe, die in Salesforce für den Aufruf erstellt wurde.
 
-1. Kopieren Sie den Link, der im Feld &quot;Aufzeichnung von Verkaufsaufrufen&quot;aufgeführt ist.
+1. Kopieren Sie den Link, der im Feld Aufzeichnung der Verkaufsaufrufe aufgeführt ist.
 
 >[!CAUTION]
 >
->Kopieren Sie nicht die URL aus der Aufrufaufzeichnung. Dieser Link zur Aufzeichnung hat ein Ablaufdatum und führt nach etwa 10 Minuten zu einer Fehlerseite.
+>Kopieren Sie die URL nicht aus der Aufrufaufzeichnung. Dieser Link zur Aufzeichnung hat ein Ablaufdatum und führt nach etwa 10 Minuten zu einer Fehlerseite.

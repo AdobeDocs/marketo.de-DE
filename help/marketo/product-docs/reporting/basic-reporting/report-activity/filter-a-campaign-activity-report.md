@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2360184
-description: Filtern eines Berichts zur Aktivität einer Kampagne - Marketing-Dokumente - Produktdokumentation
-title: Filtern eines Berichts zur Aktivität einer Kampagne
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Kampagnenaktivitätsbericht filtern - Marketo-Dokumente - Produktdokumentation
+title: Kampagnenaktivitätsbericht filtern
+exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
+# Kampagnenaktivitätsbericht filtern {#filter-a-campaign-activity-report}
 
-# Filtern eines Berichts zur Aktivität einer Kampagne {#filter-a-campaign-activity-report}
+Fokussieren Sie Ihre [Bericht zur Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
-Konzentrieren Sie den [Bericht &quot;Aktivität der Kampagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)auf bestimmte [intelligente Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
-
-1. Gehen Sie zu **Marketing-Aktivitäten** (oder **Analytics**) und wählen Sie Ihren Bericht zur Kampagne-Aktivität.
+1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**) und wählen Sie den Bericht zur Kampagnenaktivität aus.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. Klicken Sie auf die Registerkarte **Setup** und klicken Sie mit der Dublette auf **Kampagnen**.
+1. Klicken Sie auf **Einrichtung** Registerkarte und Doppelklick **Kampagnen**.
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
-1. Wählen Sie die Ordner und spezifischen intelligenten Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicken Sie auf **Apply**.
+1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicken **Anwenden**.
 
    ![](assets/image2014-9-16-16-3a14-3a11.png)
 
    >[!TIP]
    >
-   >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Inhalte dieses Ordners zum Zeitpunkt der Ausführung des Berichts.
+   >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Elemente, die der Ordner zum Zeitpunkt der Ausführung des Berichts enthält.
 
-1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht**, um _Nur_ die ausgewählten intelligenten Kampagnen in Ihrem Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf **Bericht** Registerkarte anzuzeigen _just_ die in Ihrem Bericht ausgewählten Smart-Kampagnen.
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
 >[!MORELIKETHIS]
 >
->[Bericht zur Kampagne-E-Mail-Leistung](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+>[Bericht zur E-Mail-Leistung von Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)

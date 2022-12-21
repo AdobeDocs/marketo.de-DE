@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900585
-description: hinzufügen bearbeitbare Abschnitte zu E-Mail-Vorlagen v1.0 - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen bearbeitbare Abschnitte in E-Mail-Vorlagen v1.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0 - Marketo Docs - Produktdokumentation
+title: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0
+exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-# hinzufügen bearbeitbare Abschnitte in E-Mail-Vorlagen v1.0 {#add-editable-sections-to-email-templates-v1.0}
-
-Wenn Sie eine Vorlage im E-Mail-Vorlageneditor Version 1.0 erstellen, können Sie jeden Abschnitt bearbeitbar machen, indem Sie ein spezielles `<div>` einfügen.
+Wenn Sie eine Vorlage im E-Mail-Vorlageneditor v1.0 erstellen, können Sie jeden Abschnitt bearbeitbar machen, indem Sie eine spezielle `<div>` um sie herum.
 
 >[!NOTE]
 >
@@ -23,13 +22,13 @@ Wenn Sie eine Vorlage im E-Mail-Vorlageneditor Version 1.0 erstellen, können Si
 
 Regeln:
 
-1. Der HTML-Code muss immer gültig sein.
-1. Die Klasse von **mktEditable** muss einbezogen werden.
-1. Die ID muss in diesem HTML eindeutig sein.
+1. Die HTML muss immer gültig sein.
+1. Die Klasse von **mktEditable** muss enthalten sein.
+1. Die ID muss in dieser HTML eindeutig sein.
 1. Keine Leerzeichen in der ID.
 
 >[!CAUTION]
 >
->mktEditable-Anweisungen können nicht verschachtelt werden.
+>mktEditable -Anweisungen können nicht verschachtelt werden.
 
-Wenn Sie wissen möchten, wie dies im E-Mail-Vorlagen-Editor v2.0 zu tun ist, lesen Sie [E-Mail-Vorlagensyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) nach.
+Wenn Sie erfahren möchten, wie Sie dies im E-Mail-Vorlageneditor v2.0 durchführen, lesen Sie [Syntax der E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).

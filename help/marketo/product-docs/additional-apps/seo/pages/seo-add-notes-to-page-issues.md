@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949220
-description: SEO - Hinzufügen Hinweise zu Seitenproblemen - Marketo Docs - Produktdokumentation
-title: SEO - Hinzufügen Hinweise zu Seitenproblemen
+description: SEO - Hinweise zu Seitenproblemen hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: SEO - Hinweise zu Seitenproblemen hinzufügen
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# SEO - Hinzufügen Hinweise zu Seitenproblemen {#seo-add-notes-to-page-issues}
+# SEO - Hinweise zu Seitenproblemen hinzufügen {#seo-add-notes-to-page-issues}
 
-Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen oder Teammeldungen hinzufügen können?
+Wussten Sie, dass Sie Anmerkungen zu Seitenproblemen als persönliche Erinnerungen oder Teamnachrichten hinzufügen können?
 
-## Hinzufügen von Notizen im Abschnitt &quot;Seitenprobleme&quot; {#adding-notes-in-page-issues-section}
+## Hinzufügen von Anmerkungen im Abschnitt zu Seitenproblemen {#adding-notes-in-page-issues-section}
 
-1. Gehen Sie zum Abschnitt Seiten.
+1. Gehen Sie zum Abschnitt Seiten .
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
@@ -25,21 +24,21 @@ Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen 
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Bewegen Sie den Mauszeiger über das Problem, dem Sie eine Notiz hinzufügen möchten. Klicken Sie auf **Hinzufügen Sticky Note**.
+1. Bewegen Sie den Mauszeiger über das Problem, dem Sie einen Hinweis hinzufügen möchten. Klicken **Fixierbaren Hinweis hinzufügen**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
-1. Geben Sie eine Notiz in das gelbe Textfeld ein. Wenn Sie auf eine Stelle außerhalb des Textfelds klicken, wird die Notiz gespeichert.
+1. Geben Sie im gelben Textfeld einen Hinweis ein. Wenn Sie außerhalb des Textfelds klicken, wird die Notiz gespeichert.
 
 ![](assets/image2014-9-18-13-3a12-3a32.png)
 
 >[!TIP]
 >
->Sie können Ihre Notiz löschen, indem Sie auf das kleine **x** in der oberen linken Ecke klicken.
+>Sie können Ihre Notiz löschen, indem Sie auf die kleine **x** in der oberen linken Ecke.
 
-## hinzufügen Hinweise in Seitendetails Drilldown {#add-notes-in-page-detail-drill-down}
+## Notizen im Drilldown &quot;Seitendetails&quot;hinzufügen {#add-notes-in-page-detail-drill-down}
 
-1. Gehen Sie zum Abschnitt Seiten.
+1. Gehen Sie zum Abschnitt Seiten .
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -47,14 +46,14 @@ Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen 
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Bewegen Sie den Mauszeiger über das Seitenproblem, dem Sie eine Notiz hinzufügen möchten, und klicken Sie auf **Hinzufügen Hinweis**.
+1. Bewegen Sie den Mauszeiger über das Seitenproblem, zu dem Sie einen Hinweis hinzufügen möchten, und klicken Sie auf **Anmerkung hinzufügen**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Geben Sie Ihre Notiz ein. Klicken Sie auf **Speichern**.
+1. Geben Sie Ihre Notiz ein. Klicken **Speichern**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Ihre Notiz wurde hinzugefügt!
+   Ihr Hinweis wurde hinzugefügt!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)

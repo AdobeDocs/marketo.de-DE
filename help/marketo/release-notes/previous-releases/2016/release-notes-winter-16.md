@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version Winter 16 enthalten. Klicken Sie au
 
 ## [Ist anonymer Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie im Dokument [Häufig gestellte Fragen zum Munchkin-Tracking der nächsten Generation](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) . Diese Änderung betrifft nicht die Web-Personalisierung (RTP), die anonyme und bekannte Webbesucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
+Der Filter Ist anonym wurde für Smart-Listen entfernt. Siehe [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) -Dokument. Diese Änderung betrifft nicht die Web-Personalisierung (RTP), die anonyme und bekannte Webbesucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
 
 ## [Datenbank-Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -26,7 +26,7 @@ Die Lead-Datenbank verfügt über ein aktualisiertes Zusammenfassungs-Dashboard,
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Microsoft Edge wurde zur [Liste der von Marketo unterstützten Browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) hinzugefügt.
+Wir haben Microsoft Edge zum [Liste der Browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) unterstützt von Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -48,7 +48,7 @@ Um diese Funktion nutzen zu können, muss das E-Mail-Programm mindestens 12 Stun
 
 ## [Mobile-Marketing-Erweiterungen](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-Unterstützung:** PhoneGap-Unterstützung für Ihre Mobile App jetzt verfügbar. [Weitere Informationen](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap-Unterstützung:** Wir bieten jetzt PhoneGap-Unterstützung für Ihre Mobile App. [Weitere Informationen](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Unterstützung für Sandbox-Apps**:
 
@@ -76,7 +76,7 @@ Sie können jetzt eine n:n-Beziehung zwischen Leads/Konten und einem benutzerdef
 
 ## [Facebook-Lead-Anzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook-](https://www.facebook.com/business/a/lead-ads) Lead-Advertising ist eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in Facebook durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zum Ausdruck zu bringen, damit das Unternehmen sie nachverfolgen kann. Die Marketo-Integration mit Facebook Lead Ads erfasst automatisch die Informationen, die ein Lead im Lead-Anzeigenformular bereitstellt. Folgeaktionen und Benachrichtigungen können dann mithilfe des neuen Triggers Füllt Facebook-Lead-Anzeigen aus automatisiert werden.
+[Facebook-Lead-Anzeigen](https://www.facebook.com/business/a/lead-ads) sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in Facebook durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung zum Ausdruck zu bringen, damit das Unternehmen sie nachverfolgen kann. Die Marketo-Integration mit Facebook Lead Ads erfasst automatisch die Informationen, die ein Lead im Lead-Anzeigenformular bereitstellt. Folgeaktionen und Benachrichtigungen können dann mithilfe des neuen Triggers Füllt Facebook-Lead-Anzeigen aus automatisiert werden.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

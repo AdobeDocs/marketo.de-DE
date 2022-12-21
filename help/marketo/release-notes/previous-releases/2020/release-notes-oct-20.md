@@ -16,33 +16,33 @@ Die folgenden Funktionen sind in der Version vom 20. Oktober enthalten. Überpr�
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern gekennzeichnete Funktionen (![](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-**_Vierteljährliche_** VersionenDie folgenden Funktionen werden am 16.  **Oktober 2020** veröffentlicht.
+**_Vierteljährliche Versionen_** Die folgenden Funktionen werden veröffentlicht auf **16. Oktober 2020**.
 
 ## Zielkontoverwaltung {#target-account-management}
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Intelligente Kontoliste (Beta)**: Überlagern Sie Ihre ABM-Strategie mit der neuen Funktion für die intelligente Kontoliste. Identifizieren Sie dynamisch Konten mit gewünschten Konto- und Personalattributen, um kanalübergreifende Kampagnen auszuführen und rechtzeitige Warnungen an den Vertrieb zu senden, um Geschäfte schneller zu schließen. Hinweis: Dies ist nur für Target-Konto-Management-Kunden verfügbar, die mit dem [Benutzererlebnis der nächsten Generation](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) integriert wurden.
+* **Intelligente Kontoliste (Beta)**: Überlagern Sie Ihre ABM-Strategie mit der neuen Funktion für die intelligente Kontoliste. Identifizieren Sie dynamisch Konten mit gewünschten Konto- und Personalattributen, um kanalübergreifende Kampagnen auszuführen und rechtzeitige Warnungen an den Vertrieb zu senden, um Geschäfte schneller zu schließen. Hinweis: ist nur für Target-Konto-Management-Kunden verfügbar, die in der [Benutzererlebnis der nächsten Generation](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## E-Mail-Marketing {#email-marketing}
 
-* **Batch Email Boost  ![(star)](assets/yellow-star.png)**: Senden Sie mehr E-Mails mit einem höheren Durchsatz von bis zu 5 Millionen Batch-E-Mails pro Stunde. Dank der umfangreichen E-Mail-Zustellbarkeits-Optionen ist es nicht mehr erforderlich, zwischen E-Mail-Batches zu warten - d. h. alle E-Mails rechtzeitig und planmäßig zu versenden.
+* **Batch-E-Mail-Boost ![(Stern)](assets/yellow-star.png)**: Senden Sie mehr E-Mails mit einem höheren Durchsatz von bis zu 5 Millionen Batch-E-Mails pro Stunde. Dank der umfangreichen E-Mail-Zustellbarkeits-Optionen ist es nicht mehr erforderlich, zwischen E-Mail-Batches zu warten - d. h. alle E-Mails rechtzeitig und planmäßig zu versenden.
 
 ## Website-Marketing {#website-marketing}
 
-* **Formularcodeautomatisierung einbetten**: Erhalten Sie mehr Leads mit Marketo Engage-Formularen, die in Ihre gesicherten Landingpages eingebettet sind, die außerhalb von Marketo gehostet werden. Der Einbettungscode des Formulars wird automatisch aktualisiert, um den Domänennamen der Einstiegsseite einzuschließen. Außerdem entfällt die manuelle Arbeit für Webentwickler. Benutzerdefinierte Domäne im Code-Link verbessert die Erlebnisse für die Website-Navigation und die Formularnutzung.
+* **Automatisierung des Formularcodes einbetten**: Erhalten Sie mehr Leads mit Marketo Engage-Formularen, die in Ihre gesicherten Landingpages eingebettet sind, die außerhalb von Marketo gehostet werden. Der Einbettungscode des Formulars wird automatisch aktualisiert, um den Domänennamen der Einstiegsseite einzuschließen. Außerdem entfällt die manuelle Arbeit für Webentwickler. Benutzerdefinierte Domäne im Code-Link verbessert die Erlebnisse für die Website-Navigation und die Formularnutzung.
 
 ## Experience Cloud-Integration {#experience-cloud-integration}
 
-* **Kontinuierliche Zielgruppensynchronisierung von Adobe Experience Cloud zu Marketo Engage**: Targeting von Leads mit Marketo Engage basierend auf Erstanbieter-Intent-Daten aus Adobe Analytics, Adobe Audience Manager oder der Echtzeit-Kundendatenplattform von Adobe. Automatische Aktualisierung von statischen Marketo Engage-Listen über kontinuierliche Synchronisierung, Hinzufügen von Leads zu Interaktionen oder E-Mail-Programmen und Warnhinweis für Vertrieb, wenn Leads bereit sind.
+* **Kontinuierliche Zielgruppensynchronisierung von Adobe Experience Cloud zu Marketo Engage**: Targeting von Leads mit Marketo Engage basierend auf Erstanbieter-Intent-Daten aus Adobe Analytics, Adobe Audience Manager oder Adobe Real-Time CDP. Automatische Aktualisierung von statischen Marketo Engage-Listen über kontinuierliche Synchronisierung, Hinzufügen von Leads zu Interaktionen oder E-Mail-Programmen und Warnhinweis für Vertrieb, wenn Leads bereit sind.
 
 ## CRM-Integration {#crm-integration}
 
 * **Salesforce CRM Sync**: Identifizieren und beheben Sie Synchronisierungsfehler und -fehler mit zwei neuen Salesforce Sync and Errors Dashboards. Überwachen Sie neue Datensatzaktualisierungen, -löschungen, -fehler und den Abschluss des Synchronisierungsprozesses. Berichte können nach Datum, Aktionstyp oder Objekttyp gefiltert werden.
 
-* **Integration** mit Microsoft Dynamics 365: Automatisieren Sie die Registrierung von Leads und Kontakten in Microsoft Dynamics 365-Kampagnen. Mit neuen smarten Kampagnenflussaktionen können Sie mühelos Marketo Engage-Leads und Kontakte zu MS Dynamics-Kampagnen hinzufügen oder entfernen. Nahtloses Weiterleiten von Leads vom Marketing zum Vertrieb und schnelleres Schließen von Geschäften.
+* **Integration mit Microsoft Dynamics 365**: Automatisieren Sie die Registrierung von Leads und Kontakten in Microsoft Dynamics 365-Kampagnen. Mit neuen smarten Kampagnenflussaktionen können Sie mühelos Marketo Engage-Leads und Kontakte zu MS Dynamics-Kampagnen hinzufügen oder entfernen. Nahtloses Weiterleiten von Leads vom Marketing zum Vertrieb und schnelleres Schließen von Geschäften.
 
 ## Paid Media-Targeting {#paid-media-targeting}
 
@@ -50,7 +50,7 @@ Die folgenden Funktionen sind in der Version vom 20. Oktober enthalten. Überpr�
 
 ## Administration {#administration}
 
-* **Exportrollen und -berechtigungen**: Exportieren Sie Rollen und Berechtigungen in Tabellen, um die Teamfreigabe in Ihrem Unternehmen zu erleichtern. Führen Sie Rollen- und Berechtigungsprüfungen einfacher und schneller durch.
+* **Export-Rollen und -Berechtigungen**: Exportieren Sie Rollen und Berechtigungen in Tabellen, um die Teamfreigabe in Ihrem Unternehmen zu erleichtern. Führen Sie Rollen- und Berechtigungsprüfungen einfacher und schneller durch.
 
 * **Verbessertes Audit-Protokoll**: Mit neuen Audit-Protokolleinträgen erhalten Sie genauere Einblicke in Änderungen, die Ihr Marketing-Team an E-Mails und Landingpages vorgenommen hat. Erfassen Sie Änderungen, die an den einzelnen Modulen im Textkörper einer E-Mail vorgenommen wurden, und verfolgen Sie Bearbeitungen an Rich-Text-Elementen, Statusänderungen, Ergänzungen und Entfernen von Formularen und Bildern.
 
@@ -58,7 +58,7 @@ Die folgenden Funktionen sind in der Version vom 20. Oktober enthalten. Überpr�
 
 * **Neue Metadaten-Exportoptionen**: Exportieren Sie benutzerdefinierte Objektmetadaten für ausgewählte benutzerdefinierte Objekte in eine Tabelle, um sie einfach freizugeben. Darüber hinaus können die Metadaten aller oder aller Abonnementobjekte exportiert werden, z. B. Lead-, Unternehmens-, Standard- und benutzerdefinierte Aktivitäten, Tags und Kanäle. Daten können von Administratoren extrahiert und schnell für Analyse- und Designzwecke an Ingenieurteams weitergegeben werden.
 
-* **Opportunity Custom Field**: Erhalten Sie mehr Einblicke in Opportunity-Datensätze mit benutzerdefinierten Opportunities-Feldern, die in Marketo Engage angezeigt werden. Sehen Sie sich Opportunity-benutzerdefinierte Felddaten aus Salesforce CRM, Microsoft Dynamics 365 CRM, Sales-nativen Integrationen oder über andere API-Integrationen an. Dank der umfassenden Einsicht in Opportunities Details und Pipeline können Sie die Interaktion in Abstimmung mit dem Vertrieb koordinieren, Konversionen steigern und dazu beitragen, Geschäfte schneller zu schließen.
+* **Benutzerdefiniertes Opportunity-Feld**: Erhalten Sie mehr Einblicke in Opportunity-Datensätze mit benutzerdefinierten Opportunities-Feldern, die in Marketo Engage angezeigt werden. Sehen Sie sich Opportunity-benutzerdefinierte Felddaten aus Salesforce CRM, Microsoft Dynamics 365 CRM, Sales-nativen Integrationen oder über andere API-Integrationen an. Dank der umfassenden Einsicht in Opportunities Details und Pipeline können Sie die Interaktion in Abstimmung mit dem Vertrieb koordinieren, Konversionen steigern und dazu beitragen, Geschäfte schneller zu schließen.
 
 ## Veröffentlichung im gesamten Quartal {#releasing-throughout-the-quarter}
 
@@ -68,13 +68,13 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ![(Stern)](assets/yellow-star.png)
 
-* **API-Optimierung und neue Konfigurationsoptionen für** Governance: Verbessern Sie das Kundenerlebnis von Sales Insight durch verbesserte API-Optimierung und hinzugefügte Governance-Funktionen. Mit Konfigurationseinstellungen können Administratoren definieren, wie Kampagnen und Ereignisse in das Sales Insight-Dashboard geladen werden. Flexible Kalenderaktivitäten zeigen Optionen, die die API-Nutzung reduzieren und das Gesamterlebnis verbessern.
+* **API-Optimierung und neue Konfigurationsoptionen für Governance**: Verbessern Sie das Kundenerlebnis von Sales Insight durch verbesserte API-Optimierung und hinzugefügte Governance-Funktionen. Mit Konfigurationseinstellungen können Administratoren definieren, wie Kampagnen und Ereignisse in das Sales Insight-Dashboard geladen werden. Flexible Kalenderaktivitäten zeigen Optionen, die die API-Nutzung reduzieren und das Gesamterlebnis verbessern.
 
 ## Mitteilungen und veraltete Elemente {#announcements-deprecations}
 
 * **Neuer Marketo Engage-Look**: Neue Versionen von Zeilen-, Balken-, Spalten- und Tortendiagrammen bieten aktualisierte Visualisierungen im gesamten Marketo Engage, einschließlich Marketing-Aktivitäten und allen Berichterstellungsfunktionen sowie Datenvisualisierung, die in den Marketingaktivitäten angezeigt wird. Diese Aktualisierung ist eine Reaktion auf den Flash der Adobe, der am 31. Dezember 2020 ausläuft.
 
-* **Aktualisierungen der Benutzerrollen und -berechtigungen**: Die Berechtigung für den erweiterten Listenimport wird in der kommenden Version nicht mehr unterstützt, um die Rollen- und Berechtigungsverwaltung zu vereinfachen. Die vorhandenen Listenimportberechtigungen in Marketing-Aktivitäten und Lead-Datenbank ermöglichen die erforderlichen Listenimportoptionen in ihren jeweiligen App-Bereichen.
+* **Aktualisierungen von Benutzerrollen und -berechtigungen**: Die Berechtigung für den erweiterten Listenimport wird in der kommenden Version nicht mehr unterstützt, um die Rollen- und Berechtigungsverwaltung zu vereinfachen. Die vorhandenen Listenimportberechtigungen in Marketing-Aktivitäten und Lead-Datenbank ermöglichen die erforderlichen Listenimportoptionen in ihren jeweiligen App-Bereichen.
 
 * **Feldverwaltung**: Eine Beschränkung auf synchrone Änderungen am benutzerdefinierten Feldtyp in Marketo Engage wurde eingeführt, um unsere Infrastruktursicherheit zu erhöhen. Wenn Sie Änderungen an mehreren Feldtypen vornehmen, müssen die ersten Feldänderungen abgeschlossen sein, bevor Sie zum nächsten Feld wechseln. Dieser neue Prozess stellt eine stabilere Umgebung sicher und minimiert das Risiko von Fehlern bei Änderungstypen.
 
@@ -82,4 +82,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Webinar zur Produktversion {#product-release-webinar}
 
-Sehen Sie sich die Aufzeichnung unseres Webinars zur Produktversion [hier](https://engage.marketo.com/Oct_20_Release_OnDemand.html) an.
+Sehen Sie sich die Aufzeichnung unseres Webinars zur Produktversion an. [here](https://engage.marketo.com/Oct_20_Release_OnDemand.html).

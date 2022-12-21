@@ -54,7 +54,7 @@ Marketo Sales Insight ist ein fantastisches Tool, mit dem Sie Ihrem Vertriebstea
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. Sie können die Protokolldatei herunterladen. Klicken **Schließen**.
+1. Sie können die Protokolldatei herunterladen. Klicken Sie auf **Schließen**.
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 

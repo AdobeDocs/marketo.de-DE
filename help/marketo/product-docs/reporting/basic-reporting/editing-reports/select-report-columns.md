@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359994
-description: Berichtspalten - Marketing-Dokumente - Produktdokumentation auswählen
+description: Berichtspalten auswählen - Marketo Dokumente - Produktdokumentation
 title: Berichtspalten auswählen
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 11357993-7b29-41cb-a376-06de387d1e92
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
+# Berichtspalten auswählen {#select-report-columns}
 
-# Berichtspalten {#select-report-columns} auswählen
+Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und welche nicht.
 
-Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und nicht enthalten sind.
-
-1. Gehen Sie zum Bereich **Analytics** (oder **Marketing-Aktivitäten**).
+1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +22,7 @@ Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und nicht
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht**, klicken Sie dann auf eine Spaltenüberschrift, wählen Sie **Spalten** und wählen Sie dann die einzuschließenden Spalten aus.
+1. Klicken Sie auf **Bericht** auf und klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **Spalten** und wählen Sie dann die einzuschließenden Spalten aus.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

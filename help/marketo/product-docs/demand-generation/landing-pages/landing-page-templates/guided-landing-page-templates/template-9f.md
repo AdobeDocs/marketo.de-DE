@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 9F {#template-9f}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html) herunterladen
+Rechtsklick auf [Download-Vorlage 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 

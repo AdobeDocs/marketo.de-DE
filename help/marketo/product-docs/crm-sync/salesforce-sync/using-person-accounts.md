@@ -32,15 +32,15 @@ Ein Personenkonto wird als Unternehmen und als Person mit Marketo synchronisiert
 
 ## Wie kann ich Geschäftskonten und Personenkonten unterscheiden? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Verwenden Sie den Filter **Is Person Account** in Ihrer Smart-Liste, um Personenkonten von standardmäßigen Geschäftskonten zu trennen.
+Verwenden Sie die **Ist Personenkonto** in Ihrer intelligenten Liste zu filtern, um Personenkonten von standardmäßigen Geschäftskonten zu trennen.
 
 ## Wo werden die Informationen zu meinen Personenkonten in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktivitäten im Zusammenhang mit Personenkonten werden im Bereich **Konto** angezeigt.
+Aktivitäten im Zusammenhang mit Personenkonten werden im **Konto** Bereich.
 
 >[!NOTE]
 >
->Die Optionen **Zu Marketo Campaign hinzufügen** und **E-Mail senden** von Marketo Sales Insight stehen derzeit nicht für Personenkonten zur Verfügung.
+>Marketo Sales Insight **Zu Marketo Campaign hinzufügen** und **E-Mail senden** -Optionen sind derzeit nicht für Personenkonten verfügbar.
 
 ## Wie ordne ich einem Personenkonto Chancen zu? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo hängt von der Rolle des Opportunity-Kontakts ab, um zu bestimmen, welch
 
 ## Welches E-Mail-Feld sollte ich für Personenkonten verwenden? {#which-email-field-should-i-use-for-person-accounts}
 
-Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie das Feld **E-Mail-Adresse** in Ihren Formularen (nicht das Feld **Personen-E-Mail-Adresse**), um sicherzustellen, dass die Deduplizierung von Marketo und andere E-Mail-Verarbeitungen ordnungsgemäß funktionieren.
+Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie die **Email-Adresse** in Ihren Formularen (nicht die **Personen-E-Mail-Adresse**), um sicherzustellen, dass die Deduplizierung und andere E-Mail-Verarbeitungsvorgänge von Marketo ordnungsgemäß funktionieren.

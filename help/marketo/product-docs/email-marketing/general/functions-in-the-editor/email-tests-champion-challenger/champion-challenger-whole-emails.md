@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger - Gesamte E-Mails - Marketing Docs - Produktdokumentation
-title: Champion/Challenger - ganze E-Mails
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Champion/Challenger - Gesamte E-Mails - Marketo Docs - Produktdokumentation
+title: Champion/Challenger - Gesamte E-Mails
+exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
+# Champion/Challenger: Gesamte E-Mails {#champion-challenger-whole-emails}
 
-# Champion/Challenger: Ganze E-Mails {#champion-challenger-whole-emails}
-
-Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie die leistungsstärkste Version.
+Testen Sie ganze E-Mails gegeneinander. Wenn der Test vorüber ist, senden Sie die beste Leistung.
 
 >[!PREREQUISITES]
 >
->[hinzufügen eines E-Mail-Champions/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Testeditor in der Dropdown-Liste **Testtyp** die Option **Ganze E-Mails**.
+1. Wählen Sie im E-Mail-Test-Editor **Gesamte E-Mails** im **Testtyp** Dropdown-Liste.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,15 +26,15 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
    >
    >Denken Sie daran: Die ursprüngliche E-Mail ist der Meister. Die Herausforderer konkurrieren dagegen.
 
-1. Suchen Sie die E-Mail(s) **Challengers** und klicken Sie dann auf **Klonen**.
+1. Suchen und Auswählen **Herausforderungen** E-Mail(s) und klicken Sie auf **Klonen**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
    >[!TIP]
    >
-   >Beim Klonen wird eine Kopie der herausfordernden E-Mail unter dem E-Mail-Test erstellt.
+   >Beim Klonen wird eine Kopie der E-Mail des Herausforderers im E-Mail-Test erstellt.
 
-1. Ziehen Sie den Schieberegler, um die prozentuale Aufteilung der Personen festzulegen, die die E-Mails &quot;Herausforderer&quot;und &quot;Meister&quot;erhalten.
+1. Ziehen Sie den Schieberegler, um die Prozentaufteilung der Personen festzulegen, die E-Mails vom Herausforderer zum Meister erhalten.
 
    ![](assets/image2014-9-12-16-3a41-3a44.png)
 
@@ -43,13 +42,13 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
    >
    >**Beispiel**
    >
-   >In der oben gezeigten Distribution erhalten 15 % der in der Smart-Liste angegebenen Audience eine der herausfordernden E-Mails und 85 % erhalten die Champion-E-Mail. Mehrere herausfordernde E-Mails teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
+   >In der oben gezeigten Verteilung erhalten 15 % der in der intelligenten Liste angegebenen Zielgruppe eine der E-Mails, die den Herausforderer auslöst, und 85 % erhalten die Champion-E-Mail. Mehrere herausfordernde E-Mails teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   Um eine statistische Konfidenz zu erhalten, stellen Sie sicher, dass der Prozentsatz, den Sie Herausforderern zuweisen, genügend Personen enthält, die Ihren Test gültig machen. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
+   Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der Prozentsatz, den Sie Herausforderern zuweisen, genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
 
-   [Mehr Informationen zum statistischen Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
+   [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken **Nächste**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
@@ -57,4 +56,4 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test beendet ist, senden Sie di
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Champion Criteria definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Champion-Kriterien definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

@@ -1,51 +1,50 @@
 ---
 unique-page-id: 11378814
-description: Account-Listen - Marketing Docs - Produktdokumentation
-title: Listen von Konten
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Kontolisten - Marketo-Dokumente - Produktdokumentation
+title: Kontolisten
+exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Kontolisten {#account-lists}
 
-# Konto-Listen {#account-lists}
+Eine Kontoliste ist eine Sammlung benannter Konten, die gemeinsam als Ziel ausgewählt werden können. Mit Kontolisten können Sie spezifische Konten nach Branche, Standort oder Größe des Unternehmens auswählen.
 
-Bei einer Kontosammlung handelt es sich um eine Liste benannter Konten, auf die ein Targeting durchgeführt werden kann. Mit den Kontoeinstellungen können Sie benannte Listen nach Branche, Standort oder Größe der Firma Zielgruppen vornehmen.
-
-Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinstellungen erstellen, die aus öffentlichen CRM-Konto-Ansichten generiert wurden. Eine CRM-Konto-Ansicht ist ein Regelsatz, der beim Anzeigen von Konten als Filter dient. Beispielsweise können Sie damit Konten suchen, bei denen der Umsatz unter &quot;Branche&quot;und unter *und* unter $100M liegt.
+Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen, die aus öffentlichen CRM-Kontoansichten generiert werden. Eine CRM-Kontoansicht ist ein Regelsatz, der beim Anzeigen von Konten als Filter dient. Sie können ihn beispielsweise verwenden, um Konten zu finden, in denen die Branche Gesundheitswesen ist *und* Der Umsatz beträgt über 100 Mio. US-Dollar.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->In der Kontoverwaltung von Marketing Zielgruppe erstellte Listen sind beim Erstellen intelligenter Listen und Web-Kampagnen in [Web-Personalisierung](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) automatisch verfügbar.
+>In der Marketo Target-Kontoverwaltung erstellte Kontolisten sind beim Erstellen von Smart-Listen und Webkampagnen in automatisch verfügbar [Web-Personalisierung](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
-## Neue Konto-Liste {#create-a-new-account-list} erstellen
+## Neue Kontoliste erstellen {#create-a-new-account-list}
 
-1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neue Liste für das Konto erstellen**.
+1. Klicken Sie auf **Neu** und wählen Sie **Neue Kontoliste erstellen**.
 
    ![](assets/1a.png)
 
-1. Geben Sie der Liste einen Namen und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre Liste und klicken Sie auf **Erstellen**.
 
    ![](assets/three-0.png)
 
-1. Nachdem Sie Ihre Konto-Liste erstellt haben, beginnen Sie mit dem [Hinzufügen benannter Konten zu ihr](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
+1. Nachdem Sie Ihre Kontoliste erstellt haben, beginnen Sie mit [Hinzufügen von benannten Konten](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
-   >Marketo zeigt nur Einblicke in Kontokonten mit 2.000 oder weniger benannten Listen an.
+   >Marketo zeigt nur Einblicke für Kontolisten mit 2.000 oder weniger benannten Konten an.
 
-## Neue Liste für dynamische Konten {#create-a-new-dynamic-account-list} erstellen
+## Erstellen einer neuen dynamischen Kontoliste {#create-a-new-dynamic-account-list}
 
-1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neue dynamische Liste erstellen**.
+1. Klicken Sie auf **Neu** und wählen Sie **Neue dynamische Liste erstellen**.
 
    ![](assets/1.png)
 
-1. Wählen Sie im Dialogfeld eine **CRM-Ansicht** aus der Dropdownliste oder geben Sie den Namen ein, nach dem gesucht werden soll.
+1. Wählen Sie im Dialogfeld eine **CRM-Kontoansicht** aus der Dropdown-Liste oder geben Sie den Namen ein, nach dem gesucht werden soll.
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -55,15 +54,15 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
    >[!NOTE]
    >
-   >Stellen Sie in Salesforce sicher, dass Sie dem Synchronisierungsbenutzer die Liste Ansicht Object-Berechtigungen zuweisen.
+   >Stellen Sie in Salesforce sicher, dass Sie dem Synchronisierungsbenutzer die Berechtigung &quot;Listenansichtsobjekt&quot;gewähren.
 
-## Umbenennen einer Konto-Liste {#rename-an-account-list}
+## Umbenennen einer Kontoliste {#rename-an-account-list}
 
 >[!NOTE]
 >
->Diese Schritte gelten nur für Listen von Konten. _Dynamische_ Listen verwenden den Namen ihrer zugehörigen CRM-Konto-Ansichten.
+>Diese Schritte gelten nur für Kontolisten. _Dynamik_ Kontolisten verwenden den Namen ihrer zugehörigen CRM-Kontoansichten.
 
-1. Wählen Sie das Konto, das Sie umbenennen möchten, klicken Sie auf die Dropdownliste **Aktionen zur Liste von Konten** und wählen Sie **Liste des Kontos umbenennen**.
+1. Wählen Sie das Konto aus, das Sie umbenennen möchten, und klicken Sie auf das **Aktionen auf Kontolisten** und wählen Sie **Kontoliste umbenennen**.
 
    ![](assets/three.png)
 
@@ -73,24 +72,24 @@ Zusätzlich zu den Listen für das Konto können Sie auch dynamische Kontoeinste
 
    >[!NOTE]
    >
-   >Die CRM-Konto-Ansicht wird alle 8 Stunden mit der Liste des dynamischen Kontos synchronisiert. Wenn sie noch nicht synchronisiert sind, synchronisiert Marketo sie im nächsten Zyklus.
+   >Die Ansicht des CRM-Kontos wird alle 8 Stunden mit der Liste des dynamischen Kontos synchronisiert. Wenn sie noch nicht synchronisiert sind, synchronisiert Marketo sie während des nächsten Zyklus.
 
-## Löschen einer Konto-Liste {#delete-an-account-list}
+## Eine Kontoliste löschen {#delete-an-account-list}
 
 >[!NOTE]
 >
->Diese Schritte sind für Konto- und dynamische Listen gleich.
+>Diese Schritte sind für Kontolisten und dynamische Kontolisten identisch.
 
-1. Wählen Sie das zu löschende Konto aus, klicken Sie auf die Dropdownliste **Aktionen zur Liste des Kontos** und wählen Sie **Liste des Kontos löschen**.
+1. Wählen Sie das Konto aus, das Sie löschen möchten, und klicken Sie auf das **Aktionen auf Kontolisten** und wählen Sie **Kontoliste löschen**.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken **Löschen**.
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen eines vorhandenen benannten Kontos zu einer Konto-Liste](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Kontoeinblicke zur Liste](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
+>* [Vorhandenes benanntes Konto zu einer Kontoliste hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Einblicke in die Kontoliste](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
 

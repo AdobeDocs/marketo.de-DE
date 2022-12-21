@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359616
-description: Aktivieren Sie das Ausfüllen sozialer Formulare in einem Formular - Marketing-Dokumente - Produktdokumentation
-title: Ausfüllen eines Formulars in sozialen Netzwerken aktivieren
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Aktivieren der Social-Formularausfüllung in einem Formular - Marketo-Dokumente - Produktdokumentation
+title: Aktivieren der Social-Formularausfüllung in einem Formular
+exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Aktivieren der Social-Formularausfüllung in einem Formular {#enable-social-form-fill-on-a-form}
 
-Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufüllen. Sie erhalten automatisch zusätzliche Daten und erhalten eine schnellere Erlebnis.
+Ermöglichen es Besuchern, das Formular über ihr soziales Netzwerk auszufüllen. Sie erhalten automatisch zusätzliche Daten und erhalten ein schnelleres Erlebnis.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Klicken Sie unter **Formular** **Einstellungen** auf **Einstellungen**.
+1. under **Formular** **Einstellungen** Klick auf **Einstellungen**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -37,13 +36,13 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 
    >[!TIP]
    >
-   >Sehen Sie sich an, was [data Marketo erfasst, wenn die Benutzer die Schaltflächen für soziale Netzwerke verwenden.](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
+   >Sehen Sie sich an, was [Daten, die Marketo erfasst](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) wenn Benutzer die Social-Schaltflächen verwenden.
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
@@ -51,4 +50,4 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 
    ![](assets/image2016-4-28-16-3a45-3a58.png)
 
-Ziemlich großartig, oder?
+Ziemlich großartig, was?

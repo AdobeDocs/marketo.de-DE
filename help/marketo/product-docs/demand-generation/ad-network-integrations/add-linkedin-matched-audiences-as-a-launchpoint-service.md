@@ -1,49 +1,48 @@
 ---
 unique-page-id: 7504163
-description: hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst - Marketing Docs - Produktdokumentation
-title: hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst - Marketo Docs - Produktdokumentation
+title: Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst
+exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# hinzufügen mit LinkedIn übereinstimmende Audiencen als LaunchPoint-Dienst {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-Verbinden Sie Ihr Marketing-Konto mit LinkedIn-übereinstimmenden Audiencen, um eine statische Marketing-Liste oder intelligente Liste als LinkedIn-Audience-Segment zu verwenden.
+Verbinden Sie Ihr Marketo-Konto mit LinkedIn Matched Audiences , um eine statische Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment zu verwenden.
 
-1. Gehen Sie zum Abschnitt **Admin**.
+1. Navigieren Sie zu **Admin** Abschnitt.
 
    ![](assets/admin.png)
 
-1. Wählen Sie **Launchpoint**.
+1. Auswählen **Startpunkt**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Wählen Sie **Neu** und **Neuer Dienst**.
+1. Auswählen **Neu** und **Neuer Dienst**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **Anzeigenamen** ein und wählen Sie **LinkedIn Matched Audiencen**. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigename** und wählen Sie **linkedIn Matched Audiences**. Klicken Sie auf **Erstellen**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Um ein LinkedIn-Konto zu verknüpfen, klicken Sie auf **Autorisieren**.
+1. Um ein LinkedIn-Konto zu verbinden, klicken Sie auf **Autorisieren**.
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >Damit Marketing Audiencen über mehrere LinkedIn-Anzeigenkonten senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Anzeigenkonten in ihrem Kampagnen-Manager haben.
+   >Damit Marketo Zielgruppen über mehrere LinkedIn-Anzeigenkonten senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *all* dieser Anzeigenkonten in ihrem Campaign Manager.
 
-1. LinkedIn wird in einer neuen Registerkarte geöffnet. Melden Sie sich von hier bei Ihrem LinkedIn-Konto an.
+1. linkedIn wird in einer neuen Registerkarte geöffnet. Melden Sie sich von hier aus bei Ihrem LinkedIn-Konto an.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
@@ -55,10 +54,10 @@ Verbinden Sie Ihr Marketing-Konto mit LinkedIn-übereinstimmenden Audiencen, um 
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Fantastisch! LinkedIn-übereinstimmende Audiencen werden jetzt auf der Registerkarte &quot;Installierte Dienste&quot;als LaunchPoint-Dienst aufgeführt.
+   Fantastisch LinkedIn Matched Audiences werden jetzt auf der Registerkarte Installierte Dienste als LaunchPoint-Dienst aufgelistet.
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[Verwenden einer Marketing-Liste oder intelligenten Liste als LinkedIn-Audience-Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2951703
-description: Kampagne anfordern - Marketo Docs - Produktdokumentation
+description: Anforderungskampagne - Marketo-Dokumente - Produktdokumentation
 title: Kampagne anfordern
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
@@ -13,17 +12,17 @@ ht-degree: 3%
 
 # Kampagne anfordern {#request-campaign}
 
-Mithilfe der Kampagne **Anforderung** für einen einzelnen Fluss können Sie Personen in eine bestimmte Kampagne setzen.
+Sie können Personen mithilfe der **Anforderungskampagne** Schritt mit einem Fluss.
 
 >[!NOTE]
 >
->Die Kampagne, in der Sie die Person platzieren, muss aktiv sein und die **[Kampagne muss den Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** haben.
+>Die Kampagne, in der Sie die Person platzieren, muss aktiv sein und die Variable **[Kampagne wird angefordert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** Trigger.
 
-1. Suchen und wählen Sie in der **Datenbank** die gewünschte(n) Person(en) aus.
+1. Im **Datenbank**, suchen und wählen Sie die gewünschte(n) Person(en) aus.
 
    ![](assets/one-5.png)
 
-1. Klicken Sie auf **Benutzeraktionen**, halten Sie den Mauszeiger über **Special** und wählen Sie **Kampagne anfordern**.
+1. Klicken **Personenaktionen**, bewegen Sie den Mauszeiger über **Sonderaktion** und wählen Sie **Anforderungskampagne**.
 
    ![](assets/two-5.png)
 
@@ -31,7 +30,7 @@ Mithilfe der Kampagne **Anforderung** für einen einzelnen Fluss können Sie Per
 
    ![](assets/three-4.png)
 
-1. Oben rechts auf dem Bildschirm sehen Sie, wann es fertig ist. Klicken Sie auf **Ansicht Ergebnisse**.
+1. Oben rechts auf dem Bildschirm sehen Sie, wann es fertig ist. Klicken **Ergebnisse anzeigen**.
 
    ![](assets/four-4.png)
 
@@ -43,4 +42,4 @@ Mithilfe der Kampagne **Anforderung** für einen einzelnen Fluss können Sie Per
 
 >[!TIP]
 >
->Verwenden Sie den Trigger oder Filter **Kampagne ist angefordert**, um Personen zu finden, die von diesem Flussschritt betroffen sind.
+>Verwenden Sie die **Kampagne wird angefordert** Trigger oder Filter, um Personen zu finden, die von diesem Flussschritt betroffen sind.

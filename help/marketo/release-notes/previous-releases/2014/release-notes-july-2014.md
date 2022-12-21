@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom Juli 2014 enthalten. Informatio
 
 ## Marketingkalender {#marketing-calendar}
 
-Zeigen Sie alle Ihre Termine, E-Mails und dergleichen programmübergreifend an. [Dieses neue ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) Produkt steht Kunden mit 10 oder weniger Marketo Lead Management- oder Dialoganwendern kostenlos zur Verfügung.
+Zeigen Sie alle Ihre Termine, E-Mails und dergleichen programmübergreifend an. [Dieses neue Produkt](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) wird Kunden mit 10 oder weniger Marketo Lead Management- oder Dialog-Benutzern kostenlos zur Verfügung stehen.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -30,7 +30,7 @@ Die Marketo-Lead-Verwaltung wird mit einem neuen Erscheinungsbild aktualisiert, 
 
 ## Datumsoperatoren {#date-operators}
 
-[Erweiterte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) Filter für &quot;in der Vergangenheit&quot;, &quot;in der Zukunft&quot;und &quot;in der Zukunft danach&quot;. Suchen Sie beispielsweise Leads mit einem Geburtsdatum in den nächsten 3 Monaten oder einem Vertrag, der nach 6 Monaten abläuft.
+[Erweiterte Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) für &quot;in der Vergangenheit davor&quot;, &quot;in der Zukunft&quot;und &quot;in der Zukunft danach&quot;. Suchen Sie beispielsweise Leads mit einem Geburtsdatum in den nächsten 3 Monaten oder einem Vertrag, der nach 6 Monaten abläuft.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -46,7 +46,7 @@ Zusätzlich zum Marketingkalender, mit dem Sie Ihre Ereignisse und Standardprogr
 
 ## Auflisten von Vorgängen in der ReST-API {#list-operations-in-the-rest-api}
 
-Wir haben die folgenden Aufrufe zu Listenoperationen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie unter [developers.marketo.com](https://developers.marketo.com/documentation/rest/) .
+Wir haben die folgenden Aufrufe zu Listenoperationen in ReST hinzugefügt. Siehe [developers.marketo.com](https://developers.marketo.com/documentation/rest/) für die vollständige Dokumentation.
 
 * Liste nach ID abrufen
 * Abrufen mehrerer Listen
@@ -55,7 +55,7 @@ Wir haben die folgenden Aufrufe zu Listenoperationen in ReST hinzugefügt. Die v
 
 ## Schneller Listenimport {#fast-list-import}
 
-Über **50x schneller** zoomen Ihre Dateien in Marketo! Die alten Importoptionen &quot;Normal&quot;und &quot;Optimiert für neue Leads&quot;wurden durch &quot;Standard (Schneller Import)&quot;ersetzt.
+Over **50x schneller**, werden Ihre Dateien in Marketo einzoomen! Die alten Importoptionen &quot;Normal&quot;und &quot;Optimiert für neue Leads&quot;wurden durch &quot;Standard (Schneller Import)&quot;ersetzt.
 
 Die Option &quot;Neue Leads und Aktualisierungen überspringen&quot;bleibt unverändert.
 
@@ -67,9 +67,9 @@ Der Rollout wird Mitte Juli beginnen und für die nächsten Monate fortgesetzt.
 * Kompatibilität mit anderen JavaScript-Elementen auf Ihrer Site
 * Vollständig getestet auf vielen Standorten im vergangenen Jahr!
 
-## RTP: Kampagnenvorlagen für die Echtzeit-Personalisierung {#rtp-real-time-personalization-campaign-templates}
+## RTP: Vorlagen für Echtzeit-Personalisierungskampagnen {#rtp-real-time-personalization-campaign-templates}
 
-Die Seite &quot;RTP Set Campaign&quot;enthält jetzt [vorgefertigte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Wählen Sie aus einer Vielzahl von Stilen, darunter Webinare, Fallstudien und Bücher.
+Die Seite &quot;RTP Set Campaign&quot; [enthält vorgefertigte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Wählen Sie aus einer Vielzahl von Stilen, darunter Webinare, Fallstudien und Bücher.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -77,10 +77,10 @@ Die Seite &quot;RTP Set Campaign&quot;enthält jetzt [vorgefertigte Vorlagen](/h
 
 ## RTP: JavaScript-API-Verbesserungen {#rtp-javascript-api-enhancements}
 
-Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisations-, Branchen-, Standort- und Segmentcode-Übereinstimmung zu erhalten. Wenn Sie den Mauszeiger auf einen Segmentnamen auf der Seite &quot;Segmente&quot;bewegen, wird eine QuickInfo angezeigt, die den Segmentcode anzeigt. Die vollständige Dokumentation finden Sie auf der [Entwickler-Site](https://developers.marketo.com/documentation/websites/rtp-js-api/) .
+Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisations-, Branchen-, Standort- und Segmentcode-Übereinstimmung zu erhalten. Wenn Sie den Mauszeiger auf einen Segmentnamen auf der Seite &quot;Segmente&quot;bewegen, wird eine QuickInfo angezeigt, die den Segmentcode anzeigt. Siehe [Entwickler-Site](https://developers.marketo.com/documentation/websites/rtp-js-api/) für die vollständige Dokumentation.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
 ## RTP: HTML5-Unterstützung im Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
 
-Der WYSIWYG-Inhaltseditor auf der Seite &quot;Kampagnen festlegen&quot;verfügt jetzt über vollständige HTML5-Kompatibilität. Klicken Sie auf das &quot;HTML&quot;-Symbol im Editor, um HTML5-Code einzufügen.
+Der WYSIWYG-Inhaltseditor auf der Seite &quot;Kampagnen festlegen&quot;ist jetzt vollständig mit HTML5 kompatibel. Klicken Sie im Editor auf das Symbol &quot;HTML&quot;, um HTML5-Code einzufügen.

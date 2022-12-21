@@ -1,31 +1,30 @@
 ---
 unique-page-id: 10099411
-description: Email Insights Analytics-Übersicht - Marketing-Dokumente - Produktdokumentation
-title: Übersicht über die Analyse von E-Mail Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Übersicht über Email Insights Analytics - Marketo-Dokumente - Produktdokumentation
+title: Übersicht über die Analyse von E-Mail-Insights
+exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
+# Übersicht über die Analyse von E-Mail-Insights {#email-insights-analytics-overview}
 
-# Email Insights Analytics-Übersicht {#email-insights-analytics-overview}
-
-Suchen Sie in Analytics nach Aggregat-Daten für E-Mail-Versand und Interaktionen. Nutzen Sie das Diagramm auf der linken Seite, um die Daten zu erkunden, die Einblicke auf der rechten Seite für ein besser geführtes Erlebnis.
+Erkunden Sie in Analytics die aggregierten Daten für E-Mail-Versand und Interaktion. Verwenden Sie das Diagramm auf der linken Seite, um Daten zu untersuchen, die Einblicke auf der rechten Seite, um ein geführteres Erlebnis zu erhalten.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Die ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) Filterung hilft Ihnen, nach bestimmten Metriken zu suchen.
+[Filter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) steht Ihnen zur Verfügung, mit deren Hilfe Sie einen Drilldown für bestimmte Metriken durchführen können.
 
 ![](assets/filter-field.png)
 
-Die KPI-Kacheln (Key Points of Interest) geben Ihnen einen schnellen Überblick über die bevorzugten Metriken.
+Die Kacheln zu wichtigen Zielpunkten (KPI) bieten einen schnellen Überblick über die beliebtesten Metriken.
 
 ![](assets/kpi.png)
 
-Bewegen Sie den Mauszeiger über die KPI-Kacheln, um Details anzuzeigen...
+Bewegen Sie den Mauszeiger über die KPI-Kacheln, um Details anzuzeigen..
 
 ![](assets/kpi-hover.png)
 
@@ -35,32 +34,32 @@ Bewegen Sie den Mauszeiger über die KPI-Kacheln, um Details anzuzeigen...
 
 >[!TIP]
 >
->Diese Farben bedeuten etwas! Grün bedeutet eine gute Veränderung, Rot bedeutet eine schlechte Veränderung, Grau bedeutet, dass sich nichts geändert hat. Dies basiert auf dem Vergleichszeitraum, den Sie beim Filtern gewählt haben.
+>Diese Farben bedeuten etwas! Grün bedeutet eine gute Veränderung, Rot bedeutet eine schlechte Veränderung, Grau bedeutet, dass sich nichts geändert hat. Dies basiert auf dem Vergleichszeitraum, den Sie in der Filterung ausgewählt haben.
 
-Das Diagramm zeigt Ihre gefilterten Kriterien an. Um einen Filter auszublenden, klicken Sie einfach auf seine Farbleiste...
+Das Diagramm zeigt Ihre gefilterten Kriterien an. Um einen Filter auszublenden, klicken Sie einfach auf die Farbleiste..
 
 ![](assets/chart1.png)
 
-...und die Metrik verschwindet aus dem Diagramm. Klicken Sie erneut auf die Farbleiste, um sie wieder einzublenden.
+...und die Metrik aus dem Diagramm verschwindet. Klicken Sie erneut auf die Farbleiste, damit sie wieder angezeigt wird.
 
 ![](assets/chart2.png)
 
-Wenn Sie ein Diagramm erstellen, das Sie erneut verwenden möchten, sollten Sie es zu einem [Quick Diagramm](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) machen.
+Wenn Sie ein Diagramm erstellen, das Sie erneut verwenden möchten, sollten Sie es zu einem [Schnelldiagramm](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
-Auf der rechten Seite der Seite helfen Ihnen geführte Metriken bei der Ermittlung relevanter Treiber. Klicken Sie auf eine beliebige Metrik, um sie im Diagramm links auf der Seite anzuzeigen.
+Auf der rechten Seite der Seite helfen Ihnen geführte Metriken bei der Erkennung relevanter Treiber. Klicken Sie auf eine beliebige Metrik, um sie im Diagramm auf der linken Seite der Seite anzuzeigen.
 
 ![](assets/guided-metrics-ps.png)
 
 >[!NOTE]
 >
->Sehen Sie, dass Refresh oben rechts? Wenn Sie es sehen, müssen Sie manuell darauf klicken, um das Insight-Modul zu aktualisieren. Wir zeigen sie nur dann an, wenn Sie an Filtern Änderungen vorgenommen haben, die die aktuellen Werte ungültig machen würden.
+>Sehen Sie, dass Aktualisieren oben rechts? Wenn Sie es sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Wir zeigen sie nur an, wenn Sie eine Änderung an Filtern vorgenommen haben, die die aktuellen Werte ungültig machen würden.
 
-Sie können auch angeben, was Sie sehen (von links nach rechts): Alle, Audience, Inhalt und Plattform.
+Sie können auch angeben, was Sie sehen (von links nach rechts): Alle, Zielgruppe, Inhalt und Plattform.
 
 ![](assets/guided-bar.png)
 
 >[!MORELIKETHIS]
 >
->[Übersicht über E-Mail Insights-Sends](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Übersicht über die gesendeten E-Mail-Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

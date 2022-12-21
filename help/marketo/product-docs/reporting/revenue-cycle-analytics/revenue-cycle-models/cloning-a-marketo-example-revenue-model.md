@@ -1,38 +1,37 @@
 ---
 unique-page-id: 4718677
-description: Klonen eines Marketing-Beispielumsatzmodells - Marketing-Dokumente - Produktdokumentation
-title: Klonen eines Marketing-to-Beispiel-Umsatzmodells
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Klonen eines Marketo-Beispielumsatzmodells - Marketo-Dokumente - Produktdokumentation
+title: Klonen eines Marketo-Beispiel-Umsatzmodells
+exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# Klonen eines Marketo-Beispiel-Umsatzmodells {#cloning-a-marketo-example-revenue-model}
 
-# Klonen eines MarketingTo-Beispiel-Umsatzmodells {#cloning-a-marketo-example-revenue-model}
+Marketo verfügt über Beispiel-Umsatzmodelle, die Sie bei der Inspiration unterstützen. Klonen Sie diese Modelle und machen Sie sie zu Ihrem eigenen. Gehen Sie wie folgt vor:
 
-Marketo verfügt über Beispielumsatzmodelle, die Sie inspirieren. Klonen Sie diese Modelle und machen Sie sie zu Ihrem eigenen. So:
-
-1. Wechseln Sie zum Bereich **Analytics**.
+1. Navigieren Sie zu **Analytics** Bereich.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Wählen Sie den Ordner **Revenue Cycle Modeler** und klicken Sie auf **Marketing-Beispiele**.
+1. Auswählen **Modell für Umsatzzyklen** und klicken Sie auf **Marketo-Beispiele**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
-1. Wählen Sie eines der Modelle aus.
+1. Wählen Sie einen der Modelle aus.
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Wählen Sie unter Modellaktionen **Klonmodell**.
+1. Wählen Sie unter Modellaktionen die Option **Klonmodell**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Geben Sie einen **Name** ein und klicken Sie auf **Klonen**.
+1. Geben Sie einen **Name** und klicken Sie auf **Klonen**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
-   Wenn die Generierung von Umsatz nur so einfach wäre!
+   Wenn nur die Umsatzgenerierung so einfach wäre!

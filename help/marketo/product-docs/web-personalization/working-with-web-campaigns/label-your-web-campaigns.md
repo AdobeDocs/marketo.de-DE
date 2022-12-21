@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2949154
-description: Kennzeichnen Ihrer Web-Kampagnen - Marketing-Dokumente - Produktdokumentation
-title: Ihre Web-Kampagnen beschriften
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Ihre Web-Kampagnen beschriften - Marketo-Dokumente - Produktdokumentation
+title: Webkampagnen beschriften
+exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
+# Webkampagnen beschriften {#label-your-web-campaigns}
 
-# Ihre Web-Kampagnen beschriften {#label-your-web-campaigns}
+Haben Sie so viele Kampagnen, dass das Scrollen umständlich wird? Verwenden Sie Bezeichnungen, um Ihre Kampagnen mit Tags zu versehen, damit Sie sie sortieren und schnell finden können.
 
-Haben Sie so viele Kampagnen, dass der Bildlauf schwerfällig wird? Markieren Sie Ihre Kampagnen mit Etiketten, damit Sie sie schnell sortieren und finden können.
+## Einen Titel zu einer Webkampagne hinzufügen {#add-a-label-to-a-web-campaign}
 
-## hinzufügen einer Beschriftung zu einer Web-Kampagne {#add-a-label-to-a-web-campaign}
-
-1. Melden Sie sich bei Web-Personalisierung an und wechseln Sie zum Bereich Web-Kampagnen.
+1. Melden Sie sich bei Web-Personalisierung an und wechseln Sie zum Bereich Web-Kampagnen .
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
+   >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Wählen Sie die Kampagnen aus, die Sie mit einer Beschriftung versehen möchten.
+1. Wählen Sie die Kampagnen aus, die mit einem Titel versehen werden sollen.
 
    ![](assets/web-campaigns-label.jpg)
 
-1. Geben Sie den gewünschten Bezeichnungsnamen ein und klicken Sie auf Neu erstellen.
+1. Geben Sie den gewünschten Titel ein und klicken Sie auf Neu erstellen.
 
    >[!TIP]
    >
@@ -37,15 +36,15 @@ Haben Sie so viele Kampagnen, dass der Bildlauf schwerfällig wird? Markieren Si
 
    ![](assets/web-campaigns-set-label.jpg)
 
-Cool! Sie können jetzt Bezeichnungen erstellen und sie Kampagnen zuweisen.
+Cool! Jetzt wissen Sie, wie Sie Titel erstellen und Kampagnen zuweisen können.
 
-## Filtern nach vorhandenen Bezeichnungen {#filter-by-existing-labels}
+## Nach vorhandenen Bezeichnungen filtern {#filter-by-existing-labels}
 
-1. Wählen Sie unter der Dropdownliste Beschriftungen die Bezeichnung aus, die Sie als Filter verwenden möchten.
+1. Wählen Sie in der Dropdownliste Titel die Bezeichnung aus, die Sie als Filter verwenden möchten.
 
    ![](assets/web-campaigns-my-campaigns-dropdown.jpg)
 
-1. Jetzt zeigen wir Ihnen nur die Kampagnen an, die mit der ausgewählten Beschriftung verbunden sind.
+1. Jetzt zeigen wir Ihnen nur die Kampagnen, die mit der ausgewählten Bezeichnung verknüpft sind.
 
    ![](assets/web-campaigns-label-showing.jpg)
 

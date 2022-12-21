@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900554
-description: Bearbeiten des HTML-Codes einer E-Mail - Marketing-Dokumente - Produktdokumentation
+description: HTML einer E-Mail bearbeiten - Marketo Docs - Produktdokumentation
 title: HTML einer E-Mail bearbeiten
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# HTML einer E-Mail bearbeiten {#edit-an-emails-html}
 
-# Bearbeiten von HTML einer E-Mail {#edit-an-emails-html}
-
-Manchmal müssen Sie die zugrunde liegende HTML einer E-Mail ändern. Manchmal kann ein externes System zum Entwerfen und Erstellen des E-Mail-Codes verwendet werden. Sie können Code ganz einfach aus dem E-Mail-Editor importieren und/oder bearbeiten.
+Manchmal müssen Sie die zugrunde liegende HTML einer E-Mail ändern. Manchmal können Sie ein externes System verwenden, um den Code Ihrer E-Mail zu entwerfen und zu erstellen. Auf beide Arten können Sie Code einfach aus dem E-Mail-Editor importieren und/oder bearbeiten.
 
 ## HTML bearbeiten {#edit-html}
 
@@ -21,61 +20,61 @@ Manchmal müssen Sie die zugrunde liegende HTML einer E-Mail ändern. Manchmal k
 
    ![](assets/teamspidey.jpg)
 
-1. Klicken Sie auf **Code bearbeiten**.
+1. Klicken **Code bearbeiten**.
 
    ![](assets/two-4.png)
 
-1. Nehmen Sie alle Änderungen vor. Klicken Sie abschließend auf **Speichern**.
+1. Nehmen Sie alle Änderungen vor. Klicken **Speichern** wann geschehen.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >Ändere, was du willst. Sie können das gesamte HTML ersetzen oder kleinere Anpassungen vornehmen.
+   >Ändern Sie, was Sie wollen. Sie können die gesamte HTML ersetzen oder kleinere Anpassungen vornehmen.
 
-1. Klicken Sie auf die Dropdown-Liste **Code-Aktionen**, um den Code als HTML-Datei herunterzuladen, Ihre CSS zu inline oder die HTML zu validieren.
+1. Klicken Sie auf **Code-Aktionen** Dropdown, um den Code als HTML-Datei herunterzuladen, Ihre CSS inline zu referenzieren oder die HTML zu validieren.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Die beste Methode für E-Mails ist, alle Stile inline zu gestalten. Mehrere E-Mail-Clients unterstützen CSS im Abschnitt `<head>` nicht.
+   >Die Best Practice für E-Mails besteht darin, alle Stile inline zu gestalten. Mehrere E-Mail-Clients unterstützen CSS in der `<head>` Abschnitt.
 
-## Aufbrechen einer E-Mail aus ihrer Vorlage {#breaking-an-email-from-its-template}
+## Aufheben einer E-Mail von ihrer Vorlage {#breaking-an-email-from-its-template}
 
-Diese Codeänderungen **unterbrechen eine E-Mail nicht aus ihrer Vorlage:**
+Diese Codeänderungen **nicht** eine E-Mail aus ihrer Vorlage entfernen:
 
 * Bearbeiten des Inhalts eines Moduls (einschließlich des Hinzufügens neuer Elemente innerhalb des Moduls)
 * Hinzufügen eines neuen Moduls zum Container
-* Löschen eines Moduls vom Container
+* Löschen eines Moduls aus dem Container
 
 * Ändern von kto-spezifischen Attributen (z. B. &quot;mktoName&quot;oder &quot;mktoImgUrl&quot;) eines Elements außerhalb eines Moduls
-* Bearbeiten des Inhalts eines Elements (Rich Text, Bild, Video usw.) außerhalb eines Moduls
+* Bearbeiten des Inhalts eines Elements (Rich-Text, Bild, Video usw.) außerhalb eines Moduls
 
-Die folgenden Schritte können Sie im Code-Editor **durchführen, um die E-Mail aus der Vorlage zu entfernen:**
+Dies können Sie im Code-Editor tun **will** die E-Mail von der Vorlage entfernen:
 
 * Ändern von Elementen im Code außerhalb eines Elements oder Moduls
-* Hinzufügen oder Ändern von Nicht-mkto-Attributen (z. B. &quot;id&quot;oder &quot;style&quot;) eines Elements außerhalb eines Moduls
+* Hinzufügen oder Ändern von Nicht-MKTO-Attributen (z. B. &quot;id&quot;oder &quot;style&quot;) eines Elements außerhalb eines Moduls
 * Löschen eines Elements außerhalb eines Moduls
 
-## Suchcode {#search-code}
+## Code suchen {#search-code}
 
-Verwenden Sie die Funktion &quot;Suchcode&quot;, um Inhalte im HTML-Code Ihrer E-Mail effizient zu finden und zu ersetzen.
+Verwenden Sie die Suchcode-Funktion, um effizient Inhalte im HTML-Code Ihrer E-Mail zu finden und zu ersetzen.
 
 1. Klicken Sie im Code Ihrer E-Mail auf **Suchcode**.
 
    ![](assets/five-2.png)
 
-1. Geben Sie an, was Sie suchen möchten, und klicken Sie auf **Weitersuchen**, um vorwärts zu suchen, oder auf **Vorherige suchen**, um rückwärts zu suchen. Sie haben auch die Option **Ersetzen** und **Alle ersetzen**.
+1. Geben Sie an, was Sie suchen möchten, und klicken Sie auf **Weitersuchen** nach vorn zu suchen oder **Vorherige suchen** zurück zu suchen. Sie haben auch die Möglichkeit, **Ersetzen** und **Alle ersetzen**.
 
    ![](assets/six-1.png)
 
-1. Klicken Sie abschließend auf **Schließen**.
+1. Klicken **Schließen** wann geschehen.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Der Suchcode ist auch im Editor [E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md) verfügbar.
+   >Der Suchcode ist auch im [Email Template Editor](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
-Es wird empfohlen, dass Sie Ihre E-Mails weiterhin mit der integrierten Funktionalität von Marketo bearbeiten. Dieser Code-Editor bietet jedoch Flexibilität, wenn Sie ihn benötigen.
+Es wird empfohlen, E-Mails weiterhin mit der integrierten Funktionalität von Marketo zu bearbeiten. Dieser Code-Editor bietet jedoch bei Bedarf Flexibilität.

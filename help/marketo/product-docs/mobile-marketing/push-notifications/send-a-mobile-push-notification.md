@@ -1,39 +1,38 @@
 ---
 unique-page-id: 7512457
-description: Eine Push-Benachrichtigung für Mobilgeräte senden - Marketing-Dokumente - Produktdokumentation
-title: Push-Benachrichtigung für Mobilgeräte senden
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Mobile Push-Benachrichtigung senden - Marketo-Dokumente - Produktdokumentation
+title: Mobile Push-Benachrichtigung senden
+exl-id: b462857e-c63d-419d-9e28-aafc778e217e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Push-Benachrichtigung für Mobilgeräte senden {#send-a-mobile-push-notification}
+# Mobile Push-Benachrichtigung senden {#send-a-mobile-push-notification}
 
 Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden.
 
 >[!PREREQUISITES]
 >
->* [Neue intelligente Kampagne erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Erstellen einer neuen Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Push-Benachrichtigung erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf **Intelligente Liste**.
+1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definieren Sie Ihre intelligente Liste und klicken Sie dann auf **Fluss**.
+1. Definieren Sie Ihre Smart-Liste und klicken Sie auf **Fluss**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Wählen Sie eine Push-Benachrichtigung aus. Klicken Sie auf **Plan**.
+1. Wählen Sie eine Push-Benachrichtigung aus. Klicken **Zeitplan**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -41,11 +40,11 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
    >
    >Die Push-Benachrichtigung muss genehmigt werden, bevor sie in der Dropdown-Liste angezeigt wird.
 
-1. Klicken Sie auf **Einmal ausführen**.
+1. Klicken Sie auf **“Einmal ausführen“**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Wählen Sie ein Datum und eine Uhrzeit aus. Klicken Sie auf **Speichern**.
+1. Wählen Sie ein Datum und eine Uhrzeit aus. Klicken **Speichern**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

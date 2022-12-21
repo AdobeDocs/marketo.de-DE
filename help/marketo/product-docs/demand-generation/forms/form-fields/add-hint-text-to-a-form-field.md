@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2359671
-description: hinzufügen Hint Text in ein Formularfeld - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen von Hinweistext in ein Formularfeld
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Hinzufügen von Hint-Text zu einem Formularfeld - Marketo-Dokumente - Produktdokumentation
+title: Hinweistext zu einem Formularfeld hinzufügen
+exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
+# Hinweistext zu einem Formularfeld hinzufügen {#add-hint-text-to-a-form-field}
 
-# hinzufügen Hinweistext in ein Formularfeld {#add-hint-text-to-a-form-field}
-
-Hinweise und [Anweisungen](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) helfen den Benutzern beim Ausfüllen von Formularen. So fügen Sie einen Hinweis hinzu:
+Hinweise und [instructions](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) hilft Menschen beim Ausfüllen von Formularen. Hier erfahren Sie, wie Sie einen Hinweis hinzufügen.
 
 >[!NOTE]
 >
 >**Definition**
 >
->Form **Hints** ist Text innerhalb des Felds, der ausgeblendet wird, wenn der Besucher beginnt, die Eingabe zu beginnen.
+>Formular **Hinweise** ist Text innerhalb des Felds, der verschwindet, wenn der Besucher mit der Eingabe in das Feld beginnt.
 >
->Form **Anweisungen** sind kleine QuickInfos, die anzeigen, wenn der Besucher den Mauszeiger über das Feld bewegt.
+>Formular **Anweisungen** sind kleine QuickInfos, die anzeigen, wann der Besucher den Mauszeiger über das Feld bewegt.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Wählen Sie das Feld aus und geben Sie **Hint Text** ein.
+1. Wählen Sie das Feld aus und geben Sie Ihre **Hint-Text**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, [den von den Formularänderungen erstellten Entwurf der Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen.
+   >Vergiss nicht, [Landingpage-Entwurf validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) erstellt durch die Formularänderungen.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Schau es dir an! Lassen Sie uns nun einige [Anweisungen](add-tooltip-instructions-to-a-form-field.md) hinzufügen.
+Schau es dir an! Lassen Sie uns ein paar hinzufügen [instructions](add-tooltip-instructions-to-a-form-field.md) jetzt.

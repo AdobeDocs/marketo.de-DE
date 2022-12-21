@@ -1,97 +1,94 @@
 ---
 unique-page-id: 2949158
-description: Integration von RTP mit Google Analytics - Marketing Docs - Produktdokumentation
+description: Integrieren von RTP mit Google Analytics - Marketo Docs - Produktdokumentation
 title: RTP mit Google Analytics integrieren
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '608'
 ht-degree: 0%
 
 ---
 
-
-# RTP mit Google Analytics {#integrate-rtp-with-google-analytics} integrieren
+# RTP mit Google Analytics integrieren {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
 >
 >Universal Analytics ist jetzt der Betriebsstandard und alle Eigenschaften in Google wurden auf Universal Analytics aktualisiert.
 >
->In diesem Artikel wird die Verwendung der alten Google Standard Analytics-Version erläutert. Es wird jedoch empfohlen, zu Universal Analytics zu wechseln.
+>Dieser Artikel zeigt, wie Sie die alte Google Standard Analytics verwenden. Wir empfehlen jedoch, zu Universal Analytics zu wechseln.
 >
->Wenn Sie noch nicht den Rückverfolgungscode [analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/) verwenden, empfiehlt Google dringend, Ihre Site neu zu taggen, um sie zu verwenden. Folgende Elemente werden von Google nicht mehr unterstützt:
+>Wenn Sie die [Trackingcode für analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/)empfiehlt Google dringend, Ihre Site neu zu taggen, um sie zu verwenden. Google stellt Folgendes ein:
 >
 >* ga.js
 >* urchin.js
->* WAP-/serverseitige Snippets
+>* WAP-/Server-seitige Snippets
 >* YT/MO
 >* Benutzerdefinierte Variablen
 >* Benutzerdefinierte Variablen
-
 >
->
-Erfahren Sie, wie Sie [Web-Personalisierung in Universal Analytics integrieren.](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>Erfahren Sie, wie Sie integrieren [Web-Personalisierung mit Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Einführung {#introduction}
 
-Analysieren Sie Ihre Webanalyse unter Verwendung des direkten Datenflusses von Marketing zu Echtzeit-Personalisierung (RTP) zu Ihrem Google Analytics-Konto (GA). Messen Sie Ihre Web-Besuche in GA nach Organisationen, Branchen und RTP-Kampagnen. Metriken zur Ansicht wie Industrien oder RTP-Segmente in GA und wie sie funktionieren und Interessenten entsprechend verschiedenen Traffic-Quellen (Social, gebührenpflichtig, Organisch) generieren, die Analyse der Durchklickraten auf Kampagnen und die Messung der Auswirkungen von Personalisierungs-Kampagnen auf Ihrer Website. Nutzen Sie diese Möglichkeit, um den größtmöglichen Nutzen aus Ihrem RTP-Konto zu ziehen.
+Analysieren Sie Ihre Webanalyse unter Verwendung des direkten Datenflusses von Marketo Real-Time Personalization (RTP) zu Ihrem Google Analytics (GA)-Konto. Messen Sie Ihre Webbesuche in GA nach Organisationen, Branchen und RTP-Kampagnen. Zeigen Sie Metriken wie Branchen- oder RTP-Segmente in der allgemeinen Verfügbarkeit an und zeigen Sie anhand verschiedener Traffic-Quellen (Social, Paid, Organic), analysieren Sie Klickraten für Kampagnen und messen Sie die Wirkung von Personalisierungskampagnen auf Ihrer Website. Nutzen Sie diese Möglichkeit, um den größtmöglichen Nutzen aus Ihrem RTP-Konto zu ziehen.
 
 **RTP-Audience Analytics**
 
-Mit der Integration haben Sie eine neue Dimension in Ihrem GA-Konto. RTP verbessert Ihre Dashboards automatisch durch:
+Mit der Integration haben Sie eine neue Dimension in Ihrem GA-Konto. RTP verbessert Ihre Dashboards automatisch mit:
 
 1. Organisationen und Industrie
 1. Benutzerdefinierte Segmente in RTP
-1. Kontobasierte Marketing-Listen
+1. Account-Based Marketing-Listen
 
-Konzentrieren Sie sich auf Ihre wichtigsten B2B-Potenzieller Kunde. Analysieren Sie Kanal nach Branchen und Segmenten.
+Konzentrieren Sie sich auf Ihre wichtigsten B2B-Perspektiven. Analysieren Sie Kanäle nach Branchen und Segmenten mit Zielgruppen.
 
-## Kanal-Bericht {#channel-report}
+## Kanalbericht {#channel-report}
 
 ![](assets/image2014-11-28-16-3a39-3a28.png)
 
-Das RTP B2B-Dashboard hilft Ihnen, die Aufschlüsselung Ihrer Besucher nach Vertikalen und RTP-Segmentierung zu verstehen. Sie können Ihre Besucher-Performance nach der Finanzbranche und nach verschiedenen Marketing-Kampagnen (gebührenpflichtig, kostenlos, sozial) sehen. Das Dashboard bietet außerdem einen Überblick über die Leistung Ihrer RTP-Segmente und zeigt die wichtigsten Organisationen, die Ihre Site besuchen, in einer Drilldown-Liste an.
+Das RTP B2B Dashboard hilft Ihnen, die Aufschlüsselung Ihrer Besucher nach Vertikalen und RTP-Segmentierung zu verstehen. Sie können die Leistung Ihrer Besucher entsprechend der Finanzbranche und den verschiedenen Marketing-Kampagnen (gebührenpflichtig, organisch, sozial) anzeigen. Das Dashboard bietet außerdem einen allgemeinen Überblick über die Leistung Ihrer RTP-Segmente und zeigt die wichtigsten Organisationen, die Ihre Site besuchen, anhand von Drilldown an.
 
 ## Verhaltensfluss {#behavioral-flow}
 
 ![](assets/image2014-11-28-16-3a40-3a43.png)
 
-Der Bericht &quot;Verhaltensfluss&quot;(siehe Bild) visualisiert den Pfad, den Besucher von einer Seite oder einem Ereignis zur nächsten wechseln. Das Bildbeispiel zeigt den Pfad aller Besucher aus dem Finanzsektor. Dieser Bericht kann Ihnen dabei helfen, herauszufinden, welcher Inhalt Besucher mit Ihrer Site in Kontakt hält.
+Der Bericht &quot;Verhaltensfluss&quot;(siehe Bild) visualisiert den Pfad, den Besucher von einer Seite oder einem Ereignis zur nächsten navigieren. Das Bildbeispiel zeigt den Pfad aller Besucher aus dem Finanzsektor. Dieser Bericht kann Ihnen dabei helfen festzustellen, durch welche Inhalte Besucher mit Ihrer Site interagieren.
 
 ## RTP-Leistung {#rtp-performance}
 
-Messen Sie Ihre RTP-Kampagnen und ordnen Sie sie Ihrem Site-Durchschnitt insgesamt zu. Erfahren Sie, wie sich diese Kampagnen auf Ihre Website-Metriken auswirken, und nutzen Sie diese Daten, um Ihre Personalisierungsbemühungen auf die richtigen Zielgruppen zu konzentrieren. Erstellen Sie benutzerspezifische Berichte, um besser zu verstehen, wie Ihre Kampagnen zur Personalisierung abschneiden.
+Messen Sie Ihre RTP-Kampagnen und ordnen Sie sie Ihrem gesamten Site-Durchschnitt zu. Erfahren Sie, wie sich diese Kampagnen auf Ihre Website-Metriken auswirken, und nutzen Sie diese Daten, um Ihre Personalisierungsbemühungen auf die richtigen Ziele zu konzentrieren. Erstellen Sie benutzerspezifische Berichte, um die Leistung Ihrer Personalisierungskampagnen besser zu verstehen.
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 
-## RTP mit Google Analytics {#setting-up-rtp-with-google-analytics} einrichten
+## Einrichten von RTP mit Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. hinzufügen Sie die E-Mail an rtp.ga2@gmail.com als Benutzer für Lesen und Analysieren für Ihr GA-Konto. Weitere Informationen finden Sie unter [hier](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Fügen Sie die E-Mail rtp.ga2@gmail.com als Benutzer Lesen und Analysieren zu Ihrem GA-Konto hinzu. Weitere Informationen finden Sie unter [here](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. In Ihrem RTP-Konto. Gehen Sie zu **Kontoeinstellungen**.
+1. In Ihrem RTP-Konto. Navigieren Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Unter **Kontoeinstellungen**, **Domäne** und **Analytics**.
+1. under **Kontoeinstellungen**, **Domäne** und **Analytics**.
 
 1. Klicken Sie auf **Google Analytics**.
 
-1. Aktivieren Sie die entsprechenden **Benutzerspezifische Variablen** und **Ereignis**, um diese Daten von RTP an Google Analytics anzuhängen.
+1. Relevante Funktion aktivieren **Benutzerdefinierte Variablen** und **Veranstaltungen** , um diese Daten von RTP an Google Analytics anzuhängen.
 
-1. Geben Sie die Zahl **Steckplatz** ein, um benutzerdefinierte Variablendaten zu senden (Standard ist 1,2).
+1. Geben Sie die **Steckplatz** Zahl zum Senden benutzerdefinierter Variablendaten (Standardwert ist 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
 >[!NOTE]
 >
->Um Segmentdaten an GA zu senden, aktivieren Sie unter der Seite [Segment bearbeiten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) auf der RTP-Plattform das Kontrollkästchen **Ereignis an Google Analytics senden bei Segmentübereinstimmung**.
+>Um Segmentdaten an GA zu senden, wählen Sie unter [Seite &quot;Segment bearbeiten&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) Aktivieren Sie in der RTP-Plattform das Kontrollkästchen **Ereignis bei Segmentübereinstimmung an Google Analytics senden**.
 
 ## Einrichten von Google Analytics-Berichten mit RTP-Daten {#setting-up-google-analytics-reports-with-rtp-data}
 
-In Google Analytics können Sie zur Ansicht Ihrer RTP-Daten Dashboard, GA-Segmentierung und Berichte verwenden:
+In Google Analytics können Sie Dashboards, die allgemeine Segmentierung und Berichte verwenden, um Ihre RTP-Daten anzuzeigen:
 
-* [In ](https://support.google.com/analytics/answer/1068216?hl=en) Dashboards erhalten Sie einen Überblick über die Website-Performance.
-* Ein GA-Segment dient zum Filtern von Besuchern in der GA-Oberfläche und zur Ansicht des Traffics pro Segment. Erfahren Sie, wie Sie ein Segment [hier](https://support.google.com/analytics/answer/3124493?hl=en) erstellen.
-* Erstellen von [benutzerspezifischen Berichten](https://support.google.com/analytics/answer/1033013?hl=en) zur Ansicht und/oder Einrichtung geplanter E-Mails. Siehe Anpassen > Neuer benutzerdefinierter Bericht.
+* [Dashboards](https://support.google.com/analytics/answer/1068216?hl=en) bietet einen Überblick über die Leistung der Website.
+* Ein GA-Segment dient dazu, Besucher in der GA-Oberfläche zu filtern und den Traffic pro Segment anzuzeigen. Erfahren Sie, wie Sie ein Segment erstellen [here](https://support.google.com/analytics/answer/3124493?hl=en).
+* Erstellen [benutzerspezifische Berichte](https://support.google.com/analytics/answer/1033013?hl=en) um geplante E-Mails anzuzeigen und/oder einzurichten. Siehe unter Anpassung > Neuer benutzerdefinierter Bericht.

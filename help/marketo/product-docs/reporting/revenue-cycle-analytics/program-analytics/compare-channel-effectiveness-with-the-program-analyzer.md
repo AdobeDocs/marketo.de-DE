@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2360401
-description: Vergleichen Sie die Effektivität von Kanälen mit dem Programm Analyzer - Marketing Docs - Produktdokumentation
-title: Kanal-Effektivität mit dem Programm-Analyzer vergleichen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Vergleichen der Kanaleffektivität mit dem Programm-Analyzer - Marketo Docs - Produktdokumentation
+title: Kanaleffektivität mit dem Programm-Analyzer vergleichen
+exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
+# Kanaleffektivität mit dem Programm-Analyzer vergleichen {#compare-channel-effectiveness-with-the-program-analyzer}
 
-# Kanal-Effektivität mit dem Programm-Analyzer {#compare-channel-effectiveness-with-the-program-analyzer} vergleichen
-
-Verwenden Sie den Programm Analyzer, um die Kosten des Kanals, die Mitgliederakquise, die Pipeline, den Umsatz usw. zu vergleichen und Ihre effektivsten Kanal zu identifizieren.
+Verwenden Sie den Programm-Analyzer, um die Kanalkosten, die Mitgliederakquise, die Pipeline, den Umsatz und mehr zu vergleichen und Ihre effektivsten Kanäle zu identifizieren.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +22,7 @@ Verwenden Sie den Programm Analyzer, um die Kosten des Kanals, die Mitgliederakq
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Wählen Sie **Programm Analyzer**.
+1. Wählen Sie Ihre **Programm-Analyzer**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
@@ -31,58 +30,58 @@ Verwenden Sie den Programm Analyzer, um die Kosten des Kanals, die Mitgliederakq
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Verwenden Sie die Dropdownliste **X-Achse**, um eine Metrik für die horizontale Achse auszuwählen. Beginn mit **Programm Cost**.
+1. Verwenden Sie die **X Achse** Dropdown, um eine Metrik für die horizontale Achse auszuwählen. Fangen wir mit **Programmkosten**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Verwenden Sie die Dropdownliste &quot;Y-Achse&quot;, um eine Metrik für die vertikale Achse auszuwählen. Hier gehen wir mit **(FT) Pipeline Created**.
+1. Verwenden Sie die Dropdownliste Y-Achse , um eine Metrik für die vertikale Achse auszuwählen. Hier gehen wir **(FT) Pipeline erstellt**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen mit First Touch- (FT) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Zuordnung](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zu verstehen.
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen bei Erstkontakt- (FT-) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, die [Differenz zwischen FT- und MT-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Verwenden Sie die Dropdownliste **Y Achse**, um **(MT) Pipeline Created** auszuwählen.
+1. Verwenden Sie die **Y-Achse** Dropdown zur Auswahl **(MT) Pipeline erstellt**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
-   In dieser Multi-Touch-Zuordnungs-Ansicht sehen wir, dass der Webinar-Kanal mehr Einfluss auf die erstellten Pipeline hat und weniger kostet als die Tradeshow und Online-Advertising-Kanal.
+   In dieser Multi-Touch-Attributionsansicht sehen wir, dass der Webinar-Kanal einen größeren Einfluss auf die erstellte Pipeline hat und weniger kostet als die Tradeshow- und Online-Werbekanäle.
 
-   Jetzt fügen wir zwei weitere Dimensionen hinzu!
+   Fügen wir nun zwei weitere Dimensionen hinzu!
 
-1. Verwenden Sie die Dropdownliste **Blasengröße**, um eine zusätzliche Maßnahme wie **Neue Namen** auszuwählen.
+1. Verwenden Sie die **Blasengröße** in der Dropdown-Liste eine zusätzliche Kennzahl auswählen, z. B. **Neue Namen**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
-1. Sehen Sie, wie sich das Diagramm verändert.
+1. Sehen Sie sich an, wie sich das Diagramm ändert.
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Wir sehen, dass der Kanal des Webinars schrumpft, gemessen durch **Neue Namen**. Wir können zu dem Schluss kommen, dass es zwar viele Mitglieder hat, aber weniger effektiv ist, neue Interessenten zu generieren als der Kanal der Messen.
+   Wir sehen, dass der Webinar-Kanal schrumpft, gemessen durch **Neue Namen**. Wir können zu dem Schluss kommen, dass es zwar viele Mitglieder hat, aber weniger effektiv ist, neue Leads zu erzeugen als der Tradeshow-Kanal.
 
-1. Verwenden Sie schließlich die Dropdownliste Farbe, um die vierte Dimension hinzuzufügen. Wählen Sie **(FT) Umsatz Won**.
+1. Verwenden Sie abschließend das Dropdown-Menü Farbe , um die vierte Dimension hinzuzufügen. Wählen Sie **(FT) Umsatz gewinnt**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
-1. Beobachten Sie, wie sich die Farben in Ihrem Diagramm ändern.
+1. Sehen Sie sich die Farbänderungen in Ihrem Diagramm an.
 
    ![](assets/image2014-9-17-18-3a41-3a19.png)
 
-   Aus den Farben lernen wir, dass der Tradeshow-Kanal, die grünste Blase, den größten Gewinn beeinflusst hat, gemessen an der First Touch-Zuordnung.
+   Aus den Farben erfahren wir, dass der Kanal Tradeshow, die grünste Blase, den höchsten erzielten Umsatz beeinflusst hat, gemessen durch Erstkontakt-Attribution.
 
-1. Wenn wir nun die Farbmetrik in **(MT) Umsatz Won** ändern, sehen wir, dass der Online-Advertising-Kanal, jetzt der grünste, mehr Umsatz im Zeitverlauf beeinflusste als die WebInar- und Tradeshow-Kanal.
+1. Wenn wir jetzt die Farbmetrik in **(MT) Umsatz gewinnt**, sehen wir, dass der Online-Advertising-Kanal, der jetzt grünste Kanal, mehr Umsatz beeinflusst hat - im Zeitverlauf - als die Webinar- und Tradeshow-Kanäle.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
-In unserem Beispiel sehen wir, dass der Tradeshow-Kanal sowohl der teuerste (am weitesten nach rechts) als auch der erfolgreichste (am höchsten auf der Y-Achse) bei der Messung der durch First Touch erstellten Pipeline ist. Denken wir nun an die Pipeline jedes Kanals, die durch Multi-Touch-Zuordnung erstellt wurde.
+In unserem Beispiel sehen wir, dass der Kanal Tradeshow sowohl der teuerste (am weitesten rechts) als auch der erfolgreichste (am höchsten auf der Y-Achse) ist, wenn es darum geht, die durch Erstkontakt erstellte Pipeline zu messen. Betrachten wir nun die Pipeline jedes Kanals, die anhand der Multi-Touch-Attribution erstellt wurde.
 
 >[!TIP]
 >
->Die Beispiele in diesen Schritten messen die Effektivität anhand der erstellten Pipeline. Verwenden Sie die Dropdownliste &quot;Y-Achse&quot;, um andere Methoden zur Messung der Effektivität von Kanälen auszuwählen, z. B. neue Namen, Mitglieder, Kosten pro Erfolg usw.
+>Die Beispiele in diesen Schritten messen die Effektivität basierend auf der erstellten Pipeline. Verwenden Sie die Dropdown-Liste Y-Achse , um andere Möglichkeiten zur Messung der Kanalwirksamkeit auszuwählen, z. B. neue Namen, Mitglieder, Kosten pro Erfolg usw.
 
 >[!MORELIKETHIS]
 >
->* [Programm- und Kanal-Details mit dem Programm Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Programm-Effektivität mit dem Programm-Analyzer vergleichen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Kennenlernen von Programm- und Kanaldetails mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Vergleichen der Programmwirksamkeit mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 

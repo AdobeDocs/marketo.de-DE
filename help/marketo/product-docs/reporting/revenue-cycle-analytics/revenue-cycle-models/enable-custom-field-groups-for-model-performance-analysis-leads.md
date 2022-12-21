@@ -1,67 +1,66 @@
 ---
 unique-page-id: 3571890
-description: Benutzerspezifische Feldgruppen für Analyse der Modellleistung (Interessenten) aktivieren - Marketing-Dokumente - Produktdokumentation
-title: Benutzerspezifische Feldgruppen für Analyse der Modellleistung aktivieren (Interessenten)
-translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+description: Benutzerdefinierte Feldergruppen für Modellleistungsanalyse (Leads) aktivieren - Marketo Docs - Produktdokumentation
+title: Benutzerdefinierte Feldergruppen für Modellleistungsanalyse aktivieren (Leads)
+exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
 
 ---
 
-
-# Benutzerspezifische Feldgruppen für Analyse der Modellleistung (Interessenten) {#enable-custom-field-groups-for-model-performance-analysis-leads} aktivieren
+# Benutzerdefinierte Feldergruppen für Modellleistungsanalyse aktivieren (Leads) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
 >[!PREREQUISITES]
 >
->Kategorisieren Sie Standard- oder benutzerdefinierte Felder zum Berichte in Gruppen über den Field Organizer in Marketing. Weitere Informationen finden Sie unter [Benutzerspezifische Feldgruppen über den Feldorganisator](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md) erstellen.
+>Kategorisieren Sie Standard- oder benutzerdefinierte Felder in Gruppen für die Berichterstellung über den Field Organizer in Marketo. Weitere Informationen finden Sie unter [Erstellen benutzerdefinierter Feldergruppen über den Feld-Organizer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="3" rowspan="1"><p align="center"><strong>Wie wirkt sich die Aktivierung einer benutzerspezifischen Feldgruppe auf mehrere Analysen in Umsatz-Cycle Explorer aus?</strong></p></td> 
+   <td colspan="3" rowspan="1"><p align="center"><strong>Wie wirkt sich die Aktivierung einer benutzerdefinierten Feldergruppe auf mehrere Analysebereiche in Umsatz-Cycle-Explorer aus?</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Was passiert, wenn...?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Auswirkungen auf den Modellleistungsbereich (Interessenten) Analyse</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Auswirkungen auf die Bereiche Analyse, Analyse der Kampagne und Analyse von Chancen</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Wie wirkt sich dies auf den Bereich "Modell Performance Analysis"(Leads) aus?</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Auswirkungen auf die Bereiche Lead Analysis, Kampagnenanalyse und Opportunity Analysis</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Was passiert, wenn Sie eine benutzerspezifische Feldgruppe aktivieren, die mit einem Standardfeld für Interessenten oder Firmen verknüpft ist?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Die benutzerspezifische Feldgruppe ist für den Berichte im Bereich Modellleistung (Interessenten) der Analyse aktiviert.</p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Was passiert, wenn Sie eine benutzerdefinierte Feldergruppe aktivieren, die mit einem standardmäßigen Lead- oder Firmenfeld verknüpft ist?</strong></p></td> 
+   <td colspan="1" rowspan="1"><p>Die benutzerdefinierte Feldergruppe ist für die Berichterstellung im Bereich Modellleistungsanalyse (Leads) aktiviert.</p></td> 
    <td colspan="1" rowspan="1"><p>Keine Auswirkung</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Was passiert, wenn Sie eine benutzerspezifische Feldgruppe aktivieren, die mit einem Feld für eine benutzerdefinierte Firma oder Person verknüpft ist?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Die benutzerspezifische Feldgruppe ist für den Berichte im Bereich Modellleistung (Interessenten) der Analyse aktiviert.</p></td> 
-   <td colspan="1" rowspan="1"><p>Das benutzerdefinierte Feld selbst ist für den Berichte in den Analysen Interessentenanwerbung, Kampagne-Analyse und Chancen aktiviert.</p><p><strong>HINWEIS: </strong> Benutzerspezifische Feldgruppen werden in diesen Analysen NICHT unterstützt. Daher werden die Gruppenzuordnungen nicht im Umsatz-Cycle-Explorer angezeigt, <em></em> sondern nur im benutzerdefinierten Feld.</p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Was passiert, wenn Sie eine benutzerdefinierte Feldergruppe aktivieren, die mit einem benutzerdefinierten Personen- oder Firmenfeld verknüpft ist?</strong></p></td> 
+   <td colspan="1" rowspan="1"><p>Die benutzerdefinierte Feldergruppe ist für die Berichterstellung im Bereich Modellleistungsanalyse (Leads) aktiviert.</p></td> 
+   <td colspan="1" rowspan="1"><p>Das benutzerdefinierte Feld selbst ist für die Berichterstellung in den Bereichen Lead-Analyse, Kampagnenanalyse und Opportunity Analysis aktiviert.</p><p><strong>HINWEIS:</strong> Benutzerdefinierte Feldergruppen werden in diesen Analysebereichen NICHT unterstützt, sodass die Gruppenzuordnungen nicht im Umsatz-Cycle-Explorer angezeigt werden.—<em>only</em> das benutzerdefinierte Feld.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Führen Sie die folgenden Schritte aus, um eine benutzerspezifische Feldgruppe für den Berichte im Bereich Modellleistung (Interessenten) zu aktivieren.
+Führen Sie diese Schritte aus, um eine benutzerdefinierte Feldergruppe für die Berichterstellung im Bereich Modell-Leistungsanalyse (Leads) zu aktivieren.
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Revenue Cycle Analytics**.
+1. Klicken **Umsatzzyklusanalysen**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie neben einer leeren Feldgruppe auf **Keine**. Wenn Sie bereits drei Feldgruppen aktiviert haben und eine Bearbeitung vornehmen möchten, klicken Sie auf den Namen der Feldgruppe, die Sie ändern möchten.
+1. Klicken **Keines** neben einer leeren Feldergruppe. Wenn Sie bereits drei Feldergruppen aktiviert haben und eine Bearbeitung vornehmen möchten, klicken Sie auf den Namen der Feldergruppe, die Sie ändern möchten.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf die Dropdownliste **Feld** und wählen Sie das gewünschte Feld aus.
+1. Klicken Sie auf **Feld** und wählen Sie die gewünschte Option aus.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >In diesem Beispiel wurde eine benutzerspezifische Feldgruppe für ein Standardfeld (Status) aktiviert. Daher wurde nur der Bereich Modellleistung Analyse (Interessenten) beeinträchtigt. Wenn eine benutzerspezifische Feldgruppe für ein benutzerdefiniertes Firmen- oder Personenkreis aktiviert wurde, wird die aktivierte Gruppe im Bereich &quot;Modellleistung (Interessenten)&quot;der Registerkarte &quot;Zusammenfassung&quot;angezeigt und die Anzahl der benutzerspezifischen Felder für &quot;Interessent&quot;, &quot;Kampagne&quot;und &quot;Chancen&quot;-Analyse wird um 1 erhöht.
+   >In diesem Beispiel wurde eine benutzerdefinierte Feldergruppe für ein Standardfeld (Status) aktiviert. Daher wurde nur der Bereich &quot;Modell Performance Analysis (Leads)&quot;betroffen. Wenn eine benutzerdefinierte Feldergruppe für ein benutzerdefiniertes Personen- oder Firmenfeld aktiviert wurde, würde die aktivierte Gruppe im Abschnitt &quot;Modell-Leistungsanalyse (Leads)&quot;der Registerkarte &quot;Zusammenfassung synchronisieren&quot;angezeigt und die Anzahl der benutzerdefinierten Felder für Lead, Kampagne und Opportunity Analysis würde um 1 erhöht.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/five-1.png)

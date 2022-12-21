@@ -17,11 +17,11 @@ Nachfolgend finden Sie die neuesten Versionen für alle Sales Insight-Aktionen-C
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Chrome</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Windows</strong></td> 

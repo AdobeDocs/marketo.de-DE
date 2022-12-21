@@ -1,17 +1,16 @@
 ---
 unique-page-id: 13795492
-description: Performance Insight-Einstellungen - Marketing Docs - Produktdokumentation
-title: Einstellungen für Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Performance Insights-Einstellungen - Marketo-Dokumente - Produktdokumentation
+title: Leistungseinblicke - Einstellungen
+exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
-# Performance Insight-Einstellungen {#performance-insights-settings}
+# Leistungseinblicke - Einstellungen {#performance-insights-settings}
 
 Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
@@ -19,9 +18,9 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 >[!NOTE]
 >
->Je nachdem, in welchem Dashboard Sie sich befinden, sehen Sie verschiedene Einstellungsoptionen.
+>Je nachdem, in welchem Dashboard Sie sich befinden, werden Ihnen unterschiedliche Einstellungsoptionen angezeigt.
 
-## Erfolg des Ansicht-Programms durch {#view-program-success-by}
+## Programmerfolg anzeigen nach {#view-program-success-by}
 
 **Interaktions-Dashboard - Beitrag und Trend**
 
@@ -29,77 +28,77 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  <tbody> 
   <tr> 
    <td><strong>Kostenzeitraum</strong></td> 
-   <td>Wenn Sie diese Option aktivieren, werden alle neuen Namen und Erfolge von Performance Insights bis zu dem als Kostenzeitraum eingerichteten Aggregat .</td> 
+   <td>Wenn Sie diese Option aktivieren, aggregieren Performance Insights alle neuen Namen und Erfolge zurück zu dem Monat, der als Kostenzeitraum eingerichtet wurde.</td> 
   </tr> 
   <tr> 
-   <td><strong>Aktivität</strong></td> 
-   <td>Wenn Sie diese Option aktivieren, werden bei Performance Insights alle neuen Namen, Erfolge und Mitgliedschaften nach dem Datum der Aktivität Aggregat, unabhängig vom Zeitraum der Programm-Kosten.</td> 
+   <td><strong>Aktivitätszeitraum</strong></td> 
+   <td>Wenn Sie diese Option aktivieren, aggregieren Performance Insights alle neuen Namen, Erfolge und Mitgliedschaften nach Aktivitätsdatum, unabhängig vom Programmkostenzeitraum.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Konfiguration des vorherigen Zeitraums {#previous-period-configuration}
+## Konfiguration vorheriger Zeitraum {#previous-period-configuration}
 
-**Interaktion, Pipeline, Umsatz - Dashboards - nur Beitrag**
+**Interaktion, Pipeline, Umsatz-Dashboards - Nur Beiträge**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Kalenderzeitraum</strong></td> 
-   <td>Den vorherigen Zeitraum auf: vorheriger Kalendermonat, -quartal oder -jahr.</td> 
+   <td>Stellen Sie den vorherigen Zeitraum auf Folgendes ein: vorherigen Kalendermonat, -quartal oder -jahr.</td> 
   </tr> 
   <tr> 
-   <td><strong>YOY-Zeitraum</strong></td> 
+   <td><strong>Jahresübergreifender Zeitraum</strong></td> 
    <td>Stellen Sie den vorherigen Zeitraum auf denselben Monat oder dasselbe Quartal im Vorjahr ein.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Marketing-beeinflussende Chancen {#marketing-influenced-opportunities}
+## Durch Marketing beeinflusste Chancen {#marketing-influenced-opportunities}
 
 **Pipeline-Dashboard - Beitrag und Trend**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>First Touch anzeigen, bevor Chancen geschaffen werden</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, bietet MPI Möglichkeiten, die mit mindestens einem Interessenten verbunden sind, der von einem Marketo-Programm vor der Schaffung der Gelegenheit (First Touch/FT) erworben wurde. Die Einstellungen für die explizite, implizite und Hybrid-Zuordnung gelten.</p></td> 
+   <td><strong>Erstkontakt anzeigen, bevor eine Gelegenheit erstellt wurde</strong></td> 
+   <td><p>Wenn Sie dies überprüfen, umfasst MPI Chancen, die mit mindestens einem Lead verknüpft sind, der von einem Marketo-Programm vor der Schaffung der Gelegenheit erworben wurde (Erstkontakt/FT). Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Multi-Touch anzeigen, bevor eine Gelegenheit erstellt wurde</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, bietet MPI Möglichkeiten mit mindestens einem Lead, das von einem Marketo-Programm erworben wurde (Multi-Touch/MT), bevor die Gelegenheit geschaffen wurde. Die Einstellungen für die explizite, implizite und Hybrid-Zuordnung gelten.</p></td> 
+   <td><p>Wenn Sie dies überprüfen, bietet MPI Möglichkeiten mit mindestens einem Lead, der von einem Marketo-Programm erworben wurde (Multi-Touch/MT), bevor die Gelegenheit geschaffen wurde. Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Dashboard Umsatz - Beitrag und Trend**
+**Umsatz-Dashboard - Beitrag und Trend**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Erstkontakt anzeigen, bevor die Gelegenheit geschlossen wird</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, beinhaltet MPI Möglichkeiten, die mit mindestens einem Interessenten verbunden sind, der von einem Marketo-Programm (First Touch/FT) erworben wurde, bevor die Gelegenheit geschlossen wurde. Die Einstellungen für die explizite, implizite und Hybrid-Zuordnung gelten.</p></td> 
+   <td><p>Wenn Sie dies überprüfen, umfasst MPI Chancen, die mit mindestens einem Lead verbunden sind, der von einem Marketo-Programm erworben wurde (Erstkontakt/FT), bevor die Gelegenheit geschlossen wurde. Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Multi-Touch anzeigen, bevor die Gelegenheit geschlossen wird</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, bietet MPI Möglichkeiten mit mindestens einem Lead, das von einem Marketo-Programm erworben wurde (Multi-Touch/MT), bevor die Gelegenheit geschlossen wurde. Die Einstellungen für die explizite, implizite und Hybrid-Zuordnung gelten.</p></td> 
+   <td><p>Wenn Sie dies überprüfen, bietet MPI Möglichkeiten mit mindestens einem Lead, der von einem Marketo-Programm erworben wurde (Multi-Touch/MT), bevor die Gelegenheit geschlossen wurde. Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Kostenberechnung {#cost-calculation}
+## Kostenkalkulation {#cost-calculation}
 
-**Dashboards für Pipeline und Umsatz - Beitrag und Trend**
+**Pipeline- und Umsatz-Dashboards - Beitrag und Trend**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Basierend auf dem Investitionszeitraum</strong></td> 
-   <td>Investitionskosten werden einfach als Summe der monatlichen Kosten des Programms berechnet, die durch den Filter für den Investitionszeitraum definiert werden.</td> 
+   <td>Die Investitionskosten werden einfach als Summe der monatlichen Programmkosten berechnet, die durch den Investitionszeitraumfilter definiert werden.</td> 
   </tr> 
   <tr> 
-   <td><strong>Basierend auf Programm Attribution</strong></td> 
-   <td>Zugewiesene Kosten basieren auf einem Teil der Kosten für Programme, die durch im Programm erworbene oder erzielte Kontakte bestimmt werden und letztendlich zu einer guten Gelegenheit führten.</td> 
+   <td><strong>Basierend auf der Programmzuweisung</strong></td> 
+   <td>Die zugewiesenen Kosten basieren auf einem Anteil der Programmkosten, der durch Leads oder Kontakte bestimmt wird, die im Programm erworben wurden oder Erfolg erzielt haben und letztendlich zu einer erfolgreichen Möglichkeit geführt haben.</td> 
   </tr> 
  </tbody> 
 </table>

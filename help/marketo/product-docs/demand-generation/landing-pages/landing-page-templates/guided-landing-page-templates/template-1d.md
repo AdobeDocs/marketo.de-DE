@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 1D {#template-1d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html) herunterladen
+Rechtsklick auf [Download-Vorlage 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 

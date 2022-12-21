@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360317
-description: Benutzerpartitionen Arbeitsbereichen zuweisen - Marketo Docs - Produktdokumentation
-title: Zuweisen von Benutzerpartitionen zu Arbeitsbereichen
+description: Zuweisen von Personenpartitionen zu Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
+title: Zuweisen von Personenpartitionen zu Arbeitsbereichen
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Benutzerpartitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces} zuweisen
+# Zuweisen von Personenpartitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces}
 
-So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsbereich:
+Hier erfahren Sie, wie Sie die Personenpartition/Workspace-Zuweisungen bearbeiten:
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!PREREQUISITES]
 >
->[Neue Arbeitsfläche erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>[Neuen Arbeitsbereich erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 >[!CAUTION]
 >
->Arbeitsbereiche und Benutzerpartitionen können komplex sein. Bitte wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um Hilfe bei der Einrichtung zu erhalten.
+>Arbeitsbereiche und Personen-Partitionen können komplex sein. Bitte kontaktieren Sie uns  [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) Hilfe bei der Einrichtung.
 
-1. Klicken Sie unter Admin auf **Arbeitsbereiche und Partitionen**.
+1. Klicken Sie unter &quot;Admin&quot;auf **Arbeitsbereiche und Partitionen**.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -35,17 +34,17 @@ So bearbeiten Sie die Zuweisungen für die persönliche Partition/den Arbeitsber
 
    ![](assets/two-3.png)
 
-1. Bearbeiten Sie die persönlichen Partitionsinformationen, die Sie ändern möchten.
+1. Bearbeiten Sie die personenbezogenen Partitionsinformationen, die Sie ändern möchten.
 
    >[!NOTE]
    >
-   >Das Kontrollkästchen &quot;Partitionen aller Personen&quot;gibt an, dass dieser Arbeitsbereich Zugriff auf alle Partitionen der Person im System hat.
+   >Das Kontrollkästchen &quot;Partitionen aller Personen&quot;gibt an, dass dieser Arbeitsbereich Zugriff auf alle Personenpartitionen im System hat.
 
    ![](assets/three-3.png)
 
-   Partitionen von Primär Personen sind der Standard, in dem alle Völker eingetragen werden. Verwenden Sie die [Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuweisungsregeln](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md), um Personen zu verschieben.
+   Partitionen von Primären Personen sind die Standardeinstellung, in der alle Völker eingetragen werden. Verwendung [Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuweisungsregeln](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) um Menschen zu bewegen.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/four-3.png)
 
@@ -57,4 +56,4 @@ Herzlichen Glückwunsch!  Sie haben Ihren Arbeitsbereich erfolgreich bearbeitet!
 
 >[!MORELIKETHIS]
 >
->[Arbeitsbereiche und Benutzerpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>[Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).

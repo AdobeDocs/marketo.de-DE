@@ -73,7 +73,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 |  |  |  |  |  |
 |---|---|---|---|---|
 | Adresse | Jahresumsatz | Anonyme IP | Rechnungsadresse | Abrechnungsort |
-| Rechnungsland | Postleitzahl für Rechnung | Bundesland für Rechnung | Ort | Untern.-name |
+| Rechnungsland | Postleitzahl für Rechnung | Bundesland für Rechnung | Ort | Firmenname |
 | Land | Erstellt am | Geburtsdatum | Abteilung | Nicht aufrufen |
 | Nicht aufrufen – Grund | Nicht aufrufen – Ursache | E-Mail-Adresse | E-Mail-Adresse ungültig | Grund für ungültige E-Mail |
 | Externe Unternehmens-ID | Externe Vertriebsmitarbeiter-ID | Faxnummer | Vorname | Vollständiger Name |
@@ -88,7 +88,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 | Marketo Social – Twitter-Foto-URL | Marketo Social – Twitter-Profil-URL | Marketo Social – Twitter-Reichweite | Marketo Social – bezeichnete Registrierungen bei Twitter | Marketo Social – bezeichnete Besuche bei Twitter |
 | Zweiter Vorname | Mobiltelefonnummer | Anzahl Mitarbeiter | Telefonnummer | Postleitzahl |
 | Priorität | Relative Bewertung | Rolle | Anrede | SIC-Code |
-| Seite | Bundesland | Abgemeldet | Ursache für Abbestellung | Aktualisiert am |
+| Seite | Zustand | Abgemeldet | Ursache für Abbestellung | Aktualisiert am |
 | Dringlichkeit | Website |  |  |  |
 
 >[!NOTE]

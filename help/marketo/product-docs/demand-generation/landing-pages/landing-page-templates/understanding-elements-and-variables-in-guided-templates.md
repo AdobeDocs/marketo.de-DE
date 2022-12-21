@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7515069
-description: Elemente und Variablen in Guided Templates - Marketing Docs - Produktdokumentation
-title: Elemente und Variablen in Guided Templates
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Grundlegendes zu Elementen und Variablen in geführten Vorlagen - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu Elementen und Variablen in geführten Vorlagen
+exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Grundlegendes zu Elementen und Variablen in geführten Vorlagen {#understanding-elements-and-variables-in-guided-templates}
 
-# Elemente und Variablen in Guided Templates {#understanding-elements-and-variables-in-guided-templates}
-
-Vorlagen für Landingpages mit Guided haben zwei Typen von bearbeitbaren Bereichen: Elemente und Variablen.
+Geführte Landingpage-Vorlagen haben zwei Arten von bearbeitbaren Abschnitten: -Elemente und -Variablen.
 
 ## Elemente {#elements}
 
@@ -21,21 +20,21 @@ Elemente sind die verschiedenen Inhaltselemente, aus denen eine Landingpage best
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
-Wenn Sie eine geführte Landingpage bearbeiten, werden Elemente angezeigt, die in der Vorlage als bearbeitbar markiert wurden. Elemente haben folgende Symbole:
+Wenn Sie eine geführte Landingpage bearbeiten, werden Elemente angezeigt, die in der Vorlage als bearbeitbar markiert wurden. Elemente verfügen über die folgenden Symbole:
 
-* ![—](assets/image2015-5-20-12-3a30-3a48.png) Bild
+* ![--](assets/image2015-5-20-12-3a30-3a48.png) Bild
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo-Formular
-* ![—](assets/image2015-5-20-12-3a41-3a21.png)Text
-* ![—](assets/image2015-5-20-12-3a42-3a47.png)Video
-* ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo-Freigabe-Schaltfläche
+* ![--](assets/image2015-5-20-12-3a41-3a21.png)Text
+* ![--](assets/image2015-5-20-12-3a42-3a47.png)Video
+* ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo-Freigabeschaltfläche
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo-Umfrage
-* ![—](assets/image2015-5-20-12-3a43-3a2.png)Verweisende Stelle
+* ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo-Referenz
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo-Preisausschreiben
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-Snippet
 
 ## Variablen {#variables}
 
-Variablen sind Token-ähnliche Attribute, die wie unten dargestellt im Editor für geführte Landingpages angepasst werden können.
+Variablen sind Token-ähnliche Attribute, die über den geführten Landingpage-Editor angepasst werden können, wie unten dargestellt.
 
 ![](assets/image2015-5-20-15-3a0-3a2.png)
 
@@ -49,15 +48,15 @@ Es gibt drei Variablentypen: Zeichenfolgenvariablen, Farbvariablen und boolesche
   </tr> 
   <tr> 
    <td>Farbe</td> 
-   <td><p>Bearbeitbarer Hex-Code für Farbe</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td> 
+   <td><p>Bearbeitbarer Hex-Code für Farbe</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td> 
   </tr> 
   <tr> 
    <td>Boolesch</td> 
-   <td><p>Ein Hebel, der die Ein-/Ausschaltzustände für Objekte oder Formate auf der Landingpage steuert</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Beispiele: Fußzeile anzeigen (Ja/Nein), Spaltenanzahl (1/2), Google Analytics einbetten (Wahr/Falsch)</p></td> 
+   <td><p>Ein Hebel, der den Ein-/Ausschaltstatus von Objekten oder Formaten auf der Landingpage steuert</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiele: Fußzeile anzeigen (Ja/Nein), Spaltenanzahl (1/2), Google Analytics einbetten (True/False)</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer Vorlage für eine Landingpage mit Guided](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[Erstellen einer Vorlage für eine geführte Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

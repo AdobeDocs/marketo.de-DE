@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10093348
-description: Verstehen von Karten mit intelligenter Kampagne - Marketo Docs - Produktdokumentation
-title: Karten mit intelligenter Kampagne
+description: Smart Campaign-Karten - Marketo-Dokumente - Produktdokumentation
+title: Smart-Campaign-Karten
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Grundlagen zu Smart-Kampagnen-Karten {#understanding-smart-campaign-cards}
+# Smart-Campaign-Karten {#understanding-smart-campaign-cards}
 
-Verwenden Sie Marketo Moments, um jede Ausführung Ihrer Smart-Kampagnen von Ihrem Smartphone oder iPad aus Ansicht. Die Marketo Moments-Chipkarte für die Kampagne stellt einen einzelnen Vorgang einer Kampagne dar. Bei jeder Ausführung der intelligenten Kampagne wird eine neue Karte angezeigt. Smart-Kampagne-Karten werden oben links mit einer Glühbirne markiert.
+Verwenden Sie Marketo Moments , um die einzelnen Ausführungen Ihrer Smart-Kampagnen über Ihr Smartphone oder iPad anzuzeigen. Die Smart-Kampagnenkarte Marketo Moments stellt einen einmaligen Kampagnenstart dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Smart-Kampagnenkarten sind oben links mit einer Glühbirne markiert.
 
-Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt werden, zeigt die Marketo-Karte &quot;Moments&quot;noch keine Kampagne an. Sie werden in einer zukünftigen Version erscheinen.
+Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werden, zeigt die Karte Marketo-Momente noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version erscheinen.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
-## Smart-Kampagnen-Karten {#smart-campaign-cards}
+## Smart-Campaign-Karten {#smart-campaign-cards}
 
 1. Tippen Sie auf die Karte, um die Detailkarte zu öffnen.
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. Mit der Detailkarte haben Sie Zugriff auf Informationen zu den Filtern für die intelligente Liste, zum Fluss und zur E-Mail-Zusammenfassung.
+1. Über die Detailkarte erhalten Sie Zugriff auf Informationen zu den Smart-List-Filtern, Fluss und E-Mail-Zusammenfassung.
 
-1. Tippen Sie auf **Intelligente Liste**.
+1. Tippen **Smart List**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -35,15 +34,15 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tippen Sie auf **Fluss**.
+1. Tippen **Fluss**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Jetzt sehen Sie den Fluss der intelligenten Kampagne. Diese Kampagne hat nur einen Flussschritt, kann aber mehrere sein.
+1. Jetzt sehen Sie den Fluss der Smart-Kampagne. Diese Kampagne hat nur einen Flussschritt, aber es kann mehrere sein.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klicken Sie auf **Email Summary**.
+1. Klicken **Email Summary**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -51,7 +50,7 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Sehen Sie diese zwei Punkte unten? Sie weisen darauf hin, dass mit dieser intelligenten Kampagne zwei E-Mails verbunden sind. Um die Ansichten für die andere E-Mail-Nachricht zu erhalten, wischen Sie auf dem Bildschirm nach links. Hier sind die Ergebnisse für die zweite E-Mail.
+1. Sehen Sie diese beiden Punkte unten? Sie weisen darauf hin, dass mit dieser intelligenten Kampagne zwei E-Mails verbunden sind. Um Ergebnisse für die andere E-Mail anzuzeigen, wischen Sie den Bildschirm nach links. Hier finden Sie die Ergebnisse für die zweite E-Mail.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -59,86 +58,86 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
    >
    >Beachten Sie, dass der andere Punkt jetzt hervorgehoben wird.
 
-## Erstellen von E-Mail-Beispielen und -Vorschauen {#creating-email-samples-and-previews}
+## Erstellen von E-Mail-Beispielen und -Vorschau {#creating-email-samples-and-previews}
 
-Es ist eine gute Idee, sich eine E-Mail anzusehen, bevor sie ausgeht. Oder senden Sie eine Probe an eine andere Person, um eine zweite Reihe Augen darauf zu bekommen.
+Es ist eine gute Idee, sich eine E-Mail anzusehen, bevor sie ausgeht. Oder senden Sie ein Beispiel an eine andere Person, um eine zweite Reihe von Augen darauf zu erhalten.
 
-1. Tippen Sie in einer E-Mail auf das Menü mit drei Punkten.
+1. Tippen Sie auf das Aktionsmenü mit drei Punkten in einer E-Mail.
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tippen Sie auf [Beispiel senden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [Vorschau E-Mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (für weitere Informationen klicken Sie auf diese Links).
+1. Tippen [Beispiel senden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [Vorschau von E-Mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (Klicken Sie für weitere Informationen auf diese Links).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Bestätigung eines Vorgangs für eine intelligente Kampagne {#confirming-a-smart-campaign-run}
+## Validieren eines Smart-Campaign-Laufs {#confirming-a-smart-campaign-run}
 
-Karten für nicht bestätigte intelligente Kampagnen sind grau, bis Sie sie bestätigen. Dann werden sie orange.
+Karten für nicht bestätigte Smart-Kampagnen sind grau, bis Sie sie bestätigen. Dann werden sie orange.
 
-1. Um eine nicht bestätigte Chipkarte zu bestätigen, tippen Sie auf das Menü mit den drei Punkten.
+1. Um eine nicht bestätigte Smart-Kampagnenkarte zu bestätigen, tippen Sie auf das Menü mit den drei Punkten für die Aktion .
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tippen Sie auf **Bestätigen**.
+1. Tippen **Bestätigen**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tippen Sie auf **Bestätigen**, um den Auftrag abzuschließen, oder **Nie Mind**, wenn Sie zweite Gedanken haben.
+1. Tippen **Bestätigen** , um den Auftrag abzuschließen, oder **Niemals Mind** wenn Sie zweite Gedanken haben.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
    >[!NOTE]
    >
-   >Jetzt wird Ihre Karte in Orange!
+   >Jetzt wird Ihre Karte in Orange umgestellt!
 
-## Abbrechen einer Ausführung einer intelligenten Kampagne {#canceling-a-smart-campaign-run}
+## Abbrechen eines Smart-Campaign-Laufs {#canceling-a-smart-campaign-run}
 
-Sie können eine bestätigte, geplante Ausführung intelligenter Kampagnen abbrechen.
+Sie können einen bestätigten, geplanten Smart-Kampagnenlauf abbrechen.
 
-1. Tippen Sie auf das Menü mit drei Punkten.
+1. Tippen Sie auf das Menü mit den drei Punkten.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tippen Sie auf **Ausführen abbrechen**.
+1. Tippen **Ausführen abbrechen**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tippen Sie auf **Ausführen abbrechen**. Wenn Sie in letzter Minute festlegen, dass die Ausführung nicht abgebrochen wird, tippen Sie auf **Niemals Mind**, und die intelligente Kampagne wird wie geplant ausgeführt.
+1. Tippen **Ausführen abbrechen**. Wenn Sie sich in letzter Minute entscheiden, den Lauf nicht abzubrechen, tippen Sie auf **Niemals Mind** und die Smart-Kampagne wie geplant ausgeführt wird.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
-## Umplanen einer intelligenten Kampagne {#rescheduling-a-smart-campaign}
+## Planen einer Smart-Kampagne {#rescheduling-a-smart-campaign}
 
-Sie können eine bestätigte intelligente Kampagne, die noch nicht ausgeführt wurde, neu planen.
+Sie können eine bestätigte Smart-Kampagne, die noch nicht ausgeführt wurde, neu planen.
 
-1. Tippen Sie auf das Menü mit drei Punkten.
+1. Tippen Sie auf das Menü mit den drei Punkten.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tippen Sie auf **Neu planen**.
+1. Tippen **Zeitplan**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Neu planen**.
+1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Zeitplan**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
    Kuchen!
 
-## Andere Aktionen für intelligente Kampagnen {#other-smart-campaign-actions}
+## Andere Smart-Campaign-Aktionen {#other-smart-campaign-actions}
 
-Wie bei anderen Marketo-Moments-Karten können Sie auf jeder Smart-Kampagne- oder Detailkarte auf die drei Punkte tippen, um:
+Wie bei anderen Marketo-Momenten-Karten können Sie auf die drei Punkte auf einer beliebigen Smart-Campaign-Karte oder einer Detailkarte tippen, um:
 
-* [Mach es zum Favoriten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markieren Sie das Ergebnis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Als Favoriten festlegen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markieren Sie es fertig](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Freigeben](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
 >[!NOTE]
 >
->Sie können auch auf das Symbol **Freigeben** auf einer Smart-Kampagne, die freigegeben werden soll, und auf die Symbole **Fertig** und **Favorit** auf der Detailkarte tippen.
+>Sie können auch auf die **Freigeben** auf einer Karte mit intelligenter Kampagne, die freigegeben werden soll, und **Fertig** und **Favorit** auf der Detailkarte.
 
-## Schnelles Löschen einer Smart-Kampagne-Karte {#quickly-delete-a-smart-campaign-card}
+## Schnelles Löschen einer Smart-Campaign-Karte {#quickly-delete-a-smart-campaign-card}
 
-Wenn Sie eine Karte haben, die Sie nicht mehr benötigen, vielleicht eine, die Sie zum Testen verwendet haben, können Sie sie mit einer schnellen Blättergeste nach links oder rechts entfernen.
+Wenn Sie eine Karte haben, die Sie nicht mehr benötigen, vielleicht eine, die Sie zum Testen verwendet haben, können Sie sie mit einem schnellen Wischen nach links oder rechts entfernen.

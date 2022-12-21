@@ -1,59 +1,57 @@
 ---
 unique-page-id: 2359520
-description: '"Datum/Uhrzeit" A/B-Test - Marketing Docs - Produktdokumentation'
-title: Verwendung von "Datum/Uhrzeit" A/B-Tests
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Verwenden von "Datum/Uhrzeit"-A/B-Tests - Marketo-Dokumente - Produktdokumentation
+title: Verwenden von A/B-Tests "Datum/Uhrzeit"
+exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
+# Verwenden von A/B-Tests &quot;Datum/Uhrzeit&quot; {#use-date-time-a-b-testing}
 
-# &quot;Datum/Uhrzeit&quot; A/B-Tests verwenden {#use-date-time-a-b-testing}
-
-Sie können Ihre E-Mails ganz einfach A/B testen. Ein Test ist der **Date/Time**-Test. Dadurch wird getestet, zu welcher Tageszeit oder an welchem Wochentag E-Mails am besten gesendet werden. So richten Sie es ein:
+Sie können Ihre E-Mails einfach per A/B-Test testen. Ein Test ist **Datum/Uhrzeit** Test. Dadurch wird getestet, welche Tageszeit oder welcher Wochentag für den Versand von E-Mails am besten geeignet ist. So richten Sie es ein.
 
 >[!PREREQUISITES]
 >
->[hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-
-1. Klicken Sie unter der Kachel **E-Mail** auf **Hinzufügen A/B-Test**.
+1. Unter dem **Email** tile, click **A/B-Test hinzufügen**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. Ein neues Fenster wird geöffnet. Wählen Sie **Datum/Uhrzeit** für **Testtyp**.
+1. Ein neues Fenster wird geöffnet. Auswählen **Datum/Uhrzeit** für **Testtyp**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. Wenn Sie bereits über vorherige Testinformationen verfügen (z. B. einen Betreff-Test), können Sie sicher auf **Test zurücksetzen** klicken.
+1. Wenn Sie über vorherige Testinformationen verfügen (z. B. über einen Betrefftest), können Sie sicher auf **Test zurücksetzen**.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
-1. Wählen Sie das Datum für das erste Datum/die erste Uhrzeit aus.
+1. Wählen Sie das Datum für Ihr erstes Datum/Ihre erste Uhrzeit aus.
 
    ![](assets/image2014-9-12-15-3a41-3a26.png)
 
-1. Wählen Sie die Zeit für das erste Datum/die erste Uhrzeit aus.
+1. Wählen Sie die Zeit für Ihr erstes Datum/Ihre erste Uhrzeit aus.
 
    ![](assets/image2014-9-12-15-3a41-3a33.png)
 
-1. Dasselbe gilt für das zweite Datum/die zweite Uhrzeit.
+1. Wiederholen Sie den Vorgang für das zweite Datum/die zweite Uhrzeit.
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. Verwenden Sie den Schieberegler, um den Prozentwert der Audience auszuwählen, die Sie im A/B-Test verwenden möchten, und klicken Sie auf **Weiter**.
+1. Wählen Sie mit dem Schieberegler den Prozentsatz der Audience aus, den Sie für Ihren A/B-Test verwenden möchten, und klicken Sie auf **Nächste**.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 
    >[!NOTE]
    >
-   >Die verschiedenen Varianten gelten für gleiche Teile der ausgewählten Stichprobengröße.
+   >Die verschiedenen Varianten gelten für gleiche Teile der ausgewählten Teststichprobengröße.
 
    >[!CAUTION]
    >
-   >**Es wird empfohlen, die Stichprobengröße nicht auf 100%** festzulegen. Wenn Sie eine statische Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience gesendet und der Gewinner erhält niemanden. Wenn Sie eine **smart**-Liste verwenden, wird bei einer Stichprobengröße von 100 % die E-Mail an alle Benutzer in der Audience _zu diesem Zeitpunkt_ gesendet. Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten alle neuen Personen, die sich für die intelligente Liste qualifizieren, ebenfalls die E-Mail, da sie jetzt in der Audience enthalten sind.
+   >**Es wird empfohlen, die Stichprobengröße nicht auf 100 % festzulegen**. Wenn Sie eine statische Liste verwenden, sendet die Einstellung der Stichprobengröße auf 100 % die E-Mail an alle Benutzer der Zielgruppe und der Gewinner an niemanden. Wenn Sie eine **smart** Liste, bei der die Stichprobengröße auf 100 % gesetzt wird, sendet die E-Mail an alle Benutzer der Zielgruppe _zu diesem Zeitpunkt_. Wenn das E-Mail-Programm zu einem späteren Zeitpunkt erneut ausgeführt wird, erhalten auch alle neuen Personen, die sich für die Smart-Liste qualifizieren, die E-Mail, da sie jetzt in der Audience enthalten sind.
 
-   Okay, wir sind einen Schritt näher. Jetzt müssen wir [die Kriterien für den Gewinner des A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) definieren.
+   Okay, wir sind einen Schritt näher. Jetzt müssen wir [Definieren der Kriterien für den A/B-Test-Gewinner](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).

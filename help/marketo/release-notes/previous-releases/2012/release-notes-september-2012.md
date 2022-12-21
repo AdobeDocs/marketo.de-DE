@@ -16,7 +16,7 @@ Diese Version beinhaltet hoch erwartete, integrierte soziale Funktionen und Lead
 
 ## Veröffentlichen eines YouTube-Videos mit Social Sharing {#publish-a-youtube-video-with-social-sharing}
 
-Mithilfe der neuen Videofreigabe auf Ihren Landingpages können Sie die Zielgruppe für Ihre Videos erweitern, indem Sie Ihre Besucher dazu ermutigen, diese in sozialen Netzwerken zu teilen.
+Mithilfe der neuen Videofreigabe auf Ihren Landingpages können Sie die Zielgruppe für Ihre Videos erweitern, indem Sie Ihre Besucher dazu anregen, diese in sozialen Netzwerken zu teilen.
 
 ![](assets/image2014-9-23-10-3a39-3a21.png)
 
@@ -44,7 +44,7 @@ Verbinden Sie nahtlos ein Marketo-Ereignis mit einem ReadyTalk-Meeting. Verwende
 
 ## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
 
-Microsoft Dynamics 2011 wird jetzt On-Premise mit einer Internet-Facing-Bereitstellung unterstützt.
+Microsoft Dynamics 2011 wird jetzt On-Premise mit einer Internet-Facing-Implementierung unterstützt.
 
 ## Webhooks (Schatztruhe) {#webhooks-treasure-chest}
 

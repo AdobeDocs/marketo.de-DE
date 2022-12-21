@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2359722
-description: hinzufügen eines Videos zu einer Freiformversion-Landingpage - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Videos in eine Freiform-Landingpage
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hinzufügen eines Videos zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen eines Videos zu einer Freiform-Landingpage
+exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Hinzufügen eines Videos zu einer Freiform-Landingpage {#add-a-video-to-a-free-form-landing-page}
 
-# hinzufügen eines Videos in eine Freiform-Landingpage {#add-a-video-to-a-free-form-landing-page}
-
-Stellen Sie Videos mit Social Sharing-Optionen auf Ihren Landingpages bereit.
+Fügen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ein.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Navigieren Sie zu Ihrer Freiform-Landingpage und klicken Sie auf **Entwurf bearbeiten**.
+1. Navigieren Sie zu Ihrer Landingpage ohne Konfiguration und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. Ziehen Sie über **Video** aus den Elementen auf der rechten Seite.
+1. Verschieben **Video** aus den Elementen auf der rechten Seite.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. Wählen Sie **Neu erstellen** aus dem Dropdown-Menü.
+1. Auswählen **Neu erstellen** aus dem Dropdown-Menü.
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >Die Funktion **Neu erstellen** wird nur in den Marketing-Aktivitäten angezeigt. es ist in Design Studio nicht verfügbar. In Design Studio sind nur bereits erstellte Videos verfügbar. Sie können jedoch eine Videofreigabe _in einem Programm_ erstellen, indem Sie **Neu** > **Neues lokales Element** auswählen. Sie können es dann aus der Dropdown-Liste auswählen, wie hier gezeigt.
+   >Die **Neu erstellen** -Funktion nur in Marketingaktivitäten angezeigt wird; ist es in Design Studio nicht verfügbar. In Design Studio sind nur bereits erstellte Videos verfügbar. Sie können jedoch eine Videofreigabe erstellen _innerhalb eines Programms_ durch Auswahl **Neu** > **Neues lokales Asset**. Sie können sie dann aus der Dropdown-Liste auswählen, wie hier dargestellt.
 
-1. Geben Sie die URL des YouTube-Videos ein und geben Sie dem Video einen Namen. Wählen Sie unter der Dropdownliste Klonen von **Keine** und klicken Sie dann auf **Einfügen**.
+1. Geben Sie die URL des YouTube-Videos ein und geben Sie Ihrem Video einen Namen. Wählen Sie unter der Dropdown-Liste Klonen aus die Option **Keines** Klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einer vorhandenen Videofreigabe kopieren.
+>Um Zeit zu sparen, können Sie die **Klonen von** -Option, um alle Einstellungen aus einer vorhandenen Videofreigabe zu kopieren.
 
-Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können die Landingpage auch unter [auf Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [veröffentlichen und die Videofreigabe auf Ihre Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md) setzen.
+Herzlichen Glückwunsch!  Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Legen Sie die Videofreigabe auf Ihrer Website ab.](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->Sie sind fertig, aber Sie können bei Bedarf die Einstellungen für Ihre Videofreigabe ändern. Beginn mit [Anpassen des Share-Flusses](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Freigabeaufforderung geöffnet wird).
+>Sie sind fertig, aber Sie können bei Bedarf die Einstellungen Ihrer Videofreigabe ändern. Beginnen mit  [Anpassen des Freigabeflusses](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Freigabeaufforderung geöffnet wird).

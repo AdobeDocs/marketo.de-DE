@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2360341
-description: Benutzerdefinierte Felder mit dem Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation synchronisieren
+description: Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
+# Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren {#sync-custom-fields-to-the-revenue-explorer}
 
-# Benutzerdefinierte Felder mit dem Umsatz-Explorer {#sync-custom-fields-to-the-revenue-explorer} synchronisieren
-
-In &quot;Umsatz-Cycle-Analysen&quot;können Berichte zu benutzerdefinierten Marketing-Feldern erstellt werden, damit Sie die zu synchronisierenden benutzerdefinierten Felder festlegen können.
+In &quot;Umsatz-Cycle Analytics&quot;können Berichte zu benutzerdefinierten Marketo-Feldern erstellt werden. Dazu müssen Sie die benutzerdefinierten Felder festlegen, die synchronisiert werden sollen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Gehen Sie zum Abschnitt **Admin**.
+1. Navigieren Sie zu **Admin** Abschnitt.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Wählen Sie **Revenue Cycle Analytics**.
+1. Auswählen **Umsatzzyklusanalysen**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Klicken Sie auf die Registerkarte **Benutzerdefinierte Feldsynchronisierung** und wählen Sie den gewünschten Bereich für die Analyse aus.
+1. Klicken Sie auf **Benutzerdefinierte Feldsynchronisierung** und wählen Sie den gewünschten Analysebereich aus.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Wählen Sie das Feld aus, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option zum Bearbeiten der Synchronisierung**.
+1. Wählen Sie das Feld aus, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option &quot;Sync bearbeiten&quot;**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Ändern Sie **Synchronisierungsstatus** in **Aktiviert**.
+1. Ändern Sie die **Synchronisierungsstatus** nach **Aktiviert**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Wählen Sie den **RCA-Typ** Ihrer Wahl aus und klicken Sie dann auf **Speichern**.
+1. Wählen Sie die **RCA-Typ** Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
    >[!TIP]
    >
-   >Nach der Aktivierung sind die Daten am folgenden Tag in der Analytics für den Umsatzzyklus verfügbar.
+   >Nach der Aktivierung sind die Daten am folgenden Tag in der Umsatzzyklusanalyse verfügbar.
 
-   Gute Arbeit! Jetzt wissen Sie, wie Sie RCA benutzerdefinierte Felder hinzufügen können.
+   Gut gemacht! Jetzt wissen Sie, wie Sie benutzerdefinierte Felder zu RCA hinzufügen können.

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359567
-description: Champion/Challenger - Berichtwarnungen konfigurieren - Marketing Docs - Produktdokumentation
+description: Champion/Challenger - Berichtwarnungen konfigurieren - Marketo-Dokumente - Produktdokumentation
 title: Champion/Challenger - Berichtwarnungen konfigurieren
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
 # Champion/Challenger: Berichtwarnungen konfigurieren {#champion-challenger-configure-report-alerts}
 
-Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie man es einplanen kann.
+Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie man es plant.
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger: Champion Criteria definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[Champion/Challenger: Champion-Kriterien definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
-1. Planen wir, dass der Bericht am Freitag um 9 Uhr einmal pro Woche versendet wird.
+1. Planen wir, dass der Bericht einmal wöchentlich am Freitag um 9 Uhr gesendet wird.
 
    ![](assets/image2014-9-15-13-3a12-3a56.png)
 
@@ -31,15 +30,15 @@ Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie m
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken **Nächste**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. Vergewissern Sie sich, dass alle Informationen korrekt sind, und klicken Sie auf **Schließen**.
+1. Überprüfen Sie, ob alle Informationen korrekt sind, und klicken Sie auf **Schließen**.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
-   Der Bericht enthält hilfreiche Details wie: Testtyp, Gewinnerkriterien, Anzahl der geöffneten E-Mails und mehr. Es gibt auch einen direkten Link zum Test selbst, sodass Sie den Gewinner angeben können! Cool Zeug.
+   Der Bericht enthält hilfreiche Details, z. B.: Testtyp, Gewinnerkriterien, Anzahl der E-Mail-Öffnungen und mehr. Es gibt auch einen direkten Link zum Test selbst, der es Ihnen ermöglicht, den Gewinner zu bestimmen! Kohles Zeug.
 
    >[!MORELIKETHIS]
    >

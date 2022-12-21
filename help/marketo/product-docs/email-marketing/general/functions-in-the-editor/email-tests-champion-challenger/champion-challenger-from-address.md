@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2359559
 description: Champion/Challenger - Von Adresse - Marketo Docs - Produktdokumentation
-title: Champion/Challenger - Von Adresse
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+title: Champion/Challenger - From Address
+exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
 # Champion/Challenger: Von Adresse {#champion-challenger-from-address}
 
-Sie möchten eine andere Adresse ohne Aufhebens ausprobieren? So geht es.
+Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
 
 >[!PREREQUISITES]
 >
->[hinzufügen eines E-Mail-Champions/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Testeditor in der Dropdown-Liste **Testtyp** die Option **Von Adresse**.
+1. Wählen Sie im E-Mail-Test-Editor **Von Adresse** im **Testtyp** Dropdown-Liste.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Die erste &quot;Von Adresse&quot;wird als **Champion** bezeichnet. Nachfolgende Adressen werden als **Herausforderungen** bezeichnet.
+   >Die erste Absenderadresse wird als **Champion**. Nachfolgende Adressen werden aufgerufen **Herausforderungen**.
 
-1. Geben Sie für die Herausforderer **Von Name** (links) und **Von Adresse** (rechts) ein.
+1. Geben Sie die **Aus Name** (links) und **Von Adresse** (rechts) für die Herausforderer.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
    >[!TIP]
    >
-   >Wenn Sie mehr als einen Herausforderer haben möchten, klicken Sie auf das Pluszeichen und geben Sie einen anderen Namen und eine E-Mail-Adresse ein.
+   >Wenn Sie mehr als einen Challenger benötigen, klicken Sie auf das Pluszeichen und geben Sie einen anderen Namen und eine E-Mail-Adresse ein.
 
-1. Ziehen Sie den Schieberegler, um die prozentuale Aufteilung zwischen Personen, die E-Mails mit dem Champion From Address erhalten, und denjenigen, die E-Mails mit dem Herausforderer From Address(es) erhalten, festzulegen.
+1. Ziehen Sie den Schieberegler, um die Prozentaufteilung zwischen Personen zu bestimmen, die E-Mails mit dem Champion From Address erhalten, und jenen, die E-Mails mit dem Herausforderer From Address(es) erhalten.
 
    ![](assets/image2014-9-15-12-3a53-3a1.png)
 
@@ -43,11 +42,11 @@ Sie möchten eine andere Adresse ohne Aufhebens ausprobieren? So geht es.
    >
    >**Beispiel**
    >
-   >In der oben gezeigten Distribution erhalten 15 % der in der Smart-Liste angegebenen Audience eine E-Mail mit einem Herausforderer von der Adresse und 85 % erhalten die E-Mail mit dem Champion From Address. E-Mails für mehrere Herausforderer von Adressen weisen die gleichen 15 % auf. Wenn der Test beendet ist, können Sie einen Gewinner manuell angeben. Von da an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
+   >In der oben gezeigten Verteilung erhalten 15 % der in der Smart-Liste angegebenen Gesamtzielgruppe eine E-Mail mit einer herausfordernden Person aus Adresse und 85 % erhalten die E-Mail mit dem Champion From Address. E-Mails für mehrere Herausforderer von Adressen teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
 
-   Um eine statistische Konfidenz zu erhalten, müssen Sie einen Prozentsatz auswählen, der genügend Personen enthält, die für Ihren Test gültig sind. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen zum statistischen Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval) als je zuvor.
+   Stellen Sie sicher, dass Sie einen Prozentsatz auswählen, der genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken **Nächste**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
@@ -55,4 +54,4 @@ Sie möchten eine andere Adresse ohne Aufhebens ausprobieren? So geht es.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Champion Criteria definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Champion-Kriterien definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 14352412
-description: hinzufügen Identity - Marketing Docs - Produktdokumentation
-title: hinzufügen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Identität hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: Identität hinzufügen
+exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Identität hinzufügen {#add-identity}
 
-# hinzufügen Identität {#add-identity}
+Fügen Sie eine Identität hinzu, wenn Sie über mehrere E-Mail-Adressen verfügen, von denen Sie eine Nachricht senden können.
 
-hinzufügen eine Identität, wenn mehrere E-Mail-Adressen gesendet werden sollen.
+1. Klicken Sie auf das Symbol Einstellungen .
 
-1. Klicken Sie auf das Symbol Einstellungen.
+1. Klicken **E-Mail-Einstellungen**.
 
-1. Klicken Sie auf **E-Mail-Einstellungen**.
+1. Klicken **Identität hinzufügen**.
 
-1. Klicken Sie auf **Hinzufügen Identität**.
-
-1. Geben Sie Ihre Informationen ein (E-Mail und Name sind die erforderlichen Felder), und klicken Sie nach Abschluss des Vorgangs auf **Erstellen**.
+1. Geben Sie Ihre Informationen ein (E-Mail und Name sind erforderliche Felder) und klicken Sie auf **Erstellen** wann geschehen.
 
 1. Klicken Sie auf den Link in der Bestätigungs-E-Mail, die Sie erhalten.
 
@@ -33,4 +32,4 @@ hinzufügen eine Identität, wenn mehrere E-Mail-Adressen gesendet werden sollen
 
    >[!MORELIKETHIS]
    >
-   >[hinzufügen Ihre E-Mail-Signatur](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+   >[E-Mail-Signatur hinzufügen](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

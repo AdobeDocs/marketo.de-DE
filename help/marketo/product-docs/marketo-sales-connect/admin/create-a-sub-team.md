@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352406
-description: Erstellen eines Unterteams - Marketing Docs - Produktdokumentation
+description: Erstellen eines Unterteams - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Unterteams
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines Unterteams {#create-a-sub-team}
 
@@ -19,11 +18,11 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Teamverwaltung**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Team-Management**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie neben Alle Teams auf **+**.
+1. Klicken Sie neben Alle Teams auf die Schaltfläche **+**.
 
    ![](assets/three-1.png)
 
@@ -35,9 +34,9 @@ ht-degree: 0%
    >
    >Sie können nun Vorlagen, Kampagnen und Gruppen für dieses Team freigeben.
 
-## hinzufügen Personen in Ihr Unterteam {#add-people-to-your-sub-team}
+## Personen zu Ihrem Unterteam hinzufügen {#add-people-to-your-sub-team}
 
-1. Wählen Sie in Team Management weiterhin die Gruppe **Alle** aus.
+1. Wählen Sie im Team Management weiterhin die Option **Alle** hinzugefügt.
 
    ![](assets/five-1.png)
 
@@ -45,14 +44,14 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Hinzufügen Ausgewählte Teams**.
+1. Klicken **Auswahl zu Teams hinzufügen**.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf die Dropdownliste und wählen Sie die gewünschten Teams aus.
+1. Klicken Sie auf das Dropdown-Menü und wählen Sie die gewünschten Teams aus.
 
    ![](assets/eight.png)
 
-1. Klicken Sie abschließend auf **Hinzufügen auf Teams**.
+1. Klicken **Hinzufügen zu Teams** wann geschehen.
 
    ![](assets/nine.png)

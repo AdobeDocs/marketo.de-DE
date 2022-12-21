@@ -1,9 +1,8 @@
 ---
 unique-page-id: 7504058
 description: Clone a Presentation - Marketo Docs - Produktdokumentation
-title: Clone a Presentation
+title: Unterbreitung klonen
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
@@ -11,11 +10,11 @@ ht-degree: 1%
 
 ---
 
-# Clone a Presentation {#clone-a-presentation}
+# Unterbreitung klonen {#clone-a-presentation}
 
 Klonen Sie eine Präsentation zur Wiederverwendung an verschiedenen Orten.
 
-1. Wählen Sie die Präsentation aus, die Sie klonen möchten.
+1. Wählen Sie die zu klonende Präsentation aus.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
@@ -27,4 +26,4 @@ Klonen Sie eine Präsentation zur Wiederverwendung an verschiedenen Orten.
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
-   Sehr gut! Eine genaue Kopie Ihrer Präsentation ist jetzt vorhanden.
+   Sehr gut! Eine exakte Kopie Ihrer Präsentation ist jetzt verfügbar.

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146999
-description: Trigger-Tokens für interessante Momente - Marketo Docs - Produktdokumentation
+description: Trigger-Token für interessante Momente - Marketo-Dokumente - Produktdokumentation
 title: Trigger-Token für interessante Momente
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
@@ -15,19 +14,19 @@ ht-degree: 30%
 
 >[!PREREQUISITES]
 >
->Hier erfahren Sie, wie Sie den Schritt [Interessanter Moment-Fluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) verwenden.
+>Erfahren Sie, wie Sie die [Interessanter Moment Flow-Schritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
-## Verfügbare Tokens {#available-tokens}
+## Verfügbare Token {#available-tokens}
 
-Sehen Sie sich [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
+Checkout [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
 
-## Trigger-Tokens {#trigger-tokens}
+## Trigger-Token {#trigger-tokens}
 
-Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zusätzliche Trigger-Token zur Verfügung.
+Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzliche Trigger-Token bereitgestellt.
 
-* `{{trigger.Trigger Name}}` was immer der eigentliche Trigger ist. Beispiel: Klicken Sie in der E-Mail auf Link.
-* `{{trigger.Name}}` der Name des Assets, das die Kampagne ausgelöst hat. Beispiel: Klicks Link auf der Webseite ist die URL selbst, Betreff für Salesforce Trigger, etc.
-* Weitere Trigger stehen aufgrund von Einschränkungen zur Verfügung, die nachfolgend aufgeführt sind.
+* `{{trigger.Trigger Name}}` ist immer der eigentliche Trigger selbst. Beispiel: Klicks Link in E-Mail.
+* `{{trigger.Name}}` ist der Name des Assets, das die Kampagne ausgelöst hat. Beispiel: Klicks Link auf der Webseite ist die URL selbst, Betreff für Salesforce-Trigger usw.
+* Zusätzliche Trigger sind basierend auf Einschränkungen verfügbar, die unten aufgeführt sind.
 
 **E-Mail-Trigger**
 
@@ -84,7 +83,7 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zus�
    <td><br></td>
   </tr> 
   <tr> 
-   <td>E-Mail-Absprünge hart</td> 
+   <td>Hard-E-Mail-Bounces</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -118,7 +117,7 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zus�
    <td><br></td>
   </tr> 
   <tr> 
-   <td>E-Mail wird gesendet</td> 
+   <td>E-Mail wird bereitgestellt</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -804,9 +803,9 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zus�
 
 >[!NOTE]
 >
->Wenn es keinen Häkchen hat ![(tick)](assets/check.png) würde es eine leere Zeichenfolge (nichts) im interessanten Moment zurückgeben.
+>Wenn keine Prüfung vorhanden ist ![(Häkchen)](assets/check.png) dann würde es eine leere Zeichenfolge (nichts) im interessanten Moment zurückgeben.
 
-*Der Trigger **Webseite &quot;Besuche&quot;** verfügt über einige zusätzliche Token:
+&#42;Der Trigger **Besuche-Webseite** verfügt über einige zusätzliche Token:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -814,6 +813,6 @@ Je nach Trigger, der in einer intelligenten Kampagne verwendet wird, stehen zus�
 
 >[!TIP]
 >
->Testen Sie immer Ihre interessanten Momente, um sicherzustellen, dass sie die von Ihnen gewünschte Art darstellen.
+>Testen Sie immer Ihre interessanten Momente, um sicherzustellen, dass sie wie gewünscht rendern.
 >
->Auch, stellen Sie sicher, dass es für den Verkäufer interessant ist, nicht nur für Sie!
+>Stellen Sie außerdem sicher, dass es für den Vertriebsmitarbeiter interessant ist, nicht nur für Sie!

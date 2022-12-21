@@ -22,12 +22,12 @@ Die folgenden Funktionen wurden am 16. August 2019 veröffentlicht.
 
 * **Erweiterbares Webinar-Framework**: Sparen Sie Zeit mit dem neuen vordefinierten Webinar-Framework von Marketo (eingeführt in den Winter-Versionshinweisen zu 19), mit dem Daten von Webinar-Anbietern nahtlos an Marketo weitergegeben werden und umgekehrt. In diesem neuen Framework sind jetzt Cvent und Zoom verfügbar.
 * **API-Update für Smart Campaign**: Verwalten Sie die Lebenszyklusfunktionen intelligenter Kampagnen, während wir die Benutzeroberfläche von CRUD (Erstellen, Lesen, Aktualisieren, Löschen) abrunden.
-* **Änderung der E-Mail-Kopfzeilen-API**: Für die Update-E-Mail-Header-API ist es nicht mehr erforderlich, dass eine E-Mail über eine angehängte Vorlage verfügt, um Kopfzeilenfelder wie die Betreffzeile zu aktualisieren.
+* **Änderung der E-Mail-Header-API**: Für die Update-E-Mail-Header-API ist es nicht mehr erforderlich, dass eine E-Mail über eine angehängte Vorlage verfügt, um Kopfzeilenfelder wie die Betreffzeile zu aktualisieren.
 
-**Kontobasiertes Marketing** ![ (Stern)](assets/yellow-star.png)
+**Account-Based Marketing** ![(Stern)](assets/yellow-star.png)
 
-* **Die linkedIn-Kontoübereinstimmung**, die zuvor in der Beta-Version verfügbar war, ist jetzt allgemein verfügbar.
-* **** AccountAIwird offiziell als  **Kontoprofiling** umbenannt.
+* **linkedIn-Kontoübereinstimmung**, zuvor in der Beta-Phase, ist jetzt allgemein verfügbar.
+* **AccountAI** offiziell umbenannt als **Kontoprofil**.
 
 <br> 
 
@@ -35,18 +35,18 @@ Die folgenden Funktionen wurden am 16. August 2019 veröffentlicht.
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden im dritten Kalenderquartal und Anfang Q4 2019 veröffentlicht.
 
-**Marketo Sales Connect** ![ (Stern)](assets/yellow-star.png)
+**Marketo Sales Connect** ![(Stern)](assets/yellow-star.png)
 
 * **Verbesserung des Benutzerseitenlayouts:** Verwalten Sie Ihre Personen und Gruppen durch Listenimporte und Massenaktionen im neuen Personen-Seitenlayout.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern ( ![(star)](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo-Support-Mitarbeiter.
+>Mit einem Stern gekennzeichnete Funktionen ( ![(Stern)](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo-Support-Mitarbeiter.
 
 >[!NOTE]
 >
 >**Einstellung von TLS 1.0 und 1.1**: Um dem Weltsicherheitsstandard von Adobe zu entsprechen, wird die Unterstützung für Transport Layer Security (TLS) 1.0 und 1.1 ab dem 13. Dezember 2019 eingestellt. Bei Systemen, die mit Marketo integriert werden und nicht mit dem 1.2-Protokoll kompatibel sind, kann möglicherweise der Zugriff auf Marketo Engage Services verloren gehen.
 >
->**Um den Zugriff auf Ihr Marketo Engage aufrechtzuerhalten, stellen Sie sicher, dass alle Client-Systeme vor dem 13. Dezember 2019** TLS 1.2-kompatibel sind. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Um den Zugriff auf Ihr Marketo Engage aufrechtzuerhalten, stellen Sie sicher, dass alle Client-Systeme vor dem 13. Dezember 2019 TLS 1.2-kompatibel sind.**. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Produktversion_** [WebinarNehmen Sie ](https://engage.marketo.com/August_19_Release_Webinar.html) am 28. August um 13:00 Uhr PT/16:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Treten Sie uns bei](https://engage.marketo.com/August_19_Release_Webinar.html) am 28. August um 13:00 PT / 16:00 PM ET für ein Live-Webinar, das von unserem Produktteam gehostet wird, und mehr über die Funktionen in dieser Version erfahren.

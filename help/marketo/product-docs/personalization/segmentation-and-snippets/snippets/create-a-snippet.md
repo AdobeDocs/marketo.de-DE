@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359459
-description: Erstellen eines Snippets - Marketing Docs - Produktdokumentation
+description: Erstellen eines Snippets - Marketo Docs - Produktdokumentation
 title: Snippet erstellen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
+# Snippet erstellen {#create-a-snippet}
 
-# Erstellen eines Snippets {#create-a-snippet}
+Snippets können als dynamische Inhaltsbausteine in **E-Mails** und **Landingpages**.
 
-Snippets können als dynamische Inhaltsblöcke bei **E-Mails** und **Landingpages** verwendet werden.
-
-1. Gehen Sie zum **Design Studio.**
+1. Navigieren Sie zu **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **New** und dann **New Snippet**.
+1. Klicken **Neu** und dann **Neuer Snippet**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,10 +26,10 @@ Snippets können als dynamische Inhaltsblöcke bei **E-Mails** und **Landingpage
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Snippets für Ihren dynamischen Inhalt erstellen. Jetzt können Sie fortfahren und [Inhalte zu Ihrem neuen Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Snippets für Ihren dynamischen Inhalt erstellen. Jetzt können Sie fortfahren und [Inhalt zu Ihrem neuen Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [hinzufügen von Inhalten in ein Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
->* [Dynamische Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
+>* [Inhalt zu einem Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Grundlagen zu dynamischen Inhalten](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
 

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 4719302
-description: Benutzerdefinierte Objektsynchronisierung ohne Englisch aktivieren - Marketo Docs - Produktdokumentation
-title: Benutzerdefinierte Objektsynchronisierung für Nicht-Englisch aktivieren
+description: Benutzerdefinierte Objektsynchronisierung für Nicht-Englisch aktivieren - Marketo-Dokumente - Produktdokumentation
+title: Aktivieren der nicht englischsprachigen benutzerdefinierten Objektsynchronisierung
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
@@ -11,53 +10,53 @@ ht-degree: 0%
 
 ---
 
-# Nicht-englischsprachige benutzerdefinierte Objektsynchronisierung aktivieren {#enable-non-english-custom-object-sync}
+# Aktivieren der nicht englischsprachigen benutzerdefinierten Objektsynchronisierung {#enable-non-english-custom-object-sync}
 
-Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch eingestellt ist, wird möglicherweise ein Fehler ausgegeben, wenn versucht wird, eine benutzerdefinierte Objektsynchronisierung zu aktivieren.
+Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch festgelegt ist, tritt möglicherweise ein Fehler auf, wenn Sie versuchen, eine benutzerdefinierte Objektsynchronisierung zu aktivieren.
 
 ## Der Fehler {#the-error}
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Umschließen {#getting-around-it}
+## Umgehen {#getting-around-it}
 
-1. Melden Sie sich mit dem Marker bei Salesforce an, um den Benutzer zu synchronisieren.
+1. Melden Sie sich mit dem Marketo zur Benutzersynchronisierung bei Salesforce an.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Wechseln Sie unter dem Benutzernamen zu **Setup**.
+1. Navigieren Sie unter dem Benutzernamen zu **Einrichtung**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Klicken Sie unter **Persönliche Informationen** auf **Meine persönlichen Informationen**.
+1. under **Persönliche Informationen** klicken **Meine personenbezogenen Daten**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Klicken Sie auf **Bearbeiten**.
+1. Klicken **Bearbeiten**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Ändern Sie **Sprache** in **Englisch**.
+1. Ändern Sie die **Sprache** nach **englisch**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Zurück in Marketo unter **Admin > Salesforce > Objekte** klicken Sie auf **Schema aktualisieren**.
+1. Zurück in Marketo, unter **Admin > Salesforce > Objekte** click **Schema aktualisieren**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Dadurch werden die Objekte in englischer Liste gezogen. Wählen Sie jetzt das Objekt Ihrer Wahl aus und klicken Sie auf **Synchronisierung aktivieren**.
+1. Dadurch wird die Objektliste in englischer Sprache abgerufen. Wählen Sie nun das Objekt Ihrer Wahl aus und klicken Sie auf **Synchronisierung aktivieren**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. Beachten Sie, dass Ihr benutzerdefiniertes Objekt jetzt aktiviert und synchronisiert ist.
+1. Beachten Sie, dass Ihr benutzerdefiniertes Objekt jetzt aktiviert ist und synchronisiert wird.
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Gehen Sie nun zurück zu Salesforce und verwenden Sie die oben genannten Schritte, um den Synchronisierungsbenutzer wieder in Ihre bevorzugte Sprache zu ändern.
+1. Gehen Sie zurück zu Salesforce und verwenden Sie die oben genannten Schritte, um den Synchronisierungsbenutzer wieder in Ihre bevorzugte Sprache zu ändern.
 
 >[!NOTE]
 >

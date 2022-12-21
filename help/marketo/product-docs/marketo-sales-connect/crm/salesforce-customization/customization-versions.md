@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14746655
-description: Anpassungsversionen - MarketingToDocs - Produktdokumentation
+description: Anpassungsversionen - Marketo-Dokumente - Produktdokumentation
 title: Anpassungsversionen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-
 # Anpassungsversionen {#customization-versions}
 
-Im Folgenden finden Sie Details zu Aktualisierungen, die an Ihren Marketing Connect-Anpassungen für Salesforce vorgenommen wurden.
+Im Folgenden finden Sie Details zu Aktualisierungen, die an Ihren Marketo Sales Connect-Anpassungen für Salesforce vorgenommen werden.
 
-**Die Felder für die**
-Aktivität in Version 1, Kontaktfelder, Interessentenfelder, Kontofelder, Gelegenheitsfelder, Schaltflächen,  [diese Markierungsfelder](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+**Version 1**
+Aktivitätsfelder, Kontaktfelder, Lead-Felder, Kontofelder , Opportunity-Felder, Schaltflächen, [diese Marketo-Felder](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
-**Die**
-Felder für Aktivitäten, Kontaktfelder, Interessentenfelder, Kontofelder, Gelegenheitsfelder, Schaltflächen und Markierungsfelder stehen jetzt im Seitenlayout für Salesforce-Blitze zur Verfügung.
+**Version 1.1**
+Aktivitätsfelder, Kontaktfelder, Lead-Felder, Kontofelder , Opportunity-Felder, Schaltflächen, Marketo-Felder sind jetzt im Seitenlayout für Salesforce-Blitze verfügbar.

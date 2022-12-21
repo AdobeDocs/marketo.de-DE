@@ -1,29 +1,28 @@
 ---
 unique-page-id: 37356590
-description: Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail - Marketing-Dokumente - Produktdokumentation
+description: Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: a069d29a-46b6-4347-b474-df17b7595436
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-
 # Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail {#adding-highspot-content-to-your-email}
 
-Als Highspot-Kunde können Sie Highspot-Inhalte einfach in Ihre Sales Connect-E-Mails einfügen.
+Als Highspot-Kunde können Sie in Ihre Sales Connect-E-Mails einfach Highspot-Inhalte einfügen.
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
    ![](assets/one-5.png)
 
-1. Füllen Sie das Feld &quot;An&quot;aus und geben Sie ein Betreff ein.
+1. Füllen Sie das Feld An aus und geben Sie einen Betreff ein.
 
    ![](assets/two-5.png)
 
-1. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Highspot eingefügt werden soll. Klicken Sie auf die Dropdownliste mit dem Pfeil (neben dem Anlagensymbol) und wählen Sie **Highspot**.
+1. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Hervorhebens eingefügt werden soll. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (neben dem Anlagensymbol) und wählen Sie **Highspot**.
 
    ![](assets/three-5.png)
 
@@ -31,14 +30,14 @@ Als Highspot-Kunde können Sie Highspot-Inhalte einfach in Ihre Sales Connect-E-
 
    ![](assets/four-5.png)
 
-1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf die Schaltfläche **Hinzufügen Content**.
+1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf das **Inhalt hinzufügen** Schaltfläche.
 
    ![](assets/five-3.png)
 
    >[!NOTE]
    >
-   >Wenn der gewünschte Inhalt nicht aufgelistet ist, verwenden Sie die Suchleiste oben.
+   >Wenn der gewünschte Inhalt nicht angezeigt wird, verwenden Sie die Suchleiste oben.
 
    ![](assets/six.png)
 
-Der Inhalt wird als Link in Ihrer E-Mail angezeigt. Der Empfänger kann auf den Link klicken, um den Inhalt Ansicht/herunterzuladen.
+Der Inhalt wird als Link in Ihrer E-Mail angezeigt. Der Empfänger kann auf den Link klicken, um den Inhalt anzuzeigen/herunterzuladen.

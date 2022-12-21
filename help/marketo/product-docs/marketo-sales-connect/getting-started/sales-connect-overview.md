@@ -6,11 +6,11 @@ exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
-# Übersicht über Sales Connect {#sales-connect-overview}
+# Überblick über Sales Connect {#sales-connect-overview}
 
 Marketo Sales Connect ist eine facettenreiche Lösung zur Vertriebsunterstützung mit einer Vielzahl von Funktionen, mit der Sie die Interaktion während des gesamten Verkaufszyklus fördern können.
 
@@ -20,17 +20,17 @@ Marketo Sales Connect ist eine facettenreiche Lösung zur Vertriebsunterstützun
 
 ## Der Live-Feed {#the-live-feed}
 
-Vertriebsmitarbeiter können [Echtzeit-Interaktion](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) von Marketing- und Verkaufsinhalten anzeigen.
+Vertriebsmitarbeiter können [Echtzeit-Interaktion](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) Marketing- und Verkaufsinhalte.
 
 ![](assets/engagement.jpg)
 
-## Personen-Detailansicht {#person-detail-view}
+## Personendetailansicht {#person-detail-view}
 
-Rufen Sie [detaillierte Personenstatistiken](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md) auf.
+Zugriff [detaillierte Personenstatistik](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Siehe Ergebnisse in Ihrem Marketo-Aktivitätsprotokoll {#see-results-in-your-marketo-activity-log}
+## Ergebnisse in Ihrem Marketo-Aktivitätsprotokoll anzeigen {#see-results-in-your-marketo-activity-log}
 
 Erfahren Sie, wie Ihre potenziellen Kunden mit Ihren Verkaufsbemühungen interagieren.
 
@@ -60,7 +60,7 @@ Erfahren Sie, wie Ihre potenziellen Kunden mit Ihren Verkaufsbemühungen interag
   </tr> 
   <tr> 
    <td colspan="1"><p>Empfangen Verkaufsanruf</p></td> 
-   <td colspan="1"><p>Lead erhielt einen Anruf von einem Verkäufer, der das <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Verkaufs-Telefon</a> verwendet.</p></td> 
+   <td colspan="1"><p>Lead erhielt einen Anruf von einem Verkäufer, der die <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Verkaufsgespräch</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Zur Verkaufskampagne hinzufügen</p></td> 
@@ -77,14 +77,14 @@ Erfahren Sie, wie Ihre potenziellen Kunden mit Ihren Verkaufsbemühungen interag
  </tbody> 
 </table>
 
-## Freigabe von Marketing-Kampagnen {#share-marketing-campaigns}
+## Marketing-Kampagnen freigeben {#share-marketing-campaigns}
 
-Erstellen Sie eine einfache Smart-Kampagne, um Ihren Vertriebsbenutzern Zugriff auf [Marketo-Kampagnendaten](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) zu gewähren.
+Erstellen Sie eine einfache Smart-Kampagne, um Ihren Vertriebsbenutzern Zugriff auf [Marketo-Kampagnendaten](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 Bereit zum Einstieg? Für Einrichtungsanweisungen klicken Sie auf den unten stehenden Link.
 
 >[!MORELIKETHIS]
-[Erste Schritte für Sales Connect-Administratoren](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
+>[Erste Schritte für Sales Connect-Administratoren](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

@@ -70,7 +70,7 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
-1. Klicken **Schließen**.
+1. Klicken Sie auf **Schließen**.
 
    >[!NOTE]
    >

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 10617440
-description: Genehmigen Sie Ihre In-App-Nachricht - Marketing Docs - Produktdokumentation
-title: In-App-Nachricht genehmigen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: In-App-Nachricht genehmigen - Marketo-Dokumente - Produktdokumentation
+title: In-App-Nachricht validieren
+exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
+# In-App-Nachricht validieren {#approve-your-in-app-message}
 
-# Genehmigen der In-App-Nachricht {#approve-your-in-app-message}
-
-Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
+Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
 
 1. Wenn alles gut aussieht, klicken Sie auf **Genehmigen und starten**.
 
@@ -21,13 +20,13 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    >[!NOTE]
    >
-   >Wenn ein Teil des Sendevorgangs unvollständig ist, beispielsweise die In-App-Nachricht nicht genehmigt wurde, wird eine Warnmeldung angezeigt, die angibt, welcher Bereich Ihre Aufmerksamkeit benötigt. Beheben Sie das und Sie sollten die Meldung in Schritt 2 sehen.
+   >Wenn ein Teil des Versandvorgangs unvollständig ist, z. B. die In-App-Nachricht nicht genehmigt wurde, wird eine Warnmeldung angezeigt, die angibt, welcher Bereich Ihre Aufmerksamkeit benötigt. Korrigieren Sie dies und Sie sollten die Meldung in Schritt 2 sehen.
 
-1. Klicken Sie auf **Genehmigen und Starten**.
+1. Klicken **Genehmigen und starten**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
-1. Wenn Sie benutzerdefinierte Felder verwendet haben, kann die Ausführung von Marketo länger dauern und diese Meldung wird stattdessen angezeigt.
+1. Wenn Sie benutzerdefinierte Felder verwendet haben, kann die Ausführung von Marketo länger dauern und stattdessen wird diese Meldung angezeigt.
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
@@ -37,36 +36,36 @@ Sie müssen den Senden genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    >[!NOTE]
    >
-   >In der Regel dauert es 15 bis 30 Minuten, bis eine genehmigte In-App-Nachricht für Besucher in Ihrem Programm sichtbar ist. Denken Sie daran, dass die Verwendung benutzerdefinierter Felder mehrere Stunden oder länger dauern kann.
+   >Es dauert in der Regel 15 bis 30 Minuten, bis eine genehmigte In-App-Nachricht für Besucher in Ihrem Programm sichtbar ist. Beachten Sie, dass bei der Verwendung benutzerdefinierter Felder der Vorgang mehrere Stunden oder länger dauern kann.
 
    Sie können ein aktives Programm anhalten oder stoppen, aber es gibt einen großen Unterschied zwischen diesen beiden Optionen.
 
-1. Klicken Sie auf **Programm anhalten**, wenn Sie das Programm eine Weile anhalten, es aber später fortsetzen möchten. Sie wird in **Angehalten**-Status geändert.
+1. Klicken **Programm anhalten** , wenn Sie das Programm für eine Weile anhalten, es aber später fortsetzen müssen. Es ändert sich in **Angehalten** Status.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
    >[!NOTE]
    >
-   >Der Grund für das Anhalten könnte sein, die Nachricht für eine Weile zu stoppen oder die Nachricht zu ändern oder den Zeitplan anzupassen. Sie können jedoch nicht zu einer anderen Meldung wechseln, sondern nur die vorhandene Meldung bearbeiten.
+   >Die Gründe für eine Pause können darin liegen, sie für eine Weile anzuhalten oder die Nachricht zu ändern oder den Zeitplan anzupassen. Sie können jedoch nicht zu einer anderen Nachricht wechseln, sondern nur die vorhandene Nachricht bearbeiten.
 
-1. Wenn das angehaltene Programm weiterhin ausgeführt werden soll, klicken Sie auf **Programm fortsetzen**.
+1. Wenn das angehaltene Programm fortgesetzt werden soll, klicken Sie auf **Programm fortsetzen**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
-1. Um das Programm vollständig zu beenden, klicken Sie auf **Stopp-Programm**.
+1. Um das Programm vollständig anzuhalten, klicken Sie auf **Programm beenden**.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. Wenn Sie sicher sind, dass Sie das Programm beenden möchten, klicken Sie auf **Stopp**.
+1. Wenn Sie sicher sind, dass Sie das Programm stoppen möchten, klicken Sie auf **Anhalten**.
 
    ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
-   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht wieder aufgenommen werden. Wenn Sie es erneut ausführen möchten, müssen Sie es neu erstellen. Vergewissern Sie sich also, dass Sie mit einem Programm fertig sind, bevor Sie auf **Stopp Programm** klicken!
+   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht wieder aufgenommen werden. Wenn Sie es erneut ausführen möchten, müssen Sie es neu erstellen. Stellen Sie also sicher, dass Sie mit einem Programm fertig sind, bevor Sie auf **Programm beenden**!
 
 ## In-App-Dashboard {#in-app-dashboard}
 
-Nachdem Ihr Programm ausgeführt wurde, können Sie seine Leistung mit dem In-App-Dashboard überwachen, das nach der Genehmigung des Programms automatisch angezeigt wird. Um zum Programm zurückzukehren, klicken Sie auf den Link oben rechts und wählen Sie **Systemsteuerung**.
+Nachdem Ihr Programm ausgeführt wurde, können Sie seine Leistung mit dem In-App-Dashboard überwachen, das nach der Programmvalidierung automatisch angezeigt wird. Um zum Programm zurückzukehren, klicken Sie auf den Link oben rechts und wählen Sie **Control Panel**.
 
 Das ist alles, Leute!

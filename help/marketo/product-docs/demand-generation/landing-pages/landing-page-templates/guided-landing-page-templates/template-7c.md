@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 7C {#template-7c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+Rechtsklick auf [Download-Vorlage 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 

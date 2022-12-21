@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2359612
-description: Position der Formularbeschriftung ändern - Marketing to Docs - Produktdokumentation
+description: Position der Formularbeschriftung ändern - Marketo-Dokumente - Produktdokumentation
 title: Position der Formularbeschriftung ändern
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Position der Formularbeschriftung ändern {#change-form-label-position}
 
-Wenn Sie ein Formular [erstellen, können Sie die Positionierung der Formularfeldbeschriftungen ganz einfach ändern. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) So geht es.
+Wann [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)können Sie die Positionierung der Formularfeldbeschriftungen sehr einfach ändern. So geht es.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Wählen Sie **Einstellungen**.
+1. Auswählen **Einstellungen**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Wählen Sie die gewünschte **Beschriftungsposition** aus.
+1. Wählen Sie die **Titelposition** Sie wollen.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    Sie haben derzeit zwei Optionen:
 
-   * Links (Standard)
-   * Über
+   * Left (Standard)
+   * Oberhalb von
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    >[!NOTE]
    >
-   >Das Formular muss für die Verwendung auf Landingpages genehmigt werden.
+   >Das Formular muss validiert sein, damit es auf Landingpages verwendet werden kann.
 
    ![](assets/image2014-9-15-16-3a17-3a12.png)
 
    >[!NOTE]
    >
-   >Denken Sie daran, den mit den Formularänderungen erstellten Entwurf der Landingpage zu genehmigen.
+   >Denken Sie daran, den durch die Formularänderungen erstellten Entwurf der Landingpage zu validieren.
 
-Gut gemacht! Erkennen Sie, wie einfach es war, die Beschriftungsposition auf einem Formular zu ändern? Okay, sehen wir, was wir tun können, um die Schrift der Formularbeschriftungen zu ändern.
+Gut gemacht! Erfahren Sie, wie einfach es war, die Bezeichnungsposition in einem Formular zu ändern? Okay, sehen wir, was wir tun können, um die Schriftart der Formularbeschriftungen zu ändern.
 
 >[!MORELIKETHIS]
 >

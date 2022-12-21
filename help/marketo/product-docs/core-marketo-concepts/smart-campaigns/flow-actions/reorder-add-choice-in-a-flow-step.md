@@ -1,9 +1,8 @@
 ---
 unique-page-id: 557333
-description: Hinzufügen in einem Flussschritt neu anordnen - Marketo Docs - Produktdokumentation
-title: Hinzufügen in einem Flussschritt neu anordnen
+description: Neuanordnen der Auswahlmöglichkeit in einem Flussschritt - Marketo-Dokumente - Produktdokumentation
+title: Neuanordnen von Auswahlmöglichkeiten in einem Flussschritt
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -11,28 +10,28 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen in einem Flussschritt {#reorder-add-choice-in-a-flow-step} neu anordnen
+# Neuanordnen von Auswahlmöglichkeiten in einem Flussschritt {#reorder-add-choice-in-a-flow-step}
 
-Da nur die erste passende Wahl für eine Person gilt, ist die Bestellung wichtig. Wenn Sie die Reihenfolge der Bedingungen ändern möchten, die in einem Flussschritt festgelegt wurden, hier sehen Sie wie.
+Da nur die erste passende Auswahl für eine Person gilt, ist die Bestellung wichtig. Wenn Sie die Reihenfolge der Bedingungen ändern möchten, die in einem Flussschritt festgelegt wurden, können Sie dies folgendermaßen tun:
 
 1. Suchen Sie den Flussschritt, für den Sie die Reihenfolge einer Auswahl ändern möchten.
 
    ![](assets/one.png)
 
-1. Lasst uns Auswahlmöglichkeit 3 über Auswahlmöglichkeit 2 hinaus verschieben. Klicken Sie auf **Auswahl 3** und dann auf **Nach oben verschieben**.
+1. Lasst uns Auswahl 3 über Auswahl 2 nach oben verschieben. Klicken Sie auf **Wahl 3** Klicken Sie dann auf **Nach oben**.
 
    >[!NOTE]
    >
-   >Bei der Neuanordnung können Sie **Nach oben**, **Nach unten verschieben** oder **Nach** verschieben.
+   >Bei der Neuanordnung können Sie **Nach oben**, **Nach unten** oder **Verschieben nach**.
 
    ![](assets/two.png)
 
-   Gute Arbeit! Jetzt wissen Sie, wie Sie eine Auswahl in einzelnen Schritten nach oben/unten verschieben können. Das ist&#39;s! Es ist so einfach, die Reihenfolge Ihrer Flussschrittentscheidungen neu zu organisieren.
+   Gut gemacht! Jetzt wissen Sie, wie Sie eine Auswahl in einzelnen Schritten nach oben/unten verschieben können. Das ist es! Es ist so einfach, die Reihenfolge Ihrer Flussschritt-Entscheidungen neu zu organisieren.
 
    ![](assets/three.png)
 
-1. Wenn Sie viele Möglichkeiten haben und eine oder mehrere Ebenen nach oben oder unten verschieben müssen, können Sie diese alternative Methode verwenden, um etwas Zeit zu sparen. Klicken Sie auf die Auswahl, die Sie verschieben möchten, und ziehen Sie dann unter **Verschieben nach** den Regler an die Position, an die Sie die Auswahl verschieben möchten.
+1. Wenn Sie viele Möglichkeiten haben und eine Ebene mit mehreren Ebenen nach oben oder unten verschieben müssen, können Sie diese alternative Methode verwenden, um etwas Zeit zu sparen. Klicken Sie auf die Auswahl, die Sie verschieben möchten, und dann unter **Verschieben nach**, ziehen Sie den Regler an die Position, an die Sie die Auswahl verschieben möchten.
 
    ![](assets/four.png)
 
-Es ist so einfach, die Reihenfolge Ihrer Flussschrittentscheidungen neu zu organisieren.
+Es ist so einfach, die Reihenfolge Ihrer Flussschritt-Entscheidungen neu zu organisieren.

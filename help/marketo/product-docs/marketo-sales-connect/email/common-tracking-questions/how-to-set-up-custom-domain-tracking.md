@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14352539
-description: Einrichten der benutzerdefinierten Domänenverfolgung - Marketing Docs - Produktdokumentation
-title: Einrichten der Verfolgung benutzerdefinierter Domänen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Einrichten des benutzerdefinierten Domänentrackings - Marketo-Dokumente - Produktdokumentation
+title: Einrichten des Trackings benutzerdefinierter Domänen
+exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
+# Einrichten des Trackings benutzerdefinierter Domänen {#how-to-set-up-custom-domain-tracking}
 
-# Einrichten der benutzerdefinierten Domänenverfolgung {#how-to-set-up-custom-domain-tracking}
+Wir geben Ihnen die Möglichkeit, das benutzerdefinierte Domain-Tracking für Ihre Links zu konfigurieren. Wenn also jemand den Mauszeiger über einen Link bewegt, wird &quot;go.yourcompany.com&quot;anstelle von &quot;go.toutapp.com&quot;angezeigt.
 
-Wir bieten Ihnen die Möglichkeit, die Verfolgung benutzerdefinierter Domänen für Ihre Links zu konfigurieren. Wenn also jemand den Mauszeiger über einen Link bewegt, wird &quot;go.yourcompany.com&quot;anstelle von &quot;go.toutapp.com&quot;angezeigt.
+Um dies einzurichten, muss Ihr IT-Administrator die in der [Einstellungsseite](https://toutapp.com/custom_tracking_domain).
 
-Um dies einzurichten, muss Ihr IT-Administrator die auf der Seite [Einstellungen](https://toutapp.com/custom_tracking_domain) aufgelisteten Schritte ausführen.
-
-Sobald Sie diese Funktion eingerichtet haben, werden alle Links, die Sie in Ihrer E-Mail haben, als &quot;go.yourcompany.com&quot;auf die Zulassungsliste gesetzt.
+Nachdem Sie diese Einstellung eingerichtet haben, werden alle Links, die Sie in Ihrer E-Mail haben, als &quot;go.yourcompany.com&quot;auf die Zulassungsliste gesetzt.

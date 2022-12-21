@@ -1,29 +1,28 @@
 ---
 unique-page-id: 18317338
-description: Blockierte Domänen - Marketing-Dokumente - Produktdokumentation
+description: Blockierte Domänen - Marketo-Dokumente - Produktdokumentation
 title: Blockierte Domänen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # Blockierte Domänen {#blocked-domains}
 
-Hilft Ihrem Vertriebsteam, erfolgreich zu sein, indem verhindert wird, dass Konkurrent versehentlich per E-Mail verschickt werden, bekannte Spam-Fallen oder andere Domänen, die nicht kontaktiert werden sollen.
+Helfen Sie Ihrem Vertriebsteam, Erfolg zu erzielen, indem Sie verhindern, dass Konkurrenten, bekannte Spamfallen oder andere Domänen, die Sie nicht kontaktieren möchten, versehentlich per E-Mail verschickt werden.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie unter &quot;Admin-Einstellungen&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
 
    ![](assets/two-3.png)
 
@@ -33,4 +32,4 @@ Hilft Ihrem Vertriebsteam, erfolgreich zu sein, indem verhindert wird, dass Konk
 
    >[!NOTE]
    >
-   >E-Mails, die Teil einer [Gruppen-E-Mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) sind und die fehlschlagen, weil sie an eine blockierte E-Mail-Domäne gesendet werden, schlagen ohne Meldung fehl und werden nicht im Ordner mit fehlgeschlagenen E-Mails angezeigt.
+   >E-Mails, die Teil eines [Gruppenemail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) senden, der fehlschlägt, weil er an eine gesperrte E-Mail-Domain gesendet wird, schlägt still fehl und wird nicht im fehlgeschlagenen E-Mail-Ordner angezeigt.

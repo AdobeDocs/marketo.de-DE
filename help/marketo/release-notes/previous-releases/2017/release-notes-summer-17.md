@@ -42,7 +42,7 @@ Die LeanData-Integration ermöglicht jetzt die Zuordnung von Interessenten zu Ko
 
 **[Verbesserte Kampagnenvorschau](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Marketing-Experten können nun sicherstellen, dass ihre Web-Kampagnen auf allen Geräten gut aussehen, *bevor* sie starten. Mit diesen Verbesserungen können Sie sehen, wie Ihre Web-Kampagnen auf Desktop-, Mobilgeräten und Tablets dargestellt werden. Das neue Plug-in für Chrome bietet außerdem konsistentere und genauere Vorschauen.
+Marketing-Experten können jetzt sicherstellen, dass ihre Web-Kampagnen geräteübergreifend optimal aussehen *before* sie starten. Mit diesen Verbesserungen können Sie sehen, wie Ihre Web-Kampagnen auf Desktop-, Mobilgeräten und Tablets dargestellt werden. Das neue Plug-in für Chrome bietet außerdem konsistentere und genauere Vorschauen.
 
 **[Verbesserte Widget-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -66,4 +66,4 @@ Nutzen Sie noch mehr aus Ihrem E-Mail-Insights-Erlebnis mit neuen Möglichkeiten
 
 ## Unterstützung bei der Konfiguration vernetzter Identitäten {#federated-identity-configuration-support}
 
-Lassen Sie die Authentifizierung (Active Directory) hinter Ihrer Firewall lokal, während Sie weiterhin Microsoft Dynamics CRM in der Cloud verwenden.
+Halten Sie die Authentifizierung (Active Directory) hinter Ihrer Firewall vor Ort fest, während Sie weiterhin Microsoft Dynamics CRM in der Cloud verwenden.

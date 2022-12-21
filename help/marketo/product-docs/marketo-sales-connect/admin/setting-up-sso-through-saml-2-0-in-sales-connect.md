@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14352405
-description: Einrichten der einmaligen Anmeldung über SAML 2.0 in Sales Connect - Marketing Docs - Produktdokumentation
-title: Einrichten der einmaligen Anmeldung über SAML 2.0 in Sales Connect
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Einrichten von SSO über SAML 2.0 in Sales Connect - Marketo Docs - Produktdokumentation
+title: Einrichten von SSO über SAML 2.0 in Sales Connect
+exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
+# Einrichten von SSO über SAML 2.0 in Sales Connect {#setting-up-sso-through-saml-in-sales-connect}
 
-# EINRICHTUNG DER EINRICHTUNG DURCH SAML 2.0 in Sales Connect {#setting-up-sso-through-saml-in-sales-connect}
-
-Wir unterstützen die einmalige Anmeldung über die SAML 2.0-Spezifikation. Es gibt derzeit jedoch keine direkten Integrationen mit anderen Anbietern. Wir müssen einige Informationen von Ihrem SSO-Anbieter sammeln, um diese Einrichtung zu erhalten.
+Wir unterstützen SSO über die SAML 2.0-Spezifikation. Derzeit gibt es jedoch keine direkten Integrationen mit anderen Anbietern. Wir müssen einige Informationen von Ihrem SSO-Provider erfassen, um diese Einrichtung zu erhalten.
 
 >[!NOTE]
 >
->Dies gilt nur für **Marketing Connect**-Kunden. Wenn Sie nicht über Sales Connect verfügen, aber mehr erfahren möchten, wenden Sie sich bitte an Ihren Kundenbetreuer.
+>Dies gilt nur für **Marketo Sales Connect** -Kunden. Wenn Sie nicht über Sales Connect verfügen, aber mehr erfahren möchten, wenden Sie sich an Ihren Customer Success Manager.
 
-## Voraussetzungen {#requirements}
+## Anforderungen {#requirements}
 
 * SSO-Konto
-* Marketing-Sales-Connect-Abonnement
-* Metadata.xml aus einem SSO-Konto (Ausgabe-URL, Endpunkt für die Überprüfung und öffentlicher Schlüssel)
+* Marketo Sales Connect-Abonnement
+* Metadata.xml aus dem SSO-Konto (Problem-URL, Endpunkt zur Validierung und öffentlicher Schlüssel)
 
 ## Setup {#setup}
 
-Die Datei &quot;metadata.xml&quot;aus der SSO-Instanz Ihres Teams sollte die Aussteller-URL, den Endpunkt für die Überprüfung und einen öffentlichen Schlüssel enthalten.
+Die Datei &quot;metadata.xml&quot;aus der SSO-Instanz Ihres Teams sollte die Emittenten-URL, den Endpunkt für die Validierung und einen öffentlichen Schlüssel enthalten.
 
-Außerdem benötigen wir den SSO-Standort, damit Ihr SSO-Konto eine eindeutige Domäne sein kann. Beispielsweise benötigen wir eine eindeutige Subdomäne wie `toutapp.pingidentity.com` oder Ähnliches. Ohne diesen eindeutigen Bezeichner können wir keine SAML aus dem Dashboard einrichten.
+Außerdem benötigen wir die SSO-Position, damit das SSO-Konto Ihres Unternehmens eine eindeutige Domäne ist. Beispielsweise benötigen wir eine eindeutige Subdomain wie `toutapp.pingidentity.com` oder ähnliche. Ohne diesen eindeutigen Bezeichnungstyp können wir SAML nicht im Dashboard einrichten.
 
-Bei einer Anmeldung und Okta werden beim Zuweisen einer URL nicht immer eindeutige IDs bereitgestellt. Wenn Sie Okta oder One Login verwenden, bedeutet das, dass wir nicht in der Lage sein werden, eine Anmeldung über die Schaltfläche Dashboard einzurichten. Wir können sie weiterhin über die Schaltfläche Single Sign-On auf der [Webanwendung](https://toutapp.com/login) einrichten.
+Bei einer Anmeldung und Okta werden beim Zuweisen einer URL nicht immer eindeutige Kennungen angegeben. Wenn Sie Okta oder One Login verwenden, bedeutet dies, dass wir nicht in der Lage sein werden, eine Anmeldung über die Dashboard-Schaltfläche einzurichten. Wir können es weiterhin über die Schaltfläche Single Sign-On auf der [Webanwendung](https://toutapp.com/login).
 
-Sobald uns diese Informationen vorliegen, werden wir mit unserem Ingenieurteam zusammenarbeiten, um dies für Ihr Abonnement einzurichten.
+Sobald wir diese Informationen haben, arbeiten wir mit unserem Technikerteam zusammen, um diese für Ihr Abonnement einzurichten.

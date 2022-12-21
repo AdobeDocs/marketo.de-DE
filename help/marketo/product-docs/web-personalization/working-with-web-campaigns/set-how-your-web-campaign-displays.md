@@ -1,77 +1,76 @@
 ---
 unique-page-id: 12978906
-description: Festlegen, wie Ihre Web-Kampagne angezeigt wird - Marketing-Dokumente - Produktdokumentation
+description: Festlegen der Anzeige Ihrer Web-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Anzeige Ihrer Web-Kampagne festlegen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Anzeige Ihrer Web-Kampagne festlegen {#set-how-your-web-campaign-displays}
 
-# So wird Ihre Web-Kampagne angezeigt {#set-how-your-web-campaign-displays}
+Es gibt verschiedene Methoden, um zu ermitteln, wann und wie Ihre Web-Kampagne angezeigt wird.
 
-Es gibt mehrere Methoden, um zu nutzen, wann und wie Ihre Web-Kampagne angezeigt wird.
+## Seite laden {#page-load}
 
-## Seitenladevorgang {#page-load}
-
-Standardmäßig ausgewählt, zeigt diese Option die Kampagne beim Laden der Seite an.
+Standardmäßig ist bei dieser Auswahl die Kampagne beim Laden der Seite angezeigt.
 
 ![](assets/pl1.png)
 
 ## Verzögerung {#delay}
 
-Geben Sie eine Verzögerung (in Sekunden) an, damit Web-Kampagnen auf Ihrer Website reagieren können.
+Legen Sie eine Zeitverzögerung (in Gesamtsekunden) fest, damit Webkampagnen auf Ihrer Website reagieren.
 
-1. Klicken Sie auf die Dropdownliste **Anzeigen auf** und wählen Sie **Verzögerung**.
+1. Klicken Sie auf **Anzeige ein** und wählen Sie **Verzögerung**.
 
    ![](assets/d1.png)
 
-1. Klicken Sie auf die Dropdownliste **Wait** und wählen Sie die gewünschte Zeitdauer aus.
+1. Klicken Sie auf **Warten** und wählen Sie den gewünschten Zeitraum aus.
 
    ![](assets/d2.png)
 
-## Bildlauf {#scroll}
+## Scrollen {#scroll}
 
-1. Klicken Sie auf die Dropdownliste **Anzeigen auf** und wählen Sie **Bildlauf**.
+1. Klicken Sie auf **Anzeige ein** und wählen Sie **Scrollen**.
 
    ![](assets/s1.png)
 
-1. Klicken Sie auf die Dropdownliste **Wenn** und wählen Sie aus, wann Ihre Web-Kampagne angezeigt werden soll.
+1. Klicken Sie auf **Wann** und wählen Sie aus, wann Ihre Webkampagne angezeigt werden soll.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Unter Kante</strong></td> 
-   <td>Zeigt die Kampagne an, wenn der Besucher unter die Kante blättert. Die Kampagne verschwindet, wenn der Besucher über die Kante zurückscrollt.</td> 
+   <td><strong>Unter Übergang</strong></td> 
+   <td>Zeigt die Kampagne an, wenn der Besucher unter die Kante scrollt. Kampagne verschwindet, wenn der Besucher wieder über die Kante scrollt.</td> 
   </tr> 
   <tr> 
    <td><strong>Prozent</strong></td> 
-   <td>Zeigt die Kampagne an, wenn der Besucher zu einem bestimmten Seitenprozentsatz blättert.</td> 
+   <td>Zeigt die Kampagne an, wenn der Besucher zum festgelegten Prozentsatz der Seite blättert.</td> 
   </tr> 
   <tr> 
    <td><strong>Pixel</strong></td> 
-   <td><p>Zeigt die Kampagne an, wenn der Besucher zum vordefinierten oberen Pixel auf der Seite blättert.</p></td> 
+   <td><p>Zeigt die Kampagne an, wenn der Besucher zum vorab festgelegten obersten Pixel auf der Seite blättert.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Ausstiegsziel {#exit-intent}
+## Seite verlassen {#exit-intent}
 
-Die Ausstiegsabsicht zeigt die Web-Kampagne an, wenn der Mauszeiger den Browser verlässt.
+Die Ausstiegsabsicht zeigt die Webkampagne an, wenn der Mauszeiger den Browser verlässt.
 
-1. Klicken Sie auf die Dropdownliste **Anzeigen auf** und wählen Sie **Ausstiegsziel**.
+1. Klicken Sie auf **Anzeige ein** und wählen Sie **Verlassen-Intent**.
 
    ![](assets/ei1.png)
 
-1. Es wird eine Meldung angezeigt, in der Sie darauf hingewiesen werden, dass der Ausstiegszweck nicht mit Mobilgeräten kompatibel ist.
+1. Es wird eine Meldung angezeigt, die Sie daran erinnert, dass der Verlassen-Intent nicht mit Mobilgeräten kompatibel ist.
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->Wie sehen Ihre ausgewählten Effekte im Vorfeld aus? Überprüfen Sie sie über eine [Web-Kampagne-Vorschau](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Wie sehen Ihre ausgewählten Effekte im Voraus aus? Checken Sie sie über [Webkampagnenvorschau](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

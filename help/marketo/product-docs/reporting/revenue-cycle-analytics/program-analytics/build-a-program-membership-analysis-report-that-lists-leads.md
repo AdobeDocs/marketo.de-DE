@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2360405
-description: Erstellen Sie einen Bericht zur Programm-Mitgliedschaft in der Analyse, den Listen führen - Marketing-Dokumente - Produktdokumentation
-title: Erstellen Sie einen Programm Membership Analyse Report, der von Listen geleitet wird.
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Erstellen eines Berichts zur Analyse der Programmmitgliedschaft, in dem Leads aufgelistet werden - Marketo Docs - Produktdokumentation
+title: Erstellen eines Berichts zur Analyse der Programmmitgliedschaft, der Leads auflistet
+exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Erstellen eines Berichts zur Analyse der Programmmitgliedschaft, der Leads auflistet {#build-a-program-membership-analysis-report-that-lists-leads}
 
-# Erstellen Sie einen Bericht zur Analyse der Programm-Mitgliedschaft, der von Listen zu {#build-a-program-membership-analysis-report-that-lists-leads} führt.
-
-Führen Sie folgende Schritte aus, um einen Bericht zur Programm-Mitgliedschaft-Analyse zu erstellen, der alle Programm-Mitgliedsnamen anzeigt.
+Führen Sie diese Schritte aus, um einen Bericht zur Programmteilnahmeanalyse zu erstellen, in dem alle Namen der Programmmitglieder angezeigt werden.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Starten Sie den Umsatz-Explorer.
+1. Launch-Umsatz-Explorer.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu erstellen** und dann **Bericht**.
+1. Klicken **Neu erstellen** then **Bericht**.
 
    ![](assets/two.png)
 
-1. Wählen Sie **Programm Membership Analyse** und klicken Sie auf **OK**.
+1. Auswählen **Analyse der Programmmitgliedschaft** und klicken Sie auf **OK**.
 
    ![](assets/three.png)
 
-1. Klicken Sie bei gedrückter Dublette auf den gelben Punkt &quot;Programm-Name&quot;.
+1. Doppelklicken Sie auf den gelben Punkt Programmname.
 
    ![](assets/four.png)
 
-1. Suchen und klicken Sie mit der Dublette auf den blauen Punkt der Member.
+1. Doppelklicken Sie auf den blauen Punkt Mitglieder.
 
    ![](assets/five.png)
 
-1. Suchen Sie nach dem blauen Punkt &quot;Erfolg (insgesamt)&quot;und klicken Sie mit der Dublette darauf.
+1. Doppelklicken Sie auf den blauen Punkt Erfolg (Gesamtsumme).
 
    ![](assets/six.png)
 
@@ -47,13 +46,13 @@ Sehen Sie, wie einfach das war?
 
 ![](assets/seven.png)
 
-Sie können schnell ein Interessentenattribut wie _Vollständiger Name_ hinzufügen, um zu sehen, wer die Mitglieder sind.
+Sie können schnell ein Lead-Attribut hinzufügen, z. B. _Vollständiger Name_ um zu sehen, wer die Mitglieder sind.
 
 >[!TIP]
 >
->Es gibt viele Interessenten-/Firmen-Attribute, die Sie auswählen können. Schau sie doch mal an!
+>Es gibt viele Lead-/Firmenattribute, aus denen Sie auswählen können. Schau sie an!
 
-1. Suchen Sie nach dem gelben Punkt und klicken Sie mit der Dublette auf den Punkt **Vollständiger Name**.
+1. Doppelklicken Sie auf die **Vollständiger Name** gelber Punkt.
 
    ![](assets/eight.png)
 

@@ -1,48 +1,47 @@
 ---
 unique-page-id: 2949285
-description: Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing - Marketing Docs - Produktdokumentation ein.
-title: Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing ein
-translation-type: tm+mt
-source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
+description: Eingehende E-Mails von Ihren Leads in Marketo - Marketo Docs - Produktdokumentation
+title: Eingehende E-Mails von Ihren Leads in Marketo anmelden
+exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# Eingehende E-Mails von Ihren Leads in Marketo anmelden {#log-inbound-mail-from-your-leads-in-marketo}
 
-# Anmelden von eingehenden E-Mails von Ihren Interessenten in Marketing zu {#log-inbound-mail-from-your-leads-in-marketo}
+Sie können Antworten von Ihren Leads direkt in Outlook mit dem Marketo E-Mail-Add-In protokollieren.
 
-Sie können Antworten von Ihren Interessenten direkt in Outlook mit dem Marketing E-Mail Hinzufügen-In protokollieren.
+## Über die Haupt-Outlook-Anwendung {#from-the-main-outlook-application}
 
-## Von der Outlook-Hauptanwendung {#from-the-main-outlook-application}
-
-1. Wählen Sie die E-Mail aus, die Sie anmelden möchten, und klicken Sie auf Anmelden mit Marketing.
+1. Wählen Sie die E-Mail aus, die Sie protokollieren möchten, und klicken Sie auf Mit Marketo protokollieren .
 
 ![](assets/image2014-9-23-17-3a12-3a44.png)
 
 >[!TIP]
 >
->Sie können auch mit der rechten Maustaste auf eine Nachricht klicken und auf **Mit Marketo** anmelden klicken.
+>Sie können auch mit der rechten Maustaste auf eine Nachricht klicken und **Mit Marketo anmelden**.
 
-Du solltest eine Bestätigung sehen.
+Sie sollten eine Bestätigung sehen.
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## Von der E-Mail selbst {#from-the-email-itself}
+## Über die E-Mail selbst {#from-the-email-itself}
 
-Wenn Sie die E-Mail geöffnet haben, können Sie einfach auf die Schaltfläche Mit Marketo anmelden klicken.
+Wenn Sie die E-Mail geöffnet haben, können Sie von dort aus einfach auf die Schaltfläche Mit Marketo protokollieren klicken.
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
-Sie sollten dieselbe Bestätigung wie die andere Methode sehen.
+Es sollte dieselbe Bestätigung wie bei der anderen Methode angezeigt werden.
 
 ![](assets/image2014-9-23-17-3a14-3a29.png)
 
-Protokollieren Sie die Antworten Ihres Interessenten, um sie ihrer Geschichte in Marketo hinzuzufügen.
+Protokollieren Sie die Antworten Ihres Leads, um sie zum Verlauf in Marketo hinzuzufügen.
 
 >[!MORELIKETHIS]
 >
->* [Senden und Verfolgen einer E-Mail mit dem Marketing E-Mail-Hinzufügen für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Senden und Verfolgen von Outlook mit einer Marketing-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Senden und Verfolgen einer E-Mail mit dem Marketo E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 

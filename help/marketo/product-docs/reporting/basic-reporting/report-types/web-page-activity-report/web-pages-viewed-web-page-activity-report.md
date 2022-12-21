@@ -1,32 +1,31 @@
 ---
 unique-page-id: 2360052
-description: Angezeigte Webseiten, Bericht zur Aktivität der Webseite - Marketing-Dokumente - Produktdokumentation
-title: Angezeigte Webseiten, Bericht zur Aktivität der Webseite
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Angezeigte Webseiten, Bericht zur Web-Seitenaktivität - Marketo Dokumente - Produktdokumentation
+title: Angezeigte Webseiten, Bericht zur Webseiten-Aktivität
+exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
+# Angezeigte Webseiten, Bericht zur Webseiten-Aktivität {#web-pages-viewed-web-page-activity-report}
 
-# Angezeigte Webseiten, Bericht zur Aktivität der Webseite {#web-pages-viewed-web-page-activity-report}
-
-Aus dem Bericht [Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angezeigt wurden.
+Von einem [Webseitenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angezeigt wurden.
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) einrichten.
+>Um Aktivitäten von Ihrer Website in Marketo aus zu erfassen, müssen Sie zunächst  [Einrichten von Munchkin auf Ihrer Site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. Klicken Sie im Bericht [Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf die Nummer in der Spalte Ansichten der Seite.
+1. In [Webseitenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)klicken Sie auf die Zahl in der Spalte Seitenansichten .
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
-1. Du bist da! Es wird ein neues Fenster geöffnet, in dem die Liste der Seiten auf Ihrer Site, die die Person besucht hat, sowie der Zeitpunkt des Besuchs angezeigt wird.
+1. Du bist da! Daraufhin wird ein neues Fenster geöffnet, in dem die Liste der Seiten auf Ihrer Site angezeigt wird, die die Person besucht hat, sowie der Zeitpunkt.
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 
    >[!MORELIKETHIS]
    >
-   >Erstellen Sie einen [Firma Web Aktivität-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), um zu sehen, welche Firmen Ihre Site besuchen.
+   >Erstellen Sie eine  [Bericht zur Web-Aktivität der Firma](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) um zu sehen, welche Unternehmen Ihre Site besuchen.

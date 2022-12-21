@@ -1,31 +1,30 @@
 ---
 unique-page-id: 7504051
-description: Personendaten verwalten - Marketing-Dokumente - Produktdokumentation
+description: Personendaten verwalten - Marketo-Dokumente - Produktdokumentation
 title: Personendaten verwalten
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-
 # Personendaten verwalten {#manage-person-data}
 
-Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche Felder auswählen, die Sie in Ihrer Segmentierung verwenden möchten.
+Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie Personenfelder für Ihre Segmentierung auswählen.
 
-1. Gehen Sie zu **Kontoeinstellungen**.
+1. Navigieren Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Gehen Sie zu **Datenbank**.
+1. Navigieren Sie zu **Datenbank**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Hinzufügen eines Felds für eine neue Person {#adding-a-new-person-field}
+## Feld &quot;Neue Person&quot;hinzufügen {#adding-a-new-person-field}
 
-1. Wählen Sie **Feld, um** aus der Dropdownliste hinzuzufügen, um der Liste ein Personendatenfeld hinzuzufügen.
+1. Auswählen **Feld zum Hinzufügen** aus der Dropdown-Liste, um ein Personendatenfeld zur Liste hinzuzufügen.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -33,20 +32,20 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
    >
    >Ein neues Feld wird in einem ausstehenden Status hinzugefügt und kann bis zu 24 Stunden dauern, bis es aktiviert wird.
 
-## Löschen eines Personenfelds {#deleting-a-person-field}
+## Löschen eines Personalisierungsfelds {#deleting-a-person-field}
 
-1. Klicken Sie auf das Löschen-Symbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie auf **Ja**, um zu bestätigen, dass Sie das Feld löschen möchten.
+1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken **Ja** , um zu bestätigen, dass Sie das Feld löschen möchten.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**Verwalten der Datenfelder für Personen**
+   >**Verwalten von Personendatenfeldern**
    >
-   >* Nur Datenfelder für Personen können einbezogen werden
+   >* Nur Personendatenfelder können eingeschlossen werden
    >* Sie können bis zu 30 Personendatenfelder hinzufügen
-   >* Das Hinzufügen neuer Felder kann bis zu 24 Stunden in Anspruch nehmen
-   >* Die maximale Länge von Zeichenfolgen-Typen beträgt 255 Zeichen
+   >* Bis zum Aktivieren hinzugefügter neuer Felder können bis zu 24 Stunden vergehen
+   >* Die maximal zulässige Länge der String-Typen ist 255 Zeichen
    >* Ausgeblendete Felder werden automatisch entfernt
 
 
@@ -55,7 +54,7 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
   <tr> 
    <th><p>REST-API-Name</p></th> 
    <th><p>SOAP-API-Name</p></th> 
-   <th><p>Freundlicher Name</p></th> 
+   <th><p>Anzeigename</p></th> 
   </tr> 
   <tr> 
    <td><p>Abteilung</p></td> 
@@ -63,19 +62,19 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
    <td><p>Abteilung</p></td> 
   </tr> 
   <tr> 
-   <td><p>title</p></td> 
    <td><p>Titel</p></td> 
-   <td><p>Auftragstitel</p></td> 
+   <td><p>Titel</p></td> 
+   <td><p>Jobtitel</p></td> 
   </tr> 
   <tr> 
    <td><p>Bewertung</p></td> 
-   <td><p>Beurteilung</p></td> 
-   <td><p>Beurteilung</p></td> 
+   <td><p>Bewertung</p></td> 
+   <td><p>Bewertung</p></td> 
   </tr> 
   <tr> 
    <td><p>leadScore</p></td> 
    <td><p>LeadScore</p></td> 
-   <td><p>Ergebnis</p></td> 
+   <td><p>Bewertung</p></td> 
   </tr> 
   <tr> 
    <td><p>leadStatus</p></td> 
@@ -94,14 +93,14 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie persönliche F
   </tr> 
   <tr> 
    <td><p>unsubscribed</p></td> 
-   <td><p>Nicht abonniert</p></td> 
-   <td><p>Nicht abonniert</p></td> 
+   <td><p>Hat abbestellt</p></td> 
+   <td><p>Hat abbestellt</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Die folgenden Interessentenfelder werden für neue Web-Personalisierungskonten standardmäßig bereitgestellt:
+Für neue Web-Personalisierungskonten stehen standardmäßig die folgenden Lead-Felder zur Verfügung:
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Segments mithilfe von Daten bekannter Personen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[Erstellen eines Segments mit Daten bekannter Personen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

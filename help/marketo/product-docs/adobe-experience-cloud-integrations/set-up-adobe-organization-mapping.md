@@ -42,7 +42,7 @@ Um eine Synchronisierung mit Adobe Apps wie Audience Manager, dem Marketo-Connec
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. Klicken **Schließen**.
+1. Klicken Sie auf **Schließen**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 

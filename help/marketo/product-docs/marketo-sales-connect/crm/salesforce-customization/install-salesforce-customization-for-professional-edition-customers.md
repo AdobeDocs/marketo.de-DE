@@ -1,24 +1,23 @@
 ---
 unique-page-id: 27656223
-description: Installation der Salesforce-Anpassung für Professional Edition-Kunden - Marketing Docs - Produktdokumentation
+description: Installation der Salesforce-Anpassung für Professional Edition-Kunden - Marketo-Dokumente - Produktdokumentation
 title: Installation der Salesforce-Anpassung für Professional Edition-Kunden
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: dc004a28-b580-4449-9fde-e744681ac53a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
-
 # Installation der Salesforce-Anpassung für Professional Edition-Kunden {#install-salesforce-customization-for-professional-edition-customers}
 
-Kunden mit Salesforce Professional Edition müssen die folgenden Schritte ausführen, um die Anpassung zu installieren.
+Kunden mit Salesforce Professional Edition müssen diese Schritte ausführen, um die Anpassung zu installieren.
 
 >[!PREREQUISITES]
 >
->* Sales Connect Admin muss seine Salesforce- und Sales Connect-Konten verbinden.
->* Die verwendete Salesforce-Instanz benötigt Platz, um dreizehn Felder für benutzerdefinierte Aktivitäten zu installieren.
+>* Der Sales Connect-Administrator muss seine Salesforce- und Sales Connect-Konten verbinden.
+>* Die verwendete Salesforce-Instanz benötigt Platz, um dreizehn benutzerdefinierte Aktivitätsfelder zu installieren.
 
 
 ## Installation {#installation}
@@ -27,35 +26,35 @@ Kunden mit Salesforce Professional Edition müssen die folgenden Schritte ausfü
 
    ![](assets/one-4.png)
 
-1. Klicken Sie unter &quot;Admin-Einstellungen&quot;auf **Salesforce**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Salesforce**.
 
    ![](assets/two-4.png)
 
-1. Vergewissern Sie sich, dass Sie mit Ihrem Salesforce-Konto verbunden sind.
+1. Stellen Sie sicher, dass Sie mit Ihrem Salesforce-Konto verbunden sind.
 
    >[!CAUTION]
    >
-   >Wenn eine Verbindung besteht, wird eine grüne Schaltfläche &quot;Installieren&quot;angezeigt. **KLICKEN SIE** NICHT auf diese Schaltfläche, fahren Sie stattdessen mit Schritt 4 fort.
+   >Wenn Sie verbunden sind, sehen Sie eine grüne &quot;Installieren&quot;-Schaltfläche. **NICHT** Klicken Sie auf diese Schaltfläche und fahren Sie stattdessen mit Schritt 4 fort.
 
-1. Melden Sie sich bei dem Salesforce-Konto an, mit dem Sie verbunden sind, und klicken Sie dann auf [diesen Link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
-1. Sie werden zur Seite &quot;Installation von Sales Connect&quot;gesendet.
+1. Melden Sie sich bei dem Salesforce-Konto an, mit dem Sie verbunden sind, und klicken Sie dann auf [dieser Link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Sie werden zur Seite Installation von Sales Connect gesendet.
 
    ![](assets/install-package.png)
 
-1. Wählen Sie die Benutzer aus, für die Sie Anpassungen installieren möchten: Nur Admin, alle Benutzer oder bestimmte Profil.
-1. Klicken Sie auf die Schaltfläche **Installieren**, um die Anpassung zu installieren.
-1. Um eine erfolgreiche Installation zu bestätigen, melden Sie sich bei Ihrem Salesforce-Konto an.
-1. Klicken Sie auf **Setup**, suchen Sie in der Suchleiste nach &quot;Installierte Pakete&quot;und klicken Sie auf **Installierte Pakete**.
+1. Wählen Sie die Benutzer aus, für die Sie Anpassungen installieren möchten: Nur Administrator, alle Benutzer oder bestimmte Profile.
+1. Klicken Sie auf **Installieren** Schaltfläche zum Installieren der Anpassung.
+1. Um die erfolgreiche Installation zu bestätigen, melden Sie sich bei Ihrem Salesforce-Konto an.
+1. Klicken **Einrichtung**, suchen Sie in der Suchleiste nach &quot;Installierte Pakete&quot;und klicken Sie auf **Installierte Pakete**.
 
-   Dort finden Sie Marketo Sales Connect-Anpassungen.
+   Dort werden Marketo Sales Connect-Anpassungen angezeigt.
 
-   Um Sales Connect in Ihrer Salesforce-Instanz zu konfigurieren, befolgen Sie bitte die Schritte, die auf Seite 7 des Installationshandbuchs unter &quot;KONFIGURIEREN DES VERKAUFSVERKAUFS-SALESFORCE-PAKETS&quot;beschrieben sind.
+   Um Sales Connect in Ihrer Salesforce-Instanz zu konfigurieren, führen Sie die Schritte aus, die auf Seite 7 des Installationshandbuchs mit &quot;KONFIGURIEREN DES SALESFORCE-PAKETS FÜR DIE SALESFORCE-VERKÄUFE&quot;beginnen.
 
    >[!NOTE]
    >
    >Sales Engage ist der vorherige Name für Sales Connect.
 
-## Guides {#guides}
+## Anleitungen {#guides}
 
 [Installationshandbuch für Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 

@@ -1,33 +1,32 @@
 ---
 unique-page-id: 1900589
-description: hinzufügen verfolgte Links zu einer Text-E-Mail - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen von verfolgten Links zu einer Text-E-Mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Getrackte Links zu einer Text-E-Mail hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: Getrackte Links zu einer Text-E-Mail hinzufügen
+exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
-# hinzufügen verfolgte Links zu einer Text-E-Mail {#add-tracked-links-to-a-text-email}
+# Getrackte Links zu einer Text-E-Mail hinzufügen {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
->* [E-Mail &quot;Nur Text erstellen&quot;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [Erstellen einer E-Mail &quot;Nur Text&quot;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Elemente in einer E-Mail bearbeiten](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 
-Text-E-Mail-Links können in Marketing nachverfolgt werden. Mal sehen, wie es funktioniert. 1. Wählen Sie Ihre E-Mail aus und klicken Sie auf Entwurf bearbeiten.
+Text-E-Mail-Links können in Marketo nachverfolgt werden. Mal sehen, wie es funktioniert. 1. Wählen Sie Ihre E-Mail aus und klicken Sie auf Entwurf bearbeiten.
 
 ![](assets/one-9.png)
 
-1. Klicken Sie mit der Dublette auf den bearbeitbaren Bereich, dem Sie den Link hinzufügen möchten.
+1. Doppelklicken Sie auf den bearbeitbaren Bereich, dem Sie den Link hinzufügen möchten.
 
    ![](assets/two-8.png)
 
-1. Geben Sie die URL mit Klammern für die Dublette ein: `[[www.domain.com/path/page.html]]`.
+1. Geben Sie die URL mit doppelten Klammern ein: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -37,10 +36,10 @@ Text-E-Mail-Links können in Marketing nachverfolgt werden. Mal sehen, wie es fu
 
 >[!NOTE]
 >
->Die Funktionalität der Klasse &quot;mktNoTok&quot;funktioniert nicht mit nachverfolgbaren Links in Text-E-Mails. Nur für HTML-E-Mails.
+>Die Funktion der mktNoTok-Klasse funktioniert nicht mit nachverfolgten Links in Text-E-Mails. Nur für HTML-E-Mails.
 
 >[!TIP]
 >
->Testen Sie es zur Dublette-Prüfung. Vergewissern Sie sich, dass Sie die Klammern korrekt eingegeben haben.
+>Testen Sie es, um es zu überprüfen. Vergewissern Sie sich, dass Sie die Klammern richtig eingegeben haben.
 
 Gute Arbeit!

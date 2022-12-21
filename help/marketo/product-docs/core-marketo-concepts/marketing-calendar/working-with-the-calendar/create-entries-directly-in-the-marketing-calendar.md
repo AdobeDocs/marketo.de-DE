@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2953348
-description: Einträge direkt im Marketingkalender erstellen - Marketo Docs - Produktdokumentation
-title: Einträge direkt im Marketingkalender erstellen
+description: Einstiege direkt im Marketingkalender erstellen - Marketo-Dokumente - Produktdokumentation
+title: Erstellen von Einträgen direkt im Marketingkalender
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -11,26 +10,26 @@ ht-degree: 3%
 
 ---
 
-# Einträge direkt im Marketingkalender {#create-entries-directly-in-the-marketing-calendar} erstellen
+# Erstellen von Einträgen direkt im Marketingkalender {#create-entries-directly-in-the-marketing-calendar}
 
-Mit Marketo können Sie Einträge direkt im Marketingkalender im Programm-Fokusmodus erstellen. Sie können die folgenden Eintragstypen erstellen:
+Marketo ermöglicht es Ihnen, Einträge direkt in Ihrem Marketingkalender mithilfe des Programmfokus-Modus zu erstellen. Sie können die folgenden Eintragstypen erstellen:
 
-* Grundlegende Einträge
+* Einfache Einträge
 * Benutzerdefinierte Einträge
 * E-Mail-Programme
 * Intelligente Kampagnen
 
 So geht es.
 
-1. Gehen Sie zum Ordner **Kalender**.
+1. Navigieren Sie zu **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Wählen Sie einen vorherigen Eintrag aus und klicken Sie auf **Programm-Fokus anzeigen**.
+1. Wählen Sie einen vorherigen Eintrag aus und klicken Sie auf **Programmfokus anzeigen**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
-1. Wählen Sie im Programm-Fokusmodus den gewünschten Tag aus, um einen Eintrag hinzuzufügen.
+1. Wählen Sie im Programmfokus-Modus den gewünschten Tag aus, um einen Eintrag hinzuzufügen.
 
    ![](assets/image2014-10-20-13-3a8-3a6.png)
 
@@ -40,7 +39,7 @@ So geht es.
 
    >[!TIP]
    >
-   >Beachten Sie, dass Sie **Smart-Kampagnen**, **E-Mail-Programm** und **Grundlegende Einträge** auf dieselbe Weise erstellen können.
+   >Beachten Sie, dass Sie auch **Smart-Kampagnen**, **E-Mail-Programme** und **Einfache Einträge** auf die gleiche Weise.
 
 1. Schließen Sie nach Abschluss der Bearbeitung den Fokusmodus des Programms.
 

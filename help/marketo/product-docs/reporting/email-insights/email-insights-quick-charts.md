@@ -1,25 +1,24 @@
 ---
 unique-page-id: 10099415
-description: E-Mail Insights Quick Charts - Marketing Docs - Produktdokumentation
-title: E-Mail-Einblicke - Schnelldiagramme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Quick Charts für E-Mail-Insights - Marketo-Dokumente - Produktdokumentation
+title: Quick Charts für E-Mail-Insights
+exl-id: 5c071694-af86-48bd-8159-f877c51364f2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
+# Quick Charts für E-Mail-Insights {#email-insights-quick-charts}
 
-# Email Insights Quick Charts {#email-insights-quick-charts}
+Schnelldiagramme sind Miniaturansichten, die Sie anpassen und speichern, um eine schnelle Ansicht der Diagramme zu ermöglichen, die Sie am häufigsten verwenden.
 
-Quick Charts sind Miniaturansichten, die Sie anpassen und speichern, und bieten eine schnelle Ansicht von Diagrammen, die Sie am häufigsten verwenden.
+## Erstellen eines neuen Schnelldiagramms {#create-a-new-quick-chart}
 
-## Erstellen eines neuen Kurzdiagramms {#create-a-new-quick-chart}
+In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im Februar 2016 in den Bundesstaaten Kalifornien und Florida.
 
-In diesem Beispiel wählen wir den offenen Tarif für die ersten drei Wochen des Februar 2016 in den Bundesstaaten Kalifornien und Florida.
-
-1. Klicken Sie auf den Datumsfilter auf der rechten Seite des Anzeigebereichs &quot;Analytics&quot;.
+1. Klicken Sie auf den Datumsfilter rechts neben dem Bildschirm &quot;Analytics&quot;.
 
    ![](assets/one-1.png)
 
@@ -27,7 +26,7 @@ In diesem Beispiel wählen wir den offenen Tarif für die ersten drei Wochen des
 
    ![](assets/two-2.png)
 
-1. Wenn Sie Ihren Datumsbereich ausgewählt haben, klicken Sie auf **Apply**.
+1. Wenn Sie Ihren Datumsbereich ausgewählt haben, klicken Sie auf **Anwenden**.
 
    ![](assets/three-2.png)
 
@@ -35,23 +34,23 @@ In diesem Beispiel wählen wir den offenen Tarif für die ersten drei Wochen des
 
    ![](assets/four.png)
 
-1. Klicken Sie auf die erste Dropdownliste. Klicken Sie auf , um Ihr Kriterium auszuwählen (falls es nicht bereits ausgewählt ist) und deaktivieren Sie alle unerwünschten Kriterien.
+1. Klicken Sie auf die erste Dropdown-Liste. Klicken Sie auf , um Ihr Kriterium auszuwählen (falls noch nicht ausgewählt) und die Auswahl der nicht gewünschten Kriterien aufzuheben.
 
    ![](assets/5.png)
 
-1. Klicken Sie auf der rechten Seite des Diagramms auf das Exportsymbol und wählen Sie **Als Quick Chart** speichern.
+1. Klicken Sie rechts im Diagramm auf das Exportsymbol und wählen Sie **Als Schnelldiagramm speichern**.
 
    ![](assets/six.png)
 
-1. Benennen Sie Ihr Quick Chart und klicken Sie auf **Speichern**.
+1. Benennen Sie Ihr Schnelldiagramm und klicken Sie auf **Speichern**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Sie können bis zu 20 Quick Charts haben. Sie können gelöscht und ersetzt werden.
+   >Sie können bis zu 20 Schnelldiagramme haben. Sie können gelöscht und ersetzt werden.
 
-1. Ihr neues QuickChart wird zusammen mit den anderen angezeigt.
+1. Ihr neues Schnelldiagramm wird zusammen mit den anderen angezeigt.
 
    ![](assets/8.png)
 
@@ -59,22 +58,22 @@ In diesem Beispiel wählen wir den offenen Tarif für die ersten drei Wochen des
 
    >[!TIP]
    >
-   >Zum Verschieben eines Schnelldiagramms klicken Sie einfach auf das Diagramm und ziehen es an die gewünschte Position.
+   >Um ein beliebiges Schnelldiagramm zu verschieben, klicken Sie einfach auf und ziehen Sie es an die gewünschte Position.
 
-## Schnelldiagramm {#delete-a-quick-chart} löschen
+## Schnelldiagramm löschen {#delete-a-quick-chart}
 
-Möchten Sie eine Ihrer Quick Charts löschen? Es ist einfach!
+Möchten Sie eine Ihrer Schnelldiagramme löschen? Es ist einfach!
 
-1. Klicken Sie auf das Symbol **Schnelldiagramme**.
+1. Klicken Sie auf **Schnelldiagramme** Symbol.
 
    ![](assets/nine.png)
 
-1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, aber klicken Sie nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf **X**.
+1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, klicken Sie jedoch nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf **X**.
 
    ![](assets/ten.png)
 
-1. Klicken Sie auf **OK**.
+1. Klicken **Ok**.
 
    ![](assets/eleven.png)
 
-   Ihr QuickChart wird jetzt gelöscht. Sagte dir, es sei einfach.
+   Ihr Schnelldiagramm wurde jetzt gelöscht. Sag dir, es war einfach.

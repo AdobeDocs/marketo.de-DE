@@ -1,58 +1,57 @@
 ---
-description: Salesforce-Synchronisierungsstatus - Marketo Docs - Produktdokumentation
+description: Salesforce-Synchronisierungsstatus - Marketo-Dokumente - Produktdokumentation
 title: Salesforce-Synchronisierungsstatus
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
 # Salesforce-Synchronisierungsstatus {#salesforce-sync-status}
 
-Verwenden Sie das Dashboard &quot;Synchronisierungsstatus&quot;, um die Synchronisierungsstatistiken als Teil der Synchronisierungsschritte und des Erfolgsstatus der Ansicht zu verwenden.
+Verwenden Sie das Synchronisierungsstatus-Dashboard, um die Synchronisierungsstatistiken als Teil der Synchronisierungsschritte und des Erfolgsstatus anzuzeigen.
 
-Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objekttyps für das Schema und die Daten selbst wider. Statistiken behandeln neue Datensätze, Aktualisierungen, Löschvorgänge und fehlgeschlagene Zählungen während der Synchronisierung. Benutzer können nach Datum, Vorgangsart oder Objekttyp filtern. Das Dashboard &quot;Synchronisierungsstatus&quot;zeigt den Status der Synchronisierungszyklen der letzten fünf Tage an.
+Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objekttyps für das Objektschema und die Daten selbst wider. Statistiken decken neue Datensätze, Aktualisierungen, Löschvorgänge und fehlgeschlagene Zählungen während der Synchronisierung ab. Benutzer können nach Datum, Vorgangstyp oder Objekttyp filtern. Das Synchronisierungsstatus-Dashboard zeigt den Status der Synchronisierungszyklen für die letzten fünf Tage an.
 
 >[!NOTE]
 >
->Administratorberechtigungen erforderlich
+>Erforderliche Administratorberechtigungen
 
-## Synchronisierungsstatus der Ansicht {#view-sync-status}
+## Synchronisierungsstatus anzeigen {#view-sync-status}
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Klicken Sie unter Integration auf Salesforce und dann auf die Registerkarte Synchronisierungsstatus.
+1. Klicken Sie unter &quot;Integration&quot;auf Salesforce und dann auf die Registerkarte Synchronisierungsstatus .
 
    ![](assets/salesforce-sync-status-2.png)
 
-Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortiert. Sie können die Sortierung nach &quot;Beginnt am&quot;oder &quot;Beendet am&quot;- vom neuesten zum ältesten - durch Klicken auf das Sortiersymbol durchführen.
+Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert. Sie können die Sortierung nach &quot;Gestartet am&quot;oder &quot;Beendet am&quot;- vom neuesten zum ältesten - vornehmen, indem Sie auf das Sortiersymbol klicken.
 
 ![](assets/salesforce-sync-status-3.png)
 
-## Filter-Synchronisierungsstatus {#filter-sync-status}
+## Filtersynchronisierungsstatus {#filter-sync-status}
 
-1. Klicken Sie zum Filtern der Daten auf das Filtersymbol ganz rechts auf der Seite.
+1. Um die Daten zu filtern, klicken Sie auf das Filtersymbol ganz rechts auf der Seite.
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Wählen Sie Datum und Zeitraum aus und klicken Sie dann auf die Dropdown-Liste(n), um nach Objekttyp, Vorgangsart und/oder Status-Typ zu filtern.
+1. Wählen Sie Datum und Zeitraum aus und klicken Sie dann auf die Dropdown-Liste(n), um nach Objekttyp, Aktionstyp und/oder Statustyp zu filtern.
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klicken Sie auf **Apply**.
+1. Klicken **Anwenden**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Optionaler Schritt**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf  **Exportieren**. Die Daten werden als CSV exportiert.
+**Optionaler Schritt**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf **Export**. Die Daten werden als CSV exportiert.
 
 ![](assets/salesforce-sync-status-7.png)
 
-## Statusfelder synchronisieren {#sync-status-fields}
+## Synchronisierungsstatusfelder {#sync-status-fields}
 
 <table> 
  <colgroup> 
@@ -68,28 +67,28 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
   </tr> 
   <tr> 
    <td colspan="1">Gestartet um</td> 
-   <td colspan="1">Datum/Uhrzeit des Beginns des Synchronisierungszyklus (Zeitzone des Benutzers)</td> 
+   <td colspan="1">Datum/Uhrzeit des Starts des Synchronisierungszyklus (Zeitzone des Benutzers)</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
    <td colspan="1">Beendet um</td> 
-   <td colspan="1">Enddatum/Uhrzeit des Synchronisierungszyklus (Zeitzone des Benutzers)</td> 
+   <td colspan="1">Enddatum/Endzeit des Synchronisierungszyklus (Zeitzone des Benutzers)</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
    <td colspan="1">Objekt</td> 
    <td colspan="1">Objekttyp</td> 
-   <td colspan="1">Kontakt, Person, Aufgabe, Gelegenheit, Interessent, Sonstige, wie unten beschrieben</td> 
+   <td colspan="1">Kontakt, Person, Aufgabe, Chancen, Leiter/innen wie unten beschrieben</td> 
   </tr>  
   <tr> 
    <td colspan="1">Vorgang</td> 
    <td colspan="1">Vorgangstyp</td> 
-   <td colspan="1">Vorgangsarten wie unten</td> 
+   <td colspan="1">Aktionstypen wie folgt</td> 
   </tr>  
   <tr> 
    <td colspan="1">Status</td> 
-   <td colspan="1">Status des Stapels</td> 
-   <td colspan="1">Erfolgreich, Fehlgeschlagen, Unvollständig, In Bearbeitung, Bereinigt*</td> 
+   <td colspan="1">Status des Batches</td> 
+   <td colspan="1">Erfolgreich, fehlgeschlagen, nicht abgeschlossen, in Verarbeitung, bereinigt*</td> 
   </tr>
   <tr> 
    <td colspan="1">Neu</td> 
@@ -103,7 +102,7 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
   </tr>  
   <tr> 
    <td colspan="1">Gelöscht</td> 
-   <td colspan="1">Anzahl der gelöschten Datensätze</td> 
+   <td colspan="1">Anzahl gelöschter Datensätze</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
@@ -113,13 +112,13 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
   </tr>  
   <tr> 
    <td colspan="1">Übersprungen</td> 
-   <td colspan="1">Anzahl der ausgelassenen Datensätze, da keine Änderungen an den für die Synchronisierung relevanten Feldern vorgenommen wurden</td> 
+   <td colspan="1">Anzahl der übersprungenen Datensätze, da keine Änderungen an den für die Synchronisierung relevanten Feldern vorgenommen wurden</td> 
    <td colspan="1"></td> 
   </tr>  
  </tbody> 
 </table>
 
-*Daten wurden nach einem Fehler bei der Synchronisierung auf den vorherigen Integritätsstatus zurückgesetzt.
+&#42;Nach einem Synchronisierungsschritt wurden die Daten wieder in den vorherigen Integritätsstatus versetzt.
 
 ## Objekttyp {#object-type}
 
@@ -153,10 +152,10 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
    <td colspan="1">Veranstaltung</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Person (Interessent)</td> 
+   <td colspan="1">Person (Lead)</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Opportunity</td> 
+   <td colspan="1">Chance</td> 
   </tr>  
   <tr> 
    <td colspan="1">Gelegenheit Kontaktrolle</td> 
@@ -184,30 +183,30 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
    <th>Vorgangstyp</th> 
    <th>Gegen diese Objekte gefunden</th> 
    <th>Bemerkungen</th> 
-   <th>Art der Operation</th>
+   <th>Aktionstyp</th>
   </tr> 
   <tr> 
-   <td colspan="1">Link mit Programm einfügen</td> 
+   <td colspan="1">Initlink mit Programm</td> 
    <td colspan="1">Kampagne</td> 
    <td colspan="1">Verknüpfen von Kampagnen mit Programmen</td> 
    <td colspan="1">Aktualisieren</td>
   </tr>  
   <tr> 
    <td colspan="1">Gespräche abrufen</td> 
-   <td colspan="1">Person (Interessent)*</td> 
-   <td colspan="1">Ziehen Sie Konvertierungsaktionen von SFDC nach Marketo. Einheiten(Nummern) sind Interessenten, die in Kontakte konvertieren</td> 
+   <td colspan="1">Person (Lead)*</td> 
+   <td colspan="1">Ziehen Sie Konvertierungsaktionen von SFDC nach Marketo. Einheiten (Zahlen) sind Leads, die in Kontakte konvertiert werden</td> 
    <td colspan="1">Aktualisieren, Fehlgeschlagenes Element oder Übersprungen</td>
   </tr> 
   <tr> 
    <td colspan="1">Gelöschte abrufen</td> 
-   <td colspan="1">Kontakt, Person (Interessent), Gelegenheit, Kampagne, Kampagne Mitglieder, Kontaktmöglichkeit, Benutzerspezifische Objekte, Kampagnen, Status des Mitglieds der Kampagne, Kontaktrolle für Chancen</td> 
-   <td colspan="1">Gelöschte Aufzeichnungen des SFDC, das mit Marketo synchronisiert wird</td> 
+   <td colspan="1">Kontakt, Person (Lead), Gelegenheit, Kampagne, Campaign, Campaign-Mitglieder, Opportunity Contact, Custom Objects, Campaigns, Campaign Member Status, Opportunity Contact Rolle</td> 
+   <td colspan="1">Gelöschte Einträge von SFDC, die mit Marketo synchronisiert werden</td> 
    <td colspan="1">Gelöschte, fehlgeschlagene Elemente oder übersprungene Elemente</td>
   </tr>  
   <tr> 
    <td colspan="1">Aktualisierungen abrufen</td> 
-   <td colspan="1">Aufgabe, Person (Interessent), Person (Interessent), Warteschlange, Kontakt, Ereignis, Gelegenheit, Konto, Kontotyp, Kampagne Mitglieder, Benutzerspezifische Objekte, Kampagnen, Mitgliedsstatus der Kampagne, Ereignisse, Personenstand, Chancen, Kontaktrolle Chancen</td> 
-   <td colspan="1">Aktualisierungen oder neue Datensätze im SFDC mit Marketo synchronisiert, Ereignisse als Aktivitäten abrufen</td> 
+   <td colspan="1">Aufgabe, Person (Lead), Personen (Lead)-Warteschlange, Kontakt, Ereignis, Gelegenheit, Konto, Kontotyp, Kampagnenmitglieder, benutzerdefinierte Objekte, Kampagnen, Kampagnenmitgliedschaft, Ereignisse, Personenstand, Chancen, Kontaktrolle für Chancen</td> 
+   <td colspan="1">Aktualisierungen oder neue Einträge in SFDC, die mit Marketo synchronisiert werden, Pull-Ereignisse als Aktivitäten</td> 
    <td colspan="1">Neues, aktualisiertes, fehlgeschlagenes Element oder übersprungen</td>
   </tr>  
   <tr> 
@@ -219,12 +218,12 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
   <tr> 
    <td colspan="1">Aktualisierungen übertragen</td> 
    <td colspan="1">Aufgaben, E-Mail-Vorlagen, Person, Kontakt, Kampagnen</td> 
-   <td colspan="1">Übermitteln von Updates an das SFDC und Löschen</td> 
+   <td colspan="1">Push von Aktualisierungen an SFDC und auch Löschen</td> 
    <td colspan="1">Aktualisieren, Fehlgeschlagenes Element oder Übersprungen</td>
   </tr>  
   <tr> 
    <td colspan="1">Schema synchronisieren</td> 
-   <td colspan="1">Kampagnen-Mitglieder, Benutzerspezifische Objekte, Kampagnen, Mitgliedsstatus der Kampagne, Aufgaben, Person, Gelegenheit, Kontaktrolle für Gelegenheiten, Benutzer</td> 
+   <td colspan="1">Kampagnenmitglieder, benutzerdefinierte Objekte, Kampagnen, Status der Kampagnenmitglieder, Aufgaben, Person, Chancen, Kontaktrolle für Chancen, Benutzer</td> 
    <td colspan="1">Synchronisiert Metadaten für verschiedene Objekte, um zu entscheiden, welche neuen Felder im nächsten Zyklus synchronisiert werden sollen</td> 
    <td colspan="1"></td>
   </tr>  
@@ -237,16 +236,16 @@ Standardmäßig werden die Statistiken nach den neuesten Startvorgängen sortier
   <tr> 
    <td colspan="1">Aktivitäten aktualisieren</td> 
    <td colspan="1">Aufgaben</td> 
-   <td colspan="1">Aktivitäten aus Salesforce ziehen</td> 
+   <td colspan="1">Pull-Aktivitäten von Salesforce</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
    <td colspan="1">FKS aktualisieren</td> 
    <td colspan="1">Alle</td> 
    <td colspan="1">Fremdschlüssel aller Objekte aktualisieren</td> 
-   <td colspan="1">Nicht zutreffend</td>
+   <td colspan="1">n.z</td>
   </tr>  
  </tbody> 
 </table>
 
-*Die Branding-Konfiguration auf Abonnement-Ebene entscheidet über das Etikett - &quot;Lead&quot; oder &quot;Person&quot; im Bericht.
+&#42;Die Branding-Konfiguration auf Abonnementebene bestimmt die Bezeichnung &quot;Lead&quot;oder &quot;Person&quot;im Bericht.

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147089
-description: Programme - Marketo Docs - Produktdokumentation
-title: Programme verstehen
+description: Grundlegendes zu Programmen - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu Programmen
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
@@ -11,33 +10,33 @@ ht-degree: 7%
 
 ---
 
-# Programme {#understanding-programs}
+# Grundlegendes zu Programmen {#understanding-programs}
 
-Programme stellen eine einzige Marketinginitiative dar. Sie können sich das Programm als Container mit allen erforderlichen Elementen vorstellen - diese werden als lokale Assets bezeichnet und enthalten **Landingpages**, **email**, **intelligente Kampagnen** und mehr. Programme tun viel, aber es ist einfach zu beginnen.
+Programme stellen eine einzige Marketinginitiative dar. Sie können sich dies als Container mit all dem Zeug vorstellen, das Sie benötigen, um das Programm zum Laufen zu bringen. Diese werden als lokale Assets bezeichnet und enthalten **Landingpages**, **email**, **Smart-Kampagnen** und mehr. Programme machen viel, aber es ist einfach zu beginnen.
 
 Es gibt vier Arten von Programmen:
 
 **Veranstaltungsprogramme**
 
-**[Für](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** Ereignisse gilt eine bestimmte Uhrzeit und ein bestimmtes Datum. Sie unterstützen Sie bei der Koordination, Erleichterung und Verfolgung Ihrer Live- und Online-Ereignisse.
+**[Veranstaltungen](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** Sie haben eine bestimmte Uhrzeit und ein bestimmtes Datum. Sie helfen Ihnen bei der Koordinierung, Erleichterung und Verfolgung Ihrer Live- und Online-Ereignisse.
 
 **Engagementprogramme**
 
-**[Drip](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** Nurturingis wird angewendet, um Menschen in einem festgelegten periodischen Plan zu ernähren.
+**[Drilldown](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** wird verwendet, um Menschen in einem festgelegten regelmäßigen Zeitrahmen zu ernähren.
 
 **E-Mail-Programme**
 
-Die **[klassische E-Mail-Blast](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Es enthält coole integrierte Funktionen wie A/B-Tests und **[Email Head-Beginn](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
+Die **[klassische E-Mail-Blase](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Es verfügt über coole integrierte Funktionen wie A/B-Tests und **[Email Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Standardprogramme**
 
-Ein Standard-Programm ist alles, was kein Ereignis-, Interaktions- oder E-Mail-Programm ist. Schaffen Sie sich kreative Ideen.
+Ein Standardprogramm ist alles, was kein Ereignis-, Interaktions- oder E-Mail-Programm ist. Kreativ machen.
 
 Los geht&#39;s!
 
 >[!MORELIKETHIS]
 >
 >* [Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
->* [Informationen zur Programm-Mitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>* [Grundlegendes zu Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
+>* [Grundlegendes zur Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 

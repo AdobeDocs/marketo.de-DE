@@ -6,7 +6,7 @@ exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
 source-wordcount: '439'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -67,7 +67,7 @@ Wann [Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/em
    >
    >Marketo lässt nur Trigger/Filter für Personen zu, die die E-Mail aus diesem E-Mail-Programm erhalten haben. Daher ist es nicht erforderlich, einen Filter &quot;E-Mail gesendet&quot;hinzuzufügen. Achten Sie außerdem bei der Verwendung eines E-Mail-bezogenen Triggers/Filters darauf, &quot;ist vorhanden&quot;als Operator zu verwenden.
 
-1. Klicken **Schließen**.
+1. Klicken Sie auf **Schließen**.
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 

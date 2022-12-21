@@ -3,7 +3,6 @@ unique-page-id: 2953352
 description: Einträge direkt im Marketingkalender bearbeiten - Marketo Docs - Produktdokumentation
 title: Einträge direkt im Marketingkalender bearbeiten
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Einträge direkt im Marketingkalender bearbeiten{#edit-entries-directly-in-the-marketing-calendar}
+# Einträge direkt im Marketingkalender bearbeiten {#edit-entries-directly-in-the-marketing-calendar}
 
-Im Programm-Fokusmodus können Sie schnell Änderungen an Kalendereinträgen vornehmen. So geht es.
+Im Programmfokus-Modus können Sie schnell Änderungen an Kalendereinträgen vornehmen. So geht es.
 
-## Programm-Fokus aktivieren {#enable-program-focus}
+## Programmfokus aktivieren {#enable-program-focus}
 
-1. Gehen Sie zum Ordner **Kalender**.
+1. Navigieren Sie zu **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Wählen Sie einen Eintrag aus, der zu dem Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf **Programm-Fokus anzeigen**.
+1. Wählen Sie einen Eintrag aus, der zum Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf **Programmfokus anzeigen**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## Neuplaneintrag {#reschedule-entry}
+## Einstieg planen {#reschedule-entry}
 
-1. Ziehen Sie einfach einen Eintrag per Drag &amp; Drop, um ihn neu zu planen.
+1. Ziehen Sie einfach einen Eintrag per Drag-and-Drop, um ihn neu zu planen.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -49,21 +48,21 @@ Im Programm-Fokusmodus können Sie schnell Änderungen an Kalendereinträgen vor
 
 ## Einsendungstyp konvertieren {#convert-entry-type}
 
-Nachdem Sie Ihre Grundeinträge schnell eingegeben haben, können Sie sie in ihr endgültiges Formular konvertieren.
+Nachdem Sie Ihre Grundeinträge schnell eingegeben haben, können Sie sie in ihre endgültige Form konvertieren.
 
-1. Suchen und wählen Sie den Grundeintrag aus, den Sie konvertieren möchten, und ändern Sie dessen Typ.
+1. Suchen und wählen Sie den Grundeintrag aus, den Sie konvertieren möchten, und ändern Sie seinen Typ.
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## Details von Einträgen bearbeiten {#edit-entry-details}
+## Bearbeiten von Details zu Einsendungen {#edit-entry-details}
 
 Sie können schnell auf verschiedene Bereiche Ihrer Einträge zugreifen, um sie zu bearbeiten.
 
-1. Klicken Sie mit der rechten Maustaste auf einen Eintrag und wählen Sie den zu bearbeitenden Bereich aus.
+1. Klicken Sie mit der rechten Maustaste auf einen Eintrag und wählen Sie den Bereich aus, den Sie bearbeiten möchten.
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-Das ist&#39;s! Wie Sie sehen können, gibt es viele Dinge, die Sie direkt vom Marketingkalender aus tun können.
+Das ist es! Wie Sie sehen können, gibt es viele Dinge, die Sie direkt über den Marketingkalender erledigen können.
 
 >[!MORELIKETHIS]
 >

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2950799
-description: Tokens - Übersicht - Marketo Docs - Produktdokumentation
-title: Tokens - Übersicht
+description: Token-Übersicht - Marketo-Dokumente - Produktdokumentation
+title: Token-Übersicht
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
@@ -13,27 +12,27 @@ ht-degree: 1%
 
 # Token-Übersicht {#tokens-overview}
 
-Ein Token ist eine Variable, die in Marketo-Flussschritten für intelligente Kampagnen, E-Mails, Landingpages, Snippets und Web-Kampagnen verwendet werden kann.
+Ein Token ist eine Variable, die in Marketo-Schritten zum Fluss intelligenter Kampagnen, E-Mails, Landingpages, Snippets und Webkampagnen verwendet werden kann.
 
-## Standardwerte {#understanding-default-values}
+## Grundlegendes zu Standardwerten {#understanding-default-values}
 
-Wenn Sie ein Token verwenden, möchten Sie auch einen Standardwert angeben. Dieser Text zeigt an, ob eine Person keinen Wert für das Feld hat, auf das Sie verweisen.
+Wenn Sie ein Token verwenden, möchten Sie auch einen Standardwert bereitstellen. Dies ist der Text, der anzeigt, ob eine Person keinen Wert für das Feld hat, auf das Sie verweisen.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Grüße, Erdling&quot;(Standardwert).
+In diesem Beispiel lautet die E-Mail &quot;Grußformeln, (Vorname)&quot;oder &quot;Grußformeln, Erdling&quot;(Standardwert).
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->Tokens funktionieren nicht im Preheader, wenn der E-Mail-Editor von Marketo verwendet wird. Um ein Token im Preheader zu verwenden, muss es über Ihren eigenen HTML in einer E-Mail-Vorlage erfolgen.
+>Token funktionieren im Preheader nicht, wenn der E-Mail-Editor von Marketo verwendet wird. Um ein Token im Preheader zu verwenden, muss es über Ihre eigene HTML in einer E-Mail-Vorlage sein.
 
 >[!NOTE]
 >
->Diese Liste ist nicht erschöpfend. Token werden auch für jedes benutzerdefinierte Feld erstellt, das Sie in Marketo haben.
+>Diese Liste ist nicht vollständig. Token werden auch für jedes benutzerdefinierte Feld erstellt, das Sie in Marketo haben.
 
-## Person Tokens {#person-tokens}
+## Personen-Token {#person-tokens}
 
 * `{{lead.Acquisition Date}}`
 * `{{lead.Acquisition Program Name}}`
@@ -87,9 +86,9 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Benutzerdefinierte Personenfelder funktionieren auch, wenn Sie ihren Anzeigenamen verwenden, z. B. `{{lead.Custom Field Name}}`
+* Benutzerdefinierte Personenfelder funktionieren auch, wenn Sie beispielsweise ihren Anzeigenamen verwenden. `{{lead.Custom Field Name}}`
 
-## Firma Tokens {#company-tokens}
+## Firmen-Token {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -110,19 +109,19 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Benutzerdefinierte Firmen funktionieren auch, wenn Sie den Anzeigenamen z. B. verwenden. `{{Company.Custom Field Name}}`
+* Benutzerdefinierte Unternehmensfelder funktionieren auch, wenn Sie z. B. ihren Anzeigenamen verwenden. `{{Company.Custom Field Name}}`
 
-## Kampagne Tokens {#campaign-tokens}
+## Kampagnen-Token {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
 * `{{campaign.description}}`
 
-## System-Tokens {#system-tokens}
+## System-Token {#system-tokens}
 
 >[!NOTE]
 >
->Weitere Informationen zu diesen Token finden Sie im Glossar [SystemToken](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Weitere Informationen zu diesen Token finden Sie im Abschnitt [Glossar zu System-Token](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +130,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Trigger-Tokens {#trigger-tokens}
+## Trigger-Token {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,7 +148,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 
 >[!NOTE]
 >
->Weitere Informationen zu [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) finden Sie auf der Grundlage von Triggern, die in einer intelligenten Kampagne verwendet werden.
+>Weitere Informationen finden Sie unter [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basierend auf Triggern, die in einer Smart-Kampagne verwendet werden.
 
 ## Programm-Token {#program-tokens}
 
@@ -159,14 +158,14 @@ In diesem Beispiel lautet die E-Mail &quot;Grüße, (Vorname)&quot;oder &quot;Gr
 
 ## Meine Token {#my-tokens}
 
-Meine Token werden in einem Programm definiert und beginnen mit `{{my.`, gefolgt vom Namen, den Sie für das Token erstellt haben. Erfahren Sie mehr über [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Meine Token werden in einem Programm definiert und beginnen mit `{{my.` gefolgt von dem Namen, den Sie für das Token erstellt haben. Weitere Informationen [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Member Token {#member-token}
 
-Member Tokens werden verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. Eine häufige Verwendung von Mitglieds-Tokens ist für eindeutige URLs für Webinar-Teilnehmer. Jede Person hat eine eindeutige URL, um auf das Webinar zuzugreifen, das mit einem `{{member.webinar url}}`-Token eingefügt werden kann. Das Token `{{member.webinar url}}` löst automatisch die vom Dienstleister generierte eindeutige Bestätigungs-URL der Person auf.
+Member Tokens werden verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. Eine gängige Verwendung von Mitglieds-Token ist für eindeutige URLs für Webinar-Teilnehmer. Jede Person verfügt über eine eindeutige URL für den Zugriff auf das Webinar, die mithilfe einer `{{member.webinar url}}` Token. Die `{{member.webinar url}}` -Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Das Token `{{member.webinar url}}` wird nur gefüllt, wenn die intelligente Kampagne, die die E-Mail sendet, ein untergeordnetes Asset des Ereignis-Programms ist.
+>Die `{{member.webinar url}}` Token wird nur dann aufgefüllt, wenn die Smart-Kampagne, die die E-Mail sendet, ein untergeordnetes Asset des Ereignisprogramms ist.

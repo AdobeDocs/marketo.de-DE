@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2949283
-description: Senden und Verfolgen von Outlook mit einer Marketing-Vorlage - Marketing-Dokumente - Produktdokumentation
-title: Senden und Verfolgen von Outlook mit einer Marketing-Vorlage
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Versand und Tracking aus Outlook mit einer Marketo-Vorlage - Marketo-Dokumente - Produktdokumentation
+title: Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage
+exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage {#send-and-track-from-outlook-using-a-marketo-template}
 
-# Senden und Verfolgen von Outlook mit einer Marketing-Vorlage {#send-and-track-from-outlook-using-a-marketo-template}
+Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie damit Zeit sparen, wenn Sie E-Mails erstellen.
 
-Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie mit diesen Vorlagen Zeit sparen, wenn Sie Ihre E-Mails zusammenstellen.
-
-1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketing-Nachricht**.
+1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketo-Nachricht**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Wählen Sie die gewünschte Vorlage aus und klicken Sie auf **OK**, um sie Vorschau.
+1. Wählen Sie die gewünschte Vorlage aus, zeigen Sie sie in der Vorschau an und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
@@ -29,14 +28,14 @@ Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie 
 
    >[!NOTE]
    >
-   >Tokens werden vom Add-In nicht unterstützt. Entfernen Sie alle Elemente, die sich möglicherweise in der Vorlage befinden.
+   >Token werden vom Add-in nicht unterstützt. Entfernen Sie alle Elemente, die sich möglicherweise in der Vorlage befinden.
 
-1. Sehen Sie sich die Vorschau an, stellen Sie sicher, dass sie gut aussieht, und klicken Sie dann auf **Senden**.
+1. Überprüfen Sie die Vorschau, stellen Sie sicher, dass sie gut aussieht, und klicken Sie dann auf **Senden**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   Und da gehst du! Sie konnten eine Menge Zeit sparen, indem Sie Vorlagen verwenden, die Ihr super tolles Marketing-Team für Sie erstellt hat.
+   Und da geht&#39;s! Sie konnten mit Vorlagen, die Ihr supertolles Marketing-Team für Sie erstellt hat, viel Zeit sparen.
 
 >[!MORELIKETHIS]
 >
->[Loggen Sie eingehende E-Mails von Ihren Interessenten in Marketing ein](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Eingehende E-Mails von Ihren Leads in Marketo anmelden](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

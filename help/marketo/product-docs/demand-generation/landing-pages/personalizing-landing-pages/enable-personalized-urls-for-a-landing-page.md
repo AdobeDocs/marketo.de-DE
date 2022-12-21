@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359803
-description: Personalisierte URLs für eine Landingpage aktivieren - Marketing Docs - Produktdokumentation
-title: Aktivieren personalisierter URLs für eine Landingpage
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Personalisierte URLs für eine Landingpage aktivieren - Marketo Dokumente - Produktdokumentation
+title: Personalisierte URLs für eine Landingpage aktivieren
+exl-id: d87486f6-da49-406e-b1cf-781caba596c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Personalisierte URLs für eine Landingpage aktivieren {#enable-personalized-urls-for-a-landing-page}
 
-# Personalisierte URLs für eine Landingpage {#enable-personalized-urls-for-a-landing-page} aktivieren
-
-Personalisierte URLs eignen sich hervorragend für Kampagnen von Drucksendungen.
+Personalisierte URLs eignen sich hervorragend für Druckpost-Kampagnen.
 
 >[!PREREQUISITES]
 >
 >[Personalisierte URLs für Ihr Konto aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. Wählen Sie eine Landingpage und klicken Sie auf die Einstellungen für **Personalisierte URL**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf Einstellungen für **Personalisierte URL**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Sie können nun **Personalisierte URLs aktivieren** aktivieren und auf **Speichern** klicken.
+1. Jetzt können Sie **Personalisierte URLs aktivieren** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-Großartig! Jetzt haben Sie personalisierte URLs für Ihre Landingpage aktiviert. Besucher, die diese URL verwenden, werden erkannt und Token funktionieren ordnungsgemäß.
+Sehr gut! Jetzt haben Sie für Ihre Landingpage personalisierte URLs aktiviert. Besucher, die diese URL verwenden, werden erkannt und Token funktionieren ordnungsgemäß.

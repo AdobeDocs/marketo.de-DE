@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352612
-description: Planen einer Kampagne - Marketing Docs - Produktdokumentation
-title: Planen einer Kampagne
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Eine Kampagne planen - Marketo-Dokumente - Produktdokumentation
+title: Eine Kampagne planen
+exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Eine Kampagne planen {#schedule-a-campaign}
 
-# Planen einer Kampagne {#schedule-a-campaign}
+Sie können entweder jeden einzelnen E-Mail-Schritt Ihrer Kampagne so planen, dass er zu einem bestimmten Zeitpunkt ausgeführt wird, oder jeden nachfolgenden E-Mail-Schritt auswählen, um ihn gleichzeitig mit der ersten E-Mail in Ihrer Kampagne auszuführen.
 
-Sie können entweder jeden einzelnen E-Mail-Schritt Ihrer Kampagne planen, zu einem bestimmten Zeitpunkt auszugehen, oder Sie können jeden weiteren E-Mail-Schritt auswählen, der gleichzeitig mit der ersten E-Mail in Ihrer Kampagne gesendet werden soll.
+Sie müssen lediglich auswählen, wann Ihre E-Mails bei der Erstellung Ihrer Kampagne gesendet werden sollen.
 
-Sie müssen nur wählen, wann Ihre E-Mails bei der Erstellung Ihrer Kampagne gesendet werden sollen.
+Wenn Sie den ersten Schritt nicht planen oder einen Zeitpunkt für &quot;Senden am&quot;wählen müssen, werden Sie aufgefordert, festzulegen, wann Ihre Kampagne gesendet werden soll, und jedes Mal, wenn Sie eine Person oder eine Gruppe hinzufügen.
 
-Wenn Sie den ersten Schritt nicht planen oder einen Zeitpunkt für &quot;Senden am&quot;wählen müssen, werden Sie bei jedem Hinzufügen einer Person oder einer Kampagne aufgefordert, den Zeitpunkt des Versands auszuwählen.
+Öffnen Sie das Modal Zu Kampagne hinzufügen , indem Sie Einzelanwender, eine Gruppe oder ausgewählte Personen hinzufügen und auf **Nächste**.
 
-Öffnen Sie die Hinzufügen zum Modal &quot;Kampagne&quot;, indem Sie entweder Einzelpersonen, eine Gruppe oder ausgewählte Personen hinzufügen, und klicken Sie auf **Weiter**.
+Nachdem Sie auf **Nächste**, können Sie die erste E-Mail in der Vorschau anzeigen.
 
-Nachdem Sie auf **Weiter** geklickt haben, können Sie die erste E-Mail-Vorschau durchführen.
-
-Nachdem Sie erneut auf **Weiter** geklickt haben, werden Sie zu einer Option für den Zeitpunkt gebracht, zu dem Ihre Kampagne verlassen soll. Sie können den Beginn entweder jetzt haben oder einen Termin für den späteren Beginn der Kampagne einplanen.
+Nach dem Klicken **Nächste** wieder, werden Sie zu einer Option weitergeleitet, wenn Ihre Kampagne auslaufen soll. Sie können ihn entweder jetzt starten lassen oder einen Zeitpunkt für den späteren Beginn der Kampagne planen.

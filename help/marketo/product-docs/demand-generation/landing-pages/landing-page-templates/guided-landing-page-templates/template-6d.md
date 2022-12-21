@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 6D {#template-6d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+Rechtsklick auf [Download-Vorlage 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 

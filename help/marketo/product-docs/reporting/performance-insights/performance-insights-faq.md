@@ -1,140 +1,139 @@
 ---
 unique-page-id: 12979858
-description: Häufig gestellte Fragen zu Performance Insights - Marketing Docs - Produktdokumentation
-title: Häufig gestellte Fragen zu Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Häufig gestellte Fragen zu Leistungseinblicken - Marketo-Dokumente - Produktdokumentation
+title: Häufig gestellte Fragen zu Leistungseinblicken
+exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1357'
 ht-degree: 0%
 
 ---
 
+# Häufig gestellte Fragen zu Leistungseinblicken {#performance-insights-faq}
 
-# Häufig gestellte Fragen zu Performance Insights {#performance-insights-faq}
+## Wie lautet die Definition von &quot;Erfolg&quot;im Tab Interaktion? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
-## Was ist die Definition von &quot;Erfolg&quot;in der Registerkarte &quot;Interaktion&quot;? {#what-is-the-definition-of-success-in-the-engagement-tab}
-
-Erfolg ist ein Maß für sinnvolle Interaktion in Marketo. Der Zweck eines Programms besteht darin, eine aussagekräftige Interaktion mit der Person oder dem Potenzieller Kunde herzustellen. Der Erfolg wird markiert, wenn eine Person den Status erreicht, der dieses Ziel erreicht. Sie kann an einem Webinar teilnehmen, auf einen Link in einer E-Mail klicken oder ein Webformular ausfüllen. Der Erfolg hängt vom Kanal des Programms ab.
+Der Erfolg ist ein Maß für die sinnvolle Interaktion in Marketo. Ziel eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem Interessenten herzustellen. Der Erfolg wird markiert, wenn eine Person den Status erreicht, der dieses Ziel erreicht. Sie können an einem Webinar teilnehmen, auf einen Link in einer E-Mail klicken oder ein Webformular ausfüllen. Der Erfolg variiert je nach Programmkanal.
 
 >[!NOTE]
 >
->In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, registriert und teilgenommen. Eingeladene oder registrierte Interaktionen sind keine sinnvollen Interaktionen, weil die Leute das Webinar nicht wirklich ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
+>In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, registriert und angemeldet. Eingeladene oder registrierte Interaktionen sind nicht aussagekräftig, da die Leute sich das Webinar nicht ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
 
 ## Funktioniert MPI mit jedem CRM-System? {#will-mpi-work-with-any-crm}
 
-Ja. Technisch betrachtet interagiert MPI nicht direkt mit dem CRM für die Datensynchronisierung. MPI verwendet Daten, die in der Data Warehouse von Marketing-Analytics gespeichert sind. Da die CRM-Synchronisierung in der Lead Management-Anwendung stattfindet, werden die Daten in allen in die Lead Management-Anwendung integrierten, von Marketing unterstützten CRM-Systemen korrekt angezeigt. Die CRM-Opportunitätsfelder müssen jedoch den Marketo-Opportunitätsfeldern korrekt zugeordnet werden.
+Ja. Technisch betrachtet interagiert MPI nicht direkt mit dem CRM für die Datensynchronisation. MPI verwendet Daten, die in der Marketo Analytics-Data Warehouse gespeichert sind. Da die CRM-Synchronisation in der Lead-Management-Anwendung erfolgt, werden in allen von Marketo unterstützten CRM-Systemen, die in die Lead-Management-Anwendung integriert sind, die Daten korrekt angezeigt. Die CRM-Opportunitätsfelder müssen jedoch den Marketo-Opportunities-Feldern korrekt zugeordnet werden.
 
-## Ich habe keine anderen Marketing Analytics-Produkte (ARB, RCE, RCA, Programm-Analyse). Wird MPI für mich arbeiten? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
+## Ich habe keine anderen Marketing Analytics-Produkte (ARB, RCE, RCA, Programmanalyse). Wird MPI für mich arbeiten? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
 MPI ist ein unabhängiges Add-on zur Anwendung &quot;Lead Management&quot;. Die Verwendung anderer Analyseprodukte ist nicht erforderlich.
 
-## RCA zeigt mir auch Leistungsdaten zum Programm. Gibt es einen Unterschied zwischen den in MPI und RCA angezeigten Daten? {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
+## RCA zeigt auch Daten zur Programmleistung an. Gibt es einen Unterschied zwischen den in MPI und RCA angezeigten Daten? {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-Anzahl MPI liefert Daten aus demselben Data Warehouse wie RCA. Daher werden keine Datenunterschiede zwischen den beiden angezeigt. Mit RCA können Sie jederzeit eigene Berichte erstellen. MPI ermöglicht Ihnen den Zugriff auf leicht verständliche visuelle Dashboard.
+Anz. MPI liefert Daten aus demselben Data Warehouse wie RCA. Daher gibt es keine Datenunterschiede zwischen den beiden. Mit RCA können Sie direkt Ihre eigenen Berichte erstellen. MPI bietet Ihnen Zugriff auf leicht verständliche visuelle Dashboards.
 
-## Ich möchte nicht, dass einige meiner Programm (z.B. Operational) in MPI angezeigt werden. Wie kann ich die Sichtbarkeit bestimmter Programm steuern? {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
+## Ich möchte nicht, dass einige meiner Programme (z.B. operationell) in MPI angezeigt werden. Wie kann ich die Sichtbarkeit bestimmter Programme steuern? {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
-Sie können die Sichtbarkeit Ihrer Programm steuern, indem Sie das Analytics-Verhalten Ihrer Programm auf Operational einstellen. Dadurch wird das Programm aus den Analytics-Berechnungen ausgeschlossen.
-
->[!NOTE]
->
->Weitere Informationen zum Festlegen des Analyseverhaltens [hier](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
-
-## Ich führe eine Kampagne mit mehreren Kanälen für einen neuen Produktstart aus. Wie kann ich die Leistung für diese Kampagne an einem Ort an allen verschiedenen Kanälen Ansicht leisten? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
-
-Wir empfehlen, dass Sie für Programme, die Teil einer solchen Kampagne sind, Programm-Tags verwenden. Programm-Tags werden automatisch mit MPI synchronisiert und Sie können sie in allen MPI-Dashboards filtern, um die Leistung Ihrer Kampagne mit mehreren Kanälen Ansicht.
-
-## Habe ich Zugriff auf Zuordnungseinstellungen, wenn ich keine RCA habe? {#will-i-have-access-to-attribution-settings-if-i-do-not-have-rca}
-
-Sie erhalten Zugriff auf Zuordnungseinstellungen, wenn Sie MPI haben, unabhängig davon, ob Sie RCA haben oder nicht.
-
-## Ich erhalte eine Warnung in MPI, wenn ich mich anmelde und mir sage, dass meine Zuordnungseinstellungen falsch sind. Was ist los? {#i-get-an-alert-in-mpi-when-i-log-in-telling-me-that-my-attribution-settings-are-incorrect-what-s-wrong}
-
-MPI berechnet, ob alle Ihre Möglichkeiten in die Analyse einbezogen werden. Andernfalls werden Sie aufgefordert, eine Änderung Ihrer Zuordnungseinstellungen (Explizit, Implizit, Hybrid) in Erwägung zu ziehen, um weitere Möglichkeiten einzubeziehen.
-
-Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programm-Kosten in Ihren Programmen. Bitte überprüfen Sie das Analytics-Verhalten Ihrer Programm. Sie können:
-
-1. Standard - Das Standardverhalten ist, dass das Programm NUR in MPI enthalten ist, wenn mindestens ein Periodenkosten, auch wenn kein Dollar zugewiesen ist, vorhanden ist.
-
-1. Inklusiv - Mit dieser Option wird sichergestellt, dass das Programm in MPI verfügbar ist, unabhängig davon, ob Sie einen Zeitraumpreis angegeben haben oder nicht.
-
-1. [Operational](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  - Diese Option führt dazu, dass das Programm nicht in MPI angezeigt wird.
+Sie können die Sichtbarkeit Ihrer Programme steuern, indem Sie das Analytics-Verhalten Ihrer Programme auf &quot;Operativ&quot;setzen. Dadurch wird das Programm aus den Analyseberechnungen ausgeschlossen.
 
 >[!NOTE]
 >
->Die Zeitkosten **müssen für den Berichte &quot;Erfolg&quot;und &quot;Neue Namen&quot;im Dashboard &quot;Interaktion&quot;eingerichtet werden.** Dieses Dashboard nutzt Period Cost-Daten, um Aggregat-Erfolge und neue Namen zu erhalten. Wenn die Zeitraumkosten nicht eingerichtet sind, wird das Dashboard der Interaktion unabhängig von den oben genannten Analytics-Verhaltenseinstellungen nicht korrekt gemeldet.
+>Erfahren Sie mehr über das Festlegen des Analyseverhaltens [here](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
-## Warum vermisse ich einige Gelegenheiten in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
+## Ich führe eine kanalübergreifende Kampagne für einen neuen Produktstart durch. Wie kann ich die Leistung dieser Kampagne über alle Kanäle hinweg an einem Ort anzeigen? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
-Zwei wichtige Gründe, aus denen Ihnen möglicherweise Chancen in MPI fehlen, sind:
+Es wird empfohlen, für Programme, die Teil einer solchen Kampagne sind, Programm-Tags zu verwenden. Programm-Tags werden automatisch mit MPI synchronisiert und Sie können sie in allen MPI-Dashboards filtern, um Ihre kanalübergreifende Kampagnenleistung anzuzeigen.
 
-1. Die Zuordnungseinstellung ist auf Explizit eingestellt, aber den Möglichkeiten sind keine Kontaktrollen zugewiesen.
-1. Die Zeitkosten sind in Ihren Programmen nicht inbegriffen.
+## Habe ich Zugriff auf Attributionseinstellungen, wenn ich keine RCA habe? {#will-i-have-access-to-attribution-settings-if-i-do-not-have-rca}
 
-MPI berechnet, ob alle Ihre Möglichkeiten in die Analyse einbezogen werden. Andernfalls werden Sie aufgefordert, eine Änderung Ihrer Zuordnungseinstellungen (Explizit, Implizit, Hybrid) in Erwägung zu ziehen, um weitere Möglichkeiten einzubeziehen.
+Sie erhalten Zugriff auf Attributionseinstellungen bei MPI, unabhängig davon, ob Sie über RCA verfügen oder nicht.
 
-Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programm-Kosten in Ihren Programmen. Die Warnmeldung wird angezeigt, aber nicht darauf, welche Programm fehlen. Bitte überprüfen Sie Ihre Programm-Einrichtung, um die Kosten zu berücksichtigen und sicherzustellen, dass alle Ihre Programme und Möglichkeiten in MPI enthalten sind.
+## Ich erhalte eine Warnung in MPI, wenn ich mich anmelde und mir sage, dass meine Attributionseinstellungen falsch sind. Was ist los? {#i-get-an-alert-in-mpi-when-i-log-in-telling-me-that-my-attribution-settings-are-incorrect-what-s-wrong}
+
+MPI berechnet, ob alle Ihre Möglichkeiten in die Analyse einbezogen werden. Andernfalls werden Sie aufgefordert, eine Änderung Ihrer Attributionseinstellungen (explizit, implizit, Hybrid) in Erwägung zu ziehen, um weitere Möglichkeiten einzuschließen.
+
+Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programmkosten in Ihren Programmen. Bitte überprüfen Sie das Analytics-Verhalten Ihrer Programme. Sie können:
+
+1. Standard - Das Standardverhalten ist, dass das Programm NUR dann in MPI enthalten ist, wenn es mindestens einen Zeitraum kostet, selbst wenn einem keine Dollar zugewiesen ist.
+
+1. Einschließlich - Mit dieser Option wird sichergestellt, dass das Programm in MPI verfügbar ist, unabhängig davon, ob Sie Zeitraumkosten angegeben haben oder nicht.
+
+1. [Betrieb](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - Diese Option führt dazu, dass das Programm nicht in MPI angezeigt wird.
+
+>[!NOTE]
+>
+>Periodenkosten **has** für die Berichterstellung für Erfolg und neue Namen im Interaktions-Dashboard eingerichtet. In diesem Dashboard werden Daten zu den Period-Kosten verwendet, um Erfolge und neue Namen zu aggregieren. Wenn die Zeitkosten nicht eingerichtet sind, wird das Interaktions-Dashboard unabhängig von den oben genannten Analytics-Verhaltenseinstellungen nicht korrekt berichtet.
+
+## Warum vermisse ich einige Möglichkeiten in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
+
+Zwei wesentliche Gründe, aus denen Ihnen möglicherweise Chancen in MPI fehlen:
+
+1. Die Attributionseinstellung ist auf Explizit festgelegt, aber den Möglichkeiten sind keine Kontaktrollen zugewiesen.
+1. Die Zeitkosten sind nicht in Ihren Programmen enthalten.
+
+MPI berechnet, ob alle Ihre Möglichkeiten in die Analyse einbezogen werden. Andernfalls werden Sie aufgefordert, eine Änderung Ihrer Attributionseinstellungen (explizit, implizit, Hybrid) in Erwägung zu ziehen, um weitere Möglichkeiten einzuschließen.
+
+Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programmkosten in Ihren Programmen. Der Warnhinweis wird angezeigt, zeigt aber nicht an, auf welche Programme Kosten fehlen. Bitte überprüfen Sie Ihre Programmeinrichtung, um Kosten einzubeziehen, um sicherzustellen, dass alle Ihre Programme und Möglichkeiten in MPI enthalten sind.
 
 ## Warum werden im Interaktions-Dashboard keine benutzerdefinierten Felder, Opportunity Type und ABM-Filter angezeigt? {#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
 
-Benutzerdefinierte Felder, Opportunity Type und ABM-Filter sind alle Attribute, die sich auf eine Gelegenheit beziehen. Mit dem Dashboard Interaktion können Sie Ihren Einsatz und Ihre Interessentenakquisition messen, unabhängig davon, ob sie mit einer Gelegenheit verbunden sind oder nicht. Da das Dashboard Interaktion keine Gelegenheit berücksichtigt, gelten die Filter Benutzerdefinierte Felder, Opportunity Type und ABM nicht.
+Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, die sich auf eine Chance beziehen. Mit dem Interaktions-Dashboard können Sie Ihre Interaktion messen und Akquise leiten, unabhängig davon, ob sie einer Gelegenheit zugeordnet sind oder nicht. Da das Interaktions-Dashboard die Möglichkeiten nicht berücksichtigt, gelten benutzerdefinierte Felder, Opportunity Type und ABM Filters nicht.
 
-## Ich möchte ein benutzerdefiniertes Feld für Salesforce-Chancen für den Berichte Umsatz anstelle des Standardfelds Salesforce-Opportunity-Betrag verwenden. Wird MPI mir erlauben, das zu tun? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
+## Ich möchte ein benutzerdefiniertes Feld für Salesforce-Chancen für Umsatzberichte anstelle des standardmäßigen Felds Salesforce Opportunity Amount verwenden. Ermöglicht mir MPI das? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) Support kann das Feld &quot;Opportunity Amount&quot;von Marketo in ein benutzerdefiniertes Feld &quot;Salesforce Opportunity&quot;umwandeln, solange der Feldtyp Währung ist. Da MPI auf das Feld &quot;Größe der Marketing-Chance&quot;verweist, kann MPI die Daten aus dem neu zugeordneten Feld Salesforce verwenden.
+Ja. [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) kann das Feld &quot;Opportunity Amount&quot;von Marketo in ein benutzerdefiniertes Salesforce Opportunity -Feld umordnen, sofern der Feldtyp eine Währung ist. Da MPI auf das Feld Marketo Opportunity amount verweist, kann MPI die Daten aus dem neu zugeordneten benutzerdefinierten Salesforce-Feld verwenden.
 
 >[!NOTE]
 >
->Nach der Neuzuordnung zeigt MPI die Daten für die Zukunft an. Der historische Betrag wird nicht geändert.
+>Nach der Neukodifizierung zeigt MPI die Daten für die Zukunft an. Der historische Betrag wird nicht geändert.
 
-## Kann ich MPI trotzdem verwenden, wenn ich keine Möglichkeiten verwende? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
+## Wenn ich keine Möglichkeiten verwende, kann ich MPI trotzdem verwenden? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
 
-MPI ist so konzipiert, dass Sie die Performance des Programms von oben im Trichter bis hin zu den Auswirkungen auf den Umsatz messen können. Wenn Sie keine Chancen nutzen, können Sie trotzdem:
+Mit MPI können Sie die Programmleistung von oben im Trichter bis hin zu den Auswirkungen auf den Umsatz messen. Wenn Sie keine Möglichkeiten nutzen, können Sie weiterhin:
 
-* Leistung der Ansicht Ihrer Programme zur Pflege der Audience.
-* Ansicht der Performance Ihrer Interessentenakquise-Programm.
-* Ansicht von Kampagnen mit mehreren Kanälen über Programm-Tags.
-* Sehen Sie sich die Interaktionstrends der letzten 12 Audiencen an.
+* Zeigen Sie die Leistung Ihrer Pflegeprogramme für die Interaktion mit Zielgruppen an.
+* Zeigen Sie die Leistung Ihrer Lead-Akquiseprogramme an.
+* Anzeigen der Leistung von kanalübergreifenden Kampagnen über Programm-Tags.
+* Siehe Interaktionstrends der Zielgruppen in den letzten 12 Monaten.
 * Speichern und exportieren Sie Leistungsdaten in PowerPoint.
 
 ## Kann ich den Erfolg von kontobasierten Strategien in MPI messen? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI kann mit [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) integriert werden, um ABM-Konto-Listen nahtlos in MPI abzurufen. Mit dem ABM-Liste-Filter können Sie die gewünschte ABM-Liste zum Filtern von Daten auswählen.
+Ja. MPI-Integration mit [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) um ABM-Kontolisten nahtlos in MPI abzurufen. Sie können den Filter ABM-Kontoliste verwenden, um die gewünschte ABM-Liste auszuwählen, nach der die Daten gefiltert werden sollen.
 
-## Ist die Zuordnung sofort verfügbar, wenn ich MPI kaufe? {#is-attribution-instantly-available-when-i-purchase-mpi}
+## Ist die Attribution sofort verfügbar, wenn ich MPI kaufe? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Die Marketing Attribution Funktionen stehen unseren Kunden zur Verfügung, wenn sie MPI erwerben. Allerdings ist [das richtige Setup](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) erforderlich, um sicherzustellen, dass Chancen- und Programm-Daten korrekt in MPI fließen.
+Die Marketo-Attributionsfunktionen stehen unseren Kunden beim Kauf von MPI zur Verfügung. Allerdings [ordnungsgemäße Einrichtung](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) ist erforderlich, um sicherzustellen, dass Chancen und Programmdaten korrekt in MPI fließen.
 
-## Was muss ich tun, um eine Zuordnung einzurichten? {#what-do-i-have-to-do-to-set-up-attribution}
+## Was muss ich tun, um eine Attribution einzurichten? {#what-do-i-have-to-do-to-set-up-attribution}
 
 1. Einrichtung von Chancen
 
-   1. Stellen Sie sicher, dass Chancen mit Ihrem CRM-System synchronisiert werden
-   1. Wenn Ihre Zuordnungseinstellungen auf Explizit eingestellt sind, stellen Sie sicher, dass Kontaktrollen zu den Möglichkeiten ausgefüllt werden
-   1. Es wird empfohlen, die Attributseinstellung auf Hybrid zu ändern
-   1. Programm einrichten
+   1. Stellen Sie sicher, dass die Möglichkeiten mit Ihrem CRM-System synchronisiert werden
+   1. Wenn Ihre Attributionseinstellungen auf Explizit festgelegt sind, stellen Sie sicher, dass Kontaktrollen zu Chancen gefüllt werden.
+   1. Es wird empfohlen, die Attributionseinstellung in Hybrid zu ändern.
+   1. Programm-Installation
 
-      1. Programm-Kosten in Ihre Programm einschließen
+      1. Programmkosten in Ihre Programme aufnehmen
       1. Überprüfen Sie das Analyseverhalten, um anzugeben, ob ein Programm in die Analyse einbezogen werden soll.
-      1. Festlegen der Erfolgskriterien für jeden Kanal
-      1. Personen mit Programmen verbinden
+      1. Festlegen der Erfolgskriterien für jeden Kanal, den Sie haben
+      1. Personen an Programme binden
 
-         1. Stellen Sie sicher, dass für jede Person in Ihrer Datenbank Akquise-Programm und Akquise-Datum festgelegt wurden, damit die Zuordnung von First Touch funktioniert.
-         1. Stellen Sie sicher, dass Ihre Programm Erfolgsstatus für Personen in Ihrer Datenbank festlegen
+         1. Stellen Sie sicher, dass das Akquiseprogramm und das Akquisedatum für jede Person in Ihrer Datenbank festgelegt wurden, damit die Erstkontaktzuordnung funktioniert.
+         1. Stellen Sie sicher, dass Ihre Programme Erfolgsstatus für Personen in Ihrer Datenbank festlegen.
 
 >[!TIP]
 >
->Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) beschrieben.
+>Alle erforderlichen Einrichtungsschritte werden im Abschnitt [diesem Artikel](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Was ist der Unterschied zwischen MPI und dem Programm Analyzer? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
-Mit dem Programm Analyzer können Sie Ihre Programm mit bis zu vier Messwerten vergleichen. Mit MPI können Sie Ihren Kanal- und Programm-Beitrag zu einer bestimmten Metrik wie z. B. &quot;Erfolg&quot;, &quot;Erstellte neue Chancen&quot;usw. analysieren. Sie können auch den 12-monatigen Kanal-Trend basierend auf einer bestimmten Metrik, die Sie ausgewählt haben, Ansicht.
+Mit dem Programm-Analyzer können Sie Ihre Programme mit bis zu vier Kennzahlen vergleichen. Mit MPI können Sie Ihren Kanal- und Programmbeitrag zu einer ausgewählten Metrik analysieren, z. B. Erfolg, neu erstellte Chancen usw. Sie können damit auch den 12-Monats-Kanal-Trend basierend auf einer bestimmten Metrik anzeigen, die Sie ausgewählt haben.
 
 ## Was ist der Unterschied zwischen MPI und dem Advanced Report Builder? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-Der Advanced-Report Builder (auch als RCE bezeichnet) ist für den Self-Service (oder Ad-hoc-Berichte) konzipiert, der in der Regel von Marketing Operations ausgeführt wird. MPI wurde entwickelt, um Marketingfachleuten und Marketingfachleuten einen 1-Klick-Zugriff auf die Performance-Analyse zu gewähren. Es ist eine minimale Einrichtung erforderlich.
+Der erweiterte Report Builder (manchmal auch als RCE bezeichnet) ist für Self-Service-Berichte (oder Ad-hoc-Berichte) konzipiert, die normalerweise von Marketing Operations durchgeführt werden. MPI ist so konzipiert, dass Marketing-Experten und Marketing-Experten mit einem Klick auf die Leistungsanalyse zugreifen können. Es ist eine minimale Einrichtung erforderlich.
 
 ## Was ist mit der Option &quot;Vorheriges Jahr&quot;im Datumsfilter des Beitrags passiert? {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 
-Die Auswahl für &quot;Vorheriges Jahr&quot;wurde vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die Leistungsdaten des gesamten Jahres mithilfe der Auswahl des benutzerspezifischen Datumsbereichs anzuzeigen.
+Die Auswahl &quot;Vorheriges Jahr&quot;wurde vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die Leistungsdaten des gesamten Jahres mithilfe der Auswahl des benutzerdefinierten Datumsbereichs anzuzeigen.

@@ -1,43 +1,42 @@
 ---
 unique-page-id: 2359823
-description: Landingpages auf Facebook - Marketing-Dokumente - Produktdokumentation veröffentlichen
-title: Landingpages auf Facebook veröffentlichen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Veröffentlichen von Landingpages in Facebook - Marketo Docs - Produktdokumentation
+title: Veröffentlichen von Landingpages in Facebook
+exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
+# Veröffentlichen von Landingpages in Facebook {#publish-landing-pages-to-facebook}
 
-# Landingpages auf Facebook {#publish-landing-pages-to-facebook} veröffentlichen
-
-Sie können Ihre Landingpages auf Facebook veröffentlichen, Ihre Audience dort treffen, wo sie bereits hängen, und mehr Traffic zu Ihren Programms generieren.
+Sie können Ihre Landingpages in Facebook veröffentlichen, Ihre Audience dort treffen, wo sie bereits hängen, und mehr Traffic für Ihre Programme generieren.
 
 >[!AVAILABILITY]
 >
->SMB Spark, Standard &amp; Select. Enterprise mit separat lizenzierter Funktion.
+>SMB Spark, Standard und Select. Unternehmen mit separat lizenzierter Funktion.
 
 >[!PREREQUISITES]
 >
->Ihre Seite muss mindestens 2.000 &quot;Gefällt mir&quot;-Klicks aufweisen, bevor Sie auf Facebook veröffentlichen können.
+>Ihre Seite muss mindestens 2.000 &quot;Gefällt mir&quot;-Klicks aufweisen, bevor Sie in Facebook veröffentlichen können.
 
-Nehmen wir an, Sie starten ein neues Buch, Sie können einige Ihrer Audiencen per E-Mail und Website erreichen. Das Veröffentlichen einer Marketing-Landingpage zusätzlich zu Ihrer Facebook-Markenseite erreicht eine größere Audience und fördert die Freigabe Ihres Angebots.
+Angenommen, Sie führen ein neues Buch auf, Sie können einige Ihrer Zielgruppen per E-Mail und Website erreichen. Durch das Veröffentlichen einer Marketo-Landingpage zusätzlich zu Ihrer Facebook Brand Page wird eine größere Zielgruppe erreicht und die Freigabe Ihres Angebots wird gefördert.
 
 1. Wählen Sie eine genehmigte Landingpage aus.
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Wählen Sie **Auf Facebook** veröffentlichen aus den Landingpages-Aktionen.
+1. Auswählen **In Facebook veröffentlichen** von Landingpage-Aktionen.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
    >[!NOTE]
    >
-   >Diese Methode veröffentlicht Ihre Landingpage in einer Facebook-App (früher Facebook-Registerkarte). Da Facebook-Apps auf Mobilgeräten nicht verfügbar sind, funktioniert diese Technik nicht, wenn der Besucher versucht, auf Ihre Landingpage zuzugreifen, die auf einem Mobilgerät in einer Facebook-App veröffentlicht wurde.
+   >Mit dieser Methode wird Ihre Landingpage in einer Facebook-App veröffentlicht (ehemals &quot;Facebook-Tab&quot;). Da Facebook-Apps nicht für Mobilgeräte verfügbar sind, funktioniert diese Technik nicht, wenn der Besucher versucht, auf Ihre Landingpage zuzugreifen, die auf einem Mobilgerät in einer Facebook-App veröffentlicht wurde.
 
-1. Autorisieren Sie Marketo, Inhalte auf Ihrer Facebook-Seite zu veröffentlichen.
+1. Autorisieren Sie Marketo zum Veröffentlichen auf Ihrer Facebook-Seite.
 
    ![](assets/image2015-4-22-18-3a27-3a14.png)
 
@@ -47,20 +46,20 @@ Nehmen wir an, Sie starten ein neues Buch, Sie können einige Ihrer Audiencen pe
 
    >[!NOTE]
    >
-   >Sie müssen ein Konto verwenden, das über Administratorberechtigungen für die Facebook-Seite verfügt, auf der Sie Ihre Marketing-Landingpage veröffentlichen möchten.
+   >Sie müssen ein Konto mit Administratorberechtigungen für die Facebook-Seite verwenden, auf der Sie Ihre Marketo-Landingpage veröffentlichen möchten.
 
-1. Wählen Sie die **Facebook-Seite**, auf der Sie die Landingpage veröffentlichen möchten, und geben Sie den Namen ein, unter dem Ihre Marketing-Landingpage dort angezeigt werden soll.
+1. Wählen Sie die **Facebook-Seite** wo Sie die Landingpage veröffentlichen möchten, und geben Sie den Namen ein, unter dem Ihre Marketo-Landingpage dort erscheinen soll.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Um die zuvor bei Facebook veröffentlichten Marketo-Landingpages zu ersetzen, wählen Sie **Vorhandene Registerkarte ersetzen** und wählen Sie die Registerkarte aus, die in der Dropdown-Liste ersetzt werden soll. Beachten Sie, dass dies die Register &quot;non-Marketo&quot;nicht ersetzen wird.
+   >Um Marketo-Landingpages zu ersetzen, die Sie bereits in Facebook veröffentlicht haben, wählen Sie **Vorhandene Registerkarte ersetzen** und wählen Sie die zu ersetzende Registerkarte aus der Dropdown-Liste aus. Beachten Sie, dass Nicht-Marketo-Registerkarten dadurch nicht ersetzt werden.
 
-1. Interessenten können Ihre Landingpage jetzt direkt auf Ihrer Facebook-Seite besuchen. Klicken Sie einfach auf den Registernamen unter Ihrem Deckblattbild.
+1. Leads können Ihre Landingpage jetzt direkt auf Ihrer Facebook-Seite aufrufen. Klicken Sie einfach auf den Namen der Registerkarte unter Ihrem Titelbild.
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 
    >[!NOTE]
    >
-   >Um die Landingpage aus Facebook zu entfernen, heben Sie die Genehmigung in Marketing auf und wählen Sie bei Aufforderung die Option zum Entfernen der Facebook-Registerkarte aus.
+   >Um die Landingpage aus Facebook zu entfernen, deaktivieren Sie sie in Marketo und wählen Sie bei entsprechender Aufforderung die Option zum Entfernen des Facebook-Tabs aus.

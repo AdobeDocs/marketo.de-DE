@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14746184
-description: Geschichte-Karte abbestellen - Marketing Docs - Produktdokumentation
-title: Protokollkarte abmelden
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Verlauf der Abmeldung - Marketo-Dokumente - Produktdokumentation
+title: Verlauf der Abmeldung
+exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Verlauf der Abmeldung {#unsubscribe-history-card}
 
-# Protokollkarte abbestellen {#unsubscribe-history-card}
-
-Die History Card zum Abbestellen von Abonnements hilft Administratoren und Benutzern, kontextbezogene Informationen über den Abmeldeverlauf ihrer Kontakte zu erhalten.
+Die Karte Verlauf der Abmeldung hilft Administratoren und Benutzern, kontextbezogene Informationen über den Abmeldeverlauf ihrer Kontakte zu erhalten.
 
 >[!NOTE]
 >
->Klicken Sie auf die Registerkarte &quot;Personen&quot;und wählen Sie eine Person aus. Sie befindet sich unten auf der Registerkarte Info in der Ansicht Personendetails (falls sie nicht abonniert werden).
+>Klicken Sie auf den Tab Personen und wählen Sie eine Person aus. Sie befindet sich unten auf der Registerkarte Info in der Ansicht &quot;Persönliche Details&quot;(falls sie sich abgemeldet haben).
 
 ![](assets/1-1.jpg)
 
@@ -29,15 +28,15 @@ Die History Card zum Abbestellen von Abonnements hilft Administratoren und Benut
  <tbody> 
   <tr> 
    <td><strong>Datum</strong></td> 
-   <td><p>Zeigt das Datum an, an dem das Abmelden/erneute Abonnieren stattgefunden hat.</p></td> 
+   <td><p>Zeigt das Datum der Abmeldung/erneuten Anmeldung an.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Details</strong></td> 
-   <td><p>Resubscribe: Ein Sales Connect-Administrator hat das Abmelden manuell aus dem Kontaktdatensatz entfernt. Es kann auch einige Details darüber anzeigen, warum der Kontakt abgemeldet wurde.</p><p>Abmelden: Der Kontakt wurde abgemeldet.</p></td> 
+   <td><p>Neu anmelden: Ein Sales Connect-Administrator hat die Abmeldung manuell aus dem Kontaktdatensatz entfernt. Es können auch einige Details angezeigt werden, die darauf hinweisen, warum sich der Kontakt abgemeldet hat.</p><p>Abmelden: Der Kontakt wurde abgemeldet.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td><p>Salesforce-Synchronisierung: Die Abmeldung wurde durch eine Synchronisierung von Salesforce erfasst.</p><p>Manuell: Der Benutzer klickte auf die Schaltfläche zum Abmelden, um Opt-out.</p><p>Klicken Sie auf Link: Empfänger einer E-Mail, die auf den Link zum Abmelden geklickt hat.</p><p>"Administratorname": Der Name eines Administrators wird angezeigt, wenn die Aktion zum erneuten Abonnieren von Kontakten durchgeführt wurde. Dadurch erhalten Benutzer Informationen darüber, wer das Abmelden entfernt hat.</p></td> 
+   <td><p>Salesforce Sync: Die Abmeldung wurde durch eine Synchronisierung von Salesforce erfasst.</p><p>Manuell: Der Benutzer klickte auf die Abmelde-Schaltfläche, um sich abzumelden.</p><p>Angeklickter Link: Der Empfänger einer E-Mail hat auf den Abmelde-Link geklickt.</p><p>"Admin Name": Der Name eines Administrators wird angezeigt, wenn die Aktion darin bestand, Kontakte erneut anzumelden. Auf diese Weise können Benutzer wissen, wer die Abmeldung entfernt hat.</p></td> 
   </tr> 
  </tbody> 
 </table>

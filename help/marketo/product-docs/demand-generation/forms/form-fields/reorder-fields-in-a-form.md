@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359592
-description: Felder in einem Formular neu anordnen - Marketing-Dokumente - Produktdokumentation
-title: Felder in einem Formular neu anordnen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Neuanordnen von Feldern in einem Formular - Marketo-Dokumente - Produktdokumentation
+title: Neuanordnen von Feldern in einem Formular
+exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Felder in einem Formular neu anordnen{#reorder-fields-in-a-form}
+# Neuanordnen von Feldern in einem Formular {#reorder-fields-in-a-form}
 
 Es ist einfach, Felder in einem Marketo-Formular neu anzuordnen. So geht es.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/editform.png)
 
@@ -29,6 +28,6 @@ Es ist einfach, Felder in einem Marketo-Formular neu anzuordnen. So geht es.
 
 >[!TIP]
 >
->Sie können die Felder auch per Drag &amp; Drop nebeneinander einfügen. Dadurch können Sie Spalten machen!
+>Sie können die Felder auch per Drag-and-Drop nebeneinander einfügen. Dadurch können Sie Spalten erstellen!
 
-Gute Arbeit! Du bist so ein Schurke.
+Großartig gemacht! Du machst das Ding zum Verhängnis.

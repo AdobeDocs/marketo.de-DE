@@ -3,7 +3,6 @@ unique-page-id: 2949678
 description: SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste - Marketo Docs - Produktdokumentation
 title: SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# SEO - Suchbegriffe Hinzufügen/aus einer Liste {#seo-add-remove-keywords-from-a-list} entfernen
+# SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste {#seo-add-remove-keywords-from-a-list}
 
-Mit Listen können Sie alle Suchbegriffe angenehm und organisiert halten. Dadurch wird das Auffinden von Daten zu bestimmten Suchbegriffen einfach.
+Sie können alle Ihre Suchbegriffe mithilfe von Listen organisieren. Dadurch wird das Auffinden von Daten zu bestimmten Suchbegriffen einfach.
 
-## hinzufügen in eine Liste {#add-to-a-list}
+## Einer Liste hinzufügen {#add-to-a-list}
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe**.
+1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken **Aus Liste hinzufügen/entfernen**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -37,15 +36,15 @@ Mit Listen können Sie alle Suchbegriffe angenehm und organisiert halten. Dadurc
 
 Woo hoo! Wählen Sie Ihre Liste aus, um die neuen Suchbegriffe anzuzeigen.
 
-## Suchbegriff aus Liste {#remove-keyword-from-list} entfernen
+## Suchbegriff aus Liste entfernen {#remove-keyword-from-list}
 
-Sie können Suchbegriffe auch aus einer Liste entfernen.
+Sie können auch Suchbegriffe aus einer Liste entfernen.
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe**.
+1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken Sie auf **Hinzufügen/Entfernen aus Liste**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken **Aus Liste hinzufügen/entfernen**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,12 +52,12 @@ Sie können Suchbegriffe auch aus einer Liste entfernen.
 
    >[!NOTE]
    >
-   >Alle Listen, zu denen der Suchbegriff gegenwärtig gehört, haben ein Häkchen. Nach dem Entfernen aus der Liste wird der Häkchen ausgeblendet.
+   >Alle Listen, zu denen der Suchbegriff gehört, verfügen derzeit über ein Häkchen. Nach dem Entfernen aus der Liste verschwindet die Prüfung.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
-   Perfekt, der Suchbegriff befindet sich nicht mehr auf dieser Liste. Aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
+   Perfekt, der Suchbegriff steht nicht mehr auf dieser Liste. Aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
 
    >[!MORELIKETHIS]
    >
-   >[Die Suchbegriffe (Ansicht der Zusammenfassung)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

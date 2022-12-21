@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10096523
-description: Ansicht des Push-Benachrichtigungs-Dashboards - Marketing Docs - Produktdokumentation
-title: Ansicht des Push-Benachrichtigungs-Dashboards
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Anzeigen des Dashboards für Push-Benachrichtigungen - Marketo-Dokumente - Produktdokumentation
+title: Anzeigen des Dashboards für Push-Benachrichtigungen
+exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
+# Anzeigen des Dashboards für Push-Benachrichtigungen {#view-the-push-notification-dashboard}
 
-# Ansicht des Push-Benachrichtigungs-Dashboards {#view-the-push-notification-dashboard}
+Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
-Es ist einfach zu erkennen, wie Ihre Push-Benachrichtigungen funktionieren.
-
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,20 +22,20 @@ Es ist einfach zu erkennen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klicken Sie auf **Ansicht: Zusammenfassung** und wählen Sie **Dashboard**.
+1. Klicken **Ansicht: Zusammenfassung** und wählen Sie **Dashboard**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Sie können die Registerkarten &quot;Gesendet insgesamt&quot;und &quot;Gesamt&quot;für iOS und Android in Kreisdiagrammen Ansicht haben. Blättern Sie nach unten, um die Option &quot;Tonabnahme&quot;in Balkendiagrammen anzuzeigen.
+1. Sie können die Gesamtzahl der gesendeten Nachrichten und die Gesamtübersichten für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um in Balkendiagrammen auf &quot;Verfall&quot;zu tippen.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 
    >[!NOTE]
    >
-   >Die Metrik _Gesendet_ kann mehr Sends als die exakte Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang des Push-Vorgangs infrage kommen. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sends, nicht eine.
+   >Die _Gesendet_ Metrik kann mehr Sendungen als die genaue Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* die für Ihren Push-Empfang qualifiziert sind. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sendungen, nicht eine.
 
    >[!MORELIKETHIS]
    >
-   >* [Informationen zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-   >* [Push-Benachrichtigung für Mobilgeräte senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+   >* [Grundlegendes zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Mobile Push-Benachrichtigung senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 

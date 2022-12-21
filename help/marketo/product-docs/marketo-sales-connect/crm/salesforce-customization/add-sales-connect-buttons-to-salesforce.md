@@ -1,38 +1,37 @@
 ---
 unique-page-id: 14352463
-description: hinzufügen Verkaufsschaltflächen zum Verbinden mit Salesforce - Marketing Docs - Produktdokumentation
-title: Schaltflächen Hinzufügen Verkaufsverbindung zu Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Hinzufügen von Schaltflächen für Verkaufsverbindungen zu Salesforce - Marketo Docs - Produktdokumentation
+title: Hinzufügen von Verkaufsverbindungs-Schaltflächen zu Salesforce
+exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Hinzufügen von Verkaufsverbindungs-Schaltflächen zu Salesforce {#add-sales-connect-buttons-to-salesforce}
 
-# hinzufügen Verkaufsschaltflächen zum Verbinden mit Salesforce {#add-sales-connect-buttons-to-salesforce}
+## In Marketo Sales Connect pushen {#push-to-marketo-sales-connect}
 
-## Push to Marketing Sales Connect {#push-to-marketo-sales-connect}
+1. Navigieren Sie zu **Einrichtung** then **Anpassen**.
+1. Öffnen Sie unter &quot;Kontakte/Leads/Konten&quot; **Suchlayouts**.
+1. Lead-Listenansicht bearbeiten und ziehen **Push to MSC** in die ausgewählten Schaltflächen.
 
-1. Gehen Sie zu **Setup** und dann **Anpassen**.
-1. Öffnen Sie unter Kontakte/Interessenten/Konten **Layouts suchen**.
-1. Bearbeiten Sie die Ansicht &quot;Interessentenanwerbung&quot;und ziehen Sie **Zu MSC** verschieben in die Liste &quot;Ausgewählte Schaltflächen&quot;.
-
-## E-Mail an Marketing an Vertrieb senden {#send-marketo-sales-email}
-
-1. Bearbeiten Sie das Seitenlayout für Lead/Kontakt/Konto.
-1. Wählen Sie den Abschnitt &quot;Schaltflächen&quot;aus.
-1. Ziehen Sie die Schaltfläche **MSC-E-Mail senden** und ziehen Sie sie in den Abschnitt **Benutzerdefinierte Schaltflächen** der Details.
-
-## Aufruf an Marketing Sales Connect {#call-with-marketo-sales-connect}
+## Marketo Verkaufs-E-Mail senden {#send-marketo-sales-email}
 
 1. Bearbeiten Sie das Seitenlayout für Lead/Kontakt/Konto.
-1. Wählen Sie den Abschnitt &quot;Schaltflächen&quot;aus.
-1. Ziehen Sie die Schaltfläche **Aufruf mit MSC** und ziehen Sie sie in den Abschnitt **Benutzerdefinierte Schaltflächen** der Details.
+1. Wählen Sie den Bereich für Schaltflächen aus.
+1. Grab die **MSC-E-Mail senden** und ziehen Sie sie in die **Benutzerdefinierte Schaltflächen** im Bereich Details.
 
-## hinzufügen in Kampagne {#add-to-campaign}
+## Anruf mit Marketo Sales Connect {#call-with-marketo-sales-connect}
 
 1. Bearbeiten Sie das Seitenlayout für Lead/Kontakt/Konto.
-1. Wählen Sie den Abschnitt &quot;Schaltflächen&quot;aus.
-1. Ziehen Sie die Schaltfläche **Hinzufügen auf MSC-Kampagne** und ziehen Sie sie in den Abschnitt **Benutzerdefinierte Schaltflächen** der Details.
+1. Wählen Sie den Bereich für Schaltflächen aus.
+1. Grab die **Aufruf mit MSC** und ziehen Sie sie in die **Benutzerdefinierte Schaltflächen** im Bereich Details.
+
+## Zu  Kampagne hinzufügen {#add-to-campaign}
+
+1. Bearbeiten Sie das Seitenlayout für Lead/Kontakt/Konto.
+1. Wählen Sie den Bereich für Schaltflächen aus.
+1. Grab die **Zu MSC Campaign hinzufügen** und ziehen Sie sie in die **Benutzerdefinierte Schaltflächen** im Bereich Details.

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146974
-description: Qualifikationsregeln in einer intelligenten Kampagne bearbeiten - Marketo Docs - Produktdokumentation
-title: Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne
+description: Bearbeiten von Qualifikationsregeln in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
+title: Bearbeiten von Qualifikationsregeln in einer Smart-Kampagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
@@ -11,32 +10,32 @@ ht-degree: 0%
 
 ---
 
-# Bearbeiten von Qualifikationsregeln in einer intelligenten Kampagne {#edit-qualification-rules-in-a-smart-campaign}
+# Bearbeiten von Qualifikationsregeln in einer Smart-Kampagne {#edit-qualification-rules-in-a-smart-campaign}
 
-Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne durch den Fluss laufen kann. Standardmäßig wird eine Smart-Kampagne nur einmal durch den Fluss gesendet, selbst wenn ein Trigger mehrere Male erfolgt. So ändern Sie diese Einstellungen.
+Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne durch den Fluss laufen kann. Standardmäßig werden Smart-Kampagnen nur einmal durch den Fluss gesendet, selbst wenn sie von einem Trigger mehrmals gesendet werden. Hier erfahren Sie, wie Sie diese Einstellungen ändern können.
 
-1. Klicken Sie in Ihrer intelligenten Kampagne auf die Registerkarte **Plan** und dann **Einstellungen bearbeiten**.
+1. Klicken Sie in Ihrer Smart-Kampagne auf die **Zeitplan** Registerkarte und dann **Einstellungen bearbeiten**.
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >Sie können auch auf **Bearbeiten** rechts neben &quot;Einstellungen für intelligente Kampagne&quot;klicken.
+   >Sie können auch auf **Bearbeiten** rechts neben &quot;Einstellungen für intelligente Kampagnen&quot;.
 
-1. Wählen Sie aus, wie oft Ihre Mitarbeiter durch den Fluss intelligenter Kampagnen geführt werden sollen: **Nur einmal**, **jedes Mal** oder **einmal alle # Tage**/**Wochen**/**Monate**.
+1. Legen Sie fest, wie oft Ihre Personen durch den Smart-Campaign-Fluss geführt werden sollen: **nur einmal**, **jedes Mal** oder **einmal pro # Tage**/**Wochen**/**months**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Regel einmal täglich festlegen, wandelt Marketo diese in Stunden um. Wenn Sie die Regel beispielsweise auf einmal pro Tag festlegen und eine Person an einem Sonntagabend um 22.00 Uhr qualifiziert ist, kann sie sich nicht vor 22.00 Uhr montags abends erneut qualifizieren. Diese Logik gilt auch bei Verwendung von Wochen oder Monaten. Ein Monat wird immer als 30 Tage gezählt.
+   >Wenn Sie eine Regel einmal täglich festlegen, wandelt Marketo diese in Stunden um. Wenn Sie beispielsweise die Regel auf einmal pro Tag festlegen und eine Person an einem Sonntagabend um 22 Uhr qualifiziert ist, kann sie sich nicht vor 22 Uhr Montagabend erneut qualifizieren. Diese Logik gilt auch bei der Verwendung von Wochen oder Monaten. Ein Monat wird immer als 30 Tage gezählt.
 
    >[!NOTE]
    >
-   >Kommunikationsbeschränkungen werden nicht standardmäßig auf intelligente Kampagnen angewendet. Erfahren Sie, wie Sie auf eine intelligente Kampagne [Kommunikationsbeschränkungen anwenden.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >Kommunikationsbeschränkungen werden nicht standardmäßig auf Smart-Kampagnen angewendet. Erfahren Sie, wie Sie [Kommunikationsbeschränkungen für intelligente Kampagnen anwenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >[Kommunikationsbeschränkungen auf intelligente Kampagnen anwenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >[Anwenden von Kommunikationsbeschränkungen auf Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
-Auftrag erfüllt! Sie wissen jetzt, wie Sie Qualifikationsregeln in einer intelligenten Kampagne steuern können.
+Mission erfüllt! Sie wissen jetzt, wie Sie Qualifizierungsregeln in einer intelligenten Kampagne steuern können.

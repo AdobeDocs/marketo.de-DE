@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359728
-description: Benutzerhandbücher für das Design von Landingpages - Marketing Docs - Produktdokumentation
-title: Benutzerhandbücher für das Entwerfen von Landingpages
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Benutzerhandbücher für das kostenlose Landingpage-Design - Marketo-Dokumente - Produktdokumentation
+title: Benutzerhandbücher für das kostenlose Landingpage-Design
+exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
+# Benutzerhandbücher für das kostenlose Landingpage-Design {#use-guides-for-free-form-landing-page-design}
 
-# Guides für das Entwerfen von Landingpages mit Freiform {#use-guides-for-free-form-landing-page-design} verwenden
-
-Beim Entwerfen einer Freiform-Landingpage können Sie Hilfslinien verwenden, die Ihnen beim Ausrichten der Komponenten helfen.
+Bei der Erstellung einer Landingpage ohne Formulare können Sie Hilfslinien verwenden, um die Komponenten besser auszurichten.
 
 >[!NOTE]
 >
->Guides sind nur im Editor **Free-form** Landingpage verfügbar.
+>Guides sind nur auf der Seite **Freiform** Landingpage-Editor.
 
 1. Wählen Sie eine **Landingpage** und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicken Sie auf **Aktionen der Landingpage** und wählen Sie **Hilfslinien anzeigen**.
+1. Klicken **Landingpage-Aktionen** und wählen Sie **Handbücher anzeigen**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
-1. Über der Arbeitsfläche wird eine vertikale und horizontale Hilfslinie angezeigt. Verwenden Sie den Cursor, um sie zu verschieben.
+1. Über der Arbeitsfläche wird eine vertikale und horizontale Führungslinie angezeigt. Verwenden Sie den Cursor, um sie zu verschieben.
 
    ![](assets/image2015-5-20-14-3a15-3a9.png)
 
-1. Ziehen Sie ein Objekt über die Linie. Lassen Sie den Vorgang beginnen, wenn die Linie breit Dublette wird und das Objekt an der Hilfslinie ausgerichtet wird.
+1. Ziehen Sie ein Objekt über die Linie. Lassen Sie loslegen, wenn sich die Breite der Linie verdoppelt und das Objekt an der Führung ausgerichtet wird.
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
-   Alignment Objekte sind einfach zu sehen!
+   Alignierte Objekte sind leicht in den Augen!

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2360035
-description: Drilldown in einem Bericht zur Leistung von Personen - Marketing-Dokumente - Produktdokumentation
-title: Drilldown in einem Personendaten-Leistungsbericht
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Drilldown in einem People Performance Report - Marketo Docs - Produktdokumentation
+title: Drilldown in einem Personen-Leistungsbericht
+exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Drilldown in einem Personen-Leistungsbericht {#drill-down-in-a-people-performance-report}
 
-# Drilldown in einem Personendaten-Leistungsbericht {#drill-down-in-a-people-performance-report}
+Führen Sie einen Drilldown in einem Personen-Leistungsbericht durch, um weitere Personendaten anzuzeigen.
 
-Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weitere Personendaten anzuzeigen.
-
-1. Klicken Sie auf die Registerkarte **Bericht**, um einen vorhandenen Bericht Ansicht.
+1. Klicken Sie auf **Bericht** um einen vorhandenen Bericht anzuzeigen.
 
    ![](assets/one.png)
 
@@ -23,22 +22,22 @@ Führen Sie einen Drilldown in einem Personendaten-Leistungsbericht aus, um weit
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Drill-Down**.
+1. Klicken Sie auf **Drilldown**.
 
    ![](assets/three.png)
 
-1. Wählen Sie im Popupfenster **Drill-Down** das Attribut aus, zu dem Sie einen Drilldown durchführen möchten. Klicken Sie dann auf **Drill-Down**.
+1. Im **Drilldown** ein, wählen Sie das Attribut aus, zu dem Sie einen Drilldown durchführen möchten. Klicken Sie anschließend auf **Drilldown**.
 
    ![](assets/four.png)
 
-1. Gute Arbeit! Der Drilldown-Bericht wird in einer neuen Registerkarte geöffnet. Nun können Sie den neuen Bericht untersuchen.
+1. Großartig gemacht! Der Drilldown-Bericht wird in einer neuen Registerkarte geöffnet. Nun können Sie den neuen Bericht einsehen.
 
    >[!TIP]
    >
-   >Wenn keine neue Registerkarte für Berichte geöffnet ist, blockiert Ihr Browser möglicherweise Popups. Ändern Sie die Browsereinstellungen, um sie zuzulassen.
+   >Wenn keine neue Registerkarte für Berichte geöffnet wird, blockiert Ihr Browser möglicherweise Popup-Fenster. Ändern Sie Ihre Browsereinstellungen, um dies zu ermöglichen.
 
    ![](assets/five.png)
 
-1. Klicken Sie zum Speichern der Ergebnisse (optional) unten links auf das Symbol **Export**.
+1. Um Ihre Ergebnisse zu speichern (optional), klicken Sie auf das **Export** unten links.
 
    ![](assets/six.png)

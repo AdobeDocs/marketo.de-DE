@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2360005
-description: Firma Web Aktivität Report - Marketing Docs - Produktdokumentation
-title: Bericht zur Web-Aktivität der Firma
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Web-Aktivitätsbericht für Unternehmen - Marketo-Dokumente - Produktdokumentation
+title: Bericht zur Web-Aktivität des Unternehmens
+exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# Bericht zur Web-Aktivität des Unternehmens {#company-web-activity-report}
 
-# Bericht zur Web-Aktivität der Firma {#company-web-activity-report}
+Ermitteln Sie, welche Unternehmen Ihre Website besuchen. Sie können bekannte oder anonyme Besucher anzeigen lassen, jedoch nicht beide im selben Bericht.
 
-Erkennen Sie, welche Firmen Ihre Website besuchen. Sie können bekannte oder anonyme Besucher anzeigen, jedoch nicht beide im gleichen Bericht.
-
-Erstellen Sie einen [Bericht zur Aktivität der Webseite](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), um die einzelnen Personen anzuzeigen, die Ihre Site besuchen.
+Erstellen Sie eine [Webseitenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) um die einzelnen Personen zu sehen, die Ihre Site besuchen.
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) einrichten.
+>Um Aktivitäten von Ihrer Website in Marketo aus zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site einrichten](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Erstellen Sie einen ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den  [Berichtstyp](report-type-overview.md) &quot;Firma Web Aktivität&quot;.
+1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Web-Aktivitätsbericht der Firma aus. [Berichtstyp](report-type-overview.md).
 
-1. Wählen Sie [Bekannte oder anonyme Personen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) im Bericht anzeigen.
+1. Wählen Sie [bekannte oder anonyme Personen anzeigen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) in den Bericht ein.
 
-1. [Legen Sie den Zeitraum Ihres ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
+1. [Den Zeitrahmen Ihres Berichts festlegen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
 
-1. Das ist&#39;s! Überprüfen Sie Ihren Bericht, um zu sehen, welche Firmen Ihre Site besuchen.
+1. Das ist es! Überprüfen Sie Ihren Bericht, um zu sehen, welche Unternehmen Ihre Site besuchen.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Um die Firmen zu finden, die Ihre Site am häufigsten besuchen, sortieren Sie [Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in der Spalte _Ansichten_ und wählen Sie **Absteigend sortieren**.
+   >Um die Unternehmen zu finden, die Ihre Site am häufigsten besuchen, [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) auf _Seitenansichten_ und wählen Sie **Absteigende Sortierung**.
 
-   [Folgende Spalten können Sie für einen Bericht zur Web-Aktivität der Firma ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
+   [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) umfassen für einen Web-Aktivitätsbericht einer Firma folgende Informationen:
 
 <table> 
  <thead> 
@@ -46,28 +45,28 @@ Erstellen Sie einen [Bericht zur Aktivität der Webseite](/help/marketo/product-
  </thead> 
  <tbody> 
   <tr> 
-   <td>Firma</td> 
-   <td>Die Firma der Besucher.<br> <strong>Die </strong> fett gedruckten Bezeichnungen werden von mindestens einer Person als Firma bestätigt.</td> 
+   <td>Unternehmen</td> 
+   <td>Die Firma der Besucher.<br> <strong>Fettgedruckte Namen</strong> von mindestens einer Person als Firmenname bestätigt werden.</td> 
   </tr> 
   <tr> 
-   <td>Vorgestellte Firma oder ISP</td> 
-   <td>Die Firma, wie aus der IP-Adresse des Besuchers abgeleitet. <br> <strong>Die Namen in </strong> Fettdruck weisen darauf hin, dass dies die Firma ist, nicht der ISP. </td> 
+   <td>Abgeleitetes Unternehmen oder abgeleiteter ISP</td> 
+   <td>Das Unternehmen, wie aus der IP-Adresse des Besuchers abgeleitet. <br> <strong>Fettgedruckte Namen</strong> Geben Sie an, dass es sich um das Unternehmen handelt, nicht um den ISP. </td> 
   </tr> 
   <tr> 
-   <td>Ansichten der Seite</td> 
-   <td>Anzahl der von den Besuchern geladenen Seiten.</td> 
+   <td>Seitenansichten</td> 
+   <td>Anzahl der von Besuchern geladenen Seiten.</td> 
   </tr> 
   <tr> 
-   <td>Personen</td> 
-   <td>Anzahl der Personen aus dieser Firma, die Ihre Site besucht haben.</td> 
+   <td>Personal</td> 
+   <td>Anzahl der Personen dieses Unternehmens, die Ihre Site besucht haben.</td> 
   </tr> 
   <tr> 
-   <td>Land, Bundesland/-region und Stadt</td> 
-   <td>Geografischer Standort der Firma.</td> 
+   <td>Land, Bundesland/Region und Stadt</td> 
+   <td>Geografischer Standort des Unternehmens.</td> 
   </tr> 
   <tr> 
-   <td>Erster/Letzter Besuch (Zeitzone)</td> 
-   <td>Datum und Uhrzeit des ersten/letzten Besuchs eines Besuchers aus dieser Firma.</td> 
+   <td>Erstbesuch/Letzter Besuch (Zeitzone)</td> 
+   <td>Datum und Uhrzeit des ersten/letzten Besuchs durch jemanden aus diesem Unternehmen.</td> 
   </tr> 
  </tbody> 
 </table>

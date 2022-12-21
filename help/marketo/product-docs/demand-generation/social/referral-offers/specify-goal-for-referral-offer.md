@@ -1,60 +1,59 @@
 ---
 unique-page-id: 2359791
-description: Ziel für das Referrer-Angebot - Marketing-Dokumente - Produktdokumentation
-title: Angebot für Verweis angeben
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Ziel für Verweisangebot angeben - Marketo Docs - Produktdokumentation
+title: Ziel für Verweisangebot angeben
+exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
+# Ziel für Verweisangebot angeben {#specify-goal-for-referral-offer}
 
-# Ziel für Referrer-Angebot {#specify-goal-for-referral-offer} angeben
+Wenn Sie [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)müssen Sie das Erfüllungsziel definieren. Das Ziel kann durch die Personenaktivität auf der Webseite definiert werden, z. B. Seitenbesuche oder Anmeldungen. Sie können sogar eine [benutzerdefiniertes JavaScript-Ereignis](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Wenn Sie [ein Verweisziel erstellen, müssen Sie das Fulfillment-Angebot definieren. ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) Das Ziel kann durch die persönliche Aktivität auf der Webseite definiert werden, z. B. durch Seitenbesuche oder Anmeldungen. Sie können sogar ein [benutzerdefiniertes JavaScript-Ereignis](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md) verwenden.
-
-Alternativ können Sie einen Smart-Liste-Trigger in Marketo verwenden, um auf einen Meilenstein zu warten, z. B. eine Möglichkeit, die für die überweisende Person erstellt wird.
+Alternativ können Sie einen Trigger mit der intelligenten Liste in Marketo verwenden, um auf einen Meilenstein zu warten, z. B. eine Chance, die für die referenzierte Person erstellt wurde.
 
 Beispielziele:
 
 * 10 Besuche
-* 5 Weitergeleitete Anmeldungen
-* 1 benannte Chance
+* 5 weitergeleitete Anmeldungen
+* 1 überwiesene Chance
 * 2 referenzierte E-Commerce-Käufe
-* 5 überwiesene Webinar-Teilnehmer
+* 5 verwiesene Webinarteilnehmer
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie das verweisende Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Verweisangebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. Wechseln Sie im Editor für Verweisdokumente zu **App-Einstellungen** > **Angebot-Details**.
+1. Navigieren Sie im Angebotseditor zu **App-Einstellungen** > **Angebotsdetails**.
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. Wählen Sie unter **Settings** einen Ereignistyp aus der Dropdownliste **Fulfillment-Ziel**.
+1. under **Einstellungen**, wählen Sie einen Ereignistyp aus der **Erfüllungsziel** Dropdown-Liste.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->Wenn Sie den Flussschritt **Gutschrift an Werber** verwenden möchten, müssen Sie **Trigger für intelligente Liste** als Zieltyp für die Erfüllung hier auswählen.
+>Wenn Sie die **Gutschrift an verweisende Stelle** Flussschritt: Sie müssen **Smart List Trigger** als Zieltyp für die Erfüllung.
 
-* Verweisende Besuche: Angebot-Teilnehmer erhalten eine Gutschrift für jeden Besuch von einem Freund auf der Seite, auf der sich Ihr Angebot befindet.
-* Referred Sign-Ups: Angebot-Teilnehmer erhalten die Gutschrift für jeden Freund, der sich für das Angebot anmeldet.
-* Trigger für intelligente Liste: Angebot-Teilnehmer erhalten die Gutschrift für jeden Freund, der die Voraussetzungen eines [Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)-Triggers in einer [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) erfüllt. Sie können beispielsweise einen Trigger verwenden, der ausgelöst wird, wenn sich ein verwiesener Potenzieller Kunde für ein Webinar anmeldet.
+* Referred Visits: Angebotsteilnehmer erhalten die Gutschrift für jeden Besuch von einem Freund auf der Seite, auf der sich Ihr Angebot befindet.
+* Referred Sign-Ups: Angebotsteilnehmer erhalten die Gutschrift für jeden Freund, der sich für das Angebot anmeldet.
+* Smart List Trigger: Die Teilnehmer des Angebots erhalten die Gutschrift für jeden Freund, der die Bedingungen eines [Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) Trigger in einem [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Sie können beispielsweise einen Trigger verwenden, der ausgelöst wird, wenn sich ein überwiesener Interessent für ein Webinar anmeldet.
 
-* Benutzerdefiniertes JavaScript-Ereignis: Angebot-Teilnehmer erhalten die Gutschrift für jeden Freund, der ein definiertes JavaScript-Ereignis auf Ihrer Seite Trigger. Siehe [Konvertierungsskript für benutzerdefinierte Ereignis](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* Benutzerspezifisches JavaScript-Ereignis: Angebotsteilnehmer erhalten die Gutschrift für jeden Freund, der ein bestimmtes JavaScript-Ereignis auf Ihrer Seite Trigger. Siehe [Konversionsskript für benutzerspezifische Ereignisse](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
->In intelligenten Kampagnen stehen neue Filter und Trigger zur Überwachung der sozialen Aktivität zur Verfügung. Siehe [Verwenden Sie Trigger und Filter für Social-Aktivitäten](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>In Smart-Kampagnen stehen neue Filter und Trigger zur Überwachung sozialer Aktivitäten zur Verfügung. Siehe [Verwenden von Triggern und Filtern für Social-Aktivitäten](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!MORELIKETHIS]
 >
->Als Nächstes können Sie [die Anmelde- und Fulfillment-E-Mails](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) auswählen, die von Ihrem Verweisdokument gesendet werden sollen.
+>Als Nächstes können Sie [die Anmelde- und Erfüllungs-E-Mails auswählen](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) über Ihr Verweisangebot zu senden.

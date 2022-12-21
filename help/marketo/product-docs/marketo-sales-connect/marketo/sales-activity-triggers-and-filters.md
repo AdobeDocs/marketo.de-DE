@@ -1,6 +1,6 @@
 ---
-description: Trigger und Filter von Sales Aktivität - Marketo Docs - Produktdokumentation
-title: Trigger und Filter von Sales Aktivität
+description: Trigger und Filter für Verkaufsaktivitäten - Marketo-Dokumente - Produktdokumentation
+title: Trigger und Filter für Verkaufsaktivitäten
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
@@ -9,17 +9,17 @@ ht-degree: 0%
 
 ---
 
-# Trigger und Filter von Sales Aktivität {#sales-activity-triggers-and-filters}
+# Trigger und Filter für Verkaufsaktivitäten {#sales-activity-triggers-and-filters}
 
-Wenn Sie die Interaktion mit Ihrem Vertriebsteam besser koordinieren möchten oder eine bessere Ansicht für die Kundenbindung über die Journey erhalten möchten, sind Sales Aktivität Insights in Marketo nützlich für Sie.
+Wenn Sie die Interaktion mit Ihrem Verkaufsteam besser koordinieren möchten oder versuchen, einen besseren Überblick darüber zu erhalten, wie sie mit Kunden über die Käufer-Journey interagieren, sind Sales Activity Insights in Marketo nützlich für Sie.
 
-Folgen Sie den folgenden Schritten, um zu erfahren, wie Sie die Filter und Trigger Ihrer Sales Aktivität in Ihren intelligenten Kampagnen nutzen können.
+Gehen Sie wie folgt vor, um zu erfahren, wie Sie in Ihren Smart-Kampagnen Filter und Trigger für Verkaufsaktivitäten verwenden.
 
-1. Suchen Sie die gewünschte Smart-Kampagne und wählen Sie sie aus.
+1. Suchen und wählen Sie die gewünschte Smart-Kampagne aus.
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. In **Intelligente Liste** auf, suchen Sie nach &quot;Sales Apps&quot;.
+1. Im **Smart List** Registerkarte &quot;Sales Apps&quot;durchsuchen.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -27,10 +27,10 @@ Folgen Sie den folgenden Schritten, um zu erfahren, wie Sie die Filter und Trigg
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
-1. Wählen Sie die gewünschten Beschränkungen aus.
+1. Wählen Sie die gewünschten Begrenzungen aus.
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
 >[!NOTE]
 >
->Eine vollständige Liste der Aktivitäten, Einschränkungen und Definitionen finden Sie in unserer [Glossar zur Aktivität des Verkaufs](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Eine vollständige Liste der Aktivitäten, Begrenzungen und Definitionen finden Sie in unserer [Glossar zur Verkaufsaktivität](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

@@ -1,41 +1,40 @@
 ---
 unique-page-id: 11380774
-description: Kontobewertung - Marketing-Dokumente - Produktdokumentation
+description: Kontobewertung - Marketo-Dokumente - Produktdokumentation
 title: Kontobewertung
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Kontobewertung {#account-score}
 
-Die Kontoauswertung ist ein wesentlicher Bestandteil der Kontoverwaltung der Zielgruppe. Sie hilft Ihnen dabei, die Interaktionsstufe Ihrer Konten zu bestimmen.
+Die Kontobewertung ist ein wichtiger Bestandteil der Target-Kontoverwaltung. Dies hilft Ihnen bei der Bestimmung der Interaktionsstufe Ihrer Konten.
 
 ## Was ist Kontobewertung? {#what-is-account-scoring}
 
-Es handelt sich dabei um einen systematischen Ansatz, der Vertriebs- und Marketingteams dabei unterstützt, die Firmen (einschließlich Potenzieller Kunde) zu identifizieren und zu priorisieren, die am ehesten einen Kauf tätigen.
+Es handelt sich dabei um einen systematischen Ansatz, der Vertriebs- und Marketingteams dabei hilft, Unternehmen (einschließlich Interessenten) zu identifizieren und zu priorisieren, die am ehesten einen Kauf tätigen.
 
-In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine Einzelperson eine Kaufentscheidung trifft. Es gibt oft verschiedene Rollen, die jeweils mit ihren eigenen Bedürfnissen verbunden sind. Die kontenbasierte Bewertung berücksichtigt dies, indem sie die Interessentenbewertungen aus mehreren Interessenten zusammenfasst und eine Bewertung auf Kontoebene bereitstellt.
+In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperson eine Kaufentscheidung trifft. Es gibt oft verschiedene Rollen, die jeweils eigene Bedürfnisse haben. Bei der kontobasierten Auswertung wird dies berücksichtigt, indem die Lead-Bewertungen aus mehreren Leads aggregiert und eine Bewertung auf Kontoebene bereitgestellt wird.
 
-## Allgemeine Beispiele {#common-examples}
+## Häufige Beispiele {#common-examples}
 
 <table> 
  <tbody>
   <tr>
-   <td><strong>Bewertung der Kontointeraktion</strong></td> 
-   <td>Einsatztiefe basierend auf verhaltensbasierten Aktivitäten, die über verschiedene Kanal (z. B. E-Mail, Web und Anzeige) von Personen in bestimmten Zielgruppen verfolgt werden.</td>
+   <td><strong>Kundeninteraktions-Score</strong></td> 
+   <td>Tiefe der Interaktion basierend auf Verhaltensaktivitäten, die über verschiedene Kanäle (z. B. E-Mail, Web und Anzeige) von Personen in bestimmten Zielkonten verfolgt werden.</td>
   </tr>
   <tr>
-   <td><strong>Bewertung des Kontoproduktinteresses</strong></td>
-   <td>Personen aus Zielgruppen-Konten, die Interesse an Inhalten eines bestimmten Produkts zeigen (z. B. Herunterladen eines White Papers).</td> 
+   <td><strong>Bewertung der Kundenproduktinteressen</strong></td>
+   <td>Personen aus Zielkonten, die von einem bestimmten Produkt aus Interesse an dem Inhalt zeigen (z. B. Herunterladen eines Whitepaper).</td> 
   </tr>
   <tr>
-   <td><strong>Bewertung der Web-Interaktion mit Konten</strong></td>
-   <td>Besucher von Zielgruppen-Konten, die Web Kanal besuchen. Dieselbe Punktzahl kann erstellt werden, um die Interaktion der Kanal mit E-Mail, Anzeigen oder anderen Kanälen zu messen.</td> 
+   <td><strong>Bewertung der Web-Interaktion des Kontos</strong></td>
+   <td>Personen aus Zielkonten, die den Webkanal besuchen. Dieselbe Punktzahl kann erstellt werden, um die Kanalinteraktion aus E-Mail, Anzeigen oder anderen Kanälen zu messen.</td> 
   </tr>
  </tbody>
 </table>
@@ -44,43 +43,43 @@ In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine Einzelperson
 
 >[!NOTE]
 >
->Zur Berechnung der Kontowerte müssen Sie zunächst eine Interessentenbewertung erstellen. Marketo TAM Aggregat automatisch Interessentenbewertungen zu Kontowerten. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Konto-Produktzielbewertung_ und _Konto-Webinteraktionsbewertung_).
+>Um Kontobewertungen zu berechnen, müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert automatisch Lead-Bewertungen zu Kontobewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Bewertung der Kundenproduktinteressen_ und _Bewertung der Web-Interaktion des Kontos_).
 >
->Erstellen Sie zunächst Interessentenbewertungsfelder, die relevante Details aus jedem Interessenten eines Zielgruppen-Kontos erfassen.\
->Weisen Sie dann diese Interessentenbewertungen ihren jeweiligen Kontowerten zu:\
->Ergebnis des Kontoproduktinteresses = SUM (Interessentenproduktbewertung)\
->Bewertung der Web-Interaktion mit Konten = SUM (InteressentenWebinteraktion)
+>Erstellen Sie zunächst Lead-Punktfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.\
+>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Kontobewertungen zu:\
+>Account Product Interest Score = SUM (Lead Product Interest Score)\
+>Bewertung der Web-Interaktion des Kontos = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >
->Benutzer können mehrere Kontobindungswerte erstellen und verschiedenen Kontoergebnissen unterschiedliche Personenergebnisse zuweisen.
+>Benutzer können mehrere Kontointeraktionsbewertungen erstellen und unterschiedliche Personenergebnisse verschiedenen Kontobewertungen zuweisen.
 
-Nachdem Sie die Interessentenbewertung konfiguriert haben, führen Sie die folgenden Schritte aus.
+Nachdem Sie die Lead-Punktzahl konfiguriert haben, fahren Sie mit den folgenden Schritten fort.
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Zielgruppe Kontoverwaltung**.
+1. Klicken **Verwaltung von Target-Konten**.
 
    ![](assets/account-score-2.png)
 
-1. Klicken Sie in den Bewertungsfeldern auf **Bearbeiten**.
+1. Klicken Sie in den Scoring-Feldern auf **Bearbeiten**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Sie können bis zu den Feldern **fünf** auswählen, um die Kontobewertung zu berechnen.
+   >Sie können bis zu **fünf** -Felder zur Berechnung der Kontobewertung.
 
-1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf die Dropdownliste **Personenergebnis auswählen** und wählen Sie die entsprechende Punktzahl aus.
+1. Geben Sie den Namen der Kontobewertung ein und klicken Sie auf **Personenbewertung auswählen** und wählen Sie die entsprechende Punktzahl aus.
 
    ![](assets/four.png)
 
-1. Klicken Sie auf **+Hinzufügen**, um weitere Ergebnisse hinzuzufügen.
+1. Klicken **+Hinzufügen** , um weitere Bewertungen hinzuzufügen.
 
    ![](assets/five.png)
 
-1. hinzufügen Sie alle gewünschten Ergebnisse. Klicken Sie abschließend auf **Speichern**.
+1. Fügen Sie alle gewünschten Bewertungen hinzu. Klicken **Speichern** wann geschehen.
 
    ![](assets/six.png)

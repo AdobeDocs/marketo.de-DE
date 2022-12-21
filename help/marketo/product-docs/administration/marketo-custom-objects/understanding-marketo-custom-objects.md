@@ -18,12 +18,12 @@ Verwenden Sie benutzerdefinierte Objekte, um Metriken zu verfolgen, die für Ihr
 >
 >Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-Verwenden Sie benutzerdefinierte Objekte als Filter und Trigger in Ihren Smart-Kampagnen. Zum Beispiel:
+Verwenden Sie benutzerdefinierte Objekte als Filter und Trigger in Ihren Smart-Kampagnen. Beispiel:
 
 * **Filter**: E-Mails nur an Inhaber einer bestimmten Fahrzeugmarke senden
 * **Trigger**: Senden Sie eine E-Mail, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird.
 
-Sie können benutzerdefinierte Objekte in einer Eins-zu-viele- oder einer n-zu-n-Beziehung einrichten. Zum Beispiel:
+Sie können benutzerdefinierte Objekte in einer Eins-zu-viele- oder einer n-zu-n-Beziehung einrichten. Beispiel:
 
 * **Eins-zu-viele**: Eine Person besitzt mehrere Autos
 * **Viele-zu-viele**: Mehrere Schüler/innen sind an mehreren Kursen aus einem Kurskatalog eingeschrieben

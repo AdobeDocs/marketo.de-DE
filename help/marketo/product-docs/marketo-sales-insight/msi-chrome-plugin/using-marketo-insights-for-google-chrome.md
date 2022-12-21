@@ -1,76 +1,75 @@
 ---
 unique-page-id: 7512944
-description: Verwenden von Marketo Insights für Google Chrome - Marketing Docs - Produktdokumentation
+description: Verwenden von Marketo Insights für Google Chrome - Marketo Docs - Produktdokumentation
 title: Verwenden von Marketo Insights für Google Chrome
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Verwenden von Marketo Insights für Google Chrome {#using-marketo-insights-for-google-chrome}
 
-Senden und verfolgen Sie alle Google-E-Mails mit den Marketing Insights for Google Chrome.
+Senden und verfolgen Sie alle Google-E-Mails mit Marketo Insights für Google Chrome.
 
 >[!PREREQUISITES]
 >
->[Installieren von Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[Installieren Sie Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
-## E-Mail mit Marketo Insights {#send-an-email-with-marketo-insights} senden
+## E-Mail mit Marketo Insights senden {#send-an-email-with-marketo-insights}
 
-1. Klicken Sie im Fenster Erstellen auf das Symbol Markieren.
+1. Klicken Sie im Fenster Erstellen auf das Symbol Marketo .
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. Die Senden-Schaltfläche hat Marketo lila! Diese E-Mail wird nun mit Marketo gesendet, alle Links werden verfolgt und ein Pixel für die Verfolgung wird in die E-Mail eingefügt. Dies wird als E-Mail-Aktivität zum Versand aufgezeichnet.
+1. Die Schaltfläche Senden hat Marketo violett gemacht! Diese E-Mail wird jetzt mit Marketo gesendet, alle Links werden verfolgt und ein Tracking-Pixel wird in die E-Mail eingefügt. Dies wird als E-Mail-Aktivität &quot;Gesendete Verkäufe&quot;aufgezeichnet.
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
    >[!NOTE]
    >
-   >Ein Tracking-Pixel zeigt Ihnen, wer Ihre E-Mail geöffnet hat.
+   >Ein Tracking-Pixel gibt an, wer Ihre E-Mail geöffnet hat.
 
    >[!TIP]
    >
-   >Optional können Sie auf den Pfeil für die Dublette klicken, um die Ansicht im Vollbildmodus zu erweitern.
+   >Klicken Sie optional auf den Doppelpfeil, um eine Vollbildansicht anzuzeigen.
 
-1. Wenn Sie Ihre E-Mail mit einer veröffentlichten Marketing-Vorlage füllen möchten, klicken Sie auf **Mehr Optionen** und wählen Sie **Markierung zur Vorlage laden**.
+1. Wenn Sie Ihre E-Mail mit einer veröffentlichten Marketo-Vorlage vorab ausfüllen möchten, klicken Sie auf **Weitere Optionen** und wählen Sie **Marketo-Vorlage laden**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Wählen Sie eine **Verfügbare Vorlage** und klicken Sie auf **OK**.
+1. Wählen Sie eine **Verfügbare Vorlage** und klicken Sie auf **Ok**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Geben Sie Ihren Inhalt, eine E-Mail-Adresse und klicken Sie auf **Senden**.
+1. Geben Sie Ihren Inhalt, eine E-Mail-Adresse ein und klicken Sie auf **Senden**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >Nachrichten werden nur verfolgt, wenn die Schaltfläche **Senden** violett ist.
+   >Nachrichten werden nur verfolgt, wenn die **Senden** Schaltfläche ist violett.
 
-1. Die E-Mail erscheint in Kürze in Ihrem Marketo Sales Insight und alle geöffnet und Klicks werden nachverfolgt.
+1. Die E-Mail wird bald in Ihrem Marketo Sales Insight angezeigt und alle Öffnungen und Klicks werden verfolgt.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## Protokoll E-Mail-Antworten mit Marketo {#log-email-replies-with-marketo}
+## E-Mail-Antworten mit Marketo protokollieren {#log-email-replies-with-marketo}
 
-Sie können Antworten und alte Aktivitäten im Verlauf der Aktivität eines Interessenten protokollieren.
+Sie können Antworten und alte Aktivitäten im Aktivitätsverlauf eines Leads protokollieren.
 
-1. Klicken Sie im Bereich Vorschau von Google Mail auf **Mit Marketo** anmelden.
+1. Klicken Sie im Vorschaufenster von Google Mail auf **Mit Marketo anmelden**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. Das ist alles! Die E-Mail wird demnächst in Marketo Sales Insight erscheinen.
+1. Das ist alles! Die E-Mail wird bald in Marketo Sales Insight angezeigt.
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Installieren von Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [Ansicht Person und Kontoinformationen und Aktivitäten in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [Installieren Sie Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Anzeigen von Personen- und Kontoinformationen und -aktivitäten in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 

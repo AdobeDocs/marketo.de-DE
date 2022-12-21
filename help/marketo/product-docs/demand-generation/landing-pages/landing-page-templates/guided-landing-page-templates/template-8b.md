@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 8B {#template-8b}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html) herunterladen
+Rechtsklick auf [Download-Vorlage 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 

@@ -1,44 +1,43 @@
 ---
 unique-page-id: 7504923
-description: Google AdWords-Konvertierungen im Umsatzmodell mit einem Manager-Konto - Marketing Docs - Produktdokumentation festlegen
-title: Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto festlegen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Festlegen von Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto - Marketo Docs - Produktdokumentation
+title: Festlegen von Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto
+exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
 
 ---
 
+# Festlegen von Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-# Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account} festlegen
+Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um Offline-Konversionsdaten automatisch von Marketo in Google AdWords hochzuladen. Anschließend können Sie in der AdWords-Benutzeroberfläche einfach sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) geführt haben, nachdem Sie [Benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556) in AdWords.
 
-Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um automatisch Offline-Konversionsdaten von Marketing zu Google AdWords hochzuladen. In der Benutzeroberfläche von AdWords können Sie dann einfach sehen, welche Klicks zu qualifizierten Interessenten, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) führten, nachdem Sie [benutzerdefinierte Spalten](https://support.google.com/adwords/answer/3073556) in AdWords hinzugefügt haben.
+Wenn Sie über mehrere Google Adwords -Konten verfügen, können Sie eine [Google AdWords Manager-Konto](https://www.google.com/adwords/manager-accounts/) (ehemals &quot;My Client Center&quot;), um sie in Marketo zu integrieren.
 
-Wenn Sie über mehrere Google Adwords-Konten verfügen, können Sie ein [Google AdWords Manager-Konto](https://www.google.com/adwords/manager-accounts/) (früher &quot;Mein Client-Center&quot;genannt) verwenden, um diese in Marketing zu integrieren.
+Sie können AdWords-Offline-Konversionen einer oder mehreren Phasen in einem Umsatzmodell zuordnen. Es gibt zwei Möglichkeiten:
 
-Sie können AdWords-Offline-Konvertierungen einer oder mehreren Phasen in einem Umsatzmodell zuordnen. Es gibt zwei Möglichkeiten:
-
-* Aktion der Stufe
+* Staging-Aktion
 * AdWords-Zuordnung
 
 >[!PREREQUISITES]
 >
->[hinzufügen von Google AdWords als Startpunktdienst mit einem Managerkonto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+>[Hinzufügen von Google AdWords als Startpunktdienst mit einem Manager-Konto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
-## Aktion der Stufe {#use-stage-action} verwenden
+## Verwenden der Staging-Aktion {#use-stage-action}
 
-Ordnen Sie eine AdWords-Konversion unter &quot;Stage-Aktionen&quot;zu.
+Ordnen Sie eine AdWords-Konversion unter &quot;Staging-Aktionen&quot;zu.
 
-1. Wählen Sie den Schritt aus, den Sie einer AdWords-Konvertierung zuordnen möchten.
+1. Wählen Sie den Schritt aus, den Sie einer AdWords-Konversion zuordnen möchten.
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Wählen Sie unter der Dropdownliste **Stage Actions** die Option **AdWords Conversion** festlegen.
+1. Unter dem **Staging-Aktionen** Dropdown-Liste auswählen **AdWords-Konversion festlegen**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Legen Sie eine **AdWords-Konversion** fest.
+1. Festlegen einer **AdWords-Konversion**.
 
    >[!NOTE]
    >
@@ -46,58 +45,58 @@ Ordnen Sie eine AdWords-Konversion unter &quot;Stage-Aktionen&quot;zu.
 
    ![](assets/image2015-3-27-17-3a16-3a37.png)
 
-   Tipp: Wenn Sie keine AdWords-Konvertierungen haben, erstellen Sie eine, indem Sie auf **+Neue Konversion** klicken.
+   Tipp: Wenn Sie keine AdWords-Konversionen haben, erstellen Sie eine, indem Sie auf **+Neue Konversion**.
 
    ![](assets/image2015-3-27-17-3a18-3a58.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/image2015-3-27-17-3a21-3a15.png)
 
-1. Nachdem Sie alle AdWords-Konvertierungen den Umsatzstufen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Wählen Sie **Modellaktionen** und wählen Sie **Phasen genehmigen**.
+1. Nachdem Sie alle AdWords-Konversionen den Umsatzphasen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Auswählen **Modellaktionen** und wählen Sie **Phasen genehmigen**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-## Pro Tipp: hinzufügen einer neuen Konversion {#pro-tip-add-a-new-conversion}
+## Professioneller Tipp: Neue Konversion hinzufügen {#pro-tip-add-a-new-conversion}
 
-Pro Tipp! Eine neue AdWords-Offline-Konversion kann von Marketing erstellt werden.
+Pro Tipp! Eine neue AdWords-Offline-Konversion kann über Marketo erstellt werden.
 
 >[!CAUTION]
 >
->Bei neuen Konvertierungen, die von Marketing erstellt wurden, ist die Einstellung &quot;Optimierung&quot;aktiviert. Das bedeutet, dass AdWords-Angebotsstrategien Ihre Angebote für diese Konversionen optimieren können. Sie können diese Einstellung in Ihrem AdWords-Konto ändern.
+>Bei neuen Konversionen, die aus Marketo erstellt wurden, ist die Einstellung &quot;Optimierung&quot;aktiviert. Das bedeutet, dass AdWords-Angebotsstrategien Ihre Angebote für diese Konversionen optimieren können. Sie können diese Einstellung in Ihrem AdWords-Konto ändern.
 
-1. Wählen Sie unter der Dropdownliste **Stage Actions** die Option **AdWords Conversion** festlegen.
+1. Unter dem **Staging-Aktionen** Dropdown-Liste auswählen **AdWords-Konversion festlegen**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Wählen Sie **Neue Konversion**.
+1. Auswählen **Neue Konversion**.
 
    ![](assets/image2015-3-27-17-3a23-3a13.png)
 
-1. Geben Sie einen **Umrechnungsnamen** ein. Klicken Sie auf **Speichern**.
+1. Geben Sie einen **Konversionsname**. Klicken **Speichern**.
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 
    Ausgezeichnet! Diese neue Konversion wird in Ihrem AdWords-Konto angezeigt.
 
-## AdWords-Zuordnung verwenden {#use-adwords-mapping}
+## Verwenden der AdWords-Zuordnung {#use-adwords-mapping}
 
-Mit AdWords-Zuordnungen können Sie alle Modellphasen an einem Ort mit Ihrer AdWords-Konversion verknüpfen.
+Sie können alle Ihre Modellphasen mit Ihrer AdWords-Konversion an einem Ort mithilfe von AdWords-Zuordnungen verknüpfen.
 
-1. Wählen Sie **AdWords-Zuordnungen bearbeiten**.
+1. Auswählen **Bearbeiten von AdWords-Zuordnungen**.
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. Wählen Sie das gewünschte **AdWords-Konto** aus und wünschen Sie **AdWords Conversion** für jede Phase, die Sie verfolgen möchten.
+1. Wählen Sie die gewünschte **AdWords-Konto** und gewünscht **AdWords-Konversion** für jede Phase, die Sie verfolgen möchten.
 
    ![](assets/image2015-3-27-17-3a30-3a15.png)
 
-1. Klicken Sie nach der Zuordnung Ihrer Schritte auf **Speichern**.
+1. Nachdem Sie Ihre Bühnen zugeordnet haben, klicken Sie auf **Speichern**.
 
    ![](assets/image2015-3-27-17-3a30-3a48.png)
 
-1. Nachdem Sie alle AdWords-Konvertierungen den Umsatzstufen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Wählen Sie **Modellaktionen** und wählen Sie **Phasen genehmigen**.
+1. Nachdem Sie alle AdWords-Konversionen den Umsatzphasen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Auswählen **Modellaktionen** und wählen Sie **Phasen genehmigen**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Zur Ansicht der Offline-Konversionsdaten müssen Sie sich bei Ihrem AdWords-Konto anmelden. Es wird empfohlen, die Funktion [Benutzerspezifische Spalten](https://support.google.com/adwords/answer/3073556) zu verwenden, um Konversionszählungsspalten für jede Offlinekonversion zu erstellen, die Sie aus Marketing importieren.
+Um die Offline-Konversionsdaten anzuzeigen, müssen Sie sich bei Ihrem AdWords-Konto anmelden. Es wird empfohlen, die [Funktion &quot;Benutzerdefinierte Spalten&quot;](https://support.google.com/adwords/answer/3073556) , um Spalten zur Konversionszählung für jede Offline-Konversion zu erstellen, die Sie aus Marketo importieren.

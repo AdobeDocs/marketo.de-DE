@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352629
-description: Ansicht der Vorlage anpassen - Marketing-Dokumente - Produktdokumentation
-title: Ansicht der Vorlage anpassen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Anpassen der Vorlagenansicht - Marketo-Dokumente - Produktdokumentation
+title: Anpassen der Vorlagenansicht
+exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
+# Anpassen der Vorlagenansicht {#customize-template-view}
 
-# Ansicht für Vorlagen anpassen {#customize-template-view}
+Aus dem **Ansicht** in der Dropdown-Liste können Sie Folgendes anzeigen: alle Vorlagen, Ihre Vorlagen, freigegebenen Vorlagen oder nicht verwendeten Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
 
-In der Dropdownliste **Ansicht** können Sie Folgendes anzeigen: alle Vorlagen, Ihre Vorlagen, freigegebenen Vorlagen oder nicht verwendeten Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
-
-Außerdem können Sie Spalten in der Ansicht der Vorlage hinzufügen/entfernen, indem Sie auf das Einstellungssymbol rechts neben der Ansicht **klicken.**
+Darüber hinaus können Sie Spalten in Ihrer Vorlagenansicht hinzufügen/entfernen, indem Sie auf das Einstellungssymbol rechts neben **Ansicht.**

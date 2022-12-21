@@ -1,56 +1,55 @@
 ---
 unique-page-id: 2359947
-description: Transition von Personen zwischen Interaktionsströmen - Marketing-Dokumente - Produktdokumentation
-title: Transition von Personen zwischen Interaktionsströmen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Transition von Personen zwischen Interaktions-Streams - Marketo-Dokumente - Produktdokumentation
+title: Übergang von Personen zwischen Interaktionsströmen
+exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Übergang von Personen zwischen Interaktionsströmen {#transition-people-between-engagement-streams}
 
-# Transition von Personen zwischen Interaktionsströmen {#transition-people-between-engagement-streams}
+Interaktionsprogramme können mehrere Streams aufweisen. Wenn Sie [Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), möchten Sie eine Möglichkeit definieren, wie Personen von einem Stream zum anderen wechseln können. Diese werden **Übergangsregeln.**
 
-Interaktions-Programm können über mehr als einen Stream verfügen. Wenn Sie [einen Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) hinzufügen, möchten Sie eine Möglichkeit definieren, wie Benutzer von einem Stream zu einem anderen wechseln können. Diese werden als **Transitionen-Regeln bezeichnet.**
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Multi-Streaming-Programm und gehen Sie zu **Streams**.
+1. Wählen Sie Ihr Multi-Streaming-Interaktionsprogramm aus und navigieren Sie zu **Streams**.
 
    ![](assets/multistream.jpg)
 
-1. Klicken Sie auf **Transition Rules** für den Stream, in den Sie andere Streams ziehen möchten, und klicken Sie dann auf **Transitionen bearbeiten**.
+1. Klicken **Übergangsregeln** für den Stream, in den Sie aus anderen Streams abrufen möchten, klicken Sie auf **Übergangsregeln bearbeiten**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
    >[!NOTE]
    >
-   >Transitionen ziehen in einen Stream; definieren Sie immer die Regeln für den Stream, in den Sie ziehen möchten.
+   >Übergangsregeln werden in einen Stream gezogen. Definieren Sie immer die Regeln für den Stream, in den Sie ziehen möchten.
 
-   Sobald sich das Fenster für die Transition öffnet, suchen Sie den gewünschten Trigger und ziehen Sie ihn in den gewünschten Ordner. In diesem Fall wollen wir Menschen in die Mid-Stage verschieben, wenn sie zu einer Gelegenheit hinzugefügt wird.
+   Sobald das Fenster der Übergangsregel geöffnet ist, suchen und ziehen Sie den gewünschten Trigger. In diesem Fall möchten wir Menschen in die Mid-Stage verschieben, wenn sie zu einer Chance hinzugefügt wird.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Setzen wir den Operator auf **ist beliebige**, damit die Leute für jede zusätzliche Gelegenheit umziehen.
+1. Setzen wir den Operator auf **ist** damit die Menschen für jede zusätzliche Gelegenheit umziehen.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >Sie können einer Transitionen-Regel mehrere Trigger und Filter hinzufügen. Die Transition verwendet jedoch alle Filter (nur bei Verwendung von ALL Filters). Wenn Sie ODER in einer Transition verwenden müssen, sollten Sie stattdessen eine externe Smart-Kampagne einrichten.
+   >Sie können einer Übergangsregel mehrere Trigger und Filter hinzufügen. Die Übergangsregel verwendet jedoch alle Filter (nur mit ALLEN Filtern). Wenn Sie ODER in einer Übergangsregel verwenden müssen, empfehlen wir stattdessen die Einrichtung einer externen Smart-Kampagne.
 
 1. Klicken Sie auf **Schließen**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   Großartig! Nun wird jede Person in Ihrem Interaktionsnetzwerk, die einer Gelegenheit hinzugefügt wird, in den Mid-Stage-Stream verschoben.
+   Sehr gut! Jetzt wird jede Person in Ihrem Interaktionsprogramm, die zu einer Gelegenheit hinzugefügt wird, in den Mid-Stage-Stream verschoben.
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 
    >[!NOTE]
    >
-   >Die oben beschriebenen Schritte gelten auch für Personen, die [bei Pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) sind.**
+   >Die oben beschriebenen Schritte *do* sich auf Personen, die [bei Pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) sowie

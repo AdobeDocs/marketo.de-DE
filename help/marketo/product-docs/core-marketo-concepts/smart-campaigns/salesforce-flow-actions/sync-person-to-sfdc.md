@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147027
-description: Person mit dem SFDC synchronisieren - Marketo Docs - Produktdokumentation
+description: Person mit SFDC synchronisieren - Marketo Docs - Produktdokumentation
 title: Person mit SFDC synchronisieren
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
@@ -15,25 +14,25 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Nur verfügbar, wenn in Salesforce integriert.
+>Nur verfügbar bei Integration mit Salesforce.
 
-## Übersicht {#overview}
+## Überblick {#overview}
 
-Dieser Flussschritt fügt Marketo-erstellte Personen als Interessenten in Ihr Salesforce CRM ein.
+In diesem Flussschritt werden von Marketo erstellte Personen als Leads in Ihr Salesforce-CRM eingefügt.
 
 ![](assets/sync-person-to-sfdc.png)
 
 ## Nutzung {#usage}
 
-1. Standardmäßig weist dieser Flussschritt Interessenteninhabern basierend auf den Salesforce-Regeln für die automatische Zuweisung zu.
+1. Standardmäßig wird dieser Flussschritt den Lead-Eigentümern basierend auf den Salesforce-Regeln für die automatische Zuweisung zugewiesen.
 
    ![](assets/sync-person-to-sfdc.png)
 
    >[!TIP]
    >
-   >Für Salesforce müssen die Felder &quot;Firma&quot;und &quot;Nachname&quot;ausgefüllt sein. Andernfalls wird der Interessentendatensatz abgelehnt.
+   >Für Salesforce müssen die Felder Firma und Nachname ausgefüllt sein. Andernfalls wird der Lead-Datensatz zurückgewiesen.
 
-1. Sie können einen bestimmten Salesforce-Benutzer oder eine Interessentenwarteschlange als Interessentenbesitzer festlegen.
+1. Sie können einen bestimmten Salesforce-Benutzer oder eine Lead-Warteschlange als Lead-Inhaber festlegen.
 
    ![](assets/sync-person-to-sfdc-2.png)
 
@@ -41,4 +40,4 @@ Dieser Flussschritt fügt Marketo-erstellte Personen als Interessenten in Ihr Sa
 
    >[!CAUTION]
    >
-   >Salesforce lässt die Zuweisung von &quot;Kontakten&quot;zu Interessentenwarteschlangen nicht zu. In diesem Fall wird Marketo ein Duplikat &quot;Lead&quot;in Salesforce erstellen.
+   >Salesforce lässt die Zuweisung von &quot;Kontakten&quot;zu Lead-Warteschlangen nicht zu. In diesem Fall erstellt Marketo ein Duplikat &quot;Lead&quot;in Salesforce.

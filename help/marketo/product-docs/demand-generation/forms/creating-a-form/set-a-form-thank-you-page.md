@@ -1,49 +1,48 @@
 ---
 unique-page-id: 2359573
-description: Formulardankseite einrichten - Marketing-Dokumente - Produktdokumentation
-title: Danksagungsseite für ein Formular festlegen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Formular-Dankeseite einrichten - Marketo-Dokumente - Produktdokumentation
+title: Formular-Danksagungsseite festlegen
+exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Formular-Danksagungsseite festlegen {#set-a-form-thank-you-page}
 
-# Formulardankseite {#set-a-form-thank-you-page} festlegen
-
-Was passiert, wenn jemand ein Formular ausfüllt? An wen werden sie weitergeleitet? So konfigurieren Sie es.
+Was passiert, wenn jemand ein Formular ausfüllt? Wo werden sie weitergeleitet? So konfigurieren Sie es.
 
 ## Formular bearbeiten {#edit-form}
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Klicken Sie unter **Formulareinstellungen** auf **Einstellungen**.
+1. under **Formulareinstellungen** click **Einstellungen**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Blättern Sie nach unten zum Abschnitt **Danksagungsseite**.
+1. Scrollen Sie nach unten zum **Danksagungsseite** Abschnitt.
 
-## Auf Seite {#stay-on-page} bleiben
+## Auf Seite bleiben {#stay-on-page}
 
-Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher beim Senden des Formulars auf derselben Seite.
+Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher auf derselben Seite, auf der das Formular gesendet wurde.
 
-1. Wählen Sie **Auf Seite bleiben** für **Follow-up mit**.
+1. Auswählen **Auf Seite bleiben** für **Folgemaßnahmen zu**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
 ## Externe URL {#external-url}
 
-Mit der Einstellung &quot;Externe URL&quot;können Sie eine beliebige URL als Folgeseite definieren. Sobald der Benutzer das Formular gesendet hat, wird er an die angegebene URL weitergeleitet.
+Mit der Einstellung Externe URL können Sie eine beliebige URL als Nachverfolgungsseite definieren. Nachdem der Benutzer das Formular übermittelt hat, wird er an die angegebene URL weitergeleitet.
 
-1. Wählen Sie **Externe URL** für **Follow-up mit**.
+1. Auswählen **Externe URL** für **Folgemaßnahmen zu**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -53,13 +52,13 @@ Mit der Einstellung &quot;Externe URL&quot;können Sie eine beliebige URL als Fo
 
 >[!TIP]
 >
->Die URL kann die einer Datei sein, die irgendwo gehostet wird - wenn Sie dies tun, verhält sich die Schaltfläche &quot;Senden&quot;wie eine Schaltfläche &quot;Herunterladen&quot;.
+>Die URL kann die einer Datei sein, die irgendwo gehostet wird. Wenn Sie dies tun, verhält sich die Schaltfläche &quot;Senden&quot;wie eine Schaltfläche &quot;Herunterladen&quot;.
 
-## Landingpage {#landing-page}
+## Landing Page {#landing-page}
 
-Sie können eine beliebige genehmigte Marketing-Landingpage als Folgeaktion auswählen.
+Sie können eine beliebige genehmigte Marketo-Landingpage als Folgeseite auswählen.
 
-1. Setzen Sie **Follow-up mit** auf **Landingpage**.
+1. Satz **Folgemaßnahmen zu** nach **Landingpage**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -67,21 +66,21 @@ Sie können eine beliebige genehmigte Marketing-Landingpage als Folgeaktion ausw
 
    ![](assets/image2014-9-15-17-3a37-3a59.png)
 
-## Dynamische Danksagungsseiten {#dynamic-thank-you-pages}
+## Dynamische Dankeseiten {#dynamic-thank-you-pages}
 
-Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um Benutzern je nach Antwort unterschiedliche Folgemaßnahmen anzuzeigen.
+Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutzern je nach Antwort unterschiedliche Folgenachrichten anzuzeigen.
 
-1. Klicken Sie auf **Hinzufügen**.
+1. Klicken **Auswahl hinzufügen**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
-1. Wählen Sie das Feld aus, in dem Sie die Antwort überwachen möchten.
+1. Wählen Sie das Feld aus, dessen Antwort Sie überwachen möchten.
 
    ![](assets/image2014-9-15-17-3a38-3a12.png)
 
    >[!TIP]
    >
-   >Hierfür stehen nur Felder zur Verfügung, die dem Formular hinzugefügt wurden.
+   >Hierfür stehen nur die dem Formular hinzugefügten Felder zur Verfügung.
 
 1. Wählen Sie den gewünschten logischen Operator aus.
 
@@ -91,7 +90,7 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Wählen Sie die entsprechende Seite für den Typ **Follow-up with**.
+1. Wählen Sie die entsprechende Seite für **Folgemaßnahmen zu** Typ.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -103,21 +102,21 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
    >
    >Sie müssen diese Landingpages zuvor erstellt/genehmigt haben.
 
-1. Klicken Sie auf das Symbol **+**, um eine andere Auswahl hinzuzufügen.
+1. Klicken Sie auf **+** -Zeichen, um eine andere Auswahl hinzuzufügen.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
    >[!NOTE]
    >
-   >Sie können mehrere Auswahlmöglichkeiten hinzufügen. Wenn Sie jedoch zu viele hinzufügen, kann sich dies auf die Ladegeschwindigkeit des Formulars auswirken und fügen Sie daher nur das hinzu, was Sie benötigen.
+   >Sie können mehrere Auswahlmöglichkeiten hinzufügen. Wenn Sie jedoch zu viele hinzufügen, kann sich dies auf die Ladegeschwindigkeit des Formulars auswirken, sodass nur das hinzugefügt wird, was Sie benötigen.
 
-1. Gehen Sie durch und richten Sie **Auswahl 2** ein.
+1. Gehen Sie durch und richten Sie **Wahl 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
    >[!TIP]
    >
-   >Fühlen Sie sich frei zu mischen und passende Follow-up-Typen. Sie können eine Landingpage für eine Auswahl und eine URL für eine andere verwenden.
+   >Sie können beliebig verschiedene Folgetypen mischen und abgleichen. Sie können eine Landingpage für eine Auswahl und eine URL für eine andere verwenden.
 
 1. Legen Sie eine Standardseite für alle anderen Antworten fest.
 
@@ -131,13 +130,12 @@ Sie können mehrere Optionen hinzufügen und Auswahlmöglichkeiten einbauen, um 
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
-Gute Arbeit!
-
+Großartig gemacht!

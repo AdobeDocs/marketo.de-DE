@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 17-D {#template-17d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html) herunterladen
+Rechtsklick auf [Download-Vorlage 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
 
 ![](assets/image2015-8-17-17-3a22-3a19.png)
 

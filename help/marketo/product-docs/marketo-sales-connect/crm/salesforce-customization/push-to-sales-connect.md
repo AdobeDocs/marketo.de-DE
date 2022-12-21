@@ -1,39 +1,38 @@
 ---
 unique-page-id: 14352477
-description: Push to Sales Connect - Marketing Docs - Produktdokumentation
-title: An Sales Connect übertragen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Push to Sales Connect - Marketo Docs - Produktdokumentation
+title: In Sales Connect pushen
+exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# In Sales Connect pushen {#push-to-sales-connect}
 
-# An Sales Connect {#push-to-sales-connect} weiterleiten
+Über die Schaltfläche Push to Tout erhalten Sie eine Liste Ihrer Kontakte/Leads in Salesforce und können diese in eine Gruppe in Sales Connect übertragen. Sie können dann schnell eine anpassbare Gruppen-E-Mail mit angehängtem Tout-Tracking senden.
 
-Über unsere Schaltfläche &quot;Push to Tout&quot;erhalten Sie eine Liste Ihrer Kontakte/Kontakte in Salesforce und können diese in eine Gruppe in Sales Connect verschieben. Anschließend können Sie schnell eine benutzerspezifische Gruppen-E-Mail mit angehängter Tout-Verfolgung senden.
+## Anforderungen {#requirements}
 
-## Voraussetzungen {#requirements}
+* Sales Connect Salesforce-Paket, das von Salesforce Admin installiert wird
 
-* Sales Connect Salesforce-Paket installiert von Salesforce Admin
+* Schaltfläche &quot;Push to Sales Connect&quot;installiert, um die Listenansicht von Salesforce Admin aufzurufen
 
-* Schaltfläche &quot;An Sales Connect&quot;, die zur Ansicht durch Salesforce-Admin installiert wurde
-
-* Salesforce-Verbindung mit Sales Connect für Benutzer, die Push erstellen
+* Salesforce-Verbindung mit Sales Connect für Benutzer, die Push durchführen
 
 ## Verfahren {#how-to}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **Lead/Kontakt**.
-1. Schalten Sie zur Ansicht Liste um, die Sie zu Sales Connect verschieben möchten, neben der Schaltfläche Go.
-1. Klicken Sie auf **Los**.
-1. Wählen Sie alle Leads/Kontakte aus, die Sie herausziehen möchten.
-1. Wählen Sie **In MSE** verschieben.
-1. Es wird ein neues Fenster angezeigt, in dem die Anzahl der Kontakte/Kontakte überprüft wird, über die Sie weiterleiten möchten. Wählen Sie **Fahren Sie mit der Gruppe** fort. Sales Connect überträgt keine Kontakte, die als E-Mail-Opt-out in Salesforce oder Unsubscribed in Sales Connect gekennzeichnet sind.
+1. Klicken Sie auf **Lead/Kontakt** in Salesforce.
+1. Schalten Sie zur Listenansicht um, die Sie neben der Schaltfläche Los zu Sales Connect pushen möchten.
+1. Klicken **Los**.
+1. Wählen Sie alle Leads/Kontakte aus, an die Sie gesendet werden möchten.
+1. Auswählen **Push to MSE**.
+1. Es wird ein neues Fenster angezeigt, in dem die Anzahl der Leads/Kontakte überprüft wird, über die Sie pushen möchten. Auswählen **Zu Gruppe wechseln**. Sales Connect überträgt keine Kontakte, die als E-Mail-Abmeldung in Salesforce oder Abmeldung in Sales Connect gekennzeichnet sind.
 
    >[!NOTE]
    >
-   >Sales Connect fügt diese Gruppe mit dem Titel &quot;SFDC-...&quot;hinzu. auf der Seite &quot;Beziehungen&quot;der [Webanwendung](https://toutapp.com/login).
+   >Sales Connect fügt diese Gruppe mit dem Titel &quot;SFDC-..&quot;hinzu. zur Seite Beziehungen auf der Seite [Webanwendung](https://toutapp.com/login).
 
-1. Wählen Sie **E-Mail an die gesamte Gruppe**, um diese Gruppe per E-Mail zu versenden.
+1. Auswählen **Gesamte E-Mail-Gruppe** um diese Gruppen-E-Mail zu versenden.

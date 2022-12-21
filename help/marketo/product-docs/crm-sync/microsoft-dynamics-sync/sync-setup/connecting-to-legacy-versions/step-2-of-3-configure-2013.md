@@ -5,7 +5,7 @@ title: Schritt 2 von 3 - Konfigurieren der Synchronisierungsbenutzer für Market
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---

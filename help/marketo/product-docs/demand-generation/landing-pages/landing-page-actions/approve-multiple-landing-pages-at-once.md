@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359724
-description: Mehrere Landingpages gleichzeitig genehmigen - Marketing Docs - Produktdokumentation
-title: Mehrere Landingpages gleichzeitig genehmigen
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Mehrere Einstiegsseiten gleichzeitig genehmigen - Marketo-Dokumente - Produktdokumentation
+title: Mehrere Einstiegsseiten gleichzeitig genehmigen
+exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Mehrere Einstiegsseiten gleichzeitig genehmigen {#approve-multiple-landing-pages-at-once}
 
-# Mehrere Landingpages gleichzeitig genehmigen {#approve-multiple-landing-pages-at-once}
-
-1. Gehen Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Klicken Sie auf **Landingpages**.
+1. Klicken Sie auf **Landing Pages**.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -27,16 +26,16 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klicken Sie nicht auf den Namen der Landingpage, das sind Links und führen Sie auf die Seite selbst.
+   >Klicken Sie nicht auf den tatsächlichen Namen der Landingpage. Hierbei handelt es sich um Links, über die Sie zur Seite selbst gelangen.
 
-1. Wählen Sie die gewünschten Landingpages aus, gehen Sie zu **Landingpages Aktionen** und klicken Sie auf **Genehmigen**.
+1. Navigieren Sie mit den ausgewählten Landingpages zu **Landingpage-Aktionen** und klicken Sie auf **Genehmigen**.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
-   Los geht&#39;s! Sie können jetzt schnell und einfach mehrere Landingpages genehmigen.
+   Da bist du! Sie können jetzt schnell und einfach mehrere Landingpages genehmigen.
 
    ![](assets/image2014-9-17-11-3a35-3a36.png)
 
    >[!TIP]
    >
-   >Sie können die oben genannten Schritte auch für andere Massenoptionen verwenden, z. B. für &quot;Nicht genehmigen&quot;oder &quot;Löschen&quot;.
+   >Sie können auch die oben genannten Schritte für andere Massenoptionen verwenden, z. B. &quot;Nicht genehmigen&quot;oder &quot;Löschen&quot;.

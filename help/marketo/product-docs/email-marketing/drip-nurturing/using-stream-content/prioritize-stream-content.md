@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2359834
-description: Priorisieren von Stream-Inhalten - Marketing-Dokumente - Produktdokumentation
-title: Stream-Inhalte priorisieren
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Priorisieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
+title: Priorisieren von Stream-Inhalten
+exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
 # Priorisieren von Stream-Inhalten {#prioritize-stream-content}
 
-Nachdem Sie dem Stream Inhalte hinzugefügt haben, sollten Sie die Priorität ändern. Der Inhalt wird immer von oben nach unten in jeder Besetzung bereitgestellt, und es wird kein Inhalt zweimal an dieselbe Person gesendet.
+Nachdem Sie dem Stream Inhalt hinzugefügt haben, können Sie die Priorität ändern. Der Inhalt wird immer von oben nach unten in jedem Guss bereitgestellt, und kein Inhalt wird zweimal an dieselbe Person gesendet.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Streams** Registerkarte.
 
    ![](assets/cloneasteam-1.jpg)
 
-1. Ziehen Sie jetzt einfach den Inhalt in die gewünschte Reihenfolge.
+1. Ziehen Sie nun den Inhalt einfach in die gewünschte Reihenfolge.
 
    ![](assets/image2014-9-15-17-3a5-3a45.png)
 
    >[!NOTE]
    >
-   >Die Priorität wird immer bei der Besetzung von oben nach unten gelesen.
+   >Die Priorität wird immer von oben nach unten gelesen, wenn sie gewirkt wird.
 
-   Das ist so einfach! Jetzt wissen Sie, wie Sie Ihren Stream-Inhalt priorisieren.
+   So einfach ist es! Jetzt wissen Sie, wie Sie Ihren Stream-Inhalt priorisieren können.

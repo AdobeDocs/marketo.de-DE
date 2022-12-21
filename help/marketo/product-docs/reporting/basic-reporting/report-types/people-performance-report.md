@@ -1,47 +1,46 @@
 ---
 unique-page-id: 2360014
-description: Bericht zur Leistung von Personen - Marketing-Dokumente - Produktdokumentation
-title: Leistungsbericht für Personen
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: People Performance Report - Marketo Docs - Produktdokumentation
+title: Personenleistungsbericht
+exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
+# Personenleistungsbericht {#people-performance-report}
 
-# Personenerfüllungsbericht {#people-performance-report}
+Verwenden Sie einen Personen-Leistungsbericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie hinzugefügt haben und wann. Erfahren Sie mehr über die Menschen und beurteilen Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach einem beliebigen Personen- oder Unternehmensattribut oder nach [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Verwenden Sie einen Personendaten-Leistungsbericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie hinzugefügt haben und wann. Erfahren Sie mehr über die Menschen und beurteilen Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach Personen- oder Firmen-Attributen oder nach [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie die **Personenleistung** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Erstellen Sie einen ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Typ  **People** [Performance](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Den Zeitrahmen Ihres Berichts festlegen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
 
-1. [Legen Sie den Zeitraum Ihres ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
-
-1. Großartig! Jetzt können Sie Ihren Bericht &quot;People Performance&quot;entdecken. Erfahren Sie, wie Sie in der unten stehenden Liste noch mehr davon bekommen.
+1. Sehr gut! Jetzt können Sie Ihren Bericht zur Leistung von Personen durchsuchen. In der folgenden Liste erfahren Sie, wie Sie noch mehr davon erhalten.
 
    >[!NOTE]
    >
-   >Die Berichte zur Personenleistung werden standardmäßig nach *Erstellt am* Monat gruppiert.
+   >In der Standardeinstellung werden Berichte zur Leistung von Personen nach *Erstellt bei* Monat.
 
    ![](assets/one.png)
 
-## Die Macht der Personendaten - Leistungsberichte {#the-power-of-people-performance-reports}
+## Die Leistungsfähigkeit von Leistungsberichten von Personen {#the-power-of-people-performance-reports}
 
-Personendaten Leistungsberichte sind sehr leistungsfähig. Durch weitere Gruppierung, Filterung und Konfiguration können Sie viel über die Personen in Ihrer Datenbank und über die Effektivität Ihrer Programm erfahren.
+People Performance-Berichte sind sehr leistungsstark. Durch weitere Gruppierung, Filterung und Konfiguration können Sie viel über die Personen in Ihrer Datenbank und über die Effektivität Ihrer Programme erfahren.
 
 Sie können:
 
-* [Gruppenleiter nach Interessenten- oder Firmen-Attribut](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
-* [Gruppieren von Interessenten nach Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
-* [Verwenden Sie intelligente Listen als benutzerdefinierte Berichtsspalten.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-* [hinzufügen Opportunitätsmetriken als Berichtsspalten.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
-* [Führen Sie einen Drilldown aus, um mehr über die Interessenten in einer bestimmten Zeile zu erfahren.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
-* [Filtern Sie die Interessenten in Ihrem Bericht mit einer intelligenten Liste.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+* [GruppenLeads nach Lead- oder Firmenattribut](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+* [GruppenLeads nach Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+* [Verwenden Sie Smart-Listen als benutzerdefinierte Berichtsspalten.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+* [Fügen Sie Opportunitätsmetriken als Berichtsspalten hinzu.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
+* [Führen Sie einen Drilldown durch, um mehr über die Leads in einer bestimmten Zeile zu erfahren.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
+* [Filtern Sie die Leads in Ihrem Bericht mit einer intelligenten Liste.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 * [Wählen Sie die einzuschließenden Spalten aus.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 * [Sortieren Sie Ihre Berichtsspalten.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
 
    >[!TIP]
    >
-   >Denken Sie daran, dass Berichte einfach zu [create](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), configure und [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) erstellt werden können. Machen Sie sich mit den vielen Möglichkeiten vertraut, wie Sie sie manipulieren können, um zu lernen, wie Sie sich am besten auf wichtige Daten konzentrieren können.
+   >Beachten Sie, dass Berichte einfach zu [erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurieren und [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Machen Sie sich damit vertraut, wie Sie sie auf vielfältige Weise bearbeiten können, um die besten Möglichkeiten zu erfahren, sich auf wichtige Daten zu konzentrieren.

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147102
-description: Erstellen eines Eintrags in der Ansicht Programmplanung - Marketo Docs - Produktdokumentation
-title: Erstellen eines Eintrags in der Ansicht "Programmplanung"
+description: Erstellen eines Eintrags in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines Eintrags in der Programmplanansicht
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Eintrags in der Ansicht Programmplanung {#creating-an-entry-in-the-program-schedule-view}
+# Erstellen eines Eintrags in der Programmplanansicht {#creating-an-entry-in-the-program-schedule-view}
 
-Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhandenes Programm zu ergänzen.
+Sie können in der Programmplanungsansicht Einträge erstellen, um ein bestehendes Programm zu ergänzen.
 
 ## Erstellen eines einfachen Eintrags {#create-a-basic-entry}
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf die Dropdownliste **Ansicht**. Wählen Sie **Plan**.
+1. Wählen Sie Ihr Programm aus. Klicken Sie auf **Ansicht** Dropdown-Liste. Auswählen **Zeitplan**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,11 +28,11 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Benennen Sie den Eintrag. Drücken Sie **Geben Sie** ein, um den Namen zu bestätigen.
+1. Benennen Sie den Eintrag. Presse **Eingabe** um den Namen zu bestätigen.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
-1. Wählen Sie den Beginn und das Enddatum/die Endzeit Ihres neuen Eintrags aus.
+1. Wählen Sie das Start- und Enddatum/-uhrzeit für Ihren neuen Eintrag aus.
 
    ![](assets/image2014-9-16-9-3a23-3a39.png)
 
@@ -45,21 +44,21 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
-1. Bewegen Sie den Mauszeiger über das Beschreibungssymbol, um die Beschreibung des Eintrags Ansicht.
+1. Bewegen Sie den Mauszeiger über das Beschreibungssymbol, um die Beschreibung der Einsendung anzuzeigen.
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## Eintragstyp {#change-entry-type} ändern
+## Eintragstyp ändern {#change-entry-type}
 
-1. Wählen Sie einen einfachen Eintrag aus der Ansicht **Agenda**.
+1. Wählen Sie einen einfachen Eintrag aus dem **Agenda** anzeigen.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Wählen Sie die Dropdownliste **Typ** aus. Wählen Sie einen neuen Eintragstyp.
+1. Wählen Sie die **Typ** Dropdown-Liste. Wählen Sie einen neuen Eintragstyp aus.
 
    >[!NOTE]
    >
-   >Aufgabe ist ein [benutzerdefinierter Eintrag](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Sie können eine Aufgabenbeschreibung und andere benutzerspezifische Einträge erstellen, um nicht-Marketo-spezifische Tagesordnungspunkte zu verfolgen.
+   >Aufgabenstellung ist eine [benutzerdefinierter Eintrag](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Sie können eine Aufgabenliste und andere benutzerdefinierte Einträge erstellen, um nicht-Marketo-Tagesordnungspunkte zu verfolgen.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +68,4 @@ Sie können Einträge aus der Ansicht Programmplanung erstellen, um ein vorhande
 
 >[!NOTE]
 >
-> Sie können auch ein [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) oder [E-Mail-Programm](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) aus der Ansicht des Zeitplans erstellen.
+> Sie können auch eine [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) oder [E-Mail-Programm](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) aus der Zeitplanansicht aus.

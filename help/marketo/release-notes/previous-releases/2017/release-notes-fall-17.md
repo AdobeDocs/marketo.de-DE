@@ -91,4 +91,4 @@ Sie können jetzt eine Remote-Vorschau von E-Mails außerhalb von Marketo anzeig
 
 **[HTML API ersetzen](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Entwickler können HTML-Inhalte von E-Mail-Assets remote aktualisieren, sodass sie innerhalb eines Systems arbeiten können, um Assets zu verwalten.
+Entwickler können den HTML-Inhalt von E-Mail-Assets remote aktualisieren, sodass sie in einem einzigen System arbeiten können, um Assets zu verwalten.

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359868
-description: Bilder und Dateien aus dem Feld hochladen - Marketing to Docs - Produktdokumentation
-title: Bilder und Dateien aus Feld hochladen
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hochladen von Bildern und Dateien von Box - Marketo Docs - Produktdokumentation
+title: Hochladen von Bildern und Dateien aus dem Feld
+exl-id: 08596026-ce25-4076-957a-d069aa44b85a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# Hochladen von Bildern und Dateien aus dem Feld {#upload-images-and-files-from-box}
 
-# Bilder und Dateien aus Feld {#upload-images-and-files-from-box} hochladen
+Sie können Dateien von Box hochladen, um sie auf Landingpages und E-Mails zu verwenden.
 
-Sie können Dateien von Box hochladen, um sie in Landingpages und E-Mails zu verwenden.
-
-1. Gehen Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Gehen Sie zu **Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus Web** abrufen.
+1. Navigieren Sie zu **Bilder und Dateien**. Klicken **Dateiaktionen** und wählen Sie **Grab-Bilder aus Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Klicken Sie auf **Feld**.
+1. Klicken **Feld**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -31,15 +30,15 @@ Sie können Dateien von Box hochladen, um sie in Landingpages und E-Mails zu ver
 
    ![](assets/image2014-9-16-12-3a51-3a10.png)
 
-1. Marketo erlauben, auf Ihr Box-Konto zuzugreifen.
+1. Marketo Zugriff auf Ihr Box-Konto gewähren.
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Wählen Sie aus, wo die Dateien gespeichert werden sollen. Wählen Sie dann den Ordner **Box** aus, den Sie hochladen möchten. Klicken Sie auf **Weiter**.
+1. Wählen Sie aus, wo Sie die Dateien speichern möchten. Wählen Sie dann die **Feld** Ordner, aus dem Sie hochladen möchten. Klicken **Nächste**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Wählen Sie die hochzuladenden Dateien aus. Klicken Sie auf **Import**.
+1. Wählen Sie die Dateien aus, die Sie hochladen möchten. Klicken **Import**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2359837
-description: Trigger und Filter für Social-Aktivitäten - Marketo Docs - Produktdokumentation
+description: Trigger und Filter für Social-Aktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Trigger und Filter für Social-Aktivitäten
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -13,17 +12,17 @@ ht-degree: 25%
 
 # Trigger und Filter für Social-Aktivitäten {#triggers-and-filters-for-social-activities}
 
-Social-Apps in Marketo haben eigene spezielle Trigger und Filter.
+Social-Apps in Marketo verfügen über eigene spezielle Trigger und Filter.
 
 >[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Um Social _Trigger_ zu verwenden, wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf die Registerkarte **Intelligente Liste**. Klicken Sie auf der rechten Seite auf das +, um **Trigger** zu erweitern, und dann **Social**.
+1. Verwendung von Social _Trigger_, wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List** Registerkarte. Klicken Sie auf der rechten Seite auf das Pluszeichen (+), um es zu erweitern. **Trigger**, dann **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Um Social _Filter_ zu verwenden, klicken Sie auf **+**, um die **Filter** zu erweitern.
+1. Verwendung von Social _Filter_, klicken Sie auf die **+** , um die **Filter**.
 
    ![](assets/two-282-29.png)
 
@@ -31,17 +30,17 @@ Social-Apps in Marketo haben eigene spezielle Trigger und Filter.
 
    | Trigger/Filter | Social-Buttons | Umfragen | Videos | Empfehlungsangebote | Gewinnspiele |
    |---|---|---|---|---|---|
-   | Ziel in Empfehlung erreicht |  |  |  | ![(Zecken)](assets/check.png) |  |
-   | Gibt Inhalt frei | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) |
-   | Freigegebener Link angeklickt | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) |
-   | Disqualifiziert Gewinnspiele |  |  |  |  | ![(Zecken)](assets/check.png) |
-   | Erhält Einträge in Social App |  |  |  |  | ![(Zecken)](assets/check.png) |
-   | Gibt Gewinnspiele ein |  |  |  |  | ![(Zecken)](assets/check.png) |
-   | Verweist auf Social App |  |  |  | ![(Zecken)](assets/check.png) | ![(Zecken)](assets/check.png) |
-   | Anmelden für Angebot für Verweise |  |  |  | ![(Zecken)](assets/check.png) |  |
-   | Nimmt an Umfrage teil |  | ![(Zecken)](assets/check.png) |  |  |  |
-   | Gewinnt Gewinnspiele |  |  |  |  | ![(Zecken)](assets/check.png) |
+   | Ziel in Empfehlung erreicht |  |  |  | ![(Häkchen)](assets/check.png) |  |
+   | Gibt Inhalt frei | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
+   | Freigegebener Link angeklickt | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
+   | Disqualifiziert Gewinnspiele |  |  |  |  | ![(Häkchen)](assets/check.png) |
+   | Erhält Einträge in Social App |  |  |  |  | ![(Häkchen)](assets/check.png) |
+   | Gibt Gewinnspiele ein |  |  |  |  | ![(Häkchen)](assets/check.png) |
+   | Verweist auf Social App |  |  |  | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
+   | Anmelden für Verweisangebot |  |  |  | ![(Häkchen)](assets/check.png) |  |
+   | Nimmt an Umfrage teil |  | ![(Häkchen)](assets/check.png) |  |  |  |
+   | Gewinnt Gewinnspiele |  |  |  |  | ![(Häkchen)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >
-   >[Ansicht Social Performance](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
+   >[Soziale Leistung anzeigen](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)

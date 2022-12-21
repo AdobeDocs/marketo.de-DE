@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359876
-description: Hochgeladene Bilder oder Dateien ersetzen - Marketing Docs - Produktdokumentation
-title: Hochgeladene Bilder oder Dateien ersetzen
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketo Docs - Produktdokumentation
+title: Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei
+exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei {#replace-an-uploaded-image-or-file}
 
-# Hochgeladene Bilder oder Dateien ersetzen {#replace-an-uploaded-image-or-file}
-
-1. Wechseln Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Klicken Sie auf **Bilder und Dateien** und wählen Sie dann die Datei aus, die Sie ersetzen möchten.
+1. Klicken **Bilder und Dateien** und wählen Sie dann die Datei aus, die Sie ersetzen möchten.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >Sie können auch [hochgeladene Bilder oder Dateien](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md) suchen.
+   >Sie können auch [Suchen nach hochgeladenen Bildern oder Dateien](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
-1. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bild ersetzen oder Datei**.
+1. Klicken **Dateiaktionen** und wählen Sie **Bild oder Datei ersetzen**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -37,13 +36,13 @@ ht-degree: 0%
    >
    >Wenn Sie keine Datei aus einem freigegebenen Ordner auswählen können, speichern Sie diese Datei auf Ihrer Festplatte und wählen Sie sie dort aus.
 
-1. Vergewissern Sie sich, dass die neben **Datei auswählen** angezeigte Datei korrekt ist, und klicken Sie dann auf **Ersetzen**.
+1. Überprüfen Sie, ob die Datei neben **Datei auswählen** korrekt ist, klicken Sie auf **Ersetzen**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
 >[!NOTE]
 >
->Der Name der Ersetzungsdatei wird an den Namen der vorherigen Datei angepasst.
+>Der Name der Ersatzdatei ändert sich entsprechend dem vorherigen Dateinamen.
 
 Du hast es getan!
 

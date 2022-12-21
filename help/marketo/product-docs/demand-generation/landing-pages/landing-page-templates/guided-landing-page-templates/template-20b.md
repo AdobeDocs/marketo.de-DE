@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 20B {#template-20b}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html) herunterladen
+Rechtsklick auf [Download-Vorlage 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 

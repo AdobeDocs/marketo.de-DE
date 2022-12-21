@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2949962
-description: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds - Marketing-Dokumente - Produktdokumentation
-title: Dynamisches Umschalten zwischen Sichtbarkeit eines Formularfelds
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds - Marketo-Dokumente - Produktdokumentation
+title: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds
+exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
 # Dynamisches Umschalten der Sichtbarkeit eines Formularfelds {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
->* [hinzufügen einer Länderauswahl in Ihr Formular](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Länderauswahl zu Ihrem Formular hinzufügen](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder [Feldsätze](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) dynamisch ein- und ausblenden können.
+Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dynamisch ausblenden/anzeigen können. [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->In diesem Beispiel sollten wir das Feld **Bundesland** ausblenden, es sei denn, **Land** ist als &quot;Vereinigte Staaten&quot;ausgewählt.
+>In diesem Beispiel wird die **state** Feld, wenn **Land** als &quot;Vereinigte Staaten&quot;ausgewählt ist.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/editform-1.png)
 
-1. Wählen Sie das Feld aus, das dynamisch ein-/ausgeblendet werden soll, und klicken Sie auf den Link für **Sichtbarkeitsregeln**.
+1. Wählen Sie das Feld aus, das Sie dynamisch ausblenden/anzeigen möchten, und klicken Sie auf den Link für **Sichtbarkeitsregeln**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -46,11 +45,11 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 
    >[!TIP]
    >
-   >Das ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;Beginn mit&quot;wählen können.
+   >Das ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;beginnt mit&quot;wählen können.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
-1. Wählen Sie die zu suchenden Werte aus und klicken Sie dann außerhalb der Dropdownliste auf .
+1. Wählen Sie die Werte aus, nach denen gesucht werden soll, und klicken Sie dann außerhalb der Dropdown-Liste auf .
 
    ![](assets/image2014-9-15-15-3a17-3a4.png)
 
@@ -60,10 +59,10 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 
    >[!NOTE]
    >
-   >Zuvor haben wir Land in einen Feldtyp mit Pick-Liste umgewandelt und [alle Länder als Werte](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) hinzugefügt.
+   >Zuvor haben wir Land in einen Feldtyp vom Typ &quot;Auswahlliste&quot;konvertiert und [Alle Länder als Werte hinzugefügt](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-Und das ist es! Wenn Benutzer dieses Formular nun ausfüllen und &quot;USA für Land&quot;auswählen, wird das Feld &quot;Bundesland&quot;mit den angegebenen Optionen dynamisch angezeigt.
+Und das ist es! Wenn Sie nun dieses Formular ausfüllen und &quot;USA für Land&quot;auswählen, wird das Feld &quot;Bundesland&quot;mit den angegebenen Optionen dynamisch angezeigt.

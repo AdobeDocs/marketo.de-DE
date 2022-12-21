@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359789
-description: Clone a Stream - Marketing Docs - Produktdokumentation
-title: Stream klonen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Klonen eines Streams - Marketo-Dokumente - Produktdokumentation
+title: Klonen eines Streams
+exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-
 # Klonen eines Streams {#clone-a-stream}
 
-Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen unterschiedlicher Bestellungen und Kadenzen.
+Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen verschiedener Bestellungen und Kadenzen.
 
-1. Wählen Sie Ihr Interaktions-Programm und gehen Sie zur Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams** Registerkarte.
 
    ![](assets/cloneasteam.jpg)
 
@@ -25,7 +24,7 @@ Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen unter
 
    >[!NOTE]
    >
-   >Sie können bis zu 25 Streams pro Interaktions-Programm haben.
+   >Sie können bis zu 25 Streams pro Interaktionsprogramm haben.
 
    Gut gemacht! Liebst du nicht Dinge, die dir das Leben erleichtern?
 
@@ -33,4 +32,4 @@ Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen unter
 
    >[!CAUTION]
    >
-   >Alles im Fluss wird geklont, außer der Kadenz. Vergiss nicht, es einzustellen.
+   >Alles im Fluss wird geklont, außer der Kadenz. Denken Sie daran, es festzulegen.

@@ -20,7 +20,7 @@ Account Insight ist ein Chrome-Plug-in, das umsetzbare TAM-Daten und Kontoeinbli
 
 >[!CAUTION]
 >
->Das Account Insight-Plug-in funktioniert nicht bei Abonnements, bei denen [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-on) aktiviert ist.
+>Das Account Insight-Plug-in funktioniert nicht bei Abonnements mit [Nur SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-on) aktiviert ist.
 
 >[!CAUTION]
 >
@@ -70,7 +70,7 @@ Der Aktivitäts-Feed zeigt die letzten Aktivitäten an, die sieben Tage zurückg
 
 ![](assets/af1.png)
 
-Klicken Sie auf die Dropdown-Liste **Filter** , um nach verschiedenen Aktivitätstypen zu filtern.
+Klicken Sie auf **Filter** Dropdown, um nach verschiedenen Aktivitätstypen zu filtern.
 
 ![](assets/af2.png)
 
@@ -81,5 +81,5 @@ Mehrere Elemente können angeklickt werden. Klicken Sie auf das spezifische Kont
 Ziemlich cooles Zeug!
 
 >[!MORELIKETHIS]
-[Kontoeinblick einrichten](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
+>[Kontoeinblick einrichten](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

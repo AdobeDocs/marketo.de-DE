@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2950553
-description: Video-Freigabe-Fluss anpassen - Marketing-Dokumente - Produktdokumentation
-title: Video-Freigabe-Fluss anpassen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Anpassen des Videofreigabeflusses - Marketo-Dokumente - Produktdokumentation
+title: Anpassen des Videofreigabeflusses
+exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
+# Anpassen des Videofreigabeflusses {#customize-video-share-flow}
 
-# Video-Freigabe-Fluss anpassen {#customize-video-share-flow}
+Wenn Sie [Erstellen einer Videofreigabe](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)können Sie anpassen, wann und wo die Freigabeaufforderung angezeigt wird.
 
-Wenn Sie [eine Videofreigabe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) erstellen, können Sie anpassen, wann und wo die Freigabeaufforderung angezeigt wird.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,14 +22,14 @@ Wenn Sie [eine Videofreigabe ](/help/marketo/product-docs/demand-generation/land
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Gehen Sie im Editor für Videofreigabe zu **App-Einstellungen** > **Erweiterte Optionen**.
+1. Wechseln Sie im Video Share Editor zu **App-Einstellungen** > **Erweiterte Optionen**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
-1. Wählen Sie aus, wann die App den Benutzer zum Freigeben auffordert und wo diese Aufforderung angezeigt wird.
+1. Wählen Sie aus, wann die App den Benutzer zur Freigabe auffordert und wo diese Eingabeaufforderung angezeigt wird.
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
 >[!MORELIKETHIS]
 >
->Der nächste Schritt ist [konfigurieren, was nach der Videofreigabe ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md) passiert.
+>Der nächste Schritt besteht darin, [konfigurieren, was nach der Videofreigabe passiert](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

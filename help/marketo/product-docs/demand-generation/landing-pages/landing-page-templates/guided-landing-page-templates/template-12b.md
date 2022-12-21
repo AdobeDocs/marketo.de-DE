@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 12B {#template-12b}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html) herunterladen
+Rechtsklick auf [Download-Vorlage 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 

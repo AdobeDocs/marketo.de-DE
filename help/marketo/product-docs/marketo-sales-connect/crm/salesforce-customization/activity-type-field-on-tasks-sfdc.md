@@ -1,45 +1,44 @@
 ---
 unique-page-id: 14352476
-description: Feld "Aktivität Type Field on Aufgaben (SFDC) - Marketing Docs - Produktdokumentation
-title: Feld "Typ der Aktivität bei Aufgaben"(SFDC)
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Aktivitätstyp-Feld für Aufgaben (SFDC) - Marketo-Dokumente - Produktdokumentation
+title: Aktivitätstyp Feld für Aufgaben (SFDC)
+exl-id: b291e641-d3af-4667-a01c-cd491cd87add
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Aktivitätstyp Feld für Aufgaben (SFDC) {#activity-type-field-on-tasks-sfdc}
 
-# Feld &quot;Typ der Aktivität&quot;bei Aufgaben (SFDC) {#activity-type-field-on-tasks-sfdc}
-
-Mithilfe von Sales Connect können Sie Ihre E-Mails und Anrufe als Aktivität in Salesforce protokollieren lassen. Ein wichtiger Aspekt für wertvolle Daten in Salesforce ist, dass das Feld Typ den richtigen Wert enthält.
+Mithilfe von Sales Connect können Sie Ihre E-Mails und Anrufe als Aktivität in Salesforce protokollieren lassen. Ein wichtiger Teil der wertvollen Daten in Salesforce besteht darin, den richtigen Wert im Feld Typ anzugeben.
 
 >[!NOTE]
 >
->Das Anmelden von E-Mails über BCC wird nicht in die Auswahlliste &quot;Aufgabe-Typ&quot;übernommen und stattdessen automatisch als &quot;E-Mail&quot;ausgefüllt, da sie über Ihre BCC-Adresse an Salesforce gesendet werden.
+>Die Protokollierung von E-Mails über BCC bezieht sich nicht auf die Auswahlliste vom Typ Aufgabe und füllt stattdessen das Feld Typ automatisch als &quot;E-Mail&quot;, da sie über Ihre BCC-Adresse an Salesforce gesendet werden.
 
-## Voraussetzungen {#requirements}
+## Anforderungen {#requirements}
 
-* Verbindung mit Salesforce
-* In der Auswahlliste &quot;Typ der Aufgabe&quot;wurde kein Standardwert ausgewählt
-* Aufruf, Antwort und E-Mail müssen alle in der Auswahlliste &quot;Aufgabe&quot;vorhanden sein (Großschreibung ist wichtig)
+* Verbindung zu Salesforce
+* Kein Standardwert für Typ in der Auswahlliste &quot;Aufgabentyp&quot; ausgewählt
+* Aufrufen, Antworten und E-Mail müssen alle unter der Auswahlliste &quot;Aufgabentyp&quot;vorhanden sein (Großschreibung ist wichtig)
 * Keine Workflows oder Trigger, die Maßnahmen zum Wert des Felds Typ ergreifen
 
 ## Setup {#setup}
 
-Überprüfen Sie zunächst, ob die richtigen Werte für die Auswahlliste vorhanden sind. Sie benötigen die Hilfe Ihres Salesforce-Administrators, um Änderungen an Ihrer Auswahlliste vorzunehmen.
+Überprüfen Sie zunächst, ob die richtigen Picklist-Werte vorhanden sind. Sie benötigen die Hilfe Ihres Salesforce-Administrators, um Änderungen an Ihrer Auswahlliste vorzunehmen.
 
-1. Navigieren Sie zu [Salesforce.com](https://salesforce.com) und klicken Sie auf Setup in der oberen rechten Ecke.
-1. Klicken Sie auf Anpassen.
+1. Navigieren Sie zu [Salesforce.com](https://salesforce.com) und klicken Sie oben rechts auf Einrichtung .
+1. Klicken Sie auf Anpassen .
 1. Klicken Sie auf Aktivitäten.
-1. Klicken Sie auf Aufgabe Felder.
-1. Klicken Sie auf Typ.
-1. Sie befinden sich jetzt in der Liste Aufgabe Type Picklist. Vergewissern Sie sich, dass kein &quot;Standard&quot;ausgewählt ist.
-1. Stellen Sie sicher, dass ein Typwert für E-Mail, Aufruf und Antwort aufgeführt ist.
+1. Klicken Sie auf Aufgabenfelder .
+1. Klick-Typ.
+1. Sie befinden sich jetzt in der Liste &quot;Task Type Picklist&quot;. Stellen Sie sicher, dass kein &quot;Standard&quot;ausgewählt ist.
+1. Stellen Sie sicher, dass für E-Mail, Aufruf und Antwort ein Wert vom Typ aufgeführt ist.
 
-Sobald dies eingerichtet ist, sehen Sie, wie das Feld Typ den entsprechenden Wert für protokollierte E-Mails, Aufrufe und Antworten ausfüllt. Diese Werte werden in den Aufgaben zur Erinnerung an Sales Connect **nicht** aufgefüllt.
+Nachdem dies eingerichtet ist, wird das Feld Typ den entsprechenden Wert für aufgezeichnete E-Mails, Aufrufe und Antworten anzeigen. Diese Werte werden **not** bei Erinnerungsaufgaben in Sales Connect aufgefüllt werden.
 
 >[!NOTE]
 >
->Wenn Sie &quot;Antworten&quot;nicht als Wert sehen, fügen Sie ihn hinzu, indem Sie auf **Neu** klicken. &#39;Antwort&#39; ist kein Standardwert in Salesforce.
+>Wenn &quot;Antwort&quot;nicht als Wert angezeigt wird, fügen Sie ihn hinzu, indem Sie auf **Neu**. &quot;Antwort&quot;ist kein Standardwert in Salesforce.

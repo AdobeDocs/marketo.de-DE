@@ -1,35 +1,34 @@
 ---
 unique-page-id: 10099798
-description: Filterung in E-Mail Insights - Marketing Docs - Produktdokumentation
-title: Filtern in E-Mail-Insight
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Filtern in Email Insights - Marketo Docs - Produktdokumentation
+title: Filtern in E-Mail-Insights
+exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Filtern in E-Mail-Insights {#filtering-in-email-insights}
 
-# Filtern in E-Mail-Insight {#filtering-in-email-insights}
+In Email Insights gibt es verschiedene Möglichkeiten, Ihre Daten zu filtern.
 
-In &quot;E-Mail-Einblicke&quot;gibt es verschiedene Möglichkeiten, Ihre Daten zu filtern.
+## E-Mail Insights {#email-insights}
 
-## Email Insights {#email-insights}
-
-Klicken Sie auf das Pluszeichen, um dem Beginn Filter hinzuzufügen. hinzufügen so viele, wie du willst.
+Klicken Sie auf + , um Filter hinzuzufügen. Fügen Sie so viele hinzu, wie Sie möchten.
 
 ![](assets/one-2.png)
 
-Wenn mehrere Filter in derselben Kategorie vorhanden sind, werden diese zusammengeführt und angezeigt.
+Wenn mehrere Filter in derselben Kategorie vorhanden sind, werden diese zusammengeführt und der Betrag angezeigt.
 
 ![](assets/state.png)
 
-Wenn Sie jemals sehen möchten, welche Filter Sie angewendet haben, klicken Sie einfach auf den Filter. Sie können dort sogar noch mehr hinzufügen.
+Wenn Sie jemals sehen möchten, welche Filter Sie angewendet haben, klicken Sie einfach auf den Filter. Dort können Sie sogar noch mehr hinzufügen.
 
 ![](assets/states.png)
 
-Sie können auch weitere Typen von Filtern hinzufügen.
+Sie können auch zusätzliche Filtertypen hinzufügen.
 
 ![](assets/os.png)
 
@@ -41,7 +40,7 @@ Das Diagramm ändert sich, nachdem jeder Filter angewendet wurde.
 
 ![](assets/filtered-chart.png)
 
-Um eine Kategorie zu löschen, klicken Sie auf deren X.
+Um eine Kategorie zu löschen, klicken Sie auf ihr X.
 
 ![](assets/filter1.png)
 
@@ -53,16 +52,16 @@ Verwenden Sie für datumsspezifische Daten Datumsbereiche.
 
 ![](assets/date-click.png)
 
-Wählen Sie aus allgemeinen voreingestellten Datumsbereichen aus, wählen Sie bestimmte Daten aus und verwenden Sie sogar den vorherigen Zeitraum zum Vergleich.
+Wählen Sie aus allgemeinen vordefinierten Datumsbereichen aus, wählen Sie bestimmte Daten aus und verwenden Sie sogar den vorherigen Zeitraum zum Vergleich.
 
 ![](assets/date-range.png)
 
 >[!NOTE]
 >
->Datumsbereiche gelten sowohl für die Analytics-Seite als auch für die Sends-Seite. Die Option **Vergleichen** ist nur auf die Analytics-Seite anwendbar.
+>Datumsbereiche gelten sowohl für die Analytics-Seite als auch für die Seite &quot;Sendungen&quot;. Die **Vergleichen** ist jedoch nur auf die Analytics-Seite anwendbar.
 
-## Kontobasiertes Marketing {#account-based-marketing}
+## Account-Based-Marketing {#account-based-marketing}
 
-Wenn Sie [Zielgruppe Kontoverwaltung](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) verwenden, gibt es speziell für Sie Filter.
+Wenn Sie [Verwaltung von Target-Konten](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), gibt es Filter speziell für Sie.
 
 ![](assets/abm.png)

@@ -1,74 +1,73 @@
 ---
 unique-page-id: 2359781
-description: Erstellen eines Referrer-Angebots - Marketing Docs - Produktdokumentation
-title: Erstellen eines Referrer-Angebots
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Erstellen eines Verweisangebots - Marketo Docs - Produktdokumentation
+title: Erstellen eines Verweisangebots
+exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '264'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Erstellen eines Verweisangebots {#create-a-referral-offer}
 
-# Erstellen eines Referrer-Angebots {#create-a-referral-offer}
-
-Verweisende Angebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erstellen Sie Ziele und Belohnungen für erfolgreiche Verweise. Sie können sie auf Landingpages, auf Ihrer Website und sogar auf Facebook ablegen.
+Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erstellen Sie Ziele und Belohnungen für erfolgreiche Verweise. Sie können sie auf Landingpages, auf Ihrer Website und sogar in Facebook ablegen.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Wählen Sie im Programm **Neu** > **Neues lokales Element**.
+1. Wählen Sie im Programm die Option **Neu** > **Neues lokales Asset**.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Klicken Sie in der **Lokale Asset-Galerie** auf **Verweisende Angebot**.
+1. Im **Lokale Asset-Galerie** klicken **Verweisangebot**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
-1. Benennen Sie Ihr Referrer-Angebot.
+1. Benennen Sie Ihr Verweisangebot.
 
    ![](assets/image2014-9-19-11-3a3-3a40.png)
 
    >[!TIP]
    >
-   >Um Zeit zu sparen, können Sie mit der Option **Klonen von** alle Einstellungen aus einem vorhandenen Angebot kopieren.
+   >Um Zeit zu sparen, können Sie die **Klonen von** -Option, um alle Einstellungen aus einem vorhandenen Verweisangebot zu kopieren.
 
-   Der Editor für Verweisdokumente wird in einem neuen Angebot geöffnet. Die Standardeinstellungen sind alle gut, Sie müssen jedoch einen Link zu den Regeln Ihres Angebots (Geschäftsbedingungen) hinzufügen. Der Link wird unten in den Freigabefeldern angezeigt. Wir zeigen Ihnen wie im nächsten Schritt.
+   Der Editor für Verweise wird in einem neuen Fenster geöffnet. Die Standardeinstellungen sind alle gut, Sie müssen jedoch einen Link zu den Regeln Ihres Angebots (Bedingungen) hinzufügen. Der Link wird unten auf den Bildschirmen zur Freigabe von Nachrichten angezeigt. Wir zeigen Ihnen wie im nächsten Schritt.
 
-1. Klicken Sie auf **Erweiterte Optionen**.
+1. Klicken **Erweiterte Optionen**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. hinzufügen Sie einen Link zu den Regeln Ihres Angebots. Geben Sie die URL **ein.**
+1. Fügen Sie einen Link zu den Regeln Ihres Angebots hinzu. Geben Sie die **URL**.
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >In diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihre Datenschutzrichtlinien auf eine Social-App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Auf diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe  [Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    >[!TIP]
    >
-   >Klicken Sie zum Ändern der Standardwerte im Referrer-Angebot auf **Zurück**. Um Ihre Arbeit für später ohne Genehmigung zu speichern, klicken Sie auf **Schließen**.
+   >Um die Standardeinstellungen Ihres Verweisangebots zu ändern, klicken Sie auf **Zurück**. Um Ihre Arbeit für einen späteren Zeitpunkt ohne Genehmigung zu speichern, klicken Sie auf **Schließen**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
-Falls Probleme im Angebot der Verweisung auftreten, werden Sie aufgefordert, diese zu beheben, bevor das Angebot genehmigt wird.
+Sollten im Angebot Probleme auftreten, werden Sie aufgefordert, diese zu beheben, bevor das Angebot genehmigt wird.
 
-Herzlichen Glückwunsch! Sie haben Ihr Angebot für Verweise erstellt.
+Herzlichen Glückwunsch!  Sie haben Ihr Verweisangebot erstellt.
 
 >[!NOTE]
 >
->Alle Standardeinstellungen, Zeichenfolgen und Meldungen können geändert werden.
+>Alle Standardeinstellungen, Zeichenfolgen und Nachrichten können geändert werden.
 
 >[!MORELIKETHIS]
 >
->Der nächste Schritt ist [Veröffentlichen Sie Ihr Angebot für den Verweis](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) auf einer Landingpage, auf Ihrer Website oder auf Facebook.
+>Der nächste Schritt besteht darin, [Veröffentlichen Ihres Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) auf einer Landingpage, auf Ihrer Website oder in Facebook.

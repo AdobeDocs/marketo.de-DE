@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11371065
-description: hinzufügen Module für Ihre E-Mail - Marketing Docs - Produktdokumentation
-title: hinzufügen Module zu Ihrer E-Mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Hinzufügen von Modulen zu Ihrer E-Mail - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen von Modulen zu Ihrer E-Mail
+exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
+# Hinzufügen von Modulen zu Ihrer E-Mail {#add-modules-to-your-email}
 
-# hinzufügen Module an Ihre E-Mail {#add-modules-to-your-email}
-
-In E-Mail-Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlage definiert ist. Module können beliebige Kombinationen aus Elementen, Variablen und anderen HTML-Inhalten enthalten. Sie Ihrer E-Mail hinzuzufügen ist einfach.
+In Email Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlage definiert ist. Module können beliebige Kombinationen aus Elementen, Variablen und anderem HTML-Inhalt enthalten. Es ist einfach, sie zu Ihrer E-Mail hinzuzufügen.
 
 1. Erstellen Sie eine E-Mail. Wählen (oder erstellen) Sie eine Vorlage, die Module enthält.
 
@@ -21,21 +20,21 @@ In E-Mail-Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlag
 
    >[!NOTE]
    >
-   >Die meisten Vorlagen für Marketo-Starter enthalten Module. Sie können auch [Ihre eigene ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) erstellen.
+   >Die meisten Marketo Starter-Vorlagen enthalten Module. Sie können auch [Erstellen eigener](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. Klicken Sie ganz rechts in der E-Mail auf **Module**.
+1. Klicken Sie rechts neben der E-Mail auf **Module**.
 
    ![](assets/two-3.png)
 
-1. Wählen Sie das Modul aus, das Sie hinzufügen möchten, und ziehen Sie es in Ihre E-Mail.
+1. Wählen Sie das Modul aus, das Sie hinzufügen möchten, und ziehen Sie es auf Ihre E-Mail.
 
    ![](assets/three-3.png)
 
-1. Wenn Sie das Modul darüber ziehen, sehen Sie &quot;Hier ablegen&quot; zwischen den anderen Modulen. Legen Sie Ihr neues Modul dort ab, wo Sie möchten.
+1. Wenn Sie das Modul darüber ziehen, wird &quot;Hier ablegen&quot;zwischen den anderen Modulen angezeigt. Legen Sie Ihr neues Modul dort ab, wo Sie möchten.
 
    ![](assets/four-2.png)
 
-1. Warten Sie einige Sekunden, und Ihre E-Mail wird automatisch aktualisiert und zeigt das Modul, das Sie hinzugefügt haben.
+1. Warten Sie ein paar Sekunden. Ihre E-Mail wird automatisch aktualisiert und zeigt das hinzugefügte Modul an.
 
    ![](assets/five-3.png)
 
@@ -43,11 +42,11 @@ In E-Mail-Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlag
 
 Es gibt zwei Möglichkeiten, ein Modul zu verschieben.
 
-1. Identifizieren Sie das Modul, das Sie verschieben möchten. Wenn Sie nicht sicher sind, wie es heißt, halten Sie den Mauszeiger darüber und es wird rechts hervorgehoben.
+1. Identifizieren Sie das Modul, das Sie verschieben möchten. Wenn Sie nicht sicher sind, wie es heißt, halten Sie den Mauszeiger darüber und werden rechts hervorgehoben.
 
    ![](assets/six-2.png)
 
-1. Bewegen Sie den Mauszeiger über das Modul auf der rechten Seite, um den Griff anzuzeigen. Nimm es...
+1. Bewegen Sie den Mauszeiger über das Modul auf der rechten Seite, um den Handle anzuzeigen. Nimm es...
 
    ![](assets/seven-2.png)
 
@@ -59,11 +58,11 @@ Es gibt zwei Möglichkeiten, ein Modul zu verschieben.
 
    ![](assets/nine-2.png)
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Nach oben** oder **Nach unten** aus, je nachdem, wohin das Modul verschoben werden soll.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Nach oben** oder **Nach unten**, je nachdem, wohin das Modul laufen soll.
 
    ![](assets/ten-2.png)
 
-Das ist alles, was dazu da ist.
+Das ist alles.
 
 >[!MORELIKETHIS]
 >

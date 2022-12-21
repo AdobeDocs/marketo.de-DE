@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10100272
-description: Veröffentlichen einer benutzerspezifischen Aktivität - Marketo Docs - Produktdokumentation
-title: Veröffentlichen einer benutzerdefinierten Aktivität
+description: Benutzerdefinierte Aktivität veröffentlichen - Marketo-Dokumente - Produktdokumentation
+title: Benutzerdefinierte Aktivität veröffentlichen
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Veröffentlichen einer benutzerspezifischen Aktivität {#publish-a-custom-activity}
+# Benutzerdefinierte Aktivität veröffentlichen {#publish-a-custom-activity}
 
-Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetzt ist es an der Zeit, es zu veröffentlichen!
+Sie verfügen über Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetzt ist es Zeit, es zu veröffentlichen!
 
-1. Klicken Sie auf **Admin**.
+1. Klicken **Admin**.
 
    ![](assets/one-2.png)
 
-1. Klicken Sie unter **Datenbankverwaltung** auf **Benutzerdefinierte Marketo-Aktivitäten**.
+1. In **Datenbankverwaltung** click **Benutzerdefinierte Marketo-Aktivitäten**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +26,15 @@ Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetz
 
    ![](assets/three-2.png)
 
-1. Klicken Sie auf die Dropdown-Liste **Benutzerspezifische Aktivität Aktionen** und wählen Sie **Aktivität veröffentlichen**.
+1. Klicken Sie auf **Benutzerdefinierte Aktivitätsaktionen** und wählen Sie **Veröffentlichungsaktivität**.
 
    ![](assets/four-2.png)
 
-   Sie sehen, wie der Status Ihrer benutzerdefinierten Aktivität von &quot;Entwurf&quot;abweicht...
+   Der Status Ihrer benutzerdefinierten Aktivität wird von Entwurf übernommen..
 
    ![](assets/five-2.png)
 
-   ...zu &quot;Veröffentlicht&quot;.
+   ...auf Veröffentlicht.
 
    ![](assets/six-2.png)
 

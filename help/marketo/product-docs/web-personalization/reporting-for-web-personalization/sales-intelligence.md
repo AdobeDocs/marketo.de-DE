@@ -1,33 +1,32 @@
 ---
 unique-page-id: 10096420
-description: Sales Intelligence - Marketing-Dokumente - Produktdokumentation
-title: Sales Intelligence
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Sales Intelligence - Marketo Docs - Produktdokumentation
+title: Vertriebsinformationen
+exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Vertriebsinformationen {#sales-intelligence}
 
-# Sales Intelligence {#sales-intelligence}
+Marketo Web Personalization bietet wertvolle Informationen über anonyme und bekannte Webbesucher und Organisationen, die Ihre Website besuchen. Vertriebsmitarbeiter können damit Warnhinweise zu wichtigen Organisationen und Konten entsprechend der jeweiligen Region verfolgen, überwachen und empfangen.
 
-Marketo Web Personalization bietet wertvolle Informationen über die anonymen und bekannten Web-Besucher und -Organisationen, die Ihre Website besuchen. Vertriebsmitarbeiter können damit Warnungen über wichtige Organisationen und Konten nach Region verfolgen, überwachen und empfangen.
+Greifen Sie darauf zu, indem Sie sich bei der Marketo Web Personalization-Plattform, über einen täglichen/wöchentlichen E-Mail-Bericht oder über die Mobile App anmelden.
 
-Greifen Sie darauf zu, indem Sie sich bei der Marketing-Web-Personalisierungsplattform, über einen täglichen/wöchentlichen E-Mail-Bericht oder über die mobile App anmelden.
+## Region des Benutzers definieren {#define-the-users-region}
 
-## Definieren der Benutzerregion {#define-the-users-region}
-
-Um die Organisations- und Besucher-Daten zu definieren, die Sie in der Marketing Web-Personalisierung sehen, gehen Sie zu [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) und wählen Sie die Länder oder Bundesstaaten aus.
+Um die Organisations- und Besucherdaten zu definieren, die in der Marketo Web-Personalisierung angezeigt werden, gehen Sie zu [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) und wählen Sie die Länder oder Staaten aus.
 
 ## Tägliche oder wöchentliche E-Mail-Berichte einrichten {#set-up-daily-or-weekly-email-reports}
 
-Unter [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) können Sie tägliche oder wöchentliche E-Mail-Berichte empfangen, die am frühen Morgen gesendet werden. Die Hauptberichte, die für einen Vertriebsmitarbeiter von Interesse sind, enthalten die Berichte Organisationen und Interessenten, in denen die am häufigsten besuchten Organisationen und die am häufigsten übermittelten Interessenten, einschließlich ihres Verhaltens, aus der jeweiligen Region des Benutzers angezeigt werden.
+In [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)können Sie täglich oder wöchentlich Berichte per E-Mail versenden, die am frühen Morgen gesendet werden. Die Hauptberichte, die für einen Vertriebsmitarbeiter von Interesse sind, enthalten die Berichte Organisationen und Interessenten, in denen die am häufigsten besuchten Organisationen sowie die von ihm aus der jeweiligen Region des Benutzers gesendeten Leads einschließlich des Verhaltens aufgeführt werden.
 
 >[!NOTE]
 >
->Wir empfehlen, dass Sie Vertriebsmitarbeiter mit der Berechtigung &quot;Nur Ansicht&quot;in Marketing Web Personalization einrichten. Dies bedeutet, dass alle Seiten Ansicht werden können, jedoch keine Funktionen erstellt, bearbeitet oder gelöscht werden können.
+>Wir empfehlen, dass Sie Vertriebsmitarbeiter mit schreibgeschützter Berechtigung in Marketo Web Personalization einrichten. Dies bedeutet, dass sie alle Seiten anzeigen, jedoch keine Funktionen erstellen, bearbeiten oder löschen können.
 
 >[!MORELIKETHIS]
 >

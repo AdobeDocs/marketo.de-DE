@@ -14,19 +14,19 @@ ht-degree: 0%
 
 Das Aktivitätsprotokoll ist die ultimative Quelle der Wahrheit. Das ist die komplette Geschichte des Journey einer Person in Marketo.
 
-1. Gehen Sie zur **Datenbank**.
+1. Navigieren Sie zu **Datenbank**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Wählen Sie **Alle Personen** aus.
+1. Auswählen **Alle Personen**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klicken Sie auf die Registerkarte **Personen** . Wählen Sie eine Person **Id** aus.
+1. Klicken Sie auf **Personen** Registerkarte. Person auswählen **ID** Zahl.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Klicken Sie auf **Aktivitätsprotokoll**.
+1. Klicken **Aktivitätsprotokoll**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -48,4 +48,4 @@ Sie müssen das Aktivitätsprotokoll einer Person in Excel exportieren?
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie mehr über [Filtern des Aktivitätsprotokolls](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md), um bestimmte Personaktivitäten anzuzeigen.
+   >Weitere Informationen [Filtern des Aktivitätsprotokolls](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) , um bestimmte Aktivitäten zu sehen.

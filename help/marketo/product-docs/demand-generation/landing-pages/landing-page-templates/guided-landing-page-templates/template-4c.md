@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 4C {#template-4c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+Rechtsklick auf [Download-Vorlage 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 

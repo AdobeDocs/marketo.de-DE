@@ -1,32 +1,31 @@
 ---
 unique-page-id: 42762244
-description: Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze - Marketing Docs - Produktdokumentation
+description: Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze - Marketo-Dokumente - Produktdokumentation
 title: Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-
 # Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze {#setting-up-stars-and-flames-for-lead-contact-records}
 
-Sterne und Flammen auf Kontaktdatensätzen hängen von Folgendem ab: Interessentenbewertungs-, Relative Score-, Dringlichkeitsfelder und Prioritätsfelder. Diese Felder sind nach der Installation und Konfiguration der MSI-Lösung standardmäßig verfügbar. Wenn Sie keine Sterne und Flammen haben, könnte eine vorherige Einrichtung/Anpassung dazu geführt haben, dass diese entfernt wurden. Gehen Sie wie folgt vor, um sie hinzuzufügen.
+Sterne und Flammen in Lead-/Kontaktdatensätzen hängen von Folgendem ab: Felder für Lead-Punktzahl, relative Punktzahl, Dringlichkeit und Priorität. Diese Felder sind nach der Installation und Konfiguration der MSI-Lösung standardmäßig verfügbar. Wenn Sie keine Sterne und Flammen haben, hätte eine vorherige Einrichtung/Anpassung dazu führen können, dass sie entfernt wurden. Gehen Sie wie folgt vor, um sie hinzuzufügen.
 
-1. Klicken Sie in Microsoft Dynamics auf die Dropdownliste Verkauf und wählen Sie **Einstellungen**. Klicken Sie auf **Anpassungen** und **Anpassen des Systems**.
+1. Klicken Sie in Microsoft Dynamics auf das Dropdown-Menü Verkauf und wählen Sie **Einstellungen**. Klicken **Anpassungen**, dann **System anpassen**.
 
-1. Klicken Sie im linken Bereich auf **Entities**.
+1. Klicken Sie im linken Bereich auf **Entitäten**.
 
-1. Klicken Sie auf **Lead**, dann **Forms** und wählen Sie dann das zu bearbeitende Formular aus.
+1. Suchen und Klicken **Lead**, dann **Forms** und wählen Sie dann das Formular aus, das Sie bearbeiten möchten.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Klicken Sie im linken Bereich auf **Marketo Sales Insight**. Klicken Sie im rechten Bedienfeld auf die Dropdownliste Filter und wählen Sie **Benutzerdefinierte Felder**.
+1. Klicken **Marketo Sales Insight** im linken Bereich. Klicken Sie im rechten Bereich auf das Dropdown-Menü Filter und wählen Sie **Benutzerdefinierte Felder**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
-1. Ziehen Sie Folgendes per Drag &amp; Drop: Interessentenbewertungs-, Relative Score-, Dringlichkeitsfelder und Prioritätsfelder. Ordnen Sie sie so an, dass sie am besten für Sie funktionieren. Sie können auch ein beliebiges Feld formatieren, indem Sie mit der Dublette darauf klicken.
+1. Ziehen Sie Folgendes per Drag-and-Drop in den Arbeitsbereich: Felder für Lead-Punktzahl, relative Punktzahl, Dringlichkeit und Priorität. Ordnen Sie sie so an, dass sie am besten für Sie funktionieren. Sie können auch jedes Feld formatieren, indem Sie darauf doppelklicken.
 
-1. Wenn Sie fertig sind, klicken Sie auf **Speichern und Schließen**.
+1. Wenn Sie fertig sind, klicken Sie auf **Speichern und schließen**.

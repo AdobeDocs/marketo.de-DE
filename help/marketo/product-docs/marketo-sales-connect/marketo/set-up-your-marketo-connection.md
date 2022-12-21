@@ -1,7 +1,8 @@
 ---
 description: Einrichten Ihrer Marketo-Verbindung - Marketo Docs - Produktdokumentation
-title: Marketo-Verbindung einrichten
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+title: Einrichten der Marketo-Verbindung
+exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Wenn Sie MSC bereitstellen, sendet Marketo Ihre Anmeldeinformationen automatisch an Sales Connect und verbindet Ihre Instanz mit Marketo. Dieser Schritt ist nur dann erforderlich, wenn die Verbindung nach der Bereitstellung Ihrer Sales Connect-Instanz nicht hergestellt wird. **** Wenn Ihre Verbindung hergestellt ist, werden Ihre Anmeldedaten auf der Seite &quot;Marketo-Administrationseinstellungen&quot;angezeigt.
+>Wenn Sie MSC bereitstellen, sendet Marketo Ihre Anmeldeinformationen automatisch an Sales Connect und verbindet Ihre Instanz mit Marketo. Dieser Schritt ist erforderlich. **nur, wenn die Verbindung nicht hergestellt wurde** nachdem Ihre Sales Connect-Instanz bereitgestellt wurde. Wenn Ihre Verbindung hergestellt wurde, werden Ihre Anmeldedaten auf der Seite &quot;Marketo-Admin-Einstellungen&quot;angezeigt.
 
-## Berechtigungen vor der Verbindung von Vertrieb mit Marketo abrufen {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Erfassen von Anmeldeinformationen vor der Verbindung von Vertrieb und Verbindung mit Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Sie benötigen einen Satz Anmeldeinformationen aus Marketo. Diese Anmeldeinformationen werden später vom Sales Connect-Administrator verwendet, um Marketo mit Sales Connect zu verbinden.
+Sie müssen eine Reihe von Anmeldeinformationen aus Marketo erhalten. Diese Anmeldeinformationen werden später vom Sales Connect-Administrator verwendet, um Marketo mit Sales Connect zu verbinden.
 
 1. Klicken Sie in Marketo auf **Admin**.
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. Klicken Sie in der Struktur auf **Verkaufsverbindung**.
+1. Klicken Sie in der Baumstruktur auf **Sales Connect**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
-1. Wählen Sie die folgenden Marketo-Anmeldedaten aus und senden Sie sie an Ihren Sales Connect-Administrator: Munchkin-ID, Client-ID, geheimer Clientschlüssel.
+1. Wählen Sie die folgenden Marketo-Anmeldedaten aus und senden Sie sie an Ihren Sales Connect-Administrator: Munchkin-ID, Client-ID, Client-Geheimnis.
 
    ![](assets/manually-set-up-your-marketo-connection-3.jpg)
 
@@ -34,16 +35,16 @@ Sie benötigen einen Satz Anmeldeinformationen aus Marketo. Diese Anmeldeinforma
    >
    >Wenn Sie die oben genannten Informationen kopieren und einfügen, stellen Sie sicher, dass keine Leerzeichen hinzugefügt werden.
 
-## Connect Sales Connect mit Marketo {#connect-sales-connect-to-marketo}
+## Verbinden von Sales Connect mit Marketo {#connect-sales-connect-to-marketo}
 
 1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Wählen Sie unter &quot;Admin-Einstellungen&quot;die Option **Marketo**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Marketo**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Geben Sie die vom Marketo-Administrator angegebenen Marketo-Anmeldeinformationen ein und klicken Sie auf **Connect**.
+1. Geben Sie die vom Marketo-Administrator bereitgestellten Marketo-Anmeldedaten ein und klicken Sie auf **Verbinden**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

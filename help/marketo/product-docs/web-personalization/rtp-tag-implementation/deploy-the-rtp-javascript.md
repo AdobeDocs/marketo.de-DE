@@ -1,27 +1,26 @@
 ---
 unique-page-id: 4719332
-description: RTP-JavaScript bereitstellen - Marketing Docs - Produktdokumentation
+description: Bereitstellen des RTP-JavaScripts - Marketo Docs - Produktdokumentation
 title: RTP-JavaScript bereitstellen
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# RTP-JavaScript bereitstellen {#deploy-the-rtp-javascript}
 
-# RTP-JavaScript {#deploy-the-rtp-javascript} bereitstellen
+Um Ihr RTP-Tag zu generieren und einzurichten, befolgen Sie die folgenden Installationsanweisungen
 
-Um Ihr RTP-Tag zu erstellen und einzurichten, befolgen Sie die Installationsanweisungen unten
+## Tag generieren {#generate-tag}
 
-## Tag {#generate-tag} erstellen
-
-1. Melden Sie sich bei Ihrem RTP-Konto an. Gehen Sie zu **Kontoeinstellungen**.
+1. Melden Sie sich bei Ihrem RTP-Konto an. Navigieren Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Suchen Sie in **Domäne** und **Domänenkonfiguration** die entsprechende Domäne und klicken Sie auf **Tag** generieren.
+1. In **Domäne** und **Domänenkonfiguration**, suchen Sie die entsprechende Domäne und klicken Sie auf **Tag generieren**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -31,14 +30,14 @@ Um Ihr RTP-Tag zu erstellen und einzurichten, befolgen Sie die Installationsanwe
 
    >[!NOTE]
    >
-   >Kopieren Sie das RTP JavaScript-Tag und fügen Sie es als erstes Skript in die Kopfzeile Ihrer Seiten ein - zwischen den Tags `<head> </head>`.
+   >Kopieren Sie das RTP-JavaScript-Tag und fügen Sie es als erstes Skript in die Kopfzeile Ihrer Seiten ein - zwischen dem `<head> </head>` Tags.
 
-   Stellen Sie sicher, dass das Tag auf allen Seiten einschließlich Landingpages und Subdomänen angezeigt wird. Überprüfen Sie dies, indem Sie mit der rechten Maustaste auf die Seite Ihrer Website klicken. Gehen Sie zur Seitenquelle der Ansicht in einem Webbrowser. Suchen: &quot;RTP&quot;.
+   Stellen Sie sicher, dass das Tag auf allen Seiten einschließlich Landingpages und Subdomänen angezeigt wird. Klicken Sie mit der rechten Maustaste auf die Seite Ihrer Website. Navigieren Sie in einem Webbrowser zur Seitenquelle anzeigen . Suchen: &quot;RTP&quot;.
 
-1. Tag-Umschalter auf **ON** eingestellt.
+1. Tag-Umschalter auf **ON**.
 
-   Vergewissern Sie sich, dass der Tag-Umschalter auf &quot;EIN&quot;eingestellt ist. Beginn sollten den Datenfluss in die Registerkarte der Organisation sehen.
+   Vergewissern Sie sich, dass der Umschalter Tag auf EIN gesetzt ist. Sie sollten beginnen, Datenflüsse auf der Registerkarte der Organisation anzuzeigen.
 
-   Sie sind jetzt mit dem RTP-Tag eingerichtet und können [Beginn Segmente](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) und Echtzeit-Kampagnen erstellen!
+   Sie sind jetzt mit dem RTP-Tag eingerichtet und bereit zum Starten [Segmente erstellen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) und Echtzeit-Kampagnen!
 
-1. Überprüfen Sie, ob sich das Tag auf allen Seiten befindet.
+1. Stellen Sie sicher, dass sich das Tag auf allen Seiten befindet.

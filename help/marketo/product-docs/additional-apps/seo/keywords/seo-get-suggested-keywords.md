@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949202
-description: SEO - Vorgeschlagene Suchbegriffe abrufen - Marketo Docs - Produktdokumentation
+description: SEO - Vorgeschlagene Suchbegriffe abrufen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Vorgeschlagene Suchbegriffe abrufen
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
@@ -13,27 +12,27 @@ ht-degree: 1%
 
 # SEO - Vorgeschlagene Suchbegriffe abrufen {#seo-get-suggested-keywords}
 
-Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir können Vorschläge basierend auf einem Suchbegriff oder der URL einer Site machen. Mach es mal!
+Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir können Vorschläge basierend auf einem Suchbegriff oder der URL einer Site unterbreiten. Lass es mal!
 
 ## Suchbegriffvorschläge mit einem Suchbegriff abrufen {#get-keyword-suggestions-using-a-keyword}
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe**.
+1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Klicken Sie auf **Empfehlungen abrufen**.
+1. Klicken **Empfehlungen abrufen**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Geben Sie einen **Suchbegriff** ein. Klicken Sie auf **Suchbegriffe vorschlagen**.
+1. Geben Sie einen **Schlüsselwort**. Klicken **Suchbegriffe vorschlagen**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie hier [Ihren Suchbegriff zu einer neuen oder vorhandenen Liste](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können?
+   >Wussten Sie, dass Sie  [Suchbegriff zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) genau hier?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **Hinzufügen Ausgewählte**.
+1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **Auswahl hinzufügen**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -41,31 +40,31 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   Ja! Nachdem Sie wissen, wie Sie Suchbegriffvorschläge basierend auf einem Suchbegriff erhalten, versuchen Sie, Vorschläge basierend auf einer URL zu erhalten.
+   Ja! Nachdem Sie nun wissen, wie Sie Suchbegriffvorschläge basierend auf einem Suchbegriff erhalten, versuchen Sie, Vorschläge basierend auf einer URL zu erhalten.
 
-## Suchbegriffvorschläge von einer URL abrufen {#get-keyword-suggestions-from-a-url}
+## Suchbegriffvorschläge von einer URL abrufen  {#get-keyword-suggestions-from-a-url}
 
-1. Gehen Sie zum Abschnitt **Suchbegriffe**.
+1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Klicken Sie auf **Empfehlungen abrufen**.
+1. Klicken **Empfehlungen abrufen**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Setzen Sie **Vorschlagen nach** auf **URL**.
+1. Satz **Vorschlagen nach** nach **URL**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Geben Sie eine **URL** ein und klicken Sie auf **Suchbegriffe vorschlagen**.
+1. Geben Sie einen **URL** und klicken Sie auf **Suchbegriffe vorschlagen**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie hier [Ihren Suchbegriff zu einer neuen oder vorhandenen Liste](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können?
+   >Wussten Sie, dass Sie [Suchbegriff zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) genau hier?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **Hinzufügen Ausgewählte**.
+1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **Auswahl hinzufügen**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -73,10 +72,10 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
    ![](assets/image2014-9-18-11-3a8-3a25.png)
 
-   Okay, du bist so ein Schurken. Mach weiter!
+   Ok, du hast diese Sache verflucht. Mach weiter!
 
    >[!MORELIKETHIS]
    >
-   >* [Die Suchbegriffe (Ansicht der Zusammenfassung)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Suchbegriffe aus einer Liste Hinzufügen/entfernen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Hinzufügen/Entfernen von Suchbegriffen aus einer Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 

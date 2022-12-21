@@ -1,27 +1,26 @@
 ---
 unique-page-id: 11380732
-description: Account-Filter - Marketing Docs - Produktdokumentation
-title: Filter
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Kontofilter - Marketo-Dokumente - Produktdokumentation
+title: Kontofilter
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# Kontofilter {#account-filters}
 
-# Account-Filter {#account-filters}
-
-Identifizieren und binden Sie benannte Konten und die darin enthaltenen Personen mithilfe neuer kontoorientierter Filter.
+Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Personas mithilfe neuer kontozentrierter Filter.
 
 ## TAM-Filter {#tam-filters}
 
-1. Wählen Sie Ihre intelligente Kampagne aus und klicken Sie auf **Intelligente Liste**.
+1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **+**, um den Ordner **Filter** zu erweitern.
+1. Klicken Sie auf **+** , um die **Kontofilter** Ordner.
 
    ![](assets/two.png)
 
@@ -29,42 +28,42 @@ Identifizieren und binden Sie benannte Konten und die darin enthaltenen Personen
 
    ![](assets/three.png)
 
-## Mitglied der Account-Liste {#member-of-account-list}
+## Mitglied der Kontoliste {#member-of-account-list}
 
-Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste Konto-Liste...
+Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste der Konten..
 
 ![](assets/four.png)
 
-...und wählen Sie die gewünschte(n) Liste(n) aus.
+...und wählen Sie Ihre gewünschte(n) Kontoliste(n) aus.
 
 ![](assets/five.png)
 
 >[!NOTE]
 >
->Für den Liste-Filter &quot;Mitglied des Kontos&quot;gibt es nur einen Qualifier: &quot;is&quot; - Zusätzliche Qualifikatoren (wie &quot;is not&quot; und &quot;is any&quot;) sind nicht verfügbar.
+>Für den Filter Mitglied der Kontoliste gibt es nur einen Qualifikator: &quot;is&quot;- Zusätzliche Qualifikatoren (wie &quot;is not&quot; und &quot;is any&quot;) sind nicht verfügbar.
 
 ## Mitglied des benannten Kontos {#member-of-named-account}
 
-Wählen Sie zunächst einen Qualifikator aus. **Ist** für ein bestimmtes(n) benanntes(n) Konto(e) oder  **ist** ein beliebiges beliebiges Konto vorhanden.
+Wählen Sie zunächst einen Qualifizierer aus. **Is** für ein bestimmtes(n) benanntes Konto(e) oder **ist** für jedes benannte Konto.
 
 ![](assets/six.png)
 
-Klicken Sie auf die Dropdownliste Benanntes Konto...
+Klicken Sie auf die Dropdown-Liste Konto mit Namen ...
 
 ![](assets/seven.png)
 
-...und wählen Sie die gewünschten benannten Konten aus.
+...und wählen Sie die gewünschten spezifischen Konten aus.
 
 ![](assets/eight.png)
 
-Wenn Sie den Qualifikator &quot;is any&quot;verwenden, sollten Sie [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) verwenden, um Ihre Suchergebnisse einzuschränken. hinzufügen so viele, wie du willst!
+Wenn Sie den Qualifikator &quot;ist vorhanden&quot;verwenden, sollten Sie [Einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) , um die Suchergebnisse einzuschränken. Fügen Sie so viele hinzu, wie Sie möchten!
 
 ![](assets/nine.png)
 
-Setzen Sie &quot;Kinder einschließen&quot;auf &quot;false&quot;, wenn Sie nur Mitglieder aus einem einzigen Konto der obersten Ebene verwenden möchten. Wählen Sie &quot;true&quot;, wenn Sie Mitglieder aus allen untergeordneten Konten haben möchten.
+Setzen Sie &quot;Untergeordnete Elemente einschließen&quot;auf &quot;false&quot;, wenn Sie nur Mitglieder aus dem einzelnen Konto der obersten Ebene wünschen. Wählen Sie &quot;true&quot;, wenn Mitglieder aus allen untergeordneten Konten ausgewählt werden sollen.
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[Trigger](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[Account-Trigger](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

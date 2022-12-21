@@ -26,7 +26,7 @@ Scoring-Mitarbeiter sind einfach und leistungsstark, um Ihrem Verkaufsteam bei d
 
    >[!TIP]
    >
-   >Sie können mehrere Bewertungsfelder erstellen. Weitere Informationen finden Sie unter [Erstellen eines benutzerdefinierten Felds in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Sie können mehrere Bewertungsfelder erstellen. Siehe [Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) für Details.
 
 1. Geben Sie die gewünschte Punktänderung ein.
 
@@ -34,9 +34,9 @@ Scoring-Mitarbeiter sind einfach und leistungsstark, um Ihrem Verkaufsteam bei d
 
    Änderungen:
 
-   * **+5** zu erhöhen
+   * **+5** zu inkrementieren
    * **-5** wird abnehmen (negative Zahlen erlaubt)
-   * **=5** ergibt den Wert mit der genauen Zahl
-   * **=-5** ergibt den Wert mit der exakten negativen Zahl
+   * **=5** ergibt die Punktzahl mit der exakten Zahl
+   * **= -5** ergibt die genaue negative Zahl
 
 Richten Sie die grundlegende Auswertung schnell ein und passen Sie dann die Ergebnisse im Laufe der Zeit an. Das haben wir getan!

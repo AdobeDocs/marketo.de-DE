@@ -1,60 +1,59 @@
 ---
 unique-page-id: 2953373
-description: Konfigurieren Sie die Abonnementfußzeilen in Marketing Sales Insight - Marketing Docs - Produktdokumentation
-title: Konfigurieren Sie die Abonnementfußzeilen in Marketo Sales Insight.
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Konfigurieren von Abmeldefußzeilen in Marketo Sales Insight - Marketo Docs - Produktdokumentation
+title: Konfigurieren von Abmeldefußzeilen in Marketo Sales Insight
+exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Konfigurieren von Abmeldefußzeilen in Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
-# Konfigurieren Sie die Abonnementfußzeilen in Marketing Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
-
-In E-Mails zum Verkauf wird die Fußzeile zum Abbestellen automatisch unten angezeigt. Sie können die Einstellungen jedoch an Ihre Anforderungen anpassen.
+In E-Mails zum Verkauf wird die Abmelde-Fußzeile automatisch am unteren Rand platziert. Sie können die Einstellungen jedoch an Ihre Anforderungen anpassen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!NOTE]
 >
 >**Definition**
 >
->**Verkaufs-** E-Mails sind solche, die von Sales Insight gesendet werden (nicht enthalten sind die vom Marketing-zu-Outlook-Plugin gesendeten).
+>**Verkaufs-E-Mails** sind diejenigen, die von Sales Insight gesendet werden (nicht enthalten sind diejenigen, die vom Marketo Outlook-Plugin gesendet werden).
 
-1. Gehen Sie zum Bereich **Admin**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Sales Insight** und dann **Einstellungen bearbeiten**.
+1. Klicken **Sales Insight**, dann **Einstellungen bearbeiten**.
 
    ![](assets/two-1.png)
 
-   Es gibt mehrere Optionen. Sehen wir uns zunächst einmal die E-Mail-Typen an, für die Sie die Einstellungen ändern können.
+   Es gibt mehrere Möglichkeiten. Sehen wir uns zunächst die E-Mail-Typen an, für die Sie die Einstellungen ändern können.
 
    ![](assets/three-1.png)
 
-   * **Keine Vorlage**  - Manuell erstellt vom Vertriebsbenutzer.
-   * **Standard-E-Mail**  - E-Mails, die auf einer Vorlage basieren.
-   * **Operative E-Mail** : E-Mails, die nicht abonniert, Marketing ausgesetzt und Kommunikationsbeschränkungen ignorieren (egal, was gesendet wird).
+   * **Keine Vorlage** - Manuell von einem Vertriebsbenutzer erstellt.
+   * **Standard-E-Mail** - Auf Vorlagen basierende E-Mails.
+   * **Operative E-Mail** - E-Mails, die Abmeldungen ignorieren, Marketing ausgesetzt und Kommunikationsbeschränkungen (unabhängig davon, was gesendet wird).
 
-   Sie haben die Möglichkeit, für jeden Typ ein anderes Verhalten festzulegen.
+   Sie können für jeden Typ ein anderes Verhalten festlegen.
 
    >[!CAUTION]
    >
-   >**Einstellungen** zum Abmelden beachten: abonnierte Interessenten erhalten die E-Mail NICHT, auch wenn die veröffentlichte E-Mail &quot;betriebsbereit&quot;ist
+   >**Abmeldeeinstellungen respektieren**: abgemeldete Leads erhalten die E-Mail NICHT, selbst wenn die veröffentlichte E-Mail &quot;betriebsbereit&quot;ist
    >
-   >**Einstellungen** für das Abmelden ignorieren: abonnierte Interessenten erhalten die E-Mail
+   >**Ignorieren von Abmeldeeinstellungen**: abgemeldete Leads erhalten die E-Mail
 
 1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie dann auf **Speichern**.
 
    >[!TIP]
    >
-   >Die letzten beiden Optionen ermöglichen es Ihnen, die Abbestellfußzeile je nach Anzahl der Empfänger dynamisch einzuschließen/auszuschließen (größer als 1 oder größer als 5).
+   >Die letzten beiden Optionen ermöglichen es, die Abmeldefußzeile abhängig von der Anzahl der Empfänger (größer als 1 oder größer als 5) dynamisch einzuschließen/auszuschließen.
 
    ![](assets/four-1.png)
 
-Dreh! Ein bisschen kompliziert, aber ziemlich flexibel, nicht wahr?
+Egal! Ein wenig kompliziert, aber ziemlich flexibel, nicht wahr?

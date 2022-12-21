@@ -1,74 +1,73 @@
 ---
 unique-page-id: 4718666
-description: Verwendung der Lagerbestandsstadien für Umsatzmodelle - Marketing-Dokumente - Produktdokumentation
+description: Verwenden der Lagerbestandsstatus des Umsatzmodells - Marketo Docs - Produktdokumentation
 title: Verwenden der Lagerbestandsstadien des Umsatzmodells
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-
 # Verwenden der Lagerbestandsstadien des Umsatzmodells {#using-revenue-model-inventory-stages}
 
-Alle bekannten Interessenten und Konten befinden sich anfangs in der Lagerbestandsphase. In diesem Potenzieller Kunde-Pool werden die Interessenten bis zum Verkauf gepflegt. Es gibt keine Zeitbeschränkung für eine Bestandsaufnahme.
+Alle bekannten Leads und Konten befinden sich zunächst in der Lagerbestandsbühne. In diesem Interessenten-Pool werden Leads gepflegt, bis sie zum Verkauf bereit sind. Für eine Inventarphase gibt es keine Zeitbeschränkung.
 
 >[!TIP]
 >
->Es empfiehlt sich, ein Praxismodell in einem Grafik- oder Präsentationsmodell zu erstellen und es zunächst mit Ihren Kollegen zu bestätigen.
+>Es ist eine gute Idee, ein Übungsmodell in einem Grafik- oder Präsentationsprogramm zu erstellen und es zuerst mit Ihren Kollegen zu bestätigen.
 
-## hinzufügen einer Lagerbestandsstufe {#add-an-inventory-stage}
+## Hinzufügen einer Lagerbestandsstufe {#add-an-inventory-stage}
 
-1. Um eine neue Phase der Modellinventarisierung für den Umsatzzyklus hinzuzufügen, klicken Sie auf die Schaltfläche **Analytics** im Startbildschirm **My Marketo**.
+1. Um eine neue Phase des Inventars des Umsatzzyklusmodells hinzuzufügen, klicken Sie auf das **Analytics** im **My Marketo** Startbildschirm.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Wählen Sie im Abschnitt **Analytics** Ihr vorhandenes Modell oder [erstellen Sie ein neues Modell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Im **Analytics** auswählen, das vorhandene Modell oder [Erstellen eines neuen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Klicken Sie auf **Entwurf bearbeiten**.
+1. Klicken **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Um eine neue Lagerbestandsstufe hinzuzufügen, klicken Sie auf die Schaltfläche **Lagerbestand** und ziehen Sie dann die Taste und lassen Sie sie an eine beliebige Stelle auf der Arbeitsfläche los.
+1. Um eine neue Lagerbestandsphase hinzuzufügen, klicken Sie auf die Schaltfläche **Bestand** und ziehen Sie die Maustaste und lassen Sie sie an eine beliebige Stelle auf der Arbeitsfläche los.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Sie können den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ nach dem Hinzufügen einer Bühne anpassen. Sie können zu diesem Zeitpunkt auch **[Beginn-Verfolgung nach Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
+1. Sie können den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ nach dem Hinzufügen einer Bühne anpassen. Sie können auch **[Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** zu diesem Zeitpunkt.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Eine Lagerbestandsstufe bearbeiten {#edit-an-inventory-stage}
 
-Wenn Sie ein Lagerbestandssymbol auswählen, können Sie **Name** bearbeiten, eine **Beschreibung** hinzufügen oder **Typ** anpassen. Sie können auch [Beginn-Verfolgung nach Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
+Wenn Sie ein Inventarsymbol auswählen, können Sie die **Name**, fügen Sie eine **Beschreibung** oder passen Sie die **Typ**. Sie können auch [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Klicken Sie auf das Symbol Bestand.
+1. Klicken Sie auf das Symbol Bestand .
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Klicken Sie in die Felder **Name** und **Beschreibung**, um den Inhalt zu bearbeiten.
+1. Klicken Sie in der **Name** und **Beschreibung** -Felder, um ihren Inhalt zu bearbeiten.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Wählen Sie den Pulldown **Typ**, den Sie bearbeiten möchten.
+1. Wählen Sie die **Typ** Pulldown zur Bearbeitung.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
-## Eine Lagerbestandsstufe {#delete-an-inventory-stage} löschen
+## Eine Lagerbestandsstufe löschen {#delete-an-inventory-stage}
 
-1. Sie können eine Lagerbestandsstufe löschen, indem Sie mit der rechten Maustaste oder mit der rechten Maustaste auf ein Symbol für eine Lagerbestandsstufe klicken.
+1. Sie können eine Lagerbestands-Phase löschen, indem Sie mit der rechten Maustaste auf ein Symbol für eine Lagerbestandsstufe klicken oder diese steuern.
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Sie können eine Phase auch löschen, indem Sie darauf klicken und dann im Dropdownmenü **Aktionen der Stufe** **Löschen** wählen.
+1. Sie können eine Bühne auch löschen, indem Sie darauf klicken und dann im **Staging-Aktionen** Dropdown-Liste auswählen **Löschen**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Beide Löschmethoden bitten Sie, Ihre Auswahl zu bestätigen. Klicken Sie auf **Löschen**.
+1. Bei beiden Löschmethoden müssen Sie Ihre Auswahl bestätigen. Klicken **Löschen**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 
-Herzlichen Glückwunsch! Jetzt verstehen Sie die wunderbare Welt der Inventurstadien.
+Herzlichen Glückwunsch! Jetzt verstehen Sie die wunderbare Welt der Inventarstadien.

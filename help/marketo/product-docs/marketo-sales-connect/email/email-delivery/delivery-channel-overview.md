@@ -1,60 +1,59 @@
 ---
 unique-page-id: 14352407
-description: Übersicht über Versand Kanal - Marketing-Dokumente - Produktdokumentation
-title: Übersicht über Versand Kanal
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+description: Versandkanal-Übersicht - Marketo-Dokumente - Produktdokumentation
+title: Versandkanal-Übersicht
+exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
 
+# Versandkanal-Übersicht {#delivery-channel-overview}
 
-# Übersicht über Versand-Kanal {#delivery-channel-overview}
+Marketo Sales Connect bietet Ihnen mehrere Optionen zum Versand von E-Mails. In diesem Artikel wird beschrieben, welche Versandkanäle Sie nutzen können, wie Sie sie auswählen und wann Sie einen anderen wählen können.
 
-Marketo Sales Connect bietet mehrere Optionen zur Bereitstellung von E-Mails. In diesem Artikel werden die Kanal des Versands, die Sie nutzen können, sowie die Auswahlmöglichkeiten und der Zeitpunkt der Auswahl der  überprüft.
+## Empfohlen: Gmail oder Exchange über E-Mail-Verbindung {#recommended-gmail-or-exchange-via-email-connection}
 
-## Empfohlen: Google Mail oder Exchange über E-Mail-Verbindung {#recommended-gmail-or-exchange-via-email-connection}
+Sales Connect ermöglicht eine optimierte Einrichtung und die verbesserte Zustellbarkeit über unseren E-Mail-Verbindungsdienst. Die E-Mail-Verbindung ermöglicht jedem Benutzer die Verbindung zu seiner [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) oder [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) Konto bei Sales Connect , um als bevorzugten Versandkanal für alle Sales Connect-E-Mails verwendet zu werden.
 
-Sales Connect ermöglicht ein optimiertes Setup und die verbesserte Lieferbarkeit über unseren E-Mail-Verbindungsdienst. Die E-Mail-Verbindung ermöglicht es jedem Benutzer, eine Verbindung zu seinem [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)- oder [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)-Konto zu Sales Connect herzustellen, um als bevorzugten Versand für alle Sales Connect-E-Mails verwendet zu werden.
+Die Verwendung von Gmail oder Exchange bietet einige deutliche Vorteile gegenüber anderen Optionen für Versandkanäle:
 
-Die Verwendung von Gmail oder Exchange hat einige deutliche Vorteile gegenüber anderen Versand-Kanal-Optionen:
+* Dies ist ein bewährter Versandkanal mit bewährter Reputation, der dazu beiträgt, die Zustellbarkeit hoch zu halten.
+* Authentifizierungsmethoden wie SPF und DKIM werden bereits von Ihrem IT-Team konfiguriert und verwaltet, sodass es keine zusätzliche Einrichtung gibt.
+* Der Versand von E-Mails innerhalb eines bestimmten E-Mail-Netzwerks (d. h. das Senden einer E-Mail als Exchange-Benutzer an ein Unternehmen, das E-Mails über Exchange erhält) kann die Zustellbarkeit weiter verbessern.
 
-* Dies ist ein bewährter Versand Kanal mit einem etablierten Ruf, der dazu beiträgt, die Lieferbarkeit hoch zu halten.
-* Authentifizierungsmethoden wie SPF und DKIM werden bereits von Ihrem IT-Team konfiguriert und verwaltet, sodass kein zusätzliches Setup vorhanden ist.
-* Das Senden von E-Mails innerhalb eines bestimmten E-Mail-Netzwerks (d. h. das Senden einer E-Mail als Exchange-Benutzer an eine Firma, die E-Mails über Exchange erhält) kann die Zustellbarkeit weiter erhöhen.
-
-Es ist wichtig zu beachten, dass diese Versand-Kanal ihre eigenen Sendeschränkungen haben, die von Microsoft und Google erzwungen werden. Um dies zu bekämpfen, verwenden wir einen Drosselungsmechanismus, der Benutzern hilft, sich innerhalb dieser Grenzen zu halten. Erfahren Sie mehr über [E-Mail-Einschränkungen hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Beachten Sie, dass diese Versandkanäle über eigene Versandbeschränkungen verfügen, die von Microsoft und Google erzwungen werden. Um dies zu bekämpfen, verwenden wir einen Drosselungsmechanismus, der Benutzern dabei hilft, diese Beschränkungen einzuhalten. Weitere Informationen [E-Mail-Einschränkungen hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
->Standardmäßig verwendet das O365-Plugin immer Ihren Exchange-Versand-Kanal und das Gmail-Plugin verwendet immer Ihren Gmail-Versand-Kanal, um E-Mails von den Plugins zu senden.
+>Standardmäßig verwendet das O365-Plug-in immer Ihren Exchange-Versandkanal und das Gmail-Plug-in nutzt immer Ihren Gmail-Versandkanal, um E-Mails von den Plug-ins zu versenden.
 
-**Absprungverfolgung**: MSC kann Absprünge für Exchange Online- oder Gmail-Benutzer erkennen, indem die Absprungmeldung erkannt wird, die an den Posteingang des Absenders gesendet wird. Diese Absprungbenachrichtigungen werden in Vorlagenanalysen, Kampagnen-Analysen und Live-Feed-Benachrichtigungen für Benutzer aggregiert. Die Absprungverfolgung wird für Exchange-On-Prem-Kunden nicht unterstützt.
+**Bounce-Tracking**: MSC kann Bounces für Exchange Online- oder Gmail-Benutzer erkennen, indem er die Bounce-Nachricht erkennt, die an den Posteingang des Absenders gesendet wird. Diese Bounce-Benachrichtigungen werden für Benutzer in Vorlagenanalysen, Campaign-Analysen und Live-Feed-Benachrichtigungen zusammengefasst. Das Bounce-Tracking wird für Exchange On-Prem-Kunden nicht unterstützt.
 
-## Benutzerdefinierter Versand-Kanal über SMTP {#custom-delivery-channel-via-smtp}
+## Benutzerspezifischer Bereitstellungskanal über SMTP {#custom-delivery-channel-via-smtp}
 
-Sales Connect Angebot die zusätzliche Option, einen Drittanbieter-SMTP-Server anzuschließen, der als bevorzugter Versand-Kanal Ihres Vertriebsteams verwendet werden kann.
+Sales Connect bietet die zusätzliche Option, einen Drittanbieter-SMTP-Server anzuschließen, der als bevorzugter Versandkanal Ihres Verkaufsteams verwendet werden kann.
 
-Die Nutzung eines Drittanbieter-SMTP-Providers ist eine großartige Option für Vertriebsteams, in denen das E-Mail-Volumen die höchste Priorität hat. SMTP-Anbieter wie Sendgrid und Sparkpost sind optimiert, um die Anforderungen von Massen-E-Mail-Versänden zu bedienen und können skaliert werden, um die Anforderungen derjenigen zu erfüllen, die große E-Mail-Mengen bereitstellen möchten.
+Die Verwendung eines SMTP-Anbieters eines Drittanbieters ist eine hervorragende Option für Vertriebsteams, in denen das E-Mail-Volumen die höchste Priorität hat. SMTP-Anbieter wie Sendgrid und Sparkpost sind optimiert, um die Anforderungen des Massen-E-Mail-Versands zu erfüllen und können skaliert werden, um die Anforderungen von Personen zu erfüllen, die große E-Mail-Volumen bereitstellen möchten.
 
-Darüber hinaus bieten SMTP-Anbieter von Drittanbietern eine Vielzahl von Funktionen, die die Bereitstellungsanforderungen Ihres Teams unterstützen (z. B. E-Mail-Versandberichte und dedizierte IP-Adressen). Dies ist eine großartige Option für diejenigen, die auf der Suche nach detaillierteren Steuerelementen und Sichtbarkeit für ihren E-Mail-Versand-Kanal sind.
+Darüber hinaus bieten SMTP-Drittanbieter eine Vielzahl von Funktionen, mit denen Sie die Zustellbarkeitsanforderungen Ihres Teams unterstützen können (z. B. E-Mail-Versandberichte und dedizierte IP-Adressen). Dies ist eine hervorragende Option für diejenigen, die nach detaillierteren Kontrollen und einer besseren Sichtbarkeit ihres E-Mail-Versandkanals suchen.
 
-## MSC-Server (Legacy) {#msc-servers-legacy}
+## MSC-Server (alt) {#msc-servers-legacy}
 
-MSC-Server stehen nur für ältere ToutApp-Kunden zur Verfügung. Diese Kunden sehen die MSC-Server in ihren E-Mail-Einstellungen. Alle Nicht-Legacy-Kunden sehen MSC nicht als Option und sollten ihr Gmail- oder Outlook-Konto mit Sales Connect verbinden, um einen Versand-Kanal zu entsperren.
+MSC-Server sind nur für einige ältere ToutApp-Kunden verfügbar. Diese Kunden sehen MSC-Server, die in ihren E-Mail-Einstellungen verfügbar sind. Nicht-ältere Kunden sehen MSC nicht als Option und sollten ihr Gmail- oder Outlook-Konto mit Sales Connect verbinden, um einen Versandkanal zu entsperren.
 
-MSC-Server unterstützen keine DKIM- und SPF-Authentifizierungsmethoden, wodurch die Bereitstellungsrate gesenkt werden kann. Daher empfehlen wir allen Kunden, sich mit Gmail oder Outlook zu verbinden, um die bestmögliche Lieferbarkeit zu erreichen.
+MSC-Server unterstützen keine DKIM- und SPF-Authentifizierungsmethoden, die die Zustellrate senken können. Aus diesem Grund empfehlen wir allen Kunden, eine Verbindung zu Gmail oder Outlook herzustellen, um eine optimale Zustellbarkeit zu erreichen.
 
 ## Marketo-Server {#marketo-servers}
 
-Marketing-E-Mail-Server werden nicht in Sales Connect integriert. Marketo-Server sind für den Massenzugriff optimiert, damit sie an die Anforderungen von Marketingexperten angepasst werden können. Gmail und Exchange haben jedoch eine höhere Erfolgsrate bei der Kommunikation über den 1:1-Vertrieb, weshalb wir empfehlen, diese Server für Ihre Vertriebskommunikation zu verwenden.
+Marketo-E-Mail-Server werden nicht in Sales Connect integriert. Marketo-Server sind für die Massenbereitstellung optimiert, damit sie entsprechend den Anforderungen von Marketing-Experten skaliert werden können. Gmail und Exchange weisen jedoch eine höhere Erfolgsrate bei der 1:1-Verkaufskommunikation auf. Deshalb empfehlen wir die Verwendung dieser Server für Ihre Verkaufskommunikation.
 
 >[!MORELIKETHIS]
 >
 >* [E-Mail-Verbindung für Gmail-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [E-Mail-Verbindung für Outlook-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
->* [Einrichten eines benutzerspezifischen Versand-Kanals](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [Einrichten eines benutzerdefinierten Bereitstellungskanals](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [Einschränken der E-Mail-Verbindung](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 

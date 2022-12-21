@@ -1,51 +1,50 @@
 ---
 unique-page-id: 4718664
-description: Der Erfolgspfad des Umsatzmodells - Marketing-Dokumente - Produktdokumentation
-title: Erfolgspfad des Umsatzmodells
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Verstehen des Erfolgspfads des Umsatzmodells - Marketo Docs - Produktdokumentation
+title: Erfolgspfad des Umsatzmodells verstehen
+exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Der Erfolgspfad des Umsatzmodells {#understanding-revenue-model-success-path}
+# Erfolgspfad des Umsatzmodells verstehen {#understanding-revenue-model-success-path}
 
 ## Erfolgspfad {#success-path}
 
-Im Modell ist der grüne Pfad, der **Erfolgspfad**, der optimale Pfad dafür, wie ein Interessent linear zu einem geschlossenen/Gewinner-Geschäft Transition.
+Im Modell wird der grüne Pfad als **Erfolgspfad** ist der optimale Pfad dafür, wie ein Lead linear zu einem geschlossenen/erfolgreichen Unternehmen wechselt.
 
-![—](assets/image2015-6-12-17-3a12-3a18.png)
+![--](assets/image2015-6-12-17-3a12-3a18.png)
 
-Beispielphasen für einen Erfolgspfad:
+Beispielschritte für einen Erfolgspfad:
 
-| **NAME DER ERFOLGSPFADSTUFE** | **DEFINITION** |
+| **NAMEN DER ERFOLGSPFAD** | **DEFINITION** |
 |---|---|
-| **Neue Namen überprüfen** | Überprüfen, ob neue Namen qualifiziert sind |
-| **Potenzieller Kunde** | Qualifizierte Potenzieller Kunde, die noch nicht verkaufsbereit sind |
-| **Interessent** | Marketing-qualifizierte Interessenten (&quot;umsatzbereit&quot;) |
-| **Chancen** | Verkäufe akzeptierten Interessenten, aktiv arbeiten |
-| **Kunde** | Geschlossene Gewinner-Angebote |
+| **Neue Namen überprüfen** | Überprüfen Sie, ob neue Namen qualifiziert sind. |
+| **Potenzieller Kunde** | Qualifizierte Interessenten, die noch nicht verkaufsbereit sind |
+| **Lead** | Marketing-qualifizierte Leads (&quot;sales ready&quot;) |
+| **Chance** | Vom Vertrieb akzeptierte Leads, aktiv arbeiten |
+| **Kunde** | Geschlossene Sonderangebote |
 
 >[!TIP]
 >
->Grün ist für Geld. Alles auf dem Weg des Grünen ist auf dem Weg zum Erfolg! Deshalb gibt es nur grüne Pfeile im [Erfolgspfadanalyzer](using-the-success-path-analyzer.md).
+>Grün ist für Geld. Alles auf dem Weg des Grünen ist auf dem Weg zum Erfolg! Deshalb sind nur grüne Pfeile in der [Erfolgspfad-Analyzer](using-the-success-path-analyzer.md).
 
-## Detours {#detours}
+## Umwege {#detours}
 
-Da nicht alle Interessenten einem linearen &quot;Erfolgspfad&quot;folgen, sollten Sie auch Ihre &quot;Umstiegsphasen&quot;definieren, um Leads zu erfassen, die nicht qualifiziert sind oder die einige Runden nähren müssen, bevor sie bereit sind. Beispiel:
+Da nicht alle Leads einem linearen &quot;Erfolgspfad&quot;folgen, sollten Sie auch Ihre &quot;Umstiegsphasen&quot;definieren, um Leads zu erfassen, die nicht qualifiziert sind oder die einige Runden der Pflege erfordern, bevor sie bereit sind. Beispiel:
 
 | **DETOUR STAGE NAME** | **DEFINITION** |
 |---|---|
-| **disqualifiziert** | Als nicht in Profil markierte Namen |
-| **Inaktiv** | Potenzieller Kunde, die nicht reagiert haben |
-| **Recycling** | Qualifiziert, benötigt aber mehr Pflege (in Verbindung mit Potenzieller Kunde) |
-| **Verloren** | Verlorene Chancen (laufende Pflege) |
+| **Disqualifiziert** | Namen, die als nicht in Profil markiert sind |
+| **Inaktiv** | Perspektiven, die nicht reagiert haben |
+| **Recycelt** | Qualifiziert, aber benötigt mehr Pflege (in Verbindung mit der Perspektive) |
+| **Verloren** | Verlorene Chancen (fortlaufende Pflege) |
 
 >[!TIP]
 >
->Diese befinden sich nicht auf dem grünen Pfad. Diese Schritte werden nicht im Erfolgspfadanalysator angezeigt.
+>Diese befinden sich nicht auf dem grünen Pfad. Diese Schritte werden in der Erfolgspfad-Analyse nicht angezeigt.
 
-So viel einfacher wird es sein, zu sehen, wie Interessenten in Zukunft fließen werden! Grüß deine neue kleine Freundin.
+So viel einfacher wird es sein, zu sehen, wie Leads in der Zukunft fließen werden! Grüß deinen neuen kleinen Freund von mir.

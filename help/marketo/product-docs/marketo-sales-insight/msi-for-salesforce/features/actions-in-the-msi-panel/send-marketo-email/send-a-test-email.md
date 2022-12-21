@@ -1,37 +1,36 @@
 ---
-description: Test-E-Mail senden - Marketing-Dokumente - Produktdokumentation
+description: Testversand-E-Mail - Marketo-Dokumente - Produktdokumentation
 title: Test-E-Mail senden
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
 # Test-E-Mail senden {#send-a-test-email}
 
-Bevor Sie eine E-Mail senden, können Sie das E-Mail-Format und die Token testen, indem Sie eine Test-E-Mail an eine beliebige E-Mail-Adresse senden.
+Bevor Sie eine E-Mail versenden, können Sie das E-Mail-Format und die Token testen, indem Sie eine Test-E-Mail an eine beliebige E-Mail-Adresse senden.
 
-1. Navigieren Sie zum Sales Insight-Bedienfeld in Salesforce eines Interessenten oder Kontakts.
+1. Navigieren Sie zum Bereich Sales Insight in Salesforce eines Leads oder Kontakts.
 
-1. Klicken Sie auf **Markierung an E-Mail senden**.
+1. Klicken **Marketo-E-Mail senden**.
 
-1. Klicken Sie auf **Test-Empfänger bearbeiten**.
+1. Klicken **Testempfänger bearbeiten**.
 
-1. Sie können einen oder mehrere Interessenten aus der Liste auswählen, um zu sehen, wie sie ihnen angezeigt werden. Klicken Sie nach Abschluss des Vorgangs auf **Änderungen anwenden**.
+1. Sie können einen oder mehrere Leads aus der Liste auswählen, um zu sehen, wie sie an sie dargestellt werden. Klicken **Änderungen anwenden** wann geschehen.
 
    ![](assets/send-a-test-email-1.png)
 
    >[!NOTE]
    >
-   >Zur Erinnerung: Wenn Sie diese Interessenten **auswählen, senden Sie ihnen nicht** den E-Mail-Test, es zeigt Ihnen _an, wie die E-Mail aussehen wird_. Wenn Sie vier Interessenten auswählen, erhalten Sie vier verschiedene Test-E-Mails.
+   >Zur Erinnerung: Auswählen dieser Leads **nicht** den E-Mail-Test zu senden, wird angezeigt, _wie die E-Mail aussehen wird_. Wenn Sie vier Leads auswählen, erhalten Sie vier verschiedene Test-E-Mails.
 
-1. Klicken Sie auf **Test senden**.
+1. Klicken **Versandtest**.
 
-Sie erhalten eine E-Mail mit Tokenwerten, die für die von Ihnen gewählten Interessenten ausgefüllt werden.
+Sie erhalten eine E-Mail mit Token-Werten für die ausgewählten Leads.
 
 >[!NOTE]
 >
->Keine Sorge, Sie bleiben auch nach dem Versenden der Test-E-Mail auf der Seite &quot;E-Mail senden&quot;, sodass Sie die erstellte E-Mail nicht verlieren.
+>Die Seite &quot;Marketo-E-Mail senden&quot;wird auch nach dem Versand der Test-E-Mail angezeigt, sodass Sie die von Ihnen erstellte E-Mail nicht verlieren.

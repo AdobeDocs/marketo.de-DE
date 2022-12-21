@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom August 2014 enthalten. Überpr�
 
 ## Marketingkalenderlizenzen {#marketing-calendar-licenses}
 
-Ab dem 5. September 2014 können nur 5 Benutzer freien Zugriff auf den Marketingkalender haben. Stellen Sie sicher, dass Sie [eine Marketingkalenderlizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) vor den Benutzern Ihrer Wahl ausgeben/widerrufen, damit sie ununterbrochen darauf zugreifen können.
+Ab dem 5. September 2014 können nur 5 Benutzer freien Zugriff auf den Marketingkalender haben. Stellen Sie sicher, dass [Marketingkalenderlizenz ausgeben/widerrufen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) für den ununterbrochenen Zugriff auf die Benutzer Ihrer Wahl.
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -34,7 +34,7 @@ Die folgenden neuen Benutzerberechtigungen wurden hinzugefügt:
 
 ## Benutzer und Rollen aus Admin exportieren {#export-users-and-roles-from-admin}
 
-Sie können jetzt [eine Liste von Anwendern und Rollen](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) aus Marketo exportieren. Sie können auch einen Zeitstempel &quot;Letzte Anmeldung&quot;einfügen, der in den Export eingefügt werden soll.
+Sie können jetzt [Eine Liste von Anwendern und Rollen exportieren](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) aus Marketo. Sie können auch einen Zeitstempel &quot;Letzte Anmeldung&quot;einfügen, der in den Export eingefügt werden soll.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

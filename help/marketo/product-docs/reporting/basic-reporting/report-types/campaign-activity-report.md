@@ -1,51 +1,50 @@
 ---
 unique-page-id: 2360057
-description: Bericht zur Aktivität der Kampagne - Marketing-Dokumente - Produktdokumentation
-title: Bericht zur Aktivität der Kampagne
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Bericht zur Kampagnenaktivität - Marketo-Dokumente - Produktdokumentation
+title: Bericht zur Kampagnenaktivität
+exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
+# Bericht zur Kampagnenaktivität {#campaign-activity-report}
 
-# Bericht zur Aktivität der Kampagne {#campaign-activity-report}
+Erfahren Sie, wie Sie [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) die Leistung steigern.
 
-Sehen Sie, wie Ihre [intelligenten Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) abschneiden.
+1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie die **Kampagnenaktivität** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Erstellen Sie einen ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) Bericht und wählen Sie den Berichtstyp  **Kampagne** [Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Den Zeitrahmen Ihres Berichts festlegen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
 
-1. [Legen Sie den Zeitraum Ihres ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Berichts fest und klicken Sie auf die Registerkarte  **** Bericht.
-
-1. Großartig! Untersuchen Sie Ihren Bericht, um die effektivsten Kampagnen nach Kampagnen zu identifizieren.
+1. Sehr gut! Untersuchen Sie Ihren Bericht, um die effektivsten Kampagnen nach Kampagnentyp zu identifizieren.
 
    ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >Um die Kampagnen zu finden, die die meisten Personen verarbeiteten, sortieren Sie z. B. [Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) unter _Gesamtzahl der verarbeiteten Personen_ und wählen Sie **Absteigend sortieren**.
+   >So finden Sie beispielsweise die Kampagnen, die die meisten Personen verarbeitet haben: [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on _Verarbeitete Personen insgesamt_ und wählen Sie **Absteigende Sortierung**.
 
-   Klicken Sie auf den Namen einer intelligenten Kampagne, um sie zu öffnen.  [Folgende Spalten können Sie für einen Bericht zur Aktivität der Kampagne ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) auswählen:
+   Klicken Sie auf den Namen einer Smart-Kampagne, um sie zu öffnen.  [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen Bericht zur Kampagnenaktivität :
 
    | Spalte | Beschreibung |
    |---|---|
-   | Stapelausführungszählung | Gibt an, wie oft die Kampagne ausgeführt wurde. |
-   | Verarbeitete Personen insgesamt | Anzahl der Personen, die den Fluss der Kampagne durchgemacht haben. |
-   | Personen in Warteschritt | Wenn noch eine Kampagne ausgeführt wird, die Anzahl der Personen, die im Schritt *Wait* bleiben. |
-   | Aus Fluss entfernt | Anzahl der Personen, die aus der Kampagne entfernt wurden. |
+   | Stapelausführungsanzahl | Gibt an, wie oft die Kampagne ausgeführt wurde. |
+   | Gesamtanzahl Personen – Verarbeitet | Anzahl der Personen, die den Fluss der Kampagne durchlaufen haben. |
+   | Personen im Warteschritt | Wenn eine Kampagne weiterhin ausgeführt wird, die Anzahl der Personen, die im *Warten* Schritt. |
+   | Aus Flow entfernt | Anzahl der Personen, die aus der Kampagne entfernt wurden. |
    | Letzte Aktivität | Das letzte Mal, dass eine Person von der Kampagne verarbeitet wurde. |
 
-   Kampagnen im Bericht:
+   Kampagnentypen im Bericht:
 
    | Typ | Beschreibung |
    |---|---|
-   | Stapel | Stapelweises Kampagnen auf der Registerkarte **Marketing-Aktivitäten**. |
-   | Aktion ausführen | Benutzeraktionen werden über die Datenbank **Datenbank** ausgeführt. |
-   | Ausgelöst (aktiv) | Aktuell ausgelöste Kampagnen auf der Registerkarte **Marketing-Aktivitäten**. |
-   | Ausgelöst (Inaktiv) | Inaktiv ausgelöste Kampagnen auf der Registerkarte **Marketing-Aktivitäten**. |
+   | Stapel | Batch-Kampagnen in der **Marketingaktivitäten** Registerkarte. |
+   | Aktion ausführen | Benutzeraktionen werden über die **Datenbank**. |
+   | Ausgelöst (aktiv) | Aktuell ausgelöste Kampagnen in **Marketingaktivitäten** Registerkarte. |
+   | Ausgelöst (inaktiv) | Inaktiv ausgelöste Kampagnen in **Marketingaktivitäten** Registerkarte. |
 
    >[!MORELIKETHIS]
    >
-   >[Filtern eines Berichts zur Aktivität einer Kampagne](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
+   >[Kampagnenaktivitätsbericht filtern](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)

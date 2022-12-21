@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10095084
-description: Grafische Ergebnisse aus Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
-title: Grafiken der Ergebnisse aus Umsatz-Explorer
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Grafische Ergebnisse aus Umsatz Explorer - Marketo Docs - Produktdokumentation
+title: Grafiken zu Ergebnissen aus Umsatz-Explorer
+exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
+# Grafiken zu Ergebnissen aus Umsatz-Explorer {#graphing-results-from-revenue-explorer}
 
-# Grafische Ergebnisse aus Umsatz-Explorer {#graphing-results-from-revenue-explorer}
+Standardmäßig werden Berichte in Umsatz Explorer als Tabelle angezeigt. Sie haben auch die Möglichkeit, Ergebnisse als Diagramm in verschiedenen Formaten anzuzeigen.
 
-Standardmäßig werden Berichte im Umsatz-Explorer als Tabelle angezeigt. Sie haben auch die Möglichkeit, die Ergebnisse als Diagramm in verschiedenen Formaten anzuzeigen.
-
-1. Klicken Sie im Dropdown-Menü **Ansicht As** Ihres Berichts auf den Pfeil. Es werden verschiedene Diagrammoptionen angezeigt.
+1. Klicken Sie auf den Pfeil im **Anzeigen als** Dropdown-Menü Ihres Berichts aus. Es werden verschiedene Diagrammoptionen angezeigt.
 
    ![](assets/one-1.png)
 
@@ -29,11 +28,11 @@ Standardmäßig werden Berichte im Umsatz-Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/stacked-column.png)
 
-**100 % Gestapelte Spalte**: Jede Zeile in der Tabelle enthält eine Spalte im Diagramm und wird auf 100 % skaliert.
+**100 % gestapelte Spalte**: Jede Zeile in der Tabelle enthält eine Spalte im Diagramm und wird auf 100 % skaliert.
 
 ![](assets/100-stacked-column.png)
 
-**Zeile**: Jede Spalte wird als Zeile und jede Zeile als Datenpunkt in der Zeile angezeigt.
+**Linie**: Jede Spalte wird als Zeile und jede Zeile als Datenpunkt auf der Zeile angezeigt.
 
 ![](assets/line.png)
 
@@ -41,7 +40,7 @@ Standardmäßig werden Berichte im Umsatz-Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/column-line-combo.png)
 
-**Balken**: Jede Zeile und Spalte in der Tabelle wird als horizontale Leiste angezeigt.
+**Balken**: Jede Zeile und Spalte in der Tabelle wird als horizontaler Balken angezeigt.
 
 ![](assets/bar.png)
 
@@ -53,11 +52,11 @@ Standardmäßig werden Berichte im Umsatz-Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/100-stacked-bar.png)
 
-**Bereich**: Die Daten werden ähnlich wie die Gestapelte Leiste angezeigt, aber ausgefüllt.
+**Bereich**: Daten werden ähnlich wie &quot;Gestapelter Balken&quot;angezeigt, aber ausgefüllt.
 
 ![](assets/area.png)
 
-**Kuchen**: Jede Spalte wird als Kreisdiagramm angezeigt, jede Zeile als Segment.
+**Torte**: Jede Spalte wird als Tortendiagramm und jede Zeile als Segment angezeigt.
 
 ![](assets/pie.png)
 
@@ -65,14 +64,14 @@ Standardmäßig werden Berichte im Umsatz-Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/sunburst.png)
 
-**Streuung**: Blasen basierend auf den verwendeten Attributen. Verwenden Sie Maßnahmen, um die Blase farblich zu kodieren und/oder ihre Größe zu bestimmen.
+**Streuung**: Blasen basierend auf den verwendeten Attributen. Verwenden Sie Messungen, um die Blase farbcodieren und/oder ihre Größe zu bestimmen.
 
 ![](assets/scatter.png)
 
-**Kühlkörper**: Passen Sie Farben und Formen an, um positive und negative Leistungsmuster zu identifizieren.
+**Kühlraster**: Passen Sie Farben und Formen an, um positive und negative Leistungsmuster zu identifizieren.
 
 ![](assets/heat-grid.png)
 
-1. Klicken Sie auf die Schaltfläche &quot;Tabelle&quot;, um zur Ansicht zurückzukehren.
+1. Um zur Tabellenansicht zurückzukehren, klicken Sie auf die Schaltfläche &quot;Tabelle&quot;.
 
    ![](assets/two-1.png)

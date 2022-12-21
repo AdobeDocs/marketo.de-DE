@@ -1,159 +1,158 @@
 ---
 unique-page-id: 2951884
-description: Die Analyse von Chancen im Umsatz-Explorer - Marketing-Dokumente - Produktdokumentation
-title: Die Analyse von Chancen im Umsatz-Explorer
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Grundlegendes zur Opportunity Analysis in Revenue Explorer - Marketo Docs - Produktdokumentation
+title: Grundlegendes zur Opportunity Analysis in Umsatz-Explorer
+exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Grundlegendes zur Opportunity Analysis in Umsatz-Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
 
-# Die Analyse von Chancen im Umsatz-Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
+Die Opportunity Analysis im Umsatz Explorer ermöglicht es Ihnen, Ihre Möglichkeiten auf einer tieferen Ebene zu untersuchen. Ordnen Sie die Daten basierend auf beliebigen Lead-/Firmenattributen wie Lead-Quelle, Branche oder Geografie zu. Analysieren Sie die Opportunitätserstellung und das Schließen anhand des Namens, der Phase oder der Wahrscheinlichkeit. Erfahren Sie mehr über die Marketing-Beiträge zur Pipeline.
 
-Die Möglichkeit der Analyse im Revenue Explorer ermöglicht es Ihnen, Ihre Möglichkeiten auf einer tieferen Ebene zu untersuchen. Trennen Sie die Daten anhand von Lead-/Firma-Attributen wie Interessentenquelle, Branche oder Geografie. Analysieren Sie die Erstellung und Schließung von Chancen auf Grundlage von Namen, Phase oder Wahrscheinlichkeit. Finden Sie heraus, welche Marketingbeiträge zur Pipeline beigetragen haben.
+## Beispielanalyse {#example-analysis}
 
-## Beispiel für eine Analyse {#example-analysis}
+Im Folgenden finden Sie einige Berichte, die Sie im Bereich Opportunity Analysis erstellen können.
 
-Im Folgenden finden Sie einige Berichte, die Sie im Bereich Analyse zu Chancen erstellen können.
+1. Marketing-Einfluss auf erstellte Chancen
 
-1. Einfluss des Marketing auf geschaffene Chancen
-
-   Welcher Prozentsatz der Pipeline Ihrer Firma wurde von Ihren Marketing-Programmen beeinflusst? Dieser Bericht gibt Ihnen die Antwort. Die folgenden Tortendiagramme zeigen den Prozentsatz der Anzahl aller Gelegenheiten und den Opportunitätsbetrag, die von einem Marketing-Programm erworben wurden.
+   Welchen Anteil der Pipeline Ihres Unternehmens haben Ihre Marketingprogramme beeinflusst? Dieser Bericht gibt Ihnen die Antwort. Die folgenden Tortendiagramme veranschaulichen den Prozentsatz der Anzahl aller Möglichkeiten und den Opportunitätsbetrag, die durch ein Marketingprogramm erworben wurden.
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Marketing-Einfluss auf Chancen geschlossen und gewinnt.
+1. Marketing-Einfluss auf Chancen geschlossen und gewonnen
 
-   Dieser Bericht zeigt nach Anzahl und Betrag, wie viel Umsatz durch Marketing erzielt und beeinflusst wurde.
+   Dieser Bericht zeigt, wie viel Umsatz durch das Marketing erzielt und beeinflusst wurde, nach Anzahl und Betrag.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. Chancen nach Interessentenquelle geschlossen
+1. Chancen geschlossen durch Lead Source
 
-   Dieser Bericht unterteilt alle Möglichkeiten, die durch Interessentenanwerbung geschlossen werden, und gibt Ihnen einen klaren Überblick darüber, welche Quellen funktionieren und welche nicht.
+   In diesem Bericht werden alle durch die Lead-Quelle geschlossenen Möglichkeiten aufgegliedert und Sie erhalten einen klaren Überblick darüber, welche Quellen funktionieren und welche nicht.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
 1. Zeit nach Quelle schließen
 
-   Dieser Bericht zeigt die Beziehung zwischen den durchschnittlichen Tagen zum Schließen einer Gelegenheit und der Interessentenquelle.
+   Dieser Bericht zeigt die Beziehung zwischen den durchschnittlichen Tagen, in denen eine Gelegenheit geschlossen wird, und der Hauptursache.
 
    ![](assets/image2015-7-21-10-3a35-3a3.png)
 
-1. Offene Chancen und Phase
+1. Offene Chancen und Bühne
 
-   Dieser Bericht zeigt, wie viele Möglichkeiten in jeder Phase des Umsatzzyklus offen sind.
+   Dieser Bericht zeigt, wie viele Möglichkeiten in den einzelnen Phasen des Umsatzzyklus offen sind.
 
    ![](assets/image2015-7-21-10-3a35-3a32.png)
 
 1. Anzahl der Möglichkeiten nach Jahr nach Branche
 
-   Dieser Bericht beantwortet die Frage: &quot;Erhalten wir im Laufe des Jahres mehr oder weniger Möglichkeiten von bestimmten Industriezweigen?&quot;
+   Dieser Bericht beantwortet die Frage: &quot;Erhalten wir von bestimmten Branchen Jahr für Jahr mehr oder weniger Möglichkeiten?&quot;
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimensionen und Maßnahmen zur Analyse von Chancen {#opportunity-analysis-dimensions-and-measures}
+## Dimensionen und Maßnahmen zur Opportunitätsanalyse {#opportunity-analysis-dimensions-and-measures}
 
-Die Opportunity-Analyse ermöglicht Ihnen den Zugriff auf alle Lead-, Firma- und Opportunity-bezogenen Dimensionen und auf alle mit Chancen zusammenhängenden Maßnahmen. Nutzen Sie diese Möglichkeiten zur Analyse von Dimensionen und Maßnahmen, um spezifische Fragen in Ihrem Bericht zu beantworten.
+Die Opportunity Analysis bietet Ihnen Zugriff auf alle Lead-, Unternehmens- und Opportunity-Dimensionen und Opportunity-bezogenen Maßnahmen. Nutzen Sie diese Dimensionen und Maßnahmen zur Opportunitätsanalyse, um spezifische Fragen in Ihrem Bericht zu beantworten.
 
-1. Firma Attribute
+1. Unternehmensattribute
 
-   | Dimension | Beschreibung |
+   | Abmessung | Beschreibung |
    |---|---|
-   | Jahresumsatz | Jahreseinnahmen der Firma |
-   | Ort | Ort, an dem die Firma liegt |
-   | Land | Das Land, in dem die Firma liegt |
-   | Branche | Die Branche, in der die Firma liegt |
-   | Name der Firma | Name der Firma |
-   | Anzahl der Beschäftigten | Anzahl der Beschäftigten in der Firma |
-   | Postleitzahl | Postleitzahl der Firma |
-   | SIC-Code | SIC-Code der Firma |
-   | state | Der Staat, in dem sich die Firma befindet |
+   | Jahresumsatz | Jahresumsatz des Unternehmens |
+   | Ort | Die Stadt, in der das Unternehmen seinen Sitz hat |
+   | Land | Der Bezirk, in dem sich das Unternehmen befindet |
+   | Branche | Die Branche, in der sich das Unternehmen befindet |
+   | Firmenname | Name des Unternehmens |
+   | Anzahl der Mitarbeiter | Anzahl der Mitarbeiter im Unternehmen |
+   | Postleitzahl | Postleitzahl des Unternehmens |
+   | SIC-Code | SIC-Code des Unternehmens |
+   | Zustand | Der Staat, in dem sich das Unternehmen befindet |
 
-1. Interessentenattribute
+1. Lead-Attribute
 
-   | Dimension | Beschreibung |
+   | Abmessung | Beschreibung |
    |---|---|
-   | Auf die Blockierungsliste gesetzt | Die Blei wird auf die Blockierungsliste gesetzt |
-   | In Chancen konvertiert | Der Vorsprung wird in eine Chance umgewandelt |
-   | Email ungültig | ob der Interessent eine gültige E-Mail-Adresse hat |
-   | Marketing ausgesetzt | Ist der Lead von Marketing-E-Mails suspendiert? |
-   | Email-Adresse | E-Mail-Adresse des Interessenten |
-   | Auftragstitel | Berufsbezeichnung des Interessenten |
+   | Auf der Sperrliste | Der Blei wird auf die Blockierungsliste gesetzt |
+   | In Chancen konvertiert | Der Lead wird in eine Chance umgewandelt |
+   | E-Mail-Adresse ungültig | Gibt an, ob der Lead über eine gültige E-Mail-Adresse verfügt |
+   | Marketing eingestellt | Wird der Lead von Marketing-E-Mails ausgesetzt? |
+   | E-Mail-Adresse | E-Mail-Adresse des Interessenten |
+   | Jobtitel | Berufsbezeichnung des Leiters |
    | Vollständiger Name | Vollständiger Name des Interessenten |
-   | Originalquellentyp | Originalquellentyp des Interessenten |
-   | Quelltyp registrieren | Typ der registrierten Quelle des Interessenten |
-   | E-Mail-Adresse des Interessenteninhabers | E-Mail-Adresse des Interessenteninhabers |
-   | Titel des leitenden Inhabers | Berufsbezeichnung des leitenden Inhabers |
-   | Name des Interessenteninhabers | Name des Interessenteninhabers |
-   | Interessentenquelle | Interessentenquelle |
-   | Interessentenstatus | Interessentenstatus |
+   | Ursprünglicher Quellentyp | Ursprünglicher Quelltyp des Leads |
+   | Quelltyp registrieren | Der registrierte Quellentyp des Leads |
+   | E-Mail-Adresse des Lead-Eigentümers | E-Mail-Adresse des Lead-Eigentümers |
+   | Jobtitel des Lead-Eigentümers | Berufsbezeichnung des leitenden Eigentümers |
+   | Name des Lead-Eigentümers | Name des Lead-Eigentümers |
+   | Lead-Quelle | Lead-Quelle |
+   | Lead-Status | Lead-Status |
 
-1. Interessentenerstellter Zeitrahmen
+1. Lead erstellter Zeitrahmen
 
-   | Dimension | Beschreibung |
+   | Abmessung | Beschreibung |
    |---|---|
-   | Interessentenanwerbliches Jahr | Das Jahr, in dem der Interessent erstellt wird |
-   | Lead erstellt Quartal | Das Quartal, in dem der Interessent erstellt wird |
-   | Interessent erstellt Monat | Der Monat, in dem der Interessent erstellt wird |
-   | Lead erstellt Woche | Die Woche, in der der Interessent erstellt wird |
-   | Erstellungsdatum des Interessenten | Das Datum, an dem der Interessent erstellt wird |
+   | Lead erstellt Jahr | Das Jahr, in dem der Lead erstellt wird |
+   | Lead Created Quarter | Das Quartal, in dem der Lead erstellt wurde |
+   | Lead hat Monat erstellt | Der Monat, in dem der Lead erstellt wurde |
+   | Lead hat Woche erstellt | Die Woche, in der der Lead erstellt wird |
+   | Lead Erstellungsdatum | Das Datum, an dem der Lead erstellt wird |
 
 1. Opportunity-Attribute
 
-   | Dimension | Beschreibung |
+   | Abmessung | Beschreibung |
    |---|---|
-   | Chancen beendet | Ist die Gelegenheit geschlossen? |
-   | Kategorie der Opportunity | Kategorie der Opportunitätsprognosen |
-   | Opportunity Name | Opportunity name |
-   | Opportunity-Phase | Chancen |
+   | Chancen geschlossen | Ist die Gelegenheit zu schließen? |
+   | Opportunity-Prognosekategorie | Kategorie der Opportunity-Prognose |
+   | Opportunity-Name | Opportunity name |
+   | Opportunity-Stadium | Opportunity stage |
    | Opportunity-Typ | Opportunity-Typ |
-   | Opportunity Won | Ist diese Gelegenheit geschlossen und gewonnen? |
-   | Marketingbeeinflussende Chancen | Dieses Flag gibt an, ob einer der Interessenten/Kontakte von einem Marketing-Programm erworben wurde oder erfolgreich war. Es werden nur Programm berücksichtigt, für die eine Zeitraumkostendefinition festgelegt wurde. |
+   | Opportunity Gewonnen | Ist diese Gelegenheit geschlossen und gewonnen? |
+   | Von Marketing beeinflusste Chancen | Diese Markierung gibt an, ob einer der Lead/Kontakte von einem Marketingprogramm erworben wurde oder erfolgreich war. Es werden nur Programme berücksichtigt, deren Kosten für einen bestimmten Zeitraum festgelegt wurden. |
 
 1. Opportunity Closed Timeframe
 
-   | Dimension | Beschreibung |
+   | Abmessung | Beschreibung |
    |---|---|
-   | Geschlossenes Jahr der Chancen | Das Jahr, in dem die Gelegenheit geschlossen wird |
-   | Geschlossenes Geschäftsquartal | Das Quartal, in dem die Gelegenheit geschlossen wird |
-   | Geschlossener Monat der Gelegenheit | Der Monat, in dem die Gelegenheit geschlossen wird |
-   | Opportunity Closed Week | Die Woche, in der die Gelegenheit geschlossen ist |
-   | Abgeschlossenes Opportunity-Datum | Datum, an dem die Gelegenheit geschlossen wird |
+   | Chancen - abgeschlossenes Jahr | Das Jahr, in dem die Gelegenheit geschlossen wird |
+   | Geschlossenes Opportunity-Quartal | Das Quartal, in dem die Gelegenheit geschlossen wurde |
+   | Chancen - Abgeschlossener Monat | Der Monat, in dem die Gelegenheit geschlossen wird |
+   | Opportunity Closed Week | Die Woche, in der die Gelegenheit geschlossen wird |
+   | Geschlossenes Opportunity-Datum | Das Datum, an dem die Gelegenheit geschlossen wird |
 
-1. Erstellter Zeitrahmen für Chancen
+1. Erstellter Opportunity-Zeitrahmen
 
-   | Dimension | Beschreibung |
+   | Abmessung | Beschreibung |
    |---|---|
-   | Chancen im Rahmen des Jahres | Das Jahr, in dem die Gelegenheit geschaffen wird |
-   | Chancen - Erstelltes Quartal | Das Quartal, in dem die Gelegenheit geschaffen wird |
-   | Chancen erstellt Monat | Der Monat, in dem die Gelegenheit geschaffen wird |
-   | Chancen erstellt Woche | Die Woche, in der die Gelegenheit geschaffen wird |
-   | Erstellungsdatum der Gelegenheit | Das Datum, an dem die Gelegenheit erstellt wurde |
+   | Chancen - Erstellungsjahr | Das Jahr, in dem die Gelegenheit geschaffen wird |
+   | Erstelltes Opportunity-Quartal | Das Quartal, in dem die Gelegenheit erstellt wurde |
+   | Opportunity hat Monat erstellt | Der Monat, in dem die Gelegenheit erstellt wurde |
+   | Opportunity hat Woche erstellt | Die Woche, in der die Gelegenheit geschaffen wird |
+   | Opportunity-Erstellungsdatum | Das Datum, an dem die Gelegenheit erstellt wurde |
 
-1. Maßnahmen
+1. Kennzahlen
 
    | Maßnahme | Beschreibung |
    |---|---|
-   | Durchschn. Tage zum Schließen der Gelegenheit | Durchschnittliche Anzahl der Tage zum Schließen einer Gelegenheit |
-   | Durchschn. Tage zum Schließen der Gelegenheit (Verloren) | Durchschnittliche Anzahl der Tage bis zu einer verlorenen Gelegenheit |
-   | Durchschn. Tage zum Schließen der Gelegenheit (Gewonnen) | Durchschnittliche Anzahl der Tage bis zu einer Gewinner-Gelegenheit |
+   | Durchschnittliche Tage, um Chancen zu schließen | Durchschnittliche Anzahl der Tage, um eine Gelegenheit zu schließen |
+   | Durchschnittliche Tage, um Chancen zu schließen (verloren) | Durchschnittliche Anzahl der Tage bis zu einer verlorenen Gelegenheit |
+   | Durchschnittliche Tage, um Chancen zu schließen (Won) | Durchschnittliche Anzahl von Tagen bis zu einer gewesenen Gelegenheit |
    | Anzahl aller Möglichkeiten | Gesamtzahl aller Möglichkeiten |
-   | Anzahl der Möglichkeiten (geschlossen) | Gesamtzahl der geschlossenen (gewann oder verlorenen) Gelegenheiten |
-   | Anzahl der Gelegenheiten (Verloren) | Gesamtzahl der verlorenen Gelegenheiten |
-   | Anzahl der Möglichkeiten (offen) | Gesamtzahl der noch offenen Möglichkeiten |
-   | Anzahl der Möglichkeiten (Won) | Gesamtanzahl der erfolgreichsten Gelegenheiten |
-   | Opportunity Amount | Gesamtbetrag der Gelegenheit. Wenn mehr als ein Interessent mit einer Gelegenheit verbunden ist, basiert der Zuordnungsbetrag auf dem Interessentenergebnis. |
-   | Opportunity Amount (Verloren) | Gesamtbetrag für verlorene Gelegenheiten. Wenn mehr als ein Interessent mit einer Gelegenheit verbunden ist, basiert der Zuordnungsbetrag auf dem Interessentenergebnis. |
-   | Opportunity Amount (Open) | Gesamtbetrag der offenen Möglichkeiten. Wenn mehr als ein Interessent mit einer Gelegenheit verbunden ist, basiert der Zuordnungsbetrag auf dem Interessentenergebnis. |
-   | Opportunity Amount (Won) | Gesamtsumme der gewonnenen Chancen. Wenn mehr als ein Interessent mit einer Gelegenheit verbunden ist, basiert der Zuordnungsbetrag auf dem Interessentenergebnis. |
+   | Anzahl der Möglichkeiten (geschlossen) | Gesamtzahl der geschlossenen (erlittenen oder verlorenen) Gelegenheiten |
+   | Anzahl der Möglichkeiten (Verloren) | Gesamtzahl der verlorenen Gelegenheiten |
+   | Anzahl der Möglichkeiten (Öffnungen) | Gesamtzahl der noch offenen Möglichkeiten |
+   | Anzahl der Möglichkeiten (in Mio.) | Gesamtzahl der gewinnten Gelegenheiten |
+   | Opportunity-Betrag | Gesamtbetrag der Opportunität. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
+   | Opportunity Amount (Lost) | Gesamtbetrag für verlorene Gelegenheiten. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
+   | Opportunity Amount (Open) | Gesamtbetrag der offenen Möglichkeiten. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
+   | Opportunity Amount (Won) | Gesamtsumme für die eigenen Chancen. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Berichts für den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [Hinzufügen von Feldern zu einem Bericht &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Abonnieren eines Berichts über den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [Erstellen eines Berichts &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Abonnieren eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 

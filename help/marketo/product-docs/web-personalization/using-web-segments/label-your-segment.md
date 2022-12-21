@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4719348
-description: Kennzeichnen Ihres Segments - Marketing-Dokumente - Produktdokumentation
-title: Segment beschreiben
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Beschriften Ihres Segments - Marketo-Dokumente - Produktdokumentation
+title: Segment beschriften
+exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
+# Segment beschriften {#label-your-segment}
 
-# Kennzeichnen Ihres Segments {#label-your-segment}
-
-Haben Sie so viele Segmente, dass der Bildlauf schwerfällig wird? Markieren Sie Ihre Segmente mit Etiketten, damit Sie sie schnell finden können.
+Haben Sie so viele Segmente, dass das Scrollen umständlich wird? Verwenden Sie Bezeichnungen, um Ihre Segmente mit Tags zu versehen, damit Sie sie schnell finden können.
 
 ## Taggen eines Segments {#tag-a-segment}
 
@@ -21,20 +20,20 @@ Haben Sie so viele Segmente, dass der Bildlauf schwerfällig wird? Markieren Sie
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Wählen Sie die Segmente aus, die Sie mit einer Beschriftung versehen möchten.
+1. Wählen Sie die Segmente aus, die Sie mit einem Titel versehen möchten.
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Um eine vorhandene Beschriftung zu verwenden, klicken Sie auf **Beschriftung festlegen**, markieren Sie ein Feld und klicken Sie auf **Übernehmen**.
+1. Um eine vorhandene Bezeichnung zu verwenden, klicken Sie auf **Beschriftung festlegen**, aktivieren Sie ein Kontrollkästchen und klicken Sie auf **Anwenden**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Um eine neue Beschriftung zu erstellen, klicken Sie auf **Beschriftung festlegen**, geben Sie den neuen Bezeichnungsnamen ein und klicken Sie auf **Neu erstellen**.
+1. Oder klicken Sie auf , um eine neue Bezeichnung zu erstellen. **Beschriftung festlegen**, geben Sie den neuen Titel ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
    >[!NOTE]
    >
-   >Die Schaltfläche &quot;Neu erstellen&quot;zeigt den Namen der neuen Bezeichnung an. Wenn die Beschriftung zu lang ist, wird dort möglicherweise &quot;Neu erstellen&quot;nicht angezeigt.
+   >Die Schaltfläche Neu erstellen zeigt den Namen der neuen Bezeichnung an. Wenn die Beschriftung zu lang ist, wird dort möglicherweise &quot;Neu erstellen&quot;nicht angezeigt.
 
 Cool! Sie wissen jetzt, wie Sie Beschriftungen für Segmente zuweisen und erstellen.

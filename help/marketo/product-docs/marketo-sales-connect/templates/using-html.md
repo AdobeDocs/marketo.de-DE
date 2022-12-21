@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352594
-description: Verwenden von HTML - Marketing Docs - Produktdokumentation
+description: Verwenden von HTML - Marketo Docs - Produktdokumentation
 title: Verwenden von HTML
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-
 # Verwenden von HTML {#using-html}
 
-1. Kopieren Sie den Quellcode aus Ihren E-Mails in das Tool, mit dem Sie E-Mails in HTML erstellen (z. B. den E-Mail-Editor von Marketing).
+1. Kopieren Sie den Quellcode aus Ihren E-Mails in das Tool, das Sie zum Erstellen von E-Mails in HTML verwenden (z. B. den E-Mail-Editor von Marketo).
 
-1. Klicken Sie im Vorlageneditor auf die Schaltfläche **Quelle**.
+1. Klicken Sie auf **Quelle** in Ihrem Vorlageneditor.
 
-1. Fügen Sie den Quellcode dort ein.
+1. Fügen Sie dort den Quellcode ein.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
 >[!NOTE]
 >
->Wenn der Fehler &quot;Fehler - Entfernen der style/java/html-Tags&quot;angezeigt wird, bedeutet dies, dass Sie einige Stile haben, die wir nicht unterstützen. Sie sollten den Quellcode nach dem Wortstil suchen und alles von `<style>` bis `</style>` löschen.
+>Wenn der Fehler &quot;Fehler - Entfernen der Stil-/Java-/HTML-Tags&quot;angezeigt wird, bedeutet dies, dass Sie einige Stile haben, die wir nicht unterstützen. Sie sollten den Quellcode nach dem Wortstil durchsuchen und alles aus `<style>` bis `</style>`.

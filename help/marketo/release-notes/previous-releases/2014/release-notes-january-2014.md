@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Versionshinweise: Januar 2014 {#release-notes-january}
 
-Die folgenden Funktionen sind in der Version vom Januar 2014 enthalten. Überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/) auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Version vom Januar 2014 enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/) für Funktionsverfügbarkeit.
 
 ## Formulare 2.0 {#forms}
 
@@ -40,12 +40,12 @@ Vorbei sind die Tage, in denen HTML-Code aus Formularen auf Marketo-Landingpages
 
 ## Kommunikationsbeschränkungen für das E-Mail-Programm {#communication-limits-for-email-program}
 
-[Legen Sie Kommunikationsbeschränkungen für ein E-Mail-](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) Programm fest, um sicherzustellen, dass Sie nicht zu häufig mit Ihrer Datenbank kommunizieren. Wenn eine Person den festgelegten Grenzwert überschreitet, erhält sie die E-Mail nicht.
+[Festlegen von Kommunikationsbeschränkungen für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) um sicherzustellen, dass Sie nicht zu häufig mit Ihrer Datenbank kommunizieren. Wenn eine Person den festgelegten Grenzwert überschreitet, erhält sie die E-Mail nicht.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Zusätzliche Felder in Programmmitgliedschafts-Analyse {#additional-fields-in-program-membership-analysis}
 
-Jetzt können Sie Ihre Metriken [Analyse der Programmmitgliedschaft](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) nach Lead- und Unternehmensattributen hinzufügen und gruppieren. Beispielsweise können Sie das Feld Branche hinzufügen, um die Aufteilung Ihrer Programmmitglieder und Erfolge anzuzeigen.
+Jetzt können Sie Ihre [Analyse der Programmmitgliedschaft](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Metriken nach Lead- und Unternehmensattributen. Beispielsweise können Sie das Feld Branche hinzufügen, um die Aufteilung Ihrer Programmmitglieder und Erfolge anzuzeigen.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

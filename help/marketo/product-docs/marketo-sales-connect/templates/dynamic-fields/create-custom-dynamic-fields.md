@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352508
-description: Benutzerdefinierte dynamische Felder erstellen - Marketing-Dokumente - Produktdokumentation
+description: Erstellen benutzerdefinierter dynamischer Felder - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte dynamische Felder erstellen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerdefinierte dynamische Felder erstellen {#create-custom-dynamic-fields}
 
@@ -19,34 +18,34 @@ Es gibt zwei Möglichkeiten, benutzerdefinierte dynamische Felder zu erstellen.
 
 1. Klicken Sie auf der Seite &quot;Personen&quot;auf den Namen eines Kontakts.
 
-1. Wählen Sie die Dropdownliste neben Abmelden und wählen Sie **Bearbeiten**.
+1. Wählen Sie das Dropdown-Menü neben Abonnement kündigen aus und wählen Sie **Bearbeiten**.
 
-1. Blättern Sie nach unten zur Bearbeitungsseite. Anschließend können Sie einen Namen und einen Wert für Ihr Feld erstellen.
+1. Scrollen Sie nach unten zum unteren Rand der Bearbeitungsseite. Anschließend können Sie einen Namen und einen Wert für Ihr Feld erstellen.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken **Speichern**.
 
 ## Speichern benutzerdefinierter Felder für viele Kontakte {#saving-custom-fields-for-many-contacts}
 
 1. Erstellen Sie eine CSV-Tabelle mit Ihren benutzerdefinierten Feldern in ihrer eigenen Spalte.
 
-1. Folgen Sie dem Vorgang [Normaler CSV-Upload](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) und beenden Sie ihn im Bildschirm &quot;Feldzuordnung&quot;.
+1. Befolgen Sie die [normaler CSV-Upload-Prozess](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)auf dem Feld-Mapping-Bildschirm angehalten.
 
-1. Wählen Sie anstelle eines der vorgegebenen Felder **Hinzufügen ein neues benutzerdefiniertes Feld** aus der Dropdownliste.
+1. Wählen Sie anstelle eines der voreingestellten Felder die Option **Neues benutzerdefiniertes Feld hinzufügen** aus der Dropdown-Liste aus.
 
 1. Geben Sie den gewünschten Feldnamen ein und klicken Sie auf **OK**.
 
-1. Schließen Sie das Hochladen der CSV-Datei ab. Ihre Kontakte werden mit dem hinzugefügten benutzerdefinierten Feld ausgefüllt.
+1. Schließen Sie das Hochladen Ihrer CSV-Datei ab. Ihre Kontakte werden mit dem hinzugefügten benutzerdefinierten Feld ausgefüllt.
 
 >[!NOTE]
 >
->Nachdem Sie Ihr benutzerdefiniertes Feld erstellt haben, kann es etwa 30 Minuten dauern, bis das Feld in der Dropdown-Liste &quot;Dynamisches Feld&quot;im Vorlageneditor angezeigt wird.
+>Nachdem Sie Ihr benutzerdefiniertes Feld erstellt haben, kann es etwa 30 Minuten dauern, bis das Feld in der Dropdown-Liste für dynamische Felder in Ihrem Vorlageneditor angezeigt wird.
 
-## So verwenden Sie Ihre benutzerdefinierten Felder in einer Vorlage {#how-to-use-your-custom-fields-in-a-template}
+## Verwenden benutzerdefinierter Felder in einer Vorlage {#how-to-use-your-custom-fields-in-a-template}
 
 Sobald Ihre benutzerdefinierten Felder mit den oben genannten Methoden gespeichert wurden, können Sie sie in Ihren Vorlagen referenzieren.
 
-1. [Erstellen Sie eine ](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) Vorlage und klicken Sie wie gewohnt auf die Schaltfläche  **Dynamische** Felder.
+1. [Erstellen einer Vorlage](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) und klicken Sie auf **Dynamische Felder** -Schaltfläche, wie Sie es normalerweise tun würden.
 
-1. Wählen Sie **Benutzerdefinierte Felder** aus der Dropdown-Liste, die angezeigt wird.
+1. Auswählen **Benutzerdefinierte Felder** aus der Dropdown-Liste, die angezeigt wird.
 
-1. Sie sehen Ihre vorab gespeicherten benutzerdefinierten Felder und können ein Feld auswählen, das Sie in Ihrer Vorlage ausfüllen möchten.
+1. Sie sehen Ihre vorab gespeicherten benutzerdefinierten Felder und können eines auswählen, um die Vorlage auszufüllen.

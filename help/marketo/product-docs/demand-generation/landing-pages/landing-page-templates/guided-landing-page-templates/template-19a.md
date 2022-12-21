@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Vorlage 19A {#template-19a}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html) herunterladen
+Rechtsklick auf [Download-Vorlage 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 

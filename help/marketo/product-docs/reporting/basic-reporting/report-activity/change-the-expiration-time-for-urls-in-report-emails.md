@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2360032
-description: Ändern der Ablaufzeit für URLs in Report E-Mails - Marketing-Dokumente - Produktdokumentation
-title: Ändern der Ablaufzeit für URLs in Bericht-E-Mails
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Ändern der Ablaufzeit für URLS in Report E-Mails - Marketo Docs - Produktdokumentation
+title: Ändern der Ablaufzeit für URLS in Bericht-E-Mails
+exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Ändern der Ablaufzeit für URLs in Report E-Mails {#change-the-expiration-time-for-urls-in-report-emails}
+# Ändern der Ablaufzeit für URLS in Bericht-E-Mails {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-Links in Ihren Report Abonnement-E-Mails laufen nach drei Tagen ab. Gehen Sie wie folgt vor, um die Ablaufzeit für diese Links zu ändern.
+Die Links in den E-Mails zum Abonnement Ihres Berichts laufen nach drei Tagen ab. Gehen Sie wie folgt vor, um die Ablaufzeit für diese Links zu ändern.
 
-1. Klicken Sie unter **Admin** auf **Anmeldeeinstellungen**.
+1. under **Admin** klicken Sie auf **Anmeldeeinstellungen**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klicken Sie auf die Schaltfläche **URL-Ablauf bearbeiten**.
+1. Klicken Sie auf **URL-Ablauf bearbeiten** Schaltfläche.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Wählen Sie aus dem Dropdownmenü aus, wie viele Tage vor Ablauf des Links vergangen ist. Klicken Sie auf **Speichern**.
+1. Wählen Sie aus dem Dropdown-Menü aus, wie viele Tage vor Ablauf des Links vergangen sind. Klicken **Speichern**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
@@ -35,4 +34,4 @@ Links in Ihren Report Abonnement-E-Mails laufen nach drei Tagen ab. Gehen Sie wi
 
    >[!NOTE]
    >
-   >Beachten Sie, dass diese nur für Links in Berichten und Warnungen gelten, nicht für Marketing-E-Mails.
+   >Beachten Sie, dass diese nur für Links in Berichten und Warnhinweisen gelten, nicht für Marketing-E-Mails.

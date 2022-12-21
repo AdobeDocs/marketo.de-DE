@@ -1,52 +1,51 @@
 ---
 unique-page-id: 14746690
-description: Schritttypen der Kampagne - Marketing-Dokumente - Produktdokumentation
-title: Schritttypen für Kampagnen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Kampagnenschritttypen - Marketo-Dokumente - Produktdokumentation
+title: Kampagnenschritttypen
+exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
+# Kampagnenschritttypen {#campaign-step-types}
 
-# Kampagnen-Schritttypen {#campaign-step-types}
-
-Wenn Sie Ihrer Kampagne einen Schritt hinzufügen, stehen Ihnen vier Optionen zur Verfügung.
+Beim Hinzufügen eines Schritts zu Ihrer Kampagne haben Sie vier Optionen.
 
 ![](assets/one-4.png)
 
-## Email {#email}
+## E-Mail {#email}
 
 Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlage.
 
 ![](assets/email.png)
 
-| **Vorlage verwenden** | Wählen Sie eine der bereits vorhandenen Vorlagen aus |
+| **Eine Vorlage verwenden** | Wählen Sie eine Ihrer bereits existierenden Vorlagen aus |
 |---|---|
-| **Als Vorlage speichern** | Speichern Sie die soeben erstellte E-Mail als neue Vorlage |
-| **hinzufügen** | Laden Sie eine Datei auf unseren Server hoch und erhalten Sie eine URL (Verweis auf den Inhalt), die in Ihrer E-Mail verfolgt werden kann |
-| **Dateien anhängen** | Datei von Ihrem Computer an die E-Mail anhängen (maximal 23 MB) |
+| **Als Vorlage speichern** | Speichern Sie die gerade erstellte E-Mail als neue Vorlage |
+| **Inhalt hinzufügen** | Laden Sie eine Datei auf unseren Server hoch und erhalten Sie eine URL (die auf den Inhalt verweist), die in Ihrer E-Mail verfolgt werden kann. |
+| **Dateien anhängen** | Datei von Ihrem Computer an die E-Mail anhängen (Größenbeschränkung von 23 MB) |
 
 >[!TIP]
 >
->Erfahren Sie mehr über Ihre [Optionen für das Senden](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Erfahren Sie mehr über Ihre [Versandoptionen](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-## Aufruf {#call}
+## Anruf {#call}
 
-Legen Sie eine Erinnerung fest, um eine Kontaktaufnahme per Telefon zu verfolgen. Sie können auch Notizen speichern, die während des Anrufs als Diskussionsspur verwendet werden sollen.
+Legen Sie eine Erinnerung fest, um einen Kontakt per Telefon zu verfolgen. Sie können auch Notizen speichern, die während des Aufrufs als Talktrack verwendet werden.
 
 ![](assets/pic.png)
 
 ## InMail {#inmail}
 
-Das Nachverfolgen mehrerer Kanal ist eine großartige Möglichkeit, sich mit Interessenten zu verbinden. Mit InMail-Aufgaben können Sie eine Erinnerung einrichten, um über LinkedIn zu erreichen.
+Das Nachverfolgen mehrerer Kanäle ist eine hervorragende Möglichkeit, eine Verbindung mit Leads herzustellen. Mit InMail-Aufgaben können Sie eine Erinnerung einrichten, die über LinkedIn kontaktiert werden kann.
 
 ![](assets/inmail.png)
 
-## Benutzerspezifische Aufgabe {#custom-task}
+## Benutzerdefinierte Aufgabe {#custom-task}
 
-Verwenden Sie benutzerspezifische Aufgaben, wenn die oben genannten Optionen nicht verfügbar sind. Sie können beispielsweise einen Kollegen einladen, einen Interessenten per E-Mail weiterzuverfolgen.
+Verwenden Sie benutzerdefinierte Aufgaben, wenn die oben genannten Optionen nicht anwendbar sind. Sie können beispielsweise einen Kollegen einladen, einen Lead per E-Mail zu verfolgen.
 
 ![](assets/custom.png)

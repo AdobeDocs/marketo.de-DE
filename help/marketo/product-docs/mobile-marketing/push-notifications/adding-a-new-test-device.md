@@ -1,29 +1,28 @@
 ---
 unique-page-id: 8783146
-description: Hinzufügen eines neuen Testgeräts - MarketingToDocs - Produktdokumentation
+description: Hinzufügen eines neuen Testgeräts - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines neuen Testgeräts
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Hinzufügen eines neuen Testgeräts {#adding-a-new-test-device}
 
-Es ist einfach, ein neues Testgerät hinzuzufügen, an das Push-Benachrichtigungen gesendet werden können.
+Es ist einfach, ein neues Testgerät für Push-Benachrichtigungen hinzuzufügen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Klicken Sie auf **Admin** und dann auf den Link **Mobile Apps**.
+1. Klicken **Admin** und dann **Mobile Apps** Link.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Klicken Sie auf die Registerkarte **Testgeräte** und **Neues Testgerät**.
+1. Klicken Sie auf **Testgeräte** Registerkarte und **Neues Testgerät**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -33,7 +32,7 @@ Es ist einfach, ein neues Testgerät hinzuzufügen, an das Push-Benachrichtigung
 
 1. Sie haben zwei Möglichkeiten, Ihr Gerät mit der App zu verbinden.
 
-   Mit der ersten Option kopieren Sie einfach die URL aus dem Feld und senden Sie sie per E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL.
+   Mit der ersten Option kopieren Sie einfach die URL aus dem Feld und senden sie per E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL.
 
    ![](assets/image2015-7-20-11-3a27-3a2.png)
 
@@ -49,6 +48,6 @@ Es ist einfach, ein neues Testgerät hinzuzufügen, an das Push-Benachrichtigung
 
    ![](assets/image2015-7-17-17-3a33-3a5.png)
 
-1. Der Status wird aktualisiert, um anzuzeigen, dass das Gerät hinzugefügt wird. Herzlichen Glückwunsch!
+1. Der Status wird aktualisiert und zeigt an, dass das Gerät hinzugefügt wird. Herzlichen Glückwunsch!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)

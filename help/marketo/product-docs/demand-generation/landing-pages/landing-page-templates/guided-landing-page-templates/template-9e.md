@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 9E {#template-9e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+Rechtsklick auf [Download-Vorlage 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 

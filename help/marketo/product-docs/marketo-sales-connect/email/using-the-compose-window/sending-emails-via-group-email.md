@@ -1,23 +1,22 @@
 ---
 unique-page-id: 37356584
-description: Senden von E-Mails per E-Mail - Marketing-Dokumente - Produktdokumentation
-title: Senden von E-Mails per E-Mail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Senden von E-Mails per Gruppenemail - Marketo-Dokumente - Produktdokumentation
+title: Senden von E-Mails über Gruppen-E-Mails
+exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
+# Senden von E-Mails über Gruppen-E-Mails {#sending-emails-via-group-email}
 
-# Senden von E-Mails per E-Mail {#sending-emails-via-group-email}
-
-So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
+Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren senden/bearbeiten.
 
 ## Senden einer Gruppen-E-Mail {#sending-a-group-email}
 
-1. Klicken Sie auf die Registerkarte **Personen**.
+1. Klicken Sie auf **Personen** Registerkarte.
 
    ![](assets/one-3.png)
 
@@ -25,7 +24,7 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf die Schaltfläche &quot;Gruppenaktionen&quot;und wählen Sie **E-Mail-Gruppe**.
+1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe**.
 
    ![](assets/three-3.png)
 
@@ -35,13 +34,13 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
 ## Bearbeiten einer Gruppen-E-Mail {#editing-a-group-email}
 
-1. Erstellen Sie eine Gruppen-E-Mail mit [Schritte 1-3 oben](#sending-a-group-email).
+1. Erstellen einer Gruppen-E-Mail mit [Schritte 1-3 oben](#sending-a-group-email).
 
-1. Wählen Sie eine Vorlage oder füllen Sie Ihre E-Mail aus.
+1. Wählen Sie eine Vorlage aus oder füllen Sie Ihre E-Mail aus.
 
    ![](assets/edit-two.png)
 
-1. Nach Abschluss der E-Mail können Sie nun jede E-Mail in der Liste Vorschau haben, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind.
+1. Nach Abschluss der E-Mail können Sie nun für jede E-Mail in der Liste eine Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind.
 
    ![](assets/edit-three.png)
 
@@ -49,13 +48,13 @@ So senden/bearbeiten Sie E-Mails mit der Option &quot;E-Mail gruppieren&quot;.
 
    ![](assets/edit-four.png)
 
-1. Klicken Sie auf **Vorschau Dynamische Felder** und Ansicht der Vorschau auf der rechten Seite.
+1. Klicken **Vorschau dynamischer Felder** und sehen Sie sich die Vorschau auf der rechten Seite an.
 
    ![](assets/edit-five.png)
 
    >[!NOTE]
    >
-   >Sie können Massenbearbeitungen an der E-Mail/Vorlage vornehmen, wenn Sie eine Gruppenemail senden, jedoch keine eindeutigen Änderungen an bestimmten Empfängern in der Liste vornehmen.
+   >Sie können die E-Mail/Vorlage beim Versand einer Gruppen-E-Mail in großen Mengen bearbeiten, für bestimmte Empfänger in der Liste jedoch keine eindeutigen Änderungen vornehmen.
 
 >[!MORELIKETHIS]
 >

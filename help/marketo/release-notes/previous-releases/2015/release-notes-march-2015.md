@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom März 2015 enthalten. Informati
 
 ## HD-Kalender {#calendar-hd}
 
-Zeigen Sie die Marketingaktivitäten Ihres Teams mit dem neuen Präsentationsmodus des Kalenders an. Diese sind ideal für Fernseher oder große Monitore im Büro! Ziele basierend auf einer intelligenten Liste oder benutzerdefinierten Metriken festlegen und anzeigen.
+Zeigen Sie die Marketingaktivitäten Ihres Teams mit dem neuen Präsentationsmodus des Kalenders an. Diese sind ideal für Fernseher oder große Monitore im Büro! Ziele basierend auf einer intelligenten Liste oder benutzerspezifischen Metriken festlegen und anzeigen.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Zeigen Sie die Marketingaktivitäten Ihres Teams mit dem neuen Präsentationsmod
 
 ## Google AdWords-Integration {#google-adwords-integration}
 
-Verknüpfen Sie Ihr [Google AdWords-Konto mit Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md), um Offline-Konversionsdaten automatisch von Marketo in Google AdWords hochzuladen. Anschließend können Sie in der AdWords-Benutzeroberfläche einfach sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden führten (oder welche Umsatzstufen Sie verfolgen möchten).
+Verknüpfen Sie Ihre [Google AdWords-Konto in Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) , um Offline-Konversionsdaten automatisch von Marketo in Google AdWords hochzuladen. Anschließend können Sie in der AdWords-Benutzeroberfläche einfach sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden führten (oder welche Umsatzstufen Sie verfolgen möchten).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -42,14 +42,14 @@ Wir unterstützen jetzt das Erstellen und Bearbeiten von E-Mails, Vorlagen, Toke
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
-Unterstützt mit dem neuesten Installationsprogramm jetzt [Zugriff über die App](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Unterstützt mit dem neuesten Installationsprogramm [Zugriff über die App](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP: Personalisierte Webeinbindung mit Lead-Daten {#rtp-personalized-web-engagement-with-lead-data}
 
-Nutzen Sie die [Lead-Datenfelder](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md), die Sie in Ihrer Marketo-Lead-Datenbank haben, um eine Echtzeit-Segmentierung und personalisierte Inhaltskampagnen zu erstellen. Verwalten Sie Ihre Lead-Datenfelder in RTP und fügen Sie relevante Lead-Felder hinzu/löschen Sie sie.
+Nutzen Sie die [Lead-Datenfelder](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) Sie verfügen über Ihre Marketo-Lead-Datenbank, um Echtzeit-Segmentierungen und personalisierte Inhaltskampagnen zu erstellen. Verwalten Sie Ihre Lead-Datenfelder in RTP und fügen Sie relevante Lead-Felder hinzu/löschen Sie sie.
 
 ## RTP: Webinhalte nach E-Mail- oder Programmkampagnenname personalisieren {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Fahren Sie mit Ihrem Lead über Kanäle von E-Mail bis Web hinweg fort. [Personalisieren Sie eingehende Inhalte basierend auf E-Mail-Kampagnen oder ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Programmnamen, die in den Marketingaktivitäten von Marketo verwendet werden.
+Fahren Sie mit Ihrem Lead über Kanäle von E-Mail bis Web hinweg fort. [Eingehenden Inhalt basierend auf einer E-Mail-Kampagne oder einem Programm personalisieren](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Name, der in den Marketingaktivitäten von Marketo verwendet wird.

@@ -1,32 +1,29 @@
 ---
 unique-page-id: 8782266
-description: Priorisierung von Web-Kampagnen - Marketing-Dokumente - Produktdokumentation
-title: Priorisierung von Web-Kampagnen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Priorisieren von Web-Kampagnen - Marketo-Dokumente - Produktdokumentation
+title: Priorisierung von Webkampagnen
+exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Priorisierung von Webkampagnen {#prioritizing-web-campaigns}
 
-# Priorisieren von Web-Kampagnen {#prioritizing-web-campaigns}
-
-Richten Sie die Priorität Ihrer Web-Kampagnen ein, wenn sich zwei oder mehr Web-Kampagnen überschneiden.
+Priorisieren Sie Ihre Webkampagnen, wenn sich zwei oder mehr Webkampagnen überschneiden, indem Sie eine Prioritätsbewertung festlegen.
 
 >[!NOTE]
 >
->**Überschneidende Kampagnen**
+>**Überlappende Kampagnen**
 >
->Eine Überschneidung von Web-Kampagnen tritt auf, wenn:
+>Eine Webkampagnenüberschneidung tritt auf, wenn:
 >
->* Zwei oder mehr Widgets und/oder Dialog-Kampagnen reagieren gleichzeitig auf derselben Seite
->* Zwei oder mehr In-Zonen mit derselben Zonen-ID reagieren gleichzeitig auf derselben Webseite
-
+>* Zwei oder mehr Widgets und/oder Dialogkampagnen reagieren gleichzeitig auf derselben Seite
+>* Zwei oder mehr In Bereichen mit derselben Zone-ID reagieren gleichzeitig auf derselben Web-Seite
 >
->
-Eine In-Zone-Kampagne und eine (Widget- oder Dialog-) Kampagne können auf derselben Seite reagieren.
+>Eine In-Zone-Kampagne und eine (Widget- oder Dialogfeldkampagne) können auf dieselbe Seite reagieren.
 
 1. Gehen Sie zu Web-Kampagnen.
 
@@ -34,18 +31,18 @@ Eine In-Zone-Kampagne und eine (Widget- oder Dialog-) Kampagne können auf derse
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die Filterfunktion [a1/>.](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)
+   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Legen Sie auf der Seite &quot;Kampagne bearbeiten&quot;die Prioritätsbewertung fest (9999 = Höchste Priorität 1 = Niedrigste Priorität).
+1. Legen Sie auf der Seite Kampagne bearbeiten die Prioritätsbewertung fest (9999 = höchste Priorität 1 = niedrigste Priorität).
 
    ![](assets/image2015-7-9-20-3a20-3a58.png)
 
    >[!TIP]
    >
-   >Es wird empfohlen, die Prioritätsbewertung der Kampagne nur dann zu verwenden, wenn eine potenzielle Überschneidung der Kampagnen vorliegt und eine der Kampagnen wichtiger ist. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
+   >Es wird empfohlen, die Kampagnenprioritäres Ergebnis nur zu verwenden, wenn eine potenzielle Kampagnenüberschneidung vorliegt und eine der Kampagnen von höherer Bedeutung ist. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
 
 1. Speichern oder starten Sie die Kampagne.
 
-1. Siehe Prioritätsbewertung auf der Seite &quot;Web-Kampagnen&quot;.
+1. Siehe Prioritätsbewertung , die auf der Seite Web-Kampagnen angezeigt wird.
 
 ![](assets/web-campaign-priority-score.jpg)

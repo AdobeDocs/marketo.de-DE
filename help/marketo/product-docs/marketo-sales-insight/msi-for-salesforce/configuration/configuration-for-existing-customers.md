@@ -26,27 +26,27 @@ Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insi
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Klicken Sie auf **Sales Insight**.
+1. Klicken **Sales Insight**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Klicken Sie auf **Ansicht** , um die REST-API-Anmeldeinformationen zu füllen.
+1. Klicken **Ansicht** , um die REST-API-Anmeldeinformationen zu füllen.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Es wird ein Bestätigungs-Popup angezeigt. Klicken Sie auf **OK**.
+1. Es wird ein Bestätigungs-Popup angezeigt. Klicken **OK**.
 
 ## Sales Insight in Salesforce konfigurieren {#configure-sales-insight-in-salesforce}
 
-1. Klicken Sie in Salesforce auf **Setup**.
+1. Klicken Sie in Salesforce auf **Einrichtung**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Suchen Sie nach **Remote Site Settings** und wählen Sie sie aus.
+1. Suchen und Auswählen **Remote Site Settings**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Klicken Sie auf **Neue Remote-Site**.
+1. Klicken **Neue Remote-Site**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -54,7 +54,7 @@ Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insi
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Klicken Sie auf **Save**.
+1. Klicken **Speichern**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

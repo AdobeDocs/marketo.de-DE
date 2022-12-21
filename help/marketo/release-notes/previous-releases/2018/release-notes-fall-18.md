@@ -37,7 +37,7 @@ Die Web-Personalisierung unterstützt jetzt mehrere Arbeitsplätze.
 
 ## Marketo Sky {#marketo-sky}
 
-Weitere Informationen und Updates finden Sie in den [Sky-Versionshinweisen](https://help.marketo.com).
+Weitere Informationen und Aktualisierungen finden Sie in der [Versionshinweise zu Sky](https://help.marketo.com).
 
 * **Design-Systemaktualisierungen**
 
@@ -46,16 +46,16 @@ Weitere Informationen und Updates finden Sie in den [Sky-Versionshinweisen](http
 * Designverbesserungen für die Baumnavigation: Zielgerichtete Verwendung von Farbe, klarerer Typografie, neuer Ikonographie und Abzeichen für schnelle Statusprüfungen
 * Bildschirme mit neu gestalteten Programmzusammenfassungen
 
-* **Startseite** der Marketingaktivitäten: Schneller Zugriff auf allgemeine Funktionen direkt über die Startseite der Marketingaktivitäten .
+* **Homepage der Marketingaktivitäten**: Schneller Zugriff auf allgemeine Funktionen direkt über die Startseite der Marketingaktivitäten .
 
-   * Ergreifen Sie spezifische Maßnahmen (d. h. die Einführung neuer Programme und intelligenter Kampagnen) und sehen Sie sich wichtige Informationen zu aktuellen Programmen an, wie Programme und Kampagnen, die heute ausgeführt werden sollen, kürzlich aktualisierte Programme und Assets sowie die Gesamtzahl der aktiven Trigger-Kampagnen.
+   * Ergreifen Sie spezifische Maßnahmen (d. h. den Start neuer Programme und intelligenter Kampagnen) und sehen Sie sich wichtige Informationen zu aktuellen Programmen an, wie Programme und Kampagnen, die heute ausgeführt werden sollen, kürzlich aktualisierte Programme und Assets sowie die Gesamtzahl der aktiven Trigger-Kampagnen.
 
 * **Design Studio-Updates**: Wir haben das Design Studio-Erlebnis neu gestaltet, um Ihnen dabei zu helfen, schneller und produktiver zu werden.
 * Design Studio-Homepage: Erstellen Sie neue Assets, ziehen Sie Bilder und Dateien per Drag-and-Drop und verwalten Sie alle vorhandenen Assets.
 * Design Studio-Listenansichten: Benutzer können jetzt Landingpage-Vorlagen und E-Mail-Vorlagen im Listenansichtsformat anzeigen, sodass sie schnell navigieren und Massenaktionen für einen einzelnen Asset-Typ durchführen können.
 * Design Studio Asset-Detailseiten: Sparen Sie Zeit und Kopfschmerzen, indem Sie alle Assets an einem Ort anzeigen, organisieren und Massenaktionen durchführen.
-* **Standardprogramme sind jetzt unter Marketo Sky verfügbar**: Marketo Sky unterstützt jetzt Standardprogramme, den vielseitigen Programmstil, mit dem Sie eine beliebige Kampagne erstellen können.
-* **E-Mail-Programme - Phase 1**: Sie können jetzt E-Mail-Programme in Sky anzeigen. Sehen Sie sich das neue Design an und teilen Sie uns [Ihre Meinung mit](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Standardprogramme sind jetzt auf Marketo Sky verfügbar**: Marketo Sky unterstützt jetzt Standardprogramme, den vielseitigen Programmstil, mit dem Sie eine beliebige Kampagne erstellen können.
+* **E-Mail-Programme - Phase 1**: Sie können jetzt E-Mail-Programme in Sky anzeigen. Sehen Sie sich das neue Design an und [Teilen Sie uns Ihre Meinung mit](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 

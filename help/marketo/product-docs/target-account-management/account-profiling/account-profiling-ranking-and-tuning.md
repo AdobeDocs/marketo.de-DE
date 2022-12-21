@@ -1,27 +1,26 @@
 ---
 unique-page-id: 15695924
-description: Rangansicht und Abstimmung von Kontoprofilen - Marketing Docs - Produktdokumentation
-title: Rangansicht und Abstimmung von Kontoprofilen
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Ranking und Optimierung von Kontoprofilen - Marketo-Dokumente - Produktdokumentation
+title: Ranking und Optimierung von Kontoprofilen
+exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Ranking und Optimierung von Kontoprofilen {#account-profiling-ranking-and-tuning}
 
-# Rangansicht und Abstimmung von Kontoprofilen {#account-profiling-ranking-and-tuning}
-
-Die Kontoprofilerstellung identifiziert Ihr ideales Profil (ICP), sortiert Firmen in Ihrer Datenbank nach dem ICP und fügt ICP-Indikatordaten zu Konten hinzu, die als benannte Konten beworben werden.
+Mit der Kontoprofilerstellung wird Ihr ideales Kundenprofil (ICP) identifiziert, Unternehmen in Ihrer Datenbank werden auf der Grundlage des ICP in eine Rangfolge versetzt und ICP-Indikatordaten zu Konten hinzugefügt, die als benannte Konten beworben werden.
 
 ## Modellergebnisse {#model-results}
 
-Die Ergebnisse zeigen Ihnen alle bekannten Konten nach Besoldungsgruppe aufgeschlüsselt. A ist die höchste Klasse, D die niedrigste.
+Die Ergebnisse zeigen Ihnen alle bekannten Konten aufgeschlüsselt nach Klassen. A ist die höchste Klasse, D die niedrigste.
 
 ![](assets/results.png)
 
-Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch fördern zu aktivieren, da es Ihnen eine Tonne Zeit einspart. Wenn Sie jedoch die einzelnen Konten durchlaufen und [sie manuell hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) möchten, lassen Sie das Kontrollkästchen einfach deaktiviert.
+Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch bewerben zu aktivieren, da dadurch eine Tonne Zeit eingespart wird. Wenn Sie jedoch die einzelnen Konten durchlaufen möchten und [manuell hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lassen Sie das Kästchen einfach deaktiviert.
 
 <table> 
  <tbody> 
@@ -29,151 +28,151 @@ Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch fördern zu ak
    <td><strong>Rang</strong></td> 
    <td> 
     <div>
-      Kontostand basierend auf dem Ideal Customer Profil. A ist am besten geeignet, D am wenigsten geeignet. 
+      Kontorang basierend auf dem Idealen Kundenprofil. A ist am besten geeignet, D am wenigsten geeignet. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Tendenz</strong></td> 
+   <td><strong>Kauflust##</strong></td> 
    <td> 
     <div>
-      Geschätzte Steigerung des Konversionsraten im Vergleich zu einer nicht auf dem VPI basierenden Kontenauswahl. 
+      Geschätzter Anstieg der Konversionsrate im Vergleich zu einer nicht auf dem VPI basierenden Kontoauswahl. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Konten (%)</strong></td> 
    <td> 
     <div>
-      Prozentsatz der Konten in Modelleingaben mit diesem Rang. 
+      Prozentsatz der Konten in Modelleingaben mit diesem Rang 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>% der Modellgrundlage</strong></td> 
    <td> 
     <div>
-      Prozentsatz der Konten auf Modellbasis, die diesen Rang haben. 
+      Prozentsatz der Konten auf Modellbasis mit diesem Rang. 
     </div></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Modelloptimierung {#model-tuning}
+## Modellabstimmung {#model-tuning}
 
-Klicken Sie auf der Registerkarte Modell auf die Schaltfläche Modell anpassen.
+Klicken Sie auf der Registerkarte Modell auf die Schaltfläche Modell anpassen .
 
 ![](assets/two.png)
 
-Es stehen verschiedene Registerkarten zur Auswahl, die eine detaillierte Anpassung ermöglichen.
+Es gibt mehrere Registerkarten, aus denen Sie eine detaillierte Anpassung durchführen können.
 
 ![](assets/tuning-page.png)
 
-**Indikator-Kategorien**
+**Indikatorkategorien**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Compliance</strong></td> 
+   <td><strong>Konformität</strong></td> 
    <td> 
     <div>
-      Zertifizierungen, Compliance-bezogene Positionen/Anmietung. 
+      Zertifizierungen, Compliance-bezogene Positionen/Einstellungen. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Aktivitäten</strong></td> 
    <td> 
     <div>
-      Geschäftsbezogene Positionen/Vermietung. 
+      Betriebsbezogene Positionen/Einstellungen. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>HR</strong></td> 
    <td> 
     <div>
-      HR- oder Payroll-Software, HR-bezogene Positionen/Miete.
+      HR- oder Payroll-Software, HR-bezogene Positionen/Vermietung.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Engineering</strong></td> 
+   <td><strong>Ingenieurwesen</strong></td> 
    <td> 
     <div>
-      Technologien, Frameworks, ingenieurbezogene Positionen/Miete. 
+      Technologien, Frameworks, ingenieurbezogene Positionen/Einstellungen. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Vertrieb</strong></td> 
    <td> 
     <div>
-      Lösungen und Software für Vertrieb, Verkaufsstellen/Vermietung. 
+      Lösungen und Software für Vertrieb, Verkaufsstellen/Anmietung. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Zweck</strong></td> 
+   <td><strong>Intent</strong></td> 
    <td> 
     <div>
-      Zielindikatoren. 
+      Intent-Indikatoren. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>IT</strong></td> 
    <td> 
     <div>
-      Hardware- und Softwarelösungen, Technologien, IT-bezogene Positionen/Miete.
+      Hardware- und Software-Lösungen, Technologien, IT-bezogene Positionen/Einstellungen.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Finance</strong></td> 
+   <td><strong>Finanzwesen</strong></td> 
    <td> 
     <div>
-      Finanz-Software, finanzbezogene Positionen/Miete. 
+      Finanzsoftware, finanzbezogene Positionen/Anmietung. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Marketing</strong></td> 
    <td> 
     <div>
-      Marketing-Technologien und Software, Marketing-bezogene Positionen/Miete. 
+      Marketing-Technologien und -Software, Marketing-bezogene Positionen/Einstellungen. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Geschäft</strong></td> 
+   <td><strong>Unternehmen</strong></td> 
    <td> 
     <div>
-      Forbes oder Inc Listen oder Geschäftspartnerschaften. 
+      Forbes- oder Inc-Listen oder Geschäftspartnerschaften. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Kundenerlebnis und Kundenbeziehungen</strong></td> 
    <td> 
     <div>
-      Kundenerfolg und Kundenbeziehungen Positionen/Vermietung.
+      Kundenerfolg und Positionen/Einstellung für Kundenbeziehungen.
     </div></td> 
   </tr> 
  </tbody> 
 </table>
 
-Bewegen Sie den Mauszeiger über die QuickInfos, um eine Beschreibung der einzelnen Spalten anzuzeigen.
+Bewegen Sie den Mauszeiger über die QuickInfos, um eine Beschreibung der einzelnen Spalten zu erhalten.
 
 ![](assets/tool-tip.png)
 
-Klicken Sie auf die Dropdownliste Hinzufügen ICP-Indikator, um weitere Indikatoren in Ihr Modell einzufügen.
+Klicken Sie auf die Dropdown-Liste ICP-Indikator hinzufügen , um weitere Indikatoren in Ihr Modell einzufügen.
 
 ![](assets/add-icp.png)
 
-Wenn Sie das Kontrollkästchen &quot;Exportieren&quot;aktivieren, können Sie den ICP-Indikator auf der Seite &quot;Benanntes Konto&quot;anzeigen und den ausgewählten ICP-Indikator als Einschränkungen unter [Benannte Filter](/help/marketo/product-docs/target-account-management/engage/account-filters.md) verwenden.
+Wenn Sie das Feld Export aktivieren, können Sie die ICP-Anzeige auf der Detailseite &quot;Spezifisches Konto&quot;anzeigen und die ausgewählte ICP-Anzeige als Begrenzungen unter [benannte Kontofilter](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-Indikatoren werden als Beschränkungen in den Filtern und Triggern von **Mitglied des benannten Kontos** einbezogen.
+>ICP-Indikatoren werden als Begrenzungen in **Mitglied des benannten Kontos** Filter und Trigger.
 
 Die Indikatorgewichtung steuert die Wichtigkeitsstufe, die jeder Indikator in Ihrem Modell erhält.
 
 ![](assets/weightage.png)
 
-Klicken Sie auf Modell aktualisieren, damit diese Änderungen wirksam werden.
+Klicken Sie auf Modell aktualisieren , damit diese Änderungen wirksam werden.
 
 ![](assets/refresh-button.png)
 
-Wenn Sie das Anpassen des Modells abgeschlossen haben (nachdem Sie es aktualisiert haben), kehren Sie zur Registerkarte Modellergebnisse zurück und klicken Sie auf **Ränge speichern und anwenden**.
+Wenn Sie die Modelloptimierung abgeschlossen haben (nach der Aktualisierung), kehren Sie zur Registerkarte Modellergebnisse zurück und klicken Sie auf **Speichern und Anwenden von Bewertungen**.
 
 ![](assets/ranks.png)

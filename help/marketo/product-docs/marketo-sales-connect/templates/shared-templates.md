@@ -1,25 +1,24 @@
 ---
 unique-page-id: 14352503
-description: Freigegebene Vorlagen - Marketing-Dokumente - Produktdokumentation
+description: Freigegebene Vorlagen - Marketo-Dokumente - Produktdokumentation
 title: Freigegebene Vorlagen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Freigegebene Vorlagen {#shared-templates}
 
 ## Freigeben einer Vorlage {#how-to-share-a-template}
 
-Wenn Sie eines unserer Teamkonten verwenden, sind alle Ihre Vorlagen immer noch standardmäßig privat. Klicken Sie oben in Ihrer Vorlage auf die grüne Schaltfläche **Freigeben**, um sie für den Rest Ihres Teams freizugeben.
+Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardmäßig noch privat. Klicken Sie auf Grün **Freigeben** -Schaltfläche oben in Ihrer Vorlage, um sie für den Rest Ihres Teams freizugeben.
 
-## Suchen nach freigegebenen Vorlagen {#how-to-find-shared-templates}
+## Ermitteln freigegebener Vorlagen  {#how-to-find-shared-templates}
 
-Vorlagen, die für Sie freigegeben wurden, werden auf der linken Seite der Seite &quot;Vorlagen&quot;unter der Überschrift **Teamvorlagen** angezeigt.
+Vorlagen, die für Sie freigegeben wurden, werden unter der **Team-Vorlagen** -Kopfzeile auf der linken Seite der Seite &quot;Vorlagen&quot;.
 
 >[!NOTE]
 >

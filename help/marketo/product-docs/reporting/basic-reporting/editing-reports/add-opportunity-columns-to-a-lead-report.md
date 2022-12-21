@@ -1,49 +1,48 @@
 ---
 unique-page-id: 2360018
-description: hinzufügen Möglichkeit, Spalten zu einem Interessentenbericht - Marketing-Dokumente - Produktdokumentation
-title: hinzufügen der Möglichkeit, Spalten in einen Interessentenbericht aufzunehmen
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Hinzufügen von Angebotsspalten zu einem Lead-Bericht - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen von Angebotsspalten zu einem Lead-Bericht
+exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
+# Hinzufügen von Angebotsspalten zu einem Lead-Bericht {#add-opportunity-columns-to-a-lead-report}
 
-# hinzufügen der möglichen Spalten zu einem Interessentenbericht {#add-opportunity-columns-to-a-lead-report}
+Sie können Opportunitätsspalten hinzufügen, um die Opportunitätsstatistiken in Ihren Personenberichten anzuzeigen.
 
-Um die Statistiken zu den Möglichkeiten in Ihren Personendaten anzuzeigen, können Sie Angebotsspalten hinzufügen.
-
-1. Gehen Sie zum Bereich **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
    ![](assets/ma.png)
 
-1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Setup**.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Einrichtung** Registerkarte.
 
    ![](assets/two.png)
 
-1. Klicken Sie mit der Dublette auf **Gelegenheitsspalten**.
+1. Doppelklicken **Opportunity Columns**.
 
    ![](assets/three.png)
 
-1. Wählen Sie **Angezeigt** aus dem Dropdown-Menü.
+1. Auswählen **Angezeigt** aus dem Dropdown-Menü.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht**, um Ihren Bericht mit den Opportunitätsmetriken anzuzeigen.
+1. Klicken Sie auf **Bericht** , um Ihren Bericht mit Opportunitätsmetriken anzuzeigen.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Blättern Sie nach rechts, um weitere Spalten anzuzeigen.
+   >Scrollen Sie nach rechts, um weitere Spalten anzuzeigen.
 
-1. Klicken Sie zum Hinzufügen oder Entfernen von Spalten aus dem Bericht auf eine Spaltenüberschrift und wählen Sie **Spalten**.[](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+1. nach [Spalten aus dem Bericht hinzufügen oder entfernen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)klicken Sie auf eine Spaltenüberschrift und wählen Sie **Spalten**.
 
    ![](assets/six.png)
 
-   Die verfügbaren Angebotsspalten sind:
+   Die verfügbaren Opportunitätsspalten sind:
 
    >[!NOTE]
    >
@@ -51,21 +50,21 @@ Um die Statistiken zu den Möglichkeiten in Ihren Personendaten anzuzeigen, kön
 
    | Spalte | Beschreibung |
    |---|---|
-   | Keine Gelegenheit | Anzahl der Personen, die *nicht* ein primärer Opportunitätskontakt sind. |
-   | Tage Keine Gelegenheit | Durchschnittliches Alter (in Tagen) der Personen, die *nicht* ein Hauptkontakt sind. |
-   | Hat Chancen | Anzahl der Personen, die eine primäre Gelegenheit Kontakt. |
-   | Hat Gelegenheit % | Prozentsatz der Personen, die eine primäre Gelegenheit Kontakt. |
-   | Tage bis Gelegenheit | Durchschnittliche Anzahl der Tage für die Umrechnung von Mensch zu primärer Opportunitätskontakt. |
-   | Opportunitätsbetrag gesamt | Summe aller Opportunitätsbeträge. |
-   | Durchschn. Opportunity Amount | Summe der Opportunitätsbeträge geteilt durch die Anzahl der Gelegenheiten. |
-   | Chancen gesamt | Anzahl aller Möglichkeiten. |
+   | Keine Opportunity | Anzahl der Personen *not* ein vorrangiger Ansprechpartner für Opportunities. |
+   | Keine Opportunity – Tage | Durchschnittliches Alter (in Tagen) der *not* einen Hauptkontakt. |
+   | Hat Opportunity | Anzahl der Personen, die als Hauptansprechpartner fungieren. |
+   | Hat Opportunity % | Prozentsatz der Personen, die als Hauptansprechpartner fungieren. |
+   | Tage bis Opportunity | Durchschnittliche Anzahl der Tage für die Konversion von der Person zur Hauptkontaktperson. |
+   | Opportunity-Gesamtbetrag | Summe aller Opportunitätsbeträge. |
+   | Durchschnittlicher Opportunity-Betrag | Summe der Opportunitätsbeträge dividiert durch die Anzahl der Gelegenheiten. |
+   | Opportunity-Gesamtzahl | Anzahl aller Möglichkeiten. |
    | Geschlossen | Anzahl der Gelegenheiten, die geschlossen, gewonnen oder verloren wurden. |
    | Gewonnen | Anzahl der Chancen, die gewonnen wurden. |
-   | % Won | Prozentsatz der Chancen, die gewonnen wurden. |
-   | Gesamtsumme | Summe der Gewinnchancen. |
-   | Tage bis zum Ende | Durchschnittliche Anzahl der Tage, die geschlossen werden sollen. |
-   | Tage im Verkauf | Durchschnittliche Dauer des Verkaufszyklus (Tage bis Gelegenheit + Tage bis zum Schließen). |
+   | % Gewonnen | Prozentsatz der Chancen, die gewonnen wurden. |
+   | Gewonnener Gesamtbetrag | Summe der Gewinner-Opportunitätsbeträge. |
+   | Tage bis Schließen | Durchschnittliche Anzahl Tage zum Schließen von Opportunitys. |
+   | Tage im Vertrieb | Durchschnittliche Dauer des Verkaufszyklus (Tage bis Opportunity + Tage bis zum Schließen). |
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie, wie Sie die Größe Ihres Berichts [verwalten.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)
+   >Erfahren Sie, wie Sie [die Größe Ihres Berichts verwalten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

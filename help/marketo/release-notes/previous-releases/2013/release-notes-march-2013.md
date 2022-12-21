@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom März enthalten.
 
 ## Marketo-Kalenderdateien {#marketo-calendar-files}
 
-Erstellen Sie eine Kalenderdatei als **My Token**, die in Ihren Ereignisbestätigungs- und -erinnerungs-E-Mails verwendet werden soll. Diese integrierte Kalenderdatei (z. B. .ics-Datei) rendert alle Token, einschließlich My Tokens und des Tokens `{{member.webinar URL}}`.
+Kalenderdatei als **Mein Token** zur Verwendung in Ihrer Ereignisbestätigungs- und Erinnerungsmail. Diese integrierte Kalenderdatei (z. B. .ics-Datei) rendert alle Token, einschließlich My Tokens und der `{{member.webinar URL}}` Token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
@@ -42,4 +42,4 @@ Den Formular-Fehlermeldungen wurden mehr als ein Dutzend Sprachen hinzugefügt!
 
 ## Support-Nachrichten und -Warnhinweise {#support-news-and-alerts}
 
-Bleiben Sie mit dem Marketo-Kundensupport verbunden, indem Sie von unseren Support-Experten Nachrichten und Warnungen für P1-Warnhinweise, bekannte Probleme, Hinweise und Tipps abonnieren und aktuelle Informationen vom Marketo-Kundensupport erhalten.
+Bleiben Sie mit dem Marketo-Kundensupport verbunden, indem Sie von unseren Support-Experten News und Warnungen für P1-Warnhinweise, bekannte Probleme, Hinweise und Tipps abonnieren und aktuelle Informationen vom Marketo-Support erhalten.

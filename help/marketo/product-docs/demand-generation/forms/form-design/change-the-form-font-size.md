@@ -1,55 +1,54 @@
 ---
 unique-page-id: 2359610
-description: Formularschriftgröße ändern - Marketing to Docs - Produktdokumentation
+description: Ändern der Schriftgröße für Formulare - Marketo Docs - Produktdokumentation
 title: Ändern der Schriftgröße des Formulars
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
+# Ändern der Schriftgröße des Formulars {#change-the-form-font-size}
 
-# Ändern Sie die Schriftgröße des Formulars {#change-the-form-font-size}
-
-Mit Marketo können Sie das Erscheinungsbild Ihrer Formulare ganz einfach anpassen. Sie sollten die Schriftgröße ändern. So geht es.
+Marketo erleichtert es Ihnen, das Erscheinungsbild Ihrer Formulare anzupassen. Eine Möglichkeit besteht darin, die Schriftgröße zu ändern. So geht es.
 
 >[!TIP]
 >
 >Diese Einstellung wirkt sich auf die Formularbeschriftung, den Eingabetext und den Text der Senden-Schaltfläche aus.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Wählen Sie unter **Formulareinstellungen** **Einstellungen**.
+1. under **Formulareinstellungen**, Auswahl **Einstellungen**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Wählen Sie die gewünschte **Schriftgröße** aus.
+1. Wählen Sie die **Schriftgröße** Sie wollen.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken **Beenden**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Klicken Sie auf **Genehmigen und Schließen**.
+1. Klicken **Genehmigen und schließen**.
 
    >[!NOTE]
    >
-   >Das Formular muss für die Verwendung auf Landingpages genehmigt werden.
+   >Das Formular muss validiert sein, damit es auf Landingpages verwendet werden kann.
 
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
    >
-   >Denken Sie daran, den mit den Formularänderungen erstellten Entwurf der Landingpage zu genehmigen.
+   >Denken Sie daran, den durch die Formularänderungen erstellten Entwurf der Landingpage zu validieren.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
 

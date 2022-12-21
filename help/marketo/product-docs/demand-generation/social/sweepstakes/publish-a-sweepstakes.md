@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359799
-description: Veröffentlichen eines Gewinnspiels - Marketing Docs - Produktdokumentation
+description: Preisausschreiben veröffentlichen - Marketo-Dokumente - Produktdokumentation
 title: Preisausschreiben veröffentlichen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: c02d213c-a965-4737-817a-ce8bd7491853
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Preisausschreiben veröffentlichen {#publish-a-sweepstakes}
 
-# Veröffentlichen eines Gewinnspiels {#publish-a-sweepstakes}
-
-Nachdem Sie [ein Gewinnspiel](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellt haben, können Sie es auf Ihren Marketing-Landingpages, auf Ihrer Website und auf Ihrem Facebook veröffentlichen.
+Nach [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), können Sie sie auf Ihren Marketo-Landingpages, auf Ihrer Website und in Ihrer Facebook veröffentlichen.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 >[!NOTE]
 >
->Bevor Sie Ihr Angebot veröffentlichen, vergewissern Sie sich, dass es mit allen anwendbaren Rechts- und Verwaltungsvorschriften übereinstimmt.
+>Bevor Sie Ihr Angebot veröffentlichen, vergewissern Sie sich, dass es allen geltenden Gesetzen, Regeln und Vorschriften entspricht.
 
 1. Suchen Sie Ihre Landingpage und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Suchen Sie den Abschnitt &quot;Elemente einfügen&quot;rechts auf der Seite. Ziehen Sie den Mauszeiger über **Preisausschreiben**.
+1. Suchen Sie den Abschnitt Elemente einfügen auf der rechten Seite der Seite. Verschieben **Preisausschreiben**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. Wählen Sie Ihre Gewinnspiele aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie Ihren Preisausschreiben aus und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -39,12 +38,12 @@ Nachdem Sie [ein Gewinnspiel](/help/marketo/product-docs/demand-generation/socia
    >
    >Sie müssen Ihr Gewinnspiel genehmigen, um es hier verfügbar zu machen.
 
-   Herzlichen Glückwunsch! Genehmigen Sie die Landingpage und Ihre Preisausschreiben ist live. Sie können die Landingpage auch unter [auf Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [veröffentlichen und die Gewinnspiele auf Ihrer Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md) platzieren.
+   Herzlichen Glückwunsch!  Validieren Sie die Landingpage und Ihr Gewinnspiel ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [stellen Sie den Preisausschreiben auf Ihre Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
-   >Testen und verfeinern Sie Ihre Gewinnspiele. Gehen Sie zu den Preisausschreiben auf Ihrer Webseite und melden Sie sich mit Testinformationen an. Notieren Sie sich alles, was Sie bezüglich des Benutzererlebnisses ändern möchten.
+   >Testen und verfeinern Sie Ihr Gewinnspiel. Gehen Sie zu den Gewinnspielen auf Ihrer Webseite und melden Sie sich mit Testinformationen an. Notieren Sie sich alles, was Sie über das Benutzererlebnis ändern möchten.
 
    >[!NOTE]
    >
-   >Sobald sich Beginn angemeldet haben, denken Sie daran, zur App zurückzukehren, um [die Gewinner des Gewinnspiels](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md) auszuwählen!
+   >Sobald sich Benutzer angemeldet haben, müssen Sie zur App zurückkehren, um [die Gewinner auswählen](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!

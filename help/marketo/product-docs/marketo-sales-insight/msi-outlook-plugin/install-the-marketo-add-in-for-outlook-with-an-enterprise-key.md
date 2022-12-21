@@ -1,42 +1,41 @@
 ---
 unique-page-id: 11377488
-description: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel - Marketing Docs - Produktdokumentation
-title: Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Installieren Sie das Marketo-Add-in für Outlook mit einem Unternehmensschlüssel - Marketo Docs - Produktdokumentation
+title: Installieren des Marketo-Add-ins für Outlook mit einem Unternehmensschlüssel
+exl-id: a44780d6-a360-4536-8913-31429cc32f65
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
+# Installieren des Marketo-Add-ins für Outlook mit einem Unternehmensschlüssel {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-# Installieren Sie das Hinzufügen für Outlook mit einem Unternehmensschlüssel {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
-
-Vertriebsmitarbeiter verfügen oft nicht über Administratorrechte auf ihren Laptops, und ihre IT-Teams sind für die Ferninstallation der Software verantwortlich. Das Marketing Hinzufügen-in für Outlook kann auf diese Weise mit Ihrem Enterprise-Schlüssel installiert werden, der im Abschnitt Sales Insight von Admin zu finden ist.
+In vielen Fällen verfügen Vertriebsmitarbeiter nicht über Administratorrechte auf ihren Laptops, und ihre IT-Teams sind für die Installation aller Software remote verantwortlich. Das Marketo-Add-in für Outlook kann auf diese Weise mit Ihrem Unternehmensschlüssel installiert werden, der im Abschnitt &quot;Sales Insight&quot;von Admin zu finden ist.
 
 >[!PREREQUISITES]
 >
->Der Administrator muss über [eine Marketing E-Mail-Hinzufügen-In-Lizenz ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) verfügen.
+>Der Administrator muss über [hat eine Marketo Email Add-In-Lizenz ausgestellt](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
->Wenn die Schaltfläche &quot;Enterprise-Schlüssel&quot;nicht angezeigt wird, wenden Sie sich an [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support), um sie zu aktivieren.
+>Wenn die Schaltfläche &quot;Enterprise Key anzeigen&quot;nicht angezeigt wird, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) , um sie zu aktivieren.
 
-1. Klicken Sie in &quot;My Marketo&quot;auf **Admin** und dann **Sales Insight**.
+1. Klicken Sie in My Marketo auf **Admin** und dann **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. Klicken Sie auf die Registerkarte **E-Mail-Hinzufügen-In**.
+1. Klicken Sie auf **E-Mail-Add-In** Registerkarte.
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. Klicken Sie auf **Ansicht Enterprise Key**.
+1. Klicken **Unternehmensschlüssel anzeigen**.
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Kopieren Sie den Outlook Enterprise-Lizenzschlüssel und fügen Sie ihn zusammen mit [diesem Link](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md) in eine E-Mail ein und senden Sie ihn zur Remote-Installation an Ihre IT-Abteilung.
+1. Kopieren Sie den Outlook Enterprise License Key und fügen Sie ihn in eine E-Mail ein. [dieser Link](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)und senden Sie es zur Remote-Installation an Ihre IT-Abteilung.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   Das ist alles! Als Nächstes durchläuft der Vertriebsmitarbeiter den Registrierungsprozess [](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
+   Das ist alles! Als Nächstes durchläuft der Vertriebsmitarbeiter die [Registrierungsverfahren](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).

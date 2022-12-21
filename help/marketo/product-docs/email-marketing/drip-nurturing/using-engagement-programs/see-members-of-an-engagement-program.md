@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359861
-description: Siehe Mitglieder eines Programms zur Interaktion - Marketing Docs - Produktdokumentation
-title: Siehe Mitglieder eines Interaktions-Programms
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Siehe Mitglieder eines Interaktionsprogramms - Marketo-Dokumente - Produktdokumentation
+title: Siehe Mitglieder eines Interaktionsprogramms
+exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
+# Siehe Mitglieder eines Interaktionsprogramms {#see-members-of-an-engagement-program}
 
-# Siehe Mitglieder eines Interaktionsmediums {#see-members-of-an-engagement-program}
+Sie können schnell die Mitglieder eines Interaktionsprogramms sehen. So geht es.
 
-Sie können schnell die Mitglieder eines Interaktions-Programms sehen. So geht es.
-
-1. Klicken Sie im Programm Interaktion mit der rechten Maustaste und wählen Sie **Ansichten-Mitglieder**.
+1. Klicken Sie in Ihrem Interaktionsprogramm mit der rechten Maustaste und wählen Sie **Mitglieder anzeigen**.
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >Der Spaltenwert [Abgelaufener Inhalt](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) wird nach jeder Besetzung aktualisiert.
+   >Die  [Abgelaufener Inhalt](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) -Spaltenwert wird nach jeder Wiedergabe aktualisiert.
 
 1. Sie können nun alle Mitglieder Ihres Programms sehen.
 

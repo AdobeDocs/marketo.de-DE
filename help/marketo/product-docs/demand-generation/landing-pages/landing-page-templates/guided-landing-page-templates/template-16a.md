@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vorlage 16A {#template-16a}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 16A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html) herunterladen
+Rechtsklick auf [Download-Vorlage 16A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)
 
 ![](assets/image2015-8-14-10-3a19-3a21.png)
 

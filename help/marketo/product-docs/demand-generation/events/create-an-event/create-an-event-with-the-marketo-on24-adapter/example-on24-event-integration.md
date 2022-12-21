@@ -62,7 +62,7 @@ Hier finden Sie ein Beispielereignis mit Kampagnen für ein ON24-Webinar. Stelle
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
-* **Fluss**
+* **Flow**
 
    * **Änderungsstatus in Progression** - Auf Webinar > Registriert einstellen. **VORSICHT**: Dieser Flussschritt ist beim Einrichten Ihrer untergeordneten Kampagne erforderlich. Wenn sich der Fortschritt einer Person in **Angemeldet**&#x200B;überträgt Marketo die Registrierungsinformationen an ON24.
 

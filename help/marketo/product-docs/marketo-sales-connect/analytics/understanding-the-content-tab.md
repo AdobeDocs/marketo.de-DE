@@ -1,32 +1,31 @@
 ---
 unique-page-id: 14352615
-description: Registerkarte "Inhalt"- "Marketing-Dokumente - Produktdokumentation"
-title: Registerkarte "Inhalt"
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+description: Registerkarte "Inhalt"- Marketo-Dokumente - Produktdokumentation
+title: Die Registerkarte "Inhalt"
+exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
+# Die Registerkarte &quot;Inhalt&quot; {#understanding-the-content-tab}
 
-# Registerkarte &quot;Inhalt&quot; {#understanding-the-content-tab}
+Auf der Registerkarte Inhalt wird die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage beschrieben. Wir tauchen automatisch drei Metriken auf, die wir für wichtig halten.
 
-Auf der Registerkarte &quot;Inhalt&quot;wird der E-Mail-Einsatz Ihres Teams bei der Verwendung einer Vorlage beschrieben. Wir blasen automatisch drei Metriken auf, die wir für wichtig halten.
+## Geheime Waffe {#secret-weapon}
 
-## Geheimwaffe {#secret-weapon}
-
-Dies ist eine E-Mail-Vorlage, die noch nicht für das Team freigegeben wurde, aber eine hohe Interaktion erhält. Wir zeigen Ihnen die Vorlage Betreff Linie und den Ersteller der Vorlage. Dies ist eine großartige Gelegenheit, sich mit diesem Rep in Verbindung zu setzen und ihm zu empfehlen, die Vorlage zu teilen!
+Dies ist eine E-Mail-Vorlage, die noch nicht für das Team freigegeben wurde, aber eine hohe Interaktionsrate erzielt. Wir zeigen Ihnen die Betreffzeile der Vorlage und den Ersteller der Vorlage. Dies ist eine großartige Gelegenheit, sich an diesen Ansprechpartner zu wenden und ihm zu empfehlen, die Vorlage zu teilen!
 
 ## Höchste Interaktion {#highest-engagement}
 
-Dies ist die freigegebene Vorlage, die die höchste Interaktionsstufe in allen Bereichen erreicht.
+Dies ist die freigegebene Vorlage, die die höchste Interaktionsstufe auf allen Ebenen erreicht.
 
 ## Niedrigste Interaktion {#lowest-engagement}
 
-Kann freigegeben oder nicht freigegeben werden, ist dies die Vorlage mit der geringsten Interaktion.
+Kann freigegeben oder nicht freigegeben werden. Dies ist die Vorlage mit der geringsten Interaktion.
 
-Blättern Sie auf der Seite nach unten, um den Abschnitt &quot;Vorlagen&quot;anzuzeigen, in dem alle Vorlagen angezeigt werden, die Ihr Team (in diesem Zeitraum) mit den meisten Ansichten verwendet hat*.*
+Scrollen Sie auf der Seite nach unten, um den Abschnitt &quot;Vorlagen&quot;zu sehen, in dem alle Vorlagen angezeigt werden, die Ihr Team verwendet hat (in diesem Zeitraum), mit den meisten Ansichten*.*
 
-Sie können auch die Top-Anlagen sehen, die Ihr Team gesendet hat (mit den meisten Ansichten), sowie die Top-Links (mit den meisten Klicks).
+Sie können auch die Top-Anhänge sehen, die Ihr Team gesendet hat (die meisten Ansichten erhalten), sowie die Top-Links (die meisten Klicks erhalten).

@@ -1,23 +1,22 @@
 ---
 unique-page-id: 12980873
-description: Performance Insight - Schnelldiagramme - Marketing Docs - Produktdokumentation
-title: Leistungseinblicke - Schnelldiagramme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Schnelldiagramme für Leistungseinblicke - Marketo-Dokumente - Produktdokumentation
+title: Schnelldiagramme zu Leistungseinblicken
+exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
+# Schnelldiagramme zu Leistungseinblicken {#performance-insights-quick-charts}
 
-# Performance Insights Quick Charts {#performance-insights-quick-charts}
+Schnelldiagramme sind Miniaturansichten, die Sie anpassen und speichern, um eine schnelle Ansicht der Diagramme zu ermöglichen, die Sie am häufigsten verwenden.
 
-Quick Charts sind Miniaturansichten, die Sie anpassen und speichern, und bieten eine schnelle Ansicht von Diagrammen, die Sie am häufigsten verwenden.
+## Erstellen eines neuen Schnelldiagramms {#create-a-new-quick-chart}
 
-## Erstellen eines neuen Kurzdiagramms {#create-a-new-quick-chart}
-
-Schnelldiagramme werden aus den von Ihnen angegebenen Daten abgeleitet. In diesem Beispiel wählen wir: **Neue Möglichkeiten (First Touch), Opportunitätstyp = neues Geschäft, aktuelles Jahr-zu-aktuell**.
+Schnelldiagramme leiten sich von den von Ihnen angegebenen Daten ab. In diesem Beispiel wählen wir Folgendes: **neue Möglichkeiten (Erstkontakt), Opportunity type = neues Geschäft, aktuelles Jahr-zu-Datum**.
 
 1. Klicken Sie auf den Datumsfilter und wählen Sie **Aktuelles Jahr (YTD)**.
 
@@ -31,40 +30,40 @@ Schnelldiagramme werden aus den von Ihnen angegebenen Daten abgeleitet. In diese
 
    ![](assets/3-3.png)
 
-1. Klicken Sie auf das Symbol &quot;Exportieren&quot;und wählen Sie **Als Quick Chart** speichern.
+1. Klicken Sie auf das Symbol Exportieren und wählen Sie **Als Schnelldiagramm speichern**.
 
    ![](assets/4-2.png)
 
-1. Benennen Sie Ihr Quick Chart und klicken Sie auf **Speichern**.
+1. Benennen Sie Ihr Schnelldiagramm und klicken Sie auf **Speichern**.
 
    ![](assets/5-3.png)
 
-Ihr Quick Chart ist jetzt mit den anderen zusammen.
+Ihr Schnelldiagramm ist jetzt mit den anderen verfügbar.
 
 ![](assets/6-3.png)
 
 >[!NOTE]
 >
->Sie können bis zu 20 Quick Charts haben. Sie können gelöscht und ersetzt werden.
+>Sie können bis zu 20 Schnelldiagramme haben. Sie können gelöscht und ersetzt werden.
 
-## Ansicht vorhandene Quick Charts {#view-existing-quick-charts}
+## Vorhandene Schnelldiagramme anzeigen {#view-existing-quick-charts}
 
-1. Um Ihre vorhandenen Quick Charts Ansicht, klicken Sie einfach auf das Symbol **Quick Charts**.
+1. Um Ihre vorhandenen Schnelldiagramme anzuzeigen, klicken Sie einfach auf **Schnelldiagramme** Symbol.
 
    ![](assets/7-1.png)
 
-## Schnelldiagramm {#delete-a-quick-chart} löschen
+## Schnelldiagramm löschen {#delete-a-quick-chart}
 
-Gehen Sie wie folgt vor, wenn Sie eine Kurzübersicht löschen müssen.
+Wenn Sie ein Schnelldiagramm löschen müssen, führen Sie die folgenden einfachen Schritte aus.
 
-1. Klicken Sie auf das Symbol **Schnelldiagramme**.
+1. Klicken Sie auf **Schnelldiagramme** Symbol.
 
    ![](assets/8-1.png)
 
-1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, aber klicken Sie nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf **X**.
+1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, klicken Sie jedoch nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf **X**.
 
    ![](assets/9-2.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken **Löschen**.
 
    ![](assets/10-1.png)

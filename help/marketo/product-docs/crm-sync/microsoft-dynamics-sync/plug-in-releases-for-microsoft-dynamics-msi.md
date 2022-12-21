@@ -63,52 +63,52 @@ Und das ist es! Nach dem Upgrade wird nur eine MSI-Lösung angezeigt.
    <th colspan="1">Hinweise</th> 
   </tr> 
   <tr> 
-   <td colspan="1">03.02.22</td> 
+   <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
    <td colspan="1">Kontolayout für Insights: Interessante Momente, Bewertungsänderungen, Web-Aktivitäten, E-Mail-Aktivitäten</td> 
   </tr>
   <tr> 
-   <td colspan="1">05.01.22</td> 
+   <td colspan="1">01/05/22</td> 
    <td colspan="1">2.0.0.26</td> 
    <td colspan="1">Programm-Adoptionsbewertung für E-Mail senden</td> 
   </tr>
   <tr> 
-   <td colspan="1">28.10.21</td> 
+   <td colspan="1">10/28/21</td> 
    <td colspan="1">2.0.0.25</td> 
    <td colspan="1">Metriken zur Produktakzeptanz, neues globales Dashboard (Web-Aktivität, E-Mail, Best-Bets)</td> 
   </tr>
   <tr> 
-   <td colspan="1">10.02.21</td> 
+   <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
    <td colspan="1">Entfernen Sie die automatische Prüfung aktiviert und Dokumentationsänderungen an der MSI-Lösung</td> 
   </tr>
   <tr> 
-   <td colspan="1">01.10.20</td> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Fehlerbehebung: Zuweisen des Zugriffs auf MSI API-Konfigurationsfelder für Benutzer mit der Rolle "Sales Insight"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">20.07.20</td> 
+   <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Fehlerbehebung: Überprüfungsmeldung für nicht synchronisierte Datensätze hinzufügen</td> 
   </tr> 
   <tr> 
-   <td colspan="1">12.06.20</td> 
+   <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
    <td colspan="1">Fehlerbehebung: So blenden Sie das geheime MSI-Kennwort bei der MSD-API-Konfiguration aus</td> 
   </tr> 
   <tr> 
-   <td colspan="1">26.05.20</td> 
+   <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1">Fehlerbehebung: So ändern Sie die Validierung der MSI-Rollen-ID für die Anzeige von MSI-Schaltflächen</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21.05.20</td> 
+   <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1">Fehlerbehebung: Einblenden des Eigentümerfelds und Nicht-Pflichtfelder</td> 
   </tr> 
   <tr> 
-   <td colspan="1">28.04.20</td> 
+   <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1">Fehlerbehebung: Entfernung der MSD CRM-Sitemap-Einstellung der Link-Abhängigkeit</td> 
   </tr> 

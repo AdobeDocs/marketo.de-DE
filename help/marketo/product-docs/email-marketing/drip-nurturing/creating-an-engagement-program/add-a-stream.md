@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2359787
-description: hinzufügen eines Streams - Marketing Docs - Produktdokumentation
-title: hinzufügen eines Streams
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Hinzufügen eines Streams - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen eines Streams
+exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
+# Hinzufügen eines Streams {#add-a-stream}
 
-# hinzufügen eines Streams {#add-a-stream}
+Interaktionsprogramme können mehrere Streams enthalten. Hier erfahren Sie, wie Sie einen neuen hinzufügen.
 
-Interaktions-Programm können mehrere Streams enthalten. Hier ist, wie man ein neues hinzufügt.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Interaktions-Programm aus und klicken Sie auf die Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Streams** Registerkarte.
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Klicken Sie auf **Hinzufügen Stream**.
+1. Klicken **Stream hinzufügen**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 
    >[!NOTE]
    >
-   >Sie können bis zu 25 Streams pro Interaktions-Programm hinzufügen.
+   >Sie können bis zu 25 Streams pro Interaktionsprogramm hinzufügen.
 
    Und... fertig!
 

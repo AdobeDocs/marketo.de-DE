@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949216
-description: SEO - Hinzufügen - Marketo Docs - Produktdokumentation
-title: SEO - Hinzufügen
+description: SEO - Seiten hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: SEO - Seiten hinzufügen
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
@@ -11,28 +10,28 @@ ht-degree: 0%
 
 ---
 
-# SEO - Hinzufügen Seiten {#seo-add-pages}
+# SEO - Seiten hinzufügen {#seo-add-pages}
 
-Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. Falls wir ein paar verpasst haben, holen Sie sie in der SEO-App wie folgt ab:
+Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. Falls wir ein paar verpasst haben, rufen Sie sie in die SEO-App wie folgt ab:
 
-1. Gehen Sie zum Abschnitt **Seiten**.
+1. Navigieren Sie zu **Seiten** Abschnitt.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klicken Sie auf **Hinzufügen Seiten**.
+1. Klicken **Seiten hinzufügen**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken Sie auf **Hinzufügen**.
+1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken **Hinzufügen**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie [Ihre Seite einer neuen oder vorhandenen Liste](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hinzufügen können? Schau es dir an!
+   >Wussten Sie, dass Sie [Seite einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Schau es dir an!
 
-   Es kann einen Moment dauern, bis die Daten Ihrer Seite geladen werden. Warten Sie, bis die grüne Warnmeldung angezeigt wird, und aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
+   Es kann einen Moment dauern, bis Ihre Seitendaten geladen werden. Warten Sie auf die grüne Warnmeldung und aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
 
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   Sie können nun verfolgen, wie diese Seite bei der Suche funktioniert.
+   Sie können jetzt verfolgen, wie diese Seite bei der Suche funktioniert.

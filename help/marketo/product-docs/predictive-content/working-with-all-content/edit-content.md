@@ -1,32 +1,31 @@
 ---
 unique-page-id: 11384653
-description: Inhalt bearbeiten - Marketing-Dokumente - Produktdokumentation
+description: Inhalt bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Inhalt bearbeiten
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Inhalt bearbeiten {#edit-content}
 
-Sie können Listen auf der Seite &quot;Alle Inhalte&quot;bearbeiten.
+Sie können einige Änderungen an Listen auf der Seite &quot;Alle Inhalte&quot;vornehmen.
 
-1. Bewegen Sie den Mauszeiger auf der Seite **Alle Inhalte** über die Zeile des Titels, den Sie bearbeiten möchten, und klicken Sie auf das Symbol Bearbeiten.
+1. Im **Alle Inhalte** -Seite, bewegen Sie den Mauszeiger über die Zeile des Titels, den Sie bearbeiten möchten, und klicken Sie auf das Bearbeitungssymbol.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
-1. Nehmen Sie Änderungen am Inhaltstitel und an der Inhalts-URL vor (das Kontrollkästchen &quot;Parameter für die Abfrage&quot;ist optional).
+1. Nehmen Sie Änderungen an den Inhaltstiteln und an der Inhalts-URL vor (das Kontrollkästchen für Abfrageparameter ist optional).
 
    ![](assets/edit-content-2.png)
 
-1. Klicken Sie auf das Feld **Kategorien**, um Kategorien hinzuzufügen/zu entfernen. Wählen Sie neue aus der Dropdownliste aus. Sie können eine aktuell ausgewählte Kategorie entfernen, indem Sie auf **X** klicken.
+1. Klicken Sie auf **Kategorien** -Feld zum Hinzufügen/Entfernen von Kategorien. Wählen Sie neue aus der Dropdown-Liste aus. Sie können eine aktuell ausgewählte Kategorie entfernen, indem Sie auf ihre **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Markieren Sie das Kontrollkästchen **Genehmigen für Prognostischen Inhalt**, um die Genehmigung zu genehmigen, oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicken Sie abschließend auf **Speichern**.
+1. Überprüfen Sie die **Für prädiktiven Inhalt genehmigen** aktivieren oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicken **Speichern** wann geschehen.
 
    ![](assets/edit-content-4.png)

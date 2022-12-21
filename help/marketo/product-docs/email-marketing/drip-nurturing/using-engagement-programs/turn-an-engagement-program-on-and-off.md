@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359856
-description: Interaktions-Programm aktivieren und deaktivieren - Marketing Docs - Produktdokumentation
-title: Interaktions-Programm aktivieren und deaktivieren
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Interaktionsprogramm aktivieren und deaktivieren - Marketo-Dokumente - Produktdokumentation
+title: Ein- und Ausschalten eines Interaktionsprogramms
+exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
+# Ein- und Ausschalten eines Interaktionsprogramms {#turn-an-engagement-program-on-and-off}
 
-# Interaktives Programm ein- und ausschalten {#turn-an-engagement-program-on-and-off}
+Sie können ein Interaktionsprogramm mit einem Schalter deaktivieren. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht es.
 
-Sie können ein Interaktions-Programm mit einem Schalter ausschalten. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht es.
-
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie das Interaktions-Programm aus und klicken Sie auf **Setup**.
+1. Wählen Sie das Interaktionsprogramm aus und klicken Sie auf **Einrichtung**.
 
    >[!NOTE]
    >
-   >Interaktions-Programm sind standardmäßig aktiviert, es sei denn, Sie überschreiten die Abonnement-Grenze.
+   >Interaktionsprogramme sind standardmäßig aktiviert, es sei denn, Sie überschreiten die Anmeldegrenze.
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Klicken Sie mit der Dublette auf **Programm Status**.
+1. Doppelklicken **Programmstatus**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Wählen Sie **Aus** und klicken Sie auf **Speichern**.
+1. Auswählen **Aus** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-Los geht&#39;s! Sie können es mit denselben Schritten wieder aktivieren.
+Da bist du! Sie können es mit denselben Schritten wieder aktivieren.

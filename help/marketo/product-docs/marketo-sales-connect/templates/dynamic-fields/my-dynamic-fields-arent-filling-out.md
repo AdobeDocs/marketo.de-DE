@@ -1,41 +1,40 @@
 ---
 unique-page-id: 14352602
-description: Meine dynamischen Felder füllen nicht aus - Marketing Docs - Produktdokumentation
-title: Meine dynamischen Felder sind nicht ausgefüllt
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Meine dynamischen Felder werden nicht ausgefüllt - Marketo Docs - Produktdokumentation
+title: Meine dynamischen Felder werden nicht ausgefüllt
+exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '301'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Meine dynamischen Felder füllen nicht aus {#my-dynamic-fields-arent-filling-out}
+# Meine dynamischen Felder werden nicht ausgefüllt {#my-dynamic-fields-arent-filling-out}
 
 Dynamische Felder funktionieren nur, wenn Sie eine Vorlage verwenden. Einzelne einmalige E-Mails, die Sie schreiben, werden diese nicht ausfüllen.
 
 ## Was zu überprüfen ist {#what-to-check}
 
-Es gibt drei Arten dynamischer Felder in Sales Connect: Basic, Custom und Salesforce. Sowohl Standard als auch Benutzerdefiniert suchen, um Informationen aus der [Webanwendung](https://toutapp.com/login) abzurufen. Wenn die Informationen in der Webanwendung nicht vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen von [Salesforce.com](https://salesforce.com) ab.
+In Sales Connect gibt es drei Typen dynamischer Felder: Basic, Custom und Salesforce. Sowohl die grundlegende als auch die benutzerdefinierte Ansicht verwenden Informationen aus der [Webanwendung](https://toutapp.com/login). Wenn die Informationen nicht in der Webanwendung vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen ab von [Salesforce.com](https://salesforce.com).
 
 **Fehlerbehebung bei Salesforce-Feldern**
 
 Salesforce-Felder: z. B. `{{sfdc_account_name}}`
 
-* Vergewissern Sie sich, dass es ordnungsgemäß mit Sales Connect verbunden ist. Gehen Sie zur Seite [Einstellungen](https://toutapp.com/login) und klicken Sie auf **Verwalten** neben Ihrem CRM.
+* Stellen Sie sicher, dass es ordnungsgemäß mit Sales Connect verbunden ist. Navigieren Sie zu [Einstellungen](https://toutapp.com/login) Seite und klicken Sie auf **Verwalten** neben Ihrem CRM.
 
-**Fehlerbehebung bei einfachen und benutzerdefinierten Feldern**
+**Fehlerbehebung für einfache und benutzerdefinierte Felder**
 
-Tout-Grundfelder: z. B. `{{company}}`
+Tout Basic Fields: z. B. `{{company}}`
 
-Tout Custom Fields: z. B. `{{custom_field_favorite_movie}}`
+Festlegen benutzerdefinierter Felder: z. B. `{{custom_field_favorite_movie}}`
 
-* Das entsprechende Feld muss für Ihren Kontakt auf der Seite [Personen](https://toutapp.com/next#relationships) gespeichert werden, damit unser dynamisches Feld referenziert werden kann. Wenn Sie beispielsweise eine E-Mail an Maria senden und das Feld `{{company}}` verwenden, ihr Kontaktdatensatz jedoch keine Firma Liste, können wir das nicht ausfüllen.
+* Das entsprechende Feld muss für Ihren Kontakt im [Personenseite](https://toutapp.com/next#relationships) für unser dynamisches Feld zu referenzieren. Wenn Sie beispielsweise eine E-Mail an Maria senden und die Variable `{{company}}` -Feld, aber ihr Kontaktdatensatz listet kein Unternehmen auf, wir können das nicht ausfüllen.
 
-## Warum hat meine E-Mail gesendet, ohne alle dynamischen Felder auszufüllen? {#why-did-my-email-send-without-populating-all-dynamic-fields}
+## Warum hat meine E-Mail gesendet, ohne alle dynamischen Felder zu füllen? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Sales Connect verhindert, dass Ihre E-Mails gesendet werden, wenn nicht alle dynamischen Felder in der E-Mail ausgefüllt werden können. **Es gibt jedoch** einige Ausnahmen von dieser Regel. Einige Felder werden leer gesendet oder automatisch mit einem Wert gefüllt, wenn einer gefunden wird. Diese Felder und wie sie reagieren, wenn sie das Feld nicht füllen können, sind unten aufgeführt.
+Sales Connect stoppt den Versand Ihrer E-Mails, wenn nicht alle dynamischen Felder in der E-Mail ausgefüllt werden können. **Jedoch** gibt es einige Ausnahmen von dieser Regel. Einige Felder werden leer gesendet oder automatisch ausgefüllt, wenn ein Wert gefunden werden kann. Diese Felder und wie sie reagieren, wenn sie das Feld nicht ausfüllen können, sind unten aufgeführt.
 
 `{{first_name}}` = BLANK
 
@@ -43,10 +42,10 @@ Sales Connect verhindert, dass Ihre E-Mails gesendet werden, wenn nicht alle dyn
 
 `{{title}}` = BLANK
 
-`{{company}}` = &quot;Ihre Firma&quot;
+`{{company}}` = &quot;Ihr Unternehmen&quot;
 
-`{{friendly_company}}` = &quot;Ihre Firma&quot;
+`{{friendly_company}}` = &quot;Ihr Unternehmen&quot;
 
 >[!NOTE]
 >
->Das Feld `{{first_name}}` sucht sowohl in Sales Connect als auch in Salesforce nach Informationen. Alle anderen Felder in dieser Liste suchen nur in Sales Connect, um das Feld auszufüllen.
+>Die `{{first_name}}` sucht sowohl in Sales Connect als auch in Salesforce nach dem Versuch, Informationen abzurufen. Alle anderen Felder in dieser Liste suchen nur in Sales Connect, um das Feld auszufüllen.

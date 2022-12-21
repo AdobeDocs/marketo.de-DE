@@ -1,9 +1,8 @@
 ---
 unique-page-id: 4719287
-description: Erste Feldzuordnungen bearbeiten - Marketo Docs - Produktdokumentation
-title: Zuordnungen von Anfangsfeldern bearbeiten
+description: Bearbeiten von anfänglichen Feldzuordnungen - Marketo-Dokumente - Produktdokumentation
+title: anfängliche Feldzuordnungen bearbeiten
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
@@ -11,27 +10,27 @@ ht-degree: 0%
 
 ---
 
-# Anfangsfeldzuordnungen bearbeiten {#edit-initial-field-mappings}
+# anfängliche Feldzuordnungen bearbeiten {#edit-initial-field-mappings}
 
 >[!NOTE]
 >
->Diese Funktion steht erst vor der ersten Synchronisierung mit Salesforce zur Verfügung! Sobald die Schaltfläche **Jetzt synchronisieren** gedrückt wurde, kann dies nicht mehr durchgeführt werden.
+>Auf diese Funktion kann nur vor der ersten Synchronisation mit Salesforce zugegriffen werden! Einmal **Jetzt synchronisieren** -Taste gedrückt wird, kann dies nicht mehr durchgeführt werden.
 
-Während der anfänglichen Synchronisierung mit Salesforce kombiniert Marketo automatisch gleichnamige benutzerdefinierte Felder in einem Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten mit Lead- und Contact-Objekten im CRM ausgetauscht werden können. In diesem Artikel wird beschrieben, wie Sie diese Zuordnungen anpassen.
+Bei der ersten Synchronisation mit Salesforce kombiniert Marketo automatisch ähnlich benannte benutzerdefinierte Felder in einem Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten mit Lead- und Kontaktobjekten im CRM ausgetauscht werden können. In diesem Artikel wird erläutert, wie Sie diese Zuordnungen anpassen können.
 
-## Nicht zugeordnete Felder {#map-unmapped-fields} zuordnen
+## Nicht zugeordnete Felder zuordnen {#map-unmapped-fields}
 
-Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bedeutet dies, dass es keinem ähnlichen Feld im Feld &quot;Interessent&quot;oder &quot;Kontakt&quot;in Salesforce zugeordnet ist. Du kannst das reparieren.
+Wenn ein Feld im Ordner Nicht zugeordnete Felder angezeigt wird, bedeutet dies, dass es keinem ähnlichen Feld im Lead oder Kontakt in Salesforce zugeordnet ist. Du kannst das reparieren.
 
-1. Klicken Sie auf **Zuordnungen bearbeiten**.
+1. Klicken **Zuordnungen bearbeiten**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Öffnen Sie den Ordner **Nicht zugeordnete benutzerdefinierte Felder**.
+1. Öffnen Sie die **Nicht zugeordnete benutzerdefinierte Felder** Ordner.
 
    ![](assets/two.png)
 
-1. Ziehen Sie ein nicht zugewiesenes benutzerdefiniertes Feld auf ein anderes, um es miteinander zu verknüpfen.
+1. Ziehen Sie ein nicht zugewiesenes benutzerdefiniertes Feld auf ein anderes, um es einander zuzuordnen.
 
    >[!NOTE]
    >
@@ -39,32 +38,32 @@ Wenn ein Feld im Ordner &quot;Nicht zugeordnete Felder&quot;angezeigt wird, bede
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Zuordnungen abschließen**, wenn Sie fertig sind.
+1. Klicken **Abschließen von Zuordnungen** wenn Sie fertig sind.
 
    ![](assets/four.png)
 
-## Vorhandene Zuordnung umbrechen {#break-existing-mapping}
+## Vorhandene Zuordnung unterbrechen {#break-existing-mapping}
 
-Wenn Sie gleichnamige Felder auf dem Interessenten- und Kontaktobjekt haben, ordnet Marketo sie automatisch zu. Sie können davon ausgehen, dass sie unterschiedlich sind und unterschiedliche Daten enthalten. Unterbrechen Sie die Zuordnung so.
+Wenn Sie ähnlich benannte Felder auf dem Lead und Kontaktobjekt haben, ordnet Marketo sie automatisch zu. Sie können sie als unterschiedlich betrachten und unterschiedliche Daten speichern. Brechen Sie die Zuordnung wie folgt ab.
 
-1. Klicken Sie auf **Zuordnungen bearbeiten**.
+1. Klicken **Zuordnungen bearbeiten**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Markieren Sie ein zugewiesenes Feld und klicken Sie auf **Zuordnung zu Umbrüchen**, um die Felder zu trennen.
+1. Markieren Sie ein zugeordnetes Feld und klicken Sie auf **Break Mapping** , um die Felder zu trennen.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Klicken Sie auf **Zuordnungen abschließen**, wenn Sie fertig sind.
+1. Klicken **Abschließen von Zuordnungen** wenn Sie fertig sind.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Schön! Sie sind fast mit der anfänglichen Synchronisierung fertig.
+   Gut! Sie sind fast mit der ersten Synchronisierung fertig.
 
 ## Schema zurücksetzen {#reset-schema}
 
-1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen ziehen, indem Sie auf **Schema zurücksetzen** klicken.
+1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen abrufen, indem Sie auf **Schema zurücksetzen**.
 
-   * Alle Zuordnungsänderungen werden zurückgesetzt!
-   * Durch Zurücksetzen des Schemas werden nur Felder hinzugefügt, nicht jedoch entfernt (auch wenn Sie sie vom Synchronisierungsbenutzer ausblenden).
+   * Alle Änderungen der Zuordnung werden zurückgesetzt!
+   * Durch das Zurücksetzen des Schemas werden nur Felder hinzugefügt, nicht entfernt (auch wenn Sie sie für den Synchronisierungsbenutzer ausblenden).
    ![](assets/image2014-12-9-13-3a32-3a8.png)

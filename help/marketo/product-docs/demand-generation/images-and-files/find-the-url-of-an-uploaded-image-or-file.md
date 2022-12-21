@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2359870
-description: Suchen Sie die URL eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketing Docs - Produktdokumentation
+description: Suchen Sie die URL eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketo Docs - Produktdokumentation
 title: Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
+# Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei {#find-the-url-of-an-uploaded-image-or-file}
 
-# Suchen der URL eines hochgeladenen Bildes oder einer Datei {#find-the-url-of-an-uploaded-image-or-file}
+Suchen Sie die Webadresse (URL) eines hochgeladenen Bildes oder einer hochgeladenen Datei? Marketo hat dich bedeckt.
 
-Suchen Sie die Internetadresse (URL) eines hochgeladenen Bildes oder einer hochgeladenen Datei? Marketo hat dich bedeckt.
-
-1. Wechseln Sie zu **Design Studio**.
+1. Navigieren Sie zu **Design Studio**.
 
    ![](assets/designstudio-4.png)
 
-1. Klicken Sie im linken Menü auf **Bilder und Dateien** und wählen Sie dann die Datei aus, für die Sie die URL verwenden möchten.
+1. Klicken **Bilder und Dateien** im linken Menü und wählen Sie dann die Datei aus, für die Sie die URL verwenden möchten.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. Die **URL** wird auf der Detailseite angezeigt. Klicken Sie mit der rechten Maustaste auf **URL** und klicken Sie im angezeigten Menü auf **Kopieren**.
+1. Die **URL** wird auf der Detailseite angezeigt. Klicken Sie mit der rechten Maustaste auf die **URL** und klicken Sie auf **Kopieren** im angezeigten Menü.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
-Geben Sie sich einen Pat auf den Rücken für eine Arbeit gut gemacht!
+Gönnen Sie sich einen Rücken für eine gute Arbeit!
 
 >[!MORELIKETHIS]
 >
->[Hochgeladene Bilder oder Dateien ersetzen](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)

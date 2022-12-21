@@ -85,7 +85,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>MailingState</td>
-      <td>Bundesland</td>
+      <td>Zustand</td>
     </tr>
     <tr>
       <td>MailingStreet</td>
@@ -162,7 +162,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>Kontoname</td>
-      <td>Untern.-name</td>
+      <td>Firmenname</td>
     </tr>
     <tr>
       <td>Mitarbeiter</td>
@@ -186,7 +186,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>Website</td>
-      <td>Webseite</td>
+      <td>Website</td>
     </tr>
   </tbody>
 </table>

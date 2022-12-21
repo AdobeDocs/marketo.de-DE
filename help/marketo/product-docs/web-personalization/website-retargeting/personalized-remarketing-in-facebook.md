@@ -1,43 +1,42 @@
 ---
 unique-page-id: 4720917
-description: Personalisierte Remarketing in Facebook - Marketing Docs - Produktdokumentation
-title: Personalisierte Remarketing in Facebook
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Personalisiertes Remarketing in Facebook - Marketo-Dokumente - Produktdokumentation
+title: Personalisiertes Remarketing in Facebook
+exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# Personalisiertes Remarketing in Facebook {#personalized-remarketing-in-facebook}
 
-# Personalisierte Remarketing in Facebook {#personalized-remarketing-in-facebook}
-
-Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leistungsfähigkeit von Facebook Remarketing wieder mit Ihren Benutzern interagieren.
+Mit personalisiertem Remarketing können Sie mit RTP-Daten und der Leistungsfähigkeit von Facebook Remarketing erneut mit Ihren Benutzern interagieren.
 
 >[!PREREQUISITES]
 >
->* Führen Sie das Setup für [Retargeting mit Web-Personalisierungsdaten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) durch
->* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerspezifischen Audiencen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
+>* Führen Sie die [Retargeting mit Web-Personalisierungsdaten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Setup
+>* Überprüfen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
 
 
-## Erstellen einer Audience in Facebook {#creating-an-audience-in-facebook}
+## Erstellen einer Zielgruppe in Facebook {#creating-an-audience-in-facebook}
 
-1. Gehen Sie in Facebook im Anzeigen-Manager zu Ihrer Registerkarte [Audience](https://www.facebook.com/ads/audience_manager).
+1. Navigieren Sie in Facebook zu Ihrem [Registerkarte &quot;Zielgruppe&quot;](https://www.facebook.com/ads/audience_manager) im Anzeigen-Manager.
 
-1. Klicken Sie auf **Tools** und wählen Sie **Audiencen**.
+1. Klicken **Instrumente** und wählen Sie **Zielgruppen**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Benutzerspezifische Audience erstellen**.
+1. Klicken **Erstellen einer benutzerdefinierten Zielgruppe**.
 
    ![](assets/two-1.png)
 
-1. Wählen Sie **Website-Traffic**.
+1. Auswählen **Website-Traffic**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Wählen Sie in der Liste Website-Traffic **Benutzerdefinierte Kombination**.
+1. Wählen Sie in der Liste Website-Traffic die Option **Benutzerdefinierte Kombination**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -45,15 +44,15 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Wählen Sie in der Liste Ereignis **RTP Remarketing** und wählen Sie einen Parameter aus.
+1. Wählen Sie in der Liste &quot;Ereignis&quot;die Option **RTP Remarketing** und wählen Sie einen Parameter aus.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Wählen Sie in diesem Beispiel &quot;Branche&quot;aus, um **Bildung** zu enthalten. Geben Sie **Bildung** ein und bearbeiten Sie **In der letzten** auf 180 Tage. Audience eingeben: **Bildungsbranche**. Klicken Sie auf **Audience erstellen**.
+1. Wählen Sie für dieses Beispiel Branche aus, die enthalten sein soll **Bildungswesen**. Eingabe **Bildungswesen** und bearbeiten **Im letzten** auf 180 Tage. Zielgruppenname eingeben: **Bildungswesen**. Klicken **Zielgruppe erstellen**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. Sie haben jetzt eine neue benutzerspezifische Audience mit RTP-Daten in Facebook erstellt.
+1. Sie haben jetzt eine neue benutzerdefinierte Zielgruppe mit RTP-Daten in Facebook erstellt.
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
@@ -62,7 +61,7 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
 <table> 
  <tbody> 
   <tr> 
-   <th>Name des Ereignisses</th> 
+   <th>Veranstaltungsname</th> 
    <th> </th> 
   </tr> 
   <tr> 
@@ -73,11 +72,11 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
       <tbody> 
        <tr> 
         <th>Parameter</th> 
-        <th>Wert</th> 
+        <th>Wert </th> 
        </tr> 
        <tr> 
         <td>ABM-Liste</td> 
-        <td>(Name der kontogestützten Liste)</td> 
+        <td>(Name der kontobasierten Liste)</td> 
        </tr> 
        <tr> 
         <td colspan="1">Kategorie</td> 
@@ -85,15 +84,15 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
        </tr> 
        <tr> 
         <td colspan="1">Gruppe</td> 
-        <td colspan="1"><p>Unternehmen</p><p>SMB</p></td> 
+        <td colspan="1"><p>Konzern</p><p>KMU</p></td> 
        </tr> 
        <tr> 
         <td>Branche</td> 
-        <td><p>Verteidigung</p><p>Bildungswesen</p><p>Finanzdienstleistungen</p><p>Regierung</p><p>Gesundheitswesen, Pharma, Biotech</p><p>Software und Internet</p><p>etc... (gemäß RTP Industry Options)</p></td> 
+        <td><p>Verteidigung</p><p>Aus- und Weiterbildung</p><p>Finanzdienstleistungen</p><p>Regierung</p><p>Gesundheitswesen, Pharma, Biotech</p><p>Software und Internet</p><p>etc.. (gemäß RTP Industry Options)</p></td> 
        </tr> 
        <tr> 
-        <td colspan="1">Segmentierte Audience</td> 
-        <td colspan="1">(Name der segmentierten Audience, die in RTP erstellt wurde)</td> 
+        <td colspan="1">Segmentierte Zielgruppe</td> 
+        <td colspan="1">(Name der in RTP erstellten segmentierten Zielgruppe)</td> 
        </tr> 
       </tbody> 
      </table> 
@@ -102,15 +101,15 @@ Mit personalisierter Remarketing können Sie mithilfe von RTP-Daten und der Leis
  </tbody> 
 </table>
 
-## Zielgruppe Ihrer Audience mit einer Anzeige {#target-your-audience-with-an-ad}
+## Targeting Ihrer Zielgruppe mit einer Anzeige {#target-your-audience-with-an-ad}
 
-Weitere Informationen finden Sie in der Facebook-Dokumentation](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).[
+Weitere Informationen finden Sie unter [Dokumentation zu facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Gehen Sie zum Anzeigen-Manager und klicken Sie auf **Werbeanzeige erstellen**.
+1. Wechseln Sie zum Anzeigen-Manager, klicken Sie auf **Werbeanzeige erstellen**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Wählen Sie **Personen zu Ihrer Website** als Ziel Ihrer Kampagne senden.
+1. Auswählen **Personen auf Ihre Website schicken** als Ziel Ihrer Kampagne.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -118,18 +117,18 @@ Weitere Informationen finden Sie in der Facebook-Dokumentation](https://develope
 
    ![](assets/image2015-1-19-17-3a12-3a39.png)
 
-1. Erstellen Sie Ihren Anzeigensatz. Wählen Sie eine benutzerdefinierte Audience aus der Liste der von Ihnen erstellten Audiencen, z. B. Bildungsbranche.
+1. Erstellen Sie Ihr Anzeigenset. Wählen Sie eine benutzerdefinierte Zielgruppe aus der Liste der von Ihnen erstellten Zielgruppen aus, z. B. die Bildungsbranche.
 
    ![](assets/image2015-1-19-17-3a18-3a13.png)
 
-1. Wählen Sie alle anderen Anzeigensatzoptionen aus, legen Sie Ihr Budget fest und definieren Sie Ihre Anzeigenkreativen.
+1. Wählen Sie alle anderen Anzeigenset-Optionen aus, legen Sie Ihr Budget fest und definieren Sie Ihre Anzeigenmotive.
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. Sie sind jetzt alle mit einer personalisierten Remarketing-Kampagne in Facebook eingerichtet.
+1. Sie sind nun mit einer personalisierten Remarketing-Kampagne in Facebook eingerichtet.
 
 >[!MORELIKETHIS]
 >
 >* [Retargeting mit Web-Personalisierungsdaten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [Personalisierte Remarketing in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [Personalisiertes Remarketing in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 

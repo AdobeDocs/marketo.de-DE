@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359637
-description: Löschen eines Formulars - Marketing-Dokumente - Produktdokumentation
+description: Löschen eines Formulars - Marketo-Dokumente - Produktdokumentation
 title: Löschen eines Formulars
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
 # Löschen eines Formulars {#delete-a-form}
 
-Wenn Sie ein Formular haben, das Sie nicht benötigen und nicht verwendet werden, können Sie es löschen. So geht es.
+Wenn Sie über ein Formular verfügen, das Sie nicht benötigen und das nicht verwendet wird, können Sie es löschen. So geht es.
 
-1. Gehen Sie zu **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,22 +22,22 @@ Wenn Sie ein Formular haben, das Sie nicht benötigen und nicht verwendet werden
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Klicken Sie unter **Formularaktionen** auf **Formular** löschen.
+1. under **Formularaktionen** klicken **Formular löschen**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
    >[!NOTE]
    >
-   >Denken Sie daran, das Formular aus allen Landingpages zu entfernen, die es verwenden. Vergewissern Sie sich auch, dass das Formular nicht auf einer öffentlichen Website verwendet wird.
+   >Denken Sie daran, das Formular aus allen Landingpages zu entfernen, die es verwenden. Vergewissern Sie sich außerdem, dass das Formular nicht auf einer öffentlichen Website verwendet wird.
 
-1. Bestätigen Sie dies, indem Sie auf **Löschen** klicken.
+1. Bestätigen durch Klicken auf **Löschen**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
-1. Wenn das Formular auf einer Marketing-Landingpage verwendet wird, ist es nicht zulässig, es zu löschen. Man muss es aus allen Landingpages entfernen, auf denen es lebt.
+1. Wenn das Formular auf einer Marketo-Landingpage verwendet wird, darf es nicht gelöscht werden. Sie müssen sie von allen Landingpages entfernen, auf denen sie sich befindet.
 
    ![](assets/image2014-9-15-12-3a1-3a44.png)
 
 >[!CAUTION]
 >
->Wenn Sie ein Formular löschen, das von Ihrer öffentlichen Website verwendet wird, wird keine Warnung angezeigt und das Formular wird beschädigt. Erwägen Sie stattdessen die Archivierung von [a](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
+>Wenn Sie ein Formular löschen, das von Ihrer öffentlichen Website verwendet wird, wird keine Warnung angezeigt und das Formular wird beschädigt. Überlegen  [Archivieren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) anstatt.

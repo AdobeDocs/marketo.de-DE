@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2953136
-description: Attribution - Marketing Docs - Produktdokumentation
-title: Zuordnung verstehen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Grundlegendes zur Attribution - Marketo Docs - Produktdokumentation
+title: Grundlegendes zur Attribution
+exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
+# Grundlegendes zur Attribution {#understanding-attribution}
 
-# Die Zuordnung {#understanding-attribution}
+## Was ist Attribution? {#what-is-attribution}
 
-## Was ist Zuordnung? {#what-is-attribution}
+Bei der Attribution werden Marketo Programme gutgeschrieben, die dazu beitragen, Umsatz und Chancen zu beeinflussen. Wenn Sie den Marketo-Modeler verwenden, kann die Attribution auch dafür verantwortlich sein, jemanden in Ihrem Geschäftsmodell voranzubringen.
 
-Die Zuordnung ist die Art und Weise, wie Marketo den Programmen, die helfen, Umsatz und Chancen zu beeinflussen, Anerkennung zollt. Wenn Sie den Marketo-Modellierer verwenden, kann die Zuordnung auch dafür verantwortlich sein, jemanden in Ihrem Geschäftsmodell voranzubringen.
+## Warum sollten Sie das im Auge behalten? {#why-keep-track-of-this}
 
-## Warum sollte man das im Auge behalten? {#why-keep-track-of-this}
+Mithilfe von Attribution können Sie den Erfolg des Programms messen. Einige Programme sollen neue Namen generieren, während andere den Umsatz steigern sollen. Mit einem Attributionssystem können Sie fundierte Entscheidungen darüber treffen, in welche Programme investiert werden soll.
 
-Mithilfe der Zuordnung können Sie den Erfolg Ihres Programms messen. Einige Programm sollen neue Namen generieren, andere sollen den Umsatz steigern. Durch ein Zuordnungssystem können Sie fundierte Entscheidungen darüber treffen, in welche Programme investiert werden soll.
+## Erstkontakt (FT)-Zuordnung {#first-touch-ft-attribution}
 
-## First Touch (FT) Attribution {#first-touch-ft-attribution}
+Erstkontakt (FT)-Attributionsantworten a **einfache Geschäftsfrage**, &quot;Welche Programme sind gut darin, gewinnbringende neue Namen zu gewinnen?&quot;
 
-First Touch (FT)-Zuordnung beantwortet eine **einfache Geschäftsfrage**, &quot;Welche Programme sind gut darin, gewinnbringende neue Namen zu erhalten?&quot;
+## Zuschreibung nach mehreren Kontakten {#multi-touch-attribution}
 
-## Multi-Touch-Zuordnung {#multi-touch-attribution}
-
-Multi-Touch beantwortet eine **komplizierte Geschäftsfrage**, &quot;Welche Programm sind am einflussreichsten, wenn es darum geht, Personen im Laufe der Zeit in den Verkaufszyklus zu versetzen?&quot;
+Multi-Touch-Antworten a **komplizierte Geschäftsfragen**, &quot;Welche Programme sind am einflussreichsten, wenn es darum geht, die Menschen im Laufe der Zeit in den Verkaufszyklus zu versetzen?&quot;
 
 ## Zuordnungsregeln {#rules-of-attribution}
 
-Es gibt drei Zuordnungsregeln:
+Es gibt drei Attributionsregeln:
 
-1. Die Gutschrift wird gleichmäßig aufgeteilt
-1. Du kannst dir nicht mehr gutschreiben, als du verdient hast
-1. Man kann etwas nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
+1. Die Gewichtung wird gleichmäßig aufgeteilt
+1. Du kannst nicht mehr Guthaben als du verdient hast
+1. Man kann etwas, das in der Vergangenheit passiert ist, nicht zuschreiben
 
-In den folgenden Beispielen können Sie diese Regeln anwenden und alles verstehen, was Sie zur Messung des Erfolgs von Programmen benötigen.
+In den folgenden Beispielen können Sie diese Regeln anwenden und alles verstehen, was Sie zur Messung des Programmerfolgs benötigen.
 
 >[!MORELIKETHIS]
 >
->* [Zuordnungsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Zuordnungsbeispiel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Zuordnungsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->* [Zuordnungsbeispiel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Attributionsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attributionsbeispiel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Attributionsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Attributionsbeispiel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
 
 Wenn Sie diese Funktion verwenden, machen Sie definitiv das Beste aus Ihrer Investition in Marketo.

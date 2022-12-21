@@ -1,67 +1,66 @@
 ---
 unique-page-id: 13796471
-description: Übersicht über Live-Feeds - Marketing-Dokumente - Produktdokumentation
+description: Live Feed-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live Feed-Übersicht
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
+# Live Feed-Übersicht {#live-feed-overview}
 
-# Übersicht über Live Feed {#live-feed-overview}
+Der Live Feed ist ein unverankertes Fenster, das über die Webanwendung oder das Gmail-Plug-in gestartet werden kann und einen Echtzeitblick auf die Interaktion mit potenziellen Kunden bietet.
 
-Der Live-Feed ist ein unverankertes Fenster, das über die Webanwendung oder das Gmail-Plug-In gestartet werden kann. In diesem Fenster wird ein Echtzeitblick auf die Interaktion mit dem Potenzieller Kunde Angebot.
-
-## Interaktionsregister {#engagement-tab}
+## Registerkarte &quot;Interaktion&quot; {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
-Zeigen Sie Interaktionen (Ansichten, Klicks und Antworten) mit Ihren MSE-E-Mails in Echtzeit an.
+Zeigen Sie die Interaktion (Ansichten, Klicks und Antworten) mit Ihren MSE-E-Mails in Echtzeit an.
 
-Mit violett markierte Personen nehmen mit Ihren Marketinginhalten Kontakt auf. Diese Menschen existieren möglicherweise nicht in MSE. Sie können auf den Pfeil nach unten klicken, um sie hinzuzufügen, und eine Liste anderer Schnellaktionen abrufen.
+Mit violett markierte Personen interagieren mit Ihren Marketing-Inhalten. Diese Personen sind in MSE möglicherweise nicht vorhanden. Sie können auf den Abwärtspfeil klicken, um sie hinzuzufügen, und eine Liste weiterer Schnellaktionen abrufen.
 
 ![](assets/purple.png)
 
-Personen, die mit einer blauen Linie markiert sind, repräsentieren die Interaktion mit E-Mails, die über MSE gesendet werden.
+Personen, die mit einer blauen Zeile markiert sind, repräsentieren die Interaktion mit E-Mails, die über MSE gesendet werden.
 
 >[!NOTE]
 >
->Insgesamt bestimmen wir Standorte so genau, wie wir es auf der Grundlage der IP-Verfolgung tun können. Leider ist es keine exakte Wissenschaft. Wenn wir für einen Ihrer Empfänger den Ort falsch machen, gibt es eine Reihe von Optionen, was möglicherweise passiert ist:
+>Insgesamt bestimmen wir Standorte so genau, wie wir auf der IP-Verfolgung basieren können. Leider ist es keine exakte Wissenschaft. Wenn der Standort für einen Ihrer Empfänger falsch ist, gibt es hier einige Möglichkeiten, was möglicherweise passiert ist:
 >
->* Wenn Ihr Empfänger für eine Firma, die ihren IT-Hauptsitz in einem anderen Ort oder Land hat, beim Wireless-Netzwerk angemeldet war, protokollieren wir diesen Speicherort anstelle des aktuellen Gebietsschemas des Empfängers.
->* Wenn Ihre E-Mail von jemandem im CC/BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
+>* Wenn Ihr Empfänger bei einem Unternehmen mit IT-Hauptsitz in einem anderen Stadt- oder Land im Wireless-Netzwerk angemeldet war, protokollieren wir diesen Standort anstelle des aktuellen Gebietsschemas des Empfängers.
+>* Wenn Ihre E-Mail von einer Person im CC/BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
 
 
-## Registerkarte Aufgaben {#tasks-tab}
+## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
 
 ![](assets/task.jpg)
 
-Überprüfen Sie schnell Ihre zu erledigende Liste direkt im Live Feed.
+Überprüfen Sie Ihre Aufgabenliste schnell direkt im Live Feed.
 
 Erstellen Sie neue oder verwalten Sie offene Aufgaben.
 
-Filtern Sie nach heute, morgen, heute *und* morgen oder in den nächsten 7 Tagen.
+Nach heute, morgen, heute *und* morgen oder in den nächsten sieben Tagen.
 
 >[!NOTE]
 >
->Sie können den benutzerspezifischen Datumsfilter nicht im Live Feed verwenden, jedoch in der Webanwendung.
+>Sie können den benutzerdefinierten Datumsfilter nicht im Live Feed verwenden, aber in der Webanwendung.
 
-Verwenden Sie die Schaltflächen für Schnellaktionen, um schnell einen Anruf vorzunehmen, eine E-Mail zu senden oder zu dem Linkedin-Profil einer Person zu navigieren.
+Verwenden Sie Schnellaktionsschaltflächen, um schnell einen Aufruf vorzunehmen, eine E-Mail zu senden oder zum LinkedIn-Profil einer Person zu navigieren.
 
-## Registerkarte &quot;Zielgruppe&quot; {#target-tab}
+## Target-Registerkarte {#target-tab}
 
 ![](assets/target.jpg)
 
-Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten bis zur niedrigsten) nach Interessentenbewertung an. Der Interessentenwert wird von Ihrer Marketo-Instanz übernommen.
+Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten zur niedrigsten) nach der Lead-Punktzahl an. Die Lead-Punktzahl wird aus Ihrer Marketo-Instanz übernommen.
 
-* Interessenten werden generiert, wenn ihr Personenergebnis in Marketo steigt.
-* Wir zeigen die 50 Top-Leads.
+* Leads werden generiert, wenn der Personenwert in Marketo zunimmt.
+* Wir zeigen die 50 wichtigsten Leads.
 * Sie sehen nur die Personen, die Ihnen in Salesforce zugewiesen wurden.
 
-## Symbol-Glossar {#icon-glossary}
+## Symbol Glossar {#icon-glossary}
 
 <table> 
  <colgroup> 
@@ -72,34 +71,34 @@ Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten bis zur niedrigsten
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Jemand hat Ihre E-Mail angesehen</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Jemand hat auf einen Link in Ihrer E-Mail geklickt</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Jemand hat auf Ihre E-Mail geantwortet</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td colspan="1">Alle unter "Interessante Momente"aufgelisteten Benachrichtigungen, einschließlich E-Mail, Web und Meilensteine</td> 
+   <td colspan="1">Alle unter "Interessante Momente"aufgelisteten Benachrichtigungen, einschließlich E-Mail, Web und Meilensteinen</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Wenn Sie jemanden sehen, der Ihre E-Mail immer wieder in Ihrem Live-Feed Ansicht, könnte er die E-Mail an zusätzliche Empfänger weitergeleitet haben. Dies ist höchstwahrscheinlich der Fall, wenn Sie bemerken, dass sich der Beginn für den Standort für diese Ansichten ändert.
+>Wenn Sie sehen, dass eine Person Ihre E-Mail in Ihrem Live-Feed immer wieder anzeigt, könnte sie die E-Mail an zusätzliche Empfänger weitergeleitet haben. Dies ist höchstwahrscheinlich der Fall, wenn Sie feststellen, dass sich der Standort für diese Ansichten ändert.

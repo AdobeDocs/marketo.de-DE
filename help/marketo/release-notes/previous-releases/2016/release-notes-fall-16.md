@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Herbstversion 16 enthalten. Überprüfen Si
 
 ## Predictive Content in Email {#predictive-content-in-email}
 
-Es gibt eine neue Benutzererfahrung, mit der unsere Predictive Content-Anwendung Ihre Inhalte mithilfe unserer maschinellen Lernalgorithmen und Prognosematerialien über die Web- und E-Mail-Kanäle hinweg verfolgen, verwalten und empfehlen kann.
+Es gibt eine neue Benutzererfahrung für unsere Predictive Content-Anwendung, mit der Sie Ihre Inhalte mithilfe unserer maschinellen Lernalgorithmen und Prognosealgorithmen über die Web- und E-Mail-Kanäle hinweg verfolgen, verwalten und empfehlen können.
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Jetzt können Sie in Account Based Marketing (ABM) Kontoteams benannten Konten z
 
 **REST-API**
 
-Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie auf der [Marketo Developers-Website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie im [Marketo Developer-Website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Verbesserungen am Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -66,11 +66,11 @@ Vorbei sind die Tage, an denen Sie sich Sorgen machen mussten, dass Benutzer Tra
 
 **Kampagne-Einschränkungen bearbeiten**
 
-Warum [Kampagnenbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) festlegen, wenn Sie sie nicht durchsetzen können? Wenn Sie die Kampagnenbegrenzungseinstellungen so festlegen, dass die Anzahl der Personen in Ihrer Datenbank, die für eine einzelne Kampagne infrage kommen, begrenzt wird, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
+Warum [Kampagnenbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) wenn Sie sie nicht durchsetzen können? Wenn Sie die Kampagnenbegrenzungseinstellungen so festlegen, dass die Anzahl der Personen in Ihrer Datenbank, die für eine einzelne Kampagne infrage kommen, begrenzt wird, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
 
 ## [Ton für Push-Benachrichtigungen auf Mobilgeräten](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
-Machen Sie Ihre iOS-Push-Benachrichtigung durch die Aktivierung von Ton überaus umfangreich. Mit dieser neuen Funktion können Sie einen Ton Trigger, wenn die Push-Benachrichtigung auf einem Mobilgerät angezeigt wird.
+Lassen Sie Ihre Push-Benachrichtigung in iOS durch die Aktivierung von Ton unzählige Informationen erhalten. Mit dieser neuen Funktion können Sie einen Ton Trigger, wenn die Push-Benachrichtigung auf einem Mobilgerät angezeigt wird.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Machen Sie Ihre iOS-Push-Benachrichtigung durch die Aktivierung von Ton überaus
 
 ## [Sales Insight-Kompatibilität mit der Salesforce-Verschlüsselung](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight ist jetzt mit der Salesforce Shield-Verschlüsselung kompatibel. Alle Sales Insight-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket durchführen (Version 1.4359.2), das [auf dem Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) verfügbar ist.
+Market Sales Insight ist jetzt mit der Salesforce Shield-Verschlüsselung kompatibel. Alle Sales Insight-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket durchführen (Version 1.4359.2). [auf der Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [APIs für benannte Konten](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 

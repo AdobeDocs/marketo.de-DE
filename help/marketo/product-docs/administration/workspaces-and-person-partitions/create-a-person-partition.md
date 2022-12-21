@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360315
 description: Erstellen einer Personenpartition - Marketo Docs - Produktdokumentation
-title: Personenpartition erstellen
+title: Erstellen einer Personenpartition
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
@@ -13,29 +12,29 @@ ht-degree: 0%
 
 # Erstellen einer Personenpartition {#create-a-person-partition}
 
-Erstellen Sie eine neue Personenpartition entsprechend den folgenden Schritten.
+Erstellen Sie eine neue Personenpartition gemäß diesen Schritten.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!NOTE]
 >
->Verstehen Sie zuerst mit [Die Arbeitsbereiche und die Benutzerpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Erste Schritte mit [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!CAUTION]
 >
->Personenpartitionen können komplex sein. Wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support), um Hilfe bei der Einrichtung zu erhalten.
+>Personenpartitionen können komplex sein. Bitte kontaktieren Sie uns [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) für Hilfe bei der Einrichtung.
 
-1. Wählen Sie unter Admin **Arbeitsbereiche und Partitionen**.
+1. Wählen Sie unter Admin die Option **Arbeitsbereiche und Partitionen**.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
-1. Wechseln Sie zur Registerkarte **Benutzerpartitionen** und klicken Sie auf **Neue Personenpartition**.
+1. Navigieren Sie zu **Personenpartitionen** Registerkarte und klicken Sie auf **Neue Personenpartition**.
 
    ![](assets/two-2.png)
 
-1. Benennen Sie Ihre Partition, wählen Sie **Arbeitsbereich(e)**, wo sie angezeigt wird, und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre Partition, wählen Sie die **Arbeitsbereich(e)** wo sie angezeigt wird, und klicken Sie auf **Erstellen**.
 
    ![](assets/three-2.png)
 
@@ -43,4 +42,4 @@ Erstellen Sie eine neue Personenpartition entsprechend den folgenden Schritten.
 
    ![](assets/four-2.png)
 
-   Da hast du es! Sie wissen jetzt, wie eine Personenpartition erstellt wird.
+   Da hast du es! Sie können jetzt eine Personenpartition erstellen.

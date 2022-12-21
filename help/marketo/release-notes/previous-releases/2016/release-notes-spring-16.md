@@ -30,7 +30,7 @@ Erstellen Sie schöne E-Mails mit unseren neuen Starter-Vorlagen! Suchen Sie au�
 
 >[!NOTE]
 >
->Email Editor 2.0 (mit dem Vorlagenwähler) wird schrittweise ab dem 3. Juni eingeführt. Wir werden die Einführung bis zum 30. Juni abschließen. Im Gegensatz zu Email Insights werden Sie nicht benachrichtigt, wenn Sie Zugriff haben. Um zu sehen, ob Sie dies tun, führen Sie die Schritte in [diesem Artikel](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md) aus.
+>Email Editor 2.0 (mit dem Vorlagenwähler) wird schrittweise ab dem 3. Juni eingeführt. Wir werden die Einführung bis zum 30. Juni abschließen. Im Gegensatz zu Email Insights werden Sie nicht benachrichtigt, wenn Sie Zugriff haben. Um zu sehen, ob Sie dies tun, führen Sie die Schritte unter [diesem Artikel](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -58,25 +58,25 @@ Die Marketo REST APIs unterstützen jetzt die Steuerung von Landingpages, Landin
 
 ## [IP-Auf die Zulassungsliste setz für API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Ähnlich wie bei der Funktion zur IP-auf die Zulassungsliste setz-Funktion für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine IP-Zulassungsliste von IP-Adressen einrichten, die auf die SOAP- und REST-APIs von Marketo zugreifen können, wodurch der Zugriff von nicht autorisierten IP-Adressen blockiert wird. Dies bietet eine zusätzliche Sicherheitsstufe für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur über das Netzwerk Ihres Unternehmens erfolgen kann. Weitere Informationen zur Einrichtung finden Sie auf der [Marketo-Dokumentations-Site](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Ähnlich wie bei der Funktion zur IP-auf die Zulassungsliste setz-Funktion für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine IP-Zulassungsliste von IP-Adressen einrichten, die auf die SOAP- und REST-APIs von Marketo zugreifen können, wodurch der Zugriff von nicht autorisierten IP-Adressen blockiert wird. Dies bietet eine zusätzliche Sicherheitsstufe für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur über das Netzwerk Ihres Unternehmens erfolgen kann. Einzelheiten zur Einrichtung finden Sie im [Marketo-Dokumentationswebsite](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Neuer Microsoft Dynamics Sync Connector mit hoher Geschwindigkeit](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Der neue, auf der Op-Orion-Architektur aufbauende dynamische Hochgeschwindigkeits-Connector bietet Geschwindigkeiten von bis zu 20-mal schneller für die Erstsynchronisierung und bis zu 5-mal schneller für die inkrementelle Synchronisation. Alle neuen Kunden werden am Releasedatum an diesen Connector angeschlossen und werden ihn im Zeitraum der Sommerveröffentlichung schrittweise an bestehende Kunden weiterleiten.
 
-**Daten für neue Felder** aktualisieren: Jetzt können Sie jederzeit neue Synchronisierungsfelder aktivieren und alle Datenwerte für dieses Feld werden von Dynamics CRM in Marketo aktualisiert. Es gibt keine weiteren Bedenken, dass bei der Ersteinrichtung alle Felder ausgewählt werden müssen. Wenn Sie ein vorhandenes Synchronisierungsfeld deaktivieren und es später erneut aktivieren, werden alle Datenwerte für dieses Feld von Dynamics CRM in Marketo aktualisiert.
+**Daten für neue Felder aktualisieren**: Jetzt können Sie jederzeit neue Synchronisierungsfelder aktivieren und alle Datenwerte für dieses Feld werden von Dynamics CRM in Marketo aktualisiert. Es gibt keine weiteren Bedenken, dass bei der Ersteinrichtung alle Felder ausgewählt werden müssen. Wenn Sie ein vorhandenes Synchronisierungsfeld deaktivieren und es später erneut aktivieren, werden alle Datenwerte für dieses Feld von Dynamics CRM in Marketo aktualisiert.
 
 **Lead als Kontakt synchronisieren**: Die Aktion &quot;Lead mit Microsoft synchronisieren&quot;verfügt über eine neue Option zum Synchronisieren als Lead oder Kontakt.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Registerkarte** &quot;Fehler-Admin synchronisieren&quot;: Durchsuchen, Suchen oder Exportieren von Leads (und anderen Objekten), die nicht mit Details wie Vorgang, Richtung, Fehlercode und Fehlermeldung synchronisiert werden konnten.
+**Registerkarte &quot;Administrator von Synchronisierungsfehlern&quot;**: Durchsuchen, Suchen oder Exportieren von Leads (und anderen Objekten), die nicht mit Details wie Vorgang, Richtung, Fehlercode und Fehlermeldung synchronisiert werden konnten.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: Connector ist vollständig für Dynamics 2016 Online- und On-Premise-Versionen zertifiziert.
 
-**Plug-in-Aktualisierungen sind jetzt dokumentiert:** Weitere Informationen finden Sie im Artikel  [Dokumentation zu Plug-in-Aktualisierungen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+**Plug-in-Aktualisierungen sind jetzt dokumentiert:** Siehe [Artikel zu Plug-in-Aktualisierungen für Dokumente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [Anzeigename der Instanz](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -98,4 +98,4 @@ Jetzt können Sie die Anzahl der Datensätze und Felder für alle veröffentlich
 
 ## Eigene Aktivitäten {#custom-activities}
 
-Marketo-Administratoren können jetzt ihre benutzerdefinierten Aktivitätstypen über den Marketo Custom Activity Definition-Modeler definieren und verwalten. Ähnlich wie beim Marketo Custom Object Model (und in Verbindung mit diesem) können Administratoren das Datenmodell nun entsprechend ihren jeweiligen Geschäftsanforderungen erweitern. Einzelheiten zur Verwendung dieser Funktion finden Sie auf der [Marketo-Dokumentations-Website](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Marketo-Administratoren können jetzt ihre benutzerdefinierten Aktivitätstypen über den Marketo Custom Activity Definition-Modeler definieren und verwalten. Ähnlich wie beim Marketo Custom Object Model (und in Verbindung mit diesem) können Administratoren das Datenmodell nun entsprechend ihren jeweiligen Geschäftsanforderungen erweitern. Einzelheiten zur Verwendung dieser Funktion finden Sie im Abschnitt [Marketo-Dokumentationswebsite](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
