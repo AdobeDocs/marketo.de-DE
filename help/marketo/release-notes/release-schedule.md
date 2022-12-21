@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472490
-description: Versionsplanung - Marketo-Dokumente - Produktdokumentation
+description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 2%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 2%
 
 **Status**:
 
-* Zeitplan - Die vierteljährlichen Funktionen und Verbesserungen werden voraussichtlich am angegebenen Datum veröffentlicht.
-* In Bearbeitung - Wir entwickeln und dokumentieren den Inhalt jetzt zur Veröffentlichung am angegebenen Datum.
+* Zeitplan - Wir planen die Veröffentlichung der Funktionen und Verbesserungen am angegebenen Datum
+* In Bearbeitung - Die Funktionen der Version werden derzeit eingeführt.
 * Versand - Die Version ist abgeschlossen.
 
 _Die Veröffentlichungsdaten können sich ändern_
@@ -37,12 +37,12 @@ _Die Veröffentlichungsdaten können sich ändern_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Oktober 22</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">Oktober 22</a></td>
    <td>14. Oktober 2022</td>
    <td>Versendet</td>
   </tr>
   <tr> 
-   <td>Januar 23</td>
+   <td><a href="/help/marketo/release-notes/current.md">Januar 23</a></td>
    <td>20. Januar 2023</td>
    <td>Zeitplan</td>
   </tr>
