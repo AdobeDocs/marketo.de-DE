@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: Abgeleitete Filter - Marketo Docs - Produktdokumentation
 title: Abgeleitete Filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # Abgeleitete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und setzt sie in das System. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen guten Informationen. Schau es dir an.
+Wenn jemand Ihre Website besucht, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookies und setzt sie in das System. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen guten Informationen.
+
+>[!NOTE]
+>
+>Um sicherzustellen, dass die abgeleiteten Feldwerte aktuell bleiben, aktualisieren wir regelmäßig die Datenbank, die für die IP-Adressen-Suche verwendet wird. Datenbankaktualisierungen können neue abgeleitete Feldwerte einführen, die Sie möglicherweise zu Filterdefinitionen für intelligente Listen hinzufügen müssen.
+>
+>Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Wenn eine Aktualisierung erfolgt, wird die [Marketo Engage-Versionshinweise](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} enthält eine Erläuterung aller Änderungen an abgeleiteten Feldwerten.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
