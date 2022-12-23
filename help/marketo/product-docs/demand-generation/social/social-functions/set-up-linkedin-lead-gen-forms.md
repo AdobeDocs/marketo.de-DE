@@ -62,7 +62,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. Um standardmäßige LinkedIn- zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **Erstellen**. Wenn Sie die standardmäßige Feldzuordnung ändern, eine Feldzuordnung entfernen oder ein neues Feld-Mapping hinzufügen möchten, können Sie dies über das nachstehende Modal für jedes Feld tun.
+1. Um die standardmäßigen LinkedIn- zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **Erstellen**. Wenn Sie die standardmäßige Feldzuordnung ändern, eine Feldzuordnung entfernen oder ein neues Feld-Mapping hinzufügen möchten, können Sie dies über das nachstehende Modal für jedes Feld tun.
 
    >[!CAUTION]
    >

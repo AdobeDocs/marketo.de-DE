@@ -26,7 +26,7 @@ Vorhandene Kunden greifen über die Kachel Echtzeit-Personalisierung bis zur Ver
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wenn Sie auf die Kachel Web-Personalisierung klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und gehen Sie direkt zur Seite Content Recommendations .
+Wenn Sie auf die Kachel Web-Personalisierung klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und navigieren Sie direkt zur Seite Content Recommendations .
 
 Die vier Apps sind:
 
@@ -57,7 +57,7 @@ Im Tab Organisationen werden alle Details (Name, Standort, Aktivität und Zeitst
 >
 >&quot;Am meisten aktiv&quot;vs. &quot;Aktuell&quot;- Die Tabelle wird von identifizierten Organisationen und anschließend von Internetdienstanbietern (mit einem ISP-Symbol gekennzeichnet) organisiert. Er kann nach folgenden Kriterien sortiert werden:
 >
->* Am aktivsten: die aktivsten Organisationen in der Tabelle basierend auf der Anzahl der Seitenansichten
+>* Am aktivsten: die aktivsten Organisationen in der Tabelle, basierend auf der Anzahl der Seitenansichten
 >* Neueste: die neuesten Organisationen in der Tabelle (Standard)
 >* Für wertvolle Einblicke filtern Sie nach der aktivsten
 

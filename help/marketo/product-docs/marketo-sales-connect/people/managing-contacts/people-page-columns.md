@@ -90,7 +90,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Einverständnis</td> 
-   <td><p>Rechtliche Interessen, Ausführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
+   <td><p>Rechtliche Interessen, Durchführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
   </tr> 
   <tr> 
    <td>Offene Aufgaben</td> 

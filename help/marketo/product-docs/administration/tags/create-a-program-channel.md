@@ -58,7 +58,7 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
    >
    >Sehen Sie sich die Progressionen vorhandener Kanäle an, um eine Vorstellung davon zu erhalten, wie sie verwendet werden.
 
-1. Gehen wir zum Parteitakanal-Beispiel. Benennen Sie Ihre neue **Kanal** und wählen Sie den Programmtyp aus, auf den sie angewendet werden soll.
+1. Gehen wir zum Beispiel zum Parteitakanal. Benennen Sie Ihre neue **Kanal** und wählen Sie den Programmtyp aus, auf den sie angewendet werden soll.
 
    ![](assets/image2014-9-24-13-3a0-3a17.png)
 

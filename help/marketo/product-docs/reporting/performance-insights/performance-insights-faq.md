@@ -77,7 +77,7 @@ Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programmkosten 
 
 ## Warum werden im Interaktions-Dashboard keine benutzerdefinierten Felder, Opportunity Type und ABM-Filter angezeigt? {#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
 
-Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, die sich auf eine Chance beziehen. Mit dem Interaktions-Dashboard können Sie Ihre Interaktion messen und Akquise leiten, unabhängig davon, ob sie einer Gelegenheit zugeordnet sind oder nicht. Da das Interaktions-Dashboard die Möglichkeiten nicht berücksichtigt, gelten benutzerdefinierte Felder, Opportunity Type und ABM Filters nicht.
+Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, die sich auf eine Chance beziehen. Mit dem Interaktions-Dashboard können Sie Ihre Interaktion messen und Akquise leiten, unabhängig davon, ob sie mit einer Gelegenheit verbunden sind oder nicht. Da das Interaktions-Dashboard die Möglichkeiten nicht berücksichtigt, gelten benutzerdefinierte Felder, Opportunity Type und ABM Filters nicht.
 
 ## Ich möchte ein benutzerdefiniertes Feld für Salesforce-Chancen für Umsatzberichte anstelle des standardmäßigen Felds Salesforce Opportunity Amount verwenden. Ermöglicht mir MPI das? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 

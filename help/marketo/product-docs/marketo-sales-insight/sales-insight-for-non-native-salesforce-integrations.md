@@ -181,7 +181,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
      <tr> 
       <td>externalOpportunityId</td> 
       <td>Bei Salesforce Opportunity wird die globale eindeutige Kennung nicht von der Groß-/Kleinschreibung unterschieden</td> 
-      <td>Identifiziert die Marketo Opportunity-Rolle für ein externes Salesforce Opportunity-Objekt.<br><br>Die Salesforce-Chancen müssen zunächst ordnungsgemäß synchronisiert werden.</td> 
+      <td>Identifiziert die Marketo Opportunity-Rolle für ein externes Salesforce Opportunity-Objekt.<br><br>Es wird angewiesen, die Salesforce-Chancen zuerst richtig zu synchronisieren.</td> 
      </tr> 
      <tr> 
       <td>leadId</td> 
