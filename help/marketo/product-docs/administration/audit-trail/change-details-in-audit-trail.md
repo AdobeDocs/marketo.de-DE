@@ -136,7 +136,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Modul bearbeiten <module name><attribute> auf "value"</td> 
+   <td>Modul bearbeiten <code>"<module name>" <attribute></code> auf "value"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
