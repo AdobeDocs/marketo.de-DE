@@ -1,9 +1,9 @@
 ---
 description: Versionshinweise - Oktober 2022 - Marketo-Dokumente - Produktdokumentation
 title: Oktober 2022 - Versionshinweise
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.)
+* **Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.) mit Campaign Member Fields in Salesforce.
 
 <table> 
   <tr> 
