@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Benutzerdefinierte Felder für Programmmitglieder - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Felder für Programmmitglieder
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 1%
 # Benutzerdefinierte Felder für Programmmitglieder {#program-member-custom-fields}
 
 Benutzerdefinierte Felder für Programmmitglieder ermöglichen die Erfassung programmspezifischer Daten für jedes Mitglied. Sie können in folgenden Bereichen verwendet werden: Marketo-Formulare, Smart-List-Filter und -Trigger sowie Fluss-Aktionen für intelligente Kampagnen. Die Daten können im Tab Mitglieder des Programms eingesehen werden.
-
->[!NOTE]
->
->Benutzerdefinierte Felder des Programmmitglieds verfügen derzeit nicht über eine Integration mit Feldern des Salesforce-Campaign-Mitglieds.
 
 ## Benutzerdefiniertes Feld für Programmteilnehmer erstellen {#create-a-program-member-custom-field}
 
@@ -67,14 +63,18 @@ Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/he
 
 * Benutzerdefinierte Felder für Programmmitglieder sind nur in lokalen Assets verfügbar. Sie werden in Design Studio nicht unterstützt, da es keine Möglichkeit gibt, sie mit einem bestimmten Programm zu verknüpfen.
 * Sie können ein Formular (oder eine Landingpage mit einem Formular), das benutzerdefinierte Felder für Programmmitglieder enthält, nicht in Design Studio klonen/verschieben.
+* [Sie können synchronisieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} die benutzerdefinierten Felder für Programmmitglieder mit benutzerdefinierten Feldern für Kampagnenmitglieder.
 * Das Programmteilobjekt kann über bis zu 20 benutzerdefinierte Felder verfügen. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und im benutzerdefinierten Feld Programmteilnehmer Daten enthalten, werden die Daten aus diesem Feld gescrollt.
 * Um die Daten anzuzeigen, klicken Sie im Programm auf den Tab Mitglieder und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
 * Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} und [API](https://developers.marketo.com/){target=&quot;_blank&quot;} werden unterstützt. Exporte funktionieren nur auf Programmteilslisten, nicht auf statischen Listen.
-* Wenn Sie zwei Personen zusammenführen, werden die benutzerdefinierten Felddaten des Gewinners für das Programmmitglied verwendet. Wenn der Gewinner jedoch keinen hat, wird der Wert des Verlierers verwendet.
+* Wenn Sie zwei Personen zusammenführen, werden die benutzerdefinierten Felddaten des Gewinners für das Programmmitglied verwendet. Aber wenn der Gewinner keinen hat, wird der Wert des Verlierers verwendet.
 * Der Änderungstyp ist in den Feldern &quot;Programmteilnehmer-Info&quot;nicht zulässig.
 * Die Beschränkung &quot;enthält&quot;der intelligenten Liste wird für benutzerdefinierte Felder des Programmmitglieds nicht unterstützt.
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>
+>* [Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+
