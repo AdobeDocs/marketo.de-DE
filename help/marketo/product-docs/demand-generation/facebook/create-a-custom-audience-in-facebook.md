@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Erstellen einer benutzerdefinierten Zielgruppe in Facebook - Marketo Docs - Produktdokumentation
 title: Erstellen einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) im Abschnitt &quot;Admin&quot;.
->* [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem Facebook-Konto.
->
+>* [Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} im Abschnitt &quot;Admin&quot;.
+>* [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} innerhalb Ihres Facebook-Kontos.
 
 
 >[!TIP]
 >
->Weitere Informationen [benutzerdefinierte Zielgruppen in Facebook](https://www.facebook.com/help/341425252616329).
+>Weitere Informationen [benutzerdefinierte Zielgruppen in Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
 
 1. Suchen und wählen Sie die Smart- oder statische Liste mit den Leads aus, aus denen Sie die Zielgruppe erstellen möchten.
 
@@ -55,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Und das ist es! In Facebook wird die neue Zielgruppe in **Anzeigen-Manager > Zielgruppen**.
+   Und das ist es! In Facebook wird die neue Zielgruppe in **Anzeigen-Manager** > **Zielgruppen**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -65,8 +64,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Siehe [Facebook-Lernpfad für Marketo-Kunden](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Es behandelt alles, was Sie wissen müssen, von der Erstellung einer Facebook-Seite bis hin zur Ausrichtung Ihrer Facebook-Anzeigen mithilfe der Werbenetzwerk-Integrationen von Marketo.
+   >Siehe [Facebook-Lernpfad für Marketo-Kunden](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Es behandelt alles, was Sie wissen müssen, von der Erstellung einer Facebook-Seite bis hin zur Ausrichtung Ihrer Facebook-Anzeigen mithilfe der Werbenetzwerk-Integrationen von Marketo.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,10 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 1. Geben Sie unter Chatbot-Antwort Ihre Frage an, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >Sie können das Erlebnis für bekannte Chat-Besucher mit Token personalisieren (z. B.: Hallo `{{lead.leadFirstName:""}}`). Klicken Sie einfach auf das Symbol mit geschweiften Klammern auf der rechten Seite und wählen Sie Ihre Auswahl aus. Fügen Sie einen Standardwert zwischen den Anführungszeichen hinzu, wenn anonyme Besucher etwas Allgemeines sehen sollen (z. B.: Hallo `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
