@@ -3,16 +3,16 @@ description: Massenexport-API-Informationen - Marketo-Dokumente - Produktdokumen
 title: Massenexport-API-Informationen
 hide: true
 hidefromtoc: true
-source-git-commit: 54c6a3d3a9749abb39a1d74422b13cbdb260214a
+source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '100'
 ht-degree: 5%
 
 ---
 
 # Massenexport-API-Informationen {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können, wie viel Massenextraktionskapazität Ihre Marketo Engage-Instanz in den letzten sieben Tagen genutzt hat.
+Erfahren Sie, wie Sie überprüfen können, wie viel [Bulk Extract API](https://developers.marketo.com/rest-api/bulk-extract/){target=&quot;_blank&quot;} Die Kapazität wurde von Ihrer Marketo Engage-Instanz in den letzten sieben Tagen genutzt.
 
 >[!NOTE]
 >
