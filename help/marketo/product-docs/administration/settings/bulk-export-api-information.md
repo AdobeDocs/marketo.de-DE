@@ -3,10 +3,10 @@ description: Massenexport-API-Informationen - Marketo-Dokumente - Produktdokumen
 title: Massenexport-API-Informationen
 hide: true
 hidefromtoc: true
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 54c6a3d3a9749abb39a1d74422b13cbdb260214a
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '93'
+ht-degree: 5%
 
 ---
 
@@ -14,16 +14,24 @@ ht-degree: 8%
 
 Erfahren Sie, wie Sie überprüfen können, wie viel Massenextraktionskapazität Ihre Marketo Engage-Instanz in den letzten sieben Tagen genutzt hat.
 
-NOTE
+>[!NOTE]
+>
+>Wenn Sie zusätzliche Kapazitäten benötigen, wenden Sie sich an Ihren Kundenbetreuer.
 
 1. Navigieren Sie zum **Admin**-Bereich.
 
-PICC
+   ![](assets/bulk-export-api-information-1.png)
 
 1. Klicken **Web-Services**.
 
-PICC
+   ![](assets/bulk-export-api-information-2.png)
 
-1. Scrollen Sie nach unten zur Karte Massen-Export-API-Informationen .
+1. Scrollen Sie nach unten zur Karte Massen-Export-API-Informationen . Klicken Sie auf die Zahl neben &quot;Letzte 7 Tage&quot;, um die Nutzung pro Tag/API-Benutzer anzuzeigen.
 
-PICC
+   ![](assets/bulk-export-api-information-3.png)
+
+   ![](assets/bulk-export-api-information-4.png)
+
+>[!NOTE]
+>
+>Die Zuordnung für Ihre Marketo Engage-Instanz wird täglich um 12:00 Uhr CST zurückgesetzt.
