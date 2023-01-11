@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Erstellen einer benutzerdefinierten Zielgruppe in Facebook - Marketo Docs - Produktdokumentation
 title: Erstellen einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ ht-degree: 0%
 1. Klicken Sie auf **Zielgruppe** und wählen Sie **+ Neue Zielgruppe**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >Die Facebook-API ermöglicht bis zu 500 benutzerdefinierte Zielgruppen pro Facebook-Anzeigenkonto.
 
 1. Geben Sie einen **Zielgruppenname**. Klicken **Aktualisieren**.
 
