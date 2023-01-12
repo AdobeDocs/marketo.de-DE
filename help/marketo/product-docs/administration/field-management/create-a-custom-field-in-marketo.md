@@ -3,10 +3,10 @@ unique-page-id: 2360287
 description: Erstellen eines benutzerdefinierten Felds in Marketo - Marketo Docs - Produktdokumentation
 title: Benutzerdefiniertes Feld in Marketo erstellen
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Wenn Sie ein neues benutzerdefiniertes Feld in Marketo zum Speichern/Erfassen von Daten benötigen, können Sie hier eine erstellen.
 
-1. Navigieren Sie zu Admin und klicken Sie auf **Feldverwaltung**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-24-13-3a46-3a26.png)
+   ![](assets/create-a-custom-field-in-marketo-1.png)
+
+1. Klicken **Feldverwaltung**.
+
+   ![](assets/create-a-custom-field-in-marketo-2.png)
 
    >[!TIP]
    >
@@ -24,7 +28,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo zum Speichern/Erfassen vo
 
 1. Klicken **Neues benutzerdefiniertes Feld**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-field-in-marketo-3.png)
 
 1. Wählen Sie den Feldtyp aus. Dadurch wird die Darstellung in Smart-Listen und Formularen in Marketo geändert.
 
@@ -32,7 +36,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo zum Speichern/Erfassen vo
    >
    >Sehen Sie sich die [Glossar zu benutzerdefinierten Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-   ![](assets/image2014-9-24-13-3a47-3a42.png)
+   ![](assets/create-a-custom-field-in-marketo-4.png)
 
 1. Geben Sie den Namen ein, wie er in Marketo angezeigt werden soll. Der API-Name wird automatisch generiert. Sie können sie anpassen, sie kann jedoch nicht nach der Festlegung umbenannt werden. Klicken **Erstellen** wann geschehen.
 
@@ -40,7 +44,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo zum Speichern/Erfassen vo
 >
 >Feldnamen dürfen nicht mit den folgenden Zeichen beginnen: **. &amp; +[]**
 
-![](assets/image2014-9-24-13-3a48-3a26.png)
+![](assets/create-a-custom-field-in-marketo-5.png)
 
 >[!NOTE]
 >

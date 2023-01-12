@@ -3,10 +3,10 @@ unique-page-id: 2360331
 description: Ändern des Typs eines benutzerdefinierten Marketo-Felds - Marketo Docs - Produktdokumentation
 title: Ändern des Typs eines benutzerdefinierten Marketo-Felds
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 4%
 
 ---
 
@@ -14,17 +14,21 @@ ht-degree: 0%
 
 So ändern Sie den Feldtyp eines benutzerdefinierten Felds:
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-18-13-3a4-3a39.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
+
+1. Klicken **Feldverwaltung**.
+
+   ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
 1. Suchen und wählen Sie das gewünschte Feld aus.
 
-   ![](assets/image2014-9-18-13-3a4-3a48.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
 1. Im **Feldaktionen** Dropdown, klicken Sie auf **Typ ändern**.
 
-   ![](assets/image2014-9-18-13-3a4-3a57.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. Wählen Sie den neuen Typ aus.
 
@@ -32,11 +36,11 @@ So ändern Sie den Feldtyp eines benutzerdefinierten Felds:
    >
    >Die Felder Punktzahl und Formel können nicht geändert werden.
 
-   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
 1. Lesen Sie die Warnung und klicken Sie auf **Änderung** zur Bestätigung.
 
-   ![](assets/image2014-9-18-13-3a5-3a23.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 
    >[!NOTE]
    >
