@@ -3,10 +3,10 @@ unique-page-id: 45417092
 description: Exportieren anhand von Daten für ein Feld - Marketo-Dokumente - Produktdokumentation
 title: Exportieren anhand von Daten für ein Feld
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 4%
 
 ---
 
@@ -18,25 +18,25 @@ Als Administrator haben Sie die Möglichkeit, verwandte Assets eines Felds zu ex
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken **Admin**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/one.png)
+   ![](assets/export-used-by-data-for-a-field-1.png)
 
 1. Klicken **Feldverwaltung**.
 
-   ![](assets/two-3.png)
+   ![](assets/export-used-by-data-for-a-field-2.png)
 
 1. Suchen Sie das gewünschte Feld und wählen Sie es aus.
 
-   ![](assets/three.png)
+   ![](assets/export-used-by-data-for-a-field-3.png)
 
 1. Klicken Sie auf **Feldaktionen** und wählen Sie **Von**.
 
-   ![](assets/four.png)
+   ![](assets/export-used-by-data-for-a-field-4.png)
 
 1. Eine Excel-Datei wird exportiert. Öffnen Sie es, um seinen Inhalt anzuzeigen.
 
-   ![](assets/five-1.png)
+   ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >

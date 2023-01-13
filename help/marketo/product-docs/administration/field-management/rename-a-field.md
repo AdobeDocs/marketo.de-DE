@@ -3,10 +3,10 @@ unique-page-id: 2360293
 description: Umbenennen eines Felds - Marketo Docs - Produktdokumentation
 title: Umbenennen eines Felds
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '125'
+ht-degree: 4%
 
 ---
 
@@ -20,21 +20,25 @@ ht-degree: 0%
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu Admin und klicken Sie auf **Feldverwaltung**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/rename-a-field-1.png)
+
+1. Klicken **Feldverwaltung**.
+
+   ![](assets/rename-a-field-2.png)
 
 1. Suchen und wählen Sie das Feld aus, das Sie umbenennen möchten, und klicken Sie dann auf den Feldnamen auf der Arbeitsfläche.
+
+   ![](assets/rename-a-field-3.png)
 
    >[!TIP]
    >
    >Klicken Sie auf **Verwendet von** -Link, um Assets zu suchen, die dieses Feld referenzieren.
 
-   ![](assets/changefieldname.png)
-
 1. Benennen Sie das Feld um und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/rename-a-field-4.png)
 
 Gut gemacht! Sie wissen jetzt, wie Sie Felder in Marketo umbenennen können.
 

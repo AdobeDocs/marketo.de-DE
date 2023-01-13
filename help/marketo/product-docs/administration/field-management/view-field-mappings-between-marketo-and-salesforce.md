@@ -3,10 +3,10 @@ unique-page-id: 2360344
 description: Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce - Marketo Docs - Produktdokumentation
 title: Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 5%
 
 ---
 
@@ -18,13 +18,17 @@ Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmt
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. Klicken **Feldverwaltung**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. Suchen Sie das Feld, das Sie sehen möchten, und klicken Sie auf die Schaltfläche **+** , um die Zuordnung zu erweitern.
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >

@@ -3,10 +3,10 @@ unique-page-id: 2360346
 description: Feldalias für Listenimport bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Feldalias für Listenimport bearbeiten
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '131'
+ht-degree: 3%
 
 ---
 
@@ -18,21 +18,25 @@ Wenn Sie eine Liste mit unbekannten Headern importieren, können Sie Feldaliasen
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. under **Admin** klicken **Feldverwaltung**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-19-9-3a56-3a22.png)
+   ![](assets/edit-field-aliases-for-list-import-1.png)
+
+1. Klicken **Feldverwaltung**.
+
+   ![](assets/edit-field-aliases-for-list-import-2.png)
 
 1. Suchen und wählen Sie das Feld aus, dem Sie einen Alias hinzufügen möchten.
 
-   ![](assets/fieldmanagement-findfield.png)
+   ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. Klicken Sie in der Dropdown-Liste Feldaktionen auf **Importalias bearbeiten**.
+1. Im **Feldaktionen** Dropdown, klicken Sie auf **Importalias bearbeiten**.
 
-   ![](assets/fieldmanageemnt-editimport.png)
+   ![](assets/edit-field-aliases-for-list-import-4.png)
 
 1. Geben Sie einen Alias ein und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-19-9-3a57-3a1.png)
+   ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
@@ -40,4 +44,4 @@ Wenn Sie eine Liste mit unbekannten Headern importieren, können Sie Feldaliasen
 
 Schau dir das an! Wenn Sie jetzt eine Tabelle mit einer Spalte namens &quot;DOB&quot;importieren, erkennt Marketo sie automatisch als &quot;Geburtsdatum&quot;und importiert die Daten in das richtige Feld.
 
-![](assets/image2014-9-19-9-3a57-3a20.png)
+![](assets/edit-field-aliases-for-list-import-6.png)
