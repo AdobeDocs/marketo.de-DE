@@ -1,9 +1,9 @@
 ---
 description: Versionshinweise - Oktober 2022 - Marketo-Dokumente - Produktdokumentation
 title: Oktober 2022 - Versionshinweise
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '601'
 ht-degree: 5%
 
 ---
@@ -172,20 +172,6 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 </table>
 
 * **Unterstützung zusätzlicher Datentypen für dynamischen Chat**: Drei neue Datentypen (boolesch, Ganzzahl, Gleitkommazahl) ermöglichen es Ihnen, vorhandene Marketo Engage-Felder im dynamischen Chat für Dinge wie das Targeting auf Grundlage von Bewertungen oder die Frage, ob Besucher Ja/Nein-Fragen haben, besser zu nutzen.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td>Nicht zutreffend</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Terminierte Meetingbenachrichtigungen für dynamischen Chat**: Vertriebsmitarbeiter erhalten automatisierte E-Mail-Benachrichtigungen zu geplanten Sitzungen sowie relevante Informationen zur Chatbot-Interaktion des Besuchers.
 
 <table> 
   <tr> 

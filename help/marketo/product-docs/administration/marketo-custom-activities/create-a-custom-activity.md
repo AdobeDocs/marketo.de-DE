@@ -3,10 +3,10 @@ unique-page-id: 10098479
 description: Erstellen einer benutzerdefinierten Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Aktivität erstellen
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
@@ -18,21 +18,21 @@ Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu er
 >
 >Die meisten Abonnements haben eine Grenze von 10 benutzerdefinierten Aktivitätstypen.
 
-1. Klicken **Admin**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/one.png)
+   ![](assets/create-a-custom-activity-1.png)
 
-1. In **Datenbankverwaltung** click **Benutzerdefinierte Aktivitäten**.
+1. Klicken **Benutzerdefinierte Marketo-Aktivitäten**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-activity-2.png)
 
 1. Klicken **Neue benutzerdefinierte Aktivität**.
 
-   ![](assets/three.png)
+   ![](assets/create-a-custom-activity-3.png)
 
 1. Geben Sie einen Namen und eine optionale Beschreibung ein und klicken Sie auf **Nächste**. Der API-Name wird automatisch ausgefüllt, kann jedoch angepasst werden.
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
@@ -40,13 +40,11 @@ Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu er
 
 1. Definieren Sie Ihre **Filter** und **Trigger** und klicken Sie auf **Nächste**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-activity-5.png)
 
 1. Geben Sie Ihrem primären Feld einen Namen, der zusammenfasst, wofür die benutzerdefinierte Aktivität dient.
 
-   ![](assets/six.png)
-
-   Und das ist es!
+   ![](assets/create-a-custom-activity-6.png)
 
 >[!MORELIKETHIS]
 >
