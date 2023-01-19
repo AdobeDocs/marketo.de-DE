@@ -3,10 +3,10 @@ unique-page-id: 10094188
 description: Genehmigen eines benutzerdefinierten Objekts - Marketo-Dokumente - Produktdokumentation
 title: Genehmigen eines benutzerdefinierten Objekts
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 0%
+source-wordcount: '278'
+ht-degree: 1%
 
 ---
 
@@ -18,17 +18,25 @@ Sie müssen ein benutzerdefiniertes Objekt genehmigen, bevor Sie es verwenden k�
 
 Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. So kann man es genehmigen.
 
-1. Klicken Sie in Admin auf **Benutzerdefinierte Marketo-Objekte** und wählen Sie ein Objekt mit dem Status Entwurf aus.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Wählen Sie ein Objekt mit dem Status Entwurf aus.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Klicken Sie auf **Benutzerdefinierte Objektaktionen** und wählen Sie **Objekt genehmigen**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. Der Status ändert sich in Genehmigt .
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ Nachdem Sie ein genehmigtes benutzerdefiniertes Objekt bearbeitet haben, müssen
 
 1. Wenn Sie ein bereits genehmigtes benutzerdefiniertes Objekt bearbeiten, erhält es den Status Genehmigt mit Entwurf .
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. Wenn Sie bereit sind, den Entwurf zu genehmigen, klicken Sie auf die Schaltfläche **Benutzerdefinierte Objektaktionen** und wählen Sie **Objekt genehmigen**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. Eine Vorschau zeigt die Elemente an, die im Entwurf geändert wurden. Klicken **Genehmigen**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)

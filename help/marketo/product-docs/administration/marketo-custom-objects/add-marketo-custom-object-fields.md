@@ -3,10 +3,10 @@ unique-page-id: 10093688
 description: Benutzerdefinierte Marketo-Objektfelder hinzufügen - Marketo Docs - Produktdokumentation
 title: Benutzerdefinierte Marketo-Objektfelder hinzufügen
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 1%
 
 ---
 
@@ -16,17 +16,21 @@ Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie Felder hi
 
 Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag, um benutzerdefinierte Objekte zu verbinden. Sie werden in einer [separater Artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Klicken **Admin** und in **Datenbankverwaltung** auswählen **Benutzerdefinierte Marketo-Objekte**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-1-18-9-3a2-3a6.png)
+   ![](assets/add-marketo-custom-object-fields-1.png)
+
+1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+
+   ![](assets/add-marketo-custom-object-fields-2.png)
 
 1. Wählen Sie rechts das Objekt aus, dem Sie das Feld hinzufügen möchten.
 
-   ![](assets/image2016-1-18-9-3a5-3a3.png)
+   ![](assets/add-marketo-custom-object-fields-3.png)
 
 1. Im **Felder** Registerkarte, klicken Sie auf **Neues Feld**.
 
-   ![](assets/image2015-9-15-16-3a53-3a40.png)
+   ![](assets/add-marketo-custom-object-fields-4.png)
 
    >[!NOTE]
    >
@@ -34,7 +38,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
 1. Geben Sie einen Anzeigenamen und eine Beschreibung ein.
 
-   ![](assets/image2015-10-5-11-3a35-3a48.png)
+   ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
@@ -42,11 +46,11 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
 1. Wählen Sie nun einen geeigneten Datentyp aus der Liste aus.
 
-   ![](assets/image2015-10-5-11-3a37-3a24.png)
+   ![](assets/add-marketo-custom-object-fields-6.png)
 
 1. Ziehen Sie den Regler Deduplizieren , wenn Sie das neue Feld als eindeutige Kennung verwenden möchten. Klicken **Speichern** zu beenden.
 
-   ![](assets/image2015-10-5-11-3a40-3a12.png)
+   ![](assets/add-marketo-custom-object-fields-7.png)
 
    >[!TIP]
    >
