@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds - Marketo-Dokumente - Produktdokumentation
 title: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dyna
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 Und das ist es! Wenn Sie nun dieses Formular ausfüllen und &quot;USA für Land&quot;auswählen, wird das Feld &quot;Bundesland&quot;mit den angegebenen Optionen dynamisch angezeigt.
+
+>[!IMPORTANT]
+>
+>Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte über ein benutzerdefiniertes Skript mithilfe von [API-Funktionen](https://developers.marketo.com/javascript-api/forms/){target="_blank"} in Forms 2.0.
+>
+>Bedingte Felder funktionieren möglicherweise nicht wie erwartet, wenn Feldwerte von anderen externen Skripten als der Forms 2.0 JavaScript-API geändert werden.
