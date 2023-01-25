@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 296657faa22a31de377fe6e6bd2a72dab07d02dd
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '8822'
+source-wordcount: '8833'
 ht-degree: 5%
 
 ---
@@ -178,6 +178,7 @@ ht-degree: 5%
          + [Hinzufügen oder Entfernen eines Produkt-Admins](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Hinzufügen oder Entfernen von Benutzern](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Benutzeranmeldung bei Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
+         + [Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Einstellungen {#settings}
          + [Massenexport-API-Informationen](product-docs/administration/settings/bulk-export-api-information.md)
          + [Ändern der Attributionseinstellungen für Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
