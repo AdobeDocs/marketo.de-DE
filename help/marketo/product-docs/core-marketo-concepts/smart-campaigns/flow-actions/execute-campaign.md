@@ -2,9 +2,9 @@
 description: Ausführen von Campaign - Marketo Docs - Produktdokumentation
 title: Kampagne ausführen
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Es gibt viele Dinge, die Sie mit einer ausführbaren Kampagne tun können. Sie s
 
 Sie können sie auch verwenden, wenn Sie einen separaten Fluss ausführen müssen. Sie müssen jedoch von den Ergebnissen dieses Flusses in nachfolgenden Flussschritt-Optionen abhängig sein (d. h., wenn dies der Fall ist).
 
-Die Ausführung von Campaign ist eine Verbesserung von [Anforderungskampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), da sie in Serie oder parallel ausgeführt werden kann, während Letztere nur parallel ausgeführt wird.
+Die Ausführung von Campaign ist eine Verbesserung von [Anforderungskampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), da sie in Serie ausgeführt werden kann, während Letztere nur parallel ausgeführt wird.
 
 >[!NOTE]
 >
