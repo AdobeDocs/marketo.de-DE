@@ -2,9 +2,9 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '486'
 ht-degree: 7%
 
 ---
@@ -30,8 +30,6 @@ Bei der ersten Anmeldung erscheint ein Pop-up, mit dem Sie das neue Erlebnis her
 
 Die Tour führt Sie durch alles, was Sie wissen müssen!
 
-![](assets/overview-2.png)
-
 ## Neue Funktionen {#whats-new}
 
 In der modernen Benutzeroberfläche gibt es viele neue Funktionen, die alle darauf ausgelegt sind, Ihr Marketing-Erlebnis deutlich zu verbessern.
@@ -40,7 +38,7 @@ In der modernen Benutzeroberfläche gibt es viele neue Funktionen, die alle dara
 
 Die neue Benutzeroberfläche verfügt über eine verbesserte und erweiterte Ikonographie. Weitere Informationen dazu finden Sie hier: [Symbol Glossar](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **Globale Navigation**
 
@@ -191,15 +189,12 @@ Sehen Sie sich das neue globale Nav an.
    <td>Alle vorherigen aufgeführten Superball-Elemente</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Verwenden Sie dies, um Feedback zu Ihrem Erlebnis zu geben.</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>Wenn Sie mehrere Abonnements haben, klicken Sie auf Ihren Unternamen, um einfach zu einem anderen zu wechseln.</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>Globale Suche - Sie können jetzt Ihre gesamte Instanz von hier aus durchsuchen</td> 
   </tr>
  </tbody>
