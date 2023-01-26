@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '632'
 ht-degree: 8%
 
 ---
@@ -188,6 +188,8 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-**_Webinar zur Produktversion_**
+## Ankündigungen {#announcements}
 
-[Webinar zur Marketo Engage-Version vom Oktober 2022 und Januar 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Marketo REST API-Änderung**: Mit der Version vom Oktober 2022 haben wir eine geringfügige Änderung an der Antwortmeldung der Marketo REST API vorgenommen. Siehe hierzu [Marketo-Benachrichtigungsbeitrag](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} für Details.
+
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom Oktober 2022 und Januar 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
