@@ -2,9 +2,9 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 7%
 
 ---
@@ -208,4 +208,4 @@ Sehen Sie sich das neue globale Nav an.
 >
 >Die Verwendung der Suche im Baum liefert nur Ergebnisse aus dem Bereich, in dem Sie sich befinden (z. B. Marketingaktivitäten). Wenn Sie Ihre gesamte Instanz durchsuchen möchten, verwenden Sie die globale Suche.
 
-Genießen Sie das neue Marketo Engage-Erlebnis und teilen Sie Ihr Feedback!
+Genießen Sie das neue Marketo Engage-Erlebnis!
