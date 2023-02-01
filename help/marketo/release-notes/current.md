@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '632'
-ht-degree: 8%
+source-wordcount: '631'
+ht-degree: 7%
 
 ---
 
@@ -36,8 +36,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalten</a></td>
   </tr>
   </tbody>
 </table>
@@ -78,7 +78,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Marketo Measurement Ultimate**: Ermöglicht die vollständige B2B-Zuordnung für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für die Adobe RT-CDP über freigegebene AEP-Daten.
+* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Zuordnung für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für die Adobe RT-CDP über freigegebene AEP-Daten.
 
 <table> 
   <tr> 
