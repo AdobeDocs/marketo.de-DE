@@ -1,7 +1,7 @@
 ---
 description: Campaign Inspector - Marketo Docs - Produktdokumentation
 title: Kampagnenprüfung
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 9%
@@ -12,7 +12,7 @@ ht-degree: 9%
 
 Mit dem Kampagneninspektor können Sie alle Ihre Smart-Kampagnen an einem Ort anzeigen/durchsuchen.
 
-## Campaign Inspector aktivieren {#activate-campaign-inspector}
+## Campaign Inspector aktivieren {#enable-campaign-inspector}
 
 1. Navigieren Sie zum **Admin**-Bereich.
 
