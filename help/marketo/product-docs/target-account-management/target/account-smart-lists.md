@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Intelligente Kontolisten - Marketo-Dokumente - Produktdokumentation
 title: Intelligente Kontolisten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -55,6 +55,10 @@ Smart-Listen für Konten funktionieren ähnlich wie standardmäßige Smart-Liste
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >In Ihrer [Ranking und Optimierung von Kontoprofilen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) wird als benutzerdefinierte Kontoattribute angezeigt, die in Ihrer intelligenten Kontoliste verwendet werden können. Diese benutzerdefinierten Attributdaten basieren auf dem Zeitpunkt, zu dem das Kontoprofilmodell erstellt/aktualisiert wurde.
 
 1. Wählen Sie die Filter für übereinstimmende Personen aus. In diesem Beispiel wählen wir _Bundesstaat Kalifornien_.
 

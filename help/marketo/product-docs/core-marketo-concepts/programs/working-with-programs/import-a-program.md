@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Programm importieren - Marketo-Dokumente - Produktdokumentation
 title: Programm importieren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -59,31 +59,6 @@ Sie erhalten eine E-Mail-Bestätigung, sobald der Import abgeschlossen ist.
 >[!NOTE]
 >
 >Sie müssen importierte Batch-Kampagnen neu planen und Trigger-Kampagnen aktivieren. Das System deaktiviert automatisch Kampagnenzeitpläne und Trigger-Kampagnen im importierten Programm.
-
-## Ermitteln von vordefinierten Programmen in der Marketo-Programmbibliothek {#identify-pre-built-programs-in-the-marketo-program-library}
-
-Die Marketo-Programmbibliothek enthält vordefinierte, getestete Programme, die Sie in Ihr Abonnement importieren können. Zu den verfügbaren Programmen gehören:
-
-1. **Grundlegende Treibstoffzufuhr.** Sendet eine Reihe von E-Mails, getrennt durch Warteschritte.
-1. **Datenverwaltung.** Die Datenintegrität wird mithilfe von Smart-Kampagnen verwaltet.
-1. **E-Mail mit Landingpage.** Sendet eine erste E-Mail mit einem Angebot, z. B. &quot;Dieses Whitepaper herunterladen&quot;. Fügt eine Bestätigungs- oder Erinnerungsmail hinzu. Enthält eine Landingpage mit einem Formular.
-1. **E-Mail mit Fortschrittsstatus.** Sendet eine E-Mail-Nachricht mit einem trackbaren Link, auf den die Person klicken kann. Aktualisiert den Fortschritt für jede Person - Gesendet, Geöffnet, Angeklickt usw.
-1. **Interessante Momente.** Erstellt interessante Momente für Ihr Verkaufsteam, um sie in der Schleife zu halten.
-1. **Landingpage mit Autoresponder.** Verwenden Sie herunterladbare Inhalte, um neue Personen zu gewinnen und sie zu pflegen. Umfasst Landingpages und Formulare.
-1. **Lebenszyklus 2.** Verwendet Scoring, um eine Person von einer neuen in eine Marketing qualifizierte zu verschieben.
-1. **Mobile E-Mail-Vorlage.** Eine responsive E-Mail-Vorlage, die mit iPhone und Android getestet wurde. Bestimmte Versionen von Android-, MS Outlook-, Exchange- und Drittanbieter-Apps wie Gmail und Yahoo! Mobile E-Mail-Apps unterstützen nicht das für responsive Vorlagen erforderliche CSS. Wir empfehlen Ihnen, vor dem Versand von E-Mails einen Test durchzuführen.
-1. **Preisausschreiben beim Programmimport.** Preisausschreiben für diejenigen, die die Programmbibliothek ausprobieren! Validieren Sie einfach die E-Mails und die Landingpage und aktivieren Sie die Smart-Kampagne. Dann sehen Sie sich die genehmigte Landingpage an, füllen Sie das Formular aus und Sie werden eingetragen!
-1. **Verfügbare Kampagnen für Verkäufe.** Bietet Ihren Vertriebsmitarbeitern die Möglichkeit, Smart-Kampagnen aus Marketo über ein Dashboard in Ihrem CRM-System auszuführen.
-1. **Scoring - Spark Edition.** Demografische und verhaltensbasierte Bewertung, die in einem einzigen Scoring-Feld erfasst werden. Umfasst mehr als zwei Dutzend Scoring-bezogene Kampagnen.
-1. **Scoring - Standardbearbeitung und Auswahl von Editionen.** Demografische und verhaltensbezogene Bewertung, die in separaten Scoring-Feldern erfasst wird. Umfasst mehr als zwei Dutzend Scoring-bezogene Kampagnen.
-1. **Synchronisieren neuer Personen mit CRM.** Die Kampagne, die neue Personen mit Ihrem CRM-System synchronisiert. Er weist einen Personenstand so zu, dass er als nicht verkaufsbereit erkannt wird.
-1. **Webinar mit Ereignisadapter.** Eine vollständige Reihe von E-Mails - wie z. B. Einladungen und Erinnerungen - sowie Landingpages mit Formularen und Kampagnen, um Personen durch das Programm zu bewegen. Dieses Programm enthält aktuelle Informationen über Registrierung, Teilnahme usw. von Online-Ereignisanbietern wie WebEx.
-1. **Webinar ohne Ereignisadapter.** Wie oben, aber mit manuellen Prozessen für die Aufzeichnung der Registrierung, Anwesenheit, usw.
-1. **Scoring-Programm für Sirius-Entscheidungen**. Dieses Programm unterstützt das Standard-Scoring-Modell für Sirius-Entscheidungen, einschließlich der impliziten und expliziten Scoring-Regeln und der Zuweisung von matrixten Personen.
-
->[!CAUTION]
->
->Vor dem Import des Programms Scoring - Standard &amp; Select Editions müssen Sie zwei benutzerdefinierte Felder (&quot;Demografische Punktzahl&quot;und &quot;Verhaltensbewertung&quot;) erstellen.
 
 ## Auswirkungen auf externe Assets bei Programmeinfuhren {#impact-on-external-assets-during-program-imports}
 
