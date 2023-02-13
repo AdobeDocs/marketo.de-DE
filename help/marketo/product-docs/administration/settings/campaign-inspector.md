@@ -1,10 +1,10 @@
 ---
 description: Campaign Inspector - Marketo Docs - Produktdokumentation
 title: Kampagnenprüfung
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 7%
 
 ---
 
@@ -29,6 +29,10 @@ Mit dem Kampagneninspektor können Sie alle Ihre Smart-Kampagnen an einem Ort an
 1. Wählen Sie die **Aktiviert** Kontrollkästchen und klicken Sie auf **Speichern**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >Der gewünschte Arbeitsbereich muss im Baum ausgewählt werden, damit die Registerkarte &quot;Kampagneninspektor&quot;angezeigt wird, nachdem sie aktiviert wurde.
 
 ## Verwenden des Campaign-Inspektors {#using-campaign-inspector}
 
