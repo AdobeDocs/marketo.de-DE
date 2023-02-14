@@ -3,10 +3,10 @@ unique-page-id: 10093192
 description: Erstellen benutzerdefinierter Marketo-Objekte - Marketo-Dokumente - Produktdokumentation
 title: Erstellen benutzerdefinierter Marketo-Objekte
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '704'
+ht-degree: 2%
 
 ---
 
@@ -26,13 +26,17 @@ Verwenden Sie benutzerdefinierte Objekte in Marketo, um geschäftsspezifische Me
 
 In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendung in einer 1:n-Struktur gezeigt. Später erstellen Sie ein benutzerdefiniertes Kursobjekt und ein zwischengeschaltetes Objekt, das in einer n:n-Struktur verwendet werden kann.
 
-1. Klicken **Admin** und in **Datenbankverwaltung** select **Benutzerdefinierte Marketo-Objekte**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. Klicken **Neues benutzerdefiniertes Objekt**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendu
 
 1. Geben Sie einen Anzeigenamen ein. Der API-Name und der Plural-Name werden automatisch ausgefüllt. Geben Sie eine Beschreibung ein (optional).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >Sie können diese Felder beim Erstellen bearbeiten. Nach dem Speichern können Sie jedoch nur das Feld Plural-Name und die **In Lead-Detail anzeigen** festlegen.
 
-1. Ziehen Sie die **In Lead-Detail anzeigen** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Lead-Datenbank&quot;anzeigen möchten. Klicken **Speichern**.
+1. Ziehen Sie die **In Lead-Detail anzeigen** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken **Speichern**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. Die benutzerdefinierten Objektinformationen zeigen den eingegebenen Inhalt an. Beachten Sie, dass es sich im Status Entwurf befindet.
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    Der nächste Schritt besteht darin, Felder hinzuzufügen [Erstellen eines benutzerdefinierten Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, mit dem Sie eine n:n-B
 >
 >Für eine n:n-Beziehung müssen Sie keine Verknüpfung im benutzerdefinierten Objekt erstellen. Stattdessen fügen Sie dem zwischengeschalteten Objekt zwei Links hinzu (siehe unten).
 
-1. Klicken **Admin** und in **Datenbankverwaltung** select **Benutzerdefinierte Marketo-Objekte**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. Klicken **Neues benutzerdefiniertes Objekt**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. Geben Sie einen Anzeigenamen ein. Der API-Name und der Plural-Name werden automatisch ausgefüllt. Geben Sie eine Beschreibung ein (optional).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >Sie können diese Felder beim Erstellen bearbeiten. Nach dem Speichern können Sie jedoch nur das Feld Plural-Name und die **In Lead-Detail anzeigen** festlegen.
 
-1. Ziehen Sie die **In Lead-Detail anzeigen** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Lead-Datenbank&quot;anzeigen möchten. Klicken **Speichern**.
+1. Ziehen Sie die **In Lead-Detail anzeigen** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken **Speichern**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. Die benutzerdefinierten Objektinformationen zeigen den eingegebenen Inhalt an. Beachten Sie, dass es sich im Status Entwurf befindet.
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Verwenden Sie ein zwischengeschaltetes Objekt, um ein benutzerdefiniertes Objekt
 >
 >Es ist nicht erforderlich, ein Zwischenobjekt für eine 1:n-benutzerdefinierte Objektstruktur zu erstellen.
 
-1. Klicken **Admin** und in **Datenbankverwaltung** auswählen **Benutzerdefinierte Marketo-Objekte**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. Klicken **Neues benutzerdefiniertes Objekt**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. Geben Sie einen Anzeigenamen ein. Der API-Name und der Plural-Name werden automatisch ausgefüllt. Geben Sie eine Beschreibung ein (optional).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >Sie können diese Felder beim Erstellen bearbeiten. Nach dem Speichern können Sie jedoch nur das Feld Plural-Name und den Regler In Lead-Detail anzeigen bearbeiten.
 
-1. Ziehen Sie die **In Lead-Detail anzeigen** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Lead-Datenbank&quot;anzeigen möchten. Klicken **Speichern**.
+1. Ziehen Sie die **In Lead-Detail anzeigen** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken **Speichern**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. Die benutzerdefinierten Objektinformationen zeigen den eingegebenen Inhalt an. Beachten Sie, dass es sich im Status Entwurf befindet.
 

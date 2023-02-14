@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: Trigger von benutzerdefinierten Objektänderungen - Marketo Docs - Produktdokumentation
 title: Trigger von benutzerdefinierten Objektänderungen
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -30,27 +30,27 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger hab
 
 1. Navigieren Sie in Marketo zu **Marketingaktivitäten.**
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. Erstellen oder öffnen Sie eine vorhandene Smart-Kampagne und wählen Sie die Smart-Liste aus.
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. Suchen Sie nach dem benötigten Trigger und ziehen Sie ihn auf die Arbeitsfläche.
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. Wählen Sie das Attribut Trigger aus.
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. Optional können Sie eine Einschränkung festlegen.
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. Und da bist du. Die Änderung wird automatisch gespeichert.
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >

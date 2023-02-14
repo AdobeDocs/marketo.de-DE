@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: Importieren benutzerdefinierter Objektdaten - Marketo Docs - Produktdokumentation
 title: Benutzerdefinierte Objektdaten importieren
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -16,23 +16,23 @@ Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren
 
 1. Wechseln Sie in meiner Marketo zu **Datenbank**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. Klicken **Neu** und wählen Sie **Benutzerdefinierte Objektdaten importieren**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. Klicken **Durchsuchen** , um die Datendatei zu suchen. Wählen Sie das Dateiformat aus (in diesem Beispiel durch Komma getrennte Werte).
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. Wählen Sie das benutzerdefinierte Objekt aus.
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. Wählen Sie den Deduplizierungsmodus aus der Dropdown-Liste aus. Klicken **Nächste**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren
 
 1. Ordnen Sie jede Spalte einem Marketo-Feld zu und wählen Sie es aus der Dropdown-Liste aus.
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren
 
 1. Klicken **Nächste**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. Klicken **Import**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren
 
 1. In der rechten oberen Ecke des Bildschirms sehen Sie eine Benachrichtigung, während der Import ausgeführt wird, und die Endergebnisse, wenn der Import abgeschlossen ist.
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    Ja!
 
