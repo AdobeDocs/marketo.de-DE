@@ -3,10 +3,10 @@ unique-page-id: 2950682
 description: Erstellen eines Programmkanals - Marketo Docs - Produktdokumentation
 title: Erstellen eines Programmkanals
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 0%
+source-wordcount: '428'
+ht-degree: 1%
 
 ---
 
@@ -22,9 +22,13 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 >
 >Weitere Informationen [Programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), das wichtigste Element in Marketo.
 
-1. Unter dem **Admin** Abschnitt, klicken Sie auf **Tags**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. Klicken **Tags**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 
 1. Klicken Sie auf **+** neben **Kanal** um vorhandene Kanäle zu erweitern und anzuzeigen.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. under **Neu** klicken **Neuer Kanal**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 
 1. Gehen wir zum Beispiel zum Parteitakanal. Benennen Sie Ihre neue **Kanal** und wählen Sie den Programmtyp aus, auf den sie angewendet werden soll.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
    >
    >Bei Verwendung von &quot;Ereignis mit Webinar&quot;werden Systemzuordnungen gesperrt (wie für Webinar-Integrationen erforderlich) und können nicht bearbeitet werden.
 
-   Geben Sie die ersten beiden Programmstatusnamen ein und klicken Sie dann auf Schritt hinzufügen .
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. Geben Sie die ersten beiden Programmstatusnamen ein und klicken Sie auf **Schritt hinzufügen**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. Andere Programme eingeben **Status** und **Schritt** number und klicken Sie auf **Schritt hinzufügen**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 
 1. Letztes Programm eingeben **Status** und **Schritt** Zahl.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 
 1. Wählen Sie die **Mobile-Check-in-Status** für **Angemeldet**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. Wählen Sie die **Mobile-Check-in-Status** für **Angemeldet**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 
 1. Wählen Sie die **Erfolg** Programmstatus, und klicken Sie auf **Erstellen**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    Gut gemacht! Wenn Sie ein neues Programm dieses Typs erstellen, ist dieser neue Kanal eine der Möglichkeiten.
