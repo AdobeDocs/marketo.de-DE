@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketo-Dokumente - Produktdokumentation
 title: Marketo-Glossar
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -171,7 +171,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">In Marketo können Sie Duplikate verschiedener Entitätstypen innerhalb Ihrer Instanz erstellen. Sie können klonen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">Programme</a>, und <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">Asset innerhalb eines Programms</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>und mehr.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Der erste Teil Ihrer URL. Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet (z. B. <em>Info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Zustellbarkeit</strong></td> 
-   <td colspan="1">Die Fähigkeit einer E-Mail-Nachricht, den Posteingang des Empfängers zu erreichen, was durch <strong>Spam</strong> und clientseitige Filter. Im Unterschied zu "Zugestellt", der nur angibt, dass die E-Mail an den Empfänger-Server gesendet wurde.</td> 
+   <td colspan="1">Die Möglichkeit, dass eine E-Mail-Nachricht in den Posteingang des Empfängers gelangt, was durch <strong>Spam</strong> und clientseitige Filter. Im Unterschied zu "Zugestellt", der nur angibt, dass die E-Mail an den Empfänger-Server gesendet wurde.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Nachfragesteigerung</strong></td> 
@@ -276,7 +276,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Identifizierte E-Mail-Domain-Schlüssel</a> (DKIM)</strong></td> 
-   <td colspan="1">Ein Authentifizierungsmechanismus, der die Übertragungsdomäne sichert und es Absendern ermöglicht, den Domänennamen in der Absenderadresse mit einer bestimmten E-Mail-Nachricht zu verknüpfen. Dadurch kann der Empfänger wissen, dass die E-Mail vom Eigentümer der Domain rechtmäßig gesendet wurde. Ein Absender signiert die E-Mail mit einer digitalen Signatur im Nachrichtenkopf. Der Empfänger kann diese Signatur mithilfe eines öffentlichen Schlüssels entschlüsseln, der vom Eigentümer der Domain im DNS veröffentlicht wurde, um sicherzustellen, dass die E-Mail vom Eigentümer der Domain rechtmäßig gesendet wurde.</td> 
+   <td colspan="1">Ein Authentifizierungsmechanismus, der die Übertragungsdomäne sichert und es Absendern ermöglicht, den Domänennamen in der Absenderadresse mit einer bestimmten E-Mail-Nachricht zu verknüpfen. Dadurch kann der Empfänger wissen, dass die E-Mail vom Besitzer der Domain rechtmäßig gesendet wurde. Ein Absender signiert die E-Mail mit einer digitalen Signatur im Nachrichtenkopf. Der Empfänger kann diese Signatur mithilfe eines öffentlichen Schlüssels entschlüsseln, der vom Eigentümer der Domain im DNS veröffentlicht wurde, um sicherzustellen, dass die E-Mail vom Eigentümer der Domain rechtmäßig gesendet wurde.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Entwurf</strong></td> 
@@ -696,7 +696,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Reputation</strong></td> 
-   <td colspan="1"><p>Leistungsbewertung im Zeitverlauf, bestehend aus verschiedenen Signalen und/oder Datenpunkten. Die Reputation kann an die Domain eines Absenders gebunden werden. <strong>content</strong>, oder IP-Adresse und betrifft <strong>Zustellbarkeit</strong>.</p></td> 
+   <td colspan="1"><p>Leistungsbewertung im Zeitverlauf, bestehend aus verschiedenen Signalen und/oder Datenpunkten. Die Reputation kann an die Domain eines Absenders gebunden sein. <strong>content</strong>, oder IP-Adresse und betrifft <strong>Zustellbarkeit</strong>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Rückgabepfadadresse</strong></td> 
