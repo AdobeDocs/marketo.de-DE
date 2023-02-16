@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Grundlegendes zu Datenschutzeinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Datenschutzeinstellungen
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Marketo bietet Marketing-Experten die Möglichkeit, die Zustimmung von Webbesuch
 
 Oder der Marketing-Experte kann Benutzer verfolgen, aber eine anonymisierte IP verwenden.
 
-Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch *does&#39;t* Änderungen an der Konfiguration von Marketo vornehmen, bleiben die Marketo-Funktionen unverändert.
+Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch *nicht* Änderungen an der Konfiguration von Marketo vornehmen, bleiben die Marketo-Funktionen unverändert.
 
 ## Browsereinstellungen für &quot;Nicht verfolgen&quot; {#browser-settings-for-do-not-track}
 
@@ -43,17 +43,17 @@ Im Folgenden finden Sie Beispiele für eine Webseite mit einem Ausschluss-Link u
 
 Hier ist eine Webseite mit einer Schaltfläche mit dem Parameter &quot;?marketo_opt_out=true&quot; im Ausschluss-Link.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 Sie können eine Landingpage erstellen und veröffentlichen, wenn auf Ihren Link mit dem Parameter &quot;?marketo_opt_out=true&quot;geklickt wird.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 Wenn auf den Link geklickt wird, fügt Marketo ein Cookie mit dem Namen **mkto_opt_out** zum Browser des Besuchers, der das Munchkin-Tracking für den Site-Besucher deaktiviert, der auf den Link mit dem obigen Parameter klickt.
 
 Um zu überprüfen, ob das Cookie platziert werden kann, stellen Sie sicher, dass Sie ein Cookie-Lead sind, und klicken Sie auf den Link. Überprüfen Sie dann Ihre Browser-Cookies, um sicherzustellen, dass die Variable **mkto_opt_out** -Cookie hinzugefügt wurde.
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >

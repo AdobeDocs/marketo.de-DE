@@ -3,10 +3,10 @@ unique-page-id: 2359902
 description: Festlegen der standardmäßigen Standorteinstellungen für ein Abonnement - Marketo Docs - Produktdokumentation
 title: Festlegen der Standardeinstellungen für den Speicherort eines Abonnements
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
@@ -22,23 +22,27 @@ In diesem Artikel wird beschrieben, wie ein Administrator die standardmäßigen 
 
 Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, übernehmen neu erstellte Benutzer diese Einstellungen. Benutzer können [Sprache, Gebietsschema und Zeitzonenvoreinstellungen ändern](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in ihren einzelnen Konten.
 
-1. under **Admin** klicken **Standort**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-11-7-11-3a39-3a17.png)
+   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+
+1. Klicken **Standort**.
+
+   ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
 1. Klicken **Bearbeiten**.
 
-   ![](assets/image2014-11-7-11-3a40-3a39.png)
+   ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    Dieses Abonnement wurde auf Englisch erstellt. Nehmen wir an, Sie waren in London und wollten das Standardgebietsschema und die Zeitzone ändern. Das Gebietsschema bestimmt die Formatierung für Zahlen, Daten und Uhrzeiten.
 
 1. Wählen Sie die **Gebietsschema** und ändern Sie sie in **englisch** (Vereinigtes Königreich).
 
-   ![](assets/image2014-11-7-11-3a51-3a26.png)
+   ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
 1. Wählen Sie abschließend die geeignete **Zeitzone**.
 
-   ![](assets/image2014-11-7-14-3a42-3a34.png)
+   ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
@@ -50,11 +54,11 @@ Wenn Sie das Standardgebietsschema für Ihre Benutzer ändern, sollten Sie auch 
 
 1. Klicken **Bearbeiten** in den Einstellungen für die Anmeldewährung.
 
-   ![](assets/image2014-11-7-15-3a50-3a33.png)
+   ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
 1. Wählen Sie das gewünschte Währungsformat aus und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-11-7-15-3a58-3a21.png)
+   ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
    Herzlichen Glückwunsch!  Sie haben Ihre Standorteinstellungen für das Abonnement geändert.
 

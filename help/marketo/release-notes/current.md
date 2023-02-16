@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '630'
 ht-degree: 7%
 
 ---
@@ -154,8 +154,8 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>

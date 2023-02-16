@@ -3,10 +3,10 @@ unique-page-id: 2359920
 description: Fallback-Seite einrichten - Marketo-Dokumente - Produktdokumentation
 title: Fallback-Seite festlegen
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 10%
 
 ---
 
@@ -18,16 +18,20 @@ Fallback-Seiten sind die letzte Verteidigungslinie, wenn Ihre Landingpage offlin
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. under **Admin** klicken **Landing Pages**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-10-12-3a7-3a22.png)
+   ![](assets/set-a-fallback-page-1.png)
+
+1. Klicken Sie auf **Landing Pages**.
+
+   ![](assets/set-a-fallback-page-2.png)
 
 1. Unter dem **Landing Pages** Registerkarte, klicken Sie auf **Bearbeiten**.
 
-   ![](assets/image2014-9-10-12-3a7-3a5.png)
+   ![](assets/set-a-fallback-page-3.png)
 
 1. Geben Sie einen **Fallback-Seite** im Dialogfeld und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-10-12-3a6-3a2.png)
+   ![](assets/set-a-fallback-page-4.png)
 
 Voilà! Sie haben gerade eine Fallback-Seite hinzugefügt! Keine 404 Seiten mehr.
