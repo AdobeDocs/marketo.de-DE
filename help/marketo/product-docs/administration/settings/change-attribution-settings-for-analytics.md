@@ -3,10 +3,10 @@ unique-page-id: 2360217
 description: Ändern der Attributionseinstellungen für Analytics - Marketo Docs - Produktdokumentation
 title: Ändern der Attributionseinstellungen für Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 3%
 
 ---
 
@@ -16,13 +16,17 @@ Sie können die Art und Weise ändern, in der Marketo Kontakte mit Chancen für 
 
 Diese Einstellungen wirken sich auf den Umsatz-Explorer unter der [Analyse der Programmchancen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)und Bereiche der Interessentenanalyse. Dies wirkt sich auch auf den Bericht Programm Analyzer aus.
 
-1. Unter dem **Admin** Abschnitt, klicken Sie auf **Umsatzzyklusanalysen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. Klicken **Umsatzzyklusanalysen**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. Klicken Sie auf **Bearbeiten** Link unter **Attribution**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ Diese Einstellungen wirken sich auf den Umsatz-Explorer unter der [Analyse der P
 
 1. Wählen Sie eine Option aus und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >

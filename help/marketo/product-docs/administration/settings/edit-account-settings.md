@@ -3,10 +3,10 @@ unique-page-id: 4719071
 description: Kontoeinstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Kontoeinstellungen bearbeiten
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 12%
+source-wordcount: '51'
+ht-degree: 21%
 
 ---
 
@@ -18,20 +18,20 @@ Muss die E-Mail-Adresse, den Namen oder die Telefonnummer des Kontos geändert w
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **Admin**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/adminhand.png)
+   ![](assets/edit-account-settings-1.png)
 
 1. Auswählen **Mein Konto**.
 
-   ![](assets/image2015-6-23-15-3a16-3a52.png)
+   ![](assets/edit-account-settings-2.png)
 
 1. Auswählen **Kontoeinstellungen bearbeiten**.
 
-   ![](assets/image2015-6-23-15-3a21-3a41.png)
+   ![](assets/edit-account-settings-3.png)
 
 1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **Speichern**.
 
-   ![](assets/image2015-6-23-15-3a20-3a16.png)
+   ![](assets/edit-account-settings-4.png)
 
    Ta-da! Informationen wurden aktualisiert.

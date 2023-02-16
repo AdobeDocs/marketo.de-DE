@@ -3,10 +3,10 @@ unique-page-id: 2359916
 description: Ändern des Marketo-Kennworts - Marketo Docs - Produktdokumentation
 title: Marketo-Kennwort ändern
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 8%
 
 ---
 
@@ -14,20 +14,22 @@ ht-degree: 0%
 
 Ändern Sie Ihr Marketo-Kennwort mit diesen einfachen Schritten.
 
-1. Jeder Marketo-Benutzer kann auf seinen Namen klicken und **Mein Konto**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2015-11-10-10-3a40-3a8.png)
+   ![](assets/change-your-marketo-password-1.png)
 
-1. Administratoren können auch auf **Admin** und dann **Kennwort ändern** , um das Administratorkennwort zu ändern.
+1. Klicken **Mein Konto**.
 
-   ![](assets/image2014-9-10-9-3a43-3a47.png)
+   ![](assets/change-your-marketo-password-2.png)
 
-1. Geben Sie das alte Kennwort und das neue Kennwort ein und klicken Sie auf **Speichern** wenn Ihr neues Kennwort alle Anforderungen erfüllt.
+1. Klicken **Kennwort ändern**.
 
-   ![](assets/image2014-9-10-9-3a44-3a2.png)
+   ![](assets/change-your-marketo-password-3.png)
 
-   Halte es geheim! Halte es sicher!
+1. Geben Sie das alte Kennwort und das neue Kennwort ein und klicken Sie auf **Speichern**.
 
-   >[!TIP]
+   ![](assets/change-your-marketo-password-4.png)
+
+   >[!NOTE]
    >
-   >Was ist ein gutes Kennwort? Etwas lange mit vielen Buchstaben, Zahlen und Symbolen wie &quot;M@rk3to !$ Gre@t&quot;. Außer, nicht jenes. Sei kreativ und mach dein eigenes.
+   >Beachten Sie bei der Aktualisierung die Passwortanforderungen.

@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Link-Ablauf in Berichten und Warnhinweisen bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Link-Ablauf in Berichten und Warnhinweisen bearbeiten
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Die Links in den E-Mails zum Abonnement Ihres Berichts laufen nach drei Tagen ab
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. under **Admin** klicken **Anmeldeeinstellungen**.
+1. Navigieren Sie zu **Admin** Abschnitt.
 
-   ![](assets/image2014-9-24-11-3a33-3a31.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
+
+1. Klicken **Anmeldeeinstellungen**.
+
+   ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
 1. Klicken **URL-Ablauf bearbeiten**.
 
-   ![](assets/image2014-9-24-11-3a33-3a43.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
 1. Wählen Sie in der Dropdown-Liste die Anzahl der Tage vor Ablauf des Links aus. Klicken **Speichern**.
 
-   ![](assets/emaillinkexpiration.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >

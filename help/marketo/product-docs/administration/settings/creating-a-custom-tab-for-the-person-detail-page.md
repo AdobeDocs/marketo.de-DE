@@ -3,10 +3,10 @@ unique-page-id: 2360305
 description: Erstellen einer benutzerdefinierten Registerkarte für die Seite "Personendetails"- Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer benutzerdefinierten Registerkarte für die Seite "Personendetails"
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '149'
+ht-degree: 3%
 
 ---
 
@@ -14,21 +14,25 @@ ht-degree: 0%
 
 Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, sollten Sie ein benutzerdefiniertes Layout erstellen, um die Dinge zu vereinfachen.
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Feldverwaltung**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-16-16-3a41-3a41.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
+
+1. Klicken **Feldverwaltung**.
+
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
 1. Klicken Sie auf **Custom Layout Designer** Registerkarte.
 
-   ![](assets/image2014-9-16-16-3a41-3a55.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
 1. Suchen Sie ein Feld, das Sie hinzufügen möchten, und ziehen Sie es per Drag-and-Drop auf die Arbeitsfläche.
 
-   ![](assets/three-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
 1. Fügen Sie weitere Felder hinzu, bis das Layout Ihren Vorstellungen entspricht.
 
-   ![](assets/image2014-9-16-16-3a42-3a25.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
    >[!NOTE]
    >
@@ -36,8 +40,8 @@ Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, so
 
    Wenn Sie ein Feld entfernen möchten, klicken Sie mit der rechten Maustaste auf das zu entfernende Feld und klicken Sie auf **Löschen**.
 
-   ![](assets/image2014-9-16-16-3a43-3a56.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
    Fantastische Arbeit! Wenn Sie jetzt die Details einer Person laden, können Sie Ihr benutzerdefiniertes Layout verwenden, um auf die für Sie wichtigen Informationen zuzugreifen.
 
-   ![](assets/six-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

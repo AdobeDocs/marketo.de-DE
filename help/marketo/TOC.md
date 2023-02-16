@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '8829'
+source-wordcount: '8828'
 ht-degree: 5%
 
 ---
@@ -186,7 +186,7 @@ ht-degree: 5%
          + [Marketo-Kennwort ändern](product-docs/administration/settings/change-your-marketo-password.md)
          + [Kennwortsicherheitseinstellungen ändern](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Erstellen einer benutzerdefinierten Registerkarte für die Seite &quot;Personendetails&quot;](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Landingpage-URLs mit einem CNAME (Administration) anpassen](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
+         + [Landingpage-URLs mit einem CNAME anpassen](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [Kontoeinstellungen bearbeiten](product-docs/administration/settings/edit-account-settings.md)
          + [Browserunterstützungseinstellungen für &quot;Nicht verfolgen&quot; bearbeiten](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Einstellungen der Landingpage bearbeiten](product-docs/administration/settings/edit-landing-page-settings.md)
