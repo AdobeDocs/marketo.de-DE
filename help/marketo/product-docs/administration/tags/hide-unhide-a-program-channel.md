@@ -3,10 +3,10 @@ unique-page-id: 2360276
 description: Ein Programmkanal ausblenden/ausblenden - Marketo-Dokumente - Produktdokumentation
 title: Ein Programmkanal ausblenden/einblenden
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 4%
 
 ---
 
@@ -20,17 +20,21 @@ Sie können [Löschen eines Programmkanals](/help/marketo/product-docs/administr
 
 ## Ausblenden eines Programmkanals {#hide-a-program-channel}
 
-1. under **Admin** klicken Sie auf **Tags**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-24-15-3a45-3a7.png)
+   ![](assets/hide-unhide-a-program-channel-1.png)
+
+1. Klicken **Tags**.
+
+   ![](assets/hide-unhide-a-program-channel-2.png)
 
 1. Klicken Sie auf **Kanal** und wählen Sie die **Kanal** zum Verbergen.
 
-   ![](assets/image2014-9-24-15-3a45-3a41.png)
+   ![](assets/hide-unhide-a-program-channel-3.png)
 
 1. under **Tag-Aktionen** klicken Sie auf **Ausblenden**.
 
-   ![](assets/image2014-9-24-15-3a46-3a22.png)
+   ![](assets/hide-unhide-a-program-channel-4.png)
 
 Einfach kommen, einfach gehen!
 
@@ -38,4 +42,4 @@ Einfach kommen, einfach gehen!
 
 1. Heben Sie die Ausblendung eines Programmkanals auf, indem Sie das Kontrollkästchen Ausgeblendete anzeigen aktivieren.
 
-   ![](assets/image2014-9-24-15-3a47-3a24.png)
+   ![](assets/hide-unhide-a-program-channel-5.png)
