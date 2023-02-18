@@ -3,10 +3,10 @@ unique-page-id: 2360198
 description: Erstellen, Löschen, Bearbeiten und Ändern einer Benutzerrolle - Marketo Docs - Produktdokumentation
 title: Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 2%
+source-wordcount: '295'
+ht-degree: 9%
 
 ---
 
@@ -31,31 +31,39 @@ ht-degree: 2%
 
 ## Rolle erstellen {#create-a-role}
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-16-13-3a29-3a48.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-1.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
 1. Navigieren Sie zu **Registerkarte &quot;Rollen&quot;** und klicken Sie auf **Neue Rolle**.
 
-   ![](assets/image2014-9-16-13-3a30-3a0.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
 1. Benennen Sie Ihre neue Rolle, aktivieren Sie alle Berechtigungen, die Sie Benutzern gewähren möchten, die mit der Rolle verknüpft sind, und klicken Sie auf **Erstellen**.
 
-   ![](assets/image2014-9-16-13-3a31-3a19.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Rolle löschen {#delete-a-role}
 
-1. under **Admin** klicken **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-16-13-3a31-3a42.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-5.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
 1. Unter dem **Rollen** Registerkarte eine Rolle auswählen und auf **Rolle löschen**.
 
-   ![](assets/image2014-9-16-13-3a31-3a56.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
 1. Bestätigen Sie den Löschvorgang durch Klicken auf **Löschen**.
 
-   ![](assets/image2014-9-16-13-3a32-3a25.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
 >[!NOTE]
 >
@@ -67,21 +75,25 @@ ht-degree: 2%
 >
 >Um Ihre eigene Benutzerrolle zu bearbeiten, müssen Sie sich als ein anderer Benutzer mit Administratorrechten anmelden.
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-16-13-3a34-3a2.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-9.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
 1. Klicken Sie auf **Rollen** Registerkarte.
 
-   ![](assets/image2014-9-16-13-3a34-3a22.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
 1. Wählen Sie die Rolle aus, die Sie bearbeiten möchten, und klicken Sie auf **Rolle bearbeiten**.
 
-   ![](assets/image2014-9-16-13-3a34-3a37.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
 1. Nehmen Sie alle erforderlichen Änderungen vor und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-16-13-3a35-3a16.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
    >[!NOTE]
    >
@@ -93,17 +105,21 @@ ht-degree: 2%
 
 ## Ändern der Benutzerrolle {#change-a-users-role}
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-16-13-3a35-3a49.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-14.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
 1. Wählen Sie den Benutzer aus, dem Sie eine andere Rolle zuweisen möchten, und klicken Sie auf **Benutzer bearbeiten.**
 
-   ![](assets/image2014-9-16-13-36-8.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
 1. Deaktivieren Sie die vorherige Rolle, wählen Sie die neue aus und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-16-13-3a36-3a35.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
 >[!NOTE]
 >

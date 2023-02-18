@@ -3,10 +3,10 @@ unique-page-id: 2360207
 description: Erstellen eines reinen API-Benutzers - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines reinen API-Benutzers
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 3%
 
 ---
 
@@ -22,17 +22,21 @@ Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.mar
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. under **Admin** klicken **Benutzer und Rollen.**
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-17-9-3a31-3a31.png)
+   ![](assets/create-an-api-only-user-1.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/create-an-api-only-user-2.png)
 
 1. Klicken **Neuen Benutzer einladen**.
 
-   ![](assets/image2014-9-17-9-3a32-3a3.png)
+   ![](assets/create-an-api-only-user-3.png)
 
 1. Geben Sie eine E-Mail, einen Vornamen und einen Nachnamen für den Benutzer &quot;Nur API&quot;ein. Klicken **Nächste**.
 
-   ![](assets/image2016-5-24-10-3a53-3a7.png)
+   ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
@@ -40,11 +44,11 @@ Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.mar
 
 1. Wählen Sie die **Nur API** Rolle und überprüfen Sie die **Nur API** aktivieren. Klicken **Nächste**.
 
-   ![](assets/four.png)
+   ![](assets/create-an-api-only-user-5.png)
 
 1. Klicken **Senden**.
 
-   ![](assets/image2016-5-24-11-3a8-3a20.png)
+   ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >
