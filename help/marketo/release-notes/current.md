@@ -2,16 +2,16 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 7%
+source-wordcount: '623'
+ht-degree: 9%
 
 ---
 
-# Versionshinweise: Januar 2023 {#release-notes-jan-23}
+# Versionshinweise: März 2023 {#release-notes-mar-23}
 
-Unten finden Sie alle Funktionen der Version vom 23. Januar. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen der Version vom 23. März. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -19,16 +19,13 @@ Unten finden Sie alle Funktionen der Version vom 23. Januar. Überprüfen Sie Ih
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **20. Januar 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **24. März 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Aktualisierte Screens in der modernen Benutzeroberfläche**: In der modernen Benutzeroberfläche (früher bekannt als Erlebnis der nächsten Generation) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über Umschalter zugegriffen werden kann:
-
-   * Ansicht &quot;Snippet List&quot;
-   * Liste der Landingpage-Vorlagen
+* **Verbesserte Verwendung nach Komponente für Details von Landingpage-Vorlagen und Formulardetails**: Die Registerkarte &quot;Neu verwendet von Benutzeroberfläche&quot;enthält zusätzliche Informationen in den Details der Landingpage-Vorlage und in den Formulardetails, einschließlich weiterer Details zu Assets, die ein ausgewähltes Asset verwendet haben. Analyse langer Asset-Listen mithilfe der Such-, Sortierungs- und Filterfunktionen.
 
    <table> 
   <tr> 
@@ -36,13 +33,13 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalten</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Verbesserte Verwendung durch die Komponente für Details von E-Mail-Vorlagen und Snippet-Details**: Die Registerkarte &quot;Neu verwendet von&quot;bietet zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurden. Mithilfe der Such-, Sortierungs- und Filterfunktionen können Sie mühelos Analysen durchführen. Diese neue UI-Komponente wird mit den Assets E-Mail-Vorlage und Snippet integriert.
+* **Umschalter und klassisches Erlebnis aus Landingpages entfernen**: Die Einstellung des Umschalters und des klassischen Erlebnisses für Einstiegsseiten hilft Ihnen, das neue Erlebnis vollständig zu übernehmen. Das neue Erlebnis ermöglicht die vollständige Nutzung der mit diesen Assets bereitgestellten Funktionen, ohne auf das alte Erlebnis angewiesen zu sein oder ständig zwischen den beiden Erlebnissen wechseln zu müssen.
 
 <table> 
   <tr> 
@@ -56,29 +53,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-### Marketing Impact Analytics {#marketing-impact-analytics}
-
-</br>
-
-* **Neu entworfene Modelle für Report Assets**: Neues Design für Berichtskonfigurationsmodelle in der modernen UX-Benutzeroberfläche, das ein aktualisiertes Aussehen und ein verbessertes Erscheinungsbild bietet.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketo Measure {#marketo-measure}
-
-</br>
-
-* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Zuordnung für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für die Adobe RT-CDP über freigegebene AEP-Daten.
+* **Leistungsverbesserungen bei Tree-Knoten**: Diejenigen mit einer großen Anzahl von Strukturknoten werden eine deutliche Leistungsverbesserung erleben.
 
 <table> 
   <tr> 
@@ -96,7 +71,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Verbesserte Registerkarte &quot;Webdienste&quot; durch Hinzufügen von Bulk Export API-Informationen**: Sie können jetzt die tägliche Kapazitätszuweisung für Ihre Abonnements anzeigen und die Menge der täglichen Kapazitätszuweisung anzeigen, die in den letzten sieben Tagen verwendet wurde.
+* **Aktualisierung der Marketo Facebook-Integration zur Verwendung des Facebook Graph API-Updates**: Mit der kürzlich erfolgten Aktualisierung von Facebook auf die Facebook Graph API v15 sind nun maximal 500 benutzerdefinierte Zielgruppen verfügbar, die für ein bestimmtes Anzeigenkonto erstellt werden können.
 
 <table> 
   <tr> 
@@ -104,8 +79,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Massenexport-API-Informationen</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
@@ -118,7 +93,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Picklist in Info Capture Card für dynamischen Chat definieren**: Um Datensauberkeit zu gewährleisten, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
+* **Dialoginteraktionsbericht für dynamischen Chat**: Bietet einen Überblick über die Interaktion im Dialog im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern, um eine bessere Sichtbarkeit für Benutzer zu erreichen.
 
 <table> 
   <tr> 
@@ -126,13 +101,13 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Personalisierung bei der Konferenzbestätigung für dynamischen Chat**: Kundendienstmitarbeiter können per E-Mail Bestätigungen für die Buchung von Meetings personalisieren, indem sie Marketo Engage- und Firmenfelder verwenden, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher nach Vorname in der E-Mail zur automatischen Sitzungsbuchung begrüßen).
+* **Rollen und Berechtigungen für dynamischen Chat**: Führt Rollen und Berechtigungen für den dynamischen Chat ein, damit Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
 
 <table> 
   <tr> 
@@ -140,13 +115,13 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Suchen in Stream-Designer**: Einfache Suche nach Inhalten in Stream Designer, um Inhalte auf allen Karten/Knoten in einem Stream schnell zu finden (z. B.: Suchen Sie &quot;SEO&quot;, und es werden alle Knoten markiert, die diese Zeichenfolge enthalten).
+* **Chat als Programmkanal für dynamischen Chat**: Erstellt einen neuen &quot;Chat&quot;-Programmkanal zur Verfolgung des Programmfortschritts für Personen, die durch den dynamischen Chat erworben wurden. Beispielsweise verfügt ein Marketing-Experte über ein Programm, das mit einem dynamischen Chat-Dialogfeld verknüpft ist, um neue Leads zu erfassen. Sie können dieses Programm nun dem Chat-Kanal zuweisen, damit sie verfolgen können, wann Leads Mitglieder des Programms sind und wann sie erfolgreich waren.
 
 <table> 
   <tr> 
@@ -154,13 +129,13 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Chatbot-Datums-/Uhrzeitauswahl für dynamischen Chat**: Webbesucher können mit der Kalenderauswahl ein Datum und eine Uhrzeit auswählen, anstatt das Datum manuell einzugeben.
+* **Abgeleitete Attribute für dynamischen Chat**: Stellt sicher, dass die verwiesenen IP-Daten (Stadt, Bundesland, Land usw.) wird in den Personendatensatz für neue Personen geschrieben, die durch den dynamischen Chat erworben wurden.
 
 <table> 
   <tr> 
@@ -168,13 +143,13 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **E-Mail-Benachrichtigungen für geplante Meetings für dynamischen Chat**: Wenn ein Meeting im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Interaktion des Besuchers mit dynamischem Chat.
+* **Zusätzliche Sprachunterstützung für dynamischen Chat**: Sie können jetzt aus neun unterstützten Sprachen wählen, in denen statische Dynamic Chat-Inhalte angezeigt werden sollen.
 
 <table> 
   <tr> 
@@ -182,14 +157,26 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Meetings</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Wechseln zu Knoten in der Stream-Designer-Vorschau für dynamischen Chat**: Wechseln Sie im Vorschaufenster direkt zu einem Knoten im Stream-Designer.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Ankündigungen {#announcements}
 
-* **Marketo REST API-Änderung**: Mit der Version vom Oktober 2022 haben wir eine geringfügige Änderung an der Antwortmeldung der Marketo REST API vorgenommen. Siehe hierzu [Marketo-Benachrichtigungsbeitrag](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} für weitere Details.
-
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom Oktober 2022 und Januar 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: Treten Sie uns am 17. Mai 2023 um 9:00 Uhr PT / 23:00 Uhr ET bei [für ein Live-Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle neuesten Produktinnovationen verwenden, die sowohl in den Versionen März als auch Mai 1993 bereitgestellt wurden.
