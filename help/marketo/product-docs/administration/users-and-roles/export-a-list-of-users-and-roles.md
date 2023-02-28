@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: Benutzerliste und Benutzerrollen exportieren - Marketo-Dokumente - Produktdokumentation
 title: Eine Liste von Anwendern und Rollen exportieren
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -20,24 +20,24 @@ Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrol
 
 1. Navigieren Sie zu **Admin**.
 
-   ![](assets/adminhand.png)
+   ![](assets/export-a-list-of-users-and-roles-1.png)
 
 1. Klicken **Benutzer und Rollen**.
 
-   ![](assets/image2014-9-10-9-3a25-3a27.png)
+   ![](assets/export-a-list-of-users-and-roles-2.png)
 
 1. Fügen Sie vor dem Export die gewünschten Spalten hinzu/entfernen Sie sie.
 
    >[!TIP]
    >
-   >Um Rollen zu exportieren, navigieren Sie zu **Rollen**** **Registerkarte zuerst und dann exportieren.
+   >Um Rollen zu exportieren, navigieren Sie zu **Rollen** zuerst und dann exportieren.
 
-   ![](assets/image2014-9-10-9-3a25-3a49.png)
+   ![](assets/export-a-list-of-users-and-roles-3.png)
 
 1. Klicken Sie auf **Export** Symbol.
 
-   ![](assets/image2014-9-10-9-3a26-3a3.png)
+   ![](assets/export-a-list-of-users-and-roles-4.png)
 
    Und das sind alles Leute! Sie sollten die neue Excel-Datei herunterladen.
 
-   ![](assets/image2014-9-10-9-3a26-3a17.png)
+   ![](assets/export-a-list-of-users-and-roles-5.png)

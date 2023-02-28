@@ -3,10 +3,10 @@ unique-page-id: 2359909
 description: Verwalten von Benutzerrollen und Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Verwalten von Benutzerrollen und Berechtigungen
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 0%
+source-wordcount: '486'
+ht-degree: 4%
 
 ---
 
@@ -38,17 +38,21 @@ Wenn Sie Marketo mit Adobe Identity verwenden, die Liste der Profilbeschreibunge
 
 Sie können Benutzern Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) oder [Bearbeiten eines vorhandenen Benutzers](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Um einen vorhandenen Benutzer zu bearbeiten, navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-9-18-3a7-3a32.png)
+   ![](assets/managing-user-roles-and-permissions-1.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/managing-user-roles-and-permissions-2.png)
 
 1. Wählen Sie in der Liste den Benutzer aus, den Sie bearbeiten möchten, und klicken Sie auf **Benutzer bearbeiten**.
 
-   ![](assets/image2014-9-9-18-3a7-3a42.png)
+   ![](assets/managing-user-roles-and-permissions-3.png)
 
 1. under **Rollen**, wählen Sie die Rollen aus, die Sie dem Benutzer entsprechend den benötigten Berechtigungen zuweisen möchten, und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-9-18-3a7-3a57.png)
+   ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
@@ -58,41 +62,49 @@ Sie können Benutzern Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstell
 
 Manchmal hat Ihr Unternehmen Mitarbeiter in sehr spezifischen Rollen, die eine benutzerdefinierte Kombination von Berechtigungen erfordern.
 
-1. Um eine neue Benutzerrolle zu erstellen, gehen Sie zu &quot;Admin&quot;und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/managing-user-roles-and-permissions-5.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/managing-user-roles-and-permissions-6.png)
 
 1. Klicken Sie auf **Rollen** Registerkarte.
 
-   ![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/managing-user-roles-and-permissions-7.png)
 
 1. Klicken **Neue Rolle**.
 
-   ![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/managing-user-roles-and-permissions-8.png)
 
 1. Geben Sie einen **Rollenname**, **Beschreibung** (optional) und wählen Sie die Berechtigungen aus, die Benutzer mit dieser Rolle benötigen.
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## Rolle bearbeiten {#edit-a-role}
 
 Wenn Sie die Berechtigungen ändern müssen, die mit einer vorhandenen Rolle verknüpft sind, können Sie die Rolle bearbeiten.
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-9-18-3a9-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-10.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/managing-user-roles-and-permissions-11.png)
 
 1. Klicken Sie auf **Rollen** Registerkarte.
 
-   ![](assets/image2014-9-9-18-3a9-3a26.png)
+   ![](assets/managing-user-roles-and-permissions-12.png)
 
 1. Wählen Sie in der Liste die Rolle aus, die Sie ändern möchten, und klicken Sie auf **Rolle bearbeiten**.
 
-   ![](assets/image2014-9-9-18-3a9-3a40.png)
+   ![](assets/managing-user-roles-and-permissions-13.png)
 
 1. Ändern Sie die **Rollenname** und **Beschreibung** bei Bedarf und ändern Sie dann die Auswahl der zugehörigen **Berechtigungen**.
 
-   ![](assets/image2014-9-9-18-3a10-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
@@ -102,18 +114,22 @@ Wenn Sie die Berechtigungen ändern müssen, die mit einer vorhandenen Rolle ver
 
 Wenn eine Rolle unnötig wird, können Sie sie löschen.
 
-1. Navigieren Sie zu Admin und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-15.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/managing-user-roles-and-permissions-16.png)
 
 1. Klicken Sie auf **Rollen** Registerkarte.
 
-   ![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/managing-user-roles-and-permissions-17.png)
 
 1. Wählen Sie in der Liste die Rolle aus, die Sie löschen möchten, und klicken Sie auf **Rolle löschen**.
 
-   ![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/managing-user-roles-and-permissions-18.png)
 
 1. Klicken **Löschen** zur Bestätigung.
 
-   ![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/managing-user-roles-and-permissions-19.png)
