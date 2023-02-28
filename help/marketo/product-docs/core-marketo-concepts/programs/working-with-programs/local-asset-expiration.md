@@ -2,7 +2,7 @@
 description: Lokaler Asset-Ablauf - Marketo-Dokumente - Produktdokumentation
 title: Lokaler Asset-Ablauf
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Legen Sie eine Zeit fest. Sie müssen eine Zeit von mindestens 20 Minuten in der Zukunft planen (vergessen Sie nicht, AM/PM zu betreten). Klicken **[!UICONTROL Bestätigen]** wann geschehen.
+1. Legen Sie eine Zeit fest. Sie müssen eine Zeit von mindestens 15 Minuten in der Zukunft planen (vergessen Sie nicht, AM/PM zu betreten). Klicken **[!UICONTROL Bestätigen]** wann geschehen.
 
    ![](assets/local-asset-expiration-7.png)
 
