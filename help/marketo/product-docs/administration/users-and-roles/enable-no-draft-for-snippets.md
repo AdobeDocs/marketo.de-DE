@@ -3,10 +3,10 @@ unique-page-id: 10095636
 description: No-Draft für Snippets aktivieren - Marketo Docs - Produktdokumentation
 title: No-Draft für Snippets aktivieren
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 3%
 
 ---
 
@@ -24,25 +24,29 @@ Mit &quot;Kein Entwurf für Snippets&quot;können Sie Änderungen an Snippets ve
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Benutzer und Rollen**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/usersandroles.png)
+   ![](assets/enable-no-draft-for-snippets-1.png)
+
+1. Klicken **Benutzer und Rollen**.
+
+   ![](assets/enable-no-draft-for-snippets-2.png)
 
 1. Navigieren Sie zu **Rollen** Registerkarte, eine Rolle auswählen und auf **Rolle bearbeiten**.
 
-   ![](assets/editrole2.png)
+   ![](assets/enable-no-draft-for-snippets-3.png)
 
 1. Erweitern Sie die **Zugriff auf Design Studio** -Option.
 
-   ![](assets/expanddesignstudio.png)
+   ![](assets/enable-no-draft-for-snippets-4.png)
 
 1. Erweitern Sie die **Snippet aufrufen** -Option.
 
-   ![](assets/expandsnippet.png)
+   ![](assets/enable-no-draft-for-snippets-5.png)
 
 1. Erweitern Sie die **Snippet genehmigen** Berechtigung und Überprüfung der **No-Draft** ankreuzen. Klicken Sie anschließend auf **Speichern**.
 
-   ![](assets/2017-06-15-10-35-04.png)
+   ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
