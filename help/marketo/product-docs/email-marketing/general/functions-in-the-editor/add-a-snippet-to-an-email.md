@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: Hinzufügen eines Snippets zu einer E-Mail - Marketo Docs - Produktdokumentation
 title: Hinzufügen eines Snippets zu einer E-Mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -42,6 +42,6 @@ Snippets sind wiederverwendbare Blöcke von Rich-Text und Grafiken, die Sie in E
 
    >[!NOTE]
    >
-   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail wird erstellt, es sei denn, Sie genehmigen das Ausschnitt mit [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail wird erstellt, es sei denn, Sie genehmigen das Ausschnitt mit [No-Draft](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 So können Sie dynamische Inhalte schnell und einfach wiederverwenden.

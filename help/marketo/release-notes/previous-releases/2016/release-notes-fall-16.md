@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Versionshinweise - Herbst 16 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%
@@ -58,7 +58,7 @@ Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen
 
 Das Audit-Protokoll bietet einen umfassenden Verlauf der Änderungen, die innerhalb Ihres Marketo-Abonnements vorgenommen wurden. Wir haben zusätzliche Tracking-Funktionen für Programme hinzugefügt sowie wichtige Änderungsdetails für Smart-Kampagnen, Smart-Listen und Änderungen an Benutzern und Rollen angezeigt.
 
-## [Neuzulassungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [Neuzulassungen](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
 **E-Mails einsatzbereit machen**
 

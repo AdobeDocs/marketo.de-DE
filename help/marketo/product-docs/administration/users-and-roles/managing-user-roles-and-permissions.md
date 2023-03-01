@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Verwalten von Benutzerrollen und Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Verwalten von Benutzerrollen und Berechtigungen
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 4%
@@ -56,7 +56,7 @@ Sie können Benutzern Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstell
 
    >[!NOTE]
    >
-   >Informationen zu den einzelnen Rollen finden Sie unter  [Beschreibung der Rollenberechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >Informationen zu den einzelnen Rollen finden Sie unter [Beschreibung der Rollenberechtigungen](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## Neue Rolle erstellen {#create-a-new-role}
 
@@ -108,7 +108,7 @@ Wenn Sie die Berechtigungen ändern müssen, die mit einer vorhandenen Rolle ver
 
    >[!NOTE]
    >
-   >Benutzer mit der von Ihnen bearbeiteten Rolle erhalten die geänderten Berechtigungen, nachdem sie sich abgemeldet und wieder angemeldet haben.
+   >Benutzer mit der Rolle, die Sie bearbeitet haben, erhalten die geänderten Berechtigungen, nachdem sie sich abgemeldet und wieder angemeldet haben.
 
 ## Rolle löschen {#delete-a-role}
 

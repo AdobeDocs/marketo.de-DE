@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Versionshinweise - Frühling 16 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Frühjahr 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Email Insights ist ein brandneues historisches Erlebnis für die E-Mail-Analyse 
 
 >[!NOTE]
 >
->Wir starten E-Mail Insights an Kunden in Batches ab dem 3. Juni. Unser Ziel ist es, dies in den nächsten Monaten abzuschließen. Wir benachrichtigen Sie per E-Mail, wenn Sie aktiviert sind.
+>Wir starten E-Mail Insights an Kunden in Batches ab dem 3. Juni. Unser Ziel ist es, dies in den nächsten Monaten abzuschließen. Wir werden Sie per E-Mail benachrichtigen, wenn Sie aktiviert sind.
 
 ![](assets/two.png)
 
@@ -46,7 +46,7 @@ Erstellen Sie atemberaubende In-App-Nachrichten für Ihre App direkt in Marketo.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Keine Entwurfs-Snippets](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Keine Entwurfs-Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
 Jetzt sind die Tage, an denen Sie alles bei jeder Aktualisierung eines Snippets erneut genehmigen müssen! Bei &quot;Kein Entwurf&quot;erhalten alle E-Mails und Landingpages, die einen Snippet verwenden, die aktualisierten Snippets und behalten ihren vorherigen Status bei. Jedes Mal, wenn Sie einen Snippet genehmigen, können Sie &quot;No-Draft&quot;ausführen und alle Elemente aktualisieren oder Entwürfe erstellen. Es liegt an dir! &quot;No-Draft&quot;steht allen Kunden zur Verfügung und wird durch eine neue Berechtigung in Admin gesteuert.
 

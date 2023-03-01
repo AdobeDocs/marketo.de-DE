@@ -3,7 +3,7 @@ unique-page-id: 10095644
 description: Snippet mit No-Draft genehmigen - Marketo Docs - Produktdokumentation
 title: Snippet ohne Entwurf genehmigen
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[No-Draft für Snippets aktivieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+>[No-Draft für Snippets aktivieren](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
