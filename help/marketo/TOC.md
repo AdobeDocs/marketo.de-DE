@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: b95557cc3b83870c67a3292824a31a64e5ec0bc8
 workflow-type: tm+mt
 source-wordcount: '8831'
 ht-degree: 5%
@@ -220,8 +220,8 @@ ht-degree: 5%
          + [Verwalten von Marketo-Benutzern](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Verwalten von Benutzerrollen und Berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Export-Rollen und -Berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
-         + [Beschreibung der Rollenberechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
-         + [No-Draft für Snippets aktivieren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+         + [Beschreibung der Rollenberechtigungen](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
+         + [No-Draft für Snippets aktivieren](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Arbeitsbereiche und Personen-Partitionen {#workspaces-and-person-partitions}
          + [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [Zulassen des Benutzerzugriffs auf einen Arbeitsbereich](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
