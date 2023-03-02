@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Grundlegendes zu Arbeitsbereichen und Personen-Partitionen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Arbeitsbereichen und Personen-Partitionen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '520'
 ht-degree: 3%
 
 ---
@@ -43,25 +43,29 @@ So können Sie Assets über Arbeitsbereiche hinweg freigeben. Sie funktioniert f
 >
 >Der übergeordnete Ordner, der Ihre Assets enthält, ist der einzige Ordner, der freigegeben werden kann, nicht die untergeordneten Ordner.
 
-1. Erstellen Sie einen neuen Ordner.
+1. Klicken Sie auf Datenbank.
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Benennen Sie den Ordner, den Sie freigeben möchten.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner Segmentierung und klicken Sie auf **Neuer Ordner**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. Benennen Sie den Ordner und klicken Sie auf **Erstellen**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. Verschieben Sie die Assets, die Sie freigeben möchten, in den Ordner .
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Ordner freigeben**.
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
 1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **Speichern**. Im Dialogfeld Ordner freigeben werden nur Arbeitsbereiche angezeigt, für die Sie über die entsprechenden Berechtigungen verfügen.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >

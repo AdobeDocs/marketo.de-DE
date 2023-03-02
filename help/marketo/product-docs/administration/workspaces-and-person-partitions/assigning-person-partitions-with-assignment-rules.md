@@ -3,10 +3,10 @@ unique-page-id: 2360327
 description: Zuweisen von Personenpartitionen zu Zuweisungsregeln - Marketo-Dokumente - Produktdokumentation
 title: Zuweisen von Personenpartitionen zu Zuordnungsregeln
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
@@ -26,29 +26,33 @@ Richten Sie bei Verwendung von Personenpartitionen Zuweisungsregeln ein, um aus 
 >
 >Auf nur Personen, die in Marketo aus Ihrem CRM-System und über die SOAP-API erstellt wurden, werden Zuweisungsregeln angewendet.
 
-1. Klicken Sie unter &quot;Admin&quot;auf Arbeitsbereiche und Partitionen.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
+
+1. Klicken **Arbeitsbereiche und Partitionen**.
+
+   ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
 1. Unter dem **Personen-Partitionen** Registerkarte, klicken Sie auf **Zuweisungsregeln**.
 
-   ![](assets/two-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
 1. Klicken **Auswahl hinzufügen** , um Bedingungen für die Weiterleitung von Personen in Personenpartitionen hinzuzufügen.
 
-   ![](assets/three-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
 1. Wählen Sie das Feld aus, auf dem die Bedingung erstellt werden soll.
 
-   ![](assets/four-5.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-5.png)
 
 1. Wählen Sie den Auswahloperator aus und geben Sie einen Wert ein.
 
-   ![](assets/five-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-6.png)
 
 1. Wählen Sie die Personenpartition aus, in die die Personen fallen sollen, die die Bedingungen erfüllen.
 
-   ![](assets/six-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-7.png)
 
    >[!NOTE]
    >
@@ -56,7 +60,7 @@ Richten Sie bei Verwendung von Personenpartitionen Zuweisungsregeln ein, um aus 
 
 1. Klicken **Speichern**.
 
-   ![](assets/seven.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
 Und da hast du es! Sie haben Regeln zugewiesen, um Ihre persönlichen Partitionen mit Leuten zu füllen!
 
