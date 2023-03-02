@@ -3,7 +3,7 @@ unique-page-id: 7515767
 description: Freigeben von Segmenten über Arbeitsbereiche und Partitionen hinweg - Marketo Docs - Produktdokumentation
 title: Segmente über Arbeitsbereiche und Partitionen hinweg freigeben
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -77,7 +77,7 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Sie Arbeitsbereiche verwenden
 
 1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten. Klicken **Speichern**.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
 
    >[!NOTE]
    >
