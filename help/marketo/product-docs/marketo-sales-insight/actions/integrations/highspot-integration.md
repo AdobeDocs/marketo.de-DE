@@ -3,9 +3,9 @@ description: Highspot-Integration - Marketo-Dokumente - Produktdokumentation
 title: Highspot-Integration
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ Der Vertrieb kann über Sales Insight-Aktionen auf Highspot-Funktionen zugreifen
 >
 >Sie müssen über Administratorrechte verfügen, um den Highspot für Ihre Instanz mit Sales Insight-Aktionen zu aktivieren.
 
-1. Einstellungen auswählen
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Allgemeine Einstellungen in der Seitenleiste auswählen
+1. under **Admin-Einstellungen** auswählen **Allgemein**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Scrollen Sie zur Integrationskarte und aktivieren Sie den Highspot
+1. Scrollen Sie zu **Integrationen** und klicken Sie auf den Schieberegler, um die Option Highspot zu aktivieren.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Jetzt wird Benutzern eine Option angezeigt, um die Schaltfläche Highspot auszuwählen, wenn sie die Schaltfläche zum Hochladen von Inhalten im Komprimierungsfenster, im Vorlageneditor und im E-Mail-Editor für Kampagnen auswählen.
+Jetzt wird Benutzern eine Option angezeigt, um die Schaltfläche Highspot auszuwählen, wenn sie die Schaltfläche zum Hochladen von Inhalten im Komprimierungsfenster, im Vorlageneditor und im E-Mail-Editor für Kampagnen auswählen.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Zugreifen auf Highspot-Inhalte und Freigeben von Inhalten per E-Mail {#accessing-highspot-content}
 
