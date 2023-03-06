@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 303df236491f9574532c8b59289f89f505671acb
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8835'
 ht-degree: 5%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 5%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Zielgruppe aus Adobe Experience Cloud synchronisieren](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Unified Shell - Überblick](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1377,7 +1378,7 @@ ht-degree: 5%
             + [Warum wurden nicht alle meine Kontakte auf Sales Insight-Aktionen verschoben?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Warum wird die Tracking-Aktivität nicht in der Salesforce-Aktivität angezeigt?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integrationen {#integrations}
-            + [E-Mails an eine externe Quelle protokollieren](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Highspot-Integration](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [Marketo-Zugriff für Benutzer gewähren](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight-Aktionen](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
