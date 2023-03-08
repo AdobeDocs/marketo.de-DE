@@ -2,9 +2,9 @@
 description: Erstellen einer Vertriebskampagne - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Verkaufskampagne
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
-source-git-commit: 56101a81c392a3e3214426112976cca960359bf8
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Wie richten Sie also eine Vertriebskampagne ein?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Wann du bist [mit Ihrer E-Mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}, klicken Sie auf **Hinzufügen**.
+1. Wann du bist [mit Ihrer E-Mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}klicken **Hinzufügen**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -65,7 +65,6 @@ Jetzt ist es Zeit, Leute hinzuzufügen!
 
 >[!MORELIKETHIS]
 >
->* [Versandoptionen für E-Mail-Schritte für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [Schritttypen und Erinnerungsaufgaben für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* [Einstellungen für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
+>* [Schritttypen und Erinnerungsaufgaben für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Einstellungen für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

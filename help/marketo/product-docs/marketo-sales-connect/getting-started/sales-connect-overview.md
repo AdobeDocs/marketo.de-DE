@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Übersicht über Sales Connect - Marketo-Dokumente - Produktdokumentation
 title: Überblick über Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 10%
 
 ---
@@ -44,19 +44,19 @@ Erfahren Sie, wie Ihre potenziellen Kunden mit Ihren Verkaufsbemühungen interag
   </tr> 
   <tr> 
    <td><p>Verkaufs-E-Mail senden</p></td> 
-   <td><p>Benutzer hat eine E-Mail zum Vertrieb von MSE gesendet.</p></td> 
+   <td><p>Benutzer hat eine E-Mail zum Vertrieb von Sales Connect gesendet.</p></td> 
   </tr> 
   <tr> 
    <td><p>Verkaufs-E-Mail öffnen</p></td> 
-   <td><p>Lead öffnete eine Verkaufs-E-Mail, die von MSE gesendet wurde.</p></td> 
+   <td><p>Lead öffnete eine Verkaufs-E-Mail, die von Sales Connect gesendet wurde.</p></td> 
   </tr> 
   <tr> 
    <td><p>Auf Verkaufs-E-Mail klicken</p></td> 
-   <td><p>Lead klickte auf einen Link in einer E-Mail zum Verkauf, die von MSE gesendet wurde.</p></td> 
+   <td><p>Lead klickte auf einen Link in einer E-Mail zum Vertrieb, die von Sales Connect gesendet wurde.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Vertriebs-E-Mail empfangen</p></td> 
-   <td colspan="1"><p>Lead hat eine E-Mail von MSE erhalten.</p></td> 
+   <td colspan="1"><p>Lead hat eine E-Mail von Sales Connect erhalten.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Empfangen Verkaufsanruf</p></td> 
@@ -64,7 +64,7 @@ Erfahren Sie, wie Ihre potenziellen Kunden mit Ihren Verkaufsbemühungen interag
   </tr> 
   <tr> 
    <td colspan="1"><p>Zur Verkaufskampagne hinzufügen</p></td> 
-   <td colspan="1"><p>Lead wurde zu einer in MSE erstellten Verkaufskampagne hinzugefügt (auf der Seite Kampagnen ).</p></td> 
+   <td colspan="1"><p>Lead wurde zu einer in Sales Connect erstellten Verkaufskampagne hinzugefügt (auf der Seite Kampagnen ).</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Aus Vertriebskampagne entfernt</p></td> 
