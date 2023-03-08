@@ -2,9 +2,9 @@
 description: Freigabeeinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Weitergabe-Einstellungen
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 Optimieren Sie die Verwaltung Ihrer Vorlagen, indem Sie einschränken, welche Benutzer für welche Kategorien freigegeben werden können.
 
-Wenn Ihr Sales Connect-Konto zum ersten Mal erstellt wird, sind die Freigabeeinstellungen aktiviert. Dadurch erhalten Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor die Startpunkte geöffnet werden, und Benutzern die Möglichkeit zu geben, Inhalte in Ihren Teamkategorien zu teilen.
+Wenn Ihr Sales Insight-Aktionskonto zum ersten Mal erstellt wird, sind die Freigabeeinstellungen aktiviert. Dadurch erhalten Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor die Startpunkte geöffnet werden, und Benutzern die Möglichkeit zu geben, Inhalte in Ihren Teamkategorien zu teilen.
 
 Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Kategorien freigegeben werden, es sei denn, einem Team oder allen Benutzern werden Freigabeberechtigungen gewährt. Wenn die Freigabeeinstellungen deaktiviert sind, gibt es keine Einschränkungen und alle Benutzer können in beliebige Vorlagenkategorien freigeben.
 
