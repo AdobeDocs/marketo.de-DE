@@ -1,10 +1,10 @@
 ---
 description: Januar 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Januar 2023 - Versionshinweise
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 6%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -85,7 +85,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
