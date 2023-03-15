@@ -2,7 +2,7 @@
 description: Chatbot-Verhalten - Marketo-Dokumente - Produktdokumentation
 title: Chatbot-Verhalten
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1</p>
       </td>
       <td>
-        <p>D1 wird in V1 aufgelöst </p>
+        <p>D1 wird in V1 aufgelöst</p>
       </td>
       <td>Die Anzahl der Trigger für D1 wird um 1 erhöht</td>
     </tr>
@@ -131,7 +131,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
       <td>
         <p>D1 nur für WP1, WP2</p>
         <p>V1 besucht WP1 zum ersten Mal</p>
-        <p>V1 klickt auf D1, reagiert jedoch nicht </p>
+        <p>V1 klickt auf D1, reagiert jedoch nicht</p>
         <p>V1 besucht WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>D1 nur für WP1</p>
         <p>D2 nur für WP2</p>
         <p>V1 besucht WP1 zum ersten Mal</p>
-        <p>V1 klickt auf D1, reagiert jedoch nicht </p>
+        <p>V1 klickt auf D1, reagiert jedoch nicht</p>
         <p>V1 besucht WP2</p>
       </td>
       <td>D1 wird auf WP1 aufgelöst<br/>
@@ -212,7 +212,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP1 zum ersten Mal</p>
         <p>V1 klickt auf D1 und schließt D1 ab</p>
         <p>V1 besucht WP2</p>
-        <p>V1-Klicks auf D2 liefern die erste Antwort </p>
+        <p>V1-Klicks auf D2 liefern die erste Antwort</p>
       </td>
       <td>D1 wird auf WP1 und nach der Fertigstellung aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
       <td>
@@ -255,7 +255,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
       <td>
         <p>D1 nur für WP1</p>
         <p>V1 besucht WP1 zum ersten Mal</p>
-        <p>V1 mit D1 </p>
+        <p>V1 mit D1</p>
         <p>D1 ist unveröffentlicht</p>
         <p>V1 aktualisiert WP1</p>
       </td>
@@ -300,7 +300,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
       </td>
       <td>
         <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
-        <p>Die Interaktionsanzahl für D1 wird um 1 erhöht </p>
+        <p>Die Interaktionsanzahl für D1 wird um 1 erhöht</p>
         <p>Nach der Aktualisierung wird die alte D1 angezeigt, sodass keine Änderung an der Anzahl der Trigger vorgenommen wird.</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
     <tr>
       <td>
         <p>D1 für WP1 mit 1 Priorität</p>
-        <p>D2 für WP1 mit 2 Priorität </p>
+        <p>D2 für WP1 mit 2 Priorität</p>
         <p>V1 besucht WP1 zum ersten Mal</p>
         <p>V1 klickt auf D1 und schließt D1 ab</p>
         <p>V1 aktualisiert WP1 und sieht D2<br/>V1 klickt auf D2 und schließt D2 ab</p>
