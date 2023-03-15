@@ -3,10 +3,10 @@ description: Unified Shell Overview - Marketo Docs - Produktdokumentation
 title: Unified Shell - Überblick
 hide: true
 hidefromtoc: true
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 0%
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
@@ -74,7 +74,7 @@ PICC
 
 Wenn Sie den oben genannten Fehler erhalten, wenden Sie sich bitte an [Support kontaktieren](https://nation.marketo.com/t5/support/ct-p/Support) Hilfe.
 
-Folgendes ändert sich für Marketo:
+Steven-Hinweise
 
 Die Anmeldung erfolgt über Experience Cloud/IMS.
 
@@ -84,4 +84,4 @@ Benutzerverlauf, globale Suche, Marketo-Benachrichtigungen und Aufgabenbereich w
 
 Geschichte in My Marketo
 
-Lesezeichen funktionieren (vorerst) nicht. Wir müssen dies nicht sofort ausrufen, sondern entfernen, wenn Sie Text aus Bizible&#39;s Dokumenten kopieren (ihre Lesezeichen funktionieren).
+Keine Lesezeichen

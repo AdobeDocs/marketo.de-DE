@@ -2,16 +2,16 @@
 description: Flow Step Service - Marketo Docs - Produktdokumentation
 title: Flussschritt-Dienst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # Flussschritt-Dienst {#flow-step-service}
 
-Die Fluss-Schritte für Self-Service sind ein Framework und eine Reihe von Funktionen für die Erstellung, Veröffentlichung und Integration von Webdiensten in Smart-Kampagnen von Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Eine Implementierung der Suchtabelle zum Machbarkeitsnachweis finden Sie [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
+Die Fluss-Schritte für Self-Service sind ein Framework und eine Reihe von Funktionen für die Erstellung, Veröffentlichung und Integration von Webdiensten in Smart-Kampagnen von Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding und Verwalten von Diensten {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ Klicken **Nächste** , um zum Abschnitt Dienstanmeldeinformationen eingeben zu w
 ## Dienstberechtigungen eingeben {#enter-service-credentials}
 
 Um auf den installierten Dienst zugreifen zu können, muss Marketo über gültige API-Anmeldeinformationen verfügen. Diese Anmeldeinformationen sollten Sie von Ihrem Dienstleister erhalten. Dienste haben drei verschiedene Authentifizierungsoptionen, sodass möglicherweise eine von drei verschiedenen Eingabeaufforderungen zur Eingabe von Anmeldeinformationen angezeigt wird: **API-Schlüssel** , das nur ein Eingabefeld hat, **Grundlegende Authentifizierung** , für die ein Benutzername und ein Kennwort erforderlich sind und möglicherweise auch ein Feld mit dem Namen Realm erforderlich ist, und **OAuth2** mithilfe der _Client-Anmeldedaten_ einen _Client-ID_ und _Client Secret_.
-
->[!NOTE]
->
->OAuth2 wird erst ab der Version vom 11. März verfügbar sein.
 
 Wenn Sie Ihre Anmeldeinformationen speichern, versucht Marketo, den Statusendpunkt des Dienstes aufzurufen, um zu überprüfen, ob sie gültig sind. Wenn die angegebenen Anmeldeinformationen ungültig sind, wird ein Fehler angezeigt, der dies angibt.
 

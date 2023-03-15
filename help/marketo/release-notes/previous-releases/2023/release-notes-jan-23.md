@@ -1,9 +1,9 @@
 ---
 description: Januar 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Januar 2023 - Versionshinweise
-source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '637'
 ht-degree: 5%
 
 ---
@@ -86,7 +86,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
