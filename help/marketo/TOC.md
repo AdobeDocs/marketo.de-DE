@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '8829'
+source-wordcount: '8831'
 ht-degree: 5%
 
 ---
@@ -617,6 +617,7 @@ ht-degree: 5%
          + [Übersicht über dynamischen Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [Browser-Benachrichtigungen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot-Verhalten](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Dynamische Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
@@ -889,7 +890,7 @@ ht-degree: 5%
             + [Token-Übersicht](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Dynamische Inhalte in einer Landingpage verwenden](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [Verwenden des URL-Builders](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + Sozial {#social}
+      + Social Media {#social}
          + Konfigurieren von Social-Aktionen {#configuring-social-actions}
             + [Konfigurieren von Eingabeaufforderungen nach der Freigabe](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [Personenerfassung für eine Social-App konfigurieren](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
