@@ -2,9 +2,9 @@
 description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '857'
 ht-degree: 2%
 
 ---
@@ -33,23 +33,23 @@ Folgendes wird synchronisiert:
 
 ## Dialoge {#dialogues}
 
-Dialogfelder stellen eine einzige Chatinteraktion dar. Stellen Sie sich dies als Container mit all dem Zeug vor, das Sie benötigen, um einen ansprechenden Chat-Dialog mit Ihren Website-Besuchern zu führen. In jedem Dialogfeld können Sie angeben, auf welchen Seiten das Dialogfeld angezeigt werden soll, wem es angezeigt werden soll und Inhalt und Fluss des Dialogfelds selbst. Darüber hinaus können Sie Metriken finden, um zu sehen, wie gut Ihr Dialogfeld abschneidet. [Weitere Informationen zu Dialogfeldern](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+Dialogfelder stellen eine einzige Chatinteraktion dar. Stellen Sie sich dies als Container mit all dem Zeug vor, das Sie benötigen, um einen ansprechenden Chat-Dialog mit Ihren Website-Besuchern zu führen. In jedem Dialogfeld können Sie angeben, auf welchen Seiten das Dialogfeld angezeigt werden soll, wem es angezeigt werden soll und Inhalt und Fluss des Dialogfelds selbst. Darüber hinaus können Sie Metriken finden, um zu sehen, wie gut Ihr Dialogfeld abschneidet. [Weitere Informationen zu Dialogfeldern](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## Konfiguration {#configuration}
 
-Passen Sie auf der Registerkarte Konfiguration das Erscheinungsbild Ihrer verschiedenen Dialogfelder an. Ändern Sie Schriftart, Farben, Antwortzeit und mehr! [Weitere Informationen zur Konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}.
+Passen Sie auf der Registerkarte Konfiguration das Erscheinungsbild Ihrer verschiedenen Dialogfelder an. Ändern Sie Schriftart, Farben, Antwortzeit und mehr! [Weitere Informationen zur Konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## Kalender {#calendar}
 
-Verbinden Sie Ihren Outlook- oder Gmail-Kalender zur Verwendung bei der Terminplanung im Chatbot. [Weitere Informationen zum Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+Verbinden Sie Ihren Outlook- oder Gmail-Kalender zur Verwendung bei der Terminplanung im Chatbot. [Weitere Informationen zum Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Meetings {#meetings}
 
-Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiedenen Dialoge geplant wurden. [Weitere Informationen zu Meetings](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+Hier sehen Sie alle Termine, die von Besuchern der Website über Ihre verschiedenen Dialoge geplant wurden. [Weitere Informationen zu Meetings](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## Routing {#routing}
 
-Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, die Reihenfolge, in der sie den Besuchern der Website angezeigt werden, und erstellen benutzerdefinierte Routing-Regeln. [Weitere Informationen zum Routing](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, die Reihenfolge, in der sie den Besuchern der Website angezeigt werden, und erstellen benutzerdefinierte Routing-Regeln. [Weitere Informationen zum Routing](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## FAQs {#faq}
 
@@ -111,8 +111,18 @@ Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Au
   <th>Beschränkung</th>
  <tr>
   <td>Dialogfelder insgesamt</td>
-  <td>Gesamtzahl der Dialogfelder (veröffentlicht und Entwurf)</td>
+  <td>Anzahl der Dialogfelder (veröffentlicht und Entwurf)</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>Kalender insgesamt</td>
+  <td>Anzahl der verbundenen Kalender</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>Benutzer insgesamt (Administratoren und Marketing-Benutzer)</td>
+  <td>Anzahl der zulässigen kombinierten Benutzer pro Dynamic Chat-Instanz</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Veröffentlichte Dialogfelder</td>
@@ -171,12 +181,12 @@ Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Au
  </tr>
  <tr>
   <td>Unterhaltungen</td>
-  <td>Anzahl der Chat-Unterhaltungen, mit denen Webbesucher pro Tag interagieren können</td>
-  <td>1.000</td>
+  <td>Anzahl der Chat-Unterhaltungen, mit denen Webbesucher pro Monat interagieren können</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>Ausgelöste Konversationen</td>
-  <td>Anzahl der Chat-Konversationen, die Webbesuchern pro Tag angezeigt werden können</td>
+  <td>Anzahl der Chat-Konversationen, die Webbesuchern pro Monat angezeigt werden können</td>
   <td>25.000</td>
  </tr>
 </table>
