@@ -3,10 +3,10 @@ unique-page-id: 10100275
 description: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten/löschen - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten/löschen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 4%
+source-wordcount: '298'
+ht-degree: 5%
 
 ---
 
@@ -86,7 +86,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    >[!CAUTION]
    >
-   >Sie können den API-Namen nur dann bearbeiten oder das Feld in Primär ändern, wenn die benutzerdefinierte Aktivität noch nie veröffentlicht wurde. Wenn die Aktivität bereits veröffentlicht wurde, können Sie nur den Namen und die optionale Beschreibung des Felds bearbeiten.
+   >Sie können den API-Namen nur dann bearbeiten oder das Feld in Primär ändern, wenn die benutzerdefinierte Aktivität noch nie veröffentlicht wurde.
 
    >[!NOTE]
    >
