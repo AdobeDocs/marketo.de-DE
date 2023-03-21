@@ -2,9 +2,9 @@
 description: Kalender - Marketo-Dokumente - Produktdokumentation
 title: Kalender
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 06c694d7f8e53999391c79db37894c21b0702090
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '146'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,10 @@ Verbinden Sie im Tab Kalender Ihren Outlook- oder Gmail-Kalender mit der Terminp
 ![](assets/calendar-1.png)
 
 Sobald der Kalender eines Benutzers mit dem dynamischen Chat verbunden ist, werden er in die Warteschlange aufgenommen und sein Kalender steht Website-Besuchern zur Verfügung, um Termine zu planen.
+
+>[!NOTE]
+>
+>Sie können einen Kalender pro Benutzer verbinden. Wenn Sie Meetings auf mehreren Kalendern erhalten möchten, müssen Sie mehrere Benutzer hinzufügen und sie jeweils dazu bewegen, ihre Kalender zu verbinden.
 
 Benutzer können auch den Text der Einladung anpassen, die dem Besucher gesendet wird, wenn er einen Termin im Kalender des Benutzers einplant. Sie können auch das Kontrollkästchen am unteren Rand aktivieren, um einen Google-Treffer- oder Microsoft Teams-Link einzuschließen (je nachdem, welcher Kalender verbunden war).
 
