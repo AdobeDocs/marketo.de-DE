@@ -3,7 +3,7 @@ description: Unified Shell Overview - Marketo Docs - Produktdokumentation
 title: Unified Shell - Überblick
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 2%
@@ -20,7 +20,7 @@ Unified Shell sorgt dafür, dass das Erscheinungsbild von Adobe Experience Cloud
 
 Wenn Sie noch nicht bei einem Adobe Experience Cloud-Produkt angemeldet sind, melden Sie sich direkt bei [!DNL Marketo Engage] hier: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Wenn Sie _are_ bereits bei einem Adobe Experience Cloud-Produkt angemeldet sind, klicken Sie einfach auf das Menüsymbol und wählen Sie **[!DNL Marketo Measure]**.
+Wenn Sie _are_ bereits bei einem Adobe Experience Cloud-Produkt angemeldet sind, klicken Sie einfach auf das Menüsymbol und wählen Sie **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
