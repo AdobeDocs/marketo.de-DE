@@ -3,10 +3,10 @@ description: Unified Shell Overview - Marketo Docs - Produktdokumentation
 title: Unified Shell - Überblick
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,7 +34,7 @@ Neben dem aktualisierten Erscheinungsbild werden Sie die folgenden Funktionen be
 
 **Integriertes Hilfezentrum**
 
-Suchen Sie nach Support-Artikeln, senden Sie Tickets, geben Sie Feedback, alles aus dem [!DNL Marketo Engage] Anwendung.
+Greifen Sie über die [!DNL Marketo Engage] Anwendung.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Produktspezifische Benachrichtigungen und allgemeine Produktankündigungen direk
 
 **Adobe Settings**
 
-Klicken Sie auf Ihr Profilsymbol, um Ihre Spracheinstellungen oder andere Voreinstellungen für die gesamte Adobe zu ändern. Sie können auch [!DNL Marketo Engage]-spezifische Änderungen durch Klicken auf **Meine Einstellungen**.
+Klicken Sie auf Ihr Profilsymbol, um Ihre Spracheinstellungen oder andere Voreinstellungen für die gesamte Adobe zu ändern.
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Wenn Sie sich bei Adobe Experience Cloud anmelden können, dann jedoch den Fehle
 **Wo sind Benutzerverlauf, globale Suche, Marketo-Benachrichtigungen und der Aufgabenbereich hin?**
 
 Diese Funktionen wurden von der oberen Navigationsleiste in eine neue Leiste auf der linken Seite in Unified Shell verschoben.
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
