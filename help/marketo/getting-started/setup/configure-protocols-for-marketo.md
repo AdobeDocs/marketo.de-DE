@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Konfigurieren von Protokollen für Marketo - Marketo Docs - Produktdokumentation
 title: Protokolle für Marketo konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1021'
 ht-degree: 3%
 
 ---
@@ -20,13 +20,12 @@ Ihre Marketing-Gruppe verwendet Marketo, um Landingpages und E-Mails für Marken
 
 Dieser Artikel sollte an die IT-Abteilung des Unternehmens weitergegeben werden, das diese Protokolle implementieren möchte.
 
->[!NOTE]
->
->Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, die folgenden Domänen hinzuzufügen (einschließlich des Sternchens), um alle Marketo-Ressourcen und -Websockets zuzulassen:
+Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, die folgenden Domänen hinzuzufügen (einschließlich des Sternchens), um alle Marketo-Ressourcen und -Websockets zuzulassen:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## Schritt 1: DNS-Einträge für Einstiegsseiten und E-Mail erstellen {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ Fügen Sie den CNAME der Landingpage hinzu, den Sie an Ihren DNS-Eintrag gesende
 
 * Alias: Eingabe `[YourLandingPageCNAME]` (durch die Vermarktung bereitgestellt)
 * Typ: CNAME
-* Verweis auf: Eingabe `[MarketoAccountString].mktoweb.com` (durch die Vermarktung bereitgestellt)
+* Verweis auf: Eingabe `[MunchkinID].mktoweb.com` (durch die Vermarktung bereitgestellt)
 
 `2` **Hinzufügen von CNAME für E-Mail-Tracking-Links**
 
@@ -59,7 +58,7 @@ Beispiel:
 
 Benachrichtigen Sie Ihr Marketing-Team, wenn Sie diesen Vorgang abgeschlossen haben.
 
-`4` **Kontakt [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}, um den Prozess der Bereitstellung eines SSL-Zertifikats zu starten.**
+`4` **Kontakt [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} , um die Bereitstellung eines SSL-Zertifikats zu starten.**
 
 Dieser Vorgang kann bis zu drei Werktage dauern.
 
@@ -104,7 +103,7 @@ Ihr Marketing-Team sollte Ihnen auch DKIM-Informationen gesendet haben, die zu I
 
    `[DKIMDomain2]`: Hostdatensatz ist `[HostRecord2]` und der TXT-Wert `[TXTValue2]`.
 
-   Kopieren Sie den HostRecord und den TXTValue für jede DKIMDomain, die Sie eingerichtet haben, nachdem Sie der folgenden [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. Vergessen Sie nicht, jede Domäne unter Admin > E-Mail > DKIM zu überprüfen, nachdem Ihre IT-Mitarbeiter diesen Schritt abgeschlossen haben.
+   Kopieren Sie den HostRecord und den TXTValue für jede DKIMDomain, die Sie eingerichtet haben, nachdem Sie der folgenden [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Vergessen Sie nicht, jede Domäne unter Admin > E-Mail > DKIM zu überprüfen, nachdem Ihre IT-Mitarbeiter diesen Schritt abgeschlossen haben.
 
 ## Schritt 4: Einrichten von MX-Datensätzen für Ihre Domäne {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ Eine ausgehende Verbindung erfolgt per Marketo Engage an einen Server im Interne
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} sind ein ausgehender Integrationsmechanismus. Wenn eine [Webhook aufrufen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)Die Flussaktion {target=&quot;_blank&quot;} wird im Rahmen einer intelligenten Kampagne ausgeführt. Eine HTTP-Anfrage wird an einen externen Webdienst gesendet. Wenn der Webdienst-Herausgeber eine Zulassungsliste in der Firewall des Netzwerks verwendet, in dem sich der externe Webdienst befindet, muss der Herausgeber die unten aufgeführten IP-Adressblöcke zu seiner Zulassungsliste hinzufügen.
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} die Flow-Aktion im Rahmen einer Smart-Kampagne ausgeführt wird, wird eine HTTP-Anfrage an einen externen Webdienst gesendet. Wenn der Webdienst-Herausgeber eine Zulassungsliste in der Firewall des Netzwerks verwendet, in dem sich der externe Webdienst befindet, muss der Herausgeber die unten aufgeführten IP-Adressblöcke zu seiner Zulassungsliste hinzufügen.
 
 **CRM-Synch.**
 
-Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} und [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} sind Integrationsmechanismen, die ausgehende HTTP-Anfragen an APIs senden, die von Ihrem CRM-Anbieter veröffentlicht werden. Sie müssen sicherstellen, dass Ihre IT-Organisation den Zugriff auf Ihre CRM-Anbieter-APIs nicht durch einen der unten stehenden IP-Adressblöcke blockiert.
+Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sind Integrationsmechanismen, die ausgehende HTTP-Anfragen an APIs senden, die von Ihrem CRM-Anbieter veröffentlicht werden. Sie müssen sicherstellen, dass Ihre IT-Organisation den Zugriff auf Ihre CRM-Anbieter-APIs nicht durch einen der unten stehenden IP-Adressblöcke blockiert.
 
 **Ausgehende IP-Adressblöcke aus Marketo Engage**
 

@@ -3,10 +3,10 @@ unique-page-id: 2359746
 description: Passen Sie Ihre Landingpage-URLs mit einem CNAME an - Marketo Docs - Produktdokumentation
 title: Anpassen der Landingpage-URLs mit einem CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 
@@ -30,41 +30,47 @@ Wählen Sie ein Wort aus, um am Anfang der URL für Ihre Landingpages zu gehen. 
 
 Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet. Sie werden dies später benötigen, damit Sie es sich notieren können.
 
-## Kontozeichenfolge suchen {#find-your-account-string}
+## Munchkin-ID suchen {#find-your-munchkin-id}
 
-1. Navigieren Sie zu **Admin** Bereich und klicken Sie auf **Landing Pages**.
+1. Navigieren Sie zum **Admin**-Bereich.
 
-   ![](assets/image2014-9-18-16-3a2-3a45.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
+
+1. Klicken **Mein Konto**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
    >**Erforderliche Administratorberechtigungen**
 
-1. Unter dem **Landing** **Seiten** Registerkarte, kopieren Sie die **Konto** **Zeichenfolge** von **Einstellungen** Abschnitt.
+1. Scrollen Sie nach unten zu &quot;Support-Informationen&quot;und kopieren Sie Ihre Munchkin-ID.
 
-   ![](assets/image2014-9-18-16-3a44-3a12.png)
-
-1. Sie werden später auch benötigen, also notieren Sie sich das.
+   ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Anfrage an IT senden {#send-request-to-it}
 
-Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] und [KONTOZEICHENFOLGE] mit dem Text aus dem vorherigen Schritt.)
+Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] und [Munchkin-ID] mit dem Text aus dem vorherigen Schritt.)
 
-[CNAME].YourCompany.com > [KONTOZEICHENFOLGE].mktoweb.com
+[CNAME].YourCompany.com > [Munchkin-ID].mktoweb.com
 
 ## Vollständige CNAME-Einrichtung {#complete-cname-setup}
 
-1. Sobald Ihr IT den CNAME erstellt hat, navigieren Sie zu **Admin** und klicken Sie auf **Landing Pages**.
+1. Nachdem Ihre IT den CNAME erstellt hat, wechseln Sie zum **Admin** Bereich.
 
-   ![](assets/image2014-9-18-17-3a15-3a11.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
+
+1. Klicken Sie auf **Landing Pages**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
 1. Unter dem **Einstellungen** Abschnitt, klicken Sie auf **Bearbeiten**.
 
-   ![](assets/image2014-9-18-17-3a15-3a18.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
 1. Geben Sie Ihren CNAME in ein. **Domänenname für Einstiegsseiten** eingeben **Fallback-Seite** eingeben **Homepage** und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-18-17-3a15-3a25.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 >[!NOTE]
 >
