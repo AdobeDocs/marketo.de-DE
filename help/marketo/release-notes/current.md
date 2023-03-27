@@ -2,7 +2,7 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 9%
@@ -27,7 +27,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 * **Verbesserte Verwendung nach Komponente für Details von Landingpage-Vorlagen und Formulardetails**: Die Registerkarte &quot;Neu verwendet von Benutzeroberfläche&quot;enthält zusätzliche Informationen in den Details der Landingpage-Vorlage und in den Formulardetails, einschließlich weiterer Details zu Assets, die ein ausgewähltes Asset verwendet haben. Analyse langer Asset-Listen mithilfe der Such-, Sortierungs- und Filterfunktionen.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -67,7 +67,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-### API-Verbesserungen {#api-enhancements}
+### Integrationsaktualisierungen {#integration-updates}
 
 </br>
 
