@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: 'Schritt 3 von 3: Verbinden von Marketo und Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation'
 title: 'Schritt 3 von 3: Verbinden von Marketo und Salesforce (Enterprise/Unlimited)'
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 
    >[!CAUTION]
    >
-   >Wenn anstelle der Felder &quot;Benutzername/Kennwort/Token&quot;die Schaltfläche &quot;Bei Salesforce anmelden&quot;angezeigt wird, ist Ihr Marketo-Abonnement für OAuth aktiviert. Bitte [in diesem Artikel](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Sobald die Synchronisierung mit der Verwendung einer Reihe von Anmeldeinformationen beginnt, **Salesforce-Anmeldedaten oder -Abonnements werden nicht gewechselt**. Wenn Sie die Standardauthentifizierung verwenden möchten, wenden Sie sich an Ihren Customer Success Manager.
+   >Wenn anstelle der Felder &quot;Benutzername/Kennwort/Token&quot;die Schaltfläche &quot;Bei Salesforce anmelden&quot;angezeigt wird, ist Ihr Marketo-Abonnement für OAuth aktiviert. Bitte [in diesem Artikel](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Sobald die Synchronisierung mit der Verwendung einer Reihe von Anmeldeinformationen beginnt, **Salesforce-Anmeldedaten oder -Abonnements werden nicht gewechselt**. Wenn Sie die Standardauthentifizierung verwenden möchten, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
 
 1. Lesen Sie die Warnung und klicken Sie auf **Anmeldeinformationen bestätigen**.
 

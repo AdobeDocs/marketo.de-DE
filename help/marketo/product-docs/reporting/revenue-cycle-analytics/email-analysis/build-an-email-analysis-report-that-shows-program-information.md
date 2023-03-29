@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Erstellen Sie einen E-Mail-Analysebericht, der Informationen zum Programm - Marketo-Dokumente - Produktdokumentation anzeigt.
 title: Erstellen eines E-Mail-Analyseberichts, der Informationen zum Programm anzeigt
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in 
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Launch **Umsatz-Explorer**.
 

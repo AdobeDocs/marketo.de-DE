@@ -3,24 +3,24 @@ unique-page-id: 7504893
 description: Hinzufügen von Google AdWords als Startpunktdienst mit einem Manager-Konto - Marketo Docs - Produktdokumentation
 title: Hinzufügen von Google AdWords als Startpunktdienst mit einem Manager-Konto
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
 
 # Hinzufügen von Google AdWords als Startpunktdienst mit einem Manager-Konto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um Offline-Konversionsdaten automatisch von Marketo in Google AdWords hochzuladen. Anschließend können Sie in der AdWords-Benutzeroberfläche einfach sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) geführt haben, nachdem Sie  [Benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556){target=&quot;_blank&quot;} in AdWords. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
+Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um Offline-Konversionsdaten automatisch von Marketo in Google AdWords hochzuladen. Anschließend können Sie in der AdWords-Benutzeroberfläche einfach sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) geführt haben, nachdem Sie  [Benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556){target="_blank"} in AdWords. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
 
-Wenn Sie über mehrere Google Adwords -Konten verfügen, können Sie eine [Google AdWords Manager-Konto](https://www.google.com/adwords/manager-accounts/){target=&quot;_blank&quot;} (ehemals &quot;My Client Center&quot;) zur Integration in Marketo.
+Wenn Sie über mehrere Google Adwords -Konten verfügen, können Sie eine [Google AdWords Manager-Konto](https://www.google.com/adwords/manager-accounts/){target="_blank"} (ehemals &quot;My Client Center&quot;), um sie in Marketo zu integrieren.
 
-Weitere Informationen [Google-Funktion zum Offline-Konversionsimport](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
+Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Weitere Informationen [Google-Funktion zum Offline-Konversionsimport](https://su
 
 >[!NOTE]
 >
->Sie können auch eine [eigenständiges Google AdWords-Konto als Startpunktdienst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target=&quot;_blank&quot;}.
+>Sie können auch eine [eigenständiges Google AdWords-Konto als Startpunktdienst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. Navigieren Sie zu **Admin** Abschnitt.
 
@@ -81,7 +81,7 @@ Weitere Informationen [Google-Funktion zum Offline-Konversionsimport](https://su
 
    >[!NOTE]
    >
-   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target=&quot;_blank&quot;} muss ausgewählt sein, damit diese Funktion funktioniert. Sie muss in AdWords aktiviert werden.
+   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. Sie muss in AdWords aktiviert werden.
 
 1. Klicken **Nächste**.
 
@@ -95,4 +95,4 @@ Weitere Informationen [Google-Funktion zum Offline-Konversionsimport](https://su
 
    >[!MORELIKETHIS]
    >
-   >[Festlegen von Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target=&quot;_blank&quot;}
+   >[Festlegen von Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

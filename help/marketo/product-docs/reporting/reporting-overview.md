@@ -2,9 +2,9 @@
 description: Berichtsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Berichtübersicht
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---
@@ -15,15 +15,15 @@ Marketo bietet eine Vielzahl von Berichtsmodulen für unterschiedliche Anforderu
 
 ## Basisberichterstattung {#basic-reporting}
 
-Sie können [Basisberichte](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} innerhalb von Programmen oder im Analytics-Bereich. Basisberichte bestehen aus verschiedenen Arten nativer Berichte mit der Flexibilität, Zeiträume zu filtern, zu sortieren und anzupassen.
+Sie können [Basisberichte](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} innerhalb von Programmen oder im Bereich Analytics. Basisberichte bestehen aus verschiedenen Arten nativer Berichte mit der Flexibilität, Zeiträume zu filtern, zu sortieren und anzupassen.
 
 ## E-Mail Insights {#email-insights}
 
-Analytics und Sendungen zum Abrufen verwenden [Einblicke](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} für E-Mails aus historischen Daten.
+Analytics und Sendungen zum Abrufen verwenden [Einblicke](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} für E-Mails aus historischen Daten.
 
 ## Performance-Insights {#performance-insights}
 
-[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} umfasst die Kanalleistung und Programmleistung für Interaktion, Pipeline und Umsatzgenerierung.
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} deckt die Kanalleistung und Programmleistung für Interaktion, Pipeline und Umsatzgenerierung ab.
 
 ## Fortschrittliche Berichterstellung für BI Analytics {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(früher als &quot;Umsatz-Cycle-Explorer/erweiterter Report Builder&quot;bezeic
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben Advanced BI Analytics- und Advanced Journey Analytics-Module erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht jeder hat Advanced BI Analytics- und Advanced Journey Analytics-Module erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 Verfolgen Sie den ROI Ihrer Marketinginitiativen. Analysieren Sie E-Mails, Personen, Programme, Chancen, Modell-Leistungsanalyse (Unternehmen) und Modell-Leistungsanalyse (Leads). Mit BI Explorer können Sie benutzerdefinierte Berichte im Analysebereich erstellen und mit Ihren Daten Diagramme, Grafiken, Schaltflächen und Dashboards erstellen.
 

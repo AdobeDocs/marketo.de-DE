@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Übersicht über Sales Connect - Marketo-Dokumente - Produktdokumentation
 title: Überblick über Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '234'
 ht-degree: 10%
 
 ---
@@ -16,7 +16,7 @@ Marketo Sales Connect ist eine facettenreiche Lösung zur Vertriebsunterstützun
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 ## Der Live-Feed {#the-live-feed}
 

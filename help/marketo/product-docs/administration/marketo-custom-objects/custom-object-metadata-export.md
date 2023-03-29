@@ -2,9 +2,9 @@
 description: Export benutzerdefinierter Objektmetadaten - Marketo-Dokumente - Produktdokumentation
 title: Export benutzerdefinierter Objektmetadaten
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, kann das benutzerdefiniert
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Klicken Sie in My Marketo auf **Admin**.
 

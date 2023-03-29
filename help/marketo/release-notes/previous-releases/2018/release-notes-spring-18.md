@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Versionshinweise - Frühling 18 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Frühjahr 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 9%
 
 ---
@@ -24,7 +24,7 @@ Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funkti
 
 >[!AVAILABILITY]
 >
->Sales Engage ist ein Zusatzprodukt. Wenden Sie sich an Ihren Marketo Customer Success Manager oder Kundenbetreuer, um ein Angebot zu erhalten.
+>Sales Engage ist ein Zusatzprodukt. Wenden Sie sich für ein Angebot an Ihren Marketo-Kundenbetreuer oder Kundenbetreuer.
 
 Steigern Sie die Pipeline und den Umsatz, indem Sie mit intelligenten Funktionen, Inhalten, Büchern und Analysen den Vertrieb fördern und so mehr aus Ihren Leads in Verkaufschancen konvertieren. Sales Engage bietet Vertrieb und Marketing mit einer einheitlichen Plattform für Interaktionen auf der gesamten Journey und ermöglicht eine bessere Koordinierung durch eine gemeinsame Ansicht von Kunden-Touchpoints.
 

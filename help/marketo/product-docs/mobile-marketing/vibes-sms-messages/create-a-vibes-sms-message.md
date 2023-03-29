@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Erstellen einer Video-SMS-Nachricht - Marketo Docs - Produktdokumentation
 title: Erstellen einer Video-SMS-Nachricht
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-on für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie von Ihrem Adobe Customer Success Manager.
+>Diese Funktion ist als Add-on für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!NOTE]
 >

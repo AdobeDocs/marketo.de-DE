@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Das Interaktions-Dashboard - Marketo-Dokumente - Produktdokumentation
 title: Das Interaktions-Dashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Zeigt den durchschnittlichen Interaktionswert im Zeitverlauf und die Auswirkunge
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-on für Kunden verfügbar, die Marketo Umsatz-Cycle Explorer verwenden. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Diese Funktion ist als Add-on für Kunden verfügbar, die Marketo Umsatz-Cycle Explorer verwenden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

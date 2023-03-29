@@ -4,9 +4,9 @@ title: Festlegen einer Ereignisbegrenzung
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Begrenzen Sie die Anzahl der Personen, die sich für Ihr Ereignis mit einer Erei
 
 >[!NOTE]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!IMPORTANT]
 >Sie müssen mindestens zwei genehmigte Landingpages (eine Registrierungs- und eine Registrierungs-Vollseite) im Programm haben, bevor Sie eine Ereignisbegrenzung festlegen können.

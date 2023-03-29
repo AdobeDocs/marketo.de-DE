@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Einrichten von Facebook-Lead-Anzeigen - Marketo-Dokumente - Produktdokumentation
 title: Einrichten von Facebook-Lead-Anzeigen
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
 >[!AVAILABILITY]
 >
->Wenden Sie sich an Ihren Customer Success Manager, um Facebook Lead Ads zu Ihrer Instanz hinzuzufügen.
+>Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um Facebook Lead Ads zu Ihrer Instanz hinzuzufügen.
 
 1. Navigieren zu Marketo **Admin**.
 

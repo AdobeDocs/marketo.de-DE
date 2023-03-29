@@ -2,9 +2,9 @@
 description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen von Sales Insight-Aktionen
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1356'
+source-wordcount: '1360'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mi
 
 >[!AVAILABILITY]
 >
->Diese Funktion befindet sich derzeit in einem schrittweisen Rollout. Wenden Sie sich an Ihren Customer Success Manager oder Ihre E-Mail `sales-insights(at)adobe(dot)com` , um Zugriff anzufordern.
+>Diese Funktion wird derzeit für alle Sales Insight-Benutzer eingeführt. Wenn Sie bei der Einführung eine Priorität haben möchten, senden Sie bitte eine E-Mail an `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
->Eine Videoübersicht zu Sales Insight-Aktionen finden Sie unter [Hier klicken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
+>Eine Videoübersicht zu Sales Insight-Aktionen finden Sie unter [Hier klicken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -185,6 +185,6 @@ Zu den Filtern und Triggern gehören:
 * Antwort auf E-Mail zum Vertrieb
 * Hat Verkaufsanruf empfangen
 * Zur Vertriebskampagne hinzugefügt
-* Aus Vertriebskampagne entfernt
+* Aus Verkaufskampagne entfernt
 
    ![](assets/sales-insight-actions-feature-overview-7.png)

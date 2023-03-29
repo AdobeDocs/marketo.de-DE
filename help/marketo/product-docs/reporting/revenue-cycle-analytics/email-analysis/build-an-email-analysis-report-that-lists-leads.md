@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Erstellen eines E-Mail-Analyseberichts mit Leads - Marketo Docs - Produktdokumentation
 title: Erstellen eines E-Mail-Analyseberichts, der Leads auflistet
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Führen Sie die folgenden Schritte aus, um einen E-Mail-Analysebericht zu erstel
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!NOTE]
 >

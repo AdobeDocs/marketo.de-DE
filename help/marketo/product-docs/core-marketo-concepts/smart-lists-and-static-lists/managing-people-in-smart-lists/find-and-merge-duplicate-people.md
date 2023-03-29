@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Suchen und Zusammenführen doppelter Personen - Marketo-Dokumente - Produktdokumentation
 title: Duplizierte Personen suchen und zusammenführen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Weitere Informationen zum Salesforce-Verhalten beim Zusammenführen von Leads od
 
 ## Massenzusammenführung {#bulk-merging}
 
-Wenn Sie zu viele Duplikate zum manuellen Zusammenführen haben, wenden Sie sich an Ihren Customer Success Manager, um Ihre Optionen zu besprechen.
+Wenn Sie zu viele Duplikate zum manuellen Zusammenführen haben, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um Ihre Optionen zu besprechen.
 
-Super! Wenn Sie mit einem CRM verbunden sind, werden die Datensätze gemäß den unten stehenden Regeln zusammengeführt.
+Wenn Sie mit einem CRM verbunden sind, werden die Datensätze dort gemäß den unten stehenden Regeln zusammengeführt.

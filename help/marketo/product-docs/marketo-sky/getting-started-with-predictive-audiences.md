@@ -4,9 +4,9 @@ title: Erste Schritte mit vorausschauenden Zielgruppen
 hide: true
 hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -26,10 +26,10 @@ Die Leistung der KI-/ML-Modelle hängt von den Daten in Ihrem Abonnement ab. Je 
 
 ## Verfügbarkeit {#availability}
 
-Predictive Audiences wird automatisch einbezogen und für Instanzen aktiviert, die Prime- oder Ultimate-Preispakete verwenden. Weitere Informationen zum Zugriff auf diese Funktion erhalten Sie von Ihrem Customer Success Manager.
+Predictive Audiences wird automatisch einbezogen und für Instanzen aktiviert, die Prime- oder Ultimate-Preispakete verwenden. Weitere Informationen zum Zugriff auf diese Funktion erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Nachdem die Funktion Ihrer Instanz hinzugefügt wurde, navigieren Sie zum **[!UICONTROL Vorhersagekräftige Zielgruppen]** in der **[!UICONTROL Admin]** Gebiet von [!DNL Marketo Classic].
 
-1. Überprüfen **[!UICONTROL Aktivieren prädiktiver Zielgruppen]** , um die Funktion zu aktivieren. Beachten Sie, dass die Einrichtung aller Prozesse bis zu 24 Stunden dauern kann.
+1. Überprüfen **[!UICONTROL Aktivieren prädiktiver Zielgruppen]** , um die Funktion zu aktivieren. Beachten Sie, dass die Einrichtung aller Prozesse bis zu 24 Stunden dauern kann.
 
    ![Bild eins](assets/getting-started-with-predictive-audiences-1.png)

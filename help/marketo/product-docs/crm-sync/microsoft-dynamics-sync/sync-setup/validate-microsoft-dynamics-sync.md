@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Überprüfen der Microsoft Dynamics-Synchronisierung - Marketo-Dokumente - Produktdokumentation
 title: Überprüfen der Synchronisierung mit Microsoft Dynamics
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Es ist sehr wichtig, das Tool zur Validierungssynchronisierung auszuführen, um 
 
    >[!CAUTION]
    >
-   >Sandbox-Aktualisierung für Marketo Dynamics Sync wird derzeit nicht unterstützt. Wenn Sie Ihre Dynamics CRM-Sandbox aktualisieren müssen, ist eine neue Marketo-Sandbox erforderlich. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+   >Sandbox-Aktualisierung für Marketo Dynamics Sync wird derzeit nicht unterstützt. Wenn Sie Ihre Dynamics CRM-Sandbox aktualisieren müssen, ist eine neue Marketo-Sandbox erforderlich. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ unique-page-id: 11384018
 description: Versionshinweise - Herbst 16 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Mit einer universellen ID können Sie mit einer einzigen Anmeldung auf mehrere M
 
 ## Verbesserungen des kontobasierten Marketing für Marketo {#marketo-account-based-marketing-enhancements}
 
-Jetzt können Sie in Account Based Marketing (ABM) Kontoteams benannten Konten zuweisen, z. B. Kontoinhaber, Vertriebsmitarbeiter, Geschäftsentwicklungs-Vertreter und Customer Success Manager. Sie können auch kontoeigentümerspezifische Kontolisten erstellen und dem Account-Team personalisierte wöchentliche ABM-Berichte senden.
+Jetzt können Sie im Account Based Marketing (ABM) Kontoteams benannten Konten zuweisen, z. B. Kontoinhaber, Vertriebsmitarbeiter, Geschäftsentwicklungsmitarbeiter und Kundenbetreuer. Sie können auch kontoeigentümerspezifische Kontolisten erstellen und dem Account-Team personalisierte wöchentliche ABM-Berichte senden.
 
 ![](assets/account-team-11-15-16.png)
 

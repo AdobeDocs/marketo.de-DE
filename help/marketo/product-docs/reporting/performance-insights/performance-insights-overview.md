@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Übersicht über Leistungseinblicke - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über Leistungseinblicke
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Mit Marketo Performance Insights können Sie Ihren Kanalmix optimieren, um maxim
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 Performance Insights lädt Daten aus (bis zu) den letzten 24 Monaten. Dazu gehören die aktuellen Jahresdaten sowie die des Vorjahres. Beispielsweise lädt MPI am 31. Januar 2019 Daten aus diesem Monat und jeden Monat ab 2018. Am 31. Dezember 2019 lädt MPI Daten aus jedem Monat der Jahre 2019 und 2018.
 

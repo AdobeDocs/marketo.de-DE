@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: Verwenden Ihrer dedizierten IP-Adressen zum Senden von E-Mails - Marketo Docs - Produktdokumentation
 title: Verwenden Ihrer dedizierten IP-Adressen zum Senden von E-Mails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Durch das Senden von einer oder mehreren dedizierten IP-Adressen erhalten Sie di
 
 >[!AVAILABILITY]
 >
->Eine dedizierte IP ist ein Zusatzprodukt. Nicht jeder kann eine dedizierte IP zu seinem Programm hinzufügen. Sie müssten mehr als 100.000 E-Mails pro Monat versenden und über eine stabile Kampagnenkadenz verfügen, um eine dedizierte IP-Adresse zu verwalten. Weitere Informationen zum Hinzufügen einer dedizierten IP zu Ihrem Marketo-Programm finden Sie in Ihrem CSM.
+>Eine dedizierte IP ist ein Zusatzprodukt. Nicht jeder kann eine dedizierte IP zu seinem Programm hinzufügen. Sie müssten mehr als 100.000 E-Mails pro Monat versenden und über eine stabile Kampagnenkadenz verfügen, um eine dedizierte IP-Adresse zu verwalten. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um weitere Informationen zum Hinzufügen einer dedizierten IP zu Ihrem Marketo-Programm zu erhalten.
 >
 >Wenn Sie weniger als 100.000 E-Mails pro Monat versenden und/oder ein unterschiedliches Kampagnenvolumen haben und/oder saisonaler Absender sind, können Sie keine dedizierte IP-Adresse verwalten. Marketo verwaltet einen separaten freigegebenen vertrauenswürdigen IP-Pool für Kunden, die sich an die Best Practices halten. Falls gewünscht, füllen Sie bitte [dieser Fragebogen](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) , um auf das vertrauenswürdige IP-Programm von Marketo anzuwenden.
 
@@ -41,4 +41,4 @@ Um die langfristige Zustellbarkeit zu maximieren, bieten die Zustellbarkeits-Ber
 
 >[!CAUTION]
 >
->Wenn Sie eine hohe Anzahl von Bounces oder andere Probleme feststellen, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie gezieltere Unterstützung benötigen, um mehr über die Pflege einer sauberen Datenbank zu erfahren und die Interaktion mit Ihrem Programm zu steigern, können die Berater für E-Mail-Zustellbarkeit von Marketo für ein Custom Services-Paket eingebunden werden.
+>Wenn Sie eine hohe Anzahl von Bounces oder andere Probleme feststellen, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie gezieltere Unterstützung benötigen, um mehr über die Pflege einer sauberen Datenbank zu erfahren und die Interaktion mit Ihrem Programm zu steigern, können Marketos Berater für die Zustellbarkeit von E-Mails für ein Custom Services-Paket eingebunden werden.

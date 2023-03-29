@@ -3,10 +3,10 @@ unique-page-id: 13795395
 description: Versionshinweise - Winter 18 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Winter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 8%
+source-wordcount: '598'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funkti
 
 Marketo nutzt unsere Big-Data-Architektur, um den Durchsatz von Trigger-Kampagnen zu erhöhen und die Verarbeitung von Web-Aktivitäten zu verbessern, sodass Sie schneller auf die Aktionen Ihrer Zielgruppe reagieren können.
 
-## Verbesserungen der Salesforce CRM-Integration von Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Verbesserungen in der Salesforce CRM-Integration von Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Wir haben zwei Verbesserungen an unserer Salesforce CRM-Integration:
 
@@ -34,7 +34,7 @@ Diese Verbesserungen werden im Laufe des Jahres 2018 eingeführt.
 
 >[!AVAILABILITY]
 >
->Performance Insights ist ein Zusatzprodukt. Wenden Sie sich an Ihren Marketo Customer Success Manager oder Kundenbetreuer, um ein Angebot zu erhalten.
+>Performance Insights ist ein Zusatzprodukt. Wenden Sie sich für ein Angebot an Ihren Marketo-Kundenbetreuer oder Kundenbetreuer.
 
 Erfahren Sie, wie sich Ihre Kampagnen und Kanäle mit Attributionsanalysen, interaktiven Visualisierungen und einer detaillierten Datentabelle auf die Geschäftsergebnisse auswirken.
 
@@ -84,7 +84,7 @@ Mit der Web-Personalisierung können Inhalte nun für bekannte Webbesucher perso
 
 Inhalte, die über die optimierten ContentAI-Algorithmen von Marketo empfohlen werden, generieren bis zu doppelt so viele Klicks wie zufällige Inhalte.
 
-## Integration {#integration}
+## -Integration {#integration}
 
 **[Kampagnen-API aktivieren/deaktivieren](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
@@ -98,7 +98,7 @@ Ab dem 1. März 2018 werden alle E-Mails von [ToutApp.com](https://ToutApp.com) 
 
 **Live-Feed-Update**
 
-Wir haben das Erscheinungsbild der Registerkarten Interaktion und Aufgabe aktualisiert, damit Vertriebsmitarbeiter direkt über den Live-Feed auf die Aktivitäten ihrer Kunden reagieren können.
+Das Erscheinungsbild der Registerkarten &quot;Interaktion&quot;und &quot;Aufgabe&quot;wurde aktualisiert, damit Vertriebsmitglieder einfacher und schneller direkt über den Live-Feed auf die Aktivitäten ihrer Kunden reagieren können.
 
 **People Detail View aktualisieren**
 

@@ -4,9 +4,9 @@ title: Festlegen von Ereigniszielen
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionieren.
 
 >[!IMPORTANT]
->Nicht alle Kunden haben Zugriff auf diese Funktion. Weitere Informationen erhalten Sie von Ihrem Customer Success Manager.
+>
+>Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Erstellen Sie ein Veranstaltungsprogramm.
 

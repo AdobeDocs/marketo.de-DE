@@ -2,9 +2,9 @@
 description: Anmelden mit OAuth 2.0 - Marketo Docs - Produktdokumentation
 title: Anmelden mit OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Salesforce verwendet das OAuth-Protokoll, um Anwendern von Anwendungen den siche
 
    >[!CAUTION]
    >
-   >Wenn die Felder &quot;Benutzername/Kennwort/Token&quot;und nicht die Schaltfläche &quot;Mit Salesforce anmelden&quot;angezeigt werden, ist Ihr Marketo-Abonnement für die Standardauthentifizierung aktiviert. Siehe [Einrichten von Marketo mit Standardauthentifizierung](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Sobald die Synchronisierung mit einer Reihe von Anmeldeinformationen beginnt, erfolgt kein Wechsel von Salesforce-Anmeldeinformationen oder -Abonnements. Wenn Sie Oauth 2.0 verwenden möchten, wenden Sie sich an Ihren Customer Success Manager.
+   >Wenn die Felder &quot;Benutzername/Kennwort/Token&quot;und nicht die Schaltfläche &quot;Mit Salesforce anmelden&quot;angezeigt werden, ist Ihr Marketo-Abonnement für die Standardauthentifizierung aktiviert. Siehe [Einrichten von Marketo mit Standardauthentifizierung](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Sobald die Synchronisierung mit einer Reihe von Anmeldeinformationen beginnt, erfolgt kein Wechsel von Salesforce-Anmeldeinformationen oder -Abonnements. Wenn Sie Oauth 2.0 verwenden möchten, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
 
 1. Ein Popup mit der Salesforce-Anmeldeseite wird angezeigt. Geben Sie die Anmeldedaten für Ihren Marketo Sync User ein und melden Sie sich an.
 
