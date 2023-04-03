@@ -2,9 +2,9 @@
 description: Verwendungsgrenzen für Produkte - Marketo-Dokumente - Produktdokumentation
 title: Einschränkungen bei der Produktnutzung
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
+source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 22%
 
 ---
@@ -17,6 +17,11 @@ Die folgenden Einschränkungen gelten für die Verwendung erweiterter Funktionen
   <th>Funktionalität</th>
   <th>Rate</th>
   <th>Beschränkung</th>
+ <tr>
+  <td>Synchronisierung der Marketo-Personendatenbank</td>
+  <td>laufend</td>
+  <td>1.500.000 Menschen</td>
+ </tr>
  <tr>
   <td>Verkaufs-E-Mail-Sendungen</td>
   <td>pro Benutzer/Tag</td>
