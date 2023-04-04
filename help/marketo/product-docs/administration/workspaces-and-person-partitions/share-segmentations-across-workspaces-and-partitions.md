@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Freigeben von Segmenten über Arbeitsbereiche und Partitionen hinweg - Marketo Docs - Produktdokumentation
 title: Segmente über Arbeitsbereiche und Partitionen hinweg freigeben
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -49,35 +49,35 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Sie Arbeitsbereiche verwenden
 
 ## Beispielszenarios {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## Freigeben einer Segmentierung {#share-a-segmentation}
 
 1. Navigieren Sie zu **Datenbank**.
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Rechtsklick **Segmentierungen** und wählen Sie **Neue Ordner**.
+1. Rechtsklick **Segmentierungen** und wählen Sie **Neuer Ordner**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Benennen Sie den Ordner, den Sie über Arbeitsbereiche hinweg freigeben möchten (Beispiel: Segmente freigeben).
+1. Benennen Sie den Ordner, den Sie über Arbeitsbereiche hinweg freigeben möchten (Beispiel: Segmente freigeben) und klicken Sie auf **Erstellen**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. Verschieben Sie die Segmentierung(en), die Sie freigeben möchten, in den Ordner .
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Ordner freigeben**.
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
 1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten. Klicken **Speichern**.
 
-   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >

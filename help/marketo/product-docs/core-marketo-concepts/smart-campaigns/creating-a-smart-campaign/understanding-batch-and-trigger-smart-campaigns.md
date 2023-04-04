@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Smart-Kampagnen für Batch und Trigger - Marketo-Dokumente - Produktdokumentation
 title: Smart-Kampagnen für Batch und Trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Es gibt zwei Arten von Smart-Kampagnen: Batch und Trigger.
 
 Batch-Smart-Kampagnen verfügen nur über Filter im Bereich der intelligenten Liste (d. h. keine Trigger).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Klicken Sie auf die **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;Batch&quot;eingestellt ist.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Smart-Kampagnen stapeln**
 
@@ -47,11 +47,11 @@ Klicken Sie auf die **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;B
 
 Wenn eine Smart-Kampagne mindestens einen Trigger im Bereich &quot;Smart-Liste&quot;verwendet, wird der Modus automatisch auf &quot;Ausgelöst&quot;eingestellt.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Klicken Sie auf die **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;Ausgelöst&quot;gesetzt ist.
+Klicken Sie auf **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;Ausgelöst&quot;gesetzt ist.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Smart-Kampagnen für Trigger**
 
