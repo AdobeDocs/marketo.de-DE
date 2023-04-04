@@ -2,9 +2,9 @@
 description: Filtern der E-Mail-Bot-Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Filtern der E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
+source-git-commit: 792db38ec0891d4a6de5a8d0bd746bd7bb429edb
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise die Daten Ihrer E-Mai
 
 Wir verwenden drei verschiedene Methoden zur Bestätigung von Bot-Aktivitäten:
 
-* Übereinstimmung mit [Bot-Liste des Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: Aktivitäten, die mit irgendetwas in der Liste &quot;IAB UA/IP&quot;(Benutzeragent/IP-Adresse) übereinstimmen, werden als Bots markiert.
+* Übereinstimmung mit [Bot-Liste des Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktivitäten, die mit irgendetwas in der Liste &quot;IAB UA/IP&quot;(Benutzeragent/IP-Adresse) übereinstimmen, werden als Bots markiert.
 * Übereinstimmung mit dem Annäherungsmuster: Wenn mehrere Aktivitäten gleichzeitig stattfinden (in einer Sekunde), werden sie als Bots identifiziert. Beim Vergleich berücksichtigte Attribute sind:
    * Lead-ID (sollte identisch sein)
    * E-Mail-Asset (sollte identisch sein)
@@ -53,3 +53,28 @@ Bei der Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute m
 >[!TIP]
 >
 >Nutzen Sie Bot-Aktivitätsdaten in Smart-Listen über die booleschen Werte &quot;Is Bot Activity&quot;(Ja/Nein) und &quot;Bot Activity Pattern&quot;in den Filtern &quot;Clicked Link in Email&quot;und &quot;Open Email&quot;, sowie &quot;Clicks Link in Email&quot;und &quot;Opens Email&quot;.
+
+## IP-Blockierungsliste {#ip-blocklist}
+
+Wir haben eine Liste von IP-Adressen zusammengestellt, die für die Generierung von Millionen von gefälschten Interaktionen verantwortlich sind, da die Interaktion, die von einer der folgenden IPs empfangen wurde, automatisch herausgefiltert und nicht zu Ihrer Marketo Engage-Instanz hinzugefügt wird. Dies kann zu einer Verringerung von E-Mail-Öffnungen, Klicks und anderen damit zusammenhängenden Aktivitäten führen. Die nachstehende Liste kann regelmäßig aktualisiert werden.
+
+* 209.222.82.126
+* 209.222.82.127
+* 209.222.82.128
+* 209.222.82.129
+* 209.222.82.138
+* 209.222.82.139
+* 209.222.82.140
+* 209.222.82.141
+* 209.222.82.228
+* 209.222.82.229
+* 209.222.82.230
+* 209.222.82.231
+* 209.222.82.232
+* 209.222.82.233
+* 209.222.82.234
+* 209.222.82.235
+
+>[!NOTE]
+>
+>Wir analysieren und überprüfen jede IP-Adresse sorgfältig, bevor sie dieser Liste hinzugefügt wird. Dadurch wird sichergestellt, dass nur die kritischsten und schädlichsten IP-Adressen blockiert werden.
