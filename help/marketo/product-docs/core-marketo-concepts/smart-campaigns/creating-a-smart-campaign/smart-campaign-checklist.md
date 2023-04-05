@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: Checkliste für intelligente Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für intelligente Kampagnen
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ Führen Sie die folgenden Schritte aus, um einen reibungslosen Ablauf der Smart-
 
 Klicken Sie in Ihrer Smart-Kampagne auf **Smart List**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -34,7 +34,7 @@ Klicken Sie in Ihrer Smart-Kampagne auf **Smart List**. Entfernen Sie alle roten
 
 Klicken Sie in Ihrer Smart-Kampagne auf **Fluss**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -44,17 +44,17 @@ Klicken Sie in Ihrer Smart-Kampagne auf **Fluss**. Entfernen Sie alle roten, kna
 
 Im **Zeitplan** Registerkarte, aktivieren **Smart** **Liste** **Status** für Fehler in der Smart-Kampagne, die behoben werden müssen.
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## Personenbeschränkung überprüfen {#check-person-restrictions-limit}
 
 Im **Zeitplan** -Tab, stellen Sie sicher, dass die Anzahl qualifizierter Personen die Personenbeschränkung nicht überschreitet.
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Bei Bedarf können Sie  [Außerkraftsetzen von Personenbeschränkungen in einer intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Bei Bedarf können Sie [Außerkraftsetzen von Personenbeschränkungen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
@@ -62,4 +62,4 @@ Im **Zeitplan** -Tab, stellen Sie sicher, dass die Anzahl qualifizierter Persone
 >
 >Wenn Ihre Smart-Kampagne weiterhin fehlschlägt, erfahren Sie, wie Sie [Benachrichtigungen verstehen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) um herauszufinden, was schiefgelaufen ist und wie es zu beheben ist.
 
-Großartig gemacht! Halten Sie diese Checkliste bereit, bevor Sie eine intelligente Kampagne durchführen.
+Großartig gemacht! Halten Sie diese Checkliste bereit, bevor Sie eine Smart-Kampagne ausführen.

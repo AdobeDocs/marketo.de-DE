@@ -3,28 +3,28 @@ unique-page-id: 1146942
 description: Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger - Marketo Docs - Produktdokumentation
 title: Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
-Erstellen Sie eine intelligente Kampagne auf der Basis von Live-Ereignissen, indem Sie Trigger hinzufügen.
+Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Person, indem Sie Trigger hinzufügen.
 
 1. Klicken Sie in Ihrer Smart-Kampagne auf die **Smart List** Registerkarte.
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. Suchen Sie nach dem Trigger und ziehen Sie den Trigger per Drag-and-Drop auf die Arbeitsfläche.
+1. Suchen Sie nach dem gewünschten Trigger und ziehen Sie ihn per Drag-and-Drop auf die Arbeitsfläche.
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
-   >Eine intelligente Kampagne mit Triggern wird in **Trigger** -Modus. Er wird basierend auf ausgelösten Ereignissen und beliebigen zusätzlichen Filtern jeweils für eine Person ausgeführt.
+   >Eine Smart-Kampagne mit Triggern wird in **Trigger** -Modus. Er wird basierend auf ausgelösten Ereignissen und beliebigen zusätzlichen Filtern jeweils für eine Person ausgeführt.
 
    >[!IMPORTANT]
    >
@@ -32,7 +32,7 @@ Erstellen Sie eine intelligente Kampagne auf der Basis von Live-Ereignissen, ind
 
 1. Klicken Sie auf die Dropdown-Liste und wählen Sie einen Operator aus.
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ Erstellen Sie eine intelligente Kampagne auf der Basis von Live-Ereignissen, ind
 
    >[!TIP]
    >
-   >In einer Smart-Kampagne mit Triggern und Filtern werden die Trigger ganz oben aufgeführt und bei der Auslösung durchlaufen nur Personen, die die Filterkriterien erfüllen.
+   >In einer Smart-Kampagne mit Triggern und Filtern werden die Trigger ganz oben angezeigt und bei der Auslösung durchlaufen nur Personen, die die Filterkriterien erfüllen.
 
 1. Definieren Sie den Trigger.
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >

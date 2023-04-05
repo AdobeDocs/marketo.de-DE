@@ -3,36 +3,36 @@ unique-page-id: 1146940
 description: Definieren einer Smart-Liste für eine intelligente Kampagne | Batch - Marketo-Dokumente - Produktdokumentation
 title: Definieren einer Smart-Liste für eine intelligente Kampagne | Charge
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
 # Definieren einer Smart-Liste für eine intelligente Kampagne | Charge {#define-smart-list-for-smart-campaign-batch}
 
-Smart-Listen sind in Marketo der Mechanismus, um festzulegen, wer (welche Personen) einbezogen werden soll, ob es sich um einen Bericht, eine Liste oder eine Smart-Kampagne handelt. So definieren Sie eine Smart-Liste für eine Batch-Kampagne:
+Mit intelligenten Listen können Sie in Marketo festlegen, wer (welche Personen) einbezogen werden soll, sei es als Bericht, Liste oder Smart-Kampagne. So definieren Sie eine Smart-Liste für eine Batch-Kampagne:
 
 1. Wählen Sie eine Smart-Kampagne aus und klicken Sie auf **Smart List**.
 
-   ![](assets/campaignchoose-hand.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
-1. Geben Sie ein, um nach einem Filter zu suchen, und ziehen Sie ihn per Drag-and-Drop auf die Arbeitsfläche. Wiederholen Sie diesen Vorgang für mehrere Filter.
+1. Geben Sie ein, um nach einem Filter zu suchen, und ziehen Sie ihn auf die Arbeitsfläche. Wiederholen Sie diesen Vorgang für mehrere Filter.
 
-   ![](assets/dragin.png)
-
-   >[!NOTE]
-   >
-   >Eine intelligente Kampagne mit nur Filtern wird in **Batch** -Modus. Es findet Personen in der Datenbank, die sich auf der Grundlage der Filter qualifizieren, und führt sie alle gleichzeitig durch den Fluss.
+   ![](assets/define-smart-list-for-smart-campaign-batch-2.png)
 
    >[!NOTE]
    >
-   >Sie können eine Smart-Kampagne auf der Basis von Live-Ereignissen einzeln durchführen, indem Sie Trigger hinzufügen, wodurch die Smart-Kampagne in **Trigger** -Modus.
+   >Eine Smart-Kampagne mit nur Filtern wird in **Batch** -Modus. Es findet Personen in der Datenbank, die sich auf der Grundlage der Filter qualifizieren, und führt sie alle gleichzeitig durch den Fluss.
+
+   >[!NOTE]
+   >
+   >Sie können eine Smart-Kampagne auf Basis von Live-Ereignissen einzeln durchführen, indem Sie Trigger hinzufügen, wodurch die Smart-Kampagne aktiviert wird. **Trigger** -Modus.
 
 1. Klicken Sie auf die Dropdown-Liste und wählen Sie einen Filteroperator für den gewählten Filter aus.
 
-   ![](assets/programdropdown-hands.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-3.png)
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Smart-Listen sind in Marketo der Mechanismus, um festzulegen, wer (welche Person
 
 1. Geben Sie den Filterwert ein.
 
-   ![](assets/chooseprogram.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-4.png)
 
    >[!NOTE]
    >
