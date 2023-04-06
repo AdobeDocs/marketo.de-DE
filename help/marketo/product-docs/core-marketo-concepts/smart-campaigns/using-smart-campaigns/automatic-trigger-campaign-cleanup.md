@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Automatische Trigger-Kampagnenbereinigung - Marketo-Dokumente - Produktdokumentation
 title: Automatische Auslöser-Kampagnenbereinigung
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---
@@ -22,17 +22,17 @@ Einmal im Quartal wird Marketo intelligente Kampagnen finden, die seit mindesten
 
 Natürlich! Einmal im Quartal erhalten Sie eine Woche im Voraus eine Benachrichtigung, die alle Kampagnen anzeigt, die wir zur Deaktivierung planen.
 
-1. Navigieren Sie zu **Benachrichtigungen** Registerkarte.
+1. Klicken Sie auf **Benachrichtigungen** Symbol.
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Klicken **Ungenutzte Trigger-Kampagnenbereinigung geplant**. Klicken Sie anschließend auf **Diese Idle Trigger-Kampagnen werden deaktiviert** Link.
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    Es wird eine Liste mit Smart-Kampagnen angezeigt, deren Deaktivierung geplant ist.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## Welche Kampagnen werden deaktiviert? {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Absolut - Eine Woche nach der ursprünglichen Benachrichtigung werden wir die au
 
 1. Wählen Sie die **Ungenutzte Trigger-Kampagnenbereinigung geplant** Benachrichtigung. Klicken Sie auf **Diese inaktiven Trigger-Kampagnen** Link.
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. Daraufhin wird eine Liste der deaktivierten Kampagnen angezeigt.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)

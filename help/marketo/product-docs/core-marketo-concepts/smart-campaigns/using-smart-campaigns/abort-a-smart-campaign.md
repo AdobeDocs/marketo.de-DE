@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Abbrechen einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Abbrechen einer Smart-Kampagne
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -16,25 +16,25 @@ ht-degree: 0%
 >
 >Nur für Notfälle
 
-Manchmal starten Sie eine intelligente Kampagne und erkennen sofort, dass dies ein Fehler war. Hier ist, wie man die Notbremse zieht und die intelligente Kampagne stoppt.
+Manchmal starten Sie eine Smart-Kampagne und erkennen sofort, dass dies ein Fehler war. Hier erfahren Sie, wie Sie die Notbremse ziehen und die Smart-Campaign-Ausführung stoppen.
 
-1. under **Marketingaktivitäten**, wählen Sie Ihre Smart-Kampagne aus und navigieren Sie zum **Zeitplan** Registerkarte.
+1. Wählen Sie die gewünschte Smart-Kampagne aus und klicken Sie auf die Schaltfläche **Zeitplan** Registerkarte.
 
-   ![](assets/image2014-9-22-16-3a19-3a44.png)
+   ![](assets/abort-a-smart-campaign-1.png)
 
 1. Klicken Sie auf **Kampagnenaktionen** Dropdown-Liste. Auswählen **Abbruch der Kampagne**.
 
-   ![](assets/image2014-9-22-16-19-48.png)
+   ![](assets/abort-a-smart-campaign-2.png)
 
 1. Klicken **Abbruch** zur Bestätigung.
 
-   ![](assets/image2014-9-22-16-3a19-3a57.png)
+   ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >Beim Abbrechen werden die bereits abgeschlossenen Schritte nicht rückgängig gemacht. Es wird einfach verhindert, dass mehr passiert. (Beispiel: Die Zustellung von E-Mails kann nicht rückgängig gemacht werden.)
+   >Beim Abbrechen werden die bereits abgeschlossenen Schritte nicht rückgängig gemacht. Es wird einfach verhindert, dass mehr passiert (Beispiel: E-Mails können nicht rückgängig gemacht werden).
 
-   ![](assets/image2014-9-22-16-3a20-3a0.png)
+   ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >
