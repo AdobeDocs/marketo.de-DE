@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Professional) - Marketo Docs - Produktdokumentation'
 title: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Professional)'
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '782'
 ht-degree: 8%
 
 ---
@@ -251,13 +251,10 @@ Ein benutzerdefiniertes Feld für das Lead-Objekt in Salesforce sollte einem Kon
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Wiederholen Sie die obigen Schritte für alle anderen Felder, die Sie erstellt haben.
+
 1. Klicken Sie abschließend auf Speichern .
 
 Einfach genug, nicht wahr?
-
->[!NOTE]
->
->Hier ist ein [Video des gesamten Prozesses](https://nation.marketo.com/videos/1475) das sollte es kristallklar machen!
 
 >[!MORELIKETHIS]
 >
