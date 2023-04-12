@@ -3,9 +3,9 @@ unique-page-id: 1147058
 description: Abbrechen eines geplanten Batch-Kampagnenausführens - Marketo-Dokumente - Produktdokumentation
 title: Abbrechen eines geplanten Batch-Kampagnenausführens
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Wenn Sie eine Ausführung für eine Ihrer Batch-Kampagnen geplant haben und sie 
 
 1. Wählen Sie die Kampagne aus und wechseln Sie zur **Zeitplan** Registerkarte.
 
-   ![](assets/image2014-9-22-16-3a43-3a10.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
 1. Suchen Sie den geplanten Ablauf, den Sie abbrechen möchten, und klicken Sie auf **x** daneben.
 
-   ![](assets/image2014-9-22-16-3a43-3a15.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
 1. Bestätigen Sie den Abbruch durch Klicken auf **OK**.
 
-   ![](assets/image2014-9-22-16-3a43-3a24.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 
 >[!NOTE]
 >

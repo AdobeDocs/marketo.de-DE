@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Kampagnenaktionen - Löschen einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Kampagnenaktionen - Löschen einer Smart-Kampagne
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -20,19 +20,19 @@ Wenn Sie eine alte Smart-Kampagne haben, die Sie nicht mehr benötigen, können 
 
 1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigieren Sie zu Ihrer inaktiven Smart-Kampagne. under **Kampagne** **Aktionen** klicken **Löschen**.
+1. Navigieren Sie zu Ihrer inaktiven Smart-Kampagne. Im **Kampagne** **Aktionen** Dropdown-Liste auswählen **Löschen**.
+
+   ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
    >Um die Verarbeitung einer aktiven Smart-Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie, wie Sie [Abbrechen einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-   ![](assets/image2014-9-22-16-3a41-3a55.png)
-
 1. Klicken **Löschen** zur Bestätigung.
 
-   ![](assets/image2014-9-22-16-3a41-3a59.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >

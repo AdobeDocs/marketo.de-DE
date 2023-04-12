@@ -3,9 +3,9 @@ unique-page-id: 1147060
 description: Abbrechen eines geplanten wiederkehrenden Batch-Kampagnenausführens - Marketo Docs - Produktdokumentation
 title: Abbrechen eines geplanten wiederkehrenden Batch-Kampagnenausführens
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen, können Sie die zukünftigen Ausführungen abbrechen. So geht es.
 
-1. Klicken Sie auf die Smart-Kampagne und dann auf die **Zeitplan** Registerkarte.
+1. Wählen Sie die Smart-Kampagne aus und klicken Sie auf die Schaltfläche **Zeitplan** Registerkarte.
 
-   ![](assets/image2014-9-22-16-3a44-3a51.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
 1. Klicken **Intervall planen**.
 
-   ![](assets/image2014-9-22-16-3a44-3a55.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Sie können einen einzelnen Lauf abbrechen, indem Sie auf ![red x](assets/image2014-9-22-16-3a45-3a42.png) daneben. Erfahren Sie, wie Sie [Abbrechen einer geplanten Batch-Kampagnenausführung](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >Sie können einen einzelnen Lauf abbrechen, indem Sie auf die ![red x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) daneben. Erfahren Sie, wie Sie [Abbrechen einer geplanten Batch-Kampagnenausführung](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
-1. Setzen Sie den Zeitplan auf **Keines** und dann **Speichern**.
+1. Setzen Sie den Zeitplan auf **Keines** und klicken Sie auf **Speichern**.
 
-   ![](assets/image2014-9-22-16-3a45-3a56.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
    Voila! Ihre intelligente Kampagne läuft nicht mehr.
 
