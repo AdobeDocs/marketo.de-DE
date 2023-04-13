@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit - Marketo Docs - Produktdokumentation
 title: Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -46,12 +46,11 @@ Nachdem Sie den öffentlichen Schlüssel in Ihrem DNS-Eintrag eingerichtet und d
 
 **Wie richte ich DKIM ein?**
 
-Siehe [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+Siehe [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Erfahren Sie mehr über SPF und seine Funktionsweise](http://www.open-spf.org/Introduction/)
->* [Marketo Email Deliverability Tools](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [Ist meine SPF korrekt eingerichtet?](https://www.kitterman.com/spf/validate.html)
->* [Habe ich die richtige Syntax verwendet?](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [Erfahren Sie mehr über SPF und seine Funktionsweise](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [Ist meine SPF korrekt eingerichtet?](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [Habe ich die richtige Syntax verwendet?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
 
