@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 21a0aea2d1daa6bbe3e1f4b08efc67ce1b217604
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
-source-wordcount: '8849'
+source-wordcount: '8868'
 ht-degree: 5%
 
 ---
@@ -634,7 +634,7 @@ ht-degree: 5%
             + [Zielgruppenkriterien](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
             + [Berichte](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
-      + Veranstaltungen {#events}
+      + Ereignisse {#events}
          + Verstehen von Ereignissen {#understanding-events}
             + [Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [Neues Ereignisprogramm erstellen](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
@@ -663,6 +663,11 @@ ht-degree: 5%
                + [Grundlegendes zum Webinar-Programmstatus](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Interaktive Webinare {#interactive-webinars}
             + [Interaktive Webinare - Überblick](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [Benutzerverwaltung für interaktive Webinare](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [Erstellen eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+            + [Interaktive Webinare erstellen](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Bearbeiten oder Löschen eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [Ereignis-Workflows](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Erstellen einer benutzerdefinierten Zielgruppe in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
@@ -1768,7 +1773,7 @@ ht-degree: 5%
          + [Kontoeinblick einrichten](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Übersicht über das Konto-Insight-Plug-in](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Einladen von Benutzern zum Zugriff auf Kontoeinblicke](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Ziel {#target}
+      + Zielgruppe {#target}
          + Bekannte Kunden {#named-accounts}
             + [Übersicht über benanntes Konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Benannte Konten importieren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)

@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Trigger und Filter für mobile Smart-Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Trigger und Filter für mobile Smart-Kampagnen
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 1%
@@ -28,13 +28,13 @@ Es gibt nur Filter für diese Aktivität:
 
 Suchen Sie nach **mobile App** im rechten Bereich, um alle Mobile App-Trigger und -Filter aufzulisten.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Einschränkungen {#constraints}
 
 Verwenden Sie Einschränkungen mit Triggern und Filtern, um die Daten weiter zu sortieren.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 Alle Trigger und Filter mit Ausnahme der Benachrichtigung über die gesendete Push-Benachrichtigung enthalten die folgenden beiden Standardeinschränkungen:
 
@@ -70,7 +70,7 @@ Verwenden Sie diesen Filter, um alle Personen herauszufinden, die Ihre App jemal
 
 **Einschränkungen**: Gerätetyp, Plattform, mobile App, Version der mobilen App, Gerätetyp, Installationsquelle, Ist Push-aktiviert und Gebietsschema
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ Die mobile App ist/wurde installiert
 
 **Einschränkungen**: Gerätetyp, Plattform, App-Version, Gebietsschema und Installationsquelle
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 Mobile App ist/wurde geöffnet
 
@@ -98,7 +98,7 @@ Mobile App ist/wurde geöffnet
 
 **Einschränkungen**: Gerätetyp und Plattform
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Mobile App-Aktivität enthält/anzeigen
 
@@ -138,7 +138,7 @@ Mit den Aktionsbegrenzungen können Sie den Trigger und Filter sehr genau verwen
 
 So sieht der Filter in Marketo aus:
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ So sieht der Filter in Marketo aus:
 
 **Einschränkungen**: Gerätetyp, Plattform und Sitzungslänge (Sekunden)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Tippen/Tippen-Push-Benachrichtigung
 
@@ -175,11 +175,11 @@ Tippen/Tippen-Push-Benachrichtigung
 
 **Einschränkungen**: Gerätetyp, Plattform, Version der mobilen App, Push-Benachrichtigung und Plattformversion
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
->Verwenden Sie den Filter Nicht getippte Push-Benachrichtigung , um Personen zu finden, die nicht auf eine Push-Benachrichtigung getippt haben, die kürzlich an sie gesendet wurde. So können Sie per E-Mail Folgemaßnahmen durchführen.
+>Verwenden Sie den Filter Nicht getippte Push-Benachrichtigung , um Personen zu finden, die nicht auf eine Push-Benachrichtigung getippt haben, die ihnen kürzlich gesendet wurde. So können Sie per E-Mail Folgemaßnahmen durchführen.
 
 **wurde Push-Benachrichtigung gesendet** Diese Aktivität ist nur als Filter verfügbar.
 
@@ -189,7 +189,7 @@ Tippen/Tippen-Push-Benachrichtigung
 
 **Einschränkungen**: Push-Benachrichtigung und mobile App
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
