@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 5%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 5%
             + [Länderauswahl zu Ihrem Formular hinzufügen](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Hinzufügen von Rich Text zu einem Formular](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [Gebietsschema eines Formulars ändern](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [Sprache der Formularüberprüfung/Fehlermeldungen und Senden-Schaltfläche ändern](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [Sprache eines Formulars ändern](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [Konfigurieren des progressiven Profils](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [Löschen eines Formulars](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
