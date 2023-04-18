@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: Trigger und Filter für mobile Smart-Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Trigger und Filter für mobile Smart-Kampagnen
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '823'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Verwenden Sie diesen Filter, um alle Personen herauszufinden, die Ihre App jemal
 >
 >Der Filter findet sowohl aktuelle als auch frühere Installationen, da Marketo App-Deinstallationen nicht verfolgt.
 
-**Einschränkungen**: Gerätetyp, Plattform, mobile App, Version der mobilen App, Gerätetyp, Installationsquelle, Ist Push-aktiviert und Gebietsschema
+**Einschränkungen** - Gerätetyp, Plattform, mobile App, Version der mobilen App, Gerätetyp, Installationsquelle, Ist Push-aktiviert und Gebietsschema
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ Die mobile App ist/wurde installiert
 
 * NOT Mobile App wurde installiert - Inaktivitätsfilter
 
-**Einschränkungen**: Gerätetyp, Plattform, App-Version, Gebietsschema und Installationsquelle
+**Einschränkungen** - Gerätetyp, Plattform, App-Version, Gebietsschema und Installationsquelle
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ Mobile App ist/wurde geöffnet
 
 * NOT Mobile App wurde geöffnet - Inaktivitätsfilter
 
-**Einschränkungen**: Gerätetyp und Plattform
+**Einschränkungen** - Gerätetyp und Plattform
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivi
 
 * NICHT über Mobile-App-Aktivität verfügen - Inaktivitätsfilter
 
-**Einschränkungen**: Gerätetyp und Plattform sowie fünf weitere:
+**Einschränkungen** - Gerätetyp, Plattform, Version der mobilen App, Gebietsschema, Plattformversion sowie fünf weitere:
 
 * Aktion - Benutzerdefinierte mobile Aktivität
 
@@ -161,7 +161,7 @@ So sieht der Filter in Marketo aus:
 
 * NOT Had Mobile App Session - Inaktivitätsfilter
 
-**Einschränkungen**: Gerätetyp, Plattform und Sitzungslänge (Sekunden)
+**Einschränkungen** - Gerätetyp, Plattform und Sitzungslänge (Sekunden)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ Tippen/Tippen-Push-Benachrichtigung
 
 * NOT Tapped Push Notification - Inactivity filter
 
-**Einschränkungen**: Gerätetyp, Plattform, Version der mobilen App, Push-Benachrichtigung und Plattformversion
+**Einschränkungen** - Gerätetyp, Plattform, Version der mobilen App, Push-Benachrichtigung und Plattformversion
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ Tippen/Tippen-Push-Benachrichtigung
 
 * NOT WURDE Push-Benachrichtigung gesendet - Inaktivitätsfilter
 
-**Einschränkungen**: Push-Benachrichtigung und mobile App
+**Einschränkungen** - Push-Benachrichtigung und Mobile App
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
