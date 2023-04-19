@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: Bearbeiten von Qualifikationsregeln in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Bearbeiten von Qualifikationsregeln in einer Smart-Kampagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne dur
 
 1. Klicken Sie in Ihrer Smart-Kampagne auf die **Zeitplan** Registerkarte und dann **Einstellungen bearbeiten**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ Qualifikationsregeln steuern, wie oft jemand in einer intelligenten Kampagne dur
 
 1. Legen Sie fest, wie oft Ihre Personen durch den Smart-Campaign-Fluss geführt werden sollen: **nur einmal**, **jedes Mal** oder **einmal pro # Tage**/**Wochen**/**months**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
