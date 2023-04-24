@@ -3,16 +3,16 @@ unique-page-id: 2360344
 description: Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce - Marketo Docs - Produktdokumentation
 title: Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 5%
 
 ---
 
 # Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
-Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmtes Marketo-Feld verknüpft ist. Hier ist, wie man das erreicht.
+Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmtes Marketo-Feld verknüpft ist. Hier ist, wie man das überprüft.
 
 >[!NOTE]
 >
@@ -34,4 +34,6 @@ Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmt
 >
 >Hier wird der Salesforce-API-Name und nicht der Beschriftungsname angezeigt.
 
-Gute Arbeit! Jetzt wissen Sie, wie Sie herausfinden können, mit welchen Salesforce-Feldern Ihre Marketo-Felder verknüpft sind.
+>[!IMPORTANT]
+>
+>Die aufgeführten Felder spiegeln nur Daten aus der ersten Zuordnung wider. Sie werden nach der Synchronisierung von Marketo/Salesforce nicht aktualisiert.
