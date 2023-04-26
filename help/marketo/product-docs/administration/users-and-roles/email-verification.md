@@ -2,16 +2,16 @@
 description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # E-Mail-Überprüfung {#email-verification}
 
-Für Adobe Marketo Engage-Abonnements müssen alle Benutzer, die keine API verwenden, einschließlich Marketo Engage-Administratoren, ihre E-Mail-Adresse überprüfen. Single-Sign-On (SSO)-Benutzer, denen keine Administratorrolle zugewiesen wurde, lassen ihre E-Mail automatisch verifizieren, wenn ihre Anmeldung mit der Funktion E-Mail-Verifizierung aktiviert ist.
+Für Adobe Marketo Engage-Abonnements müssen alle Benutzer, die keine API verwenden, einschließlich Marketo Engage-Administratoren, ihre E-Mail-Adresse überprüfen. Single-Sign-on (SSO)-Benutzer, denen keine Administratorrolle zugewiesen wurde oder denen eine Rolle mit der Berechtigung &quot;SSO umgehen&quot;zugewiesen wurde, lassen ihre E-Mail automatisch verifizieren, wenn ihr Abonnement mit der Funktion &quot;E-Mail-Verifizierung&quot;aktiviert ist.
 
 **Einladung für Benutzer**
 
