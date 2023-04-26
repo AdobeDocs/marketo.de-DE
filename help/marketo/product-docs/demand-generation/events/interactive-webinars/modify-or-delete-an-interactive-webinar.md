@@ -4,9 +4,9 @@ title: Ändern oder Löschen eines interaktiven Webinars
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '78'
 ht-degree: 6%
 
 ---
@@ -20,6 +20,16 @@ Einführung.
 1. Wählen Sie das gewünschte Webinar aus und klicken Sie auf **Raum/Vorlage ändern**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
+
+1. Text
+
+PICC
+
+## Ein interaktives Webinar neu planen {#reschedule-an-interactive-webinar}
+
+1. Wählen Sie das gewünschte Webinar aus und klicken Sie auf **Raum/Vorlage ändern**.
+
+PICC
 
 1. Text
 

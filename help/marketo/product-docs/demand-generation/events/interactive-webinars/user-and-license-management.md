@@ -4,10 +4,10 @@ title: Benutzer- und Lizenzverwaltung
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 14%
+source-wordcount: '399'
+ht-degree: 5%
 
 ---
 
@@ -53,7 +53,7 @@ Einführung.
 
 ## Lizenzverwendung {#license-usage}
 
-Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Feld zur Lizenzverwendung angezeigt.
+Interaktive Webinare bieten spezifische Lizenzen zum Erstellen von Adobe Connect-Ereignissen. Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Feld zur Lizenzverwendung angezeigt. Marketo-Administratoren können die Lizenzen wie folgt anzeigen (nicht bearbeiten): Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um zusätzliche Lizenzen zu erwerben.
 
 1. Navigieren Sie zum **Admin**-Bereich.
 
@@ -63,6 +63,48 @@ Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Feld zur Lizenzver
 
    ![](assets/user-and-license-management-10.png)
 
-1. INFO
+1. Scrollen Sie nach unten zu den Karten für die Lizenznutzung .
 
-PICC
+   ![](assets/user-and-license-management-11.png)
+
+<table> 
+  <tr> 
+   <td><b>Startdatum</b></td>
+   <td>Datum, an dem die Lizenz beginnt.</td>
+  </tr>
+  <tr> 
+   <td><b>Ablaufdatum</b></td>
+   <td>Datum, an dem die Lizenz abläuft.</td>
+  </tr>
+  <tr> 
+   <td><b>Typ</b></td>
+   <td>Die Art der erworbenen Lizenz. Es stehen drei Typen zur Verfügung: Shared Events Lizenz, Shared Rooms License, Additional Storage License.</td>
+  </tr>
+  <tr> 
+   <td><b>Ereigniskapazität</b></td>
+   <td>Die maximale Anzahl der Teilnehmer, die für eine Veranstaltung geeignet sind.</td>
+  </tr>
+  <tr> 
+   <td><b>Gesamtereignisse</b></td>
+   <td>Die Gesamtzahl der Ereignisse, die mit dieser Lizenz bereitgestellt wurden.</td>
+  </tr>
+  <tr> 
+   <td><b>Konsumierte Ereignisse</b></td>
+   <td>Die Gesamtzahl der abgeschlossenen Ereignisse.</td>
+  </tr>
+  <tr> 
+   <td><b>Speicherkapazität</b></td>
+   <td>Speichermenge, die zum Speichern von Aufzeichnungen, Collaterals, hero images, Dokumentationen und anderen Assets verfügbar ist.</td>
+  </tr>
+  </tbody>
+</table>
+
+**Zu beachten**
+
+* Der Typ &quot;Zusätzliche Speicherlizenz&quot;liefert nur Speicher, daher der Wert in jedem Feld _beats_ Die Speicherkapazität wird einfach als &quot;-&quot;aufgeführt.
+
+* Der Typ &quot;Shared Room License&quot; hat unbegrenzte Ereignisse und &quot;Additional Storage License&quot; stellt nur Speicher bereit, daher wird das Feld Total Events für diese Lizenzen einfach als &quot;-&quot;aufgeführt.
+
+* Jedes Mal, wenn ein Ereignis erstellt wird, zählt es von seiner jeweiligen Lizenz aus als &quot;konsumiert&quot;(es sei denn, es handelt sich um eine Shared Room-Lizenz). Die &quot;Lizenz für freigegebene Ereignisse&quot;erhält Vorrang, wenn sowohl &quot;Lizenz für freigegebene Ereignisse&quot;als auch &quot;Lizenz für freigegebene Ereignisse&quot;mit derselben Kapazität vorhanden sind. Wenn das Ereignis nicht bereitgestellt wurde und das Ereignisprogramm vor der geplanten Zeit gelöscht wird, wird die Ereignisanzahl erneut aufgefüllt, indem ein Ereignis von &quot;Entnommen&quot;abgezogen wird.
+
+* Sobald eine Lizenz erschöpft ist, bleibt ihre Kachel im Bildschirm der interaktiven Webinare in Admin mit dem Wert Gesamtereignisse und Ereignisse mit dem gleichen Wert. Erst wenn die Lizenz abläuft, wird sie vom Bildschirm entfernt.
