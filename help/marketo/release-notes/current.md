@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Unten finden Sie alle Funktionen der Version vom 23. Mai. Überprüfen Sie Ihre 
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **19. Mai 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **12. Mai 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
