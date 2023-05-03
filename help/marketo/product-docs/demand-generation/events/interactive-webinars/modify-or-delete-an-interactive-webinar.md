@@ -4,9 +4,9 @@ title: Ändern oder Löschen eines interaktiven Webinars
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ Erfahren Sie, wie Sie Änderungen an Ihrem interaktiven Webinar vornehmen könne
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Text
+1. Das Zimmer wird sich laden. Wenn Sie das Zimmer wechseln möchten, wählen Sie eines aus der Dropdown-Liste Zimmer aus. Um nur Ihre Vorlage zu aktualisieren, klicken Sie auf **Use Room**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-??? für Nilesh - ist es normal, nicht in den Raum gebracht zu werden, in dem das Webinar bereits ist? Wenn nicht, welche Best Practices gibt es?
+>[!NOTE]
+>
+>Eine Zimmeränderung ist optional und nicht erforderlich, um Ihre Vorlage zu aktualisieren.
+
+1. Klicken **Webinar jetzt verfeinern**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Wählen Sie Ihre Audio-/Videoeinstellungen aus und klicken Sie auf **Eingabefeld**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. Wenn Sie die Änderungen vorgenommen haben, klicken Sie auf **Ausstiegsraum**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Ein interaktives Webinar neu planen {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. Klicken **Nächste**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >Sie können ein geklontes interaktives Webinar derzeit nur als interaktives Webinar speichern. Speichern eines geklonten Webinars als Partner-Webinar (z. B. Zoom, ON24 usw.) in Kürze verfügbar sein.
 
 1. Wählen Sie die Einstellungen für Ihr geklontes Webinar aus und klicken Sie auf **Klonen**.
 

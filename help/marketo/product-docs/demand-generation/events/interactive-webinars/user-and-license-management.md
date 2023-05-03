@@ -4,7 +4,7 @@ title: Benutzer- und Lizenzverwaltung
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 4%
@@ -53,7 +53,7 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Li
 
 ## Lizenzverwendung {#license-usage}
 
-Interaktive Webinare bieten spezifische Lizenzen zum Erstellen von Adobe Connect-Ereignissen. Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Feld zur Lizenzverwendung angezeigt. Marketo-Administratoren können die Lizenzen wie folgt anzeigen (nicht bearbeiten): Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um zusätzliche Lizenzen zu erwerben.
+Interaktive Webinare bieten spezifische Lizenzen zum Erstellen von Adobe Connect-Ereignissen. Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Feld zur Lizenzverwendung angezeigt. Marketo-Administratoren können die Lizenzen anzeigen (nicht bearbeiten), indem sie die folgenden Schritte ausführen. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um zusätzliche Lizenzen zu erwerben.
 
 1. Navigieren Sie zum **Admin**-Bereich.
 
@@ -107,4 +107,4 @@ Interaktive Webinare bieten spezifische Lizenzen zum Erstellen von Adobe Connect
 
 * Jedes Mal, wenn ein Ereignis erstellt wird, zählt es von seiner jeweiligen Lizenz aus als &quot;konsumiert&quot;(es sei denn, es handelt sich um eine Shared Room-Lizenz). Die &quot;Lizenz für freigegebene Ereignisse&quot;erhält Vorrang, wenn sowohl &quot;Lizenz für freigegebene Ereignisse&quot;als auch &quot;Lizenz für freigegebene Ereignisse&quot;mit derselben Kapazität vorhanden sind. Wenn das Ereignis nicht bereitgestellt wurde und das Ereignisprogramm vor der geplanten Zeit gelöscht wird, wird die Ereignisanzahl erneut aufgefüllt, indem ein Ereignis von &quot;Entnommen&quot;abgezogen wird.
 
-* Sobald eine Lizenz erschöpft ist, bleibt ihre Kachel im Bildschirm der interaktiven Webinare in Admin mit dem Wert Gesamtereignisse und Ereignisse mit dem gleichen Wert. Erst wenn die Lizenz abläuft, wird sie vom Bildschirm entfernt.
+* Sobald eine Lizenz erschöpft ist, bleibt ihre Kachel auf dem Bildschirm der interaktiven Webinare im Admin-Bereich mit dem Wert &quot;Gesamtereignisse&quot;und &quot;Entsuchte Ereignisse&quot;erhalten. Erst wenn die Lizenz abläuft, wird sie vom Bildschirm entfernt.

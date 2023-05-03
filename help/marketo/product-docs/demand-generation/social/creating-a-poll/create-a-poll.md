@@ -3,20 +3,16 @@ unique-page-id: 2359768
 description: Umfrage erstellen - Marketo-Dokumente - Produktdokumentation
 title: Umfrage erstellen
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 1%
+source-wordcount: '296'
+ht-degree: 0%
 
 ---
 
 # Umfrage erstellen {#create-a-poll}
 
 Engage Menschen mit einer Umfrage, in der sie wählen können, und mit ihren Freunden über soziale Netzwerke. Sie können sie zu Orten wie Ihren Landingpages, Ihrer Website und Facebook hinzufügen.
-
->[!AVAILABILITY]
->
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 >[!PREREQUISITES]
 >

@@ -4,16 +4,16 @@ title: Interaktive Webinare erstellen
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 1%
+source-wordcount: '383'
+ht-degree: 0%
 
 ---
 
 # Interaktive Webinare erstellen {#designing-interactive-webinars}
 
-Einführung.
+Entwerfen Sie Ihr Webinar nach Ihren Wünschen.
 
 1. Wählen Sie das Ereignis aus und klicken Sie auf **Design-Webinar**.
 
@@ -25,7 +25,7 @@ Einführung.
 
    >[!NOTE]
    >
-   >Ein Raum ist ein Online-Raum, den Sie für Meetings nutzen werden.
+   >Ein Raum ist ein Online-Raum, der für Meetings genutzt wird.
 
 1. Wählen Sie eine Vorlage aus.
 
@@ -51,23 +51,16 @@ Einführung.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Text
+1. Ausführliche Informationen zu Zimmern und Vorlagen finden Sie im Abschnitt &quot;Vorlagen und Layouts von Meetingräumen&quot; unter [Hilfeartikel zu dieser Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings??????
+1. Wenn Sie mit der Erstellung Ihres Webinars fertig sind, klicken Sie auf **Ausstiegsraum**.
 
+   ![](assets/designing-interactive-webinars-9.png)
 
-Saal: (Sie haben dies aus der Dokumentation zum Verbinden zur genauen genommen) Quelle: https://helpx.adobe.com/in/adobe-connect/using/meeting-basics.html
+## Design-Elemente {#design-elements}
 
-Ein Adobe Connect-Webinar ist eine interaktive Live-Online-Konferenz für mehrere Benutzer. Der Raum ist ein persistenter virtueller Online-Raum, den Sie für die Durchführung von Webinaren verwenden. Es umfasst verschiedene Anzeigebereiche (Pods) und Layouts. Es gibt mehrere vorgefertigte Sitzungsraum-Layouts, oder Sie können zusätzliche benutzerdefinierte Layouts erstellen und verwenden, um Ihre Anforderungen zu erfüllen. Der Raum ermöglicht es den Teilnehmern, Computerbildschirme oder Dateien gemeinsam zu nutzen, zu chatten, Audio und Video zu übertragen und an interaktiven Online-Aktivitäten teilzunehmen.
+**Vorlage**: Template ist eine Struktur, die einem Raum basierend auf dem Ziel der Bereitstellung des Webinars zur Verfügung gestellt wird. Wenn Sie beispielsweise ein Webinar für Produktpräsentationen planen möchten, ist die Bildschirmfreigabe eine wichtige Komponente für die Präsentation der Demo. Die Vorlage stellt sicher, dass die für eine effektive Bereitstellung eines bestimmten Webinars erforderlichen wesentlichen Komponenten während der Konfiguration des Webinarraums vorhanden sind.
 
-Vorlage:
+**Layout**: Layout beschreibt verschiedene Methoden, mit denen die verschiedenen Komponenten, die für den Erfolg des Webinars erforderlich sind, in einer bestimmten Vorlage angeordnet werden. Eine einzelne Vorlage kann mehrere Layouts enthalten, aus denen Sie wählen können. Die wesentlichen Komponenten des Webinars bleiben in allen Vorlagen gleich. Die von Ihnen ausgewählte Vereinbarung ist am besten auf den Stil/die Bedürfnisse Ihrer Person oder des Moderators abgestimmt, der das Webinar bereitstellt.
 
-Template ist eine Struktur, die einem Raum zur Verfügung gestellt wird, basierend auf dem Ziel, dass das Webinar im Raum geliefert wird. Wenn ein Marketing-Experte beispielsweise ein Webinar für Produktpräsentationen planen möchte, wäre die Bildschirmfreigabe eine wichtige Komponente, um die Demo in Groß- und Kleinschreibung zu zeigen. Die Vorlage stellt sicher, dass die für eine effektive Bereitstellung eines bestimmten Webinars erforderlichen wesentlichen Komponenten während der Konfiguration des Webinarraums vorhanden sind.
-
-Layout:
-
-Layout bezeichnet verschiedene Methoden, mit denen mehrere Komponenten, die für den Erfolg eines Webinars erforderlich sind, in einer bestimmten Vorlage angeordnet werden. Eine einzelne Vorlage kann mehrere Layouts aufweisen, aus denen der Marketing-Experte wählen kann. Die wesentlichen Komponenten des Webinars bleiben in allen Vorlagen gleich. Die vom Marketingexperten ausgewählte Vereinbarung ist am besten auf die Bedürfnisse und den Stil des Marketingexperten oder des Moderators abgestimmt, der das Webinar bereitstellt.
-
-Pod:
-
-Werbeunterbrechung bezieht sich auf eine Komponente innerhalb einer Vorlage, die beim Ausführen einer bestimmten Aktivität während des Webinars hilft. So können Sie z. B. eine Umfrage einrichten und durchführen, um Teilnehmer-Antworten in einer Aktivität zu erfassen, die durch einen Umfrage-Pod erfüllt werden können. Auf ähnliche Weise kann es sich bei dem Chat mit den Teilnehmern um eine Nachricht handeln oder gelegentlich mit ihnen interagieren, um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. In Connect sind mehrere weitere Pods verfügbar, z. B. Freigabe, Hinweise, Video, Chat, Teilnehmerliste, Dateien, Web-Links, Umfragen und Fragen und Antworten.
+**Pod**: Werbeunterbrechung bezieht sich auf eine Komponente innerhalb einer Vorlage, die während des Webinars eine bestimmte Aktivität ausführt. So können Sie beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die durch einen Umfrage-Pod erfüllt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern um eine Nachricht handeln oder mit ihnen gelegentlich interagieren, um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Hinweise, Video, Chat, Teilnehmerliste, Dateien, Web-Links, Umfragen und Fragen und Antworten.
