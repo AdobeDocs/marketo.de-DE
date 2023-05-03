@@ -4,16 +4,16 @@ title: Benutzer- und Lizenzverwaltung
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 5%
+source-wordcount: '412'
+ht-degree: 4%
 
 ---
 
 # Benutzer- und Lizenzverwaltung {#user-and-license-management}
 
-Einführung.
+Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Lizenzen anzeigen können.
 
 ## Hinzufügen von Benutzern {#add-a-user}
 

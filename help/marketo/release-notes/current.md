@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 8%
+source-wordcount: '452'
+ht-degree: 7%
 
 ---
 
@@ -96,20 +96,6 @@ ANMELDEINFORMATIONEN IN KÜRZE
 ### Dynamischer Chat {#dynamic-chat}
 
 </br>
-
-* **Verbesserte dynamische Chat-Aktivitäten**: Die vorhandenen Aktivitäten, Filter und Trigger des dynamischen Cats werden durch zusätzliche Attribute und eine standardisierte Benennungskonvention erweitert.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  </tbody>
-</table>
 
 * **Chat-Quelle für dynamischen Chat**: &quot;Chat&quot; wird nun als Quelle für neue Personenaufzeichnungen und Aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
 
