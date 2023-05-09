@@ -4,93 +4,51 @@ title: Interaktive Webinare - Überblick
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
+source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
 # Interaktive Webinare - Überblick {#interactive-webinars-overview}
 
-Erfahren Sie mehr über das native Marketo Engage-Tool zur Erstellung von BLANK, effektiven Webinaren.
+Mit der Funktion &quot;Interaktives Webinar&quot;können Sie Webinare in Marketo Engage erstellen, planen, bewerben und bereitstellen, ohne zusätzliche Tools oder Integrationen verwenden zu müssen.
 
-Ein Adobe Connect-Webinar ist eine interaktive Live-Online-Konferenz für mehrere Benutzer. Der Raum ist ein persistenter virtueller Online-Raum, den Sie für die Durchführung von Webinaren verwenden. Es umfasst verschiedene Anzeigebereiche (Pods) und Layouts. Es gibt mehrere vorgefertigte Sitzungsraum-Layouts, oder Sie können zusätzliche benutzerdefinierte Layouts erstellen und verwenden, um Ihre Anforderungen zu erfüllen. Der Raum ermöglicht es den Teilnehmern, Computerbildschirme oder Dateien gemeinsam zu nutzen, zu chatten, Audio und Video zu übertragen und an interaktiven Online-Aktivitäten teilzunehmen.
+## Was sind interaktive Webinare? {#what-is-interactive-webinars}
 
-_Was sind interaktive Webinare?_
+Interaktive Webinare sind eine interaktive Live-Online-Konferenz, die für mehrere Benutzer verfügbar ist. Wenn Sie [Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, stehen mehrere vorgefertigte Sitzungszimmerlayouts zur Verfügung, die Sie alle anpassen können. Sie können auch zusätzliche benutzerdefinierte Layouts erstellen und verwenden. Teilnehmer können Computerbildschirme/Dateien freigeben, miteinander chatten, Audio- und Videoübertragungen durchführen und an interaktiven Online-Aktivitäten teilnehmen.
 
-Nativ in Adobe Connect-Wertvorschlag integriert - wie unterscheidet sich dieser von anderen? Fügen Sie das Video auch in diesem Abschnitt hinzu.
+Angebote für interaktive Webinare [drei verschiedene Lizenzen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, mit jeweils unterschiedlichen Funktionen und Kapazitäten.
 
-_Grundlegendes zur bereitgestellten Lizenz und Verwendung_
-
-Verschiedene Arten von Lizenzen
-
-Irgendwann, wenn die Leute kaufen können, können wir auch darüber informieren, wie sie mit der Adobe in Kontakt kommen können, mehr zu kaufen
-
-_Datenfluss verstehen (hilft beim Hinzufügen eines Diagramms zur Erläuterung)_
-
-Registrierungsdaten fließen automatisch von Marketo Connect (was, Wann und Wie) Post-Ereignisdaten fließen automatisch von Connect nach Marketo (welche Daten und deren Bedeutung, wann und wie) Lebenszyklus des Programmteilnehmerstatus (eingeladen -> Registriert -> Eingestiegen/Keine Anzeige)
+Nach dem Webinar können Sie auf [Ereignisleistungsanalyse](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} über Berichte und Dashboards, die Lead- und Aggregat-Interaktionsdaten enthalten. Mithilfe interaktiver Webinar-spezifischer Filter und Trigger können Sie bestimmte Personengruppen finden, die bestimmte Aktionen ausgeführt haben (z. B. Klicken auf einen Link, Herunterladen eines Assets usw.).
 
 ## FAQs {#faq}
 
-**Frage?**
+**Benötige ich für die Verwendung von interaktiven Webinaren eine separate Adobe Connect-Lizenz?**
 
-Antwort.
+Anz. Für die Verwendung interaktiver Webinare ist nur ein aktives Marketo Engage-Abonnement erforderlich.
 
-**Frage?**
+**Welche Lizenzen gibt es für das interaktive Webinar?**
 
-Antwort.
+Interaktive Webinare verfügen über drei Arten von Lizenzen.
 
-Interaktive Webinare sind die neueste Funktion in Adobe Marketo Engage, die Marketing-Experten als Komplettlösung für alle Marketing-Anforderungen für Ereignisse bietet. Marketingexperten können innerhalb von Marketo Webinare erstellen, planen, bewerben und bereitstellen, ohne zusätzliche Tools nutzen zu müssen.
+`1.` Lizenz für gemeinsame Veranstaltungen - Diese Lizenz ist in verschiedenen Teilnehmerkapazitäten erhältlich: 500, 1000 und 1500. Es enthält eine begrenzte Anzahl von Webinaren, die verwendet werden können, und 3 GB Speicherplatz.
 
-Bei punktebasierten Ereignisprogrammen von Launch standen Marketing-Experten vor den folgenden Herausforderungen:
+`2.` Shared Rooms License - Diese Lizenz ist in verschiedenen Teilnehmerkapazitäten erhältlich: 200, 500, 1000 und 1500. Es enthält eine unbegrenzte Anzahl von Webinaren, die genutzt werden können und unbegrenzt gespeichert werden können.
 
-1. Erstellen Sie ein Ereignis im Webinar-Provider-Tool und verknüpfen Sie es zurück zum Launchpoint-basierten Ereignisprogramm in Marketo.
+`3.` Zusätzliche Speicherlizenz - Diese Lizenz enthält zusätzlichen Speicher (100 GB oder 1 TB), der über mehrere Lizenzen für gemeinsame Ereignisse hinweg verwendet werden kann, wenn die Speicherbegrenzung überschritten wurde.
 
-1. Verwendung mehrerer Tools wie Webinar-Anbieter, Middleware für die Datenübertragung und BI-Tool für die Ereignisanalyse.
+Sie können eine beliebige Kombination dieser Lizenzen erwerben.
 
-1. Mehrere Authentifizierungen sind erforderlich, um sicherzustellen, dass Ereignismarketingaktivitäten durchgeführt werden.
+**Ich habe meine enthaltene Anzahl interaktiver Webinare ausgeschöpft. Wie erhalte ich mehr Sitzungen oder mehr Kapazität?**
 
-1. Registrierungsdaten werden möglicherweise nicht rechtzeitig an den Webinar-Provider übermittelt.
+Wenden Sie sich zur Unterstützung an das Adobe Account Team (Ihren Kundenbetreuer).
 
-1. Die Verbindung zwischen Marketo Engage- und Webinar-Anbietern nimmt ab.
+**Kann ich als Marketo-Administrator steuern, welche meiner Marketo-Benutzer interaktive Webinare erstellen können?**
 
-1. Fehlende Informationen zu Rich-Event-Leistungsdaten nach dem Webinar.
+Ja, Sie können steuern, welche Marketo-Benutzer die Berechtigung zum Erstellen und Bereitstellen interaktiver Webinare erhalten. Dies ist über den Bereich Interaktive Webinare im Admin-Bereich Ihrer Adobe Marketo Engage-Instanz möglich.
 
-1. Sie müssen benutzerdefinierte Objekte erstellen, um bei Bedarf zusätzliche Webinardaten zu speichern. Die Beschränkung von benutzerdefinierten Objekten war ein großer Schmerzpunkt.
+**Muss ich das Adobe Connect-Webinar wieder mit dem interaktiven Webinar-Veranstaltungsprogramm verknüpfen, wie es bei Startpunkten-Veranstaltungsprogrammen der Fall ist?**
 
-1. Fehlende Aktivitäten, Filter und Trigger zur Durchführung personalisierter Pflege und ausgeklügelter Lead-Pflege.
-
-1. Keine Ansicht, um die Leistung und den ROI des Ereignisses zu ermitteln.
-
-Die Vorteile interaktiver Webinare sind unter anderem:
-
-1. Höhere Produktivität aufgrund der All-in-One-Lösung für Event Marketing (einzelnes Tool).
-
-1. Geringere Total Cost of Ownership (einzelnes Tool)
-
-1. Verringerte Multiauthentifizierung.
-
-1. Vereinfachte Workflows bei der Erstellung und Bereitstellung von Ereignissen.
-
-1. Flexibilität bei der Neuausrichtung von Ereignissen.
-
-1. Nahtloser Informationsaustausch zwischen Webinar-Provider (Adobe Connect) und Marketing Automation Platform (Marketo Engage)
-
-1. Rich Insights-Webinar für personalisiertes Targeting und ausgeklügeltes Lead-Scoring.
-
-1. Detail-Dashboard für Einblicke in die Ereignisleistung.
-
-Im Folgenden finden Sie die Funktionen von interaktiven Webinaren:
-
-1. End-to-End-Ereignisverwaltung: Erstellung von Ereignissen, Planung, Promotion, Versand, Aufzeichnungen an einem Ort.
-
-1. Benutzerverwaltung: Administratoren können auswählen, welche Marketo-Benutzer interaktive Webinare erstellen können.
-
-1. Lizenzverwaltung: Administratoren können die verfügbaren Lizenzen anzeigen und die Erstellung von Webinaren regulieren.
-
-1. Benutzerdefinierte Verbindungsschnittstelle: Verbinden Sie Vorlagen und Layouts entsprechend den Anforderungen der Marketing-Experten.
-
-1. Segmentierung nach Ereignissen: Spezielle Filter und Trigger für Smart-Listen zur Lead-Segmentierung.
-
-1. Ereignisleistungsanalyse: Spezielle Berichte und Dashboards für Lead- und Aggregat-Interaktionsdaten.
+Nein, interaktive Webinar Event-Programme bilden die Zuordnung für Sie.
