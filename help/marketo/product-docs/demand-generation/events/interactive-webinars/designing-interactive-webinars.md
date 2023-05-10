@@ -4,9 +4,9 @@ title: Interaktive Webinare erstellen
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihr Webinar entsprechend Ihren Anforderungen entwerfen.
 
-1. Wählen Sie das Ereignis aus und klicken Sie auf **Design-Webinar**.
+1. Wählen Sie das Ereignis aus und klicken Sie auf **Webinar erstellen**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -59,8 +59,8 @@ Erfahren Sie, wie Sie Ihr Webinar entsprechend Ihren Anforderungen entwerfen.
 
 ## Design-Elemente {#design-elements}
 
-**Vorlage**: Template ist eine Struktur, die einem Raum basierend auf dem Ziel der Bereitstellung des Webinars zur Verfügung gestellt wird. Wenn Sie beispielsweise ein Webinar für Produktpräsentationen planen möchten, ist die Bildschirmfreigabe eine wichtige Komponente für die Präsentation der Demo. Die Vorlage stellt sicher, dass die für eine effektive Bereitstellung eines bestimmten Webinars erforderlichen wesentlichen Komponenten während der Konfiguration des Webinarraums vorhanden sind.
+**Vorlage**: Struktur, die für einen Raum auf der Grundlage des Ziels der Bereitstellung des Webinars bereitgestellt wird. Wenn Sie beispielsweise ein Webinar für Produktpräsentationen planen möchten, ist die Bildschirmfreigabe eine wichtige Komponente für die Präsentation der Demo. Die Vorlage stellt sicher, dass die für eine effektive Bereitstellung eines bestimmten Webinars erforderlichen wesentlichen Komponenten während der Konfiguration des Webinarraums vorhanden sind.
 
-**Layout**: Layout beschreibt verschiedene Methoden, mit denen die verschiedenen Komponenten, die für den Erfolg des Webinars erforderlich sind, in einer bestimmten Vorlage angeordnet werden. Eine einzelne Vorlage kann mehrere Layouts enthalten, aus denen Sie wählen können. Die wesentlichen Komponenten des Webinars bleiben in allen Vorlagen gleich. Die von Ihnen ausgewählte Vereinbarung ist am besten auf den Stil/die Bedürfnisse Ihrer Person oder des Moderators abgestimmt, der das Webinar bereitstellt.
+**Layout**: Es gibt verschiedene Möglichkeiten, wie die verschiedenen Komponenten, die für den Erfolg des Webinars erforderlich sind, in einer bestimmten Vorlage angeordnet werden. Eine einzelne Vorlage kann mehrere Layouts enthalten, aus denen Sie wählen können. Die wesentlichen Komponenten des Webinars bleiben in allen Vorlagen gleich. Die von Ihnen ausgewählte Vereinbarung ist am besten auf den Stil/die Bedürfnisse Ihrer Person oder des Moderators abgestimmt, der das Webinar bereitstellt.
 
-**Pod**: Werbeunterbrechung bezieht sich auf eine Komponente innerhalb einer Vorlage, die während des Webinars eine bestimmte Aktivität ausführt. So können Sie beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die durch einen Umfrage-Pod erfüllt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern um eine Nachricht handeln oder mit ihnen gelegentlich interagieren, um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Hinweise, Video, Chat, Teilnehmerliste, Dateien, Web-Links, Umfragen und Fragen und Antworten.
+**Pod**: Eine Komponente innerhalb einer Vorlage, die eine bestimmte Aktivität während des Webinars ausführt. So können Sie beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die durch einen Umfrage-Pod erfüllt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern um eine Nachricht handeln oder mit ihnen gelegentlich interagieren, um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Hinweise, Video, Chat, Teilnehmerliste, Dateien, Web-Links, Umfragen und Fragen und Antworten.
