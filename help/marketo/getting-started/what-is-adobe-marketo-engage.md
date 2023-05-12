@@ -3,10 +3,10 @@ unique-page-id: 2949467
 description: Was ist Adobe Marketo Engage? - Marketo-Dokumente - Produktdokumentation
 title: Was ist Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fe43f6dc6c4577972d947021930421ea67829526
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 9%
+source-wordcount: '289'
+ht-degree: 7%
 
 ---
 
@@ -43,10 +43,20 @@ Du nicht! Es ist einfach, in Marketo Engage zu beginnen und wird sich mit Ihnen 
 
 ## Muss ich irgendwelche Einstellungen vornehmen? {#do-i-need-to-do-any-setup}
 
-Ja, wir haben eine [Checkliste der zu erledigenden Aufgaben](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}.
+Ja, wir haben eine [Checkliste der zu erledigenden Aufgaben](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.
 
 ## Muss ich warten, bis die Einrichtung abgeschlossen ist, um zu lernen? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nein! Wir haben ein paar einfache Tutorials gemacht. [Erste Schritte hier](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. Sie sollten etwa eine Stunde dauern. Du kannst jederzeit anfangen.
+Nein! Wir haben ein paar einfache Tutorials gemacht. [Erste Schritte hier](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Sie sollten etwa eine Stunde dauern. Du kannst jederzeit anfangen.
+
+## Gibt es eine Liste mit Beschränkungen, z. B. wie viele E-Mails ich in einer bestimmten Woche versenden kann? {#list-of-limits}
+
+Da ist es. Statische Beschränkungen (und andere Parameter), die wir umrissen haben [in diesem Artikel](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#static-limits){target="_blank"}.
+
+## Wie lange bewahrt Marketo meine Daten auf? {#data-retention-policy}
+
+Bitte überprüfen Sie [dieser Nation Post](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} für Details.
+
+<br>
 
 Willkommen bei Marketo Engage! Wir freuen uns, dass du hier bist.
