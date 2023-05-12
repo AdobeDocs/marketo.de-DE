@@ -3,7 +3,7 @@ unique-page-id: 2949467
 description: Was ist Adobe Marketo Engage? - Marketo-Dokumente - Produktdokumentation
 title: Was ist Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: fe43f6dc6c4577972d947021930421ea67829526
+source-git-commit: e6b585657b61f1d327cc6083bb3c4de44a130b3a
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 7%
@@ -51,7 +51,7 @@ Nein! Wir haben ein paar einfache Tutorials gemacht. [Erste Schritte hier](/help
 
 ## Gibt es eine Liste mit Beschränkungen, z. B. wie viele E-Mails ich in einer bestimmten Woche versenden kann? {#list-of-limits}
 
-Da ist es. Statische Beschränkungen (und andere Parameter), die wir umrissen haben [in diesem Artikel](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#static-limits){target="_blank"}.
+Da ist es. Statische Beschränkungen (und andere Parameter), die wir umrissen haben [in diesem Artikel](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Wie lange bewahrt Marketo meine Daten auf? {#data-retention-policy}
 
