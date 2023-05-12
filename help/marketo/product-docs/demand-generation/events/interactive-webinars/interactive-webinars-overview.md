@@ -4,9 +4,9 @@ title: Interaktive Webinare - Überblick
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Die Funktion &quot;Interaktive Webinare&quot;ist unsere integrierte Webinar-Plat
 
 ## Was sind interaktive Webinare? {#what-is-interactive-webinars}
 
-Interaktive Webinare erweitern das bestehende Events- und Webinarerlebnis, indem sie ein natives und nahtloses Erlebnis bieten, mit dem Sie Ereignisse in Marketo Engage erstellen, verwalten und bereitstellen können. Wenn Sie [Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, stehen mehrere vorgefertigte Sitzungsraum-Layouts zur Auswahl, die alle angepasst werden können (Sie können auch zusätzliche benutzerdefinierte Layouts erstellen und verwenden). Teilnehmer können Computerbildschirme/Dateien freigeben, miteinander chatten, Audio- und Videoübertragungen durchführen und an interaktiven Online-Aktivitäten teilnehmen.
+Interaktive Webinare erweitern das bestehende Events- und Webinarerlebnis, indem sie ein natives und nahtloses Erlebnis bieten, mit dem Sie Ereignisse in Marketo Engage erstellen, verwalten und bereitstellen können. Wenn Sie [Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, stehen mehrere vordefinierte Meetingvorlagen zur Auswahl, die alle angepasst werden können (Sie können auch benutzerdefinierte Vorlagen erstellen und verwenden). Teilnehmer können Computerbildschirme/Dateien freigeben, miteinander chatten, Audio- und Videoübertragungen durchführen und an interaktiven Online-Aktivitäten teilnehmen.
 
 Angebote für interaktive Webinare [drei verschiedene Lizenzen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, mit jeweils unterschiedlichen Funktionen und Kapazitäten.
 

@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '413'
 ht-degree: 7%
 
 ---
@@ -25,21 +25,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Umschalten zwischen Switch und Classic Experience Removal Updates für moderne UX**: Entfernung von Detailseiten für E-Mail-Vorlagen, Landingpage-Vorlagen, Forms und Snippets, um sicherzustellen, dass das moderne Erlebnis das einzige verfügbare Erlebnis ist.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Unified Shell**: Richtet Marketo Engage und Experience Cloud aus, um ein konsistentes Navigationserlebnis für mehrere Experience Cloud-Lösungen in einer Benutzersitzung zu erstellen.
+* **Adobe Experience Cloud-Benutzeroberfläche**: Richtet Marketo Engage und Experience Cloud aus, um ein konsistentes Navigationserlebnis für mehrere Experience Cloud-Lösungen in einer Benutzersitzung zu erstellen.
 
 <table> 
   <tr> 
