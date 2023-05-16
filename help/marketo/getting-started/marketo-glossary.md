@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketo-Dokumente - Produktdokumentation
 title: Marketo-Glossar
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -28,7 +28,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
-   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben:<br>- Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-in <strong>TAM</strong>, <strong>Benanntes Konto</strong> ist ein Konto, das der Benutzer als Zielkonto festgelegt hat, das er verfolgen möchte.<br>-In TAM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften Konto zugeordnet ist <strong>CRM</strong> (Konto in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> oder <strong>API</strong>).<br>-In Ihrem CRM-System sind Konten das Unternehmen, mit dem Leads und Kontakte verknüpft sind.</td> 
+   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben:<br>- Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-in <strong>TAM</strong>, <strong>Benanntes Konto</strong> ist ein Konto, das der Benutzer als Zielkonto festgelegt hat, das er verfolgen möchte.<br>-In TAM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften Konto zugeordnet ist <strong>CRM</strong> (Konto in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> oder <strong>API</strong>).<br>-In Ihrem CRM-System sind Konten das Unternehmen, mit dem Leads und Kontakte verknüpft sind.</td> 
   </tr> 
   <tr> 
    <td><strong>Kontoliste</strong></td> 
@@ -497,7 +497,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  </tbody> 
 </table>
 
-## Mio {#m}
+## M {#m}
 
 <table> 
  <colgroup> 
@@ -518,7 +518,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Nachdem Sie ein Segment Ihrer Zielgruppe gefördert haben, können einige Personen zu Marketing-qualifizierten Leads werden. Das bedeutet, dass sie das Verhalten und die Merkmale gezeigt haben, die Ihren Erfolgskriterien entsprechen, damit sie zur Nachverfolgung an Ihre Vertriebsorganisation weitergeleitet werden können.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing eingestellt</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing ausgesetzt</strong></a></td> 
    <td colspan="1">Dieses Feld wird manuell von der <strong>Benutzer</strong> jemanden in der Marketo <strong>Datenbank</strong> vorübergehend unmailbar.</td> 
   </tr> 
   <tr> 

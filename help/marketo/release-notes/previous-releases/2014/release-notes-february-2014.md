@@ -3,7 +3,7 @@ unique-page-id: 2951048
 description: Versionshinweise - Februar 2014 - Marketo-Dokumente - Produktdokumentation
 title: Februar 2014 - Versionshinweise
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 3%
@@ -36,9 +36,9 @@ Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Informa
 
 [E-Mail-Metriken in Excel exportieren](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), einschließlich Daten der AB-Testvarianten.
 
-## Interaktionsbewertung im Interaktions-Stream-Leistungsbericht {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Interaktionsbewertung] in [!UICONTROL Interaktions-Stream-Leistung] Bericht {#engagement-score-in-engagement-stream-performance-report}
 
-Die Interaktionsbewertung wurde zum [Interaktions-Stream-Leistungsbericht](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) um Ihnen zu zeigen, wie effektiv der Inhalt in Ihrem Interaktionsprogramm ist.
+Die Interaktionsbewertung wurde zum [[!UICONTROL Interaktions-Stream-Leistung] Bericht](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) um Ihnen zu zeigen, wie effektiv der Inhalt in Ihrem Interaktionsprogramm ist.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
