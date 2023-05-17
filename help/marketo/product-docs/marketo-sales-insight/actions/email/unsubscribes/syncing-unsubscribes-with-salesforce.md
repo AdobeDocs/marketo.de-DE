@@ -2,9 +2,9 @@
 description: Synchronisieren von Abmeldungen mit Salesforce - Marketo Docs - Produktdokumentation
 title: Synchronisieren von Abmeldungen mit Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '437'
 ht-degree: 5%
 
 ---
@@ -90,6 +90,6 @@ Email Opt-out ist ein Standardfeld in Salesforce, das über Salesforce installie
 
 ## Abmeldung von Marketo Sales {#marketo-sales-opt-out}
 
-Das Feld Marketo Sales Opt-out ist ein benutzerdefiniertes Feld, das Benutzern zur Verfügung steht, die die Marketo Sales Customizations installiert haben.
+Das Marketo Sales Opt-out-Feld ist ein benutzerdefiniertes Feld, das Benutzern zur Verfügung steht, die das Marketo Sales Insight-Paket installiert haben. [von der AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Nachdem Sie die Marketo Sales Customizations in Salesforce erfolgreich installiert haben, sehen Sie das für Sie verfügbare Feld Marketo Sales Opt-out .
+Nachdem Sie das Marketo Sales Insight-Paket von der AppExchange in Salesforce erfolgreich installiert haben, sehen Sie das für Sie verfügbare Feld Marketo Sales Opt-out .
