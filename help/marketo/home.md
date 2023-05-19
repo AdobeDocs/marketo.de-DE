@@ -2,10 +2,10 @@
 title: Marketo Produktdokumente
 description: Marketo Produktdokumente
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 25%
+source-wordcount: '49'
+ht-degree: 30%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 25%
 
 ## Beliebte Artikel
 
-* [Erläuterungen zur Salesforce-Synchronisierung](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Grundlagen zum [!DNL Salesforce] Synchronisieren](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Grundlagen zur Synchronisierung von Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Grundlagen zum [!DNL Microsoft Dynamics] Synchronisieren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

@@ -3,9 +3,9 @@ unique-page-id: 2949247
 description: SEO - Manuelles Hinzufügen einer URL für eingehende Links - Marketo Docs - Produktdokumentation
 title: SEO - Manuelles Hinzufügen einer URL für eingehende Links
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-source-git-commit: 0957b4475cc27075b428c9514971353e31d0d89c
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 Sie können Eingehende Links manuell hinzufügen. So geht es:
 
-1. Navigieren Sie zu **Eingehende Links** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Eingehende Links]** Abschnitt.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Klicken **URLs hinzufügen**.
+1. Klicken **[!UICONTROL URLs hinzufügen]**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Geben Sie die URL ein. Klicken **Hinzufügen**.
+1. Geben Sie die URL ein. Klicken **[!UICONTROL Hinzufügen]**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie [den eingehenden Link zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target=&quot;_blank&quot;}? Schau es dir an!
+   >Wussten Sie, dass Sie [den eingehenden Link zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? Schau es dir an!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

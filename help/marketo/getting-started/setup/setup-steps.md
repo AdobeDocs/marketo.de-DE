@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Einrichtungsschritte - Marketo-Dokumente - Produktdokumentation
 title: Einrichtungsschritte
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '2054'
+source-wordcount: '2043'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,17 @@ Einige Schritte erfordern Hilfe von Ihrem IT-Team.
 
 ## Anmelden und Erstellen zusätzlicher Marketo-Benutzer {#log-in-and-create-additional-marketo-users}
 
-1. Bei Marketo anmelden [here](https://app.marketo.com/){target="_blank"} die Anmeldedaten verwenden, die Sie per E-Mail erhalten haben.
+Bei Marketo anmelden [here](https://app.marketo.com/){target="_blank"} die Anmeldedaten verwenden, die Sie per E-Mail erhalten haben.
 
-   ![](assets/setup-steps-1.png)
+![](assets/setup-steps-1.png)
 
 Herzlichen Glückwunsch! Sie befinden sich jetzt in Marketo und können mit der Erforschung beginnen. Möglicherweise möchten Sie Ihre Kollegen aus dem Marketing-Team einladen, sich Ihnen anzuschließen. Fügen Sie dazu neue Benutzer hinzu.
 
-Navigieren Sie zum **Admin**-Bereich.
+Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
 >[!TIP]
 >
->Wenn Sie hier sind, können Sie auf **Mein Konto** , um Ihre Konto- und Standorteinstellungen zu ändern und einen neuen Anmeldenamen festzulegen.
+>Wenn Sie hier sind, können Sie auf **[!UICONTROL Mein Konto]** , um Ihre Konto- und Standorteinstellungen zu ändern und einen neuen Anmeldenamen festzulegen.
 
 ![](assets/setup-steps-2.png)
 
@@ -53,15 +53,15 @@ Navigieren Sie zum **Admin**-Bereich.
 >
 >**Erforderliche Administratorberechtigungen**
 
-Klicken **Benutzer und Rollen**.
+Klicken **[!UICONTROL Benutzer und Rollen]**.
 
 ![](assets/setup-steps-3.png)
 
-Klicken **Neuen Benutzer einladen**.
+Klicken **[!UICONTROL Neuen Benutzer einladen]**.
 
 ![](assets/setup-steps-4.png)
 
-Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das Festlegen des Ablaufdatums für den Zugriff ist optional._. Klicken **Nächste**.
+Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das Festlegen des Ablaufdatums für den Zugriff ist optional._. Klicken **[!UICONTROL Nächste]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -73,7 +73,7 @@ Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das 
 >
 >Wenn das Ablaufdatum eintrifft, erhält der Benutzer eine Ablaufbenachrichtigung und das Konto wird gesperrt.
 
-Wählen Sie eine Rolle aus und klicken Sie auf **Nächste**. Standardbenutzer haben Zugriff auf alle Bereiche außer Admin.
+Wählen Sie eine Rolle aus und klicken Sie auf **[!UICONTROL Nächste]**. Standardbenutzer haben Zugriff auf alle Bereiche außer Admin.
 
 ![](assets/setup-steps-6.png)
 
@@ -85,7 +85,7 @@ Sie können den Einladungstext anpassen. Klicken **Senden**.
 
 ![](assets/setup-steps-7.png)
 
-Der neue Benutzer wird jetzt im Tab Benutzer aufgelistet und sollte eine E-Mail mit einem Link erhalten, um ein Kennwort und eine Anmeldung zu erstellen. Nächster Schritt!
+Der neue Benutzer wird jetzt im **[!UICONTROL Benutzer]** und sollte eine E-Mail mit einem Link erhalten, um ein Kennwort und eine Anmeldung zu erstellen. Nächster Schritt!
 
 ![](assets/setup-steps-8.png)
 
@@ -133,7 +133,7 @@ Klicken **Mein Konto**.
 
 ![](assets/setup-steps-10.png)
 
-Scrollen Sie nach unten zu &quot;Support-Informationen&quot;und kopieren Sie Ihre Munchkin-ID.
+Kopieren Sie die [!UICONTROL Kontozeichenfolge] aus den Landingpage-Einstellungen.
 
 ![](assets/setup-steps-11.png)
 
@@ -169,17 +169,17 @@ Der erste Teil ist der E-Mail-Tracking-CNAME, `[EmailTrackingCNAME]`. Sie müsse
 >
 >E-Mail- und Landingpage-CNAMEs müssen unterschiedlich sein. Vermeiden Sie außerdem CNAMEs wie &quot;track&quot;oder &quot;link&quot;. Er wird oft als Spam gekennzeichnet
 
-Um Ihren Marketo-Tracking-Link zu finden, navigieren Sie zum **Admin** Bereich.
+Um Ihren Marketo-Tracking-Link zu finden, navigieren Sie zum **[!UICONTROL Admin]** Bereich.
 
 ![](assets/setup-steps-12.png)
 
-Klicken **Email**.
+Klicken **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-13.png)
 
-Kopieren Sie den Tracking-Link aus Ihren E-Mail-Einstellungen.
+Kopieren Sie die [!UICONTROL Tracking-Link] aus Ihren E-Mail-Einstellungen.
 
-Der Tracking-Link weist folgendes Format auf: `mkto-[a-z][4 digits].com`.
+Die [!UICONTROL Tracking-Link] im Formular: `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-14.png)
 
@@ -284,35 +284,35 @@ Senden Sie die E-Mail an IT. Wir wissen, dass es einige Zeit dauern kann, bis IT
 
 Nachdem die IT-Abteilung ihre Aufgaben abgeschlossen hat, führen Sie die folgenden Schritte aus, um Ihre Landingpage und E-Mail-CNAMEs hinzuzufügen und die DKIM-Signatur zu aktivieren.
 
-Navigieren Sie zu **Admin** Bereich zum Hinzufügen des CNAME Ihrer Landingpage
+Navigieren Sie zu **[!UICONTROL Admin]** Bereich zum Hinzufügen des CNAME Ihrer Landingpage
 
 ![](assets/setup-steps-15.png)
 
-Wählen Sie Einstiegsseiten aus und klicken Sie auf **Bearbeiten** im Bereich Einstellungen .
+Wählen Sie Einstiegsseiten aus und klicken Sie auf **[!UICONTROL Bearbeiten]** im [!UICONTROL Einstellungen] Bereich.
 
 ![](assets/setup-steps-16.png)
 
-Geben Sie Ihren neuen Domänennamen in das Feld Domänenname für Einstiegsseiten ein. Dies sollte folgende Form aufweisen:
+Geben Sie Ihren neuen Domänennamen in das Feld ein. **[!UICONTROL Domänenname für Einstiegsseiten]**. Dies sollte folgende Form aufweisen:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-Geben Sie im Feld Fallback-Seite die URL ein, zu der Personen navigieren sollen, wenn eine Landingpage nicht verfügbar ist. Wenn Sie keine Fallback-Seite haben, können Sie die Startseite Ihres Unternehmens verwenden. Geben Sie im Feld Startseite die Website Ihres Unternehmens ein.
+Im **[!UICONTROL Fallback]** -Seite, geben Sie die URL ein, zu der Personen wechseln sollen, wenn eine Landingpage nicht verfügbar ist. Wenn Sie keine Fallback-Seite haben, können Sie die Startseite Ihres Unternehmens verwenden. Im **[!UICONTROL Homepage]** eingeben.
 
 ![](assets/setup-steps-18.png)
 
-Wählen Sie im Admin-Bereich E-Mail aus, um Ihren E-Mail-CNAME hinzuzufügen.
+Im [!UICONTROL Admin] Bereich, auswählen **[!UICONTROL Email]** Hinzufügen Ihres E-Mail-CNAME
 
 ![](assets/setup-steps-19.png)
 
-Scrollen Sie nach unten zu Branding-Domänen. Wählen Sie Ihre Domäne aus und klicken Sie auf **Bearbeiten**.
+Scrollen Sie nach unten zu [!UICONTROL Branding-Domänen]. Wählen Sie Ihre Domäne aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
 ![](assets/setup-steps-20.png)
 
 Geben Sie im Feld Domäne Ihre E-Mail-Tracking-Domäne ein. Dies sollte folgende Form aufweisen:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Klicken **Speichern**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Klicken **[!UICONTROL Speichern]**.
 
 ![](assets/setup-steps-21.png)
 
@@ -322,8 +322,8 @@ Dies ist wahrscheinlich der aufregendste Schritt Ihres Setups - es ist an der Ze
 
 Wählen Sie je nach dem CRM-System, das Ihr Unternehmen verwendet, eine der folgenden Optionen aus:
 
-    * [Integrieren von Marketo mit Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Integrieren von Marketo mit Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Integrieren von Marketo mit [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Integrieren von Marketo mit [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -333,9 +333,9 @@ Wählen Sie je nach dem CRM-System, das Ihr Unternehmen verwendet, eine der folg
 
 >[!NOTE]
 >
->Sind Sie Launch Pack-Kunde? Sie können diesen Schritt überspringen. Ihr Berater stellt Ihnen im Dokument mit IT-Setup-Anweisungen Munchkin-Code zur Verfügung.
+>Bist du ein [!DNL Launch Pack] Kunde? Sie können diesen Schritt überspringen. Ihr Berater wird Ihnen mit [!DNL Munchkin] Code-Anweisungen in Ihrem Dokument mit IT-Setup-Anweisungen.
 
-Marketo verfügt über ein benutzerdefiniertes Tracking-JavaScript (namens Munchkin), mit dem Sie Personenaktivitäten auf jeder Webseite verfolgen können. Munchkin ist erforderlich, um Ihre Website in Marketo zu integrieren. Führen Sie die folgenden Schritte aus, um [Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo verfügt über benutzerdefiniertes Tracking-JavaScript (namens [!DNL Munchkin]), mit dem Sie Personenaktivitäten auf jeder Webseite verfolgen können. [!DNL Munchkin] ist erforderlich, um Ihre Website in Marketo zu integrieren. Führen Sie die folgenden Schritte aus, um [Hinzufügen [!DNL Munchkin] Trackingcode auf Ihrer Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
