@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Produktdokumentation
 title: Schrittweises Lead-Nurturing
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '456'
 ht-degree: 5%
 
 ---
@@ -18,25 +18,25 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 
 ## Schritt 1: Erstellen eines Interaktionsprogramms {#step-create-an-engagement-program}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Wählen Sie die **Lernen** Ordner, klicken Sie auf **Neu** und wählen Sie **Neues Programm**.
+1. Wählen Sie die **Lernen** Ordner, klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues Programm]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. Geben Sie einen **Name** und wählen Sie **Interaktion** für **Programmtyp**.
+1. Geben Sie einen **[!UICONTROL Name]** und wählen Sie **[!UICONTROL Interaktion]** für **[!UICONTROL Programmtyp]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Stellen Sie sicher, dass **Kanal** Feld ist **Krankenpflege** und klicken Sie auf **Erstellen**.
+1. Stellen Sie sicher, dass **[!UICONTROL Kanal]** Feld ist **[!UICONTROL Krankenpflege]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -44,35 +44,35 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 
 ## Schritt 2: E-Mail erstellen {#step-create-an-email}
 
-1. Wählen Sie Ihr Interaktionsprogramm aus, klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
+1. Wählen Sie Ihr Interaktionsprogramm aus, klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. Geben Sie einen **Name**, wählen Sie die **Vorlage** Sie verwenden möchten, und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **[!UICONTROL Name]**, wählen Sie die **[!UICONTROL Vorlage]** Sie verwenden möchten, und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >Siehst du den E-Mail-Editor nicht? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Popups aktivieren von `app.marketo.com` in Ihrem Browser und klicken Sie auf **Entwurf bearbeiten** in der oberen Menüleiste.
+   >Siehst du den E-Mail-Editor nicht? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Popups aktivieren von `app.marketo.com` in Ihrem Browser und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]** in der oberen Menüleiste.
 
 1. Geben Sie einen Betreff ein.
 
    ![](assets/drip-drip-nurture-8.png)
 
-1. Wählen Sie den Bereich der E-Mail aus, die Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
+1. Wählen Sie den Bereich der E-Mail aus, die Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Bearbeiten]**.
 
    ![](assets/drip-drip-nurture-9.png)
 
-1. Bearbeiten Sie Ihre E-Mail und klicken Sie auf **Speichern**.
+1. Bearbeiten Sie Ihre E-Mail und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. under **E-Mail-Aktionen** klicken **Genehmigen und schließen**.
+1. under **[!UICONTROL E-Mail-Aktionen]** klicken **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -88,11 +88,11 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 
 Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhaltsstream für Ihr Interaktionsprogramm zu erstellen.
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **[!UICONTROL Streams]** Registerkarte.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Klicken Sie auf **Inhalt hinzufügen** im Stream.
+1. Klicken Sie auf **[!UICONTROL Inhalt hinzufügen]** im Stream.
 
    ![](assets/drip-drip-nurture-14.png)
 
@@ -106,7 +106,7 @@ Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhalt
 
 ## Schritt 4: Stream-Inhalt aktivieren {#step-activate-stream-content}
 
-1. Aktivieren Sie alle Inhalte gleichzeitig, indem Sie auf das Zahnradsymbol für den Stream klicken, und klicken Sie dann auf **Alle Inhalte aktivieren**.
+1. Aktivieren Sie alle Inhalte gleichzeitig, indem Sie auf das Zahnradsymbol für den Stream klicken, und klicken Sie dann auf **[!UICONTROL Alle Inhalte aktivieren]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -118,11 +118,11 @@ Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhalt
 
 ## Schritt 5: Festlegen der Stream-Kadenz {#step-set-the-stream-cadence}
 
-1. Klicken **Stream-Kadenz festlegen**.
+1. Klicken **[!UICONTROL Stream-Kadenz festlegen]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Bearbeiten Sie die Einstellungen entsprechend dem gewünschten Zeitplan und klicken Sie auf **Speichern**.
+1. Bearbeiten Sie die Einstellungen entsprechend dem gewünschten Zeitplan und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -134,7 +134,7 @@ Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhalt
 
 ## Schritt 6: Hinzufügen einer Testperson zu Ihrem Interaktionsprogramm {#step-add-a-test-person-to-your-engagement-program}
 
-1. Navigieren Sie zu **Datenbank** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]** Bereich.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -146,11 +146,11 @@ Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhalt
    >
    >Stellen Sie sicher, dass die Testperson über eine gültige E-Mail-Adresse verfügt, damit Sie den Empfang von E-Mails beim Testen bestätigen können.
 
-1. Klicken Sie mit der rechten Maustaste auf die Person und klicken Sie dann auf **Programme** und **Hinzufügen zum Interaktionsprogramm**.
+1. Klicken Sie mit der rechten Maustaste auf die Person und klicken Sie dann auf **[!UICONTROL Programme]** und **[!UICONTROL Zum Interaktionsprogramm hinzufügen...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Wählen Sie Ihre **Programm** und **Stream** Klicken Sie auf **Jetzt ausführen**.
+1. Wählen Sie Ihre **[!UICONTROL Programm]** und **[!UICONTROL Stream]** Klicken Sie auf **[!UICONTROL Jetzt ausführen]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
@@ -160,7 +160,7 @@ Jetzt ist es an der Zeit, mithilfe der von Ihnen erstellten E-Mails einen Inhalt
 
    >[!NOTE]
    >
-   >Weitere Informationen [Interaktionsmaßnahmen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}.
+   >Weitere Informationen [Interaktionsmaßnahmen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
 ## Aufgabe abgeschlossen! {#mission-complete}
 

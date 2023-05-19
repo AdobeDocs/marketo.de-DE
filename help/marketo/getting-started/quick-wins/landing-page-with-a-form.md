@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Landingpage mit einem Formular - Marketo-Dokumente - Produktdokumentation
 title: Landing Page mit Formular
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '543'
 ht-degree: 5%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 5%
 
 ## SCHRITT 1: Programm erstellen {#step-create-a-program}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Wählen Sie die **Lernen** Ordner, der in der [vorheriger Schnellsieg](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}. under **Neu** klicken **Neues Programm**.
+1. Wählen Sie die **Lernen** Ordner, der in der [vorheriger Schnellsieg](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. under **[!UICONTROL Neu]** klicken **[!UICONTROL Neues Programm]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. Programm eingeben **Name**, wählen Sie eine **Kanal** und klicken Sie auf **Erstellen**.
+1. Programm eingeben **[!UICONTROL Name]**, wählen Sie eine **[!UICONTROL Kanal]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -38,37 +38,37 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >Ein Programm ist eine spezifische Marketinginitiative. Die **channel** ist als Bereitstellungsmechanismus gedacht, z. B. Webinar, Sponsoring oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, können in der Dropdown-Liste verschiedene Kanaloptionen angezeigt werden. Sie können auch [Erstellen eines eigenen Kanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}.
+   >Ein Programm ist eine spezifische Marketinginitiative. Die **channel** ist als Bereitstellungsmechanismus gedacht, z. B. Webinar, Sponsoring oder Online-Anzeige. Je nachdem, was in Ihrer eigenen Instanz verfügbar ist, können in der Dropdown-Liste verschiedene Kanaloptionen angezeigt werden. Sie können auch [Erstellen eines eigenen Kanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und erstellen etwas Inhalt.
 
 ## SCHRITT 2: Erstellen eines Formulars {#step-create-a-form}
 
-1. Klicken Sie bei ausgewähltem Programm auf die Schaltfläche **Neu** und wählen Sie **Neues lokales Asset**.
+1. Klicken Sie bei ausgewähltem Programm auf die Schaltfläche **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. Auswählen **Formular**.
+1. Auswählen **[!UICONTROL Formular]**.
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. Formular eingeben **Name** und klicken Sie auf **Erstellen**.
+1. Formular eingeben **[!UICONTROL Name]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass **Im Editor öffnen** aktiviert ist. Ist dies nicht der Fall, müssen Sie auf die **Formular bearbeiten** Registerkarte.
+   >Stellen Sie sicher, dass **[!UICONTROL Im Editor öffnen]** aktiviert ist. Ist dies nicht der Fall, müssen Sie auf die **[!UICONTROL Formular bearbeiten]** Registerkarte.
 
    >[!TIP]
    >
    >Siehst du den Formular-Editor nicht? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Popups aktivieren von `app.marketo.com` in Ihrem Browser und klicken Sie in der oberen Menüleiste auf Entwurf bearbeiten .
 
-1. Wählen Sie die **Email-Adresse** Feld und Prüfung **ist erforderlich**.
+1. Wählen Sie die **[!UICONTROL Email-Adresse]** Feld und Prüfung **[!UICONTROL ist erforderlich]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. Klicken **Nächste**.
+1. Klicken **[!UICONTROL Nächste]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -76,11 +76,11 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und e
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. Klicken **Nächste**.
+1. Klicken **[!UICONTROL Nächste]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. Wählen Sie unter dem Abschnitt Dankeseite die Option **Externe URL** für **Folgemaßnahmen zu**.
+1. Wählen Sie unter dem Abschnitt Dankeseite die Option **[!UICONTROL Externe URL]** für **[!UICONTROL Folgemaßnahmen zu]**.
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -90,13 +90,13 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und e
 
    >[!NOTE]
    >
-   >Auf der Nachverfolgungsseite wird der Besucher nach dem Ausfüllen des Formulars umgeleitet. Die externe URL ist eine Option, es gibt jedoch mehr. Siehe [Formular-Danksagungsseite festlegen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target=&quot;_blank&quot;}.
+   >Auf der Nachverfolgungsseite wird der Besucher nach dem Ausfüllen des Formulars umgeleitet. Die externe URL ist eine Option, es gibt jedoch mehr. Siehe [Formular-Danksagungsseite festlegen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
-1. Klicken **Beenden**.
+1. Klicken **[!UICONTROL Beenden]**.
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -104,15 +104,15 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und e
 
 ## SCHRITT 3: Landingpage erstellen und Formular hinzufügen {#step-create-a-landing-page-and-add-your-form}
 
-1. Klicken Sie bei ausgewähltem Programm auf die Schaltfläche **Neu** und wählen Sie **Neues lokales Asset**.
+1. Klicken Sie bei ausgewähltem Programm auf die Schaltfläche **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. Auswählen **Landingpage**.
+1. Auswählen **[!UICONTROL Landingpage]**.
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. Seite eingeben **Name**, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
+1. Seite eingeben **[!UICONTROL Name]**, wählen Sie eine Vorlage aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und e
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. Nachdem der Landingpage-Editor geöffnet wurde, ziehen Sie das Formularelement auf die Arbeitsfläche.
+1. Sobald der Landingpage-Editor geöffnet wird, ziehen Sie die [!UICONTROL Formular] -Element auf der Arbeitsfläche.
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. Suchen und wählen Sie das Formular aus und klicken Sie auf **Einfügen**.
+1. Suchen und wählen Sie das Formular aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -140,7 +140,7 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und e
 
 ## SCHRITT 4: Landingpage genehmigen {#step-approve-your-landing-page}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf genehmigen**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf genehmigen]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -154,15 +154,15 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, gehen wir weiter und e
 
 ## SCHRITT 5: Formular testen {#step-test-your-form}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Genehmigte Seite anzeigen**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Genehmigte Seite anzeigen]**.
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. Füllen Sie das Formular mit Informationen aus, von denen Sie wissen, dass es eindeutig ist, und klicken Sie auf **Einsenden**.
+1. Füllen Sie das Formular mit Informationen aus, von denen Sie wissen, dass es eindeutig ist, und klicken Sie auf **[!UICONTROL Einsenden]**.
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Navigieren Sie zu **Datenbank** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]** Bereich.
 
    ![](assets/landing-page-with-a-form-26.png)
 

@@ -3,10 +3,10 @@ unique-page-id: 2359422
 description: Personalisieren einer E-Mail - Marketo-Dokumente - Produktdokumentation
 title: E-Mail personalisieren
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 8%
+source-wordcount: '331'
+ht-degree: 10%
 
 ---
 
@@ -16,14 +16,14 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [E-Mail-Blast senden](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
->* [Tropfen, Tropfen, Verdauung](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
+>* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Massen-E-Mail senden](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
+>* [Schrittweises Lead-Nurturing](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
 
 
 ## Schritt 1: E-Mail zum Personalisieren auswählen {#step-select-an-email-to-personalize}
 
-1. Wählen Sie eine der E-Mails aus, die in der [vorheriger Schnellsieg](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} und klicken Sie auf **Entwurf erstellen**.
+1. Wählen Sie eine der E-Mails aus, die in der [vorheriger Schnellsieg](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} und klicken Sie auf **[!UICONTROL Entwurf erstellen]**.
 
    ![](assets/personalize-an-email-1.png)
 
@@ -31,15 +31,15 @@ ht-degree: 8%
    >
    >Damit wird eine Kopie der E-Mail als Entwurf erstellt. Denken Sie daran, den Entwurf zu validieren, damit die Änderungen live geschaltet werden.
 
-Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in einer neuen Registerkarte/einem neuen Fenster geöffnet. Klicken Sie andernfalls auf **Entwurf erstellen** zweimal.
+Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in einer neuen Registerkarte/einem neuen Fenster geöffnet. Klicken Sie andernfalls auf **[!UICONTROL Entwurf erstellen]** zweimal.
 
 ## Schritt 2: Verkäufer zum Absender machen {#step-make-the-salesperson-the-sender}
 
-1. Wählen Sie die **Von** Feld, Hervorhebung und **delete** den aktuellen Namen.
+1. Wählen Sie die **[!UICONTROL Von]** Feld, Hervorhebung und **delete** den aktuellen Namen.
 
    ![](assets/personalize-an-email-2.png)
 
-1. Klicken Sie auf **Token** rechts neben dem **Von** -Feld.
+1. Klicken Sie auf **Token** rechts neben dem **[!UICONTROL Von]** -Feld.
 
    ![](assets/personalize-an-email-3.png)
 
@@ -51,7 +51,7 @@ Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in ei
 
    ![](assets/personalize-an-email-5.png)
 
-1. Drücken Sie die Leertaste im **Von** -Feld, um sicherzustellen, dass der Cursor ein Leerzeichen nach dem soeben eingefügten Token blinkt. Klicken Sie anschließend auf **Token** erneut.
+1. Drücken Sie die Leertaste im **[!UICONTROL Von]** -Feld, um sicherzustellen, dass der Cursor ein Leerzeichen nach dem soeben eingefügten Token blinkt. Klicken Sie anschließend auf **Token** erneut.
 
    ![](assets/personalize-an-email-6.png)
 
@@ -65,7 +65,7 @@ Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in ei
 
 ## Schritt 3: Fügen Sie den Namen des Leads zur E-Mail hinzu {#step-add-the-leads-name-to-the-email}
 
-1. Wählen Sie den oberen bearbeitbaren Abschnitt aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
+1. Wählen Sie den oberen bearbeitbaren Abschnitt aus, klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Bearbeiten]**.
 
    ![](assets/personalize-an-email-9.png)
 
@@ -77,7 +77,7 @@ Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in ei
 
    ![](assets/personalize-an-email-11.png)
 
-1. Geben Sie &quot;Friend&quot;(oder eine beliebige Bezeichnung) in den **Standardwert** Feld und klicken Sie auf **Einfügen**.
+1. Geben Sie &quot;Friend&quot;(oder eine beliebige Bezeichnung) in den **[!UICONTROL Standardwert]** Feld und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/personalize-an-email-12.png)
 
@@ -85,17 +85,17 @@ Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in ei
    >
    >Fügen Sie immer einen Standardwert für Token hinzu. Dadurch wird sichergestellt, dass der Standardwert in der E-Mail angezeigt wird, wenn ein Teil der personenbezogenen Daten fehlt.
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/personalize-an-email-13.png)
 
-1. under **E-Mail-Aktionen** und wählen Sie **Genehmigen und schließen**.
+1. under **[!UICONTROL E-Mail-Aktionen]** und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
->Benötigen Sie einen schnellen Auffrischungskurs dazu, wie Sie sich die E-Mail selbst senden können? Siehe [E-Mail-Blast senden](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}.
+>Benötigen Sie einen schnellen Auffrischungskurs dazu, wie Sie sich die E-Mail selbst senden können? Siehe [E-Mail-Blast senden](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}.
 
 ### Aufgabe abgeschlossen {#mission-complete}
 

@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 7%
+source-wordcount: '431'
+ht-degree: 6%
 
 ---
 
@@ -65,7 +65,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 Interaktive Webinare erweitern das bestehende Events- und Webinarerlebnis, indem sie Marketingfachleuten ein natives und nahtloses Erlebnis bieten, mit dem sie Ereignisse in Marketo Engage erstellen, verwalten und bereitstellen können. Passen Sie Webinare je nach Ereignistyp an und fügen Sie bei Bedarf sogar Moderatoren hinzu. Erhalten Sie umfassende Einblicke in Adobe Connect-Funktionen wie Live-Umfragen, Chat, Fragen und Antworten, Web-Link-Klicks, Dokumentdownloads und mehr. Rufen Sie die Webinaraufzeichnung direkt in Marketo Engage ab und bewerten Sie deren Leistung mithilfe von Rich-Dashboard-Metriken.
 
-Sie können [frühzeitiger Zugriff auf diese Funktion hier](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Interaktive Webinare werden schrittweise eingeführt. Um früheren Zugriff anzufordern, füllen Sie bitte [dieses Formulars](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 

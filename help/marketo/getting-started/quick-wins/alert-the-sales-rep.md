@@ -3,10 +3,10 @@ unique-page-id: 2359424
 description: Warnhinweis an den Vertriebsmitarbeiter - Marketo-Dokumente - Produktdokumentation
 title: Vertriebsmitarbeiter benachrichtigen
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 4%
+source-wordcount: '396'
+ht-degree: 6%
 
 ---
 
@@ -18,27 +18,27 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
 >[!PREREQUISITES]
 >
->[Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>[Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Schritt 1: Erstellen einer Warnhinweis-E-Mail {#step-create-an-alert-email}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. Auswählen **Mein Programm** , die Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} schneller Sieg, dann unter **Neu** click **Neues lokales Asset**.
+1. Auswählen **Mein Programm** , die Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} Schnellsieg, dann unter **[!UICONTROL Neu]** click **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **Name** die E-Mail &quot;Meine E-Mail-Warnung&quot;, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
+1. **Name** die E-Mail &quot;Meine E-Mail-Warnung&quot;, wählen Sie eine Vorlage aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. Geben Sie die **Aus Name**, **Aus E-Mail**, **Antwort** und **Betreff** die Sie von Ihrem Verkaufsteam sehen wollen.
+1. Geben Sie die **Aus Name**, **Aus E-Mail**, **[!UICONTROL Antwort]** und **[!UICONTROL Betreff]** die Sie von Ihrem Verkaufsteam sehen wollen.
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -54,33 +54,33 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    ![](assets/alert-the-sales-rep-8.png)
 
-1. Suchen und Auswählen `{{SP_Send_Alert_Info}}` **Token** und klicken Sie auf **Einfügen**.
+1. Suchen und Auswählen `{{SP_Send_Alert_Info}}` **[!UICONTROL Token]** und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warnhinweis-E-Mails. Siehe [Verwenden des Tokens &quot;Send Alert Info&quot;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;}, um mehr zu erfahren.
+   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warnhinweis-E-Mails. Siehe [Verwenden des Tokens &quot;Send Alert Info&quot;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} , um mehr zu erfahren.
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Klicken Sie auf **E-Mail-Aktionen** und wählen Sie **Genehmigen und schließen**.
+1. Klicken Sie auf **[!UICONTROL E-Mail-Aktionen]** und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
 ## Schritt 2: Erstellen einer Warnhinweis-Trigger-Kampagne {#step-create-an-alert-trigger-campaign}
 
-1. Auswählen **Mein Programm** zuvor erstellt, dann unter **Neu** click **Neue intelligente Kampagne**.
+1. Auswählen **Mein Programm** zuvor erstellt, dann unter **[!UICONTROL Neu]** click **[!UICONTROL Neue intelligente Kampagne]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **Name** die Kampagne &quot;Meine Warnungskampagne&quot;und klicken Sie auf **Erstellen**.
+1. **Name** die Kampagne &quot;Meine Warnungskampagne&quot;und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/alert-the-sales-rep-13.png)
 
-1. Unter dem **Smart List** Registerkarte, suchen und ziehen Sie die **Formular ausfüllen** Trigger zur Arbeitsfläche.
+1. Unter dem **[!UICONTROL Smart List]** Registerkarte, suchen und ziehen Sie die **[!UICONTROL Formular ausfüllen]** Trigger zur Arbeitsfläche.
 
    ![](assets/alert-the-sales-rep-14.png)
 
@@ -88,33 +88,33 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    ![](assets/alert-the-sales-rep-15.png)
 
-1. Unter dem **Fluss** Registerkarte, suchen und ziehen Sie die **Warnhinweis senden** Flussaktion zur Arbeitsfläche.
+1. Unter dem **[!UICONTROL Fluss]** Registerkarte, suchen und ziehen Sie die **[!UICONTROL Warnhinweis senden]** Flussaktion zur Arbeitsfläche.
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. Auswählen **Meine Benachrichtigungs-E-Mail** zuvor erstellt und verlassen **Senden an** as **Vertriebsmitarbeiter**.
+1. Auswählen **[!UICONTROL Meine Benachrichtigungs-E-Mail]** zuvor erstellt und verlassen **[!UICONTROL Senden an]** as **[!UICONTROL Vertriebsmitarbeiter]**.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. Geben Sie Ihre E-Mail-Adresse in das Feld **zu anderen E-Mails** -Feld.
+1. Geben Sie Ihre E-Mail-Adresse in das Feld **[!UICONTROL zu anderen E-Mails]** -Feld.
 
    ![](assets/alert-the-sales-rep-18.png)
 
-1. Navigieren Sie zu **Zeitplan** und klicken Sie auf **Aktivieren** Schaltfläche.
+1. Navigieren Sie zu **[!UICONTROL Zeitplan]** und klicken Sie auf **[!UICONTROL Aktivieren]** Schaltfläche.
 
    ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
-   >Legen Sie die **Qualifikationsregeln** nach **jedes Mal** (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person Warnhinweise mehrmals Trigger.
+   >Legen Sie die **[!UICONTROL Qualifikationsregeln]** nach **[!UICONTROL jedes Mal]** (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person Warnhinweise mehrmals Trigger.
 
-1. Klicken **Aktivieren** auf dem Bestätigungsbildschirm.
+1. Klicken **[!UICONTROL Aktivieren]** auf dem Bestätigungsbildschirm.
 
    ![](assets/alert-the-sales-rep-20.png)
 
 ## Schritt 3: Testen Sie es! {#step-test-it-out}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Genehmigte Seite anzeigen**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Genehmigte Seite anzeigen]**.
 
    ![](assets/alert-the-sales-21.png)
 
@@ -122,7 +122,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
    >
    >Vergessen Sie nicht, Landingpages zu genehmigen. sie gehen erst live, wenn sie genehmigt wurden.
 
-1. Füllen Sie das Formular aus und klicken Sie auf **Einsenden**.
+1. Füllen Sie das Formular aus und klicken Sie auf **[!UICONTROL Einsenden]**.
 
    ![](assets/alert-the-sales-22.png)
 
@@ -130,7 +130,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    >[!NOTE]
    >
-   >Klicken Sie auf **Personeninformationen** in Marketo, um die Kontaktinformationen anzuzeigen.
+   >Klicken Sie auf **[!UICONTROL Personeninformationen]** in Marketo, um die Kontaktinformationen anzuzeigen.
 
 ## Aufgabe abgeschlossen! {#mission-complete}
 
