@@ -3,7 +3,7 @@ unique-page-id: 2949678
 description: SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste - Marketo Docs - Produktdokumentation
 title: SEO - Hinzufügen/Entfernen von Suchbegriffen aus einer Liste
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Sie können alle Ihre Suchbegriffe mithilfe von Listen organisieren. Dadurch wir
 
 ## Einer Liste hinzufügen {#add-to-a-list}
 
-1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken **Aus Liste hinzufügen/entfernen**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -30,7 +30,7 @@ Sie können alle Ihre Suchbegriffe mithilfe von Listen organisieren. Dadurch wir
 
    >[!TIP]
    >
-   >Sie können auch eine neue Liste für Ihre Suchbegriffe erstellen. Geben Sie einfach den Namen in Neue Liste erstellen ein.
+   >Sie können auch eine neue Liste für Ihre Suchbegriffe erstellen. Geben Sie einfach den Namen in **[!UICONTROL Neue Liste erstellen]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -40,11 +40,11 @@ Woo hoo! Wählen Sie Ihre Liste aus, um die neuen Suchbegriffe anzuzeigen.
 
 Sie können auch Suchbegriffe aus einer Liste entfernen.
 
-1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken **Aus Liste hinzufügen/entfernen**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

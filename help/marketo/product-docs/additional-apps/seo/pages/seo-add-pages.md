@@ -3,7 +3,7 @@ unique-page-id: 2949216
 description: SEO - Seiten hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Seiten hinzufügen
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. Falls wir ein paar verpasst haben, rufen Sie sie in die SEO-App wie folgt ab:
 
-1. Navigieren Sie zu **Seiten** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klicken **Seiten hinzufügen**.
+1. Klicken **[!UICONTROL Seiten hinzufügen]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken **Hinzufügen**.
+1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken **[!UICONTROL Hinzufügen]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 2949212
 description: SEO - Optimieren bestimmter Seiten mit zielgerichteten Suchbegriffen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Optimieren bestimmter Seiten mit zielgerichteten Suchbegriffen
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Einige Suchbegriffe passen gut zu bestimmten Seiten. So passt man das perfekte Keyword zu seiner perfekten Seite. Dadurch werden die genauesten Daten und die besten Verbesserungsempfehlungen bereitgestellt.
 
-1. Navigieren Sie zu **Seiten** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
 
-   ![](assets/image2014-9-18-12-3a52-3a28.png)a
+   ![](assets/image2014-9-18-12-3a52-3a28.png)
 
 1. Klicken Sie auf die Seite, für die Sie Details anzeigen möchten.
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Wählen Sie den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten. Klicken **Aktualisieren**.
+1. Wählen Sie den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten. Klicken **[!UICONTROL Aktualisieren]**.
 
    >[!TIP]
    >
@@ -30,4 +30,4 @@ Einige Suchbegriffe passen gut zu bestimmten Seiten. So passt man das perfekte K
 
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
-   Sofort! Führen Sie dies für so viele Seiten und Suchbegriffe wie möglich aus.
+Führen Sie dies für so viele Seiten und Suchbegriffe wie möglich aus.

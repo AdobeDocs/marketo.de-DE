@@ -3,7 +3,7 @@ unique-page-id: 2949208
 description: SEO - Filtern von Suchbegriffergebnissen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Filtern von Suchbegriffsergebnissen
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Du könntest viele [Schlüsselwörter](/help/marketo/product-docs/additional-app
 
 ## Nach Liste filtern {#filter-by-list}
 
-1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -32,7 +32,7 @@ Süß! Sie werden jetzt nur noch Suchbegriffe auf dieser Liste sehen.
 
 ## Nach SERP-Rang filtern {#filter-by-serp-rank}
 
-1. Gehen Sie zum Abschnitt Suchbegriffe .
+1. Navigieren Sie zu [!UICONTROL Schlüsselwörter] Abschnitt.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
@@ -46,10 +46,10 @@ Süß! Sie werden jetzt nur noch Suchbegriffe auf dieser Liste sehen.
 
 Die gesuchten Suchbegriffe finden Sie auch im Suchfeld oben rechts.
 
-1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Geben Sie Ihren Suchbegriff in das Suchfeld ein.
+1. Geben Sie Ihren Suchbegriff in die **[!UICONTROL Suche]** -Feld.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

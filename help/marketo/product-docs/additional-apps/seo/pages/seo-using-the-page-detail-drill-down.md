@@ -3,9 +3,9 @@ unique-page-id: 2949186
 description: SEO - Verwendung des Drilldown für Seitendetails - Marketo Docs - Produktdokumentation
 title: SEO - Verwendung des Drilldown für Seitendetails
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Sie können mit der Detailansicht der Seite viele Informationen zu Ihren Seiten 
 
 ## Drilldown der Suchseite {#find-page-drill-down}
 
-1. Gehen Sie zum Abschnitt Seiten .
+1. Navigieren Sie zu **[!UICONTROL Seiten] Abschnitt**.
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
@@ -28,22 +28,22 @@ Sie können mit der Detailansicht der Seite viele Informationen zu Ihren Seiten 
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## Seitendetailabschnitt {#page-detail-section}
+## [!UICONTROL Seitendetails] Abschnitt {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
 | Element | Beschreibung |
 |---|---|
-| Optimierungsbewertung | Die geheime Soße, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
-| Aufgabenfeld | Zeigt die Anzahl der offenen Probleme in Bezug auf die Seite an, auf der Sie sich befinden. |
-| Inbound Links gesamt | Die Gesamtzahl der eingehenden Links zu Ihrer Website. |
-| Eingehende Links (eindeutige Domänen) | Die Anzahl der anderen Websites mit mindestens einem eingehenden Link zu Ihrer Site. |
-| Ausgehende Links | Die Anzahl der Links, die von dieser bestimmten Seite zu anderen Websites führen. |
-| Facebook Share | Gibt an, wie oft diese Seite in Facebook freigegeben wurde. |
-| Facebook &quot;Gefällt mir&quot;-Klicks | Gibt an, wie oft diese Seitenfreigabe auf Facebook gefallen ist. |
-| Facebook-Klicks | Anzahl der Klicks von der Facebook-Freigabe. |
+| [!UICONTROL Optimierungsbewertung] | Die geheime Soße, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
+| [!UICONTROL Aufgaben] box | Zeigt die Anzahl der offenen Probleme in Bezug auf die Seite an, auf der Sie sich befinden. |
+| [!UICONTROL Inbound Links gesamt] | Die Gesamtzahl der eingehenden Links zu Ihrer Website. |
+| [!UICONTROL Eingehende Links (eindeutige Domänen)] | Die Anzahl der anderen Websites mit mindestens einem eingehenden Link zu Ihrer Site. |
+| [!UICONTROL Ausgehende Links] | Die Anzahl der Links, die von dieser bestimmten Seite zu anderen Websites führen. |
+| [!UICONTROL Facebook Share] | Häufigkeit, mit der diese Seite freigegeben wurde [!DNL Facebook]. |
+| [!UICONTROL Facebook &quot;Gefällt mir&quot;-Klicks] | Anzahl der &quot;Gefällt mir&quot;-Klicks für diese Seitenfreigabe [!DNL Facebook]. |
+| [!UICONTROL Facebook-Klicks] | Anzahl der Klicks aus der [!DNL Facebook share]. |
 
-## Suchbegriffe, für die die Seite optimiert ist  {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Suchbegriffe, für die die Seite optimiert ist] {#keyword-s-that-page-is-optimized-for}
 
 Hier sind Sie [auswählen, für welchen Suchbegriff Sie Ihre Seite optimieren möchten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
@@ -53,13 +53,11 @@ Hier sind Sie [auswählen, für welchen Suchbegriff Sie Ihre Seite optimieren m�
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## Seitenoptimierungsergebnisse {#page-optimization-results}
+## [!UICONTROL Seitenoptimierungsergebnisse] {#page-optimization-results}
 
-In den Seitenoptimierungsergebnissen erfahren Sie, welche Schritte Sie genau unternehmen müssen, um Ihren Optimierungswert zu erhöhen oder bei der Suche nach dieser Seite bessere Ergebnisse zu erzielen.
+Die [!UICONTROL Seitenoptimierungsergebnisse] werden Ihnen die genauen Schritte mitteilen, die Sie unternehmen müssen, um Ihren Optimierungswert zu erhöhen oder bei der Suche nach dieser Seite bessere Ergebnisse zu erzielen.
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
-
-Ziemlich süß, nicht wahr? Weitere Informationen zu Seiten finden Sie hier.
 
 >[!MORELIKETHIS]
 >

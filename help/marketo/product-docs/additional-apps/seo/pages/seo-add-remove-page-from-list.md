@@ -3,7 +3,7 @@ unique-page-id: 2949218
 description: SEO - Seite aus Liste hinzufügen/entfernen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Seite aus Liste hinzufügen/entfernen
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Sie möchten Ihre Seiten verwalten? Erstellen Sie dazu einfach eine Liste. Sie k
 
 ## Seite zu Liste hinzufügen {#add-page-to-a-list}
 
-1. Navigieren Sie zu **Seiten** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken **Aus Liste hinzufügen/entfernen**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -30,7 +30,7 @@ Sie möchten Ihre Seiten verwalten? Erstellen Sie dazu einfach eine Liste. Sie k
 
    >[!TIP]
    >
-   >Sie können auch eine neue Liste für Ihre Seite erstellen. Geben Sie einfach Ihren gewünschten Namen in Neue Liste erstellen ein.
+   >Sie können auch eine neue Liste für Ihre Seite erstellen. Geben Sie einfach Ihren gewünschten Namen in [!UICONTROL Neue Liste erstellen].
 
 1. Klicken Sie auf die Liste, der Sie Ihre Seite hinzugefügt haben.
 
@@ -40,15 +40,15 @@ Ja! Ihre Seite sollte nun der Liste hinzugefügt werden.
 
 ## Seite aus Liste entfernen {#remove-page-from-a-list}
 
-1. Gehen Sie zum Abschnitt Seiten .
+1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Klicken Sie auf der Registerkarte Seiten auf die Liste, die Sie bereinigen möchten.
+1. Im **[!UICONTROL Seiten]** klicken Sie auf die Liste, die Sie bereinigen möchten.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken **Aus Liste hinzufügen/entfernen**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

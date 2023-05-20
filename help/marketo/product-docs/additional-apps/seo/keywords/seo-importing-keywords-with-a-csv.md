@@ -3,10 +3,10 @@ unique-page-id: 2949206
 description: SEO - Importieren von Keywords mit einer CSV - Marketo Docs - Produktdokumentation
 title: SEO - Importieren von Keywords mit einer CSV-Datei
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 5%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 5%
 
 1. Sie können [Suchbegriffe hinzufügen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuell, [Suchbegriffvorschläge erhalten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) und importieren Sie sogar Suchbegriffe aus einer CSV-Datei. So wird der Import durchgeführt.
 
-1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Klicken **Import**.
+1. Klicken **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Klicken **Datei auswählen**.
+1. Klicken **[!UICONTROL Datei auswählen]**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 5%
    >
    >Die Importbeschränkungen variieren je nach Abonnement. Wenden Sie sich wegen weiterer Informationen an Ihren Verkaufsrepräsentanten.
 
-1. Klicken **Import**.
+1. Klicken **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -42,7 +42,9 @@ ht-degree: 5%
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
-   Es kann einige Minuten dauern, bis alle mit jedem Suchbegriff verknüpften Daten geladen sind. Meditieren Sie über den Sinn des Lebens.
+   >[!NOTE]
+   >
+   >Es kann einige Minuten dauern, bis alle mit jedem Suchbegriff verknüpften Daten geladen sind.
 
    >[!MORELIKETHIS]
    >

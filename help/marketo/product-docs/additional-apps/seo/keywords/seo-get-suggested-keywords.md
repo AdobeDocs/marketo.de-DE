@@ -3,9 +3,9 @@ unique-page-id: 2949202
 description: SEO - Vorgeschlagene Suchbegriffe abrufen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Vorgeschlagene Suchbegriffe abrufen
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -16,15 +16,15 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
 ## Suchbegriffvorschläge mit einem Suchbegriff abrufen {#get-keyword-suggestions-using-a-keyword}
 
-1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Klicken **Empfehlungen abrufen**.
+1. Klicken **[!UICONTROL Empfehlungen abrufen]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Geben Sie einen **Schlüsselwort**. Klicken **Suchbegriffe vorschlagen**.
+1. Geben Sie einen **[!UICONTROL Schlüsselwort]**. Klicken **[!UICONTROL Suchbegriffe vorschlagen]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
@@ -32,7 +32,7 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
    >
    >Wussten Sie, dass Sie  [Suchbegriff zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) genau hier?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **Auswahl hinzufügen**.
+1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **[!UICONTROL Auswahl hinzufügen]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -44,19 +44,19 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
 ## Suchbegriffvorschläge von einer URL abrufen  {#get-keyword-suggestions-from-a-url}
 
-1. Navigieren Sie zu **Schlüsselwörter** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Klicken **Empfehlungen abrufen**.
+1. Klicken **[!UICONTROL Empfehlungen abrufen]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Satz **Vorschlagen nach** nach **URL**.
+1. Satz **[!UICONTROL Vorschlagen nach]** nach **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Geben Sie einen **URL** und klicken Sie auf **Suchbegriffe vorschlagen**.
+1. Geben Sie einen **[!UICONTROL URL]** und klicken Sie auf **[!UICONTROL Suchbegriffe vorschlagen]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
@@ -64,18 +64,16 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
    >
    >Wussten Sie, dass Sie [Suchbegriff zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) genau hier?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **Auswahl hinzufügen**.
+1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **[!UICONTROL Auswahl hinzufügen]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. Sehr gut! Ihr Suchbegriff wurde hinzugefügt.
+Sehr gut! Ihr Suchbegriff wurde hinzugefügt.
 
-   ![](assets/image2014-9-18-11-3a8-3a25.png)
+![](assets/image2014-9-18-11-3a8-3a25.png)
 
-   Ok, du hast diese Sache verflucht. Mach weiter!
-
-   >[!MORELIKETHIS]
-   >
-   >* [Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Hinzufügen/Entfernen von Suchbegriffen aus einer Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>[!MORELIKETHIS]
+>
+>* [Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [Hinzufügen/Entfernen von Suchbegriffen aus einer Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 

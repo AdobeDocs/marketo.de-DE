@@ -3,7 +3,7 @@ unique-page-id: 2949273
 description: SEO - Verwenden des Suchbegriff-Trends-Berichts - Marketo Docs - Produktdokumentation
 title: SEO - Verwenden des Suchbegriff-Trends-Berichts
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 5%
@@ -16,11 +16,11 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 
 ## Bericht laden {#load-report}
 
-1. Navigieren Sie zu **Berichte**.
+1. Navigieren Sie zu **[!UICONTROL Berichte]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Klicken Sie auf **Suchbegriff-Rangtrends**.
+1. Klicken Sie auf **[!UICONTROL Suchbegriff-Rangtrends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -32,10 +32,10 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 
    | Element | Beschreibung |
    |---|---|
-   | Schlüsselwörter | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
-   | Rangierungs-URLs | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
-   | Durchschnitt rank | Der durchschnittliche Rang der Suchbegriffe in dem von Ihnen festgelegten Bereich. |
-   | Durchschnitt Suchvorgänge | Durchschnittliche Anzahl der Suchvorgänge für diese Suchbegriffe, die während des von Ihnen festgelegten Zeitraums (in den letzten 30 Tagen bei der Google US-Suche) stattgefunden haben |
+   | [!UICONTROL Schlüsselwörter] | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
+   | [!UICONTROL Rangierungs-URLs] | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
+   | [!UICONTROL Durchschnitt rank] | Der durchschnittliche Rang der Suchbegriffe in dem von Ihnen festgelegten Bereich. |
+   | [!UICONTROL Durchschnitt Suchvorgänge] | Durchschnittliche Anzahl der Suchvorgänge nach Suchbegriffen, die während des festgelegten Zeitraums (in den letzten 30 Tagen) bei der Google US-Suche aufgetreten sind. |
 
 ## Filtern von Daten {#filtering-data}
 
@@ -53,7 +53,7 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 >
 >Sie können diesen Bericht auf Ihren Desktop exportieren.
 
-1. Klicken Sie auf CSV oder Export PDF exportieren .
+1. Klicken **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 

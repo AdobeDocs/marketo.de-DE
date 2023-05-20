@@ -3,9 +3,9 @@ unique-page-id: 2949264
 description: SEO - Entfernen/Löschen eines Seitenproblems - Marketo Docs - Produktdokumentation
 title: SEO - Entfernen/Löschen eines Seitenproblems
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 Nicht alle Seitenprobleme können für Sie von Nutzen sein. So kann man eine entfernen.
 
-1. Navigieren Sie zu **Seiten** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klicken Sie im Seitenbereich auf **Probleme**.
+1. Im [!UICONTROL Seiten] Abschnitt, klicken Sie auf **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken **Entfernen**.
+1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken **[!UICONTROL Entfernen]**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Klicken **Löschen** entfernt dieses Seitenproblem dauerhaft.
+1. Klicken **[!UICONTROL Löschen]** entfernt dieses Seitenproblem dauerhaft.
 
    >[!CAUTION]
    >
@@ -34,4 +34,4 @@ Nicht alle Seitenprobleme können für Sie von Nutzen sein. So kann man eine ent
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-Süß! Ihr Seitenproblem wurde jetzt entfernt.
+Ihr Seitenproblem wurde jetzt entfernt.
