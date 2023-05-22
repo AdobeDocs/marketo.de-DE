@@ -2,14 +2,16 @@
 description: Synchronisieren von Abmeldungen mit Salesforce - Marketo Docs - Produktdokumentation
 title: Synchronisieren von Abmeldungen mit Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
+source-git-commit: ec79f405f975f2179aae94ec5556808785d7c594
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 5%
+source-wordcount: '495'
+ht-degree: 4%
 
 ---
 
 # Synchronisieren von Abmeldungen mit Salesforce {#syncing-unsubscribes-with-salesforce}
+
+Wenn Sie Abmeldungen mit einem Opt-out-Feld in Salesforce synchronisieren möchten, können Sie die Salesforce-Abmelde-Synchronisation verwenden.
 
 ## Voraussetzungen für Abmeldungen zur Synchronisierung mit Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
@@ -24,6 +26,10 @@ Wenn eine Abmeldung in Marketo Sales erfasst wird, senden wir sie in Echtzeit an
 **Abmeldesynchronisierung**
 
 Wenn Sie die Synchronisation zum Abmelden aktiviert haben (Schritt 3 unten), wird die nächtliche Synchronisation aktiviert. Die Synchronisierung findet einmal täglich um 20:00 Uhr PST statt. Dadurch werden alle Abmeldungen in Marketo Sales bidirektional mit dem Opt-out-Feld in Salesforce synchronisiert.
+
+>[!NOTE]
+>
+>Die Synchronisierung der Abmeldung mit Salesforce synchronisiert Abmeldungen, synchronisiert aber keine erneuten Abonnenten. Wenn Sie eine Abmeldung von Marketo Sales und Salesforce entfernen möchten, deaktivieren Sie die Abmeldung in Salesforce und entfernen Sie die Abmeldung in Marketo Sales.
 
 ## Konfigurieren der Abmeldesynchronisierung mit Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
