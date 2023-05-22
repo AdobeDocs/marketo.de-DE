@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
 workflow-type: tm+mt
-source-wordcount: '8886'
+source-wordcount: '8888'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 5%
 + Erste Schritte mit Marketo {#getting-started-with-marketo}
    + [Erste Schritte](getting-started.md)
    + [Was ist Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
+   + [Hilfezentrum](help-center.md)
    + [Marketo-Glossar](getting-started/marketo-glossary.md)
    + [Glossar zu klassischen Symbolen](getting-started/classic-icon-glossary.md)
    + Setup {#setup}
@@ -639,7 +640,7 @@ ht-degree: 5%
             + [Dialogübersicht](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Erstellen eines Dialogfelds](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Zielgruppenkriterien](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [Entwerferin bzw. Entwerfer des Streams](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
             + [Berichte](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Ereignisse {#events}
          + Verstehen von Ereignissen {#understanding-events}
