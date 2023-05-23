@@ -2,16 +2,16 @@
 description: Prädiktive Filter - Marketo-Dokumente - Produktdokumentation
 title: Vorhersagefilter
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
 
 # Vorhersagefilter {#predictive-filters}
 
-Als Teil von Predictive Audiences bietet Marketo eine Gruppe von KI/ML-basierten Filtern in Smart-Listen.
+Im Rahmen von Predictive Audiences bietet Marketo eine Gruppe von KI/ML-basierten Filtern in Smart-Listen in Smart-Kampagnen.
 
 ![Bild eins](assets/predictive-filters-1.png)
 
@@ -27,7 +27,7 @@ Mit diesem Filter können Sie Ihre Zielgruppe effektiv eingrenzen. Auf diese Wei
 
 ## Wahrscheinlichkeit der Registrierung
 
-Ähnlich wie bei _Wahrscheinlichkeit der Teilnahme_ Filter verwenden, um Ihre Zielgruppe einzugrenzen und Leads auszuwählen, die eine höhere Wahrscheinlichkeit von **registrieren** für Ihr Webinar oder Ihre Veranstaltung.
+Ähnlich wie bei _Wahrscheinlichkeit der Teilnahme_ Filter verwenden, um Ihre Zielgruppe einzugrenzen und Leads auszuwählen, die eine höhere Wahrscheinlichkeit von **registrieren** für Ihr Webinar oder Ihre Veranstaltung.
 
 ![Bild drei](assets/predictive-filters-3.png)
 
@@ -45,8 +45,8 @@ Dadurch wird die Zielgruppe danach gefiltert, ob die Abmeldewahrscheinlichkeit i
 
 Mit diesen beiden Filtern können Sie Ihre aktuelle Zielgruppe erweitern, indem Sie zusätzliche Leads auswählen, die den Mitgliedern eines anderen Programms oder einer intelligenten Liste ähnlich sind. Die Suchfilter berücksichtigen mehr als 50 Faktoren, einschließlich Lead-Attributen, E-Mail-Aktivität, Web-Aktivität und Interaktion.
 
-Klicken **[!UICONTROL Beschränkung hinzufügen]** um Erfolgskriterien für die Mitglieder des ausgewählten Programms/der ausgewählten Programme auszuwählen.
+Klicken **[!UICONTROL Beschränkung hinzufügen]** um Erfolgskriterien für die Mitglieder des ausgewählten Programms/der ausgewählten Programme auszuwählen.
 
-Klicken Sie auf **+** -Symbol, um einfach mehrere Programme/Smart-Listen zu einem Filter hinzuzufügen.
+Klicken Sie auf **+** -Symbol, um einfach mehrere Programme/Smart-Listen zu einem Filter hinzuzufügen.
 
 ![Bild fünf](assets/predictive-filters-5.png)

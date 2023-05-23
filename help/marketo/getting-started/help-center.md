@@ -3,7 +3,7 @@ description: Help Center - Marketo Docs - Produktdokumentation
 title: Hilfezentrum
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 6%
@@ -20,7 +20,7 @@ Klicken Sie nach der Anmeldung bei Marketo Engage auf das Hilfesymbol.
 
 ![](assets/help-center-1.png)
 
-**Anleitungen**
+### Anleitungen {#guides}
 
 Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
 
@@ -46,7 +46,7 @@ Klicken **Fertig** , um die exemplarische Vorgehensweise zu beenden.
 >
 >Beenden Sie das Handbuch jederzeit durch Klicken auf **Verwerfen**.
 
-**Neue Funktionen**
+### Neue Funktionen {#whats-new}
 
 Die Registerkarte Neue Funktionen enthält alle Details der neuesten Version von Marketo Engage.
 
@@ -56,7 +56,7 @@ Die Registerkarte Neue Funktionen enthält alle Details der neuesten Version von
 >
 >Klicken Sie unten auf das Pfeilsymbol, um die Experience League anzuzeigen.
 
-**Ressourcen**
+### Ressourcen {#resources}
 
 Auf der Registerkarte Ressourcen haben Sie schnellen und direkten Zugriff auf verschiedene Möglichkeiten, zusätzliche Hilfe für Ihre Marketo Engage-Instanz zu erhalten.
 
