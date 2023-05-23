@@ -2,9 +2,9 @@
 description: Versionshinweise - März 2023 - Marketo-Dokumente - Produktdokumentation
 title: März 2023 - Versionshinweise
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
+source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 7%
 
 ---
@@ -79,8 +79,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -101,8 +101,8 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
