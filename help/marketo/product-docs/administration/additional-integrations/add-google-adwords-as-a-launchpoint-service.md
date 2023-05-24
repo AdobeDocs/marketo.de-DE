@@ -1,18 +1,18 @@
 ---
 unique-page-id: 6095008
-description: Hinzufügen von Google AdWords as a LaunchPoint Service - Marketo Docs - Produktdokumentation
-title: Hinzufügen von Google AdWords als LaunchPoint-Dienst
+description: "Hinzufügen [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - Marketo Docs - Produktdokumentation"
+title: "Hinzufügen [!DNL Google AdWords] as a [!DNL LaunchPoint] Dienst"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 2%
+source-wordcount: '286'
+ht-degree: 4%
 
 ---
 
-# Hinzufügen von Google AdWords als LaunchPoint-Dienst {#add-google-adwords-as-a-launchpoint-service}
+# Hinzufügen [!DNL Google AdWords] as a [!DNL LaunchPoint] Diensleistung {#add-google-adwords-as-a-launchpoint-service}
 
-Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um Offline-Konversionsdaten automatisch von Marketo in Google AdWords hochzuladen. Anschließend können Sie in der AdWords-Benutzeroberfläche einfach sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) geführt haben, nachdem Sie [Benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556){target="_blank"} in AdWords. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
+Verknüpfen Sie Ihre [!DNL Google AdWords] Konto zu Marketo zum automatischen Hochladen von Offline-Konversionsdaten von Marketo in [!DNL Google AdWords]. Dann aus dem [!DNL AdWords] -Benutzeroberfläche können Sie einfach erkennen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) geführt haben, nachdem Sie [Benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
 
 Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -26,71 +26,71 @@ Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https
 
 >[!NOTE]
 >
->Sie können auch eine [Google AdWords as a Launchpoint-Dienst mit einem Managerkonto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>Sie können auch eine [[!DNL Google AdWords] as a [!DNL Launchpoint] Dienst mit einem Managerkonto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
-1. Navigieren Sie zu **Admin** Abschnitt.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 
-1. Auswählen **LaunchPoint**.
+1. Auswählen **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
-1. Auswählen **Neu** und **Neuer Dienst**.
+1. Auswählen **[!UICONTROL Neu]** und **[!UICONTROL Neuer Dienst]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen Anzeigenamen ein und wählen Sie **Google AdWords**.
+1. Geben Sie einen [!UICONTROL Anzeigename] und wählen Sie **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
-1. Auswählen **Marketo autorisieren**.
+1. Auswählen **[!UICONTROL Marketo autorisieren]**.
 
    >[!NOTE]
    >
-   >Melden Sie sich bei Ihrem persönlichen Gmail-Konto ab und aktivieren Sie Pop-ups.
+   >Stellen Sie sicher, dass Sie sich von Ihrem persönlichen [!DNL Gmail] und aktivieren Sie Popups.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-5.png)
 
-1. Wählen Sie Ihr mit Google AdWords verknüpftes Konto aus.
+1. Wählen Sie Ihr Konto aus, das mit [!DNL Google AdWords].
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
-1. Auswählen **Accept**.
+1. Auswählen **[!UICONTROL Accept]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. Status wird als **Erfolg**. Auswählen **Nächste**.
+1. Status wird als **[!UICONTROL Erfolg]**. Auswählen **[!UICONTROL Nächste]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
-1. Hochladen Ihrer Offline-Konversionen von Marketo in Google AdWords **Wöchentlich** oder **Täglich**.
+1. Hochladen der Offline-Konvertierungen von Marketo in [!DNL Google AdWords] **[!UICONTROL Wöchentlich]** oder **[!UICONTROL Täglich]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
-1. Attributkonvertierung in **Erster Klick** oder **Letzter Klick**.
+1. Attributkonvertierung in **[!UICONTROL Erster Klick]** oder **[!UICONTROL Letzter Klick]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
    | Typ | Definition |
    |---|---|
-   | Erster Klick | Offline-Konversionen werden den ersten AdWords zugeordnet, auf die eine Person in den letzten 90 Tagen geklickt hat. |
-   | Letzter Klick | Offline-Konversionen werden den letzten AdWords zugeordnet, auf die eine Person geklickt hat. |
+   | [!UICONTROL Erster Klick] | Offline-Konversionen werden der ersten [!DNL AdWords] und dass eine Person in den letzten 90 Tagen geklickt hat |
+   | [!UICONTROL Letzter Klick] | Offline-Konversionen werden der letzten [!DNL AdWords] und dass eine Person geklickt hat |
 
    >[!NOTE]
    >
-   >Die Verwendung eines konsistenten Attributionsmodells in Marketo und AdWords liefert die präzisesten Daten.
+   >Verwenden eines konsistenten Attributionsmodells in Marketo und [!DNL AdWords] stellt die genauesten Daten bereit.
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 
    >[!NOTE]
    >
-   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. Die Deaktivierung muss in AdWords erfolgen.
+   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. Die Deaktivierung muss in erfolgen [!DNL AdWords].
 
-Sehr gut! Im folgenden Artikel erfahren Sie, wie Sie Offline-Konversionen von AdWords in Ihrem Umsatzmodell zuordnen.
+Sehr gut! Informationen zum Zuordnen finden Sie im folgenden Artikel . [!DNL AdWords] Offline-Konversionen in Ihrem Umsatzmodell.
 
 >[!MORELIKETHIS]
 >
->[Festlegen von Google AdWords-Konversionen im Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+>[Satz [!DNL Google AdWords] Konversionen im Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

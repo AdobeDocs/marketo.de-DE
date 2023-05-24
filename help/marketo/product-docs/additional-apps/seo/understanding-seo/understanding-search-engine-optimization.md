@@ -3,9 +3,9 @@ unique-page-id: 2949176
 description: Grundlagen zur Suchmaschinenoptimierung - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zur Suchmaschinenoptimierung
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Zunächst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 
 **Suchmaschinenoptimierung (SEO)**: Eine Mischung aus Strategien und Techniken, die zur Erhöhung des Site-Traffics verwendet werden, indem eine hochwertige Platzierung in Suchergebnisseiten (SERP) erzielt wird.
 
-**Schlüsselwort**: Ein Keyword ist das Wort oder die Wortgruppe, das/die in Suchmaschinen wie Google, Yahoo oder Bing eingegeben wird.
+**Schlüsselwort**: Ein Suchbegriff ist das Wort oder die Wortgruppe, das/die in Suchmaschinen wie Google eingegeben wird. [!DNL Yahoo] oder [!DNL Bing].
 
 **Eingehende Links**: Links auf anderen Sites, die Traffic zu Ihrer Site leiten. Je höher der Ruf der verlinkenden Website ist, desto wertvoller ist dieser eingehende Link.
 
@@ -52,8 +52,8 @@ Zunächst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 
 ## Wie gehe ich los? {#how-do-i-get-started}
 
-1. Entwickeln Sie Ihre Strategie mit [Grundlegendes zu Suchbegriffen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
-1. Beheben Sie vorhandene Probleme in [Verstehen von Seiten](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target=&quot;_blank&quot;}
-1. Reichweite erweitern durch [Grundlegendes zu eingehenden Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target=&quot;_blank&quot;}
+1. Entwickeln Sie Ihre Strategie mit [Grundlegendes zu Suchbegriffen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. Beheben Sie vorhandene Probleme in [Verstehen von Seiten](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. Reichweite erweitern durch [Grundlegendes zu eingehenden Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
 
 Ihr Ziel besteht darin, bei Suchbegriffen, die für Ihr Unternehmen von Bedeutung sind, der ersten Seite (und dem ersten Ergebnis) so nahe zu stehen.

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7512289
-description: GoToWebinar als LaunchPoint-Dienst hinzufügen - Marketo Docs - Produktdokumentation
-title: GoToWebinar als LaunchPoint-Dienst hinzufügen
+description: "Hinzufügen [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service - Marketo Docs - Produktdokumentation"
+title: "Hinzufügen [!DNL GoToWebinar] as a [!DNL LaunchPoint] Dienst"
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '153'
 ht-degree: 3%
 
 ---
 
-# GoToWebinar als LaunchPoint-Dienst hinzufügen {#add-gotowebinar-as-a-launchpoint-service}
+# Hinzufügen [!DNL GoToWebinar] as a [!DNL LaunchPoint] Diensleistung {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo verwaltet Ihre GoToWebinar-Registrierung und -Teilnahme.
+Marketo verwaltet Ihre [!DNL GoToWebinar] Anmeldung und Teilnahme.
 
 >[!NOTE]
 >
@@ -20,52 +20,52 @@ Marketo verwaltet Ihre GoToWebinar-Registrierung und -Teilnahme.
 
 >[!NOTE]
 >
->Für diesen Schritt sind ein bestehendes Abonnement für GoToWebinar und Administratorrechte erforderlich. Lassen Sie die E-Mail-Adresse und das Passwort, die Sie verwenden, um sich bei GoToWebinar anzumelden.
+>Ein bestehendes Abonnement für [!DNL GoToWebinar] und Administratorrechte sind für diesen Schritt erforderlich. Sie benötigen die E-Mail-Adresse und das Passwort, mit der Sie sich anmelden [!DNL GoToWebinar] zur Verfügung.
 
 >[!NOTE]
 >
->GoToMeeting, GoToWebcast und GoToTraining werden derzeit nicht unterstützt.
+>[!DNL GoToMeeting], [!DNL GoToWebcast]und [!DNL GoToTraining] werden derzeit nicht unterstützt.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. Klicken **LaunchPoint**.
+1. Klicken **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. Auswählen **Neu** und **Neuer Dienst**.
+1. Auswählen **[!UICONTROL Neu]** und **[!UICONTROL Neuer Dienst]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen **Anzeigename**. under **Diensleistung** auswählen **GoToWebinar**.
+1. Geben Sie einen **[!UICONTROL Anzeigename]**. under **[!UICONTROL Diensleistung]** auswählen **[!UICONTROL GoToWebinar]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
-1. Klicken Sie anschließend auf **Bei GoToWebinar anmelden**.
+1. Klicken **[!UICONTROL Bei GoToWebinar anmelden]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Wenn Sie Firmenname und Auftragstitel aus Ihrem Marketo-Formular mit GoToWebinar synchronisieren möchten, wählen Sie die **Zusätzliche Felder aktivieren** ankreuzen.
+   >Wenn Sie Firmenname und Auftragstitel aus Ihrem Marketo-Formular mit synchronisieren möchten [!DNL GoToWebinar], wählen Sie die **[!UICONTROL Zusätzliche Felder aktivieren]** ankreuzen.
 
-1. Geben Sie im Popup-Fenster GoToWebinar-Anmeldung Ihre **GoToWebinar** E-Mail und Kennwort und klicken Sie auf **Anmelden**.
+1. Im [!DNL GoToWebinar] Popup-Fenster &quot;Anmelden&quot;eingeben **[!UICONTROL GoToWebinar]** E-Mail und Kennwort und klicken Sie auf **[!UICONTROL Anmelden]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. Nachdem das Fenster geschlossen wurde, klicken Sie auf **Erstellen**.
+1. Nachdem das Fenster geschlossen wurde, klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Sehr gut! Ihre **GoToWebinar** -Konto jetzt mit Marketo synchronisiert.
+1. Sehr gut! Ihre **[!UICONTROL GoToWebinar]** -Konto jetzt mit Marketo synchronisiert.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
->Wenn Sie Ihr Kennwort in GoToWebinar aktualisieren, müssen Sie auch Ihr Kennwort in Marketo aktualisieren.
+>Wenn Sie Ihr Kennwort in [!DNL GoToWebinar]müssen Sie Ihr Kennwort auch in Marketo aktualisieren.
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [Ereignis mit GotoWebinar erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}.
+>Erfahren Sie, wie Sie [Erstellen eines Ereignisses mit [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.

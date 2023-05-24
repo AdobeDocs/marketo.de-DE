@@ -3,18 +3,18 @@ unique-page-id: 2949232
 description: SEO - Verwalten von Listen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Verwalten von Listen
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # SEO - Verwalten von Listen {#seo-managing-lists}
 
-Sie können Elemente zu Listen hinzufügen, wenn Sie Suchbegriffe, Seiten, Seitenprobleme oder eingehende Links hinzufügen. Mit Listen können Sie organisiert bleiben und Berichte so filtern, dass nur Daten aus dieser Liste angezeigt werden. So werden sie erstellt:
+Sie können Elemente zu Listen hinzufügen, wenn Sie Suchbegriffe, Seiten, Seitenprobleme oder eingehende Links hinzufügen. Mit Listen können Sie organisiert bleiben und Berichte so filtern, dass nur Daten aus dieser Liste angezeigt werden. Hier ist, wie man sie macht.
 
-1. Klicken **Suchbegriffe hinzufügen**.
+1. Klicken **[!UICONTROL Suchbegriffe hinzufügen]**.
 
    >[!NOTE]
    >
@@ -30,8 +30,6 @@ Sie können Elemente zu Listen hinzufügen, wenn Sie Suchbegriffe, Seiten, Seite
    >
    >Sie können eine neue Liste in der Dropdown-Liste erstellen. Geben Sie einen Titel ein und drücken Sie die Eingabetaste.
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
-
-   Gute Organisation!

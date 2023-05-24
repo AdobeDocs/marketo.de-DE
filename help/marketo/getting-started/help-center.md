@@ -1,9 +1,7 @@
 ---
 description: Help Center - Marketo Docs - Produktdokumentation
 title: Hilfezentrum
-hide: true
-hidefromtoc: true
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 6%
@@ -12,7 +10,7 @@ ht-degree: 6%
 
 # Hilfezentrum {#help-center}
 
-Das Help Center in Marketo Engage dient als zentralisierter Ort, um Hilfe zu erhalten. Neben der Verknüpfung mit verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}), können Sie auf hilfreiche produktinterne Umgehungen zugreifen, die nach Erlebnisebene organisiert sind.
+Das Help Center in Marketo Engage dient als zentralisierter Ort, um Hilfe zu erhalten. Neben der Verknüpfung mit verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}), können Sie auf hilfreiche produktinterne Umgehungen zugreifen, die nach Erlebnisebene organisiert sind.
 
 ## Zugriff {#how-to-access}
 
@@ -26,25 +24,25 @@ Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
 
 ![](assets/help-center-2.png)
 
-Klicken Sie auf das gewünschte Handbuch, um es anzuzeigen.
+1. Klicken Sie auf das gewünschte Handbuch, um es anzuzeigen.
 
-![](assets/help-center-3.png)
+   ![](assets/help-center-3.png)
 
-Klicken **Erste Schritte**.
+1. Klicken **Erste Schritte**.
 
-![](assets/help-center-4.png)
+   ![](assets/help-center-4.png)
 
-Klicken **Nächste** , um fortzufahren.
+1. Klicken **Nächste** , um fortzufahren.
 
-![](assets/help-center-5.png)
+   ![](assets/help-center-5.png)
 
-Klicken **Fertig** , um die exemplarische Vorgehensweise zu beenden.
+1. Klicken **Fertig** , um die exemplarische Vorgehensweise zu beenden.
 
-![](assets/help-center-6.png)
+   ![](assets/help-center-6.png)
 
->[!TIP]
->
->Beenden Sie das Handbuch jederzeit durch Klicken auf **Verwerfen**.
+   >[!TIP]
+   >
+   >Beenden Sie das Handbuch jederzeit durch Klicken auf **Verwerfen**.
 
 ### Neue Funktionen {#whats-new}
 

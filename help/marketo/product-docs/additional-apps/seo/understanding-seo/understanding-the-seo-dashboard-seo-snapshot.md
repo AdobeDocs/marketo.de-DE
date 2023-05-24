@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: Erläuterungen zum SEO-Dashboard - SEO-Schnappschuss - Marketo-Dokumente - Produktdokumentation
 title: Erläuterungen zum SEO-Dashboard - SEO-Schnappschuss
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 1%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 Verwenden Sie das Dashboard, um einen allgemeinen Überblick darüber zu erhalten, wie der Suchbegriffrang sich entwickelt und wie gut Ihre Site für SEO optimiert ist.
 
-Um herauszufinden, worauf Sie sich konzentrieren sollten, um Ihre SEO-Bemühungen zu verbessern, verwenden Sie die [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) des Dashboards.
+Um herauszufinden, worauf Sie sich konzentrieren sollten, um Ihre SEO-Bemühungen zu verbessern, verwenden Sie die [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) des Dashboards.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Keyword-Rangansicht {#keyword-rank-summary}
+## [!UICONTROL Keyword-Rangansicht] {#keyword-rank-summary}
 
 In diesem Abschnitt erfahren Sie, wie Ihre Site nach der [Targeting-Suchbegriffe](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
@@ -36,7 +36,7 @@ In diesem Abschnitt erfahren Sie, wie Ihre Site nach der [Targeting-Suchbegriffe
 
 Fick dich an! Lass uns weitermachen.
 
-## Durchschnittliche Bewertung der Seitenoptimierung {#average-page-optimization-score}
+## [!UICONTROL Durchschnittliche Bewertung der Seitenoptimierung] {#average-page-optimization-score}
 
 Die Bewertung der durchschnittlichen Seitenoptimierung ist ein proprietäres Marketo-Ergebnis, das alle Seiten Ihrer Site auf einer Skala von 1 bis 100 misst.
 
@@ -48,9 +48,9 @@ Es basiert auf einer Sammlung von Dutzenden von Best Practices. Ein Wert von 70 
 >
 >Sie können auch den Optimierungswert für bestimmte Listen von Seiten sehen. Verwenden Sie die Dropdown-Liste und wählen Sie eine, die Sie interessiert.
 
-## Suchbegriff-Rangtrends {#keyword-rank-trends}
+## [!UICONTROL Suchbegriff-Rangtrends] {#keyword-rank-trends}
 
-Das Diagramm &quot;Keyword-Rang-Trends&quot;ruft Ihre Suchbegriffe mit den fünf höchsten monatlichen Suchvolumen ab und kartiert, wie sie im Zeitverlauf ihren Rang einnehmen.
+Die [!UICONTROL Suchbegriff-Rangtrends] -Diagramm ruft Ihre Suchbegriffe mit den fünf höchsten monatlichen Suchvolumen ab und kartiert, wie sie im Laufe der Zeit rangieren.
 
 >[!TIP]
 >
@@ -58,7 +58,7 @@ Das Diagramm &quot;Keyword-Rang-Trends&quot;ruft Ihre Suchbegriffe mit den fünf
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Einfach, nicht wahr? Sehen wir uns nun den Abschnitt Recommendations dieses Dashboards an.
+Sehen wir uns nun die [!UICONTROL Recommendations] des Dashboards.
 
 >[!MORELIKETHIS]
 >
