@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360354
-description: Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website
+description: "Hinzufügen [!DNL Munchkin] Tracking-Code auf Ihrer Website - Marketo-Dokumente - Produktdokumentation"
+title: "Hinzufügen [!DNL Munchkin] Trackingcode auf Ihrer Website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '657'
 ht-degree: 2%
 
 ---
 
-# Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website {#add-munchkin-tracking-code-to-your-website}
+# Hinzufügen [!DNL Munchkin] Trackingcode auf Ihrer Website {#add-munchkin-tracking-code-to-your-website}
 
-Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens Munchkin verfolgt alle Personen, die Ihre Website besuchen, sodass Sie mit automatisierten Marketingkampagnen auf ihre Besuche reagieren können. Auch anonyme Besucher werden zusammen mit ihren IP-Adressen und anderen Informationen verfolgt. **Ohne diesen Trackingcode können Sie keine Besuche oder anderen Aktivitäten auf Ihrer Website verfolgen**!
+Marketos benutzerdefinierter JavaScript-Trackingcode namens [!DNL Munchkin]verfolgt alle Personen auf Ihrer Website, sodass Sie mit automatisierten Marketing-Kampagnen auf ihre Besuche reagieren können. Auch anonyme Besucher werden zusammen mit ihren IP-Adressen und anderen Informationen verfolgt. **Ohne diesen Trackingcode können Sie keine Besuche oder anderen Aktivitäten auf Ihrer Website verfolgen**!
 
 >[!PREREQUISITES]
 >
@@ -22,17 +22,17 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens Munchkin verfo
 
 >[!NOTE]
 >
->Adobe Experience Cloud-Kunden können auch die Marketo-Integration in Adobe Launch verwenden, um Munchkin-Skript auf ihren Webseiten einzubinden. App abrufen [here](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud-Kunden können auch die Marketo-Integration in Adobe Launch verwenden, um [!DNL Munchkin] Skript auf ihren Webseiten. App abrufen [here](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Klicken **Munchkin**.
+1. Klicken **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. Wählen Sie Asynchron für den Trackingcode-Typ aus.
+1. Auswählen **[!UICONTROL Asynchron]** für **[!UICONTROL Trackingcode-Typ]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -52,7 +52,7 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens Munchkin verfo
    >
    >Fügen Sie den Trackingcode auf die Webseiten ein, die Sie verfolgen möchten. Dabei kann es sich um jede Seite für kleinere Sites oder nur um wichtige Seiten auf Sites mit vielen dynamisch generierten Webseiten, Benutzerforen usw. handeln.
 
-   Die besten Ergebnisse erzielen Sie, wenn Sie den asynchronen Munchkin-Code verwenden und ihn im `<head>` Elemente Ihrer Seiten. Wenn Sie den einfachen Code verwenden (nicht empfohlen), liegt dies direkt vor dem `</body>` -Tag.
+   Die besten Ergebnisse erhalten Sie, wenn Sie die Funktion [!DNL Munchkin] -Code und platzieren Sie ihn in der `<head>` Elemente Ihrer Seiten. Wenn Sie den einfachen Code verwenden (nicht empfohlen), liegt dies direkt vor dem `</body>` -Tag.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
@@ -62,13 +62,13 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens Munchkin verfo
 
 ## Hinzufügen von Trackingcode bei Verwendung mehrerer Arbeitsbereiche {#add-tracking-code-when-using-multiple-workspaces}
 
-Wenn Sie Workspace in Ihrem Marketo-Konto verwenden, verfügen Sie wahrscheinlich auch über separate Webpräsenzen, die Ihren Arbeitsbereichen entsprechen. In diesem Fall können Sie das Javascript für das Munchkin-Tracking verwenden, um Ihre anonymen Personen dem richtigen Arbeitsbereich und der richtigen Partition zuzuweisen.
+Wenn Sie Workspace in Ihrem Marketo-Konto verwenden, verfügen Sie wahrscheinlich auch über separate Webpräsenzen, die Ihren Arbeitsbereichen entsprechen. In diesem Fall können Sie die [!DNL Munchkin] Tracking-JavaScript, um Ihre anonymen Personen dem richtigen Arbeitsbereich und der richtigen Partition zuzuweisen.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Klicken **Munchkin**.
+1. Klicken **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -78,9 +78,9 @@ Wenn Sie Workspace in Ihrem Marketo-Konto verwenden, verfügen Sie wahrscheinlic
 
    >[!NOTE]
    >
-   >Wenn Sie den speziellen Workspace Munchkin-Code nicht verwenden, werden die Personen der Standardpartition zugewiesen, die beim Einrichten Ihres Kontos erstellt wurde. Er heißt anfangs &quot;Standard&quot;, aber Sie haben dies möglicherweise in Ihrem eigenen Marketo-Konto geändert.
+   >Wenn Sie den speziellen Arbeitsbereich nicht verwenden [!DNL Munchkin] -Code, werden die Personen der Standardpartition zugewiesen, die bei der Einrichtung Ihres Kontos erstellt wurde. Es heißt &quot;[!UICONTROL Standard]&quot;, aber Sie haben dies möglicherweise in Ihrem eigenen Marketo-Konto geändert.
 
-1. Auswählen **Asynchron** für den Trackingcode-Typ.
+1. Auswählen **[!UICONTROL Asynchron]** für **[!UICONTROL Trackingcode-Typ]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -98,43 +98,43 @@ Wenn Sie Workspace in Ihrem Marketo-Konto verwenden, verfügen Sie wahrscheinlic
 
    >[!CAUTION]
    >
-   >Sie können nur ein Munchkin-Tracking-Skript für eine Partition und einen Arbeitsbereich auf einer Seite verwenden. Schließen Sie keine Tracking-Skripte für mehrere Partitionen/Arbeitsbereiche auf Ihrer Website ein.
+   >Sie können nur eine [!DNL Munchkin] Tracking-Skript für eine einzelne Partition und einen Arbeitsbereich auf einer Seite. Schließen Sie keine Tracking-Skripte für mehrere Partitionen/Arbeitsbereiche auf Ihrer Website ein.
 
    >[!NOTE]
    >
    >In Marketo erstellte Landingpages enthalten automatisch Trackingcode, sodass Sie diesen Code nicht darauf ablegen müssen.
 
-## Typen von Munchkin-Trackingcodes {#types-of-munchkin-tracking-codes}
+## Typen [!DNL Munchkin] Trackingcodes {#types-of-munchkin-tracking-codes}
 
-Es gibt drei Typen von Munchkin-Trackingcodes, aus denen Sie wählen können. Jede Änderung wirkt sich unterschiedlich auf die Ladezeiten der Webseite aus.
+Es gibt drei Arten von [!DNL Munchkin] Trackingcodes, aus denen Sie wählen können. Jede Änderung wirkt sich unterschiedlich auf die Ladezeiten der Webseite aus.
 
-1. **Einfach**: hat die wenigsten Codezeilen, optimiert jedoch nicht für die Ladezeit von Webseiten. Dieser Code lädt die jQuery-Bibliothek jedes Mal, wenn eine Webseite geladen wird.
-1. **Asynchron**: verkürzt die Ladezeit von Webseiten.
-1. **Asynchrone jQuery**: reduziert die Ladezeit von Webseiten und verbessert auch die Systemleistung. In diesem Code wird davon ausgegangen, dass Sie bereits über jQuery verfügen und nicht überprüfen, ob Sie ihn laden.
+1. **[!UICONTROL Einfach]**: hat die wenigsten Codezeilen, optimiert jedoch nicht für die Ladezeit von Webseiten. Dieser Code lädt die jQuery-Bibliothek jedes Mal, wenn eine Webseite geladen wird.
+1. **[!UICONTROL Asynchron]**: verkürzt die Ladezeit von Webseiten.
+1. **[!UICONTROL Asynchrone jQuery]**: reduziert die Ladezeit von Webseiten und verbessert auch die Systemleistung. In diesem Code wird davon ausgegangen, dass Sie bereits über jQuery verfügen und nicht überprüfen, ob Sie ihn laden.
 
-## Testen, ob Ihr Munchkin-Code funktioniert {#test-if-your-munchkin-code-is-working}
+## Testen Sie, ob [!DNL Munchkin] Code funktioniert {#test-if-your-munchkin-code-is-working}
 
-So überprüfen Sie, ob Ihr Munchkin-Code funktioniert, nachdem Sie ihn hinzugefügt haben:
+So überprüfen Sie, ob [!DNL Munchkin] -Code funktioniert, nachdem Sie ihn hinzugefügt haben:
 
 1. Besuchen Sie Ihre Webseite.
 
-1. Klicken Sie in Ihrer Marketo auf die **Analytics** Kachel.
+1. In [!DNL My Marketo], klicken Sie auf die **[!UICONTROL Analytics]** Kachel.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Klicken **Webseiten-Aktivität**.
+1. Klicken **[!UICONTROL Webseiten-Aktivität]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte, doppelklicken **Aktivitätsquelle**.
+1. Klicken Sie auf **[!UICONTROL Einrichtung]** Registerkarte, doppelklicken **[!UICONTROL Aktivitätsquelle]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Ändern Sie die Aktivitätsquelle in **Anonyme Besucher (einschließlich ISPs)** und klicken Sie auf **Anwenden**.
+1. Ändern Sie die [!UICONTROL Aktivitätsquelle] nach **[!UICONTROL Anonyme Besucher (einschließlich ISPs)]** und klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Klicken Sie auf **Bericht** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Bericht]** Registerkarte.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10096583
-description: Häufig gestellte Fragen zum Munchkin-Tracking der nächsten Generation - Marketo-Dokumente - Produktdokumentation
-title: Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation
+description: "Nächste Generation [!DNL Munchkin] Häufig gestellte Fragen zum Tracking - Marketo-Dokumente - Produktdokumentation"
+title: "Nächste Generation [!DNL Munchkin] Tracking-FAQs"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '716'
 ht-degree: 0%
 
 ---
 
-# Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation {#next-generation-munchkin-tracking-faq}
+# Nächste Generation [!DNL Munchkin] Tracking-FAQs {#next-generation-munchkin-tracking-faq}
 
 Wir freuen uns, Ihnen mitteilen zu können, dass wir bald mit der stufenweisen Einführung unserer Webtrackingtechnologie der nächsten Generation beginnen werden.
 
@@ -18,15 +18,15 @@ Im Folgenden finden Sie die wichtigsten Informationen:
 
 * Wir entfernen den Filter &quot;Ist anonym&quot;für die intelligente Liste mit unserer Version Q1 (bereits abgeschlossen).
 * Wir erhöhen die Anzahl der Web-Ereignisse (Webseite besuchen, Link auf Webseite angeklickt), die wir aufnehmen können.
-* Ihr Munchkin-Code ändert sich nicht, sodass keine Aktualisierungen auf Ihrer Website erforderlich sind
+* Ihre [!DNL Munchkin] Der Code ändert sich nicht, sodass keine Aktualisierungen auf Ihrer Website erforderlich sind
 
-## Wann wird mein Marketo-Abonnement auf Munchkin V2 sein? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## Wann ist mein Marketo-Abonnement verfügbar? [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 Wir haben noch kein genaues Datum, aber bitte schauen Sie hier zurück, um Updates zu erhalten.
 
-## Muss ich Änderungen an meinem Munchkin-Tracking auf meiner Website vornehmen? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Muss ich Änderungen an meinen [!DNL Munchkin] Tracking auf meiner Website? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Anz. Der Munchkin-Trackingcode bleibt derselbe. An Ihrer Website müssen keine Änderungen vorgenommen werden.
+Anz. Die [!DNL Munchkin] Der Trackingcode bleibt unverändert. An Ihrer Website müssen keine Änderungen vorgenommen werden.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Anz. Der Munchkin-Trackingcode bleibt derselbe. An Ihrer Website müssen keine �
 
 Die Interaktion anonymer Personen mit Smart-Kampagnen wurde geändert. Zuvor flogen sie durch eine intelligente Kampagne, genau wie bekannte Menschen. Der Filter &quot;Ist anonym&quot;wurde verwendet, um anzugeben, dass nur bekannte oder nur anonyme Personen durch die Kampagne fließen.
 
-Mit Munchkin V2 werden wir weiterhin alle anonymen Aktivitäten verfolgen. Sie können jedoch keine Filter mehr auf anonyme Personen anwenden. Zum Zeitpunkt der Konversion (wenn die Person in Marketo bekannt wird) werden alle Aktivitäten, die zum Zeitpunkt der Anonymität der Person aufgetreten sind, an das Personen-Aktivitätsprotokoll angehängt und durchlaufen zu diesem Zeitpunkt die Kampagnen, für die sie qualifiziert ist.
+Mit [!DNL Munchkin] V2: Wir werden weiterhin alle anonymen Aktivitäten verfolgen. Sie können jedoch keine Filter mehr auf anonyme Personen anwenden. Zum Zeitpunkt der Konversion (wenn die Person in Marketo bekannt wird) werden alle Aktivitäten, die zum Zeitpunkt der Anonymität der Person aufgetreten sind, an das Personen-Aktivitätsprotokoll angehängt und durchlaufen zu diesem Zeitpunkt die Kampagnen, für die sie qualifiziert ist.
 
 Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Smart-Kampagne oder einem Bericht), wird er nicht automatisch aus der Smart-Liste entfernt. Weitere Informationen finden Sie unten.
 
@@ -46,7 +46,7 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 >**Fluss**: Wert +10 ändern und interessanter Moment
 >**Web**: Angesehene Preisseite
 >
->Wenn eine anonyme Person in Munchkin V2 die Preisseite besucht, tritt sie nicht sofort in die Kampagne ein. Sobald die anonyme Person bekannt wird, führen wir diese Kampagne auf sie aus. Sie wird:
+>Mit [!DNL Munchkin] V2: Wenn eine anonyme Person die Preisseite besucht, tritt sie nicht sofort in die Kampagne ein. Sobald die anonyme Person bekannt wird, führen wir diese Kampagne auf sie aus. Sie wird:
 >
 >* Erhalten Sie einen Wert von 10
 >
@@ -74,20 +74,20 @@ Bevor wir diese Änderung vorgenommen haben, haben wir mehrere wöchentliche Ben
 
 Sehen Sie sich diese Links an:
 
-[Anonyme Lead-Upgrades - Überblick](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
+[Anonyme Lead-Upgrades - Überblick](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Anonyme Lead-Upgrades - Änderungen in der Marketo-Benutzeroberfläche](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
+[Anonyme Lead-Upgrades - Änderungen in der Marketo-Benutzeroberfläche](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[Anonyme Lead-Upgrades - Kundenaktion erforderlich](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
+[Anonyme Lead-Upgrades - Kundenaktion erforderlich](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[Anonyme Lead-Upgrades - Analytics-Berichte](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
+[Anonyme Lead-Upgrades - Analytics-Berichte](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[Anonyme Lead-Upgrades - Veröffentlichungszeitplan](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
+[Anonyme Lead-Upgrades - Veröffentlichungszeitplan](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Anonyme Lead-Upgrades - unter dem Menüpfad](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
+[Anonyme Lead-Upgrades - unter dem Menüpfad](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[Anonyme Lead-Promotion zu bekanntem Blei - Munchkin V2-Verhalten](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
+[Anonyme Lead-Promotion zu bekanntem Lead - [!DNL Munchkin] V2-Verhalten](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## Ich habe mehr Fragen! Wie bekomme ich Antworten? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Bitte kontaktieren Sie die [Community](https://nation.marketo.com/){target=&quot;_blank&quot;}. Sie können auch [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. Sie werden sich freuen, Ihre Fragen zu beantworten.
+Bitte kontaktieren Sie die [Community](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Sie werden sich freuen, Ihre Fragen zu beantworten.

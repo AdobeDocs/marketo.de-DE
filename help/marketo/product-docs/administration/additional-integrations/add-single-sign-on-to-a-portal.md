@@ -3,16 +3,16 @@ unique-page-id: 2360356
 description: Single Sign-On zu einem Portal hinzufügen - Marketo Docs - Produktdokumentation
 title: Single Sign-On zu einem Portal hinzufügen
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 1%
+source-wordcount: '524'
+ht-degree: 2%
 
 ---
 
 # Single Sign-On zu einem Portal hinzufügen {#add-single-sign-on-to-a-portal}
 
-Wenn Sie über einen Verzeichnisdienst verfügen, der Benutzer authentifiziert, können Sie die einmalige Anmeldung (SSO) in Marketo zulassen. Diese Funktion wird mit der SAML-Version (Security Assertion Markup Language) ab Version 2.0 unterstützt.
+Wenn Sie über einen Verzeichnisdienst verfügen, der Benutzer authentifiziert, können Sie die einmalige Anmeldung (SSO) in Marketo zulassen. Wir unterstützen diese Funktion mit [!DNL Security Assertion Markup Language] (SAML) Version 2.0 und höher.
 
 Marketo fungiert als SAML-Dienstanbieter (SP) und benötigt zur Authentifizierung von Benutzern einen externen Identitäts-Provider (IdP).
 
@@ -24,7 +24,7 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 
 >[!NOTE]
 >
->Sind Sie ein Benutzer von Microsoft Azure? Sehen Sie sich die [Integrations-Tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target=&quot;_blank&quot;}.
+>Bist du ein [!DNL Microsoft Azure] Benutzer? Sehen Sie sich die [Integrations-Tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
 
 ## Senden der Anforderung {#how-to-send-the-request}
 
@@ -54,53 +54,53 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 
 Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie diese Schritte aus, um SAML zu aktivieren und zu konfigurieren.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. Klicken **Single Sign-on**.
+1. Klicken **[!UICONTROL Single Sign-on]**.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie **Single Sign-on** under **Admin**, Kontakt [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+   >Wenn Sie **[!UICONTROL Single Sign-on]** under **[!UICONTROL Admin]**, Kontakt [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Unter dem **SAML-Einstellungen** Abschnitt, klicken Sie auf **Bearbeiten**.
+1. Unter dem **[!UICONTROL SAML-Einstellungen]** Abschnitt, klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. Änderung **SAML Single Sign-On** nach **Aktiviert**.
+1. Änderung **[!UICONTROL SAML Single Sign-On]** nach **[!UICONTROL Aktiviert]**.
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. Geben Sie Ihre **Aussteller-ID**, **Entitäts-ID**, wählen Sie die **Standort der Benutzer-ID** Klicken Sie auf **Durchsuchen**.
+1. Geben Sie Ihre **[!UICONTROL Aussteller-ID]**, **[!UICONTROL Entitäts-ID]**, wählen Sie die **[!UICONTROL Standort der Benutzer-ID]** Klicken Sie auf **[!UICONTROL Durchsuchen]**.
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. Wählen Sie Ihre **Identitätsanbieterzertifikat** -Datei.
+1. Wählen Sie Ihre **[!UICONTROL Identitätsanbieterzertifikat]** -Datei.
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## Einstellungen für Umleitungsseiten aktualisieren {#update-redirect-page-settings}
 
-1. Unter dem **Umleitungsseiten** Abschnitt, klicken Sie auf **Bearbeiten**.
+1. Unter dem **[!UICONTROL Umleitungsseiten]** Abschnitt, klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >Kunden, die eine universelle ID zusammen mit SSO verwenden, müssen die Anmelde-URL des Identitätsanbieters in die **Anmelde-URL** -Feld.
+   >Kunden, die eine universelle ID zusammen mit SSO verwenden, müssen die Anmelde-URL des Identitätsanbieters in die **[!UICONTROL Anmelde-URL]** -Feld.
 
-1. Geben Sie einen **Abmelde-URL**. Dies ist die URL, zu der der Benutzer weitergeleitet werden soll, wenn er sich von Marketo abmeldet.
+1. Geben Sie einen **[!UICONTROL Abmelde-URL]**. Dies ist die URL, zu der der Benutzer weitergeleitet werden soll, wenn er sich von Marketo abmeldet.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Geben Sie eine **Fehler-URL**. Dies ist die URL, zu der der Benutzer weitergeleitet werden soll, falls die Anmeldung bei Marketo fehlschlägt. Klicken **Speichern**.
+1. Geben Sie eine **[!UICONTROL Fehler-URL]**. Dies ist die URL, zu der der Benutzer weitergeleitet werden soll, falls die Anmeldung bei Marketo fehlschlägt. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
@@ -110,7 +110,7 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie diese Schri
 
 >[!MORELIKETHIS]
 >
->* [Verwendung einer universellen ID zur Anmeldung von Abonnements](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target=&quot;_blank&quot;}
->* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target=&quot;_blank&quot;}
->* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target=&quot;_blank&quot;}
+>* [Verwendung einer universellen ID zur Anmeldung von Abonnements](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
+>* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
 
