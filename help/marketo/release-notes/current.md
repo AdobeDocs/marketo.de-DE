@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 6%
+source-wordcount: '401'
+ht-degree: 7%
 
 ---
 
@@ -99,4 +99,4 @@ Interaktive Webinare werden schrittweise eingeführt. Um früheren Zugriff anzuf
 
 ## Ankündigungen {#announcements}
 
-* **_Webinar zur Produktversion_**: Treten Sie uns am 17. Mai 2023 um 9:00 Uhr PT / 23:00 Uhr ET bei [für ein Live-Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle neuesten Produktinnovationen verwenden, die sowohl in den Versionen März als auch Mai 1993 bereitgestellt wurden.
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

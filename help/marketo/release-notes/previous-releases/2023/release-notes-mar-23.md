@@ -2,9 +2,9 @@
 description: Versionshinweise - März 2023 - Marketo-Dokumente - Produktdokumentation
 title: März 2023 - Versionshinweise
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '582'
 ht-degree: 7%
 
 ---
@@ -179,4 +179,4 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 ## Ankündigungen {#announcements}
 
-* **_Webinar zur Produktversion_**: Treten Sie uns am 17. Mai 2023 um 9:00 Uhr PT / 23:00 Uhr ET bei [für ein Live-Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren können, wie Sie alle neuesten Produktinnovationen verwenden, die sowohl in den Versionen März als auch Mai 1993 bereitgestellt wurden.
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
