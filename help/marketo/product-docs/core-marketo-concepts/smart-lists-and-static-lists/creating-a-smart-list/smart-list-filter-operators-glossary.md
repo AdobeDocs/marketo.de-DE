@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Glossar zu Operatoren für intelligente Listenfilter - Marketo-Dokumente - Produktdokumentation
 title: Glossar zu Operatoren für intelligente Listenfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5ffb1a1931ccbc945ba535f72898a1b73154e47a
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '605'
 ht-degree: 12%
 
 ---
@@ -22,12 +22,12 @@ Im Folgenden finden Sie ein Glossar, in dem die einzelnen Operatoren beschrieben
 
 Wenn Sie einen Operator auswählen, ändert sich die rechte Seite dynamisch.
 
-| Operator | Rechts | Beschreibung |
+| Benutzerin oder Benutzer | Rechts | Beschreibung |
 |---|---|---|
 | ist | Einzeldatum | genaue Datumsübereinstimmung |
 | ist nicht | Einzeldatum | Jegliches Datum außer dem angegebenen |
 | zwischen | Zwei Datumsfelder | Jedes Datum einschließlich und zwischen zwei angegebenen Daten |
-| in Vergangenheit | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
+| in der Vergangenheit | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
 | in der Vergangenheit vor | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
 | in der Zukunft | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
 | in der Zukunft nach | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
@@ -55,7 +55,7 @@ Geben Sie einfach die Nummer und Einheit zusammen und es wird funktionieren!
 
 >[!CAUTION]
 >
->Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die **before** oder **auf oder vor** Einschränkungen enthält die intelligente Liste auch Personen, die in diesem Datumsfeld keinen Wert haben.
+>Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die Begrenzungen verwenden **before**, **auf oder vor** oder **in der Vergangenheit**, werden in die intelligente Liste auch Personen aufgenommen, die in dem Datumsfeld keinen Wert haben.
 
 Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoperatoren zu verstehen.
 
@@ -79,7 +79,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 
 ![](assets/image2014-9-10-17-3a16-3a6.png)
 
-| Operator | Beschreibung |
+| Benutzerin oder Benutzer | Beschreibung |
 |---|---|
 | ist | Exakte Übereinstimmung (nicht zwischen Groß- und Kleinschreibung unterscheiden) |
 | ist nicht | Alles außer exakter Übereinstimmung |
@@ -101,7 +101,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">Operator</th> 
+   <th colspan="1" rowspan="1">Benutzerin oder Benutzer</th> 
    <th colspan="1" rowspan="1">Beschreibung</th> 
   </tr> 
  </thead> 
