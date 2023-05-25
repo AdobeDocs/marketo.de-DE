@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Einschränken der Benutzeranmeldung auf "Nur SSO"- Marketo-Dokumente - Produktdokumentation
 title: Benutzeranmeldung auf SSO beschränken
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 7%
 
 ---
@@ -22,33 +22,33 @@ Wenn du [Verwendung von SSO](/help/marketo/product-docs/administration/additiona
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Klicken **Anmeldeeinstellungen**.
+1. Klicken **[!UICONTROL Anmeldeeinstellung]s**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. Klicken **Sicherheitseinstellungen bearbeiten**.
+1. Klicken **[!UICONTROL Sicherheitseinstellungen bearbeiten]**.
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. Erweitern Sie die erweiterten Einstellungen, aktivieren Sie **SSO erforderlich** und klicken Sie auf **Speichern**.
+1. Erweitern Sie die **[!UICONTROL Erweitert]** Einstellungen, überprüfen **[!UICONTROL SSO erforderlich]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachher_ Wenn die Einladung akzeptiert wird, sollten Administratoren sie dann auf &quot;SSO erforderlich&quot;setzen.
+>Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachher_ Wenn die Einladung angenommen wird, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich].&quot;
 
 >[!TIP]
 >
->Wenn Sie **SSO erforderlich**, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung durch Überprüfen der **Single Sign-on umgehen** -Option beim Einrichten der Rolle. Auf diese Weise können sich Benutzer normal anmelden. Beispielsweise müssen sich Admin-Benutzer möglicherweise weiterhin über den Anmeldebildschirm bei Marketo anmelden.
+>Wenn Sie **[!UICONTROL SSO erforderlich]**, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung durch Überprüfen der **[!UICONTROL Single Sign-on umgehen]** -Option beim Einrichten der Rolle. Auf diese Weise können sich Benutzer normal anmelden. Beispielsweise müssen sich Admin-Benutzer möglicherweise weiterhin über den Anmeldebildschirm bei Marketo anmelden.
 
 >[!CAUTION]
 >
->Wenn neue Benutzer eingeladen werden, erhalten sie Einladungs-E-Mails. Wenn **SSO erforderlich** ausgewählt ist, werden diese E-Mails nur dann empfangen, wenn ihnen eine Rolle zugewiesen wurde, die auf **Single Sign-on umgehen**.
+>Wenn neue Benutzer eingeladen werden, erhalten sie Einladungs-E-Mails. Wenn **[!UICONTROL SSO erforderlich]** ausgewählt ist, werden diese E-Mails nur dann empfangen, wenn ihnen eine Rolle zugewiesen wurde, die auf **[!UICONTROL Single Sign-on umgehen]**.
 
 Das ist es! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Berechtigung, Single Sign-On zu umgehen) auf die Verwendung der SSO-Anmeldung beschränkt.
 
