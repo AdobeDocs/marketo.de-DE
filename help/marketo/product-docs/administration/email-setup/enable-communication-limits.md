@@ -3,7 +3,7 @@ unique-page-id: 2360222
 description: Kommunikationsbeschränkungen aktivieren - Marketo-Dokumente - Produktdokumentation
 title: Kommunikationsbeschränkungen aktivieren
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 3%
@@ -18,35 +18,35 @@ Es ist sehr wichtig, nicht zu viel mit Ihren Leuten zu kommunizieren. Durch das 
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/enable-communication-limits-1.png)
 
-1. Klicken **Kommunikationsgrenzen**.
+1. Klicken **[!UICONTROL Kommunikationsgrenzen]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicken **[!UICONTROL Bearbeiten]**.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >Pro Tag basiert auf dem Kalendertag in der Zeitzone des Abonnements (Mitternacht).
+   >[!UICONTROL Pro Tag] basiert auf dem Kalendertag in der Zeitzone des Abonnements (Mitternacht).
 
-1. Klicken Sie auf **Pro Tag** und wählen Sie die gewünschte Begrenzung aus. In diesem Beispiel wählen wir 1.
+1. Klicken Sie auf **[!UICONTROL Pro Tag]** und wählen Sie die gewünschte Begrenzung aus. In diesem Beispiel wählen wir 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >Sie können auch **Benutzerdefiniert** , wenn keine der voreingestellten Optionen für Sie funktioniert.
+   >Sie können auch **[!UICONTROL Benutzerdefiniert]** , wenn keine der voreingestellten Optionen für Sie funktioniert.
 
-1. Klicken Sie auf **Pro 7 Tage** und wählen Sie die gewünschte Begrenzung aus. In diesem Beispiel wählen wir 5.
+1. Klicken Sie auf **[!UICONTROL Pro 7 Tage]** und wählen Sie die gewünschte Begrenzung aus. In diesem Beispiel wählen wir 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Auswählen **Nicht operative E-Mails blockieren**.
+1. Auswählen **[!UICONTROL Nicht operative E-Mails blockieren]**.
 
    ![](assets/enable-communication-limits-6.png)
 
@@ -54,7 +54,7 @@ Es ist sehr wichtig, nicht zu viel mit Ihren Leuten zu kommunizieren. Durch das 
    >
    >Erfahren Sie mehr darüber, was [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sind.
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/enable-communication-limits-7.png)
 

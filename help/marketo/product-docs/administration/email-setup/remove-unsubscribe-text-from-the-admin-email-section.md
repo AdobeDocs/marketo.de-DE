@@ -3,7 +3,7 @@ unique-page-id: 2360245
 description: Entfernen Sie den Abmeldungstext aus dem Abschnitt "Admin-E-Mail"- Marketo-Dokumente - Produktdokumentation
 title: Entfernen Sie den Abmelde-Text aus dem Abschnitt "Admin-E-Mail".
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 3%
@@ -12,17 +12,17 @@ ht-degree: 3%
 
 # Entfernen Sie den Abmelde-Text aus dem Abschnitt &quot;Admin-E-Mail&quot;. {#remove-unsubscribe-text-from-the-admin-email-section}
 
-Der einzige Grund, warum Sie den Inhalt der Abmeldung vollständig aus dem Bereich &quot;Admin > E-Mail&quot;entfernen sollten, besteht darin, den Abmelde-Link in die E-Mail-Vorlagen selbst zu integrieren. Das Textfeld verfügt über eine Validierung, die das Speichern ohne Inhalt nicht zulässt. Sie können dies umgehen, indem Sie einen kleinen HTML-Kommentar hinzufügen. Der HTML-Kommentar wird nicht im E-Mail-Client angezeigt, da er die E-Mail in HTML rendert und die Kommentare weggelassen werden. Hier ist, wie man das macht.
+Der einzige Grund, warum Sie den Inhalt der Abmeldung jemals vollständig aus der **[!UICONTROL Admin]** > **[!UICONTROL Email]** ist, wenn Sie den Abmelde-Link in die E-Mail-Vorlagen selbst erstellen möchten. Das Textfeld verfügt über eine Validierung, die das Speichern ohne Inhalt nicht zulässt. Sie können dies umgehen, indem Sie einen kleinen HTML-Kommentar hinzufügen. Der HTML-Kommentar wird nicht im E-Mail-Client angezeigt, da er die E-Mail in HTML rendert und die Kommentare weggelassen werden. Hier ist, wie man das macht.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
-1. Wählen Sie den gesamten Text aus und drücken Sie die **Löschen** Schlüssel.
+1. Wählen Sie den gesamten Text aus und drücken Sie die **[!UICONTROL Löschen]** Schlüssel.
 
    >[!CAUTION]
    >
@@ -32,7 +32,7 @@ Der einzige Grund, warum Sie den Inhalt der Abmeldung vollständig aus dem Berei
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. Klicken **Änderungen speichern**.
+1. Klicken **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 

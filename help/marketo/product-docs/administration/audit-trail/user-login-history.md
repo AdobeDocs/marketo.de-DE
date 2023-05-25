@@ -3,7 +3,7 @@ unique-page-id: 11377958
 description: User Login History - Marketo Docs - Produktdokumentation
 title: Anmeldeverlauf für Benutzer
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 5%
@@ -28,15 +28,15 @@ Der User Login History identifiziert Personen, die sich anmelden über:
 
 So zeigen Sie den Verlauf der Benutzeranmeldung an:
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/user-login-history-1.png)
 
-1. Klicken Sie unter &quot;Sicherheit&quot;auf **Benutzer und Rollen**.
+1. Klicken Sie unter &quot;Sicherheit&quot;auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/user-login-history-2.png)
 
-1. Klicken Sie auf **Anmeldeverlauf** Registerkarte. Die Liste enthält die neuesten Anmeldedaten.
+1. Klicken Sie auf **[!UICONTROL Anmeldeverlauf]** Registerkarte. Die Liste enthält die neuesten Anmeldedaten.
 
    ![](assets/user-login-history-3.png)
 
@@ -52,15 +52,15 @@ So zeigen Sie den Verlauf der Benutzeranmeldung an:
 
    ![](assets/user-login-history-6.png)
 
-1. Wählen Sie die Benutzer aus dem **Benutzer** Dropdown-Liste.
+1. Wählen Sie die Benutzer aus dem **[!UICONTROL Benutzer]** Dropdown-Liste.
 
    ![](assets/user-login-history-7.png)
 
-1. Überprüfen Sie die **Nur fehlgeschlagene Anmeldungen** , um nur fehlgeschlagene Anmeldungen bei der Suche anzuzeigen.
+1. Überprüfen Sie die **[!UICONTROL Nur fehlgeschlagene Anmeldungen]** , um nur fehlgeschlagene Anmeldungen bei der Suche anzuzeigen.
 
    ![](assets/user-login-history-8.png)
 
-1. Klicken **Anwenden**.
+1. Klicken **[!UICONTROL Anwenden]**.
 
    ![](assets/user-login-history-9.png)
 
@@ -68,6 +68,6 @@ So zeigen Sie den Verlauf der Benutzeranmeldung an:
    >
    >In der Benutzeroberfläche werden Daten von bis zu 30 Tagen angezeigt. Wenn Sie mehr benötigen, können Sie die Daten der letzten sechs Monate in eine CSV-Datei herunterladen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Audit-Protokoll - Überblick](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

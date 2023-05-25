@@ -2,7 +2,7 @@
 description: Filtern der E-Mail-Bot-Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Filtern der E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
@@ -30,25 +30,25 @@ Bei der Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute m
 
 ## Filtertyp auswählen {#select-filter-type}
 
-1. Klicken **Admin**.
+1. Klicken **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Klicken Sie auf **Bot-Aktivität** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Bot-Aktivität]** Registerkarte.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Wählen Sie **Übereinstimmung mit IAB-Liste**, **Übereinstimmung mit Näherungsmuster** oder beides. Auswählen, ob eine Bot-Aktivität protokolliert werden soll _oder_ Filtern von Bot-Aktivitäten.
+1. Wählen Sie **[!UICONTROL Übereinstimmung mit IAB-Liste]**, **[!UICONTROL Übereinstimmung mit Näherungsmuster]** oder beides. Festlegen, ob [!UICONTROL Logbot-Aktivität] _oder_ [!UICONTROL Bot-Aktivität filtern].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Wenn Sie &quot;Bot-Aktivität filtern&quot;auswählen, wird möglicherweise ein Rückgang bei E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten ausgeschaltet werden.
+>Wenn Sie [!UICONTROL Bot-Aktivität filtern]kann es zu einem Rückgang bei E-Mail-Öffnungen und Klicks kommen, da falsche Aktivitäten ausgeschaltet werden.
 
 **OPTIONALER SCHRITT**: Um diese Funktion zu deaktivieren, deaktivieren Sie einfach die Schieberegler. Wenn Sie deaktivieren, werden die Daten nicht zurückgesetzt.
 

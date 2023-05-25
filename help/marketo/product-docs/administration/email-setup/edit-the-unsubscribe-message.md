@@ -3,7 +3,7 @@ unique-page-id: 2360251
 description: Bearbeiten der Abmeldemeldung - Marketo Docs - Produktdokumentation
 title: Bearbeiten der Abmelde-Nachricht
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/mar
 
 ## Wo kann ich die Bearbeitung vornehmen? {#where-to-make-the-edit}
 
-1. Navigieren Sie zu **Admin** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,7 +36,7 @@ Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/mar
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 
-1. Bearbeiten Sie die **HTML abmelden** und **Text abmelden** Versionen nach Ihren Wünschen und klicken Sie auf **Änderungen speichern**.
+1. Bearbeiten Sie die **[!UICONTROL HTML abmelden]** und **[!UICONTROL Text abmelden]** Versionen nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
@@ -50,8 +50,8 @@ Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/mar
 
 Wenn Sie jemals zur standardmäßigen Systemabmeldung zurückkehren müssen, kopieren Sie Folgendes:
 
-HTML abmelden:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Text abmelden:
+[!UICONTROL HTML abmelden]:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Text abmelden]:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]

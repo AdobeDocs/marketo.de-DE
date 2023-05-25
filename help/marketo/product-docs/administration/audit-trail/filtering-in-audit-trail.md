@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: Filtern im Audit-Protokoll - Marketo-Dokumente - Produktdokumentation
 title: Filtern im Audit-Protokoll
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzer, durchgeführte Aktionen und mehr.
 
-1. Klicken **Admin**.
+1. Klicken **[!UICONTROL Admin]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. under **Sicherheit** auswählen **Audit-Protokoll**.
+1. under **[!UICONTROL Sicherheit]** auswählen **[!UICONTROL Audit-Protokoll]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -30,19 +30,19 @@ Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzer, durchgeführte Aktionen und me
    >
    >Es gibt eine Vielzahl möglicher Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _alle - von jedermann bearbeiteten - E-Mails in den letzten sieben Tagen_.
 
-1. Klicken Sie auf **Zeitraum** und wählen Sie **Letzte 7 Tage**.
+1. Klicken Sie auf **[!UICONTROL Zeitraum]** und wählen Sie **[!UICONTROL Letzte 7 Tage]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Klicken Sie auf **Asset-Typ** und wählen Sie **Email**.
+1. Klicken Sie auf **[!UICONTROL Asset-Typ]** und wählen Sie **[!UICONTROL Email]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Klicken Sie auf **Aktionen** und wählen Sie **Bearbeiten**.
+1. Klicken Sie auf **Actions** und wählen Sie **[!UICONTROL Bearbeiten]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Klicken **Anwenden**.
+1. Klicken **[!UICONTROL Anwenden]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 

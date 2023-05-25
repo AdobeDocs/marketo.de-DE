@@ -3,7 +3,7 @@ unique-page-id: 11377406
 description: Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
 title: Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -12,11 +12,11 @@ ht-degree: 3%
 
 # Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen {#edit-your-default-branding-domain-with-workspaces}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -26,15 +26,15 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >**Hinzufügen** funktioniert erst, wenn Sie die generische Domäne bearbeitet haben. **Löschen** funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
+   >**[!UICONTROL Hinzufügen]** funktioniert erst, wenn Sie die generische Domäne bearbeitet haben. **[!UICONTROL Löschen]** funktioniert erst, wenn Sie eine zweite Domäne hinzufügen.
    >
    >Sie können erst dann eine zusätzliche Domäne hinzufügen, wenn Sie die generische Domäne zum ersten Mal bearbeiten.
 
-1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf **Nächste**.
+1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

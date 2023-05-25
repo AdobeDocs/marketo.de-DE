@@ -3,7 +3,7 @@ unique-page-id: 2360253
 description: Bearbeiten Sie die Meldung "Als Webseite anzeigen"- Marketo Docs - Produktdokumentation
 title: Bearbeiten Sie die Meldung "Als Webseite anzeigen".
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 8%
@@ -20,11 +20,11 @@ Wenn Sie die[Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/g
 
 ## Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;. {#edit-the-view-as-web-page-message-1}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -34,9 +34,9 @@ Wenn Sie die[Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/g
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Der zweite Teil `##MKT_TOK##` ist das Munchkin-Cookie dieser Person. Dadurch wird sichergestellt, dass die Cookies beim Klicken auf den Link entsprechend Cookies erhalten.
+   >Der zweite Teil `##MKT_TOK##` ist die [!UICONTROL Munchkin] Cookie dieser Person. Dadurch wird sichergestellt, dass die Cookies beim Klicken auf den Link entsprechend Cookies erhalten.
 
-1. Bearbeiten Sie die **Als Webseiten-HTML anzeigen** und **Als Webseiten-Text anzeigen** Versionen nach Ihren Wünschen und klicken Sie auf **Änderungen speichern**.
+1. Bearbeiten Sie die **[!UICONTROL Als Webseiten-HTML anzeigen]** und **[!UICONTROL Als Webseiten-Text anzeigen]** Versionen nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,13 +52,13 @@ Da hast du es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 
 ## Standardtext &quot;Als Webseite anzeigen&quot; {#default-view-as-web-page-text}
 
-Wenn Sie jemals zum Standardsystem &quot;Als Webseite anzeigen&quot;zurückkehren müssen, kopieren/einfügen Sie Folgendes:
+Wenn Sie jemals zum Standardsystem zurückkehren müssen[!UICONTROL Als Webseite anzeigen]&quot;, kopieren/fügen Sie Folgendes ein:
 
-**Als Webseiten-HTML anzeigen:**
+**[!UICONTROL Als Webseiten-HTML anzeigen]**:
 
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
 
-**Als Webseitentext anzeigen:**
+**[!UICONTROL Als Webseitentext anzeigen]**:
 
 Um diese E-Mail als Webseite anzuzeigen, gehen Sie zur folgenden Adresse:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`

@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Übersicht über das Audit-Protokoll - Marketo-Dokumente - Produktdokumentation
 title: Audit-Protokoll - Überblick
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Mit dem Audit-Protokoll erhalten Sie einen vollständigen Verlauf (im Wert von s
 
 >[!NOTE]
 >
->Der Verlauf der Audit-Protokolldaten begann am 14. September 2016.
+>Der Datenverlauf des Audit-Protokolls begann am 14. September 2016.
 
 ![](assets/audit-trail-overview-1.png)
 
@@ -77,7 +77,7 @@ Sie können nur Daten im Wert von 30 Tagen in Ihrer Instanz anzeigen. Verwenden 
 >
 >**Definition**
 >
->**unbekannt:** Im Audit-Protokoll werden der Name und die E-Mail eines Benutzers möglicherweise als &quot;Unbekannt&quot;aufgeführt. Dies geschieht, wenn Sie Ihre Picklist-Werte in Ihrem CRM-System ändern. Diese Werte werden in Marketo forms und Landingpages angezeigt. Durch diese Aktualisierung auf der CRM-Seite werden Ihre Landingpages, die auf das Formular verweisen, automatisch entworfen. Im Audit-Protokoll wird erfasst, dass die Landingpage entworfen wurde. Der Name des Benutzers und die E-Mail-Adresse werden jedoch als &quot;Unbekannt&quot;angezeigt, da wir die Benutzerinformationen nicht von der CRM-Seite aus erfassen können.
+>**unbekannt:** In [!DNL Webhook]angezeigt, werden der Name und die E-Mail eines Benutzers möglicherweise als &quot;Unbekannt&quot;aufgelistet. Dies geschieht, wenn Sie Ihre Picklist-Werte in Ihrem CRM-System ändern. Diese Werte werden in Marketo forms und Landingpages angezeigt. Durch diese Aktualisierung auf der CRM-Seite werden Ihre Landingpages, die auf das Formular verweisen, automatisch entworfen. In [!DNL Webhook], werden wir erfassen, dass die Landingpage entworfen wurde, aber der Name und die E-Mail des Benutzers werden als &quot;Unbekannt&quot;angezeigt, da wir die Benutzerinformationen nicht von der CRM-Seite aus erfassen können.
 
 >[!MORELIKETHIS]
 >
