@@ -2,10 +2,10 @@
 description: Verstehen der Versandoptionen von Verkaufskampagnen für E-Mail-Schritte - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu den Versandoptionen von Vertriebskampagnen für E-Mail-Schritte
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+source-git-commit: 1934cbd4a941fdfc1110c6934da66e58042aa572
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 3%
+source-wordcount: '681'
+ht-degree: 2%
 
 ---
 
@@ -19,16 +19,16 @@ Wenn es Ihr erster Schritt und der erste Tag in Ihrer Vertriebskampagne ist, hab
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
-Ich werde entscheiden, wann diese E-Mail gesendet werden soll
+### Ich werde entscheiden, wann diese E-Mail gesendet werden soll {#first-step-i-will-choose}
 
 * Mit dieser Option können Sie die &quot;Versandzeit&quot;für die erste E-Mail in Ihrer Vertriebskampagne auswählen, wenn Sie die Verkaufskampagne starten, indem Sie Personen hinzufügen.
 
-Diese E-Mail zum folgenden Zeitpunkt senden
+### Diese E-Mail zum folgenden Zeitpunkt senden {#first-step-following-time}
 
 * Wenn Sie Ihre Vertriebskampagne durch Hinzufügen von Personen starten, planen wir die E-Mail für diese Zeit.
 * Sie haben immer die Möglichkeit, einen neuen &quot;Versand am&quot;-Zeitpunkt zu wählen, wenn Sie Ihre Vertriebskampagne starten.
 
-Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden
+### Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden {#first-step-create-a-task}
 
 * Mit dieser Option wird eine E-Mail-Aufgabe (und eine Synchronisation mit Salesforce) erstellt, die Sie nach Belieben versenden können.
 * Wenn Sie diese Auswahl getroffen haben und Ihre Vertriebskampagne starten, werden wir diese Aufgaben im Command Center und im Live Feed für Sie in die Warteschlange stellen. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie abläuft.
@@ -40,17 +40,17 @@ Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden
 
 Für alle nachfolgenden Tage/Schritte in Ihrer Verkaufskampagne stehen folgende Optionen zur Verfügung:
 
-Senden Sie diese E-Mail gleichzeitig mit der vorherigen E-Mail in dieser Verkaufskampagne
+### Senden Sie diese E-Mail gleichzeitig mit der vorherigen E-Mail in dieser Verkaufskampagne {#subsequent-send-at-same-time}
 
 * Diese Option sendet die E-Mail gleichzeitig mit der E-Mail direkt vor der E-Mail.
 * Er wird weiterhin an dem Tag gesendet, an dem er verknüpft ist.
 
-Diese E-Mail zum folgenden Zeitpunkt senden
+### Diese E-Mail zum folgenden Zeitpunkt senden {#subsequent-send-at-following-time}
 
 * Wenn Sie Ihre Vertriebskampagne durch Hinzufügen von Personen starten, planen wir die E-Mail für diese Zeit.
 * Sie haben immer die Möglichkeit, einen neuen &quot;Versand am&quot;-Zeitpunkt zu wählen, wenn Sie Ihre Vertriebskampagne starten.
 
-Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden
+### Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden {#subsequent-create-a-task}
 
 * Mit dieser Option wird eine E-Mail-Aufgabe (und eine Synchronisation mit Salesforce) erstellt, die Sie nach Belieben versenden können.
 * Sobald Sie diese Auswahl getroffen haben, werden diese Aufgaben beim Start Ihrer Sales Campaign mit Sales Insight Actions im Command Center und im Live Feed in die Warteschlange gestellt. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie abläuft.
@@ -58,12 +58,17 @@ Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden
    * Wenn Sie diese Aufgabe in unserer Webanwendung öffnen, wird ein Komprimierungsfenster mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
    * Wenn Sie diese Aufgabe in Gmail oder Outlook öffnen, wird ein natives Komprimierungsfenster geöffnet, in dem Sie die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage dynamisch ausfüllen.
 
-Diese E-Mail an die vorherige E-Mail senden
+### Erstellen Sie diese E-Mail im Anschluss an die vorherige E-Mail in dieser Kampagne. {#subsequent-create-this-email}
 
-* Diese Versandoption ist eine &#39;Follow-up&#39;-Aktion zu Ihrer vorherigen E-Mail und hängt den vorherigen E-Mail-Textkörper an den Ende dieser E-Mail an.
+* Aktivieren Sie dieses Kontrollkästchen, wenn die vorherige E-Mail in Ihrer Verkaufskampagne an die nächste E-Mail angehängt werden soll, die Ihre Verkaufskampagne versendet.
+* Für die angehängte Kopie der E-Mail wird die E-Mail-Vorlage in Ihrer Verkaufskampagne immer gesendet. Änderungen, die der Benutzer vor dem Versand vorgenommen hat, werden nicht in den Versand einbezogen.
+
+>[!NOTE]
+>
+>Diese Option zum Erstellen einer E-Mail als Follow-up ist nur bei einem E-Mail-Schritt verfügbar, wenn der vorherige Schritt auch eine E-Mail ist. Wenn der vorherige Schritt &quot;Aufruf&quot;, &quot;InMail&quot;oder &quot;Benutzerdefiniert&quot;lautet, wird die Option zum Erstellen einer Nachverfolgung nicht angezeigt.
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer Verkaufskampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
->[Schritttypen und Erinnerungsaufgaben für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->[Einstellungen für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
+>[Erstellen einer Verkaufskampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Schritttypen und Erinnerungsaufgaben für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Einstellungen für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
