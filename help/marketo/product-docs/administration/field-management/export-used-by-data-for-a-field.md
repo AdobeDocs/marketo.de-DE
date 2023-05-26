@@ -3,9 +3,9 @@ unique-page-id: 45417092
 description: Exportieren anhand von Daten für ein Feld - Marketo-Dokumente - Produktdokumentation
 title: Exportieren anhand von Daten für ein Feld
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 4%
 
 ---
@@ -18,11 +18,11 @@ Als Administrator haben Sie die Möglichkeit, verwandte Assets eines Felds zu ex
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Klicken **Feldverwaltung**.
+1. Klicken **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -30,11 +30,11 @@ Als Administrator haben Sie die Möglichkeit, verwandte Assets eines Felds zu ex
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Klicken Sie auf **Feldaktionen** und wählen Sie **Von**.
+1. Klicken Sie auf **[!UICONTROL Feldaktionen]** und wählen Sie **[!UICONTROL Von]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Eine Excel-Datei wird exportiert. Öffnen Sie es, um seinen Inhalt anzuzeigen.
+1. Ein [!DNL Excel] -Datei exportiert. Öffnen Sie es, um seinen Inhalt anzuzeigen.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

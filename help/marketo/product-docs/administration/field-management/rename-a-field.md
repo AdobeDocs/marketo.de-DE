@@ -3,7 +3,7 @@ unique-page-id: 2360293
 description: Umbenennen eines Felds - Marketo Docs - Produktdokumentation
 title: Umbenennen eines Felds
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 4%
@@ -20,11 +20,11 @@ ht-degree: 4%
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/rename-a-field-1.png)
 
-1. Klicken **Feldverwaltung**.
+1. Klicken **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -34,9 +34,9 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >Klicken Sie auf **Verwendet von** -Link, um Assets zu suchen, die dieses Feld referenzieren.
+   >Klicken Sie auf **[!UICONTROL Verwendet von]** -Link, um Assets zu suchen, die dieses Feld referenzieren.
 
-1. Benennen Sie das Feld um und klicken Sie auf **Speichern**.
+1. Benennen Sie das Feld um und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/rename-a-field-4.png)
 

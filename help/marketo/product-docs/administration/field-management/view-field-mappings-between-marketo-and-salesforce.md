@@ -1,28 +1,28 @@
 ---
 unique-page-id: 2360344
-description: Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce - Marketo Docs - Produktdokumentation
-title: Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce
+description: "Anzeigen von Feldzuordnungen zwischen Marketo und [!DNL Salesforce] - Marketo-Dokumente - Produktdokumentation"
+title: "Anzeigen von Feldzuordnungen zwischen Marketo und [!DNL Salesforce]"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '93'
 ht-degree: 5%
 
 ---
 
-# Anzeigen von Feldzuordnungen zwischen Marketo und Salesforce {#view-field-mappings-between-marketo-and-salesforce}
+# Anzeigen von Feldzuordnungen zwischen Marketo und [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmtes Marketo-Feld verknüpft ist. Hier ist, wie man das überprüft.
+Sie möchten vielleicht wissen, welche [!DNL Salesforce] Felder, an die ein bestimmtes Marketo-Feld gebunden ist. Hier ist, wie man das überprüft.
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. Klicken **Feldverwaltung**.
+1. Klicken **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
@@ -32,8 +32,8 @@ Möglicherweise möchten Sie wissen, mit welchen Salesforce-Feldern ein bestimmt
 
 >[!NOTE]
 >
->Hier wird der Salesforce-API-Name und nicht der Beschriftungsname angezeigt.
+>Dies zeigt die [!DNL Salesforce] API-Name, nicht Beschriftungsname.
 
 >[!IMPORTANT]
 >
->Die aufgeführten Felder spiegeln nur Daten aus der ersten Zuordnung wider. Sie werden nach der Synchronisierung von Marketo/Salesforce nicht aktualisiert.
+>Die aufgeführten Felder spiegeln nur Daten aus der ersten Zuordnung wider. Sie werden nach dem Marketo/ nicht aktualisiert.[!DNL Salesforce] synchronisieren.

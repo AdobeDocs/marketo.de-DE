@@ -3,7 +3,7 @@ unique-page-id: 2360346
 description: Feldalias für Listenimport bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Feldalias für Listenimport bearbeiten
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 3%
@@ -18,11 +18,11 @@ Wenn Sie eine Liste mit unbekannten Headern importieren, können Sie Feldaliasen
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. Klicken **Feldverwaltung**.
+1. Klicken **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -30,17 +30,17 @@ Wenn Sie eine Liste mit unbekannten Headern importieren, können Sie Feldaliasen
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. Im **Feldaktionen** Dropdown, klicken Sie auf **Importalias bearbeiten**.
+1. Im **[!UICONTROL Feldaktionen]** Dropdown, klicken Sie auf **[!UICONTROL Importalias bearbeiten]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
-1. Geben Sie einen Alias ein und klicken Sie auf **Speichern**.
+1. Geben Sie einen Alias ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
->Klicken **Weitere hinzufügen** und geben Sie bei Bedarf weitere Alias ein.
+>Klicken **[!UICONTROL Weitere hinzufügen]** und geben Sie bei Bedarf weitere Alias ein.
 
 Schau dir das an! Wenn Sie jetzt eine Tabelle mit einer Spalte namens &quot;DOB&quot;importieren, erkennt Marketo sie automatisch als &quot;Geburtsdatum&quot;und importiert die Daten in das richtige Feld.
 

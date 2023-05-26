@@ -3,7 +3,7 @@ unique-page-id: 2951259
 description: Glossar zu benutzerdefinierten Feldtypen - Marketo-Dokumente - Produktdokumentation
 title: Glossar zum benutzerdefinierten Feldtyp
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 2%
@@ -24,7 +24,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 >[!NOTE]
 >
->Die meisten Felder überschreiten nicht die maximale Zeichenanzahl, sondern die maximale Byte-Zeichenanzahl. Daher können wir für jedes Feld keine endgültige Zeichenbegrenzung festlegen. Die Ausnahme ist **Zeichenfolge**, der bei 255 Zeichen maximal zulässig ist.
+>Die meisten Felder überschreiten nicht die maximale Zeichenanzahl, sondern die maximale Byteanzahl. Daher können wir für jedes Feld keine endgültige Zeichenbegrenzung festlegen. Die Ausnahme ist **Zeichenfolge**, der bei 255 Zeichen maximal zulässig ist.
 
 ## Boolesch {#boolean}
 
@@ -66,7 +66,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Benutzer**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
-## Gleitkomma {#float}
+## Fließkommazahl {#float}
 
 **Beispielname:** Durchschnittswert des Punkts der Bewertung - Behalten Sie den Durchschnittswert des Punkts einer Person oder einen anderen numerischen Wert mit Dezimalstellen bei.
 
@@ -80,7 +80,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** die verknüpfte Lösung überprüfen
 
-## Ganze Zahl {#integer}
+## Ganzzahl {#integer}
 
 **Beispielname:** Anzahl der Mitarbeiter - Speichern Sie einen Zahlenwert, der keine Dezimalstellen erfordert
 
@@ -106,7 +106,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 ## Bewertung {#score}
 
-**Beispielname:** Verhaltensbewertung/demografische Punktzahl - Erstellen Sie mehrere Punktfelder, um verschiedene Attribute zu verfolgen.
+**Beispielname:** Verhaltensbewertung/demografische Punktzahl - Erstellen Sie mehrere Bewertungsfelder, um verschiedene Attribute zu verfolgen.
 
 **Beispielwert:** 14
 

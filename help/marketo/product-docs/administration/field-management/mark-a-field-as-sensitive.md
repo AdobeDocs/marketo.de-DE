@@ -2,7 +2,7 @@
 description: Kennzeichnen eines Felds als vertraulich - Marketo-Dokumente - Produktdokumentation
 title: Feld als vertraulich markieren
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Als Marketo-Administrator können Sie ein bestimmtes Feld als &quot;sensibel&quo
 >
 >Diese Funktion wird am Dienstag, den 11. Mai, für alle Marketo-Instanzen aktiviert.
 
-1. Klicken **Admin**.
+1. Klicken **[!UICONTROL Admin]**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Klicken **Feldverwaltung**.
+1. Klicken **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -29,7 +29,7 @@ Als Marketo-Administrator können Sie ein bestimmtes Feld als &quot;sensibel&quo
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Wählen Sie die **Feld als vertraulich markieren** aktivieren.
+1. Wählen Sie die **[!UICONTROL Feld als vertraulich markieren]** aktivieren.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 
