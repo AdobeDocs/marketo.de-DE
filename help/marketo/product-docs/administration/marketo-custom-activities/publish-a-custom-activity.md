@@ -3,7 +3,7 @@ unique-page-id: 10100272
 description: Benutzerdefinierte Aktivität veröffentlichen - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Aktivität veröffentlichen
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 6%
@@ -14,11 +14,11 @@ ht-degree: 6%
 
 Sie verfügen über Ihre benutzerdefinierte Aktivität genau so, wie Sie es möchten. Jetzt ist es Zeit, es zu veröffentlichen!
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/publish-a-custom-activity-1.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Aktivitäten**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/publish-a-custom-activity-2.png)
 
@@ -26,15 +26,15 @@ Sie verfügen über Ihre benutzerdefinierte Aktivität genau so, wie Sie es möc
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Klicken Sie auf **Benutzerdefinierte Aktivitätsaktionen** und wählen Sie **Veröffentlichungsaktivität**.
+1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Aktivitätsaktionen]** und wählen Sie **[!UICONTROL Veröffentlichungsaktivität]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Der Status Ihrer benutzerdefinierten Aktivität wird von Entwurf übernommen..
+   Sie sehen die [!UICONTROL state] von [!UICONTROL Entwurf]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...auf Veröffentlicht.
+   ...nach [!UICONTROL Veröffentlicht].
 
    ![](assets/publish-a-custom-activity-6.png)
 

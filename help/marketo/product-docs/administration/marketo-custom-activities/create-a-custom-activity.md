@@ -3,7 +3,7 @@ unique-page-id: 10098479
 description: Erstellen einer benutzerdefinierten Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Aktivität erstellen
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 4%
@@ -18,19 +18,19 @@ Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu er
 >
 >Die meisten Abonnements haben eine Grenze von 10 benutzerdefinierten Aktivitätstypen.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Aktivitäten**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/create-a-custom-activity-2.png)
 
-1. Klicken **Neue benutzerdefinierte Aktivität**.
+1. Klicken **[!UICONTROL Neue benutzerdefinierte Aktivität]**.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. Geben Sie einen Namen und eine optionale Beschreibung ein und klicken Sie auf **Nächste**. Der API-Name wird automatisch ausgefüllt, kann jedoch angepasst werden.
+1. Geben Sie einen Namen und optional ein [!UICONTROL Beschreibung]Klicken Sie auf **[!UICONTROL Nächste]**. Der API-Name wird automatisch ausgefüllt, kann jedoch angepasst werden.
 
    ![](assets/create-a-custom-activity-4.png)
 
@@ -38,7 +38,7 @@ Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu er
    >
    >Wenn Sie den API-Namen ändern möchten, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivitäten in Konflikt gerät.
 
-1. Definieren Sie Ihre **Filter** und **Trigger** und klicken Sie auf **Nächste**.
+1. Definieren Sie Ihre [!UICONTROL Filter] und [!UICONTROL Trigger] und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

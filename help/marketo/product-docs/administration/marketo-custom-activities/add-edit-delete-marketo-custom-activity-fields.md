@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten/löschen - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten/löschen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 5%
@@ -16,15 +16,15 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
 ## Benutzerdefiniertes Aktivitätsfeld hinzufügen {#add-a-custom-activity-field}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Aktivitäten**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. Klicken **Felder**.
+1. Klicken **[!UICONTROL Felder]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -32,11 +32,11 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. Klicken **Neues Feld**.
+1. Klicken **[!UICONTROL Neues Feld]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Wählen Sie den Datentyp des Felds aus.
+1. Wählen Sie die [!UICONTROL Datentyp].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -44,7 +44,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
    >
    >Nicht sicher, was Sie auswählen können? Wir haben dich verdeckt! Alle verfügbaren Datentypen werden in [diesem Artikel](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **Speichern**.
+1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
@@ -52,15 +52,15 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
 ## Benutzerdefiniertes Aktivitätsfeld bearbeiten {#edit-a-custom-activity-field}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Aktivitäten**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. Klicken **Felder**.
+1. Klicken **[!UICONTROL Felder]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -68,7 +68,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. Wählen Sie das Feld aus, das Sie bearbeiten möchten, und klicken Sie auf das **Feldaktionen** und wählen Sie **Feld bearbeiten**.
+1. Wählen Sie das Feld aus, das Sie bearbeiten möchten, und klicken Sie auf das **[!UICONTROL Feldaktionen]** und wählen Sie **[!UICONTROL Feld bearbeiten]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -76,7 +76,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Geben Sie den neuen Namen und den API-Namen ein und klicken Sie auf **Speichern**.
+1. Geben Sie den neuen Namen und den API-Namen ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
@@ -96,15 +96,15 @@ Ihr Feld wurde bearbeitet!
 
 ## Benutzerdefiniertes Aktivitätsfeld löschen {#delete-a-custom-activity-field}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Aktivitäten**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. Klicken **Felder**.
+1. Klicken **[!UICONTROL Felder]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -112,6 +112,6 @@ Ihr Feld wurde bearbeitet!
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. Wählen Sie das Feld aus, das Sie löschen möchten, und klicken Sie auf das **Feldaktionen** und wählen Sie **Feld löschen**.
+1. Wählen Sie das Feld aus, das Sie löschen möchten, und klicken Sie auf das **[!UICONTROL Feldaktionen]** und wählen Sie **[!UICONTROL Feld löschen]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)
