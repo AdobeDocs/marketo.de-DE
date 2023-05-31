@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Konfigurieren von Protokollen für Marketo - Marketo Docs - Produktdokumentation
 title: Protokolle für Marketo konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
+source-git-commit: 5a8fe88dec5f2bf9c94c0a08a5515b87bc6dcaa9
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1024'
 ht-degree: 3%
 
 ---
@@ -68,14 +68,23 @@ Wenn Ihre Marketing-Gruppe Marketo zum Versand von Test-E-Mails verwendet (eine 
 
 Fügen Sie diese IP-Adressen zu Ihrer Unternehmens-Zulassungsliste hinzu:
 
-199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
-185.28.196.0/22\
-130.248.172.0/24\
-130.248.173.0/24\
-103.237.104.0/22\
 94.236.119.0/26
+
+103.237.104.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+130.248.244.88/29
+
+185.28.196.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+199.15.212.0/22
 
 Einige Anti-Spam-Systeme verwenden für die Zulässigkeit das Feld Rückkehrpfad der E-Mail anstelle der IP-Adresse. In diesen Fällen ist der beste Ansatz die Zulassungsliste &quot;&#42;.mktomail.com&#39;, da Marketo mehrere Postfach-Subdomains verwendet. Andere Anti-Spam-Systeme werden basierend auf der Absenderadresse auf die Zulassungsliste gesetzt. Stellen Sie in diesen Situationen sicher, dass Sie alle sendenden (&quot;Von&quot;) Domänen einschließen, die Ihre Marketing-Gruppe zur Kommunikation mit Personen/Leads verwendet.
 
@@ -131,16 +140,10 @@ Die folgenden Tabellen enthalten alle Marketo Engage-Server, die ausgehende Aufr
    <th>IP-Block (CIDR-Notation)</th>
   </tr>
   <tr>
-   <td>192.28.144.0/20</td>
+   <td>94.236.119.0/26</td>
   </tr>
-   <tr>
-   <td>192.28.160.0/19</td>
-  </tr>
-   <tr>
-   <td>199.15.212.0/22</td>
-  </tr>
-   <tr>
-   <td>185.28.196.0/22</td>
+  <tr>
+   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>
@@ -149,10 +152,19 @@ Die folgenden Tabellen enthalten alle Marketo Engage-Server, die ausgehende Aufr
    <td>130.248.173.0/24</td>
   </tr>
   <tr>
-   <td>103.237.104.0/22</td>
+   <td>130.248.244.88/29</td>
   </tr>
   <tr>
-   <td>94.236.119.0/26</td>
+   <td>185.28.196.0/22</td>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+  <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+  <tr>
+   <td>199.15.212.0/22</td>
   </tr>
  </tbody>
 </table>
