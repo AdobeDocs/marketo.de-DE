@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: Bearbeiten und Löschen von benutzerdefinierten Marketo-Objektfeldern - Marketo Docs - Produktdokumentation
 title: Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Manchmal müssen Sie ein Feld bearbeiten, das noch nicht genehmigt wurde.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Klicken Sie auf der Registerkarte Felder auf **Feldaktionen** und **Feld bearbeiten**.
+1. Im [!UICONTROL Felder] Registerkarte, klicken Sie auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld bearbeiten]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **Speichern**.
+1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -40,18 +40,18 @@ Manchmal müssen Sie ein Feld bearbeiten, das noch nicht genehmigt wurde.
 
 Wenn Sie ein Feld in einem benutzerdefinierten Objekt nicht mehr benötigen, können Sie es löschen.
 
-1. Klicken Sie auf der Registerkarte Felder auf **Feldaktionen** und **Feld löschen**.
+1. Klicken Sie auf der Registerkarte Felder auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld löschen]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-   Stellen Sie sicher, dass Sie das Feld wirklich löschen möchten, bevor Sie den Trigger abrufen! Klicken **Löschen**.
+1. Stellen Sie sicher, dass Sie das Feld wirklich löschen möchten, bevor Sie den Trigger abrufen! Klicken **[!UICONTROL Löschen]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-   Es ist weg!
+Es ist weg!
 
-   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
+![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
-   >[!NOTE]
-   >
-   >[Benutzerdefinierte Marketo-Objektfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[!NOTE]
+>
+>[Benutzerdefinierte Marketo-Objektfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)

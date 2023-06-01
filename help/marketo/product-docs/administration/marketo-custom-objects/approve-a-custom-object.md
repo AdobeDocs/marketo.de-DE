@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Genehmigen eines benutzerdefinierten Objekts - Marketo-Dokumente - Produktdokumentation
 title: Genehmigen eines benutzerdefinierten Objekts
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 1%
@@ -18,11 +18,11 @@ Sie müssen ein benutzerdefiniertes Objekt genehmigen, bevor Sie es verwenden k�
 
 Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. So kann man es genehmigen.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -30,11 +30,11 @@ Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. So kann man es gen
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Klicken Sie auf **Benutzerdefinierte Objektaktionen** und wählen Sie **Objekt genehmigen**.
+1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Objektaktionen]** und wählen Sie **[!UICONTROL Objekt genehmigen]**.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. Der Status ändert sich in Genehmigt .
+1. Der Status ändert sich in [!UICONTROL Genehmigt].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -54,14 +54,14 @@ Das ist es! Jetzt können Sie Ihr benutzerdefiniertes Objekt in den Begrenzungen
 
 Nachdem Sie ein genehmigtes benutzerdefiniertes Objekt bearbeitet haben, müssen Sie den Entwurf genehmigen, um das benutzerdefinierte Objekt in den Status &quot;Genehmigt&quot;zurückzugeben.
 
-1. Wenn Sie ein bereits genehmigtes benutzerdefiniertes Objekt bearbeiten, erhält es den Status Genehmigt mit Entwurf .
+1. Wenn Sie ein bereits genehmigtes benutzerdefiniertes Objekt bearbeiten, erhält es eine [!UICONTROL Genehmigt mit Entwurf] state.
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. Wenn Sie bereit sind, den Entwurf zu genehmigen, klicken Sie auf die Schaltfläche **Benutzerdefinierte Objektaktionen** und wählen Sie **Objekt genehmigen**.
+1. Wenn Sie bereit sind, den Entwurf zu genehmigen, klicken Sie auf die Schaltfläche **[!UICONTROL Benutzerdefinierte Objektaktionen]** und wählen Sie **[!UICONTROL Objekt genehmigen]**.
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. Eine Vorschau zeigt die Elemente an, die im Entwurf geändert wurden. Klicken **Genehmigen**.
+1. Eine Vorschau zeigt die Elemente an, die im Entwurf geändert wurden. Klicken **[!UICONTROL Genehmigen]**.
 
    ![](assets/approve-a-custom-object-8.png)

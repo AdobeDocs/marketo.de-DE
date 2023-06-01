@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Benutzerdefinierte Marketo-Objektfelder hinzufügen - Marketo Docs - Produktdokumentation
 title: Benutzerdefinierte Marketo-Objektfelder hinzufügen
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '293'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie Felder hi
 
 Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag, um benutzerdefinierte Objekte zu verbinden. Sie werden in einer [separater Artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -28,7 +28,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. Im **Felder** Registerkarte, klicken Sie auf **Neues Feld**.
+1. Klicken Sie auf **[!UICONTROL Felder]** tab, dann **[!UICONTROL Neues Feld]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -36,7 +36,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
    >
    >Die drei oben gezeigten Felder werden von Marketo automatisch erstellt, wenn Sie ein benutzerdefiniertes Objekt erstellen. Marketo verwaltet diese Felder automatisch und Sie können sie weder bearbeiten noch löschen.
 
-1. Geben Sie einen Anzeigenamen und eine Beschreibung ein.
+1. Geben Sie einen [!UICONTROL Anzeigename] und (optional) [!UICONTROL Beschreibung].
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -44,11 +44,11 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
    >
    >Der API-Name kann nur bearbeitet werden, bis er genehmigt wurde.
 
-1. Wählen Sie nun einen geeigneten Datentyp aus der Liste aus.
+1. Wählen Sie nun eine geeignete [!UICONTROL Datentyp] aus der Liste.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Ziehen Sie den Regler Deduplizieren , wenn Sie das neue Feld als eindeutige Kennung verwenden möchten. Klicken **Speichern** zu beenden.
+1. Ziehen Sie die [!UICONTROL Dedupe] zurück, wenn Sie das neue Feld als eindeutige Kennung verwenden möchten. Klicken **[!UICONTROL Speichern]** zu beenden.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

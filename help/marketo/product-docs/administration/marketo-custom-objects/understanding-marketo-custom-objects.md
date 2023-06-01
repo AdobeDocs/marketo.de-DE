@@ -3,7 +3,7 @@ unique-page-id: 10093188
 description: Grundlegendes zu benutzerdefinierten Marketo-Objekten - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu benutzerdefinierten Marketo-Objekten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 2%
@@ -42,11 +42,11 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 ## Zugriff auf benutzerdefinierte Marketo-Objekte {#accessing-marketo-custom-objects}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Klicken **Benutzerdefinierte Marketo-Objekte**.
+1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -68,17 +68,17 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 ## Anzeigen benutzerdefinierter Objekte, die einer Person zugeordnet sind {#view-custom-objects-associated-to-a-person}
 
-Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen Objektdaten mithilfe des Linkfelds im benutzerdefinierten Objekt automatisch mit Personen in der Datenbank verknüpft. Sie können Informationen auf der Registerkarte &quot;Benutzerdefinierte Objekte&quot;auf der Seite mit den Personendetails anzeigen.
+Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen Objektdaten mithilfe des Linkfelds im benutzerdefinierten Objekt automatisch mit Personen in der Datenbank verknüpft. Sie können Informationen aus dem [!UICONTROL Benutzerdefinierte Objekte] auf der Seite mit den Personendetails.
 
-1. Navigieren Sie zu **Datenbank**.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Öffnen Sie Ihre Datenbank und klicken Sie auf **Personen** Registerkarte. Doppelklicken Sie auf den Datensatz für eine Person, die Sie mit einem benutzerdefinierten Objekt verknüpft haben.
+1. Öffnen Sie Ihre Datenbank und klicken Sie auf **[!UICONTROL Personen]** Registerkarte. Doppelklicken Sie auf den Datensatz für eine Person, die Sie mit einem benutzerdefinierten Objekt verknüpft haben.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Klicken Sie auf der Personendetailseite auf die **Benutzerdefinierte Objekte** Registerkarte. Wählen Sie das Objekt aus der Dropdown-Liste aus.
+1. Klicken Sie auf der Personendetailseite auf die **[!UICONTROL Benutzerdefinierte Objekte]** Registerkarte. Wählen Sie das Objekt aus der Dropdown-Liste aus.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 

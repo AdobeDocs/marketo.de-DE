@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: Trigger von benutzerdefinierten Objektänderungen - Marketo Docs - Produktdokumentation
 title: Trigger von benutzerdefinierten Objektänderungen
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 >
 >Diese Funktion ist nur verfügbar:
 >
->* Für Kunden in der Orion-Infrastruktur
->* Nur für die Verwendung mit benutzerdefinierten Marketo-Objekten, nicht jedoch für benutzerdefinierte Objekte, die durch die native Salesforce- oder Microsoft Dynamics-Integration synchronisiert werden
+>* Für Kunden auf der [!DNL Orion] Infrastruktur
+>* Nur für die Verwendung mit benutzerdefinierten Marketo-Objekten, nicht für benutzerdefinierte Objekte, die über die nativen [!DNL Salesforce] oder [!DNL Microsoft Dynamics] Integration
 >* Trigger, kein Filter
 >
 >Bitte kontaktieren Sie uns [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) , damit die Trigger für die benutzerdefinierte Objektänderung aktiviert sind.
@@ -28,7 +28,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger hab
 >
 >Ein Aktivitätsprotokolleintrag wird nicht erstellt, wenn ein benutzerdefinierter Objektdatensatz geändert wird.
 
-1. Navigieren Sie in Marketo zu **Marketingaktivitäten.**
+1. Gehen Sie im Marketo Engage zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger hab
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Wählen Sie das Attribut Trigger aus.
+1. Wählen Sie die [!UICONTROL Trigger-Attribut].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
