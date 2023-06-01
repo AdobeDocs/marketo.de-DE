@@ -2,9 +2,9 @@
 description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 44cca5ebad831cc39babac87ac9ebbf53df6c795
+source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,40 @@ Für Adobe Marketo Engage-Abonnements müssen alle Benutzer, die keine API verwe
 
 Wenn ein Administrator einen Benutzer einlädt, wird dieser automatisch überprüft, sobald er auf den Link zum Einladen klickt. SSO-Benutzer, denen keine Administratorrolle zugewiesen wurde, werden automatisch überprüft.
 
+## Verification Email {#verification-email}
+
+Eingeladene Benutzer erhalten die folgende E-Mail:
+
+![](assets/email-verification-1.png)
+
+>[!NOTE]
+>
+>Um eine Verifizierungs-E-Mail erneut an einen nicht verifizierten Benutzer zu senden, wählen Sie einfach dessen Datensatz aus und klicken Sie auf die **Email überprüfen** Schaltfläche.
+
 ## E-Mail-Adresse ändern {#changing-an-email-address}
 
 Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprüft. Sie erhalten eine E-Mail, in der sie eine erneute Überprüfung durchführen können. Benutzer können diese E-Mail manuell erneut senden, indem sie auf **Überprüfung erneut durchführen**.
 
-![](assets/email-verification-1.png)
-
 ![](assets/email-verification-2.png)
+
+![](assets/email-verification-3.png)
 
 ## Benutzer und Rollen {#users-and-roles}
 
 In **Admin** > **Benutzer und Rollen**, zeigt die Spalte E-Mail-Status den Überprüfungsstatus jedes Benutzers an.
 
-![](assets/email-verification-3.png)
+![](assets/email-verification-4.png)
 
 ## Mehrere Benutzer-Anmelde-IDs {#multiple-user-login-ids}
 
-Nur ein Benutzerkonto kann einer einzelnen E-Mail-Adresse zugeordnet werden. Wenn mehrere Benutzerkonten mit einer einzelnen E-Mail-Adresse verknüpft sind, muss Marketo Engage den Konflikt lösen und alle mit der E-Mail-Adresse verknüpften Benutzeranmeldungen sowie drei Lösungsoptionen anzeigen:<p>
-`1` Aktuelle E-Mail für die aktuelle Benutzer-Anmelde-ID verwenden<p>
-`2` Verwenden einer neuen E-Mail für die aktuelle Benutzer-Anmelde-ID<p>
-`3` Entscheidung bis zur nächsten Anmeldung verzögern
+Nur ein Benutzerkonto kann einer einzelnen E-Mail-Adresse zugeordnet werden. Wenn mehrere Benutzerkonten mit einer einzelnen E-Mail-Adresse verknüpft sind, muss Marketo Engage den Konflikt lösen und alle mit der E-Mail-Adresse verknüpften Benutzeranmeldungen sowie drei Lösungsoptionen anzeigen:
 
-![](assets/email-verification-4.png)
+* Aktuelle E-Mail für die aktuelle Benutzer-Anmelde-ID verwenden
+* Verwenden einer neuen E-Mail für die aktuelle Benutzer-Anmelde-ID
+* Entscheidung bis zur nächsten Anmeldung verzögern
 
-## Verification Email {#verification-email}
-
-Eingeladene Benutzer erhalten die folgende E-Mail:
-
-![](assets/email-verification-5.png)
+   ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
->Um eine Verifizierungs-E-Mail erneut an einen nicht verifizierten Benutzer zu senden, wählen Sie einfach dessen Datensatz aus und klicken Sie auf die **Email überprüfen** Schaltfläche.
+>Ein Benutzerkonto muss zwar einer einzelnen Adresse zugeordnet sein, es kann jedoch über eine universelle ID für mehrere Abonnements hinweg verwendet werden.
