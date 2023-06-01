@@ -2,9 +2,9 @@
 description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Wenn ein Administrator einen Benutzer einlädt, wird dieser automatisch überpr�
 
 ## Verification Email {#verification-email}
 
-Eingeladene Benutzer erhalten die folgende E-Mail:
+Benutzer erhalten die folgende E-Mail, wenn die E-Mail-Verifizierung für ein Abonnement aktiviert ist oder von einem Administrator/Benutzer ausgelöst wird:
 
 ![](assets/email-verification-1.png)
 
