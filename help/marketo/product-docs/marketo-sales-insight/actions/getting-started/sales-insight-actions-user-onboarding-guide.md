@@ -2,14 +2,18 @@
 description: Benutzerhandbuch für Einsteigeraktionen für Sales Insight - Marketo-Dokumente - Produktdokumentation
 title: Benutzerhandbuch zu Insight-Maßnahmen für Vertrieb
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
 # Benutzerhandbuch zu Insight-Maßnahmen für Vertrieb {#sales-insight-actions-user-onboarding-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über die [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
 
 >[!PREREQUISITES]
 >

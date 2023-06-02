@@ -1,9 +1,10 @@
 ---
 description: Checkliste für Customer Insight-Aktionen - Marketo Docs - Produktdokumentation
 title: Checkliste für Einblicke in Verkaufsaktionen - Benutzer-Onboarding
-source-git-commit: 6e474bd49491744115a284342690f5140409590b
+exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -11,6 +12,10 @@ ht-degree: 0%
 # Checkliste für Einblicke in Verkaufsaktionen - Benutzer-Onboarding {#sales-insight-actions-user-onboarding-checklist}
 
 Wenn Sie nach Ressourcen für die ersten Schritte mit Marketo Sales Insight-Aktionen suchen, [Onboarding-Checkliste herunterladen](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über die [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 
