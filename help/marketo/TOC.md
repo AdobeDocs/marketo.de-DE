@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
 workflow-type: tm+mt
-source-wordcount: '8890'
+source-wordcount: '8900'
 ht-degree: 5%
 
 ---
@@ -1373,6 +1373,11 @@ ht-degree: 5%
                + [Erstellen von Massen-E-Mails mit Auswählen und Senden](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Senden von E-Mails über Gruppen-E-Mails](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + E-Mail-Integrationen {#email-integrations}
+            + Gmail {#gmail}
+               + [Verbindung zu Gmail herstellen](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+            + Outlook {#outlook}
+               + [Mit Outlook verbinden](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + FAQs {#faq}
             + [Kann ich einen Kontakt oder eine Gruppe wiederherstellen, die ich gelöscht habe?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kann ich mit CC/BCC mehrere Empfänger verfolgen?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
