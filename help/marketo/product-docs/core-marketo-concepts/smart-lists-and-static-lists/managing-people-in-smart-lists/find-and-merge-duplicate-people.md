@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Suchen und Zusammenführen doppelter Personen - Marketo-Dokumente - Produktdokumentation
 title: Duplizierte Personen suchen und zusammenführen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 780071242a608706e06f3026150c43441a29faa5
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,23 @@ ht-degree: 0%
 
 Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ihr CRM-System hat jedoch möglicherweise zunächst Duplikate an Marketo gesendet. So werden sie zusammengeführt.
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo wird das Duplizieren für eine Salesforce- oder Microsoft Dynamics-Synchronisation nicht automatisch deaktivieren oder wenn Sie Personen manuell eingeben.
+>Die Zusammenführung von Personen ist dauerhaft, es gibt keine &quot;Rückgängig&quot;-Option.
 
 >[!PREREQUISITES]
 >
->Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierte/System-Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierte/systemspezifische Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+
+>[!NOTE]
+>
+>Marketo wird das Duplizieren für eine Salesforce- oder Microsoft Dynamics-Synchronisation nicht automatisch deaktivieren oder wenn Sie Personen manuell eingeben.
 
 ## Duplikate suchen {#find-duplicates}
 
 1. Navigieren Sie zu **Datenbank** Bereich.
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 1. Wählen Sie die **Mögliche Duplikate** Smart-Liste des Systems und klicken Sie auf **Personen** Registerkarte.
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 1. Wählen Sie die Duplikate aus, indem Sie die Strg-/Befehlstaste gedrückt halten und auf klicken. Klicken Sie dann auf **Personen zusammenführen**.
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
@@ -56,7 +60,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 1. Sie sehen die Werte zwischen den Datensätzen, die _don&#39;t_ übereinstimmen. Wählen Sie für jedes Feld den Wert aus, den Sie beibehalten möchten. Klicken **Zusammenführen** wann geschehen. Wenn Sie keinen der Werte wünschen, können Sie **Benutzerdefiniert** und geben Sie einen Wert Ihrer Wahl ein.
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
