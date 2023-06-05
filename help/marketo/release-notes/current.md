@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '368'
+ht-degree: 4%
 
 ---
 
@@ -33,8 +33,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Übersicht über die Experience Cloud-Oberfläche</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ Interaktive Webinare werden schrittweise eingeführt. Um früheren Zugriff anzuf
   <tr> 
    <td>Rollout gestartet</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interaktive Webinare - Überblick</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Dynamischer Chat {#dynamic-chat}
-
-</br>
-
-* **Chat-Quelle für dynamischen Chat**: &quot;Chat&quot; wird nun als Quelle für neue Personenaufzeichnungen und Aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
