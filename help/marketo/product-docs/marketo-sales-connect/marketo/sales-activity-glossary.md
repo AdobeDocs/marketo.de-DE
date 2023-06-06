@@ -2,10 +2,10 @@
 description: Glossar zu Verkaufsaktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Glossar zur Verkaufsaktivität
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '520'
-ht-degree: 7%
+source-wordcount: '533'
+ht-degree: 12%
 
 ---
 
@@ -52,7 +52,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="9">Verkaufs-E-Mail öffnen</th>
@@ -80,7 +80,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="10">angeklickte E-Mail zum Vertrieb</th>
@@ -111,7 +111,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
 <tr>
   <th rowspan="3">Antwort auf E-Mail zum Vertrieb</th>
@@ -121,7 +121,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="11">Hat Verkaufsanruf empfangen</th>
@@ -155,7 +155,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Verkaufsaufruf beantwortet von</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
@@ -195,6 +195,22 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
  <tr>
   <td>Vertriebskampagnen-ID</td>
  </tr>
+ <tr>
+  <th rowspan="5">E-Mail-Bounce für Vertrieb</th>
+  <td>Details</td>
+ </tr>
+ <tr>
+  <td>E-Mail</td>
+ </tr>
+ <tr>
+  <td>Gesendet von</td>
+ </tr>
+ <tr>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+ </tr>
+ <tr>
+  <td>Vorlagen-ID</td>
+ </tr>
 </table>
 
 ## Beschreibungen {#descriptions}
@@ -218,7 +234,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
    <td>URL, auf die geklickt wurde.</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo Sales Person ID</strong></td> 
+   <td><strong>Marketo-Vertriebsmitarbeiter-ID</strong></td> 
    <td>Eindeutige ID für den Personendatensatz in Sales Connect.</td> 
   </tr> 
   <tr> 

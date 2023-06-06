@@ -2,10 +2,10 @@
 description: Activity-Glossar zu Einblicken-Aktionen für Vertrieb - Marketo-Dokumente - Produktdokumentation
 title: Glossar zur Aktivität "Sales Insight-Aktionen"
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '541'
-ht-degree: 6%
+source-wordcount: '554'
+ht-degree: 12%
 
 ---
 
@@ -52,7 +52,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="9">Verkaufs-E-Mail öffnen</th>
@@ -80,7 +80,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="10">angeklickte E-Mail zum Vertrieb</th>
@@ -111,7 +111,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Name der Verkaufskampagne</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
 <tr>
   <th rowspan="3">Antwort auf E-Mail zum Vertrieb</th>
@@ -121,7 +121,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="11">Hat Verkaufsanruf empfangen</th>
@@ -155,7 +155,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Verkaufsaufruf beantwortet von</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID</td>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
  </tr>
  <tr>
   <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
@@ -195,6 +195,22 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
  <tr>
   <td>Vertriebskampagnen-ID</td>
  </tr>
+ <tr>
+  <th rowspan="5">E-Mail-Bounce für Vertrieb</th>
+  <td>Details</td>
+ </tr>
+ <tr>
+  <td>E-Mail</td>
+ </tr>
+ <tr>
+  <td>Gesendet von</td>
+ </tr>
+ <tr>
+  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+ </tr>
+ <tr>
+  <td>Vorlagen-ID</td>
+ </tr>
 </table>
 
 ## Beschreibungen {#descriptions}
@@ -218,7 +234,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
    <td>URL, auf die geklickt wurde.</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo Sales Person ID</strong></td> 
+   <td><strong>Marketo-Vertriebsmitarbeiter-ID</strong></td> 
    <td>Eindeutige ID für den Personendatensatz in Sales Insight-Aktionen.</td> 
   </tr> 
   <tr> 
