@@ -1,12 +1,10 @@
 ---
 description: Warum werden meine dynamischen Felder nicht ausgefüllt - Marketo Docs - Produktdokumentation
 title: Warum werden meine dynamischen Felder nicht ausgefüllt?
-hide: true
-hidefromtoc: true
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
-source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
@@ -27,9 +25,9 @@ Salesforce-Felder: z. B. `{{sfdc_account_name}}`
 
 **Fehlerbehebung für einfache und benutzerdefinierte Felder**
 
-Tout Basic Fields: z. B. `{{company}}`
+Marketo Sales Insight-Aktionen - Grundlegende Felder: z. B. `{{company}}`
 
-Festlegen benutzerdefinierter Felder: z. B. `{{custom_field_favorite_movie}}`
+Benutzerdefinierte Felder für Marketo Sales Insight-Aktionen: z. B. `{{custom_field_favorite_movie}}`
 
 * Das entsprechende Feld muss für Ihren Kontakt im [Personenseite](https://toutapp.com/next#relationships) für unser dynamisches Feld zu referenzieren. Wenn Sie beispielsweise eine E-Mail an Maria senden und die Variable `{{company}}` -Feld, aber ihr Kontaktdatensatz listet kein Unternehmen auf, wir können das nicht ausfüllen.
 
