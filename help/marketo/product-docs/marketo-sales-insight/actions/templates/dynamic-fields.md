@@ -2,9 +2,9 @@
 description: Dynamische Felder - Marketo-Dokumente - Produktdokumentation
 title: Dynamische Felder
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '481'
 ht-degree: 1%
 
 ---
@@ -32,6 +32,18 @@ Wenn Sie Kontakte per E-Mail versenden, die in Salesforce vorhanden sind, könne
 ## Dynamische Felder in eine Betreffzeile einfügen {#insert-dynamic-fields-in-a-subject-line}
 
 Kopieren Sie sie einfach manuell und fügen Sie sie in das Betrefffeld einer E-Mail ein. Achten Sie dabei darauf, dass Sie über die richtige Formatierung verfügen.
+
+## Standardwerte für dynamische Felder {#dynamic-field-default-values}
+
+Wenn Sie Ihren E-Mail-Vorlagen dynamische Felder hinzufügen, können Sie einen Standardwert hinzufügen, zu dem das dynamische Feld aufgelöst wird, wenn kein anderer Wert verfügbar ist.
+
+Fügen Sie dazu &quot;|&quot;hinter der dynamischen Feldbeschriftung hinzu und fügen Sie dann &quot;default:&quot;hinzu. Fügen Sie dann den Wert hinzu, den das Feld auflösen soll, wenn kein anderer Wert gefunden werden kann.
+
+**Beispiel:**
+
+`{{first name | default: loyal customer}}`
+
+`{{sfdc_contact_account_name | default: your company}}`
 
 ## Glossar zu dynamischen Feldern {#dynamic-fields-glossary}
 
