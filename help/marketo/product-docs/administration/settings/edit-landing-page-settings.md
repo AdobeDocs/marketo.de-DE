@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Bearbeiten von Einstellungen für Landingpages - Marketo-Dokumente - Produktdokumentation
 title: Einstellungen der Landingpage bearbeiten
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 5%
@@ -18,15 +18,15 @@ Sie können Ihren Domänennamen und Ihre Fallback-Seite bearbeiten, das Vorausf�
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Klicken Sie auf **Landing Pages**.
+1. Klicken Sie auf **[!UICONTROL Landing Pages]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. Im **Landing Pages** Abschnitt, klicken Sie auf **Bearbeiten**.
+1. Im **[!UICONTROL Landing Pages]** Abschnitt, klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -36,25 +36,25 @@ Sie können Ihren Domänennamen und Ihre Fallback-Seite bearbeiten, das Vorausf�
 
    | Begriff | Definition |
    |---|---|
-   | Domänenname für Landingpages | Dies ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages geben. Beispiel: in `https://go.yourCompany.com`, ist das Wort &quot;go&quot;der CNAME. Sie können mehrere haben, aber die meisten verwenden nur die. |
-   | Fallback-Seite | Hier können Sie einsteigen, wenn die Landingpage nicht vorhanden oder nicht vorhanden ist. Weitere Informationen [Fallback-Seiten](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | Startseite | Geben Sie Ihre Unternehmens-Site-URL ein. |
+   | [!UICONTROL Domänenname für Landingpages] | Dies ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages geben. Beispiel: in `https://go.yourCompany.com`, ist das Wort &quot;go&quot;der CNAME. Sie können mehrere haben, aber die meisten verwenden nur die. |
+   | [!UICONTROL Fallback-Seite] | Hier können Sie einsteigen, wenn die Landingpage nicht vorhanden oder nicht vorhanden ist. Weitere Informationen [Fallback-Seiten](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Startseite] | Geben Sie Ihre Unternehmens-Site-URL ein. |
 
-1. Überprüfen Sie die **Vorab ausfüllen** aktivieren, damit Formulare Informationen für bekannte (Cookies) Personen vorbefüllen können. Deaktivieren Sie die Option zum Blockieren.
+1. Überprüfen Sie die **[!UICONTROL Vorab ausfüllen]** aktivieren, damit Formulare Informationen für bekannte (Cookies) Personen vorbefüllen können. Deaktivieren Sie die Option zum Blockieren.
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Wenn Sie verhindern möchten, dass eine böswillige Site Ihren Inhalt anscheinend hostet, überprüfen Sie die **Marketo-Seiten dürfen nicht in externe Webseiten eingebettet werden** aktivieren.
+1. Wenn Sie verhindern möchten, dass eine böswillige Site Ihren Inhalt anscheinend hostet, überprüfen Sie die **[!UICONTROL Marketo-Seiten dürfen nicht in externe Webseiten eingebettet werden]** aktivieren.
 
    ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
-   >Wenn Sie die Vorbefüllung vornehmen möchten `<script>` -Tag, das am Ende der `<head>` -Tag im Code, überprüfen Sie die **Skript zum Vorfüllen am Ende des Kopfes injizieren** ankreuzen. Lassen Sie die Option deaktiviert, wenn sie am Anfang angezeigt werden soll.
+   >Wenn Sie die Vorbefüllung vornehmen möchten `<script>` -Tag, das am Ende der `<head>` -Tag im Code, überprüfen Sie die **[!UICONTROL Skript zum Vorfüllen am Ende des Kopfes injizieren]** ankreuzen. Lassen Sie die Option deaktiviert, wenn sie am Anfang angezeigt werden soll.
    >
-   >Überprüfen **Standardmäßige Favicon-Links entfernen** um zu verhindern, dass Marketo Favicon-Links in den Code einfügt.
+   >Überprüfen **[!UICONTROL Standardmäßige Favicon-Links entfernen]** um zu verhindern, dass Marketo Favicon-Links in den Code einfügt.
 
-1. Nachdem Sie Ihre Auswahl getroffen haben, klicken Sie auf **Speichern.**
+1. Nachdem Sie Ihre Auswahl getroffen haben, klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-landing-page-settings-7.png)
 

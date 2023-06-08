@@ -3,7 +3,7 @@ unique-page-id: 10099785
 description: Abonnementeinstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Abonnementeinstellungen bearbeiten
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
-source-git-commit: 4e2627ecf5028bc45d679c50ec20dd3128041605
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -16,18 +16,18 @@ Wenn Sie Zugriff auf mehrere Marketo-Abonnements haben und sicher sein möchten,
 
 Wenn Sie beispielsweise sowohl in der Produktions- als auch in der Sandbox-Instanz arbeiten, können Sie ein Abonnement benennen **Marketo-Produktion** und der anderen **Marketo-Sandbox**.
 
-1. Navigieren Sie zu **Admin**.
+1. Navigieren Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Klicken **Mein Konto**.
+1. Klicken **[!UICONTROL Mein Konto]**.
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Klicken **Abonnementinformationen bearbeiten**.
+1. Klicken **[!UICONTROL Abonnementinformationen bearbeiten]**.
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **Speichern**.
+1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-subscription-settings-4.png)

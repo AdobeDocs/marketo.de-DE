@@ -2,7 +2,7 @@
 description: Hinzufügen oder Entfernen von Produktadministratoren - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen oder Entfernen eines Produkt-Admins
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >Ein Administrator muss zu einem Produktprofil hinzugefügt werden, um Zugriff auf Marketo Engage zu erhalten.
 
-1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Klicken Sie auf **Administratoren** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Administratoren]** Registerkarte.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Klicken Sie auf **Admin hinzufügen** Schaltfläche.
+1. Klicken Sie auf **[!UICONTROL Admin hinzufügen]** Schaltfläche.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Geben Sie die E-Mail-Adresse oder den Benutzernamen des Admins ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional. Klicken **Speichern**.
+1. Geben Sie die E-Mail-Adresse oder den Benutzernamen des Admins ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Klicken Sie unter &quot;Products&quot;auf das Menü mit drei Punkten und wählen Sie **Bearbeiten**.
+1. Klicken Sie unter &quot;Products&quot;auf das Menü mit drei Punkten und wählen Sie **[!UICONTROL Bearbeiten]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -69,7 +69,7 @@ Der Benutzer erhält dann zwei E-Mails. Die erste E-Mail informiert sie darüber
 
 ## Entfernen eines Administrators {#remove-a-user}
 
-1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
@@ -81,15 +81,15 @@ Der Benutzer erhält dann zwei E-Mails. Die erste E-Mail informiert sie darüber
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Klicken Sie auf **Administratoren** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Administratoren]** Registerkarte.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Wählen Sie den Admin aus, den Sie entfernen möchten, und klicken Sie auf die Schaltfläche **Administrator entfernen** Schaltfläche.
+1. Wählen Sie den Admin aus, den Sie entfernen möchten, und klicken Sie auf die Schaltfläche **[!UICONTROL Administrator entfernen]** Schaltfläche.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Klicken **Administrator entfernen** zur Bestätigung.
+1. Klicken **[!UICONTROL Administrator entfernen]** zur Bestätigung.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

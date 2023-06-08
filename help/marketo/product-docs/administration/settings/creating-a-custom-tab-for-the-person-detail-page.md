@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: Erstellen einer benutzerdefinierten Registerkarte für die Seite "Personendetails"- Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer benutzerdefinierten Registerkarte für die Seite "Personendetails"
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 3%
@@ -14,15 +14,15 @@ ht-degree: 3%
 
 Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, sollten Sie ein benutzerdefiniertes Layout erstellen, um die Dinge zu vereinfachen.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Klicken **Feldverwaltung**.
+1. Klicken **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Klicken Sie auf **Custom Layout Designer** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Custom Layout Designer]** Registerkarte.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -38,7 +38,7 @@ Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, so
    >
    >Sie haben zwei Spalten, mit denen Sie arbeiten können.
 
-   Wenn Sie ein Feld entfernen möchten, klicken Sie mit der rechten Maustaste auf das zu entfernende Feld und klicken Sie auf **Löschen**.
+   Wenn Sie ein Feld entfernen möchten, klicken Sie mit der rechten Maustaste auf das zu entfernende Feld und klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

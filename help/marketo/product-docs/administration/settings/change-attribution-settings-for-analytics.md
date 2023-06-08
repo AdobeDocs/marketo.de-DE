@@ -3,7 +3,7 @@ unique-page-id: 2360217
 description: Ändern der Attributionseinstellungen für Analytics - Marketo Docs - Produktdokumentation
 title: Ändern der Attributionseinstellungen für Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 3%
@@ -14,17 +14,17 @@ ht-degree: 3%
 
 Sie können die Art und Weise ändern, in der Marketo Kontakte mit Chancen für Erstkontakt- und Multi-Touch-Attribution, Lead-Konversionsmetriken und das Marketing-beeinflusste Opportunity-Flag verknüpft.
 
-Diese Einstellungen wirken sich auf den Umsatz-Explorer unter der [Analyse der Programmchancen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)und Bereiche der Interessentenanalyse. Dies wirkt sich auch auf den Bericht Programm Analyzer aus.
+Diese Einstellungen wirken sich [!UICONTROL Umsatz-Explorer] Berichte im Rahmen der [Analyse der Programmchancen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)und Bereiche der Interessentenanalyse. Dies wirkt sich auch auf die [!UICONTROL Programm-Analyzer] Bericht.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 
-1. Klicken **Umsatzzyklusanalysen**.
+1. Klicken **[!UICONTROL Umsatzzyklusanalysen]**.
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 
-1. Klicken Sie auf **Bearbeiten** Link unter **Attribution**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]** Link unter **[!UICONTROL Attribution]**.
 
    ![](assets/change-attribution-settings-for-analytics-3.png)
 
@@ -32,7 +32,7 @@ Diese Einstellungen wirken sich auf den Umsatz-Explorer unter der [Analyse der P
    >
    >Durch Ändern dieser Einstellung werden keine Marketo-Daten geändert. Sie ändert lediglich die Ausführung Ihrer Berichte. Dies kann jederzeit rückgängig gemacht werden.
 
-1. Wählen Sie eine Option aus und klicken Sie auf **Speichern**.
+1. Wählen Sie eine Option aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/change-attribution-settings-for-analytics-4.png)
 
@@ -40,12 +40,12 @@ Diese Einstellungen wirken sich auf den Umsatz-Explorer unter der [Analyse der P
    >
    >**Definition**
    >
-   >**Explizit**: Nur Kontakte mit Rollen (Standard).
+   >**[!UICONTROL Explizit]**: Nur Kontakte mit Rollen (Standard).
    >
-   >**Hybrid**: Kontaktiert ggf. Rollen. Wenn keine verfügbar sind, werden alle Kontakte in Konten verwendet.
+   >**[!UICONTROL Hybrid]**: Kontaktiert ggf. Rollen. Wenn keine verfügbar sind, werden alle Kontakte in Konten verwendet.
    >
-   >**Implizit**: Alle Kontakte unabhängig von der Rolle.
+   >**[!UICONTROL Implizit]**: Alle Kontakte unabhängig von der Rolle.
 
 >[!CAUTION]
 >
->Bei Verwendung von **Implizit**, prüft Marketo immer alle mit dem Konto verknüpften Kontakte unabhängig von der Rolle. **Marketo empfiehlt dringend die Verwendung des expliziten Modus**. Die Verwendung von Implicit kann zu falsch-positiven Ergebnissen führen. d. h. Menschen, denen eine Chance zugeschrieben wird, obwohl sie keinen echten Einfluss auf die Chancen haben. Verwenden Sie Implicit mit Vorsicht.
+>Bei Verwendung von **[!UICONTROL Implizit]**, prüft Marketo immer alle mit dem Konto verknüpften Kontakte unabhängig von der Rolle. **Marketo empfiehlt dringend, [!UICONTROL Explizit] mode**. Verwenden [!UICONTROL Implizit] kann zu falsch-positiven Ergebnissen führen; d. h. Menschen, denen eine Chance zugeschrieben wird, obwohl sie keinen echten Einfluss auf die Chancen haben. Verwendung [!UICONTROL Implizit] mit Vorsicht.

@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Suchen und Zusammenführen doppelter Personen - Marketo-Dokumente - Produktdokumentation
 title: Duplizierte Personen suchen und zusammenführen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 >[!PREREQUISITES]
 >
->Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierte/systemspezifische Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierte/systemspezifische Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
    >[!NOTE]
    >
-   >Sie können auch [Duplizierte Personen mit benutzerdefinierter Logik suchen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >Sie können auch [Duplizierte Personen mit benutzerdefinierter Logik suchen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Personen manuell zusammenführen {#merge-people-manually}
 
@@ -72,18 +72,16 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 ## Wirkung in Salesforce {#effect-in-salesforce}
 
-Wenn Sie über eine Salesforce-Integration verfügen, gibt es einige Hinweise zu den Auswirkungen von &quot;Leads zusammenführen&quot;in Salesforce.
+Wenn Sie über eine Salesforce-Integration verfügen, gibt es einige Hinweise zu den Auswirkungen der Zusammenführung von Leads in Salesforce.
 
 * Beim Zusammenführen von Leads oder nur Kontakten werden diese nach normalen Salesforce-Regeln zusammengeführt.
 * Beim Zusammenführen von Leads und Kontakten werden alle Leads gemäß den normalen Salesforce-Regeln in Kontakte umgewandelt.
 
 Weitere Informationen zum Salesforce-Verhalten beim Zusammenführen von Leads oder Kontakten finden Sie in den folgenden Salesforce-Dokumenten:
 
-* [Zusammenführen doppelter Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [Zusammenführen doppelter Kontakte](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Zusammenführen doppelter Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [Zusammenführen doppelter Kontakte](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## Massenzusammenführung {#bulk-merging}
 
 Wenn Sie zu viele Duplikate zum manuellen Zusammenführen haben, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um Ihre Optionen zu besprechen.
-
-Wenn Sie mit einem CRM verbunden sind, werden die Datensätze dort gemäß den unten stehenden Regeln zusammengeführt.

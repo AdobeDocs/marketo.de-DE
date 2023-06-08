@@ -1,7 +1,8 @@
 ---
 description: Massenexport-API-Informationen - Marketo-Dokumente - Produktdokumentation
 title: Massenexport-API-Informationen
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 5%
@@ -16,11 +17,11 @@ Erfahren Sie, wie Sie überprüfen können, wie viel [Bulk Extract API](https://
 >
 >Wenn Sie zusätzliche Kapazitäten benötigen, wenden Sie sich an Ihren Kundenbetreuer.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Klicken **Web-Services**.
+1. Klicken **[!UICONTROL Web-Services]**.
 
    ![](assets/bulk-export-api-information-2.png)
 

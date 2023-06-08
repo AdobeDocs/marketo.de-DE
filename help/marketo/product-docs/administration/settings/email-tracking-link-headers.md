@@ -2,7 +2,7 @@
 description: E-Mail-Tracking-Link-Kopfzeilen - Marketo-Dokumente - Produktdokumentation
 title: Kopfzeilen von E-Mail-Tracking-Links
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 Gehen Sie wie folgt vor, um die Kopfzeilen Ihrer E-Mail-Tracking-Links anzupassen.
 
-1. Klicken Sie in Marketo auf **Admin**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Klicken **Email**.
+1. Klicken **[!UICONTROL Email]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. Scrollen Sie nach unten zu den benutzerdefinierten Kopfzeilenoptionen. Wählen Sie Ihre gewünschten Einstellungen aus und klicken Sie auf **Änderungen speichern**.
+1. Scrollen Sie nach unten zu den benutzerdefinierten Kopfzeilenoptionen. Wählen Sie Ihre gewünschten Einstellungen aus und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/email-tracking-link-headers-3.png)
 

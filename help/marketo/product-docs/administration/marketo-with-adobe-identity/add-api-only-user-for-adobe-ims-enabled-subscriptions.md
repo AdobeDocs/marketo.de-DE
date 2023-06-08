@@ -2,7 +2,7 @@
 description: Hinzufügen eines reinen API-Benutzers für Adobe IMS-aktivierte Abonnements - Marketo Docs - Produktdokumentation
 title: Hinzufügen eines reinen API-Benutzers für Adobe IMS-aktivierte Abonnements
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -15,15 +15,15 @@ Während Marketo Engage Marketing-Benutzer und -Administratoren in Adobe Admin C
 
 In den folgenden Schritten wird beschrieben, wie Sie in Marketo Engage einen Nur-API-Benutzer hinzufügen. Bevor Sie dies tun, müssen Sie [hat nur eine API-Rolle erstellt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 
-1. Klicken Sie in Marketo auf **Admin** und wählen Sie **Benutzer und Rollen**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und wählen Sie **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-1.png)
 
-1. Klicken **Nur API-Benutzer erstellen**.
+1. Klicken **[!UICONTROL Nur API-Benutzer erstellen]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. Geben Sie eine E-Mail, einen Vornamen und einen Nachnamen für den Benutzer &quot;Nur API&quot;ein.  Wählen Sie die Nur-API-Rolle aus, die Sie dem Benutzer zuweisen möchten. Klicken **Nur API-Benutzer erstellen** wann geschehen.
+1. Geben Sie eine [!UICONTROL Email], [!UICONTROL Vorname]und [!UICONTROL Nachname] nur für den API-Benutzer. Wählen Sie die [!UICONTROL Nur API] Rolle, die Sie dem Benutzer zuweisen möchten. Klicken **[!UICONTROL Nur API-Benutzer erstellen]** wann geschehen.
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

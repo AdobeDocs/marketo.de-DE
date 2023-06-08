@@ -2,9 +2,9 @@
 description: Adobe Identity Management - Überblick - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1087'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Adobe Marketo Engage-Abonnements, die im Adobe Identity Management System integr
 
 Adobe Identity Management System besteht aus drei Komponenten.
 
-* Adobe Identity-Dienst: Verarbeitet die Authentifizierung und Validierung des Endbenutzers, einschließlich Verband und Laufzeit Single-Sign-On (SSO).
+* [!DNL Adobe Identity Service]: Verarbeitet die Authentifizierung und Validierung des Endbenutzers, einschließlich Verband und Laufzeit Single-Sign-On (SSO).
 
 * Adobe Admin Console: Die Admin Console bietet einen zentralen Speicherort für die Verwaltung von Berechtigungen für Adoben in Ihrem gesamten Unternehmen. Es verwaltet Benutzerverwaltung, Cloud Service, Berechtigungen für Desktop-Lizenzen, Verknüpfungskonfiguration und bietet Sicherheitsfunktionen zur Datenverlustvermeidung.
 
@@ -73,11 +73,11 @@ Bestehende Marketo-Abonnements werden im Laufe dieses Jahres in das Adobe Identi
 
 **Gibt es Änderungen an der Benutzermanagement-API-Client-Unterstützung?**
 
-Ja. Benutzer, die mit Adobe IMS integriert wurden, können nicht alle bestehenden Marketo User Management-APIs verwenden. Bei Einladungs-, Aktualisierungs- und Löschaktionen für Benutzer wird die Adobe [IMS-APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html) verwendet werden. Für die Rollenverwaltung gelten weiterhin die Marketo User Management-APIs. Darüber hinaus gibt es keine weiteren Änderungen an der Marketo REST API-Client-Unterstützung.
+Ja. Benutzer, die mit Adobe IMS integriert wurden, können nicht alle bestehenden Marketo User Management-APIs verwenden. Bei Einladungs-, Aktualisierungs- und Löschaktionen für Benutzer wird die Adobe [IMS-APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"} verwendet werden. Für die Rollenverwaltung gelten weiterhin die Marketo User Management-APIs. Darüber hinaus gibt es keine weiteren Änderungen an der Marketo REST API-Client-Unterstützung.
 
 **Wen kontaktieren wir für Support, wenn wir mit IMS integriert sind?**
 
-Sie folgen dem Standardverfahren für die Kontaktaufnahme mit dem [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Sie folgen dem Standardverfahren für die Kontaktaufnahme mit dem [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 **Wenn ich eine Adobe Identity verwende, um auf andere Adobe Apps zuzugreifen, kann ich diese dann für den Zugriff auf Marketo verwenden?**
 
@@ -89,19 +89,19 @@ Anz. Die Benutzerrollenverwaltung (innerhalb von Arbeitsbereichen) ist in Market
 
 **Ich bin ein Marketo-Administrator in einem integrierten IMS-Abonnement und habe keinen Zugriff auf die Admin Console. Wie erhalte ich Zugriff?**
 
-Jedes Adobe-System oder jeder Produktadministrator, der Zugriff auf die Admin Console Ihres Unternehmens hat, kann Ihnen Zugriff gewähren. Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an [Adobe-Kundenunterstützung](https://helpx.adobe.com/contact.html).
+Jedes Adobe-System oder jeder Produktadministrator, der Zugriff auf die Admin Console Ihres Unternehmens hat, kann Ihnen Zugriff gewähren. Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an [Adobe-Kundenunterstützung](https://helpx.adobe.com/contact.html){target="_blank"}.
 
-**Wie kann ein Administrator Benutzer zu Marketo Sales Connect hinzufügen?**
+**Wie kann ein Administrator Benutzer zu Marketo hinzufügen? [!DNL Sales Connect]?**
 
-Obwohl in Admin Console für Sales Connect eine Produktkarte vorhanden sein wird, sollte die Admin Console nicht zum Hinzufügen/Verwalten von Benutzern verwendet werden. Über den folgenden Link können Administratoren Benutzer über Marketo Sales Connect verwalten: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
+Während eine Produktkarte in Admin Console für [!DNL Sales Connect], sollte Admin Console nicht zum Hinzufügen/Verwalten von Benutzern verwendet werden. Über den folgenden Link können Administratoren Benutzer über Marketo verwalten [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
 
 **Wo erhalte ich weitere Informationen über die Adobe Admin Console?**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
 
 **Wechsele ich immer noch zum Admin-Bereich in Marketo, um Benutzerkontoänderungen für mein Konto vorzunehmen?**
 
-Nein, Sie müssen zu [account.adobe.com](https://account.adobe.com).
+Nein, Sie müssen zu [account.adobe.com](https://account.adobe.com){target="_blank"}.
 
 **Wie funktioniert dies mit der universellen ID von Marketo?**
 
@@ -109,7 +109,7 @@ Diejenigen, die mit der Adobe-ID integriert sind, können über den Abonnementsc
 
 **Funktioniert dies mit SSO?**
 
-Ja. Die Marketo-Integration mit Adobe IMS unterstützt universelle ID-Benutzer und SSO. SSO wird jetzt von Adobe IMS gesteuert und auf Unternehmensebene in der Adobe Admin Console eingerichtet. [Weitere Informationen finden Sie hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+Ja. Die Marketo-Integration mit Adobe IMS unterstützt universelle ID-Benutzer und SSO. SSO wird jetzt von Adobe IMS gesteuert und auf Unternehmensebene in der Adobe Admin Console eingerichtet. [Weitere Informationen finden Sie hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Wie funktioniert die Geräteregistrierung?**
 
@@ -121,15 +121,14 @@ Anz. Der Workflow Benutzereinladung ist nicht mehr aktiv, wenn ein Abonnement IM
 
 **Haben wir für Adobe IMS die Möglichkeit, Adobe ID, Enterprise ID oder Federated ID zu verwenden?**
 
-Ja, Sie bestimmen den Identitätstyp, den Ihre Organisation unterstützen soll. Weitere Informationen finden Sie hier: [Identitätsübersicht](https://helpx.adobe.com/enterprise/using/identity.html) und hier: [Einrichten der Identität](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+Ja, Sie bestimmen den Identitätstyp, den Ihre Organisation unterstützen soll. Weitere Informationen finden Sie hier: [Identitätsübersicht](https://helpx.adobe.com/enterprise/using/identity.html) und hier: [Einrichten der Identität](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Welche Produktkarten werden in der Adobe Admin Console unterstützt?**
 
-Folgende Produktkarten werden unterstützt: Marketo Engage-, Marketo Measure-, Marketo Dynamic Chat-, Marketo Sales Connect- und Marketo Sales Insight-Aktionen.
+Folgende Produktkarten werden unterstützt: Marketo Engage-, Marketo Measure-, Marketo-Dynamic Chat-, Marketo Sales Connect- und Marketo Sales Insight-Aktionen.
 
 >[!MORELIKETHIS]
 >
->* [Admin-Einrichtung](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
->* [Hinzufügen oder Entfernen eines Produkt-Admins](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
->* [Hinzufügen oder Entfernen von Benutzern](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-
+>* [Admin-Einrichtung](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
+>* [Hinzufügen oder Entfernen eines Produkt-Admins](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>* [Hinzufügen oder Entfernen von Benutzern](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}

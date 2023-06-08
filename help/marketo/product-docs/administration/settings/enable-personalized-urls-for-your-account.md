@@ -3,7 +3,7 @@ unique-page-id: 2360215
 description: Personalisierte URLs für Ihr Konto aktivieren - Marketo Docs - Produktdokumentation
 title: Personalisierte URLs für Ihr Konto aktivieren
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 10%
@@ -18,19 +18,19 @@ Personalisierte URLs eignen sich hervorragend für Druckpost-Kampagnen.
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Klicken Sie auf **Landing Pages**.
+1. Klicken Sie auf **[!UICONTROL Landing Pages]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicken **[!UICONTROL Bearbeiten]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Überprüfen Sie die **Personalisierte URLs aktivieren** und klicken Sie auf **Speichern**.
+1. Überprüfen Sie die **[!UICONTROL Personalisierte URLs aktivieren]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 

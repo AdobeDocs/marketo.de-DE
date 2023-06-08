@@ -3,7 +3,7 @@ unique-page-id: 2360189
 description: Passen Sie Ihre Landingpage-URLs mit einem CNAME (Administration) an - Marketo Docs - Produktdokumentation
 title: Landingpage-URLs mit einem CNAME (Administration) anpassen
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 6%
@@ -42,15 +42,15 @@ Wir helfen Ihnen gerne bei der Einrichtung!
 
 1. Suchen Sie Ihre Kontozeichenfolge.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Klicken Sie auf **Landing Pages**.
+1. Klicken Sie auf **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. Unter dem **Landing Pages** -Registerkarte, kopieren Sie die Kontozeichenfolge aus dem Abschnitt Einstellungen .
+1. Unter dem **[!UICONTROL Landing Pages]** -Registerkarte, kopieren Sie die Kontozeichenfolge aus dem Abschnitt Einstellungen .
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -64,19 +64,19 @@ Wir helfen Ihnen gerne bei der Einrichtung!
 
 1. Vollständige CNAME-Einrichtung.
 
-1. Sobald Ihre IT den CNAME erstellt hat, kehren Sie zum **Admin** Bereich.
+1. Sobald Ihre IT den CNAME erstellt hat, kehren Sie zum **[!UICONTROL Admin]** Bereich.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Klicken Sie auf **Landing Pages**.
+1. Klicken Sie auf **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Unter dem **Einstellungen** Abschnitt, klicken Sie auf **Bearbeiten**.
+1. Unter dem **[!UICONTROL Einstellungen]** Abschnitt, klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Geben Sie Ihren CNAME in ein. **Domänenname für Einstiegsseiten** eingeben **Fallback-Seite** eingeben **Homepage** und klicken Sie auf **Speichern**.
+1. Geben Sie Ihren CNAME in ein. **[!UICONTROL Domänenname für Einstiegsseiten]** eingeben **[!UICONTROL Fallback-Seite]** eingeben **[!UICONTROL Homepage]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

@@ -1,7 +1,8 @@
 ---
 description: Campaign Inspector - Marketo Docs - Produktdokumentation
 title: Kampagnenprüfung
-source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
+exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 7%
@@ -14,19 +15,19 @@ Mit dem Kampagneninspektor können Sie alle Ihre Smart-Kampagnen an einem Ort an
 
 ## Campaign Inspector aktivieren {#enable-campaign-inspector}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Klicken **Schatztruhe**.
+1. Klicken **[!UICONTROL Schatztruhe]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Klicken **Bearbeiten** neben Campaign Inspector.
+1. Klicken **[!UICONTROL Bearbeiten]** neben Campaign Inspector.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Wählen Sie die **Aktiviert** Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Wählen Sie die **[!UICONTROL Aktiviert]** Kontrollkästchen und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -40,7 +41,7 @@ Nach der Aktivierung befindet sich die Registerkarte Kampagneninspektor neben de
 
 ![](assets/campaign-inspector-5.png)
 
-Klicken Sie auf **Aktive Kampagnen** Dropdown, um nach verschiedenen Kampagnentypen zu filtern.
+Klicken Sie auf **[!UICONTROL Aktive Kampagnen]** Dropdown, um nach verschiedenen Kampagnentypen zu filtern.
 
 ![](assets/campaign-inspector-6.png)
 

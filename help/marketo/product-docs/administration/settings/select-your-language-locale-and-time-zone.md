@@ -3,7 +3,7 @@ unique-page-id: 2359904
 description: Sprache, Gebietsschema und Zeitzone auswählen - Marketo Docs - Produktdokumentation
 title: Sprache, Gebietsschema und Zeitzone auswählen
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 8%
@@ -25,19 +25,19 @@ Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hie
 
 ## Ändern der Benutzersprache, des Gebietsschemas und der Zeitzone {#change-user-language-locale-and-time-zone}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Auswählen **Mein Konto**.
+1. Auswählen **[!UICONTROL Mein Konto]**.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Klicken Sie unter &quot;Mein Konto&quot;auf **Standorteinstellungen bearbeiten**.
+1. Klicken Sie unter &quot;Mein Konto&quot;auf **[!UICONTROL Standorteinstellungen bearbeiten]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Ändern Sie Ihre **Sprache**.
+1. Ändern Sie Ihre **[!UICONTROL Sprache]**.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -45,15 +45,15 @@ Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hie
    >
    >Sie haben auch die Möglichkeit, nur Ihre Sprache zu ändern, indem Sie oben auf der Anmeldeseite auf das Dropdown-Menü Sprache klicken.
 
-1. Ändern Sie Ihre **Gebietsschema**.
+1. Ändern Sie Ihre **[!UICONTROL Gebietsschema]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Ändern Sie Ihre **Zeitzone**.
+1. Ändern Sie Ihre **[!UICONTROL Zeitzone]**.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 

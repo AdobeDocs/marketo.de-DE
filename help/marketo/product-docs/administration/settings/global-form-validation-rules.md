@@ -2,7 +2,7 @@
 description: Globale Formularvalidierungsregeln - Marketo-Dokumente - Produktdokumentation
 title: Globale Formularvalidierungsregeln
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -17,15 +17,15 @@ Mit dieser Funktion können Sie verhindern, dass bestimmte Domänen an Marketo E
 
 Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für jede gewünschte Rolle aktivieren.
 
-1. Klicken Sie in Marketo auf **Admin**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Klicken Sie auf **Rollen** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte.
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -37,7 +37,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Scrollen Sie nach unten und wählen Sie **Auf Formularvalidierungsregeln zugreifen** und klicken Sie auf **Speichern**.
+1. Scrollen Sie nach unten und wählen Sie **[!UICONTROL Auf Formularvalidierungsregeln zugreifen]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -47,15 +47,15 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 >
 >Diese Regeln gelten für alle Formulare in Ihren Marketo Engage-Abonnements.
 
-1. Klicken Sie in Marketo auf **Admin**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. Klicken **Regel für globale Formularüberprüfung**.
+1. Klicken **[!UICONTROL Regel für globale Formularüberprüfung]**.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Klicken **Neue Formularvalidierungsregel**.
+1. Klicken **[!UICONTROL Neue Formularvalidierungsregel]**.
 
    ![](assets/global-form-validation-rules-9.png)
 
@@ -63,7 +63,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
    >
    >In der Dropdown-Liste Aktionen für Formularvalidierungsregeln können Sie vorhandene Regeln löschen oder bearbeiten.
 
-1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die Ihre Formular-Besucher sehen sollen. Geben Sie die Domäne(n) ein, die blockiert werden sollen, und wählen Sie **Regel aktivieren** und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die Ihre Formular-Besucher sehen sollen. Geben Sie die Domäne(n) ein, die blockiert werden sollen, und wählen Sie **[!UICONTROL Regel aktivieren]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
@@ -73,14 +73,14 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
 ## Deaktivieren des Zugriffs pro Formular{#how-to-disable-access-per-form}
 
-Nach der Aktivierung gelten Regeln für alle Formulare. Wenn Sie jedoch ein Formular mit bestimmten Anforderungen haben und nichts zurückgewiesen werden soll, können Sie die globalen Regeln zur Formularüberprüfung in den Einstellungen des Formulars deaktivieren.
+Nach der Aktivierung gelten Regeln für alle Formulare. Wenn Sie jedoch ein Formular mit bestimmten Anforderungen haben und nichts zurückgewiesen werden soll, können Sie [!UICONTROL Globale Formularvalidierungsregeln] in den Einstellungen des Formulars.
 
-1. Klicken Sie in dem gewünschten Formular auf **Formulareinstellungen**, dann **Einstellungen**.
+1. Klicken Sie in dem gewünschten Formular auf **[!UICONTROL Formulareinstellungen]**, dann **[!UICONTROL Einstellungen]**.
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. Klicken Sie auf die Dropdown-Liste Globale Formularvalidierungsregeln und wählen Sie **Behinderte**.
+1. Klicken Sie auf **[!UICONTROL Globale Formularvalidierungsregeln]** und wählen Sie **[!UICONTROL Behinderte]**.
 
    ![](assets/global-form-validation-rules-12.png)
 
-Wenn Sie Ihr Formular genehmigen und posten, werden Ihre Regeln zur globalen Formularüberprüfung ignoriert.
+Wenn Sie Ihr Formular genehmigen und posten, wird es Ihre [!UICONTROL Globale Formularvalidierungsregeln].
