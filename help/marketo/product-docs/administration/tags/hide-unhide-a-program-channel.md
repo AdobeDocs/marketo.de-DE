@@ -3,7 +3,7 @@ unique-page-id: 2360276
 description: Ein Programmkanal ausblenden/ausblenden - Marketo-Dokumente - Produktdokumentation
 title: Ein Programmkanal ausblenden/einblenden
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 4%
@@ -20,19 +20,19 @@ Sie können [Löschen eines Programmkanals](/help/marketo/product-docs/administr
 
 ## Ausblenden eines Programmkanals {#hide-a-program-channel}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. Klicken **Tags**.
+1. Klicken **[!UICONTROL Tags]**.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. Klicken Sie auf **Kanal** und wählen Sie die **Kanal** zum Verbergen.
+1. Klicken Sie auf **[!UICONTROL Kanal]** und wählen Sie die **[!UICONTROL Kanal]** zum Verbergen.
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. under **Tag-Aktionen** klicken Sie auf **Ausblenden**.
+1. under **[!UICONTROL Tag-Aktionen]** klicken Sie auf **[!UICONTROL Ausblenden]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

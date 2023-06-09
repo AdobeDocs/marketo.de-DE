@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Erstellen eines neuen Arbeitsbereichs - Marketo-Dokumente - Produktdokumentation
 title: Neuen Arbeitsbereich erstellen
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 3%
 
 ---
@@ -31,28 +31,27 @@ So erstellen Sie einen neuen Arbeitsbereich.
 >
 >Weitere Informationen zu Best Practices für Workspace erhalten Sie bei [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. Klicken **Arbeitsbereiche und Partitionen**.
+1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Klicken **Neuer Arbeitsbereich**.
+1. Klicken **[!UICONTROL Neuer Arbeitsbereich]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Geben Sie einen **Name** und wählen Sie die **Personenpartition(en)** Sie verwenden möchten. Wählen Sie eine **Primäre Personenpartition**. Stellen Sie sicher, dass [Personenpartitionen erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} wenn Sie es noch nicht getan haben.
+1. Geben Sie einen **[!UICONTROL Name]** und wählen Sie die **[!UICONTROL Personenpartitionen]** Sie verwenden möchten. Wählen Sie eine **[!UICONTROL Primäre Personenpartition]**. Stellen Sie sicher, dass [Personenpartitionen erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} wenn Sie es noch nicht getan haben.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* Die **Partitionen aller Personen** Kontrollkästchen bedeutet, dass dieser Arbeitsbereich alle Personenpartitionen im System verwenden kann.
+   >* Die **[!UICONTROL Partitionen aller Personen]** Kontrollkästchen bedeutet, dass dieser Arbeitsbereich alle Personenpartitionen im System verwenden kann.
    >
-   >* Die **primäre Personenpartition** fungiert als Standard und ist der Ort, an dem alle Personen zugewiesen werden.
-
+   >* Die **[!UICONTROL Primäre Personenpartition]** fungiert als Standard und ist der Ort, an dem alle Personen zugewiesen werden.
 
    >[!IMPORTANT]
    >
@@ -66,7 +65,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
    >
    >Nach der Erstellung testet Marketo Beispiel-Assets im Arbeitsbereich. Die Sprache ermöglicht es, dass diese gesendeten Objekte in einer nicht englischen Sprache vorliegen.
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-new-workspace-6.png)
 

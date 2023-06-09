@@ -2,7 +2,7 @@
 description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Benutzer erhalten die folgende E-Mail, wenn die E-Mail-Verifizierung für ein Ab
 
 >[!NOTE]
 >
->Um eine Verifizierungs-E-Mail erneut an einen nicht verifizierten Benutzer zu senden, wählen Sie einfach dessen Datensatz aus und klicken Sie auf die **Email überprüfen** Schaltfläche.
+>Um eine Verifizierungs-E-Mail erneut an einen nicht verifizierten Benutzer zu senden, wählen Sie einfach dessen Datensatz aus und klicken Sie auf die **[!UICONTROL Email überprüfen]** Schaltfläche.
 
 ## E-Mail-Adresse ändern {#changing-an-email-address}
 
-Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprüft. Sie erhalten eine E-Mail, in der sie eine erneute Überprüfung durchführen können. Benutzer können diese E-Mail manuell erneut senden, indem sie auf **Überprüfung erneut durchführen**.
+Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprüft. Sie erhalten eine E-Mail, in der sie eine erneute Überprüfung durchführen können. Benutzer können diese E-Mail manuell erneut senden, indem sie auf **[!UICONTROL Überprüfung erneut durchführen]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprü
 
 ## Benutzer und Rollen {#users-and-roles}
 
-In **Admin** > **Benutzer und Rollen**, zeigt die Spalte E-Mail-Status den Überprüfungsstatus jedes Benutzers an.
+In **[!UICONTROL Admin]** > **[!UICONTROL Benutzer und Rollen]**, zeigt die Spalte E-Mail-Status den Überprüfungsstatus jedes Benutzers an.
 
 ![](assets/email-verification-4.png)
 

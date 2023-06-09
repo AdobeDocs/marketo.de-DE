@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Beschreibung der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 19%
 
 ---
@@ -33,8 +33,8 @@ Zeigen Sie die Einstellungen an und nehmen Sie sie im Abschnitt Mein Konto unter
 * Zugreifen auf das Audit-Protokoll - Ermöglicht Benutzern den Zugriff auf das Asset-Audit-Protokoll und das Admin Audit-Protokoll
 * Auf Kanäle zugreifen - Ermöglicht Benutzern den Zugriff nur zum Ändern des Kanal-Tags, nicht aber anderer benutzerdefinierter Tags
 * Kommunikationsbeschränkung für Zugriff - Ermöglicht Benutzern Zugriff auf die Aktivierung einer Kommunikationsbeschränkung in Admin
-* Zugriff auf CRM - Ermöglicht Benutzern den Zugriff auf das CRM-System, z. B. Salesforce oder Microsoft Dynamics, in Admin
-* Zugriff [Data.com](https://Data.com) - Ermöglicht Benutzern Zugriff auf die Flussaktion &quot;Data.com&quot;
+* Zugriff auf CRM - Ermöglicht Benutzern Zugriff auf das CRM-System, z. B. [!DNL Salesforce] oder [!DNL Microsoft Dynamics]in Admin
+* Zugriff [[!DNL Data.com]](https://Data.com) - Ermöglicht Benutzern Zugriff auf die Flussaktion &quot;Data.com&quot;
 * Zugriff auf E-Mail-Admin - Ermöglicht Benutzern, E-Mail-Admin zu ändern, um Standardeinstellungen wie Abmeldung und Branding-Domänen zu ändern.
 * Zugriff auf Ereignispartner - Ermöglicht Benutzern den Zugriff auf LaunchPoint in Admin
 * Zugriff auf Feldverwaltung - Ermöglicht Benutzern Zugriff auf die Feldverwaltung in der Admin-Konsole
@@ -45,7 +45,7 @@ Zeigen Sie die Einstellungen an und nehmen Sie sie im Abschnitt Mein Konto unter
 * Zugriffsprotokolleinstellungen - Ermöglicht Benutzern Zugriff auf die Anmeldeeinstellungen in Admin für Sicherheit, IP-Einschränkungen und Einstellungen für Smart-List-Berichte
 * Zugriff auf benutzerdefinierte Marketo-Aktivitäten - Ermöglicht Benutzern den Zugriff auf benutzerdefinierte Marketo-Aktivitäten in Admin
 * Zugriff auf das benutzerdefinierte Marketo-Objekt - Ermöglicht Benutzern den Zugriff auf benutzerdefinierte Marketo-Objekte in Admin
-* Zugriff auf Munchkin - GI ermöglicht Benutzern den Zugriff auf Munchkin in Admin zum Festlegen von Trackingcode, Personen-Tracking und Aktivieren der API-Konfiguration
+* Zugriff [!DNL Munchkin] - GIves-Benutzer Zugriff auf [!DNL Munchkin] in Admin zum Festlegen von Trackingcode, Personen-Tracking und zur Aktivierung der API-Konfiguration
 * Zugriff auf die Umsatzzyklusanalyse - Ermöglicht Benutzern den Zugriff auf die Umsatzzyklusanalyse in Admin zum Festlegen der Synchronisierungszusammenfassung und -zuordnung
 * Zugriffsrollen - Ermöglicht Benutzern Zugriff auf die Verwaltung und Bearbeitung von Rollen, nicht jedoch von Benutzern
 * Auf Sales Insight zugreifen - Ermöglicht Benutzern Zugriff auf die Verwaltung von Sales Insight in Admin, um Status, API-Konfiguration, Personensortierung und andere Einstellungen festzulegen.

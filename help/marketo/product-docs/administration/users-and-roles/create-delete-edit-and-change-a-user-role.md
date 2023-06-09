@@ -3,7 +3,7 @@ unique-page-id: 2360198
 description: Erstellen, Löschen, Bearbeiten und Ändern einer Benutzerrolle - Marketo Docs - Produktdokumentation
 title: Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 9%
@@ -28,40 +28,39 @@ ht-degree: 9%
 >* RTP Editor
 >* RTP Launcher
 
-
 ## Rolle erstellen {#create-a-role}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Navigieren Sie zu **Registerkarte &quot;Rollen&quot;** und klicken Sie auf **Neue Rolle**.
+1. Navigieren Sie zu **[!UICONTROL Rollen]** Registerkarte und klicken Sie auf **[!UICONTROL Neue Rolle]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. Benennen Sie Ihre neue Rolle, aktivieren Sie alle Berechtigungen, die Sie Benutzern gewähren möchten, die mit der Rolle verknüpft sind, und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre neue Rolle, aktivieren Sie alle Berechtigungen, die Sie Benutzern gewähren möchten, die mit der Rolle verknüpft sind, und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Rolle löschen {#delete-a-role}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. Unter dem **Rollen** Registerkarte eine Rolle auswählen und auf **Rolle löschen**.
+1. Unter dem **[!UICONTROL Rollen]** Registerkarte eine Rolle auswählen und auf **[!UICONTROL Rolle löschen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
-1. Bestätigen Sie den Löschvorgang durch Klicken auf **Löschen**.
+1. Bestätigen Sie den Löschvorgang durch Klicken auf **[!UICONTROL Löschen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
@@ -75,23 +74,23 @@ ht-degree: 9%
 >
 >Um Ihre eigene Benutzerrolle zu bearbeiten, müssen Sie sich als ein anderer Benutzer mit Administratorrechten anmelden.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Klicken Sie auf **Rollen** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. Wählen Sie die Rolle aus, die Sie bearbeiten möchten, und klicken Sie auf **Rolle bearbeiten**.
+1. Wählen Sie die Rolle aus, die Sie bearbeiten möchten, und klicken Sie auf **[!UICONTROL Rolle bearbeiten]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
-1. Nehmen Sie alle erforderlichen Änderungen vor und klicken Sie auf **Speichern**.
+1. Nehmen Sie alle erforderlichen Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
@@ -105,19 +104,19 @@ ht-degree: 9%
 
 ## Ändern der Benutzerrolle {#change-a-users-role}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
-1. Wählen Sie den Benutzer aus, dem Sie eine andere Rolle zuweisen möchten, und klicken Sie auf **Benutzer bearbeiten.**
+1. Wählen Sie den Benutzer aus, dem Sie eine andere Rolle zuweisen möchten, und klicken Sie auf **[!UICONTROL Benutzer bearbeiten]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
-1. Deaktivieren Sie die vorherige Rolle, wählen Sie die neue aus und klicken Sie auf **Speichern**.
+1. Deaktivieren Sie die vorherige Rolle, wählen Sie die neue aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 

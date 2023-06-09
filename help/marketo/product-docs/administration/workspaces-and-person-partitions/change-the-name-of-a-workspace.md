@@ -3,7 +3,7 @@ unique-page-id: 2360321
 description: Ändern des Namens eines Workspace - Marketo Docs - Produktdokumentation
 title: Ändern des Namens eines Arbeitsbereichs
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -26,19 +26,19 @@ Benutzer können den Namen eines Arbeitsbereichs ändern. Es ist ziemlich einfac
 >
 >Erste Schritte mit [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 
-1. Klicken **Arbeitsbereiche und Partitionen**.
+1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/change-the-name-of-a-workspace-2.png)
 
-1. Wählen Sie den Arbeitsbereich aus und klicken Sie auf **Arbeitsbereich bearbeiten**.
+1. Wählen Sie den Arbeitsbereich aus und klicken Sie auf **[!UICONTROL Arbeitsbereich bearbeiten]**.
 
    ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. Neue Eingabe **Name** für Ihren Arbeitsbereich und klicken Sie auf **Speichern.**
+1. Neue Eingabe **[!UICONTROL Name]** für Ihren Arbeitsbereich und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 

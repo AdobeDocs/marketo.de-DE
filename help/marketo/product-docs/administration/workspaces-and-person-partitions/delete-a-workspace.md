@@ -3,7 +3,7 @@ unique-page-id: 2360313
 description: Arbeitsbereich löschen - Marketo-Dokumente - Produktdokumentation
 title: Löschen eines Arbeitsbereichs
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 7%
@@ -20,18 +20,18 @@ ht-degree: 7%
 >
 >Sie können den Standardarbeitsbereich in Marketo nicht löschen.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/delete-a-workspace-1.png)
 
-1. Klicken **Arbeitsbereiche und Partitionen**.
+1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/delete-a-workspace-2.png)
 
-1. Wählen Sie einen Arbeitsbereich aus und klicken Sie auf **Arbeitsbereich löschen**.
+1. Wählen Sie einen Arbeitsbereich aus und klicken Sie auf **[!UICONTROL Arbeitsbereich löschen]**.
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Bestätigen Sie die Anzahl der Assets, die Sie löschen möchten (sie wird für Sie neben &quot;Gesamt-Assets&quot;aufgelistet), wählen Sie die **Rückgängig nicht möglich** Kontrollkästchen aktivieren und dann auf **Löschen**.
+1. Bestätigen Sie die Anzahl der Assets, die Sie löschen möchten (sie wird für Sie neben &quot;[!UICONTROL Gesamte Assets]&quot;), wählen Sie die **[!UICONTROL Rückgängig nicht möglich]** Kontrollkästchen aktivieren und dann auf **[!UICONTROL Löschen]**.
 
    ![](assets/delete-a-workspace-4.png)

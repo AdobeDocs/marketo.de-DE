@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Verwalten von Benutzerrollen und Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Verwalten von Benutzerrollen und Berechtigungen
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 4%
@@ -38,19 +38,19 @@ Wenn Sie Marketo mit Adobe Identity verwenden, die Liste der Profilbeschreibunge
 
 Sie können Benutzern Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) oder [Bearbeiten eines vorhandenen Benutzers](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. Wählen Sie in der Liste den Benutzer aus, den Sie bearbeiten möchten, und klicken Sie auf **Benutzer bearbeiten**.
+1. Wählen Sie in der Liste den Benutzer aus, den Sie bearbeiten möchten, und klicken Sie auf **[!UICONTROL Benutzer bearbeiten]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. under **Rollen**, wählen Sie die Rollen aus, die Sie dem Benutzer entsprechend den benötigten Berechtigungen zuweisen möchten, und klicken Sie auf **Speichern**.
+1. under **[!UICONTROL Rollen]**, wählen Sie die Rollen aus, die Sie dem Benutzer entsprechend den benötigten Berechtigungen zuweisen möchten, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -62,23 +62,23 @@ Sie können Benutzern Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstell
 
 Manchmal hat Ihr Unternehmen Mitarbeiter in sehr spezifischen Rollen, die eine benutzerdefinierte Kombination von Berechtigungen erfordern.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. Klicken Sie auf **Rollen** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte.
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. Klicken **Neue Rolle**.
+1. Klicken **[!UICONTROL Neue Rolle]**.
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. Geben Sie einen **Rollenname**, **Beschreibung** (optional) und wählen Sie die Berechtigungen aus, die Benutzer mit dieser Rolle benötigen.
+1. Geben Sie einen **[!UICONTROL Rollenname]**, **[!UICONTROL Beschreibung]** (optional) und wählen Sie die Berechtigungen aus, die Benutzer mit dieser Rolle benötigen.
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -86,23 +86,23 @@ Manchmal hat Ihr Unternehmen Mitarbeiter in sehr spezifischen Rollen, die eine b
 
 Wenn Sie die Berechtigungen ändern müssen, die mit einer vorhandenen Rolle verknüpft sind, können Sie die Rolle bearbeiten.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. Klicken Sie auf **Rollen** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte.
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. Wählen Sie in der Liste die Rolle aus, die Sie ändern möchten, und klicken Sie auf **Rolle bearbeiten**.
+1. Wählen Sie in der Liste die Rolle aus, die Sie ändern möchten, und klicken Sie auf **[!UICONTROL Rolle bearbeiten]**.
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Ändern Sie die **Rollenname** und **Beschreibung** bei Bedarf und ändern Sie dann die Auswahl der zugehörigen **Berechtigungen**.
+1. Ändern Sie die **[!UICONTROL Rollenname]** und **[!UICONTROL Beschreibung]** bei Bedarf und ändern Sie dann die Auswahl der zugehörigen **[!UICONTROL Berechtigungen]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -114,22 +114,22 @@ Wenn Sie die Berechtigungen ändern müssen, die mit einer vorhandenen Rolle ver
 
 Wenn eine Rolle unnötig wird, können Sie sie löschen.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. Klicken Sie auf **Rollen** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte.
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. Wählen Sie in der Liste die Rolle aus, die Sie löschen möchten, und klicken Sie auf **Rolle löschen**.
+1. Wählen Sie in der Liste die Rolle aus, die Sie löschen möchten, und klicken Sie auf **[!UICONTROL Rolle löschen]**.
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicken **[!UICONTROL Löschen]** zur Bestätigung.
 
    ![](assets/managing-user-roles-and-permissions-19.png)

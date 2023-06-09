@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Grundlegendes zu Arbeitsbereichen und Personen-Partitionen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Arbeitsbereichen und Personen-Partitionen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '517'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets wie Prog
 >Einige Gründe für die Verwendung eines Arbeitsbereichs:
 >
 >* Geografie: Marketing-Abteilungen in Europa, Asien und Nordamerika erhalten jeweils einen Arbeitsbereich
->* Geschäftsbereich: Schnelle, Quickbooks und TurboTax erhalten jeweils einen Arbeitsbereich
+>* Geschäftsbereich: [!DNL Quicken], [!DNL Quickbooks] und [!DNL TurboTax] jeden Arbeitsbereich abrufen
 >
 >In jedem Fall liegt die Trennung darin, dass sich die Marketing-Assets vollständig unterscheiden. Wenn sie Marketing-Assets gemeinsam nutzen, sind Arbeitsbereiche möglicherweise nicht das richtige Tool für Sie.
 
@@ -43,15 +43,15 @@ So können Sie Assets über Arbeitsbereiche hinweg freigeben. Sie funktioniert f
 >
 >Der übergeordnete Ordner, der Ihre Assets enthält, ist der einzige Ordner, der freigegeben werden kann, nicht die untergeordneten Ordner.
 
-1. Klicken Sie auf Datenbank.
+1. Klicken **[!UICONTROL Datenbank]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner Segmentierung und klicken Sie auf **Neuer Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner Segmentierung und klicken Sie auf **[!UICONTROL Neuer Ordner]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Benennen Sie den Ordner und klicken Sie auf **Erstellen**.
+1. Benennen Sie den Ordner und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ So können Sie Assets über Arbeitsbereiche hinweg freigeben. Sie funktioniert f
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Ordner freigeben**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner freigeben]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **Speichern**. Im Dialogfeld Ordner freigeben werden nur Arbeitsbereiche angezeigt, für die Sie über die entsprechenden Berechtigungen verfügen.
+1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **[!UICONTROL Speichern]**. Im Dialogfeld Ordner freigeben werden nur Arbeitsbereiche angezeigt, für die Sie über die entsprechenden Berechtigungen verfügen.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ Sie können Personenpartitionen zuweisen zu  [Arbeitsbereiche](create-a-new-work
 >
 >* Ihre Arbeitsbereiche verfügen nicht nur über verschiedene Assets, sondern teilen auch keine Personen.
 >* Sie möchten aus anderen geschäftlichen Gründen Duplikate erstellen
-
 
 >[!CAUTION]
 >

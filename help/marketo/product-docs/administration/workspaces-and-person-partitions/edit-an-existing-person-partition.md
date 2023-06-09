@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: Bearbeiten einer bestehenden Personenpartition - Marketo Docs - Produktdokumentation
 title: Vorhandene Personenpartition bearbeiten
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 4%
@@ -20,24 +20,24 @@ Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partiti
 
 >[!PREREQUISITES]
 >
->[Erstellen einer Personenpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Erstellen einer Personenpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Klicken **Arbeitsbereiche und Partitionen**.
+1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Unter dem **Personenpartitionen** , wählen Sie die Personenpartition aus, die Sie bearbeiten möchten, und klicken Sie auf **Personenpartition bearbeiten**.
+1. Unter dem **[!UICONTROL Personenpartitionen]** , wählen Sie die Personenpartition aus, die Sie bearbeiten möchten, und klicken Sie auf **[!UICONTROL Personenpartition bearbeiten]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Benutzerpartition eingeben **Name**, die **Arbeitsbereiche** Sie gehören zu und klicken auf **Speichern**.
+1. Benutzerpartition eingeben **[!UICONTROL Name]**, die **[!UICONTROL Arbeitsbereiche]** Sie gehören zu und klicken auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-1. Nach dem Speichern der Änderungen sollte das Update angezeigt werden!
+Nach dem Speichern der Änderungen sollte das Update angezeigt werden!
 
-   ![](assets/edit-an-existing-person-partition-5.png)
+![](assets/edit-an-existing-person-partition-5.png)

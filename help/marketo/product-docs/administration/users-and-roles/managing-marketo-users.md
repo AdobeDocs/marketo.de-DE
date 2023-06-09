@@ -3,7 +3,7 @@ unique-page-id: 2359906
 description: Verwalten von Marketo-Benutzern - Marketo-Dokumente - Produktdokumentation
 title: Verwalten von Marketo-Benutzern
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 6%
@@ -14,27 +14,27 @@ ht-degree: 6%
 
 ## Benutzer erstellen {#create-users}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Klicken **Neuen Benutzer einladen**.
+1. Klicken **[!UICONTROL Neuen Benutzer einladen]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Geben Sie die **Email-Adresse**, **Vorname** und **Nachname**.
+1. Geben Sie die **[!UICONTROL Email]**, **[!UICONTROL Vorname]** und **[!UICONTROL Nachname]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Geben Sie optional einen Grund für die Einladung ein und wählen Sie ein Ablaufdatum im **Zugriffsablauf** -Feld mithilfe der Datumsauswahl.
+1. Geben Sie optional einen Grund für die Einladung ein und wählen Sie ein Ablaufdatum im **[!UICONTROL Zugriffsablauf]** -Feld mithilfe der Datumsauswahl.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Klicken **Nächste**.
+1. Klicken **[!UICONTROL Nächste]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -46,11 +46,11 @@ ht-degree: 6%
    >
    >Wenn das Ablaufdatum eintrifft, erhält der Benutzer eine Ablaufbenachrichtigung und sein Konto wird gesperrt.
 
-1. Wählen Sie die **Rolle** und klicken Sie auf **Nächste**.
+1. Wählen Sie die **[!UICONTROL Rolle]** und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Nehmen Sie bei Bedarf Änderungen an der Einladungsnachricht vor. Klicken **Senden**.
+1. Nehmen Sie bei Bedarf Änderungen an der Einladungsnachricht vor. Klicken **Siehend**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -68,37 +68,37 @@ Der neue Benutzer wird jetzt im Tab Benutzer aufgelistet und erhält eine E-Mail
 
 ## Benutzer löschen {#delete-users}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Wählen Sie den Benutzer aus, den Sie entfernen möchten, und klicken Sie auf **Benutzer löschen**.
+1. Wählen Sie den Benutzer aus, den Sie entfernen möchten, und klicken Sie auf **[!UICONTROL Benutzer löschen]**.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Bestätigen durch Klicken auf **OK**.
+1. Bestätigen durch Klicken auf **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Zurücksetzen von Benutzerkennwörtern {#reset-user-passwords}
 
-1. Navigieren Sie zum Admin-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Wählen Sie einen Benutzer aus und klicken Sie auf **Kennwort zurücksetzen**.
+1. Wählen Sie einen Benutzer aus und klicken Sie auf **[!UICONTROL Kennwort zurücksetzen]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Klicken **Schließen** , um die Eingabeaufforderung zu schließen.
+1. Klicken **[!UICONTROL Schließen]** , um die Eingabeaufforderung zu schließen.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -110,19 +110,19 @@ Der Benutzer erhält eine E-Mail mit Anweisungen zum Zurücksetzen des Kennworts
 
 ## Berechtigungen ändern und Benutzerinformationen bearbeiten {#change-permissions-and-edit-user-information}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Wählen Sie einen Benutzer aus und klicken Sie auf **Benutzer bearbeiten**.
+1. Wählen Sie einen Benutzer aus und klicken Sie auf **[!UICONTROL Benutzer bearbeiten]**.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Sie können Benutzerinformationen bearbeiten und die zugehörige Rolle ändern. Klicken **Speichern**.
+1. Sie können Benutzerinformationen bearbeiten und die zugehörige Rolle ändern. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/managing-marketo-users-21.png)
 

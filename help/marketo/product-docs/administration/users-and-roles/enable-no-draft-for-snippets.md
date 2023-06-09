@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: No-Draft für Snippets aktivieren - Marketo Docs - Produktdokumentation
 title: No-Draft für Snippets aktivieren
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -24,34 +24,34 @@ Mit &quot;Kein Entwurf für Snippets&quot;können Sie Änderungen an Snippets ve
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Navigieren Sie zu **Rollen** Registerkarte, eine Rolle auswählen und auf **Rolle bearbeiten**.
+1. Navigieren Sie zu **[!UICONTROL Rollen]** Registerkarte, eine Rolle auswählen und auf **[!UICONTROL Rolle bearbeiten]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Erweitern Sie die **Zugriff auf Design Studio** -Option.
+1. Erweitern Sie die **[!UICONTROL Zugriff auf Design Studio]** -Option.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Erweitern Sie die **Snippet aufrufen** -Option.
+1. Erweitern Sie die **[!UICONTROL Snippet aufrufen]** -Option.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Erweitern Sie die **Snippet genehmigen** Berechtigung und Überprüfung der **No-Draft** ankreuzen. Klicken Sie anschließend auf **Speichern**.
+1. Erweitern Sie die **[!UICONTROL Snippet genehmigen]** Berechtigung und Überprüfung der **[!UICONTROL No-Draft]** ankreuzen. Klicken Sie anschließend auf **[!UICONTROL Speichern]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Um No-Draft zu deaktivieren, führen Sie die Schritte 1 bis 4 oben aus, deaktivieren Sie das Kontrollkästchen No-Draft und klicken Sie auf **Speichern**.
+>Um No-Draft zu deaktivieren, führen Sie die Schritte 1 bis 4 oben aus, deaktivieren Sie das Kontrollkästchen No-Draft und klicken Sie auf **[!UICONTROL Speichern]**.
 
 >[!MORELIKETHIS]
 >
->[Snippet ohne Entwurf genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Snippet ohne Entwurf genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

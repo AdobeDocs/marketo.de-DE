@@ -3,7 +3,7 @@ unique-page-id: 2360274
 description: Verwalten von Tag-Werten - Marketo Docs - Produktdokumentation
 title: Verwalten von Tag-Werten
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 2%
@@ -24,43 +24,43 @@ ht-degree: 2%
 
 ## Hinzufügen von Tag-Werten {#adding-tag-values}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/managing-tag-values-1.png)
 
-1. Klicken **Tags**.
+1. Klicken **[!UICONTROL Tags]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Klicken **Neu**, dann **Neuer Tag-Wert**.
+1. Klicken **[!UICONTROL Neu]**, dann **[!UICONTROL Neuer Tag-Wert]**.
 
    ![](assets/managing-tag-values-3.png)
 
-1. Wählen Sie die **Tag-Typ**.
+1. Wählen Sie die **[!UICONTROL Tag-Typ]**.
 
    ![](assets/managing-tag-values-4.png)
 
-1. Geben Sie einen **Wert** und klicken Sie auf **Weitere hinzufügen**. Sie können beliebig viele Werte hinzufügen.
+1. Geben Sie einen **[!UICONTROL Wert]** und klicken Sie auf **[!UICONTROL Weitere hinzufügen]**. Sie können beliebig viele Werte hinzufügen.
 
    ![](assets/managing-tag-values-5.png)
 
-1. Fügen Sie die restlichen Werte hinzu und klicken Sie auf **Erstellen**.
+1. Fügen Sie die restlichen Werte hinzu und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/managing-tag-values-6.png)
 
-1. Sie sollten die Änderungen sofort sehen!
+Sie sollten die Änderungen sofort sehen!
 
-   ![](assets/managing-tag-values-7.png)
+![](assets/managing-tag-values-7.png)
 
 ## Ausblenden von Tag-Werten {#hiding-tag-values}
 
 Tags können von alten Programmen verwendet werden. Sie können sie für die zukünftige Verwendung verwerfen, indem Sie den Tag-Typ ausblenden.
 
-1. Wählen Sie die **Tag** und wählen Sie die **Wert** Du willst dich verstecken.
+1. Wählen Sie die **[!UICONTROL Tag]** und wählen Sie die **[!UICONTROL Wert]** Du willst dich verstecken.
 
    ![](assets/managing-tag-values-8.png)
 
-1. under **Tag-Aktionen** auswählen **Ausblenden**.
+1. under **[!UICONTROL Tag-Aktionen]** auswählen **[!UICONTROL Ausblenden]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -68,7 +68,7 @@ Tags können von alten Programmen verwendet werden. Sie können sie für die zuk
 
 Wenn Sie Ihre ausgeblendeten Werte erneut anzeigen möchten, gehen Sie wie folgt vor:
 
-1. Wählen Sie das Feld Ausgeblendete anzeigen aus. Nach der Aktivierung wird der ausgeblendete Wert angezeigt.
+1. Wählen Sie die **[!UICONTROL Ausgeblendete anzeigen]** aktivieren. Nach der Aktivierung wird der ausgeblendete Wert angezeigt.
 
    ![](assets/managing-tag-values-10.png)
 

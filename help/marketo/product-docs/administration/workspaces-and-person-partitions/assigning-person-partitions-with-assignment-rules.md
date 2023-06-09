@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: Zuweisen von Personenpartitionen zu Zuweisungsregeln - Marketo-Dokumente - Produktdokumentation
 title: Zuweisen von Personenpartitionen zu Zuordnungsregeln
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 2%
@@ -26,19 +26,19 @@ Richten Sie bei Verwendung von Personenpartitionen Zuweisungsregeln ein, um aus 
 >
 >Auf nur Personen, die in Marketo aus Ihrem CRM-System und über die SOAP-API erstellt wurden, werden Zuweisungsregeln angewendet.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Klicken **Arbeitsbereiche und Partitionen**.
+1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Unter dem **Personen-Partitionen** Registerkarte, klicken Sie auf **Zuweisungsregeln**.
+1. Unter dem **[!UICONTROL Personenpartitionen]** Registerkarte, klicken Sie auf **[!UICONTROL Zuweisungsregeln]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Klicken **Auswahl hinzufügen** , um Bedingungen für die Weiterleitung von Personen in Personenpartitionen hinzuzufügen.
+1. Klicken **[!UICONTROL Auswahl hinzufügen]** , um Bedingungen für die Weiterleitung von Personen in Personenpartitionen hinzuzufügen.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ Richten Sie bei Verwendung von Personenpartitionen Zuweisungsregeln ein, um aus 
    >
    >Sie können beliebig viele Auswahlmöglichkeiten hinzufügen.
 
-1. Klicken **Speichern**.
+1. Klicken **[!UICONTROL Speichern]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
