@@ -1,7 +1,7 @@
 ---
 description: Feldaufforderungen - Marketo-Dokumente - Produktdokumentation
 title: Feldaufforderungen
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -23,6 +23,8 @@ Um eine Feldaufforderung hinzuzufügen, geben Sie den gewünschten Text ein. Ste
 `{{! Add sentence that references their industry and role}}`
 
 <p>Benutzer müssen diesen Text durch eine eigene Personalisierung ersetzen, bevor die E-Mail gesendet werden kann.
+
+![](assets/field-prompts-1.png)
 
 >[!NOTE]
 >

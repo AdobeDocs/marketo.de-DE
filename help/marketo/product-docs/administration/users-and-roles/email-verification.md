@@ -2,9 +2,9 @@
 description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # E-Mail-Überprüfung {#email-verification}
 
 Für Adobe Marketo Engage-Abonnements müssen alle Benutzer, die keine API verwenden, einschließlich Marketo Engage-Administratoren, ihre E-Mail-Adresse überprüfen. Single-Sign-on (SSO)-Benutzer, denen keine Administratorrolle zugewiesen wurde oder denen eine Rolle mit der Berechtigung &quot;SSO umgehen&quot;zugewiesen wurde, lassen ihre E-Mail automatisch verifizieren, wenn ihr Abonnement mit der Funktion &quot;E-Mail-Verifizierung&quot;aktiviert ist.
+
+## Warum diese Funktion eingeführt wurde {#why-this-feature-was-introduced}
+
+Marketo Engage setzt die Einführung der E-Mail-Verifizierung fort, um Kunden zur Adobe Business Platform zu migrieren, einschließlich der Benutzermigration zu Adobe-IDs. Diese Funktion erhöht die Sicherheit vorhandener Marketo Engage-Benutzerkonten. Um sicherzustellen, dass ein Marketo Engage-Benutzer mit der richtigen Adobe ID verknüpft ist, müssen bestehende Marketo Engage-Benutzer ihre E-Mail-Adresse überprüfen. Ein Marketo Engage-Benutzer muss über eine verifizierte E-Mail-Adresse verfügen, um in eine Adobe ID migriert zu werden. Wenn ein Marketo Engage-Benutzer seine E-Mail-Adresse nicht verifiziert, kann er nicht zu einer Adobe ID migriert werden und verliert nach Abschluss der Benutzermigration für das Abonnement den Zugriff auf ein Marketo-Abonnement.
 
 ## Einladung für Benutzer {#user-invite}
 
@@ -49,7 +53,7 @@ Nur ein Benutzerkonto kann einer einzelnen E-Mail-Adresse zugeordnet werden. Wen
 * Verwenden einer neuen E-Mail für die aktuelle Benutzer-Anmelde-ID
 * Entscheidung bis zur nächsten Anmeldung verzögern
 
-   ![](assets/email-verification-5.png)
+  ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
