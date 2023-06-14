@@ -2,9 +2,9 @@
 description: Dynamische Felder - Marketo-Dokumente - Produktdokumentation
 title: Dynamische Felder
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 1%
 
 ---
@@ -37,13 +37,13 @@ Kopieren Sie sie einfach manuell und fügen Sie sie in das Betrefffeld einer E-M
 
 Wenn Sie Ihren E-Mail-Vorlagen dynamische Felder hinzufügen, können Sie einen Standardwert hinzufügen, zu dem das dynamische Feld aufgelöst wird, wenn kein anderer Wert verfügbar ist.
 
-Fügen Sie dazu &quot;|&quot;hinter der dynamischen Feldbeschriftung hinzu und fügen Sie dann &quot;default:&quot;hinzu. Fügen Sie dann den Wert hinzu, den das Feld auflösen soll, wenn kein anderer Wert gefunden werden kann.
+Fügen Sie dazu &quot;|&quot;hinter der dynamischen Feldbeschriftung hinzu und fügen Sie dann &quot;default:&quot;hinzu (beides ohne Anführungszeichen). Fügen Sie dann den Wert hinzu, den das Feld auflösen soll (in Anführungszeichen gesetzt), wenn kein anderer Wert gefunden werden kann.
 
 **Beispiel:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## Glossar zu dynamischen Feldern {#dynamic-fields-glossary}
 
