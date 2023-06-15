@@ -3,7 +3,8 @@ description: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adob
 title: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console
 hide: true
 hidefromtoc: true
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
+source-git-commit: 53ce63735f7d950b3da51a6a3b3f626d1fedca47
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 5%
@@ -12,4 +13,4 @@ ht-degree: 5%
 
 # Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
 
-Demnächst verfügbar
+Demnächst verfügbar.
