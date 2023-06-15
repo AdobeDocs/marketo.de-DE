@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 5%
 
 ---
@@ -628,7 +628,7 @@ ht-degree: 5%
          + [Browser-Benachrichtigungen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot-Verhalten](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamische Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamic Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Zeitplan für die Ernennung {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Meetings](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
@@ -1346,11 +1346,11 @@ ht-degree: 5%
                + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce-Diagnose](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce-Synchronisationseinstellungen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-            + Salesforce-Konfiguration {#salesforce-configuration}
-               + [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Konfiguration von Sales Insight-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-               + [Salesforce Classic-Anpassungspaket deinstallieren](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Salesforce Lightning Customization Package deinstallieren](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+            + Salesforce-Paketkonfiguration {#salesforce-package-configuration}
+               + [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+               + [Konfiguration von Sales Insight-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Deinstallieren von Marketo Sales Connect von Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+               + [Deinstallieren von Marketo Sales Connect von Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + E-Mail {#email}
             + Kommandozentrale {#command-center}
                + [Erweiterte Suchübersicht](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
