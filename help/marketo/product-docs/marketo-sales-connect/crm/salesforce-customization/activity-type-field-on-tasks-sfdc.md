@@ -3,7 +3,7 @@ unique-page-id: 14352476
 description: Aktivitätstyp-Feld für Aufgaben (SFDC) - Marketo-Dokumente - Produktdokumentation
 title: Aktivitätstyp Feld für Aufgaben (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 1%
@@ -37,7 +37,7 @@ Mithilfe von Sales Connect können Sie Ihre E-Mails und Anrufe als Aktivität in
 1. Sie befinden sich jetzt in der Liste &quot;Task Type Picklist&quot;. Stellen Sie sicher, dass kein &quot;Standard&quot;ausgewählt ist.
 1. Stellen Sie sicher, dass für E-Mail, Aufruf und Antwort ein Wert vom Typ aufgeführt ist.
 
-Nachdem dies eingerichtet ist, wird das Feld Typ den entsprechenden Wert für aufgezeichnete E-Mails, Aufrufe und Antworten anzeigen. Diese Werte werden **not** bei Erinnerungsaufgaben in Sales Connect aufgefüllt werden.
+Nachdem dies eingerichtet ist, wird das Feld Typ den entsprechenden Wert für aufgezeichnete E-Mails, Aufrufe und Antworten anzeigen. Diese Werte werden _not_ bei Erinnerungsaufgaben in Sales Connect aufgefüllt werden.
 
 >[!NOTE]
 >
