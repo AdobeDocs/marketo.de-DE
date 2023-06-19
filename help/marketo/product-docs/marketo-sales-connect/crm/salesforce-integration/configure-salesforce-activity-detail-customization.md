@@ -2,7 +2,7 @@
 description: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
 title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 1%
@@ -16,14 +16,12 @@ ht-degree: 1%
 >* Salesforce und Marketo Sales Connect [muss verbunden sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-
 Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Feld &quot;Salesforce-Aufgabe - Betreff&quot;protokolliert werden, wenn eine Aktivität/Erinnerungsaufgabe vom Typ &quot;Sales Connect&quot;mit Salesforce synchronisiert wird.
 
 >[!NOTE]
 >
 >* Aktualisierungen am Betrefffeld in Sales Connect einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie die `{{activity_subject}}` dynamisches Feld in Ihrer Aktivitätsdetailanpassung.
 >* Zeilenumbrüche werden bei der Protokollierung von Informationen in das Salesforce-Betrefffeld nicht unterstützt. Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff einer Verkaufsaufgabe aktualisiert wird.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -69,11 +67,11 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
   <th>Beschreibung</th>
  </tr>
  <tr>
-  <td>{{activity_type}</td>
+  <td>{{activity_type}}</td>
   <td>Fügt den Aufgabentyp als E-Mail, Aufruf, InMail oder Benutzerdefiniert ein.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}</td>
+  <td>{{activity_subject}}</td>
   <td><p>Füllt den Betreff der Aufgabe.</p>
       <p>Im Fall einer E-Mail wird die Betreffzeile der E-Mail ausgefüllt.</p>
       <p>Im Falle eines Aufrufs, inMail oder custom wird ein Wert aufgefüllt, wenn eine Erinnerungsaufgabe mit einem Wert im Feld "Aufgabenname/Betreff"erstellt wurde.</p></td>
@@ -91,7 +89,7 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
   <td>Wenn die Aktivität von einer Verkaufskampagne aus initiiert wurde, wird die Schrittnummer innerhalb der Verkaufskampagne aufgefüllt, an der diese Aktivität stattgefunden hat.</td>
  </tr>
  <tr>
-  <td>{{call_result}</td>
+  <td>{{call_outcome}}</td>
   <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Aufrufergebnis ausgewählt ist, wird der Ergebniswert des Aufrufs ausgefüllt.</td>
  </tr>
  <tr>
@@ -149,4 +147,3 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 >* [Synchronisierungseinstellungen](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Erinnern von Aufgabensynchronisierung mit Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
 >* [Anpassung von Sales Connect für CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
-

@@ -2,9 +2,9 @@
 description: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
 title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '709'
 ht-degree: 1%
 
 ---
@@ -14,8 +14,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* Salesforce- und Sales Insight-Aktionen [muss verbunden sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-
+>* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Feld Salesforce-Aufgabe - Betreff protokolliert werden, wenn eine Aktivität bzw. Erinnerung mit Salesforce synchronisiert wird.
 
@@ -23,7 +22,6 @@ Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informa
 >
 >* Aktualisierungen am Betrefffeld in Sales Insight-Aktionen einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie die `{{activity_subject}}` dynamisches Feld in Ihrer Aktivitätsdetailanpassung.
 >* Zeilenumbrüche werden bei der Protokollierung von Informationen in das Salesforce-Betrefffeld nicht unterstützt. Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff einer Verkaufsaufgabe aktualisiert wird.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -69,11 +67,11 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
   <th>Beschreibung</th>
  </tr>
  <tr>
-  <td>{{activity_type}</td>
+  <td>{{activity_type}}</td>
   <td>Fügt den Aufgabentyp als E-Mail, Aufruf, InMail oder Benutzerdefiniert ein.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}</td>
+  <td>{{activity_subject}}</td>
   <td><p>Füllt den Betreff der Aufgabe.</p>
       <p>Im Fall einer E-Mail wird die Betreffzeile der E-Mail ausgefüllt.</p>
       <p>Im Falle eines Aufrufs, inMail oder custom wird ein Wert aufgefüllt, wenn eine Erinnerungsaufgabe mit einem Wert im Feld "Aufgabenname/Betreff"erstellt wurde.</p></td>
@@ -91,7 +89,7 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
   <td>Wenn die Aktivität von einer Verkaufskampagne aus initiiert wurde, wird die Schrittnummer innerhalb der Verkaufskampagne aufgefüllt, an der diese Aktivität stattgefunden hat.</td>
  </tr>
  <tr>
-  <td>{{call_result}</td>
+  <td>{{call_outcome}}</td>
   <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Aufrufergebnis ausgewählt ist, wird der Ergebniswert des Aufrufs ausgefüllt.</td>
  </tr>
  <tr>
@@ -146,6 +144,5 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
 >[!MORELIKETHIS]
 >
->* [Synchronisierungseinstellungen](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Vertriebsaktivitäten mit Salesforce synchronisieren](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Erinnern von Aufgabensynchronisierung mit Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-
