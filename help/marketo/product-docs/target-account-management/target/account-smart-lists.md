@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Intelligente Kontolisten - Marketo-Dokumente - Produktdokumentation
 title: Intelligente Kontolisten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 1%
@@ -64,7 +64,7 @@ Smart-Listen für Konten funktionieren ähnlich wie standardmäßige Smart-Liste
 
    ![](assets/account-smart-lists-9.png)
 
-**Optionaler Schritt**: Hier kommen Container herein. Wenn Sie einen zusätzlichen Filter für übereinstimmende Personen auswählen, können Sie ihn unter den ersten Filter legen oder _in_ Erstellen eines Containers. In diesem Beispiel erstellen wir einen Container, indem wir _Auftragstitel ist CFO_.
+**OPTIONALER SCHRITT**: Hier kommen Container herein. Wenn Sie einen zusätzlichen Filter für übereinstimmende Personen auswählen, können Sie ihn unter den ersten Filter legen oder _in_ Erstellen eines Containers. In diesem Beispiel erstellen wir einen Container, indem wir _Auftragstitel ist CFO_.
 
 ![](assets/account-smart-lists-10.png)
 

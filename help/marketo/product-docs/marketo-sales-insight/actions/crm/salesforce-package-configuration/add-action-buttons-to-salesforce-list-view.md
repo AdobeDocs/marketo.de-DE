@@ -1,11 +1,9 @@
 ---
 description: Aktionsschaltflächen zur Salesforce-Listenansicht hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen von Aktionsschaltflächen zur Salesforce-Listenansicht
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 2%
 
 ---
@@ -49,6 +47,6 @@ Zu den zu installierenden Aktionsschaltflächen gehören:
 
 >[!MORELIKETHIS]
 >
->* Verwenden des Massen-E-Mail-Versands in Salesforce (muss erstellt werden)
->* Verwenden von Massen-Hinzufügen zu Verkaufskampagnen in Salesforce (erforderlich)
+>* [Verwenden der Massen-Sende-Verkaufs-E-Mail in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Verwenden von Massen-Add zu Verkaufskampagnen in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

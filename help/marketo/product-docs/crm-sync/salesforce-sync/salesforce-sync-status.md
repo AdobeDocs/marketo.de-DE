@@ -2,7 +2,7 @@
 description: Salesforce-Synchronisierungsstatus - Marketo-Dokumente - Produktdokumentation
 title: Salesforce-Synchronisierungsstatus
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 14%
@@ -47,7 +47,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Optionaler Schritt**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf **Export**. Die Daten werden als CSV exportiert.
+**OPTIONALER SCHRITT**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf **Export**. Die Daten werden als CSV exportiert.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -134,7 +134,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">Kontotyp</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Benutzerdefinierte Objekte</td> 
+   <td colspan="1">benutzerdefinierte -Objekte</td> 
   </tr>  
   <tr> 
    <td colspan="1">Kampagne</td> 

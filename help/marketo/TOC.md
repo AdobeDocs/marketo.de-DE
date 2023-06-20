@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '8933'
+source-wordcount: '8958'
 ht-degree: 5%
 
 ---
@@ -1347,11 +1347,15 @@ ht-degree: 5%
                + [Salesforce-Diagnose](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Vertriebsaktivitäten mit Salesforce synchronisieren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce-Paketkonfiguration {#salesforce-package-configuration}
-               + [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Konfiguration von Sales Insight-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Deinstallieren von Marketo Sales Connect von Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Deinstallieren von Marketo Sales Connect von Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Hinzufügen von Aktionsschaltflächen zur Salesforce-Listenansicht](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Feld &quot;Aktivitätstyp&quot;bei der Protokollierung von Aktivitäten in Salesforce aktualisieren](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+            + Aktionen in Salesforce {#actions-in-salesforce}
+               + [Verwenden der Massen-Sende-Verkaufs-E-Mail in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+               + [Verwenden von Massen-Add zu Verkaufskampagnen in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-Mail {#email}
             + Kommandozentrale {#command-center}
                + [Erweiterte Suchübersicht](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

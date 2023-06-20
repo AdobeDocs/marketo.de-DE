@@ -3,7 +3,7 @@ unique-page-id: 12255457
 description: Erste Schritte mit TAM - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte mit TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Marketo TAM zu Ihrer Instanz hinzufügen? Sehr gut! Sehen wir uns an, was du jet
 * [Entdecken Sie Marketo-Unternehmen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - Zeigen Sie eine Liste von Unternehmen aus anderen Quellen als Ihrem CRM an und filtern Sie mithilfe von Schlüsselattributen nach benannten Konten.
 * [Manuelles Erstellen eines benannten Kontos](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) - Wenn Sie ein benanntes Konto manuell erstellen, besteht der nächste Schritt darin, [Füllung mit Personen](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) manuell
 
-**Optionaler Schritt: [Erstellen und Einrichten von Kontolisten](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Gruppenkonten in Listen, mit denen Sie spezifische Konten nach Branche, Standort oder Größe des Unternehmens auswählen können.
+**OPTIONALER SCHRITT: [Erstellen und Einrichten von Kontolisten](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Gruppenkonten in Listen, mit denen Sie spezifische Konten nach Branche, Standort oder Größe des Unternehmens auswählen können.
 
 Nachdem Sie die obigen Schritte ausgeführt haben, können Sie mit TAM beginnen!
