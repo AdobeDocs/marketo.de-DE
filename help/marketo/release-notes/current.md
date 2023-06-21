@@ -2,16 +2,16 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 4%
+source-wordcount: '643'
+ht-degree: 9%
 
 ---
 
-# Versionshinweise: Mai 2023 {#release-notes-may-23}
+# Versionshinweise: Juli 2023 {#release-notes-july-23}
 
-Unten finden Sie alle Funktionen der Version vom 23. Mai. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen der Version vom 23. Juli. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -19,13 +19,11 @@ Unten finden Sie alle Funktionen der Version vom 23. Mai. Überprüfen Sie Ihre 
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **12. Mai 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
-
-### Marketo Engage Modern UX {#modern-ux}
+Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **21. Juli 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 </br>
 
-* **Adobe Experience Cloud-Benutzeroberfläche**: Richtet Marketo Engage und Experience Cloud aus, um ein konsistentes Navigationserlebnis für mehrere Experience Cloud-Lösungen in einer Benutzersitzung zu erstellen.
+* **Interaktionsarbeitsfläche**: Die Interaktionsarbeitsfläche ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Leinwanddateien können heruntergeladen und freigegeben werden.
 
 <table> 
   <tr> 
@@ -33,22 +31,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Übersicht über die Experience Cloud-Oberfläche</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Marketo Engage Help Center**: Das Help Center bietet Marketo Engage-Benutzern einen zentralen Ort, um Hilfe-Ressourcen aus dem Produkt zu finden. Darüber hinaus bietet das Hilfezentrum Benutzern die Möglichkeit, produktinterne Handbücher zu aktivieren, in denen erklärt wird, wie sich wichtige Funktionen nutzen lassen.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Hilfezentrum</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
@@ -57,15 +41,11 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-### Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
+### Dynamischer Chat {#dynamic-chat}
 
 </br>
 
-* **Interaktive Webinare (begrenzte Verfügbarkeit anfangs)**:
-
-Interaktive Webinare erweitern das bestehende Events- und Webinarerlebnis, indem sie Marketingfachleuten ein natives und nahtloses Erlebnis bieten, mit dem sie Ereignisse in Marketo Engage erstellen, verwalten und bereitstellen können. Passen Sie Webinare je nach Ereignistyp an und fügen Sie bei Bedarf sogar Moderatoren hinzu. Erhalten Sie umfassende Einblicke in Adobe Connect-Funktionen wie Live-Umfragen, Chat, Fragen und Antworten, Web-Link-Klicks, Dokumentdownloads und mehr. Rufen Sie die Webinaraufzeichnung direkt in Marketo Engage ab und bewerten Sie deren Leistung mithilfe von Rich-Dashboard-Metriken.
-
-Interaktive Webinare werden schrittweise eingeführt. Um früheren Zugriff anzufordern, füllen Sie bitte [dieses Formulars](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+* **Chat-Quelle für dynamischen Chat**: &quot;Chat&quot; wird nun als Quelle für neue Personenaufzeichnungen und Aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
 
 <table> 
   <tr> 
@@ -73,12 +53,118 @@ Interaktive Webinare werden schrittweise eingeführt. Um früheren Zugriff anzuf
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Rollout gestartet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interaktive Webinare - Überblick</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Verbesserte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, -Filter und -Trigger wurden durch zusätzliche Attribute und standardisierte Benennungskonventionen erweitert.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Sales Insight {#marketo-sales-insight}
+
+</br>
+
+* **Append-Einstellungen abmelden**: Sie haben jetzt mehr Kontrolle über Ihre Abmelde-Nachrichten mit neuen Konfigurationsoptionen zum Abmelden von Anhängen. Neue Funktionen geben Administratoren die Kontrolle darüber, wann, wo und welche Abmelde-Nachrichten in Ihren Verkaufs-E-Mails angezeigt werden.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamische Feldaufforderungen**: Sie können jetzt Ihr Sales-Team auffordern, bestimmte Teile einer E-Mail noch weiter zu personalisieren. Dazu stehen neue Feldaufforderungen zur Verfügung, die in Sales Insight-Aktionen zu E-Mail-Vorlagen hinzugefügt werden können.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamische Standardfelder**: Mit &quot;Dynamische Standardfelder&quot;können Sie einen Fallback-Wert konfigurieren, in den ein dynamisches Feld aufgelöst werden kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit der gesamten Personalisierung gesendet werden.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat-Unterstützung für Sales Insight**: Es wurden Aktualisierungen vorgenommen, um die in dieser Version eingeführten neuen Dynamic Chat-Attribute für alle Dynamic Chat zu unterstützen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat-Unterstützung für Sales Insight-Aktionen**: Wir unterstützen jetzt Dynamic Chat-Aktivitäten im Lead-Feed sowie Benachrichtigungen, wenn ein Live-Chat an einen Agenten weitergeleitet wird.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat-Trigger-Token**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Ankündigungen {#announcements}
 
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+Die Echtzeit-Personalisierung von Marketo Engage wurde um zwei Verbesserungen erweitert.
+
+* **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
+
+* **Aktualisierung auf jQuery 3.7**: Um die Sicherheit und Stabilität zu verbessern, aktualisiert Marketo auf jQuery 3.7.0. RTP-Benutzer, die ihre eigene jQuery nicht laden, sind nicht negativ betroffen, da Marketo die von rtp.js geladene Standardversion ändert. Wenn Sie jedoch RTP-Benutzer mit einer Version von jQuery sind, die älter als 3.0.0 ist, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} Hilfe bei der Implementierung einer benutzerdefinierten Version von rtp.js, die Ihren Anforderungen entspricht.
