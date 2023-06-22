@@ -1,7 +1,7 @@
 ---
 description: Verwenden der Massen-E-Mail zum Senden von Verkäufen in Salesforce - Marketo Docs - Produktdokumentation
 title: Verwenden der Massen-Sende-Verkaufs-E-Mail in Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden können, um Ihre ausge
    >Sie können eine neue Ansicht erstellen, indem Sie auf Neue Ansicht erstellen klicken und die verfügbaren Filter konfigurieren, um die Liste der Benutzer einzuschränken, die Sie zu einer Verkaufskampagne hinzufügen.
 
 1. Wählen Sie die gewünschte Lead- oder Kontaktliste aus und klicken Sie auf die Schaltfläche **E-Mail zum Vertrieb senden** Schaltfläche.
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. Sie werden zum Fenster Aktionskomposition mit den im Fenster zum Erstellen ausgewählten Empfängern navigiert.
 
