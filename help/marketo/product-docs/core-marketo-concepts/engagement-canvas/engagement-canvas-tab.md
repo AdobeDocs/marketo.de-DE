@@ -1,117 +1,104 @@
 ---
-description: Registerkarte "Name"- Marketo Docs - Produktdokumentation
-title: Registerkarte "Name"
+description: Registerkarte "Interaktionsarbeitsfläche"- Marketo-Dokumente - Produktdokumentation
+title: Registerkarte "Interaktionsarbeitsfläche"
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Registerkarte &quot;Name&quot; {#name-tab}
+# Registerkarte &quot;Interaktionsarbeitsfläche&quot; {#engagement-canvas-tab}
 
-Journey werden durch eine Reihe von Trigger-, Filter- und Flusskarten dargestellt. Wenn Sie auf jede dieser Karten klicken, wird der entsprechende Slide-out-Bereich geöffnet.
+Die Interaktionsarbeitsfläche wird durch eine Reihe von Trigger-, Filter- und Flusskarten dargestellt. Wenn Sie auf jede Karte klicken, werden zusätzliche Informationen angezeigt.
 
-Übersicht über Trigger: Auf der Karte wird die Anzahl der Trigger in der jeweiligen Kampagne angezeigt. Wenn Sie auf diese Karte klicken, werden auch die Detailkarten der Trigger angezeigt und gleichzeitig das Bedienfeld &quot;Slide out&quot;mit den folgenden Informationen geöffnet:
+Übersicht über Trigger: Auf dieser Karte wird die Anzahl der Trigger in Ihrer Kampagne angezeigt. Wenn Sie darauf klicken, werden eine Karte für jeden Trigger sowie ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
-Kampagne, zu der der Trigger gehört
-
-Schaltfläche &quot;Trigger bearbeiten&quot;, um auf die Registerkarte &quot;Smart-Liste&quot;zuzugreifen
-
-Liste der Trigger-Namen
+* Kampagne, zu der der Trigger gehört
+* Liste der Trigger-Namen
+* Schaltfläche &quot;Trigger bearbeiten&quot;
 
 SCREENSHOT
 
-Trigger-Detail: Auf der Karte wird der Name des Triggers angezeigt. Wenn Sie auf diese Karte klicken, wird das Bedienfeld &quot;Slide out&quot;mit den folgenden Informationen geöffnet:
+Trigger-Detail: Auf dieser Karte wird der Name des Triggers angezeigt. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
-Kampagne, zu der der Trigger gehört
-
-Schaltfläche &quot;Trigger bearbeiten&quot;, um auf die Registerkarte &quot;Smart-Liste&quot;zuzugreifen
-
-Liste der dem Trigger zugeordneten Begrenzungen
+* Kampagne, zu der der Trigger gehört
+* Liste der dem Trigger zugeordneten Begrenzungen
+* Schaltfläche &quot;Trigger bearbeiten&quot;
 
 SCREENSHOT
 
-Filter: Wenn Sie auf diese Karte klicken, wird das Bedienfeld &quot;Slide out&quot;mit den folgenden Informationen geöffnet:
+Filter: Wenn Sie auf diese Karte klicken, wird ein Bedienfeld mit den folgenden Informationen angezeigt:
 
-Kampagne, zu der der Trigger gehört
-
-Schaltfläche Filter bearbeiten für den Zugriff auf die Registerkarte &quot;Smart-Liste&quot;
-
-Geschätzte Anzahl von Personen, die sich für den Filter qualifizieren
-
-Liste der Filter und der jeweiligen Einschränkungen
+* Kampagne, zu der der Trigger gehört
+* Geschätzte Anzahl von Personen, die sich für den Filter qualifizieren
+* Liste der Filter und der jeweiligen Einschränkungen
+* Schaltfläche &quot;Filter bearbeiten&quot;
 
 SCREENSHOT
 
-Flussschritte: Wenn ein Flussschritt keine Optionen enthält, zeigt die Karte Attribute an, die mit dem Flussschritt verknüpft sind. Wenn Sie auf die Karte klicken, wird das Bedienfeld &quot;Folie aus&quot;mit den folgenden Informationen geöffnet:
+Flussschritte: Wenn ein Flussschritt Optionen enthält, zeigt diese Karte den Namen des Flussschritts an. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
-Kampagne, zu der der Schritt &quot;Fluss&quot;gehört
-
-Schaltfläche &quot;Fluss bearbeiten&quot;zum Aufrufen der Registerkarte &quot;Fluss&quot;
-
-Liste der mit dem Flussschritt verknüpften Attribute
+* Campaign Der Fluss -Schritt gehört zu
+* Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+* Schaltfläche &quot;Fluss bearbeiten&quot;
 
 SCREENSHOT
 
-Flussschritte: Wenn ein Flussschritt Optionen enthält, zeigt die Karte den Namen des Flussschritts an. Wenn Sie auf die Karte klicken, wird das Bedienfeld &quot;Folie aus&quot;mit den folgenden Informationen geöffnet:
+Flussschritte: Wenn ein Flussschritt _not_ alle Optionen einschließen, zeigt diese Karte Attribute an, die mit dem Flussschritt verknüpft sind. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
-Kampagne, zu der der Schritt &quot;Fluss&quot;gehört
-
-Schaltfläche &quot;Fluss bearbeiten&quot;zum Aufrufen der Registerkarte &quot;Fluss&quot;
-
-Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+* Campaign Der Fluss -Schritt gehört zu
+* Liste der mit dem Flussschritt verknüpften Attribute
+* Schaltfläche &quot;Fluss bearbeiten&quot;
 
 SCREENSHOT
 
-Flussschritt für Ausführen und Anfordern von Kampagnen:
+## Flussschritt für Ausführen und Anfordern von Kampagnen {#flow-step-for-execute-and-request-campaigns}
 
-Wenn der Schritt Kampagnenfluss ausführen oder anfordern keine Optionen enthält, zeigt die Karte den Namen der Kampagne an. Wenn Sie auf die Karte klicken, wird das Bedienfeld &quot;Folie aus&quot;mit den folgenden Informationen geöffnet:
+* Wenn der Schritt Kampagnenfluss ausführen oder anfordern keine Optionen enthält, zeigt die Karte den Namen der Kampagne an. Wenn Sie auf die Karte klicken, wird ein Bedienfeld mit der folgenden Information angezeigt:
 
-Kampagne, zu der der Flussschritt gehört
+   * Kampagne, zu der der Flussschritt gehört
+   * Schaltfläche &quot;Fluss bearbeiten&quot;
+   * Liste der mit dem Flussschritt verknüpften Attribute
+   * Schaltfläche &quot;Liste anzeigen&quot;, über die eine Liste von Kampagnen geöffnet wird, die die jeweilige Kampagne &quot;Anfrage/Ausführung&quot; verwenden
 
-Schaltfläche &quot;Fluss bearbeiten&quot;zum Aufrufen der Registerkarte &quot;Fluss&quot;
-
-Liste der mit dem Flussschritt verknüpften Attribute
-
-Schaltfläche Liste anzeigen , mit der eine Liste von Kampagnen geöffnet wird, die die jeweilige Anforderung verwenden oder eine Kampagne ausführen
-
-Hinweis: Sie können den Flussschritt von einer primären Kampagne aus bearbeiten. Um verschachtelte Kampagnen zu bearbeiten, müssen Sie über den Hyperlink im Bereich &quot;Folie aus&quot;zur Kampagne navigieren.
+>[!NOTE]
+>
+>Sie können die Flussschritte von einer primären Kampagne aus bearbeiten. Um verschachtelte Kampagnen zu bearbeiten, müssen Sie über den Link im Dia-out-Bedienfeld zur Kampagne navigieren.
 
 SCREENSHOT
 
 SCREENSHOT
 
-Wenn der Schritt Kampagnenfluss ausführen oder anfordern eine Auswahl enthält, zeigt die Karte den Namen der Kampagne an. Wenn Sie auf die Karte klicken, wird das Bedienfeld &quot;Folie aus&quot;mit den folgenden Informationen geöffnet:
+* Wenn der Schritt Kampagnenfluss ausführen oder anfordern eine Auswahl enthält, zeigt die Karte den Namen der Kampagne an. Wenn Sie auf die Karte klicken, wird ein Bedienfeld mit der folgenden Information angezeigt:
 
-Kampagne, zu der der Flussschritt gehört
-
-Schaltfläche &quot;Fluss bearbeiten&quot;zum Aufrufen der Registerkarte &quot;Fluss&quot;
-
-Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+   * Kampagne, zu der der Flussschritt gehört
+   * Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+   * Schaltfläche &quot;Fluss bearbeiten&quot;
 
 SCREENSHOT
 
 SCREENSHOT
 
-Wenn eine Ausführungs- oder Anforderungskampagne Optionen enthält, wird durch Klicken auf die Flusskarte die Auswahl in einzelnen Karten angezeigt.
+* Wenn eine Ausführen- oder Anforderungskampagne Optionen enthält, wird das Klicken auf die Flusskarte erweitert, um alle Optionen in einzelnen Karten anzuzeigen. Wenn Sie auf die Auswahlkarte klicken, wird die mit der jeweiligen Auswahl verknüpfte Kampagne erweitert und gleichzeitig das Bedienfeld &quot;Folie aus&quot;mit den folgenden Informationen geöffnet:
 
-Wenn Sie auf die Auswahlkarte klicken, wird die mit der jeweiligen Auswahl verknüpfte Kampagne erweitert und gleichzeitig das Bedienfeld &quot;Folie aus&quot;mit den folgenden Informationen geöffnet:
+!!!!!!!!!!!!!!! GRAMMAR FIX ZWEITEN SATZ
 
-Kampagne, zu der die Auswahl gehört
-
-Schaltfläche &quot;Auswahl bearbeiten&quot;, um auf die Registerkarte &quot;Fluss&quot;zuzugreifen
-
-Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
-
-Schaltfläche Liste anzeigen , mit der eine Liste von Kampagnen geöffnet wird, die die jeweilige Anforderung verwenden oder eine Kampagne ausführen
+* Kampagne, zu der die Auswahl gehört
+* Schaltfläche &quot;Auswahl bearbeiten&quot;
+* Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+* Schaltfläche &quot;Liste anzeigen&quot;, über die eine Liste von Kampagnen geöffnet wird, die die jeweilige Kampagne &quot;Anfrage/Ausführung&quot; verwenden
 
 SCREENSHOT
 
-Visualisieren von verschachtelten Execute-Campaign (neuer Abschnitt)
+!!!!!!!!!!!!!!! UNTEN - fügen Sie &quot;a&quot;vor Verschachtelt hinzu?
+
+## Visualisieren von verschachtelten Execute-Campaign {#visualizing-nested-execute-campaign}
+
+BEARBEITUNG HIER ABGESCHLOSSEN
 
 Führen Sie Kampagnen aus, die nacheinander mit der übergeordneten Kampagne ausgeführt werden, d. h. Leads, die für eine ausführbare Kampagne infrage kommen, führen alle Flussschritte der Kampagne aus und kehren zur primären Kampagne zurück, um durch die Durchsatzschritte dieser Kampagne fortzufahren.
 
@@ -119,13 +106,10 @@ Im Folgenden finden Sie ein Beispiel einer intelligenten Kampagne &quot;Kampagne
 
 SCREENSHOT
 
-Wenn Sie auf die Karte Kampagnenfluss ausführen klicken, werden Details zu &quot;Kampagne B&quot;angezeigt
-
-Kampagne B enthält Filter, welche Verzweigungen in nicht qualifizierter und qualifizierter Zielgruppe ausscheiden.
-
-Qualifizierte Zielgruppe durchläuft die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
-
-Alle Zielgruppen (qualifiziert und nicht qualifiziert) kehren zu &quot;Kampagne A&quot;zurück und fahren mit dem nächsten Flussschritt fort
+1. Wenn Sie auf die Karte Kampagnenfluss ausführen klicken, werden Details zu &quot;Kampagne B&quot;angezeigt.
+1. Kampagne B enthält Filter, welche Verzweigungen in nicht qualifizierter und qualifizierter Zielgruppe ausscheiden.
+1. Qualifizierte Zielgruppen durchlaufen die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
+1. Alle Zielgruppen (qualifiziert und nicht qualifiziert) kehren zu &quot;Kampagne A&quot;zurück und fahren mit dem nächsten Flussschritt fort.
 
 SCREENSHOT
 
@@ -133,7 +117,7 @@ Sie können in &quot;Kampagne B&quot;auf Kampagnenfluss ausführen klicken. Dara
 
 SCREENSHOT
 
-Visualisieren der Anforderungskampagne (neuer Abschnitt)
+## Visualisieren von Anforderungskampagnen {#visualizing-request-campaign}
 
 Anfragekampagnen werden parallel zur übergeordneten Kampagne ausgeführt, d. h. Leads, die für eine Anfragekampagne qualifiziert sind, führen alle Durchsatzschritte aus der Kampagne aus und beenden die Kampagne. Parallel dazu durchlaufen dieselben Leads auch die Flussschritte der primären Kampagne.
 
@@ -141,13 +125,10 @@ Im Folgenden finden Sie ein Beispiel einer intelligenten Kampagne &quot;Kampagne
 
 SCREENSHOT
 
-Wenn Sie auf die Karte für den Ablauf der Anforderungskampagne klicken, werden Details von &quot;Kampagne B&quot;angezeigt
-
-Kampagne B enthält Filter, welche Verzweigungen in die qualifizierte Zielgruppe eingehen.
-
-Qualifizierte Zielgruppe durchläuft die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
-
-Parallel dazu wechseln alle Zielgruppen zu den nächsten Flussschritten in &quot;Kampagne A&quot;.
+1. Wenn Sie auf die Karte für den Ablauf der Anforderungskampagne klicken, werden Details von &quot;Kampagne B&quot;angezeigt
+1. Kampagne B enthält Filter, welche Verzweigungen in die qualifizierte Zielgruppe eingehen.
+1. Qualifizierte Zielgruppe durchläuft die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
+1. Parallel dazu wechseln alle Zielgruppen zu den nächsten Flussschritten in &quot;Kampagne A&quot;.
 
 SCREENSHOT
 
@@ -159,7 +140,7 @@ Hier ist ein Beispiel für eine Anforderungskampagne mit Auswahlmöglichkeiten.
 
 SCREENSHOT
 
-Umgang mit Fehlern:
+## Umgang mit Fehlern {#error-handling}
 
 Fehler in den Schritten &quot;Smart-Liste&quot;und &quot;Fluss&quot;werden über das Fehlersymbol auf der Karte hervorgehoben. Darüber hinaus wird die entsprechende Fehlermeldung im Bedienfeld &quot;Folie ausblenden&quot;angezeigt.
 

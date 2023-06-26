@@ -4,22 +4,24 @@ title: Registerkarte "Einstellungen"
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Registerkarte &quot;Einstellungen&quot; {#settings-tab}
 
-Der Tab Einstellungen ist eine zentrale Anlaufstelle, die alle Kampagneneinstellungen enthält. Sie enthält dieselben Berechtigungssätze und Zugriff wie die Registerkarte &quot;Plan&quot;. Dadurch werden die bestehenden Kampagneneinstellungen nicht gestört. Es enthält 3 Abschnitte und entsprechende Modale, um jeden Abschnitt zu bearbeiten.
+Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, einschließlich der gleichen Berechtigungssätze und des Zugriffs auf die Registerkarte Planung . ÄNDERUNGEN IN DIESER REGISTERKARTE?? Dadurch werden die bestehenden Kampagneneinstellungen nicht gestört.
 
-Qualifikationsregeln, die festlegen, wie oft jede Person den Fluss einer intelligenten Kampagne durchlaufen kann
+Er enthält die folgenden drei Abschnitte.
 
-Einzelläufe, mit denen einzelne Ausführungen entweder sofort oder in Zukunft geplant werden können
+* **Qualifikationsregeln**: Bestimmt, wie oft jede Person den Fluss der intelligenten Kampagne durchlaufen kann.
 
-Wiederholung, die zur Planung der täglichen, wöchentlichen oder monatlichen Wiederholung verwendet wird
+* **Einzelne Ausführungen**: Kann verwendet werden, um einzelne Ausführungen entweder sofort oder in Zukunft zu planen.
+
+* **Wiederholung**: Wird zur Planung einer täglichen, wöchentlichen oder monatlichen Wiederholung verwendet.
 
 SCREENSHOT
 
