@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Versand und Tracking aus Outlook mit einer Marketo-Vorlage - Marketo-Dokumente - Produktdokumentation
 title: Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage {#send-and-track-from-outlook-using-a-marketo-template}
 
 Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie damit Zeit sparen, wenn Sie E-Mails erstellen.
+
+>[!NOTE]
+>
+>Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den E-Mail-Plugins für Sales Insight für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
 
 1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketo-Nachricht**.
 

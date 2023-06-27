@@ -2,9 +2,9 @@
 description: Verwaltungsanleitung für Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
 title: Admin-Setup-Anleitung für Sales Insight-Aktionen
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 1%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 1%
 1. Klicken Sie in Marketo auf **Admin**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >Wenn auf der Karte &quot;Integrationsinformationen&quot;keine Client-ID und kein Client-Geheimnis angezeigt werden, aktivieren Sie Ihre Aktionsinstanz, indem Sie den ersten Benutzer einladen. Daraufhin werden die Client-ID und das Client-Geheimnis angezeigt.
 
 1. Klicken **Sales Insight**, dann **Aktionskonfiguration**. Wählen Sie aus einer Liste von Marketo-Administratoren aus, die Sie einladen möchten, und klicken Sie auf **Einladung senden**.
 

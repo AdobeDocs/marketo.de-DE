@@ -4,16 +4,16 @@ title: Registerkarte "Einstellungen"
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '267'
+ht-degree: 2%
 
 ---
 
 # Registerkarte &quot;Einstellungen&quot; {#settings-tab}
 
-Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, einschließlich der gleichen Berechtigungssätze und des Zugriffs auf die Registerkarte Planung . ÄNDERUNGEN IN DIESER REGISTERKARTE?? Dadurch werden die bestehenden Kampagneneinstellungen nicht gestört.
+Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, einschließlich der gleichen Berechtigungssätze und des Zugriffs auf die Registerkarte Planung . ÄNDERUNGEN IN DIESER REGISTERKARTE WERDEN NICHT UNTERBRECHEN?? Dadurch werden die bestehenden Kampagneneinstellungen nicht gestört.
 
 Er enthält die folgenden drei Abschnitte.
 
@@ -27,36 +27,31 @@ SCREENSHOT
 
 Qualifikationsregeln sind für alle Kampagnen (Trigger und Batch) verfügbar und umfassen die folgenden Einstellungen:
 
-Sie können auswählen, wie oft eine Person eine Kampagne durchläuft
-
-Möglichkeit, nicht operative Kampagnen zu blockieren, wenn die Person das Kommunikationslimit überschreitet
-
-Möglichkeit, abort-Kampagnen festzulegen, die von Personen begrenzt werden
+* Sie können bestimmen, wie oft eine Person eine Kampagne durchläuft
+* Die Möglichkeit, eine nicht operative Kampagne zu blockieren, wenn die Person ihr Kommunikationslimit überschritten hat
+* Die Möglichkeit, eine Abbruchkampagne festzulegen, die von Personen begrenzt wird
 
 SCREENSHOT
 
-Einzelne Ausführungen können verwendet werden, um entweder sofort eine Kampagne auszuführen oder in Zukunft einige einmalige Ausführungen einzurichten. Denken Sie daran - Es ist einfacher, das Wiederholungsmodal zu verwenden, wenn Sie eine Reihe von Kampagnen planen
+Einzelne Ausführungen können verwendet werden, um entweder eine Kampagne sofort auszuführen oder in Zukunft einige einmalige Ausführungen einzurichten.
+
+>[!TIP]
+>
+>Wenn Sie eine Reihe von Kampagnen planen, ist es einfacher, das Wiederholungsmodal zu verwenden.
 
 SCREENSHOT
 
-Das Modal der Wiederholung bietet die Möglichkeit, einen wiederkehrenden Zeitplan täglich, wöchentlich oder monatlich einzurichten. Nach der Einrichtung können Sie die nächsten drei Ausführungen auf der Registerkarte Einstellungen sehen
+Das Wiederholungsmodal bietet die Möglichkeit, einen wiederkehrenden Zeitplan täglich, wöchentlich oder monatlich einzurichten. Nach der Einrichtung können Sie die nächsten drei Ausführungen auf der Registerkarte Einstellungen sehen.
 
 SCREENSHOT
 
 Die Registerkarte Einstellungen bietet außerdem einen schnellen Überblick über Ihre Smart-Liste. Er umfasst Folgendes:
 
-Kampagnenstatus
-
-Erstellt am
-
-Zuletzt geändert
-
-Smart List Mode
-
-Status der intelligenten Liste:
-
-Geschätzte Betroffene
-
-Geschätzte Personen, die von E-Mails blockiert werden
-
-Geschätzte Anzahl von Personen, die in einem Warteschritt sind
+* Kampagnenstatus
+* Erstellt am
+* Zuletzt geändert
+* Smart List Mode
+* Status der intelligenten Liste:
+   * Geschätzte Betroffene
+   * Geschätzte Personen, die von E-Mails blockiert werden
+   * Geschätzte Personen, die sich in einem Warteschritt befinden

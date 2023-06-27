@@ -3,10 +3,10 @@ unique-page-id: 7512944
 description: Verwenden von Marketo Insights für Google Chrome - Marketo Docs - Produktdokumentation
 title: Verwenden von Marketo Insights für Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 5%
+source-wordcount: '291'
+ht-degree: 4%
 
 ---
 
@@ -17,6 +17,10 @@ Senden und verfolgen Sie alle Google-E-Mails mit Marketo Insights für Google Ch
 >[!PREREQUISITES]
 >
 >[Installieren Sie Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+
+>[!NOTE]
+>
+>Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den E-Mail-Plugins für Sales Insight für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
 
 ## E-Mail mit Marketo Insights senden {#send-an-email-with-marketo-insights}
 
@@ -72,4 +76,3 @@ Sie können Antworten und alte Aktivitäten im Aktivitätsverlauf eines Leads pr
    >
    >* [Installieren Sie Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [Anzeigen von Personen- und Kontoinformationen und -aktivitäten in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
-
