@@ -4,16 +4,16 @@ title: Registerkarte "Einstellungen"
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 2%
+source-wordcount: '351'
+ht-degree: 1%
 
 ---
 
 # Registerkarte &quot;Einstellungen&quot; {#settings-tab}
 
-Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, einschließlich der gleichen Berechtigungssätze und des Zugriffs auf die Registerkarte Planung . ÄNDERUNGEN IN DIESER REGISTERKARTE WERDEN NICHT UNTERBRECHEN?? Dadurch werden die bestehenden Kampagneneinstellungen nicht gestört.
+Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, einschließlich der gleichen Berechtigungssätze und des Zugriffs auf die Registerkarte Planung . DIE BESUCHUNG DIESES TABS WIRD NICHT UNTERBRECHEN? WENDEN SIE SICH AN ABLEGEN ODER WIEDERHOLEN - LOPA WIRD BESTÄTIGEN, DASS bestehende Kampagneneinstellungen nicht gestört werden.
 
 Er enthält die folgenden drei Abschnitte.
 
@@ -55,3 +55,9 @@ Die Registerkarte Einstellungen bietet außerdem einen schnellen Überblick übe
    * Geschätzte Betroffene
    * Geschätzte Personen, die von E-Mails blockiert werden
    * Geschätzte Personen, die sich in einem Warteschritt befinden
+
+Berechtigungssätze und Fehler auf der Registerkarte Einstellungen :
+
+Alle vorhandenen Berechtigungssätze können auf der Registerkarte Einstellungen verwendet werden. Wenn die Schaltfläche &quot;Bearbeiten&quot;ausgegraut ist, bedeutet dies, dass Sie nicht berechtigt sind, Änderungen vorzunehmen, und sich an Ihren Marketo-Administrator wenden müssen.
+
+HINZUFÜGEN VON BESCHREIBUNGEN ZUM ABSCHNITTEN VON GEPLANTEN LAUNS - BESTÄTIGEN SIE MIT LOPA NACH DEM SCHALTEN —> Wenn ein Benutzer keinen Zugriff auf die Kampagneneinstellungen hat, hat er auch keinen Zugriff auf das Abbrechen geplanter Läufe.

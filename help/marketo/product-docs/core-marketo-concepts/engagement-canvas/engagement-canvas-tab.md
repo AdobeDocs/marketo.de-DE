@@ -4,9 +4,9 @@ title: Registerkarte "Interaktionsarbeitsfläche"
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -83,22 +83,18 @@ SCREENSHOT
 
 SCREENSHOT
 
-* Wenn eine Ausführen- oder Anforderungskampagne Optionen enthält, wird das Klicken auf die Flusskarte erweitert, um alle Optionen in einzelnen Karten anzuzeigen. Wenn Sie auf die Auswahlkarte klicken, wird die mit der jeweiligen Auswahl verknüpfte Kampagne erweitert und gleichzeitig das Bedienfeld &quot;Folie aus&quot;mit den folgenden Informationen geöffnet:
+* Wenn eine Ausführen- oder Anforderungskampagne Optionen enthält, wird das Klicken auf die Flusskarte erweitert, um alle Optionen in einzelnen Karten anzuzeigen. Wenn Sie auf die Auswahlkarte klicken, wird die mit der jeweiligen Auswahl verknüpfte Kampagne erweitert und ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
-!!!!!!!!!!!!!!! GRAMMAR FIX ZWEITEN SATZ
-
-* Kampagne, zu der die Auswahl gehört
-* Schaltfläche &quot;Auswahl bearbeiten&quot;
-* Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
-* Schaltfläche &quot;Liste anzeigen&quot;, über die eine Liste von Kampagnen geöffnet wird, die die jeweilige Kampagne &quot;Anfrage/Ausführung&quot; verwenden
+   * Kampagne, zu der die Auswahl gehört
+   * Schaltfläche &quot;Auswahl bearbeiten&quot;
+   * Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+   * Schaltfläche &quot;Liste anzeigen&quot;, über die eine Liste von Kampagnen geöffnet wird, die die jeweilige Kampagne &quot;Anfrage/Ausführung&quot; verwenden
 
 SCREENSHOT
 
-!!!!!!!!!!!!!!! UNTEN - fügen Sie &quot;a&quot;vor Verschachtelt hinzu?
+## Visualisieren einer verschachtelten Execute-Kampagne {#visualizing-a-nested-execute-campaign}
 
-## Visualisieren von verschachtelten Execute-Campaign {#visualizing-nested-execute-campaign}
-
-BEARBEITUNG HIER ABGESCHLOSSEN
+BEARBEITUNG HIER STOPPED - PICK UP AFTER SHUTDOWN
 
 Führen Sie Kampagnen aus, die nacheinander mit der übergeordneten Kampagne ausgeführt werden, d. h. Leads, die für eine ausführbare Kampagne infrage kommen, führen alle Flussschritte der Kampagne aus und kehren zur primären Kampagne zurück, um durch die Durchsatzschritte dieser Kampagne fortzufahren.
 

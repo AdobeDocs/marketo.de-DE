@@ -4,9 +4,9 @@ title: Interaktionsarbeitsfläche - Überblick
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ In der Arbeitsfläche &quot;Interaktion&quot;werden zwei Registerkarten angezeig
 
 SCREENSHOT
 
-KOPFZEILE
+KOPFZEILE - KARTENBESCHREIBUNGEN? - LOPA WIRD BESTÄTIGEN
 
 **Trigger**: In Kampagnen, die Trigger enthalten, verfügt die Arbeitsfläche über die Karte &quot;Trigger-Übersicht&quot;. Wenn Sie darauf klicken, werden eine Karte für jeden Trigger sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
 
@@ -43,7 +43,7 @@ KOPFZEILE
 
 ## Verschachtelte Kampagnen {#nested-campaigns}
 
-* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt. (Die verschachtelte Kampagne wird auch eine Nahtablette enthalten. Wenn Sie auf diese anklicken, werden die mit der verschachtelten Kampagne verbundenen Karten ausgeblendet.) !!!!!!!!!!!! - WIEDERHOLEN ODER ENTFERNEN
+* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt. (Die verschachtelte Kampagne wird auch eine Nahtablette enthalten. Wenn Sie auf diese anklicken, werden die mit der verschachtelten Kampagne verbundenen Karten ausgeblendet.) !!!!!!!!!!!! - ERNEUT ODER ENTFERNEN - LOPA WIRD BESTÄTIGT
 
 * Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen eines Kampagnenflusses mit Optionen enthält, werden beim Klicken auf die Flusskarte eine Auswahlkarte sowie ein Slide-out-Fenster mit weiteren Informationen zu den Optionen angezeigt. Wenn Sie auf jede Auswahlkarte klicken, werden Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit weiteren Informationen angezeigt.
 
@@ -55,7 +55,7 @@ SCREENSHOT
 
 Die obere Navigationsleiste enthält die folgenden Funktionen:
 
-!!!!! GRAMMABESTÄTIGUNG UND BILDSCHIRMSCHREIBUNG AUSGEBLENDET
+!!!!! SCREENSHOUT IST OUTDIERT - GRAB NEW ONE
 
 * Kampagnenname und Zugriff auf das Modal &quot;Kampagne bearbeiten&quot;, können Sie hier den Namen und die Beschreibung der Kampagne bearbeiten.
 
@@ -74,6 +74,10 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 >[!NOTE]
 >
 >Änderungen, die in einer geöffneten Registerkarte Smart List und Fluss vorgenommen wurden, werden bei der Aktualisierung auf der Registerkarte Interaktionsarbeitsfläche angezeigt. Es wird nicht automatisch aktualisiert. Automatisch gespeicherte Aktualisierungen und Änderungen werden angezeigt.
+
+## FAQs {#faq}
+
+LOPA BIETET
 
 >[!MORELIKETHIS]
 >
