@@ -1,10 +1,8 @@
 ---
 description: Analytics-Seitenübersicht - Marketo-Dokumente - Produktdokumentation
 title: Analytics-Seitenübersicht
-hide: true
-hidefromtoc: true
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -35,15 +33,15 @@ Auf den Registerkarten Me und Team finden Sie Informationen zu geschlossenen Ang
 
 ## Registerkarte &quot;Me&quot; {#me-tab}
 
-Die [Registerkarte &quot;Me&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) ist ein idealer Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie Administrator in Sales Insight-Aktionen sind, können Sie nach jedem Benutzer in Ihrem Team filtern, um dessen Statistiken anzuzeigen.
+Die [Registerkarte &quot;Me&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} ist ein idealer Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie Administrator in Sales Insight-Aktionen sind, können Sie nach jedem Benutzer in Ihrem Team filtern, um dessen Statistiken anzuzeigen.
 
 ## Registerkarte &quot;Team&quot; {#team-tab}
 
-Im [Team-Tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md), siehe Statistiken und Bewertungen für Ihr gesamtes Team. Sie können auch nach von Ihnen erstellten Untergruppen filtern.
+Im [Team-Tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, siehe Statistiken und Bewertungen für Ihr gesamtes Team. Sie können auch nach von Ihnen erstellten Untergruppen filtern.
 
 ## Registerkarte &quot;Inhalt&quot; {#content-tab}
 
-Die [Registerkarte &quot;Inhalt&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) enthält Statistiken zu Vorlagen, Inhalten und Links. Sie können entweder nach jedem oder nach Teams filtern, die Ihre Administratoren erstellt haben.
+Die [Registerkarte &quot;Inhalt&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} enthält Statistiken zu Vorlagen, Inhalten und Links. Sie können entweder nach jedem oder nach Teams filtern, die Ihre Administratoren erstellt haben.
 
 Wenn unter der Betreffspalte blauer Text angezeigt wird, bedeutet dies, dass die Vorlage freigegeben ist. Sie können auf den blauen Text klicken, um zu dieser Vorlage zu gelangen. Anzeigen der Nutzung durch Klicken auf **Vorlagenanalyse**.
 

@@ -2,7 +2,7 @@
 description: Verwenden einer Vorlage im Fenster "Erstellen"- Marketo-Dokumente - Produktdokumentation
 title: Verwenden einer Vorlage im Fenster "Erstellen"
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -24,10 +24,6 @@ ht-degree: 0%
 1. Klicken Sie auf das Suchsymbol im Vorlagenbereich, um das Vorlagensuchfeld zu öffnen.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
-
-   >[!TIP]
-   >
-   >Es wird empfohlen, die Kategorie &quot;Alle&quot;zu veröffentlichen, damit Sie schnell auf die Suche in Ihrer gesamten Vorlagenbibliothek zugreifen können, da Sie häufig alle Vorlagen durchsuchen müssen, um nach dem zu suchen, wonach Sie suchen. Wenn Sie eine fixierte Kategorie ausgewählt haben und auf das Suchsymbol klicken, wird für die Suche standardmäßig die Suche in der ausgewählten fixierten Kategorie ausgewählt.
 
 1. Wählen Sie eine Kategorie aus, in der gesucht werden soll (oder wählen Sie Alle aus, um alle Kategorien zu durchsuchen).
 
@@ -56,6 +52,10 @@ Favorit **bis zu fünf** spezifische Vorlagenkategorien , um schnell auf Ihre am
 1. Klicken Sie auf **Kategorie veröffentlichen** und wählen Sie die gewünschte Kategorie aus.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >Es wird empfohlen, die Kategorie &quot;Alle&quot;zu veröffentlichen, damit Sie schnell auf die Suche in Ihrer gesamten Vorlagenbibliothek zugreifen können, da Sie häufig alle Vorlagen durchsuchen müssen, um nach dem zu suchen, wonach Sie suchen. Wenn Sie eine fixierte Kategorie ausgewählt haben und auf das Suchsymbol klicken, wird für die Suche standardmäßig die Suche in der ausgewählten fixierten Kategorie ausgewählt.
 
 1. Klicken **Änderungen speichern** when done (optional): Schritt 3 wiederholen, um weitere hinzuzufügen).
 
