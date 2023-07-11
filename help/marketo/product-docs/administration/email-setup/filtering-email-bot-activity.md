@@ -2,7 +2,7 @@
 description: Filtern der E-Mail-Bot-Aktivität - Marketo-Dokumente - Produktdokumentation
 title: Filtern der E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
@@ -13,7 +13,7 @@ ht-degree: 14%
 
 Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise die Daten Ihrer E-Mail-Öffnungen und Klicks verfälschen. Führen Sie die folgenden Schritte aus, um dies zu beheben.
 
-Wir verwenden drei verschiedene Methoden zur Bestätigung von Bot-Aktivitäten:
+Zur Bestätigung der Bot-Aktivität werden zwei verschiedene Methoden verwendet:
 
 * Übereinstimmung mit [Bot-Liste des Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktivitäten, die mit irgendetwas in der Liste &quot;IAB UA/IP&quot;(Benutzeragent/IP-Adresse) übereinstimmen, werden als Bots markiert.
 * Übereinstimmung mit dem Annäherungsmuster: Wenn mehrere Aktivitäten gleichzeitig stattfinden (in einer Sekunde), werden sie als Bots identifiziert. Beim Vergleich berücksichtigte Attribute sind:
