@@ -2,9 +2,9 @@
 description: Kalender - Marketo-Dokumente - Produktdokumentation
 title: Kalender
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: 06c694d7f8e53999391c79db37894c21b0702090
+source-git-commit: 81e9862c2b0e7a48ab91bb1b10fd0a0ceb6308b2
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ Verbinden Sie im Tab Kalender Ihren Outlook- oder Gmail-Kalender mit der Terminp
 
 ![](assets/calendar-1.png)
 
-Sobald der Kalender eines Benutzers mit dem dynamischen Chat verbunden ist, werden er in die Warteschlange aufgenommen und sein Kalender steht Website-Besuchern zur Verfügung, um Termine zu planen.
+Sobald ein Benutzerkalender mit dem Dynamic Chat verbunden ist, werden diese der Warteschlange hinzugefügt und ihr Kalender steht Website-Besuchern zur Verfügung, um Termine zu planen.
 
 >[!NOTE]
 >
@@ -28,3 +28,20 @@ Benutzer können auch den Text der Einladung anpassen, die dem Besucher gesendet
 >[!TIP]
 >
 >Verwenden Sie das Token-Symbol (geschweifte Klammern), um Ihre Bestätigungs-E-Mails für die Buchung von Meetings anhand von Personen- oder Firmenattributen zu personalisieren.
+
+## Berechtigungen {#permissions}
+
+Die Konfiguration mit Outlook gewährt dem Dynamic Chat die folgenden Berechtigungen:
+
+* Vollständiger Zugriff auf Ihre Kalender
+* Anmelden und Profil lesen
+* Beibehalten des Zugriffs auf die Daten, auf die Sie Zugriff gewährt haben
+* E-Mail-Einstellungen lesen
+
+Durch die Konfiguration mit Google erhalten Dynamic Chat die folgenden Berechtigungen:
+
+* Erstellen, Ändern oder Löschen von Kalendern
+* Aktualisieren einzelner Kalenderereignisse
+* Ändern Sie Ihre Einstellungen, einschließlich der Benutzer, die Ihre Ereignisse sehen können.
+* Ändern der Zielgruppe des Kalenders
+* Zugriff auf Ihren Namen, Ihre E-Mail-Adresse, Ihre Spracheinstellung und Ihr Profilbild
