@@ -2,9 +2,9 @@
 description: Interaktive Webinare - Überblick - Marketo-Dokumente - Produktdokumentation
 title: Interaktive Webinare - Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Wenden Sie sich zur Unterstützung an das Adobe Account Team (Ihren Kundenbetreu
 
 Ja, Sie können steuern, welche Marketo-Benutzer die Berechtigung zum Erstellen und Bereitstellen interaktiver Webinare erhalten. Dies ist über den Bereich Interaktive Webinare im Admin-Bereich Ihrer Adobe Marketo Engage-Instanz möglich.
 
-**Muss ich das Adobe Connect-Webinar wieder mit dem interaktiven Webinar-Veranstaltungsprogramm verknüpfen, wie es bei Startpunkten-Veranstaltungsprogrammen der Fall ist?**
+**Muss ich das von Adobe Connect unterstützte Webinar wieder mit dem interaktiven Webinar-Veranstaltungsprogramm verknüpfen, wie es bei Startpunkten-Veranstaltungsprogrammen der Fall ist?**
 
 Nein, interaktive Webinar Event-Programme bilden die Zuordnung für Sie.

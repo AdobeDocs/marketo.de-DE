@@ -2,9 +2,9 @@
 description: Ereignis-Workflows - Marketo-Dokumente - Produktdokumentation
 title: Ereignis-Workflows
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Das Dashboard besteht aus vier Widgets.
 
 **Teilnahme**: Zeigt die Dauer der Teilnahme verschiedener Mitglieder des Webinars im Vergleich zur Gesamtdauer des Webinars in Prozent an.
 
-**Umfrageleistung**: Zeigt die verschiedenen Umfragen an, die im Rahmen des Webinars in Adobe Connect durchgeführt wurden, sowie die Verteilung der Teilnehmer, die an der Umfrage teilgenommen haben und auf die sie reagiert haben.
+**Umfrageleistung**: Zeigt die verschiedenen Umfragen an, die im Rahmen des von Adobe Connect unterstützten Webinars durchgeführt wurden, sowie die Verteilung der Teilnehmer, die an der Umfrage teilgenommen haben und auf die sie reagiert haben.
 
-**Klick- und Dateidownload-Aktivität**: Stellt die Download-Anzahl der Dateien und Weblinks bereit, die im Webinar in Adobe Connect von verschiedenen Mitgliedern angeklickt wurden, die am Webinar teilgenommen haben und diese Aktion ausgeführt haben.
+**Klick- und Dateidownload-Aktivität**: Stellt die Download-Anzahl der Dateien und Weblinks bereit, die im Webinar von Adobe Connect von verschiedenen Mitgliedern angeklickt wurden, die am Webinar teilgenommen haben und diese Aktion ausgeführt haben.
 
 ## Trigger und Filter {#triggers-and-filters}
 
