@@ -3,7 +3,7 @@ unique-page-id: 7504128
 description: Erstellen eines Smart-List-Ziels - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Smart-List-Ziels
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -16,23 +16,23 @@ Ziele sind Wege, Fortschritte zu verfolgen und Ihr Team zu motivieren. Sie könn
 
 Wie Präsentationen sind Ziele [Arbeitsbereich](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-spezifisch.
 
-1. Navigieren Sie zu **Kalender**.
+1. Navigieren Sie zu **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Klicken **Präsentation** in der unteren rechten Ecke.
+1. Klicken **[!UICONTROL Presentations]** in der unteren rechten Ecke.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Wählen Sie die **Ziele** Registerkarte.
+1. Wählen Sie die **[!UICONTROL Ziele]** Registerkarte.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Drag &amp; Drop **Smart List Goal** auf die Arbeitsfläche.
+1. Drag &amp; Drop **[!UICONTROL Smart List Goal]** auf die Arbeitsfläche.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Geben Sie einen Namen für das Ziel ein und geben Sie einen **Zielgruppe**. Klicken Sie anschließend auf **Erstellen**.
+1. Geben Sie einen Namen für das Ziel ein und geben Sie einen **[!UICONTROL Zielgruppe]**. Klicken Sie anschließend auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -40,7 +40,7 @@ Wie Präsentationen sind Ziele [Arbeitsbereich](/help/marketo/product-docs/admin
 
    ![](assets/mql.png)
 
-1. Sobald die Smart-Liste vollständig festgelegt ist, klicken Sie auf die **Schließen** und kehren zur vorherigen Registerkarte zurück.
+1. Sobald die Smart-Liste vollständig festgelegt ist, klicken Sie auf die **[!UICONTROL Schließen]** und kehren zur vorherigen Registerkarte zurück.
 
    ![](assets/mql2.png)
 

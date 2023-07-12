@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: Eine Marketingkalenderlizenz ausgeben/widerrufen - Marketo Docs - Produktdokumentation
 title: Marketingkalenderlizenz ausgeben/widerrufen
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ ht-degree: 0%
 >
 >**Erforderliche Administratorberechtigungen**
 
-So nutzen Sie Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) -Sitze, müssen Sie Lizenzen für Benutzer erteilen, die Zugriff benötigen. So geht es.
+So nutzen Sie Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} -Sitze, müssen Sie Lizenzen für Benutzer erteilen, die Zugriff benötigen. So geht es.
 
-1. Navigieren Sie zu **Admin** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
 
    ![](assets/adminhand.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicken **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/2.png)
 
-1. Wählen Sie die Benutzer aus und klicken Sie auf **Ausgabe-Lizenz.**
+1. Wählen Sie die Benutzer aus und klicken Sie auf **[!UICONTROL Ausstelllizenz]**.
 
    >[!TIP]
    >
@@ -34,7 +34,7 @@ So nutzen Sie Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-c
 
    ![](assets/3.png)
 
-1. Überprüfen **Lizenz aktivieren** und klicken Sie auf **Speichern.**
+1. Überprüfen **[!UICONTROL Lizenz aktivieren]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
@@ -45,5 +45,3 @@ So nutzen Sie Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-c
    Gut gemacht! Siehe grünes Häkchen unter &quot;Kalender?&quot;
 
    ![](assets/5.png)
-
-Fantastisch - Du bist bereit, auf &#39;schema&#39; zu kommen!

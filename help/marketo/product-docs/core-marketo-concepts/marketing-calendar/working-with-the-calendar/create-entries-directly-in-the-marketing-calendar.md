@@ -3,9 +3,9 @@ unique-page-id: 2953348
 description: Einstiege direkt im Marketingkalender erstellen - Marketo-Dokumente - Produktdokumentation
 title: Erstellen von Einträgen direkt im Marketingkalender
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 3%
 
 ---
@@ -19,13 +19,11 @@ Marketo ermöglicht es Ihnen, Einträge direkt in Ihrem Marketingkalender mithil
 * E-Mail-Programme
 * Intelligente Kampagnen
 
-So geht es.
-
-1. Navigieren Sie zu **Kalender**.
+1. Klicken Sie auf **[!UICONTROL Kalender]** Kachel.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Wählen Sie einen vorherigen Eintrag aus und klicken Sie auf **Programmfokus anzeigen**.
+1. Wählen Sie einen vorherigen Eintrag aus und klicken Sie auf **[!UICONTROL Programmfokus anzeigen]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -47,4 +45,4 @@ So geht es.
 
 >[!MORELIKETHIS]
 >
->[Einträge direkt im Marketingkalender bearbeiten](edit-entries-directly-in-the-marketing-calendar.md)
+>[Einträge direkt im Marketingkalender bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

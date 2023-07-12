@@ -3,7 +3,7 @@ unique-page-id: 2953352
 description: Einträge direkt im Marketingkalender bearbeiten - Marketo Docs - Produktdokumentation
 title: Einträge direkt im Marketingkalender bearbeiten
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Im Programmfokus-Modus können Sie schnell Änderungen an Kalendereinträgen vor
 
 ## Programmfokus aktivieren {#enable-program-focus}
 
-1. Navigieren Sie zu **Kalender**.
+1. Klicken Sie auf **[!UICONTROL Kalender]** Kachel.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Wählen Sie einen Eintrag aus, der zum Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf **Programmfokus anzeigen**.
+1. Wählen Sie einen Eintrag aus, der zum Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf **[!UICONTROL Programmfokus anzeigen]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -66,4 +66,4 @@ Das ist es! Wie Sie sehen können, gibt es viele Dinge, die Sie direkt über den
 
 >[!MORELIKETHIS]
 >
->[Einträge direkt im Marketingkalender löschen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[Einträge direkt im Marketingkalender löschen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

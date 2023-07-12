@@ -3,16 +3,16 @@ unique-page-id: 37355768
 description: Importieren von Assets mit Adobe Experience Manager - Marketo Docs - Produktdokumentation
 title: Importieren von Assets mit Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Importieren von Assets mit Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie auswählen und in Marketo Design Studio importieren. **Administratorberechtigungen sind erforderlich**.
+Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie auswählen und in die Marketo importieren [!DNL Design Studio]. **Administratorberechtigungen sind erforderlich**.
 
 >[!AVAILABILITY]
 >
@@ -24,13 +24,13 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 >[!IMPORTANT]
 >
->Diese Funktion wird derzeit nur in Firefox vollständig unterstützt. Sie wird in Safari nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von Chrome, je nach Ihren SameSite-Cookie-Einstellungen.
+>Diese Funktion wird derzeit nur vollständig unterstützt in [!DNL Firefox]. Es wird nicht unterstützt in [!DNL Safari], und es funktioniert möglicherweise nicht in der neuesten Version von [!DNL Chrome], abhängig von Ihrer [!DNL SameSite] Cookie-Einstellungen.
 
-1. Klicken **Design Studio**.
+1. Klicken **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **Import aus Adobe Experience Manager**.
+1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **[!UICONTROL Import aus Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -42,7 +42,7 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken **Auswählen** wann geschehen.
+1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken **[!UICONTROL Auswählen]** wann geschehen.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
    >
    >Die Größe von Bildern darf 100 MB nicht überschreiten.
 
-1. Klicken **Import** , um den Prozess abzuschließen.
+1. Klicken **[!UICONTROL Import]** , um den Prozess abzuschließen.
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   Und das ist es! Klicken **Schließen** , um zu Design Studio zurückzukehren.
+   Und das ist es! Klicken **[!UICONTROL Schließen]** , um zu Design Studio zurückzukehren.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -64,4 +64,4 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 * Alle Benutzer in Ihrer Instanz können die von Ihnen importierten Bilder anzeigen/aufrufen.
 
-* Bilder werden nicht automatisch aktualisiert. Wenn ein in Marketo Design Studio importiertes Bild in AEM aktualisiert wird, müssen Sie es manuell erneut in Marketo importieren.
+* Bilder werden nicht automatisch aktualisiert. Wenn ein in Marketo importiertes Bild [!DNL Design Studio] in AEM aktualisiert wurde, müssen Sie sie manuell erneut in Marketo importieren.

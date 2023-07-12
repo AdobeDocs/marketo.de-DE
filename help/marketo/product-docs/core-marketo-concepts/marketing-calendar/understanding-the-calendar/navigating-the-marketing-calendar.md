@@ -3,7 +3,7 @@ unique-page-id: 1147257
 description: Navigieren im Marketing-Kalender - Marketo-Dokumente - Produktdokumentation
 title: Navigieren im Marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Der Marketingkalender ist einfach zu navigieren: Eins, Zwei, Drei!
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie [Lizenz für Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - Andernfalls wird die Kachel Marketing-Kalender nicht in My Marketo angezeigt.
+>Stellen Sie sicher, dass Sie [Lizenz für Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - Andernfalls wird die Kachel Marketing-Kalender nicht in My Marketo angezeigt.
 
 1. Navigieren Sie zu **Marketingkalender**.
 
@@ -28,7 +28,7 @@ Der Marketingkalender ist einfach zu navigieren: Eins, Zwei, Drei!
 
 ## Wechsel zwischen Modi {#change-between-modes}
 
-1. Klicken Sie auf **3 Wochen** oder **Monat** Registerkarten zum Wechseln zwischen Modi.
+1. Klicken Sie auf **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]** Registerkarten zum Wechseln zwischen Modi.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -36,11 +36,11 @@ Der Marketingkalender ist einfach zu navigieren: Eins, Zwei, Drei!
 
 In der Agenda-Ansicht werden alle Einträge als Liste angezeigt.
 
-1. Klicken Sie auf **Filter-Dropdown**.
+1. Klicken Sie auf **[!UICONTROL Filter]** Dropdown-Liste.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Wählen Sie die **Agenda** anzeigen.
+1. Wählen Sie die **[!UICONTROL Agenda]** anzeigen.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -66,4 +66,4 @@ Fantastisch Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von 
 
 >[!MORELIKETHIS]
 >
->[Filtern des Marketing-Kalenders](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtern des Marketing-Kalenders](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

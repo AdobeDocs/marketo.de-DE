@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: Erstellen einer Präsentation - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Präsentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 9%
@@ -19,19 +19,19 @@ Erstellen Sie eine Präsentation, um die Kalenderansichten und -ziele Ihres Team
 >
 >Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Navigieren Sie zu **Kalender**.
+1. Navigieren Sie zu **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken **Präsentation** in der unteren rechten Ecke.
+1. Klicken **[!UICONTROL Presentations]** in der unteren rechten Ecke.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Klicken **Präsentationsaktionen** und wählen Sie **Neue Präsentation**.
+1. Klicken **[!UICONTROL Präsentationsaktionen]** und wählen Sie **[!UICONTROL Neue Präsentation]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Wählen Sie einen Namen für die Präsentation aus. Klicken Sie auf **Erstellen**.
+1. Wählen Sie einen Namen für die Präsentation aus. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 

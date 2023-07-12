@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Präsentation anpassen - Marketo-Dokumente - Produktdokumentation
 title: Anpassen einer Präsentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 2%
 
 ---
@@ -21,14 +21,13 @@ Richten Sie Ihre Kalenderpräsentation ein, um die Ziele und Aktivitäten widerz
 
 >[!PREREQUISITES]
 >
->* [Benutzerdefinierte Ziele erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) oder [Ziele für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
+>* [Benutzerdefinierte Ziele erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [Smart List Goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
 >
->* [Erstellen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
-
+>* [Erstellen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
 
 ## Ansichten auswählen {#choosing-the-views}
 
-Presentations-Zyklus durch verschiedene [Filterdefinitionen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) auswählen. Rufen Sie beliebig viele Ansichten auf und passen Sie die Häufigkeit an.
+Presentations-Zyklus durch verschiedene [Filterdefinitionen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} auswählen. Rufen Sie beliebig viele Ansichten auf und passen Sie die Häufigkeit an.
 
 1. Ziehen Sie aus dem rechten Baum die verschiedenen Ansichten, die Sie in Ihrer Präsentation durchblättern möchten.
 
@@ -36,7 +35,7 @@ Presentations-Zyklus durch verschiedene [Filterdefinitionen](/help/marketo/produ
 
 ## Ziel hinzufügen {#add-a-goal}
 
-Presentations ist die großartigste, wenn sie Ihre Teamziele anzeigen. Ziehen Sie einfach über einen anderen [benutzerdefinierte Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) oder [Smart-List-Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Sie können bis zu 10 verwenden.
+Presentations ist die großartigste, wenn sie Ihre Teamziele anzeigen. Ziehen Sie einfach über einen anderen [benutzerdefinierte Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Sie können bis zu 10 verwenden.
 
 1. Ziehen Sie aus dem rechten Baum verschiedene Ziele in Ihre Präsentation.
 
@@ -46,15 +45,15 @@ Presentations ist die großartigste, wenn sie Ihre Teamziele anzeigen. Ziehen Si
 
 Nachdem Sie die Ansichten abgerufen haben, die Sie in der Präsentation wünschen, legen Sie fest, in welcher Häufigkeit sie zwischen den verschiedenen Ansichten wechseln.
 
-1. Klicken **5 Minuten** (dies ist die Standardpriorität).
+1. Klicken **[!UICONTROL 5 Minuten]** (dies ist die Standardpriorität).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. Geben Sie einen Zeitpunkt mithilfe von Minuten ein. Klicken **Speichern**.
+1. Geben Sie einen Zeitpunkt mithilfe von Minuten ein. Klicken **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
-   >Anzeigen einer statischen Ansicht durch Aktivieren von **Rotation deaktivieren**.
+   >Anzeigen einer statischen Ansicht durch Aktivieren von **[!UICONTROL Rotation deaktivieren]**.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -62,7 +61,7 @@ Nachdem Sie die Ansichten abgerufen haben, die Sie in der Präsentation wünsche
 
 Die Kalenderanzeige kann in eine 3-wöchige oder monatliche Ansicht geändert werden.
 
-1. Wählen Sie die **Kalenderanzeige** und wählen Sie zwischen **3 Wochen** oder **Monat**.
+1. Wählen Sie die **[!UICONTROL Kalenderanzeige]** und wählen Sie zwischen **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -70,13 +69,13 @@ Die Kalenderanzeige kann in eine 3-wöchige oder monatliche Ansicht geändert we
 
 >[!TIP]
 >
->Legen Sie eine [Hintergrundbild](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) für Ihre Präsentation. Wir empfehlen Kätzchen oder Regenbogen.
+>Legen Sie eine [Hintergrundbild](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} für Ihre Präsentation. Wir empfehlen Kätzchen oder Regenbogen.
 
 ## Vorschau einer Präsentation {#preview-a-presentation}
 
 Sobald die Präsentation konfiguriert wurde, kann sie in der Vorschau angezeigt und gestartet werden.
 
-1. Auswählen **Vorschau**.
+1. Auswählen **[!UICONTROL Vorschau]**.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
@@ -88,6 +87,5 @@ Sobald die Präsentation konfiguriert wurde, kann sie in der Vorschau angezeigt 
 
 >[!MORELIKETHIS]
 >
->* [Hinzufügen eines Hintergrundbilds zu einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
->* [Präsentation starten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
-
+>* [Hinzufügen eines Hintergrundbilds zu einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}
+>* [Präsentation starten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md){target="_blank"}

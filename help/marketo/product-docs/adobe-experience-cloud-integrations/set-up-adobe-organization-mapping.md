@@ -3,16 +3,16 @@ unique-page-id: 42762511
 description: Einrichten der Adobe-Organisationszuordnung - Marketo-Dokumente - Produktdokumentation
 title: Einrichten der Adobe-Organisationszuordnung
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
 # Einrichten der Adobe-Organisationszuordnung {#set-up-adobe-organization-mapping}
 
-Um eine Synchronisierung mit Adobe Apps wie Audience Manager, dem Marketo-Connector der B2B-CDP-Datei, Dynamic Chat usw. herzustellen, müssen Sie zunächst Ihre Adobe IMS-Org-Anmeldedaten in Marketo eingeben.
+Um eine Synchronisation mit Adobe-Anwendungen wie Audience Manager herzustellen, muss der B2B CDP Marketo-Connector [!DNL Dynamic Chat]usw. müssen Sie zunächst Ihre Adobe IMS-Org-Anmeldedaten in Marketo eingeben.
 
 >[!NOTE]
 >
@@ -22,27 +22,27 @@ Um eine Synchronisierung mit Adobe Apps wie Audience Manager, dem Marketo-Connec
 >
 >Für Kunden, die in die Adobe Business Platform und Identity Management integriert sind, wird die mit dem Abonnement verknüpfte Organisations-ID bereits ausgefüllt und ist ein schreibgeschütztes Feld.
 
-1. Klicken Sie in Marketo auf **Admin**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Klicken Sie unter &quot;Integration&quot;auf **Adobe-Organisationszuordnung**.
+1. Klicken Sie unter &quot;Integration&quot;auf **[!UICONTROL Adobe-Organisationszuordnung]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicken **[!UICONTROL Bearbeiten]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie, wie Sie [here](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) und klicken Sie auf **OK**.
+1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie, wie Sie [here](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
-1. Klicken **Bestätigen**.
+1. Klicken **[!UICONTROL Bestätigen]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. Klicken Sie auf **Schließen**.
+1. Klicken Sie auf **[!UICONTROL Schließen]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
@@ -52,4 +52,4 @@ Um eine Synchronisierung mit Adobe Apps wie Audience Manager, dem Marketo-Connec
 
 1. Wenn du _not_ bereits angemeldet ist, wird ein Popup in einer neuen Registerkarte/einem neuen Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (durch diese Aktion wird der Organisationszugriff überprüft).
 
-Und das ist es! Sie können jetzt [Zielgruppendaten freigeben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} bis oder [Zielgruppe synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} aus Adobe Experience Cloud.
+Und das ist es! Sie können jetzt [Zielgruppendaten freigeben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to, or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} aus Adobe Experience Cloud.
