@@ -2,10 +2,10 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 9%
+source-wordcount: '673'
+ht-degree: 8%
 
 ---
 
@@ -165,6 +165,10 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 Die Echtzeit-Personalisierung von Marketo Engage wurde um zwei Verbesserungen erweitert.
 
-* **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
-
 * **Aktualisierung auf jQuery 3.7**: Um die Sicherheit und Stabilität zu verbessern, aktualisiert Marketo auf jQuery 3.7.0. RTP-Benutzer, die ihre eigene jQuery nicht laden, sind nicht negativ betroffen, da Marketo die von rtp.js geladene Standardversion ändert. Wenn Sie jedoch RTP-Benutzer mit einer Version von jQuery sind, die älter als 3.0.0 ist, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} Hilfe bei der Implementierung einer benutzerdefinierten Version von rtp.js, die Ihren Anforderungen entspricht.
+
+>[!NOTE]
+>
+>Bitte stellen Sie gemeinsam mit Ihrem Webentwicklungsteam fest, ob Ihre Site Ihre eigene JQuery-Bibliothek lädt oder die Standardversion verwendet, die vom Web Personalization RTP-JavaScript-Tag geladen wird.
+
+* **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
