@@ -4,7 +4,7 @@ title: Interaktionsarbeitsfläche - Überblick
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 60b3abf6639e4a257b37fd3ace3cb5a3a6c318fb
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -43,7 +43,7 @@ KOPFZEILE - KARTENBESCHREIBUNGEN? - LOPA WIRD BESTÄTIGEN
 
 ## Verschachtelte Kampagnen {#nested-campaigns}
 
-* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt. (Die verschachtelte Kampagne wird auch eine Nahtablette enthalten. Wenn Sie auf diese anklicken, werden die mit der verschachtelten Kampagne verbundenen Karten ausgeblendet.) !!!!!!!!!!!! - ERNEUT ODER ENTFERNEN - LOPA WIRD BESTÄTIGT
+* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt. (Die verschachtelte Kampagne wird auch eine Nahtablette enthalten. Wenn Sie auf diese anklicken, werden die mit der verschachtelten Kampagne verbundenen Karten ausgeblendet.) !!!!!!!!!!! - ERNEUT ODER ENTFERNEN - LOPA WIRD BESTÄTIGT
 
 * Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen eines Kampagnenflusses mit Optionen enthält, werden beim Klicken auf die Flusskarte eine Auswahlkarte sowie ein Slide-out-Fenster mit weiteren Informationen zu den Optionen angezeigt. Wenn Sie auf jede Auswahlkarte klicken, werden Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit weiteren Informationen angezeigt.
 
