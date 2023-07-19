@@ -4,9 +4,9 @@ title: Interaktionsarbeitsfläche - Überblick
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 ## FAQs {#faq}
 
-LOPA BIETET
+**Muss ich alle meine Kampagnen auf der Interaktionsarbeitsfläche neu erstellen?**
+
+Anz. Interaktionsarbeitsfläche bietet vollständige Abwärtskompatibilität. Mit einem Klick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen auf der visuellen Interaktionsarbeitsfläche sehen.
+
+**Bedeutet die Arbeitsfläche für Interaktionen in Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verlieren werde und neu lernen muss, wie eine Smart-Kampagne erstellt wird?**
+
+Anz. Das Tolle an Interaktionsarbeitsfläche ist, dass sie Ihnen das Beste aus beiden Welten gibt. Sie ergänzt die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Sie können auswählen, ob Sie die vorhandene Benutzeroberfläche verwenden oder die neue Benutzeroberfläche erstellen/visualisieren möchten. Alle Benutzer erhalten weiterhin die leistungsstarken Funktionen von Marketo Engage, die jetzt durch ein visuelles Erstellungswerkzeug ergänzt werden.
+
+**Ist Interaktionsarbeitsfläche ein kostenpflichtiges Add-on?**
+
+Anz. Alle bestehenden und neuen Marketo Engage-Benutzer, die über alle Abonnements verfügen, haben Zugriff auf diese ergänzende Funktion.
+
+**Bin ich als Marketo Engage-Administrator dafür verantwortlich, die Interaktionsarbeitsfläche ein-/auszuschalten?**
+
+Anz. Die Interaktionsarbeitsfläche steht allen Benutzern in ihren Instanzen zur Verfügung. Für bestimmte Benutzer, Arbeitsbereiche usw. können Sie sie nicht aktivieren/deaktivieren.
+
+**Ist derzeit alles in Smart-Kampagnen auch in der Interaktionsarbeitsfläche verfügbar?**
+
+Ja. Interaktionsarbeitsfläche verfügt über vollständige Funktionsparität mit Smart-Kampagnen.
+
+**Inwiefern unterscheidet sich dies von anderen visuellen Buildern?**
+
+Es gibt drei wichtige Dinge, die Interaktionsarbeitsfläche auseinander setzen:
+
+* Flexibilität: Einfaches Verwalten und Validieren von miteinander verbundenen oder tief verschachtelten Kampagnen mit Visualisierung.
+
+* Funktion: Alle Visualisierungen sind vorkonfiguriert, was die Verwendung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das ganze Bild zu bekommen.
+
+* Leistung: Sie behalten die gesamte Komplexität des Marketo Engages bei, und zwar jetzt im visuellen Format.
 
 >[!MORELIKETHIS]
 >

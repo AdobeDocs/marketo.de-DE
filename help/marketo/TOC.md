@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 5%
@@ -400,7 +400,7 @@ ht-degree: 5%
             + [Verwenden von Zeitraumkosten in einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programmbibliothek {#program-library}
             + [Übersicht über den Programmimport](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Vorlage für das Einwilligungsverwaltungsprogramm](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md)
+            + [Content Management-Programmvorlage](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
          + Bericht zur Programmleistung {#program-performance-report}
             + [Erstellen eines Berichts zur Programmleistung](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Hinzufügen von Programmstatusspalten zu einem Programmbericht](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
