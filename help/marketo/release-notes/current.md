@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokumentation
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 8%
 
 ---
@@ -172,3 +172,5 @@ Die Echtzeit-Personalisierung von Marketo Engage wurde um zwei Verbesserungen er
 >Bitte stellen Sie gemeinsam mit Ihrem Webentwicklungsteam fest, ob Ihre Site Ihre eigene JQuery-Bibliothek lädt oder die Standardversion verwendet, die vom Web Personalization RTP-JavaScript-Tag geladen wird.
 
 * **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
+
+* **_Webinar zur Produktversion_**: Treten Sie uns am 6. September 2023 um 9:00 Uhr PT / 23:00 Uhr ET für eine [Live-Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren, wie Sie alle neuesten Produktinnovationen nutzen können.
