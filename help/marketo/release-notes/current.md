@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 8%
+source-wordcount: '780'
+ht-degree: 7%
 
 ---
 
@@ -24,7 +24,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Interaktionsarbeitsfläche**: Die Interaktionsarbeitsfläche ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Leinwanddateien können heruntergeladen und freigegeben werden.
+* **Interaktionskarte**: Die Interaktionskarte ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Leinwanddateien können heruntergeladen und freigegeben werden.
 
 <table> 
   <tr> 
@@ -34,6 +34,20 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   <tr> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Benachrichtigungen - Web-Services-Fehler**: Die Webdienst-Fehlerbenachrichtigung enthält jetzt den Abonnementnamen, was die Verwaltung mehrerer Marketo Engage-Instanzen erleichtert. Außerdem wurde der Tabelle eine Spalte &quot;Benutzer&quot;hinzugefügt, die Fehlercodes und -zählungen enthält. So können Sie einfach feststellen, welcher API-Benutzer beim Aufrufen der Marketo REST-API für die Generierung eines bestimmten Fehlers verantwortlich war.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>

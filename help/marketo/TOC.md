@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 5%
@@ -485,10 +485,10 @@ ht-degree: 5%
          + [Ordner verstehen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Wissenswertes zu Benachrichtigungen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Benachrichtigungstypen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Interaktions-Arbeitsfläche {#engagement-canvas}
-         + [Interaktionsarbeitsfläche - Überblick](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [Registerkarte &quot;Interaktionsarbeitsfläche&quot;](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [Registerkarte &quot;Einstellungen&quot;](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + Interaktionskarte {#engagement-map}
+         + [Interaktionsübersicht](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [Registerkarte &quot;Interaktionskarte&quot;](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [Registerkarte &quot;Einstellungen&quot;](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Vorhersagekräftige Zielgruppen {#predictive-audiences}
          + [Erste Schritte mit vorausschauenden Zielgruppen](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modelle und Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
