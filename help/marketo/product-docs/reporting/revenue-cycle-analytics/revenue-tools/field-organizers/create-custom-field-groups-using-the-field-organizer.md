@@ -3,7 +3,8 @@ unique-page-id: 10094404
 description: Erstellen benutzerdefinierter Feldergruppen mit dem Field Organizer - Marketo Docs - Produktdokumentation
 title: Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 2%
@@ -19,16 +20,16 @@ Wenn Sie ein standardmäßiges oder benutzerdefiniertes Feld aus der Dropdown-Li
 |---|---|
 | Zeichenfolge | Zeichenfolge |
 | E-Mail | Zeichenfolge |
-| Ganze Zahl | Ganze Zahl |
+| Ganze Zahl | Ganzzahl |
 | Text | Zeichenfolge |
 | URL | Zeichenfolge |
 | Referenz | Nicht unterstützt |
-| Währung | Ganze Zahl |
+| Währung | Ganzzahl |
 | Datum/Uhrzeit | Datum |
 | Boolesch | Nicht unterstützt |
 | Telefon | Zeichenfolge |
 | Datum | Datum |
-| Gleitkomma | Ganze Zahl |
+| Fließkommazahl | Ganzzahl |
 | Berechnet | Nicht unterstützt |
 
 In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinierte Feldergruppe für einen String, eine Ganzzahl oder einen Datumstyp erstellen.

@@ -3,7 +3,8 @@ unique-page-id: 2360411
 description: Erstellen eines Erfolgspfad-Analyzers - Marketo Docs - Produktdokumentation
 title: Erstellen eines Erfolgspfad-Analyzers
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

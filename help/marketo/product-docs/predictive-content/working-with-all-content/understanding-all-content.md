@@ -3,7 +3,8 @@ unique-page-id: 11384645
 description: Alle Inhalte - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu allen Inhalten
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 1%
@@ -53,4 +54,3 @@ Filtern Sie den Inhalt durch Auswahl einer oder mehrerer Kategorien. Richten Sie
 >* [Inhalte löschen](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >* [Aufheben der Genehmigung eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
-

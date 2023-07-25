@@ -2,7 +2,8 @@
 description: Standardmäßige VEC-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
 title: Standardmäßige VEA-Feldzuordnung
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 42%
@@ -105,7 +106,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>Titel</td>
-      <td>Jobtitel</td>
+      <td>Job-Titel</td>
     </tr>
   </tbody>
 </table>

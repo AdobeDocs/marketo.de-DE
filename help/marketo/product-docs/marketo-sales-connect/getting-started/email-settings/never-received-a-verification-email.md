@@ -3,7 +3,8 @@ unique-page-id: 14352411
 description: Nie eine Verifizierungs-E-Mail erhalten - Marketo-Dokumente - Produktdokumentation
 title: Nie eine Verifizierungs-E-Mail erhalten
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

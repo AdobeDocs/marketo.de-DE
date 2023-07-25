@@ -3,7 +3,8 @@ unique-page-id: 1900563
 description: Erstellen einer Kalenderereignisdatei (.ics) - Marketo Docs - Produktdokumentation
 title: Erstellen einer Kalenderereignis-Datei (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -36,4 +37,3 @@ Mission erfüllt! Testen Sie es unbedingt.
 >
 >* [Kalenderereignisse (.ics) in eine E-Mail einschließen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
 >* [Kalenderereignis-ICS-Datei in eine Landingpage einschließen](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
-

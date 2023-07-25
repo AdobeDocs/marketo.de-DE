@@ -3,7 +3,8 @@ unique-page-id: 2360237
 description: Erzählen Sie die Marketing Story mit einer Chance für Einflussanalyzer - Marketo Docs - Produktdokumentation
 title: Erzählen Sie die Marketing Story mit einem Opportunity Influenza Analyzer
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -39,7 +40,6 @@ Verwenden Sie einen Opportunity Influence Analyzer , um die Rolle des Marketing 
    * Die **Zahl in Klammern** die Anzahl der Interaktionen mit diesem Kontakt.
 
    * ![—](assets/image2014-10-3-13-3a45-3a9.png)Die **Gelber Stern** gibt den Hauptkontakt an.
-
 
 1. Bewegen Sie den Mauszeiger über einen Namen, um die Berufsbezeichnung dieser Person und die Quelle ihrer Beteiligung mit der Gelegenheit zu sehen.
 

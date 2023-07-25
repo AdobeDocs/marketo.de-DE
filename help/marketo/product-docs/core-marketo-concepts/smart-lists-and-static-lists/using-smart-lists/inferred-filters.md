@@ -3,9 +3,10 @@ unique-page-id: 2953188
 description: Abgeleitete Filter - Marketo Docs - Produktdokumentation
 title: Abgeleitete Filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ Wenn jemand Ihre Website besucht, [Munchkin](/help/marketo/product-docs/administ
 >
 >Um sicherzustellen, dass die abgeleiteten Feldwerte aktuell bleiben, aktualisieren wir regelmäßig die Datenbank, die für die IP-Adressen-Suche verwendet wird. Datenbankaktualisierungen können neue abgeleitete Feldwerte einführen, die Sie möglicherweise zu Filterdefinitionen für intelligente Listen hinzufügen müssen.
 >
->Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Wenn eine Aktualisierung erfolgt, wird die [Marketo Engage-Versionshinweise](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} enthält eine Erläuterung aller Änderungen an abgeleiteten Feldwerten.
+>Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} enthält eine Erläuterung aller Änderungen an abgeleiteten Feldwerten.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -40,7 +41,6 @@ Wenn Sie einen dieser Filter in einer intelligenten Liste verwenden, liefern die
 >
 >* Besuchte Webseite - Letzte 24 Stunden
 >* Abgeleiteter Status ist [sein Hoheitsgebiet]
-
 
 Diese anonymen Besucher werden automatisch in Personen umgewandelt, wenn sie auf einen E-Mail-Link klicken oder ein Formular ausfüllen. Sie bewahren jedoch alle enthaltenen Informationen auf.
 

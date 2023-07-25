@@ -2,7 +2,8 @@
 description: Registerkarte "E-Mail"- Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Tab
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
@@ -39,4 +40,3 @@ Sie können auf die Schaltfläche &quot;Status des Versands überprüfen&quot;kl
 >
 >* Der Versandstatus für E-Mails, die von Sales Insight aus Salesforce CRM gesendet werden, ist nicht verfügbar.
 >* Dieser Tab spiegelt den Vorlagennamen für E-Mails wider, die von Marketo gesendet werden, sowie die Betreffzeile für E-Mails, die von Sales Insight gesendet werden. Im Vorschaumodus öffnen , um die Betreffzeile gesendeter E-Mails anzuzeigen, oder auf der Registerkarte &quot;E-Mail&quot;im Bedienfeld &quot;Lead/Kontakt/Konto/Opportunity&quot;nachsehen.
-

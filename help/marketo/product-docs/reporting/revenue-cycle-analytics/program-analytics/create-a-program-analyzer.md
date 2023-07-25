@@ -3,7 +3,8 @@ unique-page-id: 2360399
 description: Erstellen eines Programm-Analyzers - Marketo Docs - Produktdokumentation
 title: Programm-Analyzer erstellen
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -72,4 +73,3 @@ Entdecken Sie, welche Programme und Kanäle Ihnen den größten Knall für Ihr M
 >* [Vergleichen der Programmwirksamkeit mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 >* [Kennenlernen von Programm- und Kanaldetails mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Klonen eines Programm-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-

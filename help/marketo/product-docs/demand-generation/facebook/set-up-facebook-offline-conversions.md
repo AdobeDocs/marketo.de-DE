@@ -3,7 +3,8 @@ unique-page-id: 11383953
 description: Einrichten von Facebook-Offline-Konversionen - Marketo-Dokumente - Produktdokumentation
 title: Einrichten von Facebook-Offline-Konversionen
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 5%
@@ -18,7 +19,6 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 >
 >* Sie müssen [Einrichten von Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 >* Sie müssen über ein genehmigtes Modell in [Modell für Umsatzzyklen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
-
 
 ## Admin-Konfiguration {#admin-configuration}
 
@@ -78,7 +78,6 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
    >* Kauf
    >* Suchvorgänge
    >* Inhaltsanzeigen
-
 
 1. Wählen Sie die Bühne aus, die Sie zuordnen möchten, und wählen Sie dann im **Facebook-Konversion** Wählen Sie in der Dropdown-Liste das Facebook-Ereignis aus, dem Sie es zuordnen möchten. Wiederholen Sie diesen Schritt, um alle Phasen in Ihrem RCM Offline-Konversionsphasen in Facebook zuzuordnen.
 

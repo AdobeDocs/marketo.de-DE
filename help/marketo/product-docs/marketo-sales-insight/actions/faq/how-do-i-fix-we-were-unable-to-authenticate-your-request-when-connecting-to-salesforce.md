@@ -2,7 +2,8 @@
 description: Wie behebe ich die Fehlermeldung "Wir konnten Ihre Anfrage nicht authentifizieren"bei der Verbindung mit Salesforce - Marketo Docs - Produktdokumentation
 title: Wie behebe ich bei der Verbindung mit Salesforce die Fehlermeldung "Wir konnten Ihre Anfrage nicht authentifizieren"?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%

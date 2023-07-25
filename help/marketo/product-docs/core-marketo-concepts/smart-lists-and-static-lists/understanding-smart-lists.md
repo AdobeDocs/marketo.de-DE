@@ -3,7 +3,8 @@ unique-page-id: 557130
 description: Smart-Listen - Marketo-Dokumente - Produktdokumentation
 title: Smart-Listen
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 6%
@@ -49,4 +50,3 @@ Okay, fangen wir an!
 >
 >* [Verwenden von integrierten/System-Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-

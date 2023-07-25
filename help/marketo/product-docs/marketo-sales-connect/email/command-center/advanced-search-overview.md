@@ -3,10 +3,11 @@ unique-page-id: 37356329
 description: Erweiterte Suchübersicht - Marketo-Dokumente - Produktdokumentation
 title: Erweiterte Suchübersicht
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -96,7 +97,7 @@ Filtert nach E-Mails, die nie zugestellt wurden.
 
 | Status | Beschreibung |
 |---|---|
-| **fehlgeschlagen** | Wenn der Versand einer E-Mail über Sales Connect fehlschlägt (häufige Ursachen sind: E-Mails werden an abgemeldete/blockierte Kontakte gesendet oder wenn ein Problem beim Ausfüllen der dynamischen Felder aufgetreten ist). |
+| **Fehlgeschlagen** | Wenn der Versand einer E-Mail über Sales Connect fehlschlägt (häufige Ursachen sind: E-Mails werden an abgemeldete/blockierte Kontakte gesendet oder wenn ein Problem beim Ausfüllen der dynamischen Felder aufgetreten ist). |
 | **Unzustellbar** | Eine E-Mail wird als nicht zugestellt markiert, wenn sie vom Server des Empfängers abgelehnt wird. Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
 | **Spam** | Wenn die E-Mail vom Empfänger als Spam gekennzeichnet wurde (üblicher Begriff für unerwünschte E-Mails). Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
 

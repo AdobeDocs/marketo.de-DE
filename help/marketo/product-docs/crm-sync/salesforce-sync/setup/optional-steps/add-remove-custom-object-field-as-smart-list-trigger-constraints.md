@@ -3,7 +3,8 @@ unique-page-id: 4719300
 description: Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen - Marketo Docs - Produktdokumentation
 title: Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

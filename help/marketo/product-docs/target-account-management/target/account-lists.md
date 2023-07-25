@@ -3,7 +3,8 @@ unique-page-id: 11378814
 description: Kontolisten - Marketo-Dokumente - Produktdokumentation
 title: Kontolisten
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 1%
@@ -92,4 +93,3 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 >
 >* [Vorhandenes benanntes Konto zu einer Kontoliste hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Einblicke in die Kontoliste](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
-

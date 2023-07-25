@@ -3,7 +3,8 @@ unique-page-id: 8783141
 description: Beispiel für Push-Benachrichtigungen senden - Marketo Docs - Produktdokumentation
 title: Beispiel für Push-Benachrichtigung senden
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -57,6 +58,5 @@ Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigu
    >* Push-Benachrichtigungen werden für die App aktiviert, die mit der Push-Benachrichtigung verknüpft ist.
    >
    >* Die Push-Benachrichtigung ist für die Plattform Ihres Testgeräts konfiguriert. Wenn Sie beispielsweise gerade eine iPhone als Testgerät hinzugefügt haben, stellen Sie sicher, dass die Push-Benachrichtigung für iOS aktiviert ist.
-
 
 Einfach!

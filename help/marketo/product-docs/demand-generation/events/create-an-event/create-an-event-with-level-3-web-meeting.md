@@ -3,7 +3,8 @@ unique-page-id: 7512328
 description: Erstellen eines Ereignisses mit Level 3-Webtreffen - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Veranstaltung mit Level 3-Webtreffen
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +18,6 @@ ht-degree: 0%
 >* [Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Neues Ereignisprogramm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Legen Sie die entsprechende [Flussaktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)Interaktion verfolgen
-
 
 Erstellen Sie zunächst Ihr Webinar in Stufe 3. Wenn Sie Hilfe benötigen, sehen Sie sich die [Level 3 Resource Library](https://www.level3.com/en/resource-library/). Sie werden es sehr ähnlich wie BrightTalk finden.  Marketo verwendet eine kleine Untergruppe von Level-3-Feldern:
 

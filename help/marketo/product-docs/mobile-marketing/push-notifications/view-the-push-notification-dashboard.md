@@ -3,7 +3,8 @@ unique-page-id: 10096523
 description: Anzeigen des Dashboards für Push-Benachrichtigungen - Marketo-Dokumente - Produktdokumentation
 title: Anzeigen des Dashboards für Push-Benachrichtigungen
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -38,4 +39,3 @@ Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
    >
    >* [Grundlegendes zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
    >* [Mobile Push-Benachrichtigung senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
-

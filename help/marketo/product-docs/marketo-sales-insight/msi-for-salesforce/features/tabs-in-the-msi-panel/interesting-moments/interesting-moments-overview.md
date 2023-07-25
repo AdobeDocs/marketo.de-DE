@@ -3,7 +3,8 @@ unique-page-id: 2949720
 description: Interessante Momente - Überblick - Marketo Docs - Produktdokumentation
 title: Interessante Momente - Überblick
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -34,4 +35,3 @@ Sie können auch Token in interessanten Momenten verwenden, um wirklich nützlic
 >
 >* [Verwenden interessanter Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
 >* [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
-

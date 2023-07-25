@@ -2,7 +2,8 @@
 description: Einschränken der E-Mail-Verbindung - Marketo-Dokumente - Produktdokumentation
 title: Einschränken der E-Mail-Verbindung
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -79,4 +80,3 @@ Beschränkungen werden von der IT-Abteilung des Unternehmens festgelegt, da der 
 >* [Versandkanal-Übersicht](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [E-Mail-Verbindung für Gmail-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [E-Mail-Verbindung für Outlook-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

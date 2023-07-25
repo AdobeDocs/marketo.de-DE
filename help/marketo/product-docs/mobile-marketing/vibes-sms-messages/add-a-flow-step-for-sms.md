@@ -3,7 +3,8 @@ unique-page-id: 11379045
 description: Flussschritt für SMS hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Flussschritt für SMS hinzufügen
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 1%
@@ -24,7 +25,6 @@ Marketo verfügt über drei Flussprotokolle, die Sie in Ihren SMS-Smart-Kampagne
 >
 >* Marketo dedupliziert nach Telefonnummer. Wenn also mehrere Personen dieselbe Telefonnummer haben, erhält nur eine Person die Nachricht.
 >* Marketo sendet keine Nachrichten an Personen, die auf die Blockierungsliste gesetzt oder Marketing ausgesetzt sind.
-
 
 Allgemeine Informationen zum Einrichten von Flussschritten finden Sie unter [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 

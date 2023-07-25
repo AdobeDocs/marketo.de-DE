@@ -3,9 +3,10 @@ unique-page-id: 10096712
 description: Webinar-Veranstaltung in ON24 erstellen - Marketo-Dokumente - Produktdokumentation
 title: Webinar-Veranstaltung in ON24 erstellen
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
@@ -26,8 +27,8 @@ Es gibt bestimmte Einstellungen bei der Erstellung Ihres ON24-Webinars, die von 
 * Start des Live-Ereignisses - Startdatum und -zeit. Dies ist in Marketo sichtbar.
 * Live-Endzeit - Enddatum und -zeit. Dies ist in Marketo sichtbar.
 
-Ihr nächster Schritt besteht darin, [Ereignis in Marketo erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target=&quot;_blank&quot;}.
+Ihr nächster Schritt besteht darin, [Ereignis in Marketo erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

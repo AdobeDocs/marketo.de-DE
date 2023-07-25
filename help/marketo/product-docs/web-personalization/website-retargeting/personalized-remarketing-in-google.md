@@ -3,7 +3,8 @@ unique-page-id: 4720810
 description: Personalisiertes Remarketing in Google - Marketo-Dokumente - Produktdokumentation
 title: Personalisiertes Remarketing in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Mit personalisiertem Remarketing können Sie mithilfe von RTP-Daten und der Leis
 >
 >* Führen Sie die [Retargeting mit Web-Personalisierungsdaten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Konfiguration
 >* Überprüfen [Hilfe zum Remarketing mit Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) Dokumentation.
-
 
 ## Erstellen einer Remarketing-Zielgruppe in Google {#creating-a-remarketing-audience-in-google}
 
@@ -51,7 +51,6 @@ Mit personalisiertem Remarketing können Sie mithilfe von RTP-Daten und der Leis
 >* Benutzerdefinierte Dimensionen: Organisation, Branche, Kategorie (Fortune 500,1000, Global 2000), Gruppe (Enterprise, SMB), ABM-Liste (Namenskontenliste)
 >* Ereigniskategorie: RTP-Segment, RTP-Campaign RTP-Remarketing
 >* Ereignisbezeichnung: Segmentname, Kampagnenname, Segmentierter Zielgruppenname
-
 
 **Beispiel einer Remarketing-Zielgruppe aus segmentierten RTP-Zielgruppendaten**
 
@@ -97,4 +96,3 @@ Mit personalisiertem Remarketing können Sie mithilfe von RTP-Daten und der Leis
 >
 >* [Retargeting mit Web-Personalisierungsdaten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Personalisiertes Remarketing in Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
-

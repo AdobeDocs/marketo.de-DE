@@ -3,7 +3,8 @@ unique-page-id: 7504051
 description: Personendaten verwalten - Marketo-Dokumente - Produktdokumentation
 title: Personendaten verwalten
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 21%
@@ -48,7 +49,6 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie Personenfelder
    >* Die maximal zulässige Länge der String-Typen ist 255 Zeichen
    >* Ausgeblendete Felder werden automatisch entfernt
 
-
 <table> 
  <tbody> 
   <tr> 
@@ -64,7 +64,7 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie Personenfelder
   <tr> 
    <td><p>Titel</p></td> 
    <td><p>Titel</p></td> 
-   <td><p>Jobtitel</p></td> 
+   <td><p>Job-Titel</p></td> 
   </tr> 
   <tr> 
    <td><p>Bewertung</p></td> 

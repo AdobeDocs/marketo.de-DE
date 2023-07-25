@@ -3,7 +3,8 @@ unique-page-id: 7512454
 description: Mobile Push-Benachrichtigung konfigurieren - Marketo-Dokumente - Produktdokumentation
 title: Mobile Push-Benachrichtigung konfigurieren
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -82,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
-Herzlichen Glückwunsch!  Jetzt kann die Push-Benachrichtigung gesendet werden.
+Herzlichen Glückwunsch! Jetzt kann die Push-Benachrichtigung gesendet werden.
 
 ## Deep-Link-URIs {#deep-link-uris}
 

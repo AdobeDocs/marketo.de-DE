@@ -3,7 +3,8 @@ unique-page-id: 1146987
 description: Flussschritt löschen - Marketo-Dokumente - Produktdokumentation
 title: Flussschritt löschen
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -54,16 +55,15 @@ Machen wir zunächst die Grundlagen. So können Sie einen unerwünschten Flusssc
    >**Beispiel**
    >
    >1. Eine intelligente Kampagne besteht aus drei Schritten.
-      >    * SCHRITT 1. E-Mail Nr. 1 senden
-      >    * SCHRITT 2. Warten 1 Woche
-      >    * SCHRITT 3. E-Mail Nr. 2 senden
+   >    * SCHRITT 1. E-Mail Nr. 1 senden
+   >    * SCHRITT 2. Warten 1 Woche
+   >    * SCHRITT 3. E-Mail Nr. 2 senden
    >
    >1. Personen, die **Schritt 2** wird 1 Woche warten, bevor Sie fortfahren **Schritt 3**.
    >1. Sie löschen **Schritt 2** in der Woche.
    >1. Die Leute werden weiterhin die 1 Woche warten. (Sie springen nicht automatisch in den Fluss zurück.)
    >1. Wenn sie schließlich zurückkehren, werden sie versuchen, **Schritt 3**. Sie werden es nicht finden.
    >1. **WICHTIG:** Da es jetzt nur 2 Schritte gibt, wird die *Personen erhalten keine E-Mail Nr. 2.*
-
 
 Durchführen von Änderungen an einer aktiven Kampagne
 

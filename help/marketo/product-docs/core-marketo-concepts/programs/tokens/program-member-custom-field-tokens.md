@@ -3,7 +3,8 @@ unique-page-id: 1147114
 description: Benutzerdefinierte Feld-Token für Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Feld-Token für Programmteilnehmer
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 2%
@@ -25,7 +26,6 @@ Mitglieder-Token werden für Felder verwendet, die unter den Geltungsbereich des
 >* Benutzerdefinierte Felder für Programmmitglieder können nur im Kontext eines Programms verwendet werden.
 >* Benutzerdefinierte Felder für Programmmitglieder können nicht in folgenden Bereichen verwendet werden: E-Mail-Preheader, Datum-Token in Warteschritten oder Snippets.
 >* Der Status der Programmteilnehmer wird in den Mitglieds-Token nicht unterstützt.
-
 
 ## Verwenden von benutzerdefinierten Feld-Token für Programmteilnehmer in Assets {#using-program-member-custom-field-tokens-in-assets}
 

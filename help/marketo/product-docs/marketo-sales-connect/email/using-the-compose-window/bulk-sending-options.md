@@ -3,7 +3,8 @@ unique-page-id: 37356575
 description: Massenversand-Optionen - Marketo-Dokumente - Produktdokumentation
 title: Massensendeoptionen
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 3%
@@ -35,7 +36,7 @@ Der Massen-Versand von E-Mails ist eine hervorragende Möglichkeit, die potenzie
    <th><p><span>Vorlage &amp; </span><span>Dynamische Feldunterstützung</span> </p></th> 
   </tr> 
   <tr> 
-   <td><p><span>Gruppenemail</span> </p></td> 
+   <td><p><span>Gruppen-E-Mail</span> </p></td> 
    <td><p><span>1,000</span> </p></td> 
    <td><p><span>Wählen Sie eine Gruppe aus und klicken Sie auf</span><span> die </span><span>Schaltfläche "Gruppenaktionen"</span><span>oder geben Sie den Gruppennamen in das Feld "An"ein. </span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
@@ -65,4 +66,3 @@ Standardmäßig werden Sie alle Empfänger bearbeiten. Sie können jedoch auch j
 >
 >* [Erstellen von Massen-E-Mails mit Auswählen und Senden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [Senden von E-Mails über Gruppen-E-Mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
-

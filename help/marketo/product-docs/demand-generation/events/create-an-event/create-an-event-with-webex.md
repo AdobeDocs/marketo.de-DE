@@ -3,7 +3,8 @@ unique-page-id: 2949863
 description: Erstellen eines Ereignisses mit Webex - Marketo Docs - Produktdokumentation
 title: Erstellen eines Ereignisses mit Webex
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Neues Ereignisprogramm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Legen Sie die entsprechende [Flussaktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) Interaktion verfolgen
 >* Stellen Sie sicher, dass Sie Webex-Ereignisse (klassisch) verwenden
-
 
 Erstellen Sie zunächst ein Webex-Ereignis im Webex Event Center. Marketo verwendet nur bestimmte Einstellungen und Felder für Ihre Integration, die wir in Kürze durchgehen werden. Andere Felder, die Sie möglicherweise für WebBex konfigurieren möchten, werden im Abschnitt [Webex Event Center-Benutzerhandbuch](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
@@ -73,11 +73,11 @@ Mit einem Marketo-Ereignis steuern Sie die Einladungsliste, das Registrierungsfo
 
 * **Registrierungs-ID erforderlich** - Wird derzeit mit der Marketo-Webex-Integration unterstützt. Sie können Marketo verwenden, um die Bestätigungs-E-Mail für Ihr Ereignis zu senden. Wenn sich die Person registriert, erhält sie eine eindeutige URL, mit der sie das Ereignis aufruft.
 
-   >[!TIP]
-   >
-   >Um Ihre Bestätigungs-E-Mail mit dieser eindeutigen URL zu füllen, verwenden Sie das folgende Token in Ihrer E-Mail: `{{member.webinar url}}`. Wenn die Bestätigungs-URL gesendet wird, wird dieses Token automatisch in die eindeutige Bestätigungs-URL der Person aufgelöst.
-   >
-   >Setzen Sie Ihre Bestätigungs-E-Mail auf **Betrieb** sicherzustellen, dass Personen, die sich registrieren und abgemeldet werden können, weiterhin ihre Bestätigungsinformationen erhalten.
+  >[!TIP]
+  >
+  >Um Ihre Bestätigungs-E-Mail mit dieser eindeutigen URL zu füllen, verwenden Sie das folgende Token in Ihrer E-Mail: `{{member.webinar url}}`. Wenn die Bestätigungs-URL gesendet wird, wird dieses Token automatisch in die eindeutige Bestätigungs-URL der Person aufgelöst.
+  >
+  >Setzen Sie Ihre Bestätigungs-E-Mail auf **Betrieb** sicherzustellen, dass Personen, die sich registrieren und abgemeldet werden können, weiterhin ihre Bestätigungsinformationen erhalten.
 
 * **Registrierungskennwort** - (Optional) Derzeit nicht unterstützt, wenn die Marketo-Webex-Integration verwendet wird.
 * **Validierungsregeln** - Derzeit nicht unterstützt durch die Marketo-Webex-Integration. Sie können jedoch Smart-Kampagnen in Marketo verwenden, um Genehmigungen zu steuern.

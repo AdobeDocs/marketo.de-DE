@@ -2,7 +2,8 @@
 description: Aufrufergebnisse - Marketo-Dokumente - Produktdokumentation
 title: Ergebnisse der Aufrufe
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -89,4 +90,3 @@ Sobald die Ergebnisse der Aufrufe aktiviert wurden. Benutzer können beim Aufruf
 >
 >* [Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Gründe für Aufrufe](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
-

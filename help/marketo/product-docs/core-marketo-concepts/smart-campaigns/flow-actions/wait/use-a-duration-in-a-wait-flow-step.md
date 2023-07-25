@@ -3,7 +3,8 @@ unique-page-id: 1146978
 description: Verwenden einer Dauer in einem Warteflussschritt - Marketo Docs - Produktdokumentation
 title: Verwenden einer Dauer in einem Warteflussschritt
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -50,4 +51,3 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person für eine bestim
    >
    >* [Verwenden eines bestimmten Datums in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
    >* [Verwenden eines Datums-Tokens in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
-

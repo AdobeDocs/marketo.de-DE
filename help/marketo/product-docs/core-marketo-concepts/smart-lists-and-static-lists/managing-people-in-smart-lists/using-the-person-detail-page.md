@@ -3,7 +3,8 @@ unique-page-id: 2953415
 description: Verwenden der Personendetailseite - Marketo-Dokumente - Produktdokumentation
 title: Verwenden der Seite "Personendetails"
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 50%
@@ -23,8 +24,7 @@ Es gibt viele Möglichkeiten, bestimmte Personen zu öffnen. Beispiele:
 * **Mitglieder** Programmregisterkarte
 * **Anzeigen von Campaign-Mitgliedern** in einer Smart-Kampagne
 * Einige **Berichte**
-
-   <br> 
+  <br> 
 
 1. Doppelklicken Sie auf eine beliebige Person oder klicken Sie mit einem Klick auf die ID auf der linken Seite.
 
@@ -70,7 +70,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 
 ## Marketo-Standardfelder vor der CRM-Synchronisierung {#marketo-default-fields-prior-to-crm-sync}
 
-|  |  |  |  |  |
+|   |  |  |  |  |
 |---|---|---|---|---|
 | Adresse | Jahresumsatz | Anonyme IP | Rechnungsadresse | Abrechnungsort |
 | Rechnungsland | Postleitzahl für Rechnung | Bundesland für Rechnung | Ort | Firmenname |

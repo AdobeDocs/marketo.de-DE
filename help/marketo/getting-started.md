@@ -3,10 +3,11 @@ unique-page-id: 1147226
 description: Erste Schritte - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 30%
+source-wordcount: '133'
+ht-degree: 31%
 
 ---
 
@@ -16,13 +17,13 @@ ht-degree: 30%
 
 Was ist Marketo Engage, fragen Sie? Große Frage!
 
-[Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Einrichten {#get-set-up}
 
 Mit ein wenig Hilfe von Ihrem IT-Team können Sie es in kürzester Zeit erledigen.
 
-[Einrichten](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[Einrichten](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
 ## Gewinnen Sie Quick Wins {#get-some-quick-wins}
 
@@ -124,4 +125,4 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
 
 ## SCHRITT 4 Congrats! Du bist bereit für die Nation  {#congrats-youre-ready-for-the-nation}
 
-Sehen Sie sich die [Marketing-Nation](https://nation.marketo.com){target=&quot;_blank&quot;}!
+Sehen Sie sich die [Marketing-Nation](https://nation.marketo.com){target="_blank"}!

@@ -3,7 +3,8 @@ unique-page-id: 14352486
 description: Warum werden keine meiner Kontakte an den Vertrieb weitergeleitet? - Marketo-Dokumente - Produktdokumentation
 title: Warum werden keine meiner Kontakte an den Vertrieb weitergeleitet?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

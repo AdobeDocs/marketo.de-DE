@@ -3,7 +3,8 @@ unique-page-id: 7514146
 description: Attributionsbeispiel 2 - Marketo-Dokumente - Produktdokumentation
 title: Attributionsbeispiel 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 6%
@@ -46,7 +47,6 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 >1. Du kannst nicht mehr Guthaben als du verdient hast
 >1. Man kann etwas, das in der Vergangenheit passiert ist, nicht zuschreiben
 
-
 Probieren Sie alle Beispiele aus und Sie werden ein Attributionsprofi sein!
 
 >[!MORELIKETHIS]
@@ -54,4 +54,3 @@ Probieren Sie alle Beispiele aus und Sie werden ein Attributionsprofi sein!
 >* [Attributionsbeispiel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
 >* [Attributionsbeispiel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [Attributionsbeispiel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 13796471
 description: Live Feed-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live Feed-Übersicht
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -32,7 +33,6 @@ Personen, die mit einer blauen Zeile markiert sind, repräsentieren die Interakt
 >
 >* Wenn Ihr Empfänger bei einem Unternehmen mit IT-Hauptsitz in einem anderen Stadt- oder Land im Wireless-Netzwerk angemeldet war, protokollieren wir diesen Standort anstelle des aktuellen Gebietsschemas des Empfängers.
 >* Wenn Ihre E-Mail von einer Person im CC/BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
-
 
 ## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
 

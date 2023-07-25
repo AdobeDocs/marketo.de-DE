@@ -2,7 +2,8 @@
 description: Chat-Benutzer hinzufügen oder entfernen - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen oder Entfernen von Chat-Benutzern
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -19,7 +20,7 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Klicken **Dynamischer Chat**.
+1. Klicken **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -47,9 +48,9 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## Dynamischen Chat-Zugriff auf Marketo-Rolle hinzufügen {#add-dynamic-chat-access-to-marketo-role}
+## Dynamic Chat-Zugriff auf Marketo-Rolle hinzufügen {#add-dynamic-chat-access-to-marketo-role}
 
-Wenn die neu hinzugefügte Chat-Benutzerrolle des Marketo-Benutzers nicht bereits über die Berechtigung &quot;Dynamischer Chat&quot;verfügt, können Sie sie wie folgt hinzufügen:
+Wenn die neu hinzugefügte Benutzerrolle &quot;Chat&quot;nicht bereits über Dynamic Chat-Berechtigungen verfügt, können Sie sie wie folgt hinzufügen.
 
 1. Klicken Sie in Marketo auf **Admin** und wählen Sie **Benutzer und Rollen**.
 
@@ -63,7 +64,7 @@ Wenn die neu hinzugefügte Chat-Benutzerrolle des Marketo-Benutzers nicht bereit
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Auswählen **Zugriff auf dynamischen Chat** und klicken Sie auf **Speichern**.
+1. Auswählen **Access Dynamic Chat** und klicken Sie auf **Speichern**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -101,4 +102,3 @@ Wenn die neu hinzugefügte Chat-Benutzerrolle des Marketo-Benutzers nicht bereit
 >
 >* [Adobe Admin Console-Benutzer](https://helpx.adobe.com/enterprise/using/users.html)
 >* [Benutzer einzeln verwalten](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
-

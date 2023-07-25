@@ -2,9 +2,10 @@
 description: Senden eines Adobe Experience Platform-Segments an eine statische Marketo-Liste - Marketo-Dokumente - Produktdokumentation
 title: Adobe Experience Platform-Segment in eine statische Marketo-Liste pushen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,6 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 >* [Erstellen eines API-Benutzers](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Navigieren Sie zu **Admin** > **Startpunkt**. Suchen Sie den Namen der soeben erstellten Rolle und klicken Sie auf **Details anzeigen**. Kopieren und speichern Sie die Informationen in **Client-ID** und **Client Secret**, da Sie es für Schritt 7 benötigen könnten.
 >* Erstellen Sie in Marketo eine statische Liste oder suchen und wählen Sie eine bereits erstellte Liste aus. Sie werden ihre Kennung benötigen.
-
 
 1. Anmelden bei [Adobe Experience Platform](https://experience.adobe.com/).
 
@@ -100,7 +100,7 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    >[!NOTE]
    >
-   >Sie können Attribute von Experience Platform zu allen Attributen zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;}, um Attributfelder abzurufen, auf die Ihr Unternehmen Zugriff hat.
+   >Sie können Attribute von Experience Platform zu allen Attributen zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} , um Attributfelder abzurufen, auf die Ihr Unternehmen Zugriff hat.
 
 1. Ordnen Sie Nachname und Firmenname zu, indem Sie auf **Neue Zuordnung hinzufügen** Wiederholen und Wiederholen von Schritt 15 zweimal, wählen Sie **lastName** und dann **companyName**.
 

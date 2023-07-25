@@ -3,9 +3,10 @@ unique-page-id: 10096681
 description: Erläuterungen zum Webinar-Programmstatus - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zum Webinar-Programmstatus
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Im Folgenden finden Sie eine kurze Beschreibung des Programmstatus im Zusammenha
 
 **Eingeladen** - Verwenden Sie diesen Status, um Personen zum Ereignis hinzuzufügen.
 
-**Ausstehende Genehmigung** - Verwenden Sie diesen Status, um Ihren Personen eine Bestätigungs-E-Mail zu senden. Siehe &quot;Manuelles Genehmigen von Registranten&quot;in [Aktualisierungen der Ereignisregistrierung in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} für weitere Informationen.
+**Ausstehende Genehmigung** - Verwenden Sie diesen Status, um Ihren Personen eine Bestätigungs-E-Mail zu senden. Siehe &quot;Manuelles Genehmigen von Registranten&quot;in [Aktualisierungen der Ereignisregistrierung in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} für weitere Informationen.
 
 **Warteliste** - Verwenden Sie diesen Status, damit einige Personen warten, bis weitere Plätze verfügbar sind.
 
@@ -54,4 +55,4 @@ Im Folgenden finden Sie eine kurze Beschreibung des Programmstatus im Zusammenha
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

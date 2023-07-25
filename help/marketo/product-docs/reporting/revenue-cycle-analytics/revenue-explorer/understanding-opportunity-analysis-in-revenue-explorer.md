@@ -3,10 +3,11 @@ unique-page-id: 2951884
 description: Grundlegendes zur Opportunity Analysis in Revenue Explorer - Marketo Docs - Produktdokumentation
 title: Grundlegendes zur Opportunity Analysis in Umsatz-Explorer
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -79,9 +80,9 @@ Die Opportunity Analysis bietet Ihnen Zugriff auf alle Lead-, Unternehmens- und 
    | Auf der Sperrliste | Der Blei wird auf die Blockierungsliste gesetzt |
    | In Chancen konvertiert | Der Lead wird in eine Chance umgewandelt |
    | E-Mail-Adresse ungültig | Gibt an, ob der Lead über eine gültige E-Mail-Adresse verfügt |
-   | Marketing eingestellt | Wird der Lead von Marketing-E-Mails ausgesetzt? |
+   | Marketing ausgesetzt | Wird der Lead von Marketing-E-Mails ausgesetzt? |
    | E-Mail-Adresse | E-Mail-Adresse des Interessenten |
-   | Jobtitel | Berufsbezeichnung des Leiters |
+   | Job-Titel | Berufsbezeichnung des Leiters |
    | Vollständiger Name | Vollständiger Name des Interessenten |
    | Ursprünglicher Quellentyp | Ursprünglicher Quelltyp des Leads |
    | Quelltyp registrieren | Der registrierte Quellentyp des Leads |
@@ -145,7 +146,7 @@ Die Opportunity Analysis bietet Ihnen Zugriff auf alle Lead-, Unternehmens- und 
    | Anzahl der Möglichkeiten (Verloren) | Gesamtzahl der verlorenen Gelegenheiten |
    | Anzahl der Möglichkeiten (Öffnungen) | Gesamtzahl der noch offenen Möglichkeiten |
    | Anzahl der Möglichkeiten (in Mio.) | Gesamtzahl der gewinnten Gelegenheiten |
-   | Opportunity-Betrag | Gesamtbetrag der Opportunität. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
+   | Opportunity-Betrag | Opportunity-Gesamtbetrag. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
    | Opportunity Amount (Lost) | Gesamtbetrag für verlorene Gelegenheiten. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
    | Opportunity Amount (Open) | Gesamtbetrag der offenen Möglichkeiten. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
    | Opportunity Amount (Won) | Gesamtsumme für die eigenen Chancen. Wenn mehr als ein Lead mit einer Chance verknüpft ist, basiert der Zuordnungsbetrag auf dem Lead-Wert. |
@@ -155,4 +156,3 @@ Die Opportunity Analysis bietet Ihnen Zugriff auf alle Lead-, Unternehmens- und 
 >* [Erstellen eines Berichts &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
 >* [Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >* [Abonnieren eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

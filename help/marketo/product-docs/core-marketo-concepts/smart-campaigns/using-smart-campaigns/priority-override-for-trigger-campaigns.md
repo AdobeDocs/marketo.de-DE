@@ -2,16 +2,17 @@
 description: Prioritätsüberschreibungen für Trigger-Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Prioritätsüberschreibungen für Trigger-Kampagnen
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Prioritätsüberschreibungen für Trigger-Kampagnen {#priority-override-for-trigger-campaigns}
 
-Administratoren können die von Marketo festgelegte Priorität für Trigger-Kampagnen überschreiben, um Prioritäten zu setzen, die besser mit Unternehmenszielen abgestimmt sind.
+AdministratorInnen können die von Marketo festgelegte Priorität für Trigger-Kampagnen außer Kraft setzen, um Prioritäten festzulegen, die besser mit den Geschäftszielen übereinstimmen.
 
 >[!NOTE]
 >
@@ -58,4 +59,3 @@ Administratoren können die von Marketo festgelegte Priorität für Trigger-Kamp
 >* Die Standardpriorität Ihrer Kampagne können Sie im [!UICONTROL Kampagnenwarteschlange] under [!UICONTROL Marketingaktivitäten]. Um die Ausführungsrate zu steigern, empfehlen wir, die Kampagnenpriorität auf eine Ebene zu setzen, die über der Standardeinstellung liegt.
 >* Die von Benutzern festgelegte Priorität gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind nicht betroffen.
 >* Prioritätsüberschreibungen werden in [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
-

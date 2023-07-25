@@ -3,23 +3,23 @@ unique-page-id: 3571743
 description: Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - Produktdokumentation
 title: Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '886'
-ht-degree: 4%
+source-wordcount: '872'
+ht-degree: 5%
 
 ---
 
 # Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
-Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sales Insight in Salesforce Professional Edition durchführen müssen. Fangen wir an!
+Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sales Insight in Salesforce Professional Edition durchführen müssen. Los geht’s.
 
 >[!PREREQUISITES]
 >
 >* Installieren Sie Marketo in Ihrer Salesforce Professional Edition.
 >
->* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}
-
+>* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -173,7 +173,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1">Engagement</td> 
+   <td colspan="1">Interaktion</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Wert für Relativergebnis</p></td> 
@@ -236,7 +236,7 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
    <th colspan="1" rowspan="1">Salesforce Contact Custom Field</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Engagement</p></td> 
+   <td colspan="1" rowspan="1"><p>Interaktion</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
   </tr> 
   <tr> 
@@ -274,9 +274,9 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
 
 1. Klicken Sie in Salesforce auf die **+** Klicken Sie am Ende der Registerkartenleiste auf **Marketo Sales Insight-Konfiguration**.
 
-1. Kopieren Sie die Anmeldeinformationen aus dem Soap-API-Bedienfeld in [Admin-Seite von Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} und fügen Sie sie in den Soap-API-Abschnitt der Salesforce Sales Insight-Konfigurationsseite ein.
+1. Kopieren Sie die Anmeldeinformationen aus dem Soap-API-Bedienfeld in [Admin-Seite von Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} und fügen Sie sie in den Abschnitt Soap-API der Salesforce Sales Insight-Konfigurationsseite ein.
 
-1. Kopieren Sie die Anmeldeinformationen aus dem Bedienfeld &quot;Rest-API&quot;in [Admin-Seite von Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} und fügen Sie sie in den Rest-API-Abschnitt der Salesforce Sales Insight-Konfigurationsseite ein.
+1. Kopieren Sie die Anmeldeinformationen aus dem Bedienfeld &quot;Rest-API&quot;in [Admin-Seite von Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} und fügen Sie sie in den Rest-API-Abschnitt der Salesforce Sales Insight-Konfigurationsseite ein.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
@@ -284,7 +284,7 @@ Und das ist es! Sie sollten die Marketo Sales Insight -Felder für Leads, Kontak
 
 >[!NOTE]
 >
->Wenn der Diagnosetest fehlgeschlagen ist, müssen Sie möglicherweise [Hinzufügen von mehr Feldern zum Seitenlayout](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
+>Wenn der Diagnosetest fehlgeschlagen ist, müssen Sie möglicherweise [Hinzufügen von mehr Feldern zum Seitenlayout](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
 
 >[!NOTE]
 >
@@ -292,7 +292,6 @@ Und das ist es! Sie sollten die Marketo Sales Insight -Felder für Leads, Kontak
 
 >[!MORELIKETHIS]
 >
->* [Priorität, Dringlichkeit, relatives Ergebnis und beste Beta](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target=&quot;_blank&quot;}
->* [Hinzufügen der Marketo-Registerkarte zu Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target=&quot;_blank&quot;}
->* [Hinzufügen von Sales Insight-Zugriff zu Profilen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
-
+>* [Priorität, Dringlichkeit, relatives Ergebnis und beste Beta](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
+>* [Hinzufügen der Marketo-Registerkarte zu Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
+>* [Hinzufügen von Sales Insight-Zugriff zu Profilen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

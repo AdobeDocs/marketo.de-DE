@@ -3,7 +3,8 @@ unique-page-id: 2359398
 description: Erstellen eines Formulars - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Formulars
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -48,4 +49,3 @@ Süß! Nachdem das Formular erstellt wurde, ziehen wir es an.
 >
 >* [Formulardesign auswählen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
 >* [Hinzufügen eines Feldsatzes zu einem Formular](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-

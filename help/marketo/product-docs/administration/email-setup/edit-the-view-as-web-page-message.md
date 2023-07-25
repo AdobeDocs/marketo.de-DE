@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: Bearbeiten Sie die Meldung "Als Webseite anzeigen"- Marketo Docs - Produktdokumentation
 title: Bearbeiten Sie die Meldung "Als Webseite anzeigen".
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 8%
@@ -46,7 +47,6 @@ Wenn Sie die[Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/g
 >
 >* Hinzufügen zusätzlicher URLs zu einem der HTML-Felder
 >* HTML in Textversion platzieren
-
 
 Da hast du es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 

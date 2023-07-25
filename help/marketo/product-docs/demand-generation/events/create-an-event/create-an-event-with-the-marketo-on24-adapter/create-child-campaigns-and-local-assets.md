@@ -3,9 +3,10 @@ unique-page-id: 10096675
 description: Erstellen von untergeordneten Kampagnen und lokalen Assets - Marketo-Dokumente - Produktdokumentation
 title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '668'
 ht-degree: 1%
 
 ---
@@ -49,7 +50,7 @@ Verwenden Sie Marketo , um die Bestätigungs-E-Mail für Ihr Ereignis zu senden.
 
 >[!TIP]
 >
->Sie können ON24 so konfigurieren, dass Bestätigungs-, Erinnerungsschreiben- oder Folgenachrichten gesendet werden. Siehe [ON24-Hilfeseite](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;} für weitere Informationen.
+>Sie können ON24 so konfigurieren, dass Bestätigungs-, Erinnerungsschreiben- oder Folgenachrichten gesendet werden. Siehe [ON24-Hilfeseite](https://www.on24.com/live-webcast-elite/){target="_blank"} für weitere Informationen.
 
 ## Voraussetzungen für untergeordnete Kampagnen registrieren {#registration-child-campaign-requirements}
 
@@ -63,7 +64,7 @@ Beispiele für untergeordnete Kampagnen sind eine Einladungskampagne, eine Regis
 
 **Registrierung/Bestätigung (Trigger Campaign)**
 
-* Smart List
+* Intelligente Liste
 * Trigger basierend auf **Formular ausfüllen**. Stellen Sie sicher, dass Sie die Landingpage einschließen, auf der das Formular aktiv ist, indem Sie **Beschränkung hinzufügen**, insbesondere wenn dasselbe Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
@@ -94,11 +95,10 @@ Die **E-Mail senden** Flussschritt MUSS der zweite Schritt sein. Die Bestätigun
 >
 >Wenn die Person mit einem Registrierungsfehler zurückgegeben wird, erhält sie keine E-Mail-Bestätigung.
 
-Ihr nächster Schritt besteht darin, [Testen der ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}.
+Ihr nächster Schritt besteht darin, [Testen der ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
->* [Beispiel für eine ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
->* [Grundlegendes zum Webinar-Programmstatus](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
-
+>* [Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [Beispiel für eine ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Grundlegendes zum Webinar-Programmstatus](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}

@@ -3,7 +3,8 @@ unique-page-id: 2359811
 description: Wählen Sie die Freigabe-URL für eine Social App - Marketo Docs - Produktdokumentation
 title: Auswählen der Freigabe-URL für eine Social-App
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -39,7 +40,6 @@ Wenn Sie eine Social-App erstellen, können Sie festlegen, welche URL in den Bei
    >* **Verweisende Seite**: Die Seite, die die App enthält.
    >* **Andere Landingpage**: Eine andere Marketo-Landingpage als die in der Dropdown-Liste.
    >* **Externe URL**: Eine Landingpage ohne Marketo.
-
 
 >[!MORELIKETHIS]
 >

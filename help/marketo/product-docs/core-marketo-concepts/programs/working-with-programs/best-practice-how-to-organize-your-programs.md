@@ -3,7 +3,8 @@ unique-page-id: 6848705
 description: Best Practice - Organisieren Ihrer Programme - Marketo-Dokumente - Produktdokumentation
 title: Best Practice - Anleitung zur Organisation Ihrer Programme
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 4%
@@ -27,29 +28,28 @@ In Marketingaktivitäten sollten Sie Ordner verwenden, um Ihre Programme zu orga
 >**Beispiel**
 >
 >* Aktive Marketingprogramme
-   >   * E-Mails
-   >   * Veranstaltungen
-      >      * Live-Events/Roadshows
-      >      * Messen
-      >      * Webinare
-   >   * Newsletter
-   >   * Nurture
-   >   * Webinhalt
-   >   * Web-Formulare
+>   * E-Mails
+>   * Ereignisse
+>      * Live-Events/Roadshows
+>      * Messen
+>      * Webinare
+>   * Newsletter
+>   * Nurture
+>   * Webinhalt
+>   * Web-Formulare
 >* Lernen
 >* Betrieblich
-   >   * Lebensdauer
-   >   * Bewertung
-   >   * Datenverwaltung
+>   * Lebensdauer
+>   * Bewertung
+>   * Datenverwaltung
 >* Sales Insight
-   >   * Interessante Momente
-   >   * Verkaufs-E-Mails
-   >   * Vom Verkauf angeforderte Kampagnen
+>   * Interessante Momente
+>   * Verkaufs-E-Mails
+>   * Vom Verkauf angeforderte Kampagnen
 >* **Archivieren**
-   >   * Ereignisse archivieren
-      >      * Archiv 2012
-      >      * Archiv 2013
-
+>   * Ereignisse archivieren
+>      * Archiv 2012
+>      * Archiv 2013
 
 Jedes der im Beispiel erwähnten Elemente ist ein Ordner. Beachten Sie, wie sie alle eindeutig benannt sind. Sie können doppelte (einfachere) Namen von Ordnern INSIDE-Programmen haben, aber nicht im Stammverzeichnis des Baums.
 
@@ -75,7 +75,6 @@ Die Benennung ist wichtig, da die Funktionen von Marketo alle eine gemeinsame Sp
 >1. NL Newsletter 2015-06
 >1. Webinarthema WBN 2015-12-01 hier
 
-
 Programmnamen müssen in Ihrem Abonnement eindeutig sein, auch in verschiedenen [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Für lokale Assets innerhalb von Programmen gilt folgende Regel: **einfachen Namen beibehalten**. Benennen Sie einfach eine Einladung mit &quot;Einladung&quot;, anstatt mit &quot;Einladung im Webinar vom Juni 2015&quot;. Da sich diese in einem Programm befinden, ist das übergeordnete Programm automatisch Teil des Namens, wenn es an einer anderen Stelle ausgewählt wird. Anders ausgedrückt: Lokale Assets müssen nur innerhalb des Programms eindeutig sein. Sie können Hunderte von Assets mit dem Namen &quot;Einladen&quot;haben, die jeweils in einem anderen Programm gespeichert sind, sodass Sie sich nicht daran stören.
 
 ## Token {#tokens}
@@ -90,7 +89,7 @@ Die oben erwähnte Organisation ermöglicht es Ihnen, Token in den Ordner &quot;
 >
 >**Ihre Firmenadresse**. Verwenden Sie ein Token, anstatt es jedes Mal zu schreiben. Auf diese Weise können Sie es an einem Ort aktualisieren, ohne dass Sie viele Entwürfe erstellen müssen. Überschreiben Sie dann das Token nach Bedarf in einem Ordner der unteren Ebene.
 
-## Veranstaltungen {#events}
+## Ereignisse {#events}
 
 Ein Ereignis weist in der Regel viele bewegliche Teile auf, darunter: Einladungen, Landingpages, Formulare, soziale Widgets und intelligente Kampagnen. Die Best Practice, sie zur einfachen Verwendung zu organisieren, ist die Phase des Ereignisses. Im Folgenden finden Sie ein Beispiel dafür, wie Ihr Ordnerbaum nach einem Ereignis suchen sollte.
 
@@ -110,7 +109,7 @@ E-Mail-Programme sind Ihr Tool für das Briefpost-Strahling. Sie können sie in 
 
 Sie können auch ein E-Mail-Programm als eigenständiges Programm erstellen. E-Mail-Programme sind in anderen E-Mail-Programmen nicht zulässig. Das wäre verrückt!
 
-## Klonen {#cloning}
+## Wird geklont {#cloning}
 
 Eine der coolsten Funktionen in Marketo ist die Möglichkeit, Programme zu klonen. Dies bedeutet, dass Sie eine Programmvorlage einrichten können, die alle gewünschten Smart-Kampagnen und E-Mails enthält. Richten Sie es im Voraus ein und klonen Sie es dann für Ihre nächste Marketing-Initiative.
 

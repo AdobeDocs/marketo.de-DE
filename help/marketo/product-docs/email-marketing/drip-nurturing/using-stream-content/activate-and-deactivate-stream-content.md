@@ -3,10 +3,11 @@ unique-page-id: 2359669
 description: Aktivieren und Deaktivieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
 title: Aktivieren und Deaktivieren von Stream-Inhalten
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -36,7 +37,7 @@ Streaminhalt ist standardmäßig DEAKTIVIERT. Aktivieren Sie Inhalte, um sie wä
    >
    >Sie können auch alle Inhalte in einem Stream aktivieren, indem Sie auf das Zahnradsymbol auf der obersten Ebene klicken und dann auf **Alle Inhalte aktivieren**.
 
-   Gute Arbeit! Jetzt wissen Sie, wie Sie Inhalte in Ihren Streams aktivieren können.
+   Gut gemacht! Jetzt wissen Sie, wie Sie Inhalte in Ihren Streams aktivieren können.
 
 ## Stream-Inhalte deaktivieren {#deactivate-stream-content}
 

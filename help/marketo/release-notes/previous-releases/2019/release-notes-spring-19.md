@@ -3,7 +3,8 @@ unique-page-id: 17728380
 description: Versionshinweise - Frühjahr 2019 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Frühjahr 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 6%
@@ -54,4 +55,4 @@ Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und An
 
 * **Bizible Discover - Funktionsverbesserungen**: Neue Dashboard-Segmentierungsfunktionen ermöglichen es Marketing-Experten, die Leistung besser zu verstehen.
 * **Unterstützung mehrerer Währungen**: Wechseln Sie zwischen Ihrer Unternehmenswährung und jeder lokalen Währung mit der neuen automatischen Währungskonvertierungsfunktion von Bizible, die auf CRM-Währungstabellen basiert.
-* **CRM-Kampagnenkosten**: Messen Sie die Ausgaben und den ROI von Offline-Marketingaktivitäten mit der Möglichkeit, Kostendaten automatisch aus dem CRM-Kampagnenobjekt zu beziehen.
+* **CRM-Kampagnenkosten**: Messen Sie die Ausgaben und den ROI von Offline-Marketingaktivitäten mit der Möglichkeit, automatisch Kostendaten aus dem CRM-Kampagnenobjekt zu beziehen.

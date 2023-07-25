@@ -3,7 +3,8 @@ unique-page-id: 13795534
 description: Performance Insights-Dashboards - Marketo-Dokumente - Produktdokumentation
 title: Dashboards für Leistungseinblicke
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 10%
@@ -16,7 +17,7 @@ Erfahren Sie mehr über die verfügbaren Dashboards in MPI.
 
 ![](assets/1-4.png)
 
-## Engagement {#engagement}
+## Interaktion {#engagement}
 
 Mit dem Interaktionsdashboard können Sie die Effektivität Ihrer Pflegeprogramme und der Akquiseprogramme für neue Namen messen.
 

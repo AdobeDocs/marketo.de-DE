@@ -2,7 +2,8 @@
 description: Häufig gestellte Fragen zu Inhalten und Dateianlagen - Marketo-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zu Inhalt und Dateianhang
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

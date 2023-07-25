@@ -3,7 +3,8 @@ unique-page-id: 2360496
 description: Mehrere Werte zu einem Smart-Listenfilter hinzufügen - Marketo Docs - Produktdokumentation
 title: Mehrere Werte zu einem Smart-Listenfilter hinzufügen
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Suchen und Hinzufügen von Filtern zu einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-
 
 Nehmen wir an, Sie möchten alle in Kalifornien finden, aber Sie speichern vielleicht beide **Kalifornien** und **CA** in Ihrer Datenbank. Um alle relevanten Personen einzubeziehen, können Sie zwei **state** Filter, aber es ist einfacher mit einem.
 
@@ -42,4 +42,3 @@ Schnelle Arbeit!
 >
 >* [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Verwenden erweiterter Filter in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-

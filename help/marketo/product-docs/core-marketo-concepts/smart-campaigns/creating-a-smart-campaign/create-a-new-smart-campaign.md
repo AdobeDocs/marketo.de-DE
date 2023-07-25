@@ -3,7 +3,8 @@ unique-page-id: 1146931
 description: Erstellen einer neuen Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer neuen Smart-Kampagne
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +41,3 @@ Smart-Kampagnen sind das wichtigste Tool in Marketo Engage. Sie können auf eine
    >
    >* [Definieren einer Smart-Liste für eine intelligente Kampagne | Charge](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
    >* [Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
-

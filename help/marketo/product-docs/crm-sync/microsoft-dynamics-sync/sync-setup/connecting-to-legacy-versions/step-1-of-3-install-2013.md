@@ -3,7 +3,8 @@ unique-page-id: 3571813
 description: 'Schritt 1 von 3: Installieren der Marketo-Lösung in Dynamics (On-Premises 2013) - Marketo Docs - Produktdokumentation'
 title: 'Schritt 1 von 3: Installieren der Marketo-Lösung in Dynamics (On-Premises 2013)'
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%

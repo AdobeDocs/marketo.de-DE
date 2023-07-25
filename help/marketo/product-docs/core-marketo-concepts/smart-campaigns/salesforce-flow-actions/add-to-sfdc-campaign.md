@@ -3,7 +3,8 @@ unique-page-id: 1147034
 description: Zu SFDC Campaign hinzufügen - Marketo Docs - Produktdokumentation
 title: Zu SFDC-Kampagne hinzufügen
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 5%
@@ -34,7 +35,6 @@ Dieser Flussschritt kann in Marketo-Kampagnen oder als Einzeldurchsatzschritt ve
    >
    >  1. Stellen Sie sicher, dass [Kampagnensynchronisation ist aktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
    >  1. Vergewissern Sie sich, dass [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ist [Marketing-Benutzer](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce.
-
 
    >[!TIP]
    >

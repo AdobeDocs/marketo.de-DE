@@ -3,7 +3,8 @@ unique-page-id: 557275
 description: Verwenden integrierter/systemintelligenter Listen - Marketo-Dokumente - Produktdokumentation
 title: Verwenden von integrierten/System-Smart-Listen
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 6%
@@ -40,7 +41,7 @@ Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten Sma
 |---|---|
 | Alle Personen | Alle Personen in Ihrer Marketo-Datenbank |
 | Abgemeldete Personen | Diese Personen können nur betriebliche E-Mails erhalten. wird in der Regel von der Person selbst kontrolliert. |
-| Marketing eingestellt | Diese Personen können nur betriebliche E-Mails erhalten. Dies wird normalerweise von Ihnen, dem Marketingspezialisten, kontrolliert. |
+| Marketing ausgesetzt | Diese Personen können nur betriebliche E-Mails erhalten. Dies wird normalerweise von Ihnen, dem Marketingspezialisten, kontrolliert. |
 | Sperrliste | Diese Leute erhalten überhaupt keine E-Mail. |
 | Unzustellbare E-Mail-Adressen | Personen mit einer nicht zustellbaren E-Mail-Adresse oder die Ihre E-Mail ablehnen. |
 | Mögliche Duplikate | Personen, die in der Marketo-Datenbank dupliziert werden können. |

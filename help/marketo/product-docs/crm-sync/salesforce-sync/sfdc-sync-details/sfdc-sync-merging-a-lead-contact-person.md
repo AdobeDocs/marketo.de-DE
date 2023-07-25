@@ -3,7 +3,8 @@ unique-page-id: 7515133
 description: SFDC-Synchronisierung - Zusammenführen von Lead/Kontakt/Person - Marketo-Dokumente - Produktdokumentation
 title: SFDC Sync - Zusammenführen von Lead/Kontakt/Person
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

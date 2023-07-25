@@ -3,10 +3,11 @@ unique-page-id: 30081321
 description: Gruppentypen - Marketo-Dokumente - Produktdokumentation
 title: Gruppentypen
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 12%
+ht-degree: 10%
 
 ---
 
@@ -32,7 +33,7 @@ Erfahren Sie mehr über die verschiedenen Gruppentypen in Sales Connect.
   </tr> 
   <tr> 
    <td colspan="1"><p>Dynamische Gruppen</p></td> 
-   <td colspan="1">Meine Kontakte: Alle Kontakte, die du besitzt.<br>Abmeldungen: Kontakte, die sich vom Erhalt des Schriftstücks abgemeldet haben.</td> 
+   <td colspan="1">Meine Ansprechpartner: Alle Kontakte, die du besitzt.<br>Abmeldungen: Kontakte, die sich vom Erhalt des Schriftstücks abgemeldet haben.</td> 
   </tr> 
   <tr> 
    <td><p>Meine Gruppen</p></td> 

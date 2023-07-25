@@ -3,7 +3,8 @@ unique-page-id: 45417125
 description: Sales Insight für nicht native Salesforce-Integrationen - Marketo Docs - Produktdokumentation
 title: Sales Insight für nicht native Salesforce-Integrationen
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1377'
 ht-degree: 0%
@@ -21,7 +22,6 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
 >* Marketo REST API [erfolgreich einrichten](https://developers.marketo.com/rest-api/){target="_blank"}. Die offen gelegten CRUD-APIs bilden die Grundlage für die Durchführung der nicht nativen Synchronisierung.
 >* Lesen [Dieser Blogpost](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} um ein Verständnis des Objekts und der Beziehungen zu erhalten.
 >* Richten Sie Salesforce-Objekte so ein, dass die global eindeutige Kennung mit 18 Zeichen nicht von der Groß-/Kleinschreibung abhängig ist, sondern die globale eindeutige Kennung mit 15 Zeichen, bei der die Groß-/Kleinschreibung beachtet wird.
-
 
 >[!NOTE]
 >

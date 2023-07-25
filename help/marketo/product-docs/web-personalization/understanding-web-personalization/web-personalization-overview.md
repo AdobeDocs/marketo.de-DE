@@ -3,7 +3,8 @@ unique-page-id: 3571900
 description: Übersicht über die Web-Personalisierung - Marketo-Dokumente - Produktdokumentation
 title: Web-Personalisierung - Überblick
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 2%
@@ -26,7 +27,7 @@ Vorhandene Kunden greifen über die Kachel Echtzeit-Personalisierung bis zur Ver
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wenn Sie auf die Kachel Web-Personalisierung klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und navigieren Sie direkt zur Seite Content Recommendations .
+Wenn Sie auf die Kachel Web-Personalisierung klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und gehen Sie direkt zur Seite Content Recommendations .
 
 Die vier Apps sind:
 
@@ -57,10 +58,9 @@ Im Tab Organisationen werden alle Details (Name, Standort, Aktivität und Zeitst
 >
 >&quot;Am meisten aktiv&quot;vs. &quot;Aktuell&quot;- Die Tabelle wird von identifizierten Organisationen und anschließend von Internetdienstanbietern (mit einem ISP-Symbol gekennzeichnet) organisiert. Er kann nach folgenden Kriterien sortiert werden:
 >
->* Am aktivsten: die aktivsten Organisationen in der Tabelle, basierend auf der Anzahl der Seitenansichten
+>* Am aktivsten: die aktivsten Organisationen in der Tabelle basierend auf der Anzahl der Seitenansichten
 >* Neueste: die neuesten Organisationen in der Tabelle (Standard)
 >* Für wertvolle Einblicke filtern Sie nach der aktivsten
-
 
 **Organisationen - Rechtes Bedienfeld**
 

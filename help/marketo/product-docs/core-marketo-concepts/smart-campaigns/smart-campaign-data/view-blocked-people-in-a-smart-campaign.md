@@ -3,7 +3,8 @@ unique-page-id: 1147062
 description: Anzeigen blockierter Personen in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Anzeigen blockierter Personen in einer Smart-Kampagne
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 1%
@@ -40,6 +41,5 @@ Blockierte Personen in der Marketo-Datenbank werden als auf die Blockierungslist
    >* [Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
    >* [Mitglieder von Smart Campaign anzeigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
    >* [Qualifizierte Personen in einer Smart-Kampagne anzeigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
-
 
 Da bist du! Jetzt können Sie wissen, wer die Mailings möglicherweise nicht erhält.

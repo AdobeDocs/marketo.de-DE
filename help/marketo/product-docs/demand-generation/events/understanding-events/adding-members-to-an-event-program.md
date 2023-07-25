@@ -3,7 +3,8 @@ unique-page-id: 37355758
 description: Hinzufügen von Mitgliedern zu einem Ereignisprogramm - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -34,7 +35,7 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/five.png)
 
-1. Suchen und wählen Sie Ihr Veranstaltungsprogramm aus.
+1. Suchen und wählen Sie Ihr Ereignisprogramm aus.
 
    ![](assets/six.png)
 

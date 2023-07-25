@@ -3,7 +3,8 @@ unique-page-id: 14352407
 description: Versandkanal-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Versandkanal-Übersicht
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -56,4 +57,3 @@ Marketo-E-Mail-Server werden nicht in Sales Connect integriert. Marketo-Server s
 >* [E-Mail-Verbindung für Outlook-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [Einrichten eines benutzerdefinierten Bereitstellungskanals](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [Einschränken der E-Mail-Verbindung](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
-

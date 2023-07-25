@@ -3,10 +3,11 @@ unique-page-id: 30081307
 description: Benutzerseitenspalten - Marketo-Dokumente - Produktdokumentation
 title: Benutzerseitenspalten
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -41,7 +42,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Vorname</td> 
   </tr> 
   <tr> 
-   <td>Nachname (Standard)</td> 
+   <td>Nachname (standard)</td> 
    <td>Nachname</td> 
   </tr> 
   <tr> 
@@ -65,7 +66,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Vertriebskampagne der Person, die sich derzeit befindet</td> 
   </tr> 
   <tr> 
-   <td>Anz. Kampagnen</td> 
+   <td># Kampagnen</td> 
    <td>Gesamtzahl der Verkaufskampagnen, zu denen die Person gehörte</td> 
   </tr> 
   <tr> 
@@ -97,7 +98,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Anzahl der offenen Aufgaben für diese Person</td> 
   </tr> 
   <tr> 
-   <td>Anz. Ansichten</td> 
+   <td># Ansichten</td> 
    <td>Gesamtzahl der Ansichten dieser Person</td> 
   </tr> 
   <tr> 

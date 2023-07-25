@@ -3,9 +3,10 @@ unique-page-id: 10096673
 description: Ereigniseinstellungen konfigurieren und Marketo mit Ihrem Webinar synchronisieren - Marketo Docs - Produktdokumentation
 title: Konfigurieren von Ereigniseinstellungen und Synchronisieren von Marketo mit Ihrem Webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -52,8 +53,8 @@ Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wir
    >
    >Wenn Sie Ereignisinformationen in ON24 aktualisieren, müssen Sie auf **Von Webinar-Anbieter aktualisieren** im Menü Ereignisaktionen , um das Ausfüllen der neuen Daten anzuzeigen.
 
-Nun können Sie zum nächsten Schritt übergehen: [Erstellen von untergeordneten Kampagnen und lokalen Assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}.
+Nun können Sie zum nächsten Schritt übergehen: [Erstellen von untergeordneten Kampagnen und lokalen Assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Marketo On24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Grundlegendes zu Marketo On24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

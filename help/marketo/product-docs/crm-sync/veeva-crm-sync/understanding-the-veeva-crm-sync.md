@@ -2,10 +2,11 @@
 description: Verstehen der VEC CRM-Synchronisierung - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zur VEC CRM-Synchronisierung
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
-source-git-commit: 884c9a27f3876ec3036f2f7187db30565cdd49a7
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 0%
+source-wordcount: '248'
+ht-degree: 1%
 
 ---
 
@@ -27,14 +28,14 @@ Die Synchronisation zwischen VEE und Marketo Engage erfolgt nur für Kontaktfeld
 
 ## Was wird zwischen Marketo Engage und Veeva synchronisiert? {#what-is-synced-between-marketo-engage-and-veeva}
 
-* [Personenkonten](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target=&quot;_blank&quot;}
+* [Personenkonten](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Benutzer
-* [Schlüsselobjekte aufrufen und aufrufen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
-* [Benutzerdefinierte Objekte](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
+* [Schlüsselobjekte aufrufen und aufrufen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [Benutzerdefinierte Objekte](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## Was zu wissen ist {#things-to-know}
 
-* Die [Anmeldedaten, die Sie im Marketo Engage für Veeva eingeben](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target=&quot;_blank&quot;} werden zum Synchronisieren von Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
+* Die [Anmeldedaten, die Sie im Marketo Engage für Veeva eingeben](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} werden zum Synchronisieren von Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
 
 * Veeva CRM basiert auf force.com und das Rich-Experience-Marketo Engage mit der Plattform wird in diese Synchronisation übernommen.
 

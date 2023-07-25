@@ -3,7 +3,8 @@ unique-page-id: 10617431
 description: Zielgruppe für In-App-Nachrichten festlegen - Marketo-Dokumente - Produktdokumentation
 title: Zielgruppe für In-App-Nachrichten festlegen
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -52,6 +53,6 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
-Gute Arbeit! Du hast dein Publikum eingestellt. Sie haben die blaue Leiste und das grüne Häkchen erhalten.
+Gut gemacht! Du hast dein Publikum eingestellt. Sie haben die blaue Leiste und das grüne Häkchen erhalten.
 
 Zeit bis [In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

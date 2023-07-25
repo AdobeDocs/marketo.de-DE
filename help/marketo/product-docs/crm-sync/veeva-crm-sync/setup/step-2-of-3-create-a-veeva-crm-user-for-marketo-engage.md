@@ -2,9 +2,10 @@
 description: 'Schritt 2 von 3: Erstellen eines VEC CRM-Benutzers für Marketo Engage - Marketo Docs - Produktdokumentation'
 title: 'Schritt 2 von 3: Erstellen eines VEC CRM-Anwenders zum Marketo Engage'
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '632'
 ht-degree: 4%
 
 ---
@@ -17,7 +18,7 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 3: Marketo-Felder zu Salesforce (Professional) hinzufügen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
+>[Schritt 1 von 3: Marketo-Felder zu Salesforce (Professional) hinzufügen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 In diesem Artikel passen Sie die Feldberechtigungen mit einem VEE CRM-Seitenlayout an und erstellen einen Marketo-VEE CRM-Synchronisierungsbenutzer.
 
@@ -200,4 +201,4 @@ Ausgezeichnet! Jetzt haben Sie ein Konto, über das Marketo Engage eine Verbindu
 
 >[!MORELIKETHIS]
 >
->[Schritt 3 von 3: Verbinden von Marketo und Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target=&quot;_blank&quot;}
+>[Schritt 3 von 3: Verbinden von Marketo und Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

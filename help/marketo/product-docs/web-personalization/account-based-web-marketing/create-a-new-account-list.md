@@ -3,7 +3,8 @@ unique-page-id: 4720232
 description: Erstellen einer neuen Kontoliste - Marketo Docs - Produktdokumentation
 title: Neue Kontoliste erstellen
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 12%
@@ -45,7 +46,6 @@ Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie 
    >* Sie erhalten per E-Mail eine Genehmigung, oder prüfen Sie den Dateistatus auf der Seite für benannte Konten.
    >* Die Gesamtzahl der Datensätze/Zeilen, die für alle hochgeladenen Listen gesammelt wurden, beginnt bei 10.000, das größte Paket insgesamt 100.000.
 
-
    >[!NOTE]
    >
    >**Beispiel einer CSV-Datei**
@@ -56,10 +56,9 @@ Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie 
    >* Zeile 1 Spalte D Wert = US-Status
    >* Einer der Spaltenwerte ist obligatorisch. Wenn Sie jedoch sowohl Organisations- als auch Domänennamen angeben, werden die Übereinstimmungsraten der Kontoliste verbessert.
    >* Land und Bundesland sind optionale Werte.
-      >
-      >   * Verwenden Sie für den Ländernamen den vollständigen Ländernamen oder die Abkürzungsnummer. Z. B. USA oder USA.
-      >   * Verwenden Sie für einen US-Bundesstaat den 2-Buchstaben-Abkürzungscode, d. h. CA. Nur US-Staaten werden anerkannt.
-
+   >
+   >   * Verwenden Sie für den Ländernamen den vollständigen Ländernamen oder die Abkürzungsnummer. Z. B. USA oder USA.
+   >   * Verwenden Sie für einen US-Bundesstaat den 2-Buchstaben-Abkürzungscode, d. h. CA. Nur US-Staaten werden anerkannt.
    >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 

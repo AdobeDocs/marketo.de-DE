@@ -1,8 +1,9 @@
 ---
-description: Übersicht über dynamischen Chat - Marketo-Dokumente - Produktdokumentation
+description: Dynamic Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über dynamischen Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '857'
 ht-degree: 2%
@@ -11,19 +12,19 @@ ht-degree: 2%
 
 # Übersicht über dynamischen Chat {#dynamic-chat-overview}
 
-Mit dem dynamischen Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um sowohl Personen als auch Konten, die Ihre Website besuchen, als Ziel anzusehen. Erfassen Sie relevante Inhalte wie Namen, Kontaktinformationen und freien Text. Besucher der Site können auch Meetings mit Ihrem Vertriebsteam buchen. Die Aktivitäts- und Interaktionsdaten des dynamischen Cats können verwendet werden, um Marketo-Programmen und kanalübergreifenden Aktivitäten von Triggern Mitglieder hinzuzufügen.
+Mit Dynamic Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um sowohl Personen als auch Konten, die Ihre Website besuchen, als Ziel anzusehen. Erfassen Sie relevante Inhalte wie Namen, Kontaktinformationen und freien Text. Besucher der Site können auch Meetings mit Ihrem Vertriebsteam buchen. Dynamic Chat-Aktivitäts- und Interaktionsdaten können verwendet werden, um Marketo-Programmen und kanalübergreifenden Aktivitäten von Triggern Mitglieder hinzuzufügen.
 
 >[!NOTE]
 >
->Der dynamische Chat wird derzeit schrittweise eingeführt und ist derzeit in begrenztem Umfang verfügbar. Diese Seite wird mit den allgemeinen Verfügbarkeitsdetails (GA) aktualisiert, sobald sie verfügbar werden.
+>Die Dynamic Chate werden derzeit schrittweise eingeführt und stehen derzeit nur in begrenztem Umfang zur Verfügung. Diese Seite wird mit den allgemeinen Verfügbarkeitsdetails (GA) aktualisiert, sobald sie verfügbar werden.
 
 >[!TIP]
 >
->Besuch [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) , um Anleitungsvideos zum dynamischen Chat anzuzeigen.
+>Besuch [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) , um Anleitungsvideos zum Dynamic Chat anzuzeigen.
 
 ## Integrationen {#integrations}
 
-Eine wichtige Komponente des dynamischen Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu arbeiten. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis Daten für die erste [einmalige Synchronisierung](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) zu beenden.
+Eine wichtige Komponente von Dynamic Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu arbeiten. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis Daten für die erste [einmalige Synchronisierung](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) zu beenden.
 
 Folgendes wird synchronisiert:
 
@@ -53,21 +54,21 @@ Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, die 
 
 ## FAQs {#faq}
 
-**Kann ich den dynamischen Chat überall auf meiner Firmenwebsite installieren oder funktioniert er nur auf Marketo-Landingpages?**
+**Kann ich Dynamic Chat irgendwo auf meiner Firmenwebsite installieren oder funktioniert dies nur auf Marketo-Landingpages?**
 
-Das JavaScript-Snippet &quot;Dynamischer Chat&quot;kann auf jeder Website sowie auf Marketo-Landingpages installiert werden.
+Das JavaScript-Snippet für den Dynamic Chat kann auf jeder Website sowie auf Marketo-Landingpages installiert werden.
 
 **Wie lange werden Daten für Berichte gespeichert?**
 
 90 Tage (siehe vollständige Liste der Beschränkungen) [below](#limits-in-dynamic-chat)).
 
-**Ermöglicht der dynamische Chat einen Live-Chat?**
+**Ermöglicht der Dynamic Chat einen Live-Chat?**
 
 Nein, es werden nur vordefinierte Antworten verwendet.
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-Ja. Der dynamische Chat unterstützt die folgenden Sprachen: Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Abschnitt unten](#changing-the-language).
+Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Abschnitt unten](#changing-the-language).
 
 **Unterstützen Sie KI/NLP-Funktionen?**
 
@@ -79,7 +80,7 @@ In Ihrem Dialogfeld müssen Sie die _Person Email is Empty_ -Attribut.
 
 ## Ändern der Sprache {#changing-the-language}
 
-Führen Sie diese Schritte aus, um Ihre Dynamic Chat-Sprache zu ändern.
+Führen Sie die folgenden Schritte aus, um Ihre Dynamic Chat-Sprache zu ändern.
 
 >[!IMPORTANT]
 >
@@ -99,11 +100,11 @@ Führen Sie diese Schritte aus, um Ihre Dynamic Chat-Sprache zu ändern.
 
    >[!NOTE]
    >
-   >Es gibt einige Dutzend Sprachen, aus denen Sie wählen können. Dynamischer Chat unterstützt jedoch nur Folgendes: Englisch, Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell).
+   >Es gibt einige Dutzend Sprachen, aus denen Sie wählen können. Dynamic Chat unterstützt jedoch nur Folgendes: Englisch, Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell).
 
 Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Ausnahme der Wörter, die Sie persönlich ausgefüllt haben (z. B. Stream-Antworten).
 
-## Einschränkungen im dynamischen Chat {#limits-in-dynamic-chat}
+## Einschränkungen im Dynamic Chat {#limits-in-dynamic-chat}
 
 <table>
   <th>Parameter</th>
@@ -121,7 +122,7 @@ Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Au
  </tr>
  <tr>
   <td>Benutzer insgesamt (Administratoren und Marketing-Benutzer)</td>
-  <td>Anzahl der zulässigen kombinierten Benutzer pro Dynamic Chat-Instanz</td>
+  <td>Anzahl der zulässigen kombinierten Dynamic Chat pro Instanz</td>
   <td>50</td>
  </tr>
  <tr>
@@ -176,7 +177,7 @@ Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Au
  </tr>
  <tr>
   <td>Treuezeitraum der Sitzungsbuchungsaktivität</td>
-  <td>Die Zeitdauer, in der die Buchungsaktivität für Meetings gespeichert wird, wird im dynamischen Chat gespeichert</td>
+  <td>Die Zeitdauer, in der die Buchungsaktivität für das Meeting gespeichert wird, wird im Dynamic Chat</td>
   <td>24 Monate</td>
  </tr>
  <tr>

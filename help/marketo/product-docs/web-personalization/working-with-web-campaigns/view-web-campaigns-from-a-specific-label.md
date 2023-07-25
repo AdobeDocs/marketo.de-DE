@@ -3,7 +3,8 @@ unique-page-id: 4720075
 description: Anzeigen von Webkampagnen über einen bestimmten Titel - Marketo Docs - Produktdokumentation
 title: Anzeigen von Webkampagnen über eine bestimmte Bezeichnung
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -33,4 +34,3 @@ Möchten Sie Ihre Kampagnen nach einem bestimmten Titel filtern?
 >* [Webkampagnen beschriften](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [Anzeigen von Segmenten aus einer bestimmten Bezeichnung](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Segmente beschriften](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
-

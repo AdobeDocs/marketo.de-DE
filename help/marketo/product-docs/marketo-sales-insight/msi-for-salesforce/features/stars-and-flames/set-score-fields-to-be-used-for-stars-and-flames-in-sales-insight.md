@@ -3,7 +3,8 @@ unique-page-id: 2360301
 description: Festlegen von Bewertungsfeldern für Sterne und Flammen in Sales Insight - Marketo Docs - Produktdokumentation
 title: Festlegen von Bewertungsfeldern für Sterne und Flammen in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -29,7 +30,6 @@ Standardmäßig verwendet Marketo Sales Insight die **Lead-Punktzahl** Feld zur 
 >* **Sterne**: Sterne stellen den Gesamt-Lead-Wert im Vergleich zu anderen Leads dar.
 >* **Flammen**: Flammen stellen die Dringlichkeit dar - wie sehr sich das Ergebnis eines Leads in letzter Zeit geändert hat.
 >
-
 
 1. under **Admin** klicken **Sales Insight**.
 

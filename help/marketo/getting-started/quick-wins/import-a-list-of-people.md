@@ -3,7 +3,8 @@ unique-page-id: 2359418
 description: Importieren einer Personenliste - Marketo Docs - Produktdokumentation
 title: Eine Personenliste importieren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 5%
@@ -101,7 +102,6 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
    > * Neue Personenerstellung überspringen
    > * Personen-Feldaktualisierungen überspringen
    > * Aktivitätsprotokollierung überspringen
-
 
 1. Zuordnen [!UICONTROL Listenspalte] Felder zum entsprechenden Marketo-Feld hinzu und klicken Sie auf **[!UICONTROL Nächste]**.
 

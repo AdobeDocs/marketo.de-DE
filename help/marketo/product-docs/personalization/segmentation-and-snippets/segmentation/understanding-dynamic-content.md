@@ -3,7 +3,8 @@ unique-page-id: 2953417
 description: Grundlegendes zu dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu dynamischen Inhalten
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Dynamic Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -47,11 +48,9 @@ Nachdem Sie verschiedene Segmente erstellt haben, können Sie Ihrer Landingpage 
 >* Sie können ein Snippet als Signatur in einer E-Mail verwenden. Dynamische Änderung des Texts in Abhängigkeit vom Standort des Empfängers
 >* Verwenden Sie auf Landingpages einen standardmäßigen Aktionsaufruf-Bereich mit unterschiedlichen Links für Kunden und Interessenten. Hunderte von LPs zentral aktualisieren.
 
-
 Probieren Sie es aus und erzählen Sie uns Ihre Erfolgsgeschichte!
 
 >[!MORELIKETHIS]
 >
 >* [Erstellen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Snippet erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-

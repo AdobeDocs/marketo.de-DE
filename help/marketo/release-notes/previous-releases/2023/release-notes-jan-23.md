@@ -1,7 +1,9 @@
 ---
 description: Januar 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Januar 2023 - Versionshinweise
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 5%
@@ -29,7 +31,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    * Ansicht &quot;Snippet List&quot;
    * Liste der Landingpage-Vorlagen
 
-   <table> 
+  <table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -117,7 +119,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Picklist in Info Capture Card für dynamischen Chat definieren**: Um Datensauberkeit zu gewährleisten, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
+* **Picklist in Info Capture Card für Dynamic Chat definieren**: Um Datensauberkeit zu gewährleisten, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
 
 <table> 
   <tr> 
@@ -131,7 +133,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Personalisierung bei der Konferenzbestätigung für dynamischen Chat**: Kundendienstmitarbeiter können per E-Mail Bestätigungen für die Buchung von Meetings personalisieren, indem sie Marketo Engage- und Firmenfelder verwenden, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher nach Vorname in der E-Mail zur automatischen Sitzungsbuchung begrüßen).
+* **Personalisierung in Konferenzbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können per E-Mail Bestätigungen für die Buchung von Meetings personalisieren, indem sie Marketo Engage- und Firmenfelder verwenden, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher nach Vorname in der E-Mail zur automatischen Sitzungsbuchung begrüßen).
 
 <table> 
   <tr> 
@@ -159,7 +161,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Chatbot-Datums-/Uhrzeitauswahl für dynamischen Chat**: Webbesucher können mit der Kalenderauswahl ein Datum und eine Uhrzeit auswählen, anstatt das Datum manuell einzugeben.
+* **Chatbot-Datums-/Uhrzeitauswahl für Dynamic Chat**: Webbesucher können mit der Kalenderauswahl ein Datum und eine Uhrzeit auswählen, anstatt das Datum manuell einzugeben.
 
 <table> 
   <tr> 
@@ -173,7 +175,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **E-Mail-Benachrichtigungen für geplante Meetings für dynamischen Chat**: Wenn ein Meeting im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Interaktion des Besuchers mit dynamischem Chat.
+* **E-Mail-Benachrichtigungen für geplante Meetings für Dynamic Chat**: Wenn eine Besprechung im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Interaktion des Dynamic Chats des Besuchers.
 
 <table> 
   <tr> 

@@ -2,23 +2,23 @@
 description: Dynamic Chat-Integration - Marketo-Dokumente - Produktdokumentation
 title: Dynamic Chat-Integration
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '388'
 ht-degree: 5%
 
 ---
 
 # Dynamic Chat-Integration {#dynamic-chat-integration}
 
-Erfahren Sie mehr über die Integration von Dynamic Chat mit Sales Insight.
+Erfahren Sie mehr über die Dynamic Chat-Integration mit Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Ihr Sales Insight SFDC-Paket muss version sein [1.9 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;}
+>* Ihr Sales Insight SFDC-Paket muss version sein [1.9 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* Sie müssen über die [Dynamic Chat-Integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} einrichten
-
+>* Sie müssen über die [Dynamic Chat-Integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} einrichten
 
 ## Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot; {#marketo-sales-insight-configuration-tab}
 
@@ -30,13 +30,13 @@ Gehen Sie wie folgt vor, um die Dynamic Chat-Integration zu aktivieren.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Wählen Sie die **Dynamische Chat-Daten aktivieren** aktivieren.
+1. Wählen Sie die **Dynamic Chat-Daten aktivieren** aktivieren.
 
    ![](assets/dynamic-chat-integration-2.png)
 
 ## Funktionsübersicht {#feature-overview}
 
-Die folgenden dynamischen Chat-Aktivitäten können von Sales Insight-Benutzern genutzt werden.
+Die folgenden Dynamic Chat-Aktivitäten können von Sales Insight-Benutzern genutzt werden.
 
 Interagiertes Dialogfeld: Angemeldet in Marketo und in Sales Insight ausgefüllt, wenn ein Besucher auf einen Chat klickt und mit dem Dialogfeld interagiert.
 
@@ -47,7 +47,7 @@ Interagiertes Dialogfeld: Angemeldet in Marketo und in Sales Insight ausgefüllt
 Geplante Ernennung: Angemeldet in Marketo und in Sales Insight ausgefüllt, wenn ein Besucher einen Termin erfolgreich über den Chat-Bot plant.
 
 * Dialogname
-* Agent
+* Agentin oder Agent
 * Seiten-URL
 * Geplant am (Datum und Zeitstempel einfügen)
 * Status (Geplant, Neu geplant, Abgebrochen)
@@ -94,7 +94,7 @@ Erfahren Sie mehr über einen Aktivitätstyp, indem Sie darauf klicken.
 
 >[!NOTE]
 >
->Wenn das Kontrollkästchen &quot;Dynamische Chat-Daten aktivieren&quot;deaktiviert ist, werden die folgenden Funktionen deaktiviert:
+>Wenn das Kontrollkästchen &quot;Dynamic Chat-Daten aktivieren&quot;deaktiviert ist, werden die folgenden Funktionen deaktiviert:
 >
 >* Zeile mit Chat-Aktivitäten im Insights-Dashboard (Smart-Raster- und Wochenlistenansicht)
 >* Registerkarte &quot;Chat&quot;in den Bedienfeldern &quot;Lead&quot;, &quot;Kontakt&quot;, &quot;Konto&quot;und &quot;Chancen&quot;

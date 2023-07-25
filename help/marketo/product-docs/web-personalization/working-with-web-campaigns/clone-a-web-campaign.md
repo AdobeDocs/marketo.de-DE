@@ -3,7 +3,8 @@ unique-page-id: 10093157
 description: Eine Webkampagne klonen - Marketo-Dokumente - Produktdokumentation
 title: Eine Webkampagne klonen
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -41,4 +42,3 @@ Verwenden Sie die Klonfunktion auf der Seite Web-Kampagnen , um die Kampagnenein
 >* [Erstellen einer Dialogkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

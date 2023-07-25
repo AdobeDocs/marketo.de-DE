@@ -2,7 +2,8 @@
 description: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit Resource Owner Password Control Connection - Marketo Docs - Produktdokumentation'
 title: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit Resource Owner Password Control Connection'
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +18,6 @@ Bevor Sie Microsoft Dynamics 365 und Marketo synchronisieren können, müssen Si
 >
 >* Aktivieren Sie nicht die Synchronisierung benutzerdefinierter Entitäten, bevor die erste Synchronisierung abgeschlossen ist. Sie werden per E-Mail benachrichtigt, sobald die erste Synchronisation abgeschlossen ist.
 >* Wenn Sie die Multi-Factor-Authentifizierung (MFA) für Ihre Dynamics Sync aktiviert haben, müssen Sie sie deaktivieren, damit Dynamics ordnungsgemäß mit Marketo synchronisiert werden kann. Für weitere Informationen wenden Sie sich bitte an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
-
 
 >[!NOTE]
 >

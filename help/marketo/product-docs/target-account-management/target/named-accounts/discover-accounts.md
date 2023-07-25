@@ -3,10 +3,11 @@ unique-page-id: 11378812
 description: Discover Accounts - Marketo Docs - Produktdokumentation
 title: Discover-Konten
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -75,7 +76,6 @@ Identifizieren Sie die richtigen Unternehmen für die Zielgruppenbestimmung.
    >* Filtert die meisten Internet Service Provider und Public Domains (z. B. yahoo.com, gmail.com) als Unternehmensnamen heraus
    >
    >* Dedupliziert CRM-Konten. Wenn Sie &quot;Acme&quot;in einem Datensatz und &quot;Acme Inc&quot; (oder eines der folgenden Suffixe) haben: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), werden wir sie in TAM als &quot;Acme&quot;zusammenführen.
-
    >
    >Wenn Sie möchten, dass Marketo Konten nach CRM-ID oder Kontoinhaber anstatt nach Unternehmensname dedupliziert, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
@@ -103,7 +103,7 @@ Identifizieren Sie die richtigen Unternehmen für die Zielgruppenbestimmung.
 
    ![](assets/disc-comp-seven.png)
 
-   Gute Arbeit!
+   Gut gemacht!
 
    ![](assets/disc-co-six.png)
 
@@ -113,7 +113,6 @@ Identifizieren Sie die richtigen Unternehmen für die Zielgruppenbestimmung.
 >
 >* Verschiedene CRM-Konten mit ähnlichen Namen, die dedupliziert wurden
 >* Die nächste geplante Synchronisation ist noch nicht erfolgt.
-
 
 >[!MORELIKETHIS]
 >

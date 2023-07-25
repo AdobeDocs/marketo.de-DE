@@ -3,7 +3,8 @@ unique-page-id: 5472283
 description: Mobile Ansicht für Ihre Freiform-Landingpage anpassen - Marketo Dokumente - Produktdokumentation
 title: Mobile Ansicht für Ihre Freiform-Landingpage anpassen
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -50,7 +51,7 @@ Standardmäßig werden alle Elemente in der Desktop-Ansicht in der Mobile-Ansich
 * Verwenden Sie nur Forms 2.0 Forms. Sie sind responsiv und werden automatisch angepasst.
 * Nur ein Vorlagenelement kann bearbeitet werden, BODY#BODY (Mobile). Damit können Sie die Hintergrundfarbe ändern.
 
-   ![](assets/image2015-5-21-15-3a15-3a47.png)
+  ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Ausblenden eines Elements in der Mobile-Ansicht {#hide-an-element-from-the-mobile-view}
 

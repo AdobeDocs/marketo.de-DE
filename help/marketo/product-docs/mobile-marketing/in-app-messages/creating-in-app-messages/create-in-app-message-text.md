@@ -3,7 +3,8 @@ unique-page-id: 10100642
 description: In-App-Nachrichtentext erstellen - Marketo-Dokumente - Produktdokumentation
 title: In-App-Nachrichtentext erstellen
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -82,4 +83,3 @@ Du bist Golden. Als Nächstes müssen Sie [Schaltfläche für In-App-Nachrichten
 >
 >* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2359785
 description: E-Mail zur Angebotsbearbeitung senden - Marketo-Dokumente - Produktdokumentation
 title: E-Mail zur Angebotsbearbeitung senden
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Rabattcodes über die E-Mail zur An
 >
 >* [Verwenden von E-Mails in Social Promotions](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-
 
 ## Einrichten der Fulfillment-Bereitstellung {#set-up-fulfillment-delivery}
 

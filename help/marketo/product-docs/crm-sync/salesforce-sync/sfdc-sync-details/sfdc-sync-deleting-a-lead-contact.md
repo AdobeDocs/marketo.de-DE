@@ -3,7 +3,8 @@ unique-page-id: 7515131
 description: SFDC Sync - Löschen eines Leads/Kontakts - Marketo Docs - Produktdokumentation
 title: SFDC Sync - Löschen eines Leads/Kontakts
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%

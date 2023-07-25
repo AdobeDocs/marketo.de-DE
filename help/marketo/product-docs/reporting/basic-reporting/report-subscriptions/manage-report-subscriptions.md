@@ -3,7 +3,8 @@ unique-page-id: 2359991
 description: Berichtabos verwalten - Marketo-Dokumente - Produktdokumentation
 title: Berichtanmeldungen verwalten
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -41,7 +42,6 @@ Berichtanmeldungen konfigurieren und löschen.
    >* Verwenden Sie Kommas zwischen E-Mail-Adressen.
    >* Um Ihre Änderungen zu speichern, klicken Sie in einen Bereich _outside_ die Abonnementliste.
 
-
    Außerdem können Sie:
 
    * Klicken Sie auf **Ansicht** zum Öffnen eines Berichts.
@@ -62,4 +62,3 @@ Berichtanmeldungen konfigurieren und löschen.
    >
    >* [Abonnieren eines einfachen Berichts](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
    >* [Abonnieren eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

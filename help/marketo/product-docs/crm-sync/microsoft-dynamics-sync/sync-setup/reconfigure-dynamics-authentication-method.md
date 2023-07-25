@@ -2,7 +2,8 @@
 description: Dynamics-Authentifizierungsmethode neu konfigurieren - Marketo Docs - Produktdokumentation
 title: Authentifizierungsmethode für Dynamics neu konfigurieren
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Gehen Sie wie folgt vor, um Ihre Dynamics-Authentifizierungsmethode zu aktualisi
 >
 >* [Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Schritt 2 von 4: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. Klicken Sie in Marketo auf **Admin**.
 
@@ -49,7 +49,6 @@ Gehen Sie wie folgt vor, um Ihre Dynamics-Authentifizierungsmethode zu aktualisi
    >
    >* Die spezifischen Felder variieren je nach gewählter Authentifizierungsmethode und das Formular wird automatisch je nach vorheriger Authentifizierungsmethode aktualisiert.
    >* Wenn Sie bereits synchronisiert haben, werden die Daten im obigen Formular möglicherweise vorab ausgefüllt. Bitte geben Sie alle Anmeldedaten erneut ein, um die korrekten Werte sicherzustellen.
-
 
 1. Wenn alles in Ordnung ist, werden bei der Überprüfung der Synchronisierung alle grünen Häkchen generiert ![](assets/green-check.png). Überprüfen Sie die Nachricht und klicken Sie auf **Switch** , um die Authentifizierungsmethode zu aktualisieren.
 

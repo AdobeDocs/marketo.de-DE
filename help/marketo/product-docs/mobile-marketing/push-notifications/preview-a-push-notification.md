@@ -3,7 +3,8 @@ unique-page-id: 10092730
 description: Vorschau einer Push-Benachrichtigung - Marketo-Dokumente - Produktdokumentation
 title: Vorschau einer Push-Benachrichtigung
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -68,4 +69,3 @@ Mit der Push-Benachrichtigungs-Vorschau wissen Sie immer, was Ihre Kunden sehen 
 >
 >* [Push-Benachrichtigung erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 >* [Mobile Push-Benachrichtigung konfigurieren](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-

@@ -2,7 +2,8 @@
 description: 'Schritt 3 von 4: Einrichten der Client App auf MS Dynamics - Marketo Docs - Produktdokumentation'
 title: 'Schritt 3 von 4: Einrichten der Client App auf MS Dynamics'
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
-source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -15,7 +16,6 @@ ht-degree: 0%
 >
 >* [Schritt 1 von 4: Installieren Sie die Marketo-Lösung mit Resource Owner Password Control Connection.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 >* [Schritt 2 von 4: Einrichten der Marketo-Lösung mit Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. Navigieren Sie zu https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
@@ -58,4 +58,3 @@ Zusätzliche Verweise [finden Sie hier .](https://docs.microsoft.com/en-us/azure
 >[!MORELIKETHIS]
 >
 >* [Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-

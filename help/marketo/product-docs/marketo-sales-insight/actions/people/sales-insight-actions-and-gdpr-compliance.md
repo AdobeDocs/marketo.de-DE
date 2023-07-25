@@ -2,7 +2,8 @@
 description: Sales Insight-Aktionen und Einhaltung der DSGVO - Marketo-Dokumente - Produktdokumentation
 title: Sales Insight-Aktionen und Einhaltung der DSGVO
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 3%
@@ -147,7 +148,7 @@ Sie können Kontaktinformationen aus der Personendetailansicht exportieren. Beim
   <tr> 
    <td>Titel</td> 
    <td>Erstellt am</td> 
-   <td>Exportiert nach</td> 
+   <td>Exportzeitpunkt</td> 
   </tr> 
   <tr> 
    <td>E-Mail-ID</td> 

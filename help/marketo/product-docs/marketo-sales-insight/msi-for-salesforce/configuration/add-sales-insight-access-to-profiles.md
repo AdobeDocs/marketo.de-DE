@@ -2,20 +2,21 @@
 description: Hinzufügen von Sales Insight-Zugriff zu Profilen - Marketo Docs - Produktdokumentation
 title: Hinzufügen von Sales Insight-Zugriff zu Profilen
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
 # Hinzufügen von Sales Insight-Zugriff zu Profilen {#add-sales-insight-access-to-profiles}
 
-Hier erfahren Sie, wie Sie ein Profil mit Zugriff auf Sales Insight erstellen und gleichzeitig den Zugriff für Ihre anderen Profile entfernen. Dies ist für Benutzer vorgesehen, die bereits die Variable [Sales Insight-AppExchange-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}.
+Hier erfahren Sie, wie Sie ein Profil mit Zugriff auf Sales Insight erstellen und gleichzeitig den Zugriff für Ihre anderen Profile entfernen. Dies ist für Benutzer vorgesehen, die bereits die Variable [Sales Insight-AppExchange-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Wenn Sie zuvor allen Profilen Sales Insight Zugriff gewährt haben, müssen Sie [Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} verwenden, um diesen Berechtigungssatz zu verwenden.
+>Wenn Sie zuvor allen Profilen Sales Insight Zugriff gewährt haben, müssen Sie [Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} , um diesen Berechtigungssatz zu verwenden.
 
 ## Erstellen eines neuen Profils für Sales Insight {#create-a-new-profile-for-sales-insight}
 
@@ -48,7 +49,6 @@ Wenn Sie über ein dediziertes Profil für Ihre Sales Insight-Benutzer verfügen
 
    * Ändern Sie in den Registerkarteneinstellungen die Registerkarten Marketo in Ausgeblendete Registerkarte .
    * Deaktivieren Sie in den Berechtigungen für benutzerdefinierte Objekte die Option Lesen, Erstellen, Bearbeiten und Löschen in der Marketo Sales Insight-Konfiguration.
-
 
 1. Klicken **Speichern** wann geschehen.
 

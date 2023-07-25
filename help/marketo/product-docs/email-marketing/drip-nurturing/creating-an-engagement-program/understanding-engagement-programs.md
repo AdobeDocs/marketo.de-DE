@@ -3,7 +3,8 @@ unique-page-id: 2359647
 description: Grundlegendes zu Interaktionsprogrammen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Interaktionsmaßnahmen
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 9%
@@ -39,7 +40,6 @@ A **stream** ist ein Pool von priorisierten Inhalten, die das Interaktionsprogra
 >* [Hinzufügen eines Streams](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
 >* [Klonen eines Streams](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-
 ## Inhalt {#content}
 
 Es gibt zwei Arten von **content** Sie können zu den Interaktionsprogrammströmen - E-Mails und Programmen - hinzufügen. E-Mails werden an Personen gesendet, die während der Besetzung anwesend sind.
@@ -53,7 +53,6 @@ Es gibt zwei Arten von **content** Sie können zu den Interaktionsprogrammström
 >* [Verfügbarkeit von Stream-Inhalten bearbeiten](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [Stream-Inhalt entfernen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Archivieren und Archivieren von Stream-Inhalten aufheben](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
-
 
 ## Cast {#cast}
 

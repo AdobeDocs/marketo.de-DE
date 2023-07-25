@@ -2,9 +2,10 @@
 description: Berechtigungssatz für Sales Insight hinzufügen - Marketo Docs - Produktdokumentation
 title: Berechtigungssatz "Sales Insight"hinzufügen
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 3%
 
 ---
@@ -15,11 +16,11 @@ Führen Sie die folgenden Schritte aus, um Zugriff auf Sales Insight-Funktionen 
 
 >[!PREREQUISITES]
 >
->[Sales Insight Salesforce-Paket aktualisieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;} auf Version 1.8000 oder höher, um diese Funktion zu verwenden.
+>[Sales Insight Salesforce-Paket aktualisieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} auf Version 1.8000 oder höher, um diese Funktion zu verwenden.
 
 >[!IMPORTANT]
 >
->Wenn Sie bereits Sales Insight Zugriff auf alle Profile gewährt und/oder Sales Insight für alle Ihre Benutzer implementiert haben, müssen Sie [Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} verwenden, um diesen Berechtigungssatz zu verwenden.
+>Wenn Sie bereits Sales Insight Zugriff auf alle Profile gewährt und/oder Sales Insight für alle Ihre Benutzer implementiert haben, müssen Sie [Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} , um diesen Berechtigungssatz zu verwenden.
 
 ## Überblick {#overview}
 

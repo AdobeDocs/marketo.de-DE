@@ -2,7 +2,8 @@
 description: Übersicht über das Command Center - Marketo Docs - Produktdokumentation
 title: Übersicht über das Command Center
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -52,7 +53,7 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
  </tr>
  <tr>
   <th rowspan="3">Nicht übermittelt</th>
-  <td>fehlgeschlagen</td>
+  <td>Fehlgeschlagen</td>
   <td>E-Mails, die nicht zugestellt werden konnten.
 </td>
  </tr>
@@ -87,4 +88,3 @@ Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert sie als dynamische
 >* Aufgaben
 >* Erweiterte Suchübersicht
 >* Erstellen von Massen-E-Mails mit Auswählen und Senden
-

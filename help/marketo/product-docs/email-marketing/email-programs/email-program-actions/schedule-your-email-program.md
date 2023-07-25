@@ -3,7 +3,8 @@ unique-page-id: 2359455
 description: Planen Ihres E-Mail-Programms - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Programm planen
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Definieren einer Zielgruppe mit einer Smart-Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Zielgruppe durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [Vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
 
 Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail ausgewählt haben, möchten Sie Ihrem Programm mitteilen *when* , um die E-Mail zu senden. So geht es.
 
@@ -48,4 +48,3 @@ Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail aus
 >
 >* [E-Mail-Programme mit der Zeitzone der Empfänger planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Abteilungsstart für E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
-

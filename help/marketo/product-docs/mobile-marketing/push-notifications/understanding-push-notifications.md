@@ -3,7 +3,8 @@ unique-page-id: 7511518
 description: Grundlegendes zu Push-Benachrichtigungen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Push-Benachrichtigungen
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -40,4 +41,3 @@ Der Entwickler von Marketo Admin und mobilen Apps arbeitet zusammen, um Sie einz
 >
 >* Eine Push-Benachrichtigung wird erst dann auf dem Bildschirm angezeigt, wenn die App mindestens einmal geöffnet wurde.
 >* Bei iOS-Apps wird keine Push-Benachrichtigung auf dem Bildschirm angezeigt, wenn die Anwendung, die die Push-Nachricht erhält, geöffnet und aktiv ist. Stattdessen wird die Nachricht im lokalen Benachrichtigungsbereich der App angezeigt.
-

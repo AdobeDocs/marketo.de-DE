@@ -3,7 +3,8 @@ unique-page-id: 9437991
 description: Trigger und Filter für mobile Smart-Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Trigger und Filter für mobile Smart-Kampagnen
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '823'
 ht-degree: 1%
@@ -131,10 +132,9 @@ Mit den Aktionsbegrenzungen können Sie den Trigger und Filter sehr genau verwen
 >Unter dem Aktionstyp von *Shopping*, hier eine sehr spezifische Aktion, mit den anderen Beschränkungen, die sie definieren:
 >
 >* Ein Hemd gekauft
-   >   * Es war rot
-   >   * Es hat 30 Dollar gekostet
-   >   * Der Kauf dauerte 20 Sekunden
-
+>   * Es war rot
+>   * Es hat 30 Dollar gekostet
+>   * Der Kauf dauerte 20 Sekunden
 
 So sieht der Filter in Marketo aus:
 
@@ -151,7 +151,6 @@ So sieht der Filter in Marketo aus:
 >| Aktion | Gepäck-Shirt | Gepackte Hosen |
 >| Aktionsdetails | Farbe | Farbe |
 >| Aktionsmetrik | Preis | Preis |
-
 
 **Mobile App-Sitzung enthält/hatte**
 
@@ -195,4 +194,3 @@ Tippen/Tippen-Push-Benachrichtigung
 >
 >* [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Verwenden von Inaktivitätsfiltern in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-

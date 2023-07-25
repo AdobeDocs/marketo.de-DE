@@ -3,7 +3,8 @@ unique-page-id: 11383945
 description: Grundlegendes zu Facebook-Offline-Konversionen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Offline-Konversionen in Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%

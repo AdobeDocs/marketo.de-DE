@@ -3,7 +3,8 @@ unique-page-id: 14745730
 description: Salesforce Diagnostics - Marketo Docs - Produktdokumentation
 title: Salesforce-Diagnose
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 1%
@@ -190,7 +191,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** TXN_SECURITY_NO_ACCESS\
 **Kategorie:** Zugriff/Validierung\
-**Nachricht:** Der von Ihnen angeforderte Vorgang ist aufgrund einer Sicherheitsrichtlinie in Ihrem Unternehmen nicht zulässig. Wenden Sie sich an Ihren Administrator.<br/>
+**Nachricht:** Der von Ihnen angeforderte Vorgang ist aufgrund einer Sicherheitsrichtlinie in Ihrem Unternehmen nicht zulässig. Kontaktieren Sie diesbezüglich Ihre oder Ihren Admin.<br/>
 **Was geschieht:** Es wurde eine Art Sicherheitsbeschränkung eingerichtet - siehe https://developer.salesforce.com/forums/?id=&quot;Datensatz-ID&quot;\
 **Schritte zur Fehlerbehebung:** Sprechen Sie mit Ihrem Salesforce-Administrator und sehen Sie, welche spezifische Einschränkung auftreten kann.
 

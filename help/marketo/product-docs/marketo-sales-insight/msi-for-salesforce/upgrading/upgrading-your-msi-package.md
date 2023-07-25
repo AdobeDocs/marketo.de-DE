@@ -3,16 +3,17 @@ unique-page-id: 37357050
 description: Aktualisieren Ihres MSI-Pakets - Marketo-Dokumente - Produktdokumentation
 title: MSI-Paket aktualisieren
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # MSI-Paket aktualisieren {#upgrading-your-msi-package}
 
-1. Navigieren Sie zu [diese Seite im Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target=&quot;_blank&quot;}.
+1. Navigieren Sie zu [diese Seite im Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
 1. Melden Sie sich oben rechts auf der Seite von Schritt 1 bei Ihrer Salesforce-Instanz an (die mit Ihrer Marketo-Instanz verbunden ist und Sandbox oder Produktion sein kann). Sie müssen über Administratorrechte verfügen, um ein verwaltetes Paket in Salesforce installieren/aktualisieren zu können.
 
@@ -28,4 +29,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Es wird empfohlen, das Paket nur für Administratoren zu aktualisieren und dann [Zugriff auf bestimmte Benutzer gewähren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;} basierend auf der Anzahl der erworbenen MSI-Sitze. Alternativ können Sie ein bestimmtes Salesforce-Profil für MSI-Benutzer erstellen und das Paket nur für diese Benutzer installieren oder aktualisieren.
+>Es wird empfohlen, das Paket nur für Administratoren zu aktualisieren und dann [Zugriff auf bestimmte Benutzer gewähren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"} basierend auf der Anzahl der erworbenen MSI-Sitze. Alternativ können Sie ein bestimmtes Salesforce-Profil für MSI-Benutzer erstellen und das Paket nur für diese Benutzer installieren oder aktualisieren.

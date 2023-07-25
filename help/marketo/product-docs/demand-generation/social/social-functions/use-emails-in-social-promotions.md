@@ -3,7 +3,8 @@ unique-page-id: 2359793
 description: Verwenden von E-Mails in Social Promotions - Marketo Docs - Produktdokumentation
 title: Verwenden von E-Mails in Social Promotions
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -67,7 +68,6 @@ Verwenden Sie in den E-Mails die folgenden Token:
 >* **auto on Ziel**: Die Erfüllungs-E-Mail wird automatisch gesendet, wenn jeder Teilnehmer das Ziel erreicht.
 >* **manuell senden**: Sobald Benutzer beginnen, das Ziel zu erreichen, kehren Sie zu Ihrem Verweisangebot zurück, um es manuell durchzuführen. [Versand der Erfüllungs-E-Mail](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
-
 
 >[!MORELIKETHIS]
 >

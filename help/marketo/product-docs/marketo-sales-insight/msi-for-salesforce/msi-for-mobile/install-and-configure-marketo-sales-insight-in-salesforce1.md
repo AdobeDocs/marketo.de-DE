@@ -3,7 +3,8 @@ unique-page-id: 7511512
 description: Installieren und Konfigurieren von Marketo Sales Insight in Salesforce1 - Marketo Docs - Produktdokumentation
 title: Installieren und Konfigurieren von Marketo Sales Insight in Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -29,7 +30,6 @@ ht-degree: 0%
 >
 >* [Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
-
 
 >[!NOTE]
 >
@@ -166,4 +166,3 @@ Phew! Sie haben die Installation von Marketo Sales Insight für Salesforce1 abge
 >* [Beste Betten in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 >* [Interessante Momente in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Senden von Marketo-E-Mail- und -Campaign- und Watchlist-Aktionen in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
-

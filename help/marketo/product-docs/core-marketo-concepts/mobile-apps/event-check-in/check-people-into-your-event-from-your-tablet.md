@@ -3,7 +3,8 @@ unique-page-id: 2949839
 description: Überprüfen Sie Personen in Ihr Ereignis auf Ihrem Tablet - Marketo-Dokumente - Produktdokumentation
 title: Personen in Ihr Ereignis einchecken über Ihr Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Das Programm funktioniert sowohl auf iPad als auch auf Android gleich, mit Ausna
 >
 >* Erstellen Sie ein Ereignis in Marketo und fügen Sie es mit eingeladenen und registrierten Personen ein.
 >* Herunterladen der Tablet-App für [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) oder [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
-
 
 ## Einchecken registrierter Gäste {#check-in-registered-guests}
 

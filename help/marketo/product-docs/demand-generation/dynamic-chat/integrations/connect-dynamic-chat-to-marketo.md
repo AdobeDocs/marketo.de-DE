@@ -1,21 +1,22 @@
 ---
-description: Dynamischen Chat mit Marketo verbinden - Marketo-Dokumente - Produktdokumentation
+description: Dynamic Chat mit Marketo verbinden - Marketo-Dokumente - Produktdokumentation
 title: Dynamischen Chat mit Marketo verbinden
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # Dynamischen Chat mit Marketo verbinden {#connect-dynamic-chat-to-marketo}
 
-## Dynamischen Chat verbinden {#connecting-dynamic-chat}
+## Connecting Dynamic Chat {#connecting-dynamic-chat}
 
-Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}, ist es an der Zeit, die einmalige Synchronisierung durchzuführen, um den dynamischen Chat mit Ihrem Marketo-Abonnement zu verbinden.
+Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, ist es an der Zeit, die einmalige Synchronisation des Verbindungs-Dynamic Chats zu Ihrem Marketo-Abonnement durchzuführen.
 
-1. Klicken Sie in My Marketo auf die **Dynamischer Chat** Kachel.
+1. Klicken Sie in My Marketo auf die **Dynamic Chat** Kachel.
 
    ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
@@ -23,7 +24,7 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
    >
    >Wenn die Kachel nicht angezeigt wird, wenden Sie sich an Ihren Marketo-Administrator.
 
-1. Wenn Sie zuvor auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zum dynamischen Chat. Wenn nicht, [Adobe ID einrichten](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
+1. Wenn Sie zuvor auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zu Dynamic Chat. Wenn nicht, [Adobe ID einrichten](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Um Ihre Marketo-Instanz zu verbinden, wählen Sie **Integrationen**.
 
@@ -33,7 +34,7 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Wählen Sie bis zu 50 Attribute (Standard- oder benutzerdefinierte Felder) aus Ihrer Marketo-Instanz aus, um sie mit dem dynamischen Chat zu synchronisieren und sie für das Zielgruppen-Targeting, die Datenzuordnung und die Personalisierung zu verwenden. Klicken **Nächste** wann geschehen.
+1. Wählen Sie bis zu 50 Attribute (Standard- oder benutzerdefinierte Felder) aus Ihrer Marketo-Instanz aus, um eine Synchronisierung mit Dynamic Chat durchzuführen, um sie beim Zielgruppen-Targeting, bei der Datenzuordnung und bei der Personalisierung zu verwenden. Klicken **Nächste** wann geschehen.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -79,4 +80,4 @@ Nach der ersten Synchronisierung finden Sie hier, wie Sie ein Attribut entfernen
 
 >[!MORELIKETHIS]
 >
->[Ersteinrichtung](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}
+>[Ersteinrichtung](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}

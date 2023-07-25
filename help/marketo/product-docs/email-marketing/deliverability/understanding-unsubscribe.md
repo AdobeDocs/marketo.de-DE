@@ -3,7 +3,8 @@ unique-page-id: 7514918
 description: Grundlegendes zur Abmeldung - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zur Abmeldung
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 2%
@@ -24,7 +25,7 @@ Alle diese Felder sind in Ihrem Marketo-Abonnement integriert. Sie sind alle boo
 
 Dies wird auf der Standard-Abmeldeseite verwendet. Wenn eine Person dieses Kontrollkästchen aktiviert oder in einer E-Mail auf den Abmelde-Link klickt, erhält sie keine Marketing-E-Mails mehr. Sie werden jedoch [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-## Marketing eingestellt {#marketing-suspended}
+## Marketing ausgesetzt {#marketing-suspended}
 
 Dieses Feld wird vom Benutzer festgelegt, um Personen bei einer temporären Abmeldung zu melden. Personen können diesen Status nur erreichen, wenn sie manuell geändert oder ein Schritt zum Ändern des Datenwertflusses verwendet wird.
 

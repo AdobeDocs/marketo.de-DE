@@ -3,7 +3,8 @@ unique-page-id: 11382858
 description: Grundlagen zu Ad Network Integrations - Marketo Docs - Produktdokumentation
 title: Grundlagen zu Werbenetzwerk-Integrationen
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 9%
@@ -49,7 +50,7 @@ Integrationen können für folgende Zwecke verwendet werden:
 * [Einrichten von Facebook-Offline-Konversionen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 * [Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-|  | Zielgruppendaten | Lead-Aufnahme | Offline-Konversion |
+|   | Zielgruppendaten | Lead-Aufnahme | Offline-Konversion |
 |---|---|---|---|
 | ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
 | ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |

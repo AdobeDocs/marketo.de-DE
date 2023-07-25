@@ -2,10 +2,11 @@
 description: E-Mail-Spalten und E-Mail-Seitenlayout - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Spalten und E-Mail-Seitenlayout
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '513'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -54,7 +55,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-B
    <td>Zeigt die Gruppen an, zu denen der E-Mail-Empfänger gehört.</td> 
   </tr> 
   <tr> 
-   <td><strong>Jobtitel</td> 
+   <td><strong>Job-Titel</td> 
    <td>Titel des E-Mail-Empfängers.</td> 
   </tr> 
   <tr> 
@@ -90,7 +91,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-B
    <td>Schnellaktionsschaltflächen, die für die Nachverfolgung per E-Mail, Telefon, InMail oder Aufgabe verwendet werden können.</td> 
   </tr> 
   <tr> 
-   <td><strong>Gruppenemail</td> 
+   <td><strong>Gruppen-E-Mail</td> 
    <td>Zeigt ein Häkchen an, wenn die E-Mail als Teil einer Gruppen-E-Mail gesendet wurde.</td> 
   </tr> 
   <tr> 

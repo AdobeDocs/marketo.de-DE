@@ -3,7 +3,8 @@ unique-page-id: 2949413
 description: Eine Beschränkung zu einem Smart-List-Filter hinzufügen - Marketo Docs - Produktdokumentation
 title: Eine Beschränkung zu einem Smart-Listenfilter hinzufügen
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -21,7 +22,6 @@ In diesem Beispiel fügen wir einer **[Datenwert geändert](/help/marketo/produc
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Verwenden des Filters &quot;Datenwert geändert&quot;in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 >
-
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 

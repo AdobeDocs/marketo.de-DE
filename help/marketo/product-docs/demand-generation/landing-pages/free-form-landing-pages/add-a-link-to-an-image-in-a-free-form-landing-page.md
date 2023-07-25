@@ -3,7 +3,8 @@ unique-page-id: 5472314
 description: Hinzufügen eines Links zu einem Bild auf einer Freiform-Landingpage - Marketo Docs - Produktdokumentation
 title: Hinzufügen eines Links zu einem Bild auf einer Freiform-Landingpage
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site
 
    ![](assets/add-link.png)
 
-   Herzlichen Glückwunsch!  Sie haben nun erfolgreich einen Link zu einem Bild auf Ihrer Landingpage hinzugefügt. Sie können jetzt [Seitenvorschau](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) um es in Aktion zu sehen.
+   Herzlichen Glückwunsch! Sie haben nun erfolgreich einen Link zu einem Bild auf Ihrer Landingpage hinzugefügt. Sie können jetzt [Seitenvorschau](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) um es in Aktion zu sehen.
 
 >[!TIP]
 >

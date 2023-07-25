@@ -2,7 +2,8 @@
 description: Lokaler Asset-Ablauf - Marketo-Dokumente - Produktdokumentation
 title: Lokaler Asset-Ablauf
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -56,7 +57,6 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 >* Um ein vorhandenes Ablaufdatum zu bearbeiten, überprüfen Sie einfach die Assets und klicken Sie auf **[!UICONTROL Ablauf festlegen]**.
 >* Sobald ein Asset abgelaufen ist, wird es nicht mehr im Ablaufraster angezeigt. Das Raster zeigt nur veröffentlichte Landingpages, aktive Trigger-Kampagnen und wiederkehrende Batch-Kampagnen an.
 >* Geplante Abläufe werden entfernt, wenn das Asset in ein anderes Programm verschoben wird.
-
 
 ## Ablaufdatum entfernen {#remove-an-expiration-date}
 

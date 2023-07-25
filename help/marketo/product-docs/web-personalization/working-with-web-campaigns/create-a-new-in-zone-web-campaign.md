@@ -3,7 +3,8 @@ unique-page-id: 4719400
 description: Erstellen einer neuen Web-Kampagne in Zone - Marketo Docs - Produktdokumentation
 title: Erstellen einer neuen Web-Kampagne in Zone
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 1%
@@ -117,4 +118,3 @@ Siehe [Eine Webkampagne klonen](/help/marketo/product-docs/web-personalization/w
 >
 >* [Erstellen einer neuen Widget-Webkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 >* [Erstellen einer neuen Web-Kampagne für Dialogfelder](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-

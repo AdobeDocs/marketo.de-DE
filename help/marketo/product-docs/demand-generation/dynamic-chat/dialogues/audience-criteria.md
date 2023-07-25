@@ -2,9 +2,10 @@
 description: Zielgruppenkriterien - Marketo-Dokumente - Produktdokumentation
 title: Zielgruppenkriterien
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '540'
 ht-degree: 2%
 
 ---
@@ -15,11 +16,11 @@ ht-degree: 2%
 
 ## Priorität {#priority}
 
-Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als ein Feld qualifiziert ist. Sie wird zum ersten Mal festgelegt [Dialogfeld erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}. Sie können die Priorität eines vorhandenen Dialogfelds ändern, indem Sie es öffnen und **Dialogfelddetails** auf der Registerkarte Zielgruppenkriterien .
+Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als ein Feld qualifiziert ist. Sie wird zum ersten Mal festgelegt [Dialogfeld erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Sie können die Priorität eines vorhandenen Dialogfelds ändern, indem Sie es öffnen und **Dialogfelddetails** auf der Registerkarte Zielgruppenkriterien .
 
 ![](assets/audience-criteria-1.png)
 
-## Veranstaltungen {#events}
+## Ereignisse {#events}
 
 ![](assets/audience-criteria-2.png)
 
@@ -103,7 +104,7 @@ Sie haben auch die Möglichkeit, Attribute zu gruppieren, falls Sie alle Attribu
 
 ![](assets/audience-criteria-17.png)
 
-## Ziel {#target}
+## Zielgruppe {#target}
 
 Hier geben Sie die URL(s) ein, für die ein bestimmtes Dialogfeld angezeigt werden soll. Sie haben auch die Möglichkeit, Ausschlüsse hinzuzufügen.
 
@@ -126,7 +127,6 @@ Verwenden Sie Ausschlüsse, um sicherzustellen, dass Ihr Dialogfeld **not** auf 
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
-
+>* [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Entwerferin bzw. Entwerfer des Streams](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}

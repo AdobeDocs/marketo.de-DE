@@ -3,7 +3,8 @@ unique-page-id: 10100311
 description: Verwenden einer universellen ID für die Anmeldung von Abonnements - Marketo Docs - Produktdokumentation
 title: Verwendung einer universellen ID zur Anmeldung von Abonnements
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 1%
@@ -67,4 +68,3 @@ Benutzer mit einer universellen ID können ihre Daten zu Marketo Moments und der
 >* [Single Sign-On zu einem Portal hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
 >* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
-

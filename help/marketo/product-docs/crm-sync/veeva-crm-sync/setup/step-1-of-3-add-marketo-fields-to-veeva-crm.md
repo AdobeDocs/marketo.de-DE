@@ -2,7 +2,8 @@
 description: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM - Marketo-Dokumente - Produktdokumentation'
 title: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 7%
@@ -100,7 +101,7 @@ Dezimalstellen 0</td>
 * Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen Schreibgeschützt für das Profil &quot;Systemadministrator&quot;(wie unten dargestellt).
 * Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen Schreibgeschützt für dieses benutzerdefinierte Profil.
 
-   ![](assets/step-1-of-3-add-marketo-fields-9.png)
+  ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
 1. Wählen Sie die Seitenlayouts aus, die das Feld anzeigen sollen.
 
@@ -149,7 +150,7 @@ OPTIONAL: Verwenden Sie das obige Verfahren für alle zusätzlichen benutzerdefi
    <td>Länge 255</td>
   </tr>
   <tr>
-   <td>Abgleitete Vorwahl</td>
+   <td>Abgeleitete Vorwahl</td>
    <td>mkto71_inferred_Phone_Area_Code</td>
    <td>Text</td>
    <td>Länge 255</td>

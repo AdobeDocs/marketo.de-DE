@@ -3,7 +3,8 @@ unique-page-id: 2359761
 description: Video hinzufügen - Marketo Docs - Produktdokumentation
 title: Video hinzufügen
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 3%
@@ -42,7 +43,7 @@ Fügen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ein.
 >
 >Um Zeit zu sparen, können Sie die **Klonen von** -Option, um alle Einstellungen aus einer vorhandenen Videofreigabe zu kopieren.
 
-Herzlichen Glückwunsch!  Sie haben Ihrer Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Legen Sie die Videofreigabe auf Ihrer Website ab.](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage und Ihre Videofreigabe ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Legen Sie die Videofreigabe auf Ihrer Website ab.](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >

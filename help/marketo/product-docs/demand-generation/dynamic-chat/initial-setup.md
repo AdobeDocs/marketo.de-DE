@@ -2,7 +2,8 @@
 description: Ersteinrichtung - Marketo Docs - Produktdokumentation
 title: Ersteinrichtung
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -13,13 +14,13 @@ ht-degree: 0%
 
 ## Admin Console aufrufen {#access-admin-console}
 
-Gehen Sie wie folgt vor, um einen dynamischen Chat einzurichten.
+Gehen Sie wie folgt vor, um Dynamic Chat einzurichten.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich.**
 
-1. Nachdem der dynamische Chat für Ihre Marketo-Instanz aktiviert wurde, erhält der vorgesehene Systemadministrator eine Begrüßungs-E-Mail. Klicken Sie in der E-Mail auf **Erste Schritte**.
+1. Nachdem Dynamic Chat für Ihre Marketo-Instanz aktiviert wurde, erhält der vorgesehene Systemadministrator eine Begrüßungs-E-Mail. Klicken Sie in der E-Mail auf **Erste Schritte**.
 
    ![](assets/initial-setup-1.png)
 
@@ -31,4 +32,4 @@ Gehen Sie wie folgt vor, um einen dynamischen Chat einzurichten.
 
 1. Nach der Anmeldung bei der Admin Console müssen Sie als Nächstes Benutzer hinzufügen. Wir haben diesen Prozess [hier dokumentiert](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-Als Nächstes ist es Zeit, [Dynamischen Chat mit Marketo verbinden](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).
+Als Nächstes ist es Zeit, [Dynamic Chat mit Marketo verbinden](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).

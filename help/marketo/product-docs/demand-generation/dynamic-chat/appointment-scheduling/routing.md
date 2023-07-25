@@ -2,7 +2,8 @@
 description: Routing - Marketo-Dokumente - Produktdokumentation
 title: Routing
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -11,7 +12,7 @@ ht-degree: 1%
 
 # Routing {#routing}
 
-Im dynamischen Chat gebuchte Meetings können auf zwei Arten weitergeleitet werden. Runden Sie die Aktivität ab oder verwenden Sie eine benutzerdefinierte Regel.
+Im Dynamic Chat gebuchte Meetings können auf zwei Arten durchgeführt werden. Runden Sie die Aktivität ab oder verwenden Sie eine benutzerdefinierte Regel.
 
 Round robin: Sitzungen werden Agenten nacheinander zugewiesen. Wenn Sie also fünf Agenten und Agenten haben, die drei das letzte Meeting hatten, dann wird Agent vier das nächste bekommen, gefolgt von Agent fünf, dann zurück zum Agenten eins.
 
@@ -21,7 +22,7 @@ Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, um Sitzungen
 
 In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten CA, OR und WA an John.
 
-1. Wählen Sie im dynamischen Chat **Routing**.
+1. Wählen Sie in Dynamic Chat **Routing**.
 
    ![](assets/routing-1.png)
 

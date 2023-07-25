@@ -2,10 +2,11 @@
 description: Gruppen verwalten - Marketo-Dokumente - Produktdokumentation
 title: Gruppen verwalten
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -31,7 +32,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
   </tr> 
   <tr> 
    <td>Dynamische Gruppen</td> 
-   <td>Meine Kontakte: Alle Kontakte, die du besitzt.<br>Abmeldungen: Kontakte, die sich vom Erhalt des Schriftstücks abgemeldet haben.</td> 
+   <td>Meine Ansprechpartner: Alle Kontakte, die du besitzt.<br>Abmeldungen: Kontakte, die sich vom Erhalt des Schriftstücks abgemeldet haben.</td> 
   </tr> 
   <tr> 
    <td>Meine Gruppen</td> 

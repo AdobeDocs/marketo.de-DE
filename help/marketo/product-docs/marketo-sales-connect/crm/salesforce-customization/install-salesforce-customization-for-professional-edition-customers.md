@@ -3,7 +3,8 @@ unique-page-id: 27656223
 description: Installation der Salesforce-Anpassung für Professional Edition-Kunden - Marketo-Dokumente - Produktdokumentation
 title: Installation der Salesforce-Anpassung für Professional Edition-Kunden
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Kunden mit Salesforce Professional Edition müssen diese Schritte ausführen, um
 >
 >* Der Sales Connect-Administrator muss seine Salesforce- und Sales Connect-Konten verbinden.
 >* Die verwendete Salesforce-Instanz benötigt Platz, um dreizehn benutzerdefinierte Aktivitätsfelder zu installieren.
-
 
 ## Installation {#installation}
 

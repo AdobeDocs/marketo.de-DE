@@ -1,7 +1,9 @@
 ---
 description: Versionshinweise - Oktober 2022 - Marketo-Dokumente - Produktdokumentation
 title: Oktober 2022 - Versionshinweise
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 5%
@@ -125,7 +127,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Integration von Sales Insight mit Dynamic Chat**: Das Insights-Dashboard enthält jetzt Aktivitäten des dynamischen Cats im Smart-Raster sowie eine wöchentliche Zusammenfassung und Detailkarten.
+* **Integration von Sales Insight mit Dynamic Chat**: Das Insights-Dashboard enthält jetzt Dynamic Chat-Aktivitäten im Smart-Raster sowie wöchentliche Zusammenfassungs- und Detailkarten.
 
 <table> 
   <tr> 
@@ -143,7 +145,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-* **Dialogfeld-Streams für dynamischen Chat automatisch anordnen**: Verbessern Sie Ihre überfüllte Dialog-Arbeitsfläche, indem Sie alles auf der Arbeitsfläche in einem sauberen und leicht lesbaren Format organisieren, indem Sie die Taste drücken, indem Sie Auto Arrange auswählen.
+* **Dialogfeld-Streams automatisch anordnen für Dynamic Chat**: Verbessern Sie Ihre überfüllte Dialog-Arbeitsfläche, indem Sie alles auf der Arbeitsfläche in einem sauberen und leicht lesbaren Format organisieren, indem Sie die Taste drücken, indem Sie Auto Arrange auswählen.
 
 <table> 
   <tr> 
@@ -157,7 +159,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Meeting-Links für dynamischen Chat**: Option zur automatischen Einbindung eines Teams- oder Meet-Links für Google und Outlook in jede Kalendereinladung, die an Besucher gesendet wird.
+* **Konferenzlinks für Dynamic Chat**: Option zur automatischen Einbindung eines Teams- oder Meet-Links für Google und Outlook in jede Kalendereinladung, die an Besucher gesendet wird.
 
 <table> 
   <tr> 
@@ -171,7 +173,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Unterstützung zusätzlicher Datentypen für dynamischen Chat**: Drei neue Datentypen (boolesch, Ganzzahl, Gleitkommazahl) ermöglichen es Ihnen, vorhandene Marketo Engage-Felder im dynamischen Chat für Dinge wie das Targeting auf Grundlage von Bewertungen oder die Frage, ob Besucher Ja/Nein-Fragen haben, besser zu nutzen.
+* **Unterstützung zusätzlicher Datentypen für Dynamic Chat**: Drei neue Datentypen (boolesch, Ganzzahl, Gleitkommazahl) ermöglichen es Ihnen, im Dynamic Chat mehr bestehende Marketo Engage-Felder für Dinge wie Targeting auf Grundlage von Bewertungen oder die Frage nach Ja/Nein-Fragen für Besucher zu nutzen.
 
 <table> 
   <tr> 

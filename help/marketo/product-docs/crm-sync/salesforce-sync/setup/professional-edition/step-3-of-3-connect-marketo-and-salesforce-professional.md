@@ -3,7 +3,8 @@ unique-page-id: 3571800
 description: 'Schritt 3 von 3: Verbinden von Marketo und Salesforce (Professional) - Marketo Docs - Produktdokumentation'
 title: 'Schritt 3 von 3: Verbinden von Marketo und Salesforce (Professional)'
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
-source-git-commit: 8162db802cae125b406c463fde50d4ffdf0eb621
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
@@ -18,7 +19,6 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 >
 >* [Schritt 1 von 3: Marketo-Felder zu Salesforce (Professional) hinzufügen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Schritt 2 von 3: Salesforce-Benutzer für Marketo (Professional) erstellen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
 
 ## Sync User Security Token abrufen {#retrieve-sync-user-security-token}
 
@@ -106,4 +106,3 @@ Wow, Sie haben gerade mit der Konfiguration einer der leistungsstärksten Funkti
 >
 >* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-

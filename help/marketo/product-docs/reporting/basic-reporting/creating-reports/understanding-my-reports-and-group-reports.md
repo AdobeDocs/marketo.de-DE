@@ -3,7 +3,8 @@ unique-page-id: 7511725
 description: Verstehen meiner Berichte und Gruppenberichte - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu meinen Berichten und Gruppenberichten
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -28,4 +29,3 @@ Sie können **Meine Berichte** und **Gruppenberichte** von [Analytics-Homepage](
 >
 >* [Einen Bericht speichern](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
 >* [Einen Bericht zu Gruppenberichten klonen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
-

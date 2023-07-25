@@ -3,7 +3,8 @@ unique-page-id: 2950549
 description: Konfigurieren des empfohlenen Social-Flusses - Marketo-Dokumente - Produktdokumentation
 title: Konfigurieren des empfohlenen Social-Flusses
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og
 
    >[!TIP]
    >
-   >Verwenden Sie {html_title} in Ihrem Tweet-Text, um den Titel der Seite automatisch anzuzeigen.
+   >Verwendung {html_title} in Ihren Tweet-Text ein, um den Titel der Seite automatisch anzuzeigen.
 
 1. Klicken **Nächste**.
 
@@ -104,7 +105,7 @@ Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og
 
    >[!TIP]
    >
-   >Verwenden Sie {html_title} in Ihrem Beitragstext, um den Seitentitel automatisch anzuzeigen.
+   >Verwendung {html_title} in Ihren Beitragstext eingeben, um den Seitentitel automatisch anzuzeigen.
 
 1. Wenn Sie **Statisch hinzufügen** Bearbeiten Sie den Titel und die Beschreibung und laden Sie ein benutzerdefiniertes Bild hoch (aus Ihren Marketo-Bildern und -Dateien).
 

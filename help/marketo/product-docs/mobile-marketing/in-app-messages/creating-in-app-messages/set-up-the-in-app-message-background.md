@@ -3,7 +3,8 @@ unique-page-id: 10100649
 description: Einrichten des In-App-Nachrichten-Hintergrunds - Marketo-Dokumente - Produktdokumentation
 title: Einrichten des Hintergrunds der In-App-Nachricht
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -73,4 +74,3 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt beim Fertigs
    >* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [In-App-Nachricht senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
    >* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

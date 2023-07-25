@@ -3,7 +3,8 @@ unique-page-id: 2359673
 description: Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

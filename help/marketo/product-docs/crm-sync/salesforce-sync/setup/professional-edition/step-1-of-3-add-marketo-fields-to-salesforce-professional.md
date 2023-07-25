@@ -3,7 +3,8 @@ unique-page-id: 11372975
 description: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Professional) - Marketo Docs - Produktdokumentation'
 title: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Professional)'
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 8%
@@ -202,7 +203,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
    <td>Länge 255</td> 
   </tr> 
   <tr> 
-   <td>Abgleitete Vorwahl</td> 
+   <td>Abgeleitete Vorwahl</td> 
    <td>mkto71_inferred_Phone_Area_Code</td> 
    <td>Text</td> 
    <td>Länge 255</td> 

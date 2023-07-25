@@ -2,7 +2,8 @@
 description: Ändern des Kennworts für die Verkaufsverbindung - Marketo-Dokumente - Produktdokumentation
 title: Ändern des Kennworts für die Verkaufsverbindung
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -35,7 +36,6 @@ Sie müssen Ihr Passwort ändern? So geht es.
 >* Groß- und Kleinschreibung verwenden (sowohl OBERER als auch UNTERER)
 >* Eine Zahl einschließen
 >* Sonderzeichen verwenden
-
 
 ## Kennwort beim Abmelden ändern {#change-your-password-while-signed-out}
 

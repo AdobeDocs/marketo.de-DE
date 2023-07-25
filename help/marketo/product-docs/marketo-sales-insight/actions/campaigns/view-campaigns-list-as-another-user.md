@@ -2,7 +2,8 @@
 description: Anzeigen der Kampagnenliste als anderer Benutzer - Marketo-Dokumente - Produktdokumentation
 title: Anzeigen der Kampagnenliste als anderer Benutzer
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

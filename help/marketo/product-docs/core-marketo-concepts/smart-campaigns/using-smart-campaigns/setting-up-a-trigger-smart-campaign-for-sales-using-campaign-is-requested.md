@@ -3,7 +3,8 @@ unique-page-id: 7514898
 description: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mit "Campaign is Require"- Marketo Docs - Produktdokumentation
 title: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mit "Campaign is Require"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeit
 >
 >1. **Langzeitpflege** - wenn sie in diesem Jahr kein Budget haben und Sie einfach nur auf dem Radar bleiben wollen
 >1. **Aktiver Verkaufszyklus** - wenn der Verkäufer keine Nachrichten an die Person mit Ausnahme ihrer eigenen wünscht. (verwenden Sie die Markierung für ausgesetzte Marketing, um sie vorübergehend abzumelden)
-
 >
 >Sei kreativ! Was möchte der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!
 

@@ -3,7 +3,8 @@ unique-page-id: 2949718
 description: Veröffentlichen einer E-Mail in Sales Insight - Marketo Docs - Produktdokumentation
 title: Veröffentlichen einer E-Mail in Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -38,7 +39,7 @@ Aktivieren Sie die Einstellung In Sales Insight veröffentlichen , um Ihrem Verk
 
    ![](assets/five.png)
 
-Gut gemacht! Jetzt wissen Sie, wie Sie E-Mails für Ihr Verkaufsteam zur Verfügung stellen können, um sie auf CRM-Seite zu senden, und wie Sie die verfügbare Zeit bei Bedarf begrenzen können.
+Gut gemacht! Jetzt wissen Sie, wie Sie E-Mails für Ihr Verkaufsteam zur Verfügung stellen können, um sie auf CRM-Seite zu versenden und gegebenenfalls die verfügbare Zeit zu begrenzen.
 
 >[!NOTE]
 >

@@ -3,7 +3,8 @@ unique-page-id: 2359646
 description: Konfigurieren des progressiven Profilings von Formularen - Marketo Docs - Produktdokumentation
 title: Konfigurieren des progressiven Profils
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -70,7 +71,6 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
    >* Nachname (leer)
    >* E-Mail-Adresse (leer)
    >* Telefonnummer (leer)
-
    >
    >Wenn sie jedes Feld ausfüllen, sehen sie beim zweiten Besuch Folgendes:
    >
@@ -78,7 +78,6 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
    >* Nachname (vorausgefüllt)
    >* E-Mail-Adresse (vorausgefüllt)
    >* Mobiltelefonnummer (leer)
-
    >
    >Wenn sie die Mobiltelefonnummer ausfüllen, sehen sie beim dritten Besuch Folgendes:
    >
@@ -86,7 +85,6 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
    >* Nachname (vorausgefüllt)
    >* E-Mail-Adresse (vorausgefüllt)
    >* Land (leer)
-
 
 1. Klicken **Beenden**.
 

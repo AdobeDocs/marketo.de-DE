@@ -3,7 +3,8 @@ unique-page-id: 10098812
 description: Einrichten der Umsatzzuordnung für digitale Werbekampagnen - Marketo Docs - Produktdokumentation
 title: Einrichten der Umsatzzuordnung für digitale Werbekampagnen
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -23,7 +24,6 @@ Mit separaten Programmen können Sie dann die Anzahl der Konversionen von jedem 
 >* Richten Sie ein Kanal-Tag mit Statuswerten und Programmerfolg ein (z. B. Digital Advertising oder Social Paid und PPC)
 >* Erstellen oder bearbeiten Sie ein Formular, um eine Abfragezeichenfolge an die Person weiterzugeben
 >* Stellen Sie sicher, dass Sie Zugriff auf einige Analytics-Funktionen von Umsatzzyklen haben, um Berichte zu Ihren Anzeigenkanälen und -kampagnen zu erstellen.
-
 
 ## Standardprogramm erstellen {#create-a-default-program}
 
@@ -112,7 +112,6 @@ Nachdem Sie das Programm und die Kampagnen eingerichtet haben, erstellen Sie die
    >* **comment** ist die eindeutige Kennung, die für jedes Programm erstellt wird.
    >* **Lager** ist die Kampagne in Facebook, LinkedIn oder Google
    >* **kk** ist das Keyword oder der Asset-Name, das/die Sie erfassen möchten
-
    >
    >**Diese vier Begriffe müssen in Kleinbuchstaben verfasst sein, und die URL darf keine Leerzeichen enthalten, damit diese Informationen erfasst werden.**
 

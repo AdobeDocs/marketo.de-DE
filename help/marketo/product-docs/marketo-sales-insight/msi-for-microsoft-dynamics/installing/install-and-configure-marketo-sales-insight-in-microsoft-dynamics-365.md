@@ -3,7 +3,8 @@ unique-page-id: 3571739
 description: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 365 - Marketo Docs - Produktdokumentation
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 1%
@@ -97,7 +98,6 @@ Verknüpfen wir Ihre Marketo-Instanz mit Sales Insight in Dynamics. Gehen Sie wi
    > * Priorität
    > * Dringlichkeit
    > * Relative Bewertung
-
    >
    >Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, führen Sie [dieses Verfahrens](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 

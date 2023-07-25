@@ -3,7 +3,8 @@ unique-page-id: 2359757
 description: Hinzufügen einer Social-Schaltfläche auf einer Landingpage - Marketo-Dokumente - Produktdokumentation
 title: Social-Schaltfläche auf einer Landingpage hinzufügen
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
@@ -44,7 +45,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-Herzlichen Glückwunsch!  Sie haben Ihrer Landingpage eine Social -Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu validieren. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Platzieren Sie die Social-Schaltfläche auf Ihrer Website.](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Social -Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu validieren. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Platzieren Sie die Social-Schaltfläche auf Ihrer Website.](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

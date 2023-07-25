@@ -3,7 +3,8 @@ unique-page-id: 10912178
 description: Einrichten der Schaltfläche "Beenden"und Genehmigen der Meldung - Marketo Docs - Produktdokumentation
 title: Einrichten der Schaltfläche "Beenden"und Genehmigen der Nachricht
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -76,4 +77,3 @@ Jetzt ist es an der Zeit, [Nachricht senden](/help/marketo/product-docs/mobile-m
 >
 >* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

@@ -3,16 +3,17 @@ unique-page-id: 4720476
 description: Klassisches Symbol-Glossar - Marketo Docs - Produktdokumentation
 title: Glossar zu klassischen Symbolen
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '562'
 ht-degree: 34%
 
 ---
 
 # Glossar zu klassischen Symbolen {#classic-icon-glossary}
 
-Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier finden](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}.
+Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier finden](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **Allgemeine Symbole**
 
@@ -480,7 +481,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td>Sozial</td> 
+   <td>Social</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1130,7 +1131,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img src="assets/image2015-1-5-16-3a26-3a11.png"> 
     </div></td> 
-   <td>Smart List</td> 
+   <td>Intelligente Liste</td> 
   </tr> 
   <tr> 
    <td> 

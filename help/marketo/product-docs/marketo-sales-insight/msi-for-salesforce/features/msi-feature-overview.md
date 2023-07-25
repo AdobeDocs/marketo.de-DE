@@ -3,7 +3,8 @@ unique-page-id: 37356893
 description: Übersicht über MSI-Funktionen - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über MSI-Funktionen
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '937'
 ht-degree: 12%
@@ -198,4 +199,3 @@ Marketo Sales Insight wird nach Sprache gespeichert. Wenn es also für mehr als 
 >* Ein Kontakt/Lead muss sich in der Standardpartition befinden, damit er zur Watchlist hinzugefügt werden kann.
 >
 >* Das MSI Salesforce-Paket unterstützt keine benutzerdefinierte Ansicht mit abhängigen Feldern.
-

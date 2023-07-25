@@ -1,21 +1,22 @@
 ---
 description: Stream Designer - Marketo-Dokumente - Produktdokumentation
-title: Stream Designer
+title: Entwerferin bzw. Entwerfer des Streams
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '852'
 ht-degree: 2%
 
 ---
 
-# Stream Designer {#stream-designer}
+# Entwerferin bzw. Entwerfer des Streams {#stream-designer}
 
 Es gibt _many_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, in dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Ihnen wird auch eine kostenlose PDF angeboten. Das ultimative Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie zunächst [einrichten](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} in Ihrem Adobe-Konto.
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie zunächst [einrichten](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} in Ihrem Adobe-Konto.
 
 ## Designer-Karten streamen {#stream-designer-cards}
 
@@ -78,7 +79,7 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 
 ## Erstellen eines Streams {#create-a-stream}
 
-1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, klicken Sie auf die **Stream-Designer** Registerkarte.
+1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, klicken Sie auf die **Stream-Designer** Registerkarte.
 
    ![](assets/stream-designer-6.png)
 
@@ -160,7 +161,7 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
      <td>Beispieltext, der dem Besucher dabei hilft, zu sehen, was er eingeben soll.</td>
     </tr>
     <tr>
-     <td><strong>Antwort zu Attribut zuordnen</strong></td>
+     <td><strong>Antwort einem Attribut zuordnen</strong></td>
      <td>Hiermit können Sie die Antwort des Besuchers mit dem entsprechenden Feld in seinem Personendatensatz in Ihrem Marketo-Abonnement synchronisieren.</td>
     </tr>
    </table>
@@ -191,12 +192,11 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 
 >[!NOTE]
 >
->Stellen Sie vor dem Klicken auf Veröffentlichen sicher, dass Sie [Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
+>Stellen Sie vor dem Klicken auf Veröffentlichen sicher, dass Sie [Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
->* [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
->* [Verwenden der Dokumentkarte](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}
-
+>* [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
+>* [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Verwenden der Dokumentkarte](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}

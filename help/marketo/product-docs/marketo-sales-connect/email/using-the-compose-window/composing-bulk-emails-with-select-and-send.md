@@ -3,7 +3,8 @@ unique-page-id: 37356578
 description: Erstellen von Massen-E-Mails mit Auswahl und Versand - Marketo-Dokumente - Produktdokumentation
 title: Erstellen von Massen-E-Mails mit Auswählen und Senden
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -97,4 +98,3 @@ Führen Sie Massenaktualisierungen durch, bevor Sie die einzelnen E-Mails anpass
    >* [Massensendeoptionen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
    >* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
    >* [Dynamische Felder](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
-

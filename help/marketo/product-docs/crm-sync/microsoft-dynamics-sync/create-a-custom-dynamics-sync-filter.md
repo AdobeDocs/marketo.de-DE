@@ -3,7 +3,8 @@ unique-page-id: 9437903
 description: Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics - Marketo Docs - Produktdokumentation
 title: Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
-source-git-commit: ed4699ea4a94c787b8af109599f2a0c50591b956
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -151,4 +152,3 @@ Im Folgenden finden Sie einige Implementierungsdetails, von denen wir dachten, d
 >* [Microsoft Dynamics Sync-Filter: Qualifizieren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
 >* [Microsoft Dynamics Sync-Filter: Zusammenführen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
 >* [Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-

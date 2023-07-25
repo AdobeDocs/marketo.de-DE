@@ -2,7 +2,8 @@
 description: Benutzerhandbuch für Einsteigeraktionen für Sales Insight - Marketo-Dokumente - Produktdokumentation
 title: Benutzerhandbuch zu Insight-Maßnahmen für Vertrieb
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* Ein Administrator muss einen Benutzer zur Verwendung von MSI-Aktionen einladen.
 >* Um Ihr Konto mit Salesforce zu aktivieren, müssen Sie in den Salesforce-Profilberechtigungen &quot;API aktiviert&quot;haben.
-
 
 Neue Benutzer müssen die folgenden Schritte ausführen.
 

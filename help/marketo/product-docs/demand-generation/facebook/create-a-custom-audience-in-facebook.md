@@ -3,9 +3,10 @@ unique-page-id: 4720275
 description: Erstellen einer benutzerdefinierten Zielgruppe in Facebook - Marketo Docs - Produktdokumentation
 title: Erstellen einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,13 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} im Abschnitt &quot;Admin&quot;.
->* [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} innerhalb Ihres Facebook-Kontos.
-
+>* [Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint-Dienst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} im Abschnitt &quot;Admin&quot;.
+>* [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem Facebook-Konto.
 
 >[!TIP]
 >
->Weitere Informationen [benutzerdefinierte Zielgruppen in Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
+>Weitere Informationen [benutzerdefinierte Zielgruppen in Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Suchen und wählen Sie die Smart- oder statische Liste mit den Leads aus, aus denen Sie die Zielgruppe erstellen möchten.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Siehe [Facebook-Lernpfad für Marketo-Kunden](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Es behandelt alles, was Sie wissen müssen, von der Erstellung einer Facebook-Seite bis hin zur Ausrichtung Ihrer Facebook-Anzeigen mithilfe der Werbenetzwerk-Integrationen von Marketo.
+   >Siehe [Facebook-Lernpfad für Marketo-Kunden](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Es behandelt alles, was Sie wissen müssen, von der Erstellung einer Facebook-Seite bis hin zur Ausrichtung Ihrer Facebook-Anzeigen mithilfe der Werbenetzwerk-Integrationen von Marketo.
 
    >[!MORELIKETHIS]
    >

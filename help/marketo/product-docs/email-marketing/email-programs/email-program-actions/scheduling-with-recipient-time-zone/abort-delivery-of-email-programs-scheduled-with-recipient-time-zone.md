@@ -3,7 +3,8 @@ unique-page-id: 13795727
 description: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone der Empfänger geplant sind - Marketo Docs - Produktdokumentation
 title: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -40,4 +41,3 @@ Da E-Mail-Programme, die mit der Zeitzone der Empfänger geplant sind, bis zu 24
 >
 >* [Verstehen der Zeitzone eines Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [E-Mail-Programme mit der Zeitzone der Empfänger planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
-

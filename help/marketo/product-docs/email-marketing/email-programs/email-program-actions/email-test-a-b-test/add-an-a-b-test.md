@@ -3,7 +3,8 @@ unique-page-id: 2359491
 description: Hinzufügen eines A/B-Tests - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines A/B-Tests
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Definieren einer Zielgruppe mit einer Smart-Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Zielgruppe durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [Vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
 
 Mit Tests können Sie Ihre E-Mails für eine bessere Interaktion optimieren. So geht es los.
 
@@ -50,4 +50,3 @@ Mit Tests können Sie Ihre E-Mails für eine bessere Interaktion optimieren. So 
 >* [A/B-Tests mit &quot;gesamter E-Mail&quot; verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
 >* [A/B-Tests mit &quot;Von Adresse&quot;verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
 >* [Verwenden von A/B-Tests &quot;Datum/Uhrzeit&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
-

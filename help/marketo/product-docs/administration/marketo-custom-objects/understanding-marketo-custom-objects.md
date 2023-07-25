@@ -3,7 +3,8 @@ unique-page-id: 10093188
 description: Grundlegendes zu benutzerdefinierten Marketo-Objekten - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu benutzerdefinierten Marketo-Objekten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 2%
@@ -104,4 +105,3 @@ Siehe [Benutzerdefinierte Objektdaten importieren](/help/marketo/product-docs/ad
 >* [Benutzerdefinierte Marketo-Objektfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Benutzerdefinierte Objektdaten importieren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
-

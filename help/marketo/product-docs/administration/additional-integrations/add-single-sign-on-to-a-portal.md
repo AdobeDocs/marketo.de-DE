@@ -3,7 +3,8 @@ unique-page-id: 2360356
 description: Single Sign-On zu einem Portal hinzufügen - Marketo Docs - Produktdokumentation
 title: Single Sign-On zu einem Portal hinzufügen
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 2%
@@ -113,4 +114,3 @@ Die einmalige Anmeldung ist standardmäßig deaktiviert. Führen Sie diese Schri
 >* [Verwendung einer universellen ID zur Anmeldung von Abonnements](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
-

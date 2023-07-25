@@ -3,7 +3,8 @@ unique-page-id: 10097873
 description: Definieren einer Smart-Liste für Predictive Content-Aktivitäten - Marketo Docs - Produktdokumentation
 title: Definieren einer Smart-Liste für Predictive Content-Aktivitäten
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -71,4 +72,3 @@ Sie können vorausschauende Inhaltsaktivitäten in Triggern und Filtern verwende
    >* [Definieren einer intelligenten Liste für Web-Personalisierungsaktivitäten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
    >* [Aktivieren prädiktiver Inhalte für Web Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
    >* [Symbolleiste für Inhaltsempfehlung aktivieren](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
-

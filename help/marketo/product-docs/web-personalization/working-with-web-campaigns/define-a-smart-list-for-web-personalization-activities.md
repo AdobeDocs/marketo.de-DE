@@ -3,7 +3,8 @@ unique-page-id: 10097867
 description: Definieren einer intelligenten Liste für Web-Personalisierungsaktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Definieren einer intelligenten Liste für Web-Personalisierungsaktivitäten
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -63,4 +64,3 @@ Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden, od
    >* [Definieren einer Smart-Liste für eine intelligente Kampagne | Charge](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Definieren einer Smart-Liste für Predictive Content-Aktivitäten](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-

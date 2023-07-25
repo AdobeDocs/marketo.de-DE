@@ -3,7 +3,8 @@ unique-page-id: 4720215
 description: Implementieren von RTP auf Wordpress Enterprise - Marketo Docs - Produktdokumentation
 title: Implementieren von RTP in Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -41,7 +42,6 @@ b. Fügen Sie das RTP-JavaScript-Tag direkt nach dem vorhandenen Code ein.
    >* `<script type='text/javascript'>`
    >* `</script>`
    >* `<!-- End of RTP tag -->`
-
    >
    >Fügen Sie das Skript NUR selbst ein.
 

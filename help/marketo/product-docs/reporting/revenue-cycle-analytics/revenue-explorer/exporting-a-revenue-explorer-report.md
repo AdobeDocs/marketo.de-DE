@@ -3,7 +3,8 @@ unique-page-id: 7504749
 description: Exportieren eines Umsatz-Explorer-Berichts - Marketo-Dokumente - Produktdokumentation
 title: Exportieren eines Umsatz-Explorer-Berichts
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 3%
@@ -25,7 +26,6 @@ Sie können jeden Umsatz-Explorer-Bericht exportieren und für andere freigeben.
    >* PDF
    >* Excel
    >* CSV
-
 
 1. Wählen Sie die gewünschte **Seitenformat** und **Ausrichtung** und klicken Sie auf **Export**.
 

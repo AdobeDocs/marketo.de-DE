@@ -4,10 +4,11 @@ title: Benutzerseitenspalten
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -42,7 +43,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Vorname</td> 
   </tr> 
   <tr> 
-   <td>Nachname (Standard)</td> 
+   <td>Nachname (standard)</td> 
    <td>Nachname</td> 
   </tr> 
   <tr> 
@@ -66,7 +67,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Vertriebskampagne der Person, die sich derzeit befindet</td> 
   </tr> 
   <tr> 
-   <td>Anz. Kampagnen</td> 
+   <td># Kampagnen</td> 
    <td>Gesamtzahl der Verkaufskampagnen, zu denen die Person gehörte</td> 
   </tr> 
   <tr> 
@@ -98,7 +99,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Anzahl der offenen Aufgaben für diese Person</td> 
   </tr> 
   <tr> 
-   <td>Anz. Ansichten</td> 
+   <td># Ansichten</td> 
    <td>Gesamtzahl der Ansichten dieser Person</td> 
   </tr> 
   <tr> 

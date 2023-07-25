@@ -3,7 +3,8 @@ unique-page-id: 2949206
 description: SEO - Importieren von Keywords mit einer CSV - Marketo Docs - Produktdokumentation
 title: SEO - Importieren von Keywords mit einer CSV-Datei
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 6%
@@ -50,4 +51,3 @@ ht-degree: 6%
    >
    >* [Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
    >* [Hinzufügen/Entfernen von Suchbegriffen aus einer Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-

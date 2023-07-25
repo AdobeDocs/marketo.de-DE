@@ -3,7 +3,8 @@ unique-page-id: 2359873
 description: Löschen eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketo Docs - Produktdokumentation
 title: Löschen eines hochgeladenen Bildes oder einer hochgeladenen Datei
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -43,4 +44,3 @@ Gut gemacht!
 >* [Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
 >* [Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
 >* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
-

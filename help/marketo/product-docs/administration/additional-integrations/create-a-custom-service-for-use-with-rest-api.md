@@ -3,7 +3,8 @@ unique-page-id: 2360350
 description: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API - Marketo Docs - Produktdokumentation
 title: Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 5%
@@ -19,7 +20,6 @@ Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, m
 >* [Erstellen einer Benutzerrolle &quot;Nur API&quot;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Erstellen eines reinen API-Benutzers](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 >[!NOTE]
 >

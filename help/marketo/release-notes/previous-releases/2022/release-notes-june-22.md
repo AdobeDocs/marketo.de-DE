@@ -2,9 +2,10 @@
 description: Juni 2022 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: Juni 2022 - Versionshinweise
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -25,20 +26,20 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **24. Juni 2022**, 
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Verbesserte Verwendung von Stream Designer für dynamischen Chat**: Fügen Sie Karten direkt aus der Arbeitsfläche von Stream Designer hinzu, ohne sie per Drag-and-Drop verschieben zu müssen. Die Benutzeroberfläche des dynamischen Chat wurde ebenfalls verbessert, um eine bessere Sichtbarkeit des Inhalts auf einzelnen Karten zu ermöglichen.
+* **Verbesserte Verwendung von Stream Designer für Dynamic Chat**: Fügen Sie Karten direkt aus der Arbeitsfläche von Stream Designer hinzu, ohne sie per Drag-and-Drop verschieben zu müssen. Die Dynamic Chat-Oberfläche wurde ebenfalls verbessert, um eine bessere Sichtbarkeit des Inhalts auf einzelnen Karten zu ermöglichen.
 
-* **Erweiterte Regeln für die Zuweisung von Routing für dynamischen Chat**: Dynamischer Chat bietet mehr Optionen für zielgerichtetes Termin-Routing. Geben Sie an, welche Agentenbestellungen auf der Grundlage von Marketo Engage-Attributen weitergeleitet werden sollen, und stellen Sie sicher, dass die Leads an die entsprechenden Agenten weitergeleitet werden.
+* **Erweiterte Regeln für die Zuweisung von Routing für Dynamic Chat**: Dynamic Chat bietet weitere Optionen für zielgerichtetes Terminrouting. Geben Sie an, welche Agentenbestellungen auf der Grundlage von Marketo Engage-Attributen weitergeleitet werden sollen, und stellen Sie sicher, dass die Leads an die entsprechenden Agenten weitergeleitet werden.
 
-* **Fortschrittliche Dialogberichte für dynamischen Chat**: Zeigen Sie die Leistung Ihrer Dynamic Chat-Kampagnen mithilfe der neuen Datenvisualisierungen für Interaktions- und Konversionsmetriken detaillierter an.
+* **Fortschrittliche Dialogfeldberichte für Dynamic Chat**: Zeigen Sie die Leistung Ihrer Dynamic Chat-Kampagnen mithilfe der neuen Datenvisualisierungen für Interaktions- und Konversionsmetriken detaillierter an.
 
-* **Nicht verwendete Marketo Engage-Attribute für dynamischen Chat nicht synchronisieren**: Heben Sie die Synchronisierung von Marketo Engage-Attributen aus Ihrem Dynamic Chat-Abonnement auf, die nicht verwendet werden. Dies erleichtert Ihnen die Datenbereinigung und ermöglicht die Synchronisierung alternativer Attribute nach Bedarf.
+* **Nicht verwendete Marketo Engage-Attribute für Dynamic Chat aufheben**: Heben Sie die Synchronisierung von nicht verwendeten Marketo Engage-Attributen aus Ihrem Dynamic Chat-Abonnement auf, was Ihnen hilft, Datenbereinigungen zu erleichtern und die Synchronisierung alternativer  nach Bedarf zu ermöglichen.
 
 ## Erlebnis der nächsten Generation
 
 **Neue Umschaltansichten**: Die folgenden Ansichten sind jetzt im Erlebnis der nächsten Generation verfügbar:
 
-* [Ansicht mit E-Mail-Details](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [E-Mail-Listenansicht](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [Ansicht mit E-Mail-Details](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [E-Mail-Listenansicht](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Erlebnisautomatisierung {#experience-automation}
 
@@ -62,7 +63,7 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **24. Juni 2022**, 
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Salesforce-API-Update**: Mit der Salesforce Summer Version 22 werden ältere API-Versionen 21-30 von Salesforce nicht mehr unterstützt. Mit dieser Marketo Engage-Version wurden alle Sales Connect-Anfragen, die ältere API-Versionen verwenden, aktualisiert, damit sie auf eine unterstützte Version passen. Ausführliche Informationen zu Salesforce API-Pensionsplänen finden Sie unter [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
+* **Salesforce-API-Update**: Mit der Salesforce Summer Version 22 werden ältere API-Versionen 21-30 von Salesforce nicht mehr unterstützt. Mit dieser Marketo Engage-Version wurden alle Sales Connect-Anfragen, die ältere API-Versionen verwenden, aktualisiert, damit sie auf eine unterstützte Version passen. Ausführliche Informationen zu Salesforce API-Pensionsplänen finden Sie unter [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## API-Verbesserungen {#api-enhancements}
 
@@ -76,4 +77,4 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **24. Juni 2022**, 
 
 **_Webinar zur Produktversion_**
 
-[Webinar zur Marketo Engage-Version vom Juni und August 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[Webinar zur Marketo Engage-Version vom Juni und August 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

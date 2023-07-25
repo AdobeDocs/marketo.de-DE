@@ -3,7 +3,8 @@ unique-page-id: 37355534
 description: Versionshinweise - Januar 2020 - Marketo-Dokumente - Produktdokumentation
 title: Januar 2020 - Versionshinweise
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 1%
@@ -74,6 +75,5 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 >* **Einstellung von TLS 1.0 und 1.1**: In dem Bemühen, die Integration in die Versionsstruktur von Adobe fortzusetzen, verlagern wir die Einstellung von TLS 1.0 und TLS 1.1 auf den 13. Januar 2020. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 >
 >* **ITP 2.1+ Munchkin-Update**: Aufgrund von Änderungen an der Cookie-Richtlinie für Safari ist die Möglichkeit von Munchkin, Benutzer sitzungsübergreifend in derselben Domäne zu verfolgen, von ITP auf entweder 1 oder 7 Tage begrenzt, je nach Browser und Browserversion, die der Besucher verwendet. Um dies zu berücksichtigen, implementieren wir einen neuen Webdienst, mit dem Munchkin-Cookies über HTTP-Antworten mit einem Set-Cookie-Header gesetzt werden können. Weitere Informationen zur Implementierung dieses neuen Dienstes finden Sie unter [here](https://nation.marketo.com/docs/DOC-7351).
-
 
 **_Webinar zur Produktversion_** [Treten Sie uns bei](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) Am 3. März um 11:00 Uhr PT / 14:00 Uhr ET für ein Live-Webinar, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.

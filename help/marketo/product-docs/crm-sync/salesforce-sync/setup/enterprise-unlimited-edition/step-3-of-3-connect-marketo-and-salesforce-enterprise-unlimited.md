@@ -3,7 +3,8 @@ unique-page-id: 2360366
 description: 'Schritt 3 von 3: Verbinden von Marketo und Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation'
 title: 'Schritt 3 von 3: Verbinden von Marketo und Salesforce (Enterprise/Unlimited)'
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -18,7 +19,6 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 >
 >* [Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
 
 ## Sync User Security Token abrufen {#retrieve-sync-user-security-token}
 
@@ -108,4 +108,3 @@ Wow, Sie haben gerade mit der Konfiguration einer der leistungsstärksten Funkti
 >* [Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-

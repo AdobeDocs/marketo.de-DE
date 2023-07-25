@@ -3,7 +3,8 @@ unique-page-id: 2359707
 description: Hinzufügen eines Rechtecks zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines Rechtecks zu einer Freiform-Landingpage
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Rechtecke auf Landingpages eignen sich hervorragend zum Hervorheben eines Textbe
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Herzlichen Glückwunsch!  Sie können jetzt auf Ihren Freiform-Landingpages Rechtecke erstellen.
+Herzlichen Glückwunsch! Sie können jetzt auf Ihren Freiform-Landingpages Rechtecke erstellen.

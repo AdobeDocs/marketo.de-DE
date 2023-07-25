@@ -3,7 +3,8 @@ unique-page-id: 7515616
 description: Geführte Vorlagenliste für Landingpages - Marketo-Dokumente - Produktdokumentation
 title: Liste der geführten Landingpage-Vorlagen
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -28,7 +29,7 @@ So importieren Sie eine Vorlage in Marketo:
 1. Klicken Sie in der Menüleiste auf **Importvorlage.**
 1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **Import** (Achten Sie darauf, einen beschreibenden Namen auszuwählen und anzugeben, dass der Bearbeitungsmodus **Geführt**).
 
-|  |  |  |
+|   |  |  |
 |---|---|---|
 | [Vorlage 1A](guided-landing-page-templates/template-1a.md) | [Vorlage 1B](guided-landing-page-templates/template-1b.md) | [Vorlage 1C](guided-landing-page-templates/template-1c.md) |
 | ![](assets/1a.jpg) | ![](assets/1b.jpg) | ![](assets/1c.jpg) |

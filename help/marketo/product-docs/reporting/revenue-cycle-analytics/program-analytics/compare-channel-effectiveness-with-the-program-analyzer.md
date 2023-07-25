@@ -3,7 +3,8 @@ unique-page-id: 2360401
 description: Vergleichen der Kanaleffektivität mit dem Programm-Analyzer - Marketo Docs - Produktdokumentation
 title: Kanaleffektivität mit dem Programm-Analyzer vergleichen
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -84,4 +85,3 @@ In unserem Beispiel sehen wir, dass der Kanal Tradeshow sowohl der teuerste (am 
 >
 >* [Kennenlernen von Programm- und Kanaldetails mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Vergleichen der Programmwirksamkeit mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
-

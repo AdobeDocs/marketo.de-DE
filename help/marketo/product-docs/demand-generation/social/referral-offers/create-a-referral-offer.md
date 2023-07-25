@@ -3,7 +3,8 @@ unique-page-id: 2359781
 description: Erstellen eines Verweisangebots - Marketo Docs - Produktdokumentation
 title: Erstellen eines Verweisangebots
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 2%
@@ -62,7 +63,7 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
 
 Sollten im Angebot Probleme auftreten, werden Sie aufgefordert, diese zu beheben, bevor das Angebot genehmigt wird.
 
-Herzlichen Glückwunsch!  Sie haben Ihr Verweisangebot erstellt.
+Herzlichen Glückwunsch! Sie haben Ihr Verweisangebot erstellt.
 
 >[!NOTE]
 >

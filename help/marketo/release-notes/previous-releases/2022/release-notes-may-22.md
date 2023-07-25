@@ -2,7 +2,8 @@
 description: Versionshinweise - Mai 2022 - Marketo-Dokumente - Produktdokumentation
 title: Mai 2022 - Versionshinweise
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -27,13 +28,13 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **6. Mai 2022**, wo
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-**Chatbot-Ereignisse für dynamischen Chat**: Verwenden Sie detailliertere Verhaltensdaten für Webbesucher, z. B. die Besuchszeit pro Seite, die Besuchszeit pro Site und den prozentualen Seitenbildlauf, um festzulegen, wann ein Chat-Dialogfeld angezeigt werden soll.
+**Chatbot-Ereignisse für Dynamic Chat**: Verwenden Sie detailliertere Verhaltensdaten für Webbesucher, z. B. die Besuchszeit pro Seite, die Besuchszeit pro Site und den prozentualen Seitenbildlauf, um festzulegen, wann ein Chat-Dialogfeld angezeigt werden soll.
 
-**PDF Einbetten in dynamischen Chat**: Erhöhen Sie die Interaktion und geben Sie sinnvolle Inhalte frei, indem Sie PDF in Chat-Dialogfelder einbetten und die Inhaltsleistung durch Interaktionsaktivitäten-Tracking messen.
+**PDF Einbetten für Dynamic Chat**: Erhöhen Sie die Interaktion und geben Sie sinnvolle Inhalte frei, indem Sie PDF in Chat-Dialogfelder einbetten und die Inhaltsleistung durch Interaktionsaktivitäten-Tracking messen.
 
-**Erweiterte Sprachunterstützung für dynamischen Chat**: Die Benutzeroberfläche für dynamischen Chat ist jetzt auch auf Französisch, Deutsch, Japanisch, Portugiesisch und Spanisch verfügbar. Chat-Dialogfelder können auch in diesen Sprachen konfiguriert werden.
+**Erweiterte Sprachunterstützung für Dynamic Chat**: Die Dynamic Chat-Benutzeroberfläche ist jetzt auch auf Französisch, Deutsch, Japanisch, Portugiesisch und Spanisch verfügbar. Chat-Dialogfelder können auch in diesen Sprachen konfiguriert werden.
 
-**Ausschluss von URLs für den dynamischen Chat**: Sie können steuern, auf welchen Ihrer Webseiten dynamischer Chat angezeigt wird, und bestimmte URLs von Targeting-Kriterien ausschließen.
+**Ausschluss von URLs für Dynamic Chat**: Sie können steuern, auf welchem Dynamic Chat Ihrer Webseiten bestimmte URLs von den Targeting-Kriterien ausgeschlossen werden.
 
 **[Verbesserungen bei der Filterung der E-Mail-Bot-Aktivität](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Schützen Sie weiterhin den Zustand Ihrer Datenbank, indem Sie neben der vorhandenen IAB-Listen-Übereinstimmungskennung auch das Bot-Verhalten anhand von versteckten Link-Benutzeragenten oder IPs und Näherungsmustern identifizieren können. Zeigen Sie Bot-Aktivitätsstatistiken an, anhand derer Sie die Anzahl der für jeden Typ identifizierten Bot-Aktivitäten nachvollziehen können.
 

@@ -3,7 +3,8 @@ unique-page-id: 2360016
 description: Personen in einem Bericht mit einer intelligenten Liste filtern - Marketo-Dokumente - Produktdokumentation
 title: Personen in einem Bericht mit einer intelligenten Liste filtern
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 21%

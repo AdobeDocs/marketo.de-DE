@@ -3,7 +3,8 @@ unique-page-id: 2360331
 description: Ändern des Typs eines benutzerdefinierten Marketo-Felds - Marketo Docs - Produktdokumentation
 title: Ändern des Typs eines benutzerdefinierten Marketo-Felds
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 4%

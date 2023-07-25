@@ -3,7 +3,8 @@ unique-page-id: 11384663
 description: Aufheben der Genehmigung eines Titels für Predictive Content - Marketo Docs - Produktdokumentation
 title: Aufheben der Genehmigung eines Titels für prädiktive Inhalte
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 4720236
 description: Erstellen eines Segments mithilfe einer Kontoliste - Marketo Docs - Produktdokumentation
 title: Erstellen eines Segments mithilfe einer Kontoliste
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -42,4 +43,4 @@ So erstellen Sie ein Segment mithilfe einer Kontoliste.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Herzlichen Glückwunsch!  Sie haben jetzt ein Segment eingerichtet, das auf eine Kontoliste ausgerichtet ist.
+Herzlichen Glückwunsch! Sie haben jetzt ein Segment eingerichtet, das auf eine Kontoliste ausgerichtet ist.

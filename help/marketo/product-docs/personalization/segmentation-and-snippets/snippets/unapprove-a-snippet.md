@@ -3,7 +3,8 @@ unique-page-id: 2359516
 description: Aufheben der Genehmigung eines Snippets - Marketo Docs - Produktdokumentation
 title: Aufheben der Genehmigung eines Snippets
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

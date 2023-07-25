@@ -2,10 +2,11 @@
 description: Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 6%
+source-wordcount: '355'
+ht-degree: 7%
 
 ---
 
@@ -13,9 +14,8 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* Erstellung [Benutzerdefinierte Felder für Programmmitglieder](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
->* [Salesforce-Kampagne mit einem Programm synchronisieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
-
+>* Erstellung [Benutzerdefinierte Felder für Programmmitglieder](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [Salesforce-Kampagne mit einem Programm synchronisieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -123,11 +123,11 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
     </tr>
     <tr>
       <td>Anzahl(m)</td>
-      <td>Ganze Zahl</td>
+      <td>Ganzzahl</td>
     </tr>
     <tr>
       <td>Number(m,n)</td>
-      <td>Gleitkomma</td>
+      <td>Fließkommazahl</td>
     </tr>
     <tr>
       <td>Kontrollkästchen</td>
@@ -158,7 +158,6 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
 
 >[!MORELIKETHIS]
 >
->* [Ändern von Programmteilnehmerdaten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
->* [Daten im Programmteilernetz anzeigen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
->* [SFDC Sync - Kampagnensynchronisierung](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
-
+>* [Programmmitgliedsdaten ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [Daten im Programmteilernetz anzeigen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [SFDC Sync - Kampagnensynchronisierung](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

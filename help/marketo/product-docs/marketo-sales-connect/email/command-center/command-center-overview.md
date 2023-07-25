@@ -3,7 +3,8 @@ unique-page-id: 14352530
 description: Übersicht über das Command Center - Marketo Docs - Produktdokumentation
 title: Übersicht über das Command Center
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
@@ -61,7 +62,7 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
   </tr> 
   <tr> 
    <td title="Hintergrundfarbe : Blau"><strong title="">Nicht übermittelt</strong></td> 
-   <td title="Hintergrundfarbe : Blau">fehlgeschlagen</td> 
+   <td title="Hintergrundfarbe : Blau">Fehlgeschlagen</td> 
    <td title="Hintergrundfarbe : Blau">E-Mails, die nicht zugestellt werden konnten.</td> 
   </tr> 
   <tr> 
@@ -96,4 +97,3 @@ Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert sie als dynamische
 >* [Aufgaben](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
 >* [Erweiterte Suchübersicht](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
 >* [Erstellen von Massen-E-Mails mit Auswählen und Senden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
-

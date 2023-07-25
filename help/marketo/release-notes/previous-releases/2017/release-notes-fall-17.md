@@ -3,7 +3,8 @@ unique-page-id: 12983280
 description: Versionshinweise - Herbst 17 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst 17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 11%
@@ -83,7 +84,7 @@ Sparen Sie Zeit, indem Sie Kreativ-Assets und -Bilder in Marketo kanalübergreif
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integration  {#integration}
+## -Integration  {#integration}
 
 **[E-Mail-Vorschau API](https://developers.marketo.com/rest-api/assets/emails/)**
 

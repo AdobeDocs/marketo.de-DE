@@ -3,7 +3,8 @@ unique-page-id: 2360188
 description: Campaign-Bericht zur E-Mail-Leistung - Marketo-Dokumente - Produktdokumentation
 title: Bericht zur E-Mail-Leistung von Campaign
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 5%
@@ -44,4 +45,3 @@ So zeigen Sie Ihre E-Mail-Leistungsstatistiken nach [Smart-Kampagne](/help/marke
    >
    >* [Filtern von Assets in einem Campaign-E-Mail-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
    >* [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 10097202
 description: Head Start für E-Mail-Programme - Marketo-Dokumente - Produktdokumentation
 title: Abteilungsstart für E-Mail-Programme
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -76,4 +77,3 @@ Wenn Sie sich also in Amerika/Los Angeles befinden und sowohl Head Start als auc
 >* [E-Mail-Programm planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 >* [E-Mail-Programme mit der Zeitzone der Empfänger planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Verstehen der Zeitzone eines Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-

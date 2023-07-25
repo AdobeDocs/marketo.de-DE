@@ -3,7 +3,8 @@ unique-page-id: 2950530
 description: Social-Anmelde-/Freigabefluss konfigurieren - Marketo-Dokumente - Produktdokumentation
 title: Social-Anmelde-/Freigabefluss konfigurieren
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Wenn Sie die Werte der Tags der Seite auswählen (og:title, og:caption und og:de
 
    >[!TIP]
    >
-   >Verwenden Sie {html_title} in Ihrem Tweet-Text, um den Titel der Seite automatisch anzuzeigen.
+   >Verwendung {html_title} in Ihren Tweet-Text ein, um den Titel der Seite automatisch anzuzeigen.
 
 1. Klicken **Nächste**.
 
@@ -104,7 +105,7 @@ Wenn Sie die Werte der Tags der Seite auswählen (og:title, og:caption und og:de
 
    >[!TIP]
    >
-   >Verwenden Sie {html_title} in Ihrem Beitragstext, um den Seitentitel automatisch anzuzeigen.
+   >Verwendung {html_title} in Ihren Beitragstext eingeben, um den Seitentitel automatisch anzuzeigen.
 
 1. Wenn Sie **Statischen Inhalt hinzufügen** Bearbeiten Sie oben den Titel und die Beschreibung und laden Sie ein benutzerdefiniertes Bild hoch (aus Ihrem [**Marketo-Bilder und -Dateien**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 

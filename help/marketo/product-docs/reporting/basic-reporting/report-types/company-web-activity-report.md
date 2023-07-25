@@ -3,7 +3,8 @@ unique-page-id: 2360005
 description: Web-Aktivitätsbericht für Unternehmen - Marketo-Dokumente - Produktdokumentation
 title: Bericht zur Web-Aktivität des Unternehmens
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 6%

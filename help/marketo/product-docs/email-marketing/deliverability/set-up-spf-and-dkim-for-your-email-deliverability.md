@@ -3,7 +3,8 @@ unique-page-id: 4720710
 description: Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit - Marketo Docs - Produktdokumentation
 title: Einrichten von SPF und DKIM für Ihre E-Mail-Zustellbarkeit
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 0%
@@ -53,4 +54,3 @@ Siehe [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product
 >* [Erfahren Sie mehr über SPF und seine Funktionsweise](http://www.open-spf.org/Introduction/){target="_blank"}
 >* [Ist meine SPF korrekt eingerichtet?](https://www.kitterman.com/spf/validate.html){target="_blank"}
 >* [Habe ich die richtige Syntax verwendet?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
-

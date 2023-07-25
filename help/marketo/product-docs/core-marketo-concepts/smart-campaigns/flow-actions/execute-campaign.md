@@ -2,7 +2,8 @@
 description: Ausführen von Campaign - Marketo Docs - Produktdokumentation
 title: Kampagne ausführen
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 1%
@@ -47,7 +48,7 @@ Sie können auch eine bestehende Smart-Kampagne klonen. Wenn Sie eine vorhandene
 >
 >Sie können eine Kampagne mit Triggern nicht klonen.
 
-## Übergeordneten Kampagnen-Token-Kontext verwenden {#use-parent-campaign-token-context}
+## Token-Kontext der übergeordneten Kampagne verwenden {#use-parent-campaign-token-context}
 
 Wenn der Wert auf &quot;true&quot;gesetzt ist, werden die folgenden Token-Kontexte an die untergeordnete Kampagne gesendet (die ausgeführte Kampagne):
 

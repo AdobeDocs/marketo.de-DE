@@ -3,7 +3,8 @@ unique-page-id: 14745823
 description: Erstellen von Workflow-Regeln in Salesforce - Marketo Docs - Produktdokumentation
 title: Erstellen von Workflow-Regeln in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -49,7 +50,7 @@ Nachfolgend finden Sie die empfohlenen Namen der Workflow-Regeln und eine Beschr
  </tbody> 
 </table>
 
-## Anweisungen {#instructions}
+## Anleitung {#instructions}
 
 1. Nach dem Klicken **Einrichtung**, suchen Sie nach **Workflow** und wählen Sie **Workflow-Regeln**.
 

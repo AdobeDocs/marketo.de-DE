@@ -3,7 +3,8 @@ unique-page-id: 12982909
 description: Interaktionsprogramme mit der Zeitzone der Empfänger planen - Marketo-Dokumente - Produktdokumentation
 title: Planen von Interaktionsprogrammen mit der Zeitzone der Empfänger
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -30,4 +31,3 @@ Wenn Sie einen Interaktionsprogramm-Stream und eine Zeitzone der Empfänger plan
 >
 >* [Verstehen der Zeitzone eines Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Stream-Kadenz festlegen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
-

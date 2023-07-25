@@ -3,7 +3,8 @@ unique-page-id: 14746470
 description: Einrichten eines benutzerdefinierten Bereitstellungskanals - Marketo Docs - Produktdokumentation
 title: Einrichten eines benutzerdefinierten Bereitstellungskanals
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -21,7 +22,6 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individu
 >* Zusätzlich zur Einrichtung Ihres SMTP-Servers muss Ihr [E-Mail-Identität muss überprüft werden](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) bevor Sie E-Mails versenden können.
 >* Wir empfehlen, mit Ihrem IT-Team oder SMTP-Serveranbieter zusammenzuarbeiten, um die richtigen Serverberechtigungen für Ihren SMTP-Server zu erhalten.
 >* Sie können Ihren Gmail- und Exchange-Server nicht mit den SMTP-Server-Anmeldedaten verbinden. Bitte nutzen Sie unseren Email Connection-Dienst, um sich mit diesen Anbietern zu integrieren.
-
 
 ## Benutzerdefiniertes SMTP {#custom-smtp}
 
@@ -96,4 +96,3 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individu
    >* [E-Mail-Verbindung für Gmail-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
    >* [E-Mail-Verbindung für Outlook-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

@@ -2,9 +2,10 @@
 description: Verwenden der Dokumentkarte - Marketo-Dokumente - Produktdokumentation
 title: Verwenden der Dokumentkarte
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und die Aktivität von Besuchern zur Dokumenteninteraktion verfolgen. So richten Sie es ein.
 
-1. Navigieren Sie zu [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}.
+1. Navigieren Sie zu [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
 1. Klicken **Get Credentials**.
 
@@ -35,7 +36,7 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und di
 
    ![](assets/using-the-document-card-4.png)
 
-1. Klicken Sie im dynamischen Chat auf **Integrationen**. Klicken Sie auf der Adobe PDF Embed API-Karte auf **Aktivieren**.
+1. Zurück in Dynamic Chat, klicken Sie auf **Integrationen**. Klicken Sie auf der Adobe PDF Embed API-Karte auf **Aktivieren**.
 
    ![](assets/using-the-document-card-5.png)
 

@@ -3,10 +3,11 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Produktdokumentation
 title: Schrittweises Lead-Nurturing
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -20,7 +21,6 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
 >
 >* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 ## Schritt 1: Erstellen eines Interaktionsprogramms {#step-create-an-engagement-program}
 
@@ -60,7 +60,7 @@ Sie können einfach ein fortschrittliches und hoch entwickeltes Pflegesystem in 
    >
    >Siehst du den E-Mail-Editor nicht? Das Fenster wurde möglicherweise durch Ihren Browser gesperrt. Popups aktivieren von `app.marketo.com` in Ihrem Browser und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]** in der oberen Menüleiste.
 
-1. Geben Sie einen Betreff ein.
+1. Betreff eingeben.
 
    ![](assets/drip-drip-nurture-8.png)
 

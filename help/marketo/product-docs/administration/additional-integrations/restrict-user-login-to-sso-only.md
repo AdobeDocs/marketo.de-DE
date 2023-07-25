@@ -3,7 +3,8 @@ unique-page-id: 2360358
 description: Einschränken der Benutzeranmeldung auf "Nur SSO"- Marketo-Dokumente - Produktdokumentation
 title: Benutzeranmeldung auf SSO beschränken
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 7%
@@ -57,4 +58,3 @@ Das ist es! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Berecht
 >* [Single Sign-On zu einem Portal hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Verwendung einer universellen ID zur Anmeldung von Abonnements](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
-

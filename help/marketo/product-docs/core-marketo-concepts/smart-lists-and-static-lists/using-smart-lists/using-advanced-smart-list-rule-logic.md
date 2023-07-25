@@ -3,7 +3,8 @@ unique-page-id: 1146901
 description: Verwenden der erweiterten Smart-List-Regellogik - Marketo-Dokumente - Produktdokumentation
 title: Verwenden der erweiterten Smart-List-Regellogik
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Sie können genau die Personen finden, die Sie benötigen, indem Sie die Logik v
 >
 >* [Suchen und Hinzufügen von Filtern zu einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [Definieren von Smart-List-Filtern](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
 
 >[!NOTE]
 >

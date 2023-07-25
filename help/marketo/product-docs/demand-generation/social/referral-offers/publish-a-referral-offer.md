@@ -3,7 +3,8 @@ unique-page-id: 2359845
 description: Veröffentlichen eines Verweisangebots - Marketo Docs - Produktdokumentation
 title: Veröffentlichen eines Verweisangebots
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Nach [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generat
 >
 >Sie müssen Ihr Verweisangebot validieren, um es hier verfügbar zu machen.
 
-Herzlichen Glückwunsch!  Validieren Sie die Landingpage und Ihr Verweisangebot ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Angebote auf Ihrer Website platzieren](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Verweisangebot ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Angebote auf Ihrer Website platzieren](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

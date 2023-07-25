@@ -3,7 +3,8 @@ unique-page-id: 10097613
 description: Benutzerdefinierte Marketo-Objektverknüpfungsfelder hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Marketo-Objektverknüpfungsfelder hinzufügen
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 1%
@@ -133,4 +134,3 @@ Der nächste Schritt besteht darin, diese benutzerdefinierten Objekte in Filtern
 >* [Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Grundlegendes zu benutzerdefinierten Marketo-Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
-

@@ -2,7 +2,8 @@
 description: Senden von E-Mails per Gruppenemail - Marketo-Dokumente - Produktdokumentation
 title: Senden von E-Mails über Gruppen-E-Mails
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -55,4 +56,3 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 >
 >* [Massensendeoptionen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
 >* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 1147051
 description: Checkliste für intelligente Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für intelligente Kampagnen
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 1%

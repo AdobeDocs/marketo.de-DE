@@ -2,7 +2,8 @@
 description: Gewähren von Marketo-Zugriff für Benutzer - Marketo Docs - Produktdokumentation
 title: Marketo-Zugriff für Benutzer gewähren
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%

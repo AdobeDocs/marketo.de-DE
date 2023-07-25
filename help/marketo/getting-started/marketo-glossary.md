@@ -3,7 +3,8 @@ unique-page-id: 12980733
 description: Marketo-Glossar - Marketo-Dokumente - Produktdokumentation
 title: Marketo-Glossar
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -754,7 +755,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Eines der wichtigsten Tools in Marketo. Sie führen Aktionen durch, die Sie anhand von von Ihnen festgelegten Kriterien festlegen. (siehe auch <strong><a href="#b">Batch-Kampagne</a></strong> und <strong><a href="#t">Trigger Campaign</a></strong>)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Smart List</strong></td> 
+   <td colspan="1"><strong>Intelligente Liste</strong></td> 
    <td colspan="1">(siehe <a href="#l"><strong>Liste</strong></a>)</td> 
   </tr> 
   <tr> 

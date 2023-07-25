@@ -2,9 +2,10 @@
 description: Verstehen des Zieltrackings und der geplanten Registrierungen - Marketo-Dokumente - Produktdokumentation
 title: Verstehen des Zieltrackings und der geplanten Registrierungen
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Hier erfahren Sie, wie Sie den Zielfortschritt verfolgen und die Prognosen von M
 
 >[!PREREQUISITES]
 >
->Um auf die meisten dieser Funktionen zugreifen zu können, müssen Sie die [Umschalter der nächsten Generation](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} für Ereignisprogramme.
+>Um auf die meisten dieser Funktionen zugreifen zu können, müssen Sie die [Umschalter der nächsten Generation](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} für Veranstaltungsprogramme.
 
 >[!NOTE]
 >
@@ -64,7 +65,7 @@ Bei der Berechnung ähnlicher Programme werden unter anderem folgende Faktoren b
 * Zeitdauer von der Ereigniserstellung bis zum Ereignisstart
 * Ereignisdauer
 
-   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
+  ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Empfehlungen
 

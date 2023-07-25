@@ -2,7 +2,8 @@
 description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -68,7 +69,6 @@ Damit der Chat-Bot auf Ihrer Website angezeigt wird, müssen Sie zunächst das D
 >* `*.adoberesources.net`
 >* `*.adobe.io`
 >* `*.typekit.net`
-
 
 >[!NOTE]
 >

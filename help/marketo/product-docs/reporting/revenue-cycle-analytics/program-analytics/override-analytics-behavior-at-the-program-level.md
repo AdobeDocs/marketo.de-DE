@@ -3,7 +3,8 @@ unique-page-id: 2360421
 description: Analytics-Verhalten auf Programmebene außer Kraft setzen - Marketo Docs - Produktdokumentation
 title: Analytics-Verhalten auf Programmebene überschreiben
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -34,7 +35,6 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
    >
    >* **Inklusiv** - Mit dieser Option wird sichergestellt, dass das Programm für Berichte in Umsatz-Explorer und Analyzern verfügbar ist, unabhängig davon, ob Sie Kosten für einen Zeitraum einbezogen haben oder nicht.
    >* **Betrieb** - Diese Option führt dazu, dass das Programm weder im Umsatz-Explorer noch in Analyzern angezeigt wird.
-
 
    >[!NOTE]
    >

@@ -3,7 +3,8 @@ unique-page-id: 4719093
 description: Web-Segmente - Marketo-Dokumente - Produktdokumentation
 title: Websegmente
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 6%
@@ -107,28 +108,23 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 >1. Alle Filter verwenden (1 und 2 und 3...)
 >1. Verwenden Sie beliebige Filter (1, 2 oder 3...)
 >1. Erweiterte Filter (mit - und / oder -Ausdrücken)
-
-   >
-   >    Mithilfe erweiterter Filter können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch „und“ und „oder“ ein.
-   >
-   >    * 1 und 2 und 3
-   >    * 1 oder 2 oder 3
-
-   >
-   >    Beim Kombinieren von „und“ und „oder“ sind Klammern erforderlich, um die Logik zu klären. beispielsweise muss &quot;1 oder 2 und 3&quot; wie folgt geschrieben werden:
-   >
-   >    * 1 und (2 oder 3)
-   >    * (1 und 2) oder 3
-
-   >
-   >    Für eine kompliziertere Logik sind auch verschachtelte Klammern erlaubt, z. B. 
-   >
-   >    * (1 und 2) oder (3 und 4)
-   >    * 1 und (2 oder (3 und 4))
-
-   >
-   >    Überprüfen Sie nach jedem Einfügen, Löschen oder Neuordnen Ihre Logik.
-
+>
+>    Mithilfe erweiterter Filter können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch „und“ und „oder“ ein.
+>
+>    * 1 und 2 und 3
+>    * 1 oder 2 oder 3
+>
+>    Beim Kombinieren von „und“ und „oder“ sind Klammern erforderlich, um die Logik zu klären. beispielsweise muss &quot;1 oder 2 und 3&quot; wie folgt geschrieben werden:
+>
+>    * 1 und (2 oder 3)
+>    * (1 und 2) oder 3
+>
+>    Für eine kompliziertere Logik sind auch verschachtelte Klammern erlaubt, z. B. 
+>
+>    * (1 und 2) oder (3 und 4)
+>    * 1 und (2 oder (3 und 4))
+>
+>    Überprüfen Sie nach jedem Einfügen, Löschen oder Neuordnen Ihre Logik.
 
 Ziehen Sie Segmentattribute aus der rechten Spalte in den Segmenteditor auf der linken Seite:
 
@@ -153,7 +149,7 @@ Nachdem das Land hinzugefügt wurde, können Sie auch das Bundesland, die Stadt 
 
 >[!TIP]
 >
->**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert in jedem Feld als zusätzliche Option. Die Aussichten müssen nur ein Kriterium der in jedem Feld ausgewählten Kriterien erfüllen, um für das Segment qualifiziert zu sein. (Zum Beispiel können potenzielle Kunden aus den USA kommen. *oder* der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Zum Beispiel müssen die Aussichten sowohl aus den USA als auch aus der Verteidigungsindustrie stammen.) In jedem Segmentierungsprofil kann jedes separate Feld je nach ausgewählter Segmentbedingung entweder als &quot;AND&quot;oder als &quot;OR&quot;funktionieren.
+>**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert in jedem Feld als zusätzliche Option. Die Aussichten müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in jedem Feld ausgewählt wurden, um für das Segment qualifiziert zu sein. (Zum Beispiel können potenzielle Kunden aus den USA kommen. *oder* der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Zum Beispiel müssen die Aussichten sowohl aus den USA als auch aus der Verteidigungsindustrie stammen.) In jedem Segmentierungsprofil kann jedes separate Feld je nach ausgewählter Segmentbedingung entweder als &quot;AND&quot;oder als &quot;OR&quot;funktionieren.
 
 **Branchen** Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästchen neben **Branche**.
 
@@ -267,8 +263,7 @@ Ziehen Sie das mobile Betriebssystem in den Segmenteditor.
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Besuchertyp**<br />
-
-   **Mobilbetriebssystem** - Wählen Sie aus dem Dropdown-Feld ein oder mehrere aufgelistete mobile Betriebssysteme aus. Das ausgewählte mobile Betriebssystem wird unten angezeigt.
+  **Mobilbetriebssystem** - Wählen Sie aus dem Dropdown-Feld ein oder mehrere aufgelistete mobile Betriebssysteme aus. Das ausgewählte mobile Betriebssystem wird unten angezeigt.
 
    * Der Besucher verwendet ein beliebiges Mobilgerät
    * Der Besucher verwendet dieses spezifische Gerät/Betriebssystem.
@@ -329,4 +324,3 @@ Sehr gut! Nachdem Sie nun den Abschnitt Segmente verstanden haben, sollten wir u
 >* [Erstellen einer neuen Web-Kampagne für Dialogfelder](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Erstellen einer neuen Web-Kampagne in Zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Erstellen einer neuen Widget-Webkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

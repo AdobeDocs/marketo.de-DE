@@ -3,7 +3,8 @@ unique-page-id: 2359553
 description: E-Mail-Champion/Challenger hinzufügen - Marketo Docs - Produktdokumentation
 title: E-Mail-Champion/Challenger hinzufügen
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,7 +23,6 @@ Hier ist der Anfang.
 >
 >* [Programm erstellen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
 
 >[!CAUTION]
 >
@@ -51,4 +51,3 @@ Hier ist der Anfang.
    >* [Champion/Challenger: Gesamte E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
    >* [Champion/Challenger: Betreff](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
    >* [Champion/Challenger: Von Adresse](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
-

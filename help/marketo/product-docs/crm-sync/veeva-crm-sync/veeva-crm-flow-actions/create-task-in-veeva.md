@@ -2,9 +2,10 @@
 description: Aufgabe in Veeva erstellen - Marketo-Dokumente - Produktdokumentation
 title: Aufgabe erstellen in Veeva
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
-source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -29,4 +30,4 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im Betreff und in der Beschreibung. Siehe [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target=&quot;_blank&quot;} für weitere Details.
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im Betreff und in der Beschreibung. Siehe [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für weitere Details.

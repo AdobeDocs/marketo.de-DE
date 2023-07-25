@@ -3,7 +3,8 @@ unique-page-id: 10092969
 description: Microsoft Dynamics-Synchronisierungsfilter - Zusammenführen - Marketo-Dokumente - Produktdokumentation
 title: Microsoft Dynamics-Synchronisierungsfilter - Zusammenführen
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -21,6 +22,6 @@ Wenn ein Datensatz wahr ist und einer falsch ist, wird er schwierig.
 | Wenn der Synchronisierungsfilter für den verlorenen Datensatz: | und der Synchronisierungsfilter für den Gewinnerdatensatz lautet: | Dies führt zu Marketo |
 |---|---|---|
 | True | True | Der erfolgreichste Rekord wird weiterhin mit Marketo synchronisiert |
-| False | False | Der Sieger setzt sich weiter fort **not** Synchronisierung mit Marketo |
-| False | True | Der erfolgreichste Datensatz wird mit Marketo synchronisiert. |
-| True | False | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert |
+| Falsch | Falsch | Der Sieger setzt sich weiter fort **not** Synchronisierung mit Marketo |
+| Falsch | True | Der erfolgreichste Datensatz wird mit Marketo synchronisiert. |
+| True | Falsch | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert |

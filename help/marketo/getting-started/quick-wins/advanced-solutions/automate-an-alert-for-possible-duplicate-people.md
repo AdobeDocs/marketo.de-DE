@@ -3,7 +3,8 @@ unique-page-id: 7513680
 description: Warnhinweis für mögliche doppelte Personen automatisieren - Marketo-Dokumente - Produktdokumentation
 title: Warnhinweis für mögliche doppelte Personen automatisieren
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -19,11 +20,11 @@ Möchten Sie jedes Mal, wenn eine doppelte Person erstellt wird, einen Warnhinwe
 * Trigger: **[!UICONTROL Person wird erstellt]**
 * Filter: **[!UICONTROL Felder duplizieren]**. Feldname **[!UICONTROL is] [!UICONTROL Vollständiger Name]**
 
-   ![](assets/automate-an-alert-1.png)
+  ![](assets/automate-an-alert-1.png)
 
-   >[!TIP]
-   >
-   >Sei kreativ! Experimentieren Sie mit verschiedenen Feldern, um bessere Ergebnisse zu erzielen.
+  >[!TIP]
+  >
+  >Sei kreativ! Experimentieren Sie mit verschiedenen Feldern, um bessere Ergebnisse zu erzielen.
 
 1. Wählen Sie im Flussschritt [[!UICONTROL Warnhinweis senden]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} Flussaktion.
 

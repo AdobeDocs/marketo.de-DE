@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: "Nächste Generation [!DNL Munchkin] Häufig gestellte Fragen zum Tracking - Marketo-Dokumente - Produktdokumentation"
 title: "Nächste Generation [!DNL Munchkin] Tracking-FAQs"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 >* Sie haben einen interessanten Moment für sie protokolliert (mit dem Datum, an dem sie die Seite tatsächlich besucht hat, nicht, an dem sie bekannt wurde).
 >
 >* Lassen Sie die Aktivität &quot;Neue Person&quot;wie heute protokolliert.
-
 
 ## Was passiert mit meinen Smart-Listen, die bereits den Filter &quot;Ist anonym&quot;haben? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

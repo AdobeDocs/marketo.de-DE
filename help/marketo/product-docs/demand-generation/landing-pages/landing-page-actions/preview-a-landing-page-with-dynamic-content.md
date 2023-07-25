@@ -3,7 +3,8 @@ unique-page-id: 2359734
 description: Vorschau einer Landingpage mit dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
 title: Vorschau einer Landingpage mit dynamischem Inhalt
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 1%
@@ -18,7 +19,6 @@ Zeigen Sie nach dem Hinzufügen von dynamischem Inhalt eine Vorschau Ihrer Landi
 >
 >* [Dynamische Inhalte in einer Landingpage verwenden](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Vorschau einer Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-
 
 1. Wählen Sie eine Landingpage aus und klicken Sie auf **Vorschau der Seite**.
 

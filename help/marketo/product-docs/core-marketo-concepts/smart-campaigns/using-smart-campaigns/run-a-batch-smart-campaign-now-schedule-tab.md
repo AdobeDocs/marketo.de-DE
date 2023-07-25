@@ -3,7 +3,8 @@ unique-page-id: 1146933
 description: Durchführen einer Batch-Smart-Kampagne jetzt | Registerkarte "Zeitplan"- Marketo-Dokumente - Produktdokumentation
 title: Durchführen einer Batch-Smart-Kampagne jetzt | Registerkarte "Planung"
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -32,4 +33,3 @@ Nachdem Sie die Erstellung Ihrer Batch-Kampagne abgeschlossen haben, können Sie
    >
    >* [Planen einer späteren Ausführung einer Smart-Batch-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
    >* [Wiederkehrende Batch-Kampagne planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
-

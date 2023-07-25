@@ -3,7 +3,8 @@ unique-page-id: 2359466
 description: Bearbeiten von Snippets mit dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
 title: Bearbeiten von Snippets mit dynamischen Inhalten
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Erstellen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Snippet erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 Verwenden Sie die Segmentierung in Snippets, um dynamische Inhalte in E-Mails und Landingpages einfach zu verwalten.
 
@@ -54,4 +54,3 @@ War das nicht einfach? Sie sind nun alle so eingestellt, dass diese Snippets in 
 >
 >* [Hinzufügen eines Snippets zu einer E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Hinzufügen eines Snippets zu einer Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-

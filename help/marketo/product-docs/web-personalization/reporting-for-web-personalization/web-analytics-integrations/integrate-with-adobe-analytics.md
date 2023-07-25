@@ -3,7 +3,8 @@ unique-page-id: 2949160
 description: Integration mit Adobe Analytics - Marketo Docs - Produktdokumentation
 title: Integration mit Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -79,7 +80,6 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
       1. Ändern Sie das Feld Ablauf nach in **Besuch**.
 
-
 1. under **Einstellungen bearbeiten** gehen Sie zu **Konversion** und wählen Sie **[Erfolgsereignisse](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Wählen Sie die Ereignisnummer für benutzerspezifische Erfolgsereignisse aus (wir empfehlen):
@@ -92,9 +92,8 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
       >Wenn diese Anzahl angenommen wird, wählen Sie eine andere verfügbare Zahl aus. Richten Sie diese Zahl an der Steckplatznummer in den RTP-Kontoeinstellungen aus.
 
       1. Ändern Sie die beiden Ereignisnamen in **RTP-Kampagnen** und **RTP-Segmente**. Dies ist der Name, der in der Report Suite angezeigt wird.
+
    1. Wählen Sie das Feld Typ aus, das **Zähler (keine Subrelationen)**
-
-
 
 1. under **Einstellungen bearbeiten** gehen Sie zu **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** und wählen Sie **[Traffic-Variablen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
@@ -110,11 +109,10 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
       >Wenn diese Anzahl angenommen wird, wählen Sie eine andere verfügbare Zahl aus. Stellen Sie diese Zahl mit der Nummer des Slots in den RTP-Kontoeinstellungen ein.)
 
       1. Ändern Sie die vier Eigenschaftsnamen. Dies ist der Name, der in der Report Suite angezeigt wird.
+
    1. Wählen Sie das Feld Aktiviert aus, um **Aktiviert**.
 
    1. Wählen Sie das Feld Pfadberichte aus **Aktiviert**.
-
-
 
 ## Einrichtung in Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 

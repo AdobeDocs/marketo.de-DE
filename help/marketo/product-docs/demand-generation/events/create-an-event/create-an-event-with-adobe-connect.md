@@ -3,7 +3,8 @@ unique-page-id: 2949865
 description: Erstellen eines Ereignisses mit Adobe Connect - Marketo Docs - Produktdokumentation
 title: Erstellen eines Ereignisses mit Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Durch die Synchronisierung mit Adobe Connect können Sie Ihre Webinarregistrieru
 >
 >* [Verknüpfen von Adobe Connect und Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Neues Ereignisprogramm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
-
 
 Stellen Sie zunächst sicher, dass Sie Ihr Meeting oder Seminar in Adobe Connect erstellt haben. Wenn Sie Hilfe benötigen, sehen Sie sich die [Adobe Connect-Benutzerhandbuch](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
@@ -80,4 +80,3 @@ Die in Adobe Connect erstellten Meetings und Seminare müssen in dem Ordner erst
    >
    >* [Hinzufügen von Adobe Connect als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Bearbeiten eines Ereigniskanals](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 8783146
 description: Hinzufügen eines neuen Testgeräts - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines neuen Testgeräts
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%

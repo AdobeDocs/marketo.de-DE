@@ -2,7 +2,8 @@
 description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über die Funktionen von Sales Insight-Aktionen
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 1%
@@ -130,7 +131,7 @@ Die folgenden Massenaktionen sind in der Dropdown-Liste auf der Registerkarte Be
 * Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte E-Mails mit Ansicht-, Klick- und Antworttracking zu senden
 * Verkaufskampagne senden - Fügen Sie Leads zu Verkaufsbüchern hinzu, die eine Folge von E-Mails und Aufgaben sind.
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Registerkarte Beste Betas verfügbar:
 
@@ -139,7 +140,7 @@ Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Register
 * Vertriebspartner - Verkaufen Sie über den im CRM-System verfügbaren Dialer Verkaufsanrufe.
 * Aufgabe hinzufügen - Erstellen von E-Mail-, Aufruf-, Kunden- oder LinkedIn-Aufgaben für potenzielle Leads
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **E-Mail-Tab**
 
@@ -160,7 +161,7 @@ Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Register
 * Synchronisieren von Aufgaben mit Salesforce
 * Protokollaufgaben im Abschnitt &quot;Salesforce-Aktivitätsverlauf&quot;
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Live-Feed**
 
@@ -189,4 +190,4 @@ Zu den Filtern und Triggern gehören:
 * Zur Vertriebskampagne hinzugefügt
 * Aus Verkaufskampagne entfernt
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

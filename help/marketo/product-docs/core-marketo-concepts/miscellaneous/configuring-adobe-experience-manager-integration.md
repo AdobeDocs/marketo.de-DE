@@ -5,7 +5,8 @@ title: Konfigurieren der Adobe Experience Manager-Integration
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -25,7 +26,6 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 >* Diese Integration funktioniert nur mit On-Premise-Implementierungen von AEM und wird nicht für AEM Cloud Service-Implementierungen unterstützt.
 >
 >* Diese Funktion wird derzeit nur in Firefox vollständig unterstützt. Sie wird in Safari nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von Chrome, je nach Ihren SameSite-Cookie-Einstellungen.
-
 
 1. Navigieren Sie zur Adobe Experience Manager (die URL ist unternehmensspezifisch).
 

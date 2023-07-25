@@ -3,7 +3,8 @@ unique-page-id: 2359416
 description: Automatische E-Mail-Antwort - Marketo-Dokumente - Produktdokumentation
 title: Automatische Antwort-E-Mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 15%
@@ -18,7 +19,6 @@ ht-degree: 15%
 >
 >* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
-
 
 ## Schritt 1: E-Mail erstellen {#step-create-an-email}
 

@@ -2,16 +2,17 @@
 description: Einrichten von reCAPTCHA v3 - Marketo Docs - Produktdokumentation
 title: Einrichten von reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
 
 # Einrichten von reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-ReCAPTCHA v3 ist ein reibungsloses Erlebnis, bei dem Formularübermittlungen basierend darauf bewertet werden, wie misstrauisch sie sind, ohne Text-, Bild- oder Schaltflächen-Herausforderungen zu verwenden. [Weitere Infos](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+ReCAPTCHA v3 ist ein reibungsloses Erlebnis, bei dem Formularübermittlungen basierend darauf bewertet werden, wie misstrauisch sie sind, ohne Text-, Bild- oder Schaltflächen-Herausforderungen zu verwenden. [Weitere Informationen](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
 ## Abrufen Ihres Rechenzentrums und Ihrer Munchkin-ID {#retrieve-your-data-center-and-munchkin-id}
 
@@ -33,7 +34,7 @@ Für Schritt 6 im unten stehenden Abschnitt zur Einrichtung von reCAPTCHA v3 ben
 
 Die folgenden Schritte werden außerhalb von Marketo ausgeführt.
 
-1. Navigieren Sie zu [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;} und klicken Sie auf die Admin Console v3.
+1. Navigieren Sie zu [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} und klicken Sie auf die Admin Console v3.
 
 1. Melden Sie sich mit einem Google-Konto an/melden Sie sich an.
 
@@ -67,7 +68,7 @@ Die folgenden Schritte werden außerhalb von Marketo ausgeführt.
 
 >[!IMPORTANT]
 >
->Nachdem Sie die folgenden Schritte ausgeführt haben und [CAPTCHA in Ihrem ersten Marketo-Formular aktivieren](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}, testen Sie das Formular sofort, da jede Art von Fehlkonfiguration in der reCAPTCHA-Einrichtung das Formular beschädigen kann.
+>Nachdem Sie die folgenden Schritte ausgeführt haben und [CAPTCHA in Ihrem ersten Marketo-Formular aktivieren](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}sollten Sie das Formular sofort testen, da jede Art von Fehlkonfiguration in der reCAPTCHA-Einrichtung das Formular beschädigen kann.
 
 1. Klicken Sie in Marketo auf **Admin**.
 

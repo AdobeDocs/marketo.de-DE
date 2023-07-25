@@ -3,7 +3,8 @@ unique-page-id: 4720108
 description: Aktivieren der Symbolleiste für Inhaltsempfehlungen - Marketo-Dokumente - Produktdokumentation
 title: Symbolleiste für Inhaltsempfehlung aktivieren
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,13 +20,12 @@ Die Content Recommendation Engine verwendet prädiktive Analyse- und maschinelle
 >Vor der Aktivierung des prädiktiven Inhalts müssen Sie:
 >
 >* **Predictive Content vorbereiten**
-   >
-   >   * [Predictive Content für E-Mails bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) oder
-   >   * [Predictive Content für Rich Media bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) oder
-   >   * [Prädiktive Inhalte für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
+>   * [Predictive Content für E-Mails bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) oder
+>   * [Predictive Content für Rich Media bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) oder
+>   * [Prädiktive Inhalte für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
 
 ## Symbolleiste für Inhaltsempfehlung aktivieren und anpassen {#enable-and-customize-the-content-recommendation-bar}
 
@@ -55,7 +55,6 @@ Die Content Recommendation Engine verwendet prädiktive Analyse- und maschinelle
    >* Semikolon als Trennzeichen verwenden
    >* Beispiel: /contact_us&#42;; &#42;action=logout&#42;
    >* Bei diesem Feld wird zwischen Groß- und Kleinschreibung unterschieden
-
 
 ## Überlegungen zur Empfehlungsleiste {#recommendation-bar-considerations}
 

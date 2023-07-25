@@ -3,7 +3,8 @@ unique-page-id: 2953120
 description: Smart-Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Smart-Kampagnen
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 4%
@@ -16,7 +17,7 @@ Wenn Marketo ein leistungsstarkes Auto ist, ist die intelligente Kampagne wirkli
 
 Die intelligente Kampagne umfasst drei Hauptbereiche: Die [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} Registerkarten.
 
-## Smart List {#smart-list}
+## Intelligente Liste {#smart-list}
 
 Die Smart-Liste beschreibt, wie Sie _who_ Sie möchten Ihr Targeting mit Ihrer Smart-Kampagne durchführen. Es verfügt über Filter und Trigger.
 

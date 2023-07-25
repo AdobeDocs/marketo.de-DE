@@ -2,7 +2,8 @@
 description: Funktionsweise des Standorttrackings - Marketo-Dokumente - Produktdokumentation
 title: Funktionsweise der Standortverfolgung
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

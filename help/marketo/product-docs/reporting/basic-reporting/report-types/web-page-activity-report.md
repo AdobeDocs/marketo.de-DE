@@ -3,7 +3,8 @@ unique-page-id: 2359971
 description: Webseitenaktivitätsbericht - Marketo-Dokumente - Produktdokumentation
 title: Webseitenaktivitätsbericht
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 3%
@@ -19,7 +20,6 @@ Sie können bekannte Personen oder anonyme Personen anzeigen lassen, aber nicht 
 >[!PREREQUISITES]
 >
 >* [Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-
 
 1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)und wählen Sie die **Webseitenaktivitätsbericht** [Berichtstyp](report-type-overview.md).
 
@@ -89,4 +89,3 @@ Sie können bekannte Personen oder anonyme Personen anzeigen lassen, aber nicht 
 >
 >* [Angezeigte Webseiten, Bericht zur Webseiten-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Personen oder anonyme Besucher in Webberichten anzeigen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-

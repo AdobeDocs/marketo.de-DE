@@ -3,7 +3,8 @@ unique-page-id: 10095358
 description: Anzeigen von Personen- und Kontoinformationen und -aktivitäten in Google Mail - Marketo Docs - Produktdokumentation
 title: Anzeigen von Personen- und Kontoinformationen und -aktivitäten in Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
-source-git-commit: 885957f654a627aeba321934d23c3f3f420aa149
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%

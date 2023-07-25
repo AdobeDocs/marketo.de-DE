@@ -3,7 +3,8 @@ unique-page-id: 2359540
 description: Kalenderereignis-ICS-Datei in eine Landingpage einschließen - Marketo Dokumente - Produktdokumentation
 title: Kalenderereignis-ICS-Datei in eine Landingpage einschließen
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -18,7 +19,6 @@ A **Kalenderdatei** Mit dem -Token können Sie einen Kalenderereignis-Link (.ics
 >
 >* [Erstellen einer Kalenderereignis-Datei (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-
 1. Klicken Sie in Ihrem Landingpage-Editor auf **{...}** , um ein Token einzufügen.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
@@ -30,7 +30,6 @@ A **Kalenderdatei** Mit dem -Token können Sie einen Kalenderereignis-Link (.ics
    >Die folgenden Token werden auf Landingpages nicht unterstützt:
    >
    >* member.webinar URL
-
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 

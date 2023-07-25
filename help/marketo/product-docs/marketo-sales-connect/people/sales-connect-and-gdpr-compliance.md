@@ -3,7 +3,8 @@ unique-page-id: 14745825
 description: Sales Connect und Einhaltung der DSGVO - Marketo-Dokumente - Produktdokumentation
 title: Sales Connect und Einhaltung der DSGVO
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 3%
@@ -148,7 +149,7 @@ Sie können Kontaktinformationen aus der Personendetailansicht exportieren. Beim
   <tr> 
    <td>Titel</td> 
    <td>Erstellt am</td> 
-   <td>Exportiert nach</td> 
+   <td>Exportzeitpunkt</td> 
   </tr> 
   <tr> 
    <td>E-Mail-ID</td> 

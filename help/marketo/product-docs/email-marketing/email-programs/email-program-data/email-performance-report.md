@@ -3,7 +3,8 @@ unique-page-id: 2359467
 description: E-Mail-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Leistungsbericht
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 3%
@@ -64,4 +65,3 @@ Im Allgemeinen versuchen wir, diese Statistiken mit gesundem Menschenverstand au
 >
 >* [Filtern von Assets in Campaign-E-Mail-Berichten](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Leistungsbericht von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-

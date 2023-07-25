@@ -3,7 +3,8 @@ unique-page-id: 2951056
 description: September 2013 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: September 2013 - Versionshinweise
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 11%

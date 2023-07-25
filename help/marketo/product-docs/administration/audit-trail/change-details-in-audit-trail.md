@@ -3,7 +3,8 @@ unique-page-id: 11379928
 description: Details im Audit-Protokoll ändern - Marketo-Dokumente - Produktdokumentation
 title: Details im Audit-Protokoll ändern
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 14%
@@ -136,7 +137,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Modul bearbeiten <code>"<module name>" <attribute></code> auf "value"</td> 
+   <td>Modul bearbeiten <module name><attribute> auf "value"</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -538,7 +539,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
    <td>n.z</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Landing Page-Vorlage</td> 
+   <td rowspan="8">Landingpage-Vorlage</td> 
    <td>Erstellen</td> 
    <td><p>Leer<br>oder<br>Aus "Asset Name"geklont</p></td> 
   </tr> 
@@ -641,7 +642,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
    <td>Zeigt eine Momentaufnahme des aktuellen Status an, einschließlich der Namen und Werte der einzelnen Flussschritte</td> 
   </tr> 
   <tr> 
-   <td rowspan="7">Smart List</td> 
+   <td rowspan="7">Intelligente Liste</td> 
    <td>Erstellen</td> 
    <td>Aus "Name der intelligenten Liste"geklont</td> 
   </tr> 

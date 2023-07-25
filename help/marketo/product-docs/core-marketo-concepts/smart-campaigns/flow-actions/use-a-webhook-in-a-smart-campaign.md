@@ -3,7 +3,8 @@ unique-page-id: 1147025
 description: Verwenden eines Webhooks in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Verwenden eines Webhooks in einer Smart-Kampagne
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 5%

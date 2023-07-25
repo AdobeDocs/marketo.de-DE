@@ -3,10 +3,11 @@ unique-page-id: 2359837
 description: Trigger und Filter für Social-Aktivitäten - Marketo-Dokumente - Produktdokumentation
 title: Trigger und Filter für Social-Aktivitäten
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 25%
+ht-degree: 28%
 
 ---
 
@@ -30,14 +31,14 @@ Social-Apps in Marketo verfügen über eigene spezielle Trigger und Filter.
 
    | Trigger/Filter | Social-Buttons | Umfragen | Videos | Empfehlungsangebote | Gewinnspiele |
    |---|---|---|---|---|---|
-   | Ziel in Empfehlung erreicht |  |  |  | ![(Häkchen)](assets/check.png) |  |
+   | Ziel in Empfehlung erreicht |  |  |  | ![(Häkchen)](assets/check.png) | |
    | Gibt Inhalt frei | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
    | Freigegebener Link angeklickt | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
-   | Disqualifiziert Gewinnspiele |  |  |  |  | ![(Häkchen)](assets/check.png) |
+   | von Gewinnspielen disqualifiziert |  |  |  |  | ![(Häkchen)](assets/check.png) |
    | Erhält Einträge in Social App |  |  |  |  | ![(Häkchen)](assets/check.png) |
    | Gibt Gewinnspiele ein |  |  |  |  | ![(Häkchen)](assets/check.png) |
    | Verweist auf Social App |  |  |  | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
-   | Anmelden für Verweisangebot |  |  |  | ![(Häkchen)](assets/check.png) |  |
+   | Registriert sich für Empfehlungsangebot |  |  |  | ![(Häkchen)](assets/check.png) |  |
    | Nimmt an Umfrage teil |  | ![(Häkchen)](assets/check.png) |  |  |  |
    | Gewinnt Gewinnspiele |  |  |  |  | ![(Häkchen)](assets/check.png) |
 

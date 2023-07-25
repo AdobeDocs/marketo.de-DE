@@ -2,7 +2,8 @@
 description: Versionshinweise - März 2023 - Marketo-Dokumente - Produktdokumentation
 title: März 2023 - Versionshinweise
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 7%
@@ -93,7 +94,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Dialoginteraktionsbericht für dynamischen Chat**: Bietet einen Überblick über die Interaktion im Dialog im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern, um eine bessere Sichtbarkeit für Benutzer zu erreichen.
+* **Dialog Interaktionsbericht für Dynamic Chat**: Bietet einen Überblick über die Interaktion im Dialog im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern, um eine bessere Sichtbarkeit für Benutzer zu erreichen.
 
 <table> 
   <tr> 
@@ -107,7 +108,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Rollen und Berechtigungen für dynamischen Chat**: Führt Rollen und Berechtigungen für den dynamischen Chat ein, damit Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
+* **Rollen und Berechtigungen für dynamischen Chat**: Führt Rollen und Berechtigungen für Dynamic Chat ein, sodass Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
 
 <table> 
   <tr> 
@@ -121,7 +122,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Chat als Programmkanal für dynamischen Chat**: Erstellt einen neuen &quot;Chat&quot;-Programmkanal zur Verfolgung des Programmfortschritts für Personen, die durch den dynamischen Chat erworben wurden. Beispielsweise verfügt ein Marketing-Experte über ein Programm, das mit einem dynamischen Chat-Dialogfeld verknüpft ist, um neue Leads zu erfassen. Sie können dieses Programm nun dem Chat-Kanal zuweisen, damit sie verfolgen können, wann Leads Mitglieder des Programms sind und wann sie erfolgreich waren.
+* **Chat als Programmkanal für Dynamic Chat**: Erstellt einen neuen &quot;Chat&quot;-Programmkanal zur Verfolgung des Programmfortschritts für durch Dynamic Chat erworbene Personen. Beispielsweise verfügt ein Marketing-Experte über ein Programm, das mit einem dynamischen Chat-Dialogfeld verknüpft ist, um neue Leads zu erfassen. Sie können dieses Programm nun dem Chat-Kanal zuweisen, damit sie verfolgen können, wann Leads Mitglieder des Programms sind und wann sie erfolgreich waren.
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Abgeleitete Attribute für dynamischen Chat**: Stellt sicher, dass die verwiesenen IP-Daten (Stadt, Bundesland, Land usw.) wird in den Personendatensatz für neue Personen geschrieben, die durch den dynamischen Chat erworben wurden.
+* **Abgeleitete Attribute für Dynamic Chat**: Stellt sicher, dass die verwiesenen IP-Daten (Stadt, Bundesland, Land usw.) wird in den Personendatensatz für neue Personen geschrieben, die durch Dynamic Chat erworben wurden.
 
 <table> 
   <tr> 
@@ -149,7 +150,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Zusätzliche Sprachunterstützung für dynamischen Chat**: Sie können jetzt aus neun unterstützten Sprachen wählen, in denen statische Dynamic Chat-Inhalte angezeigt werden sollen.
+* **Zusätzliche Sprachunterstützung für Dynamic Chat**: Sie können jetzt aus neun unterstützten Sprachen wählen, in denen statische Dynamic Chat-Inhalte angezeigt werden sollen.
 
 <table> 
   <tr> 
@@ -163,7 +164,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Wechseln zu Knoten in der Stream-Designer-Vorschau für dynamischen Chat**: Wechseln Sie im Vorschaufenster direkt zu einem Knoten im Stream-Designer.
+* **Wechseln zu Knoten in der Stream-Designer-Vorschau für Dynamic Chat**: Wechseln Sie im Vorschaufenster direkt zu einem Knoten im Stream-Designer.
 
 <table> 
   <tr> 

@@ -3,7 +3,8 @@ unique-page-id: 11384433
 description: Einrichten des Kontoteams - Marketo-Dokumente - Produktdokumentation
 title: Einrichten des Kontoteams
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -51,4 +52,3 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto
    >* Wenn mehrere CRM-Konten mit unterschiedlichen Kontoinhabern zu einem benannten Konto zusammengeführt werden, wählt Marketo einen &quot;Kontoinhaber&quot;aus und fügt andere Kontoinhaber als &quot;KontoCo-Inhaber&quot;hinzu.
    >
    >* Wenn ein CRM-Feld &quot;Rolle&quot;später umbenannt oder gelöscht wird, stoppt Marketo TAM die Synchronisierung der aktualisierten Werte, bis der Benutzer die Einrichtung in TAM manuell aktualisiert
-

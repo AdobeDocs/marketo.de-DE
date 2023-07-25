@@ -3,7 +3,8 @@ unique-page-id: 4718670
 description: Verwenden der Gate Stages des Umsatzmodells - Marketo Docs - Produktdokumentation
 title: Verwenden von Gate-Phasen für Umsatzmodelle
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -85,4 +86,3 @@ Herzlichen Glückwunsch! Jetzt verstehen Sie die wunderbare Welt der Gate Stages
 >* [Verwenden der Lagerbestandsstadien des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >* [Verwenden von SLA-Phasen für Umsatzmodelle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >* [Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
-

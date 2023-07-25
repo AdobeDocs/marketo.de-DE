@@ -2,7 +2,8 @@
 description: Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team - Marketo Docs - Produktdokumentation
 title: Einrichten eines benutzerdefinierten Bereitstellungskanals für Ihr Team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -20,7 +21,6 @@ ht-degree: 0%
 >* Zusätzlich zur Einrichtung Ihres SMTP-Servers muss Ihr [E-Mail-Identität muss überprüft werden](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) bevor Sie E-Mails versenden können.
 >* Wir empfehlen, mit Ihrem IT-Team oder SMTP-Serveranbieter zusammenzuarbeiten, um die richtigen Serverberechtigungen für Ihren SMTP-Server zu erhalten.
 >* Sie können Ihren Gmail- und Exchange-Server nicht mit den SMTP-Server-Anmeldedaten verbinden. Bitte nutzen Sie unseren Email Connection-Dienst, um sich mit diesen Anbietern zu integrieren.
-
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
@@ -46,4 +46,3 @@ ht-degree: 0%
    >
    >* [E-Mail-Verbindung für Gmail-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >* [E-Mail-Verbindung für Outlook-Benutzer](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2953419
 description: Verwenden des Rich-Text-Editors - Marketo-Dokumente - Produktdokumentation
 title: Verwenden des Rich-Text-Editors
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 4%
@@ -95,8 +96,8 @@ Hier finden Sie die Funktionen, die Sie in einem RTE finden.
 | ![--](assets/image2015-7-9-10-3a50-3a11.png) | Sonderzeichen | Willst du über Euro reden? Mathematisch? Sie haben 243 Möglichkeiten. |
 | ![--](assets/image2015-7-9-10-3a52-3a26.png) | Suchen und Ersetzen | Suchen und ändern Sie Dinge viel schneller als die Suche nach jeder Instanz selbst. |
 | ![--](assets/image2015-7-9-10-3a53-3a37.png) | Formatierung löschen | Kehren Sie Dinge auf den Standard zurück. |
-| ![--](assets/image2015-7-9-10-3a55-3a2.png) | Abbrechen | Drücken Sie den Knopf, um zu sagen: &quot;Macht nichts.&quot; |
-| ![--](assets/image2015-7-9-10-3a56-3a2.png) | Speichern | Drücken Sie die Taste, um zu sagen: &quot;OK, ich mag es.&quot; |
+| ![--](assets/image2015-7-9-10-3a55-3a2.png) | Cancel | Drücken Sie den Knopf, um zu sagen: &quot;Macht nichts.&quot; |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png) | Save | Drücken Sie die Taste, um zu sagen: &quot;OK, ich mag es.&quot; |
 
 >[!TIP]
 >

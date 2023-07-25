@@ -3,7 +3,8 @@ unique-page-id: 4719287
 description: Bearbeiten von anfänglichen Feldzuordnungen - Marketo-Dokumente - Produktdokumentation
 title: anfängliche Feldzuordnungen bearbeiten
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -66,4 +67,5 @@ Wenn Sie ähnlich benannte Felder auf dem Lead und Kontaktobjekt haben, ordnet M
 
    * Alle Änderungen der Zuordnung werden zurückgesetzt!
    * Durch das Zurücksetzen des Schemas werden nur Felder hinzugefügt, nicht entfernt (auch wenn Sie sie für den Synchronisierungsbenutzer ausblenden).
+
    ![](assets/image2014-12-9-13-3a32-3a8.png)

@@ -3,7 +3,8 @@ unique-page-id: 2359718
 description: Hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen einer Social-Schaltfläche zu einer Freiform-Landingpage
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 2%
@@ -50,7 +51,7 @@ ht-degree: 2%
 
    [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Platzieren Sie die Social-Schaltfläche auf Ihrer Website.](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
-Herzlichen Glückwunsch!  Sie haben Ihrer Landingpage eine Social -Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu validieren.
+Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Social -Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu validieren.
 
 >[!MORELIKETHIS]
 >
